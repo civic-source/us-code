@@ -1,24 +1,24 @@
 ---
-title: "Section 2279 - Outreach and assistance for socially disadvantaged farmers and ranchers"
+title: "Section 2279 - Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers"
 usc_title: 7
 usc_section: "2279"
 chapter: 55
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2279"
-generated_at: "2026-03-30T03:36:04.668Z"
+generated_at: "2026-03-30T03:37:54.874Z"
 status: "active"
 ---
 
-# § 2279. Outreach and assistance for socially disadvantaged farmers and ranchers
+# § 2279. Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers
 
 - **(a)**
-  - **(1)** The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers—
+  - **(1)** The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers and veteran farmers or ranchers—
     - **(A)** in owning and operating farms and ranches; and
     - **(B)** in participating equitably in the full range of agricultural programs offered by the Department.
   - **(2)** The outreach and technical assistance program under paragraph (1) shall be used exclusively—
     - **(A)** to enhance coordination of the outreach, technical assistance, and education efforts authorized under agriculture programs; and
     - **(B)** to assist the Secretary in—
-      - **(i)** reaching current and prospective socially disadvantaged farmers or ranchers in a linguistically appropriate manner; and
+      - **(i)** reaching current and prospective socially disadvantaged farmers or ranchers and veteran farmers or ranchers in a linguistically appropriate manner; and
       - **(ii)** improving the participation of those farmers and ranchers in Department programs, as reported under section 2279–1 of this title .
   - **(3)**
     - **(A)** The Secretary may make grants to, and enter into contracts and other agreements with, an eligible entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach and technical assistance under this subsection.
@@ -31,22 +31,24 @@ status: "active"
       - **(iv)** The problems and barriers identified by entities in trying to increase participation by current and prospective socially disadvantaged farmers or ranchers.
   - **(4)**
     - **(A)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
-      - **(i)** $15,000,000 for fiscal year 2009; and
-      - **(ii)** $20,000,000 for each of fiscal years 2010 through 2012.
+      - **(i)** $15,000,000 for fiscal year 2009;
+      - **(ii)** $20,000,000 for each of fiscal years 2010 through 2012; and
+      - **(iii)** $10,000,000 for each of fiscal years 2014 through 2018.
     - **(B)** There is authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2013.
     - **(C)** In addition to funds authorized to be appropriated under subparagraph (A) or (B), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
     - **(D)** Not more than 5 percent of the amounts made available under subparagraph (A) or (B) for a fiscal year may be used for expenses related to administering the program under this section.
+    - **(E)** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 - **(b)**
   - **(1)** The Secretary shall designate from existing Federal personnel resources in the county or region a qualified person who shall, in cooperation with the State cooperative extension services, implement the policies and programs established or modified in accordance with this section.
-  - **(2)** In counties or regions in which the number of socially disadvantaged farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
+  - **(2)** In counties or regions in which the number of socially disadvantaged farmers and ranchers or veteran farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
 - **(c)**
   - **(1)** Not later than September 30, 1992 , and every two years thereafter, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, regarding—
-    - **(A)** the efforts of the Secretary to enhance participation by members of socially disadvantaged groups in agricultural programs;
+    - **(A)** the efforts of the Secretary to enhance participation by veteran farmers or ranchers and members of socially disadvantaged groups in agricultural programs;
     - **(B)** the specific participation goals established for each agricultural program;
     - **(C)** the results achieved for each agricultural program; and
     - **(D)** the progress of the Department towards meeting each of the purposes described in paragraph (2)(C).
   - **(2)** In addition to the information specified in paragraph (1), the report required by paragraph (1) shall include—
-    - **(A)** a comparison of the participation goals and the actual participation rates of members of socially disadvantaged groups in each agricultural program;
+    - **(A)** a comparison of the participation goals and the actual participation rates of veteran farmers or ranchers and members of socially disadvantaged groups in each agricultural program;
     - **(B)** an analysis and explanation of the reasons for the success or failure of the Secretary to achieve the goals, and the overall purposes of this section;
     - **(C)** a listing, on a State-by-State and county-by-county basis, of—
       - **(i)** the amount of funds loaned to members of socially disadvantaged groups; and
@@ -79,8 +81,8 @@ status: "active"
   - **(4)** The term “Department” means the Department of Agriculture.
   - **(5)** The term “eligible entity” means any of the following:
     - **(A)** Any community-based organization, network, or coalition of community-based organizations that—
-      - **(i)** has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
-      - **(ii)** has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+      - **(i)** has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers and veteran farmers or ranchers;
+      - **(ii)** has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
       - **(iii)** does not engage in activities prohibited under section 501(c)(3) of title 26 .
     - **(B)** An 1890 institution or 1994 institution (as defined in section 7601 of this title ), including West Virginia State College.
     - **(C)** An Indian tribal community college or an Alaska Native cooperative college.
@@ -89,8 +91,12 @@ status: "active"
     - **(F)** An Indian tribe (as defined in section 450b of title 25 ) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
     - **(G)** An organization or institution that received funding under subsection (a) of this section before January 1, 1996 , but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
   - **(6)** The term “Secretary” means the Secretary of Agriculture.
+  - **(7)** The term “veteran farmer or rancher” means a farmer or rancher who has served in the Armed Forces (as defined in section 101(10) of title 38 ) and who—
+    - **(A)** has not operated a farm or ranch; or
+    - **(B)** has operated a farm or ranch for not more than 10 years.
 - **(f)**
 - **(g)**
   - **(1)** The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
   - **(2)** For those reservations that are located in more than one county, the Secretary, the relevant county offices and the tribe shall enter into a cooperative agreement to provide the services required by paragraph (1) that avoids duplication of effort.
 - **(h)** The Secretary shall ensure, to the maximum extent practicable, that the Census of Agriculture and studies carried out by the Economic Research Service accurately document the number, location, and economic contributions of socially disadvantaged farmers or ranchers in agricultural production.
+- **(i)** The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ( 7 U.S.C. 321 et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.

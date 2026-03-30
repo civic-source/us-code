@@ -3,9 +3,9 @@ title: "Section 2414 - Presidential findings and determinations"
 usc_title: 22
 usc_section: "2414"
 chapter: 32
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2414"
-generated_at: "2026-03-30T03:36:39.872Z"
+generated_at: "2026-03-30T03:38:22.240Z"
 status: "active"
 ---
 

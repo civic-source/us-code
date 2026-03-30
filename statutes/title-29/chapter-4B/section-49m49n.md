@@ -3,9 +3,9 @@ title: "Section 49m49n - Omitted"
 usc_title: 29
 usc_section: "49m49n"
 chapter: 4
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 49m49n"
-generated_at: "2026-03-30T03:36:46.359Z"
+generated_at: "2026-03-30T03:38:27.143Z"
 status: "omitted"
 ---
 

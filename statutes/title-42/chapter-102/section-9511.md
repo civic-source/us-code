@@ -3,9 +3,9 @@ title: "Section 9511 - Grants for sex offense prevention and control"
 usc_title: 42
 usc_section: "9511"
 chapter: 102
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 9511"
-generated_at: "2026-03-30T03:37:24.438Z"
+generated_at: "2026-03-30T03:39:06.380Z"
 status: "active"
 ---
 

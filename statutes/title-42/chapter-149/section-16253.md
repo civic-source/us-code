@@ -3,9 +3,9 @@ title: "Section 16253 - Small business bioproduct marketing and certification gr
 usc_title: 42
 usc_section: "16253"
 chapter: 149
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 16253"
-generated_at: "2026-03-30T03:37:24.628Z"
+generated_at: "2026-03-30T03:39:06.572Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
 - **(c)** A grant made under this section shall be used—
   - **(1)** to provide working capital for marketing of biobased products; and
   - **(2)** to provide for the certification of biobased products to—
-    - **(A)** qualify for the label described in section 8102(h)(1) of title 7 ; or
+    - **(A)** qualify for the label described in section 8102(b) of title 7 ; or
     - **(B)** meet other biobased standards determined appropriate by the Secretary.
 - **(d)**
   - **(1)** Grant recipients shall provide matching non-Federal funds equal to the amount of the grant received.

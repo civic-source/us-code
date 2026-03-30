@@ -3,9 +3,9 @@ title: "Section 698v - Findings and purposes"
 usc_title: 16
 usc_section: "698v"
 chapter: 6
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 698v"
-generated_at: "2026-03-30T03:36:30.147Z"
+generated_at: "2026-03-30T03:38:15.672Z"
 status: "active"
 ---
 

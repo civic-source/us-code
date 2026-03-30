@@ -3,9 +3,9 @@ title: "Section 147a147b - Transferred"
 usc_title: 7
 usc_section: "147a147b"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 147a147b"
-generated_at: "2026-03-30T03:36:04.571Z"
+generated_at: "2026-03-30T03:37:54.789Z"
 status: "transferred"
 ---
 

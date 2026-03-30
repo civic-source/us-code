@@ -3,9 +3,9 @@ title: "Section 1587 - Employees of nonappropriated fund instrumentalities: repr
 usc_title: 10
 usc_section: "1587"
 chapter: 81
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 1587"
-generated_at: "2026-03-30T03:36:02.484Z"
+generated_at: "2026-03-30T03:37:58.806Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(E)** a reinstatement, restoration, or reemployment;
     - **(F)** a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, or other action described in this paragraph; and
     - **(G)** any other significant change in duties or responsibilities that is inconsistent with the employee’s salary or grade level.
-- **(b)** Any civilian employee or member of the armed forces who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any nonappropriated fund instrumentality employee (or any applicant for a position as such an employee) as a reprisal for—
+- **(b)** Any civilian employee or member of the armed forces who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or fail to take a personnel action with respect to any nonappropriated fund instrumentality employee (or any applicant for a position as such an employee) as a reprisal for—
   - **(1)** a disclosure of information by such an employee or applicant which the employee or applicant reasonably believes evidences—
     - **(A)** a violation of any law, rule, or regulation; or
     - **(B)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;

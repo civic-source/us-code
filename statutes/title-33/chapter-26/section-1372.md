@@ -3,9 +3,9 @@ title: "Section 1372 - Labor standards"
 usc_title: 33
 usc_section: "1372"
 chapter: 26
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 1372"
-generated_at: "2026-03-30T03:36:55.448Z"
+generated_at: "2026-03-30T03:38:40.722Z"
 status: "active"
 ---
 

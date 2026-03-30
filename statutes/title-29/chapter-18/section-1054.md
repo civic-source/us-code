@@ -3,9 +3,9 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-30T03:36:46.402Z"
+generated_at: "2026-03-30T03:38:27.182Z"
 status: "active"
 ---
 
@@ -167,7 +167,7 @@ status: "active"
     - **(B)** only repeals an amendment described in section 1082(d)(2) of this title ,
     - **(C)** is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26, or
     - **(D)** was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
-  - **(3)** This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title ) is less than 100 percent after taking into account the effect of the amendment.
+  - **(3)** This subsection shall apply only to plans (other than multiemployer plans or CSEC plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title ) is less than 100 percent after taking into account the effect of the amendment.
   - **(4)** For purposes of this subsection, the term “employer” has the meaning set forth in section 1082(b)(1) of this title , without regard to section 1082(b)(2) of this title .
 - **(j)**
   - **(1)** An applicable individual account plan shall meet the diversification requirements of paragraphs (2), (3), and (4).

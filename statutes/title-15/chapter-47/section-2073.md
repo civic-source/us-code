@@ -3,15 +3,15 @@ title: "Section 2073 - Additional enforcement of product safety rules and sectio
 usc_title: 15
 usc_section: "2073"
 chapter: 47
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 2073"
-generated_at: "2026-03-30T03:36:13.357Z"
+generated_at: "2026-03-30T03:38:06.065Z"
 status: "active"
 ---
 
 # § 2073. Additional enforcement of product safety rules and section 2064 orders
 
-- **(a)** Any interested person (including any individual or nonprofit, business, or other entity) may bring an action in any United States district court for the district in which the defendant is found or transacts business to enforce a consumer product safety rule or an order under section 2064 of this title , and to obtain appropriate injunctive relief. Not less than thirty days prior to the commencement of such action, such interested person shall give notice by registered mail to the Commission, to the Attorney General, and to the person against whom such action is directed. Such notice shall state the nature of the alleged violation of any such standard or order, the relief to be requested, and the court in which the action will be brought. No separate suit shall be brought under this section if at the time the suit is brought the same alleged violation is the subject of a pending civil or criminal action by the United States under this chapter. In any action under this section the court may in the interest of justice award the costs of suit, including reasonable attorneys’ fees (determined in accordance with section 2060(f) of this title ) and reasonable expert witnesses’ fees.
+- **(a)** Any interested person (including any individual or nonprofit, business, or other entity) may bring an action in any United States district court for the district in which the defendant is found or transacts business to enforce a consumer product safety rule or an order under section 2064 of this title , and to obtain appropriate injunctive relief. Not less than thirty days prior to the commencement of such action, such interested persons shall give notice by registered mail to the Commission, to the Attorney General, and to the person against whom such action is directed. Such notice shall state the nature of the alleged violation of any such standard or order, the relief to be requested, and the court in which the action will be brought. No separate suit shall be brought under this section if at the time the suit is brought the same alleged violation is the subject of a pending civil or criminal action by the United States under this chapter. In any action under this section the court may in the interest of justice award the costs of suit, including reasonable attorneys’ fees (determined in accordance with section 2060(f) of this title ) and reasonable expert witnesses’ fees.
 - **(b)**
   - **(1)** Except as provided in paragraph (5), the attorney general of a State, or other authorized State officer, alleging a violation of section 2068(a)(1), (2), (5), (6), (7), (9), or (12) of this title that affects or may affect such State or its residents may bring an action on behalf of the residents of the State in any United States district court for the district in which the defendant is found or transacts business to obtain appropriate injunctive relief.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 460b460c - Repealed. Pub. L. 85–767, § 2 [19, 21, 23, 33], Au
 usc_title: 16
 usc_section: "460b460c"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 460b460c"
-generated_at: "2026-03-30T03:36:30.075Z"
+generated_at: "2026-03-30T03:38:15.603Z"
 status: "repealed"
 ---
 

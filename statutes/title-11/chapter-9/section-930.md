@@ -3,9 +3,9 @@ title: "Section 930 - Dismissal"
 usc_title: 11
 usc_section: "930"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "11 U.S.C. § 930"
-generated_at: "2026-03-30T03:36:14.104Z"
+generated_at: "2026-03-30T03:38:01.289Z"
 status: "active"
 ---
 

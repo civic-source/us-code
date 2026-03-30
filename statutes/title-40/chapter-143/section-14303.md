@@ -3,9 +3,9 @@ title: "Section 14303 - Functions"
 usc_title: 40
 usc_section: "14303"
 chapter: 143
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "40 U.S.C. § 14303"
-generated_at: "2026-03-30T03:37:04.459Z"
+generated_at: "2026-03-30T03:38:44.862Z"
 status: "active"
 ---
 

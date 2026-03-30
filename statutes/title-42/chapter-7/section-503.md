@@ -3,9 +3,9 @@ title: "Section 503 - State laws"
 usc_title: 42
 usc_section: "503"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 503"
-generated_at: "2026-03-30T03:37:23.806Z"
+generated_at: "2026-03-30T03:39:05.765Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
     - **(C)** Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by the individual to the State supplemental nutrition assistance program benefits agency to which the uncollected overissuance is owed as repayment of the individual’s uncollected overissuance.
     - **(D)** A State supplemental nutrition assistance program benefits agency to which an uncollected overissuance is owed shall reimburse the State agency charged with the administration of the State unemployment compensation law for the administrative costs incurred by the State agency under this paragraph that are attributable to repayment of uncollected overissuance to the State supplemental nutrition assistance program benefits agency to which the uncollected overissuance is owed.
   - **(3)** Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he shall make no further certification to the Secretary of the Treasury with respect to such State.
-  - **(4)** For purposes of this subsection, the term “State supplemental nutrition assistance program benefits agency” means any agency described in section 3(t)(1) of the Food and Nutrition Act of 2008 [ 7 U.S.C. 2012(t)(1) ] which administers the supplemental nutrition assistance program established under such Act.
+  - **(4)** For purposes of this subsection, the term “State supplemental nutrition assistance program benefits agency” means any agency described in section 3(t)(1) of the Food and Nutrition Act of 2008 4 4 See References in Text note below. [now 7 U.S.C. 2012(s)(1) ] which administers the supplemental nutrition assistance program established under such Act.
 - **(e)**
   - **(1)** The State agency charged with the administration of the State law—
     - **(A)** shall disclose, upon request and on a reimbursable basis, directly to officers or employees of any State or local child support enforcement agency any wage information contained in the records of such State agency, and
@@ -68,7 +68,7 @@ status: "active"
       - **(iii)** shall deduct and withhold from any unemployment compensation otherwise payable to an individual—
         - **(I)** the amount specified by the individual to the State agency to be deducted and withheld under this clause,
         - **(II)** the amount (if any) determined pursuant to an agreement submitted to the State agency under section 654(19)(B)(i) of this title , or
-        - **(III)** any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) 4 4 See References in Text note below. of this title), and
+        - **(III)** any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) 4 of this title), and
       - **(iv)** shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
     - **(B)** For purposes of this paragraph, the term “unemployment compensation” means any compensation payable under the State law (including amounts payable pursuant to agreements under any Federal unemployment compensation law).
     - **(C)** Each State or local child support enforcement agency shall reimburse the State agency charged with the administration of the State unemployment compensation law for the administrative costs incurred by such State agency under this paragraph which are attributable to child support obligations being enforced by the State or local child support enforcement agency.

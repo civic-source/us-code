@@ -3,9 +3,9 @@ title: "Section 24 - Secretary of Senate or assistant secretary may administer o
 usc_title: 2
 usc_section: "24"
 chapter: 2
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 24"
-generated_at: "2026-03-30T03:35:51.691Z"
+generated_at: "2026-03-30T03:37:47.307Z"
 status: "active"
 ---
 

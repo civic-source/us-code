@@ -3,9 +3,9 @@ title: "Section 1736a - Administrative provisions"
 usc_title: 7
 usc_section: "1736a"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1736a"
-generated_at: "2026-03-30T03:36:04.629Z"
+generated_at: "2026-03-30T03:37:54.840Z"
 status: "active"
 ---
 
@@ -33,10 +33,8 @@ status: "active"
   - **(2)** Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or other similar provisions of law relating to the making or performance of Federal Government contracts, ocean transportation under subchapters III and III–A of this chapter may be procured on the basis of full and open competitive procedures. Resulting contracts may contain such terms and conditions as the Administrator determines are necessary and appropriate.
   - **(3)** Freight agents employed by the Agency for International Development under subchapters III and III–A of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
   - **(4)**
-    - **(A)** Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
-    - **(B)**
-      - **(i)** The Administrator may carry out assessments for the establishment of not less than 2 sites to determine the feasibility of, and costs associated with, using the sites to store and handle agricultural commodities for prepositioning in foreign countries.
-      - **(ii)** Based on the results of each assessment carried out under clause (i), the Administrator may establish additional sites for prepositioning in foreign countries.
+    - **(A)** Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+    - **(B)** The Administrator may establish additional sites for prepositioning in foreign countries or change the location of current sites for prepositioning in foreign countries after conducting, and based on the results of, assessments of need, the availability of appropriate technology for long-term storage, feasibility, and cost.
   - **(5)** Annual resource requests for ongoing nonemergency or ongoing multiyear agreements under subchapter III shall be finalized not later than October 1 of the fiscal year in which the agricultural commodities will be shipped under the agreement.
 - **(d)** In determining the timing of the shipment of agricultural commodities to be provided under this chapter, the Secretary or the Administrator, as appropriate, shall consider—
   - **(1)** the time of harvest of any competing commodities in the recipient country; and
@@ -49,10 +47,11 @@ status: "active"
     - **(A)** Not later than April 1 of each fiscal year, the Administrator and the Secretary shall jointly prepare and submit to the appropriate committees of Congress a report regarding each program and activity carried out under this chapter during the prior fiscal year.
     - **(B)** An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
       - **(i)** a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
-      - **(ii)** a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies);
-      - **(iii)** a statement describing the quantity of agricultural commodities made available to each country pursuant to—
-        - **(I)** section 1431(b) of this title ; and
-        - **(II)** the Food for Progress Act of 1985 ( 7 U.S.C. 1736 o );
+      - **(ii)** a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project and the activities carried out through such project;
+      - **(iii)** a statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
+        - **(I)** section 1431(b) of this title ;
+        - **(II)** the Food for Progress Act of 1985 ( 7 U.S.C. 1736 o ); and
+        - **(III)** the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736 o –1 of this title;
       - **(iv)** an assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States;
       - **(v)** a description of efforts undertaken by the Food Aid Consultative Group under section 1725 of this title to achieve an integrated and effective food assistance program;
       - **(vi)** an assessment of—

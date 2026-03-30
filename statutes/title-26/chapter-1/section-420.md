@@ -3,9 +3,9 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-30T03:36:52.280Z"
+generated_at: "2026-03-30T03:38:35.961Z"
 status: "active"
 ---
 
@@ -82,7 +82,7 @@ status: "active"
     - **(B)** 125 percent of the sum of the funding target and the target normal cost determined under section 430 for such plan year.
   - **(3)** The term “health benefits account” means an account established and maintained under section 401(h).
   - **(4)** The term “applicable life insurance account” means a separate account established and maintained for amounts transferred under this section for qualified current retiree liabilities based on premiums for applicable life insurance benefits.
-  - **(5)** In the case of a qualified transfer, any assets so transferred shall not, for purposes of this section and section 430, be treated as assets in the plan.
+  - **(5)** In the case of a qualified transfer, any assets so transferred shall not, for purposes of this section and sections 430 and 433, be treated as assets in the plan.
   - **(6)** In the case of a multiemployer plan, this section shall be applied to any such plan—
     - **(A)** by treating any reference in this section to an employer as a reference to all employers maintaining the plan (or, if appropriate, the plan sponsor), and
     - **(B)** in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.

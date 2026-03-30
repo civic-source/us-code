@@ -3,9 +3,9 @@ title: "Section 1707 - Counter-Drug Technology Assessment Center"
 usc_title: 21
 usc_section: "1707"
 chapter: 22
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 1707"
-generated_at: "2026-03-30T03:36:35.997Z"
+generated_at: "2026-03-30T03:38:19.584Z"
 status: "active"
 ---
 

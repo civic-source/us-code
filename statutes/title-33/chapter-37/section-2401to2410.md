@@ -3,9 +3,9 @@ title: "Section 2401to2410 - Repealed. Pub. L. 111–281, title X, § 1048 , Oct
 usc_title: 33
 usc_section: "2401to2410"
 chapter: 37
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 2401to2410"
-generated_at: "2026-03-30T03:36:55.466Z"
+generated_at: "2026-03-30T03:38:40.745Z"
 status: "repealed"
 ---
 

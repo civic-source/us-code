@@ -3,9 +3,9 @@ title: "Section 4155 - Effective date of standards"
 usc_title: 42
 usc_section: "4155"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4155"
-generated_at: "2026-03-30T03:37:24.228Z"
+generated_at: "2026-03-30T03:39:06.184Z"
 status: "active"
 ---
 

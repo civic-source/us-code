@@ -3,9 +3,9 @@ title: "Section 2564 - Departmental day care center facilities; establishment; f
 usc_title: 20
 usc_section: "2564"
 chapter: 45
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 2564"
-generated_at: "2026-03-30T03:36:22.858Z"
+generated_at: "2026-03-30T03:38:12.842Z"
 status: "active"
 ---
 

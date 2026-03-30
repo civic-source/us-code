@@ -3,9 +3,9 @@ title: "Section 1737 - John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
 usc_title: 7
 usc_section: "1737"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1737"
-generated_at: "2026-03-30T03:36:04.632Z"
+generated_at: "2026-03-30T03:37:54.841Z"
 status: "active"
 ---
 
@@ -67,11 +67,11 @@ status: "active"
       - **(ii)** help mitigate and alleviate hunger;
     - **(C)** to provide training to agricultural producers in those countries in groups to encourage participants to share and pass on to other agricultural producers in the home communities of the participants, the information and skills obtained from the training, rather than merely retaining the information and skills for the personal enrichment of the participants; and
     - **(D)** to maximize the number of beneficiaries of the programs in sub-Saharan African and Caribbean Basin countries.
-- **(d)** Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2012 to carry out this chapter shall be used to carry out programs under this section, with—
+- **(d)** Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018, to carry out this chapter shall be used to carry out programs under this section, with—
   - **(1)** not less than 0.2 percent to be used for programs in developing countries; and
   - **(2)** not less than 0.1 percent to be used for programs in sub-Saharan African and Caribbean Basin countries.
 - **(e)**
-  - **(1)** There are authorized to be appropriated for each of fiscal years 2008 through 2012 to carry out the programs under this section—
+  - **(1)** There are authorized to be appropriated for each of fiscal years 2008 through 2018 to carry out the programs under this section—
     - **(A)** $10,000,000 for sub-Saharan African and Caribbean Basin countries; and
     - **(B)** $5,000,000 for other developing or middle-income countries or emerging markets not described in subparagraph (A).
   - **(2)** Not more than 5 percent of the funds made available for a fiscal year under paragraph (1) may be used to pay administrative costs incurred in carrying out programs in sub-Saharan African and Caribbean Basin countries.

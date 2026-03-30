@@ -3,19 +3,13 @@ title: "Section 846 - Art. 46. Opportunity to obtain witnesses and other evidenc
 usc_title: 10
 usc_section: "846"
 chapter: 47
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 846"
-generated_at: "2026-03-30T03:36:02.449Z"
+generated_at: "2026-03-30T03:37:58.771Z"
 status: "active"
 ---
 
 # § 846. Art. 46. Opportunity to obtain witnesses and other evidence
 
-- **(a)** The trial counsel, the defense counsel, and the court-martial shall have equal opportunity to obtain witnesses and other evidence in accordance with such regulations as the President may prescribe.
-- **(b)**
-  - **(1)** Upon notice by trial counsel to defense counsel of the name of an alleged victim of an alleged sex-related offense who trial counsel intends to call to testify at a preliminary hearing under section 832 of this title (article 32) or a court-martial under this chapter, defense counsel shall make any request to interview the victim through trial counsel.
-  - **(2)** If requested by an alleged victim of an alleged sex-related offense who is subject to a request for interview under paragraph (1), any interview of the victim by defense counsel shall take place only in the presence of trial counsel, a counsel for the victim, or a Sexual Assault Victim Advocate.
-  - **(3)** In this subsection, the term “alleged sex-related offense” means any allegation of—
-    - **(A)** a violation of section 920, 920a, 920b, 920c, or 925 of this title (article 120, 120a, 120b, 120c, or 125); or
-    - **(B)** an attempt to commit an offense specified in a paragraph (1) as punishable under section 880 of this title (article 80).
-- **(c)** Process issued in court-martial cases to compel witnesses to appear and testify and to compel the production of other evidence shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue and shall run to any part of the United States, or the Commonwealths and possessions.
+The trial counsel, the defense counsel, and the court-martial shall have equal opportunity to obtain witnesses and other evidence in accordance with such regulations as the President may prescribe. Process issued in court-martial cases to compel witnesses to appear and testify and to compel the production of other evidence shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue and shall run to any part of the United States, or the Commonwealths and possessions.
+

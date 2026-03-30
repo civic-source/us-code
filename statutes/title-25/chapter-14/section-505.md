@@ -3,9 +3,9 @@ title: "Section 505 - Amendment or revocation of charters; suits by and against 
 usc_title: 25
 usc_section: "505"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 505"
-generated_at: "2026-03-30T03:36:34.715Z"
+generated_at: "2026-03-30T03:38:23.424Z"
 status: "active"
 ---
 

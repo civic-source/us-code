@@ -3,9 +3,9 @@ title: "Section 15512 - Establishment of State-based administrative complaint pr
 usc_title: 42
 usc_section: "15512"
 chapter: 146
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15512"
-generated_at: "2026-03-30T03:37:24.611Z"
+generated_at: "2026-03-30T03:39:06.553Z"
 status: "active"
 ---
 

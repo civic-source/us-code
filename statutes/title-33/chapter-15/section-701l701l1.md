@@ -3,9 +3,9 @@ title: "Section 701l701l1 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 
 usc_title: 33
 usc_section: "701l701l1"
 chapter: 15
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 701l701l1"
-generated_at: "2026-03-30T03:36:55.415Z"
+generated_at: "2026-03-30T03:38:40.678Z"
 status: "repealed"
 ---
 

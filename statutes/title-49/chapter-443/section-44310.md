@@ -3,13 +3,13 @@ title: "Section 44310 - Ending effective date"
 usc_title: 49
 usc_section: "44310"
 chapter: 443
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "49 U.S.C. § 44310"
-generated_at: "2026-03-30T03:37:32.466Z"
+generated_at: "2026-03-30T03:39:18.885Z"
 status: "active"
 ---
 
 # § 44310. Ending effective date
 
-- **(a)** The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after the date specified in section 106(3) of the Continuing Appropriations Act, 2014.
-- **(b)** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2018 .
+The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after the date specified in section 106(3) of the Continuing Appropriations Act, 2014.
+

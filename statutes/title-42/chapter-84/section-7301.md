@@ -3,9 +3,9 @@ title: "Section 7301 - Environmental impact statements"
 usc_title: 42
 usc_section: "7301"
 chapter: 84
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 7301"
-generated_at: "2026-03-30T03:37:24.357Z"
+generated_at: "2026-03-30T03:39:06.298Z"
 status: "active"
 ---
 

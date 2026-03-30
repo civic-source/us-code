@@ -3,9 +3,9 @@ title: "Section 3424 - Research, exploration, education, and technology programs
 usc_title: 33
 usc_section: "3424"
 chapter: 47
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 3424"
-generated_at: "2026-03-30T03:36:55.476Z"
+generated_at: "2026-03-30T03:38:40.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3333 - Drawback"
 usc_title: 19
 usc_section: "3333"
 chapter: 21
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "19 U.S.C. § 3333"
-generated_at: "2026-03-30T03:36:24.507Z"
+generated_at: "2026-03-30T03:38:10.972Z"
 status: "active"
 ---
 

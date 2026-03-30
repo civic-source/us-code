@@ -3,9 +3,9 @@ title: "Section 2353 - Special rules for career and technical education"
 usc_title: 20
 usc_section: "2353"
 chapter: 44
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 2353"
-generated_at: "2026-03-30T03:36:22.855Z"
+generated_at: "2026-03-30T03:38:12.840Z"
 status: "active"
 ---
 

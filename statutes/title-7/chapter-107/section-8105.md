@@ -3,9 +3,9 @@ title: "Section 8105 - Bioenergy program for advanced biofuels"
 usc_title: 7
 usc_section: "8105"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8105"
-generated_at: "2026-03-30T03:36:04.739Z"
+generated_at: "2026-03-30T03:37:54.937Z"
 status: "active"
 ---
 
@@ -26,7 +26,8 @@ status: "active"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
     - **(A)** $55,000,000 for fiscal year 2009;
     - **(B)** $55,000,000 for fiscal year 2010;
-    - **(C)** $85,000,000 for fiscal year 2011; and
-    - **(D)** $105,000,000 for fiscal year 2012.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
+    - **(C)** $85,000,000 for fiscal year 2011;
+    - **(D)** $105,000,000 for fiscal year 2012; and
+    - **(E)** $15,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
   - **(3)** Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.

@@ -3,9 +3,9 @@ title: "Section 1565b - Victims of sexual assault: access to legal assistance an
 usc_title: 10
 usc_section: "1565b"
 chapter: 80
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 1565b"
-generated_at: "2026-03-30T03:36:02.484Z"
+generated_at: "2026-03-30T03:37:58.805Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** A member of the armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
-    - **(A)** Legal assistance provided by military or civilian legal assistance counsel pursuant to sections 1044 and 1044e of this title.
+    - **(A)** Legal assistance provided by military or civilian legal assistance counsel pursuant to section 1044 of this title .
     - **(B)** Assistance provided by a Sexual Assault Response Coordinator.
     - **(C)** Assistance provided by a Sexual Assault Victim Advocate.
   - **(2)** A member of the armed forces or dependent who is the victim of sexual assault shall be informed of the availability of assistance under paragraph (1) as soon as the member or dependent seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, or a trial counsel. The member or dependent shall also be informed that the legal assistance and the services of a Sexual Assault Response Coordinator or a Sexual Assault Victim Advocate under paragraph (1) are optional and may be declined, in whole or in part, at any time.

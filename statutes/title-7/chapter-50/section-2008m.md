@@ -3,9 +3,9 @@ title: "Section 2008m - National Rural Development Partnership"
 usc_title: 7
 usc_section: "2008m"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2008m"
-generated_at: "2026-03-30T03:36:04.645Z"
+generated_at: "2026-03-30T03:37:54.853Z"
 status: "active"
 ---
 
@@ -79,9 +79,9 @@ status: "active"
     - **(B)** to reimburse the State rural development council for services provided to the Federal agency providing the funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance.
   - **(3)** The Secretary shall develop a plan to decrease, over time, the share of the Department of Agriculture of the cost of the core operations of State rural development councils.
 - **(g)**
-  - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
+  - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2018.
   - **(2)**
     - **(A)** Notwithstanding any other provision of law limiting the ability of an agency, along with other agencies, to provide funds to the Coordinating Committee or a State rural development council in order to carry out the purposes of this section, a Federal agency may make grants, gifts, or contributions to, provide technical assistance to, or enter into contracts or cooperative agreements with, the Coordinating Committee or a State rural development council.
     - **(B)** Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, the Coordinating Committee or a State rural development council, as described in subparagraph (A).
   - **(3)** The Coordinating Committee and a State rural development council may accept private contributions.
-- **(h)** The authority provided under this section shall terminate on September 30, 2012 .
+- **(h)** The authority provided under this section shall terminate on September 30, 2018 .

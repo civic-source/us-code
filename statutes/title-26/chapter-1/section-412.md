@@ -3,9 +3,9 @@ title: "Section 412 - Minimum funding standards"
 usc_title: 26
 usc_section: "412"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 412"
-generated_at: "2026-03-30T03:36:52.273Z"
+generated_at: "2026-03-30T03:38:35.950Z"
 status: "active"
 ---
 
@@ -14,21 +14,23 @@ status: "active"
 - **(a)**
   - **(1)** A plan to which this section applies shall satisfy the minimum funding standard applicable to the plan for any plan year.
   - **(2)** For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
-    - **(A)** in the case of a defined benefit plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
-    - **(B)** in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan, and
-    - **(C)** in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 431 as of the end of the plan year.
+    - **(A)** in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
+    - **(B)** in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
+    - **(C)** in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 431 as of the end of the plan year, and
+    - **(D)** in the case of a CSEC plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 433 as of the end of the plan year.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 430(j)) shall be paid by the employer responsible for making contributions to or under the plan.
+  - **(1)** Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 430(j) or under section 433(f)) shall be paid by the employer responsible for making contributions to or under the plan.
   - **(2)** If the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for payment of such contributions.
   - **(3)** Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 432. This paragraph shall only apply if the plan sponsor adopts a rehabilitation plan in accordance with section 432(e) and complies with such rehabilitation plan (and any modifications of the plan).
 - **(c)**
   - **(1)**
     - **(A)** If—
-      - **(i)** an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+      - **(i)** an employer is (or in the case of a multiemployer plan or a CSEC plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
       - **(ii)** application of the standard would be adverse to the interests of plan participants in the aggregate,
     - **(B)** If a waiver is granted under subparagraph (A) for any plan year—
-      - **(i)** in the case of a defined benefit plan which is not a multiemployer plan, the minimum required contribution under section 430 for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 430(e), and
-      - **(ii)** in the case of a multiemployer plan, the funding standard account shall be credited under section 431(b)(3)(C) with the amount of the waived funding deficiency and such amount shall be amortized as required under section 431(b)(2)(C).
+      - **(i)** in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the minimum required contribution under section 430 for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 430(e),
+      - **(ii)** in the case of a multiemployer plan, the funding standard account shall be credited under section 431(b)(3)(C) with the amount of the waived funding deficiency and such amount shall be amortized as required under section 431(b)(2)(C), and
+      - **(iii)** in the case of a CSEC plan, the funding standard account shall be credited under section 433(b)(3)(C) with the amount of the waived funding deficiency and such amount shall be amortized as required under section 433(b)(2)(C).
     - **(C)** The Secretary may not waive under subparagraph (A) any portion of the minimum funding standard under subsection (a) for a plan year which is attributable to any waived funding deficiency for any preceding plan year.
   - **(2)** For purposes of this subsection, the factors taken into account in determining temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) shall include (but shall not be limited to) whether or not—
     - **(A)** the employer is operating at an economic loss,
@@ -38,20 +40,21 @@ status: "active"
   - **(3)** For purposes of this section and part III of this subchapter, the term “waived funding deficiency” means the portion of the minimum funding standard under subsection (a) (determined without regard to the waiver) for a plan year waived by the Secretary and not satisfied by employer contributions.
   - **(4)**
     - **(A)**
-      - **(i)** Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1).
+      - **(i)** Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
       - **(ii)** Any security provided under clause (i) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Corporation, by a contributing sponsor (within the meaning of section 4001(a)(13) of the Employee Retirement Income Security Act of 1974), or a member of such sponsor’s controlled group (within the meaning of section 4001(a)(14) of such Act).
-    - **(B)** Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection with respect to a plan described in subparagraph (A)(i)—
+    - **(B)** Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection or an extension under 433(d) 2 2 So in original. Probably should be preceded by “section”. with respect to a plan described in subparagraph (A)(i)—
       - **(i)** provide the Pension Benefit Guaranty Corporation with—
-        - **(I)** notice of the completed application for any waiver or modification, and
+        - **(I)** notice of the completed application for any waiver, modification, or extension, and
         - **(II)** an opportunity to comment on such application within 30 days after receipt of such notice, and
       - **(ii)** consider—
         - **(I)** any comments of the Corporation under clause (i)(II), and
         - **(II)** any views of any employee organization (within the meaning of section 3(4) of the Employee Retirement Income Security Act of 1974) representing participants in the plan which are submitted in writing to the Secretary in connection with such application.
     - **(C)**
       - **(i)** The preceding provisions of this paragraph shall not apply to any plan with respect to which the sum of—
-        - **(I)** the aggregate unpaid minimum required contributions (within the meaning of section 4971(c)(4)) for the plan year and all preceding plan years, and
-        - **(II)** the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 430(e)(2),
-      - **(ii)** The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
+        - **(I)** the aggregate unpaid minimum required contributions (within the meaning of section 4971(c)(4)) for the plan year and all preceding plan years, or the accumulated funding deficiency under section 433, whichever is applicable,
+        - **(II)** the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 430(e)(2) or 433(b)(2)(C), whichever is applicable, and
+        - **(III)** the total amounts not paid by reason of an extension in effect under section 433(d),
+      - **(ii)** The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers or extensions with respect to the minimum funding standard under this subsection which are pending with respect to such plan were denied.
   - **(5)**
     - **(A)** In the case of a defined benefit plan which is not a multiemployer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary not later than the 15th day of the 3rd month beginning after the close of such plan year.
     - **(B)** In the case of a defined benefit plan which is not a multiemployer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
@@ -61,11 +64,11 @@ status: "active"
     - **(A)** The Secretary shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
     - **(B)** The Secretary shall consider any relevant information provided by a person to whom notice was given under subparagraph (A).
   - **(7)**
-    - **(A)** No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+    - **(A)** No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
     - **(B)** Subparagraph (A) shall not apply to any plan amendment which—
       - **(i)** the Secretary determines to be reasonable and which provides for only de minimis increases in the liabilities of the plan,
       - **(ii)** only repeals an amendment described in subsection (d)(2), or
-      - **(iii)** is required as a condition of qualification under part I of subchapter D, 2 2 So in original. The comma probably should not appear. of chapter 1.
+      - **(iii)** is required as a condition of qualification under part I of subchapter D, 3 3 So in original. The comma probably should not appear. of chapter 1.
 - **(d)**
   - **(1)** If the funding method or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary.
   - **(2)** For purposes of this section, any amendment applying to a plan year which—

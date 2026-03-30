@@ -3,9 +3,9 @@ title: "Section 8104 - Repowering assistance"
 usc_title: 7
 usc_section: "8104"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8104"
-generated_at: "2026-03-30T03:36:04.739Z"
+generated_at: "2026-03-30T03:37:54.937Z"
 status: "active"
 ---
 
@@ -22,5 +22,5 @@ status: "active"
     - **(C)** the cost and cost effectiveness of the renewable biomass system.
 - **(c)** To be eligible to receive a payment under this section, a biorefinery shall demonstrate to the Secretary that the renewable biomass system of the biorefinery is feasible based on an independent feasibility study that takes into account the economic, technical and environmental aspects of the system.
 - **(d)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to make payments under this section $35,000,000 for fiscal year 2009, to remain available until expended.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 through 2013.
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to make payments under this section $12,000,000 for fiscal year 2014, to remain available until expended.
+  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.

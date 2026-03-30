@@ -3,9 +3,9 @@ title: "Section 6381j - Research"
 usc_title: 20
 usc_section: "6381j"
 chapter: 70
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 6381j"
-generated_at: "2026-03-30T03:36:22.901Z"
+generated_at: "2026-03-30T03:38:12.868Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 904 - Repealed. Pub. L. 107–275, § 2(c)(2) , Nov. 2, 2002 , 1
 usc_title: 30
 usc_section: "904"
 chapter: 22
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "30 U.S.C. § 904"
-generated_at: "2026-03-30T03:36:42.965Z"
+generated_at: "2026-03-30T03:38:25.677Z"
 status: "repealed"
 ---
 

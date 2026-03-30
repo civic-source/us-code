@@ -3,9 +3,9 @@ title: "Section 10d - Review and report; submittal to Congressional committees; 
 usc_title: 16
 usc_section: "10d"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 10d"
-generated_at: "2026-03-30T03:36:30.077Z"
+generated_at: "2026-03-30T03:38:15.604Z"
 status: "active"
 ---
 

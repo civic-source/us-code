@@ -3,9 +3,9 @@ title: "Section 1076to1081 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1076to1081"
 chapter: 26
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 1076to1081"
-generated_at: "2026-03-30T03:37:08.093Z"
+generated_at: "2026-03-30T03:38:49.748Z"
 status: "repealed"
 ---
 

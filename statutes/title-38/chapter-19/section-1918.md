@@ -3,9 +3,9 @@ title: "Section 1918 - Assignments"
 usc_title: 38
 usc_section: "1918"
 chapter: 19
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "38 U.S.C. § 1918"
-generated_at: "2026-03-30T03:37:01.910Z"
+generated_at: "2026-03-30T03:38:46.385Z"
 status: "active"
 ---
 

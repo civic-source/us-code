@@ -3,9 +3,9 @@ title: "Section 3505d - National Health Professional Shortage Clearinghouse"
 usc_title: 42
 usc_section: "3505d"
 chapter: 43
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 3505d"
-generated_at: "2026-03-30T03:37:24.188Z"
+generated_at: "2026-03-30T03:39:06.147Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11902 - Authority to make grants"
 usc_title: 42
 usc_section: "11902"
 chapter: 124
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 11902"
-generated_at: "2026-03-30T03:37:24.509Z"
+generated_at: "2026-03-30T03:39:06.455Z"
 status: "active"
 ---
 

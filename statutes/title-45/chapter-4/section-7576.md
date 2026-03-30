@@ -3,9 +3,9 @@ title: "Section 7576 - Transferred"
 usc_title: 45
 usc_section: "7576"
 chapter: 4
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "45 U.S.C. § 7576"
-generated_at: "2026-03-30T03:37:06.786Z"
+generated_at: "2026-03-30T03:38:48.676Z"
 status: "transferred"
 ---
 

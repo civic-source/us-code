@@ -3,9 +3,9 @@ title: "Section 6397 - Repealed. Pub. L. 95–619, title VI, § 691(b)(1) , Nov.
 usc_title: 42
 usc_section: "6397"
 chapter: 77
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 6397"
-generated_at: "2026-03-30T03:37:24.321Z"
+generated_at: "2026-03-30T03:39:06.263Z"
 status: "repealed"
 ---
 

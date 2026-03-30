@@ -3,9 +3,9 @@ title: "Section 9008 - Payments for presidential nominating conventions"
 usc_title: 26
 usc_section: "9008"
 chapter: 95
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 9008"
-generated_at: "2026-03-30T03:36:52.470Z"
+generated_at: "2026-03-30T03:38:36.230Z"
 status: "active"
 ---
 
@@ -30,3 +30,6 @@ status: "active"
 - **(f)** If, after the close of a presidential nominating convention and after the national committee of the political party involved has been paid the amount which it is entitled to receive under this section, there are moneys remaining in the account of such national committee, the Secretary shall transfer the moneys so remaining to the fund.
 - **(g)** Any major party or minor party may file a statement with the Commission in such form and manner and at such times as it may require, designating the national committee of such party. Such statement shall include the information required by section 303(b) of the Federal Election Campaign Act of 1971, together with such additional information as the Commission may require. Upon receipt of a statement filed under the preceding sentences, the Commission promptly shall verify such statement according to such procedures and criteria as it may establish and shall certify to the Secretary for payment in full to any such committee of amounts to which such committee may be entitled under subsection (b). Such certifications shall be subject to an examination and audit which the Commission shall conduct no later than December 31, of the calendar year in which the presidential nominating convention involved is held.
 - **(h)** The Commission shall have the same authority to require repayments from the national committee of a major party or a minor party as it has with respect to repayments from any eligible candidate under section 9007(b). The provisions of section 9007(c) and section 9007(d) shall apply with respect to any repayment required by the Commission under this subsection.
+- **(i)** Effective on the date of the enactment of the Gabriella Miller Kids First Research Act—
+  - **(1)** the entitlement of any major party or minor party to a payment under this section shall terminate; and
+  - **(2)** all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the “10-Year Pediatric Research Initiative Fund”, which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.

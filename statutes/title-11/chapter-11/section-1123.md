@@ -3,9 +3,9 @@ title: "Section 1123 - Contents of plan"
 usc_title: 11
 usc_section: "1123"
 chapter: 11
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "11 U.S.C. § 1123"
-generated_at: "2026-03-30T03:36:14.107Z"
+generated_at: "2026-03-30T03:38:01.290Z"
 status: "active"
 ---
 

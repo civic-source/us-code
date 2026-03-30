@@ -3,9 +3,9 @@ title: "Section 2486j - Repealed. Pub. L. 105–362, title XI, § 1101(a) , Nov.
 usc_title: 42
 usc_section: "2486j"
 chapter: 26
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 2486j"
-generated_at: "2026-03-30T03:37:24.158Z"
+generated_at: "2026-03-30T03:39:06.117Z"
 status: "repealed"
 ---
 

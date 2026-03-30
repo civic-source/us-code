@@ -3,9 +3,9 @@ title: "Section 1437n - Eligibility for assisted housing"
 usc_title: 42
 usc_section: "1437n"
 chapter: 8
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1437n"
-generated_at: "2026-03-30T03:37:24.044Z"
+generated_at: "2026-03-30T03:39:06.009Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** A public housing agency may establish and utilize income-mix criteria for the selection of residents for dwelling units in public housing projects, subject to the requirements of this section.
   - **(2)**
-    - **(A)** Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+    - **(A)** Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by extremely low-income families.
   - **(3)**
     - **(A)** A public housing agency may not, in complying with the requirements under paragraph (2), concentrate very low-income families (or other families with relatively low incomes) in public housing dwelling units in certain public housing projects or certain buildings within projects. The Secretary shall review the income and occupancy characteristics of the public housing projects and the buildings of such projects of such agencies to ensure compliance with the provisions of this paragraph and paragraph (2).
     - **(B)**
@@ -34,12 +34,12 @@ status: "active"
     - **(D)** Notwithstanding any authority under subparagraph (A), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 30 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
     - **(E)** For purposes of this paragraph, the term “qualified family” means a family having an income described in subsection (b)(1) of this section.
 - **(b)**
-  - **(1)** Of the families initially provided tenant-based assistance under section 1437f of this title by a public housing agency in any fiscal year, not less than 75 percent shall be families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+  - **(1)** Of the families initially provided tenant-based assistance under section 1437f of this title by a public housing agency in any fiscal year, not less than 75 percent shall be extremely low-income families.
   - **(2)** In the case of any 2 or more public housing agencies that administer tenant-based assistance under section 1437f of this title with respect solely to identical geographical areas, such agencies shall be treated as a single public housing agency for purposes of paragraph (1).
 - **(c)**
   - **(1)** Not more than 25 percent of the dwelling units that were available for occupancy under section 8 [ 42 U.S.C. 1437f ] housing assistance payments contracts under this chapter before October 1, 1981 , and which will be leased on or after October 1, 1981 , shall be available for leasing by low-income families other than very low-income families.
   - **(2)** Not more than 15 percent of the dwelling units which become available for occupancy under section 8 [ 42 U.S.C. 1437f ] housing assistance payments contracts under this chapter on or after October 1, 1981 , shall be available for leasing by low-income families other than very low-income families.
-  - **(3)** For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
+  - **(3)** For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by extremely low-income families.
   - **(4)** In developing admission procedures implementing paragraphs (1), (2), and (3), the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence. Nothing in this paragraph or this subsection may be construed to prevent an owner of housing assisted under a contract for project-based assistance from establishing a preference for occupancy in such housing for families containing a member who is employed.
   - **(5)** The limitations established in paragraphs (1), (2), and (3) shall not apply to dwelling units made available under project-based contracts under section 1437f of this title for the purpose of preventing displacement, or ameliorating the effects of displacement.
   - **(6)** For purposes of this subsection, the term “project-based assistance” means assistance under any of the following programs:

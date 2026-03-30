@@ -3,9 +3,9 @@ title: "Section 8792 - Geographically disadvantaged farmers and ranchers"
 usc_title: 7
 usc_section: "8792"
 chapter: 113
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8792"
-generated_at: "2026-03-30T03:36:04.750Z"
+generated_at: "2026-03-30T03:37:54.945Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
         - **(I)** the percentage of the allowance for that fiscal year under section 5941 of title 5 for Federal employees stationed in Alaska and Hawaii; or
         - **(II)** in the case of an insular area (as defined in section 3103 of this title ), a comparable percentage of the allowance for the fiscal year, as determined by the Secretary.
     - **(B)** The total amount of direct reimbursement payments provided by the Secretary under this section shall not exceed $15,000,000 for a fiscal year.
-- **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.
+- **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal year 2009 and each succeeding fiscal year.

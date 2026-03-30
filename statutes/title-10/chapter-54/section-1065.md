@@ -3,9 +3,9 @@ title: "Section 1065 - Renumbered § 1063]"
 usc_title: 10
 usc_section: "1065"
 chapter: 54
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 1065"
-generated_at: "2026-03-30T03:36:02.460Z"
+generated_at: "2026-03-30T03:37:58.783Z"
 status: "renumbered"
 ---
 

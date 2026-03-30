@@ -3,9 +3,9 @@ title: "Section 3823 - Other compliance documentation"
 usc_title: 33
 usc_section: "3823"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 3823"
-generated_at: "2026-03-30T03:36:55.479Z"
+generated_at: "2026-03-30T03:38:40.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2622to2624 - Repealed. Pub. L. 90–83, § 10(b) , Sept. 11, 196
 usc_title: 22
 usc_section: "2622to2624"
 chapter: 37
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2622to2624"
-generated_at: "2026-03-30T03:36:39.882Z"
+generated_at: "2026-03-30T03:38:22.248Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1782 - Centralization in Department of Agriculture of administra
 usc_title: 42
 usc_section: "1782"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1782"
-generated_at: "2026-03-30T03:37:24.093Z"
+generated_at: "2026-03-30T03:39:06.050Z"
 status: "active"
 ---
 

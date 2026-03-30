@@ -3,9 +3,9 @@ title: "Section 413 - Collectively bargained plans, etc."
 usc_title: 26
 usc_section: "413"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 413"
-generated_at: "2026-03-30T03:36:52.274Z"
+generated_at: "2026-03-30T03:38:35.951Z"
 status: "active"
 ---
 
@@ -44,3 +44,8 @@ status: "active"
   - **(7)**
     - **(A)** Except as provided in subparagraph (B), allocations of amounts under paragraphs (4), (5), and (6) among the employers maintaining the plan shall not be inconsistent with regulations prescribed for this purpose by the Secretary.
     - **(B)** For purposes of applying paragraphs (4)(A) and (6)(A), the assets and liabilities of each plan shall be treated as the assets and liabilities which would be allocated to a plan maintained by the employer if the employer withdrew from the multiple employer plan.
+- **(d)** Notwithstanding any other provision of this section, in the case of a CSEC plan—
+  - **(1)** The requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer.
+  - **(2)** Paragraphs (1), (2), (3), and (5) of subsection (c) shall apply.
+  - **(3)** Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed such applicable limitation if the anticipated employer contributions for such plan year of all employers (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such limitation, the portion of each such employer’s contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+  - **(4)** Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.

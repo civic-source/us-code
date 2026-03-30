@@ -3,9 +3,9 @@ title: "Section 5344 - Organizational structure; responsibilities of primary pro
 usc_title: 12
 usc_section: "5344"
 chapter: 53
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 5344"
-generated_at: "2026-03-30T03:36:10.749Z"
+generated_at: "2026-03-30T03:38:03.971Z"
 status: "active"
 ---
 

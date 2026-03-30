@@ -3,9 +3,9 @@ title: "Section 1501 - System for accounting for missing persons"
 usc_title: 10
 usc_section: "1501"
 chapter: 76
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 1501"
-generated_at: "2026-03-30T03:36:02.481Z"
+generated_at: "2026-03-30T03:37:58.803Z"
 status: "active"
 ---
 
@@ -16,7 +16,6 @@ status: "active"
     - **(A)** policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons (including matters related to search, rescue, escape, and evasion);
     - **(B)** policy, control, and oversight of the program established under section 1509 of this title , as well as the accounting for missing persons (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased); and
     - **(C)** coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons.
-    - **(D)** the dissemination of appropriate information on the status of missing persons to authorized family members.
   - **(2)** The official designated under paragraph (1) shall also serve as the Director, Defense Prisoner of War/Missing Personnel Office, as established under paragraph (6)(A), exercising authority, direction, and control over that activity.
   - **(3)** In carrying out the responsibilities established under this subsection, the official designated under paragraph (1) and (2) shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
   - **(4)** The designated official shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion) and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased).

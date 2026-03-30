@@ -3,9 +3,9 @@ title: "Section 5831 - Technical guides and handbooks"
 usc_title: 7
 usc_section: "5831"
 chapter: 88
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5831"
-generated_at: "2026-03-30T03:36:04.698Z"
+generated_at: "2026-03-30T03:37:54.899Z"
 status: "active"
 ---
 
@@ -20,4 +20,6 @@ status: "active"
   - **(3)** protecting or enhancing the quality of water resources; or
   - **(4)** optimizing the use of on-farm and nonrenewable resources.
 - **(e)** The Secretary shall ensure that handbooks and technical guides, and other educational materials are made available to the agricultural community and the public through colleges and universities, the State Cooperative Extension Service, the Soil Conservation Service, other State and Federal agencies, and any other appropriate entities.
-- **(f)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
+- **(f)** There are authorized to be appropriated to carry out this section—
+  - **(1)** such sums as are necessary for fiscal year 2013; and
+  - **(2)** $5,000,000 for each of fiscal years 2014 through 2018.

@@ -3,9 +3,9 @@ title: "Section 2028 - Consolidated block grants for Puerto Rico and American Sa
 usc_title: 7
 usc_section: "2028"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2028"
-generated_at: "2026-03-30T03:36:04.661Z"
+generated_at: "2026-03-30T03:37:54.867Z"
 status: "active"
 ---
 
@@ -52,3 +52,20 @@ status: "active"
   - **(1)** The Secretary shall provide for the review of the programs for the provision of the assistance described in subsection (a)(2)(A) of this section for which payments are made under this chapter.
   - **(2)** The Secretary is authorized as the Secretary deems practicable to provide technical assistance with respect to the programs for the provision of the assistance described in subsection (a)(2)(A) of this section.
 - **(d)** Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
+- **(e)**
+  - **(1)** The Secretary, in consultation with the Secretary of Health and Human Services, shall carry out a review of the provision of nutrition assistance in Puerto Rico in the form of cash benefits under this section that shall include—
+    - **(A)** an examination of the history of and purpose for distribution of a portion of monthly benefits in the form of cash;
+    - **(B)** an examination of current barriers to the redemption of non-cash benefits by current program participants and retailers;
+    - **(C)** an examination of current usage of cash benefits for the purchase of non-food and other prohibited items;
+    - **(D)** an identification and assessment of potential adverse effects of the discontinuation of a portion of benefits in the form of cash for program participants and retailers; and
+    - **(E)** an examination of such other factors as the Secretary determines to be relevant.
+  - **(2)** Not later than 18 months after February 7, 2014 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes the results of the review conducted under this subsection.
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (B), and notwithstanding the second sentence of subsection (b)(1)(B)(i), the Secretary shall disapprove any plan submitted pursuant to subsection (b)(1)(A)—
+      - **(i)** for fiscal year 2017 that provides for the distribution of more than 20 percent of the nutrition assistance benefit of a participant in the form of cash;
+      - **(ii)** for fiscal year 2018 that provides for the distribution of more than 15 percent of the nutrition assistance benefit of a participant in the form of cash;
+      - **(iii)** for fiscal year 2019 that provides for the distribution of more than 10 percent of the nutrition assistance benefit of a participant in the form of cash;
+      - **(iv)** for fiscal year 2020 that provides for the distribution of more than 5 percent of the nutrition assistance benefit of a participant in the form of cash; and
+      - **(v)** for fiscal year 2021 that provides for the distribution of any portion of the nutrition assistance benefit of a participant in the form of cash.
+    - **(B)** Notwithstanding subparagraph (A), the Secretary, informed by the report required under paragraph (2), may approve a plan that exempts participants or categories of participants if the Secretary determines that discontinuation of benefits in the form of cash is likely to have significant adverse effects.
+  - **(4)** Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.

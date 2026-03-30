@@ -3,9 +3,9 @@ title: "Section 1926a - Emergency and imminent community water assistance grant 
 usc_title: 7
 usc_section: "1926a"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1926a"
-generated_at: "2026-03-30T03:36:04.636Z"
+generated_at: "2026-03-30T03:37:54.845Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
   - **(1)**
     - **(A)** For each fiscal year, not less than 3 nor more than 5 percent of the total amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
     - **(B)** Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.
-  - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2012.
+  - **(2)** In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2018.

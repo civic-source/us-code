@@ -3,9 +3,9 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-30T03:36:52.221Z"
+generated_at: "2026-03-30T03:38:35.876Z"
 status: "active"
 ---
 
@@ -37,7 +37,12 @@ status: "active"
     - **(C)** highly compensated, or
     - **(D)** a spouse or dependent (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of an individual described in subparagraph (A), (B), or (C).
   - **(2)** The term “highly compensated individual” means an individual who is described in subparagraphs 1 1 So in original. Probably should be “subparagraph”. (A), (B), (C), or (D) of paragraph (1).
-- **(f)** For purposes of this section, the term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations. Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.
+- **(f)** For purposes of this section—
+  - **(1)** The term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations.
+  - **(2)** The term “qualified benefit” shall not include any product which is advertised, marketed, or offered as long-term care insurance.
+  - **(3)**
+    - **(A)** The term “qualified benefit” shall not include any qualified health plan (as defined in section 1301(a) of the Patient Protection and Affordable Care Act) offered through an Exchange established under section 1311 of such Act.
+    - **(B)** Subparagraph (A) shall not apply with respect to any employee if such employee’s employer is a qualified employer (as defined in section 1312(f)(2) of the Patient Protection and Affordable Care Act) offering the employee the opportunity to enroll through such an Exchange in a qualified health plan in a group market.
 - **(g)**
   - **(1)** For purposes of this section, a plan shall not be treated as discriminatory if the plan is maintained under an agreement which the Secretary finds to be a collective bargaining agreement between employee representatives and one or more employers.
   - **(2)** For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan which provides health benefits shall not be treated as discriminatory if—

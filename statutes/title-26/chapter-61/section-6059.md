@@ -3,9 +3,9 @@ title: "Section 6059 - Periodic report of actuary"
 usc_title: 26
 usc_section: "6059"
 chapter: 61
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 6059"
-generated_at: "2026-03-30T03:36:52.422Z"
+generated_at: "2026-03-30T03:38:36.166Z"
 status: "active"
 ---
 
@@ -14,10 +14,10 @@ status: "active"
 - **(a)** The actuarial report described in subsection (b) shall be filed by the plan administrator (as defined in section 414(g) of each defined benefit plan to which section 412 applies, for the first plan year for which section 412 applies to the plan and for each third plan year thereafter (or more frequently if the Secretary determines that more frequent reports are necessary).
 - **(b)** The actuarial report of a plan required by subsection (a) shall be prepared and signed by an enrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
   - **(1)** a description of the funding method and actuarial assumptions used to determine costs under the plan,
-  - **(2)** a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431, to zero,
+  - **(2)** a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section 433, or the accumulated funding deficiency determined under section 431, to zero,
   - **(3)** a statement—
     - **(A)** that to the best of his knowledge the report is complete and accurate, and
-    - **(B)** the requirements for reasonable actuarial assumptions under section 430(h)(1) or 431(c)(3), whichever are applicable, have been complied with. 1 1 So in original. The period probably should be a comma.
+    - **(B)** the requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with. 1 1 So in original. The period probably should be a comma.
   - **(4)** such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
   - **(5)** such other information regarding the plan as the Secretary may by regulations require.
 - **(c)** The actuarial report and statement required by this section shall be filed at the time and in the manner provided by regulations prescribed by the Secretary.

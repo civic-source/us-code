@@ -3,9 +3,9 @@ title: "Section 5933 - Assistive technology program for farmers with disabilitie
 usc_title: 7
 usc_section: "5933"
 chapter: 88
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5933"
-generated_at: "2026-03-30T03:36:04.701Z"
+generated_at: "2026-03-30T03:37:54.902Z"
 status: "active"
 ---
 
@@ -25,5 +25,7 @@ status: "active"
   - **(6)** For each fiscal year that amounts are made available for grants under this subsection, the Secretary may make grants in a manner that ensures that eligible entities who apply for grants, but have not previously received a grant under this subsection, are given full consideration.
 - **(b)** The Secretary of Agriculture shall award a competitive grant to a national private nonprofit disability organization to enable such organization to provide technical assistance, training, information dissemination and other activities to support community-based direct service programs of on-site rural rehabilitation and assistive technology for individuals with disabilities, and their families, who are engaged in farming or farm-related occupations.
 - **(c)**
-  - **(1)** Subject to paragraph (2), there is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 1999 through 2012.
+  - **(1)** Subject to paragraph (2), there are authorized to be appropriated to carry out this section—
+    - **(A)** $6,000,000 for each of fiscal years 1999 through 2013; and
+    - **(B)** $5,000,000 for each of fiscal years 2014 through 2018.
   - **(2)** Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b) of this section.

@@ -3,9 +3,9 @@ title: "Section 3345 - Authorization of additional appropriations"
 usc_title: 16
 usc_section: "3345"
 chapter: 52
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 3345"
-generated_at: "2026-03-30T03:36:30.243Z"
+generated_at: "2026-03-30T03:38:15.759Z"
 status: "active"
 ---
 

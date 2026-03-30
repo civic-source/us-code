@@ -3,9 +3,9 @@ title: "Section 3072 - Judge Advocate General’s Corps"
 usc_title: 10
 usc_section: "3072"
 chapter: 307
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 3072"
-generated_at: "2026-03-30T03:36:02.539Z"
+generated_at: "2026-03-30T03:37:58.857Z"
 status: "active"
 ---
 

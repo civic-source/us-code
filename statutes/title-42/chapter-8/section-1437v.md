@@ -3,9 +3,9 @@ title: "Section 1437v - Demolition, site revitalization, replacement housing, an
 usc_title: 42
 usc_section: "1437v"
 chapter: 8
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1437v"
-generated_at: "2026-03-30T03:37:24.049Z"
+generated_at: "2026-03-30T03:39:06.011Z"
 status: "active"
 ---
 
@@ -88,7 +88,7 @@ status: "active"
   - **(4)** the types of projects funded, and number of affordable housing dwelling units developed with, grants under subsection (n) of this section; and
   - **(5)** the recommendations of the Secretary for statutory and regulatory improvements to the program established by this section.
 - **(m)**
-  - **(1)** There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2012.
+  - **(1)** There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2014.
   - **(2)** Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods 3 3 So in original. Probably should be “Neighborhood”. Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
   - **(3)** Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary shall provide up to 5 percent for use only for grants under subsection (n) of this section.
 - **(n)**
@@ -123,4 +123,4 @@ status: "active"
       - **(ii)**
         - **(I)** is not served by a public housing agency; or
         - **(II)** is served by a single public housing agency, which agency administers 100 or fewer public housing dwelling units.
-- **(o)** No assistance may be provided under this section after September 30, 2012 .
+- **(o)** No assistance may be provided under this section after September 30, 2014 .

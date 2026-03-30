@@ -1,0 +1,63 @@
+---
+title: "Section 9012 - Base acres"
+usc_title: 7
+usc_section: "9012"
+chapter: 115
+current_through: "PL 113-99"
+classification: "7 U.S.C. § 9012"
+generated_at: "2026-03-30T03:37:54.946Z"
+status: "active"
+---
+
+# § 9012. Base acres
+
+- **(a)**
+  - **(1)**
+    - **(A)** As soon as practicable after February 7, 2014 , the Secretary shall provide notice to the owners of a farm regarding their opportunity to make an election, in the manner provided in this subsection—
+      - **(i)** to retain base acres, including any generic base acres, as provided in paragraph (2); or
+      - **(ii)** in lieu of retaining base acres, to reallocate base acres, other than any generic base acres, as provided in paragraph (3).
+    - **(B)** The notice under subparagraph (A) shall include the following:
+      - **(i)** Information that the opportunity of an owner to make the election is being provided only once.
+      - **(ii)** Information regarding the manner in which the owner must make the election and the manner of notifying the Secretary of the election.
+      - **(iii)** Information regarding the deadline before which the owner must notify the Secretary of the election to be in effect beginning with the 2014 crop year.
+    - **(C)** If the owner of a farm fails to make the election under this subsection, or fails to timely notify the Secretary of the election as required by subparagraph (B)(iii), the owner shall be deemed to have elected to retain base acres, including generic base acres, as provided in paragraph (2).
+  - **(2)**
+    - **(A)** For the purpose of applying this subchapter to a covered commodity, the Secretary shall give an owner of a farm an opportunity to elect to retain all of the base acres for each covered commodity on the farm.
+    - **(B)** Generic base acres are automatically retained.
+  - **(3)**
+    - **(A)** For the purpose of applying this subchapter to covered commodities, the Secretary shall give an owner of a farm an opportunity to elect to reallocate all of the base acres for covered commodities on the farm, as in effect on September 30, 2013 , among those covered commodities planted on the farm at any time during the 2009 through 2012 crop years.
+    - **(B)** The reallocation of base acres among covered commodities on a farm shall be in proportion to the ratio of—
+      - **(i)** the 4-year average of—
+        - **(I)** the acreage planted on the farm to each covered commodity for harvest, grazing, haying, silage, or other similar purposes for the 2009 through 2012 crop years; and
+        - **(II)** any acreage on the farm that the producers were prevented from planting during the 2009 through 2012 crop years to that covered commodity because of drought, flood, or other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary; to
+      - **(ii)** the 4-year average of—
+        - **(I)** the acreage planted on the farm to all covered commodities for harvest, grazing, haying, silage, or other similar purposes for such crop years; and
+        - **(II)** any acreage on the farm that the producers were prevented from planting during such crop years to covered commodities because of drought, flood, or other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary.
+    - **(C)** Generic base acres are retained and may not be reallocated under this paragraph.
+    - **(D)** For the purpose of determining a 4-year acreage average under subparagraph (B) for a farm, the Secretary shall not exclude any crop year in which a covered commodity was not planted.
+    - **(E)** For the purpose of determining under subparagraph (B) the acreage on a farm that producers planted or were prevented from planting during the 2009 through 2012 crop years to covered commodities, if the acreage that was planted or prevented from being planted was devoted to another covered commodity in the same crop year (other than a covered commodity produced under an established practice of double cropping), the owner may elect the commodity to be used for that crop year in determining the 4-year average, but may not include both the initial commodity and the subsequent commodity.
+    - **(F)** The reallocation of base acres among covered commodities on a farm under this paragraph may not result in a total number of base acres (including generic base acres) for the farm in excess of the number of base acres in effect for the farm on September 30, 2013 .
+  - **(4)** The election made under this subsection, or deemed to be made under paragraph (1)(C), with respect to a farm shall apply to all of the covered commodities on the farm.
+- **(b)**
+  - **(1)** Notwithstanding the election made under subsection (a), the Secretary shall provide for an adjustment, as appropriate, in the base acres for covered commodities for a farm and any generic base acres for the farm whenever any of the following circumstances occur:
+    - **(A)** A conservation reserve contract entered into under section 1231 of the Food Security Act of 1985 ( 16 U.S.C. 3831 ) with respect to the farm expires or is voluntarily terminated.
+    - **(B)** Cropland is released from coverage under a conservation reserve contract by the Secretary.
+    - **(C)** The producer has eligible oilseed acreage as the result of the Secretary designating additional oilseeds, which shall be determined in the same manner as eligible oilseed acreage under section 8711(a)(1)(D) of this title .
+  - **(2)** For the crop year in which a base acres adjustment under subparagraph (A) or (B) of paragraph (1) is first made, the owner of the farm shall elect to receive price loss coverage or agriculture risk coverage with respect to the acreage added to the farm under this subsection or a prorated payment under the conservation reserve contract, but not both.
+- **(c)**
+  - **(1)** Notwithstanding the election made under subsection (a), if the sum of the base acres for a farm, including generic base acres, and the acreage described in paragraph (2) exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities or generic base acres for the farm so that the sum of the base acres, including generic base acres, and the acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+  - **(2)** For purposes of paragraph (1), the Secretary shall include the following:
+    - **(A)** Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program (or successor programs) under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3830 et seq.).
+    - **(B)** Any other acreage on the farm enrolled in a Federal conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
+    - **(C)** If the Secretary designates additional oilseeds, any eligible oilseed acreage, which shall be determined in the same manner as eligible oilseed acreage under subsection (b)(1)(C).
+  - **(3)** The Secretary shall give the owner of the farm the opportunity to select the base acres for a covered commodity or generic base acres for the farm against which the reduction required by paragraph (1) will be made.
+  - **(4)** In applying paragraph (1), the Secretary shall make an exception in the case of double cropping, as determined by the Secretary.
+- **(d)**
+  - **(1)**
+    - **(A)** The owner of a farm may reduce, at any time, the base acres for any covered commodity or generic base acres for the farm.
+    - **(B)** A reduction under subparagraph (A) shall be permanent and made in a manner prescribed by the Secretary.
+  - **(2)**
+    - **(A)** The Secretary shall proportionately reduce base acres, including any generic base acres, on a farm for land that has been subdivided and developed for multiple residential units or other nonfarming uses if the size of the tracts and the density of the subdivision is such that the land is unlikely to return to the previous agricultural use, unless the producers on the farm demonstrate that the land—
+      - **(i)** remains devoted to commercial agricultural production; or
+      - **(ii)** is likely to be returned to the previous agricultural use.
+    - **(B)** The Secretary shall establish procedures to identify land described in subparagraph (A).

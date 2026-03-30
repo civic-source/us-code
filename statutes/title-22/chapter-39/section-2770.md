@@ -3,9 +3,9 @@ title: "Section 2770 - General authority"
 usc_title: 22
 usc_section: "2770"
 chapter: 39
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2770"
-generated_at: "2026-03-30T03:36:39.893Z"
+generated_at: "2026-03-30T03:38:22.256Z"
 status: "active"
 ---
 

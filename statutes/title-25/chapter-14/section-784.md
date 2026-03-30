@@ -3,9 +3,9 @@ title: "Section 784 - Appropriations"
 usc_title: 25
 usc_section: "784"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 784"
-generated_at: "2026-03-30T03:36:34.734Z"
+generated_at: "2026-03-30T03:38:23.440Z"
 status: "active"
 ---
 

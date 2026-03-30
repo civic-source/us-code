@@ -1,15 +1,15 @@
 ---
-title: "Section 1446 - Withholding 1 1 So in original. Probably should be followed by “of”. tax on foreign partners’ share of effectively connected income"
+title: "Section 1446 - Withholding tax on foreign partners’ share of effectively connected income"
 usc_title: 26
 usc_section: "1446"
 chapter: 3
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 1446"
-generated_at: "2026-03-30T03:36:52.364Z"
+generated_at: "2026-03-30T03:38:36.086Z"
 status: "active"
 ---
 
-# § 1446. Withholding 1 1 So in original. Probably should be followed by “of”. tax on foreign partners’ share of effectively connected income
+# § 1446. Withholding tax on foreign partners’ share of effectively connected income
 
 - **(a)** If—
   - **(1)** a partnership has effectively connected taxable income for any taxable year, and

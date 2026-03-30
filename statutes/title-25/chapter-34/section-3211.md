@@ -3,9 +3,9 @@ title: "Section 3211 - Repealed. Pub. L. 105–362, title VIII, § 801(a) , Nov.
 usc_title: 25
 usc_section: "3211"
 chapter: 34
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 3211"
-generated_at: "2026-03-30T03:36:34.809Z"
+generated_at: "2026-03-30T03:38:23.498Z"
 status: "repealed"
 ---
 

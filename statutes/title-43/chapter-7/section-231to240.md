@@ -3,9 +3,9 @@ title: "Section 231to240 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "231to240"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 231to240"
-generated_at: "2026-03-30T03:37:08.051Z"
+generated_at: "2026-03-30T03:38:49.711Z"
 status: "repealed"
 ---
 

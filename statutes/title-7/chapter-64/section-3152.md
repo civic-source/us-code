@@ -3,9 +3,9 @@ title: "Section 3152 - Grants and fellowships for food and agricultural sciences
 usc_title: 7
 usc_section: "3152"
 chapter: 64
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 3152"
-generated_at: "2026-03-30T03:36:04.677Z"
+generated_at: "2026-03-30T03:37:54.882Z"
 status: "active"
 ---
 
@@ -54,4 +54,6 @@ status: "active"
     - **(G)** to support current agriculture in the classroom programs for grades K–12.
 - **(k)** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
 - **(l)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
-- **(m)** There are authorized to be appropriated for carrying out this section $60,000,000 for each of the fiscal years 1990 through 2012.
+- **(m)** There are authorized to be appropriated for carrying out this section—
+  - **(1)** $60,000,000 for each of fiscal years 1990 through 2013; and
+  - **(2)** $40,000,000 for each of fiscal years 2014 through 2018.

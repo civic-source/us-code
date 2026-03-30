@@ -3,9 +3,9 @@ title: "Section 64ato64o - Repealed. Aug. 27, 1935, ch. 740 , title II, § 202(a
 usc_title: 27
 usc_section: "64ato64o"
 chapter: 2
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "27 U.S.C. § 64ato64o"
-generated_at: "2026-03-30T03:36:41.940Z"
+generated_at: "2026-03-30T03:38:25.155Z"
 status: "repealed"
 ---
 

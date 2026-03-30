@@ -3,9 +3,9 @@ title: "Section 8757 - Marketing assistance loans and loan deficiency payments f
 usc_title: 7
 usc_section: "8757"
 chapter: 113
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8757"
-generated_at: "2026-03-30T03:36:04.749Z"
+generated_at: "2026-03-30T03:37:54.944Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(i)** require the repayment of handling and other associated costs paid under subparagraph (A) for all peanuts pledged as collateral for a loan that is redeemed under this section; and
       - **(ii)** pay storage, handling, and other associated costs for all peanuts pledged as collateral that are forfeited under this section.
   - **(7)** A marketing association or cooperative may market peanuts for which a loan is made under this section in any manner that conforms to consumer needs, including the separation of peanuts by type and quality.
-- **(b)** Except as provided in section 8715 of this title , the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
+- **(b)** Except as provided in section 8715 1 1 See References in Text note below. of this title, the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
 - **(c)**
   - **(1)** A marketing assistance loan for peanuts under subsection (a) shall have a term of 9 months beginning on the first day of the first month after the month in which the loan is made.
   - **(2)** The Secretary may not extend the term of a marketing assistance loan for peanuts under subsection (a).

@@ -3,9 +3,9 @@ title: "Section 8108 - Biomass research and development"
 usc_title: 7
 usc_section: "8108"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8108"
-generated_at: "2026-03-30T03:36:04.740Z"
+generated_at: "2026-03-30T03:37:54.938Z"
 status: "active"
 ---
 
@@ -116,7 +116,7 @@ status: "active"
       - **(ii)** The non-Federal share of the cost of a demonstration or commercial project under this section shall be not less than 50 percent.
     - **(C)** The Secretary of Agriculture and the Secretary of Energy shall ensure that applicable research results and technologies from the Initiative are—
       - **(i)** adapted, made available, and disseminated, as appropriate; and
-      - **(ii)** included in the best practices database established under section 5925e(e) of this title .
+      - **(ii)** included in the best practices database established under section 5925e(e) 1 1 See References in Text note below. of this title.
 - **(f)**
   - **(1)** The Secretary of Energy and the Secretary of Agriculture may provide such administrative support and funds of the Department of Energy and the Department of Agriculture to the Board and the Advisory Committee as are necessary to enable the Board and the Advisory Committee to carry out their duties under this section.
   - **(2)** The heads of the agencies referred to in subsection (c)(2)(B), and the other members of the Board appointed under subsection (c)(2)(C), are encouraged to provide administrative support and funds of their respective agencies to the Board and the Advisory Committee.
@@ -129,6 +129,7 @@ status: "active"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out this section, to remain available until expended—
     - **(A)** $20,000,000 for fiscal year 2009;
     - **(B)** $28,000,000 for fiscal year 2010;
-    - **(C)** $30,000,000 for fiscal year 2011; and
-    - **(D)** $40,000,000 for fiscal year 2012.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2009 through 2013.
+    - **(C)** $30,000,000 for fiscal year 2011;
+    - **(D)** $40,000,000 for fiscal year 2012; and
+    - **(E)** $3,000,000 for each of fiscal years 2014 through 2017.
+  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.

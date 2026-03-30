@@ -3,9 +3,9 @@ title: "Section 3103 - Definitions"
 usc_title: 7
 usc_section: "3103"
 chapter: 64
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 3103"
-generated_at: "2026-03-30T03:36:04.676Z"
+generated_at: "2026-03-30T03:37:54.880Z"
 status: "active"
 ---
 
@@ -19,7 +19,11 @@ When used in this chapter:
   - **(4)**
     - **(A)** The terms “college” and “university” mean an educational institution in any State which (i) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, (ii) is legally authorized within such State to provide a program of education beyond secondary education, (iii) provides an educational program for which a bachelor’s degree or any other higher degree is awarded, (iv) is a public or other nonprofit institution, and (v) is accredited by a nationally recognized accrediting agency or association.
     - **(B)** The terms “college” and “university” include a research foundation maintained by a college or university described in subparagraph (A).
-  - **(5)** The term “cooperating forestry schools” means those institutions eligible to receive funds under the Act of October 10, 1962 ( 16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962.
+  - **(5)**
+    - **(A)** The term “cooperating forestry school” means an institution—
+      - **(i)** that is eligible to receive funds under Public Law 87–788 (commonly known as the McIntire-Stennis Cooperative Forestry Act; 16 U.S.C. 582a et seq.); and
+      - **(ii)** with respect to which the Secretary has not received a declaration of the intent of that institution to not be considered a cooperating forestry school.
+    - **(B)** A declaration of the intent of an institution to not be considered a cooperating forestry school submitted to the Secretary shall be in effect until September 30, 2018 .
   - **(6)** The term “cooperative extension services” means the organizations established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914 ( 38 Stat. 372–374 , as amended; 7 U.S.C. 341–349 ), and section 209(b) of the Act of October 26, 1974 ( 88 Stat. 1428 , as amended; D.C. Code, sec. 31–1719(b)).
   - **(7)** The term “Department of Agriculture” means the United States Department of Agriculture.
   - **(8)** The term “extension” means the informal education programs conducted in the States in cooperation with the Department of Agriculture.
@@ -41,10 +45,12 @@ When used in this chapter:
     - **(O)** Biotechnology related to agriculture.
     - **(P)** The processing, distributing, marketing, and utilization of food and agricultural products.
   - **(10)**
-    - **(A)** The term “Hispanic-serving agricultural colleges and universities” means colleges or universities that—
-      - **(i)** qualify as Hispanic-serving institutions; and
-      - **(ii)** offer associate, bachelors, or other accredited degree programs in agriculture-related fields.
+    - **(A)** The term “Hispanic-serving agricultural colleges and universities” means colleges or universities—
+      - **(i)** that qualify as Hispanic-serving institutions;
+      - **(ii)** that offer associate, bachelors, or other accredited degree programs in agriculture-related fields; and
+      - **(iii)** with respect to which the Secretary has not received a declaration of the intent of a college or university to not be considered a Hispanic-serving agricultural college or university.
     - **(B)** The term “Hispanic-serving agricultural colleges and universities” does not include 1862 institutions (as defined in section 7601 of this title ).
+    - **(C)** A declaration of the intent of a college or university to not be considered a Hispanic-serving agricultural college or university submitted to the Secretary shall be in effect until September 30, 2018 .
   - **(11)** The term “Hispanic-serving institution” has the meaning given the term in section 1101a of title 20 .
   - **(12)** The term “insular area” means—
     - **(A)** the Commonwealth of Puerto Rico;
@@ -57,8 +63,9 @@ When used in this chapter:
     - **(H)** the Virgin Islands of the United States.
   - **(13)** The term “land-grant colleges and universities” means those institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307 and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
   - **(14)**
-    - **(A)** The terms “NLGCA Institution” and “non-land-grant college of agriculture” mean a public college or university offering a baccalaureate or higher degree in the study of agriculture or forestry.
-    - **(B)** The terms “NLGCA Institution” and “non-land-grant college of agriculture” do not include—
+    - **(A)** The terms “NLGCA Institution” and “non-land-grant college of agriculture” mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences.
+    - **(B)** Not later than 90 days after Feb. 7, 2014 , the Secretary shall establish an ongoing process through which public colleges or universities may apply for designation as an NLGCA Institution.
+    - **(C)** The terms “NLGCA Institution” and “non-land-grant college of agriculture” do not include—
       - **(i)** Hispanic-serving agricultural colleges and universities; or
       - **(ii)** any institution designated under—
         - **(I)** the Act of July 2, 1862 (commonly known as the “First Morrill Act”; 7 U.S.C. 301 et seq.);
@@ -76,8 +83,9 @@ When used in this chapter:
     - **(B)** the Act of August 30, 1890 ( 7 U.S.C. 321 et seq.), commonly known as the Second Morrill Act, including Tuskegee University;
     - **(C)** the Act of March 2, 1887 ( 7 U.S.C. 361a et seq.), commonly known as the Hatch Act of 1887;
     - **(D)** the Act of May 8, 1914 ( 7 U.S.C. 341 et seq.), commonly known as the Smith-Lever Act;
-    - **(E)** the Act of October 10, 1962 ( 16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962; and
-    - **(F)** subchapters V, VI, XI, and XII of this chapter.
+    - **(E)** the Act of October 10, 1962 ( 16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962;
+    - **(F)** section 3192 of this title ; and
+    - **(G)** subchapters VI, XI, and XII of this chapter.
   - **(19)** The term “sustainable agriculture” means an integrated system of plant and animal production practices having a site-specific application that will, over the long-term—
     - **(A)** satisfy human food and fiber needs;
     - **(B)** enhance environmental quality and the natural resource base upon which the agriculture economy depends;

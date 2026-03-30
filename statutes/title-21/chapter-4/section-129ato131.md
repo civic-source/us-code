@@ -3,9 +3,9 @@ title: "Section 129ato131 - Repealed. Pub. L. 107–171, title X, § 10418(a)(1)
 usc_title: 21
 usc_section: "129ato131"
 chapter: 4
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 129ato131"
-generated_at: "2026-03-30T03:36:35.895Z"
+generated_at: "2026-03-30T03:38:19.512Z"
 status: "repealed"
 ---
 

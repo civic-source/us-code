@@ -3,9 +3,9 @@ title: "Section 1141 - Distribution of funds; attorney’s fees and expenses"
 usc_title: 25
 usc_section: "1141"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 1141"
-generated_at: "2026-03-30T03:36:34.743Z"
+generated_at: "2026-03-30T03:38:23.446Z"
 status: "active"
 ---
 

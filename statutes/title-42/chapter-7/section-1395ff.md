@@ -3,9 +3,9 @@ title: "Section 1395ff - Determinations; appeals"
 usc_title: 42
 usc_section: "1395ff"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1395ff"
-generated_at: "2026-03-30T03:37:23.947Z"
+generated_at: "2026-03-30T03:39:05.910Z"
 status: "active"
 ---
 
@@ -166,6 +166,7 @@ status: "active"
       - **(iii)** The Secretary shall implement a decision of the administrative law judge or the Departmental Appeals Board within 30 days of receipt of such decision.
       - **(iv)** A decision of the Departmental Appeals Board constitutes a final agency action and is subject to judicial review.
     - **(B)** For purposes of this section, the term “local coverage determination” means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title .
+    - **(C)** For provisions relating to local coverage determinations for clinical diagnostic laboratory tests, see section 1395m–1(g) of this title .
   - **(3)** In the case of a determination that may otherwise be subject to review under paragraph (1)(A)(iii) or paragraph (2)(A)(i), where the moving party alleges that—
     - **(A)** there are no material issues of fact in dispute, and
     - **(B)** the only issue of law is the constitutionality of a provision of this subchapter, or that a regulation, determination, or ruling by the Secretary is invalid,

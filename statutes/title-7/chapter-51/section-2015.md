@@ -3,9 +3,9 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-03-30T03:36:04.654Z"
+generated_at: "2026-03-30T03:37:54.861Z"
 status: "active"
 ---
 
@@ -136,7 +136,9 @@ status: "active"
   - **(2)** is not physically or mentally fit;
   - **(3)** is assigned to or placed in an institution of higher education through or in compliance with the requirements of—
     - **(A)** a program under title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.];
-    - **(B)** an employment and training program under this section;
+    - **(B)** an employment and training program under this section, subject to the condition that the course or program of study—
+      - **(i)** is part of a program of career and technical education (as defined in section 2302 of title 20 ) that may be completed in not more than 4 years at an institution of higher education (as defined in section 1002 of title 20 ); or
+      - **(ii)** is limited to remedial courses, basic adult education, literacy, or English as a second language;
     - **(C)** a program under section 2296 of title 19 ; or
     - **(D)** another program for the purpose of employment and training operated by a State or local government, as determined to be appropriate by the Secretary;
   - **(4)** is employed a minimum of 20 hours per week or participating in a State or federally financed work study program during the regular school year;
@@ -231,3 +233,18 @@ status: "active"
   - **(7)** Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 - **(p)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally obtained cash by purchasing products with supplemental nutrition assistance program benefits that have containers that require return deposits, discarding the product, and returning the container for the deposit amount shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 - **(q)** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally sold any food that was purchased using supplemental nutrition assistance program benefits shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
+- **(r)**
+  - **(1)** An individual shall not be eligible for benefits under this chapter if—
+    - **(A)** the individual is convicted of—
+      - **(i)** aggravated sexual abuse under section 2241 of title 18 ;
+      - **(ii)** murder under section 1111 of title 18 ;
+      - **(iii)** an offense under chapter 110 of title 18;
+      - **(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 2 2 So in original. Probably should be preceded by “section”. of title 42; or
+      - **(v)** an offense under State law determined by the Attorney General to be substantially similar to an offense described in clause (i), (ii), or (iii); and
+    - **(B)** the individual is not in compliance with the terms of the sentence of the individual or the restrictions under subsection (k).
+  - **(2)** The amount of benefits otherwise required to be provided to an eligible household under this chapter shall be determined by considering the individual to whom paragraph (1) applies not to be a member of the household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+  - **(3)** Each State shall require each individual applying for benefits under this chapter to attest to whether the individual, or any member of the household of the individual, has been convicted of a crime described in paragraph (1).
+- **(s)**
+  - **(1)** Any household in which a member receives substantial lottery or gambling winnings, as determined by the Secretary, shall lose eligibility for benefits immediately upon receipt of the winnings.
+  - **(2)** A household described in paragraph (1) shall remain ineligible for participation until the household meets the allowable financial resources and income eligibility requirements under subsections (c), (d), (e), (f), (g), (i), (k), (l), (m), and (n) of section 2014 of this title .
+  - **(3)** As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.

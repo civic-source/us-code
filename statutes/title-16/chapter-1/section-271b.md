@@ -3,9 +3,9 @@ title: "Section 271b - Grazing privileges; right of occupancy or use for fixed t
 usc_title: 16
 usc_section: "271b"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 271b"
-generated_at: "2026-03-30T03:36:30.028Z"
+generated_at: "2026-03-30T03:38:15.559Z"
 status: "active"
 ---
 

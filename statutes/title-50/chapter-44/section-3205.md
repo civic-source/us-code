@@ -3,9 +3,9 @@ title: "Section 3205 - Definitions"
 usc_title: 50
 usc_section: "3205"
 chapter: 44
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "50 U.S.C. § 3205"
-generated_at: "2026-03-30T03:37:33.616Z"
+generated_at: "2026-03-30T03:39:13.748Z"
 status: "active"
 ---
 

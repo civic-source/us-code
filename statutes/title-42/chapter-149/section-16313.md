@@ -3,9 +3,9 @@ title: "Section 16313 - Catalysis research program"
 usc_title: 42
 usc_section: "16313"
 chapter: 149
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 16313"
-generated_at: "2026-03-30T03:37:24.630Z"
+generated_at: "2026-03-30T03:39:06.574Z"
 status: "active"
 ---
 

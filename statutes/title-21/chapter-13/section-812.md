@@ -3,9 +3,9 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-30T03:36:35.977Z"
+generated_at: "2026-03-30T03:38:19.571Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV.
     - **(B)** The drug or other substance has a currently accepted medical use in treatment in the United States.
     - **(C)** Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
-- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended 1 1 Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs. pursuant to section 811 of this title , consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
+- **(c)** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to section 811 of this title , 1 1 See Amendment of Schedules of Controlled Substances note below. consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
 - **(a)** Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
   - **(1)** Acetylmethadol.
   - **(2)** Allylprodine.

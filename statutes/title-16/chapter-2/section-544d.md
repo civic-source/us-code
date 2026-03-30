@@ -3,9 +3,9 @@ title: "Section 544d - Scenic area management plan"
 usc_title: 16
 usc_section: "544d"
 chapter: 2
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 544d"
-generated_at: "2026-03-30T03:36:30.125Z"
+generated_at: "2026-03-30T03:38:15.650Z"
 status: "active"
 ---
 

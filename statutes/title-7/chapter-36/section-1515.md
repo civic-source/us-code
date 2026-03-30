@@ -3,9 +3,9 @@ title: "Section 1515 - Program compliance and integrity"
 usc_title: 7
 usc_section: "1515"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1515"
-generated_at: "2026-03-30T03:36:04.617Z"
+generated_at: "2026-03-30T03:37:54.829Z"
 status: "active"
 ---
 
@@ -18,7 +18,22 @@ status: "active"
   - **(1)** The Corporation shall notify in writing an approved insurance provider of any error, omission, or failure to follow Corporation regulations or procedures for which the approved insurance provider may be responsible and which may result in a debt owed the Corporation.
   - **(2)** Notice under paragraph (1) shall be given within 3 years after the end of the insurance period during which the error, omission, or failure is alleged to have occurred, except that this time limitation shall not apply with respect to an error, omission, or procedural violation that is willful or intentional.
   - **(3)** Except as provided in paragraph (2), the failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
-- **(c)** The Secretary shall develop and implement a coordinated plan for the Corporation and the Farm Service Agency to reconcile all relevant information received by the Corporation or the Farm Service Agency from a producer who obtains crop insurance coverage under this subchapter. Beginning with the 2001 crop year, the Secretary shall require that the Corporation and the Farm Service Agency reconcile such producer-derived information on at least an annual basis in order to identify and address any discrepancies.
+- **(c)**
+  - **(1)** The Secretary shall develop and implement a coordinated plan for the Corporation and the Farm Service Agency to reconcile all relevant information received by the Corporation or the Farm Service Agency from a producer who obtains crop insurance coverage under this subchapter.
+  - **(2)** Beginning with the 2001 crop year, the Secretary shall require that the Corporation and the Farm Service Agency reconcile such producer-derived information on at least an annual basis in order to identify and address any discrepancies.
+  - **(3)**
+    - **(A)** In addition to the corrections permitted by the Corporation as of the day before February 7, 2014 , the Corporation shall establish procedures that allow an agent or an approved insurance provider, subject to subparagraph (B)—
+      - **(i)** within a reasonable amount of time following the applicable sales closing date, to correct errors in information that is provided by a producer for the purpose of obtaining coverage under any policy or plan of insurance made available under this subchapter to ensure that the eligibility information is correct and consistent with information reported by the producer for other programs administered by the Secretary;
+      - **(ii)** within a reasonable amount of time following—
+        - **(I)** the acreage reporting date, to reconcile errors in the information reported by the producer with correct information determined from any other program administered by the Secretary; or
+        - **(II)** the date of any subsequent correction of data by the Farm Service Agency made as a result of the verification of information, to make conforming corrections; and
+      - **(iii)** at any time, to correct electronic transmission errors that were made by an agent or approved insurance provider, or such errors made by the Farm Service Agency or any other agency of the Department of Agriculture in transmitting the information provided by the producer for purposes of other programs of the Department to the extent an agent or approved insurance provider relied upon the erroneous information for crop insurance purposes.
+    - **(B)** In accordance with the procedures of the Corporation, correction to the information described in clauses (i) and (ii) of subparagraph (A) may only be made if the corrections do not allow the producer—
+      - **(i)** to avoid ineligibility requirements for insurance or obtain a disproportionate benefit under the crop insurance program or any related program administered by the Secretary;
+      - **(ii)** to obtain, enhance, or increase an insurance guarantee or indemnity if a cause of loss exists or has occurred before any correction has been made, or avoid premium owed if no loss is likely to occur; or
+      - **(iii)** to avoid an obligation or requirement under any Federal or State law.
+    - **(C)** Any corrections made within a reasonable amount of time, in accordance with established procedures, pursuant to this paragraph shall not be subject to any late filing sanctions authorized in the reinsurance agreement with the Corporation.
+    - **(D)** In the case of a producer that has inadvertently failed to pay a debt due as specified by regulations of the Corporation and has been determined to be ineligible for crop insurance pursuant to the terms of the policy as a result of that failure, the Corporation may determine to allow the producer to pay the debt and purchase the crop insurance after the sales closing date, in accordance with procedures and limitations established by the Corporation.
 - **(d)**
   - **(1)** The Secretary shall develop and implement a coordinated plan for the Farm Service Agency to assist the Corporation in the ongoing monitoring of programs carried out under this subchapter, including—
     - **(A)** at the request of the Corporation or, subject to paragraph (2), on its own initiative if the Farm Service Agency has reason to suspect the existence of program fraud, waste, or abuse, conducting fact finding relative to allegations of program fraud, waste, or abuse;
@@ -77,9 +92,19 @@ status: "active"
   - **(1)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the operation of this section during the preceding year and efforts undertaken by the Secretary and the Corporation to carry out this section.
   - **(2)** The report shall identify specific occurrences of waste, fraud, or abuse and contain an outline of actions that have been or are being taken to eliminate the identified waste, fraud, or abuse.
 - **(j)**
-  - **(1)** The Secretary shall upgrade the information management systems of the Corporation used in the administration and enforcement and this subchapter. In upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purpose of this section.
+  - **(1)**
+    - **(A)** The Secretary shall maintain and upgrade the information management systems of the Corporation used in the administration and enforcement of this subchapter.
+    - **(B)**
+      - **(i)** In maintaining and upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purposes of this section.
+      - **(ii)** As soon as practicable, the Secretary shall develop and implement an acreage report streamlining initiative project to allow producers to report acreage and other information directly to the Department.
   - **(2)** The Secretary shall use the information technologies known as data mining and data warehousing and other available information technologies to administer and enforce this subchapter.
   - **(3)** The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
 - **(k)**
-  - **(1)** To carry out subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than $15,000,000 for each of fiscal years 2008 through 2010, and not more than $9,000,000 for fiscal year 2011.
+  - **(1)**
+    - **(A)** For purposes of subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than—
+      - **(i)**
+        - **(I)** for fiscal year 2014, $14,000,000; and
+        - **(II)** for each of fiscal years 2015 through 2018, $9,000,000; or
+      - **(ii)** if the Acreage Crop Reporting Streamlining Initiative (ACRSI) project is substantially completed by September 30, 2015 , not more than $14,000,000 for each of the fiscal years 2015 through 2018.
+    - **(B)** The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the substantial completion of the Acreage Crop Reporting Streamlining Initiative (ACRSI) project not later than July 1, 2015 .
   - **(2)** To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.

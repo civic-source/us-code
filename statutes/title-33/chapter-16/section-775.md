@@ -3,9 +3,9 @@ title: "Section 775 - Payments nonassignable and exempt from process"
 usc_title: 33
 usc_section: "775"
 chapter: 16
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 775"
-generated_at: "2026-03-30T03:36:55.419Z"
+generated_at: "2026-03-30T03:38:40.683Z"
 status: "active"
 ---
 

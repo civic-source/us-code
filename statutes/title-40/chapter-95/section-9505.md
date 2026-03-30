@@ -3,9 +3,9 @@ title: "Section 9505 - Paying for main pipes"
 usc_title: 40
 usc_section: "9505"
 chapter: 95
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "40 U.S.C. § 9505"
-generated_at: "2026-03-30T03:37:04.458Z"
+generated_at: "2026-03-30T03:38:44.860Z"
 status: "active"
 ---
 

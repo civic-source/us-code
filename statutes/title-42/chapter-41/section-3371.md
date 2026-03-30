@@ -3,9 +3,9 @@ title: "Section 3371 - Assistance for housing in Alaska"
 usc_title: 42
 usc_section: "3371"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 3371"
-generated_at: "2026-03-30T03:37:24.187Z"
+generated_at: "2026-03-30T03:39:06.146Z"
 status: "active"
 ---
 

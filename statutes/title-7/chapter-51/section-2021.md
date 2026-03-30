@@ -3,9 +3,9 @@ title: "Section 2021 - Civil penalties and disqualification of retail food store
 usc_title: 7
 usc_section: "2021"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2021"
-generated_at: "2026-03-30T03:36:04.657Z"
+generated_at: "2026-03-30T03:37:54.864Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(ii)**
         - **(I)** the management of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; or
         - **(II)** the management was aware of, approved of, benefited from, or was involved in the conduct of no more than 1 previous violation by the store or food concern; or
-    - **(C)** a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21 ) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
+    - **(C)** a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21 ) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
   - **(4)** for a reasonable period of time to be determined by the Secretary, including permanent disqualification, on the knowing submission of an application for the approval or reauthorization to accept and redeem coupons that contains false information about a substantive matter that was a part of the application.
 - **(c)**
   - **(1)** In addition to a disqualification under this section, the Secretary may assess a civil penalty in an amount not to exceed $100,000 for each violation.
@@ -57,3 +57,25 @@ status: "active"
       - **(i)** if the program disqualification is upheld, may be subject to forfeiture pursuant to section 2024(g) of this title ; or
       - **(ii)** if the program disqualification is not upheld, shall be released to the retail food store or wholesale food concern.
   - **(3)** The Secretary shall not be liable for the value of any interest on funds suspended under this subsection.
+- **(i)**
+  - **(1)**
+    - **(A)** The Secretary shall carry out, under such terms and conditions as are determined by the Secretary, pilot projects to test innovative Federal-State partnerships to identify, investigate, and reduce fraud by retail food stores and wholesale food concerns in the supplemental nutrition assistance program, including allowing States to operate programs to investigate that fraud.
+    - **(B)** At least 1 pilot project described in subparagraph (A) shall be carried out in an urban area that is among the 10 largest urban areas in the United States (based on population), if—
+      - **(i)** the supplemental nutrition assistance program is separately administered in the area; and
+      - **(ii)** if the administration of the supplemental nutrition assistance program in the area complies with the other applicable requirements of the program.
+  - **(2)** Pilot projects shall be selected based on criteria the Secretary establishes, which shall include—
+    - **(A)** enhancing existing efforts by the Secretary to reduce fraud described in paragraph (1)(A);
+    - **(B)** requiring participant States to maintain the overall level of effort of the States at addressing recipient fraud, as determined by the Secretary, prior to participation in the pilot project;
+    - **(C)** collaborating with other law enforcement authorities as necessary to carry out an effective pilot project;
+    - **(D)** commitment of the participant State agency to follow Federal rules and procedures with respect to investigations described in paragraph (1)(A); and
+    - **(E)** the extent to which a State has committed resources to recipient fraud and the relative success of those efforts.
+  - **(3)**
+    - **(A)** The Secretary shall evaluate the pilot projects selected under this subsection to measure the impact of the pilot projects.
+    - **(B)** The evaluation shall include—
+      - **(i)** the impact of each pilot project on increasing the capacity of the Secretary to address fraud described in paragraph (1)(A);
+      - **(ii)** the effectiveness of the pilot projects in identifying, preventing and reducing fraud described in paragraph (1)(A); and
+      - **(iii)** the cost effectiveness of the pilot projects.
+  - **(4)** Not later than September 30, 2017 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that includes a description of the results of each pilot project, including—
+    - **(A)** an evaluation of the impact of the pilot project on fraud described in paragraph (1)(A); and
+    - **(B)** the costs associated with the pilot project.
+  - **(5)** Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.

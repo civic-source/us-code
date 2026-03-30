@@ -3,9 +3,9 @@ title: "Section 8834 - Price support loans and price guarantees"
 usc_title: 42
 usc_section: "8834"
 chapter: 96
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 8834"
-generated_at: "2026-03-30T03:37:24.431Z"
+generated_at: "2026-03-30T03:39:06.374Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** In the case of any existing municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined under paragraph (3) for the operation of such project. Payments under any such loan shall be disbursed on an annual basis, as determined (in accordance with paragraph (3)) on the basis of the amount of biomass energy produced and sold by that proj­ect during the 12-month period involved and the type and cost of fuel displaced by the biomass energy sold.
   - **(2)**
-    - **(A)** In the case of any support loan under this section for an existing municipal waste energy project—
+    - **(A)** 1 1 So in original. No subpar. (B) has been enacted. In the case of any support loan under this section for an existing municipal waste energy project—
       - **(i)** disbursements under such loan may not be made for more than 5 consecutive 12-month periods;
       - **(ii)** the amount of the disbursement for the second and any subsequent 12-month period for which disbursements are to be made under the support loan shall be reduced by an amount determined by multiplying the amount calculated under paragraph (3) by a factor determined by dividing the number of 12-month periods for which disbursements are made under the support loan into the number of such periods which have elapsed;
       - **(iii)** commencing at the end of the last of such 12-month periods, the support loan shall be repayable over a period equal to the then remaining useful life of the project (as determined by the Secretary) or 10 years, whichever is shorter; and

@@ -3,9 +3,9 @@ title: "Section 6971 - Under Secretary of Agriculture for Research, Education, a
 usc_title: 7
 usc_section: "6971"
 chapter: 98
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6971"
-generated_at: "2026-03-30T03:36:04.714Z"
+generated_at: "2026-03-30T03:37:54.914Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
       - **(iii)** Each program established under subsections (b) and (c) of section 343 of this title .
       - **(iv)** Each program established under the Hatch Act of 1887 ( 7 U.S.C. 361a et seq.).
       - **(v)** Each program established under section 1417(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3152(b) ).
-      - **(vi)** The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3191 et seq.).
+      - **(vi)** The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3191 et seq.) 1 1 So in original. Probably should be followed by a comma. except for the competitive grant program under section 1433(b) [ 7 U.S.C. 3195(b) ].
       - **(vii)** Each extension program available to 1890 Institutions established under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3221 ).
       - **(viii)** The program established under section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3222 ).
       - **(ix)** The program providing grants to upgrade agricultural and food sciences facilities at 1890 Institutions established under section 1447 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3222b ).
@@ -100,9 +100,8 @@ status: "active"
       - **(viii)** The research and extension projects carried out under section 5811 of this title .
       - **(ix)** The organic agriculture research and extension initiative established under section 5925b of this title .
       - **(x)** The specialty crop research initiative under section 7632 of this title .
-      - **(xi)** The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under section 5925e of this title .
-      - **(xii)** The research, extension, and education programs authorized by section 7627 of this title relating to the competitiveness, viability and sustainability of small- and medium-sized dairy, livestock, and poultry operations.
-      - **(xiii)** Other programs that are competitive programs, as determined by the Secretary.
+      - **(xi)** The research, extension, and education programs authorized by section 7627 of this title relating to the competitiveness, viability and sustainability of small- and medium-sized dairy, livestock, and poultry operations.
+      - **(xii)** Other programs that are competitive programs, as determined by the Secretary.
     - **(E)** The term “Director” means the Director of the Institute.
     - **(F)** The term “fundamental research” means research that—
       - **(i)** increases knowledge or understanding of the fundamental aspects of phenomena and has the potential for broad application; and

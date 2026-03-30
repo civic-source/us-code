@@ -3,9 +3,9 @@ title: "Section 1395aaa - Contract with a consensus-based entity regarding perfo
 usc_title: 42
 usc_section: "1395aaa"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1395aaa"
-generated_at: "2026-03-30T03:37:23.973Z"
+generated_at: "2026-03-30T03:39:05.938Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
       - **(ii)** national priorities (as identified under section 280j of this title ) for improvement in population health and in the delivery of health care services for consideration under the national strategy established under section 280j of this title .
     - **(B)**
       - **(i)** Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
-        - **(I)** for use pursuant to sections 1395f(i)(5)(D), 1395 l (i)(7), 1395 l (t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww( o )(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+        - **(I)** for use pursuant to sections 1395f(i)(5)(D), 1395 l (i)(7), 1395 l (t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 1 1 See References in Text note below. 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww( o )(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
         - **(II)** for use in reporting performance information to the public; and
         - **(III)** for use in health care programs other than for use under this chapter.
       - **(ii)** Data sets (such as the outcome and assessment information set for home health services and the minimum data set for skilled nursing facility services) that are used for purposes of classification systems used in establishing payment rates under this subchapter shall not be quality and efficiency measures described in this subparagraph.
@@ -75,4 +75,6 @@ status: "active"
   - **(5)** The entity operates as a voluntary consensus standards setting organization as defined for purposes of section 12(d) of the National Technology Transfer and Advancement Act of 1995 ( Public Law 104–113 ) and Office of Management and Budget Revised Circular A–119 (published in the Federal Register on February 10, 1998 ).
   - **(6)** The entity has at least 4 years of experience in establishing national consensus standards.
   - **(7)** If the entity requires a membership fee for participation in the functions of the entity, such fees shall be reasonable and adjusted based on the capacity of the potential member to pay the fee. In no case shall membership fees pose a barrier to the participation of individuals or groups with low or nominal resources to participate in the functions of the entity.
-- **(d)** For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
+- **(d)**
+  - **(1)** For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
+  - **(2)** For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $15,000,000 for the first 6 months of fiscal year 2015. Amounts transferred under the preceding sentence shall remain available until expended.

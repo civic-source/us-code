@@ -3,9 +3,9 @@ title: "Section 8738 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "8738"
 chapter: 113
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8738"
-generated_at: "2026-03-30T03:36:04.748Z"
+generated_at: "2026-03-30T03:37:54.944Z"
 status: "active"
 ---
 

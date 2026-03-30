@@ -3,9 +3,9 @@ title: "Section 426a - Omitted"
 usc_title: 7
 usc_section: "426a"
 chapter: 17
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 426a"
-generated_at: "2026-03-30T03:36:04.579Z"
+generated_at: "2026-03-30T03:37:54.796Z"
 status: "omitted"
 ---
 

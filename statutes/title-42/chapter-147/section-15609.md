@@ -3,9 +3,9 @@ title: "Section 15609 - Definitions"
 usc_title: 42
 usc_section: "15609"
 chapter: 147
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15609"
-generated_at: "2026-03-30T03:37:24.613Z"
+generated_at: "2026-03-30T03:39:06.556Z"
 status: "active"
 ---
 

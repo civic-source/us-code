@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T03:36:13.246Z"
+generated_at: "2026-03-30T03:38:05.984Z"
 status: "active"
 ---
 
@@ -220,7 +220,3 @@ status: "active"
 - **(aa)** In this chapter, the term “venture capital operating company” means an entity described in clause (i), (v), or (vi) of section 121.103(b)(5) of title 13, Code of Federal Regulations (or any successor thereto).
 - **(bb)** In this chapter, the term “hedge fund” has the meaning given that term in section 1851(h)(2) of title 12 .
 - **(cc)** In this chapter, the term “private equity firm” has the meaning given the term “private equity fund” in section 1851(h)(2) of title 12 .
-- **(dd)** In this chapter:
-  - **(1)** The term “subcontract” means a legally binding agreement between a contractor that is already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
-  - **(2)** The term “first tier subcontractor” means a subcontractor who has a subcontract directly with the prime contractor.
-  - **(3)** The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.

@@ -3,9 +3,9 @@ title: "Section 2584 - Dual compensation exemption"
 usc_title: 22
 usc_section: "2584"
 chapter: 35
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2584"
-generated_at: "2026-03-30T03:36:39.881Z"
+generated_at: "2026-03-30T03:38:22.247Z"
 status: "active"
 ---
 

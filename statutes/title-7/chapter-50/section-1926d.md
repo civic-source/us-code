@@ -3,9 +3,9 @@ title: "Section 1926d - Water systems for rural and Native villages in Alaska"
 usc_title: 7
 usc_section: "1926d"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1926d"
-generated_at: "2026-03-30T03:36:04.636Z"
+generated_at: "2026-03-30T03:37:54.845Z"
 status: "active"
 ---
 
@@ -15,6 +15,6 @@ status: "active"
 - **(b)** To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
 - **(c)** The Secretary shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each village.
 - **(d)**
-  - **(1)** There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012.
+  - **(1)** There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2018.
   - **(2)** Not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by the State of Alaska for training and technical assistance programs relating to the operation and management of water and waste disposal services in rural and Native villages.
   - **(3)** Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.

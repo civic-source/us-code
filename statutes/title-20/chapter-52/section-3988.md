@@ -3,9 +3,9 @@ title: "Section 3988 - Payments; Federal share; limitation"
 usc_title: 20
 usc_section: "3988"
 chapter: 52
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 3988"
-generated_at: "2026-03-30T03:36:22.868Z"
+generated_at: "2026-03-30T03:38:12.847Z"
 status: "active"
 ---
 

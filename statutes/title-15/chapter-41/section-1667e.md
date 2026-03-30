@@ -3,9 +3,9 @@ title: "Section 1667e - Applicability of State laws; exemptions by Bureau from l
 usc_title: 15
 usc_section: "1667e"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1667e"
-generated_at: "2026-03-30T03:36:13.332Z"
+generated_at: "2026-03-30T03:38:06.046Z"
 status: "active"
 ---
 

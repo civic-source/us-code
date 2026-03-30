@@ -3,9 +3,9 @@ title: "Section 2311 - Report to Congress covering proposals for water impoundme
 usc_title: 33
 usc_section: "2311"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 2311"
-generated_at: "2026-03-30T03:36:55.462Z"
+generated_at: "2026-03-30T03:38:40.740Z"
 status: "active"
 ---
 

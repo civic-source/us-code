@@ -3,9 +3,9 @@ title: "Section 1733 - Critical acquisition positions"
 usc_title: 10
 usc_section: "1733"
 chapter: 87
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 1733"
-generated_at: "2026-03-30T03:36:02.487Z"
+generated_at: "2026-03-30T03:37:58.808Z"
 status: "active"
 ---
 

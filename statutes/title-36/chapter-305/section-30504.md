@@ -3,9 +3,9 @@ title: "Section 30504 - Membership"
 usc_title: 36
 usc_section: "30504"
 chapter: 305
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "36 U.S.C. § 30504"
-generated_at: "2026-03-30T03:37:03.067Z"
+generated_at: "2026-03-30T03:38:44.285Z"
 status: "active"
 ---
 

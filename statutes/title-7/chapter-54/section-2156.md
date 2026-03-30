@@ -3,17 +3,20 @@ title: "Section 2156 - Animal fighting venture prohibition"
 usc_title: 7
 usc_section: "2156"
 chapter: 54
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2156"
-generated_at: "2026-03-30T03:36:04.664Z"
+generated_at: "2026-03-30T03:37:54.870Z"
 status: "active"
 ---
 
 # § 2156. Animal fighting venture prohibition
 
 - **(a)**
-  - **(1)** Except as provided in paragraph (2), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture.
-  - **(2)** With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
+  - **(1)** Except as provided in paragraph (3), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture.
+  - **(2)** It shall be unlawful for any person to—
+    - **(A)** knowingly attend an animal fighting venture; or
+    - **(B)** knowingly cause an individual who has not attained the age of 16 to attend an animal fighting venture.
+  - **(3)** With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
 - **(b)** It shall be unlawful for any person to knowingly sell, buy, possess, train, transport, deliver, or receive any animal for purposes of having the animal participate in an animal fighting venture.
 - **(c)** It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of advertising an animal, or an instrument described in subsection (e), for use in an animal fighting venture, promoting 2 2 So in original. Probably should be preceded by “or”. or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
 - **(d)** Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.

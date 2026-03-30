@@ -3,9 +3,9 @@ title: "Section 1814 - Repairs of Capitol"
 usc_title: 2
 usc_section: "1814"
 chapter: 28
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 1814"
-generated_at: "2026-03-30T03:35:51.742Z"
+generated_at: "2026-03-30T03:37:47.345Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 886 - Survey of lands within limits of railroad grants"
 usc_title: 43
 usc_section: "886"
 chapter: 21
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 886"
-generated_at: "2026-03-30T03:37:08.087Z"
+generated_at: "2026-03-30T03:38:49.742Z"
 status: "active"
 ---
 

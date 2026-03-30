@@ -3,9 +3,9 @@ title: "Section 3707 - Contractor certification or contract clause in acquisitio
 usc_title: 40
 usc_section: "3707"
 chapter: 37
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "40 U.S.C. § 3707"
-generated_at: "2026-03-30T03:37:04.452Z"
+generated_at: "2026-03-30T03:38:44.853Z"
 status: "active"
 ---
 

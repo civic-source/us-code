@@ -3,9 +3,9 @@ title: "Section 715d1715d2 - Repealed. Pub. L. 89–669, § 8(a) , Oct. 15, 1966
 usc_title: 16
 usc_section: "715d1715d2"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 715d1715d2"
-generated_at: "2026-03-30T03:36:30.149Z"
+generated_at: "2026-03-30T03:38:15.674Z"
 status: "repealed"
 ---
 

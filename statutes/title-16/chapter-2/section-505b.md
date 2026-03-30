@@ -3,9 +3,9 @@ title: "Section 505b - Laws applicable"
 usc_title: 16
 usc_section: "505b"
 chapter: 2
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 505b"
-generated_at: "2026-03-30T03:36:30.118Z"
+generated_at: "2026-03-30T03:38:15.644Z"
 status: "active"
 ---
 

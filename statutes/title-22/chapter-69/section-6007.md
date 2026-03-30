@@ -3,9 +3,9 @@ title: "Section 6007 - Policy toward a democratic Cuban Government"
 usc_title: 22
 usc_section: "6007"
 chapter: 69
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 6007"
-generated_at: "2026-03-30T03:36:39.947Z"
+generated_at: "2026-03-30T03:38:22.295Z"
 status: "active"
 ---
 

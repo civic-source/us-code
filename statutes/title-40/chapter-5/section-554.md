@@ -3,9 +3,9 @@ title: "Section 554 - Property for development or operation of a port facility"
 usc_title: 40
 usc_section: "554"
 chapter: 5
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "40 U.S.C. § 554"
-generated_at: "2026-03-30T03:37:04.443Z"
+generated_at: "2026-03-30T03:38:44.846Z"
 status: "active"
 ---
 

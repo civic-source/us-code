@@ -3,9 +3,9 @@ title: "Section 2264 - Deauthorization of studies"
 usc_title: 33
 usc_section: "2264"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 2264"
-generated_at: "2026-03-30T03:36:55.459Z"
+generated_at: "2026-03-30T03:38:40.736Z"
 status: "active"
 ---
 

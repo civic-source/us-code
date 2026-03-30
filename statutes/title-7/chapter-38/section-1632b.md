@@ -3,9 +3,9 @@ title: "Section 1632b - Agriculture Innovation Center Demonstration Program"
 usc_title: 7
 usc_section: "1632b"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1632b"
-generated_at: "2026-03-30T03:36:04.624Z"
+generated_at: "2026-03-30T03:37:54.835Z"
 status: "active"
 ---
 
@@ -70,4 +70,4 @@ status: "active"
   - **(2)** The report under paragraph (1) shall—
     - **(A)** include a description of the best practices and innovations found at each of the Agriculture Innovation Centers established under the Program; and
     - **(B)** specify the number and type of activities assisted, and the type of assistance provided, under the Program.
-- **(i)** There is authorized to be appropriated to the Secretary to carry out this section $6,000,000 for each of fiscal years 2008 through 2012.
+- **(i)** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.

@@ -3,9 +3,9 @@ title: "Section 5341 - Establishment of dietary guidelines"
 usc_title: 7
 usc_section: "5341"
 chapter: 84
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5341"
-generated_at: "2026-03-30T03:36:04.694Z"
+generated_at: "2026-03-30T03:37:54.896Z"
 status: "active"
 ---
 
@@ -14,6 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** At least every five years the Secretaries shall publish a report entitled “Dietary Guidelines for Americans”. Each such report shall contain nutritional and dietary information and guidelines for the general public, and shall be promoted by each Federal agency in carrying out any Federal food, nutrition, or health program.
   - **(2)** The information and guidelines contained in each report required under paragraph (1) shall be based on the preponderance of the scientific and medical knowledge which is current at the time the report is prepared.
+  - **(3)** Not later than the 2020 report and in each report thereafter, the Secretaries shall include national nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
 - **(b)**
   - **(1)** Any Federal agency that proposes to issue any dietary guidance for the general population or identified population subgroups shall submit the text of such guidance to the Secretaries for a sixty-day review period.
   - **(2)**

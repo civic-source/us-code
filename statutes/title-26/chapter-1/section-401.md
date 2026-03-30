@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T03:36:52.262Z"
+generated_at: "2026-03-30T03:38:35.935Z"
 status: "active"
 ---
 
@@ -180,7 +180,7 @@ status: "active"
         - **(II)** the 1st plan year beginning after December 31, 1986 .
       - **(v)** This subparagraph shall not apply to an applicable defined contribution plan (as defined in paragraph (35)(E)).
     - **(C)** A plan meets the requirements of this subparagraph if all valuations of employer securities which are not readily tradable on an established securities market with respect to activities carried on by the plan are by an independent appraiser. For purposes of the preceding sentence, the term “independent appraiser” means any appraiser meeting requirements similar to the requirements of the regulations prescribed under section 170(a)(1).
-  - **(29)** In the case of a defined benefit plan (other than a multiemployer plan) to which the requirements of section 412 apply, the trust of which the plan is a part shall not constitute a qualified trust under this subsection unless the plan meets the requirements of section 436.
+  - **(29)** In the case of a defined benefit plan (other than a multiemployer plan or a CSEC plan) to which the requirements of section 412 apply, the trust of which the plan is a part shall not constitute a qualified trust under this subsection unless the plan meets the requirements of section 436.
   - **(30)** In the case of a trust which is part of a plan under which elective deferrals (within the meaning of section 402(g)(3)) may be made with respect to any individual during a calendar year, such trust shall not constitute a qualified trust under this subsection unless the plan provides that the amount of such deferrals under such plan and all other plans, contracts, or arrangements of an employer maintaining such plan may not exceed the amount of the limitation in effect under section 402(g)(1)(A) for taxable years beginning in such calendar year.
   - **(31)**
     - **(A)** A trust shall not constitute a qualified trust under this section unless the plan of which such trust is a part provides that if the distributee of any eligible rollover distribution—
@@ -197,12 +197,12 @@ status: "active"
     - **(D)** For purposes of this paragraph, the term “eligible rollover distribution” has the meaning given such term by section 402(f)(2)(A).
     - **(E)** For purposes of this paragraph, the term “eligible retirement plan” has the meaning given such term by section 402(c)(8)(B), except that a qualified trust shall be considered an eligible retirement plan only if it is a defined contribution plan, the terms of which permit the acceptance of rollover distributions.
   - **(32)**
-    - **(A)** A trust forming part of a pension plan to which section section 3 3 So in original. 430(j)(4) applies shall not be treated as failing to constitute a qualified trust under this section merely because such plan ceases to make any payment described in subparagraph (B) during any period that such plan has a liquidity shortfall (as defined in section section 3 430(j)(4)).
+    - **(A)** A trust forming part of a pension plan to which section section 3 3 So in original. 430(j)(4) or 433(f)(5) applies shall not be treated as failing to constitute a qualified trust under this section merely because such plan ceases to make any payment described in subparagraph (B) during any period that such plan has a liquidity shortfall (as defined in section section 3 430(j)(4) or 433(f)(5)).
     - **(B)** A payment is described in this subparagraph if such payment is—
       - **(i)** any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs during the period referred to in subparagraph (A),
       - **(ii)** any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
       - **(iii)** any other payment specified by the Secretary by regulations.
-    - **(C)** For purposes of this paragraph, a plan has a liquidity shortfall during the period that there is an underpayment of an installment under section 430(j)(3) by reason of section 430(j)(4)(A) thereof. 4 4 So in original. The “thereof” probably should not appear.
+    - **(C)** For purposes of this paragraph, a plan has a liquidity shortfall during the period that there is an underpayment of an installment under section 430(j)(3) or 433(f) by reason of section 430(j)(4)(A) or 433(f)(5), respectively.
   - **(33)**
     - **(A)** A trust which is part of a plan to which this paragraph applies shall not constitute a qualified trust under this section if an amendment to such plan is adopted while the employer is a debtor in a case under title 11, United States Code, or similar Federal or State law, if such amendment increases liabilities of the plan by reason of—
       - **(i)** any increase in benefits,
@@ -213,7 +213,7 @@ status: "active"
       - **(ii)** the Secretary determines that such amendment is reasonable and provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
       - **(iii)** such amendment only repeals an amendment described in section 412(d)(2), or
       - **(iv)** such amendment is required as a condition of qualification under this part.
-    - **(C)** This paragraph shall apply only to plans (other than multiemployer plans) covered under section 4021 of the Employee Retirement Income Security Act of 1974.
+    - **(C)** This paragraph shall apply only to plans (other than multiemployer plans or CSEC plans) covered under section 4021 of the Employee Retirement Income Security Act of 1974.
     - **(D)** For purposes of this paragraph, the term “employer” means the employer referred to in section 412(b)(1), without regard to section 412(b)(2).
   - **(34)** In the case of a plan covered by title IV of the Employee Retirement Income Security Act of 1974, a trust forming part of such plan shall not be treated as failing to constitute a qualified trust under this section merely because the pension plan of which such trust is a part, upon its termination, transfers benefits of missing participants to the Pension Benefit Guaranty Corporation in accordance with section 4050 of such Act.
   - **(35)**
@@ -272,7 +272,7 @@ status: "active"
     - **(A)** The term “earned income” means the net earnings from self-employment (as defined in section 1402(a)), but such net earnings shall be determined—
       - **(i)** only with respect to a trade or business in which personal services of the taxpayer are a material income-producing factor,
       - **(ii)** without regard to paragraphs (4) and (5) of section 1402(c),
-      - **(iii)** in the case of any individual who is treated as an employee under sections 5 5 So in original. Probably should be “section”. 3121(d)(3)(A), (C), or (D), without regard to paragraph (2) of section 1402(c),
+      - **(iii)** in the case of any individual who is treated as an employee under sections 4 4 So in original. Probably should be “section”. 3121(d)(3)(A), (C), or (D), without regard to paragraph (2) of section 1402(c),
       - **(iv)** without regard to items which are not included in gross income for purposes of this chapter, and the deductions properly allocable to or chargeable against such items,
       - **(v)** with regard to the deductions allowed by section 404 to the taxpayer, and
       - **(vi)** with regard to the deduction allowed to the taxpayer by section 164(f).
@@ -363,7 +363,7 @@ status: "active"
       - **(iv)** any organization which—
         - **(I)** is a mutual irrigation or ditch company described in section 501(c)(12) (without regard to the 85 percent requirement thereof), or
         - **(II)** is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
-      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 6 6 So in original. (iii), or (iv).
+      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 5 5 So in original. (iii), or (iv).
     - **(C)** A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
   - **(8)**
     - **(A)** A cash or deferred arrangement shall not be treated as failing to meet the requirements of clause (ii) of paragraph (3)(A) for any plan year if, before the close of the following plan year—

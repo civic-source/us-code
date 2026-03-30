@@ -3,9 +3,9 @@ title: "Section 15403 - Condition for receipt of funds"
 usc_title: 42
 usc_section: "15403"
 chapter: 146
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15403"
-generated_at: "2026-03-30T03:37:24.607Z"
+generated_at: "2026-03-30T03:39:06.551Z"
 status: "active"
 ---
 

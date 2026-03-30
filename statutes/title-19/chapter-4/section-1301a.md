@@ -3,9 +3,9 @@ title: "Section 1301a - Repealed. Pub. L. 87–456, title III, § 301(a) , May 2
 usc_title: 19
 usc_section: "1301a"
 chapter: 4
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "19 U.S.C. § 1301a"
-generated_at: "2026-03-30T03:36:24.420Z"
+generated_at: "2026-03-30T03:38:10.896Z"
 status: "repealed"
 ---
 

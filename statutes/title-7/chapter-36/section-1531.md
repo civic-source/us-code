@@ -3,9 +3,9 @@ title: "Section 1531 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "1531"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1531"
-generated_at: "2026-03-30T03:36:04.619Z"
+generated_at: "2026-03-30T03:37:54.831Z"
 status: "active"
 ---
 
@@ -96,9 +96,9 @@ status: "active"
       - **(i)** the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
         - **(I)** the actual production by crop on a farm for purposes of determining losses under subchapter I or the noninsured crop assistance program; and
         - **(II)** subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
-      - **(ii)** 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8713 , 8753] or successor sections;
-      - **(iii)** the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8714 , 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 of that Act [ 7 U.S.C. 8715 ];
-      - **(iv)** the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C 2 2 See References in Text note below. of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8731 et seq., 8751 et seq.] or successor subtitles;
+      - **(ii)** 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 2 2 See References in Text note below. of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8713 , 8753] or successor sections;
+      - **(iii)** the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 2 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8714 , 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 2 of that Act [ 7 U.S.C. 8715 ];
+      - **(iv)** the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C 2 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8731 et seq., 8751 et seq.] or successor subtitles;
       - **(v)** the amount of payments for prevented planting on a farm;
       - **(vi)** the amount of crop insurance indemnities received by an eligible producer on a farm for each crop on a farm;
       - **(vii)** the amount of payments an eligible producer on a farm received under the noninsured crop assistance program for each crop on a farm; and
@@ -157,11 +157,9 @@ status: "active"
     - **(A)** a drought condition, as described in paragraph (3); or
     - **(B)** fire, as described in paragraph (4).
   - **(3)**
-    - **(A)**
-      - **(i)** An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
-        - **(I)** is native or improved pastureland with permanent vegetative cover; or
-        - **(II)** is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
-      - **(ii)** An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3831 et seq.).
+    - **(A)** An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
+      - **(i)** is native or improved pastureland with permanent vegetative cover; or
+      - **(ii)** is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.
     - **(B)**
       - **(i)** Except as provided in clause (ii), the payment rate for assistance under this paragraph for 1 month shall, in the case of drought, be equal to 60 percent of the lesser of—
         - **(I)** the monthly feed cost for all covered livestock owned or leased by the eligible livestock producer, as determined under subparagraph (C); or

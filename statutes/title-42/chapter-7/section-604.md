@@ -3,9 +3,9 @@ title: "Section 604 - Use of grants"
 usc_title: 42
 usc_section: "604"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 604"
-generated_at: "2026-03-30T03:37:23.809Z"
+generated_at: "2026-03-30T03:39:05.768Z"
 status: "active"
 ---
 
@@ -66,8 +66,8 @@ status: "active"
       - **(ii)** includes a description of services or goods to be sold, a marketing plan, and projected financial statements, and
       - **(iii)** may require the eligible individual to obtain the assistance of an experienced entrepreneurial advisor.
     - **(I)** The term “qualified principal residence” means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
-- **(i)** A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012( l ) of title 7, if such adult fails to ensure that the minor dependent children of such adult attend school as required by the law of the State in which the minor children reside.
-- **(j)** A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012( l ) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+- **(i)** A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012( l ) of title 7, 1 if such adult fails to ensure that the minor dependent children of such adult attend school as required by the law of the State in which the minor children reside.
+- **(j)** A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012( l ) of title 7, 1 if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 - **(k)**
   - **(1)** A State to which a grant is made under section 603 of this title may not use any part of the grant to match funds made available under section 3037 of the Transportation Equity Act for the 21st Century, unless—
     - **(A)** the grant is used for new or expanded transportation services (and not for construction) that benefit individuals described in subparagraph (C), and not to subsidize current operating costs;

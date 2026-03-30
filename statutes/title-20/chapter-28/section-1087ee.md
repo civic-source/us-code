@@ -3,9 +3,9 @@ title: "Section 1087ee - Cancellation of loans for certain public service"
 usc_title: 20
 usc_section: "1087ee"
 chapter: 28
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 1087ee"
-generated_at: "2026-03-30T03:36:22.789Z"
+generated_at: "2026-03-30T03:38:12.791Z"
 status: "active"
 ---
 

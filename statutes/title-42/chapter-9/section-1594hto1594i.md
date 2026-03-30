@@ -3,9 +3,9 @@ title: "Section 1594hto1594i - Repealed. Pub. L. 97–214, § 7(3) , (5), (9), (
 usc_title: 42
 usc_section: "1594hto1594i"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1594hto1594i"
-generated_at: "2026-03-30T03:37:24.073Z"
+generated_at: "2026-03-30T03:39:06.035Z"
 status: "repealed"
 ---
 

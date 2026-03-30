@@ -3,15 +3,15 @@ title: "Section 2013 - Establishment of supplemental nutrition assistance progra
 usc_title: 7
 usc_section: "2013"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2013"
-generated_at: "2026-03-30T03:36:04.653Z"
+generated_at: "2026-03-30T03:37:54.859Z"
 status: "active"
 ---
 
 # § 2013. Establishment of supplemental nutrition assistance program
 
-- **(a)** Subject to the availability of funds appropriated under section 2027 of this title , the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. benefits 1 1 So in original. Probably should be capitalized. issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
+- **(a)** Subject to the availability of funds appropriated under section 2027 of this title , the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. Benefits issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
 - **(b)**
   - **(1)** Distribution of commodities, with or without the supplemental nutrition assistance program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization.
   - **(2)**
@@ -31,5 +31,5 @@ status: "active"
       - **(i)** survey participants of the food distribution program on Indian reservations established under this subsection to determine which traditional foods are most desired by those participants; and
       - **(ii)** purchase or offer to purchase those traditional foods that may be procured cost-effectively.
     - **(E)** Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.
-    - **(F)** There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2008 through 2012.
+    - **(F)** There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2008 through 2018.
 - **(c)** The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5 . In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.

@@ -3,9 +3,9 @@ title: "Section 6425 - Adjustment of overpayment of estimated income tax by corp
 usc_title: 26
 usc_section: "6425"
 chapter: 65
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 6425"
-generated_at: "2026-03-30T03:36:52.438Z"
+generated_at: "2026-03-30T03:38:36.189Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(4)** For purposes of this title (other than section 6655), any adjustment under this section shall be treated as a reduction, in the estimated income tax paid, made on the day the credit is allowed or the refund is paid.
 - **(c)** For purposes of this section and section 6655(h) (relating to excessive adjustment)—
   - **(1)** The term “income tax liability” means the excess of—
-    - **(A)** The sum of—
+    - **(A)** The 1 1 So in original. Probably should not be capitalized. sum of—
       - **(i)** the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
       - **(ii)** the tax imposed by section 55, plus
       - **(iii)** the tax imposed by section 59A, over

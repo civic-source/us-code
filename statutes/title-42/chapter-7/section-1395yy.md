@@ -3,9 +3,9 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-30T03:37:23.972Z"
+generated_at: "2026-03-30T03:39:05.936Z"
 status: "active"
 ---
 
@@ -127,3 +127,60 @@ status: "active"
     - **(C)** Capital assets (including building and land costs).
     - **(D)** Administrative services costs.
   - **(4)** The Secretary shall establish procedures to make information on expenditures submitted under this subsection readily available to interested parties upon request, subject to such requirements as the Secretary may specify under the procedures established under this paragraph.
+- **(g)**
+  - **(1)** Not later than October 1, 2015 , the Secretary shall specify a skilled nursing facility all-cause all-condition hospital readmission measure (or any successor to such a measure).
+  - **(2)** Not later than October 1, 2016 , the Secretary shall specify a measure to reflect an all-condition risk-adjusted potentially preventable hospital readmission rate for skilled nursing facilities.
+  - **(3)** When specifying the measures under paragraphs (1) and (2), the Secretary shall devise a methodology to achieve a high level of reliability and validity, especially for skilled nursing facilities with a low volume of readmissions.
+  - **(4)** The application of the provisions of section 1395aaa–1 of this title shall be optional in the case of a measure specified under paragraph (1) and a measure specified under paragraph (2).
+  - **(5)** Beginning October 1, 2016 , and every quarter thereafter, the Secretary shall provide confidential feedback reports to skilled nursing facilities on the performance of such facilities with respect to a measure specified under paragraph (1) or (2).
+  - **(6)**
+    - **(A)** Subject to subparagraphs (B) and (C), the Secretary shall establish procedures for making available to the public by posting on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title information on the performance of skilled nursing facilities with respect to a measure specified under paragraph (1) and a measure specified under paragraph (2).
+    - **(B)** The procedures under subparagraph (A) shall ensure that a skilled nursing facility has the opportunity to review and submit corrections to the information that is to be made public with respect to the facility prior to such information being made public.
+    - **(C)** Such procedures shall provide that the information described in subparagraph (A) is made publicly available beginning not later than October 1, 2017 .
+  - **(7)** Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this subsection.
+- **(h)**
+  - **(1)**
+    - **(A)** Subject to the succeeding provisions of this subsection, the Secretary shall establish a skilled nursing facility value-based purchasing program (in this subsection referred to as the “SNF VBP Program”) under which value-based incentive payments are made in a fiscal year to skilled nursing facilities.
+    - **(B)** The SNF VBP Program shall apply to payments for services furnished on or after October 1, 2018 .
+  - **(2)**
+    - **(A)** The Secretary shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program.
+    - **(B)** For purposes of the SNF VBP Program, the Secretary shall apply the measure specified under (g)(2) 1 1 So in original. Probably should be preceded by “subsection”. instead of the measure specified under (g)(1) 1 as soon as practicable.
+  - **(3)**
+    - **(A)** The Secretary shall establish performance standards with respect to the measure applied under paragraph (2) for a performance period for a fiscal year.
+    - **(B)** The performance standards established under subparagraph (A) shall include levels of achievement and improvement. In calculating the SNF performance score under paragraph (4), the Secretary shall use the higher of either improvement or achievement.
+    - **(C)** The Secretary shall establish and announce the performance standards established under subparagraph (A) not later than 60 days prior to the beginning of the performance period for the fiscal year involved.
+  - **(4)**
+    - **(A)** The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the “SNF performance score”) for each skilled nursing facility for each such performance period.
+    - **(B)** The Secretary shall, for the performance period for each fiscal year, rank the SNF performance scores determined under subparagraph (A) from low to high.
+  - **(5)**
+    - **(A)** With respect to a skilled nursing facility, based on the ranking under paragraph (4)(B) for a performance period for a fiscal year, the Secretary shall increase the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility (and after application of paragraph (6)) for services furnished by such facility during such fiscal year by the value-based incentive payment amount under subparagraph (B).
+    - **(B)** The value-based incentive payment amount for services furnished by a skilled nursing facility in a fiscal year shall be equal to the product of—
+      - **(i)** the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility for such services furnished by the skilled nursing facility during such fiscal year; and
+      - **(ii)** the value-based incentive payment percentage specified under subparagraph (C) for the skilled nursing facility for such fiscal year.
+    - **(C)**
+      - **(i)** The Secretary shall specify a value-based incentive payment percentage for a skilled nursing facility for a fiscal year which may include a zero percentage.
+      - **(ii)** In specifying the value-based incentive payment percentage for each skilled nursing facility for a fiscal year under clause (i), the Secretary shall ensure that—
+        - **(I)** such percentage is based on the SNF performance score of the skilled nursing facility provided under paragraph (4) for the performance period for such fiscal year;
+        - **(II)** the application of all such percentages in such fiscal year results in an appropriate distribution of value-based incentive payments under subparagraph (B) such that—
+        - **(III)** the total amount of value-based incentive payments under this paragraph for all skilled nursing facilities in such fiscal year shall be greater than or equal to 50 percent, but not greater than 70 percent, of the total amount of the reductions to payments for such fiscal year under paragraph (6), as estimated by the Secretary.
+  - **(6)**
+    - **(A)** The Secretary shall reduce the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to a skilled nursing facility for services furnished by such facility during a fiscal year (beginning with fiscal year 2019) by the applicable percent (as defined in subparagraph (B)). The Secretary shall make such reductions for all skilled nursing facilities in the fiscal year involved, regardless of whether or not the skilled nursing facility has been determined by the Secretary to have earned a value-based incentive payment under paragraph (5) for such fiscal year.
+    - **(B)** For purposes of subparagraph (A), the term “applicable percent” means, with respect to fiscal year 2019 and succeeding fiscal years, 2 percent.
+  - **(7)** Under the SNF VBP Program, the Secretary shall, not later than 60 days prior to the fiscal year involved, inform each skilled nursing facility of the adjustments to payments to the skilled nursing facility for services furnished by such facility during the fiscal year under paragraphs (5) and (6).
+  - **(8)** The value-based incentive payment under paragraph (5) and the payment reduction under paragraph (6) shall each apply only with respect to the fiscal year involved, and the Secretary shall not take into account such value-based incentive payment or payment reduction in making payments to a skilled nursing facility under this section in a subsequent fiscal year.
+  - **(9)**
+    - **(A)** The Secretary shall make available to the public, by posting on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title in an easily understandable format, information regarding the performance of individual skilled nursing facilities under the SNF VBP Program, with respect to a fiscal year, including—
+      - **(i)** the SNF performance score of the skilled nursing facility for such fiscal year; and
+      - **(ii)** the ranking of the skilled nursing facility under paragraph (4)(B) for the performance period for such fiscal year.
+    - **(B)** The Secretary shall periodically post on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title aggregate information on the SNF VBP Program, including—
+      - **(i)** the range of SNF performance scores provided under paragraph (4)(A); and
+      - **(ii)** the number of skilled nursing facilities receiving value-based incentive payments under paragraph (5) and the range and total amount of such value-based incentive payments.
+  - **(10)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise of the following:
+    - **(A)** The methodology used to determine the value-based incentive payment percentage and the amount of the value-based incentive payment under paragraph (5).
+    - **(B)** The determination of the amount of funding available for such value-based incentive payments under paragraph (5)(C)(ii)(III) and the payment reduction under paragraph (6).
+    - **(C)** The establishment of the performance standards under paragraph (3) and the performance period.
+    - **(D)** The methodology developed under paragraph (4) that is used to calculate SNF performance scores and the calculation of such scores.
+    - **(E)** The ranking determinations under paragraph (4)(B).
+  - **(11)** The Secretary shall provide for the one time transfer from the Federal Hospital Insurance Trust Fund established under section 1395i of this title to the Centers for Medicare & Medicaid Services Program Management Account of—
+    - **(A)** for purposes of subsection (g)(2), $2,000,000; and
+    - **(B)** for purposes of implementing this subsection, $10,000,000.

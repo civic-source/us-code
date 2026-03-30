@@ -3,9 +3,9 @@ title: "Section 1638 - Definitions"
 usc_title: 7
 usc_section: "1638"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1638"
-generated_at: "2026-03-30T03:36:04.626Z"
+generated_at: "2026-03-30T03:37:54.837Z"
 status: "active"
 ---
 
@@ -16,8 +16,8 @@ In this subchapter:
   - **(1)** The term “beef” means meat produced from cattle (including veal).
   - **(2)**
     - **(A)** The term “covered commodity” means—
-      - **(i)** muscle cuts of beef, lamb, and pork;
-      - **(ii)** ground beef, ground lamb, and ground pork;
+      - **(i)** muscle cuts of beef, lamb, pork, and venison;
+      - **(ii)** ground beef, ground lamb, ground pork, and ground venison;
       - **(iii)** farm-raised fish;
       - **(iv)** wild fish;
       - **(v)** a perishable agricultural commodity;

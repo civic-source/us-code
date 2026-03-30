@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-30T03:37:23.838Z"
+generated_at: "2026-03-30T03:39:05.795Z"
 status: "active"
 ---
 
@@ -154,12 +154,13 @@ status: "active"
     - **(A)** $100,000,000 for fiscal year 2010;
     - **(B)** $250,000,000 for fiscal year 2011;
     - **(C)** $350,000,000 for fiscal year 2012;
-    - **(D)** $400,000,000 for fiscal year 2013; and
-    - **(E)** $400,000,000 for fiscal year 2014.
-  - **(2)** Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve—
+    - **(D)** $400,000,000 for fiscal year 2013;
+    - **(E)** $400,000,000 for fiscal year 2014; and
+    - **(F)** for the period beginning on October 1, 2014 , and ending on March 31, 2015 , an amount equal to the amount provided in subparagraph (E).
+  - **(2)** Of the amount appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
     - **(A)** 3 percent of such amount for purposes of making grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations; and
     - **(B)** 3 percent of such amount for purposes of carrying out subsections (d)(1)(B)(iii), (g), and (h)(3).
-  - **(3)** Funds made available to an eligible entity under this section for a fiscal year shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+  - **(3)** Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
 - **(k)** In this section:
   - **(1)**
     - **(A)** The term “eligible entity” means a State, an Indian Tribe, Tribal Organization, or Urban Indian Organization, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa.

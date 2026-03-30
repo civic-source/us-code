@@ -3,9 +3,9 @@ title: "Section 6307d - Required disclosures to State boxing commissions by sanc
 usc_title: 15
 usc_section: "6307d"
 chapter: 89
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 6307d"
-generated_at: "2026-03-30T03:36:13.417Z"
+generated_at: "2026-03-30T03:38:06.108Z"
 status: "active"
 ---
 

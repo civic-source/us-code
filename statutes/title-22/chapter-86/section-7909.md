@@ -3,9 +3,9 @@ title: "Section 7909 - Authorization for the Clean Technology Fund"
 usc_title: 22
 usc_section: "7909"
 chapter: 86
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 7909"
-generated_at: "2026-03-30T03:36:39.982Z"
+generated_at: "2026-03-30T03:38:22.320Z"
 status: "active"
 ---
 
@@ -17,9 +17,7 @@ status: "active"
     - **(B)** Prior to the obligation of funds, recipient countries submit to the governing body of the Fund, and the governing body of the Fund appropriately reviews and considers, an investment plan that will achieve significant net reductions in national-level greenhouse gas emissions;
     - **(C)** The investment plan for a recipient country, whose borrowing status is classified by the World Bank as “International Development Association (IDA) blend”, shall have at least 15 percent of its total cost for public sector activities contributed from the public funds of the recipient country, and any recipient country whose borrowing status is classified by the World Bank as “International Bank for Reconstruction and Development (IBRD) Only” status, shall have at least 25 percent of its total cost for public sector activities contributed from public funds of the recipient country; and
     - **(D)** Assistance made available by the Fund is used exclusively to support the deployment of clean energy technologies in developing countries (including, where appropriate, through the provision of technical support or support for policy or institutional reforms) in a manner that achieves substantial net reductions in greenhouse gas emissions.
-  - **(3)** Not later than 180 days after December 16, 2009 , and annually thereafter, the Secretary of the Treasury shall submit to the Committees on Appropriations in the House and Senate, the Senate Foreign Relations Committee and the House Financial Services Committee, a report describing—
-    - **(A)** the operations and governance of the Fund, and the purpose and progress of each project supported by the Fund, including the extent to which assistance made available by the Fund has reduced or will reduce greenhouse gas emissions in recipient countries; and
-    - **(B)** how each project furthers the Fund’s investment plan of the country or countries in which the project is implemented.
+  - **(3)**
   - **(4)** For purposes of this section—
     - **(A)** The term “net reductions” refers to the extent to which a project or program supported under this section results in lower greenhouse gas emissions than would be emitted by the same entity or sector in the same country in the absence of the Fund’s project, taking into account, unless impracticable, effects beyond the physical boundaries of the project or program that result from project or program activities.
     - **(B)** The term “public sector activities” may include sovereign loans assumed by the recipient country to contribute to the financing of the investment plan.

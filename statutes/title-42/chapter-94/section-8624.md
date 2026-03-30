@@ -3,9 +3,9 @@ title: "Section 8624 - Applications and requirements"
 usc_title: 42
 usc_section: "8624"
 chapter: 94
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 8624"
-generated_at: "2026-03-30T03:37:24.428Z"
+generated_at: "2026-03-30T03:39:06.370Z"
 status: "active"
 ---
 
@@ -71,7 +71,7 @@ status: "active"
 - **(f)**
   - **(1)** Notwithstanding any other provision of law unless enacted in express limitation of this paragraph, the amount of any home energy assistance payments or allowances provided directly to, or indirectly for the benefit of, an eligible household under this subchapter shall not be considered income or resources of such household (or any member thereof) for any purpose under any Federal or State law, including any law relating to taxation, supplemental nutrition assistance program benefits, public assistance, or welfare programs.
   - **(2)** For purposes of paragraph (1) of this subsection and for purposes of determining any excess shelter expense deduction under section 5(e) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2014(e) )—
-    - **(A)** the full amount of such payments or allowances shall be deemed to be expended by such household for heating or cooling expenses, without regard to whether such payments or allowances are provided directly to, or indirectly for the benefit of, such household; and
+    - **(A)** the full amount of such payments or allowances shall be deemed to be expended by such household for heating or cooling expenses, without regard to whether such payments or allowances are provided directly to, or indirectly for the benefit of, such household, except that, for purposes of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.), such payments or allowances were greater than $20 annually, consistent with section 5(e)(6)(C)(iv)(I) of that Act ( 7 U.S.C. 2014(e)(6)(C)(iv)(I) ), as determined by the Secretary of Agriculture; and
     - **(B)** no distinction may be made among households on the basis of whether such payments or allowances are provided directly to, or indirectly for the benefit of, any of such households.
 - **(g)** The State shall repay to the United States amounts found not to have been expended in accordance with this subchapter or the Secretary may offset such amounts against any other amount to which the State is or may become entitled under this subchapter.
 - **(h)** The Comptroller General of the United States shall, from time to time 2 2 So in original. Probably should be followed by a comma. evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.

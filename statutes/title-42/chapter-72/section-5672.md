@@ -3,9 +3,9 @@ title: "Section 5672 - Administrative authority"
 usc_title: 42
 usc_section: "5672"
 chapter: 72
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 5672"
-generated_at: "2026-03-30T03:37:24.278Z"
+generated_at: "2026-03-30T03:39:06.229Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1303 - Operation of corporation"
 usc_title: 29
 usc_section: "1303"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1303"
-generated_at: "2026-03-30T03:36:46.427Z"
+generated_at: "2026-03-30T03:38:27.206Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)** In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or member or officer designated by the corporation, and to produce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
 - **(d)** In order to avoid unnecessary expense and duplication of functions among government agencies, the corporation may make such arrangements or agreements for cooperation or mutual assistance in the performance of its functions under this subchapter as is practicable and consistent with law. The corporation may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment. The head of each department, agency, or establishment of the United States shall cooperate with the corporation and, to the extent permitted by law, provide such information and facilities as it may request for its assistance in the performance of its functions under this subchapter. The Attorney General or his representative shall receive from the corporation for appropriate action such evidence developed in the performance of its functions under this subchapter as may be found to warrant consideration for criminal prosecution under the provisions of this or any other Federal law.
 - **(e)**
-  - **(1)** Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26 .
+  - **(1)** Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26 .
   - **(2)** Except as otherwise provided in this subchapter, where such an action is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
   - **(3)** The district courts of the United States shall have jurisdiction of actions brought by the corporation under this subchapter without regard to the amount in controversy in any such action.
   - **(4)** Repealed. Pub. L. 98–620, title IV, § 402(33) , Nov. 8, 1984 , 98 Stat. 3360 .

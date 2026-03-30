@@ -3,9 +3,9 @@ title: "Section 3319f - Beginning farmer and rancher development program"
 usc_title: 7
 usc_section: "3319f"
 chapter: 64
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 3319f"
-generated_at: "2026-03-30T03:36:04.682Z"
+generated_at: "2026-03-30T03:37:54.886Z"
 status: "active"
 ---
 
@@ -19,28 +19,24 @@ status: "active"
 - **(b)** The Secretary shall establish a beginning farmer and rancher development program to provide training, education, outreach, and technical assistance initiatives for beginning farmers or ranchers.
 - **(c)**
   - **(1)** In carrying out this section, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for beginning farmers or ranchers, including programs and services (as appropriate) relating to—
-    - **(A)** mentoring, apprenticeships, and internships;
-    - **(B)** resources and referral;
-    - **(C)** assisting beginning farmers or ranchers in acquiring land from retiring farmers and ranchers;
-    - **(D)** innovative farm and ranch transfer strategies;
-    - **(E)** entrepreneurship and business training;
-    - **(F)** model land leasing contracts;
-    - **(G)** financial management training;
-    - **(H)** whole farm planning;
-    - **(I)** conservation assistance;
-    - **(J)** risk management education;
-    - **(K)** diversification and marketing strategies;
-    - **(L)** curriculum development;
-    - **(M)** understanding the impact of concentration and globalization;
-    - **(N)** basic livestock and crop farming practices;
-    - **(O)** the acquisition and management of agricultural credit;
-    - **(P)** environmental compliance;
-    - **(Q)** information processing; and
-    - **(R)** other similar subject areas of use to beginning farmers or ranchers.
+    - **(A)** basic livestock, forest management, and crop farming practices;
+    - **(B)** innovative farm, ranch, and private, nonindustrial forest land transfer strategies;
+    - **(C)** entrepreneurship and business training;
+    - **(D)** financial and risk management training (including the acquisition and management of agricultural credit);
+    - **(E)** natural resource management and planning;
+    - **(F)** diversification and marketing strategies;
+    - **(G)** curriculum development;
+    - **(H)** mentoring, apprenticeships, and internships;
+    - **(I)** resources and referral;
+    - **(J)** farm financial benchmarking;
+    - **(K)** assisting beginning farmers or ranchers in acquiring land from retiring farmers and ranchers;
+    - **(L)** agricultural rehabilitation and vocational training for veterans;
+    - **(M)** farm safety and awareness; and
+    - **(N)** other similar subject areas of use to beginning farmers or ranchers.
   - **(2)** To be eligible to receive a grant under this subsection, the recipient shall be a collaborative State, tribal, local, or regionally-based network or partnership of public or private entities, which may include—
     - **(A)** a State cooperative extension service;
     - **(B)** a Federal, State, or tribal agency;
-    - **(C)** a community-based and nongovernmental organization;
+    - **(C)** a community-based or nongovernmental organization;
     - **(D)** a college or university (including an institution awarding an associate’s degree) or foundation maintained by a college or university; or
     - **(E)** any other appropriate partner, as determined by the Secretary.
   - **(3)**
@@ -57,13 +53,17 @@ status: "active"
     - **(E)** the adequacy of plans for the participatory evaluation process, outcome-based reporting, and the communication of findings and results beyond the immediate target audience; and
     - **(F)** other appropriate factors, as determined by the Secretary.
   - **(6)** In making grants under this subsection, the Secretary shall, to the maximum extent practicable, ensure geographical diversity.
-  - **(7)** In making grants under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental and community-based organizations with expertise in new agricultural producer training and outreach.
-  - **(8)** Not less than 25 percent of funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
-    - **(A)** limited resource beginning farmers or ranchers (as defined by the Secretary);
-    - **(B)** socially disadvantaged beginning farmers or ranchers (as defined in section 2003(e) of this title ); and
-    - **(C)** farmworkers desiring to become farmers or ranchers.
+  - **(7)** In making grants under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental, community-based organizations, and school-based agricultural educational organizations with expertise in new agricultural producer training and outreach.
+  - **(8)**
+    - **(A)** Not less than 5 percent of the funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
+      - **(i)** limited resource beginning farmers or ranchers (as defined by the Secretary);
+      - **(ii)** socially disadvantaged farmers or ranchers (as defined in section 2003(e) of this title ) who are beginning farmers or ranchers; and
+      - **(iii)** farmworkers desiring to become farmers or ranchers.
+    - **(B)** Not less than 5 percent of the funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of veteran farmers and ranchers (as defined in section 2279(e) of this title ).
   - **(9)** A grant made under this subsection may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
   - **(10)** The Secretary shall use not more than 4 percent of the funds made available to carry out this subsection for administrative costs incurred by the Secretary in carrying out this section.
+  - **(11)** A recipient of a grant under this subsection may not use more than 10 percent of the funds provided by the grant for the indirect costs of carrying out the initiatives described in paragraph (1).
+  - **(12)** A recipient of a grant under this subsection using the grant as described in paragraph (8)(B) may coordinate with a recipient of a grant under section 5933 of this title in addressing the needs of veteran farmers and ranchers with disabilities.
 - **(d)**
   - **(1)** In carrying out this section, the Secretary shall establish beginning farmer and rancher education teams to develop curricula and conduct educational programs and workshops for beginning farmers or ranchers in diverse geographical areas of the United States.
   - **(2)** In promoting the development of curricula, the Secretary shall, to the maximum extent practicable, include modules tailored to specific audiences of beginning farmers or ranchers, based on crop or regional diversity.
@@ -86,7 +86,8 @@ status: "active"
 - **(g)** Nothing in this section prohibits the Secretary from allowing farmers and ranchers who are not beginning farmers or ranchers from participating in programs authorized under this section to the extent that the Secretary determines that such participation is appropriate and will not detract from the primary purpose of educating beginning farmers and ranchers.
 - **(h)**
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
-    - **(A)** $18,000,000 for fiscal year 2009; and
-    - **(B)** $19,000,000 for each of fiscal years 2010 through 2012.
-  - **(2)** In addition to funds provided under paragraph (1), there is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012.
+    - **(A)** $18,000,000 for fiscal year 2009;
+    - **(B)** $19,000,000 for each of fiscal years 2010 through 2012; and
+    - **(C)** $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+  - **(2)** In addition to funds provided under paragraph (1), there is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2014 through 2018.
   - **(3)** There is authorized to be appropriated to carry out this section $30,000,000 for fiscal year 2013.

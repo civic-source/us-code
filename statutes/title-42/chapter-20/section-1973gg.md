@@ -3,9 +3,9 @@ title: "Section 1973gg - Findings and purposes"
 usc_title: 42
 usc_section: "1973gg"
 chapter: 20
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1973gg"
-generated_at: "2026-03-30T03:37:24.115Z"
+generated_at: "2026-03-30T03:39:06.075Z"
 status: "active"
 ---
 

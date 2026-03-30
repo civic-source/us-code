@@ -3,9 +3,9 @@ title: "Section 303 - Payments to States and certain territories; computation of
 usc_title: 42
 usc_section: "303"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 303"
-generated_at: "2026-03-30T03:37:23.787Z"
+generated_at: "2026-03-30T03:39:05.743Z"
 status: "active"
 ---
 

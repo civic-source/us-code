@@ -3,9 +3,9 @@ title: "Section 5503 - Office of Environmental Education"
 usc_title: 20
 usc_section: "5503"
 chapter: 65
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 5503"
-generated_at: "2026-03-30T03:36:22.880Z"
+generated_at: "2026-03-30T03:38:12.853Z"
 status: "active"
 ---
 

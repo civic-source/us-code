@@ -3,9 +3,9 @@ title: "Section 6506 - General requirements"
 usc_title: 7
 usc_section: "6506"
 chapter: 94
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6506"
-generated_at: "2026-03-30T03:36:04.708Z"
+generated_at: "2026-03-30T03:37:54.909Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(5)** provide for annual on-site inspection by the certifying agent of each farm and handling operation that has been certified under this chapter;
   - **(6)** require periodic residue testing by certifying agents of agricultural products that have been produced on certified organic farms and handled through certified organic handling operations to determine whether such products contain any pesticide or other nonorganic residue or natural toxicants and to require certifying agents, to the extent that such agents are aware of a violation of applicable laws relating to food safety, to report such violation to the appropriate health agencies;
   - **(7)** provide for appropriate and adequate enforcement procedures, as determined by the Secretary to be necessary and consistent with this chapter;
-  - **(8)** protect against conflict-of-interest as specified under section 6515(h) of this title ;
+  - **(8)** protect against conflict-of-interest as specified under section 6515(g) of this title ;
   - **(9)** provide for public access to certification documents and laboratory analyses that pertain to certification;
   - **(10)** provide for the collection of reasonable fees from producers, certifying agents and handlers who participate in such program; and
   - **(11)** require such other terms and conditions as may be determined by the Secretary to be necessary.

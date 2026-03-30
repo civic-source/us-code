@@ -3,9 +3,9 @@ title: "Section 4528to4532 - Repealed. Pub. L. 98–181, title I [title IV, § 4
 usc_title: 42
 usc_section: "4528to4532"
 chapter: 59
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4528to4532"
-generated_at: "2026-03-30T03:37:24.234Z"
+generated_at: "2026-03-30T03:39:06.188Z"
 status: "repealed"
 ---
 

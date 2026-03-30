@@ -3,9 +3,9 @@ title: "Section 72 - Nationwide media campaign to promote poison control center 
 usc_title: 42
 usc_section: "72"
 chapter: 6
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 72"
-generated_at: "2026-03-30T03:37:23.720Z"
+generated_at: "2026-03-30T03:39:05.678Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
   - **(3)** other activities to provide for public and professional awareness and education.
 - **(c)** The Secretary shall—
   - **(1)** establish baseline measures and benchmarks to quantitatively evaluate the impact of the nationwide media campaign carried out under this section; and
-  - **(2)** on an annual basis, prepare and submit to the appropriate committees of Congress, an evaluation of the nationwide media campaign.
-- **(d)** There is authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal year 2009, and $800,000 for each of fiscal years 2010 through 2014.
+  - **(2)** on an annual basis, prepare and submit to the appropriate committees of Congress an evaluation of the nationwide media campaign.
+- **(d)** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2015 through 2019.

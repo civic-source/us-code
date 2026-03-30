@@ -3,9 +3,9 @@ title: "Section 1935 - Down payment loan program"
 usc_title: 7
 usc_section: "1935"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1935"
-generated_at: "2026-03-30T03:36:04.638Z"
+generated_at: "2026-03-30T03:37:54.847Z"
 status: "active"
 ---
 
@@ -18,11 +18,10 @@ status: "active"
   - **(1)** Each loan made under this section shall be in an amount that does not exceed 45 percent of the least of—
     - **(A)** the purchase price of the farm or ranch to be acquired;
     - **(B)** the appraised value of the farm or ranch to be acquired; or
-    - **(C)** $500,000.
+    - **(C)** $667,000.
   - **(2)** The interest rate on any loan made by the Secretary under this section shall be a rate equal to the greater of—
     - **(A)** the difference obtained by subtracting 4 percent from the interest rate for farm ownership loans under this subchapter; or
     - **(B)** 1.5 percent.
-  - **(2)** The interest rate on any loan made by the Secretary under this section shall be 4 percent.
   - **(3)** Each loan under this section shall be made for a period of 20 years or less, at the option of the borrower.
   - **(4)** Each borrower of a loan under this section shall repay the loan to the Secretary in equal annual installments.
   - **(5)** The Secretary shall retain an interest in each farm or ranch acquired with a loan made under this section that shall—

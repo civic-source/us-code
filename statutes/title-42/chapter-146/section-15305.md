@@ -3,9 +3,9 @@ title: "Section 15305 - Administration of programs"
 usc_title: 42
 usc_section: "15305"
 chapter: 146
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15305"
-generated_at: "2026-03-30T03:37:24.605Z"
+generated_at: "2026-03-30T03:39:06.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2875 - Investments"
 usc_title: 10
 usc_section: "2875"
 chapter: 169
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2875"
-generated_at: "2026-03-30T03:36:02.535Z"
+generated_at: "2026-03-30T03:37:58.854Z"
 status: "active"
 ---
 
@@ -18,3 +18,4 @@ status: "active"
   - **(2)** If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
   - **(3)** In this subsection, the term “capital cost”, with respect to a project for the acquisition or construction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
 - **(d)** The Secretary concerned shall enter into collateral incentive agreements with eligible entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
+- **(e)** Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title .

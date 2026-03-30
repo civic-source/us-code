@@ -3,9 +3,9 @@ title: "Section 821 - Definitions"
 usc_title: 45
 usc_section: "821"
 chapter: 17
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "45 U.S.C. § 821"
-generated_at: "2026-03-30T03:37:06.812Z"
+generated_at: "2026-03-30T03:38:48.700Z"
 status: "active"
 ---
 

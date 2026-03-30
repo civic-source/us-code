@@ -3,9 +3,9 @@ title: "Section 853A - Credits from tax credit bonds allowed to shareholders"
 usc_title: 26
 usc_section: "853A"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 853A"
-generated_at: "2026-03-30T03:36:52.319Z"
+generated_at: "2026-03-30T03:38:36.019Z"
 status: "active"
 ---
 

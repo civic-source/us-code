@@ -3,9 +3,9 @@ title: "Section 201 - “Stockyard owner”; “stockyard services”; “market
 usc_title: 7
 usc_section: "201"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 201"
-generated_at: "2026-03-30T03:36:04.573Z"
+generated_at: "2026-03-30T03:37:54.790Z"
 status: "active"
 ---
 

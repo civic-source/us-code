@@ -3,9 +3,9 @@ title: "Section 133 - Surface transportation program"
 usc_title: 23
 usc_section: "133"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "23 U.S.C. § 133"
-generated_at: "2026-03-30T03:36:33.483Z"
+generated_at: "2026-03-30T03:38:18.753Z"
 status: "active"
 ---
 

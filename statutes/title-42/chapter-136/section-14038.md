@@ -3,9 +3,9 @@ title: "Section 14038 - Inclusion in National Incident-Based Reporting System"
 usc_title: 42
 usc_section: "14038"
 chapter: 136
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 14038"
-generated_at: "2026-03-30T03:37:24.579Z"
+generated_at: "2026-03-30T03:39:06.523Z"
 status: "active"
 ---
 

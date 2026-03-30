@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T03:37:24.039Z"
+generated_at: "2026-03-30T03:39:06.004Z"
 status: "active"
 ---
 
@@ -89,6 +89,9 @@ status: "active"
       - **(iii)** If the family is receiving payments for welfare assistance from a public agency and a part of those payments, adjusted in accordance with the actual housing costs of the family, is specifically designated by that agency to meet the housing costs of the family, the portion of those payments that is so designated.
     - **(B)** For a family receiving tenant-based assistance, if the rent for the family (including the amount allowed for tenant-paid utilities) exceeds the applicable payment standard established under paragraph (1), the monthly assistance payment for the family shall be equal to the amount by which the applicable payment standard exceeds the greatest of amounts under clauses (i), (ii), and (iii) of subparagraph (A).
     - **(C)** For a family receiving project-based assistance, the rent that the family is required to pay shall be determined in accordance with section 1437a(a)(1) of this title , and the amount of the housing assistance payment shall be determined in accordance with subsection (c)(3) of this section.
+    - **(D)**
+      - **(i)** In determining the monthly assistance payment for a family under subparagraphs (A) and (B), the amount allowed for tenant-paid utilities shall not exceed the appropriate utility allowance for the family unit size as determined by the public housing agency regardless of the size of the dwelling unit leased by the family.
+      - **(ii)** Notwithstanding subparagraph (A), upon request by a family that includes a person with disabilities, the public housing agency shall approve a utility allowance that is higher than the applicable amount on the utility allowance schedule if a higher utility allowance is needed as a reasonable accommodation to make the program accessible to and usable by the family member with a disability.
   - **(3)** At the time a family initially receives tenant-based assistance under this section with respect to any dwelling unit, the total amount that a family may be required to pay for rent may not exceed 40 percent of the monthly adjusted income of the family.
   - **(4)** To be eligible to receive assistance under this subsection, a family shall, at the time a family initially receives assistance under this subsection, be a low-income family that is—
     - **(A)** a very low-income family;

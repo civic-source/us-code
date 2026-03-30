@@ -3,9 +3,9 @@ title: "Section 1622 - Duties of Secretary relating to agricultural products"
 usc_title: 7
 usc_section: "1622"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1622"
-generated_at: "2026-03-30T03:36:04.623Z"
+generated_at: "2026-03-30T03:37:54.833Z"
 status: "active"
 ---
 
@@ -38,12 +38,12 @@ The Secretary of Agriculture is directed and authorized:
     - **(A)** The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words “Product of” or other words of similar meaning.
     - **(B)** A violation of the requirements of subparagraph (A) may be deemed by the Secretary to be sufficient cause for debarment from the benefits of this Act only with respect to honey.
 - **(i)** To determine the needs and develop or assist in the development of plans for efficient facilities and methods of operating such facilities for the proper assembly, processing, transportation, storage, distribution, and handling of agricultural products.
-- **(j)** To assist in improving transportation services and facilities and in obtaining equitable and reasonable transportation rates and services and adequate transportation facilities for agricultural products and farm supplies by making complaint or petition to the Interstate Commerce Commission, the Maritime Commission,, 1 1 So in original. or other Federal or State transportation regulatory body, or the Secretary of Transportation, with respect to rates, charges, tariffs, practices, and services, or by working directly with individual carriers or groups of carriers.
+- **(j)** To assist in improving transportation services and facilities and in obtaining equitable and reasonable transportation rates and services and adequate transportation facilities for agricultural products and farm supplies by making complaint or petition to the Surface Transportation Board, the Federal Maritime Commission, or other Federal or State transportation regulatory body, or the Secretary of Transportation, with respect to rates, charges, tariffs, practices, and services, or by working directly with individual carriers or groups of carriers.
 - **(k)** To collect, tabulate, and disseminate statistics on marketing agricultural products, including, but not restricted to statistics on market supplies, storage stocks, quantity, quality, and condition of such products in various positions in the marketing channel, utilization of such products, and shipments and unloads thereof.
 - **(l)** To develop and promulgate, for the use and at the request of any Federal agency or State, procurement standards and specifications for agricultural products, and submit such standards and specifications to such agency or State for use or adoption for procurement purposes.
 - **(m)** To conduct, assist, encourage, and promote research, investigation, and experimentation to determine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
 - **(n)** To establish within the Department of Agriculture a voluntary fee based grading program for—
-  - **(1)** catfish (as defined by the Secretary under paragraph (2) of section 601(w) of title 21 ); and
+  - **(1)** all fish of the order Siluriformes; and
   - **(2)** any additional species of farm-raised fish or farm-raised shellfish—
     - **(A)** for which the Secretary receives a petition requesting such voluntary fee based grading; and
     - **(B)** that the Secretary considers appropriate.

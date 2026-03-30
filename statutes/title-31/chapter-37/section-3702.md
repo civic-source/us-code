@@ -3,9 +3,9 @@ title: "Section 3702 - Authority to settle claims"
 usc_title: 31
 usc_section: "3702"
 chapter: 37
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "31 U.S.C. § 3702"
-generated_at: "2026-03-30T03:36:57.175Z"
+generated_at: "2026-03-30T03:38:39.597Z"
 status: "active"
 ---
 

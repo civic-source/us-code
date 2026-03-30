@@ -3,16 +3,16 @@ title: "Section 5680 - Technical assistance for specialty crops"
 usc_title: 7
 usc_section: "5680"
 chapter: 87
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5680"
-generated_at: "2026-03-30T03:36:04.696Z"
+generated_at: "2026-03-30T03:37:54.898Z"
 status: "active"
 ---
 
 # § 5680. Technical assistance for specialty crops
 
 - **(a)** The Secretary of Agriculture shall establish an export assistance program (referred to in this section as the “program”) to address unique barriers that prohibit or threaten the export of United States specialty crops.
-- **(b)** The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and related barriers to trade.
+- **(b)** The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and technical barriers to trade.
 - **(c)** The program shall address time sensitive and strategic market access projects based on—
   - **(1)** trade effect on market retention, market access, and market expansion; and
   - **(2)** trade impact.
@@ -24,6 +24,5 @@ status: "active"
   - **(2)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
     - **(A)** $4,000,000 for fiscal year 2008;
     - **(B)** $7,000,000 for fiscal year 2009;
-    - **(C)** $8,000,000 for fiscal year 2010;
-    - **(D)** $9,000,000 for fiscal year 2011; and
-    - **(E)** $9,000,000 for fiscal year 2012.
+    - **(C)** $8,000,000 for fiscal year 2010; and
+    - **(D)** $9,000,000 for each of fiscal years 2011 through 2018.

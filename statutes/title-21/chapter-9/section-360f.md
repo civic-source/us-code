@@ -3,9 +3,9 @@ title: "Section 360f - Banned devices"
 usc_title: 21
 usc_section: "360f"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 360f"
-generated_at: "2026-03-30T03:36:35.929Z"
+generated_at: "2026-03-30T03:38:19.537Z"
 status: "active"
 ---
 

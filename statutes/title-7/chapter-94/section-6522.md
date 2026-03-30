@@ -3,9 +3,9 @@ title: "Section 6522 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6522"
 chapter: 94
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6522"
-generated_at: "2026-03-30T03:36:04.710Z"
+generated_at: "2026-03-30T03:37:54.910Z"
 status: "active"
 ---
 
@@ -17,5 +17,9 @@ status: "active"
   - **(2)** $6,500,000 for fiscal year 2009;
   - **(3)** $8,000,000 for fiscal year 2010;
   - **(4)** $9,500,000 for fiscal year 2011;
-  - **(5)** $11,000,000 for fiscal year 2012; and
-  - **(6)** in addition to those amounts, such additional sums as are necessary for fiscal year 2009 and each fiscal year thereafter.
+  - **(5)** $11,000,000 for fiscal year 2012;
+  - **(6)** $15,000,000 for each of fiscal years 2014 through 2018; and
+  - **(7)** in addition to those amounts, such additional sums as are necessary for fiscal year 2009 and each fiscal year thereafter.
+- **(c)**
+  - **(1)** The Secretary shall modernize database and technology systems of the national organic program.
+  - **(2)** Of the funds of the Commodity Credit Corporation and in addition to any other funds made available for that purpose, the Secretary shall make available to carry out this subsection $5,000,000 for fiscal year 2014, to remain available until expended.

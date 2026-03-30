@@ -3,9 +3,9 @@ title: "Section 1961to1966 - Repealed. Pub. L. 95–561, title XV, § 1529 , Nov
 usc_title: 20
 usc_section: "1961to1966"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 1961to1966"
-generated_at: "2026-03-30T03:36:22.849Z"
+generated_at: "2026-03-30T03:38:12.835Z"
 status: "repealed"
 ---
 

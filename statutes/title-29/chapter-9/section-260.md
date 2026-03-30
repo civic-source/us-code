@@ -3,9 +3,9 @@ title: "Section 260 - Liquidated damages"
 usc_title: 29
 usc_section: "260"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 260"
-generated_at: "2026-03-30T03:36:46.370Z"
+generated_at: "2026-03-30T03:38:27.153Z"
 status: "active"
 ---
 

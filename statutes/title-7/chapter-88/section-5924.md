@@ -3,9 +3,9 @@ title: "Section 5924 - Agricultural Genome Initiative"
 usc_title: 7
 usc_section: "5924"
 chapter: 88
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5924"
-generated_at: "2026-03-30T03:36:04.699Z"
+generated_at: "2026-03-30T03:37:54.900Z"
 status: "active"
 ---
 
@@ -31,10 +31,6 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary may make grants or enter into cooperative agreements with individuals and organizations in accordance with section 3318 of this title .
   - **(2)** A grant or cooperative agreement under this subsection shall be made or entered into on a competitive basis.
+  - **(3)** The Secretary shall encourage awards under this section to consortia of eligible entities.
 - **(d)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a grant or cooperative agreement under this section.
-- **(e)**
-  - **(1)** If a grant or cooperative agreement under this section provides a particular benefit to a specific agricultural commodity, the Secretary shall require the recipient to provide funds or in-kind support to match the amount of funds provided by the Secretary under the grant or cooperative agreement.
-  - **(2)** The Secretary may waive the matching funds requirement of paragraph (1) with respect to a research project if the Secretary determines that—
-    - **(A)** the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
-    - **(B)** the project involves a minor commodity, the project deals with scientifically important research, and the recipient is unable to satisfy the matching funds requirement.
-- **(f)** The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
+- **(e)** The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.

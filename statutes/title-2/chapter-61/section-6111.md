@@ -3,9 +3,9 @@ title: "Section 6111 - Compensation of President pro tempore of Senate"
 usc_title: 2
 usc_section: "6111"
 chapter: 61
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 6111"
-generated_at: "2026-03-30T03:35:51.768Z"
+generated_at: "2026-03-30T03:37:47.363Z"
 status: "active"
 ---
 

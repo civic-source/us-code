@@ -3,9 +3,9 @@ title: "Section 285b - Purpose of Institute"
 usc_title: 42
 usc_section: "285b"
 chapter: 6
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 285b"
-generated_at: "2026-03-30T03:37:23.665Z"
+generated_at: "2026-03-30T03:39:05.623Z"
 status: "active"
 ---
 

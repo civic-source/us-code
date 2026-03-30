@@ -3,9 +3,9 @@ title: "Section 3661 - Use of information for sentencing"
 usc_title: 18
 usc_section: "3661"
 chapter: 232
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "18 U.S.C. § 3661"
-generated_at: "2026-03-30T03:36:18.332Z"
+generated_at: "2026-03-30T03:38:09.959Z"
 status: "active"
 ---
 

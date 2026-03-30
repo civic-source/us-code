@@ -3,9 +3,9 @@ title: "Section 3422 - Participation of United States personnel in the Multinati
 usc_title: 22
 usc_section: "3422"
 chapter: 49
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 3422"
-generated_at: "2026-03-30T03:36:39.903Z"
+generated_at: "2026-03-30T03:38:22.264Z"
 status: "active"
 ---
 

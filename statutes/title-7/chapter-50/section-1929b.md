@@ -3,9 +3,9 @@ title: "Section 1929b - Purchase of guaranteed portions of loans; terms and cond
 usc_title: 7
 usc_section: "1929b"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1929b"
-generated_at: "2026-03-30T03:36:04.637Z"
+generated_at: "2026-03-30T03:37:54.846Z"
 status: "active"
 ---
 

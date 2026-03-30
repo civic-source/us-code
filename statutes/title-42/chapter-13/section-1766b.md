@@ -3,9 +3,9 @@ title: "Section 1766b - Repealed. Pub. L. 105–336, title I, § 107(j)(2)(C)(i)
 usc_title: 42
 usc_section: "1766b"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1766b"
-generated_at: "2026-03-30T03:37:24.085Z"
+generated_at: "2026-03-30T03:39:06.046Z"
 status: "repealed"
 ---
 

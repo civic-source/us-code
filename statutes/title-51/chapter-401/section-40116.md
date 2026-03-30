@@ -3,9 +3,9 @@ title: "Section 40116 - University-based Centers for Research on Aviation Traini
 usc_title: 51
 usc_section: "40116"
 chapter: 401
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "51 U.S.C. § 40116"
-generated_at: "2026-03-30T03:37:35.451Z"
+generated_at: "2026-03-30T03:39:20.934Z"
 status: "active"
 ---
 

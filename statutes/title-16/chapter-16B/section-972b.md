@@ -3,9 +3,9 @@ title: "Section 972b - Secretary of State to act for United States"
 usc_title: 16
 usc_section: "972b"
 chapter: 16
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 972b"
-generated_at: "2026-03-30T03:36:30.178Z"
+generated_at: "2026-03-30T03:38:15.702Z"
 status: "active"
 ---
 

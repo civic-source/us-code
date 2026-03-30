@@ -3,9 +3,9 @@ title: "Section 5937 - Natural products research program"
 usc_title: 7
 usc_section: "5937"
 chapter: 88
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5937"
-generated_at: "2026-03-30T03:36:04.701Z"
+generated_at: "2026-03-30T03:37:54.902Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
   - **(1)** determine the relevance and merit of research under this section through a system of peer review established by the Secretary pursuant to section 7613 of this title ; and
   - **(2)** approve funding for research on the basis of merit, quality, and relevance to advancing the purposes of this section.
 - **(d)** Funds made available under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
-- **(e)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
+- **(e)** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2018.

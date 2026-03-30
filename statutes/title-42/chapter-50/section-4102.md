@@ -3,9 +3,9 @@ title: "Section 4102 - Criteria for land management and use"
 usc_title: 42
 usc_section: "4102"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4102"
-generated_at: "2026-03-30T03:37:24.226Z"
+generated_at: "2026-03-30T03:39:06.181Z"
 status: "active"
 ---
 
@@ -18,3 +18,8 @@ status: "active"
   - **(2)** guide the development of proposed construction away from locations which are threatened by flood hazards,
   - **(3)** assist in reducing damage caused by floods, and
   - **(4)** otherwise improve the long-range land management and use of flood-prone areas,
+- **(d)** The Administrator shall establish guidelines for property owners that—
+  - **(1)** provide alternative methods of mitigation, other than building elevation, to reduce flood risk to residential buildings that cannot be elevated due to their structural characteristics, including—
+    - **(A)** types of building materials; and
+    - **(B)** types of floodproofing; and
+  - **(2)** inform property owners about how the implementation of mitigation methods described in paragraph (1) may affect risk premium rates for flood insurance coverage under the National Flood Insurance Program.

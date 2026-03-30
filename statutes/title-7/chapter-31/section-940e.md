@@ -3,9 +3,9 @@ title: "Section 940e - Expansion of 911 access"
 usc_title: 7
 usc_section: "940e"
 chapter: 31
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 940e"
-generated_at: "2026-03-30T03:36:04.594Z"
+generated_at: "2026-03-30T03:37:54.809Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(5)** location technologies used outside an urbanized area.
 - **(b)** Government-imposed fees related to emergency communications (including State or local 911 fees) may be considered to be security for a loan under this section.
 - **(c)** The Secretary may make a loan under this section to an emergency communication equipment provider to expand or improve 911 access or other communications or technologies described in subsection (a) if the local government that has jurisdiction over the project is not allowed to acquire the debt resulting from the loan.
-- **(d)** The Secretary shall use to make loans under this section any funds otherwise made available for telephone loans for each of fiscal years 2008 through 2012.
+- **(d)** The Secretary shall use to make loans under this section any funds otherwise made available for telephone loans for each of fiscal years 2008 through 2018.

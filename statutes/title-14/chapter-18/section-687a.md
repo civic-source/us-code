@@ -3,9 +3,9 @@ title: "Section 687a - Repealed. Pub. L. 111–281, title II, § 221(a)(7) , Oct
 usc_title: 14
 usc_section: "687a"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "14 U.S.C. § 687a"
-generated_at: "2026-03-30T03:36:06.899Z"
+generated_at: "2026-03-30T03:38:00.903Z"
 status: "repealed"
 ---
 

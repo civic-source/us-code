@@ -3,9 +3,9 @@ title: "Section 1522 - Research and development"
 usc_title: 7
 usc_section: "1522"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1522"
-generated_at: "2026-03-30T03:36:04.618Z"
+generated_at: "2026-03-30T03:37:54.829Z"
 status: "active"
 ---
 
@@ -28,15 +28,16 @@ status: "active"
     - **(D)**
       - **(i)** If the requirements of subparagraph (B) and (C) are met, the Board may submit a concept proposal described in subparagraph (C) to not less than 2 independent expert reviewers, whose services are appropriate for the type of concept proposal submitted, to assess the likelihood that the proposed policy being developed will result in a viable and marketable policy, as determined by the Board.
       - **(ii)** The time frames described in subparagraphs (C) and (D) of section 1508(h)(4) of this title shall apply to the review of concept proposals under this subparagraph.
-    - **(E)** The Board may approve up to 50 percent of the projected total research and development costs to be paid in advance to an applicant, in accordance with the procedures developed by the Board for the making of such payments, if, after consideration of the reviewer reports described in subparagraph (D) and such other information as the Board determines appropriate, the Board determines that—
-      - **(i)** the concept, in good faith, will likely result in a viable and marketable policy consistent with section 1508(h) of this title ;
-      - **(ii)** in the sole opinion of the Board, the concept, if developed into a policy and approved by the Board, would provide crop insurance coverage—
-        - **(I)** in a significantly improved form;
-        - **(II)** to a crop or region not traditionally served by the Federal crop insurance program; or
-        - **(III)** in a form that addresses a recognized flaw or problem in the program;
-      - **(iii)** the applicant agrees to provide such reports as the Corporation determines are necessary to monitor the development effort;
-      - **(iv)** the proposed budget and timetable are reasonable; and
-      - **(v)** the concept proposal meets any other requirements that the Board determines appropriate.
+    - **(E)**
+      - **(i)** The Board may approve up to 50 percent of the projected total research and development costs to be paid in advance to an applicant, in accordance with the procedures developed by the Board for the making of the payments, if, after consideration of the reviewer reports described in subparagraph (D) and such other information as the Board determines appropriate, the Board determines that—
+        - **(I)** the concept, in good faith, will likely result in a viable and marketable policy consistent with section 1508(h) of this title ;
+        - **(II)** at the sole discretion of the Board, the concept, if developed into a policy and approved by the Board, would provide crop insurance coverage—
+        - **(III)** the applicant agrees to provide such reports as the Corporation determines are necessary to monitor the development effort;
+        - **(IV)** the proposed budget and timetable are reasonable, as determined by the Board; and
+        - **(V)** the concept proposal meets any other requirements that the Board determines appropriate.
+      - **(ii)** The Board may waive the 50-percent limitation and, upon request of the submitter after the submitter has begun research and development activities, the Board may approve an additional 25 percent advance payment to the submitter for research and development costs, if, at the sole discretion of the Board, the Board determines that—
+        - **(I)** the intended policy or plan of insurance developed by the submitter will provide coverage for a region or crop that is underserved by the Federal crop insurance program, including specialty crops; and
+        - **(II)** the submitter is making satisfactory progress towards developing a viable and marketable policy or plan of insurance consistent with section 1508(h) of this title .
     - **(F)** If the Board approves an advanced payment under subparagraph (E), the Board shall establish a date by which the applicant shall present a submission in compliance with section 1508(h) of this title (including the procedures implemented under that section) to the Board for approval.
     - **(G)**
       - **(i)** If a policy is submitted under subparagraph (F) and approved by the Board under section 1508(h) of this title and the procedures established by the Board (including procedures established under subparagraph (B)), the applicant shall be eligible for a payment of reasonable research and development costs in the same manner as policies reimbursed under paragraph (1)(B), less any payments made pursuant to subparagraph (E).
@@ -50,7 +51,7 @@ status: "active"
     - **(J)** A determination that an applicant is not eligible for advance payments under this paragraph shall not prevent an applicant from reimbursement under paragraph (1)(B).
   - **(3)** The Corporation shall approve a reimbursement under paragraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
   - **(4)**
-    - **(A)** The Corporation shall reimburse maintenance costs associated with the annual cost of underwriting for a policy described in paragraphs 2 2 So in original. Probably should be “paragraph”. (1).
+    - **(A)** The Corporation shall reimburse maintenance costs associated with the annual cost of underwriting for a policy described in paragraph (1).
     - **(B)** Payments with respect to maintenance costs may be provided for a period of not more than four reinsurance years subsequent to Board approval for payment under this subsection.
     - **(C)** On the expiration of the 4-year period described in subparagraph (B), the approved insurance provider responsible for maintenance of the policy may—
       - **(i)** maintain the policy and charge a fee to approved insurance providers that elect to sell the policy under this subsection; or
@@ -63,19 +64,19 @@ status: "active"
   - **(5)** Payments made under this subsection for a policy shall be considered as payment in full by the Corporation for the research and development conducted with regard to the policy and any property rights to the policy.
   - **(6)** The Corporation shall determine the amount of the payment under this subsection for an approved policy based on the complexity of the policy and the size of the area in which the policy or material is expected to be sold.
 - **(c)**
-  - **(1)** The Corporation may enter into contracts to carry out research and development to—
+  - **(1)** The Corporation may conduct activities or enter into contracts to carry out research and development to maintain or improve existing policies or develop new policies to—
     - **(A)** increase participation in States in which the Corporation determines that—
       - **(i)** there is traditionally, and continues to be, a low level of Federal crop insurance participation and availability; and
       - **(ii)** the State is underserved by the Federal crop insurance program;
     - **(B)** increase participation in areas that are underserved by the Federal crop insurance program; and
     - **(C)** increase participation by producers of underserved agricultural commodities, including specialty crops.
   - **(2)**
-    - **(A)** The Corporation may enter into contracts under procedures prescribed by the Corporation with qualified persons to carry out research and development for policies that promote the purposes of paragraph (1).
-    - **(B)** Before entering into a contract under subparagraph (A), the Corporation shall consult with groups representing producers of agricultural commodities that would be served by the policies that are the subject of the research and development.
+    - **(A)** The Corporation may conduct research and development or enter into contracts under procedures prescribed by the Corporation with qualified persons to carry out research and development for policies that promote the purposes of paragraph (1).
+    - **(B)** Before conducting research and development or entering into a contract under subparagraph (A), the Corporation shall consult with groups representing producers of agricultural commodities that would be served by the policies that are the subject of the research and development.
   - **(3)** A person with experience in crop insurance or farm or ranch risk management (including a college or university, an approved insurance provider, and a trade or research organization), as determined by the Corporation, shall be eligible to enter into a contract with the Corporation under this subsection.
   - **(4)** A contract under this subsection may provide for research and development regarding new or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediate base program with a higher coverage and cost than catastrophic risk protection.
-  - **(5)** The Corporation may offer any policy developed under this subsection that is approved by the Board.
-  - **(6)** The Corporation shall establish as one of the highest research and development priorities of the Corporation the development of a pasture, range, and forage program.
+  - **(5)** The Corporation may offer any policy developed under this subsection that is approved by the Board after expert review in accordance with section 1505(e) of this title .
+  - **(6)** The Corporation shall establish as one of the highest research and development priorities of the Corporation the development of policies that increase participation by producers of underserved agricultural commodities, including sweet sorghum, biomass sorghum, rice, peanuts, sugarcane, alfalfa, pennycress, dedicated energy crops, and specialty crops.
   - **(7)**
     - **(A)** The Corporation shall contract with a qualified person to conduct a study to determine whether offering policies that provide coverage for multiple years would reduce fraud, waste, and abuse by persons that participate in the Federal crop insurance program.
     - **(B)** Not later than 1 year after June 20, 2000 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
@@ -86,24 +87,6 @@ status: "active"
       - **(i)** take into consideration the differences in the cost of production on a county-by-county basis; and
       - **(ii)** cover as many commodities as is practicable.
   - **(10)**
-    - **(A)** Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Corporation shall enter into 1 or more contracts for the development of improvements in Federal crop insurance policies covering crops produced in compliance with standards issued by the Department of Agriculture under the national organic program established under the Organic Foods Production Act of 1990 ( 7 U.S.C. 6501 et seq.).
-    - **(B)**
-      - **(i)**
-        - **(I)** A contract under subparagraph (A) shall include a review of the underwriting, risk, and loss experience of organic crops covered by the Corporation, as compared with the same crops produced in the same counties and during the same crop years using nonorganic methods.
-        - **(II)** The review shall—
-      - **(ii)** Unless the review under this subparagraph documents the existence of significant, consistent, and systemic variations in loss history between organic and nonorganic crops, either collectively or on an individual crop basis, the Corporation shall eliminate or reduce the premium surcharge that the Corporation charges for coverage for organic crops, as determined in accordance with the results.
-      - **(iii)** Beginning with the 2009 crop year, the review under this subparagraph shall be updated on an annual basis as data is accumulated by the Secretary and other sources, so that the Corporation may make determinations regarding adjustments to the surcharge in a timely manner as quickly as evolving practices and data trends allow.
-    - **(C)**
-      - **(i)** A contract under subparagraph (A) shall include the development of a procedure, including any associated changes in policy terms or materials required for implementation of the procedure, to offer producers of organic crops an additional price election that reflects actual prices received by organic producers for crops from the field (including appropriate retail and wholesale prices), as established using data collected and maintained by the Secretary or from other sources.
-      - **(ii)** The development of the procedure shall be completed in a timely manner to allow the Corporation to begin offering the additional price election for organic crops with sufficient data for the 2010 crop year.
-      - **(iii)** The procedure shall be expanded as quickly as practicable as additional data on prices of organic crops collected by the Secretary and other sources of information becomes available, with a goal of applying this procedure to all organic crops not later than the fifth full crop year that begins after the date of enactment of Food, Conservation, and Energy Act of 2008.
-    - **(D)**
-      - **(i)** The Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on progress made in developing and improving Federal crop insurance for organic crops, including—
-        - **(I)** the numbers and varieties of organic crops insured;
-        - **(II)** the development of new insurance approaches; and
-        - **(III)** the progress of implementing the initiatives required under this paragraph, including the rate at which additional price elections are adopted for organic crops.
-      - **(ii)** The report shall include such recommendations as the Corporation considers appropriate to improve Federal crop insurance coverage for organic crops.
-  - **(11)**
     - **(A)** In this subsection, the term “dedicated energy crop” means an annual or perennial crop that—
       - **(i)** is grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products; and
       - **(ii)** is not typically used for food, feed, or fiber.
@@ -112,7 +95,7 @@ status: "active"
       - **(i)** are based on market prices and yields;
       - **(ii)** to the extent that insufficient data exist to develop a policy based on market prices and yields, evaluate the policies and plans of insurance based on the use of weather or rainfall indices to protect the interests of crop producers; and
       - **(iii)** provide protection for production or revenue losses, or both.
-  - **(12)**
+  - **(11)**
     - **(A)** In this subsection:
       - **(i)** The term “aquaculture” means the propagation and rearing of aquatic species in controlled or selected environments, including shellfish cultivation on grants or leased bottom and ocean ranching.
       - **(ii)** The term “aquaculture” does not include the private ocean ranching of Pacific salmon for profit in any State in which private ocean ranching of Pacific salmon is prohibited by any law (including regulations).
@@ -139,24 +122,72 @@ status: "active"
       - **(i)** are based on market prices and yields;
       - **(ii)** to the extent that insufficient data exist to develop a policy based on market prices and yields, evaluate how best to incorporate insuring of production of aquacultural species in aquaculture operations into existing policies covering adjusted gross revenue; and
       - **(iii)** provide protection for production or revenue losses, or both.
-  - **(13)**
+  - **(12)**
     - **(A)** In this paragraph, the term “poultry” has the meaning given the term in section 182 of this title .
     - **(B)** The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure commercial poultry production.
     - **(C)** Research and development described in subparagraph (B) shall evaluate the effectiveness of risk management tools for the production of poultry, including policies and plans of insurance that provide protection for production or revenue losses, or both, while the poultry is in production.
-  - **(14)** The Corporation shall offer to enter into a contract with a qualified entity to carry out research and development regarding insurance policies that cover loss of bees.
-  - **(15)** The Corporation shall offer to enter into a contract with a qualified entity to carry out research and development into needed modifications of adjusted gross revenue insurance policies, consistent with principles of actuarial sufficiency, to permit coverage for beginning producers with no previous production history, including permitting those producers to have production and premium rates based on information with similar farming operations.
-  - **(16)**
+  - **(13)** The Corporation shall offer to enter into a contract with a qualified entity to carry out research and development regarding insurance policies that cover loss of bees.
+  - **(14)** The Corporation shall offer to enter into a contract with a qualified entity to carry out research and development into needed modifications of adjusted gross revenue insurance policies, consistent with principles of actuarial sufficiency, to permit coverage for beginning producers with no previous production history, including permitting those producers to have production and premium rates based on information with similar farming operations.
+  - **(15)**
     - **(A)** The Corporation shall offer to enter into a contract with a qualified entity to carry out research into needed modifications of policies to insure corn and sorghum produced in the Central Great Plains (as determined by the Agricultural Research Service) through use of skiprow cropping practices.
     - **(B)** Research described in subparagraph (A) shall—
       - **(i)** review existing research on skiprow cropping practices and actual production history of producers using skiprow cropping practices; and
       - **(ii)** evaluate the effectiveness of risk management tools for producers using skiprow cropping practices, including—
         - **(I)** the appropriateness of rules in existence as of the date of enactment of this paragraph relating to the determination of acreage planted in skiprow patterns; and
         - **(II)** whether policies for crops produced through skiprow cropping practices reflect actual production capabilities.
-  - **(17)** A policy developed under this subsection may be prepared without regard to the limitations of this subchapter, including—
+  - **(16)**
+    - **(A)** The Corporation shall offer to enter into a contract with a qualified entity to conduct research and development regarding a policy to insure producers against reduction in the margin between the market value of catfish and selected costs incurred in the production of catfish.
+    - **(B)** Eligibility for the policy described in subparagraph (A) shall be limited to freshwater species of catfish that are propagated and reared in controlled or selected environments.
+    - **(C)** The Board shall review the policy described in subparagraph (B) under section 1508(h) of this title and approve the policy if the Board finds that the policy—
+      - **(i)** will likely result in a viable and marketable policy consistent with this subsection;
+      - **(ii)** would provide crop insurance coverage in a significantly improved form;
+      - **(iii)** adequately protects the interests of producers; and
+      - **(iv)** meets other requirements of this subchapter determined appropriate by the Board.
+  - **(17)**
+    - **(A)** The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding—
+      - **(i)** a policy to insure biomass sorghum that is grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products; and
+      - **(ii)** a policy to insure sweet sorghum that is grown for a purpose described in clause (i).
+    - **(B)** Research and development with respect to each of the policies required in subparagraph (A) shall evaluate the effectiveness of risk management tools for the production of biomass sorghum or sweet sorghum, including policies and plans of insurance that—
+      - **(i)** are based on market prices and yields;
+      - **(ii)** to the extent that insufficient data exist to develop a policy based on market prices and yields, evaluate the policies and plans of insurance based on the use of weather indices, including excessive or inadequate rainfall, to protect the interest of crop producers; and
+      - **(iii)** provide protection for production or revenue losses, or both.
+  - **(18)**
+    - **(A)** The Corporation shall contract with 1 or more qualified entities to conduct a study to determine the feasibility of insuring swine producers for a catastrophic event.
+    - **(B)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+  - **(19)**
+    - **(A)** Unless the Corporation approves a whole farm insurance plan, similar to the plan described in this paragraph, to be available to producers for the 2016 reinsurance year, the Corporation shall conduct activities or enter into contracts to carry out research and development to develop a whole farm risk management insurance plan, with a liability limitation of $1,500,000, that allows a diversified crop or livestock producer the option to qualify for an indemnity if actual gross farm revenue is below 85 percent of the average gross farm revenue or the expected gross farm revenue that can reasonably be expected of the producer, as determined by the Corporation.
+    - **(B)** The Corporation shall permit producers (including direct-to-consumer marketers and producers servicing local and regional and farm identity-preserved markets) who produce multiple agricultural commodities, including specialty crops, industrial crops, livestock, and aquaculture products, to participate in the plan developed under subparagraph (A) in lieu of any other plan under this subchapter.
+    - **(C)** The Corporation may provide diversification-based additional coverage payment rates, premium discounts, or other enhanced benefits in recognition of the risk management benefits of crop and livestock diversification strategies for producers that—
+      - **(i)** grow multiple crops; or
+      - **(ii)** may have income from the production of livestock that uses a crop grown on the farm.
+    - **(D)** The Corporation may include coverage for the value of any packing, packaging, or any other similar on-farm activity the Corporation determines to be the minimum required in order to remove the commodity from the field.
+  - **(20)**
+    - **(A)** The Corporation shall contract with a qualified person to conduct a study to determine the feasibility of insuring poultry producers for a catastrophic event.
+    - **(B)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+  - **(21)**
+    - **(A)** In this paragraph, the terms “poultry” and “poultry grower” have the meanings given those terms in section 182 of this title .
+    - **(B)** The Corporation shall offer to enter into a contract or cooperative agreement with an institution of higher education or other legal entity to carry out research and development regarding a policy to insure the commercial production of poultry against business interruptions caused by integrator bankruptcy.
+    - **(C)** As part of the research and development conducted pursuant to a contract or cooperative agreement entered into under subparagraph (B), the entity shall—
+      - **(i)** evaluate the market place for business interruption insurance that is available to poultry growers;
+      - **(ii)** determine what statutory authority would be necessary to implement a business interruption insurance through the Corporation;
+      - **(iii)** assess the feasibility of a policy or plan of insurance offered under this subchapter to insure against a portion of losses due to business interruption or to the bankruptcy of an business integrator; and
+      - **(iv)** analyze the costs to the Federal Government of a Federal business interruption insurance program for poultry growers or producers.
+    - **(D)** Not later than 180 days after February 7, 2014 , the Corporation shall offer to enter into the contract or cooperative agreement required by subparagraph (B).
+    - **(E)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the research and development conducted pursuant to the contract or cooperative agreement entered into under subparagraph (B).]
+  - **(22)**
+    - **(A)** The Corporation shall offer to enter into a contract with 1 or more qualified entities to conduct a study to determine whether offering policies that provide coverage for specialty crops from food safety and contamination issues would benefit agricultural producers.
+    - **(B)** The study described in subparagraph (A) shall evaluate policies and plans of insurance coverage that provide protection for production or revenue impacted by food safety concerns including, at a minimum, government, retail, or national consumer group announcements of a health advisory, removal, or recall related to a contamination concern.
+    - **(C)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+  - **(23)**
+    - **(A)** The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure alfalfa.
+    - **(B)** Not later than 1 year after February 7, 2014 , the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+  - **(24)** A policy developed under this subsection may be prepared without regard to the limitations of this subchapter, including—
     - **(A)** the requirement concerning the levels of coverage and rates; and
     - **(B)** the requirement that the price level for each insured agricultural commodity must equal the expected market price for the agricultural commodity, as established by the Board.
 - **(d)**
-  - **(1)** The purpose of this subsection is to authorize the Corporation to enter into partnerships with public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by section 7333 of this title , specialty crops, and underserved agricultural commodities.
+  - **(1)** The purpose of this subsection is to authorize the Corporation to enter into partnerships with public and private entities for the purpose of either—
+    - **(A)** increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by section 7333 of this title , specialty crops, and underserved agricultural commodities; or
+    - **(B)** improving analysis tools and technology regarding compliance or identifying and using innovative compliance strategies.
   - **(2)** The Corporation may enter into partnerships with the National Institute of Food and Agriculture, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities with demonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
   - **(3)** The Corporation may enter into a partnership under paragraph (2)—
     - **(A)** to enhance the notice and timeliness of notice of weather conditions that could negatively affect crop yields, quality, and final product use in order to allow producers to take preventive actions to increase end product profitability and marketability and to reduce the possibility of crop insurance claims;
@@ -164,20 +195,18 @@ status: "active"
     - **(C)** to develop or improve techniques for planning, breeding, planting, growing, maintaining, harvesting, storing, shipping, and marketing that will address quality and quantity challenges associated with year-to-year and regional variations;
     - **(D)** to clarify labor requirements and assist producers in complying with requirements to better meet the physically intense and time-compressed planting, tending, and harvesting requirements associated with the production of specialty crops and underserved agricultural commodities;
     - **(E)** to provide assistance to State foresters or equivalent officials for the prescribed use of burning on private forest land for the prevention, control, and suppression of fire;
-    - **(F)** to provide producers with training and informational opportunities so that the producers will be better able to use financial management, crop insurance, marketing contracts, and other existing and emerging risk management tools; and
-    - **(G)** to develop other risk management tools to further increase economic and production stability.
+    - **(F)** to provide producers with training and informational opportunities so that the producers will be better able to use financial management, farm financial benchmarking, crop insurance, marketing contracts, and other existing and emerging risk management tools;
+    - **(G)** to improve analysis tools and technology regarding compliance or identifying and using innovative compliance strategies; and
+    - **(H)** to develop other risk management tools to further increase economic and production stability.
 - **(e)**
-  - **(1)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year 3 3 So in original. Probably should be followed by a period.
+  - **(1)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year.
   - **(2)**
-    - **(A)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to carry out contracting and partnerships under subsections (c) and (d) of this section not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
-    - **(B)** Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A) of this section.
-  - **(3)** If the Corporation determines that the amount available to provide either reimbursement payments or contract payments under this section for a fiscal year is not needed for such purposes, the Corporation may use—
+    - **(A)** Of the amounts made available from the insurance fund established under section 1516(c) of this title , the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) of this section not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
+    - **(B)** Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to conduct research and development and carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A) of this section.
+  - **(3)** If the Corporation determines that the amount available under this section for a fiscal year is not needed for such purposes, the Corporation may use—
     - **(A)** not more than $5,000,000 for each fiscal year to improve program integrity, including by—
       - **(i)** increasing compliance-related training;
       - **(ii)** improving analysis tools and technology regarding compliance;
       - **(iii)** use of information technology, as determined by the Corporation; and
       - **(iv)** identifying and using innovative compliance strategies; and
     - **(B)** any excess amounts to carry out other activities authorized under this section.
-  - **(4)**
-    - **(A)** Notwithstanding subsection (d) of this section, on and after October 1, 2000 , the Corporation shall not conduct research and development for any new policy for an agricultural commodity offered under this subchapter.
-    - **(B)** Any policy developed by the Corporation under this subchapter before that date may continue to be offered for sale to producers.

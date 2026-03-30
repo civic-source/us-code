@@ -3,13 +3,13 @@ title: "Section 1736b - Expiration date"
 usc_title: 7
 usc_section: "1736b"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1736b"
-generated_at: "2026-03-30T03:36:04.629Z"
+generated_at: "2026-03-30T03:37:54.840Z"
 status: "active"
 ---
 
 # § 1736b. Expiration date
 
-No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2012 .
+No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2018 .
 

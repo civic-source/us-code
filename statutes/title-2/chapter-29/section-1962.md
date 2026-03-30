@@ -3,9 +3,9 @@ title: "Section 1962 - Detail of police"
 usc_title: 2
 usc_section: "1962"
 chapter: 29
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 1962"
-generated_at: "2026-03-30T03:35:51.746Z"
+generated_at: "2026-03-30T03:37:47.348Z"
 status: "active"
 ---
 

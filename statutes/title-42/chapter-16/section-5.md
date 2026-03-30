@@ -3,9 +3,9 @@ title: "Section 5 - Research experiences for high school students"
 usc_title: 42
 usc_section: "5"
 chapter: 16
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T03:37:24.104Z"
+generated_at: "2026-03-30T03:39:06.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2009d - Rural Development Trust Fund"
 usc_title: 7
 usc_section: "2009d"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2009d"
-generated_at: "2026-03-30T03:36:04.647Z"
+generated_at: "2026-03-30T03:37:54.854Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(C)** emergency community water assistance grants under section 1926a of this title ; or
     - **(D)** solid waste management grants under section 1932(b) of this title .
   - **(3)** The rural business and cooperative development category consists of all amounts made available for—
-    - **(A)** rural business opportunity grants under section 1926(a)(11)(A) of this title ;
+    - **(A)** rural business opportunity grants under section 1926(a)(11)(A) 1 1 See References in Text note below. of this title;
     - **(B)** business and industry direct and guaranteed loans under section 1932(a)(2)(A) of this title ; or
     - **(C)** rural business enterprise grants or rural educational network grants under section 1932(c) of this title .
 - **(e)**

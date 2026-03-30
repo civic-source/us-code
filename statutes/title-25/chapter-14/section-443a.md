@@ -3,9 +3,9 @@ title: "Section 443a - Conveyance to Indian tribes of federally owned buildings,
 usc_title: 25
 usc_section: "443a"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 443a"
-generated_at: "2026-03-30T03:36:34.704Z"
+generated_at: "2026-03-30T03:38:23.416Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 338 - Election to perfect entry; final proof"
 usc_title: 43
 usc_section: "338"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 338"
-generated_at: "2026-03-30T03:37:08.056Z"
+generated_at: "2026-03-30T03:38:49.715Z"
 status: "active"
 ---
 

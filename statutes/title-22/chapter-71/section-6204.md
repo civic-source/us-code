@@ -3,9 +3,9 @@ title: "Section 6204 - Authorities of Board"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-30T03:36:39.951Z"
+generated_at: "2026-03-30T03:38:22.299Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9108 - Policy research, analysis, data collection, and dissemina
 usc_title: 20
 usc_section: "9108"
 chapter: 72
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 9108"
-generated_at: "2026-03-30T03:36:22.951Z"
+generated_at: "2026-03-30T03:38:12.905Z"
 status: "active"
 ---
 

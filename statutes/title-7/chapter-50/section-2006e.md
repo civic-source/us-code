@@ -3,9 +3,9 @@ title: "Section 2006e - Prohibition on use of loans for certain purposes"
 usc_title: 7
 usc_section: "2006e"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2006e"
-generated_at: "2026-03-30T03:36:04.644Z"
+generated_at: "2026-03-30T03:37:54.853Z"
 status: "active"
 ---
 

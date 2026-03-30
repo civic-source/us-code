@@ -3,9 +3,9 @@ title: "Section 2821 - State workforce investment boards"
 usc_title: 29
 usc_section: "2821"
 chapter: 30
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 2821"
-generated_at: "2026-03-30T03:36:46.451Z"
+generated_at: "2026-03-30T03:38:27.228Z"
 status: "active"
 ---
 

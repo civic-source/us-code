@@ -3,9 +3,9 @@ title: "Section 2996a - Definitions"
 usc_title: 42
 usc_section: "2996a"
 chapter: 34
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 2996a"
-generated_at: "2026-03-30T03:37:24.163Z"
+generated_at: "2026-03-30T03:39:06.123Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7412 - Definitions"
 usc_title: 7
 usc_section: "7412"
 chapter: 101
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 7412"
-generated_at: "2026-03-30T03:36:04.722Z"
+generated_at: "2026-03-30T03:37:54.921Z"
 status: "active"
 ---
 
@@ -18,8 +18,11 @@ In this subchapter (unless the context otherwise requires):
     - **(B)** livestock and the products of livestock;
     - **(C)** the products of poultry and bee raising;
     - **(D)** the products of forestry;
-    - **(E)** other commodities raised or produced on farms, as determined appropriate by the Secretary; and
-    - **(F)** products processed or manufactured from products specified in the preceding subparagraphs, as determined appropriate by the Secretary.
+    - **(E)** products, as a class, that are—
+      - **(i)** produced on a certified organic farm (as defined in section 6502 of this title ); and
+      - **(ii)** certified to be sold or labeled as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation));
+    - **(F)** other commodities raised or produced on farms, as determined appropriate by the Secretary; and
+    - **(G)** products processed or manufactured from products specified in the preceding subparagraphs, as determined appropriate by the Secretary.
   - **(2)** The term “board” means a board established under an order issued under section 7413 of this title .
   - **(3)** The term “conflict of interest” means a situation in which a member or employee of a board has a direct or indirect financial interest in a person that performs a service for, or enters into a contract with, a board for anything of economic value.
   - **(4)** The term “Department” means the Department of Agriculture.

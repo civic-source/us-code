@@ -3,9 +3,9 @@ title: "Section 470e - Recordkeeping; recipients of assistance; audit"
 usc_title: 16
 usc_section: "470e"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 470e"
-generated_at: "2026-03-30T03:36:30.111Z"
+generated_at: "2026-03-30T03:38:15.637Z"
 status: "active"
 ---
 

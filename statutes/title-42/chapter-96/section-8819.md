@@ -3,9 +3,9 @@ title: "Section 8819 - Review; reorganization"
 usc_title: 42
 usc_section: "8819"
 chapter: 96
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 8819"
-generated_at: "2026-03-30T03:37:24.431Z"
+generated_at: "2026-03-30T03:39:06.374Z"
 status: "active"
 ---
 

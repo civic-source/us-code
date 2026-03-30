@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T03:36:13.264Z"
+generated_at: "2026-03-30T03:38:05.996Z"
 status: "active"
 ---
 
@@ -71,9 +71,8 @@ status: "active"
 - **(h)**
   - **(1)** At the conclusion of each fiscal year, the head of each Federal agency shall submit to the Administrator a report describing—
     - **(A)** the extent of the participation by small business concerns, small business concerns owned and controlled by veterans (including service-disabled veterans), qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in the procurement contracts of such agency during such fiscal year;
-    - **(B)** whether the agency achieved the goals established for the agency under subsection (g)(2) with respect to such fiscal year;
-    - **(C)** any justifications for a failure to achieve such goals; and
-    - **(D)** a remediation plan with proposed new practices to better meet such goals, including analysis of factors leading to any failure to achieve such goals.
+    - **(B)** whether the agency achieved the goals established for the agency under subsection (g)(2) with respect to such fiscal year; and
+    - **(C)** any justifications for a failure to achieve such goals.
   - **(2)** Not later than 60 days after receiving a report from each Federal agency under paragraph (1) with respect to a fiscal year, the Administrator shall submit to the President and Congress, and to make available on a public Web site, a report that includes—
     - **(A)** a copy of each report submitted to the Administrator under paragraph (1);
     - **(B)** a determination of whether each goal established by the President under subsection (g)(1) for such fiscal year was achieved;
@@ -169,7 +168,7 @@ status: "active"
     - **(D)** review any bundled or consolidated solicitation or contract in accordance with this chapter;
     - **(E)** have access to procurement records and other data of the procurement center commensurate with the level of such representative’s approved security clearance classification, with such data provided upon request in electronic format, when available;
     - **(F)** receive unsolicited proposals from small business concerns and transmit such proposals to personnel of the activity responsible for reviewing such proposals, who shall furnish the procurement center representative with information regarding the disposition of any such proposal;
-    - **(G)** consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph 3 3 So in original. Probably should be “paragraphs”. (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
+    - **(G)** consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
     - **(H)** be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified; and
     - **(I)** carry out any other responsibility assigned by the Administrator.
   - **(3)** A procurement center representative is authorized to appeal the failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be filed and processed in the same manner and subject to the same conditions and limitations as an appeal filed by the Administrator pursuant to subsection (a) of this section.
@@ -182,12 +181,12 @@ status: "active"
     - **(B)** The Administrator shall establish personnel positions for procurement center representatives assigned under this subsection, which are classified at a grade level of the General Schedule sufficient to attract and retain highly qualified personnel.
   - **(6)** For purposes of this subsection, the term “major procurement center” means a procurement center that, in the opinion of the Administrator, purchases substantial dollar amounts of goods or services, including goods or services that are commercially available.
   - **(7)**
-    - **(A)** At such times as the Administrator deems appropriate, the breakout procurement center representative 4 4 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
+    - **(A)** At such times as the Administrator deems appropriate, the breakout procurement center representative 3 3 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
     - **(B)** A procurement center representative may provide training under subparagraph (A) only to the extent that the training does not interfere with the representative carrying out other activities under this subsection.
   - **(8)** A procurement center representative shall prepare and personally deliver an annual briefing and report to the head of the procurement center to which such representative is assigned. Such briefing and report shall detail the past and planned activities of the representative and shall contain such recommendations for improvement in the operation of the center as may be appropriate. The head of such center shall personally receive such briefing and report and shall, within 60 calendar days after receipt, respond, in writing, to each recommendation made by such representative.
 - **(m)**
   - **(1)** Each agency subject to the requirements of section 2323 of title 10 shall, when implementing such requirements—
-    - **(A)** establish policies and procedures that insure that there will be no reduction in the number of 5 5 So in original. Probably should be “or”. dollar value of contracts awarded pursuant to this section and section 637(a) of this title in order to achieve any goal or other program objective; and
+    - **(A)** establish policies and procedures that insure that there will be no reduction in the number of 4 4 So in original. Probably should be “or”. dollar value of contracts awarded pursuant to this section and section 637(a) of this title in order to achieve any goal or other program objective; and
     - **(B)** assure that such requirements will not alter or change the procurement process used to implement this section or section 637(a) of this title .
   - **(2)** All procurement center representatives (including those referred to in subsection (k)(6) of this section), in addition to such other duties as may be assigned by the Administrator, shall—
     - **(A)** monitor the performance of the procurement activities to which they are assigned to ascertain the degree of compliance with the requirements of paragraph (1);

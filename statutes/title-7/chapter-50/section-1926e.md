@@ -3,9 +3,9 @@ title: "Section 1926e - Grants to nonprofit organizations to finance the constru
 usc_title: 7
 usc_section: "1926e"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1926e"
-generated_at: "2026-03-30T03:36:04.636Z"
+generated_at: "2026-03-30T03:37:54.846Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
     - **(C)** shall not exceed $11,000 for each water well system described in paragraph (1).
   - **(3)** A recipient of a grant made under this section may use grant funds to pay administrative expenses associated with providing the assistance described in paragraph (1), as determined by the Secretary.
 - **(c)** In awarding grants under this section, the Secretary shall give priority to an applicant that has substantial expertise and experience in promoting the safe and productive use of individually-owned household water well systems and ground water.
-- **(d)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
+- **(d)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.

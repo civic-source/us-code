@@ -3,9 +3,9 @@ title: "Section 5170a - General Federal assistance"
 usc_title: 42
 usc_section: "5170a"
 chapter: 68
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 5170a"
-generated_at: "2026-03-30T03:37:24.259Z"
+generated_at: "2026-03-30T03:39:06.209Z"
 status: "active"
 ---
 

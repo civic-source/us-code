@@ -3,9 +3,9 @@ title: "Section 2515A - Repealed. Pub. L. 97–34, title IV, § 403(c)(3)(B) , A
 usc_title: 26
 usc_section: "2515A"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 2515A"
-generated_at: "2026-03-30T03:36:52.372Z"
+generated_at: "2026-03-30T03:38:36.098Z"
 status: "repealed"
 ---
 

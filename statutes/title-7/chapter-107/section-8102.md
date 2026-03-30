@@ -3,9 +3,9 @@ title: "Section 8102 - Biobased markets program"
 usc_title: 7
 usc_section: "8102"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8102"
-generated_at: "2026-03-30T03:36:04.738Z"
+generated_at: "2026-03-30T03:37:54.936Z"
 status: "active"
 ---
 
@@ -18,8 +18,9 @@ status: "active"
   - **(2)**
     - **(A)**
       - **(i)** Except as provided in clause (ii) and subparagraph (B), after the date specified in applicable guidelines prepared pursuant to paragraph (3), each procuring agency shall—
-        - **(I)** establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section; and
+        - **(I)** establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section;
         - **(II)** with respect to items described in the guidelines, give a procurement preference to those items that—
+        - **(III)** establish a targeted biobased-only procurement requirement under which the procuring agency shall issue a certain number of biobased-only contracts when the procuring agency is purchasing products, or purchasing services that include the use of products, that are included in a biobased product category designated by the Secretary.
       - **(ii)** The requirements of clause (i)(I) to establish a procurement program and develop procurement specifications shall not apply to a person described in paragraph (1)(B).
     - **(B)** Notwithstanding subparagraph (A), a procuring agency may decide not to procure items described in that subparagraph if the procuring agency determines that the items—
       - **(i)** are not reasonably available within a reasonable period of time;
@@ -45,13 +46,16 @@ status: "active"
       - **(ii)** designate those intermediate ingredients and feedstocks that are or can be used to produce items that will be subject to the preference described in paragraph (2);
       - **(iii)** automatically designate items composed of intermediate ingredients and feedstocks designated under clause (ii), if the content of the designated intermediate ingredients and feedstocks exceeds 50 percent of the item (unless the Secretary determines a different composition percentage is appropriate);
       - **(iv)** set forth recommended practices with respect to the procurement of biobased products and items containing such materials;
-      - **(v)** provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
-      - **(vi)** take effect on the date established in the guidelines, which may not exceed 1 year after publication.
-    - **(C)** Information provided pursuant to subparagraph (B)(v) with respect to a material or item shall be considered to be provided for another item made with the same material or item.
+      - **(v)** require reporting of quantities and types of biobased products purchased by procuring agencies;
+      - **(vi)** promote biobased products, including forest products, that apply an innovative approach to growing, harvesting, sourcing, procuring, processing, manufacturing, or application of biobased products regardless of the date of entry into the marketplace;
+      - **(vii)** as determined to be necessary by the Secretary based on the availability of data, provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
+      - **(viii)** take effect on the date established in the guidelines, which may not exceed 1 year after publication.
+    - **(C)** Information provided pursuant to subparagraph (B)(v) 1 1 See References in Text note below. with respect to a material or item shall be considered to be provided for another item made with the same material or item.
     - **(D)** Guidelines issued under this paragraph may not require a manufacturer or vendor of biobased products, as a condition of the purchase of biobased products from the manufacturer or vendor, to provide to procuring agencies more data than would be required to be provided by other manufacturers or vendors offering products for sale to a procuring agency, other than data confirming the biobased content of a product.
     - **(E)** The guidelines shall apply with respect to any purchase or acquisition of a procurement item for which—
       - **(i)** the purchase price of the item exceeds $10,000; or
       - **(ii)** the quantity of the items or of functionally-equivalent items purchased or acquired during the preceding fiscal year was at least $10,000.
+    - **(F)** Not later than 1 year after February 7, 2014 , the Secretary shall begin to designate intermediate ingredients or feedstocks and assembled and finished biobased products in the guidelines issued under this paragraph.
   - **(4)**
     - **(A)** The Office of Federal Procurement Policy, in cooperation with the Secretary, shall—
       - **(i)** coordinate the implementation of this subsection with other policies for Federal procurement;
@@ -79,22 +83,35 @@ status: "active"
       - **(i)** encourage the purchase of products with the maximum biobased content;
       - **(ii)** provide that the Secretary may designate as biobased for the purposes of the voluntary program established under this subsection finished products that contain significant portions of biobased materials or components; and
       - **(iii)** to the maximum extent practicable, be consistent with the guidelines issued under subsection (a)(3).
-  - **(3)** The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
+  - **(3)**
+    - **(A)** The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
+    - **(B)** The Secretary may carry out such auditing and compliance activities as the Secretary determines to be necessary to ensure compliance with subparagraph (A).
+  - **(4)** Not later than 1 year after February 7, 2014 , the Secretary shall begin issuing criteria for determining which assembled and finished products may qualify to receive the label under paragraph (1).
 - **(c)** The Secretary shall—
   - **(1)** establish a program to recognize Federal agencies and private entities that use a substantial amount of biobased products; and
   - **(2)** encourage Federal agencies to establish incentives programs to recognize Federal employees or contractors that make exceptional contributions to the expanded use of biobased products.
 - **(d)** Nothing in this section shall apply to the procurement of motor vehicle fuels, heating oil, or electricity.
 - **(e)** Effective beginning on the date that is 90 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Chief Administrative Officer of the House of Representatives shall consider the biobased product designations made under this section in making procurement decisions for the Capitol Complex.
 - **(f)** The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
-- **(g)**
+- **(g)** In determining whether products are eligible for the “USDA Certified Biobased Product” label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
+- **(h)**
   - **(1)** Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each year thereafter, the Secretary shall submit to Congress a report on the implementation of this section.
-  - **(2)** The report shall include—
-    - **(A)** a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section; and
+  - **(2)** Each report under paragraph (1) shall include—
+    - **(A)** a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section;
     - **(B)** information on the status of implementation of—
       - **(i)** item designations (including designation of intermediate ingredients and feedstocks); and
-      - **(ii)** the voluntary labeling program established under subsection (b).
-- **(h)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to provide mandatory funding for biobased products testing and labeling as required to carry out this section—
-    - **(A)** $1,000,000 for fiscal year 2008; and
-    - **(B)** $2,000,000 for each of fiscal years 2009 through 2012.
-  - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2009 through 2013.
+      - **(ii)** the voluntary labeling program established under subsection (b); and
+    - **(C)** the progress made by other Federal agencies in compliance with the biobased procurement requirements, including the quantity of purchases made.
+  - **(3)**
+    - **(A)** The Secretary shall conduct a study to assess the economic impact of the biobased products industry, including—
+      - **(i)** the quantity of biobased products sold;
+      - **(ii)** the value of the biobased products;
+      - **(iii)** the quantity of jobs created;
+      - **(iv)** the quantity of petroleum displaced;
+      - **(v)** other environmental benefits; and
+      - **(vi)** areas in which the use or manufacturing of biobased products could be more effectively used, including identifying any technical and economic obstacles and recommending how those obstacles can be overcome.
+    - **(B)** Not later than 1 year after February 7, 2014 , the Secretary shall submit to Congress a report describing the results of the study conducted under subparagraph (A).
+- **(i)**
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
+- **(j)** In this section, the term “biobased product” (as defined in section 8101 of this title ) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.

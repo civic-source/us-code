@@ -3,9 +3,9 @@ title: "Section 1060 - Multiple employer plans and other special rules"
 usc_title: 29
 usc_section: "1060"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1060"
-generated_at: "2026-03-30T03:36:46.405Z"
+generated_at: "2026-03-30T03:38:27.185Z"
 status: "active"
 ---
 
@@ -68,3 +68,14 @@ status: "active"
   - **(5)** For purposes of this subsection—
     - **(A)** The term “applicable individual account plan” means an individual account plan which includes a qualified cash or deferred arrangement.
     - **(B)** The term “qualified cash or deferred arrangement” has the meaning given such term by section 401(k)(2) of title 26 .
+- **(f)**
+  - **(1)** For purposes of this subchapter, except as provided in this subsection, a CSEC plan is an employee pension benefit plan (other than a multiemployer plan) that is a defined benefit plan—
+    - **(A)** to which section 104 of the Pension Protection Act of 2006 applies, without regard to—
+      - **(i)** section 104(a)(2) of such Act;
+      - **(ii)** the amendments to such section 104 by section 202(b) of the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010; and
+      - **(iii)** paragraph (3)(B); or
+    - **(B)** that, as of June 25, 2010 , was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26 .
+  - **(2)** All employers that are treated as a single employer under subsection (b) or (c) of section 414 of title 26 shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under paragraph (1)(B).
+  - **(3)**
+    - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
+    - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.

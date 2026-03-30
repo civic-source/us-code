@@ -3,9 +3,9 @@ title: "Section 795 - Projects With Industry"
 usc_title: 29
 usc_section: "795"
 chapter: 16
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 795"
-generated_at: "2026-03-30T03:36:46.392Z"
+generated_at: "2026-03-30T03:38:27.172Z"
 status: "active"
 ---
 

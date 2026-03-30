@@ -3,9 +3,9 @@ title: "Section 2015 - Transfer of property"
 usc_title: 42
 usc_section: "2015"
 chapter: 23
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 2015"
-generated_at: "2026-03-30T03:37:24.132Z"
+generated_at: "2026-03-30T03:39:06.090Z"
 status: "active"
 ---
 

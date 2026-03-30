@@ -3,9 +3,9 @@ title: "Section 18052 - Waiver for State innovation"
 usc_title: 42
 usc_section: "18052"
 chapter: 157
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 18052"
-generated_at: "2026-03-30T03:37:24.667Z"
+generated_at: "2026-03-30T03:39:06.613Z"
 status: "active"
 ---
 

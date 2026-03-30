@@ -3,9 +3,9 @@ title: "Section 14197 - Powers"
 usc_title: 42
 usc_section: "14197"
 chapter: 136
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 14197"
-generated_at: "2026-03-30T03:37:24.591Z"
+generated_at: "2026-03-30T03:39:06.535Z"
 status: "active"
 ---
 

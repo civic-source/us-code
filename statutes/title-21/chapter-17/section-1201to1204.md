@@ -3,9 +3,9 @@ title: "Section 1201to1204 - Repealed. Pub. L. 100–690, title I, § 1007(a)(3)
 usc_title: 21
 usc_section: "1201to1204"
 chapter: 17
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 1201to1204"
-generated_at: "2026-03-30T03:36:35.992Z"
+generated_at: "2026-03-30T03:38:19.581Z"
 status: "repealed"
 ---
 

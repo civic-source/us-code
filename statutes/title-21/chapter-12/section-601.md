@@ -3,9 +3,9 @@ title: "Section 601 - Definitions"
 usc_title: 21
 usc_section: "601"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 601"
-generated_at: "2026-03-30T03:36:35.971Z"
+generated_at: "2026-03-30T03:38:19.566Z"
 status: "active"
 ---
 
@@ -62,5 +62,5 @@ As used in this chapter, except as otherwise specified, the following terms shal
 - **(v)** The term “official device” means any device prescribed or authorized by the Secretary for use in applying any official mark.
 - **(w)** The term “amenable species” means—
   - **(1)** those species subject to the provisions of this chapter on the day before November 10, 2005 ;
-  - **(2)** catfish, as defined by the Secretary; and
+  - **(2)** all fish of the order Siluriformes; and
   - **(3)** any additional species of livestock that the Secretary considers appropriate.

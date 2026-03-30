@@ -1,15 +1,15 @@
 ---
-title: "Section 4004 - Definitions"
+title: "Section 4004 - Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012"
 usc_title: 42
 usc_section: "4004"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4004"
-generated_at: "2026-03-30T03:37:24.220Z"
+generated_at: "2026-03-30T03:39:06.175Z"
 status: "active"
 ---
 
-# § 4004. Definitions
+# § 4004. Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012
 
 - **(a)** In this subtitle, the following definitions shall apply:
   - **(1)** The term “100-year floodplain” means that area which is subject to inundation from a flood having a 1-percent chance of being equaled or exceeded in any given year.

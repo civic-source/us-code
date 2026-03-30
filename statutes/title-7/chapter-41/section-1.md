@@ -3,9 +3,9 @@ title: "Section 1 - McGovern-Dole International Food for Education and Child Nut
 usc_title: 7
 usc_section: "1"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T03:36:04.631Z"
+generated_at: "2026-03-30T03:37:54.841Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
         - **(II)** has a national government that is committed to or is working toward, through a national action plan, the goals of the World Declaration on Education for All convened in 1990 in Jomtien, Thailand, and the followup Dakar Framework for Action of the World Education Forum, convened in 2000;
     - **(C)** the costs of activities conducted in the recipient countries by a nonprofit voluntary organization, cooperative, or intergovernmental agency or organization that would enhance the effectiveness of the activities implemented by such entities under this section; and
     - **(D)** the costs of meeting the allowable administrative expenses of private voluntary organizations, cooperatives, or intergovernmental organizations that are implementing activities under this section.
-- **(d)** The Secretary shall to 1 1 So in original. The word “to” probably should not appear. —
+- **(d)** The Secretary shall—
   - **(1)** implement the program established under this section;
   - **(2)** ensure that the program established under this section is consistent with the foreign policy and development assistance objectives of the United States; and
   - **(3)** consider, in determining whether a country should receive assistance under this section, whether the government of the country is taking concrete steps to improve the preschool and school systems in the country.
@@ -69,5 +69,5 @@ status: "active"
 - **(k)** The requirement of section 1733(a) of this title applies with respect to the availability of commodities under this section.
 - **(l)**
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $84,000,000 for fiscal year 2009, to remain available until expended.
-  - **(2)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+  - **(2)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2018.
   - **(3)** Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.

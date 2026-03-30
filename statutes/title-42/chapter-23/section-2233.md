@@ -3,9 +3,9 @@ title: "Section 2233 - Terms of licenses"
 usc_title: 42
 usc_section: "2233"
 chapter: 23
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 2233"
-generated_at: "2026-03-30T03:37:24.148Z"
+generated_at: "2026-03-30T03:39:06.107Z"
 status: "active"
 ---
 

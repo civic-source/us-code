@@ -3,9 +3,9 @@ title: "Section 4301 - Findings and purpose"
 usc_title: 12
 usc_section: "4301"
 chapter: 44
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 4301"
-generated_at: "2026-03-30T03:36:10.724Z"
+generated_at: "2026-03-30T03:38:03.950Z"
 status: "active"
 ---
 

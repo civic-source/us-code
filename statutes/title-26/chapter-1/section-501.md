@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T03:36:52.294Z"
+generated_at: "2026-03-30T03:38:35.982Z"
 status: "active"
 ---
 
@@ -337,7 +337,7 @@ status: "active"
       - **(i)** the date of the first publication of a designation or identification described in paragraph (2) with respect to such organization, or
       - **(ii)** the date of the enactment of this subsection, and
     - **(B)** ends on the first date that all designations and identifications described in paragraph (2) with respect to such organization are rescinded pursuant to the law or Executive order under which such designation or identification was made.
-  - **(4)** No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2), 5 5 See References in Text note below. 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
+  - **(4)** No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2), 1 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
   - **(5)** Notwithstanding section 7428 or any other provision of law, no organization or other person may challenge a suspension under paragraph (1), a designation or identification described in paragraph (2), the period of suspension described in paragraph (3), or a denial of a deduction under paragraph (4) in any administrative or judicial proceeding relating to the Federal tax liability of such organization or other person.
   - **(6)**
     - **(A)** If—

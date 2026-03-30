@@ -3,9 +3,9 @@ title: "Section 60143 - Nonreproduction"
 usc_title: 51
 usc_section: "60143"
 chapter: 601
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "51 U.S.C. § 60143"
-generated_at: "2026-03-30T03:37:35.454Z"
+generated_at: "2026-03-30T03:39:20.942Z"
 status: "active"
 ---
 

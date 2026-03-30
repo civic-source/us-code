@@ -3,9 +3,9 @@ title: "Section 483a - Mortgages and deeds of trust by individual Indian owners;
 usc_title: 25
 usc_section: "483a"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 483a"
-generated_at: "2026-03-30T03:36:34.714Z"
+generated_at: "2026-03-30T03:38:23.423Z"
 status: "active"
 ---
 

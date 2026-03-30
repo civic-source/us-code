@@ -3,9 +3,9 @@ title: "Section 6246 - Restrictions on partnership adjustments"
 usc_title: 26
 usc_section: "6246"
 chapter: 63
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 6246"
-generated_at: "2026-03-30T03:36:52.432Z"
+generated_at: "2026-03-30T03:38:36.180Z"
 status: "active"
 ---
 

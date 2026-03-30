@@ -3,9 +3,9 @@ title: "Section 15hto15m - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16
 usc_title: 20
 usc_section: "15hto15m"
 chapter: 2
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 15hto15m"
-generated_at: "2026-03-30T03:36:22.721Z"
+generated_at: "2026-03-30T03:38:12.740Z"
 status: "repealed"
 ---
 

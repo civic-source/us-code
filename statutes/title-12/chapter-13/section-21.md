@@ -3,9 +3,9 @@ title: "Section 21 - Delegation of insuring authority to direct endorsement mort
 usc_title: 12
 usc_section: "21"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 21"
-generated_at: "2026-03-30T03:36:10.644Z"
+generated_at: "2026-03-30T03:38:03.879Z"
 status: "active"
 ---
 

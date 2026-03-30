@@ -3,9 +3,9 @@ title: "Section 254 - Certificate of correction of Patent and Trademark Office m
 usc_title: 35
 usc_section: "254"
 chapter: 25
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "35 U.S.C. § 254"
-generated_at: "2026-03-30T03:36:57.400Z"
+generated_at: "2026-03-30T03:38:38.370Z"
 status: "active"
 ---
 

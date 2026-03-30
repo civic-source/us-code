@@ -3,23 +3,19 @@ title: "Section 5641 - Funding levels"
 usc_title: 7
 usc_section: "5641"
 chapter: 87
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5641"
-generated_at: "2026-03-30T03:36:04.695Z"
+generated_at: "2026-03-30T03:37:54.897Z"
 status: "active"
 ---
 
 # § 5641. Funding levels
 
 - **(a)** The Commodity Credit Corporation may make available for each fiscal year such funds of the Commodity Credit Corporation as it determines necessary to carry out any direct credit program established under section 5621 of this title .
-- **(b)** The Commodity Credit Corporation shall make available for each of fiscal years 1996 through 2012 credit guarantees under section 5622(a) of this title in an amount equal to but not more than the lesser of—
-  - **(1)** $5,500,000,000 in credit guarantees; or
-  - **(2)** the sum of—
-    - **(A)** the amount of credit guarantees that the Commodity Credit Corporation can make available using budget authority of $40,000,000 for each fiscal year for the costs of the credit guarantees; and
-    - **(B)** the amount of credit guarantees that the Commodity Credit Corporation can make available using unobligated budget authority for prior fiscal years.
+- **(b)** The Commodity Credit Corporation shall make available for each fiscal year $5,500,000,000 of credit guarantees under section 5622(a) of this title .
 - **(c)**
   - **(1)** The Commodity Credit Corporation or the Secretary shall make available for market access activities authorized to be carried out by the Commodity Credit Corporation under section 5623 of this title —
-    - **(A)** in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2012, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
+    - **(A)** in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2018, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
     - **(B)** any funds that may be specifically appropriated to carry out a market access program under section 5623 of this title .
   - **(2)** In providing any amount of funds made available under paragraph (1)(A) for any fiscal year that is in excess of the amount made available under paragraph (1)(A) for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
     - **(A)** give equal consideration to—

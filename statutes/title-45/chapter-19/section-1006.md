@@ -3,9 +3,9 @@ title: "Section 1006 - Repealed. Pub. L. 97–35, title XI, § 1144(b) , Aug. 13
 usc_title: 45
 usc_section: "1006"
 chapter: 19
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "45 U.S.C. § 1006"
-generated_at: "2026-03-30T03:37:06.815Z"
+generated_at: "2026-03-30T03:38:48.703Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13438 - Telecommuting study"
 usc_title: 42
 usc_section: "13438"
 chapter: 134
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 13438"
-generated_at: "2026-03-30T03:37:24.565Z"
+generated_at: "2026-03-30T03:39:06.507Z"
 status: "active"
 ---
 

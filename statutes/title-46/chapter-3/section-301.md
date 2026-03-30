@@ -3,9 +3,9 @@ title: "Section 301 - General organization"
 usc_title: 46
 usc_section: "301"
 chapter: 3
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "46 U.S.C. § 301"
-generated_at: "2026-03-30T03:37:29.073Z"
+generated_at: "2026-03-30T03:39:12.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4711 - Authorization of appropriations"
 usc_title: 20
 usc_section: "4711"
 chapter: 59
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 4711"
-generated_at: "2026-03-30T03:36:22.879Z"
+generated_at: "2026-03-30T03:38:12.852Z"
 status: "active"
 ---
 

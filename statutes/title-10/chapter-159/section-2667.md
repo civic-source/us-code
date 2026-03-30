@@ -3,9 +3,9 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-03-30T03:36:02.526Z"
+generated_at: "2026-03-30T03:37:58.845Z"
 status: "active"
 ---
 
@@ -61,7 +61,6 @@ status: "active"
       - **(iii)** Lease of facilities.
       - **(iv)** Payment of utility services.
       - **(v)** Real property maintenance services.
-      - **(vi)** Administrative expenses incurred by the Secretary concerned under this section and for easements under section 2668 of this title .
     - **(D)** At least 50 percent of the proceeds deposited in the special account established for the Secretary concerned shall be available for activities described in subparagraph (C) only at the military installation or Defense Agency location where the proceeds were derived.
     - **(E)** If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) of this title , the proceeds shall be available for activities described in subparagraph (C) only at that museum.
   - **(2)** Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
@@ -91,11 +90,10 @@ status: "active"
     - **(B)** Because of the anticipated value to the Navy of the oceanographic research and training that will result from the ship’s operation, no monetary lease payments are required from the lessee under the initial lease or under any renewal or extension.
     - **(C)** The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
 - **(i)** In this section:
-  - **(1)** The term “administrative expenses” means only those expenses related to assessing, negotiating, executing, and managing lease and easement transactions. The term does not include any Government personnel costs.
-  - **(2)** The term “community support facility” includes an ancillary supporting facility (as that term is defined in section 2871(1) of this title ).
-  - **(3)** The term “community support services” includes revenue-generating food, recreational, lodging support services, and resale operations and other retail facilities and services intended to support a community.
-  - **(4)** The term “military installation” has the meaning given such term in section 2687 of this title .
-  - **(5)** The term “Secretary concerned” means—
+  - **(1)** The term “community support facility” includes an ancillary supporting facility (as that term is defined in section 2871(1) of this title ).
+  - **(2)** The term “community support services” includes revenue-generating food, recreational, lodging support services, and resale operations and other retail facilities and services intended to support a community.
+  - **(3)** The term “military installation” has the meaning given such term in section 2687 of this title .
+  - **(4)** The term “Secretary concerned” means—
     - **(A)** the Secretary of a military department, with respect to matters concerning that military department; and
     - **(B)** the Secretary of Defense, with respect to matters concerning the Defense Agencies.
 - **(j)** This section does not apply to oil, mineral, or phosphate lands.

@@ -3,9 +3,9 @@ title: "Section 589 - Definitions"
 usc_title: 7
 usc_section: "589"
 chapter: 25
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 589"
-generated_at: "2026-03-30T03:36:04.586Z"
+generated_at: "2026-03-30T03:37:54.802Z"
 status: "active"
 ---
 
@@ -17,3 +17,4 @@ When used in this chapter—
   - **(2)** The term “Secretary of Agriculture” means the Secretary of Agriculture of the United States.
   - **(3)** Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
   - **(4)** The term “apples” means fresh whole apples, whether or not the apples have been in storage.
+  - **(5)** The term “bulk container” means a container that contains a quantity of apples weighing more than 100 pounds.

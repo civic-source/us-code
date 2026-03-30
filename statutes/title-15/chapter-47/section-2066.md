@@ -3,9 +3,9 @@ title: "Section 2066 - Imported products"
 usc_title: 15
 usc_section: "2066"
 chapter: 47
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 2066"
-generated_at: "2026-03-30T03:36:13.357Z"
+generated_at: "2026-03-30T03:38:06.065Z"
 status: "active"
 ---
 

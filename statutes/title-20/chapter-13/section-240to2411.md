@@ -3,9 +3,9 @@ title: "Section 240to2411 - Repealed. Pub. L. 103–382, title III, § 331(b) , 
 usc_title: 20
 usc_section: "240to2411"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 240to2411"
-generated_at: "2026-03-30T03:36:22.731Z"
+generated_at: "2026-03-30T03:38:12.749Z"
 status: "repealed"
 ---
 

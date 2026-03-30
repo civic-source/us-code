@@ -3,9 +3,9 @@ title: "Section 4125 - Finality of certain financial transactions"
 usc_title: 42
 usc_section: "4125"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4125"
-generated_at: "2026-03-30T03:37:24.228Z"
+generated_at: "2026-03-30T03:39:06.184Z"
 status: "active"
 ---
 

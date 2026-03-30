@@ -3,9 +3,9 @@ title: "Section 2374a - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "2374a"
 chapter: 139
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2374a"
-generated_at: "2026-03-30T03:36:02.511Z"
+generated_at: "2026-03-30T03:37:58.831Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
     - **(E)** A description of the resources, including personnel and funding, used in the execution of the program, together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the Department for recording as obligations and expenditures.
     - **(F)** A description of any plans to transition the technologies or prototypes developed as a result of the program into an acquisition program of the Department.
   - **(3)** For each program under subsection (a), the authority to obligate or expend funds under that program is suspended as of the date specified in paragraph (1) if the Secretary does not, by that date, submit a report that includes, for that program, all the information required by paragraph (2). As of the date on which the Secretary does submit a report that includes, for that program, all the information required by paragraph (2), the suspension is lifted.
-- **(f)** The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018 .
+- **(f)** The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2013 .

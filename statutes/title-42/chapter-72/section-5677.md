@@ -3,9 +3,9 @@ title: "Section 5677 - Limitations on use of funds"
 usc_title: 42
 usc_section: "5677"
 chapter: 72
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 5677"
-generated_at: "2026-03-30T03:37:24.280Z"
+generated_at: "2026-03-30T03:39:06.229Z"
 status: "active"
 ---
 

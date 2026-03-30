@@ -3,9 +3,9 @@ title: "Section 1310 - Authority to require certain information"
 usc_title: 29
 usc_section: "1310"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1310"
-generated_at: "2026-03-30T03:36:46.429Z"
+generated_at: "2026-03-30T03:38:27.208Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** copies of such person’s audited (or, if unavailable, unaudited) financial statements, and such other financial information as the corporation may prescribe in regulations.
 - **(b)** The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor’s controlled group, of a single-employer plan covered by this subchapter, if—
   - **(1)** the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
-  - **(2)** the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
+  - **(2)** the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
   - **(3)** minimum funding waivers in excess of $1,000,000 have been granted with respect to any plan maintained by the contributing sponsor or any member of its controlled group, and any portion thereof is still outstanding.
 - **(c)** Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5 , and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 - **(d)**

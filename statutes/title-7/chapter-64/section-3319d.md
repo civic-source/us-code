@@ -3,18 +3,18 @@ title: "Section 3319d - Supplemental and alternative crops"
 usc_title: 7
 usc_section: "3319d"
 chapter: 64
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 3319d"
-generated_at: "2026-03-30T03:36:04.682Z"
+generated_at: "2026-03-30T03:37:54.885Z"
 status: "active"
 ---
 
 # § 3319d. Supplemental and alternative crops
 
-- **(a)** Notwithstanding any other provision of law, during the period beginning October 1, 1986 , and ending September 30, 2012 , the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
+- **(a)** Notwithstanding any other provision of law, during the period beginning October 1, 1986 , and ending September 30, 2018 , the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
 - **(b)** The development of supplemental and alternative crops is of critical importance to producers of agricultural commodities whose livelihood is threatened by the decline in demand experienced with respect to certain of their crops due to changes in consumption patterns or other related causes.
 - **(c)**
-  - **(1)** The Secretary shall use such research funding, special or competitive grants, or other means, as the Secretary determines, to further the purposes of this section in the implementation of a comprehensive and integrated program.
+  - **(1)** The Secretary shall make competitive grants to further the purposes of this section in the implementation of a comprehensive and integrated program.
   - **(2)** The program developed and implemented by the Secretary shall include—
     - **(A)** an examination of the adaptation of supplemental and alternative crops;
     - **(B)** the establishment and extension of various methods of planting, cultivating, harvesting, and processing supplemental and alternative crops;
@@ -29,3 +29,6 @@ status: "active"
     - **(E)** to conduct fundamental and applied research related to the development of new commercial products derived from natural plant material for industrial, medical, and agricultural applications; and
     - **(F)** to participate with colleges and universities, other Federal agencies, and private sector entities in conducting research described in subparagraph (E).
 - **(d)** The Secretary shall use the expertise and resources of the Agricultural Research Service, the National Institute of Food and Agriculture, and the land-grant colleges and universities for the purpose of carrying out this section.
+- **(e)**
+  - **(1)** such sums as are necessary for fiscal year 2013; and
+  - **(2)** $1,000,000 for each of fiscal years 2014 through 2018.

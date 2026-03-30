@@ -3,9 +3,9 @@ title: "Section 5722 - Reports"
 usc_title: 26
 usc_section: "5722"
 chapter: 52
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 5722"
-generated_at: "2026-03-30T03:36:52.412Z"
+generated_at: "2026-03-30T03:38:36.153Z"
 status: "active"
 ---
 

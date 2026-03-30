@@ -3,9 +3,9 @@ title: "Section 18051 - State flexibility to establish basic health programs for
 usc_title: 42
 usc_section: "18051"
 chapter: 157
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 18051"
-generated_at: "2026-03-30T03:37:24.666Z"
+generated_at: "2026-03-30T03:39:06.612Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
         - **(I)** the cost-sharing required under a platinum plan in the case of an eligible individual with household income not in excess of 150 percent of the poverty line for the size of the family involved; and
         - **(II)** the cost-sharing required under a gold plan in the case of an eligible individual not described in subclause (I); and
     - **(B)** the benefits provided under the standard health plans offered through the program cover at least the essential health benefits described in section 18022(b) of this title .
-- **(b)** In this section, the term “standard heath plan” means a health benefits plan that the State contracts with under this section—
+- **(b)** In this section, the term “standard heath 1 1 So in original. Probably should be “health”. plan” means a health benefits plan that the State contracts with under this section—
   - **(1)** under which the only individuals eligible to enroll are eligible individuals;
   - **(2)** that provides at least the essential health benefits described in section 18022(b) of this title ; and
   - **(3)** in the case of a plan that provides health insurance coverage offered by a health insurance issuer, that has a medical loss ratio of at least 85 percent.
@@ -50,7 +50,7 @@ status: "active"
   - **(4)** The provisions of section 18023 of this title shall apply to a State basic health program, and to standard health plans offered through such program, in the same manner as such rules apply to qualified health plans.
 - **(e)**
   - **(1)** In this section, the term “eligible individual” means, with respect to any State, an individual—
-    - **(A)** who a 1 1 So in original. Probably should be preceded by “is”. resident of the State who is not eligible to enroll in the State’s medicaid program under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] for benefits that at a minimum consist of the essential health benefits described in section 18022(b) of this title ;
+    - **(A)** who a 2 2 So in original. Probably should be preceded by “is”. resident of the State who is not eligible to enroll in the State’s medicaid program under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.] for benefits that at a minimum consist of the essential health benefits described in section 18022(b) of this title ;
     - **(B)** whose household income exceeds 133 percent but does not exceed 200 percent of the poverty line for the size of the family involved, or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status;
     - **(C)** who is not eligible for minimum essential coverage (as defined in section 5000A(f) of title 26 ) or is eligible for an employer-sponsored plan that is not affordable coverage (as determined under section 5000A(e)(2) of such title); and
     - **(D)** who has not attained age 65 as of the beginning of the plan year.

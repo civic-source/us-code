@@ -3,9 +3,9 @@ title: "Section 3803 - Hearing and determinations"
 usc_title: 31
 usc_section: "3803"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "31 U.S.C. § 3803"
-generated_at: "2026-03-30T03:36:57.179Z"
+generated_at: "2026-03-30T03:38:39.602Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
       - **(iv)** assistance under a State program funded under part A of title IV of the Social Security Act;
       - **(v)** medical assistance under a State plan approved under section 1902(a) of the Social Security Act;
       - **(vi)** benefits under title XX of the Social Security Act;
-      - **(vii)** benefits under the supplemental nutrition assistance program (as defined in section 3( l ) of the Food and Nutrition Act of 2008);
+      - **(vii)** benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008);
       - **(viii)** benefits under chapters 11, 13, 15, 17, and 21 of title 38;
       - **(ix)** benefits under the Black Lung Benefits Act;
       - **(x)** benefits under the special supplemental nutrition program for women, infants, and children established under section 17 of the Child Nutrition Act of 1966;

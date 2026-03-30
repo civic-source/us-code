@@ -3,9 +3,9 @@ title: "Section 608 - Prohibitions; requirements"
 usc_title: 42
 usc_section: "608"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 608"
-generated_at: "2026-03-30T03:37:23.812Z"
+generated_at: "2026-03-30T03:39:05.769Z"
 status: "active"
 ---
 
@@ -82,7 +82,7 @@ status: "active"
       - **(ii)** any casino, gambling casino, or gaming establishment; or
       - **(iii)** any retail establishment which provides adult-oriented entertainment in which performers disrobe or perform in an unclothed state for entertainment.
     - **(B)** For purposes of subparagraph (A)—
-      - **(i)** The term “liquor store” means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2012(r) )).
+      - **(i)** The term “liquor store” means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2012(r) ) 1 1 See References in Text note below. ).
       - **(ii)** The terms “casino”, “gambling casino”, and “gaming establishment” do not include—
         - **(I)** a grocery store which sells groceries including such staple foods and which also offers, or is located within the same building or complex as, casino, gambling, or gaming activities; or
         - **(II)** any other establishment that offers casino, gambling, or gaming activities incidental to the principal purpose of the business.

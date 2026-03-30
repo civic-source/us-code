@@ -3,9 +3,9 @@ title: "Section 2a - Procedures for collection and delivery of marked absentee b
 usc_title: 42
 usc_section: "2a"
 chapter: 20
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T03:37:24.114Z"
+generated_at: "2026-03-30T03:39:06.074Z"
 status: "active"
 ---
 

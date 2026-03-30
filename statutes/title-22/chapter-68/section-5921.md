@@ -3,9 +3,9 @@ title: "Section 5921 - Prior notice to Congress of obligation of funds"
 usc_title: 22
 usc_section: "5921"
 chapter: 68
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 5921"
-generated_at: "2026-03-30T03:36:39.945Z"
+generated_at: "2026-03-30T03:38:22.294Z"
 status: "active"
 ---
 

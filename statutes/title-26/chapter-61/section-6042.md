@@ -3,9 +3,9 @@ title: "Section 6042 - Returns regarding payments of dividends and corporate ear
 usc_title: 26
 usc_section: "6042"
 chapter: 61
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 6042"
-generated_at: "2026-03-30T03:36:52.417Z"
+generated_at: "2026-03-30T03:38:36.160Z"
 status: "active"
 ---
 

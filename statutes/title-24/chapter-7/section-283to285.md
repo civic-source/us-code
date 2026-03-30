@@ -3,9 +3,9 @@ title: "Section 283to285 - Omitted"
 usc_title: 24
 usc_section: "283to285"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "24 U.S.C. § 283to285"
-generated_at: "2026-03-30T03:36:32.279Z"
+generated_at: "2026-03-30T03:38:17.846Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1359ff - Provisions applicable to producers"
 usc_title: 7
 usc_section: "1359ff"
 chapter: 35
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1359ff"
-generated_at: "2026-03-30T03:36:04.605Z"
+generated_at: "2026-03-30T03:37:54.817Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
 - **(c)**
   - **(1)**
     - **(A)** In this subsection, the term “seed” means only those varieties of seed that are dedicated to the production of sugarcane from which is produced sugar for human consumption.
-    - **(B)** The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary 1 1 So in original. Probably should be followed by a period.
+    - **(B)** The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary.
   - **(2)**
     - **(A)** In any case in which a State allotment is established under section 1359cc(f) of this title and there are in excess of 250 sugarcane producers in the State (other than Puerto Rico), the Secretary shall make a determination under subparagraph (B).
     - **(B)** The Secretary shall determine, for each State allotment described in subparagraph (A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.

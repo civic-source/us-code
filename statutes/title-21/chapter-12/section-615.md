@@ -3,9 +3,9 @@ title: "Section 615 - Inspection of carcasses, meat of which is intended for exp
 usc_title: 21
 usc_section: "615"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 615"
-generated_at: "2026-03-30T03:36:35.972Z"
+generated_at: "2026-03-30T03:38:19.567Z"
 status: "active"
 ---
 

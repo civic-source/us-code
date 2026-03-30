@@ -3,9 +3,9 @@ title: "Section 7271b - Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294
 usc_title: 42
 usc_section: "7271b"
 chapter: 84
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 7271b"
-generated_at: "2026-03-30T03:37:24.355Z"
+generated_at: "2026-03-30T03:39:06.296Z"
 status: "repealed"
 ---
 

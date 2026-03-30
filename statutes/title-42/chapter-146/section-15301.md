@@ -3,9 +3,9 @@ title: "Section 15301 - Payments to States for activities to improve administrat
 usc_title: 42
 usc_section: "15301"
 chapter: 146
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15301"
-generated_at: "2026-03-30T03:37:24.604Z"
+generated_at: "2026-03-30T03:39:06.549Z"
 status: "active"
 ---
 

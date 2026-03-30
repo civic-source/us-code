@@ -3,9 +3,9 @@ title: "Section 7679 - Powers of district court over prize property notwithstand
 usc_title: 10
 usc_section: "7679"
 chapter: 655
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 7679"
-generated_at: "2026-03-30T03:36:02.560Z"
+generated_at: "2026-03-30T03:37:58.879Z"
 status: "active"
 ---
 

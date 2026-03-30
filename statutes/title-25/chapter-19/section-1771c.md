@@ -3,9 +3,9 @@ title: "Section 1771c - Conditions precedent to Federal purchase of settlement l
 usc_title: 25
 usc_section: "1771c"
 chapter: 19
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 1771c"
-generated_at: "2026-03-30T03:36:34.774Z"
+generated_at: "2026-03-30T03:38:23.470Z"
 status: "active"
 ---
 

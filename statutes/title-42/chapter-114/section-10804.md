@@ -3,9 +3,9 @@ title: "Section 10804 - Use of allotments"
 usc_title: 42
 usc_section: "10804"
 chapter: 114
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 10804"
-generated_at: "2026-03-30T03:37:24.490Z"
+generated_at: "2026-03-30T03:39:06.434Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
   - **(1)** If an eligible system is a public entity, the government of the State in which the system is located may not require the system to obligate more than 5 percent of its allotment under this subchapter in any fiscal year for administrative expenses.
   - **(2)** An eligible system may not use more than 10 percent of any allotment under this subchapter for any fiscal year for the costs of providing technical assistance and training to carry out this subchapter.
 - **(c)** An eligible system may use its allotment under this subchapter to provide representation to individuals with mental illness in Federal facilities who request representation by the eligible system. Representatives of such individuals from such system shall be accorded all the rights and authority accorded to other representatives of residents of such facilities pursuant to State law and other Federal laws.
-- **(d)** The definition of “individual with a mental illness” contained in section 10802(4)(B)(iii) of this title shall apply, and thus an eligible system may use its allotment under this subchapter to provide representation to such individuals, only if the total allotment under this subchapter for any fiscal year is $30,000,000 or more, and in such case, an eligible system must give priority to representing persons with mental illness as defined in subparagraphs (A) and (B)(i) of section 10802(4) of this title .
+- **(d)** The definition of “individual with a mental illness” contained in section 10802(4)(B)(iii) 2 2 See References in Text note below. of this title shall apply, and thus an eligible system may use its allotment under this subchapter to provide representation to such individuals, only if the total allotment under this subchapter for any fiscal year is $30,000,000 or more, and in such case, an eligible system must give priority to representing persons with mental illness as defined in subparagraphs (A) and (B)(i) of section 10802(4) of this title .

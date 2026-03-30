@@ -3,9 +3,9 @@ title: "Section 1780i - Withdrawal"
 usc_title: 25
 usc_section: "1780i"
 chapter: 19
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 1780i"
-generated_at: "2026-03-30T03:36:34.781Z"
+generated_at: "2026-03-30T03:38:23.477Z"
 status: "active"
 ---
 

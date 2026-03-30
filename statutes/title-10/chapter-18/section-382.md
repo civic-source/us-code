@@ -3,9 +3,9 @@ title: "Section 382 - Emergency situations involving weapons of mass destruction
 usc_title: 10
 usc_section: "382"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 382"
-generated_at: "2026-03-30T03:36:02.433Z"
+generated_at: "2026-03-30T03:37:58.755Z"
 status: "active"
 ---
 

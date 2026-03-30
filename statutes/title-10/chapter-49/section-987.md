@@ -3,9 +3,9 @@ title: "Section 987 - Terms of consumer credit extended to members and dependent
 usc_title: 10
 usc_section: "987"
 chapter: 49
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 987"
-generated_at: "2026-03-30T03:36:02.457Z"
+generated_at: "2026-03-30T03:37:58.780Z"
 status: "active"
 ---
 
@@ -25,8 +25,8 @@ status: "active"
 - **(d)**
   - **(1)** Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
   - **(2)** States shall not—
-    - **(A)** authorize creditors to charge covered members and their dependents annual percentage rates of interest for any consumer credit or loans higher than the legal limit for residents of the State; or
-    - **(B)** permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
+    - **(A)** authorize creditors to charge covered members and their dependents annual percentage rates of interest for loans higher than the legal limit for residents of the State; or
+    - **(B)** permit violation or waiver of any State consumer lending protections for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
 - **(e)** It shall be unlawful for any creditor to extend consumer credit to a covered member or a dependent of such a member with respect to which—
   - **(1)** the creditor rolls over, renews, repays, refinances, or consolidates any consumer credit extended to the borrower by the same creditor with the proceeds of other credit extended to the same covered member or a dependent;
   - **(2)** the borrower is required to waive the borrower’s right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act;

@@ -3,9 +3,9 @@ title: "Section 2 - Uniform allowance"
 usc_title: 16
 usc_section: "2"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T03:36:30.152Z"
+generated_at: "2026-03-30T03:38:15.677Z"
 status: "active"
 ---
 

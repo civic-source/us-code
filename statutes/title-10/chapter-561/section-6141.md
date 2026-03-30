@@ -3,9 +3,9 @@ title: "Section 6141 - Presentation of United States flag upon retirement"
 usc_title: 10
 usc_section: "6141"
 chapter: 561
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 6141"
-generated_at: "2026-03-30T03:36:02.551Z"
+generated_at: "2026-03-30T03:37:58.868Z"
 status: "active"
 ---
 

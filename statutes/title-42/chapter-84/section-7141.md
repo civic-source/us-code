@@ -3,9 +3,9 @@ title: "Section 7141 - Office of Minority Economic Impact"
 usc_title: 42
 usc_section: "7141"
 chapter: 84
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 7141"
-generated_at: "2026-03-30T03:37:24.350Z"
+generated_at: "2026-03-30T03:39:06.291Z"
 status: "active"
 ---
 
@@ -16,8 +16,8 @@ status: "active"
 - **(c)** The Director shall conduct an ongoing research program, with the assistance of the Administrator of the Energy Information Administration, and such other Federal agencies as the Director determines appropriate, to determine the effects (including the socio-economic and environmental effects) of national energy programs, policies, and regulations of the Department on minorities. In conducting such program, the Director shall, from time to time, develop and recommend to the Secretary policies to assist, where appropriate, such minorities and minority business enterprises concerning such effects. In addition, the Director shall, to the greatest extent practicable—
   - **(1)** determine the average energy consumption and use patterns of minorities relative to other population categories;
   - **(2)** evaluate the percentage of disposable income spent on energy by minorities relative to other population categories; and
-  - **(3)** determines how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
-- **(d)** The Director may provide the management any 1 1 So in original. Probably should be “and”. technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with section 7256 of this title and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
+  - **(3)** determines 1 1 So in original. Probably should be “determine”. how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
+- **(d)** The Director may provide the management any 2 2 So in original. Probably should be “and”. technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with section 7256 of this title and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
   - **(1)** a national information clearinghouse which will develop and disseminate information on the aspects of energy programs to minority business enterprises, minority educational institutions and other appropriate minority organizations;
   - **(2)** market research, planning economic and business analysis, and feasibility studies to identify and define economic opportunities for minorities in energy research, production, conservation, and development;
   - **(3)** technical assistance programs to encourage, promote, and assist minority business enterprises in establishing and expanding energy-related business opportunities which are located in minority communities and that can provide jobs to workers in such communities; and

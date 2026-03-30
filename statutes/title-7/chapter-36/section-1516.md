@@ -3,9 +3,9 @@ title: "Section 1516 - Funding"
 usc_title: 7
 usc_section: "1516"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1516"
-generated_at: "2026-03-30T03:36:04.618Z"
+generated_at: "2026-03-30T03:37:54.829Z"
 status: "active"
 ---
 
@@ -30,6 +30,14 @@ status: "active"
       - **(i)** Costs associated with the consideration and implementation of policies, plans of insurance, and related materials submitted under section 1508(h) of this title or developed under section 1522 or 1523 of this title.
       - **(ii)** Costs to contract for the review of policies, plans of insurance, and related materials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
     - **(B)** Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
+    - **(C)**
+      - **(i)** For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+        - **(I)** to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
+        - **(II)** to assist the Corporation in maintaining program actuarial soundness and financial integrity.
+      - **(ii)** For the purposes described in clause (i), the Secretary may, without further appropriation—
+        - **(I)** merge some or all of the funds made available under this subparagraph into the accounts of the Risk Management Agency; and
+        - **(II)** obligate those funds.
+      - **(iii)** Funds made available under this subparagraph shall be in addition to other funds made available for costs incurred by the Corporation or the Risk Management Agency.
 - **(c)**
   - **(1)** There is established an insurance fund, for the deposit of premium income, amounts made available under subsection (a)(2) of this section, and civil fines collected under section 1515(h) of this title , to be available without fiscal year limitation.
   - **(2)** If at any time the amounts in the insurance fund are insufficient to enable the Corporation to carry out subsection (b) of this section, to the extent the funds of the Commodity Credit Corporation are available—

@@ -3,9 +3,9 @@ title: "Section 404 - Deduction for contributions of an employer to an employees
 usc_title: 26
 usc_section: "404"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 404"
-generated_at: "2026-03-30T03:36:52.266Z"
+generated_at: "2026-03-30T03:38:35.941Z"
 status: "active"
 ---
 
@@ -172,3 +172,4 @@ status: "active"
   - **(5)** In the case of a plan which, subject to section 4041 of the Employee Retirement Income Security Act of 1974, terminates during the plan year, the amount determined under paragraph (2) shall in no event be less than the amount required to make the plan sufficient for benefit liabilities (within the meaning of section 4041(d) of such Act).
   - **(6)** Any computation under this subsection for any plan year shall use the same actuarial assumptions which are used for the plan year under section 430 (determined by not taking into account any adjustment under clause (iv) of subsection (h)(2)(C) thereof).
   - **(7)** Any term used in this subsection which is also used in section 430 shall have the same meaning given such term by section 430.
+  - **(8)** Solely for purposes of this subsection, a CSEC plan shall be treated as though section 430 applied to such plan and the minimum required contribution for any plan year shall be the amount described in section 412(a)(2)(D).

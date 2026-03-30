@@ -3,9 +3,9 @@ title: "Section 906 - Art. 106. Spies"
 usc_title: 10
 usc_section: "906"
 chapter: 47
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 906"
-generated_at: "2026-03-30T03:36:02.451Z"
+generated_at: "2026-03-30T03:37:58.773Z"
 status: "active"
 ---
 

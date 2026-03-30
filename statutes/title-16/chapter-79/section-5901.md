@@ -3,9 +3,9 @@ title: "Section 5901 - “Secretary” defined"
 usc_title: 16
 usc_section: "5901"
 chapter: 79
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 5901"
-generated_at: "2026-03-30T03:36:30.271Z"
+generated_at: "2026-03-30T03:38:15.785Z"
 status: "active"
 ---
 

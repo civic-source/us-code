@@ -3,9 +3,9 @@ title: "Section 1994 - Maximum amounts for loans authorized; long-term cost proj
 usc_title: 7
 usc_section: "1994"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1994"
-generated_at: "2026-03-30T03:36:04.643Z"
+generated_at: "2026-03-30T03:37:54.851Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Effective October 1, 1979 , the aggregate principal amount of loans under the programs authorized under each subchapter of this chapter during each three-year period thereafter shall not exceed such amounts as may be authorized by law after August 4, 1978 . There shall be two amounts so established for each of such programs and for any maximum levels provided in appropriation Acts for the programs authorized under this chapter, one against which direct and insured loans shall be charged and the other against which guaranteed loans shall be charged,. 1 1 So in original.
 - **(b)**
-  - **(1)** The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $4,226,000,000 for each of fiscal years 2008 through 2012, of which, for each fiscal year—
+  - **(1)** The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $4,226,000,000 for each of fiscal years 2008 through 2018, of which, for each fiscal year—
     - **(A)** $1,200,000,000 shall be for direct loans, of which—
       - **(i)** $350,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
       - **(ii)** $850,000,000 shall be for operating loans under subchapter II of this chapter; and
@@ -28,7 +28,7 @@ status: "active"
       - **(ii)** Of the amounts made available under paragraph (1) for direct operating loans, the Secretary shall reserve for qualified beginning farmers and ranchers—
         - **(I)** for each of fiscal years 1996 through 1998, 25 percent;
         - **(II)** for fiscal year 1999, 30 percent; and
-        - **(III)** for each of fiscal years 2008 through 2012, an amount that is not less than 50 percent of the total amount.
+        - **(III)** for each of fiscal years 2008 through 2018, an amount that is not less than 50 percent.
       - **(iii)** Except as provided in clause (i)(II), funds reserved for qualified beginning farmers or ranchers under this subparagraph for a fiscal year shall be reserved only until September 1 of the fiscal year.
     - **(B)**
       - **(i)** Of the amounts made available under paragraph (1) for guarantees of farm ownership loans, the Secretary shall reserve an amount that is not less than 40 percent of the total amount for qualified beginning farmers and ranchers.

@@ -1,0 +1,23 @@
+---
+title: "Section 1387 - Semiannual report of disbursements"
+usc_title: 2
+usc_section: "1387"
+chapter: 24
+current_through: "PL 113-99"
+classification: "2 U.S.C. § 1387"
+generated_at: "2026-03-30T03:37:47.340Z"
+status: "active"
+---
+
+# § 1387. Semiannual report of disbursements
+
+- **(a)** Not later than 60 days after the last day of each semiannual period of a fiscal year, the Executive Director of the Office of Compliance shall submit to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the Committees on Appropriations of the House of Representatives and Senate, with respect to that period, a detailed, itemized report of the disbursements for the operations of the Office of Compliance.
+- **(b)**
+  - **(1)** The report required by subsection (a) shall include—
+    - **(A)** the identification of each person who receives a payment from the Office of Compliance, except that in the case of an individual, the identification shall be provided in a manner that does not identify the individual by name;
+    - **(B)** the quantity and price of any item furnished to the Office of Compliance;
+    - **(C)** a description of any service rendered to the Office of Compliance, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+    - **(D)** a statement of all amounts appropriated to, or received or expended by, the Office of Compliance and any unexpended balances of such amounts; and
+    - **(E)** such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, or the Committees on Appropriations of the House of Representatives or Senate.
+  - **(2)** The Executive Director of the Office of Compliance may exclude from any report required by subsection (a) any information the disclosure of which would violate confidentiality policies of the Office of Compliance.
+- **(c)** This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each fiscal year, beginning with fiscal year 2014.

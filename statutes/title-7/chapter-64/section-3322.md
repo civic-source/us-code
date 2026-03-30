@@ -3,16 +3,16 @@ title: "Section 3322 - Assistance programs"
 usc_title: 7
 usc_section: "3322"
 chapter: 64
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 3322"
-generated_at: "2026-03-30T03:36:04.682Z"
+generated_at: "2026-03-30T03:37:54.886Z"
 status: "active"
 ---
 
 # § 3322. Assistance programs
 
 - **(a)** The Secretary may develop and implement a cooperative research and extension program to encourage the development, management, and production of important aquatic food species within the several States and territories of the United States and to enhance further the safety of food products derived from the aquaculture industry, in accordance with the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 [ 16 U.S.C. 2801 et seq.].
-- **(b)** The Secretary may make grants to—
+- **(b)** The Secretary may make competitive grants to—
   - **(1)** land-grant and sea grant colleges and universities;
   - **(2)** State agricultural experiment stations;
   - **(3)** colleges, universities, and Federal laboratories having a demonstrable capacity to conduct aquacultural research, as determined by the Secretary; and

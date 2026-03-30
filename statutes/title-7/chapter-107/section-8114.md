@@ -3,9 +3,9 @@ title: "Section 8114 - Sun grant program"
 usc_title: 7
 usc_section: "8114"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8114"
-generated_at: "2026-03-30T03:36:04.741Z"
+generated_at: "2026-03-30T03:37:54.939Z"
 status: "active"
 ---
 
@@ -17,21 +17,21 @@ status: "active"
   - **(3)** to promote economic diversification in rural areas of the United States through biobased energy and product technologies; and
   - **(4)** to enhance the efficiency of bioenergy and biomass research and development programs through improved coordination and collaboration among—
     - **(A)** the Department of Agriculture;
-    - **(B)** the Department of Energy; and
+    - **(B)** other appropriate Federal agencies (as determined by the Secretary); and
     - **(C)** land-grant colleges and universities.
 - **(b)**
   - **(1)** The Secretary shall use amounts made available under subsection (g) to provide grants to each of the following:
-    - **(A)** A north-central sun grant center at South Dakota State University for the region composed of the States of Illinois, Indiana, Iowa, Minnesota, Montana, Nebraska, North Dakota, South Dakota, Wisconsin, and Wyoming.
-    - **(B)** A southeastern sun grant center at the University of Tennessee at Knoxville for the region composed of—
+    - **(A)** A north-central sun grant center for the region composed of the States of Illinois, Indiana, Iowa, Minnesota, Montana, Nebraska, North Dakota, South Dakota, Wisconsin, and Wyoming.
+    - **(B)** A southeastern sun grant center for the region composed of—
       - **(i)** the States of Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee, and Virginia;
       - **(ii)** the Commonwealth of Puerto Rico; and
       - **(iii)** the United States Virgin Islands.
-    - **(C)** A south-central sun grant center at Oklahoma State University for the region composed of the States of Arkansas, Colorado, Kansas, Louisiana, Missouri, New Mexico, Oklahoma, and Texas.
-    - **(D)** A western sun grant center at Oregon State University for the region composed of—
+    - **(C)** A south-central sun grant center for the region composed of the States of Arkansas, Colorado, Kansas, Louisiana, Missouri, New Mexico, Oklahoma, and Texas.
+    - **(D)** A western sun grant center for the region composed of—
       - **(i)** the States of Alaska, Arizona, California, Hawaii, Idaho, Nevada, Oregon, Utah, and Washington; and
       - **(ii)** insular areas (as defined in section 3103 of this title (other than the insular areas referred to in clauses (ii) and (iii) of subparagraph (B))).
-    - **(E)** A northeastern sun grant center at Cornell University for the region composed of the States of Connecticut, Delaware, Massachusetts, Maryland, Maine, Michigan, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, Vermont, and West Virginia.
-    - **(F)** A western insular Pacific sun grant subcenter at the University of Hawaii for the region of Alaska, Hawaii, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+    - **(E)** A northeastern sun grant center for the region composed of the States of Connecticut, Delaware, Massachusetts, Maryland, Maine, Michigan, New Hampshire, New Jersey, New York, Ohio, Pennsylvania, Rhode Island, Vermont, and West Virginia.
+    - **(F)** A western insular Pacific sun grant subcenter for the region of Alaska, Hawaii, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
   - **(2)**
     - **(A)** In providing any funds made available under subsection (g), the Secretary shall distribute the grants in equal amounts to the sun grant centers described in subparagraphs (A) through (E) of paragraph (1).
     - **(B)** The sun grant center described in paragraph (1)(D) shall allocate a portion of the funds received under paragraph (1) to the subcenter described in paragraph (1)(F) pursuant to guidance issued by the Secretary.
@@ -41,13 +41,8 @@ status: "active"
     - **(A)** A sun grant center or subcenter shall use 75 percent of the funds described in subsection (b) to provide competitive grants to entities that are—
       - **(i)** eligible to receive grants under subsection (b)(7) of section 450i of this title ; and
       - **(ii)** located in the region covered by the sun grant center or subcenter.
-    - **(B)** Grants described in subparagraph (A) shall be used by the grant recipient to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and multistate—
-      - **(i)** research, extension, and education programs on technology development; and
-      - **(ii)** integrated research, extension, and education programs on technology implementation.
-    - **(C)** Of the amount of funds that is used to provide grants under subparagraph (A), the sun grant center or subcenter shall use—
-      - **(i)** not less than 30 percent of the funds to carry out the programs described in subparagraph (B)(i); and
-      - **(ii)** not less than 30 percent of the funds to carry out the programs described in subparagraph (B)(ii).
-    - **(D)**
+    - **(B)** Grants described in subparagraph (A) shall be used by the grant recipient to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and integrated, multistate research, extension, and education programs on technology development and technology implementation.
+    - **(C)**
       - **(i)** In making grants under this paragraph, a sun grant center or subcenter shall—
         - **(I)** seek and accept proposals for grants;
         - **(II)** determine the relevance and merit of proposals through a system of peer review similar to that established by the Secretary pursuant to section 7613 of this title ; and
@@ -58,6 +53,7 @@ status: "active"
         - **(I)** Except as provided in subclauses (II) and (III), as a condition of receiving a grant under this paragraph, the sun grant center or subcenter shall require that not less than 20 percent of the cost of an activity described in subparagraph (B) be matched with funds, including in-kind contributions, from a non-Federal source.
         - **(II)** Subclause (I) shall not apply to fundamental research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) 1 1 So in original. Probably should be followed by a third closing parenthesis. .
         - **(III)** The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) 1 if the sun grant center or subcenter determines that the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
+        - **(IV)** The matching funds requirement under section 3371 of this title shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.
       - **(v)** Funds made available for grants shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
       - **(vi)** A sun grant center or subcenter may not recover the indirect costs of making grants under subparagraph (A).
   - **(2)** A sun grant center or subcenter may use up to 4 percent of the funds described in subsection (b) to pay administrative expenses incurred in carrying out paragraph (1).
@@ -65,12 +61,11 @@ status: "active"
     - **(A)** research, extension, and educational programs on technology development; and
     - **(B)** integrated research, extension, and educational programs on technology implementation.
 - **(d)**
-  - **(1)** Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry in accordance with paragraph (2), the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and gasification research priorities of the Department of Agriculture and the Department of Energy at the State and regional levels.
-  - **(2)** With respect to gasification research activity, the sun grant centers and subcenter shall coordinate planning with land-grant colleges and universities in their respective regions that have ongoing research activities in that area.
-  - **(3)** Funds described in subsection (c)(2) shall be available to carry out planning coordination under paragraph (1).
-  - **(4)** The sun grant centers and subcenter shall use the plan described in paragraph (1) in making grants under subsection (c)(1).
+  - **(1)** Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agriculture and other appropriate Federal agencies at the State and regional levels.
+  - **(2)** Funds described in subsection (c)(2) shall be available to carry out planning coordination under paragraph (1).
+  - **(3)** The sun grant centers and subcenter shall use the plan described in paragraph (1) in making grants under subsection (c)(1).
 - **(e)** The sun grant centers and subcenter shall maintain a Sun Grant Information Analysis Center at the sun grant center specified in subsection (b)(1)(A) to provide the sun grant centers and subcenter with analysis and data management support.
 - **(f)** Not later than 90 days after the end of each fiscal year, a sun grant center or subcenter receiving a grant under this section shall submit to the Secretary a report that describes the policies, priorities, and operations of the program carried out by the center or subcenter during the fiscal year, including—
-  - **(1)** the results of all peer and merit review procedures conducted pursuant to subsection (c)(1)(D)(i); and
+  - **(1)** the results of all peer and merit review procedures conducted pursuant to subsection (c)(1)(C)(i); and
   - **(2)** a description of progress made in facilitating the priorities described in subsection (d)(1).
-- **(g)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2012, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
+- **(g)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2018, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).

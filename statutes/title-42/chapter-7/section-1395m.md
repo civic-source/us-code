@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T03:37:23.894Z"
+generated_at: "2026-03-30T03:39:05.851Z"
 status: "active"
 ---
 
@@ -525,7 +525,7 @@ status: "active"
     - **(E)** For 2010 and each succeeding year, the blended rate shall be based 100 percent on the fee schedule under paragraph (1).
   - **(11)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before January 1, 2009 , regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by ¼ of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
   - **(12)**
-    - **(A)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before April 1, 2014 , for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
+    - **(A)** In the case of ground ambulance services furnished on or after July 1, 2004 , and before April 1, 2015 , for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
     - **(B)**
       - **(i)** Based upon data from the United States decennial census for the year 2000, the Secretary shall determine, for each rural area, the population density for that area.
       - **(ii)** The Secretary shall rank each such area based on such population density.
@@ -533,9 +533,9 @@ status: "active"
       - **(iv)** For purposes of this paragraph, the term “rural area” has the meaning given such term in section 1395ww(d)(2)(D) of this title . If feasible, the Secretary shall treat a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725) as a rural area for purposes of this paragraph.
       - **(v)** There shall be no administrative or judicial review under section 1395ff, 1395 oo of this title, or otherwise, respecting the identification of an area under this subparagraph.
   - **(13)**
-    - **(A)** After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004 , and before January 1, 2007 , and for such services furnished on or after July 1, 2008 , and before April 1, 2014 ,, 4 for which the transportation originates in—
-      - **(i)** a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008 , and before April 1, 2014 ); and
-      - **(ii)** an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008 , and before April 1, 2014 ).
+    - **(A)** After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004 , and before January 1, 2007 , and for such services furnished on or after July 1, 2008 , and before April 1, 2015 ,, 4 for which the transportation originates in—
+      - **(i)** a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008 , and before April 1, 2015 ); and
+      - **(ii)** an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008 , and before April 1, 2015 ).
     - **(B)** The increased payments under subparagraph (A) shall not be taken into account in calculating payments for services furnished after the applicable period specified in such subparagraph.
   - **(14)**
     - **(A)** The regulations described in section 1395x(s)(7) of this title shall provide, to the extent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—
@@ -599,3 +599,88 @@ status: "active"
         - **(I)** in the first year after implementation of such system, by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title ) for the year involved; and
         - **(II)** in subsequent years, by the percentage increase in a market basket of Federally qualified health center goods and services as promulgated through regulations, or if such an index is not available, by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title ) for the year involved.
     - **(C)** Notwithstanding any other provision of law, the Secretary may establish and implement by program instruction or otherwise the payment codes to be used under the prospective payment system under this section.
+- **(p)**
+  - **(1)** In the case of an applicable computed tomography service (as defined in paragraph (2)) for which payment is made under an applicable payment system (as defined in paragraph (3)) and that is furnished on or after January 1, 2016 , using equipment that is not consistent with the CT equipment standard (described in paragraph (4)), the payment amount for such service shall be reduced by the applicable percentage (as defined in paragraph (5)).
+  - **(2)** In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014 , by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). 6 6 So in original. The period probably should be preceded by another closing parenthesis.
+  - **(3)** In this subsection, the term “applicable payment system” means the following:
+    - **(A)** The technical component and the technical component of the global fee under the fee schedule established under section 1395w–4(b) of this title .
+    - **(B)** The prospective payment system for hospital outpatient department services under section 1395 l (t) of this title.
+  - **(4)** In this subsection, the term “not consistent with the CT equipment standard” means, with respect to an applicable computed tomography service, that the service was furnished using equipment that does not meet each of the attributes of the National Electrical Manufacturers Association (NEMA) Standard XR–29–2013, entitled “Standard Attributes on CT Equipment Related to Dose Optimization and Management”. Through rulemaking, the Secretary may apply successor standards.
+  - **(5)** In this subsection, the term “applicable percentage” means—
+    - **(A)** for 2016, 5 percent; and
+    - **(B)** for 2017 and subsequent years, 15 percent.
+  - **(6)**
+    - **(A)** The Secretary shall require that information be provided and attested to by a supplier and a hospital outpatient department that indicates whether an applicable computed tomography service was furnished that was not consistent with the CT equipment standard (described in paragraph (4)). Such information may be included on a claim and may be a modifier. Such information shall be verified, as appropriate, as part of the periodic accreditation of suppliers under section 1395m(e) of this title and hospitals under section 1395bb(a) of this title .
+    - **(B)** Chapter 35 of title 44 shall not apply to information described in subparagraph (A).
+- **(q)**
+  - **(1)**
+    - **(A)** The Secretary shall establish a program to promote the use of appropriate use criteria (as defined in subparagraph (B)) for applicable imaging services (as defined in subparagraph (C)) furnished in an applicable setting (as defined in subparagraph (D)) by ordering professionals and furnishing professionals (as defined in subparagraphs (E) and (F), respectively).
+    - **(B)** In this subsection, the term “appropriate use criteria” means criteria, only developed or endorsed by national professional medical specialty societies or other provider-led entities, to assist ordering professionals and furnishing professionals in making the most appropriate treatment decision for a specific clinical condition for an individual. To the extent feasible, such criteria shall be evidence-based.
+    - **(C)** In this subsection, the term “applicable imaging service” means an advanced diagnostic imaging service (as defined in subsection (e)(1)(B)) for which the Secretary determines—
+      - **(i)** one or more applicable appropriate use criteria specified under paragraph (2) apply;
+      - **(ii)** there are one or more qualified clinical decision support mechanisms listed under paragraph (3)(C); and
+      - **(iii)** one or more of such mechanisms is available free of charge.
+    - **(D)** In this subsection, the term “applicable setting” means a physician’s office, a hospital outpatient department (including an emergency department), an ambulatory surgical center, and any other provider-led outpatient setting determined appropriate by the Secretary.
+    - **(E)** In this subsection, the term “ordering professional” means a physician (as defined in section 1395x(r) of this title ) or a practitioner described in section 1395u(b)(18)(C) of this title who orders an applicable imaging service.
+    - **(F)** In this subsection, the term “furnishing professional” means a physician (as defined in section 1395x(r) of this title ) or a practitioner described in section 1395u(b)(18)(C) of this title who furnishes an applicable imaging service.
+  - **(2)**
+    - **(A)** Not later than November 15, 2015 , the Secretary shall through rulemaking, and in consultation with physicians, practitioners, and other stakeholders, specify applicable appropriate use criteria for applicable imaging services only from among appropriate use criteria developed or endorsed by national professional medical specialty societies or other provider-led entities.
+    - **(B)** In specifying applicable appropriate use criteria under subparagraph (A), the Secretary shall take into account whether the criteria—
+      - **(i)** have stakeholder consensus;
+      - **(ii)** are scientifically valid and evidence based; and
+      - **(iii)** are based on studies that are published and reviewable by stakeholders.
+    - **(C)** The Secretary shall review, on an annual basis, the specified applicable appropriate use criteria to determine if there is a need to update or revise (as appropriate) such specification of applicable appropriate use criteria and make such updates or revisions through rulemaking.
+    - **(D)** In the case where the Secretary determines that more than one appropriate use criterion applies with respect to an applicable imaging service, the Secretary shall apply one or more applicable appropriate use criteria under this paragraph for the service.
+  - **(3)**
+    - **(A)**
+      - **(i)** The Secretary shall specify qualified clinical decision support mechanisms that could be used by ordering professionals to consult with applicable appropriate use criteria for applicable imaging services.
+      - **(ii)** The Secretary shall consult with physicians, practitioners, health care technology experts, and other stakeholders in specifying mechanisms under this paragraph.
+      - **(iii)** Mechanisms specified under this paragraph may include any or all of the following that meet the requirements described in subparagraph (B)(ii):
+        - **(I)** Use of clinical decision support modules in certified EHR technology (as defined in section 1395w–4( o )(4) of this title).
+        - **(II)** Use of private sector clinical decision support mechanisms that are independent from certified EHR technology, which may include use of clinical decision support mechanisms available from medical specialty organizations.
+        - **(III)** Use of a clinical decision support mechanism established by the Secretary.
+    - **(B)**
+      - **(i)** For purposes of this subsection, a qualified clinical decision support mechanism is a mechanism that the Secretary determines meets the requirements described in clause (ii).
+      - **(ii)** The requirements described in this clause are the following:
+        - **(I)** The mechanism makes available to the ordering professional applicable appropriate use criteria specified under paragraph (2) and the supporting documentation for the applicable imaging service ordered.
+        - **(II)** In the case where there is more than one applicable appropriate use criterion specified under such paragraph for an applicable imaging service, the mechanism indicates the criteria that it uses for the service.
+        - **(III)** The mechanism determines the extent to which an applicable imaging service ordered is consistent with the applicable appropriate use criteria so specified.
+        - **(IV)** The mechanism generates and provides to the ordering professional a certification or documentation that documents that the qualified clinical decision support mechanism was consulted by the ordering professional.
+        - **(V)** The mechanism is updated on a timely basis to reflect revisions to the specification of applicable appropriate use criteria under such paragraph.
+        - **(VI)** The mechanism meets privacy and security standards under applicable provisions of law.
+        - **(VII)** The mechanism performs such other functions as specified by the Secretary, which may include a requirement to provide aggregate feedback to the ordering professional.
+    - **(C)**
+      - **(i)** Not later than April 1, 2016 , the Secretary shall publish a list of mechanisms specified under this paragraph.
+      - **(ii)** The Secretary shall identify on an annual basis the list of qualified clinical decision support mechanisms specified under this paragraph.
+  - **(4)**
+    - **(A)** Beginning with January 1, 2017 , subject to subparagraph (C), with respect to an applicable imaging service ordered by an ordering professional that would be furnished in an applicable setting and paid for under an applicable payment system (as defined in subparagraph (D)), an ordering professional shall—
+      - **(i)** consult with a qualified decision support mechanism listed under paragraph (3)(C); and
+      - **(ii)** provide to the furnishing professional the information described in clauses (i) through (iii) of subparagraph (B).
+    - **(B)** Beginning with January 1, 2017 , subject to subparagraph (C), with respect to an applicable imaging service furnished in an applicable setting and paid for under an applicable payment system (as defined in subparagraph (D)), payment for such service may only be made if the claim for the service includes the following:
+      - **(i)** Information about which qualified clinical decision support mechanism was consulted by the ordering professional for the service.
+      - **(ii)** Information regarding—
+        - **(I)** whether the service ordered would adhere to the applicable appropriate use criteria specified under paragraph (2);
+        - **(II)** whether the service ordered would not adhere to such criteria; or
+        - **(III)** whether such criteria was not applicable to the service ordered.
+      - **(iii)** The national provider identifier of the ordering professional (if different from the furnishing professional).
+    - **(C)** The provisions of subparagraphs (A) and (B) and paragraph (6)(A) shall not apply to the following:
+      - **(i)** An applicable imaging service ordered for an individual with an emergency medical condition (as defined in section 1395dd(e)(1) of this title ).
+      - **(ii)** An applicable imaging service ordered for an inpatient and for which payment is made under part A.
+      - **(iii)** An applicable imaging service ordered by an ordering professional who the Secretary may, on a case-by-case basis, exempt from the application of such provisions if the Secretary determines, subject to annual renewal, that consultation with applicable appropriate use criteria would result in a significant hardship, such as in the case of a professional who practices in a rural area without sufficient Internet access.
+    - **(D)** In this subsection, the term “applicable payment system” means the following:
+      - **(i)** The physician fee schedule established under section 1395w–4(b) of this title .
+      - **(ii)** The prospective payment system for hospital outpatient department services under section 1395 l (t) of this title.
+      - **(iii)** The ambulatory surgical center payment systems under section 1395 l (i) of this title.
+  - **(5)**
+    - **(A)** With respect to applicable imaging services furnished beginning with 2017, the Secretary shall determine, on an annual basis, no more than five percent of the total number of ordering professionals who are outlier ordering professionals.
+    - **(B)** The determination of an outlier ordering professional shall—
+      - **(i)** be based on low adherence to applicable appropriate use criteria specified under paragraph (2), which may be based on comparison to other ordering professionals; and
+      - **(ii)** include data for ordering professionals for whom prior authorization under paragraph (6)(A) applies.
+    - **(C)** The Secretary shall use two years of data to identify outlier ordering professionals under this paragraph.
+    - **(D)** The Secretary shall establish a process for determining when an outlier ordering professional is no longer an outlier ordering professional.
+    - **(E)** The Secretary shall consult with physicians, practitioners and other stakeholders in developing methods to identify outlier ordering professionals under this paragraph.
+  - **(6)**
+    - **(A)** Beginning January 1, 2020 , subject to paragraph (4)(C), with respect to services furnished during a year, the Secretary shall, for a period determined appropriate by the Secretary, apply prior authorization for applicable imaging services that are ordered by an outlier ordering professional identified under paragraph (5).
+    - **(B)** In applying prior authorization under subparagraph (A), the Secretary shall utilize only the applicable appropriate use criteria specified under this subsection.
+    - **(C)** For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2019 through 2021. Amounts transferred under the preceding sentence shall remain available until expended.
+  - **(7)** Nothing in this subsection shall be construed as granting the Secretary the authority to develop or initiate the development of clinical practice guidelines or appropriate use criteria.

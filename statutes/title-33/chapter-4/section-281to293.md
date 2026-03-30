@@ -3,9 +3,9 @@ title: "Section 281to293 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 ,
 usc_title: 33
 usc_section: "281to293"
 chapter: 4
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 281to293"
-generated_at: "2026-03-30T03:36:55.397Z"
+generated_at: "2026-03-30T03:38:40.652Z"
 status: "repealed"
 ---
 

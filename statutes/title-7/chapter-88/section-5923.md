@@ -1,43 +1,13 @@
 ---
-title: "Section 5923 - Rural electronic commerce extension program"
+title: "Section 5923 - Repealed. Pub. L. 113–79, title VII, § 7207 , Feb. 7, 2014 , 128 Stat. 881"
 usc_title: 7
 usc_section: "5923"
 chapter: 88
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5923"
-generated_at: "2026-03-30T03:36:04.699Z"
-status: "active"
+generated_at: "2026-03-30T03:37:54.900Z"
+status: "repealed"
 ---
 
-# § 5923. Rural electronic commerce extension program
+# § 5923. Repealed. Pub. L. 113–79, title VII, § 7207 , Feb. 7, 2014 , 128 Stat. 881
 
-- **(a)** In this section:
-  - **(1)** The term “development center” means—
-    - **(A)** the North Central Regional Center for Rural Development;
-    - **(B)** the Northeast Regional Center for Rural Development or its designee;
-    - **(C)** the Southern Rural Development Center; and
-    - **(D)** the Western Rural Development Center or its designee.
-  - **(2)** The term “extension program” means the rural electronic commerce extension program established under subsection (b) of this section.
-  - **(3)** The term “microenterprise” means a commercial enterprise that has 5 or fewer employees, 1 or more of whom own the enterprise.
-  - **(4)** The term “Secretary” means the Secretary of Agriculture, acting through the Director of the National Institute of Food and Agriculture.
-  - **(5)** The term “small business” has the meaning given the term “small-business concern” by section 632(a) of title 15 .
-- **(b)** The Secretary shall establish a rural electronic commerce extension program to expand and enhance electronic commerce practices and technology to be used by small businesses and microenterprises in rural areas.
-- **(c)**
-  - **(1)** The Secretary shall carry out the program established under subsection (b) of this section by making—
-    - **(A)** grants to each of the development centers; and
-    - **(B)** competitive grants to land-grant colleges and universities (or consortia of land-grant colleges and universities) and to colleges and universities (including community colleges) with agricultural or rural development programs—
-      - **(i)** to develop and facilitate innovative rural electronic commerce business strategies; and
-      - **(ii)** to assist small businesses and microenterprises in identifying, adapting, implementing, and using electronic commerce business practices and technologies.
-  - **(2)** The selection criteria established for grants awarded under paragraph (1)(B) shall include—
-    - **(A)** the ability of an applicant to provide training and education on best practices, technology transfer, adoption, and use of electronic commerce in rural communities by small businesses and microenterprises;
-    - **(B)** the extent and geographic diversity of the area served by the proposed project or activity under the extension program;
-    - **(C)** in the case of a land-grant college or university, the extent of participation of the land-grant college or university in the extension program (including any economic benefits that would result from that participation);
-    - **(D)** the percentage of funding and in-kind commitments from non-Federal sources that would be needed by and available for a proposed project or activity under the extension program; and
-    - **(E)** the extent of participation of low-income and minority businesses or microenterprises in a proposed project or activity under the extension program.
-  - **(3)**
-    - **(A)** As a condition of the receipt of funds under this section, a development center or grant applicant shall agree to obtain from non-Federal sources (including State, local, nonprofit, or private sector sources) contributions of an amount equal to 50 percent of the grant amount.
-    - **(B)** The non-Federal share required under subparagraph (A) may be provided in the form of in-kind contributions.
-    - **(C)** The non-Federal share required under subparagraph (A) may be reduced to 25 percent if the grant recipient serves low-income or minority-owned businesses or microenterprises, as determined by the Secretary.
-- **(d)** Not later than 2 years after May 13, 2002 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
-  - **(1)** 1 1 So in original. No par. (2) has been enacted. the policies, practices, and procedures used to assist rural communities in efforts to adopt and use electronic commerce techniques; and
-- **(e)** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2007, of which not less than ⅓ of the amount made available for each fiscal year shall be used to carry out activities under subsection (c)(1)(A) of this section.

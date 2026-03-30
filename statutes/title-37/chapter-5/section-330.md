@@ -3,9 +3,9 @@ title: "Section 330 - Special pay: accession bonus for officer candidates"
 usc_title: 37
 usc_section: "330"
 chapter: 5
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "37 U.S.C. § 330"
-generated_at: "2026-03-30T03:37:03.774Z"
+generated_at: "2026-03-30T03:38:43.104Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(3)** to serve on active duty as a commissioned officer for a period specified in the agreement.
 - **(d)** Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the accession bonus payable under the agreement becomes fixed. The agreement shall specify whether the accession bonus will be paid in a lump sum or installments.
 - **(e)** A person who, having received all or part of the bonus under a written agreement under subsection (a), does not complete the total period of active duty as a commissioned officer as specified in such agreement shall be subject to the repayment provisions of section 303a(e) of this title .
-- **(f)** No agreement under this section may be entered into after December 31, 2014 .
+- **(f)** No agreement under this section may be entered into after December 31, 2013 .

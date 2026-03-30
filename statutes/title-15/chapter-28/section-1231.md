@@ -3,9 +3,9 @@ title: "Section 1231 - Definitions"
 usc_title: 15
 usc_section: "1231"
 chapter: 28
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1231"
-generated_at: "2026-03-30T03:36:13.307Z"
+generated_at: "2026-03-30T03:38:06.027Z"
 status: "active"
 ---
 

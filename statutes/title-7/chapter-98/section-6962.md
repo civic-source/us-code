@@ -3,9 +3,9 @@ title: "Section 6962 - Natural Resources Conservation Service"
 usc_title: 7
 usc_section: "6962"
 chapter: 98
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6962"
-generated_at: "2026-03-30T03:36:04.714Z"
+generated_at: "2026-03-30T03:37:54.914Z"
 status: "active"
 ---
 
@@ -14,12 +14,12 @@ status: "active"
 - **(a)** The Secretary is authorized to establish and maintain within the Department a Natural Resources Conservation Service.
 - **(b)** If the Secretary establishes the Natural Resources Conservation Service under subsection (a) of this section, the Secretary is authorized to assign to the Service jurisdiction over the following:
   - **(1)** The Water Bank Act ( 16 U.S.C. 1301 et seq.).
-  - **(2)** The forest land enhancement program under section 2103 of title 16 .
+  - **(2)** The forest land enhancement program under section 2103 of title 16 . 1 1 See References in Text note below.
   - **(3)** Title XII of the Food Security Act of 1985 ( 16 U.S.C. 3801 et seq.), except subchapter B of chapter 1 of subtitle D of such title [ 16 U.S.C. 3831 et seq.].
   - **(4)** Salinity control measures under section 1592(c) of title 43 .
   - **(5)** The Farms for the Future Act of 1990 ( 7 U.S.C. 4201 note).
   - **(6)** Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3831 et seq.].
-- **(c)** In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) of this section and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3837–383 7f), the Secretary shall—
+- **(c)** In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) of this section and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3837–383 7f), 1 the Secretary shall—
   - **(1)** acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
   - **(2)** ensure that the Natural Resources Conservation Service, in establishing policies, priorities, and guidelines for each such program, does so with the concurrence of the Consolidated Farm Service Agency at national, State, and local levels;
   - **(3)** ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;

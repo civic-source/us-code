@@ -3,9 +3,9 @@ title: "Section 7485 - Bond to stay assessment and collection"
 usc_title: 26
 usc_section: "7485"
 chapter: 76
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 7485"
-generated_at: "2026-03-30T03:36:52.457Z"
+generated_at: "2026-03-30T03:38:36.214Z"
 status: "active"
 ---
 

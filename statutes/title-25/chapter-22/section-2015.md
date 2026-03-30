@@ -3,9 +3,9 @@ title: "Section 2015 - Annual report; audits"
 usc_title: 25
 usc_section: "2015"
 chapter: 22
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 2015"
-generated_at: "2026-03-30T03:36:34.790Z"
+generated_at: "2026-03-30T03:38:23.484Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1023 - Annual reports"
 usc_title: 29
 usc_section: "1023"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1023"
-generated_at: "2026-03-30T03:36:46.400Z"
+generated_at: "2026-03-30T03:38:27.180Z"
 status: "active"
 ---
 
@@ -74,7 +74,7 @@ status: "active"
   - **(7)** A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of this title , or the accumulated funding deficiency determined under section 1084 of this title , to zero.
   - **(8)** A statement by the enrolled actuary—
     - **(A)** that to the best of his knowledge the report is complete and accurate, and
-    - **(B)** the applicable requirements of sections 1083(h) and 1084(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
+    - **(B)** the applicable requirements of sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
   - **(9)** A copy of the opinion required by subsection (a)(4) of this section.
   - **(10)** A statement by the actuary which discloses—
     - **(A)** any event which the actuary has not taken into account, and
@@ -106,3 +106,4 @@ status: "active"
     - **(G)** Whether the plan was in critical or endangered status under section 1085 of this title for such plan year, and if so, a summary of any funding improvement or rehabilitation plan (or modification thereto) adopted during the plan year, and the funded percentage of the plan.
     - **(H)** The number of employers that withdrew from the plan during the preceding plan year and the aggregate amount of withdrawal liability assessed, or estimated to be assessed, against such withdrawn employers.
     - **(I)** In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
+- **(g)** With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.

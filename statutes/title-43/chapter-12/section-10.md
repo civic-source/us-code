@@ -3,9 +3,9 @@ title: "Section 10 - San Diego area water reclamation program"
 usc_title: 43
 usc_section: "10"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 10"
-generated_at: "2026-03-30T03:37:08.059Z"
+generated_at: "2026-03-30T03:38:49.719Z"
 status: "active"
 ---
 

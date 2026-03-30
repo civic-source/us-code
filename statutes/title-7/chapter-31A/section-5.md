@@ -3,13 +3,13 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 7
 usc_section: "5"
 chapter: 31
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T03:36:04.596Z"
+generated_at: "2026-03-30T03:37:54.811Z"
 status: "active"
 ---
 
 # § 950aaa–5. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $100,000,000 for each of fiscal years 1996 through 2012.
+There are authorized to be appropriated to carry out this chapter $75,000,000 for each of fiscal years 2014 through 2018.
 

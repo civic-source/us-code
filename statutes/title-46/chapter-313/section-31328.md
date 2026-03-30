@@ -3,9 +3,9 @@ title: "Section 31328 - Repealed. Pub. L. 104–324, title XI, § 1113(b)(1) , O
 usc_title: 46
 usc_section: "31328"
 chapter: 313
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "46 U.S.C. § 31328"
-generated_at: "2026-03-30T03:37:29.103Z"
+generated_at: "2026-03-30T03:39:12.594Z"
 status: "repealed"
 ---
 

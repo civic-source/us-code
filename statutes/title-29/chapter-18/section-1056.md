@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-30T03:36:46.404Z"
+generated_at: "2026-03-30T03:38:27.184Z"
 status: "active"
 ---
 
@@ -187,3 +187,4 @@ status: "active"
         - **(II)** paragraph (4).
   - **(10)** In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
   - **(11)** For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+  - **(12)** This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title ).

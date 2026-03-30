@@ -3,9 +3,9 @@ title: "Section 1941to1950 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994
 usc_title: 15
 usc_section: "1941to1950"
 chapter: 46
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1941to1950"
-generated_at: "2026-03-30T03:36:13.351Z"
+generated_at: "2026-03-30T03:38:06.061Z"
 status: "repealed"
 ---
 

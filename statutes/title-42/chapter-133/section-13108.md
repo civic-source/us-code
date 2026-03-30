@@ -3,9 +3,9 @@ title: "Section 13108 - Savings provisions"
 usc_title: 42
 usc_section: "13108"
 chapter: 133
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 13108"
-generated_at: "2026-03-30T03:37:24.555Z"
+generated_at: "2026-03-30T03:39:06.499Z"
 status: "active"
 ---
 

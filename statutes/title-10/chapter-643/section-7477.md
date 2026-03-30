@@ -3,9 +3,9 @@ title: "Section 7477 - Transportation of dependents and household effects of civ
 usc_title: 10
 usc_section: "7477"
 chapter: 643
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 7477"
-generated_at: "2026-03-30T03:36:02.559Z"
+generated_at: "2026-03-30T03:37:58.876Z"
 status: "active"
 ---
 

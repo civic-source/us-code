@@ -3,9 +3,9 @@ title: "Section 1722 - Provision of agricultural commodities"
 usc_title: 7
 usc_section: "1722"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1722"
-generated_at: "2026-03-30T03:36:04.627Z"
+generated_at: "2026-03-30T03:37:54.838Z"
 status: "active"
 ---
 
@@ -25,12 +25,14 @@ status: "active"
   - **(1)** a private voluntary organization or cooperative that is, to the extent practicable, registered with the Administrator; or
   - **(2)** an intergovernmental organization, such as the World Food Program.
 - **(e)**
-  - **(1)** Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 13 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
-    - **(A)** establishing new programs under this subchapter;
-    - **(B)** meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and
-    - **(C)** improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
+  - **(1)** Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
+    - **(A)** establishing and enhancing programs under this subchapter;
+    - **(B)** meeting specific administrative, management, personnel, transportation, storage, and distribution costs for carrying out programs in foreign countries under this subchapter;
+    - **(C)** implementing income-generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within 1 or more recipient countries or within 1 or more countries in the same region; and
+    - **(D)** improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
   - **(2)** To receive funds made available under paragraph (1), an eligible organization described in subsection (d) of this section shall submit a request for the funds that is subject to approval by the Administrator.
   - **(3)** Upon the request of an eligible organization, the Administrator may provide assistance to the eligible organization with respect to the sale of agricultural commodities made available to it under this subchapter.
+  - **(4)** An eligible organization that receives funds made available under paragraph (1) may invest the funds pending the eligible organization’s use of the funds. Any interest earned on such investment may be used for the purposes for which the assistance was provided to the eligible organization without further appropriation by Congress.
 - **(f)** To ensure that agricultural commodities made available under this subchapter are used effectively and in the areas of greatest need, organizations or cooperatives through which such commodities are distributed shall—
   - **(1)** to the extent feasible, work with indigenous institutions and employ indigenous workers;
   - **(2)** assess and take into account nutritional and other needs of beneficiary groups;
@@ -40,12 +42,16 @@ status: "active"
   - **(6)** periodically evaluate the effectiveness of projects undertaken under this subchapter.
 - **(g)** Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
 - **(h)**
-  - **(1)** The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
+  - **(1)** The Administrator shall use funds made available for fiscal year 2014 and subsequent fiscal years to carry out this subchapter—
     - **(A)** to assess the types and quality of agricultural commodities and products donated for food aid;
-    - **(B)** to adjust products and formulations (including the potential introduction of new fortificants and products) as necessary to cost-effectively meet nutrient needs of target populations; and
-    - **(C)** to test prototypes.
+    - **(B)** to adjust products and formulations, including potential introduction of new fortificants and products, as necessary to cost-effectively meet nutrient needs of target populations;
+    - **(C)** to test prototypes;
+    - **(D)** to adopt new specifications or improve existing specifications for micronutrient fortified food aid products, based on the latest developments in food and nutrition science, and in coordination with other international partners;
+    - **(E)** to develop new program guidance to facilitate improved matching of products to purposes having nutritional intent, in coordination with other international partners;
+    - **(F)** to develop improved guidance for implementing partners on how to address nutritional deficiencies that emerge among recipients for whom food assistance is the sole source of diet in emergency programs that extend beyond 1 year, in coordination with other international partners; and
+    - **(G)** to evaluate, in appropriate settings and as necessary, the performance and cost-effectiveness of new or modified specialized food products and program approaches designed to meet the nutritional needs of the most vulnerable groups, such as pregnant and lactating mothers, and children under the age of 5.
   - **(2)** The Administrator—
     - **(A)** shall carry out this subsection in consultation with and through independent entities with proven expertise in food aid commodity quality enhancements;
     - **(B)** may enter into contracts to obtain the services of such entities; and
     - **(C)** shall consult with the Food Aid Consultative Group on how to carry out this subsection.
-  - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2009 through 2011, not more than $4,500,000 may be used to carry out this subsection.
+  - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.

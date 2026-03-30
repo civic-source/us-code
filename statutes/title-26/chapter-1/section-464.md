@@ -3,9 +3,9 @@ title: "Section 464 - Limitations on deductions for certain farming"
 usc_title: 26
 usc_section: "464"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 464"
-generated_at: "2026-03-30T03:36:52.291Z"
+generated_at: "2026-03-30T03:38:35.977Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(B)** in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
     - **(C)** in the case of any individual who is actively participating in the management of any trade or business of farming or who is an individual who is described in subparagraph (A) or (B), any participation in the further processing of livestock which was raised in such trade or business (or in the trade or business referred to in subparagraph (A) or (B)),
     - **(D)** in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
-    - **(E)** any interest held by a member of the family (or a spouse of any such member) or a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
+    - **(E)** any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
 - **(d)** Subsection (a) shall not apply to any amount paid for supplies which are on hand at the close of the taxable year on account of fire, storm, or other casualty, or on account of disease or drought.
 - **(e)** For purposes of this section—
   - **(1)** The term “farming” means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.

@@ -3,9 +3,9 @@ title: "Section 6523 - National organic certification cost-share program"
 usc_title: 7
 usc_section: "6523"
 chapter: 94
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6523"
-generated_at: "2026-03-30T03:36:04.710Z"
+generated_at: "2026-03-30T03:37:54.910Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
   - **(2)** The maximum amount of a payment made to a producer or handler under this section shall be $750.
 - **(c)** Not later than March 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the requests by, disbursements to, and expenditures for each State under the program during the current and previous fiscal year, including the number of producers and handlers served by the program in the previous fiscal year.
 - **(d)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.
+  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $11,500,000 for each of fiscal years 2014 through 2018, to remain available until expended.
   - **(2)** There is authorized to be appropriated to carry out this section $22,000,000 for fiscal year 2013, to remain available until expended.

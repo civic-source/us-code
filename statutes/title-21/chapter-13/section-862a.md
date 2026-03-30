@@ -3,9 +3,9 @@ title: "Section 862a - Denial of assistance and benefits for certain drug-relate
 usc_title: 21
 usc_section: "862a"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 862a"
-generated_at: "2026-03-30T03:36:35.984Z"
+generated_at: "2026-03-30T03:38:19.575Z"
 status: "active"
 ---
 
@@ -13,10 +13,10 @@ status: "active"
 
 - **(a)** An individual convicted (under Federal or State law) of any offense which is classified as a felony by the law of the jurisdiction involved and which has as an element the possession, use, or distribution of a controlled substance (as defined in section 802(6) of this title ) shall not be eligible for—
   - **(1)** assistance under any State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.], or
-  - **(2)** benefits under the food stamp program (as defined in section 3( l ) of the Food Stamp Act of 1977 [ 7 U.S.C. 2012 ( l )]) or any State program carried out under the Food Stamp Act of 1977 [ 7 U.S.C. 2011 et seq.].
+  - **(2)** benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2012 )) or any State program carried out under that Act [ 7 U.S.C. 2011 et seq.].
 - **(b)**
   - **(1)** The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
-  - **(2)** The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3( l ) of the Food Stamp Act of 1977 [ 7 U.S.C. 2012 ( l )]), or any State program carried out under the Food Stamp Act of 1977 [ 7 U.S.C. 2011 et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+  - **(2)** The amount of benefits otherwise required to be provided to a household under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2012 )), or any State program carried out under that Act [ 7 U.S.C. 2011 et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 - **(c)** A State that has not exercised its authority under subsection (d)(1)(A) of this section shall require each individual applying for assistance or benefits referred to in subsection (a) of this section, during the application process, to state, in writing, whether the individual, or any member of the household of the individual, has been convicted of a crime described in subsection (a) of this section.
 - **(d)**
   - **(1)**
@@ -25,7 +25,7 @@ status: "active"
   - **(2)** Subsection (a) of this section shall not apply to a conviction if the conviction is for conduct occurring on or before August 22, 1996 .
 - **(e)** For purposes of this section, the term “State” has the meaning given it—
   - **(1)** in section 419(5) of the Social Security Act [ 42 U.S.C. 619(5) ], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.], and
-  - **(2)** in section 3(s) of the Food Stamp Act of 1977 [ 7 U.S.C. 2012(s) ], when referring to the food stamp program (as defined in section 3( l ) of the Food Stamp Act of 1977 [ 7 U.S.C. 2012 ( l )]) or any State program carried out under the Food Stamp Act of 1977 [ 7 U.S.C. 2011 et seq.].
+  - **(2)** in section 3 of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2012 ), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act [ 7 U.S.C. 2011 et seq.].
 - **(f)** Nothing in this section shall be construed to deny the following Federal benefits:
   - **(1)** Emergency medical services under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.].
   - **(2)** Short-term, noncash, in-kind emergency disaster relief.

@@ -3,9 +3,9 @@ title: "Section 621622 - Repealed. Pub. L. 99–272, title IV, § 4007(c) , Apr.
 usc_title: 45
 usc_section: "621622"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "45 U.S.C. § 621622"
-generated_at: "2026-03-30T03:37:06.803Z"
+generated_at: "2026-03-30T03:38:48.692Z"
 status: "repealed"
 ---
 

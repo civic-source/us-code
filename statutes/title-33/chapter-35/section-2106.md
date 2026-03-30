@@ -3,9 +3,9 @@ title: "Section 2106 - Savings clauses"
 usc_title: 33
 usc_section: "2106"
 chapter: 35
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 2106"
-generated_at: "2026-03-30T03:36:55.457Z"
+generated_at: "2026-03-30T03:38:40.733Z"
 status: "active"
 ---
 

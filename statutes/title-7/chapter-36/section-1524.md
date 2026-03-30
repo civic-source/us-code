@@ -3,9 +3,9 @@ title: "Section 1524 - Education and risk management assistance"
 usc_title: 7
 usc_section: "1524"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1524"
-generated_at: "2026-03-30T03:36:04.619Z"
+generated_at: "2026-03-30T03:37:54.830Z"
 status: "active"
 ---
 
@@ -19,11 +19,11 @@ status: "active"
     - **(A)** there is traditionally, and continues to be, a low level of Federal crop insurance participation and availability; and
     - **(B)** producers are underserved by the Federal crop insurance program.
   - **(3)**
-    - **(A)** The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+    - **(A)** The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, and other risk management strategies.
     - **(B)** A grant under this paragraph shall be awarded on the basis of merit and shall be subject to peer or merit review.
     - **(C)** Funds for a grant under this paragraph shall be available to the Secretary for obligation for a 2-year period.
     - **(D)** The Secretary may use not more than 4 percent of the funds made available for grants under this paragraph for administrative costs incurred by the Secretary in carrying out this paragraph.
-  - **(4)** In carrying out the programs established under paragraphs (2) and (3), the Secretary shall place special emphasis on risk management strategies, education, and outreach specifically targeted at—
+  - **(4)** In carrying out the programs established under paragraphs (2) and (3), the Secretary shall place special emphasis on risk management strategies (including farm financial benchmarking), education, and outreach specifically targeted at—
     - **(A)** beginning farmers or ranchers;
     - **(B)** legal immigrant farmers or ranchers that are attempting to become established producers in the United States;
     - **(C)** socially disadvantaged farmers or ranchers;
@@ -49,7 +49,7 @@ status: "active"
     - **(D)** enter into futures, hedging, or options contracts in a manner designed to help reduce production, price, or revenue risk;
     - **(E)** enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
     - **(F)** conduct any other activity relating to an activity described in subparagraphs (A) through (E), as determined by the Secretary.
-  - **(3)** The total amount of payments made to a person (as defined in section 1308(5) 1 1 See References in Text note below. of this title) (before the amendment made by section 1703(a) 1 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
+  - **(3)** The total amount of payments made to a person (as defined in section 1308(5) 1 1 See References in Text note below. of this title) (before the amendment made by section 1603(a) 1 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
   - **(4)**
     - **(A)** The Secretary shall carry out this subsection through the Commodity Credit Corporation.
     - **(B)**

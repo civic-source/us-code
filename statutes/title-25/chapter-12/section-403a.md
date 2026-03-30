@@ -3,9 +3,9 @@ title: "Section 403a - Lease of lands on Port Madison and Snohomish or Tulalip I
 usc_title: 25
 usc_section: "403a"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 403a"
-generated_at: "2026-03-30T03:36:34.702Z"
+generated_at: "2026-03-30T03:38:23.413Z"
 status: "active"
 ---
 

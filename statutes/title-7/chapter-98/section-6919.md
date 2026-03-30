@@ -1,13 +1,25 @@
 ---
-title: "Section 6919 - Repealed. Pub. L. 105–277, div. A, § 101(e) [title III, § 362], Oct. 21, 1998 , 112 Stat. 2681–231 , 2681–305"
+title: "Section 6919 - Military Veterans Agricultural Liaison"
 usc_title: 7
 usc_section: "6919"
 chapter: 98
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6919"
-generated_at: "2026-03-30T03:36:04.713Z"
-status: "repealed"
+generated_at: "2026-03-30T03:37:54.912Z"
+status: "active"
 ---
 
-# § 6919. Repealed. Pub. L. 105–277, div. A, § 101(e) [title III, § 362], Oct. 21, 1998 , 112 Stat. 2681–231 , 2681–305
+# § 6919. Military Veterans Agricultural Liaison
 
+- **(a)** The Secretary shall establish in the Department the position of Military Veterans Agricultural Liaison.
+- **(b)** The Military Veterans Agricultural Liaison shall—
+  - **(1)** provide information to returning veterans about, and connect returning veterans with, beginning farmer training and agricultural vocational and rehabilitation programs appropriate to the needs and interests of returning veterans, including assisting veterans in using Federal veterans educational benefits for purposes relating to beginning a farming or ranching career;
+  - **(2)** provide information to veterans concerning the availability of, and eligibility requirements for, participation in agricultural programs, with particular emphasis on beginning farmer and rancher programs;
+  - **(3)** serve as a resource for assisting veteran farmers and ranchers, and potential farmers and ranchers, in applying for participation in agricultural programs; and
+  - **(4)** advocate on behalf of veterans in interactions with employees of the Department.
+- **(c)** For purposes of carrying out the duties under subsection (b), the Military Veterans Agricultural Liaison may enter into contracts or cooperative agreements with the research centers of the Agricultural Research Service, institutions of higher education (as defined in section 1001 of title 20 ), or nonprofit organizations for—
+  - **(1)** the conduct of regional research on the profitability of small farms;
+  - **(2)** the development of educational materials;
+  - **(3)** the conduct of workshops, courses, and certified vocational training;
+  - **(4)** the conduct of mentoring activities; or
+  - **(5)** the provision of internship opportunities.

@@ -3,9 +3,9 @@ title: "Section 3837d - Payments"
 usc_title: 16
 usc_section: "3837d"
 chapter: 58
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 3837d"
-generated_at: "2026-03-30T03:36:30.251Z"
+generated_at: "2026-03-30T03:38:15.767Z"
 status: "active"
 ---
 

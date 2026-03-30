@@ -3,9 +3,9 @@ title: "Section 470p - Rights, benefits, and privileges of transferred employees
 usc_title: 16
 usc_section: "470p"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 470p"
-generated_at: "2026-03-30T03:36:30.112Z"
+generated_at: "2026-03-30T03:38:15.638Z"
 status: "active"
 ---
 

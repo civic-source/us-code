@@ -3,9 +3,9 @@ title: "Section 4013 - Foreign Service awards"
 usc_title: 22
 usc_section: "4013"
 chapter: 52
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 4013"
-generated_at: "2026-03-30T03:36:39.914Z"
+generated_at: "2026-03-30T03:38:22.272Z"
 status: "active"
 ---
 

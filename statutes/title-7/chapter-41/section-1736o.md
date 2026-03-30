@@ -3,9 +3,9 @@ title: "Section 1736o - Food for progress"
 usc_title: 7
 usc_section: "1736o"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1736o"
-generated_at: "2026-03-30T03:36:04.631Z"
+generated_at: "2026-03-30T03:37:54.841Z"
 status: "active"
 ---
 
@@ -49,15 +49,10 @@ status: "active"
   - **(2)** In carrying out section 1431(b) of this title , the Corporation may purchase eligible commodities for use under this section if—
     - **(A)** the Corporation does not hold stocks of such eligible commodities; or
     - **(B)** Corporation stocks are insufficient to satisfy commitments made in agreements entered into under this section and such eligible commodities are needed to fulfill such commitments.
-  - **(3)** No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2012 to carry out this section with respect to eligible commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
+  - **(3)** No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2018 to carry out this section with respect to eligible commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
   - **(4)** The cost of eligible commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act [ 7 U.S.C. 1691 et seq.] and may not be considered expenditures for international affairs and finance.
   - **(5)** In making sales of eligible eligible 1 1 So in original. commodities under this section, the Secretary shall follow the sale procedure described in section 403( l ) of the Food for Peace Act [ 7 U.S.C. 1733 ( l )].
-  - **(6)**
-    - **(A)** In carrying out this section during fiscal year 2009, the President shall approve not less than 1 multiyear project for Malawi—
-      - **(i)** to promote sustainable agriculture; and
-      - **(ii)** to increase the number of women in leadership positions.
-    - **(B)** Of the eligible commodities used to carry out this section during the period in which the project described in subparagraph (A) is carried out, the President shall carry out the project using eligible commodities with a total value of not less than $3,000,000 during the course of the project.
-- **(g)** Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2012.
+- **(g)** Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2018.
 - **(h)** An agreement entered into under this section shall prohibit the resale or transshipment of the eligible commodities provided under the agreement to other countries.
 - **(i)** In entering into agreements under this section, the President shall take reasonable steps to avoid displacement of any sales of United States commodities that would otherwise be made to such countries.
 - **(j)**
@@ -66,9 +61,9 @@ status: "active"
     - **(A)** make all determinations concerning program agreements and resource requests for programs under this section; and
     - **(B)** announce those determinations.
   - **(3)** Not later than December 1 of each fiscal year, the President shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a list of programs, countries, and eligible commodities, and the total amount of funds for transportation and administrative costs, approved to date for the fiscal year under this section.
-- **(k)** This section shall be effective during the period beginning October 1, 1985 , and ending December 31, 2012 .
+- **(k)** This section shall be effective during the period beginning October 1, 1985 , and ending December 31, 2018 .
 - **(l)**
-  - **(1)** To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2012, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
+  - **(1)** To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2018, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
   - **(2)** To carry out this subsection, the President may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
   - **(3)** The President may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
   - **(4)** The Secretary may authorize the use of proceeds to pay the costs incurred by an eligible entity under this section for—

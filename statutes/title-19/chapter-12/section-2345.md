@@ -3,9 +3,9 @@ title: "Section 2345 - Authorization of appropriations"
 usc_title: 19
 usc_section: "2345"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "19 U.S.C. § 2345"
-generated_at: "2026-03-30T03:36:24.479Z"
+generated_at: "2026-03-30T03:38:10.954Z"
 status: "active"
 ---
 

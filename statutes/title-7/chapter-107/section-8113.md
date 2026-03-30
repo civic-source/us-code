@@ -3,27 +3,32 @@ title: "Section 8113 - Community wood energy program"
 usc_title: 7
 usc_section: "8113"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8113"
-generated_at: "2026-03-30T03:36:04.741Z"
+generated_at: "2026-03-30T03:37:54.939Z"
 status: "active"
 ---
 
 # § 8113. Community wood energy program
 
 - **(a)** In this section:
-  - **(1)** The term “community wood energy plan” means an assessment of—
+  - **(1)** The term “biomass consumer cooperative” means a consumer membership organization the purpose of which is to provide members with services or discounts relating to the purchase of biomass heating products or biomass heating systems.
+  - **(2)** The term “community wood energy plan” means an assessment of—
     - **(A)** available feedstocks necessary to supply a community wood energy system; and
     - **(B)** the long-term feasibility of supplying and operating a community wood energy system.
-  - **(2)**
+  - **(3)**
     - **(A)** The term “community wood energy system” means an energy system that—
       - **(i)** primarily services public facilities owned or operated by State or local governments, including schools, town halls, libraries, and other public buildings; and
       - **(ii)** uses woody biomass as the primary fuel.
     - **(B)** The term “community wood energy system” includes single facility central heating, district heating, combined heat and energy systems, and other related biomass energy systems.
 - **(b)**
   - **(1)** The Secretary, acting through the Chief of the Forest Service, shall establish a program to be known as the “Community Wood Energy Program” to provide—
-    - **(A)** grants of up to $50,000 to State and local governments (or designees) to develop community wood energy plans; and
-    - **(B)** competitive grants to State and local governments to acquire or upgrade community wood energy systems.
+    - **(A)** grants of up to $50,000 to State and local governments (or designees) to develop community wood energy plans;
+    - **(B)** competitive grants to State and local governments to acquire or upgrade community wood energy systems; and
+    - **(C)** grants of up to $50,000 to biomass consumer cooperatives for the purpose of establishing or expanding biomass consumer cooperatives that will provide consumers with services or discounts relating to—
+      - **(i)** the purchase of biomass heating systems;
+      - **(ii)** biomass heating products, including wood chips, wood pellets, and advanced biofuels; or
+      - **(iii)** the delivery and storage of biomass of heating products.
   - **(2)** In selecting applicants for grants under paragraph (1)(B), the Secretary shall consider—
     - **(A)** the energy efficiency of the proposed system;
     - **(B)** the cost effectiveness of the proposed system; and
@@ -32,5 +37,7 @@ status: "active"
 - **(c)** A community wood energy system acquired with grant funds provided under subsection (b)(1)(B) shall not exceed an output of—
   - **(1)** 50,000,000 Btu per hour for heating; and
   - **(2)** 2 megawatts for electric power production.
-- **(d)** A State or local government that receives a grant under subsection (b) shall contribute an amount of non-Federal funds towards the development of the community wood energy plan, or acquisition of the community wood energy systems that is at least equal to the amount of grant funds received by the State or local government under that subsection.
-- **(e)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2013.
+- **(d)**
+  - **(1)** A State or local government that receives a grant under subparagraph (A) or (B) of subsection (b)(1) shall contribute an amount of non-Federal funds towards the development of the community wood energy plan, or acquisition of the community wood energy systems that is at least equal to the amount of grant funds received by the State or local government under that subsection.
+  - **(2)** A biomass consumer cooperative that receives a grant under subsection (b)(1)(C) shall contribute an amount of non-Federal funds (which may include State, local, and nonprofit funds and membership dues) toward the establishment or expansion of a biomass consumer cooperative that is at least equal to 50 percent of the amount of Federal funds received for that purpose.
+- **(e)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2018.

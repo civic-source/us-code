@@ -3,9 +3,9 @@ title: "Section 531to535 - Repealed. Aug. 13, 1954, ch. 732, § 12 , 68 Stat. 72
 usc_title: 25
 usc_section: "531to535"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 531to535"
-generated_at: "2026-03-30T03:36:34.716Z"
+generated_at: "2026-03-30T03:38:23.424Z"
 status: "repealed"
 ---
 

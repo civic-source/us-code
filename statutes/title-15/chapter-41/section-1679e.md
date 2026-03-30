@@ -3,9 +3,9 @@ title: "Section 1679e - Right to cancel contract"
 usc_title: 15
 usc_section: "1679e"
 chapter: 41
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1679e"
-generated_at: "2026-03-30T03:36:13.333Z"
+generated_at: "2026-03-30T03:38:06.046Z"
 status: "active"
 ---
 

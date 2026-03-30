@@ -3,9 +3,9 @@ title: "Section 80106 - International agreement on derelicts"
 usc_title: 46
 usc_section: "80106"
 chapter: 801
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "46 U.S.C. § 80106"
-generated_at: "2026-03-30T03:37:29.132Z"
+generated_at: "2026-03-30T03:39:12.621Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2292 - Imparting or conveying false information"
 usc_title: 18
 usc_section: "2292"
 chapter: 111
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "18 U.S.C. § 2292"
-generated_at: "2026-03-30T03:36:18.305Z"
+generated_at: "2026-03-30T03:38:09.936Z"
 status: "active"
 ---
 

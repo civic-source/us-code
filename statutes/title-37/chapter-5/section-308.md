@@ -3,9 +3,9 @@ title: "Section 308 - Special pay: reenlistment bonus"
 usc_title: 37
 usc_section: "308"
 chapter: 5
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "37 U.S.C. § 308"
-generated_at: "2026-03-30T03:37:03.771Z"
+generated_at: "2026-03-30T03:38:43.099Z"
 status: "active"
 ---
 
@@ -33,4 +33,4 @@ status: "active"
   - **(1)** any period of enlistment (including any extension of an enlistment) (A) that is incurred by the member for the purpose of continuing to qualify for continuous submarine duty incentive pay under section 301c of this title , and (B) for which no bonus is otherwise payable; or
   - **(2)** any unserved period of two years or less of an extension of an enlistment for which no bonus has been paid or for which no bonus is otherwise payable under this section,
 - **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
-- **(g)** No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2014 .
+- **(g)** No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2013 .

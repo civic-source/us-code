@@ -3,9 +3,9 @@ title: "Section 706 - Reporting official action"
 usc_title: 49
 usc_section: "706"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "49 U.S.C. § 706"
-generated_at: "2026-03-30T03:37:32.372Z"
+generated_at: "2026-03-30T03:39:18.797Z"
 status: "active"
 ---
 

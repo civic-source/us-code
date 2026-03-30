@@ -3,9 +3,9 @@ title: "Section 762 - National Institute on Disability and Rehabilitation Resear
 usc_title: 29
 usc_section: "762"
 chapter: 16
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 762"
-generated_at: "2026-03-30T03:36:46.386Z"
+generated_at: "2026-03-30T03:38:27.167Z"
 status: "active"
 ---
 

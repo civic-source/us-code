@@ -3,9 +3,9 @@ title: "Section 450i - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "450i"
 chapter: 17
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 450i"
-generated_at: "2026-03-30T03:36:04.581Z"
+generated_at: "2026-03-30T03:37:54.797Z"
 status: "active"
 ---
 
@@ -32,8 +32,12 @@ status: "active"
       - **(iv)** conventional breeding, including breed development, selection theory, applied quantitative genetics, breeding for improved food quality, breeding for improved local adaptation to biotic stress and abiotic stress, and participatory breeding;
       - **(v)** identification of genes responsible for improved production traits and resistance to disease;
       - **(vi)** improved nutritional performance of animals;
-      - **(vii)** improved nutrient qualities of animal products and uses; and
-      - **(viii)** the development of new and improved animal husbandry and production systems that take into account production efficiency, animal well-being, and animal systems applicable to aquaculture.
+      - **(vii)** improved nutrient qualities of animal products and uses;
+      - **(viii)** the development of new and improved animal husbandry and production systems that take into account production efficiency, animal well-being, and animal systems applicable to aquaculture;
+      - **(ix)** the research and development of surveillance methods, vaccines, vaccination delivery systems, or diagnostic tests for pests and diseases, including—
+        - **(I)** epizootic diseases in domestic livestock (including deer, elk, bison, and other animals of the family Cervidae); and
+        - **(II)** zoonotic diseases (including bovine brucellosis and bovine tuberculosis) in domestic livestock or wildlife reservoirs that present a potential concern to public health; and
+      - **(x)** the identification of animal drug needs and the generation and dissemination of data for safe and effective therapeutic applications of animal drugs for minor species and minor uses of such drugs in major species.
     - **(C)** Nutrition, food safety and quality, and health, including—
       - **(i)** microbial contaminants and pesticides residue relating to human health;
       - **(ii)** links between diet and health;
@@ -44,28 +48,31 @@ status: "active"
       - **(i)** fundamental structures and functions of ecosystems;
       - **(ii)** biological and physical bases of sustainable production systems;
       - **(iii)** minimizing soil and water losses and sustaining surface water and ground water quality;
-      - **(iv)** global climate effects on agriculture;
-      - **(v)** forestry; and
-      - **(vi)** biological diversity.
+      - **(iv)** the effectiveness of conservation practices and technologies designed to address nutrient losses and improve water quality;
+      - **(v)** global climate effects on agriculture;
+      - **(vi)** forestry; and
+      - **(vii)** biological diversity.
     - **(E)** Engineering, products, and processes, including—
       - **(i)** new uses and new products from traditional and nontraditional crops, animals, byproducts, and natural resources;
       - **(ii)** robotics, energy efficiency, computing, and expert systems;
       - **(iii)** new hazard and risk assessment and mitigation measures; and
       - **(iv)** water quality and management.
-    - **(F)** Markets, trade, and policy, including—
+    - **(F)** Markets, trade, economics, and policy, including—
       - **(i)** strategies for entering into and being competitive in domestic and overseas markets;
       - **(ii)** farm efficiency and profitability, including the viability and competitiveness of small and medium-sized dairy, livestock, crop and other commodity operations;
       - **(iii)** new decision tools for farm and market systems;
       - **(iv)** choices and applications of technology;
-      - **(v)** technology assessment; and
-      - **(vi)** new approaches to rural development, including rural entrepreneurship.
+      - **(v)** the economic costs, benefits, and viability of producers adopting conservation practices and technologies designed to improve water quality;
+      - **(vi)** technology assessment; and
+      - **(vii)** new approaches to rural development, including rural entrepreneurship.
   - **(3)** The term of a competitive grant made under this subsection may not exceed 10 years.
   - **(4)** In making grants under this subsection, the Secretary shall—
     - **(A)** seek and accept proposals for grants;
     - **(B)** determine the relevance and merit of proposals through a system of peer and merit review in accordance with section 7613 of this title ;
     - **(C)** award grants on the basis of merit, quality, and relevance;
-    - **(D)** solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with section 7612(b) of this title ; and
-    - **(E)** in seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, seek the widest participation of qualified individuals in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
+    - **(D)** solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with section 7612(b) of this title ;
+    - **(E)** in seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, seek the widest participation of qualified individuals in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector; and
+    - **(F)** establish procedures, including timelines, under which an entity established under a commodity promotion law (as such term is defined under section 7401(a) of this title ) or a State commodity board (or other equivalent State entity) may directly submit to the Secretary for consideration proposals for requests for applications that specifically address particular issues related to the priority areas specified in paragraph (2).
   - **(5)** In making grants under this subsection, the Secretary shall allocate funds to the Agriculture and Food Research Initiative to ensure that, of funds allocated for research activities—
     - **(A)** not less than 60 percent is made available to make grants for fundamental research (as defined in subsection (f)(1) of section 6971 of this title ), of which—
       - **(i)** not less than 30 percent is made available to make grants for research to be conducted by multidisciplinary teams; and
@@ -74,8 +81,9 @@ status: "active"
   - **(6)** In making grants under this subsection, the Secretary may assist in the development of capabilities in the agricultural, food, and environmental sciences by providing grants—
     - **(A)** to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching, except that the Secretary shall use not less than 25 percent of the funds made available for grants under this subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences;
     - **(B)** to a single investigator or coinvestigators who are beginning research careers and do not have an extensive research publication record, except that, to be eligible for a grant under this subparagraph, an individual shall be within 5 years of the beginning of the initial career track position of the individual;
-    - **(C)** to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants; and
-    - **(D)** to improve research, extension, and education capabilities in States (as defined in section 3103 of this title ) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels.
+    - **(C)** to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants;
+    - **(D)** to improve research, extension, and education capabilities in States (as defined in section 3103 of this title ) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels; and
+    - **(E)** to eligible entities to carry out the specific proposals submitted under procedures established under paragraph (4)(F) only if such specific proposals are consistent with a priority area specified in paragraph (2).
   - **(7)** The Secretary may make grants to carry out research, extension, and education under this subsection to—
     - **(A)** State agricultural experiment stations;
     - **(B)** colleges and universities;
@@ -83,7 +91,7 @@ status: "active"
     - **(D)** other research institutions and organizations;
     - **(E)** Federal agencies;
     - **(F)** national laboratories;
-    - **(G)** private organizations or corporations;
+    - **(G)** private organizations, foundations, or corporations;
     - **(H)** individuals; or
     - **(I)** any group consisting of 2 or more of the entities described in subparagraphs (A) through (H).
   - **(8)** Funds made available for grants under this subsection shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement, and architect fees).
@@ -91,12 +99,19 @@ status: "active"
     - **(A)**
       - **(i)** Except as provided in clause (ii), in the case of a grant made under paragraph (6)(A), the amount provided under this subsection may not exceed 50 percent of the cost of the special research equipment or other equipment acquired using funds from the grant.
       - **(ii)** The Secretary may waive all or part of the matching requirement under clause (i) in the case of a college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received, if the equipment to be acquired using funds from the grant costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
-    - **(B)** As a condition of making a grant under paragraph (5)(B), the Secretary shall require the funding of the grant to be matched with equal matching funds from a non-Federal source if the grant is for applied research that is—
-      - **(i)** commodity-specific; and
-      - **(ii)** not of national scope.
+      - **(iii)** The matching funds requirement under section 3371 of this title shall not apply in the case of a grant made under paragraph (6)(A).
+    - **(B)**
+      - **(i)** Subject to clauses (ii) and (iii), as a condition of funding a grant under paragraph (6)(E), the Secretary shall require that the grant be matched with an equal contribution of funds from the entities described in paragraph (4)(F) submitting proposals under procedures established under such paragraph.
+      - **(ii)**
+        - **(I)** Contributions required by clause (i) shall be available to the Secretary for obligation and remain available until expended for the purpose of making grants under paragraph (6)(E).
+        - **(II)** Of amounts contributed to the Secretary under clause (i), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary in carrying out this subsection.
+        - **(III)** Funds contributed to the Secretary by an entity under clause (i) in connection with a proposal submitted by that entity under procedures established under paragraph (4)(F) may only be used to fund grants in connection with that proposal.
+        - **(IV)** Funds contributed to the Secretary by an entity under clause (i) that remain unobligated at the time of grant closeout shall be returned to that entity.
+        - **(V)** The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply to amounts contributed by an entity under clause (i).
+      - **(iii)** The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by section 3371 of this title .
   - **(10)** To the maximum extent practicable, the Director of the National Institute of Food and Agriculture, in coordination with the Under Secretary for Research, Education, and Economics, shall allocate grants under this subsection to high-priority research, taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title ).
   - **(11)**
-    - **(A)** There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2012, of which—
+    - **(A)** There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2018, of which—
       - **(i)** not less than 30 percent shall be made available for integrated research pursuant to section 7626 of this title ; and
       - **(ii)** not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary in carrying out this subsection.
     - **(B)** Funds made available under this paragraph shall—
@@ -128,14 +143,18 @@ status: "active"
 - **(d)**
 - **(e)**
   - **(1)** The Secretary of Agriculture shall establish an Inter-Regional Research Project Number 4 (hereinafter referred to in this subsection as the “IR–4 Program”) to assist in the collection of residue and efficacy data in support of—
-    - **(A)** the registration or reregistration of minor use pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act ( 7 U.S.C. 136 et seq.); and
+    - **(A)** the registration or reregistration of pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ( 7 U.S.C. 1621 note)), under the Federal Insecticide, Fungicide, and Rodenticide Act ( 7 U.S.C. 136 et seq.); and
     - **(B)** tolerances for residues of minor use chemicals in or on raw agricultural commodities under sections 346a and 348 of title 21.
   - **(2)** The Secretary shall carry out the IR–4 Program in cooperation with the Administrator of the Environmental Protection Agency, State agricultural experiment stations, colleges and universities, extension services, private industry, and other interested parties.
   - **(3)** In carrying out the IR–4 Program, the Secretary shall give priority to registrations, reregistrations, and tolerances for pesticide uses related to the production of agricultural crops for food use.
   - **(4)** As part of carrying out the IR–4 Program, the Secretary shall—
-    - **(A)** participate in research activities aimed at reducing residues of pesticides registered for minor agricultural use;
-    - **(B)** develop analytical techniques applicable to residues of pesticides registered for minor agricultural use, including automation techniques and validation of analytical methods; and
-    - **(C)** coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
+    - **(A)** participate in research activities aimed at reducing residues of pesticides registered for minor agricultural use and for use on specialty crops;
+    - **(B)** develop analytical techniques applicable to residues of pesticides registered for minor agricultural use, including automation techniques and validation of analytical methods;
+    - **(C)** prioritize potential pest management technology for minor agricultural use and for use on specialty crops;
+    - **(D)** conduct research to develop the data necessary to facilitate pesticide registrations, reregistrations, and associated tolerances;
+    - **(E)** assist in removing trade barriers caused by residues of pesticides registered for minor agricultural use and for use on domestically grown specialty crops;
+    - **(F)** assist in the registration and reregistration of pest management technologies for minor agricultural use and for use on specialty crops; and
+    - **(G)** coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
   - **(5)** The Secretary shall prepare and submit, to appropriate Committees of Congress, a report on an annual basis that contains—
     - **(A)** a listing of all registrations, reregistrations, and tolerances for which data has been collected in the preceding year;
     - **(B)** a listing of all registrations, reregistrations, and tolerances for which data collection is scheduled to occur in the following year, with an explanation of the priority system used to develop this list; and

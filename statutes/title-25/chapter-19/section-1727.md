@@ -3,9 +3,9 @@ title: "Section 1727 - Implementation of Indian Child Welfare Act"
 usc_title: 25
 usc_section: "1727"
 chapter: 19
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 1727"
-generated_at: "2026-03-30T03:36:34.772Z"
+generated_at: "2026-03-30T03:38:23.468Z"
 status: "active"
 ---
 

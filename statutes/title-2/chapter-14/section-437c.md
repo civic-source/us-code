@@ -3,9 +3,9 @@ title: "Section 437c - Federal Election Commission"
 usc_title: 2
 usc_section: "437c"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 437c"
-generated_at: "2026-03-30T03:35:51.709Z"
+generated_at: "2026-03-30T03:37:47.321Z"
 status: "active"
 ---
 

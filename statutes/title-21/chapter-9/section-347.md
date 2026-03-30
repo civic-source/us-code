@@ -3,9 +3,9 @@ title: "Section 347 - Intrastate sales of colored oleomargarine"
 usc_title: 21
 usc_section: "347"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "21 U.S.C. § 347"
-generated_at: "2026-03-30T03:36:35.906Z"
+generated_at: "2026-03-30T03:38:19.520Z"
 status: "active"
 ---
 

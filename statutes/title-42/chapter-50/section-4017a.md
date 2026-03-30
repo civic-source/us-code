@@ -3,9 +3,9 @@ title: "Section 4017a - Reserve Fund"
 usc_title: 42
 usc_section: "4017a"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4017a"
-generated_at: "2026-03-30T03:37:24.222Z"
+generated_at: "2026-03-30T03:39:06.177Z"
 status: "active"
 ---
 
@@ -32,11 +32,12 @@ status: "active"
   - **(3)**
     - **(A)** In exercising the authority granted under paragraph (1), the Administrator shall be subject to all other provisions of this chapter, including any provisions relating to chargeable premium rates or annual increases of such rates.
     - **(B)** Notwithstanding any other provision of law or any agreement entered into by the Administrator, the Administrator shall ensure that all amounts attributable to the establishment or increase of annual insurance premiums under paragraph (1) are transferred to the Administrator for deposit into the Reserve Fund, to be available for meeting the expected future obligations of the flood insurance program as described in subsection (a)(2).
+  - **(4)** The Administrator shall deposit in the Reserve Fund any surcharges collected pursuant to section 4015a of this title .
 - **(d)** The phase-in requirements under this subsection are as follows:
   - **(1)** Beginning in fiscal year 2013 and not ending until the fiscal year in which the ratio required under subsection (b) is achieved, in each such fiscal year the Administrator shall place in the Reserve Fund an amount equal to not less than 7.5 percent of the reserve ratio required under subsection (b).
   - **(2)** As soon as the ratio required under subsection (b) is achieved, and except as provided in paragraph (3), the Administrator shall not be required to set aside any amounts for the Reserve Fund.
   - **(3)** If at any time after the ratio required under subsection (b) is achieved, the Reserve Fund falls below the required ratio under subsection (b), the Administrator shall place in the Reserve Fund for that fiscal year an amount equal to not less than 7.5 percent of the reserve ratio required under subsection (b).
-- **(e)** In any given fiscal year, if the Administrator determines that the reserve ratio required under subsection (b) cannot be achieved, the Administrator shall submit a report to Congress that—
+- **(e)** In any given fiscal year, if the Administrator determines that the reserve ratio required under subsection (b) cannot be achieved, the Administrator shall submit, on a calendar quarterly basis, a report to Congress that—
   - **(1)** describes and details the specific concerns of the Administrator regarding the consequences of the reserve ratio not being achieved;
   - **(2)** demonstrates how such consequences would harm the long-term financial soundness of the flood insurance program; and
   - **(3)** indicates the maximum attainable reserve ratio for that particular fiscal year.

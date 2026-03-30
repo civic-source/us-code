@@ -3,9 +3,9 @@ title: "Section 1701q - Supportive housing for the elderly"
 usc_title: 12
 usc_section: "1701q"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 1701q"
-generated_at: "2026-03-30T03:36:10.625Z"
+generated_at: "2026-03-30T03:38:03.862Z"
 status: "active"
 ---
 
@@ -40,14 +40,19 @@ status: "active"
     - **(G)** the extent to which the proposed design of the housing will accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons the housing is intended to serve; and
     - **(H)** such other factors as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively.
   - **(2)**
-    - **(A)** In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
+    - **(A)** The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—
       - **(i)** is in geographic proximity to the property;
       - **(ii)** has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
-      - **(iii)** may or may not be providing low-income housing tax credits in combination with the capital advance under this section, 1 1 So in original. The comma probably should be a semicolon. and
+      - **(iii)** may or may not be providing low-income housing tax credits in combination with the funding under this section;
       - **(iv)** agrees to issue a firm commitment within 12 months of delegation.
-    - **(B)** The Secretary shall retain the authority to process capital advances in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
-    - **(C)** An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary. The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
-    - **(D)** Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute a capital advance within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in capital advance amounts or project rental assistance and such reductions shall be subject to appeal.
+    - **(B)** The Secretary shall retain the authority to process funding under this section in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
+    - **(C)** The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
+    - **(D)** Assistance under subsection (c)(2) may be provided for projects which identify in the application for assistance a defined health and other supportive services program including sources of financing the services for eligible residents and memoranda of understanding with service provision agencies and organizations to provide such services for eligible residents at their request. Such supportive services plan and memoranda of understating shall—
+      - **(i)** identify the target populations to be served by the project;
+      - **(ii)** set forth methods for outreach and referral;
+      - **(iii)** identify the health and other supportive services to be provided; and
+      - **(iv)** identify the terms under which such services will be made available to residents of the project.
+    - **(E)** Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute funding under this section within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in funding under this section and such reductions shall be subject to appeal.
 - **(g)**
   - **(1)** In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 ( 42 U.S.C. 13631(f) ); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
   - **(2)** The Secretary shall ensure that owners have the managerial capacity to—

@@ -3,9 +3,9 @@ title: "Section 1491 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "1491"
 chapter: 75
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 1491"
-generated_at: "2026-03-30T03:36:02.481Z"
+generated_at: "2026-03-30T03:37:58.803Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(c)** A funeral honors detail shall, at a minimum, perform at the funeral a ceremony that includes the folding of a United States flag and presentation of the flag to the veteran’s family and the playing of Taps. Unless a bugler is a member of the detail, the funeral honors detail shall play a recorded version of Taps using audio equipment which the detail shall provide if adequate audio equipment is not otherwise available for use at the funeral.
 - **(d)**
   - **(1)** To support a funeral honors detail under this section, the Secretary of a military department may provide the following:
-    - **(A)** For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 or the daily stipend prescribed under paragraph (2).
+    - **(A)** For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either transportation (or reimbursement for transportation) and expenses or the daily stipend prescribed under paragraph (2).
     - **(B)** For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
     - **(C)** For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
   - **(2)** The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses for persons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.

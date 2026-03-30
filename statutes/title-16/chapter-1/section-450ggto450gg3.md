@@ -3,9 +3,9 @@ title: "Section 450ggto450gg3 - Repealed. Pub. L. 91–660, § 5 , Jan. 8, 1971 
 usc_title: 16
 usc_section: "450ggto450gg3"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 450ggto450gg3"
-generated_at: "2026-03-30T03:36:30.067Z"
+generated_at: "2026-03-30T03:38:15.595Z"
 status: "repealed"
 ---
 

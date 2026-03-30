@@ -3,9 +3,9 @@ title: "Section 1652 - Authorizations for construction"
 usc_title: 43
 usc_section: "1652"
 chapter: 34
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 1652"
-generated_at: "2026-03-30T03:37:08.123Z"
+generated_at: "2026-03-30T03:38:49.773Z"
 status: "active"
 ---
 

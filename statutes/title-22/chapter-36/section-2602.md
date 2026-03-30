@@ -3,9 +3,9 @@ title: "Section 2602 - Presidential authorization"
 usc_title: 22
 usc_section: "2602"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2602"
-generated_at: "2026-03-30T03:36:39.882Z"
+generated_at: "2026-03-30T03:38:22.248Z"
 status: "active"
 ---
 

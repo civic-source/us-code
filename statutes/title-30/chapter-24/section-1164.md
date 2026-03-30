@@ -3,9 +3,9 @@ title: "Section 1164 - Authorization of appropriations"
 usc_title: 30
 usc_section: "1164"
 chapter: 24
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "30 U.S.C. § 1164"
-generated_at: "2026-03-30T03:36:42.973Z"
+generated_at: "2026-03-30T03:38:25.682Z"
 status: "active"
 ---
 

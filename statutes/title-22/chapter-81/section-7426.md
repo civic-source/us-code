@@ -3,9 +3,9 @@ title: "Section 7426 - Repealed. Pub. L. 110–181, div. A, title XII, § 1212(a
 usc_title: 22
 usc_section: "7426"
 chapter: 81
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 7426"
-generated_at: "2026-03-30T03:36:39.971Z"
+generated_at: "2026-03-30T03:38:22.313Z"
 status: "repealed"
 ---
 

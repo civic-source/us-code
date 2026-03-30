@@ -3,9 +3,9 @@ title: "Section 7604 - Ships’ stores: sale of goods and services"
 usc_title: 10
 usc_section: "7604"
 chapter: 651
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 7604"
-generated_at: "2026-03-30T03:36:02.559Z"
+generated_at: "2026-03-30T03:37:58.876Z"
 status: "active"
 ---
 

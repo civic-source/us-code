@@ -3,9 +3,9 @@ title: "Section 2197 - General provisions relating to insurance, guaranty, finan
 usc_title: 22
 usc_section: "2197"
 chapter: 32
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2197"
-generated_at: "2026-03-30T03:36:39.851Z"
+generated_at: "2026-03-30T03:38:22.226Z"
 status: "active"
 ---
 

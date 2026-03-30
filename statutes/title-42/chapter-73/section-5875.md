@@ -3,9 +3,9 @@ title: "Section 5875 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5875"
 chapter: 73
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 5875"
-generated_at: "2026-03-30T03:37:24.289Z"
+generated_at: "2026-03-30T03:39:06.237Z"
 status: "active"
 ---
 

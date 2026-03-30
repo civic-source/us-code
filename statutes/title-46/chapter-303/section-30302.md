@@ -3,9 +3,9 @@ title: "Section 30302 - Cause of action"
 usc_title: 46
 usc_section: "30302"
 chapter: 303
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "46 U.S.C. § 30302"
-generated_at: "2026-03-30T03:37:29.097Z"
+generated_at: "2026-03-30T03:39:12.591Z"
 status: "active"
 ---
 

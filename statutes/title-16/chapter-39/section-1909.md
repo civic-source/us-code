@@ -3,9 +3,9 @@ title: "Section 1909 - Severability"
 usc_title: 16
 usc_section: "1909"
 chapter: 39
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 1909"
-generated_at: "2026-03-30T03:36:30.226Z"
+generated_at: "2026-03-30T03:38:15.744Z"
 status: "active"
 ---
 

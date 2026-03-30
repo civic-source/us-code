@@ -3,9 +3,9 @@ title: "Section 6700 - Promoting abusive tax shelters, etc."
 usc_title: 26
 usc_section: "6700"
 chapter: 68
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 6700"
-generated_at: "2026-03-30T03:36:52.447Z"
+generated_at: "2026-03-30T03:38:36.201Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
       - **(iii)** any other plan or arrangement, or
     - **(B)** participates (directly or indirectly) in the sale of any interest in an entity or plan or arrangement referred to in subparagraph (A), and
   - **(2)** makes or furnishes or causes another person to make or furnish (in connection with such organization or sale)—
-    - **(A)** a statement with respect to the allowability of any deduction or credit, the excludability of any income, or the securing of any other tax benefit by reason of holding an interest in the entity or participating in the plan or arrangement which the person knows or has reason to known is false or fraudulent as to any material matter, or
+    - **(A)** a statement with respect to the allowability of any deduction or credit, the excludability of any income, or the securing of any other tax benefit by reason of holding an interest in the entity or participating in the plan or arrangement which the person knows or has reason to know is false or fraudulent as to any material matter, or
     - **(B)** a gross valuation overstatement as to any material matter,
 - **(b)**
   - **(1)** For purposes of this section, the term “gross valuation overstatement” means any statement as to the value of any property or services if—

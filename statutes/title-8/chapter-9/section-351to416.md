@@ -3,9 +3,9 @@ title: "Section 351to416 - Repealed or transferred"
 usc_title: 8
 usc_section: "351to416"
 chapter: 9
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "8 U.S.C. § 351to416"
-generated_at: "2026-03-30T03:35:57.351Z"
+generated_at: "2026-03-30T03:37:52.039Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2953 - Global Change Research Information Office"
 usc_title: 15
 usc_section: "2953"
 chapter: 56
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 2953"
-generated_at: "2026-03-30T03:36:13.385Z"
+generated_at: "2026-03-30T03:38:06.085Z"
 status: "active"
 ---
 

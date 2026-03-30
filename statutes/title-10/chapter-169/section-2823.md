@@ -3,9 +3,9 @@ title: "Section 2823 - Repealed. Pub. L. 109–364, div. B, title XXVIII, § 280
 usc_title: 10
 usc_section: "2823"
 chapter: 169
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2823"
-generated_at: "2026-03-30T03:36:02.533Z"
+generated_at: "2026-03-30T03:37:58.851Z"
 status: "repealed"
 ---
 

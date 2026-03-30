@@ -3,9 +3,9 @@ title: "Section 5667 - Eligibility"
 usc_title: 42
 usc_section: "5667"
 chapter: 72
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 5667"
-generated_at: "2026-03-30T03:37:24.278Z"
+generated_at: "2026-03-30T03:39:06.229Z"
 status: "active"
 ---
 

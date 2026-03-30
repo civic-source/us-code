@@ -3,9 +3,9 @@ title: "Section 6833 - Updating State building energy efficiency codes"
 usc_title: 42
 usc_section: "6833"
 chapter: 81
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 6833"
-generated_at: "2026-03-30T03:37:24.328Z"
+generated_at: "2026-03-30T03:39:06.271Z"
 status: "active"
 ---
 

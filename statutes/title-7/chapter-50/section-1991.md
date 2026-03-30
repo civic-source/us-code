@@ -3,9 +3,9 @@ title: "Section 1991 - Definitions"
 usc_title: 7
 usc_section: "1991"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1991"
-generated_at: "2026-03-30T03:36:04.642Z"
+generated_at: "2026-03-30T03:37:54.851Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(11)** The term “qualified beginning farmer or rancher” means an applicant, regardless of whether the applicant is participating in a program under section 1935 of this title —
     - **(A)** who is eligible for assistance under this chapter;
     - **(B)** who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 10 years;
-    - **(C)** in the case of a cooperative, corporation, partnership, or joint operation, who has members, stockholders, partners, or joint operators who are all related to one another by blood or marriage;
+    - **(C)** in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
     - **(D)**
       - **(i)** in the case of an owner and operator of a farm or ranch, who—
         - **(I)** in the case of a loan made to an individual, individually or with the immediate family of the applicant—
@@ -34,7 +34,7 @@ status: "active"
         - **(I)** in the case of a loan made to an individual, individually or with the immediate family of the applicant, will—
         - **(II)**
     - **(E)** who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
-    - **(F)** who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
+    - **(F)** who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the average acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
     - **(G)** who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
   - **(12)**
     - **(A)** Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
@@ -74,7 +74,7 @@ status: "active"
         - **(II)** an area described in clause (i)(II) not to be a rural area for purposes of subparagraph (C).
       - **(iii)** A program applicant may appeal an estimate made under clause (i)(I) based on appropriate data for an area, as determined by the Secretary.
     - **(G)** Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
-- **(b)** As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
+- **(b)** As used in sections 1927(e), 1 1 See References in Text note below. 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
   - **(1)** The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
   - **(2)** The term “loan service program” means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
   - **(3)** The term “primary loan service program” means—

@@ -3,9 +3,9 @@ title: "Section 438 - Repealed. Pub. L. 88–448, title IV, § 402(a)(26) , Aug.
 usc_title: 7
 usc_section: "438"
 chapter: 17
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 438"
-generated_at: "2026-03-30T03:36:04.579Z"
+generated_at: "2026-03-30T03:37:54.797Z"
 status: "repealed"
 ---
 

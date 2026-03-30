@@ -3,9 +3,9 @@ title: "Section 3125b - National Rural Information Center Clearinghouse"
 usc_title: 7
 usc_section: "3125b"
 chapter: 64
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 3125b"
-generated_at: "2026-03-30T03:36:04.677Z"
+generated_at: "2026-03-30T03:37:54.881Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** The Clearinghouse shall provide and distribute information and data to any industry, organization, or Federal, State, or local government entity, on request, about programs and services provided by Federal, State, and local agencies and private nonprofit organizations and institutions under which individuals residing in, or organizations and State and local government entities operating in, a rural area may be eligible for any kind of assistance, including job training, education, health care, and economic development assistance, and emotional and financial counseling. To the extent possible, the National Agricultural Library shall use telecommunications technology to disseminate information to rural areas.
 - **(c)** On request of the Secretary, the head of a Federal agency shall provide to the Clearinghouse such information as the Secretary may request to enable the Clearinghouse to carry out subsection (b) of this section.
 - **(d)** The Secretary shall request State and local governments and private nonprofit organizations and institutions to provide to the Clearinghouse such information as such agencies and organizations may have about any program or service of such agencies, organizations, and institutions under which individuals residing in a rural area may be eligible for any kind of assistance, including job training, educational, health care, and economic development assistance, and emotional and financial counseling.
-- **(e)** To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2012.
+- **(e)** To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2018.

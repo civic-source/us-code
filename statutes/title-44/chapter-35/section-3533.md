@@ -3,9 +3,9 @@ title: "Section 3533 - Authority and functions of the Director"
 usc_title: 44
 usc_section: "3533"
 chapter: 35
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "44 U.S.C. § 3533"
-generated_at: "2026-03-30T03:37:06.438Z"
+generated_at: "2026-03-30T03:38:48.360Z"
 status: "active"
 ---
 

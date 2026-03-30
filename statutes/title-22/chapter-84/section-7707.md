@@ -3,9 +3,9 @@ title: "Section 7707 - Congressional and public notification of candidate countr
 usc_title: 22
 usc_section: "7707"
 chapter: 84
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 7707"
-generated_at: "2026-03-30T03:36:39.979Z"
+generated_at: "2026-03-30T03:38:22.318Z"
 status: "active"
 ---
 

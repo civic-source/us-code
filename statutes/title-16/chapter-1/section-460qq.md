@@ -3,9 +3,9 @@ title: "Section 460qq - Establishment"
 usc_title: 16
 usc_section: "460qq"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 460qq"
-generated_at: "2026-03-30T03:36:30.091Z"
+generated_at: "2026-03-30T03:38:15.618Z"
 status: "active"
 ---
 

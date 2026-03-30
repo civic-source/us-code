@@ -3,9 +3,9 @@ title: "Section 2273 - Policy regarding assured access to space: national securi
 usc_title: 10
 usc_section: "2273"
 chapter: 135
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2273"
-generated_at: "2026-03-30T03:36:02.499Z"
+generated_at: "2026-03-30T03:37:58.821Z"
 status: "active"
 ---
 

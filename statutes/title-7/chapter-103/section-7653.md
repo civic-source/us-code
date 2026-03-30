@@ -3,9 +3,9 @@ title: "Section 7653 - Office of Pest Management Policy"
 usc_title: 7
 usc_section: "7653"
 chapter: 103
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 7653"
-generated_at: "2026-03-30T03:36:04.729Z"
+generated_at: "2026-03-30T03:37:54.928Z"
 status: "active"
 ---
 
@@ -20,4 +20,6 @@ status: "active"
 - **(c)** In support of its responsibilities under subsection (b) of this section, the Office of Pest Management Policy shall provide leadership to ensure coordination of interagency activities with the Environmental Protection Agency, the Food and Drug Administration, and other Federal and State agencies.
 - **(d)** The Office of Pest Management Policy shall consult with agricultural producers that may be affected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office’s responsibilities under this section.
 - **(e)** The Office of Pest Management Policy shall be under the direction of a Director appointed by the Secretary, who shall report directly to the Secretary or a designee of the Secretary.
-- **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
+- **(f)** There are authorized to be appropriated to carry out this section—
+  - **(1)** such sums as are necessary for each of fiscal years 1999 through 2013; and
+  - **(2)** $3,000,000 for each of fiscal years 2014 through 2018.

@@ -3,9 +3,9 @@ title: "Section 3115 - Local and regional participation"
 usc_title: 16
 usc_section: "3115"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 3115"
-generated_at: "2026-03-30T03:36:30.237Z"
+generated_at: "2026-03-30T03:38:15.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6011 - United States Park Police"
 usc_title: 16
 usc_section: "6011"
 chapter: 79
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 6011"
-generated_at: "2026-03-30T03:36:30.273Z"
+generated_at: "2026-03-30T03:38:15.787Z"
 status: "active"
 ---
 

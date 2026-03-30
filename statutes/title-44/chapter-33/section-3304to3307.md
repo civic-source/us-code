@@ -3,9 +3,9 @@ title: "Section 3304to3307 - Repealed. Pub. L. 91–287, § 2(c) , June 23, 1970
 usc_title: 44
 usc_section: "3304to3307"
 chapter: 33
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "44 U.S.C. § 3304to3307"
-generated_at: "2026-03-30T03:37:06.435Z"
+generated_at: "2026-03-30T03:38:48.357Z"
 status: "repealed"
 ---
 

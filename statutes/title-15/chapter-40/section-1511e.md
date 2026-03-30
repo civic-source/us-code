@@ -3,9 +3,9 @@ title: "Section 1511e - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 15
 usc_section: "1511e"
 chapter: 40
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1511e"
-generated_at: "2026-03-30T03:36:13.317Z"
+generated_at: "2026-03-30T03:38:06.034Z"
 status: "repealed"
 ---
 

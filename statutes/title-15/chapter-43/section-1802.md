@@ -3,9 +3,9 @@ title: "Section 1802 - Definitions"
 usc_title: 15
 usc_section: "1802"
 chapter: 43
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1802"
-generated_at: "2026-03-30T03:36:13.349Z"
+generated_at: "2026-03-30T03:38:06.060Z"
 status: "active"
 ---
 

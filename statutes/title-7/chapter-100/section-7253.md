@@ -3,9 +3,9 @@ title: "Section 7253 - Consolidation and reform of Federal milk marketing orders
 usc_title: 7
 usc_section: "7253"
 chapter: 100
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 7253"
-generated_at: "2026-03-30T03:36:04.719Z"
+generated_at: "2026-03-30T03:37:54.919Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The Secretary shall amend Federal milk marketing orders issued under section 608c of this title to limit the number of Federal milk marketing orders to not less than 10 and not more than 14 orders.
-  - **(2)** Upon the petition and approval of California dairy producers in the manner provided in section 608c of this title , the Secretary shall designate the State of California as a separate Federal milk marketing order. The order covering California shall have the right to reblend and distribute order receipts to recognize quota value.
+  - **(2)** Upon the petition and approval of California dairy producers in the manner provided in section 608c of this title , the Secretary shall designate the State of California as a separate Federal milk marketing order. The order covering California shall have the right to reblend and distribute order receipts to recognize quota value. Subsection (b) does not apply to the authority of the Secretary under this subsection.
   - **(3)** Among the issues the Secretary is authorized to implement as part of the consolidation of Federal milk marketing orders are the following:
     - **(A)** The use of utilization rates and multiple basing points for the pricing of fluid milk.
     - **(B)** The use of uniform multiple component pricing when developing 1 or more basic formula prices for manufacturing milk.

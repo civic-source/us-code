@@ -3,15 +3,15 @@ title: "Section 436 - Funding-based limits on benefits and benefit accruals unde
 usc_title: 26
 usc_section: "436"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-30T03:36:52.285Z"
+generated_at: "2026-03-30T03:38:35.969Z"
 status: "active"
 ---
 
 # § 436. Funding-based limits on benefits and benefit accruals under single-employer plans
 
-- **(a)** For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
+- **(a)** For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 - **(b)**
   - **(1)** If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
     - **(A)** is less than 60 percent, or

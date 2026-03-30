@@ -3,9 +3,9 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-03-30T03:37:23.923Z"
+generated_at: "2026-03-30T03:39:05.884Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
     - **(D)** does not impose any limitation on membership in the society based on any health status-related factor.
   - **(4)** Under regulations of the Secretary, in the case of individuals enrolled under this part under a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
 - **(f)**
-  - **(1)** In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2016 , the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+  - **(1)** In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2017 , the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
   - **(2)** In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(i), the applicable requirements described in this paragraph are as follows:
     - **(A)** Each individual that enrolls in the plan on or after January 1, 2010 , is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individual requires an institutional level of care was made—
       - **(i)** using a State assessment tool of the State in which the individual resides; and

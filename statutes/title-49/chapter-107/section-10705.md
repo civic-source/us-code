@@ -3,9 +3,9 @@ title: "Section 10705 - Authority: through routes, joint classifications, rates,
 usc_title: 49
 usc_section: "10705"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "49 U.S.C. § 10705"
-generated_at: "2026-03-30T03:37:32.394Z"
+generated_at: "2026-03-30T03:39:18.817Z"
 status: "active"
 ---
 

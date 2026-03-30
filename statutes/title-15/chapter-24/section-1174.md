@@ -3,9 +3,9 @@ title: "Section 1174 - Labeling and marking of shipping packages"
 usc_title: 15
 usc_section: "1174"
 chapter: 24
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 1174"
-generated_at: "2026-03-30T03:36:13.305Z"
+generated_at: "2026-03-30T03:38:06.025Z"
 status: "active"
 ---
 

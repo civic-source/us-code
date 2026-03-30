@@ -3,9 +3,9 @@ title: "Section 248 - Freedom of access to clinic entrances"
 usc_title: 18
 usc_section: "248"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "18 U.S.C. § 248"
-generated_at: "2026-03-30T03:36:18.259Z"
+generated_at: "2026-03-30T03:38:09.904Z"
 status: "active"
 ---
 

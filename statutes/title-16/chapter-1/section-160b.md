@@ -3,9 +3,9 @@ title: "Section 160b - Acquisition of lands; lands outside of boundaries; transf
 usc_title: 16
 usc_section: "160b"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 160b"
-generated_at: "2026-03-30T03:36:30.020Z"
+generated_at: "2026-03-30T03:38:15.552Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7402 - Definitions"
 usc_title: 15
 usc_section: "7402"
 chapter: 100
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 7402"
-generated_at: "2026-03-30T03:36:13.435Z"
+generated_at: "2026-03-30T03:38:06.121Z"
 status: "active"
 ---
 

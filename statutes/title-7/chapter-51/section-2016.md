@@ -3,16 +3,16 @@ title: "Section 2016 - Issuance and use of program benefits"
 usc_title: 7
 usc_section: "2016"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2016"
-generated_at: "2026-03-30T03:36:04.655Z"
+generated_at: "2026-03-30T03:37:54.862Z"
 status: "active"
 ---
 
 # § 2016. Issuance and use of program benefits
 
 - **(a)** Except as provided in subsection (i), EBT cards shall be issued only to households which have been duly certified as eligible to participate in the supplemental nutrition assistance program.
-- **(b)** Benefits issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the supplemental nutrition assistance program at prices prevailing in such stores: Provided , That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores.
+- **(b)** Benefits issued to eligible households shall be used by them only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program at prices prevailing in such stores: Provided , That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores.
 - **(c)**
   - **(1)** EBT cards issued to eligible households shall be simple in design and shall include only such words or illustrations as are required to explain their purpose.
   - **(2)** The name of any public official shall not appear on any EBT card.
@@ -20,13 +20,26 @@ status: "active"
 - **(e)** Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
 - **(f)**
   - **(1)** If the Secretary determines, in consultation with the Inspector General of the Department of Agriculture, that it would improve the integrity of the supplemental nutrition assistance program, the Secretary shall require a State agency to issue or deliver benefits using alternative methods.
-  - **(2)** The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B), the Secretary shall require participating retail food stores (including restaurants participating in a State option restaurant program intended to serve the elderly, disabled, and homeless) to pay 100 percent of the costs of acquiring, and arrange for the implementation of, electronic benefit transfer point-of-sale equipment and supplies, including related services.
+    - **(B)** The Secretary may exempt from subparagraph (A)—
+      - **(i)** farmers’ markets and other direct-to-consumer markets, military commissaries, nonprofit food buying cooperatives, and establishments, organizations, programs, or group living arrangements described in paragraphs (5), (7), and (8) of section 2012(k) of this title ; and
+      - **(ii)** establishments described in paragraphs (3), (4), and (9) of section 2012(k) of this title , other than restaurants participating in a State option restaurant program.
+    - **(C)** Nothing in this paragraph permits the charging of fees relating to the redemption of supplemental nutrition assistance program benefits, in accordance with subsection (h)(13).
   - **(3)**
     - **(A)** Effective on the date of enactment of the Food, Conservation, and Energy Act of 2008, no State shall issue any coupon, stamp, certificate, or authorization card to a household that receives supplemental nutrition assistance under this chapter.
     - **(B)** Effective beginning on the date that is 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
     - **(C)** Coupons not redeemed during the 1-year period beginning on the date of enactment of the Food, Conservation, and Energy Act of 2008 shall—
       - **(i)** no longer be an obligation of the Federal Government; and
       - **(ii)** not be redeemable.
+  - **(4)**
+    - **(A)** Effective beginning on February 7, 2014 , except as provided in subparagraph (B), no State shall issue manual vouchers to a household that receives supplemental nutrition assistance under this chapter or allow retail food stores to accept manual vouchers as payment, unless the Secretary determines that the manual vouchers are necessary, such as in the event of an electronic benefit transfer system failure or a disaster situation.
+    - **(B)** The Secretary may exempt categories of retail food stores or individual retail food stores from subparagraph (A) based on criteria established by the Secretary.
+  - **(5)**
+    - **(A)** To enhance the anti-fraud protections of the program, the Secretary shall require all parties providing electronic benefit transfer services to provide for and maintain unique terminal identification number information through the supplemental nutrition assistance program electronic benefit transfer transaction routing system.
+    - **(B)**
+      - **(i)** Not earlier than 2 years after February 7, 2014 , the Secretary shall issue proposed regulations to carry out this paragraph.
+      - **(ii)** In issuing regulations to carry out this paragraph, the Secretary shall consider existing commercial practices for other point-of-sale debit transactions.
 - **(g)**
   - **(1)** The State agency may establish a procedure for staggering the issuance of benefits to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
   - **(2)**
@@ -48,7 +61,9 @@ status: "active"
     - **(B)** the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
     - **(C)**
       - **(i)** measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
-      - **(ii)** effective not later than 2 years after August 22, 1996 , to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;
+      - **(ii)** unless determined by the Secretary to be located in an area with significantly limited access to food, measures that require an electronic benefit transfer system—
+        - **(I)** to set and enforce sales restrictions based on benefit transfer payment eligibility by using scanning or product lookup entry; and
+        - **(II)** to deny benefit tenders for manually entered sales of ineligible items.
     - **(D)** system transaction interchange, reliability, and processing speeds;
     - **(E)** financial accountability;
     - **(F)** the required testing of system operations prior to implementation;
@@ -56,14 +71,21 @@ status: "active"
     - **(H)** procurement standards.
   - **(3)** In the case of a system described in paragraph (1) in which participation is not optional for households, the Secretary shall not approve such a system unless—
     - **(A)** a sufficient number of eligible retail food stores, including those stores able to serve minority language populations, have agreed to participate in the system throughout the area in which it will operate to ensure that eligible households will not suffer a significant reduction in their choice of retail food stores or a significant increase in the cost of food or transportation to participating food stores; and
-    - **(B)** any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational—
-      - **(i)** in the case of a participating retail food store in which coupons are used to purchase 15 percent or more of the total dollar amount of food sold by the store (as determined by the Secretary), at all registers in the store; and
-      - **(ii)** in the case of other participating stores, at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of households receiving supplemental nutrition assistance program benefits, as determined by the Secretary.
+    - **(B)** any special equipment necessary to allow households to purchase food with the benefits issued under this chapter is operational at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of households receiving supplemental nutrition assistance program benefits, as determined by the Secretary.
   - **(4)** Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title , subject to the limitations in section 2025(g) of this title .
   - **(5)** The Secretary shall periodically inform State agencies of the advantages of using electronic benefit systems to issue benefits in accordance with this subsection in lieu of issuing coupons to households.
   - **(6)** This subsection shall not diminish the authority of the Secretary to conduct projects to test automated or electronic benefit delivery systems under section 2026(f) of this title .
   - **(7)** Regulations issued by the Secretary regarding the replacement of benefits and liability for replacement of benefits under an electronic benefit transfer system shall be similar to the regulations in effect for a paper-based supplemental nutrition assistance issuance system.
-  - **(8)** A State agency may collect a charge for replacement of an electronic benefit transfer card by reducing the monthly allotment of the household receiving the replacement card.
+  - **(8)**
+    - **(A)** A State agency may collect a charge for replacement of an electronic benefit transfer card by reducing the monthly allotment of the household receiving the replacement card.
+    - **(B)**
+      - **(i)** Subject to terms and conditions established by the Secretary in accordance with clause (ii), if a household makes excessive requests for replacement of the electronic benefit transfer card of the household, the Secretary may require a State agency to decline to issue a replacement card to the household unless the household, upon request of the State agency, provides an explanation for the loss of the card.
+      - **(ii)** The terms and conditions established by the Secretary shall provide that—
+        - **(I)** the household be given the opportunity to provide the requested explanation and meet the requirements under this paragraph promptly;
+        - **(II)** after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnel authorized to make determinations under section 2014(a) of this title ; and
+        - **(III)** any action taken, including actions required under section 2015(b)(2) of this title , other than the withholding of the electronic benefit transfer card until an explanation described in subclause (I) is provided, shall be consistent with the due process protections under section 2015(b) or 2020(e)(10) of this title, as appropriate.
+    - **(C)** In implementing this paragraph, a State agency shall act to protect homeless persons, persons with disabilities, victims of crimes, and other vulnerable persons who lose electronic benefit transfer cards but are not intentionally committing fraud.
+    - **(D)** While a State may decline to issue an electronic benefits transfer card until a household satisfies the requirements under this paragraph, nothing in this paragraph shall be considered a denial of, or limitation on, the eligibility for benefits under section 2014 of this title .
   - **(9)**
     - **(A)** A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
     - **(B)** If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
@@ -88,7 +110,25 @@ status: "active"
     - **(D)** A State agency shall—
       - **(i)** send notice to a household the benefits of which are stored under subparagraph (B); and
       - **(ii)** not later than 48 hours after request by the household, make the stored benefits available to the household.
-  - **(12)** No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
+  - **(13)** No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
+  - **(14)**
+    - **(A)** Subject to subparagraph (B), the Secretary shall approve retail food stores to redeem benefits through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if the retail food stores—
+      - **(i)** establish recipient protections regarding privacy, ease of use, access, and support similar to the protections provided for transactions made in retail food stores;
+      - **(ii)** bear the costs of obtaining, installing, and maintaining mobile technologies, including mechanisms needed to process EBT cards and transaction fees;
+      - **(iii)** demonstrate the foods purchased with benefits issued under this section through mobile technologies are purchased at a price not higher than the price of the same food purchased by other methods used by the retail food store, as determined by the Secretary;
+      - **(iv)** provide adequate documentation for each authorized transaction, as determined by the Secretary; and
+      - **(v)** meet other criteria as established by the Secretary.
+    - **(B)**
+      - **(i)** Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.
+      - **(ii)** To be eligible to participate in a demonstration project under clause (i), a retail food store shall submit to the Secretary for approval a plan that includes—
+        - **(I)** a description of the technology;
+        - **(II)** the manner by which the retail food store will provide proof of the transaction to households;
+        - **(III)** the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
+        - **(IV)** such other criteria as the Secretary may require.
+      - **(iii)** The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016 .
+    - **(C)** The Secretary shall—
+      - **(i)** by not later than January 1, 2017 , authorize implementation of subparagraph (A) in all States, unless the Secretary makes a finding, based on the data provided under subparagraph (B), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
+      - **(ii)** if the determination made in clause (i) is not to implement subparagraph (A) in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.
 - **(i)**
   - **(1)** Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the supplemental nutrition assistance program solely as a result of section 2015( o )(2) of this title or section 1612 or 1613 of title 8.
   - **(2)**
@@ -132,3 +172,27 @@ status: "active"
       - **(i)** incurred after February 11, 2000 , and before October 1, 2002 , if the State agency uses the standard of interoperability and portability adopted by a majority of State agencies; and
       - **(ii)** incurred after September 30, 2002 , if the State agency uses the uniform national standard of interoperability and portability adopted under paragraph (4)(A).
     - **(B)** The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
+- **(k)**
+  - **(1)** Subject to paragraph (4), the Secretary shall approve retail food stores to accept benefits from recipients of supplemental nutrition assistance through on-line transactions.
+  - **(2)** A retail food store seeking to accept benefits from recipients of supplemental nutrition assistance through on-line transactions shall—
+    - **(A)** establish recipient protections regarding privacy, ease of use, access, and support similar to the protections provided for transactions made in retail food stores;
+    - **(B)** ensure benefits are not used to pay delivery, ordering, convenience, or other fees or charges;
+    - **(C)** clearly notify participating households at the time a food order is placed—
+      - **(i)** of any delivery, ordering, convenience, or other fee or charge associated with the food purchase; and
+      - **(ii)** that any such fee cannot be paid with benefits provided under this chapter;
+    - **(D)** ensure the security of on-line transactions by using the most effective technology available that the Secretary considers appropriate and cost-effective and that is comparable to the security of transactions at retail food stores; and
+    - **(E)** meet other criteria as established by the Secretary.
+  - **(3)** Each State agency shall ensure that recipients of supplemental nutrition assistance can use benefits on-line as described in this subsection as appropriate.
+  - **(4)**
+    - **(A)** Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out a number of demonstration projects as determined by the Secretary to test the feasibility of allowing retail food stores to accept benefits through on-line transactions.
+    - **(B)** To be eligible to participate in a demonstration project under subparagraph (A), a retail food store shall submit to the Secretary for approval a plan that includes—
+      - **(i)** a method of ensuring that benefits may be used to purchase only eligible items under this chapter;
+      - **(ii)** a description of the method of educating participant households about the availability and operation of on-line purchasing;
+      - **(iii)** adequate testing of the on-line purchasing option prior to implementation;
+      - **(iv)** the provision of data as requested by the Secretary for purposes of analyzing the impact of the project on participant access, ease of use, and program integrity;
+      - **(v)** reports on progress, challenges, and results, as determined by the Secretary; and
+      - **(vi)** such other criteria, including security criteria, as established by the Secretary.
+    - **(C)** The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016 .
+  - **(5)** The Secretary shall—
+    - **(A)** by not later than January 1, 2017 , authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
+    - **(B)** if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.

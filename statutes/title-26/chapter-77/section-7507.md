@@ -3,9 +3,9 @@ title: "Section 7507 - Exemption of insolvent banks from tax"
 usc_title: 26
 usc_section: "7507"
 chapter: 77
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "26 U.S.C. § 7507"
-generated_at: "2026-03-30T03:36:52.458Z"
+generated_at: "2026-03-30T03:38:36.215Z"
 status: "active"
 ---
 

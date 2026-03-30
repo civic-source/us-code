@@ -3,9 +3,9 @@ title: "Section 554 - Disposition of payment on death of Indian"
 usc_title: 25
 usc_section: "554"
 chapter: 14
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 554"
-generated_at: "2026-03-30T03:36:34.716Z"
+generated_at: "2026-03-30T03:38:23.425Z"
 status: "active"
 ---
 

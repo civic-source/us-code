@@ -3,9 +3,9 @@ title: "Section 129 - Prohibition of certain civilian personnel management const
 usc_title: 10
 usc_section: "129"
 chapter: 3
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 129"
-generated_at: "2026-03-30T03:36:02.425Z"
+generated_at: "2026-03-30T03:37:58.748Z"
 status: "active"
 ---
 

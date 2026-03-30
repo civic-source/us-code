@@ -3,9 +3,9 @@ title: "Section 1501 - Short title and application of other provisions"
 usc_title: 7
 usc_section: "1501"
 chapter: 36
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1501"
-generated_at: "2026-03-30T03:36:04.614Z"
+generated_at: "2026-03-30T03:37:54.825Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 1359bb - Flexible marketing allotments for sugar"
 usc_title: 7
 usc_section: "1359bb"
 chapter: 35
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1359bb"
-generated_at: "2026-03-30T03:36:04.604Z"
+generated_at: "2026-03-30T03:37:54.817Z"
 status: "active"
 ---
 
 # § 1359bb. Flexible marketing allotments for sugar
 
 - **(a)**
-  - **(1)** Not later than August 1 before the beginning of each of the 2008 through 2012 crop years for sugarcane and sugar beets, the Secretary shall estimate—
+  - **(1)** Not later than August 1 before the beginning of each of the 2008 through 2018 crop years for sugarcane and sugar beets, the Secretary shall estimate—
     - **(A)** the quantity of sugar that will be subject to human consumption in the United States during the crop year;
     - **(B)** the quantity of sugar that would provide for reasonable carryover stocks;
     - **(C)** the quantity of sugar that will be available from carry-in stocks for human consumption in the United States during the crop year;

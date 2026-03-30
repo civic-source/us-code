@@ -3,9 +3,9 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-30T03:37:23.656Z"
+generated_at: "2026-03-30T03:39:05.614Z"
 status: "active"
 ---
 
@@ -27,7 +27,9 @@ status: "active"
         - **(I)** require as appropriate that proposals include milestones and goals for the research;
         - **(II)** require that the proposals include timeframes for funding of the research; and
         - **(III)** ensure appropriate consideration of proposals for which the principal investigator is an individual who has not previously served as the principal investigator of research conducted or supported by the National Institutes of Health;
-    - **(B)** may, with respect to funds reserved under section 282a(c)(1) of this title for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
+    - **(B)**
+      - **(i)** may, with respect to funds reserved under section 282a(c)(1) of this title for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
+      - **(ii)** shall, with respect to funds appropriated to the Common Fund pursuant to section 282a(a)(2) of this title , allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
     - **(C)** may assign additional functions to the Division in support of responsibilities identified in subparagraph (A), as determined appropriate by the Director;
   - **(8)** shall, in coordination with the heads of the national research institutes and national centers, ensure that such institutes and centers—
     - **(A)** preserve an emphasis on investigator-initiated research project grants, including with respect to research involving collaboration between 2 or more such institutes or centers; and

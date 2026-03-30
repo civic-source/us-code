@@ -3,9 +3,9 @@ title: "Section 321to325 - Omitted"
 usc_title: 30
 usc_section: "321to325"
 chapter: 6
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "30 U.S.C. § 321to325"
-generated_at: "2026-03-30T03:36:42.952Z"
+generated_at: "2026-03-30T03:38:25.668Z"
 status: "omitted"
 ---
 

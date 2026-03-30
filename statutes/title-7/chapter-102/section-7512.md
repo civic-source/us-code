@@ -3,9 +3,9 @@ title: "Section 7512 - Regulations"
 usc_title: 7
 usc_section: "7512"
 chapter: 102
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 7512"
-generated_at: "2026-03-30T03:36:04.727Z"
+generated_at: "2026-03-30T03:37:54.926Z"
 status: "active"
 ---
 

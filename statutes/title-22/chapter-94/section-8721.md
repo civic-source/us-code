@@ -3,9 +3,9 @@ title: "Section 8721 - Imposition of sanctions with respect to the provision of 
 usc_title: 22
 usc_section: "8721"
 chapter: 94
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 8721"
-generated_at: "2026-03-30T03:36:39.993Z"
+generated_at: "2026-03-30T03:38:22.328Z"
 status: "active"
 ---
 

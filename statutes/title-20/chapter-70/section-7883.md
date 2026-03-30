@@ -3,9 +3,9 @@ title: "Section 7883 - Complaint process for participation of private school chi
 usc_title: 20
 usc_section: "7883"
 chapter: 70
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 7883"
-generated_at: "2026-03-30T03:36:22.949Z"
+generated_at: "2026-03-30T03:38:12.903Z"
 status: "active"
 ---
 

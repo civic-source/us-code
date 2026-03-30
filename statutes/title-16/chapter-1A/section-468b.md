@@ -3,9 +3,9 @@ title: "Section 468b - Administration of National Trust; composition of board of
 usc_title: 16
 usc_section: "468b"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 468b"
-generated_at: "2026-03-30T03:36:30.108Z"
+generated_at: "2026-03-30T03:38:15.634Z"
 status: "active"
 ---
 

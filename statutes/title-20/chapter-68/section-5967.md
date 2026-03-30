@@ -3,9 +3,9 @@ title: "Section 5967 - Reports"
 usc_title: 20
 usc_section: "5967"
 chapter: 68
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 5967"
-generated_at: "2026-03-30T03:36:22.885Z"
+generated_at: "2026-03-30T03:38:12.856Z"
 status: "active"
 ---
 

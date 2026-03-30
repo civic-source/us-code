@@ -3,9 +3,9 @@ title: "Section 688to700 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oc
 usc_title: 43
 usc_section: "688to700"
 chapter: 16
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 688to700"
-generated_at: "2026-03-30T03:37:08.084Z"
+generated_at: "2026-03-30T03:38:49.739Z"
 status: "repealed"
 ---
 

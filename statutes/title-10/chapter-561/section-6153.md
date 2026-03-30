@@ -3,9 +3,9 @@ title: "Section 6153 - Shore patrol duty: payment of expenses"
 usc_title: 10
 usc_section: "6153"
 chapter: 561
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 6153"
-generated_at: "2026-03-30T03:36:02.551Z"
+generated_at: "2026-03-30T03:37:58.868Z"
 status: "active"
 ---
 

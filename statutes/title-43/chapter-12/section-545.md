@@ -3,9 +3,9 @@ title: "Section 545 - Appointment of agents to receive payments; record of payme
 usc_title: 43
 usc_section: "545"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "43 U.S.C. § 545"
-generated_at: "2026-03-30T03:37:08.074Z"
+generated_at: "2026-03-30T03:38:49.731Z"
 status: "active"
 ---
 

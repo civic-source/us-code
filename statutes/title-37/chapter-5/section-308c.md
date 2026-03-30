@@ -3,9 +3,9 @@ title: "Section 308c - Special pay: bonus for affiliation or enlistment in the S
 usc_title: 37
 usc_section: "308c"
 chapter: 5
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "37 U.S.C. § 308c"
-generated_at: "2026-03-30T03:37:03.771Z"
+generated_at: "2026-03-30T03:38:43.099Z"
 status: "active"
 ---
 
@@ -23,4 +23,4 @@ status: "active"
 - **(f)** A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 - **(g)** A person who enters into an agreement under subsection (a) or (c) and receives all or part of the bonus under the agreement, but who does not commence to serve in the Selected Reserve or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(h)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
-- **(i)** No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2014 .
+- **(i)** No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2013 .

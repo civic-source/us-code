@@ -3,9 +3,9 @@ title: "Section 3077 - Definitions"
 usc_title: 18
 usc_section: "3077"
 chapter: 204
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "18 U.S.C. § 3077"
-generated_at: "2026-03-30T03:36:18.317Z"
+generated_at: "2026-03-30T03:38:09.947Z"
 status: "active"
 ---
 

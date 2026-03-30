@@ -3,9 +3,9 @@ title: "Section 1414 - Settlement of complaints"
 usc_title: 2
 usc_section: "1414"
 chapter: 24
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 1414"
-generated_at: "2026-03-30T03:35:51.736Z"
+generated_at: "2026-03-30T03:37:47.340Z"
 status: "active"
 ---
 

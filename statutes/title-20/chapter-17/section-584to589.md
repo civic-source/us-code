@@ -3,9 +3,9 @@ title: "Section 584to589 - Omitted"
 usc_title: 20
 usc_section: "584to589"
 chapter: 17
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 584to589"
-generated_at: "2026-03-30T03:36:22.733Z"
+generated_at: "2026-03-30T03:38:12.749Z"
 status: "omitted"
 ---
 

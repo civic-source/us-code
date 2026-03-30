@@ -3,9 +3,9 @@ title: "Section 559 - Arrests by employees of Forest Service for violations of l
 usc_title: 16
 usc_section: "559"
 chapter: 3
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 559"
-generated_at: "2026-03-30T03:36:30.129Z"
+generated_at: "2026-03-30T03:38:15.654Z"
 status: "active"
 ---
 

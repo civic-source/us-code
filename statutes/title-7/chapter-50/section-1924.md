@@ -3,9 +3,9 @@ title: "Section 1924 - Conservation loan and loan guarantee program"
 usc_title: 7
 usc_section: "1924"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1924"
-generated_at: "2026-03-30T03:36:04.635Z"
+generated_at: "2026-03-30T03:37:54.845Z"
 status: "active"
 ---
 
@@ -24,13 +24,15 @@ status: "active"
     - **(F)** compliance with section 3812 of title 16 ; and
     - **(G)** other purposes consistent with the plan, including the adoption of any other emerging or existing conservation practices, techniques, or technologies approved by the Secretary.
 - **(c)**
-  - **(1)** The Secretary may make or guarantee loans to farmers or ranchers in the United States, farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, or limited liability companies that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
-  - **(2)** To be eligible for a loan under this section, applicants shall meet the requirements in paragraphs (1) and (2) of section 1922(a) of this title .
+  - **(1)** The Secretary may make or guarantee loans to farmers or ranchers in the United States, farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, or such other legal entities as the Secretary considers appropriate that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
+  - **(2)** To be eligible for a loan under this section, applicants shall meet the requirements in subparagraphs (A) and (B) of section 1922(a)(1) of this title .
 - **(d)** In making or guaranteeing loans under this section, the Secretary shall give priority to—
   - **(1)** qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers;
   - **(2)** owners or tenants who use the loans to convert to sustainable or organic agricultural production systems; and
   - **(3)** producers who use the loans to build conservation structures or establish conservation practices to comply with section 3812 of title 16 .
-- **(e)** The portion of a loan that the Secretary may guarantee under this section shall be 75 percent of the principal amount of the loan.
+- **(e)** The portion of a loan that the Secretary may guarantee under this section shall be—
+  - **(1)** 80 percent of the principal amount of the loan; or
+  - **(2)** in the case of a producer that is a qualified socially disadvantaged farmer or rancher or a beginning farmer or rancher, 90 percent of the principal amount of the loan.
 - **(f)** The Secretary shall ensure, to the maximum extent practicable, that loans made or guaranteed under this section are distributed across diverse geographic regions.
 - **(g)** The provisions of paragraphs (1) and (3) of section 1983 of this title shall not apply to loans made or guaranteed under this section.
-- **(h)** For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section.
+- **(h)** There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2018.

@@ -3,9 +3,9 @@ title: "Section 1 - Products produced in distinct geographic areas"
 usc_title: 7
 usc_section: "1"
 chapter: 20
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T03:36:04.582Z"
+generated_at: "2026-03-30T03:37:54.799Z"
 status: "active"
 ---
 

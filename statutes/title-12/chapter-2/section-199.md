@@ -3,9 +3,9 @@ title: "Section 199 - Approval of request"
 usc_title: 12
 usc_section: "199"
 chapter: 2
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 199"
-generated_at: "2026-03-30T03:36:10.597Z"
+generated_at: "2026-03-30T03:38:03.835Z"
 status: "active"
 ---
 

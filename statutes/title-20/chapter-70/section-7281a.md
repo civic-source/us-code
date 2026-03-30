@@ -3,9 +3,9 @@ title: "Section 7281a - Eligibility"
 usc_title: 20
 usc_section: "7281a"
 chapter: 70
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 7281a"
-generated_at: "2026-03-30T03:36:22.933Z"
+generated_at: "2026-03-30T03:38:12.891Z"
 status: "active"
 ---
 

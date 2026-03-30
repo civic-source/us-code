@@ -3,9 +3,9 @@ title: "Section 4805 - Call report simplification"
 usc_title: 12
 usc_section: "4805"
 chapter: 48
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 4805"
-generated_at: "2026-03-30T03:36:10.739Z"
+generated_at: "2026-03-30T03:38:03.963Z"
 status: "active"
 ---
 

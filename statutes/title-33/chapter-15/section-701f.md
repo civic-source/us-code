@@ -3,9 +3,9 @@ title: "Section 701f - Authorization of appropriations"
 usc_title: 33
 usc_section: "701f"
 chapter: 15
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 701f"
-generated_at: "2026-03-30T03:36:55.413Z"
+generated_at: "2026-03-30T03:38:40.678Z"
 status: "active"
 ---
 

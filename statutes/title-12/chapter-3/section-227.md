@@ -3,9 +3,9 @@ title: "Section 227 - “Banking Act of 1933”"
 usc_title: 12
 usc_section: "227"
 chapter: 3
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 227"
-generated_at: "2026-03-30T03:36:10.598Z"
+generated_at: "2026-03-30T03:38:03.838Z"
 status: "active"
 ---
 

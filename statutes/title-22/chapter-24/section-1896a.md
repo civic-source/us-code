@@ -3,9 +3,9 @@ title: "Section 1896a - Restriction on commitments for technical assistance"
 usc_title: 22
 usc_section: "1896a"
 chapter: 24
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 1896a"
-generated_at: "2026-03-30T03:36:39.836Z"
+generated_at: "2026-03-30T03:38:22.214Z"
 status: "active"
 ---
 

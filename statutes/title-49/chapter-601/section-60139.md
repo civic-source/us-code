@@ -3,9 +3,9 @@ title: "Section 60139 - Maximum allowable operating pressure"
 usc_title: 49
 usc_section: "60139"
 chapter: 601
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "49 U.S.C. § 60139"
-generated_at: "2026-03-30T03:37:32.501Z"
+generated_at: "2026-03-30T03:39:18.917Z"
 status: "active"
 ---
 

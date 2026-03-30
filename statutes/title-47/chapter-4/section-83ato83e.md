@@ -3,9 +3,9 @@ title: "Section 83ato83e - Omitted"
 usc_title: 47
 usc_section: "83ato83e"
 chapter: 4
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "47 U.S.C. § 83ato83e"
-generated_at: "2026-03-30T03:37:28.034Z"
+generated_at: "2026-03-30T03:39:11.205Z"
 status: "omitted"
 ---
 

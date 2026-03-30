@@ -3,9 +3,9 @@ title: "Section 2445b - Cost, schedule, and performance information"
 usc_title: 10
 usc_section: "2445b"
 chapter: 144
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2445b"
-generated_at: "2026-03-30T03:36:02.516Z"
+generated_at: "2026-03-30T03:37:58.835Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The documents submitted under subsection (a) with respect to a major automated information system program shall include detailed and summarized information with respect to the automated information system to be acquired under the program, and shall specifically include each of the following:
   - **(1)** The development schedule, including major milestones.
   - **(2)** The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
-  - **(3)** Estimates of total acquisition costs and full life-cycle costs.
+  - **(3)** Estimates of development costs and full life-cycle costs.
   - **(4)** A summary of key performance parameters.
   - **(5)** For each major automated information system program for which such information has not been provided in a previous annual report—
     - **(A)** a description of the business case analysis (if any) that has been prepared for the program and key functional requirements for the program;

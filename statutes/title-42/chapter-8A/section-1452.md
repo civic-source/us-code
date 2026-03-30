@@ -3,9 +3,9 @@ title: "Section 1452 - Omitted"
 usc_title: 42
 usc_section: "1452"
 chapter: 8
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1452"
-generated_at: "2026-03-30T03:37:24.055Z"
+generated_at: "2026-03-30T03:39:06.018Z"
 status: "omitted"
 ---
 

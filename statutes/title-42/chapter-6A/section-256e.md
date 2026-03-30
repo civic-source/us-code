@@ -3,15 +3,15 @@ title: "Section 256e - Program of payments to children’s hospitals that operat
 usc_title: 42
 usc_section: "256e"
 chapter: 6
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 256e"
-generated_at: "2026-03-30T03:37:23.633Z"
+generated_at: "2026-03-30T03:39:05.593Z"
 status: "active"
 ---
 
 # § 256e. Program of payments to children’s hospitals that operate graduate medical education programs
 
-- **(a)** The Secretary shall make two payments under this section to each children’s hospital for each of fiscal years 2000 through 2005 and each of fiscal years 2007 through 2011, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+- **(a)** The Secretary shall make two payments under this section to each children’s hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 - **(b)**
   - **(1)** Subject to paragraphs (2) and (3), the amounts payable under this section to a children’s hospital for an approved graduate medical residency training program for a fiscal year are each of the following amounts:
     - **(A)** The amount determined under subsection (c) of this section for direct expenses associated with operating approved graduate medical residency training programs.
@@ -36,7 +36,7 @@ status: "active"
     - **(C)** The residents described in this subparagraph are those who—
       - **(i)** are in full-time equivalent resident training positions in any training program sponsored by the hospital; or
       - **(ii)** are in a training program sponsored by an entity other than the hospital, but who spend more than 75 percent of their training time at the hospital.
-    - **(D)** Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+    - **(D)** Not later than the end of fiscal year 2018, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
       - **(i)** summarizing the information submitted in reports to the Secretary under subparagraph (B);
       - **(ii)** describing the results of the program carried out under this section; and
       - **(iii)** making recommendations for improvements to the program.
@@ -71,15 +71,32 @@ status: "active"
     - **(A)** There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(A) of this section—
       - **(i)** for fiscal year 2000, $90,000,000;
       - **(ii)** for fiscal year 2001, $95,000,000;
-      - **(iii)** for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
-      - **(iv)** for each of fiscal years 2007 through 2011, $110,000,000.
+      - **(iii)** for each of the fiscal years 2002 through 2005, such sums as may be necessary;
+      - **(iv)** for each of fiscal years 2007 through 2011, $110,000,000; and
+      - **(v)** for each of fiscal years 2014 through 2018, $100,000,000.
     - **(B)** The amounts appropriated under subparagraph (A) for fiscal year 2000 shall remain available for obligation through the end of fiscal year 2001.
   - **(2)** There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B) of this section—
     - **(A)** for fiscal year 2000, $190,000,000;
     - **(B)** for fiscal year 2001, $190,000,000;
-    - **(C)** for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
-    - **(D)** for each of fiscal years 2007 through 2011, $220,000,000.
+    - **(C)** for each of the fiscal years 2002 through 2005, such sums as may be necessary;
+    - **(D)** for each of fiscal years 2007 through 2011, $220,000,000; and
+    - **(E)** for each of fiscal years 2014 through 2018, $200,000,000.
 - **(g)** In this section:
   - **(1)** The term “approved graduate medical residency training program” has the meaning given the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title .
   - **(2)** The term “children’s hospital” means a hospital with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations.
   - **(3)** The term “direct graduate medical education costs” has the meaning given such term in section 1395ww(h)(5)(C) of this title .
+- **(h)**
+  - **(1)** The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
+  - **(2)**
+    - **(A)** To qualify to receive payments under paragraph (1), a hospital shall be a free-standing hospital—
+      - **(i)** with a Medicare payment agreement and that is excluded from the Medicare inpatient hospital prospective payment system pursuant to section 1395ww(d)(1)(B) of this title and its accompanying regulations;
+      - **(ii)** whose inpatients are predominantly individuals under 18 years of age;
+      - **(iii)** that has an approved medical residency training program as defined in section 1395ww(h)(5)(A) of this title ; and
+      - **(iv)** that is not otherwise qualified to receive payments under this section or section 1395ww(h) of this title .
+    - **(B)** In the case of a freestanding children’s hospital that, on April 7, 2014 , meets the requirements of subparagraph (A) but for which the Secretary has not determined an average number of full-time equivalent residents under section 1395ww(h)(4) of this title , the Secretary may establish such number of full-time equivalent residents for the purposes of calculating payments under this subsection.
+  - **(3)** Payments to hospitals made under this subsection shall be made in the same manner as payments are made to children’s hospitals, as described in subsections (b) through (e).
+  - **(4)** The direct and indirect payment amounts under this subsection shall be determined using per resident amounts that are no greater than the per resident amounts used for determining direct and indirect payment amounts under subsection (a).
+  - **(5)** A hospital receiving payments under this subsection shall be subject to the reporting requirements under subsection (b)(3).
+  - **(6)**
+    - **(A)** If the payments to qualified hospitals under paragraph (1) for a fiscal year are less than the total amount made available under such paragraph for that fiscal year, any remaining amounts for such fiscal year may be made available to all hospitals participating in the program under this subsection or subsection (a).
+    - **(B)** For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.

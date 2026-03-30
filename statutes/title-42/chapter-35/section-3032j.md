@@ -3,9 +3,9 @@ title: "Section 3032j - Ombudsman and advocacy demonstration projects"
 usc_title: 42
 usc_section: "3032j"
 chapter: 35
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 3032j"
-generated_at: "2026-03-30T03:37:24.176Z"
+generated_at: "2026-03-30T03:39:06.135Z"
 status: "active"
 ---
 

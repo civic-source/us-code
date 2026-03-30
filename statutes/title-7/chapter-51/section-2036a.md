@@ -3,9 +3,9 @@ title: "Section 2036a - Nutrition education and obesity prevention grant program
 usc_title: 7
 usc_section: "2036a"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2036a"
-generated_at: "2026-03-30T03:36:04.662Z"
+generated_at: "2026-03-30T03:37:54.868Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(C)** section 1773(e)(1)(A) of title 42 ;
   - **(2)** an individual who resides in a community with a significant low-income population, as determined by the Secretary; or
   - **(3)** such other low-income individual as is determined to be eligible by the Secretary.
-- **(b)** Consistent with the terms and conditions of grants awarded under this section, State agencies may implement a nutrition education and obesity prevention program for eligible individuals that promotes healthy food choices consistent with the most recent Dietary Guidelines for Americans published under section 5341 of this title .
+- **(b)** Consistent with the terms and conditions of grants awarded under this section, State agencies may implement a nutrition education and obesity prevention program for eligible individuals that promotes healthy food choices and physical activity consistent with the most recent Dietary Guidelines for Americans published under section 5341 of this title .
 - **(c)**
   - **(1)** State agencies may deliver nutrition education and obesity prevention services under a program described in subsection (b)—
     - **(A)** directly to eligible individuals; or

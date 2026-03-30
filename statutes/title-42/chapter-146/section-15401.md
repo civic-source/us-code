@@ -3,9 +3,9 @@ title: "Section 15401 - Requirements payments"
 usc_title: 42
 usc_section: "15401"
 chapter: 146
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15401"
-generated_at: "2026-03-30T03:37:24.607Z"
+generated_at: "2026-03-30T03:39:06.551Z"
 status: "active"
 ---
 

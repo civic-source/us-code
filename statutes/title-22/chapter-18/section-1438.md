@@ -3,9 +3,9 @@ title: "Section 1438 - Veterans’ preference"
 usc_title: 22
 usc_section: "1438"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 1438"
-generated_at: "2026-03-30T03:36:39.825Z"
+generated_at: "2026-03-30T03:38:22.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6633 - Applications"
 usc_title: 20
 usc_section: "6633"
 chapter: 70
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 6633"
-generated_at: "2026-03-30T03:36:22.908Z"
+generated_at: "2026-03-30T03:38:12.873Z"
 status: "active"
 ---
 

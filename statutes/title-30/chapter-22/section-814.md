@@ -3,9 +3,9 @@ title: "Section 814 - Citations and orders"
 usc_title: 30
 usc_section: "814"
 chapter: 22
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "30 U.S.C. § 814"
-generated_at: "2026-03-30T03:36:42.959Z"
+generated_at: "2026-03-30T03:38:25.672Z"
 status: "active"
 ---
 

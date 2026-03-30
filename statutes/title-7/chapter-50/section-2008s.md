@@ -3,9 +3,9 @@ title: "Section 2008s - Rural microentrepreneur assistance program"
 usc_title: 7
 usc_section: "2008s"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2008s"
-generated_at: "2026-03-30T03:36:04.646Z"
+generated_at: "2026-03-30T03:37:54.854Z"
 status: "active"
 ---
 
@@ -67,6 +67,7 @@ status: "active"
   - **(2)** At a minimum, not later than December 1 of each fiscal year, a microenterprise development organization that receives a loan or grant under this section shall provide to the Secretary such information as the Secretary may require to ensure that assistance provided under this section is used for the purposes for which the loan or grant was made.
 - **(d)**
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
-    - **(A)** $4,000,000 for each of fiscal years 2009 through 2011; and
-    - **(B)** $3,000,000 for fiscal year 2012.
-  - **(2)** In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2012.
+    - **(A)** $4,000,000 for each of fiscal years 2009 through 2011;
+    - **(B)** $3,000,000 for fiscal year 2012; and
+    - **(C)** $3,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2018.

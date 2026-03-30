@@ -3,9 +3,9 @@ title: "Section 1132 - Civil enforcement"
 usc_title: 29
 usc_section: "1132"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1132"
-generated_at: "2026-03-30T03:36:46.417Z"
+generated_at: "2026-03-30T03:38:27.197Z"
 status: "active"
 ---
 
@@ -68,7 +68,8 @@ status: "active"
         - **(II)** $500,000.
     - **(E)** In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
     - **(F)** Terms used in this paragraph which are defined in section 1191b of this title shall have the meanings provided such terms in such section.
-  - **(10)** 3 The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) 2 of title 42.
+  - **(11)** The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) 2 of title 42.
+  - **(12)** The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor’s failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
 - **(d)**
   - **(1)** An employee benefit plan may sue or be sued under this subchapter as an entity. Service of summons, subpena, or other legal process of a court upon a trustee or an administrator of an employee benefit plan in his capacity as such shall constitute service upon the employee benefit plan. In a case where a plan has not designated in the summary plan description of the plan an individual as agent for the service of legal process, service upon the Secretary shall constitute such service. The Secretary, not later than 15 days after receipt of service under the preceding sentence, shall notify the administrator or any trustee of the plan of receipt of such service.
   - **(2)** Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity and shall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.

@@ -3,9 +3,9 @@ title: "Section 11143 - Depreciation charges"
 usc_title: 49
 usc_section: "11143"
 chapter: 111
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "49 U.S.C. § 11143"
-generated_at: "2026-03-30T03:37:32.399Z"
+generated_at: "2026-03-30T03:39:18.822Z"
 status: "active"
 ---
 

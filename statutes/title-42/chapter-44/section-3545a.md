@@ -3,13 +3,13 @@ title: "Section 3545a - Notification of issuance of electronic notice of availab
 usc_title: 42
 usc_section: "3545a"
 chapter: 44
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 3545a"
-generated_at: "2026-03-30T03:37:24.191Z"
+generated_at: "2026-03-30T03:39:06.151Z"
 status: "active"
 ---
 
 # § 3545a. Notification of issuance of electronic notice of availability of assistance or funding to be competitively awarded for certain programs or discretionary funds
 
-The Secretary of the Department of Housing and Urban Development shall for fiscal year 2012 and subsequent fiscal years, notify the public through the Federal Register and other means, as determined appropriate, of the issuance of a notice of the availability of assistance or notice of funding availability (NOFA) for any program or discretionary fund administered by the Secretary that is to be competitively awarded. Notwithstanding any other provision of law, for fiscal year 2012 and subsequent fiscal years, the Secretary may make the NOFA available only on the Internet at the appropriate Government Web site or through other electronic media, as determined by the Secretary.
+The Secretary of the Department of Housing and Urban Development shall, for fiscal year 2014 and subsequent fiscal years, notify the public through the Federal Register and other means, as determined appropriate, of the issuance of a notice of the availability of assistance or notice of funding availability (NOFA) for any program or discretionary fund administered by the Secretary that is to be competitively awarded. Notwithstanding any other provision of law, for fiscal year 2014 and subsequent fiscal years, the Secretary may make the NOFA available only on the Internet at the appropriate Government Web site or through other electronic media, as determined by the Secretary.
 

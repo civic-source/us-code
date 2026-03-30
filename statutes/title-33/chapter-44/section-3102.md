@@ -3,9 +3,9 @@ title: "Section 3102 - National Oceanic and Atmospheric Administration Oceans an
 usc_title: 33
 usc_section: "3102"
 chapter: 44
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 3102"
-generated_at: "2026-03-30T03:36:55.474Z"
+generated_at: "2026-03-30T03:38:40.756Z"
 status: "active"
 ---
 

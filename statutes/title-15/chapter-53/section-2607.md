@@ -3,9 +3,9 @@ title: "Section 2607 - Reporting and retention of information"
 usc_title: 15
 usc_section: "2607"
 chapter: 53
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "15 U.S.C. § 2607"
-generated_at: "2026-03-30T03:36:13.371Z"
+generated_at: "2026-03-30T03:38:06.076Z"
 status: "active"
 ---
 
@@ -39,5 +39,5 @@ status: "active"
 - **(d)** The Administrator shall promulgate rules under which the Administrator shall require any person who manufactures, processes, or distributes in commerce or who proposes to manufacture, process, or distribute in commerce any chemical substance or mixture (or with respect to paragraph (2), any person who has possession of a study) to submit to the Administrator—
   - **(1)** lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirements of this subsection if the Administrator finds that submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
   - **(2)** copies of any study contained on a list submitted pursuant to paragraph (1) or otherwise known by such person.
-- **(e)** Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
+- **(e)** Any person who manufactures, processes, or distributes in commerce as chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
 - **(f)** For purposes of this section, the terms “manufacture” and “process” mean manufacture or process for commercial purposes.

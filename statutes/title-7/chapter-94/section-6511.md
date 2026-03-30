@@ -3,9 +3,9 @@ title: "Section 6511 - Additional guidelines"
 usc_title: 7
 usc_section: "6511"
 chapter: 94
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6511"
-generated_at: "2026-03-30T03:36:04.709Z"
+generated_at: "2026-03-30T03:37:54.909Z"
 status: "active"
 ---
 
@@ -18,6 +18,3 @@ status: "active"
   - **(2)** If, as determined by the Secretary, the applicable governing State official, or the certifying agent, the investigation conducted under paragraph (1) indicates that the residue is—
     - **(A)** the result of intentional application of a prohibited substance; or
     - **(B)** present at levels that are greater than unavoidable residual environmental contamination as prescribed by the Secretary or the applicable governing State official in consultation with the appropriate environmental regulatory agencies;
-- **(d)** Producers who operate a certified organic farm or handling operation under this chapter shall maintain records for 5 years concerning the production or handling of agricultural products sold or labeled as organically produced under this chapter, including—
-  - **(1)** a detailed history of substances applied to fields or agricultural products; and
-  - **(2)** the names and addresses of persons who applied such substances, the dates, the rate, and method of application of such substances.

@@ -3,9 +3,9 @@ title: "Section 1632a - Value-added agricultural product market development gran
 usc_title: 7
 usc_section: "1632a"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 1632a"
-generated_at: "2026-03-30T03:36:04.624Z"
+generated_at: "2026-03-30T03:37:54.835Z"
 status: "active"
 ---
 
@@ -44,13 +44,16 @@ status: "active"
     - **(B)** to provide capital to establish alliances or business ventures that allow the producer of the value-added agricultural product to better compete in domestic or international markets.
   - **(4)** A grant under this subsection shall have a term that does not exceed 3 years.
   - **(5)** The Secretary shall offer a simplified application form and process for project proposals requesting less than $50,000.
-  - **(6)** In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
-    - **(A)** beginning farmers or ranchers;
-    - **(B)** socially disadvantaged farmers or ranchers; and
-    - **(C)** operators of small- and medium-sized farms and ranches that are structured as a family farm.
+  - **(6)**
+    - **(A)** In awarding grants under paragraph (1)(A), the Secretary shall give priority to—
+      - **(i)** operators of small- and medium-sized farms and ranches that are structured as family farms;
+      - **(ii)** beginning farmers or ranchers;
+      - **(iii)** socially disadvantaged farmers or ranchers; and
+      - **(iv)** veteran farmers or ranchers (as defined in section 2279(e) of this title ).
+    - **(B)** In awarding grants under paragraph (1)(B), the Secretary shall give priority to projects (including farmer or rancher cooperative projects) that best contribute to creating or increasing marketing opportunities for operators, farmers, and ranchers described in subparagraph (A).
   - **(7)**
-    - **(A)** On October 1, 2008 , of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $15,000,000, to remain available until expended.
-    - **(B)** There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2012.
+    - **(A)** On February 7, 2014 , of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $63,000,000, to remain available until expended.
+    - **(B)** There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2018.
     - **(C)**
       - **(i)** The Secretary shall reserve 10 percent of the amounts made available for each fiscal year under this paragraph to fund projects that benefit beginning farmers or ranchers or socially disadvantaged farmers or ranchers.
       - **(ii)** The Secretary shall reserve 10 percent of the amounts made available for each fiscal year under this paragraph to fund applications of eligible entities described in paragraph (1) that propose to develop mid-tier value chains.

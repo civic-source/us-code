@@ -3,9 +3,9 @@ title: "Section 11411 - Use of unutilized and underutilized public buildings and
 usc_title: 42
 usc_section: "11411"
 chapter: 119
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 11411"
-generated_at: "2026-03-30T03:37:24.503Z"
+generated_at: "2026-03-30T03:39:06.449Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(i)** a statement that there is no other compelling Federal need for the property and, therefore, the property will be determined surplus; or
       - **(ii)** a statement that there is further and compelling Federal need for the property (including a full explanation of such need) and that, therefore, the property is not presently available for use to assist the homeless.
   - **(2)**
-    - **(A)** All properties identified by the Secretary under subsection (a) of this section shall be available for application—
+    - **(A)** 1 1 So in original. No subpar. (B) has been enacted. All properties identified by the Secretary under subsection (a) of this section shall be available for application—
       - **(i)** in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section; and
       - **(ii)** in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40.
   - **(3)** The Secretary shall maintain a written public record of—

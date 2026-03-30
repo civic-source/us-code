@@ -3,9 +3,9 @@ title: "Section 1907 - Transfer of disbursing function"
 usc_title: 2
 usc_section: "1907"
 chapter: 29
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "2 U.S.C. § 1907"
-generated_at: "2026-03-30T03:35:51.744Z"
+generated_at: "2026-03-30T03:37:47.346Z"
 status: "active"
 ---
 
@@ -33,8 +33,6 @@ status: "active"
       - **(ii)** the establishment of any new position for officers, members, or employees of the Capitol Police, for reclassification of existing positions, for reorganization plans, or for hiring, termination, or promotion for officers, members, or employees of the Capitol Police.
   - **(2)** Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003 , shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
 - **(f)**
-  - **(1)** There shall be established a separate account in the Capitol Police for purposes of making payments for employees of the Capitol Police under section 8147 of title 5 .
-  - **(2)** Notwithstanding any other provision of law, payments may be made from the account established under paragraph (1) of this subsection without regard to the fiscal year for which the obligation to make such payments is incurred.
 - **(g)**
   - **(1)** The provisions of this section shall not be construed to reduce the pay or benefits of any employee of the Capitol Police whose pay was disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate before February 20, 2003 .
   - **(2)** All provisions of law inconsistent with this section are hereby superseded to the extent of the inconsistency.

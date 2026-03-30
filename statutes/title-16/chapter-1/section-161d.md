@@ -3,9 +3,9 @@ title: "Section 161d - Elimination of fish hatchery; transfer of administration 
 usc_title: 16
 usc_section: "161d"
 chapter: 1
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "16 U.S.C. § 161d"
-generated_at: "2026-03-30T03:36:30.021Z"
+generated_at: "2026-03-30T03:38:15.553Z"
 status: "active"
 ---
 

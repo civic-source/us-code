@@ -3,9 +3,9 @@ title: "Section 2733 - Reemployment of annuitants under the Civil Service Retire
 usc_title: 22
 usc_section: "2733"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2733"
-generated_at: "2026-03-30T03:36:39.889Z"
+generated_at: "2026-03-30T03:38:22.254Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5104 - Unlawful activities"
 usc_title: 40
 usc_section: "5104"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "40 U.S.C. § 5104"
-generated_at: "2026-03-30T03:37:04.452Z"
+generated_at: "2026-03-30T03:38:44.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 705 - Salmon River, Alaska; flood control work authorized"
 usc_title: 33
 usc_section: "705"
 chapter: 15
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "33 U.S.C. § 705"
-generated_at: "2026-03-30T03:36:55.417Z"
+generated_at: "2026-03-30T03:38:40.682Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51510 - Deferment of service obligation under student incentive 
 usc_title: 46
 usc_section: "51510"
 chapter: 515
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "46 U.S.C. § 51510"
-generated_at: "2026-03-30T03:37:29.111Z"
+generated_at: "2026-03-30T03:39:12.602Z"
 status: "active"
 ---
 

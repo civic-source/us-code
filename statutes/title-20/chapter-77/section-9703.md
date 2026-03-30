@@ -3,9 +3,9 @@ title: "Section 9703 - Duties of the Commission"
 usc_title: 20
 usc_section: "9703"
 chapter: 77
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "20 U.S.C. § 9703"
-generated_at: "2026-03-30T03:36:22.964Z"
+generated_at: "2026-03-30T03:38:12.915Z"
 status: "active"
 ---
 

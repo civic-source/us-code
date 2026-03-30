@@ -3,9 +3,9 @@ title: "Section 4017 - National Flood Insurance Fund"
 usc_title: 42
 usc_section: "4017"
 chapter: 50
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 4017"
-generated_at: "2026-03-30T03:37:24.221Z"
+generated_at: "2026-03-30T03:39:06.177Z"
 status: "active"
 ---
 
@@ -17,8 +17,9 @@ status: "active"
   - **(3)** to repay to the Secretary of the Treasury such sums as may be borrowed from him (together with interest) in accordance with the authority provided in section 4016 of this title ; and
   - **(4)** to the extent approved in appropriations Acts, to pay any administrative expenses of the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title );
   - **(5)** for the purposes specified in subsection (d) of this section under the conditions provided therein;
-  - **(6)** for carrying out the program under section 4022(b) of this title ; and
-  - **(7)** for transfers to the National Flood Mitigation Fund, but only to the extent provided in section 4104d(b)(1) of this title .
+  - **(6)** for carrying out the program under section 4022(b) of this title ;
+  - **(7)** for transfers to the National Flood Mitigation Fund, but only to the extent provided in section 4104d(b)(1) of this title ; and
+  - **(8)** for carrying out section 4104(f) of this title .
 - **(b)** The fund shall be credited with—
   - **(1)** such funds borrowed in accordance with the authority provided in section 4016 of this title as may from time to time be deposited in the fund;
   - **(2)** premiums, fees, or other charges which may be paid or collected in connection with the excess loss reinsurance coverage provided under section 4055 of this title ;

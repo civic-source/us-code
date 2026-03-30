@@ -3,9 +3,9 @@ title: "Section 2661to2666 - Omitted"
 usc_title: 42
 usc_section: "2661to2666"
 chapter: 33
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 2661to2666"
-generated_at: "2026-03-30T03:37:24.159Z"
+generated_at: "2026-03-30T03:39:06.118Z"
 status: "omitted"
 ---
 

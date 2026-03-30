@@ -3,9 +3,9 @@ title: "Section 2035 - Simplified supplemental nutrition assistance program"
 usc_title: 7
 usc_section: "2035"
 chapter: 51
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 2035"
-generated_at: "2026-03-30T03:36:04.662Z"
+generated_at: "2026-03-30T03:37:54.868Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
   - **(3)** In operating a Program, a State or political subdivision shall comply with the requirements of—
     - **(A)** subsections (a) through (f) of section 2016 of this title ;
     - **(B)** section 2017(a) of this title (except that the income of a household may be determined under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.));
-    - **(C)** subsection 1 1 So in original. Probably should be “subsections”. (b) and (d) of section 2017 of this title ;
+    - **(C)** subsections (b) and (d) of section 2017 of this title ;
     - **(D)** subsections (a), (c), (d), and (n) of section 2020 of this title ;
     - **(E)** paragraphs (8), (12), (15), (17), (18), (22), and (23) of section 2020(e) of this title ;
     - **(F)** section 2020(e)(10) of this title (or a comparable requirement established by the State under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.)); and

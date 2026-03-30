@@ -3,9 +3,9 @@ title: "Section 7681 - Authority for program"
 usc_title: 38
 usc_section: "7681"
 chapter: 76
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "38 U.S.C. § 7681"
-generated_at: "2026-03-30T03:37:01.981Z"
+generated_at: "2026-03-30T03:38:46.443Z"
 status: "active"
 ---
 

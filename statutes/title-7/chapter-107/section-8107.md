@@ -3,9 +3,9 @@ title: "Section 8107 - Rural Energy for America Program"
 usc_title: 7
 usc_section: "8107"
 chapter: 107
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 8107"
-generated_at: "2026-03-30T03:36:04.739Z"
+generated_at: "2026-03-30T03:37:54.937Z"
 status: "active"
 ---
 
@@ -21,8 +21,9 @@ status: "active"
   - **(2)** An eligible entity under this subsection is—
     - **(A)** a unit of State, tribal, or local government;
     - **(B)** a land-grant college or university or other institution of higher education;
-    - **(C)** a rural electric cooperative or public power entity; and
-    - **(D)** any other similar entity, as determined by the Secretary.
+    - **(C)** a rural electric cooperative or public power entity;
+    - **(D)** a council (as defined in section 3451 of title 16 ); and
+    - **(E)** any other similar entity, as determined by the Secretary.
   - **(3)** In reviewing applications of eligible entities to receive grants under paragraph (1), the Secretary shall consider—
     - **(A)** the ability and expertise of the eligible entity in providing professional energy audits and renewable energy assessments;
     - **(B)** the geographic scope of the program proposed by the eligible entity in relation to the identified need;
@@ -50,13 +51,15 @@ status: "active"
     - **(F)** the expected energy efficiency of the renewable energy system; and
     - **(G)** other appropriate factors.
   - **(3)**
-    - **(A)** The Secretary may provide assistance in the form of grants to an agricultural producer or rural small business to conduct a feasibility study for a project for which assistance may be provided under this subsection.
-    - **(B)** The Secretary shall use not more than 10 percent of the funds made available to carry out this subsection to provide assistance described in subparagraph (A).
-    - **(C)** An entity shall be ineligible to receive assistance to carry out a feasibility study for a project under this paragraph if the entity has received other Federal or State assistance for a feasibility study for the project.
-  - **(4)**
     - **(A)** The amount of a grant under this subsection shall not exceed 25 percent of the cost of the activity carried out using funds from the grant.
     - **(B)** The amount of a loan guaranteed under this subsection shall not exceed $25,000,000.
     - **(C)** The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
+  - **(4)**
+    - **(A)** In providing loan guarantees and grants under this subsection, the Secretary shall use a 3-tiered application process that reflects the size of proposed projects in accordance with this paragraph.
+    - **(B)** The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is not more than $80,000.
+    - **(C)** The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is greater than $80,000 but less than $200,000.
+    - **(D)** The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is equal to or greater than $200,000.
+    - **(E)** The Secretary shall establish an application, evaluation, and oversight process that is the most simplified for tier I projects and more comprehensive for each subsequent tier.
 - **(d)** The Secretary shall ensure, to the maximum extent practicable, that adequate outreach relating to this section is being conducted at the State and local levels.
 - **(e)**
   - **(1)** Except as provided in paragraph (2), the Secretary shall use not less than 20 percent of the funds made available under subsection (g) to provide grants of $20,000 or less.
@@ -66,9 +69,10 @@ status: "active"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
     - **(A)** $55,000,000 for fiscal year 2009;
     - **(B)** $60,000,000 for fiscal year 2010;
-    - **(C)** $70,000,000 for fiscal year 2011; and
-    - **(D)** $70,000,000 for fiscal year 2012.
+    - **(C)** $70,000,000 for fiscal year 2011;
+    - **(D)** $70,000,000 for fiscal year 2012; and
+    - **(E)** $50,000,000 for fiscal year 2014 and each fiscal year thereafter.
   - **(2)**
     - **(A)** Subject to subparagraph (B), of the funds made available for each fiscal year under paragraph (1), 4 percent shall be available to carry out subsection (b).
     - **(B)** Funds not obligated under subparagraph (A) by April 1 of each fiscal year to carry out subsection (b) shall become available to carry out subsection (c).
-  - **(3)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
+  - **(3)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.

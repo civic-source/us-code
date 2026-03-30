@@ -3,9 +3,9 @@ title: "Section 15441 - Grants for research on voting technology improvements"
 usc_title: 42
 usc_section: "15441"
 chapter: 146
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 15441"
-generated_at: "2026-03-30T03:37:24.607Z"
+generated_at: "2026-03-30T03:39:06.552Z"
 status: "active"
 ---
 

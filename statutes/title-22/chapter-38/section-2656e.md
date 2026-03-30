@@ -3,9 +3,9 @@ title: "Section 2656e - Terrorism-related travel advisories"
 usc_title: 22
 usc_section: "2656e"
 chapter: 38
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "22 U.S.C. § 2656e"
-generated_at: "2026-03-30T03:36:39.883Z"
+generated_at: "2026-03-30T03:38:22.249Z"
 status: "active"
 ---
 

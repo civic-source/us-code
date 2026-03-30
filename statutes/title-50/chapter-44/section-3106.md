@@ -3,9 +3,9 @@ title: "Section 3106 - Dates for submittal of various annual and semiannual repo
 usc_title: 50
 usc_section: "3106"
 chapter: 44
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "50 U.S.C. § 3106"
-generated_at: "2026-03-30T03:37:33.614Z"
+generated_at: "2026-03-30T03:39:13.745Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(A) of this section:
-    - **(A)** The annual report of the Inspectors Generals of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+    - **(A)** The annual report of the Inspectors Generals 1 1 So in original. Probably should be “General”. of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
     - **(B)** The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22 .
     - **(C)** The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183 ; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act ( 50 U.S.C. 1906(a) ).
     - **(D)** The annual report on hiring and retention of minority employees in the intelligence community required by section 3050(a) of this title .
@@ -22,7 +22,7 @@ status: "active"
   - **(2)** The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B).
 - **(b)** The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2) of this section:
   - **(1)** The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
-  - **(2)** The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15 . 1 1 See References in Text note below.
+  - **(2)** The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15 . 2 2 See References in Text note below.
   - **(3)** The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by section 3414(a)(5)(C) of title 12 .
 - **(c)**
   - **(1)**

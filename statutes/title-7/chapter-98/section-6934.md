@@ -3,9 +3,9 @@ title: "Section 6934 - Office of Advocacy and Outreach"
 usc_title: 7
 usc_section: "6934"
 chapter: 98
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "7 U.S.C. § 6934"
-generated_at: "2026-03-30T03:36:04.713Z"
+generated_at: "2026-03-30T03:37:54.913Z"
 status: "active"
 ---
 
@@ -58,4 +58,6 @@ status: "active"
     - **(D)** Consulting within the Office and with other entities to better integrate farmworker perspectives, concerns, and interests into the ongoing programs of the Department.
     - **(E)** Consulting with appropriate institutions on research, program improvements, or agricultural education opportunities that assist low-income and migrant seasonal farmworkers.
     - **(F)** Assisting farmworkers in becoming agricultural producers or landowners.
-  - **(3)** There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012.
+  - **(3)** There are authorized to be appropriated to carry out this subsection—
+    - **(A)** such sums as are necessary for each of fiscal years 2009 through 2013; and
+    - **(B)** $2,000,000 for each of fiscal years 2014 through 2018.

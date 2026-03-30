@@ -3,9 +3,9 @@ title: "Section 1755 - Direct expenditures for agricultural commodities and othe
 usc_title: 42
 usc_section: "1755"
 chapter: 13
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "42 U.S.C. § 1755"
-generated_at: "2026-03-30T03:37:24.077Z"
+generated_at: "2026-03-30T03:39:06.036Z"
 status: "active"
 ---
 
@@ -30,3 +30,25 @@ status: "active"
     - **(A)** commodity assistance provided under this section, including cash in lieu of commodities and administrative costs for procurement of commodities under this section; or
     - **(B)** during the period beginning October 1, 2003 , and ending September 30, 2020 , commodities provided by the Secretary under any provision of law.
   - **(2)** If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under section 1762a(a) of this title to meet the requirement for the school year.
+- **(f)**
+  - **(1)** The Secretary shall conduct a pilot project under which the Secretary shall facilitate the procurement of unprocessed fruits and vegetables in not more than 8 States receiving funds under this chapter.
+  - **(2)** The purpose of the pilot project required by this subsection is to provide selected States flexibility for the procurement of unprocessed fruits and vegetables by permitting each State—
+    - **(A)** to utilize multiple suppliers and products established and qualified by the Secretary; and
+    - **(B)** to allow geographic preference, if desired, in the procurement of the products under the pilot project.
+  - **(3)**
+    - **(A)** The Secretary shall select States for participation in the pilot project in accordance with criteria established by the Secretary and terms and conditions established for participation.
+    - **(B)** The Secretary shall ensure that at least 1 project is located in a State in each of—
+      - **(i)** the Pacific Northwest Region;
+      - **(ii)** the Northeast Region;
+      - **(iii)** the Western Region;
+      - **(iv)** the Midwest Region; and
+      - **(v)** the Southern Region.
+  - **(4)** In selecting States for participation in the pilot project, the Secretary shall prioritize applications based on—
+    - **(A)** the quantity and variety of growers of local fruits and vegetables in the States on a per capita basis;
+    - **(B)** the demonstrated commitment of the States to farm-to-school efforts, as evidenced by prior efforts to increase and promote farm-to-school programs in the States; and
+    - **(C)** whether the States contain a sufficient quantity of local educational agencies, various population sizes, and geographical locations.
+  - **(5)**
+    - **(A)** States selected to participate in the pilot project, and participating school food authorities within those States, shall keep records of the fruits and vegetables received under the pilot project in such manner and form as requested by the Secretary.
+    - **(B)** Each participating State shall submit to the Secretary a report on the success of the pilot project in the State, including information on—
+      - **(i)** the quantity and cost of each type of fruit and vegetable received by the State under the pilot project; and
+      - **(ii)** the benefit provided by those procurements in conducting school food service in the State, including meeting school meal requirements.

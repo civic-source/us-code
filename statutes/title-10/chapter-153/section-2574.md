@@ -3,9 +3,9 @@ title: "Section 2574 - Armament: sale of individual pieces"
 usc_title: 10
 usc_section: "2574"
 chapter: 153
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "10 U.S.C. § 2574"
-generated_at: "2026-03-30T03:36:02.523Z"
+generated_at: "2026-03-30T03:37:58.842Z"
 status: "active"
 ---
 

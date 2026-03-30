@@ -3,9 +3,9 @@ title: "Section 1774d - Settlement funds"
 usc_title: 25
 usc_section: "1774d"
 chapter: 19
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "25 U.S.C. § 1774d"
-generated_at: "2026-03-30T03:36:34.776Z"
+generated_at: "2026-03-30T03:38:23.471Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-30T03:36:46.399Z"
+generated_at: "2026-03-30T03:38:27.179Z"
 status: "active"
 ---
 
@@ -23,8 +23,8 @@ status: "active"
   - **(3)** The Secretary may require that a plan described in paragraph (1) or (2) file a supplementary or terminal report with the annual report in the year such plan is terminated and that a copy of such supplementary or terminal report in the case of a plan described in paragraph (1) be also filed with the Pension Benefit Guaranty Corporation.
 - **(d)**
   - **(1)** If an employer maintaining a plan other than a multiemployer plan fails to make a required installment or other payment required to meet the minimum funding standard under section 1082 of this title to a plan before the 60th day following the due date for such installment or other payment, the employer shall notify each participant and beneficiary (including an alternate payee as defined in section 1056(d)(3)(K) of this title ) of such plan of such failure. Such notice shall be made at such time and in such manner as the Secretary may prescribe.
-  - **(2)** This subsection shall not apply to any failure if the employer has filed a waiver request under section 1083 of this title with respect to the plan year to which the required installment relates, except that if the waiver request is denied, notice under paragraph (1) shall be provided within 60 days after the date of such denial.
-  - **(3)** For purposes of this subsection, the terms “required installment” and “due date” have the same meanings given such terms by section 1083(j) of this title .
+  - **(2)** This subsection shall not apply to any failure if the employer has filed a waiver request under section 1083 or 1085a of this title with respect to the plan year to which the required installment relates, except that if the waiver request is denied, notice under paragraph (1) shall be provided within 60 days after the date of such denial.
+  - **(3)** For purposes of this subsection, the terms “required installment” and “due date” have the same meanings given such terms by section 1083(j) or 1085a(f) of this title, whichever is applicable.
 - **(e)**
   - **(1)** Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant and beneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities or applicable life insurance benefit liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
   - **(2)**
@@ -71,6 +71,10 @@ status: "active"
         - **(II)** the plan has a funding shortfall (as defined in section 1083(c)(4) of this title and determined without regard to section 1083(h)(2)(C)(iv) of this title ) greater than $500,000, and
         - **(III)** the plan had 50 or more participants on any day during the preceding plan year.
       - **(iii)** In the case of a preceding plan year referred to in clause (i)(III) which begins before January 1, 2012 , the information described in such clause shall be provided only without regard to section 1083(h)(2)(C)(iv) of this title .
+    - **(E)** In the case of a CSEC plan, each notice under paragraph (1) shall include—
+      - **(i)** a statement that different rules apply to CSEC plans than apply to single-employer plans,
+      - **(ii)** for the first 2 plan years beginning after December 31, 2013 , a statement that, as a result of changes in the law made by the Cooperative and Small Employer Charity Pension Flexibility Act, the contributions to the plan may have changed, and
+      - **(iii)** in the case of a CSEC plan that is in funding restoration status for the plan year, a statement that the plan is in funding restoration status for such plan year.
   - **(3)**
     - **(A)** Any notice under paragraph (1) shall be provided not later than 120 days after the end of the plan year to which the notice relates.
     - **(B)** In the case of a small plan (as such term is used under section 1083(g)(2)(B) of this title ) any notice under paragraph (1) shall be provided upon filing of the annual report under section 1024(a) of this title .

@@ -3,9 +3,9 @@ title: "Section 1150b - Authorization of appropriations"
 usc_title: 12
 usc_section: "1150b"
 chapter: 8
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "12 U.S.C. § 1150b"
-generated_at: "2026-03-30T03:36:10.612Z"
+generated_at: "2026-03-30T03:38:03.849Z"
 status: "active"
 ---
 

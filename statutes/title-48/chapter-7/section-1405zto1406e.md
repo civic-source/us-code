@@ -3,9 +3,9 @@ title: "Section 1405zto1406e - Repealed. Pub. L. 97–357, title III, § 307 , O
 usc_title: 48
 usc_section: "1405zto1406e"
 chapter: 7
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "48 U.S.C. § 1405zto1406e"
-generated_at: "2026-03-30T03:37:29.624Z"
+generated_at: "2026-03-30T03:39:10.557Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2401e - Qualifying requirements and benefits for agricultural co
 usc_title: 19
 usc_section: "2401e"
 chapter: 12
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "19 U.S.C. § 2401e"
-generated_at: "2026-03-30T03:36:24.481Z"
+generated_at: "2026-03-30T03:38:10.955Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
         - **(II)** benefits based on the production of an agricultural commodity covered by another petition filed under this part.
     - **(B)** For purposes of subparagraph (A)(ii)(II)(aa), if a petition is filed with respect to an agricultural commodity that is not produced by the producer every year, an agricultural commodity producer producing that commodity may establish the average price received for the commodity by the producer in the 3 marketing years preceding the year with respect to which the petition is filed by using average price data for the 3 most recent marketing years in which the producer produced the commodity and for which data are available.
   - **(2)**
-    - **(A)** Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income (as defined in section 1308–3a(a) of title 7 ) of the producer exceeds the level set forth in subparagraph (A) or (B) of section 1308–3a(b)(1) of title 7 , whichever is applicable.
+    - **(A)** Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income (as defined in section 1308–3a(a) of title 7 ) of the producer exceeds the level set forth in subparagraph (A) or (B) of section 1308–3a(b)(1) 1 1 See References in Text note below. of title 7, whichever is applicable.
     - **(B)** An agricultural commodity producer shall provide to the Secretary such information as the Secretary determines necessary to demonstrate that the producer is in compliance with the limitation under subparagraph (A).
     - **(C)** The total amount of payments made to an agricultural commodity producer under this part during any crop year may not exceed the limitations on payments set forth in subsections (b)(2), (b)(3), (c)(2), and (c)(3) of section 1308 of title 7 .
 - **(b)**

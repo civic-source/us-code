@@ -3,9 +3,9 @@ title: "Section 721to740 - Repealed. Pub. L. 95–164, title III, § 306(a) , No
 usc_title: 30
 usc_section: "721to740"
 chapter: 21
-current_through: "PL 113-75"
+current_through: "PL 113-99"
 classification: "30 U.S.C. § 721to740"
-generated_at: "2026-03-30T03:36:42.958Z"
+generated_at: "2026-03-30T03:38:25.671Z"
 status: "repealed"
 ---
 
