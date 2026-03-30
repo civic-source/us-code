@@ -3,9 +3,9 @@ title: "Section 7g - Funds to reduce medicaid fraud and abuse"
 usc_title: 42
 usc_section: "7g"
 chapter: 7
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 7g"
-generated_at: "2026-03-30T06:48:26.203Z"
+generated_at: "2026-03-30T06:50:48.580Z"
 status: "active"
 ---
 

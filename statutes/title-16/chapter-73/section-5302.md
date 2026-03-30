@@ -3,9 +3,9 @@ title: "Section 5302 - Purposes"
 usc_title: 16
 usc_section: "5302"
 chapter: 73
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 5302"
-generated_at: "2026-03-30T06:47:12.564Z"
+generated_at: "2026-03-30T06:49:39.176Z"
 status: "active"
 ---
 

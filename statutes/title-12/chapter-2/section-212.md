@@ -3,9 +3,9 @@ title: "Section 212 - Right to amend; separability"
 usc_title: 12
 usc_section: "212"
 chapter: 2
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "12 U.S.C. § 212"
-generated_at: "2026-03-30T06:47:03.611Z"
+generated_at: "2026-03-30T06:49:32.399Z"
 status: "active"
 ---
 

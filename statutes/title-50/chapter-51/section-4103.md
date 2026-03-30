@@ -3,9 +3,9 @@ title: "Section 4103 - Claims of employees of contractors"
 usc_title: 50
 usc_section: "4103"
 chapter: 51
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "50 U.S.C. § 4103"
-generated_at: "2026-03-30T06:48:30.921Z"
+generated_at: "2026-03-30T06:50:53.153Z"
 status: "active"
 ---
 

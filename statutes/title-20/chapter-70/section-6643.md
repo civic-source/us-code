@@ -3,9 +3,9 @@ title: "Section 6643 - Subgrants to eligible entities in support of birth throug
 usc_title: 20
 usc_section: "6643"
 chapter: 70
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "20 U.S.C. § 6643"
-generated_at: "2026-03-30T06:47:10.288Z"
+generated_at: "2026-03-30T06:49:53.577Z"
 status: "active"
 ---
 

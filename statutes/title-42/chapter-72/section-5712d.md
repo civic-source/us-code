@@ -3,9 +3,9 @@ title: "Section 5712d - Repealed. Pub. L. 109–162, title XI , § 1172(b), Jan.
 usc_title: 42
 usc_section: "5712d"
 chapter: 72
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 5712d"
-generated_at: "2026-03-30T06:48:26.462Z"
+generated_at: "2026-03-30T06:50:48.833Z"
 status: "repealed"
 ---
 

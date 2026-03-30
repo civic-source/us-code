@@ -3,9 +3,9 @@ title: "Section 2201 - Payments to agricultural producers for carrying out wind 
 usc_title: 16
 usc_section: "2201"
 chapter: 42
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 2201"
-generated_at: "2026-03-30T06:47:12.534Z"
+generated_at: "2026-03-30T06:49:39.146Z"
 status: "active"
 ---
 

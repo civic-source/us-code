@@ -3,9 +3,9 @@ title: "Section 2321b - Expediting hydropower at Corps of Engineers facilities"
 usc_title: 33
 usc_section: "2321b"
 chapter: 36
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "33 U.S.C. § 2321b"
-generated_at: "2026-03-30T06:47:55.199Z"
+generated_at: "2026-03-30T06:50:28.501Z"
 status: "active"
 ---
 

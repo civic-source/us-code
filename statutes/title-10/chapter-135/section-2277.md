@@ -3,9 +3,9 @@ title: "Section 2277 - Report on foreign counter-space programs"
 usc_title: 10
 usc_section: "2277"
 chapter: 135
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 2277"
-generated_at: "2026-03-30T06:46:36.796Z"
+generated_at: "2026-03-30T06:49:20.183Z"
 status: "active"
 ---
 

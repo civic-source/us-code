@@ -3,9 +3,9 @@ title: "Section 2241 - Definitions"
 usc_title: 33
 usc_section: "2241"
 chapter: 36
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "33 U.S.C. § 2241"
-generated_at: "2026-03-30T06:47:55.195Z"
+generated_at: "2026-03-30T06:50:28.496Z"
 status: "active"
 ---
 

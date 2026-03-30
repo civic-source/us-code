@@ -3,9 +3,9 @@ title: "Section 36 - Subdivisions of 10-acre tracts; maximum of placer locations
 usc_title: 30
 usc_section: "36"
 chapter: 2
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "30 U.S.C. § 36"
-generated_at: "2026-03-30T06:47:40.853Z"
+generated_at: "2026-03-30T06:50:15.813Z"
 status: "active"
 ---
 

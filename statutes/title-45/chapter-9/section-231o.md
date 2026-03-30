@@ -3,9 +3,9 @@ title: "Section 231o - Private pensions"
 usc_title: 45
 usc_section: "231o"
 chapter: 9
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "45 U.S.C. § 231o"
-generated_at: "2026-03-30T06:48:12.841Z"
+generated_at: "2026-03-30T06:50:36.795Z"
 status: "active"
 ---
 

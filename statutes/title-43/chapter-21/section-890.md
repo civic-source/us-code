@@ -3,9 +3,9 @@ title: "Section 890 - Homestead entries on railroad lands prior to withdrawal or
 usc_title: 43
 usc_section: "890"
 chapter: 21
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 890"
-generated_at: "2026-03-30T06:48:13.509Z"
+generated_at: "2026-03-30T06:50:36.252Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 278l - Assistance to State technology programs"
 usc_title: 15
 usc_section: "278l"
 chapter: 7
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "15 U.S.C. § 278l"
-generated_at: "2026-03-30T06:46:55.647Z"
+generated_at: "2026-03-30T06:49:29.453Z"
 status: "active"
 ---
 

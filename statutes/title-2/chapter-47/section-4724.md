@@ -3,9 +3,9 @@ title: "Section 4724 - Amendment to Senate conflict of interest rule"
 usc_title: 2
 usc_section: "4724"
 chapter: 47
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 4724"
-generated_at: "2026-03-30T06:46:22.098Z"
+generated_at: "2026-03-30T06:49:07.828Z"
 status: "active"
 ---
 

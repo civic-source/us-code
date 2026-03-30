@@ -3,9 +3,9 @@ title: "Section 52a - Repealed. Pub. L. 92–310, title II , § 229(a), (c)(2), 
 usc_title: 25
 usc_section: "52a"
 chapter: 2
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "25 U.S.C. § 52a"
-generated_at: "2026-03-30T06:47:36.020Z"
+generated_at: "2026-03-30T06:49:57.829Z"
 status: "repealed"
 ---
 

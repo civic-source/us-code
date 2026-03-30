@@ -3,9 +3,9 @@ title: "Section 7256 - Times and places of sessions"
 usc_title: 38
 usc_section: "7256"
 chapter: 72
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "38 U.S.C. § 7256"
-generated_at: "2026-03-30T06:48:01.715Z"
+generated_at: "2026-03-30T06:50:33.798Z"
 status: "active"
 ---
 

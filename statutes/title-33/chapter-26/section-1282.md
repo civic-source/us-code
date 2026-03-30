@@ -3,9 +3,9 @@ title: "Section 1282 - Federal share"
 usc_title: 33
 usc_section: "1282"
 chapter: 26
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "33 U.S.C. § 1282"
-generated_at: "2026-03-30T06:47:55.174Z"
+generated_at: "2026-03-30T06:50:28.474Z"
 status: "active"
 ---
 

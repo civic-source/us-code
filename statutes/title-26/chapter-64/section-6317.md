@@ -3,9 +3,9 @@ title: "Section 6317 - Payments of Federal unemployment tax for calendar quarter
 usc_title: 26
 usc_section: "6317"
 chapter: 64
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 6317"
-generated_at: "2026-03-30T06:47:50.862Z"
+generated_at: "2026-03-30T06:50:23.235Z"
 status: "active"
 ---
 

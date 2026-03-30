@@ -3,9 +3,9 @@ title: "Section 320 - Stations liable to interfere with distress signals; design
 usc_title: 47
 usc_section: "320"
 chapter: 5
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "47 U.S.C. § 320"
-generated_at: "2026-03-30T06:48:29.892Z"
+generated_at: "2026-03-30T06:50:51.941Z"
 status: "active"
 ---
 

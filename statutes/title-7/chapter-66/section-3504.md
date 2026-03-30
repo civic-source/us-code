@@ -3,9 +3,9 @@ title: "Section 3504 - Repealed. Pub. L. 105–362, title I , § 101(f), Nov. 10
 usc_title: 7
 usc_section: "3504"
 chapter: 66
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "7 U.S.C. § 3504"
-generated_at: "2026-03-30T06:46:41.807Z"
+generated_at: "2026-03-30T06:49:23.749Z"
 status: "repealed"
 ---
 

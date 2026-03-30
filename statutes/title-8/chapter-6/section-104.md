@@ -3,9 +3,9 @@ title: "Section 104 - Repealed. Dec. 17, 1943, ch. 344 , § 1, 57 Stat. 600"
 usc_title: 8
 usc_section: "104"
 chapter: 6
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "8 U.S.C. § 104"
-generated_at: "2026-03-30T06:46:37.377Z"
+generated_at: "2026-03-30T06:49:11.595Z"
 status: "repealed"
 ---
 

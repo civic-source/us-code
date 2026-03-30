@@ -3,9 +3,9 @@ title: "Section 79j - Authorization of appropriations"
 usc_title: 16
 usc_section: "79j"
 chapter: 1
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 79j"
-generated_at: "2026-03-30T06:47:12.364Z"
+generated_at: "2026-03-30T06:49:38.969Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9163 - Relationship to other laws"
 usc_title: 42
 usc_section: "9163"
 chapter: 99
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 9163"
-generated_at: "2026-03-30T06:48:26.563Z"
+generated_at: "2026-03-30T06:50:48.929Z"
 status: "active"
 ---
 

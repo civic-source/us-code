@@ -3,9 +3,9 @@ title: "Section 484a - Exchange of lands in national forests; public schools; de
 usc_title: 16
 usc_section: "484a"
 chapter: 2
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 484a"
-generated_at: "2026-03-30T06:47:12.444Z"
+generated_at: "2026-03-30T06:49:39.052Z"
 status: "active"
 ---
 

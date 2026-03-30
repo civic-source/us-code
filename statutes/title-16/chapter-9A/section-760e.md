@@ -3,9 +3,9 @@ title: "Section 760e - Study of migratory game fish; waters; research; purpose"
 usc_title: 16
 usc_section: "760e"
 chapter: 9
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 760e"
-generated_at: "2026-03-30T06:47:12.475Z"
+generated_at: "2026-03-30T06:49:39.083Z"
 status: "active"
 ---
 

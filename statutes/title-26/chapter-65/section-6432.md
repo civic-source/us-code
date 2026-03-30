@@ -3,9 +3,9 @@ title: "Section 6432 - COBRA premium assistance"
 usc_title: 26
 usc_section: "6432"
 chapter: 65
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 6432"
-generated_at: "2026-03-30T06:47:50.868Z"
+generated_at: "2026-03-30T06:50:23.240Z"
 status: "active"
 ---
 

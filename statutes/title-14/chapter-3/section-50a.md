@@ -3,9 +3,9 @@ title: "Section 50a - Repealed. Pub. L. 111–281, title V , § 511(b), Oct. 15,
 usc_title: 14
 usc_section: "50a"
 chapter: 3
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "14 U.S.C. § 50a"
-generated_at: "2026-03-30T06:46:59.386Z"
+generated_at: "2026-03-30T06:49:26.494Z"
 status: "repealed"
 ---
 

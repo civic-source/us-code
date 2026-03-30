@@ -3,9 +3,9 @@ title: "Section 870 - Grants of land in aid of common or public schools; extensi
 usc_title: 43
 usc_section: "870"
 chapter: 20
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 870"
-generated_at: "2026-03-30T06:48:13.508Z"
+generated_at: "2026-03-30T06:50:36.251Z"
 status: "active"
 ---
 

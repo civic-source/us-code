@@ -3,9 +3,9 @@ title: "Section 1468 - Omitted"
 usc_title: 22
 usc_section: "1468"
 chapter: 18
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "22 U.S.C. § 1468"
-generated_at: "2026-03-30T06:47:23.005Z"
+generated_at: "2026-03-30T06:50:13.474Z"
 status: "omitted"
 ---
 

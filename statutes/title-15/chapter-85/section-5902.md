@@ -3,9 +3,9 @@ title: "Section 5902 - State reciprocity of weapons licenses issued to armored c
 usc_title: 15
 usc_section: "5902"
 chapter: 85
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "15 U.S.C. § 5902"
-generated_at: "2026-03-30T06:46:55.754Z"
+generated_at: "2026-03-30T06:49:29.565Z"
 status: "active"
 ---
 

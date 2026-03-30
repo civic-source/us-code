@@ -3,9 +3,9 @@ title: "Section 1185 - Standards relating to benefits for mothers and newborns"
 usc_title: 29
 usc_section: "1185"
 chapter: 18
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "29 U.S.C. § 1185"
-generated_at: "2026-03-30T06:47:45.956Z"
+generated_at: "2026-03-30T06:50:25.076Z"
 status: "active"
 ---
 

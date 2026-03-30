@@ -3,9 +3,9 @@ title: "Section 11043 - Provision of information to health professionals, doctor
 usc_title: 42
 usc_section: "11043"
 chapter: 116
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 11043"
-generated_at: "2026-03-30T06:48:26.601Z"
+generated_at: "2026-03-30T06:50:48.965Z"
 status: "active"
 ---
 

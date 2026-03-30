@@ -3,9 +3,9 @@ title: "Section 334 - Repealed. Pub. L. 97–124 , § 3, Dec. 29, 1981 , 95 Stat
 usc_title: 32
 usc_section: "334"
 chapter: 3
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "32 U.S.C. § 334"
-generated_at: "2026-03-30T06:47:52.448Z"
+generated_at: "2026-03-30T06:50:26.657Z"
 status: "repealed"
 ---
 

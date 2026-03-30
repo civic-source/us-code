@@ -3,9 +3,9 @@ title: "Section 5589 - Regular Navy and Regular Marine Corps: officers designate
 usc_title: 10
 usc_section: "5589"
 chapter: 539
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 5589"
-generated_at: "2026-03-30T06:46:36.838Z"
+generated_at: "2026-03-30T06:49:20.226Z"
 status: "active"
 ---
 

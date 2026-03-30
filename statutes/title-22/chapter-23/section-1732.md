@@ -3,9 +3,9 @@ title: "Section 1732 - Release of citizens imprisoned by foreign governments"
 usc_title: 22
 usc_section: "1732"
 chapter: 23
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "22 U.S.C. § 1732"
-generated_at: "2026-03-30T06:47:23.009Z"
+generated_at: "2026-03-30T06:50:13.478Z"
 status: "active"
 ---
 

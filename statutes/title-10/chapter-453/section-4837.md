@@ -3,9 +3,9 @@ title: "Section 4837 - Settlement of accounts: remission or cancellation of inde
 usc_title: 10
 usc_section: "4837"
 chapter: 453
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 4837"
-generated_at: "2026-03-30T06:46:36.836Z"
+generated_at: "2026-03-30T06:49:20.224Z"
 status: "active"
 ---
 

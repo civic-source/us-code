@@ -3,9 +3,9 @@ title: "Section 4711 - Committee on Standards of Official Conduct of House of Re
 usc_title: 2
 usc_section: "4711"
 chapter: 47
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 4711"
-generated_at: "2026-03-30T06:46:22.098Z"
+generated_at: "2026-03-30T06:49:07.827Z"
 status: "active"
 ---
 

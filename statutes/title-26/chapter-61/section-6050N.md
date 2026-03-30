@@ -3,9 +3,9 @@ title: "Section 6050N - Returns regarding payments of royalties"
 usc_title: 26
 usc_section: "6050N"
 chapter: 61
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 6050N"
-generated_at: "2026-03-30T06:47:50.851Z"
+generated_at: "2026-03-30T06:50:23.224Z"
 status: "active"
 ---
 

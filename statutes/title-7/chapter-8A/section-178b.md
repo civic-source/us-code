@@ -3,9 +3,9 @@ title: "Section 178b - Joint Commission on Research and Development of Critical 
 usc_title: 7
 usc_section: "178b"
 chapter: 8
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "7 U.S.C. § 178b"
-generated_at: "2026-03-30T06:46:41.715Z"
+generated_at: "2026-03-30T06:49:23.654Z"
 status: "active"
 ---
 

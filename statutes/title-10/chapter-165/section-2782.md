@@ -3,9 +3,9 @@ title: "Section 2782 - Damage to real property: disposition of amounts recovered
 usc_title: 10
 usc_section: "2782"
 chapter: 165
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 2782"
-generated_at: "2026-03-30T06:46:36.823Z"
+generated_at: "2026-03-30T06:49:20.211Z"
 status: "active"
 ---
 

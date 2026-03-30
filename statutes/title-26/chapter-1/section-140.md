@@ -3,9 +3,9 @@ title: "Section 140 - Cross references to other Acts"
 usc_title: 26
 usc_section: "140"
 chapter: 1
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 140"
-generated_at: "2026-03-30T06:47:50.680Z"
+generated_at: "2026-03-30T06:50:23.054Z"
 status: "active"
 ---
 

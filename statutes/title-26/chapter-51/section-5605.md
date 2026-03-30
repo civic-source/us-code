@@ -3,9 +3,9 @@ title: "Section 5605 - Penalty relating to return of materials used in the manuf
 usc_title: 26
 usc_section: "5605"
 chapter: 51
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 5605"
-generated_at: "2026-03-30T06:47:50.842Z"
+generated_at: "2026-03-30T06:50:23.215Z"
 status: "active"
 ---
 

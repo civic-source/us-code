@@ -3,9 +3,9 @@ title: "Section 6248 - Period of limitations for making adjustments"
 usc_title: 26
 usc_section: "6248"
 chapter: 63
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 6248"
-generated_at: "2026-03-30T06:47:50.861Z"
+generated_at: "2026-03-30T06:50:23.234Z"
 status: "active"
 ---
 

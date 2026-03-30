@@ -3,9 +3,9 @@ title: "Section 30506 - Rule of construction"
 usc_title: 34
 usc_section: "30506"
 chapter: 305
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "34 U.S.C. § 30506"
-generated_at: "2026-03-30T06:47:54.197Z"
+generated_at: "2026-03-30T06:50:29.183Z"
 status: "active"
 ---
 

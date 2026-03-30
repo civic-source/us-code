@@ -3,9 +3,9 @@ title: "Section 6574 - Senate Office of Public Records Revolving Fund"
 usc_title: 2
 usc_section: "6574"
 chapter: 65
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 6574"
-generated_at: "2026-03-30T06:46:22.105Z"
+generated_at: "2026-03-30T06:49:07.833Z"
 status: "active"
 ---
 

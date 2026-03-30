@@ -3,9 +3,9 @@ title: "Section 712a - Omitted"
 usc_title: 25
 usc_section: "712a"
 chapter: 14
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "25 U.S.C. § 712a"
-generated_at: "2026-03-30T06:47:36.037Z"
+generated_at: "2026-03-30T06:49:57.841Z"
 status: "omitted"
 ---
 

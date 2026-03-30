@@ -3,9 +3,9 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-30T06:46:36.768Z"
+generated_at: "2026-03-30T06:49:20.158Z"
 status: "active"
 ---
 

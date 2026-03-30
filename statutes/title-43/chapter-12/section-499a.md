@@ -3,9 +3,9 @@ title: "Section 499a - Transfer of title to movable property; use of appropriati
 usc_title: 43
 usc_section: "499a"
 chapter: 12
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 499a"
-generated_at: "2026-03-30T06:48:13.500Z"
+generated_at: "2026-03-30T06:50:36.243Z"
 status: "active"
 ---
 

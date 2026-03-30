@@ -3,9 +3,9 @@ title: "Section 15243 - Transferred"
 usc_title: 42
 usc_section: "15243"
 chapter: 145
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 15243"
-generated_at: "2026-03-30T06:48:26.659Z"
+generated_at: "2026-03-30T06:50:49.019Z"
 status: "transferred"
 ---
 

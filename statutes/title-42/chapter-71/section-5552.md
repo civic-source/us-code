@@ -3,9 +3,9 @@ title: "Section 5552 - Definitions"
 usc_title: 42
 usc_section: "5552"
 chapter: 71
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 5552"
-generated_at: "2026-03-30T06:48:26.459Z"
+generated_at: "2026-03-30T06:50:48.831Z"
 status: "active"
 ---
 

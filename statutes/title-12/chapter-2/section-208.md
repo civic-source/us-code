@@ -3,9 +3,9 @@ title: "Section 208 - Repealed. Pub. L. 101–73, title VIII , § 808, Aug. 9, 1
 usc_title: 12
 usc_section: "208"
 chapter: 2
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "12 U.S.C. § 208"
-generated_at: "2026-03-30T06:47:03.611Z"
+generated_at: "2026-03-30T06:49:32.399Z"
 status: "repealed"
 ---
 

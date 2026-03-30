@@ -3,9 +3,9 @@ title: "Section 1285 - Claim and allowance of charitable deduction for contribut
 usc_title: 16
 usc_section: "1285"
 chapter: 28
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 1285"
-generated_at: "2026-03-30T06:47:12.507Z"
+generated_at: "2026-03-30T06:49:39.118Z"
 status: "active"
 ---
 

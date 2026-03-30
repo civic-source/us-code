@@ -3,9 +3,9 @@ title: "Section 480 - Flight rations"
 usc_title: 14
 usc_section: "480"
 chapter: 13
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "14 U.S.C. § 480"
-generated_at: "2026-03-30T06:46:59.389Z"
+generated_at: "2026-03-30T06:49:26.496Z"
 status: "active"
 ---
 

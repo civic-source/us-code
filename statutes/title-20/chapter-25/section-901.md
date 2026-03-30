@@ -3,9 +3,9 @@ title: "Section 901 - Definitions"
 usc_title: 20
 usc_section: "901"
 chapter: 25
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "20 U.S.C. § 901"
-generated_at: "2026-03-30T06:47:10.125Z"
+generated_at: "2026-03-30T06:49:53.475Z"
 status: "active"
 ---
 

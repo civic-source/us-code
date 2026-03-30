@@ -3,9 +3,9 @@ title: "Section 3583 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "3583"
 chapter: 345
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 3583"
-generated_at: "2026-03-30T06:46:36.830Z"
+generated_at: "2026-03-30T06:49:20.218Z"
 status: "active"
 ---
 

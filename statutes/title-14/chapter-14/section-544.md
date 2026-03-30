@@ -3,9 +3,9 @@ title: "Section 544 - Dependent school children"
 usc_title: 14
 usc_section: "544"
 chapter: 14
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "14 U.S.C. § 544"
-generated_at: "2026-03-30T06:46:59.390Z"
+generated_at: "2026-03-30T06:49:26.497Z"
 status: "active"
 ---
 

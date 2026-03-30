@@ -3,9 +3,9 @@ title: "Section 3092 - Reporting of intelligence activities other than covert ac
 usc_title: 50
 usc_section: "3092"
 chapter: 44
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "50 U.S.C. § 3092"
-generated_at: "2026-03-30T06:48:30.903Z"
+generated_at: "2026-03-30T06:50:53.135Z"
 status: "active"
 ---
 

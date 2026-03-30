@@ -3,9 +3,9 @@ title: "Section 8103 - Medical services and initial medical and other benefits"
 usc_title: 5
 usc_section: "8103"
 chapter: 81
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "5 U.S.C. § 8103"
-generated_at: "2026-03-30T06:46:27.745Z"
+generated_at: "2026-03-30T06:49:01.302Z"
 status: "active"
 ---
 

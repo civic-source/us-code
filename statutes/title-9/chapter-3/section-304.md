@@ -3,9 +3,9 @@ title: "Section 304 - Recognition and enforcement of foreign arbitral decisions 
 usc_title: 9
 usc_section: "304"
 chapter: 3
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "9 U.S.C. § 304"
-generated_at: "2026-03-30T06:46:29.209Z"
+generated_at: "2026-03-30T06:49:09.205Z"
 status: "active"
 ---
 

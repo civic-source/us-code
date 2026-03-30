@@ -3,9 +3,9 @@ title: "Section 93 - Health insurance consumer information"
 usc_title: 42
 usc_section: "93"
 chapter: 6
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 93"
-generated_at: "2026-03-30T06:48:26.146Z"
+generated_at: "2026-03-30T06:50:48.528Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 354 - Lease of partial or future interests in deposits"
 usc_title: 30
 usc_section: "354"
 chapter: 7
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "30 U.S.C. § 354"
-generated_at: "2026-03-30T06:47:40.859Z"
+generated_at: "2026-03-30T06:50:15.819Z"
 status: "active"
 ---
 

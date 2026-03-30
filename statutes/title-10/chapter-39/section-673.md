@@ -3,9 +3,9 @@ title: "Section 673 - Consideration of application for permanent change of stati
 usc_title: 10
 usc_section: "673"
 chapter: 39
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 673"
-generated_at: "2026-03-30T06:46:36.747Z"
+generated_at: "2026-03-30T06:49:20.137Z"
 status: "active"
 ---
 

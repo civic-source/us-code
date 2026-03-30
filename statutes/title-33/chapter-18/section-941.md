@@ -3,9 +3,9 @@ title: "Section 941 - Safety rules and regulations"
 usc_title: 33
 usc_section: "941"
 chapter: 18
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "33 U.S.C. § 941"
-generated_at: "2026-03-30T06:47:55.168Z"
+generated_at: "2026-03-30T06:50:28.467Z"
 status: "active"
 ---
 

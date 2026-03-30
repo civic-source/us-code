@@ -3,9 +3,9 @@ title: "Section 361h - Relation of college or university to State unaffected; di
 usc_title: 7
 usc_section: "361h"
 chapter: 14
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "7 U.S.C. § 361h"
-generated_at: "2026-03-30T06:46:41.720Z"
+generated_at: "2026-03-30T06:49:23.659Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4902 - Liability of partners"
 usc_title: 26
 usc_section: "4902"
 chapter: 40
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 4902"
-generated_at: "2026-03-30T06:47:50.827Z"
+generated_at: "2026-03-30T06:50:23.200Z"
 status: "active"
 ---
 

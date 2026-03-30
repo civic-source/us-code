@@ -3,9 +3,9 @@ title: "Section 160 - Repealed. Pub. L. 112–141, div. A, title I , § 1519(b)(
 usc_title: 23
 usc_section: "160"
 chapter: 1
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "23 U.S.C. § 160"
-generated_at: "2026-03-30T06:47:25.278Z"
+generated_at: "2026-03-30T06:50:01.830Z"
 status: "repealed"
 ---
 

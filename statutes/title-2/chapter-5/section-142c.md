@@ -3,9 +3,9 @@ title: "Section 142c - Enforcement of liability of certifying officers of Librar
 usc_title: 2
 usc_section: "142c"
 chapter: 5
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 142c"
-generated_at: "2026-03-30T06:46:22.061Z"
+generated_at: "2026-03-30T06:49:07.792Z"
 status: "active"
 ---
 

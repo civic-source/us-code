@@ -3,9 +3,9 @@ title: "Section 30302 - Purposes"
 usc_title: 34
 usc_section: "30302"
 chapter: 303
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "34 U.S.C. § 30302"
-generated_at: "2026-03-30T06:47:54.195Z"
+generated_at: "2026-03-30T06:50:29.181Z"
 status: "active"
 ---
 

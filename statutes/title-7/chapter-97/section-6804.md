@@ -3,9 +3,9 @@ title: "Section 6804 - Required terms in orders"
 usc_title: 7
 usc_section: "6804"
 chapter: 97
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "7 U.S.C. § 6804"
-generated_at: "2026-03-30T06:46:41.829Z"
+generated_at: "2026-03-30T06:49:23.770Z"
 status: "active"
 ---
 

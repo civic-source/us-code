@@ -3,9 +3,9 @@ title: "Section 12645f - Restrictions on Federal Government and use of Federal f
 usc_title: 42
 usc_section: "12645f"
 chapter: 129
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 12645f"
-generated_at: "2026-03-30T06:48:26.627Z"
+generated_at: "2026-03-30T06:50:48.989Z"
 status: "active"
 ---
 

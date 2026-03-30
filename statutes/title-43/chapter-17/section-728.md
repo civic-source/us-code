@@ -3,9 +3,9 @@ title: "Section 728 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21
 usc_title: 43
 usc_section: "728"
 chapter: 17
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 728"
-generated_at: "2026-03-30T06:48:13.507Z"
+generated_at: "2026-03-30T06:50:36.249Z"
 status: "repealed"
 ---
 

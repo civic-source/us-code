@@ -3,9 +3,9 @@ title: "Section 7002 - United States-China Economic and Security Review Commissi
 usc_title: 22
 usc_section: "7002"
 chapter: 77
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "22 U.S.C. § 7002"
-generated_at: "2026-03-30T06:47:23.091Z"
+generated_at: "2026-03-30T06:50:13.561Z"
 status: "active"
 ---
 

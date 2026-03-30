@@ -3,9 +3,9 @@ title: "Section 1156 - Repealed. Pub. L. 101–403, title II , § 202(b), Oct. 1
 usc_title: 50
 usc_section: "1156"
 chapter: 26
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "50 U.S.C. § 1156"
-generated_at: "2026-03-30T06:48:30.871Z"
+generated_at: "2026-03-30T06:50:53.103Z"
 status: "repealed"
 ---
 

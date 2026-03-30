@@ -3,9 +3,9 @@ title: "Section 80102 - Purposes"
 usc_title: 36
 usc_section: "80102"
 chapter: 801
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "36 U.S.C. § 80102"
-generated_at: "2026-03-30T06:47:59.909Z"
+generated_at: "2026-03-30T06:50:31.371Z"
 status: "active"
 ---
 

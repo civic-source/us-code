@@ -3,9 +3,9 @@ title: "Section 1a - Transfer of activities, employees, records, etc., from Bure
 usc_title: 30
 usc_section: "1a"
 chapter: 1
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "30 U.S.C. § 1a"
-generated_at: "2026-03-30T06:47:40.851Z"
+generated_at: "2026-03-30T06:50:15.811Z"
 status: "active"
 ---
 

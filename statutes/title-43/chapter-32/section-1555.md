@@ -3,9 +3,9 @@ title: "Section 1555 - Federal Power Act inapplicable to Colorado River between 
 usc_title: 43
 usc_section: "1555"
 chapter: 32
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 1555"
-generated_at: "2026-03-30T06:48:13.520Z"
+generated_at: "2026-03-30T06:50:36.262Z"
 status: "active"
 ---
 

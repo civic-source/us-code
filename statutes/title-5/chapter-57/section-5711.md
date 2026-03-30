@@ -3,9 +3,9 @@ title: "Section 5711 - Authority for telework travel expenses test programs"
 usc_title: 5
 usc_section: "5711"
 chapter: 57
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "5 U.S.C. § 5711"
-generated_at: "2026-03-30T06:46:27.734Z"
+generated_at: "2026-03-30T06:49:01.291Z"
 status: "active"
 ---
 

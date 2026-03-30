@@ -3,9 +3,9 @@ title: "Section 5120 - International uniformity of standards and requirements"
 usc_title: 49
 usc_section: "5120"
 chapter: 51
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "49 U.S.C. § 5120"
-generated_at: "2026-03-30T06:48:36.687Z"
+generated_at: "2026-03-30T06:51:06.850Z"
 status: "active"
 ---
 

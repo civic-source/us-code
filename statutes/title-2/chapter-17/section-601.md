@@ -3,9 +3,9 @@ title: "Section 601 - Establishment"
 usc_title: 2
 usc_section: "601"
 chapter: 17
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 601"
-generated_at: "2026-03-30T06:46:22.070Z"
+generated_at: "2026-03-30T06:49:07.800Z"
 status: "active"
 ---
 

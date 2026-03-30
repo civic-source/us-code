@@ -3,9 +3,9 @@ title: "Section 375d - Issuance of patent for small tracts; reservations"
 usc_title: 43
 usc_section: "375d"
 chapter: 12
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 375d"
-generated_at: "2026-03-30T06:48:13.491Z"
+generated_at: "2026-03-30T06:50:36.233Z"
 status: "active"
 ---
 

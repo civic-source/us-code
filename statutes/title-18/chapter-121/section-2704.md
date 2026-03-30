@@ -3,9 +3,9 @@ title: "Section 2704 - Backup preservation"
 usc_title: 18
 usc_section: "2704"
 chapter: 121
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "18 U.S.C. § 2704"
-generated_at: "2026-03-30T06:47:07.302Z"
+generated_at: "2026-03-30T06:49:51.795Z"
 status: "active"
 ---
 

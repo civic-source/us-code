@@ -3,9 +3,9 @@ title: "Section 733 - Training regarding whistleblower disclosures"
 usc_title: 38
 usc_section: "733"
 chapter: 7
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "38 U.S.C. § 733"
-generated_at: "2026-03-30T06:48:01.675Z"
+generated_at: "2026-03-30T06:50:33.759Z"
 status: "active"
 ---
 

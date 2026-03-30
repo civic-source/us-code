@@ -3,9 +3,9 @@ title: "Section 14038 - Transferred"
 usc_title: 42
 usc_section: "14038"
 chapter: 136
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 14038"
-generated_at: "2026-03-30T06:48:26.651Z"
+generated_at: "2026-03-30T06:50:49.012Z"
 status: "transferred"
 ---
 

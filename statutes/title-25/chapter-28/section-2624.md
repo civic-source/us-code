@@ -3,9 +3,9 @@ title: "Section 2624 - Repealed. Pub. L. 103–382, title III , § 367, Oct. 20,
 usc_title: 25
 usc_section: "2624"
 chapter: 28
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "25 U.S.C. § 2624"
-generated_at: "2026-03-30T06:47:36.069Z"
+generated_at: "2026-03-30T06:49:57.868Z"
 status: "repealed"
 ---
 

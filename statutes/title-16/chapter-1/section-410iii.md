@@ -3,9 +3,9 @@ title: "Section 410iii - Purpose"
 usc_title: 16
 usc_section: "410iii"
 chapter: 1
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "16 U.S.C. § 410iii"
-generated_at: "2026-03-30T06:47:12.396Z"
+generated_at: "2026-03-30T06:49:39.003Z"
 status: "active"
 ---
 

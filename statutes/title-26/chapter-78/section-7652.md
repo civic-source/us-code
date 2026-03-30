@@ -3,9 +3,9 @@ title: "Section 7652 - Shipments to the United States"
 usc_title: 26
 usc_section: "7652"
 chapter: 78
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "26 U.S.C. § 7652"
-generated_at: "2026-03-30T06:47:50.888Z"
+generated_at: "2026-03-30T06:50:23.259Z"
 status: "active"
 ---
 

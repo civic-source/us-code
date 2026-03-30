@@ -3,9 +3,9 @@ title: "Section 10563 - Allocation"
 usc_title: 34
 usc_section: "10563"
 chapter: 101
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "34 U.S.C. § 10563"
-generated_at: "2026-03-30T06:47:54.166Z"
+generated_at: "2026-03-30T06:50:29.152Z"
 status: "active"
 ---
 

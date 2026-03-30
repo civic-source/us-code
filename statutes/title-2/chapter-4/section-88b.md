@@ -3,9 +3,9 @@ title: "Section 88b - Transferred"
 usc_title: 2
 usc_section: "88b"
 chapter: 4
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 88b"
-generated_at: "2026-03-30T06:46:22.059Z"
+generated_at: "2026-03-30T06:49:07.791Z"
 status: "transferred"
 ---
 

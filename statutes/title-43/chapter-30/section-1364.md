@@ -3,9 +3,9 @@ title: "Section 1364 - Repealed. Pub. L. 94–579, title VII , § 705(a), Oct. 2
 usc_title: 43
 usc_section: "1364"
 chapter: 30
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 1364"
-generated_at: "2026-03-30T06:48:13.517Z"
+generated_at: "2026-03-30T06:50:36.259Z"
 status: "repealed"
 ---
 

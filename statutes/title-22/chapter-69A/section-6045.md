@@ -3,9 +3,9 @@ title: "Section 6045 - Effect of chapter on lawful United States Government acti
 usc_title: 22
 usc_section: "6045"
 chapter: 69
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "22 U.S.C. § 6045"
-generated_at: "2026-03-30T06:47:23.081Z"
+generated_at: "2026-03-30T06:50:13.550Z"
 status: "active"
 ---
 

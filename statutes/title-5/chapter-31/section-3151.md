@@ -3,9 +3,9 @@ title: "Section 3151 - The Federal Bureau of Investigation and Drug Enforcement 
 usc_title: 5
 usc_section: "3151"
 chapter: 31
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "5 U.S.C. § 3151"
-generated_at: "2026-03-30T06:46:27.719Z"
+generated_at: "2026-03-30T06:49:01.276Z"
 status: "active"
 ---
 

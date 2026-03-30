@@ -3,9 +3,9 @@ title: "Section 9832 - Repealed. Pub. L. 110–181, div. A, title III , § 375(c
 usc_title: 10
 usc_section: "9832"
 chapter: 953
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 9832"
-generated_at: "2026-03-30T06:46:36.854Z"
+generated_at: "2026-03-30T06:49:20.243Z"
 status: "repealed"
 ---
 

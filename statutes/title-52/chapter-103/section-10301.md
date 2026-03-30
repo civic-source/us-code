@@ -3,9 +3,9 @@ title: "Section 10301 - Denial or abridgement of right to vote on account of rac
 usc_title: 52
 usc_section: "10301"
 chapter: 103
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "52 U.S.C. § 10301"
-generated_at: "2026-03-30T06:48:42.965Z"
+generated_at: "2026-03-30T06:51:11.564Z"
 status: "active"
 ---
 

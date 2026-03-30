@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 87–23 , § 2, Apr. 24, 1961 , 75 Stat. 4
 usc_title: 25
 usc_section: "1"
 chapter: 7
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T06:47:36.028Z"
+generated_at: "2026-03-30T06:49:57.833Z"
 status: "repealed"
 ---
 

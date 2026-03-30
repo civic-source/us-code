@@ -3,9 +3,9 @@ title: "Section 392a - Repealed. Pub. L. 95–567, title II , § 201, Nov. 2, 19
 usc_title: 47
 usc_section: "392a"
 chapter: 5
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "47 U.S.C. § 392a"
-generated_at: "2026-03-30T06:48:29.898Z"
+generated_at: "2026-03-30T06:50:51.946Z"
 status: "repealed"
 ---
 

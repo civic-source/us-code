@@ -3,9 +3,9 @@ title: "Section 12007 - Reserve officers of the Army: distribution"
 usc_title: 10
 usc_section: "12007"
 chapter: 1201
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 12007"
-generated_at: "2026-03-30T06:46:36.858Z"
+generated_at: "2026-03-30T06:49:20.246Z"
 status: "active"
 ---
 

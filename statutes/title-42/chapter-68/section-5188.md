@@ -3,9 +3,9 @@ title: "Section 5188 - Timber sale contracts"
 usc_title: 42
 usc_section: "5188"
 chapter: 68
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 5188"
-generated_at: "2026-03-30T06:48:26.451Z"
+generated_at: "2026-03-30T06:50:48.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8712 - Mayor of the District of Columbia"
 usc_title: 40
 usc_section: "8712"
 chapter: 87
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "40 U.S.C. § 8712"
-generated_at: "2026-03-30T06:48:05.555Z"
+generated_at: "2026-03-30T06:50:32.271Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 284h - Second replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284h"
 chapter: 7
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "22 U.S.C. § 284h"
-generated_at: "2026-03-30T06:47:22.990Z"
+generated_at: "2026-03-30T06:50:13.459Z"
 status: "active"
 ---
 

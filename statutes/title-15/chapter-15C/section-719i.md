@@ -3,9 +3,9 @@ title: "Section 719i - Supplemental enforcement authority"
 usc_title: 15
 usc_section: "719i"
 chapter: 15
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "15 U.S.C. § 719i"
-generated_at: "2026-03-30T06:46:55.679Z"
+generated_at: "2026-03-30T06:49:29.486Z"
 status: "active"
 ---
 

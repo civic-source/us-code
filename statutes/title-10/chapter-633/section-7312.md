@@ -3,9 +3,9 @@ title: "Section 7312 - Service craft stricken from Naval Vessel Register; obsole
 usc_title: 10
 usc_section: "7312"
 chapter: 633
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 7312"
-generated_at: "2026-03-30T06:46:36.844Z"
+generated_at: "2026-03-30T06:49:20.233Z"
 status: "active"
 ---
 

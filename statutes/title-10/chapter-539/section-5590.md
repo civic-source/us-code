@@ -3,9 +3,9 @@ title: "Section 5590 - Repealed. Pub. L. 96–513, title III , § 373(e), Dec. 1
 usc_title: 10
 usc_section: "5590"
 chapter: 539
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 5590"
-generated_at: "2026-03-30T06:46:36.838Z"
+generated_at: "2026-03-30T06:49:20.226Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 862b - Sanctioning for testing positive for controlled substance
 usc_title: 21
 usc_section: "862b"
 chapter: 13
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "21 U.S.C. § 862b"
-generated_at: "2026-03-30T06:47:17.223Z"
+generated_at: "2026-03-30T06:50:03.001Z"
 status: "active"
 ---
 

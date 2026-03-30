@@ -3,9 +3,9 @@ title: "Section 524 - Availability of appropriations"
 usc_title: 28
 usc_section: "524"
 chapter: 31
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "28 U.S.C. § 524"
-generated_at: "2026-03-30T06:47:40.534Z"
+generated_at: "2026-03-30T06:50:16.632Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3482 - Computation of educational assistance allowances"
 usc_title: 38
 usc_section: "3482"
 chapter: 34
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "38 U.S.C. § 3482"
-generated_at: "2026-03-30T06:48:01.699Z"
+generated_at: "2026-03-30T06:50:33.781Z"
 status: "active"
 ---
 

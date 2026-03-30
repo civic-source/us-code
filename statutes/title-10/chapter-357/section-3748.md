@@ -3,9 +3,9 @@ title: "Section 3748 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "3748"
 chapter: 357
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 3748"
-generated_at: "2026-03-30T06:46:36.831Z"
+generated_at: "2026-03-30T06:49:20.219Z"
 status: "active"
 ---
 

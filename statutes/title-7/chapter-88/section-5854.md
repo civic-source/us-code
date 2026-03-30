@@ -3,9 +3,9 @@ title: "Section 5854 - State agricultural weather information systems"
 usc_title: 7
 usc_section: "5854"
 chapter: 88
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "7 U.S.C. § 5854"
-generated_at: "2026-03-30T06:46:41.819Z"
+generated_at: "2026-03-30T06:49:23.760Z"
 status: "active"
 ---
 

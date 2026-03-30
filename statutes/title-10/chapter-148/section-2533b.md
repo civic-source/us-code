@@ -3,9 +3,9 @@ title: "Section 2533b - Requirement to buy strategic materials critical to natio
 usc_title: 10
 usc_section: "2533b"
 chapter: 148
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "10 U.S.C. § 2533b"
-generated_at: "2026-03-30T06:46:36.814Z"
+generated_at: "2026-03-30T06:49:20.201Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1709B - Evaluations of mental health care and suicide prevention
 usc_title: 38
 usc_section: "1709B"
 chapter: 17
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "38 U.S.C. § 1709B"
-generated_at: "2026-03-30T06:48:01.680Z"
+generated_at: "2026-03-30T06:50:33.763Z"
 status: "active"
 ---
 

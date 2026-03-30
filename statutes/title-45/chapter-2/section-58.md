@@ -3,9 +3,9 @@ title: "Section 58 - Duty or liability of common carriers and rights of employee
 usc_title: 45
 usc_section: "58"
 chapter: 2
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "45 U.S.C. § 58"
-generated_at: "2026-03-30T06:48:12.834Z"
+generated_at: "2026-03-30T06:50:36.789Z"
 status: "active"
 ---
 

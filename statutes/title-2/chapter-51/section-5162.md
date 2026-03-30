@@ -3,9 +3,9 @@ title: "Section 5162 - Republican Policy Committee"
 usc_title: 2
 usc_section: "5162"
 chapter: 51
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "2 U.S.C. § 5162"
-generated_at: "2026-03-30T06:46:22.100Z"
+generated_at: "2026-03-30T06:49:07.829Z"
 status: "active"
 ---
 

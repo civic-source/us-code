@@ -3,9 +3,9 @@ title: "Section 807 - Repealed. Pub. L. 95–281 , § 1(b)(1), May 15, 1978 , 92
 usc_title: 25
 usc_section: "807"
 chapter: 14
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "25 U.S.C. § 807"
-generated_at: "2026-03-30T06:47:36.039Z"
+generated_at: "2026-03-30T06:49:57.841Z"
 status: "repealed"
 ---
 

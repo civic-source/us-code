@@ -3,9 +3,9 @@ title: "Section 6402 - Definitions"
 usc_title: 7
 usc_section: "6402"
 chapter: 93
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "7 U.S.C. § 6402"
-generated_at: "2026-03-30T06:46:41.826Z"
+generated_at: "2026-03-30T06:49:23.767Z"
 status: "active"
 ---
 

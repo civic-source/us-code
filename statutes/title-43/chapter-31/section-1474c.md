@@ -3,9 +3,9 @@ title: "Section 1474c - North American Wetlands Conservation Fund; availability 
 usc_title: 43
 usc_section: "1474c"
 chapter: 31
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "43 U.S.C. § 1474c"
-generated_at: "2026-03-30T06:48:13.518Z"
+generated_at: "2026-03-30T06:50:36.261Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31343 - Recording and discharging notices of claim of maritime l
 usc_title: 46
 usc_section: "31343"
 chapter: 313
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "46 U.S.C. § 31343"
-generated_at: "2026-03-30T06:48:41.294Z"
+generated_at: "2026-03-30T06:50:59.702Z"
 status: "active"
 ---
 

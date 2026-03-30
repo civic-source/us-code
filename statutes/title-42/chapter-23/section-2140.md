@@ -3,9 +3,9 @@ title: "Section 2140 - Exclusions from license requirement"
 usc_title: 42
 usc_section: "2140"
 chapter: 23
-current_through: "PL 115-68"
+current_through: "PL 115-71"
 classification: "42 U.S.C. § 2140"
-generated_at: "2026-03-30T06:48:26.388Z"
+generated_at: "2026-03-30T06:50:48.761Z"
 status: "active"
 ---
 
