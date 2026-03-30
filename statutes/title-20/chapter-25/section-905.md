@@ -3,9 +3,9 @@ title: "Section 905 - Quarters, quarters allowances, and storage"
 usc_title: 20
 usc_section: "905"
 chapter: 25
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 905"
-generated_at: "2026-03-30T06:30:45.499Z"
+generated_at: "2026-03-30T06:32:57.290Z"
 status: "active"
 ---
 

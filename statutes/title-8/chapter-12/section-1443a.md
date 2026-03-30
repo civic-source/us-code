@@ -3,9 +3,9 @@ title: "Section 1443a - Naturalization proceedings overseas for members of the A
 usc_title: 8
 usc_section: "1443a"
 chapter: 12
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "8 U.S.C. § 1443a"
-generated_at: "2026-03-30T06:30:23.095Z"
+generated_at: "2026-03-30T06:32:21.846Z"
 status: "active"
 ---
 

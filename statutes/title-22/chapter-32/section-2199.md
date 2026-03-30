@@ -3,9 +3,9 @@ title: "Section 2199 - General provisions and powers"
 usc_title: 22
 usc_section: "2199"
 chapter: 32
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 2199"
-generated_at: "2026-03-30T06:30:58.370Z"
+generated_at: "2026-03-30T06:34:00.524Z"
 status: "active"
 ---
 

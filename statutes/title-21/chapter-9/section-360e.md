@@ -3,9 +3,9 @@ title: "Section 360e - Premarket approval"
 usc_title: 21
 usc_section: "360e"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "21 U.S.C. § 360e"
-generated_at: "2026-03-30T06:30:54.301Z"
+generated_at: "2026-03-30T06:33:12.525Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(A)** may on the Secretary’s own initiative, or
     - **(B)** shall, upon the request of an applicant unless the Secretary finds that the information in the application which would be reviewed by a panel substantially duplicates information which has previously been reviewed by a panel appointed under section 360c of this title ,
   - **(4)**
-    - **(A)** Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(h) of this title , the Secretary does not have the authority to collect fees under section 379j(a) of this title .
+    - **(A)** Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title , the Secretary does not have the authority to collect fees under section 379j(a) of this title .
     - **(B)** Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
     - **(C)** Whenever the Secretary determines that a portion of a submission under subparagraph (A) is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
   - **(5)**

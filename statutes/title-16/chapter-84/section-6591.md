@@ -3,9 +3,9 @@ title: "Section 6591 - Forest stands inventory and monitoring program to improve
 usc_title: 16
 usc_section: "6591"
 chapter: 84
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 6591"
-generated_at: "2026-03-30T06:30:49.861Z"
+generated_at: "2026-03-30T06:33:07.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2568 - Authority to use international nuclear materials protecti
 usc_title: 50
 usc_section: "2568"
 chapter: 42
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "50 U.S.C. § 2568"
-generated_at: "2026-03-30T06:31:53.136Z"
+generated_at: "2026-03-30T06:35:36.720Z"
 status: "active"
 ---
 

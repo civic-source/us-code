@@ -3,9 +3,9 @@ title: "Section 1362 - Rules and regulations"
 usc_title: 15
 usc_section: "1362"
 chapter: 37
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 1362"
-generated_at: "2026-03-30T06:30:39.861Z"
+generated_at: "2026-03-30T06:32:44.016Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5602 - Termination of contracts for foreign transportation"
 usc_title: 39
 usc_section: "5602"
 chapter: 56
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "39 U.S.C. § 5602"
-generated_at: "2026-03-30T06:31:28.088Z"
+generated_at: "2026-03-30T06:34:41.707Z"
 status: "active"
 ---
 

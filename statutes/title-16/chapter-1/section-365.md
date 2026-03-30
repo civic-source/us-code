@@ -3,9 +3,9 @@ title: "Section 365 - Taxation, under State laws"
 usc_title: 16
 usc_section: "365"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 365"
-generated_at: "2026-03-30T06:30:49.585Z"
+generated_at: "2026-03-30T06:33:07.636Z"
 status: "active"
 ---
 

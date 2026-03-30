@@ -3,9 +3,9 @@ title: "Section 1057 - Repealed. Pub. L. 109–280, title I , § 108(d), formerl
 usc_title: 29
 usc_section: "1057"
 chapter: 18
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "29 U.S.C. § 1057"
-generated_at: "2026-03-30T06:31:05.405Z"
+generated_at: "2026-03-30T06:34:08.668Z"
 status: "repealed"
 ---
 

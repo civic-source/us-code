@@ -3,9 +3,9 @@ title: "Section 4709 - Executive Secretary"
 usc_title: 20
 usc_section: "4709"
 chapter: 59
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 4709"
-generated_at: "2026-03-30T06:30:45.593Z"
+generated_at: "2026-03-30T06:32:57.373Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2710 - Applicability of provisions to amendments to orders"
 usc_title: 7
 usc_section: "2710"
 chapter: 60
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "7 U.S.C. § 2710"
-generated_at: "2026-03-30T06:30:27.441Z"
+generated_at: "2026-03-30T06:32:29.886Z"
 status: "active"
 ---
 

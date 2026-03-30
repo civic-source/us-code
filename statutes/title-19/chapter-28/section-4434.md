@@ -3,9 +3,9 @@ title: "Section 4434 - Lost and stolen passports"
 usc_title: 19
 usc_section: "4434"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "19 U.S.C. § 4434"
-generated_at: "2026-03-30T06:30:43.727Z"
+generated_at: "2026-03-30T06:33:04.943Z"
 status: "active"
 ---
 

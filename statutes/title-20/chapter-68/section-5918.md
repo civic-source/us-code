@@ -3,9 +3,9 @@ title: "Section 5918 - Repealed. Pub. L. 106–113, div. B , § 1000(a)(4) [titl
 usc_title: 20
 usc_section: "5918"
 chapter: 68
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 5918"
-generated_at: "2026-03-30T06:30:45.596Z"
+generated_at: "2026-03-30T06:32:57.377Z"
 status: "repealed"
 ---
 

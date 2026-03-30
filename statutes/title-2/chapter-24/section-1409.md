@@ -3,9 +3,9 @@ title: "Section 1409 - Judicial review of regulations"
 usc_title: 2
 usc_section: "1409"
 chapter: 24
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "2 U.S.C. § 1409"
-generated_at: "2026-03-30T06:30:18.629Z"
+generated_at: "2026-03-30T06:32:10.154Z"
 status: "active"
 ---
 

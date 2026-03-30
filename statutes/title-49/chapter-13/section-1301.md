@@ -3,9 +3,9 @@ title: "Section 1301 - Establishment of Board"
 usc_title: 49
 usc_section: "1301"
 chapter: 13
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "49 U.S.C. § 1301"
-generated_at: "2026-03-30T06:31:54.962Z"
+generated_at: "2026-03-30T06:35:52.459Z"
 status: "active"
 ---
 

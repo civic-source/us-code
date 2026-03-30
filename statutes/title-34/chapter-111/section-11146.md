@@ -3,9 +3,9 @@ title: "Section 11146 - Grants to Indian tribes"
 usc_title: 34
 usc_section: "11146"
 chapter: 111
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "34 U.S.C. § 11146"
-generated_at: "2026-03-30T06:31:20.890Z"
+generated_at: "2026-03-30T06:34:28.626Z"
 status: "active"
 ---
 

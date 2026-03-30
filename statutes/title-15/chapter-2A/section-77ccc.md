@@ -3,9 +3,9 @@ title: "Section 77ccc - Definitions"
 usc_title: 15
 usc_section: "77ccc"
 chapter: 2
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 77ccc"
-generated_at: "2026-03-30T06:30:39.759Z"
+generated_at: "2026-03-30T06:32:43.931Z"
 status: "active"
 ---
 

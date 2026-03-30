@@ -3,9 +3,9 @@ title: "Section 6402 - National coral reef action strategy"
 usc_title: 16
 usc_section: "6402"
 chapter: 83
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 6402"
-generated_at: "2026-03-30T06:30:49.858Z"
+generated_at: "2026-03-30T06:33:07.828Z"
 status: "active"
 ---
 

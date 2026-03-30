@@ -3,9 +3,9 @@ title: "Section 5062 - United States Navy: composition; functions"
 usc_title: 10
 usc_section: "5062"
 chapter: 507
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 5062"
-generated_at: "2026-03-30T06:30:32.005Z"
+generated_at: "2026-03-30T06:32:27.107Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 209 - Licensing federally owned inventions"
 usc_title: 35
 usc_section: "209"
 chapter: 18
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "35 U.S.C. § 209"
-generated_at: "2026-03-30T06:31:19.602Z"
+generated_at: "2026-03-30T06:34:32.134Z"
 status: "active"
 ---
 

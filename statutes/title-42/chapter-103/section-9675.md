@@ -3,9 +3,9 @@ title: "Section 9675 - Applicability of securities laws"
 usc_title: 42
 usc_section: "9675"
 chapter: 103
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 9675"
-generated_at: "2026-03-30T06:31:47.948Z"
+generated_at: "2026-03-30T06:35:25.058Z"
 status: "active"
 ---
 

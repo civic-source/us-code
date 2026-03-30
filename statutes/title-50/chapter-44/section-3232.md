@@ -3,9 +3,9 @@ title: "Section 3232 - Counterintelligence initiatives"
 usc_title: 50
 usc_section: "3232"
 chapter: 44
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "50 U.S.C. § 3232"
-generated_at: "2026-03-30T06:31:53.152Z"
+generated_at: "2026-03-30T06:35:36.735Z"
 status: "active"
 ---
 

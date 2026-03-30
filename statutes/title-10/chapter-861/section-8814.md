@@ -3,9 +3,9 @@ title: "Section 8814 - Repealed. Pub. L. 96–513, title II , § 214, Dec. 12, 1
 usc_title: 10
 usc_section: "8814"
 chapter: 861
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 8814"
-generated_at: "2026-03-30T06:30:32.023Z"
+generated_at: "2026-03-30T06:32:27.122Z"
 status: "repealed"
 ---
 

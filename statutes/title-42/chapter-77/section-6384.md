@@ -3,9 +3,9 @@ title: "Section 6384 - Enforcement"
 usc_title: 42
 usc_section: "6384"
 chapter: 77
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 6384"
-generated_at: "2026-03-30T06:31:47.839Z"
+generated_at: "2026-03-30T06:35:24.976Z"
 status: "active"
 ---
 

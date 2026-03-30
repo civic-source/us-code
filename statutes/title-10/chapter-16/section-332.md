@@ -3,9 +3,9 @@ title: "Section 332 - Friendly foreign countries; international and regional org
 usc_title: 10
 usc_section: "332"
 chapter: 16
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 332"
-generated_at: "2026-03-30T06:30:31.865Z"
+generated_at: "2026-03-30T06:32:27.002Z"
 status: "active"
 ---
 

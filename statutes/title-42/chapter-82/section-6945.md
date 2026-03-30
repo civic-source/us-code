@@ -3,9 +3,9 @@ title: "Section 6945 - Upgrading of open dumps"
 usc_title: 42
 usc_section: "6945"
 chapter: 82
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 6945"
-generated_at: "2026-03-30T06:31:47.855Z"
+generated_at: "2026-03-30T06:35:24.987Z"
 status: "active"
 ---
 

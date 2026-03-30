@@ -3,9 +3,9 @@ title: "Section 21301 - Definitions"
 usc_title: 34
 usc_section: "21301"
 chapter: 213
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "34 U.S.C. § 21301"
-generated_at: "2026-03-30T06:31:20.921Z"
+generated_at: "2026-03-30T06:34:28.646Z"
 status: "active"
 ---
 

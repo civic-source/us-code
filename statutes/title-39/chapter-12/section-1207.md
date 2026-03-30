@@ -3,9 +3,9 @@ title: "Section 1207 - Labor disputes"
 usc_title: 39
 usc_section: "1207"
 chapter: 12
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "39 U.S.C. § 1207"
-generated_at: "2026-03-30T06:31:28.081Z"
+generated_at: "2026-03-30T06:34:41.701Z"
 status: "active"
 ---
 

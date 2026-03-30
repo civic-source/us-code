@@ -3,9 +3,9 @@ title: "Section 1620 - Taxation"
 usc_title: 43
 usc_section: "1620"
 chapter: 33
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "43 U.S.C. § 1620"
-generated_at: "2026-03-30T06:31:33.892Z"
+generated_at: "2026-03-30T06:34:52.444Z"
 status: "active"
 ---
 

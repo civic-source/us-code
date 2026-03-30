@@ -3,9 +3,9 @@ title: "Section 631b - Reports to Congress; state of small business"
 usc_title: 15
 usc_section: "631b"
 chapter: 14
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 631b"
-generated_at: "2026-03-30T06:30:39.809Z"
+generated_at: "2026-03-30T06:32:43.974Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4421 - Enhancement of engagement on currency exchange rate and e
 usc_title: 19
 usc_section: "4421"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "19 U.S.C. § 4421"
-generated_at: "2026-03-30T06:30:43.726Z"
+generated_at: "2026-03-30T06:33:04.942Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6959 - Midshipmen: agreement for length of service"
 usc_title: 10
 usc_section: "6959"
 chapter: 603
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 6959"
-generated_at: "2026-03-30T06:30:32.012Z"
+generated_at: "2026-03-30T06:32:27.112Z"
 status: "active"
 ---
 

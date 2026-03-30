@@ -3,9 +3,9 @@ title: "Section 5306 - Private enterprise participation in metropolitan planning
 usc_title: 49
 usc_section: "5306"
 chapter: 53
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "49 U.S.C. § 5306"
-generated_at: "2026-03-30T06:31:54.967Z"
+generated_at: "2026-03-30T06:35:52.465Z"
 status: "active"
 ---
 

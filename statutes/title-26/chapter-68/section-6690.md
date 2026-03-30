@@ -3,9 +3,9 @@ title: "Section 6690 - Fraudulent statement or failure to furnish statement to p
 usc_title: 26
 usc_section: "6690"
 chapter: 68
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 6690"
-generated_at: "2026-03-30T06:31:17.221Z"
+generated_at: "2026-03-30T06:34:25.308Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3604 - Interagency financing and agreements"
 usc_title: 33
 usc_section: "3604"
 chapter: 49
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "33 U.S.C. § 3604"
-generated_at: "2026-03-30T06:31:22.741Z"
+generated_at: "2026-03-30T06:34:36.687Z"
 status: "active"
 ---
 

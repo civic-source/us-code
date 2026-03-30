@@ -3,9 +3,9 @@ title: "Section 1511 - Bureaus in Department"
 usc_title: 15
 usc_section: "1511"
 chapter: 40
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 1511"
-generated_at: "2026-03-30T06:30:39.862Z"
+generated_at: "2026-03-30T06:32:44.018Z"
 status: "active"
 ---
 

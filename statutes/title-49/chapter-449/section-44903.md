@@ -3,9 +3,9 @@ title: "Section 44903 - Air transportation security"
 usc_title: 49
 usc_section: "44903"
 chapter: 449
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "49 U.S.C. § 44903"
-generated_at: "2026-03-30T06:31:55.028Z"
+generated_at: "2026-03-30T06:35:52.525Z"
 status: "active"
 ---
 

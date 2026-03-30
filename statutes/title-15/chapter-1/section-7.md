@@ -3,9 +3,9 @@ title: "Section 7 - “Person” or “persons” defined"
 usc_title: 15
 usc_section: "7"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-30T06:30:39.743Z"
+generated_at: "2026-03-30T06:32:43.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1520a - Restrictions on use of human subjects for testing of che
 usc_title: 50
 usc_section: "1520a"
 chapter: 32
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "50 U.S.C. § 1520a"
-generated_at: "2026-03-30T06:31:53.114Z"
+generated_at: "2026-03-30T06:35:36.700Z"
 status: "active"
 ---
 

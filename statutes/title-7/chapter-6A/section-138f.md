@@ -3,9 +3,9 @@ title: "Section 138f - Fees"
 usc_title: 7
 usc_section: "138f"
 chapter: 6
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "7 U.S.C. § 138f"
-generated_at: "2026-03-30T06:30:27.346Z"
+generated_at: "2026-03-30T06:32:29.800Z"
 status: "active"
 ---
 

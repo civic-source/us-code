@@ -3,9 +3,9 @@ title: "Section 3174 - Provision of comprehensive economic development strategie
 usc_title: 42
 usc_section: "3174"
 chapter: 38
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 3174"
-generated_at: "2026-03-30T06:31:47.757Z"
+generated_at: "2026-03-30T06:35:24.915Z"
 status: "active"
 ---
 

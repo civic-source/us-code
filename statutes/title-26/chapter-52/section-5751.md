@@ -3,9 +3,9 @@ title: "Section 5751 - Purchase, receipt, possession, or sale of tobacco product
 usc_title: 26
 usc_section: "5751"
 chapter: 52
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 5751"
-generated_at: "2026-03-30T06:31:17.169Z"
+generated_at: "2026-03-30T06:34:25.278Z"
 status: "active"
 ---
 

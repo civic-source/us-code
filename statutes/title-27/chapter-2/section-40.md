@@ -3,9 +3,9 @@ title: "Section 40 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 
 usc_title: 27
 usc_section: "40"
 chapter: 2
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "27 U.S.C. § 40"
-generated_at: "2026-03-30T06:31:00.787Z"
+generated_at: "2026-03-30T06:34:09.917Z"
 status: "repealed"
 ---
 

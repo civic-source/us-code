@@ -3,9 +3,9 @@ title: "Section 6392 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "6392"
 chapter: 573
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 6392"
-generated_at: "2026-03-30T06:30:32.010Z"
+generated_at: "2026-03-30T06:32:27.112Z"
 status: "repealed"
 ---
 

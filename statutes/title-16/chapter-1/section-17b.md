@@ -3,9 +3,9 @@ title: "Section 17b - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17b"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 17b"
-generated_at: "2026-03-30T06:30:49.559Z"
+generated_at: "2026-03-30T06:33:07.618Z"
 status: "repealed"
 ---
 

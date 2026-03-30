@@ -3,9 +3,9 @@ title: "Section 868 - Fees part of United States revenues"
 usc_title: 48
 usc_section: "868"
 chapter: 4
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "48 U.S.C. § 868"
-generated_at: "2026-03-30T06:31:50.861Z"
+generated_at: "2026-03-30T06:35:28.021Z"
 status: "active"
 ---
 

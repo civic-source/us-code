@@ -3,9 +3,9 @@ title: "Section 3155 - Annual reports"
 usc_title: 18
 usc_section: "3155"
 chapter: 207
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "18 U.S.C. § 3155"
-generated_at: "2026-03-30T06:30:46.727Z"
+generated_at: "2026-03-30T06:32:47.503Z"
 status: "active"
 ---
 

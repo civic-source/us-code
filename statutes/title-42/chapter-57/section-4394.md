@@ -3,9 +3,9 @@ title: "Section 4394 - Omitted"
 usc_title: 42
 usc_section: "4394"
 chapter: 57
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 4394"
-generated_at: "2026-03-30T06:31:47.781Z"
+generated_at: "2026-03-30T06:35:24.932Z"
 status: "omitted"
 ---
 

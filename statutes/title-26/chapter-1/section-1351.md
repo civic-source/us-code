@@ -3,9 +3,9 @@ title: "Section 1351 - Treatment of recoveries of foreign expropriation losses"
 usc_title: 26
 usc_section: "1351"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 1351"
-generated_at: "2026-03-30T06:31:17.080Z"
+generated_at: "2026-03-30T06:34:25.226Z"
 status: "active"
 ---
 

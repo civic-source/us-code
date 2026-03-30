@@ -3,9 +3,9 @@ title: "Section 335 - Renumbered § 255]"
 usc_title: 10
 usc_section: "335"
 chapter: 16
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 335"
-generated_at: "2026-03-30T06:30:31.865Z"
+generated_at: "2026-03-30T06:32:27.002Z"
 status: "renumbered"
 ---
 

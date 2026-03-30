@@ -3,9 +3,9 @@ title: "Section 1306 - Civil Service Commission: report"
 usc_title: 44
 usc_section: "1306"
 chapter: 13
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "44 U.S.C. § 1306"
-generated_at: "2026-03-30T06:31:33.021Z"
+generated_at: "2026-03-30T06:34:43.731Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 355g - Utilizing real world evidence"
 usc_title: 21
 usc_section: "355g"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "21 U.S.C. § 355g"
-generated_at: "2026-03-30T06:30:54.293Z"
+generated_at: "2026-03-30T06:33:12.520Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary shall establish a program to evaluate the potential use of real world evidence—
   - **(1)** to help to support the approval of a new indication for a drug approved under section 355(c) of this title ; and
   - **(2)** to help to support or satisfy postapproval study requirements.
-- **(b)** In this section, the term “real world evidence” means data regarding the usage, or the potential benefits or risks, of a drug derived from sources other than randomized clinical trials.
+- **(b)** In this section, the term “real world evidence” means data regarding the usage, or the potential benefits or risks, of a drug derived from sources other than traditional clinical trials.
 - **(c)**
   - **(1)** Not later than 2 years after December 13, 2016 , the Secretary shall establish a draft framework for implementation of the program under this section.
   - **(2)** The framework shall include information describing—
@@ -28,7 +28,7 @@ status: "active"
       - **(i)** a public-private partnership with the entities described in such subparagraph in which the Secretary may participate;
       - **(ii)** a contract, grant, or other arrangement, as the Secretary determines appropriate, with such a partnership or an independent research organization; or
       - **(iii)** public workshops with the entities described in such subparagraph.
-- **(d)** The Secretary shall, not later than 2 years after December 13, 2016 , and in accordance with the framework established under subsection (c), implement the program to evaluate the potential use of real world evidence.
+- **(d)** The Secretary shall, not later than 3 years after December 13, 2016 , and in accordance with the framework established under subsection (c), implement the program to evaluate the potential use of real world evidence.
 - **(e)** The Secretary shall—
   - **(1)** utilize the program established under subsection (a), its activities, and any subsequent pilots or written reports, to inform a guidance for industry on—
     - **(A)** the circumstances under which sponsors of drugs and the Secretary may rely on real world evidence for the purposes described in paragraphs (1) and (2) of subsection (a); and

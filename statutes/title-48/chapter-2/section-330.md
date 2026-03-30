@@ -3,9 +3,9 @@ title: "Section 330 - Omitted"
 usc_title: 48
 usc_section: "330"
 chapter: 2
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "48 U.S.C. § 330"
-generated_at: "2026-03-30T06:31:50.860Z"
+generated_at: "2026-03-30T06:35:28.020Z"
 status: "omitted"
 ---
 

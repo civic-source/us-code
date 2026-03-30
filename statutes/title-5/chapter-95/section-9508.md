@@ -3,9 +3,9 @@ title: "Section 9508 - General workforce performance management system"
 usc_title: 5
 usc_section: "9508"
 chapter: 95
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "5 U.S.C. § 9508"
-generated_at: "2026-03-30T06:30:20.639Z"
+generated_at: "2026-03-30T06:32:17.537Z"
 status: "active"
 ---
 

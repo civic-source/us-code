@@ -3,9 +3,9 @@ title: "Section 238p - Recommendations and guidelines regarding automated extern
 usc_title: 42
 usc_section: "238p"
 chapter: 6
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 238p"
-generated_at: "2026-03-30T06:31:47.140Z"
+generated_at: "2026-03-30T06:35:24.534Z"
 status: "active"
 ---
 

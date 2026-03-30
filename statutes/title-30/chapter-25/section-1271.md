@@ -3,9 +3,9 @@ title: "Section 1271 - Enforcement"
 usc_title: 30
 usc_section: "1271"
 chapter: 25
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "30 U.S.C. § 1271"
-generated_at: "2026-03-30T06:31:03.743Z"
+generated_at: "2026-03-30T06:34:04.593Z"
 status: "active"
 ---
 

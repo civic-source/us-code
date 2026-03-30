@@ -3,9 +3,9 @@ title: "Section 167j - Area comprising Library of Congress grounds; “buildings
 usc_title: 2
 usc_section: "167j"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "2 U.S.C. § 167j"
-generated_at: "2026-03-30T06:30:18.609Z"
+generated_at: "2026-03-30T06:32:10.135Z"
 status: "active"
 ---
 

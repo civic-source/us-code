@@ -3,9 +3,9 @@ title: "Section 71 - Election"
 usc_title: 12
 usc_section: "71"
 chapter: 2
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "12 U.S.C. § 71"
-generated_at: "2026-03-30T06:30:37.489Z"
+generated_at: "2026-03-30T06:32:36.019Z"
 status: "active"
 ---
 

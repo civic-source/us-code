@@ -3,9 +3,9 @@ title: "Section 3821 - Certificates"
 usc_title: 33
 usc_section: "3821"
 chapter: 51
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "33 U.S.C. § 3821"
-generated_at: "2026-03-30T06:31:22.742Z"
+generated_at: "2026-03-30T06:34:36.688Z"
 status: "active"
 ---
 

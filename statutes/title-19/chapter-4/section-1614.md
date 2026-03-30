@@ -3,9 +3,9 @@ title: "Section 1614 - Release of seized property"
 usc_title: 19
 usc_section: "1614"
 chapter: 4
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "19 U.S.C. § 1614"
-generated_at: "2026-03-30T06:30:43.670Z"
+generated_at: "2026-03-30T06:33:04.890Z"
 status: "active"
 ---
 

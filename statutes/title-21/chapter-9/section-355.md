@@ -3,9 +3,9 @@ title: "Section 355 - New drugs"
 usc_title: 21
 usc_section: "355"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "21 U.S.C. § 355"
-generated_at: "2026-03-30T06:30:54.285Z"
+generated_at: "2026-03-30T06:33:12.514Z"
 status: "active"
 ---
 
@@ -196,6 +196,10 @@ status: "active"
       - **(iv)**
         - **(I)** Subject to subparagraph (D), if the application contains a certification described in paragraph (2)(A)(vii)(IV) and is for a drug for which a first applicant has submitted an application containing such a certification, the application shall be made effective on the date that is 180 days after the date of the first commercial marketing of the drug (including the commercial marketing of the listed drug) by any first applicant.
         - **(II)** In this paragraph:
+      - **(v)**
+        - **(I)** Subject to subparagraph (D)(iv), if the application is for a drug that is the same as a competitive generic therapy for which any first approved applicant has commenced commercial marketing, the application shall be made effective on the date that is 180 days after the date of the first commercial marketing of the competitive generic therapy (including the commercial marketing of the listed drug) by any first approved applicant.
+        - **(II)** The exclusivity period under subclause (I) shall not apply with respect to a competitive generic therapy that has previously received an exclusivity period under subclause (I).
+        - **(III)** In this clause and subparagraph (D)(iv):
     - **(C)**
       - **(i)**
         - **(I)** No action may be brought under section 2201 of title 28 by an applicant under paragraph (2) for a declaratory judgment with respect to a patent which is the subject of the certification referred to in subparagraph (B)(iii) unless—
@@ -217,6 +221,7 @@ status: "active"
       - **(iii)** If all first applicants forfeit the 180-day exclusivity period under clause (ii)—
         - **(I)** approval of any application containing a certification described in paragraph (2)(A)(vii)(IV) shall be made effective in accordance with subparagraph (B)(iii); and
         - **(II)** no applicant shall be eligible for a 180-day exclusivity period.
+      - **(iv)** The 180-day exclusivity period described in subparagraph (B)(v) shall be forfeited by a first approved applicant if the applicant fails to market the competitive generic therapy within 75 days after the date on which the approval of the first approved applicant’s application for the competitive generic therapy is made effective.
     - **(E)** If the Secretary decides to disapprove an application, the Secretary shall give the applicant notice of an opportunity for a hearing before the Secretary on the question of whether such application is approvable. If the applicant elects to accept the opportunity for hearing by written request within thirty days after such notice, such hearing shall commence not more than ninety days after the expiration of such thirty days unless the Secretary and the applicant otherwise agree. Any such hearing shall thereafter be conducted on an expedited basis and the Secretary’s order thereon shall be issued within ninety days after the date fixed by the Secretary for filing final briefs.
     - **(F)**
       - **(i)** If an application (other than an abbreviated new drug application) submitted under subsection (b) for a drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under subsection (b), was approved during the period beginning January 1, 1982 , and ending on September 24, 1984 , the Secretary may not make the approval of an application submitted under this subsection which refers to the drug for which the subsection (b) application was submitted effective before the expiration of ten years from the date of the approval of the application under subsection (b).
@@ -259,6 +264,15 @@ status: "active"
       - **(iii)** the sponsor of the application under this subsection agrees to submit revised labeling of the drug that is the subject of such application not later than 60 days after the notification of any changes to such labeling required by the Secretary; and
       - **(iv)** such application otherwise meets the applicable requirements for approval under this subsection.
     - **(B)** If, after a labeling revision described in subparagraph (A)(i), the Secretary determines that the continued presence in interstate commerce of the labeling of the listed drug (as in effect before the revision described in subparagraph (A)(i)) adversely impacts the safe use of the drug, no application under this subsection shall be eligible for approval with such labeling.
+  - **(11)**
+    - **(A)** Subject to subparagraph (B), the Secretary shall prioritize the review of, and act within 8 months of the date of the submission of, an original abbreviated new drug application submitted for review under this subsection that is for a drug—
+      - **(i)** for which there are not more than 3 approved drug products listed under paragraph (7) and for which there are no blocking patents and exclusivities; or
+      - **(ii)** that has been included on the list under section 356e of this title .
+    - **(B)** To qualify for priority review under this paragraph, not later than 60 days prior to the submission of an application described in subparagraph (A) or that the Secretary may prioritize pursuant to subparagraph (D), the applicant shall provide complete, accurate information regarding facilities involved in manufacturing processes and testing of the drug that is the subject of the application, including facilities in corresponding Type II active pharmaceutical ingredients drug master files referenced in an application and sites or organizations involved in bioequivalence and clinical studies used to support the application, to enable the Secretary to make a determination regarding whether an inspection of a facility is necessary. Such information shall include the relevant (as determined by the Secretary) sections of such application, which shall be unchanged relative to the date of the submission of such application, except to the extent that a change is made to such information to exclude a facility that was not used to generate data to meet any application requirements for such submission and that is not the only facility intended to conduct one or more unit operations in commercial production. Information provided by an applicant under this subparagraph shall not be considered the submission of an application under this subsection.
+    - **(C)** The Secretary may expedite an inspection or reinspection under section 374 of this title of an establishment that proposes to manufacture a drug described in subparagraph (A).
+    - **(D)** Nothing in this paragraph shall prevent the Secretary from prioritizing the review of other applications as the Secretary determines appropriate.
+  - **(12)** The Secretary shall publish on the internet website of the Food and Drug Administration, and update at least once every 6 months, a list of all drugs approved under subsection (c) for which all patents and periods of exclusivity under this chapter have expired and for which no application has been approved under this subsection.
+  - **(13)** Upon the request of an applicant regarding one or more specified pending applications under this subsection, the Secretary shall, as appropriate, provide review status updates indicating the categorical status of the applications by each relevant review discipline.
 - **(k)**
   - **(1)** In the case of any drug for which an approval of an application filed under subsection (b) or (j) is in effect, the applicant shall establish and maintain such records, and make such reports to the Secretary, of data relating to clinical experience and other data or information, received or otherwise obtained by such applicant with respect to such drug, as the Secretary may by general regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (e). Regulations and orders issued under this subsection and under subsection (i) shall have due regard for the professional ethics of the medical profession and the interests of patients and shall provide, where the Secretary deems it to be appropriate, for the examination, upon request, by the persons to whom such regulations or orders are applicable, of similar information received or otherwise obtained by the Secretary.
   - **(2)** Every person required under this section to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
@@ -510,7 +524,7 @@ status: "active"
   - **(3)**
     - **(A)** For purposes of this subsection, the term “therapeutic category” means a therapeutic category identified in the list developed by the United States Pharmacopeia pursuant to section 1395w–104(b)(3)(C)(ii) of title 42 and as in effect on September 27, 2007 .
     - **(B)** The Secretary shall publish the list described in subparagraph (A) and may amend such list by regulation.
-  - **(4)** The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007 , and before October 1, 2017 .
+  - **(4)** The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007 , and before October 1, 2022 .
 - **(v)**
   - **(1)**
     - **(A)** Notwithstanding any provision of the Food and Drug Administration Modernization Act of 1997 or any other provision of law, a sponsor of a drug that is the subject of an application described in subparagraph (B)(i) shall be eligible for, with respect to the drug, the 3-year exclusivity period referred to under clauses (iii) and (iv) of subsection (c)(3)(E) and under clauses (iii) and (iv) of subsection (j)(5)(F), subject to the requirements of such clauses, as applicable.
@@ -536,3 +550,11 @@ status: "active"
   - **(2)** For purposes of this section, with respect to an application described in paragraph (1), the term “date of approval” shall mean the later of—
     - **(A)** the date an application under subsection (b) is approved under subsection (c); or
     - **(B)** the date of issuance of the interim final rule controlling the drug.
+- **(y)**
+  - **(1)** The sponsor of a contrast agent for which an application has been approved under this section may submit a supplement to the application seeking approval for a new use following the authorization of a premarket submission for an applicable medical imaging device for that use with the contrast agent pursuant to section 360j(p)(1) of this title .
+  - **(2)** In reviewing a supplement submitted under this subsection, the agency center charged with the premarket review of drugs may—
+    - **(A)** consult with the center charged with the premarket review of devices; and
+    - **(B)** review information and data submitted to the Secretary by the sponsor of an applicable medical imaging device pursuant to section 360e, 360(k), or 360c(f)(2) of this title so long as the sponsor of such applicable medical imaging device has provided to the sponsor of the contrast agent a right of reference.
+  - **(3)** For purposes of this subsection—
+    - **(A)** the term “new use” means a use of a contrast agent that is described in the approved labeling of an applicable medical imaging device described in section 360j(p) of this title , but that is not described in the approved labeling of the contrast agent; and
+    - **(B)** the terms “applicable medical imaging device” and “contrast agent” have the meanings given such terms in section 360j(p) of this title .

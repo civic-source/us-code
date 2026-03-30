@@ -3,9 +3,9 @@ title: "Section 4213 - Eligibility requirements for veterans under Federal emplo
 usc_title: 38
 usc_section: "4213"
 chapter: 42
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "38 U.S.C. § 4213"
-generated_at: "2026-03-30T06:31:31.170Z"
+generated_at: "2026-03-30T06:34:41.325Z"
 status: "active"
 ---
 

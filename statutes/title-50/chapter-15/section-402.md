@@ -3,9 +3,9 @@ title: "Section 402 - Transferred"
 usc_title: 50
 usc_section: "402"
 chapter: 15
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "50 U.S.C. § 402"
-generated_at: "2026-03-30T06:31:53.111Z"
+generated_at: "2026-03-30T06:35:36.696Z"
 status: "transferred"
 ---
 

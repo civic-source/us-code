@@ -1,15 +1,15 @@
 ---
-title: "Section 1595a - Forfeitures and other penalties"
+title: "Section 1595a - Aiding unlawful importation"
 usc_title: 19
 usc_section: "1595a"
 chapter: 4
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "19 U.S.C. § 1595a"
-generated_at: "2026-03-30T06:30:43.668Z"
+generated_at: "2026-03-30T06:33:04.889Z"
 status: "active"
 ---
 
-# § 1595a. Forfeitures and other penalties
+# § 1595a. Aiding unlawful importation
 
 - **(a)** Except as specified in subsection (b) or (c) of section 1594 of this title , every vessel, vehicle, animal, aircraft, or other thing used in, to aid in, or to facilitate, by obtaining information or in any other way, the importation, bringing in, unlading, landing, removal, concealing, harboring, or subsequent transportation of any article which is being or has been introduced, or attempted to be introduced, into the United States contrary to law, whether upon such vessel, vehicle, animal, aircraft, or other thing or otherwise, may be seized and forfeited together with its tackle, apparel, furniture, harness, or equipment.
 - **(b)** Every person who directs, assists financially or otherwise, or is in any way concerned in any unlawful activity mentioned in the preceding subsection shall be liable to a penalty equal to the value of the article or articles introduced or attempted to be introduced.

@@ -3,9 +3,9 @@ title: "Section 2612 - Repealed. Pub. L. 97–35, title V , § 587(a)(4), Aug. 1
 usc_title: 20
 usc_section: "2612"
 chapter: 46
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 2612"
-generated_at: "2026-03-30T06:30:45.584Z"
+generated_at: "2026-03-30T06:32:57.365Z"
 status: "repealed"
 ---
 

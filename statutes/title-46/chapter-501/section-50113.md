@@ -3,9 +3,9 @@ title: "Section 50113 - Use and performance reports by operators of vessels"
 usc_title: 46
 usc_section: "50113"
 chapter: 501
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "46 U.S.C. § 50113"
-generated_at: "2026-03-30T06:31:52.126Z"
+generated_at: "2026-03-30T06:35:28.665Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 590q - Coverage; “State” defined; short title"
 usc_title: 16
 usc_section: "590q"
 chapter: 3
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 590q"
-generated_at: "2026-03-30T06:30:49.701Z"
+generated_at: "2026-03-30T06:33:07.720Z"
 status: "active"
 ---
 

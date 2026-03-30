@@ -3,9 +3,9 @@ title: "Section 541g - Rules and regulations"
 usc_title: 30
 usc_section: "541g"
 chapter: 12
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "30 U.S.C. § 541g"
-generated_at: "2026-03-30T06:31:03.717Z"
+generated_at: "2026-03-30T06:34:04.576Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 79d - Deposit of receipts into Treasury; disbursements"
 usc_title: 20
 usc_section: "79d"
 chapter: 3
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 79d"
-generated_at: "2026-03-30T06:30:45.493Z"
+generated_at: "2026-03-30T06:32:57.285Z"
 status: "active"
 ---
 

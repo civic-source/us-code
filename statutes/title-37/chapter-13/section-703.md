@@ -3,9 +3,9 @@ title: "Section 703 - Allotments: members of Coast Guard"
 usc_title: 37
 usc_section: "703"
 chapter: 13
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "37 U.S.C. § 703"
-generated_at: "2026-03-30T06:31:28.462Z"
+generated_at: "2026-03-30T06:34:39.161Z"
 status: "active"
 ---
 

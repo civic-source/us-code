@@ -3,9 +3,9 @@ title: "Section 3524 - Discontinuance for unsatisfactory prog­ress"
 usc_title: 38
 usc_section: "3524"
 chapter: 35
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "38 U.S.C. § 3524"
-generated_at: "2026-03-30T06:31:31.159Z"
+generated_at: "2026-03-30T06:34:41.316Z"
 status: "active"
 ---
 

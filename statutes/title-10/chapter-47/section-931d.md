@@ -3,9 +3,9 @@ title: "Section 931d - Art. 131d]"
 usc_title: 10
 usc_section: "931d"
 chapter: 47
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 931d"
-generated_at: "2026-03-30T06:30:31.889Z"
+generated_at: "2026-03-30T06:32:27.021Z"
 status: "active"
 ---
 

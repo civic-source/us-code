@@ -3,9 +3,9 @@ title: "Section 1110 - Daily examination of Congressional Record for immediate o
 usc_title: 44
 usc_section: "1110"
 chapter: 11
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "44 U.S.C. § 1110"
-generated_at: "2026-03-30T06:31:33.021Z"
+generated_at: "2026-03-30T06:34:43.731Z"
 status: "active"
 ---
 

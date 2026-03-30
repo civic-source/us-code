@@ -3,9 +3,9 @@ title: "Section 1067k - Definitions"
 usc_title: 20
 usc_section: "1067k"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 1067k"
-generated_at: "2026-03-30T06:30:45.513Z"
+generated_at: "2026-03-30T06:32:57.303Z"
 status: "active"
 ---
 

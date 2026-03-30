@@ -3,9 +3,9 @@ title: "Section 251 - Setting up distillery"
 usc_title: 25
 usc_section: "251"
 chapter: 6
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "25 U.S.C. § 251"
-generated_at: "2026-03-30T06:30:55.430Z"
+generated_at: "2026-03-30T06:33:40.414Z"
 status: "active"
 ---
 

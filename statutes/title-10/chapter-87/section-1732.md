@@ -3,9 +3,9 @@ title: "Section 1732 - Selection criteria and procedures"
 usc_title: 10
 usc_section: "1732"
 chapter: 87
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 1732"
-generated_at: "2026-03-30T06:30:31.932Z"
+generated_at: "2026-03-30T06:32:27.053Z"
 status: "active"
 ---
 

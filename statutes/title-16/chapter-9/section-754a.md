@@ -3,9 +3,9 @@ title: "Section 754a - Appropriations for United States Fish and Wildlife Servic
 usc_title: 16
 usc_section: "754a"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 754a"
-generated_at: "2026-03-30T06:30:49.723Z"
+generated_at: "2026-03-30T06:33:07.734Z"
 status: "active"
 ---
 

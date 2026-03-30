@@ -3,9 +3,9 @@ title: "Section 765 - Disability, Independent Living, and Rehabilitation Researc
 usc_title: 29
 usc_section: "765"
 chapter: 16
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "29 U.S.C. § 765"
-generated_at: "2026-03-30T06:31:05.385Z"
+generated_at: "2026-03-30T06:34:08.658Z"
 status: "active"
 ---
 

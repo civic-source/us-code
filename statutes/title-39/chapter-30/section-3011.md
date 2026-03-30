@@ -3,9 +3,9 @@ title: "Section 3011 - Judicial enforcement"
 usc_title: 39
 usc_section: "3011"
 chapter: 30
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "39 U.S.C. § 3011"
-generated_at: "2026-03-30T06:31:28.084Z"
+generated_at: "2026-03-30T06:34:41.703Z"
 status: "active"
 ---
 

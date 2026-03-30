@@ -3,9 +3,9 @@ title: "Section 284i - Third replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284i"
 chapter: 7
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 284i"
-generated_at: "2026-03-30T06:30:58.323Z"
+generated_at: "2026-03-30T06:34:00.492Z"
 status: "active"
 ---
 

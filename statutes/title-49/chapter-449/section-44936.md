@@ -3,9 +3,9 @@ title: "Section 44936 - Employment investigations and restrictions"
 usc_title: 49
 usc_section: "44936"
 chapter: 449
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "49 U.S.C. § 44936"
-generated_at: "2026-03-30T06:31:55.031Z"
+generated_at: "2026-03-30T06:35:52.527Z"
 status: "active"
 ---
 

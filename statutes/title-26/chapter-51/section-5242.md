@@ -3,9 +3,9 @@ title: "Section 5242 - Denaturing materials"
 usc_title: 26
 usc_section: "5242"
 chapter: 51
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 5242"
-generated_at: "2026-03-30T06:31:17.160Z"
+generated_at: "2026-03-30T06:34:25.274Z"
 status: "active"
 ---
 

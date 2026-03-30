@@ -3,9 +3,9 @@ title: "Section 355 - Repealed. Pub. L. 88–417 , § 1, Aug. 11, 1964 , 78 Stat
 usc_title: 43
 usc_section: "355"
 chapter: 10
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "43 U.S.C. § 355"
-generated_at: "2026-03-30T06:31:33.856Z"
+generated_at: "2026-03-30T06:34:52.411Z"
 status: "repealed"
 ---
 

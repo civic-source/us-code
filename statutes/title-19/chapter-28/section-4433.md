@@ -3,9 +3,9 @@ title: "Section 4433 - Notification and certification to Congress"
 usc_title: 19
 usc_section: "4433"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "19 U.S.C. § 4433"
-generated_at: "2026-03-30T06:30:43.726Z"
+generated_at: "2026-03-30T06:33:04.942Z"
 status: "active"
 ---
 

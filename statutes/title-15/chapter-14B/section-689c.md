@@ -3,9 +3,9 @@ title: "Section 689c - Selection of New Markets Venture Capital companies"
 usc_title: 15
 usc_section: "689c"
 chapter: 14
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 689c"
-generated_at: "2026-03-30T06:30:39.834Z"
+generated_at: "2026-03-30T06:32:43.995Z"
 status: "active"
 ---
 

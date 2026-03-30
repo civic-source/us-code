@@ -3,9 +3,9 @@ title: "Section 821 - State laws and water rights unaffected"
 usc_title: 16
 usc_section: "821"
 chapter: 12
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 821"
-generated_at: "2026-03-30T06:30:49.730Z"
+generated_at: "2026-03-30T06:33:07.740Z"
 status: "active"
 ---
 

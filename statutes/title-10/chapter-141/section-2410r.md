@@ -3,9 +3,9 @@ title: "Section 2410r - Contract working dogs: requirement to transfer animals t
 usc_title: 10
 usc_section: "2410r"
 chapter: 141
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 2410r"
-generated_at: "2026-03-30T06:30:31.964Z"
+generated_at: "2026-03-30T06:32:27.076Z"
 status: "active"
 ---
 

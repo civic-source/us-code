@@ -3,9 +3,9 @@ title: "Section 4 - Curation of resources"
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T06:30:49.675Z"
+generated_at: "2026-03-30T06:33:07.701Z"
 status: "active"
 ---
 

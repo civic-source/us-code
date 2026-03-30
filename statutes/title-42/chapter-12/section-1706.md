@@ -3,9 +3,9 @@ title: "Section 1706 - Administration"
 usc_title: 42
 usc_section: "1706"
 chapter: 12
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 1706"
-generated_at: "2026-03-30T06:31:47.669Z"
+generated_at: "2026-03-30T06:35:24.851Z"
 status: "active"
 ---
 

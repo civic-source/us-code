@@ -3,9 +3,9 @@ title: "Section 3527 - Repealed. Pub. L. 100–504, title I , § 102(e)(2), Oct.
 usc_title: 42
 usc_section: "3527"
 chapter: 43
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 3527"
-generated_at: "2026-03-30T06:31:47.760Z"
+generated_at: "2026-03-30T06:35:24.918Z"
 status: "repealed"
 ---
 

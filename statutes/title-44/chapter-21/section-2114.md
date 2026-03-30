@@ -3,9 +3,9 @@ title: "Section 2114 - Preservation of audio and visual records"
 usc_title: 44
 usc_section: "2114"
 chapter: 21
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "44 U.S.C. § 2114"
-generated_at: "2026-03-30T06:31:33.023Z"
+generated_at: "2026-03-30T06:34:43.735Z"
 status: "active"
 ---
 

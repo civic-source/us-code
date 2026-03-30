@@ -3,9 +3,9 @@ title: "Section 8c - Patient participation in medical product discussion"
 usc_title: 21
 usc_section: "8c"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "21 U.S.C. § 8c"
-generated_at: "2026-03-30T06:30:54.311Z"
+generated_at: "2026-03-30T06:33:12.532Z"
 status: "active"
 ---
 
@@ -28,5 +28,5 @@ status: "active"
 - **(c)** For purposes of this section, the term “patient experience data” includes data that—
   - **(1)** are collected by any persons (including patients, family members and caregivers of patients, patient advocacy organizations, disease research foundations, researchers, and drug manufacturers); and
   - **(2)** are intended to provide information about patients’ experiences with a disease or condition, including—
-    - **(A)** the impact of such disease or condition, or a related therapy, on patients’ lives; and
+    - **(A)** the impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation on patients’ lives; and
     - **(B)** patient preferences with respect to treatment of such disease or condition.

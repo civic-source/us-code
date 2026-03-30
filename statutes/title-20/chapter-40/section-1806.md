@@ -3,9 +3,9 @@ title: "Section 1806 - Omitted"
 usc_title: 20
 usc_section: "1806"
 chapter: 40
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 1806"
-generated_at: "2026-03-30T06:30:45.577Z"
+generated_at: "2026-03-30T06:32:57.359Z"
 status: "omitted"
 ---
 

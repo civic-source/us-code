@@ -3,9 +3,9 @@ title: "Section 5426 - United States policy of private financial support for Pol
 usc_title: 22
 usc_section: "5426"
 chapter: 63
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 5426"
-generated_at: "2026-03-30T06:30:58.465Z"
+generated_at: "2026-03-30T06:34:00.581Z"
 status: "active"
 ---
 

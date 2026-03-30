@@ -3,9 +3,9 @@ title: "Section 1421c - Certain laws continued in force; modification or repeal 
 usc_title: 48
 usc_section: "1421c"
 chapter: 8
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "48 U.S.C. § 1421c"
-generated_at: "2026-03-30T06:31:50.863Z"
+generated_at: "2026-03-30T06:35:28.024Z"
 status: "active"
 ---
 

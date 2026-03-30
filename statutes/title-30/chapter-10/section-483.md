@@ -3,9 +3,9 @@ title: "Section 483 - Repealed. Pub. L. 91–173, title V , § 509, Dec. 30, 196
 usc_title: 30
 usc_section: "483"
 chapter: 10
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "30 U.S.C. § 483"
-generated_at: "2026-03-30T06:31:03.715Z"
+generated_at: "2026-03-30T06:34:04.575Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6922 - Standards applicable to generators of hazardous waste"
 usc_title: 42
 usc_section: "6922"
 chapter: 82
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 6922"
-generated_at: "2026-03-30T06:31:47.849Z"
+generated_at: "2026-03-30T06:35:24.983Z"
 status: "active"
 ---
 

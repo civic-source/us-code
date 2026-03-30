@@ -3,9 +3,9 @@ title: "Section 4005 - Implementation of selection board recommendations"
 usc_title: 22
 usc_section: "4005"
 chapter: 52
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 4005"
-generated_at: "2026-03-30T06:30:58.439Z"
+generated_at: "2026-03-30T06:34:00.565Z"
 status: "active"
 ---
 

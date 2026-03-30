@@ -3,9 +3,9 @@ title: "Section 1914 - District court; filing and miscellaneous fees; rules of c
 usc_title: 28
 usc_section: "1914"
 chapter: 123
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "28 U.S.C. § 1914"
-generated_at: "2026-03-30T06:31:06.576Z"
+generated_at: "2026-03-30T06:34:12.388Z"
 status: "active"
 ---
 

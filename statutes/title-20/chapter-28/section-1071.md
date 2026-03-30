@@ -3,9 +3,9 @@ title: "Section 1071 - Statement of purpose; nondiscrimination; and appropriatio
 usc_title: 20
 usc_section: "1071"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "20 U.S.C. § 1071"
-generated_at: "2026-03-30T06:30:45.520Z"
+generated_at: "2026-03-30T06:32:57.308Z"
 status: "active"
 ---
 

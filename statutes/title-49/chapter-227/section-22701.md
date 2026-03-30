@@ -3,9 +3,9 @@ title: "Section 22701 - Definitions"
 usc_title: 49
 usc_section: "22701"
 chapter: 227
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "49 U.S.C. § 22701"
-generated_at: "2026-03-30T06:31:54.991Z"
+generated_at: "2026-03-30T06:35:52.489Z"
 status: "active"
 ---
 

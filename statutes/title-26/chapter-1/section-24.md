@@ -3,9 +3,9 @@ title: "Section 24 - Child tax credit"
 usc_title: 26
 usc_section: "24"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 24"
-generated_at: "2026-03-30T06:31:16.850Z"
+generated_at: "2026-03-30T06:34:25.084Z"
 status: "active"
 ---
 

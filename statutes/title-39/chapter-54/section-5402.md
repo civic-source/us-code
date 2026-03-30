@@ -3,9 +3,9 @@ title: "Section 5402 - Contracts for transportation of mail by air"
 usc_title: 39
 usc_section: "5402"
 chapter: 54
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "39 U.S.C. § 5402"
-generated_at: "2026-03-30T06:31:28.087Z"
+generated_at: "2026-03-30T06:34:41.706Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 541 - General franchise requirements"
 usc_title: 47
 usc_section: "541"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "47 U.S.C. § 541"
-generated_at: "2026-03-30T06:31:51.272Z"
+generated_at: "2026-03-30T06:35:35.770Z"
 status: "active"
 ---
 

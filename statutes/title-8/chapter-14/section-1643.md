@@ -3,9 +3,9 @@ title: "Section 1643 - Statutory construction"
 usc_title: 8
 usc_section: "1643"
 chapter: 14
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "8 U.S.C. § 1643"
-generated_at: "2026-03-30T06:30:23.101Z"
+generated_at: "2026-03-30T06:32:21.851Z"
 status: "active"
 ---
 

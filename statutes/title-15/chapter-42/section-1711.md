@@ -3,9 +3,9 @@ title: "Section 1711 - Limitation of actions"
 usc_title: 15
 usc_section: "1711"
 chapter: 42
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "15 U.S.C. § 1711"
-generated_at: "2026-03-30T06:30:39.887Z"
+generated_at: "2026-03-30T06:32:44.037Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5351 - Establishment of financial crime-free communities support
 usc_title: 31
 usc_section: "5351"
 chapter: 53
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "31 U.S.C. § 5351"
-generated_at: "2026-03-30T06:31:26.278Z"
+generated_at: "2026-03-30T06:34:34.134Z"
 status: "active"
 ---
 

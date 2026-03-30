@@ -3,9 +3,9 @@ title: "Section 4104b - Standard hazard determination forms"
 usc_title: 42
 usc_section: "4104b"
 chapter: 50
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 4104b"
-generated_at: "2026-03-30T06:31:47.774Z"
+generated_at: "2026-03-30T06:35:24.928Z"
 status: "active"
 ---
 

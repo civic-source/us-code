@@ -3,9 +3,9 @@ title: "Section 11112 - Personnel"
 usc_title: 34
 usc_section: "11112"
 chapter: 111
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "34 U.S.C. § 11112"
-generated_at: "2026-03-30T06:31:20.888Z"
+generated_at: "2026-03-30T06:34:28.625Z"
 status: "active"
 ---
 

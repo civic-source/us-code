@@ -3,9 +3,9 @@ title: "Section 7437 - Cross references"
 usc_title: 26
 usc_section: "7437"
 chapter: 76
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 7437"
-generated_at: "2026-03-30T06:31:17.234Z"
+generated_at: "2026-03-30T06:34:25.315Z"
 status: "active"
 ---
 

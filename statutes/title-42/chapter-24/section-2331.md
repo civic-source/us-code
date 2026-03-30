@@ -3,9 +3,9 @@ title: "Section 2331 - Classification of property"
 usc_title: 42
 usc_section: "2331"
 chapter: 24
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 2331"
-generated_at: "2026-03-30T06:31:47.735Z"
+generated_at: "2026-03-30T06:35:24.900Z"
 status: "active"
 ---
 

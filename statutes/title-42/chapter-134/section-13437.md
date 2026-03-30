@@ -3,9 +3,9 @@ title: "Section 13437 - Advanced diesel emissions program"
 usc_title: 42
 usc_section: "13437"
 chapter: 134
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 13437"
-generated_at: "2026-03-30T06:31:48.032Z"
+generated_at: "2026-03-30T06:35:25.123Z"
 status: "active"
 ---
 

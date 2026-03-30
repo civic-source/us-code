@@ -3,9 +3,9 @@ title: "Section 79o - Repealed. Pub. L. 97–258 , § 5(b), Sept. 13, 1982 , 96 
 usc_title: 16
 usc_section: "79o"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 79o"
-generated_at: "2026-03-30T06:30:49.564Z"
+generated_at: "2026-03-30T06:33:07.622Z"
 status: "repealed"
 ---
 

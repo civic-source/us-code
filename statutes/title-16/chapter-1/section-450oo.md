@@ -3,9 +3,9 @@ title: "Section 450oo - Grand Portage National Monument; establishment; effectiv
 usc_title: 16
 usc_section: "450oo"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 450oo"
-generated_at: "2026-03-30T06:30:49.629Z"
+generated_at: "2026-03-30T06:33:07.668Z"
 status: "active"
 ---
 

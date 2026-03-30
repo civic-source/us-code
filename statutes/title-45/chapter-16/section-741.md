@@ -3,9 +3,9 @@ title: "Section 741 - Formation and structure"
 usc_title: 45
 usc_section: "741"
 chapter: 16
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "45 U.S.C. § 741"
-generated_at: "2026-03-30T06:31:33.289Z"
+generated_at: "2026-03-30T06:34:51.904Z"
 status: "active"
 ---
 

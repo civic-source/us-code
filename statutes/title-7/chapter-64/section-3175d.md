@@ -3,9 +3,9 @@ title: "Section 3175d - Administration of program of food, nutrition, and consum
 usc_title: 7
 usc_section: "3175d"
 chapter: 64
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "7 U.S.C. § 3175d"
-generated_at: "2026-03-30T06:30:27.447Z"
+generated_at: "2026-03-30T06:32:29.891Z"
 status: "active"
 ---
 

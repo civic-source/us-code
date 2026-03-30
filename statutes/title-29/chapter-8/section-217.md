@@ -3,9 +3,9 @@ title: "Section 217 - Injunction proceedings"
 usc_title: 29
 usc_section: "217"
 chapter: 8
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "29 U.S.C. § 217"
-generated_at: "2026-03-30T06:31:05.366Z"
+generated_at: "2026-03-30T06:34:08.647Z"
 status: "active"
 ---
 

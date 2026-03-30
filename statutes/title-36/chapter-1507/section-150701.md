@@ -3,9 +3,9 @@ title: "Section 150701 - Organization"
 usc_title: 36
 usc_section: "150701"
 chapter: 1507
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "36 U.S.C. § 150701"
-generated_at: "2026-03-30T06:31:29.621Z"
+generated_at: "2026-03-30T06:34:40.158Z"
 status: "active"
 ---
 

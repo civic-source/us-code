@@ -3,9 +3,9 @@ title: "Section 4901 - Congressional findings and statement of policy"
 usc_title: 42
 usc_section: "4901"
 chapter: 65
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 4901"
-generated_at: "2026-03-30T06:31:47.786Z"
+generated_at: "2026-03-30T06:35:24.937Z"
 status: "active"
 ---
 

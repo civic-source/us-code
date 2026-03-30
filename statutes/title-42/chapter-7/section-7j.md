@@ -3,9 +3,9 @@ title: "Section 7j - Accountability requirements for facilities"
 usc_title: 42
 usc_section: "7j"
 chapter: 7
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 7j"
-generated_at: "2026-03-30T06:31:47.348Z"
+generated_at: "2026-03-30T06:35:24.707Z"
 status: "active"
 ---
 

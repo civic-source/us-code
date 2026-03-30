@@ -3,9 +3,9 @@ title: "Section 1961 - Submission of agreements"
 usc_title: 48
 usc_section: "1961"
 chapter: 18
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "48 U.S.C. § 1961"
-generated_at: "2026-03-30T06:31:50.878Z"
+generated_at: "2026-03-30T06:35:28.037Z"
 status: "active"
 ---
 

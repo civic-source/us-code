@@ -3,9 +3,9 @@ title: "Section 2906 - Repealed. Pub. L. 106–310, div. B, title XXXIV , § 340
 usc_title: 28
 usc_section: "2906"
 chapter: 175
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "28 U.S.C. § 2906"
-generated_at: "2026-03-30T06:31:06.586Z"
+generated_at: "2026-03-30T06:34:12.394Z"
 status: "repealed"
 ---
 

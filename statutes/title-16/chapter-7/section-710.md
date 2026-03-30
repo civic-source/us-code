@@ -3,9 +3,9 @@ title: "Section 710 - Partial invalidity; short title"
 usc_title: 16
 usc_section: "710"
 chapter: 7
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 710"
-generated_at: "2026-03-30T06:30:49.718Z"
+generated_at: "2026-03-30T06:33:07.731Z"
 status: "active"
 ---
 

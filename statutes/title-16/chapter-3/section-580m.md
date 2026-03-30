@@ -3,9 +3,9 @@ title: "Section 580m - Development of reservoir areas for future resources of ti
 usc_title: 16
 usc_section: "580m"
 chapter: 3
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 580m"
-generated_at: "2026-03-30T06:30:49.698Z"
+generated_at: "2026-03-30T06:33:07.717Z"
 status: "active"
 ---
 

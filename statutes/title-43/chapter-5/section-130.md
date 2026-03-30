@@ -3,9 +3,9 @@ title: "Section 130 - Entry of public lands in States where no land offices exis
 usc_title: 43
 usc_section: "130"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "43 U.S.C. § 130"
-generated_at: "2026-03-30T06:31:33.853Z"
+generated_at: "2026-03-30T06:34:52.408Z"
 status: "active"
 ---
 

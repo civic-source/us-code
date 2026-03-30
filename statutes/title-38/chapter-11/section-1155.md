@@ -3,9 +3,9 @@ title: "Section 1155 - Authority for schedule for rating disabilities"
 usc_title: 38
 usc_section: "1155"
 chapter: 11
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "38 U.S.C. § 1155"
-generated_at: "2026-03-30T06:31:31.132Z"
+generated_at: "2026-03-30T06:34:41.294Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 103 - Witnesses’ fees"
 usc_title: 43
 usc_section: "103"
 chapter: 4
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "43 U.S.C. § 103"
-generated_at: "2026-03-30T06:31:33.852Z"
+generated_at: "2026-03-30T06:34:52.407Z"
 status: "active"
 ---
 

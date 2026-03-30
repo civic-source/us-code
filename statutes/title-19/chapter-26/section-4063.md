@@ -3,9 +3,9 @@ title: "Section 4063 - Provision of relief"
 usc_title: 19
 usc_section: "4063"
 chapter: 26
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "19 U.S.C. § 4063"
-generated_at: "2026-03-30T06:30:43.719Z"
+generated_at: "2026-03-30T06:33:04.936Z"
 status: "active"
 ---
 

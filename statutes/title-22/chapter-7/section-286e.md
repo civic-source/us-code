@@ -3,9 +3,9 @@ title: "Section 286e - Payment of subscriptions to Fund and Bank by United State
 usc_title: 22
 usc_section: "286e"
 chapter: 7
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 286e"
-generated_at: "2026-03-30T06:30:58.324Z"
+generated_at: "2026-03-30T06:34:00.494Z"
 status: "active"
 ---
 

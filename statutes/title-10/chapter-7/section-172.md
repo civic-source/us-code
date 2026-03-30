@@ -3,9 +3,9 @@ title: "Section 172 - Ammunition storage board"
 usc_title: 10
 usc_section: "172"
 chapter: 7
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 172"
-generated_at: "2026-03-30T06:30:31.857Z"
+generated_at: "2026-03-30T06:32:26.998Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24705 - Repealed. Pub. L. 105–134, title I , §§ 103–105(a)
 usc_title: 49
 usc_section: "24705"
 chapter: 247
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "49 U.S.C. § 24705"
-generated_at: "2026-03-30T06:31:54.995Z"
+generated_at: "2026-03-30T06:35:52.492Z"
 status: "repealed"
 ---
 

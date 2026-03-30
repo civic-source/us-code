@@ -3,9 +3,9 @@ title: "Section 8817 - Aviation cadets: discharge"
 usc_title: 10
 usc_section: "8817"
 chapter: 861
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 8817"
-generated_at: "2026-03-30T06:30:32.023Z"
+generated_at: "2026-03-30T06:32:27.122Z"
 status: "active"
 ---
 

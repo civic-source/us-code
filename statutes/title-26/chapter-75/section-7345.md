@@ -3,9 +3,9 @@ title: "Section 7345 - Revocation or denial of passport in case of certain tax d
 usc_title: 26
 usc_section: "7345"
 chapter: 75
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 7345"
-generated_at: "2026-03-30T06:31:17.229Z"
+generated_at: "2026-03-30T06:34:25.313Z"
 status: "active"
 ---
 

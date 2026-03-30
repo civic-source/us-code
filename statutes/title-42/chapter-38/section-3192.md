@@ -3,9 +3,9 @@ title: "Section 3192 - Economic development information clearinghouse"
 usc_title: 42
 usc_section: "3192"
 chapter: 38
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 3192"
-generated_at: "2026-03-30T06:31:47.757Z"
+generated_at: "2026-03-30T06:35:24.915Z"
 status: "active"
 ---
 

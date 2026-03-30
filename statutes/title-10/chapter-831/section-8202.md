@@ -3,9 +3,9 @@ title: "Section 8202 - Repealed. Pub. L. 101–510, div. A, title IV , § 403(b)
 usc_title: 10
 usc_section: "8202"
 chapter: 831
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 8202"
-generated_at: "2026-03-30T06:30:32.022Z"
+generated_at: "2026-03-30T06:32:27.120Z"
 status: "repealed"
 ---
 

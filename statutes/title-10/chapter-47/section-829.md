@@ -3,9 +3,9 @@ title: "Section 829 - Art. 29. Absent and additional members"
 usc_title: 10
 usc_section: "829"
 chapter: 47
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 829"
-generated_at: "2026-03-30T06:30:31.883Z"
+generated_at: "2026-03-30T06:32:27.016Z"
 status: "active"
 ---
 

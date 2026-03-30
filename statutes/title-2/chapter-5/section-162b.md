@@ -3,9 +3,9 @@ title: "Section 162b - Little Scholars Child Development Center; employee compen
 usc_title: 2
 usc_section: "162b"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "2 U.S.C. § 162b"
-generated_at: "2026-03-30T06:30:18.608Z"
+generated_at: "2026-03-30T06:32:10.135Z"
 status: "active"
 ---
 

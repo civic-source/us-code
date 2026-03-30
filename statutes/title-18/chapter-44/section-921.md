@@ -3,9 +3,9 @@ title: "Section 921 - Definitions"
 usc_title: 18
 usc_section: "921"
 chapter: 44
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "18 U.S.C. § 921"
-generated_at: "2026-03-30T06:30:46.690Z"
+generated_at: "2026-03-30T06:32:47.472Z"
 status: "active"
 ---
 

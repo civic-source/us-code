@@ -3,9 +3,9 @@ title: "Section 358 - Master’s control over operations"
 usc_title: 47
 usc_section: "358"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "47 U.S.C. § 358"
-generated_at: "2026-03-30T06:31:51.268Z"
+generated_at: "2026-03-30T06:35:35.765Z"
 status: "active"
 ---
 

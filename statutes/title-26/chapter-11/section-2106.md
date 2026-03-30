@@ -3,9 +3,9 @@ title: "Section 2106 - Taxable estate"
 usc_title: 26
 usc_section: "2106"
 chapter: 11
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 2106"
-generated_at: "2026-03-30T06:31:17.106Z"
+generated_at: "2026-03-30T06:34:25.241Z"
 status: "active"
 ---
 

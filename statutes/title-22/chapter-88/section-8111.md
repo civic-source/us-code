@@ -3,9 +3,9 @@ title: "Section 8111 - Authority"
 usc_title: 22
 usc_section: "8111"
 chapter: 88
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 8111"
-generated_at: "2026-03-30T06:30:58.511Z"
+generated_at: "2026-03-30T06:34:00.608Z"
 status: "active"
 ---
 

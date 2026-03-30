@@ -3,9 +3,9 @@ title: "Section 1820 - Acquisition of real property for Capitol Police"
 usc_title: 2
 usc_section: "1820"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "2 U.S.C. § 1820"
-generated_at: "2026-03-30T06:30:18.634Z"
+generated_at: "2026-03-30T06:32:10.157Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4559 - Public participation in rulemaking"
 usc_title: 50
 usc_section: "4559"
 chapter: 55
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "50 U.S.C. § 4559"
-generated_at: "2026-03-30T06:31:53.178Z"
+generated_at: "2026-03-30T06:35:36.757Z"
 status: "active"
 ---
 

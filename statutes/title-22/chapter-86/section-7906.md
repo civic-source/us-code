@@ -3,9 +3,9 @@ title: "Section 7906 - Technology demonstration projects"
 usc_title: 22
 usc_section: "7906"
 chapter: 86
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "22 U.S.C. § 7906"
-generated_at: "2026-03-30T06:30:58.509Z"
+generated_at: "2026-03-30T06:34:00.607Z"
 status: "active"
 ---
 

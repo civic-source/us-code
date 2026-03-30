@@ -3,9 +3,9 @@ title: "Section 554 - Abandonment of property of the estate"
 usc_title: 11
 usc_section: "554"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "11 U.S.C. § 554"
-generated_at: "2026-03-30T06:30:34.918Z"
+generated_at: "2026-03-30T06:32:32.615Z"
 status: "active"
 ---
 

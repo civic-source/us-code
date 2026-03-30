@@ -3,9 +3,9 @@ title: "Section 1185c - Coverage of dependent students on medically necessary le
 usc_title: 29
 usc_section: "1185c"
 chapter: 18
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "29 U.S.C. § 1185c"
-generated_at: "2026-03-30T06:31:05.424Z"
+generated_at: "2026-03-30T06:34:08.680Z"
 status: "active"
 ---
 

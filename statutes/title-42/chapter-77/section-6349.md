@@ -3,9 +3,9 @@ title: "Section 6349 - Process-oriented industrial energy efficiency"
 usc_title: 42
 usc_section: "6349"
 chapter: 77
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 6349"
-generated_at: "2026-03-30T06:31:47.836Z"
+generated_at: "2026-03-30T06:35:24.973Z"
 status: "active"
 ---
 

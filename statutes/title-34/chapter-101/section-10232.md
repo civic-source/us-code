@@ -3,9 +3,9 @@ title: "Section 10232 - Administration of juvenile delinquency programs"
 usc_title: 34
 usc_section: "10232"
 chapter: 101
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "34 U.S.C. § 10232"
-generated_at: "2026-03-30T06:31:20.872Z"
+generated_at: "2026-03-30T06:34:28.614Z"
 status: "active"
 ---
 

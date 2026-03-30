@@ -3,9 +3,9 @@ title: "Section 1997f - Report to Congress"
 usc_title: 42
 usc_section: "1997f"
 chapter: 21
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 1997f"
-generated_at: "2026-03-30T06:31:47.704Z"
+generated_at: "2026-03-30T06:35:24.876Z"
 status: "active"
 ---
 

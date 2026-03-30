@@ -3,9 +3,9 @@ title: "Section 53105 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53105"
 chapter: 531
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "46 U.S.C. § 53105"
-generated_at: "2026-03-30T06:31:52.129Z"
+generated_at: "2026-03-30T06:35:28.669Z"
 status: "active"
 ---
 

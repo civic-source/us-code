@@ -3,9 +3,9 @@ title: "Section 90109 - Civil action by Attorney General for equitable relief"
 usc_title: 36
 usc_section: "90109"
 chapter: 901
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "36 U.S.C. § 90109"
-generated_at: "2026-03-30T06:31:29.618Z"
+generated_at: "2026-03-30T06:34:40.156Z"
 status: "active"
 ---
 

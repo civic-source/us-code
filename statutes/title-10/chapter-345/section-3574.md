@@ -3,9 +3,9 @@ title: "Section 3574 - Repealed. Pub. L. 96–513, title II , § 211, Dec. 12, 1
 usc_title: 10
 usc_section: "3574"
 chapter: 345
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "10 U.S.C. § 3574"
-generated_at: "2026-03-30T06:30:31.996Z"
+generated_at: "2026-03-30T06:32:27.100Z"
 status: "repealed"
 ---
 

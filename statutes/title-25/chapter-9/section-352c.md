@@ -3,9 +3,9 @@ title: "Section 352c - Reimbursement of allottees or heirs for taxes paid on lan
 usc_title: 25
 usc_section: "352c"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "25 U.S.C. § 352c"
-generated_at: "2026-03-30T06:30:55.434Z"
+generated_at: "2026-03-30T06:33:40.419Z"
 status: "active"
 ---
 

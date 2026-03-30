@@ -3,9 +3,9 @@ title: "Section 50305 - Exclusive right to name"
 usc_title: 36
 usc_section: "50305"
 chapter: 503
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "36 U.S.C. § 50305"
-generated_at: "2026-03-30T06:31:29.615Z"
+generated_at: "2026-03-30T06:34:40.154Z"
 status: "active"
 ---
 

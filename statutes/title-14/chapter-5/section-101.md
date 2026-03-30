@@ -3,9 +3,9 @@ title: "Section 101 - Appeals and waivers"
 usc_title: 14
 usc_section: "101"
 chapter: 5
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "14 U.S.C. § 101"
-generated_at: "2026-03-30T06:30:34.347Z"
+generated_at: "2026-03-30T06:32:32.023Z"
 status: "active"
 ---
 

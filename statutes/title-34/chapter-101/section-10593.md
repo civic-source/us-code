@@ -3,9 +3,9 @@ title: "Section 10593 - Program requirements"
 usc_title: 34
 usc_section: "10593"
 chapter: 101
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "34 U.S.C. § 10593"
-generated_at: "2026-03-30T06:31:20.883Z"
+generated_at: "2026-03-30T06:34:28.622Z"
 status: "active"
 ---
 

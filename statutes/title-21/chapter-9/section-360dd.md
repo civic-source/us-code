@@ -3,9 +3,9 @@ title: "Section 360dd - Open protocols for investigations of drugs for rare dise
 usc_title: 21
 usc_section: "360dd"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "21 U.S.C. § 360dd"
-generated_at: "2026-03-30T06:30:54.306Z"
+generated_at: "2026-03-30T06:33:12.529Z"
 status: "active"
 ---
 

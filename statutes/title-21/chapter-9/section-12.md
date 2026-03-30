@@ -3,9 +3,9 @@ title: "Section 12 - Authority to assess and use animal drug fees"
 usc_title: 21
 usc_section: "12"
 chapter: 9
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "21 U.S.C. § 12"
-generated_at: "2026-03-30T06:30:54.325Z"
+generated_at: "2026-03-30T06:33:12.541Z"
 status: "active"
 ---
 
@@ -38,9 +38,7 @@ status: "active"
     - **(B)** The annual establishment fee shall be assessed in each fiscal year in which the animal drug product named in the application is assessed a fee under paragraph (2) unless the animal drug establishment listed in the application does not engage in the manufacture of the animal drug product during the fiscal year. The fee under this paragraph for a fiscal year shall be due upon the later of—
       - **(i)** the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section; or
       - **(ii)** January 31 of each year.
-    - **(C)**
-      - **(i)** An establishment shall be assessed only one fee per fiscal year under this section, subject to clause (ii).
-      - **(ii)** If a single establishment manufactures both animal drug products and prescription drug products, as defined in section 379g(3) of this title , such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in section 379h(a)(2) of this title , within a single fiscal year.
+    - **(C)** An establishment shall be assessed only one fee per fiscal year under this section.
   - **(4)**
     - **(A)** Each person—
       - **(i)** who meets the definition of an animal drug sponsor within a fiscal year; and

@@ -3,9 +3,9 @@ title: "Section 155b - Proceeds of labor accounts; deposits limited to funds hel
 usc_title: 25
 usc_section: "155b"
 chapter: 4
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "25 U.S.C. § 155b"
-generated_at: "2026-03-30T06:30:55.428Z"
+generated_at: "2026-03-30T06:33:40.412Z"
 status: "active"
 ---
 

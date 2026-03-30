@@ -3,9 +3,9 @@ title: "Section 1849 - Compensation of certain positions under jurisdiction of A
 usc_title: 2
 usc_section: "1849"
 chapter: 28
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "2 U.S.C. § 1849"
-generated_at: "2026-03-30T06:30:18.635Z"
+generated_at: "2026-03-30T06:32:10.158Z"
 status: "active"
 ---
 

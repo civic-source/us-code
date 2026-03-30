@@ -3,9 +3,9 @@ title: "Section 1115 - Redemption of stock"
 usc_title: 45
 usc_section: "1115"
 chapter: 20
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "45 U.S.C. § 1115"
-generated_at: "2026-03-30T06:31:33.295Z"
+generated_at: "2026-03-30T06:34:51.909Z"
 status: "active"
 ---
 

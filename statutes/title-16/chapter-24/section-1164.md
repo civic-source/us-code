@@ -3,9 +3,9 @@ title: "Section 1164 - Responsibility of Secretary of Health and Human Services 
 usc_title: 16
 usc_section: "1164"
 chapter: 24
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "16 U.S.C. § 1164"
-generated_at: "2026-03-30T06:30:49.758Z"
+generated_at: "2026-03-30T06:33:07.759Z"
 status: "active"
 ---
 

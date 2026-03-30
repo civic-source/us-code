@@ -3,9 +3,9 @@ title: "Section 302 - Treasury of the United States"
 usc_title: 31
 usc_section: "302"
 chapter: 3
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "31 U.S.C. § 302"
-generated_at: "2026-03-30T06:31:26.236Z"
+generated_at: "2026-03-30T06:34:34.110Z"
 status: "active"
 ---
 

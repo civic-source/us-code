@@ -3,9 +3,9 @@ title: "Section 586 - Repealed. Pub. L. 99–514, title IX , § 901(c), Oct. 22,
 usc_title: 26
 usc_section: "586"
 chapter: 1
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "26 U.S.C. § 586"
-generated_at: "2026-03-30T06:31:17.010Z"
+generated_at: "2026-03-30T06:34:25.183Z"
 status: "repealed"
 ---
 

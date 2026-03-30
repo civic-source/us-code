@@ -3,9 +3,9 @@ title: "Section 15823 - Low income community energy efficiency pilot program"
 usc_title: 42
 usc_section: "15823"
 chapter: 149
-current_through: "PL 115-51"
+current_through: "PL 115-55"
 classification: "42 U.S.C. § 15823"
-generated_at: "2026-03-30T06:31:48.047Z"
+generated_at: "2026-03-30T06:35:25.137Z"
 status: "active"
 ---
 
