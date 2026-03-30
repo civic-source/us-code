@@ -3,9 +3,9 @@ title: "Section 6972 - Program staff"
 usc_title: 7
 usc_section: "6972"
 chapter: 98
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 6972"
-generated_at: "2026-03-30T05:29:46.181Z"
+generated_at: "2026-03-30T05:31:49.068Z"
 status: "active"
 ---
 

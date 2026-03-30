@@ -3,9 +3,9 @@ title: "Section 1373 - Higher grade for later physical disability: retired offic
 usc_title: 10
 usc_section: "1373"
 chapter: 69
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 1373"
-generated_at: "2026-03-30T05:29:50.088Z"
+generated_at: "2026-03-30T05:31:52.750Z"
 status: "active"
 ---
 

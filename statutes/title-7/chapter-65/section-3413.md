@@ -3,9 +3,9 @@ title: "Section 3413 - Certification of organizations"
 usc_title: 7
 usc_section: "3413"
 chapter: 65
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 3413"
-generated_at: "2026-03-30T05:29:46.155Z"
+generated_at: "2026-03-30T05:31:49.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1519 - Relief that may be granted upon filing petition for recog
 usc_title: 11
 usc_section: "1519"
 chapter: 15
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "11 U.S.C. § 1519"
-generated_at: "2026-03-30T05:29:52.473Z"
+generated_at: "2026-03-30T05:31:55.298Z"
 status: "active"
 ---
 

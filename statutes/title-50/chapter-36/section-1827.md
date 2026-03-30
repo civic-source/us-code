@@ -3,9 +3,9 @@ title: "Section 1827 - Penalties"
 usc_title: 50
 usc_section: "1827"
 chapter: 36
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 1827"
-generated_at: "2026-03-30T05:31:19.481Z"
+generated_at: "2026-03-30T05:34:09.751Z"
 status: "active"
 ---
 
@@ -14,6 +14,6 @@ status: "active"
 - **(a)** A person is guilty of an offense if he intentionally—
   - **(1)** under color of law for the purpose of obtaining foreign intelligence information, executes a physical search within the United States except as authorized by statute; or
   - **(2)** discloses or uses information obtained under color of law by physical search within the United States, knowing or having reason to know that the information was obtained through physical search not authorized by statute, for the purpose of obtaining intelligence information.
-- **(b)** It is a defense to a prosecution under subsection (a) of this section that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the physical search was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
+- **(b)** It is a defense to a prosecution under subsection (a) that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the physical search was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
 - **(c)** An offense described in this section is punishable by a fine of not more than $10,000 or imprisonment for not more than five years, or both.
 - **(d)** There is Federal jurisdiction over an offense under this section if the person committing the offense was an officer or employee of the United States at the time the offense was committed.

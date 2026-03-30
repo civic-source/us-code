@@ -3,9 +3,9 @@ title: "Section 88 - Disposition of coal by United States"
 usc_title: 30
 usc_section: "88"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "30 U.S.C. § 88"
-generated_at: "2026-03-30T05:30:26.550Z"
+generated_at: "2026-03-30T05:33:18.212Z"
 status: "active"
 ---
 

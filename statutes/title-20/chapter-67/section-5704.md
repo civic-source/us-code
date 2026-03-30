@@ -3,9 +3,9 @@ title: "Section 5704 - Stipends"
 usc_title: 20
 usc_section: "5704"
 chapter: 67
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 5704"
-generated_at: "2026-03-30T05:30:08.575Z"
+generated_at: "2026-03-30T05:32:06.225Z"
 status: "active"
 ---
 

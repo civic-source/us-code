@@ -3,9 +3,9 @@ title: "Section 1453 - Acceptance of office under foreign governments of assigne
 usc_title: 22
 usc_section: "1453"
 chapter: 18
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "22 U.S.C. § 1453"
-generated_at: "2026-03-30T05:30:18.729Z"
+generated_at: "2026-03-30T05:32:57.037Z"
 status: "active"
 ---
 

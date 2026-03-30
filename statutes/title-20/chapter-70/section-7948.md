@@ -3,9 +3,9 @@ title: "Section 7948 - Effective date"
 usc_title: 20
 usc_section: "7948"
 chapter: 70
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 7948"
-generated_at: "2026-03-30T05:30:08.606Z"
+generated_at: "2026-03-30T05:32:06.255Z"
 status: "active"
 ---
 

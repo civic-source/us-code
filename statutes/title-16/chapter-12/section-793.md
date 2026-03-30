@@ -3,9 +3,9 @@ title: "Section 793 - Appointment of officers and employees of Commission; dutie
 usc_title: 16
 usc_section: "793"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 793"
-generated_at: "2026-03-30T05:30:04.483Z"
+generated_at: "2026-03-30T05:32:08.891Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1035 - Repealed. Pub. L. 102–567, title VIII , § 814, Oct. 29
 usc_title: 16
 usc_section: "1035"
 chapter: 19
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 1035"
-generated_at: "2026-03-30T05:30:04.503Z"
+generated_at: "2026-03-30T05:32:08.912Z"
 status: "repealed"
 ---
 

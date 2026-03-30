@@ -3,9 +3,9 @@ title: "Section 419 - Repealed. Pub. L. 86–778, title I , § 103(j)(1), Sept. 
 usc_title: 42
 usc_section: "419"
 chapter: 7
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 419"
-generated_at: "2026-03-30T05:31:12.913Z"
+generated_at: "2026-03-30T05:34:03.463Z"
 status: "repealed"
 ---
 

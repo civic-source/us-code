@@ -3,9 +3,9 @@ title: "Section 2103 - Rights of access"
 usc_title: 43
 usc_section: "2103"
 chapter: 39
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 2103"
-generated_at: "2026-03-30T05:30:49.462Z"
+generated_at: "2026-03-30T05:34:04.833Z"
 status: "active"
 ---
 

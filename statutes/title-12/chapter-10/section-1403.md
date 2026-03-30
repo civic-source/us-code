@@ -3,9 +3,9 @@ title: "Section 1403 - Minimum paid-in capital stock required to warrant loans"
 usc_title: 12
 usc_section: "1403"
 chapter: 10
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "12 U.S.C. § 1403"
-generated_at: "2026-03-30T05:29:54.950Z"
+generated_at: "2026-03-30T05:32:00.794Z"
 status: "active"
 ---
 

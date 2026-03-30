@@ -3,9 +3,9 @@ title: "Section 3121 - Responsibilities of Secretary and Department of Agricultu
 usc_title: 7
 usc_section: "3121"
 chapter: 64
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 3121"
-generated_at: "2026-03-30T05:29:46.148Z"
+generated_at: "2026-03-30T05:31:49.037Z"
 status: "active"
 ---
 

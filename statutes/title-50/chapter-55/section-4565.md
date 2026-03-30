@@ -3,9 +3,9 @@ title: "Section 4565 - Authority to review certain mergers, acquisitions, and ta
 usc_title: 50
 usc_section: "4565"
 chapter: 55
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4565"
-generated_at: "2026-03-30T05:31:19.547Z"
+generated_at: "2026-03-30T05:34:09.836Z"
 status: "active"
 ---
 
@@ -81,7 +81,7 @@ status: "active"
     - **(B)** submitting a request to withdraw a covered transaction from review;
     - **(C)** resubmitting a notice of a covered transaction that was previously withdrawn from review; and
     - **(D)** providing notice of the results of a review or investigation to the parties to the covered transaction, upon completion of all action under this section.
-- **(c)** Any information or documentary material filed with the President or the President’s designee pursuant to this section shall be exempt from disclosure under section 552 of title 5 and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this subsection shall be construed to prevent disclosure to either House of Congress or to any duly authorized committee or subcommittee of the Congress.
+- **(c)** Any information or documentary material filed with the President or the President’s designee pursuant to this section shall be exempt from disclosure under section 552 of title 5 , and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this subsection shall be construed to prevent disclosure to either House of Congress or to any duly authorized committee or subcommittee of the Congress.
 - **(d)**
   - **(1)** Subject to paragraph (4), the President may take such action for such time as the President considers appropriate to suspend or prohibit any covered transaction that threatens to impair the national security of the United States.
   - **(2)** The President shall announce the decision on whether or not to take action pursuant to paragraph (1) not later than 15 days after the date on which an investigation described in subsection (b) is completed.

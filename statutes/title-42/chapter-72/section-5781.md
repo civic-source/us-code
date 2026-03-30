@@ -3,9 +3,9 @@ title: "Section 5781 - Definition"
 usc_title: 42
 usc_section: "5781"
 chapter: 72
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 5781"
-generated_at: "2026-03-30T05:31:13.372Z"
+generated_at: "2026-03-30T05:34:03.754Z"
 status: "active"
 ---
 

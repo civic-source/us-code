@@ -3,9 +3,9 @@ title: "Section 1805 - Issuance of order"
 usc_title: 50
 usc_section: "1805"
 chapter: 36
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 1805"
-generated_at: "2026-03-30T05:31:19.480Z"
+generated_at: "2026-03-30T05:34:09.749Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power;
   - **(3)** the proposed minimization procedures meet the definition of minimization procedures under section 1801(h) of this title ; and
   - **(4)** the application which has been filed contains all statements and certifications required by section 1804 of this title and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) 1 1 See References in Text note below. of this title and any other information furnished under section 1804(d) 1 of this title.
-- **(b)** In determining whether or not probable cause exists for purposes of an order under subsection (a)(2) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+- **(b)** In determining whether or not probable cause exists for purposes of an order under subsection (a)(2), a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 - **(c)**
   - **(1)** An order approving an electronic surveillance under this section shall specify—
     - **(A)** the identity, if known, or a description of the specific target of the electronic surveillance identified or described in the application pursuant to section 1804(a)(3) of this title ;

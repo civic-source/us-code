@@ -3,9 +3,9 @@ title: "Section 17309 - Rules and regulations"
 usc_title: 40
 usc_section: "17309"
 chapter: 173
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "40 U.S.C. § 17309"
-generated_at: "2026-03-30T05:30:44.911Z"
+generated_at: "2026-03-30T05:33:47.536Z"
 status: "active"
 ---
 

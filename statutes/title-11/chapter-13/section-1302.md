@@ -3,9 +3,9 @@ title: "Section 1302 - Trustee"
 usc_title: 11
 usc_section: "1302"
 chapter: 13
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "11 U.S.C. § 1302"
-generated_at: "2026-03-30T05:29:52.471Z"
+generated_at: "2026-03-30T05:31:55.296Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1002 - Definitions"
 usc_title: 29
 usc_section: "1002"
 chapter: 18
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "29 U.S.C. § 1002"
-generated_at: "2026-03-30T05:30:22.089Z"
+generated_at: "2026-03-30T05:33:00.803Z"
 status: "active"
 ---
 

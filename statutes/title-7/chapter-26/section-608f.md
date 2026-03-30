@@ -3,9 +3,9 @@ title: "Section 608f - Repealed. Pub. L. 89–106 , § 9, Aug. 4, 1965 , 79 Stat
 usc_title: 7
 usc_section: "608f"
 chapter: 26
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 608f"
-generated_at: "2026-03-30T05:29:46.075Z"
+generated_at: "2026-03-30T05:31:48.965Z"
 status: "repealed"
 ---
 

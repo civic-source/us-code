@@ -3,9 +3,9 @@ title: "Section 677a - Definitions"
 usc_title: 25
 usc_section: "677a"
 chapter: 14
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "25 U.S.C. § 677a"
-generated_at: "2026-03-30T05:30:15.986Z"
+generated_at: "2026-03-30T05:32:42.576Z"
 status: "active"
 ---
 

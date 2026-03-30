@@ -3,9 +3,9 @@ title: "Section 463 - Bonds from armed vessels on clearing"
 usc_title: 22
 usc_section: "463"
 chapter: 9
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "22 U.S.C. § 463"
-generated_at: "2026-03-30T05:30:18.725Z"
+generated_at: "2026-03-30T05:32:57.034Z"
 status: "active"
 ---
 

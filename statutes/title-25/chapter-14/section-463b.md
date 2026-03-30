@@ -3,9 +3,9 @@ title: "Section 463b - Purchase of private lands; limitations"
 usc_title: 25
 usc_section: "463b"
 chapter: 14
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "25 U.S.C. § 463b"
-generated_at: "2026-03-30T05:30:15.977Z"
+generated_at: "2026-03-30T05:32:42.568Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 381 - Definitions"
 usc_title: 35
 usc_section: "381"
 chapter: 38
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "35 U.S.C. § 381"
-generated_at: "2026-03-30T05:30:38.584Z"
+generated_at: "2026-03-30T05:33:34.353Z"
 status: "active"
 ---
 

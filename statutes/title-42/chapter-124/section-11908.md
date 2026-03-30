@@ -3,9 +3,9 @@ title: "Section 11908 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11908"
 chapter: 124
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 11908"
-generated_at: "2026-03-30T05:31:13.589Z"
+generated_at: "2026-03-30T05:34:03.895Z"
 status: "active"
 ---
 

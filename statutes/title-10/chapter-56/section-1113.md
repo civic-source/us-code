@@ -3,9 +3,9 @@ title: "Section 1113 - Payments from the Fund"
 usc_title: 10
 usc_section: "1113"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 1113"
-generated_at: "2026-03-30T05:29:50.083Z"
+generated_at: "2026-03-30T05:31:52.744Z"
 status: "active"
 ---
 

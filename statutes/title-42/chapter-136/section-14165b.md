@@ -3,9 +3,9 @@ title: "Section 14165b - Blue Alert Coordinator; guidelines"
 usc_title: 42
 usc_section: "14165b"
 chapter: 136
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 14165b"
-generated_at: "2026-03-30T05:31:13.669Z"
+generated_at: "2026-03-30T05:34:03.945Z"
 status: "active"
 ---
 

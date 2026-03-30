@@ -3,9 +3,9 @@ title: "Section 3907 - Omitted"
 usc_title: 42
 usc_section: "3907"
 chapter: 48
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 3907"
-generated_at: "2026-03-30T05:31:13.311Z"
+generated_at: "2026-03-30T05:34:03.715Z"
 status: "omitted"
 ---
 

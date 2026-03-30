@@ -3,9 +3,9 @@ title: "Section 11123 - Situations requiring immediate action to serve the publi
 usc_title: 49
 usc_section: "11123"
 chapter: 111
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 11123"
-generated_at: "2026-03-30T05:31:24.959Z"
+generated_at: "2026-03-30T05:34:13.403Z"
 status: "active"
 ---
 

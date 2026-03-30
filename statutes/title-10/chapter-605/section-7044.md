@@ -3,9 +3,9 @@ title: "Section 7044 - Civilian teachers: number; compensation"
 usc_title: 10
 usc_section: "7044"
 chapter: 605
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 7044"
-generated_at: "2026-03-30T05:29:50.159Z"
+generated_at: "2026-03-30T05:31:52.829Z"
 status: "active"
 ---
 

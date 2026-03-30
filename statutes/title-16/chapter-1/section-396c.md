@@ -3,9 +3,9 @@ title: "Section 396c - Land acquisition; authorization of appropriations"
 usc_title: 16
 usc_section: "396c"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 396c"
-generated_at: "2026-03-30T05:30:04.382Z"
+generated_at: "2026-03-30T05:32:08.789Z"
 status: "active"
 ---
 

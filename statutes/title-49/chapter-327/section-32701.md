@@ -3,9 +3,9 @@ title: "Section 32701 - Findings and purposes"
 usc_title: 49
 usc_section: "32701"
 chapter: 327
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 32701"
-generated_at: "2026-03-30T05:31:24.994Z"
+generated_at: "2026-03-30T05:34:13.431Z"
 status: "active"
 ---
 

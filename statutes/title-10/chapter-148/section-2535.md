@@ -3,9 +3,9 @@ title: "Section 2535 - Defense Industrial Reserve"
 usc_title: 10
 usc_section: "2535"
 chapter: 148
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 2535"
-generated_at: "2026-03-30T05:29:50.130Z"
+generated_at: "2026-03-30T05:31:52.797Z"
 status: "active"
 ---
 

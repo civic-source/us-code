@@ -3,9 +3,9 @@ title: "Section 1916 - Administration of financial assistance; recording of mort
 usc_title: 19
 usc_section: "1916"
 chapter: 7
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "19 U.S.C. § 1916"
-generated_at: "2026-03-30T05:30:12.313Z"
+generated_at: "2026-03-30T05:32:17.571Z"
 status: "active"
 ---
 

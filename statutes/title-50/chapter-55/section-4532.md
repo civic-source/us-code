@@ -3,9 +3,9 @@ title: "Section 4532 - Loans to private business enterprises"
 usc_title: 50
 usc_section: "4532"
 chapter: 55
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4532"
-generated_at: "2026-03-30T05:31:19.544Z"
+generated_at: "2026-03-30T05:34:09.835Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1171to1173 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1171to1173"
 chapter: 28
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 1171to1173"
-generated_at: "2026-03-30T05:30:49.438Z"
+generated_at: "2026-03-30T05:34:04.811Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 538 - User fees fund for delayed payments to grantors"
 usc_title: 16
 usc_section: "538"
 chapter: 2
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 538"
-generated_at: "2026-03-30T05:30:04.451Z"
+generated_at: "2026-03-30T05:32:08.859Z"
 status: "active"
 ---
 

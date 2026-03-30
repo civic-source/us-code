@@ -3,9 +3,9 @@ title: "Section 3047 - Multiple warrants unnecessary"
 usc_title: 18
 usc_section: "3047"
 chapter: 203
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "18 U.S.C. § 3047"
-generated_at: "2026-03-30T05:30:00.556Z"
+generated_at: "2026-03-30T05:32:04.091Z"
 status: "active"
 ---
 

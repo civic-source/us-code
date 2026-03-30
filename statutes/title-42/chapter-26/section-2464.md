@@ -3,9 +3,9 @@ title: "Section 2464 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 S
 usc_title: 42
 usc_section: "2464"
 chapter: 26
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 2464"
-generated_at: "2026-03-30T05:31:13.257Z"
+generated_at: "2026-03-30T05:34:03.680Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 57 - Who included in term “common carrier”"
 usc_title: 45
 usc_section: "57"
 chapter: 2
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "45 U.S.C. § 57"
-generated_at: "2026-03-30T05:30:50.122Z"
+generated_at: "2026-03-30T05:33:50.067Z"
 status: "active"
 ---
 

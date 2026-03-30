@@ -3,9 +3,9 @@ title: "Section 152401 - Organization"
 usc_title: 36
 usc_section: "152401"
 chapter: 1524
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "36 U.S.C. § 152401"
-generated_at: "2026-03-30T05:30:45.619Z"
+generated_at: "2026-03-30T05:33:44.604Z"
 status: "active"
 ---
 

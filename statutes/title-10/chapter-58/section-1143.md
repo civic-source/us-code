@@ -3,9 +3,9 @@ title: "Section 1143 - Employment assistance"
 usc_title: 10
 usc_section: "1143"
 chapter: 58
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 1143"
-generated_at: "2026-03-30T05:29:50.084Z"
+generated_at: "2026-03-30T05:31:52.745Z"
 status: "active"
 ---
 

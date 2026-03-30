@@ -3,9 +3,9 @@ title: "Section 4104A - Collaborative veterans’ training, mentoring, and place
 usc_title: 38
 usc_section: "4104A"
 chapter: 41
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "38 U.S.C. § 4104A"
-generated_at: "2026-03-30T05:30:47.023Z"
+generated_at: "2026-03-30T05:33:43.266Z"
 status: "active"
 ---
 

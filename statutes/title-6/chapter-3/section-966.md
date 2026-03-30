@@ -3,9 +3,9 @@ title: "Section 966 - Tier 3 participants in C–TPAT"
 usc_title: 6
 usc_section: "966"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "6 U.S.C. § 966"
-generated_at: "2026-03-30T05:29:42.959Z"
+generated_at: "2026-03-30T05:31:45.992Z"
 status: "active"
 ---
 

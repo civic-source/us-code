@@ -3,9 +3,9 @@ title: "Section 3055 - Annual report on financial intelligence on terrorist asse
 usc_title: 50
 usc_section: "3055"
 chapter: 44
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3055"
-generated_at: "2026-03-30T05:31:19.513Z"
+generated_at: "2026-03-30T05:34:09.773Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** the total number of physical searches of offices, residences, or financial records of individuals or entities suspected of having engaged in financial support for terrorist activity; and
   - **(3)** whether the financial intelligence information seized in these cases has been shared on a full and timely basis with the all departments, agencies, and other entities of the United States Government involved in intelligence activities participating in the Foreign Terrorist Asset Tracking Center.
 - **(b)** In the case of a designation of an individual or entity, or the assets of an individual or entity, as having been found to have engaged in terrorist activities, the Secretary of the Treasury shall report such designation within 24 hours of such a designation to the appropriate congressional committees.
-- **(c)** In the case of the reports required to be submitted under subsection (a) of this section to the congressional intelligence committees, the submittal dates for such reports shall be as provided in section 3106 of this title .
+- **(c)** In the case of the reports required to be submitted under subsection (a) to the congressional intelligence committees, the submittal dates for such reports shall be as provided in section 3106 of this title .
 - **(d)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The Permanent Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Financial Services of the House of Representatives.
   - **(2)** The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.

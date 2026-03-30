@@ -3,9 +3,9 @@ title: "Section 523 - Coordination and promotion of other programs affecting vet
 usc_title: 38
 usc_section: "523"
 chapter: 5
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "38 U.S.C. § 523"
-generated_at: "2026-03-30T05:30:46.991Z"
+generated_at: "2026-03-30T05:33:43.237Z"
 status: "active"
 ---
 

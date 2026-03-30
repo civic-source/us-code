@@ -3,9 +3,9 @@ title: "Section 493 - Authorization of appropriations"
 usc_title: 50
 usc_section: "493"
 chapter: 18
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 493"
-generated_at: "2026-03-30T05:31:19.475Z"
+generated_at: "2026-03-30T05:34:09.745Z"
 status: "active"
 ---
 

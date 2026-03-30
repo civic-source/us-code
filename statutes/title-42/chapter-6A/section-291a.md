@@ -3,9 +3,9 @@ title: "Section 291a - Authorization of appropriations"
 usc_title: 42
 usc_section: "291a"
 chapter: 6
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 291a"
-generated_at: "2026-03-30T05:31:12.793Z"
+generated_at: "2026-03-30T05:34:03.392Z"
 status: "active"
 ---
 

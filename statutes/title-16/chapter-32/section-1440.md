@@ -3,9 +3,9 @@ title: "Section 1440 - Research, monitoring, and education"
 usc_title: 16
 usc_section: "1440"
 chapter: 32
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 1440"
-generated_at: "2026-03-30T05:30:04.521Z"
+generated_at: "2026-03-30T05:32:08.930Z"
 status: "active"
 ---
 

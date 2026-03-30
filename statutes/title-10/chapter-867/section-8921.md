@@ -3,9 +3,9 @@ title: "Section 8921 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "8921"
 chapter: 867
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 8921"
-generated_at: "2026-03-30T05:29:50.168Z"
+generated_at: "2026-03-30T05:31:52.838Z"
 status: "active"
 ---
 

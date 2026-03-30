@@ -3,9 +3,9 @@ title: "Section 59a - Repealed. Pub. L. 101–163, title I , § 103(b), Nov. 21,
 usc_title: 2
 usc_section: "59a"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "2 U.S.C. § 59a"
-generated_at: "2026-03-30T05:29:39.377Z"
+generated_at: "2026-03-30T05:31:42.555Z"
 status: "repealed"
 ---
 

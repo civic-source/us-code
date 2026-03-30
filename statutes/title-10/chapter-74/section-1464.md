@@ -3,9 +3,9 @@ title: "Section 1464 - Repealed. Pub. L. 110–181, div. A, title IX , § 906(b)
 usc_title: 10
 usc_section: "1464"
 chapter: 74
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 1464"
-generated_at: "2026-03-30T05:29:50.094Z"
+generated_at: "2026-03-30T05:31:52.756Z"
 status: "repealed"
 ---
 

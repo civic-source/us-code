@@ -3,9 +3,9 @@ title: "Section 3390 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "3390"
 chapter: 337
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 3390"
-generated_at: "2026-03-30T05:29:50.147Z"
+generated_at: "2026-03-30T05:31:52.815Z"
 status: "repealed"
 ---
 

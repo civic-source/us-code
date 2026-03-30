@@ -3,9 +3,9 @@ title: "Section 556i - Transfer of funds made available to Forest Service"
 usc_title: 16
 usc_section: "556i"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 556i"
-generated_at: "2026-03-30T05:30:04.460Z"
+generated_at: "2026-03-30T05:32:08.868Z"
 status: "active"
 ---
 

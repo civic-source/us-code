@@ -3,9 +3,9 @@ title: "Section 3957 - Protection of life insurance policy"
 usc_title: 50
 usc_section: "3957"
 chapter: 50
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3957"
-generated_at: "2026-03-30T05:31:19.533Z"
+generated_at: "2026-03-30T05:34:09.826Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(3)** upon the death of the insured.
 - **(c)** A court which receives an application for an order required under subsection (a) may refuse to grant such order if the court determines the ability of the servicemember to comply with the terms of the obligation is materially affected by military service.
 - **(d)** For purposes of this subsection, premiums guaranteed under the provisions of subchapter IV of this chapter shall not be considered due and unpaid.
-- **(e)** A person who knowingly takes an action contrary to this section, or attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+- **(e)** A person who knowingly takes an action contrary to this section, or attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.

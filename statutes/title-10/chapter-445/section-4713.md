@@ -3,9 +3,9 @@ title: "Section 4713 - Repealed. Pub. L. 101–510, div. A, title XV , § 1533(a
 usc_title: 10
 usc_section: "4713"
 chapter: 445
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 4713"
-generated_at: "2026-03-30T05:29:50.151Z"
+generated_at: "2026-03-30T05:31:52.821Z"
 status: "repealed"
 ---
 

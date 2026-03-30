@@ -3,9 +3,9 @@ title: "Section 12 - Hearings"
 usc_title: 15
 usc_section: "12"
 chapter: 2
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "15 U.S.C. § 12"
-generated_at: "2026-03-30T05:29:57.048Z"
+generated_at: "2026-03-30T05:31:58.504Z"
 status: "active"
 ---
 

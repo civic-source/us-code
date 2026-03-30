@@ -3,9 +3,9 @@ title: "Section 15022 - State allotments"
 usc_title: 42
 usc_section: "15022"
 chapter: 144
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 15022"
-generated_at: "2026-03-30T05:31:13.679Z"
+generated_at: "2026-03-30T05:34:03.951Z"
 status: "active"
 ---
 

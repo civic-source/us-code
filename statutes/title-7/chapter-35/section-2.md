@@ -3,9 +3,9 @@ title: "Section 2 - Denial of program benefits"
 usc_title: 7
 usc_section: "2"
 chapter: 35
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T05:29:46.084Z"
+generated_at: "2026-03-30T05:31:48.974Z"
 status: "active"
 ---
 

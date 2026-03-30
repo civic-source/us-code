@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. July 16, 1947, ch. 256 , § 1, 61 Stat. 327"
 usc_title: 47
 usc_section: "6"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "47 U.S.C. § 6"
-generated_at: "2026-03-30T05:31:20.204Z"
+generated_at: "2026-03-30T05:34:08.788Z"
 status: "repealed"
 ---
 

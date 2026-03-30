@@ -3,9 +3,9 @@ title: "Section 155155A - Repealed. Pub. L. 112–29, § 20(k) , Sept. 16, 2011 
 usc_title: 35
 usc_section: "155155A"
 chapter: 14
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "35 U.S.C. § 155155A"
-generated_at: "2026-03-30T05:30:38.580Z"
+generated_at: "2026-03-30T05:33:34.349Z"
 status: "repealed"
 ---
 

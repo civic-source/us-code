@@ -3,9 +3,9 @@ title: "Section 2303 - Ethics safeguards related to contractor conflicts of inte
 usc_title: 41
 usc_section: "2303"
 chapter: 23
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "41 U.S.C. § 2303"
-generated_at: "2026-03-30T05:30:53.541Z"
+generated_at: "2026-03-30T05:33:49.341Z"
 status: "active"
 ---
 

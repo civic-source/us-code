@@ -3,9 +3,9 @@ title: "Section 5005 - Persons liable for tax"
 usc_title: 26
 usc_section: "5005"
 chapter: 51
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 5005"
-generated_at: "2026-03-30T05:30:36.644Z"
+generated_at: "2026-03-30T05:33:15.441Z"
 status: "active"
 ---
 

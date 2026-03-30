@@ -3,9 +3,9 @@ title: "Section 671 - Trust income, deductions, and credits attributable to gran
 usc_title: 26
 usc_section: "671"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 671"
-generated_at: "2026-03-30T05:30:36.557Z"
+generated_at: "2026-03-30T05:33:15.358Z"
 status: "active"
 ---
 

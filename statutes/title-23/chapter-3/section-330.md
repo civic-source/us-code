@@ -3,9 +3,9 @@ title: "Section 330 - Program for eliminating duplication of environmental revie
 usc_title: 23
 usc_section: "330"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "23 U.S.C. § 330"
-generated_at: "2026-03-30T05:30:14.933Z"
+generated_at: "2026-03-30T05:32:30.411Z"
 status: "active"
 ---
 

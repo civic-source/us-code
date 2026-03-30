@@ -3,9 +3,9 @@ title: "Section 5038 - Use of juvenile records"
 usc_title: 18
 usc_section: "5038"
 chapter: 403
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "18 U.S.C. § 5038"
-generated_at: "2026-03-30T05:30:00.571Z"
+generated_at: "2026-03-30T05:32:04.107Z"
 status: "active"
 ---
 

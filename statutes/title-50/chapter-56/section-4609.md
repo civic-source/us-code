@@ -3,9 +3,9 @@ title: "Section 4609 - Procedures for processing export license applications; ot
 usc_title: 50
 usc_section: "4609"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4609"
-generated_at: "2026-03-30T05:31:19.551Z"
+generated_at: "2026-03-30T05:34:09.839Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
 - **(l)**
   - **(1)** In any case in which the Secretary receives a written request asking for the proper classification of a good or technology on the control list, the Secretary shall, within 10 working days after receipt of the request, inform the person making the request of the proper classification.
   - **(2)** In any case in which the Secretary receives a written request for information about the applicability of export license requirements under this chapter to a proposed export transaction or series of transactions, the Secretary shall, within 30 days after receipt of the request, reply with that information to the person making the request.
-- **(m)** Not later than 120 days after July 12, 1985 , the Secretary shall develop and transmit to the Congress a plan to assist small businesses in the export licensing application process under this chapter. The plan shall include, among other things, arrangements for counseling small businesses on filing applications and identifying goods or technology on the control list, proposals for seminars and conferences to educate small businesses on export controls and licensing procedures, and the preparation of informational brochures. The Secretary shall, not later than 120 days after the date of the enactment of the Export Enhancement Act of 1988, report to the Congress on steps taken to implement the plan developed under this subsection to assist small businesses in the export licensing application process.
+- **(m)** Not later than 120 days after July 12, 1985 , the Secretary shall develop and transmit to the Congress a plan to assist small businesses in the export licensing application process under this chapter. The plan shall include, among other things, arrangements for counseling small businesses on filing applications and identifying goods or technology on the control list, proposals for seminars and conferences to educate small businesses on export controls and licensing procedures, and the preparation of informational brochures. The Secretary shall, not later than 120 days after August 23, 1988 , report to the Congress on steps taken to implement the plan developed under this subsection to assist small businesses in the export licensing application process.
 - **(n)**
   - **(1)** Not later than 180 days after July 12, 1985 , and not later than the end of each 3-month period thereafter, the Secretary shall submit to the Committee on Foreign Affairs of the House of Representatives and to the Committee on Banking, Housing, and Urban Affairs of the Senate a report listing—
     - **(A)** all applications on which action was completed during the preceding 3-month period and which required a period longer than the period permitted under subsection (c), (f)(1), or (h) of this section, as the case may be, before notification of a decision to approve or deny the application was sent to the applicant; and
@@ -96,4 +96,4 @@ status: "active"
     - **(B)** the application has been denied by the Secretary pursuant to this section and the applicant has been so informed, or the applicant has been informed, pursuant to subsection (f)(3) of this section, that the application should be denied.
   - **(3)** In reviewing an individual license application subject to this subsection, the Secretary shall evaluate the information set forth in the application and the reliability of the end-user.
   - **(4)** Nothing in this subsection shall affect the scope or availability of licenses authorizing multiple exports set forth in section 4603(a)(2) of this title .
-  - **(5)** The provisions of this subsection shall take effect 4 months after the date of the enactment of the Export Administration Amendments Act of 1985.
+  - **(5)** The provisions of this subsection shall take effect 4 months after July 12, 1985 .

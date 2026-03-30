@@ -3,9 +3,9 @@ title: "Section 1861 - Access to certain business records for foreign intelligen
 usc_title: 50
 usc_section: "1861"
 chapter: 36
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 1861"
-generated_at: "2026-03-30T05:31:19.482Z"
+generated_at: "2026-03-30T05:34:09.751Z"
 status: "active"
 ---
 
@@ -82,7 +82,7 @@ status: "active"
   - **(4)** Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
   - **(5)** All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
 - **(g)**
-  - **(1)**
+  - **(1)** The Attorney General shall adopt, and update as appropriate, specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.
   - **(2)** In this section, the term “minimization procedures” means—
     - **(A)** specific procedures that are reasonably designed in light of the purpose and technique of an order for the production of tangible things, to minimize the retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
     - **(B)** procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in section 1801(e)(1) of this title , shall not be disseminated in a manner that identifies any United States person, without such person’s consent, unless such person’s identity is necessary to understand foreign intelligence information or assess its importance; and

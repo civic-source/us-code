@@ -3,9 +3,9 @@ title: "Section 2182 - Use of space formerly occupied by Library of Congress"
 usc_title: 2
 usc_section: "2182"
 chapter: 30
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "2 U.S.C. § 2182"
-generated_at: "2026-03-30T05:29:39.412Z"
+generated_at: "2026-03-30T05:31:42.593Z"
 status: "active"
 ---
 

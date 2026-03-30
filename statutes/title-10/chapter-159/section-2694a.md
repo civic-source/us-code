@@ -3,9 +3,9 @@ title: "Section 2694a - Conveyance of surplus real property for natural resource
 usc_title: 10
 usc_section: "2694a"
 chapter: 159
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 2694a"
-generated_at: "2026-03-30T05:29:50.136Z"
+generated_at: "2026-03-30T05:31:52.805Z"
 status: "active"
 ---
 

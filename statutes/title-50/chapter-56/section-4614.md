@@ -3,9 +3,9 @@ title: "Section 4614 - Enforcement"
 usc_title: 50
 usc_section: "4614"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4614"
-generated_at: "2026-03-30T05:31:19.553Z"
+generated_at: "2026-03-30T05:34:09.841Z"
 status: "active"
 ---
 
@@ -26,10 +26,10 @@ status: "active"
       - **(i)** Execute any warrant or other process issued by a court or officer of competent jurisdiction with respect to the enforcement of the provisions of this chapter.
       - **(ii)** Make arrests without warrant for any violation of this chapter committed in his or her presence or view, or if the officer or employee has probable cause to believe that the person to be arrested has committed or is committing such a violation.
       - **(iii)** Carry firearms in carrying out any activity described in clause (i) or (ii).
-  - **(4)** The authorities first conferred by the Export Administration Amendments Act of 1985 under paragraph (3) shall be exercised pursuant to guidelines approved by the Attorney General. Such guidelines shall be issued not later than 120 days after the date of the enactment of the Export Administration Amendments Act of 1985.
+  - **(4)** The authorities first conferred by the Export Administration Amendments Act of 1985 under paragraph (3) shall be exercised pursuant to guidelines approved by the Attorney General. Such guidelines shall be issued not later than 120 days after July 12, 1985 .
   - **(5)** All cases involving violations of this chapter shall be referred to the Secretary for purposes of determining civil penalties and administrative sanctions under section 4610(c) of this title , or to the Attorney General for criminal action in accordance with this chapter.
   - **(6)** Notwithstanding any other provision of law, the United States Customs Service may expend in the enforcement of export controls under this chapter not more than $12,000,000 in the fiscal year 1985 and not more than $14,000,000 in the fiscal year 1986.
-  - **(7)** Not later than 90 days after the date of the enactment of the Export Administration Amendments Act of 1985, the Secretary, with the concurrence of the Secretary of the Treasury, shall publish in the Federal Register procedures setting forth, in accordance with this subsection, the responsibilities of the Department of Commerce and the United States Customs Service in the enforcement of this chapter. In addition, the Secretary, with the concurrence of the Secretary of the Treasury, may publish procedures for the sharing of information in accordance with subsection (c)(3) of this section, and procedures for the submission to the appropriate departments and agencies by private persons of information relating to the enforcement of this chapter.
+  - **(7)** Not later than 90 days after July 12, 1985 , the Secretary, with the concurrence of the Secretary of the Treasury, shall publish in the Federal Register procedures setting forth, in accordance with this subsection, the responsibilities of the Department of Commerce and the United States Customs Service in the enforcement of this chapter. In addition, the Secretary, with the concurrence of the Secretary of the Treasury, may publish procedures for the sharing of information in accordance with subsection (c)(3) of this section, and procedures for the submission to the appropriate departments and agencies by private persons of information relating to the enforcement of this chapter.
   - **(8)** For purposes of this section, a reference to the enforcement of this chapter or to a violation of this chapter includes a reference to the enforcement or a violation of any regulation, order, or license issued under this chapter.
 - **(b)** No person shall be excused from complying with any requirements under this section because of his privilege against self-incrimination, but the immunity provisions of section 6002 of title 18 shall apply with respect to any individual who specifically claims such privilege.
 - **(c)**

@@ -3,9 +3,9 @@ title: "Section 1412 - Transfers between a multiemployer plan and a single-emplo
 usc_title: 29
 usc_section: "1412"
 chapter: 18
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "29 U.S.C. § 1412"
-generated_at: "2026-03-30T05:30:22.116Z"
+generated_at: "2026-03-30T05:33:00.830Z"
 status: "active"
 ---
 

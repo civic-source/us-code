@@ -3,9 +3,9 @@ title: "Section 371 - Repealed. Pub. L. 104–208, div. A, title I , § 101(e) [
 usc_title: 20
 usc_section: "371"
 chapter: 16
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 371"
-generated_at: "2026-03-30T05:30:08.483Z"
+generated_at: "2026-03-30T05:32:06.135Z"
 status: "repealed"
 ---
 

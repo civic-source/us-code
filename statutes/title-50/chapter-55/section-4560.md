@@ -3,9 +3,9 @@ title: "Section 4560 - Employment of personnel; appointment policies; nucleus ex
 usc_title: 50
 usc_section: "4560"
 chapter: 55
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4560"
-generated_at: "2026-03-30T05:31:19.547Z"
+generated_at: "2026-03-30T05:34:09.836Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(B)** Any individual appointed under this subsection who is not required to file a financial disclosure report pursuant to section 101 of the Ethics in Government Act of 1978, shall file a confidential financial disclosure report pursuant to section 107 of that Act with the appointing department or agency.
   - **(6)** The Director of the Office of Personnel Management shall carry out a biennial survey of appointments made under this subsection and shall report his or her findings to the President and make such recommendations as he or she may deem proper.
   - **(7)** Persons appointed under the authority of this subsection may be allowed reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions for which they were appointed in the same manner as persons employed intermittently in the Federal Government are allowed expenses under section 5703 of title 5 .
-- **(c)** The President is authorized, to the extent he deems it necessary and appropriate in order to carry out the provisions of this chapter to employ experts and consultants or organizations thereof as authorized by section 3109 of title 5 . Individuals so employed may be compensated at rates not in excess of $50 per diem and while away from their homes or regular places of business they may be allowed transportation and not to exceed $15 per diem in lieu of subsistence and other expenses while so employed.
+- **(c)** The President is authorized, to the extent he deems it necessary and appropriate in order to carry out the provisions of this chapter to employ experts and consultants or organizations thereof, as authorized by section 3109 of title 5 . Individuals so employed may be compensated at rates not in excess of $50 per diem and while away from their homes or regular places of business they may be allowed transportation and not to exceed $15 per diem in lieu of subsistence and other expenses while so employed.
 - **(d)** The President may utilize the services of Federal, State, and local agencies and may utilize and establish such regional, local, or other agencies, and utilize such voluntary and uncompensated services, as may from time to time be needed.
 - **(e)** The President is further authorized to provide for the establishment and training of a nucleus executive reserve for employment in executive positions in Government during periods of national defense emergency, as determined by the President. Members of this executive reserve who are not full-time Government employees may be allowed transportation and per diem in lieu of subsistence, in accordance with title 5 (with respect to individuals serving without pay, while away from their homes or regular places of business), for the purpose of participating in the executive reserve training program.
 - **(f)** Whoever, being an officer or employee of the United States or any department or agency thereof (including any Member of the Senate or House of Representatives), receives, by virtue of his office or employment, confidential information, and (1) uses such information in speculating directly or indirectly on any commodity exchange, or (2) discloses such information for the purpose of aiding any other person so to speculate, shall be fined not more than $10,000 or imprisoned not more than one year, or both. As used in this section, the term “speculate” shall not include a legitimate hedging transaction, or a purchase or sale which is accompanied by actual delivery of the commodity.

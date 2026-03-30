@@ -3,9 +3,9 @@ title: "Section 4412 - Operation"
 usc_title: 10
 usc_section: "4412"
 chapter: 407
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 4412"
-generated_at: "2026-03-30T05:29:50.150Z"
+generated_at: "2026-03-30T05:31:52.819Z"
 status: "active"
 ---
 

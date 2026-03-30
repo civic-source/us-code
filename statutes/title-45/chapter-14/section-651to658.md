@@ -3,9 +3,9 @@ title: "Section 651to658 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 ,
 usc_title: 45
 usc_section: "651to658"
 chapter: 14
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "45 U.S.C. § 651to658"
-generated_at: "2026-03-30T05:30:50.133Z"
+generated_at: "2026-03-30T05:33:50.077Z"
 status: "repealed"
 ---
 

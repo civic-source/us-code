@@ -3,9 +3,9 @@ title: "Section 44733 - Inspection of repair stations located outside the United
 usc_title: 49
 usc_section: "44733"
 chapter: 447
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 44733"
-generated_at: "2026-03-30T05:31:25.013Z"
+generated_at: "2026-03-30T05:34:13.447Z"
 status: "active"
 ---
 
@@ -25,6 +25,15 @@ status: "active"
   - **(1)** The Secretary of State and the Secretary of Transportation, acting jointly, shall request the governments of foreign countries that are members of the International Civil Aviation Organization to establish international standards for alcohol and controlled substances testing of persons that perform safety-sensitive maintenance functions on commercial air carrier aircraft.
   - **(2)** Not later than 1 year after the date of enactment of this section, the Administrator shall promulgate a proposed rule requiring that all part 145 repair station employees responsible for safety-sensitive maintenance functions on part 121 air carrier aircraft are subject to an alcohol and controlled substances testing program determined acceptable by the Administrator and consistent with the applicable laws of the country in which the repair station is located.
 - **(e)** The Administrator shall ensure that part 145 repair stations located outside the United States are inspected annually by Federal Aviation Administration safety inspectors, without regard to where the station is located, in a manner consistent with United States obligations under international agreements. The Administrator may carry out inspections in addition to the annual inspection required under this subsection based on identified risks.
-- **(f)** In this section, the following definitions apply:
-  - **(1)** The term “part 121 air carrier” means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
-  - **(2)** The term “part 145 repair station” means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.
+- **(f)**
+  - **(1)** Not later than 90 days after the date of enactment of the FAA Extension, Safety, and Security Act of 2016, the Administrator shall take measures to ensure that the safety assessment system established under subsection (a)—
+    - **(A)** places particular consideration on inspections of part 145 repair stations located outside the United States that conduct scheduled heavy maintenance work on part 121 air carrier aircraft; and
+    - **(B)** accounts for the frequency and seriousness of any corrective actions that part 121 air carriers must implement to aircraft following such work at such repair stations.
+  - **(2)** The Administrator shall take the measures required under paragraph (1)—
+    - **(A)** in accordance with United States obligations under applicable international agreements; and
+    - **(B)** in a manner consistent with the applicable laws of the country in which a repair station is located.
+  - **(3)** The Administrator may access and review such information or data in the possession of a part 121 air carrier as the Administrator may require in carrying out paragraph (1)(B).
+- **(g)** In this section, the following definitions apply:
+  - **(1)** The term “heavy maintenance work” means a C-check, a D-check, or equivalent maintenance operation with respect to the airframe of a transport-category aircraft.
+  - **(2)** The term “part 121 air carrier” means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
+  - **(3)** The term “part 145 repair station” means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.

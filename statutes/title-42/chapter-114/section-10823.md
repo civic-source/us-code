@@ -3,9 +3,9 @@ title: "Section 10823 - Payments under allotments"
 usc_title: 42
 usc_section: "10823"
 chapter: 114
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 10823"
-generated_at: "2026-03-30T05:31:13.570Z"
+generated_at: "2026-03-30T05:34:03.883Z"
 status: "active"
 ---
 

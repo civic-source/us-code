@@ -3,9 +3,9 @@ title: "Section 3953 - Mortgages and trust deeds"
 usc_title: 50
 usc_section: "3953"
 chapter: 50
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3953"
-generated_at: "2026-03-30T05:31:19.532Z"
+generated_at: "2026-03-30T05:34:09.826Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
 - **(c)** A sale, foreclosure, or seizure of property for a breach of an obligation described in subsection (a) shall not be valid if made during, or within one year after, the period of the servicemember’s military service except—
   - **(1)** upon a court order granted before such sale, foreclosure, or seizure with a return made and approved by the court; or
   - **(2)** if made pursuant to an agreement as provided in section 3918 of this title .
-- **(d)** A person who knowingly makes or causes to be made a sale, foreclosure, or seizure of property that is prohibited by subsection (c), or who knowingly attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+- **(d)** A person who knowingly makes or causes to be made a sale, foreclosure, or seizure of property that is prohibited by subsection (c), or who knowingly attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.

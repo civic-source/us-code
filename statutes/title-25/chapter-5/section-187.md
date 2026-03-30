@@ -3,9 +3,9 @@ title: "Section 187 - Omitted"
 usc_title: 25
 usc_section: "187"
 chapter: 5
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "25 U.S.C. § 187"
-generated_at: "2026-03-30T05:30:15.963Z"
+generated_at: "2026-03-30T05:32:42.556Z"
 status: "omitted"
 ---
 

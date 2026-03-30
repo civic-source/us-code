@@ -3,9 +3,9 @@ title: "Section 474b - Travel and transportation allowances: payment of lodging 
 usc_title: 37
 usc_section: "474b"
 chapter: 8
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "37 U.S.C. § 474b"
-generated_at: "2026-03-30T05:30:45.941Z"
+generated_at: "2026-03-30T05:33:41.512Z"
 status: "active"
 ---
 

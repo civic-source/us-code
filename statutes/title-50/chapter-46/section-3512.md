@@ -3,9 +3,9 @@ title: "Section 3512 - Gifts, devises, and bequests"
 usc_title: 50
 usc_section: "3512"
 chapter: 46
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3512"
-generated_at: "2026-03-30T05:31:19.524Z"
+generated_at: "2026-03-30T05:34:09.820Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(4)** The Director may not accept any gift under this section that is expressly conditioned upon any expenditure not to be met from the gift itself or from income produced by the gift unless such expenditure has been authorized by law.
   - **(5)** The Director may, in the Director’s discretion, determine that an individual described in subparagraph (A) or (B) of paragraph (3) may accept a gift for the purposes described in paragraph (2)(A)(iii).
 - **(b)** Unless otherwise restricted by the terms of the gift, the Director may sell or exchange, or invest or reinvest, any property which is accepted under subsection (a), but any such investment may only be in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
-- **(c)** There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of subsection (a), and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b) of this section.
+- **(c)** There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of subsection (a), and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b).
 - **(d)** For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under subsection (a) shall be considered to be to or for the use of the United States.
 - **(e)** For the purposes of this section, the term “gift” includes a bequest or devise.
 - **(f)**

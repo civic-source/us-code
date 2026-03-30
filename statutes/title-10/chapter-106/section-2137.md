@@ -3,9 +3,9 @@ title: "Section 2137 - Renumbered § 16137]"
 usc_title: 10
 usc_section: "2137"
 chapter: 106
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 2137"
-generated_at: "2026-03-30T05:29:50.105Z"
+generated_at: "2026-03-30T05:31:52.770Z"
 status: "renumbered"
 ---
 

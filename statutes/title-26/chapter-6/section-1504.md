@@ -3,9 +3,9 @@ title: "Section 1504 - Definitions"
 usc_title: 26
 usc_section: "1504"
 chapter: 6
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 1504"
-generated_at: "2026-03-30T05:30:36.611Z"
+generated_at: "2026-03-30T05:33:15.408Z"
 status: "active"
 ---
 

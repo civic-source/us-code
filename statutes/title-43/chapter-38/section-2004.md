@@ -3,9 +3,9 @@ title: "Section 2004 - Applications for approval of proposed crude oil transport
 usc_title: 43
 usc_section: "2004"
 chapter: 38
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 2004"
-generated_at: "2026-03-30T05:30:49.461Z"
+generated_at: "2026-03-30T05:34:04.833Z"
 status: "active"
 ---
 

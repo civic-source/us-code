@@ -3,9 +3,9 @@ title: "Section 44734 - Training of flight attendants"
 usc_title: 49
 usc_section: "44734"
 chapter: 447
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 44734"
-generated_at: "2026-03-30T05:31:25.014Z"
+generated_at: "2026-03-30T05:34:13.447Z"
 status: "active"
 ---
 
@@ -13,8 +13,9 @@ status: "active"
 
 - **(a)** In addition to other training required under this chapter, each air carrier shall provide to flight attendants employed or contracted by such air carrier initial and annual training regarding—
   - **(1)** serving alcohol to passengers;
-  - **(2)** recognizing intoxicated passengers; and
-  - **(3)** dealing with disruptive passengers.
+  - **(2)** recognizing intoxicated passengers;
+  - **(3)** dealing with disruptive passengers; and
+  - **(4)** recognizing and responding to potential human trafficking victims.
 - **(b)** In carrying out the training required under subsection (a), each air carrier shall provide to flight attendants situational training on the proper method for dealing with intoxicated passengers who act in a belligerent manner.
 - **(c)** In this section, the following definitions apply:
   - **(1)** The term “air carrier” means a person, including a commercial enterprise, that has been issued an air carrier operating certificate under section 44705.

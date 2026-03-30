@@ -3,9 +3,9 @@ title: "Section 610to612 - Omitted"
 usc_title: 43
 usc_section: "610to612"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 610to612"
-generated_at: "2026-03-30T05:30:49.427Z"
+generated_at: "2026-03-30T05:34:04.801Z"
 status: "omitted"
 ---
 

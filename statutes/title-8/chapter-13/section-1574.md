@@ -3,9 +3,9 @@ title: "Section 1574 - Reports to Congress"
 usc_title: 8
 usc_section: "1574"
 chapter: 13
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "8 U.S.C. § 1574"
-generated_at: "2026-03-30T05:29:43.562Z"
+generated_at: "2026-03-30T05:31:46.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101305 - Travel expenses of System employees and dependents of d
 usc_title: 54
 usc_section: "101305"
 chapter: 1013
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "54 U.S.C. § 101305"
-generated_at: "2026-03-30T05:31:29.423Z"
+generated_at: "2026-03-30T05:34:15.254Z"
 status: "active"
 ---
 

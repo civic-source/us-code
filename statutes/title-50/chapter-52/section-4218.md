@@ -3,9 +3,9 @@ title: "Section 4218 - Definitions"
 usc_title: 50
 usc_section: "4218"
 chapter: 52
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4218"
-generated_at: "2026-03-30T05:31:19.538Z"
+generated_at: "2026-03-30T05:34:09.829Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ For the purposes of this subchapter—
   - **(3)** the term “permanent resident alien” means an alien lawfully admitted into the United States for permanent residence;
   - **(4)** the term “Fund” means the Civil Liberties Public Education Fund established in section 4214 of this title ;
   - **(5)** the term “Board” means the Civil Liberties Public Education Fund Board of Directors established in section 4216 of this title ; and
-  - **(6)** the term “Commission” means the Commission on Wartime Relocation and Internment of Civilians, established by the Commission on Wartime Relocation and Internment of Civilians Act.
+  - **(6)** the term “Commission” means the Commission on Wartime Relocation and Internment of Civilians, established by the Commission on Wartime Relocation and Internment of Civilians Act ( Public Law 96–317 ; 50 U.S.C. App. 1981 note). 1 1 See References in Text note below.

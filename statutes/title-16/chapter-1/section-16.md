@@ -3,9 +3,9 @@ title: "Section 16 - Fishing and wildlife"
 usc_title: 16
 usc_section: "16"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 16"
-generated_at: "2026-03-30T05:30:04.434Z"
+generated_at: "2026-03-30T05:32:08.841Z"
 status: "active"
 ---
 

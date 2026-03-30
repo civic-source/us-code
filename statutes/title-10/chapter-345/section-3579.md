@@ -3,9 +3,9 @@ title: "Section 3579 - Command: commissioned officers of Army Medical Department
 usc_title: 10
 usc_section: "3579"
 chapter: 345
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 3579"
-generated_at: "2026-03-30T05:29:50.147Z"
+generated_at: "2026-03-30T05:31:52.815Z"
 status: "active"
 ---
 

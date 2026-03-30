@@ -3,9 +3,9 @@ title: "Section 1354 - Five-year plan; annual technical services program"
 usc_title: 15
 usc_section: "1354"
 chapter: 37
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "15 U.S.C. § 1354"
-generated_at: "2026-03-30T05:29:57.103Z"
+generated_at: "2026-03-30T05:31:58.557Z"
 status: "active"
 ---
 

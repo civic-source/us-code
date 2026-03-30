@@ -3,9 +3,9 @@ title: "Section 433a - Preference of needy families"
 usc_title: 43
 usc_section: "433a"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 433a"
-generated_at: "2026-03-30T05:30:49.422Z"
+generated_at: "2026-03-30T05:34:04.796Z"
 status: "active"
 ---
 

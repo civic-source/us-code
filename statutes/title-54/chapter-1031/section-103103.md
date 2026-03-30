@@ -3,9 +3,9 @@ title: "Section 103103 - Amounts provided by private entities for utility servic
 usc_title: 54
 usc_section: "103103"
 chapter: 1031
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "54 U.S.C. § 103103"
-generated_at: "2026-03-30T05:31:29.425Z"
+generated_at: "2026-03-30T05:34:15.257Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 590l - Expansion of domestic and foreign markets for agricultura
 usc_title: 16
 usc_section: "590l"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 590l"
-generated_at: "2026-03-30T05:30:04.465Z"
+generated_at: "2026-03-30T05:32:08.873Z"
 status: "active"
 ---
 

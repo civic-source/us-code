@@ -3,9 +3,9 @@ title: "Section 390 - Declaration of purpose"
 usc_title: 47
 usc_section: "390"
 chapter: 5
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "47 U.S.C. § 390"
-generated_at: "2026-03-30T05:31:20.227Z"
+generated_at: "2026-03-30T05:34:08.807Z"
 status: "active"
 ---
 

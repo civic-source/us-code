@@ -3,9 +3,9 @@ title: "Section 3036 - Director of the Central Intelligence Agency"
 usc_title: 50
 usc_section: "3036"
 chapter: 44
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3036"
-generated_at: "2026-03-30T05:31:19.512Z"
+generated_at: "2026-03-30T05:34:09.772Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The Director of the Central Intelligence Agency shall report to the Director of National Intelligence regarding the activities of the Central Intelligence Agency.
 - **(c)** The Director of the Central Intelligence Agency shall—
   - **(1)** serve as the head of the Central Intelligence Agency; and
-  - **(2)** carry out the responsibilities specified in subsection (d) of this section.
+  - **(2)** carry out the responsibilities specified in subsection (d).
 - **(d)** The Director of the Central Intelligence Agency shall—
   - **(1)** collect intelligence through human sources and by other appropriate means, except that the Director of the Central Intelligence Agency shall have no police, subpoena, or law enforcement powers or internal security functions;
   - **(2)** correlate and evaluate intelligence related to the national security and provide appropriate dissemination of such intelligence;

@@ -3,9 +3,9 @@ title: "Section 165a - Omitted"
 usc_title: 24
 usc_section: "165a"
 chapter: 4
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "24 U.S.C. § 165a"
-generated_at: "2026-03-30T05:30:14.565Z"
+generated_at: "2026-03-30T05:32:30.040Z"
 status: "omitted"
 ---
 

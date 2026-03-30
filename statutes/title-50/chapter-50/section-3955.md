@@ -3,9 +3,9 @@ title: "Section 3955 - Termination of residential or motor vehicle leases"
 usc_title: 50
 usc_section: "3955"
 chapter: 50
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3955"
-generated_at: "2026-03-30T05:31:19.532Z"
+generated_at: "2026-03-30T05:34:09.826Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(2)** Lease amounts for a lease described in subsection (b)(2) that are unpaid for the period preceding the effective date of the lease termination shall be paid on a prorated basis. The lessor may not impose an early termination charge, but any taxes, summonses, title and registration fees, or other obligations and liabilities of the lessee in accordance with the terms of the lease, including reasonable charges to the lessee for excess wear or use and mileage, that are due and unpaid at the time of termination of the lease shall be paid by the lessee.
 - **(f)** Rents or lease amounts paid in advance for a period after the effective date of the termination of the lease shall be refunded to the lessee by the lessor (or the lessor’s assignee or the assignee’s agent) within 30 days of the effective date of the termination of the lease.
 - **(g)** Upon application by the lessor to a court before the termination date provided in the written notice, relief granted by this section to a servicemember may be modified as justice and equity require.
-- **(h)** Any person who knowingly seizes, holds, or detains the personal effects, security deposit, or other property of a servicemember or a servicemember’s dependent who lawfully terminates a lease covered by this section, or who knowingly interferes with the removal of such property from premises covered by such lease, for the purpose of subjecting or attempting to subject any of such property to a claim for rent accruing subsequent to the date of termination of such lease, or attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+- **(h)** Any person who knowingly seizes, holds, or detains the personal effects, security deposit, or other property of a servicemember or a servicemember’s dependent who lawfully terminates a lease covered by this section, or who knowingly interferes with the removal of such property from premises covered by such lease, for the purpose of subjecting or attempting to subject any of such property to a claim for rent accruing subsequent to the date of termination of such lease, or attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 - **(i)**
   - **(1)** The term “military orders”, with respect to a servicemember, means official military orders, or any notification, certification, or verification from the servicemember’s commanding officer, with respect to the servicemember’s current or future military duty status.
   - **(2)** The term “continental United States” means the 48 contiguous States and the District of Columbia.

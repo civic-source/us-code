@@ -3,9 +3,9 @@ title: "Section 5374 - Rule of construction"
 usc_title: 12
 usc_section: "5374"
 chapter: 53
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "12 U.S.C. § 5374"
-generated_at: "2026-03-30T05:29:55.075Z"
+generated_at: "2026-03-30T05:32:00.928Z"
 status: "active"
 ---
 

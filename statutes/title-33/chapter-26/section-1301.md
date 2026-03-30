@@ -3,9 +3,9 @@ title: "Section 1301 - Sewer overflow control grants"
 usc_title: 33
 usc_section: "1301"
 chapter: 26
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "33 U.S.C. § 1301"
-generated_at: "2026-03-30T05:30:42.885Z"
+generated_at: "2026-03-30T05:33:33.002Z"
 status: "active"
 ---
 

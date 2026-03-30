@@ -3,9 +3,9 @@ title: "Section 1613 - Promulgation of regulations"
 usc_title: 16
 usc_section: "1613"
 chapter: 36
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 1613"
-generated_at: "2026-03-30T05:30:04.528Z"
+generated_at: "2026-03-30T05:32:08.937Z"
 status: "active"
 ---
 

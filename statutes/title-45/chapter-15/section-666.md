@@ -3,9 +3,9 @@ title: "Section 666 - Court supervision of expenditures; findings; report to Sec
 usc_title: 45
 usc_section: "666"
 chapter: 15
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "45 U.S.C. § 666"
-generated_at: "2026-03-30T05:30:50.133Z"
+generated_at: "2026-03-30T05:33:50.077Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 231 - Civil disorders"
 usc_title: 18
 usc_section: "231"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "18 U.S.C. § 231"
-generated_at: "2026-03-30T05:30:00.520Z"
+generated_at: "2026-03-30T05:32:04.052Z"
 status: "active"
 ---
 

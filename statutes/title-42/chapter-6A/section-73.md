@@ -3,9 +3,9 @@ title: "Section 73 - Maintenance of the poison control center grant program"
 usc_title: 42
 usc_section: "73"
 chapter: 6
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 73"
-generated_at: "2026-03-30T05:31:12.825Z"
+generated_at: "2026-03-30T05:34:03.410Z"
 status: "active"
 ---
 

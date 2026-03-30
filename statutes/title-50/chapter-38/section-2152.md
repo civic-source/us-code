@@ -3,17 +3,17 @@ title: "Section 2152 - Special rules relating to section 2013 criteria employees
 usc_title: 50
 usc_section: "2152"
 chapter: 38
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 2152"
-generated_at: "2026-03-30T05:31:19.492Z"
+generated_at: "2026-03-30T05:34:09.758Z"
 status: "active"
 ---
 
 # § 2152. Special rules relating to section 2013 criteria employees
 
 - **(a)** Except as otherwise provided in this section, in the application of chapter 84 of title 5 to an employee of the Agency who is subject to such chapter and is designated by the Director under the criteria prescribed in section 2013 of this title , such employee shall be treated for purposes of determining such employee’s retirement benefits and obligations under such chapter as if the employee were a law enforcement officer (as defined in section 8401(17) of title 5 ).
-- **(b)** The provisions of sections 2053 and 2055 of this title shall apply to employees referred to in subsection (a) of this section, except that the retirement benefits shall be determined under chapter 84 of title 5.
+- **(b)** The provisions of sections 2053 and 2055 of this title shall apply to employees referred to in subsection (a), except that the retirement benefits shall be determined under chapter 84 of title 5.
 - **(c)**
-  - **(1)** Except as provided in paragraph (2), section 2111 of this title shall apply to an employee referred to in subsection (a) of this section.
+  - **(1)** Except as provided in paragraph (2), section 2111 of this title shall apply to an employee referred to in subsection (a).
   - **(2)** Contributions during recall service shall be made as provided in section 8422 of title 5 .
   - **(3)** When an employee recalled under this subsection reverts to a retired status, the annuity of such employee shall be redetermined under the provisions of chapter 84 of title 5.

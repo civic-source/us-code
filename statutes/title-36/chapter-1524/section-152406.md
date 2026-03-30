@@ -3,9 +3,9 @@ title: "Section 152406 - Principal office"
 usc_title: 36
 usc_section: "152406"
 chapter: 1524
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "36 U.S.C. § 152406"
-generated_at: "2026-03-30T05:30:45.619Z"
+generated_at: "2026-03-30T05:33:44.604Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4619 - Effect on other Acts"
 usc_title: 50
 usc_section: "4619"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4619"
-generated_at: "2026-03-30T05:31:19.553Z"
+generated_at: "2026-03-30T05:34:09.841Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(1)** Nothing in section 4604 or 4605 of this title shall be construed to supersede the procedures published by the President pursuant to section 2139a(c) of title 42 .
   - **(2)** With respect to any export license application which, under the procedures published by the President pursuant to section 2139a(c) of title 42 , is referred to the Subgroup on Nuclear Export Coordination or other interagency group, the provisions of section 4609 of this title shall apply with respect to such license application only to the extent that they are consistent with such published procedures, except that if the processing of any such application under such procedures is not completed within 180 days after the receipt of the application by the Secretary, the applicant shall have the rights of appeal and court action provided in section 4609(j) of this title .
 - **(e)** On October 1, 1979 , the Mutual Defense Assistance Control Act of 1951 ( 22 U.S.C. 1611–161 3d), is superseded.
-- **(f)** Nothing in this chapter shall affect the provisions of the last sentence of section 612c–3 1 1 See References in Text note below. of title 7.
+- **(f)** Nothing in this chapter shall affect the provisions of the last sentence of section 812 1 1 See References in Text note below. of the Agricultural Act of 1970 ( 7 U.S.C. 612c–3 ).

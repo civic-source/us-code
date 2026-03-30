@@ -3,9 +3,9 @@ title: "Section 6501 - “Petroleum” defined"
 usc_title: 42
 usc_section: "6501"
 chapter: 78
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 6501"
-generated_at: "2026-03-30T05:31:13.403Z"
+generated_at: "2026-03-30T05:34:03.774Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7305a - Vessels stricken from Naval Vessel Register: contracts f
 usc_title: 10
 usc_section: "7305a"
 chapter: 633
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 7305a"
-generated_at: "2026-03-30T05:29:50.162Z"
+generated_at: "2026-03-30T05:31:52.831Z"
 status: "active"
 ---
 

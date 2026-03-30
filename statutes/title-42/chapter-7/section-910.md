@@ -3,9 +3,9 @@ title: "Section 910 - Recommendations by Board of Trustees to remedy inadequate 
 usc_title: 42
 usc_section: "910"
 chapter: 7
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 910"
-generated_at: "2026-03-30T05:31:12.951Z"
+generated_at: "2026-03-30T05:34:03.487Z"
 status: "active"
 ---
 

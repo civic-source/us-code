@@ -3,15 +3,15 @@ title: "Section 1904 - National Security Education Trust Fund"
 usc_title: 50
 usc_section: "1904"
 chapter: 37
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 1904"
-generated_at: "2026-03-30T05:31:19.488Z"
+generated_at: "2026-03-30T05:34:09.755Z"
 status: "active"
 ---
 
 # § 1904. National Security Education Trust Fund
 
-- **(a)** There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e) of this section.
+- **(a)** There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e).
 - **(b)** Sums in the Fund shall, to the extent provided in appropriations Acts, be available—
   - **(1)** for awarding scholarships, fellowships, and grants in accordance with the provisions of this chapter; and
   - **(2)** for properly allocable costs of the Federal Government for the administration of the program under this chapter.

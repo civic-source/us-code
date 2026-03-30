@@ -3,9 +3,9 @@ title: "Section 2032 - Annuities for former spouses"
 usc_title: 50
 usc_section: "2032"
 chapter: 38
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 2032"
-generated_at: "2026-03-30T05:31:19.490Z"
+generated_at: "2026-03-30T05:34:09.756Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(5)**
     - **(A)** The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating—
       - **(i)** the survivor annuity for any spouse, former spouse, or other survivor under this subchapter; and
-      - **(ii)** any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or under section 2031(b) of this title .
+      - **(ii)** any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or under section 2031(b) of this title .
     - **(B)** If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title , or reinstated or reappointed, in the case of a recovered disability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
   - **(6)** Notwithstanding paragraph (3), in the case of a former spouse of a disability annuitant—
     - **(A)** the annuity of that former spouse shall commence on the date on which the participant would qualify on the basis of the participant’s creditable service for an annuity under this subchapter (other than a disability annuity) or the date on which the disability annuity begins, whichever is later, and
@@ -44,7 +44,7 @@ status: "active"
     - **(A)** If a former spouse of a retired participant dies or remarries before attaining age 55, the annuity of the retired participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid, effective on the first day of the month beginning after such death or remarriage, as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
     - **(B)** Subject to paragraph (4)(B), the participant may elect in writing within one year after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
 - **(c)**
-  - **(1)** In the case of any participant providing a survivor annuity under subsection (b) of this section for a former spouse—
+  - **(1)** In the case of any participant providing a survivor annuity under subsection (b) for a former spouse—
     - **(A)** such participant may elect, or
     - **(B)** a spousal agreement or court order under section 2094(b) of this title may provide for,
   - **(2)** Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section or section 2031 of this title , may exceed 55 percent of the unreduced amount of the participant’s annuity, as computed under section 2031(a) of this title .

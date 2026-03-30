@@ -3,9 +3,9 @@ title: "Section 1140o - Authorization of appropriations"
 usc_title: 20
 usc_section: "1140o"
 chapter: 28
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 1140o"
-generated_at: "2026-03-30T05:30:08.537Z"
+generated_at: "2026-03-30T05:32:06.188Z"
 status: "active"
 ---
 

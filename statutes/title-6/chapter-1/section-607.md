@@ -3,9 +3,9 @@ title: "Section 607 - Terrorism prevention"
 usc_title: 6
 usc_section: "607"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "6 U.S.C. § 607"
-generated_at: "2026-03-30T05:29:42.953Z"
+generated_at: "2026-03-30T05:31:45.987Z"
 status: "active"
 ---
 
@@ -18,11 +18,12 @@ status: "active"
     - **(B)** target hardening;
     - **(C)** threat recognition;
     - **(D)** terrorist interdiction;
-    - **(E)** overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
-    - **(F)** establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title ;
-    - **(G)** paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
-    - **(H)** any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
-    - **(I)** any other terrorism prevention activity authorized by the Administrator.
+    - **(E)** training exercises to enhance preparedness for and response to mass casualty and active shooter incidents and security events at public locations, including airports and mass transit systems;
+    - **(F)** overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
+    - **(G)** establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title ;
+    - **(H)** paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
+    - **(I)** any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
+    - **(J)** any other terrorism prevention activity authorized by the Administrator.
   - **(3)** The Administrator shall ensure that grant funds described in paragraph (1) are used to support the participation, as appropriate, of law enforcement and other emergency response providers from rural and other underrepresented communities at risk from acts of terrorism in fusion centers.
 - **(b)**
   - **(1)** There is established in the Policy Directorate of the Department an Office for State and Local Law Enforcement, which shall be headed by an Assistant Secretary for State and Local Law Enforcement.

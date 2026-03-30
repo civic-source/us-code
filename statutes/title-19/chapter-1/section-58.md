@@ -3,9 +3,9 @@ title: "Section 58 - Repealed. Pub. L. 95–410, title II , § 214(a), Oct. 3, 1
 usc_title: 19
 usc_section: "58"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "19 U.S.C. § 58"
-generated_at: "2026-03-30T05:30:12.284Z"
+generated_at: "2026-03-30T05:32:17.542Z"
 status: "repealed"
 ---
 

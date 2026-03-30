@@ -3,9 +3,9 @@ title: "Section 1340 - Joint report to Congress; consultation and coordination o
 usc_title: 16
 usc_section: "1340"
 chapter: 30
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 1340"
-generated_at: "2026-03-30T05:30:04.514Z"
+generated_at: "2026-03-30T05:32:08.924Z"
 status: "active"
 ---
 

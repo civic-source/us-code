@@ -3,9 +3,9 @@ title: "Section 1291 - Sewage collection systems"
 usc_title: 33
 usc_section: "1291"
 chapter: 26
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "33 U.S.C. § 1291"
-generated_at: "2026-03-30T05:30:42.884Z"
+generated_at: "2026-03-30T05:33:33.001Z"
 status: "active"
 ---
 

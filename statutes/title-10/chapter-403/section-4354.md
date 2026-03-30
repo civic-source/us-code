@@ -3,9 +3,9 @@ title: "Section 4354 - Buildings and grounds: memorial hall; buildings for relig
 usc_title: 10
 usc_section: "4354"
 chapter: 403
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 4354"
-generated_at: "2026-03-30T05:29:50.149Z"
+generated_at: "2026-03-30T05:31:52.818Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1148d - Rights and powers unaffected by sections 1148b and 1148c
 usc_title: 12
 usc_section: "1148d"
 chapter: 7
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "12 U.S.C. § 1148d"
-generated_at: "2026-03-30T05:29:54.950Z"
+generated_at: "2026-03-30T05:32:00.794Z"
 status: "active"
 ---
 

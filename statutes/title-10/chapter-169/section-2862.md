@@ -3,9 +3,9 @@ title: "Section 2862 - Turn-key selection procedures"
 usc_title: 10
 usc_section: "2862"
 chapter: 169
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 2862"
-generated_at: "2026-03-30T05:29:50.142Z"
+generated_at: "2026-03-30T05:31:52.810Z"
 status: "active"
 ---
 

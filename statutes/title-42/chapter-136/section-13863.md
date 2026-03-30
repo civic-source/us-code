@@ -3,9 +3,9 @@ title: "Section 13863 - Applications"
 usc_title: 42
 usc_section: "13863"
 chapter: 136
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 13863"
-generated_at: "2026-03-30T05:31:13.653Z"
+generated_at: "2026-03-30T05:34:03.935Z"
 status: "active"
 ---
 

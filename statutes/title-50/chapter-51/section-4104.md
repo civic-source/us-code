@@ -3,9 +3,9 @@ title: "Section 4104 - Internees"
 usc_title: 50
 usc_section: "4104"
 chapter: 51
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4104"
-generated_at: "2026-03-30T05:31:19.536Z"
+generated_at: "2026-03-30T05:34:09.828Z"
 status: "active"
 ---
 
@@ -14,14 +14,14 @@ status: "active"
 - **(a)** As used in subsections (b) and (f) of this section, the term “civilian American citizen” means any person who, being then a citizen of the United States, was captured by the Imperial Japanese Government on or after December 7, 1941 , at Midway. Guam, Wake Island, the Philippine Islands, or any Territory or possession of the United States attacked or invaded by such government, or while in transit to or from any such place, or who went into hiding at any such place in order to avoid capture or internment by such government; except (1) a person who at any time voluntarily gave aid to, collaborated with, or in any manner served such government, or (2) a person who at the time of his capture or entrance into hiding was a regularly appointed, enrolled, enlisted, or inducted member of any military or naval force.
 - **(b)** The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to December 6, 1941 , during which he was held by the Imperial Japanese Government as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by such Imperial Japanese Government.
 - **(c)** The detention benefit allowed to any person under the provisions of subsection (b) shall be at the rate of $60 for each calendar month during which such person was at least eighteen years of age and at the rate of $25 per month for each calendar month during which such person was less than eighteen years of age.
-- **(d)** The detention benefits allowed under subsection (b) of this section shall be allowed to the person entitled thereto, or, in the event of his death, only to the following persons:
+- **(d)** The detention benefits allowed under subsection (b) shall be allowed to the person entitled thereto, or, in the event of his death, only to the following persons:
   - **(1)** Widow or husband if there is no child or children of the deceased;
   - **(2)** Widow or husband and child or children of the deceased, one-half to the widow or husband and the other half to the child or children in equal shares;
   - **(3)** Child or children of the deceased (in equal shares) if there is no widow or husband; and
   - **(4)** Parents (in equal shares) if there is no husband, or child.
 - **(e)** Any claim allowed by the Commission under this section (except under subsections (g) and (i)) shall be certified to the Secretary of the Treasury for payment out of the war claims funds established by section 4110 of this title , and shall be payable by the Secretary of the Treasury to the person entitled thereto; except that where the person entitled to payment is under any legal disability, any part of the amount payable may, in the discretion of the Commission, be paid, for the use of the claimant, to the natural or legal guardian, committee, conservator, or curator of the claimant, or, if there is no such guardian, committee, conservator, or curator, then the Commission may, in its discretion, make payment to any other person, including the spouse of such claimant, whom the Commission may determine is vested with the care of the claimant or his estate for the use and benefit of such claimant or estate; and if such person is a minor, any part of the amount payable may, in the discretion of the Commission, be paid to such minor.
 - **(f)**
-  - **(1)** Except as otherwise provided in this subsection, the provisions of titles I and II of the Act entitled “An Act to provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes”, approved December 2, 1942 , as amended [ 42 U.S.C. 1701 et seq.], are extended and shall apply with respect to the injury, disability, or death resulting from injury of a civilian American citizen occurring while he was held by or in hiding from the Imperial Japanese Government, to the same extent as if such civilian American citizen were an employee within the purview of such Act of December 2, 1942 , as amended.
+  - **(1)** Except as otherwise provided in this subsection, the provisions of titles I and II of the Act entitled “An Act to provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes”, approved December 2, 1942 , as amended [ 42 U.S.C. 1701 et seq., 1711 et seq.], are extended and shall apply with respect to the injury, disability, or death resulting from injury of a civilian American citizen occurring while he was held by or in hiding from the Imperial Japanese Government, to the same extent as if such civilian American citizen were an employee within the purview of such Act of December 2, 1942 , as amended.
   - **(2)** For the purpose of determining the benefits extended and made applicable by paragraph (1)—
     - **(A)** the average weekly wage of any such civilian American citizen, whether employed, self-employed, or not employed, shall be deemed to have been $37.50;
     - **(B)** the provisions of such Act [ 42 U.S.C. 1701 et seq.], 1 1 So in original. The comma probably should not appear. shall be applicable whether or not any such civilian American citizen was employed;

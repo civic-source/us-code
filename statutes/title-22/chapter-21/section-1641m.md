@@ -3,9 +3,9 @@ title: "Section 1641m - Finality of action of Commission"
 usc_title: 22
 usc_section: "1641m"
 chapter: 21
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "22 U.S.C. § 1641m"
-generated_at: "2026-03-30T05:30:18.733Z"
+generated_at: "2026-03-30T05:32:57.043Z"
 status: "active"
 ---
 

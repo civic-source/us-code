@@ -3,15 +3,15 @@ title: "Section 2368 - Annual reports on the proliferation of missiles and essen
 usc_title: 50
 usc_section: "2368"
 chapter: 40
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 2368"
-generated_at: "2026-03-30T05:31:19.496Z"
+generated_at: "2026-03-30T05:34:09.761Z"
 status: "active"
 ---
 
 # § 2368. Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons
 
-- **(a)** Not later than March 1, 2003 , and annually thereafter, the President shall transmit to the designated congressional committees an annual report on the transfer by any country of weapons, technology, components, or materials that can be used to deliver, manufacture (including research and experimentation), or weaponize nuclear, biological, chemical or radiological weapons (in this section referred to as “NBC weapons”) to any country other than a country referred to in subsection (d) of this section that is seeking to possess or otherwise acquire such weapons, technology, or materials, or other system that the Secretary or the Secretary of Defense has reason to believe could be used to develop, acquire, or deliver NBC weapons.
+- **(a)** Not later than March 1, 2003 , and annually thereafter, the President shall transmit to the designated congressional committees an annual report on the transfer by any country of weapons, technology, components, or materials that can be used to deliver, manufacture (including research and experimentation), or weaponize nuclear, biological, chemical or radiological weapons (in this section referred to as “NBC weapons”) to any country other than a country referred to in subsection (d) that is seeking to possess or otherwise acquire such weapons, technology, or materials, or other system that the Secretary or the Secretary of Defense has reason to believe could be used to develop, acquire, or deliver NBC weapons.
 - **(b)** Each such report shall include—
   - **(1)** the transfer of all aircraft, cruise missiles, artillery weapons, unguided rockets and multiple rocket systems, and related bombs, shells, warheads and other weaponization technology and materials that the Secretary or the Secretary of Defense has reason to believe may be intended for the delivery of NBC weapons;
   - **(2)** international transfers of MTCR equipment or technology to any country that is seeking to acquire such equipment or any other system that the Secretary or the Secretary of Defense has reason to believe may be used to deliver NBC weapons; and
@@ -30,7 +30,7 @@ status: "active"
   - **(8)** A summary of advisory opinions issued under section 4612(b)(4) of this title and under section 2797b(d) of title 22 .
   - **(9)** An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
   - **(10)** A description of each transfer by any person or government during the preceding 12-month period which is subject to sanctions under the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484 ).
-- **(d)** The countries excluded under subsection (a) of this section are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
+- **(d)** The countries excluded under subsection (a) are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
 - **(e)** The Secretary shall make every effort to submit all of the information required by this section in unclassified form. Whenever the Secretary submits any such information in classified form, the Secretary shall submit such classified information in an addendum and shall also submit concurrently a detailed summary, in unclassified form, of that classified information.
 - **(f)** In this section:
   - **(1)** The term “designated congressional committees” means—

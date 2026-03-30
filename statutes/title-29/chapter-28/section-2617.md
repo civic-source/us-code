@@ -3,9 +3,9 @@ title: "Section 2617 - Enforcement"
 usc_title: 29
 usc_section: "2617"
 chapter: 28
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "29 U.S.C. § 2617"
-generated_at: "2026-03-30T05:30:22.121Z"
+generated_at: "2026-03-30T05:33:00.835Z"
 status: "active"
 ---
 

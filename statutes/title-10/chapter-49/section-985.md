@@ -3,9 +3,9 @@ title: "Section 985 - Persons convicted of capital crimes; certain other persons
 usc_title: 10
 usc_section: "985"
 chapter: 49
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 985"
-generated_at: "2026-03-30T05:29:50.074Z"
+generated_at: "2026-03-30T05:31:52.734Z"
 status: "active"
 ---
 

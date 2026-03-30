@@ -3,9 +3,9 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-30T05:29:42.954Z"
+generated_at: "2026-03-30T05:31:45.988Z"
 status: "active"
 ---
 
@@ -20,11 +20,12 @@ status: "active"
   - **(6)** responding to an increase in the threat level under the Homeland Security Advisory System, or to the needs resulting from a National Special Security Event;
   - **(7)** establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title ;
   - **(8)** enhancing school preparedness;
-  - **(9)** supporting public safety answering points;
-  - **(10)** paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
-  - **(11)** paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
-  - **(12)** any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
-  - **(13)** any other appropriate activity, as determined by the Administrator.
+  - **(9)** enhancing the security and preparedness of secure and nonsecure areas of eligible airports and surface transportation systems;
+  - **(10)** supporting public safety answering points;
+  - **(11)** paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
+  - **(12)** paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
+  - **(13)** any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
+  - **(14)** any other appropriate activity, as determined by the Administrator.
 - **(b)**
   - **(1)** Funds provided under section 604 or 605 of this title may not be used—
     - **(A)** to supplant State or local funds, except that nothing in this paragraph shall prohibit the use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or

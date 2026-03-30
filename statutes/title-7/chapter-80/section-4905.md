@@ -3,9 +3,9 @@ title: "Section 4905 - Regulations"
 usc_title: 7
 usc_section: "4905"
 chapter: 80
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 4905"
-generated_at: "2026-03-30T05:29:46.161Z"
+generated_at: "2026-03-30T05:31:49.050Z"
 status: "active"
 ---
 

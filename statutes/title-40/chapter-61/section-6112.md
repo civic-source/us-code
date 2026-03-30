@@ -3,9 +3,9 @@ title: "Section 6112 - Supreme Court Building and grounds employees"
 usc_title: 40
 usc_section: "6112"
 chapter: 61
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "40 U.S.C. § 6112"
-generated_at: "2026-03-30T05:30:44.904Z"
+generated_at: "2026-03-30T05:33:47.528Z"
 status: "active"
 ---
 

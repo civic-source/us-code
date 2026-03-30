@@ -3,9 +3,9 @@ title: "Section 26 - Roll of Representatives-elect"
 usc_title: 2
 usc_section: "26"
 chapter: 2
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "2 U.S.C. § 26"
-generated_at: "2026-03-30T05:29:39.376Z"
+generated_at: "2026-03-30T05:31:42.554Z"
 status: "active"
 ---
 

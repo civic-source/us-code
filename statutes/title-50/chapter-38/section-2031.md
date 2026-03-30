@@ -3,9 +3,9 @@ title: "Section 2031 - Computation of annuities"
 usc_title: 50
 usc_section: "2031"
 chapter: 38
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 2031"
-generated_at: "2026-03-30T05:31:19.489Z"
+generated_at: "2026-03-30T05:34:09.756Z"
 status: "active"
 ---
 
@@ -33,25 +33,25 @@ status: "active"
     - **(D)** The Director may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant’s spouse or former spouse if the participant establishes to the satisfaction of the Director that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
   - **(2)** The annuity of a participant or former participant providing a survivor annuity under this section (or section 2032(b) of this title ), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 2032(a)(5) of this title .
   - **(3)**
-    - **(A)** If a retired participant receiving a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse. The amount of the annuity shall be equal to 55 percent of (i) the full amount of the participant’s annuity computed under subsection (a) of this section, or (ii) any lesser amount elected as the base for the survivor annuity under paragraph (1)(B).
+    - **(A)** If a retired participant receiving a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse. The amount of the annuity shall be equal to 55 percent of (i) the full amount of the participant’s annuity computed under subsection (a), or (ii) any lesser amount elected as the base for the survivor annuity under paragraph (1)(B).
     - **(B)** Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the retired participant who qualifies for an annuity under section 2032(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor annuities which remains available under section 2032(b)(4)(B) of this title .
     - **(C)** An annuity payable from the fund to a surviving spouse under this paragraph shall commence on the day after the retired participant dies and shall terminate on the last day of the month before the surviving spouse’s death or remarriage before attaining age 55. If such survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is dissolved by death, annulment, or divorce if any lump sum paid upon termination of the annuity is returned to the fund.
 - **(c)**
   - **(1)**
     - **(A)** A participant or former participant who retires after March 31, 1992 and who—
       - **(i)** is married at the time of retirement; and
-      - **(ii)** elects at that time (in accordance with subsection (b) of this section) to waive a survivor annuity for the spouse,
+      - **(ii)** elects at that time (in accordance with subsection (b)) to waive a survivor annuity for the spouse,
     - **(B)** A participant or former participant who retires after March 31, 1992 , and—
       - **(i)** who, at the time of retirement, is married, and
-      - **(ii)** who, at that time designates (in accordance with subsection (b) of this section) that a portion of the annuity of such participant is to be used as the base for a survivor annuity,
+      - **(ii)** who, at that time designates (in accordance with subsection (b)) that a portion of the annuity of such participant is to be used as the base for a survivor annuity,
   - **(2)**
     - **(A)** An election under paragraph (1) shall not be effective unless the amount specified in subparagraph (B) is deposited into the fund before the end of that 18-month period.
     - **(B)** The amount to be deposited with respect to an election under this subsection is the amount equal to the sum of the following:
-      - **(i)** The additional cost to the system that is associated with providing a survivor annuity under subsection (b) of this section and that results from such election, taking into account—
+      - **(i)** The additional cost to the system that is associated with providing a survivor annuity under subsection (b) and that results from such election, taking into account—
         - **(I)** the difference (for the period between the date on which the annuity of the participant or former participant commences and the date of the election) between the amount paid to such participant or former participant under this subchapter and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity; and
         - **(II)** the costs associated with providing for the later election.
       - **(ii)** Interest on the additional cost determined under clause (i), computed using the interest rate specified or determined under section 8334(e) of title 5 for the calendar year in which the amount to be deposited is determined.
-  - **(3)** An election by a participant or former participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b) of this section.
+  - **(3)** An election by a participant or former participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b).
   - **(4)** An annuity that is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the participant or former participant whose annuity is so reduced.
   - **(5)** Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations that would have resulted had the participant involved elected such annuity at the time of retirement.
 - **(d)**
@@ -63,11 +63,11 @@ status: "active"
     - **(B)** if the retired participant is not survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid to or on behalf of each such surviving child an annuity determined under paragraph (3)(B).
   - **(3)**
     - **(A)** The annual amount of an annuity for the surviving child of a participant covered by paragraph (1)(A) or (2)(A) of this subsection (or covered by paragraph (1)(A) or (2)(A) of section 2052(c) of this title ) is the smallest of the following:
-      - **(i)** 60 percent of the participant’s high-3 average pay, as determined under subsection (a)(4) of this section, divided by the number of children.
+      - **(i)** 60 percent of the participant’s high-3 average pay, as determined under subsection (a)(4), divided by the number of children.
       - **(ii)** $900, as adjusted under section 2131 of this title .
       - **(iii)** $2,700, as adjusted under section 2131 of this title , divided by the number of children.
     - **(B)** The amount of an annuity for the surviving child of a participant covered by paragraph (1)(B) or (2)(B) of this subsection (or covered by paragraph (1)(B) or (2)(B) of section 2052(c) of this title ) is the smallest of the following:
-      - **(i)** 75 percent of the participant’s high-3 average pay, as determined under subsection (a)(4) of this section, divided by the number of children.
+      - **(i)** 75 percent of the participant’s high-3 average pay, as determined under subsection (a)(4), divided by the number of children.
       - **(ii)** $1,080, as adjusted under section 2131 of this title .
       - **(iii)** $3,240, as adjusted under section 2131 of this title , divided by the number of children.
   - **(4)**
@@ -75,15 +75,15 @@ status: "active"
     - **(B)** In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
   - **(5)** For purposes of this subsection, the term “former spouse” includes any former wife or husband of the retired participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
 - **(e)**
-  - **(1)** An annuity payable to a child under subsection (d) of this section, or under section 2052(c) of this title , shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title , shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title . Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
+  - **(1)** An annuity payable to a child under subsection (d), or under section 2052(c) of this title , shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title , shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title . Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
   - **(2)** Such an annuity shall terminate on the last day of the month before the month in which the recipient of the annuity dies or no longer qualifies as a child (as defined in section 2002(b) of this title ).
 - **(f)**
   - **(1)**
     - **(A)** Subject to the rights of former spouses under subsection (b) of this section and section 2032 of this title , at the time of retirement an unmarried participant found by the Director to be in good health may elect to receive an annuity reduced in accordance with subparagraph (B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant’s death. The amount of such an annuity shall be equal to 55 percent of the participant’s reduced annuity.
-    - **(B)** The annuity payable to the participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) of this section and by an additional 5 percent for each full 5 years the designated individual is younger than the participant. The total reduction under this subparagraph may not exceed 40 percent.
+    - **(B)** The annuity payable to the participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by an additional 5 percent for each full 5 years the designated individual is younger than the participant. The total reduction under this subparagraph may not exceed 40 percent.
     - **(C)** The annuity payable to the designated individual shall begin on the day after the retired participant dies and terminate on the last day of the month before the designated individual dies.
     - **(D)** An annuity which is reduced under this paragraph shall, effective the first day of the month following the death of the designated individual, be recomputed and paid as if the annuity had not been so reduced.
-  - **(2)** A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b) of this section. Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
+  - **(2)** A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b). Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
 - **(g)**
   - **(1)** An annuity which is reduced under this section (or any similar prior provision of law) to provide a survivor annuity for a spouse shall, if the marriage of the retired participant to such spouse is dissolved, be recomputed and paid for each full month during which a retired participant is not married (or is remarried, if there is no election in effect under paragraph (2)) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor annuity under subsection (b) or (c) of section 2032 of this title or under section 2036 of this title .
   - **(2)**
@@ -95,9 +95,9 @@ status: "active"
         - **(II)** The annual rate of interest for each year during which the retired participant’s annuity would have been reduced if the election had been in effect since the date the annuity commenced shall be 6 percent.
         - **(III)** If the retired participant does not make the deposit, the Director shall collect such amount by offset against the participant’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable to the retired participant, and the retired participant is deemed to consent to such offset.
         - **(IV)** The deposit required by this subparagraph may be made by the surviving spouse of the retired participant.
-    - **(C)** An election under this paragraph and the reduction in the participant’s annuity shall be effective on the first day of the month beginning 9 months after the date of remarriage. A survivor annuity elected under this paragraph shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+    - **(C)** An election under this paragraph and the reduction in the participant’s annuity shall be effective on the first day of the month beginning 9 months after the date of remarriage. A survivor annuity elected under this paragraph shall be treated in all respects as a survivor annuity under subsection (b).
 - **(h)**
-  - **(1)** A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) of this section to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
+  - **(1)** A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
   - **(2)** A surviving former spouse of a participant or retired participant shall not become entitled under section 2032(b) or 2034 of this title to a survivor annuity or to the restoration of a survivor annuity payable from the fund unless the surviving former spouse elects to receive it instead of any other survivor annuity to which the surviving former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
   - **(3)** A surviving spouse who married a participant after the participant’s retirement shall be entitled to a survivor annuity payable from the fund only upon electing that annuity instead of any other survivor annuity to which the surviving spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the retired participant.
 - **(i)**
@@ -113,5 +113,5 @@ status: "active"
   - **(2)** The Director shall request only such information as the Director determines is necessary.
   - **(3)** The Director, in consultation with the officials from whom information is requested, shall ensure that information made available under this subsection is used only for the purposes authorized.
 - **(l)** The Director shall, on an annual basis—
-  - **(1)** inform each retired participant of the participant’s right of election under subsections (c), (f)(2), and (g) of this section; and
+  - **(1)** inform each retired participant of the participant’s right of election under subsections (c), (f)(2), and (g); and
   - **(2)** to the maximum extent practicable, inform spouses and former spouses of participants, former participants, and retired participants of their rights under this chapter.

@@ -3,9 +3,9 @@ title: "Section 2466 - Repealed. Pub. L. 104–227, title II , § 202(b), Oct. 2
 usc_title: 16
 usc_section: "2466"
 chapter: 44
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 2466"
-generated_at: "2026-03-30T05:30:04.543Z"
+generated_at: "2026-03-30T05:32:08.953Z"
 status: "repealed"
 ---
 

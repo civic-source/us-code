@@ -3,9 +3,9 @@ title: "Section 16928a - Registration of sex offenders released from military co
 usc_title: 42
 usc_section: "16928a"
 chapter: 151
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 16928a"
-generated_at: "2026-03-30T05:31:13.718Z"
+generated_at: "2026-03-30T05:34:03.974Z"
 status: "active"
 ---
 

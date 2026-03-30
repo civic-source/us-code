@@ -3,9 +3,9 @@ title: "Section 7202 - Establishment of the National Landscape Conservation Syst
 usc_title: 16
 usc_section: "7202"
 chapter: 91
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 7202"
-generated_at: "2026-03-30T05:30:04.582Z"
+generated_at: "2026-03-30T05:32:08.994Z"
 status: "active"
 ---
 

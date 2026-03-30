@@ -3,9 +3,9 @@ title: "Section 528 - Statement of construction costs of privately owned interst
 usc_title: 33
 usc_section: "528"
 chapter: 11
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "33 U.S.C. § 528"
-generated_at: "2026-03-30T05:30:42.861Z"
+generated_at: "2026-03-30T05:33:32.979Z"
 status: "active"
 ---
 

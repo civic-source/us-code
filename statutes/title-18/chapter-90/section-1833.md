@@ -3,9 +3,9 @@ title: "Section 1833 - Exceptions to prohibitions"
 usc_title: 18
 usc_section: "1833"
 chapter: 90
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "18 U.S.C. § 1833"
-generated_at: "2026-03-30T05:30:00.543Z"
+generated_at: "2026-03-30T05:32:04.076Z"
 status: "active"
 ---
 

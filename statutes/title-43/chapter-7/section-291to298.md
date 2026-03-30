@@ -3,9 +3,9 @@ title: "Section 291to298 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "291to298"
 chapter: 7
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 291to298"
-generated_at: "2026-03-30T05:30:49.413Z"
+generated_at: "2026-03-30T05:34:04.787Z"
 status: "repealed"
 ---
 

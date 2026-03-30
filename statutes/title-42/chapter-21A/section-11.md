@@ -3,9 +3,9 @@ title: "Section 11 - Guidelines for Federal officers and employees"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T05:31:13.225Z"
+generated_at: "2026-03-30T05:34:03.660Z"
 status: "active"
 ---
 

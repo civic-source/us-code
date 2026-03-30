@@ -3,9 +3,9 @@ title: "Section 4215 - Priority of service for veterans in Department of Labor j
 usc_title: 38
 usc_section: "4215"
 chapter: 42
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "38 U.S.C. § 4215"
-generated_at: "2026-03-30T05:30:47.024Z"
+generated_at: "2026-03-30T05:33:43.267Z"
 status: "active"
 ---
 

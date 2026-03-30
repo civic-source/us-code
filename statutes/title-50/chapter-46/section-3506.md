@@ -3,9 +3,9 @@ title: "Section 3506 - General authorities"
 usc_title: 50
 usc_section: "3506"
 chapter: 46
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3506"
-generated_at: "2026-03-30T05:31:19.524Z"
+generated_at: "2026-03-30T05:34:09.819Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(6)** Determine and fix the minimum and maximum limits of age within which an original appointment may be made to an operational position within the Agency, notwithstanding the provision of any other law, in accordance with such criteria as the Director, in his discretion, may prescribe; and
   - **(7)** Notwithstanding section 1341(a)(1) of title 31 , enter into multiyear leases for up to 15 years.
 - **(b)**
-  - **(1)** The authority to enter into a multiyear lease under subsection (a)(7) of this section shall be subject to appropriations provided in advance for—
+  - **(1)** The authority to enter into a multiyear lease under subsection (a)(7) shall be subject to appropriations provided in advance for—
     - **(A)** the entire lease; or
     - **(B)** the first 12 months of the lease and the Government’s estimated termination liability.
   - **(2)** In the case of any such lease entered into under subparagraph (B) of paragraph (1)—

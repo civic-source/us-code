@@ -3,9 +3,9 @@ title: "Section 821to835 - Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76
 usc_title: 43
 usc_section: "821to835"
 chapter: 19
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 821to835"
-generated_at: "2026-03-30T05:30:49.433Z"
+generated_at: "2026-03-30T05:34:04.806Z"
 status: "repealed"
 ---
 

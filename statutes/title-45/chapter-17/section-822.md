@@ -3,9 +3,9 @@ title: "Section 822 - Direct loans and loan guarantees"
 usc_title: 45
 usc_section: "822"
 chapter: 17
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "45 U.S.C. § 822"
-generated_at: "2026-03-30T05:30:50.139Z"
+generated_at: "2026-03-30T05:33:50.082Z"
 status: "active"
 ---
 

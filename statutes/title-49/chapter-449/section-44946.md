@@ -3,9 +3,9 @@ title: "Section 44946 - Aviation Security Advisory Committee"
 usc_title: 49
 usc_section: "44946"
 chapter: 449
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 44946"
-generated_at: "2026-03-30T05:31:25.019Z"
+generated_at: "2026-03-30T05:34:13.451Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(A)** reports on matters identified by the Assistant Secretary; and
     - **(B)** reports on other matters identified by a majority of the members of the Advisory Committee.
   - **(4)** The Advisory Committee shall submit to the Assistant Secretary an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year. Not later than 6 months after the date that the Secretary receives the annual report, the Secretary shall publish a public version describing the Advisory Committee’s activities and such related matters as would be informative to the public consistent with the policy of section 552(b) of title 5 .
-  - **(5)** Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
+  - **(5)** Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (2) or (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
   - **(6)** Not later than 30 days after providing written feedback to the Advisory Committee under paragraph (5), the Assistant Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives on such feedback, and provide a briefing upon request.
   - **(7)** Prior to briefing the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives under paragraph (6), the Assistant Secretary shall submit to such committees a report containing information relating to the recommendations transmitted by the Advisory Committee in accordance with paragraph (4).
 - **(c)**
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** The membership of the Advisory Committee shall consist of individuals representing not more than 34 member organizations. Each organization shall be represented by 1 individual (or the individual’s designee).
     - **(C)** The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employees of airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-based businesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
   - **(2)**
-    - **(A)** The term of each member of the Advisory Committee shall be 2 years. A member of the Advisory Committee may be reappointed.
+    - **(A)** The term of each member of the Advisory Committee shall be two years, but a member may continue to serve until a successor is appointed. A member of the Advisory Committee may be reappointed.
     - **(B)** The Assistant Secretary may review the participation of a member of the Advisory Committee and remove such member for cause at any time.
   - **(3)** The members of the Advisory Committee shall not receive pay, allowances, or benefits from the Government by reason of their service on the Advisory Committee.
   - **(4)**

@@ -3,9 +3,9 @@ title: "Section 8468 - Annuities and pay on reemployment"
 usc_title: 5
 usc_section: "8468"
 chapter: 84
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "5 U.S.C. § 8468"
-generated_at: "2026-03-30T05:29:41.013Z"
+generated_at: "2026-03-30T05:31:44.131Z"
 status: "active"
 ---
 

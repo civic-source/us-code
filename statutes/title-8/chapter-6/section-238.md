@@ -3,9 +3,9 @@ title: "Section 238 - Transferred"
 usc_title: 8
 usc_section: "238"
 chapter: 6
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "8 U.S.C. § 238"
-generated_at: "2026-03-30T05:29:43.528Z"
+generated_at: "2026-03-30T05:31:46.761Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 509 - Persons discharged as result of court-martial; allowances 
 usc_title: 14
 usc_section: "509"
 chapter: 13
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "14 U.S.C. § 509"
-generated_at: "2026-03-30T05:29:52.132Z"
+generated_at: "2026-03-30T05:31:54.902Z"
 status: "active"
 ---
 

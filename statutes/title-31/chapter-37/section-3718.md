@@ -3,9 +3,9 @@ title: "Section 3718 - Contracts for collection services"
 usc_title: 31
 usc_section: "3718"
 chapter: 37
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "31 U.S.C. § 3718"
-generated_at: "2026-03-30T05:30:41.695Z"
+generated_at: "2026-03-30T05:33:39.594Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80f - Woodrow Wilson International Center for Scholars; Board of
 usc_title: 20
 usc_section: "80f"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 80f"
-generated_at: "2026-03-30T05:30:08.479Z"
+generated_at: "2026-03-30T05:32:06.131Z"
 status: "active"
 ---
 

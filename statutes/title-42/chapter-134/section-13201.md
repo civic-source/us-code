@@ -3,9 +3,9 @@ title: "Section 13201 - “Secretary” defined"
 usc_title: 42
 usc_section: "13201"
 chapter: 134
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 13201"
-generated_at: "2026-03-30T05:31:13.631Z"
+generated_at: "2026-03-30T05:34:03.922Z"
 status: "active"
 ---
 

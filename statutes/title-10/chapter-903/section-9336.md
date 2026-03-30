@@ -3,9 +3,9 @@ title: "Section 9336 - Permanent professors; director of admissions"
 usc_title: 10
 usc_section: "9336"
 chapter: 903
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 9336"
-generated_at: "2026-03-30T05:29:50.169Z"
+generated_at: "2026-03-30T05:31:52.839Z"
 status: "active"
 ---
 

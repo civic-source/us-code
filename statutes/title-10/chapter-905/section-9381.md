@@ -3,9 +3,9 @@ title: "Section 9381 - Establishment of program"
 usc_title: 10
 usc_section: "9381"
 chapter: 905
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 9381"
-generated_at: "2026-03-30T05:29:50.170Z"
+generated_at: "2026-03-30T05:31:52.841Z"
 status: "active"
 ---
 

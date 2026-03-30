@@ -3,9 +3,9 @@ title: "Section 2292 - Authorization of appropriations for research and developm
 usc_title: 42
 usc_section: "2292"
 chapter: 23
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 2292"
-generated_at: "2026-03-30T05:31:13.250Z"
+generated_at: "2026-03-30T05:34:03.676Z"
 status: "active"
 ---
 

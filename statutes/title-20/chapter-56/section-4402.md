@@ -3,9 +3,9 @@ title: "Section 4402 - Definitions"
 usc_title: 20
 usc_section: "4402"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 4402"
-generated_at: "2026-03-30T05:30:08.571Z"
+generated_at: "2026-03-30T05:32:06.220Z"
 status: "active"
 ---
 

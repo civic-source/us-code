@@ -3,9 +3,9 @@ title: "Section 1760a - Omitted"
 usc_title: 22
 usc_section: "1760a"
 chapter: 24
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "22 U.S.C. § 1760a"
-generated_at: "2026-03-30T05:30:18.735Z"
+generated_at: "2026-03-30T05:32:57.045Z"
 status: "omitted"
 ---
 

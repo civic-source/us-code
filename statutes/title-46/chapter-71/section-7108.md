@@ -3,9 +3,9 @@ title: "Section 7108 - Termination of licenses and certificates of registry"
 usc_title: 46
 usc_section: "7108"
 chapter: 71
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "46 U.S.C. § 7108"
-generated_at: "2026-03-30T05:31:18.158Z"
+generated_at: "2026-03-30T05:34:08.308Z"
 status: "active"
 ---
 

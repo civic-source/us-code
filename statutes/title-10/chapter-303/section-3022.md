@@ -3,9 +3,9 @@ title: "Section 3022 - Financial management"
 usc_title: 10
 usc_section: "3022"
 chapter: 303
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 3022"
-generated_at: "2026-03-30T05:29:50.145Z"
+generated_at: "2026-03-30T05:31:52.813Z"
 status: "active"
 ---
 

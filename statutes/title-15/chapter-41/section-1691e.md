@@ -3,9 +3,9 @@ title: "Section 1691e - Civil liability"
 usc_title: 15
 usc_section: "1691e"
 chapter: 41
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "15 U.S.C. § 1691e"
-generated_at: "2026-03-30T05:29:57.122Z"
+generated_at: "2026-03-30T05:31:58.575Z"
 status: "active"
 ---
 

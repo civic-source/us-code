@@ -3,9 +3,9 @@ title: "Section 7704 - Dangerous drugs as grounds for revocation"
 usc_title: 46
 usc_section: "7704"
 chapter: 77
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "46 U.S.C. § 7704"
-generated_at: "2026-03-30T05:31:18.160Z"
+generated_at: "2026-03-30T05:34:08.309Z"
 status: "active"
 ---
 

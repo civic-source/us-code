@@ -3,9 +3,9 @@ title: "Section 6572 - Agreements and records"
 usc_title: 20
 usc_section: "6572"
 chapter: 70
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 6572"
-generated_at: "2026-03-30T05:30:08.586Z"
+generated_at: "2026-03-30T05:32:06.236Z"
 status: "active"
 ---
 

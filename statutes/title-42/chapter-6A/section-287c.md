@@ -3,9 +3,9 @@ title: "Section 287c - Transferred"
 usc_title: 42
 usc_section: "287c"
 chapter: 6
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 287c"
-generated_at: "2026-03-30T05:31:12.776Z"
+generated_at: "2026-03-30T05:34:03.382Z"
 status: "transferred"
 ---
 

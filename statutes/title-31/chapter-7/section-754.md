@@ -3,9 +3,9 @@ title: "Section 754 - Action by the Comptroller General"
 usc_title: 31
 usc_section: "754"
 chapter: 7
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "31 U.S.C. § 754"
-generated_at: "2026-03-30T05:30:41.685Z"
+generated_at: "2026-03-30T05:33:39.585Z"
 status: "active"
 ---
 

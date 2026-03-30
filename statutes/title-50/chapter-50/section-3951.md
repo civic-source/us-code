@@ -3,9 +3,9 @@ title: "Section 3951 - Evictions and distress"
 usc_title: 50
 usc_section: "3951"
 chapter: 50
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3951"
-generated_at: "2026-03-30T05:31:19.532Z"
+generated_at: "2026-03-30T05:34:09.826Z"
 status: "active"
 ---
 
@@ -30,6 +30,6 @@ status: "active"
     - **(A)** stay the proceedings for a period of 90 days, unless in the opinion of the court, justice and equity require a longer or shorter period of time; or
     - **(B)** adjust the obligation under the lease to preserve the interests of all parties.
   - **(2)** If a stay is granted under paragraph (1), the court may grant to the landlord (or other person with paramount title) such relief as equity may require.
-- **(c)** Except as provided in subsection (a), a person who knowingly takes part in an eviction or distress described in subsection (a), or who knowingly attempts to do so, shall be fined as provided in title 18 or imprisoned for not more than one year, or both.
+- **(c)** Except as provided in subsection (a), a person who knowingly takes part in an eviction or distress described in subsection (a), or who knowingly attempts to do so, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 - **(d)** To the extent required by a court order related to property which is the subject of a court action under this section, the Secretary concerned shall make an allotment from the pay of a servicemember to satisfy the terms of such order, except that any such allotment shall be subject to regulations prescribed by the Secretary concerned establishing the maximum amount of pay of servicemembers that may be allotted under this subsection.
 - **(e)** Section 3932 of this title is not applicable to this section.

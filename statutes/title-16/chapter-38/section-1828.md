@@ -3,9 +3,9 @@ title: "Section 1828 - Foreign fishing incursions"
 usc_title: 16
 usc_section: "1828"
 chapter: 38
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 1828"
-generated_at: "2026-03-30T05:30:04.533Z"
+generated_at: "2026-03-30T05:32:08.942Z"
 status: "active"
 ---
 

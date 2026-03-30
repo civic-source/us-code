@@ -3,9 +3,9 @@ title: "Section 32907 - Reports and tests of manufacturers"
 usc_title: 49
 usc_section: "32907"
 chapter: 329
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 32907"
-generated_at: "2026-03-30T05:31:24.995Z"
+generated_at: "2026-03-30T05:34:13.432Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6757 - Report by the Association"
 usc_title: 15
 usc_section: "6757"
 chapter: 93
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "15 U.S.C. § 6757"
-generated_at: "2026-03-30T05:29:57.178Z"
+generated_at: "2026-03-30T05:31:58.628Z"
 status: "active"
 ---
 

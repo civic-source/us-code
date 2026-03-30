@@ -3,9 +3,9 @@ title: "Section 6156 - Repealed. Pub. L. 108–357, title VIII , § 867(b)(1), O
 usc_title: 26
 usc_section: "6156"
 chapter: 62
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 6156"
-generated_at: "2026-03-30T05:30:36.668Z"
+generated_at: "2026-03-30T05:33:15.462Z"
 status: "repealed"
 ---
 

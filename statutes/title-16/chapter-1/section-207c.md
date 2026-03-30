@@ -3,9 +3,9 @@ title: "Section 207c - Additional lands from Lassen National Forest; authorizati
 usc_title: 16
 usc_section: "207c"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 207c"
-generated_at: "2026-03-30T05:30:04.374Z"
+generated_at: "2026-03-30T05:32:08.781Z"
 status: "active"
 ---
 

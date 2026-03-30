@@ -3,9 +3,9 @@ title: "Section 4234 - Repealed. Pub. L. 89–44, title III , § 301, June 21, 1
 usc_title: 26
 usc_section: "4234"
 chapter: 33
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 4234"
-generated_at: "2026-03-30T05:30:36.630Z"
+generated_at: "2026-03-30T05:33:15.428Z"
 status: "repealed"
 ---
 

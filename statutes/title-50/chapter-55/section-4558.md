@@ -3,9 +3,9 @@ title: "Section 4558 - Voluntary agreements and plans of action for preparedness
 usc_title: 50
 usc_section: "4558"
 chapter: 55
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4558"
-generated_at: "2026-03-30T05:31:19.546Z"
+generated_at: "2026-03-30T05:34:09.835Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
   - **(8)** that the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action has published in the Federal Register prior notification of the time, place, and nature of any meeting held to carry out any voluntary agreement or plan of action, unless he finds that the matter or matters to be discussed at such meeting falls within the purview of matters described in section 552b(c) of title 5 , in which case, notification of the time, place, and nature of such meeting shall be published in the Federal Register within ten days of the date of such meeting;
   - **(9)** that—
     - **(A)** the Attorney General (after consultation with the Chairman of the Federal Trade Commission and the individual designated by the President in subsection (c)(2) to administer a voluntary agreement or plan of action), or
-    - **(B)** the individual designated by the President in subsection (c)(2), to administer a voluntary agreement or plan of action (after consultation with the Attorney General and the Chairman of the Federal Trade Commission),
+    - **(B)** the individual designated by the President in subsection (c)(2) to administer a voluntary agreement or plan of action (after consultation with the Attorney General and the Chairman of the Federal Trade Commission),
   - **(10)** that participants in any voluntary agreement or plan of action be reasonably representative of the appropriate industry or segment of such industry; and
   - **(11)** that the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action shall provide prior written notification of the time, place, and nature of any meeting to carry out a voluntary agreement or plan of action to the Attorney General, the Chairman of the Federal Trade Commission and the Congress.
 - **(i)** The Attorney General and the Chairman of the Federal Trade Commission shall each promulgate such rules as each deems necessary or appropriate to carry out his responsibility under this section.

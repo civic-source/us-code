@@ -3,9 +3,9 @@ title: "Section 2305 - Limitation"
 usc_title: 20
 usc_section: "2305"
 chapter: 44
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 2305"
-generated_at: "2026-03-30T05:30:08.560Z"
+generated_at: "2026-03-30T05:32:06.210Z"
 status: "active"
 ---
 

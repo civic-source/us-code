@@ -3,9 +3,9 @@ title: "Section 3371 - Definitions"
 usc_title: 16
 usc_section: "3371"
 chapter: 53
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 3371"
-generated_at: "2026-03-30T05:30:04.551Z"
+generated_at: "2026-03-30T05:32:08.961Z"
 status: "active"
 ---
 

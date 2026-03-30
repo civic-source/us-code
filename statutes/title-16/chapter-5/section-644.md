@@ -3,9 +3,9 @@ title: "Section 644 - Repealed. Feb. 26, 1944, ch. 65 , § 18, 58 Stat. 104"
 usc_title: 16
 usc_section: "644"
 chapter: 5
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 644"
-generated_at: "2026-03-30T05:30:04.468Z"
+generated_at: "2026-03-30T05:32:08.876Z"
 status: "repealed"
 ---
 

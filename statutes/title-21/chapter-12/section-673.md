@@ -3,9 +3,9 @@ title: "Section 673 - Seizure and condemnation"
 usc_title: 21
 usc_section: "673"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "21 U.S.C. § 673"
-generated_at: "2026-03-30T05:30:17.020Z"
+generated_at: "2026-03-30T05:32:38.957Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 251 - Repealed. Pub. L. 104–208, div. A, title II , § 2224(a)
 usc_title: 12
 usc_section: "251"
 chapter: 3
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "12 U.S.C. § 251"
-generated_at: "2026-03-30T05:29:54.938Z"
+generated_at: "2026-03-30T05:32:00.782Z"
 status: "repealed"
 ---
 

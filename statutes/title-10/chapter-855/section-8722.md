@@ -3,9 +3,9 @@ title: "Section 8722 - Repealed. Pub. L. 99–661, div. A, title VI , § 604(f)(
 usc_title: 10
 usc_section: "8722"
 chapter: 855
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 8722"
-generated_at: "2026-03-30T05:29:50.167Z"
+generated_at: "2026-03-30T05:31:52.838Z"
 status: "repealed"
 ---
 

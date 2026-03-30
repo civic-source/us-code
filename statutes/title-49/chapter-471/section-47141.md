@@ -3,9 +3,9 @@ title: "Section 47141 - Compatible land use planning and projects by State and l
 usc_title: 49
 usc_section: "47141"
 chapter: 471
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 47141"
-generated_at: "2026-03-30T05:31:25.026Z"
+generated_at: "2026-03-30T05:34:13.457Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
   - **(2)** such other assurances as the Secretary determines to be necessary to carry out this section.
 - **(d)** The Secretary shall establish guidelines to administer this section in accordance with the purposes and conditions described in this section. The Secretary may require a State or unit of local government to which a grant may be made under this section to provide progress reports and other information as the Secretary determines to be necessary to carry out this section.
 - **(e)** The Secretary may approve a grant under this section to a State or unit of local government for a project resulting from a land use compatibility plan only if the Secretary is satisfied that the project is consistent with the guidelines established by the Secretary under this section, the State or unit of local government has provided the assurances required by this section, the State or unit of local government has implemented (or has made provision to implement) those elements of the plan that are not eligible for Federal financial assistance, and that the project is not inconsistent with applicable Federal Aviation Administration standards.
-- **(f)** This section shall not be in effect after July 15, 2016 .
+- **(f)** This section shall not be in effect after September 30, 2017 .

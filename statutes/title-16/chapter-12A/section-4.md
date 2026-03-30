@@ -3,9 +3,9 @@ title: "Section 4 - Bonds for financing power program"
 usc_title: 16
 usc_section: "4"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T05:30:04.492Z"
+generated_at: "2026-03-30T05:32:08.900Z"
 status: "active"
 ---
 

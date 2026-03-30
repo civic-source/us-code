@@ -3,9 +3,9 @@ title: "Section 9833 - Repealed. Pub. L. 87–480 , § 1(4), June 8, 1962 , 76 S
 usc_title: 10
 usc_section: "9833"
 chapter: 953
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 9833"
-generated_at: "2026-03-30T05:29:50.172Z"
+generated_at: "2026-03-30T05:31:52.843Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1811to1824 - Repealed. Pub. L. 101–380, title II, § 2004 , Au
 usc_title: 43
 usc_section: "1811to1824"
 chapter: 36
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "43 U.S.C. § 1811to1824"
-generated_at: "2026-03-30T05:30:49.460Z"
+generated_at: "2026-03-30T05:34:04.832Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 215a - Merger of national banks or State banks into national ban
 usc_title: 12
 usc_section: "215a"
 chapter: 2
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "12 U.S.C. § 215a"
-generated_at: "2026-03-30T05:29:54.936Z"
+generated_at: "2026-03-30T05:32:00.780Z"
 status: "active"
 ---
 

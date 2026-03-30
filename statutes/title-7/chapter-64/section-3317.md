@@ -3,9 +3,9 @@ title: "Section 3317 - Program evaluation studies"
 usc_title: 7
 usc_section: "3317"
 chapter: 64
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 3317"
-generated_at: "2026-03-30T05:29:46.153Z"
+generated_at: "2026-03-30T05:31:49.041Z"
 status: "active"
 ---
 

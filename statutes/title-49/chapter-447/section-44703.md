@@ -3,9 +3,9 @@ title: "Section 44703 - Airman certificates"
 usc_title: 49
 usc_section: "44703"
 chapter: 447
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 44703"
-generated_at: "2026-03-30T05:31:25.011Z"
+generated_at: "2026-03-30T05:34:13.445Z"
 status: "active"
 ---
 
@@ -99,7 +99,7 @@ status: "active"
   - **(16)** This subsection shall cease to be effective on the date specified in regulations issued under subsection (i).
 - **(i)**
   - **(1)** Before allowing an individual to begin service as a pilot, an air carrier shall access and evaluate, in accordance with the requirements of this subsection, information pertaining to the individual from the pilot records database established under paragraph (2).
-  - **(2)** The Administrator shall establish an electronic database (in this subsection referred to as the “database”) containing the following records:
+  - **(2)** Not later than April 30, 2017 , the Administrator shall establish and make available for use an electronic database (in this subsection referred to as the “database”) containing the following records:
     - **(A)** From the Administrator—
       - **(i)** records that are maintained by the Administrator concerning current airman certificates, including airman medical certificates and associated type ratings and information on any limitations to those certificates and ratings;
       - **(ii)** records that are maintained by the Administrator concerning any failed attempt of an individual to pass a practical test required to obtain a certificate or type rating under part 61 of title 14, Code of Federal Regulations; and

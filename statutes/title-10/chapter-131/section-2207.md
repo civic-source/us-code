@@ -3,9 +3,9 @@ title: "Section 2207 - Expenditure of appropriations: limitation"
 usc_title: 10
 usc_section: "2207"
 chapter: 131
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 2207"
-generated_at: "2026-03-30T05:29:50.108Z"
+generated_at: "2026-03-30T05:31:52.773Z"
 status: "active"
 ---
 

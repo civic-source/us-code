@@ -3,9 +3,9 @@ title: "Section 6592 - Administrator of AID reporting to Secretary of State"
 usc_title: 22
 usc_section: "6592"
 chapter: 74
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "22 U.S.C. § 6592"
-generated_at: "2026-03-30T05:30:18.812Z"
+generated_at: "2026-03-30T05:32:57.123Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41744 - Preservation of basic essential air service at single ca
 usc_title: 49
 usc_section: "41744"
 chapter: 417
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 41744"
-generated_at: "2026-03-30T05:31:25.006Z"
+generated_at: "2026-03-30T05:34:13.441Z"
 status: "active"
 ---
 

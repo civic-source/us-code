@@ -3,9 +3,9 @@ title: "Section 8107a - Rural energy savings program"
 usc_title: 7
 usc_section: "8107a"
 chapter: 107
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 8107a"
-generated_at: "2026-03-30T05:29:46.203Z"
+generated_at: "2026-03-30T05:31:49.089Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13709 - Payments for incarceration on tribal lands"
 usc_title: 42
 usc_section: "13709"
 chapter: 136
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 13709"
-generated_at: "2026-03-30T05:31:13.648Z"
+generated_at: "2026-03-30T05:34:03.932Z"
 status: "active"
 ---
 

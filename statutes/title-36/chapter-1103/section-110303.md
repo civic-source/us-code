@@ -3,9 +3,9 @@ title: "Section 110303 - Governing body"
 usc_title: 36
 usc_section: "110303"
 chapter: 1103
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "36 U.S.C. § 110303"
-generated_at: "2026-03-30T05:30:45.615Z"
+generated_at: "2026-03-30T05:33:44.599Z"
 status: "active"
 ---
 

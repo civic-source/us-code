@@ -3,9 +3,9 @@ title: "Section 2707 - Authorization of appropriations"
 usc_title: 42
 usc_section: "2707"
 chapter: 34
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 2707"
-generated_at: "2026-03-30T05:31:13.259Z"
+generated_at: "2026-03-30T05:34:03.681Z"
 status: "active"
 ---
 

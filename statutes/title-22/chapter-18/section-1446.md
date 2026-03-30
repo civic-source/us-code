@@ -3,9 +3,9 @@ title: "Section 1446 - Repealed. Pub. L. 87–256 , § 111(a)(2), Sept. 21, 1961
 usc_title: 22
 usc_section: "1446"
 chapter: 18
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "22 U.S.C. § 1446"
-generated_at: "2026-03-30T05:30:18.728Z"
+generated_at: "2026-03-30T05:32:57.037Z"
 status: "repealed"
 ---
 

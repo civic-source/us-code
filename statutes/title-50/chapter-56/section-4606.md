@@ -3,9 +3,9 @@ title: "Section 4606 - Short supply controls"
 usc_title: 50
 usc_section: "4606"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4606"
-generated_at: "2026-03-30T05:31:19.550Z"
+generated_at: "2026-03-30T05:34:09.838Z"
 status: "active"
 ---
 
@@ -89,9 +89,9 @@ status: "active"
       - **(ii)** the average annual quantity of the goods to be imported will be less than the average amount of such goods estimated to be required annually to supplement domestic production; and
     - **(B)** the parties to such barter agreement have demonstrated adequately that they intend, and have the capacity, to perform such barter agreement.
   - **(3)** For purposes of this subsection, the term “barter agreement” means any agreement which is made for the exchange, without monetary consideration, of any goods produced in the United States for any goods produced outside of the United States.
-  - **(4)** This subsection shall apply only with respect to barter agreements entered into after September 30, 1979 .
+  - **(4)** This subsection shall apply only with respect to barter agreements entered into after the effective date of this Act [ September 30, 1979 ].
 - **(i)**
-  - **(1)** The Secretary shall require a validated license, under the authority contained in subsection (a) of this section, for the export of unprocessed western red cedar (Thuja plicata) logs, harvested from State or Federal lands. The Secretary shall impose quantitative restrictions upon the export of unprocessed western red cedar logs during the 3-year period beginning on September 30, 1979 , as follows:
+  - **(1)** The Secretary shall require a validated license, under the authority contained in subsection (a) of this section, for the export of unprocessed western red cedar (Thuja plicata) logs, harvested from State or Federal lands. The Secretary shall impose quantitative restrictions upon the export of unprocessed western red cedar logs during the 3-year period beginning on the effective date of this Act [ September 30, 1979 ] as follows:
     - **(A)** Not more than thirty million board feet scribner of such logs may be exported during the first year of such 3-year period.
     - **(B)** Not more than fifteen million board feet scribner of such logs may be exported during the second year of such period.
     - **(C)** Not more than five million board feet scribner of such logs may be exported during the third year of such period.

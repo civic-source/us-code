@@ -3,9 +3,9 @@ title: "Section 1221 - Statement of policy"
 usc_title: 33
 usc_section: "1221"
 chapter: 25
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "33 U.S.C. § 1221"
-generated_at: "2026-03-30T05:30:42.878Z"
+generated_at: "2026-03-30T05:33:32.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1780b - Judgment and dismissal of litigation"
 usc_title: 25
 usc_section: "1780b"
 chapter: 19
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "25 U.S.C. § 1780b"
-generated_at: "2026-03-30T05:30:16.023Z"
+generated_at: "2026-03-30T05:32:42.612Z"
 status: "active"
 ---
 

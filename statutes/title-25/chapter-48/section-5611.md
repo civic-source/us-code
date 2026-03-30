@@ -3,9 +3,9 @@ title: "Section 5611 - Definitions"
 usc_title: 25
 usc_section: "5611"
 chapter: 48
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "25 U.S.C. § 5611"
-generated_at: "2026-03-30T05:30:16.052Z"
+generated_at: "2026-03-30T05:32:42.639Z"
 status: "active"
 ---
 

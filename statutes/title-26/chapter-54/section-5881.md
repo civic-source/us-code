@@ -3,9 +3,9 @@ title: "Section 5881 - Greenmail"
 usc_title: 26
 usc_section: "5881"
 chapter: 54
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 5881"
-generated_at: "2026-03-30T05:30:36.653Z"
+generated_at: "2026-03-30T05:33:15.450Z"
 status: "active"
 ---
 

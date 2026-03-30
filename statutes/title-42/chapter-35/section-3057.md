@@ -3,9 +3,9 @@ title: "Section 3057 - Statement of purpose"
 usc_title: 42
 usc_section: "3057"
 chapter: 35
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 3057"
-generated_at: "2026-03-30T05:31:13.278Z"
+generated_at: "2026-03-30T05:34:03.693Z"
 status: "active"
 ---
 

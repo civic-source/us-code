@@ -3,9 +3,9 @@ title: "Section 2257 - Record keeping requirements"
 usc_title: 18
 usc_section: "2257"
 chapter: 110
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "18 U.S.C. § 2257"
-generated_at: "2026-03-30T05:30:00.548Z"
+generated_at: "2026-03-30T05:32:04.082Z"
 status: "active"
 ---
 

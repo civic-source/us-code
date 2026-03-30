@@ -3,9 +3,9 @@ title: "Section 1914 - Transferred"
 usc_title: 33
 usc_section: "1914"
 chapter: 33
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "33 U.S.C. § 1914"
-generated_at: "2026-03-30T05:30:42.900Z"
+generated_at: "2026-03-30T05:33:33.017Z"
 status: "transferred"
 ---
 

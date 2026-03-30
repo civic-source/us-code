@@ -3,9 +3,9 @@ title: "Section 3106 - Dates for submittal of various annual and semiannual repo
 usc_title: 50
 usc_section: "3106"
 chapter: 44
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3106"
-generated_at: "2026-03-30T05:31:19.518Z"
+generated_at: "2026-03-30T05:34:09.776Z"
 status: "active"
 ---
 
@@ -17,17 +17,17 @@ status: "active"
   - **(3)** The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183 ; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act ( 50 U.S.C. 1906(a) ).
   - **(4)** The annual report on hiring and retention of minority employees in the intelligence community required by section 3050(a) of this title .
   - **(5)** The annual report on financial intelligence on terrorist assets required by section 3055 of this title .
-- **(b)** The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2) of this section:
+- **(b)** The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2):
   - **(1)** The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
   - **(2)** The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15 . 2 2 See References in Text note below.
   - **(3)** The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by section 3414(a)(5)(C) of title 12 .
 - **(c)**
-  - **(1)** Except as provided in subsection (d) of this section, each annual report listed in subsection (a) of this section shall be submitted not later than February 1.
-  - **(2)** Except as provided in subsection (d) of this section, each semiannual report listed in subsection (b) of this section shall be submitted not later than February 1 and August 1.
+  - **(1)** Except as provided in subsection (d), each annual report listed in subsection (a) shall be submitted not later than February 1.
+  - **(2)** Except as provided in subsection (d), each semiannual report listed in subsection (b) shall be submitted not later than February 1 and August 1.
 - **(d)**
   - **(1)** Subject to paragraph (3), the date for the submittal of—
-    - **(A)** an annual report listed in subsection (a) of this section may be postponed until March 1; and
-    - **(B)** a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
+    - **(A)** an annual report listed in subsection (a) may be postponed until March 1; and
+    - **(B)** a semiannual report listed in subsection (b) may be postponed until March 1 or September 1, as the case may be,
   - **(2)**
     - **(A)** Notwithstanding any other provision of law and subject to paragraph (3), the date for the submittal to the congressional intelligence committees of any report described in subparagraph (B) may be postponed by not more than 30 days from the date otherwise specified in the provision of law for the submittal of such report if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
     - **(B)** A report described in this subparagraph is any report on intelligence or intelligence-related activities of the United States Government that is submitted under a provision of law requiring the submittal of only a single report.

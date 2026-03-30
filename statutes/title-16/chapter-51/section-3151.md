@@ -3,9 +3,9 @@ title: "Section 3151 - Omitted"
 usc_title: 16
 usc_section: "3151"
 chapter: 51
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "16 U.S.C. § 3151"
-generated_at: "2026-03-30T05:30:04.548Z"
+generated_at: "2026-03-30T05:32:08.958Z"
 status: "omitted"
 ---
 

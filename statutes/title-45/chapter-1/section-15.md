@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Pub. L. 97–449, § 7(b) , Jan. 12, 1983 , 96 St
 usc_title: 45
 usc_section: "15"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "45 U.S.C. § 15"
-generated_at: "2026-03-30T05:30:50.122Z"
+generated_at: "2026-03-30T05:33:50.067Z"
 status: "repealed"
 ---
 

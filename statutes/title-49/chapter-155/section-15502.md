@@ -3,9 +3,9 @@ title: "Section 15502 - Authority for pipeline carriers to establish rates, clas
 usc_title: 49
 usc_section: "15502"
 chapter: 155
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "49 U.S.C. § 15502"
-generated_at: "2026-03-30T05:31:24.968Z"
+generated_at: "2026-03-30T05:34:13.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 620 - Imports"
 usc_title: 21
 usc_section: "620"
 chapter: 12
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "21 U.S.C. § 620"
-generated_at: "2026-03-30T05:30:17.020Z"
+generated_at: "2026-03-30T05:32:38.956Z"
 status: "active"
 ---
 

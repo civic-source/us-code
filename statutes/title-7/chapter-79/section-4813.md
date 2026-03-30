@@ -3,9 +3,9 @@ title: "Section 4813 - Refunds"
 usc_title: 7
 usc_section: "4813"
 chapter: 79
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 4813"
-generated_at: "2026-03-30T05:29:46.161Z"
+generated_at: "2026-03-30T05:31:49.049Z"
 status: "active"
 ---
 

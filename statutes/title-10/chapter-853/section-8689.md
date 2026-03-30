@@ -3,9 +3,9 @@ title: "Section 8689 - Repealed. Pub. L. 87–649 , § 14c(57), Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "8689"
 chapter: 853
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 8689"
-generated_at: "2026-03-30T05:29:50.167Z"
+generated_at: "2026-03-30T05:31:52.838Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5037 - Assistant Chiefs of Naval Operations"
 usc_title: 10
 usc_section: "5037"
 chapter: 505
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 5037"
-generated_at: "2026-03-30T05:29:50.154Z"
+generated_at: "2026-03-30T05:31:52.822Z"
 status: "active"
 ---
 

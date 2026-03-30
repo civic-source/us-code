@@ -3,9 +3,9 @@ title: "Section 3264 - Repealed. Pub. L. 107–314, div. A, title V , § 531(c),
 usc_title: 10
 usc_section: "3264"
 chapter: 333
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 3264"
-generated_at: "2026-03-30T05:29:50.147Z"
+generated_at: "2026-03-30T05:31:52.815Z"
 status: "repealed"
 ---
 

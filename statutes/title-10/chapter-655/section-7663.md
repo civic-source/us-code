@@ -3,9 +3,9 @@ title: "Section 7663 - Prize property appropriated for the use of the United Sta
 usc_title: 10
 usc_section: "7663"
 chapter: 655
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 7663"
-generated_at: "2026-03-30T05:29:50.164Z"
+generated_at: "2026-03-30T05:31:52.834Z"
 status: "active"
 ---
 

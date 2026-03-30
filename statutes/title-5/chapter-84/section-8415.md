@@ -3,9 +3,9 @@ title: "Section 8415 - Computation of basic annuity"
 usc_title: 5
 usc_section: "8415"
 chapter: 84
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "5 U.S.C. § 8415"
-generated_at: "2026-03-30T05:29:41.008Z"
+generated_at: "2026-03-30T05:31:44.126Z"
 status: "active"
 ---
 
@@ -18,7 +18,10 @@ status: "active"
 - **(e)** The annuity of an employee retiring under subsection (d) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
   - **(1)** 1 7 ⁄ 10 percent of that individual’s average pay multiplied by so much of such individual’s total service as does not exceed 20 years; plus
   - **(2)** 1 percent of that individual’s average pay multiplied by so much of such individual’s total service as exceeds 20 years.
-- **(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 1 7 ⁄ 10 percent of the individual’s average pay by the years of such service.
+- **(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has at least 5 years of service in any combination as—
+  - **(1)** an air traffic controller as defined by section 2109(1)(A)(i);
+  - **(2)** a first level supervisor of an air traffic controller as defined by section 2109(1)(A)(i); or
+  - **(3)** a second level supervisor of an air traffic controller as defined by section 2109(1)(A)(i);
 - **(g)**
   - **(1)** In computing an annuity under this subchapter for an employee whose service includes service performed on a part-time basis—
     - **(A)** the average pay of the employee, to the extent that it includes pay for service performed in any position on a part-time basis, shall be determined by using the annual rate of basic pay that would be payable for full-time service in the position; and

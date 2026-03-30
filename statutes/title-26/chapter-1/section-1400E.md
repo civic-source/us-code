@@ -3,9 +3,9 @@ title: "Section 1400E - Designation of renewal communities"
 usc_title: 26
 usc_section: "1400E"
 chapter: 1
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "26 U.S.C. § 1400E"
-generated_at: "2026-03-30T05:30:36.604Z"
+generated_at: "2026-03-30T05:33:15.403Z"
 status: "active"
 ---
 

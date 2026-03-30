@@ -3,9 +3,9 @@ title: "Section 809 - Art. 9. Imposition of restraint"
 usc_title: 10
 usc_section: "809"
 chapter: 47
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 809"
-generated_at: "2026-03-30T05:29:50.066Z"
+generated_at: "2026-03-30T05:31:52.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 495 - Contracts, deeds, and powers of attorney"
 usc_title: 18
 usc_section: "495"
 chapter: 25
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "18 U.S.C. § 495"
-generated_at: "2026-03-30T05:30:00.522Z"
+generated_at: "2026-03-30T05:32:04.055Z"
 status: "active"
 ---
 

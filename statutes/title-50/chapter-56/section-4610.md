@@ -3,9 +3,9 @@ title: "Section 4610 - Violations"
 usc_title: 50
 usc_section: "4610"
 chapter: 56
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 4610"
-generated_at: "2026-03-30T05:31:19.551Z"
+generated_at: "2026-03-30T05:34:09.839Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** any of that person’s property constituting, or derived from, any proceeds obtained directly or indirectly as a result of the violation.
   - **(2)** The procedures in any forfeiture under this subsection, and the duties and authority of the courts of the United States and the Attorney General with respect to any forfeiture action under this subsection or with respect to any property that may be subject to forfeiture under this subsection, shall be governed by the provisions of section 1963 of title 18 .
 - **(h)**
-  - **(1)** No person convicted of a violation of this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act [ 50 U.S.C. 1701 et seq.], section 793, 794, or 798 of title 18, section 783(a) of this title , 1 1 See References in Text note below. or section 2778 of title 22 shall be eligible, at the discretion of the Secretary, to apply for or use any export license under this chapter for a period of up to 10 years from the date of the conviction. The Secretary may revoke any export license under this chapter in which such person has an interest at the time of the conviction.
+  - **(1)** No person convicted of a violation of this chapter (or any regulation, license, or order issued under this chapter), any regulation, license, or order issued under the International Emergency Economic Powers Act [ 50 U.S.C. 1701 et seq.], section 793, 794, or 798 of title 18, section 783(b) 1 1 See References in Text note below. of this title, or section 2778 of title 22 shall be eligible, at the discretion of the Secretary, to apply for or use any export license under this chapter for a period of up to 10 years from the date of the conviction. The Secretary may revoke any export license under this chapter in which such person has an interest at the time of the conviction.
   - **(2)** The Secretary may exercise the authority under paragraph (1) with respect to any person related, through affiliation, ownership, control, or position of responsibility, to any person convicted of any violation of law set forth in paragraph (1), upon a showing of such relationship with the convicted party, and subject to the procedures set forth in section 4615(c) of this title .
 - **(i)** Nothing in subsection (c), (d), (f), (g), or (h) limits—
   - **(1)** the availability of other administrative or judicial remedies with respect to violations of this chapter, or any regulation, order, or license issued under this chapter;

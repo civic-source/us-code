@@ -3,9 +3,9 @@ title: "Section 5401 - Findings and purposes"
 usc_title: 42
 usc_section: "5401"
 chapter: 70
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 5401"
-generated_at: "2026-03-30T05:31:13.359Z"
+generated_at: "2026-03-30T05:34:03.745Z"
 status: "active"
 ---
 

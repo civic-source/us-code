@@ -3,9 +3,9 @@ title: "Section 287 - National Center for Advancing Translational Sciences"
 usc_title: 42
 usc_section: "287"
 chapter: 6
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "42 U.S.C. § 287"
-generated_at: "2026-03-30T05:31:12.775Z"
+generated_at: "2026-03-30T05:34:03.381Z"
 status: "active"
 ---
 

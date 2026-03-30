@@ -3,9 +3,9 @@ title: "Section 4623 - Repealed. Pub. L. 91–482 , § 1(a), Oct. 21, 1970 , 84 
 usc_title: 10
 usc_section: "4623"
 chapter: 439
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "10 U.S.C. § 4623"
-generated_at: "2026-03-30T05:29:50.151Z"
+generated_at: "2026-03-30T05:31:52.820Z"
 status: "repealed"
 ---
 

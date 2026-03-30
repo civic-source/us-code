@@ -3,9 +3,9 @@ title: "Section 6941a - Coordinator for Chronically Underserved Rural Areas"
 usc_title: 7
 usc_section: "6941a"
 chapter: 98
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "7 U.S.C. § 6941a"
-generated_at: "2026-03-30T05:29:46.179Z"
+generated_at: "2026-03-30T05:31:49.067Z"
 status: "active"
 ---
 

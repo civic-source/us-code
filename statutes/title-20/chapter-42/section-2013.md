@@ -3,9 +3,9 @@ title: "Section 2013 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2013"
 chapter: 42
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 2013"
-generated_at: "2026-03-30T05:30:08.559Z"
+generated_at: "2026-03-30T05:32:06.209Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3720E - Dissemination of information regarding identity of delin
 usc_title: 31
 usc_section: "3720E"
 chapter: 37
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "31 U.S.C. § 3720E"
-generated_at: "2026-03-30T05:30:41.696Z"
+generated_at: "2026-03-30T05:33:39.595Z"
 status: "active"
 ---
 

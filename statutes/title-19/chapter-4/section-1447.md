@@ -3,9 +3,9 @@ title: "Section 1447 - Place of entry and unlading"
 usc_title: 19
 usc_section: "1447"
 chapter: 4
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "19 U.S.C. § 1447"
-generated_at: "2026-03-30T05:30:12.293Z"
+generated_at: "2026-03-30T05:32:17.551Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3161 - Procedures"
 usc_title: 50
 usc_section: "3161"
 chapter: 44
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "50 U.S.C. § 3161"
-generated_at: "2026-03-30T05:31:19.519Z"
+generated_at: "2026-03-30T05:34:09.778Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
   - **(4)** provide that all employees in the executive branch of Government who require access to particularly sensitive classified information, as determined by the President, shall be required, as a condition of maintaining access to such information, to submit to the employing department or agency, during the period of such access, relevant information concerning their financial condition and foreign travel, as determined by the President, as may be necessary to ensure appropriate security; and
   - **(5)** establish uniform minimum standards to ensure that employees in the executive branch of Government whose access to classified information is being denied or terminated under this subchapter are appropriately advised of the reasons for such denial or termination and are provided an adequate opportunity to respond to all adverse information which forms the basis for such denial or termination before final action by the department or agency concerned.
 - **(b)**
-  - **(1)** Subsection (a) of this section shall not be deemed to limit or affect the responsibility and power of an agency head pursuant to other law or Executive order to deny or terminate access to classified information if the national security so requires. Such responsibility and power may be exercised only when the agency head determines that the procedures prescribed by subsection (a) of this section cannot be invoked in a manner that is consistent with the national security.
+  - **(1)** Subsection (a) shall not be deemed to limit or affect the responsibility and power of an agency head pursuant to other law or Executive order to deny or terminate access to classified information if the national security so requires. Such responsibility and power may be exercised only when the agency head determines that the procedures prescribed by subsection (a) cannot be invoked in a manner that is consistent with the national security.
   - **(2)** Upon the exercise of such responsibility, the agency head shall submit a report to the congressional intelligence committees.

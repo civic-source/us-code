@@ -3,9 +3,9 @@ title: "Section 7934 - Accountability to taxpayers through monitoring and oversi
 usc_title: 20
 usc_section: "7934"
 chapter: 70
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "20 U.S.C. § 7934"
-generated_at: "2026-03-30T05:30:08.605Z"
+generated_at: "2026-03-30T05:32:06.254Z"
 status: "active"
 ---
 

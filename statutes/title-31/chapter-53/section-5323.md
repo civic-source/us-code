@@ -3,9 +3,9 @@ title: "Section 5323 - Rewards for informants"
 usc_title: 31
 usc_section: "5323"
 chapter: 53
-current_through: "PL 114-189"
+current_through: "PL 114-195"
 classification: "31 U.S.C. § 5323"
-generated_at: "2026-03-30T05:30:41.704Z"
+generated_at: "2026-03-30T05:33:39.602Z"
 status: "active"
 ---
 
