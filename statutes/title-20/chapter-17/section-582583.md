@@ -3,9 +3,9 @@ title: "Section 582583 - Repealed. Pub. L. 91–230, title IV, § 401(h)(1) , Ap
 usc_title: 20
 usc_section: "582583"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 582583"
-generated_at: "2026-03-30T04:50:27.695Z"
+generated_at: "2026-03-30T04:52:57.104Z"
 status: "repealed"
 ---
 

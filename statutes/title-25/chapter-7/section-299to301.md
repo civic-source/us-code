@@ -3,9 +3,9 @@ title: "Section 299to301 - Repealed. May 29, 1928, ch. 901, § 1 , 45 Stat. 990 
 usc_title: 25
 usc_section: "299to301"
 chapter: 7
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 299to301"
-generated_at: "2026-03-30T04:50:34.722Z"
+generated_at: "2026-03-30T04:53:04.648Z"
 status: "repealed"
 ---
 

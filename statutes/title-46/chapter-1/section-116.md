@@ -3,9 +3,9 @@ title: "Section 116 - Vessel of the United States"
 usc_title: 46
 usc_section: "116"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 116"
-generated_at: "2026-03-30T04:51:27.373Z"
+generated_at: "2026-03-30T04:53:54.967Z"
 status: "active"
 ---
 

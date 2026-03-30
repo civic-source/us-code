@@ -3,9 +3,9 @@ title: "Section 303 - Definitions"
 usc_title: 3
 usc_section: "303"
 chapter: 4
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "3 U.S.C. § 303"
-generated_at: "2026-03-30T04:49:53.630Z"
+generated_at: "2026-03-30T04:51:59.166Z"
 status: "active"
 ---
 

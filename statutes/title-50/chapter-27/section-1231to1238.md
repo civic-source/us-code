@@ -3,9 +3,9 @@ title: "Section 1231to1238 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 
 usc_title: 50
 usc_section: "1231to1238"
 chapter: 27
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "50 U.S.C. § 1231to1238"
-generated_at: "2026-03-30T04:51:43.181Z"
+generated_at: "2026-03-30T04:54:03.019Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1361 - Burden of proof upon alien"
 usc_title: 8
 usc_section: "1361"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "8 U.S.C. § 1361"
-generated_at: "2026-03-30T04:50:02.230Z"
+generated_at: "2026-03-30T04:52:16.717Z"
 status: "active"
 ---
 

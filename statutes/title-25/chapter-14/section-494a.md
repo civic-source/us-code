@@ -3,9 +3,9 @@ title: "Section 494a - Certification of rental proceeds"
 usc_title: 25
 usc_section: "494a"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 494a"
-generated_at: "2026-03-30T04:50:34.735Z"
+generated_at: "2026-03-30T04:53:04.661Z"
 status: "active"
 ---
 

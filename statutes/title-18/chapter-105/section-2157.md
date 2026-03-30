@@ -3,9 +3,9 @@ title: "Section 2157 - Repealed. Pub. L. 103–322, title XXXIII, § 330004(13) 
 usc_title: 18
 usc_section: "2157"
 chapter: 105
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 2157"
-generated_at: "2026-03-30T04:50:24.491Z"
+generated_at: "2026-03-30T04:52:52.199Z"
 status: "repealed"
 ---
 

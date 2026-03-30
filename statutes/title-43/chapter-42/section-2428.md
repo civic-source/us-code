@@ -3,9 +3,9 @@ title: "Section 2428 - Interagency coordination and cooperation"
 usc_title: 43
 usc_section: "2428"
 chapter: 42
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 2428"
-generated_at: "2026-03-30T04:51:07.238Z"
+generated_at: "2026-03-30T04:53:30.835Z"
 status: "active"
 ---
 

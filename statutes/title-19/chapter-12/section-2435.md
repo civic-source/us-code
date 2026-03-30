@@ -3,9 +3,9 @@ title: "Section 2435 - Commercial agreements"
 usc_title: 19
 usc_section: "2435"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "19 U.S.C. § 2435"
-generated_at: "2026-03-30T04:50:25.579Z"
+generated_at: "2026-03-30T04:52:54.585Z"
 status: "active"
 ---
 

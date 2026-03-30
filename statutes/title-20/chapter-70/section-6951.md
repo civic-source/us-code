@@ -3,9 +3,9 @@ title: "Section 6951 - Professional development grants"
 usc_title: 20
 usc_section: "6951"
 chapter: 70
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 6951"
-generated_at: "2026-03-30T04:50:27.802Z"
+generated_at: "2026-03-30T04:52:57.216Z"
 status: "active"
 ---
 

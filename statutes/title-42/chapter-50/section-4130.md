@@ -3,9 +3,9 @@ title: "Section 4130 - No cause of action"
 usc_title: 42
 usc_section: "4130"
 chapter: 50
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 4130"
-generated_at: "2026-03-30T04:51:24.050Z"
+generated_at: "2026-03-30T04:53:51.186Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 396g - Subsurface storage of oil or gas"
 usc_title: 25
 usc_section: "396g"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 396g"
-generated_at: "2026-03-30T04:50:34.725Z"
+generated_at: "2026-03-30T04:53:04.652Z"
 status: "active"
 ---
 

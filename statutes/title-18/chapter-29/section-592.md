@@ -3,9 +3,9 @@ title: "Section 592 - Troops at polls"
 usc_title: 18
 usc_section: "592"
 chapter: 29
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 592"
-generated_at: "2026-03-30T04:50:24.467Z"
+generated_at: "2026-03-30T04:52:52.178Z"
 status: "active"
 ---
 

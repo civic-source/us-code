@@ -3,9 +3,9 @@ title: "Section 883i - Authorization of appropriations"
 usc_title: 33
 usc_section: "883i"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "33 U.S.C. § 883i"
-generated_at: "2026-03-30T04:50:54.108Z"
+generated_at: "2026-03-30T04:53:19.769Z"
 status: "active"
 ---
 

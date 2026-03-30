@@ -3,9 +3,9 @@ title: "Section 1443 - Destruction or loss of, or injury to, sanctuary resources
 usc_title: 16
 usc_section: "1443"
 chapter: 32
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 1443"
-generated_at: "2026-03-30T04:50:29.995Z"
+generated_at: "2026-03-30T04:53:00.043Z"
 status: "active"
 ---
 

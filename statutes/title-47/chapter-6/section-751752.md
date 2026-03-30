@@ -3,9 +3,9 @@ title: "Section 751752 - Omitted"
 usc_title: 47
 usc_section: "751752"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "47 U.S.C. § 751752"
-generated_at: "2026-03-30T04:51:41.465Z"
+generated_at: "2026-03-30T04:53:54.312Z"
 status: "omitted"
 ---
 

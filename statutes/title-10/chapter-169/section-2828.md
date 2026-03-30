@@ -3,9 +3,9 @@ title: "Section 2828 - Leasing of military family housing"
 usc_title: 10
 usc_section: "2828"
 chapter: 169
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 2828"
-generated_at: "2026-03-30T04:50:11.193Z"
+generated_at: "2026-03-30T04:52:15.737Z"
 status: "active"
 ---
 

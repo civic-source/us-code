@@ -3,9 +3,9 @@ title: "Section 1776k - Authorization of appropriations"
 usc_title: 25
 usc_section: "1776k"
 chapter: 19
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 1776k"
-generated_at: "2026-03-30T04:50:34.777Z"
+generated_at: "2026-03-30T04:53:04.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 501 - Mining claims located between July 31, 1939 , and January 
 usc_title: 30
 usc_section: "501"
 chapter: 11
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "30 U.S.C. § 501"
-generated_at: "2026-03-30T04:50:39.363Z"
+generated_at: "2026-03-30T04:53:09.025Z"
 status: "active"
 ---
 

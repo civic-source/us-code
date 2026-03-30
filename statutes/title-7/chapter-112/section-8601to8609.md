@@ -3,9 +3,9 @@ title: "Section 8601to8609 - Repealed. Pub. L. 110–234, title IX, § 9001(b) ,
 usc_title: 7
 usc_section: "8601to8609"
 chapter: 112
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 8601to8609"
-generated_at: "2026-03-30T04:50:00.097Z"
+generated_at: "2026-03-30T04:52:41.036Z"
 status: "repealed"
 ---
 

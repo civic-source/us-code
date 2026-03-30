@@ -3,9 +3,9 @@ title: "Section 460ttt - Designation"
 usc_title: 16
 usc_section: "460ttt"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 460ttt"
-generated_at: "2026-03-30T04:50:29.917Z"
+generated_at: "2026-03-30T04:52:59.961Z"
 status: "active"
 ---
 

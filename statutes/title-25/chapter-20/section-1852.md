@@ -3,9 +3,9 @@ title: "Section 1852 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1852"
 chapter: 20
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 1852"
-generated_at: "2026-03-30T04:50:34.780Z"
+generated_at: "2026-03-30T04:53:04.707Z"
 status: "active"
 ---
 

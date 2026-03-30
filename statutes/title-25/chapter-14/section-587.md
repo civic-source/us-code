@@ -3,9 +3,9 @@ title: "Section 587 - Funds apportioned to Shoshone-Bannock Tribes of the Fort H
 usc_title: 25
 usc_section: "587"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 587"
-generated_at: "2026-03-30T04:50:34.738Z"
+generated_at: "2026-03-30T04:53:04.663Z"
 status: "active"
 ---
 

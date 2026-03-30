@@ -3,9 +3,9 @@ title: "Section 3942 - Appointments by the President"
 usc_title: 22
 usc_section: "3942"
 chapter: 52
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 3942"
-generated_at: "2026-03-30T04:50:36.800Z"
+generated_at: "2026-03-30T04:53:06.629Z"
 status: "active"
 ---
 

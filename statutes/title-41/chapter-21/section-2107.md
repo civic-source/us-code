@@ -3,9 +3,9 @@ title: "Section 2107 - Savings provisions"
 usc_title: 41
 usc_section: "2107"
 chapter: 21
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "41 U.S.C. § 2107"
-generated_at: "2026-03-30T04:51:06.700Z"
+generated_at: "2026-03-30T04:53:34.153Z"
 status: "active"
 ---
 

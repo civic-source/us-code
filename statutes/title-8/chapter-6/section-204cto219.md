@@ -3,9 +3,9 @@ title: "Section 204cto219 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(
 usc_title: 8
 usc_section: "204cto219"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "8 U.S.C. § 204cto219"
-generated_at: "2026-03-30T04:50:02.207Z"
+generated_at: "2026-03-30T04:52:16.691Z"
 status: "repealed"
 ---
 

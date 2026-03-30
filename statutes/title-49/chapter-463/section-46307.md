@@ -3,9 +3,9 @@ title: "Section 46307 - Violation of national defense airspace"
 usc_title: 49
 usc_section: "46307"
 chapter: 463
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 46307"
-generated_at: "2026-03-30T04:51:29.864Z"
+generated_at: "2026-03-30T04:54:02.083Z"
 status: "active"
 ---
 

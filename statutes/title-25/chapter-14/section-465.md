@@ -3,9 +3,9 @@ title: "Section 465 - Acquisition of lands, water rights or surface rights; appr
 usc_title: 25
 usc_section: "465"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 465"
-generated_at: "2026-03-30T04:50:34.734Z"
+generated_at: "2026-03-30T04:53:04.659Z"
 status: "active"
 ---
 

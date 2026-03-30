@@ -3,9 +3,9 @@ title: "Section 8002 - Definitions"
 usc_title: 42
 usc_section: "8002"
 chapter: 89
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 8002"
-generated_at: "2026-03-30T04:51:24.157Z"
+generated_at: "2026-03-30T04:53:51.295Z"
 status: "active"
 ---
 

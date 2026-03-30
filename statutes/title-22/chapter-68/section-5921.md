@@ -3,9 +3,9 @@ title: "Section 5921 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(
 usc_title: 22
 usc_section: "5921"
 chapter: 68
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 5921"
-generated_at: "2026-03-30T04:50:36.821Z"
+generated_at: "2026-03-30T04:53:06.650Z"
 status: "repealed"
 ---
 

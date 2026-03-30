@@ -3,9 +3,9 @@ title: "Section 40127 - Prohibitions on discrimination"
 usc_title: 49
 usc_section: "40127"
 chapter: 401
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 40127"
-generated_at: "2026-03-30T04:51:29.848Z"
+generated_at: "2026-03-30T04:54:02.067Z"
 status: "active"
 ---
 

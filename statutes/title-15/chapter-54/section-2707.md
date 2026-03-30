@@ -3,9 +3,9 @@ title: "Section 2707 - Patents and inventions; statutory provisions applicable; 
 usc_title: 15
 usc_section: "2707"
 chapter: 54
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 2707"
-generated_at: "2026-03-30T04:50:21.166Z"
+generated_at: "2026-03-30T04:52:46.651Z"
 status: "active"
 ---
 

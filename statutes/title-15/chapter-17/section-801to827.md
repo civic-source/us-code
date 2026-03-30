@@ -3,9 +3,9 @@ title: "Section 801to827 - Repealed. Apr. 26, 1937, ch. 127, § 20(a) , 50 Stat.
 usc_title: 15
 usc_section: "801to827"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 801to827"
-generated_at: "2026-03-30T04:50:21.114Z"
+generated_at: "2026-03-30T04:52:46.597Z"
 status: "repealed"
 ---
 

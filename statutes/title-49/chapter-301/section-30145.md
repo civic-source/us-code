@@ -3,9 +3,9 @@ title: "Section 30145 - Importing motor vehicles or equipment requiring further 
 usc_title: 49
 usc_section: "30145"
 chapter: 301
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 30145"
-generated_at: "2026-03-30T04:51:29.834Z"
+generated_at: "2026-03-30T04:54:02.053Z"
 status: "active"
 ---
 

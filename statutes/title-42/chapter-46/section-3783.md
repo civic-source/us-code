@@ -3,9 +3,9 @@ title: "Section 3783 - Notice and hearing on denial or termination of grant"
 usc_title: 42
 usc_section: "3783"
 chapter: 46
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 3783"
-generated_at: "2026-03-30T04:51:24.035Z"
+generated_at: "2026-03-30T04:53:51.171Z"
 status: "active"
 ---
 

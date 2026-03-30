@@ -3,9 +3,9 @@ title: "Section 16133 - Time limitation for use of entitlement"
 usc_title: 10
 usc_section: "16133"
 chapter: 1606
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 16133"
-generated_at: "2026-03-30T04:50:11.234Z"
+generated_at: "2026-03-30T04:52:15.779Z"
 status: "active"
 ---
 

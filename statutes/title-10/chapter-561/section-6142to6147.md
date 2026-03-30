@@ -3,9 +3,9 @@ title: "Section 6142to6147 - Repealed. Pub. L. 87–649, § 14c (38–43), Sept.
 usc_title: 10
 usc_section: "6142to6147"
 chapter: 561
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 6142to6147"
-generated_at: "2026-03-30T04:50:11.208Z"
+generated_at: "2026-03-30T04:52:15.752Z"
 status: "repealed"
 ---
 

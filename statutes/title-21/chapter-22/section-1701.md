@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 21
 usc_section: "1701"
 chapter: 22
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "21 U.S.C. § 1701"
-generated_at: "2026-03-30T04:50:33.570Z"
+generated_at: "2026-03-30T04:53:03.438Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 254i - Annual report to Congress; contents"
 usc_title: 42
 usc_section: "254i"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 254i"
-generated_at: "2026-03-30T04:51:23.681Z"
+generated_at: "2026-03-30T04:53:50.820Z"
 status: "active"
 ---
 

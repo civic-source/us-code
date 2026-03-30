@@ -3,9 +3,9 @@ title: "Section 55115 - Supplies on fish processing vessels"
 usc_title: 46
 usc_section: "55115"
 chapter: 551
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 55115"
-generated_at: "2026-03-30T04:51:27.399Z"
+generated_at: "2026-03-30T04:53:54.995Z"
 status: "active"
 ---
 

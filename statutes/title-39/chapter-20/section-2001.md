@@ -3,9 +3,9 @@ title: "Section 2001 - Definitions"
 usc_title: 39
 usc_section: "2001"
 chapter: 20
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "39 U.S.C. § 2001"
-generated_at: "2026-03-30T04:50:59.956Z"
+generated_at: "2026-03-30T04:53:28.063Z"
 status: "active"
 ---
 

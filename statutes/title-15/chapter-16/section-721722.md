@@ -3,9 +3,9 @@ title: "Section 721722 - Omitted"
 usc_title: 15
 usc_section: "721722"
 chapter: 16
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 721722"
-generated_at: "2026-03-30T04:50:21.111Z"
+generated_at: "2026-03-30T04:52:46.595Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 833i - Deposit of receipts; establishment of continuing fund; au
 usc_title: 16
 usc_section: "833i"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 833i"
-generated_at: "2026-03-30T04:50:29.968Z"
+generated_at: "2026-03-30T04:53:00.014Z"
 status: "active"
 ---
 

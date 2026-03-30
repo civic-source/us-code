@@ -3,9 +3,9 @@ title: "Section 564j - Taxes; initial exemption; taxes following distribution; v
 usc_title: 25
 usc_section: "564j"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 564j"
-generated_at: "2026-03-30T04:50:34.737Z"
+generated_at: "2026-03-30T04:53:04.662Z"
 status: "active"
 ---
 

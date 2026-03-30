@@ -3,9 +3,9 @@ title: "Section 507 - Instruction in firing; supply of ammunition"
 usc_title: 32
 usc_section: "507"
 chapter: 5
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "32 U.S.C. § 507"
-generated_at: "2026-03-30T04:50:54.239Z"
+generated_at: "2026-03-30T04:53:18.318Z"
 status: "active"
 ---
 

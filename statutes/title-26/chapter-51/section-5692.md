@@ -3,9 +3,9 @@ title: "Section 5692 - Repealed. Pub. L. 90–618, title II, § 206(a) , Oct. 22
 usc_title: 26
 usc_section: "5692"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 5692"
-generated_at: "2026-03-30T04:50:49.564Z"
+generated_at: "2026-03-30T04:53:16.628Z"
 status: "repealed"
 ---
 

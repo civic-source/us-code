@@ -3,9 +3,9 @@ title: "Section 2781 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2781"
 chapter: 34
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 2781"
-generated_at: "2026-03-30T04:51:24.011Z"
+generated_at: "2026-03-30T04:53:51.147Z"
 status: "repealed"
 ---
 

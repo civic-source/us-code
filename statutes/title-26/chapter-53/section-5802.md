@@ -3,9 +3,9 @@ title: "Section 5802 - Registration of importers, manufacturers, and dealers"
 usc_title: 26
 usc_section: "5802"
 chapter: 53
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 5802"
-generated_at: "2026-03-30T04:50:49.565Z"
+generated_at: "2026-03-30T04:53:16.629Z"
 status: "active"
 ---
 

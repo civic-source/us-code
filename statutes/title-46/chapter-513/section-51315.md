@@ -3,9 +3,9 @@ title: "Section 51315 - Gifts to the Merchant Marine Academy"
 usc_title: 46
 usc_section: "51315"
 chapter: 513
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 51315"
-generated_at: "2026-03-30T04:51:27.395Z"
+generated_at: "2026-03-30T04:53:54.989Z"
 status: "active"
 ---
 

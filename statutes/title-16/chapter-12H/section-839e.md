@@ -3,9 +3,9 @@ title: "Section 839e - Rates"
 usc_title: 16
 usc_section: "839e"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 839e"
-generated_at: "2026-03-30T04:50:29.971Z"
+generated_at: "2026-03-30T04:53:00.018Z"
 status: "active"
 ---
 

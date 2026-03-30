@@ -3,9 +3,9 @@ title: "Section 4901to4909 - Repealed. Pub. L. 103–382, title III, § 363 , Oc
 usc_title: 20
 usc_section: "4901to4909"
 chapter: 61
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 4901to4909"
-generated_at: "2026-03-30T04:50:27.779Z"
+generated_at: "2026-03-30T04:52:57.192Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12309 - Penalties"
 usc_title: 46
 usc_section: "12309"
 chapter: 123
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 12309"
-generated_at: "2026-03-30T04:51:27.388Z"
+generated_at: "2026-03-30T04:53:54.982Z"
 status: "active"
 ---
 

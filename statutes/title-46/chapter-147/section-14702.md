@@ -3,9 +3,9 @@ title: "Section 14702 - False statements"
 usc_title: 46
 usc_section: "14702"
 chapter: 147
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 14702"
-generated_at: "2026-03-30T04:51:27.389Z"
+generated_at: "2026-03-30T04:53:54.983Z"
 status: "active"
 ---
 

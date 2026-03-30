@@ -3,9 +3,9 @@ title: "Section 2763to2768 - Repealed. Pub. L. 92–424, § 25(b) , Sept. 19, 19
 usc_title: 42
 usc_section: "2763to2768"
 chapter: 34
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 2763to2768"
-generated_at: "2026-03-30T04:51:24.011Z"
+generated_at: "2026-03-30T04:53:51.147Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 99to108 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313,
 usc_title: 42
 usc_section: "99to108"
 chapter: 2
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 99to108"
-generated_at: "2026-03-30T04:51:23.660Z"
+generated_at: "2026-03-30T04:53:50.800Z"
 status: "repealed"
 ---
 

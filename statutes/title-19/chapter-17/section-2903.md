@@ -3,9 +3,9 @@ title: "Section 2903 - Implementation of trade agreements"
 usc_title: 19
 usc_section: "2903"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "19 U.S.C. § 2903"
-generated_at: "2026-03-30T04:50:25.589Z"
+generated_at: "2026-03-30T04:52:54.595Z"
 status: "active"
 ---
 

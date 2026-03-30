@@ -3,9 +3,9 @@ title: "Section 2711 - Definitions for chapter"
 usc_title: 18
 usc_section: "2711"
 chapter: 121
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 2711"
-generated_at: "2026-03-30T04:50:24.500Z"
+generated_at: "2026-03-30T04:52:52.208Z"
 status: "active"
 ---
 

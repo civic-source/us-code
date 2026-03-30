@@ -3,9 +3,9 @@ title: "Section 5145to5147 - Repealed. Pub. L. 89–718, § 35(5) , Nov. 2, 1966
 usc_title: 10
 usc_section: "5145to5147"
 chapter: 513
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 5145to5147"
-generated_at: "2026-03-30T04:50:11.206Z"
+generated_at: "2026-03-30T04:52:15.749Z"
 status: "repealed"
 ---
 

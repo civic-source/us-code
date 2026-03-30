@@ -3,9 +3,9 @@ title: "Section 70704 - Powers"
 usc_title: 36
 usc_section: "70704"
 chapter: 707
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "36 U.S.C. § 70704"
-generated_at: "2026-03-30T04:50:57.037Z"
+generated_at: "2026-03-30T04:53:25.639Z"
 status: "active"
 ---
 

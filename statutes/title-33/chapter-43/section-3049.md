@@ -3,9 +3,9 @@ title: "Section 3049 - Recall to active duty"
 usc_title: 33
 usc_section: "3049"
 chapter: 43
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "33 U.S.C. § 3049"
-generated_at: "2026-03-30T04:50:54.154Z"
+generated_at: "2026-03-30T04:53:19.813Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1647 - Home equity plans"
 usc_title: 15
 usc_section: "1647"
 chapter: 41
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 1647"
-generated_at: "2026-03-30T04:50:21.134Z"
+generated_at: "2026-03-30T04:52:46.617Z"
 status: "active"
 ---
 

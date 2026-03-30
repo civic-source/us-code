@@ -3,9 +3,9 @@ title: "Section 72a172a1a - Repealed. Pub. L. 90–57, § 105(i)(4) , (5), July 
 usc_title: 2
 usc_section: "72a172a1a"
 chapter: 4
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 72a172a1a"
-generated_at: "2026-03-30T04:49:52.744Z"
+generated_at: "2026-03-30T04:52:00.255Z"
 status: "repealed"
 ---
 

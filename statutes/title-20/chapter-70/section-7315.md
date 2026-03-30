@@ -3,9 +3,9 @@ title: "Section 7315 - State flexibility"
 usc_title: 20
 usc_section: "7315"
 chapter: 70
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 7315"
-generated_at: "2026-03-30T04:50:27.812Z"
+generated_at: "2026-03-30T04:52:57.228Z"
 status: "active"
 ---
 

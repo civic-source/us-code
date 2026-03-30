@@ -3,9 +3,9 @@ title: "Section 13793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13793"
 chapter: 136
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 13793"
-generated_at: "2026-03-30T04:51:24.261Z"
+generated_at: "2026-03-30T04:53:51.399Z"
 status: "active"
 ---
 

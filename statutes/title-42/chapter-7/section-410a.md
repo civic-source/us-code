@@ -3,9 +3,9 @@ title: "Section 410a - Transferred"
 usc_title: 42
 usc_section: "410a"
 chapter: 7
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 410a"
-generated_at: "2026-03-30T04:51:23.788Z"
+generated_at: "2026-03-30T04:53:50.926Z"
 status: "transferred"
 ---
 

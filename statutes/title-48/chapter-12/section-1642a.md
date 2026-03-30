@@ -3,9 +3,9 @@ title: "Section 1642a - Availability of collected customs duties for expenditure
 usc_title: 48
 usc_section: "1642a"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "48 U.S.C. § 1642a"
-generated_at: "2026-03-30T04:51:34.187Z"
+generated_at: "2026-03-30T04:54:09.052Z"
 status: "active"
 ---
 

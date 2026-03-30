@@ -3,9 +3,9 @@ title: "Section 921a - Policy of financing of rural telephone program"
 usc_title: 7
 usc_section: "921a"
 chapter: 31
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 921a"
-generated_at: "2026-03-30T04:49:59.970Z"
+generated_at: "2026-03-30T04:52:40.816Z"
 status: "active"
 ---
 

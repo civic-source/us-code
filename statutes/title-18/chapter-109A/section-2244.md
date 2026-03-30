@@ -3,9 +3,9 @@ title: "Section 2244 - Abusive sexual contact"
 usc_title: 18
 usc_section: "2244"
 chapter: 109
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 2244"
-generated_at: "2026-03-30T04:50:24.491Z"
+generated_at: "2026-03-30T04:52:52.200Z"
 status: "active"
 ---
 

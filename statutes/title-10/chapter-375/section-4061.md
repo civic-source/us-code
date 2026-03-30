@@ -3,9 +3,9 @@ title: "Section 4061 - Fatality reviews"
 usc_title: 10
 usc_section: "4061"
 chapter: 375
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 4061"
-generated_at: "2026-03-30T04:50:11.200Z"
+generated_at: "2026-03-30T04:52:15.744Z"
 status: "active"
 ---
 

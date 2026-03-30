@@ -3,9 +3,9 @@ title: "Section 752 - Water rights"
 usc_title: 25
 usc_section: "752"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 752"
-generated_at: "2026-03-30T04:50:34.747Z"
+generated_at: "2026-03-30T04:53:04.673Z"
 status: "active"
 ---
 

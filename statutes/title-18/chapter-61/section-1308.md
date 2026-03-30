@@ -3,9 +3,9 @@ title: "Section 1308 - Limitation of applicability"
 usc_title: 18
 usc_section: "1308"
 chapter: 61
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 1308"
-generated_at: "2026-03-30T04:50:24.481Z"
+generated_at: "2026-03-30T04:52:52.191Z"
 status: "active"
 ---
 

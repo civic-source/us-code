@@ -3,9 +3,9 @@ title: "Section 18101 - Definitions"
 usc_title: 40
 usc_section: "18101"
 chapter: 181
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "40 U.S.C. § 18101"
-generated_at: "2026-03-30T04:51:04.339Z"
+generated_at: "2026-03-30T04:53:26.020Z"
 status: "active"
 ---
 

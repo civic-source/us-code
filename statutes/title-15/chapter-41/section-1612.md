@@ -3,9 +3,9 @@ title: "Section 1612 - Effect on government agencies"
 usc_title: 15
 usc_section: "1612"
 chapter: 41
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 1612"
-generated_at: "2026-03-30T04:50:21.128Z"
+generated_at: "2026-03-30T04:52:46.612Z"
 status: "active"
 ---
 

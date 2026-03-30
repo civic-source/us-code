@@ -3,9 +3,9 @@ title: "Section 13414 - Natural gas end-use technologies"
 usc_title: 42
 usc_section: "13414"
 chapter: 134
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 13414"
-generated_at: "2026-03-30T04:51:24.254Z"
+generated_at: "2026-03-30T04:53:51.393Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51to53 - Repealed. Pub. L. 101–189, div. A, title III, § 347(
 usc_title: 24
 usc_section: "51to53"
 chapter: 2
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "24 U.S.C. § 51to53"
-generated_at: "2026-03-30T04:50:31.922Z"
+generated_at: "2026-03-30T04:53:01.990Z"
 status: "repealed"
 ---
 

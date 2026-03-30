@@ -3,9 +3,9 @@ title: "Section 5007to5009 - Repealed Pub. L. 94–233, § 5 , Mar. 15, 1976 , 9
 usc_title: 18
 usc_section: "5007to5009"
 chapter: 402
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 5007to5009"
-generated_at: "2026-03-30T04:50:24.517Z"
+generated_at: "2026-03-30T04:52:52.223Z"
 status: "repealed"
 ---
 

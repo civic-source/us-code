@@ -3,9 +3,9 @@ title: "Section 1628 - Repealed. Pub. L. 93–86, § 2 , Aug. 10, 1973 , 87 Stat
 usc_title: 7
 usc_section: "1628"
 chapter: 38
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 1628"
-generated_at: "2026-03-30T04:49:59.996Z"
+generated_at: "2026-03-30T04:52:40.845Z"
 status: "repealed"
 ---
 

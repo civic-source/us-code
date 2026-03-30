@@ -3,9 +3,9 @@ title: "Section 3032 - The Army Staff: general duties"
 usc_title: 10
 usc_section: "3032"
 chapter: 305
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 3032"
-generated_at: "2026-03-30T04:50:11.197Z"
+generated_at: "2026-03-30T04:52:15.741Z"
 status: "active"
 ---
 

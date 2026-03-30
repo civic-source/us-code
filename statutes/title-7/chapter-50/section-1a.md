@@ -3,9 +3,9 @@ title: "Section 1a - Interstate cooperation for economic opportunity and efficie
 usc_title: 7
 usc_section: "1a"
 chapter: 50
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T04:50:00.017Z"
+generated_at: "2026-03-30T04:52:40.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1665i - Training and community education"
 usc_title: 25
 usc_section: "1665i"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 1665i"
-generated_at: "2026-03-30T04:50:34.769Z"
+generated_at: "2026-03-30T04:53:04.695Z"
 status: "active"
 ---
 

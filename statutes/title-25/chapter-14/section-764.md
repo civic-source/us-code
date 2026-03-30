@@ -3,9 +3,9 @@ title: "Section 764 - Interim Council"
 usc_title: 25
 usc_section: "764"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 764"
-generated_at: "2026-03-30T04:50:34.748Z"
+generated_at: "2026-03-30T04:53:04.673Z"
 status: "active"
 ---
 

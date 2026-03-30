@@ -3,9 +3,9 @@ title: "Section 2534 - Contracts and grants to States, educational agencies, etc
 usc_title: 20
 usc_section: "2534"
 chapter: 45
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 2534"
-generated_at: "2026-03-30T04:50:27.770Z"
+generated_at: "2026-03-30T04:52:57.183Z"
 status: "active"
 ---
 

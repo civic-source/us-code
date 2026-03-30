@@ -3,9 +3,9 @@ title: "Section 312 - Effect on earnings and profits"
 usc_title: 26
 usc_section: "312"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 312"
-generated_at: "2026-03-30T04:50:49.432Z"
+generated_at: "2026-03-30T04:53:16.496Z"
 status: "active"
 ---
 

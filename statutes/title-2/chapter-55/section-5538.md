@@ -3,9 +3,9 @@ title: "Section 5538 - Net Expenses of Telecommunications Revolving Fund"
 usc_title: 2
 usc_section: "5538"
 chapter: 55
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 5538"
-generated_at: "2026-03-30T04:49:52.785Z"
+generated_at: "2026-03-30T04:52:00.298Z"
 status: "active"
 ---
 

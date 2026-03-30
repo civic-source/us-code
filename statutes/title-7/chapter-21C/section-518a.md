@@ -3,9 +3,9 @@ title: "Section 518a - Contract payments to tobacco quota holders"
 usc_title: 7
 usc_section: "518a"
 chapter: 21
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 518a"
-generated_at: "2026-03-30T04:49:59.964Z"
+generated_at: "2026-03-30T04:52:40.810Z"
 status: "active"
 ---
 

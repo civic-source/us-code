@@ -3,9 +3,9 @@ title: "Section 5236 - Discontinuance of storage facilities and transfer of dist
 usc_title: 26
 usc_section: "5236"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 5236"
-generated_at: "2026-03-30T04:50:49.560Z"
+generated_at: "2026-03-30T04:53:16.625Z"
 status: "active"
 ---
 

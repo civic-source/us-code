@@ -3,9 +3,9 @@ title: "Section 1621a - Catastrophic Health Emergency Fund"
 usc_title: 25
 usc_section: "1621a"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 1621a"
-generated_at: "2026-03-30T04:50:34.763Z"
+generated_at: "2026-03-30T04:53:04.690Z"
 status: "active"
 ---
 

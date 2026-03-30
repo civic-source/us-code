@@ -3,9 +3,9 @@ title: "Section 4343a - Omitted"
 usc_title: 2
 usc_section: "4343a"
 chapter: 3
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 4343a"
-generated_at: "2026-03-30T04:49:52.743Z"
+generated_at: "2026-03-30T04:52:00.252Z"
 status: "omitted"
 ---
 

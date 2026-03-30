@@ -3,9 +3,9 @@ title: "Section 7502 - Program coordination"
 usc_title: 15
 usc_section: "7502"
 chapter: 101
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 7502"
-generated_at: "2026-03-30T04:50:21.201Z"
+generated_at: "2026-03-30T04:52:46.685Z"
 status: "active"
 ---
 

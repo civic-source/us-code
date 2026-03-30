@@ -3,9 +3,9 @@ title: "Section 342a - Extension of boundary limits"
 usc_title: 16
 usc_section: "342a"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 342a"
-generated_at: "2026-03-30T04:50:29.855Z"
+generated_at: "2026-03-30T04:52:59.894Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 610 - Repayment of student loan on behalf of employee"
 usc_title: 2
 usc_section: "610"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 610"
-generated_at: "2026-03-30T04:49:52.755Z"
+generated_at: "2026-03-30T04:52:00.266Z"
 status: "active"
 ---
 

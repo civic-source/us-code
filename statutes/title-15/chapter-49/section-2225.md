@@ -3,9 +3,9 @@ title: "Section 2225 - Fire prevention and control guidelines for places of publ
 usc_title: 15
 usc_section: "2225"
 chapter: 49
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 2225"
-generated_at: "2026-03-30T04:50:21.156Z"
+generated_at: "2026-03-30T04:52:46.639Z"
 status: "active"
 ---
 

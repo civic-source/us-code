@@ -3,9 +3,9 @@ title: "Section 103103a - Omitted"
 usc_title: 8
 usc_section: "103103a"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "8 U.S.C. § 103103a"
-generated_at: "2026-03-30T04:50:02.207Z"
+generated_at: "2026-03-30T04:52:16.691Z"
 status: "omitted"
 ---
 

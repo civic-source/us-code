@@ -3,9 +3,9 @@ title: "Section 5366 - Criminal penalties"
 usc_title: 31
 usc_section: "5366"
 chapter: 53
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "31 U.S.C. § 5366"
-generated_at: "2026-03-30T04:50:52.314Z"
+generated_at: "2026-03-30T04:53:22.384Z"
 status: "active"
 ---
 

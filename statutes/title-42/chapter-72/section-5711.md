@@ -3,9 +3,9 @@ title: "Section 5711 - Authority to make grants"
 usc_title: 42
 usc_section: "5711"
 chapter: 72
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 5711"
-generated_at: "2026-03-30T04:51:24.079Z"
+generated_at: "2026-03-30T04:53:51.215Z"
 status: "active"
 ---
 

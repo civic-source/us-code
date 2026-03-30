@@ -3,9 +3,9 @@ title: "Section 1862 - Amount of investment in bank service company"
 usc_title: 12
 usc_section: "1862"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "12 U.S.C. § 1862"
-generated_at: "2026-03-30T04:50:16.268Z"
+generated_at: "2026-03-30T04:52:48.729Z"
 status: "active"
 ---
 

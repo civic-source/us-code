@@ -3,9 +3,9 @@ title: "Section 7301 - Grants for State assessments and related activities"
 usc_title: 20
 usc_section: "7301"
 chapter: 70
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 7301"
-generated_at: "2026-03-30T04:50:27.812Z"
+generated_at: "2026-03-30T04:52:57.227Z"
 status: "active"
 ---
 

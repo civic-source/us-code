@@ -3,9 +3,9 @@ title: "Section 1922 - Service disabled veterans’ insurance"
 usc_title: 38
 usc_section: "1922"
 chapter: 19
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "38 U.S.C. § 1922"
-generated_at: "2026-03-30T04:50:58.801Z"
+generated_at: "2026-03-30T04:53:27.067Z"
 status: "active"
 ---
 

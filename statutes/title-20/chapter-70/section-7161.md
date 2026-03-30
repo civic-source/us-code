@@ -3,9 +3,9 @@ title: "Section 7161 - Definitions"
 usc_title: 20
 usc_section: "7161"
 chapter: 70
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 7161"
-generated_at: "2026-03-30T04:50:27.804Z"
+generated_at: "2026-03-30T04:52:57.219Z"
 status: "active"
 ---
 

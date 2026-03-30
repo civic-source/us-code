@@ -3,9 +3,9 @@ title: "Section 490 - Travel and transportation: dependent children of members s
 usc_title: 37
 usc_section: "490"
 chapter: 8
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "37 U.S.C. § 490"
-generated_at: "2026-03-30T04:51:03.963Z"
+generated_at: "2026-03-30T04:53:25.075Z"
 status: "active"
 ---
 

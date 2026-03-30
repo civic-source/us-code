@@ -3,9 +3,9 @@ title: "Section 300ee - Use of funds"
 usc_title: 42
 usc_section: "300ee"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 300ee"
-generated_at: "2026-03-30T04:51:23.762Z"
+generated_at: "2026-03-30T04:53:50.899Z"
 status: "active"
 ---
 

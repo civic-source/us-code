@@ -3,9 +3,9 @@ title: "Section 4105 - Disaster mitigation requirements; notification to flood-p
 usc_title: 42
 usc_section: "4105"
 chapter: 50
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 4105"
-generated_at: "2026-03-30T04:51:24.049Z"
+generated_at: "2026-03-30T04:53:51.186Z"
 status: "active"
 ---
 

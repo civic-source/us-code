@@ -3,9 +3,9 @@ title: "Section 81b - Revision of boundaries"
 usc_title: 16
 usc_section: "81b"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 81b"
-generated_at: "2026-03-30T04:50:29.844Z"
+generated_at: "2026-03-30T04:52:59.882Z"
 status: "active"
 ---
 

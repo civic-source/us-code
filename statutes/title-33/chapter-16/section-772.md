@@ -3,9 +3,9 @@ title: "Section 772 - Death of employee due to non-service-connected causes afte
 usc_title: 33
 usc_section: "772"
 chapter: 16
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "33 U.S.C. § 772"
-generated_at: "2026-03-30T04:50:54.106Z"
+generated_at: "2026-03-30T04:53:19.768Z"
 status: "active"
 ---
 

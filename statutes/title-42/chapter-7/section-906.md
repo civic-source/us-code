@@ -3,9 +3,9 @@ title: "Section 906 - Training grants for public welfare personnel"
 usc_title: 42
 usc_section: "906"
 chapter: 7
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 906"
-generated_at: "2026-03-30T04:51:23.815Z"
+generated_at: "2026-03-30T04:53:50.952Z"
 status: "active"
 ---
 

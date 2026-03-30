@@ -3,9 +3,9 @@ title: "Section 858 - Endangering human life while illegally manufacturing contr
 usc_title: 21
 usc_section: "858"
 chapter: 13
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "21 U.S.C. § 858"
-generated_at: "2026-03-30T04:50:33.563Z"
+generated_at: "2026-03-30T04:53:03.431Z"
 status: "active"
 ---
 

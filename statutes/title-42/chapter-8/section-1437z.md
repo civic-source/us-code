@@ -3,9 +3,9 @@ title: "Section 1437z - Exchange of information with law enforcement agencies"
 usc_title: 42
 usc_section: "1437z"
 chapter: 8
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 1437z"
-generated_at: "2026-03-30T04:51:23.949Z"
+generated_at: "2026-03-30T04:53:51.086Z"
 status: "active"
 ---
 

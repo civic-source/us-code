@@ -3,9 +3,9 @@ title: "Section 4542 - Housing Price Index"
 usc_title: 12
 usc_section: "4542"
 chapter: 46
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "12 U.S.C. § 4542"
-generated_at: "2026-03-30T04:50:16.300Z"
+generated_at: "2026-03-30T04:52:48.765Z"
 status: "active"
 ---
 

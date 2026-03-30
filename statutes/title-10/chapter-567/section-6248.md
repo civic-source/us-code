@@ -3,9 +3,9 @@ title: "Section 6248 - Limitations of time"
 usc_title: 10
 usc_section: "6248"
 chapter: 567
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 6248"
-generated_at: "2026-03-30T04:50:11.208Z"
+generated_at: "2026-03-30T04:52:15.752Z"
 status: "active"
 ---
 

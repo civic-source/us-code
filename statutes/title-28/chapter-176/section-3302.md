@@ -3,9 +3,9 @@ title: "Section 3302 - Insolvency"
 usc_title: 28
 usc_section: "3302"
 chapter: 176
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "28 U.S.C. § 3302"
-generated_at: "2026-03-30T04:50:41.073Z"
+generated_at: "2026-03-30T04:53:09.743Z"
 status: "active"
 ---
 

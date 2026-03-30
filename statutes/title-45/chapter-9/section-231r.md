@@ -3,9 +3,9 @@ title: "Section 231r - Automatic benefit eligibility requirement adjustments"
 usc_title: 45
 usc_section: "231r"
 chapter: 9
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "45 U.S.C. § 231r"
-generated_at: "2026-03-30T04:51:06.352Z"
+generated_at: "2026-03-30T04:53:31.201Z"
 status: "active"
 ---
 

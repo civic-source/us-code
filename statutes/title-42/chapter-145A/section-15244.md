@@ -3,9 +3,9 @@ title: "Section 15244 - Presentation of Federal Law Enforcement Badges"
 usc_title: 42
 usc_section: "15244"
 chapter: 145
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 15244"
-generated_at: "2026-03-30T04:51:24.282Z"
+generated_at: "2026-03-30T04:53:51.419Z"
 status: "active"
 ---
 

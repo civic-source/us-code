@@ -3,9 +3,9 @@ title: "Section 3303 - Designation of depositaries"
 usc_title: 31
 usc_section: "3303"
 chapter: 33
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "31 U.S.C. § 3303"
-generated_at: "2026-03-30T04:50:52.302Z"
+generated_at: "2026-03-30T04:53:22.371Z"
 status: "active"
 ---
 

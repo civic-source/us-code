@@ -3,9 +3,9 @@ title: "Section 642 - Budget-related legislation must be within appropriate leve
 usc_title: 2
 usc_section: "642"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 642"
-generated_at: "2026-03-30T04:49:52.756Z"
+generated_at: "2026-03-30T04:52:00.267Z"
 status: "active"
 ---
 

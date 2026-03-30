@@ -3,9 +3,9 @@ title: "Section 7171 - Appointment and administration"
 usc_title: 42
 usc_section: "7171"
 chapter: 84
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 7171"
-generated_at: "2026-03-30T04:51:24.119Z"
+generated_at: "2026-03-30T04:53:51.257Z"
 status: "active"
 ---
 

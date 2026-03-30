@@ -3,9 +3,9 @@ title: "Section 1821 - Omitted"
 usc_title: 20
 usc_section: "1821"
 chapter: 40
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 1821"
-generated_at: "2026-03-30T04:50:27.765Z"
+generated_at: "2026-03-30T04:52:57.177Z"
 status: "omitted"
 ---
 

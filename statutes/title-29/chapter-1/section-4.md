@@ -3,9 +3,9 @@ title: "Section 4 - Duties of Commissioner in general"
 usc_title: 29
 usc_section: "4"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "29 U.S.C. § 4"
-generated_at: "2026-03-30T04:50:42.113Z"
+generated_at: "2026-03-30T04:53:10.563Z"
 status: "active"
 ---
 

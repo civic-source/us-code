@@ -3,9 +3,9 @@ title: "Section 413 - Retention of existing rights of members"
 usc_title: 29
 usc_section: "413"
 chapter: 11
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "29 U.S.C. § 413"
-generated_at: "2026-03-30T04:50:42.122Z"
+generated_at: "2026-03-30T04:53:10.572Z"
 status: "active"
 ---
 

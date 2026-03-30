@@ -3,9 +3,9 @@ title: "Section 7311 - Quality assurance"
 usc_title: 38
 usc_section: "7311"
 chapter: 73
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "38 U.S.C. § 7311"
-generated_at: "2026-03-30T04:50:58.831Z"
+generated_at: "2026-03-30T04:53:27.098Z"
 status: "active"
 ---
 

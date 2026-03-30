@@ -3,9 +3,9 @@ title: "Section 62 - Preemption and application"
 usc_title: 42
 usc_section: "62"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 62"
-generated_at: "2026-03-30T04:51:23.773Z"
+generated_at: "2026-03-30T04:53:50.911Z"
 status: "active"
 ---
 

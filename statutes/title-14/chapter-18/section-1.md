@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 14
 usc_section: "1"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-30T04:50:14.175Z"
+generated_at: "2026-03-30T04:52:43.314Z"
 status: "active"
 ---
 

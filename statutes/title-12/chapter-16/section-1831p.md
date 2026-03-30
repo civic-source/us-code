@@ -3,9 +3,9 @@ title: "Section 1831p - Transferred"
 usc_title: 12
 usc_section: "1831p"
 chapter: 16
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "12 U.S.C. § 1831p"
-generated_at: "2026-03-30T04:50:16.260Z"
+generated_at: "2026-03-30T04:52:48.720Z"
 status: "transferred"
 ---
 

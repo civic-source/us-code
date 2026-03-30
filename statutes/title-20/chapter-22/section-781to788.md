@@ -3,9 +3,9 @@ title: "Section 781to788 - Repealed. Pub. L. 91–346, § 5(d)(3)(B) , July 20, 
 usc_title: 20
 usc_section: "781to788"
 chapter: 22
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 781to788"
-generated_at: "2026-03-30T04:50:27.695Z"
+generated_at: "2026-03-30T04:52:57.104Z"
 status: "repealed"
 ---
 

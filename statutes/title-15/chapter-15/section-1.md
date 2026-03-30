@@ -3,9 +3,9 @@ title: "Section 1 - Annual report to Congress by Federal Surplus Commodities Cor
 usc_title: 15
 usc_section: "1"
 chapter: 15
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T04:50:21.106Z"
+generated_at: "2026-03-30T04:52:46.589Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 484 - Conversion of exchange assignments of tribal lands on cert
 usc_title: 25
 usc_section: "484"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 484"
-generated_at: "2026-03-30T04:50:34.734Z"
+generated_at: "2026-03-30T04:53:04.660Z"
 status: "active"
 ---
 

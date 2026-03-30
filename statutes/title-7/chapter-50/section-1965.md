@@ -3,9 +3,9 @@ title: "Section 1965 - Repealed. Pub. L. 95–334, title I, § 120 , Aug. 4, 197
 usc_title: 7
 usc_section: "1965"
 chapter: 50
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 1965"
-generated_at: "2026-03-30T04:50:00.010Z"
+generated_at: "2026-03-30T04:52:40.942Z"
 status: "repealed"
 ---
 

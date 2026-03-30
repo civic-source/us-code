@@ -3,9 +3,9 @@ title: "Section 390c - Applicability of Federal Advisory Committee Act"
 usc_title: 7
 usc_section: "390c"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 390c"
-generated_at: "2026-03-30T04:49:59.959Z"
+generated_at: "2026-03-30T04:52:40.804Z"
 status: "active"
 ---
 

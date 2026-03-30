@@ -3,9 +3,9 @@ title: "Section 2001 - Purpose"
 usc_title: 38
 usc_section: "2001"
 chapter: 20
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "38 U.S.C. § 2001"
-generated_at: "2026-03-30T04:50:58.803Z"
+generated_at: "2026-03-30T04:53:27.069Z"
 status: "active"
 ---
 

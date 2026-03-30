@@ -3,9 +3,9 @@ title: "Section 390b - Repealed. Pub. L. 107–171, title VII, § 7308(a) , May 
 usc_title: 7
 usc_section: "390b"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 390b"
-generated_at: "2026-03-30T04:49:59.959Z"
+generated_at: "2026-03-30T04:52:40.804Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7836 - Transferred"
 usc_title: 42
 usc_section: "7836"
 chapter: 87
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 7836"
-generated_at: "2026-03-30T04:51:24.156Z"
+generated_at: "2026-03-30T04:53:51.294Z"
 status: "transferred"
 ---
 

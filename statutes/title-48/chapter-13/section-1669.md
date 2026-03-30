@@ -3,9 +3,9 @@ title: "Section 1669 - Administration and enforcement of collection of customs d
 usc_title: 48
 usc_section: "1669"
 chapter: 13
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "48 U.S.C. § 1669"
-generated_at: "2026-03-30T04:51:34.187Z"
+generated_at: "2026-03-30T04:54:09.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14136b - DNA research and development"
 usc_title: 42
 usc_section: "14136b"
 chapter: 136
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 14136b"
-generated_at: "2026-03-30T04:51:24.271Z"
+generated_at: "2026-03-30T04:53:51.409Z"
 status: "active"
 ---
 

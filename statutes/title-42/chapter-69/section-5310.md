@@ -3,9 +3,9 @@ title: "Section 5310 - Labor standards; rate of wages; exceptions; enforcement p
 usc_title: 42
 usc_section: "5310"
 chapter: 69
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 5310"
-generated_at: "2026-03-30T04:51:24.071Z"
+generated_at: "2026-03-30T04:53:51.207Z"
 status: "active"
 ---
 

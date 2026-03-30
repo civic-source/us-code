@@ -3,9 +3,9 @@ title: "Section 31341 - Persons presumed to have authority to procure necessarie
 usc_title: 46
 usc_section: "31341"
 chapter: 313
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 31341"
-generated_at: "2026-03-30T04:51:27.390Z"
+generated_at: "2026-03-30T04:53:54.985Z"
 status: "active"
 ---
 

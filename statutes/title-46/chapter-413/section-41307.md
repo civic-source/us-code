@@ -3,9 +3,9 @@ title: "Section 41307 - Injunctive relief sought by the Commission"
 usc_title: 46
 usc_section: "41307"
 chapter: 413
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 41307"
-generated_at: "2026-03-30T04:51:27.393Z"
+generated_at: "2026-03-30T04:53:54.987Z"
 status: "active"
 ---
 

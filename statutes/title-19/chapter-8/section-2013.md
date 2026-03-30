@@ -3,9 +3,9 @@ title: "Section 2013 - Effective date of proclamations"
 usc_title: 19
 usc_section: "2013"
 chapter: 8
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "19 U.S.C. § 2013"
-generated_at: "2026-03-30T04:50:25.569Z"
+generated_at: "2026-03-30T04:52:54.574Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6702 - Local Government Fiscal Assistance Fund"
 usc_title: 31
 usc_section: "6702"
 chapter: 67
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "31 U.S.C. § 6702"
-generated_at: "2026-03-30T04:50:52.316Z"
+generated_at: "2026-03-30T04:53:22.385Z"
 status: "active"
 ---
 

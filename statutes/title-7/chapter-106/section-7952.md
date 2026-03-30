@@ -3,9 +3,9 @@ title: "Section 7952 - Establishment of payment yield and base acres for peanuts
 usc_title: 7
 usc_section: "7952"
 chapter: 106
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 7952"
-generated_at: "2026-03-30T04:50:00.090Z"
+generated_at: "2026-03-30T04:52:41.028Z"
 status: "active"
 ---
 

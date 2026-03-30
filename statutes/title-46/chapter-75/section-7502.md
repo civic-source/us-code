@@ -3,9 +3,9 @@ title: "Section 7502 - Records"
 usc_title: 46
 usc_section: "7502"
 chapter: 75
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 7502"
-generated_at: "2026-03-30T04:51:27.381Z"
+generated_at: "2026-03-30T04:53:54.975Z"
 status: "active"
 ---
 

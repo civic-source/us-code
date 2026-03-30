@@ -3,9 +3,9 @@ title: "Section 3600A - Preservation of biological evidence"
 usc_title: 18
 usc_section: "3600A"
 chapter: 228
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 3600A"
-generated_at: "2026-03-30T04:50:24.511Z"
+generated_at: "2026-03-30T04:52:52.217Z"
 status: "active"
 ---
 

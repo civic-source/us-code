@@ -3,9 +3,9 @@ title: "Section 2 - Transferred"
 usc_title: 2
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 2"
-generated_at: "2026-03-30T04:49:52.743Z"
+generated_at: "2026-03-30T04:52:00.253Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 549 - Repealed. Pub. L. 96–470, title I, § 104(c) , Oct. 19, 
 usc_title: 33
 usc_section: "549"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "33 U.S.C. § 549"
-generated_at: "2026-03-30T04:50:54.097Z"
+generated_at: "2026-03-30T04:53:19.759Z"
 status: "repealed"
 ---
 

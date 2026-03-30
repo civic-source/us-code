@@ -3,9 +3,9 @@ title: "Section 1744 - Hiring and retention of nurses: payments to assist States
 usc_title: 38
 usc_section: "1744"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "38 U.S.C. § 1744"
-generated_at: "2026-03-30T04:50:58.799Z"
+generated_at: "2026-03-30T04:53:27.065Z"
 status: "active"
 ---
 

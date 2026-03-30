@@ -3,9 +3,9 @@ title: "Section 1300k - Findings"
 usc_title: 25
 usc_section: "1300k"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 1300k"
-generated_at: "2026-03-30T04:50:34.758Z"
+generated_at: "2026-03-30T04:53:04.684Z"
 status: "active"
 ---
 

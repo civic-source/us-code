@@ -3,9 +3,9 @@ title: "Section 2101 - Riots"
 usc_title: 18
 usc_section: "2101"
 chapter: 102
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 2101"
-generated_at: "2026-03-30T04:50:24.490Z"
+generated_at: "2026-03-30T04:52:52.199Z"
 status: "active"
 ---
 

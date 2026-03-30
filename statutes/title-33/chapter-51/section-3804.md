@@ -3,9 +3,9 @@ title: "Section 3804 - Compliance with international law"
 usc_title: 33
 usc_section: "3804"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "33 U.S.C. § 3804"
-generated_at: "2026-03-30T04:50:54.158Z"
+generated_at: "2026-03-30T04:53:19.818Z"
 status: "active"
 ---
 

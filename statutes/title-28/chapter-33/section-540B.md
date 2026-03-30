@@ -3,9 +3,9 @@ title: "Section 540B - Investigation of serial killings"
 usc_title: 28
 usc_section: "540B"
 chapter: 33
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "28 U.S.C. § 540B"
-generated_at: "2026-03-30T04:50:41.053Z"
+generated_at: "2026-03-30T04:53:09.722Z"
 status: "active"
 ---
 

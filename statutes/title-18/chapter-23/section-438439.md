@@ -3,9 +3,9 @@ title: "Section 438439 - Repealed. Pub. L. 106–568, title VIII, § 812(c)(2) ,
 usc_title: 18
 usc_section: "438439"
 chapter: 23
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 438439"
-generated_at: "2026-03-30T04:50:24.465Z"
+generated_at: "2026-03-30T04:52:52.176Z"
 status: "repealed"
 ---
 

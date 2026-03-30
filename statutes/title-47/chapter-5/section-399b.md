@@ -3,9 +3,9 @@ title: "Section 399b - Offering of certain services, facilities, or products by 
 usc_title: 47
 usc_section: "399b"
 chapter: 5
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "47 U.S.C. § 399b"
-generated_at: "2026-03-30T04:51:41.457Z"
+generated_at: "2026-03-30T04:53:54.304Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 673 - Statistics"
 usc_title: 29
 usc_section: "673"
 chapter: 15
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "29 U.S.C. § 673"
-generated_at: "2026-03-30T04:50:42.126Z"
+generated_at: "2026-03-30T04:53:10.578Z"
 status: "active"
 ---
 

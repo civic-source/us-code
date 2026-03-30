@@ -3,9 +3,9 @@ title: "Section 5329 - Staff commentaries"
 usc_title: 31
 usc_section: "5329"
 chapter: 53
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "31 U.S.C. § 5329"
-generated_at: "2026-03-30T04:50:52.313Z"
+generated_at: "2026-03-30T04:53:22.383Z"
 status: "active"
 ---
 

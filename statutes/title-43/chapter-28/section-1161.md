@@ -3,9 +3,9 @@ title: "Section 1161 - “Suspended entries of public lands” and “suspended 
 usc_title: 43
 usc_section: "1161"
 chapter: 28
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 1161"
-generated_at: "2026-03-30T04:51:07.211Z"
+generated_at: "2026-03-30T04:53:30.807Z"
 status: "active"
 ---
 

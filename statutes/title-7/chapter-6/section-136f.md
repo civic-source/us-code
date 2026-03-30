@@ -3,9 +3,9 @@ title: "Section 136f - Books and records"
 usc_title: 7
 usc_section: "136f"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 136f"
-generated_at: "2026-03-30T04:49:59.944Z"
+generated_at: "2026-03-30T04:52:40.787Z"
 status: "active"
 ---
 

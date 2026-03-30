@@ -3,9 +3,9 @@ title: "Section 6804 - Recreation passes"
 usc_title: 16
 usc_section: "6804"
 chapter: 87
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "16 U.S.C. § 6804"
-generated_at: "2026-03-30T04:50:30.055Z"
+generated_at: "2026-03-30T04:53:00.105Z"
 status: "active"
 ---
 

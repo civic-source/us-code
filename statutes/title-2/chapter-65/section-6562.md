@@ -3,9 +3,9 @@ title: "Section 6562 - Transfers of funds by Secretary of Senate; approval of Co
 usc_title: 2
 usc_section: "6562"
 chapter: 65
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 6562"
-generated_at: "2026-03-30T04:49:52.788Z"
+generated_at: "2026-03-30T04:52:00.302Z"
 status: "active"
 ---
 

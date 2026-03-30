@@ -3,9 +3,9 @@ title: "Section 856a - Art. 56a. Sentence of confinement for life without eligib
 usc_title: 10
 usc_section: "856a"
 chapter: 47
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 856a"
-generated_at: "2026-03-30T04:50:11.122Z"
+generated_at: "2026-03-30T04:52:15.606Z"
 status: "active"
 ---
 

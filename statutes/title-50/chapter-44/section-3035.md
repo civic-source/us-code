@@ -3,9 +3,9 @@ title: "Section 3035 - Central Intelligence Agency"
 usc_title: 50
 usc_section: "3035"
 chapter: 44
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "50 U.S.C. § 3035"
-generated_at: "2026-03-30T04:51:43.210Z"
+generated_at: "2026-03-30T04:54:03.047Z"
 status: "active"
 ---
 

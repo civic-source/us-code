@@ -3,9 +3,9 @@ title: "Section 6255 - Definitions and special rules"
 usc_title: 26
 usc_section: "6255"
 chapter: 63
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 6255"
-generated_at: "2026-03-30T04:50:49.582Z"
+generated_at: "2026-03-30T04:53:16.646Z"
 status: "active"
 ---
 

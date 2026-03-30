@@ -3,9 +3,9 @@ title: "Section 983 - Definitions"
 usc_title: 25
 usc_section: "983"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 983"
-generated_at: "2026-03-30T04:50:34.751Z"
+generated_at: "2026-03-30T04:53:04.678Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1907b - Funds available for workers compensation payments"
 usc_title: 2
 usc_section: "1907b"
 chapter: 29
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 1907b"
-generated_at: "2026-03-30T04:49:52.772Z"
+generated_at: "2026-03-30T04:52:00.284Z"
 status: "active"
 ---
 

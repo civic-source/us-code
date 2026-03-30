@@ -3,9 +3,9 @@ title: "Section 2242 - Duties of employees of Capitol Guide Service"
 usc_title: 2
 usc_section: "2242"
 chapter: 31
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 2242"
-generated_at: "2026-03-30T04:49:52.778Z"
+generated_at: "2026-03-30T04:52:00.292Z"
 status: "active"
 ---
 

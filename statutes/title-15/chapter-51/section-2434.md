@@ -3,9 +3,9 @@ title: "Section 2434 - Internal productivity"
 usc_title: 15
 usc_section: "2434"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "15 U.S.C. § 2434"
-generated_at: "2026-03-30T04:50:21.159Z"
+generated_at: "2026-03-30T04:52:46.642Z"
 status: "active"
 ---
 

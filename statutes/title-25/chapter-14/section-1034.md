@@ -3,9 +3,9 @@ title: "Section 1034 - Cherokee Band; per capita distribution"
 usc_title: 25
 usc_section: "1034"
 chapter: 14
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 1034"
-generated_at: "2026-03-30T04:50:34.753Z"
+generated_at: "2026-03-30T04:53:04.678Z"
 status: "active"
 ---
 

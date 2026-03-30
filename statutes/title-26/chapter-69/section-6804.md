@@ -3,9 +3,9 @@ title: "Section 6804 - Attachment and cancellation"
 usc_title: 26
 usc_section: "6804"
 chapter: 69
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 6804"
-generated_at: "2026-03-30T04:50:49.596Z"
+generated_at: "2026-03-30T04:53:16.660Z"
 status: "active"
 ---
 

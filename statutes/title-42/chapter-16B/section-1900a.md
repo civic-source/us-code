@@ -3,9 +3,9 @@ title: "Section 1900a - Rules and regulations"
 usc_title: 42
 usc_section: "1900a"
 chapter: 16
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 1900a"
-generated_at: "2026-03-30T04:51:23.982Z"
+generated_at: "2026-03-30T04:53:51.118Z"
 status: "active"
 ---
 

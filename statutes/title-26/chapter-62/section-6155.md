@@ -3,9 +3,9 @@ title: "Section 6155 - Payment on notice and demand"
 usc_title: 26
 usc_section: "6155"
 chapter: 62
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 6155"
-generated_at: "2026-03-30T04:50:49.578Z"
+generated_at: "2026-03-30T04:53:16.642Z"
 status: "active"
 ---
 

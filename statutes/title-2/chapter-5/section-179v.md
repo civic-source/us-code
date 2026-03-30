@@ -3,9 +3,9 @@ title: "Section 179v - Authorization of appropriations"
 usc_title: 2
 usc_section: "179v"
 chapter: 5
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 179v"
-generated_at: "2026-03-30T04:49:52.749Z"
+generated_at: "2026-03-30T04:52:00.259Z"
 status: "active"
 ---
 

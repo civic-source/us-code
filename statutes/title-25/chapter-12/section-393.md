@@ -3,9 +3,9 @@ title: "Section 393 - Leases of restricted allotments"
 usc_title: 25
 usc_section: "393"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 393"
-generated_at: "2026-03-30T04:50:34.725Z"
+generated_at: "2026-03-30T04:53:04.651Z"
 status: "active"
 ---
 

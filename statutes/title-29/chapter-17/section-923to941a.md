@@ -3,9 +3,9 @@ title: "Section 923to941a - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , 
 usc_title: 29
 usc_section: "923to941a"
 chapter: 17
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "29 U.S.C. § 923to941a"
-generated_at: "2026-03-30T04:50:42.137Z"
+generated_at: "2026-03-30T04:53:10.588Z"
 status: "repealed"
 ---
 

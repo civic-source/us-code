@@ -3,9 +3,9 @@ title: "Section 2645 - Decisions"
 usc_title: 28
 usc_section: "2645"
 chapter: 169
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "28 U.S.C. § 2645"
-generated_at: "2026-03-30T04:50:41.071Z"
+generated_at: "2026-03-30T04:53:09.740Z"
 status: "active"
 ---
 

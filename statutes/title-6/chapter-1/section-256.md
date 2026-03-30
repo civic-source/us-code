@@ -3,9 +3,9 @@ title: "Section 256 - Sense of Congress regarding construction of fencing near S
 usc_title: 6
 usc_section: "256"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "6 U.S.C. § 256"
-generated_at: "2026-03-30T04:50:01.246Z"
+generated_at: "2026-03-30T04:52:10.451Z"
 status: "active"
 ---
 

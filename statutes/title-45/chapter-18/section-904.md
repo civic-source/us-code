@@ -3,9 +3,9 @@ title: "Section 904 - Court approved abandonments and sales"
 usc_title: 45
 usc_section: "904"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "45 U.S.C. § 904"
-generated_at: "2026-03-30T04:51:06.361Z"
+generated_at: "2026-03-30T04:53:31.211Z"
 status: "active"
 ---
 

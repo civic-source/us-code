@@ -3,9 +3,9 @@ title: "Section 247d2247d3 - Repealed. Pub. L. 109–417, title II, § 204(b)(1)
 usc_title: 42
 usc_section: "247d2247d3"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 247d2247d3"
-generated_at: "2026-03-30T04:51:23.671Z"
+generated_at: "2026-03-30T04:53:50.811Z"
 status: "repealed"
 ---
 

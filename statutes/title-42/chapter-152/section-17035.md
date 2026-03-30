@@ -3,9 +3,9 @@ title: "Section 17035 - University based research and development grant program"
 usc_title: 42
 usc_section: "17035"
 chapter: 152
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 17035"
-generated_at: "2026-03-30T04:51:24.304Z"
+generated_at: "2026-03-30T04:53:51.442Z"
 status: "active"
 ---
 

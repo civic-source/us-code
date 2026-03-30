@@ -3,9 +3,9 @@ title: "Section 422k - Supplement to Federal reclamation laws; short title"
 usc_title: 43
 usc_section: "422k"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 422k"
-generated_at: "2026-03-30T04:51:07.196Z"
+generated_at: "2026-03-30T04:53:30.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 441 - Assignment of entries generally"
 usc_title: 43
 usc_section: "441"
 chapter: 12
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 441"
-generated_at: "2026-03-30T04:51:07.197Z"
+generated_at: "2026-03-30T04:53:30.792Z"
 status: "active"
 ---
 

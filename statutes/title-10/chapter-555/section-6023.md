@@ -3,9 +3,9 @@ title: "Section 6023 - Repealed. Pub. L. 92–168, § 2(1) , Nov. 24, 1971 , 85 
 usc_title: 10
 usc_section: "6023"
 chapter: 555
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 6023"
-generated_at: "2026-03-30T04:50:11.207Z"
+generated_at: "2026-03-30T04:52:15.751Z"
 status: "repealed"
 ---
 

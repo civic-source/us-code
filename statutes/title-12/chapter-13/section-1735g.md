@@ -3,9 +3,9 @@ title: "Section 1735g - Mortgage relief for homeowners who are unemployed as res
 usc_title: 12
 usc_section: "1735g"
 chapter: 13
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "12 U.S.C. § 1735g"
-generated_at: "2026-03-30T04:50:16.234Z"
+generated_at: "2026-03-30T04:52:48.691Z"
 status: "active"
 ---
 

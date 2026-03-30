@@ -3,9 +3,9 @@ title: "Section 1361to1364 - Repealed. Pub. L. 94–579, title VII, § 705(a) , 
 usc_title: 43
 usc_section: "1361to1364"
 chapter: 30
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 1361to1364"
-generated_at: "2026-03-30T04:51:07.217Z"
+generated_at: "2026-03-30T04:53:30.812Z"
 status: "repealed"
 ---
 

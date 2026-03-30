@@ -3,9 +3,9 @@ title: "Section 1351 - Application of chapter 71 of title 5 relating to Federal 
 usc_title: 2
 usc_section: "1351"
 chapter: 24
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 1351"
-generated_at: "2026-03-30T04:49:52.765Z"
+generated_at: "2026-03-30T04:52:00.277Z"
 status: "active"
 ---
 

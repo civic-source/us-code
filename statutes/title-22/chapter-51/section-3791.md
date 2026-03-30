@@ -3,9 +3,9 @@ title: "Section 3791 - Prescription of measurement rules and rates of tolls"
 usc_title: 22
 usc_section: "3791"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 3791"
-generated_at: "2026-03-30T04:50:36.799Z"
+generated_at: "2026-03-30T04:53:06.627Z"
 status: "active"
 ---
 

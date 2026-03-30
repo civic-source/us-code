@@ -3,9 +3,9 @@ title: "Section 5052 - Definitions"
 usc_title: 26
 usc_section: "5052"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 5052"
-generated_at: "2026-03-30T04:50:49.558Z"
+generated_at: "2026-03-30T04:53:16.622Z"
 status: "active"
 ---
 

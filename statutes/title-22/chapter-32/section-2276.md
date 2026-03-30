@@ -3,9 +3,9 @@ title: "Section 2276 - “Central American countries” defined"
 usc_title: 22
 usc_section: "2276"
 chapter: 32
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 2276"
-generated_at: "2026-03-30T04:50:36.763Z"
+generated_at: "2026-03-30T04:53:06.591Z"
 status: "active"
 ---
 

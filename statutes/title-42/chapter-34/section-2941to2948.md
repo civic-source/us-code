@@ -3,9 +3,9 @@ title: "Section 2941to2948 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2941to2948"
 chapter: 34
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 2941to2948"
-generated_at: "2026-03-30T04:51:24.011Z"
+generated_at: "2026-03-30T04:53:51.147Z"
 status: "repealed"
 ---
 

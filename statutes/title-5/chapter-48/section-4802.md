@@ -3,9 +3,9 @@ title: "Section 4802 - Securities and Exchange Commission"
 usc_title: 5
 usc_section: "4802"
 chapter: 48
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "5 U.S.C. § 4802"
-generated_at: "2026-03-30T04:49:51.038Z"
+generated_at: "2026-03-30T04:52:08.457Z"
 status: "active"
 ---
 

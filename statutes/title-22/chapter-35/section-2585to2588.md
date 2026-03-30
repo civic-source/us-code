@@ -3,9 +3,9 @@ title: "Section 2585to2588 - Repealed. Pub. L. 105–277, div. G , subdiv. A, ti
 usc_title: 22
 usc_section: "2585to2588"
 chapter: 35
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 2585to2588"
-generated_at: "2026-03-30T04:50:36.780Z"
+generated_at: "2026-03-30T04:53:06.608Z"
 status: "repealed"
 ---
 

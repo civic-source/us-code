@@ -3,9 +3,9 @@ title: "Section 1921e - Construction contract assistance"
 usc_title: 48
 usc_section: "1921e"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "48 U.S.C. § 1921e"
-generated_at: "2026-03-30T04:51:34.193Z"
+generated_at: "2026-03-30T04:54:09.059Z"
 status: "active"
 ---
 

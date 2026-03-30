@@ -3,9 +3,9 @@ title: "Section 1716A - Nonmailable locksmithing devices and motor vehicle maste
 usc_title: 18
 usc_section: "1716A"
 chapter: 83
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 1716A"
-generated_at: "2026-03-30T04:50:24.486Z"
+generated_at: "2026-03-30T04:52:52.195Z"
 status: "active"
 ---
 

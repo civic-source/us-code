@@ -3,9 +3,9 @@ title: "Section 724 - Service of process in court proceedings"
 usc_title: 49
 usc_section: "724"
 chapter: 7
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 724"
-generated_at: "2026-03-30T04:51:29.802Z"
+generated_at: "2026-03-30T04:54:02.019Z"
 status: "active"
 ---
 

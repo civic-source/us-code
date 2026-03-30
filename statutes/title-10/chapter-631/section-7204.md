@@ -3,9 +3,9 @@ title: "Section 7204 - Schools near naval activities: financial aid"
 usc_title: 10
 usc_section: "7204"
 chapter: 631
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 7204"
-generated_at: "2026-03-30T04:50:11.212Z"
+generated_at: "2026-03-30T04:52:15.756Z"
 status: "active"
 ---
 

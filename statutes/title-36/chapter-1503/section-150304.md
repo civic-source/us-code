@@ -3,9 +3,9 @@ title: "Section 150304 - Annual meeting"
 usc_title: 36
 usc_section: "150304"
 chapter: 1503
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "36 U.S.C. § 150304"
-generated_at: "2026-03-30T04:50:57.040Z"
+generated_at: "2026-03-30T04:53:25.644Z"
 status: "active"
 ---
 

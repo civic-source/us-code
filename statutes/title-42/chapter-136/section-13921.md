@@ -3,9 +3,9 @@ title: "Section 13921 - Gang Resistance Education and Training projects"
 usc_title: 42
 usc_section: "13921"
 chapter: 136
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 13921"
-generated_at: "2026-03-30T04:51:24.262Z"
+generated_at: "2026-03-30T04:53:51.400Z"
 status: "active"
 ---
 

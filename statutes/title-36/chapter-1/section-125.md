@@ -3,9 +3,9 @@ title: "Section 125 - National Grandparents Day"
 usc_title: 36
 usc_section: "125"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "36 U.S.C. § 125"
-generated_at: "2026-03-30T04:50:57.029Z"
+generated_at: "2026-03-30T04:53:25.631Z"
 status: "active"
 ---
 

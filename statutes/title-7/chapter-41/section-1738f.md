@@ -3,9 +3,9 @@ title: "Section 1738f - Environmental framework agreements"
 usc_title: 7
 usc_section: "1738f"
 chapter: 41
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 1738f"
-generated_at: "2026-03-30T04:50:00.003Z"
+generated_at: "2026-03-30T04:52:40.935Z"
 status: "active"
 ---
 

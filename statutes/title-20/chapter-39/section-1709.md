@@ -3,9 +3,9 @@ title: "Section 1709 - Intervention by Attorney General"
 usc_title: 20
 usc_section: "1709"
 chapter: 39
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 1709"
-generated_at: "2026-03-30T04:50:27.764Z"
+generated_at: "2026-03-30T04:52:57.177Z"
 status: "active"
 ---
 

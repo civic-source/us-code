@@ -3,9 +3,9 @@ title: "Section 3274 - Rule of construction regarding postsecondary transition a
 usc_title: 29
 usc_section: "3274"
 chapter: 32
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "29 U.S.C. § 3274"
-generated_at: "2026-03-30T04:50:42.183Z"
+generated_at: "2026-03-30T04:53:10.636Z"
 status: "active"
 ---
 

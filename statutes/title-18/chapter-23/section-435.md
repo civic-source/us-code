@@ -3,9 +3,9 @@ title: "Section 435 - Contracts in excess of specific appropriation"
 usc_title: 18
 usc_section: "435"
 chapter: 23
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "18 U.S.C. § 435"
-generated_at: "2026-03-30T04:50:24.465Z"
+generated_at: "2026-03-30T04:52:52.176Z"
 status: "active"
 ---
 

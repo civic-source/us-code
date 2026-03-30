@@ -3,9 +3,9 @@ title: "Section 44304 - Reinsurance"
 usc_title: 49
 usc_section: "44304"
 chapter: 443
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 44304"
-generated_at: "2026-03-30T04:51:29.855Z"
+generated_at: "2026-03-30T04:54:02.074Z"
 status: "active"
 ---
 

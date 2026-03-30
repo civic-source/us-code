@@ -3,9 +3,9 @@ title: "Section 31313 - Grants for commercial driver’s license program impleme
 usc_title: 49
 usc_section: "31313"
 chapter: 313
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 31313"
-generated_at: "2026-03-30T04:51:29.841Z"
+generated_at: "2026-03-30T04:54:02.060Z"
 status: "active"
 ---
 

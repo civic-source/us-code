@@ -3,9 +3,9 @@ title: "Section 2702 - Declaration of policy"
 usc_title: 25
 usc_section: "2702"
 chapter: 29
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "25 U.S.C. § 2702"
-generated_at: "2026-03-30T04:50:34.790Z"
+generated_at: "2026-03-30T04:53:04.718Z"
 status: "active"
 ---
 

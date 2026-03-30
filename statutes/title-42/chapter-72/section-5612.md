@@ -3,9 +3,9 @@ title: "Section 5612 - Personnel"
 usc_title: 42
 usc_section: "5612"
 chapter: 72
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 5612"
-generated_at: "2026-03-30T04:51:24.076Z"
+generated_at: "2026-03-30T04:53:51.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Procedure for denial, withholding, termination, or suspensi
 usc_title: 42
 usc_section: "17"
 chapter: 21
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-30T04:51:23.989Z"
+generated_at: "2026-03-30T04:53:51.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 351to355 - Repealed. Pub. L. 88–417, § 1 , Aug. 11, 1964 , 78
 usc_title: 43
 usc_section: "351to355"
 chapter: 10
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 351to355"
-generated_at: "2026-03-30T04:51:07.189Z"
+generated_at: "2026-03-30T04:53:30.784Z"
 status: "repealed"
 ---
 

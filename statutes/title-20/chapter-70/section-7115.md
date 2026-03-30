@@ -3,9 +3,9 @@ title: "Section 7115 - Authorized activities"
 usc_title: 20
 usc_section: "7115"
 chapter: 70
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 7115"
-generated_at: "2026-03-30T04:50:27.803Z"
+generated_at: "2026-03-30T04:52:57.218Z"
 status: "active"
 ---
 

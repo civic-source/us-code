@@ -3,9 +3,9 @@ title: "Section 7681 - Reciprocal privileges to cobelligerent"
 usc_title: 10
 usc_section: "7681"
 chapter: 655
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 7681"
-generated_at: "2026-03-30T04:50:11.216Z"
+generated_at: "2026-03-30T04:52:15.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 950t - Crimes triable by military commission"
 usc_title: 10
 usc_section: "950t"
 chapter: 47
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 950t"
-generated_at: "2026-03-30T04:50:11.127Z"
+generated_at: "2026-03-30T04:52:15.611Z"
 status: "active"
 ---
 

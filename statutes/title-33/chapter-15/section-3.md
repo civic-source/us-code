@@ -3,9 +3,9 @@ title: "Section 3 - Levees; raising and enlarging"
 usc_title: 33
 usc_section: "3"
 chapter: 15
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-30T04:50:54.103Z"
+generated_at: "2026-03-30T04:53:19.765Z"
 status: "active"
 ---
 

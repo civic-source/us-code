@@ -3,9 +3,9 @@ title: "Section 8443 - Repealed. Pub. L. 85–861, § 36B(25) , Sept. 2, 1958 , 
 usc_title: 10
 usc_section: "8443"
 chapter: 839
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "10 U.S.C. § 8443"
-generated_at: "2026-03-30T04:50:11.218Z"
+generated_at: "2026-03-30T04:52:15.762Z"
 status: "repealed"
 ---
 

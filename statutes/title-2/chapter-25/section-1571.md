@@ -3,9 +3,9 @@ title: "Section 1571 - Judicial review"
 usc_title: 2
 usc_section: "1571"
 chapter: 25
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "2 U.S.C. § 1571"
-generated_at: "2026-03-30T04:49:52.768Z"
+generated_at: "2026-03-30T04:52:00.280Z"
 status: "active"
 ---
 

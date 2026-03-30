@@ -3,9 +3,9 @@ title: "Section 453 - Authority and duties of division"
 usc_title: 7
 usc_section: "453"
 chapter: 18
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 453"
-generated_at: "2026-03-30T04:49:59.961Z"
+generated_at: "2026-03-30T04:52:40.807Z"
 status: "active"
 ---
 

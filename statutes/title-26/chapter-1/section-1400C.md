@@ -3,9 +3,9 @@ title: "Section 1400C - First-time homebuyer credit for District of Columbia"
 usc_title: 26
 usc_section: "1400C"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "26 U.S.C. § 1400C"
-generated_at: "2026-03-30T04:50:49.520Z"
+generated_at: "2026-03-30T04:53:16.584Z"
 status: "active"
 ---
 

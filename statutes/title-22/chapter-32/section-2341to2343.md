@@ -3,9 +3,9 @@ title: "Section 2341to2343 - Repealed. Pub. L. 90–629 , ch. 4, § 45(a), Oct. 
 usc_title: 22
 usc_section: "2341to2343"
 chapter: 32
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 2341to2343"
-generated_at: "2026-03-30T04:50:36.767Z"
+generated_at: "2026-03-30T04:53:06.596Z"
 status: "repealed"
 ---
 

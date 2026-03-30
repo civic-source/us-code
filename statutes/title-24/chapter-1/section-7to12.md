@@ -3,9 +3,9 @@ title: "Section 7to12 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 5
 usc_title: 24
 usc_section: "7to12"
 chapter: 1
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "24 U.S.C. § 7to12"
-generated_at: "2026-03-30T04:50:31.922Z"
+generated_at: "2026-03-30T04:53:01.990Z"
 status: "repealed"
 ---
 

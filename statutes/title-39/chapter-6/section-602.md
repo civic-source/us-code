@@ -3,9 +3,9 @@ title: "Section 602 - Foreign letters out of the mails"
 usc_title: 39
 usc_section: "602"
 chapter: 6
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "39 U.S.C. § 602"
-generated_at: "2026-03-30T04:50:59.956Z"
+generated_at: "2026-03-30T04:53:28.062Z"
 status: "active"
 ---
 

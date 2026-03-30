@@ -3,9 +3,9 @@ title: "Section 5104 - Assignment of load lines"
 usc_title: 46
 usc_section: "5104"
 chapter: 51
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "46 U.S.C. § 5104"
-generated_at: "2026-03-30T04:51:27.379Z"
+generated_at: "2026-03-30T04:53:54.974Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14101 - Providing transportation and service"
 usc_title: 49
 usc_section: "14101"
 chapter: 141
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "49 U.S.C. § 14101"
-generated_at: "2026-03-30T04:51:29.821Z"
+generated_at: "2026-03-30T04:54:02.040Z"
 status: "active"
 ---
 

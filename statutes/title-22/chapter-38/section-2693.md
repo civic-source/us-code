@@ -3,9 +3,9 @@ title: "Section 2693 - Repealed. Pub. L. 96–465, title II, § 2205(3) , Oct. 1
 usc_title: 22
 usc_section: "2693"
 chapter: 38
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "22 U.S.C. § 2693"
-generated_at: "2026-03-30T04:50:36.783Z"
+generated_at: "2026-03-30T04:53:06.612Z"
 status: "repealed"
 ---
 

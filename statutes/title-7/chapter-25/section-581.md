@@ -3,9 +3,9 @@ title: "Section 581 - Standards of export; establishment; shipping without certi
 usc_title: 7
 usc_section: "581"
 chapter: 25
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "7 U.S.C. § 581"
-generated_at: "2026-03-30T04:49:59.965Z"
+generated_at: "2026-03-30T04:52:40.811Z"
 status: "active"
 ---
 

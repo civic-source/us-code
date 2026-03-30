@@ -3,9 +3,9 @@ title: "Section 161to164 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "161to164"
 chapter: 7
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "43 U.S.C. § 161to164"
-generated_at: "2026-03-30T04:51:07.187Z"
+generated_at: "2026-03-30T04:53:30.782Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 871to880a - Repealed. Pub. L. 91–230, title VI, § 662(3) , Ap
 usc_title: 20
 usc_section: "871to880a"
 chapter: 24
-current_through: "PL 114-71"
+current_through: "PL 114-72"
 classification: "20 U.S.C. § 871to880a"
-generated_at: "2026-03-30T04:50:27.695Z"
+generated_at: "2026-03-30T04:52:57.104Z"
 status: "repealed"
 ---
 
