@@ -3,9 +3,9 @@ title: "Section 450ff - Fort Vancouver National Historic Site; establishment"
 usc_title: 16
 usc_section: "450ff"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 450ff"
-generated_at: "2026-03-30T02:09:13.294Z"
+generated_at: "2026-03-30T02:18:31.892Z"
 ---
 
 # § 450ff. Fort Vancouver National Historic Site; establishment

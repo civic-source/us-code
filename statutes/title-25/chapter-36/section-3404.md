@@ -3,9 +3,9 @@ title: "Section 3404 - Programs affected"
 usc_title: 25
 usc_section: "3404"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 3404"
-generated_at: "2026-03-30T02:09:31.272Z"
+generated_at: "2026-03-30T02:18:36.427Z"
 ---
 
 # § 3404. Programs affected

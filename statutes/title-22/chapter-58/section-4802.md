@@ -3,9 +3,9 @@ title: "Section 4802 - Responsibility of Secretary of State"
 usc_title: 22
 usc_section: "4802"
 chapter: 58
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4802"
-generated_at: "2026-03-30T02:09:40.018Z"
+generated_at: "2026-03-30T02:18:41.632Z"
 ---
 
 # § 4802. Responsibility of Secretary of State
@@ -41,7 +41,9 @@ generated_at: "2026-03-30T02:09:40.018Z"
   - **(2)** develop a mechanism whereby United States citizens can voluntarily request to be placed on a list in order to be contacted in the event of an evacuation, or which, in the event of an evacuation, can maintain information on the location of United States citizens in high risk areas submitted by their relatives;
   - **(3)** assess the transportation and communications resources in the area being evacuated and determine the logistic support needed for the evacuation; and
   - **(4)** develop a plan for coordinating communications between embassy staff, Department of State personnel, and families of United States citizens abroad regarding the whereabouts of those citizens.
-- **(c)** The Secretary of State shall—
-  - **(1)** have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) 2 2 So in original. Probably should be followed by “; and”.
-  - **(2)** establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector 3 3 So in original. Probably should be capitalized. General, Agency for International Development).
+- **(c)**
+  - **(1)** The Secretary of State shall—
+    - **(A)** have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) 2 2 So in original. Probably should be followed by “; and”.
+    - **(B)** establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector 3 3 So in original. Probably should be capitalized. General, Agency for International Development).
+  - **(2)** The Secretary of State shall notify the appropriate congressional committees within 10 days of any decision to retain authority over or approve decisions at an overseas post, including the movement of personnel.
 - **(d)** As used in this subchapter and subchapter III, the term “Federal agency” includes any department or agency of the United States Government.

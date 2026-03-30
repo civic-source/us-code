@@ -1,26 +1,12 @@
 ---
-title: "Section 239a - Missile defense and defeat programs: major force program and budget assessment"
+title: "Section 239a - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]"
 usc_title: 10
 usc_section: "239a"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 239a"
-generated_at: "2026-03-30T02:08:27.177Z"
+generated_at: "2026-03-30T02:17:31.553Z"
 ---
 
-# § 239a. Missile defense and defeat programs: major force program and budget assessment
+# [§ 239a. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]
 
-- **(a)** The Secretary of Defense shall establish a unified major force program for missile defense and defeat programs pursuant to section 222(b) of this title to prioritize missile defense and defeat programs in accordance with the requirements of the Department of Defense and national security.
-- **(b)**
-  - **(1)** The Secretary shall include with the defense budget materials for each of fiscal years 2019 through 2023 a report on the budget for missile defense and defeat programs of the Department of Defense.
-  - **(2)** Each report on the budget for missile defense and defeat programs of the Department under paragraph (1) shall include the following:
-    - **(A)** An overview of the budget, including—
-      - **(i)** a comparison between that budget, the previous budget, the most recent and prior future-years defense program submitted to Congress under section 221 of this title (such comparison shall exclude the responsibility for research and development of the continuing improvement of such missile defense and defeat program), and the amounts appropriated for such missile defense and defeat programs during the previous fiscal year; and
-      - **(ii)** the specific identification, as a budgetary line item, for the funding under such programs.
-    - **(B)** An assessment of the budget, including significant changes, priorities, challenges, and risks.
-    - **(C)** Any additional matters the Secretary determines appropriate.
-  - **(3)** Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-- **(c)** In this section:
-  - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
-  - **(2)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
-  - **(3)** The term “missile defense and defeat programs” means active and passive ballistic missile defense programs, cruise missile defense programs for the homeland, and missile defeat programs.

@@ -3,9 +3,9 @@ title: "Section 9122 - Actions by the Secretary of State in response to patterns
 usc_title: 22
 usc_section: "9122"
 chapter: 98
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9122"
-generated_at: "2026-03-30T02:09:40.066Z"
+generated_at: "2026-03-30T02:18:41.698Z"
 ---
 
 # § 9122. Actions by the Secretary of State in response to patterns of noncompliance in cases of international child abductions
@@ -58,3 +58,7 @@ generated_at: "2026-03-30T02:09:40.066Z"
       - **(ii)** substantially furthers the purposes of this chapter.
 - **(f)** The Secretary of State shall seek to take all appropriate actions authorized by law to resolve the unresolved case or to obtain the cessation of such pattern of noncompliance, as applicable.
 - **(g)** Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
+- **(h)**
+  - **(1)** Not later than 1 year after the December 23, 2024 , the Secretary of State, subject to the availability of funds, shall seek to enter into an agreement with an appropriate university, research institution, or nongovernmental organization to study and publish a report on the impact to abducted children and left-behind parents as a result of international parental child abduction.
+  - **(2)** The Secretary of State shall consult with the appropriate congressional committees on the goals of the study and report required under paragraph (1).
+  - **(3)** There is authorized to be appropriated $1,000,000 for each of fiscal years 2025 and 2026 to carry out the study required under paragraph (1).

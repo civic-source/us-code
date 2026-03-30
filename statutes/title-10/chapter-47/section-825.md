@@ -3,9 +3,9 @@ title: "Section 825 - Art. 25. Who may serve on courts-martial"
 usc_title: 10
 usc_section: "825"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 825"
-generated_at: "2026-03-30T02:08:27.202Z"
+generated_at: "2026-03-30T02:17:31.574Z"
 ---
 
 # § 825. Art. 25. Who may serve on courts-martial
@@ -27,4 +27,5 @@ generated_at: "2026-03-30T02:08:27.202Z"
   - **(1)** When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to the member being tried in rank or grade.
   - **(2)** When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in the opinion of the convening authority, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when the member is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or as counsel in the same case.
   - **(3)** The convening authority shall detail not less than the number of members necessary to impanel the court-martial under section 829 of this title (article 29).
+  - **(4)** When convening a court-martial, the convening authority shall detail as members thereof members of the armed forces under such regulations as the President may prescribe for the randomized selection of qualified personnel, to the maximum extent practicable.
 - **(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate the authority of the convening authority under this subsection to the staff judge advocate or legal officer of the convening authority or to any other principal assistant.

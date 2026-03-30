@@ -3,9 +3,9 @@ title: "Section 4264 - Asian elephant conservation assistance"
 usc_title: 16
 usc_section: "4264"
 chapter: 62
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 4264"
-generated_at: "2026-03-30T02:09:13.514Z"
+generated_at: "2026-03-30T02:18:32.084Z"
 ---
 
 # § 4264. Asian elephant conservation assistance
@@ -35,3 +35,6 @@ generated_at: "2026-03-30T02:09:13.514Z"
 - **(f)** Each person who receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information required by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
 - **(g)** In determining whether to approve project proposals under this section, the Secretary shall give priority to those projects for which there exists some measure of matching funds.
 - **(h)** Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
+- **(i)**
+  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
+  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

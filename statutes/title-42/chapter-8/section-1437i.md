@@ -3,9 +3,9 @@ title: "Section 1437i - Obligations of public housing agencies; contestability; 
 usc_title: 42
 usc_section: "1437i"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1437i"
-generated_at: "2026-03-30T02:11:33.003Z"
+generated_at: "2026-03-30T02:19:46.960Z"
 ---
 
 # § 1437i. Obligations of public housing agencies; contestability; full faith and credit of United States pledged as security; tax exemption

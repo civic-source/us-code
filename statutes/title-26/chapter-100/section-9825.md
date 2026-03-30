@@ -3,9 +3,9 @@ title: "Section 9825 - Reporting on pharmacy benefits and drug costs"
 usc_title: 26
 usc_section: "9825"
 chapter: 100
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 9825"
-generated_at: "2026-03-30T02:10:03.068Z"
+generated_at: "2026-03-30T02:18:56.581Z"
 ---
 
 # § 9825. Reporting on pharmacy benefits and drug costs

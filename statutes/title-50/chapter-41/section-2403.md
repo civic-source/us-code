@@ -3,14 +3,14 @@ title: "Section 2403 - Principal Deputy Administrator for Nuclear Security"
 usc_title: 50
 usc_section: "2403"
 chapter: 41
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2403"
-generated_at: "2026-03-30T02:11:41.488Z"
+generated_at: "2026-03-30T02:19:57.472Z"
 ---
 
 # § 2403. Principal Deputy Administrator for Nuclear Security
 
 - **(a)**
   - **(1)** There is in the Administration a Principal Deputy Administrator, who is appointed by the President, by and with the advice and consent of the Senate.
-  - **(2)** The Principal Deputy Administrator shall be appointed from among persons who have extensive background in organizational management and are well qualified to manage the nuclear weapons, nonproliferation, and materials disposition programs of the Administration in a manner that advances and protects the national security of the United States.
+  - **(2)** The Principal Deputy Administrator shall be appointed from among persons who have extensive background in organizational management and are well qualified to manage the nuclear weapons, infrastructure construction and maintenance, nonproliferation, and materials disposition programs of the Administration in a manner that advances and protects the national security of the United States.
 - **(b)** Subject to the authority, direction, and control of the Administrator, the Principal Deputy Administrator shall perform such duties and exercise such powers as the Administrator may prescribe, including the coordination of activities among the elements of the Administration. The Principal Deputy Administrator shall act for, and exercise the powers of, the Administrator when the Administrator is disabled or the position of Administrator is vacant.

@@ -3,9 +3,9 @@ title: "Section 77d - Transfer or loan of aeronautical or space flight equipment
 usc_title: 20
 usc_section: "77d"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 77d"
-generated_at: "2026-03-30T02:09:00.886Z"
+generated_at: "2026-03-30T02:18:26.535Z"
 ---
 
 # § 77d. Transfer or loan of aeronautical or space flight equipment to museum

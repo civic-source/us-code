@@ -3,9 +3,9 @@ title: "Section 3472 - Vacant]"
 usc_title: 38
 usc_section: "3472"
 chapter: 34
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3472"
-generated_at: "2026-03-30T02:10:34.044Z"
+generated_at: "2026-03-30T02:19:11.544Z"
 ---
 
 # [§ 3472. Vacant]

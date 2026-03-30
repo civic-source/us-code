@@ -3,9 +3,9 @@ title: "Section 2303 - Designation of written warranties"
 usc_title: 15
 usc_section: "2303"
 chapter: 50
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2303"
-generated_at: "2026-03-30T02:08:56.186Z"
+generated_at: "2026-03-30T02:18:09.971Z"
 ---
 
 # § 2303. Designation of written warranties

@@ -3,9 +3,9 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-30T02:08:27.173Z"
+generated_at: "2026-03-30T02:17:31.548Z"
 ---
 
 # § 179. Nuclear Weapons Council
@@ -23,9 +23,9 @@ generated_at: "2026-03-30T02:08:27.173Z"
   - **(3)** The Council shall meet not less often than once every three months. To the extent possible, not later than seven days before a meeting, the Chairman shall disseminate to each member of the Council the agenda and documents for such meeting.
 - **(c)**
   - **(1)** The Secretary of Defense and the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
-  - **(2)** The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall be the Staff Director of the Council.
+  - **(2)** The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs shall be the Staff Director of the Council.
   - **(3)**
-    - **(A)** Whenever the position of Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs has been vacant a period of more than 6 months, the Secretary of Energy shall designate a qualified individual to serve as acting staff director of the Council until the position of Assistant Secretary is filled.
+    - **(A)** Whenever the position of Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs has been vacant a period of more than 6 months, the Secretary of Energy shall designate a qualified individual to serve as acting staff director of the Council until the position of Assistant Secretary is filled.
     - **(B)** An individual designated under subparagraph (A) shall possess substantial technical and policy experience relevant to the management and oversight of nuclear weapons programs.
 - **(d)** The Council shall be responsible for the following matters:
   - **(1)** Preparing the annual Nuclear Weapons Stockpile Memorandum.
@@ -72,7 +72,7 @@ generated_at: "2026-03-30T02:08:27.173Z"
     - **(B)** Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under subparagraph (A), the Chairman shall submit to the congressional defense committees—
       - **(i)** such assessment as it was submitted to the Chairman; and
       - **(ii)** any comments of the Chairman.
-  - **(6)** In this subsection, the term “budget” has the meaning given that term in section 231(f) of this title .
+  - **(6)** In this subsection, the term “budget” has the meaning given that term in section 231(f) 1 1 See References in Text note below. of this title.
 - **(g)**
   - **(1)** Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a semiannual update including, with respect to the six-month period preceding the update—
     - **(A)** the dates on which the Council met and the members who attended each meeting; and

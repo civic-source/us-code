@@ -3,9 +3,9 @@ title: "Section 1975a - Overseas travel to accompany members of House leadership
 usc_title: 2
 usc_section: "1975a"
 chapter: 29
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 1975a"
-generated_at: "2026-03-30T02:07:57.519Z"
+generated_at: "2026-03-30T02:16:56.703Z"
 ---
 
 # § 1975a. Overseas travel to accompany members of House leadership

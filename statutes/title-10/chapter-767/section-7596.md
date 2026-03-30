@@ -3,9 +3,9 @@ title: "Section 7596 - Provision of goods and services at Kwajalein Atoll"
 usc_title: 10
 usc_section: "7596"
 chapter: 767
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7596"
-generated_at: "2026-03-30T02:08:27.322Z"
+generated_at: "2026-03-30T02:17:31.686Z"
 ---
 
 # § 7596. Provision of goods and services at Kwajalein Atoll

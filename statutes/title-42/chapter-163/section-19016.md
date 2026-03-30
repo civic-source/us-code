@@ -3,9 +3,9 @@ title: "Section 19016 - Chief Diversity Officer of the NSF"
 usc_title: 42
 usc_section: "19016"
 chapter: 163
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19016"
-generated_at: "2026-03-30T02:11:33.756Z"
+generated_at: "2026-03-30T02:19:47.400Z"
 ---
 
 # § 19016. Chief Diversity Officer of the NSF

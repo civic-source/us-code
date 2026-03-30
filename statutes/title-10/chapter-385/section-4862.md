@@ -3,9 +3,9 @@ title: "Section 4862 - Requirement to buy certain articles from American sources
 usc_title: 10
 usc_section: "4862"
 chapter: 385
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4862"
-generated_at: "2026-03-30T02:08:27.313Z"
+generated_at: "2026-03-30T02:17:31.677Z"
 ---
 
 # § 4862. Requirement to buy certain articles from American sources; exceptions
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:08:27.313Z"
 - **(c)** Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 - **(d)** Subsection (a) does not apply to the following:
   - **(1)** Procurements outside the United States in support of combat operations or procurements of any item listed in subsection (b)(1)(A) or (b)(2) in support of contingency operations.
-  - **(2)** Procurements by vessels in foreign waters.
+  - **(2)** Procurements by, or for, vessels in foreign waters.
   - **(3)** Emergency procurements or procurements of perishable foods by, or for, an establishment located outside the United States for the personnel attached to such establishment.
   - **(4)** Procurements of any item listed in subsection (b)(1)(A) or (b)(2) for which the use of procedures other than competitive procedures has been approved on the basis of section 3204(a)(2) of this title , relating to unusual and compelling urgency of need.
 - **(e)** Subsection (a) does not preclude the procurement of chemical warfare protective clothing produced outside the United States if—

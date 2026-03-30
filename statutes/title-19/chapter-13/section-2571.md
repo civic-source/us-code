@@ -3,9 +3,9 @@ title: "Section 2571 - Definitions"
 usc_title: 19
 usc_section: "2571"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2571"
-generated_at: "2026-03-30T02:09:03.110Z"
+generated_at: "2026-03-30T02:18:27.882Z"
 ---
 
 # § 2571. Definitions

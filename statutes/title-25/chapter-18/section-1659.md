@@ -3,9 +3,9 @@ title: "Section 1659 - Facilities renovation"
 usc_title: 25
 usc_section: "1659"
 chapter: 18
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 1659"
-generated_at: "2026-03-30T02:09:31.243Z"
+generated_at: "2026-03-30T02:18:36.398Z"
 ---
 
 # § 1659. Facilities renovation

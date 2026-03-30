@@ -3,9 +3,9 @@ title: "Section 38 - Topographic surveys; marking elevations"
 usc_title: 43
 usc_section: "38"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 38"
-generated_at: "2026-03-30T02:10:37.011Z"
+generated_at: "2026-03-30T02:19:17.870Z"
 ---
 
 # § 38. Topographic surveys; marking elevations

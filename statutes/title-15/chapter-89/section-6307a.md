@@ -3,9 +3,9 @@ title: "Section 6307a - Contract requirements"
 usc_title: 15
 usc_section: "6307a"
 chapter: 89
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 6307a"
-generated_at: "2026-03-30T02:08:56.225Z"
+generated_at: "2026-03-30T02:18:10.008Z"
 ---
 
 # § 6307a. Contract requirements

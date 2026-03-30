@@ -3,9 +3,9 @@ title: "Section 1168 - Regulations"
 usc_title: 29
 usc_section: "1168"
 chapter: 18
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 1168"
-generated_at: "2026-03-30T02:09:43.813Z"
+generated_at: "2026-03-30T02:19:02.101Z"
 ---
 
 # § 1168. Regulations

@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-30T02:08:56.108Z"
+generated_at: "2026-03-30T02:18:09.895Z"
 ---
 
 # § 638. Research and development
@@ -825,3 +825,13 @@ generated_at: "2026-03-30T02:08:56.108Z"
 - **(xx)**
   - **(1)** A Federal agency required to establish an SBIR or STTR program shall implement a multi-level review and approval process within the Federal agency for solicitation topics to ensure adequate competition and that no private individual or entity is shaping the requirements for eligibility for the solicitation topic after the selection of the solicitation topic, except that the Federal agency may amend the requirements to clarify the solicitation topic.
   - **(2)** A Federal agency that does not comply with paragraph (1) shall be referred to the Inspector General of the Administration for further investigation.
+- **(yy)**
+  - **(1)** Not later than 180 days after December 23, 2024 , the Secretary of Defense shall establish a pilot program to enable any undergraduate, graduate, or postgraduate degree-granting military research or educational institution established under title 10 to participate in the STTR program of the Department of Defense.
+  - **(2)** The authority to carry out the pilot program under this subsection shall end on September 30, 2025 .
+- **(zz)**
+  - **(1)**
+    - **(A)** In order to more rapidly estimate allocations for the SBIR and STTR programs of the Department of Defense, the Secretary of Defense shall conduct a budget calculation pilot program that requires the calculation of total expenditures for the SBIR and STTR programs in the Department of Defense and determination of related allocations in accordance with subparagraphs (B) and (C), and paragraph (2), respectively.
+    - **(B)** Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its SBIR program as not less than 3.25 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
+    - **(C)** Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its STTR program as not less than 0.46 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
+  - **(2)** Not later than 30 days after the date of enactment of an appropriations bill for the Department of Defense for a fiscal year, the Department shall determine and make adjustments for actual allocations related to the SBIR and STTR programs of the Department.
+  - **(3)** The pilot program under this subsection shall terminate on September 30, 2025 .

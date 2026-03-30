@@ -3,9 +3,9 @@ title: "Section 4541 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "4541"
 chapter: 60
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4541"
-generated_at: "2026-03-30T02:11:33.223Z"
+generated_at: "2026-03-30T02:19:47.080Z"
 ---
 
 # § 4541. Congressional findings and declaration of purpose

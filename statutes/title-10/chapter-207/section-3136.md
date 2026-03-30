@@ -3,9 +3,9 @@ title: "Section 3136 - Defense Modernization Account"
 usc_title: 10
 usc_section: "3136"
 chapter: 207
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3136"
-generated_at: "2026-03-30T02:08:27.293Z"
+generated_at: "2026-03-30T02:17:31.658Z"
 ---
 
 # § 3136. Defense Modernization Account
@@ -28,6 +28,8 @@ generated_at: "2026-03-30T02:08:27.293Z"
   - **(2)** For increasing, subject to subsection (e), the quantity of items and services procured under an acquisition program in order to achieve a more efficient production or delivery rate.
   - **(3)** For research, development, test, and evaluation, for procurement, and for sustainment activities necessary for paying costs of unforeseen contingencies that are approved by the milestone decision authority concerned, that could prevent an ongoing acquisition program from meeting critical schedule or performance requirements.
   - **(4)** For paying costs of changes to program requirements or system configuration that are approved by the configuration steering board for a major defense acquisition program.
+  - **(5)** For procuring and integrating available commercial technologies and services to satisfy a joint urgent operational need, joint emergent operational need, or a validated service requirement.
+  - **(6)** For providing infrastructure to support Department goals of accelerating the fielding and adoption of new capabilities.
 - **(e)**
   - **(1)** Funds in the Defense Modernization Account may not be used to increase the quantity of an item or services procured under a particular acquisition program to the extent that doing so would—
     - **(A)** result in procurement of a total quantity of items or services in excess of—

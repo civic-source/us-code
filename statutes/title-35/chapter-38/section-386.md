@@ -3,9 +3,9 @@ title: "Section 386 - Right of priority"
 usc_title: 35
 usc_section: "386"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "35 U.S.C. § 386"
-generated_at: "2026-03-30T02:10:07.903Z"
+generated_at: "2026-03-30T02:19:03.978Z"
 ---
 
 # § 386. Right of priority

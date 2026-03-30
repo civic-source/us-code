@@ -3,9 +3,9 @@ title: "Section 5162 - Advance of non-Federal share"
 usc_title: 42
 usc_section: "5162"
 chapter: 68
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5162"
-generated_at: "2026-03-30T02:11:33.250Z"
+generated_at: "2026-03-30T02:19:47.094Z"
 ---
 
 # § 5162. Advance of non-Federal share

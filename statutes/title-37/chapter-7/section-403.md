@@ -3,9 +3,9 @@ title: "Section 403 - Basic allowance for housing"
 usc_title: 37
 usc_section: "403"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 403"
-generated_at: "2026-03-30T02:10:28.801Z"
+generated_at: "2026-03-30T02:19:09.132Z"
 ---
 
 # § 403. Basic allowance for housing
@@ -36,11 +36,11 @@ generated_at: "2026-03-30T02:10:28.801Z"
     - **(B)** The Secretary of Defense shall base the amount of the increase to be made in the rates of basic allowance for housing for an area on a determination by the Secretary of the amount by which the costs of adequate housing for civilians have increased in the area by reason of the disaster or the influx of military personnel, except that the increase may not exceed the amount equal to 20 percent of the rate of basic allowance for housing otherwise prescribed for the area.
     - **(C)** A member may be paid a basic allowance for housing at a rate increased under this paragraph only if the member certifies to the Secretary concerned that the member has incurred increased housing costs in the area by reason of the disaster or the influx of military personnel.
     - **(D)** Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
-    - **(E)** An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2024 .
+    - **(E)** An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2025 .
   - **(8)**
     - **(A)** The Secretary of Defense may prescribe a temporary adjustment in the current rates of basic allowance for housing for a military housing area or a portion thereof (in this paragraph, “BAH rates”) if the Secretary determines that the actual costs of adequate housing for civilians in that military housing area or portion thereof differs from the current BAH rates by more than 20 percent.
     - **(B)** Any temporary adjustment in BAH rates under this paragraph shall remain in effect only until the effective date of the first adjustment of BAH rates for the affected military housing area that occurs after the date of the adjustment under this paragraph.
-    - **(C)** This paragraph shall cease to be effective on December 31, 2024 .
+    - **(C)** This paragraph shall cease to be effective on December 31, 2025 .
 - **(c)**
   - **(1)** The Secretary of Defense may prescribe an overseas basic allowance for housing for a member of a uniformed service who is on duty outside of the United States. The Secretary shall establish the basic allowance for housing under this subsection on the basis of housing costs in the overseas area in which the member is assigned.
   - **(2)** So long as a member of a uniformed service retains uninterrupted eligibility to receive a basic allowance for housing in an overseas area and the actual monthly cost of housing for the member is not reduced, the monthly amount of the allowance in an area outside the United States may not be reduced as a result of changes in housing costs in the area or the promotion of the member. The monthly amount of the allowance may be adjusted to reflect changes in currency rates.
@@ -72,12 +72,9 @@ generated_at: "2026-03-30T02:10:28.801Z"
 - **(f)**
   - **(1)** A member of a uniformed service without dependents who makes a permanent change of station for assignment to a unit conducting field operations is not entitled to a basic allowance for housing while on that initial field duty unless the commanding officer of the member certifies that the member was necessarily required to procure quarters at the member’s expense.
   - **(2)**
-    - **(A)** Except as provided in subparagraphs (B), (C), and (D), a member of a uniformed service without dependents who is in a pay grade below pay grade E–6 is not entitled to a basic allowance for housing while the member is on sea duty.
-    - **(B)** Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in pay grade E–4 or E–5 and is assigned to sea duty. In prescribing regulations under this subparagraph, the Secretary concerned shall consider the availability of quarters for members serving in pay grades E–4 and E–5.
+    - **(A)** Except as provided in subparagraphs (B) and (C), a member of a uniformed service without dependents who is in a pay grade below pay grade E–6 is not entitled to a basic allowance for housing while the member is on sea duty.
+    - **(B)** Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in a pay grade below E–6 and is assigned to sea duty. In prescribing regulations under this subparagraph, the Secretary concerned shall consider the availability of quarters.
     - **(C)** Notwithstanding section 421 of this title , a member of a uniformed service in a pay grade below pay grade E–6 who is assigned to sea duty and is married to another member of a uniformed service is entitled to a basic allowance for housing subject to the limitations of subsection (e).
-    - **(D)**
-      - **(i)** Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in a pay grade below E–6 and has orders to a naval vessel during a shipyard availability or maintenance period.
-      - **(ii)** In prescribing regulations under clause (i), the Secretary concerned shall consider the availability of quarters for members serving in pay grades below E–6 before authorizing the payment of a basic allowance for housing for such members.
   - **(3)** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall prescribe regulations defining the terms “field duty” and “sea duty” for purposes of this section.
 - **(g)**
   - **(1)** A member of a reserve component without dependents who is called or ordered to active duty to attend accession training, in support of a contingency operation, or for a period of more than 30 days, or a retired member without dependents who is ordered to active duty under section 688(a) of title 10 in support of a contingency operation or for a period of more than 30 days, may not be denied a basic allowance for housing if, because of that call or order, the member is unable to continue to occupy a residence—

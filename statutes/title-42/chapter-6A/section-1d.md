@@ -3,9 +3,9 @@ title: "Section 1d - National program for traumatic brain injury surveillance an
 usc_title: 42
 usc_section: "1d"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1d"
-generated_at: "2026-03-30T02:11:32.435Z"
+generated_at: "2026-03-30T02:19:46.617Z"
 ---
 
 # § 280b–1d. National program for traumatic brain injury surveillance and registries

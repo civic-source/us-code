@@ -3,9 +3,9 @@ title: "Section 54101 - Assistance for small shipyards"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-30T02:11:43.129Z"
+generated_at: "2026-03-30T02:19:51.555Z"
 ---
 
 # § 54101. Assistance for small shipyards
@@ -64,4 +64,3 @@ generated_at: "2026-03-30T02:11:43.129Z"
     - **(C)** the recipient has authority to carry out the proposed project.
 - **(g)** All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
 - **(h)** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
-- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for fiscal year 2021 to carry out this section $20,000,000.

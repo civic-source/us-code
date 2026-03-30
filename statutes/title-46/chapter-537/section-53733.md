@@ -3,9 +3,9 @@ title: "Section 53733 - Shipyard modernization and improvement"
 usc_title: 46
 usc_section: "53733"
 chapter: 537
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 53733"
-generated_at: "2026-03-30T02:11:43.128Z"
+generated_at: "2026-03-30T02:19:51.554Z"
 ---
 
 # § 53733. Shipyard modernization and improvement
@@ -25,3 +25,4 @@ generated_at: "2026-03-30T02:11:43.128Z"
 - **(c)** Except as otherwise provided in this section, a guarantee or commitment to guarantee under this section is subject to all the provisions applicable to a guarantee or commitment to guarantee under subchapter I of this chapter.
 - **(d)** The principal amount of an obligation guaranteed under this chapter may not exceed 87.5 percent of the actual cost of the advanced shipbuilding technology or modern shipbuilding technology.
 - **(e)** The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661a )) of making guarantees or commitments to guarantee under this section.
+- **(f)** Part I of subtitle A of title IX of division G of the Infrastructure Investment and Jobs Act ( Public Law 117–58 ; 41 U.S.C. 8301 note) shall apply to any funds obligated by the Administrator under this section.

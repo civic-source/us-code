@@ -3,9 +3,9 @@ title: "Section 7305 - Divisions of Veterans Health Administration"
 usc_title: 38
 usc_section: "7305"
 chapter: 73
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7305"
-generated_at: "2026-03-30T02:10:34.066Z"
+generated_at: "2026-03-30T02:19:11.569Z"
 ---
 
 # § 7305. Divisions of Veterans Health Administration

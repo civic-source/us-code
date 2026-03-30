@@ -3,9 +3,9 @@ title: "Section 8204 - Fish Habitat Partnerships"
 usc_title: 16
 usc_section: "8204"
 chapter: 101
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8204"
-generated_at: "2026-03-30T02:09:13.548Z"
+generated_at: "2026-03-30T02:18:32.113Z"
 ---
 
 # § 8204. Fish Habitat Partnerships
@@ -42,7 +42,7 @@ generated_at: "2026-03-30T02:09:13.548Z"
   - **(7)** demonstrates completion of, or significant progress toward the development of, a strategic plan to address declines in fish populations, rather than simply treating symptoms, in accordance with the goals and national priorities established by the Board; and
   - **(8)** promotes collaboration in developing a strategic vision and implementation program that is scientifically sound and achievable.
 - **(e)**
-  - **(1)** Not later than February 1 of the first fiscal year beginning after October 30, 2020 , and each February 1 thereafter, the Board shall develop and submit to the appropriate congressional committees an annual report, to be entitled “Report to Congress on Future Fish Habitat Partnerships and Modifications”, that—
+  - **(1)** Not later than February 1 of the first fiscal year beginning after October 30, 2020 , and, subject to paragraph (3), each February 1 thereafter, the Board shall develop and submit to the appropriate congressional committees an annual report, to be entitled “Report to Congress on Future Fish Habitat Partnerships and Modifications”, that—
     - **(A)** identifies each entity that—
       - **(i)** meets the requirements described in subsection (d); and
       - **(ii)** the Board recommends to Congress for designation as a Partnership;
@@ -53,7 +53,10 @@ generated_at: "2026-03-30T02:09:13.548Z"
   - **(2)** The Board shall—
     - **(A)** make the report publicly available, including on the internet; and
     - **(B)** provide to the appropriate congressional committees and the State agency of any State included in a recommended Partnership area written notification of the public availability of the report.
-- **(f)** Congress shall have the exclusive authority to designate or modify a Partnership.
+  - **(3)** The Board shall only submit a report required under paragraph (1) in the fiscal years in which the Board is proposing modifications to, or new designations of, 1 or more Partnerships.
+- **(f)**
+  - **(1)** Congress shall have the exclusive authority to designate or modify a Partnership.
+  - **(2)** A Partnership designation or modification the Board recommends to Congress shall be deemed to be approved by Congress if Congress does not pass a joint resolution of disapproval with respect to the designation or modification by the date that is 90 days after the date on which the relevant congressional committees receive such recommendation.
 - **(g)**
   - **(1)** Not later than 5 years after October 30, 2020 , any partnership receiving Federal funds as of October 30, 2020 , shall be subject to a designation review by Congress in which Congress shall have the opportunity to designate the partnership under subsection (f).
   - **(2)** A partnership referred to in paragraph (1) that Congress does not designate as described in that paragraph shall be ineligible to receive Federal funds under this chapter.

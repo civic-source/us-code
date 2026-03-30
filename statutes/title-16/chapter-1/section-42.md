@@ -3,9 +3,9 @@ title: "Section 42 - Cooperative efforts to control development and encourage co
 usc_title: 16
 usc_section: "42"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 42"
-generated_at: "2026-03-30T02:09:13.331Z"
+generated_at: "2026-03-30T02:18:31.924Z"
 ---
 
 # § 460nnn–42. Cooperative efforts to control development and encourage conservation

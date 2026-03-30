@@ -3,9 +3,9 @@ title: "Section 2154 - Prerequisites for offers"
 usc_title: 19
 usc_section: "2154"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2154"
-generated_at: "2026-03-30T02:09:03.097Z"
+generated_at: "2026-03-30T02:18:27.869Z"
 ---
 
 # § 2154. Prerequisites for offers

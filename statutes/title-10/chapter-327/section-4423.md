@@ -3,9 +3,9 @@ title: "Section 4423 - Requirements and limitations for weapon system component 
 usc_title: 10
 usc_section: "4423"
 chapter: 327
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4423"
-generated_at: "2026-03-30T02:08:27.309Z"
+generated_at: "2026-03-30T02:17:31.673Z"
 ---
 
 # § 4423. Requirements and limitations for weapon system component or technology prototype projects
@@ -21,4 +21,4 @@ generated_at: "2026-03-30T02:08:27.309Z"
       - **(ii)** expected funding for the project; and
       - **(iii)** a statement of the anticipated outcome of the project.
   - **(2)** The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in paragraph (1) on the basis of Department of Defense escalation rates.
-- **(e)** Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note). In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4022 or any other section of this title related to prototyping.
+- **(e)** Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 3602 of this title . In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4022 or any other section of this title related to prototyping.

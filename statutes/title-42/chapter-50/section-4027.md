@@ -3,9 +3,9 @@ title: "Section 4027 - Biennial report to President"
 usc_title: 42
 usc_section: "4027"
 chapter: 50
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4027"
-generated_at: "2026-03-30T02:11:33.208Z"
+generated_at: "2026-03-30T02:19:47.071Z"
 ---
 
 # § 4027. Biennial report to President

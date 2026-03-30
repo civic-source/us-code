@@ -3,12 +3,20 @@ title: "Section 53411 - Authorization of appropriations"
 usc_title: 46
 usc_section: "53411"
 chapter: 534
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 53411"
-generated_at: "2026-03-30T02:11:43.124Z"
+generated_at: "2026-03-30T02:19:51.551Z"
 ---
 
 # § 53411. Authorization of appropriations
 
-There is authorized to be appropriated for payments under section 53406, $60,000,000 for each of fiscal years 2022 and 2023, and $120,000,000 for fiscal years 2024 through 2035, to remain available until expended.
+There are authorized to be appropriated for payments under section 53406, amounts as follows, to remain available until expended:
 
+  - **(1)** $122,400,000 for each of fiscal years 2025 and 2026.
+  - **(2)** $167,600,000 for each of fiscal years 2027 and 2028.
+  - **(3)** $172,120,000 for each of fiscal years 2029 and 2030.
+  - **(4)** $176,780,000 for each of fiscal years 2031 and 2032.
+  - **(5)** $181,560,000 for each of fiscal years 2033 and 2034.
+  - **(6)** $186,460,000 for each of fiscal years 2035 and 2036.
+  - **(7)** $191,480,000 for each of fiscal years 2037 and 2038.
+  - **(8)** $196,660,000 for each of fiscal years 2039 and 2040.

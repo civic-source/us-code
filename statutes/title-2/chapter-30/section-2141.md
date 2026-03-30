@@ -3,9 +3,9 @@ title: "Section 2141 - Supervision of Botanic Garden"
 usc_title: 2
 usc_section: "2141"
 chapter: 30
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 2141"
-generated_at: "2026-03-30T02:07:57.525Z"
+generated_at: "2026-03-30T02:16:56.706Z"
 ---
 
 # § 2141. Supervision of Botanic Garden

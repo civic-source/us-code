@@ -3,9 +3,9 @@ title: "Section 1015a - Transparency in college tuition for consumers"
 usc_title: 20
 usc_section: "1015a"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1015a"
-generated_at: "2026-03-30T02:09:00.900Z"
+generated_at: "2026-03-30T02:18:26.548Z"
 ---
 
 # § 1015a. Transparency in college tuition for consumers

@@ -3,9 +3,9 @@ title: "Section 1862p - National Center for Science and Engineering Statistics"
 usc_title: 42
 usc_section: "1862p"
 chapter: 16
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1862p"
-generated_at: "2026-03-30T02:11:33.071Z"
+generated_at: "2026-03-30T02:19:47.001Z"
 ---
 
 # § 1862p. National Center for Science and Engineering Statistics

@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T02:11:32.997Z"
+generated_at: "2026-03-30T02:19:46.955Z"
 ---
 
 # § 1437f. Low-income housing assistance
@@ -75,6 +75,15 @@ generated_at: "2026-03-30T02:11:32.997Z"
   - **(2)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 - **(k)** The Secretary shall establish procedures which are appropriate and necessary to assure that income data provided to public housing agencies and owners by families applying for or receiving assistance under this section is complete and accurate. In establishing such procedures, the Secretary shall randomly, regularly, and periodically select a sample of families to authorize the Secretary to obtain information on these families for the purpose of income verification, or to allow those families to provide such information themselves. Such information may include, but is not limited to, data concerning unemployment compensation and Federal income taxation and data relating to benefits made available under the Social Security Act [ 42 U.S.C. 301 et seq.], the Food and Nutrition Act of 2008 [ 7 U.S.C. 2011 et seq.], or title 38. Any such information received pursuant to this subsection shall remain confidential and shall be used only for the purpose of verifying incomes in order to determine eligibility of families for benefits (and the amount of such benefits, if any) under this section.
 - **(l)**
+  - **(1)** Each owner of a dwelling unit receiving project-based assistance under this section shall ensure that qualifying smoke alarms are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+  - **(2)** For purposes of this subsection, the following definitions shall apply:
+    - **(A)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
+    - **(B)** The term “qualifying smoke alarm” means a smoke alarm that—
+      - **(i)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
+        - **(I)**
+        - **(II)** provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+      - **(ii)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
+- **(m)**
 - **(n)**
 - **(o)**
   - **(1)**
@@ -268,6 +277,13 @@ generated_at: "2026-03-30T02:11:32.997Z"
   - **(21)** Each dwelling unit receiving tenant-based assistance or project-based assistance under this subsection shall have carbon monoxide alarms or detectors installed in the dwelling unit in a manner that meets or exceeds—
     - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
     - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+  - **(22)**
+    - **(A)** Each dwelling unit receiving tenant-based assistance or project-based assistance under this subsection shall have a qualifying smoke alarm installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+    - **(B)** For purposes of this paragraph, the following definitions shall apply:
+      - **(i)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
+      - **(ii)** The term “qualifying smoke alarm” means a smoke alarm that—
+        - **(I)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
+        - **(II)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
 - **(p)** In order to assist elderly families (as defined in section 1437a(b)(3) of this title who elect to live in a shared housing arrangement in which they benefit as a result of sharing the facilities of a dwelling with others in a manner that effectively and efficiently meets their housing needs and thereby reduces their cost of housing, the Secretary shall permit assistance provided under the existing housing and moderate rehabilitation programs to be used by such families in such arrangements. In carrying out this subsection, the Secretary shall issue minimum habitability standards for the purpose of assuring decent, safe, and sanitary housing for such families while taking into account the special circumstances of shared housing.
 - **(q)**
   - **(1)**

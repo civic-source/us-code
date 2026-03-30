@@ -3,9 +3,9 @@ title: "Section 2330b - Fish hatcheries"
 usc_title: 33
 usc_section: "2330b"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2330b"
-generated_at: "2026-03-30T02:10:26.082Z"
+generated_at: "2026-03-30T02:19:07.027Z"
 ---
 
 # § 2330b. Fish hatcheries

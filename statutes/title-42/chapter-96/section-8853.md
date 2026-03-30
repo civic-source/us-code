@@ -3,9 +3,9 @@ title: "Section 8853 - Lending for energy production and conservation projects b
 usc_title: 42
 usc_section: "8853"
 chapter: 96
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8853"
-generated_at: "2026-03-30T02:11:33.453Z"
+generated_at: "2026-03-30T02:19:47.214Z"
 ---
 
 # § 8853. Lending for energy production and conservation projects by production credit associations, Federal land banks, and banks for cooperatives

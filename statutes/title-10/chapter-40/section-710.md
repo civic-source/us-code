@@ -3,9 +3,9 @@ title: "Section 710 - Career flexibility to enhance retention of members"
 usc_title: 10
 usc_section: "710"
 chapter: 40
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 710"
-generated_at: "2026-03-30T02:08:27.198Z"
+generated_at: "2026-03-30T02:17:31.572Z"
 ---
 
 # § 710. Career flexibility to enhance retention of members

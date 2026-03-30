@@ -3,9 +3,9 @@ title: "Section 3020 - Quarters and space for principal and other offices"
 usc_title: 12
 usc_section: "3020"
 chapter: 31
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 3020"
-generated_at: "2026-03-30T02:08:53.330Z"
+generated_at: "2026-03-30T02:18:20.543Z"
 ---
 
 # § 3020. Quarters and space for principal and other offices

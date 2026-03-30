@@ -3,9 +3,9 @@ title: "Section 2408 - Aid to States, counties, and tribal organizations for est
 usc_title: 38
 usc_section: "2408"
 chapter: 24
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 2408"
-generated_at: "2026-03-30T02:10:34.037Z"
+generated_at: "2026-03-30T02:19:11.536Z"
 ---
 
 # § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries
@@ -62,6 +62,14 @@ generated_at: "2026-03-30T02:10:34.037Z"
     - **(D)** Any spouse of any member described in subparagraphs (A) through (C).
     - **(E)** Any minor child or unmarried adult child (as such terms are defined in section 2402(a) of this title ) of any member described in subparagraphs (A) through (C).
 - **(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of individuals described in subsection (i)(2) is allowed.
-- **(k)** For purposes of this section:
+- **(k)**
+  - **(1)** The Secretary may not establish a condition for a grant under this section that restricts the ability of a State, county, or tribal organization receiving such a grant to allow the interment of any person described in paragraph (8) or (10) of section 2402(a) of this title in a veterans’ cemetery owned by that State or county or on trust land owned by, or held in trust for, that tribal organization.
+  - **(2)** The Secretary may not deny an application for a grant under this section solely on the basis that the State, county, or tribal organization receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of persons described in paragraph (8) or (10) of section 2402(a) of this title is allowed.
+  - **(3)**
+    - **(A)** When requested by a State, county, or tribal organization that is the recipient of a grant made under this section, the Secretary shall—
+      - **(i)** determine whether a person is eligible for burial in a national cemetery under paragraph (8) or (10) of section 2402(a) of this title ; and
+      - **(ii)** advise the recipient of the determination.
+    - **(B)** A recipient described in subparagraph (A) may use a determination of the Secretary under such subparagraph as a determination of the eligibility of the person concerned for burial in the cemetery for which the grant was made.
+- **(l)** For purposes of this section:
   - **(1)** The term “tribal organization” has the meaning given that term in section 3765(4) of this title .
   - **(2)** The term “trust land” has the meaning given that term in section 3765(1) of this title .

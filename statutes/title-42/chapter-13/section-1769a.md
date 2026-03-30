@@ -3,9 +3,9 @@ title: "Section 1769a - Fresh fruit and vegetable program"
 usc_title: 42
 usc_section: "1769a"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1769a"
-generated_at: "2026-03-30T02:11:33.050Z"
+generated_at: "2026-03-30T02:19:46.990Z"
 ---
 
 # § 1769a. Fresh fruit and vegetable program

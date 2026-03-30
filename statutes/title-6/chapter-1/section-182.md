@@ -3,9 +3,9 @@ title: "Section 182 - Responsibilities and authorities of the Under Secretary fo
 usc_title: 6
 usc_section: "182"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 182"
-generated_at: "2026-03-30T02:08:19.227Z"
+generated_at: "2026-03-30T02:17:15.249Z"
 ---
 
 # § 182. Responsibilities and authorities of the Under Secretary for Science and Technology
@@ -26,5 +26,9 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
   - **(10)** supporting United States leadership in science and technology;
   - **(11)** establishing and administering the primary research and development activities of the Department, including the long-term research and development needs and capabilities for all elements of the Department;
   - **(12)** coordinating and integrating all research, development, demonstration, testing, and evaluation activities of the Department;
-  - **(13)** coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs; and
-  - **(14)** developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.
+  - **(13)** coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs;
+  - **(14)** developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department; and
+  - **(15)** carrying out, in coordination with the Drug Enforcement Administration, research, development, testing, evaluation, and cost-benefit analyses to improve the safety, effectiveness, and efficiency of equipment and the effectiveness and efficiency of reference libraries for use by Federal, State, local, Tribal, and territorial law enforcement agencies for the accurate detection of drugs, such as fentanyl and xylazine, including—
+    - **(A)** portable equipment that can detect and identify drugs with minimal or no handling of the sample;
+    - **(B)** equipment that can separate complex mixtures containing low concentrations of drugs and high concentrations of cutting agents into their component parts to enable signature extraction for field identification and detection; and
+    - **(C)** technologies that use machine learning or artificial intelligence (as defined in section 9401 of title 15 ) and other techniques to predict whether the substances in a sample are controlled substance analogues or other new psychoactive substances not yet included in available reference libraries.

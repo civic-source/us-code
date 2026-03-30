@@ -3,15 +3,17 @@ title: "Section 2326g - Beneficial use of dredged material; dredged material man
 usc_title: 33
 usc_section: "2326g"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2326g"
-generated_at: "2026-03-30T02:10:26.082Z"
+generated_at: "2026-03-30T02:19:07.026Z"
 ---
 
 # § 2326g. Beneficial use of dredged material; dredged material management plans
 
 - **(a)**
-  - **(1)** It is the policy of the United States for the Corps of Engineers to maximize the beneficial use, in an environmentally acceptable manner, of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects.
+  - **(1)**
+    - **(A)** It is the policy of the United States for the Corps of Engineers to maximize the beneficial use, in an environmentally acceptable manner, of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects.
+    - **(B)** To the greatest extent practicable, the Secretary shall ensure that not less than 70 percent by volume (as measured in cubic yards) of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects is used beneficially.
   - **(2)**
     - **(A)** In evaluating the placement of dredged material obtained from the construction or operation and maintenance of water resources development projects, the Secretary shall consider—
       - **(i)** the suitability of the dredged material for a full range of beneficial uses; and

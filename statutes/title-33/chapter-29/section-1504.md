@@ -3,9 +3,9 @@ title: "Section 1504 - Procedure"
 usc_title: 33
 usc_section: "1504"
 chapter: 29
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 1504"
-generated_at: "2026-03-30T02:10:26.067Z"
+generated_at: "2026-03-30T02:19:07.012Z"
 ---
 
 # § 1504. Procedure
@@ -71,6 +71,17 @@ generated_at: "2026-03-30T02:10:26.067Z"
   - **(4)**
     - **(A)** The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license.
     - **(B)** If the Secretary fails to approve or deny an application for a deepwater port for natural gas by the applicable deadline under subparagraph (A), the reporting requirements under paragraphs (1), (2), and (3) shall not apply to the application.
+  - **(5)**
+    - **(A)** In this paragraph, the term “amended license application” means a license application for a deepwater port for natural gas—
+      - **(i)** that was originally submitted to the Secretary prior to the issuance of the proclamation issued by the President on March 13, 2020 , with respect to the Coronavirus Disease 2019 (COVID–19) pandemic; and
+      - **(ii)** with respect to which the applicant, based on guidance offered by the Secretary, has made subsequent revisions since the submission of the initial license application and submitted such revised application.
+    - **(B)** The Secretary shall expedite the review and subsequent approval or denial of amended license applications submitted pursuant to this section that meet the eligibility criteria described in subparagraph (C).
+    - **(C)** To be eligible for review under this paragraph, an amended license application shall meet the following criteria:
+      - **(i)** The amended license application is for a natural gas deepwater port facility.
+      - **(ii)** The Secretary had determined that the project as specified in the initial license application was not likely to have any significant adverse environmental impact on species and habitat, consistent with law including National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+      - **(iii)** The Secretary has determined that the results of the environmental review conducted for the initial license application is still applicable to the amended license application and an additional environmental review is not required.
+      - **(iv)** The Secretary had published an affirmative Record of Decision for the initial license application.
+    - **(D)** The Secretary shall approve or deny an amended license application submitted pursuant to this paragraph by no later than 270 consecutive days after the date on which the Secretary determines that the amended license application is complete and meets the requirements under this section.
 - **(j)**
   - **(1)** The Secretary shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
   - **(2)** When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.

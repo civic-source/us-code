@@ -3,9 +3,9 @@ title: "Section 2610 - Inspections and subpoenas"
 usc_title: 15
 usc_section: "2610"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2610"
-generated_at: "2026-03-30T02:08:56.191Z"
+generated_at: "2026-03-30T02:18:09.975Z"
 ---
 
 # § 2610. Inspections and subpoenas

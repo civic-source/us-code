@@ -3,9 +3,9 @@ title: "Section 3018 - Hazardous material"
 usc_title: 39
 usc_section: "3018"
 chapter: 30
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "39 U.S.C. § 3018"
-generated_at: "2026-03-30T02:10:27.968Z"
+generated_at: "2026-03-30T02:19:08.712Z"
 ---
 
 # § 3018. Hazardous material

@@ -3,9 +3,9 @@ title: "Section 2 - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T02:10:26.026Z"
+generated_at: "2026-03-30T02:19:06.971Z"
 ---
 
 # § 579d–2. Deauthorization of inactive projects
@@ -19,9 +19,9 @@ generated_at: "2026-03-30T02:10:26.026Z"
   - **(3)** to allow the continued authorization of water resources development projects and separable elements that are viable for construction.
 - **(b)**
   - **(1)**
-    - **(A)** The Secretary shall develop a preliminary list of each water resources development project, or separable element of a project, authorized for construction before November 8, 2007 , for which—
-      - **(i)** planning, design, or construction was not initiated before the date of enactment of this Act; or
-      - **(ii)** planning, design, or construction was initiated before the date of enactment of this Act, but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
+    - **(A)** The Secretary shall develop a preliminary list of each water resources development project, or separable element of a project, authorized for construction before June 10, 2014 , for which—
+      - **(i)** planning, design, or construction was not initiated before January 4, 2025 ; or
+      - **(ii)** planning, design, or construction was initiated before January 4, 2025 , but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
     - **(B)** The Secretary may develop the preliminary list from the comprehensive construction backlog and operation and maintenance reports developed pursuant to section 579a(b)(2) of this title .
   - **(2)**
     - **(A)** The Secretary shall—

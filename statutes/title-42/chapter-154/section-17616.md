@@ -3,9 +3,9 @@ title: "Section 17616 - Transferred"
 usc_title: 42
 usc_section: "17616"
 chapter: 154
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17616"
-generated_at: "2026-03-30T02:11:33.710Z"
+generated_at: "2026-03-30T02:19:47.372Z"
 ---
 
 # § 17616. Transferred

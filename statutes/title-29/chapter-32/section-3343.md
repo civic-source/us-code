@@ -3,9 +3,9 @@ title: "Section 3343 - Transition provisions"
 usc_title: 29
 usc_section: "3343"
 chapter: 32
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 3343"
-generated_at: "2026-03-30T02:09:43.853Z"
+generated_at: "2026-03-30T02:19:02.143Z"
 ---
 
 # § 3343. Transition provisions

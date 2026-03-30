@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T02:09:39.980Z"
+generated_at: "2026-03-30T02:18:41.580Z"
 ---
 
 # § 2708. Department of State rewards program
@@ -36,8 +36,9 @@ generated_at: "2026-03-30T02:09:39.980Z"
     - **(B)** United States law;
   - **(11)** the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18 ;
   - **(12)** the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title;
-  - **(13)** the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference; or
-  - **(14)** the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country.
+  - **(13)** the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference;
+  - **(14)** the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country; or
+  - **(15)** the restraining, seizing, forfeiting, or repatriating of stolen assets linked to foreign government corruption and the proceeds of such corruption.
 - **(c)**
   - **(1)** To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining of evidence or information, as authorized to the Department of Justice, the offering, administration, and payment of rewards under this section, including procedures for—
     - **(A)** identifying individuals, organizations, and offenses with respect to which rewards will be offered;

@@ -3,9 +3,9 @@ title: "Section 1861a - Transition to sustainable fisheries"
 usc_title: 16
 usc_section: "1861a"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 1861a"
-generated_at: "2026-03-30T02:09:13.469Z"
+generated_at: "2026-03-30T02:18:32.050Z"
 ---
 
 # § 1861a. Transition to sustainable fisheries
@@ -111,13 +111,19 @@ generated_at: "2026-03-30T02:09:13.469Z"
       - **(v)** Direct revenue losses to a fishing community.
       - **(vi)** Treaty obligations.
       - **(vii)** Other economic impacts.
-    - **(D)** To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
-      - **(i)** Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
-      - **(ii)** Statement of work.
-      - **(iii)** Budget details.
+    - **(D)**
+      - **(i)** To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
+        - **(I)** Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
+        - **(II)** Statement of work.
+        - **(III)** Budget details.
+      - **(ii)**
+        - **(I)** The Secretary shall review a spend plan submitted under clause (i) to determine if it is complete and provide notice within 10 days.
+        - **(II)** If the Secretary determines that a spend plan submitted under clause (i) is not complete, when providing the notice required by subclause (I), the Secretary shall provide a detailed description of the information that is necessary for the spend plan to be determined complete.
     - **(E)** If so requested, the Secretary shall provide a regional contact within the National Oceanic and Atmospheric Administration to facilitate review of spend plans and disbursal of funds.
     - **(F)**
-      - **(i)** Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+      - **(i)**
+        - **(I)** Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+        - **(II)** If so requested, the Director of the Office of Management and Budget may review a completed spend plan concurrently with the Secretary. The Director of the Office of Management and Budget may not delay the timeline described in subclause (I).
       - **(ii)** The Secretary may provide an allocation of funds under this subsection in the form of a grant, direct payment, cooperative agreement, loan, or contract.
       - **(iii)**
         - **(I)** Funds allocated for fishery resources disasters under this subsection shall restore the fishery affected by such a disaster, prevent a similar disaster in the future, or assist the affected fishing community, and shall prioritize the following uses, which are not in order of priority:

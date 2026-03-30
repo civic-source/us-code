@@ -3,9 +3,9 @@ title: "Section 59n - Hudson River, Hudson County, New Jersey"
 usc_title: 33
 usc_section: "59n"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 59n"
-generated_at: "2026-03-30T02:10:26.013Z"
+generated_at: "2026-03-30T02:19:06.959Z"
 ---
 
 # § 59n. Hudson River, Hudson County, New Jersey

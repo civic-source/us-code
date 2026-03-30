@@ -3,9 +3,9 @@ title: "Section 122b - General provisions"
 usc_title: 27
 usc_section: "122b"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "27 U.S.C. § 122b"
-generated_at: "2026-03-30T02:09:41.861Z"
+generated_at: "2026-03-30T02:18:43.830Z"
 ---
 
 # § 122b. General provisions

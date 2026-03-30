@@ -3,9 +3,9 @@ title: "Section 937 - Art. 137. Articles to be explained"
 usc_title: 10
 usc_section: "937"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 937"
-generated_at: "2026-03-30T02:08:27.210Z"
+generated_at: "2026-03-30T02:17:31.581Z"
 ---
 
 # § 937. Art. 137. Articles to be explained
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T02:08:27.210Z"
     - **(C)** the member’s initial entrance on active duty or into a space force active status.
   - **(2)** Such sections (articles) shall be explained again—
     - **(A)** after the member has completed six months of active duty or, in the case of a member of a reserve component, after the member has completed basic or recruit training;
-    - **(B)** after a member of Space 1 1 So in original. Probably should be preceded by “the”. Force has completed six months of sustained duty or in the case of a member not on sustained duty, after the member has completed basic or recruit training; and
+    - **(B)** after a member of the Space Force has completed six months of sustained duty or in the case of a member not on sustained duty, after the member has completed basic or recruit training; and
     - **(C)** at the time when the member reenlists.
   - **(3)** This subsection applies with respect to sections 802, 803, 807–815, 825, 827, 831, 837, 838, 855, 877–934, and 937–939 of this title (articles 2, 3, 7–15, 25, 27, 31, 37, 38, 55, 77–134, and 137–139).
 - **(b)**

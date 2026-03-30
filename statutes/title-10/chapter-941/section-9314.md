@@ -3,9 +3,9 @@ title: "Section 9314 - Twenty to thirty years: enlisted members"
 usc_title: 10
 usc_section: "9314"
 chapter: 941
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9314"
-generated_at: "2026-03-30T02:08:27.341Z"
+generated_at: "2026-03-30T02:17:31.704Z"
 ---
 
 # § 9314. Twenty to thirty years: enlisted members

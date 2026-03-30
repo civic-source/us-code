@@ -3,9 +3,9 @@ title: "Section 1468 - Regional Ocean Partnerships"
 usc_title: 16
 usc_section: "1468"
 chapter: 33
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 1468"
-generated_at: "2026-03-30T02:09:13.452Z"
+generated_at: "2026-03-30T02:18:32.030Z"
 ---
 
 # § 1468. Regional Ocean Partnerships

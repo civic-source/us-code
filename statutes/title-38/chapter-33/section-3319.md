@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-30T02:10:34.043Z"
+generated_at: "2026-03-30T02:19:11.543Z"
 ---
 
 # § 3319. Authority to transfer unused education benefits to family members
@@ -69,12 +69,12 @@ generated_at: "2026-03-30T02:10:34.043Z"
   - **(6)** The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
   - **(7)** The administrative provisions of this chapter shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible individual for purposes of such provisions.
 - **(i)**
-  - **(1)** In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
+  - **(1)** Subject to paragraph (2), in the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of this title .
   - **(2)**
-    - **(A)** Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
-    - **(B)** Subparagraph (A) shall not apply in the case of an individual who fails to complete service agreed to by the individual—
+    - **(A)** Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of section 3685 of this title .
+    - **(B)** Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 3685 of this title in the case of an individual who fails to complete service agreed to by the individual—
       - **(i)** by reason of the death of the individual; or
-      - **(ii)** for a reason referred to in section 3311(c)(4).
+      - **(ii)** for a reason referred to in section 3311(c)(4) of this title .
 - **(j)**
   - **(1)** The Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall prescribe regulations for purposes of this section.
   - **(2)** Such regulations shall specify—

@@ -3,9 +3,9 @@ title: "Section 2710 - Wrongful disclosure of video tape rental or sale records"
 usc_title: 18
 usc_section: "2710"
 chapter: 121
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 2710"
-generated_at: "2026-03-30T02:09:08.317Z"
+generated_at: "2026-03-30T02:18:24.498Z"
 ---
 
 # § 2710. Wrongful disclosure of video tape rental or sale records

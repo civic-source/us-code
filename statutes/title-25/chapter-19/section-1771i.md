@@ -3,9 +3,9 @@ title: "Section 1771i - Omitted"
 usc_title: 25
 usc_section: "1771i"
 chapter: 19
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 1771i"
-generated_at: "2026-03-30T02:09:31.249Z"
+generated_at: "2026-03-30T02:18:36.404Z"
 ---
 
 # § 1771i. Omitted

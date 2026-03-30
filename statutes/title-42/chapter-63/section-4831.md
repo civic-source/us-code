@@ -3,9 +3,9 @@ title: "Section 4831 - Use of lead-based paint"
 usc_title: 42
 usc_section: "4831"
 chapter: 63
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4831"
-generated_at: "2026-03-30T02:11:33.230Z"
+generated_at: "2026-03-30T02:19:47.082Z"
 ---
 
 # § 4831. Use of lead-based paint

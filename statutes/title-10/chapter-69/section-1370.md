@@ -3,9 +3,9 @@ title: "Section 1370 - Regular commissioned officers"
 usc_title: 10
 usc_section: "1370"
 chapter: 69
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1370"
-generated_at: "2026-03-30T02:08:27.237Z"
+generated_at: "2026-03-30T02:17:31.603Z"
 ---
 
 # § 1370. Regular commissioned officers
@@ -21,7 +21,7 @@ generated_at: "2026-03-30T02:08:27.237Z"
   - **(4)** A reserve officer, or an officer appointed to a position under section 601 of this title , who is notified that the officer will be released from active duty without the officer’s consent and thereafter requests retirement under section 7311, 8323, or 9311 of this title and is retired pursuant to that request is considered for purposes of this section to have been retired involuntarily.
   - **(5)** An officer retired pursuant to section 1186(b)(1) of this title is considered for purposes of this section to have been retired voluntarily.
 - **(b)**
-  - **(1)** In order to be eligible for voluntary retirement under any provision of this title in a grade above the grade of captain in the Army, Air Force, Marine Corps, or, 1 1 So in original. The comma probably should not appear. Space Force or lieutenant in the Navy, a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force must have served on active duty in that grade for a period of not less than three years, except that—
+  - **(1)** In order to be eligible for voluntary retirement under any provision of this title in a grade above the grade of captain in the Army, Air Force, Marine Corps, or Space Force or lieutenant in the Navy, a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force must have served on active duty in that grade for a period of not less than three years, except that—
     - **(A)** subject to subsection (c), the Secretary of Defense may reduce such period to a period of not less than two years for any officer; and
     - **(B)** in the case of an officer to be retired in a grade at or below the grade of major general or rear admiral, the Secretary of Defense may authorize the Secretary of the military department concerned to reduce such period to a period of not less than two years.
   - **(2)** The authority of the Secretary of Defense in subparagraph (A) of paragraph (1) may not be delegated. The authority of the Secretary of a military department in subparagraph (B) of paragraph (1), as delegated to such Secretary pursuant to such subparagraph, may not be further delegated.
@@ -72,9 +72,9 @@ generated_at: "2026-03-30T02:08:27.237Z"
     - **(B)** may not make an adverse determination on the retired grade of the officer until the officer has had a reasonable opportunity to respond regarding the basis for the reopening of the officer’s retired grade.
   - **(5)** If the determination of the retired grade of an officer whose retired grade was provided for pursuant to subsection (c) is reopened, the Secretary of Defense shall also notify the President and the Committees on Armed Services of the Senate and the House of Representatives.
   - **(6)** If the retired grade of an officer is proposed to be changed through the reopening of the final determination of an officer’s retired grade under this subsection, the change in grade shall be made—
-    - **(A)** in the case of an officer whose retired grade is to be changed to a grade at or below the grade of major general in the Army, Air Force 2 2 So in original. Probably should be followed by a comma. Marine Corps, or Space Force or rear admiral in the Navy in accordance with subsections (a) and (b)—
+    - **(A)** in the case of an officer whose retired grade is to be changed to a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force or rear admiral in the Navy in accordance with subsections (a) and (b)—
       - **(i)** by the Secretary of Defense (who may delegate such authority only as authorized by clause (ii)); or
       - **(ii)** if authorized by the Secretary of Defense, by the Secretary of the military department concerned (who may not further delegate such authority);
-    - **(B)** in the case of an officer whose retired grade is to be changed to the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy 2 by the President, by and with the advice and consent of the Senate.
+    - **(B)** in the case of an officer whose retired grade is to be changed to the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy, by the President, by and with the advice and consent of the Senate.
   - **(7)** If the final retired grade of an officer is changed through the reopening of the officer’s retired grade under this subsection, the retired pay of the officer under chapter 71 of this title shall be recalculated. Any modification of the retired pay of the officer as a result of the change shall go into effect on the effective date of the change of the officer’s retired grade, and the officer shall not be entitled or subject to any changed amount of retired pay for any period before such effective date. An officer whose retired grade is changed as provided in paragraph (6)(B) shall not be entitled or subject to a change in retired pay for any period before the date on which the Senate provides advice and consent for the retirement of the officer in such grade.
-- **(g)** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, or Marine Corps, rear admiral in the Navy, or an equivalent grade in the Space Force.
+- **(g)** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.

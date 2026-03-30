@@ -3,9 +3,9 @@ title: "Section 3322 - Cost contracts"
 usc_title: 10
 usc_section: "3322"
 chapter: 242
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3322"
-generated_at: "2026-03-30T02:08:27.296Z"
+generated_at: "2026-03-30T02:17:31.660Z"
 ---
 
 # § 3322. Cost contracts
@@ -17,3 +17,12 @@ generated_at: "2026-03-30T02:08:27.296Z"
     - **(A)** a cost-plus-a-fixed-fee subcontract; or
     - **(B)** a fixed-price subcontract or purchase order involving more than the greater of (i) the simplified acquisition threshold, or (ii) 5 percent of the estimated cost of the prime contract.
   - **(2)** Paragraph (1) shall not apply to a prime contract with a contractor that maintains a purchasing system approved by the contracting officer for the contract.
+- **(d)**
+  - **(1)** Except as provided by paragraph (2), a covered contract shall limit the number of low-rate production lots for any production quantities procured using fixed-priced options under such covered contract to not more than one.
+  - **(2)**
+    - **(A)** The service acquisition executive of the military department concerned or, in the case of program that is a joint program, the Secretary of Defense may waive the limit required under paragraph (1) with respect to the number of low-rate production lots for a production quantity under a covered contract if such service acquisition executive or the Secretary of Defense, as applicable, determines that such waiver is in the best interest of the Department of Defense.
+    - **(B)** Neither a service acquisition executive nor the Secretary of Defense may delegate the authority under subparagraph (A) to waive the limit required under paragraph (1) below the level of a service acquisition executive.
+  - **(3)** In this subsection:
+    - **(A)** The term “covered contract” means a cost reimbursement contract for the development of a major system.
+    - **(B)** The term “low-rate initial production” has the same meaning as in section 4231 of this title .
+    - **(C)** The term “major system” has the meaning given such term in section 3041 of this title .

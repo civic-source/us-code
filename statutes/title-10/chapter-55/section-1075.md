@@ -3,9 +3,9 @@ title: "Section 1075 - TRICARE Select"
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-30T02:08:27.225Z"
+generated_at: "2026-03-30T02:17:31.591Z"
 ---
 
 # § 1075. TRICARE Select
@@ -28,11 +28,6 @@ generated_at: "2026-03-30T02:08:27.225Z"
     - **(A)** Except as provided by subsection (e), with respect to beneficiaries described in subparagraph (B) in the active-duty family member category or the retired category, the cost-sharing requirements shall be calculated as if the beneficiary were enrolled in TRICARE Extra or TRICARE Standard as if TRICARE Extra or TRICARE Standard, as the case may be, were still being carried out by the Secretary.
     - **(B)** Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018 , or by reason of being a dependent of such a member.
   - **(3)** With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
-  - **(4)**
-    - **(A)** Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
-      - **(i)** Beneficiaries in the active-duty family member category.
-      - **(ii)** Beneficiaries covered by section 1110b of this title .
-    - **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 - **(d)**
   - **(1)** Beneficiaries described in subsection (c)(1) enrolled in TRICARE Select shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years: TRICARE Select Active-Duty Family Member (Individual/Family) Retired (Individual/Family) Annual Enrollment $0 $450 / $900 Annual deductible E4 & below: $50 / $100 $150 / $300 Network ..................... E5 & above: $150 / $300 $300 / $600 out of network Annual catastrophic cap $1,000 $3,500 Outpatient visit civilian network $15 primary care $25 primary care ..................... $25 specialty care $40 specialty care ..................... ..................... Out of network: 20% 25% out of network ER visit civilian network $40 network $80 network ..................... 20% out of network 25% out of network Urgent care civilian network $20 network $40 network ..................... 20% out of network 25% out of network Ambulatory surgery civilian network $25 network $95 network ..................... 20% out of network 25% out of network Ground ambulance civilian network $15 $60 Durable medical equipment civilian network 10% of negotiated fee 20% network Inpatient visit civilian network $60 per network admission $175 per admission network ..................... ..................... 20% out of network 25% out of network Inpatient skilled nursing/rehab civilian $25 per day network $50 per day network ..................... $50 per day out of network Lesser of $300 per day or 20% of billed charges out of network
   - **(2)** Each dollar amount expressed as a fixed dollar amount in the table set forth in paragraph (1), and the amounts specified under paragraphs (1) and (2) of subsection (e), shall be annually indexed to the amount by which retired pay is increased under section 1401a of this title , rounded to the next lower multiple of $1. The remaining amount above such multiple of $1 shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.
@@ -50,7 +45,16 @@ generated_at: "2026-03-30T02:08:27.225Z"
     - **(B)** Whether covered beneficiaries are able to obtain appointments for health care according to the access standards established by the Secretary of Defense.
     - **(C)** The percent of network providers that accept new patients under the TRICARE program.
     - **(D)** The satisfaction of beneficiaries under TRICARE Select.
-- **(f)** A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICARE Standard were still being carried out by the Secretary.
+- **(f)**
+  - **(1)** A beneficiary enrolled in TRICARE for Life is subject to cost-sharing requirements pursuant to section 1086(d)(3) of this title and calculated as if the beneficiary were enrolled in TRICARE Standard as if TRICARE Standard were still being carried out by the Secretary.
+  - **(2)**
+    - **(A)** Notwithstanding any other provision of this section, the cost-sharing amount under this section for any beneficiary enrolled in TRICARE Select for a service described in subparagraph (B) that is provided by a network provider is $0.
+    - **(B)** A service described in this subparagraph is any contraceptive method approved, cleared, or authorized under section 505, 510(k), 513(f)(2), or 515 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 , 360(k), 360c(f)(2), 360e), any contraceptive care (including with respect to insertion, removal, and follow up), any sterilization procedure, or any patient education or counseling service provided in connection with any such contraceptive, care, or procedure.
+  - **(3)**
+    - **(A)** Consistent with other provisions of this chapter and subject to requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits each year of any of the following beneficiaries:
+      - **(i)** Beneficiaries in the active-duty family member category.
+      - **(ii)** Beneficiaries covered by section 1110b of this title .
+    - **(B)** This paragraph shall terminate on the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
 - **(g)** Nothing in this section may be construed as affecting the availability of TRICARE Prime and TRICARE for Life or the cost-sharing requirements for TRICARE for Life under section 1086(d)(3) of this title .
 - **(h)**
   - **(1)** The Secretary may establish a system of multiple networks of providers under TRICARE Select in the same geographic area or areas.

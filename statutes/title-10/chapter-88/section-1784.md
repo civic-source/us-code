@@ -3,9 +3,9 @@ title: "Section 1784 - Employment opportunities for military spouses"
 usc_title: 10
 usc_section: "1784"
 chapter: 88
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1784"
-generated_at: "2026-03-30T02:08:27.254Z"
+generated_at: "2026-03-30T02:17:31.619Z"
 ---
 
 # § 1784. Employment opportunities for military spouses
@@ -32,4 +32,3 @@ generated_at: "2026-03-30T02:08:27.254Z"
   - **(4)** Not later than February 28 each year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on interstate compacts described in paragraph (1) developed through assistance provided under that paragraph. Each report shall set forth the following:
     - **(A)** Any interstate compact developed during the preceding calendar year, including the occupational licenses covered by such compact and the States agreeing to enter into such compact.
     - **(B)** Any interstate compact developed during a prior calendar year into which one or more additional States agreed to enter during the preceding calendar year.
-  - **(5)** The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expires on September 30, 2024 .

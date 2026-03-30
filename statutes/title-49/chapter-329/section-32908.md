@@ -3,9 +3,9 @@ title: "Section 32908 - Fuel economy information"
 usc_title: 49
 usc_section: "32908"
 chapter: 329
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 32908"
-generated_at: "2026-03-30T02:11:47.403Z"
+generated_at: "2026-03-30T02:19:55.129Z"
 ---
 
 # § 32908. Fuel economy information

@@ -3,9 +3,9 @@ title: "Section 3604 - Criminal offenses"
 usc_title: 7
 usc_section: "3604"
 chapter: 67
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3604"
-generated_at: "2026-03-30T02:08:42.963Z"
+generated_at: "2026-03-30T02:18:00.392Z"
 ---
 
 # § 3604. Criminal offenses

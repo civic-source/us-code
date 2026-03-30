@@ -3,9 +3,9 @@ title: "Section 12253 - Report"
 usc_title: 34
 usc_section: "12253"
 chapter: 121
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 12253"
-generated_at: "2026-03-30T02:10:13.891Z"
+generated_at: "2026-03-30T02:19:05.024Z"
 ---
 
 # § 12253. Report

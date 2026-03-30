@@ -3,9 +3,9 @@ title: "Section 44736 - Organization designation authorizations"
 usc_title: 49
 usc_section: "44736"
 chapter: 447
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44736"
-generated_at: "2026-03-30T02:11:47.437Z"
+generated_at: "2026-03-30T02:19:55.148Z"
 ---
 
 # § 44736. Organization designation authorizations

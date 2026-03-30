@@ -3,9 +3,9 @@ title: "Section 1004 - Responsibilities of congressional committees"
 usc_title: 5
 usc_section: "1004"
 chapter: 10
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 1004"
-generated_at: "2026-03-30T02:08:10.378Z"
+generated_at: "2026-03-30T02:17:12.640Z"
 ---
 
 # § 1004. Responsibilities of congressional committees

@@ -3,9 +3,9 @@ title: "Section 1600 - Findings and purposes"
 usc_title: 43
 usc_section: "1600"
 chapter: 32
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1600"
-generated_at: "2026-03-30T02:10:37.051Z"
+generated_at: "2026-03-30T02:19:17.909Z"
 ---
 
 # § 1600. Findings and purposes

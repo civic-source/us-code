@@ -3,9 +3,9 @@ title: "Section 1370a - Officers entitled to retired pay for non-regular service
 usc_title: 10
 usc_section: "1370a"
 chapter: 69
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1370a"
-generated_at: "2026-03-30T02:08:27.238Z"
+generated_at: "2026-03-30T02:17:31.603Z"
 ---
 
 # § 1370a. Officers entitled to retired pay for non-regular service
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T02:08:27.238Z"
   - **(7)** To the extent authorized by the Secretary of the military department concerned, a person who, after having been found qualified for Federal recognition in a higher grade by a board under section 307 of title 32 , serves in a position for which that grade is the minimum authorized grade and is appointed as a reserve officer in that grade may be credited for the purposes of paragraph (1) as having served in that grade. The period of the service for which credit is afforded under the preceding sentence may be only the period for which the person served in the position after the Senate provides advice and consent for the appointment.
   - **(8)** A person whose length of service in the highest grade held does not meet the service-in-grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 - **(d)**
-  - **(1)** A person covered by this section in the Army, Navy, Air Force, or Marine Corps who is serving or has served in a position of importance and responsibility designated by the President to carry the grade of lieutenant general or general in the Army, Air Force, or Marine Corps, or vice admiral or admiral in the Navy under section 601 of this title may be retired in such grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and the Committees on Armed Services of the Senate and the House of Representatives that the officer served satisfactorily in such grade.
+  - **(1)** A person covered by this section in the Army, Navy, Air Force, Marine Corps, or Space Force who is serving or has served in a position of importance and responsibility designated by the President to carry the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force, or vice admiral or admiral in the Navy under section 601 of this title may be retired in such grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and the Committees on Armed Services of the Senate and the House of Representatives that the officer served satisfactorily in such grade.
   - **(2)** The authority of the Secretary of Defense to make a certification with respect to an officer under paragraph (1) may not be delegated.
   - **(3)** A certification with respect to an officer under paragraph (1) shall—
     - **(A)** be submitted by the Secretary of Defense such that it is received by the President and the Committees on Armed Services of the Senate and the House of Representatives not later than 60 days prior to the date on which the officer will be retired in the grade concerned;
@@ -40,4 +40,4 @@ generated_at: "2026-03-30T02:08:27.238Z"
 - **(g)**
   - **(1)** Except for a conditional determination authorized by subsection (e), a determination of the retired grade of a person pursuant to this section is administratively final on the day the person is retired, and may not be reopened.
   - **(2)** A determination of the retired grade of a person may be reopened in accordance with applicable provisions of section 1370(f) of this title . In the application of such section 1370(f) for purposes of this subsection, any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (7) of such section 1370(f) for purposes of this paragraph, the reference to “chapter 71 of this title” shall be deemed to be a reference to “chapter 1223 of this title”.
-- **(h)** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, or Marine Corps or rear admiral in the Navy.
+- **(h)** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.

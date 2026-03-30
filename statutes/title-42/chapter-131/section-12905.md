@@ -3,9 +3,9 @@ title: "Section 12905 - Responsibilities of grantees"
 usc_title: 42
 usc_section: "12905"
 chapter: 131
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12905"
-generated_at: "2026-03-30T02:11:33.596Z"
+generated_at: "2026-03-30T02:19:47.302Z"
 ---
 
 # § 12905. Responsibilities of grantees
@@ -23,3 +23,12 @@ generated_at: "2026-03-30T02:11:33.596Z"
 - **(i)** Each dwelling unit assisted under this chapter shall contain installed carbon monoxide alarms or detectors that meet or exceed—
   - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
   - **(2)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+- **(j)**
+  - **(1)** Each dwelling unit assisted under this chapter shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+  - **(2)** For purposes of this subsection, the following definitions shall apply:
+    - **(A)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
+    - **(B)** The term “qualifying smoke alarm” means a smoke alarm that—
+      - **(i)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
+        - **(I)**
+        - **(II)** provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+      - **(ii)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.

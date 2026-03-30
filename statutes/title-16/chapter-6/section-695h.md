@@ -3,9 +3,9 @@ title: "Section 695h - Ownership by State of California of works constructed"
 usc_title: 16
 usc_section: "695h"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 695h"
-generated_at: "2026-03-30T02:09:13.378Z"
+generated_at: "2026-03-30T02:18:31.965Z"
 ---
 
 # § 695h. Ownership by State of California of works constructed

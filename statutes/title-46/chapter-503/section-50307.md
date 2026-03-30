@@ -3,9 +3,9 @@ title: "Section 50307 - Maritime environmental and technical assistance program"
 usc_title: 46
 usc_section: "50307"
 chapter: 503
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 50307"
-generated_at: "2026-03-30T02:11:43.112Z"
+generated_at: "2026-03-30T02:19:51.544Z"
 ---
 
 # § 50307. Maritime environmental and technical assistance program
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T02:11:43.112Z"
 - **(c)** Activities carried out under a grant or cooperative agreement made under this section may be conducted on public vessels under the control of the Maritime Administration, upon approval of the Maritime Administrator.
 - **(d)** In this section, the term “eligible entity” means—
   - **(1)** a private entity, including a nonprofit organization;
-  - **(2)** a State, regional, or local government or entity, including special districts;
+  - **(2)** a public entity, including a Federal, State, regional, or local government entity, including a special district;
   - **(3)** an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 )) or a consortium of Indian Tribes;
   - **(4)** an institution of higher education as defined under section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 ); or
   - **(5)** a partnership or collaboration of entities described in paragraphs (1) through (4).

@@ -3,9 +3,9 @@ title: "Section 3653 - Employment standards"
 usc_title: 22
 usc_section: "3653"
 chapter: 51
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3653"
-generated_at: "2026-03-30T02:09:39.998Z"
+generated_at: "2026-03-30T02:18:41.606Z"
 ---
 
 # § 3653. Employment standards

@@ -3,9 +3,9 @@ title: "Section 20106 - Orders to active duty: without consent of member"
 usc_title: 10
 usc_section: "20106"
 chapter: 2003
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20106"
-generated_at: "2026-03-30T02:08:27.362Z"
+generated_at: "2026-03-30T02:17:31.723Z"
 ---
 
 # § 20106. Orders to active duty: without consent of member
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:08:27.362Z"
   - **(1)** Chapters 39 and 1209 of this title include provisions authorizing the order to active duty of a member of the Space Force in a space force retired status.
   - **(2)** The provisions of sections 688, 688a, and 12407 of this title pertaining to a retired member or a member of the Retired Reserve shall apply to a member of the Space Force in a space force retired status when ordered to active duty.
   - **(3)** The provisions of section 689 of this title pertaining to a retired member ordered to active duty shall apply to a member of the Space Force in a space force retired status who is ordered to active duty.
-- **(d)** The following provisions of chapter 1209 of this title pertaining 1 1 So in original. shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
+- **(d)** The following provisions of chapter 1209 of this title shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
   - **(1)** Section 12305, relating to the authority of the President to suspend certain laws relating to promotion, retirement, and separation.
   - **(2)** Section 12308, relating to retention after becoming qualified for retired pay.
   - **(3)** Section 12313, relating to release from active duty.

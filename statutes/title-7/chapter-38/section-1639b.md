@@ -3,9 +3,9 @@ title: "Section 1639b - Establishment of national bioengineered food disclosure 
 usc_title: 7
 usc_section: "1639b"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 1639b"
-generated_at: "2026-03-30T02:08:42.904Z"
+generated_at: "2026-03-30T02:18:00.337Z"
 ---
 
 # § 1639b. Establishment of national bioengineered food disclosure standard

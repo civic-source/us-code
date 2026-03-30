@@ -3,15 +3,15 @@ title: "Section 1528 - Congressional notification of biological select agent and
 usc_title: 50
 usc_section: "1528"
 chapter: 32
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1528"
-generated_at: "2026-03-30T02:11:41.457Z"
+generated_at: "2026-03-30T02:19:57.453Z"
 ---
 
 # § 1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense
 
 - **(a)**
-  - **(1)** Subject to paragraph (2), not later than 45 days after a covered report of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is filed with the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, the Secretary of Defense, acting through the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs, shall provide to the congressional defense committees notice of such theft, loss, or release.
+  - **(1)** Subject to paragraph (2), not later than 45 days after a covered report of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is filed with the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, the Secretary of Defense, acting through the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs, shall provide to the congressional defense committees notice of such theft, loss, or release.
   - **(2)** The Secretary shall provide to the congressional defense committees notice of a release under paragraph (1) only if the Secretary, acting through the Assistant Secretary, determines that the release is outside the barriers of secondary containment into the ambient air or environment or is causing occupational exposure that presents a threat to public safety.
   - **(3)** In this subsection, the term “covered report” means a report filed under any of the following (or any successor regulations):
     - **(A)** Section 331.19 of title 7, Code of Federal Regulations.

@@ -3,9 +3,9 @@ title: "Section 7564 - Navy and Marine Corps: camp equipment and transportation;
 usc_title: 10
 usc_section: "7564"
 chapter: 765
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7564"
-generated_at: "2026-03-30T02:08:27.322Z"
+generated_at: "2026-03-30T02:17:31.686Z"
 ---
 
 # § 7564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Army

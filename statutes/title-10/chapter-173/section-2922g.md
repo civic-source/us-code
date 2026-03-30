@@ -3,9 +3,9 @@ title: "Section 2922g - Preference for motor vehicles using electric or hybrid p
 usc_title: 10
 usc_section: "2922g"
 chapter: 173
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2922g"
-generated_at: "2026-03-30T02:08:27.292Z"
+generated_at: "2026-03-30T02:17:31.656Z"
 ---
 
 # § 2922g. Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles
@@ -27,7 +27,7 @@ generated_at: "2026-03-30T02:08:27.292Z"
   - **(1)** The Secretary of Defense may waive the requirement under subsection (d).
   - **(2)** The Secretary of Defense may not delegate the waiver authority under paragraph (1).
 - **(g)** In this section:
-  - **(1)** The term “advanced-biofuel-powered vehicle” includes a vehicle that uses a fuel described in section 9001(3)(A) of the Farm Security and Rural Investment Act of 2202 1 1 So in original. Probably should be “2002”. ( 7 U.S.C. 8101(3)(A) ).
+  - **(1)** The term “advanced-biofuel-powered vehicle” includes a vehicle that uses a fuel described in section 9001(3)(A) of the Farm Security and Rural Investment Act of 2002 ( 7 U.S.C. 8101(3)(A) ).
   - **(2)** The term “covered nontactical vehicle” means any vehicle—
     - **(A)** that is not a tactical vehicle designed for use in combat; and
     - **(B)** that is purchased or leased by the Department of Defense pursuant to a contract entered into, renewed, modified, or amended on or after October 1, 2035 .

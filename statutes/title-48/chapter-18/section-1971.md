@@ -3,9 +3,9 @@ title: "Section 1971 - Transfer of surplus personal property owned by United Sta
 usc_title: 48
 usc_section: "1971"
 chapter: 18
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "48 U.S.C. § 1971"
-generated_at: "2026-03-30T02:11:38.631Z"
+generated_at: "2026-03-30T02:19:51.979Z"
 ---
 
 # § 1971. Transfer of surplus personal property owned by United States

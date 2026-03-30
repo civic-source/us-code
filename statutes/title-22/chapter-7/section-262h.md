@@ -3,9 +3,9 @@ title: "Section 262h - Opposition by United States Executive Directors of intern
 usc_title: 22
 usc_section: "262h"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 262h"
-generated_at: "2026-03-30T02:09:39.905Z"
+generated_at: "2026-03-30T02:18:41.477Z"
 ---
 
 # § 262h. Opposition by United States Executive Directors of international financial institutions to assistance for production or extraction of export commodities or minerals in surplus on world markets

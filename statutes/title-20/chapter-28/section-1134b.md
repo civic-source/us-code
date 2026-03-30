@@ -3,9 +3,9 @@ title: "Section 1134b - Stipends"
 usc_title: 20
 usc_section: "1134b"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1134b"
-generated_at: "2026-03-30T02:09:00.948Z"
+generated_at: "2026-03-30T02:18:26.598Z"
 ---
 
 # § 1134b. Stipends

@@ -3,9 +3,9 @@ title: "Section 6804 - Recreation passes"
 usc_title: 16
 usc_section: "6804"
 chapter: 87
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 6804"
-generated_at: "2026-03-30T02:09:13.535Z"
+generated_at: "2026-03-30T02:18:32.104Z"
 ---
 
 # § 6804. Recreation passes
@@ -17,12 +17,20 @@ generated_at: "2026-03-30T02:09:13.535Z"
   - **(4)** The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age discount and lifetime passes issued under subsection (b).
   - **(5)** The Secretaries shall establish the price at which the National Parks and Federal Recreational Lands Pass will be sold to the public.
   - **(6)**
-    - **(A)** The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
+    - **(A)** The Secretaries shall sell or otherwise make available the National Parks and Federal Recreational Lands Pass—
+      - **(i)** at all Federal recreational lands and waters at which—
+        - **(I)** an entrance fee or a standard amenity recreation fee is charged; and
+        - **(II)** such sales or distribution of the Pass is feasible;
+      - **(ii)** at such other locations as the Secretaries consider appropriate and feasible; and
+      - **(iii)** through a prominent link to a centralized pass sale system on the website of each of the Federal land management agencies and the websites of the relevant units and subunits of those agencies, which shall include information about where and when a National Parks and Federal Recreational Lands Pass may be used.
     - **(B)** The Secretary may enter into fee management agreements as provided in section 6805 of this title .
     - **(C)** The Secretaries shall take such actions as are appropriate to provide for the active marketing of the National Parks and Federal Recreational Lands Pass.
   - **(7)** The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
   - **(8)** The Secretaries may enter into cooperative agreements with governmental and nongovernmental entities for the development and implementation of the National Parks and Federal Recreational Lands Pass Program.
   - **(9)** The Secretary may not establish any national recreation pass, except as provided in this section.
+  - **(10)** Not later than January 1, 2026 , the Secretaries shall—
+    - **(A)** establish a digital version of the National Parks and Federal Recreational Lands Pass that is able to be stored on a mobile device, including with respect to free and discounted passes; and
+    - **(B)** upon completion of a transaction for a National Parks and Federal Recreational Lands Pass, make immediately available to the passholder a digital version of the National Parks and Federal Recreational Lands Pass established under subparagraph (A).
 - **(b)**
   - **(1)**
     - **(A)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this paragraph shall be available—

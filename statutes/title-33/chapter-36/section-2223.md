@@ -3,9 +3,9 @@ title: "Section 2223 - Transfer of excess credit"
 usc_title: 33
 usc_section: "2223"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2223"
-generated_at: "2026-03-30T02:10:26.073Z"
+generated_at: "2026-03-30T02:19:07.017Z"
 ---
 
 # § 2223. Transfer of excess credit
@@ -27,11 +27,11 @@ generated_at: "2026-03-30T02:10:26.073Z"
   - **(1)** help to expedite the completion of a project or group of projects;
   - **(2)** reduce costs to the Federal Government; and
   - **(3)** aid the completion of a project that provides significant flood risk reduction or environmental benefits.
-- **(d)** The authority provided in this section shall terminate on December 31, 2028 .
+- **(d)** The authority provided in this section shall terminate on December 31, 2030 .
 - **(e)**
   - **(1)**
     - **(A)** Not later than 2 years after June 10, 2014 , and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
-    - **(B)** Not later than December 31, 2028 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a final report on the use of the authority under this section.
+    - **(B)** Not later than December 31, 2030 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a final report on the use of the authority under this section.
   - **(2)** The reports described in paragraph (1) shall include—
     - **(A)** a description of the use of the authority under this section during the reporting period;
     - **(B)** an assessment of the impact of the authority under this section on the time required to complete projects; and

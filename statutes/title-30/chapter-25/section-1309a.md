@@ -3,9 +3,9 @@ title: "Section 1309a - Subsidence"
 usc_title: 30
 usc_section: "1309a"
 chapter: 25
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "30 U.S.C. § 1309a"
-generated_at: "2026-03-30T02:09:42.593Z"
+generated_at: "2026-03-30T02:18:44.875Z"
 ---
 
 # § 1309a. Subsidence

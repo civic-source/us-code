@@ -3,9 +3,9 @@ title: "Section 3507 - Passenger vessel security and safety requirements"
 usc_title: 46
 usc_section: "3507"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 3507"
-generated_at: "2026-03-30T02:11:43.077Z"
+generated_at: "2026-03-30T02:19:51.523Z"
 ---
 
 # § 3507. Passenger vessel security and safety requirements

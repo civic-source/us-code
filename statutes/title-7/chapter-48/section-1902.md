@@ -3,9 +3,9 @@ title: "Section 1902 - Humane methods"
 usc_title: 7
 usc_section: "1902"
 chapter: 48
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 1902"
-generated_at: "2026-03-30T02:08:42.912Z"
+generated_at: "2026-03-30T02:18:00.345Z"
 ---
 
 # § 1902. Humane methods

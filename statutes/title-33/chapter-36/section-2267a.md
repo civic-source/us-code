@@ -3,9 +3,9 @@ title: "Section 2267a - Watershed and river basin assessments"
 usc_title: 33
 usc_section: "2267a"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2267a"
-generated_at: "2026-03-30T02:10:26.076Z"
+generated_at: "2026-03-30T02:19:07.020Z"
 ---
 
 # § 2267a. Watershed and river basin assessments
@@ -39,11 +39,21 @@ generated_at: "2026-03-30T02:10:26.076Z"
   - **(9)** Genesee River Basin, New York;
   - **(10)** White River Basin, Arkansas and Missouri;
   - **(11)** New York-New Jersey Watershed Basin, which encompasses all the watersheds that flow into the New York-New Jersey Harbor and their associated estuaries, including the Hudson, Mohawk, Raritan, Passaic, Hackensack, and Bronx River Watersheds and the Hudson River Estuary;
-  - **(12)** Mississippi River Watershed; and
-  - **(13)** Chattahoochee River Basin, Alabama, Florida, and Georgia.
+  - **(12)** Mississippi River Watershed;
+  - **(13)** Chattahoochee River Basin, Alabama, Florida, and Georgia;
+  - **(14)** the Walla Walla River Basin;
+  - **(15)** the San Francisco Bay Basin;
+  - **(16)** Connecticut River Watershed, Connecticut, Massachusetts, New Hampshire, and Vermont;
+  - **(17)** Lower Rouge River Watershed, Michigan; and
+  - **(18)** Grand River Watershed, Michigan.
 - **(e)** In carrying out an assessment under subsection (a), the Secretary may accept contributions, in cash or in kind, from Federal, tribal, State, interstate, and local governmental entities to the extent that the Secretary determines that the contributions will facilitate completion of the assessment.
 - **(f)**
   - **(1)** The non-Federal share of the costs of an assessment carried out under this section on or after December 11, 2000 , shall be 25 percent.
   - **(2)**
     - **(A)** Subject to subparagraph (B), the Secretary may credit toward the non-Federal share of an assessment under this section the cost of services, materials, supplies, or other in-kind contributions provided by the non-Federal interests for the assessment.
     - **(B)** The credit under subparagraph (A) may not exceed an amount equal to 25 percent of the costs of the assessment.
+- **(g)**
+  - **(1)** At the request of a non-Federal interest for an assessment completed under this section, the Secretary is authorized to prepare a feasibility report, in accordance with the requirements of section 2282 of this title , recommending the construction or modification of a water resources development project to address a water resources need of a river basin or watershed of the United States identified in the assessment.
+  - **(2)** In carrying out this subsection, the Secretary shall give priority to—
+    - **(A)** the watersheds of the island of Maui, Hawaii, including the Wahikuli, Honoko̅wai, Kahana, Honokahua, and Honolua watersheds, including the coral reef habitat north of Lahaina off the northwestern coast of the island of Maui; and
+    - **(B)** the watersheds of the Northern Mariana Islands, American Samoa, and Guam.

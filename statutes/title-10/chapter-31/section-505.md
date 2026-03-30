@@ -3,12 +3,12 @@ title: "Section 505 - Regular components: qualifications, term, grade"
 usc_title: 10
 usc_section: "505"
 chapter: 31
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 505"
-generated_at: "2026-03-30T02:08:27.188Z"
+generated_at: "2026-03-30T02:17:31.563Z"
 ---
 
-# § 505. 1 1 Another section 505 is set out in chapter 25 of this title. Regular components: qualifications, term, grade
+# § 505. Regular components: qualifications, term, grade
 
 - **(a)** The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 - **(b)** A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.

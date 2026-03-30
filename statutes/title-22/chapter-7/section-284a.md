@@ -3,9 +3,9 @@ title: "Section 284a - Governor, executive director, and alternates of Associati
 usc_title: 22
 usc_section: "284a"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 284a"
-generated_at: "2026-03-30T02:09:39.917Z"
+generated_at: "2026-03-30T02:18:41.493Z"
 ---
 
 # § 284a. Governor, executive director, and alternates of Association

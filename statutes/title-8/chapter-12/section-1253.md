@@ -3,9 +3,9 @@ title: "Section 1253 - Penalties related to removal"
 usc_title: 8
 usc_section: "1253"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1253"
-generated_at: "2026-03-30T02:08:16.837Z"
+generated_at: "2026-03-30T02:17:17.706Z"
 ---
 
 # § 1253. Penalties related to removal
@@ -34,3 +34,4 @@ generated_at: "2026-03-30T02:08:16.837Z"
     - **(A)** A vessel or aircraft may be granted clearance before a decision on liability is made under paragraph (1) only if a bond approved by the Attorney General or an amount sufficient to pay the civil penalty is deposited with the Commissioner.
     - **(B)** A vessel or aircraft may not be granted clearance if a civil penalty imposed under paragraph (1) is not paid.
 - **(d)** On being notified by the Attorney General that the government of a foreign country denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
+- **(e)** The attorney general of a State, or other authorized State officer, alleging a violation of the requirement to discontinue granting visas to citizens, subjects, nationals, and residents as described in subsection (d) that harms such State or its residents shall have standing to bring an action against the Secretary of State on behalf of such State or the residents of such State in an appropriate district court of the United States to obtain appropriate injunctive relief. The court shall advance on the docket and expedite the disposition of a civil action filed under this subsection to the greatest extent practicable. For purposes of this subsection, a State or its residents shall be considered to have been harmed if the State or its residents experience harm, including financial harm in excess of $100.

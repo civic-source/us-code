@@ -3,9 +3,9 @@ title: "Section 4343 - Enforcement by U.S. Customs and Border Protection of work
 usc_title: 19
 usc_section: "4343"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 4343"
-generated_at: "2026-03-30T02:09:03.133Z"
+generated_at: "2026-03-30T02:18:27.906Z"
 ---
 
 # § 4343. Enforcement by U.S. Customs and Border Protection of works for which copyright registration is pending

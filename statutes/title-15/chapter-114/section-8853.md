@@ -3,9 +3,9 @@ title: "Section 8853 - Department of Energy quantum network infrastructure resea
 usc_title: 15
 usc_section: "8853"
 chapter: 114
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 8853"
-generated_at: "2026-03-30T02:08:56.251Z"
+generated_at: "2026-03-30T02:18:10.031Z"
 ---
 
 # § 8853. Department of Energy quantum network infrastructure research and development program

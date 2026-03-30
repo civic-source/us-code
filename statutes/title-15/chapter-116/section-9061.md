@@ -3,9 +3,9 @@ title: "Section 9061 - Direct appropriation"
 usc_title: 15
 usc_section: "9061"
 chapter: 116
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9061"
-generated_at: "2026-03-30T02:08:56.261Z"
+generated_at: "2026-03-30T02:18:10.040Z"
 ---
 
 # § 9061. Direct appropriation

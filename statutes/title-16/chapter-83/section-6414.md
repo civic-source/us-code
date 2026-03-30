@@ -3,9 +3,9 @@ title: "Section 6414 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6414"
 chapter: 83
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 6414"
-generated_at: "2026-03-30T02:09:13.527Z"
+generated_at: "2026-03-30T02:18:32.097Z"
 ---
 
 # § 6414. Authorization of appropriations

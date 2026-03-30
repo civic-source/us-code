@@ -3,9 +3,9 @@ title: "Section 4771 - Method of payment; installments; advances or reimbursemen
 usc_title: 42
 usc_section: "4771"
 chapter: 62
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4771"
-generated_at: "2026-03-30T02:11:33.229Z"
+generated_at: "2026-03-30T02:19:47.082Z"
 ---
 
 # § 4771. Method of payment; installments; advances or reimbursement; adjustments

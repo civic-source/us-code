@@ -3,9 +3,9 @@ title: "Section 1677a - Export price and constructed export price"
 usc_title: 19
 usc_section: "1677a"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 1677a"
-generated_at: "2026-03-30T02:09:03.089Z"
+generated_at: "2026-03-30T02:18:27.861Z"
 ---
 
 # § 1677a. Export price and constructed export price

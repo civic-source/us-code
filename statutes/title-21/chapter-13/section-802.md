@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T02:09:18.236Z"
+generated_at: "2026-03-30T02:18:37.610Z"
 ---
 
 # § 802. Definitions
@@ -309,13 +309,13 @@ As used in this subchapter:
     - **(A)** the pharmacy dispensing that prescription has previously dispensed to the patient a controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of subsections (b) and (c) of section 829 of this title (in this paragraph referred to as the “original prescription”);
     - **(B)** the pharmacy contacts the practitioner who issued the original prescription at the request of that individual to determine whether the practitioner will authorize the issuance of a new prescription for that individual for the controlled substance described in subparagraph (A); and
     - **(C)** the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
-  - **(57)** 1 1 So in original. Two pars. (57) have been enacted. The term “suspicious order” may include, but is not limited to—
+  - **(57)** The term “suspicious order” may include, but is not limited to—
     - **(A)** an order of a controlled substance of unusual size;
     - **(B)** an order of a controlled substance deviating substantially from a normal pattern; and
     - **(C)** orders of controlled substances of unusual frequency.
-  - **(57)** 1 The term “serious drug felony” means an offense described in section 924(e)(2) of title 18 for which—
+  - **(58)** The term “serious drug felony” means an offense described in section 924(e)(2) of title 18 for which—
     - **(A)** the offender served a term of imprisonment of more than 12 months; and
     - **(B)** the offender’s release from any term of imprisonment was within 15 years of the commencement of the instant offense.
-  - **(58)** The term “serious violent felony” means—
+  - **(59)** The term “serious violent felony” means—
     - **(A)** an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
     - **(B)** any offense that would be a felony violation of section 113 of title 18 , if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.

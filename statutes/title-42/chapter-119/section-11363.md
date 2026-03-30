@@ -3,9 +3,9 @@ title: "Section 11363 - Protection of personally identifying information by vict
 usc_title: 42
 usc_section: "11363"
 chapter: 119
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11363"
-generated_at: "2026-03-30T02:11:33.536Z"
+generated_at: "2026-03-30T02:19:47.266Z"
 ---
 
 # § 11363. Protection of personally identifying information by victim service providers

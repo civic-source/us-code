@@ -3,9 +3,9 @@ title: "Section 8f - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "8f"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8f"
-generated_at: "2026-03-30T02:09:13.221Z"
+generated_at: "2026-03-30T02:18:31.836Z"
 ---
 
 # § 8f. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

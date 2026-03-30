@@ -3,9 +3,9 @@ title: "Section 5725 - Secretary of State report regarding the autonomy of Hong 
 usc_title: 22
 usc_section: "5725"
 chapter: 66
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 5725"
-generated_at: "2026-03-30T02:09:40.025Z"
+generated_at: "2026-03-30T02:18:41.641Z"
 ---
 
 # § 5725. Secretary of State report regarding the autonomy of Hong Kong

@@ -3,9 +3,9 @@ title: "Section 3622 - Modern rate regulation"
 usc_title: 39
 usc_section: "3622"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "39 U.S.C. § 3622"
-generated_at: "2026-03-30T02:10:27.969Z"
+generated_at: "2026-03-30T02:19:08.713Z"
 ---
 
 # § 3622. Modern rate regulation

@@ -3,9 +3,9 @@ title: "Section 2391 - Fiscal requirements"
 usc_title: 20
 usc_section: "2391"
 chapter: 44
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 2391"
-generated_at: "2026-03-30T02:09:00.979Z"
+generated_at: "2026-03-30T02:18:26.629Z"
 ---
 
 # § 2391. Fiscal requirements

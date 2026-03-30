@@ -3,9 +3,9 @@ title: "Section 3761 - Restructuring costs"
 usc_title: 10
 usc_section: "3761"
 chapter: 273
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3761"
-generated_at: "2026-03-30T02:08:27.300Z"
+generated_at: "2026-03-30T02:17:31.664Z"
 ---
 
 # § 3761. Restructuring costs

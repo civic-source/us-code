@@ -3,9 +3,9 @@ title: "Section 1505 - Cross references"
 usc_title: 26
 usc_section: "1505"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 1505"
-generated_at: "2026-03-30T02:10:02.951Z"
+generated_at: "2026-03-30T02:18:56.475Z"
 ---
 
 # § 1505. Cross references

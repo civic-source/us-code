@@ -3,9 +3,9 @@ title: "Section 24302 - Board of directors"
 usc_title: 49
 usc_section: "24302"
 chapter: 243
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 24302"
-generated_at: "2026-03-30T02:11:47.370Z"
+generated_at: "2026-03-30T02:19:55.109Z"
 ---
 
 # § 24302. Board of directors

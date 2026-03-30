@@ -3,9 +3,9 @@ title: "Section 2856a - Covered military unaccompanied housing: waivers of cover
 usc_title: 10
 usc_section: "2856a"
 chapter: 169
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2856a"
-generated_at: "2026-03-30T02:08:27.287Z"
+generated_at: "2026-03-30T02:17:31.652Z"
 ---
 
 # § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T02:08:27.287Z"
     - **(B)** modification of unit integrity goals to allow the use of each available unit of covered military unaccompanied housing that meets covered privacy and configuration standards; and
     - **(C)** issuance of a certificate of nonavailability of covered military unaccompanied housing to allow eligibility for basic allowance for housing under section 403 of title 37 .
   - **(3)** An official described in paragraph (1) or (2) may not delegate the respective authorities under such paragraphs.
-  - **(4)** Any waiver of covered privacy and configuration standards issued pursuant to this paragraph shall terminate on the date that is 9 months after the date on which such waiver was issued. A Secretary of a military department may not renew any such waiver.
+  - **(4)** Any waiver of covered privacy and configuration standards issued pursuant to this paragraph shall terminate on the date that is 15 months after the date on which such waiver was issued. A Secretary of a military department may not renew any such waiver.
 - **(b)** Not later than March 1, 2025 , and annually thereafter not later than 15 days after the submission of the budget of the President to Congress pursuant to section 1105 of title 31 , the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate and the Comptroller General of the United States a report on waivers issued under this section that includes—
   - **(1)** the number of such waivers that were issued during the period covered by the report;
   - **(2)** a plan to remedy the deficiencies, if any, of covered military unaccompanied housing that required the issuance of such a waiver;

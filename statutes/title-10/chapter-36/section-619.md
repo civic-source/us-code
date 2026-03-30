@@ -3,9 +3,9 @@ title: "Section 619 - Eligibility for consideration for promotion: time-in-grade
 usc_title: 10
 usc_section: "619"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 619"
-generated_at: "2026-03-30T02:08:27.193Z"
+generated_at: "2026-03-30T02:17:31.567Z"
 ---
 
 # § 619. Eligibility for consideration for promotion: time-in-grade and other requirements
@@ -29,7 +29,7 @@ generated_at: "2026-03-30T02:08:27.193Z"
   - **(2)** The Secretary of the military department concerned—
     - **(A)** may, in accordance with standards and procedures prescribed by the Secretary of Defense in regulations which shall apply uniformly among the military departments, limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion;
     - **(B)** may, by regulation, prescribe a period of time, not to exceed one year, from the time an officer is placed on the active-duty list during which the officer shall be ineligible for consideration for promotion; and
-    - **(C)** may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened.
+    - **(C)** may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened or an approved retirement date.
   - **(3)**
     - **(A)** The Secretary of Defense may authorize the Secretaries of the military departments to preclude from consideration by selection boards for promotion to the grade of brigadier general or rear admiral (lower half) officers in the grade of colonel or, in the case of the Navy, captain who—
       - **(i)** have been considered and not selected for promotion to the grade of brigadier general or rear admiral (lower half) by at least two selection boards; and
@@ -50,6 +50,6 @@ generated_at: "2026-03-30T02:08:27.193Z"
 - **(e)**
   - **(1)** The Secretary of a military department may provide that an officer under the jurisdiction of the Secretary may, upon the officer’s request and with the approval of the Secretary, be excluded from consideration by a selection board convened under section 611(a) of this title to consider officers for promotion to the next higher grade.
   - **(2)** The Secretary concerned may only approve a request under paragraph (1) if—
-    - **(A)** the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+    - **(A)** the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
     - **(B)** the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
     - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.

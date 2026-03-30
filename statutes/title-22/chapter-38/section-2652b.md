@@ -3,9 +3,9 @@ title: "Section 2652b - Assistant Secretary of State for South Asian Affairs"
 usc_title: 22
 usc_section: "2652b"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2652b"
-generated_at: "2026-03-30T02:09:39.976Z"
+generated_at: "2026-03-30T02:18:41.573Z"
 ---
 
 # § 2652b. Assistant Secretary of State for South Asian Affairs

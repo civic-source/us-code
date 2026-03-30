@@ -3,9 +3,9 @@ title: "Section 301 - Federal recognition of enlisted members"
 usc_title: 32
 usc_section: "301"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "32 U.S.C. § 301"
-generated_at: "2026-03-30T02:10:10.977Z"
+generated_at: "2026-03-30T02:19:03.767Z"
 ---
 
 # § 301. Federal recognition of enlisted members

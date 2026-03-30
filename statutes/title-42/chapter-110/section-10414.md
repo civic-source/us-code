@@ -3,9 +3,9 @@ title: "Section 10414 - Domestic Violence Prevention Enhancement and Leadership 
 usc_title: 42
 usc_section: "10414"
 chapter: 110
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10414"
-generated_at: "2026-03-30T02:11:33.521Z"
+generated_at: "2026-03-30T02:19:47.257Z"
 ---
 
 # § 10414. Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA)

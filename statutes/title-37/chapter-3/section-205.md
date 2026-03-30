@@ -3,9 +3,9 @@ title: "Section 205 - Computation: service creditable"
 usc_title: 37
 usc_section: "205"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 205"
-generated_at: "2026-03-30T02:10:28.793Z"
+generated_at: "2026-03-30T02:19:09.124Z"
 ---
 
 # § 205. Computation: service creditable

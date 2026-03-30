@@ -3,9 +3,9 @@ title: "Section 9842 - Records and audits"
 usc_title: 42
 usc_section: "9842"
 chapter: 105
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9842"
-generated_at: "2026-03-30T02:11:33.490Z"
+generated_at: "2026-03-30T02:19:47.236Z"
 ---
 
 # § 9842. Records and audits

@@ -3,9 +3,9 @@ title: "Section 131 - Application to Medicare Advantage program and related mana
 usc_title: 42
 usc_section: "131"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-30T02:11:32.856Z"
+generated_at: "2026-03-30T02:19:46.872Z"
 ---
 
 # § 1395w–131. Application to Medicare Advantage program and related managed care programs

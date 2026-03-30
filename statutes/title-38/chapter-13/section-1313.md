@@ -3,9 +3,9 @@ title: "Section 1313 - Dependency and indemnity compensation to children"
 usc_title: 38
 usc_section: "1313"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 1313"
-generated_at: "2026-03-30T02:10:34.019Z"
+generated_at: "2026-03-30T02:19:11.516Z"
 ---
 
 # § 1313. Dependency and indemnity compensation to children

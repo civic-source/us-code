@@ -3,9 +3,9 @@ title: "Section 5342 - Definitions; application"
 usc_title: 5
 usc_section: "5342"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 5342"
-generated_at: "2026-03-30T02:08:10.395Z"
+generated_at: "2026-03-30T02:17:12.656Z"
 ---
 
 # § 5342. Definitions; application

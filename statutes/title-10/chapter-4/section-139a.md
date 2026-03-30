@@ -3,9 +3,9 @@ title: "Section 139a - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "139a"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 139a"
-generated_at: "2026-03-30T02:08:27.168Z"
+generated_at: "2026-03-30T02:17:31.545Z"
 ---
 
 # § 139a. Director of Cost Assessment and Program Evaluation
@@ -50,4 +50,4 @@ generated_at: "2026-03-30T02:08:27.168Z"
     - **(C)** a review of defense program projections completed in the fiscal year preceding submission of the report and a description of such projections planned for the fiscal year that begins after submission of the report.
   - **(2)** Each report required by paragraph (1) shall be submitted in classified form, but shall include an unclassified summary.
   - **(3)** Not later than 15 days after the submission of each report required by paragraph (1), the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the contents of the report.
-- **(h)** Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by Director 2 2 So in original. Probably should be preceded by “the”. during the preceding quarter an 3 3 So in original. any ongoing activities of the Director as of the date of briefing.
+- **(h)** Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by the Director during the preceding quarter and any ongoing activities of the Director as of the date of briefing.

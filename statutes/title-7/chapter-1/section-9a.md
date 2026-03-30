@@ -3,9 +3,9 @@ title: "Section 9a - Assessment of money penalties"
 usc_title: 7
 usc_section: "9a"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 9a"
-generated_at: "2026-03-30T02:08:42.830Z"
+generated_at: "2026-03-30T02:18:00.264Z"
 ---
 
 # § 9a. Assessment of money penalties

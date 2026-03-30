@@ -3,9 +3,9 @@ title: "Section 968 - Third party validations"
 usc_title: 6
 usc_section: "968"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 968"
-generated_at: "2026-03-30T02:08:19.269Z"
+generated_at: "2026-03-30T02:17:15.286Z"
 ---
 
 # § 968. Third party validations

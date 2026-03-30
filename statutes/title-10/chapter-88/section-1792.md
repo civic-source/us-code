@@ -3,9 +3,9 @@ title: "Section 1792 - Child care employees"
 usc_title: 10
 usc_section: "1792"
 chapter: 88
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1792"
-generated_at: "2026-03-30T02:08:27.255Z"
+generated_at: "2026-03-30T02:17:31.620Z"
 ---
 
 # § 1792. Child care employees
@@ -27,7 +27,10 @@ generated_at: "2026-03-30T02:08:27.255Z"
     - **(D)** Assistance in the center’s child abuse prevention and detection program.
     - **(E)** Advising the director of the center on the performance of other child care employees.
   - **(3)** Each employee referred to in paragraph (1) shall be an employee in a competitive service position.
-- **(c)** For the purpose of providing military child development centers with a qualified and stable civilian workforce, employees at a military installation who are directly involved in providing child care and are paid from nonappropriated funds—
-  - **(1)** in the case of entry-level employees, shall be paid at rates of pay competitive with the rates of pay paid to other entry-level employees at that installation who are drawn from the same labor pool; and
-  - **(2)** in the case of other employees, shall be paid at rates of pay substantially equivalent to the rates of pay paid to other employees at that installation with similar training, seniority, and experience.
+- **(c)**
+  - **(1)** For the purpose of providing military child development centers with a qualified and stable civilian workforce, employees at a military installation who are directly involved in providing child care and who are paid from nonappropriated funds—
+    - **(A)** in the case of entry-level employees, shall be paid a rate of pay competitive with the rates of pay paid to other equivalent non-Federal positions within the metropolitan statistical area or non-metropolitan statistical area (as the case may be) in which such Department employee’s position is located; and
+    - **(B)** in the case of any employee not covered by subparagraph (A), shall be paid a rate of pay competitive with the rates of pay paid to other employees with similar training, seniority, and experience within the metropolitan statistical area or non-metropolitan statistical area (as the case may be) in which such Department employee’s position is located.
+  - **(2)** Notwithstanding paragraph (1), no employee shall receive a rate of pay under this subsection that is lower than the minimum hourly rate of pay applicable to civilian employees of the Department of Defense.
+  - **(3)** For purposes of determining the rates of pay under paragraph (1), the Secretary shall use the metropolitan and nonmetropolitan area occupational employment and wage estimates published monthly by the Bureau of Labor Statistics.
 - **(d)** In this section, the term “competitive service position” means a position in the competitive service, as defined in section 2102(a)(1) of title 5 .

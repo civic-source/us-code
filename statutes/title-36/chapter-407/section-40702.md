@@ -3,9 +3,9 @@ title: "Section 40702 - Governing body"
 usc_title: 36
 usc_section: "40702"
 chapter: 407
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 40702"
-generated_at: "2026-03-30T02:10:31.265Z"
+generated_at: "2026-03-30T02:19:09.895Z"
 ---
 
 # § 40702. Governing body

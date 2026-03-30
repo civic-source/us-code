@@ -3,9 +3,9 @@ title: "Section 218c - Protections for employees"
 usc_title: 29
 usc_section: "218c"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 218c"
-generated_at: "2026-03-30T02:09:43.773Z"
+generated_at: "2026-03-30T02:19:02.060Z"
 ---
 
 # § 218c. Protections for employees

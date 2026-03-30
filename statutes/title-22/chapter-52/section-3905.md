@@ -3,9 +3,9 @@ title: "Section 3905 - Personnel actions"
 usc_title: 22
 usc_section: "3905"
 chapter: 52
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3905"
-generated_at: "2026-03-30T02:09:40.002Z"
+generated_at: "2026-03-30T02:18:41.609Z"
 ---
 
 # § 3905. Personnel actions

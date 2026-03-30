@@ -3,9 +3,9 @@ title: "Section 7661a - Permit programs"
 usc_title: 42
 usc_section: "7661a"
 chapter: 85
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7661a"
-generated_at: "2026-03-30T02:11:33.416Z"
+generated_at: "2026-03-30T02:19:47.192Z"
 ---
 
 # § 7661a. Permit programs

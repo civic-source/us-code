@@ -3,9 +3,9 @@ title: "Section 7274 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7274"
 chapter: 737
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7274"
-generated_at: "2026-03-30T02:08:27.319Z"
+generated_at: "2026-03-30T02:17:31.683Z"
 ---
 
 # § 7274. Medal of honor; distinguished-service cross; distinguished-service medal: limitations on award

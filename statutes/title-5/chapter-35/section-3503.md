@@ -3,9 +3,9 @@ title: "Section 3503 - Transfer of functions"
 usc_title: 5
 usc_section: "3503"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 3503"
-generated_at: "2026-03-30T02:08:10.389Z"
+generated_at: "2026-03-30T02:17:12.649Z"
 ---
 
 # § 3503. Transfer of functions

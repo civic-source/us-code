@@ -3,9 +3,9 @@ title: "Section 279c - Congressional authority necessary for acceptance of new o
 usc_title: 22
 usc_section: "279c"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 279c"
-generated_at: "2026-03-30T02:09:39.915Z"
+generated_at: "2026-03-30T02:18:41.490Z"
 ---
 
 # § 279c. Congressional authority necessary for acceptance of new obligations in Organization

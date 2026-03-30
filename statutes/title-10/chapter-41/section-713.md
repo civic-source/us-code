@@ -3,9 +3,9 @@ title: "Section 713 - State Department: assignment or detail as couriers and bui
 usc_title: 10
 usc_section: "713"
 chapter: 41
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 713"
-generated_at: "2026-03-30T02:08:27.198Z"
+generated_at: "2026-03-30T02:17:31.572Z"
 ---
 
 # § 713. State Department: assignment or detail as couriers and building inspectors

@@ -3,9 +3,9 @@ title: "Section 3146 - Regulations on relative needs and allocations"
 usc_title: 42
 usc_section: "3146"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3146"
-generated_at: "2026-03-30T02:11:33.184Z"
+generated_at: "2026-03-30T02:19:47.057Z"
 ---
 
 # § 3146. Regulations on relative needs and allocations
@@ -14,11 +14,11 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
   - **(1)** the relative needs of eligible areas are given adequate consideration by the Secretary, as determined based on, among other relevant factors—
     - **(A)** the severity of the rates of unemployment in the eligible areas and the duration of the unemployment;
-    - **(B)** the income levels and the extent of underemployment in eligible areas; and
+    - **(B)** the per capita income levels, the labor force participation rate, and the extent of underemployment in eligible areas; and
     - **(C)** the outmigration of population from eligible areas and the extent to which the outmigration is causing economic injury in the eligible areas;
   - **(2)** allocations of assistance under this subchapter are prioritized to ensure that the level of economic distress of an area, rather than a preference for a geographic area or a specific type of economic distress, is the primary factor in allocating the assistance;
   - **(3)**
     - **(A)** rural and urban economically distressed areas are not harmed by the establishment or implementation by the Secretary of a private sector leveraging goal for a project under this subchapter;
     - **(B)** any private sector leveraging goal established by the Secretary does not prohibit or discourage grant applicants under this subchapter from public works in, or economic development of, rural or urban economically distressed areas; and
     - **(C)** the relevant Committees of Congress are notified prior to making any changes to any private sector leveraging goal; and
-  - **(4)** grants made under this subchapter promote job creation and will have a high probability of meeting or exceeding applicable performance requirements established in connection with the grants.
+  - **(4)** grants made under this subchapter promote job creation and retention and will have a high probability of meeting or exceeding applicable performance requirements established in connection with the grants.

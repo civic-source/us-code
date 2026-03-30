@@ -3,9 +3,9 @@ title: "Section 285r - Contribution to special funds; authorization of appropria
 usc_title: 22
 usc_section: "285r"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 285r"
-generated_at: "2026-03-30T02:09:39.918Z"
+generated_at: "2026-03-30T02:18:41.495Z"
 ---
 
 # § 285r. Contribution to special funds; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2903 - Definitions"
 usc_title: 15
 usc_section: "2903"
 chapter: 56
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2903"
-generated_at: "2026-03-30T02:08:56.199Z"
+generated_at: "2026-03-30T02:18:09.983Z"
 ---
 
 # § 2903. Definitions

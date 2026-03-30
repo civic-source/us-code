@@ -3,9 +3,9 @@ title: "Section 342 - Adulterated food"
 usc_title: 21
 usc_section: "342"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 342"
-generated_at: "2026-03-30T02:09:18.143Z"
+generated_at: "2026-03-30T02:18:37.541Z"
 ---
 
 # § 342. Adulterated food

@@ -3,9 +3,9 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-03-30T02:08:27.278Z"
+generated_at: "2026-03-30T02:17:31.643Z"
 ---
 
 # § 2667. Leases: non-excess property of military departments and Defense Agencies
@@ -25,12 +25,15 @@ generated_at: "2026-03-30T02:08:27.278Z"
   - **(8)** shall provide that any facilities constructed on the property may be constructed using commercial standards in a manner that provides force protection safeguards appropriate to the activities conducted in, and the location of, such facilities.
 - **(c)**
   - **(1)** In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
-    - **(A)** Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned.
+    - **(A)** Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned, whether or not needed for the functionality of the property or facility leased.
     - **(B)** Construction of new facilities for the Secretary concerned.
     - **(C)** Provision of facilities for use by the Secretary concerned.
     - **(D)** Provision or payment of utility services for the Secretary concerned, which shall prioritize energy resilience in the event of commercial grid outages.
     - **(E)** Provision of real property maintenance services for the Secretary concerned.
-    - **(F)** Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate.
+    - **(F)** Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate, which may include industrial process optimization.
+    - **(G)** Refurbishment of existing industrial plant equipment on the leased property.
+    - **(H)** Removal and replacement of industrial plant equipment on the leased property that is at or near end-of-life.
+    - **(I)** Provision of new industrial plant equipment on the leased property (including new technology), installation of such equipment, and maintenance of such equipment, but only if the title to such equipment passes to the Federal Government.
   - **(2)** In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concerned that are selected for that purpose by the Secretary concerned.
   - **(3)** Sections 2662 and 2802 of this title shall not apply to any new facilities whose construction is accepted as in-kind consideration under this subsection.
 - **(d)**

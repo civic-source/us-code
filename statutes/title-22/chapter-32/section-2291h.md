@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-30T02:09:39.955Z"
+generated_at: "2026-03-30T02:18:41.545Z"
 ---
 
 # § 2291h. Reporting requirements
@@ -64,10 +64,10 @@ generated_at: "2026-03-30T02:09:39.955Z"
       - **(ii)** the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
   - **(10)** A separate section that contains an identification of all United States Government-supported units funded by the Bureau of International Narcotics and Law Enforcement Affairs and any Bureau-funded operations by such units in which United States law enforcement personnel have been physically present.
   - **(11)** A separate section that contains the following:
-    - **(A)** An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl and fentanyl analogues significantly affecting the United States during the preceding calendar year.
+    - **(A)** An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl, xylazine, and fentanyl analogues significantly affecting the United States during the preceding calendar year.
     - **(B)** A description of the extent to which each country identified pursuant to subparagraph (A) has cooperated with the United States to prevent the articles or chemicals described in subparagraph (A) from being exported from such country to the United States.
     - **(C)** A description of whether each country identified pursuant to subparagraph (A) has adopted and utilizes scheduling or other procedures for illicit drugs that are similar in effect to the procedures authorized under title II 1 of the Controlled Substances Act ( 21 U.S.C. 811 et seq.) for adding drugs and other substances to the controlled substances schedules;
-    - **(D)** A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act ( 21 U.S.C. 802(32) ) 2 2 So in original. Probably should be followed by a closing parenthesis. ; and
+    - **(D)** A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act ( 21 U.S.C. 802(32) )); and
     - **(E)** A description of whether each country identified pursuant to subparagraph (A) requires the registration of tableting machines and encapsulating machines or other measures similar in effect to the registration requirements set forth in part 1310 of title 21, Code of Federal Regulations, and has not made good faith efforts, in the opinion of the Secretary, to improve regulation of tableting machines and encapsulating machines.
   - **(12)**
     - **(A)** Information that contains an assessment of the countries significantly involved in the manufacture, production, transshipment, or trafficking of covered synthetic drugs, to include the following:

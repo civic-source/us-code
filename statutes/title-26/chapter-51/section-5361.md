@@ -3,9 +3,9 @@ title: "Section 5361 - Bonded wine cellar operations"
 usc_title: 26
 usc_section: "5361"
 chapter: 51
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5361"
-generated_at: "2026-03-30T02:10:02.994Z"
+generated_at: "2026-03-30T02:18:56.515Z"
 ---
 
 # § 5361. Bonded wine cellar operations

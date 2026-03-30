@@ -3,9 +3,9 @@ title: "Section 7524 - Civil penalties"
 usc_title: 42
 usc_section: "7524"
 chapter: 85
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7524"
-generated_at: "2026-03-30T02:11:33.393Z"
+generated_at: "2026-03-30T02:19:47.176Z"
 ---
 
 # § 7524. Civil penalties

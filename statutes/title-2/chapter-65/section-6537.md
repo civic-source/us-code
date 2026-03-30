@@ -3,9 +3,9 @@ title: "Section 6537 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3
 usc_title: 2
 usc_section: "6537"
 chapter: 65
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 6537"
-generated_at: "2026-03-30T02:07:57.542Z"
+generated_at: "2026-03-30T02:16:56.719Z"
 ---
 
 # § 6537. Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3)(A) , Dec. 20, 2019 , 133 Stat. 2775

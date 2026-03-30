@@ -3,9 +3,9 @@ title: "Section 10171 - United States Army Reserve Command"
 usc_title: 10
 usc_section: "10171"
 chapter: 1006
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 10171"
-generated_at: "2026-03-30T02:08:27.347Z"
+generated_at: "2026-03-30T02:17:31.710Z"
 ---
 
 # § 10171. United States Army Reserve Command

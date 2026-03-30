@@ -3,9 +3,9 @@ title: "Section 1452c - Nullification of right of redemption of single family mo
 usc_title: 42
 usc_section: "1452c"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1452c"
-generated_at: "2026-03-30T02:11:33.016Z"
+generated_at: "2026-03-30T02:19:46.969Z"
 ---
 
 # § 1452c. Nullification of right of redemption of single family mortgagors under rehabilitation loan program

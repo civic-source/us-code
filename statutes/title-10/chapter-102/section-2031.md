@@ -3,23 +3,29 @@ title: "Section 2031 - Junior Reserve Officers’ Training Corps"
 usc_title: 10
 usc_section: "2031"
 chapter: 102
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2031"
-generated_at: "2026-03-30T02:08:27.257Z"
+generated_at: "2026-03-30T02:17:31.621Z"
 ---
 
 # § 2031. Junior Reserve Officers’ Training Corps
 
 - **(a)**
-  - **(1)** The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The Secretary of Defense shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained.
+  - **(1)** The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions, including Job Corps centers as defined in section 147 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3197 ), which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The Secretary of Defense shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained.
   - **(2)** It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States (including an introduction to service opportunities in military, national, and public service), and personal responsibility and a sense of accomplishment.
 - **(b)**
   - **(1)** No unit may be established or maintained at an institution unless—
-    - **(A)** the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (i) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (ii) 100, whichever is less;
+    - **(A)** the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is—
+      - **(i)** in the case of an educational institution with fewer than 1,000 enrolled students, the lesser of—
+        - **(I)** 10 percent of the number of such students who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit; and
+        - **(II)** 50; or
+      - **(ii)** in the case of an educational institution with 1,000 or more enrolled students—
+        - **(I)** 50; or
+        - **(II)** a number, determined by the Secretary of the military department concerned, that is higher than 50 and not more than 100;
     - **(B)** the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
-    - **(C)** the institution provides a course of military instruction of not less than three academic years’ duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned;
+    - **(C)** the institution provides a course of military instruction of not less than three academic years’ duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned, or is a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3197 );
     - **(D)** the institution agrees to limit membership in the unit to students who maintain acceptable standards of academic achievement and conduct, as prescribed by the Secretary of the military department concerned; and
-    - **(E)** the unit meets such other requirements as the Secretary of the military department concerned prescribes in the memorandum of understanding required under paragraph (2).. 1 1 So in original.
+    - **(E)** the unit meets such other requirements as the Secretary of the military department concerned prescribes in the memorandum of understanding required under paragraph (2).
   - **(2)** The Secretary of Defense shall prescribe in regulations a memorandum of understanding to be signed by the Secretary of the military department concerned and each institution operating a unit under this section. The memorandum shall be standardized to the extent practicable and include the following elements:
     - **(A)** A requirement that an institution notify the Secretary of the military department concerned of allegations of misconduct (including sexual misconduct and harassment) against an instructor who is receiving retired or other pay, not later than 48 hours after such institution learns of such allegations.
     - **(B)** A process by which the Secretary of the military department concerned certifies an instructor, including the conduct of appropriate background checks by such Secretary and the institution concerned.
@@ -31,11 +37,12 @@ generated_at: "2026-03-30T02:08:27.257Z"
       - **(iii)** has implemented annual training to inform students of methods to prevent, respond to, and report sexual assault and harassment;
       - **(iv)** agrees to report all allegations of violations described in this subparagraph to the military department concerned and, if subject to the jurisdiction of the Department of Education, the Office of Civil Rights of the Department of Education not less often than annually;
       - **(v)** has developed processes to ensure that each student enrolled in a unit under this section has done so voluntarily; and
-      - **(vi)** agrees to provide the data necessary to compile the report required under subsection (i).
+      - **(vi)** agrees to provide the data necessary to compile the report under subsection (j).
 - **(c)** The Secretary of the military department concerned shall, to support the Junior Reserve Officers’ Training Corps program—
   - **(1)** detail officers and noncommissioned officers of an armed force under his jurisdiction to institutions having units of the Corps as administrators and instructors;
-  - **(2)** provide necessary text materials, equipment, and uniforms and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program; and
-  - **(3)** establish minimum acceptable standards for performance and achievement for qualified units.
+  - **(2)** provide necessary text materials, equipment, and uniforms and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program;
+  - **(3)** establish minimum acceptable standards for performance and achievement for qualified units; and
+  - **(4)** maintain a prioritized waiting list that includes all secondary educational institutions that have made a request for a unit under this section and have not yet been approved by the Secretary concerned, and prescribe regulations describing the factors to be considered in assigning priority, including the length of time an institution has been waiting for a unit.
 - **(d)**
   - **(1)** Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1), the Secretary of the military department concerned may authorize qualified institutions to employ, as administrators and instructors in the program—
     - **(A)** retired officers and noncommissioned officers whose qualifications are approved by the Secretary and the institution concerned and who request such employment;
@@ -69,12 +76,12 @@ generated_at: "2026-03-30T02:08:27.257Z"
   - **(2)** A unit may be placed on probation under paragraph (1) for a period of up to three years.
   - **(3)** A unit may be suspended under paragraph (1) if, after the three-year probationary period, such unit remains out of compliance with the requirements of this section and the Secretary of the military department concerned determines that such suspension is necessary to mitigate program deficiencies or to protect the safety of program participants.
 - **(i)**
-  - **(1)** 2 2 So in original. Two subsecs. (i) have been enacted. The Secretary of Defense shall establish and support not fewer than 3,400, and not more than 4,000, units of the Junior Reserve Officers’ Training Corps.
+  - **(1)** The Secretary of Defense shall establish and support not fewer than 3,400, and not more than 4,000, units of the Junior Reserve Officers’ Training Corps.
   - **(2)** The requirement under paragraph (1) shall not apply—
     - **(A)** if the Secretary fails to receive an adequate number of requests for Junior Reserve Officer’s Training Corps units by public and private secondary educational institutions; and
     - **(B)** during a time of national emergency when the Secretaries of the military departments determine that funding must be allocated elsewhere.
-- **(i)**
-  - **(1)** 2 Not later than March 31, 2024 , and annually thereafter through March 31, 2029 , the Secretary of Defense shall submit to Committees on Armed Services of the Senate and the House of Representatives a report on allegations of sexual misconduct, sexual harassment, and sex discrimination in Junior Reserve Officers’ Training Corps programs during the preceding year.
+- **(j)**
+  - **(1)** Not later than March 31, 2024 , and annually thereafter through March 31, 2029 , the Secretary of Defense shall submit to Committees on Armed Services of the Senate and the House of Representatives a report on allegations of sexual misconduct, sexual harassment, and sex discrimination in Junior Reserve Officers’ Training Corps programs during the preceding year.
   - **(2)** Each report required under paragraph (1) shall set forth the following:
     - **(A)** The number of reported allegations of violations under title IX of the Education Amendments of 1972 ( 20 U.S.C. 1681 et seq.) in school-affiliated Junior Reserve Officers’ Training Corps programs, including—
       - **(i)** the number of such reported allegations that were investigated;

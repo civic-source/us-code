@@ -3,9 +3,9 @@ title: "Section 3612b - Specific powers of Commission"
 usc_title: 22
 usc_section: "3612b"
 chapter: 51
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3612b"
-generated_at: "2026-03-30T02:09:39.998Z"
+generated_at: "2026-03-30T02:18:41.604Z"
 ---
 
 # § 3612b. Specific powers of Commission

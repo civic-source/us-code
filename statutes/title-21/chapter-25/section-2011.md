@@ -3,9 +3,9 @@ title: "Section 2011 - Definitions"
 usc_title: 21
 usc_section: "2011"
 chapter: 25
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 2011"
-generated_at: "2026-03-30T02:09:18.261Z"
+generated_at: "2026-03-30T02:18:37.630Z"
 ---
 
 # § 2011. Definitions

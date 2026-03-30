@@ -3,9 +3,9 @@ title: "Section 5582 - Designated transfer date"
 usc_title: 12
 usc_section: "5582"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 5582"
-generated_at: "2026-03-30T02:08:53.382Z"
+generated_at: "2026-03-30T02:18:20.597Z"
 ---
 
 # § 5582. Designated transfer date

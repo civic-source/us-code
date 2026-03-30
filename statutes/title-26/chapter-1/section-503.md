@@ -3,9 +3,9 @@ title: "Section 503 - Requirements for exemption"
 usc_title: 26
 usc_section: "503"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 503"
-generated_at: "2026-03-30T02:10:02.892Z"
+generated_at: "2026-03-30T02:18:56.418Z"
 ---
 
 # § 503. Requirements for exemption

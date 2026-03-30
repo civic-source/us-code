@@ -3,9 +3,9 @@ title: "Section 1013 - Termination of advisory committees"
 usc_title: 5
 usc_section: "1013"
 chapter: 10
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 1013"
-generated_at: "2026-03-30T02:08:10.379Z"
+generated_at: "2026-03-30T02:17:12.641Z"
 ---
 
 # § 1013. Termination of advisory committees

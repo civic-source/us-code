@@ -3,9 +3,9 @@ title: "Section 7437 - Cross references"
 usc_title: 26
 usc_section: "7437"
 chapter: 76
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 7437"
-generated_at: "2026-03-30T02:10:03.043Z"
+generated_at: "2026-03-30T02:18:56.558Z"
 ---
 
 # § 7437. Cross references

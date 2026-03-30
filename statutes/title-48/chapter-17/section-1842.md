@@ -3,9 +3,9 @@ title: "Section 1842 - Covering into Commonwealth treasury of tax proceeds colle
 usc_title: 48
 usc_section: "1842"
 chapter: 17
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "48 U.S.C. § 1842"
-generated_at: "2026-03-30T02:11:38.620Z"
+generated_at: "2026-03-30T02:19:51.974Z"
 ---
 
 # § 1842. Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant

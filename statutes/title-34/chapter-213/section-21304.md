@@ -3,9 +3,9 @@ title: "Section 21304 - Application"
 usc_title: 34
 usc_section: "21304"
 chapter: 213
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 21304"
-generated_at: "2026-03-30T02:10:13.911Z"
+generated_at: "2026-03-30T02:19:05.045Z"
 ---
 
 # § 21304. Application

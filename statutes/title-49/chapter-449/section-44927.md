@@ -3,9 +3,9 @@ title: "Section 44927 - Expedited screening for severely injured or disabled mem
 usc_title: 49
 usc_section: "44927"
 chapter: 449
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44927"
-generated_at: "2026-03-30T02:11:47.446Z"
+generated_at: "2026-03-30T02:19:55.155Z"
 ---
 
 # § 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans
@@ -22,3 +22,13 @@ generated_at: "2026-03-30T02:11:47.446Z"
   - **(2)** Information on the consultations between the Administrator of the Transportation Security Administration and the organizations identified under subsection (a).
   - **(3)** The number of people who accessed the operations center during the period covered by the report.
   - **(4)** Such other information as the Administrator of the Transportation Security Administration determines is appropriate.
+- **(g)**
+  - **(1)** A veteran described in paragraph (2) is eligible for security screening under the PreCheck Program under section 44919 at no cost to the veteran if the veteran is able to meet the background check and other security requirements for participation in the Program.
+  - **(2)** A veteran described in this paragraph is a veteran who—
+    - **(A)** is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705 of title 38 , United States Code;
+    - **(B)** has been determined by the Secretary of Veterans Affairs to have a service-connected disability under section 1110 or 1131 of such title, as the case may be, and such disability has been determined by such Secretary to have resulted in—
+      - **(i)** loss, or loss use 1 1 So in original. Probably should be “loss of use”. of, an extremity;
+      - **(ii)** paralysis or partial paralysis; or
+      - **(iii)** permanent blindness; and
+    - **(C)** as a result of a loss, paralysis or partial paralysis, or blindness described in subparagraph (B), requires the use of a wheelchair, prosthetic limb, or other assistive device to aid with mobility.
+  - **(3)** The Administrator of the Transportation Security Administration shall carry out this subsection subject to the availability of appropriations and may not increase fees for enrollment in the PreCheck Program for such purpose.

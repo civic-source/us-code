@@ -3,9 +3,9 @@ title: "Section 492b - Biannual briefing on nuclear weapons and related activiti
 usc_title: 10
 usc_section: "492b"
 chapter: 24
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 492b"
-generated_at: "2026-03-30T02:08:27.187Z"
+generated_at: "2026-03-30T02:17:31.562Z"
 ---
 
 # § 492b. Biannual briefing on nuclear weapons and related activities
@@ -13,7 +13,7 @@ generated_at: "2026-03-30T02:08:27.187Z"
 - **(a)** On or about May 1 and November 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to nuclear weapons policies, operations, technology development, and other similar topics as requested by such committees.
 - **(b)** The officials specified in this subsection are the following:
   - **(1)** The Assistant Secretary of Defense for Acquisition.
-  - **(2)** The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+  - **(2)** The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs.
   - **(3)** The Assistant Secretary of Defense for Space Policy.
   - **(4)** The Deputy Administrator for Defense Programs of the National Nuclear Security Administration.
   - **(5)** The Director for Strategy, Plans, and Policy of the Joint Staff.

@@ -3,9 +3,9 @@ title: "Section 40120 - Relationship to other laws"
 usc_title: 49
 usc_section: "40120"
 chapter: 401
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 40120"
-generated_at: "2026-03-30T02:11:47.412Z"
+generated_at: "2026-03-30T02:19:55.134Z"
 ---
 
 # § 40120. Relationship to other laws

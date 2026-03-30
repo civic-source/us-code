@@ -3,14 +3,14 @@ title: "Section 41302 - Investigations"
 usc_title: 46
 usc_section: "41302"
 chapter: 413
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 41302"
-generated_at: "2026-03-30T02:11:43.109Z"
+generated_at: "2026-03-30T02:19:51.542Z"
 ---
 
 # § 41302. Investigations
 
-- **(a)** The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct 1 1 So in original. Probably should be followed by a comma. agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
+- **(a)** The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct, agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
 - **(b)** Unless an injunction is issued under section 41306 or 41307 of this title, an agreement, fee, or charge under investigation by the Commission remains in effect until the Commission issues its order.
 - **(c)** Within 10 days after the initiation of a proceeding under this section or section 41301 of this title , the Commission shall set a date by which it will issue its final decision. The Commission by order may extend the date for good cause.
 - **(d)** If, within the period for final decision under subsection (c), the Commission determines that it is unable to issue a final decision because of undue delay caused by a party to the proceeding, the Commission may impose sanctions, including issuing a decision adverse to the delaying party.

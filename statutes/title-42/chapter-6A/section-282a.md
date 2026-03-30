@@ -3,9 +3,9 @@ title: "Section 282a - Authorization of appropriations"
 usc_title: 42
 usc_section: "282a"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 282a"
-generated_at: "2026-03-30T02:11:32.454Z"
+generated_at: "2026-03-30T02:19:46.630Z"
 ---
 
 # § 282a. Authorization of appropriations
@@ -18,11 +18,11 @@ generated_at: "2026-03-30T02:11:32.454Z"
     - **(D)** $34,851,000,000 for fiscal year 2018;
     - **(E)** $35,585,871,000 for fiscal year 2019; and
     - **(F)** $36,472,442,775 for fiscal year 2020.
-  - **(2)** For the purpose of carrying out section 282(b)(7)(B)(ii) of this title , there is authorized to be appropriated to the Common Fund, out of the 10-Year Pediatric Research Initiative Fund described in section 9008 of title 26 , and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $12,600,000 for each of fiscal years 2014 through 2023.
+  - **(2)** For the purpose of carrying out section 282(b)(7)(B)(ii) of this title , there is authorized to be appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives, out of the Pediatric Research Initiative Fund described in section 9008 of title 26 , and in addition to amounts otherwise made available under paragraph (1) of this subsection, $12,600,000 for each of fiscal years 2024 through 2028.
 - **(b)** Of the amount authorized to be appropriated under subsection (a) for a fiscal year, there are authorized to be appropriated for programs and activities under this subchapter carried out through the Office of the Director of NIH such sums as may be necessary for each of the fiscal years 2007 through 2009.
 - **(c)**
   - **(1)**
-    - **(A)** For the purpose of allocations under section 282(b)(7)(B) of this title (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
+    - **(A)** For the purpose of allocations under section 282(b)(7)(B)(i) of this title (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
     - **(B)**
       - **(i)** Of the total amount appropriated under subsection (a)(1) for fiscal year 2007 or any subsequent fiscal year, the Director of NIH shall reserve an amount for the Common Fund, subject to any applicable provisions in appropriations Acts.
       - **(ii)** For each fiscal year, the percentage constituted by the amount reserved under clause (i) relative to the total amount appropriated under subsection (a)(1) for such year may not be less than the percentage constituted by the amount so reserved for the preceding fiscal year relative to the total amount appropriated under subsection (a)(1) for such preceding fiscal year, subject to any applicable provisions in appropriations Acts.
@@ -36,7 +36,7 @@ generated_at: "2026-03-30T02:11:32.454Z"
   - **(2)**
     - **(A)** With respect to the total amount appropriated under subsection (a) for fiscal year 2008 or any subsequent fiscal year, if the head of a national research institute or national center fails to submit the report required by subparagraph (B) for the preceding fiscal year, the amount made available for the institute or center for the fiscal year involved may not exceed the amount made available for the institute or center for fiscal year 2006.
     - **(B)** Not later than 2 years after December 13, 2016 , the head of each national research institute or national center shall submit to the Director of the National Institutes of Health a report, to be included in the triennial report under section 283 of this title , on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
-    - **(C)** For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
+    - **(C)** For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B)(i) of this title shall be included.
     - **(D)** Upon receipt of each report submitted under subparagraph (B), the Director of NIH shall review and, in cases of discrepancy, verify the accuracy of the amounts specified in the report.
     - **(E)** At the request of any national research institute or national center, the Director of NIH may waive the application of this paragraph to such institute or center if the Director finds that the conduct or support of research described in subparagraph (B) is inconsistent with the mission of such institute or center.
 - **(d)** Of the total amount appropriated under subsection (a)(1) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a)(1) by more than 1 percent.

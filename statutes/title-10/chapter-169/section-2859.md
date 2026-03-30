@@ -3,9 +3,9 @@ title: "Section 2859 - Construction requirements related to antiterrorism and fo
 usc_title: 10
 usc_section: "2859"
 chapter: 169
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2859"
-generated_at: "2026-03-30T02:08:27.287Z"
+generated_at: "2026-03-30T02:17:31.652Z"
 ---
 
 # § 2859. Construction requirements related to antiterrorism and force protection or urban-training operations

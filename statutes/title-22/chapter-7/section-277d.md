@@ -3,9 +3,9 @@ title: "Section 277d - Funds received from Mexico; expenditure"
 usc_title: 22
 usc_section: "277d"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 277d"
-generated_at: "2026-03-30T02:09:39.913Z"
+generated_at: "2026-03-30T02:18:41.487Z"
 ---
 
 # § 277d. Funds received from Mexico; expenditure

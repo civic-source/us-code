@@ -3,9 +3,9 @@ title: "Section 2920 - Energy resilience and energy security measures on militar
 usc_title: 10
 usc_section: "2920"
 chapter: 173
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2920"
-generated_at: "2026-03-30T02:08:27.291Z"
+generated_at: "2026-03-30T02:17:31.655Z"
 ---
 
 # § 2920. Energy resilience and energy security measures on military installations
@@ -38,7 +38,7 @@ generated_at: "2026-03-30T02:08:27.291Z"
     - **(B)** A black start exercise conducted under subparagraph (A) may exclude, if technically feasible, housing areas, commissaries, exchanges, and morale, welfare, and recreation facilities.
     - **(C)** The Secretary of Defense shall—
       - **(i)** provide uniform policy for the military departments and the Defense Agencies with respect to conducting black start exercises; and
-      - **(ii)** establish a schedule of black start exercises for the military departments and the Defense Agencies, with each military department and Defense Agency scheduled to conduct such an exercise on a number of installations each year sufficient to allow that military department or Defense Agency to meet the goals of this section, but in any event not fewer than five installations each year for each military department through fiscal year 2027.
+      - **(ii)** establish a schedule of black start exercises for the military departments and the Defense Agencies, with each military department and Defense Agency scheduled to conduct such an exercise on a number of installations each year sufficient to allow that military department or Defense Agency to meet the goals of this section, but in any event not fewer than five installations each year for each military department through fiscal year 2032.
     - **(D)**
       - **(i)** Except as provided in clause (ii), the Secretary of each military department shall, notwithstanding any other provision of law, conduct black start exercises in accordance with the schedule provided for in subparagraph (C)(ii), with any such exercise not to last longer than five days.
       - **(ii)** The Secretary of a military department may conduct more black start exercises than those identified in the schedule provided for in subparagraph (C)(ii).
@@ -46,7 +46,7 @@ generated_at: "2026-03-30T02:08:27.291Z"
   - **(1)** specify methods and processes to measure, manage, and verify compliance with subsection (a); and
   - **(2)** ensure that such contracts include requirements appropriate to ensure energy resilience and energy security, including requirements for metering to measure, manage, and verify energy consumption, availability, and reliability consistent with this section and the energy resilience metrics and standards under section 2911(b) of this title .
 - **(f)** This section does not apply to fuels used in aircraft, vessels, or motor vehicles.
-- **(g)** If by the end of fiscal year 2029, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
+- **(g)** If by the end of fiscal year 2027, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
   - **(1)** the projected shortfall;
   - **(2)** reasons for the projected shortfall;
   - **(3)** any statutory, technological, or monetary impediments to achieving such requirements;

@@ -1,18 +1,12 @@
 ---
-title: "Section 130h - Prohibitions relating to missile defense information and systems"
+title: "Section 130h - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]"
 usc_title: 10
 usc_section: "130h"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 130h"
-generated_at: "2026-03-30T02:08:27.167Z"
+generated_at: "2026-03-30T02:17:31.543Z"
 ---
 
-# § 130h. Prohibitions relating to missile defense information and systems
+# [§ 130h. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]
 
-- **(a)** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with “hit-to-kill” technology and telemetry data for missile defense interceptors or target vehicles.
-- **(b)** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with—
-  - **(1)** information relating to velocity at burnout of missile defense interceptors or targets of the United States; or
-  - **(2)** classified or otherwise controlled missile defense information.
-- **(c)** The prohibitions in subsections (a) and (b) shall not apply to the United States providing to the Russian Federation information regarding ballistic missile early warning.
-- **(d)** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be obligated or expended to integrate a missile defense system of the Russian Federation or a missile defense system of the People’s Republic of China into any missile defense system of the United States.

@@ -3,9 +3,9 @@ title: "Section 61 - Loans"
 usc_title: 15
 usc_section: "61"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 61"
-generated_at: "2026-03-30T02:08:56.082Z"
+generated_at: "2026-03-30T02:18:09.871Z"
 ---
 
 # § 80a–61. Loans

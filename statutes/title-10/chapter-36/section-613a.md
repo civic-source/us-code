@@ -3,9 +3,9 @@ title: "Section 613a - Nondisclosure of board proceedings"
 usc_title: 10
 usc_section: "613a"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 613a"
-generated_at: "2026-03-30T02:08:27.193Z"
+generated_at: "2026-03-30T02:17:31.566Z"
 ---
 
 # § 613a. Nondisclosure of board proceedings

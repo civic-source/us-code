@@ -3,9 +3,9 @@ title: "Section 31f - National geologic map database"
 usc_title: 43
 usc_section: "31f"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 31f"
-generated_at: "2026-03-30T02:10:37.010Z"
+generated_at: "2026-03-30T02:19:17.870Z"
 ---
 
 # § 31f. National geologic map database

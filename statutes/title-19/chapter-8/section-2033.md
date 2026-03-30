@@ -3,9 +3,9 @@ title: "Section 2033 - Applicability of antidumping provisions and antitrust law
 usc_title: 19
 usc_section: "2033"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2033"
-generated_at: "2026-03-30T02:09:03.094Z"
+generated_at: "2026-03-30T02:18:27.866Z"
 ---
 
 # § 2033. Applicability of antidumping provisions and antitrust laws

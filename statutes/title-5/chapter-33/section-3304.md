@@ -3,35 +3,113 @@ title: "Section 3304 - Competitive service; examinations"
 usc_title: 5
 usc_section: "3304"
 chapter: 33
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 3304"
-generated_at: "2026-03-30T02:08:10.383Z"
+generated_at: "2026-03-30T02:17:12.645Z"
 ---
 
 # § 3304. Competitive service; examinations
 
-- **(a)** The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, for—
+- **(a)** In this section:
+  - **(1)** The term “agency” means an Executive agency.
+  - **(2)** The term “Director” means the Director of the Office.
+  - **(3)** The term “examination” means the process by which an applicant demonstrates knowledge, skills, abilities, and competencies.
+  - **(4)** The term “examining agency” means—
+    - **(A)** the Office; or
+    - **(B)** an agency to which the Director has delegated examining authority under section 1104(a)(2).
+  - **(5)** The term “Office” means the Office of Personnel Management.
+  - **(6)** The term “passing score” means a minimum acceptable score or rating, consistent with applicable law, that may include a quantitative or qualitative assessment that an applicant can pass or fail.
+  - **(7)** The term “relevant committees” means—
+    - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
+    - **(B)** the Committee on Oversight and Accountability of the House of Representatives.
+  - **(8)** The term “subject matter expert” means an employee or selecting official—
+    - **(A)** who possesses an understanding of the duties of, and knowledge, skills, and abilities required for, the position for which the employee or selecting official is developing or administering an examination; and
+    - **(B)** whom the delegated examining unit of the examining agency that employs the employee or selecting official designates to assist in the development and administration of technical assessments.
+  - **(9)** The term “technical assessment” means a position-specific tool that is relevant to the position for which the tool is developed that—
+    - **(A)** allows for the demonstration of job-related skills, abilities, knowledge, and competencies;
+    - **(B)** is based upon a job analysis; and
+    - **(C)** does not solely include or principally rely upon a self-assessment from an automated examination.
+- **(b)** The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, for—
   - **(1)** open, competitive examinations for testing applicants for appointment in the competitive service which are practical in character and as far as possible relate to matters that fairly test the relative capacity and fitness of the applicants for the appointment sought;
   - **(2)** noncompetitive examinations when competent applicants do not compete after notice has been given of the existence of the vacancy; and
   - **(3)** authority for agencies to appoint, without regard to the provision of sections 3309 through 3318, candidates directly to positions for which—
     - **(A)** public notice has been given; and
     - **(B)** the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
-- **(b)** An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title . This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
 - **(c)**
+  - **(1)** For the purpose of testing applicants for appointment for a position, or class of positions, in the competitive service, an examining agency shall conduct an examination pursuant to subsection (b).
+  - **(2)**
+    - **(A)** During the 3-year period beginning on the date of enactment of the Chance to Compete Act of 2024, an examining agency shall preference the use of a technical assessment, to the maximum extent practicable, to assess the job-related skills, abilities, knowledge, and competencies of an applicant for a position in the competitive service.
+    - **(B)** During the 3-year period beginning on the date of enactment of the Chance to Compete Act of 2024, if an examining agency determines that the use of a technical assessment to assess the job-related skills, abilities, knowledge, and competencies of an applicant for a position in the competitive service is not practicable, the examining agency may use an alternative assessment for that purpose if the examining agency includes a brief description of the rationale for the use of the alternative assessment in the job posting.
+  - **(3)**
+    - **(A)** Not later 18 months after the date of enactment of the Chance to Compete Act of 2024, the Director shall submit to the relevant committees a plan to transition Federal hiring practices to adopt technical assessments in accordance with subsection (d), which shall include—
+      - **(i)** the prioritization of—
+        - **(I)** job classifications; and
+        - **(II)** resource requirements; and
+      - **(ii)** a timeline for full implementation of the transition.
+    - **(B)** In developing the plan under subparagraph (A), the Director shall consult with, at minimum—
+      - **(i)** the Director of the Office of Management and Budget;
+      - **(ii)** the Chair of the Chief Human Capital Officers Council;
+      - **(iii)** employee representatives; and
+      - **(iv)** relevant external stakeholders.
+  - **(4)**
+    - **(A)** Not later than 3 years after the date of enactment of the Chance to Compete Act of 2024, the Director shall implement the plan submitted under paragraph (3).
+    - **(B)** On and after the date that is 3 years after the date of enactment of the Chance to Compete Act of 2024, an examining agency shall use a technical assessment to examine applicants for positions in the competitive service in accordance with subsection (d).
+    - **(C)**
+      - **(i)** The requirement under subparagraph (B) shall not apply to an examining agency with respect to a particular job series if—
+        - **(I)** the examining agency determines that use of a technical assessment is impracticable for the job series; and
+        - **(II)** the head of the examining agency submits to the Director and the relevant committees a certification that use of the technical assessment is impracticable, which certification shall include—
+      - **(ii)** A waiver under this subparagraph shall be effective for the period—
+        - **(I)** beginning on the date that is 1 day after the date on which the applicable certification is submitted under clause (i)(II); and
+        - **(II)** ending on the date that is 3 years after the date on which the applicable certification is submitted under clause (i)(II).
+      - **(iii)** The head of an examining agency may not delegate the authority to submit a certification under clause (i)(II).
+- **(d)**
+  - **(1)** For the purpose of conducting an examination for a position in the competitive service, an individual who is determined by an examining agency to be a subject matter expert in the subject and job field of the position may—
+    - **(A)** develop, in partnership with human resources employees of the examining agency, a position-specific assessment that is relevant to the position, based on job analysis, which may include—
+      - **(i)** a structured interview;
+      - **(ii)** a work-related exercise;
+      - **(iii)** a custom or generic procedure used to measure an applicant’s employment or career-related qualifications and interests; or
+      - **(iv)** another assessment that—
+        - **(I)** allows for the demonstration of job-related technical skills, abilities, and knowledge; and
+        - **(II)** is relevant to the position for which the assessment is developed; and
+    - **(B)** administer the assessment developed under subparagraph (A) to—
+      - **(i)** determine whether an applicant for the position has a passing score to be qualified for the position; or
+      - **(ii)** rank applicants for the position for category rating purposes under section 3319.
+  - **(2)** Not later than 1 year after the date of enactment of the Chance to Compete Act of 2024, the Director shall—
+    - **(A)** conduct a feasibility study that examines the practicability, including a cost benefit analysis, of—
+      - **(i)** the sharing of technical assessments by an examining agency with another examining agency;
+      - **(ii)** mechanisms for each examining agency to maintain appropriate control over examination material that is shared by the examining agency as described in clause (i);
+      - **(iii)** limits on customization of a technical assessment that is shared as described in clause (i) and mechanisms to ensure that the resulting technical assessment satisfies the requirements under part 300 of title 5, Code of Federal Regulations (or any successor regulation); and
+      - **(iv)** the development of an online platform on which examining agencies can share and customize technical assessments as described in this subparagraph; and
+    - **(B)** submit to the relevant committees a report on the study conducted under subparagraph (A).
+- **(e)**
+  - **(1)** An agency may establish 1 or more agency talent teams, including at the component level.
+  - **(2)** An agency talent team shall provide hiring support to the agency, including by—
+    - **(A)** improving examinations;
+    - **(B)** facilitating the writing of job announcements for the competitive service;
+    - **(C)** sharing high-quality certificates of eligible applicants; and
+    - **(D)** facilitating hiring for the competitive service using examinations.
+- **(f)** The Director may establish a Federal talent team to support agency talent teams by—
+  - **(1)** facilitating hiring actions across the Federal Government;
+  - **(2)** providing training;
+  - **(3)** creating tools and guides to facilitate hiring for the competitive service; and
+  - **(4)** developing technical assessments.
+- **(g)** The Director shall promulgate such regulations as are necessary to implement and interpret this section.
+- **(h)** An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title . This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
+- **(i)**
   - **(1)** For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title .
   - **(2)** Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
     - **(A)** is involuntarily separated from service as a technician other than by removal for cause on charges of misconduct or delinquency;
     - **(B)** passes a suitable noncompetitive examination; and
     - **(C)** transfers to the competitive service within 1 year after separating from service as a technician.
-- **(d)** The Office of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
-- **(e)** Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
-- **(f)**
+- **(j)** The office 1 1 So in original. Probably should be capitalized. of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
+- **(k)** Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
+- **(l)**
   - **(1)** Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.
   - **(2)** If selected, a preference eligible or veteran described in paragraph (1) shall receive a career or career-conditional appointment, as appropriate.
   - **(3)** This subsection shall not be construed to confer an entitlement to veterans’ preference that is not otherwise required by law.
   - **(4)** The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
   - **(5)** The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
-- **(g)**
+- **(m)**
   - **(1)** In this subsection—
     - **(A)** the term “Department” means the Department of Defense; and
     - **(B)** the term “time-limited appointment” means a temporary or term appointment in the competitive service.

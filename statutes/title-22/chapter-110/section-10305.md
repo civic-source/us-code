@@ -3,15 +3,15 @@ title: "Section 10305 - Establishment and expansion of Regional Technology Offic
 usc_title: 22
 usc_section: "10305"
 chapter: 110
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 10305"
-generated_at: "2026-03-30T02:09:40.078Z"
+generated_at: "2026-03-30T02:18:41.716Z"
 ---
 
 # § 10305. Establishment and expansion of Regional Technology Officer Program
 
 - **(a)**
-  - **(1)** The Secretary shall establish a program, which shall be known as the “Regional Technology Officer Program” (referred to in this section as the “Program”).
+  - **(1)** The Secretary shall establish a program, which shall be known as the “Regional Technology Officer Program” (referred to in this section as the “Program”), and shall be administered by the Bureau for Cyberspace and Digital Policy.
   - **(2)** The goals of the Program shall include the following:
     - **(A)** Promoting United States leadership in technology abroad.
     - **(B)** Working with partners to increase the deployment of critical and emerging technology in support of democratic values.

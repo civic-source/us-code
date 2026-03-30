@@ -3,9 +3,9 @@ title: "Section 3204 - Installment payment order"
 usc_title: 28
 usc_section: "3204"
 chapter: 176
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 3204"
-generated_at: "2026-03-30T02:09:58.249Z"
+generated_at: "2026-03-30T02:18:45.834Z"
 ---
 
 # § 3204. Installment payment order

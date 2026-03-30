@@ -3,9 +3,9 @@ title: "Section 6246 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6246"
 chapter: 77
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6246"
-generated_at: "2026-03-30T02:11:33.282Z"
+generated_at: "2026-03-30T02:19:47.113Z"
 ---
 
 # § 6246. Authorization of appropriations

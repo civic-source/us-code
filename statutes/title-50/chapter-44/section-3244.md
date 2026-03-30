@@ -3,14 +3,14 @@ title: "Section 3244 - Annual report on reporting requirements"
 usc_title: 50
 usc_section: "3244"
 chapter: 44
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3244"
-generated_at: "2026-03-30T02:11:41.533Z"
+generated_at: "2026-03-30T02:19:57.499Z"
 ---
 
 # § 3244. Annual report on reporting requirements
 
-- **(a)** Not later than March 1 of each fiscal year, the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report detailing all congressionally mandated reporting requirements applicable to Office 1 1 So in original. Probably should be preceded by “the”. of the Director of National Intelligence for the upcoming fiscal year.
+- **(a)** Not later than March 1 of each fiscal year, the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report detailing all congressionally mandated reporting requirements applicable to the Office of the Director of National Intelligence for the upcoming fiscal year.
 - **(b)** Each report submitted pursuant to subsection (a) shall include, for the fiscal year covered by the report and for each congressionally mandated reporting requirement detailed in the report:
   - **(1)** A description of the reporting requirement.
   - **(2)** A citation to the provision of law (or other source of congressional directive) imposing the reporting requirement.

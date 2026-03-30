@@ -3,9 +3,9 @@ title: "Section 12617 - Service projects"
 usc_title: 42
 usc_section: "12617"
 chapter: 129
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12617"
-generated_at: "2026-03-30T02:11:33.570Z"
+generated_at: "2026-03-30T02:19:47.286Z"
 ---
 
 # § 12617. Service projects

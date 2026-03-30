@@ -3,9 +3,9 @@ title: "Section 3383 - National Counterintelligence and Security Center"
 usc_title: 50
 usc_section: "3383"
 chapter: 45
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3383"
-generated_at: "2026-03-30T02:11:41.551Z"
+generated_at: "2026-03-30T02:19:57.510Z"
 ---
 
 # § 3383. National Counterintelligence and Security Center
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T02:11:41.551Z"
 - **(f)**
   - **(1)** A National Threat Identification and Prioritization Assessment under subsection (e)(1), and any modification of such assessment, shall not go into effect until approved by the President.
   - **(2)** A National Counterintelligence Strategy under subsection (e)(2), and any modification of such strategy, shall not go into effect until approved by the President.
-  - **(3)** The National Counterintelligence Executive shall submit to the congressional intelligence committees each National Threat Identification and Prioritization Assessment, or modification thereof, and each National Counterintelligence Strategy, or modification thereof, approved under this section.
+  - **(3)** The Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees each National Threat Identification and Prioritization Assessment, or modification thereof, and each National Counterintelligence Strategy, or modification thereof, approved under this section.
   - **(4)** In this subsection, the term “congressional intelligence committees” means—
     - **(A)** the Select Committee on Intelligence of the Senate; and
     - **(B)** the Permanent Select Committee on Intelligence of the House of Representatives.

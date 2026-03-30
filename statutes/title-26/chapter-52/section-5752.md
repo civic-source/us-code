@@ -3,9 +3,9 @@ title: "Section 5752 - Restrictions relating to marks, labels, notices, and pack
 usc_title: 26
 usc_section: "5752"
 chapter: 52
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5752"
-generated_at: "2026-03-30T02:10:02.999Z"
+generated_at: "2026-03-30T02:18:56.519Z"
 ---
 
 # § 5752. Restrictions relating to marks, labels, notices, and packages

@@ -3,9 +3,9 @@ title: "Section 331 - General bonus authority for enlisted members"
 usc_title: 37
 usc_section: "331"
 chapter: 5
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 331"
-generated_at: "2026-03-30T02:10:28.799Z"
+generated_at: "2026-03-30T02:19:09.130Z"
 ---
 
 # § 331. General bonus authority for enlisted members
@@ -37,4 +37,4 @@ generated_at: "2026-03-30T02:10:28.799Z"
 - **(e)** A bonus paid to a person or member under this section is in addition to any other pay and allowance to which the person or member is entitled.
 - **(f)** A bonus authorized under this section is not a bounty for purposes of section 514(a) of title 10 .
 - **(g)** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title .
-- **(h)** No agreement may be entered into under this section after December 31, 2024 .
+- **(h)** No agreement may be entered into under this section after December 31, 2025 .

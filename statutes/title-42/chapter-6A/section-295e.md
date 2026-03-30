@@ -3,9 +3,9 @@ title: "Section 295e - Authorization of appropriations"
 usc_title: 42
 usc_section: "295e"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 295e"
-generated_at: "2026-03-30T02:11:32.524Z"
+generated_at: "2026-03-30T02:19:46.671Z"
 ---
 
 # § 295e. Authorization of appropriations

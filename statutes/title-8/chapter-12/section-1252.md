@@ -3,9 +3,9 @@ title: "Section 1252 - Judicial review of orders of removal"
 usc_title: 8
 usc_section: "1252"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1252"
-generated_at: "2026-03-30T02:08:16.837Z"
+generated_at: "2026-03-30T02:17:17.706Z"
 ---
 
 # § 1252. Judicial review of orders of removal
@@ -83,4 +83,5 @@ generated_at: "2026-03-30T02:08:16.837Z"
 - **(f)**
   - **(1)** Regardless of the nature of the action or claim or of the identity of the party or parties bringing the action, no court (other than the Supreme Court) shall have jurisdiction or authority to enjoin or restrain the operation of the provisions of part IV of this subchapter, as amended by the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, other than with respect to the application of such provisions to an individual alien against whom proceedings under such part have been initiated.
   - **(2)** Notwithstanding any other provision of law, no court shall enjoin the removal of any alien pursuant to a final order under this section unless the alien shows by clear and convincing evidence that the entry or execution of such order is prohibited as a matter of law.
+  - **(3)** Paragraph (1) shall not apply to an action brought pursuant to section 1225(b)(3) of this title , subsections (e) or (f) of section 1226 of this title , or section 1231(a)(2)(B) of this title .
 - **(g)** Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28 , or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.

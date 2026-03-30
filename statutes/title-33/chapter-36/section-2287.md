@@ -3,9 +3,9 @@ title: "Section 2287 - Continued planning and investigations"
 usc_title: 33
 usc_section: "2287"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2287"
-generated_at: "2026-03-30T02:10:26.079Z"
+generated_at: "2026-03-30T02:19:07.023Z"
 ---
 
 # § 2287. Continued planning and investigations

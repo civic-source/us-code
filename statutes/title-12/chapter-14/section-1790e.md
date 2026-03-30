@@ -3,9 +3,9 @@ title: "Section 1790e - Temporary Corporate Credit Union Stabilization Fund"
 usc_title: 12
 usc_section: "1790e"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 1790e"
-generated_at: "2026-03-30T02:08:53.286Z"
+generated_at: "2026-03-30T02:18:20.497Z"
 ---
 
 # § 1790e. Temporary Corporate Credit Union Stabilization Fund

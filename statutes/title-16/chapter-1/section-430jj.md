@@ -3,9 +3,9 @@ title: "Section 430jj - Authorization of appropriations"
 usc_title: 16
 usc_section: "430jj"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 430jj"
-generated_at: "2026-03-30T02:09:13.290Z"
+generated_at: "2026-03-30T02:18:31.889Z"
 ---
 
 # § 430jj. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 453 - Allowable travel and transportation: specific authorities"
 usc_title: 37
 usc_section: "453"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 453"
-generated_at: "2026-03-30T02:10:28.804Z"
+generated_at: "2026-03-30T02:19:09.134Z"
 ---
 
 # § 453. Allowable travel and transportation: specific authorities
@@ -14,9 +14,9 @@ generated_at: "2026-03-30T02:10:28.804Z"
 - **(b)** An authorized traveler may be paid travel and transportation allowances, or reimbursed for actual and necessary expenses of travel, incurred at a temporary duty location during an authorized absence from that location.
 - **(c)**
   - **(1)** A member of a uniformed service may be allowed moving expenses and transportation allowances for self and dependents associated with the movement of personal property and household goods, including such expenses when associated with a self-move.
-  - **(2)** The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles (but not to exceed one privately owned vehicle per member household) in connection with the temporary or permanent move between authorized locations.
+  - **(2)** The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles in connection with the temporary or permanent move between authorized locations.
   - **(3)** For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under section 464 of this title . The prescribed weight allowances may not exceed 18,000 pounds (including household goods in temporary storage, but excluding packing and crating), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
-  - **(4)** The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store a privately owned vehicle.
+  - **(4)** The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store privately owned vehicles.
   - **(5)** No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 - **(d)** An authorized traveler may be provided travel and transportation allowances under this section for unusual, extraordinary, hardship, or emergency circumstances, including circumstances warranting evacuation from a permanent duty assignment location.
 - **(e)** The administering Secretary may provide travel-in-kind and transportation-in-kind for the following persons in accordance with regulations prescribed under section 464 of this title :
@@ -40,7 +40,7 @@ generated_at: "2026-03-30T02:10:28.804Z"
     - **(A)** the spouse was licensed or certified in a profession, or owned a business, during the member’s previous duty assignment and requires a new professional license or certification, or business license or permit, to engage in that profession in a new jurisdiction because of the member’s relocation described in paragraph (1); and
     - **(B)** the costs were incurred or paid to secure or maintain the professional license or certification, or business license or permit, from the new jurisdiction in connection with such relocation.
   - **(5)** In this subsection, the term “qualified business costs” means costs, including moving services for equipment, equipment removal, new equipment purchases, information technology expenses, and inspection fees, incurred by the spouse of a member if—
-    - **(A)** the spouse owned a business during the member’s previous duty assignment and the costs result from a the member’s relocation described in paragraph (1); and
+    - **(A)** the spouse owned a business during the member’s previous duty assignment and the costs result from a the 1 1 So in original. member’s relocation described in paragraph (1); and
     - **(B)** the costs were incurred or paid to move such business to a new location in connection with such relocation.
 - **(h)**
   - **(1)** The Secretary concerned may reimburse a member for any cost related to the relocation of a pet that arises from a permanent change of station of such member within the continental United States. Such reimbursement may not exceed $550 for each such permanent change of station.

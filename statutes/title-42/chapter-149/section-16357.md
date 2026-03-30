@@ -3,9 +3,9 @@ title: "Section 16357 - Strategy for facilities and infrastructure"
 usc_title: 42
 usc_section: "16357"
 chapter: 149
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16357"
-generated_at: "2026-03-30T02:11:33.671Z"
+generated_at: "2026-03-30T02:19:47.347Z"
 ---
 
 # § 16357. Strategy for facilities and infrastructure

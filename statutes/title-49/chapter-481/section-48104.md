@@ -3,9 +3,9 @@ title: "Section 48104 - Operations and maintenance"
 usc_title: 49
 usc_section: "48104"
 chapter: 481
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 48104"
-generated_at: "2026-03-30T02:11:47.470Z"
+generated_at: "2026-03-30T02:19:55.169Z"
 ---
 
 # § 48104. Operations and maintenance

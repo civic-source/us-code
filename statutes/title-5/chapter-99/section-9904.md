@@ -3,9 +3,9 @@ title: "Section 9904 - Special pay and benefits for certain employees outside th
 usc_title: 5
 usc_section: "9904"
 chapter: 99
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 9904"
-generated_at: "2026-03-30T02:08:10.456Z"
+generated_at: "2026-03-30T02:17:12.700Z"
 ---
 
 # § 9904. Special pay and benefits for certain employees outside the United States

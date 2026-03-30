@@ -3,14 +3,14 @@ title: "Section 6852 - Interagency data standardization"
 usc_title: 16
 usc_section: "6852"
 chapter: 87
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 6852"
-generated_at: "2026-03-30T02:09:13.536Z"
+generated_at: "2026-03-30T02:18:32.105Z"
 ---
 
 # § 6852. Interagency data standardization
 
 Not later than 30 months after April 29, 2022 , the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of data—
 
-  - **(1)** relating to public outdoor recreational use on Federal land; and
+  - **(1)** relating to recreation sites on Federal land; and
   - **(2)** used to depict locations at which recreation uses are available to the public.

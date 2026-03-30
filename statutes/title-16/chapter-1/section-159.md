@@ -3,9 +3,9 @@ title: "Section 159 - Establishment; boundaries"
 usc_title: 16
 usc_section: "159"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 159"
-generated_at: "2026-03-30T02:09:13.233Z"
+generated_at: "2026-03-30T02:18:31.844Z"
 ---
 
 # § 159. Establishment; boundaries

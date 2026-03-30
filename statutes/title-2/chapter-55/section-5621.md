@@ -3,9 +3,9 @@ title: "Section 5621 - Corrections Calendar Office"
 usc_title: 2
 usc_section: "5621"
 chapter: 55
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 5621"
-generated_at: "2026-03-30T02:07:57.539Z"
+generated_at: "2026-03-30T02:16:56.717Z"
 ---
 
 # § 5621. Corrections Calendar Office

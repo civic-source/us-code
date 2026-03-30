@@ -3,9 +3,9 @@ title: "Section 745 - National planning scenarios"
 usc_title: 6
 usc_section: "745"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 745"
-generated_at: "2026-03-30T02:08:19.266Z"
+generated_at: "2026-03-30T02:17:15.282Z"
 ---
 
 # § 745. National planning scenarios

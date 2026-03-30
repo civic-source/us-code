@@ -3,9 +3,9 @@ title: "Section 676 - Hunting, trapping, killing, or capturing game on Norbeck W
 usc_title: 16
 usc_section: "676"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 676"
-generated_at: "2026-03-30T02:09:13.377Z"
+generated_at: "2026-03-30T02:18:31.964Z"
 ---
 
 # § 676. Hunting, trapping, killing, or capturing game on Norbeck Wildlife Preserve unlawful

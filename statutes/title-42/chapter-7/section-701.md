@@ -3,9 +3,9 @@ title: "Section 701 - Authorization of appropriations; purposes; definitions"
 usc_title: 42
 usc_section: "701"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 701"
-generated_at: "2026-03-30T02:11:32.710Z"
+generated_at: "2026-03-30T02:19:46.786Z"
 ---
 
 # § 701. Authorization of appropriations; purposes; definitions
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T02:11:32.710Z"
       - **(v)** $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014 ;
       - **(vi)** $5,000,000 for each of fiscal years 2015 through 2017;
       - **(vii)** $6,000,000 for each of fiscal years 2018 through 2024; and
-      - **(viii)** $3,000,000 for the portion of fiscal year 2025 before April 1, 2025 .
+      - **(viii)** $6,000,000 for fiscal year 2025 3 3 So in original. Probably should be followed by a period.
     - **(B)** Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
       - **(i)** be in addition to amounts appropriated under subsection (a) and retained under section 702(a)(1) of this title for the purpose of carrying out activities described in subsection (a)(2); and
       - **(ii)** remain available until expended.

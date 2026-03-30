@@ -3,9 +3,9 @@ title: "Section 9661 - Love Canal property acquisition"
 usc_title: 42
 usc_section: "9661"
 chapter: 103
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9661"
-generated_at: "2026-03-30T02:11:33.479Z"
+generated_at: "2026-03-30T02:19:47.231Z"
 ---
 
 # § 9661. Love Canal property acquisition

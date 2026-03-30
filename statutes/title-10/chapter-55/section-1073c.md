@@ -3,9 +3,9 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-30T02:08:27.222Z"
+generated_at: "2026-03-30T02:17:31.590Z"
 ---
 
 # § 1073c. Administration of Defense Health Agency and military medical treatment facilities
@@ -83,8 +83,8 @@ generated_at: "2026-03-30T02:08:27.222Z"
 - **(h)** In implementing this section—
   - **(1)** the Department of Defense shall be considered a single agency for purposes of civilian personnel assignment under title 5; and
   - **(2)** the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5 ) to any other component of the Department of Defense or military department.
-- **(h)** Nothing in this section shall be construed as transferring to the Director of the Defense Health Agency, or otherwise revoking, any authority or responsibility of the Secretary concerned under chapter 61 of this title with respect to a member of the armed forces (including with respect to the administration of morale and welfare and the determination of fitness for duty for the member) while the member is being considered by a medical evaluation board.
-- **(i)** In this section:
+- **(i)** Nothing in this section shall be construed as transferring to the Director of the Defense Health Agency, or otherwise revoking, any authority or responsibility of the Secretary concerned under chapter 61 of this title with respect to a member of the armed forces (including with respect to the administration of morale and welfare and the determination of fitness for duty for the member) while the member is being considered by a medical evaluation board.
+- **(j)** In this section:
   - **(1)** The term “career appointee” has the meaning given that term in section 3132(a)(4) of title 5 .
   - **(2)** The term “Defense Health Agency” means the Defense Agency established pursuant to Department of Defense Directive 5136.13, or such successor Defense Agency.
   - **(3)** The term “military medical treatment facility” means—

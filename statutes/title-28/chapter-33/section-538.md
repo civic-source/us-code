@@ -3,9 +3,9 @@ title: "Section 538 - Investigation of aircraft piracy and related violations"
 usc_title: 28
 usc_section: "538"
 chapter: 33
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 538"
-generated_at: "2026-03-30T02:09:58.230Z"
+generated_at: "2026-03-30T02:18:45.812Z"
 ---
 
 # § 538. Investigation of aircraft piracy and related violations

@@ -3,9 +3,9 @@ title: "Section 711 - Surge Capacity Force"
 usc_title: 6
 usc_section: "711"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 711"
-generated_at: "2026-03-30T02:08:19.265Z"
+generated_at: "2026-03-30T02:17:15.282Z"
 ---
 
 # § 711. Surge Capacity Force

@@ -3,12 +3,12 @@ title: "Section 503 - Enlistments: recruiting campaigns; compilation of director
 usc_title: 10
 usc_section: "503"
 chapter: 31
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 503"
-generated_at: "2026-03-30T02:08:27.188Z"
+generated_at: "2026-03-30T02:17:31.563Z"
 ---
 
-# § 503. 1 1 Another section 503 is set out in chapter 25 of this title. Enlistments: recruiting campaigns; compilation of directory information
+# § 503. Enlistments: recruiting campaigns; compilation of directory information
 
 - **(a)**
   - **(1)** The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard and the Space Force.

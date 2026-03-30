@@ -3,9 +3,9 @@ title: "Section 3 - Identification of pests; cooperation with Department of Agri
 usc_title: 7
 usc_section: "3"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:08:42.845Z"
+generated_at: "2026-03-30T02:18:00.279Z"
 ---
 
 # § 136w–3. Identification of pests; cooperation with Department of Agriculture’s program

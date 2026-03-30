@@ -3,9 +3,9 @@ title: "Section 21d - Existing claims, locations, and entries as affected by rev
 usc_title: 16
 usc_section: "21d"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 21d"
-generated_at: "2026-03-30T02:09:13.224Z"
+generated_at: "2026-03-30T02:18:31.836Z"
 ---
 
 # § 21d. Existing claims, locations, and entries as affected by revised boundaries

@@ -3,9 +3,9 @@ title: "Section 3025 - Office of the Director of National Intelligence"
 usc_title: 50
 usc_section: "3025"
 chapter: 44
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3025"
-generated_at: "2026-03-30T02:11:41.511Z"
+generated_at: "2026-03-30T02:19:57.487Z"
 ---
 
 # § 3025. Office of the Director of National Intelligence
@@ -17,16 +17,17 @@ generated_at: "2026-03-30T02:11:41.511Z"
   - **(2)** The Principal Deputy Director of National Intelligence.
   - **(3)** Any Deputy Director of National Intelligence appointed under section 3026 of this title .
   - **(4)** The National Intelligence Council.
-  - **(5)** The General Counsel.
-  - **(6)** The Civil Liberties Protection Officer.
-  - **(7)** The Director of Science and Technology.
-  - **(8)** The Director of the National Counterintelligence and Security Center.
-  - **(9)** The Chief Information Officer of the Intelligence Community.
-  - **(10)** The Inspector General of the Intelligence Community.
-  - **(11)** The Director of the National Counterterrorism Center.
-  - **(12)** The Director of the National Counter Proliferation Center. 1 1 See Change of Name note below.
-  - **(13)** The Chief Financial Officer of the Intelligence Community.
-  - **(14)** Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers.
+  - **(5)** The National Intelligence Management Council.
+  - **(6)** The General Counsel.
+  - **(7)** The Civil Liberties Protection Officer.
+  - **(8)** The Director of Science and Technology.
+  - **(9)** The Director of the National Counterintelligence and Security Center.
+  - **(10)** The Chief Information Officer of the Intelligence Community.
+  - **(11)** The Inspector General of the Intelligence Community.
+  - **(12)** The Director of the National Counterterrorism Center.
+  - **(13)** The Director of the National Counter Proliferation Center. 1 1 See Change of Name note below.
+  - **(14)** The Chief Financial Officer of the Intelligence Community.
+  - **(15)** Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers.
 - **(d)**
   - **(1)** To assist the Director of National Intelligence in fulfilling the duties and responsibilities of the Director, the Director shall employ and utilize in the Office of the Director of National Intelligence a professional staff having an expertise in matters relating to such duties and responsibilities, and may establish permanent positions and appropriate rates of pay with respect to that staff.
   - **(2)** The staff of the Office of the Director of National Intelligence under paragraph (1) shall include the staff of the Office of the Deputy Director of Central Intelligence for Community Management that is transferred to the Office of the Director of National Intelligence under section 1091 of the National Security Intelligence Reform Act of 2004.

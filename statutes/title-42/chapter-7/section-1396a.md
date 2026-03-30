@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T02:11:32.920Z"
+generated_at: "2026-03-30T02:19:46.909Z"
 ---
 
 # § 1396a. State plans for medical assistance
@@ -267,7 +267,7 @@ generated_at: "2026-03-30T02:11:32.920Z"
       - **(i)** the Internet website of such physician or provider; or
       - **(ii)** whether the physician or provider is accepting as new patients individuals who receive medical assistance under this subchapter;
   - **(84)** provide that—
-    - **(A)** the State shall not terminate eligibility for medical assistance under the State plan (or waiver of such plan) for an individual who is an eligible juvenile (as defined in subsection (nn)(2)) because the juvenile is an inmate of a public institution (as defined in subsection (nn)(3)), but, subject to subparagraph (D), may suspend coverage during the period the juvenile is such an inmate;
+    - **(A)** the State shall not terminate eligibility for medical assistance under the State plan (or waiver of such plan) for an individual who is an eligible juvenile (as defined in subsection (nn)(2)) because the juvenile is an inmate of a public institution (as defined in subsection (nn)(3)), but, subject to subparagraph (D), may suspend coverage during the period the juvenile is such an inmate (or in the case of a State electing the option described in the subdivision (A) following paragraph (31) of section 1396d(a) of this title , during such period beginning after the disposition of charges with respect to such individual);
     - **(B)** in the case of an individual who is an eligible juvenile described in paragraph (2)(A) of subsection (nn), the State shall, prior to the individual’s release from such a public institution, conduct a redetermination of eligibility for such individual with respect to such medical assistance (without requiring a new application from the individual) and, if the State determines pursuant to such redetermination that the individual continues to meet the eligibility requirements for such medical assistance, the State shall restore coverage for such medical assistance to such an individual upon the individual’s release from such public institution;
     - **(C)** in the case of an individual who is an eligible juvenile described in paragraph (2)(B) of subsection (nn), the State shall process any application for medical assistance submitted by, or on behalf of, such individual such that the State makes a determination of eligibility for such individual with respect to such medical assistance upon release of such individual from such public institution; and
     - **(D)** in the case of an individual who is an eligible juvenile described in subsection (nn)(2) and is within 30 days of the date on which such eligible juvenile is scheduled to be released from a public institution following adjudication, the State shall have in place a plan, and in accordance with such plan, provide for—

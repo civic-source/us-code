@@ -3,9 +3,9 @@ title: "Section 19108 - Regional Innovation Engines"
 usc_title: 42
 usc_section: "19108"
 chapter: 163
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19108"
-generated_at: "2026-03-30T02:11:33.759Z"
+generated_at: "2026-03-30T02:19:47.402Z"
 ---
 
 # § 19108. Regional Innovation Engines

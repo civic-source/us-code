@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T02:08:27.263Z"
+generated_at: "2026-03-30T02:17:31.629Z"
 ---
 
 # § 2222. Defense business systems: business process reengineering; enterprise architecture; management
@@ -58,7 +58,7 @@ generated_at: "2026-03-30T02:08:27.263Z"
     - **(C)** The Director of Cost Assessment and Program Evaluation shall have access to data for the purpose of executing missions as designated by the Secretary of Defense.
     - **(D)** The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes of automatically populating data sets coded with common enterprise data.
 - **(f)**
-  - **(1)** The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department’s business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Chief Information Officer of the Department of Defense.
+  - **(1)** The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department’s business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be co-chaired by the Chief Information Officer and the Performance Improvement Officer of the Department of Defense.
   - **(2)** The membership of the Council shall include the following:
     - **(A)** The Chief Information Officers of the military departments, or their designees.
     - **(B)** The Chief Management Officers of the military departments, or their designees.

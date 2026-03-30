@@ -3,9 +3,9 @@ title: "Section 71q - Transferred"
 usc_title: 42
 usc_section: "71q"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 71q"
-generated_at: "2026-03-30T02:11:32.359Z"
+generated_at: "2026-03-30T02:19:46.570Z"
 ---
 
 # §§ 71n to 71q. Transferred

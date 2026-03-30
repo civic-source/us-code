@@ -3,9 +3,9 @@ title: "Section 2332 - Shoreline and riverine protection and restoration"
 usc_title: 33
 usc_section: "2332"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2332"
-generated_at: "2026-03-30T02:10:26.082Z"
+generated_at: "2026-03-30T02:19:07.028Z"
 ---
 
 # § 2332. Shoreline and riverine protection and restoration
@@ -81,6 +81,8 @@ generated_at: "2026-03-30T02:10:26.082Z"
     - **(I)** Maumee River, Ohio.
     - **(J)** Los Angeles and San Gabriel Rivers, California.
     - **(K)** Kentucky River and its tributaries and watersheds.
+    - **(L)** Shoreline of the State of Connecticut.
+    - **(M)** Winooski River tributary watershed, Vermont.
 - **(f)**
   - **(1)** The Secretary shall not implement any project under this section until—
     - **(A)** the Secretary submits to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notification describing the project and the determinations made under subsection (d)(1); and

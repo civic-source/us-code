@@ -3,9 +3,9 @@ title: "Section 2396b - USAID Buying Power Maintenance Account"
 usc_title: 22
 usc_section: "2396b"
 chapter: 32
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2396b"
-generated_at: "2026-03-30T02:09:39.966Z"
+generated_at: "2026-03-30T02:18:41.559Z"
 ---
 
 # § 2396b. USAID Buying Power Maintenance Account

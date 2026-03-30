@@ -3,9 +3,9 @@ title: "Section 5461 - Findings and purposes"
 usc_title: 12
 usc_section: "5461"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 5461"
-generated_at: "2026-03-30T02:08:53.375Z"
+generated_at: "2026-03-30T02:18:20.589Z"
 ---
 
 # § 5461. Findings and purposes

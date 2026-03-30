@@ -3,9 +3,9 @@ title: "Section 17013 - Advanced technology vehicles manufacturing incentive pro
 usc_title: 42
 usc_section: "17013"
 chapter: 152
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17013"
-generated_at: "2026-03-30T02:11:33.684Z"
+generated_at: "2026-03-30T02:19:47.356Z"
 ---
 
 # § 17013. Advanced technology vehicles manufacturing incentive program
@@ -82,7 +82,7 @@ generated_at: "2026-03-30T02:11:33.684Z"
     - **(B)** manufactures ultra efficient vehicles, advanced technology vehicles, or components of advanced technology vehicles.
   - **(2)** Of the amount of funds that are used to provide awards for each fiscal year under subsection (b), the Secretary shall use not less than 10 percent to provide awards to covered firms or consortia led by a covered firm.
 - **(i)**
-  - **(1)** The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary’s functions under this section.
+  - **(1)** The Secretary may use direct hiring authority pursuant to section 3304(b)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary’s functions under this section.
   - **(2)** The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such 3 3 So in original. Probably should be “of such”. title 5.
   - **(3)** The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to section 1901 of title 41 .
 - **(j)** In carrying out this section, the Secretary shall coordinate with relevant vehicle, bioenergy, and hydrogen and fuel cell demonstration project activities supported by the Department.

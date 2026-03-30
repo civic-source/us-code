@@ -3,9 +3,9 @@ title: "Section 8001 - Definitions"
 usc_title: 10
 usc_section: "8001"
 chapter: 801
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8001"
-generated_at: "2026-03-30T02:08:27.324Z"
+generated_at: "2026-03-30T02:17:31.687Z"
 ---
 
 # § 8001. Definitions

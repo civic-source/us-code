@@ -3,9 +3,9 @@ title: "Section 10706 - Seamen dying in the United States"
 usc_title: 46
 usc_section: "10706"
 chapter: 107
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 10706"
-generated_at: "2026-03-30T02:11:43.093Z"
+generated_at: "2026-03-30T02:19:51.532Z"
 ---
 
 # § 10706. Seamen dying in the United States

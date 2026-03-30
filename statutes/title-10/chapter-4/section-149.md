@@ -3,9 +3,9 @@ title: "Section 149 - Office of Strategic Capital"
 usc_title: 10
 usc_section: "149"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 149"
-generated_at: "2026-03-30T02:08:27.169Z"
+generated_at: "2026-03-30T02:17:31.546Z"
 ---
 
 # § 149. Office of Strategic Capital
@@ -17,7 +17,48 @@ generated_at: "2026-03-30T02:08:27.169Z"
   - **(2)** identify and prioritize promising critical technologies and assets that require capital assistance and have the potential to benefit the Department of Defense; and
   - **(3)** make eligible investments in such technologies and assets, such as supply chain technologies not always supported through direct investment.
 - **(d)** In the case of an eligible investment made through a direct loan, not less than 80 percent of the total capital provided for the specific technology to be funded by the investment shall be derived from non-Federal sources as of the time of the investment.
-- **(e)** In this section:
+- **(e)**
+  - **(1)** To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Secretary of Defense, acting through the Director, may carry out a pilot program under this subsection to provide capital assistance to eligible entities for eligible investments to develop technologies that support the duties and elements of the Office and meet the needs of the Department of Defense.
+  - **(2)**
+    - **(A)** An eligible entity seeking capital assistance for an eligible investment under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require.
+    - **(B)** The Director shall establish criteria for selecting among eligible investments for which applications are submitted under subparagraph (A). The criteria shall include—
+      - **(i)** the extent to which an investment supports the national security or economic interests of the United States;
+      - **(ii)** the likelihood that capital assistance provided for an investment would enable the investment to proceed sooner than the investment would otherwise be able to proceed; and
+      - **(iii)** the creditworthiness of an investment.
+  - **(3)**
+    - **(A)**
+      - **(i)** To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director may provide loans or loan guarantees to finance or refinance the costs of an eligible investment selected pursuant to paragraph (2)(B).
+      - **(ii)**
+        - **(I)**
+        - **(II)** The final maturity date of a loan provided under clause (i) shall be not later than 50 years after the date on which the loan was provided.
+        - **(III)** A loan provided under clause (i) may be paid earlier than is provided for under the loan agreement without a penalty.
+        - **(IV)**
+        - **(V)** The Director may sell to another entity or reoffer into the capital markets a loan provided under clause (i) if the Director determines that the sale or reoffering can be made on favorable terms.
+        - **(VI)** Any loan guarantee provided under clause (i) shall specify the percentage of the principal amount guaranteed. If the Secretary determines that the obligor of a loan guaranteed by the Department of Defense defaults on the loan, the Director shall pay the holder, or such other party, as specified in the loan guarantee agreement.
+        - **(VII)** The Director shall establish a credit rating system to ensure a reasonable assurance of repayment. The system may include use of existing credit rating agencies where appropriate.
+        - **(VIII)** Loans and loan guarantees provided under clause (i) shall be subject to such other terms and conditions and contain such other covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+        - **(IX)** Loans and loan guarantees provided under clause (i) shall be subject to the requirements of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
+    - **(B)** Subject to appropriations Acts, the Director may provide technical assistance with respect to developing and financing investments to eligible entities seeking capital assistance for eligible investments and eligible entities receiving capital assistance under this subsection.
+    - **(C)**
+      - **(i)** To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director shall provide to an eligible investment selected pursuant to paragraph (2)(B) the amount of capital assistance necessary to carry out the investment.
+      - **(ii)** All financial transactions conducted under this subsection shall be conducted in United States dollars.
+  - **(4)** The requirements of subsection (d) shall apply to eligible investments under this subsection.
+  - **(5)**
+    - **(A)**
+      - **(i)** There is established in the Treasury of the United States a Department of Defense Credit Program Account to make and guarantee loans under this subsection in accordance with section 502 of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661a ).
+      - **(ii)** The Credit Program Account shall consist of amounts appropriated pursuant to the authorization of appropriations.
+    - **(B)** To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this subsection, the Director is authorized to pay, from amounts in the Department of Defense Credit Program Account—
+      - **(i)** the cost, as defined in section 502 of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661a ), of loans and loan guarantees and other capital assistance;
+      - **(ii)** administrative expenses associated with activities under this subsection;
+      - **(iii)** project-specific transaction costs; and
+      - **(iv)** the cost of providing support authorized by this subsection.
+  - **(6)** The Secretary of Defense may prescribe such regulations as the Secretary determines to be appropriate to carry out this subsection.
+  - **(7)** Not later than the first Monday in February of a fiscal year, the Secretary of Defense shall submit to the congressional defense committees an annual report describing activities carried out pursuant to this subsection in the preceding fiscal year and the goals of the Department of Defense in accordance with this subsection for the next fiscal year.
+  - **(8)** The Secretary of Defense shall notify the congressional defense committees not later than 30 days after a use of loans, loan guarantees, or technical assistance under this subsection.
+  - **(9)**
+    - **(A)** The authority of the Director to make new loans and provide new loan guarantees under subparagraph (A)(i) of paragraph (3) shall expire on October 1, 2028 . Any loans or loan guarantees provided under such subparagraph that are outstanding as of such date shall continue to be subject to the terms, conditions, and other requirements of this subsection.
+    - **(B)** The authority of the Director to provide technical assistance to eligible entities under subparagraph (B) of paragraph (3) shall expire on October 1, 2028 .
+- **(f)** In this section:
   - **(1)** The term “capital assistance” means a loan, loan guarantee, or technical assistance.
   - **(2)** The term “covered technology category” means the following:
     - **(A)** Advanced bulk materials.
@@ -51,6 +92,8 @@ generated_at: "2026-03-30T02:08:27.169Z"
     - **(CC)** Quantum computing.
     - **(DD)** Quantum security.
     - **(EE)** Quantum sensing.
+    - **(FF)** Strategic maritime infrastructure.
+    - **(GG)** Critical minerals and materials.
   - **(3)** The term “eligible entity” means—
     - **(A)** an individual;
     - **(B)** a corporation;
@@ -65,3 +108,4 @@ generated_at: "2026-03-30T02:08:27.169Z"
   - **(4)** The term “eligible investment” means an investment, in the form of capital assistance provided to an eligible entity, for a technology that—
     - **(A)** is in a covered technology category; and
     - **(B)** is not a technology that solely has defense applications.
+  - **(5)** The term “obligor” means a party that is primarily liable for payment of the principal or interest on a loan.

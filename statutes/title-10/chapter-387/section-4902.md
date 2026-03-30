@@ -3,9 +3,9 @@ title: "Section 4902 - Department of Defense Mentor-Protege Program"
 usc_title: 10
 usc_section: "4902"
 chapter: 387
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4902"
-generated_at: "2026-03-30T02:08:27.315Z"
+generated_at: "2026-03-30T02:17:31.678Z"
 ---
 
 # § 4902. Department of Defense Mentor-Protege Program
@@ -34,11 +34,11 @@ generated_at: "2026-03-30T02:08:27.315Z"
     - **(A)** A developmental program for the protege firm, in such detail as may be reasonable, including—
       - **(i)** factors to assess the protege firm’s developmental progress under the program;
       - **(ii)** a description of the quantitative and qualitative benefits to the Department of Defense from the agreement, if applicable;
-      - **(iii)** goals for additional awards that protege 1 1 So in original. Probably should be preceded by “the”. firm can compete for outside the Mentor-Protege Program; and
+      - **(iii)** goals for additional awards that the protege firm can compete for outside the Mentor-Protege Program; and
       - **(iv)** the assistance the mentor firm will provide to the protege firm in understanding contract regulations of the Federal Government and the Department of Defense (including the Federal Acquisition Regulation and the Defense Federal Acquisition Regulation Supplement) after award of a subcontract under this section, if applicable.
     - **(B)** A program participation term for any period of not more than three years, except that the term may be a period of up to five years if the Secretary of Defense determines in writing that unusual circumstances justify a program participation term in excess of three years.
+    - **(C)** Procedures for the protege firm to terminate the agreement voluntarily and for the mentor firm to terminate the agreement for cause.
   - **(2)** An agreement under this subsection may be a contract, cooperative agreement, or a partnership intermediary agreement.
-  - **(3)** 2 2 See Codification note below. Procedures for the protege firm to terminate the agreement voluntarily and for the mentor firm to terminate the agreement for cause.
 - **(f)** A mentor firm may provide a protege firm the following:
   - **(1)** Assistance, by using mentor firm personnel, in—
     - **(A)** general business management, including organizational management, financial management, and personnel management, marketing, and overall business planning;
@@ -107,12 +107,12 @@ generated_at: "2026-03-30T02:08:27.315Z"
       - **(i)** is a nontraditional defense contractor, as such term is defined in section 3014 of this title ; or
       - **(ii)** currently provides goods or services in the private sector that are critical to enhancing the capabilities of the defense supplier base and fulfilling key Department of Defense needs.
   - **(3)** The term “historically Black college and university” means any of the historically Black colleges and universities referred to in section 2323 of this title , as in effect on March 1, 2018 .
-  - **(4)** The term “minority institution of higher education” means an institution of higher education with a student body that reflects the composition specified in section 312(b)(3), (4), and (5) of the Higher Education Act of 1965 ( 20 U.S.C. 1058(b)(3) , (4), and (5)). 3 3 See References in Text note below.
+  - **(4)** The term “minority institution of higher education” means an institution of higher education with a student body that reflects the composition specified in section 312(b)(3), (4), and (5) of the Higher Education Act of 1965 ( 20 U.S.C. 1058(b)(3) , (4), and (5)). 1 1 See References in Text note below.
   - **(5)** The term “qualified organization employing the severely disabled” means a business entity operated on a for-profit or nonprofit basis that—
     - **(A)** uses rehabilitative engineering to provide employment opportunities for severely disabled individuals and integrates severely disabled individuals into its workforce;
     - **(B)** employs severely disabled individuals at a rate that averages not less than 20 percent of its total workforce;
     - **(C)** employs each severely disabled individual in its workforce generally on the basis of 40 hours per week; and
-    - **(D)** pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act 4 4 So in original. Probably should be followed by “of 1938”. ( 29 U.S.C. 206 ) to those employees who are severely disabled individuals.
+    - **(D)** pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act of 1938 to those employees who are severely disabled individuals.
   - **(6)** The term “severely disabled individual” means an individual who is blind (as defined in section 8501 of title 41 ) or a severely disabled individual (as defined in such section).
   - **(7)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
   - **(8)** The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given such term in section 8(d)(3)(C) of the Small Business Act ( 15 U.S.C. 637(d)(3)(C) ).

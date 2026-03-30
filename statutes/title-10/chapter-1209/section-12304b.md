@@ -3,9 +3,9 @@ title: "Section 12304b - Selected Reserve: order to active duty for preplanned m
 usc_title: 10
 usc_section: "12304b"
 chapter: 1209
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 12304b"
-generated_at: "2026-03-30T02:08:27.352Z"
+generated_at: "2026-03-30T02:17:31.714Z"
 ---
 
 # § 12304b. Selected Reserve: order to active duty for preplanned missions in support of the combatant commands
@@ -30,4 +30,4 @@ generated_at: "2026-03-30T02:08:27.352Z"
   - **(3)** family responsibilities; and
   - **(4)** employment necessary to maintain the national health, safety, or interest.
 - **(h)** The Secretaries of the military departments shall prescribe policies and procedures to carry out this section, including on determinations with respect to orders to active duty under subsection (g). Such policies and procedures shall not go into effect until approved by the Secretary of Defense.
-- **(i)** In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) of this title .
+- **(i)** In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) 1 1 See References in Text note below. of this title.

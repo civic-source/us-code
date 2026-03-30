@@ -3,9 +3,9 @@ title: "Section 1881 - Normal trade relations"
 usc_title: 19
 usc_section: "1881"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 1881"
-generated_at: "2026-03-30T02:09:03.093Z"
+generated_at: "2026-03-30T02:18:27.865Z"
 ---
 
 # § 1881. Normal trade relations

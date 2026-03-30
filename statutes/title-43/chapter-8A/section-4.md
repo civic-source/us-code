@@ -3,9 +3,9 @@ title: "Section 4 - Disposition of receipts; availability for leasing of land"
 usc_title: 43
 usc_section: "4"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T02:10:37.017Z"
+generated_at: "2026-03-30T02:19:17.874Z"
 ---
 
 # § 315m–4. Disposition of receipts; availability for leasing of land

@@ -3,9 +3,9 @@ title: "Section 1073d - Military medical treatment facilities"
 usc_title: 10
 usc_section: "1073d"
 chapter: 55
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1073d"
-generated_at: "2026-03-30T02:08:27.223Z"
+generated_at: "2026-03-30T02:17:31.590Z"
 ---
 
 # § 1073d. Military medical treatment facilities
@@ -51,7 +51,7 @@ generated_at: "2026-03-30T02:08:27.223Z"
     - **(B)** The Secretary shall ensure that the military medical treatment facilities selected for designation pursuant to subparagraph (A) are geographically located to facilitate the aeromedical evacuation of casualties from theaters of operations.
     - **(C)** The Secretary—
       - **(i)** shall ensure that the Secretaries of the military departments assign military personnel to core casualty receiving facilities designated under subparagraph (A) at not less than 90 percent of the staffing level required to maintain the operating bed capacity necessary to support operation planning requirements;
-      - **(ii)** may augment the staffing of military personnel at core casualty receiving facilities under subparagraph (A) with civilian employees of the Department of Defense to fulfil 1 1 So in original. Probably should be “fulfill”. the staffing requirement under clause (i); and
+      - **(ii)** may augment the staffing of military personnel at core casualty receiving facilities under subparagraph (A) with civilian employees of the Department of Defense to fulfill the staffing requirement under clause (i); and
       - **(iii)** shall ensure that each core casualty receiving facility under subparagraph (A) is staffed with a civilian Chief Financial Officer and a civilian Chief Operating Officer with experience in the management of civilian hospital systems, for the purpose of ensuring continuity in the management of the facility.
     - **(D)** In this paragraph:
       - **(i)** The term “core casualty receiving facility” means a Role 4 medical treatment facility that serves as a medical hub for the receipt and treatment of casualties, including civilian casualties, that may result from combat or from an event the President determines or declares as a natural disaster, mass casualty event, or other national emergency.

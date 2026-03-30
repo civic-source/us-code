@@ -3,9 +3,9 @@ title: "Section 36 - Recovery of damages, etc., for antitrust violations on clai
 usc_title: 15
 usc_section: "36"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 36"
-generated_at: "2026-03-30T02:08:56.031Z"
+generated_at: "2026-03-30T02:18:09.824Z"
 ---
 
 # § 36. Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity

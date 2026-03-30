@@ -3,9 +3,9 @@ title: "Section 1443 - Research program respecting ocean dumping and other metho
 usc_title: 33
 usc_section: "1443"
 chapter: 27
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 1443"
-generated_at: "2026-03-30T02:10:26.066Z"
+generated_at: "2026-03-30T02:19:07.011Z"
 ---
 
 # § 1443. Research program respecting ocean dumping and other methods of waste disposal

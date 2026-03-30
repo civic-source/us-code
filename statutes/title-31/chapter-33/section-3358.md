@@ -3,9 +3,9 @@ title: "Section 3358 - Interagency working group for Governmentwide payment inte
 usc_title: 31
 usc_section: "3358"
 chapter: 33
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 3358"
-generated_at: "2026-03-30T02:10:24.981Z"
+generated_at: "2026-03-30T02:19:05.849Z"
 ---
 
 # § 3358. Interagency working group for Governmentwide payment integrity improvement

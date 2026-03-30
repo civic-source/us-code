@@ -3,12 +3,12 @@ title: "Section 4088 - Education allowance"
 usc_title: 22
 usc_section: "4088"
 chapter: 52
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4088"
-generated_at: "2026-03-30T02:09:40.011Z"
+generated_at: "2026-03-30T02:18:41.622Z"
 ---
 
 # § 4088. Education allowance
 
-A Department employee who is on leave to perform service in the uniformed services (as defined in section 4303(13) of title 38 ) may receive an education allowance if the employee would, if not for such service, be eligible to receive the education allowance.
+A Department or United States Agency for International Development employee who is on leave to perform service in the uniformed services (as defined in section 4303(13) of title 38 ) may receive an education allowance if the employee would, if not for such service, be eligible to receive the education allowance.
 

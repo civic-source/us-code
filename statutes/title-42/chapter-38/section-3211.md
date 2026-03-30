@@ -3,9 +3,9 @@ title: "Section 3211 - Powers of Secretary"
 usc_title: 42
 usc_section: "3211"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3211"
-generated_at: "2026-03-30T02:11:33.186Z"
+generated_at: "2026-03-30T02:19:47.060Z"
 ---
 
 # § 3211. Powers of Secretary
@@ -44,7 +44,7 @@ generated_at: "2026-03-30T02:11:33.186Z"
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the Secretary may release, in whole or in part, any real property interest, or tangible personal property interest, in connection with a grant after the date that is 20 years after the date on which the grant was awarded.
     - **(B)**
-      - **(i)** On written request from a recipient of a grant under section 3149(d) of this title , the Secretary shall release, in accordance with this subparagraph, any Federal interest in connection with the grant, if—
+      - **(i)** On written request from a recipient of a grant under section 3149(d) 1 1 See References in Text note below. of this title, the Secretary shall release, in accordance with this subparagraph, any Federal interest in connection with the grant, if—
         - **(I)** the request is made not less than 7 years after the final disbursement of the original grant;
         - **(II)** the recipient has complied with the terms and conditions of the grant to the satisfaction of the Secretary;
         - **(III)** any proceeds realized from the grant will be used for 1 or more activities that continue to carry out the economic development purposes of this chapter; and
@@ -52,5 +52,5 @@ generated_at: "2026-03-30T02:11:33.186Z"
       - **(ii)**
         - **(I)** Except as provided in subclause (II), the Secretary shall complete all closeout actions for the grant by not later than 180 days after receipt and acceptance of the written request under clause (i).
         - **(II)** The Secretary may extend a deadline under subclause (I) by an additional 180 days if the Secretary determines the extension to be necessary.
-      - **(iii)** Section 3212 of this title shall continue to apply to a project assisted with a grant under section 3149(d) of this title regardless of whether the Secretary releases a Federal interest under clause (i).
+      - **(iii)** Section 3212 of this title shall continue to apply to a project assisted with a grant under section 3149(d) 1 of this title regardless of whether the Secretary releases a Federal interest under clause (i).
 - **(e)** The power to convey and to execute, in the name of the Secretary, deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest in such property acquired by the Secretary under this chapter may be exercised by the Secretary, or by any officer or agent appointed by the Secretary for that purpose, without the execution of any express delegation of power or power of attorney.

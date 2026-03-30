@@ -3,9 +3,9 @@ title: "Section 7487 - United States Army War College: acceptance of grants for 
 usc_title: 10
 usc_section: "7487"
 chapter: 757
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7487"
-generated_at: "2026-03-30T02:08:27.321Z"
+generated_at: "2026-03-30T02:17:31.685Z"
 ---
 
 # § 7487. United States Army War College: acceptance of grants for faculty research for scientific, literary, and educational purposes

@@ -3,9 +3,9 @@ title: "Section 286v - Membership for Taiwan in Fund"
 usc_title: 22
 usc_section: "286v"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 286v"
-generated_at: "2026-03-30T02:09:39.920Z"
+generated_at: "2026-03-30T02:18:41.498Z"
 ---
 
 # § 286v. Membership for Taiwan in Fund

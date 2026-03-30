@@ -3,9 +3,9 @@ title: "Section 181 - Joint Requirements Oversight Council"
 usc_title: 10
 usc_section: "181"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 181"
-generated_at: "2026-03-30T02:08:27.173Z"
+generated_at: "2026-03-30T02:17:31.548Z"
 ---
 
 # § 181. Joint Requirements Oversight Council
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T02:08:27.173Z"
     - **(C)** A Navy officer in the grade of admiral.
     - **(D)** An Air Force officer in the grade of general.
     - **(E)** A Marine Corps officer in the grade of general.
-    - **(F)** A Space Force officer in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy.
+    - **(F)** A Space Force officer in the grade of general.
   - **(2)** Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for selection by the Secretary of the military department concerned.
   - **(3)** In making any recommendation to the Chairman of the Joint Chiefs of Staff as described in paragraph (1)(A), the Vice Chairman of the Joint Chiefs of Staff shall provide the Chairman any dissenting view of members of the Council under paragraph (1) with respect to such recommendation.
 - **(d)**

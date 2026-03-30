@@ -3,9 +3,9 @@ title: "Section 1230 - Eligibility criteria"
 usc_title: 30
 usc_section: "1230"
 chapter: 25
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "30 U.S.C. § 1230"
-generated_at: "2026-03-30T02:09:42.586Z"
+generated_at: "2026-03-30T02:18:44.867Z"
 ---
 
 # § 1230. Eligibility criteria

@@ -3,9 +3,9 @@ title: "Section 1153 - Underground Railroad educational and cultural program"
 usc_title: 20
 usc_section: "1153"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1153"
-generated_at: "2026-03-30T02:09:00.951Z"
+generated_at: "2026-03-30T02:18:26.602Z"
 ---
 
 # § 1153. Underground Railroad educational and cultural program

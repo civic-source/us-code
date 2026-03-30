@@ -3,9 +3,9 @@ title: "Section 3612a - General powers of Commission"
 usc_title: 22
 usc_section: "3612a"
 chapter: 51
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3612a"
-generated_at: "2026-03-30T02:09:39.997Z"
+generated_at: "2026-03-30T02:18:41.604Z"
 ---
 
 # § 3612a. General powers of Commission

@@ -3,9 +3,9 @@ title: "Section 525 - Distribution of commissioned officers on active duty in ge
 usc_title: 10
 usc_section: "525"
 chapter: 32
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 525"
-generated_at: "2026-03-30T02:08:27.191Z"
+generated_at: "2026-03-30T02:17:31.564Z"
 ---
 
 # § 525. Distribution of commissioned officers on active duty in general officer and flag officer grades
@@ -25,8 +25,8 @@ generated_at: "2026-03-30T02:08:27.191Z"
     - **(C)** 49 officers in the grade of rear admiral;
   - **(4)** in the Marine Corps, if that appointment would result in more than—
     - **(A)** 2 officers in the grade of general;
-    - **(B)** 17 officers in a grade above the grade of major general; or
-    - **(C)** 22 officers in the grade of major general; and
+    - **(B)** 18 officers in a grade above the grade of major general; or
+    - **(C)** 21. 1 1 So in original. The period probably should not appear. officers in the grade of major general; and
   - **(5)** in the Space Force, if that appointment would result in more than—
     - **(A)** 2 officers in the grade of general;
     - **(B)** 7 officers in a grade above the grade of major general; or
@@ -48,6 +48,7 @@ generated_at: "2026-03-30T02:08:27.191Z"
   - **(1)** An officer of that armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
   - **(2)** At the discretion of the Secretary of Defense, an officer of that armed force who has been relieved from a position designated under section 601(a) of this title or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
 - **(f)** An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer’s armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
-- **(g)**
+- **(g)** A naval officer while serving as the Medical Officer of the Marine Corps is in addition to the number that would otherwise be permitted for the Navy for officers serving on active duty in the grade of rear admiral (lower half) under subsection (a).
+- **(h)**
   - **(1)** The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days, but not to exceed three years, except that the number of officers from each reserve component who are covered by this subsection and are not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
   - **(2)** Not later than 30 days after authorizing a number of reserve component general or flag officers in excess of the number specified in paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives of such authorization, and shall include with such notice a statement of the reason for such authorization.

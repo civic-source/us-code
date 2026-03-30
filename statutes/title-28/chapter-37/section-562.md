@@ -3,9 +3,9 @@ title: "Section 562 - Vacancies"
 usc_title: 28
 usc_section: "562"
 chapter: 37
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 562"
-generated_at: "2026-03-30T02:09:58.230Z"
+generated_at: "2026-03-30T02:18:45.812Z"
 ---
 
 # § 562. Vacancies

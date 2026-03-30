@@ -3,9 +3,9 @@ title: "Section 26 - Definition of seaport"
 usc_title: 18
 usc_section: "26"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 26"
-generated_at: "2026-03-30T02:09:08.270Z"
+generated_at: "2026-03-30T02:18:24.450Z"
 ---
 
 # § 26. Definition of seaport

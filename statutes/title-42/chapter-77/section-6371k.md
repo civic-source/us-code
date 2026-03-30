@@ -3,9 +3,9 @@ title: "Section 6371k - Coordination of energy retrofitting assistance for schoo
 usc_title: 42
 usc_section: "6371k"
 chapter: 77
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6371k"
-generated_at: "2026-03-30T02:11:33.308Z"
+generated_at: "2026-03-30T02:19:47.128Z"
 ---
 
 # § 6371k. Coordination of energy retrofitting assistance for schools

@@ -3,9 +3,9 @@ title: "Section 343 - Appropriations; distribution; allotment and apportionment;
 usc_title: 7
 usc_section: "343"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 343"
-generated_at: "2026-03-30T02:08:42.860Z"
+generated_at: "2026-03-30T02:18:00.295Z"
 ---
 
 # § 343. Appropriations; distribution; allotment and apportionment; Secretary of Agriculture; matching funds; cooperative extension activities

@@ -3,9 +3,9 @@ title: "Section 6035 - United States opposition to termination of suspension of 
 usc_title: 22
 usc_section: "6035"
 chapter: 69
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 6035"
-generated_at: "2026-03-30T02:09:40.029Z"
+generated_at: "2026-03-30T02:18:41.645Z"
 ---
 
 # § 6035. United States opposition to termination of suspension of Cuban Government from participation in Organization of American States

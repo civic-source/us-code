@@ -3,9 +3,9 @@ title: "Section 1253 - Age 64: regular commissioned officers in general and flag
 usc_title: 10
 usc_section: "1253"
 chapter: 63
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1253"
-generated_at: "2026-03-30T02:08:27.237Z"
+generated_at: "2026-03-30T02:17:31.603Z"
 ---
 
 # § 1253. Age 64: regular commissioned officers in general and flag officer grades; exceptions

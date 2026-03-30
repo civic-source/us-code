@@ -3,9 +3,9 @@ title: "Section 3404 - Education, workforce training, and outreach"
 usc_title: 33
 usc_section: "3404"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 3404"
-generated_at: "2026-03-30T02:10:26.097Z"
+generated_at: "2026-03-30T02:19:07.041Z"
 ---
 
 # § 3404. Education, workforce training, and outreach

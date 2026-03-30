@@ -3,9 +3,9 @@ title: "Section 16524 - Study on the benefits of economic dispatch"
 usc_title: 42
 usc_section: "16524"
 chapter: 149
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16524"
-generated_at: "2026-03-30T02:11:33.680Z"
+generated_at: "2026-03-30T02:19:47.352Z"
 ---
 
 # § 16524. Study on the benefits of economic dispatch

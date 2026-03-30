@@ -3,9 +3,9 @@ title: "Section 50905 - License applications and requirements"
 usc_title: 51
 usc_section: "50905"
 chapter: 509
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "51 U.S.C. § 50905"
-generated_at: "2026-03-30T02:11:57.587Z"
+generated_at: "2026-03-30T02:20:01.840Z"
 ---
 
 # § 50905. License applications and requirements
@@ -60,6 +60,6 @@ generated_at: "2026-03-30T02:11:57.587Z"
     - **(A)** the progress of the commercial space industry in adopting voluntary industry consensus standards as reported by the Secretary in the interim assessments included in the reports under paragraph (5);
     - **(B)** the progress of the commercial space industry toward meeting the key industry metrics identified by the report under paragraph (6), including the knowledge and operational experience obtained by the commercial space industry while providing services for compensation or hire; and
     - **(C)** whether the areas identified in the reports under paragraph (5) are appropriate for regulatory action, or further development of voluntary industry consensus standards, considering the progress evaluated in subparagraphs (A) and (B) of this paragraph.
-  - **(9)** Beginning on January 1, 2025 , the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
+  - **(9)** Beginning on January 1, 2028 , the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
   - **(10)** Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 - **(d)** The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.

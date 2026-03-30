@@ -3,9 +3,9 @@ title: "Section 6336 - Adequacy of funding to local educational agencies in fisc
 usc_title: 20
 usc_section: "6336"
 chapter: 70
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 6336"
-generated_at: "2026-03-30T02:09:01.000Z"
+generated_at: "2026-03-30T02:18:26.650Z"
 ---
 
 # § 6336. Adequacy of funding to local educational agencies in fiscal years after fiscal year 2001

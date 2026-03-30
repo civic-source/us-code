@@ -3,14 +3,14 @@ title: "Section 127 - Emergency and extraordinary expenses"
 usc_title: 10
 usc_section: "127"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 127"
-generated_at: "2026-03-30T02:08:27.166Z"
+generated_at: "2026-03-30T02:17:31.541Z"
 ---
 
 # § 127. Emergency and extraordinary expenses
 
-- **(a)** Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
+- **(a)** Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount. The authority to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by section 429a of this title instead of this section.
 - **(b)** The authority conferred by this section may be delegated by the Secretary of Defense to any person in the Department of Defense, by the Inspector General to any person in the Office of the Inspector General, or by the Secretary of a military department to any person within his department, with or without the authority to make successive re­delegations.
 - **(c)**
   - **(1)** Funds may not be obligated or expended in an amount in excess of $500,000 under the authority of subsection (a) or (b) until the Secretary of Defense has notified the congressional defense committees of the intent to obligate or expend the funds, and—

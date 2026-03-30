@@ -3,9 +3,9 @@ title: "Section 2706a - Rewards payments"
 usc_title: 22
 usc_section: "2706a"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2706a"
-generated_at: "2026-03-30T02:09:39.980Z"
+generated_at: "2026-03-30T02:18:41.580Z"
 ---
 
 # § 2706a. Rewards payments

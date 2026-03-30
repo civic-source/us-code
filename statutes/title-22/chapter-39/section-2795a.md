@@ -3,9 +3,9 @@ title: "Section 2795a - Use and transfer of items procured by Fund"
 usc_title: 22
 usc_section: "2795a"
 chapter: 39
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2795a"
-generated_at: "2026-03-30T02:09:39.989Z"
+generated_at: "2026-03-30T02:18:41.593Z"
 ---
 
 # § 2795a. Use and transfer of items procured by Fund

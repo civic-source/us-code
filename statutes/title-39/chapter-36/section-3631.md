@@ -3,9 +3,9 @@ title: "Section 3631 - Applicability; definitions and updates"
 usc_title: 39
 usc_section: "3631"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "39 U.S.C. § 3631"
-generated_at: "2026-03-30T02:10:27.969Z"
+generated_at: "2026-03-30T02:19:08.715Z"
 ---
 
 # § 3631. Applicability; definitions and updates

@@ -3,9 +3,9 @@ title: "Section 127b - Department of Defense rewards program"
 usc_title: 10
 usc_section: "127b"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 127b"
-generated_at: "2026-03-30T02:08:27.166Z"
+generated_at: "2026-03-30T02:17:31.541Z"
 ---
 
 # § 127b. Department of Defense rewards program

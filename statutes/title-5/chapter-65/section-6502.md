@@ -3,9 +3,9 @@ title: "Section 6502 - Executive agencies telework requirement"
 usc_title: 5
 usc_section: "6502"
 chapter: 65
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 6502"
-generated_at: "2026-03-30T02:08:10.416Z"
+generated_at: "2026-03-30T02:17:12.669Z"
 ---
 
 # § 6502. Executive agencies telework requirement

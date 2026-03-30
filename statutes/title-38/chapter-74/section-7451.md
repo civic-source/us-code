@@ -3,9 +3,9 @@ title: "Section 7451 - Nurses and other health-care personnel: competitive pay"
 usc_title: 38
 usc_section: "7451"
 chapter: 74
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7451"
-generated_at: "2026-03-30T02:10:34.072Z"
+generated_at: "2026-03-30T02:19:11.575Z"
 ---
 
 # § 7451. Nurses and other health-care personnel: competitive pay
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T02:10:34.072Z"
   - **(2)** The health-care personnel positions referred to in paragraph (1) (hereinafter in this section referred to as “covered positions”) are the following:
     - **(A)** Registered nurse.
     - **(B)** Physician assistant.
-    - **(C)** Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+    - **(C)** Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, optometrist, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), the rates of basic pay for covered positions in the Department shall be established and adjusted in accordance with this section instead of subsection (b)(1) of section 7404 of this title or chapter 53 of title 5.
     - **(B)** Under such regulations as the Secretary shall prescribe, the Secretary shall establish and adjust the rates of basic pay for covered positions at the following health-care facilities in order to provide rates of basic pay that enable the Secretary to recruit and retain sufficient numbers of health-care personnel in such positions at those facilities:

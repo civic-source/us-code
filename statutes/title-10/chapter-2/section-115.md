@@ -3,16 +3,17 @@ title: "Section 115 - Personnel strengths: requirement for annual authorization"
 usc_title: 10
 usc_section: "115"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 115"
-generated_at: "2026-03-30T02:08:27.163Z"
+generated_at: "2026-03-30T02:17:31.540Z"
 ---
 
 # § 115. Personnel strengths: requirement for annual authorization
 
 - **(a)** Congress shall authorize personnel strength levels for each fiscal year for each of the following:
-  - **(1)** The end strength for each of the armed forces (other than the Coast Guard) for (A) active-duty personnel who are to be paid from funds appropriated for active-duty personnel unless on active duty pursuant to subsection (b), and (B) active-duty personnel and full-time National Guard duty personnel who are to be paid from funds appropriated for reserve personnel unless on active duty or full-time National Guard duty pursuant to subsection (b).
+  - **(1)** The end strength for the Army, Navy, Air Force, and Marine Corps for (A) active-duty personnel who are to be paid from funds appropriated for active-duty personnel unless on active duty pursuant to subsection (b), and (B) active-duty personnel and full-time National Guard duty personnel who are to be paid from funds appropriated for reserve personnel unless on active duty or full-time National Guard duty pursuant to subsection (b).
   - **(2)** The end strength for the Selected Reserve of each reserve component of the armed forces.
+  - **(3)** The end strength for the Space Force for members in space force active status.
 - **(b)**
   - **(1)** Congress shall annually authorize the maximum number of members of a reserve component permitted to be on active duty or full-time National Guard duty at any given time who are called or ordered to—
     - **(A)** active duty under section 12301(d) of this title for the purpose of providing operational support, as prescribed in regulation issued by the Secretary of Defense;
@@ -33,8 +34,9 @@ generated_at: "2026-03-30T02:08:27.163Z"
     - **(D)** A summary of the missions being performed by members identified under subparagraphs (A) and (B).
 - **(c)** No funds may be appropriated for any fiscal year to or for—
   - **(1)** the use of active-duty personnel or full-time National Guard duty personnel of any of the armed forces (other than the Coast Guard) unless the end strength for such personnel of that armed force for that fiscal year has been authorized by law;
-  - **(2)** the use of the Selected Reserve of any reserve component of the armed forces unless the end strength for the Selected Reserve of that component for that fiscal year has been authorized by law; or
-  - **(3)** the use of reserve component personnel to perform active duty or full-time National Guard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
+  - **(2)** the use of the Selected Reserve of any reserve component of the armed forces unless the end strength for the Selected Reserve of that component for that fiscal year has been authorized by law;
+  - **(3)** the use of members of the Space Force in space force active status unless the end strength for the Space Force for that fiscal year for members in space force active status has been authorized by law; or
+  - **(4)** the use of reserve component personnel to perform active duty or full-time National Guard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
 - **(d)** Congress shall authorize for each fiscal year both the minimum end strength for non-temporary military technicians (dual status) and the end strength for temporary military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title . In each budget submitted by the President to Congress under section 1105 of title 31 , the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested for each reserve component of the Army and Air Force shall be specifically set forth.
 - **(e)**
   - **(1)** The Secretary of Defense shall prescribe and include in the budget justification documents submitted to Congress in support of the President’s budget for the Department of Defense for any fiscal year the Secretary’s proposed end-of-quarter strengths for each of the first three quarters of the fiscal year for which the budget is submitted, in addition to the Secretary’s proposed fiscal-year end-strengths for that fiscal year. Such end-of-quarter strengths shall be submitted for each category of personnel for which end strengths are required to be authorized by law under subsection (a) or (d). The Secretary shall ensure that resources are provided in the budget at a level sufficient to support the end-of-quarter and fiscal-year end-strengths as submitted.

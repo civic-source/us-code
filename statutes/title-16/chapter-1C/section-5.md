@@ -3,9 +3,9 @@ title: "Section 5 - Prohibited acts; criminal penalties"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T02:09:13.341Z"
+generated_at: "2026-03-30T02:18:31.932Z"
 ---
 
 # § 470aaa–5. Prohibited acts; criminal penalties

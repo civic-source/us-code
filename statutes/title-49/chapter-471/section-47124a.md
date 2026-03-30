@@ -3,9 +3,9 @@ title: "Section 47124a - Accessibility of certain flight data"
 usc_title: 49
 usc_section: "47124a"
 chapter: 471
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 47124a"
-generated_at: "2026-03-30T02:11:47.462Z"
+generated_at: "2026-03-30T02:19:55.164Z"
 ---
 
 # § 47124a. Accessibility of certain flight data

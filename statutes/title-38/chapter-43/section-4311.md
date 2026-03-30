@@ -3,15 +3,15 @@ title: "Section 4311 - Discrimination against persons who serve in the uniformed
 usc_title: 38
 usc_section: "4311"
 chapter: 43
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 4311"
-generated_at: "2026-03-30T02:10:34.057Z"
+generated_at: "2026-03-30T02:19:11.559Z"
 ---
 
 # § 4311. Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited
 
 - **(a)** A person who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform service in a uniformed service shall not be denied initial employment, reemployment, retention in employment, promotion, or any benefit of employment by an employer on the basis of that membership, application for membership, performance of service, application for service, or obligation.
-- **(b)** An employer may not discriminate in employment against or take any adverse employment action against any person because such person (1) has taken an action to enforce a protection afforded any person under this chapter, (2) has testified or otherwise made a statement in or in connection with any proceeding under this chapter, (3) has assisted or otherwise participated in an investigation under this chapter, or (4) has exercised a right provided for in this chapter. The prohibition in this subsection shall apply with respect to a person regardless of whether that person has performed service in the uniformed services.
+- **(b)** An employer may not discriminate in employment against or take any adverse employment action or other retaliatory action against any person because such person (1) has taken an action to enforce a protection afforded any person under this chapter, (2) has testified or otherwise made a statement in or in connection with any proceeding under this chapter, (3) has assisted or otherwise participated in an investigation under this chapter, or (4) has exercised a right provided for in this chapter. The prohibition in this subsection shall apply with respect to a person regardless of whether that person has performed service in the uniformed services.
 - **(c)** An employer shall be considered to have engaged in actions prohibited—
   - **(1)** under subsection (a), if the person’s membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivating factor in the employer’s action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, service, application for service, or obligation for service; or
   - **(2)** under subsection (b), if the person’s (A) action to enforce a protection afforded any person under this chapter, (B) testimony or making of a statement in or in connection with any proceeding under this chapter, (C) assistance or other participation in an investigation under this chapter, or (D) exercise of a right provided for in this chapter, is a motivating factor in the employer’s action, unless the employer can prove that the action would have been taken in the absence of such person’s enforcement action, testimony, statement, assistance, participation, or exercise of a right.

@@ -3,9 +3,9 @@ title: "Section 8 - Universal ratings symbols"
 usc_title: 15
 usc_section: "8"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T02:08:56.064Z"
+generated_at: "2026-03-30T02:18:09.853Z"
 ---
 
 # § 78o–8. Universal ratings symbols

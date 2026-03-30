@@ -3,9 +3,9 @@ title: "Section 608b - Omitted"
 usc_title: 25
 usc_section: "608b"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 608b"
-generated_at: "2026-03-30T02:09:31.187Z"
+generated_at: "2026-03-30T02:18:36.385Z"
 ---
 
 # § 608b. Omitted

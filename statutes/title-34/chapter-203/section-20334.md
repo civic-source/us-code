@@ -3,9 +3,9 @@ title: "Section 20334 - Authorization of appropriations"
 usc_title: 34
 usc_section: "20334"
 chapter: 203
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 20334"
-generated_at: "2026-03-30T02:10:13.905Z"
+generated_at: "2026-03-30T02:19:05.039Z"
 ---
 
 # § 20334. Authorization of appropriations

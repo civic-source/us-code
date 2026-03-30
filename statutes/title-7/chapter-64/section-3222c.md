@@ -3,9 +3,9 @@ title: "Section 3222c - Repealed. Pub. L. 113–79, title VII, § 7114 , Feb. 7,
 usc_title: 7
 usc_section: "3222c"
 chapter: 64
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3222c"
-generated_at: "2026-03-30T02:08:42.958Z"
+generated_at: "2026-03-30T02:18:00.388Z"
 ---
 
 # § 3222c. Repealed. Pub. L. 113–79, title VII, § 7114 , Feb. 7, 2014 , 128 Stat. 875

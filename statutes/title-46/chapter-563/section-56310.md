@@ -3,9 +3,9 @@ title: "Section 56310 - Voluntary purchase or charter agreements"
 usc_title: 46
 usc_section: "56310"
 chapter: 563
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 56310"
-generated_at: "2026-03-30T02:11:43.137Z"
+generated_at: "2026-03-30T02:19:51.558Z"
 ---
 
 # § 56310. Voluntary purchase or charter agreements

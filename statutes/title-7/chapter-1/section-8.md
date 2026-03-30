@@ -3,9 +3,9 @@ title: "Section 8 - Application for designation as contract market or derivative
 usc_title: 7
 usc_section: "8"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T02:08:42.830Z"
+generated_at: "2026-03-30T02:18:00.264Z"
 ---
 
 # § 8. Application for designation as contract market or derivatives transaction execution facility; time; suspension or revocation of designation; hearing; review by court of appeals

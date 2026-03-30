@@ -3,9 +3,9 @@ title: "Section 3352h - Timeliness standard for rendering determinations of trus
 usc_title: 50
 usc_section: "3352h"
 chapter: 45
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3352h"
-generated_at: "2026-03-30T02:11:41.543Z"
+generated_at: "2026-03-30T02:19:57.507Z"
 ---
 
 # § 3352h. Timeliness standard for rendering determinations of trust for personnel vetting
@@ -22,3 +22,6 @@ generated_at: "2026-03-30T02:11:41.543Z"
   - **(1)** Not less frequently than quarterly, the Security Executive Agent and the Suitability and Credentialing Executive Agent shall jointly make available to the public a quarterly report on the compliance of Executive agencies (as defined in section 105 of title 5 ) with the standards established pursuant to subsection (a).
   - **(2)** Each report made available pursuant to paragraph (1) shall disaggregate, to the greatest extent practicable, data by appropriate category of personnel risk and between Government and contractor personnel.
 - **(c)** The Director of National Intelligence may, in consultation with the Security, Suitability, and Credentialing Performance Accountability Council established pursuant to Executive Order 13467 ( 50 U.S.C. 3161 note; relating to reforming processes related to suitability for Government employment, fitness for contractor employees, and eligibility for access to classified national security information) establish for the intelligence community standards complementary to those established pursuant to subsection (a).
+- **(d)**
+  - **(1)** With respect to each report on compliance with timeliness standards for rendering determinations of trust for personnel vetting prepared pursuant to subsection (b), the Director of National Intelligence shall make available to the congressional intelligence committees as soon as practicable anonymized raw data with respect to the timeliness of polygraph examinations used to prepare each such report in machine-readable format for each element of the intelligence community that collects such data.
+  - **(2)** The data provided to the congressional intelligence committees under paragraph (1) may be modified to remove any personally identifying information, shall be submitted in unclassified form to the greatest extent possible, and shall contain a justification for the classification of any such data provided.

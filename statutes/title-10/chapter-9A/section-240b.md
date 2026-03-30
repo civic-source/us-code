@@ -3,9 +3,9 @@ title: "Section 240b - Financial Improvement and Audit Remediation Plan"
 usc_title: 10
 usc_section: "240b"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 240b"
-generated_at: "2026-03-30T02:08:27.177Z"
+generated_at: "2026-03-30T02:17:31.553Z"
 ---
 
 # § 240b. Financial Improvement and Audit Remediation Plan
@@ -35,7 +35,6 @@ generated_at: "2026-03-30T02:08:27.177Z"
       - **(vi)** A certification of the results of the audit of the financial statements of the Department performed for the preceding fiscal year, and a statement summarizing, based on such results, the current condition of the financial statements of the Department.
       - **(vii)** A description of audit activities and results for classified programs, including a description of the use of procedures and requirements to prevent unauthorized exposure of classified information in such activities.
       - **(viii)** An identification of the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
-      - **(ix)** A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
   - **(2)**
     - **(A)** Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.
     - **(B)** Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.

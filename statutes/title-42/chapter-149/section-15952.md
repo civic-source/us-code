@@ -3,9 +3,9 @@ title: "Section 15952 - Federal-State regulatory coordination and assistance"
 usc_title: 42
 usc_section: "15952"
 chapter: 149
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 15952"
-generated_at: "2026-03-30T02:11:33.643Z"
+generated_at: "2026-03-30T02:19:47.330Z"
 ---
 
 # § 15952. Federal-State regulatory coordination and assistance

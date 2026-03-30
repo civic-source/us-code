@@ -3,9 +3,9 @@ title: "Section 565d - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 S
 usc_title: 25
 usc_section: "565d"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 565d"
-generated_at: "2026-03-30T02:09:31.187Z"
+generated_at: "2026-03-30T02:18:36.383Z"
 ---
 
 # § 565d. Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393

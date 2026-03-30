@@ -3,9 +3,9 @@ title: "Section 60303 - Fees for compliance reviews of liquefied natural gas fac
 usc_title: 49
 usc_section: "60303"
 chapter: 603
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 60303"
-generated_at: "2026-03-30T02:11:47.482Z"
+generated_at: "2026-03-30T02:19:55.176Z"
 ---
 
 # § 60303. Fees for compliance reviews of liquefied natural gas facilities

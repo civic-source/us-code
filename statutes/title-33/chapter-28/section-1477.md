@@ -3,9 +3,9 @@ title: "Section 1477 - Reasonable measures; considerations"
 usc_title: 33
 usc_section: "1477"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 1477"
-generated_at: "2026-03-30T02:10:26.066Z"
+generated_at: "2026-03-30T02:19:07.011Z"
 ---
 
 # § 1477. Reasonable measures; considerations

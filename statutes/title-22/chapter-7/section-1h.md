@@ -3,9 +3,9 @@ title: "Section 1h - Increase of subscription of stock; authority of United Stat
 usc_title: 22
 usc_section: "1h"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 1h"
-generated_at: "2026-03-30T02:09:39.919Z"
+generated_at: "2026-03-30T02:18:41.496Z"
 ---
 
 # § 286e–1h. Increase of subscription of stock; authority of United States Governor of Bank; authorization of appropriations

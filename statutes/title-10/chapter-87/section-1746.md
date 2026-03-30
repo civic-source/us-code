@@ -3,9 +3,9 @@ title: "Section 1746 - Defense Acquisition University"
 usc_title: 10
 usc_section: "1746"
 chapter: 87
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1746"
-generated_at: "2026-03-30T02:08:27.253Z"
+generated_at: "2026-03-30T02:17:31.618Z"
 ---
 
 # § 1746. Defense Acquisition University
@@ -28,4 +28,4 @@ generated_at: "2026-03-30T02:08:27.253Z"
     - **(A)** Leadership abilities.
     - **(B)** Experience using leading practices to develop talent in the private sector.
     - **(C)** Other qualifying factors, including experience with and an understanding of the defense acquisition system (as defined in section 3001 of this title ), an understanding of emerging technologies and the defense applications of such technologies, experience partnering with States, national associations, and academia, and experience with learning technologies.
-  - **(3)** The term of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the term for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2022 .
+  - **(3)** The term of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the term for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025 , who shall serve a maximum term of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such term.

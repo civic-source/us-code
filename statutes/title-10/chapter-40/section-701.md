@@ -3,9 +3,9 @@ title: "Section 701 - Entitlement and accumulation"
 usc_title: 10
 usc_section: "701"
 chapter: 40
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 701"
-generated_at: "2026-03-30T02:08:27.197Z"
+generated_at: "2026-03-30T02:17:31.571Z"
 ---
 
 # § 701. Entitlement and accumulation
@@ -65,7 +65,7 @@ generated_at: "2026-03-30T02:08:27.197Z"
 - **(j)** A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
   - **(1)** at the election of such member; or
   - **(2)** in the interest of national security, as determined by the Secretary of Defense.
-- **(k)** A member of the armed forces who gives birth while on active duty may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+- **(k)** A member of the armed forces who, while on active duty, gives birth, loses a pregnancy, or has a stillbirth, may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth, loss of pregnancy, or stillbirth only with the approval of a health care provider employed at a military medical treatment facility and—
   - **(1)** at the election of such member; or
   - **(2)** in the interest of national security, as determined by the Secretary of Defense.
 - **(l)**

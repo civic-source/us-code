@@ -3,9 +3,9 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-30T02:11:41.509Z"
+generated_at: "2026-03-30T02:19:57.486Z"
 ---
 
 # § 3024. Responsibilities and authorities of the Director of National Intelligence
@@ -133,10 +133,10 @@ generated_at: "2026-03-30T02:11:41.509Z"
     - **(C)** provide guidance and oversight to Federal departments and agencies to fully implement automated records checks, consistent with personnel vetting reforms and the Trusted Workforce 2.0 initiative, or successor initiative, and ensure that information collected pursuant to such records checks is appropriately shared in support of intelligence community-wide insider threat initiatives;
     - **(D)** carry out evaluations of the effectiveness of counterintelligence, security, and insider threat program activities of each element of the intelligence community, including with respect to the lowest organizational unit of each such element, that include an identification of any gaps, shortfalls, or resource needs of each such element;
     - **(E)** identify gaps, shortfalls, resources needs, and recommendations for adjustments in allocations and additional resources and other remedies to strengthen counterintelligence, security, and insider threat detection programs;
-    - **(F)** pursuant to final damage assessments facilitated by the National Counterintelligence and Security Center that have been undertaken as a result of an unauthorized disclosure, determine whether the heads of the elements of the intelligence community implement recommended mitigation, and notify the congressional intelligence committees of such determinations and notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in cases involving elements of the intelligence community withing 1 1 So in original. Probably should be “within”. the Department of Defense; and
+    - **(F)** pursuant to final damage assessments facilitated by the National Counterintelligence and Security Center that have been undertaken as a result of an unauthorized disclosure, determine whether the heads of the elements of the intelligence community implement recommended mitigation, and notify the congressional intelligence committees of such determinations and notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in cases involving elements of the intelligence community within the Department of Defense; and
     - **(G)** study the data collected during the course of background investigations and adjudications for security clearances granted to individuals who subsequently commit unauthorized disclosures, and issue findings regarding the quality of such data as a predictor for insider threat activity, delineated by the severity of the unauthorized disclosure.
   - **(9)** The Director of National Intelligence shall ensure there is established a policy for minimum insider threat standards for the intelligence community and ensure compliance by the elements of the intelligence community with that policy.
-  - **(10)** The Director of National Intelligence shall perform such other intelligence-related functions as the President may direct.
+  - **(10)** The Director of National Intelligence shall perform such other intelligence-related functions as the President may direct, and upon receiving any such direction, the Director shall notify the congressional intelligence committees immediately in writing with a description of such other intelligence-related functions directed by the President.
   - **(11)** Nothing in this subchapter shall be construed as affecting the role of the Department of Justice or the Attorney General under the Foreign Intelligence Surveillance Act of 1978 [ 50 U.S.C. 1801 et seq.].
 - **(g)**
   - **(1)** The Director of National Intelligence shall have principal authority to ensure maximum availability of and access to intelligence information within the intelligence community consistent with national security requirements. The Director of National Intelligence shall—
@@ -327,5 +327,8 @@ generated_at: "2026-03-30T02:11:41.509Z"
 - **(z)**
   - **(1)** Not later than 20 days after the completion of a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials, the Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representative copies of such analytic materials, including any supplements or amendments to such analysis made by the Director.
   - **(2)** Not later than 60 days after the completion of consideration by the United States Government of any investment described in paragraph (1), the Director shall determine whether such investment will have an operational impact on the intelligence community, and, if so, shall submit a report on such impact to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives. Each such report shall—
-    - **(A)** describe the operational impact of the investment on the intelligence community; and
+    - **(A)** describe the operational impact of the investment on the intelligence community, including with respect to counterintelligence; and
     - **(B)** describe any actions that have been or will be taken to mitigate such impact.
+  - **(3)** In this subsection:
+    - **(A)** The term “a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials” includes a review, investigation, assessment, or analysis conducted by the Director pursuant to section 7 or 10(g) of Executive Order 13913 (85 Fed. Reg. 19643; relating to Establishing the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector), or successor order.
+    - **(B)** The term “investment” includes any activity reviewed, investigated, assessed, or analyzed by the Director pursuant to section 7 or 10(g) of Executive Order 13913, or successor order.

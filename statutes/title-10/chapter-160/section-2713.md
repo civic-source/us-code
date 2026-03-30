@@ -3,9 +3,9 @@ title: "Section 2713 - Native American lands environmental mitigation program"
 usc_title: 10
 usc_section: "2713"
 chapter: 160
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2713"
-generated_at: "2026-03-30T02:08:27.282Z"
+generated_at: "2026-03-30T02:17:31.646Z"
 ---
 
 # § 2713. Native American lands environmental mitigation program
@@ -21,7 +21,7 @@ generated_at: "2026-03-30T02:08:27.282Z"
 - **(c)**
   - **(1)** In carrying out the program established under subsection (a), the Secretary of Defense may enter into a cooperative agreement with an Indian tribe or an instrumentality of tribal government.
   - **(2)** Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit of the United States Government.
-  - **(3)** A cooperative agreement under this section for the procurement of severable services may begin in one fiscal year and end in another fiscal year only if the total period of performance does not exceed two calendar years.
+  - **(3)** A cooperative agreement under this section for the procurement of severable services may begin in one fiscal year and end in another fiscal year only if the total period of performance does not exceed five calendar years.
 - **(d)** In this section:
   - **(1)** The term “Indian land” includes—
     - **(A)** any land located within the boundaries and a part of an Indian reservation, pueblo, or rancheria;

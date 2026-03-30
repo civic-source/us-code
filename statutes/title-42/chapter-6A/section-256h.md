@@ -3,9 +3,9 @@ title: "Section 256h - Program of payments to teaching health centers that opera
 usc_title: 42
 usc_section: "256h"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-30T02:11:32.421Z"
+generated_at: "2026-03-30T02:19:46.608Z"
 ---
 
 # § 256h. Program of payments to teaching health centers that operate graduate medical education programs
@@ -56,8 +56,9 @@ generated_at: "2026-03-30T02:11:32.421Z"
     - **(A)** $230,000,000, for the period of fiscal years 2011 through 2015;
     - **(B)** $60,000,000 for each of fiscal years 2016 and 2017;
     - **(C)** $126,500,000 for each of fiscal years 2018 through 2023;
-    - **(D)** $16,635,616 for the period beginning on October 1, 2023 , and ending on November 17, 2023 , $21,834,247 for the period beginning on November 18, 2023 , and ending on January 19, 2024 , $16,982,192 for the period beginning on January 20, 2024 , and ending on March 8, 2024 , and $164,136,986 for the period beginning on October 1, 2023 , 3 3 So in original. and ending on December 31, 2024 ; and
-    - **(E)** $43,150,685 for the period beginning on January 1, 2025 , and ending on March 31, 2025 .
+    - **(D)** $16,635,616 for the period beginning on October 1, 2023 , and ending on November 17, 2023 , $21,834,247 for the period beginning on November 18, 2023 , and ending on January 19, 2024 , $16,982,192 for the period beginning on January 20, 2024 , and ending on March 8, 2024 , and $164,136,986 for the period beginning on October 1, 2023 , 3 3 So in original. and ending on December 31, 2024 ;
+    - **(E)** $43,150,685 for the period beginning on January 1, 2025 , and ending on March 31, 2025 ; and
+    - **(F)** $87,739,726 for the period beginning on April 1, 2025 , and ending on September 30, 2025 .
   - **(2)** Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 - **(h)**
   - **(1)** The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:

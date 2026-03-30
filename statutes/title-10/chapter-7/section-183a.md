@@ -3,9 +3,9 @@ title: "Section 183a - Military Aviation and Installation Assurance Clearinghous
 usc_title: 10
 usc_section: "183a"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 183a"
-generated_at: "2026-03-30T02:08:27.174Z"
+generated_at: "2026-03-30T02:17:31.549Z"
 ---
 
 # § 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions
@@ -68,7 +68,7 @@ generated_at: "2026-03-30T02:08:27.174Z"
   - **(2)** The term “antenna structure project”—
     - **(A)** means a project to construct a structure located within two nautical miles of the geographic center of any intercontinental ballistic missile launch facility or control center that—
       - **(i)** is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and
-      - **(ii)** for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and
+      - **(ii)** for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established by law; and
     - **(B)** does not include—
       - **(i)** any structure constructed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, including any such structure which is upgraded, repaired, or otherwise modified after such date of enactment as long as such upgrade, repair, or modification has not increased the height of such structure; or
       - **(ii)** any project in support of or required by an intercontinental ballistic missile launch facility or control center, or any other such project that has been approved by the Secretary of Defense or the Secretary of Defense’s designee for use on the same military installation at which such facility or control center is located.

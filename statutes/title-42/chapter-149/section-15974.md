@@ -3,9 +3,9 @@ title: "Section 15974 - Coal gasification"
 usc_title: 42
 usc_section: "15974"
 chapter: 149
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 15974"
-generated_at: "2026-03-30T02:11:33.644Z"
+generated_at: "2026-03-30T02:19:47.331Z"
 ---
 
 # § 15974. Coal gasification

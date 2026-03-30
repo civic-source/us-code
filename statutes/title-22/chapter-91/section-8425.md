@@ -3,9 +3,9 @@ title: "Section 8425 - Requirements for civilian control of certain assistance"
 usc_title: 22
 usc_section: "8425"
 chapter: 91
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 8425"
-generated_at: "2026-03-30T02:09:40.057Z"
+generated_at: "2026-03-30T02:18:41.684Z"
 ---
 
 # § 8425. Requirements for civilian control of certain assistance

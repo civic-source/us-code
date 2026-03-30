@@ -3,9 +3,9 @@ title: "Section 1831dd - Open data publication"
 usc_title: 12
 usc_section: "1831dd"
 chapter: 16
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 1831dd"
-generated_at: "2026-03-30T02:08:53.307Z"
+generated_at: "2026-03-30T02:18:20.519Z"
 ---
 
 # § 1831dd. Open data publication

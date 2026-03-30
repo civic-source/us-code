@@ -3,9 +3,9 @@ title: "Section 61 - World Trade Center Health Program Fund"
 usc_title: 42
 usc_section: "61"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 61"
-generated_at: "2026-03-30T02:11:32.644Z"
+generated_at: "2026-03-30T02:19:46.744Z"
 ---
 
 # § 300mm–61. World Trade Center Health Program Fund

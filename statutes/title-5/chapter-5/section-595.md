@@ -3,9 +3,9 @@ title: "Section 595 - Organization of the Conference"
 usc_title: 5
 usc_section: "595"
 chapter: 5
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 595"
-generated_at: "2026-03-30T02:08:10.374Z"
+generated_at: "2026-03-30T02:17:12.638Z"
 ---
 
 # § 595. Organization of the Conference

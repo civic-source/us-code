@@ -3,9 +3,9 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-30T02:08:27.303Z"
+generated_at: "2026-03-30T02:17:31.666Z"
 ---
 
 # § 4022. Authority of the Department of Defense to carry out certain prototype projects
@@ -13,11 +13,11 @@ generated_at: "2026-03-30T02:08:27.303Z"
 - **(a)**
   - **(1)** Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Director of the Defense Innovation Unit, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 4021 of this title , carry out prototype projects that are directly relevant to enhancing the mission effectiveness of personnel of the Department of Defense or improving platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the armed forces.
   - **(2)** The authority of this section—
-    - **(A)** may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41 , or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency that—
+    - **(A)** may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the head of the contracting activity, or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency that—
       - **(i)** the requirements of subsection (d) will be met; and
       - **(ii)** the use of the authority of this section is essential to promoting the success of the prototype project;
     - **(B)** may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
-      - **(i)** the Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment determines in writing that—
+      - **(i)** the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41 , or, for the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or the Missile Defense Agency, the director of the agency, determines in writing that—
         - **(I)** the requirements of subsection (d) will be met; and
         - **(II)** the use of the authority of this section is essential to meet critical national security objectives; and
       - **(ii)** the congressional defense committees are notified in writing at least 30 days before such authority is exercised; and
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T02:08:27.303Z"
         - **(I)** the requirements of subsection (d) were met for the prior transaction for the prototype project that provided for the award of the follow-on production contract or transaction, and the requirements of subsection (f) will be met; and
         - **(II)** the use of the authority of this section is essential to meet critical national security objectives; and
       - **(ii)** notifies the congressional defense committees in writing of the determinations required under clause (i) at the time such authority is exercised.
-  - **(3)** The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency, Defense Innovation Unit, or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.
+  - **(3)** The authority of the head of the contracting activity, director of the Defense Advanced Research Projects Agency, director of the Defense Innovation Unit, director of the Missile Defense Agency, or the senior procurement executive, as applicable, under paragraph (2) may not be delegated.
 - **(b)**
   - **(1)** Subsection (e)(2) of such section 4021 shall not apply to projects carried out under subsection (a).
   - **(2)** To the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out the prototype projects under subsection (a).
@@ -68,9 +68,10 @@ generated_at: "2026-03-30T02:08:27.303Z"
     - **(D)** agile development activity;
     - **(E)** the creation, design, development, or demonstration of operational utility; or
     - **(F)** any combination of subparagraphs (A) through (E).
+  - **(6)** The term “follow-on production contract or transaction” means a contract or transaction to produce, sustain, or otherwise implement the results of a successfully completed prototype project for continued or expanded use by the Department of Defense.
 - **(f)**
-  - **(1)** A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.
-  - **(2)** A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction if—
+  - **(1)** A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions. A follow-on production award may be provided for in a transaction entered into under this section for a prototype project, awarded with respect to such a transaction as one or more separate awards, or a combination thereof.
+  - **(2)** A follow-on production contract or transaction provided for in a transaction under paragraph (1), one or more separate awards of follow-on production contracts or transactions with respect to a transaction described in such paragraph, or a combination thereof, may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction if—
     - **(A)** competitive procedures were used for the selection of parties for participation in the transaction; and
     - **(B)** the participants in the transaction successfully completed the prototype project provided for in the transaction.
   - **(3)** A follow-on production contract or transaction may be awarded, pursuant to this subsection, when the Department determines that an individual prototype or prototype subproject as part of a consortium is successfully completed by the participants.
@@ -80,12 +81,14 @@ generated_at: "2026-03-30T02:08:27.303Z"
 - **(h)** An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
 - **(i)**
   - **(1)** The Secretary of Defense or the Secretary of a military department may establish a pilot program under which the Secretary may, under the authority of this section, carry out prototype projects that are directly relevant to enhancing the ability of the Department of Defense to prototype the design, development, or demonstration of new construction techniques or technologies to improve military installations or facilities (as such terms are defined in section 2801 of this title ).
-  - **(2)** In carrying out prototype projects under the pilot program established under paragraph (1)—
-    - **(A)** except for projects carried out for the purpose of repairing a facility, not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
-    - **(B)** the aggregate value of all transactions entered into under such pilot program may not exceed $300,000,000.
+  - **(2)**
+    - **(A)** In carrying out prototype projects under the pilot program established under paragraph (1)—
+      - **(i)** not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
+      - **(ii)** the aggregate value of all transactions entered into under such pilot program may not exceed $300,000,000.
+    - **(B)** The requirements of this paragraph shall not apply to projects carried out for the purpose of repairing a facility.
   - **(3)** The Secretary of Defense or the Secretary of a military department may carry out prototype projects under the pilot program established under paragraph (1) using amounts available to the Secretary of Defense or the Secretary of a military department (as applicable) for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding—
     - **(A)** subchapters I and III of chapter 169 of this title; and
     - **(B)** chapters 221 and 223 of this title.
   - **(4)**
-    - **(A)** Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2025 .
+    - **(A)** Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2030 .
     - **(B)** Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).

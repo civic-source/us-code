@@ -3,9 +3,9 @@ title: "Section 197 - Shareholders’ meeting; continuance of receivership; appo
 usc_title: 12
 usc_section: "197"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 197"
-generated_at: "2026-03-30T02:08:53.221Z"
+generated_at: "2026-03-30T02:18:20.424Z"
 ---
 
 # § 197. Shareholders’ meeting; continuance of receivership; appointment of agent; winding up business; distribution of assets

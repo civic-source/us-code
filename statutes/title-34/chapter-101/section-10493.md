@@ -3,9 +3,9 @@ title: "Section 10493 - Uses of funds"
 usc_title: 34
 usc_section: "10493"
 chapter: 101
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 10493"
-generated_at: "2026-03-30T02:10:13.874Z"
+generated_at: "2026-03-30T02:19:05.008Z"
 ---
 
 # § 10493. Uses of funds

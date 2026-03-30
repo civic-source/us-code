@@ -3,9 +3,9 @@ title: "Section 865 - Art. 65. Transmittal and review of records"
 usc_title: 10
 usc_section: "865"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 865"
-generated_at: "2026-03-30T02:08:27.205Z"
+generated_at: "2026-03-30T02:17:31.578Z"
 ---
 
 # § 865. Art. 65. Transmittal and review of records
@@ -14,14 +14,14 @@ generated_at: "2026-03-30T02:08:27.205Z"
   - **(1)** If the judgment of a general or special court-martial entered under section 860c of this title (article 60c) includes a finding of guilty, the record shall be transmitted to the Judge Advocate General.
   - **(2)** In all other cases, records of trial by court-martial and related documents shall be transmitted and disposed of as the Secretary concerned may prescribe by regulation.
 - **(b)**
-  - **(1)** If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward the record of trial to the Court of Criminal Appeals for review under section 866(b)(3) of this title (article 66(b)(3)).
+  - **(1)** If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward—
+    - **(A)** the record of trial to the Court of Criminal Appeals for review under section 866(b)(3) of this title (article 66(b)(3)); and
+    - **(B)** a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals.
   - **(2)**
-    - **(A)** If the case is eligible for direct review under section 866(b)(1) of this title (article 66(b)(1)), the Judge Advocate General shall—
-      - **(i)** forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals; and
-      - **(ii)** upon written request of the accused, forward a copy of the record of trial to civilian counsel provided by the accused.
-    - **(B)** Subparagraph (A) shall not apply if the accused—
-      - **(i)** waives the right to appeal under section 861 of this title (article 61); or
-      - **(ii)** declines in writing the detailing of appellate defense counsel under subparagraph (A)(i).
+    - **(A)** If the case is eligible for direct review under section 866(b)(1) of this title (article 66(b)(1)), the Judge Advocate General shall, upon written request of the accused—
+      - **(i)** forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and to represent the accused before the Court of Criminal Appeals; and
+      - **(ii)** forward a copy of the record of trial to civilian counsel provided by the accused.
+    - **(B)** Subparagraph (A) shall not apply if the accused waives the right to appeal under section 861 of this title (article 61).
 - **(c)**
   - **(1)** The Judge Advocate General shall provide notice to the accused of the right to file an appeal under section 866(b)(1) of this title (article 66(b)(1)) by means of depositing in the United States mails for delivery by first class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in the official service record of the accused.
   - **(2)** Paragraph (1) shall not apply if the accused waives the right to appeal under section 861 of this title (article 61).

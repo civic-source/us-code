@@ -3,9 +3,9 @@ title: "Section 1431 - Authorization; official approval; Congressional action: n
 usc_title: 50
 usc_section: "1431"
 chapter: 29
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1431"
-generated_at: "2026-03-30T02:11:41.454Z"
+generated_at: "2026-03-30T02:19:57.451Z"
 ---
 
 # § 1431. Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period
@@ -23,7 +23,7 @@ generated_at: "2026-03-30T02:11:41.454Z"
 - **(d)** Any adjustment or modification made pursuant to subsection (c) to an eligible contract or an eligible subcontract shall—
   - **(1)** be contingent upon the continued performance, as applicable, of such eligible contract or such eligible subcontract; and
   - **(2)** account only for the actual cost of performing such eligible contract or such eligible subcontract, but may account for indirect costs of performance, as the Secretary of Defense determines appropriate.
-- **(e)** The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022 , and ending on December 31, 2024 .
+- **(e)** The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022 , and ending on December 31, 2025 .
 - **(f)** In this section:
   - **(1)** The term “covered subcontractor” means a subcontractor who has entered into an eligible subcontract with a prime contractor.
   - **(2)** The term “eligible contract” means a contract awarded to a prime contractor by the Secretary of Defense pursuant to subsection (a).

@@ -3,9 +3,9 @@ title: "Section 3175 - Repealed. Pub. L. 108–177, title III, § 313(a) , Dec. 
 usc_title: 50
 usc_section: "3175"
 chapter: 44
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3175"
-generated_at: "2026-03-30T02:11:41.527Z"
+generated_at: "2026-03-30T02:19:57.497Z"
 ---
 
 # § 3175. Repealed. Pub. L. 108–177, title III, § 313(a) , Dec. 13, 2003 , 117 Stat. 2610

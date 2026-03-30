@@ -3,9 +3,9 @@ title: "Section 4352 - Responsibility for preparation of FRUS series"
 usc_title: 22
 usc_section: "4352"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4352"
-generated_at: "2026-03-30T02:09:40.016Z"
+generated_at: "2026-03-30T02:18:41.629Z"
 ---
 
 # § 4352. Responsibility for preparation of FRUS series

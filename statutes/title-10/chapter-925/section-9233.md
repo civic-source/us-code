@@ -3,9 +3,9 @@ title: "Section 9233 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "9233"
 chapter: 925
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9233"
-generated_at: "2026-03-30T02:08:27.341Z"
+generated_at: "2026-03-30T02:17:31.703Z"
 ---
 
 # § 9233. Requirement of exemplary conduct

@@ -3,9 +3,9 @@ title: "Section 7381d - Definitions"
 usc_title: 42
 usc_section: "7381d"
 chapter: 84
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7381d"
-generated_at: "2026-03-30T02:11:33.358Z"
+generated_at: "2026-03-30T02:19:47.156Z"
 ---
 
 # § 7381d. Definitions

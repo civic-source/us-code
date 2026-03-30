@@ -3,9 +3,9 @@ title: "Section 5491 - Establishment of the Bureau of Consumer Financial Protect
 usc_title: 12
 usc_section: "5491"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 5491"
-generated_at: "2026-03-30T02:08:53.377Z"
+generated_at: "2026-03-30T02:18:20.591Z"
 ---
 
 # § 5491. Establishment of the Bureau of Consumer Financial Protection

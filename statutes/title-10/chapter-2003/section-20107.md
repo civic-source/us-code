@@ -3,9 +3,9 @@ title: "Section 20107 - Transfer to inactive status: initial service obligation 
 usc_title: 10
 usc_section: "20107"
 chapter: 2003
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20107"
-generated_at: "2026-03-30T02:08:27.362Z"
+generated_at: "2026-03-30T02:17:31.723Z"
 ---
 
 # § 20107. Transfer to inactive status: initial service obligation not complete

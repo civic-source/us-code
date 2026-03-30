@@ -3,9 +3,9 @@ title: "Section 6307 - Notifications to Congress"
 usc_title: 46
 usc_section: "6307"
 chapter: 63
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 6307"
-generated_at: "2026-03-30T02:11:43.083Z"
+generated_at: "2026-03-30T02:19:51.528Z"
 ---
 
 # § 6307. Notifications to Congress

@@ -3,31 +3,43 @@ title: "Section 4872 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-30T02:08:27.314Z"
+generated_at: "2026-03-30T02:17:31.677Z"
 ---
 
 # § 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition
 
-- **(a)** Except as provided in subsection (c), the Secretary of Defense may not—
+- **(a)** Except as provided in subsection (c) or (e), the Secretary of Defense may not—
   - **(1)** procure any covered material melted or produced in any covered nation, or any end item that contains a covered material manufactured in any covered nation, except as provided by subsection (c); or
   - **(2)** sell any material from the National Defense Stockpile, if the National Defense Stockpile Manager determines that such a sale is not in the national interests of the United States, to—
     - **(A)** any covered nation; or
     - **(B)** any third party that the Secretary reasonably believes is acting as a broker or agent for a covered nation or an entity in a covered nation.
 - **(b)** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
 - **(c)** Subsection (a)(1) does not apply under the following circumstances:
-  - **(1)** If the Secretary of Defense—
+  - **(1)** If the Secretary of Defense or the Secretary of the military department concerned—
     - **(A)** identifies a specific end item for which a specific covered material of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price; and
     - **(B)** waives subsection (a)(1) for such specific end item and such specific covered material for a period not exceeding 36 months.
-  - **(2)** To the procurement of an end item described in subsection (a)(1) or the sale of any covered material described under subsection (a)(1) by the Secretary outside of the United States for use outside of the United States.
+  - **(2)** To the procurement of an end item described in subsection (a)(1) or the sale of any covered material described under subsection (a)(1) by the Secretary outside of the United States in support of contingency operations or for use outside of the United States.
   - **(3)** To the purchase by the Secretary of an end item containing a covered material that is—
     - **(A)** a commercially available off-the-shelf item (as defined in section 104 of title 41 ), other than—
       - **(i)** a commercially available off-the-shelf item that is 50 percent or more tungsten by weight; or
       - **(ii)** a mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
     - **(B)** an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–1 ), determines that the domestic availability of a particular electronic device is critical to national security; or
     - **(C)** a neodymium-iron-boron magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States.
-- **(d)** In this section:
+- **(d)** The authorities in subsection (c)—
+  - **(1)** may be delegated to the head of contracting activity for the relevant component for an exception for a single acquisition program;
+  - **(2)** may be delegated to the senior acquisition executive of a military department for an exception for multiple programs within such military department; and
+  - **(3)** may be delegated to the Undersecretary of Defense for Acquisition and Sustainment for an exception for more than one military department.
+- **(e)**
+  - **(1)** Notwithstanding subsection (a), the Secretary of Defense of the Secretary 1 1 So in original. or the Secretary of the military department concerned, may accept the delivery of an end item containing covered material manufactured in a covered nation if the Secretary determines in writing that acceptance of such end item is necessary to the national security interests of the United States.
+  - **(2)** A written determination under paragraph (1)—
+    - **(A)** may be delegated—
+      - **(i)** to the senior acquisition executive of the military department concerned for a waiver for one or more acquisition programs within such military department; and
+      - **(ii)** to the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition and Sustainment for a waiver applicable to more than one military department;
+    - **(B)** shall specify the quantity of end items to which the waiver applies and the time period over which the waiver applies; and
+    - **(C)** shall be provided to the congressional defense committees prior to making such a determination (except that in the case of an urgent national security requirement, such certification may be provided to the defense committees up to 7 days after it is made).
+- **(f)** In this section:
   - **(1)** The term “covered material” means—
     - **(A)** samarium-cobalt magnets;
     - **(B)** neodymium-iron-boron magnets;

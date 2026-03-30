@@ -3,9 +3,9 @@ title: "Section 533 - Service credit upon original appointment as a commissioned
 usc_title: 10
 usc_section: "533"
 chapter: 33
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 533"
-generated_at: "2026-03-30T02:08:27.191Z"
+generated_at: "2026-03-30T02:17:31.565Z"
 ---
 
 # § 533. Service credit upon original appointment as a commissioned officer
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:08:27.191Z"
       - **(i)** For special training or experience in a particular officer field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
       - **(ii)** During fiscal years 2021 through 2025, for advanced education in an officer field so designated, if such education is directly related to the operational needs of the armed force concerned.
     - **(E)** Additional credit for experience as a physician or dentist, if appointed as a medical or dental officer in the Army or Navy or, in the case of the Air Force, with a view to designation as a medical or dental officer.
-  - **(2)** The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, or Marine Corps, captain in the Navy, or an equivalent grade in the Space Force.
+  - **(2)** The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, Marine Corps, or Space Force, or captain in the Navy.
   - **(3)** Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
 - **(c)** Constructive service credited an officer under subsection (b) shall be used only for determining the officer’s—
   - **(1)** initial grade as a regular officer;

@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T02:11:32.935Z"
+generated_at: "2026-03-30T02:19:46.918Z"
 ---
 
 # § 1396d. Definitions
@@ -54,7 +54,7 @@ For purposes of this subchapter—
   - **(30)** subject to subsection (gg), routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in such subsection);
   - **(31)** certified community behavioral health clinic services, as defined in subsection (jj); and
   - **(32)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
-    - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section); or
+    - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section,or, at the option of the State, for an individual who is an eligible juvenile (as defined in section 1396a(nn)(2) of this title ), while such individual is an inmate of a public institution (as defined in section 1396a(nn)(3) of this title ) pending disposition of charges); or
     - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
       - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
       - **(ii)** relatives specified in section 606(b)(1) 1 1 See References in Text note below. of this title with whom a child is living if such child is (or would, if needy, be) a dependent child under part A of subchapter IV,

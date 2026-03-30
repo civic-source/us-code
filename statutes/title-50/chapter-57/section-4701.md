@@ -3,9 +3,9 @@ title: "Section 4701 - Rights of American seamen on privately owned and operated
 usc_title: 50
 usc_section: "4701"
 chapter: 57
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 4701"
-generated_at: "2026-03-30T02:11:41.596Z"
+generated_at: "2026-03-30T02:19:57.538Z"
 ---
 
 # § 4701. Rights of American seamen on privately owned and operated American vessels extended to seamen employed through the War Shipping Administration; exceptions; definitions

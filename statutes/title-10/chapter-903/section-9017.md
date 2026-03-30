@@ -3,9 +3,9 @@ title: "Section 9017 - Secretary of the Air Force: successors to duties"
 usc_title: 10
 usc_section: "9017"
 chapter: 903
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9017"
-generated_at: "2026-03-30T02:08:27.338Z"
+generated_at: "2026-03-30T02:17:31.702Z"
 ---
 
 # § 9017. Secretary of the Air Force: successors to duties

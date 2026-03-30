@@ -3,9 +3,9 @@ title: "Section 3005 - Commission review of, and recommendations regarding, Harm
 usc_title: 19
 usc_section: "3005"
 chapter: 18
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 3005"
-generated_at: "2026-03-30T02:09:03.116Z"
+generated_at: "2026-03-30T02:18:27.889Z"
 ---
 
 # § 3005. Commission review of, and recommendations regarding, Harmonized Tariff Schedule

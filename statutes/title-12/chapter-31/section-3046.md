@@ -3,9 +3,9 @@ title: "Section 3046 - Financial analysis and market surveys at request of eligi
 usc_title: 12
 usc_section: "3046"
 chapter: 31
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 3046"
-generated_at: "2026-03-30T02:08:53.331Z"
+generated_at: "2026-03-30T02:18:20.543Z"
 ---
 
 # § 3046. Financial analysis and market surveys at request of eligible cooperative

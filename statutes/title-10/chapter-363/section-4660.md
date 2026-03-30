@@ -3,9 +3,9 @@ title: "Section 4660 - Prohibition on collection of political information"
 usc_title: 10
 usc_section: "4660"
 chapter: 363
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4660"
-generated_at: "2026-03-30T02:08:27.311Z"
+generated_at: "2026-03-30T02:17:31.674Z"
 ---
 
 # § 4660. Prohibition on collection of political information

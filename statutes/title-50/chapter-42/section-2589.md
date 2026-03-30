@@ -3,9 +3,9 @@ title: "Section 2589 - Policy of Department of Energy regarding future defense e
 usc_title: 50
 usc_section: "2589"
 chapter: 42
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2589"
-generated_at: "2026-03-30T02:11:41.497Z"
+generated_at: "2026-03-30T02:19:57.479Z"
 ---
 
 # § 2589. Policy of Department of Energy regarding future defense environmental management matters

@@ -3,9 +3,9 @@ title: "Section 5000D - Designated drugs during noncompliance periods"
 usc_title: 26
 usc_section: "5000D"
 chapter: 50
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5000D"
-generated_at: "2026-03-30T02:10:02.989Z"
+generated_at: "2026-03-30T02:18:56.510Z"
 ---
 
 # § 5000D. Designated drugs during noncompliance periods

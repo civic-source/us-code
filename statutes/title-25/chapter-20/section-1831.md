@@ -3,9 +3,9 @@ title: "Section 1831 - Purpose"
 usc_title: 25
 usc_section: "1831"
 chapter: 20
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 1831"
-generated_at: "2026-03-30T02:09:31.250Z"
+generated_at: "2026-03-30T02:18:36.405Z"
 ---
 
 # § 1831. Purpose

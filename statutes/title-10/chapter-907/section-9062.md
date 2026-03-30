@@ -3,9 +3,9 @@ title: "Section 9062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "9062"
 chapter: 907
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9062"
-generated_at: "2026-03-30T02:08:27.339Z"
+generated_at: "2026-03-30T02:17:31.702Z"
 ---
 
 # § 9062. Policy; composition; aircraft authorization
@@ -61,7 +61,7 @@ generated_at: "2026-03-30T02:08:27.339Z"
     - **(C)** keep an F–15E aircraft (other than an aircraft identified for retirement under subparagraph (A)) in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status).
   - **(2)** The prohibition under paragraph (1) shall not apply to individual F–15E aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
 - **(m)**
-  - **(1)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2028 , the Secretary of the Air Force may not—
+  - **(1)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2029 , the Secretary of the Air Force may not—
     - **(A)** retire an RQ–4 aircraft;
     - **(B)** reduce funding for unit personnel or weapon system sustainment activities for RQ–4 aircraft in a manner that presumes future congressional authority to divest such aircraft;
     - **(C)** keep an RQ–4 aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status); or

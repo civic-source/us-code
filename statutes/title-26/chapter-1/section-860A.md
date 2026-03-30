@@ -3,9 +3,9 @@ title: "Section 860A - Taxation of REMIC’s"
 usc_title: 26
 usc_section: "860A"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 860A"
-generated_at: "2026-03-30T02:10:02.914Z"
+generated_at: "2026-03-30T02:18:56.439Z"
 ---
 
 # § 860A. Taxation of REMIC’s

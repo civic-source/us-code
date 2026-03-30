@@ -3,9 +3,9 @@ title: "Section 1651 - Other laws, powers and authorities conferred thereby, and
 usc_title: 50
 usc_section: "1651"
 chapter: 34
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1651"
-generated_at: "2026-03-30T02:11:41.458Z"
+generated_at: "2026-03-30T02:19:57.456Z"
 ---
 
 # § 1651. Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies

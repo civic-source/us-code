@@ -3,9 +3,9 @@ title: "Section 14502a - Special selection review boards"
 usc_title: 10
 usc_section: "14502a"
 chapter: 1407
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 14502a"
-generated_at: "2026-03-30T02:08:27.357Z"
+generated_at: "2026-03-30T02:17:31.719Z"
 ---
 
 # § 14502a. Special selection review boards
@@ -41,7 +41,7 @@ generated_at: "2026-03-30T02:08:27.357Z"
   - **(2)** Records and information shall be presented to a special selection review board for purposes of paragraph (1) in a manner that does not indicate or disclose the person or persons for whom the special selection review board was convened.
   - **(3)** In considering whether the recommendation for promotion of a person should be sustained under this section, a special selection review board shall, to the greatest extent practicable, apply standards used by the promotion board that recommended the person for promotion.
   - **(4)** The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
-    - **(A)** ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+    - **(A)** ranks in the upper half of an order of merit created by the special selection review board or ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
     - **(B)** is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
   - **(5)** A recommendation for promotion of a person may be sustained under this section only by a vote of a majority of the members of the special selection review board.
   - **(6)** If a special selection review board does not sustain a recommendation for promotion of a person under this section, the person shall be considered to have failed of selection for promotion.

@@ -3,9 +3,9 @@ title: "Section 390 - Definitions"
 usc_title: 7
 usc_section: "390"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 390"
-generated_at: "2026-03-30T02:08:42.862Z"
+generated_at: "2026-03-30T02:18:00.296Z"
 ---
 
 # § 390. Definitions

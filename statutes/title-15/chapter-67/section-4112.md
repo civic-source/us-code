@@ -3,9 +3,9 @@ title: "Section 4112 - Annual agency budget and spending report"
 usc_title: 15
 usc_section: "4112"
 chapter: 67
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 4112"
-generated_at: "2026-03-30T02:08:56.214Z"
+generated_at: "2026-03-30T02:18:09.997Z"
 ---
 
 # § 4112. Annual agency budget and spending report

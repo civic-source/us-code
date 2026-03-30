@@ -3,9 +3,9 @@ title: "Section 3463 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3463"
 chapter: 21
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 3463"
-generated_at: "2026-03-30T02:09:03.118Z"
+generated_at: "2026-03-30T02:18:27.891Z"
 ---
 
 # §§ 3461 to 3463. Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 2020 , 134 Stat. 78

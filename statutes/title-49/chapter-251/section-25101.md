@@ -3,9 +3,9 @@ title: "Section 25101 - Corridor Identification and Development Program"
 usc_title: 49
 usc_section: "25101"
 chapter: 251
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 25101"
-generated_at: "2026-03-30T02:11:47.377Z"
+generated_at: "2026-03-30T02:19:55.113Z"
 ---
 
 # § 25101. Corridor Identification and Development Program

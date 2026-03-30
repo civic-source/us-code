@@ -3,9 +3,9 @@ title: "Section 8205 - Authorization of appropriations"
 usc_title: 7
 usc_section: "8205"
 chapter: 108
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 8205"
-generated_at: "2026-03-30T02:08:43.021Z"
+generated_at: "2026-03-30T02:18:00.446Z"
 ---
 
 # § 8205. Authorization of appropriations

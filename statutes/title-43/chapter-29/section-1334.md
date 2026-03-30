@@ -3,9 +3,9 @@ title: "Section 1334 - Administration of leasing"
 usc_title: 43
 usc_section: "1334"
 chapter: 29
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1334"
-generated_at: "2026-03-30T02:10:37.044Z"
+generated_at: "2026-03-30T02:19:17.901Z"
 ---
 
 # § 1334. Administration of leasing

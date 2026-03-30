@@ -3,9 +3,9 @@ title: "Section 8014 - Office of the Secretary of the Navy"
 usc_title: 10
 usc_section: "8014"
 chapter: 803
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8014"
-generated_at: "2026-03-30T02:08:27.324Z"
+generated_at: "2026-03-30T02:17:31.688Z"
 ---
 
 # § 8014. Office of the Secretary of the Navy

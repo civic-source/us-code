@@ -3,9 +3,9 @@ title: "Section 20239 - Promotions: how made"
 usc_title: 10
 usc_section: "20239"
 chapter: 2005
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20239"
-generated_at: "2026-03-30T02:08:27.363Z"
+generated_at: "2026-03-30T02:17:31.724Z"
 ---
 
 # § 20239. Promotions: how made
@@ -20,7 +20,7 @@ generated_at: "2026-03-30T02:08:27.363Z"
   - **(4)** Officers to be promoted to the grade of first lieutenant shall be promoted in accordance with regulations prescribed by the Secretary of the Air Force.
 - **(c)**
   - **(1)** Except as provided in subsection (f), officers on the Space Force officer list in the grade of first lieutenant who are on an approved all-fully-qualified-officers list shall be promoted to the grade of captain in accordance with regulations prescribed by the Secretary of the Air Force.
-  - **(2)** An all-fully-qualified-officers list shall be considered to be approved for purposes of subparagraph (A) 1 1 So in original. when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
+  - **(2)** An all-fully-qualified-officers list shall be considered to be approved for purposes of paragraph (1) when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
   - **(3)** The Secretary of the Air Force may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
   - **(4)** For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officers on the Space Force officer list in a grade who the Secretary of the Air Force determines—
     - **(A)** are fully qualified for promotion to the next higher grade; and
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T02:08:27.363Z"
   - **(5)** If the Secretary of the Air Force determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this subsection because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this subsection.
 - **(d)**
   - **(1)** The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d) of this title .
-  - **(2)** The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title . In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “Space Force officer list” for “active-duty list”.
+  - **(2)** The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title . In any use of the authority under the preceding sentence, section 741(d)(4)(C)(ii) of this title shall be applied by substituting “Space Force officer list” for “active-duty list”.
   - **(3)** Except as provided in paragraph (2) or as otherwise specifically authorized by law, an officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
 - **(e)** Under regulations prescribed by the Secretary of Defense, the promotion of an officer on the Space Force officer list to the grade of brigadier general or major general shall be delayed if that promotion would cause any strength limitation of section 526 of this title to be exceeded. The delay shall expire when the Secretary of the Air Force determines that the delay is no longer required to ensure compliance with the strength limitation.
 - **(f)** The provisions of section 14311 of this title shall apply to the appointment of an officer under this section in the same manner as they apply to an appointment of an officer under that section, and any reference in that section to an reserve active-status list shall be treated for purposes of applicability to an officer of the Space Force as referring to the Space Force officer list.

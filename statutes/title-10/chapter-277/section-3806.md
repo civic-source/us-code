@@ -3,9 +3,9 @@ title: "Section 3806 - Action in case of fraud"
 usc_title: 10
 usc_section: "3806"
 chapter: 277
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3806"
-generated_at: "2026-03-30T02:08:27.301Z"
+generated_at: "2026-03-30T02:17:31.665Z"
 ---
 
 # § 3806. Action in case of fraud

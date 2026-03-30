@@ -3,9 +3,9 @@ title: "Section 1905 - Regulations and administrative provisions"
 usc_title: 50
 usc_section: "1905"
 chapter: 37
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1905"
-generated_at: "2026-03-30T02:11:41.474Z"
+generated_at: "2026-03-30T02:19:57.465Z"
 ---
 
 # § 1905. Regulations and administrative provisions

@@ -3,9 +3,9 @@ title: "Section 400 - Leases for mining purposes of reserved and unallotted land
 usc_title: 25
 usc_section: "400"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 400"
-generated_at: "2026-03-30T02:09:31.184Z"
+generated_at: "2026-03-30T02:18:36.381Z"
 ---
 
 # § 400. Leases for mining purposes of reserved and unallotted lands in Fort Peck and Blackfeet Indian Reservations

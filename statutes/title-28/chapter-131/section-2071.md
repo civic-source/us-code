@@ -3,9 +3,9 @@ title: "Section 2071 - Rule-making power generally"
 usc_title: 28
 usc_section: "2071"
 chapter: 131
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 2071"
-generated_at: "2026-03-30T02:09:58.243Z"
+generated_at: "2026-03-30T02:18:45.827Z"
 ---
 
 # § 2071. Rule-making power generally

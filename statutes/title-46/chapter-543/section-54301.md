@@ -3,9 +3,9 @@ title: "Section 54301 - Port infrastructure development program"
 usc_title: 46
 usc_section: "54301"
 chapter: 543
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 54301"
-generated_at: "2026-03-30T02:11:43.129Z"
+generated_at: "2026-03-30T02:19:51.555Z"
 ---
 
 # § 54301. Port infrastructure development program
@@ -38,22 +38,29 @@ generated_at: "2026-03-30T02:11:43.129Z"
       - **(ii)** is not receiving assistance under chapter 537; or
     - **(B)** for any project within a small shipyard (as defined in section 54101).
   - **(5)**
-    - **(A)** To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.
+    - **(A)**
+      - **(i)** To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.
+      - **(ii)** If a covered applicant for a grant under this subsection is applying to use the grant to acquire digital infrastructure or a software component, such applicant shall—
+        - **(I)** certify the facility for which a covered applicant is applying for a grant has an approved facility security plan pursuant to section 70103(c) of this title that addresses the cybersecurity risks of such digital infrastructure or software component; or
+        - **(II)** if the approved facility security plan of a facility for which a covered applicant is applying for a grant does not address such cybersecurity risks, provide a brief description in the application of how such applicant will address the cybersecurity risks of such digital infrastructure or software component.
+      - **(iii)** If the approved facility security plan required under section 70103(c) of this title of a facility for which a covered applicant is applying for a grant under this subsection does not address the cybersecurity risks of digital infrastructure or a software component to be acquired by such grant and such applicant provides a brief description to address such cybersecurity risks under clause (ii)(II), the covered applicant shall ensure that such security plan is updated to address the cybersecurity risks described in clause (ii)(II) in the next update required under paragraph (3)(G) of such section.
+      - **(iv)** In this paragraph, the term “covered applicant” means an applicant under this subsection that is not otherwise eligible under subsection (b).
     - **(B)** Not later than 90 days after the date that amounts are made available for grants under this subsection or subsection (b) for a fiscal year, the Secretary shall solicit grant applications for eligible projects in accordance with this subsection.
+    - **(C)** If the Secretary amends a published solicitation for grant applications such that an applicant would need the information contained in the amendment to draft an application, other than an amendment of the amount of grant funding available, the Secretary shall extend the application deadline by the number of days between the initial solicitation and the amendment.
   - **(6)**
     - **(A)** The Secretary may select a project described in paragraph (3) for funding under this subsection if the Secretary determines that—
       - **(i)** the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;
-      - **(ii)** the project is cost effective (except in the case of a project described under subparagraph (C)); 1 1 Probably means the subpar. (C) relating to noncontiguous states and territories.
+      - **(ii)** the project is cost effective (except in the case of a project described under subparagraph (D));
       - **(iii)** the eligible applicant has authority to carry out the project;
       - **(iv)** the eligible applicant has sufficient funding available to meet the matching requirements under paragraph (8);
       - **(v)** the project will be completed without unreasonable delay; and
       - **(vi)** the project cannot be easily and efficiently completed without Federal funding or financial assistance available to the project sponsor.
     - **(B)** In selecting projects described in paragraph (3) for funding under this subsection, the Secretary shall give substantial weight to—
       - **(i)** the utilization of non-Federal contributions;
-      - **(ii)** the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable (except in the case of a project described under subparagraph (C)); 1 and
+      - **(ii)** the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable (except in the case of a project described under subparagraph (D)); and
       - **(iii)** a port’s increased resilience as a result of the project.
     - **(C)** In selecting projects described in paragraph (3), the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements.
-    - **(C)** The requirements under subparagraphs (A)(ii) and (B)(ii) shall not apply in the case of a project described in paragraph (3) in a noncontiguous State or territory.
+    - **(D)** The requirements under subparagraphs (A)(ii) and (B)(ii) shall not apply in the case of a project described in paragraph (3) in a noncontiguous State or territory.
   - **(7)**
     - **(A)** Not more than 25 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for projects in any 1 State.
     - **(B)** The Secretary shall reserve 25 percent of the amounts made available for grants under this subsection each fiscal year to make grants for eligible projects described in subsection (b). The requirement under paragraph (6)(A)(ii) shall not apply to grants made under subsection (b).
@@ -67,15 +74,16 @@ generated_at: "2026-03-30T02:11:43.129Z"
       - **(ii)** The Secretary may increase the Federal share of costs above 80 percent for a project for which a grant is awarded under subsection (b) or that is located in a rural area.
   - **(9)** The Secretary shall issue guidelines to establish appropriate accounting, reporting, and review procedures for grants made under this subsection and subsection (b) to ensure that—
     - **(A)** grant funds are used for the purposes for which those funds were made available;
-    - **(B)** each grantee properly accounts for all expenditures of grant funds; and
-    - **(C)** grant funds not used for such purposes and amounts not obligated or expended are returned.
+    - **(B)** each grantee properly accounts for all expenditures of grant funds;
+    - **(C)** grant funds not used for such purposes and amounts not obligated or expended are returned; and
+    - **(D)** grant contracts are approved efficiently by the Secretary, minimizing delays for minor adjustments to project scopes and budgets, including due to inflationary effects on projects.
   - **(10)**
     - **(A)** The Secretary shall require as a condition of making a grant under this subsection or subsection (b) that a grantee—
       - **(i)** maintain such records as the Secretary considers necessary;
       - **(ii)** make the records described in clause (i) available for review and audit by the Secretary; and
       - **(iii)** periodically report to the Secretary such information as the Secretary considers necessary to assess progress.
     - **(B)**
-      - **(i)** Notwithstanding any other provision of law ans 3 3 So in original. Probably should be “and”. subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
+      - **(i)** Notwithstanding any other provision of law and subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
         - **(I)** the grant recipient may obligate and expend non-Federal funds with respect to the project for which the grant is provided; and
         - **(II)** any non-Federal funds obligated or expended in accordance with subclause (I) shall be credited toward the non-Federal cost share for the project for which the grant is provided.
       - **(ii)**
@@ -86,8 +94,7 @@ generated_at: "2026-03-30T02:11:43.129Z"
         - **(I)** affect the signing of a grant agreement or other applicable grant procedures with respect to the applicable grant;
         - **(II)** create an obligation on the part of the Federal Government to repay any non-Federal funds if the grant agreement is not signed; or
         - **(III)** affect the ability of the recipient of the grant to obligate or expend non-Federal funds to meet the non-Federal cost share for the project for which the grant is provided after the period described in clause (i).
-    - **(C)** The Secretary shall apply the same requirements of section 117(k) of title 23 , United States Code, to a port project assisted in whole or in part under this section as the Secretary does a port-related freight project under section 117 of title 23 , United States Code.
-    - **(D)** With regard to the construction, repair, or alteration of vessels, the same requirements of section 117(k) of title 23 , United States Code, shall apply regardless of whether the location of contract performance is known when bids for such work are solicited.
+    - **(C)** With regard to the construction, repair, or alteration of vessels, the same requirements of section 117(k) of title 23 , United States Code, shall apply regardless of whether the location of contract performance is known when bids for such work are solicited.
   - **(11)**
     - **(A)** The Secretary may retain not more than 2 percent of the amounts appropriated for each fiscal year to make grants for port development under this section for the administrative and oversight costs incurred by the Secretary to make grants for port development under this section.
     - **(B)**
@@ -96,11 +103,11 @@ generated_at: "2026-03-30T02:11:43.129Z"
   - **(12)** In this subsection and subsection (b):
     - **(A)** The term “port” includes—
       - **(i)** any port on the navigable waters of the United States; and
-      - **(ii)** any harbor, marine terminal, or other shore side facility used principally for the movement of goods on inland waters.
+      - **(ii)** any harbor, marine terminal, or other shore side facility used principally for the movement of goods on inland waters (including the Great Lakes).
     - **(B)** The term “project” includes construction, reconstruction, environmental rehabilitation, acquisition of property, including land related to the project and improvements to the land, equipment acquisition, and operational improvements.
     - **(C)** The term “rural area” means an area that is outside an urbanized area.
     - **(D)** The term “resilience” means the ability to anticipate, prepare for, adapt to, withstand, respond to, and recover from operational disruptions and sustain critical operations at ports, including disruptions caused by natural or manmade hazards, such as sea level rise, flooding, earthquakes, hurricanes, tsunami inundation or other extreme weather events.
-    - **(E)** In this subsection the term “strategic seaport” means a military port or and 4 4 So in original. commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.
+    - **(E)** In this subsection the term “strategic seaport” means a military port or commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.
 - **(b)**
   - **(1)** From amounts reserved under subsection (a)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit.
   - **(2)**

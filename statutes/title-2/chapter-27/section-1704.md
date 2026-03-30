@@ -3,9 +3,9 @@ title: "Section 1704 - National Recording Registry Collection of the Library of 
 usc_title: 2
 usc_section: "1704"
 chapter: 27
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 1704"
-generated_at: "2026-03-30T02:07:57.514Z"
+generated_at: "2026-03-30T02:16:56.697Z"
 ---
 
 # § 1704. National Recording Registry Collection of the Library of Congress

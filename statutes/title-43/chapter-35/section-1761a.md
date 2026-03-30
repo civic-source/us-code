@@ -3,9 +3,9 @@ title: "Section 1761a - Streamlining the Forest Service process for consideratio
 usc_title: 43
 usc_section: "1761a"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1761a"
-generated_at: "2026-03-30T02:10:37.064Z"
+generated_at: "2026-03-30T02:19:17.922Z"
 ---
 
 # § 1761a. Streamlining the Forest Service process for consideration of communications facility location applications
@@ -63,6 +63,7 @@ generated_at: "2026-03-30T02:10:37.064Z"
     - **(C)** Training for management of communications sites.
     - **(D)** Obtaining or improving access to communications sites.
   - **(5)** Except as provided in paragraph (4), no other amounts are authorized to be appropriated to carry out this section.
+  - **(6)** Subject to the availability of appropriations made in advance for such purposes, the Secretary may enter into cooperative agreements to carry out the activities described in subparagraphs (A) through (D) of paragraph (4).
 - **(g)**
   - **(1)** Nothing in this section, or the amendments made by this section, shall be construed as providing any executive agency with any new leasing or other real property authorities not existing prior to December 20, 2018 .
   - **(2)** Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, the Federal Assets Sale and Transfer Act of 2016 ( 40 U.S.C. 1303 note; Public Law 114–287 ), or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could otherwise be sold, leased, or redeveloped.

@@ -3,9 +3,9 @@ title: "Section 542a - Congressional findings"
 usc_title: 16
 usc_section: "542a"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 542a"
-generated_at: "2026-03-30T02:09:13.354Z"
+generated_at: "2026-03-30T02:18:31.944Z"
 ---
 
 # § 542a. Congressional findings

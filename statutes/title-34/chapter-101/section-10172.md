@@ -3,9 +3,9 @@ title: "Section 10172 - Allocation of funds; administrative provisions"
 usc_title: 34
 usc_section: "10172"
 chapter: 101
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 10172"
-generated_at: "2026-03-30T02:10:13.865Z"
+generated_at: "2026-03-30T02:19:04.999Z"
 ---
 
 # § 10172. Allocation of funds; administrative provisions

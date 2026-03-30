@@ -3,9 +3,9 @@ title: "Section 1385 - Ownership of naval reservations, diplomatic property, etc
 usc_title: 22
 usc_section: "1385"
 chapter: 15
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 1385"
-generated_at: "2026-03-30T02:09:39.932Z"
+generated_at: "2026-03-30T02:18:41.514Z"
 ---
 
 # § 1385. Ownership of naval reservations, diplomatic property, etc., unaffected

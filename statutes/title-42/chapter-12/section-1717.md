@@ -3,9 +3,9 @@ title: "Section 1717 - Assignment of benefits; execution, levy, etc., against be
 usc_title: 42
 usc_section: "1717"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1717"
-generated_at: "2026-03-30T02:11:33.039Z"
+generated_at: "2026-03-30T02:19:46.982Z"
 ---
 
 # § 1717. Assignment of benefits; execution, levy, etc., against benefits

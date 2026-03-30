@@ -3,9 +3,9 @@ title: "Section 612 - Composition of selection boards"
 usc_title: 10
 usc_section: "612"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 612"
-generated_at: "2026-03-30T02:08:27.193Z"
+generated_at: "2026-03-30T02:17:31.566Z"
 ---
 
 # § 612. Composition of selection boards
@@ -25,5 +25,5 @@ generated_at: "2026-03-30T02:08:27.193Z"
     - **(A)** is serving on, or has served on, the Joint Staff; or
     - **(B)** is a joint qualified officer.
   - **(3)** The Secretary of Defense may waive the requirement in paragraph (1) in the case of—
-    - **(A)** any selection board of the Marine Corps; or
+    - **(A)** any selection board of the Marine Corps or the Space Force; or
     - **(B)** any selection board that is considering officers in specialties identified in paragraph (2) or (3) of section 619a(b) of this title .

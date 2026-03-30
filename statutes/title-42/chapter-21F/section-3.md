@@ -3,9 +3,9 @@ title: "Section 3 - Labor organization practices"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:11:33.096Z"
+generated_at: "2026-03-30T02:19:47.017Z"
 ---
 
 # § 2000ff–3. Labor organization practices

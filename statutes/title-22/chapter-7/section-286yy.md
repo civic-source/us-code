@@ -3,9 +3,9 @@ title: "Section 286yy - Opposition to assistance for any government that fails t
 usc_title: 22
 usc_section: "286yy"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 286yy"
-generated_at: "2026-03-30T02:09:39.922Z"
+generated_at: "2026-03-30T02:18:41.500Z"
 ---
 
 # § 286yy. Opposition to assistance for any government that fails to implement sanctions on North Korea

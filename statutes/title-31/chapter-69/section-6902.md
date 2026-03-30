@@ -3,9 +3,9 @@ title: "Section 6902 - Authority and Eligibility 1 1 So in original. Probably sh
 usc_title: 31
 usc_section: "6902"
 chapter: 69
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 6902"
-generated_at: "2026-03-30T02:10:25.003Z"
+generated_at: "2026-03-30T02:19:05.869Z"
 ---
 
 # § 6902. Authority and Eligibility 1 1 So in original. Probably should not be capitalized.

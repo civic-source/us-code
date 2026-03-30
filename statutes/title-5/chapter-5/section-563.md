@@ -3,9 +3,9 @@ title: "Section 563 - Determination of need for negotiated rulemaking committee"
 usc_title: 5
 usc_section: "563"
 chapter: 5
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 563"
-generated_at: "2026-03-30T02:08:10.372Z"
+generated_at: "2026-03-30T02:17:12.637Z"
 ---
 
 # § 563. Determination of need for negotiated rulemaking committee

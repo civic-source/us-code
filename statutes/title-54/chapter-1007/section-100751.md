@@ -3,9 +3,9 @@ title: "Section 100751 - Regulations"
 usc_title: 54
 usc_section: "100751"
 chapter: 1007
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "54 U.S.C. § 100751"
-generated_at: "2026-03-30T02:12:06.522Z"
+generated_at: "2026-03-30T02:19:59.477Z"
 ---
 
 # § 100751. Regulations

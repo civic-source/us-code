@@ -3,9 +3,9 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-30T02:08:27.167Z"
+generated_at: "2026-03-30T02:17:31.543Z"
 ---
 
 # § 130i. Protection of certain facilities and assets from unmanned aircraft
@@ -68,7 +68,7 @@ generated_at: "2026-03-30T02:08:27.167Z"
       - **(vi)** combat support agencies (as defined in paragraphs (1) through (4) of section 193(f) of this title );
       - **(vii)** special operations activities specified in paragraphs (1) through (9) of section 167(k) of this title ;
       - **(viii)** production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department; or
-      - **(ix)** a Major Range and Test Facility Base (as defined in sections 1 1 So in original. Probably should be “section”. 4173(i) of this title).
+      - **(ix)** a Major Range and Test Facility Base (as defined in section 4173 of this title ).
   - **(4)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(5)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18 .
   - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .

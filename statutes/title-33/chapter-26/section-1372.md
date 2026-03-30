@@ -3,9 +3,9 @@ title: "Section 1372 - Labor standards"
 usc_title: 33
 usc_section: "1372"
 chapter: 26
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 1372"
-generated_at: "2026-03-30T02:10:26.063Z"
+generated_at: "2026-03-30T02:19:07.008Z"
 ---
 
 # § 1372. Labor standards

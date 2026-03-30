@@ -3,9 +3,9 @@ title: "Section 1012 - Regulation by State law; Federal law relating specificall
 usc_title: 15
 usc_section: "1012"
 chapter: 20
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 1012"
-generated_at: "2026-03-30T02:08:56.137Z"
+generated_at: "2026-03-30T02:18:09.923Z"
 ---
 
 # § 1012. Regulation by State law; Federal law relating specifically to insurance; applicability of certain Federal laws after June 30, 1948

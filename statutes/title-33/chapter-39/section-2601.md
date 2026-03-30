@@ -3,9 +3,9 @@ title: "Section 2601 - Definitions"
 usc_title: 33
 usc_section: "2601"
 chapter: 39
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2601"
-generated_at: "2026-03-30T02:10:26.086Z"
+generated_at: "2026-03-30T02:19:07.031Z"
 ---
 
 # § 2601. Definitions

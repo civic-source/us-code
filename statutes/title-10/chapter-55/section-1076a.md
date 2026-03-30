@@ -3,9 +3,9 @@ title: "Section 1076a - TRICARE dental program"
 usc_title: 10
 usc_section: "1076a"
 chapter: 55
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1076a"
-generated_at: "2026-03-30T02:08:27.226Z"
+generated_at: "2026-03-30T02:17:31.592Z"
 ---
 
 # § 1076a. TRICARE dental program
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T02:08:27.226Z"
   - **(4)** A dental benefits plan for eligible dependents of members of the Ready Reserve of the reserve components who are not on active duty for more than 30 days.
 - **(b)**
   - **(1)** The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.
-  - **(2)** Effective as of January 1, 2026 , the regulations prescribed pursuant to paragraph (1) shall include, with respect to premium sharing plans referred to in subsection (d)(1), the following elements:
+  - **(2)** Effective as of January 1, 2027 , the regulations prescribed pursuant to paragraph (1) shall include, with respect to premium sharing plans referred to in subsection (d)(1), the following elements:
     - **(A)** A third party administrator shall manage the administrative features of such plans, including eligibility, enrollment, plan change and premium payment processes, submission of qualifying life events changes, and address changes.
     - **(B)** Such plans shall include the following three enrollment options:
       - **(i)** Self.
@@ -49,15 +49,15 @@ generated_at: "2026-03-30T02:08:27.226Z"
 - **(d)**
   - **(1)**
     - **(A)** The dental insurance plan established under subsection (a)(1) and the dental benefits plans established under subsection (a)(3) are premium sharing plans.
-    - **(B)** Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. During the period preceding January 1, 2026 , the member’s share of the premium charge may not exceed $20 per month for the enrollment.
-    - **(C)** Effective as of January 1 of each year during the period preceding January 1, 2026 , the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
+    - **(B)** Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. During the period preceding January 1, 2027 , the member’s share of the premium charge may not exceed $20 per month for the enrollment.
+    - **(C)** Effective as of January 1 of each year during the period preceding January 1, 2027 , the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
       - **(i)** the percent by which the rates of basic pay of members of the uniformed services are increased on such date; or
       - **(ii)** the sum of one-half percent and the percent computed under section 5303(a) of title 5 for the increase in rates of basic pay for statutory pay systems for pay periods beginning on or after such date.
-    - **(D)** During the period preceding January 1, 2026 , the Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
-    - **(E)** Beginning on January 1, 2026 , the amount of the premium required under subparagraph (A)—
+    - **(D)** During the period preceding January 1, 2027 , the Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
+    - **(E)** Beginning on January 1, 2027 , the amount of the premium required under subparagraph (A)—
       - **(i)** for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3)), the Secretary’s share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
       - **(ii)** for non-standard option plans, shall be equal to the amount determined under clause (i) plus 100 percent of the additional premium amount applicable to such non-standard option plan.
-    - **(F)** Beginning on January 1, 2026 , the Secretary of Defense shall reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
+    - **(F)** Beginning on January 1, 2027 , the Secretary of Defense shall reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
   - **(2)**
     - **(A)** The dental insurance plan established under subsection (a)(2) and the dental benefits plan established under subsection (a)(4) are full premium plans.
     - **(B)** Members enrolled in a full premium plan for themselves or for their dependents shall be required to pay the entire premium charged for the benefits provided under the plan.
@@ -70,12 +70,12 @@ generated_at: "2026-03-30T02:08:27.226Z"
   - **(2)**
     - **(A)** During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the charges would facilitate or ensure the readiness of a unit or individual for deployment.
     - **(B)** The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
-  - **(3)** Beginning on January 1, 2026 , the Secretary of Defense shall reduce copayments required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
+  - **(3)** Beginning on January 1, 2027 , the Secretary of Defense shall reduce copayments required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
 - **(f)** If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to the member’s eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If the member is later transferred to a duty station where dental care is not provided to such member’s eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
 - **(g)** The Secretary of Defense may exercise the authority provided under subsection (a) to establish dental insurance plans and dental benefits plans for dental benefits provided outside the United States for the eligible members and dependents of members of the uniformed services. In the case of such an overseas dental plan, the Secretary may waive or reduce any copayments required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
 - **(h)** The Secretary of Defense may waive (in whole or in part) any requirements of a dental plan established under this section as the Secretary determines necessary for the effective administration of the plan for a dependent who is an eligible dependent described in subsection (k)(2).
 - **(i)** The authority of the Secretary of Defense to enter into a contract under this section for any fiscal year is subject to the availability of appropriations for that purpose.
-- **(j)** During the period preceding January 1, 2026 , the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026 , the Secretary may not reduce benefits provided under a standard option plan under this section, until—
+- **(j)** During the period preceding January 1, 2027 , the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2027 , the Secretary may not reduce benefits provided under a standard option plan under this section, until—
   - **(1)** the Secretary provides notice of the Secretary’s intent to reduce such benefits to the Committees on Armed Services of the Senate and the House of Representatives; and
   - **(2)** one year has elapsed following the date of such notice.
 - **(k)**
@@ -91,4 +91,4 @@ generated_at: "2026-03-30T02:08:27.226Z"
       - **(ii)** The date on which such dependent attains 23 years of age.
 - **(l)** In this section:
   - **(1)** The term “non-standard option plan” means a high option dental insurance plan that includes covered services in addition to, or provides greater coverage with respect to, services covered under a standard option plan.
-  - **(2)** The term “standard option plan” means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2026 .
+  - **(2)** The term “standard option plan” means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2027 .

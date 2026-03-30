@@ -3,9 +3,9 @@ title: "Section 14941 - Access to Convention records"
 usc_title: 42
 usc_section: "14941"
 chapter: 143
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14941"
-generated_at: "2026-03-30T02:11:33.624Z"
+generated_at: "2026-03-30T02:19:47.319Z"
 ---
 
 # § 14941. Access to Convention records

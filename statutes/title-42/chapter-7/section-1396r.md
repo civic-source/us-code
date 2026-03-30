@@ -3,9 +3,9 @@ title: "Section 1396r - Requirements for nursing facilities"
 usc_title: 42
 usc_section: "1396r"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1396r"
-generated_at: "2026-03-30T02:11:32.946Z"
+generated_at: "2026-03-30T02:19:46.925Z"
 ---
 
 # § 1396r. Requirements for nursing facilities
@@ -207,12 +207,7 @@ generated_at: "2026-03-30T02:11:32.946Z"
 - **(d)**
   - **(1)**
     - **(A)** A nursing facility must be administered in a manner that enables it to use its resources effectively and efficiently to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident (consistent with requirements established under subsection (f)(5)).
-    - **(B)** If a change occurs in—
-      - **(i)** the persons with an ownership or control interest (as defined in section 1320a–3(a)(3) of this title ) in the facility,
-      - **(ii)** the persons who are officers, directors, agents, or managing employees (as defined in section 1320a–5(b) of this title ) of the facility,
-      - **(iii)** the corporation, association, or other company responsible for the management of the facility, or
-      - **(iv)** the individual who is the administrator or director of nursing of the facility,
-    - **(C)** The administrator of a nursing facility must meet standards established by the Secretary under subsection (f)(4).
+    - **(B)** The administrator of a nursing facility must meet standards established by the Secretary under subsection (f)(4).
     - **(V)** A nursing facility must—
       - **(i)** have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and
       - **(ii)** post notice of the availability of such reports in areas of the facility that are prominent and accessible to the public.

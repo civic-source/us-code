@@ -3,9 +3,9 @@ title: "Section 14013 - Omitted"
 usc_title: 42
 usc_section: "14013"
 chapter: 136
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14013"
-generated_at: "2026-03-30T02:11:33.618Z"
+generated_at: "2026-03-30T02:19:47.314Z"
 ---
 
 # § 14013. Omitted

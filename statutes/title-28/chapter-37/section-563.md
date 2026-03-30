@@ -3,9 +3,9 @@ title: "Section 563 - Oath of office"
 usc_title: 28
 usc_section: "563"
 chapter: 37
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 563"
-generated_at: "2026-03-30T02:09:58.230Z"
+generated_at: "2026-03-30T02:18:45.812Z"
 ---
 
 # § 563. Oath of office

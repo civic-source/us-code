@@ -3,9 +3,9 @@ title: "Section 4104a - Notice requirements"
 usc_title: 42
 usc_section: "4104a"
 chapter: 50
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4104a"
-generated_at: "2026-03-30T02:11:33.213Z"
+generated_at: "2026-03-30T02:19:47.073Z"
 ---
 
 # § 4104a. Notice requirements

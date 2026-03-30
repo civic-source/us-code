@@ -3,9 +3,9 @@ title: "Section 14106 - Communication with board by officers under consideration
 usc_title: 10
 usc_section: "14106"
 chapter: 1403
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 14106"
-generated_at: "2026-03-30T02:08:27.355Z"
+generated_at: "2026-03-30T02:17:31.717Z"
 ---
 
 # § 14106. Communication with board by officers under consideration

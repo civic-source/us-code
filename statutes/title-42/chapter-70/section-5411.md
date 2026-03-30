@@ -3,9 +3,9 @@ title: "Section 5411 - Injunctive relief"
 usc_title: 42
 usc_section: "5411"
 chapter: 70
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5411"
-generated_at: "2026-03-30T02:11:33.269Z"
+generated_at: "2026-03-30T02:19:47.105Z"
 ---
 
 # § 5411. Injunctive relief

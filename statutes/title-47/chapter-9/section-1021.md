@@ -3,9 +3,9 @@ title: "Section 1021 - Department of Justice Telecommunications Carrier Complian
 usc_title: 47
 usc_section: "1021"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 1021"
-generated_at: "2026-03-30T02:11:55.212Z"
+generated_at: "2026-03-30T02:19:50.628Z"
 ---
 
 # § 1021. Department of Justice Telecommunications Carrier Compliance Fund

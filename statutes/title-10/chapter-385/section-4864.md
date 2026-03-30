@@ -3,9 +3,9 @@ title: "Section 4864 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "4864"
 chapter: 385
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4864"
-generated_at: "2026-03-30T02:08:27.313Z"
+generated_at: "2026-03-30T02:17:31.677Z"
 ---
 
 # § 4864. Miscellaneous limitations on the procurement of goods other than United States goods
@@ -81,7 +81,11 @@ generated_at: "2026-03-30T02:08:27.313Z"
       - **(iii)** not recommend inclusion under this section.
     - **(D)** The determination required under subparagraph (B) shall also include the rationale and justification for the determination.
   - **(4)** For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
-- **(k)** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term “auxiliary ship” does not include an icebreaker or a special mission ship.
+- **(k)**
+  - **(1)** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy.
+  - **(2)** For purposes of this subsection, the term “auxiliary ship”—
+    - **(A)** with respect to a contract entered into after December 20, 2019 , does not include an icebreaker or a special mission ship; and
+    - **(B)** with respect to a contract entered into on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, includes an icebreaker or a special mission ship, unless the Secretary of the Navy certifies to Congress that the forecasted sales over a four-year period of large medium-speed diesel engines manufactured in the national technology and industrial base will not fall below the minimum sustaining rate for plant operations of a diminishing manufacturing source.
 - **(l)**
   - **(1)** Not later than November 1, 2024 , and every five years thereafter, the Under Secretary of Defense for Acquisition and Sustainment shall review each item described in subsections (a) and (e) of this section and submit to the congressional defense committees, in writing, one of the following recommendations:
     - **(A)** Recommend continued inclusion of the item under this section.

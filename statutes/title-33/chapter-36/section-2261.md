@@ -3,9 +3,9 @@ title: "Section 2261 - Territories development study"
 usc_title: 33
 usc_section: "2261"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2261"
-generated_at: "2026-03-30T02:10:26.075Z"
+generated_at: "2026-03-30T02:19:07.020Z"
 ---
 
 # § 2261. Territories development study

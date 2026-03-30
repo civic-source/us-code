@@ -3,9 +3,9 @@ title: "Section 291h - Judicial review"
 usc_title: 42
 usc_section: "291h"
 chapter: 6
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 291h"
-generated_at: "2026-03-30T02:11:32.509Z"
+generated_at: "2026-03-30T02:19:46.661Z"
 ---
 
 # § 291h. Judicial review

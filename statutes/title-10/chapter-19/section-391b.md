@@ -3,9 +3,9 @@ title: "Section 391b - Strategic cybersecurity program"
 usc_title: 10
 usc_section: "391b"
 chapter: 19
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 391b"
-generated_at: "2026-03-30T02:08:27.183Z"
+generated_at: "2026-03-30T02:17:31.558Z"
 ---
 
 # § 391b. Strategic cybersecurity program
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T02:08:27.183Z"
 - **(e)** In addition to providing policy, direction, and oversight as specified in subsection (a)(2), the head of the office of primary responsibility for the Program designated under such subsection shall be responsible—
   - **(1)** for overseeing and providing direction on any covered statutory requirement that is ongoing, recurrent (including on an annual basis), or unfulfilled, including by—
     - **(A)** reviewing any materials required to be submitted to Congress under the covered statutory requirement prior to such submission; and
-    - **(B)** ensuring such submissions occur by the applicable deadline under the covered statutory requirement: 1 1 So in original. The colon probably should be a semicolon. and
+    - **(B)** ensuring such submissions occur by the applicable deadline under the covered statutory requirement; and
   - **(2)** recording and monitoring the remediation of identified vulnerabilities in constituent systems, infrastructure, kill chains, and processes of the missions specified in subsection (d)(1).
 - **(f)** The program manager selected pursuant to subsection (c)(1) shall be responsible for the following:
   - **(1)** Conducting end-to-end vulnerability assessments of the constituent systems, infrastructure, kill chains, and processes of the missions specified in subsection (d)(1).

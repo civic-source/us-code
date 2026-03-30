@@ -3,9 +3,9 @@ title: "Section 3008 - Commission staff"
 usc_title: 22
 usc_section: "3008"
 chapter: 45
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3008"
-generated_at: "2026-03-30T02:09:39.992Z"
+generated_at: "2026-03-30T02:18:41.596Z"
 ---
 
 # § 3008. Commission staff
@@ -17,5 +17,5 @@ generated_at: "2026-03-30T02:09:39.992Z"
 - **(c)** All staff appointments shall be made without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates.
 - **(d)**
   - **(1)** For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5 .
-  - **(2)** For purposes of section 3304(c)(1) 1 1 See References in Text note below. of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
+  - **(2)** For purposes of section 3304(i)(1) 1 1 See References in Text note below. of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
   - **(3)** The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976 .

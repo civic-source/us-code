@@ -3,9 +3,9 @@ title: "Section 620h - Saving provisions"
 usc_title: 43
 usc_section: "620h"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 620h"
-generated_at: "2026-03-30T02:10:37.035Z"
+generated_at: "2026-03-30T02:19:17.892Z"
 ---
 
 # § 620h. Saving provisions

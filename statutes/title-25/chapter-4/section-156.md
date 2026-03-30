@@ -3,9 +3,9 @@ title: "Section 156 - Deposit of funds from sales of lands and property of Five 
 usc_title: 25
 usc_section: "156"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 156"
-generated_at: "2026-03-30T02:09:31.174Z"
+generated_at: "2026-03-30T02:18:36.373Z"
 ---
 
 # § 156. Deposit of funds from sales of lands and property of Five Civilized Tribes

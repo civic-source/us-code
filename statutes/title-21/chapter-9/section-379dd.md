@@ -3,9 +3,9 @@ title: "Section 379dd - Establishment and functions of the Foundation"
 usc_title: 21
 usc_section: "379dd"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 379dd"
-generated_at: "2026-03-30T02:09:18.216Z"
+generated_at: "2026-03-30T02:18:37.597Z"
 ---
 
 # § 379dd. Establishment and functions of the Foundation

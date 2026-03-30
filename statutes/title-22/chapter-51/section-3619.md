@@ -3,9 +3,9 @@ title: "Section 3619 - Joint sea level canal study"
 usc_title: 22
 usc_section: "3619"
 chapter: 51
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3619"
-generated_at: "2026-03-30T02:09:39.998Z"
+generated_at: "2026-03-30T02:18:41.605Z"
 ---
 
 # § 3619. Joint sea level canal study

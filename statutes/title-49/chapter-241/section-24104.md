@@ -3,9 +3,9 @@ title: "Section 24104 - Repealed. Pub. L. 114–94, div. A, title XI, § 11202(c
 usc_title: 49
 usc_section: "24104"
 chapter: 241
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 24104"
-generated_at: "2026-03-30T02:11:47.370Z"
+generated_at: "2026-03-30T02:19:55.109Z"
 ---
 
 # [§ 24104. Repealed. Pub. L. 114–94, div. A, title XI, § 11202(c)(2) , Dec. 4, 2015 , 129 Stat. 1630 ]

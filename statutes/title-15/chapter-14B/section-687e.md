@@ -3,9 +3,9 @@ title: "Section 687e - Removal or suspension of management officials"
 usc_title: 15
 usc_section: "687e"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 687e"
-generated_at: "2026-03-30T02:08:56.123Z"
+generated_at: "2026-03-30T02:18:09.910Z"
 ---
 
 # § 687e. Removal or suspension of management officials

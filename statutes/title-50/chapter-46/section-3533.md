@@ -3,14 +3,14 @@ title: "Section 3533 - Special Victim Investigator"
 usc_title: 50
 usc_section: "3533"
 chapter: 46
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3533"
-generated_at: "2026-03-30T02:11:41.559Z"
+generated_at: "2026-03-30T02:19:57.516Z"
 ---
 
 # § 3533. Special Victim Investigator
 
-- **(a)** The Director shall establish in the Office of Security a Special Victim Investigator, who shall be authorized to investigate or facilitate the investigation of unrestricted reports containing allegations of sexual assault and sexual harassment. The person appointed as the Special Victim Investigator shall be an appropriately credentialed Federal law enforcement officer and may be detailed or assigned from a Federal law enforcement entity.
+- **(a)** The Director shall establish in the Office of Security a Special Victim Investigator, who shall be authorized to investigate or facilitate the investigation of unrestricted reports containing allegations of sexual assault and sexual harassment. The person appointed as the Special Victim Investigator shall be an appropriately credentialed Federal law enforcement officer and may be detailed or assigned from a Federal law enforcement entity. No individual appointed as the Special Victim Investigator may, at the time of such appointment, be a current employee of the Central Intelligence Agency.
 - **(b)** The Investigator shall—
   - **(1)** at the election of a victim (as defined in section 3532(k) of this title ), be authorized to conduct internal Agency inquiries, investigations, and other fact-finding activities related to allegations of sexual harassment, which may be separate and in addition to any inquiry or investigation conducted by the Office of Equal Employment Opportunity;
   - **(2)** conduct and manage internal Agency inquiries, investigations, and other fact-finding activities related to specific allegations of sexual assault;

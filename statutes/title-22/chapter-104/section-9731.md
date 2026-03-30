@@ -3,9 +3,9 @@ title: "Section 9731 - Support for international election observation and democr
 usc_title: 22
 usc_section: "9731"
 chapter: 104
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9731"
-generated_at: "2026-03-30T02:09:40.075Z"
+generated_at: "2026-03-30T02:18:41.711Z"
 ---
 
 # § 9731. Support for international election observation and democratic civil society

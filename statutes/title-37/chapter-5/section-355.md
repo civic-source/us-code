@@ -3,9 +3,9 @@ title: "Section 355 - Special pay: retention incentives for members qualified in
 usc_title: 37
 usc_section: "355"
 chapter: 5
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 355"
-generated_at: "2026-03-30T02:10:28.801Z"
+generated_at: "2026-03-30T02:19:09.131Z"
 ---
 
 # § 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units
@@ -32,4 +32,4 @@ generated_at: "2026-03-30T02:10:28.801Z"
   - **(4)** The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
 - **(f)** A retention bonus paid under this section is in addition to any other pay and allowances to which a member is entitled.
 - **(g)** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of section 373 of this title .
-- **(h)** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2024 , and no agreement under this section may be entered into after that date.
+- **(h)** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2025 , and no agreement under this section may be entered into after that date.

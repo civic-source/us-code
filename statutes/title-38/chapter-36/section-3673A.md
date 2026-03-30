@@ -3,9 +3,9 @@ title: "Section 3673A - Risk-based surveys"
 usc_title: 38
 usc_section: "3673A"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3673A"
-generated_at: "2026-03-30T02:10:34.047Z"
+generated_at: "2026-03-30T02:19:11.547Z"
 ---
 
 # § 3673A. Risk-based surveys
@@ -23,4 +23,4 @@ generated_at: "2026-03-30T02:10:34.047Z"
     - **(G)** Review of the advertising and recruiting practices of the educational institution, including those by third-party contractors of the educational institution.
     - **(H)** Matters for which the Federal Government or a State Government brings an action in a court of competent jurisdiction against an educational institution, including matters in cases in which the Federal Government or the State comes to a settled agreement on such matters outside of the court.
 - **(c)** The Secretary, in partnership with the State approving agencies under this chapter, shall establish a searchable database or use an existing system, as the Secretary considers appropriate, to serve as a central repository for information required for or collected during site visits for the risk-based survey developed under subsection (a), so as to improve future oversight of educational institutions with programs of education approved under this chapter.
-- **(d)** To the maximum amount feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than one business day of notice to an educational institution before conducting a targeted risk-based survey of the institution under this section.
+- **(d)** To the maximum amount feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than two business days of notice to an educational institution before conducting a targeted risk-based survey of the institution under this section.

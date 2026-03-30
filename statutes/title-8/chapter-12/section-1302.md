@@ -3,9 +3,9 @@ title: "Section 1302 - Registration of aliens"
 usc_title: 8
 usc_section: "1302"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1302"
-generated_at: "2026-03-30T02:08:16.840Z"
+generated_at: "2026-03-30T02:17:17.710Z"
 ---
 
 # § 1302. Registration of aliens

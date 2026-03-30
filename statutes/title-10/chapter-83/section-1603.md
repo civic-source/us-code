@@ -3,9 +3,9 @@ title: "Section 1603 - Additional compensation, incentives, and allowances"
 usc_title: 10
 usc_section: "1603"
 chapter: 83
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1603"
-generated_at: "2026-03-30T02:08:27.251Z"
+generated_at: "2026-03-30T02:17:31.616Z"
 ---
 
 # § 1603. Additional compensation, incentives, and allowances

@@ -3,9 +3,9 @@ title: "Section 868 - Omitted"
 usc_title: 20
 usc_section: "868"
 chapter: 24
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 868"
-generated_at: "2026-03-30T02:09:00.894Z"
+generated_at: "2026-03-30T02:18:26.543Z"
 ---
 
 # § 868. Omitted

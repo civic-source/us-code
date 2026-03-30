@@ -3,9 +3,9 @@ title: "Section 214 - Employment under special certificates"
 usc_title: 29
 usc_section: "214"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 214"
-generated_at: "2026-03-30T02:09:43.772Z"
+generated_at: "2026-03-30T02:19:02.059Z"
 ---
 
 # § 214. Employment under special certificates

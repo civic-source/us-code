@@ -3,9 +3,9 @@ title: "Section 240107 - Restrictions"
 usc_title: 36
 usc_section: "240107"
 chapter: 2401
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 240107"
-generated_at: "2026-03-30T02:10:31.305Z"
+generated_at: "2026-03-30T02:19:09.911Z"
 ---
 
 # § 240107. Restrictions

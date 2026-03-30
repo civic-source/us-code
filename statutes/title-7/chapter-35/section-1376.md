@@ -3,9 +3,9 @@ title: "Section 1376 - Court jurisdiction; duties of United States attorneys; re
 usc_title: 7
 usc_section: "1376"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 1376"
-generated_at: "2026-03-30T02:08:42.884Z"
+generated_at: "2026-03-30T02:18:00.317Z"
 ---
 
 # § 1376. Court jurisdiction; duties of United States attorneys; remedies and penalties as additional

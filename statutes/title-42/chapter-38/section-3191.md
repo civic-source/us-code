@@ -3,9 +3,9 @@ title: "Section 3191 - Assistant Secretary for Economic Development"
 usc_title: 42
 usc_section: "3191"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3191"
-generated_at: "2026-03-30T02:11:33.185Z"
+generated_at: "2026-03-30T02:19:47.059Z"
 ---
 
 # § 3191. Assistant Secretary for Economic Development

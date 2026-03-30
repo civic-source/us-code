@@ -3,21 +3,21 @@ title: "Section 20404 - Selection of officers for early retirement or discharge"
 usc_title: 10
 usc_section: "20404"
 chapter: 2009
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20404"
-generated_at: "2026-03-30T02:08:27.363Z"
+generated_at: "2026-03-30T02:17:31.725Z"
 ---
 
 # § 20404. Selection of officers for early retirement or discharge
 
-- **(a)** The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the space force 1 1 So in original. Probably should be “Space Force”. officer list as follows:
+- **(a)** The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the Space Force officer list as follows:
   - **(1)** Officers in the grade of lieutenant colonel who have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion.
   - **(2)** Officers in the grade of colonel who have served in that grade for at least two years and whose names are not on a list of officers recommended for promotion.
   - **(3)** Officers, other than those described in paragraphs (1) and (2), holding a grade below the grade of colonel—
     - **(A)** who are eligible for retirement under section 20601 of this title or who after two additional years or less of active service would be eligible for retirement under that section; and
     - **(B)** whose names are not on a list of officers recommended for promotion.
 - **(b)**
-  - **(1)** The Secretary of the Air Force may convene selection boards under section 20211 of this title to consider for discharge officers on the space force 1 officer list—
+  - **(1)** The Secretary of the Air Force may convene selection boards under section 20211 of this title to consider for discharge officers on the Space Force officer list—
     - **(A)** who have served at least one year of active status in the grade currently held;
     - **(B)** whose names are not on a list of officers recommended for promotion; and
     - **(C)** who are not eligible to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993) and are not within two years of becoming so eligible.

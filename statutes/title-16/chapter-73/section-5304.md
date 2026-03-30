@@ -3,9 +3,9 @@ title: "Section 5304 - Rhinoceros and tiger conservation assistance"
 usc_title: 16
 usc_section: "5304"
 chapter: 73
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 5304"
-generated_at: "2026-03-30T02:09:13.521Z"
+generated_at: "2026-03-30T02:18:32.091Z"
 ---
 
 # § 5304. Rhinoceros and tiger conservation assistance
@@ -25,3 +25,6 @@ generated_at: "2026-03-30T02:09:13.521Z"
   - **(3)** develop sound scientific information on that species’ habitat condition and carrying capacity, total numbers and population trends, or annual reproduction and mortality.
 - **(e)** To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects which will enhance sustainable conservation programs to ensure effective long-term conservation of rhinoceros and tigers.
 - **(f)** Each person that receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information requested by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
+- **(g)**
+  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for rhinoceroses or tigers and the habitat of rhinoceroses or tigers.
+  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

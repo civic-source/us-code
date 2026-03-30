@@ -3,9 +3,9 @@ title: "Section 1323 - Functions and authorities"
 usc_title: 41
 usc_section: "1323"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 1323"
-generated_at: "2026-03-30T02:10:42.181Z"
+generated_at: "2026-03-30T02:19:16.713Z"
 ---
 
 # § 1323. Functions and authorities

@@ -3,9 +3,9 @@ title: "Section 4 - Program requirements"
 usc_title: 42
 usc_section: "4"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:11:33.014Z"
+generated_at: "2026-03-30T02:19:46.968Z"
 ---
 
 # § 1437bbb–4. Program requirements

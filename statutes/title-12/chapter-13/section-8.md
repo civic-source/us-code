@@ -3,9 +3,9 @@ title: "Section 8 - Time of payment of premium charges"
 usc_title: 12
 usc_section: "8"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T02:08:53.274Z"
+generated_at: "2026-03-30T02:18:20.481Z"
 ---
 
 # § 1735f–8. Time of payment of premium charges

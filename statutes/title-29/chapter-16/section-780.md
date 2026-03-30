@@ -3,9 +3,9 @@ title: "Section 780 - Establishment of National Council on Disability"
 usc_title: 29
 usc_section: "780"
 chapter: 16
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 780"
-generated_at: "2026-03-30T02:09:43.787Z"
+generated_at: "2026-03-30T02:19:02.075Z"
 ---
 
 # § 780. Establishment of National Council on Disability

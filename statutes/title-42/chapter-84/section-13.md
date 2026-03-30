@@ -3,9 +3,9 @@ title: "Section 13 - Funding of administrative costs"
 usc_title: 42
 usc_section: "13"
 chapter: 84
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T02:11:33.365Z"
+generated_at: "2026-03-30T02:19:47.158Z"
 ---
 
 # § 7385s–13. Funding of administrative costs

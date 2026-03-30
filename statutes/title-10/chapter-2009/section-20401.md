@@ -3,15 +3,15 @@ title: "Section 20401 - Applicability of certain provisions of law related to se
 usc_title: 10
 usc_section: "20401"
 chapter: 2009
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20401"
-generated_at: "2026-03-30T02:08:27.363Z"
+generated_at: "2026-03-30T02:17:31.725Z"
 ---
 
 # § 20401. Applicability of certain provisions of law related to separation
 
 - **(a)** Except as specified in this section or otherwise modified in this chapter, the provisions of chapter 59 of this title applicable to officers of a regular component shall apply to officers of the Space Force.
-- **(b)** Except as specified in this section or otherwise modified in this chapter, the provisions of sections 1169, 1170, 1171, 1173, 1174(b) 1 1 So in original. Probably should be followed by “, and”. 1176(a) of chapter 59 of this title applicable to enlisted members of a regular component shall apply to enlisted members of the Space Force.
+- **(b)** Except as specified in this section or otherwise modified in this chapter, the provisions of sections 1169, 1170, 1171, 1173, 1174(b), and 1176(a) of chapter 59 of this title applicable to enlisted members of a regular component shall apply to enlisted members of the Space Force.
 - **(c)** The provisions of section 1172 of this title pertaining to a person enlisted under section 518 of this title shall apply to an enlisted member of the Space Force.
 - **(d)** The provisions of section 1174 of this title —
   - **(1)** pertaining to a regular officer shall apply to a Space Force officer serving on sustained duty;

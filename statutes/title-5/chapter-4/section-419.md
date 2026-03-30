@@ -3,9 +3,9 @@ title: "Section 419 - Special provisions concerning overseas contingency operati
 usc_title: 5
 usc_section: "419"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 419"
-generated_at: "2026-03-30T02:08:10.369Z"
+generated_at: "2026-03-30T02:17:12.633Z"
 ---
 
 # § 419. Special provisions concerning overseas contingency operations
@@ -55,6 +55,6 @@ generated_at: "2026-03-30T02:08:10.369Z"
   - **(4)** The lead Inspector General for an overseas contingency operation shall discharge the responsibilities for the contingency operation under this subsection in a manner consistent with the authorities and requirements of this chapter generally and the authorities and requirements applicable to the Inspectors General specified in subsection (c) under this chapter.
   - **(5)**
     - **(A)** A person employed by a lead Inspector General for an overseas contingency operation under this section shall acquire competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications upon the completion of 2 years of continuous service as an employee under this section.
-    - **(B)** No person who is first employed as described in subparagraph (A) more than 5 years after December 19, 2019 , 1 may acquire competitive status under subparagraph (A).
+    - **(B)** No person who is first employed as described in subparagraph (A) more than 10 years after December 19, 2019 , 1 may acquire competitive status under subparagraph (A).
 - **(e)** The requirements and authorities of this section with respect to an overseas contingency operation shall cease at the end of the first fiscal year after the commencement or designation of the contingency operation in which the total amount appropriated for the contingency operation is less than $100,000,000.
 - **(f)** Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this chapter with respect to overseas contingency operations.

@@ -3,9 +3,9 @@ title: "Section 697d - Accredited Lenders Program"
 usc_title: 15
 usc_section: "697d"
 chapter: 14
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 697d"
-generated_at: "2026-03-30T02:08:56.127Z"
+generated_at: "2026-03-30T02:18:09.913Z"
 ---
 
 # § 697d. Accredited Lenders Program

@@ -3,9 +3,9 @@ title: "Section 8111 - Additional compensation for services of attendants or voc
 usc_title: 5
 usc_section: "8111"
 chapter: 81
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 8111"
-generated_at: "2026-03-30T02:08:10.425Z"
+generated_at: "2026-03-30T02:17:12.674Z"
 ---
 
 # § 8111. Additional compensation for services of attendants or vocational rehabilitation

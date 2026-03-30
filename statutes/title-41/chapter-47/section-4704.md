@@ -3,9 +3,9 @@ title: "Section 4704 - Prohibition of contractors limiting subcontractor sales d
 usc_title: 41
 usc_section: "4704"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 4704"
-generated_at: "2026-03-30T02:10:42.189Z"
+generated_at: "2026-03-30T02:19:16.722Z"
 ---
 
 # § 4704. Prohibition of contractors limiting subcontractor sales directly to Federal Government

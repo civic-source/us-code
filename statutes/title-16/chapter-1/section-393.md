@@ -3,9 +3,9 @@ title: "Section 393 - Entries under land laws; rights-of-way; lands excluded"
 usc_title: 16
 usc_section: "393"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 393"
-generated_at: "2026-03-30T02:09:13.248Z"
+generated_at: "2026-03-30T02:18:31.856Z"
 ---
 
 # § 393. Entries under land laws; rights-of-way; lands excluded

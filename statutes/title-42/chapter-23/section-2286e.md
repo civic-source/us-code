@@ -3,9 +3,9 @@ title: "Section 2286e - Reports"
 usc_title: 42
 usc_section: "2286e"
 chapter: 23
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2286e"
-generated_at: "2026-03-30T02:11:33.129Z"
+generated_at: "2026-03-30T02:19:47.035Z"
 ---
 
 # § 2286e. Reports

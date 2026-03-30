@@ -3,9 +3,9 @@ title: "Section 1736a - Administrative provisions"
 usc_title: 7
 usc_section: "1736a"
 chapter: 41
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 1736a"
-generated_at: "2026-03-30T02:08:42.907Z"
+generated_at: "2026-03-30T02:18:00.340Z"
 ---
 
 # § 1736a. Administrative provisions

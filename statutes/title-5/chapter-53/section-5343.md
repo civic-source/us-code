@@ -3,9 +3,9 @@ title: "Section 5343 - Prevailing rate determinations; wage schedules; night dif
 usc_title: 5
 usc_section: "5343"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 5343"
-generated_at: "2026-03-30T02:08:10.395Z"
+generated_at: "2026-03-30T02:17:12.656Z"
 ---
 
 # § 5343. Prevailing rate determinations; wage schedules; night differentials
@@ -54,3 +54,7 @@ generated_at: "2026-03-30T02:08:10.395Z"
 - **(f)** A prevailing rate employee is entitled to pay at his scheduled rate plus a night differential—
   - **(1)** amounting to 7½ percent of that scheduled rate for regularly scheduled nonovertime work a majority of the hours of which occur between 3 p.m. and midnight; and
   - **(2)** amounting to 10 percent of that scheduled rate for regularly scheduled nonovertime work a majority of the hours of which occur between 11 p.m. and 8 a.m.
+- **(g)**
+  - **(1)** For a prevailing rate employee described in section 5342(a)(2)(A) who is a wildland firefighter, as defined in section 5332a(a), the Secretary of Agriculture or the Secretary of the Interior (as applicable) shall increase the wage rates of that employee by an amount (determined at the sole and exclusive discretion of the applicable Secretary after consultation with the other Secretary) that is generally consistent with the percentage increases given to wildland firefighters in the General Schedule under section 5332a.
+  - **(2)** An increased wage rate under paragraph (1) shall be basic pay for the same purposes as the wage rate otherwise established under this section.
+  - **(3)** An increase under this subsection may not cause the wage rate of an employee to increase to a rate that would produce an annualized rate in excess of the annual rate for level IV of the Executive Schedule.

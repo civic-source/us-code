@@ -3,9 +3,9 @@ title: "Section 130308 - Records and inspection"
 usc_title: 36
 usc_section: "130308"
 chapter: 1303
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 130308"
-generated_at: "2026-03-30T02:10:31.270Z"
+generated_at: "2026-03-30T02:19:09.900Z"
 ---
 
 # § 130308. Records and inspection

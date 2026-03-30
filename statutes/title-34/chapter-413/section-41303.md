@@ -3,9 +3,9 @@ title: "Section 41303 - Uniform Federal Crime Reporting Act of 1988"
 usc_title: 34
 usc_section: "41303"
 chapter: 413
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 41303"
-generated_at: "2026-03-30T02:10:13.923Z"
+generated_at: "2026-03-30T02:19:05.057Z"
 ---
 
 # § 41303. Uniform Federal Crime Reporting Act of 1988

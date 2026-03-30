@@ -3,9 +3,9 @@ title: "Section 2521 - Stockpile stewardship program"
 usc_title: 50
 usc_section: "2521"
 chapter: 42
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2521"
-generated_at: "2026-03-30T02:11:41.491Z"
+generated_at: "2026-03-30T02:19:57.475Z"
 ---
 
 # § 2521. Stockpile stewardship program
@@ -14,14 +14,14 @@ generated_at: "2026-03-30T02:11:41.491Z"
   - **(1)** the preservation of the core intellectual and technical competencies of the United States in nuclear weapons, including weapons design, system integration, manufacturing, security, use control, reliability assessment, and certification; and
   - **(2)** that the nuclear weapons stockpile is safe, secure, and reliable without the use of underground nuclear weapons testing.
 - **(b)** The program shall include the following:
-  - **(1)** An increased level of effort for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
-  - **(2)** An increased level of effort for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
-  - **(3)** Support for new facilities construction projects that contribute to the experimental capabilities of the United States, such as an advanced hydrodynamics facility, the National Ignition Facility, and other facilities for above-ground experiments to assess nuclear weapons effects.
-  - **(4)** Support for the use of, and experiments facilitated by, the advanced experimental facilities of the United States, including—
+  - **(1)** An increased level of effort for the construction of new facilities and the modernization of existing facilities with production and manufacturing capabilities that are necessary to support the deterrence of strategic attacks against the United States by maintaining and enhancing the performance, reliability, and security of the United States nuclear weapons stockpile, including—
+    - **(A)** the nuclear weapons production facilities; and
+    - **(B)** production and manufacturing capabilities resident in the national security laboratories.
+  - **(2)** Support for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
+  - **(3)** Support for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
+  - **(4)** Support for the modernization of facilities and projects that contribute to the experimental capabilities of the United States that support the sustainment and modernization of the United States nuclear weapons stockpile and the capabilities required to assess nuclear weapons effects.
+  - **(5)** Support for the use of, and experiments facilitated by, the advanced experimental facilities of the United States, including—
     - **(A)** the National Ignition Facility at Lawrence Livermore National Laboratory;
     - **(B)** the Dual Axis Radiographic Hydrodynamic Test Facility at Los Alamos National Laboratory;
     - **(C)** the Z Machine at Sandia National Laboratories; and
     - **(D)** the experimental facilities at the Nevada National Security Site.
-  - **(5)** Support for the sustainment and modernization of facilities with production and manufacturing capabilities that are necessary to ensure the safety, security, and reliability of the nuclear weapons stockpile, including—
-    - **(A)** the nuclear weapons production facilities; and
-    - **(B)** production and manufacturing capabilities resident in the national security laboratories.

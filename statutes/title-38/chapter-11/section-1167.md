@@ -3,9 +3,9 @@ title: "Section 1167 - Mental health consultations"
 usc_title: 38
 usc_section: "1167"
 chapter: 11
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 1167"
-generated_at: "2026-03-30T02:10:34.017Z"
+generated_at: "2026-03-30T02:19:11.515Z"
 ---
 
 # § 1167. 1 1 Another section 1167 is set out preceding section 1168. Mental health consultations

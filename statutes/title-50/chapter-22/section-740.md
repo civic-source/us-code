@@ -3,9 +3,9 @@ title: "Section 740 - Omitted"
 usc_title: 50
 usc_section: "740"
 chapter: 22
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 740"
-generated_at: "2026-03-30T02:11:41.450Z"
+generated_at: "2026-03-30T02:19:57.450Z"
 ---
 
 # § 740. Omitted

@@ -3,9 +3,9 @@ title: "Section 19034 - Online resource"
 usc_title: 42
 usc_section: "19034"
 chapter: 163
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19034"
-generated_at: "2026-03-30T02:11:33.756Z"
+generated_at: "2026-03-30T02:19:47.400Z"
 ---
 
 # § 19034. Online resource

@@ -3,9 +3,9 @@ title: "Section 6474 - Studies on effect of expedited removal provisions on asyl
 usc_title: 22
 usc_section: "6474"
 chapter: 73
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 6474"
-generated_at: "2026-03-30T02:09:40.036Z"
+generated_at: "2026-03-30T02:18:41.655Z"
 ---
 
 # § 6474. Studies on effect of expedited removal provisions on asylum claims

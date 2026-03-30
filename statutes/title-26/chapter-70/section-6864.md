@@ -3,9 +3,9 @@ title: "Section 6864 - Termination of extended period for payment in case of car
 usc_title: 26
 usc_section: "6864"
 chapter: 70
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6864"
-generated_at: "2026-03-30T02:10:03.037Z"
+generated_at: "2026-03-30T02:18:56.554Z"
 ---
 
 # § 6864. Termination of extended period for payment in case of carryback

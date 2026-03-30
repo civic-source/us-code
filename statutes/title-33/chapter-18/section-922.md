@@ -3,9 +3,9 @@ title: "Section 922 - Modification of awards"
 usc_title: 33
 usc_section: "922"
 chapter: 18
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 922"
-generated_at: "2026-03-30T02:10:26.039Z"
+generated_at: "2026-03-30T02:19:06.985Z"
 ---
 
 # § 922. Modification of awards

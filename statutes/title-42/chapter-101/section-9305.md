@@ -3,9 +3,9 @@ title: "Section 9305 - Magnetic fusion engineering center"
 usc_title: 42
 usc_section: "9305"
 chapter: 101
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9305"
-generated_at: "2026-03-30T02:11:33.460Z"
+generated_at: "2026-03-30T02:19:47.219Z"
 ---
 
 # § 9305. Magnetic fusion engineering center

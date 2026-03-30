@@ -3,9 +3,9 @@ title: "Section 3594 - Guaranteed placement in other personnel systems"
 usc_title: 5
 usc_section: "3594"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 3594"
-generated_at: "2026-03-30T02:08:10.389Z"
+generated_at: "2026-03-30T02:17:12.650Z"
 ---
 
 # § 3594. Guaranteed placement in other personnel systems

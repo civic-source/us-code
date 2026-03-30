@@ -3,9 +3,9 @@ title: "Section 50 - Turtle Bay and Turtle Bayou, Texas"
 usc_title: 33
 usc_section: "50"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 50"
-generated_at: "2026-03-30T02:10:26.012Z"
+generated_at: "2026-03-30T02:19:06.959Z"
 ---
 
 # § 50. Turtle Bay and Turtle Bayou, Texas

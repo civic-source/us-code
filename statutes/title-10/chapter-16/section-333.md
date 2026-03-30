@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-30T02:08:27.179Z"
+generated_at: "2026-03-30T02:17:31.555Z"
 ---
 
 # § 333. Foreign security forces: authority to build capacity
@@ -56,9 +56,7 @@ generated_at: "2026-03-30T02:08:27.179Z"
   - **(3)** Information, by recipient country, on the status of funds allocated for programs under subsection (a), including amounts of unobligated funds, unliquidated obligations, and disbursements.
 - **(g)**
   - **(1)** Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
-  - **(2)**
-    - **(A)** Amounts available in a fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the second fiscal year thereafter.
-    - **(B)** If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
+  - **(2)** Amounts made available in fiscal year 2025 or any subsequent fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the third fiscal year thereafter.
 - **(h)**
   - **(1)** The Secretary of Defense may treat as stocks of the Department of Defense—
     - **(A)** equipment procured to carry out a program pursuant to subsection (a) that has not yet been transferred to a foreign country and is no longer needed to support such program or any other program carried out pursuant to such subsection; and

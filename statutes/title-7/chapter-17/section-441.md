@@ -3,9 +3,9 @@ title: "Section 441 - Repealed. Pub. L. 85–36, title I, § 111 , May 23, 1957 
 usc_title: 7
 usc_section: "441"
 chapter: 17
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 441"
-generated_at: "2026-03-30T02:08:42.862Z"
+generated_at: "2026-03-30T02:18:00.297Z"
 ---
 
 # § 441. Repealed. Pub. L. 85–36, title I, § 111 , May 23, 1957 , 71 Stat. 35

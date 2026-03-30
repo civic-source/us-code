@@ -3,9 +3,9 @@ title: "Section 12403 - Application requirements"
 usc_title: 34
 usc_section: "12403"
 chapter: 121
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 12403"
-generated_at: "2026-03-30T02:10:13.893Z"
+generated_at: "2026-03-30T02:19:05.027Z"
 ---
 
 # § 12403. Application requirements

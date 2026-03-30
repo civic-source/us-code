@@ -1,14 +1,14 @@
 ---
-title: "Section 46106 - Annual report"
+title: "Section 46106 - Annual report and public disclosure"
 usc_title: 46
 usc_section: "46106"
 chapter: 461
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 46106"
-generated_at: "2026-03-30T02:11:43.111Z"
+generated_at: "2026-03-30T02:19:51.543Z"
 ---
 
-# § 46106. Annual report
+# § 46106. Annual report and public disclosure
 
 - **(a)** Not later than April 1 of each year, the Federal Maritime Commission shall submit a report to Congress. The report shall include the results of its investigations, a summary of its transactions, the purposes for which all of its expenditures were made, and any recommendations for legislation.
 - **(b)** The Commission shall include in its annual report to Congress—

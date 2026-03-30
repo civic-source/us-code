@@ -3,9 +3,9 @@ title: "Section 121b - Transferred"
 usc_title: 2
 usc_section: "121b"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 121b"
-generated_at: "2026-03-30T02:07:57.481Z"
+generated_at: "2026-03-30T02:16:56.666Z"
 ---
 
 # § 121b. Transferred

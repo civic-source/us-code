@@ -3,9 +3,9 @@ title: "Section 1057 - Preparation of annual report by Director"
 usc_title: 16
 usc_section: "1057"
 chapter: 20
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 1057"
-generated_at: "2026-03-30T02:09:13.420Z"
+generated_at: "2026-03-30T02:18:32.000Z"
 ---
 
 # § 1057. Preparation of annual report by Director

@@ -3,9 +3,9 @@ title: "Section 31304 - Employer responsibilities"
 usc_title: 49
 usc_section: "31304"
 chapter: 313
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 31304"
-generated_at: "2026-03-30T02:11:47.395Z"
+generated_at: "2026-03-30T02:19:55.122Z"
 ---
 
 # § 31304. Employer responsibilities

@@ -3,9 +3,9 @@ title: "Section 4341 - Definitions"
 usc_title: 22
 usc_section: "4341"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4341"
-generated_at: "2026-03-30T02:09:40.016Z"
+generated_at: "2026-03-30T02:18:41.628Z"
 ---
 
 # § 4341. Definitions

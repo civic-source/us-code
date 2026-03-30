@@ -3,9 +3,9 @@ title: "Section 392a - Principal Cyber Advisors"
 usc_title: 10
 usc_section: "392a"
 chapter: 19
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 392a"
-generated_at: "2026-03-30T02:08:27.183Z"
+generated_at: "2026-03-30T02:17:31.558Z"
 ---
 
 # § 392a. Principal Cyber Advisors
@@ -54,7 +54,7 @@ generated_at: "2026-03-30T02:08:27.183Z"
       - **(vi)** To advise senior leadership of the Department on, and advocate for, investment in capabilities to execute Department missions in and through cyberspace.
       - **(vii)** To identify shortfalls in capabilities to conduct Department missions in and through cyberspace, and make recommendations on addressing such shortfalls in the Program Budget Review process.
       - **(viii)** To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.
-      - **(ix)** On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) 1 1 So in original. Probably should be preceded by “section”. of the National Defense Authorization Act for Fiscal Year 2014 ( 10 U.S.C. 2224 note) 2 2 See References in Text note below. in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
+      - **(ix)** On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 ( 10 U.S.C. 2224 note) 1 1 See References in Text note below. in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
 - **(c)**
   - **(1)**
     - **(A)** Not later than 270 days after the date of the enactment of this Act, each of the secretaries of the military departments, in consultation with the service chiefs, shall appoint an independent Principal Cyber Advisor for each service to act as the principal advisor to the relevant secretary on all cyber matters affecting that military service.

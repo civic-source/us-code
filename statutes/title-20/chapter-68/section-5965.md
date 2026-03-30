@@ -3,9 +3,9 @@ title: "Section 5965 - Use of funds"
 usc_title: 20
 usc_section: "5965"
 chapter: 68
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 5965"
-generated_at: "2026-03-30T02:09:00.993Z"
+generated_at: "2026-03-30T02:18:26.644Z"
 ---
 
 # § 5965. Use of funds

@@ -3,9 +3,9 @@ title: "Section 617l - Colorado River compact approval"
 usc_title: 43
 usc_section: "617l"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 617l"
-generated_at: "2026-03-30T02:10:37.032Z"
+generated_at: "2026-03-30T02:19:17.890Z"
 ---
 
 # § 617l. Colorado River compact approval

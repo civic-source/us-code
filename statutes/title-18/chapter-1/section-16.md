@@ -3,9 +3,9 @@ title: "Section 16 - Crime of violence defined"
 usc_title: 18
 usc_section: "16"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 16"
-generated_at: "2026-03-30T02:09:08.269Z"
+generated_at: "2026-03-30T02:18:24.450Z"
 ---
 
 # § 16. Crime of violence defined

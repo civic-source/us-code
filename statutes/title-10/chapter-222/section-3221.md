@@ -3,9 +3,9 @@ title: "Section 3221 - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "3221"
 chapter: 222
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3221"
-generated_at: "2026-03-30T02:08:27.295Z"
+generated_at: "2026-03-30T02:17:31.659Z"
 ---
 
 # § 3221. Director of Cost Assessment and Program Evaluation
@@ -24,11 +24,10 @@ generated_at: "2026-03-30T02:08:27.295Z"
   - **(5)** review all cost estimates and cost analyses conducted in connection with major defense acquisition programs and major subprograms;
   - **(6)** conduct or approve independent cost estimates and cost analyses for all major defense acquisition programs and major subprograms—
     - **(A)** in advance of—
-      - **(i)** any decision to grant milestone approval pursuant to section 4251 or 4252 of this title;
+      - **(i)** any decision to grant milestone approval pursuant to section 4252 of this title ;
       - **(ii)** any decision to enter into low-rate initial production or full-rate production;
-      - **(iii)** any certification under section 4376 of this title ;
-      - **(iv)** any report under section 2445c(f) 1 1 See References in Text note below. of this title; and
-      - **(v)** any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
+      - **(iii)** any certification under section 4376 of this title ; and
+      - **(iv)** any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
     - **(B)** at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition and Sustainment, or upon the request of the milestone decision authority;
   - **(7)** periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation; and
   - **(8)** annually review the cost and associated information required to be included, by section 4351(c)(1) of this title , in the Selected Acquisition Reports required by that section.

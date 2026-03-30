@@ -3,9 +3,9 @@ title: "Section 403d - Lease of lands within Shenandoah National Park and Great 
 usc_title: 16
 usc_section: "403d"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 403d"
-generated_at: "2026-03-30T02:09:13.251Z"
+generated_at: "2026-03-30T02:18:31.858Z"
 ---
 
 # § 403d. Lease of lands within Shenandoah National Park and Great Smoky Mountains National Park

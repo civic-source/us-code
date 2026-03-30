@@ -3,9 +3,9 @@ title: "Section 2005 - Soil and water conservation program"
 usc_title: 16
 usc_section: "2005"
 chapter: 40
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 2005"
-generated_at: "2026-03-30T02:09:13.473Z"
+generated_at: "2026-03-30T02:18:32.053Z"
 ---
 
 # § 2005. Soil and water conservation program

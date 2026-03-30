@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 38
 usc_section: "101"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 101"
-generated_at: "2026-03-30T02:10:34.008Z"
+generated_at: "2026-03-30T02:19:11.505Z"
 ---
 
 # § 101. Definitions
@@ -14,7 +14,7 @@ For the purposes of this title—
 
   - **(1)** The terms “Secretary” and “Department” mean the Secretary of Veterans Affairs and the Department of Veterans Affairs, respectively.
   - **(2)** The term “veteran” means a person who served in the active military, naval, air, or space service, and who was discharged or released therefrom under conditions other than dishonorable.
-  - **(3)** The term “surviving spouse” means (except for purposes of chapter 19 of this title) a person of the opposite sex who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried or (in cases not involving remarriage) has not since the death of the veteran, and after September 19, 1962 , lived with another person and held himself or herself out openly to the public to be the spouse of such other person.
+  - **(3)** The term “surviving spouse” means (except for purposes of chapter 19 of this title) a person who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried.
   - **(4)**
     - **(A)** The term “child” means (except for purposes of chapter 19 of this title (other than with respect to a child who is an insurable dependent under subparagraph (B) or (C) of section 1965(10) of such chapter) and section 8502(b) of this title ) a person who is unmarried and—
       - **(i)** who is under the age of eighteen years;

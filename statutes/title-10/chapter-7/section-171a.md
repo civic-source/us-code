@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T02:08:27.171Z"
+generated_at: "2026-03-30T02:17:31.548Z"
 ---
 
 # § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System

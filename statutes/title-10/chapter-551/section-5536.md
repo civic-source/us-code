@@ -1,0 +1,24 @@
+---
+title: "Section 5536 - Testing and assessment of missile defense systems prior to production and deployment"
+usc_title: 10
+usc_section: "5536"
+chapter: 551
+current_through: "PL 119-4"
+classification: "10 U.S.C. § 5536"
+generated_at: "2026-03-30T02:17:31.681Z"
+---
+
+# § 5536. Testing and assessment of missile defense systems prior to production and deployment
+
+- **(a)** The Secretary of Defense may not make a final production decision for, or operationally deploy, a covered system unless—
+  - **(1)** the Secretary ensures that—
+    - **(A)** sufficient and operationally realistic testing of the covered system is conducted to assess the performance of the covered system in order to inform a final production decision or an operational deployment decision; and
+    - **(B)** the results of such testing have demonstrated a high probability that the covered system—
+      - **(i)** will work in an operationally effective manner; and
+      - **(ii)** has the ability to accomplish the intended mission of the covered system; and
+  - **(2)** the Director of Operational Test and Evaluation has carried out subsection (b) with respect to such covered system.
+- **(b)** The Director of Operational Test and Evaluation shall—
+  - **(1)** provide to the Secretary the assessment of the Director, based on the available test data, of the sufficiency, adequacy, and results of the testing of each covered system, including an assessment of whether the covered system will be sufficiently effective, suitable, and survivable when needed; and
+  - **(2)** submit to the congressional defense committees a written summary of such assessment.
+- **(c)** Nothing in this section shall be construed to alter, modify, or otherwise affect a determination of the Secretary with respect to the participation of the Missile Defense Agency in the Joint Capabilities Integration Development System or the acquisition reporting process under the Department of Defense Directive 5000 series, or to diminish the authority of the Secretary of Defense to deploy a missile defense system at the date on which the Secretary determines appropriate.
+- **(d)** In this section, the term “covered system” means a new or substantially upgraded interceptor or weapon system of the ballistic missile defense system.

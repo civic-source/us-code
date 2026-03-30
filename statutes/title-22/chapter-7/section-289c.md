@@ -3,9 +3,9 @@ title: "Section 289c - Transfer of funds; furnishing supplies and services; acco
 usc_title: 22
 usc_section: "289c"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 289c"
-generated_at: "2026-03-30T02:09:39.924Z"
+generated_at: "2026-03-30T02:18:41.503Z"
 ---
 
 # § 289c. Transfer of funds; furnishing supplies and services; accounting for reimbursements

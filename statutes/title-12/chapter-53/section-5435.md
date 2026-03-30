@@ -3,9 +3,9 @@ title: "Section 5435 - Disposition of affairs"
 usc_title: 12
 usc_section: "5435"
 chapter: 53
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 5435"
-generated_at: "2026-03-30T02:08:53.374Z"
+generated_at: "2026-03-30T02:18:20.588Z"
 ---
 
 # § 5435. Disposition of affairs

@@ -3,9 +3,9 @@ title: "Section 4088 - Confidential business information"
 usc_title: 19
 usc_section: "4088"
 chapter: 26
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 4088"
-generated_at: "2026-03-30T02:09:03.129Z"
+generated_at: "2026-03-30T02:18:27.901Z"
 ---
 
 # § 4088. Confidential business information

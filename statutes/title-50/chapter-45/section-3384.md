@@ -3,9 +3,9 @@ title: "Section 3384 - Intelligence Community Counterintelligence Office at the 
 usc_title: 50
 usc_section: "3384"
 chapter: 45
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3384"
-generated_at: "2026-03-30T02:11:41.552Z"
+generated_at: "2026-03-30T02:19:57.510Z"
 ---
 
 # § 3384. Intelligence Community Counterintelligence Office at the Department of Agriculture

@@ -3,9 +3,9 @@ title: "Section 802 - Art. 2. Persons subject to this chapter"
 usc_title: 10
 usc_section: "802"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 802"
-generated_at: "2026-03-30T02:08:27.200Z"
+generated_at: "2026-03-30T02:17:31.573Z"
 ---
 
 # § 802. Art. 2. Persons subject to this chapter
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T02:08:27.200Z"
   - **(11)** Subject to any treaty or agreement to which the United States is or may be a party or to any accepted rule of international law, persons serving with, employed by, or accompanying the armed forces outside the United States and outside the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
   - **(12)** Subject to any treaty or agreement to which the United States is or may be a party or to any accepted rule of international law, persons within an area leased by or otherwise reserved or acquired for the use of the United States which is under the control of the Secretary concerned and which is outside the United States and outside the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
   - **(13)** Individuals belonging to one of the eight categories enumerated in Article 4 of the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316), who violate the law of war.
-  - **(14)** Retired members of the Space Force who qualified for a regular retirement under section 20603 of this title and are receiving retired pay.
+  - **(14)** Retired members of the Space Force who qualified for a regular retirement under section 20601 or 20603 of this title and are receiving retired pay.
 - **(b)** The voluntary enlistment of any person who has the capacity to understand the significance of enlisting in the armed forces shall be valid for purposes of jurisdiction under subsection (a) and a change of status from civilian to member of the armed forces shall be effective upon the taking of the oath of enlistment.
 - **(c)** Notwithstanding any other provision of law, a person serving with an armed force who—
   - **(1)** submitted voluntarily to military authority;

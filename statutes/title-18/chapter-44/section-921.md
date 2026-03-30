@@ -3,9 +3,9 @@ title: "Section 921 - Definitions"
 usc_title: 18
 usc_section: "921"
 chapter: 44
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 921"
-generated_at: "2026-03-30T02:09:08.285Z"
+generated_at: "2026-03-30T02:18:24.465Z"
 ---
 
 # § 921. Definitions
@@ -109,4 +109,9 @@ generated_at: "2026-03-30T02:09:08.285Z"
       - **(ii)** the nature of the relationship; and
       - **(iii)** the frequency and type of interaction between the individuals involved in the relationship.
     - **(C)** A casual acquaintanceship or ordinary fraternization in a business or social context does not constitute a dating relationship under subparagraph (A).
+  - **(38)** The term “verified electronic notification”, with respect to a communication to a chief law enforcement officer required under section 922(c)(2), means a digital communication—
+    - **(A)** sent to the electronic communication address that the chief law enforcement officer voluntarily designates for the purpose of receiving those communications; and
+    - **(B)** that includes a method for verifying—
+      - **(i)** the receipt of the communication; and
+      - **(ii)** the electronic communication address to which the communication is sent.
 - **(b)** For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.

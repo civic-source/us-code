@@ -3,9 +3,9 @@ title: "Section 2083 - Congressional veto of consumer product safety rules"
 usc_title: 15
 usc_section: "2083"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2083"
-generated_at: "2026-03-30T02:08:56.181Z"
+generated_at: "2026-03-30T02:18:09.965Z"
 ---
 
 # § 2083. Congressional veto of consumer product safety rules

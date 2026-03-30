@@ -3,9 +3,9 @@ title: "Section 1395o - Eligible individuals"
 usc_title: 42
 usc_section: "1395o"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395o"
-generated_at: "2026-03-30T02:11:32.803Z"
+generated_at: "2026-03-30T02:19:46.843Z"
 ---
 
 # § 1395o. Eligible individuals

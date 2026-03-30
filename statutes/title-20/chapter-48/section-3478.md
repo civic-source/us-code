@@ -3,9 +3,9 @@ title: "Section 3478 - Facilities at remote locations"
 usc_title: 20
 usc_section: "3478"
 chapter: 48
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 3478"
-generated_at: "2026-03-30T02:09:00.982Z"
+generated_at: "2026-03-30T02:18:26.632Z"
 ---
 
 # § 3478. Facilities at remote locations

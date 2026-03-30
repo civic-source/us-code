@@ -3,9 +3,9 @@ title: "Section 352 - Game refuge; killing game"
 usc_title: 16
 usc_section: "352"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 352"
-generated_at: "2026-03-30T02:09:13.246Z"
+generated_at: "2026-03-30T02:18:31.855Z"
 ---
 
 # § 352. Game refuge; killing game

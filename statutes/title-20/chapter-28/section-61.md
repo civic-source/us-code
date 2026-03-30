@@ -3,9 +3,9 @@ title: "Section 61 - Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 199
 usc_title: 20
 usc_section: "61"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 61"
-generated_at: "2026-03-30T02:09:00.912Z"
+generated_at: "2026-03-30T02:18:26.561Z"
 ---
 
 # § 1070a–61. Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664

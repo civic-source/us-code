@@ -3,9 +3,9 @@ title: "Section 47130 - Airport safety data collection"
 usc_title: 49
 usc_section: "47130"
 chapter: 471
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 47130"
-generated_at: "2026-03-30T02:11:47.462Z"
+generated_at: "2026-03-30T02:19:55.164Z"
 ---
 
 # § 47130. Airport safety data collection

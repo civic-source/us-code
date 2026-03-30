@@ -3,9 +3,9 @@ title: "Section 24316 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "24316"
 chapter: 243
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 24316"
-generated_at: "2026-03-30T02:11:47.372Z"
+generated_at: "2026-03-30T02:19:55.110Z"
 ---
 
 # § 24316. Plans to address needs of families of passengers involved in rail passenger accidents

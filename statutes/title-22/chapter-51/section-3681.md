@@ -3,9 +3,9 @@ title: "Section 3681 - Retirement under special treaty provisions"
 usc_title: 22
 usc_section: "3681"
 chapter: 51
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3681"
-generated_at: "2026-03-30T02:09:39.999Z"
+generated_at: "2026-03-30T02:18:41.606Z"
 ---
 
 # § 3681. Retirement under special treaty provisions

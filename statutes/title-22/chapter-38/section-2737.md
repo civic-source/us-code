@@ -3,9 +3,9 @@ title: "Section 2737 - Department of State paid Student Internship Program"
 usc_title: 22
 usc_section: "2737"
 chapter: 38
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2737"
-generated_at: "2026-03-30T02:09:39.985Z"
+generated_at: "2026-03-30T02:18:41.586Z"
 ---
 
 # § 2737. Department of State paid Student Internship Program
@@ -16,9 +16,9 @@ generated_at: "2026-03-30T02:09:39.985Z"
     - **(A)** an institution of higher education (as such term is defined in section 1002(a) of title 20 ); or
     - **(B)** an institution of higher education based outside the United States, as determined by the Secretary of State.
   - **(2)** An applicant in the Program should be—
-    - **(A)** enrolled at least half-time in an institution described in paragraph (1); and
+    - **(A)** enrolled at least half-time in an institution described in paragraph (1) or have graduated from such an institution within the six months preceding application to the Program; and
     - **(B)** eligible to receive and hold an appropriate security clearance.
-- **(c)** The Secretary shall establish selection criteria for students to be admitted into the Program that includes a demonstrated interest in a career in foreign affairs.
+- **(c)** The Secretary shall establish selection criteria for students to be admitted into the Program that includes a demonstrated interest in a career in foreign affairs and gives preference as appropriate to individuals who have not previously completed internships within the Department of State and the United States Agency for International Development.
 - **(d)** The Secretary shall—
   - **(1)** widely advertise the Program, including—
     - **(A)** on the internet;
@@ -62,3 +62,5 @@ generated_at: "2026-03-30T02:09:39.985Z"
 - **(j)** Notwithstanding any other provision of law, the Secretary, in consultation with the Director of the Office of Personnel Management, with respect to the number of interns to be hired each year, may—
   - **(1)** select, appoint, and employ individuals for up to 1 year through compensated internships in the excepted service; and
   - **(2)** remove any compensated intern employed pursuant to paragraph (1) without regard to the provisions of law governing appointments in the excepted service.
+- **(k)** Students participating in the Program may work fewer than 40 hours per week and a minimum of 24 hours per week to accommodate their academic schedules, provided that the total duration of the internship remains consistent with program requirements.
+- **(l)** The Secretary and Administrator are authorized to establish a mentoring and coaching program that pairs Foreign Service or Civil Service employees with interns who choose to participate throughout the duration of their internship.

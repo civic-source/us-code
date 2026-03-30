@@ -3,9 +3,9 @@ title: "Section 567 - Water rights for towns and cities; charges"
 usc_title: 43
 usc_section: "567"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 567"
-generated_at: "2026-03-30T02:10:37.030Z"
+generated_at: "2026-03-30T02:19:17.888Z"
 ---
 
 # § 567. Water rights for towns and cities; charges

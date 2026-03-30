@@ -3,9 +3,9 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-30T02:08:27.242Z"
+generated_at: "2026-03-30T02:17:31.607Z"
 ---
 
 # § 1448. Application of Plan
@@ -110,7 +110,7 @@ generated_at: "2026-03-30T02:08:27.242Z"
     - **(F)** An election under this paragraph is irrevocable.
 - **(c)** The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2)(B), 1 1 See References in Text note below. the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
+  - **(1)** Except as provided in paragraph (2), the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
     - **(A)** a member who dies while on active duty after—
       - **(i)** becoming eligible to receive retired pay;
       - **(ii)** qualifying for retired pay except that the member has not applied for or been granted that pay; or

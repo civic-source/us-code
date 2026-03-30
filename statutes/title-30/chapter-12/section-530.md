@@ -3,9 +3,9 @@ title: "Section 530 - Definitions"
 usc_title: 30
 usc_section: "530"
 chapter: 12
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "30 U.S.C. § 530"
-generated_at: "2026-03-30T02:09:42.572Z"
+generated_at: "2026-03-30T02:18:44.855Z"
 ---
 
 # § 530. Definitions

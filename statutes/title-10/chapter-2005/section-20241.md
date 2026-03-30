@@ -3,9 +3,9 @@ title: "Section 20241 - Removal of officers from a list of officers recommended 
 usc_title: 10
 usc_section: "20241"
 chapter: 2005
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20241"
-generated_at: "2026-03-30T02:08:27.363Z"
+generated_at: "2026-03-30T02:17:31.724Z"
 ---
 
 # § 20241. Removal of officers from a list of officers recommended for promotion
@@ -20,4 +20,4 @@ generated_at: "2026-03-30T02:08:27.363Z"
 - **(e)**
   - **(1)** An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer’s grade and competitive category and the officer is promoted, the Secretary of the Air Force may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the Space Force officer list, as the officer would have had if the officer’s name had not been removed from the list.
   - **(2)** If such an officer who is in a grade below the grade of colonel is not recommended for promotion by the next selection board convened for the officer’s grade and competitive category, or if the officer’s name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, the officer shall be considered for all purposes to have failed of selection for promotion to the next higher grade.
-- **(f)** Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 14310 of this title shall apply in the same manner to functions of the President under this section.
+- **(f)** Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 629 or 14310 of this title shall apply in the same manner to functions of the President under this section.

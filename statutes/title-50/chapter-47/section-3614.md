@@ -3,9 +3,9 @@ title: "Section 3614 - Louis Stokes Educational Scholarship Program"
 usc_title: 50
 usc_section: "3614"
 chapter: 47
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3614"
-generated_at: "2026-03-30T02:11:41.560Z"
+generated_at: "2026-03-30T02:19:57.517Z"
 ---
 
 # § 3614. Louis Stokes Educational Scholarship Program
@@ -26,7 +26,7 @@ generated_at: "2026-03-30T02:11:41.560Z"
   - **(3)**
     - **(A)** A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under an agreement described in paragraph (1) if the final decree of the discharge in bankruptcy is issued within five years after the last day of the combined period of service obligation described in subparagraphs (A) and (B) of paragraph (1).
     - **(B)** The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
-    - **(C)** The Secretary of Defense shall permit an 1 1 So in original. program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
+    - **(C)** The Secretary of Defense shall permit a program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
 - **(e)** Agency efforts to recruit individuals at educational institutions for participation in the undergraduate and graduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions.
 - **(f)** Chapter 41 of title 5 and subsections (a) and (b) of section 3324 of title 31 shall not apply with respect to this section.
 - **(g)** The Secretary of Defense may issue such regulations as may be necessary to implement this section.

@@ -3,9 +3,9 @@ title: "Section 283c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "283c"
 chapter: 7
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 283c"
-generated_at: "2026-03-30T02:09:39.916Z"
+generated_at: "2026-03-30T02:18:41.492Z"
 ---
 
 # § 283c. Congressional authorization needed for certain actions

@@ -3,9 +3,9 @@ title: "Section 11 - Program"
 usc_title: 42
 usc_section: "11"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T02:11:33.179Z"
+generated_at: "2026-03-30T02:19:47.055Z"
 ---
 
 # § 3057k–11. Program

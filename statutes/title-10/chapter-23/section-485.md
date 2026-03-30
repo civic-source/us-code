@@ -1,16 +1,16 @@
 ---
-title: "Section 485 - Monthly counterterrorism operations briefings"
+title: "Section 485 - Quarterly briefings on counterterrorism operations, irregular warfare, and sensitive activities"
 usc_title: 10
 usc_section: "485"
 chapter: 23
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 485"
-generated_at: "2026-03-30T02:08:27.186Z"
+generated_at: "2026-03-30T02:17:31.561Z"
 ---
 
-# § 485. Monthly counterterrorism operations briefings
+# § 485. Quarterly briefings on counterterrorism operations, irregular warfare, and sensitive activities
 
-- **(a)** The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities, including the use of military force under the notion of collective self-defense of foreign partners.
+- **(a)** The Secretary of Defense shall provide to the congressional defense committees quarterly briefings on counterterrorism operations and related activities (including the use of military force under the notion of collective self-defense of foreign partners), irregular warfare activities, and other sensitive activities conducted by the Department of Defense.
 - **(b)** Each briefing under subsection (a) shall include each of the following:
   - **(1)** A global update on activity within each geographic combatant command and how such activity supports the respective theater campaign plan.
   - **(2)** An overview of authorities and legal issues, including limitations.

@@ -3,9 +3,9 @@ title: "Section 4019 - Payment of claims"
 usc_title: 42
 usc_section: "4019"
 chapter: 50
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4019"
-generated_at: "2026-03-30T02:11:33.207Z"
+generated_at: "2026-03-30T02:19:47.070Z"
 ---
 
 # § 4019. Payment of claims

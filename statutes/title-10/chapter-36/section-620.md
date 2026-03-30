@@ -3,9 +3,9 @@ title: "Section 620 - Active-duty lists"
 usc_title: 10
 usc_section: "620"
 chapter: 36
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 620"
-generated_at: "2026-03-30T02:08:27.193Z"
+generated_at: "2026-03-30T02:17:31.567Z"
 ---
 
 # § 620. Active-duty lists

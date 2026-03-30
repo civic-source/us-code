@@ -3,9 +3,9 @@ title: "Section 305 - Growth projections for new embassies and consulates"
 usc_title: 22
 usc_section: "305"
 chapter: 8
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 305"
-generated_at: "2026-03-30T02:09:39.928Z"
+generated_at: "2026-03-30T02:18:41.508Z"
 ---
 
 # § 305. Growth projections for new embassies and consulates

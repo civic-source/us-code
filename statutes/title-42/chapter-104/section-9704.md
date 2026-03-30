@@ -3,9 +3,9 @@ title: "Section 9704 - National reactor engineering simulator feasibility study"
 usc_title: 42
 usc_section: "9704"
 chapter: 104
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9704"
-generated_at: "2026-03-30T02:11:33.480Z"
+generated_at: "2026-03-30T02:19:47.232Z"
 ---
 
 # § 9704. National reactor engineering simulator feasibility study

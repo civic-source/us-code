@@ -3,9 +3,9 @@ title: "Section 104909 - Wildlife management in parks"
 usc_title: 54
 usc_section: "104909"
 chapter: 1049
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "54 U.S.C. § 104909"
-generated_at: "2026-03-30T02:12:06.532Z"
+generated_at: "2026-03-30T02:19:59.484Z"
 ---
 
 # § 104909. Wildlife management in parks
@@ -14,4 +14,4 @@ generated_at: "2026-03-30T02:12:06.532Z"
 - **(b)** Qualified volunteers providing assistance under subsection (a) shall be subject to—
   - **(1)** any training requirements or qualifications established by the Secretary; and
   - **(2)** any other terms and conditions that the Secretary may require.
-- **(c)** The Secretary may authorize the donation and distribution of meat from wildlife management activities carried out under this section, including the donation and distribution to Indian Tribes, qualified volunteers, food banks, and other organizations that work to address hunger, in accordance with applicable health guidelines and such terms and conditions as the Secretary may require.
+- **(c)** The Secretary may authorize the donation and distribution of meat and any other part of an animal removed pursuant to wildlife management activities carried out under this section, including the donation and distribution to Indian Tribes, qualified volunteers, food banks, and other organizations that work to address hunger, in accordance with applicable health guidelines and such terms and conditions as the Secretary may require.

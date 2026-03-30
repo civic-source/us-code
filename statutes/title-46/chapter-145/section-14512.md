@@ -3,9 +3,9 @@ title: "Section 14512 - Standard tonnage measurement"
 usc_title: 46
 usc_section: "14512"
 chapter: 145
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 14512"
-generated_at: "2026-03-30T02:11:43.099Z"
+generated_at: "2026-03-30T02:19:51.537Z"
 ---
 
 # § 14512. Standard tonnage measurement

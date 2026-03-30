@@ -3,9 +3,9 @@ title: "Section 221 - Requirements with respect to administering polygraph exami
 usc_title: 6
 usc_section: "221"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 221"
-generated_at: "2026-03-30T02:08:19.231Z"
+generated_at: "2026-03-30T02:17:15.254Z"
 ---
 
 # § 221. Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection

@@ -3,9 +3,9 @@ title: "Section 206 - Reserves; members of National Guard: inactive-duty trainin
 usc_title: 37
 usc_section: "206"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 206"
-generated_at: "2026-03-30T02:10:28.793Z"
+generated_at: "2026-03-30T02:19:09.124Z"
 ---
 
 # § 206. Reserves; members of National Guard: inactive-duty training
@@ -19,7 +19,7 @@ generated_at: "2026-03-30T02:10:28.793Z"
       - **(ii)** inactive-duty training;
     - **(B)** while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
     - **(C)** in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or
-  - **(4)** for each of six days for each period during which the member is on maternity leave.
+  - **(4)** for a regular period of instruction, period of appropriate duty, or such other equivalent training that a member would be required to perform but does not perform because such member was authorized to take parental leave pursuant to section 711 of title 10 .
 - **(b)** The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
   - **(1)** minimum standards that must be met before an assembly for drill or other equivalent period of training, instruction, duty, or appropriate duties may be credited for pay purposes, and those standards may require the presence for duty of officers and enlisted members in numbers equal to or more than a minimum number or percentage of the unit strength for a specified period of time with participation in a prescribed kind of training;
   - **(2)** the maximum number of assemblies or periods of other equivalent training, instruction, duty, or appropriate duties, that may be counted for pay purposes in each fiscal year or in lesser periods of time; and

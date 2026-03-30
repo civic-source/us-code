@@ -3,9 +3,9 @@ title: "Section 272 - Leases to permittees; privileges extended to oil and gas p
 usc_title: 30
 usc_section: "272"
 chapter: 3
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "30 U.S.C. § 272"
-generated_at: "2026-03-30T02:09:42.570Z"
+generated_at: "2026-03-30T02:18:44.853Z"
 ---
 
 # § 272. Leases to permittees; privileges extended to oil and gas permittees

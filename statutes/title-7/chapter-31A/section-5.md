@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 7
 usc_section: "5"
 chapter: 31
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T02:08:42.876Z"
+generated_at: "2026-03-30T02:18:00.309Z"
 ---
 
 # § 950aaa–5. Authorization of appropriations

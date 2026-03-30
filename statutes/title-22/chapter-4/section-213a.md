@@ -3,9 +3,9 @@ title: "Section 213a - Authority to designate additional passport acceptance age
 usc_title: 22
 usc_section: "213a"
 chapter: 4
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 213a"
-generated_at: "2026-03-30T02:09:39.904Z"
+generated_at: "2026-03-30T02:18:41.476Z"
 ---
 
 # § 213a. Authority to designate additional passport acceptance agents
@@ -17,5 +17,6 @@ generated_at: "2026-03-30T02:09:39.904Z"
   - **(3)** A postal employee at a United States post office that has been selected to accept passport applications.
   - **(4)** An employee of the Department of Defense at a military installation that has been authorized to accept passport applications.
   - **(5)** An employee of a Federal department or agency that has been selected to accept passport applications.
-  - **(6)** Any other person specifically designated by the Secretary.
+  - **(6)** A United States citizen who, as determined by the Secretary, is employed by and provides services through a reputable, established company or institution and is commissioned or appointed as a notary or notary public or otherwise authorized to perform a notarization under the laws of a State, district, or territorial government.
+  - **(7)** Any other person specifically designated by the Secretary.
 - **(c)** The Secretary shall prescribe or revise such regulations as may be necessary to carry out this division.

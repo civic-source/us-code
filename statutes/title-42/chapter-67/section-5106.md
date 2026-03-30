@@ -3,9 +3,9 @@ title: "Section 5106 - Grants to States, Indian tribes or tribal organizations, 
 usc_title: 42
 usc_section: "5106"
 chapter: 67
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5106"
-generated_at: "2026-03-30T02:11:33.240Z"
+generated_at: "2026-03-30T02:19:47.088Z"
 ---
 
 # § 5106. Grants to States, Indian tribes or tribal organizations, and public or private agencies and organizations
@@ -92,6 +92,12 @@ generated_at: "2026-03-30T02:11:33.240Z"
       - **(iii)** supporting State efforts to develop information technology systems to manage plans of safe care; and
       - **(iv)** preparing the Secretary’s report to Congress described in subparagraph (F).
     - **(H)** The authority under this paragraph shall sunset on September 30, 2023 .
+  - **(8)**
+    - **(A)** The Secretary may award grants under this subsection to entities, for periods of up to 5 years, in support of field-initiated innovation projects that advance, establish, or implement comprehensive, innovative, evidence-based or evidence-informed child sexual abuse awareness and prevention programs by—
+      - **(i)** improving student awareness of child sexual abuse in an age-appropriate manner, including how to recognize, prevent, and safely report child sexual abuse;
+      - **(ii)** training teachers, school employees, and other mandatory reporters and adults who work with children in a professional or volunteer capacity, including with respect to recognizing child sexual abuse and safely reporting child sexual abuse; or
+      - **(iii)** providing information to parents and guardians of students about child sexual abuse awareness and prevention, including how to prevent, recognize, respond to, and report child sexual abuse and how to discuss child sexual abuse with a child.
+    - **(B)** Each entity receiving a grant under subparagraph (A) shall submit an annual report to the Secretary, for the duration of the grant period, on the projects carried out using such grant, including the number of participants, the services provided, and the outcomes of the projects, including participant evaluations.
 - **(b)** In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
   - **(1)** Respite and crisis nursery programs provided by community-based organizations under the direction and supervision of hospitals.
   - **(2)** Respite and crisis nursery programs provided by community-based organizations.

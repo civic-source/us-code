@@ -3,9 +3,9 @@ title: "Section 760b - Equipment for studies; cooperation of Federal departments
 usc_title: 16
 usc_section: "760b"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 760b"
-generated_at: "2026-03-30T02:09:13.389Z"
+generated_at: "2026-03-30T02:18:31.973Z"
 ---
 
 # § 760b. Equipment for studies; cooperation of Federal departments and agencies

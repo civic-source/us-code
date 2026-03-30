@@ -3,9 +3,9 @@ title: "Section 399b - Offering of certain services, facilities, or products by 
 usc_title: 47
 usc_section: "399b"
 chapter: 5
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 399b"
-generated_at: "2026-03-30T02:11:55.187Z"
+generated_at: "2026-03-30T02:19:50.614Z"
 ---
 
 # § 399b. Offering of certain services, facilities, or products by public broadcast station

@@ -3,9 +3,9 @@ title: "Section 1807 - Repealed. Pub. L. 110–437, title II, § 204(b)(2) , Oct
 usc_title: 2
 usc_section: "1807"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 1807"
-generated_at: "2026-03-30T02:07:57.515Z"
+generated_at: "2026-03-30T02:16:56.697Z"
 ---
 
 # § 1807. Repealed. Pub. L. 110–437, title II, § 204(b)(2) , Oct. 20, 2008 , 122 Stat. 4988

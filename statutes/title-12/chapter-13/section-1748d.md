@@ -3,9 +3,9 @@ title: "Section 1748d - Lease of property; terms and conditions"
 usc_title: 12
 usc_section: "1748d"
 chapter: 13
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 1748d"
-generated_at: "2026-03-30T02:08:53.277Z"
+generated_at: "2026-03-30T02:18:20.486Z"
 ---
 
 # § 1748d. Lease of property; terms and conditions

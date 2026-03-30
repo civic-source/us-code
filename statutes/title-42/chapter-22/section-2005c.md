@@ -3,9 +3,9 @@ title: "Section 2005c - Payments"
 usc_title: 42
 usc_section: "2005c"
 chapter: 22
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2005c"
-generated_at: "2026-03-30T02:11:33.101Z"
+generated_at: "2026-03-30T02:19:47.018Z"
 ---
 
 # § 2005c. Payments

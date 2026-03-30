@@ -3,9 +3,9 @@ title: "Section 60908 - Withholding information"
 usc_title: 34
 usc_section: "60908"
 chapter: 609
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 60908"
-generated_at: "2026-03-30T02:10:13.929Z"
+generated_at: "2026-03-30T02:19:05.062Z"
 ---
 
 # § 60908. Withholding information

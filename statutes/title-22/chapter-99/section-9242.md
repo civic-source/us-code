@@ -3,9 +3,9 @@ title: "Section 9242 - Report on North Korean prison camps"
 usc_title: 22
 usc_section: "9242"
 chapter: 99
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9242"
-generated_at: "2026-03-30T02:09:40.068Z"
+generated_at: "2026-03-30T02:18:41.701Z"
 ---
 
 # § 9242. Report on North Korean prison camps

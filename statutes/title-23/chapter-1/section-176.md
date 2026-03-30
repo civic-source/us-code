@@ -3,9 +3,9 @@ title: "Section 176 - Promoting Resilient Operations for Transformative, Efficie
 usc_title: 23
 usc_section: "176"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "23 U.S.C. § 176"
-generated_at: "2026-03-30T02:09:30.038Z"
+generated_at: "2026-03-30T02:18:35.153Z"
 ---
 
 # § 176. Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program

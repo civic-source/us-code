@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:11:33.092Z"
+generated_at: "2026-03-30T02:19:47.015Z"
 ---
 
 # § 2000h–5. Authorization of appropriations

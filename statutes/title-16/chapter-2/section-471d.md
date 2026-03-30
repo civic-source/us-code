@@ -3,9 +3,9 @@ title: "Section 471d - Additional forest reserves in California"
 usc_title: 16
 usc_section: "471d"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 471d"
-generated_at: "2026-03-30T02:09:13.341Z"
+generated_at: "2026-03-30T02:18:31.933Z"
 ---
 
 # § 471d. Additional forest reserves in California

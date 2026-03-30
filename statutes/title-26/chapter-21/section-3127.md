@@ -3,9 +3,9 @@ title: "Section 3127 - Exemption for employers and their employees where both ar
 usc_title: 26
 usc_section: "3127"
 chapter: 21
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 3127"
-generated_at: "2026-03-30T02:10:02.964Z"
+generated_at: "2026-03-30T02:18:56.485Z"
 ---
 
 # § 3127. Exemption for employers and their employees where both are members of religious faiths opposed to participation in Social Security Act programs

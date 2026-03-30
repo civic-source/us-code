@@ -3,9 +3,9 @@ title: "Section 8697 - Battle force ship employment, maintenance, and manning ba
 usc_title: 10
 usc_section: "8697"
 chapter: 863
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8697"
-generated_at: "2026-03-30T02:08:27.335Z"
+generated_at: "2026-03-30T02:17:31.698Z"
 ---
 
 # § 8697. Battle force ship employment, maintenance, and manning baseline plans

@@ -3,15 +3,15 @@ title: "Section 20212 - Composition of selection boards"
 usc_title: 10
 usc_section: "20212"
 chapter: 2005
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20212"
-generated_at: "2026-03-30T02:08:27.362Z"
+generated_at: "2026-03-30T02:17:31.724Z"
 ---
 
 # § 20212. Composition of selection boards
 
 - **(a)**
-  - **(1)** Members of a selection board shall be appointed by the Secretary of 1 1 So in original. The word “the” probably should appear. Air Force in accordance with this section. A selection board shall consist of five or more officers of the Space Force. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major. The members of a selection board shall include at least one member serving on sustained duty and at least one member in a space force active status who is not serving on sustained duty. The ratio of the members of a selection board serving on sustained duty to members serving in a space force active status not on sustained duty shall, to the extent practicable, reflect the ratio of officers serving in each of those statuses who are being considered for promotion by the board. The members of a selection board shall represent the diverse population of the Space Force to the extent practicable.
+  - **(1)** Members of a selection board shall be appointed by the Secretary of the Air Force in accordance with this section. A selection board shall consist of five or more officers of the Space Force. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major. The members of a selection board shall include at least one member serving on sustained duty and at least one member in a space force active status who is not serving on sustained duty. The ratio of the members of a selection board serving on sustained duty to members serving in a space force active status not on sustained duty shall, to the extent practicable, reflect the ratio of officers serving in each of those statuses who are being considered for promotion by the board. The members of a selection board shall represent the diverse population of the Space Force to the extent practicable.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), a selection board shall include at least one officer from each competitive category of officers to be considered by the board.
     - **(B)** A selection board need not include an officer from a competitive category when there are no officers of that competitive category on the Space Force officer list in a grade higher than the grade of the officers to be considered by the board and eligible to serve on the board.

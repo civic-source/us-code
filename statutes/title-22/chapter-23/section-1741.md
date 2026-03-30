@@ -3,9 +3,9 @@ title: "Section 1741 - Assistance for United States nationals unlawfully or wron
 usc_title: 22
 usc_section: "1741"
 chapter: 23
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 1741"
-generated_at: "2026-03-30T02:09:39.939Z"
+generated_at: "2026-03-30T02:18:41.523Z"
 ---
 
 # § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad
@@ -57,7 +57,7 @@ generated_at: "2026-03-30T02:09:39.939Z"
       - **(i)** For each such United States national unlawfully or wrongfully detained abroad, the financial assistance described in subparagraph (A) shall be provided for not more than 2 trips per fiscal year, unless the Special Presidential Envoy for Hostage Affairs determines that a third trip is warranted.
       - **(ii)** Any trip described in clause (i) shall—
         - **(I)** consist of not more than 2 family members or other individuals approved in accordance with subparagraph (A)(i)(II), unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional family member or other individual approved in accordance with subparagraph (A)(i)(II) and approves assistance to such third family member or other individual; and
-        - **(II)** not exceed more than 2 nights lodging, which shall not exceed the applicable government rate.
+        - **(II)** not exceed more than 2 nights lodging, unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional night, which shall not exceed the applicable government rate.
     - **(C)** If other United States Government assistance is unavailable, the Secretary may provide to a United States national unlawfully or wrongfully detained abroad as determined by the Secretary under subsection (a), United States assistance, as necessary, for return travel to the United States upon release of such United States national.
   - **(3)**
     - **(A)** The Secretary shall seek to make available physical health services, mental health services, and other support as appropriate, including providing information on available legal or financial resources, to—
@@ -66,7 +66,7 @@ generated_at: "2026-03-30T02:09:39.939Z"
     - **(B)**
       - **(i)** For any support described in subparagraph (A) for an individual described in clause (i) or (ii) of such subparagraph that commences following the return of a United States national who was unlawfully or wrongfully detained abroad, such support shall be made available for up to 5 years from the date on which any individual identified in subparagraph (A) chooses to avail themselves of the support described in that subparagraph, unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant extending such support.
       - **(ii)** The time limitation under clause (i) does not apply to any support provided during the pendency of the detention of a United States national unlawfully or wrongfully detained abroad.
-  - **(4)** The Secretary shall notify the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives of any amount spent above $250,000 for any fiscal year to carry out paragraphs (2) and (3).
+  - **(4)** The Secretary shall notify the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives not later than 14 days after such time that total expenditures to carry out paragraphs (2) and (3) in any fiscal year surpass $250,000 for any fiscal year.
   - **(5)** Funds authorized to be appropriated for the Department of State, which may include funds made available for unforeseen emergencies arising in the diplomatic and consular service, may be used to provide the support authorized by this section.
   - **(6)** Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committees on Foreign Relations and Appropriations of the Senate and the Committee on Foreign Affairs and Appropriations of the House of Representatives a report that includes—
     - **(A)** a detailed description of expenditures made pursuant to paragraphs (2) and (3);
@@ -74,3 +74,17 @@ generated_at: "2026-03-30T02:09:39.939Z"
     - **(C)** the number and location of visits outside of Washington, D.C., during the prior fiscal year made by the Special Presidential Envoy for Hostage Affairs to family members of each United States national unlawfully or wrongfully detained abroad.
   - **(7)** The authority and requirements under paragraphs (2), (3), (4), and (5) shall terminate on December 31, 2027 .
   - **(8)** In this subsection, the term “family member” means a spouse, father, mother, child, brother, sister, grandparent, grandchild, aunt, uncle, nephew, niece, cousin, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
+- **(e)**
+  - **(1)**
+    - **(A)** Not less frequently than every 180 days, the Assistant Secretary for the Bureau of Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall review the cases where there is potential credible information that any United States national is being detained wrongfully and which has been identified through official government channels to both bureaus.
+    - **(B)** Not later than 30 days after each review under subparagraph (A), the Assistant Secretary of State for Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall jointly submit to Congress a classified report identifying the United States nationals identified as a result of the review in subparagraph (A) detained overseas who have not, as of the date of the report, been determined by the Secretary to be unlawfully or wrongfully detained.
+    - **(C)** In the case of a United States national detained overseas identified in the report under subparagraph (B), the Assistant Secretary of State for Consular Affairs shall notify a family member (as that term is defined in subsection (d)(8)) or the legal representative of the United States national not later than 30 days after the transmittal of the report required by subparagraph (B).
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B) and to the extent practicable, not later than 180 days after the date on which the Secretary of State receives an assessment from the Special Presidential Envoy for Hostage Affairs or the head of any other relevant bureau of the Department of State that credible information exists that a United States national is being detained unlawfully or wrongfully, the Secretary shall determine whether the United States national is in fact being unlawfully or wrongfully detained.
+    - **(B)**
+      - **(i)** The Secretary may waive the requirement under subparagraph (A) to make an unlawful or wrongful detention determination if the Secretary—
+        - **(I)** determines that making such a determination may jeopardize the safety or interests of the United States national being detained abroad or the national security interests of the United States; and
+        - **(II)** submits to Congress a classified report describing the reasons for the waiver.
+      - **(ii)** A waiver under clause (i) shall expire on the date that is 180 days after the date on which the Secretary submits the report on the waiver to Congress pursuant to clause (i)(II).
+      - **(iii)** The Secretary may renew a waiver granted pursuant to clause (i) in the manner provided under such clause.
+- **(f)** Upon the release of a United States national determined to be unlawfully or wrongfully detained abroad and the return of that national, the President shall issue to that national a letter, to be known as a “declaration of invalidity”, that officially declares the detention abroad of the national as invalid for the purpose of completing any documentation that warrants a background investigation or review of prior offenses, such as a conviction.

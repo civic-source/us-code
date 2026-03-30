@@ -3,9 +3,9 @@ title: "Section 1056 - Separability"
 usc_title: 21
 usc_section: "1056"
 chapter: 15
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 1056"
-generated_at: "2026-03-30T02:09:18.252Z"
+generated_at: "2026-03-30T02:18:37.623Z"
 ---
 
 # § 1056. Separability

@@ -3,9 +3,9 @@ title: "Section 503 - Repealed. Pub. L. 85–767, § 2[1] , Aug. 27, 1958 , 72 S
 usc_title: 16
 usc_section: "503"
 chapter: 2
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 503"
-generated_at: "2026-03-30T02:09:13.346Z"
+generated_at: "2026-03-30T02:18:31.937Z"
 ---
 
 # § 503. Repealed. Pub. L. 85–767, § 2[1] , Aug. 27, 1958 , 72 Stat. 919

@@ -3,9 +3,9 @@ title: "Section 58c - Fees for certain customs services"
 usc_title: 19
 usc_section: "58c"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 58c"
-generated_at: "2026-03-30T02:09:03.061Z"
+generated_at: "2026-03-30T02:18:27.834Z"
 ---
 
 # § 58c. Fees for certain customs services

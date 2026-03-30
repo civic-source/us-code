@@ -3,9 +3,9 @@ title: "Section 3609 - Retained rights"
 usc_title: 20
 usc_section: "3609"
 chapter: 49
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 3609"
-generated_at: "2026-03-30T02:09:00.984Z"
+generated_at: "2026-03-30T02:18:26.633Z"
 ---
 
 # § 3609. Retained rights

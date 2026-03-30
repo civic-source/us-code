@@ -3,9 +3,9 @@ title: "Section 7703d - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703d"
 chapter: 70
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7703d"
-generated_at: "2026-03-30T02:09:01.018Z"
+generated_at: "2026-03-30T02:18:26.671Z"
 ---
 
 # § 7703d. Assistance to local educational agencies that benefit dependents of members of the Armed Forces with enrollment changes due to base closures, force structure changes, or force relocations

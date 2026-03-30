@@ -3,9 +3,9 @@ title: "Section 429a - Jurisdiction and control; authorization of annual appropr
 usc_title: 16
 usc_section: "429a"
 chapter: 1
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 429a"
-generated_at: "2026-03-30T02:09:13.286Z"
+generated_at: "2026-03-30T02:18:31.886Z"
 ---
 
 # § 429a. Jurisdiction and control; authorization of annual appropriation

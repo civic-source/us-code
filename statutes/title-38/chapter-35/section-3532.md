@@ -3,9 +3,9 @@ title: "Section 3532 - Computation of educational assistance allowance"
 usc_title: 38
 usc_section: "3532"
 chapter: 35
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3532"
-generated_at: "2026-03-30T02:10:34.046Z"
+generated_at: "2026-03-30T02:19:11.546Z"
 ---
 
 # § 3532. Computation of educational assistance allowance

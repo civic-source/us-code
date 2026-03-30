@@ -3,9 +3,9 @@ title: "Section 1348 - Omitted"
 usc_title: 22
 usc_section: "1348"
 chapter: 15
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 1348"
-generated_at: "2026-03-30T02:09:39.932Z"
+generated_at: "2026-03-30T02:18:41.513Z"
 ---
 
 # §§ 1341 to 1348. Omitted

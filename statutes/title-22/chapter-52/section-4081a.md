@@ -3,14 +3,14 @@ title: "Section 4081a - Exception for Government-financed air transportation; re
 usc_title: 22
 usc_section: "4081a"
 chapter: 52
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4081a"
-generated_at: "2026-03-30T02:09:40.011Z"
+generated_at: "2026-03-30T02:18:41.621Z"
 ---
 
 # § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
 
-  - **(1)** Notwithstanding subsections (a) and (c) of section 40118 of title 49 , the Department is authorized to pay for the transportation by a foreign air carrier of Department personnel and any in-cabin or accompanying checked baggage or cargo if—
+  - **(1)** Notwithstanding subsections (a) and (c) of section 40118 of title 49 , the Department and the United States Agency for International Development (USAID), and other United States Government employees under chief of mission authority are authorized to pay for the transportation by a foreign air carrier of Department and USAID personnel, and other United States Government employees under chief of mission authority and any in-cabin or accompanying checked baggage or cargo if—
     - **(A)** no air carrier holding a certificate under section 41102 of such title is willing and able to transport up to 3 domestic animals accompanying such Federal personnel; and
     - **(B)** the transportation is from a place—
       - **(i)** outside the United States to a place in the United States;

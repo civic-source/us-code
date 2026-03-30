@@ -3,9 +3,9 @@ title: "Section 8792 - Imposition of sanctions with respect to the transfer of g
 usc_title: 22
 usc_section: "8792"
 chapter: 94
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 8792"
-generated_at: "2026-03-30T02:09:40.062Z"
+generated_at: "2026-03-30T02:18:41.692Z"
 ---
 
 # § 8792. Imposition of sanctions with respect to the transfer of goods or technologies to Syria that are likely to be used to commit human rights abuses

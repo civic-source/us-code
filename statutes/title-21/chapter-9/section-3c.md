@@ -3,9 +3,9 @@ title: "Section 3c - Expedited development and review of medical products for em
 usc_title: 21
 usc_section: "3c"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 3c"
-generated_at: "2026-03-30T02:09:18.189Z"
+generated_at: "2026-03-30T02:18:37.578Z"
 ---
 
 # § 360bbb–3c. Expedited development and review of medical products for emergency uses

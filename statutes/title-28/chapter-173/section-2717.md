@@ -3,9 +3,9 @@ title: "Section 2717 - Discharge"
 usc_title: 28
 usc_section: "2717"
 chapter: 173
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 2717"
-generated_at: "2026-03-30T02:09:58.247Z"
+generated_at: "2026-03-30T02:18:45.832Z"
 ---
 
 # § 2717. Discharge

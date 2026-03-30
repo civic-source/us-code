@@ -3,9 +3,9 @@ title: "Section 352c - Reimbursement of allottees or heirs for taxes paid on lan
 usc_title: 25
 usc_section: "352c"
 chapter: 9
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 352c"
-generated_at: "2026-03-30T02:09:31.181Z"
+generated_at: "2026-03-30T02:18:36.379Z"
 ---
 
 # § 352c. Reimbursement of allottees or heirs for taxes paid on lands patented in fee before end of trust

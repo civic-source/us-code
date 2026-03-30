@@ -3,9 +3,9 @@ title: "Section 1068c - Cooperative arrangements"
 usc_title: 20
 usc_section: "1068c"
 chapter: 28
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1068c"
-generated_at: "2026-03-30T02:09:00.909Z"
+generated_at: "2026-03-30T02:18:26.559Z"
 ---
 
 # § 1068c. Cooperative arrangements

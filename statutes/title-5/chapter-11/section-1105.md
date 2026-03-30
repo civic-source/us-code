@@ -3,9 +3,9 @@ title: "Section 1105 - Administrative procedure"
 usc_title: 5
 usc_section: "1105"
 chapter: 11
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 1105"
-generated_at: "2026-03-30T02:08:10.379Z"
+generated_at: "2026-03-30T02:17:12.641Z"
 ---
 
 # § 1105. Administrative procedure

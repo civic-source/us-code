@@ -3,9 +3,9 @@ title: "Section 2324 - Posting of lists showing appraised value"
 usc_title: 42
 usc_section: "2324"
 chapter: 24
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2324"
-generated_at: "2026-03-30T02:11:33.138Z"
+generated_at: "2026-03-30T02:19:47.039Z"
 ---
 
 # § 2324. Posting of lists showing appraised value

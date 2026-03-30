@@ -3,16 +3,16 @@ title: "Section 15109 - Administration"
 usc_title: 46
 usc_section: "15109"
 chapter: 151
-current_through: "PL 118-158"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 15109"
-generated_at: "2026-03-30T02:11:43.100Z"
+generated_at: "2026-03-30T02:19:51.538Z"
 ---
 
 # § 15109. Administration
 
 - **(a)**
   - **(1)** Except as provided in paragraph (2), each committee established under this chapter or to which this chapter applies shall, at least once each year, meet at the call of the Secretary or a majority of the members of the committee.
-  - **(2)** The committee established under section 15102, 1 1 So in original. The comma probably should not appear. shall—
+  - **(2)** The committee established under section 15102 shall—
     - **(A)** meet in-person, not less frequently than twice each year, at the call of the Secretary of a majority of the members of the committee;
     - **(B)** hold additional meetings as necessary;
     - **(C)** post the minutes of each meeting of the committee on a publicly available website not later than 2 weeks after the date on which a meeting concludes; and
@@ -74,7 +74,7 @@ generated_at: "2026-03-30T02:11:43.100Z"
     - **(A)** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the advice, reports, and recommendations received from committees under paragraph (2).
     - **(B)** With respect to a committee established under section 70112 and to which this section applies, the Secretary shall submit the advice, reports, and recommendations received from the committee under paragraph (2) to the Committee on Homeland Security of the House of Representatives in addition to the committees specified in subparagraph (A).
 - **(k)**
-  - **(1)** Any Federal agency with matters under such agency’s administrative jurisdiction related to the function of a committee established under this chapter 2 2 So in original. Probably should be followed by “or to which this chapter applies”. may designate a representative to—
+  - **(1)** Any Federal agency with matters under such agency’s administrative jurisdiction related to the function of a committee established under this chapter or to which this chapter applies may designate a representative to—
     - **(A)** attend any meeting of such committee; and
     - **(B)** participate as an observer at meetings of such committee that relate to such a matter.
   - **(2)** With respect to the committee established under section 15102, the Commandant of the Coast Guard shall designate a representative under paragraph (1).
