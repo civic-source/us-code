@@ -3,9 +3,9 @@ title: "Section 184 - Filing of application in foreign country"
 usc_title: 35
 usc_section: "184"
 chapter: 17
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "35 U.S.C. § 184"
-generated_at: "2026-03-30T03:52:10.826Z"
+generated_at: "2026-03-30T03:55:07.900Z"
 status: "active"
 ---
 

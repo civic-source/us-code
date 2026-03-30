@@ -3,9 +3,9 @@ title: "Section 3901to3906 - Repealed. Pub. L. 98–181, title I [title IV, § 4
 usc_title: 42
 usc_section: "3901to3906"
 chapter: 48
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 3901to3906"
-generated_at: "2026-03-30T03:52:37.230Z"
+generated_at: "2026-03-30T03:55:43.932Z"
 status: "repealed"
 ---
 

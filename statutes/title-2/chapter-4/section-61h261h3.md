@@ -3,9 +3,9 @@ title: "Section 61h261h3 - Omitted"
 usc_title: 2
 usc_section: "61h261h3"
 chapter: 4
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "2 U.S.C. § 61h261h3"
-generated_at: "2026-03-30T03:50:54.342Z"
+generated_at: "2026-03-30T03:53:30.622Z"
 status: "omitted"
 ---
 

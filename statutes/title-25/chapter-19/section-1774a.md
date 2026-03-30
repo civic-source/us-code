@@ -3,9 +3,9 @@ title: "Section 1774a - Definitions"
 usc_title: 25
 usc_section: "1774a"
 chapter: 19
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 1774a"
-generated_at: "2026-03-30T03:51:52.412Z"
+generated_at: "2026-03-30T03:54:47.127Z"
 status: "active"
 ---
 

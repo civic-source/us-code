@@ -3,9 +3,9 @@ title: "Section 397 - Definitions"
 usc_title: 47
 usc_section: "397"
 chapter: 5
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "47 U.S.C. § 397"
-generated_at: "2026-03-30T03:52:43.052Z"
+generated_at: "2026-03-30T03:55:51.138Z"
 status: "active"
 ---
 

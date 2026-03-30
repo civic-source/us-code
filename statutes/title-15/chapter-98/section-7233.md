@@ -3,9 +3,9 @@ title: "Section 7233 - Commission authority"
 usc_title: 15
 usc_section: "7233"
 chapter: 98
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 7233"
-generated_at: "2026-03-30T03:51:23.145Z"
+generated_at: "2026-03-30T03:54:09.519Z"
 status: "active"
 ---
 

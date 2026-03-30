@@ -3,9 +3,9 @@ title: "Section 12637 - Nonduplication and nondisplacement"
 usc_title: 42
 usc_section: "12637"
 chapter: 129
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 12637"
-generated_at: "2026-03-30T03:52:37.517Z"
+generated_at: "2026-03-30T03:55:44.146Z"
 status: "active"
 ---
 

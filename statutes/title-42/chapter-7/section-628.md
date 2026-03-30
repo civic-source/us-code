@@ -3,9 +3,9 @@ title: "Section 628 - Payments to Indian tribal organizations"
 usc_title: 42
 usc_section: "628"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 628"
-generated_at: "2026-03-30T03:52:36.855Z"
+generated_at: "2026-03-30T03:55:43.665Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5141 - Additional employees in offices of House Minority Leader,
 usc_title: 2
 usc_section: "5141"
 chapter: 51
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "2 U.S.C. § 5141"
-generated_at: "2026-03-30T03:50:54.436Z"
+generated_at: "2026-03-30T03:53:30.684Z"
 status: "active"
 ---
 

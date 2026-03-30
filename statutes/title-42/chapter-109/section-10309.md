@@ -3,9 +3,9 @@ title: "Section 10309 - New spending authority; amounts provided in advance"
 usc_title: 42
 usc_section: "10309"
 chapter: 109
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 10309"
-generated_at: "2026-03-30T03:52:37.469Z"
+generated_at: "2026-03-30T03:55:44.110Z"
 status: "active"
 ---
 

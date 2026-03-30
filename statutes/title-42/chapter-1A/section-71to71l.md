@@ -3,9 +3,9 @@ title: "Section 71to71l - Transferred"
 usc_title: 42
 usc_section: "71to71l"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 71to71l"
-generated_at: "2026-03-30T03:52:36.631Z"
+generated_at: "2026-03-30T03:55:43.511Z"
 status: "transferred"
 ---
 

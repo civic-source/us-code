@@ -3,9 +3,9 @@ title: "Section 5935 - Availability for scientific study"
 usc_title: 16
 usc_section: "5935"
 chapter: 79
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 5935"
-generated_at: "2026-03-30T03:51:46.102Z"
+generated_at: "2026-03-30T03:54:31.595Z"
 status: "active"
 ---
 

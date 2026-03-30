@@ -3,9 +3,9 @@ title: "Section 3006 - Repealed. Pub. L. 106–168, title I, § 105(b)(1) , Dec.
 usc_title: 39
 usc_section: "3006"
 chapter: 30
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "39 U.S.C. § 3006"
-generated_at: "2026-03-30T03:52:15.441Z"
+generated_at: "2026-03-30T03:55:11.553Z"
 status: "repealed"
 ---
 

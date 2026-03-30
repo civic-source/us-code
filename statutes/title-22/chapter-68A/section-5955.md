@@ -3,9 +3,9 @@ title: "Section 5955 - Prior notice to Congress of obligation of funds"
 usc_title: 22
 usc_section: "5955"
 chapter: 68
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 5955"
-generated_at: "2026-03-30T03:51:55.094Z"
+generated_at: "2026-03-30T03:54:40.878Z"
 status: "active"
 ---
 

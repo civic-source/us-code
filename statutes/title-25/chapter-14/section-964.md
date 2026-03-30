@@ -3,9 +3,9 @@ title: "Section 964 - Distribution of shares"
 usc_title: 25
 usc_section: "964"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 964"
-generated_at: "2026-03-30T03:51:52.375Z"
+generated_at: "2026-03-30T03:54:47.101Z"
 status: "active"
 ---
 

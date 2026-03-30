@@ -3,9 +3,9 @@ title: "Section 1777 - Use in school breakfast program of food designated as bei
 usc_title: 42
 usc_section: "1777"
 chapter: 13
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 1777"
-generated_at: "2026-03-30T03:52:37.113Z"
+generated_at: "2026-03-30T03:55:43.850Z"
 status: "active"
 ---
 

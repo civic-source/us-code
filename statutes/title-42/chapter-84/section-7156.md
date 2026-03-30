@@ -3,9 +3,9 @@ title: "Section 7156 - Transfers from Department of the Navy"
 usc_title: 42
 usc_section: "7156"
 chapter: 84
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 7156"
-generated_at: "2026-03-30T03:52:37.344Z"
+generated_at: "2026-03-30T03:55:44.016Z"
 status: "active"
 ---
 

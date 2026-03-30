@@ -3,9 +3,9 @@ title: "Section 14to23j - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(4
 usc_title: 22
 usc_section: "14to23j"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 14to23j"
-generated_at: "2026-03-30T03:51:54.946Z"
+generated_at: "2026-03-30T03:54:40.724Z"
 status: "repealed"
 ---
 

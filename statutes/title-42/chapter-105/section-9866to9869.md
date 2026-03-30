@@ -3,9 +3,9 @@ title: "Section 9866to9869 - Repealed. Pub. L. 103–382, title III, § 391(w) ,
 usc_title: 42
 usc_section: "9866to9869"
 chapter: 105
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 9866to9869"
-generated_at: "2026-03-30T03:52:37.456Z"
+generated_at: "2026-03-30T03:55:44.099Z"
 status: "repealed"
 ---
 

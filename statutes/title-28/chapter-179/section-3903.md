@@ -3,9 +3,9 @@ title: "Section 3903 - Effect of failure to issue regulations"
 usc_title: 28
 usc_section: "3903"
 chapter: 179
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "28 U.S.C. § 3903"
-generated_at: "2026-03-30T03:52:00.504Z"
+generated_at: "2026-03-30T03:55:03.880Z"
 status: "active"
 ---
 

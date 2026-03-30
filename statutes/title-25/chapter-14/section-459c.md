@@ -3,9 +3,9 @@ title: "Section 459c - Existing rights of possession, contract, interest, etc."
 usc_title: 25
 usc_section: "459c"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 459c"
-generated_at: "2026-03-30T03:51:52.346Z"
+generated_at: "2026-03-30T03:54:47.082Z"
 status: "active"
 ---
 

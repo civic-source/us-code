@@ -3,9 +3,9 @@ title: "Section 2307 - Limitation of liability for Coast Guard Vessel Traffic Se
 usc_title: 46
 usc_section: "2307"
 chapter: 23
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "46 U.S.C. § 2307"
-generated_at: "2026-03-30T03:53:04.123Z"
+generated_at: "2026-03-30T03:55:52.118Z"
 status: "active"
 ---
 

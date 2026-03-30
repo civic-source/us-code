@@ -3,9 +3,9 @@ title: "Section 7651b - Sulfur dioxide allowance program for existing and new un
 usc_title: 42
 usc_section: "7651b"
 chapter: 85
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 7651b"
-generated_at: "2026-03-30T03:52:37.388Z"
+generated_at: "2026-03-30T03:55:44.050Z"
 status: "active"
 ---
 

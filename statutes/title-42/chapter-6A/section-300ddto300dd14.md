@@ -3,9 +3,9 @@ title: "Section 300ddto300dd14 - Repealed. July 1, 1944, ch. 373 , title XXIV, ย
 usc_title: 42
 usc_section: "300ddto300dd14"
 chapter: 6
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. ยง 300ddto300dd14"
-generated_at: "2026-03-30T03:52:36.794Z"
+generated_at: "2026-03-30T03:55:43.621Z"
 status: "repealed"
 ---
 

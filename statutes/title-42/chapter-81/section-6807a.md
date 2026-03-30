@@ -3,9 +3,9 @@ title: "Section 6807a - Energy efficiency grants to State regulatory authorities
 usc_title: 42
 usc_section: "6807a"
 chapter: 81
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 6807a"
-generated_at: "2026-03-30T03:52:37.323Z"
+generated_at: "2026-03-30T03:55:43.999Z"
 status: "active"
 ---
 

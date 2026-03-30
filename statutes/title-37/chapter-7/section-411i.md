@@ -3,9 +3,9 @@ title: "Section 411i - Renumbered § 481i]"
 usc_title: 37
 usc_section: "411i"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "37 U.S.C. § 411i"
-generated_at: "2026-03-30T03:52:15.222Z"
+generated_at: "2026-03-30T03:55:10.630Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2269 - Tribal partnership program"
 usc_title: 33
 usc_section: "2269"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 2269"
-generated_at: "2026-03-30T03:52:13.168Z"
+generated_at: "2026-03-30T03:55:08.756Z"
 status: "active"
 ---
 
@@ -28,6 +28,8 @@ status: "active"
 - **(d)**
   - **(1)**
     - **(A)** Any cost-sharing agreement for a study under subsection (b) of this section shall be subject to the ability of the non-Federal interest to pay.
-    - **(B)** The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+    - **(B)**
+      - **(i)** The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.
+      - **(ii)** Not later than 180 days after June 10, 2014 , the Secretary shall issue guidance on the procedures described in clause (i).
   - **(2)** The Secretary may credit toward the non-Federal share of the costs of a study under subsection (b) of this section the cost of services, studies, supplies, or other in-kind contributions provided by the non-Federal interest if the Secretary determines that the services, studies, supplies, and other in-kind contributions will facilitate completion of the study.
-- **(e)** There is authorized to be appropriated to carry out subsection (b) of this section $5,000,000 for each of fiscal years 2002 through 2012, of which not more than $1,000,000 may be used with respect to any 1 Indian tribe.
+- **(e)** The Secretary is authorized to carry out activities under this section for fiscal years 2015 through 2024.

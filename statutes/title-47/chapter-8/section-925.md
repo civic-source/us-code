@@ -3,9 +3,9 @@ title: "Section 925 - Distribution of frequencies by Commission"
 usc_title: 47
 usc_section: "925"
 chapter: 8
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "47 U.S.C. § 925"
-generated_at: "2026-03-30T03:52:43.068Z"
+generated_at: "2026-03-30T03:55:51.150Z"
 status: "active"
 ---
 

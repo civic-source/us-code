@@ -3,9 +3,9 @@ title: "Section 15387 - Consultation with Standards Board and Board of Advisors"
 usc_title: 42
 usc_section: "15387"
 chapter: 146
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15387"
-generated_at: "2026-03-30T03:52:37.594Z"
+generated_at: "2026-03-30T03:55:44.202Z"
 status: "active"
 ---
 

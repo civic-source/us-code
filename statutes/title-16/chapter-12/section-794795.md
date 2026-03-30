@@ -3,9 +3,9 @@ title: "Section 794795 - Omitted"
 usc_title: 16
 usc_section: "794795"
 chapter: 12
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 794795"
-generated_at: "2026-03-30T03:51:45.958Z"
+generated_at: "2026-03-30T03:54:31.459Z"
 status: "omitted"
 ---
 

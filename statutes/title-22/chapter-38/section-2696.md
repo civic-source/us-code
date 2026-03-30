@@ -3,9 +3,9 @@ title: "Section 2696 - Nondiscretionary personnel costs, currency fluctuations, 
 usc_title: 22
 usc_section: "2696"
 chapter: 38
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 2696"
-generated_at: "2026-03-30T03:51:55.041Z"
+generated_at: "2026-03-30T03:54:40.821Z"
 status: "active"
 ---
 

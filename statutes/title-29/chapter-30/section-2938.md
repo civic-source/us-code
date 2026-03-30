@@ -3,9 +3,9 @@ title: "Section 2938 - Nondiscrimination"
 usc_title: 29
 usc_section: "2938"
 chapter: 30
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "29 U.S.C. § 2938"
-generated_at: "2026-03-30T03:52:01.781Z"
+generated_at: "2026-03-30T03:55:04.782Z"
 status: "active"
 ---
 

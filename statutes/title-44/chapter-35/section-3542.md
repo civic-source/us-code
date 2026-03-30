@@ -3,9 +3,9 @@ title: "Section 3542 - Definitions"
 usc_title: 44
 usc_section: "3542"
 chapter: 35
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "44 U.S.C. § 3542"
-generated_at: "2026-03-30T03:52:21.235Z"
+generated_at: "2026-03-30T03:55:47.668Z"
 status: "active"
 ---
 

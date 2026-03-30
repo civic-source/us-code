@@ -3,9 +3,9 @@ title: "Section 77q - Fraudulent interstate transactions"
 usc_title: 15
 usc_section: "77q"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 77q"
-generated_at: "2026-03-30T03:51:22.910Z"
+generated_at: "2026-03-30T03:54:09.294Z"
 status: "active"
 ---
 

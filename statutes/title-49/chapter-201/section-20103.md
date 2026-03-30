@@ -3,9 +3,9 @@ title: "Section 20103 - General authority"
 usc_title: 49
 usc_section: "20103"
 chapter: 201
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "49 U.S.C. § 20103"
-generated_at: "2026-03-30T03:52:51.171Z"
+generated_at: "2026-03-30T03:56:01.716Z"
 status: "active"
 ---
 

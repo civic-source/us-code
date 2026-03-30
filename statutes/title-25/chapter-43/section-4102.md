@@ -3,9 +3,9 @@ title: "Section 4102 - Administration through Office of Native American Programs
 usc_title: 25
 usc_section: "4102"
 chapter: 43
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 4102"
-generated_at: "2026-03-30T03:51:52.452Z"
+generated_at: "2026-03-30T03:54:47.155Z"
 status: "active"
 ---
 

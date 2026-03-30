@@ -3,9 +3,9 @@ title: "Section 220313 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "220313"
 chapter: 2203
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "36 U.S.C. § 220313"
-generated_at: "2026-03-30T03:52:18.789Z"
+generated_at: "2026-03-30T03:55:11.217Z"
 status: "active"
 ---
 

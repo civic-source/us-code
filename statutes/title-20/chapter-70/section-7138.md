@@ -3,9 +3,9 @@ title: "Section 7138 - National Center for School and Youth Safety"
 usc_title: 20
 usc_section: "7138"
 chapter: 70
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 7138"
-generated_at: "2026-03-30T03:51:32.514Z"
+generated_at: "2026-03-30T03:54:23.891Z"
 status: "active"
 ---
 

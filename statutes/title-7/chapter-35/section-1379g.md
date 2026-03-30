@@ -3,9 +3,9 @@ title: "Section 1379g - Authority to facilitate transition"
 usc_title: 7
 usc_section: "1379g"
 chapter: 35
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 1379g"
-generated_at: "2026-03-30T03:51:08.682Z"
+generated_at: "2026-03-30T03:53:51.286Z"
 status: "active"
 ---
 

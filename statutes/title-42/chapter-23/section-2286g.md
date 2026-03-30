@@ -3,9 +3,9 @@ title: "Section 2286g - “Department of Energy defense nuclear facility” defi
 usc_title: 42
 usc_section: "2286g"
 chapter: 23
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 2286g"
-generated_at: "2026-03-30T03:52:37.172Z"
+generated_at: "2026-03-30T03:55:43.889Z"
 status: "active"
 ---
 

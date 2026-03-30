@@ -3,9 +3,9 @@ title: "Section 564p - Execution by Secretary of patents, deeds, etc."
 usc_title: 25
 usc_section: "564p"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 564p"
-generated_at: "2026-03-30T03:51:52.351Z"
+generated_at: "2026-03-30T03:54:47.085Z"
 status: "active"
 ---
 

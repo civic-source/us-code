@@ -3,9 +3,9 @@ title: "Section 1 - Juvenile sex offender treatment grants"
 usc_title: 42
 usc_section: "1"
 chapter: 46
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T03:52:37.230Z"
+generated_at: "2026-03-30T03:55:43.932Z"
 status: "active"
 ---
 

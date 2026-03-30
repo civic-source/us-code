@@ -3,9 +3,9 @@ title: "Section 30305 - Access to Register information"
 usc_title: 49
 usc_section: "30305"
 chapter: 303
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "49 U.S.C. § 30305"
-generated_at: "2026-03-30T03:52:51.189Z"
+generated_at: "2026-03-30T03:56:01.736Z"
 status: "active"
 ---
 

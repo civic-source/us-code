@@ -3,9 +3,9 @@ title: "Section 5676 - Confidentiality of program records"
 usc_title: 42
 usc_section: "5676"
 chapter: 72
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 5676"
-generated_at: "2026-03-30T03:52:37.283Z"
+generated_at: "2026-03-30T03:55:43.971Z"
 status: "active"
 ---
 

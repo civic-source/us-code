@@ -3,9 +3,9 @@ title: "Section 539m - Findings and purposes"
 usc_title: 16
 usc_section: "539m"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 539m"
-generated_at: "2026-03-30T03:51:45.912Z"
+generated_at: "2026-03-30T03:54:31.415Z"
 status: "active"
 ---
 

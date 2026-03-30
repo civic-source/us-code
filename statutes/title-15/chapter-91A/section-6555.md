@@ -3,9 +3,9 @@ title: "Section 6555 - Definitions"
 usc_title: 15
 usc_section: "6555"
 chapter: 91
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 6555"
-generated_at: "2026-03-30T03:51:23.133Z"
+generated_at: "2026-03-30T03:54:09.508Z"
 status: "active"
 ---
 

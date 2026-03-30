@@ -3,9 +3,9 @@ title: "Section 68i - Application of other laws"
 usc_title: 15
 usc_section: "68i"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 68i"
-generated_at: "2026-03-30T03:51:22.905Z"
+generated_at: "2026-03-30T03:54:09.288Z"
 status: "active"
 ---
 

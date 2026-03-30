@@ -3,9 +3,9 @@ title: "Section 9252 - National Institute for Literacy"
 usc_title: 20
 usc_section: "9252"
 chapter: 73
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 9252"
-generated_at: "2026-03-30T03:51:32.546Z"
+generated_at: "2026-03-30T03:54:23.922Z"
 status: "active"
 ---
 

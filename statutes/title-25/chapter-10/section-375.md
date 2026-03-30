@@ -3,9 +3,9 @@ title: "Section 375 - Determination of heirship of deceased members of Five Civi
 usc_title: 25
 usc_section: "375"
 chapter: 10
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 375"
-generated_at: "2026-03-30T03:51:52.333Z"
+generated_at: "2026-03-30T03:54:47.073Z"
 status: "active"
 ---
 

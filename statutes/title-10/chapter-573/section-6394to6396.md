@@ -3,9 +3,9 @@ title: "Section 6394to6396 - Repealed. Pub. L. 96–513, title III, § 335 , Dec
 usc_title: 10
 usc_section: "6394to6396"
 chapter: 573
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 6394to6396"
-generated_at: "2026-03-30T03:51:04.442Z"
+generated_at: "2026-03-30T03:53:58.765Z"
 status: "repealed"
 ---
 

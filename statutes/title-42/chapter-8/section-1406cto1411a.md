@@ -3,9 +3,9 @@ title: "Section 1406cto1411a - Omitted"
 usc_title: 42
 usc_section: "1406cto1411a"
 chapter: 8
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 1406cto1411a"
-generated_at: "2026-03-30T03:52:37.061Z"
+generated_at: "2026-03-30T03:55:43.815Z"
 status: "omitted"
 ---
 

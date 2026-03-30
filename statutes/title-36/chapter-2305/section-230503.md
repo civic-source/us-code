@@ -3,9 +3,9 @@ title: "Section 230503 - Purposes"
 usc_title: 36
 usc_section: "230503"
 chapter: 2305
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "36 U.S.C. § 230503"
-generated_at: "2026-03-30T03:52:18.792Z"
+generated_at: "2026-03-30T03:55:11.218Z"
 status: "active"
 ---
 

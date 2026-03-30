@@ -3,9 +3,9 @@ title: "Section 14198 - Report; termination"
 usc_title: 42
 usc_section: "14198"
 chapter: 136
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 14198"
-generated_at: "2026-03-30T03:52:37.577Z"
+generated_at: "2026-03-30T03:55:44.190Z"
 status: "active"
 ---
 

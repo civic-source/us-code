@@ -3,9 +3,9 @@ title: "Section 2563 - Annual report on status of Nuclear Materials Protection, 
 usc_title: 50
 usc_section: "2563"
 chapter: 42
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "50 U.S.C. § 2563"
-generated_at: "2026-03-30T03:52:44.242Z"
+generated_at: "2026-03-30T03:55:58.516Z"
 status: "active"
 ---
 

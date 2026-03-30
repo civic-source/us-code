@@ -3,9 +3,9 @@ title: "Section 39 - Repealed. Oct. 31, 1951, ch. 654, § 1(118) –(124), 65 St
 usc_title: 48
 usc_section: "39"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "48 U.S.C. § 39"
-generated_at: "2026-03-30T03:52:41.003Z"
+generated_at: "2026-03-30T03:55:58.974Z"
 status: "repealed"
 ---
 

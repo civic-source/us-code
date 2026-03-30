@@ -3,9 +3,9 @@ title: "Section 5780 - State requirements"
 usc_title: 42
 usc_section: "5780"
 chapter: 72
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 5780"
-generated_at: "2026-03-30T03:52:37.287Z"
+generated_at: "2026-03-30T03:55:43.973Z"
 status: "active"
 ---
 

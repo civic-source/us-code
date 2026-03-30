@@ -3,9 +3,9 @@ title: "Section 156to161 - Repealed. Pub. L. 106–224, title IV, § 438(a)(1) ,
 usc_title: 7
 usc_section: "156to161"
 chapter: 8
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 156to161"
-generated_at: "2026-03-30T03:51:08.637Z"
+generated_at: "2026-03-30T03:53:51.242Z"
 status: "repealed"
 ---
 

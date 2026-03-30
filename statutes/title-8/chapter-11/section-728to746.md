@@ -3,9 +3,9 @@ title: "Section 728to746 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "728to746"
 chapter: 11
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "8 U.S.C. § 728to746"
-generated_at: "2026-03-30T03:50:57.895Z"
+generated_at: "2026-03-30T03:53:37.062Z"
 status: "repealed"
 ---
 

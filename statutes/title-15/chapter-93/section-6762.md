@@ -3,9 +3,9 @@ title: "Section 6762 - Elimination of NAIC oversight"
 usc_title: 15
 usc_section: "6762"
 chapter: 93
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 6762"
-generated_at: "2026-03-30T03:51:23.137Z"
+generated_at: "2026-03-30T03:54:09.512Z"
 status: "active"
 ---
 

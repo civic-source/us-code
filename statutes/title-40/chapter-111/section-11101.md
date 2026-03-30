@@ -3,9 +3,9 @@ title: "Section 11101 - Definitions"
 usc_title: 40
 usc_section: "11101"
 chapter: 111
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "40 U.S.C. § 11101"
-generated_at: "2026-03-30T03:52:16.340Z"
+generated_at: "2026-03-30T03:55:11.952Z"
 status: "active"
 ---
 

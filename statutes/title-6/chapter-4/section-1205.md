@@ -3,9 +3,9 @@ title: "Section 1205 - Hazardous materials security inspections and study"
 usc_title: 6
 usc_section: "1205"
 chapter: 4
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "6 U.S.C. § 1205"
-generated_at: "2026-03-30T03:50:56.997Z"
+generated_at: "2026-03-30T03:53:41.276Z"
 status: "active"
 ---
 

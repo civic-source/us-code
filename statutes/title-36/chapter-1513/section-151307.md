@@ -3,9 +3,9 @@ title: "Section 151307 - Provision and acceptance of support by Administrator"
 usc_title: 36
 usc_section: "151307"
 chapter: 1513
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "36 U.S.C. § 151307"
-generated_at: "2026-03-30T03:52:18.780Z"
+generated_at: "2026-03-30T03:55:11.211Z"
 status: "active"
 ---
 

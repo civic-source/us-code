@@ -3,9 +3,9 @@ title: "Section 17552 - Grants to study parole or post-incarceration supervision
 usc_title: 42
 usc_section: "17552"
 chapter: 153
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 17552"
-generated_at: "2026-03-30T03:52:37.649Z"
+generated_at: "2026-03-30T03:55:44.241Z"
 status: "active"
 ---
 

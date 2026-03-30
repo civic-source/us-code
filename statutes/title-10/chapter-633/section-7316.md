@@ -3,9 +3,9 @@ title: "Section 7316 - Support for transfers of decommissioned vessels and shipb
 usc_title: 10
 usc_section: "7316"
 chapter: 633
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 7316"
-generated_at: "2026-03-30T03:51:04.449Z"
+generated_at: "2026-03-30T03:53:58.772Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3193 - Consultation with other persons and agencies"
 usc_title: 42
 usc_section: "3193"
 chapter: 38
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 3193"
-generated_at: "2026-03-30T03:52:37.204Z"
+generated_at: "2026-03-30T03:55:43.912Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 488 - Management of electromagnetic spectrum"
 usc_title: 10
 usc_section: "488"
 chapter: 23
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 488"
-generated_at: "2026-03-30T03:51:04.286Z"
+generated_at: "2026-03-30T03:53:58.615Z"
 status: "active"
 ---
 
 # § 488. Management of electromagnetic spectrum
 
-- **(a)** Every three years 1 1 So in original. Probably should be followed by a comma. the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
+- **(a)** Every three years the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
   - **(1)** An inventory of the uses of the electromagnetic spectrum for national security purposes and other purposes.
   - **(2)** An estimate of the need for electromagnetic spectrum for national security and other purposes over each of the periods specified in subsection (b).
   - **(3)** Any other matters that the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, considers appropriate for the strategic plan.

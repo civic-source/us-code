@@ -3,9 +3,9 @@ title: "Section 3205 - Impact study by Secretary of Labor"
 usc_title: 19
 usc_section: "3205"
 chapter: 20
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "19 U.S.C. § 3205"
-generated_at: "2026-03-30T03:51:27.358Z"
+generated_at: "2026-03-30T03:54:19.036Z"
 status: "active"
 ---
 

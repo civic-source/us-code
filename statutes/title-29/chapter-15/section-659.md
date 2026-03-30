@@ -3,9 +3,9 @@ title: "Section 659 - Enforcement procedures"
 usc_title: 29
 usc_section: "659"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "29 U.S.C. § 659"
-generated_at: "2026-03-30T03:52:01.700Z"
+generated_at: "2026-03-30T03:55:04.721Z"
 status: "active"
 ---
 

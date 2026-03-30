@@ -3,9 +3,9 @@ title: "Section 5332 - Functions of Council"
 usc_title: 7
 usc_section: "5332"
 chapter: 84
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 5332"
-generated_at: "2026-03-30T03:51:08.798Z"
+generated_at: "2026-03-30T03:53:51.396Z"
 status: "active"
 ---
 

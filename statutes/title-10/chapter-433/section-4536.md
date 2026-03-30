@@ -3,9 +3,9 @@ title: "Section 4536 - Equipment: post bakeries, schools, kitchens, and mess hal
 usc_title: 10
 usc_section: "4536"
 chapter: 433
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 4536"
-generated_at: "2026-03-30T03:51:04.430Z"
+generated_at: "2026-03-30T03:53:58.752Z"
 status: "active"
 ---
 

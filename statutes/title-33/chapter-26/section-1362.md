@@ -3,9 +3,9 @@ title: "Section 1362 - Definitions"
 usc_title: 33
 usc_section: "1362"
 chapter: 26
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 1362"
-generated_at: "2026-03-30T03:52:13.153Z"
+generated_at: "2026-03-30T03:55:08.740Z"
 status: "active"
 ---
 
@@ -57,3 +57,4 @@ Except as otherwise specifically provided, when used in this chapter:
     - **(B)** The term “recreational vessel” does not include a vessel that is subject to Coast Guard inspection and that—
       - **(i)** is engaged in commercial use; or
       - **(ii)** carries paying passengers.
+  - **(26)** The term “treatment works” has the meaning given the term in section 1292 of this title .

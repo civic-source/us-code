@@ -3,9 +3,9 @@ title: "Section 531 - Federal Bureau of Investigation"
 usc_title: 28
 usc_section: "531"
 chapter: 33
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "28 U.S.C. § 531"
-generated_at: "2026-03-30T03:52:00.471Z"
+generated_at: "2026-03-30T03:55:03.859Z"
 status: "active"
 ---
 

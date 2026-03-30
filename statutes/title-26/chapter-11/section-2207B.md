@@ -3,9 +3,9 @@ title: "Section 2207B - Right of recovery where decedent retained interest"
 usc_title: 26
 usc_section: "2207B"
 chapter: 11
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "26 U.S.C. § 2207B"
-generated_at: "2026-03-30T03:52:08.692Z"
+generated_at: "2026-03-30T03:55:01.963Z"
 status: "active"
 ---
 

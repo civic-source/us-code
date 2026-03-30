@@ -3,9 +3,9 @@ title: "Section 702to702f - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 
 usc_title: 15
 usc_section: "702to702f"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 702to702f"
-generated_at: "2026-03-30T03:51:23.012Z"
+generated_at: "2026-03-30T03:54:09.391Z"
 status: "repealed"
 ---
 

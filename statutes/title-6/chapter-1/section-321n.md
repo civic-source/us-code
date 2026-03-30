@@ -3,9 +3,9 @@ title: "Section 321n - Acceptance of gifts"
 usc_title: 6
 usc_section: "321n"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "6 U.S.C. § 321n"
-generated_at: "2026-03-30T03:50:56.969Z"
+generated_at: "2026-03-30T03:53:41.252Z"
 status: "active"
 ---
 

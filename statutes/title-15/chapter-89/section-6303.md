@@ -3,9 +3,9 @@ title: "Section 6303 - Boxing matches in States without boxing commissions"
 usc_title: 15
 usc_section: "6303"
 chapter: 89
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 6303"
-generated_at: "2026-03-30T03:51:23.130Z"
+generated_at: "2026-03-30T03:54:09.505Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 901 - Social Security Administration"
 usc_title: 42
 usc_section: "901"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 901"
-generated_at: "2026-03-30T03:52:36.875Z"
+generated_at: "2026-03-30T03:55:43.681Z"
 status: "active"
 ---
 

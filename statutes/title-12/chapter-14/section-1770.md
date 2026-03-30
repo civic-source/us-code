@@ -3,9 +3,9 @@ title: "Section 1770 - Allotment of space in Federal buildings or Federal land"
 usc_title: 12
 usc_section: "1770"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "12 U.S.C. § 1770"
-generated_at: "2026-03-30T03:51:18.059Z"
+generated_at: "2026-03-30T03:54:05.358Z"
 status: "active"
 ---
 

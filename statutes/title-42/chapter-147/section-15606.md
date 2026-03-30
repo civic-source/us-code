@@ -3,9 +3,9 @@ title: "Section 15606 - National Prison Rape Elimination Commission"
 usc_title: 42
 usc_section: "15606"
 chapter: 147
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15606"
-generated_at: "2026-03-30T03:52:37.599Z"
+generated_at: "2026-03-30T03:55:44.206Z"
 status: "active"
 ---
 

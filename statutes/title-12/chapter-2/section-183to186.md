@@ -3,9 +3,9 @@ title: "Section 183to186 - Repealed. Pub. L. 103–325, title VI, § 602(e)(32) 
 usc_title: 12
 usc_section: "183to186"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "12 U.S.C. § 183to186"
-generated_at: "2026-03-30T03:51:17.975Z"
+generated_at: "2026-03-30T03:54:05.272Z"
 status: "repealed"
 ---
 

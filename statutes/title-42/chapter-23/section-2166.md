@@ -3,9 +3,9 @@ title: "Section 2166 - Applicability of other laws"
 usc_title: 42
 usc_section: "2166"
 chapter: 23
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 2166"
-generated_at: "2026-03-30T03:52:37.163Z"
+generated_at: "2026-03-30T03:55:43.884Z"
 status: "active"
 ---
 

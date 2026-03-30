@@ -3,9 +3,9 @@ title: "Section 3713b - Improved investigative and forensic resources for enforc
 usc_title: 42
 usc_section: "3713b"
 chapter: 46
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 3713b"
-generated_at: "2026-03-30T03:52:37.214Z"
+generated_at: "2026-03-30T03:55:43.920Z"
 status: "active"
 ---
 

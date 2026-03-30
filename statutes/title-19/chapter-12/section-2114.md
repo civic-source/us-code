@@ -3,9 +3,9 @@ title: "Section 2114 - Sector negotiating objectives"
 usc_title: 19
 usc_section: "2114"
 chapter: 12
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "19 U.S.C. § 2114"
-generated_at: "2026-03-30T03:51:27.324Z"
+generated_at: "2026-03-30T03:54:19.003Z"
 status: "active"
 ---
 

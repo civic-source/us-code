@@ -3,9 +3,9 @@ title: "Section 54B - Qualified forestry conservation bonds"
 usc_title: 26
 usc_section: "54B"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "26 U.S.C. § 54B"
-generated_at: "2026-03-30T03:52:08.465Z"
+generated_at: "2026-03-30T03:55:01.812Z"
 status: "active"
 ---
 

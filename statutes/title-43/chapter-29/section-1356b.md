@@ -3,9 +3,9 @@ title: "Section 1356b - Transboundary hydrocarbon agreements"
 usc_title: 43
 usc_section: "1356b"
 chapter: 29
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "43 U.S.C. § 1356b"
-generated_at: "2026-03-30T03:52:22.027Z"
+generated_at: "2026-03-30T03:55:45.078Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(1)** approving unitization agreements and related arrangements for the exploration, development, or production of oil and natural gas from transboundary reservoirs or geological structures;
   - **(2)** making available, in the limited manner necessary under the agreement and subject to the protections of confidentiality provided by the agreement, information relating to the exploration, development, and production of oil and natural gas from a transboundary reservoir or geological structure that may be considered confidential, privileged, or proprietary information under law;
   - **(3)** taking actions consistent with an expert determination under the agreement; and
-  - **(4)** ensuring only appropriate inspection staff at the Bureau of Safety and Environmental Enforcement or other Federal agency personnel designated by the Bureau, the operator, or the lessee have 1 1 So in original. Probably should be “has”. authority to stop work on any installation or other device or vessel permanently or temporarily attached to the seabed of the United States that may be erected thereon for the purpose of resource exploration, development or production activities as approved by the Secretary.
+  - **(4)** ensuring only appropriate inspection staff at the Bureau of Safety and Environmental Enforcement or other Federal agency personnel designated by the Bureau, the operator, or the lessee have authority to stop work on any installation or other device or vessel permanently or temporarily attached to the seabed of the United States that may be erected thereon for the purpose of resource exploration, development or production activities as approved by the Secretary.
 - **(d)** Nothing in this section shall be construed—
   - **(1)** to authorize the Secretary to participate in any negotiations, conferences, or consultations with Cuba regarding exploration, development, or production of hydrocarbon resources in the Gulf of Mexico along the United States maritime border with Cuba or the area known by the Department of the Interior as the “Eastern Gap”; or
   - **(2)** as affecting the sovereign rights and the jurisdiction that the United States has under international law over the Outer Continental Shelf that appertains to it.

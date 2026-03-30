@@ -3,9 +3,9 @@ title: "Section 1856a - Authority to enter into reciprocal agreement; waiver of 
 usc_title: 42
 usc_section: "1856a"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 1856a"
-generated_at: "2026-03-30T03:52:37.117Z"
+generated_at: "2026-03-30T03:55:43.854Z"
 status: "active"
 ---
 

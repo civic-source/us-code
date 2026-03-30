@@ -3,9 +3,9 @@ title: "Section 152609 - Civil action by Attorney General for equitable relief"
 usc_title: 36
 usc_section: "152609"
 chapter: 1526
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "36 U.S.C. § 152609"
-generated_at: "2026-03-30T03:52:18.784Z"
+generated_at: "2026-03-30T03:55:11.213Z"
 status: "active"
 ---
 

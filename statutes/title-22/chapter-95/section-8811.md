@@ -3,9 +3,9 @@ title: "Section 8811 - Rule of construction"
 usc_title: 22
 usc_section: "8811"
 chapter: 95
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 8811"
-generated_at: "2026-03-30T03:51:55.141Z"
+generated_at: "2026-03-30T03:54:40.926Z"
 status: "active"
 ---
 

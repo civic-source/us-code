@@ -3,9 +3,9 @@ title: "Section 4225 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96
 usc_title: 42
 usc_section: "4225"
 chapter: 52
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 4225"
-generated_at: "2026-03-30T03:52:37.240Z"
+generated_at: "2026-03-30T03:55:43.939Z"
 status: "repealed"
 ---
 

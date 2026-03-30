@@ -3,9 +3,9 @@ title: "Section 1480 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 22
 usc_section: "1480"
 chapter: 18
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 1480"
-generated_at: "2026-03-30T03:51:54.987Z"
+generated_at: "2026-03-30T03:54:40.765Z"
 status: "repealed"
 ---
 

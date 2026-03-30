@@ -3,9 +3,9 @@ title: "Section 1843 - Duties and powers of Secretary"
 usc_title: 43
 usc_section: "1843"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "43 U.S.C. § 1843"
-generated_at: "2026-03-30T03:52:22.053Z"
+generated_at: "2026-03-30T03:55:45.098Z"
 status: "active"
 ---
 

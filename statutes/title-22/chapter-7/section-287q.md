@@ -3,9 +3,9 @@ title: "Section 287q - General and special conferences; expenses; acceptance of 
 usc_title: 22
 usc_section: "287q"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 287q"
-generated_at: "2026-03-30T03:51:54.971Z"
+generated_at: "2026-03-30T03:54:40.750Z"
 status: "active"
 ---
 

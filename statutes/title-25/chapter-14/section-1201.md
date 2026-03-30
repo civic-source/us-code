@@ -3,9 +3,9 @@ title: "Section 1201 - Per capita distributions to tribal members; attorney’s 
 usc_title: 25
 usc_section: "1201"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 1201"
-generated_at: "2026-03-30T03:51:52.379Z"
+generated_at: "2026-03-30T03:54:47.104Z"
 status: "active"
 ---
 

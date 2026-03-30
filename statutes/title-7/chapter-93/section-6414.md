@@ -3,9 +3,9 @@ title: "Section 6414 - Suspension or termination of orders"
 usc_title: 7
 usc_section: "6414"
 chapter: 93
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 6414"
-generated_at: "2026-03-30T03:51:08.815Z"
+generated_at: "2026-03-30T03:53:51.413Z"
 status: "active"
 ---
 

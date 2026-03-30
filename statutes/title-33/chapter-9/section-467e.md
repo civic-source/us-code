@@ -3,9 +3,9 @@ title: "Section 467e - Interagency Committee on Dam Safety"
 usc_title: 33
 usc_section: "467e"
 chapter: 9
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 467e"
-generated_at: "2026-03-30T03:52:13.101Z"
+generated_at: "2026-03-30T03:55:08.699Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** There is established an Interagency Committee on Dam Safety—
   - **(1)** comprised of a representative of each of the Department of Agriculture, the Department of Defense, the Department of Energy, the Department of the Interior, the Department of Labor, FEMA, the Federal Energy Regulatory Commission, the Nuclear Regulatory Commission, the Tennessee Valley Authority, and the United States Section of the International Boundary Commission; and
-  - **(2)** chaired by the Director.
+  - **(2)** chaired by the Administrator.
 - **(b)** ICODS shall encourage the establishment and maintenance of effective Federal programs, policies, and guidelines intended to enhance dam safety for the protection of human life and property through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.

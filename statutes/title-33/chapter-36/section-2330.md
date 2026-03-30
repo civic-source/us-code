@@ -3,9 +3,9 @@ title: "Section 2330 - Aquatic ecosystem restoration"
 usc_title: 33
 usc_section: "2330"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 2330"
-generated_at: "2026-03-30T03:52:13.174Z"
+generated_at: "2026-03-30T03:55:08.761Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
 - **(c)**
   - **(1)** Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary to pay the non-Federal share of the costs of construction required by this section and to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary.
   - **(2)** Notwithstanding section 1962d–5b of title 42 , for any project carried out under this section, a non-Federal interest may include a nonprofit entity, with the consent of the affected local government.
-- **(d)** Not more than $5,000,000 in Federal funds may be allotted under this section for a project at any single locality.
+- **(d)** Not more than $10,000,000 in Federal funds may be allotted under this section for a project at any single locality.
 - **(e)** There is authorized to be appropriated to carry out this section $50,000,000 for each fiscal year.

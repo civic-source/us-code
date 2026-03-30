@@ -3,9 +3,9 @@ title: "Section 14083 - More agents for Drug Enforcement Administration"
 usc_title: 42
 usc_section: "14083"
 chapter: 136
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 14083"
-generated_at: "2026-03-30T03:52:37.570Z"
+generated_at: "2026-03-30T03:55:44.187Z"
 status: "active"
 ---
 

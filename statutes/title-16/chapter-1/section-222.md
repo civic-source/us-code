@@ -3,9 +3,9 @@ title: "Section 222 - Administration, concessions, and privileges; contracts for
 usc_title: 16
 usc_section: "222"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 222"
-generated_at: "2026-03-30T03:51:45.784Z"
+generated_at: "2026-03-30T03:54:31.299Z"
 status: "active"
 ---
 

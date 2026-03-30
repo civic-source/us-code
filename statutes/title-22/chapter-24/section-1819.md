@@ -3,9 +3,9 @@ title: "Section 1819 - Repealed. Pub. L. 95–148, title I , Oct. 31, 1977 , 91 
 usc_title: 22
 usc_section: "1819"
 chapter: 24
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 1819"
-generated_at: "2026-03-30T03:51:54.993Z"
+generated_at: "2026-03-30T03:54:40.772Z"
 status: "repealed"
 ---
 

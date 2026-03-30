@@ -3,9 +3,9 @@ title: "Section 415 - Homeland Security Education Program"
 usc_title: 6
 usc_section: "415"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "6 U.S.C. § 415"
-generated_at: "2026-03-30T03:50:56.973Z"
+generated_at: "2026-03-30T03:53:41.254Z"
 status: "active"
 ---
 

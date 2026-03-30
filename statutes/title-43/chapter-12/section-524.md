@@ -3,9 +3,9 @@ title: "Section 524 - Cooperation with irrigation districts, etc., in constructi
 usc_title: 43
 usc_section: "524"
 chapter: 12
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "43 U.S.C. § 524"
-generated_at: "2026-03-30T03:52:22.002Z"
+generated_at: "2026-03-30T03:55:45.059Z"
 status: "active"
 ---
 

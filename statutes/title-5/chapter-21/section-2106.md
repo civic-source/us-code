@@ -3,9 +3,9 @@ title: "Section 2106 - Member of Congress"
 usc_title: 5
 usc_section: "2106"
 chapter: 21
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "5 U.S.C. § 2106"
-generated_at: "2026-03-30T03:50:45.777Z"
+generated_at: "2026-03-30T03:53:28.425Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9274 - Privacy"
 usc_title: 20
 usc_section: "9274"
 chapter: 73
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 9274"
-generated_at: "2026-03-30T03:51:32.547Z"
+generated_at: "2026-03-30T03:54:23.923Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12207 - Federal wilderness areas"
 usc_title: 42
 usc_section: "12207"
 chapter: 126
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 12207"
-generated_at: "2026-03-30T03:52:37.504Z"
+generated_at: "2026-03-30T03:55:44.136Z"
 status: "active"
 ---
 

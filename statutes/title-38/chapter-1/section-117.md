@@ -3,9 +3,9 @@ title: "Section 117 - Advance appropriations for certain medical care accounts"
 usc_title: 38
 usc_section: "117"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "38 U.S.C. § 117"
-generated_at: "2026-03-30T03:52:17.884Z"
+generated_at: "2026-03-30T03:55:26.984Z"
 status: "active"
 ---
 

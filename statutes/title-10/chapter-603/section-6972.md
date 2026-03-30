@@ -3,9 +3,9 @@ title: "Section 6972 - Chapel: crypt and window spaces"
 usc_title: 10
 usc_section: "6972"
 chapter: 603
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 6972"
-generated_at: "2026-03-30T03:51:04.444Z"
+generated_at: "2026-03-30T03:53:58.767Z"
 status: "active"
 ---
 

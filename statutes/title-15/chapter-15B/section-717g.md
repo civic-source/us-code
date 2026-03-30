@@ -3,9 +3,9 @@ title: "Section 717g - Accounts; records; memoranda"
 usc_title: 15
 usc_section: "717g"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 717g"
-generated_at: "2026-03-30T03:51:23.015Z"
+generated_at: "2026-03-30T03:54:09.395Z"
 status: "active"
 ---
 

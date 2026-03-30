@@ -3,9 +3,9 @@ title: "Section 421 - Vacancies occurring in commissions in charge of parks not 
 usc_title: 16
 usc_section: "421"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 421"
-generated_at: "2026-03-30T03:51:45.825Z"
+generated_at: "2026-03-30T03:54:31.337Z"
 status: "active"
 ---
 

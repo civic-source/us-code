@@ -3,9 +3,9 @@ title: "Section 29 - Cuivre River, Missouri"
 usc_title: 33
 usc_section: "29"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 29"
-generated_at: "2026-03-30T03:52:13.089Z"
+generated_at: "2026-03-30T03:55:08.690Z"
 status: "active"
 ---
 

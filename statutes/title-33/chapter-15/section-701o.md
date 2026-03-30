@@ -3,9 +3,9 @@ title: "Section 701o - Omitted"
 usc_title: 33
 usc_section: "701o"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 701o"
-generated_at: "2026-03-30T03:52:13.114Z"
+generated_at: "2026-03-30T03:55:08.709Z"
 status: "omitted"
 ---
 

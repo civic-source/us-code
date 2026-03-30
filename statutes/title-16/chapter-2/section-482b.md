@@ -3,9 +3,9 @@ title: "Section 482b - Mount Hood National Forest; mining rights"
 usc_title: 16
 usc_section: "482b"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 482b"
-generated_at: "2026-03-30T03:51:45.905Z"
+generated_at: "2026-03-30T03:54:31.410Z"
 status: "active"
 ---
 

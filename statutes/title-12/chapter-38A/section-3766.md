@@ -3,9 +3,9 @@ title: "Section 3766 - Computation of time"
 usc_title: 12
 usc_section: "3766"
 chapter: 38
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "12 U.S.C. § 3766"
-generated_at: "2026-03-30T03:51:18.142Z"
+generated_at: "2026-03-30T03:54:05.443Z"
 status: "active"
 ---
 

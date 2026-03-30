@@ -3,9 +3,9 @@ title: "Section 39 - Procedure for issuance of orders"
 usc_title: 15
 usc_section: "39"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 39"
-generated_at: "2026-03-30T03:51:22.961Z"
+generated_at: "2026-03-30T03:54:09.341Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16962 - Schools SAFE Act"
 usc_title: 42
 usc_section: "16962"
 chapter: 151
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 16962"
-generated_at: "2026-03-30T03:52:37.630Z"
+generated_at: "2026-03-30T03:55:44.228Z"
 status: "active"
 ---
 

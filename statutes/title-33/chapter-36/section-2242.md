@@ -3,9 +3,9 @@ title: "Section 2242 - Remote and subsistence harbors"
 usc_title: 33
 usc_section: "2242"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 2242"
-generated_at: "2026-03-30T03:52:13.167Z"
+generated_at: "2026-03-30T03:55:08.754Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** In conducting a study of harbor and navigation improvements, the Secretary may recommend a project without the need to demonstrate that the project is justified solely by national economic development benefits if the Secretary determines that—
   - **(1)**
     - **(A)** the community to be served by the project is at least 70 miles from the nearest surface accessible commercial port and has no direct rail or highway link to another community served by a surface accessible port or harbor; or
-    - **(B)** the project would be located in the State of Hawaii, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, or American Samoa;
-  - **(2)** the harbor is economically critical such that over 80 percent of the goods transported through the harbor would be consumed within the community served by the harbor and navigation improvement; and
+    - **(B)** the project would be located in the State of Hawaii or Alaska, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, or American Samoa;
+  - **(2)** the harbor is economically critical such that over 80 percent of the goods transported through the harbor would be consumed within the region served by the harbor and navigation improvement, as determined by the Secretary, including consideration of information provided by the non-Federal interest; and
   - **(3)** the long-term viability of the community would be threatened without the harbor and navigation improvement.
 - **(b)** In considering whether to recommend a project under subsection (a), the Secretary shall consider the benefits of the project to—
   - **(1)** public health and safety of the local community, including access to facilities designed to protect public health and safety;
@@ -23,3 +23,8 @@ status: "active"
   - **(3)** local and regional economic opportunities;
   - **(4)** welfare of the local population; and
   - **(5)** social and cultural value to the community.
+- **(c)** Projects recommended by the Secretary under subsection (a) shall be given equivalent budget consideration and priority as projects recommended solely by national economic development benefits.
+- **(d)**
+  - **(1)** The Secretary may carry out any project identified in the study carried out pursuant to subsection (a) in accordance with the criteria for projects carried out under the authority of the Secretary under section 577 of this title .
+  - **(2)** In evaluating and implementing a project under this section, the Secretary shall allow a non-Federal interest to participate in the financing of a project in accordance with the criteria established for flood control projects under section 903(c) of the Water Resources Development Act of 1986 ( Public Law 99–662 ; 100 Stat. 4184 ).
+- **(e)** For a project that cannot be carried out under the authority specified in subsection (d), on a determination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title .

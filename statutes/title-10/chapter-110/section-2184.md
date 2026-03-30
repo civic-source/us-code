@@ -3,9 +3,9 @@ title: "Section 2184 - Termination of assistance"
 usc_title: 10
 usc_section: "2184"
 chapter: 110
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 2184"
-generated_at: "2026-03-30T03:51:04.364Z"
+generated_at: "2026-03-30T03:53:58.689Z"
 status: "active"
 ---
 

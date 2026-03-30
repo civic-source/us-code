@@ -3,9 +3,9 @@ title: "Section 15384 - Study and report on voters who register by mail and use 
 usc_title: 42
 usc_section: "15384"
 chapter: 146
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15384"
-generated_at: "2026-03-30T03:52:37.594Z"
+generated_at: "2026-03-30T03:55:44.202Z"
 status: "active"
 ---
 

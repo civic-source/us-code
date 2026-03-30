@@ -3,9 +3,9 @@ title: "Section 3796d - Purposes"
 usc_title: 42
 usc_section: "3796d"
 chapter: 46
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 3796d"
-generated_at: "2026-03-30T03:52:37.219Z"
+generated_at: "2026-03-30T03:55:43.924Z"
 status: "active"
 ---
 

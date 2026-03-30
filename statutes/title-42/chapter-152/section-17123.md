@@ -3,9 +3,9 @@ title: "Section 17123 - Green Building Advisory Committee"
 usc_title: 42
 usc_section: "17123"
 chapter: 152
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 17123"
-generated_at: "2026-03-30T03:52:37.637Z"
+generated_at: "2026-03-30T03:55:44.233Z"
 status: "active"
 ---
 

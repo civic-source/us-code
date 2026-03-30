@@ -3,9 +3,9 @@ title: "Section 157 - Arbitration"
 usc_title: 45
 usc_section: "157"
 chapter: 8
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "45 U.S.C. § 157"
-generated_at: "2026-03-30T03:52:20.946Z"
+generated_at: "2026-03-30T03:55:48.237Z"
 status: "active"
 ---
 

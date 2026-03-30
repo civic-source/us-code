@@ -3,9 +3,9 @@ title: "Section 702b - Local contribution toward cost of flood control work"
 usc_title: 33
 usc_section: "702b"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 702b"
-generated_at: "2026-03-30T03:52:13.115Z"
+generated_at: "2026-03-30T03:55:08.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 954 - Grades and standards for classification"
 usc_title: 7
 usc_section: "954"
 chapter: 32
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 954"
-generated_at: "2026-03-30T03:51:08.670Z"
+generated_at: "2026-03-30T03:53:51.274Z"
 status: "active"
 ---
 

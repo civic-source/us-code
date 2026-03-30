@@ -3,9 +3,9 @@ title: "Section 431 - National monuments; reservation of lands; relinquishment o
 usc_title: 16
 usc_section: "431"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 431"
-generated_at: "2026-03-30T03:51:45.834Z"
+generated_at: "2026-03-30T03:54:31.345Z"
 status: "active"
 ---
 

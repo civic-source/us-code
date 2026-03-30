@@ -3,9 +3,9 @@ title: "Section 3132 - Alternatives to payment bonds provided by Federal Acquisi
 usc_title: 40
 usc_section: "3132"
 chapter: 31
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "40 U.S.C. § 3132"
-generated_at: "2026-03-30T03:52:16.332Z"
+generated_at: "2026-03-30T03:55:11.945Z"
 status: "active"
 ---
 

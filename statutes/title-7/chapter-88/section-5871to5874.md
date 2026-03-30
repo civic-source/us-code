@@ -3,9 +3,9 @@ title: "Section 5871to5874 - Repealed. Pub. L. 104–127, title VIII, § 861 , A
 usc_title: 7
 usc_section: "5871to5874"
 chapter: 88
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 5871to5874"
-generated_at: "2026-03-30T03:51:08.804Z"
+generated_at: "2026-03-30T03:53:51.402Z"
 status: "repealed"
 ---
 

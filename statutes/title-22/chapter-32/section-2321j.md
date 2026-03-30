@@ -3,9 +3,9 @@ title: "Section 2321j - Authority to transfer excess defense articles"
 usc_title: 22
 usc_section: "2321j"
 chapter: 32
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 2321j"
-generated_at: "2026-03-30T03:51:55.017Z"
+generated_at: "2026-03-30T03:54:40.797Z"
 status: "active"
 ---
 

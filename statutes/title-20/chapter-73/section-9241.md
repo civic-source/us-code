@@ -3,9 +3,9 @@ title: "Section 9241 - Grants and contracts for eligible providers"
 usc_title: 20
 usc_section: "9241"
 chapter: 73
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 9241"
-generated_at: "2026-03-30T03:51:32.545Z"
+generated_at: "2026-03-30T03:54:23.922Z"
 status: "active"
 ---
 

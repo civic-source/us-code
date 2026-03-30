@@ -3,9 +3,9 @@ title: "Section 15421 - Payments to States and units of local government to assu
 usc_title: 42
 usc_section: "15421"
 chapter: 146
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15421"
-generated_at: "2026-03-30T03:52:37.595Z"
+generated_at: "2026-03-30T03:55:44.203Z"
 status: "active"
 ---
 

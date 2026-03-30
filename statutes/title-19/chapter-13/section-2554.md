@@ -3,9 +3,9 @@ title: "Section 2554 - Procedure after finding by international forum"
 usc_title: 19
 usc_section: "2554"
 chapter: 13
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "19 U.S.C. § 2554"
-generated_at: "2026-03-30T03:51:27.346Z"
+generated_at: "2026-03-30T03:54:19.024Z"
 status: "active"
 ---
 

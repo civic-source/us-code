@@ -3,9 +3,9 @@ title: "Section 1857 - Prohibited acts"
 usc_title: 16
 usc_section: "1857"
 chapter: 38
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 1857"
-generated_at: "2026-03-30T03:51:46.040Z"
+generated_at: "2026-03-30T03:54:31.536Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2584 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(e
 usc_title: 50
 usc_section: "2584"
 chapter: 42
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "50 U.S.C. § 2584"
-generated_at: "2026-03-30T03:52:44.244Z"
+generated_at: "2026-03-30T03:55:58.518Z"
 status: "repealed"
 ---
 

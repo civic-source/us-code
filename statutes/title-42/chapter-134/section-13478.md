@@ -3,9 +3,9 @@ title: "Section 13478 - Electric and magnetic fields research and public informa
 usc_title: 42
 usc_section: "13478"
 chapter: 134
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 13478"
-generated_at: "2026-03-30T03:52:37.551Z"
+generated_at: "2026-03-30T03:55:44.171Z"
 status: "active"
 ---
 

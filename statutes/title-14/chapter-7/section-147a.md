@@ -3,9 +3,9 @@ title: "Section 147a - Department of Health and Human Services"
 usc_title: 14
 usc_section: "147a"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "14 U.S.C. § 147a"
-generated_at: "2026-03-30T03:51:14.599Z"
+generated_at: "2026-03-30T03:54:09.785Z"
 status: "active"
 ---
 

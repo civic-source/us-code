@@ -3,9 +3,9 @@ title: "Section 8725 - Recommendations on platting and subdividing land"
 usc_title: 40
 usc_section: "8725"
 chapter: 87
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "40 U.S.C. § 8725"
-generated_at: "2026-03-30T03:52:16.339Z"
+generated_at: "2026-03-30T03:55:11.951Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1501 - Voluntary reliquidations by Customs Service"
 usc_title: 19
 usc_section: "1501"
 chapter: 4
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "19 U.S.C. § 1501"
-generated_at: "2026-03-30T03:51:27.295Z"
+generated_at: "2026-03-30T03:54:18.974Z"
 status: "active"
 ---
 

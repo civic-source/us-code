@@ -3,9 +3,9 @@ title: "Section 469c - Assistance to Secretary of the Interior by Federal agenci
 usc_title: 16
 usc_section: "469c"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 469c"
-generated_at: "2026-03-30T03:51:45.895Z"
+generated_at: "2026-03-30T03:54:31.400Z"
 status: "active"
 ---
 

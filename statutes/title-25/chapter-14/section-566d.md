@@ -3,9 +3,9 @@ title: "Section 566d - Transfer of land to be held in trust"
 usc_title: 25
 usc_section: "566d"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 566d"
-generated_at: "2026-03-30T03:51:52.352Z"
+generated_at: "2026-03-30T03:54:47.086Z"
 status: "active"
 ---
 

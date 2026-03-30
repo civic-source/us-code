@@ -3,9 +3,9 @@ title: "Section 9308 - International cooperation; examination of impact on natio
 usc_title: 42
 usc_section: "9308"
 chapter: 101
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 9308"
-generated_at: "2026-03-30T03:52:37.426Z"
+generated_at: "2026-03-30T03:55:44.078Z"
 status: "active"
 ---
 

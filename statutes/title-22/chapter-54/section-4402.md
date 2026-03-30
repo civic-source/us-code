@@ -3,9 +3,9 @@ title: "Section 4402 - Grants; authorization; purposes; terms and conditions; de
 usc_title: 22
 usc_section: "4402"
 chapter: 54
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 4402"
-generated_at: "2026-03-30T03:51:55.081Z"
+generated_at: "2026-03-30T03:54:40.863Z"
 status: "active"
 ---
 

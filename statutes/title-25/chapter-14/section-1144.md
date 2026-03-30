@@ -3,9 +3,9 @@ title: "Section 1144 - Apportionment; ratio of apportioned shares"
 usc_title: 25
 usc_section: "1144"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 1144"
-generated_at: "2026-03-30T03:51:52.378Z"
+generated_at: "2026-03-30T03:54:47.104Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6008 - Existing claims not affected"
 usc_title: 22
 usc_section: "6008"
 chapter: 69
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 6008"
-generated_at: "2026-03-30T03:51:55.095Z"
+generated_at: "2026-03-30T03:54:40.880Z"
 status: "active"
 ---
 

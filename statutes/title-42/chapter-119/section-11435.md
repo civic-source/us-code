@@ -3,9 +3,9 @@ title: "Section 11435 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11435"
 chapter: 119
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 11435"
-generated_at: "2026-03-30T03:52:37.492Z"
+generated_at: "2026-03-30T03:55:44.128Z"
 status: "active"
 ---
 

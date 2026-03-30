@@ -3,9 +3,9 @@ title: "Section 1314 - Repealed. June 25, 1938, ch. 679, § 35 , 52 Stat. 1092 ,
 usc_title: 19
 usc_section: "1314"
 chapter: 4
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "19 U.S.C. § 1314"
-generated_at: "2026-03-30T03:51:27.285Z"
+generated_at: "2026-03-30T03:54:18.964Z"
 status: "repealed"
 ---
 

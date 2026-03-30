@@ -3,9 +3,9 @@ title: "Section 561 - Acquisition directorate"
 usc_title: 14
 usc_section: "561"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "14 U.S.C. § 561"
-generated_at: "2026-03-30T03:51:14.601Z"
+generated_at: "2026-03-30T03:54:09.789Z"
 status: "active"
 ---
 

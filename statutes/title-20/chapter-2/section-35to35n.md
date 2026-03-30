@@ -3,9 +3,9 @@ title: "Section 35to35n - Omitted"
 usc_title: 20
 usc_section: "35to35n"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 35to35n"
-generated_at: "2026-03-30T03:51:32.336Z"
+generated_at: "2026-03-30T03:54:23.709Z"
 status: "omitted"
 ---
 

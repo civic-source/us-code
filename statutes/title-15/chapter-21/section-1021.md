@@ -3,9 +3,9 @@ title: "Section 1021 - Congressional declarations"
 usc_title: 15
 usc_section: "1021"
 chapter: 21
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 1021"
-generated_at: "2026-03-30T03:51:23.024Z"
+generated_at: "2026-03-30T03:54:09.404Z"
 status: "active"
 ---
 

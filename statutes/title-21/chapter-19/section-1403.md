@@ -3,9 +3,9 @@ title: "Section 1403 - Pesticide analytical methods"
 usc_title: 21
 usc_section: "1403"
 chapter: 19
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "21 U.S.C. § 1403"
-generated_at: "2026-03-30T03:51:50.898Z"
+generated_at: "2026-03-30T03:54:38.418Z"
 status: "active"
 ---
 

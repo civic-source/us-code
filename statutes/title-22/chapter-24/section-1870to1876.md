@@ -3,9 +3,9 @@ title: "Section 1870to1876 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2),
 usc_title: 22
 usc_section: "1870to1876"
 chapter: 24
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 1870to1876"
-generated_at: "2026-03-30T03:51:54.993Z"
+generated_at: "2026-03-30T03:54:40.773Z"
 status: "repealed"
 ---
 

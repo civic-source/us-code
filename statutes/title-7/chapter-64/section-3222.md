@@ -3,9 +3,9 @@ title: "Section 3222 - Agricultural research at 1890 land-grant colleges, includ
 usc_title: 7
 usc_section: "3222"
 chapter: 64
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 3222"
-generated_at: "2026-03-30T03:51:08.779Z"
+generated_at: "2026-03-30T03:53:51.379Z"
 status: "active"
 ---
 

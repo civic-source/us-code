@@ -3,9 +3,9 @@ title: "Section 8217to8225 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "8217to8225"
 chapter: 831
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 8217to8225"
-generated_at: "2026-03-30T03:51:04.455Z"
+generated_at: "2026-03-30T03:53:58.778Z"
 status: "repealed"
 ---
 

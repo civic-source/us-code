@@ -3,9 +3,9 @@ title: "Section 3020e - Nutrition education"
 usc_title: 42
 usc_section: "3020e"
 chapter: 35
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 3020e"
-generated_at: "2026-03-30T03:52:37.188Z"
+generated_at: "2026-03-30T03:55:43.902Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 972a - United States representation on the Council"
 usc_title: 16
 usc_section: "972a"
 chapter: 16
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 972a"
-generated_at: "2026-03-30T03:51:45.986Z"
+generated_at: "2026-03-30T03:54:31.485Z"
 status: "active"
 ---
 

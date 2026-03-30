@@ -3,9 +3,9 @@ title: "Section 1748 - Limitations of actions"
 usc_title: 25
 usc_section: "1748"
 chapter: 19
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 1748"
-generated_at: "2026-03-30T03:51:52.408Z"
+generated_at: "2026-03-30T03:54:47.125Z"
 status: "active"
 ---
 

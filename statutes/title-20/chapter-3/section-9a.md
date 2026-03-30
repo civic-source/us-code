@@ -3,9 +3,9 @@ title: "Section 9a - Summary and repatriation of unassociated funerary objects, 
 usc_title: 20
 usc_section: "9a"
 chapter: 3
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 9a"
-generated_at: "2026-03-30T03:51:32.342Z"
+generated_at: "2026-03-30T03:54:23.715Z"
 status: "active"
 ---
 

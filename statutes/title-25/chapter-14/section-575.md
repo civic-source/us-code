@@ -3,9 +3,9 @@ title: "Section 575 - Restoration of lands"
 usc_title: 25
 usc_section: "575"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 575"
-generated_at: "2026-03-30T03:51:52.353Z"
+generated_at: "2026-03-30T03:54:47.086Z"
 status: "active"
 ---
 

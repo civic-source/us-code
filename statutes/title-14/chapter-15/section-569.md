@@ -3,9 +3,9 @@ title: "Section 569 - Report on former Coast Guard officials employed by contrac
 usc_title: 14
 usc_section: "569"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "14 U.S.C. § 569"
-generated_at: "2026-03-30T03:51:14.602Z"
+generated_at: "2026-03-30T03:54:09.790Z"
 status: "active"
 ---
 

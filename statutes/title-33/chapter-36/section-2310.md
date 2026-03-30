@@ -3,13 +3,13 @@ title: "Section 2310 - Cost sharing for Territories"
 usc_title: 33
 usc_section: "2310"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 2310"
-generated_at: "2026-03-30T03:52:13.172Z"
+generated_at: "2026-03-30T03:55:08.759Z"
 status: "active"
 ---
 
 # § 2310. Cost sharing for Territories
 
-The Secretary shall waive local cost-sharing requirements up to $200,000 for all studies and projects in American Samoa, Guam, the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
-
+- **(a)** The Secretary shall waive local cost-sharing requirements up to $200,000 for all studies and projects in American Samoa, Guam, the Northern Mariana Islands, the Virgin Islands, Puerto Rico, and the Trust Territory of the Pacific Islands.
+- **(b)** The Secretary shall adjust the dollar amount specified in subsection (a) for inflation for the period beginning on November 17, 1986 , and ending on June 10, 2014 .

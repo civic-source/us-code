@@ -3,9 +3,9 @@ title: "Section 469l - Findings and purposes"
 usc_title: 16
 usc_section: "469l"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 469l"
-generated_at: "2026-03-30T03:51:45.895Z"
+generated_at: "2026-03-30T03:54:31.400Z"
 status: "active"
 ---
 

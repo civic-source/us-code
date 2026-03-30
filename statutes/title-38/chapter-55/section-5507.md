@@ -3,9 +3,9 @@ title: "Section 5507 - Inquiry, investigations, and qualification of fiduciaries
 usc_title: 38
 usc_section: "5507"
 chapter: 55
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "38 U.S.C. § 5507"
-generated_at: "2026-03-30T03:52:17.941Z"
+generated_at: "2026-03-30T03:55:27.023Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4915 - Service of page during academic year and summer term; fil
 usc_title: 2
 usc_section: "4915"
 chapter: 49
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "2 U.S.C. § 4915"
-generated_at: "2026-03-30T03:50:54.435Z"
+generated_at: "2026-03-30T03:53:30.683Z"
 status: "active"
 ---
 

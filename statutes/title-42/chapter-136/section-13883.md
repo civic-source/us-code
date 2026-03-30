@@ -3,9 +3,9 @@ title: "Section 13883 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13883"
 chapter: 136
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 13883"
-generated_at: "2026-03-30T03:52:37.561Z"
+generated_at: "2026-03-30T03:55:44.179Z"
 status: "active"
 ---
 

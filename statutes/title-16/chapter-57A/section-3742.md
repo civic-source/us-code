@@ -3,9 +3,9 @@ title: "Section 3742 - Purposes"
 usc_title: 16
 usc_section: "3742"
 chapter: 57
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 3742"
-generated_at: "2026-03-30T03:51:46.071Z"
+generated_at: "2026-03-30T03:54:31.565Z"
 status: "active"
 ---
 

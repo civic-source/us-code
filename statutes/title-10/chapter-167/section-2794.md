@@ -3,9 +3,9 @@ title: "Section 2794 - Renumbered § 453]"
 usc_title: 10
 usc_section: "2794"
 chapter: 167
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 2794"
-generated_at: "2026-03-30T03:51:04.414Z"
+generated_at: "2026-03-30T03:53:58.737Z"
 status: "renumbered"
 ---
 

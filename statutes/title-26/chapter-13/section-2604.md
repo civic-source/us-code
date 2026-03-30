@@ -3,9 +3,9 @@ title: "Section 2604 - Credit for certain State taxes"
 usc_title: 26
 usc_section: "2604"
 chapter: 13
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "26 U.S.C. § 2604"
-generated_at: "2026-03-30T03:52:08.693Z"
+generated_at: "2026-03-30T03:55:01.964Z"
 status: "active"
 ---
 

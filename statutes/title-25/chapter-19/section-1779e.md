@@ -3,9 +3,9 @@ title: "Section 1779e - Attorney fees"
 usc_title: 25
 usc_section: "1779e"
 chapter: 19
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 1779e"
-generated_at: "2026-03-30T03:51:52.416Z"
+generated_at: "2026-03-30T03:54:47.130Z"
 status: "active"
 ---
 

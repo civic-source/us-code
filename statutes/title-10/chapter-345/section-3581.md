@@ -3,9 +3,9 @@ title: "Section 3581 - Command: chaplains"
 usc_title: 10
 usc_section: "3581"
 chapter: 345
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 3581"
-generated_at: "2026-03-30T03:51:04.425Z"
+generated_at: "2026-03-30T03:53:58.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14 - Dairy export incentive program"
 usc_title: 15
 usc_section: "14"
 chapter: 15
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-30T03:51:23.012Z"
+generated_at: "2026-03-30T03:54:09.392Z"
 status: "active"
 ---
 

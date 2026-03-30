@@ -3,9 +3,9 @@ title: "Section 681 - General authority"
 usc_title: 14
 usc_section: "681"
 chapter: 18
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "14 U.S.C. § 681"
-generated_at: "2026-03-30T03:51:14.605Z"
+generated_at: "2026-03-30T03:54:09.793Z"
 status: "active"
 ---
 

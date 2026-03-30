@@ -3,9 +3,9 @@ title: "Section 3504 - Limitations on Federal expenditures affecting the System"
 usc_title: 16
 usc_section: "3504"
 chapter: 55
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 3504"
-generated_at: "2026-03-30T03:51:46.068Z"
+generated_at: "2026-03-30T03:54:31.562Z"
 status: "active"
 ---
 

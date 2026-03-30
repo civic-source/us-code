@@ -3,9 +3,9 @@ title: "Section 4102A - Assistant Secretary of Labor for Veterans’ Employment 
 usc_title: 38
 usc_section: "4102A"
 chapter: 41
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "38 U.S.C. § 4102A"
-generated_at: "2026-03-30T03:52:17.932Z"
+generated_at: "2026-03-30T03:55:27.018Z"
 status: "active"
 ---
 

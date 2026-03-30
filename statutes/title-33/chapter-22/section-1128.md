@@ -3,9 +3,9 @@ title: "Section 1128 - National Sea Grant Advisory Board"
 usc_title: 33
 usc_section: "1128"
 chapter: 22
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 1128"
-generated_at: "2026-03-30T03:52:13.128Z"
+generated_at: "2026-03-30T03:55:08.720Z"
 status: "active"
 ---
 

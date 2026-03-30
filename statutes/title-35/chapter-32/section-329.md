@@ -3,9 +3,9 @@ title: "Section 329 - Appeal"
 usc_title: 35
 usc_section: "329"
 chapter: 32
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "35 U.S.C. § 329"
-generated_at: "2026-03-30T03:52:10.830Z"
+generated_at: "2026-03-30T03:55:07.904Z"
 status: "active"
 ---
 

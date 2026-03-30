@@ -3,9 +3,9 @@ title: "Section 3605 - Program to encourage innovative solutions to enhance elec
 usc_title: 44
 usc_section: "3605"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "44 U.S.C. § 3605"
-generated_at: "2026-03-30T03:52:21.236Z"
+generated_at: "2026-03-30T03:55:47.669Z"
 status: "active"
 ---
 

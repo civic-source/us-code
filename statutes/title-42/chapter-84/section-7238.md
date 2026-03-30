@@ -3,9 +3,9 @@ title: "Section 7238 - Temporary appointments for scientific and technical exper
 usc_title: 42
 usc_section: "7238"
 chapter: 84
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 7238"
-generated_at: "2026-03-30T03:52:37.346Z"
+generated_at: "2026-03-30T03:55:44.017Z"
 status: "active"
 ---
 

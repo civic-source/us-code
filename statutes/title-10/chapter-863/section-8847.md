@@ -3,9 +3,9 @@ title: "Section 8847 - Repealed. Pub. L. 90–130, § 1(31)(A) , Nov. 8, 1967 , 
 usc_title: 10
 usc_section: "8847"
 chapter: 863
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 8847"
-generated_at: "2026-03-30T03:51:04.458Z"
+generated_at: "2026-03-30T03:53:58.781Z"
 status: "repealed"
 ---
 

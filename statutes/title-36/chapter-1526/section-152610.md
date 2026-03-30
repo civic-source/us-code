@@ -3,9 +3,9 @@ title: "Section 152610 - Immunity of United States Government"
 usc_title: 36
 usc_section: "152610"
 chapter: 1526
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "36 U.S.C. § 152610"
-generated_at: "2026-03-30T03:52:18.784Z"
+generated_at: "2026-03-30T03:55:11.213Z"
 status: "active"
 ---
 

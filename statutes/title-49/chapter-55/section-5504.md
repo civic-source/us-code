@@ -3,9 +3,9 @@ title: "Section 5504 - Model intermodal transportation plans"
 usc_title: 49
 usc_section: "5504"
 chapter: 55
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "49 U.S.C. § 5504"
-generated_at: "2026-03-30T03:52:51.152Z"
+generated_at: "2026-03-30T03:56:01.696Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2722 - Additional unlawful acts"
 usc_title: 18
 usc_section: "2722"
 chapter: 123
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "18 U.S.C. § 2722"
-generated_at: "2026-03-30T03:51:29.554Z"
+generated_at: "2026-03-30T03:54:20.391Z"
 status: "active"
 ---
 

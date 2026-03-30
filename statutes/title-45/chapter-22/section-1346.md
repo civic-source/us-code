@@ -3,9 +3,9 @@ title: "Section 1346 - Resolution of certain issues"
 usc_title: 45
 usc_section: "1346"
 chapter: 22
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "45 U.S.C. § 1346"
-generated_at: "2026-03-30T03:52:20.975Z"
+generated_at: "2026-03-30T03:55:48.259Z"
 status: "active"
 ---
 

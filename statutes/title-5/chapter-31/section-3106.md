@@ -3,9 +3,9 @@ title: "Section 3106 - Employment of attorneys; restrictions"
 usc_title: 5
 usc_section: "3106"
 chapter: 31
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "5 U.S.C. § 3106"
-generated_at: "2026-03-30T03:50:45.779Z"
+generated_at: "2026-03-30T03:53:28.428Z"
 status: "active"
 ---
 

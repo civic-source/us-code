@@ -3,9 +3,9 @@ title: "Section 1309 - Coast Guard: notices to mariners and other special public
 usc_title: 44
 usc_section: "1309"
 chapter: 13
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "44 U.S.C. § 1309"
-generated_at: "2026-03-30T03:52:21.224Z"
+generated_at: "2026-03-30T03:55:47.660Z"
 status: "active"
 ---
 

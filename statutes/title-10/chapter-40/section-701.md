@@ -3,9 +3,9 @@ title: "Section 701 - Entitlement and accumulation"
 usc_title: 10
 usc_section: "701"
 chapter: 40
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 701"
-generated_at: "2026-03-30T03:51:04.298Z"
+generated_at: "2026-03-30T03:53:58.625Z"
 status: "active"
 ---
 

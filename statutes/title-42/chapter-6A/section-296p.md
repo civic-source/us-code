@@ -3,9 +3,9 @@ title: "Section 296p - Nurse education, practice, and quality grants"
 usc_title: 42
 usc_section: "296p"
 chapter: 6
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 296p"
-generated_at: "2026-03-30T03:52:36.746Z"
+generated_at: "2026-03-30T03:55:43.588Z"
 status: "active"
 ---
 

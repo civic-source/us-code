@@ -3,9 +3,9 @@ title: "Section 788to795 - Repealed. Pub. L. 103–199, title VIII, § 803(1) , 
 usc_title: 50
 usc_section: "788to795"
 chapter: 23
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "50 U.S.C. § 788to795"
-generated_at: "2026-03-30T03:52:44.213Z"
+generated_at: "2026-03-30T03:55:58.486Z"
 status: "repealed"
 ---
 

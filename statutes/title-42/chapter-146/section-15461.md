@@ -3,9 +3,9 @@ title: "Section 15461 - Payments for protection and advocacy systems"
 usc_title: 42
 usc_section: "15461"
 chapter: 146
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15461"
-generated_at: "2026-03-30T03:52:37.595Z"
+generated_at: "2026-03-30T03:55:44.204Z"
 status: "active"
 ---
 

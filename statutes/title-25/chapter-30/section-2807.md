@@ -3,9 +3,9 @@ title: "Section 2807 - Uniform allowance"
 usc_title: 25
 usc_section: "2807"
 chapter: 30
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 2807"
-generated_at: "2026-03-30T03:51:52.439Z"
+generated_at: "2026-03-30T03:54:47.146Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15324 - Staff"
 usc_title: 42
 usc_section: "15324"
 chapter: 146
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15324"
-generated_at: "2026-03-30T03:52:37.592Z"
+generated_at: "2026-03-30T03:55:44.201Z"
 status: "active"
 ---
 

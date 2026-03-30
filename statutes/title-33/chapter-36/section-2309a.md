@@ -3,9 +3,9 @@ title: "Section 2309a - Project modifications for improvement of environment"
 usc_title: 33
 usc_section: "2309a"
 chapter: 36
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 2309a"
-generated_at: "2026-03-30T03:52:13.172Z"
+generated_at: "2026-03-30T03:55:08.759Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** Congress finds that—
     - **(A)** the Great Lakes navigation system has been instrumental in the spread of sea lamprey and the associated impacts on its fishery; and
     - **(B)** the use of the authority under this subsection for control of sea lamprey at any Great Lakes basin location is appropriate.
-- **(d)** The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. Not more than 80 percent of the non-Federal share may be in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $5,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
+- **(d)** The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. The non-Federal share may be provided in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $10,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
 - **(e)** The Secretary shall coordinate any actions taken pursuant to this section with appropriate Federal, State, and local agencies.
 - **(f)**
 - **(g)** Notwithstanding section 1962d–5b of title 42 , a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.

@@ -3,9 +3,9 @@ title: "Section 2249b - Display of State, District of Columbia, commonwealth, an
 usc_title: 10
 usc_section: "2249b"
 chapter: 134
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 2249b"
-generated_at: "2026-03-30T03:51:04.369Z"
+generated_at: "2026-03-30T03:53:58.694Z"
 status: "active"
 ---
 

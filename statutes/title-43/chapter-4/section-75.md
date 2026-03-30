@@ -3,9 +3,9 @@ title: "Section 75 - Administration of oaths"
 usc_title: 43
 usc_section: "75"
 chapter: 4
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "43 U.S.C. § 75"
-generated_at: "2026-03-30T03:52:21.979Z"
+generated_at: "2026-03-30T03:55:45.042Z"
 status: "active"
 ---
 

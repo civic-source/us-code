@@ -3,9 +3,9 @@ title: "Section 1421e - Liability"
 usc_title: 16
 usc_section: "1421e"
 chapter: 31
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 1421e"
-generated_at: "2026-03-30T03:51:46.014Z"
+generated_at: "2026-03-30T03:54:31.512Z"
 status: "active"
 ---
 

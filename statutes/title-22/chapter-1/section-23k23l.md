@@ -3,9 +3,9 @@ title: "Section 23k23l - Transferred"
 usc_title: 22
 usc_section: "23k23l"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "22 U.S.C. § 23k23l"
-generated_at: "2026-03-30T03:51:54.946Z"
+generated_at: "2026-03-30T03:54:40.724Z"
 status: "transferred"
 ---
 

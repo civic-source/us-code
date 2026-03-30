@@ -3,9 +3,9 @@ title: "Section 1408 - Legislative authority to create authorities; appointment 
 usc_title: 48
 usc_section: "1408"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "48 U.S.C. § 1408"
-generated_at: "2026-03-30T03:52:41.010Z"
+generated_at: "2026-03-30T03:55:58.979Z"
 status: "active"
 ---
 

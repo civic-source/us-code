@@ -3,9 +3,9 @@ title: "Section 9704 - Powers of the Commission"
 usc_title: 20
 usc_section: "9704"
 chapter: 77
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 9704"
-generated_at: "2026-03-30T03:51:32.554Z"
+generated_at: "2026-03-30T03:54:23.932Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 906a - Art. 106a. Espionage"
 usc_title: 10
 usc_section: "906a"
 chapter: 47
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 906a"
-generated_at: "2026-03-30T03:51:04.306Z"
+generated_at: "2026-03-30T03:53:58.633Z"
 status: "active"
 ---
 

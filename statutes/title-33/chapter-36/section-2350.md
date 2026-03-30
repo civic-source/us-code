@@ -1,0 +1,28 @@
+---
+title: "Section 2350 - Corrosion prevention"
+usc_title: 33
+usc_section: "2350"
+chapter: 36
+current_through: "PL 113-121"
+classification: "33 U.S.C. § 2350"
+generated_at: "2026-03-30T03:55:08.764Z"
+status: "active"
+---
+
+# § 2350. Corrosion prevention
+
+- **(a)** To the greatest extent practicable, the Secretary shall encourage and incorporate corrosion prevention activities at water resources development projects.
+- **(b)** In carrying out subsection (a), the Secretary, to the greatest extent practicable, shall ensure that contractors performing work for water resources development projects—
+  - **(1)** use best practices to carry out corrosion prevention activities in the field;
+  - **(2)** use industry-recognized standards and corrosion mitigation and prevention methods when—
+    - **(A)** determining protective coatings;
+    - **(B)** selecting materials; and
+    - **(C)** determining methods of cathodic protection, design, and engineering for corrosion prevention;
+  - **(3)** use certified coating application specialists and cathodic protection technicians and engineers;
+  - **(4)** use best practices in environmental protection to prevent environmental degradation and to ensure careful handling of all hazardous materials;
+  - **(5)** demonstrate a history of employing industry-certified inspectors to ensure adherence to best practices and standards; and
+  - **(6)** demonstrate a history of compliance with applicable requirements of the Occupational Safety and Health Administration.
+- **(c)** In this section, the term “corrosion prevention activities” means—
+  - **(1)** the application and inspection of protective coatings for complex work involving steel and cementitious structures, including structures that will be exposed in immersion;
+  - **(2)** the installation, testing, and inspection of cathodic protection systems; and
+  - **(3)** any other activities related to corrosion prevention the Secretary determines appropriate.

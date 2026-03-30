@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T03:52:08.622Z"
+generated_at: "2026-03-30T03:55:01.922Z"
 status: "active"
 ---
 

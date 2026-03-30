@@ -3,9 +3,9 @@ title: "Section 2916 - Demonstration, pilot, multiservice, research, and multist
 usc_title: 29
 usc_section: "2916"
 chapter: 30
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "29 U.S.C. § 2916"
-generated_at: "2026-03-30T03:52:01.776Z"
+generated_at: "2026-03-30T03:55:04.779Z"
 status: "active"
 ---
 

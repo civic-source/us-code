@@ -3,9 +3,9 @@ title: "Section 5587 - Supervision of research, development, and demonstration p
 usc_title: 42
 usc_section: "5587"
 chapter: 71
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 5587"
-generated_at: "2026-03-30T03:52:37.280Z"
+generated_at: "2026-03-30T03:55:43.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423 - Misuse of evidence of citizenship or naturalization"
 usc_title: 18
 usc_section: "1423"
 chapter: 69
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "18 U.S.C. § 1423"
-generated_at: "2026-03-30T03:51:29.525Z"
+generated_at: "2026-03-30T03:54:20.366Z"
 status: "active"
 ---
 

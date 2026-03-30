@@ -3,9 +3,9 @@ title: "Section 923 - Random searches of containers"
 usc_title: 6
 usc_section: "923"
 chapter: 3
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "6 U.S.C. § 923"
-generated_at: "2026-03-30T03:50:56.987Z"
+generated_at: "2026-03-30T03:53:41.267Z"
 status: "active"
 ---
 

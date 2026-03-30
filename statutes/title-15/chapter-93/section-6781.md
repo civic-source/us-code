@@ -3,9 +3,9 @@ title: "Section 6781 - Standard of regulation for motor vehicle rentals"
 usc_title: 15
 usc_section: "6781"
 chapter: 93
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 6781"
-generated_at: "2026-03-30T03:51:23.138Z"
+generated_at: "2026-03-30T03:54:09.513Z"
 status: "active"
 ---
 

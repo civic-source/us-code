@@ -3,9 +3,9 @@ title: "Section 5928 - Repealed. Pub. L. 105–185, title III, § 302(c) , June 
 usc_title: 7
 usc_section: "5928"
 chapter: 88
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 5928"
-generated_at: "2026-03-30T03:51:08.805Z"
+generated_at: "2026-03-30T03:53:51.403Z"
 status: "repealed"
 ---
 

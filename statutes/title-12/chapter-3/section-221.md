@@ -3,9 +3,9 @@ title: "Section 221 - Definitions"
 usc_title: 12
 usc_section: "221"
 chapter: 3
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "12 U.S.C. § 221"
-generated_at: "2026-03-30T03:51:17.978Z"
+generated_at: "2026-03-30T03:54:05.275Z"
 status: "active"
 ---
 

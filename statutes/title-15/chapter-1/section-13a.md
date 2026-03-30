@@ -3,9 +3,9 @@ title: "Section 13a - Discrimination in rebates, discounts, or advertising servi
 usc_title: 15
 usc_section: "13a"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 13a"
-generated_at: "2026-03-30T03:51:22.895Z"
+generated_at: "2026-03-30T03:54:09.280Z"
 status: "active"
 ---
 

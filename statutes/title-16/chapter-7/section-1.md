@@ -3,9 +3,9 @@ title: "Section 1 - Definition of State"
 usc_title: 16
 usc_section: "1"
 chapter: 7
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T03:51:45.950Z"
+generated_at: "2026-03-30T03:54:31.451Z"
 status: "active"
 ---
 

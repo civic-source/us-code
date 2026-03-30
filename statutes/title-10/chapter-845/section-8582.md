@@ -3,9 +3,9 @@ title: "Section 8582 - Repealed. Pub. L. 96–513, title II, § 211 , Dec. 12, 1
 usc_title: 10
 usc_section: "8582"
 chapter: 845
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 8582"
-generated_at: "2026-03-30T03:51:04.457Z"
+generated_at: "2026-03-30T03:53:58.779Z"
 status: "repealed"
 ---
 

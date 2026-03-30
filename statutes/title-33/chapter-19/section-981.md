@@ -3,9 +3,9 @@ title: "Section 981 - Creation of Saint Lawrence Seaway Development Corporation"
 usc_title: 33
 usc_section: "981"
 chapter: 19
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "33 U.S.C. § 981"
-generated_at: "2026-03-30T03:52:13.126Z"
+generated_at: "2026-03-30T03:55:08.719Z"
 status: "active"
 ---
 

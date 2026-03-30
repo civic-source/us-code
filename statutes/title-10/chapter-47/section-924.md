@@ -3,9 +3,9 @@ title: "Section 924 - Art. 124. Maiming"
 usc_title: 10
 usc_section: "924"
 chapter: 47
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 924"
-generated_at: "2026-03-30T03:51:04.307Z"
+generated_at: "2026-03-30T03:53:58.635Z"
 status: "active"
 ---
 

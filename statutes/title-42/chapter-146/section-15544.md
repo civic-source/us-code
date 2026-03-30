@@ -3,9 +3,9 @@ title: "Section 15544 - Other criminal penalties"
 usc_title: 42
 usc_section: "15544"
 chapter: 146
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 15544"
-generated_at: "2026-03-30T03:52:37.597Z"
+generated_at: "2026-03-30T03:55:44.205Z"
 status: "active"
 ---
 

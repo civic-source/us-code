@@ -3,9 +3,9 @@ title: "Section 2273a - Operationally Responsive Space Program Office"
 usc_title: 10
 usc_section: "2273a"
 chapter: 135
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 2273a"
-generated_at: "2026-03-30T03:51:04.370Z"
+generated_at: "2026-03-30T03:53:58.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 241 - Establishment; boundaries; maintenance of roads"
 usc_title: 16
 usc_section: "241"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 241"
-generated_at: "2026-03-30T03:51:45.785Z"
+generated_at: "2026-03-30T03:54:31.300Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13 - Upward bound"
 usc_title: 20
 usc_section: "13"
 chapter: 28
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-30T03:51:32.370Z"
+generated_at: "2026-03-30T03:54:23.745Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8455 - Recovery; restoration of earning capacity"
 usc_title: 5
 usc_section: "8455"
 chapter: 84
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "5 U.S.C. § 8455"
-generated_at: "2026-03-30T03:50:45.843Z"
+generated_at: "2026-03-30T03:53:28.495Z"
 status: "active"
 ---
 

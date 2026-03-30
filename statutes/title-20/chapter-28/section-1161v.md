@@ -3,9 +3,9 @@ title: "Section 1161v - Modeling and simulation"
 usc_title: 20
 usc_section: "1161v"
 chapter: 28
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 1161v"
-generated_at: "2026-03-30T03:51:32.430Z"
+generated_at: "2026-03-30T03:54:23.808Z"
 status: "active"
 ---
 

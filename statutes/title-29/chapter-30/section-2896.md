@@ -3,9 +3,9 @@ title: "Section 2896 - Experimental, research, and demonstration projects"
 usc_title: 29
 usc_section: "2896"
 chapter: 30
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "29 U.S.C. § 2896"
-generated_at: "2026-03-30T03:52:01.774Z"
+generated_at: "2026-03-30T03:55:04.777Z"
 status: "active"
 ---
 

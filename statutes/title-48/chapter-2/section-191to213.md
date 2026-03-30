@@ -3,9 +3,9 @@ title: "Section 191to213 - Omitted"
 usc_title: 48
 usc_section: "191to213"
 chapter: 2
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "48 U.S.C. § 191to213"
-generated_at: "2026-03-30T03:52:41.003Z"
+generated_at: "2026-03-30T03:55:58.974Z"
 status: "omitted"
 ---
 

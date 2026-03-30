@@ -3,9 +3,9 @@ title: "Section 8432 - Contributions"
 usc_title: 5
 usc_section: "8432"
 chapter: 84
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "5 U.S.C. § 8432"
-generated_at: "2026-03-30T03:50:45.839Z"
+generated_at: "2026-03-30T03:53:28.491Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 228to229d - Transferred"
 usc_title: 42
 usc_section: "228to229d"
 chapter: 6
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 228to229d"
-generated_at: "2026-03-30T03:52:36.635Z"
+generated_at: "2026-03-30T03:55:43.514Z"
 status: "transferred"
 ---
 

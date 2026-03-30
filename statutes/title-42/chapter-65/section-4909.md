@@ -3,9 +3,9 @@ title: "Section 4909 - Prohibited acts"
 usc_title: 42
 usc_section: "4909"
 chapter: 65
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "42 U.S.C. § 4909"
-generated_at: "2026-03-30T03:52:37.251Z"
+generated_at: "2026-03-30T03:55:43.946Z"
 status: "active"
 ---
 

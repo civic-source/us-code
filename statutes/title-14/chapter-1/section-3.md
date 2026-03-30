@@ -3,9 +3,9 @@ title: "Section 3 - Department in which the Coast Guard operates"
 usc_title: 14
 usc_section: "3"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "14 U.S.C. § 3"
-generated_at: "2026-03-30T03:51:14.596Z"
+generated_at: "2026-03-30T03:54:09.783Z"
 status: "active"
 ---
 

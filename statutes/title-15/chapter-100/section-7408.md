@@ -3,9 +3,9 @@ title: "Section 7408 - National Academy of Sciences study on computer and networ
 usc_title: 15
 usc_section: "7408"
 chapter: 100
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "15 U.S.C. § 7408"
-generated_at: "2026-03-30T03:51:23.147Z"
+generated_at: "2026-03-30T03:54:09.521Z"
 status: "active"
 ---
 

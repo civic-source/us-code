@@ -3,9 +3,9 @@ title: "Section 1908 - Damage to natural and historical landmarks; procedures fo
 usc_title: 16
 usc_section: "1908"
 chapter: 39
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 1908"
-generated_at: "2026-03-30T03:51:46.044Z"
+generated_at: "2026-03-30T03:54:31.540Z"
 status: "active"
 ---
 

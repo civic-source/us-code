@@ -3,9 +3,9 @@ title: "Section 1455 - Authorization of appropriations"
 usc_title: 20
 usc_section: "1455"
 chapter: 33
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 1455"
-generated_at: "2026-03-30T03:51:32.450Z"
+generated_at: "2026-03-30T03:54:23.828Z"
 status: "active"
 ---
 

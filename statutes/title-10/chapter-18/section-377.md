@@ -3,9 +3,9 @@ title: "Section 377 - Reimbursement"
 usc_title: 10
 usc_section: "377"
 chapter: 18
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "10 U.S.C. § 377"
-generated_at: "2026-03-30T03:51:04.283Z"
+generated_at: "2026-03-30T03:53:58.612Z"
 status: "active"
 ---
 

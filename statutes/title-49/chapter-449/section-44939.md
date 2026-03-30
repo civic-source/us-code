@@ -3,9 +3,9 @@ title: "Section 44939 - Training to operate certain aircraft"
 usc_title: 49
 usc_section: "44939"
 chapter: 449
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "49 U.S.C. § 44939"
-generated_at: "2026-03-30T03:52:51.233Z"
+generated_at: "2026-03-30T03:56:01.776Z"
 status: "active"
 ---
 

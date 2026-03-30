@@ -3,9 +3,9 @@ title: "Section 1382 - Entering military, naval, or Coast Guard property"
 usc_title: 18
 usc_section: "1382"
 chapter: 67
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "18 U.S.C. § 1382"
-generated_at: "2026-03-30T03:51:29.523Z"
+generated_at: "2026-03-30T03:54:20.366Z"
 status: "active"
 ---
 

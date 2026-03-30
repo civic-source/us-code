@@ -3,9 +3,9 @@ title: "Section 1680u - Traditional health care practices"
 usc_title: 25
 usc_section: "1680u"
 chapter: 18
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 1680u"
-generated_at: "2026-03-30T03:51:52.406Z"
+generated_at: "2026-03-30T03:54:47.123Z"
 status: "active"
 ---
 

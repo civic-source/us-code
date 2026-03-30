@@ -3,9 +3,9 @@ title: "Section 473a - Application to Alaska"
 usc_title: 25
 usc_section: "473a"
 chapter: 14
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "25 U.S.C. § 473a"
-generated_at: "2026-03-30T03:51:52.348Z"
+generated_at: "2026-03-30T03:54:47.083Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7267 - Short title"
 usc_title: 20
 usc_section: "7267"
 chapter: 70
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "20 U.S.C. § 7267"
-generated_at: "2026-03-30T03:51:32.523Z"
+generated_at: "2026-03-30T03:54:23.901Z"
 status: "active"
 ---
 

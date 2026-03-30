@@ -3,9 +3,9 @@ title: "Section 27c - Exclusion of certain other identified banking products"
 usc_title: 7
 usc_section: "27c"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "7 U.S.C. § 27c"
-generated_at: "2026-03-30T03:51:08.612Z"
+generated_at: "2026-03-30T03:53:51.218Z"
 status: "active"
 ---
 

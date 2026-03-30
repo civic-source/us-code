@@ -3,9 +3,9 @@ title: "Section 23110 - Service of process"
 usc_title: 36
 usc_section: "23110"
 chapter: 231
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "36 U.S.C. § 23110"
-generated_at: "2026-03-30T03:52:18.769Z"
+generated_at: "2026-03-30T03:55:11.204Z"
 status: "active"
 ---
 

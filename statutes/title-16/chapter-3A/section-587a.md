@@ -3,9 +3,9 @@ title: "Section 587a - Omitted"
 usc_title: 16
 usc_section: "587a"
 chapter: 3
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 587a"
-generated_at: "2026-03-30T03:51:45.928Z"
+generated_at: "2026-03-30T03:54:31.431Z"
 status: "omitted"
 ---
 

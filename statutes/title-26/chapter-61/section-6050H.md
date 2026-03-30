@@ -3,9 +3,9 @@ title: "Section 6050H - Returns relating to mortgage interest received in trade 
 usc_title: 26
 usc_section: "6050H"
 chapter: 61
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "26 U.S.C. § 6050H"
-generated_at: "2026-03-30T03:52:08.755Z"
+generated_at: "2026-03-30T03:55:02.007Z"
 status: "active"
 ---
 

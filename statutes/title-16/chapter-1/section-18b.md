@@ -3,9 +3,9 @@ title: "Section 18b - Advisory committee for promotion of tourist travel; expens
 usc_title: 16
 usc_section: "18b"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 18b"
-generated_at: "2026-03-30T03:51:45.763Z"
+generated_at: "2026-03-30T03:54:31.281Z"
 status: "active"
 ---
 

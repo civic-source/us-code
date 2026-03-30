@@ -3,9 +3,9 @@ title: "Section 228f - Preservation and renewal of existing grazing rights withi
 usc_title: 16
 usc_section: "228f"
 chapter: 1
-current_through: "PL 113-120"
+current_through: "PL 113-121"
 classification: "16 U.S.C. § 228f"
-generated_at: "2026-03-30T03:51:45.784Z"
+generated_at: "2026-03-30T03:54:31.299Z"
 status: "active"
 ---
 
