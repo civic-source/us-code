@@ -3,9 +3,9 @@ title: "Section 139c - Deputy Assistant Secretary of Defense for Manufacturing a
 usc_title: 10
 usc_section: "139c"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 139c"
-generated_at: "2026-03-30T04:56:26.634Z"
+generated_at: "2026-03-30T04:59:28.663Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(9)** Executing the authorities of the Manufacturing Technology Program under section 2521 of this title .
   - **(10)** Providing policy and oversight of matters related to materials critical to national security to ensure a secure supply of such materials to the Department of Defense.
   - **(11)** Carrying out the activities of the Department of Defense relating to the Defense Production Act Committee established under section 722 of the Defense Production Act of 1950 (50 U.S.C. App. 2171).
-  - **(12)** Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)), executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), including authorities under titles I and III of such Act.
+  - **(12)** Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)), 1 executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), 1 including authorities under titles I and III of such Act.
   - **(13)** Establishing policies related to international technology security and export control issues.
   - **(14)** Establishing policies related to industrial independent research and development programs under section 2372 of this title .
   - **(15)** Coordinating with the Director of Small Business Programs on all matters related to industrial base policy of the Department of Defense.

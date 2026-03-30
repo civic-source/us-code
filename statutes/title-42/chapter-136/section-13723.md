@@ -3,9 +3,9 @@ title: "Section 13723 - Congressional approval of any expansion at Lorton and co
 usc_title: 42
 usc_section: "13723"
 chapter: 136
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 13723"
-generated_at: "2026-03-30T04:58:57.346Z"
+generated_at: "2026-03-30T05:01:45.753Z"
 status: "active"
 ---
 

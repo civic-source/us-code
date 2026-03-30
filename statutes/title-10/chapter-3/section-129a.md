@@ -3,16 +3,16 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-30T04:56:26.633Z"
+generated_at: "2026-03-30T04:59:28.662Z"
 status: "active"
 ---
 
 # § 129a. General policy for total force management
 
 - **(a)** The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
-- **(b)** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b of this title ) takes precedence over cost.
+- **(b)** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b 1 1 See References in Text note below. of this title) takes precedence over cost.
 - **(c)** The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
   - **(1)** The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
   - **(2)** The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.

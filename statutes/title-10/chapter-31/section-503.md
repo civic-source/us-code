@@ -3,9 +3,9 @@ title: "Section 503 - Enlistments: recruiting campaigns; compilation of director
 usc_title: 10
 usc_section: "503"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 503"
-generated_at: "2026-03-30T04:56:26.642Z"
+generated_at: "2026-03-30T04:59:28.672Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(5)** The requirements of this subsection do not apply to a private secondary school that maintains a religious objection to service in the armed forces and which objection is verifiable through the corporate or other organizational documents or materials of that school.
   - **(6)** In this subsection:
     - **(A)** The term “local educational agency” means—
-      - **(i)** a local educational agency, within the meaning of that term in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ); and
+      - **(i)** a local educational agency, within the meaning of that term in section 8101 of the Elementary and Secondary Education Act of 1965; and
       - **(ii)** a private secondary school.
     - **(B)** The term “recruiting access” means access requested as described in paragraph (1).
     - **(C)** The term “senior executive” has the meaning given that term in section 3132(a)(3) of title 5 .

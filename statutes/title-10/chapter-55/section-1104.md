@@ -3,9 +3,9 @@ title: "Section 1104 - Sharing of health-care resources with the Department of V
 usc_title: 10
 usc_section: "1104"
 chapter: 55
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 1104"
-generated_at: "2026-03-30T04:56:26.666Z"
+generated_at: "2026-03-30T04:59:28.696Z"
 status: "active"
 ---
 

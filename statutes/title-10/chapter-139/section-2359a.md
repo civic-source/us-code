@@ -1,13 +1,13 @@
 ---
-title: "Section 2359a - Repealed. Pub. L. 112–81, div. A, title II, § 251(a)(1) , Dec. 31, 2011 , 125 Stat. 1347 ]"
+title: "Section 2359a - Repealed. Pub. L. 112–81, div. A, title II , § 251(a)(1), Dec. 31, 2011 , 125 Stat. 1347 ]"
 usc_title: 10
 usc_section: "2359a"
 chapter: 139
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2359a"
-generated_at: "2026-03-30T04:56:26.701Z"
+generated_at: "2026-03-30T04:59:28.734Z"
 status: "repealed"
 ---
 
-# [§ 2359a. Repealed. Pub. L. 112–81, div. A, title II, § 251(a)(1) , Dec. 31, 2011 , 125 Stat. 1347 ]
+# [§ 2359a. Repealed. Pub. L. 112–81, div. A, title II , § 251(a)(1), Dec. 31, 2011 , 125 Stat. 1347 ]
 

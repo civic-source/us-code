@@ -3,9 +3,9 @@ title: "Section 222 - Qualified tuition and related expenses"
 usc_title: 26
 usc_section: "222"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 222"
-generated_at: "2026-03-30T04:58:24.411Z"
+generated_at: "2026-03-30T05:00:47.821Z"
 status: "active"
 ---
 
@@ -43,4 +43,4 @@ status: "active"
     - **(A)** Except as otherwise provided by the Secretary, no deduction shall be allowed under subsection (a) unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
     - **(B)** The receipt of the statement referred to in subparagraph (A) by an individual described in subsection (c)(3) shall be treated for purposes of subparagraph (A) as received by the taxpayer.
   - **(7)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
-- **(e)** This section shall not apply to taxable years beginning after December 31, 2014 .
+- **(e)** This section shall not apply to taxable years beginning after December 31, 2016 .

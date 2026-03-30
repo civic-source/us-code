@@ -3,9 +3,9 @@ title: "Section 1541to1546 - Repealed. Pub. L. 97–164, title I, § 134 , Apr. 
 usc_title: 28
 usc_section: "1541to1546"
 chapter: 93
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "28 U.S.C. § 1541to1546"
-generated_at: "2026-03-30T04:57:42.348Z"
+generated_at: "2026-03-30T05:00:51.997Z"
 status: "repealed"
 ---
 

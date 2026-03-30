@@ -3,9 +3,9 @@ title: "Section 5563 - Conversion of certain rail passenger terminals"
 usc_title: 49
 usc_section: "5563"
 chapter: 55
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 5563"
-generated_at: "2026-03-30T04:59:03.161Z"
+generated_at: "2026-03-30T05:01:52.669Z"
 status: "active"
 ---
 

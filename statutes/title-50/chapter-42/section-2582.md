@@ -3,9 +3,9 @@ title: "Section 2582 - Requirement to develop future use plans for defense envir
 usc_title: 50
 usc_section: "2582"
 chapter: 42
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 2582"
-generated_at: "2026-03-30T04:59:01.546Z"
+generated_at: "2026-03-30T05:01:50.045Z"
 status: "active"
 ---
 

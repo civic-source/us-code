@@ -3,9 +3,9 @@ title: "Section 7903 - Ocean Research Advisory Panel"
 usc_title: 10
 usc_section: "7903"
 chapter: 665
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 7903"
-generated_at: "2026-03-30T04:56:26.743Z"
+generated_at: "2026-03-30T04:59:28.778Z"
 status: "active"
 ---
 
@@ -22,4 +22,3 @@ status: "active"
   - **(2)** To advise the Council on selection of partnership projects and allocation of funds for partnership projects for implementation under the program.
   - **(3)** To advise the Council on matters relating to national oceanographic data requirements.
   - **(4)** Any additional responsibilities that the Council considers appropriate.
-- **(c)** The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.

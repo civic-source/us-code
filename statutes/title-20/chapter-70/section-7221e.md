@@ -3,9 +3,9 @@ title: "Section 7221e - Federal formula allocation during first year and for suc
 usc_title: 20
 usc_section: "7221e"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7221e"
-generated_at: "2026-03-30T04:57:15.833Z"
+generated_at: "2026-03-30T04:59:56.216Z"
 status: "active"
 ---
 
@@ -15,3 +15,4 @@ status: "active"
 - **(b)**
   - **(1)** The measures described in subsection (a) of this section shall include provision for appropriate adjustments, through recovery of funds or reduction of payments for the succeeding year, in cases where payments made to a charter school on the basis of estimated or projected enrollment data exceed the amounts that the school is eligible to receive on the basis of actual or final enrollment data.
   - **(2)** For charter schools that first open after November 1 of any academic year, the State, in accordance with guidance provided by the Secretary and applicable Federal statutes and regulations, shall ensure that such charter schools that are eligible for the funds described in subsection (a) of this section for such academic year have a full and fair opportunity to receive those funds during the charter schools’ first year of operation.
+- **(c)** For purposes of implementing the hold harmless protections in sections 6332(c) and 6337(g)(3) of this title for a newly opened or significantly expanded charter school under this part, a State educational agency shall calculate a hold-harmless base for the prior year that, as applicable, reflects the new or significantly expanded enrollment of the charter school.

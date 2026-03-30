@@ -3,9 +3,9 @@ title: "Section 12572 - National service programs eligible for program assistanc
 usc_title: 42
 usc_section: "12572"
 chapter: 129
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 12572"
-generated_at: "2026-03-30T04:58:57.315Z"
+generated_at: "2026-03-30T05:01:45.721Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(C)** The indicators for a corps program described in this paragraph are—
       - **(i)** student engagement, including student attendance and student behavior;
       - **(ii)** student academic achievement;
-      - **(iii)** secondary school graduation rates as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education;
+      - **(iii)** four-year adjusted cohort graduation rate (as defined in section 7801 of title 20 );
       - **(iv)** rate of college enrollment and continued college enrollment for recipients of a high school diploma;
       - **(v)** any additional indicator relating to improving education for students that the Corporation, in consultation (as appropriate) with the Secretary of Education, establishes; or
       - **(vi)** any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to improving education for students, that is approved by the Corporation or a State Commission.

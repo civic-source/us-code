@@ -3,9 +3,9 @@ title: "Section 10364 - Water management improvement"
 usc_title: 42
 usc_section: "10364"
 chapter: 109
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 10364"
-generated_at: "2026-03-30T04:58:57.288Z"
+generated_at: "2026-03-30T05:01:45.401Z"
 status: "active"
 ---
 
@@ -53,4 +53,4 @@ status: "active"
     - **(B)** The agreements under this subsection shall be available to all Reclamation projects and programs that may benefit from project-specific or programmatic cooperative research and development.
 - **(c)** Grants or other agreements made under this section may be for the mutual benefit of the United States and the entity that is provided the grant or enters into the cooperative agreement.
 - **(d)** This section shall not supersede any existing project-specific funding authority.
-- **(e)** There is authorized to be appropriated to carry out this section $300,000,000, to remain available until expended.
+- **(e)** There is authorized to be appropriated to carry out this section $350,000,000, to remain available until expended.

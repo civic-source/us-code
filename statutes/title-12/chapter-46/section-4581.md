@@ -3,9 +3,9 @@ title: "Section 4581 - Cease and desist proceedings"
 usc_title: 12
 usc_section: "4581"
 chapter: 46
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 4581"
-generated_at: "2026-03-30T04:56:55.519Z"
+generated_at: "2026-03-30T04:59:33.641Z"
 status: "active"
 ---
 

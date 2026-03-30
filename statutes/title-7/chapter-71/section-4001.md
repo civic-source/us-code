@@ -3,9 +3,9 @@ title: "Section 4001 - Trade suspension reserves"
 usc_title: 7
 usc_section: "4001"
 chapter: 71
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 4001"
-generated_at: "2026-03-30T04:56:41.008Z"
+generated_at: "2026-03-30T04:59:24.573Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 Notwithstanding any other provision of law—
 
-- **(a)** Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
+- **(a)** Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 [ 50 U.S.C. 4601 et seq.] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
 - **(b)** Within thirty days after the export of any agricultural commodity to a country or area is suspended or restricted as described in subsection (a) of this section, the Secretary of Agriculture shall announce whether a gasohol feedstock reserve or a food security reserve of the commodity, or both, will be established under this section and shall include in such announcement the amount of the commodity that will be placed in such reserves, which shall be that portion of the estimated exports of the commodity affected by the suspension or restriction, as determined by the Secretary, that should be removed from the market to prevent the accumulation of a surplus supply of the commodity that will adversely affect prices producers receive for the commodity.
 - **(c)**
   - **(1)** To establish a gasohol feedstock reserve under this section, the Secretary of Agriculture may acquire agricultural commodities (the export of which is suspended or restricted as described in subsection (a) of this section) that are suitable for use in the production of alcohol for motor fuel through purchases from producers or in the market and by designation by the Secretary of stocks of the commodities held by the Commodity Credit Corporation, and to pay such storage, transportation, and related costs as may be necessary to permit maintenance of the commodities in the reserve for the purposes of this section and disposition of the commodities as provided in paragraph (2) of this subsection.

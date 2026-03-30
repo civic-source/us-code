@@ -3,9 +3,9 @@ title: "Section 5407 - Manufacturers’ insignias"
 usc_title: 15
 usc_section: "5407"
 chapter: 80
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 5407"
-generated_at: "2026-03-30T04:56:57.496Z"
+generated_at: "2026-03-30T04:59:35.593Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** Unless the specifications provide otherwise, fasteners that are required by the applicable consensus standard or standards to bear an insignia identifying their manufacturer shall not be offered for sale or sold in commerce unless—
   - **(1)** the fasteners bear such insignia; and
-  - **(2)** the manufacturer has complied with the insignia recordation requirements established under subsection (b) of this section.
-- **(b)** The Secretary shall establish, by regulation, a program to provide for the recordation of the insignias of manufacturers described in subsection (a) of this section.
+  - **(2)** the manufacturer has complied with the insignia recordation requirements established under subsection (b).
+- **(b)** The Secretary shall establish, by regulation, a program to provide for the recordation of the insignias of manufacturers described in subsection (a).

@@ -3,9 +3,9 @@ title: "Section 7428 - Payments"
 usc_title: 20
 usc_section: "7428"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7428"
-generated_at: "2026-03-30T04:57:15.842Z"
+generated_at: "2026-03-30T04:59:56.220Z"
 status: "active"
 ---
 
@@ -13,14 +13,7 @@ status: "active"
 
 - **(a)** Subject to subsections (b) and (c) of this section, the Secretary shall pay to each local educational agency that submits an application that is approved by the Secretary under this subpart the amount determined under section 7423 of this title . The Secretary shall notify the local educational agency of the amount of the payment not later than June 1 of the year for which the Secretary makes the payment.
 - **(b)** The Secretary may not make a grant under this subpart to a local educational agency for a fiscal year if, for such fiscal year, the State in which the local educational agency is located takes into consideration payments made under this chapter 1 1 So in original. Probably should be “this subpart”. in determining the eligibility of the local educational agency for State aid, or the amount of the State aid, with respect to the free public education of children during such fiscal year or the preceding fiscal year.
-- **(c)**
-  - **(1)** The Secretary may not pay a local educational agency the full amount of a grant award determined under section 7423 of this title for any fiscal year unless the State educational agency notifies the Secretary, and the Secretary determines, that with respect to the provision of free public education by the local educational agency for the preceding fiscal year, the combined fiscal effort of the local educational agency and the State, computed on either a per student or aggregate expenditure basis, was not less than 90 percent of the amount of the combined fiscal effort, computed on the same basis, for the second preceding fiscal year.
-  - **(2)** If, for the preceding fiscal year, the Secretary determines that a local educational agency and State failed to maintain the combined fiscal effort for such agency at the level specified in paragraph (1), the Secretary shall—
-    - **(A)** reduce the amount of the grant that would otherwise be made to such agency under this subpart in the exact proportion of the failure to maintain the fiscal effort at such level; and
-    - **(B)** not use the reduced amount of the agency and State expenditures for the preceding year to determine compliance with paragraph (1) for any succeeding fiscal year, but shall use the amount of expenditures that would have been required to comply with paragraph (1).
-  - **(3)**
-    - **(A)** The Secretary may waive the requirement of paragraph (1) for a local educational agency, for not more than 1 year at a time, if the Secretary determines that the failure to comply with such requirement is due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the agency’s financial resources.
-    - **(B)** The Secretary shall not use the reduced amount of the agency’s expenditures for the fiscal year preceding the fiscal year for which a waiver is granted to determine compliance with paragraph (1) for any succeeding fiscal year, but shall use the amount of expenditures that would have been required to comply with paragraph (1) in the absence of the waiver.
+- **(c)** Each local educational agency shall maintain fiscal effort in accordance with section 7901 of this title or be subject to reduced payments under this subpart in accordance with such section 7901 of this title .
 - **(d)** The Secretary may reallocate, in a manner that the Secretary determines will best carry out the purpose of this subpart, any amounts that—
   - **(1)** based on estimates made by local educational agencies or other information, the Secretary determines will not be needed by such agencies to carry out approved programs under this subpart; or
   - **(2)** otherwise become available for reallocation under this subpart.

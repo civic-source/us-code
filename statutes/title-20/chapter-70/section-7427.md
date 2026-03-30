@@ -3,15 +3,15 @@ title: "Section 7427 - Student eligibility forms"
 usc_title: 20
 usc_section: "7427"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7427"
-generated_at: "2026-03-30T04:57:15.841Z"
+generated_at: "2026-03-30T04:59:56.220Z"
 status: "active"
 ---
 
 # § 7427. Student eligibility forms
 
-- **(a)** The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b) of this section.
+- **(a)** The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b) of this section. All individual data collected shall be protected by the local educational agencies and only aggregated data shall be reported to the Secretary.
 - **(b)** The form described in subsection (a) of this section shall include—
   - **(1)** either—
     - **(A)**
@@ -24,11 +24,11 @@ status: "active"
   - **(4)** a signature of the parent or legal guardian of the child that verifies the accuracy of the information supplied; and
   - **(5)** any other information that the Secretary considers necessary to provide an accurate program profile.
 - **(c)** Nothing in this section shall be construed to affect a definition contained in section 7491 of this title .
-- **(d)** The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985–86 academic year to establish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
-  - **(1)** to establish eligibility under this subpart; and
-  - **(2)** to meet the requirements of subsection (a) of this section.
-- **(e)** For purposes of determining whether a child is eligible to be counted for the purpose of computing the amount of a grant award under section 7423 of this title , the membership of the child, or any parent or grandparent of the child, in a tribe or band of Indians (as so defined) may be established by proof other than an enrollment number, notwithstanding the availability of an enrollment number for a member of such tribe or band. Nothing in subsection (b) of this section shall be construed to require the furnishing of an enrollment number.
-- **(f)**
+- **(d)**
+  - **(1)** For purposes of determining whether a child is eligible to be counted for the purpose of computing the amount of a grant award under section 7423 of this title , the membership of the child, or any parent or grandparent of the child, in a tribe or band of Indians (as so defined) may be established by proof other than an enrollment number, notwithstanding the availability of an enrollment number for a member of such tribe or band. Nothing in subsection (b) shall be construed to require the furnishing of an enrollment number.
+  - **(2)** Once a child is determined to be an Indian eligible to be counted for such grant award, the local educational agency shall maintain a record of such determination and shall not require a new or duplicate determination to be made for such child for a subsequent application for a grant under this subpart.
+  - **(3)** An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015 , and that met the requirements of this section, as this section was in effect on December 10, 2015 , shall remain valid for such Indian student.
+- **(e)**
   - **(1)**
     - **(A)** For each fiscal year, in order to provide such information as is necessary to carry out the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
     - **(B)** A local educational agency may not be held liable to the United States or be subject to any penalty, by reason of the findings of an audit that relates to the date of completion, or the date of submission, of any forms used to establish, before April 28, 1988 , the eligibility of a child for an entitlement under the Indian Elementary and Secondary School Assistance Act.
@@ -36,9 +36,9 @@ status: "active"
     - **(A)** be ineligible to apply for any other grant under this subpart; and
     - **(B)** be liable to the United States for any funds from the grant that have not been expended.
   - **(3)** A student who provides false information for the form required under subsection (a) of this section shall not be counted for the purpose of computing the amount of a grant under section 7423 of this title .
-- **(g)** Notwithstanding any other provision of this section, in calculating the amount of a grant under this subpart to a tribal school that receives a grant or contract from the Bureau of Indian Affairs, the Secretary shall use only one of the following, as selected by the school:
+- **(f)** Notwithstanding any other provision of this section, in calculating the amount of a grant under this subpart to a tribal school that receives a grant or contract from the Bureau of Indian Education, the Secretary shall use only one of the following, as selected by the school:
   - **(1)** A count of the number of students in the schools certified by the Bureau.
   - **(2)** A count of the number of students for whom the school has eligibility forms that comply with this section.
-- **(h)** For purposes of determining the number of children to be counted in calculating the amount of a local educational agency’s grant under this subpart (other than in the case described in subsection (g)(1) of this section), the local educational agency shall—
+- **(g)** For purposes of determining the number of children to be counted in calculating the amount of a local educational agency’s grant under this subpart (other than in the case described in subsection (f)(1) of this section), the local educational agency shall—
   - **(1)** establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title ; and
   - **(2)** determine that each such child was enrolled, and receiving a free public education, in a school of the agency on that date or during that period, as the case may be.

@@ -3,16 +3,16 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T04:58:57.018Z"
+generated_at: "2026-03-30T05:01:45.117Z"
 status: "active"
 ---
 
 # § 1437a. Rental payments
 
 - **(a)**
-  - **(1)** Dwelling units assisted under this chapter shall be rented only to families who are low-income families at the time of their initial occupancy of such units. Reviews of family income shall be made at least annually. Except as provided in paragraph (2) and subject to the requirement under paragraph (3), a family shall pay as rent for a dwelling unit assisted under this chapter (other than a family assisted under section 1437f( o ) or (y) of this title or paying rent under section 1437f(c)(3)(B) 1 1 See References in Text note below. of this title) the highest of the following amounts, rounded to the nearest dollar:
+  - **(1)** Dwelling units assisted under this chapter shall be rented only to families who are low-income families at the time of their initial occupancy of such units. Reviews of family income shall be made at least annually; except that, in the case of any family with a fixed income, as defined by the Secretary, after the initial review of the family’s income, the public housing agency or owner shall not be required to conduct a review of the family’s income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more of the income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family’s income not less than once every 3 years. Except as provided in paragraph (2) and subject to the requirement under paragraph (3), a family shall pay as rent for a dwelling unit assisted under this chapter (other than a family assisted under section 1437f( o ) or (y) of this title or paying rent under section 1437f(c)(3)(B) 1 1 See References in Text note below. of this title) the highest of the following amounts, rounded to the nearest dollar:
     - **(A)** 30 per centum of the family’s monthly adjusted income;
     - **(B)** 10 per centum of the family’s monthly income; or
     - **(C)** if the family is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the family’s actual housing costs, is specifically designated by such agency to meet the family’s housing costs, the portion of such payments which is so designated.

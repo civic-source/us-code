@@ -3,9 +3,9 @@ title: "Section 8748 - Medal of honor; Air Force cross; distinguished-service cr
 usc_title: 10
 usc_section: "8748"
 chapter: 857
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 8748"
-generated_at: "2026-03-30T04:56:26.745Z"
+generated_at: "2026-03-30T04:59:28.781Z"
 status: "active"
 ---
 

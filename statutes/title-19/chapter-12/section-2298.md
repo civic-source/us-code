@@ -3,9 +3,9 @@ title: "Section 2298 - Relocation allowances"
 usc_title: 19
 usc_section: "2298"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2298"
-generated_at: "2026-03-30T04:57:10.196Z"
+generated_at: "2026-03-30T04:59:42.892Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
         - **(I)** the 425th day after the date of the certification under subpart A of this part; or
         - **(II)** the 425th day after the date of the worker’s last total separation; or
       - **(ii)** the date that is the 182d day after the date on which the worker concluded training.
-- **(b)** Any relocation allowance granted to a worker under subsection (a) of this section shall include—
+- **(b)** Any relocation allowance granted to a worker under subsection (a) shall include—
   - **(1)** not more than 90 percent of the reasonable and necessary expenses (including, but not limited to, subsistence and transportation expenses at levels not exceeding those allowable under section 2296(b)(1) and (2) of this title specified in regulations prescribed by the Secretary) incurred in transporting the worker, the worker’s family, and household effects; and
   - **(2)** a lump sum equivalent to 3 times the worker’s average weekly wage, up to a maximum payment of $1,250.
 - **(c)** A relocation allowance may not be granted to a worker unless—

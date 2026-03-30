@@ -3,9 +3,9 @@ title: "Section 2073 - Domestic distribution of special nuclear material"
 usc_title: 42
 usc_section: "2073"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 2073"
-generated_at: "2026-03-30T04:58:57.074Z"
+generated_at: "2026-03-30T05:01:45.174Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(4)** whether the special nuclear material is to be used in facilities licensed pursuant to section 2133 or 2134 of this title. In this respect, the Commission shall, insofar as practicable, make uniform, nondiscriminatory charges for the use of special nuclear material distributed to facilities licensed pursuant to section 2133 of this title ; and
   - **(5)** with respect to special nuclear material consumed in a facility licensed pursuant to section 2133 of this title , the Commission shall make a further charge equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to section 2134 of this title .
 - **(e)** Each license issued pursuant to this section shall contain and be subject to the following conditions—
-  - **(1)** Repealed. Pub. L. 88–489, § 8 , Aug. 26, 1964 , 78 Stat. 604 .
+  - **(1)** Repealed. Pub. L. 88–489 , § 8, Aug. 26, 1964 , 78 Stat. 604 .
   - **(2)** no right to the special nuclear material shall be conferred by the license except as defined by the license;
   - **(3)** neither the license nor any right under the license shall be assigned or otherwise transferred in violation of the provisions of this chapter;
   - **(4)** all special nuclear material shall be subject to the right of recapture or control reserved by section 2138 of this title and to all other provisions of this chapter;

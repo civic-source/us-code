@@ -3,9 +3,9 @@ title: "Section 7471 - National Advisory Council on Indian Education"
 usc_title: 20
 usc_section: "7471"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7471"
-generated_at: "2026-03-30T04:57:15.842Z"
+generated_at: "2026-03-30T04:59:56.221Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** consist of 15 Indian members, who shall be appointed by the President from lists of nominees furnished, from time to time, by Indian tribes and organizations; and
   - **(2)** represent different geographic areas of the United States.
 - **(b)** The Council shall—
-  - **(1)** advise the Secretary concerning the funding and administration (including the development of regulations and administrative policies and practices) of any program, including any program established under this part—
+  - **(1)** advise the Secretary and the Secretary of the Interior concerning the funding and administration (including the development of regulations and administrative policies and practices) of any program, including any program established under this part—
     - **(A)** with respect to which the Secretary has jurisdiction; and
     - **(B)**
       - **(i)** that includes Indian children or adults as participants; or

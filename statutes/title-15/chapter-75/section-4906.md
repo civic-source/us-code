@@ -3,15 +3,15 @@ title: "Section 4906 - Establishment of Data Bank"
 usc_title: 15
 usc_section: "4906"
 chapter: 75
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 4906"
-generated_at: "2026-03-30T04:56:57.495Z"
+generated_at: "2026-03-30T04:59:35.591Z"
 status: "active"
 ---
 
 # § 4906. Establishment of Data Bank
 
-- **(a)** Within 2 years after August 23, 1988 , the Secretary of Commerce shall establish the Data Bank. The Secretary shall manage the Data Bank. The Data Bank shall consist of two data systems, to be designated the International Economic Data System, as described in subsection (b) of this section and the Export Promotion Data System, as described in subsection (c) of this section.
+- **(a)** Within 2 years after August 23, 1988 , the Secretary of Commerce shall establish the Data Bank. The Secretary shall manage the Data Bank. The Data Bank shall consist of two data systems, to be designated the International Economic Data System, as described in subsection (b) and the Export Promotion Data System, as described in subsection (c).
 - **(b)** The International Economic Data System shall include current and historical information determined by the Secretary to be useful (after the consultation required by section 4904 of this title ) to policymakers and analysts concerned with international economics and trade and which shall include data compiled or obtained by appropriate executive agencies. Such information shall not identify parties to transactions. Such information may include data for the United States and countries with which the United States has important economic relations including—
   - **(1)** data on imports and exports, including—
     - **(A)** aggregate import and export data for the United States and for each foreign country;

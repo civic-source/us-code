@@ -3,9 +3,9 @@ title: "Section 50b - Appointment of employees"
 usc_title: 29
 usc_section: "50b"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 50b"
-generated_at: "2026-03-30T04:57:30.689Z"
+generated_at: "2026-03-30T05:00:39.890Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4102 - Arctic Research Commission"
 usc_title: 15
 usc_section: "4102"
 chapter: 67
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 4102"
-generated_at: "2026-03-30T04:56:57.490Z"
+generated_at: "2026-03-30T04:59:35.586Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
     - **(C)** two members appointed from among individuals familiar with the Arctic and representative of the needs and interests of private industry undertaking resource development in the Arctic.
   - **(2)** The President shall designate one of the appointed members of the Commission to be chairperson of the Commission.
 - **(c)**
-  - **(1)** Except as provided in paragraph (2) of this subsection, the term of office of each member of the Commission appointed under subsection (b)(1) of this section shall be four years.
-  - **(2)** Of the members of the Commission originally appointed under subsection (b)(1) of this section—
+  - **(1)** Except as provided in paragraph (2) of this subsection, the term of office of each member of the Commission appointed under subsection (b)(1) shall be four years.
+  - **(2)** Of the members of the Commission originally appointed under subsection (b)(1)—
     - **(A)** one shall be appointed for a term of two years;
     - **(B)** two shall be appointed for a term of three years; and
     - **(C)** two shall be appointed for a term of four years.

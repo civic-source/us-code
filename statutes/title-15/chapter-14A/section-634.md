@@ -3,9 +3,9 @@ title: "Section 634 - General powers"
 usc_title: 15
 usc_section: "634"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 634"
-generated_at: "2026-03-30T04:56:57.392Z"
+generated_at: "2026-03-30T04:59:35.487Z"
 status: "active"
 ---
 
@@ -75,3 +75,29 @@ status: "active"
     - **(D)** have the authority to regulate brokers and dealers in guaranteed loans and trust certificates sold pursuant to subsections (f) and (g) of this section.
   - **(2)** The agent described in paragraph (1)(B) may be compensated through any of the fees assessed under this section and any interest earned on any funds collected by the agent while such funds are in the control of the agent and before the time at which the agent is contractually required to transfer such funds to the Administration or to the holders of the trust certificates, as appropriate.
   - **(3)** Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates. The Administration may, with the consent of the Secretary of the Treasury, use the book-entry system of the Federal Reserve System.
+- **(i)**
+  - **(1)**
+    - **(A)** There is established in the Administration an Office of Hearings and Appeals—
+      - **(i)** to impartially decide matters relating to program decisions of the Administrator—
+        - **(I)** for which Congress requires a hearing on the record; or
+        - **(II)** that the Administrator designates for hearing by regulation; and
+      - **(ii)** which shall contain the office of the Administration that handles requests submitted pursuant to sections 552 of title 5 (commonly referred to as the “Freedom of Information Act”) and maintains records pursuant to section 552a of title 5 (commonly referred to as the “Privacy Act of 1974”).
+    - **(B)** The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 ( 15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations.
+    - **(C)** The head of the Office of Hearings and Appeals shall be the Chief Hearing Officer appointed under section 633(b)(1) of this title , who shall be responsible to the Administrator.
+  - **(2)**
+    - **(A)** The Chief Hearing Officer shall—
+      - **(i)** be a career appointee in the Senior Executive Service and an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia; and
+      - **(ii)** be responsible for the operation and management of the Office of Hearings and Appeals.
+    - **(B)** The Chief Hearing Officer may assign a matter for mediation or other means of alternative dispute resolution.
+  - **(3)**
+    - **(A)** The Office of Hearings and Appeals shall appoint Hearing Officers to carry out the duties described in paragraph (1)(A)(i).
+    - **(B)** A Hearing Officer appointed under this paragraph—
+      - **(i)** shall serve in the excepted service as an employee of the Administration under section 2103 of title 5 and under the supervision of the Chief Hearing Officer;
+      - **(ii)** shall be classified at a position to which section 5376 of title 5 applies; and
+      - **(iii)** shall be compensated at a rate not exceeding the maximum rate payable under such section.
+    - **(C)** Notwithstanding section 556(b) of title 5 —
+      - **(i)** a Hearing Officer may hear cases arising under section 554 of such title;
+      - **(ii)** a Hearing Officer shall have the powers described in section 556(c) of such title; and
+      - **(iii)** the relevant provisions of subchapter II of chapter 5 of such title (except for section 556(b) of such title) shall apply to such Hearing Officer.
+    - **(D)** An individual serving as a Judge in the Office of Hearings and Appeals (as that position and office are designated in section 134.101 of title 13, Code of Federal Regulations) on the effective date of this subsection shall be considered as qualified to be, and redesignated as, a Hearing Officer.
+  - **(4)** In this subsection, the term “Hearing Officer” means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.

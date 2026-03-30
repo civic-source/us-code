@@ -3,9 +3,9 @@ title: "Section 4131 - National objectives and eligible families"
 usc_title: 25
 usc_section: "4131"
 chapter: 43
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 4131"
-generated_at: "2026-03-30T04:57:20.188Z"
+generated_at: "2026-03-30T05:00:03.087Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 648 - Small business development center program authorization"
 usc_title: 15
 usc_section: "648"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 648"
-generated_at: "2026-03-30T04:56:57.404Z"
+generated_at: "2026-03-30T04:59:35.500Z"
 status: "active"
 ---
 
@@ -74,7 +74,15 @@ status: "active"
 - **(b)**
   - **(1)** Financial assistance shall not be made available to any applicant if approving such assistance would be inconsistent with a plan for the area involved which has been adopted by an agency recognized by the State government as authorized to do so and approved by the Administration in accordance with the standards and requirements established pursuant to this section.
   - **(2)** An applicant may apply to participate in the program by submitting to the Administration for approval a plan naming those authorized in subsection (a) to participate in the program, the geographic area to be served, the services that it would provide, the method for delivering services, a budget, and any other information and assurances the Administration may require to insure that the applicant will carry out the activities eligible for assistance. The Administration is authorized to approve, conditionally approve or reject a plan or combination of plans submitted. In all cases, the Administration shall review plans for conformity with the plan submitted pursuant to paragraph (1) of this subsection, and with a view toward providing small business with the most comprehensive and coordinated assistance in the State or part thereof to be served.
-  - **(3)** At the discretion of the Administration, the Administration is authorized to permit a small business development center to provide advice, information and assistance, as described in subsection (c), to small businesses located outside the State, but only to the extent such businesses are located within close geographical proximity to the small business development center, as determined by the Administration.
+  - **(3)**
+    - **(A)** At the discretion of the Administration, the Administration is authorized to permit a small business development center to provide advice, information and assistance, as described in subsection (c), to small businesses located outside the State, but only to the extent such businesses are located within close geographical proximity to the small business development center, as determined by the Administration.
+    - **(B)**
+      - **(i)** At the discretion of the Administrator, the Administrator may authorize a small business development center to provide advice, information, and assistance, as described in subsection (c), to a small business concern located outside of the State, without regard to geographic proximity to the small business development center, if the small business concern is located in an area for which the President has declared a major disaster.
+      - **(ii)**
+        - **(I)** A small business development center may provide advice, information, and assistance to a small business concern under clause (i) for a period of not more than 2 years after the date on which the President declared a major disaster for the area in which the small business concern is located.
+        - **(II)** The Administrator may, at the discretion of the Administrator, extend the period described in subclause (I).
+      - **(iii)** A small business development center that provides counselors to an area described in clause (i) shall, to the maximum extent practicable, ensure continuity of services in any State in which the small business development center otherwise provides services.
+      - **(iv)** For purposes of this subparagraph, the Administrator shall, to the maximum extent practicable, permit the personnel of a small business development center to use any site or facility designated by the Administrator for use to provide disaster recovery assistance.
 - **(c)**
   - **(1)** Applicants receiving grants under this section shall assist small businesses in solving problems concerning operations, manufacturing, engineering, technology exchange and development, personnel administration, marketing, sales, merchandising, finance, accounting, business strategy development, and other disciplines required for small business growth and expansion, innovation, increased productivity, and management improvement, and for decreasing industry economic concentrations. Applicants receiving grants under this section may also assist small businesses by providing, where appropriate, education on the requirements applicable to small businesses under the regulations issued under section 2778 of title 22 and on compliance with those requirements.
   - **(2)** A small business development center shall provide services as close as possible to small businesses by providing extension services and utilizing satellite locations when necessary. The facilities and staff of each Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve. To the extent possible, it also shall make full use of other Federal and State government programs that are concerned with aiding small business. A small business development center shall have—

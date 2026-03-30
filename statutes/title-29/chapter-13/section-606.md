@@ -1,13 +1,13 @@
 ---
-title: "Section 606 - Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1982 , 96 Stat. 1442 ; Pub. L. 97–375, title I, § 110(a) , Dec. 21, 1982 , 96 Stat. 1820"
+title: "Section 606 - Repealed. Pub. L. 97–306, title III , § 311, Oct. 14, 1982 , 96 Stat. 1442 ; Pub. L. 97–375, title I , § 110(a), Dec. 21, 1982 , 96 Stat. 1820"
 usc_title: 29
 usc_section: "606"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 606"
-generated_at: "2026-03-30T04:57:30.697Z"
+generated_at: "2026-03-30T05:00:39.899Z"
 status: "repealed"
 ---
 
-# § 606. Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1982 , 96 Stat. 1442 ; Pub. L. 97–375, title I, § 110(a) , Dec. 21, 1982 , 96 Stat. 1820
+# § 606. Repealed. Pub. L. 97–306, title III , § 311, Oct. 14, 1982 , 96 Stat. 1442 ; Pub. L. 97–375, title I , § 110(a), Dec. 21, 1982 , 96 Stat. 1820
 

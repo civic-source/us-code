@@ -3,9 +3,9 @@ title: "Section 3485 - Work-study allowance"
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-30T04:58:39.213Z"
+generated_at: "2026-03-30T05:01:08.824Z"
 status: "active"
 ---
 

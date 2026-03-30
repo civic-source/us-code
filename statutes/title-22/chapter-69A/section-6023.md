@@ -3,9 +3,9 @@ title: "Section 6023 - Definitions"
 usc_title: 22
 usc_section: "6023"
 chapter: 69
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 6023"
-generated_at: "2026-03-30T04:57:26.744Z"
+generated_at: "2026-03-30T05:00:34.914Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ As used in this chapter, the following terms have the following meanings:
     - **(B)** For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28 , with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
   - **(6)** The term “democratically elected government in Cuba” means a government determined by the President to have met the requirements of section 6066 of this title .
   - **(7)** The term “economic embargo of Cuba” refers to—
-    - **(A)** the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title , section 5(b) of title 50 , Appendix, the Cuban Democracy Act of 1992 ( 22 U.S.C. 6001 and following), or any other provision of law; and
+    - **(A)** the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title , section 4305(b) of title 50 , the Cuban Democracy Act of 1992 ( 22 U.S.C. 6001 and following), or any other provision of law; and
     - **(B)** the restrictions imposed by section 902(c) of the Food Security Act of 1985.
   - **(8)** The term “foreign national” means—
     - **(A)** an alien; or

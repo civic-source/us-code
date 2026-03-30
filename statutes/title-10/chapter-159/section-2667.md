@@ -3,9 +3,9 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-03-30T04:56:26.714Z"
+generated_at: "2026-03-30T04:59:28.748Z"
 status: "active"
 ---
 
@@ -104,3 +104,4 @@ status: "active"
     - **(A)** the Secretary of a military department, with respect to matters concerning that military department; and
     - **(B)** the Secretary of Defense, with respect to matters concerning the Defense Agencies.
 - **(j)** This section does not apply to oil, mineral, or phosphate lands.
+- **(k)** Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 9101 1 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )).

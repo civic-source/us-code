@@ -3,9 +3,9 @@ title: "Section 2324 - Restrictions on employees as to interest in plant variety
 usc_title: 7
 usc_section: "2324"
 chapter: 57
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 2324"
-generated_at: "2026-03-30T04:56:40.995Z"
+generated_at: "2026-03-30T04:59:24.560Z"
 status: "active"
 ---
 

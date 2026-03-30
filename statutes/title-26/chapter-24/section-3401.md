@@ -3,9 +3,9 @@ title: "Section 3401 - Definitions"
 usc_title: 26
 usc_section: "3401"
 chapter: 24
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 3401"
-generated_at: "2026-03-30T04:58:24.526Z"
+generated_at: "2026-03-30T05:00:47.944Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** such individual was regularly employed (as determined under subparagraph (A)) by such employer in the performance of such service during the preceding calendar quarter; or
   - **(5)** for services by a citizen or resident of the United States for a foreign government or an international organization; or
   - **(6)** for such services, performed by a nonresident alien individual, as may be designated by regulations prescribed by the Secretary; or
-  - **[(7)** Repealed. Pub. L. 89–809, title I, § 103(k) , Nov. 13, 1966 , 80 Stat. 1554 ]
+  - **[(7)** Repealed. Pub. L. 89–809, title I , § 103(k), Nov. 13, 1966 , 80 Stat. 1554 ]
   - **(8)**
     - **(A)** for services for an employer (other than the United States or any agency thereof)—
       - **(i)** performed by a citizen of the United States if, at the time of the payment of such remuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911; or

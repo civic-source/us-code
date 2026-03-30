@@ -3,15 +3,15 @@ title: "Section 2797 - Licensing"
 usc_title: 22
 usc_section: "2797"
 chapter: 39
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2797"
-generated_at: "2026-03-30T04:57:26.713Z"
+generated_at: "2026-03-30T05:00:34.881Z"
 status: "active"
 ---
 
 # § 2797. Licensing
 
-- **(a)** The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405( l ) of title 50, Appendix.
+- **(a)** The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 4605( l ) of title 50.
 - **(b)**
   - **(1)** A determination of the Secretary of State to approve a license for the export of an item on the list established under subsection (a) may be made only after the license application is referred to the Secretary of Defense.
   - **(2)** Within 10 days after a license is issued for the export of an item on the list established under subsection (a), the Secretary of State shall provide to the Secretary of Defense and the Secretary of Commerce the license application and accompanying documents issued to the applicant, to the extent that the relevant Secretary indicates the need to receive such application and documents.

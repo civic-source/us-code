@@ -3,9 +3,9 @@ title: "Section 2418 - Request for information"
 usc_title: 19
 usc_section: "2418"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2418"
-generated_at: "2026-03-30T04:57:10.199Z"
+generated_at: "2026-03-30T04:59:42.896Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** the nature and extent of a specific trade policy or practice of a foreign country with respect to particular goods, services, investment, or intellectual property rights, to the extent that such information is available to the Trade Representative or other Federal agencies;
   - **(2)** United States rights under any trade agreement and the remedies which may be available under that agreement and under the laws of the United States; and
   - **(3)** past and present domestic and international proceedings or actions with respect to the policy or practice concerned.
-- **(b)** If information that is requested by a person under subsection (a) of this section is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
+- **(b)** If information that is requested by a person under subsection (a) is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
   - **(1)** request the information from the foreign government; or
   - **(2)** decline to request the information and inform the person in writing of the reasons for refusal.
 - **(c)**

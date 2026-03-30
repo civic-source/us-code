@@ -3,9 +3,9 @@ title: "Section 142 - Public transportation"
 usc_title: 23
 usc_section: "142"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 142"
-generated_at: "2026-03-30T04:57:24.959Z"
+generated_at: "2026-03-30T05:00:18.949Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
 - **(d)** Any project carried out under this section in an urbanized area shall be subject to the metropolitan planning requirements of section 134.
 - **(e)**
   - **(1)** For all purposes of this title, a project authorized by subsection (a)(1) of this section shall be deemed to be a highway project.
-  - **(2)** Projects authorized by subsection (a)(2) shall be subject to, and governed in accordance with, all provisions of this title applicable to projects on the surface transportation program, except to the extent determined inconsistent by the Secretary.
+  - **(2)** Projects authorized by subsection (a)(2) shall be subject to, and governed in accordance with, all provisions of this title applicable to projects on the surface transportation block grant program, except to the extent determined inconsistent by the Secretary.
   - **(3)** The Federal share payable on account of projects authorized by subsection (a) of this section shall be that provided in section 120 of this title .
 - **(f)** In any case where sufficient land or air space exists within the publicly acquired rights-of-way of any highway, constructed in whole or in part with Federal-aid highway funds, to accommodate needed passenger, commuter, or high speed rail, magnetic levitation systems, and highway and nonhighway public mass transit facilities, the Secretary shall authorize a State to make such lands, air space, and rights-of-way available with or without charge to a publicly or privately owned authority or company or any other person for such purposes if such accommodation will not adversely affect automotive safety.
 - **(g)** The provision of assistance under subsection (a)(2) shall not be construed as bringing within the application of chapter 15 of title 5, United States Code, any non-supervisory employee of an urban mass transportation system (or of any other agency or entity performing related functions) to whom such chapter is otherwise inapplicable.

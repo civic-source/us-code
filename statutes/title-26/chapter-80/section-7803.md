@@ -3,9 +3,9 @@ title: "Section 7803 - Commissioner of Internal Revenue; other officials"
 usc_title: 26
 usc_section: "7803"
 chapter: 80
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 7803"
-generated_at: "2026-03-30T04:58:24.599Z"
+generated_at: "2026-03-30T05:00:48.024Z"
 status: "active"
 ---
 
@@ -21,7 +21,18 @@ status: "active"
   - **(2)** The Commissioner shall have such duties and powers as the Secretary may prescribe, including the power to—
     - **(A)** administer, manage, conduct, direct, and supervise the execution and application of the internal revenue laws or related statutes and tax conventions to which the United States is a party; and
     - **(B)** recommend to the President a candidate for appointment as Chief Counsel for the Internal Revenue Service when a vacancy occurs, and recommend to the President the removal of such Chief Counsel.
-  - **(3)** The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
+  - **(3)** In discharging his duties, the Commissioner shall ensure that employees of the Internal Revenue Service are familiar with and act in accord with taxpayer rights as afforded by other provisions of this title, including—
+    - **(A)** the right to be informed,
+    - **(B)** the right to quality service,
+    - **(C)** the right to pay no more than the correct amount of tax,
+    - **(D)** the right to challenge the position of the Internal Revenue Service and be heard,
+    - **(E)** the right to appeal a decision of the Internal Revenue Service in an independent forum,
+    - **(F)** the right to finality,
+    - **(G)** the right to privacy,
+    - **(H)** the right to confidentiality,
+    - **(I)** the right to retain representation, and
+    - **(J)** the right to a fair and just tax system.
+  - **(4)** The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
 - **(b)**
   - **(1)** There shall be in the Department of the Treasury a Chief Counsel for the Internal Revenue Service who shall be appointed by the President, by and with the consent of the Senate.
   - **(2)** The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shall perform such duties as may be prescribed by the Secretary, including the duty—

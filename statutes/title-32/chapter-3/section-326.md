@@ -3,9 +3,9 @@ title: "Section 326 - Courts-martial of National Guard not in Federal service: c
 usc_title: 32
 usc_section: "326"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "32 U.S.C. § 326"
-generated_at: "2026-03-30T04:58:28.347Z"
+generated_at: "2026-03-30T05:01:01.697Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9514 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "9514"
 chapter: 931
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 9514"
-generated_at: "2026-03-30T04:56:26.748Z"
+generated_at: "2026-03-30T04:59:28.784Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(1)** Payment of indemnification under this section is not subject to section 2214 or 2215 of this title or any other provision of law requiring notification to Congress before funds may be transferred.
   - **(2)** Consolidation of claims arising from the same incident is not required before indemnification of the Secretary of Transportation for payment of a claim may be made under this section.
 - **(e)** Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
-- **[(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(60)(B) , Nov. 24, 2003 , 117 Stat. 1603 .]
+- **[(f)** Repealed. Pub. L. 108–136, div. A, title X , § 1031(a)(60)(B), Nov. 24, 2003 , 117 Stat. 1603 .]
 - **(g)** In this section:
   - **(1)** The term “defense-related aviation insurance” means aviation insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 443 of title 49 that pursuant to section 44305(b) of that title is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
   - **(2)** The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.

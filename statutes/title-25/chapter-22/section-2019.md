@@ -3,9 +3,9 @@ title: "Section 2019 - Early childhood development program"
 usc_title: 25
 usc_section: "2019"
 chapter: 22
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 2019"
-generated_at: "2026-03-30T04:57:20.172Z"
+generated_at: "2026-03-30T05:00:03.069Z"
 status: "active"
 ---
 
@@ -43,6 +43,6 @@ status: "active"
     - **(F)** other educational services;
   - **(2)** may include instruction in the language, art, and culture of the tribe; and
   - **(3)** shall provide for periodic assessment of the program.
-- **(e)** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under part B of title I of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6361 et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
+- **(e)** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6641 et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
 - **(f)** The Secretary shall, out of funds appropriated under subsection (g), include in the grants provided under subsection (a) amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary.

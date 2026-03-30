@@ -3,9 +3,9 @@ title: "Section 9342 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "9342"
 chapter: 903
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 9342"
-generated_at: "2026-03-30T04:56:26.746Z"
+generated_at: "2026-03-30T04:59:28.782Z"
 status: "active"
 ---
 
@@ -17,11 +17,11 @@ status: "active"
   - **(3)** Ten cadets from each State, five of whom are nominated by each Senator from that State.
   - **(4)** Five cadets from each congressional district, nominated by the Representative from the district.
   - **(5)** Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
-  - **(6)** Three cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+  - **(6)** Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
   - **(7)** Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
-  - **(8)** Three cadets from Guam, nominated by the Delegate in Congress from Guam.
-  - **(9)** Two cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
-  - **(10)** Two cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
+  - **(8)** Four cadets from Guam, nominated by the Delegate in Congress from Guam.
+  - **(9)** Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
+  - **(10)** Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 - **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
   - **(1)** one hundred selected by the President from the children of members of an armed force who—
     - **(A)** are on active duty (other than for training) and who have served continuously on active duty for at least eight years;

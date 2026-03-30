@@ -1,13 +1,13 @@
 ---
-title: "Section 6407 - Repealed. Pub. L. 96–513, title III, § 335 , Dec. 12, 1980 , 94 Stat. 2898 ]"
+title: "Section 6407 - Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 1980 , 94 Stat. 2898 ]"
 usc_title: 10
 usc_section: "6407"
 chapter: 573
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 6407"
-generated_at: "2026-03-30T04:56:26.736Z"
+generated_at: "2026-03-30T04:59:28.771Z"
 status: "repealed"
 ---
 
-# [§ 6407. Repealed. Pub. L. 96–513, title III, § 335 , Dec. 12, 1980 , 94 Stat. 2898 ]
+# [§ 6407. Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 1980 , 94 Stat. 2898 ]
 

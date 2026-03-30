@@ -3,9 +3,9 @@ title: "Section 1735 - Forfeitures and deposits"
 usc_title: 43
 usc_section: "1735"
 chapter: 35
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 1735"
-generated_at: "2026-03-30T04:58:49.605Z"
+generated_at: "2026-03-30T05:01:30.841Z"
 status: "active"
 ---
 

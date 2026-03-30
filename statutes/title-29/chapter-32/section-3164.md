@@ -3,9 +3,9 @@ title: "Section 3164 - Use of funds for youth workforce investment activities"
 usc_title: 29
 usc_section: "3164"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 3164"
-generated_at: "2026-03-30T04:57:30.748Z"
+generated_at: "2026-03-30T05:00:39.957Z"
 status: "active"
 ---
 
@@ -81,7 +81,7 @@ status: "active"
     - **(C)** provide—
       - **(i)** activities leading to the attainment of a secondary school diploma or its recognized equivalent, or a recognized postsecondary credential;
       - **(ii)** preparation for postsecondary educational and training opportunities;
-      - **(iii)** strong linkages between academic instruction (based on State academic content and student academic achievement standards established under section 6311 of title 20 ) and occupational education that lead to the attainment of recognized postsecondary credentials;
+      - **(iii)** strong linkages between academic instruction (based on challenging State academic standards established under section 6311(b)(1) of title 20 2 2 So in original. Probably should be followed by a closing parenthesis. and occupational education that lead to the attainment of recognized postsecondary credentials;
       - **(iv)** preparation for unsubsidized employment opportunities, in appropriate cases; and
       - **(v)** effective connections to employers, including small employers, in in-demand industry sectors and occupations of the local and regional labor markets; and
     - **(D)** at the discretion of the local board, implement a pay-for-performance contract strategy for elements described in paragraph (2), for which the local board may reserve and use not more than 10 percent of the total funds allocated to the local area under section 3163(b) of this title .

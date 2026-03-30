@@ -1,13 +1,13 @@
 ---
-title: "Section 2778 - Repealed. Pub. L. 104–316, title I, § 105(d) , Oct. 19, 1996 , 110 Stat. 3830 ]"
+title: "Section 2778 - Repealed. Pub. L. 104–316, title I , § 105(d), Oct. 19, 1996 , 110 Stat. 3830 ]"
 usc_title: 10
 usc_section: "2778"
 chapter: 165
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2778"
-generated_at: "2026-03-30T04:56:26.718Z"
+generated_at: "2026-03-30T04:59:28.753Z"
 status: "repealed"
 ---
 
-# [§ 2778. Repealed. Pub. L. 104–316, title I, § 105(d) , Oct. 19, 1996 , 110 Stat. 3830 ]
+# [§ 2778. Repealed. Pub. L. 104–316, title I , § 105(d), Oct. 19, 1996 , 110 Stat. 3830 ]
 

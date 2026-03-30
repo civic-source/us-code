@@ -3,9 +3,9 @@ title: "Section 57a - Unfair or deceptive acts or practices rulemaking proceedin
 usc_title: 15
 usc_section: "57a"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 57a"
-generated_at: "2026-03-30T04:56:57.335Z"
+generated_at: "2026-03-30T04:59:35.430Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
     - **(B)** The United States Courts of Appeal shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of a rule prescribed under subsection (a)(1)(B), if any district court of the United States would have had jurisdiction of such action but for this subparagraph. Any such action shall be brought in the United States Court of Appeals for the District of Columbia circuit, or for any circuit which includes a judicial district in which the action could have been brought but for this subparagraph.
     - **(C)** A determination, rule, or ruling of the Commission described in paragraph (3)(B)(i) or (ii) may be reviewed only in a proceeding under this subsection and only in accordance with paragraph (3)(B). Section 706(2)(E) of title 5 shall not apply to any rule promulgated under subsection (a)(1)(B). The contents and adequacy of any statement required by subsection (b)(1)(D) shall not be subject to judicial review in any respect.
 - **(f)**
-  - **(1)** Repealed. Pub. L. 111–203, title X, § 1092(2) , July 21, 2010 , 124 Stat. 2095
+  - **(1)** Repealed. Pub. L. 111–203, title X , § 1092(2), July 21, 2010 , 124 Stat. 2095
   - **(2)** For purposes of this subchapter, the term “bank” means—
     - **(A)** national banks and Federal branches and Federal agencies of foreign banks;
     - **(B)** member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act [ 12 U.S.C. 601 et seq., 611 et seq.]; and

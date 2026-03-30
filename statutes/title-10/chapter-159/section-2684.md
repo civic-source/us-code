@@ -3,9 +3,9 @@ title: "Section 2684 - Cooperative agreements for management of cultural resourc
 usc_title: 10
 usc_section: "2684"
 chapter: 159
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2684"
-generated_at: "2026-03-30T04:56:26.715Z"
+generated_at: "2026-03-30T04:59:28.749Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** on a site outside of a military installation, but only if the cooperative agreement will directly relieve or eliminate current or anticipated restrictions that would or might restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on a military installation.
 - **(c)** Section 1535 and chapter 63 of title 31 shall not apply to a cooperative agreement entered into under this section.
 - **(d)** In this section, the term “cultural resource” means any of the following:
-  - **(1)** A building, structure, site, district, or object eligible for or included in the National Register of Historic Places maintained under section 2023.01 of title 54. 1 1 So in original. Probably should be “ section 302101 of title 54 .”
+  - **(1)** A building, structure, site, district, or object eligible for or included in the National Register of Historic Places maintained under section 302101 of title 54 .
   - **(2)** Cultural items, as that term is defined in section 2(3) of the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3001(3) ).
   - **(3)** An archaeological resource, as that term is defined in section 3(1) of the Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470bb(1) ).
   - **(4)** An archaeological artifact collection and associated records covered by section 79 of title 36 , Code of Federal Regulations.

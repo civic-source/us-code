@@ -3,9 +3,9 @@ title: "Section 5022 - Payments; adjustments; advances or reimbursement; install
 usc_title: 42
 usc_section: "5022"
 chapter: 66
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 5022"
-generated_at: "2026-03-30T04:58:57.140Z"
+generated_at: "2026-03-30T05:01:45.244Z"
 status: "active"
 ---
 

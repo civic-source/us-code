@@ -3,9 +3,9 @@ title: "Section 7654 - Food Safety Research Information Office"
 usc_title: 7
 usc_section: "7654"
 chapter: 103
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 7654"
-generated_at: "2026-03-30T04:56:41.048Z"
+generated_at: "2026-03-30T04:59:24.611Z"
 status: "active"
 ---
 

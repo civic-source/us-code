@@ -1,0 +1,20 @@
+---
+title: "Section 70201 - State freight advisory committees"
+usc_title: 49
+usc_section: "70201"
+chapter: 702
+current_through: "PL 114-115"
+classification: "49 U.S.C. § 70201"
+generated_at: "2026-03-30T05:01:52.741Z"
+status: "active"
+---
+
+# § 70201. State freight advisory committees
+
+- **(a)** The Secretary of Transportation shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of ports, freight railroads, shippers, carriers, freight-related associations, third-party logistics providers, the freight industry workforce, the transportation department of the State, and local governments.
+- **(b)** A freight advisory committee of a State described in subsection (a) shall—
+  - **(1)** advise the State on freight-related priorities, issues, projects, and funding needs;
+  - **(2)** serve as a forum for discussion for State transportation decisions affecting freight mobility;
+  - **(3)** communicate and coordinate regional priorities with other organizations;
+  - **(4)** promote the sharing of information between the private and public sectors on freight issues; and
+  - **(5)** participate in the development of the freight plan of the State described in section 70202.

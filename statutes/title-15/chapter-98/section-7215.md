@@ -3,9 +3,9 @@ title: "Section 7215 - Investigations and disciplinary proceedings"
 usc_title: 15
 usc_section: "7215"
 chapter: 98
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 7215"
-generated_at: "2026-03-30T04:56:57.509Z"
+generated_at: "2026-03-30T04:59:35.605Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
         - **(II)** the attorney general of 1 or more States; and
         - **(III)** the appropriate State regulatory authority.
   - **(5)**
-    - **(A)** Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act ( 5 U.S.C. 552a ), 1 1 See References in Text note below. or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
+    - **(A)** Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act ( 5 U.S.C. 552a ), 1 1 See References in Text note below. or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
     - **(B)** Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) may—
       - **(i)** be made available to the Commission; and
       - **(ii)** in the discretion of the Board, when determined by the Board to be necessary to accomplish the purposes of this Act or to protect investors, be made available to—

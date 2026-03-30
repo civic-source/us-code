@@ -3,9 +3,9 @@ title: "Section 1508 - Crop insurance"
 usc_title: 7
 usc_section: "1508"
 chapter: 36
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 1508"
-generated_at: "2026-03-30T04:56:40.946Z"
+generated_at: "2026-03-30T04:59:24.511Z"
 status: "active"
 ---
 
@@ -396,15 +396,19 @@ status: "active"
   - **(6)** The determination of whether the Corporation is achieving, or has achieved, corresponding administrative cost savings shall not be subject to administrative review, and is wholly committed to agency discretion within the meaning of section 701(a)(2) of title 5 .
   - **(7)** The Corporation shall submit to Congress a plan outlining the measures that will be used to achieve the reduction required under paragraph (5). If the Corporation can identify additional cost reduction measures, the Corporation shall describe the measures in the plan.
   - **(8)**
-    - **(A)** Except as provided in subparagraph (B), notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 ( 7 U.S.C. 1506 note; Public Law 105–185 ) and section 148 of the Agricultural Risk Protection Act of 2000 ( 7 U.S.C. 1506 note; Public Law 106–224 ), the Corporation shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
-      - **(i)** not later than December 31, 2016 ; and
-      - **(ii)** not less than once during each period of 5 reinsurance years thereafter.
+    - **(A)** Except as provided in subparagraph (B), notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 ( 7 U.S.C. 1506 note; Public Law 105–185 ) and section 148 of the Agricultural Risk Protection Act of 2000 ( 7 U.S.C. 1506 note; Public Law 106–224 ), the Corporation may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+      - **(i)** to be effective for the 2011 reinsurance year beginning July 1, 2010 ; and
+      - **(ii)** once during each period of 5 reinsurance years thereafter.
     - **(B)**
       - **(i)** Subject to clause (ii), subparagraph (A) shall not apply in any case in which the approved insurance providers, as a whole, experience unexpected adverse circumstances, as determined by the Secretary.
       - **(ii)** If Federal law is enacted after the date of enactment of this paragraph that requires revisions in the financial terms of the Standard Reinsurance Agreement, and changes in the Agreement are made on a mandatory basis by the Corporation, the changes shall not be considered to be a renegotiation of the Agreement for purposes of subparagraph (A).
     - **(C)** If the Corporation renegotiates a Standard Reinsurance Agreement under subparagraph (A)(ii), the Corporation shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the renegotiation.
     - **(D)** The approved insurance providers may confer with each other and collectively with the Corporation during any renegotiation under subparagraph (A).
-    - **(E)** Notwithstanding subparagraph (F), the Board shall ensure that the Standard Reinsurance Agreement renegotiated under subparagraph (A)(i) establishes a target rate of return for the approved insurance providers, taken as a whole, that does not exceed 8.9 percent of retained premium for each of the 2017 through 2026 reinsurance years.
+    - **(E)**
+      - **(i)** As part of the Standard Reinsurance Agreement renegotiation authorized under subparagraph (A)(i), the Corporation shall consider alternative methods to determine reimbursement rates for administrative and operating costs.
+      - **(ii)** Alternatives considered under clause (i) shall include—
+        - **(I)** methods that—
+        - **(II)** any other method that takes into account current financial conditions of the program and ensures continued availability of the program to producers on a nationwide basis.
     - **(F)**
       - **(i)** The Board shall ensure that any Standard Reinsurance Agreement negotiated under subparagraph (A)(ii) shall—
         - **(I)** to the maximum extent practicable, be estimated as budget neutral with respect to the total amount of payments described in paragraph (9) as compared to the total amount of such payments estimated to be made under the immediately preceding Standard Reinsurance Agreement if that Agreement were extended over the same period of time;

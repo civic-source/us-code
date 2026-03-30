@@ -3,9 +3,9 @@ title: "Section 3049 - Authorization of appropriations for administration; avail
 usc_title: 12
 usc_section: "3049"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 3049"
-generated_at: "2026-03-30T04:56:55.503Z"
+generated_at: "2026-03-30T04:59:33.624Z"
 status: "active"
 ---
 

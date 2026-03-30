@@ -3,9 +3,9 @@ title: "Section 5112 - Liability provisions"
 usc_title: 12
 usc_section: "5112"
 chapter: 51
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 5112"
-generated_at: "2026-03-30T04:56:55.533Z"
+generated_at: "2026-03-30T04:59:33.652Z"
 status: "active"
 ---
 

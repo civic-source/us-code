@@ -1,0 +1,18 @@
+---
+title: "Section 4113 - Detention benefits to merchant seamen"
+usc_title: 50
+usc_section: "4113"
+chapter: 51
+current_through: "PL 114-115"
+classification: "50 U.S.C. § 4113"
+generated_at: "2026-03-30T05:01:50.072Z"
+status: "active"
+---
+
+# § 4113. Detention benefits to merchant seamen
+
+- **(a)** As used in this section, the term “merchant seaman” means any individual who was employed as a seaman or crew member on any vessel registered under the laws of the United States, or under the laws of any government friendly to the United States during World War II, and who was a citizen of the United States on and after December 7, 1941 , to the date of his death or the date of filing claim under this section; except any such individual who is entitled to, or who has received, benefits under section 4104 of this title as a “civilian American citizen”.
+- **(b)** The Commission is authorized to receive and determine, according to law, the amount and validity, and provide for the payment of any claim for detention benefits filed by or on behalf of any merchant seaman who, being then a merchant seaman, was captured or interned or held by the Government of Germany or the Imperial Japanese Government, its agent or instrumentalities in World War II for any period of time subsequent to December 7, 1941 , during which he was held by either such government as a prisoner, internee, hostage, or in any other capacity. Detention benefits shall be paid under this section at the rates prescribed and in the manner provided in subsections (c) and (d) of section 4104 of this title .
+- **(c)** Payment of any claim filed under this section shall not be made to any merchant seaman, or to any survivor or survivors thereof, who, voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any government hostile to the United States during World War II.
+- **(d)** Claims for benefits under this section must be filed within one year after August 31, 1954 .
+- **(e)** Any claim allowed under the provisions of this section shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title .

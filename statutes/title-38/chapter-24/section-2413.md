@@ -3,9 +3,9 @@ title: "Section 2413 - Prohibition on certain demonstrations and disruptions at 
 usc_title: 38
 usc_section: "2413"
 chapter: 24
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "38 U.S.C. § 2413"
-generated_at: "2026-03-30T04:58:39.207Z"
+generated_at: "2026-03-30T05:01:08.815Z"
 status: "active"
 ---
 

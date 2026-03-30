@@ -3,9 +3,9 @@ title: "Section 1542 - Establishment of the Ernest F. Hollings Scholarship Progr
 usc_title: 15
 usc_section: "1542"
 chapter: 40
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1542"
-generated_at: "2026-03-30T04:56:57.437Z"
+generated_at: "2026-03-30T04:59:35.534Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(3)** shall promote participation by groups underrepresented in oceanic and atmospheric science and technology; and
   - **(4)** shall be awarded competitively in accordance with guidelines issued by the Administrator and published in the Federal Register.
 - **(d)** In order to be eligible to participate in the program, an individual must—
-  - **(1)** be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in section 1001(a) of title 20 ) in an academic field or discipline described in subsection (c) of this section;
+  - **(1)** be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in section 1001(a) of title 20 ) in an academic field or discipline described in subsection (c);
   - **(2)** be a United States citizen;
   - **(3)** not have received a scholarship under this section for more than 4 academic years, unless the Administrator grants a waiver; and
   - **(4)** submit an application at such time, in such manner, and containing such information, agreements, or assurances as the Administrator may require.

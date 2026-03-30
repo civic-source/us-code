@@ -3,9 +3,9 @@ title: "Section 2318 - Reemployment trade adjustment assistance program"
 usc_title: 19
 usc_section: "2318"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2318"
-generated_at: "2026-03-30T04:57:10.196Z"
+generated_at: "2026-03-30T04:59:42.893Z"
 status: "active"
 ---
 
@@ -51,5 +51,5 @@ status: "active"
       - **(ii)** in no case more than 50 percent.
   - **(7)** A worker described in paragraph (3)(B) may not receive a trade readjustment allowance under division I of subpart B pursuant to the certification described in paragraph (3)(A) during any week for which the worker receives a payment described in paragraph (2)(A).
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after December 31, 2013 .
-  - **(2)** Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3) of this section.
+  - **(1)** Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) after June 30, 2021 .
+  - **(2)** Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3).

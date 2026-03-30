@@ -3,9 +3,9 @@ title: "Section 2015 - Program to assist members in obtaining professional crede
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-30T04:56:26.685Z"
+generated_at: "2026-03-30T04:59:28.717Z"
 status: "active"
 ---
 
@@ -18,6 +18,16 @@ status: "active"
   - **(1)** Under the program required by this section, the Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall provide for the payment of expenses of members for professional accreditation, Federal occupational licenses, State-imposed and professional licenses, professional certification, and related expenses.
   - **(2)** The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
 - **(c)**
+  - **(1)** Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) is accredited by an accreditation body that meets the requirements specified in paragraph (2).
+  - **(2)** The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+    - **(A)** be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
+    - **(B)** meet a recognized national or international standard that directs its policy and procedures regarding accreditation;
+    - **(C)** apply a recognized national or international certification standard in making its accreditation decisions regarding certification bodies and programs;
+    - **(D)** conduct on-site visits, as applicable, to verify the documents and records submitted by credentialing bodies for accreditation;
+    - **(E)** have in place policies and procedures to ensure due process when addressing complaints and appeals regarding its accreditation activities;
+    - **(F)** conduct regular training to ensure consistent and reliable decisions among reviewers conducting accreditations; and
+    - **(G)** meet such other criteria as the Secretary concerned considers appropriate in order to ensure quality in its accreditation activities.
+- **(d)**
   - **(1)** The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
   - **(2)** The regulations shall apply uniformly to the armed forces to the extent practicable.
   - **(3)** The regulations shall include the following:
@@ -25,4 +35,4 @@ status: "active"
     - **(B)** A description of the professional credentials and occupations covered by the program.
     - **(C)** Mechanisms for oversight of the payment of expenses and the provision of other benefits under the program.
     - **(D)** Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
-- **(d)** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+- **(e)** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.

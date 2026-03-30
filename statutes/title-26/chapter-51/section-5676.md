@@ -1,13 +1,13 @@
 ---
-title: "Section 5676 - Repealed. Pub. L. 94–455, title XIX, § 1905(b)(1)(A) , Oct. 4, 1976 , 90 Stat. 1822 ]"
+title: "Section 5676 - Repealed. Pub. L. 94–455, title XIX , § 1905(b)(1)(A), Oct. 4, 1976 , 90 Stat. 1822 ]"
 usc_title: 26
 usc_section: "5676"
 chapter: 51
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 5676"
-generated_at: "2026-03-30T04:58:24.552Z"
+generated_at: "2026-03-30T05:00:47.973Z"
 status: "repealed"
 ---
 
-# [§ 5676. Repealed. Pub. L. 94–455, title XIX, § 1905(b)(1)(A) , Oct. 4, 1976 , 90 Stat. 1822 ]
+# [§ 5676. Repealed. Pub. L. 94–455, title XIX , § 1905(b)(1)(A), Oct. 4, 1976 , 90 Stat. 1822 ]
 

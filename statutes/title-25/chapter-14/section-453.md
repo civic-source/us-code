@@ -3,9 +3,9 @@ title: "Section 453 - Use of Government property by States and Territories"
 usc_title: 25
 usc_section: "453"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 453"
-generated_at: "2026-03-30T04:57:20.117Z"
+generated_at: "2026-03-30T05:00:02.976Z"
 status: "active"
 ---
 

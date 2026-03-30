@@ -1,15 +1,13 @@
 ---
-title: "Section 5319 - Bicycle facilities"
+title: "Section 5319 - Repealed. Pub. L. 114–94, div. A, title III , § 3030(c), Dec. 4, 2015 , 129 Stat. 1497 ]"
 usc_title: 49
 usc_section: "5319"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 5319"
-generated_at: "2026-03-30T04:59:03.158Z"
-status: "active"
+generated_at: "2026-03-30T05:01:52.666Z"
+status: "repealed"
 ---
 
-# § 5319. Bicycle facilities
-
-A project to provide access for bicycles to public transportation facilities, to provide shelters and parking facilities for bicycles in or around public transportation facilities, or to install equipment for transporting bicycles on public transportation vehicles is a capital project eligible for assistance under sections 5307, 5309, and 5311 of this title. Notwithstanding sections 5307(d), 5309( l ), and 5311(g), a grant made by the Government under this chapter for a project made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(d)(1)(K) and the project involves providing bicycle access to public transportation, that grant or portion of that grant shall be at a Federal share of 95 percent.
+# [§ 5319. Repealed. Pub. L. 114–94, div. A, title III , § 3030(c), Dec. 4, 2015 , 129 Stat. 1497 ]
 

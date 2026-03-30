@@ -3,9 +3,9 @@ title: "Section 45C - Clinical testing expenses for certain drugs for rare disea
 usc_title: 26
 usc_section: "45C"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 45C"
-generated_at: "2026-03-30T04:58:24.371Z"
+generated_at: "2026-03-30T05:00:47.785Z"
 status: "active"
 ---
 
@@ -19,7 +19,6 @@ status: "active"
       - **(i)** by substituting “clinical testing” for “qualified research” each place it appears in paragraphs (2) and (3) of such subsection, and
       - **(ii)** by substituting “100 percent” for “65 percent” in paragraph (3)(A) of such subsection.
     - **(C)** The term “qualified clinical testing expenses” shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
-    - **(D)** If section 41 is not in effect for any period, such section shall be deemed to remain in effect for such period for purposes of this paragraph.
   - **(2)**
     - **(A)** The term “clinical testing” means any human clinical testing—
       - **(i)** which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),

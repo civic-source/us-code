@@ -3,9 +3,9 @@ title: "Section 2438 - Performance assessments and root cause analyses"
 usc_title: 10
 usc_section: "2438"
 chapter: 144
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2438"
-generated_at: "2026-03-30T04:56:26.706Z"
+generated_at: "2026-03-30T04:59:28.739Z"
 status: "active"
 ---
 
@@ -37,4 +37,3 @@ status: "active"
   - **(7)** poor performance by government or contractor personnel responsible for program management; or
   - **(8)** any other matters.
 - **(e)** The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
-- **(f)** Not later than March 1 each year, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.

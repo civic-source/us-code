@@ -3,9 +3,9 @@ title: "Section 3306 - Definitions"
 usc_title: 26
 usc_section: "3306"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 3306"
-generated_at: "2026-03-30T04:58:24.525Z"
+generated_at: "2026-03-30T05:00:47.943Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(A)** sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term “wages” only payments which are received under a workmen’s compensation law), or
     - **(B)** medical or hospitalization expenses in connection with sickness or accident disability, or
     - **(C)** death;
-  - **[(3)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B) , Apr. 20, 1983 , 97 Stat. 124 ]
+  - **[(3)** Repealed. Pub. L. 98–21, title III , § 324(b)(3)(B), Apr. 20, 1983 , 97 Stat. 124 ]
   - **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
   - **(5)** any payment made to, or on behalf of, an employee or his beneficiary—
     - **(A)** from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust, or
@@ -41,13 +41,13 @@ status: "active"
     - **(A)** of the tax imposed upon an employee under section 3101, or
     - **(B)** of any payment required from an employee under a State unemployment compensation law,
   - **(7)** remuneration paid in any medium other than cash to an employee for service not in the course of the employer’s trade or business;
-  - **[(8)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B) , Apr. 20, 1983 , 97 Stat. 124 ]
+  - **[(8)** Repealed. Pub. L. 98–21, title III , § 324(b)(3)(B), Apr. 20, 1983 , 97 Stat. 124 ]
   - **(9)** remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n));
   - **(10)** any payment or series of payments by an employer to an employee or any of his dependents which is paid—
     - **(A)** upon or after the termination of an employee’s employment relationship because of (i) death, or (ii) retirement for disability, and
     - **(B)** under a plan established by the employer which makes provision for his employees generally or a class or classes of his employees (or for such employees or class or classes of employees and their dependents),
   - **(11)** remuneration for agricultural labor paid in any medium other than cash;
-  - **[(12)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vi) , Dec. 19, 2014 , 128 Stat. 4040 ]
+  - **[(12)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(19)(B)(vi), Dec. 19, 2014 , 128 Stat. 4040 ]
   - **(13)** any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
   - **(14)** the value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
   - **(15)** any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died;
@@ -128,7 +128,7 @@ status: "active"
 - **(m)** For purposes of this chapter, the term “American vessel” means any vessel documented or numbered under the laws of the United States; and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if its crew is employed solely by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any State; and the term “American aircraft” means an aircraft registered under the laws of the United States.
 - **(n)** Notwithstanding the provisions of subsection (c)(6), service performed by officers and members of the crew of a vessel which would otherwise be included as employment under subsection (c) shall not be excluded by reason of the fact that it is performed on or in connection with an American vessel—
   - **(1)** owned by or bareboat chartered to the United States and
-  - **(2)** whose business is conducted by a general agent of the Secretary of Commerce.
+  - **(2)** whose business is conducted by a general agent of the Secretary of Transportation.
 - **(o)**
   - **(1)** For purposes of this chapter, any individual who is a member of a crew furnished by a crew leader to perform agricultural labor for any other person shall be treated as an employee of such crew leader—
     - **(A)** if—

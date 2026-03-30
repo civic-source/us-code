@@ -3,9 +3,9 @@ title: "Section 620m - Compliance with law required in operation of facilities; 
 usc_title: 43
 usc_section: "620m"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 620m"
-generated_at: "2026-03-30T04:58:49.567Z"
+generated_at: "2026-03-30T05:01:30.814Z"
 status: "active"
 ---
 

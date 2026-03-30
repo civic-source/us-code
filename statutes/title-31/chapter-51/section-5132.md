@@ -3,9 +3,9 @@ title: "Section 5132 - Administrative"
 usc_title: 31
 usc_section: "5132"
 chapter: 51
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "31 U.S.C. § 5132"
-generated_at: "2026-03-30T04:58:31.063Z"
+generated_at: "2026-03-30T05:00:56.335Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)**
     - **(A)** In addition to the coins described in paragraph (1), the Secretary shall sell annually to the public directly and by mail, sets of proof coins minted under paragraphs (1) through (6) of section 5112(a).
     - **(B)** Notwithstanding any other provision of law, for purposes of this paragraph—
-      - **(i)** the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+      - **(i)** the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of not less than 90 percent silver; and
       - **(ii)** all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
     - **(C)** All coins minted under this paragraph shall be considered to be—
       - **(i)** numismatic items for purposes of paragraph (1) and section 5111(a)(3); and

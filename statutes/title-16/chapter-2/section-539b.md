@@ -3,9 +3,9 @@ title: "Section 539b - Fisheries on national forest lands in Alaska"
 usc_title: 16
 usc_section: "539b"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 539b"
-generated_at: "2026-03-30T04:57:06.551Z"
+generated_at: "2026-03-30T04:59:58.457Z"
 status: "active"
 ---
 

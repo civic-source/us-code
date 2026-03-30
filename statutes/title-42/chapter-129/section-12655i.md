@@ -3,9 +3,9 @@ title: "Section 12655i - Age and citizenship criteria for enrollment"
 usc_title: 42
 usc_section: "12655i"
 chapter: 129
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 12655i"
-generated_at: "2026-03-30T04:58:57.325Z"
+generated_at: "2026-03-30T05:01:45.731Z"
 status: "active"
 ---
 

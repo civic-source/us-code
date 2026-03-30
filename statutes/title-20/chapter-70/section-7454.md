@@ -1,60 +1,13 @@
 ---
-title: "Section 7454 - Gifted and talented Indian students"
+title: "Section 7454 - Repealed. Pub. L. 114–95, title VI , § 6002(n)(1), Dec. 10, 2015 , 129 Stat. 2057"
 usc_title: 20
 usc_section: "7454"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7454"
-generated_at: "2026-03-30T04:57:15.842Z"
-status: "active"
+generated_at: "2026-03-30T04:59:56.221Z"
+status: "repealed"
 ---
 
-# § 7454. Gifted and talented Indian students
+# § 7454. Repealed. Pub. L. 114–95, title VI , § 6002(n)(1), Dec. 10, 2015 , 129 Stat. 2057
 
-- **(a)** The Secretary is authorized to—
-  - **(1)** establish two centers for gifted and talented Indian students at tribally controlled community colleges in accordance with this section; and
-  - **(2)** support demonstration projects described in subsection (c) of this section.
-- **(b)** The Secretary shall make grants, or enter into contracts, for the activities described in subsection (a) of this section, to or with—
-  - **(1)** two tribally controlled community colleges that—
-    - **(A)** are eligible for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 [ 25 U.S.C. 1801 et seq.]; and
-    - **(B)** are fully accredited; or
-  - **(2)** the American Indian Higher Education Consortium,
-- **(c)**
-  - **(1)** Funds made available through the grants made, or contracts entered into, by the Secretary under subsection (b) of this section shall be used for—
-    - **(A)** the establishment of centers described in subsection (a) of this section; and
-    - **(B)** carrying out demonstration projects designed to—
-      - **(i)** address the special needs of Indian students in elementary schools and secondary schools who are gifted and talented; and
-      - **(ii)** provide such support services to the families of the students described in clause (i) as are needed to enable such students to benefit from the projects.
-  - **(2)** Each recipient of a grant or contract under subsection (b) of this section to carry out a demonstration project under subsection (a) of this section may enter into a contract with any other entity, including the Children’s Television Workshop, to carry out the demonstration project.
-  - **(3)** Demonstration projects assisted under subsection (b) of this section may include—
-    - **(A)** the identification of the special needs of gifted and talented Indian students, particularly at the elementary school level, giving attention to—
-      - **(i)** identifying the emotional and psychosocial needs of such students; and
-      - **(ii)** providing such support services to the families of such students as are needed to enable such students to benefit from the projects;
-    - **(B)** the conduct of educational, psychosocial, and developmental activities that the Secretary determines hold a reasonable promise of resulting in substantial progress toward meeting the educational needs of such gifted and talented children, including—
-      - **(i)** demonstrating and exploring the use of Indian languages and exposure to Indian cultural traditions; and
-      - **(ii)** carrying out mentoring and apprenticeship programs;
-    - **(C)** the provision of technical assistance and the coordination of activities at schools that receive grants under subsection (d) of this section with respect to the activities assisted under such grants, the evaluation of programs assisted under such grants, or the dissemination of such evaluations;
-    - **(D)** the use of public television in meeting the special educational needs of such gifted and talented children;
-    - **(E)** leadership programs designed to replicate programs for such children throughout the United States, including disseminating information derived from the demonstration projects conducted under subsection (a) of this section; and
-    - **(F)** appropriate research, evaluation, and related activities pertaining to the needs of such children and to the provision of such support services to the families of such children as are needed to enable such children to benefit from the projects.
-  - **(4)** Each eligible entity desiring a grant or contract under subsection (b) of this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information, as the Secretary may reasonably require.
-- **(d)**
-  - **(1)** The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants to schools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
-    - **(A)** gifted and talented students;
-    - **(B)** college preparatory studies (including programs for Indian students with an interest in pursuing teaching careers);
-    - **(C)** students with special culturally related academic needs, including students with social, lingual, and cultural needs; or
-    - **(D)** mathematics and science education.
-  - **(2)** Each Bureau school desiring a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and accompanied by such information, as the Secretary may reasonably require.
-  - **(3)** Each application described in paragraph (2) shall be developed, and each grant under this subsection shall be administered, jointly by the supervisor of the Bureau school and the local educational agency serving such school.
-  - **(4)** In awarding grants under paragraph (1), the Secretary shall achieve a mixture of the programs described in paragraph (1) that ensures that Indian students at all grade levels and in all geographic areas of the United States are able to participate in a program assisted under this subsection.
-  - **(5)** Subject to the availability of appropriations, a grant awarded under paragraph (1) shall be awarded for a 3-year period and may be renewed by the Secretary for additional 3-year periods if the Secretary determines that the performance of the grant recipient has been satisfactory.
-  - **(6)**
-    - **(A)** The dissemination of any materials developed from activities assisted under paragraph (1) shall be carried out in cooperation with entities that receive funds pursuant to subsection (b) of this section.
-    - **(B)** The Secretary shall prepare and submit to the Secretary of the Interior and to Congress a report concerning any results from activities described in this subsection.
-  - **(7)**
-    - **(A)** The costs of evaluating any activities assisted under paragraph (1) shall be divided between the Bureau schools conducting such activities and the recipients of grants or contracts under subsection (b) of this section who conduct demonstration projects under subsection (a) of this section.
-    - **(B)** If no funds are provided under subsection (b) of this section for—
-      - **(i)** the evaluation of activities assisted under paragraph (1);
-      - **(ii)** technical assistance and coordination with respect to such activities; or
-      - **(iii)** the dissemination of the evaluations referred to in clause (i),
-- **(e)** The Secretary shall encourage each recipient of a grant or contract under this section to work cooperatively as part of a national network to ensure that the information developed by the grant or contract recipient is readily available to the entire educational community.

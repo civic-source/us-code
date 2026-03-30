@@ -3,9 +3,9 @@ title: "Section 6604 - Punitive damages limitations"
 usc_title: 15
 usc_section: "6604"
 chapter: 92
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 6604"
-generated_at: "2026-03-30T04:56:57.502Z"
+generated_at: "2026-03-30T04:59:35.599Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In any Y2K action in which punitive damages are permitted by applicable law, the defendant shall not be liable for punitive damages unless the plaintiff proves by clear and convincing evidence that the applicable standard for awarding damages has been met.
 - **(b)**
-  - **(1)** Subject to the evidentiary standard established by subsection (a) of this section, punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—
+  - **(1)** Subject to the evidentiary standard established by subsection (a), punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—
     - **(A)** three times the amount awarded for compensatory damages; or
     - **(B)** $250,000.
   - **(2)** A defendant described in this paragraph is a defendant—

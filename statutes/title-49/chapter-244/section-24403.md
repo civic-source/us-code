@@ -3,9 +3,9 @@ title: "Section 24403 - Project management oversight"
 usc_title: 49
 usc_section: "24403"
 chapter: 244
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 24403"
-generated_at: "2026-03-30T04:59:03.181Z"
+generated_at: "2026-03-30T05:01:52.690Z"
 status: "active"
 ---
 
@@ -24,8 +24,5 @@ status: "active"
   - **(10)** criteria and procedures to be used for testing the operational system or its major components;
   - **(11)** periodic updates of the plan, especially related to project budget and project schedule, financing, and ridership estimates; and
   - **(12)** the recipient’s commitment to submit periodically a project budget and project schedule to the Secretary.
-- **(b)**
-  - **(1)** The Secretary may use no more than 1 percent of amounts made available in a fiscal year for capital projects under this chapter to enter into contracts to oversee the construction of such projects.
-  - **(2)** The Secretary may use amounts available under paragraph (1) of this subsection to make contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1).
-  - **(3)** The Federal Government shall pay the entire cost of carrying out a contract under this subsection.
+- **[(b)** Repealed. Pub. L. 114–94, div. A, title XI , § 11316(p), Dec. 4, 2015 , 129 Stat. 1679 ]
 - **(c)** Each recipient of assistance under this chapter shall provide the Secretary and a contractor the Secretary chooses under subsection (b) of this section with access to the construction sites and records of the recipient when reasonably necessary.

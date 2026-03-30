@@ -3,9 +3,9 @@ title: "Section 199 - Income attributable to domestic production activities"
 usc_title: 26
 usc_section: "199"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 199"
-generated_at: "2026-03-30T04:58:24.408Z"
+generated_at: "2026-03-30T05:00:47.819Z"
 status: "active"
 ---
 
@@ -32,6 +32,9 @@ status: "active"
   - **(3)**
     - **(A)** For purposes of determining costs under clause (i) of paragraph (1)(B), any item or service brought into the United States shall be treated as acquired by purchase, and its cost shall be treated as not less than its value immediately after it entered the United States. A similar rule shall apply in determining the adjusted basis of leased or rented property where the lease or rental gives rise to domestic production gross receipts.
     - **(B)** In the case of any property described in subparagraph (A) that had been exported by the taxpayer for further manufacture, the increase in cost or adjusted basis under subparagraph (A) shall not exceed the difference between the value of the property when exported and the value of the property when brought back into the United States after the further manufacture.
+    - **(C)**
+      - **(i)** In the case of any taxpayer who is in the trade or business of refining crude oil and who is not a major integrated oil company (as defined in section 167(h)(5)(B), determined without regard to clause (iii) thereof) for the taxable year, in computing oil related qualified production activities income under subsection (d)(9)(B), the amount allocated to domestic production gross receipts under paragraph (1)(B) for costs related to the transportation of oil shall be 25 percent of the amount properly allocable under such paragraph (determined without regard to this subparagraph).
+      - **(ii)** Clause (i) shall not apply to any taxable year beginning after December 31, 2021 .
   - **(4)**
     - **(A)** The term “domestic production gross receipts” means the gross receipts of the taxpayer which are derived from—
       - **(i)** any lease, rental, license, sale, exchange, or other disposition of—
@@ -100,7 +103,7 @@ status: "active"
   - **(8)**
     - **(A)** In the case of any taxpayer with gross receipts for any taxable year from sources within the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term “United States” shall include the Commonwealth of Puerto Rico.
     - **(B)** In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
-    - **(C)** This paragraph shall apply only with respect to the first 9 taxable years of the taxpayer beginning after December 31, 2005 , and before January 1, 2015 .
+    - **(C)** This paragraph shall apply only with respect to the first 11 taxable years of the taxpayer beginning after December 31, 2005 , and before January 1, 2017 .
   - **(9)**
     - **(A)** If a taxpayer has oil related qualified production activities income for any taxable year beginning after 2009, the amount otherwise allowable as a deduction under subsection (a) shall be reduced by 3 percent of the least of—
       - **(i)** the oil related qualified production activities income of the taxpayer for the taxable year,

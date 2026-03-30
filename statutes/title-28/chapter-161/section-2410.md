@@ -3,9 +3,9 @@ title: "Section 2410 - Actions affecting property on which United States has lie
 usc_title: 28
 usc_section: "2410"
 chapter: 161
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "28 U.S.C. § 2410"
-generated_at: "2026-03-30T04:57:42.355Z"
+generated_at: "2026-03-30T05:00:52.004Z"
 status: "active"
 ---
 

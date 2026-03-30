@@ -3,9 +3,9 @@ title: "Section 291m - State control of operations"
 usc_title: 42
 usc_section: "291m"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 291m"
-generated_at: "2026-03-30T04:58:56.793Z"
+generated_at: "2026-03-30T05:01:44.887Z"
 status: "active"
 ---
 

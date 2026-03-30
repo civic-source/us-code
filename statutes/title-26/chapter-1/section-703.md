@@ -3,9 +3,9 @@ title: "Section 703 - Partnership computations"
 usc_title: 26
 usc_section: "703"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 703"
-generated_at: "2026-03-30T04:58:24.464Z"
+generated_at: "2026-03-30T05:00:47.877Z"
 status: "active"
 ---
 

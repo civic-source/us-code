@@ -3,9 +3,9 @@ title: "Section 3316 - Preference eligibles; reinstatement"
 usc_title: 5
 usc_section: "3316"
 chapter: 33
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 3316"
-generated_at: "2026-03-30T04:56:17.700Z"
+generated_at: "2026-03-30T04:59:18.334Z"
 status: "active"
 ---
 

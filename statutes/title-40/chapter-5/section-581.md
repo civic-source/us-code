@@ -3,15 +3,15 @@ title: "Section 581 - General authority of Administrator of General Services"
 usc_title: 40
 usc_section: "581"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "40 U.S.C. § 581"
-generated_at: "2026-03-30T04:58:41.619Z"
+generated_at: "2026-03-30T05:01:09.369Z"
 status: "active"
 ---
 
 # § 581. General authority of Administrator of General Services
 
-- **[(a)** Repealed. Pub. L. 107–296, title XVII, § 1706(a)(1) , Nov. 25, 2002 , 116 Stat. 2316 .]
+- **[(a)** Repealed. Pub. L. 107–296, title XVII , § 1706(a)(1), Nov. 25, 2002 , 116 Stat. 2316 .]
 - **(b)** The Administrator of General Services may—
   - **(1)** employ and pay personnel at per diem rates approved by the Administrator, not exceeding rates currently paid by private industry for similar services in the place where the services are performed; and
   - **(2)** purchase, repair, and clean uniforms for civilian employees of the General Services Administration who are required by law or regulation to wear uniform clothing.

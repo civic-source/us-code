@@ -3,9 +3,9 @@ title: "Section 213 - Military benefits"
 usc_title: 42
 usc_section: "213"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 213"
-generated_at: "2026-03-30T04:58:56.730Z"
+generated_at: "2026-03-30T05:01:44.825Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
 - **(b)** The President may prescribe the conditions under which commissioned officers of the Service may be awarded military ribbons, medals, and decorations.
 - **(c)** The authority vested by law in the Department of the Army, the Secretary of the Army, or other officers of the Department of the Army with respect to rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Surgeon General.
 - **(d)** Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen’s Indemnity Act of 1951) and section 417 of this title .
-- **(e)** Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.).
+- **(e)** Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.) [now 50 U.S.C. 3901 et seq.].
 - **(f)** Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.

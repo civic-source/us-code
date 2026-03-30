@@ -3,9 +3,9 @@ title: "Section 10104 - Requirement to report sexual offenses"
 usc_title: 46
 usc_section: "10104"
 chapter: 101
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "46 U.S.C. § 10104"
-generated_at: "2026-03-30T04:59:03.848Z"
+generated_at: "2026-03-30T05:01:49.171Z"
 status: "active"
 ---
 

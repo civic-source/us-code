@@ -3,9 +3,9 @@ title: "Section 70111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "70111"
 chapter: 701
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "36 U.S.C. § 70111"
-generated_at: "2026-03-30T04:58:38.110Z"
+generated_at: "2026-03-30T05:01:10.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T04:58:57.021Z"
+generated_at: "2026-03-30T05:01:45.120Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(4)** The assistance contract shall provide that assistance payments may be made only with respect to a dwelling unit under lease for occupancy by a family determined to be a lower income family at the time it initially occupied such dwelling unit, except that such payments may be made with respect to unoccupied units for a period not exceeding sixty days (A) in the event that a family vacates a dwelling unit before the expiration date of the lease for occupancy or (B) where a good faith effort is being made to fill an unoccupied unit, and, subject to the provisions of the following sentence, such payments may be made, in the case of a newly constructed or substantially rehabilitated proj­ect, after such sixty-day period in an amount equal to the debt service attributable to such an unoccupied dwelling unit for a period not to exceed one year, if a good faith effort is being made to fill the unit and the unit provides decent, safe, and sanitary housing. No such payment may be made after such sixty-day period if the Secretary determines that the dwelling unit is in a project which provides the owner with revenues exceeding the costs incurred by such owner with respect to such project.
   - **(5)** The Secretary shall take such steps as may be necessary, including the making of contracts for assistance payments in amounts in excess of the amounts required at the time of the initial renting of dwelling units, the reservation of annual contributions authority for the purpose of amending housing assistance contracts, or the allocation of a portion of new authorizations for the purpose of amending housing assistance contracts, to assure that assistance payments are increased on a timely basis to cover increases in maximum monthly rents or decreases in family incomes.
   - **(6)** Redesignated (5).
-  - **(7)** Repealed. Pub. L. 105–276, title V, § 550(a)(3)(C) , Oct. 21, 1998 , 112 Stat. 2609
+  - **(7)** Repealed. Pub. L. 105–276, title V , § 550(a)(3)(C), Oct. 21, 1998 , 112 Stat. 2609
   - **(8)**
     - **(A)** Not less than one year before termination of any contract under which assistance payments are received under this section, other than a contract for tenant-based assistance under this section, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination. The notice shall also include a statement that, if the Congress makes funds available, the owner and the Secretary may agree to a renewal of the contract, thus avoiding termination, and that in the event of termination the Department of Housing and Urban Development will provide tenant-based rental assistance to all eligible residents, enabling them to choose the place they wish to rent, which is likely to include the dwelling unit in which they currently reside. Any contract covered by this paragraph that is renewed may be renewed for a period of up to 1 year or any number or years, with payments subject to the availability of appropriations for any year.
     - **(B)** In the event the owner does not provide the notice required, the owner may not evict the tenants or increase the tenants’ rent payment until such time as the owner has provided the notice and 1 year has elapsed. The Secretary may allow the owner to renew the terminating contract for a period of time sufficient to give tenants 1 year of advance notice under such terms and conditions as the Secretary may require.
@@ -57,7 +57,7 @@ status: "active"
   - **(6)** The Secretary may not provide any assistance amounts pursuant to an existing contract for project-based assistance under this section for a housing project and may not enter into a new or renewal contract for such assistance for a project unless the owner of the project provides consent, to such local law enforcement agencies as the Secretary determines appropriate, for law enforcement officers of such agencies to enter common areas of the project at any time and without advance notice upon a determination of probable cause by such officers that criminal activity is taking place in such areas.
 - **(e)**
   - **(1)** Nothing in this chapter shall be deemed to prohibit an owner from pledging, or offering as security for any loan or obligation, a contract for assistance payments entered into pursuant to this section: Provided , That such security is in connection with a project constructed or rehabilitated pursuant to authority granted in this section, and the terms of the financing or any refinancing have been approved by the Secretary.
-  - **(2)** Repealed. Pub. L. 101–625, title II, § 289(b) , Nov. 28, 1990 , 104 Stat. 4128
+  - **(2)** Repealed. Pub. L. 101–625, title II , § 289(b), Nov. 28, 1990 , 104 Stat. 4128
 - **(f)** As used in this section—
   - **(1)** the term “owner” means any private person or entity, including a cooperative, an agency of the Federal Government, or a public housing agency, having the legal right to lease or sublease dwelling units;
   - **(2)** the terms “rent” or “rental” mean, with respect to members of a cooperative, the charges under the occupancy agreements between such members and the cooperative;
@@ -100,7 +100,7 @@ status: "active"
     - **(D)** a family that qualifies to receive a voucher in connection with a homeownership program approved under title IV of the Cranston-Gonzalez National Affordable Housing Act; or
     - **(E)** a family that qualifies to receive a voucher under section 223 or 226 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 [ 12 U.S.C. 4113 , 4116].
   - **(5)**
-    - **(A)** Reviews of family incomes for purposes of this section shall be subject to the provisions of section 3544 of this title and shall be conducted upon the initial provision of housing assistance for the family and thereafter not less than annually.
+    - **(A)** Reviews of family incomes for purposes of this section shall be subject to the provisions of section 3544 of this title and shall be conducted upon the initial provision of housing assistance for the family and thereafter as required by section 1437a(a)(1) of this title .
     - **(B)** Each public housing agency administering assistance under this subsection shall establish procedures that are appropriate and necessary to ensure that income data provided to the agency and owners by families applying for or receiving assistance from the agency is complete and accurate. Each public housing agency shall, not less frequently than annually, conduct a review of the family income of each family receiving assistance under this subsection.
   - **(6)**
     - **(A)**

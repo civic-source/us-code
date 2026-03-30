@@ -3,9 +3,9 @@ title: "Section 2286 - Establishment"
 usc_title: 42
 usc_section: "2286"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 2286"
-generated_at: "2026-03-30T04:58:57.084Z"
+generated_at: "2026-03-30T05:01:45.183Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** No member of the Board may be an employee of, or have any significant financial relationship with, the Department of Energy or any contractor of the Department of Energy.
 - **(c)**
   - **(1)** The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
-  - **(2)** In accordance with paragraph (5), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+  - **(2)** In accordance with paragraphs (5), (6), and (7), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
     - **(A)** the appointment and supervision of employees of the Board;
     - **(B)** the organization of any administrative units established by the Board; and
     - **(C)** the use and expenditure of funds.
@@ -28,6 +28,14 @@ status: "active"
     - **(A)** have equal responsibility and authority in establishing decisions and determining actions of the Board;
     - **(B)** have full access to all information relating to the performance of the Board’s functions, powers, and mission; and
     - **(C)** have one vote.
+  - **(6)** In carrying out paragraph (5)(B), the Chairman may not withhold from any member of the Board any information that is made available to the Chairman regarding the Board’s functions, powers, and mission (including with respect to the management and evaluation of employees of the Board).
+  - **(7)**
+    - **(A)** The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C).
+    - **(B)** The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C).
+    - **(C)** The senior employees described in this subparagraph are the following senior employees of the Board:
+      - **(i)** The senior employee responsible for budgetary and general administration matters.
+      - **(ii)** The general counsel.
+      - **(iii)** The senior employee responsible for technical matters.
 - **(d)**
   - **(1)** Except as provided under paragraph (2), the members of the Board shall serve for terms of five years. Members of the Board may be reappointed.
   - **(2)** Of the members first appointed—

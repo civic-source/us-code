@@ -3,9 +3,9 @@ title: "Section 48104 - Operations and maintenance"
 usc_title: 49
 usc_section: "48104"
 chapter: 481
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 48104"
-generated_at: "2026-03-30T04:59:03.225Z"
+generated_at: "2026-03-30T05:01:52.735Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 - **(a)** the 1 1 So in original. Probably should be capitalized. balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) may be appropriated to the Secretary of Transportation out of the Fund for—
   - **(1)** direct costs the Secretary incurs to flight check, operate, and maintain air navigation facilities referred to in section 44502(a)(1)(A) of this title safely and efficiently; and
   - **(2)** the costs of services provided under international agreements related to the joint financing of air navigation services assessed against the United States Government.
-- **[(b)** , (c). Repealed. Pub. L. 106–181, title I, § 106(d)(2) , Apr. 5, 2000 , 114 Stat. 73 .]
+- **[(b)** , (c). Repealed. Pub. L. 106–181, title I , § 106(d)(2), Apr. 5, 2000 , 114 Stat. 73 .]

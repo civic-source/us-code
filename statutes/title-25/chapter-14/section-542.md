@@ -3,9 +3,9 @@ title: "Section 542 - Limitations on remainder of fund"
 usc_title: 25
 usc_section: "542"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 542"
-generated_at: "2026-03-30T04:57:20.122Z"
+generated_at: "2026-03-30T05:00:02.982Z"
 status: "active"
 ---
 
@@ -13,6 +13,6 @@ status: "active"
 
 After the segregation provided for in section 541 of this title shall have been made, the remainder of such judgment fund, including interest, shall be available for expenditure subject to the following limitations and conditions:
 
-- **(a)** Repealed. Aug. 13, 1954, ch. 732, § 12 , 68 Stat. 721 .
+- **(a)** Repealed. Aug. 13, 1954, ch. 732 , § 12, 68 Stat. 721 .
 - **(b)** Three hundred and seventy-five thousand dollars for immediate payment in a lump sum of $1,500 to each adult unallotted Indian found to be entitled to payment in lieu of allotment, as authorized in the Act of June 1, 1938 ( 52 Stat. 605 ) [ 25 U.S.C. 551 et seq.]: Provided , That the amount due any minor under the provisions of said subchapter shall be withheld until he becomes an adult, as herein defined, when it shall be paid to him in a lump sum from any funds, principal, or interest, on deposit to the credit of the Klamath Tribe, and section 2 of said Act of June 1, 1938 [ 25 U.S.C. 552 ], is amended accordingly.
 - **(c)** Such moneys as shall remain in the principal fund shall be transferred to and become a part of the capital reserve fund created by section 530 of this title .

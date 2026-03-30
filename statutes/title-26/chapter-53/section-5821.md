@@ -3,9 +3,9 @@ title: "Section 5821 - Making tax"
 usc_title: 26
 usc_section: "5821"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 5821"
-generated_at: "2026-03-30T04:58:24.554Z"
+generated_at: "2026-03-30T05:00:47.975Z"
 status: "active"
 ---
 

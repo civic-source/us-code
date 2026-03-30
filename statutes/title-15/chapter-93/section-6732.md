@@ -3,15 +3,15 @@ title: "Section 6732 - Redomestication of mutual insurers"
 usc_title: 15
 usc_section: "6732"
 chapter: 93
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 6732"
-generated_at: "2026-03-30T04:56:57.504Z"
+generated_at: "2026-03-30T04:59:35.601Z"
 status: "active"
 ---
 
 # § 6732. Redomestication of mutual insurers
 
-- **(a)** A mutual insurer organized under the laws of any State may transfer its domicile to a transferee domicile as a step in a reorganization in which, pursuant to the laws of the transferee domicile and consistent with the standards in subsection (f) of this section, the mutual insurer becomes a stock insurer that is a direct or indirect subsidiary of a mutual holding company.
+- **(a)** A mutual insurer organized under the laws of any State may transfer its domicile to a transferee domicile as a step in a reorganization in which, pursuant to the laws of the transferee domicile and consistent with the standards in subsection (f), the mutual insurer becomes a stock insurer that is a direct or indirect subsidiary of a mutual holding company.
 - **(b)** Upon complying with the applicable law of the transferee domicile governing transfers of domicile and completion of a transfer pursuant to this section, the mutual insurer shall cease to be a domestic insurer in the transferor domicile and, as a continuation of its corporate existence, shall be a domestic insurer of the transferee domicile.
 - **(c)** The certificate of authority, agents’ appointments and licenses, rates, approvals and other items that a licensed State allows and that are in existence immediately prior to the date that a redomesticating insurer transfers its domicile pursuant to this subchapter shall continue in full force and effect upon transfer, if the insurer remains duly qualified to transact the business of insurance in such licensed State.
 - **(d)**

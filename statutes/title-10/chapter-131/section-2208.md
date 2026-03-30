@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-30T04:56:26.690Z"
+generated_at: "2026-03-30T04:59:28.722Z"
 status: "active"
 ---
 
@@ -72,3 +72,15 @@ status: "active"
 - **(r)**
   - **(1)** Notwithstanding any authority provided in this section to transfer funds, the transfer of funds from a working-capital fund, including a transfer to another working-capital fund, shall not be made under such authority unless the Secretary of Defense submits, in advance, a notification of the proposed transfer to the congressional defense committees in accordance with customary procedures.
   - **(2)** The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
+- **(s)**
+  - **(1)** Except as provided in paragraph (2), the Secretary of Defense or the Secretary of a military department is not authorized—
+    - **(A)** to suspend the employment of indirectly funded Government employees of the Department of Defense who are paid for out of working-capital funds by ceasing or suspending the distribution of such funds; or
+    - **(B)** to cease or suspend the distribution of funds from a working-capital fund for a current project undertaken to carry out the functions or activities of the Department.
+  - **(2)** Paragraph (1) shall not apply with respect to a working-capital fund if—
+    - **(A)** the working-capital fund is insolvent; or
+    - **(B)** there are insufficient funds in the working-capital fund to pay labor costs for the current project concerned.
+  - **(3)** The Secretary of Defense or the Secretary of a military department may waive the limitation in paragraph (1) if such Secretary determines that the waiver is in the national security interests of the United States.
+  - **(4)** This subsection shall not be construed to provide for the exclusion of any particular category of employees of the Department of Defense from furlough due to absence of or inadequate funding.
+- **(t)**
+  - **(1)** From amounts available for Working Capital Fund, Defense, the Secretary shall reserve up to $1,000,000,000, to remain available without fiscal year limitation, for petroleum market price fluctuations. Such amounts may only be disbursed if the Secretary determines such a disbursement is necessary to absorb volatile market changes in fuel prices without affecting the standard price charged for fuel.
+  - **(2)** A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).

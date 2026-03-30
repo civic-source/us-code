@@ -3,9 +3,9 @@ title: "Section 203 - Federal lands transportation program"
 usc_title: 23
 usc_section: "203"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 203"
-generated_at: "2026-03-30T04:57:24.963Z"
+generated_at: "2026-03-30T05:00:18.954Z"
 status: "active"
 ---
 
@@ -23,9 +23,9 @@ status: "active"
       - **(v)** construction and reconstruction of roadside rest areas, including sanitary and water facilities;
       - **(vi)** congestion mitigation; and
       - **(vii)** other appropriate public road facilities, as determined by the Secretary;
-    - **(B)** operation and maintenance of transit facilities;
+    - **(B)** capital, operations, and maintenance of transit facilities;
     - **(C)** any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
-    - **(D)** not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv).
+    - **(D)** not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
   - **(2)** In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—
     - **(A)** a State (including a political subdivision of a State); or
     - **(B)** an Indian tribe.
@@ -43,14 +43,16 @@ status: "active"
       - **(i)** the National Park Service;
       - **(ii)** the Forest Service;
       - **(iii)** the United States Fish and Wildlife Service;
-      - **(iv)** the Corps of Engineers; and
-      - **(v)** the Bureau of Land Management.
+      - **(iv)** the Corps of Engineers;
+      - **(v)** the Bureau of Land Management;
+      - **(vi)** the Bureau of Reclamation; and
+      - **(vii)** independent Federal agencies with natural resource and land management responsibilities.
   - **(2)**
     - **(A)** Each application submitted by a Federal land management agency shall include proposed programs at various potential funding levels, as defined by the Secretary following collaborative discussions with applicable Federal land management agencies.
-    - **(B)** In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support—
+    - **(B)** In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support performance management, including—
       - **(i)** the transportation goals of—
         - **(I)** a state of good repair of transportation facilities;
-        - **(II)** a reduction of bridge deficiencies, 1 1 So in original. The comma probably should be a semicolon. and
+        - **(II)** a reduction of bridge deficiencies; and
         - **(III)** an improvement of safety;
       - **(ii)** high-use Federal recreational sites or Federal economic generators; and
       - **(iii)** the resource and asset management goals of the Secretary of the respective Federal land management agency.
@@ -65,6 +67,7 @@ status: "active"
       - **(iii)** The United States Fish and Wildlife Service.
       - **(iv)** The Bureau of Land Management.
       - **(v)** The Corps of Engineers.
+      - **(vi)** The Bureau of Reclamation.
   - **(3)** The inventories shall be made available to the Secretary.
   - **(4)** The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriate Federal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
   - **(5)** A decision to add or remove a facility from the inventory shall not be considered a Federal action for purposes of review under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).

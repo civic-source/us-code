@@ -3,9 +3,9 @@ title: "Section 7144a - Establishment of security, counterintelligence, and inte
 usc_title: 42
 usc_section: "7144a"
 chapter: 84
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 7144a"
-generated_at: "2026-03-30T04:58:57.200Z"
+generated_at: "2026-03-30T05:01:45.308Z"
 status: "active"
 ---
 

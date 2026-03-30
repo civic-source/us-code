@@ -1,13 +1,13 @@
 ---
-title: "Section 14212 - Repealed. Pub. L. 105–33, title X, § 10204(b) , Aug. 5, 1997 , 111 Stat. 702"
+title: "Section 14212 - Repealed. Pub. L. 105–33, title X , § 10204(b), Aug. 5, 1997 , 111 Stat. 702"
 usc_title: 42
 usc_section: "14212"
 chapter: 136
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 14212"
-generated_at: "2026-03-30T04:58:57.359Z"
+generated_at: "2026-03-30T05:01:45.766Z"
 status: "repealed"
 ---
 
-# § 14212. Repealed. Pub. L. 105–33, title X, § 10204(b) , Aug. 5, 1997 , 111 Stat. 702
+# § 14212. Repealed. Pub. L. 105–33, title X , § 10204(b), Aug. 5, 1997 , 111 Stat. 702
 

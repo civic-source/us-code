@@ -3,9 +3,9 @@ title: "Section 13905 - Effective periods of registration"
 usc_title: 49
 usc_section: "13905"
 chapter: 139
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 13905"
-generated_at: "2026-03-30T04:59:03.169Z"
+generated_at: "2026-03-30T05:01:52.677Z"
 status: "active"
 ---
 
@@ -39,8 +39,7 @@ status: "active"
       - **(i)** this part;
       - **(ii)** an applicable regulation or order of the Secretary or the Board; or
       - **(iii)** a condition of its registration; or
-    - **(D)** withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that—
-      - **(i)** 2 2 So in original. No cl. (ii) has been enacted. the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904 3 3 So in original. Probably should be followed by a period.
+    - **(D)** withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904.
   - **(3)** Paragraph (2)(B) shall not apply to a person who is unable to pay a civil penalty because the person is a debtor in a case under chapter 11 of title 11.
   - **(4)** Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and opportunity for public comment, shall issue regulations to provide for the suspension, amendment, or revocation of a registration under this part for failure to pay a civil penalty as provided in paragraph (2)(B).
 - **(e)** Except on application of the registrant, or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C), the Secretary may revoke a registration of a motor carrier, freight forwarder, or broker, only after—

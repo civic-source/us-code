@@ -3,9 +3,9 @@ title: "Section 1613a - Indian health professions scholarships"
 usc_title: 25
 usc_section: "1613a"
 chapter: 18
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 1613a"
-generated_at: "2026-03-30T04:57:20.148Z"
+generated_at: "2026-03-30T05:00:03.045Z"
 status: "active"
 ---
 

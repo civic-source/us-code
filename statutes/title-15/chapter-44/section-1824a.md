@@ -3,15 +3,15 @@ title: "Section 1824a - Export of horses"
 usc_title: 15
 usc_section: "1824a"
 chapter: 44
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1824a"
-generated_at: "2026-03-30T04:56:57.457Z"
+generated_at: "2026-03-30T04:59:35.554Z"
 status: "active"
 ---
 
 # § 1824a. Export of horses
 
-- **(a)** Notwithstanding any other provision of law, no horse may be exported by sea from the United States, or any of its territories or possessions, unless such horse is part of a consignment of horses with respect to which a waiver has been granted under subsection (b) of this section.
+- **(a)** Notwithstanding any other provision of law, no horse may be exported by sea from the United States, or any of its territories or possessions, unless such horse is part of a consignment of horses with respect to which a waiver has been granted under subsection (b).
 - **(b)** The Secretary of Commerce, in consultation with the Secretary of Agriculture, may issue regulations providing for the granting of waivers permitting the export by sea of a specified consignment of horses, if the Secretary of Commerce, in consultation with the Secretary of Agriculture, determines that no horse in that consignment is being exported for purposes of slaughter.
 - **(c)**
   - **(1)** Any person who knowingly violates this section or any regulation, order, or license issued under this section shall be fined not more than 5 times the value of the consignment of horses involved or $50,000, whichever is greater, or imprisoned not more than 5 years, or both.

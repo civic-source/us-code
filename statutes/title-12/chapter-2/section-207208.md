@@ -3,9 +3,9 @@ title: "Section 207208 - Repealed. Pub. L. 101–73, title VIII, § 808 , Aug. 9
 usc_title: 12
 usc_section: "207208"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 207208"
-generated_at: "2026-03-30T04:56:55.341Z"
+generated_at: "2026-03-30T04:59:33.517Z"
 status: "repealed"
 ---
 

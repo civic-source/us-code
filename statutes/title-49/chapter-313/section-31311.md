@@ -3,9 +3,9 @@ title: "Section 31311 - Requirements for State participation"
 usc_title: 49
 usc_section: "31311"
 chapter: 313
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 31311"
-generated_at: "2026-03-30T04:59:03.192Z"
+generated_at: "2026-03-30T05:01:52.702Z"
 status: "active"
 ---
 
@@ -36,7 +36,9 @@ status: "active"
       - **(ii)** is not domiciled in a State that issues commercial driver’s licenses.
     - **(C)** The State may issue a commercial driver’s license to an individual who—
       - **(i)** operates or will operate a commercial motor vehicle;
-      - **(ii)** is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and
+      - **(ii)** is an active duty member of—
+        - **(I)** the armed forces (as that term is defined in section 101(a) of title 10 ); or
+        - **(II)** the reserve components (as that term is defined in section 31305(d)(2) of this title ); and
       - **(iii)** is not domiciled in the State, but whose temporary or permanent duty station is located in the State.
   - **(13)** The State shall impose penalties consistent with this chapter that the State considers appropriate and the Secretary approves for an individual operating a commercial motor vehicle.
   - **(14)** The State shall allow an individual to operate a commercial motor vehicle in the State if—

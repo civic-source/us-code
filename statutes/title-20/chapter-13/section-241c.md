@@ -1,13 +1,13 @@
 ---
-title: "Section 241c - Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 1978 , 92 Stat. 2200"
+title: "Section 241c - Repealed. Pub. L. 95–561, title I , § 101(c), Nov. 1, 1978 , 92 Stat. 2200"
 usc_title: 20
 usc_section: "241c"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 241c"
-generated_at: "2026-03-30T04:57:15.717Z"
+generated_at: "2026-03-30T04:59:56.100Z"
 status: "repealed"
 ---
 
-# § 241c. Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 1978 , 92 Stat. 2200
+# § 241c. Repealed. Pub. L. 95–561, title I , § 101(c), Nov. 1, 1978 , 92 Stat. 2200
 

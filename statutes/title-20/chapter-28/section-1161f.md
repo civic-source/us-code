@@ -3,9 +3,9 @@ title: "Section 1161f - Teach For America"
 usc_title: 20
 usc_section: "1161f"
 chapter: 28
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 1161f"
-generated_at: "2026-03-30T04:57:15.772Z"
+generated_at: "2026-03-30T04:59:56.159Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)** For purposes of this section:
   - **(1)** The term “grantee” means Teach For America, Inc.
-  - **(2)** The term “highly qualified” has the meaning given the term in section 7801 of this title or section 1401 of this title .
+  - **(2)**
   - **(3)** The term “high-need local educational agency” has the meaning given such term in section 1021 of this title .
 - **(b)** From the amounts appropriated under subsection (f), the Secretary is authorized to award a five-year grant to Teach For America, Inc., the national teacher corps of outstanding recent college graduates who commit to teach for two years in underserved communities in the United States, to implement and expand its program of recruiting, selecting, training, and supporting new teachers.
 - **(c)** In carrying out the grant program under subsection (b), the Secretary shall enter into an agreement with the grantee under which the grantee agrees to use the grant funds provided under this section to—
-  - **(1)** provide highly qualified teachers to high-need local educational agencies in urban and rural communities;
+  - **(1)** provide teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , to high-need local educational agencies in urban and rural communities;
   - **(2)** pay the costs of recruiting, selecting, training, and supporting new teachers; and
   - **(3)** serve a substantial number and percentage of underserved students.
 - **(d)**

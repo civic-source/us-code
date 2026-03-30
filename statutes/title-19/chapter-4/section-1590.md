@@ -3,9 +3,9 @@ title: "Section 1590 - Aviation smuggling"
 usc_title: 19
 usc_section: "1590"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1590"
-generated_at: "2026-03-30T04:57:10.177Z"
+generated_at: "2026-03-30T04:59:42.871Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** the vessel is a vessel of the United States (within the meaning of section 1703(b) of this title ), or
   - **(2)** regardless of the nationality of the vessel or aircraft, such transfer is made under circumstances indicating the intent to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully.
 - **(c)** Any person who violates any provision of this section is liable for a civil penalty equal to twice the value of the merchandise involved in the violation, but not less than $10,000. The value of any controlled substance included in the merchandise shall be determined in accordance with section 1497(b) of this title .
-- **(d)** In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
+- **(d)** In addition to being liable for a civil penalty under subsection (c), any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
   - **(1)** liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both, if none of the merchandise involved was a controlled substance; or
   - **(2)** liable for a fine of not more than $250,000 or imprisonment for not more than 20 years, or both, if any of the merchandise involved was a controlled substance.
 - **(e)**
@@ -28,7 +28,7 @@ status: "active"
 - **(g)** In this section, the term “aircraft”—
   - **(1)** has the meaning given that term in section 40102 of title 49 ; and
   - **(2)** includes a vehicle described in section 103.1 of title 14, Code of Federal Regulations.
-- **(h)** For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) of this section or section 1595a of this title , shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
+- **(h)** For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) or section 1595a of this title , shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
   - **(1)** The operation of an aircraft or a vessel without lights during such times as lights are required to be displayed under applicable law.
   - **(2)** The presence on an aircraft of an auxiliary fuel tank which is not installed in accordance with applicable law.
   - **(3)** The failure to identify correctly—

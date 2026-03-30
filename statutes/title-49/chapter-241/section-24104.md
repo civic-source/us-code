@@ -1,40 +1,13 @@
 ---
-title: "Section 24104 - Authorization of appropriations"
+title: "Section 24104 - Repealed. Pub. L. 114–94, div. A, title XI , § 11202(c)(2), Dec. 4, 2015 , 129 Stat. 1630 ]"
 usc_title: 49
 usc_section: "24104"
 chapter: 241
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 24104"
-generated_at: "2026-03-30T04:59:03.180Z"
-status: "active"
+generated_at: "2026-03-30T05:01:52.687Z"
+status: "repealed"
 ---
 
-# § 24104. Authorization of appropriations
+# [§ 24104. Repealed. Pub. L. 114–94, div. A, title XI , § 11202(c)(2), Dec. 4, 2015 , 129 Stat. 1630 ]
 
-- **(a)** There are authorized to be appropriated to the Secretary of Transportation—
-  - **(1)** $1,138,000,000 for fiscal year 1998;
-  - **(2)** $1,058,000,000 for fiscal year 1999;
-  - **(3)** $1,023,000,000 for fiscal year 2000;
-  - **(4)** $989,000,000 for fiscal year 2001; and
-  - **(5)** $955,000,000 for fiscal year 2002,
-- **(b)**
-  - **(1)** Not more than $381,000,000 may be appropriated to the Secretary for each of the fiscal years ending September 30, 1993 , and September 30, 1994 , for the benefit of Amtrak for operating expenses. Not more than 5 percent of the amounts appropriated for each fiscal year shall be used to pay operating expenses under section 24704 1 1 See References in Text note below. of this title for transportation in operation on September 30, 1992 .
-  - **(2)**
-    - **(A)** Not more than the following amounts may be appropriated to the Secretary for the benefit of Amtrak for operating losses under section 24704 1 of this title for transportation beginning after September 30, 1992 :
-      - **(i)** $7,500,000 for the fiscal year ending September 30, 1993 .
-      - **(ii)** $9,500,000 for the fiscal year ending September 30, 1994 .
-    - **(B)** The expenditure by Amtrak of an amount appropriated under subparagraph (A) of this paragraph is deemed not to be an operating expense when calculating the revenue-to-operating expense ratio of Amtrak.
-- **(c)**
-  - **(1)** Not more than $150,000,000 for the fiscal year ending September 30, 1993 , and amounts that may be necessary for the fiscal year ending September 30, 1994 , may be appropriated to the Secretary to pay—
-    - **(A)** tax liabilities under section 3221 of the Internal Revenue Code of 1986 ( 26 U.S.C. 3221 ) due in those fiscal years that are more than the amount needed for benefits for individuals who retire from Amtrak and for their beneficiaries;
-    - **(B)** obligations of Amtrak under section 8(a) of the Railroad Unemployment Insurance Act ( 45 U.S.C. 358(a) ) due in those fiscal years that are more than obligations of Amtrak calculated on an experience-related basis; and
-    - **(C)** obligations of Amtrak due under section 3321 of the Code ( 26 U.S.C. 3321 ).
-  - **(2)** Amounts appropriated under this subsection are not a United States Government subsidy of Amtrak.
-- **(d)** Amounts appropriated under this section shall be paid to Amtrak under the budget request of the Secretary as approved or modified by Congress when the amounts are appropriated. A payment may not be made more frequently than once every 90 days, unless Amtrak, for good cause, requests more frequent payment before a 90-day period ends. In each fiscal year in which amounts are authorized to be appropriated under this section, amounts appropriated shall be paid to Amtrak as follows:
-  - **(1)** 50 percent on October 1.
-  - **(2)** 25 percent on January 1.
-  - **(3)** 25 percent on April 1.
-- **(e)**
-  - **(1)** Amounts appropriated under this section remain available until expended.
-  - **(2)** Amounts for capital acquisitions and improvements may be appropriated in a fiscal year before the fiscal year in which the amounts will be obligated.
-- **(f)** Amounts appropriated under this section may not be used to subsidize operating losses of commuter rail passenger or rail freight transportation.

@@ -3,9 +3,9 @@ title: "Section 1603 - Declaration of settlement"
 usc_title: 43
 usc_section: "1603"
 chapter: 33
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 1603"
-generated_at: "2026-03-30T04:58:49.584Z"
+generated_at: "2026-03-30T05:01:30.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14314 - Army and Air Force commissioned officers: generals ceasi
 usc_title: 10
 usc_section: "14314"
 chapter: 1405
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 14314"
-generated_at: "2026-03-30T04:56:26.758Z"
+generated_at: "2026-03-30T04:59:28.794Z"
 status: "active"
 ---
 

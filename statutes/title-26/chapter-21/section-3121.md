@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-30T04:58:24.522Z"
+generated_at: "2026-03-30T05:00:47.939Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term “wages” only payments which are received under a workman’s compensation law), or
     - **(B)** medical or hospitalization expenses in connection with sickness or accident disability, or
     - **(C)** death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee;
-  - **[(3)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B) , Apr. 20, 1983 , 97 Stat. 123 ]
+  - **[(3)** Repealed. Pub. L. 98–21, title III , § 324(a)(3)(B), Apr. 20, 1983 , 97 Stat. 123 ]
   - **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
   - **(5)** any payment made to, or on behalf of, an employee or his beneficiary—
     - **(A)** from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust,
@@ -41,7 +41,7 @@ status: "active"
     - **(B)** cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless—
       - **(i)** the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or
       - **(ii)** the employer’s expenditures for agricultural labor in such year equal or exceed $2,500,
-  - **[(9)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B) , Apr. 20, 1983 , 97 Stat. 123 ]
+  - **[(9)** Repealed. Pub. L. 98–21, title III , § 324(a)(3)(B), Apr. 20, 1983 , 97 Stat. 123 ]
   - **(10)** remuneration paid by an employer in any calendar year to an employee for service described in subsection (d)(3)(C) (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
   - **(11)** remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n));
   - **(12)**
@@ -53,7 +53,7 @@ status: "active"
   - **(14)** any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died;
   - **(15)** any payment made by an employer to an employee, if at the time such payment is made such employee is entitled to disability insurance benefits under section 223(a) of the Social Security Act and such entitlement commenced prior to the calendar year in which such payment is made, and if such employee did not perform any services for such employer during the period for which such payment is made;
   - **(16)** remuneration paid by an organization exempt from income tax under section 501(a) (other than an organization described in section 401(a)) or under section 521 in any calendar year to an employee for service rendered in the employ of such organization, if the remuneration paid in such year by the organization to the employee for such service is less than $100;
-  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv) , Dec. 19, 2014 , 128 Stat. 4040 ]
+  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(19)(B)(iv), Dec. 19, 2014 , 128 Stat. 4040 ]
   - **(18)** any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
   - **(19)** the value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
   - **(20)** any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132;
@@ -138,7 +138,7 @@ status: "active"
     - **(A)** such individual undertakes to produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land,
     - **(B)** the agricultural or horticultural commodities produced by such individual, or the proceeds therefrom, are to be divided between such individual and such owner or tenant, and
     - **(C)** the amount of such individual’s share depends on the amount of the agricultural or horticultural commodities produced;
-  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(i) , Dec. 19, 2014 , 128 Stat. 4052 ]
+  - **[(17)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(99)(C)(i), Dec. 19, 2014 , 128 Stat. 4052 ]
   - **(18)** service performed in Guam by a resident of the Republic of the Philippines while in Guam on a temporary basis as a nonimmigrant alien admitted to Guam pursuant to section 101(a)(15)(H)(ii) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii) );
   - **(19)** Service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
   - **(20)** service (other than service described in paragraph (3)(A)) performed by an individual on a boat engaged in catching fish or other forms of aquatic animal life under an arrangement with the owner or operator of such boat pursuant to which—

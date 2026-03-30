@@ -3,14 +3,14 @@ title: "Section 3110 - Study on telecommunications competitiveness in United Sta
 usc_title: 19
 usc_section: "3110"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3110"
-generated_at: "2026-03-30T04:57:10.210Z"
+generated_at: "2026-03-30T04:59:42.908Z"
 status: "active"
 ---
 
 # § 3110. Study on telecommunications competitiveness in United States
 
 - **(a)** The Secretary of Commerce, in consultation with the Federal Communications Commission and the United States Trade Representative, shall conduct a study of the competitiveness of the United States telecommunications industry and the effects of foreign telecommunications policies and practices on such industry in order to assist the Congress and the President in determining what actions might be necessary to preserve the competitiveness of the United States telecommunications industry.
-- **(b)** The Secretary of Commerce may, as appropriate, provide notice and reasonable opportunity for public comment as part of the study conducted under subsection (a) of this section.
-- **(c)** The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988 , submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a) of this section. Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
+- **(b)** The Secretary of Commerce may, as appropriate, provide notice and reasonable opportunity for public comment as part of the study conducted under subsection (a).
+- **(c)** The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988 , submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a). Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.

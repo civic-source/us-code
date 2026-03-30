@@ -3,9 +3,9 @@ title: "Section 622 - Optional electronic labeling of communications equipment"
 usc_title: 47
 usc_section: "622"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "47 U.S.C. § 622"
-generated_at: "2026-03-30T04:59:00.109Z"
+generated_at: "2026-03-30T05:01:50.627Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7428 - Declaratory judgments relating to status and classificati
 usc_title: 26
 usc_section: "7428"
 chapter: 76
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 7428"
-generated_at: "2026-03-30T04:58:24.589Z"
+generated_at: "2026-03-30T05:00:48.012Z"
 status: "active"
 ---
 
@@ -15,8 +15,9 @@ status: "active"
   - **(1)** a determination by the Secretary—
     - **(A)** with respect to the initial qualification or continuing qualification of an organization as an organization described in section 501(c)(3) which is exempt from tax under section 501(a) or as an organization described in section 170(c)(2),
     - **(B)** with respect to the initial classification or continuing classification of an organization as a private foundation (as defined in section 509(a)),
-    - **(C)** with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)), or
+    - **(C)** with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)),
     - **(D)** with respect to the initial classification or continuing classification of a cooperative as an organization described in section 521(b) which is exempt from tax under section 521(a), or
+    - **(E)** with respect to the initial qualification or continuing qualification of an organization as an organization described in section 501(c) (other than paragraph (3)) or 501(d) and exempt from tax under section 501(a), or
   - **(2)** a failure by the Secretary to make a determination with respect to an issue referred to in paragraph (1),
 - **(b)**
   - **(1)** A pleading may be filed under this section only by the organization the qualification or classification of which is at issue.

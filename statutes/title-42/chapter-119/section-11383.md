@@ -3,9 +3,9 @@ title: "Section 11383 - Eligible activities"
 usc_title: 42
 usc_section: "11383"
 chapter: 119
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 11383"
-generated_at: "2026-03-30T04:58:57.301Z"
+generated_at: "2026-03-30T05:01:45.705Z"
 status: "active"
 ---
 
@@ -43,4 +43,4 @@ status: "active"
     - **(D)** there are no individuals and families in the geographic area who are homeless, in which case the project may serve individuals and families at risk of homelessness.
 - **(e)** The Secretary may allow reasonable costs associated with staff training to be included as part of the activities described in subsection (a).
 - **(f)** Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
-- **(g)** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, or public housing agency.
+- **(g)** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.

@@ -3,9 +3,9 @@ title: "Section 2377 - Preference for acquisition of commercial items"
 usc_title: 10
 usc_section: "2377"
 chapter: 140
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2377"
-generated_at: "2026-03-30T04:56:26.702Z"
+generated_at: "2026-03-30T04:59:28.735Z"
 status: "active"
 ---
 
@@ -36,3 +36,7 @@ status: "active"
     - **(C)** could meet the agency’s requirements if those requirements were modified to a reasonable extent.
   - **(3)** In conducting market research, the head of an agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
   - **(4)** The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of items other than commercial items engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
+- **(d)** The Secretary of Defense shall provide mandatory training for members of the armed forces and employees of the Department of Defense responsible for the conduct of market research required under subsection (c). Such mandatory training shall, at a minimum—
+  - **(1)** provide comprehensive information on the subject of market research and the function of market research in the acquisition of commercial items;
+  - **(2)** teach best practices for conducting and documenting market research; and
+  - **(3)** provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.

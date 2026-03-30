@@ -1,13 +1,13 @@
 ---
-title: "Section 327 - Repealed. May 29, 1928, ch. 901, § 1(74) , 45 Stat. 991"
+title: "Section 327 - Repealed. May 29, 1928, ch. 901 , § 1(74), 45 Stat. 991"
 usc_title: 7
 usc_section: "327"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 327"
-generated_at: "2026-03-30T04:56:40.913Z"
+generated_at: "2026-03-30T04:59:24.480Z"
 status: "repealed"
 ---
 
-# § 327. Repealed. May 29, 1928, ch. 901, § 1(74) , 45 Stat. 991
+# § 327. Repealed. May 29, 1928, ch. 901 , § 1(74), 45 Stat. 991
 

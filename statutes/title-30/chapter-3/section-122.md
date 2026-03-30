@@ -3,9 +3,9 @@ title: "Section 122 - Patents; reservation in the United States of reserved depo
 usc_title: 30
 usc_section: "122"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "30 U.S.C. § 122"
-generated_at: "2026-03-30T04:57:34.622Z"
+generated_at: "2026-03-30T05:00:42.143Z"
 status: "active"
 ---
 

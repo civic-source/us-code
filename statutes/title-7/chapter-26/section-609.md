@@ -3,9 +3,9 @@ title: "Section 609 - Processing tax; methods of computation; rate; what constit
 usc_title: 7
 usc_section: "609"
 chapter: 26
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 609"
-generated_at: "2026-03-30T04:56:40.923Z"
+generated_at: "2026-03-30T04:59:24.490Z"
 status: "active"
 ---
 
@@ -37,8 +37,8 @@ status: "active"
   - **(1)** In case of wheat, rye, barley and corn, the term “processing” means the milling or other processing (except cleaning and drying) of wheat, rye, barley or corn for market, including custom milling for toll as well as commercial milling, but shall not include the grinding or cracking thereof not in the form of flour for feed purposes only.
   - **(2)** In case of cotton, the term “processing” means the spinning, manufacturing, or other processing (except ginning) of cotton; and the term “cotton” shall not include cotton linters.
   - **(3)** In case of tobacco, the term “processing” means the manufacturing or other processing (except drying or converting into insecticides and fertilizers) of tobacco.
-  - **(4)** Repealed. June 26, 1934, ch. 759, § 2(a) , 48 Stat. 1242 .
-  - **(5)** Repealed. Aug. 24, 1935, ch. 641, § 14(b) , 49 Stat. 767 .
+  - **(4)** Repealed. June 26, 1934, ch. 759 , § 2(a), 48 Stat. 1242 .
+  - **(5)** Repealed. Aug. 24, 1935, ch. 641 , § 14(b), 49 Stat. 767 .
   - **(6)** In the case of sugar beets and sugarcane—
     - **(A)** The term “first domestic processing” means each domestic processing, including each processing of successive domestic processings, of sugar beets, sugarcane, or raw sugar, which directly results in direct-consumption sugar.
     - **(B)** The term “sugar” means sugar in any form whatsoever, derived from sugar beets or sugarcane, whether raw sugar or direct-consumption sugar, including also edible molasses, sirups, and any mixture containing sugar (except blackstrap molasses and beet molasses).

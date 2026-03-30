@@ -3,9 +3,9 @@ title: "Section 1522 - Authorization for programs for domestic resettlement of a
 usc_title: 8
 usc_section: "1522"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "8 U.S.C. § 1522"
-generated_at: "2026-03-30T04:56:20.452Z"
+generated_at: "2026-03-30T04:59:21.011Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
       - **(ii)** fiscal year 1982 and succeeding fiscal years, the Director (except as provided in subparagraph (B)) is authorized,
     - **(B)** If the President determines that the Director should not administer the program under this paragraph, the authority of the Director under the first sentence of subparagraph (A) shall be exercised by such officer as the President shall from time to time specify.
   - **(2)** The Director is authorized to develop programs for such orientation, instruction in English, and job training for refugees, and such other education and training of refugees, as facilitates their resettlement in the United States. The Director is authorized to implement such programs, in accordance with the provisions of this section, with respect to refugees in the United States. The Secretary of State is authorized to implement such programs with respect to refugees awaiting entry into the United States.
-  - **(3)** The Secretary is authorized to make arrangements (including cooperative arrangements with other Federal agencies) for the temporary care of refugees in the United States in emergency circumstances, including the establishment of processing centers, if necessary, without regard to such provisions of law (other than the Renegotiation Act of 1951 [50 U.S.C. App. 1211 et seq.] and section 1524(b) of this title ) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the Secretary may specify.
+  - **(3)** The Secretary is authorized to make arrangements (including cooperative arrangements with other Federal agencies) for the temporary care of refugees in the United States in emergency circumstances, including the establishment of processing centers, if necessary, without regard to such provisions of law (other than the Renegotiation Act of 1951 and section 1524(b) of this title ) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the Secretary may specify.
   - **(4)** The Secretary shall—
     - **(A)** assure that an adequate number of trained staff are available at the location at which the refugees enter the United States to assure that all necessary medical records are available and in proper order;
     - **(B)** provide for the identification of refugees who have been determined to have medical conditions affecting the public health and requiring treatment;

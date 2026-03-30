@@ -3,9 +3,9 @@ title: "Section 2334 - Independent cost estimation and cost analysis"
 usc_title: 10
 usc_section: "2334"
 chapter: 137
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2334"
-generated_at: "2026-03-30T04:56:26.699Z"
+generated_at: "2026-03-30T04:59:28.732Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(5)** review all cost estimates and cost analyses conducted in connection with major defense acquisition programs and major automated information system programs;
   - **(6)** conduct independent cost estimates and cost analyses for major defense acquisition programs and major automated information system programs for which the Under Secretary of Defense for Acquisition, Technology, and Logistics is the Milestone Decision Authority—
     - **(A)** in advance of—
-      - **(i)** any certification under section 2366a or 2366b of this title;
+      - **(i)** any decision to grant milestone approval pursuant to section 2366a or 2366b of this title;
       - **(ii)** any decision to enter into low-rate initial production or full-rate production;
       - **(iii)** any certification under section 2433a of this title ; and
       - **(iv)** any report under section 2445c(f) of this title ; and
@@ -51,16 +51,4 @@ status: "active"
       - **(ii)** to acquire additional end items in accordance with the requirements of section 2308 of this title ; or
       - **(iii)** to cover the cost of risk reduction and process improvements; and
     - **(B)** may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.
-- **(f)**
-  - **(1)** The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report—
-    - **(A)** an assessment of the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
-    - **(B)** an assessment of the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs;
-    - **(C)** an assessment of any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director; and
-    - **(D)** a summary of the cost and associated information reviewed under subsection (a)(8), an identification of any trends in that information, an aggregation of the cumulative risk of the portfolio of systems reviewed under that subsection, and recommendations for improving cost estimates on the basis of the review under that subsection.
-  - **(2)** Each report under this subsection shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the congressional defense committees not later than 10 days after the transmittal to Congress of the budget of the President for the next fiscal year (as submitted pursuant to section 1105 of title 31 ).
-  - **(3)**
-    - **(A)** Each report submitted to the congressional defense committees under this subsection shall be submitted in unclassified form, but may include a classified annex.
-    - **(B)** The Director shall ensure that a report submitted under this subsection does not include any information, such as proprietary or source selection sensitive information, that could undermine the integrity of the acquisition process.
-    - **(C)** The unclassified version of each report submitted to the congressional defense committees under this subsection shall be posted on an Internet website of the Department of Defense that is available to the public.
-  - **(4)** The Secretary of Defense may comment on any report of the Director to the congressional defense committees under this subsection.
-- **(g)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
+- **(f)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.

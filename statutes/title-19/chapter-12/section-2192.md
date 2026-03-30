@@ -3,9 +3,9 @@ title: "Section 2192 - Resolutions disapproving certain actions"
 usc_title: 19
 usc_section: "2192"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2192"
-generated_at: "2026-03-30T04:57:10.193Z"
+generated_at: "2026-03-30T04:59:42.889Z"
 status: "active"
 ---
 
@@ -42,4 +42,4 @@ status: "active"
   - **(2)** If the texts of joint resolutions described in this section or section 2193(a) of this title , whichever is applicable, concerning any matter are not identical—
     - **(A)** the Senate shall vote passage on the resolution introduced in the Senate, and
     - **(B)** the text of the joint resolution passed by the Senate shall, immediately upon its passage (or, if later, upon receipt of the joint resolution passed by the House), be substituted for the text of the joint resolution passed by the House of Representatives, and such resolution, as amended, shall be returned with a request for a conference between the two Houses.
-  - **(3)** Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) of this section or section 2193(a) of this title , including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+  - **(3)** Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) or section 2193(a) of this title , including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.

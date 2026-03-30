@@ -3,9 +3,9 @@ title: "Section 665 - Theft or embezzlement from employment and training funds; 
 usc_title: 18
 usc_section: "665"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "18 U.S.C. § 665"
-generated_at: "2026-03-30T04:57:04.207Z"
+generated_at: "2026-03-30T04:59:41.104Z"
 status: "active"
 ---
 

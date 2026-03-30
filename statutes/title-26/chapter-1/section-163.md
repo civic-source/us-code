@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-30T04:58:24.398Z"
+generated_at: "2026-03-30T05:00:47.809Z"
 status: "active"
 ---
 
@@ -138,7 +138,7 @@ status: "active"
       - **(ii)** The amount otherwise treated as interest under clause (i) shall be reduced (but not below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer’s adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
       - **(iii)** Clause (i) shall not apply with respect to any mortgage insurance contracts issued before January 1, 2007 .
       - **(iv)** Clause (i) shall not apply to amounts—
-        - **(I)** paid or accrued after December 31, 2014 , or
+        - **(I)** paid or accrued after December 31, 2016 , or
         - **(II)** properly allocable to any period after such date.
   - **(4)** For purposes of this subsection—
     - **(A)**

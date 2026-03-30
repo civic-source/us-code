@@ -3,9 +3,9 @@ title: "Section 11841 - Community youth activity program"
 usc_title: 42
 usc_section: "11841"
 chapter: 123
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 11841"
-generated_at: "2026-03-30T04:58:57.306Z"
+generated_at: "2026-03-30T05:01:45.713Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(C)** training or employment opportunities; or
     - **(D)** other alternatives to gang involvement;
   - **(8)** programs for unsupervised children before and after school, including—
-    - **(A)** education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7101 et seq.];
+    - **(A)** education and instruction consistent with part A of title IV of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7101 et seq.];
     - **(B)** athletic activities;
     - **(C)** creative activities; and
     - **(D)** other programs designed to reduce the risk of drug abuse; and

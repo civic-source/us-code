@@ -3,15 +3,15 @@ title: "Section 24709 - International transportation"
 usc_title: 49
 usc_section: "24709"
 chapter: 247
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 24709"
-generated_at: "2026-03-30T04:59:03.182Z"
+generated_at: "2026-03-30T05:01:52.691Z"
 status: "active"
 ---
 
 # § 24709. International transportation
 
-Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of the Treasury and the Attorney General, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
+Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of Homeland Security, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
 
   - **(1)** be convenient for passengers; and
   - **(2)** result in the quickest possible international intercity rail passenger transportation.

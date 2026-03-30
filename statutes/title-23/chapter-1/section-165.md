@@ -3,17 +3,17 @@ title: "Section 165 - Territorial and Puerto Rico highway program"
 usc_title: 23
 usc_section: "165"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 165"
-generated_at: "2026-03-30T04:57:24.961Z"
+generated_at: "2026-03-30T05:00:18.952Z"
 status: "active"
 ---
 
 # § 165. Territorial and Puerto Rico highway program
 
 - **(a)** Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
-  - **(1)** $150,000,000 shall be for the Puerto Rico highway program under subsection (b); and
-  - **(2)** $40,000,000 shall be for the territorial highway program under subsection (c).
+  - **(1)** $158,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+  - **(2)** $42,000,000 shall be for the territorial highway program under subsection (c).
 - **(b)**
   - **(1)** The Secretary shall allocate funds made available to carry out this subsection to the Commonwealth of Puerto Rico to carry out a highway program in the Commonwealth.
   - **(2)** Amounts made available to carry out this subsection for a fiscal year shall be administered as follows:
@@ -21,7 +21,7 @@ status: "active"
       - **(i)** For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections 104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
         - **(I)** the aggregate of the amounts for the fiscal year; by
         - **(II)** the proportion that—
-      - **(ii)** Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
+      - **(ii)** Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation block grant program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
     - **(B)** The amounts treated as being apportioned to Puerto Rico under each section referred to in subparagraph (A) shall be deemed to be required to be apportioned to Puerto Rico under that section for purposes of the imposition of any penalty under this title or title 49.
     - **(C)** Of amounts allocated to Puerto Rico for the Puerto Rico Highway Program for a fiscal year—
       - **(i)** at least 50 percent shall be available only for purposes eligible under section 119;
@@ -67,7 +67,7 @@ status: "active"
       - **(ii)** amounts made available under this subsection under the existing agreement shall be available for obligation or expenditure so long as the agreement, or the existing agreement entered into under subparagraph (A), is in effect.
   - **(6)**
     - **(A)** Funds made available under this subsection may be used only for the following projects and activities carried out in a territory:
-      - **(i)** Eligible surface transportation program projects described in section 133(b).
+      - **(i)** Eligible surface transportation block grant program projects described in section 133(b).
       - **(ii)** Cost-effective, preventive maintenance consistent with section 116(e).
       - **(iii)** Ferry boats, terminal facilities, and approaches, in accordance with subsections (b) and (c) of section 129.
       - **(iv)** Engineering and economic surveys and investigations for the planning, and the financing, of future highway programs.
@@ -75,4 +75,4 @@ status: "active"
       - **(vi)** The regulation and equitable taxation of highway use.
       - **(vii)** Such research and development as are necessary in connection with the planning, design, and maintenance of the highway system.
     - **(B)** None of the funds made available under this subsection shall be obligated or expended for routine maintenance.
-  - **(7)** Territorial highway program projects (other than those described in paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)) may not be undertaken on roads functionally classified as local.
+  - **(7)** Territorial highway program projects (other than those described in paragraphs (1) through (4) of section 133(c) and section 133(b)(12)) may not be undertaken on roads functionally classified as local.

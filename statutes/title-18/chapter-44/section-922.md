@@ -3,9 +3,9 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-30T04:57:04.210Z"
+generated_at: "2026-03-30T04:59:41.109Z"
 status: "active"
 ---
 
@@ -277,7 +277,7 @@ status: "active"
     - **(A)**
       - **(i)** the manufacture for, transfer to, or possession by, the United States, a department or agency of the United States, a State, or a department, agency, or political subdivision of a State, of a handgun; or
       - **(ii)** the transfer to, or possession by, a law enforcement officer employed by an entity referred to in clause (i) of a handgun for law enforcement purposes (whether on or off duty); or
-    - **(B)** the transfer to, or possession by, a rail police officer employed by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
+    - **(B)** the transfer to, or possession by, a rail police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
     - **(C)** the transfer to any person of a handgun listed as a curio or relic by the Secretary pursuant to section 921(a)(13); or
     - **(D)** the transfer to any person of a handgun for which a secure gun storage or safety device is temporarily unavailable for the reasons described in the exceptions stated in section 923(e), if the licensed manufacturer, licensed importer, or licensed dealer delivers to the transferee within 10 calendar days from the date of the delivery of the handgun to the transferee a secure gun storage or safety device for the handgun.
   - **(3)**

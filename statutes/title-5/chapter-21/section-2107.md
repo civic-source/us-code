@@ -3,9 +3,9 @@ title: "Section 2107 - Congressional employee"
 usc_title: 5
 usc_section: "2107"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 2107"
-generated_at: "2026-03-30T04:56:17.698Z"
+generated_at: "2026-03-30T04:59:18.332Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ For the purpose of this title, “Congressional employee” means—
   - **(3)** the Legislative Counsel of either House and an employee of his office;
   - **(4)** a member or employee of the Capitol Police;
   - **(5)** an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
-  - **[(6)** Repealed. Pub. L. 90–83, § 1(5)(A) , Sept. 11, 1967 , 81 Stat. 196 .]
+  - **[(6)** Repealed. Pub. L. 90–83 , § 1(5)(A), Sept. 11, 1967 , 81 Stat. 196 .]
   - **(7)** the Architect of the Capitol and an employee of the Architect of the Capitol;
   - **(8)** an employee of the Botanic Garden; and
   - **(9)** an employee of the Office of Congressional Accessibility Services.

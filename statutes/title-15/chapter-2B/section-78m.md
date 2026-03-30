@@ -3,9 +3,9 @@ title: "Section 78m - Periodical and other reports"
 usc_title: 15
 usc_section: "78m"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 78m"
-generated_at: "2026-03-30T04:56:57.353Z"
+generated_at: "2026-03-30T04:59:35.449Z"
 status: "active"
 ---
 
@@ -166,18 +166,17 @@ status: "active"
       - **(ii)** provide the information described in subparagraph (A) in such form and at such frequency as the Commission may require to comply with the public reporting requirements set forth in subsection (m);
     - **(E)** at the direction of the Commission, establish automated systems for monitoring, screening, and analyzing security-based swap data;
     - **(F)** maintain the privacy of any and all security-based swap transaction information that the security-based swap data repository receives from a security-based swap dealer, counterparty, or any other registered entity; and
-    - **(G)** on a confidential basis pursuant to section 78x of this title , upon request, and after notifying the Commission of the request, make available all data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
+    - **(G)** on a confidential basis pursuant to section 78x of this title , upon request, and after notifying the Commission of the request, make available security-based swap data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
       - **(i)** each appropriate prudential regulator;
       - **(ii)** the Financial Stability Oversight Council;
       - **(iii)** the Commodity Futures Trading Commission;
       - **(iv)** the Department of Justice; and
       - **(v)** any other person that the Commission determines to be appropriate, including—
         - **(I)** foreign financial supervisors (including foreign futures authorities);
-        - **(II)** foreign central banks; and
-        - **(III)** foreign ministries.
-    - **(H)** Before the security-based swap data repository may share information with any entity described in subparagraph (G)—
-      - **(i)** the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 78x of this title relating to the information on security-based swap transactions that is provided; and
-      - **(ii)** each entity shall agree to indemnify the security-based swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 78x of this title .
+        - **(II)** foreign central banks;
+        - **(III)** foreign ministries; and
+        - **(IV)** other foreign authorities.
+    - **(H)** Before the security-based swap data repository may share information with any entity described in subparagraph (G), the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 78x of this title relating to the information on security-based swap transactions that is provided.
   - **(6)**
     - **(A)** Each security-based swap data repository shall designate an individual to serve as a chief compliance officer.
     - **(B)** The chief compliance officer shall—

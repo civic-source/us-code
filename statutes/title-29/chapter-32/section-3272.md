@@ -3,9 +3,9 @@ title: "Section 3272 - Definitions"
 usc_title: 29
 usc_section: "3272"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 3272"
-generated_at: "2026-03-30T04:57:30.755Z"
+generated_at: "2026-03-30T05:00:39.965Z"
 status: "active"
 ---
 
@@ -47,7 +47,12 @@ In this subchapter:
   - **(7)** The term “English language learner” when used with respect to an eligible individual, means an eligible individual who has limited ability in reading, writing, speaking, or comprehending the English language, and—
     - **(A)** whose native language is a language other than English; or
     - **(B)** who lives in a family or community environment where a language other than English is the dominant language.
-  - **(8)** The term “essential components of reading instruction” has the meaning given the term in section 6368 of title 20 .
+  - **(8)** The term “essential components of reading instruction” means explicit and systematic instruction in—
+    - **(A)** phonemic awareness;
+    - **(B)** phonics;
+    - **(C)** vocabulary development;
+    - **(D)** reading fluency, including oral reading skills; and
+    - **(E)** reading comprehension strategies.
   - **(9)** The term “family literacy activities” means activities that are of sufficient intensity and quality, to make sustainable improvements in the economic prospects for a family and that better enable parents or family members to support their children’s learning needs, and that integrate all of the following activities:
     - **(A)** Parent or family adult education and literacy activities that lead to readiness for postsecondary education or training, career advancement, and economic self-sufficiency.
     - **(B)** Interactive literacy activities between parents or family members and their children.

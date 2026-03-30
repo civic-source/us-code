@@ -3,9 +3,9 @@ title: "Section 8923 - Sanctions relating to the defense and energy sectors of t
 usc_title: 22
 usc_section: "8923"
 chapter: 96
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 8923"
-generated_at: "2026-03-30T04:57:26.776Z"
+generated_at: "2026-03-30T05:00:34.948Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(1)** The President may direct the Export-Import Bank of the United States not to approve the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the foreign person.
   - **(2)** The President may prohibit the head of any executive agency (as defined in section 133 of title 41 ) from entering into any contract for the procurement of any goods or services from the foreign person.
   - **(3)** The President may prohibit the exportation or provision by sale, lease or loan, grant, or other means, directly or indirectly, of any defense article or defense service to the foreign person and the issuance of any license or other approval to the foreign person under section 2778 of this title .
-  - **(4)** The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) (as in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
+  - **(4)** The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now 50 U.S.C. 4601 et seq.] (as in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
   - **(5)** The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
     - **(A)** acquiring, holding, withholding, using, transferring, withdrawing, transporting, or exporting any property that is subject to the jurisdiction of the United States and with respect to which the foreign person has any interest;
     - **(B)** dealing in or exercising any right, power, or privilege with respect to such property; or
@@ -52,7 +52,7 @@ status: "active"
 - **(d)**
   - **(1)**
     - **(A)** The authority to block and prohibit all transactions in all property and interests in property under subsection (c)(5) shall not include the authority to impose sanctions on the importation of goods.
-    - **(B)** In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
+    - **(B)** In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) [now 50 U.S.C. 4618 ] (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(2)** The President shall not be required to apply or maintain the sanctions under subsection (a) or (b)—
     - **(A)** in the case of procurement of defense articles or defense services under existing contracts, subcontracts, or other business agreements, including ancillary or incidental contracts for goods, or for services or funding (including necessary financial services) associated with such goods, as necessary to give effect to such contracts, subcontracts, or other business agreements, and the exercise of options for production quantities to satisfy requirements essential to the national security of the United States—
       - **(i)** if the President determines in writing that—

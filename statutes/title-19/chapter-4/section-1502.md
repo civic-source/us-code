@@ -3,9 +3,9 @@ title: "Section 1502 - Regulations for appraisement and classification"
 usc_title: 19
 usc_section: "1502"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1502"
-generated_at: "2026-03-30T04:57:10.173Z"
+generated_at: "2026-03-30T04:59:42.867Z"
 status: "active"
 ---
 

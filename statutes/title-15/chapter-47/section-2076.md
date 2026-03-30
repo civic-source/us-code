@@ -3,9 +3,9 @@ title: "Section 2076 - Additional functions of Consumer Product Safety Commissio
 usc_title: 15
 usc_section: "2076"
 chapter: 47
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2076"
-generated_at: "2026-03-30T04:56:57.463Z"
+generated_at: "2026-03-30T04:59:35.560Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(8)** to lease buildings or parts of buildings in the District of Columbia, without regard to section 8141 of title 40 , for the use of the Commission;
   - **(9)** to delegate to the general counsel of the Commission the authority to issue subpoenas solely to Federal, State, or local government agencies for evidence described in paragraph (3); and
   - **(10)** to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3) (except as provided in paragraph (9)), to any officer or employee of the Commission.
-- **(c)** Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+- **(c)** Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7)) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 - **(d)** No person shall be subject to civil liability to any person (other than the Commission or the United States) for disclosing information at the request of the Commission.
 - **(e)** The Commission may by rule require any manufacturer of consumer products to provide to the Commission such performance and technical data related to performance and safety as may be required to carry out the purposes of this chapter, and to give such notification of such performance and technical data at the time of original purchase to prospective purchasers and to the first purchaser of such product for purposes other than resale, as it determines necessary to carry out the purposes of this chapter.
 - **(f)** For purposes of carrying out this chapter, the Commission may purchase any consumer product and it may require any manufacturer, distributor, or retailer of a consumer product to sell the product to the Commission at manufacturer’s, distributor’s, or retailer’s cost.

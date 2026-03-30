@@ -1,15 +1,13 @@
 ---
-title: "Section 7231g - Prohibition"
+title: "Section 7231g - Repealed. Pub. L. 114–95, title IV , § 4001(b)(3)(D)(ii), Dec. 10, 2015 , 129 Stat. 1967"
 usc_title: 20
 usc_section: "7231g"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7231g"
-generated_at: "2026-03-30T04:57:15.834Z"
-status: "active"
+generated_at: "2026-03-30T04:59:56.216Z"
+status: "repealed"
 ---
 
-# § 7231g. Prohibition
-
-Grants under this part may not be used for transportation or any activity that does not augment academic improvement.
+# § 7231g. Repealed. Pub. L. 114–95, title IV , § 4001(b)(3)(D)(ii), Dec. 10, 2015 , 129 Stat. 1967
 

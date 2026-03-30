@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-30T04:58:24.367Z"
+generated_at: "2026-03-30T05:00:47.781Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(ii)** by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) and compounded annually, and
       - **(iii)** by assuming that the credit allowable under this section for any year is received on the last day of such year.
   - **(2)** In the case of any new building—
-    - **(A)** which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2015 , and
+    - **(A)** which is placed in service by the taxpayer after the date of the enactment of this paragraph, and
     - **(B)** which is not federally subsidized for the taxable year,
   - **(3)**
     - **(A)** For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).

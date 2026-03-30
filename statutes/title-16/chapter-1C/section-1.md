@@ -3,9 +3,9 @@ title: "Section 1 - Management"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:57:06.546Z"
+generated_at: "2026-03-30T04:59:58.452Z"
 status: "active"
 ---
 

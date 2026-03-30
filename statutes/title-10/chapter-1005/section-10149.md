@@ -3,9 +3,9 @@ title: "Section 10149 - Ready Reserve: continuous screening"
 usc_title: 10
 usc_section: "10149"
 chapter: 1005
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 10149"
-generated_at: "2026-03-30T04:56:26.750Z"
+generated_at: "2026-03-30T04:59:28.786Z"
 status: "active"
 ---
 
@@ -17,7 +17,13 @@ status: "active"
   - **(3)** That except for those with military skills for which there is an overriding requirement, members having critical civilian skills are not retained in numbers beyond the need for those skills.
   - **(4)** That with due regard to national security and military requirements, recognition will be given to participation in combat.
   - **(5)** That members whose mobilization in an emergency would result in an extreme personal or community hardship are not retained in the Ready Reserve.
-- **(b)** Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
+- **(b)**
+  - **(1)** In applying Ready Reserve continuous screening under this section, an individual who is both a member of the Ready Reserve and a Member of Congress may not be transferred to the Standby Reserve or discharged on account of the individual’s position as a Member of Congress.
+  - **(2)** The transfer or discharge of an individual who is both a member of the Ready Reserve and a Member of Congress may be ordered—
+    - **(A)** only by the Secretary of Defense or, in the case of a Member of Congress who also is a member of the Coast Guard Reserve, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy; and
+    - **(B)** only on the basis of the needs of the service, taking into consideration the position and duties of the individual in the Ready Reserve.
+  - **(3)** In this subsection, the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress and a Member-elect.
+- **(c)** Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
   - **(1)** transferred to the Standby Reserve;
   - **(2)** discharged; or
   - **(3)** if the member is eligible and applies therefor, transferred to the Retired Reserve.

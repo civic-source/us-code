@@ -3,9 +3,9 @@ title: "Section 4191 - Medical devices"
 usc_title: 26
 usc_section: "4191"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 4191"
-generated_at: "2026-03-30T04:58:24.531Z"
+generated_at: "2026-03-30T05:00:47.950Z"
 status: "active"
 ---
 
@@ -19,3 +19,4 @@ status: "active"
     - **(B)** contact lenses,
     - **(C)** hearing aids, and
     - **(D)** any other medical device determined by the Secretary to be of a type which is generally purchased by the general public at retail for individual use.
+- **(c)** The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016 , and ending on December 31, 2017 .

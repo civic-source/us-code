@@ -3,9 +3,9 @@ title: "Section 4104 - Annual authorized return and preservation rents"
 usc_title: 12
 usc_section: "4104"
 chapter: 42
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 4104"
-generated_at: "2026-03-30T04:56:55.512Z"
+generated_at: "2026-03-30T04:59:33.633Z"
 status: "active"
 ---
 
@@ -25,3 +25,11 @@ status: "active"
     - **(C)** Debt service on the federally-assisted mortgage for the housing.
     - **(D)** Project operating expenses.
     - **(E)** Adequate reserves.
+- **(c)** Neither this section, nor any plan of action or use agreement implementing this section, shall restrict an owner from obtaining a new loan or refinancing an existing loan secured by the project, or from distributing the proceeds of such a loan; except that, in conjunction with such refinancing—
+  - **(1)** the owner shall provide for adequate rehabilitation pursuant to a capital needs assessment to ensure long-term sustainability of the property satisfactory to the lender or bond issuance agency;
+  - **(2)** any resulting budget-based rent increase shall include debt service on the new financing, commercially reasonable debt service coverage, and replacement reserves as required by the lender; and
+  - **(3)** for tenants of dwelling units not covered by a project- or tenant-based rental subsidy, any rent increases resulting from the refinancing transaction may not exceed 10 percent per year, except that—
+    - **(A)** any tenant occupying a dwelling unit as of time of the refinancing may not be required to pay for rent and utilities, for the duration of such tenancy, an amount that exceeds the greater of—
+      - **(i)** 30 percent of the tenant’s income; or
+      - **(ii)** the amount paid by the tenant for rent and utilities immediately before such refinancing; and
+    - **(B)** this paragraph shall not apply to any tenant who does not provide the owner with proof of income.

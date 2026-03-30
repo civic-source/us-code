@@ -1,13 +1,26 @@
 ---
-title: "Section 307 - Repealed. Pub. L. 112–141, div. C, title II, § 32932(a)(1) , July 6, 2012 , 126 Stat. 829 ]"
+title: "Section 307 - Improving State and Federal agency engagement in environmental reviews"
 usc_title: 49
 usc_section: "307"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 307"
-generated_at: "2026-03-30T04:59:03.148Z"
-status: "repealed"
+generated_at: "2026-03-30T05:01:52.653Z"
+status: "active"
 ---
 
-# [§ 307. Repealed. Pub. L. 112–141, div. C, title II, § 32932(a)(1) , July 6, 2012 , 126 Stat. 829 ]
+# § 307. Improving State and Federal agency engagement in environmental reviews
 
+- **(a)**
+  - **(1)** A public entity receiving financial assistance from the Department of Transportation for 1 or more projects, or for a program of projects, for a public purpose may request that the Secretary allow the public entity to provide funds to Federal agencies, including the Department, State agencies, and Indian tribes participating in the environmental planning and review process for the project, projects, or program.
+  - **(2)** The funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving permitting and review processes, including planning, approval, and consultation processes for the project, projects, or program.
+- **(b)** Activities for which funds may be provided under subsection (a) include transportation planning activities that precede the initiation of the environmental review process, activities directly related to the environmental review process, dedicated staffing, training of agency personnel, information gathering and mapping, and development of programmatic agreements.
+- **(c)** A request under subsection (a) may be approved only for the additional amounts that the Secretary determines are necessary for the Federal agencies, State agencies, or Indian tribes participating in the environmental review process to timely conduct the review.
+- **(d)** Prior to providing funds approved by the Secretary for dedicated staffing at an affected Federal agency under subsection (a), the affected Federal agency and the requesting public entity shall enter into an agreement that establishes a process to identify projects or priorities to be addressed by the use of the funds.
+- **(e)**
+  - **(1)** Not later than 180 days after the date of enactment of this section, the Secretary shall issue guidance to implement this section.
+  - **(2)** As part of the guidance issued under paragraph (1), the Secretary shall ensure—
+    - **(A)** to the maximum extent practicable, that expediting and improving the process of environmental review and permitting through the use of funds accepted and expended under this section does not adversely affect the timeline for review and permitting by Federal agencies, State agencies, or Indian tribes of other entities that have not contributed funds under this section;
+    - **(B)** that the use of funds accepted under this section will not impact impartial decisionmaking with respect to environmental reviews or permits, either substantively or procedurally; and
+    - **(C)** that the Secretary maintains, and makes publicly available, including on the Internet, a list of projects or programs for which such review or permits have been carried out using funds authorized under this section.
+- **(f)** Nothing in this section may be construed to conflict with section 139(j) of title 23 .

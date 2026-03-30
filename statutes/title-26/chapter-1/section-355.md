@@ -3,9 +3,9 @@ title: "Section 355 - Distribution of stock and securities of a controlled corpo
 usc_title: 26
 usc_section: "355"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 355"
-generated_at: "2026-03-30T04:58:24.420Z"
+generated_at: "2026-03-30T05:00:47.830Z"
 status: "active"
 ---
 
@@ -174,3 +174,11 @@ status: "active"
       - **(ii)** the treatment of assets unrelated to the trade or business of a corporation as investment assets if, prior to the distribution, investment assets were used to acquire such unrelated assets,
     - **(B)** which in appropriate cases exclude from the application of this subsection a distribution which does not have the character of a redemption which would be treated as a sale or exchange under section 302, and
     - **(C)** which modify the application of the attribution rules applied for purposes of this subsection.
+- **(h)**
+  - **(1)** This section (and so much of section 356 as relates to this section) shall not apply to any distribution if either the distributing corporation or controlled corporation is a real estate investment trust.
+  - **(2)**
+    - **(A)** Paragraph (1) shall not apply to any distribution if, immediately after the distribution, the distributing corporation and the controlled corporation are both real estate investment trusts.
+    - **(B)** Paragraph (1) shall not apply to any distribution if—
+      - **(i)** the distributing corporation has been a real estate investment trust at all times during the 3-year period ending on the date of such distribution,
+      - **(ii)** the controlled corporation has been a taxable REIT subsidiary (as defined in section 856( l )) of the distributing corporation at all times during such period, and
+      - **(iii)** the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.

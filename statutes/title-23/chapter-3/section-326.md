@@ -3,9 +3,9 @@ title: "Section 326 - State assumption of responsibility for categorical exclusi
 usc_title: 23
 usc_section: "326"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 326"
-generated_at: "2026-03-30T04:57:24.965Z"
+generated_at: "2026-03-30T05:00:18.956Z"
 status: "active"
 ---
 
@@ -21,15 +21,25 @@ status: "active"
   - **(2)** A State that assumes responsibility under paragraph (1) with respect to a Federal law shall be solely responsible and solely liable for complying with and carrying out that law, and the Secretary shall have no such responsibility or liability.
 - **(c)**
   - **(1)** The Secretary and the State, after providing public notice and opportunity for comment, shall enter into a memorandum of understanding setting forth the responsibilities to be assigned under this section and the terms and conditions under which the assignments are made, including establishment of the circumstances under which the Secretary would reassume responsibility for categorical exclusion determinations.
-  - **(2)** A memorandum of understanding—
+  - **(2)** On request of a Governor of a State, the Secretary shall provide to the State technical assistance, training, or other support relating to—
+    - **(A)** assuming responsibility under subsection (a);
+    - **(B)** developing a memorandum of understanding under this subsection; or
+    - **(C)** addressing a responsibility in need of corrective action under subsection (d)(1)(B).
+  - **(3)** A memorandum of understanding—
     - **(A)** shall have a term of not more than 3 years; and
     - **(B)** shall be renewable.
-  - **(3)** In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
-  - **(4)** The Secretary shall—
+  - **(4)** In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
+  - **(5)** The Secretary shall—
     - **(A)** monitor compliance by the State with the memorandum of understanding and the provision by the State of financial resources to carry out the memorandum of understanding; and
     - **(B)** take into account the performance by the State when considering renewal of the memorandum of understanding.
 - **(d)**
-  - **(1)** The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
+  - **(1)** The Secretary may terminate the participation of any State in the program if—
+    - **(A)** the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+    - **(B)** the Secretary provides to the State—
+      - **(i)** a notification of the determination of noncompliance;
+      - **(ii)** a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+      - **(iii)** on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
+    - **(C)** the State, after the notification and period described in clauses (i) and (ii) of subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
   - **(2)** The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 - **(e)** A State agency that is assigned a responsibility under a memorandum of understanding shall be deemed to be a Federal agency for the purposes of the Federal law under which the responsibility is exercised.
 - **(f)** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney’s fees directly attributable to eligible activities associated with the project.

@@ -3,9 +3,9 @@ title: "Section 7705 - Application for payments under sections 7702 and 7703 of 
 usc_title: 20
 usc_section: "7705"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7705"
-generated_at: "2026-03-30T04:57:15.845Z"
+generated_at: "2026-03-30T04:59:56.223Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** A local educational agency desiring to receive a payment under section 7702 or 7703 of this title shall—
   - **(1)** submit an application for such payment to the Secretary; and
   - **(2)** provide a copy of such application to the State educational agency.
-- **(b)** Each such application shall be submitted in such form and manner, and shall contain such information, as the Secretary may require, including—
+- **(b)** Each such application shall be submitted in such form and manner as the Secretary may require, including—
   - **(1)** information to determine the eligibility of the local educational agency for a payment and the amount of such payment; and
   - **(2)** where applicable, an assurance that such agency is in compliance with section 7704 of this title (relating to children residing on Indian lands).
 - **(c)** The Secretary shall establish deadlines for the submission of applications under this section.

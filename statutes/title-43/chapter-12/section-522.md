@@ -3,9 +3,9 @@ title: "Section 522 - Lease of water power"
 usc_title: 43
 usc_section: "522"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 522"
-generated_at: "2026-03-30T04:58:49.563Z"
+generated_at: "2026-03-30T05:01:30.809Z"
 status: "active"
 ---
 

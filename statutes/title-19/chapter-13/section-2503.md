@@ -3,27 +3,27 @@ title: "Section 2503 - Approval of trade agreements"
 usc_title: 19
 usc_section: "2503"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2503"
-generated_at: "2026-03-30T04:57:10.203Z"
+generated_at: "2026-03-30T04:59:42.900Z"
 status: "active"
 ---
 
 # § 2503. Approval of trade agreements
 
-- **(a)** In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) of this section submitted to the Congress on June 19, 1979 , and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
+- **(a)** In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) submitted to the Congress on June 19, 1979 , and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
 - **(b)**
-  - **(1)** The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
+  - **(1)** The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a). The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a). Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) if such changes are—
     - **(A)** only rectifications of a formal character or minor technical or clerical changes which do not affect the substance or meaning of the texts as submitted to the Congress on June 19, 1979 , or
     - **(B)** changes in annexes to such agreements, and the President determines that the balance of United States rights and obligations under such agreements is maintained.
   - **(2)** No agreement accepted by the President under paragraph (1) shall apply between the United States and any other country unless the President determines that such country—
     - **(A)** has accepted the obligations of the agreement with respect to the United States, and
     - **(B)** should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 2136(c) 1 1 See References in Text note below. of this title, to the United States.
-  - **(3)** The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) 1 of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+  - **(3)** The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) 1 of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
     - **(A)** that country is not a major factor in trade in the products covered by that agreement,
     - **(B)** the President has authority to deny the benefits of the agreement to that country and has taken steps to deny the benefits of the agreement to that country, or
     - **(C)** a significant portion of United States trade would benefit from the agreement, notwithstanding such nonacceptance, and the President determines and reports to the Congress that it is in the national interest of the United States to accept the agreement.
-- **(c)** The trade agreements to which subsection (a) of this section applies are the following:
+- **(c)** The trade agreements to which subsection (a) applies are the following:
   - **(1)** The Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade (relating to customs valuation).
   - **(2)** The Agreement on Government Procurement.
   - **(3)** The Agreement on Import Licensing Procedures.

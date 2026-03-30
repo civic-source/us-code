@@ -3,9 +3,9 @@ title: "Section 2070 - Criminal penalties"
 usc_title: 15
 usc_section: "2070"
 chapter: 47
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2070"
-generated_at: "2026-03-30T04:56:57.463Z"
+generated_at: "2026-03-30T04:59:35.559Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** imprisonment for not more than 5 years for a knowing and willful violation of that section;
   - **(2)** a fine determined under section 3571 of title 18 ; or
   - **(3)** both.
-- **(b)** Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of section 2068 of this title shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a) of this section.
+- **(b)** Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of section 2068 of this title shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a).
 - **(c)**
   - **(1)** In addition to the penalties provided by subsection (a), the penalty for a criminal violation of this chapter or any other Act enforced by the Commission may include the forfeiture of assets associated with the violation.
   - **(2)** In this subsection, the term “criminal violation” means a violation of this chapter or any other Act enforced by the Commission for which the violator is sentenced to pay a fine, be imprisoned, or both.

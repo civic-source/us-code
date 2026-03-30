@@ -3,9 +3,9 @@ title: "Section 6331 - Levy and distraint"
 usc_title: 26
 usc_section: "6331"
 chapter: 64
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6331"
-generated_at: "2026-03-30T04:58:24.572Z"
+generated_at: "2026-03-30T05:00:47.995Z"
 status: "active"
 ---
 
@@ -26,8 +26,9 @@ status: "active"
     - **(B)** the procedures applicable to the levy and sale of property under this title,
     - **(C)** the administrative appeals available to the taxpayer with respect to such levy and sale and the procedures relating to such appeals,
     - **(D)** the alternatives available to taxpayers which could prevent levy on the property (including installment agreements under section 6159),
-    - **(E)** the provisions of this title relating to redemption of property and release of liens on property, and
-    - **(F)** the procedures applicable to the redemption of property and the release of a lien on property under this title.
+    - **(E)** the provisions of this title relating to redemption of property and release of liens on property,
+    - **(F)** the procedures applicable to the redemption of property and the release of a lien on property under this title, and
+    - **(G)** the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
 - **(e)** The effect of a levy on salary or wages payable to or received by a taxpayer shall be continuous from the date such levy is first made until such levy is released under section 6343.
 - **(f)** No levy may be made on any property if the amount of the expenses which the Secretary estimates (at the time of levy) would be incurred by the Secretary with respect to the levy and sale of such property exceeds the fair market value of such property at the time of levy.
 - **(g)**

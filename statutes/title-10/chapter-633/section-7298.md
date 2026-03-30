@@ -1,13 +1,13 @@
 ---
-title: "Section 7298 - Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a)(6) , Nov. 30, 1993 , 107 Stat. 1707 ]"
+title: "Section 7298 - Repealed. Pub. L. 103–160, div. A, title VIII , § 824(a)(6), Nov. 30, 1993 , 107 Stat. 1707 ]"
 usc_title: 10
 usc_section: "7298"
 chapter: 633
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 7298"
-generated_at: "2026-03-30T04:56:26.739Z"
+generated_at: "2026-03-30T04:59:28.775Z"
 status: "repealed"
 ---
 
-# [§ 7298. Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a)(6) , Nov. 30, 1993 , 107 Stat. 1707 ]
+# [§ 7298. Repealed. Pub. L. 103–160, div. A, title VIII , § 824(a)(6), Nov. 30, 1993 , 107 Stat. 1707 ]
 

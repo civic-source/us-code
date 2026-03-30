@@ -3,9 +3,9 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-30T04:57:10.184Z"
+generated_at: "2026-03-30T04:59:42.879Z"
 status: "active"
 ---
 
@@ -135,15 +135,14 @@ For purposes of this subtitle—
         - **(I)** there has been significant price underselling by the imported merchandise as compared with the price of domestic like products of the United States, and
         - **(II)** the effect of imports of such merchandise otherwise depresses prices to a significant degree or prevents price increases, which otherwise would have occurred, to a significant degree.
       - **(iii)** In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
-        - **(I)** actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
+        - **(I)** actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
         - **(II)** factors affecting domestic prices,
         - **(III)** actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
         - **(IV)** actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
         - **(V)** in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
       - **(iv)** If domestic producers internally transfer significant production of the domestic like product for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
-        - **(I)** the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product,
-        - **(II)** the domestic like product is the predominant material input in the production of that downstream article, and
-        - **(III)** the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,
+        - **(I)** the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product, and
+        - **(II)** the domestic like product is the predominant material input in the production of that downstream article,
     - **(D)**
       - **(i)** The Commission shall not determine that there is no material injury or threat of material injury to United States producers of an agricultural commodity merely because the prevailing market price is at or above the minimum support price.
       - **(ii)** In the case of agricultural products, the Commission shall consider any increased burden on government income or price support programs.
@@ -183,6 +182,7 @@ For purposes of this subtitle—
       - **(ii)** investigations were initiated under section 1671a(a) or 1673a(a) of this title on the same day, or
       - **(iii)** petitions were filed under section 1671a(b) or 1673a(b) of this title and investigations were initiated under section 1671a(a) or 1673a(a) of this title on the same day,
     - **(I)** The Commission shall consider whether any change in the volume, price effects, or impact of imports of the subject merchandise since the filing of the petition in an investigation under part I or II of this subtitle is related to the pendency of the investigation and, if so, the Commission may reduce the weight accorded to the data for the period after the filing of the petition in making its determination of material injury, threat of material injury, or material retardation of the establishment of an industry in the United States.
+    - **(J)** The Commission may not determine that there is no material injury or threat of material injury to an industry in the United States merely because that industry is profitable or because the performance of that industry has recently improved.
   - **(8)**
     - **(A)** The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of this title .
     - **(B)** The term “Agreement on Agriculture” means the Agreement on Agriculture referred to in section 3511(d)(2) of this title .
@@ -210,6 +210,7 @@ For purposes of this subtitle—
   - **(15)** The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of the subject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
     - **(A)** Sales disregarded under section 1677b(b)(1) of this title .
     - **(B)** Transactions disregarded under section 1677b(f)(2) of this title .
+    - **(C)** Situations in which the administering authority determines that the particular market situation prevents a proper comparison with the export price or constructed export price.
   - **(16)** The term “foreign like product” means merchandise in the first of the following categories in respect of which a determination for the purposes of part II of this subtitle can be satisfactorily made:
     - **(A)** The subject merchandise and other merchandise which is identical in physical characteristics with, and was produced in the same country by the same person as, that merchandise.
     - **(B)** Merchandise—

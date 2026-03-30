@@ -3,9 +3,9 @@ title: "Section 411b - Employment of engineers, geologists, appraisers and econo
 usc_title: 43
 usc_section: "411b"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 411b"
-generated_at: "2026-03-30T04:58:49.559Z"
+generated_at: "2026-03-30T05:01:30.803Z"
 status: "active"
 ---
 

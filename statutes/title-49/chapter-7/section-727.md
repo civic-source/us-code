@@ -1,15 +1,13 @@
 ---
-title: "Section 727 - Definitions"
+title: "Section 727 - Repealed. Pub. L. 114–110 , § 3(a)(4), Dec. 18, 2015 , 129 Stat. 2228 ]"
 usc_title: 49
 usc_section: "727"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 727"
-generated_at: "2026-03-30T04:59:03.150Z"
-status: "active"
+generated_at: "2026-03-30T05:01:52.655Z"
+status: "repealed"
 ---
 
-# § 727. Definitions
-
-All terms used in this chapter that are defined in subtitle IV shall have the meaning given those terms in that subtitle.
+# [§ 727. Repealed. Pub. L. 114–110 , § 3(a)(4), Dec. 18, 2015 , 129 Stat. 2228 ]
 

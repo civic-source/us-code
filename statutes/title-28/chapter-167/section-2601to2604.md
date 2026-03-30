@@ -3,9 +3,9 @@ title: "Section 2601to2604 - Repealed. Pub. L. 97–164, title I, § 140 , Apr. 
 usc_title: 28
 usc_section: "2601to2604"
 chapter: 167
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "28 U.S.C. § 2601to2604"
-generated_at: "2026-03-30T04:57:42.356Z"
+generated_at: "2026-03-30T05:00:52.006Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77 - Discrimination against neutral Americans in time of war"
 usc_title: 15
 usc_section: "77"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 77"
-generated_at: "2026-03-30T04:56:57.339Z"
+generated_at: "2026-03-30T04:59:35.434Z"
 status: "active"
 ---
 

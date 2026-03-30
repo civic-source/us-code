@@ -1,13 +1,13 @@
 ---
-title: "Section 6153 - Repealed. Pub. L. 98–369, div. A, title IV, § 412(a)(3) , July 18, 1984 , 98 Stat. 792 ]"
+title: "Section 6153 - Repealed. Pub. L. 98–369, div. A, title IV , § 412(a)(3), July 18, 1984 , 98 Stat. 792 ]"
 usc_title: 26
 usc_section: "6153"
 chapter: 62
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6153"
-generated_at: "2026-03-30T04:58:24.566Z"
+generated_at: "2026-03-30T05:00:47.989Z"
 status: "repealed"
 ---
 
-# [§ 6153. Repealed. Pub. L. 98–369, div. A, title IV, § 412(a)(3) , July 18, 1984 , 98 Stat. 792 ]
+# [§ 6153. Repealed. Pub. L. 98–369, div. A, title IV , § 412(a)(3), July 18, 1984 , 98 Stat. 792 ]
 

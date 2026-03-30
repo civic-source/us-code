@@ -3,9 +3,9 @@ title: "Section 2111 - Presidential duties and powers"
 usc_title: 36
 usc_section: "2111"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "36 U.S.C. § 2111"
-generated_at: "2026-03-30T04:58:38.103Z"
+generated_at: "2026-03-30T05:01:10.197Z"
 status: "active"
 ---
 

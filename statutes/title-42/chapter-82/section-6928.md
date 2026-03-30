@@ -3,9 +3,9 @@ title: "Section 6928 - Federal enforcement"
 usc_title: 42
 usc_section: "6928"
 chapter: 82
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 6928"
-generated_at: "2026-03-30T04:58:57.191Z"
+generated_at: "2026-03-30T05:01:45.299Z"
 status: "active"
 ---
 

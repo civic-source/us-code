@@ -3,9 +3,9 @@ title: "Section 13903 - Registration of freight forwarders"
 usc_title: 49
 usc_section: "13903"
 chapter: 139
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 13903"
-generated_at: "2026-03-30T04:59:03.169Z"
+generated_at: "2026-03-30T05:01:52.677Z"
 status: "active"
 ---
 
@@ -18,6 +18,5 @@ status: "active"
 - **(c)** Each freight forwarder shall employ, as an officer, an individual who—
   - **(1)** has at least 3 years of relevant experience; or
   - **(2)** provides the Secretary with satisfactory evidence of the individual’s knowledge of related rules, regulations, and industry practices.
-- **(d)**
-  - **(1)** A freight forwarder may not provide transportation as a motor carrier unless the freight forwarder has registered separately under this chapter to provide transportation as a motor carrier.
+- **(d)** A freight forwarder may not provide transportation as a motor carrier unless the freight forwarder has registered separately under this chapter to provide transportation as a motor carrier.
 - **(e)** The Secretary shall require a freight forwarder to update its registration under this section not later than 30 days after a change in the freight forwarder’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.

@@ -3,15 +3,15 @@ title: "Section 1664 - Advertising of credit other than open end plans"
 usc_title: 15
 usc_section: "1664"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1664"
-generated_at: "2026-03-30T04:56:57.444Z"
+generated_at: "2026-03-30T04:59:35.541Z"
 status: "active"
 ---
 
 # § 1664. Advertising of credit other than open end plans
 
-- **(a)** Except as provided in subsection (b) of this section, this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this subchapter, other than an open end credit plan.
+- **(a)** Except as provided in subsection (b), this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this subchapter, other than an open end credit plan.
 - **(b)** The provisions of this section do not apply to advertisements of residential real estate except to the extent that the Bureau may by regulation require.
 - **(c)** If any advertisement to which this section applies states the rate of a finance charge, the advertisement shall state the rate of that charge expressed as an annual percentage rate.
 - **(d)** If any advertisement to which this section applies states the amount of the downpayment, if any, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:

@@ -3,22 +3,22 @@ title: "Section 5001 - Penalties for entering into commerce of imitation firearm
 usc_title: 15
 usc_section: "5001"
 chapter: 76
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 5001"
-generated_at: "2026-03-30T04:56:57.495Z"
+generated_at: "2026-03-30T04:59:35.591Z"
 status: "active"
 ---
 
 # § 5001. Penalties for entering into commerce of imitation firearms
 
-- **(a)** It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b) of this section.
+- **(a)** It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b).
 - **(b)**
   - **(1)** Except as provided in paragraph (2) or (3), each toy, look-alike, or imitation firearm shall have as an integral part, permanently affixed, a blaze orange plug inserted in the barrel of such toy, look-alike, or imitation firearm. Such plug shall be recessed no more than 6 millimeters from the muzzle end of the barrel of such firearm.
   - **(2)** The Secretary of Commerce may provide for an alternate marking or device for any toy, look-alike, or imitation firearm not capable of being marked as provided in paragraph (1) and may waive the requirement of any such marking or device for any toy, look-alike, or imitation firearm that will only be used in the theatrical, movie or television industry.
   - **(3)** The Secretary is authorized to make adjustments and changes in the marking system provided for by this section, after consulting with interested persons.
 - **(c)** For purposes of this section, the term “look-alike firearm” means any imitation of any original firearm which was manufactured, designed, and produced since 1898, including and limited to toy guns, water guns, replica nonguns, and air-soft guns firing nonmetallic projectiles. Such term does not include any look-alike, nonfiring, collector replica of an antique firearm developed prior to 1898, or traditional B–B, paint-ball, or pellet-firing air guns that expel a projectile through the force of air pressure.
 - **(d)** The Director of the Bureau of Justice Statistics is authorized and directed to conduct a study of the criminal misuse of toy, look-alike and imitation firearms, including studying police reports of such incidences and shall report on such incidences relative to marked and unmarked firearms.
-- **(c)** The Director of 2 2 So in original. Probably should be “of the”. National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) of this section to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988 , and such study shall be completed within 9 months after November 5, 1988 .
+- **(c)** The Director of 2 2 So in original. Probably should be “of the”. National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988 , and such study shall be completed within 9 months after November 5, 1988 .
 - **(f)** This section shall become effective on the date 6 months after November 5, 1988 , and shall apply to toy, look-alike, and imitation firearms manufactured or entered into commerce after November 5, 1988 .
 - **(g)** The provisions of this section shall supersede any provision of State or local laws or ordinances which provide for markings or identification inconsistent with provisions of this section provided that no State shall—
       - **(i)** prohibit the sale or manufacture of any look-alike, nonfiring, collector replica of an antique firearm developed prior to 1898, or

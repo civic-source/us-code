@@ -3,9 +3,9 @@ title: "Section 108 - Advance acquisition of real property"
 usc_title: 23
 usc_section: "108"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 108"
-generated_at: "2026-03-30T04:57:24.953Z"
+generated_at: "2026-03-30T05:00:18.942Z"
 status: "active"
 ---
 
@@ -18,9 +18,9 @@ status: "active"
 - **(c)**
   - **(1)** A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) without affecting subsequent approvals required for the project by the State or any Federal agency.
   - **(2)** Subject to paragraph (3), funds apportioned to a State under this title may be used to participate in the payment of—
-    - **(A)** costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation program funds; and
+    - **(A)** costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation block grant program funds; and
     - **(B)** costs incurred by the State for the acquisition of land necessary to preserve environmental and scenic values.
-  - **(3)** The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation program funds, if the State demonstrates to the Secretary and the Secretary finds that—
+  - **(3)** The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation block grant program funds, if the State demonstrates to the Secretary and the Secretary finds that—
     - **(A)** any land acquired, and relocation assistance provided, complied with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970;
     - **(B)** the requirements of title VI of the Civil Rights Act of 1964 have been complied with;
     - **(C)** the State has a mandatory comprehensive and coordinated land use, environment, and transportation planning process under State law and the acquisition is certified by the Governor as consistent with the State plans before the acquisition;

@@ -3,15 +3,15 @@ title: "Section 3811 - Report on impact of trade promotion authority"
 usc_title: 19
 usc_section: "3811"
 chapter: 24
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3811"
-generated_at: "2026-03-30T04:57:10.222Z"
+generated_at: "2026-03-30T04:59:42.920Z"
 status: "active"
 ---
 
 # § 3811. Report on impact of trade promotion authority
 
-- **(a)** Not later than 1 year after August 6, 2002 , the International Trade Commission shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding the economic impact on the United States of the trade agreements described in subsection (b) of this section.
+- **(a)** Not later than 1 year after August 6, 2002 , the International Trade Commission shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding the economic impact on the United States of the trade agreements described in subsection (b).
 - **(b)** The trade agreements described in this subsection are the following:
   - **(1)** The United States-Israel Free Trade Agreement.
   - **(2)** The United States-Canada Free Trade Agreement.

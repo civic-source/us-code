@@ -1,13 +1,13 @@
 ---
-title: "Section 1635 - Repealed. Pub. L. 100–713, title III, § 303(b) , Nov. 23, 1988 , 102 Stat. 4817"
+title: "Section 1635 - Repealed. Pub. L. 100–713, title III , § 303(b), Nov. 23, 1988 , 102 Stat. 4817"
 usc_title: 25
 usc_section: "1635"
 chapter: 18
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 1635"
-generated_at: "2026-03-30T04:57:20.152Z"
+generated_at: "2026-03-30T05:00:03.049Z"
 status: "repealed"
 ---
 
-# § 1635. Repealed. Pub. L. 100–713, title III, § 303(b) , Nov. 23, 1988 , 102 Stat. 4817
+# § 1635. Repealed. Pub. L. 100–713, title III , § 303(b), Nov. 23, 1988 , 102 Stat. 4817
 

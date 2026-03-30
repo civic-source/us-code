@@ -3,9 +3,9 @@ title: "Section 623 - Prohibition of age discrimination"
 usc_title: 29
 usc_section: "623"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 623"
-generated_at: "2026-03-30T04:57:30.697Z"
+generated_at: "2026-03-30T05:00:39.899Z"
 status: "active"
 ---
 
@@ -106,7 +106,7 @@ status: "active"
         - **(II)** social security supplements for plan participants that commence before the age and terminate at the age (specified by the plan) when participants are eligible to receive reduced or unreduced old-age insurance benefits under title II of the Social Security Act ( 42 U.S.C. 401 et seq.), and that do not exceed such old-age insurance benefits.
     - **(B)** A voluntary early retirement incentive plan that—
       - **(i)** is maintained by—
-        - **(I)** a local educational agency (as defined in section 7801 of title 20 , 4 4 So in original. A closing parenthesis probably should follow “20”. or
+        - **(I)** a local educational agency (as defined in section 7801 of title 20 ), or
         - **(II)** an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) of title 26 and exempt from taxation under section 501(a) of title 26 , and
       - **(ii)** makes payments or supplements described in subclauses (I) and (II) of subparagraph (A)(ii) in coordination with a defined benefit plan (as so defined) maintained by an eligible employer described in section 457(e)(1)(A) of title 26 or by an education association described in clause (i)(II),
   - **(2)**

@@ -1,13 +1,13 @@
 ---
-title: "Section 9713 - Repealed. Pub. L. 101–510, div. A, title XV, § 1533(a)(10)(A) , Nov. 5, 1990 , 104 Stat. 1735 ]"
+title: "Section 9713 - Repealed. Pub. L. 101–510, div. A, title XV , § 1533(a)(10)(A), Nov. 5, 1990 , 104 Stat. 1735 ]"
 usc_title: 10
 usc_section: "9713"
 chapter: 945
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 9713"
-generated_at: "2026-03-30T04:56:26.749Z"
+generated_at: "2026-03-30T04:59:28.785Z"
 status: "repealed"
 ---
 
-# [§ 9713. Repealed. Pub. L. 101–510, div. A, title XV, § 1533(a)(10)(A) , Nov. 5, 1990 , 104 Stat. 1735 ]
+# [§ 9713. Repealed. Pub. L. 101–510, div. A, title XV , § 1533(a)(10)(A), Nov. 5, 1990 , 104 Stat. 1735 ]
 

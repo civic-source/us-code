@@ -3,9 +3,9 @@ title: "Section 30D - New qualified plug-in electric drive motor vehicles"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T04:58:24.361Z"
+generated_at: "2026-03-30T05:00:47.776Z"
 status: "active"
 ---
 
@@ -62,4 +62,6 @@ status: "active"
     - **(B)** meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting “2.5 kilowatt hours” for “4 kilowatt hours” in subparagraph (F)(i)),
     - **(C)** is manufactured primarily for use on public streets, roads, and highways,
     - **(D)** is capable of achieving a speed of 45 miles per hour or greater, and
-    - **(E)** is acquired after December 31, 2011 , and before January 1, 2014 .
+    - **(E)** is acquired—
+      - **(i)** after December 31, 2011 , and before January 1, 2014 , or
+      - **(ii)** in the case of a vehicle that has 2 wheels, after December 31, 2014 , and before January 1, 2017 .

@@ -3,9 +3,9 @@ title: "Section 1907 - Libraries of executive departments, service academies, an
 usc_title: 44
 usc_section: "1907"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "44 U.S.C. § 1907"
-generated_at: "2026-03-30T04:58:43.306Z"
+generated_at: "2026-03-30T05:01:19.068Z"
 status: "active"
 ---
 

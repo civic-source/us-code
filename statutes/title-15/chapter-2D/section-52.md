@@ -3,9 +3,9 @@ title: "Section 52 - Effective date"
 usc_title: 15
 usc_section: "52"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 52"
-generated_at: "2026-03-30T04:56:57.378Z"
+generated_at: "2026-03-30T04:59:35.472Z"
 status: "active"
 ---
 

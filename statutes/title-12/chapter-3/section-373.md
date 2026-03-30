@@ -3,9 +3,9 @@ title: "Section 373 - Acceptance of drafts or bills drawn by banks in foreign co
 usc_title: 12
 usc_section: "373"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 373"
-generated_at: "2026-03-30T04:56:55.346Z"
+generated_at: "2026-03-30T04:59:33.523Z"
 status: "active"
 ---
 

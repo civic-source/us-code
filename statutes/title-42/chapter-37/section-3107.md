@@ -3,9 +3,9 @@ title: "Section 3107 - Labor standards"
 usc_title: 42
 usc_section: "3107"
 chapter: 37
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 3107"
-generated_at: "2026-03-30T04:58:57.103Z"
+generated_at: "2026-03-30T05:01:45.205Z"
 status: "active"
 ---
 

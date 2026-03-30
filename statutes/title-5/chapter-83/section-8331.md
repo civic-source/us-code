@@ -3,9 +3,9 @@ title: "Section 8331 - Definitions"
 usc_title: 5
 usc_section: "8331"
 chapter: 83
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 8331"
-generated_at: "2026-03-30T04:56:17.727Z"
+generated_at: "2026-03-30T04:59:18.363Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ For the purpose of this subchapter—
     - **(I)** with respect to a border patrol agent, the amount of supplemental pay received through application of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay for scheduled overtime within the regular tour of duty of the border patrol agent as provided in section 5550;
   - **(4)** “average pay” means the largest annual rate resulting from averaging an employee’s or Member’s rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity under subsection (d) or (e)(1) of section 8341 of this title based on service of less than 3 years, over the total service, with each rate weighted by the time it was in effect;
   - **(5)** “Fund” means the Civil Service Retirement and Disability Fund;
-  - **[(6)** Repealed. Pub. L. 96–499, title IV, § 403(b) , Dec. 5, 1980 , 94 Stat. 2606 ;]
+  - **[(6)** Repealed. Pub. L. 96–499, title IV , § 403(b), Dec. 5, 1980 , 94 Stat. 2606 ;]
   - **(7)** “Government” means the Government of the United States, the government of the District of Columbia, Gallaudet University, and, in the case of an employee described in paragraph (1)(L), a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c);
   - **(8)** “lump-sum credit” means the unrefunded amount consisting of—
     - **(A)** retirement deductions made from the basic pay of an employee or Member;

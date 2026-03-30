@@ -1,19 +1,13 @@
 ---
-title: "Section 4332a - Accelerated decisionmaking in environmental reviews"
+title: "Section 4332a - Repealed. Pub. L. 114–94, div. A, title I , § 1304(j)(2), Dec. 4, 2015 , 129 Stat. 1386"
 usc_title: 42
 usc_section: "4332a"
 chapter: 55
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 4332a"
-generated_at: "2026-03-30T04:58:57.132Z"
-status: "active"
+generated_at: "2026-03-30T05:01:45.233Z"
+status: "repealed"
 ---
 
-# § 4332a. Accelerated decisionmaking in environmental reviews
+# § 4332a. Repealed. Pub. L. 114–94, div. A, title I , § 1304(j)(2), Dec. 4, 2015 , 129 Stat. 1386
 
-- **(a)** In preparing a final environmental impact statement under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), if the lead agency modifies the statement in response to comments that are minor and are confined to factual corrections or explanations of why the comments do not warrant additional agency response, the lead agency may write on errata sheets attached to the statement instead of rewriting the draft statement, subject to the condition that the errata sheets—
-  - **(1)** cite the sources, authorities, or reasons that support the position of the agency; and
-  - **(2)** if appropriate, indicate the circumstances that would trigger agency reappraisal or further response.
-- **(b)** To the maximum extent practicable, the lead agency shall expeditiously develop a single document that consists of a final environmental impact statement and a record of decision, unless—
-  - **(1)** the final environmental impact statement makes substantial changes to the proposed action that are relevant to environmental or safety concerns; or
-  - **(2)** there are significant new circumstances or information relevant to environmental concerns and that bear on the proposed action or the impacts of the proposed action.

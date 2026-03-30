@@ -3,24 +3,38 @@ title: "Section 6571 - Federal regulations"
 usc_title: 20
 usc_section: "6571"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 6571"
-generated_at: "2026-03-30T04:57:15.822Z"
+generated_at: "2026-03-30T04:59:56.209Z"
 status: "active"
 ---
 
 # § 6571. Federal regulations
 
-- **(a)** The Secretary may issue such regulations as are necessary to reasonably ensure that there is compliance with this subchapter.
+- **(a)** The Secretary may issue, in accordance with subsections (b) through (d) and subject to section 6311(e) of this title , such regulations as are necessary to reasonably ensure that there is compliance with this subchapter.
 - **(b)**
-  - **(1)** Before publishing in the Federal Register proposed regulations to carry out this subchapter, the Secretary shall obtain the advice and recommendations of representatives of Federal, State, and local administrators, parents, teachers, paraprofessionals, and members of local school boards and other organizations involved with the implementation and operation of programs under this subchapter.
-  - **(2)** Such advice and recommendations may be obtained through such mechanisms as regional meetings and electronic exchanges of information.
+  - **(1)** Before publishing in the Federal Register proposed regulations to carry out this subchapter, the Secretary shall obtain the advice and recommendations of representatives of Federal, State, and local administrators, parents, teachers, principals, other school leaders (including charter school leaders), paraprofessionals, and members of local school boards and other organizations involved with the implementation and operation of programs under this subchapter.
+  - **(2)** Such advice and recommendations may be obtained through such mechanisms as regional meetings and electronic exchanges of information. Such regional meetings and electronic exchanges of information shall be public and notice of such meetings and exchanges shall be provided to interested stakeholders.
   - **(3)** After obtaining such advice and recommendations, and before publishing proposed regulations, the Secretary shall—
-    - **(A)** establish a negotiated rulemaking process on, at a minimum, standards and assessments;
+    - **(A)** establish a negotiated rulemaking process on, at a minimum, standards, assessments under section 6311(b)(2) of this title , and the requirement under section 6321 of this title that funds under part A be used to supplement, and not supplant, State and local funds;
     - **(B)** select individuals to participate in such process from among individuals or groups that provided advice and recommendations, including representation from all geographic regions of the United States, in such numbers as will provide an equitable balance between representatives of parents and students and representatives of educators and education officials; and
     - **(C)** prepare a draft of proposed policy options that shall be provided to the individuals selected by the Secretary under subparagraph (B) not less than 15 days before the first meeting under such process.
   - **(4)** Such process—
-    - **(A)** shall be conducted in a timely manner to ensure that final regulations are issued by the Secretary not later than 1 year after January 8, 2002 ; and
-    - **(B)** shall not be subject to the Federal Advisory Committee Act, but shall otherwise follow the provisions of the Negotiated Rulemaking Act of 1990 ( 5 U.S.C. 561 et seq.).
-  - **(5)** In an emergency situation in which regulations to carry out this subchapter must be issued within a very limited time to assist State educational agencies and local educational agencies with the operation of a program under this subchapter, the Secretary may issue proposed regulations without following such process but shall, immediately thereafter and before issuing final regulations, conduct regional meetings to review such proposed regulations.
-- **(c)** Regulations to carry out this part may not require local programs to follow a particular instructional model, such as the provision of services outside the regular classroom or school program.
+    - **(A)** shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.); and
+    - **(B)** shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of title V 1 1 So in original. Probably should be “5”. (commonly known as the “Negotiated Rulemaking Act of 1990”).
+- **(c)** If consensus, as defined in section 562 of title 5 , on any proposed regulation is not reached by the individuals selected under subsection (b)(3)(B) for the negotiated rulemaking process, or if the Secretary determines that a negotiated rulemaking process is unnecessary, the Secretary may propose a regulation in the following manner:
+  - **(1)** Not less than 15 business days prior to issuing a notice of proposed rulemaking in the Federal Register, the Secretary shall provide to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and the Workforce of the House of Representatives, and other relevant congressional committees, notice of the Secretary’s intent to issue a notice of proposed rulemaking that shall include—
+    - **(A)** a copy of the proposed regulation;
+    - **(B)** the need to issue the regulation;
+    - **(C)** the anticipated burden, including the time, cost, and paperwork burden, the regulation will impose on State educational agencies, local educational agencies, schools, and other entities that may be impacted by the regulation;
+    - **(D)** the anticipated benefits to State educational agencies, local educational agencies, schools, and other entities that may be impacted by the regulation; and
+    - **(E)** any regulations that will be repealed when the new regulation is issued.
+  - **(2)** The Secretary shall—
+    - **(A)** before issuing any notice of proposed rulemaking under this subsection, provide Congress with a comment period of 15 business days to make comments on the proposed regulation, beginning on the date that the Secretary provides the notice of intent to the appropriate committees of Congress under paragraph (1); and
+    - **(B)** include and seek to address all comments submitted by Congress in the public rulemaking record for the regulation published in the Federal Register.
+  - **(3)** The comment and review period for any proposed regulation shall be not less than 60 days unless an emergency requires a shorter period, in which case the Secretary shall—
+    - **(A)** designate the proposed regulation as an emergency with an explanation of the emergency in the notice to Congress under paragraph (1);
+    - **(B)** publish the length of the comment and review period in such notice and in the Federal Register; and
+    - **(C)** conduct immediately thereafter regional meetings to review such proposed regulation before issuing any final regulation.
+- **(d)** Regulations to carry out this subchapter may not require local programs to follow a particular instructional model, such as the provision of services outside the regular classroom or school program.
+- **(e)** Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”) or chapter 8 of title 5 (commonly known as the “Congressional Review Act”).

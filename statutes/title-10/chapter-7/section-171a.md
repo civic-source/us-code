@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T04:56:26.636Z"
+generated_at: "2026-03-30T04:59:28.665Z"
 status: "active"
 ---
 
@@ -34,7 +34,9 @@ status: "active"
   - **(2)** A description of the activities proposed to be undertaken by the Council during the period covered by the current future-years defense program under section 221 of this title .
   - **(3)** Any changes to the requirements of the command, control, and communications system for the national leadership of the United States made during the previous year, along with an explanation for why the changes were made and a description of the effects of the changes to the capability of the system.
   - **(4)** A breakdown of each program element in such budget that relates to the system, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of the system.
-- **(f)**
+  - **(5)** An assessment of the threats and vulnerabilities described in the reports and assessments collected under subsection (f) during the previous year, including any plans to address such threats and vulnerabilities.
+- **(f)** The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+- **(g)**
   - **(1)** Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31 , the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
     - **(A)** whether such budget allows the Federal Government to meet the required capabilities of the command, control, and communications system for the national leadership of the United States during the fiscal year covered by the budget and the four subsequent fiscal years; and
     - **(B)** if the Commander determines that such budget does not allow the Federal Government to meet such required capabilities, a description of the steps being taken to meet such required capabilities.
@@ -42,10 +44,10 @@ status: "active"
     - **(A)** such assessment as it was submitted to the Chairman; and
     - **(B)** any comments of the Chairman.
   - **(3)** If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
-- **(g)**
+- **(h)**
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
   - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-- **(h)** In this section, the term “national leadership of the United States” means the following:
+- **(i)** In this section, the term “national leadership of the United States” means the following:
   - **(1)** The President.
   - **(2)** The Vice President.
   - **(3)** Such other civilian officials of the United States Government as the President shall designate for purposes of this section.

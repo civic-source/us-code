@@ -3,9 +3,9 @@ title: "Section 191 - Bureau established"
 usc_title: 42
 usc_section: "191"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 191"
-generated_at: "2026-03-30T04:58:56.729Z"
+generated_at: "2026-03-30T05:01:44.824Z"
 status: "active"
 ---
 

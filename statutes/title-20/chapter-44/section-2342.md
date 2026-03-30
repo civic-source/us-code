@@ -3,9 +3,9 @@ title: "Section 2342 - State plan"
 usc_title: 20
 usc_section: "2342"
 chapter: 44
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 2342"
-generated_at: "2026-03-30T04:57:15.794Z"
+generated_at: "2026-03-30T04:59:56.183Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
     - **(G)** how programs at the secondary level will prepare career and technical education students, including special populations, to graduate from secondary school with a diploma;
     - **(H)** how such programs will prepare career and technical education students, including special populations, academically and technically for opportunities in postsecondary education or entry into high skill, high wage, or high demand occupations in current or emerging occupations, and how participating students will be made aware of such opportunities;
     - **(I)** how funds will be used to improve or develop new career and technical education courses—
-      - **(i)** at the secondary level that are aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(b)(1) ];
+      - **(i)** at the secondary level that are aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(b)(1) ];
       - **(ii)** at the postsecondary level that are relevant and challenging; and
       - **(iii)** that lead to employment in high skill, high wage, or high demand occupations;
     - **(J)** how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II and eligible recipients to improve program quality and student achievement;
@@ -76,7 +76,7 @@ status: "active"
     - **(B)** among any consortia that will be formed among secondary schools and eligible institutions, and how funds will be allocated among the members of the consortia, including the rationale for such allocation;
   - **(7)** describes how the eligible agency will—
     - **(A)** improve the academic and technical skills of students participating in career and technical education programs, including strengthening the academic and career and technical components of career and technical education programs through the integration of academics with career and technical education to ensure learning in—
-      - **(i)** the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]); and
+      - **(i)** a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]); and
       - **(ii)** career and technical education subjects;
     - **(B)** provide students with strong experience in, and understanding of, all aspects of an industry; and
     - **(C)** ensure that students who participate in such career and technical education programs are taught to the same challenging academic proficiencies as are taught to all other students;

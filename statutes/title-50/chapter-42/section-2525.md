@@ -3,9 +3,9 @@ title: "Section 2525 - Annual assessments and reports to the President and Congr
 usc_title: 50
 usc_section: "2525"
 chapter: 42
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 2525"
-generated_at: "2026-03-30T04:59:01.543Z"
+generated_at: "2026-03-30T05:01:50.044Z"
 status: "active"
 ---
 
@@ -39,8 +39,9 @@ status: "active"
     - **(D)** a concise summary of the results of any independent evaluation conducted by a dual validation team under subsection (c); and
     - **(E)** a concise summary of any significant finding investigations initiated or active during the previous year for which the head of the national security laboratory has full or partial responsibility.
   - **(4)** In the case of a report submitted by the Commander of the United States Strategic Command—
-    - **(A)** a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types; and
-    - **(B)** a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles.
+    - **(A)** a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types;
+    - **(B)** a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles; and
+    - **(C)** the views of the Commander on the stockpile responsiveness program under section 2538b of this title , the activities conducted under such program, and any suggestions to improve such program.
   - **(5)** An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 - **(f)**
   - **(1)** Not later than February 1 of each year, the Secretary of Defense and the Secretary of Energy shall submit to the President—

@@ -3,9 +3,9 @@ title: "Section 20706 - “Officer of election” defined"
 usc_title: 52
 usc_section: "20706"
 chapter: 207
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "52 U.S.C. § 20706"
-generated_at: "2026-03-30T04:59:05.730Z"
+generated_at: "2026-03-30T05:01:54.370Z"
 status: "active"
 ---
 

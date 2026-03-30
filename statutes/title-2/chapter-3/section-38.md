@@ -1,13 +1,13 @@
 ---
-title: "Section 38 - Repealed. Pub. L. 104–186, title II, § 203(4) , Aug. 20, 1996 , 110 Stat. 1725"
+title: "Section 38 - Repealed. Pub. L. 104–186, title II , § 203(4), Aug. 20, 1996 , 110 Stat. 1725"
 usc_title: 2
 usc_section: "38"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "2 U.S.C. § 38"
-generated_at: "2026-03-30T04:56:11.913Z"
+generated_at: "2026-03-30T04:59:16.742Z"
 status: "repealed"
 ---
 
-# § 38. Repealed. Pub. L. 104–186, title II, § 203(4) , Aug. 20, 1996 , 110 Stat. 1725
+# § 38. Repealed. Pub. L. 104–186, title II , § 203(4), Aug. 20, 1996 , 110 Stat. 1725
 

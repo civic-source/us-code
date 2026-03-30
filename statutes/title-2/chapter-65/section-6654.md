@@ -3,9 +3,9 @@ title: "Section 6654 - Payment of expenses of the Chaplain of the Senate from th
 usc_title: 2
 usc_section: "6654"
 chapter: 65
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "2 U.S.C. § 6654"
-generated_at: "2026-03-30T04:56:11.961Z"
+generated_at: "2026-03-30T04:59:16.793Z"
 status: "active"
 ---
 

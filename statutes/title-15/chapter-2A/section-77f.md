@@ -3,9 +3,9 @@ title: "Section 77f - Registration of securities"
 usc_title: 15
 usc_section: "77f"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 77f"
-generated_at: "2026-03-30T04:56:57.340Z"
+generated_at: "2026-03-30T04:59:35.435Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
 - **(c)** The filing with the Commission of a registration statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under subsection (b).
 - **(d)** The information contained in or filed with any registration statement shall be made available to the public under such regulations as the Commission may prescribe, and copies thereof, photostatic or otherwise, shall be furnished to every applicant at such reasonable charge as the Commission may prescribe.
 - **(e)**
-  - **(1)** Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 21 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto.
+  - **(1)** Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
   - **(2)** Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5 , this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title .

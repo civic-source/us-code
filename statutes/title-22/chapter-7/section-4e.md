@@ -3,9 +3,9 @@ title: "Section 4e - Extent to which borrowing country governments have honored 
 usc_title: 22
 usc_section: "4e"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 4e"
-generated_at: "2026-03-30T04:57:26.645Z"
+generated_at: "2026-03-30T05:00:34.808Z"
 status: "active"
 ---
 

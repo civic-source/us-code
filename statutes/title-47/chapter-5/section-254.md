@@ -3,9 +3,9 @@ title: "Section 254 - Universal service"
 usc_title: 47
 usc_section: "254"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "47 U.S.C. § 254"
-generated_at: "2026-03-30T04:59:00.089Z"
+generated_at: "2026-03-30T05:01:50.606Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
         - **(II)** submits to the Commission a certification that an Internet safety policy has been adopted and implemented for the school under subsection ( l ) of this section; and
         - **(III)** ensures the use of such computers in accordance with the certifications.
       - **(ii)** The prohibition in clause (i) shall not apply with respect to a school that receives services at discount rates under paragraph (1)(B) only for purposes other than the provision of Internet access, Internet service, or internal connections.
-      - **(iii)** An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 1 1 See References in Text note below. of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+      - **(iii)** An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20 , the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
     - **(B)** A certification under this subparagraph is a certification that the school, school board, local educational agency, or other authority with responsibility for administration of the school—
       - **(i)** is enforcing a policy of Internet safety for minors that includes monitoring the online activities of minors and the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
         - **(I)** obscene;

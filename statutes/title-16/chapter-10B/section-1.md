@@ -3,9 +3,9 @@ title: "Section 1 - Boating infrastructure"
 usc_title: 16
 usc_section: "1"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:57:06.584Z"
+generated_at: "2026-03-30T04:59:58.490Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
 - **(c)** Within 6 months after submitting a survey to the Secretary under section 777g(g) of this title , a State may develop and submit to the Secretary a plan for the construction, renovation, and maintenance of facilities for transient nontrailerable recreational vessels, and access to those facilities, to meet the needs of nontrailerable recreational vessels operating on navigable waters in the State.
 - **(d)**
-  - **(1)** The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
+  - **(1)** The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) 1 1 See References in Text note below. of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
   - **(2)** In awarding grants under paragraph (1), the Secretary shall give priority to projects that—
     - **(A)** consist of the construction, renovation, or maintenance of facilities for transient nontrailerable recreational vessels in accordance with a plan submitted by a State under subsection (c);
     - **(B)** provide for public/private partnership efforts to develop, maintain, and operate facilities for transient nontrailerable recreational vessels; and

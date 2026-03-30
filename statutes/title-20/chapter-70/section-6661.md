@@ -1,36 +1,19 @@
 ---
-title: "Section 6661 - Purpose; definitions"
+title: "Section 6661 - Program authorized"
 usc_title: 20
 usc_section: "6661"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 6661"
-generated_at: "2026-03-30T04:57:15.823Z"
+generated_at: "2026-03-30T04:59:56.211Z"
 status: "active"
 ---
 
-# § 6661. Purpose; definitions
+# § 6661. Program authorized
 
-- **(a)** The purpose of this part is to improve the academic achievement of students in the areas of mathematics and science by encouraging State educational agencies, institutions of higher education, local educational agencies, elementary schools, and secondary schools to participate in programs that—
-  - **(1)** improve and upgrade the status and stature of mathematics and science teaching by encouraging institutions of higher education to assume greater responsibility for improving mathematics and science teacher education through the establishment of a comprehensive, integrated system of recruiting, training, and advising mathematics and science teachers;
-  - **(2)** focus on the education of mathematics and science teachers as a career-long process that continuously stimulates teachers’ intellectual growth and upgrades teachers’ knowledge and skills;
-  - **(3)** bring mathematics and science teachers in elementary schools and secondary schools together with scientists, mathematicians, and engineers to increase the subject matter knowledge of mathematics and science teachers and improve such teachers’ teaching skills through the use of sophisticated laboratory equipment and work space, computing facilities, libraries, and other resources that institutions of higher education are better able to provide than the elementary schools and secondary schools;
-  - **(4)** develop more rigorous mathematics and science curricula that are aligned with challenging State and local academic content standards and with the standards expected for postsecondary study in engineering, mathematics, and science; and
-  - **(5)** improve and expand training of mathematics and science teachers, including training such teachers in the effective integration of technology into curricula and instruction.
-- **(b)** In this part:
-  - **(1)** The term “eligible partnership” means a partnership that—
-    - **(A)** shall include—
-      - **(i)** if grants are awarded under section 6662(a)(1) of this title , a State educational agency;
-      - **(ii)** an engineering, mathematics, or science department of an institution of higher education; and
-      - **(iii)** a high-need local educational agency; and
-    - **(B)** may include—
-      - **(i)** another engineering, mathematics, science, or teacher training department of an institution of higher education;
-      - **(ii)** additional local educational agencies, public charter schools, public or private elementary schools or secondary schools, or a consortium of such schools;
-      - **(iii)** a business; or
-      - **(iv)** a nonprofit or for-profit organization of demonstrated effectiveness in improving the quality of mathematics and science teachers.
-  - **(2)** The term “summer workshop or institute” means a workshop or institute, conducted during the summer, that—
-    - **(A)** is conducted for a period of not less than 2 weeks;
-    - **(B)** includes, as a component, a program that provides direct interaction between students and faculty; and
-    - **(C)** provides for followup training during the academic year that is conducted in the classroom for a period of not less than three consecutive or nonconsecutive days, except that—
-      - **(i)** if the workshop or institute is conducted during a 2-week period, the followup training shall be conducted for a period of not less than 4 days; and
-      - **(ii)** if the followup training is for teachers in rural school districts, the followup training may be conducted through distance learning.
+- **(a)** From the amount reserved by the Secretary under section 6621(3) of this title , the Secretary is authorized to carry out an American history and civics education program to improve—
+  - **(1)** the quality of American history, civics, and government education by educating students about the history and principles of the Constitution of the United States, including the Bill of Rights; and
+  - **(2)** the quality of the teaching of American history, civics, and government in elementary schools and secondary schools, including the teaching of traditional American history.
+- **(b)** Of the amount available under subsection (a) for a fiscal year, the Secretary—
+  - **(1)** shall reserve not less than 26 percent for activities under section 6662 of this title ; and
+  - **(2)** may reserve not more than 74 percent for activities under section 6663 of this title .

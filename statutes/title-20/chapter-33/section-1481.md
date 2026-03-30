@@ -3,9 +3,9 @@ title: "Section 1481 - Comprehensive plan for parts B and C"
 usc_title: 20
 usc_section: "1481"
 chapter: 33
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 1481"
-generated_at: "2026-03-30T04:57:15.789Z"
+generated_at: "2026-03-30T04:59:56.178Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
     - **(H)** children with reading difficulties;
     - **(I)** children in public charter schools;
     - **(J)** children who are gifted and talented; or
-    - **(K)** children with disabilities served by local educational agencies that receive payments under title VIII of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7701 et seq.];
+    - **(K)** children with disabilities served by local educational agencies that receive payments under title VII of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7701 et seq.];
   - **(4)** projects to reduce inappropriate identification of children as children with disabilities, particularly among minority children;
   - **(5)** projects that are carried out in particular areas of the country, to ensure broad geographic coverage;
   - **(6)** projects that promote the development and use of technologies with universal design, assistive technology devices, and assistive technology services to maximize children with disabilities’ access to and participation in the general education curriculum; and

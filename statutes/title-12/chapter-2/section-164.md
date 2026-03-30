@@ -3,9 +3,9 @@ title: "Section 164 - Penalty for failure to make reports"
 usc_title: 12
 usc_section: "164"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 164"
-generated_at: "2026-03-30T04:56:55.340Z"
+generated_at: "2026-03-30T04:59:33.517Z"
 status: "active"
 ---
 

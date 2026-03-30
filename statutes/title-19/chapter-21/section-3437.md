@@ -3,9 +3,9 @@ title: "Section 3437 - Identification of industries facing subsidized imports"
 usc_title: 19
 usc_section: "3437"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3437"
-generated_at: "2026-03-30T04:57:10.215Z"
+generated_at: "2026-03-30T04:59:42.913Z"
 status: "active"
 ---
 
@@ -16,13 +16,13 @@ status: "active"
     - **(A)** as a result of implementation of provisions of the Agreement, the industry is likely to face increased competition from subsidized imports, from a NAFTA country, with which it directly competes; or
     - **(B)** the industry is likely to face increased competition from subsidized imports with which it directly competes from any other country designated by the President, following consultations with the Congress, as benefiting from a reduction of tariffs or other trade barriers under a trade agreement that enters into force with respect to the United States after January 1, 1994 ; and
   - **(2)** that the industry is likely to experience a deterioration of its competitive position before more effective rules and disciplines relating to the use of government subsidies have been developed with respect to the country concerned;
-- **(b)** Within 90 days after receipt of a petition under subsection (a) of this section, the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) of this section and the deterioration described in subsection (a)(2) of this section.
-- **(c)** At the request of an entity that is representative of an industry identified under subsection (b) of this section, the Trade Representative shall—
+- **(b)** Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
+- **(c)** At the request of an entity that is representative of an industry identified under subsection (b), the Trade Representative shall—
   - **(1)** compile and make available to the industry information under section 2418 of this title ;
   - **(2)** recommend to the President that an investigation by the International Trade Commission be requested under section 332 of the Tariff Act of 1930 [ 19 U.S.C. 1332 ]; or
   - **(3)** take actions described in both paragraphs (1) and (2).
 - **(d)**
-  - **(1)** The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) of this section and consult with the industry identified under subsection (b) of this section with a view to deciding whether any action is appropriate—
+  - **(1)** The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) and consult with the industry identified under subsection (b) with a view to deciding whether any action is appropriate—
     - **(A)** under section 2411 of this title , including the initiation of an investigation under section 2412(c) of this title (in the case of the Trade Representative); or
     - **(B)** under subtitle A of title VII of the Tariff Act of 1930 [ 19 U.S.C. 1671 et seq.], including the initiation of an investigation under section 702(a) of that Act [ 19 U.S.C. 1671a(a) ] (in the case of the Secretary of Commerce).
   - **(2)** In determining whether to initiate any investigation under section 2411 of this title or any other trade law, other than title VII of the Tariff Act of 1930 [ 19 U.S.C. 1671 et seq.], the Trade Representative, after consultation with the Secretary of Commerce—

@@ -3,9 +3,9 @@ title: "Section 125 - Emergency relief"
 usc_title: 23
 usc_section: "125"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 125"
-generated_at: "2026-03-30T04:57:24.955Z"
+generated_at: "2026-03-30T05:00:18.944Z"
 status: "active"
 ---
 
@@ -36,12 +36,18 @@ status: "active"
     - **(A)** In this paragraph, the term “comparable facility” means a facility that meets the current geometric and construction standards required for the types and volume of traffic that the facility will carry over its design life.
     - **(B)** The total cost of a project funded under this section may not exceed the cost of repair or reconstruction of a comparable facility.
   - **(3)** The costs of debris removal shall be an eligible expense under this section only for—
-    - **(A)** an event not declared a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.); or
-    - **(B)** an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ( 42 U.S.C. 5170b , 5173, 5192).
+    - **(A)** an event not declared a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
+    - **(B)** an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act ( 42 U.S.C. 5170b , 5173, 5192); or
+    - **(C)** projects eligible for assistance under this section located on tribal transportation facilities, Federal lands transportation facilities, or other federally owned roads that are open to public travel (as defined in subsection (e)(1)).
   - **(4)** The total obligations for projects under this section for any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000.
   - **(5)** Notwithstanding any other provision of this section, actual and necessary costs of maintenance and operation of ferryboats or additional transit service providing temporary substitute highway traffic service, less the amount of fares charged for comparable service, may be expended from the emergency fund authorized by this section for Federal-aid highways.
 - **(e)**
-  - **(1)** In this subsection, the term “open to public travel” means, with respect to a road, that, except during scheduled periods, extreme weather conditions, or emergencies, the road is open to the general public for use with a standard passenger vehicle, without restrictive gates or prohibitive signs or regulations, other than for general traffic control or restrictions based on size, weight, or class of registration.
+  - **(1)** In this subsection, the following definitions apply:
+    - **(A)** The term “open to public travel” means, with respect to a road, that, except during scheduled periods, extreme weather conditions, or emergencies, the road—
+      - **(i)** is maintained;
+      - **(ii)** is open to the general public; and
+      - **(iii)** can accommodate travel by a standard passenger vehicle, without restrictive gates or prohibitive signs or regulations, other than for general traffic control or restrictions based on size, weight, or class of registration.
+    - **(B)** The term “standard passenger vehicle” means a vehicle with 6 inches of clearance from the lowest point of the frame, body, suspension, or differential to the ground.
   - **(2)** Notwithstanding subsection (d)(1), the Secretary may expend funds from the emergency fund authorized by this section, independently or in cooperation with any other branch of the Federal Government, a State agency, a tribal government, an organization, or a person, for the repair or reconstruction of tribal transportation facilities, Federal lands transportation facilities, and other federally owned roads that are open to public travel, whether or not those facilities are Federal-aid highways.
   - **(3)**
     - **(A)** The Secretary may reimburse Federal and State agencies (including political subdivisions) for expenditures made for projects determined eligible under this section, including expenditures for emergency repairs made before a determination of eligibility.

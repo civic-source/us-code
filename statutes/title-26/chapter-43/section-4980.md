@@ -3,9 +3,9 @@ title: "Section 4980 - Tax on reversion of qualified plan assets to employer"
 usc_title: 26
 usc_section: "4980"
 chapter: 43
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 4980"
-generated_at: "2026-03-30T04:58:24.542Z"
+generated_at: "2026-03-30T05:00:47.961Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9512 - Functions"
 usc_title: 20
 usc_section: "9512"
 chapter: 76
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 9512"
-generated_at: "2026-03-30T04:57:15.852Z"
+generated_at: "2026-03-30T04:59:56.232Z"
 status: "active"
 ---
 

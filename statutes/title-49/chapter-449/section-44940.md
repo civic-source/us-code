@@ -3,9 +3,9 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-30T04:59:03.216Z"
+generated_at: "2026-03-30T05:01:52.726Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(G)** The costs of deploying Federal law enforcement personnel pursuant to section 44903(h).
     - **(H)** The costs of security-related capital improvements at airports.
     - **(I)** The costs of training pilots and flight attendants under sections 44918 and 44921.
-  - **[(2)** Repealed. Pub. L. 113–67, div. A, title VI, § 601(a)(1) , Dec. 26, 2013 , 127 Stat. 1187 .]
+  - **[(2)** Repealed. Pub. L. 113–67, div. A, title VI , § 601(a)(1), Dec. 26, 2013 , 127 Stat. 1187 .]
 - **(b)** In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration’s costs of providing services rendered.
 - **(c)**
   - **(1)** Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States, except that the fee imposed per round trip shall not exceed $11.20.

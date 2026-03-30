@@ -3,9 +3,9 @@ title: "Section 5711 - Federal Trade Commission regulations"
 usc_title: 15
 usc_section: "5711"
 chapter: 83
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 5711"
-generated_at: "2026-03-30T04:56:57.497Z"
+generated_at: "2026-03-30T04:59:35.594Z"
 status: "active"
 ---
 
@@ -50,5 +50,5 @@ status: "active"
     - **(B)** include a beep tone or other appropriate and clear signal during a live interactive group program so that callers will be alerted to the passage of time.
   - **(7)** The rules prescribed by the Commission under subparagraphs (A) and (G) of paragraph (1) may permit, in the case of publications that are widely distributed, that are printed annually or less frequently, and that have an established policy of not publishing specific prices, advertising that in lieu of the cost disclosures required by such subparagraphs, clearly and conspicuously disclose that use of the telephone number may result in a substantial charge.
   - **(8)** A rule issued under this subsection shall be treated as a rule issued under section 57a(a)(1)(B) of this title .
-- **(b)** The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992 . Such rules shall be prescribed in accordance with section 553 of title 5 .
-- **(c)** Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under section 45 of this title . Notwithstanding section 45(a)(2) of this title , communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
+- **(b)** The Commission shall prescribe the rules under subsection (a) within 270 days after October 28, 1992 . Such rules shall be prescribed in accordance with section 553 of title 5 .
+- **(c)** Any violation of any rule prescribed under subsection (a) shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under section 45 of this title . Notwithstanding section 45(a)(2) of this title , communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.

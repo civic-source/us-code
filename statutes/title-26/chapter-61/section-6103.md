@@ -3,9 +3,9 @@ title: "Section 6103 - Confidentiality and disclosure of returns and return info
 usc_title: 26
 usc_section: "6103"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6103"
-generated_at: "2026-03-30T04:58:24.562Z"
+generated_at: "2026-03-30T05:00:47.983Z"
 status: "active"
 ---
 
@@ -110,6 +110,10 @@ status: "active"
     - **(A)** the name of any other person whom the Secretary has determined to be liable for such penalty with respect to such failure, and
     - **(B)** whether the Secretary has attempted to collect such penalty from such other person, the general nature of such collection activities, and the amount collected.
   - **(10)** In the case of an inspection or disclosure under this subsection relating to the return of a partnership, S corporation, trust, or an estate, the information inspected or disclosed shall not include any supporting schedule, attachment, or list which includes the taxpayer identity information of a person other than the entity making the return or the person conducting the inspection or to whom the disclosure is made.
+  - **(11)** In the case of a person who provides to the Secretary information indicating a violation of section 7213, 7213A, or 7214 with respect to any return or return information of such person, the Secretary may disclose to such person (or such person’s designee)—
+    - **(A)** whether an investigation based on the person’s provision of such information has been initiated and whether it is open or closed,
+    - **(B)** whether any such investigation substantiated such a violation by any individual, and
+    - **(C)** whether any action has been taken with respect to such individual (including whether a referral has been made for prosecution of such individual).
 - **(f)**
   - **(1)** Upon written request from the chairman of the Committee on Ways and Means of the House of Representatives, the chairman of the Committee on Finance of the Senate, or the chairman of the Joint Committee on Taxation, the Secretary shall furnish such committee with any return or return information specified in such request, except that any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished to such committee only when sitting in closed executive session unless such taxpayer otherwise consents in writing to such disclosure.
   - **(2)** Upon written request by the Chief of Staff of the Joint Committee on Taxation, the Secretary shall furnish him with any return or return information specified in such request. Such Chief of Staff may submit such return or return information to any committee described in paragraph (1), except that any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished to such committee only when sitting in closed executive session unless such taxpayer otherwise consents in writing to such disclosure.
@@ -280,6 +284,12 @@ status: "active"
     - **(D)** Notwithstanding subsection (h)—
       - **(i)** Except as provided in clause (ii), any officer, employee, or contractor of the Federal Bureau of Prisons or of any State agency charged with the responsibility for administration of prisons shall not disclose any information obtained under this paragraph to any person other than an officer or employee or contractor of such Bureau or agency personally and directly engaged in the administration of prison facilities on behalf of such Bureau or agency.
       - **(ii)** The returns and return information disclosed under this paragraph may be disclosed to the duly authorized legal representative of the Federal Bureau of Prisons, State agency, or contractor charged with the responsibility for administration of prisons, or of the incarcerated individual accused of filing the false or fraudulent return who is a party to an action or proceeding described in subparagraph (C), solely in preparation for, or for use in, such action or proceeding.
+  - **(11)**
+    - **(A)** The Secretary shall, upon receiving a certification described in section 7345, disclose to the Secretary of State return information with respect to a taxpayer who has a seriously delinquent tax debt described in such section. Such return information shall be limited to—
+      - **(i)** the taxpayer identity information with respect to such taxpayer, and
+      - **(ii)** the amount of such seriously delinquent tax debt.
+    - **(B)** Return information disclosed under subparagraph (A) may be used by officers and employees of the Department of State for the purposes of, and to the extent necessary in, carrying out the requirements of section 32101 of the FAST Act.
+  - **(12)** Persons providing services pursuant to a qualified tax collection contract under section 6306 may, if speaking to a person who has identified himself or herself as having the name of the taxpayer to which a tax receivable (within the meaning of such section) relates, identify themselves as contractors of the Internal Revenue Service and disclose the business name of the contractor, and the nature, subject, and reason for the contact. Disclosures under this paragraph shall be made only in such situations and under such conditions as have been approved by the Secretary.
 - **(l)**
   - **(1)** The Secretary may, upon written request, disclose returns and return information with respect to—
     - **(A)** taxes imposed by chapters 2, 21, and 24, to the Social Security Administration for purposes of its administration of the Social Security Act;
@@ -476,7 +486,7 @@ status: "active"
         - **(II)** instances in which returns and return information were disclosed pursuant to such requests or otherwise,
         - **(III)** taxpayers whose returns, or return information with respect to whom, were disclosed pursuant to such requests, and
       - **(ii)** describes the general purposes for which such requests were made, 7 7 So in original. The comma probably should be a period.
-  - **(4)** Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8) or (10), ( l )(1), (2), (3), (5), (10), (11), (13), (14), (17), or (22) or ( o )(1)(A), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(3)(B)(i) or 7(A)(ii), 8 8 So in original. Probably should be “(7)(A)(ii),”. or (k)(10), ( l )(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10), subsection ( l )(10), (16), (18), (19), or (20), or any entity described in subsection ( l )(21), shall, as a condition for receiving returns or return information—
+  - **(4)** Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), ( l )(1), (2), (3), (5), (10), (11), (13), (14), (17), or (22) or ( o )(1)(A), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(3)(B)(i) or 7(A)(ii), 8 8 So in original. Probably should be “(7)(A)(ii),”. or (k)(10), ( l )(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10), subsection ( l )(10), (16), (18), (19), or (20), or any entity described in subsection ( l )(21), shall, as a condition for receiving returns or return information—
     - **(A)** establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to any request, the reason for such request, and the date of such request made by or of it and any disclosure of return or return information made by or to it;
     - **(B)** establish and maintain, to the satisfaction of the Secretary, a secure area or place in which such returns or return information shall be stored;
     - **(C)** restrict, to the satisfaction of the Secretary, access to the returns or return information only to persons whose duties or responsibilities require access and to whom disclosure may be made under the provisions of this title;
@@ -484,7 +494,7 @@ status: "active"
     - **(E)** furnish a report to the Secretary, at such time and containing such information as the Secretary may prescribe, which describes the procedures established and utilized by such agency, body, or commission, the Government Accountability Office, or the Congressional Budget Office for ensuring the confidentiality of returns and return information required by this paragraph; and
     - **(F)** upon completion of use of such returns or return information—
       - **(i)** in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or ( l )(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection ( l )(10), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
-      - **(ii)** in the case of an agency described in subsections 6 (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8) or (10), ( l )(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22), or ( o )(1)(A) or any entity described in subsection ( l )(21),,, 9 9 So in original. the Government Accountability Office, or the Congressional Budget Office, either—
+      - **(ii)** in the case of an agency described in subsections 6 (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), ( l )(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22), or ( o )(1)(A) or any entity described in subsection ( l )(21),,, 9 9 So in original. the Government Accountability Office, or the Congressional Budget Office, either—
         - **(I)** return to the Secretary such returns or return information (along with any copies made therefrom),
         - **(II)** otherwise make such returns or return information undisclosable, or
         - **(III)** to the extent not so returned or made undisclosable, ensure that the conditions of subparagraphs (A), (B), (C), (D), and (E) of this paragraph continue to be met with respect to such returns or return information, and

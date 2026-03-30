@@ -3,9 +3,9 @@ title: "Section 54E - Qualified zone academy bonds"
 usc_title: 26
 usc_section: "54E"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 54E"
-generated_at: "2026-03-30T04:58:24.378Z"
+generated_at: "2026-03-30T05:00:47.791Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(C)** certifies that it has the written approval of the eligible local education agency for such bond issuance.
 - **(b)** For purposes of subsection (a), the private business contribution requirement of this subsection is met with respect to any issue if the eligible local education agency that established the qualified zone academy has written commitments from private entities to make qualified contributions having a present value (as of the date of issuance of the issue) of not less than 10 percent of the proceeds of the issue.
 - **(c)**
-  - **(1)** There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, and 2014 and, except as provided in paragraph (4), zero thereafter.
+  - **(1)** There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, 2014, 2015, and 2016 and, except as provided in paragraph (4), zero thereafter.
   - **(2)** The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
   - **(3)** The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (a) with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
   - **(4)**
@@ -37,7 +37,7 @@ status: "active"
     - **(D)**
       - **(i)** such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or
       - **(ii)** there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act.
-  - **(2)** For purposes of this section, the term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+  - **(2)** For purposes of this section, the term “eligible local education agency” means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965.
   - **(3)** The term “qualified purpose” means, with respect to any qualified zone academy—
     - **(A)** rehabilitating or repairing the public school facility in which the academy is established,
     - **(B)** providing equipment for use at such academy,

@@ -3,9 +3,9 @@ title: "Section 2075 - Appropriations authorization"
 usc_title: 19
 usc_section: "2075"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2075"
-generated_at: "2026-03-30T04:57:10.190Z"
+generated_at: "2026-03-30T04:59:42.885Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The authorization of the appropriations for the United States Customs Service for each fiscal year after fiscal year 1987 shall specify—
     - **(A)** the amount authorized for the fiscal year for the salaries and expenses of the Service in conducting commercial operations; and
     - **(B)** the amount authorized for the fiscal year for the salaries and expenses of the Service for other than commercial operations.
-  - **(3)** By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b) of this section.
+  - **(3)** By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b).
 - **(b)**
   - **(1)** There are authorized to be appropriated for the salaries and expenses of the Customs Service that are incurred in noncommercial operations not to exceed the following:
     - **(A)** $1,365,456,000 for fiscal year 2003.
@@ -29,8 +29,8 @@ status: "active"
   - **(3)** There are authorized to be appropriated for the operation (including salaries and expenses) and maintenance of the air interdiction program of the Customs Service not to exceed the following:
     - **(A)** $170,829,000 for fiscal year 2003.
     - **(B)** $175,099,725 for fiscal year 2004.
-- **(c)** No part of any sum that is appropriated under the authority of subsection (b) of this section may be used to implement any procedure relating to the time of collection of estimated duties that shortens the maximum 10-day deferment procedure in effect on January 1, 1981 .
-- **(d)** No part of any sum that is appropriated under subsection (b) of this section for fiscal years after September 30, 1984 , may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
+- **(c)** No part of any sum that is appropriated under the authority of subsection (b) may be used to implement any procedure relating to the time of collection of estimated duties that shortens the maximum 10-day deferment procedure in effect on January 1, 1981 .
+- **(d)** No part of any sum that is appropriated under subsection (b) for fiscal years after September 30, 1984 , may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
 - **(e)** For the fiscal year beginning October 1, 1982 , and for each fiscal year thereafter, there are authorized to be appropriated to the Department of the Treasury for salaries of the United States Customs Service such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 - **(f)** If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of Customs shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
 - **(g)**

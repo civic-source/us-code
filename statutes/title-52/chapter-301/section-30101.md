@@ -3,9 +3,9 @@ title: "Section 30101 - Definitions"
 usc_title: 52
 usc_section: "30101"
 chapter: 301
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "52 U.S.C. § 30101"
-generated_at: "2026-03-30T04:59:05.735Z"
+generated_at: "2026-03-30T05:01:54.375Z"
 status: "active"
 ---
 

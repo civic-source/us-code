@@ -3,9 +3,9 @@ title: "Section 8772 - Interests in certain financial assets of Iran"
 usc_title: 22
 usc_section: "8772"
 chapter: 94
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 8772"
-generated_at: "2026-03-30T04:57:26.774Z"
+generated_at: "2026-03-30T05:00:34.946Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(2)** to apply to assets other than the assets described in subsection (b), or to preempt State law, including the Uniform Commercial Code, except as expressly provided in subsection (a)(1).
 - **(d)** In this section:
   - **(1)** The term “blocked asset”—
-    - **(A)** means any asset seized or frozen by the United States under section 5(b) of the Appendix to title 50 or under section 202 or 203 of the International Emergency Economic Powers Act ( 50 U.S.C. 1701 and 1702); and
+    - **(A)** means any asset seized or frozen by the United States under section 4305(b) of title 50 or under section 202 or 203 of the International Emergency Economic Powers Act ( 50 U.S.C. 1701 and 1702); and
     - **(B)** does not include property that—
       - **(i)** is subject to a license issued by the United States Government for final payment, transfer, or disposition by or to a person subject to the jurisdiction of the United States in connection with a transaction for which the issuance of the license has been specifically required by a provision of law other than the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or the United Nations Participation Act of 1945 ( 22 U.S.C. 287 et seq.); or
       - **(ii)** is property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoys equivalent privileges and immunities under the laws of the United States, and is being used exclusively for diplomatic or consular purposes.

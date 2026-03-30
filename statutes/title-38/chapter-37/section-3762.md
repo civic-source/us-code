@@ -3,9 +3,9 @@ title: "Section 3762 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3762"
 chapter: 37
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "38 U.S.C. § 3762"
-generated_at: "2026-03-30T04:58:39.220Z"
+generated_at: "2026-03-30T05:01:08.833Z"
 status: "active"
 ---
 

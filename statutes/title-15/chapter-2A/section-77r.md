@@ -3,9 +3,9 @@ title: "Section 77r - Exemption from State regulation of securities offerings"
 usc_title: 15
 usc_section: "77r"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 77r"
-generated_at: "2026-03-30T04:56:57.341Z"
+generated_at: "2026-03-30T04:59:35.436Z"
 status: "active"
 ---
 
@@ -30,17 +30,18 @@ status: "active"
     - **(A)** paragraph (1) or (3) of section 77d 1 1 See References in Text note below. of this title, and the issuer of such security files reports with the Commission pursuant to section 78m or 78 o (d) of this title;
     - **(B)** section 77d(4) 1 of this title;
     - **(C)** section 77d(6) 1 of this title;
-    - **(D)** 2 2 So in original. There are two subpars. (D). a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
+    - **(D)** a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
       - **(i)** offered or sold on a national securities exchange; or
       - **(ii)** offered or sold to a qualified purchaser, as defined by the Commission pursuant to paragraph (3) with respect to that purchase or sale;
-    - **(D)** 2 section 77c(a) of this title , other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
-    - **(E)** Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996 .
+    - **(E)** section 77c(a) of this title , other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
+    - **(F)** Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996 ; or
+    - **(G)** section 77d(a)(7) of this title .
 - **(c)**
-  - **(1)** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 3 3 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A).
+  - **(1)** Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 2 2 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A).
     - **(A)** with respect to—
       - **(i)** fraud or deceit; or
       - **(ii)** unlawful conduct by a broker, dealer, or funding portal; and
-    - **(B)** in connection to 4 4 So in original. Probably should be “with”. a transaction described under section 77d(6) 1 of this title, with respect to—
+    - **(B)** in connection to 3 3 So in original. Probably should be “with”. a transaction described under section 77d(6) 1 of this title, with respect to—
       - **(i)** fraud or deceit; or
       - **(ii)** unlawful conduct by a broker, dealer, funding portal, or issuer.
   - **(2)**

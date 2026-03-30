@@ -3,9 +3,9 @@ title: "Section 1227 - Deportable aliens"
 usc_title: 8
 usc_section: "1227"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "8 U.S.C. § 1227"
-generated_at: "2026-03-30T04:56:20.434Z"
+generated_at: "2026-03-30T04:59:20.995Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(D)** Any alien who at any time has been convicted (the judgment on such conviction becoming final) of, or has been so convicted of a conspiracy or attempt to violate—
       - **(i)** any offense under chapter 37 (relating to espionage), chapter 105 (relating to sabotage), or chapter 115 (relating to treason and sedition) of title 18 for which a term of imprisonment of five or more years may be imposed;
       - **(ii)** any offense under section 871 or 960 of title 18;
-      - **(iii)** a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.); or
+      - **(iii)** a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) [now 50 U.S.C. 3801 et seq.] or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.]; or
       - **(iv)** a violation of section 1185 or 1328 of this title,
     - **(E)**
       - **(i)** Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term “crime of domestic violence” means any crime of violence (as defined in section 16 of title 18 ) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual’s acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.

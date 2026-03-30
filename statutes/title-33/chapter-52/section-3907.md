@@ -3,9 +3,9 @@ title: "Section 3907 - Determination of eligibility and project selection"
 usc_title: 33
 usc_section: "3907"
 chapter: 52
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "33 U.S.C. § 3907"
-generated_at: "2026-03-30T04:58:35.507Z"
+generated_at: "2026-03-30T05:00:59.739Z"
 status: "active"
 ---
 
@@ -31,15 +31,12 @@ status: "active"
   - **(4)**
     - **(A)** If an eligible project is carried out by an entity that is not a State or local government or an agency or instrumentality of a State or local government or a tribal government or consortium of tribal governments, the project shall be publicly sponsored.
     - **(B)** For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
-  - **(5)** No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
-    - **(A)** the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
-    - **(B)** with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26.
-  - **(6)**
+  - **(5)**
     - **(A)** For each eligible project for which the Administrator has authority under paragraph (2) or (3) of section 3902(b) of this title and for which the Administrator has received an application for financial assistance under this chapter, the Administrator shall notify, not later than 30 days after the date on which the Administrator receives a complete application, the applicable State infrastructure financing authority of the State in which the project is located that such application has been submitted.
     - **(B)** If, not later than 60 days after the date of receipt of a notification under subparagraph (A), a State infrastructure financing authority notifies the Administrator that the State infrastructure financing authority intends to commit funds to the project in an amount that is equal to or greater than the amount requested under the application, the Administrator may not provide any financial assistance for that project under this chapter unless—
       - **(i)** by the date that is 180 days after the date of receipt of a notification under subparagraph (A), the State infrastructure financing authority fails to enter into an assistance agreement to provide funds for the project; or
       - **(ii)** the financial assistance to be provided by the State infrastructure financing authority will be at rates and terms that are less favorable than the rates and terms for financial assistance provided under this chapter.
-  - **(7)**
+  - **(6)**
     - **(A)** The Secretary or the Administrator, as applicable, shall determine whether an applicant for assistance under this chapter has developed, and identified adequate revenues to implement, a plan for operating, maintaining, and repairing the project over the useful life of the project.
     - **(B)** An eligible project described in section 3905(1) of this title that has not been specifically authorized by Congress shall not be eligible for Federal assistance for operations and maintenance.
 - **(b)**

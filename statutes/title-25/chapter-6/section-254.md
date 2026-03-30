@@ -1,13 +1,13 @@
 ---
-title: "Section 254 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
+title: "Section 254 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862"
 usc_title: 25
 usc_section: "254"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 254"
-generated_at: "2026-03-30T04:57:20.109Z"
+generated_at: "2026-03-30T05:00:02.966Z"
 status: "repealed"
 ---
 
-# § 254. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862
+# § 254. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862
 

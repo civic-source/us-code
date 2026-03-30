@@ -3,9 +3,9 @@ title: "Section 701 - Application; definitions"
 usc_title: 5
 usc_section: "701"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 701"
-generated_at: "2026-03-30T04:56:17.695Z"
+generated_at: "2026-03-30T04:59:18.328Z"
 status: "active"
 ---
 
@@ -23,5 +23,5 @@ status: "active"
     - **(E)** agencies composed of representatives of the parties or of representatives of organizations of the parties to the disputes determined by them;
     - **(F)** courts martial and military commissions;
     - **(G)** military authority exercised in the field in time of war or in occupied territory; or
-    - **(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; and
+    - **(H)** functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 1 1 See References in Text note below. and
   - **(2)** “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by section 551 of this title .

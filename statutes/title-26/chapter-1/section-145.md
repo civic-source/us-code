@@ -3,9 +3,9 @@ title: "Section 145 - Qualified 501(c)(3) bond"
 usc_title: 26
 usc_section: "145"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 145"
-generated_at: "2026-03-30T04:58:24.393Z"
+generated_at: "2026-03-30T05:00:47.805Z"
 status: "active"
 ---
 

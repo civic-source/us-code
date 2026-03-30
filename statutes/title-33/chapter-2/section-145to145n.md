@@ -3,9 +3,9 @@ title: "Section 145to145n - Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 
 usc_title: 33
 usc_section: "145to145n"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "33 U.S.C. § 145to145n"
-generated_at: "2026-03-30T04:58:35.438Z"
+generated_at: "2026-03-30T05:00:59.653Z"
 status: "repealed"
 ---
 

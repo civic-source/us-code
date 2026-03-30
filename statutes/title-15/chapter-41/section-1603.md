@@ -3,9 +3,9 @@ title: "Section 1603 - Exempted transactions"
 usc_title: 15
 usc_section: "1603"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1603"
-generated_at: "2026-03-30T04:56:57.437Z"
+generated_at: "2026-03-30T04:59:35.534Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ This subchapter does not apply to the following:
   - **(3)** Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in section 1650(a) of this title ), in which the total amount financed exceeds $50,000.
   - **(4)** Transactions under public utility tariffs, if the Bureau determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
   - **(5)** Transactions for which the Bureau, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
-  - **(6)** Repealed. Pub. L. 96–221, title VI, § 603(c)(3) , Mar. 31, 1980 , 94 Stat. 169 .
+  - **(6)** Repealed. Pub. L. 96–221, title VI , § 603(c)(3), Mar. 31, 1980 , 94 Stat. 169 .
   - **(7)** Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.].

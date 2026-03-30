@@ -3,9 +3,9 @@ title: "Section 1769a - Fresh fruit and vegetable program"
 usc_title: 42
 usc_section: "1769a"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1769a"
-generated_at: "2026-03-30T04:58:57.048Z"
+generated_at: "2026-03-30T05:01:45.147Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(i)** in which not less than 50 percent of the students are eligible for free or reduced price meals under this chapter; and
       - **(ii)** that submits an application in accordance with subparagraph (D);
     - **(B)** to the maximum extent practicable, give the highest priority to schools with the highest proportion of children who are eligible for free or reduced price meals under this chapter;
-    - **(C)** ensure that each school selected is an elementary school (as defined in section 7801 of title 20 );
+    - **(C)** ensure that each school selected is an elementary school (as defined in section 7801 1 1 See References in Text note below. of title 20);
     - **(D)** solicit applications from interested schools that include—
       - **(i)** information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
       - **(ii)** a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);

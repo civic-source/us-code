@@ -3,9 +3,9 @@ title: "Section 5112 - Denominations, specifications, and design of coins"
 usc_title: 31
 usc_section: "5112"
 chapter: 51
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "31 U.S.C. § 5112"
-generated_at: "2026-03-30T04:58:31.062Z"
+generated_at: "2026-03-30T05:00:56.333Z"
 status: "active"
 ---
 
@@ -207,20 +207,14 @@ status: "active"
     - **(B)** The coins referred to in subparagraph (A) shall—
       - **(i)** have inscriptions of the weight of the coin and the nominal denomination of the coin incused in that portion of the design on the reverse of the coin commonly known as the “grassy mound”; and
       - **(ii)** bear such other inscriptions as the Secretary determines to be appropriate.
-  - **(3)** After the 1-year period described to in paragraph (2), the Secretary may—
-    - **(A)** after consulting with the Commission of Fine Arts, and subject to the review of the Citizens Coinage Advisory Committee, change the design on the obverse or reverse of gold bullion coins struck under this subsection; and
-    - **(B)** change the maximum number of coins issued in any year.
-  - **(4)**
+  - **(3)**
     - **(A)** The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
     - **(B)** The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
-  - **(5)** Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
+  - **(4)** Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
     - **(A)** the market value of the bullion at the time of sale; and
     - **(B)** the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping.
-  - **(6)** The coins minted under this title shall be legal tender, as provided in section 5103.
-  - **(7)** For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
-  - **(8)**
-    - **(A)** Each bullion coin having a metallic content as described in subsection (a)(11) and a design specified in paragraph (2) shall be sold in an inexpensive covering that will protect the coin from damage due to ordinary handling or storage.
-    - **(B)** The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
+  - **(5)** The coins minted under this title shall be legal tender, as provided in section 5103.
+  - **(6)** For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 - **(r)**
   - **(1)**
     - **(A)** Effective beginning January 1, 2008 , notwithstanding subsection (d), in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
@@ -313,7 +307,7 @@ status: "active"
   - **(5)** For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
   - **(6)**
     - **(A)** The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) in uncirculated and proof qualities as the Secretary determines to be appropriate.
-    - **(B)** Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
+    - **(B)** Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of not less than 90 percent silver.
   - **(7)**
     - **(A)** Subject to paragraph (2), the program established under this subsection shall continue in effect until a national site in each State has been honored.
     - **(B)**
@@ -339,18 +333,17 @@ status: "active"
     - **(A)** In addition to the authorized dealers utilized by the Secretary in distributing bullion coins and solely for purposes of distributing bullion coins issued under this subsection, the Director of the National Park Service, or the designee of the Director, may purchase numismatic items issued under this subsection, but only in units of no fewer than 1,000 at a time, and the Director, or the Director’s designee, may resell or repackage such numismatic items as the Director determines to be appropriate.
     - **(B)** The Director of the National Park Service, or the designee of the Director, may resell, at cost and without repackaging, numismatic items acquired by the Director or such designee under subparagraph (A) to any party affiliated with any national site honored by a quarter dollar under subsection (t) for repackaging and resale by such party in the same manner and to the same extent as such party would be authorized to engage in such activities under subparagraph (A) if the party were acting as the designee of the Director under such subparagraph.
 - **(v)**
-  - **(1)** Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
+  - **(1)** The Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
   - **(2)**
-    - **(A)** The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
+    - **(A)** To the greatest extent possible, the Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
     - **(B)** The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
   - **(3)** Each coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
     - **(A)** the market value of the bullion at the time of sale; and
     - **(B)** the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, distribution, and shipping.
   - **(4)** For purposes of section 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
-  - **(5)** The Secretary may issue the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
+  - **(5)** The Secretary may issue collectible versions of the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
   - **(6)** Coins minted and issued under this subsection shall bear designs on the obverse and reverse that are close likenesses of the work of famed American coin designer and medallic artist Adolph Alexander Weinman—
     - **(A)** the obverse shall bear a high-relief likeness of the “Winged Liberty” design used on the obverse of the so-called “Mercury dime”;
     - **(B)** the reverse shall bear a high-relief version of the reverse design of the 1907 American Institute of Architects medal; and
     - **(C)** the coin shall bear such other inscriptions, including “Liberty”, “In God We Trust”, “United States of America”, the denomination and weight of the coin and the fineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
   - **(7)** Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
-  - **(8)** The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.

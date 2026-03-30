@@ -3,9 +3,9 @@ title: "Section 746 - Vessels of Fish and Wildlife Service"
 usc_title: 16
 usc_section: "746"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 746"
-generated_at: "2026-03-30T04:57:06.581Z"
+generated_at: "2026-03-30T04:59:58.487Z"
 status: "active"
 ---
 

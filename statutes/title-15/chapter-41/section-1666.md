@@ -3,9 +3,9 @@ title: "Section 1666 - Correction of billing errors"
 usc_title: 15
 usc_section: "1666"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1666"
-generated_at: "2026-03-30T04:56:57.445Z"
+generated_at: "2026-03-30T04:59:35.542Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
   - **(5)** A computation error or similar error of an accounting nature of the creditor on a statement.
   - **(6)** Failure to transmit the statement required under section 1637(b) of this title to the last address of the obligor which has been disclosed to the creditor, unless that address was furnished less than twenty days before the end of the billing cycle for which the statement is required.
   - **(7)** Any other error described in regulations of the Bureau.
-- **(c)** For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a) of this section, if—
-  - **(1)** the obligor’s account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a) of this section, and
+- **(c)** For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a), if—
+  - **(1)** the obligor’s account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a), and
   - **(2)** the creditor indicates the payment of such amount is not required pending the creditor’s compliance with this section.
-- **(d)** Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) of this section that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
+- **(d)** Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
 - **(e)** Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.

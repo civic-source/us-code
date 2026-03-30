@@ -3,9 +3,9 @@ title: "Section 7510 - Exemption from tax of domestic goods purchased for the Un
 usc_title: 26
 usc_section: "7510"
 chapter: 77
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 7510"
-generated_at: "2026-03-30T04:58:24.592Z"
+generated_at: "2026-03-30T05:00:48.017Z"
 status: "active"
 ---
 

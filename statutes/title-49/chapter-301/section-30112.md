@@ -3,9 +3,9 @@ title: "Section 30112 - Prohibitions on manufacturing, selling, and importing no
 usc_title: 49
 usc_section: "30112"
 chapter: 301
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 30112"
-generated_at: "2026-03-30T04:59:03.184Z"
+generated_at: "2026-03-30T05:01:52.693Z"
 status: "active"
 ---
 
@@ -26,5 +26,9 @@ status: "active"
   - **(5)** a motor vehicle imported for personal use by an individual who receives an exemption under section 30142 of this title ;
   - **(6)** a motor vehicle under section 30143 of this title imported by an individual employed outside the United States;
   - **(7)** a motor vehicle under section 30144 of this title imported on a temporary basis;
-  - **(8)** a motor vehicle or item of motor vehicle equipment under section 30145 of this title requiring further manufacturing; or
-  - **(9)** a motor vehicle that is at least 25 years old.
+  - **(8)** a motor vehicle or item of motor vehicle equipment under section 30145 of this title requiring further manufacturing;
+  - **(9)** a motor vehicle that is at least 25 years old; or
+  - **(10)** the introduction of a motor vehicle in interstate commerce solely for purposes of testing or evaluation by a manufacturer that agrees not to sell or offer for sale the motor vehicle at the conclusion of the testing or evaluation and that prior to the date of enactment of this paragraph—
+    - **(A)** has manufactured and distributed motor vehicles into the United States that are certified to comply with all applicable Federal motor vehicle safety standards;
+    - **(B)** has submitted to the Secretary appropriate manufacturer identification information under part 566 of title 49, Code of Federal Regulations; and
+    - **(C)** if applicable, has identified an agent for service of process in accordance with part 551 of such title.

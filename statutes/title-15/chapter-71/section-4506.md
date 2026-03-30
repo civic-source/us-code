@@ -3,16 +3,16 @@ title: "Section 4506 - Termination"
 usc_title: 15
 usc_section: "4506"
 chapter: 71
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 4506"
-generated_at: "2026-03-30T04:56:57.492Z"
+generated_at: "2026-03-30T04:59:35.588Z"
 status: "active"
 ---
 
 # § 4506. Termination
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b) of this section, the provisions of this chapter (other than section 4504 of this title ) shall terminate 90 days after the Secretary—
+  - **(1)** Except as provided in subsection (b), the provisions of this chapter (other than section 4504 of this title ) shall terminate 90 days after the Secretary—
     - **(A)** determines that all of the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter; and
     - **(B)** submits to Congress the final report required by section 4505 of this title .
   - **(2)** Such final report shall include the determination (and the justification thereof) described in paragraph (1)(A). Such report shall also be published in the Federal Register.

@@ -3,9 +3,9 @@ title: "Section 2229 - Strategic policy on prepositioning of materiel and equipm
 usc_title: 10
 usc_section: "2229"
 chapter: 131
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2229"
-generated_at: "2026-03-30T04:56:26.692Z"
+generated_at: "2026-03-30T04:59:28.724Z"
 status: "active"
 ---
 
@@ -26,6 +26,6 @@ status: "active"
   - **(2)** for the purpose of directly supporting a contingency operation or providing humanitarian assistance under chapter 20 of this title.
 - **(c)** The Secretary of Defense may not implement or change the policy required under subsection (a) until the Secretary submits to the congressional defense committees a report describing the policy or change to the policy.
 - **(d)**
-  - **(1)** Not later than the date of the submission of the President’s budget request for a fiscal year under section 1105 of title 31 , the Secretary of Defense shall submit to the congressional defense committees certification 1 1 So in original. Probably should be “a certification”. in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
+  - **(1)** Not later than the date of the submission of the President’s budget request for a fiscal year under section 1105 of title 31 , the Secretary of Defense shall submit to the congressional defense committees a certification in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
   - **(2)** If, for any year, the Secretary cannot certify that any of the prepositioned stocks meet such operations plans, the Secretary shall include with the certification for that year a list of the operations plans affected, a description of any measures that have been taken to mitigate any risk associated with prepositioned stock shortfalls, and an anticipated timeframe for the replenishment of the stocks.
   - **(3)** A certification under this subsection shall be in an unclassified form but may have a classified annex.

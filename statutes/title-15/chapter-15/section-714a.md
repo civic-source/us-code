@@ -3,9 +3,9 @@ title: "Section 714a - Location of offices"
 usc_title: 15
 usc_section: "714a"
 chapter: 15
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 714a"
-generated_at: "2026-03-30T04:56:57.415Z"
+generated_at: "2026-03-30T04:59:35.512Z"
 status: "active"
 ---
 

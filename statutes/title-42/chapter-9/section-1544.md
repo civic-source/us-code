@@ -3,9 +3,9 @@ title: "Section 1544 - Power of Secretary of Housing and Urban Development to ma
 usc_title: 42
 usc_section: "1544"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1544"
-generated_at: "2026-03-30T04:58:57.037Z"
+generated_at: "2026-03-30T05:01:45.136Z"
 status: "active"
 ---
 

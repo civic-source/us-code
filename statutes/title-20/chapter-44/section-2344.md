@@ -3,9 +3,9 @@ title: "Section 2344 - State leadership activities"
 usc_title: 20
 usc_section: "2344"
 chapter: 44
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 2344"
-generated_at: "2026-03-30T04:57:15.794Z"
+generated_at: "2026-03-30T04:59:56.183Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(iv)** effectively use applied learning that contributes to the academic and career and technical knowledge of the student; and
     - **(E)** are coordinated with the teacher certification or licensing and professional development activities that the State carries out under title II of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6601 et seq.] and title II of the Higher Education Act of 1965 [ 20 U.S.C. 1021 et seq.];
   - **(4)** supporting career and technical education programs that improve the academic and career and technical skills of students participating in career and technical education programs by strengthening the academic and career and technical components of such career and technical education programs, through the integration of coherent and relevant content aligned with challenging academic standards and relevant career and technical education, to ensure achievement in—
-    - **(A)** the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]); and
+    - **(A)** a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]); and
     - **(B)** career and technical education subjects;
   - **(5)** providing preparation for non-traditional fields in current and emerging professions, and other activities that expose students, including special populations, to high skill, high wage occupations;
   - **(6)** supporting partnerships among local educational agencies, institutions of higher education, adult education providers, and, as appropriate, other entities, such as employers, labor organizations, intermediaries, parents, and local partnerships, to enable students to achieve State academic standards, and career and technical skills, or complete career and technical programs of study, as described in section 2342(c)(1)(A) of this title ;

@@ -3,33 +3,33 @@ title: "Section 7707 - Construction"
 usc_title: 20
 usc_section: "7707"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7707"
-generated_at: "2026-03-30T04:57:15.846Z"
+generated_at: "2026-03-30T04:59:56.223Z"
 status: "active"
 ---
 
 # § 7707. Construction
 
 - **(a)**
-  - **(1)** From 40 percent of the amount appropriated for each fiscal year under section 7714(e) of this title , the Secretary shall make payments in accordance with this subsection to each local educational agency that receives a basic support payment under section 7703(b) of this title for that fiscal year.
+  - **(1)** From 40 percent of the amount appropriated for each fiscal year under section 7714(d) of this title , the Secretary shall make payments in accordance with this subsection to each local educational agency that receives a basic support payment under section 7703(b) of this title for that fiscal year.
   - **(2)** A local educational agency that receives a basic support payment under section 7703(b)(1) of this title shall also meet at least one of the following requirements:
     - **(A)** The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 50 percent of the total student enrollment in the schools of the agency during the preceding school year.
     - **(B)** The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the agency for the preceding school year constituted at least 50 percent of the total student enrollment in the schools of the agency during the preceding school year.
   - **(3)**
     - **(A)** The amount of a payment to each local educational agency described in this subsection that is impacted by military dependent children for a fiscal year shall be equal to—
       - **(i)**
-        - **(II)** 20 percent of the amount appropriated under section 7714(e) of this title for such fiscal year; divided by
+        - **(I)** 20 percent of the amount appropriated under section 7714(d) of this title for such fiscal year; divided by
         - **(II)** the total number of weighted student units of children described in subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for all local educational agencies described in this subsection (as calculated under section 7703(a)(2) of this title ), including the number of weighted student units of such children attending a school facility described in section 7708(a) of this title if the Secretary does not provide assistance for the school facility under that section for the prior fiscal year; multiplied by
       - **(ii)** the total number of such weighted student units for the agency.
     - **(B)** The amount of a payment to each local educational agency described in this subsection that is impacted by children who reside on Indian lands for a fiscal year shall be equal to—
       - **(i)**
-        - **(I)** 20 percent of the amount appropriated under section 7714(e) of this title for such fiscal year; divided by
+        - **(I)** 20 percent of the amount appropriated under section 7714(d) of this title for such fiscal year; divided by
         - **(II)** the total number of weighted student units of children described in section 7703(a)(1)(C) of this title for all local educational agencies described in this subsection (as calculated under section 7703(a)(2) of this title ); multiplied by
       - **(ii)** the total number of such weighted student units for the agency.
   - **(4)** Any local educational agency that receives funds under this subsection shall use such funds for construction, as defined in section 7713(3) of this title .
 - **(b)**
-  - **(1)** From 60 percent of the amount appropriated for each fiscal year under section 7714(e) of this title , the Secretary—
+  - **(1)** From 60 percent of the amount appropriated for each fiscal year under section 7714(d) of this title , the Secretary—
     - **(A)** shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
     - **(B)** shall award modernization grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out the modernization of school facilities.
   - **(2)** In approving applications from local educational agencies for emergency grants and modernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
@@ -91,8 +91,8 @@ status: "active"
       - **(v)** All projects carried out with Federal funds provided under this subsection shall comply with all relevant Federal, State, and local environmental laws and regulations.
       - **(vi)** A local educational agency that applies for an emergency grant or a modernization grant under this subsection for a fiscal year and does not receive the grant for the fiscal year shall have the application for the grant considered for the following fiscal year, subject to the priority requirements of paragraph (2) and the award criteria requirements of paragraph (4).
     - **(B)** A local educational agency that is awarded an emergency grant under this subsection may not use amounts under the grant for the complete or partial replacement of an existing school facility unless such replacement is less expensive or more cost-effective than correcting the identified emergency.
-  - **(6)** A local educational agency that desires to receive an emergency grant or a modernization grant under this subsection shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall contain the following:
-    - **(A)** A description of how the local educational agency meets the award criteria under paragraph (4), including the information described in clauses (i) through (iv) of paragraph (4)(A) and subparagraphs (B) and (C) of paragraph (4).
+  - **(6)** A local educational agency that desires to receive an emergency grant or a modernization grant under this subsection shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Each application shall contain the following:
+    - **(A)** A description of how the local educational agency meets the award criteria under paragraph (4), including the information described in clauses (i) through (iv) of paragraph (4)(A) and subparagraphs (B) and (C) of paragraph (4), and containing such additional information as may be necessary to meet any award criteria for a grant under this subsection as provided by any other Act.
     - **(B)** In the case of an application for an emergency grant—
       - **(i)** a description of the school facility deficiency that poses a health or safety hazard to the occupants of the facility and a description of how the deficiency will be repaired; and
       - **(ii)** a signed statement from an appropriate local official certifying that a deficiency in the school facility threatens the health or safety of the occupants of the facility or that prevents the use of all or a portion of the building.
@@ -103,4 +103,3 @@ status: "active"
       - **(iv)** a description of the ownership of the property on which the current school facility is located or on which the planned school facility will be located.
     - **(D)** A description of the project for which a grant under this subsection will be used, including a cost estimate for the project.
     - **(E)** A description of the interest in, or authority over, the school facility involved, such as an ownership interest or a lease arrangement.
-    - **(F)** Such other information and assurances as the Secretary may reasonably require.

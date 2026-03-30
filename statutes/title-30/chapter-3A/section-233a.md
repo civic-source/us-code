@@ -3,9 +3,9 @@ title: "Section 233a - Permits or leases of certain lands in Okla­homa; retenti
 usc_title: 30
 usc_section: "233a"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "30 U.S.C. § 233a"
-generated_at: "2026-03-30T04:57:34.626Z"
+generated_at: "2026-03-30T05:00:42.148Z"
 status: "active"
 ---
 

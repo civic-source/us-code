@@ -3,16 +3,16 @@ title: "Section 1275 - Toxicological Advisory Board"
 usc_title: 15
 usc_section: "1275"
 chapter: 30
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1275"
-generated_at: "2026-03-30T04:56:57.431Z"
+generated_at: "2026-03-30T04:59:35.528Z"
 status: "active"
 ---
 
 # § 1275. Toxicological Advisory Board
 
 - **(a)**
-  - **(1)** Within 180 days after November 10, 1978 , the Commission shall establish, in accordance with subsection (b) of this section, a Toxicological Advisory Board (hereinafter in this section referred to as the “Board”) to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
+  - **(1)** Within 180 days after November 10, 1978 , the Commission shall establish, in accordance with subsection (b), a Toxicological Advisory Board (hereinafter in this section referred to as the “Board”) to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
     - **(A)** proper labeling under sections 1261(p)(1) and 1262(b) of this title, with special attention to—
       - **(i)** the description of precautionary measures required under section 1261(p)(1)(F) of this title ;
       - **(ii)** the statement describing the hazards associated with a hazardous substance as required under section 1261(p)(1)(E) of this title ; and

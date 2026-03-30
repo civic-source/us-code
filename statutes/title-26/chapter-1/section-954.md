@@ -3,9 +3,9 @@ title: "Section 954 - Foreign base company income"
 usc_title: 26
 usc_section: "954"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 954"
-generated_at: "2026-03-30T04:58:24.486Z"
+generated_at: "2026-03-30T05:00:47.900Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** the foreign personal holding company income for the taxable year (determined under subsection (c) and reduced as provided in subsection (b)(5)),
   - **(2)** the foreign base company sales income for the taxable year (determined under subsection (d) and reduced as provided in subsection (b)(5)),
   - **(3)** the foreign base company services income for the taxable year (determined under subsection (e) and reduced as provided in subsection (b)(5)),
-  - **[(4)** Repealed. Pub. L. 108–357, title IV, § 415(a)(1) , Oct. 22, 2004 , 118 Stat. 1511 ]
+  - **[(4)** Repealed. Pub. L. 108–357, title IV , § 415(a)(1), Oct. 22, 2004 , 118 Stat. 1511 ]
   - **(5)** the foreign base company oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5)).
 - **(b)**
   - **[(1)**
@@ -78,7 +78,7 @@ status: "active"
   - **(6)**
     - **(A)** For purposes of this subsection, dividends, interest, rents, and royalties received or accrued from a controlled foreign corporation which is a related person shall not be treated as foreign personal holding company income to the extent attributable or properly allocable (determined under rules similar to the rules of subparagraphs (C) and (D) of section 904(d)(3)) to income of the related person which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States. For purposes of this subparagraph, interest shall include factoring income which is treated as income equivalent to interest for purposes of paragraph (1)(E). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of the purposes of this paragraph.
     - **(B)** Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
-    - **(C)** Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005 , and before January 1, 2015 , and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+    - **(C)** Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005 , and before January 1, 2020 , and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 - **(d)**
   - **(1)** For purposes of subsection (a)(2), the term “foreign base company sales income” means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person, the sale of personal property to any person on behalf of a related person, the purchase of personal property from any person and its sale to a related person, or the purchase of personal property from any person on behalf of a related person where—
     - **(A)** the property which is purchased (or in the case of property sold on behalf of a related person, the property which is sold) is manufactured, produced, grown, or extracted outside the country under the laws of which the controlled foreign corporation is created or organized, and
@@ -161,7 +161,6 @@ status: "active"
       - **(ii)** a special purpose entity or arrangement, including a securitization, financing, or similar entity or arrangement,
     - **(D)** a related person, an officer, a director, or an employee with respect to any controlled foreign corporation (or qualified business unit) which would otherwise be treated as a customer of such corporation or unit with respect to any transaction shall not be so treated if a principal purpose of such transaction is to satisfy any requirement of this subsection.
   - **(8)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, subsection (c)(1)(B)(i), subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2).
-  - **(9)** This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998 , and before January 1, 2015 , and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
 - **(i)**
   - **(1)** For purposes of subsection (c)(1), foreign personal holding company income shall not include qualified insurance income of a qualifying insurance company.
   - **(2)** The term “qualified insurance income” means income of a qualifying insurance company which is—

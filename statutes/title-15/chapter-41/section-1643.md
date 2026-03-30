@@ -3,9 +3,9 @@ title: "Section 1643 - Liability of holder of credit card"
 usc_title: 15
 usc_section: "1643"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1643"
-generated_at: "2026-03-30T04:56:57.444Z"
+generated_at: "2026-03-30T04:59:35.540Z"
 status: "active"
 ---
 
@@ -20,6 +20,6 @@ status: "active"
     - **(E)** the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred or may occur as the result of loss, theft, or otherwise; and
     - **(F)** the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
   - **(2)** For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.
-- **(b)** In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a) of this section, have been met.
+- **(b)** In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
 - **(c)** Nothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
 - **(d)** Except as provided in this section, a cardholder incurs no liability from the unauthorized use of a credit card.

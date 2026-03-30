@@ -3,9 +3,9 @@ title: "Section 30C - Alternative fuel vehicle refueling property credit"
 usc_title: 26
 usc_section: "30C"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 30C"
-generated_at: "2026-03-30T04:58:24.361Z"
+generated_at: "2026-03-30T05:00:47.776Z"
 status: "active"
 ---
 
@@ -42,4 +42,4 @@ status: "active"
     - **(B)** in the case of any such property which relates to hydrogen, subsection (b)(1) shall be applied by substituting “$200,000” for “$30,000”.
   - **(7)** For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
 - **(f)** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
-- **(g)** This section shall not apply to any property placed in service after December 31, 2014 .
+- **(g)** This section shall not apply to any property placed in service after December 31, 2016 .

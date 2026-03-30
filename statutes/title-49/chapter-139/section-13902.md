@@ -3,9 +3,9 @@ title: "Section 13902 - Registration of motor carriers"
 usc_title: 49
 usc_section: "13902"
 chapter: 139
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 13902"
-generated_at: "2026-03-30T04:59:03.169Z"
+generated_at: "2026-03-30T05:01:52.677Z"
 status: "active"
 ---
 
@@ -95,4 +95,4 @@ status: "active"
     - **(B)** interchanges under regulations issued by the Secretary if the originating carrier—
       - **(i)** physically transports the cargo at some point; and
       - **(ii)** retains liability for the cargo and for payment of interchanged carriers; and
-  - **(2)** may not arrange transportation described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
+  - **(2)** may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.

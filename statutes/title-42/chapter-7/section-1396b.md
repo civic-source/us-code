@@ -3,9 +3,9 @@ title: "Section 1396b - Payment to States"
 usc_title: 42
 usc_section: "1396b"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1396b"
-generated_at: "2026-03-30T04:58:56.989Z"
+generated_at: "2026-03-30T05:01:45.087Z"
 status: "active"
 ---
 
@@ -136,14 +136,14 @@ status: "active"
   - **(6)** with respect to any amount expended for inpatient hospital tests (other than in emergency situations) not specifically ordered by the attending physician or other responsible practitioner; or
   - **(7)** with respect to any amount expended for clinical diagnostic laboratory tests performed by a physician, independent laboratory, or hospital, to the extent such amount exceeds the amount that would be recognized under section 1395 l (h) of this title for such tests performed for an individual enrolled under part B of subchapter XVIII of this chapter; or
   - **(8)** with respect to any amount expended for medical assistance (A) for nursing facility services to reimburse (or otherwise compensate) a nursing facility for payment of a civil money penalty imposed under section 1396r(h) of this title or (B) for home and community care to reimburse (or otherwise compensate) a provider of such care for payment of a civil money penalty imposed under this subchapter or subchapter XI of this chapter or for legal expenses in defense of an exclusion or civil money penalty under this subchapter or subchapter XI of this chapter if there is no reasonable legal ground for the provider’s case; or
-  - **(9)** Repealed. Pub. L. 104–193, title I, § 114(d)(2) , Aug. 22, 1996 , 110 Stat. 2180 .
+  - **(9)** Repealed. Pub. L. 104–193, title I , § 114(d)(2), Aug. 22, 1996 , 110 Stat. 2180 .
   - **(10)**
     - **(A)** with respect to covered outpatient drugs unless there is a rebate agreement in effect under section 1396r–8 of this title with respect to such drugs or unless section 1396r–8(a)(3) of this title applies,
     - **(B)** with respect to any amount expended for an innovator multiple source drug (as defined in section 1396r–8(k) of this title ) dispensed on or after July 1, 1991 , if, under applicable State law, a less expensive multiple source drug could have been dispensed, but only to the extent that such amount exceeds the upper payment limit for such multiple source drug; 6 6 So in original. The semicolon probably should be a comma.
     - **(C)** with respect to covered outpatient drugs described in section 1396r–8(a)(7) of this title , unless information respecting utilization data and coding on such drugs that is required to be submitted under such section is submitted in accordance with such section, and
     - **(D)** with respect to any amount expended for reimbursement to a pharmacy under this subchapter for the ingredient cost of a covered outpatient drug for which the pharmacy has already received payment under this subchapter (other than with respect to a reasonable restocking fee for such drug); or
   - **(11)** with respect to any amount expended for physicians’ services furnished on or after the first day of the first quarter beginning more than 60 days after the date of establishment of the physician identifier system under section 1396a(x) of this title , unless the claim for the services includes the unique physician identifier provided under such system; or
-  - **(12)** Repealed. Pub. L. 105–33, title IV, § 4742(a) , Aug. 5, 1997 , 111 Stat. 523 .
+  - **(12)** Repealed. Pub. L. 105–33, title IV , § 4742(a), Aug. 5, 1997 , 111 Stat. 523 .
   - **(13)** with respect to any amount expended to reimburse (or otherwise compensate) a nursing facility for payment of legal expenses associated with any action initiated by the facility that is dismissed on the basis that no reasonable legal ground existed for the institution of such action; or
   - **(14)** with respect to any amount expended on administrative costs to carry out the program under section 1396s of this title ; or
   - **(15)** with respect to any amount expended for a single-antigen vaccine and its administration in any case in which the administration of a combined-antigen vaccine was medically appropriate (as determined by the Secretary); or
@@ -159,8 +159,9 @@ status: "active"
     - **(A)** the State demonstrates to the Secretary’s satisfaction that the State made a good faith effort to comply;
     - **(B)** not later than 60 days after the date of a finding that the State is in noncompliance, the State submits to the Secretary (and the Secretary approves) a corrective action plan to remedy such noncompliance; and
     - **(C)** not later than 12 months after the date of such submission (and approval), the State fulfills the terms of such corrective action plan;
-  - **(25)** with respect to any amounts expended for medical assistance for individuals for whom the State does not report enrollee encounter data (as defined by the Secretary) to the Medicaid Statistical Information System (MSIS) in a timely manner (as determined by the Secretary); or
-  - **(26)** with respect to any amounts expended for medical assistance for individuals described in subclause (VIII) of subsection (a)(10)(A)(i) 7 7 Probably means subclause (VIII) of subsection (a)(10)(A)(i) of section 1396a of this title . other than medical assistance provided through benchmark coverage described in section 1396u–7(b)(1) of this title or benchmark equivalent coverage described in section 1396u–7(b)(2) of this title .
+  - **(25)** with respect to any amounts expended for medical assistance for individuals for whom the State does not report enrollee encounter data (as defined by the Secretary) to the Medicaid Statistical Information System (MSIS) in a timely manner (as determined by the Secretary);
+  - **(26)** with respect to any amounts expended for medical assistance for individuals described in subclause (VIII) of subsection (a)(10)(A)(i) 7 7 Probably means subclause (VIII) of subsection (a)(10)(A)(i) of section 1396a of this title . other than medical assistance provided through benchmark coverage described in section 1396u–7(b)(1) of this title or benchmark equivalent coverage described in section 1396u–7(b)(2) of this title ; or
+  - **(27)** with respect to any amounts expended by the State on the basis of a fee schedule for items described in section 1395x(n) of this title and furnished on or after January 1, 2019 , as determined in the aggregate with respect to each class of such items as defined by the Secretary, in excess of the aggregate amount, if any, that would be paid for such items within such class on a fee-for-service basis under the program under part B of subchapter XVIII, including, as applicable, under a competitive acquisition program under section 1395w–3 of this title in an area of the State.
 - **(j)** Notwithstanding the preceding provisions of this section, the amount determined under subsection (a)(1) of this section for any State for any quarter shall be adjusted in accordance with section 1396m of this title .
 - **(k)** The Secretary is authorized to provide at the request of any State (and without cost to such State) such technical and actuarial assistance as may be necessary to assist such State to contract with any medicaid managed care organization which meets the requirements of subsection (m) of this section for the purpose of providing medical care and services to individuals who are entitled to medical assistance under this subchapter.
 - **(l)**
@@ -180,7 +181,7 @@ status: "active"
   - **(2)**
     - **(A)** Except as provided in subparagraphs (B), (C), and (G), no payment shall be made under this subchapter to a State with respect to expenditures incurred by it for payment (determined under a prepaid capitation basis or under any other risk basis) for services provided by any entity (including a health insuring organization) which is responsible for the provision (directly or through arrangements with providers of services) of inpatient hospital services and any other service described in paragraph (2), (3), (4), (5), or (7) of section 1396d(a) of this title or for the provision of any three or more of the services described in such paragraphs unless—
       - **(i)** the Secretary has determined that the entity is a medicaid managed care organization as defined in paragraph (1);
-      - **(ii)** Repealed. Pub. L. 105–33, title IV, § 4703(a) , Aug. 5, 1997 , 111 Stat. 495 .
+      - **(ii)** Repealed. Pub. L. 105–33, title IV , § 4703(a), Aug. 5, 1997 , 111 Stat. 495 .
       - **(iii)** such services are provided for the benefit of individuals eligible for benefits under this subchapter in accordance with a contract between the State and the entity under which prepaid payments to the entity are made on an actuarially sound basis and under which the Secretary must provide prior approval for contracts providing for expenditures in excess of $1,000,000 for 1998 and, for a subsequent year, the amount established under this clause for the previous year increased by the percentage increase in the consumer price index for all urban consumers over the previous year;
       - **(iv)** such contract provides that the Secretary and the State (or any person or organization designated by either) shall have the right to audit and inspect any books and rec­ords of the entity (and of any subcontractor) that pertain (I) to the ability of the entity to bear the risk of potential financial losses, or (II) to services performed or determinations of amounts payable under the contract;
       - **(v)** such contract provides that in the entity’s enrollment, reenrollment, or disenrollment of individuals who are eligible for benefits under this subchapter and eligible to enroll, reenroll, or disenroll with the entity pursuant to the contract, the entity will not discriminate among such individuals on the basis of their health status or requirements for health care services;
@@ -200,14 +201,14 @@ status: "active"
         - **(I)** which received in the fiscal year ending June 30, 1976 , at least $100,000 (by grant, subgrant, or subcontract) under the Appalachian Regional Development Act of 1965, 4 and
         - **(II)** for the period beginning July 1, 1976 , and ending on the expiration of the period for which payments are to be made under this subchapter either has been the recipient of a grant, subgrant, or subcontract under such Act or has provided services under a contract (initially entered into during a year in which the entity was the recipient of such a grant, subgrant, or subcontract) with a State agency under this subchapter on a prepaid capitation risk basis or on any other risk basis; or
       - **(iii)** which has contracted with the single State agency for the provision of services (but not including inpatient hospital services) to persons eligible under this subchapter on a prepaid risk basis prior to 1970.
-    - **(C)** to (E) Repealed. Pub. L. 105–33, title IV, § 4703(b)(1)(A) , Aug. 5, 1997 , 111 Stat. 495 .
-    - **(F)** Repealed. Pub. L. 105–33, title IV, § 4701(d)(2)(B) , Aug. 5, 1997 , 111 Stat. 494 .
+    - **(C)** to (E) Repealed. Pub. L. 105–33, title IV , § 4703(b)(1)(A), Aug. 5, 1997 , 111 Stat. 495 .
+    - **(F)** Repealed. Pub. L. 105–33, title IV , § 4701(d)(2)(B), Aug. 5, 1997 , 111 Stat. 494 .
     - **(G)** In the case of an entity which is receiving (and has received during the previous two years) a grant of at least $100,000 under section 254b(d)(1)(A) or 254c(d)(1) of this title 4 or is receiving (and has received during the previous two years) at least $100,000 (by grant, subgrant, or subcontract) under the Appalachian Regional Development Act of 1965, 4 clause (i) of subparagraph (A) shall not apply.
     - **(H)** In the case of an individual who—
       - **(i)** in a month is eligible for benefits under this subchapter and enrolled with a medicaid managed care organization with a contract under this paragraph or with a primary care case manager with a contract described in section 1396d(t)(3) of this title ,
       - **(ii)** in the next month (or in the next 2 months) is not eligible for such benefits, but
       - **(iii)** in the succeeding month is again eligible for such benefits,
-  - **(3)** Repealed. Pub. L. 101–508, title IV, § 4732(d)(2) , Nov. 5, 1990 , 104 Stat. 1388–196 .
+  - **(3)** Repealed. Pub. L. 101–508, title IV , § 4732(d)(2), Nov. 5, 1990 , 104 Stat. 1388–196 .
   - **(4)**
     - **(A)** Each medicaid managed care organization which is not a qualified health maintenance organization (as defined in section 300e–9(d) 4 of this title) must report to the State and, upon request, to the Secretary, the Inspector General of the Department of Health and Human Services, and the Comptroller General a description of transactions between the organization and a party in interest (as defined in section 300e–17(b) of this title ), including the following transactions:
       - **(i)** Any sale or exchange, or leasing of any property between the organization and such a party.

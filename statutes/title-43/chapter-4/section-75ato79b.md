@@ -3,9 +3,9 @@ title: "Section 75ato79b - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 ,
 usc_title: 43
 usc_section: "75ato79b"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 75ato79b"
-generated_at: "2026-03-30T04:58:49.550Z"
+generated_at: "2026-03-30T05:01:30.793Z"
 status: "repealed"
 ---
 

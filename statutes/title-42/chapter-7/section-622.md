@@ -3,9 +3,9 @@ title: "Section 622 - State plans for child welfare services"
 usc_title: 42
 usc_section: "622"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 622"
-generated_at: "2026-03-30T04:58:56.873Z"
+generated_at: "2026-03-30T05:01:44.969Z"
 status: "active"
 ---
 
@@ -25,10 +25,10 @@ status: "active"
   - **(8)** provide assurances that the State—
     - **(A)** is operating, to the satisfaction of the Secretary—
       - **(i)** a statewide information system from which can be readily determined the status, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
-      - **(ii)** a case review system (as defined in section 675(5) of this title ) for each child receiving foster care under the supervision of the State;
+      - **(ii)** a case review system (as defined in section 675(5) of this title and in accordance with the requirements of section 675a of this title ) for each child receiving foster care under the supervision of the State;
       - **(iii)** a service program designed to help children—
         - **(I)** where safe and appropriate, return to families from which they have been removed; or
-        - **(II)** be placed for adoption, with a legal guardian, or, if adoption or legal guardianship is determined not to be appropriate for a child, in some other planned, permanent living arrangement, which may include a residential educational program; and
+        - **(II)** be placed for adoption, with a legal guardian, or, if adoption or legal guardianship is determined not to be appropriate for a child, in some other planned, permanent living arrangement, subject to the requirements of sections 675(5)(C) and 675a(a) of this title, which may include a residential educational program; and
       - **(iv)** a preplacement preventive services program designed to help children at risk of foster care placement remain safely with their families; and
     - **(B)** has in effect policies and administrative and judicial procedures for children abandoned at or shortly after birth (including policies and procedures providing for legal representation of the children) which enable permanent decisions to be made expeditiously with respect to the placement of the children;
   - **(9)** contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25 ) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act [ 25 U.S.C. 1901 et seq.];

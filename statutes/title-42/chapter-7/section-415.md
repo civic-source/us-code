@@ -3,9 +3,9 @@ title: "Section 415 - Computation of primary insurance amount"
 usc_title: 42
 usc_section: "415"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 415"
-generated_at: "2026-03-30T04:58:56.862Z"
+generated_at: "2026-03-30T05:01:44.956Z"
 status: "active"
 ---
 
@@ -148,7 +148,7 @@ For the purposes of this subchapter—
     - **(D)** A recomputation under this paragraph with respect to any year shall be effective—
       - **(i)** in the case of an individual who did not die in that year, for monthly benefits beginning with benefits for January of the following year; or
       - **(ii)** in the case of an individual who died in that year, for monthly benefits beginning with benefits for the month in which he died.
-  - **(3)** Repealed. Pub. L. 95–216, title II, § 201(f)(2) , Dec. 20, 1977 , 91 Stat. 1521 .
+  - **(3)** Repealed. Pub. L. 95–216, title II , § 201(f)(2), Dec. 20, 1977 , 91 Stat. 1521 .
   - **(4)** A recomputation shall be effective under this subsection only if it increases the primary insurance amount by at least $1.
   - **(5)** In the case of a man who became entitled to old-age insurance benefits and died before the month in which he attained retirement age (as defined in section 416( l ) of this title), the Commissioner of Social Security shall recompute his primary insurance amount as provided in subsection (a) of this section as though he became entitled to old-age insurance benefits in the month in which he died; except that (i) his computation base years referred to in subsection (b)(2) of this section shall include the year in which he died, and (ii) his elapsed years referred to in subsection (b)(3) of this section shall not include the year in which he died or any year thereafter. Such recomputation of such primary insurance amount shall be effective for and after the month in which he died.
   - **(6)** Upon the death after 1967 of an individual entitled to benefits under section 402(a) or section 423 of this title , if any person is entitled to monthly benefits or a lump-sum death payment, on the wages and self-employment income of such individual, the Commissioner of Social Security shall recompute the decedent’s primary insurance amount, but only if the decedent during his lifetime was paid compensation which was treated under section 405( o ) of this title as remuneration for employment.

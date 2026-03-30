@@ -3,9 +3,9 @@ title: "Section 25A - Hope and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T04:58:24.358Z"
+generated_at: "2026-03-30T05:00:47.774Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
       - **(i)** such dollar amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
     - **(B)** If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
-- **(i)** In the case of any taxable year beginning after 2008 and before 2018—
+- **(i)** In the case of any taxable year beginning after 2008—
   - **(1)** The Hope Scholarship Credit shall be an amount equal to the sum of—
     - **(A)** 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
     - **(B)** 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.
@@ -90,5 +90,15 @@ status: "active"
       - **(ii)** $80,000 ($160,000 in the case of a joint return), bears to
     - **(B)** $10,000 ($20,000 in the case of a joint return).
   - **(5)** 40 percent of so much of the credit allowed under subsection (a) as is attributable to the Hope Scholarship Credit (determined after application of paragraph (4) and without regard to this paragraph and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
-  - **(6)** In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008 applies for any taxable year, such taxpayer may elect to waive the application of this subsection to such taxpayer for such taxable year.
+  - **(6)**
+    - **(A)** The requirements of subsection (g)(1) shall not be treated as met with respect to the Hope Scholarship Credit unless the individual’s taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
+    - **(B)** No Hope Scholarship Credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return for the taxable year.
+    - **(C)** No Hope Scholarship Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
+  - **(7)**
+    - **(A)**
+      - **(i)** No credit shall be allowed under this section for any taxable year in the disallowance period.
+      - **(ii)** For purposes of clause (i), the disallowance period is—
+        - **(I)** the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer’s claim of credit under this section was due to fraud, and
+        - **(II)** the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer’s claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
+    - **(B)** In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
 - **(j)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.

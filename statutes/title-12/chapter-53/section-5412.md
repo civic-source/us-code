@@ -3,9 +3,9 @@ title: "Section 5412 - Powers and duties transferred"
 usc_title: 12
 usc_section: "5412"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 5412"
-generated_at: "2026-03-30T04:56:55.547Z"
+generated_at: "2026-03-30T04:59:33.665Z"
 status: "active"
 ---
 

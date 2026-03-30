@@ -1,13 +1,13 @@
 ---
-title: "Section 344a - Repealed. Act Nov. 24, 1942, ch. 640, § 4 , 56 Stat. 1022"
+title: "Section 344a - Repealed. Act Nov. 24, 1942, ch. 640 , § 4, 56 Stat. 1022"
 usc_title: 25
 usc_section: "344a"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 344a"
-generated_at: "2026-03-30T04:57:20.111Z"
+generated_at: "2026-03-30T05:00:02.970Z"
 status: "repealed"
 ---
 
-# § 344a. Repealed. Act Nov. 24, 1942, ch. 640, § 4 , 56 Stat. 1022
+# § 344a. Repealed. Act Nov. 24, 1942, ch. 640 , § 4, 56 Stat. 1022
 

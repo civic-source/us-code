@@ -3,9 +3,9 @@ title: "Section 3733 - Overseas Private Investment Corporation initiatives"
 usc_title: 19
 usc_section: "3733"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3733"
-generated_at: "2026-03-30T04:57:10.219Z"
+generated_at: "2026-03-30T04:59:42.918Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is the sense of the Congress that the Overseas Private Investment Corporation should exercise the authorities it has to initiate an equity fund or equity funds in support of projects in the countries in sub-Saharan Africa, in addition to the existing equity fund for sub-Saharan Africa created by the Corporation.
 - **(b)**
-  - **(1)** Each fund initiated under subsection (a) of this section should be structured as a partnership managed by professional private sector fund managers and monitored on a continuing basis by the Corporation.
+  - **(1)** Each fund initiated under subsection (a) should be structured as a partnership managed by professional private sector fund managers and monitored on a continuing basis by the Corporation.
   - **(2)** Each fund should be capitalized with a combination of private equity capital, which is not guaranteed by the Corporation, and debt for which the Corporation provides guaranties.
   - **(3)** One or more of the funds, with combined assets of up to $500,000,000, should be used in support of infrastructure projects in countries of sub-Saharan Africa.
   - **(4)** The Corporation shall ensure that the funds are used to provide support in particular to women entrepreneurs and to innovative investments that expand opportunities for women and maximize employment opportunities for poor individuals.

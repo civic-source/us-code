@@ -3,9 +3,9 @@ title: "Section 21303 - Powers"
 usc_title: 36
 usc_section: "21303"
 chapter: 213
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "36 U.S.C. § 21303"
-generated_at: "2026-03-30T04:58:38.105Z"
+generated_at: "2026-03-30T05:01:10.199Z"
 status: "active"
 ---
 

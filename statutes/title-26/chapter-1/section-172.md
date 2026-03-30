@@ -3,9 +3,9 @@ title: "Section 172 - Net operating loss deduction"
 usc_title: 26
 usc_section: "172"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 172"
-generated_at: "2026-03-30T04:58:24.405Z"
+generated_at: "2026-03-30T05:00:47.816Z"
 status: "active"
 ---
 
@@ -59,7 +59,7 @@ status: "active"
     - **(B)** the modifications specified in paragraphs (1), (2)(B), and (3) shall be taken into account;
     - **(C)** any deduction for casualty or theft losses allowable under paragraph (2) or (3) of section 165(c) shall be treated as attributable to the trade or business; and
     - **(D)** any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
-  - **(5)** The deductions allowed by section 1 1 So in original. Probably should be “sections”. 243 (relating to dividends received by corporations) and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitation on aggregate amount of deductions).
+  - **(5)** The deductions allowed by section 2 2 So in original. Probably should be “sections”. 243 (relating to dividends received by corporations) and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitation on aggregate amount of deductions).
   - **(6)** In the case of any taxable year for which part II of subchapter M (relating to real estate investment trusts) applies to the taxpayer—
     - **(A)** the net operating loss for such taxable year shall be computed by taking into account the adjustments described in section 857(b)(2) (other than the deduction for dividends paid described in section 857(b)(2)(B)); and
     - **(B)** where such taxable year is a “prior taxable year” referred to in paragraph (2) of subsection (b), the term “taxable income” in such paragraph shall mean “real estate investment trust taxable income” (as defined in section 857(b)(2)).

@@ -3,9 +3,9 @@ title: "Section 2134 - Two-year residual authority to negotiate duties"
 usc_title: 19
 usc_section: "2134"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2134"
-generated_at: "2026-03-30T04:57:10.192Z"
+generated_at: "2026-03-30T04:59:42.888Z"
 status: "active"
 ---
 
@@ -16,9 +16,9 @@ status: "active"
   - **(2)** may proclaim such modification or continuance of any existing duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any such trade agreement.
 - **(b)** Agreements entered into under this section in any 1-year period shall not provide for the reduction of duties, or the continuance of duty-free or excise treatment, for articles which account for more than 2 percent of the value of United States imports for the most recent 12-month period for which import statistics are available.
 - **(c)**
-  - **(1)** No proclamation shall be made pursuant to subsection (a) of this section decreasing any rate of duty to a rate which is less than 80 percent of the existing rate of duty.
-  - **(2)** No proclamation shall be made pursuant to subsection (a) of this section decreasing or increasing any rate of duty to a rate which is lower or higher than the corresponding rate which would have resulted if the maximum authority granted by section 2111 of this title with respect to such article had been exercised.
-  - **(3)** Where the rate of duty in effect at any time is an intermediate stage under section 2119 of this title , the proclamation made pursuant to subsection (a) of this section may provide for the reduction of each rate of duty at each such stage proclaimed under section 2111 of this title by not more than 20 percent of such rate of duty, and, subject to the limitation in paragraph (2), may provide for a final rate of duty which is not less than 80 percent of the rate of duty proclaimed as the final stage under section 2111 of this title .
+  - **(1)** No proclamation shall be made pursuant to subsection (a) decreasing any rate of duty to a rate which is less than 80 percent of the existing rate of duty.
+  - **(2)** No proclamation shall be made pursuant to subsection (a) decreasing or increasing any rate of duty to a rate which is lower or higher than the corresponding rate which would have resulted if the maximum authority granted by section 2111 of this title with respect to such article had been exercised.
+  - **(3)** Where the rate of duty in effect at any time is an intermediate stage under section 2119 of this title , the proclamation made pursuant to subsection (a) may provide for the reduction of each rate of duty at each such stage proclaimed under section 2111 of this title by not more than 20 percent of such rate of duty, and, subject to the limitation in paragraph (2), may provide for a final rate of duty which is not less than 80 percent of the rate of duty proclaimed as the final stage under section 2111 of this title .
   - **(4)** If the President determines that such action will simplify the computation of the amount of duty imposed with respect to an article, he may exceed the limitations provided by paragraphs (1) and (2) of this subsection by not more than the lesser of—
     - **(A)** the difference between such limitation and the next lower whole number, or
     - **(B)** one-half of 1 percent ad valorem.

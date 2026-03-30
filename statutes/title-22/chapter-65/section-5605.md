@@ -3,9 +3,9 @@ title: "Section 5605 - Sanctions against use of chemical or biological weapons"
 usc_title: 22
 usc_section: "5605"
 chapter: 65
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 5605"
-generated_at: "2026-03-30T04:57:26.742Z"
+generated_at: "2026-03-30T05:00:34.911Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** licenses for the export to that country of any item on the United States Munitions List.
   - **(3)** The United States Government shall terminate all foreign military financing for that country under the Arms Export Control Act.
   - **(4)** The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, including the Export-Import Bank of the United States.
-  - **(5)** The authorities of section 2405 of title 50 , Appendix, shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 2404(c)(1) of title 50 , Appendix.
+  - **(5)** The authorities of section 4605 of title 50 shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 4604(c)(1) of title 50 .
 - **(b)**
   - **(1)** Unless, within 3 months after making a determination pursuant to section 5604(a)(1) of this title with respect to a foreign government, the President determines and certifies in writing to the Congress that—
     - **(A)** that government is no longer using chemical or biological weapons in violation of international law or using lethal chemical or biological weapons against its own nationals,
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** The sanctions referred to in paragraph (1) are the following:
     - **(A)** The United States Government shall oppose, in accordance with section 262d of this title , the extension of any loan or financial or technical assistance to that country by international financial institutions.
     - **(B)** The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities or products.
-    - **(C)** The authorities of section 2405 of title 50 , Appendix, shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
+    - **(C)** The authorities of section 4605 of title 50 shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
     - **(D)** Restrictions shall be imposed on the importation into the United States of articles (which may include petroleum or any petroleum product) that are the growth, product, or manufacture of that country.
     - **(E)** The President shall use his constitutional authorities to downgrade or suspend diplomatic relations between the United States and the government of that country.
     - **(F)**
@@ -54,5 +54,5 @@ status: "active"
 - **(e)**
   - **(1)**
     - **(A)** A sanction described in paragraph (4) or (5) of subsection (a) or in any of subparagraphs (A) through (D) of subsection (b)(2) shall not apply to any activity pursuant to any contract or international agreement entered into before the date of the presidential determination under section 5604(a)(1) of this title unless the President determines, on a case-by-case basis, that to apply such sanction to that activity would prevent the performance of a contract or agreement that would have the effect of assisting a country in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals.
-    - **(B)** The same restrictions of subsection (p) of section 2405 of title 50 , Appendix, as that subsection is so redesignated by section 304(b) of this title , which are applicable to exports prohibited under section 2405 of title 50 , Appendix, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 2405(p) of title 50 , Appendix.
+    - **(B)** The same restrictions of subsection (p) of section 4605 of title 50 , as that subsection is so redesignated by section 304(b) of this title , which are applicable to exports prohibited under section 4605 of title 50 , shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 4605(p) of title 50 .
   - **(2)** The sanctions described in paragraphs (1), (2), and (3) of subsection (a) shall apply to contracts, agreements, and licenses without regard to the date the contract or agreement was entered into or the license was issued (as the case may be), except that such sanctions shall not apply to any contract or agreement entered into or license issued before the date of the presidential determination under section 5604(a)(1) of this title if the President determines that the application of such sanction would be detrimental to the national security interests of the United States.

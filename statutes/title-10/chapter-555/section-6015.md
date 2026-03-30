@@ -1,13 +1,13 @@
 ---
-title: "Section 6015 - Repealed. Pub. L. 103–160, div. A, title V, § 541(a) , Nov. 30, 1993 , 107 Stat. 1659 ]"
+title: "Section 6015 - Repealed. Pub. L. 103–160, div. A, title V , § 541(a), Nov. 30, 1993 , 107 Stat. 1659 ]"
 usc_title: 10
 usc_section: "6015"
 chapter: 555
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 6015"
-generated_at: "2026-03-30T04:56:26.734Z"
+generated_at: "2026-03-30T04:59:28.769Z"
 status: "repealed"
 ---
 
-# [§ 6015. Repealed. Pub. L. 103–160, div. A, title V, § 541(a) , Nov. 30, 1993 , 107 Stat. 1659 ]
+# [§ 6015. Repealed. Pub. L. 103–160, div. A, title V , § 541(a), Nov. 30, 1993 , 107 Stat. 1659 ]
 

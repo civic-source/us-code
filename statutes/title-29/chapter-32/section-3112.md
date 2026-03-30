@@ -3,9 +3,9 @@ title: "Section 3112 - Unified State plan"
 usc_title: 29
 usc_section: "3112"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 3112"
-generated_at: "2026-03-30T04:57:30.744Z"
+generated_at: "2026-03-30T05:00:39.953Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
         - **(IV)** the appeals process referred to in section 3151(h)(2)(E) of this title , relating to determinations for infrastructure funding; and
         - **(V)** with respect to youth workforce investment activities authorized in section 3164 of this title , information identifying the criteria to be used by local boards in awarding grants for youth workforce investment activities and describing how the local boards will take into consideration the ability of the providers to meet performance accountability measures based on primary indicators of performance for the youth program as described in section 3141(b)(2)(A)(ii) of this title in awarding such grants;
       - **(ii)** with respect to activities carried out under subchapter II, a description of—
-        - **(I)** how the eligible agency will, if applicable, align content standards for adult education with State-adopted challenging academic content standards, as adopted under section 6311(b)(1) of title 20 ;
+        - **(I)** how the eligible agency will, if applicable, align content standards for adult education with challenging State academic standards, as adopted under section 6311(b)(1) of title 20 ;
         - **(II)** how the State will fund local activities using considerations specified in section 3321(e) of this title for—
         - **(III)** how the State will use the funds to carry out activities under section 3303 of this title ;
         - **(IV)** how the State will use the funds to carry out activities under section 3333 of this title ;

@@ -3,9 +3,9 @@ title: "Section 9504 - Sport Fish Restoration and Boating Trust Fund"
 usc_title: 26
 usc_section: "9504"
 chapter: 98
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 9504"
-generated_at: "2026-03-30T04:58:24.604Z"
+generated_at: "2026-03-30T05:00:48.028Z"
 status: "active"
 ---
 
@@ -17,13 +17,13 @@ status: "active"
     - **(A)** the taxes imposed by section 4161(a) (relating to sport fishing equipment), and
     - **(B)** the import duties imposed on fishing tackle under heading 9507 of the Harmonized Tariff Schedule of the United States ( 19 U.S.C. 1202 ) and on yachts and pleasure craft under chapter 89 of the Harmonized Tariff Schedule of the United States.
   - **(2)** Amounts in the Sport Fish Restoration and Boating Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
-    - **(A)** to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2015),
-    - **(B)** to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2015), and
-    - **(C)** to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2015).
-- **(c)** Amounts remaining in the Boat Safety Account on October 1, 2005 , and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010 , to carry out the purposes of section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
+    - **(A)** to carry out the purposes of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the FAST Act),
+    - **(B)** to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the FAST Act), and
+    - **(C)** to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the FAST Act).
+- **(c)** Amounts remaining in the Boat Safety Account on October 1, 2005 , and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010 , to carry out the purposes of section 15 1 1 See References in Text note below. of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), no amount may be appropriated or paid to the Sport Fish Restoration and Boating Trust Fund on and after the date of any expenditure from such Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
     - **(A)** any provision of law which is not contained or referenced in this title or in a revenue Act, and
     - **(B)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
-  - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before November 21, 2015 , in accordance with the provisions of this section.
+  - **(2)** Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020 , in accordance with the provisions of this section.
 - **(e)** For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(3).

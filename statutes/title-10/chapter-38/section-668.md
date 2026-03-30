@@ -3,9 +3,9 @@ title: "Section 668 - Definitions"
 usc_title: 10
 usc_section: "668"
 chapter: 38
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 668"
-generated_at: "2026-03-30T04:56:26.648Z"
+generated_at: "2026-03-30T04:59:28.678Z"
 status: "active"
 ---
 
@@ -16,8 +16,9 @@ status: "active"
     - **(A)** national military strategy;
     - **(B)** strategic planning and contingency planning;
     - **(C)** command and control of operations under unified command;
-    - **(D)** national security planning with other departments and agencies of the United States; or
-    - **(E)** combined operations with military forces of allied nations.
+    - **(D)** national security planning with other departments and agencies of the United States;
+    - **(E)** combined operations with military forces of allied nations; or
+    - **(F)** acquisition matters addressed by military personnel and covered under chapter 87 of this title.
   - **(2)** In the context of joint matters, the term “integrated military forces” refers to military forces that are involved in the planning or execution (or both) of operations involving participants from—
     - **(A)** more than one military department; or
     - **(B)** a military department and one or more of the following:

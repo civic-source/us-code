@@ -3,9 +3,9 @@ title: "Section 3913 - Reports on pilot program implementation"
 usc_title: 33
 usc_section: "3913"
 chapter: 52
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "33 U.S.C. § 3913"
-generated_at: "2026-03-30T04:58:35.508Z"
+generated_at: "2026-03-30T05:00:59.740Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(E)** the benefits and impacts of implementation of this chapter, including the public benefit provided by the projects selected for assistance under this chapter, including, as applicable, water quality and water quantity improvement, the protection of drinking water, and the reduction of flood risk; and
     - **(F)** an evaluation of the feasibility of attracting non-Federal public or private financing for water infrastructure projects as a result of the implementation of this chapter.
   - **(2)** The report under paragraph (1) shall include—
-    - **(A)** an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
+    - **(A)** an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) 1 1 See References in Text note below. of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
     - **(B)** a recommendation as to whether the objectives of this chapter would be best served—
       - **(i)** by continuing the authority of the Secretary or the Administrator, as applicable, to provide assistance under this chapter;
       - **(ii)** by establishing a Government corporation or Government-sponsored enterprise to provide assistance in accordance with this chapter; or

@@ -3,9 +3,9 @@ title: "Section 2272 - Group eligibility requirements; agricultural workers; oil
 usc_title: 19
 usc_section: "2272"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2272"
-generated_at: "2026-03-30T04:57:10.194Z"
+generated_at: "2026-03-30T04:59:42.891Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(ii)** the shift described in clause (i)(I) or the acquisition of articles or services described in clause (i)(II) contributed importantly to such workers’ separation or threat of separation.
 - **(b)** A group of workers shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
   - **(1)** a significant number or proportion of the workers in the workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated;
-  - **(2)** the workers’ firm is a supplier or downstream producer to a firm that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article or service that was the basis for such certification (as defined in subsection (c)(3) and (4) of this section); and
+  - **(2)** the workers’ firm is a supplier or downstream producer to a firm that employed a group of workers who received a certification of eligibility under subsection (a), and such supply or production is related to the article or service that was the basis for such certification (as defined in subsection (c)(3) and (4)); and
   - **(3)** either—
     - **(A)** the workers’ firm is a supplier and the component parts it supplied to the firm described in paragraph (2) accounted for at least 20 percent of the production or sales of the workers’ firm; or
     - **(B)** a loss of business by the workers’ firm with the firm described in paragraph (2) contributed importantly to the workers’ separation or threat of separation determined under paragraph (1).
@@ -40,7 +40,7 @@ status: "active"
   - **(3)**
     - **(A)** The term “downstream producer” means a firm that performs additional, value-added production processes or services directly for another firm for articles or services with respect to which a group of workers in such other firm has been certified under subsection (a).
     - **(B)** For purposes of subparagraph (A), value-added production processes or services include final assembly, finishing, testing, packaging, or maintenance or transportation services.
-  - **(4)** The term “supplier” means a firm that produces and supplies directly to another firm component parts for articles, or services, used in the production of articles or in the supply of services, as the case may be, that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm.
+  - **(4)** The term “supplier” means a firm that produces and supplies directly to another firm component parts for articles, or services, used in the production of articles or in the supply of services, as the case may be, that were the basis for a certification of eligibility under subsection (a) of a group of workers employed by such other firm.
 - **(d)**
   - **(1)** The Secretary shall, in determining whether to certify a group of workers under section 2273 of this title , obtain from the workers’ firm, or a customer of the workers’ firm, information the Secretary determines to be necessary to make the certification, through questionnaires and in such other manner as the Secretary determines appropriate.
   - **(2)** The Secretary may seek additional information to determine whether to certify a group of workers under subsection (a) or (b)—
@@ -48,7 +48,7 @@ status: "active"
       - **(i)** officials or employees of the workers’ firm;
       - **(ii)** officials of customers of the workers’ firm;
       - **(iii)** officials of certified or recognized unions or other duly authorized representatives of the group of workers; or
-      - **(iv)** one-stop operators or one-stop partners (as defined in section 2801 of title 29 ); or
+      - **(iv)** one-stop operators or one-stop partners (as defined in section 3102 of title 29 ); or
     - **(B)** by using other available sources of information.
   - **(3)**
     - **(A)** The Secretary shall require a firm or customer to certify—

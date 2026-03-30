@@ -3,9 +3,9 @@ title: "Section 1411 - National Customs Automation Program"
 usc_title: 19
 usc_section: "1411"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1411"
-generated_at: "2026-03-30T04:57:10.170Z"
+generated_at: "2026-03-30T04:59:42.864Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(E)** The electronic penalty process.
     - **(F)** The electronic filing of drawback claims, records, or entries.
     - **(G)** Any other component initiated by the Customs Service to carry out the goals of this subpart.
-- **(b)** The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+- **(b)** The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 - **(c)** Not later than January 1, 2000 , the Secretary shall provide for the inclusion of commercial importation data from foreign-trade zones under the Program.
 - **(d)**
   - **(1)**

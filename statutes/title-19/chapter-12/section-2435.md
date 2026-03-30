@@ -3,9 +3,9 @@ title: "Section 2435 - Commercial agreements"
 usc_title: 19
 usc_section: "2435"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2435"
-generated_at: "2026-03-30T04:57:10.200Z"
+generated_at: "2026-03-30T04:59:42.896Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
   - **(8)** in the case of an agreement entered into or renewed after January 3, 1975 , provide arrangements for the promotion of trade, which may include arrangements for the establishment or expansion of trade and tourist promotion offices, for facilitation of activities of governmental commercial officers, participation in trade fairs and exhibits, and the sending of trade missions, and for facilitation of entry, establishment, and travel of commercial representatives;
   - **(9)** provide for consultations for the purpose of reviewing the operation of the agreement and relevant aspects of relations between the United States and the other party; and
   - **(10)** provide such other arrangements of a commercial nature as will promote the purposes of this chapter.
-- **(c)** An agreement referred to in subsection (a) of this section, and a proclamation referred to in section 2434(a) of this title implementing such agreement, shall take effect only if a joint resolution described in section 2191(b)(3) of this title that approves of the agreement referred to in subsection (a) of this section is enacted into law.
+- **(c)** An agreement referred to in subsection (a), and a proclamation referred to in section 2434(a) of this title implementing such agreement, shall take effect only if a joint resolution described in section 2191(b)(3) of this title that approves of the agreement referred to in subsection (a) is enacted into law.

@@ -3,9 +3,9 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-30T04:58:57.202Z"
+generated_at: "2026-03-30T05:01:45.310Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
     - **(C)** The Secretary shall not have authority to carry out transactions under paragraph (1) until the guidelines for transactions required under subparagraph (A) are final.
   - **(7)** The annual report of the head of an executive agency under section 2371(h) 1 1 See References in Text note below. of title 10 shall be submitted to Congress.
   - **(8)**
-    - **(A)** In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 10 U.S.C. 2371 note).
+    - **(A)** In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) 1 of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 10 U.S.C. 2371 note).
     - **(B)** Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—
       - **(i)** the use by the Department of authorities under this section, including the ability to attract nontraditional Government contractors; and
       - **(ii)** whether additional safeguards are necessary to carry out the authorities.

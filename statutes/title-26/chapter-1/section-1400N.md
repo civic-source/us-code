@@ -3,9 +3,9 @@ title: "Section 1400N - Tax benefits for Gulf Opportunity Zone"
 usc_title: 26
 usc_section: "1400N"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 1400N"
-generated_at: "2026-03-30T04:58:24.509Z"
+generated_at: "2026-03-30T05:00:47.924Z"
 status: "active"
 ---
 
@@ -104,7 +104,7 @@ status: "active"
       - **(iv)** which is acquired by the taxpayer by purchase (as defined in section 179(d)) on or after August 28, 2005 , but only if no written binding contract for the acquisition was in effect before August 28, 2005 , and
       - **(v)** which is placed in service by the taxpayer on or before December 31, 2007 ( December 31, 2008 , in the case of nonresidential real property and residential rental property).
     - **(B)**
-      - **(i)** Such term shall not include any property described in section 168(k)(2)(D)(i).
+      - **(i)** Such term shall not include any property described in section 168(k)(2)(D)(i). 1 1 See References in Text note below.
       - **(ii)** Such term shall not include any property any portion of which is financed with the proceeds of any obligation the interest on which is exempt from tax under section 103.
       - **(iii)** Such term shall not include any qualified revitalization building with respect to which the taxpayer has elected the application of paragraph (1) or (2) of section 1400I(a).
       - **(iv)** If a taxpayer makes an election under this clause with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year.

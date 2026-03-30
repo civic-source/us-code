@@ -3,9 +3,9 @@ title: "Section 130f - Congressional notification of sensitive military operatio
 usc_title: 10
 usc_section: "130f"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 130f"
-generated_at: "2026-03-30T04:56:26.633Z"
+generated_at: "2026-03-30T04:59:28.662Z"
 status: "active"
 ---
 
@@ -21,5 +21,7 @@ status: "active"
   - **(2)** any other authority except—
     - **(A)** a declaration of war; or
     - **(B)** a specific statutory authorization for the use of force other than the authorization referred to in paragraph (1).
-- **(e)** The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force ( Public Law 107–40 ; 50 U.S.C. 1541 note).
+- **(e)**
+  - **(1)** The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force ( Public Law 107–40 ; 50 U.S.C. 1541 note).
+  - **(2)** The exception in paragraph (1) shall cease to be in effect at the close of December 31, 2017 .
 - **(f)** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ( 50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force ( Public Law 107–40 ; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 ( 50 U.S.C. 3001 et seq.).

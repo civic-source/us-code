@@ -1,13 +1,13 @@
 ---
-title: "Section 6285 - Repealed. Pub. L. 109–58, title III, § 301(b)(3) , Aug. 8, 2005 , 119 Stat. 683"
+title: "Section 6285 - Repealed. Pub. L. 109–58, title III , § 301(b)(3), Aug. 8, 2005 , 119 Stat. 683"
 usc_title: 42
 usc_section: "6285"
 chapter: 77
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 6285"
-generated_at: "2026-03-30T04:58:57.169Z"
+generated_at: "2026-03-30T05:01:45.274Z"
 status: "repealed"
 ---
 
-# § 6285. Repealed. Pub. L. 109–58, title III, § 301(b)(3) , Aug. 8, 2005 , 119 Stat. 683
+# § 6285. Repealed. Pub. L. 109–58, title III , § 301(b)(3), Aug. 8, 2005 , 119 Stat. 683
 

@@ -3,9 +3,9 @@ title: "Section 17951 - Relationship to other laws"
 usc_title: 42
 usc_section: "17951"
 chapter: 156
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 17951"
-generated_at: "2026-03-30T04:58:57.404Z"
+generated_at: "2026-03-30T05:01:45.812Z"
 status: "active"
 ---
 

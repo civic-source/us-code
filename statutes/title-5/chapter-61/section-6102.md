@@ -1,13 +1,13 @@
 ---
-title: "Section 6102 - Repealed. Pub. L. 92–392, § 7(a) , Aug. 19, 1972 , 86 Stat. 573 ]"
+title: "Section 6102 - Repealed. Pub. L. 92–392 , § 7(a), Aug. 19, 1972 , 86 Stat. 573 ]"
 usc_title: 5
 usc_section: "6102"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 6102"
-generated_at: "2026-03-30T04:56:17.717Z"
+generated_at: "2026-03-30T04:59:18.352Z"
 status: "repealed"
 ---
 
-# [§ 6102. Repealed. Pub. L. 92–392, § 7(a) , Aug. 19, 1972 , 86 Stat. 573 ]
+# [§ 6102. Repealed. Pub. L. 92–392 , § 7(a), Aug. 19, 1972 , 86 Stat. 573 ]
 

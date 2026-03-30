@@ -3,9 +3,9 @@ title: "Section 922 - Administration of defense dependents’ education system"
 usc_title: 20
 usc_section: "922"
 chapter: 25
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 922"
-generated_at: "2026-03-30T04:57:15.719Z"
+generated_at: "2026-03-30T04:59:56.102Z"
 status: "active"
 ---
 

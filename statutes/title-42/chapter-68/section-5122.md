@@ -3,9 +3,9 @@ title: "Section 5122 - Definitions"
 usc_title: 42
 usc_section: "5122"
 chapter: 68
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 5122"
-generated_at: "2026-03-30T04:58:57.145Z"
+generated_at: "2026-03-30T05:01:45.249Z"
 status: "active"
 ---
 
@@ -32,5 +32,5 @@ As used in this chapter—
     - **(D)** Any park.
   - **(11)**
     - **(A)** The term “private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
-    - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
+    - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, broadcasting facilities, and facilities that provide health and safety services of a governmental nature), as defined by the President.
   - **(12)** The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.

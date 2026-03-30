@@ -3,9 +3,9 @@ title: "Section 1615 - Prohibition on use of “Rule of 78’s” in connection 
 usc_title: 15
 usc_section: "1615"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1615"
-generated_at: "2026-03-30T04:56:57.438Z"
+generated_at: "2026-03-30T04:59:35.535Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** This subsection shall apply with respect to any prepayment of a consumer credit transaction described in paragraph (1) without regard to the manner or the reason for the prepayment, including—
     - **(A)** any prepayment made in connection with the refinancing, consolidation, or restructuring of the transaction; and
     - **(B)** any prepayment made as a result of the acceleration of the obligation to repay the amount due with respect to the transaction.
-- **(b)** For the purpose of calculating any refund of interest required under subsection (a) of this section for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993 , the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
+- **(b)** For the purpose of calculating any refund of interest required under subsection (a) for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993 , the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
 - **(c)**
   - **(1)** Before the end of the 5-day period beginning on the date an oral or written request is received by a creditor from a consumer for the disclosure of the amount due on any precomputed consumer credit account, the creditor or assignee shall provide the consumer with a statement of—
     - **(A)** the amount necessary to prepay the account in full; and

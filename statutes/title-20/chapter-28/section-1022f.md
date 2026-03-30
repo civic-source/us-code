@@ -3,16 +3,16 @@ title: "Section 1022f - State functions"
 usc_title: 20
 usc_section: "1022f"
 chapter: 28
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 1022f"
-generated_at: "2026-03-30T04:57:15.727Z"
+generated_at: "2026-03-30T04:59:56.113Z"
 status: "active"
 ---
 
 # § 1022f. State functions
 
 - **(a)** In order to receive funds under this chapter and part C of subchapter I of chapter 34 of title 42, a State shall conduct an assessment to identify low-performing teacher preparation programs in the State and to assist such programs through the provision of technical assistance. Each such State shall provide the Secretary with an annual list of low-performing teacher preparation programs and an identification of those programs at risk of being placed on such list, as applicable. Such assessment shall be described in the report under section 1022d(b) of this title . Levels of performance shall be determined solely by the State and may include criteria based on information collected pursuant to this part, including progress in meeting the goals of—
-  - **(1)** increasing the percentage of highly qualified teachers in the State, including increasing professional development opportunities;
+  - **(1)** increasing the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title , in the State, including increasing professional development opportunities;
   - **(2)** improving student academic achievement for elementary and secondary students; and
   - **(3)** raising the standards for entry into the teaching profession.
 - **(b)** Any teacher preparation program from which the State has withdrawn the State’s approval, or terminated the State’s financial support, due to the low performance of the program based upon the State assessment described in subsection (a)—

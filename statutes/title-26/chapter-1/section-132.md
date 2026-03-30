@@ -3,9 +3,9 @@ title: "Section 132 - Certain fringe benefits"
 usc_title: 26
 usc_section: "132"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 132"
-generated_at: "2026-03-30T04:58:24.389Z"
+generated_at: "2026-03-30T05:00:47.801Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(C)** Qualified parking.
     - **(D)** Any qualified bicycle commuting reimbursement.
   - **(2)** The amount of the fringe benefits which are provided by an employer to any employee and which may be excluded from gross income under subsection (a)(5) shall not exceed—
-    - **(A)** $100 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1),
+    - **(A)** $175 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1),
     - **(B)** $175 per month in the case of qualified parking, and
     - **(C)** the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
   - **(3)** For purposes of this subsection, the term “qualified transportation fringe” includes a cash reimbursement by an employer to an employee for a benefit described in paragraph (1). The preceding sentence shall apply to a cash reimbursement for any transit pass only if a voucher or similar item which may be exchanged only for a transit pass is not readily available for direct distribution by the employer to the employee.

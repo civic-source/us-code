@@ -3,9 +3,9 @@ title: "Section 10005 - State applications"
 usc_title: 20
 usc_section: "10005"
 chapter: 80
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 10005"
-generated_at: "2026-03-30T04:57:15.858Z"
+generated_at: "2026-03-30T04:59:56.239Z"
 status: "active"
 ---
 
@@ -29,10 +29,10 @@ status: "active"
   - **(2)** The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) of the ESEA ( 20 U.S.C. 6311(b)(8)(C) ) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
   - **(3)** The State will establish a longitudinal data system that includes the elements described in section 9871(e)(2)(D) of this title .
   - **(4)** The State—
-    - **(A)** will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA ( 20 U.S.C. 6311(b)(3) ) through activities such as those described in section 6112(a) of such Act ( 20 U.S.C. 7301a(a) );
+    - **(A)** will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA ( 20 U.S.C. 6311(b)(3) ) through activities such as those described in section 6112(a) 1 1 See References in Text note below. of such Act ( 20 U.S.C. 7301a(a) );
     - **(B)** will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) of the ESEA ( 20 U.S.C. 6311(b) ) and section 612(a)(16) of the IDEA ( 20 U.S.C. 1412(a)(16) ) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
     - **(C)** will take steps to improve State academic content standards and student academic achievement standards consistent with section 9871(e)(1)(A)(ii) of this title .
-  - **(5)** The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) [ 20 U.S.C. 6316(b)(7)(C)(iv) ] and section 1116(b)(8)(B) [ 20 U.S.C. 6316(b)(8)(B) ] of the ESEA with respect to schools identified under such sections.
+  - **(5)** The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) 1 and section 1116(b)(8)(B) 1 of the ESEA with respect to schools identified under such sections.
   - **(6)** The State will take actions to—
     - **(A)** increase the number and percentage of low-income and disadvantaged children in each age group of infants, toddlers, and pre-schoolers who are enrolled in high-quality early learning programs;
     - **(B)** design and implement an integrated system of high-quality early learning programs and services; and

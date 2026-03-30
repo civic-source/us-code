@@ -1,13 +1,13 @@
 ---
-title: "Section 9311 - Repealed. Pub. L. 104–66, title I, § 1051(n) , Dec. 21, 1995 , 109 Stat. 717"
+title: "Section 9311 - Repealed. Pub. L. 104–66, title I , § 1051(n), Dec. 21, 1995 , 109 Stat. 717"
 usc_title: 42
 usc_section: "9311"
 chapter: 101
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 9311"
-generated_at: "2026-03-30T04:58:57.257Z"
+generated_at: "2026-03-30T05:01:45.367Z"
 status: "repealed"
 ---
 
-# § 9311. Repealed. Pub. L. 104–66, title I, § 1051(n) , Dec. 21, 1995 , 109 Stat. 717
+# § 9311. Repealed. Pub. L. 104–66, title I , § 1051(n), Dec. 21, 1995 , 109 Stat. 717
 

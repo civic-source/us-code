@@ -3,9 +3,9 @@ title: "Section 1202 - Partial exclusion for gain from certain small business st
 usc_title: 26
 usc_section: "1202"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 1202"
-generated_at: "2026-03-30T04:58:24.494Z"
+generated_at: "2026-03-30T05:00:47.909Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(3)** In the case of qualified small business stock acquired after the date of the enactment of this paragraph and on or before the date of the enactment of the Creating Small Business Jobs Act of 2010—
     - **(A)** paragraph (1) shall be applied by substituting “75 percent” for “50 percent”, and
     - **(B)** paragraph (2) shall not apply.
-  - **(4)** In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2015 —
+  - **(4)** In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010—
     - **(A)** paragraph (1) shall be applied by substituting “100 percent” for “50 percent”,
     - **(B)** paragraph (2) shall not apply, and
     - **(C)** paragraph (7) of section 57(a) shall not apply.

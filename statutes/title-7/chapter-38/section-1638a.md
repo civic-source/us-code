@@ -3,9 +3,9 @@ title: "Section 1638a - Notice of country of origin"
 usc_title: 7
 usc_section: "1638a"
 chapter: 38
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 1638a"
-generated_at: "2026-03-30T04:56:40.957Z"
+generated_at: "2026-03-30T04:59:24.522Z"
 status: "active"
 ---
 
@@ -14,23 +14,23 @@ status: "active"
 - **(a)**
   - **(1)** Except as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
   - **(2)**
-    - **(A)** A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
+    - **(A)** A retailer of a covered commodity that is lamb, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
       - **(i)** exclusively born, raised, and slaughtered in the United States;
       - **(ii)** born and raised in Alaska or Hawaii and transported for a period of not more than 60 days through Canada to the United States and slaughtered in the United States; or
       - **(iii)** present in the United States on or before July 15, 2008 , and once present in the United States, remained continuously in the United States.
     - **(B)**
-      - **(i)** A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is—
+      - **(i)** A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is—
         - **(I)** not exclusively born, raised, and slaughtered in the United States,
         - **(II)** born, raised, or slaughtered in the United States, and
         - **(III)** not imported into the United States for immediate slaughter,
       - **(ii)** Nothing in this subparagraph alters the mandatory requirement to inform consumers of the country of origin of covered commodities under paragraph (1).
-    - **(C)** A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
+    - **(C)** A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
       - **(i)** the country from which the animal was imported; and
       - **(ii)** the United States.
-    - **(D)** A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
-    - **(E)** The notice of country of origin for ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison shall include—
-      - **(i)** a list of all countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison; or
-      - **(ii)** a list of all reasonably possible countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison.
+    - **(D)** A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
+    - **(E)** The notice of country of origin for ground lamb, ground chicken, ground goat, or ground venison shall include—
+      - **(i)** a list of all countries of origin of such ground lamb, ground chicken, ground goat, or ground venison; or
+      - **(ii)** a list of all reasonably possible countries of origin of such ground lamb, ground chicken, ground goat, or ground venison.
   - **(3)**
     - **(A)** A retailer of a covered commodity that is farm-raised fish or wild fish may designate the covered commodity as having a United States country of origin only if the covered commodity—
       - **(i)** in the case of farm-raised fish, is hatched, raised, harvested, and processed in the United States; and
@@ -59,7 +59,5 @@ status: "active"
   - **(1)** The Secretary shall not use a mandatory identification system to verify the country of origin of a covered commodity.
   - **(2)** To certify the country of origin of a covered commodity, the Secretary may use as a model certification programs in existence on May 13, 2002 , including—
     - **(A)** the carcass grading and certification system carried out under this Act;
-    - **(B)** the voluntary country of origin beef labeling system carried out under this Act;
-    - **(C)** voluntary programs established to certify certain premium beef cuts;
-    - **(D)** the origin verification system established to carry out the child and adult care food program established under section 1766 of title 42 ; or
-    - **(E)** the origin verification system established to carry out the market access program under section 5623 of this title .
+    - **(B)** the origin verification system established to carry out the child and adult care food program established under section 1766 of title 42 ; or
+    - **(C)** the origin verification system established to carry out the market access program under section 5623 of this title .

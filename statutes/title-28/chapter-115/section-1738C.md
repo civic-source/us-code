@@ -3,9 +3,9 @@ title: "Section 1738C - Certain acts, records, and proceedings and the effect th
 usc_title: 28
 usc_section: "1738C"
 chapter: 115
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "28 U.S.C. § 1738C"
-generated_at: "2026-03-30T04:57:42.350Z"
+generated_at: "2026-03-30T05:00:51.999Z"
 status: "active"
 ---
 

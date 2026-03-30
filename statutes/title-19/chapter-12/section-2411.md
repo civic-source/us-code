@@ -3,9 +3,9 @@ title: "Section 2411 - Actions by United States Trade Representative"
 usc_title: 19
 usc_section: "2411"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2411"
-generated_at: "2026-03-30T04:57:10.199Z"
+generated_at: "2026-03-30T04:59:42.895Z"
 status: "active"
 ---
 
@@ -34,33 +34,33 @@ status: "active"
   - **(3)** Any action taken under paragraph (1) to eliminate an act, policy, or practice shall be devised so as to affect goods or services of the foreign country in an amount that is equivalent in value to the burden or restriction being imposed by that country on United States commerce.
 - **(b)** If the Trade Representative determines under section 2414(a)(1) of this title that—
   - **(1)** an act, policy, or practice of a foreign country is unreasonable or discriminatory and burdens or restricts United States commerce, and
-  - **(2)** action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+  - **(2)** action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c), subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 - **(c)**
-  - **(1)** For purposes of carrying out the provisions of subsection (a) or (b) of this section, the Trade Representative is authorized to—
+  - **(1)** For purposes of carrying out the provisions of subsection (a) or (b), the Trade Representative is authorized to—
     - **(A)** suspend, withdraw, or prevent the application of, benefits of trade agreement concessions to carry out a trade agreement with the foreign country referred to in such subsection;
     - **(B)** impose duties or other import restrictions on the goods of, and, notwithstanding any other provision of law, fees or restrictions on the services of, such foreign country for such time as the Trade Representative determines appropriate;
     - **(C)** in a case in which the act, policy, or practice also fails to meet the eligibility criteria for receiving duty-free treatment under subsections (b) and (c) of section 2462 of this title , subsections (b) and (c) of section 2702 of this title , or subsections (c) and (d) of section 3202 of this title , withdraw, limit, or suspend such treatment under such provisions, notwithstanding the provisions of subsection (a)(3) of this section; or
     - **(D)** enter into binding agreements with such foreign country that commit such foreign country to—
-      - **(i)** eliminate, or phase out, the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section,
+      - **(i)** eliminate, or phase out, the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b),
       - **(ii)** eliminate any burden or restriction on United States commerce resulting from such act, policy, or practice, or
       - **(iii)** provide the United States with compensatory trade benefits that—
         - **(I)** are satisfactory to the Trade Representative, and
         - **(II)** meet the requirements of paragraph (4).
   - **(2)**
-    - **(A)** Notwithstanding any other provision of law governing any service sector access authorization, and in addition to the authority conferred in paragraph (1), the Trade Representative may, for purposes of carrying out the provisions of subsection (a) or (b) of this section—
+    - **(A)** Notwithstanding any other provision of law governing any service sector access authorization, and in addition to the authority conferred in paragraph (1), the Trade Representative may, for purposes of carrying out the provisions of subsection (a) or (b)—
       - **(i)** restrict, in the manner and to the extent the Trade Representative determines appropriate, the terms and conditions of any such authorization, or
       - **(ii)** deny the issuance of any such authorization.
     - **(B)** Actions described in subparagraph (A) may only be taken under this section with respect to service sector access authorizations granted, or applications therefor pending, on or after the date on which—
       - **(i)** a petition is filed under section 2412(a) of this title , or
       - **(ii)** a determination to initiate an investigation is made by the Trade Representative under section 2412(b) of this title .
     - **(C)** Before the Trade Representative takes any action under this section involving the imposition of fees or other restrictions on the services of a foreign country, the Trade Representative shall, if the services involved are subject to regulation by any agency of the Federal Government or of any State, consult, as appropriate, with the head of the agency concerned.
-  - **(3)** The actions the Trade Representative is authorized to take under subsection (a) or (b) of this section may be taken against any goods or economic sector—
+  - **(3)** The actions the Trade Representative is authorized to take under subsection (a) or (b) may be taken against any goods or economic sector—
     - **(A)** on a nondiscriminatory basis or solely against the foreign country described in such subsection, and
     - **(B)** without regard to whether or not such goods or economic sector were involved in the act, policy, or practice that is the subject of such action.
-  - **(4)** Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
+  - **(4)** Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b), or benefit the economic sector as closely related as possible to such economic sector, unless—
     - **(A)** the provision of such trade benefits is not feasible, or
     - **(B)** trade benefits that benefit any other economic sector would be more satisfactory than such trade benefits.
-  - **(5)** If the Trade Representative determines that actions to be taken under subsection (a) or (b) of this section are to be in the form of import restrictions, the Trade Representative shall—
+  - **(5)** If the Trade Representative determines that actions to be taken under subsection (a) or (b) are to be in the form of import restrictions, the Trade Representative shall—
     - **(A)** give preference to the imposition of duties over the imposition of other import restrictions, and
     - **(B)** if an import restriction other than a duty is imposed, consider substituting, on an incremental basis, an equivalent duty for such other import restriction.
   - **(6)** Any action taken by the Trade Representative under this section with respect to export targeting shall, to the extent possible, reflect the full benefit level of the export targeting to the beneficiary over the period during which the action taken has an effect.
@@ -101,4 +101,4 @@ status: "active"
   - **(6)** The term “service sector access authorization” means any license, permit, order, or other authorization, issued under the authority of Federal law, that permits a foreign supplier of services access to the United States market in a service sector concerned.
   - **(7)** The term “foreign country” includes any foreign instrumentality. Any possession or territory of a foreign country that is administered separately for customs purposes shall be treated as a separate foreign country.
   - **(8)** The term “Trade Representative” means the United States Trade Representative.
-  - **(9)** The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
+  - **(9)** The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).

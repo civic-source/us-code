@@ -3,9 +3,9 @@ title: "Section 429 - Brices Cross Roads and Tupelo battlefields in Mississippi;
 usc_title: 16
 usc_section: "429"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 429"
-generated_at: "2026-03-30T04:57:06.505Z"
+generated_at: "2026-03-30T04:59:58.409Z"
 status: "active"
 ---
 

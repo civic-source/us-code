@@ -3,9 +3,9 @@ title: "Section 1904 - Certain transactions for defense against attack"
 usc_title: 41
 usc_section: "1904"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "41 U.S.C. § 1904"
-generated_at: "2026-03-30T04:58:43.604Z"
+generated_at: "2026-03-30T05:01:15.553Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The head of an executive agency that engages in basic research, applied research, advanced research, and development projects that are necessary to the responsibilities of the executive agency in the field of research and development and have the potential to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack may exercise the same authority (subject to the same restrictions and conditions) with respect to the research and projects as the Secretary of Defense may exercise under section 2371 of title 10 , except for subsections (b) and (f) of section 2371.
-  - **(2)** The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 , 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
+  - **(2)** The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 1 1 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 , 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
   - **(3)** In applying the requirements and conditions of section 845 of that Act under this subsection—
     - **(A)** section 845(c) of that Act shall apply with respect to prototype projects carried out under paragraph (2); and
     - **(B)** the Director of the Office of Management and Budget shall perform the functions of the Secretary of Defense under section 845(d) of that Act.

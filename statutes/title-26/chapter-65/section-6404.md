@@ -3,9 +3,9 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-30T04:58:24.574Z"
+generated_at: "2026-03-30T05:00:47.997Z"
 status: "active"
 ---
 
@@ -47,7 +47,11 @@ status: "active"
     - **(A)** beginning on the day after the close of the 36-month period under paragraph (1); and
     - **(B)** ending on the date which is 21 days after the date on which notice described in paragraph (1)(A) is provided by the Secretary.
 - **(h)**
-  - **(1)** The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.
+  - **(1)** The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
+    - **(A)** at any time after the earlier of—
+      - **(i)** the date of the mailing of the Secretary’s final determination not to abate such interest, or
+      - **(ii)** the date which is 180 days after the date of the filing with the Secretary (in such form as the Secretary may prescribe) of a claim for abatement under this section, and
+    - **(B)** not later than the date which is 180 days after the date described in subparagraph (A)(i).
   - **(2)**
     - **(A)** Rules similar to the rules of section 6213 shall apply for purposes of determining the date of the mailing referred to in paragraph (1).
     - **(B)** Rules similar to the rules of section 6512(b) shall apply for purposes of this subsection.

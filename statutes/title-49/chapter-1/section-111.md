@@ -1,13 +1,13 @@
 ---
-title: "Section 111 - Repealed. Pub. L. 112–141, div. E, title II, § 52011(c)(1) , July 6, 2012 , 126 Stat. 895 ]"
+title: "Section 111 - Repealed. Pub. L. 112–141, div. E, title II , § 52011(c)(1), July 6, 2012 , 126 Stat. 895 ]"
 usc_title: 49
 usc_section: "111"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 111"
-generated_at: "2026-03-30T04:59:03.145Z"
+generated_at: "2026-03-30T05:01:52.651Z"
 status: "repealed"
 ---
 
-# [§ 111. Repealed. Pub. L. 112–141, div. E, title II, § 52011(c)(1) , July 6, 2012 , 126 Stat. 895 ]
+# [§ 111. Repealed. Pub. L. 112–141, div. E, title II , § 52011(c)(1), July 6, 2012 , 126 Stat. 895 ]
 

@@ -3,9 +3,9 @@ title: "Section 1306a - Public access to State disbursement records"
 usc_title: 42
 usc_section: "1306a"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1306a"
-generated_at: "2026-03-30T04:58:56.892Z"
+generated_at: "2026-03-30T05:01:44.988Z"
 status: "active"
 ---
 

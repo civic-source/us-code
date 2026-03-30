@@ -3,9 +3,9 @@ title: "Section 940 - Refinancing of rural development loans"
 usc_title: 7
 usc_section: "940"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 940"
-generated_at: "2026-03-30T04:56:40.928Z"
+generated_at: "2026-03-30T04:59:24.494Z"
 status: "active"
 ---
 

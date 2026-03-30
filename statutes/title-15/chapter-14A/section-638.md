@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-30T04:56:57.399Z"
+generated_at: "2026-03-30T04:59:35.494Z"
 status: "active"
 ---
 
@@ -87,7 +87,9 @@ status: "active"
     - **(G)** not less than 2.9 percent of such budget in fiscal year 2015;
     - **(H)** not less than 3.0 percent of such budget in fiscal year 2016; and
     - **(I)** not less than 3.2 percent of such budget in fiscal year 2017 and each fiscal year thereafter,
-  - **(2)** A Federal agency shall not make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
+  - **(2)** A Federal agency shall not—
+    - **(A)** use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
+    - **(B)** make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentages specified in paragraph (1).
   - **(3)** Funding agreements with small business concerns for research or research and development which result from competitive or single source selections other than an SBIR program shall not be considered to meet any portion of the percentage requirements of paragraph (1).
   - **(4)** Nothing in this subsection may be construed to prohibit a Federal agency from expending with small business concerns an amount of the extramural budget for research or research and development of the agency that exceeds the amount required under paragraph (1).
 - **(g)** Each Federal agency required by subsection (f) to establish a small business innovation research program shall, in accordance with this chapter and regulations issued hereunder—
@@ -361,7 +363,11 @@ status: "active"
   - **(1)** The Secretary of Defense and the Secretary of each military department is authorized to create and administer a “Commercialization Readiness Program” to accelerate the transition of technologies, products, and services developed under the Small Business Innovation Research Program or Small Business Technology Transfer Program to Phase III, including the acquisition process. The authority to create and administer a Commercialization Readiness Program under this subsection may not be construed to eliminate or replace any other SBIR program or STTR program that enhances the insertion or transition of SBIR or STTR technologies, including any such program in effect on January 6, 2006 .
   - **(2)** In carrying out the Commercialization Readiness Program, the Secretary of Defense and the Secretary of each military department shall identify research programs of the Small Business Innovation Research Program or Small Business Technology Transfer Program that have the potential for rapid transitioning to Phase III and into the acquisition process.
   - **(3)** No research program may be identified under paragraph (2) unless the Secretary of the military department concerned certifies in writing that the successful transition of the program to Phase III and into the acquisition process is expected to meet high priority military requirements of such military department.
-  - **(4)** For payment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards.
+  - **(4)**
+    - **(A)** The Secretary of Defense and each Secretary of a military department may use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program for payment of expenses incurred to administer the Commercialization Readiness Program under this subsection.
+    - **(B)** The funds described in subparagraph (A)—
+      - **(i)** shall not be subject to the limitations on the use of funds in subsection (f)(2); and
+      - **(ii)** shall not be used to make Phase III awards.
   - **(5)** For any contract with a value of not less than $100,000,000, the Secretary of Defense is authorized to—
     - **(A)** establish goals for the transition of Phase III technologies in subcontracting plans; and
     - **(B)** require a prime contractor on such a contract to report the number and dollar amount of contracts entered into by that prime contractor for Phase III SBIR or STTR projects.
@@ -521,7 +527,7 @@ status: "active"
     - **(B)** release the contact information of the concern to such organizations.
   - **(2)** The Administrator shall establish rules to implement this subsection. The rules shall include a requirement that a Federal agency include in the SBIR and STTR application a provision through which the applicant can indicate consent for purposes of paragraph (1).
 - **(mm)**
-  - **(1)** Subject to paragraph (3), for the 3 fiscal years beginning after December 31, 2011 , the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
+  - **(1)** Subject to paragraph (3) and until September 30, 2017 , the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
     - **(A)** the administration of the SBIR program or the STTR program of the Federal agency;
     - **(B)** the provision of outreach and technical assistance relating to the SBIR program or STTR program of the Federal agency, including technical assistance site visits, personnel interviews, and national conferences;
     - **(C)** the implementation of commercialization and outreach initiatives that were not in effect on December 31, 2011 ;

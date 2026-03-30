@@ -3,9 +3,9 @@ title: "Section 14101 - Definitions"
 usc_title: 46
 usc_section: "14101"
 chapter: 141
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "46 U.S.C. § 14101"
-generated_at: "2026-03-30T04:59:03.853Z"
+generated_at: "2026-03-30T05:01:49.176Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 1057 - Repealed. Pub. L. 105–34, title XI, § 1131(c)(2) , Aug. 5, 1997 , 111 Stat. 980 ]"
+title: "Section 1057 - Repealed. Pub. L. 105–34, title XI , § 1131(c)(2), Aug. 5, 1997 , 111 Stat. 980 ]"
 usc_title: 26
 usc_section: "1057"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 1057"
-generated_at: "2026-03-30T04:58:24.493Z"
+generated_at: "2026-03-30T05:00:47.908Z"
 status: "repealed"
 ---
 
-# [§ 1057. Repealed. Pub. L. 105–34, title XI, § 1131(c)(2) , Aug. 5, 1997 , 111 Stat. 980 ]
+# [§ 1057. Repealed. Pub. L. 105–34, title XI , § 1131(c)(2), Aug. 5, 1997 , 111 Stat. 980 ]
 

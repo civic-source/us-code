@@ -3,9 +3,9 @@ title: "Section 192 - Assignment of personnel as instructors"
 usc_title: 14
 usc_section: "192"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "14 U.S.C. § 192"
-generated_at: "2026-03-30T04:56:49.766Z"
+generated_at: "2026-03-30T04:59:31.176Z"
 status: "active"
 ---
 

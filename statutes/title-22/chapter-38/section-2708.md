@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T04:57:26.708Z"
+generated_at: "2026-03-30T05:00:34.873Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
 - **(k)** As used in this section:
   - **(1)** The term “act of international terrorism” includes—
     - **(A)** any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title ) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
-    - **(B)** any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50 , Appendix.
+    - **(B)** any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) of title 50 .
   - **(2)** The term “appropriate congressional committees” means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
   - **(3)** The term “member of the immediate family”, with respect to an individual, includes—
     - **(A)** a spouse, parent, brother, sister, or child of the individual;

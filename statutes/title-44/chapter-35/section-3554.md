@@ -3,9 +3,9 @@ title: "Section 3554 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3554"
 chapter: 35
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "44 U.S.C. § 3554"
-generated_at: "2026-03-30T04:58:43.310Z"
+generated_at: "2026-03-30T05:01:19.073Z"
 status: "active"
 ---
 
@@ -19,8 +19,9 @@ status: "active"
     - **(B)** complying with the requirements of this subchapter and related policies, procedures, standards, and guidelines, including—
       - **(i)** information security standards promulgated under section 11331 of title 40 ;
       - **(ii)** operational directives developed by the Secretary under section 3553(b);
-      - **(iii)** policies and procedures issued by the Director; and
+      - **(iii)** policies and procedures issued by the Director;
       - **(iv)** information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+      - **(v)** emergency directives issued by the Secretary under section 3553(h); and
     - **(C)** ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
   - **(2)** ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through—
     - **(A)** assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems;

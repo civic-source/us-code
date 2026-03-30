@@ -3,9 +3,9 @@ title: "Section 8 - Technical assistance, training, and evaluation"
 usc_title: 42
 usc_section: "8"
 chapter: 46
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T04:58:57.123Z"
+generated_at: "2026-03-30T05:01:45.224Z"
 status: "active"
 ---
 

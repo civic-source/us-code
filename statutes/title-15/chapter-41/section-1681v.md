@@ -3,16 +3,16 @@ title: "Section 1681v - Disclosures to governmental agencies for counterterroris
 usc_title: 15
 usc_section: "1681v"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1681v"
-generated_at: "2026-03-30T04:56:57.452Z"
+generated_at: "2026-03-30T04:59:35.548Z"
 status: "active"
 ---
 
 # § 1681v. Disclosures to governmental agencies for counterterrorism purposes
 
 - **(a)** Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish a consumer report of a consumer and all other information in a consumer’s file to a government agency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with a written certification by such government agency that such information is necessary for the agency’s conduct or such investigation, activity or analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.
-- **(b)** The certification described in subsection (a) of this section shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.
+- **(b)** The certification described in subsection (a) shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.
 - **(c)**
   - **(1)**
     - **(A)** If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose or specify in any consumer report, that a government agency described in subsection (a) has sought or obtained access to information or records under subsection (a).

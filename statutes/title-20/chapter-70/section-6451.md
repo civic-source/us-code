@@ -3,9 +3,9 @@ title: "Section 6451 - Purpose"
 usc_title: 20
 usc_section: "6451"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 6451"
-generated_at: "2026-03-30T04:57:15.819Z"
+generated_at: "2026-03-30T04:59:56.208Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ The purpose of this subpart is to support the operation of local educational age
 
   - **(1)** to carry out high quality education programs to prepare children and youth for secondary school completion, training, employment, or further education;
   - **(2)** to provide activities to facilitate the transition of such children and youth from the correctional program to further education or employment; and
-  - **(3)** to operate programs in local schools for children and youth returning from correctional facilities, and programs which may serve at-risk children and youth.
+  - **(3)** to operate programs in local schools, including schools operated or funded by the Bureau of Indian Education, for children and youth returning from correctional facilities, and programs which may serve at-risk children and youth.

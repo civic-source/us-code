@@ -1,13 +1,13 @@
 ---
-title: "Section 114 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948"
+title: "Section 114 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948"
 usc_title: 42
 usc_section: "114"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-30T04:58:56.729Z"
+generated_at: "2026-03-30T05:01:44.824Z"
 status: "repealed"
 ---
 
-# § 114. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948
+# § 114. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948
 

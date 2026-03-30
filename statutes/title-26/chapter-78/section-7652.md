@@ -3,9 +3,9 @@ title: "Section 7652 - Shipments to the United States"
 usc_title: 26
 usc_section: "7652"
 chapter: 78
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 7652"
-generated_at: "2026-03-30T04:58:24.595Z"
+generated_at: "2026-03-30T05:00:48.020Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(3)** For purposes of this subsection, the term “rum” means any article classified under subheading 2208.40.00 of the Harmonized Tariff Schedule of the United States ( 19 U.S.C. 1202 ).
   - **(4)** Paragraph (1) shall not apply with respect to any rum subject to tax under subsection (a) or (b).
 - **(f)** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
-  - **(1)** $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999 , and before January 1, 2015 ), or
+  - **(1)** $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999 , and before January 1, 2017 ), or
   - **(2)** the tax imposed under section 5001(a)(1), on each proof gallon.
 - **(g)** In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
   - **(1)** subpart B of part II of subchapter A of chapter 51 shall be applied as if—

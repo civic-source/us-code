@@ -3,9 +3,9 @@ title: "Section 506to508 - Repealed. Pub. L. 87–869, § 4 , Oct. 23, 1962 , 76
 usc_title: 16
 usc_section: "506to508"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 506to508"
-generated_at: "2026-03-30T04:57:06.550Z"
+generated_at: "2026-03-30T04:59:58.456Z"
 status: "repealed"
 ---
 

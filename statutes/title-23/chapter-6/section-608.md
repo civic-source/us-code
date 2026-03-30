@@ -3,9 +3,9 @@ title: "Section 608 - Funding"
 usc_title: 23
 usc_section: "608"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 608"
-generated_at: "2026-03-30T04:57:24.970Z"
+generated_at: "2026-03-30T05:00:18.962Z"
 status: "active"
 ---
 
@@ -13,18 +13,12 @@ status: "active"
 
 - **(a)**
   - **(1)** Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.
-  - **(2)** If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) the Congressional Budget Act of 1974 ( 2 U.S.C. 661c(f) ).
+  - **(2)** If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) of the Congressional Budget Act of 1974 ( 2 U.S.C. 661c(f) ).
   - **(3)**
-    - **(A)** Of the total amount of funds made available to carry out this chapter for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects.
-    - **(B)** Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects.
-  - **(4)**
-    - **(A)** Beginning in fiscal year 2014, on April 1 of each fiscal year, if the cumulative unobligated and uncommitted balance of funding available exceeds 75 percent of the amount made available to carry out this chapter for that fiscal year, the Secretary shall distribute to the States the amount of funds and associated obligation authority in excess of that amount.
-    - **(B)** The amounts and obligation authority distributed under this paragraph shall be distributed, in the same manner as obligation authority is distributed to the States for the fiscal year, based on the proportion that—
-      - **(i)** the relative share of each State of obligation authority for the fiscal year; bears to
-      - **(ii)** the total amount of obligation authority distributed to all States for the fiscal year.
-    - **(C)** Funds distributed under subparagraph (B) shall be available for any purpose described in section 133(b).
-  - **(5)** Amounts made available to carry out this chapter shall remain available until expended.
-  - **(6)** Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.
+    - **(A)** Of the total amount of funds made available to carry out the TIFIA program for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects or rural projects funds.
+    - **(B)** Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects or rural projects funds.
+  - **(4)** Amounts made available to carry out the TIFIA program shall remain available until expended.
+  - **(5)** Of the amounts made available to carry out the TIFIA program, the Secretary may use not more than $6,875,000 for fiscal year 2016, $7,081,000 for fiscal year 2017, $7,559,000 for fiscal year 2018, $8,195,000 for fiscal year 2019, and $8,441,000 for fiscal year 2020 for the administration of the TIFIA program.
 - **(b)**
-  - **(1)** Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under this chapter shall impose on the United States a contractual obligation to fund the Federal credit investment.
-  - **(2)** Amounts made available to carry out this chapter for a fiscal year shall be available for obligation on October 1 of the fiscal year.
+  - **(1)** Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under the TIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.
+  - **(2)** Amounts made available to carry out the TIFIA program for a fiscal year shall be available for obligation on October 1 of the fiscal year.

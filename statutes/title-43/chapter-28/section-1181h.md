@@ -3,9 +3,9 @@ title: "Section 1181h - Exchange of jurisdiction between Secretaries; conditions
 usc_title: 43
 usc_section: "1181h"
 chapter: 28
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 1181h"
-generated_at: "2026-03-30T04:58:49.575Z"
+generated_at: "2026-03-30T05:01:30.822Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 7274j - Repealed. Pub. L. 108–136, div. C, title XXXI, § 3141(m)(2) , Nov. 24, 2003 , 117 Stat. 1787"
+title: "Section 7274j - Repealed. Pub. L. 108–136, div. C, title XXXI , § 3141(m)(2), Nov. 24, 2003 , 117 Stat. 1787"
 usc_title: 42
 usc_section: "7274j"
 chapter: 84
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 7274j"
-generated_at: "2026-03-30T04:58:57.203Z"
+generated_at: "2026-03-30T05:01:45.312Z"
 status: "repealed"
 ---
 
-# § 7274j. Repealed. Pub. L. 108–136, div. C, title XXXI, § 3141(m)(2) , Nov. 24, 2003 , 117 Stat. 1787
+# § 7274j. Repealed. Pub. L. 108–136, div. C, title XXXI , § 3141(m)(2), Nov. 24, 2003 , 117 Stat. 1787
 

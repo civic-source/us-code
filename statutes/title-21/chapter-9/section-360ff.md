@@ -3,9 +3,9 @@ title: "Section 360ff - Priority review to encourage treatments for rare pediatr
 usc_title: 21
 usc_section: "360ff"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "21 U.S.C. § 360ff"
-generated_at: "2026-03-30T04:57:23.168Z"
+generated_at: "2026-03-30T05:00:02.066Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(4)**
     - **(A)** The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
     - **(B)** The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
-  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.
+  - **(5)** The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016 .
 - **(c)**
   - **(1)** The Secretary shall establish a user fee program under which a sponsor of a human drug application that is the subject of a priority review voucher shall pay to the Secretary a fee determined under paragraph (2). Such fee shall be in addition to any fee required to be submitted by the sponsor under subchapter VII.
   - **(2)** The amount of the priority review user fee shall be determined each fiscal year by the Secretary, based on the difference between—

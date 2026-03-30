@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-30T04:58:24.365Z"
+generated_at: "2026-03-30T05:00:47.778Z"
 status: "active"
 ---
 
@@ -78,16 +78,18 @@ status: "active"
         - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the eligible small business credits and the specified credits).
     - **(B)** For purposes of this subsection, the term “specified credits” means—
       - **(i)** for taxable years beginning after December 31, 2004 , the credit determined under section 40,
-      - **(ii)** the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007 ,
-      - **(iii)** the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced—
+      - **(ii)** the credit determined under section 41 for the taxable year with respect to an eligible small business (as defined in paragraph (5)(C), after application of rules similar to the rules of paragraph (5)(D)),
+      - **(iii)** the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007 ,
+      - **(iv)** the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced—
         - **(I)** at a facility which is originally placed in service after the date of the enactment of this paragraph, and
         - **(II)** during the 4-year period beginning on the date that such facility was originally placed in service,
-      - **(iv)** the credit determined under section 45B,
-      - **(v)** the credit determined under section 45G,
-      - **(vi)** the credit determined under section 45R,
-      - **(vii)** the credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48,
-      - **(viii)** the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007 , and
-      - **(ix)** the credit determined under section 51.
+      - **(v)** the credit determined under section 45 to the extent that such credit is attributable to section 45(e)(10) (relating to Indian coal production facilities),
+      - **(vi)** the credit determined under section 45B,
+      - **(vii)** the credit determined under section 45G,
+      - **(viii)** the credit determined under section 45R,
+      - **(ix)** the credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48,
+      - **(x)** the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007 , and
+      - **(xi)** the credit determined under section 51.
   - **(5)**
     - **(A)** In the case of eligible small business credits determined in taxable years beginning in 2010—
       - **(i)** this section and section 39 shall be applied separately with respect to such credits, and

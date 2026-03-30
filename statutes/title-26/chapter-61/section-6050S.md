@@ -3,9 +3,9 @@ title: "Section 6050S - Returns relating to higher education tuition and related
 usc_title: 26
 usc_section: "6050S"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6050S"
-generated_at: "2026-03-30T04:58:24.560Z"
+generated_at: "2026-03-30T05:00:47.982Z"
 status: "active"
 ---
 
@@ -22,12 +22,13 @@ status: "active"
       - **(i)** who is or has been enrolled at the institution and with respect to whom transactions described in subparagraph (B) are made during the calendar year, or
       - **(ii)** with respect to whom payments described in subsection (a)(2) or (a)(3) were made or received,
     - **(B)** the—
-      - **(i)** aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
+      - **(i)** aggregate amount of payments received for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
       - **(ii)** aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
       - **(iii)** amount of any adjustments to the aggregate amounts reported by the institution pursuant to clause (i) or (ii) with respect to such individual for a prior calendar year,
       - **(iv)** aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
-      - **(v)** aggregate amount of interest received for the calendar year from such individual, and
-    - **(C)** such other information as the Secretary may prescribe.
+      - **(v)** aggregate amount of interest received for the calendar year from such individual,
+    - **(C)** the employer identification number of the institution, and
+    - **(D)** such other information as the Secretary may prescribe.
 - **(c)** For purposes of this section—
   - **(1)** a governmental unit or any agency or instrumentality thereof shall be treated as a person, and
   - **(2)** any return required under subsection (a) by such governmental entity shall be made by the officer or employee appropriately designated for the purpose of making such return.

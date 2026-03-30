@@ -3,9 +3,9 @@ title: "Section 102 - Department of Transportation"
 usc_title: 49
 usc_section: "102"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 102"
-generated_at: "2026-03-30T04:59:03.144Z"
+generated_at: "2026-03-30T05:01:52.650Z"
 status: "active"
 ---
 
@@ -18,8 +18,8 @@ status: "active"
   - **(2)** acts for the Secretary when the Secretary is absent or unable to serve or when the office of Secretary is vacant.
 - **(d)** The Department has an Under Secretary of Transportation for Policy appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall provide leadership in the development of policy for the Department, supervise the policy activities of Assistant Secretaries with primary responsibility for aviation, international, and other transportation policy development and carry out other powers and duties prescribed by the Secretary. The Under Secretary acts for the Secretary when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant.
 - **(e)**
-  - **(1)** The Department has 5 Assistant Secretaries and a General Counsel, including—
-    - **(A)** an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
+  - **(1)** The Department has 6 Assistant Secretaries and a General Counsel, including—
+    - **(A)** an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
     - **(B)** an Assistant Secretary for Budget and Programs who shall be appointed by the President;
     - **(C)** an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President; and
     - **(D)** a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.

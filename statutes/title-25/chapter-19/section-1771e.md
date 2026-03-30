@@ -3,9 +3,9 @@ title: "Section 1771e - Jurisdiction over settlement lands; restraint on alienat
 usc_title: 25
 usc_section: "1771e"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 1771e"
-generated_at: "2026-03-30T04:57:20.160Z"
+generated_at: "2026-03-30T05:00:03.058Z"
 status: "active"
 ---
 

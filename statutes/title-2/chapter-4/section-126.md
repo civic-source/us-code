@@ -1,13 +1,13 @@
 ---
-title: "Section 126 - Repealed. Pub. L. 89–554, § 8 , Sept. 6, 1966 , 80 Stat. 658"
+title: "Section 126 - Repealed. Pub. L. 89–554 , § 8, Sept. 6, 1966 , 80 Stat. 658"
 usc_title: 2
 usc_section: "126"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "2 U.S.C. § 126"
-generated_at: "2026-03-30T04:56:11.915Z"
+generated_at: "2026-03-30T04:59:16.746Z"
 status: "repealed"
 ---
 
-# § 126. Repealed. Pub. L. 89–554, § 8 , Sept. 6, 1966 , 80 Stat. 658
+# § 126. Repealed. Pub. L. 89–554 , § 8, Sept. 6, 1966 , 80 Stat. 658
 

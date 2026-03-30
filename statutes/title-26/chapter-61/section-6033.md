@@ -3,9 +3,9 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-30T04:58:24.556Z"
+generated_at: "2026-03-30T05:00:47.977Z"
 status: "active"
 ---
 
@@ -85,7 +85,9 @@ status: "active"
     - **(B)** The Secretary may waive the tax imposed by subparagraph (A)(ii) for any taxable year if the organization agrees to adjust its estimates under paragraph (1)(A)(ii) for the following taxable year to correct any failures.
     - **(C)** For purposes of this title, the tax imposed by subparagraph (A) shall be treated in the same manner as a tax imposed by chapter 1 (relating to income taxes).
   - **(3)** Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
-- **(f)** Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization.
+- **(f)** Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
+  - **(1)** the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization, and
+  - **(2)** in the case of the first such return filed by such an organization after submitting a notice to the Secretary under section 506(a), such information as the Secretary shall by regulation require in support of the organization’s treatment as an organization described in section 501(c)(4).
 - **(g)**
   - **(1)** This section shall apply to a political organization (as defined by section 527(e)(1)) which has gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
   - **(2)** Political organizations described in paragraph (1) shall file an annual return—

@@ -1,13 +1,13 @@
 ---
-title: "Section 8927 - Repealed. Pub. L. 96–513, title II, § 217(a) , Dec. 12, 1980 , 94 Stat. 2886 ]"
+title: "Section 8927 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12, 1980 , 94 Stat. 2886 ]"
 usc_title: 10
 usc_section: "8927"
 chapter: 867
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 8927"
-generated_at: "2026-03-30T04:56:26.745Z"
+generated_at: "2026-03-30T04:59:28.781Z"
 status: "repealed"
 ---
 
-# [§ 8927. Repealed. Pub. L. 96–513, title II, § 217(a) , Dec. 12, 1980 , 94 Stat. 2886 ]
+# [§ 8927. Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12, 1980 , 94 Stat. 2886 ]
 

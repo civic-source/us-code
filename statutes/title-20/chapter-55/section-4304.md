@@ -3,9 +3,9 @@ title: "Section 4304 - Laurent Clerc National Deaf Education Center"
 usc_title: 20
 usc_section: "4304"
 chapter: 55
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 4304"
-generated_at: "2026-03-30T04:57:15.802Z"
+generated_at: "2026-03-30T04:59:56.192Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
       - **(vi)** Subsections (k) through ( o ).
   - **(5)** The University, for purposes of the elementary and secondary education programs carried out at the Clerc Center, shall—
     - **(A)**
-      - **(i)** select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title and approved by the Secretary; and
-      - **(ii)** implement such standards and assessments for such programs by not later than the beginning of the 2009–2010 academic year;
-    - **(B)** annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title ) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and
-    - **(C)** publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and whether the programs at the Clerc Center are making adequate yearly progress, as determined under subparagraph (B).
+      - **(i)** select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of this title and approved by the Secretary; and
+      - **(ii)** implement such standards and assessments for such programs by not later than the beginning of the 2016–2017 academic year;
+    - **(B)** adopt the accountability system, consistent with section 6311(c) of this title , of the State from which standards and assessments are selected under subparagraph (A)(i); and
+    - **(C)** publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and the results of the annual evaluation of the programs at the Clerc Center, as determined under subparagraph (B).

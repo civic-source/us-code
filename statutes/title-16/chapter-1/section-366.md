@@ -3,9 +3,9 @@ title: "Section 366 - Collection of water on reservation"
 usc_title: 16
 usc_section: "366"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 366"
-generated_at: "2026-03-30T04:57:06.479Z"
+generated_at: "2026-03-30T04:59:58.384Z"
 status: "active"
 ---
 

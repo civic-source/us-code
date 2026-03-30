@@ -3,9 +3,9 @@ title: "Section 9 - Information from Federal agencies for Delmarva Peninsula stu
 usc_title: 42
 usc_section: "9"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T04:58:57.062Z"
+generated_at: "2026-03-30T05:01:45.161Z"
 status: "active"
 ---
 

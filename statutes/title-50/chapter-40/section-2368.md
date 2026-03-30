@@ -3,9 +3,9 @@ title: "Section 2368 - Annual reports on the proliferation of missiles and essen
 usc_title: 50
 usc_section: "2368"
 chapter: 40
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 2368"
-generated_at: "2026-03-30T04:59:01.541Z"
+generated_at: "2026-03-30T05:01:50.040Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(5)** A description of the use of, or substantial preparations to use, the equipment of technology described in paragraph (3) by any foreign country or subnational group.
   - **(6)** A description of the diplomatic measures that the United States, and that other adherents to the MTCR and other arrangements affecting the acquisition and delivery of NBC weapons, have made with respect to activities and private persons and governments suspected of violating the MTCR and such other arrangements.
   - **(7)** An analysis of the effectiveness of the regulatory and enforcement regimes of the United States and other countries that adhere to the MTCR and other arrangements affecting the acquisition and delivery of NBC weapons in controlling the export of MTCR and other NBC weapons and delivery system equipment or technology.
-  - **(8)** A summary of advisory opinions issued under section 2410b(b)(4) of the Appendix to this title and under section 2797b(d) of title 22 .
+  - **(8)** A summary of advisory opinions issued under section 4612(b)(4) of this title and under section 2797b(d) of title 22 .
   - **(9)** An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
   - **(10)** A description of each transfer by any person or government during the preceding 12-month period which is subject to sanctions under the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484 ).
 - **(d)** The countries excluded under subsection (a) of this section are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.

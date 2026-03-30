@@ -3,9 +3,9 @@ title: "Section 25C - Nonbusiness energy property"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-30T04:58:24.359Z"
+generated_at: "2026-03-30T05:00:47.775Z"
 status: "active"
 ---
 
@@ -16,22 +16,26 @@ status: "active"
   - **(2)** the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.
 - **(b)**
   - **(1)** The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005 .
-  - **(2)** In the case of amounts paid or incurred for components described in subsection (c)(2)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005 .
+  - **(2)** In the case of amounts paid or incurred for components described in subsection (c)(2)(B) 1 1 See References in Text note below. by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005 .
   - **(3)** The amount of the credit allowed under this section by reason of subsection (a)(2) shall not exceed—
     - **(A)** $50 for any advanced main air circulating fan,
     - **(B)** $150 for any qualified natural gas, propane, or oil furnace or hot water boiler, and
     - **(C)** $300 for any item of energy-efficient building property.
 - **(c)** For purposes of this section—
-  - **(1)** The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if—
+  - **(1)** The term “qualified energy efficiency improvements” means any energy efficient building envelope component, if—
     - **(A)** such component is installed in or on a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121),
     - **(B)** the original use of such component commences with the taxpayer, and
     - **(C)** such component reasonably can be expected to remain in use for at least 5 years.
-  - **(2)** The term “building envelope component” means—
+  - **(2)** The term “energy efficient building envelope component” means a building envelope component which meets—
+    - **(A)** applicable Energy Star program requirements, in the case of a roof or roof products,
+    - **(B)** version 6.0 Energy Star program requirements, in the case of an exterior window, a skylight, or an exterior door, and
+    - **(C)** the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, in the case of any other component.
+  - **(3)** The term “building envelope component” means—
     - **(A)** any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
     - **(B)** exterior windows (including skylights),
     - **(C)** exterior doors, and
     - **(D)** any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
-  - **(3)** The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
+  - **(4)** The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
 - **(d)** For purposes of this section—
   - **(1)** The term “residential energy property expenditures” means expenditures made by the taxpayer for qualified energy property which is—
     - **(A)** installed on or in connection with a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121), and
@@ -49,9 +53,9 @@ status: "active"
       - **(ii)** may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency.
   - **(3)** The term “energy-efficient building property” means—
     - **(A)** an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
-    - **(B)** an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009 . 1 1 So in original. The period probably should be a comma.
+    - **(B)** an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009 . 2 2 So in original. The period probably should be a comma.
     - **(C)** a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009 ,
-    - **(D)** a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent. 2 2 So in original. The period probably should be “, and”.
+    - **(D)** a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent. 3 3 So in original. The period probably should be “, and”.
     - **(E)** a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
   - **(4)** The term “qualified natural gas, propane, or oil furnace or hot water boiler” means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
   - **(5)** The term “advanced main air circulating fan” means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
@@ -65,4 +69,4 @@ status: "active"
 - **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 - **(g)** This section shall not apply with respect to any property placed in service—
   - **(1)** after December 31, 2007 , and before January 1, 2009 , or
-  - **(2)** after December 31, 2014 .. 3 3 So in original.
+  - **(2)** after December 31, 2016 .. 4 4 So in original.

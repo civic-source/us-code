@@ -3,9 +3,9 @@ title: "Section 6694 - Understatement of taxpayer’s liability by tax return pr
 usc_title: 26
 usc_section: "6694"
 chapter: 68
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6694"
-generated_at: "2026-03-30T04:58:24.583Z"
+generated_at: "2026-03-30T05:00:48.006Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
 - **(b)**
   - **(1)** Any tax return preparer who prepares any return or claim for refund with respect to which any part of an understatement of liability is due to a conduct described in paragraph (2) shall pay a penalty with respect to each such return or claim in an amount equal to the greater of—
     - **(A)** $5,000, or
-    - **(B)** 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
+    - **(B)** 75 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
   - **(2)** Conduct described in this paragraph is conduct by the tax return preparer which is—
     - **(A)** a willful attempt in any manner to understate the liability for tax on the return or claim, or
     - **(B)** a reckless or intentional disregard of rules or regulations.

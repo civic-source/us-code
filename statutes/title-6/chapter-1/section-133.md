@@ -3,9 +3,9 @@ title: "Section 133 - Protection of voluntarily shared critical infrastructure i
 usc_title: 6
 usc_section: "133"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "6 U.S.C. § 133"
-generated_at: "2026-03-30T04:56:19.777Z"
+generated_at: "2026-03-30T04:59:20.326Z"
 status: "active"
 ---
 
@@ -43,4 +43,4 @@ status: "active"
 - **(g)** The Federal Government may provide advisories, alerts, and warnings to relevant companies, targeted sectors, other governmental entities, or the general public regarding potential threats to critical infrastructure as appropriate. In issuing a warning, the Federal Government shall take appropriate actions to protect from disclosure—
   - **(1)** the source of any voluntarily submitted critical infrastructure information that forms the basis for the warning; or
   - **(2)** information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.
-- **(h)** The President may delegate authority to a critical infrastructure protection program, designated under section 132 of this title , to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 2158 of title 50 , Appendix.
+- **(h)** The President may delegate authority to a critical infrastructure protection program, designated under section 132 of this title , to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 4558 of title 50 .

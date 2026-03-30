@@ -1,13 +1,13 @@
 ---
-title: "Section 5134 - Repealed. Pub. L. 87–649, § 14c(16) , Sept. 7, 1962 , 76 Stat. 501 ]"
+title: "Section 5134 - Repealed. Pub. L. 87–649 , § 14c(16), Sept. 7, 1962 , 76 Stat. 501 ]"
 usc_title: 10
 usc_section: "5134"
 chapter: 513
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 5134"
-generated_at: "2026-03-30T04:56:26.732Z"
+generated_at: "2026-03-30T04:59:28.767Z"
 status: "repealed"
 ---
 
-# [§ 5134. Repealed. Pub. L. 87–649, § 14c(16) , Sept. 7, 1962 , 76 Stat. 501 ]
+# [§ 5134. Repealed. Pub. L. 87–649 , § 14c(16), Sept. 7, 1962 , 76 Stat. 501 ]
 

@@ -3,9 +3,9 @@ title: "Section 10013 - Definitions"
 usc_title: 20
 usc_section: "10013"
 chapter: 80
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 10013"
-generated_at: "2026-03-30T04:57:15.859Z"
+generated_at: "2026-03-30T04:59:56.239Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ Except as otherwise provided in this chapter, as used in this chapter—
   - **(3)** the term “institution of higher education” has the meaning given such term in section 1001 of this title ;
   - **(4)** the term “Secretary” means the Secretary of Education;
   - **(5)** the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
-  - **(6)** any other term used that is defined in section 7801 of this title shall have the meaning given the term in such section.
+  - **(6)** any other term used that is defined in section 7801 1 of this title shall have the meaning given the term in such section.

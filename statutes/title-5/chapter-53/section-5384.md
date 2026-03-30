@@ -3,9 +3,9 @@ title: "Section 5384 - Performance awards in the Senior Executive Service"
 usc_title: 5
 usc_section: "5384"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 5384"
-generated_at: "2026-03-30T04:56:17.709Z"
+generated_at: "2026-03-30T04:59:18.344Z"
 status: "active"
 ---
 

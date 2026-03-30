@@ -3,9 +3,9 @@ title: "Section 5327 - Project management oversight"
 usc_title: 49
 usc_section: "5327"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 5327"
-generated_at: "2026-03-30T04:59:03.159Z"
+generated_at: "2026-03-30T05:01:52.667Z"
 status: "active"
 ---
 
@@ -28,7 +28,10 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary shall approve a plan not later than 60 days after it is submitted. If the approval cannot be completed within 60 days, the Secretary shall notify the recipient, explain the reasons for the delay, and estimate the additional time that will be required.
   - **(2)** The Secretary shall inform the recipient of the reasons when a plan is disapproved.
-- **(c)** Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(i) with access to the construction sites and records of the recipient when reasonably necessary.
+- **(c)** Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(f) with access to the construction sites and records of the recipient when reasonably necessary.
 - **(d)** The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
-  - **(1)** a definition of “major capital project” for section 5338(i) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
-  - **(2)** a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
+  - **(1)** a definition of “major capital project” for section 5338(f) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle;
+  - **(2)** a requirement that oversight—
+    - **(A)** begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight; and
+    - **(B)** be limited to quarterly reviews of compliance by the recipient with the project management plan approved under subsection (b) unless the Secretary finds that the recipient requires more frequent oversight because the recipient has failed to meet the requirements of such plan and the project may be at risk of going over budget or becoming behind schedule; and
+  - **(3)** a process for recipients that the Secretary has found require more frequent oversight to return to quarterly reviews for purposes of paragraph (2)(B).

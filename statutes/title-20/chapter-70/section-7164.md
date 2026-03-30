@@ -1,17 +1,13 @@
 ---
-title: "Section 7164 - Prohibited uses of funds"
+title: "Section 7164 - Repealed. Pub. L. 114–95, title IV , § 4001(a)(5)(B), Dec. 10, 2015 , 129 Stat. 1966"
 usc_title: 20
 usc_section: "7164"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7164"
-generated_at: "2026-03-30T04:57:15.831Z"
-status: "active"
+generated_at: "2026-03-30T04:59:56.214Z"
+status: "repealed"
 ---
 
-# § 7164. Prohibited uses of funds
+# §§ 7161 to 7164. Repealed. Pub. L. 114–95, title IV , § 4001(a)(5)(B), Dec. 10, 2015 , 129 Stat. 1966
 
-No funds under this part may be used for—
-
-  - **(1)** construction (except for minor remodeling needed to accomplish the purposes of this part); or
-  - **(2)** medical services, drug treatment or rehabilitation, except for pupil services or referral to treatment for students who are victims of, or witnesses to, crime or who illegally use drugs.

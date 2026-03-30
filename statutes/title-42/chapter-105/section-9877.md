@@ -3,9 +3,9 @@ title: "Section 9877 - Definitions"
 usc_title: 42
 usc_section: "9877"
 chapter: 105
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 9877"
-generated_at: "2026-03-30T04:58:57.278Z"
+generated_at: "2026-03-30T05:01:45.389Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ For purposes of this subchapter—
   - **(8)** the term “school facilities” means classrooms and related facilities used for the provision of education;
   - **(9)** the term “Secretary” means the Secretary of Health and Human Services;
   - **(10)** the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands; and
-  - **(11)** the term “State educational agency” has the meaning given that term under section 7801 of title 20 .
+  - **(11)** the term “State educational agency” has the meaning given that term under section 7801 1 1 See References in Text note below. of title 20.

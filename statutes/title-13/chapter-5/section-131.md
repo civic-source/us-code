@@ -3,9 +3,9 @@ title: "Section 131 - Collection and publication; five-year periods"
 usc_title: 13
 usc_section: "131"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "13 U.S.C. § 131"
-generated_at: "2026-03-30T04:56:42.755Z"
+generated_at: "2026-03-30T04:59:30.477Z"
 status: "active"
 ---
 

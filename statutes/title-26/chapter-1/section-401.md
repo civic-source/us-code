@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T04:58:24.423Z"
+generated_at: "2026-03-30T05:00:47.834Z"
 status: "active"
 ---
 
@@ -128,10 +128,10 @@ status: "active"
   - **(17)**
     - **(A)** A trust shall not constitute a qualified trust under this section unless, under the plan of which such trust is a part, the annual compensation of each employee taken into account under the plan for any year does not exceed $200,000.
     - **(B)** The Secretary shall adjust annually the $200,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period shall be the calendar quarter beginning July 1, 2001 , and any increase which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
-  - **[(18)** Repealed. Pub. L. 97–248, title II, § 237(b) , Sept. 3, 1982 , 96 Stat. 511 .]
+  - **[(18)** Repealed. Pub. L. 97–248, title II , § 237(b), Sept. 3, 1982 , 96 Stat. 511 .]
   - **(19)** A trust shall not constitute a qualified trust under this section if under the plan of which such trust is a part any part of a participant’s accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable), is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply to the accrued benefit of any participant unless, at the time of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit (as determined under section 411). The first sentence of this paragraph shall not apply to the extent that an accrued benefit is permitted to be forfeited in accordance with section 411(a)(3)(D)(iii) (relating to proportional forfeitures of benefits accrued before September 2, 1974 , in the event of withdrawal of certain mandatory contributions).
   - **(20)** A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section merely because the pension plan of which such trust is a part makes 1 or more distributions within 1 taxable year to a distributee on account of a termination of the plan of which the trust is a part, or in the case of a profit-sharing or stock bonus plan, a complete discontinuance of contributions under such plan. This paragraph shall not apply to a defined benefit plan unless the employer maintaining such plan files a notice with the Pension Benefit Guaranty Corporation (at the time and in the manner prescribed by the Pension Benefit Guaranty Corporation) notifying the Corporation of such payment or distribution and the Corporation has approved such payment or distribution or, within 90 days after the date on which such notice was filed, has failed to disapprove such payment or distribution. For purposes of this paragraph, rules similar to the rules of section 402(a)(6)(B) (as in effect before its repeal by section 521 of the Unemployment Compensation Amendments of 1992) shall apply.
-  - **[(21)** Repealed. Pub. L. 99–514, title XI, § 1171(b)(5) , Oct. 22, 1986 , 100 Stat. 2513 .]
+  - **[(21)** Repealed. Pub. L. 99–514, title XI , § 1171(b)(5), Oct. 22, 1986 , 100 Stat. 2513 .]
   - **(22)** If a defined contribution plan (other than a profit-sharing plan)—
     - **(A)** is established by an employer whose stock is not readily tradable on an established market, and
     - **(B)** after acquiring securities of the employer, more than 10 percent of the total assets of the plan are securities of the employer,

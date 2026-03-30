@@ -3,9 +3,9 @@ title: "Section 1629e - Settlement Trust option"
 usc_title: 43
 usc_section: "1629e"
 chapter: 33
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 1629e"
-generated_at: "2026-03-30T04:58:49.601Z"
+generated_at: "2026-03-30T05:01:30.837Z"
 status: "active"
 ---
 
@@ -38,9 +38,9 @@ status: "active"
     - **(A)** dispose of diseased or dying timber or to prevent the spread of disease or insect infestation;
     - **(B)** prevent or suppress fire; or
     - **(C)** ensure public safety.
-  - **(3)** The conveyance of assets (including stock or beneficial interests) pursuant to subsection (a) of this section shall not affect the applicability or enforcement (including specific performance) of a valid contract, judgment, lien, or other obligation (including an obligation arising under section 1606(i) of this title ) to which such assets, stock, or beneficial interests were subject immediately prior to such conveyance.
+  - **(3)** The conveyance of assets (including stock or beneficial interests) pursuant to subsection (a) shall not affect the applicability or enforcement (including specific performance) of a valid contract, judgment, lien, or other obligation (including an obligation arising under section 1606(i) of this title ) to which such assets, stock, or beneficial interests were subject immediately prior to such conveyance.
   - **(4)** A claim based upon paragraph (1), (2), or (3) shall be enforceable against the transferee Settlement Trust holding the land, interest in land, or other assets (including stock or beneficial interests) in question to the same extent as such claim would have been enforceable against the transferor Native Corporation, and valid obligations arising under section 1606(i) of this title as well as claims with respect to a conveyance in violation of a valid contract, judgment, lien, or other obligation shall also be enforceable against the transferor corporation.
-  - **(5)** Except as provided in paragraphs (1), (2), (3), and (4), once a Native Corporation has made, pursuant to subsection (a) of this section, a conveyance to a Settlement Trust that does not—
+  - **(5)** Except as provided in paragraphs (1), (2), (3), and (4), once a Native Corporation has made, pursuant to subsection (a), a conveyance to a Settlement Trust that does not—
     - **(A)** render it—
       - **(i)** unable to satisfy claims based upon paragraph (1), (2), or (3); or
       - **(ii)** insolvent; or

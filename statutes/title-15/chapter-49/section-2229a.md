@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-30T04:56:57.468Z"
+generated_at: "2026-03-30T04:59:35.564Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
   - **(2)** An application for a grant under this section shall be submitted in such form, and contain such information, as the Administrator of FEMA may prescribe.
   - **(3)** At a minimum, each application for a grant under this section shall—
     - **(A)** explain the applicant’s inability to address the need without Federal assistance;
-    - **(B)** in the case of a grant under subsection (a)(1) of this section, explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F) of this section;
+    - **(B)** in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
     - **(C)** specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
     - **(D)** provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increase their ranks within firefighting.
 - **(c)**

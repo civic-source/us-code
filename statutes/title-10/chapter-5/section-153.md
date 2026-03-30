@@ -3,9 +3,9 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-30T04:56:26.634Z"
+generated_at: "2026-03-30T04:59:28.664Z"
 status: "active"
 ---
 
@@ -38,6 +38,7 @@ status: "active"
     - **(C)** Formulating policies for coordinating the military education of members of the armed forces.
     - **(D)** Formulating policies for concept development and experimentation for the joint employment of the armed forces.
     - **(E)** Formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces.
+    - **(F)** Advising the Secretary on development of joint command, control, communications, and cyber capability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
   - **(6)**
     - **(A)** Providing for representation of the United States on the Military Staff Committee of the United Nations in accordance with the Charter of the United Nations.
     - **(B)** Performing such other duties as may be prescribed by law or by the President or the Secretary of Defense.

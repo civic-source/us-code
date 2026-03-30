@@ -3,9 +3,9 @@ title: "Section 2311 - Applicability to other laws"
 usc_title: 15
 usc_section: "2311"
 chapter: 50
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2311"
-generated_at: "2026-03-30T04:56:57.469Z"
+generated_at: "2026-03-30T04:59:35.565Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(1)** Nothing in this chapter shall invalidate or restrict any right or remedy of any consumer under State law or any other Federal law.
   - **(2)** Nothing in this chapter (other than sections 2308 and 2304(a)(2) and (4) of this title) shall (A) affect the liability of, or impose liability on, any person for personal injury, or (B) supersede any provision of State law regarding consequential damages for injury to the person or other injury.
 - **(c)**
-  - **(1)** Except as provided in subsection (b) of this section and in paragraph (2) of this subsection, a State requirement—
+  - **(1)** Except as provided in subsection (b) and in paragraph (2) of this subsection, a State requirement—
     - **(A)** which relates to labeling or disclosure with respect to written warranties or performance thereunder;
     - **(B)** which is within the scope of an applicable requirement of sections 2302, 2303, and 2304 of this title (and rules implementing such sections), and
     - **(C)** which is not identical to a requirement of section 2302, 2303, or 2304 of this title (or a rule thereunder),

@@ -3,9 +3,9 @@ title: "Section 1908 - Inflation adjustment of acquisition-related dollar thresh
 usc_title: 41
 usc_section: "1908"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "41 U.S.C. § 1908"
-generated_at: "2026-03-30T04:58:43.604Z"
+generated_at: "2026-03-30T05:01:15.553Z"
 status: "active"
 ---
 
@@ -28,11 +28,14 @@ status: "active"
 - **(d)** The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication.
 - **(e)** An adjustment under this section shall be—
   - **(1)** calculated on the basis of changes in the Consumer Price Index for all-urban consumers published monthly by the Secretary of Labor; and
-  - **(2)** rounded, in the case of a dollar threshold that on the day before the adjustment is—
+  - **(2)** rounded, in the case of a dollar threshold that as calculated under paragraph (1) is—
     - **(A)** less than $10,000, to the nearest $500;
     - **(B)** not less than $10,000, but less than $100,000, to the nearest $5,000;
-    - **(C)** not less than $100,000, but less than $1,000,000, to the nearest $50,000; and
-    - **(D)** $1,000,000 or more, to the nearest $500,000.
+    - **(C)** not less than $100,000, but less than $1,000,000, to the nearest $50,000;
+    - **(D)** not less than $1,000,000, but less than $10,000,000, to the nearest $500,000;
+    - **(E)** not less than $10,000,000, but less than $100,000,000, to the nearest $5,000,000;
+    - **(F)** not less than $100,000,000, but less than $1,000,000,000, to the nearest $50,000,000; and
+    - **(G)** $1,000,000,000 or more, to the nearest $500,000,000.
 - **(f)**
   - **(1)** A person may request adjustment of a dollar threshold adjustable under this section that is not included in a notice of adjustment published under subsection (d) by submitting a petition for adjustment to the Administrator.
   - **(2)** On receipt of a petition for adjustment of a dollar threshold under paragraph (1), the Administrator—

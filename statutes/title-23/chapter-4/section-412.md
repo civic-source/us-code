@@ -3,9 +3,9 @@ title: "Section 412 - Agency accountability"
 usc_title: 23
 usc_section: "412"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 412"
-generated_at: "2026-03-30T04:57:24.967Z"
+generated_at: "2026-03-30T05:00:18.959Z"
 status: "active"
 ---
 
@@ -34,3 +34,4 @@ status: "active"
     - **(C)** State annual accomplishment reports.
     - **(D)** The Administration’s Summary Report of findings from Management Reviews and Improvement Plans.
   - **(3)** The Secretary may not make publicly available a program, report, or review under paragraph (2) that is directed to a State highway safety agency until after the date on which the program, report, or review is submitted to that agency under this chapter.
+- **(f)** The Secretary shall develop a process to identify and mitigate possible systemic issues across States and regional offices by reviewing oversight findings and recommended actions identified in triennial State management reviews.

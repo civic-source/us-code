@@ -3,9 +3,9 @@ title: "Section 6015 - Relief from joint and several liability on joint return"
 usc_title: 26
 usc_section: "6015"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6015"
-generated_at: "2026-03-30T04:58:24.555Z"
+generated_at: "2026-03-30T05:00:47.976Z"
 status: "active"
 ---
 
@@ -70,6 +70,7 @@ status: "active"
     - **(B)** the court acquiring jurisdiction shall have jurisdiction over the petition filed under this subsection.
   - **(4)** The Tax Court shall establish rules which provide the individual filing a joint return but not making the election under subsection (b) or (c) or the request for equitable relief under subsection (f) with adequate notice and an opportunity to become a party to a proceeding under either such subsection.
   - **(5)** An individual who elects the application of subsection (b) or (c) or who requests equitable relief under subsection (f) (and who agrees with the Secretary’s determination of relief) may waive in writing at any time the restrictions in paragraph (1)(B) with respect to collection of the outstanding assessment (whether or not a notice of the Secretary’s final determination of relief has been mailed).
+  - **(6)** In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
 - **(f)** Under procedures prescribed by the Secretary, if—
   - **(1)** taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either); and
   - **(2)** relief is not available to such individual under subsection (b) or (c),

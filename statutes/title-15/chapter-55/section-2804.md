@@ -3,19 +3,19 @@ title: "Section 2804 - Notification of termination or nonrenewal of franchise re
 usc_title: 15
 usc_section: "2804"
 chapter: 55
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2804"
-generated_at: "2026-03-30T04:56:57.479Z"
+generated_at: "2026-03-30T04:59:35.575Z"
 status: "active"
 ---
 
 # § 2804. Notification of termination or nonrenewal of franchise relationship
 
 - **(a)** Prior to termination of any franchise or nonrenewal of any franchise relationship, the franchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship—
-  - **(1)** in the manner described in subsection (c) of this section; and
-  - **(2)** except as provided in subsection (b) of this section, not less than 90 days prior to the date on which such termination or nonrenewal takes effect.
+  - **(1)** in the manner described in subsection (c); and
+  - **(2)** except as provided in subsection (b), not less than 90 days prior to the date on which such termination or nonrenewal takes effect.
 - **(b)**
-  - **(1)** In circumstances in which it would not be reasonable for the franchisor to furnish notification, not less than 90 days prior to the date on which termination or nonrenewal takes effect, as required by subsection (a)(2) of this section—
+  - **(1)** In circumstances in which it would not be reasonable for the franchisor to furnish notification, not less than 90 days prior to the date on which termination or nonrenewal takes effect, as required by subsection (a)(2)—
     - **(A)** such franchisor shall furnish notification to the franchisee affected thereby on the earliest date on which furnishing of such notification is reasonably practicable; and
     - **(B)** in the case of leased marketing premises, such franchisor—
       - **(i)** may not establish a new franchise relationship with respect to such premises before the expiration of the 30-day period which begins—
@@ -31,7 +31,7 @@ status: "active"
   - **(3)** shall contain—
     - **(A)** a statement of intention to terminate the franchise or not to renew the franchise relationship, together with the reasons therefor;
     - **(B)** the date on which such termination or nonrenewal takes effect; and
-    - **(C)** the summary statement prepared under subsection (d) of this section.
+    - **(C)** the summary statement prepared under subsection (d).
 - **(d)**
   - **(1)** Not later than 30 days after June 19, 1978 , the Secretary of Energy shall prepare and publish in the Federal Register a simple and concise summary of the provisions of this subchapter, including a statement of the respective responsibilities of, and the remedies and relief available to, any franchisor and franchisee under this subchapter.
   - **(2)** In the case of summaries required to be furnished under the provisions of section 2802(b)(2)(D) of this title or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.

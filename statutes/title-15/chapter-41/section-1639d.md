@@ -3,9 +3,9 @@ title: "Section 1639d - Escrow or impound accounts relating to certain consumer 
 usc_title: 15
 usc_section: "1639d"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1639d"
-generated_at: "2026-03-30T04:56:57.442Z"
+generated_at: "2026-03-30T04:59:35.539Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12 , and the annual percentage rate will exceed the average prime offer rate as defined in section 1639c of this title by 2.5 or more percentage points; or
   - **(4)** so required pursuant to regulation.
 - **(c)** The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
-  - **(1)** operates predominantly in rural or underserved areas;
+  - **(1)** operates in rural or underserved areas;
   - **(2)** together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
   - **(3)** retains its mortgage loan originations in portfolio; and
   - **(4)** meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.

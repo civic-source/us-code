@@ -3,9 +3,9 @@ title: "Section 7133 - Assistant Secretaries; appointment and confirmation; iden
 usc_title: 42
 usc_section: "7133"
 chapter: 84
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 7133"
-generated_at: "2026-03-30T04:58:57.199Z"
+generated_at: "2026-03-30T05:01:45.307Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(E)** the fuel cycle for nuclear energy resources.
   - **(3)** Environmental responsibilities and functions, including advising the Secretary with respect to the conformance of the Department’s activities to environmental protection laws and principles, and conducting a comprehensive program of research and development on the environmental effects of energy technologies and programs.
   - **(4)** International programs and international policy functions, including those functions which assist in carrying out the international energy purposes described in section 7112 of this title .
-  - **(5)** Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294(b) , Oct. 5, 1999 , 113 Stat. 970 .
+  - **(5)** Repealed. Pub. L. 106–65, div. C, title XXXII , § 3294(b), Oct. 5, 1999 , 113 Stat. 970 .
   - **(6)** Intergovernmental policies and relations, including responsibilities for assuring that national energy policies are reflective of and responsible to the needs of State and local governments, and for assuring that other components of the Department coordinate their activities with State and local governments, where appropriate, and develop intergovernmental communications with State and local governments.
   - **(7)** Competition and consumer affairs, including responsibilities for the promotion of competition in the energy industry and for the protection of the consuming public in the energy policymaking processes, and assisting the Secretary in the formulation and analysis of policies, rules, and regulations relating to competition and consumer affairs.
   - **(8)** Nuclear waste management responsibilities, including—

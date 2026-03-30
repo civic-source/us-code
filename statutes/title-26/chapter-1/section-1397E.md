@@ -3,9 +3,9 @@ title: "Section 1397E - Credit to holders of qualified zone academy bonds"
 usc_title: 26
 usc_section: "1397E"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 1397E"
-generated_at: "2026-03-30T04:58:24.507Z"
+generated_at: "2026-03-30T05:00:47.922Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
       - **(iv)**
         - **(I)** such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or
         - **(II)** there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the Richard B. Russell National School Lunch Act.
-    - **(B)** The term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+    - **(B)** The term “eligible local education agency” means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965.
   - **(5)** The term “qualified purpose” means, with respect to any qualified zone academy—
     - **(A)** rehabilitating or repairing the public school facility in which the academy is established,
     - **(B)** providing equipment for use at such academy,

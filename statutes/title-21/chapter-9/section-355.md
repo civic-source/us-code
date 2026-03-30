@@ -3,9 +3,9 @@ title: "Section 355 - New drugs"
 usc_title: 21
 usc_section: "355"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "21 U.S.C. § 355"
-generated_at: "2026-03-30T04:57:23.157Z"
+generated_at: "2026-03-30T05:00:02.054Z"
 status: "active"
 ---
 
@@ -516,3 +516,8 @@ status: "active"
     - **(B)** Paragraphs (1)(A) and (2)(A)(i) shall not apply to any condition of use for which the drug referred to in subparagraph (1)(B)(i) or (2)(B)(i), as applicable, was approved before October 8, 2008 .
   - **(4)** Notwithstanding section 125, or any other provision, of the Food and Drug Administration Modernization Act of 1997, or any other provision of law, and subject to the limitations in paragraphs (1), (2), and (3), the provisions of the Drug Price Competition and Patent Term Restoration Act of 1984 shall apply to any drug subject to paragraph (1) or any drug with respect to which an election is made under paragraph (2)(A).
 - **(w)** The Secretary shall issue a final, substantive determination on a petition submitted pursuant to subsection (b) of section 314.161 of title 21, Code of Federal Regulations (or any successor regulations), no later than 270 days after the date the petition is submitted.
+- **(x)**
+  - **(1)** In the case of an application under subsection (b) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act [ 21 U.S.C. 801 et seq.], approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act [ 21 U.S.C. 811(j) ].
+  - **(2)** For purposes of this section, with respect to an application described in paragraph (1), the term “date of approval” shall mean the later of—
+    - **(A)** the date an application under subsection (b) is approved under subsection (c); or
+    - **(B)** the date of issuance of the interim final rule controlling the drug.

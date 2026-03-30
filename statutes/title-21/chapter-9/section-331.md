@@ -3,9 +3,9 @@ title: "Section 331 - Prohibited acts"
 usc_title: 21
 usc_section: "331"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "21 U.S.C. § 331"
-generated_at: "2026-03-30T04:57:23.146Z"
+generated_at: "2026-03-30T05:00:02.043Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ The following acts and the causing thereof are prohibited:
   - **(3)** The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 - **(j)** The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2, 374, 379, 379e, 387d, 387e, 387f, 387g, 387h, 387i, or 387t(b) of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section.. 2 2 So in original. This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
 - **(k)** The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, tobacco product, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
-- **(l)** Repealed. Pub. L. 105–115, title IV, § 421 , Nov. 21, 1997 , 111 Stat. 2380 .
+- **(l)** Repealed. Pub. L. 105–115, title IV , § 421, Nov. 21, 1997 , 111 Stat. 2380 .
 - **(m)** The sale or offering for sale of colored oleomargarine or colored margarine, or the possession or serving of colored oleomargarine or colored margarine in violation of subsections (b) or (c) of section 347 of this title .
 - **(n)** The using, in labeling, advertising or other sales promotion of any reference to any report or analysis furnished in compliance with section 374 of this title .
 - **(o)** In the case of a prescription drug distributed or offered for sale in interstate commerce, the failure of the manufacturer, packer, or distributor thereof to maintain for transmittal, or to transmit, to any practitioner licensed by applicable State law to administer such drug who makes written request for information as to such drug, true and correct copies of all printed matter which is required to be included in any package in which that drug is distributed or sold, or such other printed matter as is approved by the Secretary. Nothing in this paragraph shall be construed to exempt any person from any labeling requirement imposed by or under other provisions of this chapter.
@@ -103,3 +103,8 @@ The following acts and the causing thereof are prohibited:
   - **(1)** The resale of a compounded drug that is labeled “not for resale” in accordance with section 353b of this title .
   - **(2)** With respect to a drug to be compounded pursuant to section 353a or 353b of this title, the intentional falsification of a prescription, as applicable.
   - **(3)** The failure to report drugs or adverse events by an entity that is registered in accordance with subsection (b) of section 353b of this title .
+- **(ddd)**
+  - **(1)** The manufacture or the introduction or delivery for introduction into interstate commerce of a rinse-off cosmetic that contains intentionally-added plastic microbeads.
+  - **(2)** In this paragraph—
+    - **(A)** the term “plastic microbead” means any solid plastic particle that is less than five millimeters in size and is intended to be used to exfoliate or cleanse the human body or any part thereof; and
+    - **(B)** the term “rinse-off cosmetic” includes toothpaste.

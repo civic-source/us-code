@@ -3,9 +3,9 @@ title: "Section 615 - Refunds of tax; exemptions from tax; compensating tax; com
 usc_title: 7
 usc_section: "615"
 chapter: 26
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 615"
-generated_at: "2026-03-30T04:56:40.924Z"
+generated_at: "2026-03-30T04:59:24.491Z"
 status: "active"
 ---
 

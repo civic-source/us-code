@@ -3,9 +3,9 @@ title: "Section 251to256b - Repealed. Pub. L. 94–579, title VII, § 702 , Oct.
 usc_title: 43
 usc_section: "251to256b"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 251to256b"
-generated_at: "2026-03-30T04:58:49.551Z"
+generated_at: "2026-03-30T05:01:30.795Z"
 status: "repealed"
 ---
 

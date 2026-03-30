@@ -3,9 +3,9 @@ title: "Section 987 - Terms of consumer credit extended to members and dependent
 usc_title: 10
 usc_section: "987"
 chapter: 49
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 987"
-generated_at: "2026-03-30T04:56:26.658Z"
+generated_at: "2026-03-30T04:59:28.688Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
       - **(i)** two years after the date of discovery by the plaintiff of the violation that is the basis for such liability; or
       - **(ii)** five years after the date on which the violation that is the basis for such liability occurs.
   - **(6)** The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act ( 15 U.S.C. 1607 ) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
-- **(g)** Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).
+- **(g)** Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527). 1 1 See References in Text note below.
 - **(h)**
   - **(1)** The Secretary of Defense shall prescribe regulations to carry out this section.
   - **(2)** Such regulations shall establish the following:

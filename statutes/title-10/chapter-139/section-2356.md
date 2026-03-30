@@ -1,13 +1,13 @@
 ---
-title: "Section 2356 - Repealed. Pub. L. 104–106, div. A, title VIII, § 802(a) , Feb. 10, 1996 , 110 Stat. 390 ]"
+title: "Section 2356 - Repealed. Pub. L. 104–106, div. A, title VIII , § 802(a), Feb. 10, 1996 , 110 Stat. 390 ]"
 usc_title: 10
 usc_section: "2356"
 chapter: 139
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2356"
-generated_at: "2026-03-30T04:56:26.701Z"
+generated_at: "2026-03-30T04:59:28.733Z"
 status: "repealed"
 ---
 
-# [§ 2356. Repealed. Pub. L. 104–106, div. A, title VIII, § 802(a) , Feb. 10, 1996 , 110 Stat. 390 ]
+# [§ 2356. Repealed. Pub. L. 104–106, div. A, title VIII , § 802(a), Feb. 10, 1996 , 110 Stat. 390 ]
 

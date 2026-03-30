@@ -3,15 +3,15 @@ title: "Section 1401 - Miscellaneous"
 usc_title: 19
 usc_section: "1401"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1401"
-generated_at: "2026-03-30T04:57:10.169Z"
+generated_at: "2026-03-30T04:59:42.863Z"
 status: "active"
 ---
 
 # § 1401. Miscellaneous
 
-When used in this subtitle or in part I of subtitle II of this chapter—
+When used in this subtitle or in part I of subtitle II—
 
 - **(a)** The word “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft.
 - **(b)** The word “vehicle” includes every description of carriage or other contrivance used, or capable of being used, as a means of transportation on land, but does not include aircraft.

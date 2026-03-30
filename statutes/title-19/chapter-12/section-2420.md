@@ -3,9 +3,9 @@ title: "Section 2420 - Identification of trade expansion priorities"
 usc_title: 19
 usc_section: "2420"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2420"
-generated_at: "2026-03-30T04:57:10.199Z"
+generated_at: "2026-03-30T04:59:42.896Z"
 status: "active"
 ---
 
@@ -24,6 +24,6 @@ status: "active"
   - **(3)** The Trade Representative may include in the report, if appropriate—
     - **(A)** a description of foreign country practices that may in the future warrant identification as priority foreign country practices; and
     - **(B)** a statement about other foreign country practices that were not identified because they are already being addressed by provisions of United States trade law, by existing bilateral trade agreements, or as part of trade negotiations with other countries and progress is being made toward the elimination of such practices.
-- **(b)** By no later than the date which is 21 days after the date on which a report is submitted to the appropriate congressional committees under subsection (a)(1) of this section, the Trade Representative shall initiate under section 2412(b)(1) of this title investigations under this subchapter with respect to all of the priority foreign country practices identified.
-- **(c)** In the consultations with a foreign country that the Trade Representative is required to request under section 2413(a) of this title with respect to an investigation initiated by reason of subsection (b) of this section, the Trade Representative shall seek to negotiate an agreement that provides for the elimination of the practices that are the subject of the investigation as quickly as possible or, if elimination of the practices is not feasible, an agreement that provides for compensatory trade benefits.
-- **(d)** The Trade Representative shall include in the semiannual report required by section 2419 of this title a report on the status of any investigations initiated pursuant to subsection (b) of this section and, where appropriate, the extent to which such investigations have led to increased opportunities for the export of products and services of the United States.
+- **(b)** By no later than the date which is 21 days after the date on which a report is submitted to the appropriate congressional committees under subsection (a)(1), the Trade Representative shall initiate under section 2412(b)(1) of this title investigations under this subchapter with respect to all of the priority foreign country practices identified.
+- **(c)** In the consultations with a foreign country that the Trade Representative is required to request under section 2413(a) of this title with respect to an investigation initiated by reason of subsection (b), the Trade Representative shall seek to negotiate an agreement that provides for the elimination of the practices that are the subject of the investigation as quickly as possible or, if elimination of the practices is not feasible, an agreement that provides for compensatory trade benefits.
+- **(d)** The Trade Representative shall include in the semiannual report required by section 2419 of this title a report on the status of any investigations initiated pursuant to subsection (b) and, where appropriate, the extent to which such investigations have led to increased opportunities for the export of products and services of the United States.

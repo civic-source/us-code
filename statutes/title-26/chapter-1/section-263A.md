@@ -3,9 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T04:58:24.413Z"
+generated_at: "2026-03-30T05:00:47.823Z"
 status: "active"
 ---
 
@@ -33,6 +33,7 @@ status: "active"
     - **(A)** trees raised, harvested, or grown by the taxpayer other than trees described in clause (ii) of subsection (e)(4)(B) (after application of the last sentence thereof), and
     - **(B)** any real property underlying such trees.
   - **(6)** Paragraphs (2) and (3) shall apply to any amount allowable as a deduction under section 59(e) for qualified expenditures described in subparagraphs (B), (C), (D), and (E) of paragraph (2) thereof.
+  - **(7)** This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
 - **(d)**
   - **(1)**
     - **(A)** This section shall not apply to any of the following which is produced by the taxpayer in a farming business:

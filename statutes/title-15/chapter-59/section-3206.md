@@ -3,9 +3,9 @@ title: "Section 3206 - Gas utility rate design proposals"
 usc_title: 15
 usc_section: "3206"
 chapter: 59
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 3206"
-generated_at: "2026-03-30T04:56:57.482Z"
+generated_at: "2026-03-30T04:59:35.578Z"
 status: "active"
 ---
 
@@ -20,9 +20,9 @@ status: "active"
     - **(D)** demand for, and consumption of, natural gas;
     - **(E)** end use profiles of natural gas pipelines and local distribution companies; and
     - **(F)** competition with alternative fuels.
-- **(b)** Based upon the study prepared pursuant to subsection (a) of this section, the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
-- **(c)** The proposals prepared under subsection (b) of this section, shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a) of this section. Such proposals shall be accompanied by an analyses 1 1 So in original. Probably should be “analysis”. of—
+- **(b)** Based upon the study prepared pursuant to subsection (a), the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
+- **(c)** The proposals prepared under subsection (b), shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a). Such proposals shall be accompanied by an analyses 1 1 So in original. Probably should be “analysis”. of—
   - **(1)** the projected savings (if any) in consumption of natural gas, and other energy resources,
   - **(2)** changes (if any) in the cost of natural gas to consumers, which are likely to result from the implementation nationally of each of such proposals, and
   - **(3)** the effects of the proposals on other provisions of this Act on gas utility rate structures.
-- **(d)** The Secretary shall provide for public participation in the conduct of the study under subsection (a) of this section, and the preparation of proposals under subsection (b) of this section.
+- **(d)** The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).

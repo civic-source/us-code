@@ -3,9 +3,9 @@ title: "Section 2082 - Customs Service administration"
 usc_title: 19
 usc_section: "2082"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2082"
-generated_at: "2026-03-30T04:57:10.190Z"
+generated_at: "2026-03-30T04:59:42.886Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 - **(a)** The Commissioner of Customs shall—
   - **(1)** develop and implement accounting systems that accurately determine and report the allocations made of Customs Service personnel and other resources among the various operational functions of the Service, such as passenger processing, merchandise processing and drug enforcement; and
   - **(2)** develop and implement periodic labor distribution surveys of major workforce activities (such as inspectors, import specialists, fines, penalties, and forfeiture officers, special agents, data transcribers, and Customs aides) to determine the costs of different types of passenger and merchandise processing transactions, such as informal and formal entries, and automated and manual entries.
-- **(b)** The Commissioner of Customs shall no later than January 31, 1991 , submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2) of this section.
+- **(b)** The Commissioner of Customs shall no later than January 31, 1991 , submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2).

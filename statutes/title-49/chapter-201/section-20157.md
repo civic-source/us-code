@@ -3,9 +3,9 @@ title: "Section 20157 - Implementation of positive train control systems"
 usc_title: 49
 usc_section: "20157"
 chapter: 201
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 20157"
-generated_at: "2026-03-30T04:59:03.176Z"
+generated_at: "2026-03-30T05:01:52.684Z"
 status: "active"
 ---
 
@@ -79,7 +79,16 @@ status: "active"
   - **(2)** Immediately after the date of the enactment of the Positive Train Control Enforcement and Implementation Act of 2015, the Secretary—
     - **(A)** shall remove or revise the date-specific deadlines in the regulations or orders implementing this section to the extent necessary to conform with the amendments made by such Act; and
     - **(B)** may not enforce any such date-specific deadlines or requirements that are inconsistent with the amendments made by such Act.
-  - **(3)** Nothing in the Positive Train Control Enforcement and Implementation Act of 2015, or the amendments made by such Act, shall be construed to require the Secretary to issue regulations to implement such Act or amendments other than the regulatory amendments required by paragraph (2) and subsection (k).
+  - **(3)** Nothing in the Positive Train Control Enforcement and Implementation Act of 2015, or the amendments made by such Act, shall be construed to require the Secretary to issue regulations to implement such Act or amendments other than the regulatory amendments required to conform with this section.
+  - **(4)**
+    - **(A)** The Secretary is prohibited from—
+      - **(i)** approving or disapproving a revised plan submitted under subsection (a)(1);
+      - **(ii)** considering a revised plan under subsection (a)(1) as a request for amendment under section 236.1021 of title 49, Code of Federal Regulations; or
+      - **(iii)** requiring the submission, as part of the revised plan under subsection (a)(1), of—
+        - **(I)** only a schedule and sequence under subsection (a)(2)(A)(iii)(VII); or
+        - **(II)** both a schedule and sequence under subsection (a)(2)(A)(iii)(VII) and an alternative schedule and sequence under subsection (a)(2)(B).
+    - **(B)** Except as provided in paragraph (2) and this paragraph, nothing in this subsection shall be construed to limit the Secretary’s authority to assess civil penalties pursuant to subsection (e), consistent with the requirements of this section.
+    - **(C)** The Secretary retains the authority to review revised plans submitted under subsection (a)(1) and is authorized to require modifications of those plans to the extent necessary to ensure that such plans include the descriptions under subsection (a)(2)(A)(i), the contents under subsection (a)(2)(A)(ii), and the year or years, totals, and summary under subsection (a)(2)(A)(iii)(I) through (VI).
 - **(h)**
   - **(1)** The Secretary shall not permit the installation of any positive train control system or component in revenue service unless the Secretary has certified that any such system or component has been approved through the approval process set forth in part 236 of title 49, Code of Federal Regulations, and complies with the requirements of that part.
   - **(2)** Notwithstanding the requirements of paragraph (1), the Secretary may authorize a railroad carrier or other entity to commence operation in revenue service of a positive train control system or component to the extent necessary to enable the safe implementation and operation of a positive train control system in phases.

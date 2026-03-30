@@ -3,9 +3,9 @@ title: "Section 654a - Automated data processing"
 usc_title: 42
 usc_section: "654a"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 654a"
-generated_at: "2026-03-30T04:58:56.879Z"
+generated_at: "2026-03-30T05:01:44.974Z"
 status: "active"
 ---
 
@@ -52,10 +52,11 @@ status: "active"
   - **(4)** Exchanging information with other agencies of the State, agencies of other States, and interstate information networks, as necessary and appropriate to carry out (or assist other States to carry out) the purposes of this part.
   - **(5)** Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title ) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title .
 - **(g)**
-  - **(1)** The State shall use the automated system required by this section, to the maximum extent feasible, to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title , through the performance of functions, including, at a minimum—
+  - **(1)** The State shall use the automated system required by this section to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title , through the performance of functions, including, at a minimum—
     - **(A)** transmission of orders and notices to employers (and other debtors) for the withholding of income—
-      - **(i)** within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State; and
-      - **(ii)** using uniform formats prescribed by the Secretary;
+      - **(i)** within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State;
+      - **(ii)** using uniform formats prescribed by the Secretary; and
+      - **(iii)** at the option of the employer, using the electronic transmission methods prescribed by the Secretary;
     - **(B)** ongoing monitoring to promptly identify failures to make timely payment of support; and
     - **(C)** automatic use of enforcement procedures (including procedures authorized pursuant to section 666(c) of this title ) if payments are not timely made.
   - **(2)** As used in paragraph (1), the term “business day” means a day on which State offices are open for regular business.

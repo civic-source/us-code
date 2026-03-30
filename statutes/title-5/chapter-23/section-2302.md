@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-30T04:56:17.698Z"
+generated_at: "2026-03-30T04:59:18.332Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(v)** a reinstatement;
       - **(vi)** a restoration;
       - **(vii)** a reemployment;
-      - **(viii)** a performance evaluation under chapter 43 of this title;
+      - **(viii)** a performance evaluation under chapter 43 of this title or under title 38;
       - **(ix)** a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
       - **(x)** a decision to order psychiatric testing or examination;
       - **(xi)** the implementation or enforcement of any nondisclosure policy, form, or agreement; and

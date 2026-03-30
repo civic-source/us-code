@@ -3,9 +3,9 @@ title: "Section 14004 - Reserve active-status lists: eligibility for Reserve pro
 usc_title: 10
 usc_section: "14004"
 chapter: 1401
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 14004"
-generated_at: "2026-03-30T04:56:26.757Z"
+generated_at: "2026-03-30T04:59:28.793Z"
 status: "active"
 ---
 

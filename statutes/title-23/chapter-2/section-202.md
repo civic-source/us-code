@@ -3,9 +3,9 @@ title: "Section 202 - Tribal transportation program"
 usc_title: 23
 usc_section: "202"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 202"
-generated_at: "2026-03-30T04:57:24.962Z"
+generated_at: "2026-03-30T05:00:18.954Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(3)** Indian labor may be employed, in accordance with such rules and regulations as may be promulgated by the Secretary of the Interior, to carry out any construction or other activity described in paragraph (1).
   - **(4)** No maximum limitation on Federal employment shall be applicable to the construction or improvement of tribal transportation facilities.
   - **(5)** All funds made available for the construction and improvement of tribal transportation facilities shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the Interior.
-  - **(6)** Of the funds authorized to be appropriated for the tribal transportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
+  - **(6)** Of the funds authorized to be appropriated for the tribal transportation program, not more than 5 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
   - **(7)** The Secretary of the Interior may reserve amounts from administrative funds of the Bureau of Indian Affairs that are associated with the tribal transportation program to fund tribal technical assistance centers under section 504(b).
   - **(8)**
     - **(A)** Notwithstanding any other provision of this title, of the amount of funds allocated to an Indian tribe from the tribal transportation program, for the purpose of maintenance (excluding road sealing, which shall not be subject to any limitation), the Secretary shall not use an amount more than the greater of—
@@ -73,7 +73,7 @@ status: "active"
   - **(2)** Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary of the Interior shall maintain any regulations governing the tribal transportation program.
   - **(3)**
     - **(A)**
-      - **(i)** After making the set asides authorized under subparagraph (C) and subsections (c), (d), and (e) on October 1 of each fiscal year, the Secretary shall distribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
+      - **(i)** After making the set asides authorized under subparagraph (C) and subsections (a)(6), (c), (d), and (e) on October 1 of each fiscal year, the Secretary shall distribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
         - **(I)** For fiscal year 2013—
         - **(II)** For fiscal year 2014—
         - **(III)** For fiscal year 2015—
@@ -91,16 +91,16 @@ status: "active"
         - **(I)** Of the amounts set aside under clause (i), the Secretary shall distribute to each region of the Bureau of Indian Affairs a share of tribal supplemental funds in proportion to the regional total of tribal shares based on the cumulative tribal shares of all Indian tribes within such region under subparagraph (B).
         - **(II)** Of the amount that a region receives under subclause (I), the Secretary shall distribute tribal supplemental funding among Indian tribes within such region as follows:
         - **(III)** An Indian tribe may not receive under subclause (II) and based on its tribal share under subparagraph (A) a combined amount that exceeds the amount that such Indian tribe would be entitled to receive in fiscal year 2011 pursuant to the relative need distribution factor and population adjustment factor, as described in subpart C of part 170 of title 25, Code of Federal Regulations (as in effect on the date of enactment of the MAP–21).
-        - **(IV)** If the amount made available for a region under subclause (I) exceeds the amount distributed among Indian tribes within that region under subclause (II), the Secretary shall distribute the remainder of such region’s funding under such subclause among all Indian tribes in that region in proportion to the combined amount that each such Indian tribe received under subparagraph (A) and subclauses (I), (II), and (III).] 1 1 So in original. The closing bracket probably should not appear.
+        - **(IV)** If the amount made available for a region under subclause (I) exceeds the amount distributed among Indian tribes within that region under subclause (II), the Secretary shall distribute the remainder of such region’s funding under such subclause among all Indian tribes in that region in proportion to the combined amount that each such Indian tribe received under subparagraph (A) and subclauses (I), (II), and (III).
   - **(4)**
     - **(A)** Not later than 30 days after the date on which funds are made available to the Secretary of the Interior under this paragraph, the funds shall be distributed to, and made available for immediate use by, eligible Indian tribes, in accordance with the formula for distribution of funds under the tribal transportation program.
     - **(B)** Notwithstanding any other provision of this section, funds made available to Indian tribes for tribal transportation facilities shall be expended on projects identified in a transportation improvement program approved by the Secretary.
-  - **(5)** Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under 2 2 So in original. Probably should be followed by “the”. Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), if the Indian tribal government—
+  - **(5)** Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under 1 1 So in original. Probably should be followed by “the”. Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), if the Indian tribal government—
     - **(A)** provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
     - **(B)** obtains the advance review of the plans and specifications from a State-licensed civil engineer that has certified that the plans and specifications meet or exceed the applicable health and safety standards; and
     - **(C)** provides a copy of the certification under subparagraph (A) to the Deputy Assistant Secretary for Tribal Government Affairs, Department of Transportation, or the Assistant Secretary for Indian Affairs, Department of the Interior, as appropriate.
   - **(6)**
-    - **(A)** Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 2 Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
+    - **(A)** Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with 1 Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.).
     - **(B)** All funds, including contract support costs, for programs, functions, services, or activities, or portions of programs, services, functions, or activities, including supportive administrative functions that are otherwise contractible to which subparagraph (A) applies, shall be paid in accordance with subparagraph (A), without regard to the organizational level at which the Department of the Interior has previously carried out such programs, functions, services, or activities.
   - **(7)**
     - **(A)** Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
@@ -123,7 +123,7 @@ status: "active"
     - **(B)** subject to the approval of the Secretary of the Interior and the Secretary.
 - **(d)**
   - **(1)** The Secretary shall maintain a nationwide priority program for improving deficient bridges eligible for the tribal transportation program.
-  - **(2)** Before making any distribution under subsection (b), the Secretary shall set aside not more than 2 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+  - **(2)** Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
     - **(A)** to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
     - **(B)** to implement any countermeasure for deficient tribal transportation facility bridges, including multiple-pipe culverts.
   - **(3)** To be eligible to receive funding under this subsection, a bridge described in paragraph (1) shall—

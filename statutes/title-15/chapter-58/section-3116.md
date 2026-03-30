@@ -3,16 +3,16 @@ title: "Section 3116 - Job training, counseling and reservoirs of employment pro
 usc_title: 15
 usc_section: "3116"
 chapter: 58
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 3116"
-generated_at: "2026-03-30T04:56:57.481Z"
+generated_at: "2026-03-30T04:59:35.577Z"
 status: "active"
 ---
 
 # § 3116. Job training, counseling and reservoirs of employment projects
 
 - **(a)** Further to promote achievement of full employment under this chapter and the Employment Act of 1946 [ 15 U.S.C. 1021 et seq.], the President, through the Secretary of Labor, shall develop policies and procedures and, as necessary, recommend programs for providing employment opportunities to individuals aged 16 and over in the civilian labor force who are able, willing, and seeking to work but who, despite serious efforts to obtain employment, remain unemployed.
-- **(b)** In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.] and other relevant provisions of law to—
+- **(b)** In meeting the responsibilities under subsection (a), the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.] and other relevant provisions of law to—
   - **(1)** assure the availability of counseling, training, and other support activities necessary to prepare persons willing and seeking work for employment;
   - **(2)** refer persons able, willing, and seeking to work to job opportunities in the private and public sectors through the existing public employment placement facilities and through the United States Employment Service of the Department of Labor, including job opportunities in any positions created under programs established pursuant to sections 3112, 3114, and 3115 of this title; and
   - **(3)** encourage flexi-time and part-time jobs for persons who are able, willing, and seeking employment but who are unable to work a standard workweek.
@@ -28,5 +28,5 @@ status: "active"
 - **(d)** The Secretary, in carrying out the provisions of this section, shall establish regulations providing for—
   - **(1)** an initial determination of the job seeker’s ability to be employed at certain types and duration of work, so that such individual may be appropriately referred to jobs, training, counseling, and other supportive services;
   - **(2)** compliance with the nondiscrimination provisions of this chapter in accordance with section 3151 of this title ;
-  - **(3)** appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) of this section as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2) of this section, in order to seek a reservoir project job under subsection (c) of this section; and
+  - **(3)** appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2), in order to seek a reservoir project job under subsection (c); and
   - **(4)** such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.

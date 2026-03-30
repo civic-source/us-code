@@ -3,9 +3,9 @@ title: "Section 77ddd - Exempted securities and transactions"
 usc_title: 15
 usc_section: "77ddd"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 77ddd"
-generated_at: "2026-03-30T04:56:57.344Z"
+generated_at: "2026-03-30T04:59:35.439Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The provisions of this subchapter shall not apply to any of the following securities:
   - **(1)** any security other than (A) a note, bond, debenture, or evidence of indebtedness, whether or not secured, or (B) a certificate of interest or participation in any such note, bond, debenture, or evidence of indebtedness, or (C) a temporary certificate for, or guarantee of, any such note, bond, debenture, evidence of indebtedness, or certificate;
   - **(2)** any certificate of interest or participation in two or more securities having substantially different rights and privileges, or a temporary certificate for any such certificate;
-  - **(3)** Repealed. Pub. L. 101–550, title IV, § 403(1)(A) , Nov. 15, 1990 , 104 Stat. 2722 .
+  - **(3)** Repealed. Pub. L. 101–550, title IV , § 403(1)(A), Nov. 15, 1990 , 104 Stat. 2722 .
   - **(4)**
     - **(A)** any security exempted from the provisions of the Securities Act of 1933 [ 15 U.S.C. 77a et seq.] by paragraphs (2) to (8), (11), or (13) of section 3(a) thereof [ 15 U.S.C. 77c(a) ];
     - **(B)** any security exempted from the provisions of the Securities Act of 1933, as amended [ 15 U.S.C. 77a et seq.], by paragraph (2) of subsection 3(a) thereof, as amended by section 401 of the Employment Security Amendments of 1970 [ 15 U.S.C. 77c(a)(2) ];

@@ -3,15 +3,15 @@ title: "Section 3333 - Drawback"
 usc_title: 19
 usc_section: "3333"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3333"
-generated_at: "2026-03-30T04:57:10.213Z"
+generated_at: "2026-03-30T04:59:42.911Z"
 status: "active"
 ---
 
 # § 3333. Drawback
 
-- **(a)** For purposes of this Act and the amendments made by subsection (b) of this section, the term “good subject to NAFTA drawback” means any imported good other than the following:
+- **(a)** For purposes of this Act and the amendments made by subsection (b), the term “good subject to NAFTA drawback” means any imported good other than the following:
   - **(1)** A good entered under bond for transportation and exportation to a NAFTA country.
   - **(2)** A good exported to a NAFTA country in the same condition as when imported into the United States. For purposes of this paragraph—
     - **(A)** processes such as testing, cleaning, repacking, or inspecting a good, or preserving it in its same condition, shall not be considered to change the condition of the good, and
@@ -40,7 +40,7 @@ status: "active"
     - **(A)** apparel, or
     - **(B)** a good provided for in subheading 6307.90.99 (insofar as it relates to furniture moving pads), 5811.00.20, or 5811.00.30 of the HTS,
 - **(b)**
-- **(d)** Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to section 624 of title 7 with respect to goods included under subsection (a) of this section that are exported to—
+- **(d)** Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to section 624 of title 7 with respect to goods included under subsection (a) that are exported to—
   - **(1)** Canada after December 31, 1995 , for so long as it is a NAFTA country; or
   - **(2)** Mexico after December 31, 2000 , for so long as it is a NAFTA country.
 - **(e)** Nothing in this section or the amendments made by it shall be considered to authorize the refund, waiver, or reduction of countervailing duties or antidumping duties imposed on an imported good.

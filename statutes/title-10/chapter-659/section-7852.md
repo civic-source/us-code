@@ -3,9 +3,9 @@ title: "Section 7852 - Appointment and enlistment in reserve components"
 usc_title: 10
 usc_section: "7852"
 chapter: 659
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 7852"
-generated_at: "2026-03-30T04:56:26.742Z"
+generated_at: "2026-03-30T04:59:28.778Z"
 status: "active"
 ---
 

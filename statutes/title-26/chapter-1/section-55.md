@@ -3,9 +3,9 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-30T04:58:24.379Z"
+generated_at: "2026-03-30T05:00:47.791Z"
 status: "active"
 ---
 
@@ -40,9 +40,6 @@ status: "active"
       - **(ii)** the excess described in section 1(h)(1)(C)(ii), plus
     - **(D)** 20 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the sum of the amounts on which tax is determined under subparagraphs (B) and (C), plus
     - **(E)** 25 percent of the amount of taxable excess in excess of the sum of the amounts on which tax is determined under the preceding subparagraphs of this paragraph.
-  - **(4)** In the case of any taxable year to which section 1201(b) applies, the amount determined under clause (i) 1 1 So in original. Subpar. (B) has no cl. (i). of subparagraph (B) shall not exceed the sum of—
-    - **(A)** 20 percent of so much of the taxable excess (if any) as exceeds the qualified timber gain (or, if less, the net capital gain), plus
-    - **(B)** 15 percent of the taxable excess in excess of the amount on which a tax is determined under subparagraph (A).
 - **(c)**
   - **(1)** For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
   - **(2)** Solely for purposes of this section, section 1301 (relating to averaging of farm and fishing income) shall not apply in computing the regular tax liability.

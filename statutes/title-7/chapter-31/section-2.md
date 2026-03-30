@@ -3,9 +3,9 @@ title: "Section 2 - Rural Gigabit Network Pilot Program"
 usc_title: 7
 usc_section: "2"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T04:56:40.930Z"
+generated_at: "2026-03-30T04:59:24.496Z"
 status: "active"
 ---
 

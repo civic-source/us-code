@@ -3,9 +3,9 @@ title: "Section 3902 - Definitions"
 usc_title: 20
 usc_section: "3902"
 chapter: 52
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 3902"
-generated_at: "2026-03-30T04:57:15.800Z"
+generated_at: "2026-03-30T04:59:56.190Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ For the purpose of this chapter—
   - **(5)** The term “Foundation” means the National Science Foundation.
   - **(6)** The term “institution of higher education” has the same meaning given that term by section 1001 of this title .
   - **(7)** The term “local educational agency” has the same meaning given that term under section 7801 of this title .
-  - **(8)** The term “secondary school” has the same meaning given that term under section 198(a)(7) 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965.
+  - **(8)** The term “secondary school” has the same meaning given that term under section 7801 of this title .
   - **(9)** The term “Secretary” means the Secretary of Education.
   - **(10)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands.
   - **(11)** The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter 1 by the Governor or by State law.

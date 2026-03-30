@@ -3,9 +3,9 @@ title: "Section 109 - Major system"
 usc_title: 41
 usc_section: "109"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "41 U.S.C. § 109"
-generated_at: "2026-03-30T04:58:43.602Z"
+generated_at: "2026-03-30T05:01:15.548Z"
 status: "active"
 ---
 

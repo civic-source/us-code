@@ -1,20 +1,13 @@
 ---
-title: "Section 7231i - Evaluations"
+title: "Section 7231i - Repealed. Pub. L. 114–95, title IV , § 4001(b)(3)(D)(ii), Dec. 10, 2015 , 129 Stat. 1967"
 usc_title: 20
 usc_section: "7231i"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7231i"
-generated_at: "2026-03-30T04:57:15.834Z"
-status: "active"
+generated_at: "2026-03-30T04:59:56.216Z"
+status: "repealed"
 ---
 
-# § 7231i. Evaluations
+# § 7231i. Repealed. Pub. L. 114–95, title IV , § 4001(b)(3)(D)(ii), Dec. 10, 2015 , 129 Stat. 1967
 
-- **(a)** The Secretary may reserve not more than 2 percent of the funds appropriated under section 7231j(a) of this title for any fiscal year to carry out evaluations, provide technical assistance, and carry out dissemination projects with respect to magnet school programs assisted under this part.
-- **(b)** Each evaluation described in subsection (a) of this section, at a minimum, shall address—
-  - **(1)** how and the extent to which magnet school programs lead to educational quality and improvement;
-  - **(2)** the extent to which magnet school programs enhance student access to a high quality education;
-  - **(3)** the extent to which magnet school programs lead to the elimination, reduction, or prevention of minority group isolation in elementary schools and secondary schools with substantial proportions of minority students; and
-  - **(4)** the extent to which magnet school programs differ from other school programs in terms of the organizational characteristics and resource allocations of such magnet school programs.
-- **(c)** The Secretary shall collect and disseminate to the general public information on successful magnet school programs.

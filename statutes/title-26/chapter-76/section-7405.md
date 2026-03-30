@@ -3,9 +3,9 @@ title: "Section 7405 - Action for recovery of erroneous refunds"
 usc_title: 26
 usc_section: "7405"
 chapter: 76
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 7405"
-generated_at: "2026-03-30T04:58:24.587Z"
+generated_at: "2026-03-30T05:00:48.011Z"
 status: "active"
 ---
 

@@ -3,20 +3,20 @@ title: "Section 609 - Reports to Congress"
 usc_title: 23
 usc_section: "609"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 609"
-generated_at: "2026-03-30T04:57:24.970Z"
+generated_at: "2026-03-30T05:00:18.962Z"
 status: "active"
 ---
 
 # § 609. Reports to Congress
 
-- **(a)** On June 1, 2012 , and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under this chapter (other than section 610), including a recommendation as to whether the objectives of this chapter (other than section 610) are best served by—
+- **(a)** On June 1, 2012 , and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under the TIFIA program, including a recommendation as to whether the objectives of the TIFIA program are best served by—
   - **(1)** continuing the program under the authority of the Secretary;
   - **(2)** establishing a Federal corporation or federally sponsored enterprise to administer the program; or
-  - **(3)** phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter (other than section 610) without Federal participation.
+  - **(3)** phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by the TIFIA program without Federal participation.
 - **(b)**
-  - **(1)** Not later than December 1, 2012 , and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a list of all of the letters of interest and applications received from project sponsors for assistance under this chapter (other than section 610) during the preceding fiscal year.
+  - **(1)** Not later than December 1, 2012 , and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a list of all of the letters of interest and applications received from project sponsors for assistance under the TIFIA program during the preceding fiscal year.
   - **(2)**
     - **(A)** Each report under paragraph (1) shall include, at a minimum, a description of, with respect to each letter of interest and application included in the report—
       - **(i)** the date on which the letter of interest or application was received;

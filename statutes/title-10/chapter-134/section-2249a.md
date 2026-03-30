@@ -3,16 +3,16 @@ title: "Section 2249a - Prohibition on providing financial assistance to terrori
 usc_title: 10
 usc_section: "2249a"
 chapter: 134
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2249a"
-generated_at: "2026-03-30T04:56:26.692Z"
+generated_at: "2026-03-30T04:59:28.725Z"
 status: "active"
 ---
 
 # § 2249a. Prohibition on providing financial assistance to terrorist countries
 
 - **(a)** Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
-  - **(1)** any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));
+  - **(1)** any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)); 1 1 See References in Text note below.
   - **(2)** any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ( 22 U.S.C. 2656f ), as providing significant support for international terrorism; or
   - **(3)** any other country that, as determined by the President—
     - **(A)** grants sanctuary from prosecution to any individual or group that has committed an act of international terrorism; or

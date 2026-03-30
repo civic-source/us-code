@@ -3,9 +3,9 @@ title: "Section 904 - Homeland defense duty"
 usc_title: 32
 usc_section: "904"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "32 U.S.C. § 904"
-generated_at: "2026-03-30T04:58:28.349Z"
+generated_at: "2026-03-30T05:01:01.698Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45L - New energy efficient home credit"
 usc_title: 26
 usc_section: "45L"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 45L"
-generated_at: "2026-03-30T04:58:24.374Z"
+generated_at: "2026-03-30T05:00:47.786Z"
 status: "active"
 ---
 
@@ -43,4 +43,4 @@ status: "active"
   - **(2)** Any certification described in subsection (c) shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
 - **(e)** For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.
 - **(f)** For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.
-- **(g)** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2014 .
+- **(g)** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2016 .

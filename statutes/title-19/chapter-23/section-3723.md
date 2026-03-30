@@ -3,9 +3,9 @@ title: "Section 3723 - Free trade agreements with sub-Saharan African countries"
 usc_title: 19
 usc_section: "3723"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3723"
-generated_at: "2026-03-30T04:57:10.219Z"
+generated_at: "2026-03-30T04:59:42.917Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
       - **(ii)** Consultation with the Congress regarding all matters relating to implementation of the agreement or agreements.
       - **(iii)** Approval by the Congress of the agreement or agreements.
       - **(iv)** Adequate consultations with the relevant African governments and African regional and subregional intergovernmental organizations during the negotiation of the agreement or agreements.
-- **(c)** Not later than 12 months after May 18, 2000 , the President shall prepare and transmit to the Congress a report containing the plan developed pursuant to subsection (b) of this section.
+- **(c)** Not later than 12 months after May 18, 2000 , the President shall prepare and transmit to the Congress a report containing the plan developed pursuant to subsection (b).

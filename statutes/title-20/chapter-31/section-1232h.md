@@ -3,9 +3,9 @@ title: "Section 1232h - Protection of pupil rights"
 usc_title: 20
 usc_section: "1232h"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 1232h"
-generated_at: "2026-03-30T04:57:15.779Z"
+generated_at: "2026-03-30T04:59:56.166Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
       - **(ii)** Paragraph (1)(D) does not apply to a survey administered to a student in accordance with the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.).
     - **(B)** The rights provided to parents under this section transfer to the student when the student turns 18 years old, or is an emancipated minor (under an applicable State law) at any age.
     - **(C)** The Secretary shall annually inform each State educational agency and each local educational agency of the educational agency’s obligations under this section and section 1232g of this title .
-    - **(D)** A State educational agency or local educational agency may use funds provided under part A of title V of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7201 et seq.] to enhance parental involvement in areas affecting the in-school privacy of students.
+    - **(D)** A State educational agency or local educational agency may use funds provided under part A of title IV of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7101 et seq.] to enhance parental involvement in areas affecting the in-school privacy of students.
   - **(6)** As used in this subsection:
     - **(A)** The term “instructional material” means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
     - **(B)** The term “invasive physical examination” means any medical examination that involves the exposure of private body parts, or any act during such examination that includes incision, insertion, or injection into the body, but does not include a hearing, vision, or scoliosis screening.

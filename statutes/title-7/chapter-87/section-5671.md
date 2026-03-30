@@ -3,16 +3,16 @@ title: "Section 5671 - Agricultural embargo protection"
 usc_title: 7
 usc_section: "5671"
 chapter: 87
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 5671"
-generated_at: "2026-03-30T04:56:41.018Z"
+generated_at: "2026-03-30T04:59:24.581Z"
 status: "active"
 ---
 
 # § 5671. Agricultural embargo protection
 
 - **(a)** Notwithstanding any other provision of law, if—
-  - **(1)** the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) or under any other provision of law;
+  - **(1)** the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now 50 U.S.C. 4601 et seq.] or under any other provision of law;
   - **(2)** such suspension or restriction of the export of such agricultural commodity is imposed other than in connection with a suspension or restriction of all exports from the United States to such country or area of the world; and
   - **(3)** sales of such agricultural commodity for export from the United States to such country or area of the world during the year preceding the year in which the suspension or restriction is imposed exceeds 3 percent of the total sales of such commodity for export from the United States to all foreign countries during the year preceding the year in which the suspension or restriction is in effect;
 - **(b)** If the Secretary makes payments available to producers under subsection (a), the amount of such payment shall be determined—

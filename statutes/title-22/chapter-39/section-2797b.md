@@ -3,9 +3,9 @@ title: "Section 2797b - Transfers of missile equipment or technology by foreign 
 usc_title: 22
 usc_section: "2797b"
 chapter: 39
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2797b"
-generated_at: "2026-03-30T04:57:26.714Z"
+generated_at: "2026-03-30T05:00:34.881Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
 - **(e)**
   - **(1)** In any case other than one in which an advisory opinion has been issued under subsection (d) stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) to a foreign person if the President determines that such waiver is essential to the national security of the United States.
   - **(2)** In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
-- **(f)** In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) 2 2 So in original. Probably should be preceded by “section”. of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+- **(f)** In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 4605(j)(1)(A) 2 2 So in original. Probably should be preceded by “section”. of title 50, has repeatedly provided support for acts of international terrorism.
 - **(g)** The President may waive the imposition of sanctions under paragraph (1) on a person with respect to a product or service if the President certifies to the Congress that—
   - **(1)** the product or service is essential to the national security of the United States; and
   - **(2)** such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.

@@ -3,9 +3,9 @@ title: "Section 795m - Savings provision"
 usc_title: 29
 usc_section: "795m"
 chapter: 16
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 795m"
-generated_at: "2026-03-30T04:57:30.707Z"
+generated_at: "2026-03-30T05:00:39.912Z"
 status: "active"
 ---
 

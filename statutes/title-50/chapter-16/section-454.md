@@ -1,13 +1,13 @@
 ---
-title: "Section 454 - Repealed. Pub. L. 101–510, div. A, title XIII, § 1303(a) , Nov. 5, 1990 , 104 Stat. 1669"
+title: "Section 454 - Repealed. Pub. L. 101–510, div. A, title XIII , § 1303(a), Nov. 5, 1990 , 104 Stat. 1669"
 usc_title: 50
 usc_section: "454"
 chapter: 16
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 454"
-generated_at: "2026-03-30T04:59:01.524Z"
+generated_at: "2026-03-30T05:01:50.023Z"
 status: "repealed"
 ---
 
-# § 454. Repealed. Pub. L. 101–510, div. A, title XIII, § 1303(a) , Nov. 5, 1990 , 104 Stat. 1669
+# § 454. Repealed. Pub. L. 101–510, div. A, title XIII , § 1303(a), Nov. 5, 1990 , 104 Stat. 1669
 

@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-30T04:56:11.929Z"
+generated_at: "2026-03-30T04:59:16.760Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(6)** If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
   - **(7)**
     - **(A)** As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation.
-    - **(B)** Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+    - **(B)** Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing both the CBO and OMB estimates of the amount of discretionary new budget authority for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
     - **(C)** OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the Committees on the Budget of the House of Representatives and the Senate, CBO, and OMB.
     - **(D)** For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
 - **(b)**

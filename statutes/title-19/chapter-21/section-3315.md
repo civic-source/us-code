@@ -3,9 +3,9 @@ title: "Section 3315 - United States Section of NAFTA Secretariat"
 usc_title: 19
 usc_section: "3315"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3315"
-generated_at: "2026-03-30T04:57:10.212Z"
+generated_at: "2026-03-30T04:59:42.909Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** There are authorized to be appropriated for each fiscal year after fiscal year 1993 to the department or agency within which the United States Section is established the lesser of—
   - **(1)** such sums as may be necessary; or
   - **(2)** $2,000,000;
-- **(c)** If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a) of this section.
+- **(c)** If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a).

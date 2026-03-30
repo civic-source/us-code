@@ -3,9 +3,9 @@ title: "Section 405 - National priority safety programs"
 usc_title: 23
 usc_section: "405"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 405"
-generated_at: "2026-03-30T04:57:24.966Z"
+generated_at: "2026-03-30T05:00:18.958Z"
 status: "active"
 ---
 
@@ -120,11 +120,11 @@ status: "active"
       - **(viii)** developing impaired driving information systems; and
       - **(ix)** costs associated with a 24-7 sobriety program.
     - **(C)** Low-range States may use grant funds for any expenditure designed to reduce impaired driving based on problem identification. Medium and high-range States may use funds for such expenditures upon approval by the Secretary.
-  - **(5)** Subject to paragraph (6), the allocation of grant funds to a State under this section for a fiscal year shall be in proportion to the State’s apportionment under section 402(c) for fiscal year 2009.
+  - **(5)** Subject to paragraph (6), the allocation of grant funds to a State under this section for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.
   - **(6)**
     - **(A)** The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.
     - **(B)** Grants authorized under subparagraph (A) may be used by recipient States for any eligible activities under this subsection or section 402.
-    - **(C)** Amounts made available under this paragraph shall be allocated among States described in subparagraph (A) on the basis of the apportionment formula set forth in section 402(c).
+    - **(C)** Amounts made available under this paragraph shall be allocated among States described in subparagraph (A) in proportion to the State’s apportionment under section 402 for fiscal year 2009.
     - **(D)** Not more than 15 percent of the amounts made available to carry out this subsection in a fiscal year shall be made available by the Secretary for making grants under this paragraph.
   - **(7)** In this subsection:
     - **(A)** The term “24-7 sobriety program” means a State law or program that authorizes a State court or a State agency, as a condition of sentence, probation, parole, or work permit, to—
@@ -209,7 +209,7 @@ status: "active"
         - **(III)** mobile training units; and
         - **(IV)** leasing or purchasing facilities for closed-course motorcycle skill training;
       - **(iii)** measures designed to increase the recruitment or retention of motorcyclist safety training instructors; and
-      - **(iv)** public awareness, public service announcements, and other outreach programs to enhance driver awareness of motorcyclists, such as the “share-the-road” safety messages developed under subsection (g).
+      - **(iv)** public awareness, public service announcements, and other outreach programs to enhance driver awareness of motorcyclists, including “share-the-road” safety messages.
     - **(B)** An agency of a State that receives a grant under this subsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
   - **(5)** In this subsection:
     - **(A)** The term “motorcyclist awareness” means individual or collective awareness of—

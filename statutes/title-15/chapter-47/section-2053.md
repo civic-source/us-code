@@ -3,9 +3,9 @@ title: "Section 2053 - Consumer Product Safety Commission"
 usc_title: 15
 usc_section: "2053"
 chapter: 47
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2053"
-generated_at: "2026-03-30T04:56:57.458Z"
+generated_at: "2026-03-30T04:59:35.555Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(i)** No individual may be appointed to such a position on an acting basis for a period longer than 90 days unless such appointment is approved by the Commission.
       - **(ii)** The Chairman, with the approval of the Commission, may remove any individual serving in a position appointed under subparagraph (A).
     - **(C)** Subparagraph (A) shall not be construed to prohibit appropriate reorganizations or changes in classification.
-  - **(2)** The Chairman, subject to subsection (f)(2) of this section, may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission’s functions.
+  - **(2)** The Chairman, subject to subsection (f)(2), may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission’s functions.
   - **(3)** In addition to the number of positions authorized by section 5108(a) of title 5 , the Chairman, subject to the approval of the Commission, and subject to the standards and procedures prescribed by chapter 51 of title 5, may place a total of twelve positions in grades GS–16, GS–17, and GS–18.
   - **(4)** The appointment of any officer (other than a Commissioner) or employee of the Commission shall not be subject, directly or indirectly, to review or approval by any officer or entity within the Executive Office of the President.
   - **(5)** The Chairman may provide to officers and employees of the Commission who are appointed or assigned by the Commission to serve abroad (as defined in section 102 of the Foreign Service Act of 1980 ( 22 U.S.C. 3902 )) travel benefits similar to those authorized for members of the Foreign Service of the United Service under chapter 9 1 1 See References in Text note below. of such Act ( 22 U.S.C. 4081 et seq.).

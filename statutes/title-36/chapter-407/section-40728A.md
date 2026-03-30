@@ -3,16 +3,16 @@ title: "Section 40728A - Recovery of excess firearms, ammunition, and parts gran
 usc_title: 36
 usc_section: "40728A"
 chapter: 407
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "36 U.S.C. § 40728A"
-generated_at: "2026-03-30T04:58:38.109Z"
+generated_at: "2026-03-30T05:01:10.205Z"
 status: "active"
 ---
 
 # § 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation
 
-- **(a)** The Secretary of the Army may recover from any country to which rifles, ammunition, repair parts, or other supplies described in section 40731(a) of this title are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2314 ) any such rifles, ammunition, repair parts, or supplies that become excess to the needs of such country.
+- **(a)** The Secretary of the Army may recover from any country to which surplus firearms, ammunition, repair parts, or other supplies described in section 40732(a) of this title are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2314 ) any such surplus firearms, ammunition, repair parts, or supplies that become excess to the needs of such country.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the cost of recovery of any rifles, ammunition, repair parts, or supplies under subsection (a) shall be treated as incremental direct costs incurred in providing logistical support to the corporation for which reimbursement shall be required as provided in section 40727(a) of this title .
+  - **(1)** Except as provided in paragraph (2), the cost of recovery of any surplus firearms, ammunition, repair parts, or supplies under subsection (a) shall be treated as incremental direct costs incurred in providing logistical support to the corporation for which reimbursement shall be required as provided in section 40727(a) of this title .
   - **(2)** The Secretary may require the corporation to pay costs of recovery described in paragraph (1) in advance of incurring such costs. Amounts so paid shall not be subject to the provisions of section 3302 of title 31 , but shall be administered in accordance with the last sentence of section 40727(a) of this title .
-- **(c)** Any rifles, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with section 40728 of this title under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.
+- **(c)** Any surplus firearms, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with section 40728 of this title under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.

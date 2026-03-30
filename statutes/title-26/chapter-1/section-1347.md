@@ -1,13 +1,13 @@
 ---
-title: "Section 1347 - Repealed. Pub. L. 94–455, title XIX, § 1951(b)(12)(A) , Oct. 4, 1976 , 90 Stat. 1840 ]"
+title: "Section 1347 - Repealed. Pub. L. 94–455, title XIX , § 1951(b)(12)(A), Oct. 4, 1976 , 90 Stat. 1840 ]"
 usc_title: 26
 usc_section: "1347"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 1347"
-generated_at: "2026-03-30T04:58:24.502Z"
+generated_at: "2026-03-30T05:00:47.917Z"
 status: "repealed"
 ---
 
-# [§ 1347. Repealed. Pub. L. 94–455, title XIX, § 1951(b)(12)(A) , Oct. 4, 1976 , 90 Stat. 1840 ]
+# [§ 1347. Repealed. Pub. L. 94–455, title XIX , § 1951(b)(12)(A), Oct. 4, 1976 , 90 Stat. 1840 ]
 

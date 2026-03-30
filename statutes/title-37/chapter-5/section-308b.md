@@ -3,9 +3,9 @@ title: "Section 308b - Special pay: reenlistment bonus for members of the Select
 usc_title: 37
 usc_section: "308b"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "37 U.S.C. § 308b"
-generated_at: "2026-03-30T04:58:37.554Z"
+generated_at: "2026-03-30T05:01:05.265Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
 - **(d)** A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 - **(e)** A member who does not complete the term of enlistment in the element of the Selected Reserve for which the bonus was paid to the member under this section shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
-- **(g)** No bonus may be paid under this section to any enlisted member who, after December 31, 2015 , reenlists or voluntarily extends his enlistment in a reserve component.
+- **(g)** No bonus may be paid under this section to any enlisted member who, after December 31, 2016 , reenlists or voluntarily extends his enlistment in a reserve component.

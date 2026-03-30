@@ -3,9 +3,9 @@ title: "Section 6652 - Failure to file certain information returns, registration
 usc_title: 26
 usc_section: "6652"
 chapter: 68
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6652"
-generated_at: "2026-03-30T04:58:24.579Z"
+generated_at: "2026-03-30T05:00:48.002Z"
 status: "active"
 ---
 
@@ -39,12 +39,15 @@ status: "active"
       - **(i)** The Secretary may make a written demand on any entity or manager subject to penalty under subparagraph (A) specifying therein a reasonable future date by which the disclosure shall be filed for purposes of this subparagraph.
       - **(ii)** If any entity or manager fails to comply with any demand under clause (i) on or before the date specified in such demand, there shall be paid by such entity or manager failing to so comply $100 for each day after the expiration of the time specified in such demand during which such failure continues. The maximum penalty imposed under this subparagraph on all entities and managers for failures with respect to any 1 disclosure shall not exceed $10,000.
     - **(C)** Any term used in this section which is also used in section 4965 shall have the meaning given such term under section 4965.
-  - **(4)** No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
-  - **(5)**
+  - **(4)**
+    - **(A)** In the case of a failure to submit a notice required under section 506(a) (relating to organizations required to notify Secretary of intent to operate as 501(c)(4)) on the date and in the manner prescribed therefor, there shall be paid by the organization failing to so submit $20 for each day during which such failure continues, but the total amount imposed under this subparagraph on any organization for failure to submit any one notice shall not exceed $5,000.
+    - **(B)** The Secretary may make written demand on an organization subject to penalty under subparagraph (A) specifying in such demand a reasonable future date by which the notice shall be submitted for purposes of this subparagraph. If such notice is not submitted on or before such date, there shall be paid by the person failing to so submit $20 for each day after the expiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to submit any one notice shall not exceed $5,000.
+  - **(5)** No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
+  - **(6)**
     - **(A)** Any penalty imposed under this subsection shall be paid on notice and demand of the Secretary and in the same manner as tax.
     - **(B)** If more than 1 person is liable under this subsection for any penalty with respect to any failure, all such persons shall be jointly and severally liable with respect to such failure.
     - **(C)** For purposes of this subsection, the term “person” means any officer, director, trustee, employee, or other individual who is under a duty to perform the act in respect of which the violation occurs.
-  - **(6)**
+  - **(7)**
     - **(A)** In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014, each of the dollar amounts under paragraphs (1), (2), and (3) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
     - **(B)** If any amount adjusted under subparagraph (A)—
       - **(i)** is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and

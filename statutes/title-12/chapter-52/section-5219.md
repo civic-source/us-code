@@ -3,9 +3,9 @@ title: "Section 5219 - Foreclosure mitigation efforts"
 usc_title: 12
 usc_section: "5219"
 chapter: 52
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 5219"
-generated_at: "2026-03-30T04:56:55.534Z"
+generated_at: "2026-03-30T04:59:33.653Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3033 - Inspector General of the Intelligence Community"
 usc_title: 50
 usc_section: "3033"
 chapter: 44
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 3033"
-generated_at: "2026-03-30T04:59:01.551Z"
+generated_at: "2026-03-30T05:01:50.053Z"
 status: "active"
 ---
 
@@ -87,8 +87,8 @@ status: "active"
     - **(A)** the selection of internal and external candidates for employment with the Office of the Inspector General; and
     - **(B)** all other personnel decisions concerning personnel permanently assigned to the Office of the Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of a component of the Office of the Director of National Intelligence.
   - **(4)**
-    - **(A)** Subject to the concurrence of the Director of National Intelligence, the Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General from any department, agency, or other element of the United States Government.
-    - **(B)** Upon request of the Inspector General for information or assistance under subparagraph (A), the head of the department, agency, or element concerned shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the department, agency, or element, furnish to the Inspector General, such information or assistance.
+    - **(A)** Subject to the concurrence of the Director of National Intelligence, the Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General from any Federal, State (as defined in section 3164 of this title ), or local governmental agency or unit thereof.
+    - **(B)** Upon request of the Inspector General for information or assistance from a department, agency, or element of the Federal Government under subparagraph (A), the head of the department, agency, or element concerned shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the department, agency, or element, furnish to the Inspector General, such information or assistance.
     - **(C)** The Inspector General of the Intelligence Community may, upon reasonable notice to the head of any element of the intelligence community and in coordination with that element’s inspector general pursuant to subsection (h), conduct, as authorized by this section, an investigation, inspection, audit, or review of such element and may enter into any place occupied by such element for purposes of the performance of the duties of the Inspector General.
 - **(k)**
   - **(1)**

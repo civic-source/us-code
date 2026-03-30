@@ -3,9 +3,9 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-30T04:58:24.561Z"
+generated_at: "2026-03-30T05:00:47.982Z"
 status: "active"
 ---
 
@@ -13,12 +13,12 @@ status: "active"
 
 - **(a)** Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or, if his employment is terminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
   - **(1)** the name of such person,
-  - **(2)** the name of the employee (and his social security account number if wages as defined in section 3121(a) have been paid),
+  - **(2)** the name of the employee (and an identifying number for the employee if wages as defined in section 3121(a) have been paid),
   - **(3)** the total amount of wages as defined in section 3401(a),
   - **(4)** the total amount deducted and withheld as tax under section 3402,
   - **(5)** the total amount of wages as defined in section 3121(a),
   - **(6)** the total amount deducted and withheld as tax under section 3101,
-  - **[(7)** Repealed. Pub. L. 111–226, title II, § 219(a)(3) , Aug. 10, 2010 , 124 Stat. 2403 ]
+  - **[(7)** Repealed. Pub. L. 111–226, title II , § 219(a)(3), Aug. 10, 2010 , 124 Stat. 2403 ]
   - **(8)** the total amount of elective deferrals (within the meaning of section 402(g)(3)) and compensation deferred under section 457, including the amount of designated Roth contributions (as defined in section 402A),
   - **(9)** the total amount incurred for dependent care assistance with respect to such employee under a dependent care assistance program described in section 129(d),
   - **(10)** in the case of an employee who is a member of the Armed Forces of the United States, such employee’s earned income as determined for purposes of section 32 (relating to earned income credit),

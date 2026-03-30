@@ -3,9 +3,9 @@ title: "Section 7423 - Amount of grants"
 usc_title: 20
 usc_section: "7423"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7423"
-generated_at: "2026-03-30T04:57:15.841Z"
+generated_at: "2026-03-30T04:59:56.219Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
       - **(ii)** 80 percent of the average per pupil expenditure of all the States.
   - **(2)** The Secretary shall reduce the amount of each allocation otherwise determined under this section in accordance with subsection (e) of this section.
 - **(b)**
-  - **(1)** Notwithstanding subsection (e) of this section, an entity that is eligible for a grant under section 7422 of this title , and a school that is operated or supported by the Bureau of Indian Affairs that is eligible for a grant under subsection (d) of this section, that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
+  - **(1)** Notwithstanding subsection (e) of this section, an entity that is eligible for a grant under section 7422 of this title , and a school that is operated or supported by the Bureau of Indian Education that is eligible for a grant under subsection (d) of this section, that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
   - **(2)** Local educational agencies may form a consortium for the purpose of obtaining grants under this subpart.
   - **(3)** The Secretary may increase the minimum grant under paragraph (1) to not more than $4,000 for all grantees if the Secretary determines such increase is necessary to ensure the quality of the programs provided.
 - **(c)** For the purpose of this section, the term “average per pupil expenditure”, used with respect to a State, means an amount equal to—
@@ -28,7 +28,7 @@ status: "active"
 - **(d)**
   - **(1)** Subject to subsection (e) of this section, in addition to the grants awarded under subsection (a) of this section, the Secretary shall allocate to the Secretary of the Interior an amount equal to the product of—
     - **(A)** the total number of Indian children enrolled in schools that are operated by—
-      - **(i)** the Bureau of Indian Affairs; or
+      - **(i)** the Bureau of Indian Education; or
       - **(ii)** an Indian tribe, or an organization controlled or sanctioned by an Indian tribal government, for the children of that tribe under a contract with, or grant from, the Department of the Interior under the Indian Self-Determination Act [ 25 U.S.C. 450f et seq.] or the Tribally Controlled Schools Act of 1988 [ 25 U.S.C. 2501 et seq.]; and
     - **(B)** the greater of—
       - **(i)** the average per pupil expenditure of the State in which the school is located; or

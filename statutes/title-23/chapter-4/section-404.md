@@ -1,21 +1,25 @@
 ---
-title: "Section 404 - National Highway Safety Advisory Committee"
+title: "Section 404 - High-visibility enforcement program"
 usc_title: 23
 usc_section: "404"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 404"
-generated_at: "2026-03-30T04:57:24.966Z"
+generated_at: "2026-03-30T05:00:18.958Z"
 status: "active"
 ---
 
-# § 404. National Highway Safety Advisory Committee
+# § 404. High-visibility enforcement program
 
-- **(a)**
-  - **(1)** There is established in the Department of Transportation a National Highway Safety Advisory Committee, composed of the Secretary or an officer of the Department appointed by him, the Federal Highway Administrator, the National Highway Traffic Safety Administrator, and thirty-five members appointed by the President, no more than four of whom shall be Federal officers or employees. The Secretary shall select the Chairman of the Committee from among the Committee members. The appointed members, having due regard for the purposes of this chapter, shall be selected from among representatives of various State and local governments, including State legislatures, of public and private interests contributing to, affected by, or concerned with highway safety, including the national organizations of passenger car, bus, and truck owners, and of other public and private agencies, organizations, or groups demonstrating an active interest in highway safety, as well as research scientists and other individuals who are expert in this field.
-  - **(2)**
-    - **(A)** Each member appointed by the President shall hold office for a term of three years, except that (i) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (ii) the terms of office of members first taking office after the date of enactment of this section shall expire as follows: Twelve at the end of one year after the date such committee members are appointed by the President, twelve at the end of two years after the date such committee members are appointed by the President, and eleven at the end of three years after the date such committee members are appointed, as designated by the President at the time of appointment, and (iii) the term of any member shall be extended until the date on which the successor’s appointment is effective. None of the members appointed by the President who has served a three-year term, other than Federal officers or employees, shall be eligible for reappointment within one year following the end of his preceding term.
-    - **(B)** Members of the Committee who are not officers or employees of the United States shall, while attending meetings or conferences of such Committee or otherwise engaged in the business of such Committee, be entitled to receive compensation at a rate fixed by the Secretary, but not exceeding $100 per diem, including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized in section 5 of the Administrative Expenses Act of 1946 ( 5 U.S.C. 73b–2 ) for persons in the Government service employed intermittently. Payments under this section shall not render members of the Committee employees or officials of the United States for any purpose.
-- **(b)** The National Highway Safety Advisory Committee shall advise, consult with, and make recommendations to, the Secretary on matters relating to the activities and functions of the Department in the field of highway safety. The Committee is authorized (1) to review research projects or programs submitted to or recommended by it in the field of highway safety and recommend to the Secretary, for prosecution under this title, any such projects which it believes show promise of making valuable contributions to human knowledge with respect to the cause and prevention of highway accidents; and (2) to review, prior to issuance, standards proposed to be issued by order of the Secretary under the provisions of section 402(a) of this title and to make recommendations thereon. Such recommendations shall be published in connection with the Secretary’s determination or order.
-- **(c)** The National Highway Safety Advisory Committee shall meet from time to time as the Secretary shall direct, but at least once each year.
-- **(d)** The Secretary shall provide to the National Highway Safety Committee from among the personnel and facilities of the Department of Transportation such staff and facilities as are necessary to carry out the functions of such Committee.
+- **(a)** The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2016 through 2020.
+- **(b)** The purpose of each campaign carried out under this section shall be to achieve outcomes related to not less than 1 of the following objectives:
+  - **(1)** Reduce alcohol-impaired or drug-impaired operation of motor vehicles.
+  - **(2)** Increase use of seatbelts by occupants of motor vehicles.
+- **(c)** The Secretary may use, or authorize the use of, funds available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach in carrying out campaigns under this section. In allocating such funds, consideration shall be given to advertising directed at non-English speaking populations, including those who listen to, read, or watch nontraditional media.
+- **(d)** The Secretary shall coordinate with States in carrying out the campaigns under this section, including advertising funded under subsection (c), with consideration given to—
+  - **(1)** relying on States to provide law enforcement resources for the campaigns out of funding made available under sections 402 and 405; and
+  - **(2)** providing, out of National Highway Traffic Safety Administration resources, most of the means necessary for national advertising and education efforts associated with the campaigns.
+- **(e)** Funds made available to carry out this section may be used only for activities described in subsection (c).
+- **(f)** In this section, the following definitions apply:
+  - **(1)** The term “campaign” means a high-visibility traffic safety law enforcement campaign.
+  - **(2)** The term “State” has the meaning given that term in section 401.

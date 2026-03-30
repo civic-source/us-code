@@ -3,9 +3,9 @@ title: "Section 941b - Restoration of Federal trust relationship"
 usc_title: 25
 usc_section: "941b"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 941b"
-generated_at: "2026-03-30T04:57:20.136Z"
+generated_at: "2026-03-30T05:00:03.032Z"
 status: "active"
 ---
 

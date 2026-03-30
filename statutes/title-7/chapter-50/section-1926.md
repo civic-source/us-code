@@ -3,9 +3,9 @@ title: "Section 1926 - Water and waste facility loans and grants"
 usc_title: 7
 usc_section: "1926"
 chapter: 50
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 1926"
-generated_at: "2026-03-30T04:56:40.965Z"
+generated_at: "2026-03-30T04:59:24.530Z"
 status: "active"
 ---
 
@@ -43,11 +43,11 @@ status: "active"
     - **(B)** The term “project” shall include facilities providing central service or facilities serving individual properties, or both.
   - **(5)** Not earlier than 60 days before a preliminary application is filed for a loan under paragraph (1) or a grant under paragraph (2) for a water or waste disposal purpose, a notice of the intent of the applicant to apply for the loan or grant shall be published in a general circulation newspaper. The selection of engineers for a project design shall be done by a request for proposals by the applicant.
   - **(6)** The Secretary may make grants aggregating not to exceed $30,000,000 in any fiscal year to public bodies or such other agencies as the Secretary may determine having authority to prepare comprehensive plans for the development of water or waste disposal systems in rural areas which do not have funds available for immediate undertaking of the preparation of such plan.
-  - **(7)** Repealed. Pub. L. 107–171, title VI, § 6020(b)(1) , May 13, 2002 , 116 Stat. 363 .
+  - **(7)** Repealed. Pub. L. 107–171, title VI , § 6020(b)(1), May 13, 2002 , 116 Stat. 363 .
   - **(8)** In each instance where the Secretary receives two or more applications for financial assistance for projects that would serve substantially the same group of residents within a single rural area, and one such application is submitted by a city, town, county or other unit of general local government, he shall, in the absence of substantial reasons to the contrary, provide such assistance to such city, town, county or other unit of general local government.
   - **(9)** No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the “Safe Drinking Water Act”) ( 42 U.S.C. 300f et seq.).
   - **(10)** No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
-  - **(11)** Repealed. Pub. L. 113–79, title VI, § 6012(b) , Feb. 7, 2014 , 128 Stat. 845 .
+  - **(11)** Repealed. Pub. L. 113–79, title VI , § 6012(b), Feb. 7, 2014 , 128 Stat. 845 .
   - **(12)**
     - **(A)** The Secretary shall, in cooperation with institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307 and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, establish a system for the dissemination of information and technical assistance on federally sponsored or funded programs. The system shall be for the use of institutions eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503–505 , as amended; 7 U.S.C. 301–305 , 307, and 308), or the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, and other persons concerned with rural development.
     - **(B)** The informational system developed under this paragraph shall contain all pertinent information, including, but not limited to, information contained in the Federal Procurement Data System, Federal Assistance Program Retrieval System, Catalogue of Federal Domestic Assistance, Geographic Distribution of Federal Funds, United States Census, and Code of Federal Regulations.

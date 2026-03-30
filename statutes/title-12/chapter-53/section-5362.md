@@ -3,9 +3,9 @@ title: "Section 5362 - Enforcement"
 usc_title: 12
 usc_section: "5362"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 5362"
-generated_at: "2026-03-30T04:56:55.540Z"
+generated_at: "2026-03-30T04:59:33.659Z"
 status: "active"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 1 - Repealed. Pub. L. 87–23, § 2 , Apr. 24, 1961 , 75 Stat. 45"
+title: "Section 1 - Repealed. Pub. L. 87–23 , § 2, Apr. 24, 1961 , 75 Stat. 45"
 usc_title: 25
 usc_section: "1"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T04:57:20.110Z"
+generated_at: "2026-03-30T05:00:02.968Z"
 status: "repealed"
 ---
 
-# § 305c–1. Repealed. Pub. L. 87–23, § 2 , Apr. 24, 1961 , 75 Stat. 45
+# § 305c–1. Repealed. Pub. L. 87–23 , § 2, Apr. 24, 1961 , 75 Stat. 45
 

@@ -1,13 +1,13 @@
 ---
-title: "Section 5115a - Repealed. Pub. L. 104–188, title I, § 1808(d) , Aug. 20, 1996 , 110 Stat. 1904"
+title: "Section 5115a - Repealed. Pub. L. 104–188, title I , § 1808(d), Aug. 20, 1996 , 110 Stat. 1904"
 usc_title: 42
 usc_section: "5115a"
 chapter: 67
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 5115a"
-generated_at: "2026-03-30T04:58:57.144Z"
+generated_at: "2026-03-30T05:01:45.248Z"
 status: "repealed"
 ---
 
-# § 5115a. Repealed. Pub. L. 104–188, title I, § 1808(d) , Aug. 20, 1996 , 110 Stat. 1904
+# § 5115a. Repealed. Pub. L. 104–188, title I , § 1808(d), Aug. 20, 1996 , 110 Stat. 1904
 

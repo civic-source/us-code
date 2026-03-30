@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T04:56:57.397Z"
+generated_at: "2026-03-30T04:59:35.493Z"
 status: "active"
 ---
 
@@ -118,7 +118,7 @@ status: "active"
       - **(iii)** the award of the contract would not result in the Program Participant exceeding the requirements established by section 636(j)(10)(I) of this title .
     - **(B)** To the maximum extent practicable, the Administration shall promote the equitable geographic distribution of sole source contracts awarded pursuant to this subsection.
   - **(17)**
-    - **(A)** An otherwise responsible business concern that is in compliance with the requirements of subparagraph (B) shall not be denied the opportunity to submit and have considered its offer for any procurement contract for the supply of a product to be let pursuant to this subsection or subsection (a) of section 644 of this title solely because such concern is other than the actual manufacturer or processor of the product to be supplied under the contract.
+    - **(A)** An otherwise responsible business concern that is in compliance with the requirements of subparagraph (B) shall not be denied the opportunity to submit and have considered its offer for any procurement contract, which contract has as its principal purpose the supply of a product to be let pursuant to this subsection, subsection (m), section 644(a) of this title , section 657a of this title , or section 657f of this title , solely because such concern is other than the actual manufacturer or processor of the product to be supplied under the contract.
     - **(B)** To be in compliance with the requirements referred to in subparagraph (A), such a business concern shall—
       - **(i)** be primarily engaged in the wholesale or retail trade;
       - **(ii)** be a small business concern under the numerical size standard for the Standard Industrial Classification Code assigned to the contract solicitation on which the offer is being made;
@@ -126,6 +126,7 @@ status: "active"
       - **(iv)** represent that it will supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
         - **(I)** by the Administrator, after reviewing a determination by the contracting officer that no small business manufacturer or processor can reasonably be expected to offer a product meeting the specifications (including period for performance) required of an offeror by the solicitation; or
         - **(II)** by the Administrator for a product (or class of products), after determining that no small business manufacturer or processor is available to participate in the Federal procurement market.
+    - **(C)** This paragraph shall not apply to a contract that has as its principal purpose the acquisition of services or construction.
   - **(18)**
     - **(A)** No person within the employ of the Administration shall, during the term of such employment and for a period of two years after such employment has been terminated, engage in any activity or transaction specified in subparagraph (B) with respect to any Program Participant during such person’s term of employment, if such person participated personally (either directly or indirectly) in decision-making responsibilities relating to such Program Participant or with respect to the administration of any assistance provided to Program Participants generally under this subsection, section 636(j)(10) of this title , or section 636(a)(20) of this title .
     - **(B)** The activities and transactions prohibited by subparagraph (A) include—

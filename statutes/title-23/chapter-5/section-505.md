@@ -3,15 +3,15 @@ title: "Section 505 - State planning and research"
 usc_title: 23
 usc_section: "505"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 505"
-generated_at: "2026-03-30T04:57:24.968Z"
+generated_at: "2026-03-30T05:00:18.960Z"
 status: "active"
 ---
 
 # § 505. State planning and research
 
-- **(a)** Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (4) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+- **(a)** Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under paragraphs (1) through (5) of section 104(b) shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
   - **(1)** Engineering and economic surveys and investigations.
   - **(2)** The planning of future highway programs and local public transportation systems and the planning of the financing of such programs and systems, including metropolitan and statewide planning under sections 134 and 135.
   - **(3)** Development and implementation of management systems, plans, and processes under sections 119, 148, 149, and 167.

@@ -3,16 +3,16 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-30T04:56:26.669Z"
+generated_at: "2026-03-30T04:59:28.699Z"
 status: "active"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
 
 - **(a)** In this section:
-  - **(1)** The term “charter school” has the meaning given that term in section 5210(1) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7221i(1) ).
+  - **(1)** The term “charter school” has the meaning given that term in section 4310 of the Elementary and Secondary Education Act of 1965.
   - **(2)** The term “eligible school” means—
     - **(A)** a public school, including a charter school, at which—
       - **(i)** at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1758(b)(1) ) applicable to a family of the size involved; or
@@ -21,12 +21,12 @@ status: "active"
   - **(3)** The term “high-need school” means—
     - **(A)** an elementary or middle school in which at least 50 percent of the enrolled students are children from low-income families, based on the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), the number of children eligible to receive medical assistance under the Medicaid program, or a composite of these indicators;
     - **(B)** a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools; or
-    - **(C)** a school that is in a local educational agency that is eligible under section 6211(b) of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7345(b) ).
+    - **(C)** a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965.
   - **(4)** The term “member of the armed forces” includes a retired or former member of the armed forces.
   - **(5)** The term “participant” means an eligible member of the armed forces selected to participate in the Program.
   - **(6)** The term “Program” means the Troops-to-Teachers Program authorized by this section.
   - **(7)** The term “Secretary” means the Secretary of Defense.
-  - **(8)** The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
+  - **(8)** The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
 - **(b)** The Secretary of Defense may carry out a Troops-to-Teachers Program—
   - **(1)** to assist eligible members of the armed forces described in subsection (d) to meet the requirements necessary to become a teacher in a school described in paragraph (2); and
   - **(2)** to facilitate the employment of such members—

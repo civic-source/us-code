@@ -3,9 +3,9 @@ title: "Section 2445c - Reports: quarterly reports; reports on program changes"
 usc_title: 10
 usc_section: "2445c"
 chapter: 144
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2445c"
-generated_at: "2026-03-30T04:56:26.706Z"
+generated_at: "2026-03-30T04:59:28.740Z"
 status: "active"
 ---
 
@@ -19,9 +19,8 @@ status: "active"
   - **(1)** If, based on a quarterly report submitted by the program manager of a major automated information system program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (2), the official shall, not later than 45 days after receiving such report, notify the congressional defense committees in writing of such determination.
   - **(2)** A determination described in this paragraph with respect to a major automated information system program is a determination that—
     - **(A)** there has been a schedule change that will cause a delay of more than six months but less than a year in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of section 2445b(b) of this title ;
-    - **(B)** the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title ;
-    - **(C)** there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of section 2445b(b) of this title ; or
-    - **(D)** the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).
+    - **(B)** the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title ; or
+    - **(C)** there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of section 2445b(b) of this title .
 - **(d)**
   - **(1)** If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (3), the official shall, not later than 60 days after receiving such report—
     - **(A)** carry out an evaluation of the program under subsection (e); and

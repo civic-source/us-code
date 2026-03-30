@@ -3,9 +3,9 @@ title: "Section 512 - Unrelated business taxable income"
 usc_title: 26
 usc_section: "512"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 512"
-generated_at: "2026-03-30T04:58:24.454Z"
+generated_at: "2026-03-30T05:00:47.865Z"
 status: "active"
 ---
 
@@ -89,9 +89,8 @@ status: "active"
       - **(iii)** The term “qualifying specified payment” means a specified payment which is made pursuant to—
         - **(I)** a binding written contract in effect on the date of the enactment of this subparagraph, or
         - **(II)** a contract which is a renewal, under substantially similar terms, of a contract described in subclause (I).
-      - **(iv)** This subparagraph shall not apply to payments received or accrued after December 31, 2014 .
     - **(F)** The Secretary shall prescribe such rules as may be necessary or appropriate to prevent avoidance of the purposes of this paragraph through the use of related persons.
-  - **[(14)** Repealed. Pub. L. 101–508, title XI, § 11801(a)(23) , Nov. 5, 1990 , 104 Stat. 1388–521 .]
+  - **[(14)** Repealed. Pub. L. 101–508, title XI , § 11801(a)(23), Nov. 5, 1990 , 104 Stat. 1388–521 .]
   - **(15)** Except as provided in paragraph (4), in the case of a trade or business—
     - **(A)** which consists of providing services under license issued by a Federal regulatory agency,
     - **(B)** which is carried on by a religious order or by an educational organization described in section 170(b)(1)(A)(ii) maintained by such religious order, and which was so carried on before May 27, 1959 , and

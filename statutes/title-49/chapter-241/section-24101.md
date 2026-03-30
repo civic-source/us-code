@@ -3,9 +3,9 @@ title: "Section 24101 - Findings, mission, and goals"
 usc_title: 49
 usc_section: "24101"
 chapter: 241
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 24101"
-generated_at: "2026-03-30T04:59:03.179Z"
+generated_at: "2026-03-30T05:01:52.687Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(6)** As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
   - **(7)** The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
   - **(8)** Greater coordination between intercity and commuter rail passenger transportation is required.
-- **(b)** The mission of Amtrak is to provide efficient and effective intercity passenger rail mobility consisting of high quality service that is trip-time competitive with other intercity travel options and that is consistent with the goals of subsection (d).
+- **(b)** The mission of Amtrak is to provide efficient and effective intercity passenger rail mobility consisting of high quality service that is trip-time competitive with other intercity travel options and that is consistent with the goals set forth in subsection (c).
 - **(c)** Amtrak shall—
   - **(1)** use its best business judgment in acting to minimize United States Government subsidies, including—
     - **(A)** increasing fares;

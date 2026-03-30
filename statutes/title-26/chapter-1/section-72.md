@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T04:58:24.382Z"
+generated_at: "2026-03-30T05:00:47.794Z"
 status: "active"
 ---
 
@@ -340,7 +340,7 @@ status: "active"
     - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
     - **(B)** For purposes of this paragraph, the term “qualified public safety employee” means—
       - **(i)** any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
-      - **(ii)** any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, or any air traffic controller described in 8331(30) or 8401(35) of such title.
+      - **(ii)** any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, any air traffic controller described in 8331(30) or 8401(35) of such title, any nuclear materials courier described in section 8331(27) or 8401(33) of such title, any member of the United States Capitol Police, any member of the Supreme Court Police, or any diplomatic security special agent of the Department of State.
 - **(u)**
   - **(1)** If any annuity contract is held by a person who is not a natural person—
     - **(A)** such contract shall not be treated as an annuity contract for purposes of this subtitle (other than subchapter L), and

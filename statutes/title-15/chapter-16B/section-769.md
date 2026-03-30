@@ -3,9 +3,9 @@ title: "Section 769 - Definitions"
 usc_title: 15
 usc_section: "769"
 chapter: 16
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 769"
-generated_at: "2026-03-30T04:56:57.421Z"
+generated_at: "2026-03-30T04:59:35.518Z"
 status: "active"
 ---
 

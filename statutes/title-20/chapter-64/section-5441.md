@@ -1,13 +1,13 @@
 ---
-title: "Section 5441 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 20, 1994 , 108 Stat. 4023"
+title: "Section 5441 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 20, 1994 , 108 Stat. 4023"
 usc_title: 20
 usc_section: "5441"
 chapter: 64
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 5441"
-generated_at: "2026-03-30T04:57:15.805Z"
+generated_at: "2026-03-30T04:59:56.195Z"
 status: "repealed"
 ---
 
-# § 5441. Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 20, 1994 , 108 Stat. 4023
+# § 5441. Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 20, 1994 , 108 Stat. 4023
 

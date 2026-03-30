@@ -1,13 +1,13 @@
 ---
-title: "Section 3222a - Repealed. Pub. L. 104–127, title VIII, § 855 , Apr. 4, 1996 , 110 Stat. 1172"
+title: "Section 3222a - Repealed. Pub. L. 104–127, title VIII , § 855, Apr. 4, 1996 , 110 Stat. 1172"
 usc_title: 7
 usc_section: "3222a"
 chapter: 64
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 3222a"
-generated_at: "2026-03-30T04:56:41.004Z"
+generated_at: "2026-03-30T04:59:24.568Z"
 status: "repealed"
 ---
 
-# § 3222a. Repealed. Pub. L. 104–127, title VIII, § 855 , Apr. 4, 1996 , 110 Stat. 1172
+# § 3222a. Repealed. Pub. L. 104–127, title VIII , § 855, Apr. 4, 1996 , 110 Stat. 1172
 

@@ -3,9 +3,9 @@ title: "Section 757e - Application to Columbia River basin"
 usc_title: 16
 usc_section: "757e"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 757e"
-generated_at: "2026-03-30T04:57:06.581Z"
+generated_at: "2026-03-30T04:59:58.488Z"
 status: "active"
 ---
 

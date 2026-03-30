@@ -3,9 +3,9 @@ title: "Section 2645 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "2645"
 chapter: 157
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2645"
-generated_at: "2026-03-30T04:56:26.714Z"
+generated_at: "2026-03-30T04:59:28.747Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(1)** Payment of indemnification under this section is not subject to section 2214 or 2215 of this title or any other provision of law requiring notification to Congress before funds may be transferred.
   - **(2)** Consolidation of claims arising from the same incident is not required before indemnification of the Secretary of Transportation for payment of a claim may be made under this section.
 - **(f)** Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
-- **[(g)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(26)(B) , Nov. 24, 2003 , 117 Stat. 1598 .]
+- **[(g)** Repealed. Pub. L. 108–136, div. A, title X , § 1031(a)(26)(B), Nov. 24, 2003 , 117 Stat. 1598 .]
 - **(h)** In this section:
   - **(1)** The term “vessel war risk insurance” means insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 539 of title 46 that is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
   - **(2)** The term “Vessel War Risk Insurance Fund” means the insurance fund referred to in section 53909(a) of title 46 .

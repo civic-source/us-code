@@ -3,9 +3,9 @@ title: "Section 4134 - Types of investments"
 usc_title: 25
 usc_section: "4134"
 chapter: 43
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 4134"
-generated_at: "2026-03-30T04:57:20.189Z"
+generated_at: "2026-03-30T05:00:03.087Z"
 status: "active"
 ---
 

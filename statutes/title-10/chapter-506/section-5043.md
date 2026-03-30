@@ -3,9 +3,9 @@ title: "Section 5043 - Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "5043"
 chapter: 506
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 5043"
-generated_at: "2026-03-30T04:56:26.732Z"
+generated_at: "2026-03-30T04:59:28.767Z"
 status: "active"
 ---
 
@@ -18,14 +18,14 @@ status: "active"
     - **(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) of this title ) as a general officer.
   - **(3)** The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 - **(b)** The Commandant of the Marine Corps, while so serving, has the grade of general without vacating his permanent grade.
-- **[(c)** Repealed. Pub. L. 104–106, div. A, title V, § 502(c) , Feb. 10, 1996 , 110 Stat. 293 .]
+- **[(c)** Repealed. Pub. L. 104–106, div. A, title V , § 502(c), Feb. 10, 1996 , 110 Stat. 293 .]
 - **(d)** Except as otherwise prescribed by law and subject to section 5013(f) of this title , the Commandant performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 - **(e)** Subject to the authority, direction, and control of the Secretary of the Navy, the Commandant shall—
   - **(1)** preside over the Headquarters, Marine Corps;
   - **(2)** transmit the plans and recommendations of the Headquarters, Marine Corps, to the Secretary and advise the Secretary with regard to such plans and recommendations;
   - **(3)** after approval of the plans or recommendations of the Headquarters, Marine Corps, by the Secretary, act as the agent of the Secretary in carrying them into effect;
   - **(4)** exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Marine Corps and the Navy as the Secretary determines;
-  - **(5)** perform the duties prescribed for him by section 171 of this title and other provisions of law; and
+  - **(5)** perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
   - **(6)** perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
 - **(f)**
   - **(1)** The Commandant shall also perform the duties prescribed for him as a member of the Joint Chiefs of Staff under section 151 of this title .

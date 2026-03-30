@@ -3,9 +3,9 @@ title: "Section 683 - Borrowing operations"
 usc_title: 15
 usc_section: "683"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 683"
-generated_at: "2026-03-30T04:56:57.409Z"
+generated_at: "2026-03-30T04:59:35.505Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** The maximum amount of outstanding leverage made available to any one company licensed under section 681(c) of this title may not exceed the lesser of—
       - **(i)** 300 percent of such company’s private capital; or
       - **(ii)** $150,000,000.
-    - **(B)** The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $225,000,000.
+    - **(B)** The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $350,000,000.
     - **(C)**
       - **(i)** In calculating the outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title ), to the extent that the total of such amounts does not exceed 50 percent of the company’s private capital.
       - **(ii)** The maximum amount of outstanding leverage made available to—

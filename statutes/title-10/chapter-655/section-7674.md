@@ -3,9 +3,9 @@ title: "Section 7674 - Payment of witness fees"
 usc_title: 10
 usc_section: "7674"
 chapter: 655
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 7674"
-generated_at: "2026-03-30T04:56:26.742Z"
+generated_at: "2026-03-30T04:59:28.778Z"
 status: "active"
 ---
 

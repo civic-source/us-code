@@ -3,9 +3,9 @@ title: "Section 524 - Evasion of regulation of motor carriers"
 usc_title: 49
 usc_section: "524"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 524"
-generated_at: "2026-03-30T04:59:03.149Z"
+generated_at: "2026-03-30T05:01:52.655Z"
 status: "active"
 ---
 

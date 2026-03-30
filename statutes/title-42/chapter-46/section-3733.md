@@ -3,9 +3,9 @@ title: "Section 3733 - Authority for 100 per centum grants"
 usc_title: 42
 usc_section: "3733"
 chapter: 46
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 3733"
-generated_at: "2026-03-30T04:58:57.114Z"
+generated_at: "2026-03-30T05:01:45.215Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1231 - Regulations"
 usc_title: 33
 usc_section: "1231"
 chapter: 25
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "33 U.S.C. § 1231"
-generated_at: "2026-03-30T04:58:35.462Z"
+generated_at: "2026-03-30T05:00:59.680Z"
 status: "active"
 ---
 

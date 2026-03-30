@@ -3,16 +3,16 @@ title: "Section 777m - Multistate conservation grant program"
 usc_title: 16
 usc_section: "777m"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 777m"
-generated_at: "2026-03-30T04:57:06.584Z"
+generated_at: "2026-03-30T04:59:58.490Z"
 status: "active"
 ---
 
 # § 777m. Multistate conservation grant program
 
 - **(a)**
-  - **(1)** Not more than $3,000,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+  - **(1)** Not more than $3,000,000 shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
   - **(2)**
     - **(A)** Amounts made available under paragraph (1) shall remain available for making grants only for the first fiscal year for which the amount is made available and the following fiscal year.
     - **(B)** At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 777c(c) of this title for use by the States in the same manner as funds apportioned under section 777c(c) of this title .
@@ -41,11 +41,11 @@ status: "active"
       - **(ii)** will use the grant funds in compliance with subsection (d).
     - **(B)** Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated taking of fish.
-- **(e)** Of amounts made available under section 777c(b) of this title for each fiscal year—
+- **(e)** Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for use as follows:
   - **(1)** $200,000 shall be made available for each of—
     - **(A)** the Atlantic States Marine Fisheries Commission;
     - **(B)** the Gulf States Marine Fisheries Commission;
     - **(C)** the Pacific States Marine Fisheries Commission; and
-    - **(D)** the Great Lakes Fisheries Commission; and
+    - **(D)** the Great Lakes Fisheries Commission.
   - **(2)** $400,000 shall be made available for the Sport Fishing and Boating Partnership Council established by the United States Fish and Wildlife Service.
 - **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.

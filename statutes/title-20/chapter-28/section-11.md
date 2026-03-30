@@ -3,9 +3,9 @@ title: "Section 11 - Loan forgiveness for service in areas of national need"
 usc_title: 20
 usc_section: "11"
 chapter: 28
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T04:57:15.744Z"
+generated_at: "2026-03-30T04:59:56.130Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(A)** a public library that serves a geographic area within which the public schools have a combined average of 30 percent or more of the schools’ total student enrollments composed of children meeting a measure of poverty under section 6313(a)(5) of this title ; or
     - **(B)** a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
   - **(5)** The individual—
-    - **(A)** is highly qualified, as such term is defined in section 7801 of this title ; and
+    - **(A)** is highly qualified, as such term is defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 [former 20 U.S.C. 7801 ]; and
     - **(B)** is employed full-time—
       - **(i)** as a teacher educating students who are limited English proficient;
       - **(ii)** as a teacher in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school;
@@ -46,7 +46,12 @@ status: "active"
   - **(7)** The individual—
     - **(A)** is employed full-time as a speech-language pathologist or audiologist in an eligible preschool program or a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school; and
     - **(B)** has, at a minimum, a graduate degree in speech-language pathology, audiology, or communication sciences and disorders.
-  - **(8)** The individual is employed full-time as a school counselor (as such term is defined in section 7245(e) of this title ), in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
+  - **(8)** The individual—
+    - **(A)** is employed full-time as a school counselor who has documented competence in counseling children and adolescents in a school setting and who—
+      - **(i)** is licensed by the State or certified by an independent professional regulatory authority;
+      - **(ii)** in the absence of such State licensure or certification, possesses national certification in school counseling or a specialty of counseling granted by an independent professional organization; or
+      - **(iii)** holds a minimum of a master’s degree in school counseling from a program accredited by the Council for Accreditation of Counseling and Related Educational Programs or the equivalent; and
+    - **(B)** is so employed in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
   - **(9)** The individual is employed full-time in—
     - **(A)** public safety (including as a first responder, firefighter, police officer, or other law enforcement or public safety officer);
     - **(B)** emergency management (including as an emergency medical technician);

@@ -3,9 +3,9 @@ title: "Section 1255a - Adjustment of status of certain entrants before January 
 usc_title: 8
 usc_section: "1255a"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-30T04:56:20.439Z"
+generated_at: "2026-03-30T04:59:21.000Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(A)** is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2),
     - **(B)** has not been convicted of any felony or of three or more misdemeanors committed in the United States,
     - **(C)** has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
-    - **(D)** is registered or registering under the Military Selective Service Act [50 U.S.C. App. 451 et seq.], if the alien is required to be so registered under that Act.
+    - **(D)** is registered or registering under the Military Selective Service Act [ 50 U.S.C. 3801 et seq.], if the alien is required to be so registered under that Act.
 - **(b)**
   - **(1)** The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
     - **(A)** The alien must apply for such adjustment during the 2-year period beginning with the nineteenth month that begins after the date the alien was granted such temporary resident status.

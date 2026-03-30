@@ -3,9 +3,9 @@ title: "Section 2602 - Definitions"
 usc_title: 15
 usc_section: "2602"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2602"
-generated_at: "2026-03-30T04:56:57.471Z"
+generated_at: "2026-03-30T04:59:35.567Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ As used in this chapter:
       - **(ii)** any pesticide (as defined in the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136 et seq.]) when manufactured, processed, or distributed in commerce for use as a pesticide,
       - **(iii)** tobacco or any tobacco product,
       - **(iv)** any source material, special nuclear material, or byproduct material (as such terms are defined in the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.] and regulations issued under such Act),
-      - **(v)** any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 [ 26 U.S.C. 4181 ] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code), and
+      - **(v)** any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 [ 26 U.S.C. 4181 ] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
       - **(vi)** any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 321 ]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
   - **(3)** The term “commerce” means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
   - **(4)** The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the sale of, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.

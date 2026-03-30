@@ -3,9 +3,9 @@ title: "Section 9832 - Definitions"
 usc_title: 20
 usc_section: "9832"
 chapter: 78
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 9832"
-generated_at: "2026-03-30T04:57:15.857Z"
+generated_at: "2026-03-30T04:59:56.237Z"
 status: "active"
 ---
 
@@ -22,8 +22,8 @@ In this part:
     - **(C)** a partnership consisting of—
       - **(i)** a national, regional, or statewide nonprofit organization, with expertise and experience in providing Advanced Placement or International Baccalaureate services; and
       - **(ii)** a State educational agency or local educational agency.
-  - **(3)** The term “low-income student” has the meaning given the term “low-income individual” in section 6537(3) of this title .
-  - **(4)** The term “high concentration of low-income students” has the meaning given the term in section 6537(2) of this title .
+  - **(3)** The term “low-income student” means an individual who is determined by a State educational agency or local educational agency to be a child ages 5 through 19, from a low-income family, on the basis of data used by the Secretary to determine allocations under section 6333 of this title , data on children eligible for free or reduced-price lunches under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.], data on children in families receiving assistance under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.], or data on children eligible to receive medical assistance under the Medicaid program under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.], or through an alternate method that combines or extrapolates from those data.
+  - **(4)** The term “high concentration of low-income students”, used with respect to a school, means a school that serves a student population 40 percent or more of who are low-income students.
   - **(5)** The term “high-need local educational agency” means a local educational agency or educational service agency described in 9812(3)(A) 1 1 So in original. Probably should be preceded by “section”. of this title.
   - **(6)** The term “high-need school” means a secondary school—
     - **(A)** with a pervasive need for Advanced Placement or International Baccalaureate courses in mathematics, science, or critical foreign languages, or for additional Advanced Placement or International Baccalaureate courses in such a subject; and

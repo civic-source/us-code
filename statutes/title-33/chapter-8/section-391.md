@@ -3,9 +3,9 @@ title: "Section 391 - Summary trials authorized"
 usc_title: 33
 usc_section: "391"
 chapter: 8
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "33 U.S.C. § 391"
-generated_at: "2026-03-30T04:58:35.439Z"
+generated_at: "2026-03-30T05:00:59.654Z"
 status: "active"
 ---
 

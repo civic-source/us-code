@@ -1,13 +1,13 @@
 ---
-title: "Section 2604 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i) , Dec. 19, 2014 , 128 Stat. 4051 ]"
+title: "Section 2604 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(95)(B)(i), Dec. 19, 2014 , 128 Stat. 4051 ]"
 usc_title: 26
 usc_section: "2604"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 2604"
-generated_at: "2026-03-30T04:58:24.520Z"
+generated_at: "2026-03-30T05:00:47.936Z"
 status: "repealed"
 ---
 
-# [§ 2604. Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i) , Dec. 19, 2014 , 128 Stat. 4051 ]
+# [§ 2604. Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(95)(B)(i), Dec. 19, 2014 , 128 Stat. 4051 ]
 

@@ -3,9 +3,9 @@ title: "Section 7709 - State consideration of payments in providing State aid"
 usc_title: 20
 usc_section: "7709"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7709"
-generated_at: "2026-03-30T04:57:15.846Z"
+generated_at: "2026-03-30T04:59:56.224Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
 - **(c)**
   - **(1)**
     - **(A)** Any State that wishes to consider payments described in subsection (b)(1) of this section in providing State aid to local educational agencies shall submit to the Secretary, not later than 120 days before the beginning of the State’s fiscal year, a written notice of such State’s intention to do so.
-    - **(B)** Such notice shall be in the form and contain the information the Secretary requires, including evidence that the State has notified each local educational agency in the State of such State’s intention to consider such payments in providing State aid.
+    - **(B)** Such notice shall be in the form that the Secretary requires, including evidence that the State has notified each local educational agency in the State of such State’s intention to consider such payments in providing State aid.
   - **(2)** Before making a determination under subsection (b) of this section, the Secretary shall afford the State, and local educational agencies in the State, an opportunity to present their views.
   - **(3)** If the Secretary determines that a program of State aid qualifies under subsection (b) of this section, the Secretary shall—
     - **(A)** certify the program and so notify the State; and

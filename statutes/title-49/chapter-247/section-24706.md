@@ -3,19 +3,19 @@ title: "Section 24706 - Discontinuance"
 usc_title: 49
 usc_section: "24706"
 chapter: 247
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 24706"
-generated_at: "2026-03-30T04:59:03.182Z"
+generated_at: "2026-03-30T05:01:52.691Z"
 status: "active"
 ---
 
 # § 24706. Discontinuance
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 1 1 See References in Text note below. or or 2 2 So in original. discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
-  - **(2)** Notice of the discontinuance under section 24704 1 or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
+  - **(1)** Except as provided in subsection (b) of this section, at least 180 days before discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+  - **(2)** Notice of the discontinuance under paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 - **(b)**
-  - **(1)** Amtrak may discontinue service under section 24704 1 or subsection (a)(1) during—
+  - **(1)** Amtrak may discontinue service under subsection (a)(1) during—
     - **(A)** the first month of a fiscal year if the authorization of appropriations and the appropriations for Amtrak are not enacted at least 90 days before the beginning of the fiscal year; and
     - **(B)** the 30 days following enactment of an appropriation for Amtrak or a rescission of an appropriation.
   - **(2)** Amtrak shall notify each affected State or regional or local transportation authority of a discontinuance under this subsection as soon as possible after Amtrak decides to discontinue the service.

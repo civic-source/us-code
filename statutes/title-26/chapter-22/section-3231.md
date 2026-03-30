@@ -3,9 +3,9 @@ title: "Section 3231 - Definitions"
 usc_title: 26
 usc_section: "3231"
 chapter: 22
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 3231"
-generated_at: "2026-03-30T04:58:24.524Z"
+generated_at: "2026-03-30T05:00:47.941Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(D)** Except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in compensation solely by reason of subparagraph (A) or (B) shall be treated for purposes of this chapter as the employer with respect to such compensation.
   - **(5)** The term “compensation” shall not include any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132.
   - **(6)** The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
-  - **[(7)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v) , Dec. 19, 2014 , 128 Stat. 4040 .]
+  - **[(7)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(19)(B)(v), Dec. 19, 2014 , 128 Stat. 4040 .]
   - **(8)**
     - **(A)** Nothing in any paragraph of this subsection (other than paragraph (2)) shall exclude from the term “compensation” any amount described in subparagraph (A) or (B) of section 3121(v)(1).
     - **(B)** The rules of section 3121(v)(2) which apply for purposes of chapter 21 shall also apply for purposes of this chapter.

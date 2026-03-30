@@ -3,9 +3,9 @@ title: "Section 6907 - State legislation requiring reallocation or redistributio
 usc_title: 31
 usc_section: "6907"
 chapter: 69
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "31 U.S.C. § 6907"
-generated_at: "2026-03-30T04:58:31.071Z"
+generated_at: "2026-03-30T05:00:56.344Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 654 - Omitted"
 usc_title: 16
 usc_section: "654"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 654"
-generated_at: "2026-03-30T04:57:06.568Z"
+generated_at: "2026-03-30T04:59:58.475Z"
 status: "omitted"
 ---
 

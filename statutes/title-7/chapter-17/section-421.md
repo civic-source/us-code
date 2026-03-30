@@ -3,9 +3,9 @@ title: "Section 421 - Dairying and livestock experiment station, Mandan, North D
 usc_title: 7
 usc_section: "421"
 chapter: 17
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "7 U.S.C. § 421"
-generated_at: "2026-03-30T04:56:40.915Z"
+generated_at: "2026-03-30T04:59:24.482Z"
 status: "active"
 ---
 

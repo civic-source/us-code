@@ -3,9 +3,9 @@ title: "Section 1308 - Prohibition on importation of dog and cat fur products"
 usc_title: 19
 usc_section: "1308"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1308"
-generated_at: "2026-03-30T04:57:10.165Z"
+generated_at: "2026-03-30T04:59:42.859Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** The term “cat fur” means the pelt or skin of any animal of the species Felis catus.
   - **(2)** The term “interstate commerce” means the transportation for sale, trade, or use between any State, territory, or possession of the United States, or the District of Columbia, and any place outside thereof.
   - **(3)** The term “customs laws of the United States” means any other law or regulation enforced or administered by the United States Customs Service.
-  - **(4)** The term “designated authority” means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President (or the President’s designee), with respect to the prohibitions under subsection (b)(1)(B) of this section.
+  - **(4)** The term “designated authority” means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A), and the President (or the President’s designee), with respect to the prohibitions under subsection (b)(1)(B).
   - **(5)** The term “dog fur” means the pelt or skin of any animal of the species Canis familiaris.
   - **(6)** The term “dog or cat fur product” means any item of merchandise which consists, or is composed in whole or in part, of any dog fur, cat fur, or both.
   - **(7)** The term “person” includes any individual, partnership, corporation, association, organization, business trust, government entity, or other entity subject to the jurisdiction of the United States.
@@ -35,8 +35,8 @@ status: "active"
     - **(C)** In determining the amount of civil penalties under this paragraph, the designated authority shall take into account the degree of culpability, any history of prior violations under this section, ability to pay, the seriousness of the violation, and such other matters as fairness may require.
     - **(D)** No penalty may be assessed under this paragraph against a person unless the person is given notice and opportunity for a hearing with respect to such violation in accordance with section 554 of title 5 .
   - **(2)** Any dog or cat fur product manufactured, taken, possessed, sold, purchased, offered for sale or purchase, transported, delivered, received, carried, shipped, imported, or exported contrary to the provisions of this section or any regulation issued under this section shall be subject to forfeiture to the United States.
-  - **(3)** The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B) of this section.
-  - **(4)** Not later than 270 days after November 9, 2000 , the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
+  - **(3)** The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A), and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B).
+  - **(4)** Not later than 270 days after November 9, 2000 , the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
   - **(5)** The designated authority shall pay a reward of not less than $500 to any person who furnishes information that establishes or leads to a civil penalty assessment, debarment, or forfeiture of property for any violation of this section or any regulation issued under this section.
   - **(6)** Any person accused of a violation under this section has a defense to any proceeding brought under this section on account of such violation if that person establishes by a preponderance of the evidence that the person exercised reasonable care—
     - **(A)** in determining the nature of the products alleged to have resulted in such violation; and

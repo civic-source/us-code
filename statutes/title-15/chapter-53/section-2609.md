@@ -3,9 +3,9 @@ title: "Section 2609 - Research, development, collection, dissemination, and uti
 usc_title: 15
 usc_section: "2609"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2609"
-generated_at: "2026-03-30T04:56:57.472Z"
+generated_at: "2026-03-30T04:59:35.569Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
     - **(B)** The Administrator, in consultation and cooperation with the Secretary of Health and Human Services, may make grants and enter into contracts for the development of a data retrieval system described in subparagraph (A). Contracts may be entered into under this subparagraph without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41 .
 - **(c)** The Administrator shall coordinate, with the Assistant Secretary for Health of the Department of Health and Human Services, research undertaken by the Administrator and directed toward the development of rapid, reliable, and economical screening techniques for carcinogenic, mutagenic, teratogenic, and ecological effects of chemical substances and mixtures.
 - **(d)** The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments which may be used in the detection of toxic chemical substances and mixtures and which are reliable, economical, and capable of being implemented under a wide variety of conditions.
-- **(e)** The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish research programs to develop the fundamental scientific basis of the screening and monitoring techniques described in subsections (c) and (d) of this section, the bounds of the reliability of such techniques, and the opportunities for their improvement.
+- **(e)** The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish research programs to develop the fundamental scientific basis of the screening and monitoring techniques described in subsections (c) and (d), the bounds of the reliability of such techniques, and the opportunities for their improvement.
 - **(f)** The Administrator shall establish and promote programs and workshops to train or facilitate the training of Federal laboratory and technical personnel in existing or newly developed screening and monitoring techniques.
 - **(g)** The Administrator shall, in consultation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies, establish and coordinate a system for exchange among Federal, State, and local authorities of research and development results respecting toxic chemical substances and mixtures, including a system to facilitate and promote the development of standard data format and analysis and consistent testing procedures.

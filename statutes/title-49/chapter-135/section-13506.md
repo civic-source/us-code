@@ -3,9 +3,9 @@ title: "Section 13506 - Miscellaneous motor carrier transportation exemptions"
 usc_title: 49
 usc_section: "13506"
 chapter: 135
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 13506"
-generated_at: "2026-03-30T04:59:03.168Z"
+generated_at: "2026-03-30T05:01:52.676Z"
 status: "active"
 ---
 
@@ -39,8 +39,9 @@ status: "active"
   - **(11)** transportation of used pallets and used empty shipping containers (including intermodal cargo containers), and other used shipping devices (other than containers or devices used in the transportation of motor vehicles or parts of motor vehicles);
   - **(12)** transportation of natural, crushed, vesicular rock to be used for decorative purposes;
   - **(13)** transportation of wood chips;
-  - **(14)** brokers for motor carriers of passengers, except as provided in section 13904(d); 1 1 See References in Text note below. or
-  - **(15)** transportation of broken, crushed, or powdered glass.
+  - **(14)** brokers for motor carriers of passengers, except as provided in section 13904(d); 1 1 See References in Text note below.
+  - **(15)** transportation of broken, crushed, or powdered glass; or
+  - **(16)** the transportation of passengers by 9 to 15 passenger motor vehicles operated by youth or family camps that provide recreational or educational activities.
 - **(b)** Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
   - **(1)** transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
     - **(A)** when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or

@@ -3,9 +3,9 @@ title: "Section 1003 - Obligation to make royalty payments"
 usc_title: 17
 usc_section: "1003"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "17 U.S.C. § 1003"
-generated_at: "2026-03-30T04:56:59.657Z"
+generated_at: "2026-03-30T04:59:38.895Z"
 status: "active"
 ---
 

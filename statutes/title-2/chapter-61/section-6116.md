@@ -3,9 +3,9 @@ title: "Section 6116 - Special delivery postage allowance for President of Senat
 usc_title: 2
 usc_section: "6116"
 chapter: 61
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "2 U.S.C. § 6116"
-generated_at: "2026-03-30T04:56:11.956Z"
+generated_at: "2026-03-30T04:59:16.790Z"
 status: "active"
 ---
 

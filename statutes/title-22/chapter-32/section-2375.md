@@ -3,9 +3,9 @@ title: "Section 2375 - Assistance to Pakistan"
 usc_title: 22
 usc_section: "2375"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2375"
-generated_at: "2026-03-30T04:57:26.694Z"
+generated_at: "2026-03-30T05:00:34.860Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
   - **(4)** Notwithstanding the restrictions contained in this subsection, military equipment, technology, or defense services, other than F–16 aircraft, may be transferred to Pakistan pursuant to contracts or cases entered into before October 1, 1990 .
 - **(f)** The President may release the Government of Pakistan of its contractual obligation to pay the United States Government for the storage costs of items purchased prior to October 1, 1990 , but not delivered by the United States Government pursuant to subsection (e) and may reimburse the Government of Pakistan for any such amount paid, on such terms and conditions as the President may prescribe: Provided , That such payments have no budgetary impact.
 - **(g)** Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: Provided , That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
-- **(h)** Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under section 2410b of title 50 , Appendix, or section 2797b of this title .
+- **(h)** Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under section 4612 of title 50 or section 2797b of this title .

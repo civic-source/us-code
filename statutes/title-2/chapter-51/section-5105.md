@@ -3,9 +3,9 @@ title: "Section 5105 - Transfer of appropriations by House Leadership Offices"
 usc_title: 2
 usc_section: "5105"
 chapter: 51
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "2 U.S.C. § 5105"
-generated_at: "2026-03-30T04:56:11.954Z"
+generated_at: "2026-03-30T04:59:16.786Z"
 status: "active"
 ---
 

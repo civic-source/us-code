@@ -3,9 +3,9 @@ title: "Section 68e - Condemnation and injunction proceedings"
 usc_title: 15
 usc_section: "68e"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 68e"
-generated_at: "2026-03-30T04:56:57.337Z"
+generated_at: "2026-03-30T04:59:35.433Z"
 status: "active"
 ---
 

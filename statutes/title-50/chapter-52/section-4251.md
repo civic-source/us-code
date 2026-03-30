@@ -1,0 +1,15 @@
+---
+title: "Section 4251 - Exclusion of claims"
+usc_title: 50
+usc_section: "4251"
+chapter: 52
+current_through: "PL 114-115"
+classification: "50 U.S.C. § 4251"
+generated_at: "2026-03-30T05:01:50.074Z"
+status: "active"
+---
+
+# § 4251. Exclusion of claims
+
+Notwithstanding any other provision of law or of this chapter, nothing in this chapter shall be construed as recognition of any claim of Mexico or any other country or any Indian tribe (except as expressly provided in this chapter with respect to the Aleut tribe of Alaska) to any territory or other property of the United States, nor shall this chapter be construed as providing any basis for compensation in connection with any such claim.
+

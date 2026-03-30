@@ -3,9 +3,9 @@ title: "Section 291h - Judicial review"
 usc_title: 42
 usc_section: "291h"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 291h"
-generated_at: "2026-03-30T04:58:56.792Z"
+generated_at: "2026-03-30T05:01:44.886Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 795n - Advisory Committee on Increasing Competitive Integrated E
 usc_title: 29
 usc_section: "795n"
 chapter: 16
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 795n"
-generated_at: "2026-03-30T04:57:30.707Z"
+generated_at: "2026-03-30T05:00:39.912Z"
 status: "active"
 ---
 

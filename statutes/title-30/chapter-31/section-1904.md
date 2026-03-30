@@ -3,9 +3,9 @@ title: "Section 1904 - Marine mineral research centers"
 usc_title: 30
 usc_section: "1904"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "30 U.S.C. § 1904"
-generated_at: "2026-03-30T04:57:34.654Z"
+generated_at: "2026-03-30T05:00:42.176Z"
 status: "active"
 ---
 

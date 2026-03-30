@@ -3,17 +3,18 @@ title: "Section 3703 - Eligibility requirements"
 usc_title: 19
 usc_section: "3703"
 chapter: 23
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3703"
-generated_at: "2026-03-30T04:57:10.218Z"
+generated_at: "2026-03-30T04:59:42.917Z"
 status: "active"
 ---
 
 # § 3703. Eligibility requirements
 
-- **(a)** The President is authorized to designate a sub-Saharan African country as an eligible sub-Saharan African country if the President determines that the country—
+The President is authorized to designate a sub-Saharan African country as an eligible sub-Saharan African country if the President determines that the country—
+
   - **(1)** has established, or is making continual progress toward establishing—
-    - **(A)** a market-based economy that protects private property rights, incorporates an open rules-based trading system, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
+    - **(A)** a market-based economy that protects private property rights for men and women, incorporates an open rules-based trading system, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
     - **(B)** the rule of law, political pluralism, and the right to due process, a fair trial, and equal protection under the law;
     - **(C)** the elimination of barriers to United States trade and investment, including by—
       - **(i)** the provision of national treatment and measures to create an environment conducive to domestic and foreign investment;
@@ -24,4 +25,3 @@ status: "active"
     - **(F)** protection of internationally recognized worker rights, including the right of association, the right to organize and bargain collectively, a prohibition on the use of any form of forced or compulsory labor, a minimum age for the employment of children, and acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health;
   - **(2)** does not engage in activities that undermine United States national security or foreign policy interests; and
   - **(3)** does not engage in gross violations of internationally recognized human rights or provide support for acts of international terrorism and cooperates in international efforts to eliminate human rights violations and terrorist activities.
-- **(b)** If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, the President shall terminate the designation of the country made pursuant to subsection (a) of this section.

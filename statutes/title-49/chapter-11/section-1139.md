@@ -3,17 +3,17 @@ title: "Section 1139 - Assistance to families of passengers involved in rail pas
 usc_title: 49
 usc_section: "1139"
 chapter: 11
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 1139"
-generated_at: "2026-03-30T04:59:03.151Z"
+generated_at: "2026-03-30T05:01:52.657Z"
 status: "active"
 ---
 
 # § 1139. Assistance to families of passengers involved in rail passenger accidents
 
 - **(a)** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
-  - **(1)** designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
-  - **(2)** designate an independent nonprofit organization, with experience in disasters and post trauma 1 1 So in original. Probably should be “post-trauma”. communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+  - **(1)** designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
+  - **(2)** designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 - **(b)** The Board shall have primary Federal responsibility for—
   - **(1)** facilitating the recovery and identification of fatally injured passengers involved in an accident described in subsection (a); and
   - **(2)** communicating with the families of passengers involved in the accident as to the roles, with respect to the accident and the post-accident activities, of—
@@ -51,6 +51,6 @@ status: "active"
     - **(C)** any other person injured or killed in a rail passenger accident, as determined appropriate by the Board.
 - **(i)** Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carrier may have, in providing assistance to the families of passengers involved in a rail passenger accident.
 - **(j)**
-  - **(1)** This section (other than subsection (g)) shall not apply to a railroad passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
-  - **(2)** If this section does not apply to a railroad passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+  - **(1)** This section (other than subsection (g)) shall not apply to a rail passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
+  - **(2)** If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 - **(k)** Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.

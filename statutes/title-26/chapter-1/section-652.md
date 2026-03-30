@@ -3,9 +3,9 @@ title: "Section 652 - Inclusion of amounts in gross income of beneficiaries of t
 usc_title: 26
 usc_section: "652"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 652"
-generated_at: "2026-03-30T04:58:24.462Z"
+generated_at: "2026-03-30T05:00:47.875Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-30T04:58:49.548Z"
+generated_at: "2026-03-30T05:01:30.792Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** There is established a national cooperative geologic mapping program between the United States Geological Survey and the State geological surveys, acting through the Association.
   - **(2)** The cooperative geologic mapping program shall be—
-    - **(A)** designed and administered to achieve the objectives set forth in subsection (c) of this section;
+    - **(A)** designed and administered to achieve the objectives set forth in subsection (c);
     - **(B)** developed in consultation with the advisory committee; and
     - **(C)** administered through the Survey.
 - **(b)**
@@ -27,7 +27,7 @@ status: "active"
       - **(iii)** how long-term staffing plans for the various components of the geologic mapping program affect successful implementation of the geologic mapping program.
   - **(2)** In addition to paragraph (1), the Secretary, acting through the Director, shall be responsible for developing, as soon as practicable—
     - **(A)** in cooperation with the Association, other Federal and State agencies, public and private sector organizations and academia, the geologic-map data base; and
-    - **(B)** maps and mapping techniques which achieve the objectives specified in subsection (c) of this section.
+    - **(B)** maps and mapping techniques which achieve the objectives specified in subsection (c).
 - **(c)** The objectives of the geologic mapping program shall include—
   - **(1)** determining the Nation’s geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
   - **(2)** development of a complementary national geochronologic and paleontologic data base that provides value-added descriptive and interpretative information to the geologic-map data base;

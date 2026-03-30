@@ -3,9 +3,9 @@ title: "Section 1612 - Merit system principles and civil service protections: ap
 usc_title: 10
 usc_section: "1612"
 chapter: 83
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 1612"
-generated_at: "2026-03-30T04:56:26.682Z"
+generated_at: "2026-03-30T04:59:28.713Z"
 status: "active"
 ---
 

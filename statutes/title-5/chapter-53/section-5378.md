@@ -3,9 +3,9 @@ title: "Section 5378 - Police forces of the Bureau of Engraving and Printing and
 usc_title: 5
 usc_section: "5378"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 5378"
-generated_at: "2026-03-30T04:56:17.709Z"
+generated_at: "2026-03-30T04:59:18.344Z"
 status: "active"
 ---
 

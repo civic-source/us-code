@@ -3,9 +3,9 @@ title: "Section 1774c - Responsibilities and restrictions"
 usc_title: 25
 usc_section: "1774c"
 chapter: 19
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 1774c"
-generated_at: "2026-03-30T04:57:20.162Z"
+generated_at: "2026-03-30T05:00:03.059Z"
 status: "active"
 ---
 

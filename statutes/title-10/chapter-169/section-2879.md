@@ -1,13 +1,13 @@
 ---
-title: "Section 2879 - Repealed. Pub. L. 107–314, div. B, title XXVIII, § 2802(c)(1) , Dec. 2, 2002 , 116 Stat. 2703 ]"
+title: "Section 2879 - Repealed. Pub. L. 107–314, div. B, title XXVIII , § 2802(c)(1), Dec. 2, 2002 , 116 Stat. 2703 ]"
 usc_title: 10
 usc_section: "2879"
 chapter: 169
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2879"
-generated_at: "2026-03-30T04:56:26.722Z"
+generated_at: "2026-03-30T04:59:28.756Z"
 status: "repealed"
 ---
 
-# [§ 2879. Repealed. Pub. L. 107–314, div. B, title XXVIII, § 2802(c)(1) , Dec. 2, 2002 , 116 Stat. 2703 ]
+# [§ 2879. Repealed. Pub. L. 107–314, div. B, title XXVIII , § 2802(c)(1), Dec. 2, 2002 , 116 Stat. 2703 ]
 

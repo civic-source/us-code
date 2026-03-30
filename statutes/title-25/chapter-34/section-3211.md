@@ -1,13 +1,13 @@
 ---
-title: "Section 3211 - Repealed. Pub. L. 105–362, title VIII, § 801(a) , Nov. 10, 1998 , 112 Stat. 3287"
+title: "Section 3211 - Repealed. Pub. L. 105–362, title VIII , § 801(a), Nov. 10, 1998 , 112 Stat. 3287"
 usc_title: 25
 usc_section: "3211"
 chapter: 34
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 3211"
-generated_at: "2026-03-30T04:57:20.183Z"
+generated_at: "2026-03-30T05:00:03.080Z"
 status: "repealed"
 ---
 
-# § 3211. Repealed. Pub. L. 105–362, title VIII, § 801(a) , Nov. 10, 1998 , 112 Stat. 3287
+# § 3211. Repealed. Pub. L. 105–362, title VIII , § 801(a), Nov. 10, 1998 , 112 Stat. 3287
 

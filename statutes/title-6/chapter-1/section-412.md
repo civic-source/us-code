@@ -3,9 +3,9 @@ title: "Section 412 - Labor-management relations"
 usc_title: 6
 usc_section: "412"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "6 U.S.C. § 412"
-generated_at: "2026-03-30T04:56:19.786Z"
+generated_at: "2026-03-30T04:59:20.335Z"
 status: "active"
 ---
 

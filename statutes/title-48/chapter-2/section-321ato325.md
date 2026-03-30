@@ -3,9 +3,9 @@ title: "Section 321ato325 - Repealed. Pub. L. 86–70, § 21(d)(6) , (7), June 2
 usc_title: 48
 usc_section: "321ato325"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "48 U.S.C. § 321ato325"
-generated_at: "2026-03-30T04:59:00.666Z"
+generated_at: "2026-03-30T05:01:48.536Z"
 status: "repealed"
 ---
 

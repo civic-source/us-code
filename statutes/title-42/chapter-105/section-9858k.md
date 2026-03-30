@@ -3,9 +3,9 @@ title: "Section 9858k - Limitations on use of financial assistance for certain p
 usc_title: 42
 usc_section: "9858k"
 chapter: 105
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 9858k"
-generated_at: "2026-03-30T04:58:57.277Z"
+generated_at: "2026-03-30T05:01:45.388Z"
 status: "active"
 ---
 

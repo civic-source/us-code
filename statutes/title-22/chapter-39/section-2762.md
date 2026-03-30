@@ -3,9 +3,9 @@ title: "Section 2762 - Procurement for cash sales"
 usc_title: 22
 usc_section: "2762"
 chapter: 39
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2762"
-generated_at: "2026-03-30T04:57:26.710Z"
+generated_at: "2026-03-30T05:00:34.877Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Except as otherwise provided in this section, the President may, without requirement for charge to any appropriation or contract authorization otherwise provided, enter into contracts for the procurement of defense articles or defense services for sale for United States dollars to any foreign country or international organization if such country or international organization provides the United States Government with a dependable undertaking (1) to pay the full amount of such contract which will assure the United States Government against any loss on the contract, and (2) to make funds available in such amounts and at such times as may be required to meet the payments required by the contract, and any damages and costs that may accrue from the cancellation of such contract, in advance of the time such payments, damages, or costs are due. Interest shall be charged on any net amount by which any such country or international organization is in arrears under all of its outstanding unliquidated dependable undertakings, considered collectively. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the net arrearage and shall be computed from the date of net arrearage.
 - **(b)** The President may, if he determines it to be in the national interest, issue letters of offer under this section which provide for billing upon delivery of the defense article or rendering of the defense service and for payment within one hundred and twenty days after the date of billing. This authority may be exercised, however, only if the President also determines that the emergency requirements of the purchaser for acquisition of such defense articles and services exceed the ready availability to the purchaser of funds sufficient to make payments on a dependable undertaking basis and submits both determinations to the Congress together with a special emergency request for authorization and appropriation of additional funds to finance such purchases under this chapter. Appropriations available to the Department of Defense may be used to meet the payments required by the contracts for the procurement of defense articles and defense services and shall be reimbursed by the amounts subsequently received from the country or international organization to whom articles or services are sold.
-- **(c)** The provisions of the Renegotiation Act of 1951 [50 U.S.C. App. 1211 et seq.] do not apply to procurement contracts heretofore or hereafter entered into under this section, section 2769 of this title , or predecessor provisions of law.
+- **(c)** The provisions of the Renegotiation Act of 1951 do not apply to procurement contracts heretofore or hereafter entered into under this section, section 2769 of this title , or predecessor provisions of law.
 - **(d)**
   - **(1)** Procurement contracts made in implementation of sales under this section for defense articles and defense services wholly paid for from funds made available on a nonrepayable basis shall be priced on the same costing basis with regard to profit, overhead, independent research and development, bid and proposal, and other costing elements, as is applicable to procurements of like items purchased by the Department of Defense for its own use.
   - **(2)** Direct costs associated with meeting additional or unique requirements of the purchaser shall be allowable under contracts described in paragraph (1). Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.

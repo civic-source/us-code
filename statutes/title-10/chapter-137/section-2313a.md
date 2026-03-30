@@ -3,9 +3,9 @@ title: "Section 2313a - Defense Contract Audit Agency: annual report"
 usc_title: 10
 usc_section: "2313a"
 chapter: 137
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2313a"
-generated_at: "2026-03-30T04:56:26.696Z"
+generated_at: "2026-03-30T04:59:28.729Z"
 status: "active"
 ---
 
@@ -17,9 +17,10 @@ status: "active"
     - **(A)** the total number of audit reports completed and pending;
     - **(B)** the priority given to each type of audit;
     - **(C)** the length of time taken for each type of audit;
-    - **(D)** the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and
+    - **(D)** the total costs of sustained or recovered costs both as a total number and as a percentage of questioned costs; and
     - **(E)** an assessment of the number and types of audits pending for a period longer than allowed pursuant to guidance of the Defense Contract Audit Agency;
-  - **(3)** a summary of any recommendations of actions or resources needed to improve the audit process; and
-  - **(4)** any other matters the Director considers appropriate.
+  - **(3)** a summary of any recommendations of actions or resources needed to improve the audit process;
+  - **(4)** a description of outreach actions toward industry to promote more effective use of audit resources; and
+  - **(5)** any other matters the Director considers appropriate.
 - **(b)** Not later than March 30 of each year, the Director shall submit to the congressional defense committees the report required by subsection (a).
 - **(c)** Not later than 60 days after the submission of an annual report to the congressional defense committees under subsection (b), the Director shall make the report available on the publicly available website of the Agency or such other publicly available website as the Director considers appropriate.

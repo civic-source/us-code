@@ -3,9 +3,9 @@ title: "Section 1750to1753a - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2)
 usc_title: 22
 usc_section: "1750to1753a"
 chapter: 24
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 1750to1753a"
-generated_at: "2026-03-30T04:57:26.673Z"
+generated_at: "2026-03-30T05:00:34.838Z"
 status: "repealed"
 ---
 

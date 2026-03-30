@@ -3,9 +3,9 @@ title: "Section 360b - New animal drugs"
 usc_title: 21
 usc_section: "360b"
 chapter: 9
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "21 U.S.C. § 360b"
-generated_at: "2026-03-30T04:57:23.164Z"
+generated_at: "2026-03-30T05:00:02.061Z"
 status: "active"
 ---
 
@@ -243,3 +243,8 @@ status: "active"
   - **(2)** Any request for data and information pursuant to paragraph (1) shall include a verified statement by the person making the request that any data or information received under such paragraph shall not be disclosed by such person to any other person—
     - **(A)** for the purpose of, or as part of a plan, scheme, or device for, obtaining the right to make, use, or market, or making, using, or marketing, outside the United States, the drug identified in the application filed under subsection (b)(1) of this section or section 360ccc(a) of this title , and
     - **(B)** without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to the Secretary, which meets the requirements of this paragraph.
+- **(q)**
+  - **(1)** In the case of an application under subsection (b) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act [ 21 U.S.C. 801 et seq.], approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act [ 21 U.S.C. 811(j) ].
+  - **(2)** For purposes of this section, with respect to an application described in paragraph (1), the term “date of approval” shall mean the later of—
+    - **(A)** the date an application under subsection (b) is approved under subsection (c); or
+    - **(B)** the date of issuance of the interim final rule controlling the drug.

@@ -3,9 +3,9 @@ title: "Section 181 - Joint Requirements Oversight Council"
 usc_title: 10
 usc_section: "181"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 181"
-generated_at: "2026-03-30T04:56:26.636Z"
+generated_at: "2026-03-30T04:59:28.666Z"
 status: "active"
 ---
 
@@ -39,10 +39,11 @@ status: "active"
     - **(E)** The Director of Operational Test and Evaluation.
     - **(F)** Such other civilian officials of the Department of Defense as are designated by the Secretary of Defense for purposes of this subsection.
   - **(2)** The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
+  - **(3)** The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to trade-offs among cost, schedule, technical feasibility, and performance under subsection (b)(1)(C) and the balancing of resources with priorities pursuant to subsection (b)(3).
 - **(e)** The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
 - **(f)**
   - **(1)** The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
   - **(2)** In this subsection, the term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 - **(g)** In this section:
   - **(1)** The term “joint military requirement” means a capability necessary to fulfill a gap in a core mission area of the Department of Defense.
-  - **(2)** The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title .
+  - **(2)** The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b 1 1 See References in Text note below. of this title.

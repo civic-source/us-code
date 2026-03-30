@@ -1,13 +1,13 @@
 ---
-title: "Section 5867 - Repealed. Pub. L. 96–513, title III, § 333 , Dec. 12, 1980 , 94 Stat. 2897 ]"
+title: "Section 5867 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 1980 , 94 Stat. 2897 ]"
 usc_title: 10
 usc_section: "5867"
 chapter: 547
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 5867"
-generated_at: "2026-03-30T04:56:26.734Z"
+generated_at: "2026-03-30T04:59:28.769Z"
 status: "repealed"
 ---
 
-# [§ 5867. Repealed. Pub. L. 96–513, title III, § 333 , Dec. 12, 1980 , 94 Stat. 2897 ]
+# [§ 5867. Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 1980 , 94 Stat. 2897 ]
 

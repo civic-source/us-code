@@ -3,9 +3,9 @@ title: "Section 10601 - Crime Victims Fund"
 usc_title: 42
 usc_section: "10601"
 chapter: 112
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 10601"
-generated_at: "2026-03-30T04:58:57.291Z"
+generated_at: "2026-03-30T05:01:45.693Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
 - **(c)** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation. Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
 - **(d)** The Fund shall be available as follows:
-  - **(1)** Repealed. Pub. L. 105–119, title I, § 109(a)(1) , Nov. 26, 1997 , 111 Stat. 2457 .
+  - **(1)** Repealed. Pub. L. 105–119, title I , § 109(a)(1), Nov. 26, 1997 , 111 Stat. 2457 .
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title .
     - **(B)**

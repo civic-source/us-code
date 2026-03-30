@@ -3,9 +3,9 @@ title: "Section 353 - Special committees"
 usc_title: 28
 usc_section: "353"
 chapter: 16
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "28 U.S.C. § 353"
-generated_at: "2026-03-30T04:57:42.335Z"
+generated_at: "2026-03-30T05:00:51.982Z"
 status: "active"
 ---
 

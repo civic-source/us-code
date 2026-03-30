@@ -3,9 +3,9 @@ title: "Section 535c - Secretary of Transportation’s approval; commencement an
 usc_title: 33
 usc_section: "535c"
 chapter: 11
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "33 U.S.C. § 535c"
-generated_at: "2026-03-30T04:58:35.445Z"
+generated_at: "2026-03-30T05:00:59.661Z"
 status: "active"
 ---
 

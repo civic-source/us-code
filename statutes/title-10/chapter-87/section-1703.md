@@ -1,13 +1,13 @@
 ---
-title: "Section 1703 - Repealed. Pub. L. 108–136, div. A, title VIII, § 831(a) , Nov. 24, 2003 , 117 Stat. 1549 ]"
+title: "Section 1703 - Repealed. Pub. L. 108–136, div. A, title VIII , § 831(a), Nov. 24, 2003 , 117 Stat. 1549 ]"
 usc_title: 10
 usc_section: "1703"
 chapter: 87
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 1703"
-generated_at: "2026-03-30T04:56:26.682Z"
+generated_at: "2026-03-30T04:59:28.713Z"
 status: "repealed"
 ---
 
-# [§ 1703. Repealed. Pub. L. 108–136, div. A, title VIII, § 831(a) , Nov. 24, 2003 , 117 Stat. 1549 ]
+# [§ 1703. Repealed. Pub. L. 108–136, div. A, title VIII , § 831(a), Nov. 24, 2003 , 117 Stat. 1549 ]
 

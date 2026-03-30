@@ -3,9 +3,9 @@ title: "Section 1040 - Transportation of dependent patients"
 usc_title: 10
 usc_section: "1040"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 1040"
-generated_at: "2026-03-30T04:56:26.659Z"
+generated_at: "2026-03-30T04:59:28.689Z"
 status: "active"
 ---
 
@@ -21,6 +21,5 @@ status: "active"
     - **(E)** The Secretary may not provide transportation to a dependent under this paragraph if the Secretary determines that—
       - **(i)** the dependent would otherwise receive obstetrical anesthesia services at a military treatment facility; and
       - **(ii)** such facility, in carrying out the required number of necessary obstetric cases, would not maintain competency of its obstetrical staff unless the facility provides such services to such dependent.
-    - **(F)** The authority under this paragraph shall expire on September 30, 2016 .
 - **(b)** This section does not authorize transportation and travel expenses for a dependent for elective surgery which is determined to be not medically indicated by a medical authority designated under joint regulations to be prescribed under this section.
 - **(c)** In this section, the term “dependent” has the meaning given that term in section 1072 of this title .

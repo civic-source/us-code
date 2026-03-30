@@ -3,9 +3,9 @@ title: "Section 1705 - Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d
 usc_title: 16
 usc_section: "1705"
 chapter: 37
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 1705"
-generated_at: "2026-03-30T04:57:06.631Z"
+generated_at: "2026-03-30T04:59:58.540Z"
 status: "repealed"
 ---
 

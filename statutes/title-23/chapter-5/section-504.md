@@ -3,9 +3,9 @@ title: "Section 504 - Training and education"
 usc_title: 23
 usc_section: "504"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 504"
-generated_at: "2026-03-30T04:57:24.968Z"
+generated_at: "2026-03-30T05:00:18.960Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(C)** The Institute shall periodically—
       - **(i)** review the course inventory of the Institute; and
       - **(ii)** revise or cease to offer courses based on course content, applicability, and need.
-  - **(4)** Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(3) 1 1 See References in Text note below. for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+  - **(4)** Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(2) for the surface transportation block grant program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
   - **(5)**
     - **(A)** Except as provided in subparagraph (B), education and training of employees of Federal, State, and local transportation (including highway) agencies authorized under this subsection may be provided—
       - **(i)** by the Secretary at no cost to the States and local governments if the Secretary determines that provision at no cost is in the public interest; or
@@ -95,8 +95,8 @@ status: "active"
     - **(C)** Local educational agencies and State educational agencies, which may enter into a partnership agreement with institutions of higher education, businesses, or other entities, shall be eligible to apply for grants under this subsection.
   - **(4)** In this subsection, the following definitions apply:
     - **(A)** The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
-    - **(B)** The term “local educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
-    - **(C)** The term “State educational agency” has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
+    - **(B)** The term “local educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965.
+    - **(C)** The term “State educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965.
 - **(e)**
   - **(1)** Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under paragraphs (1) through (4) of section 104(b) for surface transportation workforce development, training, and education, including—
     - **(A)** tuition and direct educational expenses, excluding salaries, in connection with the education and training of employees of State and local transportation agencies;
@@ -132,7 +132,7 @@ status: "active"
     - **(E)** Facilitating relationship building between governmental and private entities involved in freight transportation.
     - **(F)** Identifying ways to target the capacity of State transportation departments and local transportation agencies to address freight considerations in operations, security, asset management, and environmental stewardship in connection with long-range multimodal transportation planning and project implementation.
   - **(5)** The Federal share of the cost of an activity carried out under this section shall be up to 100 percent, and such funds shall remain available until expended.
-  - **(6)** Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to 2 2 So in original. and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+  - **(6)** Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to 1 1 So in original. and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 - **(h)**
   - **(1)** The Secretary shall make grants under this section to establish and maintain centers for surface transportation excellence.
   - **(2)** The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the work of State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.

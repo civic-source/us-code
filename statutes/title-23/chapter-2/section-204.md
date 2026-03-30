@@ -3,9 +3,9 @@ title: "Section 204 - Federal lands access program"
 usc_title: 23
 usc_section: "204"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 204"
-generated_at: "2026-03-30T04:57:24.963Z"
+generated_at: "2026-03-30T05:00:18.954Z"
 status: "active"
 ---
 

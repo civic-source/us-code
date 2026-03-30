@@ -3,9 +3,9 @@ title: "Section 657s - Limitations on subcontracting"
 usc_title: 15
 usc_section: "657s"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 657s"
-generated_at: "2026-03-30T04:56:57.408Z"
+generated_at: "2026-03-30T04:59:35.504Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** shall determine for which category, services (as described in paragraph (1)) or supplies (as described in paragraph (2)), the greatest percentage of the contract is awarded;
     - **(B)** shall determine the amount awarded under the contract for that category of services or supplies; and
     - **(C)** may not expend on subcontractors, with respect to the amount determined under subparagraph (B), more than 50 percent of that amount; and
-  - **(4)** in the case of a contract for supplies from a regular dealer in such supplies, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
+  - **(4)** in the case of a contract which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
     - **(A)** by the Administrator, after reviewing a determination by the applicable contracting officer that no small business manufacturer or processor can reasonably be expected to offer a product meeting the specifications (including period for performance) required by the contract; or
     - **(B)** by the Administrator for a product (or class of products), after determining that no small business manufacturer or processor is available to participate in the Federal procurement market.
 - **(b)** Contract amounts expended by a covered small business concern on a subcontractor that is a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).

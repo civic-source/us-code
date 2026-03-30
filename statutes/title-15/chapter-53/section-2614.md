@@ -3,9 +3,9 @@ title: "Section 2614 - Prohibited acts"
 usc_title: 15
 usc_section: "2614"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2614"
-generated_at: "2026-03-30T04:56:57.473Z"
+generated_at: "2026-03-30T04:59:35.569Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 It shall be unlawful for any person to—
 
-  - **(1)** fail or refuse to comply with (A) any rule promulgated or order issued under section 2603 of this title , (B) any requirement prescribed by section 2604 or 2605 of this title, (C) any rule promulgated or order issued under section 2604 or 2605 of this title, or (D) any requirement of subchapter II of this chapter or any rule promulgated or order issued under subchapter II of this chapter;
+  - **(1)** fail or refuse to comply with (A) any rule promulgated or order issued under section 2603 of this title , (B) any requirement prescribed by section 2604 or 2605 of this title, (C) any rule promulgated or order issued under section 2604 or 2605 of this title, or (D) any requirement of subchapter II or any rule promulgated or order issued under subchapter II;
   - **(2)** use for commercial purposes a chemical substance or mixture which such person knew or had reason to know was manufactured, processed, or distributed in commerce in violation of section 2604 or 2605 of this title, a rule or order under section 2604 or 2605 of this title, or an order issued in action brought under section 2604 or 2606 of this title;
   - **(3)** fail or refuse to (A) establish or maintain records, (B) submit reports, notices, or other information, or (C) permit access to or copying of records, as required by this chapter or a rule thereunder; or
   - **(4)** fail or refuse to permit entry or inspection as required by section 2610 of this title .

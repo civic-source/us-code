@@ -3,9 +3,9 @@ title: "Section 1036 - Graduate fellowships to prepare faculty in high-need area
 usc_title: 20
 usc_section: "1036"
 chapter: 28
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 1036"
-generated_at: "2026-03-30T04:57:15.729Z"
+generated_at: "2026-03-30T04:59:56.114Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** In this section, the term “eligible institution” means an institution of higher education, or a consortium of such institutions, that offers a program of postbaccalaureate study leading to a doctoral degree.
 - **(c)** An eligible institution that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 - **(d)**
-  - **(1)** An eligible institution that receives a grant under this section shall use the grant funds to provide graduate fellowships to individuals who are preparing for the professorate in order to prepare individuals to become highly qualified elementary school and secondary school mathematics and science teachers, special education teachers, and teachers who provide instruction for limited English proficient students.
+  - **(1)** An eligible institution that receives a grant under this section shall use the grant funds to provide graduate fellowships to individuals who are preparing for the professorate in order to prepare individuals to become elementary school and secondary school mathematics and science teachers, special education teachers, and teachers who provide instruction for limited English proficient students, who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title .
   - **(2)** A graduate fellowship provided under this section shall support an individual in pursuing postbaccalaureate study, which leads to a doctoral degree and may include a master’s degree as part of such study, related to teacher preparation and pedagogy in one of the following areas:
     - **(A)** Science, technology, engineering, or mathematics, if the individual has completed a master’s degree in mathematics or science and is pursuing a doctoral degree in mathematics, science, or education.
     - **(B)** Special education.

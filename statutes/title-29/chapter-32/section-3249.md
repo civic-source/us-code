@@ -3,9 +3,9 @@ title: "Section 3249 - Secretarial administrative authorities and responsibiliti
 usc_title: 29
 usc_section: "3249"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "29 U.S.C. § 3249"
-generated_at: "2026-03-30T04:57:30.754Z"
+generated_at: "2026-03-30T05:00:39.964Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
       - **(ii)** A contract or arrangement entered into under the authority of subsection (a) or (b) of section 3224 of this title (relating to evaluations, research projects, studies and reports, and multistate projects), including a long-term, nonseverable services contract, may be funded on an incremental basis with annual appropriations or other available funds.
     - **(C)** No amount of the funds obligated for a program year for a program or activity funded under this subchapter shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 3201 of this title , or a plan, grant agreement, contract, application, or other agreement described in part D, as appropriate.
     - **(D)** Funds used to carry out pay-for-performance contract strategies by local areas shall remain available until expended.
-- **(h)** The Secretary shall ensure that each individual participating in any program or activity established under this subchapter, or receiving any assistance or benefit under this subchapter, has not violated section 3 of the Military Selective Service Act (50 U.S.C. App. 453) by not presenting and submitting to registration as required pursuant to such section. The Director of the Selective Service System shall cooperate with the Secretary to enable the Secretary to carry out this subsection.
+- **(h)** The Secretary shall ensure that each individual participating in any program or activity established under this subchapter, or receiving any assistance or benefit under this subchapter, has not violated section 3 of the Military Selective Service Act (50 U.S.C. App. 453) [now 50 U.S.C. 3802 ] by not presenting and submitting to registration as required pursuant to such section. The Director of the Selective Service System shall cooperate with the Secretary to enable the Secretary to carry out this subsection.
 - **(i)**
   - **(1)** A State that has enacted, not later than December 31, 1997 , a State law providing for the designation of service delivery areas for the delivery of workforce investment activities, may use such areas as local areas under this subchapter, notwithstanding section 3121 of this title .
   - **(2)** A State that has enacted, not later than December 31, 1997 , a State law providing for the sanctioning of such service delivery areas for failure to meet performance accountability measures for workforce investment activities, may use the State law to sanction local areas for failure to meet State performance accountability measures under this subchapter.

@@ -3,16 +3,16 @@ title: "Section 6393 - Administrative procedure and judicial review"
 usc_title: 42
 usc_section: "6393"
 chapter: 77
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 6393"
-generated_at: "2026-03-30T04:58:57.182Z"
+generated_at: "2026-03-30T05:01:45.289Z"
 status: "active"
 ---
 
 # § 6393. Administrative procedure and judicial review
 
 - **(a)**
-  - **(1)** Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under title I (other than section 103 thereof [ 42 U.S.C. 6212 ]) and title II of this Act, or this title 1 1 See References in Text note below. (other than any provision of such titles which amends another law).
+  - **(1)** Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under title I (other than section 103 1 1 See References in Text note below. thereof) and title II of this Act, or this title 1 (other than any provision of such titles which amends another law).
   - **(2)**
     - **(A)** Notice of any proposed rule, regulation, or order described in paragraph (1) which is substantive and of general applicability shall be given by publication of such proposed rule, regulation, or order in the Federal Register. In each case, a minimum of 30 days following the date of such publication and prior to the effective date of the rule shall be provided for opportunity to comment; except that the 30-day period for opportunity to comment prior to the effective date of the rule may be—
       - **(i)** reduced to no less than 10 days if the President finds that strict compliance would seriously impair the operation of the program to which such rule, regulation, or order relates and such findings are set out in such rule, regulation, or order, or

@@ -3,9 +3,9 @@ title: "Section 2422 - Office of Defense Nuclear Security"
 usc_title: 50
 usc_section: "2422"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 2422"
-generated_at: "2026-03-30T04:59:01.542Z"
+generated_at: "2026-03-30T05:01:50.041Z"
 status: "active"
 ---
 

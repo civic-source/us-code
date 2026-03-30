@@ -3,9 +3,9 @@ title: "Section 2712 - Authority to control certain terrorism-related services"
 usc_title: 22
 usc_section: "2712"
 chapter: 38
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2712"
-generated_at: "2026-03-30T04:57:26.708Z"
+generated_at: "2026-03-30T05:00:34.874Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(c)** These services may be controlled under subsection (a) when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
 - **(d)** In carrying out subsection (a), the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
 - **(e)**
-  - **(1)** As used in this section, the term “designated foreign government” means a foreign government that the Secretary of State has determined, for purposes of section 2405(j)(1) of title 50 , Appendix, has repeatedly provided support for acts of international terrorism.
+  - **(1)** As used in this section, the term “designated foreign government” means a foreign government that the Secretary of State has determined, for purposes of section 4605(j)(1) of title 50 , has repeatedly provided support for acts of international terrorism.
   - **(2)** As used in this section, the term “security forces” means any military or paramilitary forces, any police or other law enforcement agency (including any police or other law enforcement agency at the regional or local level), and any intelligence agency of a foreign government.
   - **(3)** As used in this section, the term “United States” includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
   - **(4)** As used in this section, the term “United States person” means any United States national, any permanent resident alien, and any sole proprietorship, partnership, company, association, or corporation organized under the laws of or having its principal place of business within the United States.

@@ -3,9 +3,9 @@ title: "Section 1842 - Fishermen’s Contingency Fund"
 usc_title: 43
 usc_section: "1842"
 chapter: 36
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "43 U.S.C. § 1842"
-generated_at: "2026-03-30T04:58:49.608Z"
+generated_at: "2026-03-30T05:01:30.845Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** There is established in the Treasury of the United States a Fishermen’s Contingency Fund. The Fund shall be available to the Secretary without fiscal year limitations as a revolving fund for the purpose of making payments pursuant to this section. The Fund shall consist of—
     - **(A)** revenues received from investments made under paragraph (3);
-    - **(B)** amounts collected under subsection (b) of this section; and
+    - **(B)** amounts collected under subsection (b); and
     - **(C)** amounts recovered by the Secretary under section 1845(h)(2) of this title .
   - **(2)** The Fund shall be available, as provided for in appropriation Acts solely for the payment of—
     - **(A)** the personnel and administrative expenses incurred in carrying out this subchapter;

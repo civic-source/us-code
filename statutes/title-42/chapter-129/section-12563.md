@@ -3,9 +3,9 @@ title: "Section 12563 - Innovative and community-based service-learning programs
 usc_title: 42
 usc_section: "12563"
 chapter: 129
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 12563"
-generated_at: "2026-03-30T04:58:57.314Z"
+generated_at: "2026-03-30T05:01:45.721Z"
 status: "active"
 ---
 
@@ -18,13 +18,13 @@ status: "active"
       - **(i)** 1 or more community-based entities that have demonstrated records of success in carrying out service-learning programs with economically disadvantaged students, and that meet such criteria as the Chief Executive Officer may establish; and
       - **(ii)** a local educational agency for which—
         - **(I)** a high number or percentage, as determined by the Corporation, of the students served by the agency are economically disadvantaged students; and
-        - **(II)** the graduation rate (as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education 1 1 So in original. Probably should be followed by a closing parenthesis. for the secondary school students served by the agency is less than 70 percent; and
+        - **(II)** the four-year adjusted cohort graduation rate (as defined in section 7801 of title 20 ) for the secondary school students served by the agency is less than 70 percent; and
     - **(B)** may also include—
       - **(i)** a local government agency that is not described in subparagraph (A);
       - **(ii)** the office of the chief executive officer of a unit of general local government;
       - **(iii)** an institution of higher education;
       - **(iv)** a State Commission or State educational agency; or
-      - **(v)** more than 1 local educational agency described in subclause (I). 2 2 So in original. Clause (v) does not contain subclauses.
+      - **(v)** more than 1 local educational agency described in subclause (I). 1 1 So in original. Clause (v) does not contain subclauses.
   - **(3)** The term “youth engagement zone” means the area in which a youth engagement zone program is carried out.
   - **(4)** The term “youth engagement zone program” means a service-learning program in which members of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
     - **(A)** in order to address a specific community challenge;
@@ -48,7 +48,7 @@ status: "active"
         - **(I)** meet unmet human, educational, environmental (including energy conservation and stewardship), and emergency and disaster preparedness and other public safety needs; and
         - **(II)** be intensive, structured, supervised, and designed to produce identifiable improvements to the community;
       - **(ii)** that may include the extension of academic year service-learning programs into the summer months; and
-      - **(iii)** under which a student who completes 100 hours of service as described in section 12602(b)(2) of this title , 3 3 So in original. Comma probably should not appear. shall be eligible for a summer of service educational award of $500 or $750 as described in sections 12602(a)(2)(C) and 12603(d) of this title;
+      - **(iii)** under which a student who completes 100 hours of service as described in section 12602(b)(2) of this title , 2 2 So in original. Comma probably should not appear. shall be eligible for a summer of service educational award of $500 or $750 as described in sections 12602(a)(2)(C) and 12603(d) of this title;
   - **(9)** establish or implement youth engagement zone programs in youth engagement zones, for students in secondary schools served by local educational agencies for which a majority of such students do not participate in service-learning activities that are—
     - **(A)** carried out by eligible partnerships; and
     - **(B)** designed to—

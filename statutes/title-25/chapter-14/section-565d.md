@@ -3,9 +3,9 @@ title: "Section 565d - Disposition of funds insufficient to justify further dist
 usc_title: 25
 usc_section: "565d"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 565d"
-generated_at: "2026-03-30T04:57:20.124Z"
+generated_at: "2026-03-30T05:00:02.984Z"
 status: "active"
 ---
 

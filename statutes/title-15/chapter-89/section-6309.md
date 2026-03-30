@@ -3,9 +3,9 @@ title: "Section 6309 - Enforcement"
 usc_title: 15
 usc_section: "6309"
 chapter: 89
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 6309"
-generated_at: "2026-03-30T04:56:57.501Z"
+generated_at: "2026-03-30T04:59:35.596Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(c)** Whenever the chief law enforcement officer of any State has reason to believe that a person or organization is engaging in practices which violate any requirement of this chapter, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States—
   - **(1)** to enjoin the holding of any professional boxing match which the practice involves;
   - **(2)** to enforce compliance with this chapter;
-  - **(3)** to obtain the fines provided under subsection (b) of this section or appropriate restitution; or
+  - **(3)** to obtain the fines provided under subsection (b) or appropriate restitution; or
   - **(4)** to obtain such other relief as the court may deem appropriate.
 - **(d)** Any boxer who suffers economic injury as a result of a violation of any provision of this chapter may bring an action in the appropriate Federal or State court and recover the damages suffered, court costs, and reasonable attorneys fees and expenses.
 - **(e)** Nothing in this chapter authorizes the enforcement of—

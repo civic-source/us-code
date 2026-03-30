@@ -3,9 +3,9 @@ title: "Section 6804 - Rulemaking"
 usc_title: 15
 usc_section: "6804"
 chapter: 94
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 6804"
-generated_at: "2026-03-30T04:56:57.506Z"
+generated_at: "2026-03-30T04:59:35.602Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
     - **(D)** Nothing in this paragraph shall be construed to alter, affect, or otherwise limit the authority of a State insurance authority to adopt regulations to carry out this subchapter.
   - **(2)** Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with 1 1 So in original. Probably should be “and, as appropriate, with”. representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
   - **(3)** Such regulations shall be prescribed in accordance with applicable requirements of title 5.
-- **(b)** The regulations prescribed under subsection (a) of this section may include such additional exceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.
+- **(b)** The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.

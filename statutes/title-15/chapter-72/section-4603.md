@@ -3,9 +3,9 @@ title: "Section 4603 - Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603"
 chapter: 72
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 4603"
-generated_at: "2026-03-30T04:56:57.492Z"
+generated_at: "2026-03-30T04:59:35.588Z"
 status: "active"
 ---
 
@@ -39,8 +39,8 @@ status: "active"
     - **(B)** Two individuals who are eminent in the semiconductor equipment and materials industry.
     - **(C)** Three individuals who are eminent in the semiconductor user industry, including representatives from the telecommunications and computer industries.
     - **(D)** One individual who is eminent in an academic institution.
-- **(d)** Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
-- **(e)** A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7) of this section, shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
+- **(d)** Each member of the Council appointed under subsection (c)(7) shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
+- **(e)** A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7), shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
 - **(f)** Eleven members of the Council shall constitute a quorum.
 - **(g)** The Council shall meet at the call of a Cochairman.
 - **(h)**

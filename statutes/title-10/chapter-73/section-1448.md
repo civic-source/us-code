@@ -3,9 +3,9 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-30T04:56:26.674Z"
+generated_at: "2026-03-30T04:59:28.705Z"
 status: "active"
 ---
 
@@ -98,6 +98,17 @@ status: "active"
     - **(A)** whether the election is being made pursuant to the requirements of a court order; or
     - **(B)** whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of, or incident to, a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
   - **(6)** A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ( 42 U.S.C. 1396p(d)(4) ) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ( 42 U.S.C. 1382c(a)(3) ) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
+  - **(7)**
+    - **(A)** A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) and whose former spouse subsequently dies is no longer a participant in the Plan, effective on the date of death of the former spouse.
+    - **(B)** If a person’s participation in the Plan is discontinued by reason of the death of a former spouse beneficiary, the person may elect to resume participation in the Plan and to elect a new spouse beneficiary as follows:
+      - **(i)** A person who is married at the time of the death of the former spouse beneficiary may elect to provide coverage to that person’s spouse. Such an election must be received by the Secretary concerned within one year after the date of death of the former spouse beneficiary.
+      - **(ii)** A person who is not married at the time of the death of the former spouse beneficiary and who later marries may elect to provide spouse coverage. Such an election must be received by the Secretary concerned within one year after the date on which that person marries.
+    - **(C)** The effective date of election under this paragraph shall be as follows:
+      - **(i)** An election under subparagraph (B)(i) is effective as of the first day of the first calendar month following the death of the former spouse beneficiary.
+      - **(ii)** An election under subparagraph (B)(ii) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
+    - **(D)** A person making an election under subparagraph (B) may not reduce the base amount previously elected.
+    - **(E)** An election under this paragraph shall be in writing, signed by the participant, and made in such form and manner as the Secretary concerned may prescribe.
+    - **(F)** An election under this paragraph is irrevocable.
 - **(c)** The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
 - **(d)**
   - **(1)** Except as provided in paragraph (2)(B), the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—

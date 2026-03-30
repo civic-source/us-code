@@ -3,9 +3,9 @@ title: "Section 1583 - Examination of outbound mail"
 usc_title: 19
 usc_section: "1583"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1583"
-generated_at: "2026-03-30T04:57:10.176Z"
+generated_at: "2026-03-30T04:59:42.871Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** Section 5316 of title 31 (relating to reports on exporting and importing monetary instruments).
     - **(B)** Sections 1461, 1463, 1465, and 1466, and chapter 110 of title 18 (relating to obscenity and child pornography).
     - **(C)** Section 953 of title 21 (relating to exportation of controlled substances).
-    - **(D)** The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+    - **(D)** The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now 50 U.S.C. 4601 et seq.].
     - **(E)** Section 2778 of title 22 .
     - **(F)** The International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
 - **(b)** Mail not sealed against inspection under the postal laws and regulations of the United States, mail which bears a Customs declaration, and mail with respect to which the sender or addressee has consented in writing to search, may be searched by a Customs officer.
@@ -29,12 +29,12 @@ status: "active"
     - **(D)** National defense and related information transmitted in violation of any of sections 793 through 798 of title 18.
     - **(E)** Merchandise mailed in violation of section 1715 or 1716 of title 18.
     - **(F)** Merchandise mailed in violation of any provision of chapter 71 (relating to obscenity) or chapter 110 (relating to sexual exploitation and other abuse of children) of title 18.
-    - **(G)** Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+    - **(G)** Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now 50 U.S.C. 4601 et seq.].
     - **(H)** Merchandise mailed in violation of section 2778 of title 22 .
     - **(I)** Merchandise mailed in violation of the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
-    - **(J)** Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.).
+    - **(J)** Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.].
     - **(K)** Merchandise subject to any other law enforced by the Customs Service.
   - **(2)** No person acting under the authority of paragraph (1) shall read, or authorize any other person to read, any correspondence contained in mail sealed against inspection unless prior to so reading—
     - **(A)** a search warrant has been issued pursuant to rule 41 of the Federal Rules of Criminal Procedure; or
     - **(B)** the sender or addressee has given written authorization for such reading.
-- **(d)** Notwithstanding any other provision of this section, subsection (a)(1) of this section shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
+- **(d)** Notwithstanding any other provision of this section, subsection (a)(1) shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.

@@ -3,9 +3,9 @@ title: "Section 1521 - Destruction of existing stockpile of lethal chemical agen
 usc_title: 50
 usc_section: "1521"
 chapter: 32
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 1521"
-generated_at: "2026-03-30T04:59:01.526Z"
+generated_at: "2026-03-30T05:01:50.025Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** The destruction of such stockpile shall be completed by the stockpile elimination deadline.
   - **(2)** If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
-  - **(3)** For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2017 .
+  - **(3)** For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023 .
 - **(c)** The Secretary of Defense may not initiate destruction of the chemical munitions stockpile stored at a site until the following support measures are in place:
   - **(1)** Support measures that are required by Department of Defense and Army chemical surety and security program regulations.
   - **(2)** Support measures that are required by the general and site chemical munitions demilitarization plans specific to that installation.

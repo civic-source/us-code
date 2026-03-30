@@ -3,9 +3,9 @@ title: "Section 300k - Establishment of program of grants to States"
 usc_title: 42
 usc_section: "300k"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 300k"
-generated_at: "2026-03-30T04:58:56.819Z"
+generated_at: "2026-03-30T05:01:44.915Z"
 status: "active"
 ---
 

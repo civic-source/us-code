@@ -3,9 +3,9 @@ title: "Section 2605 - Regulation of hazardous chemical substances and mixtures"
 usc_title: 15
 usc_section: "2605"
 chapter: 53
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2605"
-generated_at: "2026-03-30T04:56:57.471Z"
+generated_at: "2026-03-30T04:59:35.568Z"
 status: "active"
 ---
 
@@ -29,12 +29,12 @@ status: "active"
     - **(A)** that such quality control procedures are inadequate to prevent the chemical substance or mixture from presenting such risk of injury, the Administrator may order the manufacturer or processor to revise such quality control procedures to the extent necessary to remedy such inadequacy; or
     - **(B)** that the use of such quality control procedures has resulted in the distribution in commerce of chemical substances or mixtures which present an unreasonable risk of injury to health or the environment, the Administrator may order the manufacturer or processor to (i) give notice of such risk to processors or distributors in commerce of any such substance or mixture, or to both, and, to the extent reasonably ascertainable, to any other person in possession of or exposed to any such substance, (ii) to give public notice of such risk, and (iii) to provide such replacement or repurchase of any such substance or mixture as is necessary to adequately protect health or the environment.
 - **(c)**
-  - **(1)** In promulgating any rule under subsection (a) of this section with respect to a chemical substance or mixture, the Administrator shall consider and publish a statement with respect to—
+  - **(1)** In promulgating any rule under subsection (a) with respect to a chemical substance or mixture, the Administrator shall consider and publish a statement with respect to—
     - **(A)** the effects of such substance or mixture on health and the magnitude of the exposure of human beings to such substance or mixture,
     - **(B)** the effects of such substance or mixture on the environment and the magnitude of the exposure of the environment to such substance or mixture,
     - **(C)** the benefits of such substance or mixture for various uses and the availability of substitutes for such uses, and
     - **(D)** the reasonably ascertainable economic consequences of the rule, after consideration of the effect on the national economy, small business, technological innovation, the environment, and public health.
-  - **(2)** When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title ), and (E) make and publish with the rule the finding described in subsection (a) of this section.
+  - **(2)** When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title ), and (E) make and publish with the rule the finding described in subsection (a).
   - **(3)** Informal hearings required by paragraph (2)(C) shall be conducted by the Administrator in accordance with the following requirements:
     - **(A)** Subject to subparagraph (B), an interested person is entitled—
       - **(i)** to present such person’s position orally or by documentary submissions (or both), and
@@ -45,7 +45,7 @@ status: "active"
       - **(ii)** When any person who is a member of a group with respect to which the Administrator has made a determination under clause (i) is unable to agree upon group representation with the other members of the group, then such person shall not be denied under the authority of clause (i) the opportunity to conduct (or have conducted) cross-examination as to issues affecting the person’s particular interests if (I) the person satisfies the Administrator that the person has made a reasonable and good faith effort to reach agreement upon group representation with the other members of the group and (II) the Administrator determines that there are substantial and relevant issues which are not adequately presented by the group representative.
     - **(D)** A verbatim transcript shall be taken of any oral presentation made, and cross-examination conducted in any informal hearing under this subsection. Such transcript shall be available to the public.
   - **(4)**
-    - **(A)** The Administrator may, pursuant to rules prescribed by the Administrator, provide compensation for reasonable attorneys’ fees, expert witness fees, and other costs of participating in a rulemaking proceeding for the promulgation of a rule under subsection (a) of this section to any person—
+    - **(A)** The Administrator may, pursuant to rules prescribed by the Administrator, provide compensation for reasonable attorneys’ fees, expert witness fees, and other costs of participating in a rulemaking proceeding for the promulgation of a rule under subsection (a) to any person—
       - **(i)** who represents an interest which would substantially contribute to a fair determination of the issues to be resolved in the proceeding, and
       - **(ii)** if—
         - **(I)** the economic interest of such person is small in comparison to the costs of effective participation in the proceeding by such person, or
@@ -53,16 +53,16 @@ status: "active"
     - **(B)** In determining whether compensation should be provided to a person under subparagraph (A) and the amount of such compensation, the Administrator shall take into account the financial burden which will be incurred by such person in participating in the rulemaking proceeding. The Administrator shall take such action as may be necessary to ensure that the aggregate amount of compensation paid under this paragraph in any fiscal year to all persons who, in rulemaking proceedings in which they receive compensation, are persons who either—
       - **(i)** would be regulated by the proposed rule, or
       - **(ii)** represent persons who would be so regulated,
-  - **(5)** Paragraph (1), (2), (3), and (4) of this subsection apply to the promulgation of a rule repealing, or making a substantive amendment to, a rule promulgated under subsection (a) of this section.
+  - **(5)** Paragraph (1), (2), (3), and (4) of this subsection apply to the promulgation of a rule repealing, or making a substantive amendment to, a rule promulgated under subsection (a).
 - **(d)**
-  - **(1)** The Administrator shall specify in any rule under subsection (a) of this section the date on which it shall take effect, which date shall be as soon as feasible.
+  - **(1)** The Administrator shall specify in any rule under subsection (a) the date on which it shall take effect, which date shall be as soon as feasible.
   - **(2)**
-    - **(A)** The Administrator may declare a proposed rule under subsection (a) of this section to be effective upon its publication in the Federal Register and until the effective date of final action taken, in accordance with subparagraph (B), respecting such rule if—
+    - **(A)** The Administrator may declare a proposed rule under subsection (a) to be effective upon its publication in the Federal Register and until the effective date of final action taken, in accordance with subparagraph (B), respecting such rule if—
       - **(i)** the Administrator determines that—
         - **(I)** the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date; and
         - **(II)** making such proposed rule so effective is necessary to protect the public interest; and
       - **(ii)** in the case of a proposed rule to prohibit the manufacture, processing, or distribution of a chemical substance or mixture because of the risk determined under clause (i)(I), a court has in an action under section 2606 of this title granted relief with respect to such risk associated with such substance or mixture.
-    - **(B)** If the Administrator makes a proposed rule effective upon its publication in the Federal Register, the Administrator shall, as expeditiously as possible, give interested persons prompt notice of such action, provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c) of this section, for a hearing on such rule, and either promulgate such rule (as proposed or with modifications) or revoke it; and if such a hearing is requested, the Administrator shall commence the hearing within five days from the date such request is made unless the Administrator and the person making the request agree upon a later date for the hearing to begin, and after the hearing is concluded the Administrator shall, within ten days of the conclusion of the hearing, either promulgate such rule (as proposed or with modifications) or revoke it.
+    - **(B)** If the Administrator makes a proposed rule effective upon its publication in the Federal Register, the Administrator shall, as expeditiously as possible, give interested persons prompt notice of such action, provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule, and either promulgate such rule (as proposed or with modifications) or revoke it; and if such a hearing is requested, the Administrator shall commence the hearing within five days from the date such request is made unless the Administrator and the person making the request agree upon a later date for the hearing to begin, and after the hearing is concluded the Administrator shall, within ten days of the conclusion of the hearing, either promulgate such rule (as proposed or with modifications) or revoke it.
 - **(e)**
   - **(1)** Within six months after January 1, 1977 , the Administrator shall promulgate rules to—
     - **(A)** prescribe methods for the disposal of polychlorinated biphenyls, and
@@ -79,7 +79,7 @@ status: "active"
       - **(i)** an unreasonable risk of injury to health or environment would not result, and
       - **(ii)** good faith efforts have been made to develop a chemical substance which does not present an unreasonable risk of injury to health or the environment and which may be substituted for such polychlorinated biphenyl.
     - **(C)** Subparagraph (A) shall not apply to the distribution in commerce of any polychlorinated biphenyl if such polychlorinated biphenyl was sold for purposes other than resale before two and one half years after October 11, 1976 .
-  - **(4)** Any rule under paragraph (1), (2)(B), or (3)(B) shall be promulgated in accordance with paragraphs (2), (3), and (4) of subsection (c) of this section.
+  - **(4)** Any rule under paragraph (1), (2)(B), or (3)(B) shall be promulgated in accordance with paragraphs (2), (3), and (4) of subsection (c).
   - **(5)** This subsection does not limit the authority of the Administrator, under any other provision of this chapter or any other Federal law, to take action respecting any polychlorinated biphenyl.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), effective beginning on October 14, 2008 , no Federal agency shall convey, sell, or distribute to any other Federal agency, any State or local government agency, or any private individual or entity any elemental mercury under the control or jurisdiction of the Federal agency.

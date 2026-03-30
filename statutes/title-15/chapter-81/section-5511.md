@@ -3,9 +3,9 @@ title: "Section 5511 - National High-Performance Computing Program"
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-03-30T04:56:57.497Z"
+generated_at: "2026-03-30T04:59:35.593Z"
 status: "active"
 ---
 
@@ -59,4 +59,4 @@ status: "active"
   - **(1)** Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which—
     - **(A)** identifies each element of its high-performance computing activities which contributes directly to the Program Component Areas or benefits from the Program; and
     - **(B)** states the portion of its request for appropriations that is allocated to each such element.
-  - **(2)** The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D) of this section, and shall include, in the President’s annual budget estimate, a statement of the portion of each appropriate agency’s or department’s annual budget estimate relating to its activities undertaken pursuant to the Program.
+  - **(2)** The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D), and shall include, in the President’s annual budget estimate, a statement of the portion of each appropriate agency’s or department’s annual budget estimate relating to its activities undertaken pursuant to the Program.

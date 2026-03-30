@@ -3,9 +3,9 @@ title: "Section 2355 - Local uses of funds"
 usc_title: 20
 usc_section: "2355"
 chapter: 44
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 2355"
-generated_at: "2026-03-30T04:57:15.795Z"
+generated_at: "2026-03-30T04:59:56.184Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Each eligible recipient that receives funds under this part shall use such funds to improve career and technical education programs.
 - **(b)** Funds made available to eligible recipients under this part shall be used to support career and technical education programs that—
   - **(1)** strengthen the academic and career and technical skills of students participating in career and technical education programs, by strengthening the academic and career and technical education components of such programs through the integration of academics with career and technical education programs through a coherent sequence of courses, such as career and technical programs of study described in section 2342(c)(1)(A) of this title , to ensure learning in—
-    - **(A)** the core academic subjects (as defined in section 7801 of this title ); and
+    - **(A)** a well-rounded education (as defined in section 7801 of this title ); and
     - **(B)** career and technical education subjects;
   - **(2)** link career and technical education at the secondary level and career and technical education at the postsecondary level, including by offering the relevant elements of not less than 1 career and technical program of study described in section 2342(c)(1)(A) of this title ;
   - **(3)** provide students with strong experience in and understanding of all aspects of an industry, which may include work-based learning experiences;

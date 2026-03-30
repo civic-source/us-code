@@ -3,9 +3,9 @@ title: "Section 641 - Imposition of tax"
 usc_title: 26
 usc_section: "641"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 641"
-generated_at: "2026-03-30T04:58:24.461Z"
+generated_at: "2026-03-30T05:00:47.874Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 2341 - Petitions and determinations"
 usc_title: 19
 usc_section: "2341"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 2341"
-generated_at: "2026-03-30T04:57:10.197Z"
+generated_at: "2026-03-30T04:59:42.893Z"
 status: "active"
 ---
 
 # § 2341. Petitions and determinations
 
 - **(a)** A petition for a certification of eligibility to apply for adjustment assistance under this part may be filed with the Secretary of Commerce (hereinafter in this part referred to as the “Secretary”) by a firm (including any agricultural firm or service sector firm) or its representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
-- **(b)** If the petitioner, or any other person, organization, or group found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
+- **(b)** If the petitioner, or any other person, organization, or group found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 - **(c)**
   - **(1)** The Secretary shall certify a firm (including any agricultural firm or service sector firm) as eligible to apply for adjustment assistance under this part if the Secretary determines—
     - **(A)** that a significant number or proportion of the workers in such firm have become totally or partially separated, or are threatened to become totally or partially separated,

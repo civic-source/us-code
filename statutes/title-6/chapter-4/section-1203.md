@@ -3,9 +3,9 @@ title: "Section 1203 - Hazardous materials highway routing"
 usc_title: 6
 usc_section: "1203"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "6 U.S.C. § 1203"
-generated_at: "2026-03-30T04:56:19.804Z"
+generated_at: "2026-03-30T04:59:20.352Z"
 status: "active"
 ---
 

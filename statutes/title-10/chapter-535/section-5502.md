@@ -3,9 +3,9 @@ title: "Section 5502 - Marine Corps: grades above chief warrant officer, W–5"
 usc_title: 10
 usc_section: "5502"
 chapter: 535
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 5502"
-generated_at: "2026-03-30T04:56:26.733Z"
+generated_at: "2026-03-30T04:59:28.768Z"
 status: "active"
 ---
 

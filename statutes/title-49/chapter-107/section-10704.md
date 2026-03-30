@@ -3,9 +3,9 @@ title: "Section 10704 - Authority and criteria: rates, classifications, rules, a
 usc_title: 49
 usc_section: "10704"
 chapter: 107
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 10704"
-generated_at: "2026-03-30T04:59:03.164Z"
+generated_at: "2026-03-30T05:01:52.671Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** When the Board, after a full hearing, decides that a rate charged or collected by a rail carrier for transportation subject to the jurisdiction of the Board under this part, or that a classification, rule, or practice of that carrier, does or will violate this part, the Board may prescribe the maximum rate, classification, rule, or practice to be followed. The Board may order the carrier to stop the violation. When a rate, classification, rule, or practice is prescribed under this subsection, the affected carrier may not publish, charge, or collect a different rate and shall adopt the classification and observe the rule or practice prescribed by the Board.
-  - **(2)** The Board shall maintain and revise as necessary standards and procedures for establishing revenue levels for rail carriers providing transportation subject to its jurisdiction under this part that are adequate, under honest, economical, and efficient management, to cover total operating expenses, including depreciation and obsolescence, plus a reasonable and economic profit or return (or both) on capital employed in the business. The Board shall make an adequate and continuing effort to assist those carriers in attaining revenue levels prescribed under this paragraph. Revenue levels established under this paragraph should—
+  - **(2)** The Board shall maintain and revise as necessary standards and procedures for establishing revenue levels for rail carriers providing transportation subject to its jurisdiction under this part that are adequate, under honest, economical, and efficient management, for the infrastructure and investment needed to meet the present and future demand for rail services and to cover total operating expenses, including depreciation and obsolescence, plus a reasonable and economic profit or return (or both) on capital employed in the business. The Board shall make an adequate and continuing effort to assist those carriers in attaining revenue levels prescribed under this paragraph. Revenue levels established under this paragraph should—
     - **(A)** provide a flow of net income plus depreciation adequate to support prudent capital outlays, assure the repayment of a reasonable level of debt, permit the raising of needed equity capital, and cover the effects of inflation; and
     - **(B)** attract and retain capital in amounts adequate to provide a sound transportation system in the United States.
   - **(3)** On the basis of the standards and procedures described in paragraph (2), the Board shall annually determine which rail carriers are earning adequate revenues.
@@ -21,4 +21,12 @@ status: "active"
 - **(c)** In a proceeding to challenge the reasonableness of a rate, the Board shall make its determination as to the reasonableness of the challenged rate—
   - **(1)** within 9 months after the close of the administrative record if the determination is based upon a stand-alone cost presentation; or
   - **(2)** within 6 months after the close of the administrative record if the determination is based upon the methodology adopted by the Board pursuant to section 10701(d)(3).
-- **(d)** Within 9 months after January 1, 1996 , the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates. The procedures shall include appropriate measures for avoiding delay in the discovery and evidentiary phases of such proceedings and exemption or revocation proceedings, including appropriate sanctions for such delay, and for ensuring prompt disposition of motions and interlocutory administrative appeals.
+- **(d)**
+  - **(1)** The Board shall maintain procedures to ensure the expeditious handling of challenges to the reasonableness of railroad rates. The procedures shall include appropriate measures for avoiding delay in the discovery and evidentiary phases of such proceedings and exemption or revocation proceedings, including appropriate sanctions for such delay, and for ensuring prompt disposition of motions and interlocutory administrative appeals.
+  - **(2)**
+    - **(A)** Except as provided under subparagraph (B), in a stand-alone cost rate challenge, the Board shall comply with the following timeline:
+      - **(i)** Discovery shall be completed not later than 150 days after the date on which the challenge is initiated.
+      - **(ii)** The development of the evidentiary record shall be completed not later than 155 days after the date on which discovery is completed under clause (i).
+      - **(iii)** The closing brief shall be submitted not later than 60 days after the date on which the development of the evidentiary record is completed under clause (ii).
+      - **(iv)** A final Board decision shall be issued not later than 180 days after the date on which the evidentiary record is completed under clause (ii).
+    - **(B)** The Board may extend a timeline under subparagraph (A) after a request from any party or in the interest of due process.

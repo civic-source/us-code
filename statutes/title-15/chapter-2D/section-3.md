@@ -3,9 +3,9 @@ title: "Section 3 - Registration of investment advisers"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T04:56:57.379Z"
+generated_at: "2026-03-30T04:59:35.474Z"
 status: "active"
 ---
 
@@ -109,8 +109,11 @@ status: "active"
     - **(C)** The commencement of proceedings under subparagraph (B) of this paragraph shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
     - **(D)** Section 80b–13 of this title shall not apply to a temporary order entered pursuant to this section.
   - **(5)** In any cease-and-desist proceeding under paragraph (1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
-- **(l)** No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010 , the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+- **(l)**
+  - **(1)** No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010 , the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+  - **(2)** For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [ 15 U.S.C. 80a–53 ]).
 - **(m)**
   - **(1)** The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of 5 5 So in original. The word “of” probably should not appear. such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.
   - **(2)** The Commission shall require investment advisers exempted by reason of this subsection to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+  - **(3)** For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [ 15 U.S.C. 80–53 ]) shall be excluded from the limit set forth in paragraph (1).
 - **(n)** In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.

@@ -3,15 +3,15 @@ title: "Section 7703a - Impact aid for children with severe disabilities"
 usc_title: 20
 usc_section: "7703a"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7703a"
-generated_at: "2026-03-30T04:57:15.845Z"
+generated_at: "2026-03-30T04:59:56.223Z"
 status: "active"
 ---
 
 # § 7703a. Impact aid for children with severe disabilities
 
-- **(a)** Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii), (B), (D)(i) or (D)(ii) of section 7703(a)(1) of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
+- **(a)** Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) of this title 1 1 See References in Text note below. that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
 - **(b)** The amount of the payment under subsection (a) of this section to a local educational agency for a fiscal year for each child referred to in such subsection with a severe disability shall be—
   - **(1)** the payment made on behalf of the child with a severe disability that is in excess of the average per pupil expenditure in the State in which the local educational agency is located; less
   - **(2)** the sum of the funds received by the local educational agency—
@@ -26,4 +26,4 @@ status: "active"
   - **(1)** the number of severely disabled children for which a payment may be made under this section; and
   - **(2)** a breakdown of the average cost, by placement (inside or outside the boundaries of the school district of the local educational agency), of providing education and related services to such children.
 - **(f)** Payments shall be made for any period in a fiscal year under this section only to the extent that funds are appropriated specifically for making such payments for that fiscal year.
-- **(g)** In this section, the term “local educational agency” has the meaning given that term in section 7713(9) of this title .
+- **(g)** In this section, the term “local educational agency” has the meaning given that term in section 7713 of this title .

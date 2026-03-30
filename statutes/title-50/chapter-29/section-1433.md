@@ -3,9 +3,9 @@ title: "Section 1433 - Public record; examination of records by Comptroller Gene
 usc_title: 50
 usc_section: "1433"
 chapter: 29
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 1433"
-generated_at: "2026-03-30T04:59:01.526Z"
+generated_at: "2026-03-30T05:01:50.024Z"
 status: "active"
 ---
 

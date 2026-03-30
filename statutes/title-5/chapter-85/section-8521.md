@@ -3,16 +3,16 @@ title: "Section 8521 - Definitions; application"
 usc_title: 5
 usc_section: "8521"
 chapter: 85
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 8521"
-generated_at: "2026-03-30T04:56:17.740Z"
+generated_at: "2026-03-30T04:59:18.376Z"
 status: "active"
 ---
 
 # § 8521. Definitions; application
 
 - **(a)** For the purpose of this subchapter—
-  - **(1)** “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 90 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
+  - **(1)** “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
     - **(A)** the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service); and
     - **(B)**
       - **(i)** the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or

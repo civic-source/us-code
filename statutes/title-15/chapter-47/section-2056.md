@@ -3,9 +3,9 @@ title: "Section 2056 - Consumer product safety standards"
 usc_title: 15
 usc_section: "2056"
 chapter: 47
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 2056"
-generated_at: "2026-03-30T04:56:57.460Z"
+generated_at: "2026-03-30T04:59:35.556Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** Requirements expressed in terms of performance requirements.
   - **(2)** Requirements that a consumer product be marked with or accompanied by clear and adequate warnings or instructions, or requirements respecting the form of warnings or instructions.
 - **(b)**
-  - **(1)** The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+  - **(1)** The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
   - **(2)** The Commission shall devise procedures to monitor compliance with any voluntary standards—
     - **(A)** upon which the Commission has relied under paragraph (1);
     - **(B)** which were developed with the participation of the Commission; or

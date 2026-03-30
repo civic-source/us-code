@@ -1,13 +1,13 @@
 ---
-title: "Section 3561 - Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i) , July 22, 2010 , 124 Stat. 2231 ]"
+title: "Section 3561 - Repealed. Pub. L. 111–204 , § 2(h)(6)(A)(i), July 22, 2010 , 124 Stat. 2231 ]"
 usc_title: 31
 usc_section: "3561"
 chapter: 35
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "31 U.S.C. § 3561"
-generated_at: "2026-03-30T04:58:31.057Z"
+generated_at: "2026-03-30T05:00:56.327Z"
 status: "repealed"
 ---
 
-# [§ 3561. Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i) , July 22, 2010 , 124 Stat. 2231 ]
+# [§ 3561. Repealed. Pub. L. 111–204 , § 2(h)(6)(A)(i), July 22, 2010 , 124 Stat. 2231 ]
 

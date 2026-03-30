@@ -3,9 +3,9 @@ title: "Section 1117 - Recovery for violation of rights"
 usc_title: 15
 usc_section: "1117"
 chapter: 22
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1117"
-generated_at: "2026-03-30T04:56:57.426Z"
+generated_at: "2026-03-30T04:59:35.523Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** In assessing damages under subsection (a) for any violation of section 1114(1)(a) of this title or section 220506 of title 36 , in a case involving use of a counterfeit mark or designation (as defined in section 1116(d) of this title ), the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever amount is greater, together with a reasonable attorney’s fee, if the violation consists of—
   - **(1)** intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title ), in connection with the sale, offering for sale, or distribution of goods or services; or
   - **(2)** providing goods or services necessary to the commission of a violation specified in paragraph (1), with the intent that the recipient of the goods or services would put the goods or services to use in committing the violation.
-- **(c)** In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title ) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a) of this section, an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
+- **(c)** In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title ) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a), an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
   - **(1)** not less than $1,000 or more than $200,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
   - **(2)** if the court finds that the use of the counterfeit mark was willful, not more than $2,000,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just.
 - **(d)** In a case involving a violation of section 1125(d)(1) of this title , the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits, an award of statutory damages in the amount of not less than $1,000 and not more than $100,000 per domain name, as the court considers just.

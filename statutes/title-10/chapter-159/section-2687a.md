@@ -3,9 +3,9 @@ title: "Section 2687a - Overseas base closures and realignments and basing maste
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-30T04:56:26.715Z"
+generated_at: "2026-03-30T04:59:28.750Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
 - **(c)** In the case of a payment referred to in subsection (b)(1) for the residual value of real property or improvements at an overseas military facility, the portion of the payment that is equal to the depreciated value of the investment made with nonappropriated funds shall be deposited in the reserve account established under section 204(b)(7)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note). The Secretary of Defense may use amounts in the account (in such an aggregate amount as is provided in advance by appropriation Acts) for the purpose of acquiring, constructing, or improving commissary stores and nonappropriated fund instrumentalities.
 - **(d)**
   - **(1)** The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
-  - **(2)** Each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
+  - **(2)** Each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the fair market value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 - **(e)**
   - **(1)** Before concluding an agreement for acceptance of military construction or facility improvements as a payment-in-kind, the Secretary of Defense shall submit to the congressional defense committees a notification on the proposed agreement. Any such notification shall contain the following:
     - **(A)** A description of the military construction project or facility improvement project.
@@ -41,7 +41,7 @@ status: "active"
   - **(3)** When the Secretary of Defense submits a notification of a proposed agreement under paragraph (1) or (2), the Secretary may then enter into the agreement described in the notification only after the end of the 30-day period beginning on the date on which the notification is submitted or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
 - **(f)**
   - **(1)** A military construction project, as defined in chapter 159 of this title, may be accepted as a payment-in-kind contribution pursuant to a bilateral agreement with a host country only if that military construction project is authorized by law.
-  - **(2)** Operations of United States forces may be funded through a payment-in-kind contribution under this section only if the costs covered by such payment are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 of title 31.
+  - **(2)** Operations of United States forces may be funded through a payment-in-kind contribution under this section only if the costs covered by such payment are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 1 1 So in original. Probably should be preceded by “section”. of title 31.
   - **(3)** If funds previously appropriated for a military construction project, facility improvement, or operating costs are subsequently addressed in an agreement for a payment-in-kind contribution, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
   - **(4)** This subsection does not apply to a military construction project that—
     - **(A)** was specified in a bilateral agreement with a host country that was entered into prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014;

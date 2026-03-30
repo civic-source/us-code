@@ -3,9 +3,9 @@ title: "Section 1020to1020a1 - Repealed. Pub. L. 87–353, § 3(a) , (v), Oct. 4
 usc_title: 12
 usc_section: "1020to1020a1"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "12 U.S.C. § 1020to1020a1"
-generated_at: "2026-03-30T04:56:55.353Z"
+generated_at: "2026-03-30T04:59:33.530Z"
 status: "repealed"
 ---
 

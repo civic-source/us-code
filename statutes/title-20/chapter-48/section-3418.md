@@ -1,13 +1,13 @@
 ---
-title: "Section 3418 - Repealed. Pub. L. 99–145, title XII, § 1204(a)(1) , Nov. 8, 1985 , 99 Stat. 720"
+title: "Section 3418 - Repealed. Pub. L. 99–145, title XII , § 1204(a)(1), Nov. 8, 1985 , 99 Stat. 720"
 usc_title: 20
 usc_section: "3418"
 chapter: 48
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 3418"
-generated_at: "2026-03-30T04:57:15.797Z"
+generated_at: "2026-03-30T04:59:56.186Z"
 status: "repealed"
 ---
 
-# § 3418. Repealed. Pub. L. 99–145, title XII, § 1204(a)(1) , Nov. 8, 1985 , 99 Stat. 720
+# § 3418. Repealed. Pub. L. 99–145, title XII , § 1204(a)(1), Nov. 8, 1985 , 99 Stat. 720
 

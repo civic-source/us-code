@@ -3,9 +3,9 @@ title: "Section 200305 - Financial assistance to States"
 usc_title: 54
 usc_section: "200305"
 chapter: 2003
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "54 U.S.C. § 200305"
-generated_at: "2026-03-30T04:59:05.985Z"
+generated_at: "2026-03-30T05:01:54.624Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** Development.
 - **(b)** Amounts appropriated and available for State purposes for each fiscal year shall be apportioned among the States by the Secretary, whose determination shall be final, in accordance with the following formula:
   - **(1)** Forty percent of the 1st $225,000,000; 30 percent of the next $275,000,000; and 20 percent of all additional appropriations shall be apportioned equally among the States.
-  - **(2)** At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in the Secretary’s judgment will best accomplish the purposes of this chapter. The determination of need shall include consideration of—–
+  - **(2)** At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in the Secretary’s judgment will best accomplish the purposes of this chapter. The determination of need shall include consideration of—
     - **(A)** the proportion that the population of each State bears to the total population of the United States;
     - **(B)** the use of outdoor recreation resources of each State by persons from outside the State; and
     - **(C)** the Federal resources and programs in each State.

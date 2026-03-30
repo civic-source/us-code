@@ -3,9 +3,9 @@ title: "Section 7242 - Improper influence on conduct of audits"
 usc_title: 15
 usc_section: "7242"
 chapter: 98
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 7242"
-generated_at: "2026-03-30T04:56:57.510Z"
+generated_at: "2026-03-30T04:59:35.607Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It shall be unlawful, in contravention of such rules or regulations as the Commission shall prescribe as necessary and appropriate in the public interest or for the protection of investors, for any officer or director of an issuer, or any other person acting under the direction thereof, to take any action to fraudulently influence, coerce, manipulate, or mislead any independent public or certified accountant engaged in the performance of an audit of the financial statements of that issuer for the purpose of rendering such financial statements materially misleading.
 - **(b)** In any civil proceeding, the Commission shall have exclusive authority to enforce this section and any rule or regulation issued under this section.
-- **(c)** The provisions of subsection (a) of this section shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
+- **(c)** The provisions of subsection (a) shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
 - **(d)** The Commission shall—
   - **(1)** propose the rules or regulations required by this section, not later than 90 days after July 30, 2002 ; and
   - **(2)** issue final rules or regulations required by this section, not later than 270 days after July 30, 2002 .

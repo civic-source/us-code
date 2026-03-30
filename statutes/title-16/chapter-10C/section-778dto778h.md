@@ -3,9 +3,9 @@ title: "Section 778dto778h - Omitted"
 usc_title: 16
 usc_section: "778dto778h"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "16 U.S.C. § 778dto778h"
-generated_at: "2026-03-30T04:57:06.584Z"
+generated_at: "2026-03-30T04:59:58.491Z"
 status: "omitted"
 ---
 

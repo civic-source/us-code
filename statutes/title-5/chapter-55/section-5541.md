@@ -3,9 +3,9 @@ title: "Section 5541 - Definitions"
 usc_title: 5
 usc_section: "5541"
 chapter: 55
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "5 U.S.C. § 5541"
-generated_at: "2026-03-30T04:56:17.711Z"
+generated_at: "2026-03-30T04:59:18.345Z"
 status: "active"
 ---
 
@@ -32,10 +32,10 @@ For the purpose of this subchapter—
         - **(I)** the Metropolitan Police or the Fire Department of the District of Columbia; or
         - **(II)** a member of the United States Park Police, other than for purposes of section 1 1 So in original. Probably should be “sections”. 5545(a) and 5546;
       - **(v)** a student-employee as defined by section 5351 of this title ;
-      - **[(vi)** Repealed. Pub. L. 91–375, § 6(c)(16) , Aug. 12, 1970 , 84 Stat. 776 ;]
+      - **[(vi)** Repealed. Pub. L. 91–375 , § 6(c)(16), Aug. 12, 1970 , 84 Stat. 776 ;]
       - **(vii)** an employee outside the continental United States or in Alaska who is paid in accordance with local native prevailing wage rates for the area in which employed;
       - **(viii)** an employee of the Tennessee Valley Authority;
-      - **(ix)** an individual to whom section 1291(a) of title 50 , appendix, applies;
+      - **(ix)** an individual to whom section 1291(a) 2 2 See References in Text note below. of title 50, appendix, applies;
       - **(x)** an employee of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives;
       - **(xi)** an employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under subchapter IV of chapter 53 of this title, or by a wage board or similar administrative authority serving the same purpose, except as provided by section 5544 or 5550b of this title;
       - **(xii)** an employee of the Transportation Corps of the Army on a vessel operated by the United States, a vessel employee of the Environmental Science Services Administration, or a vessel employee of the Department of the Interior;

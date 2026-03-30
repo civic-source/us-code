@@ -3,9 +3,9 @@ title: "Section 731 - General"
 usc_title: 31
 usc_section: "731"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "31 U.S.C. § 731"
-generated_at: "2026-03-30T04:58:31.047Z"
+generated_at: "2026-03-30T05:00:56.315Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Comptroller General may appoint, pay, assign, and remove officers (except the Deputy Comptroller General) and employees the Comptroller General decides are necessary to carry out the duties and powers of the Government Accountability Office.
 - **(b)** The Comptroller General may establish for appropriate officers and employees a merit pay system consistent with section 5401 of title 5 , as in effect on October 31, 1993 .
 - **(c)** The annual rate of basic pay of the General Counsel of the Government Accountability Office is equal to the rate for level IV of the Executive Schedule.
-- **[(d)** Repealed. Pub. L. 110–323, § 9(a)(1) , Sept. 22, 2008 , 122 Stat. 3548 .]
+- **[(d)** Repealed. Pub. L. 110–323 , § 9(a)(1), Sept. 22, 2008 , 122 Stat. 3548 .]
 - **(e)** The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the daily rate for level IV of the Executive Schedule, except that the services of not more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.
 - **(f)** The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses under subchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
 - **(g)** The Comptroller General shall prescribe regulations under which key officers and employees of the Office who have less than 3 years of service may accrue leave in accordance with section 6303(a)(2) of title 5 , in those circumstances in which the Comptroller General has determined such increased annual leave is appropriate for the recruitment or retention of such officers and employees. Such regulations shall define key officers and employees and set forth the factors in determining which officers and employees should be allowed to accrue leave in accordance with this subsection.
@@ -38,3 +38,4 @@ status: "active"
   - **(6)** section 1043 of the Internal Revenue Code of 1986; and
   - **(7)** chapter 21 of title 41.
 - **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
+- **(k)** The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.

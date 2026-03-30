@@ -3,9 +3,9 @@ title: "Section 657q - Consolidation of contract requirements"
 usc_title: 15
 usc_section: "657q"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 657q"
-generated_at: "2026-03-30T04:56:57.408Z"
+generated_at: "2026-03-30T04:59:35.504Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(3)** the term “senior procurement executive” means an official designated under section 1702(c) of title 41 as the senior procurement executive for a Federal agency.
 - **(b)** The head of each Federal agency shall ensure that the decisions made by the Federal agency regarding consolidation of contract requirements of the Federal agency are made with a view to providing small business concerns with appropriate opportunities to participate as prime contractors and subcontractors in the procurements of the Federal agency.
 - **(c)**
-  - **(1)** Subject to paragraph (4), the head of a Federal agency may not carry out an acquisition strategy that includes a consolidation of contract requirements of the Federal agency with a total value of more than $2,000,000, unless the senior procurement executive or Chief Acquisition Officer for the Federal agency, before carrying out the acquisition strategy—
+  - **(1)** The head of a Federal agency may not carry out an acquisition strategy that includes a consolidation of contract requirements of the Federal agency with a total value of more than $2,000,000, unless the senior procurement executive or Chief Acquisition Officer for the Federal agency, before carrying out the acquisition strategy—
     - **(A)** conducts market research;
     - **(B)** identifies any alternative contracting approaches that would involve a lesser degree of consolidation of contract requirements;
     - **(C)** makes a written determination that the consolidation of contract requirements is necessary and justified;
@@ -28,6 +28,7 @@ status: "active"
   - **(2)**
     - **(A)** A senior procurement executive or Chief Acquisition Officer may determine that an acquisition strategy involving a consolidation of contract requirements is necessary and justified for the purposes of paragraph (1)(C) if the benefits of the acquisition strategy substantially exceed the benefits of each of the possible alternative contracting approaches identified under paragraph (1)(B).
     - **(B)** For purposes of subparagraph (A), savings in administrative or personnel costs alone do not constitute a sufficient justification for a consolidation of contract requirements in a procurement unless the expected total amount of the cost savings, as determined by the senior procurement executive or Chief Acquisition Officer, is expected to be substantial in relation to the total cost of the procurement.
+    - **(C)** Not later than 7 days after making a determination that an acquisition strategy involving a consolidation of contract requirements is necessary and justified under subparagraph (A), the senior procurement executive or Chief Acquisition Officer shall publish a notice on a public website that such determination has been made. Any solicitation for a procurement related to the acquisition strategy may not be published earlier than 7 days after such notice is published. Along with the publication of the solicitation, the senior procurement executive or Chief Acquisition Officer shall publish a justification for the determination, which shall include the information in subparagraphs (A) through (E) of paragraph (1).
   - **(3)** The benefits considered for the purposes of paragraphs (1) and (2) may include cost and, regardless of whether quantifiable in dollar amounts—
     - **(A)** quality;
     - **(B)** acquisition cycle;

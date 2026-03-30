@@ -3,9 +3,9 @@ title: "Section 4625 - Ordnance property: officers of armed forces; civilian emp
 usc_title: 10
 usc_section: "4625"
 chapter: 439
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 4625"
-generated_at: "2026-03-30T04:56:26.730Z"
+generated_at: "2026-03-30T04:59:28.764Z"
 status: "active"
 ---
 

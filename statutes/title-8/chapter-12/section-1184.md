@@ -3,9 +3,9 @@ title: "Section 1184 - Admission of nonimmigrants"
 usc_title: 8
 usc_section: "1184"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "8 U.S.C. § 1184"
-generated_at: "2026-03-30T04:56:20.428Z"
+generated_at: "2026-03-30T04:59:20.989Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
       - **(i)** No nonimmigrant visa under section 1101(a)(15)(P)(i)(a) of this title shall be issued to any alien who is a national of a country that is a state sponsor of international terrorism unless the Secretary of State determines, in consultation with the Secretary of Homeland Security and the heads of other appropriate United States agencies, that such alien does not pose a threat to the safety, national security, or national interest of the United States. In making a determination under this subparagraph, the Secretary of State shall apply standards developed by the Secretary of State, in consultation with the Secretary of Homeland Security and the heads of other appropriate United States agencies, that are applicable to the nationals of such states.
       - **(ii)** In this subparagraph, the term “state sponsor of international terrorism” means any country the government of which has been determined by the Secretary of State under any of the laws specified in clause (iii) to have repeatedly provided support for acts of international terrorism.
       - **(iii)** The laws specified in this clause are the following:
-        - **(I)** Section 2405(j)(1)(A) of title 50 , Appendix (or successor statute).
+        - **(I)** Section 4605(j)(1)(A) of title 50 (or successor statute).
         - **(II)** Section 2780(d) of title 22 .
         - **(III)** Section 2371(a) of title 22 .
     - **(G)** The Secretary of Homeland Security shall permit a petition under this subsection to seek classification of more than 1 alien as a nonimmigrant under section 1101(a)(15)(P)(i)(a) of this title .
@@ -197,7 +197,7 @@ status: "active"
     - **(C)** The period of authorized admission as a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title shall be 1 year, and may be extended, but only in 1-year increments. After every second extension, the next following extension shall not be granted unless the Secretary of Labor had determined and certified to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title for the purpose of permitting the nonimmigrant to obtain such extension.
     - **(D)** The numerical limitation described in paragraph (1)(A) for a fiscal year shall be reduced by one for each alien granted an extension under subparagraph (C) during such year who has obtained 5 or more consecutive prior extensions.
   - **(9)**
-    - **(A)** Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitation of paragraph (1)(B) during fiscal year 2004, 2005, or 2006 shall not again be counted toward such limitation during fiscal year 2007. Such an alien shall be considered a returning worker.
+    - **(A)** Subject to subparagraphs (B) and (C), an alien who has already been counted toward the numerical limitation of paragraph (1)(B) during fiscal year 2013, 2014, or 2015 shall not again be counted toward such limitation during fiscal year 2016. Such an alien shall be considered a returning worker.
     - **(B)** A petition to admit or otherwise provide status under section 1101(a)(15)(H)(ii)(b) of this title shall include, with respect to a returning worker—
       - **(i)** all information and evidence that the Secretary of Homeland Security determines is required to support a petition for status under section 1101(a)(15)(H)(ii)(b) of this title ;
       - **(ii)** the full name of the alien; and

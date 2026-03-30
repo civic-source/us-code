@@ -3,9 +3,9 @@ title: "Section 312 - Special pay: nuclear-qualified officers extending period o
 usc_title: 37
 usc_section: "312"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "37 U.S.C. § 312"
-generated_at: "2026-03-30T04:58:37.554Z"
+generated_at: "2026-03-30T05:01:05.266Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
 - **(e)**
   - **(1)** An officer who is performing obligated service under an agreement under subsection (a) may, if the amount that may be paid under subsection (b) is higher than at the time the officer executed such agreement, execute a new agreement under this subsection. The period of such an agreement shall be a period equal to or exceeding the original period of the officer’s existing agreement, so long as the period of obligated active service under the new agreement does not extend beyond the maximum number of years of commissioned service authorized by subsection (a)(3). If a new agreement is executed under this subsection, the existing active-service agreement shall be cancelled, effective on the day before an anniversary date of that agreement after the date on which the amount that may be paid under this section is increased.
   - **(2)** This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
-- **(f)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2015 , execute the required written agreement to remain in active service.
+- **(f)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2016 , execute the required written agreement to remain in active service.

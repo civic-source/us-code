@@ -3,9 +3,9 @@ title: "Section 21 - Identification of WTC responders and provision of WTC-relat
 usc_title: 42
 usc_section: "21"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T04:58:56.851Z"
+generated_at: "2026-03-30T05:01:44.946Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(B)** In implementing subparagraph (A), the WTC Program Administrator shall—
       - **(i)** limit the number of enrollments made under paragraph (3)—
         - **(I)** in accordance with such subparagraph; and
-        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts available under section 300mm–61 of this title , that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled through the end of fiscal year 2020; and
+        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts available under section 300mm–61 of this title , that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
       - **(ii)** provide priority (subject to paragraph (3)(A)(i)) in such enrollments in the order in which individuals apply for enrollment under paragraph (3).
   - **(5)** No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as an eligible WTC responder. Before enrolling any individual as a WTC responder in the WTC Program under paragraph (3), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
 - **(b)**

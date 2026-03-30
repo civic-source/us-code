@@ -3,9 +3,9 @@ title: "Section 13906 - Security of motor carriers, motor private carriers, brok
 usc_title: 49
 usc_section: "13906"
 chapter: 139
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 13906"
-generated_at: "2026-03-30T04:59:03.169Z"
+generated_at: "2026-03-30T05:01:52.678Z"
 status: "active"
 ---
 
@@ -84,5 +84,5 @@ status: "active"
     - **(C)** If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a freight forwarder registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provide freight forwarder financial security for 3 years
   - **(9)** The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
 - **(d)** The Secretary may determine the type and amount of security filed under this section. A motor carrier may submit proof of qualifications as a self-insurer to satisfy the security requirements of this section. The Secretary shall adopt regulations governing the standards for approval as a self-insurer. Motor carriers which have been granted authority to self-insure as of January 1, 1996 , shall retain that authority unless, for good cause shown and after notice and an opportunity for a hearing, the Secretary finds that the authority must be revoked.
-- **(e)** The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke the registration of any carrier or broker after the effective date of the cancellation.
+- **(e)** The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke or suspend the registration of any carrier or broker after the effective date of the cancellation.
 - **(f)** The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.

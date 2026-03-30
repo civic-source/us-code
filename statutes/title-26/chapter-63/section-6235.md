@@ -3,9 +3,9 @@ title: "Section 6235 - Period of limitations on making adjustments"
 usc_title: 26
 usc_section: "6235"
 chapter: 63
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6235"
-generated_at: "2026-03-30T04:58:24.570Z"
+generated_at: "2026-03-30T05:00:47.992Z"
 status: "active"
 ---
 
@@ -16,8 +16,8 @@ status: "active"
     - **(A)** the date on which the partnership return for such taxable year was filed,
     - **(B)** the return due date for the taxable year, or
     - **(C)** the date on which the partnership filed an administrative adjustment request with respect to such year under section 6227, or
-  - **(2)** in the case of any modification of an imputed underpayment under section 6225(c), the date that is 270 days (plus the number of days of any extension consented to by the Secretary under paragraph (4) thereof) after the date on which everything required to be submitted to the Secretary pursuant to such section is so submitted, or
-  - **(3)** in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 270 days after the date of such notice.
+  - **(2)** in the case of any modification of an imputed underpayment under section 6225(c), the date that is 270 days (plus the number of days of any extension consented to by the Secretary under paragraph (7) thereof) after the date on which everything required to be submitted to the Secretary pursuant to such section is so submitted, or
+  - **(3)** in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7) after the date of such notice.
 - **(b)** The period described in subsection (a) (including an extension period under this subsection) may be extended by an agreement entered into by the Secretary and the partnership before the expiration of such period.
 - **(c)**
   - **(1)** In the case of a false or fraudulent partnership return with intent to evade tax, the adjustment may be made at any time.

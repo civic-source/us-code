@@ -3,9 +3,9 @@ title: "Section 3204 - International Trade Commission reports on impact of this 
 usc_title: 19
 usc_section: "3204"
 chapter: 20
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3204"
-generated_at: "2026-03-30T04:57:10.211Z"
+generated_at: "2026-03-30T04:59:42.909Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** During the period that this chapter is in effect, the report required by paragraph (1) shall be submitted on December 31 of each year that the report required by section 2704 of this title is not submitted.
   - **(3)** For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States are considered to be United States industries.
 - **(b)**
-  - **(1)** Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+  - **(1)** Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
     - **(A)** the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
     - **(B)** the probable future effect that this chapter will have on the United States economy generally, as well as on such domestic industries, before the provisions of this chapter terminate; and
     - **(C)** the estimated effect that this chapter has had on the drug-related crop eradication and crop substitution efforts of the beneficiary countries.
@@ -24,5 +24,5 @@ status: "active"
     - **(A)** analyze the production, trade and consumption of United States products affected by this chapter, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
     - **(B)** describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this chapter.
 - **(c)**
-  - **(1)** Each report required under subsection (a) of this section shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
+  - **(1)** Each report required under subsection (a) shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
   - **(2)** The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.

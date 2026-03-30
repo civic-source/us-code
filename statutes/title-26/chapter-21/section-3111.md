@@ -3,9 +3,9 @@ title: "Section 3111 - Rate of tax"
 usc_title: 26
 usc_section: "3111"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 3111"
-generated_at: "2026-03-30T04:58:24.522Z"
+generated_at: "2026-03-30T05:00:47.939Z"
 status: "active"
 ---
 
@@ -41,3 +41,8 @@ status: "active"
   - **(5)** For purposes of this subsection—
     - **(A)** the term “qualified tax-exempt organization” means an employer that is an organization described in section 501(c) and exempt from taxation under section 501(a), and
     - **(B)** the term “qualified veteran” has meaning 1 1 So in original. Probably should be preceded by “the”. given such term by section 51(d)(3).
+- **(f)**
+  - **(1)** In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+  - **(2)** The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+  - **(3)** If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+  - **(4)** The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).

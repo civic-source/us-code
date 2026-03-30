@@ -3,9 +3,9 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-30T04:56:26.630Z"
+generated_at: "2026-03-30T04:59:28.659Z"
 status: "active"
 ---
 
@@ -33,6 +33,7 @@ status: "active"
     - **(B)** the priorities of military missions; and
     - **(C)** the resource levels projected to be available for the period of time for which such recommendations and proposals are to be effective.
   - **(2)** The Secretary of Defense, with the approval of the President and after consultation with the Chairman of the Joint Chiefs of Staff, shall provide to the Chairman written policy guidance for the preparation and review of contingency plans, including plans for providing support to civil authorities in an incident of national significance or a catastrophic incident, for homeland defense, and for military support to civil authorities. Such guidance shall be provided every two years or more frequently as needed and shall include guidance on the specific force levels and specific supporting resource levels projected to be available for the period of time for which such plans are to be effective.
+  - **(3)** At the time of the budget submission by the President for a fiscal year, the Secretary of Defense shall include in the budget materials submitted to Congress for that year summaries of the guidance developed under paragraphs (1) and (2), as well as summaries of any plans developed in accordance with the guidance developed under paragraph (2). Such summaries shall be sufficient to allow the congressional defense committees to evaluate fully the requirements for military forces, acquisition programs, and operation and maintenance funding in the President’s annual budget request for the Department of Defense.
 - **(h)** The Secretary of Defense shall keep the Secretaries of the military departments informed with respect to military operations and activities of the Department of Defense that directly affect their respective responsibilities.
 - **(i)**
   - **(1)** The Secretary of Defense shall transmit to Congress each year a report that contains a comprehensive net assessment of the defense capabilities and programs of the armed forces of the United States and its allies as compared with those of their potential adversaries.

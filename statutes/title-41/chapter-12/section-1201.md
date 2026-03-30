@@ -3,9 +3,9 @@ title: "Section 1201 - Federal Acquisition Institute"
 usc_title: 41
 usc_section: "1201"
 chapter: 12
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "41 U.S.C. § 1201"
-generated_at: "2026-03-30T04:58:43.602Z"
+generated_at: "2026-03-30T05:01:15.549Z"
 status: "active"
 ---
 

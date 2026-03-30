@@ -3,9 +3,9 @@ title: "Section 4346 - Cadets: requirements for admission"
 usc_title: 10
 usc_section: "4346"
 chapter: 403
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 4346"
-generated_at: "2026-03-30T04:56:26.728Z"
+generated_at: "2026-03-30T04:59:28.763Z"
 status: "active"
 ---
 

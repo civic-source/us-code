@@ -3,16 +3,16 @@ title: "Section 4724 - Trade shows"
 usc_title: 15
 usc_section: "4724"
 chapter: 73
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 4724"
-generated_at: "2026-03-30T04:56:57.494Z"
+generated_at: "2026-03-30T04:59:35.590Z"
 status: "active"
 ---
 
 # § 4724. Trade shows
 
 - **(a)** In order to facilitate exporting by United States businesses, the Secretary of Commerce shall provide assistance for trade shows in the United States which bring together representatives of United States businesses seeking to export goods or services produced in the United States and representatives of foreign companies or governments seeking to buy such goods or services from these United States businesses.
-- **(b)** Assistance under subsection (a) of this section may be provided to—
+- **(b)** Assistance under subsection (a) may be provided to—
   - **(1)** nonprofit industry organizations,
   - **(2)** trade associations,
   - **(3)** foreign trade zones, and

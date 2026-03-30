@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T04:58:24.446Z"
+generated_at: "2026-03-30T05:00:47.858Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
         - **(I)** makes payments or supplements as an early retirement benefit, a retirement-type subsidy, or a benefit described in the last sentence of section 411(a)(9), and
         - **(II)** such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
       - **(ii)** For purposes of this subparagraph, the term “applicable voluntary early retirement incentive plan” means a voluntary early retirement incentive plan maintained by—
-        - **(I)** a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 )), or
+        - **(I)** a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965), or
         - **(II)** an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) and exempt from tax under section 501(a).
   - **(12)**
     - **(A)** This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.

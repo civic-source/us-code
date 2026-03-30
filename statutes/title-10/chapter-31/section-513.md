@@ -3,9 +3,9 @@ title: "Section 513 - Enlistments: Delayed Entry Program"
 usc_title: 10
 usc_section: "513"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 513"
-generated_at: "2026-03-30T04:56:26.642Z"
+generated_at: "2026-03-30T04:59:28.672Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ status: "active"
 - **(b)**
   - **(1)** Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force. The Secretary concerned may extend the 365-day period for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
   - **(2)** During the period beginning on the date on which the person enlists under subsection (a) and ending on the date on which the person is enlisted in a regular component under paragraph (1), the person shall be in the Ready Reserve of the armed force concerned.
-- **(c)** A person who is under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), except as provided in clause (ii) or (iii) of section 6(c)(2)(A) of that Act, may not be enlisted under subsection (a).
+- **(c)** A person who is under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), 1 1 See References in Text note below. except as provided in clause (ii) or (iii) of section 6(c)(2)(A) of that Act, may not be enlisted under subsection (a).
 - **(d)** This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.

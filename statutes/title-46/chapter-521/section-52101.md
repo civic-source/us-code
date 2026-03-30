@@ -3,9 +3,9 @@ title: "Section 52101 - Reemployment rights for certain merchant seamen"
 usc_title: 46
 usc_section: "52101"
 chapter: 521
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "46 U.S.C. § 52101"
-generated_at: "2026-03-30T04:59:03.860Z"
+generated_at: "2026-03-30T05:01:49.183Z"
 status: "active"
 ---
 
@@ -16,9 +16,9 @@ status: "active"
 - **(c)** Not later than 20 days after the date the Secretary receives from an individual an application for certification under this subsection, the Secretary shall—
   - **(1)** determine whether the individual—
     - **(A)** was employed in the activation or operation of a vessel—
-      - **(i)** in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744) in a period in which the vessel was in use or being activated for use under subsection (b) of that section;
+      - **(i)** in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744) 1 1 See References in Text note below. in a period in which the vessel was in use or being activated for use under subsection (b) of that section;
       - **(ii)** requisitioned or purchased under chapter 563 of this title; or
       - **(iii)** owned, chartered, or controlled by the United States Government and used by the Government for a war, armed conflict, national emergency, or maritime mobilization need (including for training purposes or testing for readiness and suitability for mission performance); and
     - **(B)** during the period of that employment, possessed a valid license, certificate of registry, or merchant mariner’s document issued under chapter 71 or 73 of this title; and
   - **(2)** if the Secretary makes affirmative determinations under subparagraphs (A) and (B) of paragraph (1), certify that individual under this subsection.
-- **(d)** For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+- **(d)** For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)). 1

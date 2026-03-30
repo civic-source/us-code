@@ -3,9 +3,9 @@ title: "Section 1321 - Administrative exemptions"
 usc_title: 19
 usc_section: "1321"
 chapter: 4
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 1321"
-generated_at: "2026-03-30T04:57:10.166Z"
+generated_at: "2026-03-30T04:59:42.860Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
     - **(B)** $200 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States who are not entitled to any exemption from duty under subheading 9804.00.30, 9804.00.65, or 9804.00.70 of title I of this Act, 1 1 See References in Text note below. or
     - **(C)** $200 in any other case.
   - **(3)** waive the collection of duties, fees, taxes, and interest due on entered merchandise when such duties, fees, taxes, or interest are less than $20 or such greater amount as may be specified by the Secretary by regulation.
-- **(b)** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) of this section whenever he finds that such action is consistent with the purpose of subsection (a) of this section or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+- **(b)** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.

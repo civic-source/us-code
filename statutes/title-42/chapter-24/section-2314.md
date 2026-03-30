@@ -1,13 +1,13 @@
 ---
-title: "Section 2314 - Repealed. Pub. L. 93–608, § 1(22) , Jan. 2, 1975 , 88 Stat. 1970"
+title: "Section 2314 - Repealed. Pub. L. 93–608 , § 1(22), Jan. 2, 1975 , 88 Stat. 1970"
 usc_title: 42
 usc_section: "2314"
 chapter: 24
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 2314"
-generated_at: "2026-03-30T04:58:57.087Z"
+generated_at: "2026-03-30T05:01:45.188Z"
 status: "repealed"
 ---
 
-# § 2314. Repealed. Pub. L. 93–608, § 1(22) , Jan. 2, 1975 , 88 Stat. 1970
+# § 2314. Repealed. Pub. L. 93–608 , § 1(22), Jan. 2, 1975 , 88 Stat. 1970
 

@@ -3,9 +3,9 @@ title: "Section 2548 - Performance assessments of the defense acquisition system
 usc_title: 10
 usc_section: "2548"
 chapter: 149
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 2548"
-generated_at: "2026-03-30T04:56:26.710Z"
+generated_at: "2026-03-30T04:59:28.745Z"
 status: "active"
 ---
 
@@ -49,4 +49,4 @@ status: "active"
 - **(d)** The annual performance plan prepared by the Department of Defense pursuant to section 1115 of title 31 shall include appropriate performance goals for elements of the defense acquisition system.
 - **(e)** Beginning with fiscal year 2012—
   - **(1)** the annual report prepared by the Secretary of Defense pursuant to section 1116 of title 31 shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
-  - **(2)** the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
+  - **(2)** the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) 1 1 See References in Text note below. of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.

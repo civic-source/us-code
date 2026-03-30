@@ -3,9 +3,9 @@ title: "Section 1453 - Requirements of labeling; placement, form, and contents o
 usc_title: 15
 usc_section: "1453"
 chapter: 39
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1453"
-generated_at: "2026-03-30T04:56:57.434Z"
+generated_at: "2026-03-30T04:59:35.531Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
   - **(4)** The label of any package of a consumer commodity which bears a representation as to the number of servings of such commodity contained in such package shall bear a statement of the net quantity (in terms of weight or mass, measure, or numerical count) of each such serving.
   - **(5)** For purposes of paragraph (3)(A)(ii) of this subsection the term “random package” means a package which is one of a lot, shipment, or delivery of packages of the same consumer commodity with varying weights or masses, that is, packages with no fixed weight or mass pattern.
   - **(6)** The requirement of paragraph (2) that the statement of net quantity of contents include a statement in terms of the SI metric system shall not apply to foods that are packaged at the retail store level.
-- **(b)** No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity if any qualifying words or phrases appear in conjunction with the separate statement of the net quantity of contents required by subsection (a) of this section, but nothing in this subsection or in paragraph (2) of subsection (a) of this section shall prohibit supplemental statements, at other places on the package, describing in nondeceptive terms the net quantity of contents: Provided , That such supplemental statements of net quantity of contents shall not include any term qualifying a unit of weight or mass, measure, or count that tends to exaggerate the amount of the commodity contained in the package.
+- **(b)** No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity if any qualifying words or phrases appear in conjunction with the separate statement of the net quantity of contents required by subsection (a), but nothing in this subsection or in paragraph (2) of subsection (a) shall prohibit supplemental statements, at other places on the package, describing in nondeceptive terms the net quantity of contents: Provided , That such supplemental statements of net quantity of contents shall not include any term qualifying a unit of weight or mass, measure, or count that tends to exaggerate the amount of the commodity contained in the package.

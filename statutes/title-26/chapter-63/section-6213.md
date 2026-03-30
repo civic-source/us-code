@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-30T04:58:24.568Z"
+generated_at: "2026-03-30T05:00:47.990Z"
 status: "active"
 ---
 
@@ -43,12 +43,15 @@ status: "active"
     - **(H)** an omission of a correct TIN required under section 21 (relating to expenses for household and dependent care services necessary for gainful employment) or section 151 (relating to allowance of deductions for personal exemptions),
     - **(I)** an omission of a correct TIN required under section 24(e) (relating to child tax credit) to be included on a return,
     - **(J)** an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
-    - **(K)** an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit),
+    - **(K)** an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
     - **(L)** the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if—
       - **(i)** such TIN is of an individual whose age affects the amount of the credit under such section, and
       - **(ii)** the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual’s age based on such TIN,
-    - **(M)** the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child, and
-    - **(N)** an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36.
+    - **(M)** the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,
+    - **(N)** an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36,
+    - **(O)** the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid 1 1 So in original. Probably should be followed by a comma.
+    - **(P)** an omission of information required by section 24(h)(2) 2 2 See References in Text note below. or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (h)(1) 2 thereof, and
+    - **(Q)** an omission of information required by section 25A(i)(8)(B) 2 or an entry on the return claiming the credit determined under section 25A(i) for a taxable year for which the credit is disallowed under paragraph (8)(A) 2 thereof.
 - **(h)**
   - **(1)** For assessment as if a mathematical error on the return, in the case of erroneous claims for income tax prepayment credits, see section 6201(a)(3).
   - **(2)** For assessments without regard to restrictions imposed by this section in the case of—

@@ -3,9 +3,9 @@ title: "Section 1679g - Civil liability"
 usc_title: 15
 usc_section: "1679g"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1679g"
-generated_at: "2026-03-30T04:56:57.446Z"
+generated_at: "2026-03-30T04:59:35.543Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
       - **(i)** the aggregate of the amount which the court may allow for each named plaintiff; and
       - **(ii)** the aggregate of the amount which the court may allow for each other class member, without regard to any minimum individual recovery.
   - **(3)** In the case of any successful action to enforce any liability under paragraph (1) or (2), the costs of the action, together with reasonable attorneys’ fees.
-- **(b)** In determining the amount of any liability of any credit repair organization under subsection (a)(2) of this section, the court shall consider, among other relevant factors—
+- **(b)** In determining the amount of any liability of any credit repair organization under subsection (a)(2), the court shall consider, among other relevant factors—
   - **(1)** the frequency and persistence of noncompliance by the credit repair organization;
   - **(2)** the nature of the noncompliance;
   - **(3)** the extent to which such noncompliance was intentional; and

@@ -3,17 +3,17 @@ title: "Section 6502 - Regulation of unfair and deceptive acts and practices in 
 usc_title: 15
 usc_section: "6502"
 chapter: 91
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 6502"
-generated_at: "2026-03-30T04:56:57.501Z"
+generated_at: "2026-03-30T04:59:35.598Z"
 status: "active"
 ---
 
 # § 6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet
 
 - **(a)**
-  - **(1)** It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b) of this section.
-  - **(2)** Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator’s agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) of this section to the parent of a child.
+  - **(1)** It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b).
+  - **(2)** Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator’s agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) to the parent of a child.
 - **(b)**
   - **(1)** Not later than 1 year after October 21, 1998 , the Commission shall promulgate under section 553 of title 5 regulations that—
     - **(A)** require the operator of any website or online service directed to children that collects personal information from children or the operator of a website or online service that has actual knowledge that it is collecting personal information from a child—
@@ -41,5 +41,5 @@ status: "active"
       - **(iii)** to respond to judicial process; or
       - **(iv)** to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety.
   - **(3)** The regulations shall permit the operator of a website or an online service to terminate service provided to a child whose parent has refused, under the regulations prescribed under paragraph (1)(B)(ii), to permit the operator’s further use or maintenance in retrievable form, or future online collection, of personal information from that child.
-- **(c)** Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) of this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 57a(a)(1)(B) of this title .
+- **(c)** Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 57a(a)(1)(B) of this title .
 - **(d)** No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.

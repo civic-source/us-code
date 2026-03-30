@@ -1,41 +1,13 @@
 ---
-title: "Section 508 - Transportation research and development strategic planning"
+title: "Section 508 - Repealed. Pub. L. 114–94, div. A, title VI , § 6019(d)(1)(A), Dec. 4, 2015 , 129 Stat. 1581 ]"
 usc_title: 23
 usc_section: "508"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 508"
-generated_at: "2026-03-30T04:57:24.969Z"
-status: "active"
+generated_at: "2026-03-30T05:00:18.960Z"
+status: "repealed"
 ---
 
-# § 508. Transportation research and development strategic planning
+# [§ 508. Repealed. Pub. L. 114–94, div. A, title VI , § 6019(d)(1)(A), Dec. 4, 2015 , 129 Stat. 1581 ]
 
-- **(a)**
-  - **(1)** Not later than 1 year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary shall develop a 5-year transportation research and development strategic plan to guide Federal transportation research and development activities. This plan shall be consistent with section 306 of title 5 , sections 1115 and 1116 of title 31, and any other research and development plan within the Department of Transportation.
-  - **(2)** The strategic plan developed under paragraph (1) shall—
-    - **(A)** describe the primary purposes of the transportation research and development program, which shall include, at a minimum—
-      - **(i)** promoting safety;
-      - **(ii)** reducing congestion and improving mobility;
-      - **(iii)** preserving the environment;
-      - **(iv)** preserving the existing transportation system;
-      - **(v)** improving the durability and extending the life of transportation infrastructure; and
-      - **(vi)** improving goods movement.
-    - **(B)** for each purpose, list the primary research and development topics that the Department intends to pursue to accomplish that purpose, which may include the fundamental research in the physical and natural sciences, applied research, technology development, and social science research intended for each topic; and
-    - **(C)** for each research and development topic, describe—
-      - **(i)** the anticipated annual funding levels for the period covered by the strategic plan; and
-      - **(ii)** the additional information the Department expects to gain at the end of the period covered by the strategic plan as a result of the research and development in that topic area.
-  - **(3)** In developing the strategic plan, the Secretary shall ensure that the plan—
-    - **(A)** reflects input from a wide range of stakeholders;
-    - **(B)** includes and integrates the research and development programs of all the Department’s operating administrations, including aviation, transit, rail, and maritime; and
-    - **(C)** takes into account how research and development by other Federal, State, private sector, and nonprofit institutions contributes to the achievement of the purposes identified under paragraph (2)(A), and avoids unnecessary duplication with these efforts.
-  - **(4)** In reports submitted under sections 1115 and 1116 of title 31, the Secretary shall include—
-    - **(A)** a summary of the Federal transportation research and development activities for the previous fiscal year in each topic area;
-    - **(B)** the amount of funding spent in each topic area;
-    - **(C)** a description of the extent to which the research and development is meeting the expectations set forth in paragraph (2)(C)(ii); and
-    - **(D)** any amendments to the strategic plan.
-- **(b)** The Secretary shall submit to appropriate committees of Congress an annual report, in conjunction with the President’s annual budget request as set forth in section 1105 of title 31 , describing the amount spent in the last completed fiscal year on transportation research and development and the amount proposed in the current budget for transportation research and development.
-- **(c)** The Secretary shall enter into an agreement for the review by the National Research Council of the details of each—
-  - **(1)** strategic plan under this section;
-  - **(2)** performance plan required under section 1115 of title 31 ; and
-  - **(3)** program performance report required under section 1116 of title 31 , with respect to transportation research and development.

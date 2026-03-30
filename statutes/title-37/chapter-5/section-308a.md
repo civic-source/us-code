@@ -3,9 +3,9 @@ title: "Section 308a - Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, §
 usc_title: 37
 usc_section: "308a"
 chapter: 5
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "37 U.S.C. § 308a"
-generated_at: "2026-03-30T04:58:37.554Z"
+generated_at: "2026-03-30T05:01:05.265Z"
 status: "repealed"
 ---
 

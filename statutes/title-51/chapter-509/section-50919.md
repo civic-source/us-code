@@ -3,9 +3,9 @@ title: "Section 50919 - Relationship to other executive agencies, laws, and inte
 usc_title: 51
 usc_section: "50919"
 chapter: 509
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "51 U.S.C. § 50919"
-generated_at: "2026-03-30T04:59:05.575Z"
+generated_at: "2026-03-30T05:01:54.813Z"
 status: "active"
 ---
 
@@ -23,6 +23,10 @@ status: "active"
   - **(1)** carry out this chapter consistent with an obligation the United States Government assumes in a treaty, convention, or agreement in force between the Government and the government of a foreign country; and
   - **(2)** consider applicable laws and requirements of a foreign country when carrying out this chapter.
 - **(f)** A launch vehicle, reentry vehicle, or payload that is launched or reentered is not, because of the launch or reentry, an export or import, respectively, for purposes of a law controlling exports or imports, except that payloads launched pursuant to foreign trade zone procedures as provided for under the Foreign Trade Zones Act ( 19 U.S.C. 81a–81u ) shall be considered exports with regard to customs entry.
-- **(g)** This chapter does not apply to—
-  - **(1)** a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
-  - **(2)** planning or policies related to the launch, reentry, operation, or activity.
+- **(g)**
+  - **(1)** This chapter does not apply to—
+    - **(A)** a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+    - **(B)** planning or policies related to the launch, reentry, operation, or activity under subparagraph (A).
+  - **(2)** The following activities are not space activities the Government carries out for the Government under paragraph (1):
+    - **(A)** A government astronaut being carried within a launch vehicle or reentry vehicle under this chapter.
+    - **(B)** A government astronaut performing activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle under this chapter.

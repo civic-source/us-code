@@ -3,9 +3,9 @@ title: "Section 2332 - Sense of Congress concerning criminal penalties"
 usc_title: 50
 usc_section: "2332"
 chapter: 40
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 2332"
-generated_at: "2026-03-30T04:59:01.540Z"
+generated_at: "2026-03-30T05:01:50.039Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is the sense of Congress that the sentencing guidelines prescribed by the United States Sentencing Commission for the offenses of importation, attempted importation, exportation, and attempted exportation of nuclear, biological, and chemical weapons materials constitute inadequate punishment for such offenses.
 - **(b)** Congress urges the United States Sentencing Commission to revise the relevant sentencing guidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
-  - **(1)** Section 2410 of the Appendix to this title.
+  - **(1)** Section 4610 of this title .
   - **(2)** Sections 2778 and 2780 of title 22.
   - **(3)** The International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
   - **(4)** Section 2139a(c) of title 42 .

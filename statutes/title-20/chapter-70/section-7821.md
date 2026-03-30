@@ -3,9 +3,9 @@ title: "Section 7821 - Consolidation of State administrative funds for elementar
 usc_title: 20
 usc_section: "7821"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7821"
-generated_at: "2026-03-30T04:57:15.847Z"
+generated_at: "2026-03-30T04:59:56.225Z"
 status: "active"
 ---
 
@@ -23,8 +23,9 @@ status: "active"
     - **(D)** the dissemination of information regarding model programs and practices;
     - **(E)** technical assistance under any program under this chapter;
     - **(F)** State-level activities designed to carry out this subchapter;
-    - **(G)** training personnel engaged in audit and other monitoring activities; and
-    - **(H)** implementation of the Cooperative Audit Resolution and Oversight Initiative of the Department.
+    - **(G)** training personnel engaged in audit and other monitoring activities;
+    - **(H)** implementation of the Cooperative Audit Resolution and Oversight Initiative of the Department; and
+    - **(I)** implementation of fiscal support teams that provide technical fiscal support assistance, which shall include evaluating fiscal, administrative, and staffing functions, and any other key operational function.
 - **(c)** A State educational agency that consolidates administrative funds under this section shall not be required to keep separate records, by individual program, to account for costs relating to the administration of programs included in the consolidation under subsection (a) of this section.
 - **(d)** To determine the effectiveness of State administration under this section, the Secretary may periodically review the performance of State educational agencies in using consolidated administrative funds under this section and take such steps as the Secretary finds appropriate to ensure the effectiveness of that administration.
 - **(e)** If a State educational agency does not use all of the funds available to the agency under this section for administration, the agency may use those funds during the applicable period of availability as funds available under one or more programs included in the consolidation under subsection (a) of this section.

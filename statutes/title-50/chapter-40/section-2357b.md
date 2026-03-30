@@ -3,9 +3,9 @@ title: "Section 2357b - Establishment of Committee on Nonproliferation Assistanc
 usc_title: 50
 usc_section: "2357b"
 chapter: 40
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "50 U.S.C. § 2357b"
-generated_at: "2026-03-30T04:59:01.541Z"
+generated_at: "2026-03-30T05:01:50.040Z"
 status: "active"
 ---
 

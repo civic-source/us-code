@@ -3,9 +3,9 @@ title: "Section 9134 - State plans"
 usc_title: 20
 usc_section: "9134"
 chapter: 72
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 9134"
-generated_at: "2026-03-30T04:57:15.850Z"
+generated_at: "2026-03-30T04:59:56.230Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(4)** describe the methodology that such agency will use to evaluate the success of the activities established under paragraph (2) in achieving the goals and meeting the priorities described in paragraph (1);
   - **(5)** describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter;
   - **(6)** describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
-    - **(A)** elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6383 of this title ;
+    - **(A)** elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title ;
     - **(B)** early childhood education, including coordination with—
       - **(i)** the State’s activities carried out under subsections (b)(4) and (e)(1) of section 9837 of title 42 ; and
       - **(ii)** the activities described in the State’s strategic plan in accordance with section 9837b(a)(4)(B)(i) of title 42 ;

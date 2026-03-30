@@ -3,9 +3,9 @@ title: "Section 7844 - General applicability of State educational agency assuran
 usc_title: 20
 usc_section: "7844"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7844"
-generated_at: "2026-03-30T04:57:15.847Z"
+generated_at: "2026-03-30T04:59:56.226Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** A State educational agency, in consultation with the Governor of the State, that submits a consolidated State plan or consolidated State application under this chapter, whether separately or under section 7842 of this title , shall have on file with the Secretary a single set of assurances, applicable to each program for which the plan or application is submitted, that provides that—
   - **(1)** each such program will be administered in accordance with all applicable statutes, regulations, program plans, and applications;
   - **(2)**
-    - **(A)** the control of funds provided under each such program and title to property acquired with program funds will be in a public agency, a nonprofit private agency, institution, or organization, or an Indian tribe, if the law authorizing the program provides for assistance to those entities; and
-    - **(B)** the public agency, nonprofit private agency, institution, or organization, or Indian tribe will administer those funds and property to the extent required by the authorizing law;
+    - **(A)** the control of funds provided under each such program and title to property acquired with program funds will be in a public agency, a 1 1 So in original. Probably should be “an”. eligible private agency, institution, or organization, or an Indian tribe, if the law authorizing the program provides for assistance to those entities; and
+    - **(B)** the public agency, eligible private agency, institution, or organization, or Indian tribe will administer those funds and property to the extent required by the authorizing law;
   - **(3)** the State will adopt and use proper methods of administering each such program, including—
     - **(A)** the enforcement of any obligations imposed by law on agencies, institutions, organizations, and other recipients responsible for carrying out each program;
     - **(B)** the correction of deficiencies in program operations that are identified through audits, monitoring, or evaluation; and

@@ -3,9 +3,9 @@ title: "Section 14612 - Definitions"
 usc_title: 42
 usc_section: "14612"
 chapter: 140
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 14612"
-generated_at: "2026-03-30T04:58:57.361Z"
+generated_at: "2026-03-30T05:01:45.769Z"
 status: "active"
 ---
 

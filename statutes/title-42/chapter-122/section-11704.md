@@ -3,9 +3,9 @@ title: "Section 11704 - Functions of Papa Ola Lokahi"
 usc_title: 42
 usc_section: "11704"
 chapter: 122
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 11704"
-generated_at: "2026-03-30T04:58:57.305Z"
+generated_at: "2026-03-30T05:01:45.709Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24910 - Rail cooperative research program"
 usc_title: 49
 usc_section: "24910"
 chapter: 249
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 24910"
-generated_at: "2026-03-30T04:59:03.183Z"
+generated_at: "2026-03-30T05:01:52.692Z"
 status: "active"
 ---
 
@@ -28,8 +28,9 @@ status: "active"
   - **(9)** to recommend objective methodologies for determining intercity passenger rail routes and services, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes;
   - **(10)** to review the impact of equipment and operational safety standards on the further development of high-speed passenger rail operations connected to or integrated with non-high-speed freight or passenger rail operations;
   - **(11)** to recommend any legislative or regulatory changes necessary to foster further development and implementation of high-speed passenger rail operations while ensuring the safety of such operations that are connected to or integrated with non-high-speed freight or passenger rail operations;
-  - **(12)** to review rail crossing safety improvements, including improvements using new safety technology; and
-  - **(13)** to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology.
+  - **(12)** to review rail crossing safety improvements, including improvements using new safety technology;
+  - **(13)** to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology; and
+  - **(14)** to improve overall safety of intercity passenger and freight rail operations.
 - **(c)**
   - **(1)** In consultation with the heads of appropriate Federal departments and agencies, the Secretary shall establish an advisory board to recommend research, technology, and technology transfer activities related to rail passenger and freight transportation.
   - **(2)** The advisory board shall include—

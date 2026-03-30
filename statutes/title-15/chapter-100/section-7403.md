@@ -3,9 +3,9 @@ title: "Section 7403 - National Science Foundation research"
 usc_title: 15
 usc_section: "7403"
 chapter: 100
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 7403"
-generated_at: "2026-03-30T04:56:57.511Z"
+generated_at: "2026-03-30T04:59:35.608Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
 - **(b)**
   - **(1)** The Director shall award multiyear grants, subject to the availability of appropriations, to institutions of higher education, nonprofit research institutions, or consortia thereof to establish multidisciplinary Centers for Computer and Network Security Research. Institutions of higher education, nonprofit research institutions, or consortia thereof receiving such grants may partner with 1 or more government laboratories or for-profit institutions, or other institutions of higher education or nonprofit research institutions.
   - **(2)** Grants shall be awarded under this subsection on a merit-reviewed competitive basis.
-  - **(3)** The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1) of this section.
+  - **(3)** The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1).
   - **(4)** An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
     - **(A)** the research projects that will be undertaken by the Center and the contributions of each of the participating entities;
     - **(B)** how the Center will promote active collaboration among scientists and engineers from different disciplines, such as computer scientists, engineers, mathematicians, and social science researchers;

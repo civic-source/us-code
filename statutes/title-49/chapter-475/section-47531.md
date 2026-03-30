@@ -3,9 +3,9 @@ title: "Section 47531 - Penalties"
 usc_title: 49
 usc_section: "47531"
 chapter: 475
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 47531"
-generated_at: "2026-03-30T04:59:03.225Z"
+generated_at: "2026-03-30T05:01:52.735Z"
 status: "active"
 ---
 

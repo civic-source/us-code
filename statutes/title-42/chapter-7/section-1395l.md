@@ -3,9 +3,9 @@ title: "Section 1395l - Payment of benefits"
 usc_title: 42
 usc_section: "1395l"
 chapter: 7
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 1395l"
-generated_at: "2026-03-30T04:58:56.920Z"
+generated_at: "2026-03-30T05:01:45.016Z"
 status: "active"
 ---
 
@@ -527,6 +527,15 @@ status: "active"
         - **(III)** a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title ).
       - **(iii)** In making any budget neutrality adjustments under this subsection for 2013 (with respect to covered OPD services furnished on or after April 1, 2013 , and before January 1, 2014 ) or a subsequent year, the Secretary shall not take into account the reduced expenditures that result from the application of this subparagraph.
     - **(E)** For provisions relating to the application of appropriate use criteria for certain imaging services, see section 1395m(q) of this title .
+    - **(F)** Notwithstanding the previous provisions of this subsection:
+      - **(i)** In the case of an imaging service that is an X-ray taken using film and that is furnished during 2017 or a subsequent year, the payment amount for such service (including the X-ray component of a packaged service) that would otherwise be determined under this section (without application of this paragraph and before application of any other adjustment under this subsection) for such year shall be reduced by 20 percent.
+      - **(ii)** In the case of an imaging service that is an X-ray taken using computed radiography technology (as defined in section 1395w–4(b)(9)(C) of this title )—
+        - **(I)** in the case of such a service furnished during 2018, 2019, 2020, 2021, or 2022, the payment amount for such service (including the X-ray component of a packaged service) that would otherwise be determined under this section (without application of this paragraph and before application of any other adjustment under this subsection) for such year shall be reduced by 7 percent; and
+        - **(II)** in the case of such a service furnished during 2023 or a subsequent year, the payment amount for such service (including the X-ray component of a packaged service) that would otherwise be determined under this section (without application of this paragraph and before application of any other adjustment under this subsection) for such year shall be reduced by 10 percent.
+      - **(iii)** The reductions made under this subparagraph—
+        - **(I)** shall not be considered an adjustment under paragraph (2)(E); and
+        - **(II)** shall not be implemented in a budget neutral manner.
+      - **(iv)** In order to implement this subparagraph, the Secretary shall adopt appropriate mechanisms which may include use of modifiers.
   - **(17)**
     - **(A)**
       - **(i)** For purposes of paragraph (3)(C)(iv) for 2009 and each subsequent year, in the case of a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title ) that does not submit, to the Secretary in accordance with this paragraph, data required to be submitted on measures selected under this paragraph with respect to such a year, the OPD fee schedule increase factor under paragraph (3)(C)(iv) for such year shall be reduced by 2.0 percentage points.

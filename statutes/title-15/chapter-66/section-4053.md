@@ -3,9 +3,9 @@ title: "Section 4053 - Barter arrangements"
 usc_title: 15
 usc_section: "4053"
 chapter: 66
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 4053"
-generated_at: "2026-03-30T04:56:57.490Z"
+generated_at: "2026-03-30T04:59:35.586Z"
 status: "active"
 ---
 
@@ -15,6 +15,6 @@ status: "active"
 - **(b)** The President is authorized—
   - **(1)** to barter stocks of agricultural commodities acquired by the Government for petroleum and petroleum products, and for other materials vital to the national interest, which are produced abroad, in situations in which sales would otherwise not occur; and
   - **(2)** to purchase petroleum and petroleum products, and other materials vital to the national interest, which are produced abroad and acquired by persons in the United States through barter for agricultural commodities produced in and exported from the United States through normal commercial trade channels.
-- **(c)** In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b) of this section, nothing in this section shall be construed to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
-- **(d)** The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) of this section or any purchase authorized by subsection (b)(2) of this section, existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2) of this section, as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
+- **(c)** In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b), nothing in this section shall be construed to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
+- **(d)** The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) or any purchase authorized by subsection (b)(2), existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2), as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
 - **(e)** The Secretary of Energy shall report to the Congress on the effect on energy security and on domestic energy supplies of any action taken under this section which results in the acquisition by the Government of petroleum or petroleum products. Such report shall be submitted to the Congress not later than 90 days after such acquisition.

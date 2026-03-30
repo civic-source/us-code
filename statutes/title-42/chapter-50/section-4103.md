@@ -1,13 +1,13 @@
 ---
-title: "Section 4103 - Repealed. Pub. L. 103–325, title V, § 551(a) , Sept. 23, 1994 , 108 Stat. 2269"
+title: "Section 4103 - Repealed. Pub. L. 103–325, title V , § 551(a), Sept. 23, 1994 , 108 Stat. 2269"
 usc_title: 42
 usc_section: "4103"
 chapter: 50
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 4103"
-generated_at: "2026-03-30T04:58:57.129Z"
+generated_at: "2026-03-30T05:01:45.231Z"
 status: "repealed"
 ---
 
-# § 4103. Repealed. Pub. L. 103–325, title V, § 551(a) , Sept. 23, 1994 , 108 Stat. 2269
+# § 4103. Repealed. Pub. L. 103–325, title V , § 551(a), Sept. 23, 1994 , 108 Stat. 2269
 

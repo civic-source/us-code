@@ -3,15 +3,17 @@ title: "Section 6601 - Purpose"
 usc_title: 20
 usc_section: "6601"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 6601"
-generated_at: "2026-03-30T04:57:15.822Z"
+generated_at: "2026-03-30T04:59:56.209Z"
 status: "active"
 ---
 
 # § 6601. Purpose
 
-The purpose of this part is to provide grants to State educational agencies, local educational agencies, State agencies for higher education, and eligible partnerships in order to—
+The purpose of this subchapter is to provide grants to State educational agencies and subgrants to local educational agencies to—
 
-  - **(1)** increase student academic achievement through strategies such as improving teacher and principal quality and increasing the number of highly qualified teachers in the classroom and highly qualified principals and assistant principals in schools; and
-  - **(2)** hold local educational agencies and schools accountable for improvements in student academic achievement.
+  - **(1)** increase student achievement consistent with the challenging State academic standards;
+  - **(2)** improve the quality and effectiveness of teachers, principals, and other school leaders;
+  - **(3)** increase the number of teachers, principals, and other school leaders who are effective in improving student academic achievement in schools; and
+  - **(4)** provide low-income and minority students greater access to effective teachers, principals, and other school leaders.

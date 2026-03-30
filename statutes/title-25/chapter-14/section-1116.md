@@ -3,9 +3,9 @@ title: "Section 1116 - Distribution of funds of Miami Indians of Indiana; person
 usc_title: 25
 usc_section: "1116"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "25 U.S.C. § 1116"
-generated_at: "2026-03-30T04:57:20.139Z"
+generated_at: "2026-03-30T05:00:03.037Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1732 - Machine-readable, tamper-resistant entry and exit documen
 usc_title: 8
 usc_section: "1732"
 chapter: 15
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "8 U.S.C. § 1732"
-generated_at: "2026-03-30T04:56:20.456Z"
+generated_at: "2026-03-30T04:59:21.016Z"
 status: "active"
 ---
 
@@ -26,6 +26,4 @@ status: "active"
       - **(iii)** can authenticate the document presented to verify identity.
   - **(3)** The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title .
 - **(c)**
-  - **(1)** Not later than October 26, 2005 , the government of each country that is designated to participate in the visa waiver program established under section 1187 of this title shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant and incorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of section 1187(a)(3) of this title .
-  - **(2)** On and after October 26, 2005 , any alien applying for admission under the visa waiver program under section 1187 of this title shall present a passport that meets the requirements of paragraph (1) unless the alien’s passport was issued prior to that date.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.

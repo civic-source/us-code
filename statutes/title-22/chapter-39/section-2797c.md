@@ -3,9 +3,9 @@ title: "Section 2797c - Definitions"
 usc_title: 22
 usc_section: "2797c"
 chapter: 39
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "22 U.S.C. § 2797c"
-generated_at: "2026-03-30T04:57:26.714Z"
+generated_at: "2026-03-30T05:00:34.881Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** the term “MTCR adherent” means a country that participates in the MTCR or that, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
   - **(4)** the term “MTCR Annex” means the Guidelines and Equipment and Technology Annex of the MTCR, and any amendments thereto;
   - **(5)** the terms “missile equipment or technology” and “MTCR equipment or technology” mean those items listed in category I or category II of the MTCR Annex;
-  - **(6)** the term “United States person” has the meaning given that term in section 2415(2) of title 50 , Appendix;
+  - **(6)** the term “United States person” has the meaning given that term in section 4618(2) of title 50 ;
   - **(7)** the term “foreign person” means any person other than a United States person;
   - **(8)**
     - **(A)** the term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise, and any successor of any such entity; and

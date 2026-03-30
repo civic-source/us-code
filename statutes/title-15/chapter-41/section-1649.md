@@ -3,9 +3,9 @@ title: "Section 1649 - Certain limitations on liability"
 usc_title: 15
 usc_section: "1649"
 chapter: 41
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 1649"
-generated_at: "2026-03-30T04:56:57.444Z"
+generated_at: "2026-03-30T04:59:35.540Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(A)** may be treated as accurate for purposes of this subchapter if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $200;
     - **(B)** may, under section 1605(f)(2) of this title , be treated as accurate for purposes of section 1635 of this title ; or
     - **(C)** is greater than the amount or percentage required to be disclosed under this subchapter.
-- **(b)** Subsection (a) of this section shall not apply to—
+- **(b)** Subsection (a) shall not apply to—
   - **(1)** any individual action or counterclaim brought under this subchapter which was filed before June 1, 1995 ;
   - **(2)** any class action brought under this subchapter for which a final order certifying a class was entered before January 1, 1995 ;
   - **(3)** the named individual plaintiffs in any class action brought under this subchapter which was filed before June 1, 1995 ; or

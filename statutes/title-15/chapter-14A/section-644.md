@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T04:56:57.402Z"
+generated_at: "2026-03-30T04:59:35.497Z"
 status: "active"
 ---
 
@@ -42,16 +42,26 @@ status: "active"
       - **(iv)** Better terms and conditions.
       - **(v)** Any other benefits.
     - **(C)** The reduction of administrative or personnel costs alone shall not be a justification for bundling of contract requirements unless the cost savings are expected to be substantial in relation to the dollar value of the procurement requirements to be consolidated.
-  - **(3)** If the head of a contracting agency determines that a proposed procurement strategy for a procurement involves a substantial bundling of contract requirements, the proposed procurement strategy shall—
-    - **(A)** identify specifically the benefits anticipated to be derived from the bundling of contract requirements;
-    - **(B)** set forth an assessment of the specific impediments to participation by small business concerns as prime contractors that result from the bundling of contract requirements and specify actions designed to maximize small business participation as subcontractors (including suppliers) at various tiers under the contract or contracts that are awarded to meet the requirements; and
-    - **(C)** include a specific determination that the anticipated benefits of the proposed bundled contract justify its use.
-  - **(4)** In the case of a solicitation of offers for a bundled contract that is issued by the head of an agency, a small-business concern may submit an offer that provides for use of a particular team of subcontractors for the performance of the contract. The head of the agency shall evaluate the offer in the same manner as other offers, with due consideration to the capabilities of all of the proposed subcontractors. If a small business concern teams under this paragraph, it shall not affect its status as a small business concern for any other purpose.
+  - **(3)** If the head of a contracting agency determines that an acquisition plan for a procurement involves a substantial bundling of contract requirements, the head of a contracting agency shall publish a notice on a public website that such determination has been made not later than 7 days after making such determination. Any solicitation for a procurement related to the acquisition plan may not be published earlier than 7 days after such notice is published. Along with the publication of the solicitation, the head of a contracting agency shall publish a justification for the determination, which shall include the following information:
+    - **(A)** The specific benefits anticipated to be derived from the bundling of contract requirements and a determination that such benefits justify the bundling.
+    - **(B)** An identification of any alternative contracting approaches that would involve a lesser degree of bundling of contract requirements.
+    - **(C)** An assessment of—
+      - **(i)** the specific impediments to participation by small business concerns as prime contractors that result from the bundling of contract requirements; and
+      - **(ii)** the specific actions designed to maximize participation of small business concerns as subcontractors (including suppliers) at various tiers under the contract or contracts that are awarded to meet the requirements.
+  - **(4)**
+    - **(A)** In the case of a solicitation of offers for a bundled or consolidated contract that is issued by the head of an agency, a small business concern that provides for use of a particular team of subcontractors or a joint venture of small business concerns may submit an offer for the performance of the contract.
+    - **(B)** The head of the agency shall evaluate an offer described in subparagraph (A) in the same manner as other offers, with due consideration to the capabilities of all of the proposed subcontractors or members of the joint venture as follows:
+      - **(i)** When evaluating an offer of a small business prime contractor that includes a proposed team of small business subcontractors, the head of the agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the small business prime contractor.
+      - **(ii)** When evaluating an offer of a joint venture of small business concerns, if the joint venture does not demonstrate sufficient capabilities or past performance to be considered for award of a contract opportunity, the head of the agency shall consider the capabilities and past performance of each member of the joint venture as the capabilities and past performance of the joint venture.
+    - **(C)** Participation of a small business concern in a team or a joint venture under this paragraph shall not affect the status of that concern as a small business concern for any other purpose.
 - **(f)**
+  - **(1)** In this subsection, the term “disaster area” means the area for which the President has declared a major disaster, during the period of the declaration.
+  - **(2)** An agency shall provide a contracting preference for a small business concern located in a disaster area if the small business concern will perform the work required under the contract in the disaster area.
+  - **(3)** If an agency awards a contract to a small business concern under the circumstances described in paragraph (2), the value of the contract shall be doubled for purposes of determining compliance with the goals for procurement contracts under subsection (g)(1)(A).
 - **(g)**
   - **(1)**
     - **(A)** The President shall annually establish Governmentwide goals for procurement contracts awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in accordance with the following:
-      - **(i)** The Governmentwide goal for participation by small business concerns shall be established at not less than 23 percent of the total value of all prime contract awards for each fiscal year.
+      - **(i)** The Governmentwide goal for participation by small business concerns shall be established at not less than 23 percent of the total value of all prime contract awards for each fiscal year. In meeting this goal, the Government shall ensure the participation of small business concerns from a wide variety of industries and from a broad spectrum of small business concerns within each industry.
       - **(ii)** The Governmentwide goal for participation by small business concerns owned and controlled by service-disabled veterans shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
       - **(iii)** The Governmentwide goal for participation by qualified HUBZone small business concerns shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
       - **(iv)** The Governmentwide goal for participation by small business concerns owned and controlled by socially and economically disadvantaged individuals shall be established at not less than 5 percent of the total value of all prime contract and subcontract awards for each fiscal year.
@@ -159,11 +169,15 @@ status: "active"
   - **(12)** shall provide to the Chief Acquisition Officer and senior procurement executive of such agency advice and comments on acquisition strategies, market research, and justifications related to section 657q of this title ;
   - **(13)** may provide training to small business concerns and contract specialists, except that such training may only be provided to the extent that the training does not interfere with the Director carrying out other responsibilities under this subsection;
   - **(14)** shall receive unsolicited proposals and, when appropriate, forward such proposals to personnel of the activity responsible for reviewing such proposals;
-  - **(15)** shall carry out exclusively the duties enumerated in this chapter, and shall, while the Director, not hold any other title, position, or responsibility, except as necessary to carry out responsibilities under this subsection; and
+  - **(15)** shall carry out exclusively the duties enumerated in this chapter, and shall, while the Director, not hold any other title, position, or responsibility, except as necessary to carry out responsibilities under this subsection;
   - **(16)** shall submit, each fiscal year, to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report describing—
     - **(A)** the training provided by the Director under paragraph (13) in the most recently completed fiscal year;
     - **(B)** the percentage of the budget of the Director used for such training in the most recently completed fiscal year; and
-    - **(C)** the percentage of the budget of the Director used for travel in the most recently completed fiscal year.
+    - **(C)** the percentage of the budget of the Director used for travel in the most recently completed fiscal year; and
+  - **(17)** shall, when notified by a small business concern prior to the award of a contract that the small business concern believes that a solicitation, request for proposal, or request for quotation unduly restricts the ability of the small business concern to compete for the award—
+    - **(A)** submit the notice of the small business concern to the contracting officer and, if necessary, recommend ways in which the solicitation, request for proposal, or request for quotation may be altered to increase the opportunity for competition;
+    - **(B)** inform the advocate for competition of such agency (as established under section 1705 of title 41 or section 2318 of title 10 ) of such notice; and
+    - **(C)** ensure that the small business concern is aware of other resources and processes available to address unduly restrictive provisions in a solicitation, request for proposal, or request for quotation, even if such resources and processes are provided by such agency, the Administration, the Comptroller General, or a procurement technical assistance program established under chapter 142 of title 10.
 - **(l)**
   - **(1)** The Administrator shall assign to each major procurement center a procurement center representative with such assistance as may be appropriate.
   - **(2)** A procurement center representative is authorized to—
@@ -182,8 +196,13 @@ status: "active"
     - **(A)** A procurement center representative assigned under this subsection shall—
       - **(i)** be a full-time employee of the Administration;
       - **(ii)** be fully qualified, technically trained, and familiar with the goods and services procured by the major procurement center to which that representative is assigned; and
-      - **(iii)** have a Level III Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that any person serving in such a position on January 2, 2013 , may continue to serve in that position for a period of 5 years without the required certification.
+      - **(iii)** have the certification described in subparagraph (C).
     - **(B)** The Administrator shall establish personnel positions for procurement center representatives assigned under this subsection, which are classified at a grade level of the General Schedule sufficient to attract and retain highly qualified personnel.
+    - **(C)**
+      - **(i)** Consistent with the requirements of clause (ii), a procurement center representative shall have a Level III Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification, except that any person serving in such a position on or before January 3, 2013 , may continue to serve in that position for a period of 5 years without the required certification.
+      - **(ii)**
+        - **(I)** The certification described in clause (i) is not required for any person serving as a procurement center representative until the date that is one calendar year after the date such person is appointed as a procurement center representative.
+        - **(II)** The requirements of subclause (I) shall—
   - **(6)** For purposes of this subsection, the term “major procurement center” means a procurement center that, in the opinion of the Administrator, purchases substantial dollar amounts of goods or services, including goods or services that are commercially available.
   - **(7)**
     - **(A)** At such times as the Administrator deems appropriate, the breakout procurement center representative 6 6 So in original. Probably should be “the procurement center representative”. shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
@@ -219,7 +238,10 @@ status: "active"
     - **(A)** To assist in the implementation of this section, the Administration shall have access to information collected through the Federal Procurement Data System.
     - **(B)** To assist in the implementation of this section, the head of each contracting agency shall provide, upon request of the Administration, procurement information collected through existing agency data collection sources.
 - **(q)**
-  - **(1)** Each Federal agency shall include in each solicitation for any multiple award contract above the substantial bundling threshold of the Federal agency a provision soliciting bids from any responsible source, including responsible small business concerns and teams or joint ventures of small business concerns.
+  - **(1)**
+    - **(A)** Each Federal agency shall include in each solicitation for any multiple award contract above the substantial bundling threshold of the Federal agency a provision soliciting bids from any responsible source, including responsible small business concerns and teams or joint ventures of small business concerns.
+    - **(B)** When evaluating an offer of a small business prime contractor that includes a proposed team of small business subcontractors for any multiple award contract above the substantial bundling threshold of the Federal agency, the head of the agency shall consider the capabilities and past performance of each first tier subcontractor that is part of the team as the capabilities and past performance of the small business prime contractor.
+    - **(C)** When evaluating an offer of a joint venture of small business concerns for any multiple award contract above the substantial bundling threshold of the Federal agency, if the joint venture does not demonstrate sufficient capabilities or past performance to be considered for award of a contract opportunity, the head of the agency shall consider the capabilities and past performance of each member of the joint venture as the capabilities and past performance of the joint venture.
   - **(2)**
     - **(A)** Not later than 1 year after September 27, 2010 , the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall amend the Federal Acquisition Regulation issued under section 1303(a) of title 41 to—
       - **(i)** establish a Government-wide policy regarding contract bundling, including regarding the solicitation of teaming and joint ventures under paragraph (1); and
@@ -243,6 +265,8 @@ status: "active"
     - **(C)** recommend requirements for periodic and statistically valid data verification and validation; and
     - **(D)** recommend clear data verification responsibilities.
   - **(3)** The Administrator of the Small Business Administration shall submit the plan to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate not later than December 1, 2016 .
-  - **(4)** In this subsection, the following definitions apply:
+  - **(4)** Not later than October 1, 2016 , the Administrator of the Small Business Administration shall implement the plan described in this subsection.
+  - **(5)** The Administrator shall annually provide to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a certification of the accuracy and completeness of data reported on bundled and consolidated contracts.
+  - **(6)** In this subsection, the following definitions apply:
     - **(A)** The terms “Chief Acquisition Officer” and “senior procurement executive” have the meanings given such terms in section 657q(a) of this title .
     - **(B)** The term “bundled or consolidated contract” means a bundled contract (as defined in section 632( o ) of this title) or a contract resulting from the consolidation of contracting requirements (as defined in section 657q(a)(2) of this title ).

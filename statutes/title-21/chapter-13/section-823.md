@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-30T04:57:23.197Z"
+generated_at: "2026-03-30T05:00:02.097Z"
 status: "active"
 ---
 
@@ -101,3 +101,6 @@ status: "active"
   - **(3)** any prior conviction record of the applicant under Federal or State laws relating to controlled substances or to chemicals controlled under Federal or State law;
   - **(4)** any past experience of the applicant in the manufacture and distribution of chemicals; and
   - **(5)** such other factors as are relevant to and consistent with the public health and safety.
+- **(i)**
+  - **(1)** For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title , not later than 180 days after the date on which the application is accepted for filing.
+  - **(2)** For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title , unless the Attorney General has granted a hearing on the application under section 958(i) of this title .

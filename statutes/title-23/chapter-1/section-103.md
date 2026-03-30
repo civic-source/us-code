@@ -3,9 +3,9 @@ title: "Section 103 - National Highway System"
 usc_title: 23
 usc_section: "103"
 chapter: 1
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "23 U.S.C. § 103"
-generated_at: "2026-03-30T04:57:24.952Z"
+generated_at: "2026-03-30T05:00:18.940Z"
 status: "active"
 ---
 
@@ -29,9 +29,11 @@ status: "active"
       - **(i)** consist of highways that provide motor vehicle access between major military installations and highways that are part of the strategic highway network but were not included on the National Highway System before the date of enactment of the MAP–21; and
       - **(ii)** shall be designated by the Secretary, in consultation with appropriate Federal agencies and the States.
   - **(3)**
-    - **(A)** The Secretary may make any modification, including any modification consisting of a connector to a major intermodal terminal, to the National Highway System that is proposed by a State if the Secretary determines that the modification—
+    - **(A)** The Secretary may make any modification to the National Highway System, including any modification consisting of a connector to a major intermodal terminal or the withdrawal of a road from that system, that is proposed by a State if the Secretary determines that the modification—
       - **(i)** meets the criteria established for the National Highway System under this title after the date of enactment of the MAP–21; and
-      - **(ii)** enhances the national transportation characteristics of the National Highway System.
+      - **(ii)**
+        - **(I)** enhances the national transportation characteristics of the National Highway System; or
+        - **(II)** in the case of the withdrawal of a road, is reasonable and appropriate.
     - **(B)**
       - **(i)** In proposing a modification under this paragraph, a State shall cooperate with local and regional officials.
       - **(ii)** In an urbanized area, the local officials shall act through the metropolitan planning organization designated for the area under section 134.

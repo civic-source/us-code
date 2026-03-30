@@ -1,13 +1,13 @@
 ---
-title: "Section 7202 - Repealed. Pub. L. 94–106, title VIII, § 804(b) , Oct. 7, 1975 , 89 Stat. 538 ]"
+title: "Section 7202 - Repealed. Pub. L. 94–106, title VIII , § 804(b), Oct. 7, 1975 , 89 Stat. 538 ]"
 usc_title: 10
 usc_section: "7202"
 chapter: 631
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 7202"
-generated_at: "2026-03-30T04:56:26.738Z"
+generated_at: "2026-03-30T04:59:28.774Z"
 status: "repealed"
 ---
 
-# [§ 7202. Repealed. Pub. L. 94–106, title VIII, § 804(b) , Oct. 7, 1975 , 89 Stat. 538 ]
+# [§ 7202. Repealed. Pub. L. 94–106, title VIII , § 804(b), Oct. 7, 1975 , 89 Stat. 538 ]
 

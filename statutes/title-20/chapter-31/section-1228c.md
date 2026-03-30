@@ -3,9 +3,9 @@ title: "Section 1228c - Disclosure requirements"
 usc_title: 20
 usc_section: "1228c"
 chapter: 31
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 1228c"
-generated_at: "2026-03-30T04:57:15.777Z"
+generated_at: "2026-03-30T04:59:56.165Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
       - **(i)** provides an educational program for a fee; and
       - **(ii)** recruits students through means such as commercial media, direct mailings, school recruitment programs, school administrators, teachers or staff, or current or former participants in an educational program offered by such organization or entity.
     - **(B)** The definition in subparagraph (A) shall not include—
-      - **(i)** a local educational agency, State educational agency, a State department of education, or an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.];
+      - **(i)** a local educational agency, State educational agency, a State department of education, or an elementary or secondary school (as defined by the terms “elementary school” and “secondary school” in section 7801 of this title );
       - **(ii)** an institution of higher education as defined by section 1001 of this title ; or
       - **(iii)** a local organization sponsored by an elementary or secondary school, a recreational organization, an entertainment organization, a local sports activity group, or a social club.
     - **(C)** For the purpose of subsection (a) of this section only, such term does not include an organization or entity that provides an educational program if such organization or entity—

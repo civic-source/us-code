@@ -3,9 +3,9 @@ title: "Section 284p - Activities of the National Institutes of Health with resp
 usc_title: 42
 usc_section: "284p"
 chapter: 6
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 284p"
-generated_at: "2026-03-30T04:58:56.774Z"
+generated_at: "2026-03-30T05:01:44.868Z"
 status: "active"
 ---
 

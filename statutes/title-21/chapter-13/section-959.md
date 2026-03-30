@@ -3,9 +3,9 @@ title: "Section 959 - Possession, manufacture, or distribution of controlled sub
 usc_title: 21
 usc_section: "959"
 chapter: 13
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "21 U.S.C. § 959"
-generated_at: "2026-03-30T04:57:23.204Z"
+generated_at: "2026-03-30T05:00:02.103Z"
 status: "active"
 ---
 

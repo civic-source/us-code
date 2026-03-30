@@ -3,9 +3,9 @@ title: "Section 104 - Repealed. Pub. L. 112–29, § 3(d) , Sept. 16, 2011 , 125
 usc_title: 35
 usc_section: "104"
 chapter: 10
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "35 U.S.C. § 104"
-generated_at: "2026-03-30T04:58:26.804Z"
+generated_at: "2026-03-30T05:00:54.753Z"
 status: "repealed"
 ---
 

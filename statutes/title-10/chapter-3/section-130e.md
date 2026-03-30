@@ -1,15 +1,15 @@
 ---
-title: "Section 130e - Treatment under Freedom of Information Act of critical infrastructure security information"
+title: "Section 130e - Treatment under Freedom of Information Act of certain critical infrastructure security information"
 usc_title: 10
 usc_section: "130e"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "10 U.S.C. § 130e"
-generated_at: "2026-03-30T04:56:26.633Z"
+generated_at: "2026-03-30T04:59:28.662Z"
 status: "active"
 ---
 
-# § 130e. Treatment under Freedom of Information Act of critical infrastructure security information
+# § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information
 
 - **(a)** The Secretary of Defense may exempt Department of Defense critical infrastructure security information from disclosure pursuant to section 552(b)(3) of title 5 , upon a written determination that—
   - **(1)** the information is Department of Defense critical infrastructure security information; and

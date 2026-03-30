@@ -3,9 +3,9 @@ title: "Section 7842 - Optional consolidated State plans or applications"
 usc_title: 20
 usc_section: "7842"
 chapter: 70
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "20 U.S.C. § 7842"
-generated_at: "2026-03-30T04:57:15.847Z"
+generated_at: "2026-03-30T04:59:56.225Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
     - **(B)** such other programs as the Secretary may designate.
   - **(2)** After consultation with the Governor, a State educational agency that submits a consolidated State plan or a consolidated State application under this section shall not be required to submit separate State plans or applications under any of the programs to which the consolidated State plan or consolidated State application under this section applies.
 - **(b)**
-  - **(1)** In establishing criteria and procedures under this section, the Secretary shall collaborate with State educational agencies and, as appropriate, with other State agencies, local educational agencies, public and private nonprofit agencies, organizations, and institutions, private schools, and representatives of parents, students, and teachers.
+  - **(1)** In establishing criteria and procedures under this section, the Secretary shall collaborate with State educational agencies and, as appropriate, with other State agencies, local educational agencies, public and private agencies, organizations, and institutions, private schools, and representatives of parents, students, and teachers.
   - **(2)** Through the collaborative process described in paragraph (1), the Secretary shall establish, for each program under this chapter to which this section applies, the descriptions, information, assurances, and other material required to be included in a consolidated State plan or consolidated State application.
   - **(3)** The Secretary shall require only descriptions, information, assurances (including assurances of compliance with applicable provisions regarding participation by private school children and teachers), and other materials that are absolutely necessary for the consideration of the consolidated State plan or consolidated State application.

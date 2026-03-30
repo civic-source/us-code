@@ -3,9 +3,9 @@ title: "Section 20165 - Limitations on non-Federal alcohol and drug testing"
 usc_title: 49
 usc_section: "20165"
 chapter: 201
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "49 U.S.C. § 20165"
-generated_at: "2026-03-30T04:59:03.177Z"
+generated_at: "2026-03-30T05:01:52.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 333 - Appointment of patient care ombudsman"
 usc_title: 11
 usc_section: "333"
 chapter: 3
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "11 U.S.C. § 333"
-generated_at: "2026-03-30T04:56:50.872Z"
+generated_at: "2026-03-30T04:59:30.980Z"
 status: "active"
 ---
 

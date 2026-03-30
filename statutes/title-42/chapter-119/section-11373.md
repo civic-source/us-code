@@ -3,9 +3,9 @@ title: "Section 11373 - Allocation and distribution of assistance"
 usc_title: 42
 usc_section: "11373"
 chapter: 119
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "42 U.S.C. § 11373"
-generated_at: "2026-03-30T04:58:57.301Z"
+generated_at: "2026-03-30T05:01:45.704Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** If, under the allocation provisions applicable under this part, any metropolitan city or urban county would receive a grant of less than 0.05 percent of the amounts appropriated under section 11364 of this title and made available to carry out this part for any fiscal year, such amount shall instead be reallocated to the State, except that any city that is located in a State that does not have counties as local governments, that has a population greater than 40,000 but less than 50,000 as used in determining the fiscal year 1987 community development block grant program allocation, and that was allocated in excess of $1,000,000 in community development block grant funds in fiscal year 1987, shall receive directly the amount allocated to such city under subsection (a) of this section.
 - **(c)** Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
 - **(d)**
-  - **(1)** The Secretary shall, not less than twice during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b) of this section.
+  - **(1)** The Secretary shall, not less than once during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b) of this section.
   - **(2)** If a city or county eligible for a grant under subsection (a) of this section fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
   - **(3)** If a State fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the State would have received shall be reallocated to other States and to cities and counties as applicable, that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 - **(e)** In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987 ) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.

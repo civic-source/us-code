@@ -3,9 +3,9 @@ title: "Section 3352 - Commencing of action for relief"
 usc_title: 19
 usc_section: "3352"
 chapter: 21
-current_through: "PL 114-86"
+current_through: "PL 114-115"
 classification: "19 U.S.C. § 3352"
-generated_at: "2026-03-30T04:57:10.214Z"
+generated_at: "2026-03-30T04:59:42.911Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)**
   - **(1)** A petition requesting action under this subpart for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the International Trade Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry. The International Trade Commission shall transmit a copy of any petition filed under this subsection to the Trade Representative.
   - **(2)** An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 2252(a) of this title .
-  - **(3)** An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b) of this section.
-- **(b)** Upon the filing of a petition under subsection (a) of this section, the International Trade Commission, unless subsection (d) of this section applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
+  - **(3)** An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b).
+- **(b)** Upon the filing of a petition under subsection (a), the International Trade Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
   - **(1)** serious injury; or
   - **(2)** except in the case of a Canadian article, a threat of serious injury;
 - **(c)** The provisions of—
