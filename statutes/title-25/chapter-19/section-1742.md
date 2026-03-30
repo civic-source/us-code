@@ -3,9 +3,9 @@ title: "Section 1742 - Definitions"
 usc_title: 25
 usc_section: "1742"
 chapter: 19
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 1742"
-generated_at: "2026-03-30T05:10:37.342Z"
+generated_at: "2026-03-30T05:12:18.445Z"
 status: "active"
 ---
 

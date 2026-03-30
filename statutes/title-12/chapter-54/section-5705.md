@@ -3,9 +3,9 @@ title: "Section 5705 - Approving collateral support and other innovative credit 
 usc_title: 12
 usc_section: "5705"
 chapter: 54
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 5705"
-generated_at: "2026-03-30T05:10:14.968Z"
+generated_at: "2026-03-30T05:12:00.568Z"
 status: "active"
 ---
 

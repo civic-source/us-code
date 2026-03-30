@@ -3,9 +3,9 @@ title: "Section 717a - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 33
 usc_section: "717a"
 chapter: 16
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 717a"
-generated_at: "2026-03-30T05:10:56.029Z"
+generated_at: "2026-03-30T05:12:36.225Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4102 - Recognition of foreign defamation judgments"
 usc_title: 28
 usc_section: "4102"
 chapter: 181
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "28 U.S.C. § 4102"
-generated_at: "2026-03-30T05:10:45.979Z"
+generated_at: "2026-03-30T05:12:24.784Z"
 status: "active"
 ---
 

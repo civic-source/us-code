@@ -3,9 +3,9 @@ title: "Section 17283 - Repealed. Pub. L. 113–76, div. D, title III , § 314, 
 usc_title: 42
 usc_section: "17283"
 chapter: 152
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 17283"
-generated_at: "2026-03-30T05:11:14.590Z"
+generated_at: "2026-03-30T05:13:20.393Z"
 status: "repealed"
 ---
 

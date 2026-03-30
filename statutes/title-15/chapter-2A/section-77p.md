@@ -3,9 +3,9 @@ title: "Section 77p - Additional remedies; limitation on remedies"
 usc_title: 15
 usc_section: "77p"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 77p"
-generated_at: "2026-03-30T05:10:23.343Z"
+generated_at: "2026-03-30T05:12:02.869Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1401 - Establishment"
 usc_title: 16
 usc_section: "1401"
 chapter: 31
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 1401"
-generated_at: "2026-03-30T05:10:32.686Z"
+generated_at: "2026-03-30T05:12:14.025Z"
 status: "active"
 ---
 

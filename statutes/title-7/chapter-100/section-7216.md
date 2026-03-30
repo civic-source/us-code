@@ -3,9 +3,9 @@ title: "Section 7216 - Violations of contract"
 usc_title: 7
 usc_section: "7216"
 chapter: 100
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 7216"
-generated_at: "2026-03-30T05:09:52.167Z"
+generated_at: "2026-03-30T05:11:48.237Z"
 status: "active"
 ---
 

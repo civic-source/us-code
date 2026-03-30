@@ -3,9 +3,9 @@ title: "Section 322 - Determination on application"
 usc_title: 12
 usc_section: "322"
 chapter: 3
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 322"
-generated_at: "2026-03-30T05:10:14.829Z"
+generated_at: "2026-03-30T05:12:00.413Z"
 status: "active"
 ---
 

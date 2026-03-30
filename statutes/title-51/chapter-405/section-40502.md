@@ -3,9 +3,9 @@ title: "Section 40502 - Biomedical research grants"
 usc_title: 51
 usc_section: "40502"
 chapter: 405
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "51 U.S.C. § 40502"
-generated_at: "2026-03-30T05:11:23.179Z"
+generated_at: "2026-03-30T05:13:48.331Z"
 status: "active"
 ---
 

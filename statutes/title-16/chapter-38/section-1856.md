@@ -3,9 +3,9 @@ title: "Section 1856 - State jurisdiction"
 usc_title: 16
 usc_section: "1856"
 chapter: 38
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 1856"
-generated_at: "2026-03-30T05:10:32.703Z"
+generated_at: "2026-03-30T05:12:14.042Z"
 status: "active"
 ---
 

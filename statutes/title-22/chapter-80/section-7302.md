@@ -3,9 +3,9 @@ title: "Section 7302 - Establishment of the Diplomatic Telecommunications Servic
 usc_title: 22
 usc_section: "7302"
 chapter: 80
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 7302"
-generated_at: "2026-03-30T05:10:39.812Z"
+generated_at: "2026-03-30T05:12:20.800Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Definitions"
 usc_title: 25
 usc_section: "8"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 8"
-generated_at: "2026-03-30T05:10:37.328Z"
+generated_at: "2026-03-30T05:12:18.430Z"
 status: "active"
 ---
 

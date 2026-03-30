@@ -3,9 +3,9 @@ title: "Section 367 - Short title"
 usc_title: 45
 usc_section: "367"
 chapter: 11
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "45 U.S.C. § 367"
-generated_at: "2026-03-30T05:11:03.123Z"
+generated_at: "2026-03-30T05:12:52.878Z"
 status: "active"
 ---
 

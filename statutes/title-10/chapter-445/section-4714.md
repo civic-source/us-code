@@ -3,9 +3,9 @@ title: "Section 4714 - Collection of captured flags, standards, and colors"
 usc_title: 10
 usc_section: "4714"
 chapter: 445
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 4714"
-generated_at: "2026-03-30T05:09:57.115Z"
+generated_at: "2026-03-30T05:11:54.746Z"
 status: "active"
 ---
 

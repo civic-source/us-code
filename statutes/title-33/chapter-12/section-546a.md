@@ -3,9 +3,9 @@ title: "Section 546a - Information as to configuration of shore line"
 usc_title: 33
 usc_section: "546a"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 546a"
-generated_at: "2026-03-30T05:10:56.020Z"
+generated_at: "2026-03-30T05:12:36.217Z"
 status: "active"
 ---
 

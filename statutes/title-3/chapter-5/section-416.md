@@ -3,9 +3,9 @@ title: "Section 416 - Rights and protections relating to veterans’ employment 
 usc_title: 3
 usc_section: "416"
 chapter: 5
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "3 U.S.C. § 416"
-generated_at: "2026-03-30T05:09:33.879Z"
+generated_at: "2026-03-30T05:11:34.849Z"
 status: "active"
 ---
 

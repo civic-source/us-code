@@ -3,9 +3,9 @@ title: "Section 6405 - Reports of refunds and credits"
 usc_title: 26
 usc_section: "6405"
 chapter: 65
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 6405"
-generated_at: "2026-03-30T05:10:51.769Z"
+generated_at: "2026-03-30T05:12:30.056Z"
 status: "active"
 ---
 

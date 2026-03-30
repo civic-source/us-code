@@ -3,9 +3,9 @@ title: "Section 273 - Detail of Army officer"
 usc_title: 25
 usc_section: "273"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 273"
-generated_at: "2026-03-30T05:10:37.290Z"
+generated_at: "2026-03-30T05:12:18.389Z"
 status: "active"
 ---
 

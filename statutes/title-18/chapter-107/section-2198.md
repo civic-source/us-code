@@ -3,9 +3,9 @@ title: "Section 2198 - Repealed. Pub. L. 101–647, title XII , § 1207(b), Nov.
 usc_title: 18
 usc_section: "2198"
 chapter: 107
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "18 U.S.C. § 2198"
-generated_at: "2026-03-30T05:10:34.001Z"
+generated_at: "2026-03-30T05:12:06.958Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 535 - Omitted or Transferred"
 usc_title: 7
 usc_section: "535"
 chapter: 22
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 535"
-generated_at: "2026-03-30T05:09:52.056Z"
+generated_at: "2026-03-30T05:11:48.073Z"
 status: "omitted"
 ---
 

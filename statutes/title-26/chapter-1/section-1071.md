@@ -3,9 +3,9 @@ title: "Section 1071 - Repealed. Pub. L. 104–7 , § 2(a), Apr. 11, 1995 , 109 
 usc_title: 26
 usc_section: "1071"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 1071"
-generated_at: "2026-03-30T05:10:51.685Z"
+generated_at: "2026-03-30T05:12:29.973Z"
 status: "repealed"
 ---
 

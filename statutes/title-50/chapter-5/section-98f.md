@@ -3,9 +3,9 @@ title: "Section 98f - Special Presidential disposal authority"
 usc_title: 50
 usc_section: "98f"
 chapter: 5
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "50 U.S.C. § 98f"
-generated_at: "2026-03-30T05:11:19.258Z"
+generated_at: "2026-03-30T05:13:39.858Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
   - **(1)** on the order of the President, at any time the President determines the release of such materials is required for purposes of the national defense;
   - **(2)** in time of war declared by the Congress or during a national emergency, on the order of any officer or employee of the United States designated by the President to have authority to issue disposal orders under this subsection, if such officer or employee determines that the release of such materials is required for purposes of the national defense; and
   - **(3)** on the order of the Under Secretary of Defense for Acquisition, Technology, and Logistics, if the President has designated the Under Secretary to have authority to issue release orders under this subsection and, in the case of any such order, if the Under Secretary determines that the release of such materials is required for use, manufacture, or production for purposes of national defense.
-- **(b)** Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+- **(b)** Any order issued under subsection (a) shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.

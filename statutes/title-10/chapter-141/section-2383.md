@@ -3,9 +3,9 @@ title: "Section 2383 - Contractor performance of acquisition functions closely a
 usc_title: 10
 usc_section: "2383"
 chapter: 141
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 2383"
-generated_at: "2026-03-30T05:09:57.084Z"
+generated_at: "2026-03-30T05:11:54.716Z"
 status: "active"
 ---
 

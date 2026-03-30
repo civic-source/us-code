@@ -3,9 +3,9 @@ title: "Section 2282 - Authority to build the capacity of foreign security force
 usc_title: 10
 usc_section: "2282"
 chapter: 136
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 2282"
-generated_at: "2026-03-30T05:09:57.074Z"
+generated_at: "2026-03-30T05:11:54.706Z"
 status: "active"
 ---
 

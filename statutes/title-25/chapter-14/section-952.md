@@ -3,9 +3,9 @@ title: "Section 952 - Members entitled to allotment; prohibition against further
 usc_title: 25
 usc_section: "952"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 952"
-generated_at: "2026-03-30T05:10:37.320Z"
+generated_at: "2026-03-30T05:12:18.422Z"
 status: "active"
 ---
 

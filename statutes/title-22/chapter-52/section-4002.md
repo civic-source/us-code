@@ -3,9 +3,9 @@ title: "Section 4002 - Establishment of selection boards"
 usc_title: 22
 usc_section: "4002"
 chapter: 52
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 4002"
-generated_at: "2026-03-30T05:10:39.777Z"
+generated_at: "2026-03-30T05:12:20.766Z"
 status: "active"
 ---
 

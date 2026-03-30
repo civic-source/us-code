@@ -3,9 +3,9 @@ title: "Section 36 - Lower Chino Dairy Area desalination demonstration and recla
 usc_title: 43
 usc_section: "36"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 36"
-generated_at: "2026-03-30T05:11:02.472Z"
+generated_at: "2026-03-30T05:12:48.301Z"
 status: "active"
 ---
 

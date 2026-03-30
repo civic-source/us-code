@@ -3,9 +3,9 @@ title: "Section 591 - Condemnation, purchase, and donation of land and materials
 usc_title: 33
 usc_section: "591"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 591"
-generated_at: "2026-03-30T05:10:56.022Z"
+generated_at: "2026-03-30T05:12:36.218Z"
 status: "active"
 ---
 

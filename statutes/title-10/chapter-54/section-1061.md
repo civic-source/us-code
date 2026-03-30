@@ -3,9 +3,9 @@ title: "Section 1061 - Survivors of certain Reserve and Guard members"
 usc_title: 10
 usc_section: "1061"
 chapter: 54
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 1061"
-generated_at: "2026-03-30T05:09:57.038Z"
+generated_at: "2026-03-30T05:11:54.671Z"
 status: "active"
 ---
 

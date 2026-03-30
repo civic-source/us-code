@@ -3,9 +3,9 @@ title: "Section 5106 - Suspension of prohibitions"
 usc_title: 40
 usc_section: "5106"
 chapter: 51
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "40 U.S.C. § 5106"
-generated_at: "2026-03-30T05:11:00.051Z"
+generated_at: "2026-03-30T05:12:38.897Z"
 status: "active"
 ---
 

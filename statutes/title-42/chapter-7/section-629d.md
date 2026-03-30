@@ -3,9 +3,9 @@ title: "Section 629d - Payments to States"
 usc_title: 42
 usc_section: "629d"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 629d"
-generated_at: "2026-03-30T05:11:14.078Z"
+generated_at: "2026-03-30T05:13:19.863Z"
 status: "active"
 ---
 

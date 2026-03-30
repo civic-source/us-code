@@ -3,9 +3,9 @@ title: "Section 8146 - Administration for the Panama Canal Commission and The Al
 usc_title: 5
 usc_section: "8146"
 chapter: 81
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "5 U.S.C. § 8146"
-generated_at: "2026-03-30T05:09:39.111Z"
+generated_at: "2026-03-30T05:11:38.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16023 - Project organization"
 usc_title: 42
 usc_section: "16023"
 chapter: 149
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 16023"
-generated_at: "2026-03-30T05:11:14.567Z"
+generated_at: "2026-03-30T05:13:20.371Z"
 status: "active"
 ---
 

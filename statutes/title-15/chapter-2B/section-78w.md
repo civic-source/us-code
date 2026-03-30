@@ -3,9 +3,9 @@ title: "Section 78w - Rules, regulations, and orders; annual reports"
 usc_title: 15
 usc_section: "78w"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 78w"
-generated_at: "2026-03-30T05:10:23.369Z"
+generated_at: "2026-03-30T05:12:02.892Z"
 status: "active"
 ---
 

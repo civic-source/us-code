@@ -3,16 +3,16 @@ title: "Section 1 - Advisory committees"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T05:11:19.258Z"
+generated_at: "2026-03-30T05:13:39.858Z"
 status: "active"
 ---
 
 # § 98h–1. Advisory committees
 
 - **(a)** The President may appoint advisory committees composed of individuals with expertise relating to materials in the stockpile or with expertise in stockpile management to advise the President with respect to the acquisition, transportation, processing, refining, storage, security, maintenance, rotation, and disposal of such materials under this subchapter.
-- **(b)** Each member of an advisory committee established under subsection (a) of this section while serving on the business of the advisory committee away from such member’s home or regular place of business shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons intermittently employed in the Government service.
+- **(b)** Each member of an advisory committee established under subsection (a) while serving on the business of the advisory committee away from such member’s home or regular place of business shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons intermittently employed in the Government service.
 - **(c)**
   - **(1)** The President shall appoint a Market Impact Committee composed of representatives from the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Energy, the Department of the Interior, the Department of State, the Department of the Treasury, and the Federal Emergency Management Agency, and such other persons as the President considers appropriate. The representatives from the Department of Commerce and the Department of State shall be Cochairmen of the Committee.
   - **(2)** The Committee shall advise the National Defense Stockpile Manager on the projected domestic and foreign economic effects of all acquisitions and disposals of materials from the stockpile that are proposed to be included in the annual materials plan submitted to Congress under section 98h–2(b) of this title , or in any revision of such plan, and shall submit to the manager the Committee’s recommendations regarding those acquisitions and disposals.

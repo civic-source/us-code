@@ -3,9 +3,9 @@ title: "Section 6674 - Technical assistance and national evaluation"
 usc_title: 20
 usc_section: "6674"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 6674"
-generated_at: "2026-03-30T05:10:30.528Z"
+generated_at: "2026-03-30T05:12:08.838Z"
 status: "active"
 ---
 

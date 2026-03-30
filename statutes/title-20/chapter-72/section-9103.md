@@ -3,9 +3,9 @@ title: "Section 9103 - Director of Institute"
 usc_title: 20
 usc_section: "9103"
 chapter: 72
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 9103"
-generated_at: "2026-03-30T05:10:30.543Z"
+generated_at: "2026-03-30T05:12:08.857Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
 - **(f)** The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that such policies and activities are coordinated with—
   - **(1)** activities under section 6646 of this title ;
   - **(2)** programs and activities under the Head Start Act ( 42 U.S.C. 9831 et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ( 42 U.S.C. 9836(d)(2) ); 1 1 See References in Text note below.
-  - **(3)** activities under the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3101 et seq.] (including activities under section 121(e) of such Act [ 29 U.S.C. 3151(e) ])); 1 1 So in original. The second closing parenthesis probably should not appear. and
+  - **(3)** activities under the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3101 et seq.] (including activities under section 121(e) of such Act [ 29 U.S.C. 3151(e) ])); 2 2 So in original. The second closing parenthesis probably should not appear. and
   - **(4)** Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.
 - **(g)** The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and Human Services, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, and the Director of the Office of Management and Budget, or the designees of such individuals, on—
   - **(1)** initiatives, materials, or technology to support workforce development activities undertaken by libraries;

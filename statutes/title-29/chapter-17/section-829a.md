@@ -3,9 +3,9 @@ title: "Section 829a - Repealed. Pub. L. 97–300, title I , § 184(a)(2), Oct. 
 usc_title: 29
 usc_section: "829a"
 chapter: 17
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "29 U.S.C. § 829a"
-generated_at: "2026-03-30T05:10:45.264Z"
+generated_at: "2026-03-30T05:12:23.672Z"
 status: "repealed"
 ---
 

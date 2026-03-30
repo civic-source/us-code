@@ -3,9 +3,9 @@ title: "Section 491 - Omitted"
 usc_title: 16
 usc_section: "491"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 491"
-generated_at: "2026-03-30T05:10:32.615Z"
+generated_at: "2026-03-30T05:12:13.954Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1963 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "1963"
 chapter: 46
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 1963"
-generated_at: "2026-03-30T05:10:23.460Z"
+generated_at: "2026-03-30T05:12:02.981Z"
 status: "repealed"
 ---
 

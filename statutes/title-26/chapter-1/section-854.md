@@ -3,9 +3,9 @@ title: "Section 854 - Limitations applicable to dividends received from regulate
 usc_title: 26
 usc_section: "854"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 854"
-generated_at: "2026-03-30T05:10:51.664Z"
+generated_at: "2026-03-30T05:12:29.951Z"
 status: "active"
 ---
 

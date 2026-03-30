@@ -3,9 +3,9 @@ title: "Section 7861 - Waivers of statutory and regulatory requirements"
 usc_title: 20
 usc_section: "7861"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7861"
-generated_at: "2026-03-30T05:10:30.541Z"
+generated_at: "2026-03-30T05:12:08.853Z"
 status: "active"
 ---
 
@@ -66,7 +66,7 @@ status: "active"
   - **(5)** equitable participation of private school students and teachers;
   - **(6)** parental participation and involvement;
   - **(7)** applicable civil rights requirements;
-  - **(8)** the requirement for a charter school under part C of subchapter IV of this chapter;
+  - **(8)** the requirement for a charter school under part C of subchapter IV;
   - **(9)** the prohibitions—
     - **(A)** in subpart 2 of part F;
     - **(B)** regarding use of funds for religious worship or instruction in section 7885 of this title ; and

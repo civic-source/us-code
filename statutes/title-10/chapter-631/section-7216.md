@@ -3,9 +3,9 @@ title: "Section 7216 - Collection, preservation, and display of captured flags"
 usc_title: 10
 usc_section: "7216"
 chapter: 631
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 7216"
-generated_at: "2026-03-30T05:09:57.124Z"
+generated_at: "2026-03-30T05:11:54.755Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 87to89 - Repealed. Pub. L. 103–325, title VI, § 602(e)(2) –
 usc_title: 12
 usc_section: "87to89"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 87to89"
-generated_at: "2026-03-30T05:10:14.824Z"
+generated_at: "2026-03-30T05:12:00.408Z"
 status: "repealed"
 ---
 

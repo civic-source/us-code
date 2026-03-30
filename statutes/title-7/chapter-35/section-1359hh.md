@@ -3,9 +3,9 @@ title: "Section 1359hh - Regulations; violations; publication of Secretary’s d
 usc_title: 7
 usc_section: "1359hh"
 chapter: 35
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 1359hh"
-generated_at: "2026-03-30T05:09:52.071Z"
+generated_at: "2026-03-30T05:11:48.089Z"
 status: "active"
 ---
 

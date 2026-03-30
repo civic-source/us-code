@@ -3,9 +3,9 @@ title: "Section 727 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "727"
 chapter: 11
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "8 U.S.C. § 727"
-generated_at: "2026-03-30T05:09:47.063Z"
+generated_at: "2026-03-30T05:11:40.728Z"
 status: "repealed"
 ---
 

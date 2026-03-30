@@ -3,9 +3,9 @@ title: "Section 6302 - Salaries of Senators"
 usc_title: 2
 usc_section: "6302"
 chapter: 63
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "2 U.S.C. § 6302"
-generated_at: "2026-03-30T05:09:34.656Z"
+generated_at: "2026-03-30T05:11:35.519Z"
 status: "active"
 ---
 

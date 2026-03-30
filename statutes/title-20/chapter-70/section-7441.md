@@ -3,9 +3,9 @@ title: "Section 7441 - Improvement of educational opportunities for Indian child
 usc_title: 20
 usc_section: "7441"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7441"
-generated_at: "2026-03-30T05:10:30.535Z"
+generated_at: "2026-03-30T05:12:08.847Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** The Secretary shall take the necessary actions to achieve the coordination of activities assisted under this subpart with—
     - **(A)** other programs funded under this chapter; and
     - **(B)** other Federal programs operated for the benefit of Indian children and youth.
-- **(b)** In this section, the term “eligible entity” means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary school or secondary school for Indian students, a Tribal College or University (as defined in section 1059c(b) of this title , or a consortium of such entities.
+- **(b)** In this section, the term “eligible entity” means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary school or secondary school for Indian students, a Tribal College or University (as defined in section 1059c(b) of this title ), or a consortium of such entities.
 - **(c)** The Secretary shall award grants to eligible entities to enable such entities to carry out activities that meet the purpose of this section, including—
   - **(1)** innovative programs related to the educational needs of educationally disadvantaged Indian children and youth;
   - **(2)** educational services that are not available to such children and youth in sufficient quantity or quality, including remedial instruction, to raise the achievement of Indian children in one or more of the subjects of English, mathematics, science, foreign languages, art, history, and geography;

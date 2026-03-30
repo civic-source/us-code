@@ -3,9 +3,9 @@ title: "Section 2 - Public awareness and outreach for dam safety"
 usc_title: 33
 usc_section: "2"
 chapter: 9
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T05:10:56.018Z"
+generated_at: "2026-03-30T05:12:36.215Z"
 status: "active"
 ---
 

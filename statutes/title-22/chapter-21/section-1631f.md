@@ -3,9 +3,9 @@ title: "Section 1631f - Claims to vested property"
 usc_title: 22
 usc_section: "1631f"
 chapter: 21
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 1631f"
-generated_at: "2026-03-30T05:10:39.721Z"
+generated_at: "2026-03-30T05:12:20.713Z"
 status: "active"
 ---
 

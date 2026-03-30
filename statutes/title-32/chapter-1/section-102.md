@@ -3,9 +3,9 @@ title: "Section 102 - General policy"
 usc_title: 32
 usc_section: "102"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "32 U.S.C. § 102"
-generated_at: "2026-03-30T05:10:53.876Z"
+generated_at: "2026-03-30T05:12:31.644Z"
 status: "active"
 ---
 

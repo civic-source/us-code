@@ -3,9 +3,9 @@ title: "Section 10609 - Justice for United States victims of state sponsored ter
 usc_title: 42
 usc_section: "10609"
 chapter: 112
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 10609"
-generated_at: "2026-03-30T05:11:14.489Z"
+generated_at: "2026-03-30T05:13:20.283Z"
 status: "active"
 ---
 

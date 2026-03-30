@@ -3,9 +3,9 @@ title: "Section 1331 - National Academy of Sciences: report"
 usc_title: 44
 usc_section: "1331"
 chapter: 13
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "44 U.S.C. § 1331"
-generated_at: "2026-03-30T05:11:02.882Z"
+generated_at: "2026-03-30T05:12:47.165Z"
 status: "active"
 ---
 

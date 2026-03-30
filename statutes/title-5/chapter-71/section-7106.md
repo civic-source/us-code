@@ -3,9 +3,9 @@ title: "Section 7106 - Management rights"
 usc_title: 5
 usc_section: "7106"
 chapter: 71
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "5 U.S.C. § 7106"
-generated_at: "2026-03-30T05:09:39.105Z"
+generated_at: "2026-03-30T05:11:38.402Z"
 status: "active"
 ---
 

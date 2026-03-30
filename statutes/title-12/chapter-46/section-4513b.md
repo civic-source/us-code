@@ -3,9 +3,9 @@ title: "Section 4513b - Prudential management and operations standards"
 usc_title: 12
 usc_section: "4513b"
 chapter: 46
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 4513b"
-generated_at: "2026-03-30T05:10:14.933Z"
+generated_at: "2026-03-30T05:12:00.529Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7918 - Consultation with Indian tribes and tribal organizations"
 usc_title: 20
 usc_section: "7918"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7918"
-generated_at: "2026-03-30T05:10:30.542Z"
+generated_at: "2026-03-30T05:12:08.855Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(1)** The term “affected local educational agency” means a local educational agency—
     - **(A)** with an enrollment of American Indian or Alaska Native students that is not less than 50 percent of the total enrollment of the local educational agency; or
     - **(B)** that—
-      - **(i)** for fiscal year 2017, received a grant in the previous year under subpart 1 of part A of subchapter VII (as such subpart was in effect on the day before December 10, 2015 ) that exceeded $40,000; or
+      - **(i)** for fiscal year 2017, received a grant in the previous year under subpart 1 of part A of title VII 1 1 See References in Text note below. (as such subpart was in effect on the day before December 10, 2015 ) that exceeded $40,000; or
       - **(ii)** for any fiscal year following fiscal year 2017, received a grant in the previous fiscal year under subpart 1 of part A of subchapter VI that exceeded $40,000.
   - **(2)** The term “appropriate officials” means—
     - **(A)** tribal officials who are elected; or

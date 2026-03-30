@@ -3,9 +3,9 @@ title: "Section 8706 - Termination of insurance; assignment of ownership"
 usc_title: 5
 usc_section: "8706"
 chapter: 87
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "5 U.S.C. § 8706"
-generated_at: "2026-03-30T05:09:39.126Z"
+generated_at: "2026-03-30T05:11:38.422Z"
 status: "active"
 ---
 

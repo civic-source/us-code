@@ -3,9 +3,9 @@ title: "Section 488 - Loans to purchasers of highly fractioned land"
 usc_title: 25
 usc_section: "488"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 488"
-generated_at: "2026-03-30T05:10:37.304Z"
+generated_at: "2026-03-30T05:12:18.404Z"
 status: "active"
 ---
 

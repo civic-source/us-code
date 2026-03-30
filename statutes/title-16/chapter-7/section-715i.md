@@ -3,9 +3,9 @@ title: "Section 715i - Administration"
 usc_title: 16
 usc_section: "715i"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 715i"
-generated_at: "2026-03-30T05:10:32.643Z"
+generated_at: "2026-03-30T05:12:13.982Z"
 status: "active"
 ---
 

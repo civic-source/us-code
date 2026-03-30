@@ -3,9 +3,9 @@ title: "Section 192 - Default in payment of circulating notes"
 usc_title: 12
 usc_section: "192"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 192"
-generated_at: "2026-03-30T05:10:14.825Z"
+generated_at: "2026-03-30T05:12:00.409Z"
 status: "active"
 ---
 

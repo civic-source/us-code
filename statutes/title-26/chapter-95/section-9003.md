@@ -3,9 +3,9 @@ title: "Section 9003 - Condition for eligibility for payments"
 usc_title: 26
 usc_section: "9003"
 chapter: 95
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 9003"
-generated_at: "2026-03-30T05:10:51.798Z"
+generated_at: "2026-03-30T05:12:30.083Z"
 status: "active"
 ---
 

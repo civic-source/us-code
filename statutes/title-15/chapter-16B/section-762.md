@@ -3,9 +3,9 @@ title: "Section 762 - Establishment"
 usc_title: 15
 usc_section: "762"
 chapter: 16
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 762"
-generated_at: "2026-03-30T05:10:23.423Z"
+generated_at: "2026-03-30T05:12:02.945Z"
 status: "active"
 ---
 

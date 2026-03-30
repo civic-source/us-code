@@ -3,9 +3,9 @@ title: "Section 2233 - Coordination and scheduling of Federal, State, and local 
 usc_title: 33
 usc_section: "2233"
 chapter: 36
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 2233"
-generated_at: "2026-03-30T05:10:56.062Z"
+generated_at: "2026-03-30T05:12:36.258Z"
 status: "active"
 ---
 

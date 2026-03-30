@@ -3,9 +3,9 @@ title: "Section 797g - New collective-bargaining agreements"
 usc_title: 45
 usc_section: "797g"
 chapter: 16
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "45 U.S.C. § 797g"
-generated_at: "2026-03-30T05:11:03.127Z"
+generated_at: "2026-03-30T05:12:52.884Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4980G - Failure of employer to make comparable health savings ac
 usc_title: 26
 usc_section: "4980G"
 chapter: 43
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 4980G"
-generated_at: "2026-03-30T05:10:51.737Z"
+generated_at: "2026-03-30T05:12:30.023Z"
 status: "active"
 ---
 

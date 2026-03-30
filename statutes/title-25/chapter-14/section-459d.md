@@ -3,9 +3,9 @@ title: "Section 459d - Gross receipts from conveyed lands"
 usc_title: 25
 usc_section: "459d"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 459d"
-generated_at: "2026-03-30T05:10:37.303Z"
+generated_at: "2026-03-30T05:12:18.403Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 375c - Sales of small tracts to resident farm owners and entryme
 usc_title: 43
 usc_section: "375c"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 375c"
-generated_at: "2026-03-30T05:11:02.469Z"
+generated_at: "2026-03-30T05:12:48.299Z"
 status: "active"
 ---
 

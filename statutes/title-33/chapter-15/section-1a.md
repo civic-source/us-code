@@ -3,9 +3,9 @@ title: "Section 1a - Further modification of 1927 project; adoption; appropriati
 usc_title: 33
 usc_section: "1a"
 chapter: 15
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 1a"
-generated_at: "2026-03-30T05:10:56.027Z"
+generated_at: "2026-03-30T05:12:36.223Z"
 status: "active"
 ---
 

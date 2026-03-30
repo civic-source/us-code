@@ -3,9 +3,9 @@ title: "Section 6394 - State applications; services"
 usc_title: 20
 usc_section: "6394"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 6394"
-generated_at: "2026-03-30T05:10:30.524Z"
+generated_at: "2026-03-30T05:12:08.834Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(1)** funds received under this part will be used only—
     - **(A)** for programs and projects, including the acquisition of equipment, in accordance with section 6396 of this title ; and
     - **(B)** to coordinate such programs and projects with similar programs and projects within the State and in other States, as well as with other Federal programs that can benefit migratory children and their families;
-  - **(2)** such programs and projects will be carried out in a manner consistent with the objectives of section 6314 of this title , subsections (b) and (d) of section 6315 of this title , subsections (b) and (c) of section 6321 of this title , and part F of this subchapter;
+  - **(2)** such programs and projects will be carried out in a manner consistent with the objectives of section 6314 of this title , subsections (b) and (d) of section 6315 of this title , subsections (b) and (c) of section 6321 of this title , and part F;
   - **(3)** in the planning and operation of programs and projects at both the State and local agency operating level, there is consultation with parents of migratory children, including parent advisory councils, for programs not less than 1 school year in duration, and that all such programs and projects are carried out—
     - **(A)** in a manner that provides for the same parental involvement as is required for programs and projects under section 6318 of this title , unless extraordinary circumstances make such provision impractical; and
     - **(B)** in a format and language understandable to the parents;

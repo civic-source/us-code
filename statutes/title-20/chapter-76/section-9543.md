@@ -3,9 +3,9 @@ title: "Section 9543 - Duties"
 usc_title: 20
 usc_section: "9543"
 chapter: 76
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 9543"
-generated_at: "2026-03-30T05:10:30.547Z"
+generated_at: "2026-03-30T05:12:08.860Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(E)** access to, and opportunity for, postsecondary education, including data on financial aid to postsecondary students;
     - **(F)** teaching, including—
       - **(i)** data on in-service professional development, including a comparison of courses taken in the core academic areas of reading, mathematics, and science with courses in noncore academic areas, including technology courses; and
-      - **(ii)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act ( 20 U.S.C. 1412(a)(14)(C) . 1 1 So in original. The period probably should be another closing parenthesis. in each State and, where feasible, in each local educational agency and school;
+      - **(ii)** the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title . 1 1 So in original. The period probably should not appear. in each State and, where feasible, in each local educational agency and school;
     - **(G)** instruction, the conditions of the education workplace, and the supply of, and demand for, teachers;
     - **(H)** the incidence, frequency, seriousness, and nature of violence affecting students, school personnel, and other individuals participating in school activities, as well as other indices of school safety, including information regarding—
       - **(i)** the relationship between victims and perpetrators;

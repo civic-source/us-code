@@ -3,9 +3,9 @@ title: "Section 19to21 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "19to21"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 19to21"
-generated_at: "2026-03-30T05:11:02.462Z"
+generated_at: "2026-03-30T05:12:48.292Z"
 status: "repealed"
 ---
 

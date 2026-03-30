@@ -3,9 +3,9 @@ title: "Section 15301 - Transferred"
 usc_title: 42
 usc_section: "15301"
 chapter: 146
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 15301"
-generated_at: "2026-03-30T05:11:14.561Z"
+generated_at: "2026-03-30T05:13:20.364Z"
 status: "transferred"
 ---
 

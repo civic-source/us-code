@@ -3,9 +3,9 @@ title: "Section 7118 - Activities to support safe and healthy students"
 usc_title: 20
 usc_section: "7118"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7118"
-generated_at: "2026-03-30T05:10:30.529Z"
+generated_at: "2026-03-30T05:12:08.841Z"
 status: "active"
 ---
 
@@ -54,4 +54,4 @@ Subject to section 7116(f) of this title , each local educational agency, or con
       - **(i)** establishing partnerships within the community to provide resources and support for schools;
       - **(ii)** ensuring that all service and community partners are aligned with the academic expectations of a community school in order to improve student success; and
       - **(iii)** strengthening relationships between schools and communities; or
-        - **(I)** pay for success initiatives aligned with the purposes of this section.
+    - **(I)** pay for success initiatives aligned with the purposes of this section.

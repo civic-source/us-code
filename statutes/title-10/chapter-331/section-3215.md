@@ -3,9 +3,9 @@ title: "Section 3215 - Repealed. Pub. L. 95–485, title VIII , § 820(c)(3), Oc
 usc_title: 10
 usc_section: "3215"
 chapter: 331
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 3215"
-generated_at: "2026-03-30T05:09:57.109Z"
+generated_at: "2026-03-30T05:11:54.740Z"
 status: "repealed"
 ---
 

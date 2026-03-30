@@ -3,9 +3,9 @@ title: "Section 2507i - Reporting requirements"
 usc_title: 22
 usc_section: "2507i"
 chapter: 34
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 2507i"
-generated_at: "2026-03-30T05:10:39.754Z"
+generated_at: "2026-03-30T05:12:20.743Z"
 status: "active"
 ---
 

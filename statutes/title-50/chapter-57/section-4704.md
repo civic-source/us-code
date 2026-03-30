@@ -1,0 +1,15 @@
+---
+title: "Section 4704 - United States as entitled to all benefits of exemption and limitation of liability accorded to owners of vessels"
+usc_title: 50
+usc_section: "4704"
+chapter: 57
+current_through: "PL 114-150"
+classification: "50 U.S.C. § 4704"
+generated_at: "2026-03-30T05:13:39.926Z"
+status: "active"
+---
+
+# § 4704. United States as entitled to all benefits of exemption and limitation of liability accorded to owners of vessels
+
+The United States shall, with respect to vessels owned by or chartered to the War Shipping Administrator 1 1 See Transfer of Functions note below. under bareboat charter or time charter or operated directly by such Administrator or for his account, be entitled to the benefits of all exemptions and of all limitations of liability accorded by law to the owners of vessels. With respect to any such vessel, the term “the United States” shall include agents or other persons acting for or on behalf of the Administrator in connection with the operation thereof.
+

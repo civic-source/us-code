@@ -3,9 +3,9 @@ title: "Section 1087j - Loan cancellation for teachers"
 usc_title: 20
 usc_section: "1087j"
 chapter: 28
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1087j"
-generated_at: "2026-03-30T05:10:30.464Z"
+generated_at: "2026-03-30T05:12:08.767Z"
 status: "active"
 ---
 
@@ -39,5 +39,5 @@ status: "active"
     - **(A)** section 1078–11 of this title ;
     - **(B)** section 1087e(m) of this title ; or
     - **(C)** subtitle D of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12601 et seq.).
-  - **(3)** An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under 9101 1 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+  - **(3)** An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 1 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 - **(h)** For the purpose of this section, the term “year” where applied to service as a teacher means an academic year as defined by the Secretary.

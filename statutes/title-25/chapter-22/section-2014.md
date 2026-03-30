@@ -3,9 +3,9 @@ title: "Section 2014 - Recruitment of Indian educators"
 usc_title: 25
 usc_section: "2014"
 chapter: 22
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 2014"
-generated_at: "2026-03-30T05:10:37.353Z"
+generated_at: "2026-03-30T05:12:18.457Z"
 status: "active"
 ---
 

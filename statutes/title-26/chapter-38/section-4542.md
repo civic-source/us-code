@@ -3,9 +3,9 @@ title: "Section 4542 - Repealed. Pub. L. 87–456, title III , § 302(d), May 24
 usc_title: 26
 usc_section: "4542"
 chapter: 38
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 4542"
-generated_at: "2026-03-30T05:10:51.727Z"
+generated_at: "2026-03-30T05:12:30.014Z"
 status: "repealed"
 ---
 

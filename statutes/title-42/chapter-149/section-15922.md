@@ -3,9 +3,9 @@ title: "Section 15922 - Consultation regarding oil and gas leasing on public lan
 usc_title: 42
 usc_section: "15922"
 chapter: 149
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 15922"
-generated_at: "2026-03-30T05:11:14.566Z"
+generated_at: "2026-03-30T05:13:20.369Z"
 status: "active"
 ---
 

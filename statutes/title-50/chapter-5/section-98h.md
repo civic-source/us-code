@@ -3,9 +3,9 @@ title: "Section 98h - National Defense Stockpile Transaction Fund"
 usc_title: 50
 usc_section: "98h"
 chapter: 5
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "50 U.S.C. § 98h"
-generated_at: "2026-03-30T05:11:19.258Z"
+generated_at: "2026-03-30T05:13:39.858Z"
 status: "active"
 ---
 
@@ -34,5 +34,5 @@ status: "active"
 - **(c)** All moneys received from the sale of materials being rotated under the provisions of section 98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
 - **(d)** If, during a fiscal year, the National Defense Stockpile Manager barters materials in the stockpile for the purpose of acquiring, upgrading, refining, or processing other materials (or for services directly related to that purpose), the contract value of the materials so bartered shall—
   - **(1)** be applied toward the total value of materials that are authorized to be disposed of from the stockpile during that fiscal year;
-  - **(2)** be treated as an acquisition for purposes of satisfying any requirement imposed on the National Defense Stockpile Manager to enter into obligations during that fiscal year under subsection (b)(2) of this section; and
+  - **(2)** be treated as an acquisition for purposes of satisfying any requirement imposed on the National Defense Stockpile Manager to enter into obligations during that fiscal year under subsection (b)(2); and
   - **(3)** not increase or decrease the balance in the fund.

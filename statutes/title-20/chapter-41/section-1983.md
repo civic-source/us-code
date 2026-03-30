@@ -3,9 +3,9 @@ title: "Section 1983 - Repealed. Pub. L. 95–561, title XV , § 1529, Nov. 1, 1
 usc_title: 20
 usc_section: "1983"
 chapter: 41
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1983"
-generated_at: "2026-03-30T05:10:30.500Z"
+generated_at: "2026-03-30T05:12:08.807Z"
 status: "repealed"
 ---
 

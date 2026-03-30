@@ -3,9 +3,9 @@ title: "Section 489 - Title in trust to United States"
 usc_title: 25
 usc_section: "489"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 489"
-generated_at: "2026-03-30T05:10:37.304Z"
+generated_at: "2026-03-30T05:12:18.404Z"
 status: "active"
 ---
 

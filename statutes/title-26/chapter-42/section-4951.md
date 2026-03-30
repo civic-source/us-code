@@ -3,9 +3,9 @@ title: "Section 4951 - Taxes on self-dealing"
 usc_title: 26
 usc_section: "4951"
 chapter: 42
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 4951"
-generated_at: "2026-03-30T05:10:51.732Z"
+generated_at: "2026-03-30T05:12:30.018Z"
 status: "active"
 ---
 

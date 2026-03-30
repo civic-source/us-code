@@ -3,9 +3,9 @@ title: "Section 1801to1805 - Omitted"
 usc_title: 12
 usc_section: "1801to1805"
 chapter: 15
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 1801to1805"
-generated_at: "2026-03-30T05:10:14.883Z"
+generated_at: "2026-03-30T05:12:00.473Z"
 status: "omitted"
 ---
 

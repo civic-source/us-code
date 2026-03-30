@@ -3,9 +3,9 @@ title: "Section 482 - Quarterly reports: personnel and unit readiness"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-30T05:09:57.018Z"
+generated_at: "2026-03-30T05:11:54.650Z"
 status: "active"
 ---
 

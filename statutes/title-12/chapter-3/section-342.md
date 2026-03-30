@@ -3,9 +3,9 @@ title: "Section 342 - Deposits; exchange and collection; member and nonmember ba
 usc_title: 12
 usc_section: "342"
 chapter: 3
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 342"
-generated_at: "2026-03-30T05:10:14.830Z"
+generated_at: "2026-03-30T05:12:00.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 58101 - Operating in domestic intercoastal or coastwise service"
 usc_title: 46
 usc_section: "58101"
 chapter: 581
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "46 U.S.C. § 58101"
-generated_at: "2026-03-30T05:11:17.448Z"
+generated_at: "2026-03-30T05:13:26.404Z"
 status: "active"
 ---
 

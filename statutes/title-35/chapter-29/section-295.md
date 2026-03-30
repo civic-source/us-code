@@ -3,9 +3,9 @@ title: "Section 295 - Presumption: Product made by patented process"
 usc_title: 35
 usc_section: "295"
 chapter: 29
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "35 U.S.C. § 295"
-generated_at: "2026-03-30T05:10:53.801Z"
+generated_at: "2026-03-30T05:12:31.865Z"
 status: "active"
 ---
 

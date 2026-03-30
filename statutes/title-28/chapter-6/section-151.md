@@ -3,9 +3,9 @@ title: "Section 151 - Designation of bankruptcy courts"
 usc_title: 28
 usc_section: "151"
 chapter: 6
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "28 U.S.C. § 151"
-generated_at: "2026-03-30T05:10:45.951Z"
+generated_at: "2026-03-30T05:12:24.757Z"
 status: "active"
 ---
 

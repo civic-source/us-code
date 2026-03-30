@@ -3,9 +3,9 @@ title: "Section 31113 - Reports"
 usc_title: 46
 usc_section: "31113"
 chapter: 311
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "46 U.S.C. § 31113"
-generated_at: "2026-03-30T05:11:17.436Z"
+generated_at: "2026-03-30T05:13:26.391Z"
 status: "active"
 ---
 

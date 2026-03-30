@@ -3,9 +3,9 @@ title: "Section 753 - Implementation of policy"
 usc_title: 47
 usc_section: "753"
 chapter: 6
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "47 U.S.C. § 753"
-generated_at: "2026-03-30T05:11:18.110Z"
+generated_at: "2026-03-30T05:13:27.964Z"
 status: "active"
 ---
 

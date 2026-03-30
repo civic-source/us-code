@@ -3,9 +3,9 @@ title: "Section 4261 - Imposition of tax"
 usc_title: 26
 usc_section: "4261"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 4261"
-generated_at: "2026-03-30T05:10:51.725Z"
+generated_at: "2026-03-30T05:12:30.012Z"
 status: "active"
 ---
 

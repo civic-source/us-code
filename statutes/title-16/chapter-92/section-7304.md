@@ -3,9 +3,9 @@ title: "Section 7304 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7304"
 chapter: 92
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 7304"
-generated_at: "2026-03-30T05:10:32.751Z"
+generated_at: "2026-03-30T05:12:14.090Z"
 status: "active"
 ---
 

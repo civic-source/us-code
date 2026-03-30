@@ -3,15 +3,15 @@ title: "Section 7703a - Impact aid for children with severe disabilities"
 usc_title: 20
 usc_section: "7703a"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7703a"
-generated_at: "2026-03-30T05:10:30.538Z"
+generated_at: "2026-03-30T05:12:08.850Z"
 status: "active"
 ---
 
 # § 7703a. Impact aid for children with severe disabilities
 
-- **(a)** Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) of this title 1 1 See References in Text note below. that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
+- **(a)** Subject to subsection (f) of this section, the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) 1 1 See References in Text note below. of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
 - **(b)** The amount of the payment under subsection (a) of this section to a local educational agency for a fiscal year for each child referred to in such subsection with a severe disability shall be—
   - **(1)** the payment made on behalf of the child with a severe disability that is in excess of the average per pupil expenditure in the State in which the local educational agency is located; less
   - **(2)** the sum of the funds received by the local educational agency—

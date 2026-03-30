@@ -3,9 +3,9 @@ title: "Section 2465 - Repealed. Pub. L. 105–362, title XI , § 1101(f), Nov. 
 usc_title: 42
 usc_section: "2465"
 chapter: 26
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 2465"
-generated_at: "2026-03-30T05:11:14.289Z"
+generated_at: "2026-03-30T05:13:20.077Z"
 status: "repealed"
 ---
 

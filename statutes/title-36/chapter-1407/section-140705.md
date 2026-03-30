@@ -3,9 +3,9 @@ title: "Section 140705 - Governing body"
 usc_title: 36
 usc_section: "140705"
 chapter: 1407
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "36 U.S.C. § 140705"
-generated_at: "2026-03-30T05:10:58.163Z"
+generated_at: "2026-03-30T05:12:38.537Z"
 status: "active"
 ---
 

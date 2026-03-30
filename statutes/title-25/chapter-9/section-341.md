@@ -3,9 +3,9 @@ title: "Section 341 - Power to grant rights-of-way not affected"
 usc_title: 25
 usc_section: "341"
 chapter: 9
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 341"
-generated_at: "2026-03-30T05:10:37.293Z"
+generated_at: "2026-03-30T05:12:18.393Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 583to588d - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 8
 usc_title: 12
 usc_section: "583to588d"
 chapter: 5
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 583to588d"
-generated_at: "2026-03-30T05:10:14.834Z"
+generated_at: "2026-03-30T05:12:00.420Z"
 status: "repealed"
 ---
 

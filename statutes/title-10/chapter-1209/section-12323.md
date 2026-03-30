@@ -3,9 +3,9 @@ title: "Section 12323 - Active duty pending line of duty determination required 
 usc_title: 10
 usc_section: "12323"
 chapter: 1209
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 12323"
-generated_at: "2026-03-30T05:09:57.141Z"
+generated_at: "2026-03-30T05:11:54.772Z"
 status: "active"
 ---
 

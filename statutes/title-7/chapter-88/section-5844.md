@@ -3,9 +3,9 @@ title: "Section 5844 - Definitions and authorization of appropriations"
 usc_title: 7
 usc_section: "5844"
 chapter: 88
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 5844"
-generated_at: "2026-03-30T05:09:52.150Z"
+generated_at: "2026-03-30T05:11:48.220Z"
 status: "active"
 ---
 

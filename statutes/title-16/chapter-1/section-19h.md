@@ -3,9 +3,9 @@ title: "Section 19h - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19h"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 19h"
-generated_at: "2026-03-30T05:10:32.529Z"
+generated_at: "2026-03-30T05:12:13.864Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 236 - Variations from standard permitted; prosecutions; law not 
 usc_title: 15
 usc_section: "236"
 chapter: 6
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 236"
-generated_at: "2026-03-30T05:10:23.386Z"
+generated_at: "2026-03-30T05:12:02.908Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1091 - Student eligibility"
 usc_title: 20
 usc_section: "1091"
 chapter: 28
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1091"
-generated_at: "2026-03-30T05:10:30.469Z"
+generated_at: "2026-03-30T05:12:08.773Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
     - **(B)** The student has completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
   - **(2)** In this subsection, the term “eligible career pathway program” means a program that combines rigorous and high-quality education, training, and other services that—
     - **(A)** aligns with the skill needs of industries in the economy of the State or regional economy involved;
-    - **(B)** prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.) (referred to individually in this chapter as an “apprenticeship”, except in section 171); 1
+    - **(B)** prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.) (referred to individually in this chapter and part C of subchapter I of chapter 34 of title 42 as an “apprenticeship”, except in section 171); 1
     - **(C)** includes counseling to support an individual in achieving the individual’s education and career goals;
     - **(D)** includes, as appropriate, education offered concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster;
     - **(E)** organizes education, training, and other services to meet the particular needs of an individual in a manner that accelerates the educational and career advancement of the individual to the extent practicable;

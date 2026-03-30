@@ -3,9 +3,9 @@ title: "Section 2006 - Selection of scholars"
 usc_title: 20
 usc_section: "2006"
 chapter: 42
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 2006"
-generated_at: "2026-03-30T05:10:30.500Z"
+generated_at: "2026-03-30T05:12:08.807Z"
 status: "active"
 ---
 

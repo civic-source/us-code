@@ -3,9 +3,9 @@ title: "Section 2073 - Transfer of personnel, etc., to Service"
 usc_title: 19
 usc_section: "2073"
 chapter: 10
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "19 U.S.C. § 2073"
-generated_at: "2026-03-30T05:10:27.339Z"
+generated_at: "2026-03-30T05:12:09.954Z"
 status: "active"
 ---
 

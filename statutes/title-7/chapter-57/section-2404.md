@@ -3,9 +3,9 @@ title: "Section 2404 - Public interest in wide usage"
 usc_title: 7
 usc_section: "2404"
 chapter: 57
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 2404"
-generated_at: "2026-03-30T05:09:52.127Z"
+generated_at: "2026-03-30T05:11:48.145Z"
 status: "active"
 ---
 

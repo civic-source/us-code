@@ -3,9 +3,9 @@ title: "Section 5044 - Assistant Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "5044"
 chapter: 506
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 5044"
-generated_at: "2026-03-30T05:09:57.117Z"
+generated_at: "2026-03-30T05:11:54.748Z"
 status: "active"
 ---
 

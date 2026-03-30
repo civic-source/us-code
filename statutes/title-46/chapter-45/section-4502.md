@@ -3,9 +3,9 @@ title: "Section 4502 - Safety standards"
 usc_title: 46
 usc_section: "4502"
 chapter: 45
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "46 U.S.C. § 4502"
-generated_at: "2026-03-30T05:11:17.424Z"
+generated_at: "2026-03-30T05:13:26.378Z"
 status: "active"
 ---
 

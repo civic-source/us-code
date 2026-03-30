@@ -3,9 +3,9 @@ title: "Section 104 - Subject matter of copyright: National origin"
 usc_title: 17
 usc_section: "104"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "17 U.S.C. § 104"
-generated_at: "2026-03-30T05:10:25.369Z"
+generated_at: "2026-03-30T05:12:04.925Z"
 status: "active"
 ---
 

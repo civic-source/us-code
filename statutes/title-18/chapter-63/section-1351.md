@@ -3,9 +3,9 @@ title: "Section 1351 - Fraud in foreign labor contracting"
 usc_title: 18
 usc_section: "1351"
 chapter: 63
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "18 U.S.C. § 1351"
-generated_at: "2026-03-30T05:10:33.992Z"
+generated_at: "2026-03-30T05:12:06.949Z"
 status: "active"
 ---
 

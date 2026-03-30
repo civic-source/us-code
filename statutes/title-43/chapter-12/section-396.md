@@ -3,9 +3,9 @@ title: "Section 396 - Return of contributions to cooperative investigations of p
 usc_title: 43
 usc_section: "396"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 396"
-generated_at: "2026-03-30T05:11:02.474Z"
+generated_at: "2026-03-30T05:12:48.302Z"
 status: "active"
 ---
 

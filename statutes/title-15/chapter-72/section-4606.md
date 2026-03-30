@@ -3,9 +3,9 @@ title: "Section 4606 - Protection of information"
 usc_title: 15
 usc_section: "4606"
 chapter: 72
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 4606"
-generated_at: "2026-03-30T05:10:23.492Z"
+generated_at: "2026-03-30T05:12:03.013Z"
 status: "active"
 ---
 

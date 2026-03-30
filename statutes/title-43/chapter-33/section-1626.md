@@ -3,9 +3,9 @@ title: "Section 1626 - Relation to other programs"
 usc_title: 43
 usc_section: "1626"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 1626"
-generated_at: "2026-03-30T05:11:02.504Z"
+generated_at: "2026-03-30T05:12:48.334Z"
 status: "active"
 ---
 

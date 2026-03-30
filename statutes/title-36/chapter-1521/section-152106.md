@@ -3,9 +3,9 @@ title: "Section 152106 - Powers"
 usc_title: 36
 usc_section: "152106"
 chapter: 1521
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "36 U.S.C. § 152106"
-generated_at: "2026-03-30T05:10:58.166Z"
+generated_at: "2026-03-30T05:12:38.538Z"
 status: "active"
 ---
 

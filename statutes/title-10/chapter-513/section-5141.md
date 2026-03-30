@@ -3,9 +3,9 @@ title: "Section 5141 - Bureau of Naval Personnel: Chief of Naval Personnel; Depu
 usc_title: 10
 usc_section: "5141"
 chapter: 513
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 5141"
-generated_at: "2026-03-30T05:09:57.117Z"
+generated_at: "2026-03-30T05:11:54.748Z"
 status: "active"
 ---
 

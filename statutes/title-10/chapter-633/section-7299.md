@@ -3,9 +3,9 @@ title: "Section 7299 - Contracts: applicability of chapter 65 of title 41"
 usc_title: 10
 usc_section: "7299"
 chapter: 633
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 7299"
-generated_at: "2026-03-30T05:09:57.124Z"
+generated_at: "2026-03-30T05:11:54.756Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7423 - Amount of grants"
 usc_title: 20
 usc_section: "7423"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7423"
-generated_at: "2026-03-30T05:10:30.534Z"
+generated_at: "2026-03-30T05:12:08.846Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
       - **(i)** the average per pupil expenditure of the State in which the school is located; or
       - **(ii)** 80 percent of the average per pupil expenditure of all the States.
   - **(2)** Any school described in paragraph (1)(A) that wishes to receive an allocation under this subpart shall submit an application in accordance with section 7424 of this title , and shall otherwise be treated as a local educational agency for the purpose of this subpart, except that such school shall not be subject to section 7424(c)(4) of this title , section 7428(c) of this title , or section 7429 of this title .
-- **(e)** If the sums appropriated for any fiscal year under section 7492(a) of this title are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) of this section and for the Secretary of the Interior under subsection (d) of this section, each of those amounts shall be ratably reduced.
+- **(e)** If the sums appropriated for any fiscal year under 7492(a) 1 1 So in original. Probably should be preceded by “section”. of this title are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) of this section and for the Secretary of the Interior under subsection (d) of this section, each of those amounts shall be ratably reduced.

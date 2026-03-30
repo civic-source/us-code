@@ -3,9 +3,9 @@ title: "Section 8791 - Information gathering"
 usc_title: 7
 usc_section: "8791"
 chapter: 113
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 8791"
-generated_at: "2026-03-30T05:09:52.193Z"
+generated_at: "2026-03-30T05:11:48.265Z"
 status: "active"
 ---
 

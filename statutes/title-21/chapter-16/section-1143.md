@@ -3,9 +3,9 @@ title: "Section 1143 - Repealed. Pub. L. 92–255, title I , § 104, Mar. 21, 19
 usc_title: 21
 usc_section: "1143"
 chapter: 16
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "21 U.S.C. § 1143"
-generated_at: "2026-03-30T05:10:41.510Z"
+generated_at: "2026-03-30T05:12:17.381Z"
 status: "repealed"
 ---
 

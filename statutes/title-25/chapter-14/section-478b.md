@@ -3,9 +3,9 @@ title: "Section 478b - Application of laws and treaties"
 usc_title: 25
 usc_section: "478b"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 478b"
-generated_at: "2026-03-30T05:10:37.304Z"
+generated_at: "2026-03-30T05:12:18.404Z"
 status: "active"
 ---
 

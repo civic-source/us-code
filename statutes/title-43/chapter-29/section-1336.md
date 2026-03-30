@@ -3,9 +3,9 @@ title: "Section 1336 - Controversies over jurisdiction; agreements; payments; fi
 usc_title: 43
 usc_section: "1336"
 chapter: 29
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 1336"
-generated_at: "2026-03-30T05:11:02.493Z"
+generated_at: "2026-03-30T05:12:48.322Z"
 status: "active"
 ---
 

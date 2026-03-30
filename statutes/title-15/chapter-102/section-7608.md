@@ -3,9 +3,9 @@ title: "Section 7608 - Violations"
 usc_title: 15
 usc_section: "7608"
 chapter: 102
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 7608"
-generated_at: "2026-03-30T05:10:23.513Z"
+generated_at: "2026-03-30T05:12:03.034Z"
 status: "active"
 ---
 

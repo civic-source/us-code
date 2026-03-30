@@ -3,9 +3,9 @@ title: "Section 1422 - Increase of price support levels"
 usc_title: 7
 usc_section: "1422"
 chapter: 35
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 1422"
-generated_at: "2026-03-30T05:09:52.073Z"
+generated_at: "2026-03-30T05:11:48.091Z"
 status: "active"
 ---
 

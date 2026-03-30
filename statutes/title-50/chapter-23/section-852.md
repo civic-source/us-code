@@ -3,9 +3,9 @@ title: "Section 852 - Exemption from registration"
 usc_title: 50
 usc_section: "852"
 chapter: 23
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "50 U.S.C. § 852"
-generated_at: "2026-03-30T05:11:19.264Z"
+generated_at: "2026-03-30T05:13:39.862Z"
 status: "active"
 ---
 

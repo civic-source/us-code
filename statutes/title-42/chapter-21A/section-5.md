@@ -3,9 +3,9 @@ title: "Section 5 - Border and customs searches"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T05:11:14.269Z"
+generated_at: "2026-03-30T05:13:20.055Z"
 status: "active"
 ---
 

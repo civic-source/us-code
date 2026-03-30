@@ -3,9 +3,9 @@ title: "Section 20104 - Registration and voting aids"
 usc_title: 52
 usc_section: "20104"
 chapter: 201
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "52 U.S.C. § 20104"
-generated_at: "2026-03-30T05:11:23.313Z"
+generated_at: "2026-03-30T05:13:48.152Z"
 status: "active"
 ---
 

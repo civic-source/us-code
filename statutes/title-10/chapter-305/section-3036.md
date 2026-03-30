@@ -3,9 +3,9 @@ title: "Section 3036 - Chiefs of branches: appointment; duties"
 usc_title: 10
 usc_section: "3036"
 chapter: 305
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 3036"
-generated_at: "2026-03-30T05:09:57.109Z"
+generated_at: "2026-03-30T05:11:54.739Z"
 status: "active"
 ---
 

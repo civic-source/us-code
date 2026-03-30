@@ -3,9 +3,9 @@ title: "Section 2042 - Withdrawal"
 usc_title: 28
 usc_section: "2042"
 chapter: 129
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "28 U.S.C. § 2042"
-generated_at: "2026-03-30T05:10:45.972Z"
+generated_at: "2026-03-30T05:12:24.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7273 - Program authorized"
 usc_title: 20
 usc_section: "7273"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7273"
-generated_at: "2026-03-30T05:10:30.533Z"
+generated_at: "2026-03-30T05:12:08.844Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(2)** with respect to a grant for activities described in section 7275 of this title , annual performance objectives and outcomes under section 7275(a)(4)(C) of this title .
 - **(d)**
   - **(1)**
-    - **(A)** Each eligible entity receiving a grant under this subpart for activities described in section 7274 shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.
+    - **(A)** Each eligible entity receiving a grant under this subpart for activities described in section 7274 of this title shall contribute matching funds in an amount equal to not less than 100 percent of the amount of the grant. Such matching funds shall come from Federal, State, local, and private sources.
     - **(B)** The Secretary shall require that a portion of the matching funds come from private sources, which may include in-kind contributions.
     - **(C)** The Secretary may adjust the matching funds requirement under this paragraph for applicants that demonstrate high need, including applicants from rural areas and applicants that wish to provide services on tribal lands.
     - **(D)** The Secretary may waive or reduce, on a case-by-case basis, the matching requirement under this paragraph, including the requirement for funds from private sources, for a period of 1 year at a time, if the eligible entity demonstrates significant financial hardship.

@@ -3,9 +3,9 @@ title: "Section 227 - Wrongfully influencing a private entity’s employment dec
 usc_title: 18
 usc_section: "227"
 chapter: 11
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "18 U.S.C. § 227"
-generated_at: "2026-03-30T05:10:33.972Z"
+generated_at: "2026-03-30T05:12:06.931Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1382i - Medical and social services for certain handicapped pers
 usc_title: 42
 usc_section: "1382i"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 1382i"
-generated_at: "2026-03-30T05:11:14.113Z"
+generated_at: "2026-03-30T05:13:19.898Z"
 status: "active"
 ---
 

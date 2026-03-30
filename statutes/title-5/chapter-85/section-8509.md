@@ -3,9 +3,9 @@ title: "Section 8509 - Federal Employees Compensation Account"
 usc_title: 5
 usc_section: "8509"
 chapter: 85
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "5 U.S.C. § 8509"
-generated_at: "2026-03-30T05:09:39.125Z"
+generated_at: "2026-03-30T05:11:38.422Z"
 status: "active"
 ---
 

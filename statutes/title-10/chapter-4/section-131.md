@@ -3,9 +3,9 @@ title: "Section 131 - Office of the Secretary of Defense"
 usc_title: 10
 usc_section: "131"
 chapter: 4
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 131"
-generated_at: "2026-03-30T05:09:57.009Z"
+generated_at: "2026-03-30T05:11:54.640Z"
 status: "active"
 ---
 

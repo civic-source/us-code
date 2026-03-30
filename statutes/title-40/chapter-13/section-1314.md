@@ -3,9 +3,9 @@ title: "Section 1314 - Easements"
 usc_title: 40
 usc_section: "1314"
 chapter: 13
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "40 U.S.C. § 1314"
-generated_at: "2026-03-30T05:11:00.049Z"
+generated_at: "2026-03-30T05:12:38.894Z"
 status: "active"
 ---
 

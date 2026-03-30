@@ -3,9 +3,9 @@ title: "Section 7251 - Authorization of appropriations; reservations"
 usc_title: 20
 usc_section: "7251"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7251"
-generated_at: "2026-03-30T05:10:30.532Z"
+generated_at: "2026-03-30T05:12:08.844Z"
 status: "active"
 ---
 
@@ -23,6 +23,6 @@ status: "active"
     - **(B)** carry out activities authorized under subpart 2 using—
       - **(i)** 36 percent of such remainder for each of fiscal years 2017 and 2018; and
       - **(ii)** 32 percent of such remainder for each of fiscal years 2019 and 2020; and
-    - **(C)** to carry out activities authorized under subpart 4—
+    - **(C)** to carry out activities authorized under subpart 4— 1 1 So in original. Probably should be “(C) carry out activities authorized under subpart 4 using—”.
       - **(i)** 28 percent of such remainder for each of fiscal years 2017 and 2018; and
       - **(ii)** 26 percent of such remainder for each of fiscal years 2019 and 2020.

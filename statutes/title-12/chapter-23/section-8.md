@@ -3,9 +3,9 @@ title: "Section 8 - Standards for qualified loans"
 usc_title: 12
 usc_section: "8"
 chapter: 23
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T05:10:14.916Z"
+generated_at: "2026-03-30T05:12:00.509Z"
 status: "active"
 ---
 

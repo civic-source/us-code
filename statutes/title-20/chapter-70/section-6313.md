@@ -3,9 +3,9 @@ title: "Section 6313 - Eligible school attendance areas"
 usc_title: 20
 usc_section: "6313"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 6313"
-generated_at: "2026-03-30T05:10:30.520Z"
+generated_at: "2026-03-30T05:12:08.830Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
     - **(C)** Funds reserved under subparagraph (A)(i) may be—
       - **(i)** determined based on a needs assessment of homeless children and youths in the local educational agency, taking into consideration the number and needs of homeless children and youths in the local educational agency, and which needs assessment may be the same needs assessment as conducted under section 11433(b)(1) of title 42 ; and
       - **(ii)** used to provide homeless children and youths with services not ordinarily provided to other students under this part, including providing—
-        - **(I)** funding for the liaison designated pursuant to section 11432(g)(1)(J)(ii) of such title; and
+        - **(I)** funding for the liaison designated pursuant to section 11432(g)(1)(J)(ii) of title 42 ; and
         - **(II)** transportation pursuant to section 11432(g)(1)(J)(iii) of such title.
   - **(4)** A local educational agency may reserve such funds as are necessary from those funds received by the local educational agency under subchapter II of this chapter, and not more than 5 percent of those funds received by the local educational agency under subpart 2 of this part, to provide financial incentives and rewards to teachers who serve in schools eligible under this section and identified for comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title for the purpose of attracting and retaining qualified and effective teachers.
   - **(5)** A local educational agency may reserve funds made available to carry out this section to provide early childhood education programs for eligible children.

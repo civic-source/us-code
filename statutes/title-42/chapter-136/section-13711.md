@@ -3,9 +3,9 @@ title: "Section 13711 - Support of Federal prisoners in non-Federal institutions
 usc_title: 42
 usc_section: "13711"
 chapter: 136
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 13711"
-generated_at: "2026-03-30T05:11:14.540Z"
+generated_at: "2026-03-30T05:13:20.341Z"
 status: "active"
 ---
 

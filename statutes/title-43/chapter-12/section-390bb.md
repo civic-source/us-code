@@ -3,9 +3,9 @@ title: "Section 390bb - Definitions"
 usc_title: 43
 usc_section: "390bb"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 390bb"
-generated_at: "2026-03-30T05:11:02.473Z"
+generated_at: "2026-03-30T05:12:48.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4375 - Health insurance"
 usc_title: 26
 usc_section: "4375"
 chapter: 34
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 4375"
-generated_at: "2026-03-30T05:10:51.726Z"
+generated_at: "2026-03-30T05:12:30.013Z"
 status: "active"
 ---
 

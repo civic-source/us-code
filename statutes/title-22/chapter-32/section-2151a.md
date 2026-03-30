@@ -3,9 +3,9 @@ title: "Section 2151a - Agricultural development in rural areas"
 usc_title: 22
 usc_section: "2151a"
 chapter: 32
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 2151a"
-generated_at: "2026-03-30T05:10:39.729Z"
+generated_at: "2026-03-30T05:12:20.720Z"
 status: "active"
 ---
 

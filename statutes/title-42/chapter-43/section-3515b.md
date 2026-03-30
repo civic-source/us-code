@@ -3,9 +3,9 @@ title: "Section 3515b - Prohibition on funding certain experiments involving hum
 usc_title: 42
 usc_section: "3515b"
 chapter: 43
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 3515b"
-generated_at: "2026-03-30T05:11:14.308Z"
+generated_at: "2026-03-30T05:13:20.095Z"
 status: "active"
 ---
 

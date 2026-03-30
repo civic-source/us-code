@@ -3,9 +3,9 @@ title: "Section 1021 - Definitions"
 usc_title: 20
 usc_section: "1021"
 chapter: 28
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1021"
-generated_at: "2026-03-30T05:10:30.440Z"
+generated_at: "2026-03-30T05:12:08.741Z"
 status: "active"
 ---
 
@@ -43,8 +43,8 @@ In this subchapter:
       - **(xi)** A school or department within the partner institution that focuses on psychology and human development.
       - **(xii)** A school or department within the partner institution with comparable expertise in the disciplines of teaching, learning, and child and adolescent development.
       - **(xiii)** An entity operating a program that provides alternative routes to State certification of teachers.
-  - **“(7)** The term “essential components of reading instruction”’ has the meaning given the term in section 6368 of this title as such section was in effect on December 10, 2015 . 1 1 See References in Text note below.
-  - **“(8)** The term “exemplary teacher” has the meaning given the term in section 7801 of this title as such section was in effect on the day before December 10, 2015 . 1
+  - **(7)** The term “essential components of reading instruction” has the meaning given the term in section 6368 of this title as such section was in effect on the day before December 10, 2015 .
+  - **(8)** The term “exemplary teacher” has the meaning given the term in section 7801 of this title as such section was in effect on the day before December 10, 2015 .
   - **(9)** The term “high-need early childhood education program” means an early childhood education program serving children from low-income families that is located within the geographic area served by a high-need local educational agency.
   - **(10)** The term “high-need local educational agency” means a local educational agency—
     - **(A)**

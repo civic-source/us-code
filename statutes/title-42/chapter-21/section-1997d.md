@@ -3,9 +3,9 @@ title: "Section 1997d - Prohibition of retaliation"
 usc_title: 42
 usc_section: "1997d"
 chapter: 21
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 1997d"
-generated_at: "2026-03-30T05:11:14.265Z"
+generated_at: "2026-03-30T05:13:20.052Z"
 status: "active"
 ---
 

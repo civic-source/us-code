@@ -3,9 +3,9 @@ title: "Section 28505 - Rules and regulations"
 usc_title: 49
 usc_section: "28505"
 chapter: 285
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "49 U.S.C. § 28505"
-generated_at: "2026-03-30T05:11:21.155Z"
+generated_at: "2026-03-30T05:13:46.366Z"
 status: "active"
 ---
 

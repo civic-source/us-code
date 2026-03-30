@@ -3,9 +3,9 @@ title: "Section 30 - Term of service of Members of Congress as trustees or direc
 usc_title: 2
 usc_section: "30"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "2 U.S.C. § 30"
-generated_at: "2026-03-30T05:09:34.610Z"
+generated_at: "2026-03-30T05:11:35.471Z"
 status: "active"
 ---
 

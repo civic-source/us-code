@@ -3,9 +3,9 @@ title: "Section 408 - Surrender of allotments by relinquishment for benefit of c
 usc_title: 25
 usc_section: "408"
 chapter: 12
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 408"
-generated_at: "2026-03-30T05:10:37.296Z"
+generated_at: "2026-03-30T05:12:18.396Z"
 status: "active"
 ---
 

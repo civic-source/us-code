@@ -3,9 +3,9 @@ title: "Section 7274 - Promise neighborhoods"
 usc_title: 20
 usc_section: "7274"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7274"
-generated_at: "2026-03-30T05:10:30.533Z"
+generated_at: "2026-03-30T05:12:08.844Z"
 status: "active"
 ---
 
@@ -67,4 +67,4 @@ status: "active"
     - **(A)** data-driven decision-making by eligible entities receiving funds under this subpart; and
     - **(B)** access to a community-based continuum of high-quality services for children living in the most distressed communities of the United States, beginning at birth.
   - **(3)** Each eligible entity that receives a grant under this subpart for activities described in this section shall annually collect and report to the Secretary data on the performance indicators described in paragraph (2) for use by the Secretary in making a determination concerning continuation funding and grant extension under section 7273(b) of this title for each eligible entity.
-      - **(i)** The Secretary shall reserve not more than 5 percent of the funds made available under section 7251(b)(2)(A) of this title to provide technical assistance and evaluate the implementation and impact of the activities funded under this section, in accordance with section 7981 of this title .
+- **(i)** The Secretary shall reserve not more than 5 percent of the funds made available under section 7251(b)(2)(A) of this title to provide technical assistance and evaluate the implementation and impact of the activities funded under this section, in accordance with section 7981 of this title .

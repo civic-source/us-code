@@ -3,9 +3,9 @@ title: "Section 712c - Tribal membership"
 usc_title: 25
 usc_section: "712c"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 712c"
-generated_at: "2026-03-30T05:10:37.314Z"
+generated_at: "2026-03-30T05:12:18.416Z"
 status: "active"
 ---
 

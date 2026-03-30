@@ -3,9 +3,9 @@ title: "Section 41703 - Navigation of foreign civil aircraft"
 usc_title: 49
 usc_section: "41703"
 chapter: 417
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "49 U.S.C. § 41703"
-generated_at: "2026-03-30T05:11:21.175Z"
+generated_at: "2026-03-30T05:13:46.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3463 - Vacant]"
 usc_title: 38
 usc_section: "3463"
 chapter: 34
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "38 U.S.C. § 3463"
-generated_at: "2026-03-30T05:10:59.665Z"
+generated_at: "2026-03-30T05:12:42.867Z"
 status: "active"
 ---
 

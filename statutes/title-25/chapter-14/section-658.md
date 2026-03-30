@@ -3,9 +3,9 @@ title: "Section 658 - Distribution of $150 from fund to each enrolled Indian"
 usc_title: 25
 usc_section: "658"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 658"
-generated_at: "2026-03-30T05:10:37.311Z"
+generated_at: "2026-03-30T05:12:18.412Z"
 status: "active"
 ---
 

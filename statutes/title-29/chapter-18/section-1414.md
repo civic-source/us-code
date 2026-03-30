@@ -3,9 +3,9 @@ title: "Section 1414 - Asset transfer rules"
 usc_title: 29
 usc_section: "1414"
 chapter: 18
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "29 U.S.C. § 1414"
-generated_at: "2026-03-30T05:10:45.292Z"
+generated_at: "2026-03-30T05:12:23.700Z"
 status: "active"
 ---
 

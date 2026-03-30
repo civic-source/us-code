@@ -3,9 +3,9 @@ title: "Section 7209 - Requirements relating to certain travel-related transacti
 usc_title: 22
 usc_section: "7209"
 chapter: 79
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 7209"
-generated_at: "2026-03-30T05:10:39.812Z"
+generated_at: "2026-03-30T05:12:20.800Z"
 status: "active"
 ---
 

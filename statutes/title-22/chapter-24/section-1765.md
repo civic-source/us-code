@@ -3,9 +3,9 @@ title: "Section 1765 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1765"
 chapter: 24
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 1765"
-generated_at: "2026-03-30T05:10:39.724Z"
+generated_at: "2026-03-30T05:12:20.717Z"
 status: "repealed"
 ---
 

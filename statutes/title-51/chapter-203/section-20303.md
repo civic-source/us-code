@@ -3,9 +3,9 @@ title: "Section 20303 - Contribution to innovation"
 usc_title: 51
 usc_section: "20303"
 chapter: 203
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "51 U.S.C. § 20303"
-generated_at: "2026-03-30T05:11:23.177Z"
+generated_at: "2026-03-30T05:13:48.329Z"
 status: "active"
 ---
 

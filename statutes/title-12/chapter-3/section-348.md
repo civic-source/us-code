@@ -3,9 +3,9 @@ title: "Section 348 - Discount of obligations given for agricultural purposes or
 usc_title: 12
 usc_section: "348"
 chapter: 3
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 348"
-generated_at: "2026-03-30T05:10:14.830Z"
+generated_at: "2026-03-30T05:12:00.414Z"
 status: "active"
 ---
 

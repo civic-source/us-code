@@ -3,9 +3,9 @@ title: "Section 1439 - Procedural safeguards"
 usc_title: 20
 usc_section: "1439"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1439"
-generated_at: "2026-03-30T05:10:30.496Z"
+generated_at: "2026-03-30T05:12:08.803Z"
 status: "active"
 ---
 

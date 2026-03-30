@@ -3,9 +3,9 @@ title: "Section 6434 - State plan and State agency applications"
 usc_title: 20
 usc_section: "6434"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 6434"
-generated_at: "2026-03-30T05:10:30.524Z"
+generated_at: "2026-03-30T05:12:08.835Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(C)** describe how the State will place a priority for such children to attain a regular high school diploma, to the extent feasible;
     - **(D)** contain an assurance that the State educational agency will—
       - **(i)** ensure that programs assisted under this subpart will be carried out in accordance with the State plan described in this subsection; and
-      - **(ii)** ensure that the State agencies receiving subgrants under this subpart comply with all applicable statutory and regulatory requirements; and 1 1 So in original.
+      - **(ii)** ensure that the State agencies receiving subgrants under this subpart comply with all applicable statutory and regulatory requirements; and
     - **(E)** provide assurances that the State educational agency has established—
       - **(i)** procedures to ensure the timely re-enrollment of each student who has been placed in the juvenile justice system in secondary school or in a re-entry program that best meets the needs of the student, including the transfer of credits that such student earns during placement; and
       - **(ii)** opportunities for such students to participate in credit-bearing coursework while in secondary school, postsecondary education, or career and technical education programming.

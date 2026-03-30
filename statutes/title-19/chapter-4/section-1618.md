@@ -3,9 +3,9 @@ title: "Section 1618 - Remission or mitigation of penalties"
 usc_title: 19
 usc_section: "1618"
 chapter: 4
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "19 U.S.C. § 1618"
-generated_at: "2026-03-30T05:10:27.327Z"
+generated_at: "2026-03-30T05:12:09.941Z"
 status: "active"
 ---
 

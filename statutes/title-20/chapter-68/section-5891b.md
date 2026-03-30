@@ -3,9 +3,9 @@ title: "Section 5891b - Educational flexibility program"
 usc_title: 20
 usc_section: "5891b"
 chapter: 68
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 5891b"
-generated_at: "2026-03-30T05:10:30.516Z"
+generated_at: "2026-03-30T05:12:08.826Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(2)** For the purpose of this section, the term “eligible State” means a State that—
     - **(A)** has—
       - **(i)** developed and implemented the challenging State academic standards, and aligned assessments, described in paragraphs (1) and (2) of section 1111(b) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6311(b) ], and is producing the report cards required by section 1111(h) of such Act; or
-      - **(ii)** if the State has adopted new challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965, as a result of the amendments made to such Act by the Every Student Succeeds Act, made substantial progress (as determined by the Secretary) toward developing and implementing such standards and toward producing the report cards required under section 1111(h) of such Act;
+      - **(ii)** if the State has adopted new challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965, as a result of the amendments made to such Act [ 20 U.S.C. 6301 et seq.] by the Every Student Succeeds Act, made substantial progress (as determined by the Secretary) toward developing and implementing such standards and toward producing the report cards required under section 1111(h) of such Act;
     - **(B)** will hold local educational agencies, educational service agencies, and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and, as applicable and appropriate, implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965; and
     - **(C)** waives State statutory or regulatory requirements relating to education while holding local educational agencies, educational service agencies, or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
   - **(3)**
@@ -117,7 +117,7 @@ status: "active"
     - **(D)** parental participation and involvement;
     - **(E)** distribution of funds to States or to local educational agencies;
     - **(F)** serving eligible school attendance areas in rank order in accordance with section 1113(a)(3) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6313(a)(3) ];
-    - **(G)** the selection of a school attendance area or school under subsections (a) and (b) of section 1113 of the Elementary and Secondary Education Act of 1965 , except that a State educational agency may grant a waiver to allow a school attendance area or school to participate in activities under part A of title I of such Act [ 20 U.S.C. 6311 et seq.] if the percentage of children from low-income families in the school attendance area of such school or who attend such school is not less than 10 percentage points below the lowest percentage of such children for any school attendance area or school of the local educational agency that meets the requirements of such subsections;
+    - **(G)** the selection of a school attendance area or school under subsections (a) and (b) of section 1113 of the Elementary and Secondary Education Act of 1965, except that a State educational agency may grant a waiver to allow a school attendance area or school to participate in activities under part A of title I of such Act [ 20 U.S.C. 6311 et seq.] if the percentage of children from low-income families in the school attendance area of such school or who attend such school is not less than 10 percentage points below the lowest percentage of such children for any school attendance area or school of the local educational agency that meets the requirements of such subsections;
     - **(H)** use of Federal funds to supplement, not supplant, non-Federal funds; and
     - **(I)** applicable civil rights requirements; and
   - **(2)** unless the State educational agency can demonstrate that the underlying purposes of the statutory requirements of the program for which a waiver is granted continue to be met to the satisfaction of the Secretary.

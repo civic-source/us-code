@@ -3,9 +3,9 @@ title: "Section 6258 - Korea Defense Service Medal"
 usc_title: 10
 usc_section: "6258"
 chapter: 567
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 6258"
-generated_at: "2026-03-30T05:09:57.120Z"
+generated_at: "2026-03-30T05:11:54.751Z"
 status: "active"
 ---
 

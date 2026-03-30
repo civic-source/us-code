@@ -3,9 +3,9 @@ title: "Section 4563 - Clothing: replacement when destroyed to prevent contagion
 usc_title: 10
 usc_section: "4563"
 chapter: 435
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 4563"
-generated_at: "2026-03-30T05:09:57.114Z"
+generated_at: "2026-03-30T05:11:54.745Z"
 status: "active"
 ---
 

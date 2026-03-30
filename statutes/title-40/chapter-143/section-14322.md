@@ -3,9 +3,9 @@ title: "Section 14322 - Approval of development plans, strategy statements, and 
 usc_title: 40
 usc_section: "14322"
 chapter: 143
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "40 U.S.C. § 14322"
-generated_at: "2026-03-30T05:11:00.057Z"
+generated_at: "2026-03-30T05:12:38.905Z"
 status: "active"
 ---
 

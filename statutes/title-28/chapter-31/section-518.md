@@ -3,9 +3,9 @@ title: "Section 518 - Conduct and argument of cases"
 usc_title: 28
 usc_section: "518"
 chapter: 31
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "28 U.S.C. § 518"
-generated_at: "2026-03-30T05:10:45.957Z"
+generated_at: "2026-03-30T05:12:24.762Z"
 status: "active"
 ---
 

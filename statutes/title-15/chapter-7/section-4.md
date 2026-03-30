@@ -3,9 +3,9 @@ title: "Section 4 - Information Security and Privacy Advisory Board"
 usc_title: 15
 usc_section: "4"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T05:10:23.388Z"
+generated_at: "2026-03-30T05:12:02.910Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T05:10:51.602Z"
+generated_at: "2026-03-30T05:12:29.889Z"
 status: "active"
 ---
 

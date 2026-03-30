@@ -3,9 +3,9 @@ title: "Section 8528 - Investment of the Fund"
 usc_title: 38
 usc_section: "8528"
 chapter: 85
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "38 U.S.C. § 8528"
-generated_at: "2026-03-30T05:10:59.697Z"
+generated_at: "2026-03-30T05:12:42.899Z"
 status: "active"
 ---
 

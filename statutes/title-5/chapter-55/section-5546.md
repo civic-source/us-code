@@ -3,9 +3,9 @@ title: "Section 5546 - Pay for Sunday and holiday work"
 usc_title: 5
 usc_section: "5546"
 chapter: 55
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "5 U.S.C. § 5546"
-generated_at: "2026-03-30T05:09:39.096Z"
+generated_at: "2026-03-30T05:11:38.392Z"
 status: "active"
 ---
 

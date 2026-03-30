@@ -3,9 +3,9 @@ title: "Section 3056n - Sense of Congress"
 usc_title: 42
 usc_section: "3056n"
 chapter: 35
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 3056n"
-generated_at: "2026-03-30T05:11:14.301Z"
+generated_at: "2026-03-30T05:13:20.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 241242 - Repealed. Oct. 17, 1940, ch. 888 , article V, § 503(3)
 usc_title: 43
 usc_section: "241242"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 241242"
-generated_at: "2026-03-30T05:11:02.466Z"
+generated_at: "2026-03-30T05:12:48.295Z"
 status: "repealed"
 ---
 

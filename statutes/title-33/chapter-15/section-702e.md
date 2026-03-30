@@ -3,9 +3,9 @@ title: "Section 702e - Maps for project; preparation"
 usc_title: 33
 usc_section: "702e"
 chapter: 15
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 702e"
-generated_at: "2026-03-30T05:10:56.028Z"
+generated_at: "2026-03-30T05:12:36.224Z"
 status: "active"
 ---
 

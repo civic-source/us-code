@@ -3,9 +3,9 @@ title: "Section 1194 - Per capita distributions as exempt from taxation"
 usc_title: 25
 usc_section: "1194"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 1194"
-generated_at: "2026-03-30T05:10:37.323Z"
+generated_at: "2026-03-30T05:12:18.425Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 686 - Transferred"
 usc_title: 20
 usc_section: "686"
 chapter: 20
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 686"
-generated_at: "2026-03-30T05:10:30.433Z"
+generated_at: "2026-03-30T05:12:08.733Z"
 status: "transferred"
 ---
 

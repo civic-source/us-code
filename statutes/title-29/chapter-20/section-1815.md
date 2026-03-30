@@ -3,9 +3,9 @@ title: "Section 1815 - Notice of address change; amendment of certificate of reg
 usc_title: 29
 usc_section: "1815"
 chapter: 20
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "29 U.S.C. § 1815"
-generated_at: "2026-03-30T05:10:45.293Z"
+generated_at: "2026-03-30T05:12:23.701Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6337 - Education finance incentive grant program"
 usc_title: 20
 usc_section: "6337"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 6337"
-generated_at: "2026-03-30T05:10:30.522Z"
+generated_at: "2026-03-30T05:12:08.833Z"
 status: "active"
 ---
 
@@ -36,8 +36,8 @@ status: "active"
         - **(IV)** In computing coefficients of variation, the Secretary shall include only those local educational agencies with an enrollment of more than 200 students.
     - **(B)** The equity factor for a State that meets the disparity standard described in section 222.162 of title 34, Code of Federal Regulations (as such section was in effect on the day preceding January 8, 2002 ) or a State with only one local educational agency shall be not greater than 0.10.
 - **(c)** All funds awarded to each State under this section shall be allocated to local educational agencies under the following provisions. Within local educational agencies, funds allocated under this section shall be distributed to schools on a basis consistent with section 6313 of this title , and may only be used to carry out activities under this part. A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if—
-  - **(1)** the number of children in the local educational agency counted under section 6333(c) of this title , before application of the weighted child count described in paragraph (3), is at least 10; and
-  - **(2)** if the number of children counted for grants under section 6333(c) of this title , before application of the weighted child count described in paragraph (3), is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
+  - **(1)** the number of children in the local educational agency counted under section 6333(c) of this title , before application of the weighted child count described in paragraph (3), 1 1 So in original. This subsec. does not contain a par. (3). is at least 10; and
+  - **(2)** if the number of children counted for grants under section 6333(c) of this title , before application of the weighted child count described in paragraph (3), 1 is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
 - **(d)** Funds received by States under this section shall be allocated within States to eligible local educational agencies on the basis of weighted child counts calculated in accordance with paragraph (1), (2), or (3), as appropriate for each State.
   - **(1)** In States with an equity factor less than .10, the weighted child counts referred to in subsection (d) of this section shall be calculated as follows:
     - **(A)**

@@ -3,9 +3,9 @@ title: "Section 2797 - Licensing"
 usc_title: 22
 usc_section: "2797"
 chapter: 39
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 2797"
-generated_at: "2026-03-30T05:10:39.766Z"
+generated_at: "2026-03-30T05:12:20.755Z"
 status: "active"
 ---
 

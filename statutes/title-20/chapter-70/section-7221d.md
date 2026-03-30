@@ -3,9 +3,9 @@ title: "Section 7221d - National activities"
 usc_title: 20
 usc_section: "7221d"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7221d"
-generated_at: "2026-03-30T05:10:30.531Z"
+generated_at: "2026-03-30T05:12:08.843Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(C)** evaluate the impact of the charter school program carried out under this part, including the impact on student achievement.
 - **(b)**
   - **(1)** The Secretary shall make grants, on a competitive basis, to eligible entities having applications approved under paragraph (3) to enable such entities to open and prepare for the operation of one or more replicated high-quality charter schools or to expand one or more high-quality charter schools.
-  - **(2)** For purposes of this subsection, the term ‘eligible entity’ means a charter management organization.
+  - **(2)** For purposes of this subsection, the term “eligible entity” means a charter management organization.
   - **(3)** An eligible entity desiring to receive a grant under this subsection shall submit an application to the Secretary at such time and in such manner as the Secretary may require. The application shall include the following:
     - **(A)** For each charter school currently operated or managed by the eligible entity—
       - **(i)** student assessment results for all students and for each subgroup of students described in section 6311(c)(2) of this title ;

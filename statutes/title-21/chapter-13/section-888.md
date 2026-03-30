@@ -3,9 +3,9 @@ title: "Section 888 - Repealed. Pub. L. 106–185 , § 2(c)(3), Apr. 25, 2000 , 
 usc_title: 21
 usc_section: "888"
 chapter: 13
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "21 U.S.C. § 888"
-generated_at: "2026-03-30T05:10:41.507Z"
+generated_at: "2026-03-30T05:12:17.377Z"
 status: "repealed"
 ---
 

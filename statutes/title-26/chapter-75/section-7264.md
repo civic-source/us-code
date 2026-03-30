@@ -3,9 +3,9 @@ title: "Section 7264 - Repealed. Pub. L. 94–455, title XIX , § 1904(b)(9)(C)(
 usc_title: 26
 usc_section: "7264"
 chapter: 75
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 7264"
-generated_at: "2026-03-30T05:10:51.782Z"
+generated_at: "2026-03-30T05:12:30.068Z"
 status: "repealed"
 ---
 

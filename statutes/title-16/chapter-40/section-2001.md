@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional findings"
 usc_title: 16
 usc_section: "2001"
 chapter: 40
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 2001"
-generated_at: "2026-03-30T05:10:32.706Z"
+generated_at: "2026-03-30T05:12:14.045Z"
 status: "active"
 ---
 

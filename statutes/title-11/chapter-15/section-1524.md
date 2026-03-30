@@ -3,9 +3,9 @@ title: "Section 1524 - Intervention by a foreign representative"
 usc_title: 11
 usc_section: "1524"
 chapter: 15
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "11 U.S.C. § 1524"
-generated_at: "2026-03-30T05:10:07.859Z"
+generated_at: "2026-03-30T05:12:00.877Z"
 status: "active"
 ---
 

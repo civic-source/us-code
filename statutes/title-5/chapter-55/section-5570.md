@@ -3,9 +3,9 @@ title: "Section 5570 - Compensation for disability or death"
 usc_title: 5
 usc_section: "5570"
 chapter: 55
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "5 U.S.C. § 5570"
-generated_at: "2026-03-30T05:09:39.098Z"
+generated_at: "2026-03-30T05:11:38.394Z"
 status: "active"
 ---
 

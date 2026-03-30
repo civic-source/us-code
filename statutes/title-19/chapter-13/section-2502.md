@@ -3,9 +3,9 @@ title: "Section 2502 - Congressional statement of purposes"
 usc_title: 19
 usc_section: "2502"
 chapter: 13
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "19 U.S.C. § 2502"
-generated_at: "2026-03-30T05:10:27.353Z"
+generated_at: "2026-03-30T05:12:09.968Z"
 status: "active"
 ---
 

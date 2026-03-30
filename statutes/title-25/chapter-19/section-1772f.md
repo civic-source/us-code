@@ -3,9 +3,9 @@ title: "Section 1772f - Judicial review"
 usc_title: 25
 usc_section: "1772f"
 chapter: 19
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 1772f"
-generated_at: "2026-03-30T05:10:37.343Z"
+generated_at: "2026-03-30T05:12:18.447Z"
 status: "active"
 ---
 

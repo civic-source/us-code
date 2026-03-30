@@ -3,9 +3,9 @@ title: "Section 3013 - Omitted"
 usc_title: 20
 usc_section: "3013"
 chapter: 47
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 3013"
-generated_at: "2026-03-30T05:10:30.505Z"
+generated_at: "2026-03-30T05:12:08.813Z"
 status: "omitted"
 ---
 

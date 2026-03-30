@@ -3,9 +3,9 @@ title: "Section 1551 - Immigration and Naturalization Service"
 usc_title: 8
 usc_section: "1551"
 chapter: 13
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "8 U.S.C. § 1551"
-generated_at: "2026-03-30T05:09:47.095Z"
+generated_at: "2026-03-30T05:11:40.759Z"
 status: "active"
 ---
 

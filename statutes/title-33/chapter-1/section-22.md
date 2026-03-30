@@ -3,9 +3,9 @@ title: "Section 22 - Bayou Meto, Arkansas"
 usc_title: 33
 usc_section: "22"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "33 U.S.C. § 22"
-generated_at: "2026-03-30T05:10:56.010Z"
+generated_at: "2026-03-30T05:12:36.207Z"
 status: "active"
 ---
 

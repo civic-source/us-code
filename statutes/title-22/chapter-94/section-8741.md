@@ -3,9 +3,9 @@ title: "Section 8741 - Identification of, and imposition of sanctions with respe
 usc_title: 22
 usc_section: "8741"
 chapter: 94
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 8741"
-generated_at: "2026-03-30T05:10:39.827Z"
+generated_at: "2026-03-30T05:12:20.816Z"
 status: "active"
 ---
 

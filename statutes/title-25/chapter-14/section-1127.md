@@ -3,9 +3,9 @@ title: "Section 1127 - Use of appropriated funds; approval by Secretary on recei
 usc_title: 25
 usc_section: "1127"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 1127"
-generated_at: "2026-03-30T05:10:37.322Z"
+generated_at: "2026-03-30T05:12:18.425Z"
 status: "active"
 ---
 

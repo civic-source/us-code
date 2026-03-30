@@ -3,9 +3,9 @@ title: "Section 410ww - Establishment"
 usc_title: 16
 usc_section: "410ww"
 chapter: 1
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 410ww"
-generated_at: "2026-03-30T05:10:32.560Z"
+generated_at: "2026-03-30T05:12:13.897Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 564x - Timber sales"
 usc_title: 25
 usc_section: "564x"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 564x"
-generated_at: "2026-03-30T05:10:37.306Z"
+generated_at: "2026-03-30T05:12:18.407Z"
 status: "active"
 ---
 

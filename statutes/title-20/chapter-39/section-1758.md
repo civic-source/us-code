@@ -3,9 +3,9 @@ title: "Section 1758 - Reasonable time for developing voluntary school desegrega
 usc_title: 20
 usc_section: "1758"
 chapter: 39
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1758"
-generated_at: "2026-03-30T05:10:30.500Z"
+generated_at: "2026-03-30T05:12:08.807Z"
 status: "active"
 ---
 

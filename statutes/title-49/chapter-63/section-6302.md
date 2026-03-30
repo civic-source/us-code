@@ -3,9 +3,9 @@ title: "Section 6302 - Bureau of Transportation Statistics"
 usc_title: 49
 usc_section: "6302"
 chapter: 63
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "49 U.S.C. § 6302"
-generated_at: "2026-03-30T05:11:21.132Z"
+generated_at: "2026-03-30T05:13:46.347Z"
 status: "active"
 ---
 

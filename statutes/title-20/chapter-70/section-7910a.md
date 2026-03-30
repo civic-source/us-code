@@ -3,9 +3,9 @@ title: "Section 7910a - Prohibition on requiring State participation"
 usc_title: 20
 usc_section: "7910a"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7910a"
-generated_at: "2026-03-30T05:10:30.542Z"
+generated_at: "2026-03-30T05:12:08.854Z"
 status: "active"
 ---
 

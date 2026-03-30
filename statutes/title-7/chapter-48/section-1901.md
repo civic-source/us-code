@@ -3,9 +3,9 @@ title: "Section 1901 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "1901"
 chapter: 48
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 1901"
-generated_at: "2026-03-30T05:09:52.096Z"
+generated_at: "2026-03-30T05:11:48.114Z"
 status: "active"
 ---
 

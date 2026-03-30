@@ -3,9 +3,9 @@ title: "Section 1309 - Consultation with Secretary of the Interior; conformity o
 usc_title: 16
 usc_section: "1309"
 chapter: 29
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 1309"
-generated_at: "2026-03-30T05:10:32.681Z"
+generated_at: "2026-03-30T05:12:14.020Z"
 status: "active"
 ---
 

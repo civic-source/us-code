@@ -3,9 +3,9 @@ title: "Section 2812 - Lease-purchase of facilities"
 usc_title: 10
 usc_section: "2812"
 chapter: 169
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 2812"
-generated_at: "2026-03-30T05:09:57.104Z"
+generated_at: "2026-03-30T05:11:54.734Z"
 status: "active"
 ---
 

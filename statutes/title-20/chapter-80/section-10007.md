@@ -3,9 +3,9 @@ title: "Section 10007 - Innovation Fund"
 usc_title: 20
 usc_section: "10007"
 chapter: 80
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 10007"
-generated_at: "2026-03-30T05:10:30.552Z"
+generated_at: "2026-03-30T05:12:08.866Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** work in partnership with the private sector and the philanthropic community.
 - **(b)** To be eligible for such an award, an eligible entity shall—
   - **(1)**
-    - **(A)** have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) of this title ; or
+    - **(A)** have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) 1 1 See References in Text note below. of this title; or
     - **(B)** have demonstrated success in significantly increasing student academic achievement for all groups of students described in such section;
   - **(2)** have made significant improvement in other areas, such as graduation rates or increased recruitment and placement of high-quality teachers and school leaders, as demonstrated with meaningful data; and
   - **(3)** demonstrate that it has established one or more partnerships with the private sector, which may include philanthropic organizations, and that the private sector will provide matching funds in order to help bring results to scale.

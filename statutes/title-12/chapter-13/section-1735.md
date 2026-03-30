@@ -3,9 +3,9 @@ title: "Section 1735 - Payment of certain funds to Treasury"
 usc_title: 12
 usc_section: "1735"
 chapter: 13
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "12 U.S.C. § 1735"
-generated_at: "2026-03-30T05:10:14.872Z"
+generated_at: "2026-03-30T05:12:00.460Z"
 status: "active"
 ---
 

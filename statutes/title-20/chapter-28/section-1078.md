@@ -3,9 +3,9 @@ title: "Section 1078 - Federal payments to reduce student interest costs"
 usc_title: 20
 usc_section: "1078"
 chapter: 28
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1078"
-generated_at: "2026-03-30T05:10:30.453Z"
+generated_at: "2026-03-30T05:12:08.755Z"
 status: "active"
 ---
 
@@ -191,16 +191,16 @@ status: "active"
       - **(ii)** the original principal amount of loans insured by it which have been fully repaid; and
       - **(iii)** the original principal amount insured on those loans for which payment of the first installment of principal has not become due pursuant to subsection (b)(1)(E) of this section or such first installment need not be paid pursuant to subsection (b)(1)(M) of this section.
     - **(D)** Notwithstanding any other provisions of this section, in the case of a loan made pursuant to a lender-of-last-resort program, the Secretary shall apply the provisions of—
-      - **(i)** the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 4 4 See References in Text note below.
+      - **(i)** the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 1
       - **(ii)** subparagraph (B)(i) by substituting “100 percent” for “85 percent”; and
       - **(iii)** subparagraph (B)(ii) by substituting “100 percent” for “75 percent”.
     - **(E)** Notwithstanding any other provisions of this section, in the case of an outstanding loan transferred to a guaranty agency from another guaranty agency pursuant to a plan approved by the Secretary in response to the insolvency of the latter such guarantee agency, the Secretary shall apply the provision of—
-      - **(i)** the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 4
+      - **(i)** the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 1
       - **(ii)** subparagraph (B)(i) by substituting “90 percent” for “85 percent”; and
       - **(iii)** subparagraph (B)(ii) by substituting “80 percent” for “75 percent”.
     - **(F)**
       - **(i)** Notwithstanding any other provisions of this section, in the case of exempt claims, the Secretary shall apply the provisions of—
-        - **(I)** the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 4
+        - **(I)** the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 1
         - **(II)** subparagraph (B)(i) by substituting “100 percent” for “85 percent”; and
         - **(III)** subparagraph (B)(ii) by substituting “100 percent” for “75 percent”.
       - **(ii)** For purposes of clause (i) of this subparagraph, the term “exempt claims” means claims with respect to loans for which it is determined that the borrower (or the student on whose behalf a parent has borrowed), without the lender’s or the institution’s knowledge at the time the loan was made, provided false or erroneous information or took actions that caused the borrower or the student to be ineligible for all or a portion of the loan or for interest benefits thereon.
@@ -334,7 +334,7 @@ status: "active"
     - **(A)** In order to ensure the availability of loan capital, the Secretary is authorized to provide a guaranty agency designated for a State with additional advance funds in accordance with subparagraph (C) and section 1072(c)(7) of this title , with such restrictions on the use of such funds as are determined appropriate by the Secretary, in order to ensure that the guaranty agency will make loans as the lender-of-last-resort. Such agency shall make such loans in accordance with this subsection and the requirements of the Secretary.
     - **(B)** Notwithstanding any other provision in this part, a guaranty agency serving as a lender-of-last-resort under this paragraph shall be paid a fee, established by the Secretary, for making such loans in lieu of interest and special allowance subsidies, and shall be required to assign such loans to the Secretary on demand. Upon such assignment, the portion of the advance represented by the loans assigned shall be considered repaid by such guaranty agency.
     - **(C)** The Secretary shall exercise the authority described in subparagraph (A) only if the Secretary determines that eligible borrowers are seeking and are unable to obtain loans under this part or designates an institution of higher education for participation in the program under this subsection under paragraph (4), and that the guaranty agency designated for that State has the capability to provide lender-of-last-resort loans in a timely manner, in accordance with the guaranty agency’s obligations under paragraph (1), but cannot do so without advances provided by the Secretary under this paragraph. If the Secretary makes the determinations described in the preceding sentence and determines that it would be cost-effective to do so, the Secretary may provide advances under this paragraph to such guaranty agency. If the Secretary determines that such guaranty agency does not have such capability, or will not provide such loans in a timely fashion, the Secretary may provide such advances to enable another guaranty agency, that the Secretary determines to have such capability, to make lender-of-last-resort loans to eligible borrowers in that State who are experiencing loan access problems or to eligible borrowers who attend an institution in the State that is designated under paragraph (4).
-  - **(4)** Upon the request of an institution of higher education and pursuant to standards developed by the Secretary, the Secretary shall designate such institution for participation in the lender-of-last-resort program under this paragraph. 6 6 So in original. Probably should be “subsection.” If the Secretary designates an institution under this paragraph, the guaranty agency designated for the State in which the institution is located shall make loans, in the same manner as such loans are made under paragraph (1), to students and parent borrowers of the designated institution, regardless of whether the students or parent borrowers are otherwise unable to obtain loans under this part (other than a consolidation loan under section 1078–3 of this title ).
+  - **(4)** Upon the request of an institution of higher education and pursuant to standards developed by the Secretary, the Secretary shall designate such institution for participation in the lender-of-last-resort program under this paragraph. 5 5 So in original. Probably should be “subsection.” If the Secretary designates an institution under this paragraph, the guaranty agency designated for the State in which the institution is located shall make loans, in the same manner as such loans are made under paragraph (1), to students and parent borrowers of the designated institution, regardless of whether the students or parent borrowers are otherwise unable to obtain loans under this part (other than a consolidation loan under section 1078–3 of this title ).
   - **(5)** In developing standards with respect to paragraph (4), the Secretary may require—
     - **(A)** an institution of higher education to demonstrate that, despite due diligence on the part of the institution, the institution has been unable to secure the commitment of eligible lenders willing to make loans under this part to a significant number of students attending the institution;
     - **(B)** that, prior to making a request under such paragraph for designation for participation in the lender-of-last-resort program, an institution of higher education shall demonstrate that the institution has met a minimum threshold, as determined by the Secretary, for the number or percentage of students at such institution who have received rejections from eligible lenders for loans under this part; and
@@ -385,4 +385,4 @@ status: "active"
 - **(o)**
   - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest and any special allowance on a loan to a member of the Armed Forces that is made, insured, or guaranteed under this part, the Secretary shall pay the interest and special allowance on such loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest or any special allowance on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the lender shall grant the borrower forbearance in accordance with the guaranty agreement under subsection (c)(3)(A)(i)(IV) of this section.
-  - **(3)** For the purposes of this subsection, the term “special allowance”, 7 7 So in original. The comma probably should not appear. means a special allowance that is payable with respect to a loan under section 1087–1 of this title .
+  - **(3)** For the purposes of this subsection, the term “special allowance”, 6 6 So in original. The comma probably should not appear. means a special allowance that is payable with respect to a loan under section 1087–1 of this title .

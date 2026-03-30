@@ -3,9 +3,9 @@ title: "Section 1616 - Joint Federal-State Land Use Planning Commission for Alas
 usc_title: 43
 usc_section: "1616"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 1616"
-generated_at: "2026-03-30T05:11:02.503Z"
+generated_at: "2026-03-30T05:12:48.333Z"
 status: "active"
 ---
 

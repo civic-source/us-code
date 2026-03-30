@@ -3,9 +3,9 @@ title: "Section 3886 - Repealed. Pub. L. 96–513, title II , § 216, Dec. 12, 1
 usc_title: 10
 usc_section: "3886"
 chapter: 365
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 3886"
-generated_at: "2026-03-30T05:09:57.111Z"
+generated_at: "2026-03-30T05:11:54.742Z"
 status: "repealed"
 ---
 

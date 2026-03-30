@@ -3,9 +3,9 @@ title: "Section 7232 - Study of mandatory rotation of registered public accounti
 usc_title: 15
 usc_section: "7232"
 chapter: 98
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 7232"
-generated_at: "2026-03-30T05:10:23.510Z"
+generated_at: "2026-03-30T05:12:03.030Z"
 status: "active"
 ---
 

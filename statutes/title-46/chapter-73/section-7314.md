@@ -3,9 +3,9 @@ title: "Section 7314 - Service requirements for qualified members of engine depa
 usc_title: 46
 usc_section: "7314"
 chapter: 73
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "46 U.S.C. § 7314"
-generated_at: "2026-03-30T05:11:17.427Z"
+generated_at: "2026-03-30T05:13:26.382Z"
 status: "active"
 ---
 

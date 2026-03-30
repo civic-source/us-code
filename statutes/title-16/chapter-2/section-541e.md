@@ -3,9 +3,9 @@ title: "Section 541e - Availability of funds for acquisition of lands, etc., wit
 usc_title: 16
 usc_section: "541e"
 chapter: 2
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 541e"
-generated_at: "2026-03-30T05:10:32.622Z"
+generated_at: "2026-03-30T05:12:13.960Z"
 status: "active"
 ---
 

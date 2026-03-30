@@ -3,9 +3,9 @@ title: "Section 14097 - Police Corps training"
 usc_title: 42
 usc_section: "14097"
 chapter: 136
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 14097"
-generated_at: "2026-03-30T05:11:14.549Z"
+generated_at: "2026-03-30T05:13:20.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 756 - Investigations, surveys, and experiments; construction and
 usc_title: 16
 usc_section: "756"
 chapter: 9
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "16 U.S.C. § 756"
-generated_at: "2026-03-30T05:10:32.646Z"
+generated_at: "2026-03-30T05:12:13.985Z"
 status: "active"
 ---
 

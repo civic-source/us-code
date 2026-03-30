@@ -3,9 +3,9 @@ title: "Section 414a - Transfer of nonadministrative funds of Commodity Credit C
 usc_title: 7
 usc_section: "414a"
 chapter: 17
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 414a"
-generated_at: "2026-03-30T05:09:52.050Z"
+generated_at: "2026-03-30T05:11:48.068Z"
 status: "active"
 ---
 

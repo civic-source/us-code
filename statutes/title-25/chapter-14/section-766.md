@@ -3,9 +3,9 @@ title: "Section 766 - Tribal reservation"
 usc_title: 25
 usc_section: "766"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 766"
-generated_at: "2026-03-30T05:10:37.317Z"
+generated_at: "2026-03-30T05:12:18.418Z"
 status: "active"
 ---
 

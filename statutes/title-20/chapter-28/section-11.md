@@ -3,9 +3,9 @@ title: "Section 11 - Loan forgiveness for service in areas of national need"
 usc_title: 20
 usc_section: "11"
 chapter: 28
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T05:10:30.456Z"
+generated_at: "2026-03-30T05:12:08.759Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(A)** a public library that serves a geographic area within which the public schools have a combined average of 30 percent or more of the schools’ total student enrollments composed of children meeting a measure of poverty under section 6313(a)(5) of this title ; or
     - **(B)** a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
   - **(5)** The individual—
-    - **(A)** is highly qualified, as such term is defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 [former 20 U.S.C. 7801 ]; and
+    - **(A)** is highly qualified, as such term is defined in section 9101 1 1 See References in Text note below. of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]; and
     - **(B)** is employed full-time—
       - **(i)** as a teacher educating students who are limited English proficient;
       - **(ii)** as a teacher in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school;

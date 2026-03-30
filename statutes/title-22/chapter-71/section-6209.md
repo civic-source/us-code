@@ -3,9 +3,9 @@ title: "Section 6209 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "6209"
 chapter: 71
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "22 U.S.C. § 6209"
-generated_at: "2026-03-30T05:10:39.800Z"
+generated_at: "2026-03-30T05:12:20.788Z"
 status: "repealed"
 ---
 

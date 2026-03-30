@@ -3,9 +3,9 @@ title: "Section 410 - Definitions relating to employment"
 usc_title: 42
 usc_section: "410"
 chapter: 7
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 410"
-generated_at: "2026-03-30T05:11:14.064Z"
+generated_at: "2026-03-30T05:13:19.848Z"
 status: "active"
 ---
 

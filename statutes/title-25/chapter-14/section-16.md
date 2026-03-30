@@ -3,9 +3,9 @@ title: "Section 16 - Provision of Federal Indian services"
 usc_title: 25
 usc_section: "16"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 16"
-generated_at: "2026-03-30T05:10:37.324Z"
+generated_at: "2026-03-30T05:12:18.427Z"
 status: "active"
 ---
 

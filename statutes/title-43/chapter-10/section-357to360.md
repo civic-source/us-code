@@ -3,9 +3,9 @@ title: "Section 357to360 - Repealed. Pub. L. 88–417, § 1 , Aug. 11, 1964 , 78
 usc_title: 43
 usc_section: "357to360"
 chapter: 10
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 357to360"
-generated_at: "2026-03-30T05:11:02.468Z"
+generated_at: "2026-03-30T05:12:48.298Z"
 status: "repealed"
 ---
 

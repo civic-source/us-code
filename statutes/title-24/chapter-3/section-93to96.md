@@ -3,9 +3,9 @@ title: "Section 93to96 - Repealed. Pub. L. 85–857, § 14(16) , (23), (25), Sep
 usc_title: 24
 usc_section: "93to96"
 chapter: 3
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "24 U.S.C. § 93to96"
-generated_at: "2026-03-30T05:10:36.392Z"
+generated_at: "2026-03-30T05:12:15.938Z"
 status: "repealed"
 ---
 

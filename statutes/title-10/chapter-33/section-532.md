@@ -3,9 +3,9 @@ title: "Section 532 - Qualifications for original appointment as a commissioned 
 usc_title: 10
 usc_section: "532"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 532"
-generated_at: "2026-03-30T05:09:57.020Z"
+generated_at: "2026-03-30T05:11:54.653Z"
 status: "active"
 ---
 

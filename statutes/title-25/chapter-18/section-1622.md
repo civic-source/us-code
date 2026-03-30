@@ -3,9 +3,9 @@ title: "Section 1622 - Transferred"
 usc_title: 25
 usc_section: "1622"
 chapter: 18
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 1622"
-generated_at: "2026-03-30T05:10:37.334Z"
+generated_at: "2026-03-30T05:12:18.437Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5153 - Renumbered § 5024]"
 usc_title: 10
 usc_section: "5153"
 chapter: 513
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 5153"
-generated_at: "2026-03-30T05:09:57.118Z"
+generated_at: "2026-03-30T05:11:54.749Z"
 status: "renumbered"
 ---
 

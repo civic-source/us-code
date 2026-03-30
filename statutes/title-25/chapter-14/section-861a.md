@@ -3,9 +3,9 @@ title: "Section 861a - Organization of tribes"
 usc_title: 25
 usc_section: "861a"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 861a"
-generated_at: "2026-03-30T05:10:37.318Z"
+generated_at: "2026-03-30T05:12:18.420Z"
 status: "active"
 ---
 

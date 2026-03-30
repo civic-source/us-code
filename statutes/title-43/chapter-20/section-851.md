@@ -3,9 +3,9 @@ title: "Section 851 - Deficiencies in grants to State by reason of settlements, 
 usc_title: 43
 usc_section: "851"
 chapter: 20
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 851"
-generated_at: "2026-03-30T05:11:02.485Z"
+generated_at: "2026-03-30T05:12:48.315Z"
 status: "active"
 ---
 

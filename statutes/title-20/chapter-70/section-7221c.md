@@ -3,9 +3,9 @@ title: "Section 7221c - Facilities financing assistance"
 usc_title: 20
 usc_section: "7221c"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7221c"
-generated_at: "2026-03-30T05:10:30.531Z"
+generated_at: "2026-03-30T05:12:08.842Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
       - **(v)** a description of the activities carried out by the eligible entity to assist charter schools in meeting the objectives set forth in subsection (e); and
       - **(vi)** a description of the characteristics of lenders and other financial institutions participating in the activities carried out by the eligible entity under this section (excluding subsection (k)) during the reporting period.
     - **(C)** The Secretary shall review the reports submitted under subparagraph (A) and shall provide a comprehensive annual report to Congress on the activities conducted under this section (excluding subsection (k)).
-      - **(i)** No financial obligation of an eligible entity entered into pursuant to this section (such as an obligation under a guarantee, bond, note, evidence of debt, or loan) shall be an obligation of, or guaranteed in any respect by, the United States. The full faith and credit of the United States is not pledged to the payment of funds that may be required to be paid under any obligation made by an eligible entity pursuant to any provision of this section.
+- **(i)** No financial obligation of an eligible entity entered into pursuant to this section (such as an obligation under a guarantee, bond, note, evidence of debt, or loan) shall be an obligation of, or guaranteed in any respect by, the United States. The full faith and credit of the United States is not pledged to the payment of funds that may be required to be paid under any obligation made by an eligible entity pursuant to any provision of this section.
 - **(j)**
   - **(1)** The Secretary, in accordance with chapter 37 of title 31, shall collect—
     - **(A)** all of the funds in a reserve account established by an eligible entity under subsection (f)(1) if the Secretary determines, not earlier than 2 years after the date on which the eligible entity first received funds under subsection (a), that the eligible entity has failed to make substantial progress in carrying out the purposes described in subsection (f)(1); or

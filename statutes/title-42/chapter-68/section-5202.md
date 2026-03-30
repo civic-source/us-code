@@ -3,9 +3,9 @@ title: "Section 5202 - Repealed. Pub. L. 100–707, title I , § 108(c), Nov. 23
 usc_title: 42
 usc_section: "5202"
 chapter: 68
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 5202"
-generated_at: "2026-03-30T05:11:14.350Z"
+generated_at: "2026-03-30T05:13:20.140Z"
 status: "repealed"
 ---
 

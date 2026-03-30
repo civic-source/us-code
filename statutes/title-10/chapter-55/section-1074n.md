@@ -3,9 +3,9 @@ title: "Section 1074n - Annual mental health assessments for members of the arme
 usc_title: 10
 usc_section: "1074n"
 chapter: 55
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "10 U.S.C. § 1074n"
-generated_at: "2026-03-30T05:09:57.040Z"
+generated_at: "2026-03-30T05:11:54.673Z"
 status: "active"
 ---
 

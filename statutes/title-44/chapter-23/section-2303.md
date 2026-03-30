@@ -3,9 +3,9 @@ title: "Section 2303 - Powers and obligations of the Board; liability of members
 usc_title: 44
 usc_section: "2303"
 chapter: 23
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "44 U.S.C. § 2303"
-generated_at: "2026-03-30T05:11:02.886Z"
+generated_at: "2026-03-30T05:12:47.167Z"
 status: "active"
 ---
 

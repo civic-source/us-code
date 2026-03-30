@@ -3,9 +3,9 @@ title: "Section 2242b - Translation of publications into foreign languages"
 usc_title: 7
 usc_section: "2242b"
 chapter: 55
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 2242b"
-generated_at: "2026-03-30T05:09:52.124Z"
+generated_at: "2026-03-30T05:11:48.142Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1683 - Definitions"
 usc_title: 19
 usc_section: "1683"
 chapter: 4
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "19 U.S.C. § 1683"
-generated_at: "2026-03-30T05:10:27.337Z"
+generated_at: "2026-03-30T05:12:09.951Z"
 status: "active"
 ---
 

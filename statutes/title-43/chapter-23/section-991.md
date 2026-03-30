@@ -3,9 +3,9 @@ title: "Section 991 - Title of purchasers of unconfirmed lands in Arkansas confi
 usc_title: 43
 usc_section: "991"
 chapter: 23
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 991"
-generated_at: "2026-03-30T05:11:02.489Z"
+generated_at: "2026-03-30T05:12:48.319Z"
 status: "active"
 ---
 

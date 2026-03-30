@@ -3,9 +3,9 @@ title: "Section 7995 - Assignment of payments"
 usc_title: 7
 usc_section: "7995"
 chapter: 106
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 7995"
-generated_at: "2026-03-30T05:09:52.184Z"
+generated_at: "2026-03-30T05:11:48.256Z"
 status: "active"
 ---
 

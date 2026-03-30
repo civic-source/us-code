@@ -3,9 +3,9 @@ title: "Section 7403 - Action to enforce lien or to subject property to payment 
 usc_title: 26
 usc_section: "7403"
 chapter: 76
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "26 U.S.C. § 7403"
-generated_at: "2026-03-30T05:10:51.783Z"
+generated_at: "2026-03-30T05:12:30.069Z"
 status: "active"
 ---
 

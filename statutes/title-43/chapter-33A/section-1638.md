@@ -3,9 +3,9 @@ title: "Section 1638 - National Environmental Policy Act"
 usc_title: 43
 usc_section: "1638"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 1638"
-generated_at: "2026-03-30T05:11:02.508Z"
+generated_at: "2026-03-30T05:12:48.337Z"
 status: "active"
 ---
 

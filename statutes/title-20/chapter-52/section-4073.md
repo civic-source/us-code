@@ -3,9 +3,9 @@ title: "Section 4073 - Severability"
 usc_title: 20
 usc_section: "4073"
 chapter: 52
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 4073"
-generated_at: "2026-03-30T05:10:30.510Z"
+generated_at: "2026-03-30T05:12:08.819Z"
 status: "active"
 ---
 

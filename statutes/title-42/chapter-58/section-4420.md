@@ -3,9 +3,9 @@ title: "Section 4420 - Repealed. Pub. L. 93–288, title VII , § 703, formerly 
 usc_title: 42
 usc_section: "4420"
 chapter: 58
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "42 U.S.C. § 4420"
-generated_at: "2026-03-30T05:11:14.334Z"
+generated_at: "2026-03-30T05:13:20.123Z"
 status: "repealed"
 ---
 

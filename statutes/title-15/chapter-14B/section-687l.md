@@ -3,9 +3,9 @@ title: "Section 687l - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "687l"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "15 U.S.C. § 687l"
-generated_at: "2026-03-30T05:10:23.413Z"
+generated_at: "2026-03-30T05:12:02.935Z"
 status: "active"
 ---
 

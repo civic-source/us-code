@@ -3,9 +3,9 @@ title: "Section 3901 - Purpose and establishment of the Office of Inspector Gene
 usc_title: 44
 usc_section: "3901"
 chapter: 39
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "44 U.S.C. § 3901"
-generated_at: "2026-03-30T05:11:02.889Z"
+generated_at: "2026-03-30T05:12:47.172Z"
 status: "active"
 ---
 

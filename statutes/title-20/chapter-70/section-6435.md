@@ -3,9 +3,9 @@ title: "Section 6435 - Use of funds"
 usc_title: 20
 usc_section: "6435"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 6435"
-generated_at: "2026-03-30T05:10:30.524Z"
+generated_at: "2026-03-30T05:12:08.835Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
       - **(i)** except for institution-wide projects under section 6436 of this title , are provided to children and youth identified by the State agency as failing, or most at-risk of failing, to meet the challenging State academic standards;
       - **(ii)** respond to the educational needs of such children and youth, including by supplementing and improving the quality of the educational services provided to such children and youth by the State agency; and
       - **(iii)** afford such children and youth an opportunity to meet challenging State academic standards; and
-    - **(C)** shall be carried out in a manner consistent with section 6321 of this title and part F of this subchapter (as applied to programs and projects under this part).
+    - **(C)** shall be carried out in a manner consistent with section 6321 of this title and part F (as applied to programs and projects under this part).
 - **(b)** A program under this subpart that supplements the number of hours of instruction students receive from State and local sources shall be considered to comply with the supplement, not supplant requirement of section 6321 of this title (as applied to this part) without regard to the subject areas in which instruction is given during those hours.

@@ -3,9 +3,9 @@ title: "Section 1137 - Administrative provisions for subparts 1 through 4"
 usc_title: 20
 usc_section: "1137"
 chapter: 28
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 1137"
-generated_at: "2026-03-30T05:10:30.480Z"
+generated_at: "2026-03-30T05:12:08.785Z"
 status: "active"
 ---
 

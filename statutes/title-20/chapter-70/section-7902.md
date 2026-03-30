@@ -3,9 +3,9 @@ title: "Section 7902 - Prohibition regarding State aid"
 usc_title: 20
 usc_section: "7902"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7902"
-generated_at: "2026-03-30T05:10:30.541Z"
+generated_at: "2026-03-30T05:12:08.854Z"
 status: "active"
 ---
 

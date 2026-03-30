@@ -3,9 +3,9 @@ title: "Section 7231 - Availability of nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "7231"
 chapter: 100
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 7231"
-generated_at: "2026-03-30T05:09:52.167Z"
+generated_at: "2026-03-30T05:11:48.238Z"
 status: "active"
 ---
 

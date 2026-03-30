@@ -3,9 +3,9 @@ title: "Section 791to808 - Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76
 usc_title: 43
 usc_section: "791to808"
 chapter: 19
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "43 U.S.C. § 791to808"
-generated_at: "2026-03-30T05:11:02.485Z"
+generated_at: "2026-03-30T05:12:48.315Z"
 status: "repealed"
 ---
 

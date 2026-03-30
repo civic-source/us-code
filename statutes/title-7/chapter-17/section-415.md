@@ -3,9 +3,9 @@ title: "Section 415 - Purchase of seeds and plants for distribution"
 usc_title: 7
 usc_section: "415"
 chapter: 17
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 415"
-generated_at: "2026-03-30T05:09:52.050Z"
+generated_at: "2026-03-30T05:11:48.068Z"
 status: "active"
 ---
 

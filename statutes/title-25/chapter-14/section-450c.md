@@ -3,9 +3,9 @@ title: "Section 450c - Reporting and audit requirements for recipients of Federa
 usc_title: 25
 usc_section: "450c"
 chapter: 14
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "25 U.S.C. § 450c"
-generated_at: "2026-03-30T05:10:37.298Z"
+generated_at: "2026-03-30T05:12:18.397Z"
 status: "active"
 ---
 

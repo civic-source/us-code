@@ -3,9 +3,9 @@ title: "Section 1433b - Processing of surplus agricultural commodities into liqu
 usc_title: 7
 usc_section: "1433b"
 chapter: 35
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "7 U.S.C. § 1433b"
-generated_at: "2026-03-30T05:09:52.074Z"
+generated_at: "2026-03-30T05:11:48.092Z"
 status: "active"
 ---
 

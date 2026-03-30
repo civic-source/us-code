@@ -3,9 +3,9 @@ title: "Section 7426 - Integration of services authorized"
 usc_title: 20
 usc_section: "7426"
 chapter: 70
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "20 U.S.C. § 7426"
-generated_at: "2026-03-30T05:10:30.535Z"
+generated_at: "2026-03-30T05:12:08.846Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
 - **(n)** Nothing in this part shall be construed so as to interfere with the ability of the Secretary or the lead agency to fulfill the responsibilities for the safeguarding of Federal funds pursuant to chapter 75 of title 31.
 - **(o)**
   - **(1)** Not later than 2 years after December 10, 2015 , the Secretary of Education shall submit a preliminary report to the Committee on Education and the Workforce and the Committee on Resources of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Indian Affairs of the Senate on the status of the implementation of the demonstration projects authorized under this section.
-  - **(2)** Not later than 5 years after December 10, 2015 , the Secretary of Education shall submit a report to the Committee on Education and the Workforce and the Committee on Resources of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Indian Affairs of the Senate on the results of the implementation of the demonstration projects authorized under this section. Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section.
+  - **(2)** Not later than 5 years after December 10, 2015 , the Secretary of Education shall submit a report to the Committee on Education and the Workforce and the Committee on Resources of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Indian Affairs of the Senate on the results of the implementation of the demonstration projects authorized under this section.
 - **(p)** For the purposes of this section, the term “Secretary” means—
   - **(1)** the Secretary of the Interior, in the case of an entity meeting the definition of a contract or grant school under title XI of the Education Amendments of 1978 [ 25 U.S.C. 2001 et seq.]; or
   - **(2)** the Secretary of Education, in the case of any other entity.

@@ -3,9 +3,9 @@ title: "Section 3306 - Accommodating federal agencies"
 usc_title: 40
 usc_section: "3306"
 chapter: 33
-current_through: "PL 114-146"
+current_through: "PL 114-150"
 classification: "40 U.S.C. § 3306"
-generated_at: "2026-03-30T05:11:00.050Z"
+generated_at: "2026-03-30T05:12:38.896Z"
 status: "active"
 ---
 
