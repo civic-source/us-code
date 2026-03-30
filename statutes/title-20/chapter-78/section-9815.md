@@ -3,9 +3,9 @@ title: "Section 9815 - General provisions"
 usc_title: 20
 usc_section: "9815"
 chapter: 78
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 9815"
-generated_at: "2026-03-30T05:02:28.978Z"
+generated_at: "2026-03-30T05:05:46.558Z"
 status: "active"
 ---
 

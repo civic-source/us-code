@@ -3,9 +3,9 @@ title: "Section 1960 - Waiver of premium payments on due date"
 usc_title: 38
 usc_section: "1960"
 chapter: 19
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "38 U.S.C. § 1960"
-generated_at: "2026-03-30T05:03:18.383Z"
+generated_at: "2026-03-30T05:06:42.786Z"
 status: "active"
 ---
 

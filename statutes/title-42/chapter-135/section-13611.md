@@ -3,9 +3,9 @@ title: "Section 13611 - Authority"
 usc_title: 42
 usc_section: "13611"
 chapter: 135
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 13611"
-generated_at: "2026-03-30T05:04:26.085Z"
+generated_at: "2026-03-30T05:06:57.925Z"
 status: "active"
 ---
 

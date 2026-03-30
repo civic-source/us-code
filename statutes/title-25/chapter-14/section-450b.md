@@ -3,9 +3,9 @@ title: "Section 450b - Definitions"
 usc_title: 25
 usc_section: "450b"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 450b"
-generated_at: "2026-03-30T05:02:37.676Z"
+generated_at: "2026-03-30T05:05:53.759Z"
 status: "active"
 ---
 

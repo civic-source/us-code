@@ -3,9 +3,9 @@ title: "Section 13110 - National Boating Safety Advisory Council"
 usc_title: 46
 usc_section: "13110"
 chapter: 131
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "46 U.S.C. § 13110"
-generated_at: "2026-03-30T05:04:29.132Z"
+generated_at: "2026-03-30T05:07:02.941Z"
 status: "active"
 ---
 

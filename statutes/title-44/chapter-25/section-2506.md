@@ -3,9 +3,9 @@ title: "Section 2506 - Records to be kept by grantees"
 usc_title: 44
 usc_section: "2506"
 chapter: 25
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "44 U.S.C. § 2506"
-generated_at: "2026-03-30T05:03:27.001Z"
+generated_at: "2026-03-30T05:06:45.664Z"
 status: "active"
 ---
 

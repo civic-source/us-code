@@ -3,9 +3,9 @@ title: "Section 1234 - Enforcement of regulations; use of public or private vess
 usc_title: 33
 usc_section: "1234"
 chapter: 25
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "33 U.S.C. § 1234"
-generated_at: "2026-03-30T05:03:14.648Z"
+generated_at: "2026-03-30T05:06:38.545Z"
 status: "active"
 ---
 

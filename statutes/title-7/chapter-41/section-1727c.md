@@ -3,9 +3,9 @@ title: "Section 1727c - Direct uses or sales of commodities"
 usc_title: 7
 usc_section: "1727c"
 chapter: 41
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 1727c"
-generated_at: "2026-03-30T05:02:12.674Z"
+generated_at: "2026-03-30T05:05:23.940Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 140709 - Records and inspection"
 usc_title: 36
 usc_section: "140709"
 chapter: 1407
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "36 U.S.C. § 140709"
-generated_at: "2026-03-30T05:03:24.827Z"
+generated_at: "2026-03-30T05:06:40.964Z"
 status: "active"
 ---
 

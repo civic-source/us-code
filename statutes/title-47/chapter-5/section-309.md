@@ -3,9 +3,9 @@ title: "Section 309 - Application for license"
 usc_title: 47
 usc_section: "309"
 chapter: 5
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-30T05:04:31.432Z"
+generated_at: "2026-03-30T05:07:00.704Z"
 status: "active"
 ---
 

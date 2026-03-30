@@ -3,9 +3,9 @@ title: "Section 2053 - Research for others; charges"
 usc_title: 42
 usc_section: "2053"
 chapter: 23
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 2053"
-generated_at: "2026-03-30T05:04:25.811Z"
+generated_at: "2026-03-30T05:06:57.650Z"
 status: "active"
 ---
 

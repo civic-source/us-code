@@ -3,9 +3,9 @@ title: "Section 6102 - Program information requirements"
 usc_title: 31
 usc_section: "6102"
 chapter: 61
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "31 U.S.C. § 6102"
-generated_at: "2026-03-30T05:03:08.764Z"
+generated_at: "2026-03-30T05:06:37.559Z"
 status: "active"
 ---
 

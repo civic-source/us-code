@@ -3,9 +3,9 @@ title: "Section 620 - Upper Colorado River Basin; purpose of development of wate
 usc_title: 43
 usc_section: "620"
 chapter: 12
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "43 U.S.C. § 620"
-generated_at: "2026-03-30T05:03:37.124Z"
+generated_at: "2026-03-30T05:06:45.211Z"
 status: "active"
 ---
 

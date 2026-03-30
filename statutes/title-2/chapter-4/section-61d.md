@@ -3,9 +3,9 @@ title: "Section 61d - Transferred"
 usc_title: 2
 usc_section: "61d"
 chapter: 4
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "2 U.S.C. § 61d"
-generated_at: "2026-03-30T05:02:06.313Z"
+generated_at: "2026-03-30T05:05:02.584Z"
 status: "transferred"
 ---
 

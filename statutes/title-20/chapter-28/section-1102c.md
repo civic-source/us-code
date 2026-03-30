@@ -3,9 +3,9 @@ title: "Section 1102c - Application and duration"
 usc_title: 20
 usc_section: "1102c"
 chapter: 28
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 1102c"
-generated_at: "2026-03-30T05:02:28.898Z"
+generated_at: "2026-03-30T05:05:46.480Z"
 status: "active"
 ---
 

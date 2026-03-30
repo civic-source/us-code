@@ -3,9 +3,9 @@ title: "Section 21ato25 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532
 usc_title: 24
 usc_section: "21ato25"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "24 U.S.C. § 21ato25"
-generated_at: "2026-03-30T05:02:39.721Z"
+generated_at: "2026-03-30T05:05:52.558Z"
 status: "repealed"
 ---
 

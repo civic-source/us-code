@@ -3,9 +3,9 @@ title: "Section 17801 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17801"
 chapter: 155
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 17801"
-generated_at: "2026-03-30T05:04:26.145Z"
+generated_at: "2026-03-30T05:06:57.986Z"
 status: "repealed"
 ---
 

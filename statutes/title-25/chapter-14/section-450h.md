@@ -3,9 +3,9 @@ title: "Section 450h - Grants to tribal organizations or tribes"
 usc_title: 25
 usc_section: "450h"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 450h"
-generated_at: "2026-03-30T05:02:37.677Z"
+generated_at: "2026-03-30T05:05:53.759Z"
 status: "active"
 ---
 

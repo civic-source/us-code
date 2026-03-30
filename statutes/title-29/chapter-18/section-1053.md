@@ -3,9 +3,9 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-30T05:02:57.161Z"
+generated_at: "2026-03-30T05:06:34.868Z"
 status: "active"
 ---
 

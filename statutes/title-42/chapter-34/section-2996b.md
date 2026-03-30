@@ -3,9 +3,9 @@ title: "Section 2996b - Legal Services Corporation"
 usc_title: 42
 usc_section: "2996b"
 chapter: 34
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 2996b"
-generated_at: "2026-03-30T05:04:25.830Z"
+generated_at: "2026-03-30T05:06:57.670Z"
 status: "active"
 ---
 

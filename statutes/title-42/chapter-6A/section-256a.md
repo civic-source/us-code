@@ -3,9 +3,9 @@ title: "Section 256a - Patient navigator grants"
 usc_title: 42
 usc_section: "256a"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 256a"
-generated_at: "2026-03-30T05:04:25.478Z"
+generated_at: "2026-03-30T05:06:57.316Z"
 status: "active"
 ---
 

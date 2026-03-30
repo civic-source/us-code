@@ -3,9 +3,9 @@ title: "Section 1780h - Interim management"
 usc_title: 25
 usc_section: "1780h"
 chapter: 19
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1780h"
-generated_at: "2026-03-30T05:02:37.727Z"
+generated_at: "2026-03-30T05:05:53.812Z"
 status: "active"
 ---
 

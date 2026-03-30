@@ -3,9 +3,9 @@ title: "Section 441 - Postal supply contracts"
 usc_title: 18
 usc_section: "441"
 chapter: 23
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "18 U.S.C. § 441"
-generated_at: "2026-03-30T05:02:32.669Z"
+generated_at: "2026-03-30T05:05:41.988Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 422 - Use of funds for certain incidental purposes"
 usc_title: 10
 usc_section: "422"
 chapter: 21
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 422"
-generated_at: "2026-03-30T05:02:16.283Z"
+generated_at: "2026-03-30T05:05:09.971Z"
 status: "active"
 ---
 

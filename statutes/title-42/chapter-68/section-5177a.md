@@ -3,9 +3,9 @@ title: "Section 5177a - Emergency grants to assist low-income migrant and season
 usc_title: 42
 usc_section: "5177a"
 chapter: 68
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 5177a"
-generated_at: "2026-03-30T05:04:25.888Z"
+generated_at: "2026-03-30T05:06:57.730Z"
 status: "active"
 ---
 

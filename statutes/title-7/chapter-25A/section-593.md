@@ -3,9 +3,9 @@ title: "Section 593 - Foreign standards; certification of compliance"
 usc_title: 7
 usc_section: "593"
 chapter: 25
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 593"
-generated_at: "2026-03-30T05:02:12.640Z"
+generated_at: "2026-03-30T05:05:23.905Z"
 status: "active"
 ---
 

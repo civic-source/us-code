@@ -3,9 +3,9 @@ title: "Section 6503 - Suspension of running of period of limitation"
 usc_title: 26
 usc_section: "6503"
 chapter: 66
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 6503"
-generated_at: "2026-03-30T05:02:51.069Z"
+generated_at: "2026-03-30T05:06:33.377Z"
 status: "active"
 ---
 

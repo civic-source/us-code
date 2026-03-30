@@ -3,9 +3,9 @@ title: "Section 6012 - Additional regulations for Marine Corps"
 usc_title: 10
 usc_section: "6012"
 chapter: 555
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 6012"
-generated_at: "2026-03-30T05:02:16.389Z"
+generated_at: "2026-03-30T05:05:10.071Z"
 status: "active"
 ---
 

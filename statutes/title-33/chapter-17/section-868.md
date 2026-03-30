@@ -3,9 +3,9 @@ title: "Section 868 - Repealed. Oct. 31, 1951, ch. 654 , § 1(39), (60), 65 Stat
 usc_title: 33
 usc_section: "868"
 chapter: 17
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "33 U.S.C. § 868"
-generated_at: "2026-03-30T05:03:14.641Z"
+generated_at: "2026-03-30T05:06:38.538Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1318 - Emergencies"
 usc_title: 19
 usc_section: "1318"
 chapter: 4
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "19 U.S.C. § 1318"
-generated_at: "2026-03-30T05:02:27.128Z"
+generated_at: "2026-03-30T05:05:44.218Z"
 status: "active"
 ---
 

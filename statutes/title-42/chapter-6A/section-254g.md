@@ -3,9 +3,9 @@ title: "Section 254g - Charges for services by entities using Corps members"
 usc_title: 42
 usc_section: "254g"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 254g"
-generated_at: "2026-03-30T05:04:25.475Z"
+generated_at: "2026-03-30T05:06:57.313Z"
 status: "active"
 ---
 

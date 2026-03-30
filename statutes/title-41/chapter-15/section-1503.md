@@ -3,9 +3,9 @@ title: "Section 1503 - Contract price adjustment"
 usc_title: 41
 usc_section: "1503"
 chapter: 15
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "41 U.S.C. § 1503"
-generated_at: "2026-03-30T05:03:26.821Z"
+generated_at: "2026-03-30T05:06:44.428Z"
 status: "active"
 ---
 

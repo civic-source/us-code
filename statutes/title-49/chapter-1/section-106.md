@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-30T05:04:36.786Z"
+generated_at: "2026-03-30T05:07:05.715Z"
 status: "active"
 ---
 
@@ -66,12 +66,12 @@ status: "active"
     - **(B)** $9,539,000,000 for fiscal year 2013;
     - **(C)** $9,596,000,000 for fiscal year 2014;
     - **(D)** $9,653,000,000 for fiscal year 2015; and
-    - **(E)** $4,870,350,000 for the period beginning on October 1, 2015 , and ending on March 31, 2016 .
+    - **(E)** $7,711,387,500 for the period beginning on October 1, 2015 , and ending on July 15, 2016 .
   - **(2)** Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
     - **(A)** Such sums as may be necessary for fiscal years 2012 through 2015 to carry out and expand the Air Traffic Control Collegiate Training Initiative.
     - **(B)** Such sums as may be necessary for fiscal years 2012 through 2015 for the completion of the Alaska aviation safety project with respect to the 3 dimensional mapping of Alaska’s main aviation corridors.
     - **(C)** Such sums as may be necessary for fiscal years 2012 through 2015 to carry out the Aviation Safety Reporting System and the development and maintenance of helicopter approach procedures.
-  - **(3)** Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015 and for the period beginning on October 1, 2015 , and ending on March 31, 2016 , if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+  - **(3)** Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015 and for the period beginning on October 1, 2015 , and ending on July 15, 2016 , if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 - **(l)**
   - **(1)** Except as provided in subsections (a) and (g) of section 40122, the Administrator is authorized, in the performance of the functions of the Administrator, to appoint, transfer, and fix the compensation of such officers and employees, including attorneys, as may be necessary to carry out the functions of the Administrator and the Administration. In fixing compensation and benefits of officers and employees, the Administrator shall not engage in any type of bargaining, except to the extent provided for in section 40122(a), nor shall the Administrator be bound by any requirement to establish such compensation or benefits at particular levels.
   - **(2)** The Administrator is authorized to obtain the services of experts and consultants in accordance with section 3109 of title 5 .

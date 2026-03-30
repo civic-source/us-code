@@ -3,9 +3,9 @@ title: "Section 6154 - Mileage books: commutation tickets"
 usc_title: 10
 usc_section: "6154"
 chapter: 561
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 6154"
-generated_at: "2026-03-30T05:02:16.390Z"
+generated_at: "2026-03-30T05:05:10.072Z"
 status: "active"
 ---
 

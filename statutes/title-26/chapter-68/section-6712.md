@@ -3,9 +3,9 @@ title: "Section 6712 - Failure to disclose treaty-based return positions"
 usc_title: 26
 usc_section: "6712"
 chapter: 68
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 6712"
-generated_at: "2026-03-30T05:02:51.075Z"
+generated_at: "2026-03-30T05:06:33.383Z"
 status: "active"
 ---
 

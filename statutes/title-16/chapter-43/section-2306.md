@@ -3,9 +3,9 @@ title: "Section 2306 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2306"
 chapter: 43
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 2306"
-generated_at: "2026-03-30T05:02:31.703Z"
+generated_at: "2026-03-30T05:05:48.940Z"
 status: "repealed"
 ---
 

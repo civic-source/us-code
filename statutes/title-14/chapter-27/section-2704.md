@@ -3,9 +3,9 @@ title: "Section 2704 - Authorized levels of military strength and training"
 usc_title: 14
 usc_section: "2704"
 chapter: 27
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "14 U.S.C. § 2704"
-generated_at: "2026-03-30T05:02:18.519Z"
+generated_at: "2026-03-30T05:05:26.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 566 - Restoration of Federal recognition, rights, and privileges
 usc_title: 25
 usc_section: "566"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 566"
-generated_at: "2026-03-30T05:02:37.685Z"
+generated_at: "2026-03-30T05:05:53.768Z"
 status: "active"
 ---
 

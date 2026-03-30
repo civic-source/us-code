@@ -3,9 +3,9 @@ title: "Section 2515 - Prohibition of use as evidence of intercepted wire or ora
 usc_title: 18
 usc_section: "2515"
 chapter: 119
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "18 U.S.C. § 2515"
-generated_at: "2026-03-30T05:02:32.705Z"
+generated_at: "2026-03-30T05:05:42.020Z"
 status: "active"
 ---
 

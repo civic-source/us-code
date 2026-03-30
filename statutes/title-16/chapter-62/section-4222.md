@@ -3,9 +3,9 @@ title: "Section 4222 - Moratoria"
 usc_title: 16
 usc_section: "4222"
 chapter: 62
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 4222"
-generated_at: "2026-03-30T05:02:31.730Z"
+generated_at: "2026-03-30T05:05:48.964Z"
 status: "active"
 ---
 

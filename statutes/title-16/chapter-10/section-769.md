@@ -3,9 +3,9 @@ title: "Section 769 - Omitted"
 usc_title: 16
 usc_section: "769"
 chapter: 10
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 769"
-generated_at: "2026-03-30T05:02:31.636Z"
+generated_at: "2026-03-30T05:05:48.880Z"
 status: "omitted"
 ---
 

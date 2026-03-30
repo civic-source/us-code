@@ -3,9 +3,9 @@ title: "Section 1451 - Assignment of Government employees to requesting countrie
 usc_title: 22
 usc_section: "1451"
 chapter: 18
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 1451"
-generated_at: "2026-03-30T05:02:39.549Z"
+generated_at: "2026-03-30T05:06:16.007Z"
 status: "active"
 ---
 

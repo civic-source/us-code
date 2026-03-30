@@ -3,9 +3,9 @@ title: "Section 5607a - Environmental Dispute Resolution Fund"
 usc_title: 20
 usc_section: "5607a"
 chapter: 66
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 5607a"
-generated_at: "2026-03-30T05:02:28.939Z"
+generated_at: "2026-03-30T05:05:46.519Z"
 status: "active"
 ---
 

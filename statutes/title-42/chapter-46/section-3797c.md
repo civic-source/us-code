@@ -3,9 +3,9 @@ title: "Section 3797c - Annual report to Congress"
 usc_title: 42
 usc_section: "3797c"
 chapter: 46
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 3797c"
-generated_at: "2026-03-30T05:04:25.859Z"
+generated_at: "2026-03-30T05:06:57.700Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4404 - Report on actions taken by United States Trade Representa
 usc_title: 19
 usc_section: "4404"
 chapter: 28
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "19 U.S.C. § 4404"
-generated_at: "2026-03-30T05:02:27.190Z"
+generated_at: "2026-03-30T05:05:44.284Z"
 status: "active"
 ---
 

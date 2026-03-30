@@ -3,9 +3,9 @@ title: "Section 2879 - Repealed. Pub. L. 107–314, div. B, title XXVIII , § 28
 usc_title: 10
 usc_section: "2879"
 chapter: 169
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 2879"
-generated_at: "2026-03-30T05:02:16.375Z"
+generated_at: "2026-03-30T05:05:10.058Z"
 status: "repealed"
 ---
 

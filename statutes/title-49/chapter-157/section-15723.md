@@ -3,9 +3,9 @@ title: "Section 15723 - Reports by carriers, lessors, and associations"
 usc_title: 49
 usc_section: "15723"
 chapter: 157
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "49 U.S.C. § 15723"
-generated_at: "2026-03-30T05:04:36.815Z"
+generated_at: "2026-03-30T05:07:05.755Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8545 - Repealed. Pub. L. 90–235 , § 4(a)(6), (b)(1), Jan. 2, 
 usc_title: 10
 usc_section: "8545"
 chapter: 843
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 8545"
-generated_at: "2026-03-30T05:02:16.401Z"
+generated_at: "2026-03-30T05:05:10.083Z"
 status: "repealed"
 ---
 

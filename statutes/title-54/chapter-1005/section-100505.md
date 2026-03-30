@@ -3,9 +3,9 @@ title: "Section 100505 - Periodic review of System"
 usc_title: 54
 usc_section: "100505"
 chapter: 1005
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "54 U.S.C. § 100505"
-generated_at: "2026-03-30T05:04:40.059Z"
+generated_at: "2026-03-30T05:07:07.946Z"
 status: "active"
 ---
 

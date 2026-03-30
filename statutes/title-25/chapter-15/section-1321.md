@@ -3,9 +3,9 @@ title: "Section 1321 - Assumption by State of criminal jurisdiction"
 usc_title: 25
 usc_section: "1321"
 chapter: 15
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1321"
-generated_at: "2026-03-30T05:02:37.708Z"
+generated_at: "2026-03-30T05:05:53.792Z"
 status: "active"
 ---
 

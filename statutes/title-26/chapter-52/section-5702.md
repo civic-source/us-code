@@ -3,9 +3,9 @@ title: "Section 5702 - Definitions"
 usc_title: 26
 usc_section: "5702"
 chapter: 52
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 5702"
-generated_at: "2026-03-30T05:02:51.043Z"
+generated_at: "2026-03-30T05:06:33.351Z"
 status: "active"
 ---
 

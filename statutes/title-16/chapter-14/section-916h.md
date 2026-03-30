@@ -3,9 +3,9 @@ title: "Section 916h - Cooperation between Federal and State and private agencie
 usc_title: 16
 usc_section: "916h"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 916h"
-generated_at: "2026-03-30T05:02:31.656Z"
+generated_at: "2026-03-30T05:05:48.898Z"
 status: "active"
 ---
 

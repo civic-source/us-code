@@ -3,9 +3,9 @@ title: "Section 742 - Powers and duties of Corporation"
 usc_title: 45
 usc_section: "742"
 chapter: 16
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "45 U.S.C. § 742"
-generated_at: "2026-03-30T05:03:27.219Z"
+generated_at: "2026-03-30T05:06:45.908Z"
 status: "active"
 ---
 

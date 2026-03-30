@@ -3,9 +3,9 @@ title: "Section 119 - Protection of individuals performing certain official duti
 usc_title: 18
 usc_section: "119"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "18 U.S.C. § 119"
-generated_at: "2026-03-30T05:02:32.664Z"
+generated_at: "2026-03-30T05:05:41.983Z"
 status: "active"
 ---
 

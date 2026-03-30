@@ -3,9 +3,9 @@ title: "Section 3204 - Exceptions"
 usc_title: 12
 usc_section: "3204"
 chapter: 33
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "12 U.S.C. § 3204"
-generated_at: "2026-03-30T05:02:21.772Z"
+generated_at: "2026-03-30T05:05:35.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3702 - Basic entitlement"
 usc_title: 38
 usc_section: "3702"
 chapter: 37
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "38 U.S.C. § 3702"
-generated_at: "2026-03-30T05:03:18.397Z"
+generated_at: "2026-03-30T05:06:42.801Z"
 status: "active"
 ---
 

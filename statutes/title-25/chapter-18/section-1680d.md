@@ -3,9 +3,9 @@ title: "Section 1680d - Infant and maternal mortality; fetal alcohol syndrome"
 usc_title: 25
 usc_section: "1680d"
 chapter: 18
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1680d"
-generated_at: "2026-03-30T05:02:37.719Z"
+generated_at: "2026-03-30T05:05:53.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 735 - Relationship to other laws"
 usc_title: 31
 usc_section: "735"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "31 U.S.C. § 735"
-generated_at: "2026-03-30T05:03:08.746Z"
+generated_at: "2026-03-30T05:06:37.537Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(1), 
 usc_title: 8
 usc_section: "10"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "8 U.S.C. § 10"
-generated_at: "2026-03-30T05:02:10.006Z"
+generated_at: "2026-03-30T05:05:05.585Z"
 status: "repealed"
 ---
 

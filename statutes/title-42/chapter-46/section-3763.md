@@ -3,9 +3,9 @@ title: "Section 3763 - Application requirements"
 usc_title: 42
 usc_section: "3763"
 chapter: 46
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 3763"
-generated_at: "2026-03-30T05:04:25.852Z"
+generated_at: "2026-03-30T05:06:57.693Z"
 status: "active"
 ---
 

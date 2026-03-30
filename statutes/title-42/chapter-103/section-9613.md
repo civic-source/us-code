@@ -3,9 +3,9 @@ title: "Section 9613 - Civil proceedings"
 usc_title: 42
 usc_section: "9613"
 chapter: 103
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 9613"
-generated_at: "2026-03-30T05:04:26.004Z"
+generated_at: "2026-03-30T05:06:57.845Z"
 status: "active"
 ---
 

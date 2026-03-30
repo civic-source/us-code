@@ -3,9 +3,9 @@ title: "Section 1756 - Regulations"
 usc_title: 19
 usc_section: "1756"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "19 U.S.C. § 1756"
-generated_at: "2026-03-30T05:02:27.151Z"
+generated_at: "2026-03-30T05:05:44.241Z"
 status: "active"
 ---
 

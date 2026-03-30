@@ -3,9 +3,9 @@ title: "Section 1183 - Equal share distribution"
 usc_title: 25
 usc_section: "1183"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1183"
-generated_at: "2026-03-30T05:02:37.702Z"
+generated_at: "2026-03-30T05:05:53.786Z"
 status: "active"
 ---
 

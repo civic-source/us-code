@@ -3,9 +3,9 @@ title: "Section 8926 - Expanded nonmilitary assistance for Ukraine"
 usc_title: 22
 usc_section: "8926"
 chapter: 96
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 8926"
-generated_at: "2026-03-30T05:02:39.658Z"
+generated_at: "2026-03-30T05:06:16.110Z"
 status: "active"
 ---
 

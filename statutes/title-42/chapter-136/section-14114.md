@@ -3,9 +3,9 @@ title: "Section 14114 - Scholarships"
 usc_title: 42
 usc_section: "14114"
 chapter: 136
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 14114"
-generated_at: "2026-03-30T05:04:26.096Z"
+generated_at: "2026-03-30T05:06:57.937Z"
 status: "active"
 ---
 

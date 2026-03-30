@@ -3,9 +3,9 @@ title: "Section 415d - Transferred"
 usc_title: 50
 usc_section: "415d"
 chapter: 15
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "50 U.S.C. § 415d"
-generated_at: "2026-03-30T05:04:33.713Z"
+generated_at: "2026-03-30T05:07:02.178Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 834 - Art. 34. Advice of staff judge advocate and reference for 
 usc_title: 10
 usc_section: "834"
 chapter: 47
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 834"
-generated_at: "2026-03-30T05:02:16.294Z"
+generated_at: "2026-03-30T05:05:09.982Z"
 status: "active"
 ---
 

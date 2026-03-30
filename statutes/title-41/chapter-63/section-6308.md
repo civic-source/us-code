@@ -3,9 +3,9 @@ title: "Section 6308 - Contracts for transportation of Federal Government securi
 usc_title: 41
 usc_section: "6308"
 chapter: 63
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "41 U.S.C. § 6308"
-generated_at: "2026-03-30T05:03:26.827Z"
+generated_at: "2026-03-30T05:06:44.435Z"
 status: "active"
 ---
 

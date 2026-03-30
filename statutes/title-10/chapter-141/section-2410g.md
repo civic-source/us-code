@@ -3,9 +3,9 @@ title: "Section 2410g - Advance notification of contract performance outside the
 usc_title: 10
 usc_section: "2410g"
 chapter: 141
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 2410g"
-generated_at: "2026-03-30T05:02:16.355Z"
+generated_at: "2026-03-30T05:05:10.039Z"
 status: "active"
 ---
 

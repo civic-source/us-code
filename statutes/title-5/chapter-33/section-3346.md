@@ -3,9 +3,9 @@ title: "Section 3346 - Time limitation"
 usc_title: 5
 usc_section: "3346"
 chapter: 33
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "5 U.S.C. § 3346"
-generated_at: "2026-03-30T05:02:07.556Z"
+generated_at: "2026-03-30T05:04:55.923Z"
 status: "active"
 ---
 

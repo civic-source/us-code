@@ -3,9 +3,9 @@ title: "Section 705 - Determination of basis of partner’s interest"
 usc_title: 26
 usc_section: "705"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 705"
-generated_at: "2026-03-30T05:02:50.880Z"
+generated_at: "2026-03-30T05:06:33.261Z"
 status: "active"
 ---
 

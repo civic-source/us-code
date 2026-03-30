@@ -3,9 +3,9 @@ title: "Section 48101 - Air navigation facilities and equipment"
 usc_title: 49
 usc_section: "48101"
 chapter: 481
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "49 U.S.C. § 48101"
-generated_at: "2026-03-30T05:04:36.863Z"
+generated_at: "2026-03-30T05:07:05.812Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** $2,715,000,000 for fiscal year 2013.
   - **(3)** $2,730,000,000 for fiscal year 2014.
   - **(4)** $2,730,000,000 for fiscal year 2015.
-  - **(5)** $1,300,000,000 for the period beginning on October 1, 2015 , and ending on March 31, 2016 .
+  - **(5)** $2,058,333,333 for the period beginning on October 1, 2015 , and ending on July 15, 2016 .
 - **(b)** Amounts appropriated under this section remain available until expended.
 - **(c)** Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
 - **(d)** The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.

@@ -3,9 +3,9 @@ title: "Section 211to224 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "211to224"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "43 U.S.C. § 211to224"
-generated_at: "2026-03-30T05:03:37.106Z"
+generated_at: "2026-03-30T05:06:45.194Z"
 status: "repealed"
 ---
 

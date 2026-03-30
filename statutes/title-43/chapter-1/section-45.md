@@ -3,9 +3,9 @@ title: "Section 45 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 43
 usc_section: "45"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "43 U.S.C. § 45"
-generated_at: "2026-03-30T05:03:37.104Z"
+generated_at: "2026-03-30T05:06:45.191Z"
 status: "repealed"
 ---
 

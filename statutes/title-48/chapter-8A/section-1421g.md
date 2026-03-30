@@ -3,9 +3,9 @@ title: "Section 1421g - Establishment and maintenance of public bodies and offic
 usc_title: 48
 usc_section: "1421g"
 chapter: 8
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "48 U.S.C. § 1421g"
-generated_at: "2026-03-30T05:04:29.481Z"
+generated_at: "2026-03-30T05:07:01.017Z"
 status: "active"
 ---
 

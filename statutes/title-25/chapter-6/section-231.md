@@ -3,9 +3,9 @@ title: "Section 231 - Enforcement of State laws affecting health and education; 
 usc_title: 25
 usc_section: "231"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 231"
-generated_at: "2026-03-30T05:02:37.668Z"
+generated_at: "2026-03-30T05:05:53.750Z"
 status: "active"
 ---
 

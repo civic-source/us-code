@@ -3,9 +3,9 @@ title: "Section 457 - Reimbursement to school districts for educating non-reside
 usc_title: 25
 usc_section: "457"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 457"
-generated_at: "2026-03-30T05:02:37.679Z"
+generated_at: "2026-03-30T05:05:53.761Z"
 status: "active"
 ---
 

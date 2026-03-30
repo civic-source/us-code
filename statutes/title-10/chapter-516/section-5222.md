@@ -3,9 +3,9 @@ title: "Section 5222 - Repealed. Pub. L. 95–82, title VI , § 611(a), Aug. 1, 
 usc_title: 10
 usc_section: "5222"
 chapter: 516
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 5222"
-generated_at: "2026-03-30T05:02:16.388Z"
+generated_at: "2026-03-30T05:05:10.070Z"
 status: "repealed"
 ---
 

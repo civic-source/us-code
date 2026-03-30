@@ -3,9 +3,9 @@ title: "Section 10008 - State reports"
 usc_title: 20
 usc_section: "10008"
 chapter: 80
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 10008"
-generated_at: "2026-03-30T05:02:28.979Z"
+generated_at: "2026-03-30T05:05:46.559Z"
 status: "active"
 ---
 

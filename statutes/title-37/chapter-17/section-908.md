@@ -3,9 +3,9 @@ title: "Section 908 - Employment of reserves and retired members by foreign gove
 usc_title: 37
 usc_section: "908"
 chapter: 17
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "37 U.S.C. § 908"
-generated_at: "2026-03-30T05:03:18.805Z"
+generated_at: "2026-03-30T05:06:40.451Z"
 status: "active"
 ---
 

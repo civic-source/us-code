@@ -3,9 +3,9 @@ title: "Section 4906 - Establishment of Data Bank"
 usc_title: 15
 usc_section: "4906"
 chapter: 75
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "15 U.S.C. § 4906"
-generated_at: "2026-03-30T05:02:23.775Z"
+generated_at: "2026-03-30T05:05:38.769Z"
 status: "active"
 ---
 

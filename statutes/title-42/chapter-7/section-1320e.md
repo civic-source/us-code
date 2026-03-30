@@ -3,9 +3,9 @@ title: "Section 1320e - Comparative clinical effectiveness research"
 usc_title: 42
 usc_section: "1320e"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 1320e"
-generated_at: "2026-03-30T05:04:25.640Z"
+generated_at: "2026-03-30T05:06:57.472Z"
 status: "active"
 ---
 

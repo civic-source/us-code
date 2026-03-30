@@ -3,9 +3,9 @@ title: "Section 505 - Demonstration projects"
 usc_title: 42
 usc_section: "505"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 505"
-generated_at: "2026-03-30T05:04:25.600Z"
+generated_at: "2026-03-30T05:06:57.432Z"
 status: "active"
 ---
 

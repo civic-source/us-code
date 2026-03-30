@@ -3,9 +3,9 @@ title: "Section 2711 - Management contracts"
 usc_title: 25
 usc_section: "2711"
 chapter: 29
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 2711"
-generated_at: "2026-03-30T05:02:37.740Z"
+generated_at: "2026-03-30T05:05:53.825Z"
 status: "active"
 ---
 

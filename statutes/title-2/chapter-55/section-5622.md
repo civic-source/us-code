@@ -3,9 +3,9 @@ title: "Section 5622 - Lump sum allowance for Corrections Calendar Office"
 usc_title: 2
 usc_section: "5622"
 chapter: 55
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "2 U.S.C. § 5622"
-generated_at: "2026-03-30T05:02:06.354Z"
+generated_at: "2026-03-30T05:05:02.622Z"
 status: "active"
 ---
 

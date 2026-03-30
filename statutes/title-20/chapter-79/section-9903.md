@@ -3,9 +3,9 @@ title: "Section 9903 - Grant program"
 usc_title: 20
 usc_section: "9903"
 chapter: 79
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 9903"
-generated_at: "2026-03-30T05:02:28.979Z"
+generated_at: "2026-03-30T05:05:46.558Z"
 status: "active"
 ---
 

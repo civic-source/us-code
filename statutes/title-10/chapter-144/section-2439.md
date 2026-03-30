@@ -3,9 +3,9 @@ title: "Section 2439 - Repealed. Pub. L. 103–355, title III , § 3007(a), Oct.
 usc_title: 10
 usc_section: "2439"
 chapter: 144
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 2439"
-generated_at: "2026-03-30T05:02:16.357Z"
+generated_at: "2026-03-30T05:05:10.041Z"
 status: "repealed"
 ---
 

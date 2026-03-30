@@ -3,9 +3,9 @@ title: "Section 281k - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 22
 usc_section: "281k"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 281k"
-generated_at: "2026-03-30T05:02:39.534Z"
+generated_at: "2026-03-30T05:06:15.991Z"
 status: "repealed"
 ---
 

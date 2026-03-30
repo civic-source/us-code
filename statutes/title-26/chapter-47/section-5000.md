@@ -3,9 +3,9 @@ title: "Section 5000 - Certain group health plans"
 usc_title: 26
 usc_section: "5000"
 chapter: 47
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 5000"
-generated_at: "2026-03-30T05:02:51.035Z"
+generated_at: "2026-03-30T05:06:33.343Z"
 status: "active"
 ---
 

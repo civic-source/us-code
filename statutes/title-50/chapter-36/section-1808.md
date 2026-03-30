@@ -3,9 +3,9 @@ title: "Section 1808 - Report of Attorney General to Congressional committees; l
 usc_title: 50
 usc_section: "1808"
 chapter: 36
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "50 U.S.C. § 1808"
-generated_at: "2026-03-30T05:04:33.719Z"
+generated_at: "2026-03-30T05:07:02.183Z"
 status: "active"
 ---
 

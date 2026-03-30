@@ -3,9 +3,9 @@ title: "Section 1141b - General powers of Farm Credit Administration"
 usc_title: 12
 usc_section: "1141b"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "12 U.S.C. § 1141b"
-generated_at: "2026-03-30T05:02:21.677Z"
+generated_at: "2026-03-30T05:05:35.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Disposition of infrastructure related to E–LORAN"
 usc_title: 14
 usc_section: "1"
 chapter: 17
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-30T05:02:18.518Z"
+generated_at: "2026-03-30T05:05:26.105Z"
 status: "active"
 ---
 

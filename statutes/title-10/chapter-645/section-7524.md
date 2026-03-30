@@ -3,9 +3,9 @@ title: "Section 7524 - Marine mammals: use for national defense purposes"
 usc_title: 10
 usc_section: "7524"
 chapter: 645
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 7524"
-generated_at: "2026-03-30T05:02:16.397Z"
+generated_at: "2026-03-30T05:05:10.079Z"
 status: "active"
 ---
 

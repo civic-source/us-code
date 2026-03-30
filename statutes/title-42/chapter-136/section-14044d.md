@@ -3,9 +3,9 @@ title: "Section 14044d - Senior Policy Operating Group"
 usc_title: 42
 usc_section: "14044d"
 chapter: 136
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 14044d"
-generated_at: "2026-03-30T05:04:26.095Z"
+generated_at: "2026-03-30T05:06:57.935Z"
 status: "active"
 ---
 

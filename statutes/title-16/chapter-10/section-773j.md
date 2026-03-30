@@ -3,9 +3,9 @@ title: "Section 773j - Authorization of appropriations"
 usc_title: 16
 usc_section: "773j"
 chapter: 10
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 773j"
-generated_at: "2026-03-30T05:02:31.637Z"
+generated_at: "2026-03-30T05:05:48.881Z"
 status: "active"
 ---
 

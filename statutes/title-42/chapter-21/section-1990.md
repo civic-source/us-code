@@ -3,9 +3,9 @@ title: "Section 1990 - Marshal to obey precepts; refusing to receive or execute 
 usc_title: 42
 usc_section: "1990"
 chapter: 21
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 1990"
-generated_at: "2026-03-30T05:04:25.801Z"
+generated_at: "2026-03-30T05:06:57.640Z"
 status: "active"
 ---
 

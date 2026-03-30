@@ -3,9 +3,9 @@ title: "Section 7266 - Enhanced review of periodic disclosures by issuers"
 usc_title: 15
 usc_section: "7266"
 chapter: 98
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "15 U.S.C. § 7266"
-generated_at: "2026-03-30T05:02:23.791Z"
+generated_at: "2026-03-30T05:05:38.784Z"
 status: "active"
 ---
 

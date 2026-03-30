@@ -3,9 +3,9 @@ title: "Section 1784 - Examination of insured credit unions"
 usc_title: 12
 usc_section: "1784"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "12 U.S.C. § 1784"
-generated_at: "2026-03-30T05:02:21.721Z"
+generated_at: "2026-03-30T05:05:35.089Z"
 status: "active"
 ---
 

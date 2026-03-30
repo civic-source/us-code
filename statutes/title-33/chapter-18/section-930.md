@@ -3,9 +3,9 @@ title: "Section 930 - Reports to Secretary"
 usc_title: 33
 usc_section: "930"
 chapter: 18
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "33 U.S.C. § 930"
-generated_at: "2026-03-30T05:03:14.645Z"
+generated_at: "2026-03-30T05:06:38.541Z"
 status: "active"
 ---
 

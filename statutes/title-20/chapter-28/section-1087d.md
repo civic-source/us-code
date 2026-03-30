@@ -3,9 +3,9 @@ title: "Section 1087d - Agreements with institutions"
 usc_title: 20
 usc_section: "1087d"
 chapter: 28
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 1087d"
-generated_at: "2026-03-30T05:02:28.882Z"
+generated_at: "2026-03-30T05:05:46.465Z"
 status: "active"
 ---
 

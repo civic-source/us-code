@@ -3,9 +3,9 @@ title: "Section 16378 - Repealed. Pub. L. 113–67, div. A, title III , § 301(a
 usc_title: 42
 usc_section: "16378"
 chapter: 149
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 16378"
-generated_at: "2026-03-30T05:04:26.125Z"
+generated_at: "2026-03-30T05:06:57.966Z"
 status: "repealed"
 ---
 

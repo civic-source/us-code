@@ -3,9 +3,9 @@ title: "Section 14502 - Preemption and election of State nonapplicability"
 usc_title: 42
 usc_section: "14502"
 chapter: 139
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 14502"
-generated_at: "2026-03-30T05:04:26.101Z"
+generated_at: "2026-03-30T05:06:57.942Z"
 status: "active"
 ---
 

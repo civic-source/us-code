@@ -3,9 +3,9 @@ title: "Section 12771 - Set-aside for community housing development organization
 usc_title: 42
 usc_section: "12771"
 chapter: 130
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 12771"
-generated_at: "2026-03-30T05:04:26.069Z"
+generated_at: "2026-03-30T05:06:57.909Z"
 status: "active"
 ---
 

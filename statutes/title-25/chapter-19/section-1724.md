@@ -3,9 +3,9 @@ title: "Section 1724 - Maine Indian Claims Settlement and Land Acquisition Funds
 usc_title: 25
 usc_section: "1724"
 chapter: 19
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1724"
-generated_at: "2026-03-30T05:02:37.721Z"
+generated_at: "2026-03-30T05:05:53.805Z"
 status: "active"
 ---
 

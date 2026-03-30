@@ -3,9 +3,9 @@ title: "Section 12731a - Temporary special retirement qualification authority"
 usc_title: 10
 usc_section: "12731a"
 chapter: 1223
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 12731a"
-generated_at: "2026-03-30T05:02:16.414Z"
+generated_at: "2026-03-30T05:05:10.096Z"
 status: "active"
 ---
 

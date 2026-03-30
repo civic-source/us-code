@@ -3,9 +3,9 @@ title: "Section 5111 - Minting and issuing coins, medals, and numismatic items"
 usc_title: 31
 usc_section: "5111"
 chapter: 51
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "31 U.S.C. § 5111"
-generated_at: "2026-03-30T05:03:08.759Z"
+generated_at: "2026-03-30T05:06:37.553Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14 - Definitions"
 usc_title: 20
 usc_section: "14"
 chapter: 3
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T05:02:28.847Z"
+generated_at: "2026-03-30T05:05:46.433Z"
 status: "active"
 ---
 

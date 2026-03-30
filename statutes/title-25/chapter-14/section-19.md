@@ -3,9 +3,9 @@ title: "Section 19 - Perpetual use of Cliff Spring as shrine for religious cerem
 usc_title: 25
 usc_section: "19"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 19"
-generated_at: "2026-03-30T05:02:37.689Z"
+generated_at: "2026-03-30T05:05:53.772Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4341a - Cadets: appointment by the President"
 usc_title: 10
 usc_section: "4341a"
 chapter: 403
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 4341a"
-generated_at: "2026-03-30T05:02:16.382Z"
+generated_at: "2026-03-30T05:05:10.065Z"
 status: "active"
 ---
 

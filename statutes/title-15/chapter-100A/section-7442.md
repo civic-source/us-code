@@ -3,9 +3,9 @@ title: "Section 7442 - Federal Cyber Scholarship-for-Service Program"
 usc_title: 15
 usc_section: "7442"
 chapter: 100
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "15 U.S.C. § 7442"
-generated_at: "2026-03-30T05:02:23.792Z"
+generated_at: "2026-03-30T05:05:38.785Z"
 status: "active"
 ---
 

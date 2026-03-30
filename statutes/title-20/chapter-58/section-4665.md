@@ -3,9 +3,9 @@ title: "Section 4665 - Transferred"
 usc_title: 20
 usc_section: "4665"
 chapter: 58
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 4665"
-generated_at: "2026-03-30T05:02:28.936Z"
+generated_at: "2026-03-30T05:05:46.517Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7351 - Gifts to superiors"
 usc_title: 5
 usc_section: "7351"
 chapter: 73
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "5 U.S.C. § 7351"
-generated_at: "2026-03-30T05:02:07.579Z"
+generated_at: "2026-03-30T05:04:55.946Z"
 status: "active"
 ---
 

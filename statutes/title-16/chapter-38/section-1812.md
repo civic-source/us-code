@@ -3,9 +3,9 @@ title: "Section 1812 - Highly migratory species"
 usc_title: 16
 usc_section: "1812"
 chapter: 38
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 1812"
-generated_at: "2026-03-30T05:02:31.691Z"
+generated_at: "2026-03-30T05:05:48.929Z"
 status: "active"
 ---
 

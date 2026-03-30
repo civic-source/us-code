@@ -3,9 +3,9 @@ title: "Section 332 - Injunction proceedings"
 usc_title: 21
 usc_section: "332"
 chapter: 9
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "21 U.S.C. § 332"
-generated_at: "2026-03-30T05:02:35.757Z"
+generated_at: "2026-03-30T05:05:52.422Z"
 status: "active"
 ---
 

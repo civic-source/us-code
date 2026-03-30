@@ -3,9 +3,9 @@ title: "Section 11103 - Applicability to national security systems"
 usc_title: 40
 usc_section: "11103"
 chapter: 111
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "40 U.S.C. § 11103"
-generated_at: "2026-03-30T05:03:24.264Z"
+generated_at: "2026-03-30T05:06:41.732Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1421a - Financial impact study"
 usc_title: 7
 usc_section: "1421a"
 chapter: 35
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 1421a"
-generated_at: "2026-03-30T05:02:12.656Z"
+generated_at: "2026-03-30T05:05:23.921Z"
 status: "active"
 ---
 

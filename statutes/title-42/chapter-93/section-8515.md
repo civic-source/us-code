@@ -3,9 +3,9 @@ title: "Section 8515 - Reports"
 usc_title: 42
 usc_section: "8515"
 chapter: 93
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 8515"
-generated_at: "2026-03-30T05:04:25.991Z"
+generated_at: "2026-03-30T05:06:57.832Z"
 status: "active"
 ---
 

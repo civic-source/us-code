@@ -3,9 +3,9 @@ title: "Section 1557k - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(6)
 usc_title: 22
 usc_section: "1557k"
 chapter: 19
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 1557k"
-generated_at: "2026-03-30T05:02:39.551Z"
+generated_at: "2026-03-30T05:06:16.009Z"
 status: "repealed"
 ---
 

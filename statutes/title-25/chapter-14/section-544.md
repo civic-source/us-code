@@ -3,9 +3,9 @@ title: "Section 544 - Creation of individual credits; authorized purchases"
 usc_title: 25
 usc_section: "544"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 544"
-generated_at: "2026-03-30T05:02:37.684Z"
+generated_at: "2026-03-30T05:05:53.767Z"
 status: "active"
 ---
 

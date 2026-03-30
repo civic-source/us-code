@@ -3,9 +3,9 @@ title: "Section 497 - Letters patent"
 usc_title: 18
 usc_section: "497"
 chapter: 25
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "18 U.S.C. § 497"
-generated_at: "2026-03-30T05:02:32.670Z"
+generated_at: "2026-03-30T05:05:41.988Z"
 status: "active"
 ---
 

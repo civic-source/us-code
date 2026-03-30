@@ -3,9 +3,9 @@ title: "Section 14662 - Eligibility"
 usc_title: 42
 usc_section: "14662"
 chapter: 140
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 14662"
-generated_at: "2026-03-30T05:04:26.102Z"
+generated_at: "2026-03-30T05:06:57.943Z"
 status: "active"
 ---
 

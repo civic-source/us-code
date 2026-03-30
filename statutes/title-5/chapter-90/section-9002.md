@@ -3,9 +3,9 @@ title: "Section 9002 - Availability of insurance"
 usc_title: 5
 usc_section: "9002"
 chapter: 90
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "5 U.S.C. § 9002"
-generated_at: "2026-03-30T05:02:07.602Z"
+generated_at: "2026-03-30T05:04:55.967Z"
 status: "active"
 ---
 

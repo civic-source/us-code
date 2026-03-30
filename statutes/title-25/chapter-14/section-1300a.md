@@ -3,9 +3,9 @@ title: "Section 1300a - Percentage of funds for Payson Indian Band"
 usc_title: 25
 usc_section: "1300a"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1300a"
-generated_at: "2026-03-30T05:02:37.703Z"
+generated_at: "2026-03-30T05:05:53.787Z"
 status: "active"
 ---
 

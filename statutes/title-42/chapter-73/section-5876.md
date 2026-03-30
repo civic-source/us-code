@@ -3,9 +3,9 @@ title: "Section 5876 - Comptroller General audit"
 usc_title: 42
 usc_section: "5876"
 chapter: 73
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 5876"
-generated_at: "2026-03-30T05:04:25.905Z"
+generated_at: "2026-03-30T05:06:57.747Z"
 status: "active"
 ---
 

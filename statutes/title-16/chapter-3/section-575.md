@@ -3,9 +3,9 @@ title: "Section 575 - Search for lost persons, and transportation of sick, injur
 usc_title: 16
 usc_section: "575"
 chapter: 3
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 575"
-generated_at: "2026-03-30T05:02:31.615Z"
+generated_at: "2026-03-30T05:05:48.862Z"
 status: "active"
 ---
 

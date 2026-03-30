@@ -3,9 +3,9 @@ title: "Section 1 - Administration of repayment contracts and long-term contract
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T05:03:37.118Z"
+generated_at: "2026-03-30T05:06:45.206Z"
 status: "active"
 ---
 

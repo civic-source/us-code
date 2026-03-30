@@ -3,9 +3,9 @@ title: "Section 1853a - Limited access privilege programs"
 usc_title: 16
 usc_section: "1853a"
 chapter: 38
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 1853a"
-generated_at: "2026-03-30T05:02:31.695Z"
+generated_at: "2026-03-30T05:05:48.933Z"
 status: "active"
 ---
 

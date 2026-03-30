@@ -3,9 +3,9 @@ title: "Section 8962 - Higher grade for service in special positions"
 usc_title: 10
 usc_section: "8962"
 chapter: 869
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 8962"
-generated_at: "2026-03-30T05:02:16.403Z"
+generated_at: "2026-03-30T05:05:10.085Z"
 status: "active"
 ---
 

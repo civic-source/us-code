@@ -3,9 +3,9 @@ title: "Section 4085 - Rate after termination of import relief"
 usc_title: 19
 usc_section: "4085"
 chapter: 26
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "19 U.S.C. § 4085"
-generated_at: "2026-03-30T05:02:27.185Z"
+generated_at: "2026-03-30T05:05:44.278Z"
 status: "active"
 ---
 

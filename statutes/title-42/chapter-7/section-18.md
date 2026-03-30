@@ -3,9 +3,9 @@ title: "Section 18 - Repealed. Pub. L. 108–203, title II , § 210(b)(3), Mar. 
 usc_title: 42
 usc_section: "18"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-03-30T05:04:25.637Z"
+generated_at: "2026-03-30T05:06:57.467Z"
 status: "repealed"
 ---
 

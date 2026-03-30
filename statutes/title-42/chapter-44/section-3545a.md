@@ -3,9 +3,9 @@ title: "Section 3545a - Notification of issuance of electronic notice of availab
 usc_title: 42
 usc_section: "3545a"
 chapter: 44
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 3545a"
-generated_at: "2026-03-30T05:04:25.847Z"
+generated_at: "2026-03-30T05:06:57.689Z"
 status: "active"
 ---
 

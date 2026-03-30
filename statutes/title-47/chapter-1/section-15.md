@@ -3,9 +3,9 @@ title: "Section 15 - Reservation of power to alter, amend, or repeal act; power 
 usc_title: 47
 usc_section: "15"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "47 U.S.C. § 15"
-generated_at: "2026-03-30T05:04:31.421Z"
+generated_at: "2026-03-30T05:07:00.692Z"
 status: "active"
 ---
 

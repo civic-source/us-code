@@ -3,9 +3,9 @@ title: "Section 986 - Determination of foreign taxes and foreign corporation’s
 usc_title: 26
 usc_section: "986"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 986"
-generated_at: "2026-03-30T05:02:50.979Z"
+generated_at: "2026-03-30T05:06:33.285Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1775e - Ratification of Town Agreement"
 usc_title: 25
 usc_section: "1775e"
 chapter: 19
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1775e"
-generated_at: "2026-03-30T05:02:37.724Z"
+generated_at: "2026-03-30T05:05:53.809Z"
 status: "active"
 ---
 

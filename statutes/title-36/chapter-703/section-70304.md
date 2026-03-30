@@ -3,9 +3,9 @@ title: "Section 70304 - Membership"
 usc_title: 36
 usc_section: "70304"
 chapter: 703
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "36 U.S.C. § 70304"
-generated_at: "2026-03-30T05:03:24.824Z"
+generated_at: "2026-03-30T05:06:40.961Z"
 status: "active"
 ---
 

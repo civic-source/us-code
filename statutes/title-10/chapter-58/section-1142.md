@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of medical records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-30T05:02:16.313Z"
+generated_at: "2026-03-30T05:05:10.000Z"
 status: "active"
 ---
 

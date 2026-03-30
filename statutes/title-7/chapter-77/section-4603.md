@@ -3,9 +3,9 @@ title: "Section 4603 - Honey research, promotion, and consumer information order
 usc_title: 7
 usc_section: "4603"
 chapter: 77
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 4603"
-generated_at: "2026-03-30T05:02:12.723Z"
+generated_at: "2026-03-30T05:05:23.990Z"
 status: "active"
 ---
 

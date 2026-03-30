@@ -3,9 +3,9 @@ title: "Section 667 - Vessel construction bonding requirements"
 usc_title: 14
 usc_section: "667"
 chapter: 17
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "14 U.S.C. § 667"
-generated_at: "2026-03-30T05:02:18.517Z"
+generated_at: "2026-03-30T05:05:26.103Z"
 status: "active"
 ---
 

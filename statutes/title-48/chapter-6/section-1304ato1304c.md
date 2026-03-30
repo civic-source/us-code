@@ -3,9 +3,9 @@ title: "Section 1304ato1304c - Repealed. Aug. 10, 1949, ch. 415, § 9(c) , 63 St
 usc_title: 48
 usc_section: "1304ato1304c"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "48 U.S.C. § 1304ato1304c"
-generated_at: "2026-03-30T05:04:29.480Z"
+generated_at: "2026-03-30T05:07:01.015Z"
 status: "repealed"
 ---
 

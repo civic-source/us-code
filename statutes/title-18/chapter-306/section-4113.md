@@ -3,9 +3,9 @@ title: "Section 4113 - Status of alien offender transferred to a foreign country
 usc_title: 18
 usc_section: "4113"
 chapter: 306
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "18 U.S.C. § 4113"
-generated_at: "2026-03-30T05:02:32.723Z"
+generated_at: "2026-03-30T05:05:42.035Z"
 status: "active"
 ---
 

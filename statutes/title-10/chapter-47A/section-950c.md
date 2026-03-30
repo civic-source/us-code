@@ -3,9 +3,9 @@ title: "Section 950c - Appellate referral; waiver or withdrawal of appeal"
 usc_title: 10
 usc_section: "950c"
 chapter: 47
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 950c"
-generated_at: "2026-03-30T05:02:16.301Z"
+generated_at: "2026-03-30T05:05:09.988Z"
 status: "active"
 ---
 

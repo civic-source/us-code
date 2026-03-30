@@ -3,9 +3,9 @@ title: "Section 2901 - Commission of an officer"
 usc_title: 5
 usc_section: "2901"
 chapter: 29
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "5 U.S.C. § 2901"
-generated_at: "2026-03-30T05:02:07.553Z"
+generated_at: "2026-03-30T05:04:55.920Z"
 status: "active"
 ---
 

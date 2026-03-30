@@ -3,9 +3,9 @@ title: "Section 2377 - Preference for acquisition of commercial items"
 usc_title: 10
 usc_section: "2377"
 chapter: 140
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 2377"
-generated_at: "2026-03-30T05:02:16.353Z"
+generated_at: "2026-03-30T05:05:10.037Z"
 status: "active"
 ---
 

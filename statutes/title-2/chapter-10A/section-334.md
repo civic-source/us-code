@@ -3,9 +3,9 @@ title: "Section 334 - Repealed. Pub. L. 104–186, title II , § 210(3)(A), Aug.
 usc_title: 2
 usc_section: "334"
 chapter: 10
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "2 U.S.C. § 334"
-generated_at: "2026-03-30T05:02:06.321Z"
+generated_at: "2026-03-30T05:05:02.591Z"
 status: "repealed"
 ---
 

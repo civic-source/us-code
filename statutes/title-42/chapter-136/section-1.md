@@ -3,9 +3,9 @@ title: "Section 1 - Grant accountability"
 usc_title: 42
 usc_section: "1"
 chapter: 136
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T05:04:26.094Z"
+generated_at: "2026-03-30T05:06:57.935Z"
 status: "active"
 ---
 

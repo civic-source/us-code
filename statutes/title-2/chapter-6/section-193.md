@@ -3,9 +3,9 @@ title: "Section 193 - Privilege of witnesses"
 usc_title: 2
 usc_section: "193"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "2 U.S.C. § 193"
-generated_at: "2026-03-30T05:02:06.319Z"
+generated_at: "2026-03-30T05:05:02.589Z"
 status: "active"
 ---
 

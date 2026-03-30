@@ -3,9 +3,9 @@ title: "Section 5034 - Repealed. Pub. L. 104–106, div. A, title V , § 502(c),
 usc_title: 10
 usc_section: "5034"
 chapter: 505
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 5034"
-generated_at: "2026-03-30T05:02:16.387Z"
+generated_at: "2026-03-30T05:05:10.069Z"
 status: "repealed"
 ---
 

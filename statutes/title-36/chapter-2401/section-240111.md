@@ -3,9 +3,9 @@ title: "Section 240111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "240111"
 chapter: 2401
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "36 U.S.C. § 240111"
-generated_at: "2026-03-30T05:03:24.835Z"
+generated_at: "2026-03-30T05:06:40.972Z"
 status: "active"
 ---
 

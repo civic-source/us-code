@@ -3,9 +3,9 @@ title: "Section 9906 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9906"
 chapter: 79
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 9906"
-generated_at: "2026-03-30T05:02:28.979Z"
+generated_at: "2026-03-30T05:05:46.559Z"
 status: "active"
 ---
 

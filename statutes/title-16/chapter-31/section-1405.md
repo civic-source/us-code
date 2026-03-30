@@ -3,9 +3,9 @@ title: "Section 1405 - Coordination with other Federal agencies"
 usc_title: 16
 usc_section: "1405"
 chapter: 31
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 1405"
-generated_at: "2026-03-30T05:02:31.677Z"
+generated_at: "2026-03-30T05:05:48.917Z"
 status: "active"
 ---
 

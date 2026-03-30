@@ -3,9 +3,9 @@ title: "Section 297 - Repealed. Dec. 17, 1943, ch. 344 , § 1, 57 Stat. 600"
 usc_title: 8
 usc_section: "297"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "8 U.S.C. § 297"
-generated_at: "2026-03-30T05:02:10.006Z"
+generated_at: "2026-03-30T05:05:05.585Z"
 status: "repealed"
 ---
 

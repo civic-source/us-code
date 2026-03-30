@@ -3,9 +3,9 @@ title: "Section 5336 - Additional step-increases"
 usc_title: 5
 usc_section: "5336"
 chapter: 53
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "5 U.S.C. § 5336"
-generated_at: "2026-03-30T05:02:07.564Z"
+generated_at: "2026-03-30T05:04:55.931Z"
 status: "active"
 ---
 

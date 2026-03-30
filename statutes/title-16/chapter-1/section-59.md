@@ -3,9 +3,9 @@ title: "Section 59 - No adverse effect on land until acquired"
 usc_title: 16
 usc_section: "59"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 59"
-generated_at: "2026-03-30T05:02:31.543Z"
+generated_at: "2026-03-30T05:05:48.800Z"
 status: "active"
 ---
 

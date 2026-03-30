@@ -3,9 +3,9 @@ title: "Section 6 - Civil actions by aggrieved persons"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T05:04:25.804Z"
+generated_at: "2026-03-30T05:06:57.644Z"
 status: "active"
 ---
 

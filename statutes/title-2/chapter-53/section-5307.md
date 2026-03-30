@@ -3,9 +3,9 @@ title: "Section 5307 - Certification of salary and mileage accounts"
 usc_title: 2
 usc_section: "5307"
 chapter: 53
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "2 U.S.C. § 5307"
-generated_at: "2026-03-30T05:02:06.353Z"
+generated_at: "2026-03-30T05:05:02.620Z"
 status: "active"
 ---
 

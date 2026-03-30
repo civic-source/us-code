@@ -3,9 +3,9 @@ title: "Section 10507 - National Guard Bureau: assignment of officers of regular
 usc_title: 10
 usc_section: "10507"
 chapter: 1011
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 10507"
-generated_at: "2026-03-30T05:02:16.409Z"
+generated_at: "2026-03-30T05:05:10.091Z"
 status: "active"
 ---
 

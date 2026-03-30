@@ -3,9 +3,9 @@ title: "Section 225b - Appearances before and reports to the Congress"
 usc_title: 12
 usc_section: "225b"
 chapter: 3
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "12 U.S.C. § 225b"
-generated_at: "2026-03-30T05:02:21.663Z"
+generated_at: "2026-03-30T05:05:35.036Z"
 status: "active"
 ---
 

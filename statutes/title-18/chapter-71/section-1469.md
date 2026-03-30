@@ -3,9 +3,9 @@ title: "Section 1469 - Presumptions"
 usc_title: 18
 usc_section: "1469"
 chapter: 71
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "18 U.S.C. § 1469"
-generated_at: "2026-03-30T05:02:32.688Z"
+generated_at: "2026-03-30T05:05:42.005Z"
 status: "active"
 ---
 

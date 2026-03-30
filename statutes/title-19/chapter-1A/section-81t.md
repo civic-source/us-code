@@ -3,9 +3,9 @@ title: "Section 81t - Separability"
 usc_title: 19
 usc_section: "81t"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "19 U.S.C. § 81t"
-generated_at: "2026-03-30T05:02:27.126Z"
+generated_at: "2026-03-30T05:05:44.215Z"
 status: "active"
 ---
 

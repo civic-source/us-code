@@ -3,9 +3,9 @@ title: "Section 4833 - Procedures"
 usc_title: 22
 usc_section: "4833"
 chapter: 58
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 4833"
-generated_at: "2026-03-30T05:02:39.618Z"
+generated_at: "2026-03-30T05:06:16.073Z"
 status: "active"
 ---
 

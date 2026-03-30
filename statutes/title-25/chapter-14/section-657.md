@@ -3,9 +3,9 @@ title: "Section 657 - Revision of roll of Indians"
 usc_title: 25
 usc_section: "657"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 657"
-generated_at: "2026-03-30T05:02:37.690Z"
+generated_at: "2026-03-30T05:05:53.773Z"
 status: "active"
 ---
 

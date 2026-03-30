@@ -3,9 +3,9 @@ title: "Section 1778a - Definitions"
 usc_title: 25
 usc_section: "1778a"
 chapter: 19
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 1778a"
-generated_at: "2026-03-30T05:02:37.726Z"
+generated_at: "2026-03-30T05:05:53.810Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 280a - Definitions"
 usc_title: 22
 usc_section: "280a"
 chapter: 7
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 280a"
-generated_at: "2026-03-30T05:02:39.534Z"
+generated_at: "2026-03-30T05:06:15.991Z"
 status: "active"
 ---
 

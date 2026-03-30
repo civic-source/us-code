@@ -3,9 +3,9 @@ title: "Section 1997 - Definitions"
 usc_title: 42
 usc_section: "1997"
 chapter: 21
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 1997"
-generated_at: "2026-03-30T05:04:25.801Z"
+generated_at: "2026-03-30T05:06:57.641Z"
 status: "active"
 ---
 

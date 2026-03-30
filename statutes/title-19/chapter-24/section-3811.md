@@ -3,9 +3,9 @@ title: "Section 3811 - Report on impact of trade promotion authority"
 usc_title: 19
 usc_section: "3811"
 chapter: 24
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "19 U.S.C. § 3811"
-generated_at: "2026-03-30T05:02:27.183Z"
+generated_at: "2026-03-30T05:05:44.276Z"
 status: "active"
 ---
 

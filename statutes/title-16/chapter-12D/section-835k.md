@@ -3,9 +3,9 @@ title: "Section 835k - Return of construction costs from marketing revenues in e
 usc_title: 16
 usc_section: "835k"
 chapter: 12
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 835k"
-generated_at: "2026-03-30T05:02:31.652Z"
+generated_at: "2026-03-30T05:05:48.894Z"
 status: "active"
 ---
 

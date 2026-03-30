@@ -3,9 +3,9 @@ title: "Section 1322a - Repealed. July 3, 1948, ch. 827 , title II, § 203(b), 6
 usc_title: 7
 usc_section: "1322a"
 chapter: 35
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 1322a"
-generated_at: "2026-03-30T05:02:12.651Z"
+generated_at: "2026-03-30T05:05:23.916Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1033 - Sale of reserved mineral interests"
 usc_title: 7
 usc_section: "1033"
 chapter: 33
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 1033"
-generated_at: "2026-03-30T05:02:12.649Z"
+generated_at: "2026-03-30T05:05:23.914Z"
 status: "active"
 ---
 

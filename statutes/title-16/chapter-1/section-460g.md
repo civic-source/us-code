@@ -3,9 +3,9 @@ title: "Section 460g - Transfer to State, etc., for roadway purposes"
 usc_title: 16
 usc_section: "460g"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 460g"
-generated_at: "2026-03-30T05:02:31.568Z"
+generated_at: "2026-03-30T05:05:48.821Z"
 status: "active"
 ---
 

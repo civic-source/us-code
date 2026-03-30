@@ -3,9 +3,9 @@ title: "Section 293c - Educational assistance in the health professions regardin
 usc_title: 42
 usc_section: "293c"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 293c"
-generated_at: "2026-03-30T05:04:25.524Z"
+generated_at: "2026-03-30T05:06:57.360Z"
 status: "active"
 ---
 

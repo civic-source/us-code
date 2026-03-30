@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 22
 usc_section: "10"
 chapter: 1
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-03-30T05:02:39.524Z"
+generated_at: "2026-03-30T05:06:15.974Z"
 status: "repealed"
 ---
 

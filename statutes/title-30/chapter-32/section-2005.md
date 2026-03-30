@@ -3,9 +3,9 @@ title: "Section 2005 - Reports and studies for Congress"
 usc_title: 30
 usc_section: "2005"
 chapter: 32
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-03-30T05:02:41.962Z"
+generated_at: "2026-03-30T05:06:18.347Z"
 status: "active"
 ---
 

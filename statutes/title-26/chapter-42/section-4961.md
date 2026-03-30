@@ -3,9 +3,9 @@ title: "Section 4961 - Abatement of second tier taxes where there is correction"
 usc_title: 26
 usc_section: "4961"
 chapter: 42
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "26 U.S.C. § 4961"
-generated_at: "2026-03-30T05:02:51.030Z"
+generated_at: "2026-03-30T05:06:33.335Z"
 status: "active"
 ---
 

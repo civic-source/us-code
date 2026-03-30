@@ -3,9 +3,9 @@ title: "Section 1632a - Value-added agricultural product market development gran
 usc_title: 7
 usc_section: "1632a"
 chapter: 38
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "7 U.S.C. § 1632a"
-generated_at: "2026-03-30T05:02:12.671Z"
+generated_at: "2026-03-30T05:05:23.936Z"
 status: "active"
 ---
 

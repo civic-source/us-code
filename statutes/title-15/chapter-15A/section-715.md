@@ -3,9 +3,9 @@ title: "Section 715 - Purpose of chapter"
 usc_title: 15
 usc_section: "715"
 chapter: 15
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "15 U.S.C. § 715"
-generated_at: "2026-03-30T05:02:23.701Z"
+generated_at: "2026-03-30T05:05:38.695Z"
 status: "active"
 ---
 

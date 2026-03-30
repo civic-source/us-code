@@ -3,9 +3,9 @@ title: "Section 685 - Hunting, trapping, killing, or capturing game in designate
 usc_title: 16
 usc_section: "685"
 chapter: 6
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "16 U.S.C. § 685"
-generated_at: "2026-03-30T05:02:31.627Z"
+generated_at: "2026-03-30T05:05:48.872Z"
 status: "active"
 ---
 

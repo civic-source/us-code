@@ -3,9 +3,9 @@ title: "Section 1121 - Findings; purposes; consultation; survey"
 usc_title: 20
 usc_section: "1121"
 chapter: 28
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "20 U.S.C. § 1121"
-generated_at: "2026-03-30T05:02:28.898Z"
+generated_at: "2026-03-30T05:05:46.480Z"
 status: "active"
 ---
 

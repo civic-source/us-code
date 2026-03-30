@@ -3,9 +3,9 @@ title: "Section 677w - Presentation of development program for full-blood group 
 usc_title: 25
 usc_section: "677w"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 677w"
-generated_at: "2026-03-30T05:02:37.692Z"
+generated_at: "2026-03-30T05:05:53.775Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 854c - Repealed. June 3, 1948, ch. 390 , § 22(a), formerly § 2
 usc_title: 33
 usc_section: "854c"
 chapter: 17
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "33 U.S.C. § 854c"
-generated_at: "2026-03-30T05:03:14.641Z"
+generated_at: "2026-03-30T05:06:38.538Z"
 status: "repealed"
 ---
 

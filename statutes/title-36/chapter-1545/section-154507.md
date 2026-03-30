@@ -3,9 +3,9 @@ title: "Section 154507 - Restrictions"
 usc_title: 36
 usc_section: "154507"
 chapter: 1545
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "36 U.S.C. § 154507"
-generated_at: "2026-03-30T05:03:24.831Z"
+generated_at: "2026-03-30T05:06:40.968Z"
 status: "active"
 ---
 

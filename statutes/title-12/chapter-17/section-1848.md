@@ -3,9 +3,9 @@ title: "Section 1848 - Judicial review"
 usc_title: 12
 usc_section: "1848"
 chapter: 17
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "12 U.S.C. § 1848"
-generated_at: "2026-03-30T05:02:21.750Z"
+generated_at: "2026-03-30T05:05:35.117Z"
 status: "active"
 ---
 

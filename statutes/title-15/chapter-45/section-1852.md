@@ -3,9 +3,9 @@ title: "Section 1852 - Termination date"
 usc_title: 15
 usc_section: "1852"
 chapter: 45
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "15 U.S.C. § 1852"
-generated_at: "2026-03-30T05:02:23.741Z"
+generated_at: "2026-03-30T05:05:38.734Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10420 - Grants to support families in the justice system"
 usc_title: 42
 usc_section: "10420"
 chapter: 110
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "42 U.S.C. § 10420"
-generated_at: "2026-03-30T05:04:26.031Z"
+generated_at: "2026-03-30T05:06:57.872Z"
 status: "active"
 ---
 

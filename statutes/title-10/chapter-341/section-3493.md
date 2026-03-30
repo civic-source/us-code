@@ -3,9 +3,9 @@ title: "Section 3493 - Repealed. Pub. L. 90–235 , § 1(a)(2), (b), Jan. 2, 196
 usc_title: 10
 usc_section: "3493"
 chapter: 341
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 3493"
-generated_at: "2026-03-30T05:02:16.380Z"
+generated_at: "2026-03-30T05:05:10.062Z"
 status: "repealed"
 ---
 

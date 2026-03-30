@@ -3,9 +3,9 @@ title: "Section 4021 - Army War College and United States Army Command and Gener
 usc_title: 10
 usc_section: "4021"
 chapter: 373
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "10 U.S.C. § 4021"
-generated_at: "2026-03-30T05:02:16.381Z"
+generated_at: "2026-03-30T05:05:10.064Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13 - Band roll"
 usc_title: 25
 usc_section: "13"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 13"
-generated_at: "2026-03-30T05:02:37.704Z"
+generated_at: "2026-03-30T05:05:53.787Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 459e - Tax exemption for conveyed lands and gross receipts; dist
 usc_title: 25
 usc_section: "459e"
 chapter: 14
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "25 U.S.C. § 459e"
-generated_at: "2026-03-30T05:02:37.682Z"
+generated_at: "2026-03-30T05:05:53.765Z"
 status: "active"
 ---
 

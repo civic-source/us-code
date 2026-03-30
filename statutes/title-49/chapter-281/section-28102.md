@@ -3,9 +3,9 @@ title: "Section 28102 - Limit on certain accident or incident liability"
 usc_title: 49
 usc_section: "28102"
 chapter: 281
-current_through: "PL 114-139"
+current_through: "PL 114-141"
 classification: "49 U.S.C. § 28102"
-generated_at: "2026-03-30T05:04:36.825Z"
+generated_at: "2026-03-30T05:07:05.768Z"
 status: "active"
 ---
 
