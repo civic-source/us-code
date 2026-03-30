@@ -3,9 +3,9 @@ title: "Section 435 - Entries in excess of farm unit"
 usc_title: 43
 usc_section: "435"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "43 U.S.C. § 435"
-generated_at: "2026-03-30T07:44:49.219Z"
+generated_at: "2026-03-30T07:46:48.661Z"
 status: "active"
 ---
 

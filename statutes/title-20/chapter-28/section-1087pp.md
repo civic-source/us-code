@@ -3,9 +3,9 @@ title: "Section 1087pp - Family contribution for independent students without de
 usc_title: 20
 usc_section: "1087pp"
 chapter: 28
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 1087pp"
-generated_at: "2026-03-30T07:43:51.787Z"
+generated_at: "2026-03-30T07:46:11.847Z"
 status: "active"
 ---
 

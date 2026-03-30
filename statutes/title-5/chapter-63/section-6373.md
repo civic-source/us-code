@@ -3,9 +3,9 @@ title: "Section 6373 - Authority to participate in both programs"
 usc_title: 5
 usc_section: "6373"
 chapter: 63
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "5 U.S.C. § 6373"
-generated_at: "2026-03-30T07:43:04.435Z"
+generated_at: "2026-03-30T07:45:39.137Z"
 status: "active"
 ---
 

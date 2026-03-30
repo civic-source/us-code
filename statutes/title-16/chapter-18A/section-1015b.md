@@ -3,9 +3,9 @@ title: "Section 1015b - Effect of chapter"
 usc_title: 16
 usc_section: "1015b"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 1015b"
-generated_at: "2026-03-30T07:43:56.526Z"
+generated_at: "2026-03-30T07:46:15.462Z"
 status: "active"
 ---
 

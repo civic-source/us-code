@@ -3,9 +3,9 @@ title: "Section 3921 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "3921"
 chapter: 367
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 3921"
-generated_at: "2026-03-30T07:43:26.987Z"
+generated_at: "2026-03-30T07:45:51.408Z"
 status: "active"
 ---
 

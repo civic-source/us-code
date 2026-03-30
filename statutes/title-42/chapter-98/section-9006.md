@@ -3,9 +3,9 @@ title: "Section 9006 - Program selection criteria"
 usc_title: 42
 usc_section: "9006"
 chapter: 98
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 9006"
-generated_at: "2026-03-30T07:45:06.742Z"
+generated_at: "2026-03-30T07:47:00.240Z"
 status: "active"
 ---
 

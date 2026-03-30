@@ -3,9 +3,9 @@ title: "Section 4522 - Public disclosure of final orders and agreements"
 usc_title: 12
 usc_section: "4522"
 chapter: 46
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 4522"
-generated_at: "2026-03-30T07:43:34.067Z"
+generated_at: "2026-03-30T07:46:02.842Z"
 status: "active"
 ---
 

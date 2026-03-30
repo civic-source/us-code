@@ -3,9 +3,9 @@ title: "Section 543 - Youth sponsorship initiatives"
 usc_title: 14
 usc_section: "543"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 543"
-generated_at: "2026-03-30T07:43:30.597Z"
+generated_at: "2026-03-30T07:45:55.506Z"
 status: "active"
 ---
 

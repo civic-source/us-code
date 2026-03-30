@@ -3,9 +3,9 @@ title: "Section 684 - Repealed. Pub. L. 111–281, title II , § 221(a)(3), Oct.
 usc_title: 14
 usc_section: "684"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 684"
-generated_at: "2026-03-30T07:43:30.600Z"
+generated_at: "2026-03-30T07:45:55.510Z"
 status: "repealed"
 ---
 

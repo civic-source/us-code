@@ -3,9 +3,9 @@ title: "Section 9493 - Repealed. Pub. L. 97–35, title IX , § 902(e)(1), Aug. 
 usc_title: 42
 usc_section: "9493"
 chapter: 102
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 9493"
-generated_at: "2026-03-30T07:45:06.746Z"
+generated_at: "2026-03-30T07:47:00.244Z"
 status: "repealed"
 ---
 

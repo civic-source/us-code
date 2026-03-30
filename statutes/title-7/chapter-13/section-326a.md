@@ -3,9 +3,9 @@ title: "Section 326a - Annual appropriations for Puerto Rico, Virgin Islands, Am
 usc_title: 7
 usc_section: "326a"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 326a"
-generated_at: "2026-03-30T07:43:09.973Z"
+generated_at: "2026-03-30T07:45:46.426Z"
 status: "active"
 ---
 

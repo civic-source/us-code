@@ -3,9 +3,9 @@ title: "Section 21505 - Implementation"
 usc_title: 34
 usc_section: "21505"
 chapter: 215
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 21505"
-generated_at: "2026-03-30T07:44:40.667Z"
+generated_at: "2026-03-30T07:46:36.272Z"
 status: "active"
 ---
 

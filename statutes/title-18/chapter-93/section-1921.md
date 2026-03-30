@@ -3,9 +3,9 @@ title: "Section 1921 - Receiving Federal employees’ compensation after marriag
 usc_title: 18
 usc_section: "1921"
 chapter: 93
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 1921"
-generated_at: "2026-03-30T07:43:53.584Z"
+generated_at: "2026-03-30T07:46:07.377Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2304e - Contracts: prohibition on competition between Department
 usc_title: 10
 usc_section: "2304e"
 chapter: 137
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2304e"
-generated_at: "2026-03-30T07:43:26.953Z"
+generated_at: "2026-03-30T07:45:51.343Z"
 status: "active"
 ---
 

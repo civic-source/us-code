@@ -3,9 +3,9 @@ title: "Section 564w - Omitted"
 usc_title: 25
 usc_section: "564w"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 564w"
-generated_at: "2026-03-30T07:44:25.275Z"
+generated_at: "2026-03-30T07:46:20.633Z"
 status: "omitted"
 ---
 

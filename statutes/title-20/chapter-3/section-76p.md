@@ -3,9 +3,9 @@ title: "Section 76p - Acceptance and disposition of gifts to the United States c
 usc_title: 20
 usc_section: "76p"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 76p"
-generated_at: "2026-03-30T07:43:51.745Z"
+generated_at: "2026-03-30T07:46:11.782Z"
 status: "active"
 ---
 

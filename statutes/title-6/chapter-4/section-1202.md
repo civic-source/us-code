@@ -3,9 +3,9 @@ title: "Section 1202 - Railroad security-sensitive material tracking"
 usc_title: 6
 usc_section: "1202"
 chapter: 4
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "6 U.S.C. § 1202"
-generated_at: "2026-03-30T07:43:18.600Z"
+generated_at: "2026-03-30T07:45:41.929Z"
 status: "active"
 ---
 

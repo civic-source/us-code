@@ -3,9 +3,9 @@ title: "Section 200309 - Records and inspection"
 usc_title: 36
 usc_section: "200309"
 chapter: 2003
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "36 U.S.C. § 200309"
-generated_at: "2026-03-30T07:44:44.724Z"
+generated_at: "2026-03-30T07:46:40.145Z"
 status: "active"
 ---
 

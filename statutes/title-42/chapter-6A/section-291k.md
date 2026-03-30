@@ -3,9 +3,9 @@ title: "Section 291k - Federal Hospital Council"
 usc_title: 42
 usc_section: "291k"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 291k"
-generated_at: "2026-03-30T07:45:06.285Z"
+generated_at: "2026-03-30T07:46:59.744Z"
 status: "active"
 ---
 

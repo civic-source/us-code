@@ -3,9 +3,9 @@ title: "Section 1356a - Coastal impact assistance program"
 usc_title: 43
 usc_section: "1356a"
 chapter: 29
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "43 U.S.C. § 1356a"
-generated_at: "2026-03-30T07:44:49.238Z"
+generated_at: "2026-03-30T07:46:48.679Z"
 status: "active"
 ---
 

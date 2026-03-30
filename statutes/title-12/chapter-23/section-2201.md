@@ -3,9 +3,9 @@ title: "Section 2201 - Notice of action on application"
 usc_title: 12
 usc_section: "2201"
 chapter: 23
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 2201"
-generated_at: "2026-03-30T07:43:34.035Z"
+generated_at: "2026-03-30T07:46:02.792Z"
 status: "active"
 ---
 

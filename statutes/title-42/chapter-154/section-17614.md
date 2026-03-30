@@ -3,9 +3,9 @@ title: "Section 17614 - Transferred"
 usc_title: 42
 usc_section: "17614"
 chapter: 154
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 17614"
-generated_at: "2026-03-30T07:45:06.865Z"
+generated_at: "2026-03-30T07:47:00.372Z"
 status: "transferred"
 ---
 

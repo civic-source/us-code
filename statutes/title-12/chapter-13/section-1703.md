@@ -3,9 +3,9 @@ title: "Section 1703 - Insurance of financial institutions"
 usc_title: 12
 usc_section: "1703"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 1703"
-generated_at: "2026-03-30T07:43:33.974Z"
+generated_at: "2026-03-30T07:46:02.696Z"
 status: "active"
 ---
 

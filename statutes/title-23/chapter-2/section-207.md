@@ -3,9 +3,9 @@ title: "Section 207 - Tribal transportation self-governance program"
 usc_title: 23
 usc_section: "207"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "23 U.S.C. § 207"
-generated_at: "2026-03-30T07:44:24.547Z"
+generated_at: "2026-03-30T07:46:18.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1686 - Definitions"
 usc_title: 16
 usc_section: "1686"
 chapter: 36
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 1686"
-generated_at: "2026-03-30T07:43:56.553Z"
+generated_at: "2026-03-30T07:46:15.501Z"
 status: "active"
 ---
 

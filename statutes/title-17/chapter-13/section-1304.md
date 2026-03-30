@@ -3,9 +3,9 @@ title: "Section 1304 - Commencement of protection"
 usc_title: 17
 usc_section: "1304"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "17 U.S.C. § 1304"
-generated_at: "2026-03-30T07:43:59.929Z"
+generated_at: "2026-03-30T07:46:05.209Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5855 - Limitations on defense conversion authorities"
 usc_title: 22
 usc_section: "5855"
 chapter: 67
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 5855"
-generated_at: "2026-03-30T07:44:13.692Z"
+generated_at: "2026-03-30T07:46:23.179Z"
 status: "active"
 ---
 

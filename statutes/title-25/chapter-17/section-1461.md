@@ -3,9 +3,9 @@ title: "Section 1461 - Administration as single Indian Revolving Loan Fund sums 
 usc_title: 25
 usc_section: "1461"
 chapter: 17
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 1461"
-generated_at: "2026-03-30T07:44:25.279Z"
+generated_at: "2026-03-30T07:46:20.640Z"
 status: "active"
 ---
 

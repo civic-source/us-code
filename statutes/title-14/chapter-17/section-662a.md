@@ -3,9 +3,9 @@ title: "Section 662a - Renumbered § 2901]"
 usc_title: 14
 usc_section: "662a"
 chapter: 17
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 662a"
-generated_at: "2026-03-30T07:43:30.599Z"
+generated_at: "2026-03-30T07:45:55.509Z"
 status: "renumbered"
 ---
 

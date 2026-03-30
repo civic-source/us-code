@@ -3,9 +3,9 @@ title: "Section 450y - Coronado National Memorial; establishment"
 usc_title: 16
 usc_section: "450y"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 450y"
-generated_at: "2026-03-30T07:43:56.427Z"
+generated_at: "2026-03-30T07:46:15.323Z"
 status: "active"
 ---
 

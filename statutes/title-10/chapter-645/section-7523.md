@@ -3,9 +3,9 @@ title: "Section 7523 - Tolls and fares: payment or reimbursement"
 usc_title: 10
 usc_section: "7523"
 chapter: 645
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 7523"
-generated_at: "2026-03-30T07:43:27.001Z"
+generated_at: "2026-03-30T07:45:51.436Z"
 status: "active"
 ---
 

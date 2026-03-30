@@ -3,9 +3,9 @@ title: "Section 51101 - Policy"
 usc_title: 46
 usc_section: "51101"
 chapter: 511
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "46 U.S.C. § 51101"
-generated_at: "2026-03-30T07:45:11.147Z"
+generated_at: "2026-03-30T07:47:17.807Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11187 - Limitations on use of funds"
 usc_title: 34
 usc_section: "11187"
 chapter: 111
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 11187"
-generated_at: "2026-03-30T07:44:40.646Z"
+generated_at: "2026-03-30T07:46:36.245Z"
 status: "active"
 ---
 

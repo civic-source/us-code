@@ -3,9 +3,9 @@ title: "Section 1005 - Benefit amount"
 usc_title: 42
 usc_section: "1005"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 1005"
-generated_at: "2026-03-30T07:45:06.385Z"
+generated_at: "2026-03-30T07:46:59.851Z"
 status: "active"
 ---
 

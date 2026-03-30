@@ -3,9 +3,9 @@ title: "Section 7157 - Transfers from Department of Commerce"
 usc_title: 42
 usc_section: "7157"
 chapter: 84
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 7157"
-generated_at: "2026-03-30T07:45:06.689Z"
+generated_at: "2026-03-30T07:47:00.184Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3907 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3907"
 chapter: 41
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 3907"
-generated_at: "2026-03-30T07:44:25.314Z"
+generated_at: "2026-03-30T07:46:20.684Z"
 status: "active"
 ---
 

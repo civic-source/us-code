@@ -3,9 +3,9 @@ title: "Section 21 - John Glenn Great Lakes basin program"
 usc_title: 42
 usc_section: "21"
 chapter: 19
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T07:45:06.565Z"
+generated_at: "2026-03-30T07:47:00.048Z"
 status: "active"
 ---
 

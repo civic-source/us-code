@@ -3,9 +3,9 @@ title: "Section 577a - Conserving shore line beauty for recreational use of publ
 usc_title: 16
 usc_section: "577a"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 577a"
-generated_at: "2026-03-30T07:43:56.482Z"
+generated_at: "2026-03-30T07:46:15.400Z"
 status: "active"
 ---
 

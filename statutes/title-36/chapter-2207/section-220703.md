@@ -3,9 +3,9 @@ title: "Section 220703 - Purposes"
 usc_title: 36
 usc_section: "220703"
 chapter: 2207
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "36 U.S.C. § 220703"
-generated_at: "2026-03-30T07:44:44.726Z"
+generated_at: "2026-03-30T07:46:40.147Z"
 status: "active"
 ---
 

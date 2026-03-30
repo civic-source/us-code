@@ -3,9 +3,9 @@ title: "Section 691 - Cheyenne Bottoms Migratory Bird Refuge; location; acquisit
 usc_title: 16
 usc_section: "691"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 691"
-generated_at: "2026-03-30T07:43:56.494Z"
+generated_at: "2026-03-30T07:46:15.417Z"
 status: "active"
 ---
 

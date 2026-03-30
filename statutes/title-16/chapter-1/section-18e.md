@@ -3,9 +3,9 @@ title: "Section 18e - Repealed. Sept. 20, 1941, ch. 412 , title V, § 541(c), 55
 usc_title: 16
 usc_section: "18e"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 18e"
-generated_at: "2026-03-30T07:43:56.378Z"
+generated_at: "2026-03-30T07:46:15.248Z"
 status: "repealed"
 ---
 

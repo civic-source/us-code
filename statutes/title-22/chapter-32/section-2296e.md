@@ -3,9 +3,9 @@ title: "Section 2296e - Administrative authorities"
 usc_title: 22
 usc_section: "2296e"
 chapter: 32
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 2296e"
-generated_at: "2026-03-30T07:44:13.636Z"
+generated_at: "2026-03-30T07:46:23.108Z"
 status: "active"
 ---
 

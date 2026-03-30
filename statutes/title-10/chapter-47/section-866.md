@@ -3,9 +3,9 @@ title: "Section 866 - Art. 66. Review by Court of Criminal Appeals"
 usc_title: 10
 usc_section: "866"
 chapter: 47
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 866"
-generated_at: "2026-03-30T07:43:26.909Z"
+generated_at: "2026-03-30T07:45:51.258Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2604 - Designation of materials covered by agreements or emergen
 usc_title: 19
 usc_section: "2604"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 2604"
-generated_at: "2026-03-30T07:44:07.693Z"
+generated_at: "2026-03-30T07:46:09.224Z"
 status: "active"
 ---
 

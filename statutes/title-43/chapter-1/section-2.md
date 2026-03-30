@@ -3,9 +3,9 @@ title: "Section 2 - Duties concerning public lands"
 usc_title: 43
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T07:44:49.206Z"
+generated_at: "2026-03-30T07:46:48.647Z"
 status: "active"
 ---
 

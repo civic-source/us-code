@@ -3,9 +3,9 @@ title: "Section 5303 - Antitrust savings clause"
 usc_title: 12
 usc_section: "5303"
 chapter: 53
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 5303"
-generated_at: "2026-03-30T07:43:34.086Z"
+generated_at: "2026-03-30T07:46:02.870Z"
 status: "active"
 ---
 

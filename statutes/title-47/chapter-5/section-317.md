@@ -3,9 +3,9 @@ title: "Section 317 - Announcement of payment for broadcast"
 usc_title: 47
 usc_section: "317"
 chapter: 5
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "47 U.S.C. § 317"
-generated_at: "2026-03-30T07:45:12.046Z"
+generated_at: "2026-03-30T07:47:03.787Z"
 status: "active"
 ---
 

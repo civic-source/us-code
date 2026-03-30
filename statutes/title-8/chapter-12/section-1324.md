@@ -3,9 +3,9 @@ title: "Section 1324 - Bringing in and harboring certain aliens"
 usc_title: 8
 usc_section: "1324"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "8 U.S.C. § 1324"
-generated_at: "2026-03-30T07:43:06.794Z"
+generated_at: "2026-03-30T07:45:42.553Z"
 status: "active"
 ---
 

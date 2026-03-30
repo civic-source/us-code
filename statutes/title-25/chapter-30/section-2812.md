@@ -3,9 +3,9 @@ title: "Section 2812 - Indian Law and Order Commission"
 usc_title: 25
 usc_section: "2812"
 chapter: 30
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 2812"
-generated_at: "2026-03-30T07:44:25.306Z"
+generated_at: "2026-03-30T07:46:20.673Z"
 status: "active"
 ---
 

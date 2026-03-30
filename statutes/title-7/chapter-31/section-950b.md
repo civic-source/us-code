@@ -3,9 +3,9 @@ title: "Section 950b - Borrower net worth"
 usc_title: 7
 usc_section: "950b"
 chapter: 31
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 950b"
-generated_at: "2026-03-30T07:43:09.987Z"
+generated_at: "2026-03-30T07:45:46.445Z"
 status: "active"
 ---
 

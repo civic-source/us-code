@@ -3,9 +3,9 @@ title: "Section 3 - “Long-term contract” defined"
 usc_title: 43
 usc_section: "3"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T07:44:49.221Z"
+generated_at: "2026-03-30T07:46:48.663Z"
 status: "active"
 ---
 

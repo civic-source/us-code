@@ -3,9 +3,9 @@ title: "Section 3504 - Repealed. Pub. L. 85–507 , § 21(b)(2), July 7, 1958 , 
 usc_title: 50
 usc_section: "3504"
 chapter: 46
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "50 U.S.C. § 3504"
-generated_at: "2026-03-30T07:45:22.108Z"
+generated_at: "2026-03-30T07:47:13.226Z"
 status: "repealed"
 ---
 

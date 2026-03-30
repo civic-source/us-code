@@ -3,9 +3,9 @@ title: "Section 1 - Backlog prevention: projects from Public Law 114–322"
 usc_title: 33
 usc_section: "1"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T07:44:42.282Z"
+generated_at: "2026-03-30T07:46:37.764Z"
 status: "active"
 ---
 

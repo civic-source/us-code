@@ -3,9 +3,9 @@ title: "Section 9a - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 12
 usc_section: "9a"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 9a"
-generated_at: "2026-03-30T07:43:33.935Z"
+generated_at: "2026-03-30T07:46:02.634Z"
 status: "repealed"
 ---
 

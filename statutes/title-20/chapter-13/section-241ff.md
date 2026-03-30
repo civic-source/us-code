@@ -3,9 +3,9 @@ title: "Section 241ff - Repealed. Pub. L. 100–297, title V , § 5352(1), Apr. 
 usc_title: 20
 usc_section: "241ff"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 241ff"
-generated_at: "2026-03-30T07:43:51.750Z"
+generated_at: "2026-03-30T07:46:11.789Z"
 status: "repealed"
 ---
 

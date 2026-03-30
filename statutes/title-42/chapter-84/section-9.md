@@ -3,9 +3,9 @@ title: "Section 9 - Attorney fees"
 usc_title: 42
 usc_section: "9"
 chapter: 84
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T07:45:06.696Z"
+generated_at: "2026-03-30T07:47:00.191Z"
 status: "active"
 ---
 

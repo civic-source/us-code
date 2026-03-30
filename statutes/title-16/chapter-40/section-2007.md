@@ -3,9 +3,9 @@ title: "Section 2007 - Authorization of appropriations"
 usc_title: 16
 usc_section: "2007"
 chapter: 40
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 2007"
-generated_at: "2026-03-30T07:43:56.563Z"
+generated_at: "2026-03-30T07:46:15.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 100108 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "100108"
 chapter: 1001
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "36 U.S.C. § 100108"
-generated_at: "2026-03-30T07:44:44.716Z"
+generated_at: "2026-03-30T07:46:40.137Z"
 status: "active"
 ---
 

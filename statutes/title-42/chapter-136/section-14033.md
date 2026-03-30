@@ -3,9 +3,9 @@ title: "Section 14033 - Transferred"
 usc_title: 42
 usc_section: "14033"
 chapter: 136
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 14033"
-generated_at: "2026-03-30T07:45:06.829Z"
+generated_at: "2026-03-30T07:47:00.333Z"
 status: "transferred"
 ---
 

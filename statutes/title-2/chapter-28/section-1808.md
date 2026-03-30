@@ -3,9 +3,9 @@ title: "Section 1808 - Inspector General of the Architect of the Capitol"
 usc_title: 2
 usc_section: "1808"
 chapter: 28
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 1808"
-generated_at: "2026-03-30T07:43:01.587Z"
+generated_at: "2026-03-30T07:45:37.424Z"
 status: "active"
 ---
 

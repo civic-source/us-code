@@ -3,9 +3,9 @@ title: "Section 5372b - Administrative appeals judges"
 usc_title: 5
 usc_section: "5372b"
 chapter: 53
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "5 U.S.C. § 5372b"
-generated_at: "2026-03-30T07:43:04.423Z"
+generated_at: "2026-03-30T07:45:39.126Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1461 - Establishment and purpose of Fund; definition"
 usc_title: 10
 usc_section: "1461"
 chapter: 74
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 1461"
-generated_at: "2026-03-30T07:43:26.933Z"
+generated_at: "2026-03-30T07:45:51.306Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3357 - Submission of petitions"
 usc_title: 19
 usc_section: "3357"
 chapter: 21
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 3357"
-generated_at: "2026-03-30T07:44:07.702Z"
+generated_at: "2026-03-30T07:46:09.237Z"
 status: "active"
 ---
 

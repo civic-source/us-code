@@ -3,9 +3,9 @@ title: "Section 1386 - Disposition of surplus or obsolete personal property"
 usc_title: 2
 usc_section: "1386"
 chapter: 24
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 1386"
-generated_at: "2026-03-30T07:43:01.583Z"
+generated_at: "2026-03-30T07:45:37.418Z"
 status: "active"
 ---
 

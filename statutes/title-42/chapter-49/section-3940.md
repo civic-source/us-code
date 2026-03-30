@@ -3,9 +3,9 @@ title: "Section 3940 - Reservation of right to repeal, alter, or amend chapter"
 usc_title: 42
 usc_section: "3940"
 chapter: 49
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 3940"
-generated_at: "2026-03-30T07:45:06.615Z"
+generated_at: "2026-03-30T07:47:00.104Z"
 status: "active"
 ---
 

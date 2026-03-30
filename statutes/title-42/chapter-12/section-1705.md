@@ -3,9 +3,9 @@ title: "Section 1705 - Receipt of workmen’s compensation benefits"
 usc_title: 42
 usc_section: "1705"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 1705"
-generated_at: "2026-03-30T07:45:06.543Z"
+generated_at: "2026-03-30T07:47:00.024Z"
 status: "active"
 ---
 

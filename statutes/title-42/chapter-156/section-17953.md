@@ -3,9 +3,9 @@ title: "Section 17953 - Studies, reports, guidance"
 usc_title: 42
 usc_section: "17953"
 chapter: 156
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 17953"
-generated_at: "2026-03-30T07:45:06.867Z"
+generated_at: "2026-03-30T07:47:00.373Z"
 status: "active"
 ---
 

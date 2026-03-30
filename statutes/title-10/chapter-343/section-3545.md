@@ -3,9 +3,9 @@ title: "Section 3545 - Repealed. Pub. L. 90–235 , § 4(a)(6), (b)(1), Jan. 2, 
 usc_title: 10
 usc_section: "3545"
 chapter: 343
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 3545"
-generated_at: "2026-03-30T07:43:26.986Z"
+generated_at: "2026-03-30T07:45:51.406Z"
 status: "repealed"
 ---
 

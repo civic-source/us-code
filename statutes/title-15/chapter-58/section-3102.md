@@ -3,9 +3,9 @@ title: "Section 3102 - Report to Congressional committees"
 usc_title: 15
 usc_section: "3102"
 chapter: 58
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 3102"
-generated_at: "2026-03-30T07:43:45.535Z"
+generated_at: "2026-03-30T07:45:58.956Z"
 status: "active"
 ---
 

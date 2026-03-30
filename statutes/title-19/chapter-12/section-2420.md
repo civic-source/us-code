@@ -3,9 +3,9 @@ title: "Section 2420 - Trade enforcement priorities"
 usc_title: 19
 usc_section: "2420"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 2420"
-generated_at: "2026-03-30T07:44:07.687Z"
+generated_at: "2026-03-30T07:46:09.215Z"
 status: "active"
 ---
 

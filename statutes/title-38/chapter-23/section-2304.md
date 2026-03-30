@@ -3,9 +3,9 @@ title: "Section 2304 - Claims for reimbursement"
 usc_title: 38
 usc_section: "2304"
 chapter: 23
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "38 U.S.C. § 2304"
-generated_at: "2026-03-30T07:44:46.275Z"
+generated_at: "2026-03-30T07:46:46.217Z"
 status: "active"
 ---
 

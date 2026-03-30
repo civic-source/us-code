@@ -3,9 +3,9 @@ title: "Section 2000 - Homestead protection"
 usc_title: 7
 usc_section: "2000"
 chapter: 50
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 2000"
-generated_at: "2026-03-30T07:43:10.028Z"
+generated_at: "2026-03-30T07:45:46.504Z"
 status: "active"
 ---
 

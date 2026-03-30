@@ -3,9 +3,9 @@ title: "Section 3113 - Acquisition by condemnation"
 usc_title: 40
 usc_section: "3113"
 chapter: 31
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "40 U.S.C. § 3113"
-generated_at: "2026-03-30T07:44:46.707Z"
+generated_at: "2026-03-30T07:46:40.912Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1359dd - Allocation of marketing allotments"
 usc_title: 7
 usc_section: "1359dd"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 1359dd"
-generated_at: "2026-03-30T07:43:09.994Z"
+generated_at: "2026-03-30T07:45:46.455Z"
 status: "active"
 ---
 

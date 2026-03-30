@@ -3,9 +3,9 @@ title: "Section 150301 - Federal charter"
 usc_title: 36
 usc_section: "150301"
 chapter: 1503
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "36 U.S.C. § 150301"
-generated_at: "2026-03-30T07:44:44.718Z"
+generated_at: "2026-03-30T07:46:40.139Z"
 status: "active"
 ---
 

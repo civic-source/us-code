@@ -3,9 +3,9 @@ title: "Section 2655 - Worker protection"
 usc_title: 15
 usc_section: "2655"
 chapter: 53
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 2655"
-generated_at: "2026-03-30T07:43:45.529Z"
+generated_at: "2026-03-30T07:45:58.948Z"
 status: "active"
 ---
 

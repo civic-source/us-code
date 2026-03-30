@@ -3,9 +3,9 @@ title: "Section 677r - Omitted"
 usc_title: 25
 usc_section: "677r"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 677r"
-generated_at: "2026-03-30T07:44:25.276Z"
+generated_at: "2026-03-30T07:46:20.634Z"
 status: "omitted"
 ---
 

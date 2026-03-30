@@ -3,9 +3,9 @@ title: "Section 2495b - Sale or rental of sexually explicit material prohibited"
 usc_title: 10
 usc_section: "2495b"
 chapter: 147
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2495b"
-generated_at: "2026-03-30T07:43:26.968Z"
+generated_at: "2026-03-30T07:45:51.373Z"
 status: "active"
 ---
 

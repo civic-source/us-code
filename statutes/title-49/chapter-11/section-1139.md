@@ -3,9 +3,9 @@ title: "Section 1139 - Assistance to families of passengers involved in rail pas
 usc_title: 49
 usc_section: "1139"
 chapter: 11
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "49 U.S.C. § 1139"
-generated_at: "2026-03-30T07:45:20.806Z"
+generated_at: "2026-03-30T07:47:24.783Z"
 status: "active"
 ---
 

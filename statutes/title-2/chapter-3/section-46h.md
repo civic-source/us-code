@@ -3,9 +3,9 @@ title: "Section 46h - Repealed. May 29, 1951, ch. 117 , § 2, 65 Stat. 47 , eff.
 usc_title: 2
 usc_section: "46h"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 46h"
-generated_at: "2026-03-30T07:43:01.552Z"
+generated_at: "2026-03-30T07:45:37.390Z"
 status: "repealed"
 ---
 

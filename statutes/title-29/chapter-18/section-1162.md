@@ -3,9 +3,9 @@ title: "Section 1162 - Continuation coverage"
 usc_title: 29
 usc_section: "1162"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "29 U.S.C. § 1162"
-generated_at: "2026-03-30T07:44:38.091Z"
+generated_at: "2026-03-30T07:46:27.593Z"
 status: "active"
 ---
 

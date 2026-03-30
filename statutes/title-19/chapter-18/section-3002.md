@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 19
 usc_section: "3002"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 3002"
-generated_at: "2026-03-30T07:44:07.698Z"
+generated_at: "2026-03-30T07:46:09.231Z"
 status: "active"
 ---
 

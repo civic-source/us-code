@@ -3,9 +3,9 @@ title: "Section 2394 - Renumbered § 2922a]"
 usc_title: 10
 usc_section: "2394"
 chapter: 141
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2394"
-generated_at: "2026-03-30T07:43:26.962Z"
+generated_at: "2026-03-30T07:45:51.361Z"
 status: "renumbered"
 ---
 

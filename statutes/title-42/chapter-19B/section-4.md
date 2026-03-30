@@ -3,9 +3,9 @@ title: "Section 4 - Northeastern United States water supply"
 usc_title: 42
 usc_section: "4"
 chapter: 19
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T07:45:06.563Z"
+generated_at: "2026-03-30T07:47:00.046Z"
 status: "active"
 ---
 

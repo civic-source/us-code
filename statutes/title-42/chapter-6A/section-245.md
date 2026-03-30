@@ -3,9 +3,9 @@ title: "Section 245 - Public access defibrillation demonstration projects"
 usc_title: 42
 usc_section: "245"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 245"
-generated_at: "2026-03-30T07:45:06.226Z"
+generated_at: "2026-03-30T07:46:59.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 124c - Coordination with information sharing environment"
 usc_title: 6
 usc_section: "124c"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "6 U.S.C. § 124c"
-generated_at: "2026-03-30T07:43:18.568Z"
+generated_at: "2026-03-30T07:45:41.893Z"
 status: "active"
 ---
 

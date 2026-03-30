@@ -3,9 +3,9 @@ title: "Section 16765 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16765"
 chapter: 150
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 16765"
-generated_at: "2026-03-30T07:45:06.855Z"
+generated_at: "2026-03-30T07:47:00.361Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3224 - Repealed. Pub. L. 104–127, title VIII , § 873, Apr. 4,
 usc_title: 7
 usc_section: "3224"
 chapter: 64
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 3224"
-generated_at: "2026-03-30T07:43:10.061Z"
+generated_at: "2026-03-30T07:45:46.552Z"
 status: "repealed"
 ---
 

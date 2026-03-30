@@ -3,9 +3,9 @@ title: "Section 424b - Application of certain statutes to lands sold"
 usc_title: 43
 usc_section: "424b"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "43 U.S.C. § 424b"
-generated_at: "2026-03-30T07:44:49.219Z"
+generated_at: "2026-03-30T07:46:48.661Z"
 status: "active"
 ---
 

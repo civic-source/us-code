@@ -3,9 +3,9 @@ title: "Section 7947 - Allocation of responsibility for noneconomic loss"
 usc_title: 20
 usc_section: "7947"
 chapter: 70
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 7947"
-generated_at: "2026-03-30T07:43:51.869Z"
+generated_at: "2026-03-30T07:46:11.976Z"
 status: "active"
 ---
 

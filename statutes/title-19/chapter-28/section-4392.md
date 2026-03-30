@@ -3,9 +3,9 @@ title: "Section 4392 - Annual report on prevention and investigation of evasion 
 usc_title: 19
 usc_section: "4392"
 chapter: 28
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 4392"
-generated_at: "2026-03-30T07:44:07.717Z"
+generated_at: "2026-03-30T07:46:09.258Z"
 status: "active"
 ---
 

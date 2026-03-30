@@ -3,9 +3,9 @@ title: "Section 215 - Receipt of commissions or gifts for procuring loans"
 usc_title: 18
 usc_section: "215"
 chapter: 11
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 215"
-generated_at: "2026-03-30T07:43:53.560Z"
+generated_at: "2026-03-30T07:46:07.337Z"
 status: "active"
 ---
 

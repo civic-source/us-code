@@ -3,9 +3,9 @@ title: "Section 5903a - Nonduplication of programs, projects, and research facil
 usc_title: 42
 usc_section: "5903a"
 chapter: 74
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 5903a"
-generated_at: "2026-03-30T07:45:06.652Z"
+generated_at: "2026-03-30T07:47:00.144Z"
 status: "active"
 ---
 

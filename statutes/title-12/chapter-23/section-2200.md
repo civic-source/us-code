@@ -3,9 +3,9 @@ title: "Section 2200 - Access to documents and information"
 usc_title: 12
 usc_section: "2200"
 chapter: 23
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 2200"
-generated_at: "2026-03-30T07:43:34.035Z"
+generated_at: "2026-03-30T07:46:02.792Z"
 status: "active"
 ---
 

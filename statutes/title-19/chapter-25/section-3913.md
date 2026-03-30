@@ -3,9 +3,9 @@ title: "Section 3913 - Delegation of authorities"
 usc_title: 19
 usc_section: "3913"
 chapter: 25
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 3913"
-generated_at: "2026-03-30T07:44:07.710Z"
+generated_at: "2026-03-30T07:46:09.249Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1755 - Repealed. Pub. L. 105–220, title I , § 199(b)(2), Aug.
 usc_title: 29
 usc_section: "1755"
 chapter: 19
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "29 U.S.C. § 1755"
-generated_at: "2026-03-30T07:44:38.104Z"
+generated_at: "2026-03-30T07:46:27.608Z"
 status: "repealed"
 ---
 

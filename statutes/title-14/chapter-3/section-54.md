@@ -3,9 +3,9 @@ title: "Section 54 - Chief of Staff to President: appointment"
 usc_title: 14
 usc_section: "54"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 54"
-generated_at: "2026-03-30T07:43:30.594Z"
+generated_at: "2026-03-30T07:45:55.500Z"
 status: "active"
 ---
 

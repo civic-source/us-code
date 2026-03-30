@@ -3,9 +3,9 @@ title: "Section 7454 - Repealed. Pub. L. 114–95, title VI , § 6002(n)(1), Dec
 usc_title: 20
 usc_section: "7454"
 chapter: 70
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 7454"
-generated_at: "2026-03-30T07:43:51.861Z"
+generated_at: "2026-03-30T07:46:11.963Z"
 status: "repealed"
 ---
 

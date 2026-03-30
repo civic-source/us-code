@@ -3,9 +3,9 @@ title: "Section 14304 - Enforcement"
 usc_title: 42
 usc_section: "14304"
 chapter: 137
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 14304"
-generated_at: "2026-03-30T07:45:06.830Z"
+generated_at: "2026-03-30T07:47:00.333Z"
 status: "active"
 ---
 

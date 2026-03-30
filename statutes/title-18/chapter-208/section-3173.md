@@ -3,9 +3,9 @@ title: "Section 3173 - Sixth amendment rights"
 usc_title: 18
 usc_section: "3173"
 chapter: 208
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 3173"
-generated_at: "2026-03-30T07:43:53.601Z"
+generated_at: "2026-03-30T07:46:07.403Z"
 status: "active"
 ---
 

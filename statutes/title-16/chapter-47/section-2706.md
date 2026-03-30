@@ -3,9 +3,9 @@ title: "Section 2706 - New impoundments"
 usc_title: 16
 usc_section: "2706"
 chapter: 47
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 2706"
-generated_at: "2026-03-30T07:43:56.570Z"
+generated_at: "2026-03-30T07:46:15.526Z"
 status: "active"
 ---
 

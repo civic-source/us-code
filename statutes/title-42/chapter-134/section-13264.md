@@ -3,9 +3,9 @@ title: "Section 13264 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13264"
 chapter: 134
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 13264"
-generated_at: "2026-03-30T07:45:06.821Z"
+generated_at: "2026-03-30T07:47:00.324Z"
 status: "active"
 ---
 

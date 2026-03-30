@@ -3,9 +3,9 @@ title: "Section 1321 - Prevention of unauthorized landing of aliens"
 usc_title: 8
 usc_section: "1321"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "8 U.S.C. § 1321"
-generated_at: "2026-03-30T07:43:06.794Z"
+generated_at: "2026-03-30T07:45:42.553Z"
 status: "active"
 ---
 

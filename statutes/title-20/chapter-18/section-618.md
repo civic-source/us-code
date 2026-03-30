@@ -3,9 +3,9 @@ title: "Section 618 - Repealed. Pub. L. 91–230, title VI , § 662(2), (4), Apr
 usc_title: 20
 usc_section: "618"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 618"
-generated_at: "2026-03-30T07:43:51.750Z"
+generated_at: "2026-03-30T07:46:11.790Z"
 status: "repealed"
 ---
 

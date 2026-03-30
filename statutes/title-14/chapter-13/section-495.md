@@ -3,9 +3,9 @@ title: "Section 495 - Repealed. Pub. L. 87–526 , § 1(3), July 10, 1962 , 76 S
 usc_title: 14
 usc_section: "495"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 495"
-generated_at: "2026-03-30T07:43:30.596Z"
+generated_at: "2026-03-30T07:45:55.505Z"
 status: "repealed"
 ---
 

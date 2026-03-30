@@ -3,9 +3,9 @@ title: "Section 1080 - Contracts for medical care for spouses and children: elec
 usc_title: 10
 usc_section: "1080"
 chapter: 55
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 1080"
-generated_at: "2026-03-30T07:43:26.921Z"
+generated_at: "2026-03-30T07:45:51.284Z"
 status: "active"
 ---
 

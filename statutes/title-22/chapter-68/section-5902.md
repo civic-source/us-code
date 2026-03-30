@@ -3,9 +3,9 @@ title: "Section 5902 - Repealed. Pub. L. 113–291, div. A, title XIII , § 1351
 usc_title: 22
 usc_section: "5902"
 chapter: 68
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 5902"
-generated_at: "2026-03-30T07:44:13.692Z"
+generated_at: "2026-03-30T07:46:23.179Z"
 status: "repealed"
 ---
 

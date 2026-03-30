@@ -3,9 +3,9 @@ title: "Section 244 - Discrimination against person wearing uniform of armed for
 usc_title: 18
 usc_section: "244"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 244"
-generated_at: "2026-03-30T07:43:53.561Z"
+generated_at: "2026-03-30T07:46:07.338Z"
 status: "active"
 ---
 

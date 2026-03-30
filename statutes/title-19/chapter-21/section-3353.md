@@ -3,9 +3,9 @@ title: "Section 3353 - International Trade Commission action on petition"
 usc_title: 19
 usc_section: "3353"
 chapter: 21
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 3353"
-generated_at: "2026-03-30T07:44:07.702Z"
+generated_at: "2026-03-30T07:46:09.236Z"
 status: "active"
 ---
 

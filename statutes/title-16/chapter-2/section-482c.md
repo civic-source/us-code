@@ -3,9 +3,9 @@ title: "Section 482c - Patents affecting forest lands"
 usc_title: 16
 usc_section: "482c"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 482c"
-generated_at: "2026-03-30T07:43:56.468Z"
+generated_at: "2026-03-30T07:46:15.380Z"
 status: "active"
 ---
 

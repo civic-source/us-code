@@ -3,9 +3,9 @@ title: "Section 3838a - Conservation security program"
 usc_title: 16
 usc_section: "3838a"
 chapter: 58
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 3838a"
-generated_at: "2026-03-30T07:43:56.583Z"
+generated_at: "2026-03-30T07:46:15.544Z"
 status: "active"
 ---
 

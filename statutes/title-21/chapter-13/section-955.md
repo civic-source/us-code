@@ -3,9 +3,9 @@ title: "Section 955 - Possession on board vessels, etc., arriving in or departin
 usc_title: 21
 usc_section: "955"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "21 U.S.C. § 955"
-generated_at: "2026-03-30T07:44:23.335Z"
+generated_at: "2026-03-30T07:46:19.749Z"
 status: "active"
 ---
 

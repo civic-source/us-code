@@ -3,9 +3,9 @@ title: "Section 7309 - Construction of vessels in foreign shipyards: prohibition
 usc_title: 10
 usc_section: "7309"
 chapter: 633
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 7309"
-generated_at: "2026-03-30T07:43:27.000Z"
+generated_at: "2026-03-30T07:45:51.433Z"
 status: "active"
 ---
 

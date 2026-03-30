@@ -3,9 +3,9 @@ title: "Section 7103 - Naval War College: acceptance of grants for faculty resea
 usc_title: 10
 usc_section: "7103"
 chapter: 609
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 7103"
-generated_at: "2026-03-30T07:43:26.999Z"
+generated_at: "2026-03-30T07:45:51.429Z"
 status: "active"
 ---
 

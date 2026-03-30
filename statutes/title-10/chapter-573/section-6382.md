@@ -3,9 +3,9 @@ title: "Section 6382 - Repealed. Pub. L. 96–513, title III , § 335, Dec. 12, 
 usc_title: 10
 usc_section: "6382"
 chapter: 573
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 6382"
-generated_at: "2026-03-30T07:43:26.996Z"
+generated_at: "2026-03-30T07:45:51.425Z"
 status: "repealed"
 ---
 

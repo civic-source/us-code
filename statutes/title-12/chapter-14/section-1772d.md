@@ -3,9 +3,9 @@ title: "Section 1772d - Forfeiture of organization certificate for money launder
 usc_title: 12
 usc_section: "1772d"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 1772d"
-generated_at: "2026-03-30T07:43:33.998Z"
+generated_at: "2026-03-30T07:46:02.735Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2013 - Establishment of supplemental nutrition assistance progra
 usc_title: 7
 usc_section: "2013"
 chapter: 51
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 2013"
-generated_at: "2026-03-30T07:43:10.036Z"
+generated_at: "2026-03-30T07:45:46.515Z"
 status: "active"
 ---
 

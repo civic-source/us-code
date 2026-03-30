@@ -3,9 +3,9 @@ title: "Section 25 - Authorization of appropriations"
 usc_title: 22
 usc_section: "25"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 25"
-generated_at: "2026-03-30T07:44:13.596Z"
+generated_at: "2026-03-30T07:46:23.057Z"
 status: "active"
 ---
 

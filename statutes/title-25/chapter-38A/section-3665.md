@@ -3,9 +3,9 @@ title: "Section 3665 - Tribal authority"
 usc_title: 25
 usc_section: "3665"
 chapter: 38
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 3665"
-generated_at: "2026-03-30T07:44:25.312Z"
+generated_at: "2026-03-30T07:46:20.682Z"
 status: "active"
 ---
 

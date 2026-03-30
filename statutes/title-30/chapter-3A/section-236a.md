@@ -3,9 +3,9 @@ title: "Section 236a - Lands in naval petroleum reserves and naval oil-shale res
 usc_title: 30
 usc_section: "236a"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "30 U.S.C. § 236a"
-generated_at: "2026-03-30T07:44:27.783Z"
+generated_at: "2026-03-30T07:46:25.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24a - Financial subsidiaries of national banks"
 usc_title: 12
 usc_section: "24a"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 24a"
-generated_at: "2026-03-30T07:43:33.935Z"
+generated_at: "2026-03-30T07:46:02.635Z"
 status: "active"
 ---
 

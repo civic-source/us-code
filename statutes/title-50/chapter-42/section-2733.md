@@ -3,9 +3,9 @@ title: "Section 2733 - Program to monitor Department of Energy workers exposed t
 usc_title: 50
 usc_section: "2733"
 chapter: 42
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "50 U.S.C. § 2733"
-generated_at: "2026-03-30T07:45:22.092Z"
+generated_at: "2026-03-30T07:47:13.212Z"
 status: "active"
 ---
 

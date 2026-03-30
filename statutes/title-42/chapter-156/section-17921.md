@@ -3,9 +3,9 @@ title: "Section 17921 - Definitions"
 usc_title: 42
 usc_section: "17921"
 chapter: 156
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 17921"
-generated_at: "2026-03-30T07:45:06.866Z"
+generated_at: "2026-03-30T07:47:00.372Z"
 status: "active"
 ---
 

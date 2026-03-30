@@ -3,9 +3,9 @@ title: "Section 698o - Protection of significant historic assets"
 usc_title: 16
 usc_section: "698o"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 698o"
-generated_at: "2026-03-30T07:43:56.496Z"
+generated_at: "2026-03-30T07:46:15.420Z"
 status: "active"
 ---
 

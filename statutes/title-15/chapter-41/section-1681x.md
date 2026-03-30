@@ -3,9 +3,9 @@ title: "Section 1681x - Corporate and technological circumvention prohibited"
 usc_title: 15
 usc_section: "1681x"
 chapter: 41
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 1681x"
-generated_at: "2026-03-30T07:43:45.505Z"
+generated_at: "2026-03-30T07:45:58.908Z"
 status: "active"
 ---
 

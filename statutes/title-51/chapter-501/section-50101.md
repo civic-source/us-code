@@ -3,9 +3,9 @@ title: "Section 50101 - Definitions"
 usc_title: 51
 usc_section: "50101"
 chapter: 501
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "51 U.S.C. § 50101"
-generated_at: "2026-03-30T07:45:25.547Z"
+generated_at: "2026-03-30T07:47:26.598Z"
 status: "active"
 ---
 

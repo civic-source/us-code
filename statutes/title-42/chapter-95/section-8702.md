@@ -3,9 +3,9 @@ title: "Section 8702 - Omitted"
 usc_title: 42
 usc_section: "8702"
 chapter: 95
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 8702"
-generated_at: "2026-03-30T07:45:06.739Z"
+generated_at: "2026-03-30T07:47:00.238Z"
 status: "omitted"
 ---
 

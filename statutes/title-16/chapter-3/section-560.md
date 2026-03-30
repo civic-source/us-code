@@ -3,9 +3,9 @@ title: "Section 560 - Use of timber for telephone lines for fire protection"
 usc_title: 16
 usc_section: "560"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 560"
-generated_at: "2026-03-30T07:43:56.481Z"
+generated_at: "2026-03-30T07:46:15.399Z"
 status: "active"
 ---
 

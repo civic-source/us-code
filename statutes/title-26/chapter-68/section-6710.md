@@ -3,9 +3,9 @@ title: "Section 6710 - Failure to disclose that contributions are nondeductible"
 usc_title: 26
 usc_section: "6710"
 chapter: 68
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "26 U.S.C. § 6710"
-generated_at: "2026-03-30T07:44:36.312Z"
+generated_at: "2026-03-30T07:46:33.413Z"
 status: "active"
 ---
 

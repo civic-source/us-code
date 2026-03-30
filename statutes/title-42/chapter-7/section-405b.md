@@ -3,9 +3,9 @@ title: "Section 405b - Reducing identity fraud"
 usc_title: 42
 usc_section: "405b"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 405b"
-generated_at: "2026-03-30T07:45:06.354Z"
+generated_at: "2026-03-30T07:46:59.818Z"
 status: "active"
 ---
 

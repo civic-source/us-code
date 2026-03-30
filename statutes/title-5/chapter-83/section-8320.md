@@ -3,9 +3,9 @@ title: "Section 8320 - Offense or violation committed in compliance with orders"
 usc_title: 5
 usc_section: "8320"
 chapter: 83
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "5 U.S.C. § 8320"
-generated_at: "2026-03-30T07:43:04.442Z"
+generated_at: "2026-03-30T07:45:39.146Z"
 status: "active"
 ---
 

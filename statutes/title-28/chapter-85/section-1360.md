@@ -3,9 +3,9 @@ title: "Section 1360 - State civil jurisdiction in actions to which Indians are 
 usc_title: 28
 usc_section: "1360"
 chapter: 85
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "28 U.S.C. § 1360"
-generated_at: "2026-03-30T07:44:29.143Z"
+generated_at: "2026-03-30T07:46:26.405Z"
 status: "active"
 ---
 

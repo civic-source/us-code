@@ -3,9 +3,9 @@ title: "Section 1140p - Purpose"
 usc_title: 20
 usc_section: "1140p"
 chapter: 28
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 1140p"
-generated_at: "2026-03-30T07:43:51.802Z"
+generated_at: "2026-03-30T07:46:11.872Z"
 status: "active"
 ---
 

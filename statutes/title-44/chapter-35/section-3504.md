@@ -3,9 +3,9 @@ title: "Section 3504 - Authority and functions of Director"
 usc_title: 44
 usc_section: "3504"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "44 U.S.C. § 3504"
-generated_at: "2026-03-30T07:44:49.718Z"
+generated_at: "2026-03-30T07:46:48.129Z"
 status: "active"
 ---
 

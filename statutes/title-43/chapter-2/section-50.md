@@ -3,9 +3,9 @@ title: "Section 50 - Survey’s share of cost of topographic mapping or water re
 usc_title: 43
 usc_section: "50"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "43 U.S.C. § 50"
-generated_at: "2026-03-30T07:44:49.207Z"
+generated_at: "2026-03-30T07:46:48.649Z"
 status: "active"
 ---
 

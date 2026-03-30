@@ -3,9 +3,9 @@ title: "Section 50115 - Sources of Earth science data"
 usc_title: 51
 usc_section: "50115"
 chapter: 501
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "51 U.S.C. § 50115"
-generated_at: "2026-03-30T07:45:25.547Z"
+generated_at: "2026-03-30T07:47:26.598Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2200c - Centers of Academic Excellence in Cyber Education"
 usc_title: 10
 usc_section: "2200c"
 chapter: 112
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2200c"
-generated_at: "2026-03-30T07:43:26.947Z"
+generated_at: "2026-03-30T07:45:51.333Z"
 status: "active"
 ---
 

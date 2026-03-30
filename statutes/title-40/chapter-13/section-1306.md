@@ -3,9 +3,9 @@ title: "Section 1306 - Disposition of abandoned or forfeited personal property"
 usc_title: 40
 usc_section: "1306"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "40 U.S.C. § 1306"
-generated_at: "2026-03-30T07:44:46.706Z"
+generated_at: "2026-03-30T07:46:40.912Z"
 status: "active"
 ---
 

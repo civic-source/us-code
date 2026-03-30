@@ -3,9 +3,9 @@ title: "Section 2045 - Investment of court registry funds"
 usc_title: 28
 usc_section: "2045"
 chapter: 129
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "28 U.S.C. § 2045"
-generated_at: "2026-03-30T07:44:29.149Z"
+generated_at: "2026-03-30T07:46:26.412Z"
 status: "active"
 ---
 

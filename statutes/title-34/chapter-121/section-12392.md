@@ -3,9 +3,9 @@ title: "Section 12392 - Enforcement of statutory rape laws"
 usc_title: 34
 usc_section: "12392"
 chapter: 121
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 12392"
-generated_at: "2026-03-30T07:44:40.653Z"
+generated_at: "2026-03-30T07:46:36.254Z"
 status: "active"
 ---
 

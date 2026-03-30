@@ -3,9 +3,9 @@ title: "Section 1339c - Feed grains diversion programs for 1964 and subsequent y
 usc_title: 7
 usc_section: "1339c"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 1339c"
-generated_at: "2026-03-30T07:43:09.992Z"
+generated_at: "2026-03-30T07:45:46.452Z"
 status: "active"
 ---
 

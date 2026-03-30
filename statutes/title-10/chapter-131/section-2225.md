@@ -3,9 +3,9 @@ title: "Section 2225 - Repealed. Pub. L. 114–328, div. A, title VIII , § 833(
 usc_title: 10
 usc_section: "2225"
 chapter: 131
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2225"
-generated_at: "2026-03-30T07:43:26.950Z"
+generated_at: "2026-03-30T07:45:51.337Z"
 status: "repealed"
 ---
 

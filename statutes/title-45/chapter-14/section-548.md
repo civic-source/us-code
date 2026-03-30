@@ -3,9 +3,9 @@ title: "Section 548 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108 
 usc_title: 45
 usc_section: "548"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "45 U.S.C. § 548"
-generated_at: "2026-03-30T07:44:49.956Z"
+generated_at: "2026-03-30T07:46:48.953Z"
 status: "repealed"
 ---
 

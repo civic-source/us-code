@@ -3,9 +3,9 @@ title: "Section 6967 - Degree on graduation"
 usc_title: 10
 usc_section: "6967"
 chapter: 603
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 6967"
-generated_at: "2026-03-30T07:43:26.997Z"
+generated_at: "2026-03-30T07:45:51.427Z"
 status: "active"
 ---
 

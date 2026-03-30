@@ -3,9 +3,9 @@ title: "Section 5 - Confidentiality of genetic information"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T07:45:06.572Z"
+generated_at: "2026-03-30T07:47:00.056Z"
 status: "active"
 ---
 

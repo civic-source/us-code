@@ -3,9 +3,9 @@ title: "Section 1801 - Repealed. Pub. L. 106–419, title IV , § 401(c)(1), Nov
 usc_title: 38
 usc_section: "1801"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "38 U.S.C. § 1801"
-generated_at: "2026-03-30T07:44:46.268Z"
+generated_at: "2026-03-30T07:46:46.210Z"
 status: "repealed"
 ---
 

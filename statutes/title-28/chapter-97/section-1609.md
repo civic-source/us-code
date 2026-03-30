@@ -3,9 +3,9 @@ title: "Section 1609 - Immunity from attachment and execution of property of a f
 usc_title: 28
 usc_section: "1609"
 chapter: 97
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "28 U.S.C. § 1609"
-generated_at: "2026-03-30T07:44:29.145Z"
+generated_at: "2026-03-30T07:46:26.408Z"
 status: "active"
 ---
 

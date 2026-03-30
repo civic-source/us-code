@@ -3,9 +3,9 @@ title: "Section 17703 - National defense considerations and qualification of tra
 usc_title: 40
 usc_section: "17703"
 chapter: 177
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "40 U.S.C. § 17703"
-generated_at: "2026-03-30T07:44:46.718Z"
+generated_at: "2026-03-30T07:46:40.924Z"
 status: "active"
 ---
 

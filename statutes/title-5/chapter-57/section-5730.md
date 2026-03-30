@@ -3,9 +3,9 @@ title: "Section 5730 - Funds available"
 usc_title: 5
 usc_section: "5730"
 chapter: 57
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "5 U.S.C. § 5730"
-generated_at: "2026-03-30T07:43:04.431Z"
+generated_at: "2026-03-30T07:45:39.133Z"
 status: "active"
 ---
 

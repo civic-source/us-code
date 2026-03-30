@@ -3,9 +3,9 @@ title: "Section 2147 - Plant material exchanges"
 usc_title: 2
 usc_section: "2147"
 chapter: 30
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 2147"
-generated_at: "2026-03-30T07:43:01.594Z"
+generated_at: "2026-03-30T07:45:37.433Z"
 status: "active"
 ---
 

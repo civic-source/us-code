@@ -3,9 +3,9 @@ title: "Section 16233 - Low-cost renewable hydrogen and infrastructure for vehic
 usc_title: 42
 usc_section: "16233"
 chapter: 149
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 16233"
-generated_at: "2026-03-30T07:45:06.848Z"
+generated_at: "2026-03-30T07:47:00.353Z"
 status: "active"
 ---
 

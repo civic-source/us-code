@@ -3,9 +3,9 @@ title: "Section 1452 - Status and allowances of assigned personnel"
 usc_title: 22
 usc_section: "1452"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 1452"
-generated_at: "2026-03-30T07:44:13.614Z"
+generated_at: "2026-03-30T07:46:23.079Z"
 status: "active"
 ---
 

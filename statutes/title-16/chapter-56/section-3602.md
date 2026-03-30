@@ -3,9 +3,9 @@ title: "Section 3602 - United States representation on Council and Commissions"
 usc_title: 16
 usc_section: "3602"
 chapter: 56
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 3602"
-generated_at: "2026-03-30T07:43:56.578Z"
+generated_at: "2026-03-30T07:46:15.537Z"
 status: "active"
 ---
 

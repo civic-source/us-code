@@ -3,9 +3,9 @@ title: "Section 3521 - Authorization of appropriations"
 usc_title: 44
 usc_section: "3521"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "44 U.S.C. § 3521"
-generated_at: "2026-03-30T07:44:49.719Z"
+generated_at: "2026-03-30T07:46:48.130Z"
 status: "active"
 ---
 

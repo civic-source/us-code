@@ -3,9 +3,9 @@ title: "Section 2005e - Definitions"
 usc_title: 42
 usc_section: "2005e"
 chapter: 22
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 2005e"
-generated_at: "2026-03-30T07:45:06.573Z"
+generated_at: "2026-03-30T07:47:00.057Z"
 status: "active"
 ---
 

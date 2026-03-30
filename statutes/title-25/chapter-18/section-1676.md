@@ -3,9 +3,9 @@ title: "Section 1676 - Limitation on use of funds appropriated to Indian Health 
 usc_title: 25
 usc_section: "1676"
 chapter: 18
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 1676"
-generated_at: "2026-03-30T07:44:25.290Z"
+generated_at: "2026-03-30T07:46:20.652Z"
 status: "active"
 ---
 

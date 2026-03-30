@@ -3,9 +3,9 @@ title: "Section 4348 - Cadets: agreement to serve as officer"
 usc_title: 10
 usc_section: "4348"
 chapter: 403
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 4348"
-generated_at: "2026-03-30T07:43:26.988Z"
+generated_at: "2026-03-30T07:45:51.410Z"
 status: "active"
 ---
 

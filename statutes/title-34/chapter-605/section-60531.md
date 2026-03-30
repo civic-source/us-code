@@ -3,9 +3,9 @@ title: "Section 60531 - Mentoring grants to nonprofit organizations"
 usc_title: 34
 usc_section: "60531"
 chapter: 605
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 60531"
-generated_at: "2026-03-30T07:44:40.677Z"
+generated_at: "2026-03-30T07:46:36.285Z"
 status: "active"
 ---
 

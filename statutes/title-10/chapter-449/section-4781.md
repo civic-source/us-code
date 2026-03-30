@@ -3,9 +3,9 @@ title: "Section 4781 - Cyber Center for Education and Innovation-Home of the Nat
 usc_title: 10
 usc_section: "4781"
 chapter: 449
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 4781"
-generated_at: "2026-03-30T07:43:26.991Z"
+generated_at: "2026-03-30T07:45:51.415Z"
 status: "active"
 ---
 

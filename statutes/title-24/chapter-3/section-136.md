@@ -3,9 +3,9 @@ title: "Section 136 - Repealed. Pub. L. 85–56, title XXII , § 2202(1), (85), 
 usc_title: 24
 usc_section: "136"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "24 U.S.C. § 136"
-generated_at: "2026-03-30T07:44:13.797Z"
+generated_at: "2026-03-30T07:46:17.824Z"
 status: "repealed"
 ---
 

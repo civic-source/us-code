@@ -3,9 +3,9 @@ title: "Section 8693 - Repealed. Pub. L. 90–235 , § 7(a)(3), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8693"
 chapter: 853
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 8693"
-generated_at: "2026-03-30T07:43:27.005Z"
+generated_at: "2026-03-30T07:45:51.443Z"
 status: "repealed"
 ---
 

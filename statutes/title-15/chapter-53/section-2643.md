@@ -3,9 +3,9 @@ title: "Section 2643 - EPA regulations"
 usc_title: 15
 usc_section: "2643"
 chapter: 53
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 2643"
-generated_at: "2026-03-30T07:43:45.528Z"
+generated_at: "2026-03-30T07:45:58.946Z"
 status: "active"
 ---
 

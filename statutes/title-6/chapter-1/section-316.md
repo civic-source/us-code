@@ -3,9 +3,9 @@ title: "Section 316 - Preserving the Federal Emergency Management Agency"
 usc_title: 6
 usc_section: "316"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "6 U.S.C. § 316"
-generated_at: "2026-03-30T07:43:18.579Z"
+generated_at: "2026-03-30T07:45:41.905Z"
 status: "active"
 ---
 

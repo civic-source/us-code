@@ -3,9 +3,9 @@ title: "Section 2806 - Jurisdiction"
 usc_title: 25
 usc_section: "2806"
 chapter: 30
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "25 U.S.C. § 2806"
-generated_at: "2026-03-30T07:44:25.305Z"
+generated_at: "2026-03-30T07:46:20.673Z"
 status: "active"
 ---
 

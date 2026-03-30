@@ -3,9 +3,9 @@ title: "Section 773b - Acceptance or rejection of Commission recommendations"
 usc_title: 16
 usc_section: "773b"
 chapter: 10
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 773b"
-generated_at: "2026-03-30T07:43:56.502Z"
+generated_at: "2026-03-30T07:46:15.429Z"
 status: "active"
 ---
 

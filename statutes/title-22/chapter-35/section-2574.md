@@ -3,9 +3,9 @@ title: "Section 2574 - Negotiation management"
 usc_title: 22
 usc_section: "2574"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 2574"
-generated_at: "2026-03-30T07:44:13.650Z"
+generated_at: "2026-03-30T07:46:23.126Z"
 status: "active"
 ---
 

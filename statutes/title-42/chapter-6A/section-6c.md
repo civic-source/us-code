@@ -3,9 +3,9 @@ title: "Section 6c - Repealed. Pub. L. 113–5, title II , § 205, Mar. 13, 2013
 usc_title: 42
 usc_section: "6c"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 6c"
-generated_at: "2026-03-30T07:45:06.233Z"
+generated_at: "2026-03-30T07:46:59.688Z"
 status: "repealed"
 ---
 

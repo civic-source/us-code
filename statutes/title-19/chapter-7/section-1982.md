@@ -3,9 +3,9 @@ title: "Section 1982 - Marketing agreements"
 usc_title: 19
 usc_section: "1982"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "19 U.S.C. § 1982"
-generated_at: "2026-03-30T07:44:07.676Z"
+generated_at: "2026-03-30T07:46:09.200Z"
 status: "active"
 ---
 

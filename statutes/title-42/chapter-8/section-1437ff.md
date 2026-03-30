@@ -3,9 +3,9 @@ title: "Section 1437ff - Transferred"
 usc_title: 42
 usc_section: "1437ff"
 chapter: 8
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 1437ff"
-generated_at: "2026-03-30T07:45:06.530Z"
+generated_at: "2026-03-30T07:47:00.009Z"
 status: "transferred"
 ---
 

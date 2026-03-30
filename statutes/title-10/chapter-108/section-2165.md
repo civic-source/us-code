@@ -3,9 +3,9 @@ title: "Section 2165 - National Defense University: component institutions"
 usc_title: 10
 usc_section: "2165"
 chapter: 108
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2165"
-generated_at: "2026-03-30T07:43:26.946Z"
+generated_at: "2026-03-30T07:45:51.330Z"
 status: "active"
 ---
 

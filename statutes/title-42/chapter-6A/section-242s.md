@@ -3,9 +3,9 @@ title: "Section 242s - Centers for Disease Control and Prevention Office of Wome
 usc_title: 42
 usc_section: "242s"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 242s"
-generated_at: "2026-03-30T07:45:06.225Z"
+generated_at: "2026-03-30T07:46:59.679Z"
 status: "active"
 ---
 

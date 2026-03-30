@@ -3,9 +3,9 @@ title: "Section 2a - Confidentiality and delayed notice of compulsory process fo
 usc_title: 15
 usc_section: "2a"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T07:43:45.323Z"
+generated_at: "2026-03-30T07:45:58.721Z"
 status: "active"
 ---
 

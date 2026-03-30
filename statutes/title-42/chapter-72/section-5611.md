@@ -3,9 +3,9 @@ title: "Section 5611 - Transferred"
 usc_title: 42
 usc_section: "5611"
 chapter: 72
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 5611"
-generated_at: "2026-03-30T07:45:06.650Z"
+generated_at: "2026-03-30T07:47:00.141Z"
 status: "transferred"
 ---
 

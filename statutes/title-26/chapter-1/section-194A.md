@@ -3,9 +3,9 @@ title: "Section 194A - Contributions to employer liability trusts"
 usc_title: 26
 usc_section: "194A"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "26 U.S.C. § 194A"
-generated_at: "2026-03-30T07:44:36.149Z"
+generated_at: "2026-03-30T07:46:33.214Z"
 status: "active"
 ---
 

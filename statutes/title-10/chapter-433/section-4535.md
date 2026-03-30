@@ -3,9 +3,9 @@ title: "Section 4535 - Repealed. Pub. L. 103–160, div. A, title VIII , § 823(
 usc_title: 10
 usc_section: "4535"
 chapter: 433
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 4535"
-generated_at: "2026-03-30T07:43:26.989Z"
+generated_at: "2026-03-30T07:45:51.412Z"
 status: "repealed"
 ---
 

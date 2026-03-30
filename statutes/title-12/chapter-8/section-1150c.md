@@ -3,9 +3,9 @@ title: "Section 1150c - Self-hauling of hay or other roughages under hay transpo
 usc_title: 12
 usc_section: "1150c"
 chapter: 8
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 1150c"
-generated_at: "2026-03-30T07:43:33.955Z"
+generated_at: "2026-03-30T07:46:02.666Z"
 status: "active"
 ---
 

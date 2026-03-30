@@ -3,9 +3,9 @@ title: "Section 3611 - Additional remedies"
 usc_title: 15
 usc_section: "3611"
 chapter: 62
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 3611"
-generated_at: "2026-03-30T07:43:45.538Z"
+generated_at: "2026-03-30T07:45:58.963Z"
 status: "active"
 ---
 

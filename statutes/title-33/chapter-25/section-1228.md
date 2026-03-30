@@ -3,9 +3,9 @@ title: "Section 1228 - Conditions for entry to ports in the United States"
 usc_title: 33
 usc_section: "1228"
 chapter: 25
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "33 U.S.C. § 1228"
-generated_at: "2026-03-30T07:44:42.298Z"
+generated_at: "2026-03-30T07:46:37.783Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1746 - Insurance on mortgages on large-scale housing projects"
 usc_title: 12
 usc_section: "1746"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 1746"
-generated_at: "2026-03-30T07:43:33.994Z"
+generated_at: "2026-03-30T07:46:02.727Z"
 status: "active"
 ---
 

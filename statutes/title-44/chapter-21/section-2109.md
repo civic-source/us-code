@@ -3,9 +3,9 @@ title: "Section 2109 - Preservation, arrangement, duplication, exhibition of rec
 usc_title: 44
 usc_section: "2109"
 chapter: 21
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "44 U.S.C. § 2109"
-generated_at: "2026-03-30T07:44:49.715Z"
+generated_at: "2026-03-30T07:46:48.127Z"
 status: "active"
 ---
 

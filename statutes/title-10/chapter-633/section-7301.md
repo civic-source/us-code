@@ -3,9 +3,9 @@ title: "Section 7301 - Determination of vessel delivery dates"
 usc_title: 10
 usc_section: "7301"
 chapter: 633
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 7301"
-generated_at: "2026-03-30T07:43:26.999Z"
+generated_at: "2026-03-30T07:45:51.432Z"
 status: "active"
 ---
 

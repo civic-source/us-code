@@ -3,9 +3,9 @@ title: "Section 3052 - Limitation on establishment or operation of diplomatic in
 usc_title: 50
 usc_section: "3052"
 chapter: 44
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "50 U.S.C. § 3052"
-generated_at: "2026-03-30T07:45:22.099Z"
+generated_at: "2026-03-30T07:47:13.218Z"
 status: "active"
 ---
 

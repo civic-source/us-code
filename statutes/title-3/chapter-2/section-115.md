@@ -3,9 +3,9 @@ title: "Section 115 - Veterans’ preference"
 usc_title: 3
 usc_section: "115"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "3 U.S.C. § 115"
-generated_at: "2026-03-30T07:42:48.387Z"
+generated_at: "2026-03-30T07:45:36.104Z"
 status: "active"
 ---
 

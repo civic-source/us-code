@@ -3,9 +3,9 @@ title: "Section 10707 - Evaluation of performance of Department of Justice progr
 usc_title: 34
 usc_section: "10707"
 chapter: 101
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 10707"
-generated_at: "2026-03-30T07:44:40.643Z"
+generated_at: "2026-03-30T07:46:36.243Z"
 status: "active"
 ---
 

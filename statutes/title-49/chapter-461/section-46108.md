@@ -3,9 +3,9 @@ title: "Section 46108 - Enforcement of certificate requirements by interested pe
 usc_title: 49
 usc_section: "46108"
 chapter: 461
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "49 U.S.C. § 46108"
-generated_at: "2026-03-30T07:45:20.876Z"
+generated_at: "2026-03-30T07:47:24.843Z"
 status: "active"
 ---
 

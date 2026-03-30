@@ -3,9 +3,9 @@ title: "Section 1695 - Federal education and health care programs; nonapplicabil
 usc_title: 48
 usc_section: "1695"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "48 U.S.C. § 1695"
-generated_at: "2026-03-30T07:45:22.801Z"
+generated_at: "2026-03-30T07:47:03.064Z"
 status: "active"
 ---
 

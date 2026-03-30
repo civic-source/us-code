@@ -3,9 +3,9 @@ title: "Section 556 - Appropriations for Forest Service; use for transportation 
 usc_title: 16
 usc_section: "556"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 556"
-generated_at: "2026-03-30T07:43:56.481Z"
+generated_at: "2026-03-30T07:46:15.398Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 283i - Repealed. Pub. L. 101–240, title V , § 541(d)(3), Dec.
 usc_title: 22
 usc_section: "283i"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 283i"
-generated_at: "2026-03-30T07:44:13.599Z"
+generated_at: "2026-03-30T07:46:23.061Z"
 status: "repealed"
 ---
 

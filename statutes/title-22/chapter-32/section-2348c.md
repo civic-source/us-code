@@ -3,9 +3,9 @@ title: "Section 2348c - Administrative authorities"
 usc_title: 22
 usc_section: "2348c"
 chapter: 32
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 2348c"
-generated_at: "2026-03-30T07:44:13.638Z"
+generated_at: "2026-03-30T07:46:23.111Z"
 status: "active"
 ---
 

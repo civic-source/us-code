@@ -3,9 +3,9 @@ title: "Section 3040 - Repealed. Pub. L. 103–337, div. A, title IX , § 904(b)
 usc_title: 10
 usc_section: "3040"
 chapter: 305
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 3040"
-generated_at: "2026-03-30T07:43:26.985Z"
+generated_at: "2026-03-30T07:45:51.405Z"
 status: "repealed"
 ---
 

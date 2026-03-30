@@ -3,9 +3,9 @@ title: "Section 1627 - Creation of special funds in Treasury"
 usc_title: 22
 usc_section: "1627"
 chapter: 21
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 1627"
-generated_at: "2026-03-30T07:44:13.616Z"
+generated_at: "2026-03-30T07:46:23.083Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13 - Funding"
 usc_title: 42
 usc_section: "13"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T07:45:06.513Z"
+generated_at: "2026-03-30T07:46:59.990Z"
 status: "active"
 ---
 

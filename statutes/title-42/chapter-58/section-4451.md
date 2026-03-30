@@ -3,9 +3,9 @@ title: "Section 4451 - Transferred"
 usc_title: 42
 usc_section: "4451"
 chapter: 58
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 4451"
-generated_at: "2026-03-30T07:45:06.625Z"
+generated_at: "2026-03-30T07:47:00.114Z"
 status: "transferred"
 ---
 

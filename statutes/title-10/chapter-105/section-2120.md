@@ -3,9 +3,9 @@ title: "Section 2120 - Definitions"
 usc_title: 10
 usc_section: "2120"
 chapter: 105
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 2120"
-generated_at: "2026-03-30T07:43:26.945Z"
+generated_at: "2026-03-30T07:45:51.328Z"
 status: "active"
 ---
 

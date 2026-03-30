@@ -3,9 +3,9 @@ title: "Section 16022 - Project management"
 usc_title: 42
 usc_section: "16022"
 chapter: 149
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 16022"
-generated_at: "2026-03-30T07:45:06.843Z"
+generated_at: "2026-03-30T07:47:00.347Z"
 status: "active"
 ---
 

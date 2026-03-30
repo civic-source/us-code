@@ -3,9 +3,9 @@ title: "Section 7459 - Reports and decisions"
 usc_title: 26
 usc_section: "7459"
 chapter: 76
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "26 U.S.C. § 7459"
-generated_at: "2026-03-30T07:44:36.319Z"
+generated_at: "2026-03-30T07:46:33.422Z"
 status: "active"
 ---
 

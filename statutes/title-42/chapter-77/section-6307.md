@@ -3,9 +3,9 @@ title: "Section 6307 - Consumer education"
 usc_title: 42
 usc_section: "6307"
 chapter: 77
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 6307"
-generated_at: "2026-03-30T07:45:06.663Z"
+generated_at: "2026-03-30T07:47:00.156Z"
 status: "active"
 ---
 

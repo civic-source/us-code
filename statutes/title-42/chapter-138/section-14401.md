@@ -3,9 +3,9 @@ title: "Section 14401 - Findings and purpose"
 usc_title: 42
 usc_section: "14401"
 chapter: 138
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 14401"
-generated_at: "2026-03-30T07:45:06.831Z"
+generated_at: "2026-03-30T07:47:00.334Z"
 status: "active"
 ---
 

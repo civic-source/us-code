@@ -3,9 +3,9 @@ title: "Section 872 - Omitted"
 usc_title: 33
 usc_section: "872"
 chapter: 17
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "33 U.S.C. § 872"
-generated_at: "2026-03-30T07:44:42.290Z"
+generated_at: "2026-03-30T07:46:37.774Z"
 status: "omitted"
 ---
 

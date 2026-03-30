@@ -3,9 +3,9 @@ title: "Section 984 - Civil forfeiture of fungible property"
 usc_title: 18
 usc_section: "984"
 chapter: 46
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 984"
-generated_at: "2026-03-30T07:43:53.574Z"
+generated_at: "2026-03-30T07:46:07.358Z"
 status: "active"
 ---
 

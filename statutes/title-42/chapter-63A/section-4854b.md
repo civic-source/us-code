@@ -3,9 +3,9 @@ title: "Section 4854b - Authorization"
 usc_title: 42
 usc_section: "4854b"
 chapter: 63
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 4854b"
-generated_at: "2026-03-30T07:45:06.629Z"
+generated_at: "2026-03-30T07:47:00.118Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 525 - Future location of claims on mineral lands"
 usc_title: 30
 usc_section: "525"
 chapter: 12
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "30 U.S.C. § 525"
-generated_at: "2026-03-30T07:44:27.784Z"
+generated_at: "2026-03-30T07:46:25.695Z"
 status: "active"
 ---
 

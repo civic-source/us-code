@@ -3,9 +3,9 @@ title: "Section 6164 - Extension of time for payment of taxes by corporations ex
 usc_title: 26
 usc_section: "6164"
 chapter: 62
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "26 U.S.C. § 6164"
-generated_at: "2026-03-30T07:44:36.297Z"
+generated_at: "2026-03-30T07:46:33.395Z"
 status: "active"
 ---
 

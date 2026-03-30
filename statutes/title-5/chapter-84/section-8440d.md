@@ -3,9 +3,9 @@ title: "Section 8440d - Judges of the United States Court of Appeals for Veteran
 usc_title: 5
 usc_section: "8440d"
 chapter: 84
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "5 U.S.C. § 8440d"
-generated_at: "2026-03-30T07:43:04.452Z"
+generated_at: "2026-03-30T07:45:39.157Z"
 status: "active"
 ---
 

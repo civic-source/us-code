@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 101–624, title XI , § 1161(a)(2), Nov. 
 usc_title: 7
 usc_section: "5"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T07:43:09.999Z"
+generated_at: "2026-03-30T07:45:46.463Z"
 status: "repealed"
 ---
 

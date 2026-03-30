@@ -3,9 +3,9 @@ title: "Section 499p - Liability of licensees for acts and omissions of agents"
 usc_title: 7
 usc_section: "499p"
 chapter: 20
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 499p"
-generated_at: "2026-03-30T07:43:09.978Z"
+generated_at: "2026-03-30T07:45:46.431Z"
 status: "active"
 ---
 

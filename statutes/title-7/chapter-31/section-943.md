@@ -3,9 +3,9 @@ title: "Section 943 - Special provisions governing telephone bank as a Federal a
 usc_title: 7
 usc_section: "943"
 chapter: 31
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 943"
-generated_at: "2026-03-30T07:43:09.986Z"
+generated_at: "2026-03-30T07:45:46.444Z"
 status: "active"
 ---
 

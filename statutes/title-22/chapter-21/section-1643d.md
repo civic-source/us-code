@@ -3,9 +3,9 @@ title: "Section 1643d - Claims based on ownership interest in or debt or other o
 usc_title: 22
 usc_section: "1643d"
 chapter: 21
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 1643d"
-generated_at: "2026-03-30T07:44:13.619Z"
+generated_at: "2026-03-30T07:46:23.086Z"
 status: "active"
 ---
 

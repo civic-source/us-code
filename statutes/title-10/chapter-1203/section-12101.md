@@ -3,9 +3,9 @@ title: "Section 12101 - Definition"
 usc_title: 10
 usc_section: "12101"
 chapter: 1203
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 12101"
-generated_at: "2026-03-30T07:43:27.014Z"
+generated_at: "2026-03-30T07:45:51.459Z"
 status: "active"
 ---
 

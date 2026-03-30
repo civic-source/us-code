@@ -3,9 +3,9 @@ title: "Section 11279 - Definitions"
 usc_title: 34
 usc_section: "11279"
 chapter: 111
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 11279"
-generated_at: "2026-03-30T07:44:40.646Z"
+generated_at: "2026-03-30T07:46:36.247Z"
 status: "active"
 ---
 

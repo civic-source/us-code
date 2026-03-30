@@ -3,9 +3,9 @@ title: "Section 120 - Benefit of earlier filing date in the United States"
 usc_title: 35
 usc_section: "120"
 chapter: 11
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "35 U.S.C. § 120"
-generated_at: "2026-03-30T07:44:39.859Z"
+generated_at: "2026-03-30T07:46:35.275Z"
 status: "active"
 ---
 

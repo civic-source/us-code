@@ -3,9 +3,9 @@ title: "Section 1688 - Neutrality with respect to abortion"
 usc_title: 20
 usc_section: "1688"
 chapter: 38
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 1688"
-generated_at: "2026-03-30T07:43:51.821Z"
+generated_at: "2026-03-30T07:46:11.902Z"
 status: "active"
 ---
 

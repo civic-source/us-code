@@ -3,9 +3,9 @@ title: "Section 30122 - Contributions in name of another prohibited"
 usc_title: 52
 usc_section: "30122"
 chapter: 301
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "52 U.S.C. § 30122"
-generated_at: "2026-03-30T07:45:24.604Z"
+generated_at: "2026-03-30T07:47:37.473Z"
 status: "active"
 ---
 

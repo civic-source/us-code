@@ -3,9 +3,9 @@ title: "Section 5232 - Credit reform"
 usc_title: 12
 usc_section: "5232"
 chapter: 52
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 5232"
-generated_at: "2026-03-30T07:43:34.084Z"
+generated_at: "2026-03-30T07:46:02.869Z"
 status: "active"
 ---
 

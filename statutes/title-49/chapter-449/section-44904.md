@@ -3,9 +3,9 @@ title: "Section 44904 - Domestic air transportation system security"
 usc_title: 49
 usc_section: "44904"
 chapter: 449
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "49 U.S.C. § 44904"
-generated_at: "2026-03-30T07:45:20.872Z"
+generated_at: "2026-03-30T07:47:24.839Z"
 status: "active"
 ---
 

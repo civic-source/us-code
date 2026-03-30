@@ -3,9 +3,9 @@ title: "Section 20111 - Enforcement by the Secretary of Transportation"
 usc_title: 49
 usc_section: "20111"
 chapter: 201
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "49 U.S.C. § 20111"
-generated_at: "2026-03-30T07:45:20.832Z"
+generated_at: "2026-03-30T07:47:24.805Z"
 status: "active"
 ---
 

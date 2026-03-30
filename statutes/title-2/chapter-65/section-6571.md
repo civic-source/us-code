@@ -3,9 +3,9 @@ title: "Section 6571 - Repealed. Pub. L. 113–235, div. H, title I , § 1(a), D
 usc_title: 2
 usc_section: "6571"
 chapter: 65
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 6571"
-generated_at: "2026-03-30T07:43:01.606Z"
+generated_at: "2026-03-30T07:45:37.500Z"
 status: "repealed"
 ---
 

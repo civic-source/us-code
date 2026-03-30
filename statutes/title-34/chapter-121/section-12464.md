@@ -3,9 +3,9 @@ title: "Section 12464 - Grants to support families in the justice system"
 usc_title: 34
 usc_section: "12464"
 chapter: 121
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "34 U.S.C. § 12464"
-generated_at: "2026-03-30T07:44:40.654Z"
+generated_at: "2026-03-30T07:46:36.255Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1515 - Application for recognition"
 usc_title: 11
 usc_section: "1515"
 chapter: 15
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "11 U.S.C. § 1515"
-generated_at: "2026-03-30T07:43:31.915Z"
+generated_at: "2026-03-30T07:45:54.723Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6864b - Technical transfer grants"
 usc_title: 42
 usc_section: "6864b"
 chapter: 81
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 6864b"
-generated_at: "2026-03-30T07:45:06.675Z"
+generated_at: "2026-03-30T07:47:00.169Z"
 status: "active"
 ---
 

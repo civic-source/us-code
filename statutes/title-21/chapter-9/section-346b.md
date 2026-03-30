@@ -3,9 +3,9 @@ title: "Section 346b - Authorization of appropriations"
 usc_title: 21
 usc_section: "346b"
 chapter: 9
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "21 U.S.C. § 346b"
-generated_at: "2026-03-30T07:44:23.278Z"
+generated_at: "2026-03-30T07:46:19.677Z"
 status: "active"
 ---
 

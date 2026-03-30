@@ -3,9 +3,9 @@ title: "Section 4001 - Limitation on detention; control of prisons"
 usc_title: 18
 usc_section: "4001"
 chapter: 301
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 4001"
-generated_at: "2026-03-30T07:43:53.610Z"
+generated_at: "2026-03-30T07:46:07.418Z"
 status: "active"
 ---
 

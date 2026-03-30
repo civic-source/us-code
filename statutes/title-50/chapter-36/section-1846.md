@@ -3,9 +3,9 @@ title: "Section 1846 - Congressional oversight"
 usc_title: 50
 usc_section: "1846"
 chapter: 36
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "50 U.S.C. § 1846"
-generated_at: "2026-03-30T07:45:22.073Z"
+generated_at: "2026-03-30T07:47:13.194Z"
 status: "active"
 ---
 

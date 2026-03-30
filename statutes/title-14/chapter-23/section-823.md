@@ -3,9 +3,9 @@ title: "Section 823 - Eligibility; enrollments"
 usc_title: 14
 usc_section: "823"
 chapter: 23
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 823"
-generated_at: "2026-03-30T07:43:30.600Z"
+generated_at: "2026-03-30T07:45:55.510Z"
 status: "active"
 ---
 

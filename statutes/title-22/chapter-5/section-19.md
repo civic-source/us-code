@@ -3,9 +3,9 @@ title: "Section 19 - Transferred"
 usc_title: 22
 usc_section: "19"
 chapter: 5
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 19"
-generated_at: "2026-03-30T07:44:13.588Z"
+generated_at: "2026-03-30T07:46:23.047Z"
 status: "transferred"
 ---
 

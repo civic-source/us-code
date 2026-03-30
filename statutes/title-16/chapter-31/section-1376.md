@@ -3,9 +3,9 @@ title: "Section 1376 - Seizure and forfeiture of cargo"
 usc_title: 16
 usc_section: "1376"
 chapter: 31
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 1376"
-generated_at: "2026-03-30T07:43:56.539Z"
+generated_at: "2026-03-30T07:46:15.481Z"
 status: "active"
 ---
 

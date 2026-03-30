@@ -3,9 +3,9 @@ title: "Section 1522 - Acceptance of gifts and bequests for purposes of the Depa
 usc_title: 15
 usc_section: "1522"
 chapter: 40
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 1522"
-generated_at: "2026-03-30T07:43:45.489Z"
+generated_at: "2026-03-30T07:45:58.882Z"
 status: "active"
 ---
 

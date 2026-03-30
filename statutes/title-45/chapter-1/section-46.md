@@ -3,9 +3,9 @@ title: "Section 46 - Transferred"
 usc_title: 45
 usc_section: "46"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "45 U.S.C. § 46"
-generated_at: "2026-03-30T07:44:49.945Z"
+generated_at: "2026-03-30T07:46:48.941Z"
 status: "transferred"
 ---
 

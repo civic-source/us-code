@@ -3,9 +3,9 @@ title: "Section 701 - Definitions"
 usc_title: 6
 usc_section: "701"
 chapter: 2
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "6 U.S.C. § 701"
-generated_at: "2026-03-30T07:43:18.592Z"
+generated_at: "2026-03-30T07:45:41.919Z"
 status: "active"
 ---
 

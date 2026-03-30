@@ -3,9 +3,9 @@ title: "Section 665 - Restriction on construction of vessels in foreign shipyard
 usc_title: 14
 usc_section: "665"
 chapter: 17
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 665"
-generated_at: "2026-03-30T07:43:30.599Z"
+generated_at: "2026-03-30T07:45:55.509Z"
 status: "active"
 ---
 

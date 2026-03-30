@@ -3,9 +3,9 @@ title: "Section 6911a - Assistant Administrator of Environmental Protection Agen
 usc_title: 42
 usc_section: "6911a"
 chapter: 82
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 6911a"
-generated_at: "2026-03-30T07:45:06.677Z"
+generated_at: "2026-03-30T07:47:00.171Z"
 status: "active"
 ---
 

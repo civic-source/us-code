@@ -3,9 +3,9 @@ title: "Section 2290 - Exemptions"
 usc_title: 12
 usc_section: "2290"
 chapter: 24
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 2290"
-generated_at: "2026-03-30T07:43:34.045Z"
+generated_at: "2026-03-30T07:46:02.808Z"
 status: "active"
 ---
 

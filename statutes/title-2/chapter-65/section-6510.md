@@ -3,9 +3,9 @@ title: "Section 6510 - Materials, supplies, and fuel payments from Senate contin
 usc_title: 2
 usc_section: "6510"
 chapter: 65
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 6510"
-generated_at: "2026-03-30T07:43:01.605Z"
+generated_at: "2026-03-30T07:45:37.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5411 - Repealed. Pub. L. 90–130 , § 1(16), Nov. 8, 1967 , 81 
 usc_title: 10
 usc_section: "5411"
 chapter: 531
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 5411"
-generated_at: "2026-03-30T07:43:26.993Z"
+generated_at: "2026-03-30T07:45:51.420Z"
 status: "repealed"
 ---
 

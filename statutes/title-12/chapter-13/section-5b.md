@@ -3,9 +3,9 @@ title: "Section 5b - Liquidation of New Communities Program; cancellation of deb
 usc_title: 12
 usc_section: "5b"
 chapter: 13
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "12 U.S.C. § 5b"
-generated_at: "2026-03-30T07:43:33.968Z"
+generated_at: "2026-03-30T07:46:02.685Z"
 status: "active"
 ---
 

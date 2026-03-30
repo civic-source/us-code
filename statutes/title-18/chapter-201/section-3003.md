@@ -3,9 +3,9 @@ title: "Section 3003 - Calendars—(Rule)"
 usc_title: 18
 usc_section: "3003"
 chapter: 201
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 3003"
-generated_at: "2026-03-30T07:43:53.597Z"
+generated_at: "2026-03-30T07:46:07.397Z"
 status: "active"
 ---
 

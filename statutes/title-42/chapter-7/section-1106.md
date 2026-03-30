@@ -3,9 +3,9 @@ title: "Section 1106 - Unemployment compensation research program"
 usc_title: 42
 usc_section: "1106"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 1106"
-generated_at: "2026-03-30T07:45:06.387Z"
+generated_at: "2026-03-30T07:46:59.853Z"
 status: "active"
 ---
 

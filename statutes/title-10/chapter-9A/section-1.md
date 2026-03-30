@@ -3,9 +3,9 @@ title: "Section 1 - Audits: audit of financial statements of Department of Defen
 usc_title: 10
 usc_section: "1"
 chapter: 9
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T07:43:26.891Z"
+generated_at: "2026-03-30T07:45:51.222Z"
 status: "active"
 ---
 

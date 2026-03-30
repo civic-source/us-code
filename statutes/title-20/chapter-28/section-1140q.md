@@ -3,9 +3,9 @@ title: "Section 1140q - National technical assistance center; coordinating cente
 usc_title: 20
 usc_section: "1140q"
 chapter: 28
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "20 U.S.C. § 1140q"
-generated_at: "2026-03-30T07:43:51.802Z"
+generated_at: "2026-03-30T07:46:11.872Z"
 status: "active"
 ---
 

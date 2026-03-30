@@ -3,9 +3,9 @@ title: "Section 98 - National Coast Guard Museum"
 usc_title: 14
 usc_section: "98"
 chapter: 5
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 98"
-generated_at: "2026-03-30T07:43:30.595Z"
+generated_at: "2026-03-30T07:45:55.501Z"
 status: "active"
 ---
 

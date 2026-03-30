@@ -3,9 +3,9 @@ title: "Section 41a - Active duty promotion list"
 usc_title: 14
 usc_section: "41a"
 chapter: 3
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 41a"
-generated_at: "2026-03-30T07:43:30.593Z"
+generated_at: "2026-03-30T07:45:55.499Z"
 status: "active"
 ---
 

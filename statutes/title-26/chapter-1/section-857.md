@@ -3,9 +3,9 @@ title: "Section 857 - Taxation of real estate investment trusts and their benefi
 usc_title: 26
 usc_section: "857"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "26 U.S.C. § 857"
-generated_at: "2026-03-30T07:44:36.212Z"
+generated_at: "2026-03-30T07:46:33.291Z"
 status: "active"
 ---
 

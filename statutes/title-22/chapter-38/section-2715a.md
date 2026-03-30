@@ -3,9 +3,9 @@ title: "Section 2715a - Provision of information on certain violent crimes abroa
 usc_title: 22
 usc_section: "2715a"
 chapter: 38
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 2715a"
-generated_at: "2026-03-30T07:44:13.656Z"
+generated_at: "2026-03-30T07:46:23.133Z"
 status: "active"
 ---
 

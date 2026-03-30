@@ -3,9 +3,9 @@ title: "Section 3107 - Consultations; creation of independent public advisory co
 usc_title: 22
 usc_section: "3107"
 chapter: 46
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 3107"
-generated_at: "2026-03-30T07:44:13.664Z"
+generated_at: "2026-03-30T07:46:23.143Z"
 status: "active"
 ---
 

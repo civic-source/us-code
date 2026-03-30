@@ -3,9 +3,9 @@ title: "Section 1440 - Transferred"
 usc_title: 48
 usc_section: "1440"
 chapter: 9
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "48 U.S.C. § 1440"
-generated_at: "2026-03-30T07:45:22.796Z"
+generated_at: "2026-03-30T07:47:03.060Z"
 status: "transferred"
 ---
 

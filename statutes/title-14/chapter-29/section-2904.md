@@ -3,9 +3,9 @@ title: "Section 2904 - Manpower requirements plan"
 usc_title: 14
 usc_section: "2904"
 chapter: 29
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "14 U.S.C. § 2904"
-generated_at: "2026-03-30T07:43:30.602Z"
+generated_at: "2026-03-30T07:45:55.512Z"
 status: "active"
 ---
 

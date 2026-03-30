@@ -3,9 +3,9 @@ title: "Section 493 - Enforcement of provisions; prosecution of cases"
 usc_title: 7
 usc_section: "493"
 chapter: 20
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 493"
-generated_at: "2026-03-30T07:43:09.976Z"
+generated_at: "2026-03-30T07:45:46.429Z"
 status: "active"
 ---
 

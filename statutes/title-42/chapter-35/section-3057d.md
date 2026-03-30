@@ -3,9 +3,9 @@ title: "Section 3057d - Grants authorized"
 usc_title: 42
 usc_section: "3057d"
 chapter: 35
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 3057d"
-generated_at: "2026-03-30T07:45:06.603Z"
+generated_at: "2026-03-30T07:47:00.090Z"
 status: "active"
 ---
 

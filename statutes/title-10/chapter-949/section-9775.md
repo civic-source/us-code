@@ -3,9 +3,9 @@ title: "Section 9775 - Repealed. Pub. L. 92–145, title V , § 509(b), Oct. 27,
 usc_title: 10
 usc_section: "9775"
 chapter: 949
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 9775"
-generated_at: "2026-03-30T07:43:27.009Z"
+generated_at: "2026-03-30T07:45:51.451Z"
 status: "repealed"
 ---
 

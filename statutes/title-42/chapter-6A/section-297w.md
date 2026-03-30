@@ -3,9 +3,9 @@ title: "Section 297w - Public service announcements"
 usc_title: 42
 usc_section: "297w"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 297w"
-generated_at: "2026-03-30T07:45:06.295Z"
+generated_at: "2026-03-30T07:46:59.755Z"
 status: "active"
 ---
 

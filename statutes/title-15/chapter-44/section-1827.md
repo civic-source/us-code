@@ -3,9 +3,9 @@ title: "Section 1827 - Utilization of personnel of Department of Agriculture and
 usc_title: 15
 usc_section: "1827"
 chapter: 44
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 1827"
-generated_at: "2026-03-30T07:43:45.511Z"
+generated_at: "2026-03-30T07:45:58.917Z"
 status: "active"
 ---
 

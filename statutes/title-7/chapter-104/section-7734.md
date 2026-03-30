@@ -3,9 +3,9 @@ title: "Section 7734 - Penalties for violation"
 usc_title: 7
 usc_section: "7734"
 chapter: 104
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "7 U.S.C. § 7734"
-generated_at: "2026-03-30T07:43:10.107Z"
+generated_at: "2026-03-30T07:45:46.615Z"
 status: "active"
 ---
 

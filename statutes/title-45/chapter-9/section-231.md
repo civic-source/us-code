@@ -3,9 +3,9 @@ title: "Section 231 - Definitions"
 usc_title: 45
 usc_section: "231"
 chapter: 9
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "45 U.S.C. § 231"
-generated_at: "2026-03-30T07:44:49.947Z"
+generated_at: "2026-03-30T07:46:48.945Z"
 status: "active"
 ---
 

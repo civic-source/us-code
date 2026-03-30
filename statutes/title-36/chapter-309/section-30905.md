@@ -3,9 +3,9 @@ title: "Section 30905 - Exclusive right to emblems, badges, marks, and words"
 usc_title: 36
 usc_section: "30905"
 chapter: 309
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "36 U.S.C. § 30905"
-generated_at: "2026-03-30T07:44:44.712Z"
+generated_at: "2026-03-30T07:46:40.134Z"
 status: "active"
 ---
 

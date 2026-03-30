@@ -3,9 +3,9 @@ title: "Section 190 - Repealed. S. Res. 4, § 301(b), Feb. 4, 1977"
 usc_title: 2
 usc_section: "190"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "2 U.S.C. § 190"
-generated_at: "2026-03-30T07:43:01.565Z"
+generated_at: "2026-03-30T07:45:37.398Z"
 status: "repealed"
 ---
 

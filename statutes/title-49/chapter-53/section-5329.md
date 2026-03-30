@@ -3,9 +3,9 @@ title: "Section 5329 - Public transportation safety program"
 usc_title: 49
 usc_section: "5329"
 chapter: 53
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "49 U.S.C. § 5329"
-generated_at: "2026-03-30T07:45:20.816Z"
+generated_at: "2026-03-30T07:47:24.791Z"
 status: "active"
 ---
 

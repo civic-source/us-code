@@ -3,9 +3,9 @@ title: "Section 140 - Applicability of part"
 usc_title: 42
 usc_section: "140"
 chapter: 6
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 140"
-generated_at: "2026-03-30T07:45:06.334Z"
+generated_at: "2026-03-30T07:46:59.796Z"
 status: "active"
 ---
 

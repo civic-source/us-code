@@ -3,9 +3,9 @@ title: "Section 8450 - Repealed. Pub. L. 90–235 , § 3(b)(1), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8450"
 chapter: 839
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 8450"
-generated_at: "2026-03-30T07:43:27.004Z"
+generated_at: "2026-03-30T07:45:51.442Z"
 status: "repealed"
 ---
 

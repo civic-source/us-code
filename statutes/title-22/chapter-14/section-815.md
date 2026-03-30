@@ -3,9 +3,9 @@ title: "Section 815 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , e
 usc_title: 22
 usc_section: "815"
 chapter: 14
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "22 U.S.C. § 815"
-generated_at: "2026-03-30T07:44:13.612Z"
+generated_at: "2026-03-30T07:46:23.077Z"
 status: "repealed"
 ---
 

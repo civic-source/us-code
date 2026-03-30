@@ -3,9 +3,9 @@ title: "Section 427a - Omitted"
 usc_title: 16
 usc_section: "427a"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 427a"
-generated_at: "2026-03-30T07:43:56.422Z"
+generated_at: "2026-03-30T07:46:15.314Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3207 - Repealed. Pub. L. 96–513, title II , § 202, Dec. 12, 1
 usc_title: 10
 usc_section: "3207"
 chapter: 331
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 3207"
-generated_at: "2026-03-30T07:43:26.985Z"
+generated_at: "2026-03-30T07:45:51.405Z"
 status: "repealed"
 ---
 

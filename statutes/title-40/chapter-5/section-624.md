@@ -3,9 +3,9 @@ title: "Section 624 - Information on certain leasing authorities"
 usc_title: 40
 usc_section: "624"
 chapter: 5
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "40 U.S.C. § 624"
-generated_at: "2026-03-30T07:44:46.705Z"
+generated_at: "2026-03-30T07:46:40.911Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5513 - Repealed. Pub. L. 114–329, title I , § 105(h), Jan. 6,
 usc_title: 15
 usc_section: "5513"
 chapter: 81
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "15 U.S.C. § 5513"
-generated_at: "2026-03-30T07:43:45.551Z"
+generated_at: "2026-03-30T07:45:58.982Z"
 status: "repealed"
 ---
 

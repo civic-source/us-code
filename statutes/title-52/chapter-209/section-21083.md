@@ -3,9 +3,9 @@ title: "Section 21083 - Computerized statewide voter registration list requireme
 usc_title: 52
 usc_section: "21083"
 chapter: 209
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "52 U.S.C. § 21083"
-generated_at: "2026-03-30T07:45:24.600Z"
+generated_at: "2026-03-30T07:47:37.469Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 553 - Importation or exportation of stolen motor vehicles, off-h
 usc_title: 18
 usc_section: "553"
 chapter: 27
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "18 U.S.C. § 553"
-generated_at: "2026-03-30T07:43:53.565Z"
+generated_at: "2026-03-30T07:46:07.343Z"
 status: "active"
 ---
 

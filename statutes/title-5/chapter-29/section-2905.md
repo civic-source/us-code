@@ -3,9 +3,9 @@ title: "Section 2905 - Oath; renewal"
 usc_title: 5
 usc_section: "2905"
 chapter: 29
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "5 U.S.C. § 2905"
-generated_at: "2026-03-30T07:43:04.412Z"
+generated_at: "2026-03-30T07:45:39.114Z"
 status: "active"
 ---
 

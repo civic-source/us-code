@@ -3,9 +3,9 @@ title: "Section 2789 - Omitted"
 usc_title: 42
 usc_section: "2789"
 chapter: 34
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 2789"
-generated_at: "2026-03-30T07:45:06.592Z"
+generated_at: "2026-03-30T07:47:00.079Z"
 status: "omitted"
 ---
 

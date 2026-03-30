@@ -3,9 +3,9 @@ title: "Section 1409j - Repealed. Pub. L. 97–357, title III , § 308(d), Oct. 
 usc_title: 48
 usc_section: "1409j"
 chapter: 7
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "48 U.S.C. § 1409j"
-generated_at: "2026-03-30T07:45:22.794Z"
+generated_at: "2026-03-30T07:47:03.058Z"
 status: "repealed"
 ---
 

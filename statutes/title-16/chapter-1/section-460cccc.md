@@ -3,9 +3,9 @@ title: "Section 460cccc - Ste. Genevieve National Historical Park"
 usc_title: 16
 usc_section: "460cccc"
 chapter: 1
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "16 U.S.C. § 460cccc"
-generated_at: "2026-03-30T07:43:56.465Z"
+generated_at: "2026-03-30T07:46:15.375Z"
 status: "active"
 ---
 

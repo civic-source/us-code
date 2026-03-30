@@ -3,9 +3,9 @@ title: "Section 8742 - Air Force cross: award"
 usc_title: 10
 usc_section: "8742"
 chapter: 857
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "10 U.S.C. § 8742"
-generated_at: "2026-03-30T07:43:27.005Z"
+generated_at: "2026-03-30T07:45:51.443Z"
 status: "active"
 ---
 

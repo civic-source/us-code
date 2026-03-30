@@ -3,9 +3,9 @@ title: "Section 18361 - Sense of Congress on the Space Shuttle program"
 usc_title: 42
 usc_section: "18361"
 chapter: 159
-current_through: "PL 115-230"
+current_through: "PL 115-231"
 classification: "42 U.S.C. § 18361"
-generated_at: "2026-03-30T07:45:06.875Z"
+generated_at: "2026-03-30T07:47:00.382Z"
 status: "active"
 ---
 
