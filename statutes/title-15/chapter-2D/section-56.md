@@ -3,9 +3,9 @@ title: "Section 56 - Transactions with certain affiliates"
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-30T06:06:17.755Z"
+generated_at: "2026-03-30T06:09:10.388Z"
 status: "active"
 ---
 
@@ -57,8 +57,8 @@ status: "active"
 - **(l)** The provisions of subsection (k) of this section shall apply to the following persons:
   - **(1)** Any affiliated person of a business development company.
   - **(2)**
-    - **(A)** Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person or any director, officer, employee, or member of an advisory board of the business development company.
-    - **(B)** Any person who is, within the meaning of section 82a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
+    - **(A)** Any person who is, within the meaning of section 80a–2(a)(3)(B), (C), or (D) of this title, an affiliated person of any director, officer, employee, or member of an advisory board of the business development company.
+    - **(B)** Any person who is, within the meaning of section 80a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
     - **(C)** Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title , an affiliated person of any person who is an affiliated person of the business development company within the meaning of section 80a–2(a)(3)(A) of this title .
 - **(m)** For purposes of subsections (a) and (d), a person who is a director, officer, or employee of a party to a transaction and who receives his usual and ordinary fee or salary for usual and customary services as a director, officer, or employee from such party shall not be deemed to have a financial interest or to participate in the transaction solely by reason of his receipt of such fee or salary.
 - **(n)**

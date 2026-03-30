@@ -3,9 +3,9 @@ title: "Section 4205 - Implementation of trade agreements"
 usc_title: 19
 usc_section: "4205"
 chapter: 27
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 4205"
-generated_at: "2026-03-30T06:06:23.888Z"
+generated_at: "2026-03-30T06:09:16.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9507 - Streamlined demonstration project authority"
 usc_title: 5
 usc_section: "9507"
 chapter: 95
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "5 U.S.C. § 9507"
-generated_at: "2026-03-30T06:05:49.213Z"
+generated_at: "2026-03-30T06:07:51.673Z"
 status: "active"
 ---
 

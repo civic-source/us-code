@@ -3,9 +3,9 @@ title: "Section 1395bbb - Conditions of participation for home health agencies; 
 usc_title: 42
 usc_section: "1395bbb"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395bbb"
-generated_at: "2026-03-30T06:07:18.636Z"
+generated_at: "2026-03-30T06:10:19.040Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
         - **(I)** has been determined to be out of compliance with subparagraph (A), (B), or (C);
         - **(II)** has been subject to an extended (or partial extended) survey under subsection (c)(2)(D);
         - **(III)** has been assessed a civil money penalty described in subsection (f)(2)(A)(i) of not less than $5,000; or
-        - **(IV)** has been subject to the remedies described in subsection (e)(1) of this section or in clauses (ii) or (iii) of subsection (f)(2)(A).
+        - **(IV)** has been subject to the remedies described in subsection (e)(1) or in clauses (ii) or (iii) of subsection (f)(2)(A).
       - **(iv)** Such standards shall permit a determination that an individual who has completed (before July 1, 1989 ) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretary under the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
     - **(E)** In this paragraph, the term “home health aide” means any individual who provides the items and services described in section 1395x(m) of this title , but does not include an individual—
       - **(i)** who is a licensed health professional (as defined in subparagraph (F)), or

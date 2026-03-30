@@ -3,9 +3,9 @@ title: "Section 2171 - Battery recharging stations for privately owned vehicles 
 usc_title: 2
 usc_section: "2171"
 chapter: 30
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "2 U.S.C. § 2171"
-generated_at: "2026-03-30T06:05:31.211Z"
+generated_at: "2026-03-30T06:07:44.581Z"
 status: "active"
 ---
 

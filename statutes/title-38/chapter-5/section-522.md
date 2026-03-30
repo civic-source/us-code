@@ -3,9 +3,9 @@ title: "Section 522 - Studies of rehabilitation of disabled persons"
 usc_title: 38
 usc_section: "522"
 chapter: 5
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "38 U.S.C. § 522"
-generated_at: "2026-03-30T06:06:57.789Z"
+generated_at: "2026-03-30T06:10:00.103Z"
 status: "active"
 ---
 

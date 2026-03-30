@@ -3,16 +3,16 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T06:06:17.767Z"
+generated_at: "2026-03-30T06:09:10.400Z"
 status: "active"
 ---
 
 # § 632. Definitions
 
 - **(a)**
-  - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
+  - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
   - **(2)**
     - **(A)** In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards by which a business concern may be determined to be a small business concern for the purposes of this chapter or any other Act.
     - **(B)** The standards described in paragraph (1) may utilize number of employees, dollar volume of business, net worth, net income, a combination thereof, or other appropriate factors.

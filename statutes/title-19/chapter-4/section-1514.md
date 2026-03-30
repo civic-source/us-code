@@ -3,9 +3,9 @@ title: "Section 1514 - Protest against decisions of Customs Service"
 usc_title: 19
 usc_section: "1514"
 chapter: 4
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 1514"
-generated_at: "2026-03-30T06:06:23.833Z"
+generated_at: "2026-03-30T06:09:16.629Z"
 status: "active"
 ---
 

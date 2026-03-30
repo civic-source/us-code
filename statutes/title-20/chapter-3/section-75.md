@@ -3,9 +3,9 @@ title: "Section 75 - Authority and functions of the board"
 usc_title: 20
 usc_section: "75"
 chapter: 3
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 75"
-generated_at: "2026-03-30T06:06:22.665Z"
+generated_at: "2026-03-30T06:09:24.680Z"
 status: "active"
 ---
 

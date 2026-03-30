@@ -3,9 +3,9 @@ title: "Section 8849 - Repealed. Pub. L. 86–559 , § 1(72), June 30, 1960 , 74
 usc_title: 10
 usc_section: "8849"
 chapter: 863
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 8849"
-generated_at: "2026-03-30T06:06:04.853Z"
+generated_at: "2026-03-30T06:08:21.077Z"
 status: "repealed"
 ---
 

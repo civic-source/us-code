@@ -3,9 +3,9 @@ title: "Section 1590 - Trafficking with respect to peonage, slavery, involuntary
 usc_title: 18
 usc_section: "1590"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 1590"
-generated_at: "2026-03-30T06:06:20.987Z"
+generated_at: "2026-03-30T06:09:18.213Z"
 status: "active"
 ---
 

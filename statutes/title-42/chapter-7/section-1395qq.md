@@ -3,9 +3,9 @@ title: "Section 1395qq - Indian Health Service facilities"
 usc_title: 42
 usc_section: "1395qq"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395qq"
-generated_at: "2026-03-30T06:07:18.623Z"
+generated_at: "2026-03-30T06:10:19.027Z"
 status: "active"
 ---
 
@@ -23,5 +23,5 @@ status: "active"
     - **(A)** Services for which payment is made under section 1395w–4 of this title .
     - **(B)** Services furnished by a practitioner described in section 1395u(b)(18)(C) of this title for which payment under part B is made under a fee schedule.
     - **(C)** Services furnished by a physical therapist or occupational therapist as described in section 1395x(p) of this title for which payment under part B is made under a fee schedule.
-  - **(3)** Subsection (c) of this section shall not apply to payments made under this subsection.
+  - **(3)** Subsection (c) shall not apply to payments made under this subsection.
 - **(f)** For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25 . 1 1 See References in Text note below.

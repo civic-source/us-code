@@ -3,9 +3,9 @@ title: "Section 145 - Penalties"
 usc_title: 21
 usc_section: "145"
 chapter: 4
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "21 U.S.C. § 145"
-generated_at: "2026-03-30T06:06:33.018Z"
+generated_at: "2026-03-30T06:09:31.039Z"
 status: "active"
 ---
 

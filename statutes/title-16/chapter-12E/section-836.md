@@ -3,9 +3,9 @@ title: "Section 836 - Authorization to license construction and operation; licen
 usc_title: 16
 usc_section: "836"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 836"
-generated_at: "2026-03-30T06:06:26.119Z"
+generated_at: "2026-03-30T06:09:20.857Z"
 status: "active"
 ---
 

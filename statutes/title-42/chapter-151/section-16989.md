@@ -3,9 +3,9 @@ title: "Section 16989 - Fugitive Safe Surrender"
 usc_title: 42
 usc_section: "16989"
 chapter: 151
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 16989"
-generated_at: "2026-03-30T06:07:19.052Z"
+generated_at: "2026-03-30T06:10:19.457Z"
 status: "active"
 ---
 

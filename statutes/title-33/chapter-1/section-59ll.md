@@ -1,15 +1,15 @@
 ---
-title: "Section 5911 - Central Delaware River, Philadelphia, Pennsylvania"
+title: "Section 59ll - Central Delaware River, Philadelphia, Pennsylvania"
 usc_title: 33
-usc_section: "5911"
+usc_section: "59ll"
 chapter: 1
-current_through: "PL 115-22"
-classification: "33 U.S.C. § 5911"
-generated_at: "2026-03-30T06:06:53.648Z"
+current_through: "PL 115-29"
+classification: "33 U.S.C. § 59ll"
+generated_at: "2026-03-30T06:09:50.846Z"
 status: "active"
 ---
 
-# § 59 11 . Central Delaware River, Philadelphia, Pennsylvania
+# § 59ll. Central Delaware River, Philadelphia, Pennsylvania
 
 - **(a)** Subject to subsection (c), unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that there are substantive objections, those portions of the Delaware River, bounded by the former bulkhead and pierhead lines that were established by the Secretary of War and successors and described as follows, are declared to be nonnavigable waters of the United States:
   - **(1)** Piers 70 South through 38 South, encompassing an area bounded by the southern line of Moore Street extended to the northern line of Catherine Street extended, including the following piers: Piers 70, 68, 67, 64, 61–63, 60, 57, 55, 53, 48, 46, 40, and 38.

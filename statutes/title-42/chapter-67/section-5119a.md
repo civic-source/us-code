@@ -3,9 +3,9 @@ title: "Section 5119a - Background checks"
 usc_title: 42
 usc_section: "5119a"
 chapter: 67
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5119a"
-generated_at: "2026-03-30T06:07:18.807Z"
+generated_at: "2026-03-30T06:10:19.207Z"
 status: "active"
 ---
 
@@ -14,12 +14,12 @@ status: "active"
 - **(a)**
   - **(1)** A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a provider has been convicted of a crime that bears upon the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
   - **(2)** The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
-  - **(3)** In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
-- **(b)** The procedures established under subsection (a) of this section shall require—
-  - **(1)** that no qualified entity may request a background check of a provider under subsection (a) of this section unless the provider first provides a set of fingerprints and completes and signs a statement that—
+  - **(3)** In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
+- **(b)** The procedures established under subsection (a) shall require—
+  - **(1)** that no qualified entity may request a background check of a provider under subsection (a) unless the provider first provides a set of fingerprints and completes and signs a statement that—
     - **(A)** contains the name, address, and date of birth appearing on a valid identification document (as defined in section 1028 of title 18 ) of the provider;
     - **(B)** the provider has not been convicted of a crime and, if the provider has been convicted of a crime, contains a description of the crime and the particulars of the conviction;
-    - **(C)** notifies the provider that the entity may request a background check under subsection (a) of this section;
+    - **(C)** notifies the provider that the entity may request a background check under subsection (a);
     - **(D)** notifies the provider of the provider’s rights under paragraph (2); and
     - **(E)** notifies the provider that prior to the completion of the background check the qualified entity may choose to deny the provider unsupervised access to a person to whom the qualified entity provides care;
   - **(2)** that each provider who is the subject of a background check is entitled—
@@ -27,7 +27,7 @@ status: "active"
     - **(B)** to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
   - **(3)** that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
   - **(4)** that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
-  - **(5)** that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544 , except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
+  - **(5)** that any background check under subsection (a) and the results thereof shall be handled in accordance with the requirements of Public Law 92–544 , except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3).
 - **(c)**
   - **(1)** The Attorney General may by regulation prescribe such other measures as may be required to carry out the purposes of this subchapter, including measures relating to the security, confidentiality, accuracy, use, misuse, and dissemination of information, and audits and recordkeeping.
   - **(2)** The Attorney General shall, to the maximum extent possible, encourage the use of the best technology available in conducting background checks.

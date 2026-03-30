@@ -3,9 +3,9 @@ title: "Section 5791b - Grant program for notification and communications system
 usc_title: 42
 usc_section: "5791b"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5791b"
-generated_at: "2026-03-30T06:07:18.825Z"
+generated_at: "2026-03-30T06:10:19.225Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(F)** To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists during off-hours.
     - **(G)** To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists about abductions of children.
 - **(c)**
-  - **(1)** The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b) of this section.
+  - **(1)** The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).
   - **(2)** A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other motorist information systems to notify motorists about abductions of children. Such support may include the purchase and installation of changeable message signs or other motorist information systems to notify motorists about abductions of children.
 - **(d)** The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.
 - **(e)** The Secretary shall, to the maximum extent practicable, distribute grants under this section equally among the States that apply for a grant under this section within the time period prescribed by the Secretary.

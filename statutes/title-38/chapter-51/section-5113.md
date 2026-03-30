@@ -3,9 +3,9 @@ title: "Section 5113 - Effective dates of educational benefits"
 usc_title: 38
 usc_section: "5113"
 chapter: 51
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "38 U.S.C. § 5113"
-generated_at: "2026-03-30T06:06:57.824Z"
+generated_at: "2026-03-30T06:10:00.138Z"
 status: "active"
 ---
 

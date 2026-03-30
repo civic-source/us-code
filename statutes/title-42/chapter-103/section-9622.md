@@ -3,9 +3,9 @@ title: "Section 9622 - Settlements"
 usc_title: 42
 usc_section: "9622"
 chapter: 103
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 9622"
-generated_at: "2026-03-30T06:07:18.928Z"
+generated_at: "2026-03-30T06:10:19.328Z"
 status: "active"
 ---
 

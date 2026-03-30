@@ -3,9 +3,9 @@ title: "Section 8231 - Rule of construction"
 usc_title: 15
 usc_section: "8231"
 chapter: 108
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 8231"
-generated_at: "2026-03-30T06:06:17.893Z"
+generated_at: "2026-03-30T06:09:10.525Z"
 status: "active"
 ---
 

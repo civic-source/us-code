@@ -3,9 +3,9 @@ title: "Section 2434 - Repealed. Pub. L. 114–328, div. A, title VIII , § 842(
 usc_title: 10
 usc_section: "2434"
 chapter: 144
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2434"
-generated_at: "2026-03-30T06:06:04.811Z"
+generated_at: "2026-03-30T06:08:21.035Z"
 status: "repealed"
 ---
 

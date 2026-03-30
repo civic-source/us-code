@@ -3,9 +3,9 @@ title: "Section 285g - Purpose of Institute"
 usc_title: 42
 usc_section: "285g"
 chapter: 6
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 285g"
-generated_at: "2026-03-30T06:07:18.431Z"
+generated_at: "2026-03-30T06:10:18.840Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6991d - Inspections, monitoring, testing, and corrective action"
 usc_title: 42
 usc_section: "6991d"
 chapter: 82
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6991d"
-generated_at: "2026-03-30T06:07:18.861Z"
+generated_at: "2026-03-30T06:10:19.262Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
 - **(c)**
   - **(1)** In the case of underground storage tanks regulated under this subchapter that have not undergone an inspection since December 22, 1998 , not later than 2 years after August 8, 2005 , the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections of all such tanks to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under section 6991c of this title .
   - **(2)** After completion of all inspections required under paragraph (1), the Administrator or a State that receives funding under this subchapter, as appropriate, shall conduct on-site inspections of each underground storage tank regulated under this subchapter at least once every 3 years to determine compliance with this subchapter and the regulations under this subchapter (40 CFR 280) or a requirement or standard of a State program developed under section 6991c of this title . The Administrator may extend for up to one additional year the first 3-year inspection interval under this paragraph if the State demonstrates that it has insufficient resources to complete all such inspections within the first 3-year period.
-  - **(3)** Nothing in this section shall be construed to diminish the Administrator’s or a State’s authorities under subsection (a) of this section.
+  - **(3)** Nothing in this section shall be construed to diminish the Administrator’s or a State’s authorities under subsection (a).

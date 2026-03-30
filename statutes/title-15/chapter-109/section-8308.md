@@ -3,9 +3,9 @@ title: "Section 8308 - Memorandum"
 usc_title: 15
 usc_section: "8308"
 chapter: 109
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 8308"
-generated_at: "2026-03-30T06:06:17.894Z"
+generated_at: "2026-03-30T06:09:10.526Z"
 status: "active"
 ---
 
@@ -17,4 +17,4 @@ status: "active"
     - **(B)** resolving conflicts concerning overlapping jurisdiction between the 2 agencies; and
     - **(C)** avoiding, to the extent possible, conflicting or duplicative regulation.
   - **(2)** Such memorandum and any subsequent amendments to the memorandum shall be promptly submitted to the appropriate committees of Congress.
-- **(b)** The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than July 21, 2010 , negotiate a memorandum of understanding to share information that may be requested where either Commission is conducting an investigation into potential manipulation, fraud, or market power abuse in markets subject to such Commission’s regulation or oversight. Shared information shall remain subject to the same restrictions on disclosure applicable to the Commission initially holding the information.
+- **(b)** The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than 180 days after July 21, 2010 , negotiate a memorandum of understanding to share information that may be requested where either Commission is conducting an investigation into potential manipulation, fraud, or market power abuse in markets subject to such Commission’s regulation or oversight. Shared information shall remain subject to the same restrictions on disclosure applicable to the Commission initially holding the information.

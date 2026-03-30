@@ -3,9 +3,9 @@ title: "Section 579a - Project deauthorizations"
 usc_title: 33
 usc_section: "579a"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "33 U.S.C. § 579a"
-generated_at: "2026-03-30T06:06:53.656Z"
+generated_at: "2026-03-30T06:09:50.855Z"
 status: "active"
 ---
 

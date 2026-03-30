@@ -3,9 +3,9 @@ title: "Section 3793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3793"
 chapter: 46
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 3793"
-generated_at: "2026-03-30T06:07:18.775Z"
+generated_at: "2026-03-30T06:10:19.176Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(F)** $42,067,000 for fiscal year 2006;
     - **(G)** $20,000,000 for fiscal year 2007;
     - **(H)** $20,000,000 for fiscal year 2008;
-    - **(I)** $20,000,000 for fiscal year 2009; and
+    - **(I)** $20,000,000 for fiscal year 2009; and 8 8 So in original. The word “and” probably should not appear.
     - **(J)** $13,500,000 for fiscal year 2017;
     - **(K)** $18,500,000 for fiscal year 2018;
     - **(L)** $19,000,000 for fiscal year 2019;
@@ -67,7 +67,7 @@ status: "active"
     - **(A)** Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XVI—
       - **(i)** $50,000,000 for fiscal year 2002;
       - **(ii)** $54,000,000 for fiscal year 2003;
-      - **(iii)** $58,000,000 for fiscal year 2004; and 8 8 So in original. The word “and” probably should not appear.
+      - **(iii)** $58,000,000 for fiscal year 2004; and 8
       - **(iv)** $60,000,000 for fiscal year 2005. 9 9 So in original. The period probably should be a semicolon.
       - **(v)** 10 10 So in original. Two cls. (v) have been enacted. $70,000,000 for each of fiscal years 2007 and 2008. 11 11 So in original. The period probably should be “; and”.
       - **(v)** 10 $70,000,000 for fiscal year 2006.

@@ -3,9 +3,9 @@ title: "Section 271d - Administration, protection, and development"
 usc_title: 16
 usc_section: "271d"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 271d"
-generated_at: "2026-03-30T06:06:26.002Z"
+generated_at: "2026-03-30T06:09:20.632Z"
 status: "active"
 ---
 

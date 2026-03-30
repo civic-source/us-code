@@ -3,9 +3,9 @@ title: "Section 502 - Board of directors of Textile Foundation"
 usc_title: 15
 usc_section: "502"
 chapter: 13
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 502"
-generated_at: "2026-03-30T06:06:17.767Z"
+generated_at: "2026-03-30T06:09:10.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40112 - Research and technology programs"
 usc_title: 51
 usc_section: "40112"
 chapter: 401
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "51 U.S.C. § 40112"
-generated_at: "2026-03-30T06:07:28.084Z"
+generated_at: "2026-03-30T06:10:27.907Z"
 status: "active"
 ---
 

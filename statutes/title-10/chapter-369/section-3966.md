@@ -3,9 +3,9 @@ title: "Section 3966 - Retired lists"
 usc_title: 10
 usc_section: "3966"
 chapter: 369
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 3966"
-generated_at: "2026-03-30T06:06:04.834Z"
+generated_at: "2026-03-30T06:08:21.058Z"
 status: "active"
 ---
 

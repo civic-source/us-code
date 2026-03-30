@@ -3,9 +3,9 @@ title: "Section 6393 - Repealed. Pub. L. 96–513, title III , § 373(h), Dec. 1
 usc_title: 10
 usc_section: "6393"
 chapter: 573
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 6393"
-generated_at: "2026-03-30T06:06:04.843Z"
+generated_at: "2026-03-30T06:08:21.067Z"
 status: "repealed"
 ---
 

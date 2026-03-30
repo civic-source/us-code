@@ -3,9 +3,9 @@ title: "Section 1015c - Database of student information prohibited"
 usc_title: 20
 usc_section: "1015c"
 chapter: 28
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 1015c"
-generated_at: "2026-03-30T06:06:22.678Z"
+generated_at: "2026-03-30T06:09:24.694Z"
 status: "active"
 ---
 

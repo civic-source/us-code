@@ -3,9 +3,9 @@ title: "Section 5773 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 
 usc_title: 10
 usc_section: "5773"
 chapter: 545
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 5773"
-generated_at: "2026-03-30T06:06:04.840Z"
+generated_at: "2026-03-30T06:08:21.065Z"
 status: "repealed"
 ---
 

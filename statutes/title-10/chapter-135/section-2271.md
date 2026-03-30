@@ -3,9 +3,9 @@ title: "Section 2271 - Management of space programs: joint program offices and o
 usc_title: 10
 usc_section: "2271"
 chapter: 135
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2271"
-generated_at: "2026-03-30T06:06:04.797Z"
+generated_at: "2026-03-30T06:08:21.022Z"
 status: "active"
 ---
 

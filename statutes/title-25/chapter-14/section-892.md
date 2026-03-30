@@ -3,9 +3,9 @@ title: "Section 892 - Repealed. Pub. L. 93–197 , § 3(b), Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "892"
 chapter: 14
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "25 U.S.C. § 892"
-generated_at: "2026-03-30T06:06:29.198Z"
+generated_at: "2026-03-30T06:09:28.153Z"
 status: "repealed"
 ---
 

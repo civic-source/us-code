@@ -3,13 +3,13 @@ title: "Section 2341b - Prioritization of certain projects"
 usc_title: 33
 usc_section: "2341b"
 chapter: 36
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "33 U.S.C. § 2341b"
-generated_at: "2026-03-30T06:06:53.701Z"
+generated_at: "2026-03-30T06:09:50.904Z"
 status: "active"
 ---
 
-# § 2341b.. Prioritization of certain projects
+# § 2341b. Prioritization of certain projects
 
 The Secretary shall give priority to a project for flood risk management if—
 

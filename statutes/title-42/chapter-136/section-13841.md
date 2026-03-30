@@ -3,9 +3,9 @@ title: "Section 13841 - Community development corporation improvement grants"
 usc_title: 42
 usc_section: "13841"
 chapter: 136
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 13841"
-generated_at: "2026-03-30T06:07:19.009Z"
+generated_at: "2026-03-30T06:10:19.413Z"
 status: "active"
 ---
 

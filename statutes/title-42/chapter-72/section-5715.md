@@ -3,9 +3,9 @@ title: "Section 5715 - Reports"
 usc_title: 42
 usc_section: "5715"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5715"
-generated_at: "2026-03-30T06:07:18.824Z"
+generated_at: "2026-03-30T06:10:19.224Z"
 status: "active"
 ---
 
@@ -25,6 +25,6 @@ status: "active"
     - **(E)** the effectiveness of such projects in assisting homeless youth to decide upon future education, employment, and independent living;
     - **(F)** the ability of such projects to encourage the resolution of intrafamily problems through counseling and development of self-sufficient living skills; and
     - **(G)** activities and programs planned by such projects for the following fiscal year.
-- **(b)** The Secretary shall include in each report submitted under subsection (a) of this section, summaries of—
+- **(b)** The Secretary shall include in each report submitted under subsection (a), summaries of—
   - **(1)** the evaluations performed by the Secretary under section 5732 of this title ; and
   - **(2)** descriptions of the qualifications of, and training provided to, individuals involved in carrying out such evaluations.

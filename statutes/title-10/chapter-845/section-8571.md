@@ -3,9 +3,9 @@ title: "Section 8571 - Repealed. Pub. L. 96–513, title II , § 211, Dec. 12, 1
 usc_title: 10
 usc_section: "8571"
 chapter: 845
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 8571"
-generated_at: "2026-03-30T06:06:04.852Z"
+generated_at: "2026-03-30T06:08:21.076Z"
 status: "repealed"
 ---
 

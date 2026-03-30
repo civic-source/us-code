@@ -3,9 +3,9 @@ title: "Section 3533 - Officers of Department"
 usc_title: 42
 usc_section: "3533"
 chapter: 44
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 3533"
-generated_at: "2026-03-30T06:07:18.767Z"
+generated_at: "2026-03-30T06:10:19.168Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
   - **(5)** In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 - **(h)**
   - **(1)** There shall be in the Office of the Secretary a Special Assistant for Veterans Affairs, who shall report directly to the Secretary.
-  - **(2)** The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5, governing appointments in the competitive service.
+  - **(2)** The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5 governing appointments in the competitive service.
   - **(3)** The Special Assistant for Veterans Affairs shall be responsible for—
     - **(A)** ensuring veterans have fair access to housing and homeless assistance under each program of the Department providing either such assistance;
     - **(B)** coordinating all programs and activities of the Department relating to veterans;

@@ -3,9 +3,9 @@ title: "Section 6947 - Approval of State plan; Federal assistance"
 usc_title: 42
 usc_section: "6947"
 chapter: 82
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6947"
-generated_at: "2026-03-30T06:07:18.858Z"
+generated_at: "2026-03-30T06:10:19.257Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
     - **(C)** that such revision is otherwise necessary.
 - **(b)**
   - **(1)** The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, if such State and local and regional authorities within such State have complied with the requirements of section 6946 of this title within the period required under such section and if such State has a State plan which has been approved by the Administrator under this subchapter.
-  - **(2)** The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, for fiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) of this section and is being implemented by the State.
-  - **(3)** Upon withdrawal of approval of a State plan under subsection (a) of this section, the Administrator shall withhold Federal financial and technical assistance under this subchapter (other than such technical assistance as may be necessary to assist in obtaining the reinstatement of approval) until such time as such approval is reinstated.
+  - **(2)** The Administrator shall approve a State application for financial assistance under this subchapter, and make grants to such State, for fiscal years 1978 and 1979 if the Administrator determines that the State plan continues to be eligible for approval under subsection (a) and is being implemented by the State.
+  - **(3)** Upon withdrawal of approval of a State plan under subsection (a), the Administrator shall withhold Federal financial and technical assistance under this subchapter (other than such technical assistance as may be necessary to assist in obtaining the reinstatement of approval) until such time as such approval is reinstated.
 - **(c)** Nothing in this subchapter shall be construed to prevent or affect any activities respecting solid waste planning or management which are carried out by State, regional, or local authorities unless such activities are inconsistent with a State plan approved by the Administrator under this subchapter.

@@ -3,9 +3,9 @@ title: "Section 6501 - Annual modal research plans"
 usc_title: 49
 usc_section: "6501"
 chapter: 65
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "49 U.S.C. § 6501"
-generated_at: "2026-03-30T06:07:25.861Z"
+generated_at: "2026-03-30T06:10:25.877Z"
 status: "active"
 ---
 

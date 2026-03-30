@@ -3,9 +3,9 @@ title: "Section 34 - Scientific employees"
 usc_title: 43
 usc_section: "34"
 chapter: 2
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "43 U.S.C. § 34"
-generated_at: "2026-03-30T06:07:00.364Z"
+generated_at: "2026-03-30T06:10:09.094Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31306 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "31306"
 chapter: 313
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "49 U.S.C. § 31306"
-generated_at: "2026-03-30T06:07:25.891Z"
+generated_at: "2026-03-30T06:10:25.907Z"
 status: "active"
 ---
 

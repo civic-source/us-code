@@ -3,9 +3,9 @@ title: "Section 9108 - Obligations"
 usc_title: 31
 usc_section: "9108"
 chapter: 91
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "31 U.S.C. § 9108"
-generated_at: "2026-03-30T06:06:52.642Z"
+generated_at: "2026-03-30T06:09:56.265Z"
 status: "active"
 ---
 

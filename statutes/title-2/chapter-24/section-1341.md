@@ -3,9 +3,9 @@ title: "Section 1341 - Rights and protections under Occupational Safety and Heal
 usc_title: 2
 usc_section: "1341"
 chapter: 24
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "2 U.S.C. § 1341"
-generated_at: "2026-03-30T06:05:31.196Z"
+generated_at: "2026-03-30T06:07:44.566Z"
 status: "active"
 ---
 

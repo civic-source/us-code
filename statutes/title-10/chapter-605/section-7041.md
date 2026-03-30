@@ -3,9 +3,9 @@ title: "Section 7041 - Function"
 usc_title: 10
 usc_section: "7041"
 chapter: 605
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 7041"
-generated_at: "2026-03-30T06:06:04.845Z"
+generated_at: "2026-03-30T06:08:21.069Z"
 status: "active"
 ---
 

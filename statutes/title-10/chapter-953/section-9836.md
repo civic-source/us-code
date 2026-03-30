@@ -3,9 +3,9 @@ title: "Section 9836 - Repealed. Pub. L. 110–181, div. A, title III , § 375(c
 usc_title: 10
 usc_section: "9836"
 chapter: 953
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 9836"
-generated_at: "2026-03-30T06:06:04.857Z"
+generated_at: "2026-03-30T06:08:21.081Z"
 status: "repealed"
 ---
 

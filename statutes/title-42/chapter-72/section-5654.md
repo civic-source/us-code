@@ -3,16 +3,16 @@ title: "Section 5654 - Grants for local projects"
 usc_title: 42
 usc_section: "5654"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5654"
-generated_at: "2026-03-30T06:07:18.822Z"
+generated_at: "2026-03-30T06:10:19.222Z"
 status: "active"
 ---
 
 # § 5654. Grants for local projects
 
 - **(a)** Using a grant received under section 5651 of this title , a State may make grants to eligible entities whose applications are received by the State, and reviewed by the State advisory group, to carry out projects and activities described in section 5651 of this title .
-- **(b)** For purposes of making grants under subsection (a) of this section, the State shall give special consideration to eligible entities that—
+- **(b)** For purposes of making grants under subsection (a), the State shall give special consideration to eligible entities that—
   - **(1)** propose to carry out such projects in geographical areas in which there is—
     - **(A)** a disproportionately high level of serious crime committed by juveniles; or
     - **(B)** a recent rapid increase in the number of nonstatus offenses committed by juveniles;

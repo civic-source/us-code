@@ -3,9 +3,9 @@ title: "Section 10a - National Advisory Committee on Children and Disasters"
 usc_title: 42
 usc_section: "10a"
 chapter: 6
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-30T06:07:18.503Z"
+generated_at: "2026-03-30T06:10:18.909Z"
 status: "active"
 ---
 

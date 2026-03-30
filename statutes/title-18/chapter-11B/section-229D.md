@@ -3,9 +3,9 @@ title: "Section 229D - Injunctions"
 usc_title: 18
 usc_section: "229D"
 chapter: 11
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 229D"
-generated_at: "2026-03-30T06:06:20.967Z"
+generated_at: "2026-03-30T06:09:18.193Z"
 status: "active"
 ---
 

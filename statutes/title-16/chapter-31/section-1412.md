@@ -3,9 +3,9 @@ title: "Section 1412 - International Dolphin Conservation Program"
 usc_title: 16
 usc_section: "1412"
 chapter: 31
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 1412"
-generated_at: "2026-03-30T06:06:26.143Z"
+generated_at: "2026-03-30T06:09:20.880Z"
 status: "active"
 ---
 

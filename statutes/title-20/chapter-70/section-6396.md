@@ -3,9 +3,9 @@ title: "Section 6396 - Comprehensive needs assessment and service-delivery plan;
 usc_title: 20
 usc_section: "6396"
 chapter: 70
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 6396"
-generated_at: "2026-03-30T06:06:22.770Z"
+generated_at: "2026-03-30T06:09:24.786Z"
 status: "active"
 ---
 

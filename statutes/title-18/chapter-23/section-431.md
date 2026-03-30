@@ -3,9 +3,9 @@ title: "Section 431 - Contracts by Member of Congress"
 usc_title: 18
 usc_section: "431"
 chapter: 23
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 431"
-generated_at: "2026-03-30T06:06:20.968Z"
+generated_at: "2026-03-30T06:09:18.194Z"
 status: "active"
 ---
 

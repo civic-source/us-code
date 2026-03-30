@@ -3,9 +3,9 @@ title: "Section 121 - Information and Analysis and Infrastructure Protection"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-30T06:05:58.313Z"
+generated_at: "2026-03-30T06:08:15.356Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
       - **(i)** a recommended strategy to protect and prepare the critical infrastructure of the homeland against threats of EMP and GMD; and
       - **(ii)** not less frequently than every two years thereafter for the next six years, updates of the recommended strategy.
     - **(B)** The recommended strategy under subparagraph (A) shall—
-      - **(i)** be based on findings of the research and development conducted under section 195f of this title ; 1
+      - **(i)** be based on findings of the research and development conducted under section 195f of this title ; 1 1 See References in Text note below.
       - **(ii)** be developed in consultation with the relevant Federal sector-specific agencies (as defined under Presidential Policy Directive-21) for critical infrastructure;
       - **(iii)** be developed in consultation with the relevant sector coordinating councils for critical infrastructure;
       - **(iv)** be informed, to the extent practicable, by the findings of the intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure conducted under subparagraph (A); and

@@ -3,9 +3,9 @@ title: "Section 5363 - Funding agreements"
 usc_title: 25
 usc_section: "5363"
 chapter: 46
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "25 U.S.C. § 5363"
-generated_at: "2026-03-30T06:06:29.247Z"
+generated_at: "2026-03-30T06:09:28.244Z"
 status: "active"
 ---
 

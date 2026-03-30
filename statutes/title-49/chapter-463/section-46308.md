@@ -3,9 +3,9 @@ title: "Section 46308 - Interference with air navigation"
 usc_title: 49
 usc_section: "46308"
 chapter: 463
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "49 U.S.C. § 46308"
-generated_at: "2026-03-30T06:07:25.919Z"
+generated_at: "2026-03-30T06:10:25.934Z"
 status: "active"
 ---
 

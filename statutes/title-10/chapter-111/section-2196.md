@@ -3,9 +3,9 @@ title: "Section 2196 - Manufacturing engineering education program"
 usc_title: 10
 usc_section: "2196"
 chapter: 111
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2196"
-generated_at: "2026-03-30T06:06:04.794Z"
+generated_at: "2026-03-30T06:08:21.018Z"
 status: "active"
 ---
 

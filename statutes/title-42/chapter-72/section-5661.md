@@ -3,9 +3,9 @@ title: "Section 5661 - Research and evaluation; statistical analyses; informatio
 usc_title: 42
 usc_section: "5661"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5661"
-generated_at: "2026-03-30T06:07:18.822Z"
+generated_at: "2026-03-30T06:10:19.222Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
       - **(viii)** reducing the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups;
       - **(ix)** evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
       - **(x)** determining—
-        - **(I)** the frequency, seriousness, and incidence of drug use by youth in schools and communities in the States using, if appropriate, data submitted by the States pursuant to this subparagraph and subsection (b) of this section; and
+        - **(I)** the frequency, seriousness, and incidence of drug use by youth in schools and communities in the States using, if appropriate, data submitted by the States pursuant to this subparagraph and subsection (b); and
         - **(II)** the frequency, degree of harm, and morbidity of violent incidents, particularly firearm-related injuries and fatalities, by youth in schools and communities in the States, including information with respect to—
       - **(xi)** other purposes consistent with the purposes of this subchapter and subchapter I.
   - **(2)** The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
@@ -41,8 +41,8 @@ status: "active"
 - **(b)** The Administrator may—
   - **(1)** plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
   - **(2)** undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I.
-- **(c)** The Administrator may make grants and enter into contracts with public or private agencies, organizations, or individuals and shall use a competitive process, established by rule by the Administrator, to carry out subsections (a) and (b) of this section.
-- **(d)** A Federal agency that makes an agreement under subsections (a)(1)(B) and (b)(2) of this section with the Administrator may carry out such agreement directly or by making grants to or contracts with public and private agencies, institutions, and organizations.
+- **(c)** The Administrator may make grants and enter into contracts with public or private agencies, organizations, or individuals and shall use a competitive process, established by rule by the Administrator, to carry out subsections (a) and (b).
+- **(d)** A Federal agency that makes an agreement under subsections (a)(1)(B) and (b)(2) with the Administrator may carry out such agreement directly or by making grants to or contracts with public and private agencies, institutions, and organizations.
 - **(e)** The Administrator may—
   - **(1)** review reports and data relating to the juvenile justice system in the United States and in foreign nations (as appropriate), collect data and information from studies and research into all aspects of juvenile delinquency (including the causes, prevention, and treatment of juvenile delinquency) and serious crimes committed by juveniles;
   - **(2)** establish and operate, directly or by contract, a clearinghouse and information center for the preparation, publication, and dissemination of information relating to juvenile delinquency, including State and local prevention and treatment programs, plans, resources, and training and technical assistance programs; and

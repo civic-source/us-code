@@ -3,9 +3,9 @@ title: "Section 49d - Appropriations; certification for payment to States"
 usc_title: 29
 usc_section: "49d"
 chapter: 4
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "29 U.S.C. § 49d"
-generated_at: "2026-03-30T06:06:36.557Z"
+generated_at: "2026-03-30T06:09:47.646Z"
 status: "active"
 ---
 

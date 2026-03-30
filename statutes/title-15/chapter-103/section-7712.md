@@ -3,9 +3,9 @@ title: "Section 7712 - Application to wireless"
 usc_title: 15
 usc_section: "7712"
 chapter: 103
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 7712"
-generated_at: "2026-03-30T06:06:17.891Z"
+generated_at: "2026-03-30T06:09:10.523Z"
 status: "active"
 ---
 

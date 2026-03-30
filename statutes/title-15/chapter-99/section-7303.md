@@ -3,9 +3,9 @@ title: "Section 7303 - Authorities"
 usc_title: 15
 usc_section: "7303"
 chapter: 99
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 7303"
-generated_at: "2026-03-30T06:06:17.886Z"
+generated_at: "2026-03-30T06:09:10.519Z"
 status: "active"
 ---
 

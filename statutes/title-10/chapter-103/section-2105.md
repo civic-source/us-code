@@ -3,9 +3,9 @@ title: "Section 2105 - Advanced training; failure to complete or to accept commi
 usc_title: 10
 usc_section: "2105"
 chapter: 103
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2105"
-generated_at: "2026-03-30T06:06:04.790Z"
+generated_at: "2026-03-30T06:08:21.015Z"
 status: "active"
 ---
 

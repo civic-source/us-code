@@ -3,9 +3,9 @@ title: "Section 9452 - Repealed. Pub. L. 97–35, title IX , § 902(e)(1), Aug. 
 usc_title: 42
 usc_section: "9452"
 chapter: 102
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 9452"
-generated_at: "2026-03-30T06:07:18.921Z"
+generated_at: "2026-03-30T06:10:19.321Z"
 status: "repealed"
 ---
 

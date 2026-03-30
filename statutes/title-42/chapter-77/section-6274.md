@@ -3,16 +3,16 @@ title: "Section 6274 - Exchange of information with International Energy Agency"
 usc_title: 42
 usc_section: "6274"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6274"
-generated_at: "2026-03-30T06:07:18.832Z"
+generated_at: "2026-03-30T06:10:19.231Z"
 status: "active"
 ---
 
 # § 6274. Exchange of information with International Energy Agency
 
 - **(a)**
-  - **(1)** Except as provided in subsections (b) and (c) of this section, the Secretary, after consultation with the Attorney General, may provide to the Secretary of State, and the Secretary of State may transmit to the International Energy Agency established by the international energy program, the information and data related to the energy industry certified by the Secretary of State as required to be submitted under the international energy program.
+  - **(1)** Except as provided in subsections (b) and (c), the Secretary, after consultation with the Attorney General, may provide to the Secretary of State, and the Secretary of State may transmit to the International Energy Agency established by the international energy program, the information and data related to the energy industry certified by the Secretary of State as required to be submitted under the international energy program.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B) of this paragraph, any such information or data which is geological or geophysical information or a trade secret or commercial or financial information to which section 552(b)(9) or (b)(4) of title 5 applies shall, prior to such transmittal, be aggregated, accumulated, or otherwise reported in such manner as to avoid, to the fullest extent feasible, identification of any person from whom the United States obtained such information or data, and in the case of geological or geophysical information, a competitive disadvantage to such person.
     - **(B)**

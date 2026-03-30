@@ -3,9 +3,9 @@ title: "Section 77fff - Securities not registered under Securities Act"
 usc_title: 15
 usc_section: "77fff"
 chapter: 2
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 77fff"
-generated_at: "2026-03-30T06:06:17.722Z"
+generated_at: "2026-03-30T06:09:10.275Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In the case of any security which is not registered under the Securities Act of 1933 [ 15 U.S.C. 77a et seq.] and to which this subsection is applicable notwithstanding the provisions of section 77ddd of this title , unless such security has been or is to be issued under an indenture and an application for qualification is effective as to such indenture, it shall be unlawful for any person, directly or indirectly—
   - **(1)** to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to sell such security through the use or medium of any prospectus or otherwise; or
-  - **(2)** to carry or cause to be carried through the mails or interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
+  - **(2)** to carry or cause to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
 - **(b)** In the case of any security which is not registered under the Securities Act of 1933 [ 15 U.S.C. 77a et seq.], but which has been or is to be issued under an indenture as to which an application for qualification is effective, it shall be unlawful for any person, directly or indirectly—
   - **(1)** to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any such security, unless such prospectus, to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, includes or is accompanied by a written statement that contains the information specified in subsection (c) of section 77eee of this title ; or
   - **(2)** to carry or to cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless, to the extent the Commission may prescribe by rules and regulations as necessary or appropriate in the public interest or for the protection of investors, accompanied or preceded by a written statement that contains the information specified in subsection (c) of section 77eee of this title .

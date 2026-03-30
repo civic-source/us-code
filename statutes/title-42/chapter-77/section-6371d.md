@@ -3,16 +3,16 @@ title: "Section 6371d - Applications for financial assistance"
 usc_title: 42
 usc_section: "6371d"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6371d"
-generated_at: "2026-03-30T06:07:18.843Z"
+generated_at: "2026-03-30T06:10:19.243Z"
 status: "active"
 ---
 
 # § 6371d. Applications for financial assistance
 
 - **(a)** Applications of States, schools, and hospitals for financial assistance under this part for energy conservation projects shall be made not more than once for any fiscal year. Schools and hospitals applying for such financial assistance shall submit their applications to the State energy agency and the State energy agency shall make a single submittal to the Secretary, containing all applications which comply with the State plan.
-- **(b)** Applications for financial assistance under this part for energy conservation projects shall contain, or shall be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) of this section shall include a listing and description of energy conservation projects proposed to be funded within the State during the fiscal year for which such application is made, and such information concerning expected expenditures as the Secretary may, by rule, require.
+- **(b)** Applications for financial assistance under this part for energy conservation projects shall contain, or shall be accompanied by, such information as the Secretary may reasonably require, including the results of energy audits which comply with guidelines under this part. The annual submittal to the Secretary by the State energy agency under subsection (a) shall include a listing and description of energy conservation projects proposed to be funded within the State during the fiscal year for which such application is made, and such information concerning expected expenditures as the Secretary may, by rule, require.
 - **(c)**
   - **(1)** The Secretary may not provide financial assistance to States, schools, or hospitals for energy conservation projects unless the application for a grant for such project is submitted through, or approved by the appropriate State hospital facilities agency or State school facilities agency, respectively, and determined by the State energy agency to comply with the State plan.
   - **(2)** Applications of States, schools, and hospitals and State plans pursuant to this part shall be consistent with—

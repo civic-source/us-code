@@ -3,9 +3,9 @@ title: "Section 2717 - Investigations by Secretary; oaths and affirmations; subp
 usc_title: 7
 usc_section: "2717"
 chapter: 60
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 2717"
-generated_at: "2026-03-30T06:05:56.990Z"
+generated_at: "2026-03-30T06:08:04.724Z"
 status: "active"
 ---
 

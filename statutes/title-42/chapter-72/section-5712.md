@@ -3,9 +3,9 @@ title: "Section 5712 - Eligibility; plan requirements"
 usc_title: 42
 usc_section: "5712"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5712"
-generated_at: "2026-03-30T06:07:18.823Z"
+generated_at: "2026-03-30T06:10:19.223Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** coordination with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11432(g)(1)(J)(ii) ), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act [ 42 U.S.C. 11431 et seq.]; and
     - **(C)** the return of runaway and homeless youth from correctional institutions;
   - **(5)** shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth who are returned beyond the State in which the runaway and homeless youth center is located;
-  - **(6)** shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) of this section may be expended;
+  - **(6)** shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) may be expended;
   - **(7)** shall keep adequate statistical records profiling the youth and family members whom it serves (including youth who are not referred to out-of-home shelter services), except that records maintained on individual runaway and homeless youth shall not be disclosed without the consent of the individual youth and parent or legal guardian to anyone other than another agency compiling statistical records or a government agency involved in the disposition of criminal charges against an individual runaway and homeless youth, and reports or other documents based on such statistical rec­ords shall not disclose the identity of individual runaway and homeless youth;
   - **(8)** shall submit annual reports to the Secretary detailing how the center has been able to meet the goals of its plans and reporting the statistical summaries required by paragraph (7);
   - **(9)** shall demonstrate its ability to operate under accounting procedures and fiscal control devices as required by the Secretary;
@@ -36,12 +36,12 @@ status: "active"
       - **(i)** the number and the characteristics of the runaway and homeless youth, and youth at risk of family separation, who participate in the project; and
       - **(ii)** the services provided to such youth by the project; and
   - **(13)** shall develop an adequate emergency preparedness and management plan.
-- **(c)** To be eligible to use assistance under section 5711(a)(2)(C)(i) of this title to provide street-based services, the applicant shall include in the plan required by subsection (b) of this section assurances that in providing such services the applicant will—
+- **(c)** To be eligible to use assistance under section 5711(a)(2)(C)(i) of this title to provide street-based services, the applicant shall include in the plan required by subsection (b) assurances that in providing such services the applicant will—
   - **(1)** provide qualified supervision of staff, including on-street supervision by appropriately trained staff;
   - **(2)** provide backup personnel for on-street staff;
   - **(3)** provide initial and periodic training of staff who provide such services; and
   - **(4)** conduct outreach activities for runaway and homeless youth, and street youth.
-- **(d)** To be eligible to use assistance under section 5711(a) of this title to provide home-based services described in section 5711(a)(2)(C)(ii) of this title , an applicant shall include in the plan required by subsection (b) of this section assurances that in providing such services the applicant will—
+- **(d)** To be eligible to use assistance under section 5711(a) of this title to provide home-based services described in section 5711(a)(2)(C)(ii) of this title , an applicant shall include in the plan required by subsection (b) assurances that in providing such services the applicant will—
   - **(1)** provide counseling and information to youth and the families (including unrelated individuals in the family households) of such youth, including services relating to basic life skills, interpersonal skill building, educational advancement, job attainment skills, mental and physical health care, parenting skills, financial planning, and referral to sources of other needed services;
   - **(2)** provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediate access to temporary shelter for runaway and homeless youth, and youth at risk of separation from the family);
   - **(3)** establish, in partnership with the families of runaway and homeless youth, and youth at risk of separation from the family, objectives and measures of success to be achieved as a result of receiving home-based services;
@@ -49,7 +49,7 @@ status: "active"
   - **(5)** ensure that—
     - **(A)** caseloads will remain sufficiently low to allow for intensive (5 to 20 hours per week) involvement with each family receiving such services; and
     - **(B)** staff providing such services will receive qualified supervision.
-- **(e)** To be eligible to use assistance under section 5711(a)(2)(C)(iii) of this title to provide drug abuse education and prevention services, an applicant shall include in the plan required by subsection (b) of this section—
+- **(e)** To be eligible to use assistance under section 5711(a)(2)(C)(iii) of this title to provide drug abuse education and prevention services, an applicant shall include in the plan required by subsection (b)—
   - **(1)** a description of—
     - **(A)** the types of such services that the applicant proposes to provide;
     - **(B)** the objectives of such services; and

@@ -3,9 +3,9 @@ title: "Section 34 - Allocation among States"
 usc_title: 20
 usc_section: "34"
 chapter: 28
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 34"
-generated_at: "2026-03-30T06:06:22.690Z"
+generated_at: "2026-03-30T06:09:24.705Z"
 status: "active"
 ---
 

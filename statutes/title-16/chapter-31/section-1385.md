@@ -3,9 +3,9 @@ title: "Section 1385 - Dolphin protection"
 usc_title: 16
 usc_section: "1385"
 chapter: 31
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 1385"
-generated_at: "2026-03-30T06:06:26.141Z"
+generated_at: "2026-03-30T06:09:20.879Z"
 status: "active"
 ---
 

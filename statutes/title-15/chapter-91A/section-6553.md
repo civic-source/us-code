@@ -3,9 +3,9 @@ title: "Section 6553 - Annual reports"
 usc_title: 15
 usc_section: "6553"
 chapter: 91
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 6553"
-generated_at: "2026-03-30T06:06:17.878Z"
+generated_at: "2026-03-30T06:09:10.510Z"
 status: "active"
 ---
 

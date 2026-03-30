@@ -3,9 +3,9 @@ title: "Section 673c - Repealed. Pub. L. 109–239 , § 4(c), July 3, 2006 , 120
 usc_title: 42
 usc_section: "673c"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 673c"
-generated_at: "2026-03-30T06:07:18.541Z"
+generated_at: "2026-03-30T06:10:18.945Z"
 status: "repealed"
 ---
 

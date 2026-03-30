@@ -3,9 +3,9 @@ title: "Section 8374 - Emergency authorities"
 usc_title: 42
 usc_section: "8374"
 chapter: 92
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 8374"
-generated_at: "2026-03-30T06:07:18.911Z"
+generated_at: "2026-03-30T06:10:19.312Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1709 - Theft of mail matter by officer or employee"
 usc_title: 18
 usc_section: "1709"
 chapter: 83
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 1709"
-generated_at: "2026-03-30T06:06:20.988Z"
+generated_at: "2026-03-30T06:09:18.214Z"
 status: "active"
 ---
 

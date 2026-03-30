@@ -3,9 +3,9 @@ title: "Section 657 - Lending, credit and insurance institutions"
 usc_title: 18
 usc_section: "657"
 chapter: 31
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 657"
-generated_at: "2026-03-30T06:06:20.971Z"
+generated_at: "2026-03-30T06:09:18.198Z"
 status: "active"
 ---
 

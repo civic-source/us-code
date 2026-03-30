@@ -3,16 +3,16 @@ title: "Section 5104 - National clearinghouse for information relating to child 
 usc_title: 42
 usc_section: "5104"
 chapter: 67
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5104"
-generated_at: "2026-03-30T06:07:18.804Z"
+generated_at: "2026-03-30T06:10:19.205Z"
 status: "active"
 ---
 
 # § 5104. National clearinghouse for information relating to child abuse
 
 - **(a)** The Secretary shall through the Department, or by one or more contracts of not less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse and neglect.
-- **(b)** The Secretary shall, through the clearinghouse established by subsection (a) of this section—
+- **(b)** The Secretary shall, through the clearinghouse established by subsection (a)—
   - **(1)** maintain, coordinate, and disseminate information on effective programs, including private and community-based programs, that have demonstrated success with respect to the prevention, assessment, identification, and treatment of child abuse or neglect and hold the potential for broad-scale implementation and replication;
   - **(2)** maintain, coordinate, and disseminate information on the medical diagnosis and treatment of child abuse and neglect;
   - **(3)** maintain and disseminate information on best practices relating to differential response;
@@ -31,10 +31,10 @@ status: "active"
     - **(B)** appropriate State and local officials to assist in training law enforcement, legal, judicial, medical, mental health, education, child welfare, substance abuse treatment services, and domestic violence services personnel; and
   - **(9)** collect and disseminate information, in conjunction with the National Resource Centers authorized in section 10410(b) of this title , on effective programs and best practices for developing and carrying out collaboration between entities providing child protective services and entities providing domestic violence services.
 - **(c)**
-  - **(1)** In establishing a national clearinghouse as required by subsection (a) of this section, the Secretary shall—
+  - **(1)** In establishing a national clearinghouse as required by subsection (a), the Secretary shall—
     - **(A)** consult with other Federal agencies that operate similar clearinghouses;
     - **(B)** consult with the head of each agency involved with child abuse and neglect on the development of the components for information collection and management of such clearinghouse and on the mechanisms for the sharing of such information with other Federal agencies and clearinghouses;
-    - **(C)** develop a Federal data system involving the elements under subsection (b) of this section which, to the extent practicable, coordinates existing Federal, State, tribal, regional, and local child welfare data systems which shall include—
+    - **(C)** develop a Federal data system involving the elements under subsection (b) which, to the extent practicable, coordinates existing Federal, State, tribal, regional, and local child welfare data systems which shall include—
       - **(i)** standardized data on false, unfounded, unsubstantiated, and substantiated reports;
       - **(ii)** information on the number of deaths due to child abuse and neglect;
       - **(iii)** information about the incidence and characteristics of child abuse and neglect in circumstances in which domestic violence is present; and

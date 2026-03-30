@@ -3,9 +3,9 @@ title: "Section 14 - Outreach efforts to increase awareness of the availability 
 usc_title: 42
 usc_section: "14"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T06:07:18.560Z"
+generated_at: "2026-03-30T06:10:18.964Z"
 status: "active"
 ---
 

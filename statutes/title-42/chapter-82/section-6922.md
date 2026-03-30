@@ -3,9 +3,9 @@ title: "Section 6922 - Standards applicable to generators of hazardous waste"
 usc_title: 42
 usc_section: "6922"
 chapter: 82
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6922"
-generated_at: "2026-03-30T06:07:18.853Z"
+generated_at: "2026-03-30T06:10:19.253Z"
 status: "active"
 ---
 
@@ -22,6 +22,6 @@ status: "active"
     - **(B)** the disposition of all hazardous waste reported under subparagraph (A);
     - **(C)** the efforts undertaken during the year to reduce the volume and toxicity of waste generated; and
     - **(D)** the changes in volume and toxicity of waste actually achieved during the year in question in comparison with previous years, to the extent such information is available for years prior to November 8, 1984 .
-- **(b)** Effective September 1, 1985 , the manifest required by subsection (a)(5) of this section shall contain a certification by the generator that—
+- **(b)** Effective September 1, 1985 , the manifest required by subsection (a)(5) shall contain a certification by the generator that—
   - **(1)** the generator of the hazardous waste has a program in place to reduce the volume or quantity and toxicity of such waste to the degree determined by the generator to be economically practicable; and
   - **(2)** the proposed method of treatment, storage, or disposal is that practicable method currently available to the generator which minimizes the present and future threat to human health and the environment.

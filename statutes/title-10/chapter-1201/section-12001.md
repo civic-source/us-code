@@ -3,9 +3,9 @@ title: "Section 12001 - Authorized strengths: reserve components"
 usc_title: 10
 usc_section: "12001"
 chapter: 1201
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 12001"
-generated_at: "2026-03-30T06:06:04.859Z"
+generated_at: "2026-03-30T06:08:21.083Z"
 status: "active"
 ---
 

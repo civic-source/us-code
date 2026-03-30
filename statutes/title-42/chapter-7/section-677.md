@@ -3,9 +3,9 @@ title: "Section 677 - John H. Chafee Foster Care Independence Program"
 usc_title: 42
 usc_section: "677"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 677"
-generated_at: "2026-03-30T06:07:18.542Z"
+generated_at: "2026-03-30T06:10:18.946Z"
 status: "active"
 ---
 

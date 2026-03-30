@@ -3,9 +3,9 @@ title: "Section 107 - Certain service deemed not to be active service"
 usc_title: 38
 usc_section: "107"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "38 U.S.C. § 107"
-generated_at: "2026-03-30T06:06:57.786Z"
+generated_at: "2026-03-30T06:10:00.101Z"
 status: "active"
 ---
 

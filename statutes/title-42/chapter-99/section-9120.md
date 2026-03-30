@@ -3,9 +3,9 @@ title: "Section 9120 - Monitoring of licensees’ activities"
 usc_title: 42
 usc_section: "9120"
 chapter: 99
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 9120"
-generated_at: "2026-03-30T06:07:18.919Z"
+generated_at: "2026-03-30T06:10:19.320Z"
 status: "active"
 ---
 

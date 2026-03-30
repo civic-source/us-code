@@ -3,9 +3,9 @@ title: "Section 426a - Transitional provision on eligibility of uninsured indivi
 usc_title: 42
 usc_section: "426a"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 426a"
-generated_at: "2026-03-30T06:07:18.524Z"
+generated_at: "2026-03-30T06:10:18.928Z"
 status: "active"
 ---
 

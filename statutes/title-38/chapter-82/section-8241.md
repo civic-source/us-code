@@ -3,9 +3,9 @@ title: "Section 8241 - Expenditures to remodel and make special allocations to D
 usc_title: 38
 usc_section: "8241"
 chapter: 82
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "38 U.S.C. § 8241"
-generated_at: "2026-03-30T06:06:57.841Z"
+generated_at: "2026-03-30T06:10:00.155Z"
 status: "active"
 ---
 

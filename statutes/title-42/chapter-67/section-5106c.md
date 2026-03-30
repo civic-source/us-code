@@ -3,9 +3,9 @@ title: "Section 5106c - Grants to States for programs relating to investigation 
 usc_title: 42
 usc_section: "5106c"
 chapter: 67
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5106c"
-generated_at: "2026-03-30T06:07:18.805Z"
+generated_at: "2026-03-30T06:10:19.206Z"
 status: "active"
 ---
 
@@ -18,12 +18,12 @@ status: "active"
   - **(4)** the assessment and investigation of cases involving children with disabilities or serious health-related problems who are suspected victims of child abuse or neglect.
 - **(b)** In order for a State to qualify for assistance under this section, such State shall—
   - **(1)** fulfill the requirements of section 5106a(b) of this title ;
-  - **(2)** establish a task force as provided in subsection (c) of this section;
-  - **(3)** fulfill the requirements of subsection (d) of this section;
+  - **(2)** establish a task force as provided in subsection (c);
+  - **(3)** fulfill the requirements of subsection (d);
   - **(4)** submit annually an application to the Secretary at such time and containing such information and assurances as the Secretary considers necessary, including an assurance that the State will—
     - **(A)** make such reports to the Secretary as may reasonably be required; and
-    - **(B)** maintain and provide access to records relating to activities under subsections (a) and (b) of this section; and
-  - **(5)** submit annually to the Secretary a report on the manner in which assistance received under this program was expended throughout the State, with particular attention focused on the areas described in paragraphs (1) through (3) of subsection (a) of this section.
+    - **(B)** maintain and provide access to records relating to activities under subsections (a) and (b); and
+  - **(5)** submit annually to the Secretary a report on the manner in which assistance received under this program was expended throughout the State, with particular attention focused on the areas described in paragraphs (1) through (3) of subsection (a).
 - **(c)**
   - **(1)** Except as provided in paragraph (2), a State requesting assistance under this section shall establish or designate, and maintain, a State multidisciplinary task force on children’s justice (hereinafter referred to as “State task force”) composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
     - **(A)** individuals representing the law enforcement community;
@@ -39,7 +39,7 @@ status: "active"
   - **(2)** As determined by the Secretary, a State commission or task force established after January 1, 1983 , with substantially comparable membership and functions, may be considered the State task force for purposes of this subsection.
 - **(d)** Before a State receives assistance under this section, and at three year intervals thereafter, the State task force shall comprehensively—
   - **(1)** review and evaluate State investigative, administrative and both civil and criminal judicial handling of cases of child abuse and neglect, including child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal; and
-  - **(2)** make policy and training recommendations in each of the categories described in subsection (e) of this section.
+  - **(2)** make policy and training recommendations in each of the categories described in subsection (e).
 - **(e)**
   - **(1)** Subject to the provisions of paragraph (2), before a State receives assistance under this section, a State shall adopt recommendations of the State task force in each of the following categories—
     - **(A)** investigative, administrative, and judicial handling of cases of child abuse and neglect, including child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal, in a manner which reduces the additional trauma to the child victim and the victim’s family and which also ensures procedural fairness to the accused;

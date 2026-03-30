@@ -3,15 +3,15 @@ title: "Section 5165 - Mitigation planning"
 usc_title: 42
 usc_section: "5165"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5165"
-generated_at: "2026-03-30T06:07:18.809Z"
+generated_at: "2026-03-30T06:10:19.209Z"
 status: "active"
 ---
 
 # § 5165. Mitigation planning
 
-- **(a)** As a condition of receipt of an increased Federal share for hazard mitigation measures under subsection (e) of this section, a State, local, or tribal government shall develop and submit for approval to the President a mitigation plan that outlines processes for identifying the natural hazards, risks, and vulnerabilities of the area under the jurisdiction of the government.
+- **(a)** As a condition of receipt of an increased Federal share for hazard mitigation measures under subsection (e), a State, local, or tribal government shall develop and submit for approval to the President a mitigation plan that outlines processes for identifying the natural hazards, risks, and vulnerabilities of the area under the jurisdiction of the government.
 - **(b)** Each mitigation plan developed by a local or tribal government shall—
   - **(1)** describe actions to mitigate hazards, risks, and vulnerabilities identified under the plan; and
   - **(2)** establish a strategy to implement those actions.

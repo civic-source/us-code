@@ -3,9 +3,9 @@ title: "Section 1782h - Repealed. Pub. L. 105–220, title I , § 199(b)(2), Aug
 usc_title: 29
 usc_section: "1782h"
 chapter: 19
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "29 U.S.C. § 1782h"
-generated_at: "2026-03-30T06:06:36.608Z"
+generated_at: "2026-03-30T06:09:47.697Z"
 status: "repealed"
 ---
 

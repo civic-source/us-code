@@ -3,9 +3,9 @@ title: "Section 6965 - Reports to Congress"
 usc_title: 22
 usc_section: "6965"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 6965"
-generated_at: "2026-03-30T06:06:31.929Z"
+generated_at: "2026-03-30T06:09:37.156Z"
 status: "active"
 ---
 

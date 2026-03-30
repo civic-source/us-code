@@ -3,9 +3,9 @@ title: "Section 7612 - HIV/AIDS response Coordinator"
 usc_title: 22
 usc_section: "7612"
 chapter: 83
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 7612"
-generated_at: "2026-03-30T06:06:31.936Z"
+generated_at: "2026-03-30T06:09:37.163Z"
 status: "active"
 ---
 

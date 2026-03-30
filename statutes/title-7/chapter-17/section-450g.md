@@ -3,9 +3,9 @@ title: "Section 450g - Authorization of appropriations for cooperative research 
 usc_title: 7
 usc_section: "450g"
 chapter: 17
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 450g"
-generated_at: "2026-03-30T06:05:56.910Z"
+generated_at: "2026-03-30T06:08:04.646Z"
 status: "active"
 ---
 

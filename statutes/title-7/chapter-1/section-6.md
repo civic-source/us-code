@@ -3,9 +3,9 @@ title: "Section 6 - Regulation of futures trading and foreign transactions"
 usc_title: 7
 usc_section: "6"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T06:05:56.877Z"
+generated_at: "2026-03-30T06:08:04.614Z"
 status: "active"
 ---
 

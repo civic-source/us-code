@@ -3,9 +3,9 @@ title: "Section 1233 - Regulations as to regattas or marine parades"
 usc_title: 33
 usc_section: "1233"
 chapter: 25
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "33 U.S.C. § 1233"
-generated_at: "2026-03-30T06:06:53.670Z"
+generated_at: "2026-03-30T06:09:50.871Z"
 status: "active"
 ---
 

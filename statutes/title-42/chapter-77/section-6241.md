@@ -3,9 +3,9 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-30T06:07:18.830Z"
+generated_at: "2026-03-30T06:10:19.230Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
       - **(ii)** A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under section 6245 of this title .
 - **(h)**
   - **(1)** If the President finds that—
-    - **(A)** a circumstance, other than those described in subsection (d) of this section, exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
+    - **(A)** a circumstance, other than those described in subsection (d), exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
     - **(B)** action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage; and
     - **(C)** the Secretary of Defense has found that action taken under this subsection will not impair national security,
   - **(2)** Petroleum products from the Reserve may not be drawn down under this subsection—

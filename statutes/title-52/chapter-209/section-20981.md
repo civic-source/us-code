@@ -3,9 +3,9 @@ title: "Section 20981 - Periodic studies of election administration issues"
 usc_title: 52
 usc_section: "20981"
 chapter: 209
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "52 U.S.C. § 20981"
-generated_at: "2026-03-30T06:07:30.969Z"
+generated_at: "2026-03-30T06:10:28.044Z"
 status: "active"
 ---
 

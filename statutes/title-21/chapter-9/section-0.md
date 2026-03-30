@@ -3,9 +3,9 @@ title: "Section 0 - Expanded access policy required for investigational drugs"
 usc_title: 21
 usc_section: "0"
 chapter: 9
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "21 U.S.C. § 0"
-generated_at: "2026-03-30T06:06:33.045Z"
+generated_at: "2026-03-30T06:09:31.065Z"
 status: "active"
 ---
 

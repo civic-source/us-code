@@ -3,9 +3,9 @@ title: "Section 1167 - Entries and final proofs, made out of proper district, co
 usc_title: 43
 usc_section: "1167"
 chapter: 28
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "43 U.S.C. § 1167"
-generated_at: "2026-03-30T06:07:00.392Z"
+generated_at: "2026-03-30T06:10:09.120Z"
 status: "active"
 ---
 

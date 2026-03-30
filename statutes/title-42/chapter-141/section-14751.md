@@ -3,9 +3,9 @@ title: "Section 14751 - Transferred"
 usc_title: 42
 usc_section: "14751"
 chapter: 141
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 14751"
-generated_at: "2026-03-30T06:07:19.023Z"
+generated_at: "2026-03-30T06:10:19.428Z"
 status: "transferred"
 ---
 

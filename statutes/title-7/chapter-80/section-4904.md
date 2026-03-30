@@ -3,9 +3,9 @@ title: "Section 4904 - Notice and hearings"
 usc_title: 7
 usc_section: "4904"
 chapter: 80
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 4904"
-generated_at: "2026-03-30T06:05:57.005Z"
+generated_at: "2026-03-30T06:08:04.739Z"
 status: "active"
 ---
 

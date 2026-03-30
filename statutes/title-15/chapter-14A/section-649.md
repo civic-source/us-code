@@ -3,9 +3,9 @@ title: "Section 649 - Office of International Trade"
 usc_title: 15
 usc_section: "649"
 chapter: 14
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 649"
-generated_at: "2026-03-30T06:06:17.782Z"
+generated_at: "2026-03-30T06:09:10.414Z"
 status: "active"
 ---
 
@@ -180,6 +180,7 @@ status: "active"
     - **(D)**
       - **(i)** A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish.
       - **(ii)** A State desiring a grant under the program shall—
+        - **(I)** before submitting an application under clause (i), consult with applicable trade agencies of the Federal Government on the scope and mission of the activities the State proposes to carry out using the grant, to ensure proper coordination and reduce duplication in services; and
         - **(II)** document the consultation conducted under subclause (I) in the application submitted under clause (i).
   - **(4)** The Associate Administrator shall award grants under the program on a competitive basis.
   - **(5)** The Federal share of the cost of a trade expansion program carried out using a grant under the program shall be—

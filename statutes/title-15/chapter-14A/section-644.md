@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T06:06:17.779Z"
+generated_at: "2026-03-30T06:09:10.412Z"
 status: "active"
 ---
 
@@ -319,7 +319,7 @@ status: "active"
     - **(B)** The term “bundled or consolidated contract” means a bundled contract (as defined in section 632( o ) of this title) or a contract resulting from the consolidation of contracting requirements (as defined in section 657q(a)(2) of this title ).
 - **(t)** Not later than one year after June 30, 2016 , the Comptroller General of the United States shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the application and utilization of contracting activities of the Administration (including contracting activities relating to HUBZone small business concerns) in Puerto Rico. The report shall also identify any provisions of Federal law that may create an obstacle to the efficient implementation of such contracting activities.
 - **(u)** The Administrator shall provide to small business development centers and entities participating in the Procurement Technical Assistance Cooperative Agreement Program under chapter 142 of title 10 and shall make available on the website of the Administration, a list of resources for small business concerns seeking education and assistance on compliance with contracting regulations (including the Federal Acquisition Regulation) after award of a contract or subcontract.
-- **(v)** Not less than annually, the Administrator shall provide to the Defense Acquisition University (established under section 1746 of title 10 ), the Federal Acquisition Institute (established under section 1201 of title 41 ), the individual responsible for mandatory training and education of the acquisition workforce of each agency (described under section 1703(f)(1)(C) of title 41 ), small business development centers, and entities participating in the Procurement Technical Assistance Cooperative Agreement Program under chapter 142 of title 10—
+- **(v)** Not less than annually, the Administrator shall provide to the Defense Acquisition University (established under section 1746 of title 10 ), the Federal Acquisition Institute (established under section 1201 of title 41 ), the individual responsible for mandatory training and education of t he acquisition workforce of each agency (described under section 1703(f)(1)(C) of title 41 ), small business development centers, and entities participating in the Procurement Technical Assistance Cooperative Agreement Program under chapter 142 of title 10—
   - **(1)** a list of all changes made in the prior year to regulations promulgated—
     - **(A)** by the Administrator that affect Federal acquisition; and
     - **(B)** by the Federal Acquisition Council that implement amendments to this chapter; and

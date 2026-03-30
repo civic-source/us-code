@@ -3,9 +3,9 @@ title: "Section 5174 - Federal assistance to individuals and households"
 usc_title: 42
 usc_section: "5174"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5174"
-generated_at: "2026-03-30T06:07:18.810Z"
+generated_at: "2026-03-30T06:10:19.210Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)**
   - **(1)** In accordance with this section, the President, in consultation with the Governor of a State, may provide financial assistance, and, if necessary, direct services, to individuals and households in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.
-  - **(2)** Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) of this section solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
+  - **(2)** Under paragraph (1), an individual or household shall not be denied assistance under paragraph (1), (3), or (4) of subsection (c) solely on the basis that the individual or household has not applied for or received any loan or other financial assistance from the Small Business Administration or any other Federal agency.
 - **(b)**
   - **(1)** The President may provide financial or other assistance under this section to individuals and households to respond to the disaster-related housing needs of individuals and households who are displaced from their predisaster primary residences or whose predisaster primary residences are rendered uninhabitable, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable, as a result of damage caused by a major disaster.
   - **(2)**
-    - **(A)** The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) of this section based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
+    - **(A)** The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
     - **(B)** One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs of individuals and households in the particular disaster situation.
 - **(c)**
   - **(1)**
@@ -66,12 +66,12 @@ status: "active"
   - **(2)** The President, in consultation with the Governor of a State, may provide financial assistance under this section to an individual or household described in paragraph (1) to address personal property, transportation, and other necessary expenses or serious needs resulting from the major disaster.
 - **(f)**
   - **(1)**
-    - **(A)** Subject to subsection (g) of this section, a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e) of this section.
-    - **(B)** A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e) of this section.
+    - **(A)** Subject to subsection (g), a Governor may request a grant from the President to provide financial assistance to individuals and households in the State under subsection (e).
+    - **(B)** A State that receives a grant under subparagraph (A) may expend not more than 5 percent of the amount of the grant for the administrative costs of providing financial assistance to individuals and households in the State under subsection (e).
   - **(2)** In providing assistance to individuals and households under this section, the President shall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
 - **(g)**
   - **(1)** Except as provided in paragraph (2), the Federal share of the costs eligible to be paid using assistance provided under this section shall be 100 percent.
-  - **(2)** In the case of financial assistance provided under subsection (e) of this section—
+  - **(2)** In the case of financial assistance provided under subsection (e)—
     - **(A)** the Federal share shall be 75 percent; and
     - **(B)** the non-Federal share shall be paid from funds made available by the State.
 - **(h)**

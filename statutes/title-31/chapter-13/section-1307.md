@@ -3,9 +3,9 @@ title: "Section 1307 - Public building construction"
 usc_title: 31
 usc_section: "1307"
 chapter: 13
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "31 U.S.C. § 1307"
-generated_at: "2026-03-30T06:06:52.622Z"
+generated_at: "2026-03-30T06:09:56.242Z"
 status: "active"
 ---
 

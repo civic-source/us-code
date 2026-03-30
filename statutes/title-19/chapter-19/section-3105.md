@@ -3,9 +3,9 @@ title: "Section 3105 - Actions to be taken if no agreement obtained"
 usc_title: 19
 usc_section: "3105"
 chapter: 19
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 3105"
-generated_at: "2026-03-30T06:06:23.872Z"
+generated_at: "2026-03-30T06:09:16.669Z"
 status: "active"
 ---
 

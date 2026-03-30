@@ -3,9 +3,9 @@ title: "Section 6504 - Cross references"
 usc_title: 26
 usc_section: "6504"
 chapter: 66
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "26 U.S.C. § 6504"
-generated_at: "2026-03-30T06:06:50.055Z"
+generated_at: "2026-03-30T06:09:46.465Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70907 - Maintaining use through at least 2024"
 usc_title: 51
 usc_section: "70907"
 chapter: 709
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "51 U.S.C. § 70907"
-generated_at: "2026-03-30T06:07:28.089Z"
+generated_at: "2026-03-30T06:10:27.914Z"
 status: "active"
 ---
 

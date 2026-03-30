@@ -3,9 +3,9 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T06:07:18.668Z"
+generated_at: "2026-03-30T06:10:19.072Z"
 status: "active"
 ---
 
@@ -14,10 +14,10 @@ status: "active"
 - **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
   - **(1)** Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
   - **(2)** Health benefits coverage that meets the following requirements:
-    - **(A)** The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1) of this section.
+    - **(A)** The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1).
     - **(B)** The coverage has an aggregate actuarial value that is at least actuarially equivalent to one of the benchmark benefit packages.
-    - **(C)** With respect to each of the categories of additional services described in subsection (c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
-  - **(3)** Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1) of this section.
+    - **(C)** With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+  - **(3)** Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1).
   - **(4)** Any other health benefits coverage that the Secretary determines, upon application by a State, provides appropriate coverage for the population of targeted low-income children proposed to be provided such coverage.
 - **(b)** The benchmark benefit packages are as follows:
   - **(1)** The standard Blue Cross/Blue Shield preferred provider option service benefit plan, described in and offered under section 8903(1) of title 5 .
@@ -69,7 +69,7 @@ status: "active"
   - **(1)**
     - **(A)** A State child health plan shall include a description, consistent with this subsection, of the amount (if any) of premiums, deductibles, coinsurance, and other cost sharing imposed. Any such charges shall be imposed pursuant to a public schedule.
     - **(B)** The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
-  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) of this section or for pregnancy-related assistance.
+  - **(2)** The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
   - **(3)**
     - **(A)** In the case of a targeted low-income child whose family income is at or below 150 percent of the poverty line, the State child health plan may not impose—
       - **(i)** an enrollment fee, premium, or similar charge that exceeds the maximum monthly charge permitted consistent with standards established to carry out section 1396 o (b)(1) of this title (with respect to individuals described in such section); and

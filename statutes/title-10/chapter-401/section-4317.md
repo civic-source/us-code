@@ -3,9 +3,9 @@ title: "Section 4317 - Military history fellowships"
 usc_title: 10
 usc_section: "4317"
 chapter: 401
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 4317"
-generated_at: "2026-03-30T06:06:04.834Z"
+generated_at: "2026-03-30T06:08:21.058Z"
 status: "active"
 ---
 

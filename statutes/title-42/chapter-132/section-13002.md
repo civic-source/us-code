@@ -3,9 +3,9 @@ title: "Section 13002 - Local children’s advocacy centers"
 usc_title: 42
 usc_section: "13002"
 chapter: 132
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 13002"
-generated_at: "2026-03-30T06:07:18.994Z"
+generated_at: "2026-03-30T06:10:19.398Z"
 status: "active"
 ---
 

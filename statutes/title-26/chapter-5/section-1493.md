@@ -3,9 +3,9 @@ title: "Section 1493 - Repealed. Pub. L. 89–809, title I , § 103(l)(2), Nov. 
 usc_title: 26
 usc_section: "1493"
 chapter: 5
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "26 U.S.C. § 1493"
-generated_at: "2026-03-30T06:06:49.911Z"
+generated_at: "2026-03-30T06:09:46.398Z"
 status: "repealed"
 ---
 

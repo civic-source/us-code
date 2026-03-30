@@ -3,9 +3,9 @@ title: "Section 797l - Class II railroads receiving Federal assistance"
 usc_title: 45
 usc_section: "797l"
 chapter: 16
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "45 U.S.C. § 797l"
-generated_at: "2026-03-30T06:07:01.060Z"
+generated_at: "2026-03-30T06:10:07.922Z"
 status: "active"
 ---
 

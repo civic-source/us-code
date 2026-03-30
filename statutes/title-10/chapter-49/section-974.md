@@ -3,9 +3,9 @@ title: "Section 974 - Military musical units and musicians: performance policies
 usc_title: 10
 usc_section: "974"
 chapter: 49
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 974"
-generated_at: "2026-03-30T06:06:04.760Z"
+generated_at: "2026-03-30T06:08:20.985Z"
 status: "active"
 ---
 

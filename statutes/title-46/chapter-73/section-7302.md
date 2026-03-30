@@ -3,9 +3,9 @@ title: "Section 7302 - Issuing merchant mariners’ documents and continuous dis
 usc_title: 46
 usc_section: "7302"
 chapter: 73
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "46 U.S.C. § 7302"
-generated_at: "2026-03-30T06:07:22.938Z"
+generated_at: "2026-03-30T06:10:23.033Z"
 status: "active"
 ---
 

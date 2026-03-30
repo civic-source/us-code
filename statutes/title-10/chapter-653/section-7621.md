@@ -3,9 +3,9 @@ title: "Section 7621 - Definitions"
 usc_title: 10
 usc_section: "7621"
 chapter: 653
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 7621"
-generated_at: "2026-03-30T06:06:04.849Z"
+generated_at: "2026-03-30T06:08:21.073Z"
 status: "active"
 ---
 

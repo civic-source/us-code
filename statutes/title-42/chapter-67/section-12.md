@@ -3,9 +3,9 @@ title: "Section 12 - Evaluations, study, and reports by Secretary"
 usc_title: 42
 usc_section: "12"
 chapter: 67
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T06:07:18.806Z"
+generated_at: "2026-03-30T06:10:19.207Z"
 status: "active"
 ---
 

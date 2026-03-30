@@ -3,9 +3,9 @@ title: "Section 702 - Definitions"
 usc_title: 47
 usc_section: "702"
 chapter: 6
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "47 U.S.C. § 702"
-generated_at: "2026-03-30T06:07:22.308Z"
+generated_at: "2026-03-30T06:10:22.030Z"
 status: "active"
 ---
 

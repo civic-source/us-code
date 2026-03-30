@@ -3,9 +3,9 @@ title: "Section 6542 - Repealed. Pub. L. 113–79, title VIII , § 8005, Feb. 7,
 usc_title: 16
 usc_section: "6542"
 chapter: 84
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 6542"
-generated_at: "2026-03-30T06:06:26.200Z"
+generated_at: "2026-03-30T06:09:20.938Z"
 status: "repealed"
 ---
 

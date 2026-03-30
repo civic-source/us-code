@@ -3,9 +3,9 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-30T06:07:18.804Z"
+generated_at: "2026-03-30T06:10:19.205Z"
 status: "active"
 ---
 
@@ -79,7 +79,7 @@ status: "active"
       - **(xiii)** provisions and procedures requiring that in every case involving a victim of child abuse or neglect which results in a judicial proceeding, a guardian ad litem, who has received training appropriate to the role, including training in early childhood, child, and adolescent development, and who may be an attorney or a court appointed special advocate who has received training appropriate to that role (or both), shall be appointed to represent the child in such proceedings—
         - **(I)** to obtain first-hand, a clear understanding of the situation and needs of the child; and
         - **(II)** to make recommendations to the court concerning the best interests of the child;
-      - **(xiv)** the establishment of citizen review panels in accordance with subsection (c) of this section;
+      - **(xiv)** the establishment of citizen review panels in accordance with subsection (c);
       - **(xv)** provisions, procedures, and mechanisms—
         - **(I)** for the expedited termination of parental rights in the case of any infant determined to be abandoned under State law; and
         - **(II)** by which individuals who disagree with an official finding of child abuse or neglect can appeal such finding;
@@ -125,11 +125,11 @@ status: "active"
   - **(3)** Each panel established pursuant to paragraph (1) shall meet not less than once every 3 months.
   - **(4)**
     - **(A)** Each panel established pursuant to paragraph (1) shall, by examining the policies, procedures, and practices of State and local agencies and where appropriate, specific cases, evaluate the extent to which State and local child protection system agencies are effectively discharging their child protection responsibilities in accordance with—
-      - **(i)** the State plan under subsection (b) of this section;
-      - **(ii)** the child protection standards set forth in subsection (b) of this section; and
+      - **(i)** the State plan under subsection (b);
+      - **(ii)** the child protection standards set forth in subsection (b); and
       - **(iii)** any other criteria that the panel considers important to ensure the protection of children, including—
         - **(I)** a review of the extent to which the State and local child protective services system is coordinated with the foster care and adoption programs established under part E of title IV of the Social Security Act ( 42 U.S.C. 670 et seq.); and
-        - **(II)** a review of child fatalities and near fatalities (as defined in subsection (b)(4) of this section).
+        - **(II)** a review of child fatalities and near fatalities (as defined in subsection (b)(4)).
     - **(B)**
       - **(i)** The members and staff of a panel established under paragraph (1)—
         - **(I)** shall not disclose to any person or government official any identifying information about any specific child protection case with respect to which the panel is provided information; and
@@ -169,7 +169,7 @@ status: "active"
     - **(D)** information on caseload or workload requirements for such personnel, including requirements for average number and maximum number of cases per child protective service worker and supervisor.
   - **(11)** The number of children reunited with their families or receiving family preservation services that, within five years, result in subsequent substantiated reports of child abuse or neglect, including the death of the child.
   - **(12)** The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
-  - **(13)** The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6) of this section.
+  - **(13)** The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6).
   - **(14)** The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
   - **(15)** The number of children referred to a child protective services system under subsection (b)(2)(B)(ii).
   - **(16)** The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act ( 20 U.S.C. 1431 et seq.).
@@ -177,7 +177,7 @@ status: "active"
     - **(A)** identified under subsection (b)(2)(B)(ii);
     - **(B)** for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
     - **(C)** for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).
-- **(e)** Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
+- **(e)** Within 6 months after receiving the State reports under subsection (d), the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
 - **(f)**
   - **(1)** In this subsection:
     - **(A)** The term “fiscal year 2009 grant funds” means the amount appropriated under section 5106h of this title for fiscal year 2009, and not reserved under section 5106h(a)(2) of this title .

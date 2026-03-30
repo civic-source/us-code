@@ -3,9 +3,9 @@ title: "Section 576 - Revolving fund; establishment; availability; reimbursement
 usc_title: 33
 usc_section: "576"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "33 U.S.C. § 576"
-generated_at: "2026-03-30T06:06:53.656Z"
+generated_at: "2026-03-30T06:09:50.855Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** No funds may be expended or obligated from the revolving fund described in subsection (a) to newly construct, or perform a major renovation on, a building for use by the Corps of Engineers unless specifically authorized by law.
   - **(2)** Nothing in this subsection may be construed to—
-    - **(A)** change any authority provided under subchapter I of chapter 169 of title 10 1 1 See References in Text note below. ; or
+    - **(A)** change any authority provided under subchapter I of chapter 169 of title 10; 1 1 See References in Text note below. or
     - **(B)** change the use of funds under subsection (a) for purposes other than those described in paragraph (1).
 - **(c)** To secure consideration for an authorization under subsection (b), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representative and the Committee on Environment and Public Works of the Senate a prospectus of the proposed construction or major renovation of a building that includes—
   - **(1)** a brief description of the building;

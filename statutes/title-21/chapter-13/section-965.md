@@ -3,9 +3,9 @@ title: "Section 965 - Applicability of part E of subchapter I"
 usc_title: 21
 usc_section: "965"
 chapter: 13
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "21 U.S.C. § 965"
-generated_at: "2026-03-30T06:06:33.079Z"
+generated_at: "2026-03-30T06:09:31.097Z"
 status: "active"
 ---
 

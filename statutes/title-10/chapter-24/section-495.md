@@ -3,9 +3,9 @@ title: "Section 495 - Strategic delivery systems"
 usc_title: 10
 usc_section: "495"
 chapter: 24
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 495"
-generated_at: "2026-03-30T06:06:04.744Z"
+generated_at: "2026-03-30T06:08:20.969Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6317 - Energy conservation standards for high-intensity discharg
 usc_title: 42
 usc_section: "6317"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6317"
-generated_at: "2026-03-30T06:07:18.841Z"
+generated_at: "2026-03-30T06:10:19.240Z"
 status: "active"
 ---
 
@@ -20,10 +20,10 @@ status: "active"
   - **(2)** The Secretary shall, within 18 months after the date on which testing requirements are prescribed by the Secretary pursuant to paragraph (1), prescribe, by rule, energy conservation standards for those small electric motors for which the Secretary prescribed testing requirements under paragraph (1).
   - **(3)** Any standard prescribed under paragraph (2) shall apply to small electric motors manufactured 60 months after the date such rule is published or, in the case of small electric motors which require listing or certification by a nationally recognized testing laboratory, 84 months after such date. Such standards shall not apply to any small electric motor which is a component of a covered product under section 6292(a) of this title or a covered equipment under section 6311 of this title .
 - **(c)** In establishing any standard under this section, the Secretary shall take into consideration the criteria contained in section 6295(n) of this title .
-- **(d)** The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) of this section and small electric motors pursuant to subsection (b)(2) of this section, prescribe labeling requirements for such lamps, transformers, and small electric motors.
-- **(e)** Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d) of this section, each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
+- **(d)** The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) and small electric motors pursuant to subsection (b)(2), prescribe labeling requirements for such lamps, transformers, and small electric motors.
+- **(e)** Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d), each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
 - **(f)**
-  - **(1)** After the date on which a manufacturer must provide a label for a product pursuant to subsection (e) of this section—
+  - **(1)** After the date on which a manufacturer must provide a label for a product pursuant to subsection (e)—
     - **(A)** each such product shall be considered, for purposes of paragraphs (1) and (2) of section 6302(a) of this title , a new covered product to which a rule under section 6294 of this title applies; and
-    - **(B)** it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) of this section which is not in conformity with the applicable energy conservation standard.
+    - **(B)** it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) which is not in conformity with the applicable energy conservation standard.
   - **(2)** For purposes of section 6303(a) of this title , paragraph (1) of this subsection shall be considered to be a part of section 6302 of this title .

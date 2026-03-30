@@ -3,9 +3,9 @@ title: "Section 5133 - Predisaster hazard mitigation"
 usc_title: 42
 usc_section: "5133"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5133"
-generated_at: "2026-03-30T06:07:18.807Z"
+generated_at: "2026-03-30T06:10:19.208Z"
 status: "active"
 ---
 
@@ -13,16 +13,16 @@ status: "active"
 
 - **(a)** In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 - **(b)** The President may establish a program to provide technical and financial assistance to States and local governments to assist in the implementation of predisaster hazard mitigation measures that are cost-effective and are designed to reduce injuries, loss of life, and damage and destruction of property, including damage to critical services and facilities under the jurisdiction of the States or local governments.
-- **(c)** If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) of this section (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e) of this section.
+- **(c)** If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e).
 - **(d)**
   - **(1)**
     - **(A)** The Governor of each State may recommend to the President not fewer than five local governments to receive assistance under this section.
     - **(B)** The recommendations under subparagraph (A) shall be submitted to the President not later than October 1, 2001 , and each October 1st thereafter or such later date in the year as the President may establish.
-    - **(C)** In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g) of this section.
+    - **(C)** In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g).
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), in providing assistance to local governments under this section, the President shall select from local governments recommended by the Governors under this subsection.
     - **(B)** In providing assistance to local governments under this section, the President may select a local government that has not been recommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
-  - **(3)** If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g) of this section, any local governments of the State to receive assistance under this section.
+  - **(3)** If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g), any local governments of the State to receive assistance under this section.
 - **(e)**
   - **(1)** Technical and financial assistance provided under this section—
     - **(A)** shall be used by States and local governments principally to implement predisaster hazard mitigation measures that are cost-effective and are described in proposals approved by the President under this section; and
@@ -77,7 +77,7 @@ status: "active"
     - **(A)** The multihazard advisory maps shall be considered to be advisory and shall not require the development of any new policy by, or impose any new policy on, any government or private entity.
     - **(B)** The multihazard advisory maps shall be made available to the appropriate State and local governments for the purposes of—
       - **(i)** informing the general public about the risks of natural hazards in the areas described in paragraph (2);
-      - **(ii)** supporting the activities described in subsection (e) of this section; and
+      - **(ii)** supporting the activities described in subsection (e); and
       - **(iii)** other public uses.
 - **(l)** Not later than 18 months after October 30, 2000 , the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 - **(m)** There are authorized to be appropriated to carry out this section—

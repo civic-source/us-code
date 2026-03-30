@@ -3,9 +3,9 @@ title: "Section 707 - Criminal penalty for false statements"
 usc_title: 42
 usc_section: "707"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 707"
-generated_at: "2026-03-30T06:07:18.544Z"
+generated_at: "2026-03-30T06:10:18.948Z"
 status: "active"
 ---
 

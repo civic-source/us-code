@@ -3,9 +3,9 @@ title: "Section 24 - Demonstration projects to provide services to youth in rura
 usc_title: 42
 usc_section: "24"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-30T06:07:18.823Z"
+generated_at: "2026-03-30T06:10:19.223Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** In each fiscal year for which funds are appropriated to carry out this section, grants shall be made under paragraph (1) to eligible applicants to carry out projects in not fewer than 10 States.
     - **(C)** Not more than 2 grants may be made under paragraph (1) in each fiscal year to carry out projects in a particular State.
   - **(3)** Each eligible applicant that receives a grant for a fiscal year to carry out a project under this section shall have priority to receive a grant for the subsequent fiscal year to carry out a project under this section.
-- **(b)** To be eligible to receive a grant under subsection (a) of this section, an applicant shall—
+- **(b)** To be eligible to receive a grant under subsection (a), an applicant shall—
   - **(1)** submit to the Secretary an application in such form and containing such information and assurances as the Secretary may require by rule; and
   - **(2)** propose to carry out such project in a geographical area that—
     - **(A)** has a population under 20,000;

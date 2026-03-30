@@ -3,9 +3,9 @@ title: "Section 348 - Joint task forces"
 usc_title: 6
 usc_section: "348"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 348"
-generated_at: "2026-03-30T06:05:58.326Z"
+generated_at: "2026-03-30T06:08:15.369Z"
 status: "active"
 ---
 
@@ -24,10 +24,10 @@ status: "active"
       - **(ii)** Homeland security crises.
       - **(iii)** Establishing regionally-based operations.
     - **(B)**
-      - **(i)** The Secretary may not establish a Joint Task Force for any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V, including section 314(a)(3)(A) of this title , unless the responsibilities of such a Joint Task Force—
+      - **(i)** The Secretary may not establish a Joint Task Force for any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title , unless the responsibilities of such a Joint Task Force—
         - **(I)** do not include operational functions related to incident management, including coordination of operations; and
         - **(II)** are consistent with the requirements of paragraphs (3) and (4)(A) of section 313(c) and section 319(c) of this title , and section 302 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5143 ).
-      - **(ii)** Nothing in this section may be construed to reduce the responsibilities or functions of the Federal Emergency Management Agency or the Administrator of the Agency under subchapter V or any other provision of law, including the diversion of any asset, function, or mission from the Agency or the Administrator of the Agency pursuant to section 316 of this title .
+      - **(ii)** Nothing in this section may be construed to reduce the responsibilities or functions of the Federal Emergency Management Agency or the Administrator of the Agency under subchapter V of this chapter or any other provision of law, including the diversion of any asset, function, or mission from the Agency or the Administrator of the Agency pursuant to section 316 of this title .
   - **(3)**
     - **(A)** Each Joint Task Force established and operated pursuant to paragraph (1) shall be headed by a Director, appointed by the President, for a term of not more than two years. The Secretary shall submit to the President recommendations for such appointments after consulting with the heads of the components of the Department with membership on any such Joint Task Force. Any Director appointed by the President shall be—
       - **(i)** a current senior official of the Department with not less than one year of significant leadership experience at the Department; or

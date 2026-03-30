@@ -3,15 +3,15 @@ title: "Section 6863 - Weatherization program"
 usc_title: 42
 usc_section: "6863"
 chapter: 81
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6863"
-generated_at: "2026-03-30T06:07:18.850Z"
+generated_at: "2026-03-30T06:10:19.250Z"
 status: "active"
 ---
 
 # § 6863. Weatherization program
 
-- **(a)** The Secretary shall develop and conduct, in accordance with the purpose and provisions of this part, a weatherization program. In developing and conducting such program, the Secretary may, in accordance with this part and regulations promulgated under this part, make grants (1) to States, and (2) in accordance with the provisions of subsection (d) of this section, to Indian tribal organizations to serve Native Americans. Such grants shall be made for the purpose of providing financial assistance with regard to projects designed to provide for the weatherization of dwelling units, particularly those where elderly or handicapped low-income persons reside, occupied by low-income families.
+- **(a)** The Secretary shall develop and conduct, in accordance with the purpose and provisions of this part, a weatherization program. In developing and conducting such program, the Secretary may, in accordance with this part and regulations promulgated under this part, make grants (1) to States, and (2) in accordance with the provisions of subsection (d), to Indian tribal organizations to serve Native Americans. Such grants shall be made for the purpose of providing financial assistance with regard to projects designed to provide for the weatherization of dwelling units, particularly those where elderly or handicapped low-income persons reside, occupied by low-income families.
 - **(b)**
   - **(1)** The Secretary, after consultation with the Director, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Labor, and the heads of such other Federal departments and agencies as the Secretary deems appropriate, shall develop and publish in the Federal Register for public comment, not later than 60 days after August 14, 1976 , proposed regulations to carry out the provisions of this part. The Secretary shall take into consideration comments submitted regarding such proposed regulations and shall promulgate and publish final regulations for such purpose not later than 90 days after August 14, 1976 . The development of regulations under this part shall be fully coordinated with the Director.
   - **(2)** The regulations promulgated pursuant to this section shall include provisions—

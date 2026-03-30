@@ -3,9 +3,9 @@ title: "Section 1296 - Annual report to President and Congress"
 usc_title: 30
 usc_section: "1296"
 chapter: 25
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "30 U.S.C. § 1296"
-generated_at: "2026-03-30T06:06:37.216Z"
+generated_at: "2026-03-30T06:09:42.305Z"
 status: "active"
 ---
 

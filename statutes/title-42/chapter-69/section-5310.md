@@ -3,16 +3,16 @@ title: "Section 5310 - Labor standards; rate of wages; exceptions; enforcement p
 usc_title: 42
 usc_section: "5310"
 chapter: 69
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5310"
-generated_at: "2026-03-30T06:07:18.815Z"
+generated_at: "2026-03-30T06:10:19.216Z"
 status: "active"
 ---
 
 # § 5310. Labor standards; rate of wages; exceptions; enforcement powers
 
 - **(a)** All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed in whole or in part with assistance received under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40: Provided , That this section shall apply to the rehabilitation of residential property only if such property contains not less than 8 units. The Secretary of Labor shall have, with respect to such labor standards, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267 ) and section 3145 of title 40 .
-- **(b)** Subsection (a) of this section shall not apply to any individual that—
+- **(b)** Subsection (a) shall not apply to any individual that—
   - **(1)** performs services for which the individual volunteered;
   - **(2)**
     - **(A)** does not receive compensation for such services; or

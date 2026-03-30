@@ -3,9 +3,9 @@ title: "Section 272b - Livestock grazing"
 usc_title: 16
 usc_section: "272b"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 272b"
-generated_at: "2026-03-30T06:06:26.002Z"
+generated_at: "2026-03-30T06:09:20.632Z"
 status: "active"
 ---
 

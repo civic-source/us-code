@@ -3,9 +3,9 @@ title: "Section 9314 - Degree granting authority for United States Air Force Ins
 usc_title: 10
 usc_section: "9314"
 chapter: 901
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 9314"
-generated_at: "2026-03-30T06:06:04.853Z"
+generated_at: "2026-03-30T06:08:21.077Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6361 - Federal energy conservation programs"
 usc_title: 42
 usc_section: "6361"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6361"
-generated_at: "2026-03-30T06:07:18.843Z"
+generated_at: "2026-03-30T06:10:19.242Z"
 status: "active"
 ---
 
@@ -22,5 +22,5 @@ status: "active"
     - **(A)** The term “van” means any automobile which the Secretary determines is manufactured primarily for use in the transportation of not less than 8 individuals and not more than 15 individuals.
     - **(B)** The term “van pooling arrangement” means an arrangement for the transportation of employees between their residences or other designated locations and their place of employment on a nonprofit basis in which the operating costs of such arrangement are paid for by the employees utilizing such arrangement.
 - **(c)**
-- **(d)** The plan developed by the President pursuant to subsection (a)(2) of this section shall be applicable to Executive agencies as defined in section 105 of title 5 and to the United States Postal Service.
-- **(e)** In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
+- **(d)** The plan developed by the President pursuant to subsection (a)(2) shall be applicable to Executive agencies as defined in section 105 of title 5 and to the United States Postal Service.
+- **(e)** In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2).

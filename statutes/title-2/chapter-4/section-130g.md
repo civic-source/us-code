@@ -3,9 +3,9 @@ title: "Section 130g - Transferred"
 usc_title: 2
 usc_section: "130g"
 chapter: 4
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "2 U.S.C. § 130g"
-generated_at: "2026-03-30T06:05:31.175Z"
+generated_at: "2026-03-30T06:07:44.545Z"
 status: "transferred"
 ---
 

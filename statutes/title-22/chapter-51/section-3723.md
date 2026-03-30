@@ -3,9 +3,9 @@ title: "Section 3723 - Audits"
 usc_title: 22
 usc_section: "3723"
 chapter: 51
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 3723"
-generated_at: "2026-03-30T06:06:31.893Z"
+generated_at: "2026-03-30T06:09:37.122Z"
 status: "active"
 ---
 

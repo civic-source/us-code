@@ -3,9 +3,9 @@ title: "Section 2473b - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2473b"
 chapter: 26
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 2473b"
-generated_at: "2026-03-30T06:07:18.749Z"
+generated_at: "2026-03-30T06:10:19.150Z"
 status: "repealed"
 ---
 

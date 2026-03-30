@@ -3,9 +3,9 @@ title: "Section 1494 - Accounts of officers, agents or contractors"
 usc_title: 28
 usc_section: "1494"
 chapter: 91
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "28 U.S.C. § 1494"
-generated_at: "2026-03-30T06:06:43.839Z"
+generated_at: "2026-03-30T06:09:40.274Z"
 status: "active"
 ---
 

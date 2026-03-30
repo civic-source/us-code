@@ -3,9 +3,9 @@ title: "Section 16935a - Definitions"
 usc_title: 42
 usc_section: "16935a"
 chapter: 151
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 16935a"
-generated_at: "2026-03-30T06:07:19.050Z"
+generated_at: "2026-03-30T06:10:19.456Z"
 status: "active"
 ---
 

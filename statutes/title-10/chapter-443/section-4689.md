@@ -3,9 +3,9 @@ title: "Section 4689 - Transfer of material and equipment to the Architect of th
 usc_title: 10
 usc_section: "4689"
 chapter: 443
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 4689"
-generated_at: "2026-03-30T06:06:04.837Z"
+generated_at: "2026-03-30T06:08:21.061Z"
 status: "active"
 ---
 

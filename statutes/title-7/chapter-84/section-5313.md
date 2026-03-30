@@ -3,9 +3,9 @@ title: "Section 5313 - Development of comprehensive plan for National Nutrition 
 usc_title: 7
 usc_section: "5313"
 chapter: 84
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 5313"
-generated_at: "2026-03-30T06:05:57.006Z"
+generated_at: "2026-03-30T06:08:04.740Z"
 status: "active"
 ---
 

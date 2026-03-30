@@ -3,9 +3,9 @@ title: "Section 674 - Temporary administrative reassignment or removal of a memb
 usc_title: 10
 usc_section: "674"
 chapter: 39
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 674"
-generated_at: "2026-03-30T06:06:04.750Z"
+generated_at: "2026-03-30T06:08:20.975Z"
 status: "active"
 ---
 

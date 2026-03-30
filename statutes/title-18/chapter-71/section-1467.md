@@ -3,9 +3,9 @@ title: "Section 1467 - Criminal forfeiture"
 usc_title: 18
 usc_section: "1467"
 chapter: 71
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 1467"
-generated_at: "2026-03-30T06:06:20.986Z"
+generated_at: "2026-03-30T06:09:18.211Z"
 status: "active"
 ---
 

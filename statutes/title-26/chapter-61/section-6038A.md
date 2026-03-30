@@ -3,9 +3,9 @@ title: "Section 6038A - Information with respect to certain foreign-owned corpor
 usc_title: 26
 usc_section: "6038A"
 chapter: 61
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "26 U.S.C. § 6038A"
-generated_at: "2026-03-30T06:06:49.957Z"
+generated_at: "2026-03-30T06:09:46.443Z"
 status: "active"
 ---
 

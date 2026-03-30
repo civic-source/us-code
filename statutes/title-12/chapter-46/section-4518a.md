@@ -3,9 +3,9 @@ title: "Section 4518a - Limitation on bonuses to executives of Fannie Mae and Fr
 usc_title: 12
 usc_section: "4518a"
 chapter: 46
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "12 U.S.C. § 4518a"
-generated_at: "2026-03-30T06:06:11.072Z"
+generated_at: "2026-03-30T06:08:38.981Z"
 status: "active"
 ---
 

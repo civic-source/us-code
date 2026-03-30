@@ -3,9 +3,9 @@ title: "Section 15097 - Reporting"
 usc_title: 42
 usc_section: "15097"
 chapter: 144
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 15097"
-generated_at: "2026-03-30T06:07:19.028Z"
+generated_at: "2026-03-30T06:10:19.433Z"
 status: "active"
 ---
 

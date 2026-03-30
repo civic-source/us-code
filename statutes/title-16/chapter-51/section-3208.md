@@ -3,9 +3,9 @@ title: "Section 3208 - Authorization of appropriations; contract authority"
 usc_title: 16
 usc_section: "3208"
 chapter: 51
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 3208"
-generated_at: "2026-03-30T06:06:26.173Z"
+generated_at: "2026-03-30T06:09:20.911Z"
 status: "active"
 ---
 

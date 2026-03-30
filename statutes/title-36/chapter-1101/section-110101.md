@@ -3,9 +3,9 @@ title: "Section 110101 - Definition"
 usc_title: 36
 usc_section: "110101"
 chapter: 1101
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "36 U.S.C. § 110101"
-generated_at: "2026-03-30T06:06:56.073Z"
+generated_at: "2026-03-30T06:10:01.120Z"
 status: "active"
 ---
 

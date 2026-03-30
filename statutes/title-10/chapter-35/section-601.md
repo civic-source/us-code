@@ -3,9 +3,9 @@ title: "Section 601 - Positions of importance and responsibility: generals and l
 usc_title: 10
 usc_section: "601"
 chapter: 35
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 601"
-generated_at: "2026-03-30T06:06:04.746Z"
+generated_at: "2026-03-30T06:08:20.972Z"
 status: "active"
 ---
 

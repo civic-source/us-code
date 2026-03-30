@@ -3,9 +3,9 @@ title: "Section 6714 - Failure to meet disclosure requirements applicable to qui
 usc_title: 26
 usc_section: "6714"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "26 U.S.C. § 6714"
-generated_at: "2026-03-30T06:06:50.063Z"
+generated_at: "2026-03-30T06:09:46.470Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 921 - Transferred"
 usc_title: 2
 usc_section: "921"
 chapter: 20
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "2 U.S.C. § 921"
-generated_at: "2026-03-30T06:05:31.193Z"
+generated_at: "2026-03-30T06:07:44.563Z"
 status: "transferred"
 ---
 

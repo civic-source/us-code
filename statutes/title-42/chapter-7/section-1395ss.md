@@ -3,9 +3,9 @@ title: "Section 1395ss - Certification of medicare supplemental health insurance
 usc_title: 42
 usc_section: "1395ss"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395ss"
-generated_at: "2026-03-30T06:07:18.624Z"
+generated_at: "2026-03-30T06:10:19.029Z"
 status: "active"
 ---
 
@@ -283,7 +283,7 @@ status: "active"
 - **(s)**
   - **(1)** If a medicare supplemental policy replaces another medicare supplemental policy, the issuer of the replacing policy shall waive any time periods applicable to preexisting conditions, waiting period, elimination periods and probationary periods in the new medicare supplemental policy for similar benefits to the extent such time was spent under the original policy.
   - **(2)**
-    - **(A)** The issuer of a medicare supplemental policy may not deny or condition the issuance or effectiveness of a medicare supplemental policy, or discriminate in the pricing of the policy, because of health status, claims experience, receipt of health care, or medical condition in the case of an individual for whom an application is submitted prior to or during the 6 month period beginning with the first month as of the first day on which the individual is 65 years of age or older and is enrolled for benefits under part B of this subchapter.
+    - **(A)** The issuer of a medicare supplemental policy may not deny or condition the issuance or effectiveness of a medicare supplemental policy, or discriminate in the pricing of the policy, because of health status, claims experience, receipt of health care, or medical condition in the case of an individual for whom an application is submitted prior to or during the 6 month period beginning with the first month as of the first day on which the individual is 65 years of age or older and is enrolled for benefits under part B.
     - **(B)** Subject to subparagraphs (C) and (D), subparagraph (A) shall not be construed as preventing the exclusion of benefits under a policy, during its first 6 months, based on a pre-existing condition for which the policyholder received treatment or was otherwise diagnosed during the 6 months before the policy became effective.
     - **(C)** If a medicare supplemental policy or certificate replaces another such policy or certificate which has been in effect for 6 months or longer, the replacing policy may not provide any time period applicable to pre-existing conditions, waiting periods, elimination periods, and probationary periods in the new policy or certificate for similar benefits.
     - **(D)** In the case of a policy issued during the 6-month period described in subparagraph (A) to an individual who is 65 years of age or older as of the date of issuance and who as of the date of the application for enrollment has a continuous period of creditable coverage (as defined in section 2701(c) 4 4 See References in Text note below. of the Public Health Service Act) of—
@@ -346,7 +346,7 @@ status: "active"
     - **(B)** imposes premiums on enrollees in excess of the premiums approved by the State,
     - **(C)** acts to expel an enrollee for reasons other than nonpayment of premiums, or
     - **(D)** does not provide the explanation required under paragraph (1)(E)(i) or does not obtain the acknowledgment required under paragraph (1)(E)(ii),
-  - **(3)** The Secretary may enter into a contract with an entity whose policy has been certified under paragraph (1) or has been approved by a State under subsection (b)(1)(H) o determine whether items and services (furnished to individuals entitled to benefits under this subchapter and under that policy) are not allowable under section 1395y(a)(1) of this title . Payments to the entity shall be in such amounts as the Secretary may determine, taking into account estimated savings under contracts with carriers and fiscal intermediaries and other factors that the Secretary finds appropriate. Paragraph (1), the first sentence of paragraph (2)(A), paragraph (2)(B), paragraph (3)(C), paragraph (3)(D), and paragraph (3)(E) 4 of section 1395u(b) of this title shall apply to the entity.
+  - **(3)** The Secretary may enter into a contract with an entity whose policy has been certified under paragraph (1) or has been approved by a State under subsection (b)(1)(H) to determine whether items and services (furnished to individuals entitled to benefits under this subchapter and under that policy) are not allowable under section 1395y(a)(1) of this title . Payments to the entity shall be in such amounts as the Secretary may determine, taking into account estimated savings under contracts with carriers and fiscal intermediaries and other factors that the Secretary finds appropriate. Paragraph (1), the first sentence of paragraph (2)(A), paragraph (2)(B), paragraph (3)(C), paragraph (3)(D), and paragraph (3)(E) 4 of section 1395u(b) of this title shall apply to the entity.
 - **(u)**
   - **(1)** It is unlawful for a person to sell or issue a policy described in paragraph (2) to an individual with knowledge that the individual has in effect under section 1395w–21 of this title an election of an MSA plan or a Medicare+Choice private fee-for-service plan.
   - **(2)**

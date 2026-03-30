@@ -3,9 +3,9 @@ title: "Section 5808 - Release from liability"
 usc_title: 16
 usc_section: "5808"
 chapter: 78
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 5808"
-generated_at: "2026-03-30T06:06:26.197Z"
+generated_at: "2026-03-30T06:09:20.935Z"
 status: "active"
 ---
 

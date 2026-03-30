@@ -3,9 +3,9 @@ title: "Section 10 - Special committee to review inventory, identification, and 
 usc_title: 20
 usc_section: "10"
 chapter: 3
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 10"
-generated_at: "2026-03-30T06:06:22.669Z"
+generated_at: "2026-03-30T06:09:24.684Z"
 status: "active"
 ---
 

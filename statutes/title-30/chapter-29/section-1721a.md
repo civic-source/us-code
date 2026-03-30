@@ -3,9 +3,9 @@ title: "Section 1721a - Adjustments and refunds"
 usc_title: 30
 usc_section: "1721a"
 chapter: 29
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "30 U.S.C. § 1721a"
-generated_at: "2026-03-30T06:06:37.221Z"
+generated_at: "2026-03-30T06:09:42.310Z"
 status: "active"
 ---
 

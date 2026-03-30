@@ -3,9 +3,9 @@ title: "Section 5895 - Repealed. Pub. L. 106–113, div. B , § 1000(a)(4) [titl
 usc_title: 20
 usc_section: "5895"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 5895"
-generated_at: "2026-03-30T06:06:22.762Z"
+generated_at: "2026-03-30T06:09:24.778Z"
 status: "repealed"
 ---
 

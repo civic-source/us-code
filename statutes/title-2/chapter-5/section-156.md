@@ -3,9 +3,9 @@ title: "Section 156 - Gifts, etc., to Library of Congress Trust Fund Board"
 usc_title: 2
 usc_section: "156"
 chapter: 5
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "2 U.S.C. § 156"
-generated_at: "2026-03-30T06:05:31.176Z"
+generated_at: "2026-03-30T06:07:44.546Z"
 status: "active"
 ---
 

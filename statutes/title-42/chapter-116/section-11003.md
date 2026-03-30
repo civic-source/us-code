@@ -3,9 +3,9 @@ title: "Section 11003 - Comprehensive emergency response plans"
 usc_title: 42
 usc_section: "11003"
 chapter: 116
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 11003"
-generated_at: "2026-03-30T06:07:18.957Z"
+generated_at: "2026-03-30T06:10:19.360Z"
 status: "active"
 ---
 

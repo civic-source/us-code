@@ -3,9 +3,9 @@ title: "Section 464 - Federal Law Enforcement Training Centers"
 usc_title: 6
 usc_section: "464"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 464"
-generated_at: "2026-03-30T06:05:58.328Z"
+generated_at: "2026-03-30T06:08:15.372Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
 - **(f)** In order to further the goals and objectives of FLETC, the Director is authorized to—
   - **(1)** expend funds for public awareness and to enhance community support of law enforcement training, including the advertisement of available law enforcement training programs;
   - **(2)** accept and use gifts of property, both real and personal, and to accept gifts of services, for purposes that promote the functions of the Director pursuant to subsection (c) and the training responsibilities of the Director under subsection (d);
-  - **(3)** accept reimbursement from other Federal agencies for the construction or renovation of training and support facilities and the use of equipment and technology on government owned-property;
+  - **(3)** accept reimbursement from other Federal agencies for the construction or renovation of training and support facilities and the use of equipment and technology on government owned-property; 1 1 So in original. Probably should be “Government-owned property;”.
   - **(4)** obligate funds in anticipation of reimbursements from agencies receiving training at FLETC, except that total obligations at the end of a fiscal year may not exceed total budgetary resources available at the end of such fiscal year;
   - **(5)** in accordance with the purchasing authority provided under section 453a of this title —
     - **(A)** purchase employee and student uniforms; and

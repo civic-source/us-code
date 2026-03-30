@@ -3,15 +3,15 @@ title: "Section 5655 - Eligibility of entities"
 usc_title: 42
 usc_section: "5655"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5655"
-generated_at: "2026-03-30T06:07:18.822Z"
+generated_at: "2026-03-30T06:10:19.222Z"
 status: "active"
 ---
 
 # § 5655. Eligibility of entities
 
-- **(a)** Except as provided in subsection (b) of this section, to be eligible to receive a grant under section 5654 of this title , a unit of general purpose local government, acting jointly with not fewer than 2 private nonprofit agencies, organizations, and institutions that have experience dealing with juveniles, shall submit to the State an application that contains the following:
+- **(a)** Except as provided in subsection (b), to be eligible to receive a grant under section 5654 of this title , a unit of general purpose local government, acting jointly with not fewer than 2 private nonprofit agencies, organizations, and institutions that have experience dealing with juveniles, shall submit to the State an application that contains the following:
   - **(1)** An assurance that such applicant will use such grant, and each such grant received for the subsequent fiscal year, to carry out throughout a 2-year period a project or activity described in reasonable detail, and of a kind described in one or more of paragraphs (1) through (25) of section 5651(a) of this title as specified in, such application.
   - **(2)** A statement of the particular goals such project or activity is designed to achieve, and the methods such entity will use to achieve, and assess the achievement of, each of such goals.
   - **(3)** A statement identifying the research (if any) such entity relied on in preparing such application.

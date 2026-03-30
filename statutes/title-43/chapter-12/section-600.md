@@ -3,9 +3,9 @@ title: "Section 600 - Minidoka project, Idaho; sales of water from American Fall
 usc_title: 43
 usc_section: "600"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "43 U.S.C. § 600"
-generated_at: "2026-03-30T06:07:00.381Z"
+generated_at: "2026-03-30T06:10:09.110Z"
 status: "active"
 ---
 

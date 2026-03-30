@@ -3,9 +3,9 @@ title: "Section 4901 - Findings"
 usc_title: 16
 usc_section: "4901"
 chapter: 69
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 4901"
-generated_at: "2026-03-30T06:06:26.193Z"
+generated_at: "2026-03-30T06:09:20.930Z"
 status: "active"
 ---
 

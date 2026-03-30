@@ -3,9 +3,9 @@ title: "Section 6803 - Development of electric utility rate design proposals by 
 usc_title: 42
 usc_section: "6803"
 chapter: 81
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6803"
-generated_at: "2026-03-30T06:07:18.850Z"
+generated_at: "2026-03-30T06:10:19.249Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** rates which reflect marginal cost of service, or time of use of service, or both;
   - **(3)** ratemaking policies which discourage inefficient use of fuel and encourage economical purchases of fuel; and
   - **(4)** rates (or other regulatory policies) which encourage electric utility system reliability and reliability of major items of electric utility equipment.
-- **(b)** The proposals prepared under subsection (a) of this section shall be transmitted to each House of Congress not later than 6 months after August 14, 1976 , for review and for such further action as the Congress may direct by law. Such proposals shall be accompanied by an analysis of—
+- **(b)** The proposals prepared under subsection (a) shall be transmitted to each House of Congress not later than 6 months after August 14, 1976 , for review and for such further action as the Congress may direct by law. Such proposals shall be accompanied by an analysis of—
   - **(1)** the projected savings (if any) in consumption of petroleum products, natural gas, electric energy, and other energy resources,
   - **(2)** the reduction (if any) in the need for new electrical generating capacity, and of the demand for capital by the electric utility industry, and
   - **(3)** changes (if any) in the cost of electric energy to consumers,

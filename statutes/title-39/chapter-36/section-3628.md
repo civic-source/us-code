@@ -3,9 +3,9 @@ title: "Section 3628 - Repealed. Pub. L. 109–435, title II , § 201(b), Dec. 2
 usc_title: 39
 usc_section: "3628"
 chapter: 36
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "39 U.S.C. § 3628"
-generated_at: "2026-03-30T06:06:56.385Z"
+generated_at: "2026-03-30T06:09:57.855Z"
 status: "repealed"
 ---
 

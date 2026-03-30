@@ -3,9 +3,9 @@ title: "Section 7517 - Food insecurity nutrition incentive"
 usc_title: 7
 usc_section: "7517"
 chapter: 102
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 7517"
-generated_at: "2026-03-30T06:05:57.035Z"
+generated_at: "2026-03-30T06:08:04.769Z"
 status: "active"
 ---
 

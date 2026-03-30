@@ -3,9 +3,9 @@ title: "Section 2 - Eligibility"
 usc_title: 42
 usc_section: "2"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T06:07:18.823Z"
+generated_at: "2026-03-30T06:10:19.223Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(14)** to provide to the Secretary such other information as the Secretary may reasonably require;
   - **(15)** to coordinate services with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11432(g)(1)(J)(ii) ), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act [ 42 U.S.C. 11431 et seq.]; and
   - **(16)** to develop an adequate emergency preparedness and management plan.
-- **(b)** In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
+- **(b)** In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1).
 - **(c)** In this part—
   - **(1)** the term “maternity group home” means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children; and
   - **(2)** the term “exceptional circumstances” means circumstances in which a youth would benefit to an unusual extent from additional time in the program.

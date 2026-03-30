@@ -3,9 +3,9 @@ title: "Section 7176 - Reorganization"
 usc_title: 42
 usc_section: "7176"
 chapter: 84
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 7176"
-generated_at: "2026-03-30T06:07:18.865Z"
+generated_at: "2026-03-30T06:10:19.265Z"
 status: "active"
 ---
 

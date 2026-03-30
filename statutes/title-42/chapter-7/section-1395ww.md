@@ -3,9 +3,9 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T06:07:18.627Z"
+generated_at: "2026-03-30T06:10:19.031Z"
 status: "active"
 ---
 
@@ -181,7 +181,7 @@ status: "active"
       - **(i)** In the case of a qualified long-term care hospital (as defined in clause (ii)) that elects (in a form and manner determined by the Secretary) this subparagraph to apply to the hospital, the target amount for the hospital’s 12-month cost reporting period beginning during fiscal year 1998 is equal to the allowable operating costs of inpatient hospital services (as defined in subsection (a)(4)) recognized under this subchapter for the hospital for the 12-month cost reporting period beginning during fiscal year 1996, increased by the applicable percentage increase for the cost reporting period beginning during fiscal year 1997.
       - **(ii)** In clause (i), a “qualified long-term care hospital” means, with respect to a cost reporting period, a hospital described in clause (iv) of subsection (d)(1)(B) during each of the 2 cost reporting periods for which the Secretary has the most recent settled cost reports as of August 5, 1997 , for each of which—
         - **(I)** the hospital’s allowable operating costs of inpatient hospital services recognized under this subchapter exceeded 115 percent of the hospital’s target amount, and
-        - **(II)** the hospital would have a disproportionate patient percentage of at least 70 percent (as determined by the Secretary under subsection (d)(5)(F)(vi) of this section) if the hospital were a subsection (d) hospital.
+        - **(II)** the hospital would have a disproportionate patient percentage of at least 70 percent (as determined by the Secretary under subsection (d)(5)(F)(vi)) if the hospital were a subsection (d) hospital.
     - **(H)**
       - **(i)** In the case of a hospital or unit that is within a class of hospital described in clause (iv), for a cost reporting period beginning during fiscal years 1998 through 2002, the target amount for such a hospital or unit may not exceed the amount as updated up to or for such cost reporting period under clause (ii).
       - **(ii)**
@@ -337,7 +337,7 @@ status: "active"
       - **(vi)** Insofar as the Secretary determines that the adjustments under paragraph (4)(C)(i) for a previous fiscal year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in the coding or classification of discharges that do not reflect real changes in case mix, the Secretary may adjust the average standardized amounts computed under this paragraph for subsequent fiscal years so as to eliminate the effect of such coding or classification changes.
     - **(B)** The Secretary shall reduce each of the average standardized amounts determined under subparagraph (A) by a factor equal to the proportion of payments under this subsection (as estimated by the Secretary) based on DRG prospective payment amounts which are additional payments described in paragraph (5)(A) (relating to outlier payments).
     - **(C)**
-      - **(i)** For discharges occurring in fiscal year 1985, the Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) of this section for that fiscal year.
+      - **(i)** For discharges occurring in fiscal year 1985, the Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) for that fiscal year.
       - **(ii)** For discharges occurring after September 30, 1986 , the Secretary shall further reduce each of the average standardized amounts (in a proportion which takes into account the differing effects of the standardization effected under paragraph (2)(C)(i)) so as to provide for a reduction in the total of the payments (attributable to this paragraph) made for discharges occurring on or after October 1, 1986 , of an amount equal to the estimated reduction in the payment amounts under paragraph (5)(B) that would have resulted from the enactment of the amendments made by section 9104 of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and by section 4003(a)(1) of the Omnibus Budget Reconciliation Act of 1987 if the factor described in clause (ii)(II) of paragraph (5)(B) (determined without regard to amendments made by the Omnibus Budget Reconciliation Act of 1990) were applied for discharges occurring on or after such date instead of the factor described in clause (ii) of that paragraph.
     - **(D)** For each discharge classified within a diagnosis-related group, the Secretary shall establish for the fiscal year a national DRG prospective payment rate and shall establish, for fiscal years before fiscal year 1997, a regional DRG prospective payment rate for each region which is equal—
       - **(i)** for fiscal years before fiscal year 2004, for hospitals located in a large urban area in the United States or that region (respectively), to the product of—
@@ -732,7 +732,7 @@ status: "active"
       - **(iii)** 12 percent for payments attributable to portions of cost reporting periods or discharges (as the case may be) in fiscal year 1988, occurring on or after January 1, 1988 ,
       - **(iv)** 15 percent for payments attributable to portions of cost reporting periods or discharges (as the case may be) occurring during fiscal year 1989, and
       - **(v)** 15 percent for payments attributable to portions of cost reporting periods or discharges (as the case may be) occurring during the period beginning January 1, 1990 , and ending September 30, 1991 .
-    - **(B)** Subparagraph (A) shall not apply to payments with respect to the capital-related costs of any hospital that is a sole community hospital (as defined in subsection (d)(5)(D)(iii)n) or a critical access hospital (as defined in section 1395x(mm)(1) of this title ).
+    - **(B)** Subparagraph (A) shall not apply to payments with respect to the capital-related costs of any hospital that is a sole community hospital (as defined in subsection (d)(5)(D)(iii)) or a critical access hospital (as defined in section 1395x(mm)(1) of this title ).
   - **(4)** In determining the amount of the payments that are attributable to portions of cost reporting periods occurring during fiscal years 1998 through 2002 and that may be made under this subchapter with respect to capital-related costs of inpatient hospital services of a hospital which is described in clause (i), (ii), or (iv) of subsection (d)(1)(B) or a unit described in the matter after clause (v) of such subsection, the Secretary shall reduce the amounts of such payments otherwise determined under this subchapter by 15 percent.
 - **(h)**
   - **(1)** Notwithstanding section 1395x(v) of this title , instead of any amounts that are otherwise payable under this subchapter with respect to the reasonable costs of hospitals for direct graduate medical education costs, the Secretary shall provide for payments for such costs in accordance with paragraph (3) of this subsection. In providing for such payments, the Secretary shall provide for an allocation of such payments between part A and part B (and the trust funds established under the respective parts) as reasonably reflects the proportion of direct graduate medical education costs of hospitals associated with the provision of services under each respective part.

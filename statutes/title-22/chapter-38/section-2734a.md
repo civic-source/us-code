@@ -3,9 +3,9 @@ title: "Section 2734a - Authorities related to personnel"
 usc_title: 22
 usc_section: "2734a"
 chapter: 38
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 2734a"
-generated_at: "2026-03-30T06:06:31.880Z"
+generated_at: "2026-03-30T06:09:37.110Z"
 status: "active"
 ---
 

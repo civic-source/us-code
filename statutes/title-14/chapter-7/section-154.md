@@ -3,9 +3,9 @@ title: "Section 154 - Arctic maritime domain awareness"
 usc_title: 14
 usc_section: "154"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "14 U.S.C. § 154"
-generated_at: "2026-03-30T06:06:06.912Z"
+generated_at: "2026-03-30T06:08:28.953Z"
 status: "active"
 ---
 

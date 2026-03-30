@@ -3,9 +3,9 @@ title: "Section 6313 - Standards"
 usc_title: 42
 usc_section: "6313"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6313"
-generated_at: "2026-03-30T06:07:18.839Z"
+generated_at: "2026-03-30T06:10:19.239Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
       - **(vi)** For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012 , the first notice required under clause (i) shall be published by December 31, 2013 .
     - **(D)** A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
       - **(i)** with respect to small commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, on or after a date which is two years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A); and
-      - **(ii)** with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A);
+      - **(ii)** with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A); except that an energy conservation standard amended by the Secretary pursuant to a rule under subparagraph (B) shall become effective for products manufactured on or after a date which is four years after the date such rule is published in the Federal Register.
   - **(7)** Small commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) shall meet the following standards:
     - **(A)** For equipment manufactured on or after January 1, 2010 , the minimum energy efficiency ratio of air-cooled central air conditioners at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be—
       - **(i)** 11.2 for equipment with no heating or electric resistance heating; and

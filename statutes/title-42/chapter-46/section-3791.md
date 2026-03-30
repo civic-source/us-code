@@ -3,9 +3,9 @@ title: "Section 3791 - General provisions"
 usc_title: 42
 usc_section: "3791"
 chapter: 46
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 3791"
-generated_at: "2026-03-30T06:07:18.775Z"
+generated_at: "2026-03-30T06:10:19.176Z"
 status: "active"
 ---
 

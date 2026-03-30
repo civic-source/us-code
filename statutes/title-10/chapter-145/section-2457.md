@@ -3,9 +3,9 @@ title: "Section 2457 - Standardization of equipment with North Atlantic Treaty O
 usc_title: 10
 usc_section: "2457"
 chapter: 145
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2457"
-generated_at: "2026-03-30T06:06:04.813Z"
+generated_at: "2026-03-30T06:08:21.037Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 174 - Omitted"
 usc_title: 20
 usc_section: "174"
 chapter: 10
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 174"
-generated_at: "2026-03-30T06:06:22.671Z"
+generated_at: "2026-03-30T06:09:24.686Z"
 status: "omitted"
 ---
 

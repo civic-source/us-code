@@ -3,9 +3,9 @@ title: "Section 74 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "74"
 chapter: 3
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 74"
-generated_at: "2026-03-30T06:05:56.887Z"
+generated_at: "2026-03-30T06:08:04.624Z"
 status: "active"
 ---
 

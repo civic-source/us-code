@@ -3,9 +3,9 @@ title: "Section 2012 - Omitted"
 usc_title: 19
 usc_section: "2012"
 chapter: 8
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 2012"
-generated_at: "2026-03-30T06:06:23.850Z"
+generated_at: "2026-03-30T06:09:16.646Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1405 - Geographical application of subchapter; land and waters i
 usc_title: 48
 usc_section: "1405"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "48 U.S.C. § 1405"
-generated_at: "2026-03-30T06:07:21.700Z"
+generated_at: "2026-03-30T06:10:22.329Z"
 status: "active"
 ---
 

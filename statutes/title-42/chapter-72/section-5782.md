@@ -3,9 +3,9 @@ title: "Section 5782 - Duties and functions of the Administrator"
 usc_title: 42
 usc_section: "5782"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5782"
-generated_at: "2026-03-30T06:07:18.825Z"
+generated_at: "2026-03-30T06:10:19.225Z"
 status: "active"
 ---
 

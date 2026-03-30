@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T06:07:18.677Z"
+generated_at: "2026-03-30T06:10:19.081Z"
 status: "active"
 ---
 
@@ -80,7 +80,7 @@ status: "active"
     - **(A)** The Secretary may provide assistance to public housing agencies for tenant-based assistance using a payment standard established in accordance with subparagraph (B). The payment standard shall be used to determine the monthly assistance that may be paid for any family, as provided in paragraph (2).
     - **(B)** Except as provided under subparagraph (D), the payment standard for each size of dwelling unit in a market area shall not exceed 110 percent of the fair market rental established under subsection (c) for the same size of dwelling unit in the same market area and shall be not less than 90 percent of that fair market rental, except that no public housing agency shall be required as a result of a reduction in the fair market rental to reduce the payment standard applied to a family continuing to reside in a unit for which the family was receiving assistance under this section at the time the fair market rental was reduced. The Secretary shall allow public housing agencies to request exception payment standards within fair market rental areas subject to criteria and procedures established by the Secretary.
     - **(C)** The Secretary may set aside not more than 5 percent of the budget authority made available for assistance under this subsection as an adjustment pool. The Secretary shall use amounts in the adjustment pool to make adjusted payments to public housing agencies under subparagraph (A), to ensure continued affordability, if the Secretary determines that additional assistance for such purpose is necessary, based on documentation submitted by a public housing agency.
-    - **(D)** The Secretary may require a public housing agency to submit the payment standard of the public housing agency to the Secretary for approval, if the payment standard is less than 90 percent of the fair market rental or exceeds 110 percent of the fair market rental.
+    - **(D)** The Secretary may require a public housing agency to submit the payment standard of the public housing agency to the Secretary for approval, if the payment standard is less than 90 percent of the fair market rental or exceeds 110 percent of the fair market rental, except that a public housing agency may establish a payment standard of not more than 120 percent of the fair market rent where necessary as a reasonable accommodation for a person with a disability, without approval of the Secretary. A public housing agency may use a payment standard that is greater than 120 percent of the fair market rent as a reasonable accommodation for a person with a disability, but only with the approval of the Secretary. In connection with the use of any increased payment standard established or approved pursuant to either of the preceding two sentences as a reasonable accommodation for a person with a disability, the Secretary may not establish additional requirements regarding the amount of adjusted income paid by such person for rent.
     - **(E)** The Secretary—
       - **(i)** shall monitor rent burdens and review any payment standard that results in a significant percentage of the families occupying units of any size paying more than 30 percent of adjusted income for rent; and
       - **(ii)** may require a public housing agency to modify the payment standard of the public housing agency based on the results of that review.
@@ -102,8 +102,8 @@ status: "active"
     - **(D)** a family that qualifies to receive a voucher in connection with a homeownership program approved under title IV of the Cranston-Gonzalez National Affordable Housing Act; or
     - **(E)** a family that qualifies to receive a voucher under section 223 or 226 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 [ 12 U.S.C. 4113 , 4116].
   - **(5)**
-    - **(A)** Reviews of family incomes for purposes of this section shall be subject to the provisions of section 3544 of this title and shall be conducted upon the initial provision of housing assistance for the family and thereafter as required by section 1437a(a)(1) of this title .
-    - **(B)** Each public housing agency administering assistance under this subsection shall establish procedures that are appropriate and necessary to ensure that income data provided to the agency and owners by families applying for or receiving assistance from the agency is complete and accurate. Each public housing agency shall, not less frequently than annually, conduct a review of the family income of each family receiving assistance under this subsection.
+    - **(A)** Reviews of family incomes for purposes of this section shall be subject to paragraphs (1), (6), and (7) of section 1437a(a) of this title and to section 3544 of this title .
+    - **(B)** Each public housing agency administering assistance under this subsection shall establish procedures that are appropriate and necessary to ensure that income data provided to the agency and owners by families applying for or receiving assistance from the agency is complete and accurate.
   - **(6)**
     - **(A)**
       - **(i)** Each public housing agency may establish a system for making tenant-based assistance under this subsection available on behalf of eligible families that provides preference for such assistance to eligible families having certain characteristics, which may include a preference for families residing in public housing who are victims of a crime of violence (as such term is defined in section 16 of title 18 ) that has been reported to an appropriate law enforcement agency.

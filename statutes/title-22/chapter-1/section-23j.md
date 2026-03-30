@@ -3,9 +3,9 @@ title: "Section 23j - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(4), (
 usc_title: 22
 usc_section: "23j"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 23j"
-generated_at: "2026-03-30T06:06:31.812Z"
+generated_at: "2026-03-30T06:09:37.044Z"
 status: "repealed"
 ---
 

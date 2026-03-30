@@ -3,9 +3,9 @@ title: "Section 669d - Apportionment; certification to States and Secretary of t
 usc_title: 16
 usc_section: "669d"
 chapter: 5
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 669d"
-generated_at: "2026-03-30T06:06:26.094Z"
+generated_at: "2026-03-30T06:09:20.727Z"
 status: "active"
 ---
 

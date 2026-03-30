@@ -3,9 +3,9 @@ title: "Section 1039 - Eggs and egg products not intended for use as human food;
 usc_title: 21
 usc_section: "1039"
 chapter: 15
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "21 U.S.C. § 1039"
-generated_at: "2026-03-30T06:06:33.080Z"
+generated_at: "2026-03-30T06:09:31.098Z"
 status: "active"
 ---
 

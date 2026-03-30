@@ -3,9 +3,9 @@ title: "Section 5141 - Waiver of administrative conditions"
 usc_title: 42
 usc_section: "5141"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5141"
-generated_at: "2026-03-30T06:07:18.808Z"
+generated_at: "2026-03-30T06:10:19.208Z"
 status: "active"
 ---
 

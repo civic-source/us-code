@@ -3,9 +3,9 @@ title: "Section 5373 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 
 usc_title: 20
 usc_section: "5373"
 chapter: 64
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 5373"
-generated_at: "2026-03-30T06:06:22.759Z"
+generated_at: "2026-03-30T06:09:24.775Z"
 status: "repealed"
 ---
 

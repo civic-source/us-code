@@ -3,9 +3,9 @@ title: "Section 9207 - Criteria for program selection"
 usc_title: 42
 usc_section: "9207"
 chapter: 100
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 9207"
-generated_at: "2026-03-30T06:07:18.920Z"
+generated_at: "2026-03-30T06:10:19.321Z"
 status: "active"
 ---
 

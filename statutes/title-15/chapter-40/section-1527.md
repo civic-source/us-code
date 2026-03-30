@@ -3,9 +3,9 @@ title: "Section 1527 - Fees or charges for services or publications under existi
 usc_title: 15
 usc_section: "1527"
 chapter: 40
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 1527"
-generated_at: "2026-03-30T06:06:17.813Z"
+generated_at: "2026-03-30T06:09:10.446Z"
 status: "active"
 ---
 

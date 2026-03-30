@@ -3,9 +3,9 @@ title: "Section 3504 - Leases, business agreements, and rights-of-way involving 
 usc_title: 25
 usc_section: "3504"
 chapter: 37
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "25 U.S.C. § 3504"
-generated_at: "2026-03-30T06:06:29.234Z"
+generated_at: "2026-03-30T06:09:28.230Z"
 status: "active"
 ---
 

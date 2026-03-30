@@ -3,9 +3,9 @@ title: "Section 15254 - Presentation of State and Local Law Enforcement Badges"
 usc_title: 42
 usc_section: "15254"
 chapter: 145
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 15254"
-generated_at: "2026-03-30T06:07:19.029Z"
+generated_at: "2026-03-30T06:10:19.434Z"
 status: "active"
 ---
 

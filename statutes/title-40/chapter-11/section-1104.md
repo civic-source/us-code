@@ -3,9 +3,9 @@ title: "Section 1104 - Negotiation of contract"
 usc_title: 40
 usc_section: "1104"
 chapter: 11
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "40 U.S.C. § 1104"
-generated_at: "2026-03-30T06:06:56.757Z"
+generated_at: "2026-03-30T06:10:05.716Z"
 status: "active"
 ---
 

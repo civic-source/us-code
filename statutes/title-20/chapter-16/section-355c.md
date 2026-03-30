@@ -3,9 +3,9 @@ title: "Section 355c - Repealed. Pub. L. 104–208, div. A, title I , § 101(e) 
 usc_title: 20
 usc_section: "355c"
 chapter: 16
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 355c"
-generated_at: "2026-03-30T06:06:22.672Z"
+generated_at: "2026-03-30T06:09:24.687Z"
 status: "repealed"
 ---
 

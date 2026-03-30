@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. Pub. L. 113–291, div. B, title XXX , § 3043(d)
 usc_title: 16
 usc_section: "10"
 chapter: 6
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T06:06:26.099Z"
+generated_at: "2026-03-30T06:09:20.735Z"
 status: "repealed"
 ---
 

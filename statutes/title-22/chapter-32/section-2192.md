@@ -3,9 +3,9 @@ title: "Section 2192 - Capital of the Corporation"
 usc_title: 22
 usc_section: "2192"
 chapter: 32
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 2192"
-generated_at: "2026-03-30T06:06:31.853Z"
+generated_at: "2026-03-30T06:09:37.084Z"
 status: "active"
 ---
 

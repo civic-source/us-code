@@ -3,9 +3,9 @@ title: "Section 6736 - Authorization of appropriations for Puerto Rico, Guam, Am
 usc_title: 42
 usc_section: "6736"
 chapter: 80
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6736"
-generated_at: "2026-03-30T06:07:18.849Z"
+generated_at: "2026-03-30T06:10:19.249Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** There is hereby authorized to be appropriated for each of the five succeeding calendar quarters (beginning with the calendar quarter which begins on July 1, 1977 ) for the purpose of making payments under this subchapter to Puerto Rico, Guam, American Samoa, and the Virgin Islands, an amount equal to 1 percent of the amount authorized for each such quarter under section 6722(b) of this title .
 - **(b)**
-  - **(1)** The Secretary shall allocate from the amount authorized under subsection (a) of this section an amount for the purpose of making payments to such governments equal to the total authorized for the calendar quarter multiplied by the applicable territorial percentage.
+  - **(1)** The Secretary shall allocate from the amount authorized under subsection (a) an amount for the purpose of making payments to such governments equal to the total authorized for the calendar quarter multiplied by the applicable territorial percentage.
   - **(2)** For the purposes of this subsection, the applicable territorial percentage is equal to the quotient resulting from the division of the territorial population by the sum of the territorial population for all territories.
   - **(3)** For purposes of this section—
     - **(A)** The term “territory” means Puerto Rico, Guam, American Samoa, and the Virgin Islands.

@@ -3,9 +3,9 @@ title: "Section 4084 - Cross references"
 usc_title: 26
 usc_section: "4084"
 chapter: 32
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "26 U.S.C. § 4084"
-generated_at: "2026-03-30T06:06:49.930Z"
+generated_at: "2026-03-30T06:09:46.416Z"
 status: "active"
 ---
 

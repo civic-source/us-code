@@ -3,9 +3,9 @@ title: "Section 183 - Functions transferred"
 usc_title: 6
 usc_section: "183"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 183"
-generated_at: "2026-03-30T06:05:58.316Z"
+generated_at: "2026-03-30T06:08:15.360Z"
 status: "active"
 ---
 

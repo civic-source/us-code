@@ -3,9 +3,9 @@ title: "Section 5556 - Solar energy demonstration facilities program"
 usc_title: 42
 usc_section: "5556"
 chapter: 71
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5556"
-generated_at: "2026-03-30T06:07:18.819Z"
+generated_at: "2026-03-30T06:10:19.220Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(2)** cooperative agreements with other Federal agencies for the construction of facilities and equipment and operation of facilities to produce energy for direct Federal utilization.
 - **(e)** The Chairman, acting through appropriate Federal agencies is authorized to construct and operate demonstration projects without entering into cooperative agreements with respect to such projects, if the Chairman finds that—
   - **(1)** the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the specific demonstration project offers opportunities to make important contributions to the general knowledge of solar resources, the techniques of its development, or public confidence in the technology; and
-  - **(2)** there is no opportunity for cooperative agreements with any non-Federal entity willing and able to cooperate in the demonstration project under subsection (d)(1) of this section, and there is no opportunity for cooperative agreements with other Federal agencies under subsection (d)(2) of this section.
+  - **(2)** there is no opportunity for cooperative agreements with any non-Federal entity willing and able to cooperate in the demonstration project under subsection (d)(1), and there is no opportunity for cooperative agreements with other Federal agencies under subsection (d)(2).
 - **(f)** If the estimate of the Federal investment with respect to construction and operation costs of any demonstration project proposed to be established under this section exceeds $20,000,000, no amount may be appropriated for such project except as specifically authorized by legislation hereafter enacted by the Congress.
 - **(g)**
   - **(1)** At the conclusion of any demonstration project established under this section, or as soon thereafter as may be practicable, the responsible Federal agencies shall, by sale, lease, or otherwise, dispose of all Federal property interests which they have acquired pursuant to this section in accordance with existing law and the terms of the cooperative agreements involved.

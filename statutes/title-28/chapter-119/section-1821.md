@@ -3,9 +3,9 @@ title: "Section 1821 - Per diem and mileage generally; subsistence"
 usc_title: 28
 usc_section: "1821"
 chapter: 119
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "28 U.S.C. § 1821"
-generated_at: "2026-03-30T06:06:43.842Z"
+generated_at: "2026-03-30T06:09:40.276Z"
 status: "active"
 ---
 

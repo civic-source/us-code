@@ -3,9 +3,9 @@ title: "Section 47137 - Airport security program"
 usc_title: 49
 usc_section: "47137"
 chapter: 471
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "49 U.S.C. § 47137"
-generated_at: "2026-03-30T06:07:25.924Z"
+generated_at: "2026-03-30T06:10:25.940Z"
 status: "active"
 ---
 

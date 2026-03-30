@@ -3,9 +3,9 @@ title: "Section 4554 - Regulations and orders"
 usc_title: 50
 usc_section: "4554"
 chapter: 55
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "50 U.S.C. § 4554"
-generated_at: "2026-03-30T06:07:23.949Z"
+generated_at: "2026-03-30T06:10:24.069Z"
 status: "active"
 ---
 

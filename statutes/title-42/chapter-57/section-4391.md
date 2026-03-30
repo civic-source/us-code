@@ -3,9 +3,9 @@ title: "Section 4391 - Congressional statement of findings"
 usc_title: 42
 usc_section: "4391"
 chapter: 57
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 4391"
-generated_at: "2026-03-30T06:07:18.795Z"
+generated_at: "2026-03-30T06:10:19.195Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 5586 - Test procedures and performance criteria"
 usc_title: 42
 usc_section: "5586"
 chapter: 71
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5586"
-generated_at: "2026-03-30T06:07:18.820Z"
+generated_at: "2026-03-30T06:10:19.221Z"
 status: "active"
 ---
 
 # § 5586. Test procedures and performance criteria
 
 - **(a)** The Secretary shall conduct a testing program for photovoltaic systems to assist in the development and demonstration of prototype photovoltaic systems, including collectors, controls, power conditioning, and energy storage systems.
-- **(b)** Data obtained from the testing program under subsection (a) of this section shall be evaluated and used in establishing performance criteria. These performance criteria shall be used in the demonstration program described in sections 5583, 5584, and 5585 of this title.
+- **(b)** Data obtained from the testing program under subsection (a) shall be evaluated and used in establishing performance criteria. These performance criteria shall be used in the demonstration program described in sections 5583, 5584, and 5585 of this title.
 - **(c)** The Secretary shall determine, prescribe, and publish in the Federal Register, at a time which he determines to be feasible and justified—
   - **(1)** performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph; and
   - **(2)** revised performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph. Such criteria may be annually revised by the Secretary, as he deems appropriate.

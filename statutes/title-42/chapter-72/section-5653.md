@@ -3,9 +3,9 @@ title: "Section 5653 - Eligibility of States"
 usc_title: 42
 usc_section: "5653"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5653"
-generated_at: "2026-03-30T06:07:18.822Z"
+generated_at: "2026-03-30T06:10:19.222Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(5)** An assurance that each eligible entity described in section 5654 of this title that receives an initial grant under section 5654 of this title to carry out a project or activity shall also receive an assurance from the State that such entity will receive from the State, for the subsequent fiscal year to carry out such project or activity, a grant under such section in an amount that is proportional, based on such initial grant and on the amount of the grant received under section 5651 of this title by the State for such subsequent fiscal year, but that does not exceed the amount specified for such subsequent fiscal year in such application as approved by the State.
   - **(6)** Such other information and assurances as the Administrator may reasonably require by rule.
 - **(b)**
-  - **(1)** Subject to paragraph (2), the Administrator shall approve an application, and amendments to such application submitted in subsequent fiscal years, that satisfy the requirements of subsection (a) of this section.
+  - **(1)** Subject to paragraph (2), the Administrator shall approve an application, and amendments to such application submitted in subsequent fiscal years, that satisfy the requirements of subsection (a).
   - **(2)** The Administrator may not approve such application (including amendments to such application) for a fiscal year unless—
     - **(A)**
       - **(i)** the State submitted a plan under section 5633 of this title for such fiscal year; and

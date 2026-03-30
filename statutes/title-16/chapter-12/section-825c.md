@@ -3,9 +3,9 @@ title: "Section 825c - Periodic and special reports; obstructing filing reports 
 usc_title: 16
 usc_section: "825c"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 825c"
-generated_at: "2026-03-30T06:06:26.113Z"
+generated_at: "2026-03-30T06:09:20.851Z"
 status: "active"
 ---
 

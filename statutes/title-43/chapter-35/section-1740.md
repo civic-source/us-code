@@ -3,9 +3,9 @@ title: "Section 1740 - Rules and regulations"
 usc_title: 43
 usc_section: "1740"
 chapter: 35
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "43 U.S.C. § 1740"
-generated_at: "2026-03-30T06:07:00.412Z"
+generated_at: "2026-03-30T06:10:09.137Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5106 - Grants to States, Indian tribes or tribal organizations, 
 usc_title: 42
 usc_section: "5106"
 chapter: 67
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5106"
-generated_at: "2026-03-30T06:07:18.804Z"
+generated_at: "2026-03-30T06:10:19.205Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(4)** The Secretary may award grants to public and private entities to assist such entities in developing or implementing procedures using adult relatives as the preferred placement for children removed from their home, where such relatives are determined to be capable of providing a safe nurturing environment for the child and where such relatives comply with the State child protection standards.
   - **(5)** The Secretary may award grants to entities that provide linkages among State or local child protective service agencies and public health, mental health, substance abuse, developmental disabilities, and domestic violence service agencies, and entities that carry out community-based programs, for the purpose of establishing linkages that are designed to ensure that a greater number of substantiated victims of child maltreatment have their physical health, mental health, and developmental needs appropriately diagnosed and treated, in accordance with all applicable Federal and State privacy laws.
   - **(6)** The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children, and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
-- **(b)** In addition to grants or contracts made under subsection (a) of this section, grants or contracts under this section may be used for the following:
+- **(b)** In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
   - **(1)** Respite and crisis nursery programs provided by community-based organizations under the direction and supervision of hospitals.
   - **(2)** Respite and crisis nursery programs provided by community-based organizations.
   - **(3)** Programs based within children’s hospitals or other pediatric and adolescent care facilities, that provide model approaches for improving medical diagnosis of child abuse and neglect and for health evaluations of children for whom a report of maltreatment has been substantiated.

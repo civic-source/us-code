@@ -3,9 +3,9 @@ title: "Section 373 - Injuries to property"
 usc_title: 16
 usc_section: "373"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 373"
-generated_at: "2026-03-30T06:06:26.005Z"
+generated_at: "2026-03-30T06:09:20.635Z"
 status: "active"
 ---
 

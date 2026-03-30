@@ -3,9 +3,9 @@ title: "Section 11318 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11318"
 chapter: 119
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 11318"
-generated_at: "2026-03-30T06:07:18.961Z"
+generated_at: "2026-03-30T06:10:19.364Z"
 status: "active"
 ---
 

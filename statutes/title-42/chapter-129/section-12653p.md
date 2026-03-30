@@ -3,9 +3,9 @@ title: "Section 12653p - Volunteer generation fund"
 usc_title: 42
 usc_section: "12653p"
 chapter: 129
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 12653p"
-generated_at: "2026-03-30T06:07:18.986Z"
+generated_at: "2026-03-30T06:10:19.390Z"
 status: "active"
 ---
 

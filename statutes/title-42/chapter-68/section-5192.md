@@ -3,9 +3,9 @@ title: "Section 5192 - Federal emergency assistance"
 usc_title: 42
 usc_section: "5192"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5192"
-generated_at: "2026-03-30T06:07:18.811Z"
+generated_at: "2026-03-30T06:10:19.211Z"
 status: "active"
 ---
 
@@ -27,5 +27,5 @@ status: "active"
   - **(8)** provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
     - **(A)** shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and
     - **(B)** shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of an emergency.
-- **(b)** Whenever the Federal assistance provided under subsection (a) of this section with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations.
+- **(b)** Whenever the Federal assistance provided under subsection (a) with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations.
 - **(c)** The President shall promulgate and maintain guidelines to assist Governors in requesting the declaration of an emergency in advance of a natural or man-made disaster (including for the purpose of seeking assistance with special needs and other evacuation efforts) under this section by defining the types of assistance available to affected States and the circumstances under which such requests are likely to be approved.

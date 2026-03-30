@@ -3,9 +3,9 @@ title: "Section 7902 - National Ocean Research Leadership Council"
 usc_title: 10
 usc_section: "7902"
 chapter: 665
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 7902"
-generated_at: "2026-03-30T06:06:04.850Z"
+generated_at: "2026-03-30T06:08:21.074Z"
 status: "active"
 ---
 

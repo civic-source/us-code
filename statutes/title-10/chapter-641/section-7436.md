@@ -3,9 +3,9 @@ title: "Section 7436 - Regulations"
 usc_title: 10
 usc_section: "7436"
 chapter: 641
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 7436"
-generated_at: "2026-03-30T06:06:04.847Z"
+generated_at: "2026-03-30T06:08:21.072Z"
 status: "active"
 ---
 

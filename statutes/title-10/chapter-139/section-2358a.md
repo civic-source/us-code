@@ -3,9 +3,9 @@ title: "Section 2358a - Authorities for certain positions at science and technol
 usc_title: 10
 usc_section: "2358a"
 chapter: 139
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2358a"
-generated_at: "2026-03-30T06:06:04.805Z"
+generated_at: "2026-03-30T06:08:21.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7012 - Repealed. Pub. L. 114–95, title III , § 3001(5)(B), De
 usc_title: 20
 usc_section: "7012"
 chapter: 70
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "20 U.S.C. § 7012"
-generated_at: "2026-03-30T06:06:22.776Z"
+generated_at: "2026-03-30T06:09:24.791Z"
 status: "repealed"
 ---
 

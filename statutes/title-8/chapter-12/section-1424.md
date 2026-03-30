@@ -3,9 +3,9 @@ title: "Section 1424 - Prohibition upon the naturalization of persons opposed to
 usc_title: 8
 usc_section: "1424"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "8 U.S.C. § 1424"
-generated_at: "2026-03-30T06:06:00.285Z"
+generated_at: "2026-03-30T06:08:02.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5342 - Contracts for education, medical attention, relief and so
 usc_title: 25
 usc_section: "5342"
 chapter: 46
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "25 U.S.C. § 5342"
-generated_at: "2026-03-30T06:06:29.247Z"
+generated_at: "2026-03-30T06:09:28.244Z"
 status: "active"
 ---
 

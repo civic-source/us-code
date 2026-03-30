@@ -3,9 +3,9 @@ title: "Section 5611 - Establishment"
 usc_title: 42
 usc_section: "5611"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5611"
-generated_at: "2026-03-30T06:07:18.821Z"
+generated_at: "2026-03-30T06:10:19.221Z"
 status: "active"
 ---
 

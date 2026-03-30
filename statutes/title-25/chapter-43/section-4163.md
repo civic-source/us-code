@@ -3,9 +3,9 @@ title: "Section 4163 - Monitoring of compliance"
 usc_title: 25
 usc_section: "4163"
 chapter: 43
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "25 U.S.C. § 4163"
-generated_at: "2026-03-30T06:06:29.240Z"
+generated_at: "2026-03-30T06:09:28.237Z"
 status: "active"
 ---
 

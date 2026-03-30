@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-30T06:07:18.810Z"
+generated_at: "2026-03-30T06:10:19.210Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
     - **(B)** the owner of which has failed to implement appropriate mitigation measures to address the hazard that caused the damage to the facility.
 - **(c)**
   - **(1)**
-    - **(A)** In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+    - **(A)** In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
     - **(B)** Funds contributed to a State or local government under this paragraph may be used—
       - **(i)** to repair, restore, or expand other selected public facilities;
       - **(ii)** to construct new facilities; or
@@ -47,7 +47,7 @@ status: "active"
       - **(i)** any public facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
       - **(ii)** any uninsured public facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.).
   - **(2)**
-    - **(A)** In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B) of this section, a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+    - **(A)** In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B), a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
     - **(B)** Funds contributed to a person under this paragraph may be used—
       - **(i)** to repair, restore, or expand other selected private nonprofit facilities owned or operated by the person;
       - **(ii)** to construct new private nonprofit facilities to be owned or operated by the person; or

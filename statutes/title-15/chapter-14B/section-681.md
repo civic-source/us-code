@@ -3,9 +3,9 @@ title: "Section 681 - Organization"
 usc_title: 15
 usc_section: "681"
 chapter: 14
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 681"
-generated_at: "2026-03-30T06:06:17.786Z"
+generated_at: "2026-03-30T06:09:10.419Z"
 status: "active"
 ---
 
@@ -38,6 +38,7 @@ status: "active"
       - **(i)** files an application for a license not later than 180 days after December 2, 1997 ;
       - **(ii)** is located in a State that is not served by a licensee; and
       - **(iii)** agrees to be limited to 1 tier of leverage available under section 682(b) of this title , until the applicant meets the requirements of section 682(a) of this title .
+- **(d)**
 - **(e)**
   - **(1)** The Administration may prescribe fees to be paid by each applicant for a license to operate as a small business investment company under this chapter.
   - **(2)** Fees collected under this subsection—

@@ -3,9 +3,9 @@ title: "Section 5599 - Repealed. Pub. L. 96–513, title III , § 327, Dec. 12, 
 usc_title: 10
 usc_section: "5599"
 chapter: 539
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 5599"
-generated_at: "2026-03-30T06:06:04.840Z"
+generated_at: "2026-03-30T06:08:21.064Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1721 - Conveyances of public lands to States, local governments,
 usc_title: 43
 usc_section: "1721"
 chapter: 35
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "43 U.S.C. § 1721"
-generated_at: "2026-03-30T06:07:00.411Z"
+generated_at: "2026-03-30T06:10:09.137Z"
 status: "active"
 ---
 

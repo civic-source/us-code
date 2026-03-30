@@ -3,9 +3,9 @@ title: "Section 125 - Annual report on intelligence activities of the Department
 usc_title: 6
 usc_section: "125"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 125"
-generated_at: "2026-03-30T06:05:58.314Z"
+generated_at: "2026-03-30T06:08:15.358Z"
 status: "active"
 ---
 

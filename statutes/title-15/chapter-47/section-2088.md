@@ -3,9 +3,9 @@ title: "Section 2088 - Financial responsibility"
 usc_title: 15
 usc_section: "2088"
 chapter: 47
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 2088"
-generated_at: "2026-03-30T06:06:17.839Z"
+generated_at: "2026-03-30T06:09:10.472Z"
 status: "active"
 ---
 

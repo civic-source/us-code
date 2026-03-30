@@ -3,9 +3,9 @@ title: "Section 705 - Transportation or importation of migratory birds; when unl
 usc_title: 16
 usc_section: "705"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 705"
-generated_at: "2026-03-30T06:06:26.100Z"
+generated_at: "2026-03-30T06:09:20.736Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3391 - Agriculture"
 usc_title: 19
 usc_section: "3391"
 chapter: 21
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 3391"
-generated_at: "2026-03-30T06:06:23.876Z"
+generated_at: "2026-03-30T06:09:16.672Z"
 status: "active"
 ---
 

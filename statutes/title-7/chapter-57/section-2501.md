@@ -3,9 +3,9 @@ title: "Section 2501 - Reexamination after issue"
 usc_title: 7
 usc_section: "2501"
 chapter: 57
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 2501"
-generated_at: "2026-03-30T06:05:56.987Z"
+generated_at: "2026-03-30T06:08:04.721Z"
 status: "active"
 ---
 

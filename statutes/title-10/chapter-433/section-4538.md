@@ -3,9 +3,9 @@ title: "Section 4538 - Repealed. Pub. L. 103–160, div. A, title VIII , § 823(
 usc_title: 10
 usc_section: "4538"
 chapter: 433
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 4538"
-generated_at: "2026-03-30T06:06:04.836Z"
+generated_at: "2026-03-30T06:08:21.060Z"
 status: "repealed"
 ---
 

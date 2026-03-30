@@ -3,9 +3,9 @@ title: "Section 6308 - Biennial report to Congress"
 usc_title: 38
 usc_section: "6308"
 chapter: 63
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "38 U.S.C. § 6308"
-generated_at: "2026-03-30T06:06:57.827Z"
+generated_at: "2026-03-30T06:10:00.142Z"
 status: "active"
 ---
 

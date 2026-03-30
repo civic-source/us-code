@@ -3,9 +3,9 @@ title: "Section 190f - General appropriation bills"
 usc_title: 2
 usc_section: "190f"
 chapter: 6
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "2 U.S.C. § 190f"
-generated_at: "2026-03-30T06:05:31.179Z"
+generated_at: "2026-03-30T06:07:44.549Z"
 status: "active"
 ---
 

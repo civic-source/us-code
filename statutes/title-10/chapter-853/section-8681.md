@@ -3,9 +3,9 @@ title: "Section 8681 - Presentation of United States flag upon retirement"
 usc_title: 10
 usc_section: "8681"
 chapter: 853
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 8681"
-generated_at: "2026-03-30T06:06:04.852Z"
+generated_at: "2026-03-30T06:08:21.076Z"
 status: "active"
 ---
 

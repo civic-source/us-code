@@ -3,9 +3,9 @@ title: "Section 6242 - Navy cross"
 usc_title: 10
 usc_section: "6242"
 chapter: 567
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 6242"
-generated_at: "2026-03-30T06:06:04.842Z"
+generated_at: "2026-03-30T06:08:21.066Z"
 status: "active"
 ---
 

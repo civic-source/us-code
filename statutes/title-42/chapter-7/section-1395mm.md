@@ -3,9 +3,9 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-30T06:07:18.621Z"
+generated_at: "2026-03-30T06:10:19.025Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ status: "active"
   - **(2)**
     - **(A)** The organization must provide to members enrolled under this section, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI—
       - **(i)** only those services covered under parts A and B of this subchapter, for those members entitled to benefits under part A and enrolled under part B, or
-      - **(ii)** only those services covered under part B of this subchapter, for those members enrolled only under such part,
+      - **(ii)** only those services covered under part B, for those members enrolled only under such part,
     - **(B)** If there is a national coverage determination made in the period beginning on the date of an announcement under subsection (a)(1)(A) and ending on the date of the next announcement under such subsection that the Secretary projects will result in a significant change in the costs to the organization of providing the benefits that are the subject of such national coverage determination and that was not incorporated in the determination of the per capita rate of payment included in the announcement made at the beginning of such period—
       - **(i)** such determination shall not apply to risk-sharing contracts under this section until the first contract year that begins after the end of such period; and
       - **(ii)** if such coverage determination provides for coverage of additional benefits or under additional circumstances, subsection (a)(3) shall not apply to payment for such additional benefits or benefits provided under such additional circumstances until the first contract year that begins after the end of such period,
@@ -104,7 +104,7 @@ status: "active"
 - **(e)**
   - **(1)** In no case may—
     - **(A)** the portion of an eligible organization’s premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to services covered under parts A and B) to individuals who are enrolled under this section with the organization and who are entitled to benefits under part A and enrolled under part B, or
-    - **(B)** the portion of its premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to services covered under part B of this subchapter) to individuals who are enrolled under this section with the organization and enrolled under part B of this subchapter only
+    - **(B)** the portion of its premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to services covered under part B) to individuals who are enrolled under this section with the organization and enrolled under part B only
   - **(2)** If the eligible organization provides to its members enrolled under this section services in addition to services covered under parts A and B of this subchapter, election of coverage for such additional services (unless such services have been approved by the Secretary under subsection (c)(2)) shall be optional for such members and such organization shall furnish such members with information on the portion of its premium rate or other charges applicable to such additional services. In no case may the sum of—
     - **(A)** the portion of such organization’s premium rate charged, with respect to such additional services, to members enrolled under this section, and
     - **(B)** the actuarial value of its deductibles, coinsurance, and copayments charged, with respect to such services to such members

@@ -3,9 +3,9 @@ title: "Section 8986 - Election of coverage"
 usc_title: 5
 usc_section: "8986"
 chapter: 89
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "5 U.S.C. § 8986"
-generated_at: "2026-03-30T06:05:49.212Z"
+generated_at: "2026-03-30T06:07:51.672Z"
 status: "active"
 ---
 

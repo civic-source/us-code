@@ -3,9 +3,9 @@ title: "Section 6022 - Aviation training facilities"
 usc_title: 10
 usc_section: "6022"
 chapter: 555
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 6022"
-generated_at: "2026-03-30T06:06:04.841Z"
+generated_at: "2026-03-30T06:08:21.065Z"
 status: "active"
 ---
 

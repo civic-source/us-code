@@ -3,9 +3,9 @@ title: "Section 237 - Omitted"
 usc_title: 8
 usc_section: "237"
 chapter: 6
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "8 U.S.C. § 237"
-generated_at: "2026-03-30T06:06:00.258Z"
+generated_at: "2026-03-30T06:08:02.683Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1396r - Requirements for nursing facilities"
 usc_title: 42
 usc_section: "1396r"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1396r"
-generated_at: "2026-03-30T06:07:18.653Z"
+generated_at: "2026-03-30T06:10:19.056Z"
 status: "active"
 ---
 
@@ -251,7 +251,7 @@ status: "active"
         - **(II)** who requires nursing facility services for the condition for which the individual received care in the hospital, and
         - **(III)** whose attending physician has certified, before admission to the facility, that the individual is likely to require less than 30 days of nursing facility services.
     - **(B)**
-      - **(i)** As of April 1, 1990 , in the case of each resident of a nursing facility who is mentally ill, the State mental health authority must review and determine (using any criteria developed under subsection (f)(8) of this section and based on an independent physical and mental evaluation performed by a person or entity other than the State mental health authority)—
+      - **(i)** As of April 1, 1990 , in the case of each resident of a nursing facility who is mentally ill, the State mental health authority must review and determine (using any criteria developed under subsection (f)(8) and based on an independent physical and mental evaluation performed by a person or entity other than the State mental health authority)—
         - **(I)** whether or not the resident, because of the resident’s physical and mental condition, requires the level of services provided by a nursing facility or requires the level of services of an inpatient psychiatric hospital for individuals under age 21 (as described in section 1396d(h) of this title ) or of an institution for mental diseases providing medical assistance to individuals 65 years of age or older; and
         - **(II)** whether or not the resident requires specialized services for mental illness.
       - **(ii)** As of April 1, 1990 , in the case of each resident of a nursing facility who is mentally retarded, the State mental retardation or developmental disability authority must review and determine (using any criteria developed under subsection (f)(8))—

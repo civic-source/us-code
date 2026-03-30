@@ -3,9 +3,9 @@ title: "Section 7312 - Construction"
 usc_title: 15
 usc_section: "7312"
 chapter: 99
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 7312"
-generated_at: "2026-03-30T06:06:17.887Z"
+generated_at: "2026-03-30T06:09:10.519Z"
 status: "active"
 ---
 

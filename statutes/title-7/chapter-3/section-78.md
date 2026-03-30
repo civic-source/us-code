@@ -3,9 +3,9 @@ title: "Section 78 - Use of official grade designations required; false or misle
 usc_title: 7
 usc_section: "78"
 chapter: 3
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 78"
-generated_at: "2026-03-30T06:05:56.888Z"
+generated_at: "2026-03-30T06:08:04.625Z"
 status: "active"
 ---
 

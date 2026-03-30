@@ -3,9 +3,9 @@ title: "Section 16917 - Duty to notify sex offenders of registration requirement
 usc_title: 42
 usc_section: "16917"
 chapter: 151
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 16917"
-generated_at: "2026-03-30T06:07:19.050Z"
+generated_at: "2026-03-30T06:10:19.455Z"
 status: "active"
 ---
 

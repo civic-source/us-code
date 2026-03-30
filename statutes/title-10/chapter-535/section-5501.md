@@ -3,9 +3,9 @@ title: "Section 5501 - Navy: grades above chief warrant officer, W–5"
 usc_title: 10
 usc_section: "5501"
 chapter: 535
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 5501"
-generated_at: "2026-03-30T06:06:04.840Z"
+generated_at: "2026-03-30T06:08:21.064Z"
 status: "active"
 ---
 

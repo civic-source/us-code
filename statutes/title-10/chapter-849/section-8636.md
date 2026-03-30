@@ -3,9 +3,9 @@ title: "Section 8636 - Repealed. Pub. L. 87–649 , § 14c(56), Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "8636"
 chapter: 849
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 8636"
-generated_at: "2026-03-30T06:06:04.852Z"
+generated_at: "2026-03-30T06:08:21.076Z"
 status: "repealed"
 ---
 

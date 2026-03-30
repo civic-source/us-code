@@ -3,9 +3,9 @@ title: "Section 4417 - United States Army War College: acceptance of grants for 
 usc_title: 10
 usc_section: "4417"
 chapter: 407
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 4417"
-generated_at: "2026-03-30T06:06:04.836Z"
+generated_at: "2026-03-30T06:08:21.060Z"
 status: "active"
 ---
 

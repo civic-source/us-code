@@ -3,9 +3,9 @@ title: "Section 516 - Equal employment responsibilities"
 usc_title: 38
 usc_section: "516"
 chapter: 5
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "38 U.S.C. § 516"
-generated_at: "2026-03-30T06:06:57.788Z"
+generated_at: "2026-03-30T06:10:00.102Z"
 status: "active"
 ---
 

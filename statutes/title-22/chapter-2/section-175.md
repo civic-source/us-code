@@ -3,9 +3,9 @@ title: "Section 175 - Omitted"
 usc_title: 22
 usc_section: "175"
 chapter: 2
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "22 U.S.C. § 175"
-generated_at: "2026-03-30T06:06:31.812Z"
+generated_at: "2026-03-30T06:09:37.045Z"
 status: "omitted"
 ---
 

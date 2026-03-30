@@ -3,9 +3,9 @@ title: "Section 195e - Transparency in research and development"
 usc_title: 6
 usc_section: "195e"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 195e"
-generated_at: "2026-03-30T06:05:58.318Z"
+generated_at: "2026-03-30T06:08:15.362Z"
 status: "active"
 ---
 
@@ -39,6 +39,6 @@ status: "active"
     - **(B)** Restricted Data or data that was formerly Restricted Data, as defined in section 2014(y) of title 42 ;
     - **(C)** material classified at the Sensitive Compartmented Information (SCI) level, as defined in section 3345 of title 50 ; or
     - **(D)** information relating to a special access program, as defined in section 6.1 of Executive Order 13526 ( 50 U.S.C. 3161 note) or any successor order.
-  - **(3)** The term “controlled unclassified information” means information described as “Controlled Unclassified Information” under Executive Order 13556 ( 50 U.S.C. 3501 note) 1 1 See References in Text note below.. or any successor order.
+  - **(3)** The term “controlled unclassified information” means information described as “Controlled Unclassified Information” under Executive Order 13556 ( 50 U.S.C. 3501 note) 1 1 See References in Text note below. or any successor order.
   - **(4)** The term “project” means a research or development project, program, or activity administered by the Department, whether ongoing, completed, or otherwise terminated.
 - **(e)** Nothing in this section overrides or otherwise affects the requirements specified in section 468 of this title .

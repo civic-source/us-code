@@ -3,9 +3,9 @@ title: "Section 5 - Enterprise integration initiative"
 usc_title: 15
 usc_section: "5"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T06:06:17.762Z"
+generated_at: "2026-03-30T06:09:10.395Z"
 status: "active"
 ---
 

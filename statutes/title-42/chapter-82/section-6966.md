@@ -3,9 +3,9 @@ title: "Section 6966 - Increased use of recovered mineral component in federally
 usc_title: 42
 usc_section: "6966"
 chapter: 82
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6966"
-generated_at: "2026-03-30T06:07:18.858Z"
+generated_at: "2026-03-30T06:10:19.258Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** In carrying out paragraph (1), an agency head shall give priority to achieving greater use of recovered mineral component in cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally.
   - **(3)** The Administrator and each agency head shall carry out this subsection in accordance with section 6962 of this title .
 - **(c)**
-  - **(1)** The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which procurement requirements, when fully implemented in accordance with subsection (b) of this section, may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
+  - **(1)** The Administrator, in cooperation with the Secretary of Transportation and the Secretary of Energy, shall conduct a study to determine the extent to which procurement requirements, when fully implemented in accordance with subsection (b), may realize energy savings and environmental benefits attainable with substitution of recovered mineral component in cement used in cement or concrete projects.
   - **(2)** The study shall—
     - **(A)** quantify—
       - **(i)** the extent to which recovered mineral components are being substituted for Portland cement, particularly as a result of procurement requirements; and
@@ -38,7 +38,7 @@ status: "active"
       - **(ii)** evaluate the feasibility of establishing guidelines or standards for optimized substitution rates of recovered mineral component in those cement or concrete projects; and
       - **(iii)** identify any potential environmental or economic effects that may result from greater substitution of recovered mineral component in those cement or concrete projects.
   - **(3)** Not later than 30 months after August 8, 2005 , the Administrator shall submit to Congress a report on the study.
-- **(d)** Unless the study conducted under subsection (c) of this section identifies any effects or other problems described in subsection (c)(2)(C)(iii) of this section that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the date on which the report under subsection (c)(3) of this section is submitted, take additional actions under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects—
+- **(d)** Unless the study conducted under subsection (c) identifies any effects or other problems described in subsection (c)(2)(C)(iii) that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the date on which the report under subsection (c)(3) is submitted, take additional actions under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects—
   - **(1)** to realize more fully the energy savings and environmental benefits associated with increased substitution; and
-  - **(2)** to eliminate barriers identified under subsection (c)(2)(B) of this section.
+  - **(2)** to eliminate barriers identified under subsection (c)(2)(B).
 - **(e)** Nothing in this section affects the requirements of section 6962 of this title (including the guidelines and specifications for implementing those requirements).

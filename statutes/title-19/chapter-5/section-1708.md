@@ -3,9 +3,9 @@ title: "Section 1708 - Repealed. Pub. L. 106–36, title I , § 1001(b)(6), June
 usc_title: 19
 usc_section: "1708"
 chapter: 5
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 1708"
-generated_at: "2026-03-30T06:06:23.849Z"
+generated_at: "2026-03-30T06:09:16.645Z"
 status: "repealed"
 ---
 

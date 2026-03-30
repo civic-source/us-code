@@ -3,9 +3,9 @@ title: "Section 149a - Cybersecurity strategy"
 usc_title: 6
 usc_section: "149a"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 149a"
-generated_at: "2026-03-30T06:05:58.315Z"
+generated_at: "2026-03-30T06:08:15.360Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The strategy required under subsection (a) shall include the following:
   - **(1)** Strategic and operational goals and priorities to successfully execute the full range of the Secretary’s cybersecurity responsibilities.
   - **(2)** Information on the programs, policies, and activities that are required to successfully execute the full range of the Secretary’s cybersecurity responsibilities, including programs, policies, and activities in furtherance of the following:
-    - **(A)** Cybersecurity functions set forth in the section 148 of this title (relating to the national cybersecurity and communications integration center).
+    - **(A)** Cybersecurity functions set forth in the 1 1 So in original. section 148 of this title (relating to the national cybersecurity and communications integration center).
     - **(B)** Cybersecurity investigations capabilities.
     - **(C)** Cybersecurity research and development.
     - **(D)** Engagement with international cybersecurity partners.

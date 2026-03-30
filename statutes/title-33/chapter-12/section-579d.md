@@ -3,9 +3,9 @@ title: "Section 579d - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "579d"
 chapter: 12
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "33 U.S.C. § 579d"
-generated_at: "2026-03-30T06:06:53.656Z"
+generated_at: "2026-03-30T06:09:50.856Z"
 status: "active"
 ---
 
@@ -66,4 +66,3 @@ status: "active"
         - **(II)** requires additional analysis for the project or separable element.
     - **(B)** The term “water resources development project” includes an environmental infrastructure assistance project or program of the Corps of Engineers.
   - **(2)** For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent modification.
-- **(g)**

@@ -3,9 +3,9 @@ title: "Section 2487d - Repealed. Pub. L. 105–362, title XI , § 1101(g), Nov.
 usc_title: 42
 usc_section: "2487d"
 chapter: 26
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 2487d"
-generated_at: "2026-03-30T06:07:18.749Z"
+generated_at: "2026-03-30T06:10:19.150Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 521 - Publication and distribution of opinions"
 usc_title: 28
 usc_section: "521"
 chapter: 31
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "28 U.S.C. § 521"
-generated_at: "2026-03-30T06:06:43.830Z"
+generated_at: "2026-03-30T06:09:40.264Z"
 status: "active"
 ---
 

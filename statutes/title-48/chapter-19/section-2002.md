@@ -3,9 +3,9 @@ title: "Section 2002 - Reports"
 usc_title: 48
 usc_section: "2002"
 chapter: 19
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "48 U.S.C. § 2002"
-generated_at: "2026-03-30T06:07:21.715Z"
+generated_at: "2026-03-30T06:10:22.343Z"
 status: "active"
 ---
 

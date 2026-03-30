@@ -3,9 +3,9 @@ title: "Section 2006 - Relationship between the Treasury and the Postal Service"
 usc_title: 39
 usc_section: "2006"
 chapter: 20
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "39 U.S.C. § 2006"
-generated_at: "2026-03-30T06:06:56.382Z"
+generated_at: "2026-03-30T06:09:57.851Z"
 status: "active"
 ---
 

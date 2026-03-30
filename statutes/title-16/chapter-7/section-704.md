@@ -3,9 +3,9 @@ title: "Section 704 - Determination as to when and how migratory birds may be ta
 usc_title: 16
 usc_section: "704"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 704"
-generated_at: "2026-03-30T06:06:26.100Z"
+generated_at: "2026-03-30T06:09:20.736Z"
 status: "active"
 ---
 

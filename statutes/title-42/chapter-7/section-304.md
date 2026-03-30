@@ -3,9 +3,9 @@ title: "Section 304 - Stopping payment on deviation from required provisions of 
 usc_title: 42
 usc_section: "304"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 304"
-generated_at: "2026-03-30T06:07:18.511Z"
+generated_at: "2026-03-30T06:10:18.916Z"
 status: "active"
 ---
 

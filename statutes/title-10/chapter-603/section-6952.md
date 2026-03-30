@@ -3,9 +3,9 @@ title: "Section 6952 - Civilian teachers: number; compensation"
 usc_title: 10
 usc_section: "6952"
 chapter: 603
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 6952"
-generated_at: "2026-03-30T06:06:04.844Z"
+generated_at: "2026-03-30T06:08:21.068Z"
 status: "active"
 ---
 

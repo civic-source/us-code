@@ -3,9 +3,9 @@ title: "Section 676a - Air facility closures"
 usc_title: 14
 usc_section: "676a"
 chapter: 17
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "14 U.S.C. § 676a"
-generated_at: "2026-03-30T06:06:06.916Z"
+generated_at: "2026-03-30T06:08:28.958Z"
 status: "active"
 ---
 

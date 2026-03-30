@@ -3,9 +3,9 @@ title: "Section 2008 - Rural development and farm loan program activities"
 usc_title: 7
 usc_section: "2008"
 chapter: 50
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 2008"
-generated_at: "2026-03-30T06:05:56.965Z"
+generated_at: "2026-03-30T06:08:04.699Z"
 status: "active"
 ---
 

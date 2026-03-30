@@ -3,9 +3,9 @@ title: "Section 551 - Concealing or destroying invoices or other papers"
 usc_title: 18
 usc_section: "551"
 chapter: 27
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "18 U.S.C. § 551"
-generated_at: "2026-03-30T06:06:20.970Z"
+generated_at: "2026-03-30T06:09:18.196Z"
 status: "active"
 ---
 

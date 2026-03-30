@@ -3,9 +3,9 @@ title: "Section 1677l - Antidumping and countervailing duty collections"
 usc_title: 19
 usc_section: "1677l"
 chapter: 4
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "19 U.S.C. § 1677l"
-generated_at: "2026-03-30T06:06:23.847Z"
+generated_at: "2026-03-30T06:09:16.643Z"
 status: "active"
 ---
 

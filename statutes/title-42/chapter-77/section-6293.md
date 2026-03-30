@@ -3,15 +3,15 @@ title: "Section 6293 - Test procedures"
 usc_title: 42
 usc_section: "6293"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6293"
-generated_at: "2026-03-30T06:07:18.834Z"
+generated_at: "2026-03-30T06:10:19.233Z"
 status: "active"
 ---
 
 # § 6293. Test procedures
 
-- **(a)** All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987 , shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b) of this section.
+- **(a)** All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987 , shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b).
 - **(b)**
   - **(1)**
     - **(A)** At least once every 7 years, the Secretary shall review test procedures for all covered products and—
@@ -56,12 +56,12 @@ status: "active"
   - **(1)** No manufacturer, distributor, retailer, or private labeler may make any representation—
     - **(A)** in writing (including a representation on a label); or
     - **(B)** in any broadcast advertisement,
-  - **(2)** Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b) of this section, no manufacturer, distributor, retailer, or private labeler may make any representation—
+  - **(2)** Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b), no manufacturer, distributor, retailer, or private labeler may make any representation—
     - **(A)** in writing (including a representation on a label); or
     - **(B)** in any broadcast advertisement,
   - **(3)** On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
 - **(d)**
-  - **(1)** The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) of this section and publishes such determination in the Federal Register, together with the reasons therefor.
+  - **(1)** The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) and publishes such determination in the Federal Register, together with the reasons therefor.
   - **(2)** For purposes of section 6297 of this title , a determination under paragraph (1) with respect to any covered product or class shall have the same effect as would a standard prescribed for a covered product (or class).
 - **(e)**
   - **(1)** In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.

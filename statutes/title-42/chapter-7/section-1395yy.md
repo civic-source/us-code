@@ -3,9 +3,9 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-30T06:07:18.633Z"
+generated_at: "2026-03-30T06:10:19.038Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(A)** The amount of the payment under this section shall be determined on a per diem basis.
     - **(B)** Subject to the limitations of subparagraph (C), for skilled nursing facilities located—
       - **(i)** in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) and adjusted for different area wage levels, and
-      - **(ii)** in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels.
+      - **(ii)** in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) and adjusted for different area wage levels.
     - **(C)** The per diem amounts determined under subparagraph (B) shall not exceed the limit on routine service costs determined under subsection (a) with respect to the facility, adjusted to take into account average capital-related costs with respect to the type and location of the facility.
   - **(3)** For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a), and the term “region” shall have the same meaning as under section 1395ww(d)(2)(D) of this title .
   - **(4)** The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.

@@ -3,9 +3,9 @@ title: "Section 496 - Validity of other statutes dealing with same subject"
 usc_title: 7
 usc_section: "496"
 chapter: 20
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "7 U.S.C. § 496"
-generated_at: "2026-03-30T06:05:56.912Z"
+generated_at: "2026-03-30T06:08:04.647Z"
 status: "active"
 ---
 

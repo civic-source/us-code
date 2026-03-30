@@ -3,9 +3,9 @@ title: "Section 1396t - Home and community care for functionally disabled elderl
 usc_title: 42
 usc_section: "1396t"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1396t"
-generated_at: "2026-03-30T06:07:18.660Z"
+generated_at: "2026-03-30T06:10:19.064Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(A)** is unable to perform without substantial assistance from another individual at least 2 of the following 3 activities of daily living: toileting, transferring, and eating; or
     - **(B)** has a primary or secondary diagnosis of Alzheimer’s disease and is (i) unable to perform without substantial human assistance (including verbal reminding or physical cueing) or supervision at least 2 of the following 5 activities of daily living: bathing, dressing, toileting, transferring, and eating; or (ii) cognitively impaired so as to require substantial supervision from another individual because he or she engages in inappropriate behaviors that pose serious health or safety hazards to himself or herself or others.
   - **(2)**
-    - **(A)** If a State has elected to provide home and community care under this section, upon the request of an individual who is 65 years of age or older and who meets the requirements of subsection (b)(1)(C) of this section (or another person on such individual’s behalf), the State shall provide for a comprehensive functional assessment under this subparagraph which—
+    - **(A)** If a State has elected to provide home and community care under this section, upon the request of an individual who is 65 years of age or older and who meets the requirements of subsection (b)(1)(C) (or another person on such individual’s behalf), the State shall provide for a comprehensive functional assessment under this subparagraph which—
       - **(i)** is used to determine whether or not the individual is functionally disabled,
       - **(ii)** is based on a uniform minimum data set specified by the Secretary under subparagraph (C)(i), and
       - **(iii)** uses an instrument which has been specified by the State under subparagraph (B).

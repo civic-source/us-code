@@ -3,9 +3,9 @@ title: "Section 518 - Reimbursement for medical-related travel expenses for cert
 usc_title: 14
 usc_section: "518"
 chapter: 13
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "14 U.S.C. § 518"
-generated_at: "2026-03-30T06:06:06.913Z"
+generated_at: "2026-03-30T06:08:28.955Z"
 status: "active"
 ---
 

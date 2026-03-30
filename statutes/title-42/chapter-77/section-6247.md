@@ -3,9 +3,9 @@ title: "Section 6247 - SPR Petroleum Account"
 usc_title: 42
 usc_section: "6247"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6247"
-generated_at: "2026-03-30T06:07:18.830Z"
+generated_at: "2026-03-30T06:10:19.230Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** Repealed. Pub. L. 106–469, title I , § 103(19)(A)(ii), Nov. 9, 2000 , 114 Stat. 2033 ;
   - **(2)** in the case of any fiscal year, subject to section 7270 of this title , in such aggregate amounts as may be appropriated in advance in appropriation Acts; and
   - **(3)** in the case of any fiscal year, notwithstanding section 7270 of this title , in an aggregate amount equal to the aggregate amount of the receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under section 6241 of this title , including a drawdown and distribution carried out under subsection (g) of such section, or from the sale of petroleum products under section 6240(f) of this title .
-- **(c)** The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+- **(c)** The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b).
 - **(d)** The Account, the deposits and withdrawals from the Account, and the transactions, receipts, obligations, outlays associated with such deposits and withdrawals (including petroleum product purchases and related transactions), and receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under section 6241 of this title , including a drawdown and distribution carried out under subsection (g) of such section, and from the sale of petroleum products under section 6240(f) of this title —
   - **(1)** shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States; and
   - **(2)** shall not be deemed to be budget authority, spending authority, budget outlays, or Federal revenues for purposes of title III of Public Law 93–344 , as amended [ 2 U.S.C. 631 et seq.].

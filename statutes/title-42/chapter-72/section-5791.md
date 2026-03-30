@@ -3,9 +3,9 @@ title: "Section 5791 - National coordination of AMBER Alert communications netwo
 usc_title: 42
 usc_section: "5791"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5791"
-generated_at: "2026-03-30T06:07:18.825Z"
+generated_at: "2026-03-30T06:10:19.225Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
   - **(4)** act as the nationwide point of contact for—
     - **(A)** the development of the network; and
     - **(B)** regional coordination of alerts on abducted children through the network.
-- **(c)** In carrying out duties under subsection (b) of this section, the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.
+- **(c)** In carrying out duties under subsection (b), the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.
 - **(d)** The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
 - **(e)** Not later than March 1, 2005 , the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.

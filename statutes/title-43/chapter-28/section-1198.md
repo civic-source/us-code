@@ -3,9 +3,9 @@ title: "Section 1198 - Condemnation of Sioux lands for dam purposes; negotiation
 usc_title: 43
 usc_section: "1198"
 chapter: 28
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "43 U.S.C. § 1198"
-generated_at: "2026-03-30T06:07:00.393Z"
+generated_at: "2026-03-30T06:10:09.120Z"
 status: "active"
 ---
 

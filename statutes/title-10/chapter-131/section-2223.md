@@ -3,9 +3,9 @@ title: "Section 2223 - Information technology: additional responsibilities of Ch
 usc_title: 10
 usc_section: "2223"
 chapter: 131
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 2223"
-generated_at: "2026-03-30T06:06:04.796Z"
+generated_at: "2026-03-30T06:08:21.020Z"
 status: "active"
 ---
 

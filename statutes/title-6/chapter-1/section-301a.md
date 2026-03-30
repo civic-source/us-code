@@ -3,9 +3,9 @@ title: "Section 301a - Port of entry donation authority"
 usc_title: 6
 usc_section: "301a"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 301a"
-generated_at: "2026-03-30T06:05:58.322Z"
+generated_at: "2026-03-30T06:08:15.366Z"
 status: "active"
 ---
 
@@ -67,7 +67,7 @@ status: "active"
       - **(ii)** Not later than 180 days after receiving a completed proposal to enter into an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection, with the concurrence of the Administrator of General Services, as applicable, shall—
         - **(I)** determine whether to approve or deny such proposal; and
         - **(II)** notify the entity that submitted such proposal of such determination.
-  - **(4)** Except as required under section 3307 of title 40 , real property donations to the Administrator of General Services made pursuant to subsection (a) and (b) at a GSA-owned land port of entry may be used in addition to any other funding for such purpose, including appropriated funds, property, or services.
+  - **(4)** Except as required under section 3307 of title 40 , real property donations to the Administrator of General Services made pursuant to subsection 1 (a) and 1 (b) at a GSA-owned land port of entry may be used in addition to any other funding for such purpose, including appropriated funds, property, or services.
   - **(5)** The Commissioner of U.S. Customs and Border Protection, or the Administrator of General Services, as applicable, may return any donation made pursuant to subsection (a) or (b). No interest shall be owed to the donor with respect to any donation provided under such subsections that is returned pursuant to this subsection.
   - **(6)**
     - **(A)** Except as provided in subsections (a) and (b) regarding the acceptance of donations, the Commissioner of U.S. Customs and Border Protection and the Administrator of General Services, as applicable, may not, with respect to an agreement entered into under either of such subsections, obligate or expend amounts in excess of amounts that have been appropriated pursuant to any appropriations Act for purposes specified in either of such subsections or otherwise made available for any of such purposes.

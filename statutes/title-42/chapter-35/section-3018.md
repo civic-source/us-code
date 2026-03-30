@@ -3,9 +3,9 @@ title: "Section 3018 - Reports to Congress"
 usc_title: 42
 usc_section: "3018"
 chapter: 35
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 3018"
-generated_at: "2026-03-30T06:07:18.755Z"
+generated_at: "2026-03-30T06:10:19.155Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(C)** the Office of Civil Rights of the Department of Health and Human Services;
     - **(D)** the Secretary of Veterans Affairs; and
     - **(E)** each public agency or private organization designated as an Office of the State Long-Term Care Ombudsman under subchapter III or XI in accordance with section 3058g(a)(4)(A) of this title .
-- **(c)** The Assistant Secretary shall, as part of the annual report submitted under subsection (a) of this section, prepare and submit a report on the outreach activities supported under this chapter, together with such recommendations as the Assistant Secretary deems appropriate. In carrying out this subsection, the Assistant Secretary shall consider—
+- **(c)** The Assistant Secretary shall, as part of the annual report submitted under subsection (a), prepare and submit a report on the outreach activities supported under this chapter, together with such recommendations as the Assistant Secretary deems appropriate. In carrying out this subsection, the Assistant Secretary shall consider—
   - **(1)** the number of older individuals reached through the activities;
   - **(2)** the dollar amount of the assistance and benefits received by older individuals as a result of such activities;
   - **(3)** the cost of such activities in terms of the number of individuals reached and the dollar amount described in paragraph (2);

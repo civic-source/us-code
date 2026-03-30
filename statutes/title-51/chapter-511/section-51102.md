@@ -3,9 +3,9 @@ title: "Section 51102 - Grant authority"
 usc_title: 51
 usc_section: "51102"
 chapter: 511
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "51 U.S.C. § 51102"
-generated_at: "2026-03-30T06:07:28.087Z"
+generated_at: "2026-03-30T06:10:27.912Z"
 status: "active"
 ---
 

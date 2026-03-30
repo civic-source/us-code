@@ -3,9 +3,9 @@ title: "Section 301 - Fee agreements for certain services at ports of entry"
 usc_title: 6
 usc_section: "301"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 301"
-generated_at: "2026-03-30T06:05:58.322Z"
+generated_at: "2026-03-30T06:08:15.366Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
     - **(A)** shall be deposited as offsetting collections;
     - **(B)** shall remain available until expended without fiscal year limitation; and
     - **(C)** shall be credited to the applicable appropriation, account, or fund for the amount paid out of such appropriation, account, or fund for any expenses incurred or to be incurred by U.S. Customs and Border Protection in providing U.S. Customs and Border Protection services under any such agreement and any other costs incurred or to be incurred by U.S. Customs and Border Protection relating to such services.
-  - **(2)** The Commissioner of U.S. Customs and Border Protection shall return any unused funds collected and deposited into the account described in paragraph (1) if a fee agreement entered into pursuant to subsection (a) is terminated for any reason or the terms of such fee agreement change by mutual agreement to cause a reduction of U.S. Customs and Border Protections services. No interest shall be owed upon the return of any such unused funds.
+  - **(2)** The Commissioner of U.S. Customs and Border Protection shall return any unused funds collected and deposited into the account described in paragraph (1) if a fee agreement entered into pursuant to subsection (a) is terminated for any reason or the terms of such fee agreement change by mutual agreement to cause a reduction of U.S. Customs and Border Protections 1 1 So in original. Probably should be “Protection”. services. No interest shall be owed upon the return of any such unused funds.
 - **(j)**
   - **(1)** The Commissioner of U.S. Customs and Border Protection shall terminate the services provided pursuant to a fee agreement entered into under subsection (a) with an entity that, after receiving notice from the Commissioner that a fee under subsection (h) is due, fails to pay such fee in a timely manner. If such services are terminated, all costs incurred by U.S. Customs and Border Protection that have not been paid shall become immediately due and payable. Interest on unpaid fees shall accrue based on the rate and amount established under sections 6621 and 6622 of title 26.
   - **(2)** Any entity that, after notice and demand for payment of any fee under subsection (h), fails to pay such fee in a timely manner shall be liable for a penalty or liquidated damage equal to two times the amount of such fee. Any such amount collected under this paragraph shall be deposited into the appropriate account specified under subsection (i) and shall be available as described in such subsection.

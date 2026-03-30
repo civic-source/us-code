@@ -3,9 +3,9 @@ title: "Section 1439 - Local housing assistance plan"
 usc_title: 42
 usc_section: "1439"
 chapter: 8
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1439"
-generated_at: "2026-03-30T06:07:18.686Z"
+generated_at: "2026-03-30T06:10:19.089Z"
 status: "active"
 ---
 

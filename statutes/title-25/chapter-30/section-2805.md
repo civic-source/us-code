@@ -3,9 +3,9 @@ title: "Section 2805 - Regulations"
 usc_title: 25
 usc_section: "2805"
 chapter: 30
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "25 U.S.C. § 2805"
-generated_at: "2026-03-30T06:06:29.228Z"
+generated_at: "2026-03-30T06:09:28.183Z"
 status: "active"
 ---
 

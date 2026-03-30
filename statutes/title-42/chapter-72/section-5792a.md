@@ -3,9 +3,9 @@ title: "Section 5792a - Procedures in public buildings regarding a missing or lo
 usc_title: 42
 usc_section: "5792a"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5792a"
-generated_at: "2026-03-30T06:07:18.826Z"
+generated_at: "2026-03-30T06:10:19.225Z"
 status: "active"
 ---
 

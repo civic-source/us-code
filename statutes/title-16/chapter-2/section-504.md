@@ -3,9 +3,9 @@ title: "Section 504 - Purchases of tree seeds, cones, forage plant seed, and nur
 usc_title: 16
 usc_section: "504"
 chapter: 2
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "16 U.S.C. § 504"
-generated_at: "2026-03-30T06:06:26.074Z"
+generated_at: "2026-03-30T06:09:20.707Z"
 status: "active"
 ---
 

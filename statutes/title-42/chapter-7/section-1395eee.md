@@ -3,9 +3,9 @@ title: "Section 1395eee - Payments to, and coverage of benefits under, programs 
 usc_title: 42
 usc_section: "1395eee"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 1395eee"
-generated_at: "2026-03-30T06:07:18.637Z"
+generated_at: "2026-03-30T06:10:19.041Z"
 status: "active"
 ---
 
@@ -148,7 +148,7 @@ status: "active"
     - **(B)** In issuing such regulations, the Secretary shall—
       - **(i)** take into account the differences between populations served and benefits provided under this section and under part C (or, for periods before January 1, 1999 , section 1395mm of this title ) and section 1396b(m) of this title ;
       - **(ii)** not include any requirement that conflicts with carrying out PACE programs under this section; and
-      - **(iii)** not include any requirement restricting the proportion of enrollees who are eligible for benefits under this subchapter or subchapter XIX of this chapter.
+      - **(iii)** not include any requirement restricting the proportion of enrollees who are eligible for benefits under this subchapter or subchapter XIX.
   - **(4)** Nothing in this subsection shall be construed as preventing the Secretary from including in regulations provisions to ensure the health and safety of individuals enrolled in a PACE program under this section that are in addition to those otherwise provided under paragraphs (2) and (3).
 - **(g)** With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) are waived and shall not apply:
   - **(1)** Section 1395d of this title , insofar as it limits coverage of institutional services.

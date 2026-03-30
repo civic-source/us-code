@@ -3,9 +3,9 @@ title: "Section 195c - Promoting antiterrorism through international cooperation
 usc_title: 6
 usc_section: "195c"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 195c"
-generated_at: "2026-03-30T06:05:58.318Z"
+generated_at: "2026-03-30T06:08:15.361Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
 - **(d)** If the Science and Technology Homeland Security International Cooperative Programs Office participates in an international cooperative activity with a foreign partner on a cost-sharing basis, any reimbursements or contributions received from that foreign partner to meet its share of the project may be credited to appropriate current appropriations accounts of the Directorate of Science and Technology.
 - **(e)** Not later than one year after August 3, 2007 , and every 5 years thereafter, the Under Secretary, acting through the Director, shall submit to Congress a report containing—
   - **(1)** a brief description of each grant, cooperative agreement, or contract made or entered into under subsection (b)(3)(C), including the participants, goals, and amount and sources of funding;
-  - **(2)** a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and
+  - **(2)** a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and 1 1 So in original. The word “and” probably should not appear.
   - **(3)** for international cooperative activities identified in the previous reporting period, a status update on the progress of such activities, including whether goals were realized, explaining any lessons learned, and evaluating overall success; and
   - **(4)** a discussion of obstacles encountered in the course of forming, executing, or implementing agreements for international cooperative activities, including administrative, legal, or diplomatic challenges or resource constraints.
 - **(f)** As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Chief Medical Officer, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation’s agricultural and public health sectors if they were to reach the United States.

@@ -3,9 +3,9 @@ title: "Section 5138 - Bureau of Medicine and Surgery: Dental Corps; Chief; func
 usc_title: 10
 usc_section: "5138"
 chapter: 513
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 5138"
-generated_at: "2026-03-30T06:06:04.839Z"
+generated_at: "2026-03-30T06:08:21.063Z"
 status: "active"
 ---
 

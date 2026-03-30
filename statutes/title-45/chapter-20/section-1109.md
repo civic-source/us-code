@@ -3,9 +3,9 @@ title: "Section 1109 - Effectuation of cost reductions"
 usc_title: 45
 usc_section: "1109"
 chapter: 20
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "45 U.S.C. § 1109"
-generated_at: "2026-03-30T06:07:01.063Z"
+generated_at: "2026-03-30T06:10:07.925Z"
 status: "active"
 ---
 

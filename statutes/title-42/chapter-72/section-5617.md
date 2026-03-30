@@ -3,9 +3,9 @@ title: "Section 5617 - Annual report"
 usc_title: 42
 usc_section: "5617"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5617"
-generated_at: "2026-03-30T06:07:18.821Z"
+generated_at: "2026-03-30T06:10:19.221Z"
 status: "active"
 ---
 

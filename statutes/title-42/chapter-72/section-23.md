@@ -3,16 +3,16 @@ title: "Section 23 - Authority to make grants for research, evaluation, demonstr
 usc_title: 42
 usc_section: "23"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T06:07:18.823Z"
+generated_at: "2026-03-30T06:10:19.223Z"
 status: "active"
 ---
 
 # § 5714–23. Authority to make grants for research, evaluation, demonstration, and service projects
 
 - **(a)** The Secretary may make grants to States, localities, and private entities (and combinations of such entities) to carry out research, evaluation, demonstration, and service projects regarding activities under this subchapter designed to increase knowledge concerning, and to improve services for, runaway youth and homeless youth.
-- **(b)** In selecting among applications for grants under subsection (a) of this section, the Secretary shall give priority to proposed projects relating to—
+- **(b)** In selecting among applications for grants under subsection (a), the Secretary shall give priority to proposed projects relating to—
   - **(1)** youth who repeatedly leave and remain away from their homes;
   - **(2)** transportation of runaway youth and homeless youth in connection with services authorized to be provided under this subchapter;
   - **(3)** the special needs of runaway youth and homeless youth programs in rural areas;

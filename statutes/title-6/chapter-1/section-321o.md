@@ -3,13 +3,13 @@ title: "Section 321o - Integrated public alert and warning system modernization"
 usc_title: 6
 usc_section: "321o"
 chapter: 1
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "6 U.S.C. § 321o"
-generated_at: "2026-03-30T06:05:58.325Z"
+generated_at: "2026-03-30T06:08:15.368Z"
 status: "active"
 ---
 
-# § 321 o . Integrated public alert and warning system modernization
+# § 321o. Integrated public alert and warning system modernization
 
 - **(a)** To provide timely and effective warnings regarding natural disasters, acts of terrorism, and other man-made disasters or threats to public safety, the Administrator shall—
   - **(1)** modernize the integrated public alert and warning system of the United States (in this section referred to as the “public alert and warning system”) to help ensure that under all conditions the President and, except to the extent the public alert and warning system is in use by the President, Federal agencies and State, tribal, and local governments can alert and warn the civilian population in areas endangered by natural disasters, acts of terrorism, and other man-made disasters or threats to public safety; and

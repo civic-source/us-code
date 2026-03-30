@@ -3,9 +3,9 @@ title: "Section 3746 - Silver star: award"
 usc_title: 10
 usc_section: "3746"
 chapter: 357
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "10 U.S.C. § 3746"
-generated_at: "2026-03-30T06:06:04.833Z"
+generated_at: "2026-03-30T06:08:21.057Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6217 - Scientific inventory of oil and gas reserves"
 usc_title: 42
 usc_section: "6217"
 chapter: 77
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 6217"
-generated_at: "2026-03-30T06:07:18.830Z"
+generated_at: "2026-03-30T06:10:19.230Z"
 status: "active"
 ---
 
@@ -18,6 +18,6 @@ status: "active"
     - **(B)** post-lease restrictions, impediments, or delays on development for conditions of approval, applications for permits to drill, or processing of environmental permits; and
     - **(C)** permits or restrictions associated with transporting the resources for entry into commerce; and
   - **(3)** the quantity of resources not produced or introduced into commerce because of the restrictions.
-- **(b)** Once completed, the USGS resource estimates and the surface availability data as provided in subsection (a)(2) of this section shall be regularly updated and made publicly available.
+- **(b)** Once completed, the USGS resource estimates and the surface availability data as provided in subsection (a)(2) shall be regularly updated and made publicly available.
 - **(c)** The inventory shall be provided to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate within 2 years after November 9, 2000 .
 - **(d)** Using the inventory, the Secretary of Energy shall make periodic assessments of economically recoverable resources accounting for a range of parameters such as current costs, commodity prices, technology, and regulations.

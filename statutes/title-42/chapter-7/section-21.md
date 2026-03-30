@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T06:07:18.597Z"
+generated_at: "2026-03-30T06:10:19.000Z"
 status: "active"
 ---
 
@@ -48,11 +48,11 @@ status: "active"
     - **(B)** Such process shall permit an individual, who has elected a Medicare+Choice plan offered by a Medicare+Choice organization and who wishes to terminate such election, to terminate such election through the filing of an appropriate election form with the organization.
   - **(3)**
     - **(A)**
-      - **(i)** Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) of this section is deemed to have chosen the original medicare fee-for-service program option.
+      - **(i)** Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) is deemed to have chosen the original medicare fee-for-service program option.
       - **(ii)** The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
     - **(B)** An individual who has made (or is deemed to have made) an election under this section is considered to have continued to make such election until such time as—
       - **(i)** the individual changes the election under this section, or
-      - **(ii)** the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B) of this section, no longer serves the area in which the individual resides.
+      - **(ii)** the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B), no longer serves the area in which the individual resides.
   - **(4)**
     - **(A)** On the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017 , an MA eligible individual described in clause (i) or (ii) of subparagraph (B) is deemed, unless the individual elects otherwise, to have elected to receive benefits under this subchapter through an applicable MA plan (and shall be enrolled in such plan) beginning with such plan year, if—
       - **(i)** the individual is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year;

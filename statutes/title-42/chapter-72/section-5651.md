@@ -3,9 +3,9 @@ title: "Section 5651 - Authority to make grants"
 usc_title: 42
 usc_section: "5651"
 chapter: 72
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "42 U.S.C. § 5651"
-generated_at: "2026-03-30T06:07:18.822Z"
+generated_at: "2026-03-30T06:10:19.222Z"
 status: "active"
 ---
 
@@ -53,4 +53,4 @@ status: "active"
   - **(23)** programs that foster strong character development in at-risk juveniles and juveniles in the juvenile justice system;
   - **(24)** local programs that provide for immediate psychological evaluation and follow-up treatment (including evaluation and treatment during a mandatory holding period for not less than 24 hours) for juveniles who bring a gun on school grounds without permission from appropriate school authorities; and
   - **(25)** other activities that are likely to prevent juvenile delinquency.
-- **(b)** The Administrator may make grants to eligible Indian tribes from funds allocated under section 5652(b) of this title , to carry out projects of the kinds described in subsection (a) of this section.
+- **(b)** The Administrator may make grants to eligible Indian tribes from funds allocated under section 5652(b) of this title , to carry out projects of the kinds described in subsection (a).

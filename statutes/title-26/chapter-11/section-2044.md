@@ -3,9 +3,9 @@ title: "Section 2044 - Certain property for which marital deduction was previous
 usc_title: 26
 usc_section: "2044"
 chapter: 11
-current_through: "PL 115-22"
+current_through: "PL 115-29"
 classification: "26 U.S.C. § 2044"
-generated_at: "2026-03-30T06:06:49.914Z"
+generated_at: "2026-03-30T06:09:46.402Z"
 status: "active"
 ---
 
