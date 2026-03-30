@@ -3,9 +3,9 @@ title: "Section 13821 - Purpose"
 usc_title: 42
 usc_section: "13821"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 13821"
-generated_at: "2026-03-30T05:54:40.659Z"
+generated_at: "2026-03-30T05:56:22.962Z"
 status: "active"
 ---
 

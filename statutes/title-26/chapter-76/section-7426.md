@@ -3,9 +3,9 @@ title: "Section 7426 - Civil actions by persons other than taxpayers"
 usc_title: 26
 usc_section: "7426"
 chapter: 76
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 7426"
-generated_at: "2026-03-30T05:53:36.611Z"
+generated_at: "2026-03-30T05:56:02.486Z"
 status: "active"
 ---
 

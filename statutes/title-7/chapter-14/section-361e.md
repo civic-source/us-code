@@ -3,9 +3,9 @@ title: "Section 361e - Payment of allotments to State agricultural experiment st
 usc_title: 7
 usc_section: "361e"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "7 U.S.C. § 361e"
-generated_at: "2026-03-30T05:52:41.094Z"
+generated_at: "2026-03-30T05:55:20.417Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-30T05:54:40.075Z"
+generated_at: "2026-03-30T05:56:22.367Z"
 status: "active"
 ---
 
@@ -27,6 +27,9 @@ status: "active"
         - **(II)** the facility in which the biological product is manufactured, processed, packed, or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
       - **(ii)** if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c).
     - **(D)** A person that submits an application for a license under this paragraph is subject to sections 505( o ), 505(p), and 505–1 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355 ( o ), (p), 355–1].
+    - **(E)**
+      - **(i)** The Secretary may rely upon qualified data summaries to support the approval of a supplemental application, with respect to a qualified indication for a drug, submitted under this subsection, if such supplemental application complies with the requirements of subparagraph (B) of section 505(c)(5) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 355(c)(5) ].
+      - **(ii)** In this subparagraph, the terms “qualified indication” and “qualified data summary” have the meanings given such terms in section 505(c)(5) of the Federal Food, Drug, and Cosmetic Act.
   - **(3)** The Secretary shall prescribe requirements under which a biological product undergoing investigation shall be exempt from the requirements of paragraph (1).
 - **(b)** No person shall falsely label or mark any package or container of any biological product or alter any label or mark on the package or container of the biological product so as to falsify the label or mark.
 - **(c)** Any officer, agent, or employee of the Department of Health and Human Services, authorized by the Secretary for the purpose, may during all reasonable hours enter and inspect any establishment for the propagation or manufacture and preparation of any biological product.

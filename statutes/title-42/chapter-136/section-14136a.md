@@ -3,9 +3,9 @@ title: "Section 14136a - Sexual assault forensic exam program grants"
 usc_title: 42
 usc_section: "14136a"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 14136a"
-generated_at: "2026-03-30T05:54:40.670Z"
+generated_at: "2026-03-30T05:56:22.971Z"
 status: "active"
 ---
 
@@ -22,4 +22,10 @@ status: "active"
     - **(D)** State sexual assault coalitions;
     - **(E)** medical personnel, including doctors, medical examiners, coroners, and nurses, involved in treating victims of sexual assault; and
     - **(F)** victim service providers involved in treating victims of sexual assault.
-- **(c)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
+- **(c)**
+  - **(1)** In reviewing applications submitted in accordance with a program authorized, in whole or in part, by this section, the Attorney General shall give preference to any eligible entity that certifies that the entity will use the grant funds to—
+    - **(A)** improve forensic nurse examiner programs in a rural area or for an underserved population, as those terms are defined in section 13925 1 1 See References in Text note below. of this title;
+    - **(B)** engage in activities that will assist in the employment of full-time forensic nurse examiners to conduct activities under subsection (a); or
+    - **(C)** sustain or establish a training program for forensic nurse examiners.
+  - **(2)** Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, and elder abuse. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
+- **(d)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.

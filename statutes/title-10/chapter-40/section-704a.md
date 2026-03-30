@@ -1,0 +1,15 @@
+---
+title: "Section 704a - Administration of leave: prohibition on authorizing, granting, or assigning leave not expressly authorized by law"
+usc_title: 10
+usc_section: "704a"
+chapter: 40
+current_through: "PL 115-8"
+classification: "10 U.S.C. § 704a"
+generated_at: "2026-03-30T05:55:13.246Z"
+status: "active"
+---
+
+# § 704a. Administration of leave: prohibition on authorizing, granting, or assigning leave not expressly authorized by law
+
+No member or category of members of the armed forces may be authorized, granted, or assigned leave, including uncharged leave, not expressly authorized by a provision of this chapter or another statute unless expressly authorized by an Act of Congress enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017.
+

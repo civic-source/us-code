@@ -1,0 +1,44 @@
+---
+title: "Section 384 - Department of Defense security cooperation workforce development"
+usc_title: 10
+usc_section: "384"
+chapter: 16
+current_through: "PL 115-8"
+classification: "10 U.S.C. § 384"
+generated_at: "2026-03-30T05:55:13.235Z"
+status: "active"
+---
+
+# § 384. Department of Defense security cooperation workforce development
+
+- **(a)** The Secretary of Defense shall carry out a program to be known as the “Department of Defense Security Cooperation Workforce Development Program” (in this section referred to as the “Program”) to oversee the development and management of a professional workforce supporting security cooperation programs and activities of the Department of Defense, including—
+  - **(1)** assessment, planning, monitoring, execution, evaluation, and administration of such programs and activities under this chapter; and
+  - **(2)** execution of security assistance programs and activities under the Foreign Assistance Act of 1961 and the Arms Export Control Act by the Department of Defense.
+- **(b)** The purpose of the Program is to improve the quality and professionalism of the security cooperation workforce in order to ensure that the workforce—
+  - **(1)** has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate support to the assessment, planning, monitoring, execution, evaluation, and administration of security cooperation programs and activities described in subsection (a), and ensure that the Department receives the best value for the expenditure of public resources on such programs and activities; and
+  - **(2)** is assigned in a manner that ensures personnel with the appropriate level of expertise and experience are assigned in sufficient numbers to fulfill requirements for the security cooperation programs and activities of the Department of Defense and the execution of security assistance programs and activities described in subsection (a)(2).
+- **(c)** The Program shall consist of such elements relating to the development and management of the security cooperation workforce as the Secretary considers appropriate for the purposes specified in subsection (b), including elements on training, certification, assignment, and career development of personnel of the security cooperation workforce.
+- **(d)** The Program shall be managed by the Director of the Defense Security Cooperation Agency.
+- **(e)**
+  - **(1)** Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, the Secretary shall issue interim guidance for the execution and administration of the Program.
+  - **(2)** Not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, the Secretary shall issue final guidance for the execution and administration of the Program.
+  - **(3)** The guidance shall do the following:
+    - **(A)** Provide direction to the Department of Defense on the establishment of professional career paths for the personnel of the security cooperation workforce, addressing training and education standards, promotion opportunities and requirements, retention policies, and scope of workforce demands.
+    - **(B)** Provide for a mechanism to identify and define training and certification requirements for security cooperation positions in the Department and a means to track workforce skills and certifications.
+    - **(C)** Provide for a mechanism to establish a program of professional certification in Department of Defense security cooperation for personnel of the security cooperation workforce in different career tracks and levels of competency based on requisite training and experience.
+    - **(D)** Establish requirements for training and professional development associated with each level of certification provided for under subparagraph (C).
+    - **(E)** Establish and maintain a school to train, educate, and certify the security cooperation workforce according to standards developed for purposes of subparagraph (C).
+    - **(F)** Provide for a mechanism for assigning appropriately certified personnel of the security cooperation workforce to assignments associated with key positions in connection with security cooperation programs and activities.
+    - **(G)** Identify the appropriate composition of career and temporary personnel necessary to constitute the security cooperation workforce.
+    - **(H)** Identify specific positions throughout the security cooperation workforce to be managed and assigned through the Program.
+- **(f)**
+  - **(1)** Funds available to the Defense Security Cooperation Agency, and other funds available to the Department of Defense for security cooperation programs and activities of the Department of Defense, may be used to carry out the Program.
+  - **(2)** Funds necessary to carry out the Program as described in paragraph (1) for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title .
+- **(g)** Amounts available for use for the Program may be transferred to any account of the military departments or the Defense Agencies for purposes of the Program.
+- **(h)** In this section, the term “security cooperation workforce” means the following:
+  - **(1)** Members of the armed forces and civilian employees of the Department of Defense working in the security cooperation organizations of United States missions overseas.
+  - **(2)** Members of the armed forces and civilian employees of the Department of Defense in the geographic combatant commands and functional combatant commands responsible for planning, monitoring, or conducting security cooperation activities.
+  - **(3)** Members of the armed forces and civilian employees of the Department of Defense in the military departments performing security cooperation activities, including activities in connection with the acquisition and development of technology release policies.
+  - **(4)** Other military and civilian personnel of Defense Agencies and Field Activities who perform security cooperation activities.
+  - **(5)** Personnel of the Department of Defense who perform assessments, monitoring, or evaluations of security cooperation programs and activities of the Department of Defense, including assessments under section 383 of this title .
+  - **(6)** Other members of the armed forces or civilian employees of the Department of Defense who contribute significantly to the security cooperation programs and activities of the Department of Defense by virtue of their assigned duties, as determined pursuant to the guidance issued under subsection (e).

@@ -3,9 +3,9 @@ title: "Section 5f - Beach nourishment"
 usc_title: 42
 usc_section: "5f"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 5f"
-generated_at: "2026-03-30T05:54:40.374Z"
+generated_at: "2026-03-30T05:56:22.679Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(d)** Upon completion of the review described in subsection (b), the Secretary shall—
   - **(1)** submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations of the Secretary related to the review; and
   - **(2)** include in the subsequent annual report to Congress required under section 2282d of title 33 , any recommendations that require specific congressional authorization.
-- **(e)** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014 , that project shall remain eligible for nourishment for an additional 3 years after the expiration of such period.
+- **(e)** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014 , that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.

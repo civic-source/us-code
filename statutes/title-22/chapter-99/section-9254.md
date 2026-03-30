@@ -3,9 +3,9 @@ title: "Section 9254 - Rulemaking"
 usc_title: 22
 usc_section: "9254"
 chapter: 99
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 9254"
-generated_at: "2026-03-30T05:53:23.628Z"
+generated_at: "2026-03-30T05:55:51.174Z"
 status: "active"
 ---
 

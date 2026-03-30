@@ -3,9 +3,9 @@ title: "Section 2455 - Comptroller General assessment of adequacy of budget requ
 usc_title: 50
 usc_section: "2455"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 2455"
-generated_at: "2026-03-30T05:54:46.398Z"
+generated_at: "2026-03-30T05:56:27.698Z"
 status: "active"
 ---
 
@@ -16,6 +16,7 @@ status: "active"
   - **(2)** Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
     - **(A)** the findings of such study; and
     - **(B)** whether the nuclear security budget materials support the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
-- **(b)** In this section:
+- **(b)** The requirements of subsection (a) shall not apply with respect to the nuclear security budget materials submitted for fiscal year 2018 or 2019.
+- **(c)** In this section:
   - **(1)** The term “budget” means the budget for a fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
   - **(2)** The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.

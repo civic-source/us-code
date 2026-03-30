@@ -3,9 +3,9 @@ title: "Section 77w - Unlawful representations"
 usc_title: 15
 usc_section: "77w"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 77w"
-generated_at: "2026-03-30T05:52:57.685Z"
+generated_at: "2026-03-30T05:55:29.220Z"
 status: "active"
 ---
 

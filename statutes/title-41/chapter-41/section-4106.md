@@ -3,9 +3,9 @@ title: "Section 4106 - Orders"
 usc_title: 41
 usc_section: "4106"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "41 U.S.C. § 4106"
-generated_at: "2026-03-30T05:54:22.429Z"
+generated_at: "2026-03-30T05:56:11.714Z"
 status: "active"
 ---
 
@@ -34,7 +34,6 @@ status: "active"
     - **(A)** a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
     - **(B)** a protest of an order valued in excess of $10,000,000.
   - **(2)** Notwithstanding section 3556 of title 31 , the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
-  - **(3)** Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016 .
 - **(g)**
   - **(1)** The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
   - **(2)** The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency’s advocate for competition.

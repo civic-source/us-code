@@ -3,9 +3,9 @@ title: "Section 4503 - Fishing, fish tender, and fish processing vessel certific
 usc_title: 46
 usc_section: "4503"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 4503"
-generated_at: "2026-03-30T05:54:44.411Z"
+generated_at: "2026-03-30T05:56:26.694Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(2)** Subsection (a) does not apply to a fishing vessel or fish tender vessel to which section 4502(b) of this title applies, if the vessel—
     - **(A)** is at least 50 feet overall in length, and not more than 79 feet overall in length as listed on the vessel’s certificate of documentation or certificate of number; and
     - **(B)**
-      - **(i)** is built after the date of the enactment of the Coast Guard Authorization Act of 2015; and
+      - **(i)** is built after the date of the enactment of the Coast Guard Authorization Act of 2016; and
       - **(ii)** complies with—
         - **(I)** the requirements described in subsection (e); or
         - **(II)** the alternative requirements established by the Secretary under subsection (f).
@@ -50,8 +50,8 @@ status: "active"
   - **(7)** Once every 5 years and at the time of a substantial alteration to such vessel, compliance of the vessel with the requirements of paragraph (3) is reviewed and updated as necessary.
   - **(8)** For the life of the vessel, the owner of the vessel maintains records to demonstrate compliance with this subsection and makes such records readily available for inspection by an official authorized to enforce this chapter.
 - **(f)**
-  - **(1)** Not later than 10 years after the date of the enactment of the Coast Guard Authorization Act of 2015, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that provides an analysis of the adequacy of the requirements under subsection (e) in maintaining the safety of the fishing vessels and fish tender vessels which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
-  - **(2)** If the report required under this subsection includes a determination that the safety requirements under subsection (e) are not adequate or that additional safety measures are necessary, that the Secretary may establish an alternative safety compliance program for fishing vessels or fish tender vessels (or both) which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
+  - **(1)** Not later than 10 years after the date of the enactment of the Coast Guard Authorization Act of 2016, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that provides an analysis of the adequacy of the requirements under subsection (e) in maintaining the safety of the fishing vessels and fish tender vessels which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
+  - **(2)** If the report required under this subsection includes a determination that the safety requirements under subsection (e) are not adequate or that additional safety measures are necessary, then the Secretary may establish an alternative safety compliance program for fishing vessels or fish tender vessels (or both) which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
   - **(3)** The alternative safety compliance program established under this subsection shall include requirements for—
     - **(A)** vessel construction;
     - **(B)** a vessel stability test;

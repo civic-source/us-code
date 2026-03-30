@@ -3,9 +3,9 @@ title: "Section 1a - National Science Foundation Teaching Fellowships and Master
 usc_title: 42
 usc_section: "1a"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T05:54:40.368Z"
+generated_at: "2026-03-30T05:56:22.672Z"
 status: "active"
 ---
 
@@ -85,3 +85,13 @@ status: "active"
   - **(2)** If a circumstance described in subparagraph (D) or (E) of section 1862n–1(g)(1) of this title occurs after the completion of 1 year of a service obligation under this section—
     - **(A)** for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master’s degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title ; and
     - **(B)** for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title .
+- **(k)**
+  - **(1)** The Director shall develop and implement practices for increasing the proportion of individuals receiving fellowships under this section who—
+    - **(A)** fulfill the service obligation required under subsection (h); and
+    - **(B)** remain in the teaching profession in a high need local educational agency beyond the service obligation.
+  - **(2)** The practices described under paragraph (1) may include—
+    - **(A)** partnering with nonprofit or professional associations or with other government entities to provide individuals receiving fellowships under this section with opportunities for professional development, including mentorship programs that pair those individuals with currently employed and recently retired science, technology, engineering, mathematics, or computer science professionals;
+    - **(B)** increasing recruitment from high need districts;
+    - **(C)** establishing a system to better collect, track, and respond to data on the career decisions of individuals receiving fellowships under this section;
+    - **(D)** conducting research to better understand factors relevant to teacher service and retention, including factors specifically impacting the retention of teachers who are individuals identified in sections 1885a and 1885b of this title; and
+    - **(E)** conducting pilot programs to improve teacher service and retention.

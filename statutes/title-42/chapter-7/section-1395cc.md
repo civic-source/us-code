@@ -3,9 +3,9 @@ title: "Section 1395cc - Agreements with providers of services; enrollment proce
 usc_title: 42
 usc_section: "1395cc"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395cc"
-generated_at: "2026-03-30T05:54:40.272Z"
+generated_at: "2026-03-30T05:56:22.574Z"
 status: "active"
 ---
 
@@ -139,7 +139,7 @@ status: "active"
     - **(B)** within 6 months after the date the hospital is found to be out of compliance with such requirements, no payment may be made under this subchapter with respect to any individual in the hospital until the Secretary finds that the hospital is in compliance with the requirements of this subchapter.
 - **(j)**
   - **(1)**
-    - **(A)** The Secretary shall establish by regulation a process for the enrollment of providers of services and suppliers under this subchapter. Such process shall include screening of providers and suppliers in accordance with paragraph (2), a provisional period of enhanced oversight in accordance with paragraph (3), disclosure requirements in accordance with paragraph (4), the imposition of temporary enrollment moratoria in accordance with paragraph (5), and the establishment of compliance programs in accordance with paragraph (6).
+    - **(A)** The Secretary shall establish by regulation a process for the enrollment of providers of services and suppliers under this subchapter. Such process shall include screening of providers and suppliers in accordance with paragraph (2), a provisional period of enhanced oversight in accordance with paragraph (3), disclosure requirements in accordance with paragraph (5), the imposition of temporary enrollment moratoria in accordance with paragraph (7), and the establishment of compliance programs in accordance with paragraph (9).
     - **(B)** The Secretary shall establish by regulation procedures under which there are deadlines for actions on applications for enrollment (and, if applicable, renewal of enrollment). The Secretary shall monitor the performance of medicare administrative contractors in meeting the deadlines established under this subparagraph.
     - **(C)** The Secretary shall consult with providers of services and suppliers before making changes in the provider enrollment forms required of such providers and suppliers to be eligible to submit claims for which payment may be made under this subchapter.
   - **(2)**
@@ -180,11 +180,20 @@ status: "active"
   - **(7)**
     - **(A)** The Secretary may impose a temporary moratorium on the enrollment of new providers of services and suppliers, including categories of providers of services and suppliers, in the program under this subchapter, under the Medicaid program under subchapter XIX, or under the CHIP program under subchapter XXI if the Secretary determines such moratorium is necessary to prevent or combat fraud, waste, or abuse under either such program.
     - **(B)** There shall be no judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise, of a temporary moratorium imposed under subparagraph (A).
-  - **(8)**
+    - **(C)**
+      - **(i)** No payment may be made under this subchapter or under a program described in subparagraph (A) with respect to an item or service described in clause (ii) furnished on or after October 1, 2017 .
+      - **(ii)** An item or service described in this clause is an item or service furnished—
+        - **(I)** within a geographic area with respect to which a temporary moratorium imposed under subparagraph (A) is in effect; and
+        - **(II)** by a provider of services or supplier that meets the requirements of clause (iii).
+      - **(iii)** For purposes of clause (ii), the requirements of this clause are that a provider of services or supplier—
+        - **(I)** enrolls under this subchapter on or after the effective date of such temporary moratorium; and
+        - **(II)** is within a category of providers of services and suppliers (as described in subparagraph (A)) subject to such temporary moratorium.
+      - **(iv)** In no case shall a provider of services or supplier described in clause (ii)(II) charge an individual or other person for an item or service described in clause (ii) furnished on or after October 1, 2017 , to an individual entitled to benefits under part A or enrolled under part B or an individual under a program specified in subparagraph (A).
+  - **(8)** A provider of services or supplier whose application to enroll (or, if applicable, to renew enrollment) under this subchapter is denied may have a hearing and judicial review of such denial under the procedures that apply under subsection (h)(1)(A) to a provider of services that is dissatisfied with a determination by the Secretary.
+  - **(9)**
     - **(A)** On or after the date of implementation determined by the Secretary under subparagraph (C), a provider of medical or other items or services or supplier within a particular industry sector or category shall, as a condition of enrollment in the program under this subchapter, subchapter XIX, or subchapter XXI, establish a compliance program that contains the core elements established under subparagraph (B) with respect to that provider or supplier and industry or category.
     - **(B)** The Secretary, in consultation with the Inspector General of the Department of Health and Human Services, shall establish core elements for a compliance program under subparagraph (A) for providers or suppliers within a particular industry or category.
     - **(C)** The Secretary shall determine the timeline for the establishment of the core elements under subparagraph (B) and the date of the implementation of subparagraph (A) for providers or suppliers within a particular industry or category. The Secretary shall, in determining such date of implementation, consider the extent to which the adoption of compliance programs by a provider of medical or other items or services or supplier is widespread in a particular industry sector or with respect to a particular provider or supplier category.
-  - **(8)** A provider of services or supplier whose application to enroll (or, if applicable, to renew enrollment) under this subchapter is denied may have a hearing and judicial review of such denial under the procedures that apply under subsection (h)(1)(A) to a provider of services that is dissatisfied with a determination by the Secretary.
 - **(k)**
   - **(1)** For purposes of fiscal year 2014 and each subsequent fiscal year, a hospital described in section 1395ww(d)(1)(B)(v) of this title shall submit data to the Secretary in accordance with paragraph (2) with respect to such a fiscal year.
   - **(2)** For fiscal year 2014 and each subsequent fiscal year, each hospital described in such section shall submit to the Secretary data on quality measures specified under paragraph (3). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.

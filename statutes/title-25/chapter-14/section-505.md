@@ -1,13 +1,13 @@
 ---
-title: "Section 505 - Omitted"
+title: "Section 505 - Transferred"
 usc_title: 25
 usc_section: "505"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "25 U.S.C. § 505"
-generated_at: "2026-03-30T05:53:16.786Z"
-status: "omitted"
+generated_at: "2026-03-30T05:55:47.686Z"
+status: "transferred"
 ---
 
-# § 505. Omitted
+# § 505. Transferred
 

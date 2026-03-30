@@ -3,19 +3,19 @@ title: "Section 6208 - Radio Free Asia"
 usc_title: 22
 usc_section: "6208"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 6208"
-generated_at: "2026-03-30T05:53:23.595Z"
+generated_at: "2026-03-30T05:55:51.140Z"
 status: "active"
 ---
 
 # § 6208. Radio Free Asia
 
 - **(a)**
-  - **(1)** Grants authorized under section 6204 of this title shall be available to make annual grants for the purpose of carrying out radio broadcasting to the following countries: The People’s Republic of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam.
+  - **(1)** Grants authorized under section 6204 of this title shall be available to make annual grants for the purpose of carrying out radio broadcasting to Asia.
   - **(2)** Such broadcasting service shall be referred to as “Radio Free Asia”.
 - **(b)** Radio Free Asia shall—
-  - **(1)** provide accurate and timely information, news, and commentary about events in the respective countries of Asia and elsewhere; and
+  - **(1)** provide accurate and timely information, news, and commentary about events in Asia and elsewhere; and
   - **(2)** be a forum for a variety of opinions and voices from within Asian nations whose people do not fully enjoy freedom of expression.
 - **(c)** Any grant agreement or grants under this section shall be subject to the following limitations and restrictions:
   - **(1)** The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
@@ -34,5 +34,6 @@ status: "active"
   - **(1)** The Board shall notify the appropriate congressional committees before—
     - **(A)** entering into any agreements for the utilization of Voice of America transmitters, equipment, or other resources that will significantly reduce the broadcasting activities of the Voice of America in Asia or any other region in order to accommodate the broadcasting activities of Radio Free Asia; or
     - **(B)** entering into any agreements in regard to the utilization of Radio Free Asia transmitters, equipment, or other resources that will significantly reduce the broadcasting activities of Radio Free Asia.
-  - **(2)** The Chairman of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
-- **(g)** Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
+  - **(2)** The Chief Executive Officer of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
+- **(g)** If the Chief Executive Officer determines at any time that Radio Free Asia is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
+- **(h)** Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.

@@ -3,9 +3,9 @@ title: "Section 2485 - Commissary stores: operation"
 usc_title: 10
 usc_section: "2485"
 chapter: 147
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2485"
-generated_at: "2026-03-30T05:52:47.191Z"
+generated_at: "2026-03-30T05:55:13.312Z"
 status: "active"
 ---
 
@@ -67,3 +67,4 @@ status: "active"
     - **(E)** Each contract entered into under this paragraph shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
   - **(4)** Information described in paragraph (2) may not be released, under paragraph (3) or otherwise, in a form that identifies any customer or that provides information making it possible to identify any customer.
   - **(5)** Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges applied under section 2484(e) of this title , shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
+- **(i)** The Secretary of Defense may enter into a contract with an entity to obtain expert commercial advice, commercial assistance, or other similar services not otherwise carried out by the Defense Commissary Agency, to implement section 2481(c), subsections (i) and (j) of section 2484, and section 2487(c) of this title .

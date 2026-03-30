@@ -3,9 +3,9 @@ title: "Section 1561 - Complaints of sexual harassment: investigation by command
 usc_title: 10
 usc_section: "1561"
 chapter: 80
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 1561"
-generated_at: "2026-03-30T05:52:47.161Z"
+generated_at: "2026-03-30T05:55:13.280Z"
 status: "active"
 ---
 
@@ -21,11 +21,11 @@ status: "active"
   - **(1)** submit a final report on the results of the investigation, including any action taken as a result of the investigation, to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced; or
   - **(2)** submit a report on the progress made in completing the investigation to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced and every 14 days thereafter until the investigation is completed and, upon completion of the investigation, then submit a final report on the results of the investigation, including any action taken as a result of the investigation, to that next superior officer.
 - **(e)** In this section, the term “sexual harassment” means any of the following:
-  - **(1)** Conduct (constituting a form of sex discrimination) that—
+  - **(1)** Conduct that—
     - **(A)** involves unwelcome sexual advances, requests for sexual favors, and deliberate or repeated offensive comments or gestures of a sexual nature when—
       - **(i)** submission to such conduct is made either explicitly or implicitly a term or condition of a person’s job, pay, or career;
       - **(ii)** submission to or rejection of such conduct by a person is used as a basis for career or employment decisions affecting that person; or
       - **(iii)** such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creates an intimidating, hostile, or offensive working environment; and
-    - **(B)** is so severe or pervasive that a reasonable person would perceive, and the victim does perceive, the work environment as hostile or offensive.
+    - **(B)** is so severe or pervasive that a reasonable person would perceive, and the victim does perceive, the environment as hostile or offensive.
   - **(2)** Any use or condonation, by any person in a supervisory or command position, of any form of sexual behavior to control, influence, or affect the career, pay, or job of a member of the armed forces or a civilian employee of the Department of Defense.
-  - **(3)** Any deliberate or repeated unwelcome verbal comment or gesture of a sexual nature in the workplace by any member of the armed forces or civilian employee of the Department of Defense.
+  - **(3)** Any deliberate or repeated unwelcome verbal comment or gesture of a sexual nature by any member of the armed forces or civilian employee of the Department of Defense.

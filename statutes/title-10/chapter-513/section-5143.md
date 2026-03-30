@@ -3,9 +3,9 @@ title: "Section 5143 - Office of Navy Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "5143"
 chapter: 513
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5143"
-generated_at: "2026-03-30T05:52:47.216Z"
+generated_at: "2026-03-30T05:55:13.338Z"
 status: "active"
 ---
 
@@ -23,7 +23,5 @@ status: "active"
   - **(4)** Until December 31, 2006 , the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Navy Reserve if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
     - **(A)** the officer is qualified for service in the position; and
     - **(B)** the waiver is necessary for the good of the service.
-- **(c)**
-  - **(1)** The Chief of Navy Reserve is appointed for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. An officer serving as Chief of Navy Reserve may be reappointed for one additional term of up to four years.
-  - **(2)** The Chief of Navy Reserve, while so serving, holds the grade of vice admiral.
+- **(c)** The Chief of Navy Reserve is appointed for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. An officer serving as Chief of Navy Reserve may be reappointed for one additional term of up to four years.
 - **(d)** The Chief of Navy Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Navy Reserve. As such, the Chief of Navy Reserve is the director and functional manager of appropriations made for the Navy Reserve in those areas.

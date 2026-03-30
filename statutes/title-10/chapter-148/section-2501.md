@@ -3,9 +3,9 @@ title: "Section 2501 - National security strategy for national technology and in
 usc_title: 10
 usc_section: "2501"
 chapter: 148
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2501"
-generated_at: "2026-03-30T05:52:47.191Z"
+generated_at: "2026-03-30T05:55:13.312Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(8)** Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
   - **(9)** Ensuring reliable sources of materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements.
   - **(10)** Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
-- **(b)** It is the policy of Congress that the United States attain the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
+- **(b)** The Secretary of Defense shall ensure that the United States attains the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
   - **(1)** Relying, to the maximum extent practicable, upon the commercial national technology and industrial base that is required to meet the national security needs of the United States.
   - **(2)** Reducing the reliance of the Department of Defense on technology and industrial base sectors that are economically dependent on Department of Defense business.
   - **(3)** Reducing Federal Government barriers to the use of commercial products, processes, and standards.

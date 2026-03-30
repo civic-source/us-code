@@ -1,15 +1,13 @@
 ---
-title: "Section 9383 - Allowances"
+title: "Section 9383 - Repealed. Pub. L. 114–328, div. A, title XII , § 1241(i)(2), Dec. 23, 2016 , 130 Stat. 2508 ]"
 usc_title: 10
 usc_section: "9383"
 chapter: 905
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 9383"
-generated_at: "2026-03-30T05:52:47.232Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.354Z"
+status: "repealed"
 ---
 
-# § 9383. Allowances
-
-The Secretary of the Air Force may pay to a person receiving training under this chapter a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the armed forces under similar circumstances.
+# [§§ 9381 to 9383. Repealed. Pub. L. 114–328, div. A, title XII , § 1241(i)(2), Dec. 23, 2016 , 130 Stat. 2508 ]
 

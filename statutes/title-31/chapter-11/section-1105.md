@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-30T05:53:39.194Z"
+generated_at: "2026-03-30T05:56:05.075Z"
 status: "active"
 ---
 
@@ -82,6 +82,7 @@ status: "active"
     - **(D)** Veterans Health Administration, Medical Services.
     - **(E)** Veterans Health Administration, Medical Support and Compliance.
     - **(F)** Veterans Health Administration, Medical Facilities.
+    - **(G)** Veterans Health Administration, Medical Community Care.
   - **(38)** a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
   - **(39)** the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 - **(b)** Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.

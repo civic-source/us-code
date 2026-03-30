@@ -3,16 +3,16 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T05:52:57.732Z"
+generated_at: "2026-03-30T05:55:29.267Z"
 status: "active"
 ---
 
 # § 632. Definitions
 
 - **(a)**
-  - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation: Provided , That notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it (including its affiliates) has annual receipts not in excess of $750,000.
+  - **(1)** For the purposes of this chapter, a small-business concern, including but not limited to enterprises that are engaged in the business of production of food and fiber, ranching and raising of livestock, agriculture, and all other farming and agricultural related industries, shall be deemed to be one which is independently owned and operated and which is not dominant in its field of operation.
   - **(2)**
     - **(A)** In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards by which a business concern may be determined to be a small business concern for the purposes of this chapter or any other Act.
     - **(B)** The standards described in paragraph (1) may utilize number of employees, dollar volume of business, net worth, net income, a combination thereof, or other appropriate factors.
@@ -51,6 +51,7 @@ status: "active"
     - **(B)** A person filing a petition for reconsideration described in subparagraph (A) shall file such petition not later than 30 days after the publication in the Federal Register of the notice of final rule to revise, modify, or establish size standards described in paragraph (6).
     - **(C)** The Office of Hearings and Appeals shall use the same process it uses to decide challenges to the size of a small business concern to decide a petition for review pursuant to this paragraph.
     - **(D)** The publication of a final rule in the Federal Register described in subparagraph (B) shall be considered final agency action for purposes of seeking judicial review. Filing a petition for reconsideration under subparagraph (A) shall not be a condition precedent to judicial review of any such size standard.
+    - **(E)** The Office of Hearings and Appeals shall begin accepting petitions for reconsideration described in subparagraph (A) after the date on which the Administration issues a rule or other guidance implementing this paragraph. Notwithstanding the provisions of subparagraph (B), petitions for reconsideration of size standards revised, modified, or established in a Federal Register final rule published between November 25, 2015 , and the effective date of such rule or other guidance shall be considered timely if filed within 30 days of such effective date.
 - **(b)** For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5 , but does not include the United States Postal Service or the Government Accountability Office.
 - **(c)**
   - **(1)** For purposes of this chapter, a qualified employee trust shall be eligible for any loan guarantee under section 636(a) of this title with respect to a small business concern on the same basis as if such trust were the same legal entity as such concern.
@@ -147,7 +148,7 @@ status: "active"
         - **(I)** 10 years after the date that the Administrator implements this clause, or
         - **(II)** the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
     - **(B)** The term “qualified nonmetropolitan county” means any county—
-      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 3 of title 26; and
+      - **(i)** that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26 ) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 3 3 See References in Text note below. of title 26; and
       - **(ii)** in which—
         - **(I)** the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
         - **(II)** the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or

@@ -3,9 +3,9 @@ title: "Section 2903 - Major acquisitions"
 usc_title: 14
 usc_section: "2903"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 2903"
-generated_at: "2026-03-30T05:52:49.227Z"
+generated_at: "2026-03-30T05:55:22.802Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(10)** an annual performance comparison of new assets to legacy assets.
 - **(c)** Each report under subsection (a) shall—
   - **(1)** include information on the scope of the acquisition activities to be performed in the next fiscal year and on the adequacy of the current acquisition workforce to meet that anticipated workload;
-  - **(2)** specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under section 562(c); and
+  - **(2)** specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under section 562(c); 1 1 See References in Text note below. and
   - **(3)** identify positions that are or will be understaffed and actions that will be taken to correct such understaffing.
 - **(d)** Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
 - **(e)** Each report under subsection (a) shall include a plan that describes for the upcoming fiscal year, and for each of the 20 fiscal years thereafter—

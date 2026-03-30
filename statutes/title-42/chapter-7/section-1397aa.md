@@ -3,9 +3,9 @@ title: "Section 1397aa - Purpose; State child health plans"
 usc_title: 42
 usc_section: "1397aa"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1397aa"
-generated_at: "2026-03-30T05:54:40.324Z"
+generated_at: "2026-03-30T05:56:22.627Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The purpose of this subchapter is to provide funds to States to enable them to initiate and expand the provision of child health assistance to uninsured, low-income children in an effective and efficient manner that is coordinated with other sources of health benefits coverage for children. Such assistance shall be provided primarily for obtaining health benefits coverage through—
   - **(1)** obtaining coverage that meets the requirements of section 1397cc of this title , or
-  - **(2)** providing benefits under the State’s medicaid plan under subchapter XIX of this chapter,
+  - **(2)** providing benefits under the State’s medicaid plan under subchapter XIX,
 - **(b)** A State is not eligible for payment under section 1397ee of this title unless the State has submitted to the Secretary under section 1397ff of this title a plan that—
   - **(1)** sets forth how the State intends to use the funds provided under this subchapter to provide child health assistance to needy children consistent with the provisions of this subchapter, and
   - **(2)** has been approved under section 1397ff of this title .

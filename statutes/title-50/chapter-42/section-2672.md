@@ -3,9 +3,9 @@ title: "Section 2672 - Protection against inadvertent release of Restricted Data
 usc_title: 50
 usc_section: "2672"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 2672"
-generated_at: "2026-03-30T05:54:46.403Z"
+generated_at: "2026-03-30T05:56:27.702Z"
 status: "active"
 ---
 
@@ -29,7 +29,6 @@ status: "active"
   - **(1)** The Committee on Armed Services of the Senate.
   - **(2)** The Committee on Armed Services of the House of Representatives.
   - **(3)** The Assistant to the President for National Security Affairs.
-- **(e)** The Secretary of Energy shall, in each even-numbered year, submit a summary of the results of the periodic reviews and evaluations specified in the plan pursuant to subsection (b)(5) to the committees and Assistant to the President specified in subsection (d).
-- **(f)**
+- **(e)**
   - **(1)** The Secretary of Energy shall submit to the committees and Assistant to the President specified in subsection (d) a report on inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 that occurred before October 17, 1998 .
   - **(2)** The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 13526 discovered in the two-year period preceding the submittal of the report.

@@ -3,9 +3,9 @@ title: "Section 5017 - Secretary of the Navy: successors to duties"
 usc_title: 10
 usc_section: "5017"
 chapter: 503
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5017"
-generated_at: "2026-03-30T05:52:47.215Z"
+generated_at: "2026-03-30T05:55:13.337Z"
 status: "active"
 ---
 

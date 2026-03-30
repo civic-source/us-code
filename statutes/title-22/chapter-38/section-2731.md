@@ -3,9 +3,9 @@ title: "Section 2731 - Monitoring and combating anti-Semitism"
 usc_title: 22
 usc_section: "2731"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 2731"
-generated_at: "2026-03-30T05:53:23.557Z"
+generated_at: "2026-03-30T05:55:51.100Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
 - **(b)** Upon establishment, the Office shall assume the primary responsibility for—
   - **(1)** monitoring and combating acts of anti-Semitism and anti-Semitic incitement that occur in foreign countries;
   - **(2)** coordinating and assisting in the preparation of that portion of the report required by sections 2151n(d)(7) and 2304(b) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the annual Country Reports on Human Rights Practices; and
-  - **(3)** coordinating and assisting in the preparation of that portion of the report required by section 6412(b)(1)(A)(iv) of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the Annual Report on International Religious Freedom.
+  - **(3)** coordinating and assisting in the preparation of that portion of the report required by section 6412(b)(1)(A)(iv) 1 1 See References in Text note below. of this title relating to an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement for inclusion in the Annual Report on International Religious Freedom.
 - **(c)** The Special Envoy shall consult with domestic and international nongovernmental organizations and multilateral organizations and institutions, as the Special Envoy considers appropriate to fulfill the purposes of this section.

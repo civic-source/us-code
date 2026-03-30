@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-30T05:52:57.740Z"
+generated_at: "2026-03-30T05:55:29.276Z"
 status: "active"
 ---
 
@@ -223,10 +223,10 @@ status: "active"
   - **(1)** If a Federal agency required to establish an SBIR program under subsection (f) makes an award with respect to an SBIR solicitation topic or subtopic for which the agency received only 1 proposal, the agency shall provide written justification for making the award in its next quarterly report to the Administration and in the agency’s next annual report required under subsection (g)(8).
   - **(2)** An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8) an accounting of the awards the agency has made for Phase I of an SBIR program during the reporting period to entities that have received more than 15 awards for Phase II of an SBIR program during the preceding 5 fiscal years.
   - **(3)** An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8), an accounting of the number of awards it has made to critical technology topics, as defined in subsection (g)(3), including an identification of the specific critical technologies topics, and the percentage by number and dollar amount of the agency’s total SBIR awards to such critical technology topics.
-- **(m)** The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2017 .
+- **(m)** The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2022 .
 - **(n)**
   - **(1)**
-    - **(A)** With respect to each fiscal year through fiscal year 2017, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
+    - **(A)** With respect to each fiscal year through fiscal year 2022, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
     - **(B)** The percentage of the extramural budget required to be expended by an agency in accordance with subparagraph (A) shall be—
       - **(i)** 0.15 percent for each fiscal year through fiscal year 2003;
       - **(ii)** 0.3 percent for each of fiscal years 2004 through 2011;

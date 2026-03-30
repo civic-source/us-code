@@ -3,9 +3,9 @@ title: "Section 1044a - Authority to act as notary"
 usc_title: 10
 usc_section: "1044a"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 1044a"
-generated_at: "2026-03-30T05:52:47.139Z"
+generated_at: "2026-03-30T05:55:13.258Z"
 status: "active"
 ---
 
@@ -22,5 +22,6 @@ status: "active"
   - **(3)** All adjutants, assistant adjutants, and personnel adjutants, including reserve members when not in a duty status.
   - **(4)** All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
   - **(5)** For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
+  - **(6)** All civilian paralegals serving at military legal assistance offices, supervised by a military legal assistance counsel (as defined in section 1044d(g) of this title ).
 - **(c)** No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 - **(d)** The signature of any such person acting as notary, together with the title of that person’s offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.

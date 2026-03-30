@@ -3,9 +3,9 @@ title: "Section 70512 - Deposit of assets on dissolution or final liquidation"
 usc_title: 36
 usc_section: "70512"
 chapter: 705
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "36 U.S.C. § 70512"
-generated_at: "2026-03-30T05:54:01.324Z"
+generated_at: "2026-03-30T05:56:08.248Z"
 status: "active"
 ---
 

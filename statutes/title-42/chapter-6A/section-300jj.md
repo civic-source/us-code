@@ -3,9 +3,9 @@ title: "Section 300jj - Definitions"
 usc_title: 42
 usc_section: "300jj"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 300jj"
-generated_at: "2026-03-30T05:54:40.163Z"
+generated_at: "2026-03-30T05:56:22.462Z"
 status: "active"
 ---
 
@@ -19,9 +19,12 @@ In this subchapter:
   - **(4)** The term “health information” has the meaning given such term in section 1320d(4) of this title .
   - **(5)** The term “health information technology” means hardware, software, integrated technologies or related licenses, intellectual property, upgrades, or packaged solutions sold as services that are designed for or support the use by health care entities or patients for the electronic creation, maintenance, access, or exchange of health information 2 2 So in original. Probably should be followed by a period.
   - **(6)** The term “health plan” has the meaning given such term in section 1320d(5) of this title .
-  - **(7)** The term “HIT Policy Committee” means such Committee established under section 300jj–12(a) of this title .
-  - **(8)** The term “HIT Standards Committee” means such Committee established under section 300jj–13(a) of this title .
-  - **(9)** The term “individually identifiable health information” has the meaning given such term in section 1320d(6) of this title .
+  - **(7)** The term “HIT Advisory Committee” means such Committee established under section 300jj–12(a) of this title .
+  - **(8)** The term “individually identifiable health information” has the meaning given such term in section 1320d(6) of this title .
+  - **(9)** The term “interoperability”, with respect to health information technology, means such health information technology that—
+    - **(A)** enables the secure exchange of electronic health information with, and use of electronic health information from, other health information technology without special effort on the part of the user;
+    - **(B)** allows for complete access, exchange, and use of all electronically accessible health information for authorized use under applicable State or Federal law; and
+    - **(C)** does not constitute information blocking as defined in section 300jj–52(a) of this title .
   - **(10)** The term “laboratory” has the meaning given such term in section 263a(a) of this title .
   - **(11)** The term “National Coordinator” means the head of the Office of the National Coordinator for Health Information Technology established under section 300jj–11(a) of this title .
   - **(12)** The term “pharmacist” has the meaning given such term in section 384(2) of title 21 .
@@ -32,4 +35,4 @@ In this subchapter:
       - **(ii)** to support physician order entry;
       - **(iii)** to capture and query information relevant to health care quality; and
       - **(iv)** to exchange electronic health information with, and integrate such information from other sources.
-  - **(14)** The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+  - **(15)** The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.

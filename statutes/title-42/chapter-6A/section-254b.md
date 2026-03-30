@@ -3,9 +3,9 @@ title: "Section 254b - Health centers"
 usc_title: 42
 usc_section: "254b"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 254b"
-generated_at: "2026-03-30T05:54:40.066Z"
+generated_at: "2026-03-30T05:56:22.359Z"
 status: "active"
 ---
 
@@ -163,7 +163,7 @@ status: "active"
   - **(4)** If any grantee under this subsection has provided services described in this section under the grant to a homeless individual, such grantee may, notwithstanding that the individual is no longer homeless as a result of becoming a resident in permanent housing, expend the grant to continue to provide such services to the individual for not more than 12 months.
   - **(5)** For purposes of this section:
     - **(A)** The term “homeless individual” means an individual who lacks housing (without regard to whether the individual is a member of a family), including an individual whose primary residence during the night is a supervised public or private facility that provides temporary living accommodations and an individual who is a resident in transitional housing.
-    - **(B)** The term “substance abuse” has the same meaning given such term in section 290cc–34(4) of this title .
+    - **(B)** The term “substance abuse” has the same meaning given such term in section 290cc–34(4) 1 of this title.
     - **(C)** The term “substance abuse services” includes detoxification, risk reduction, outpatient treatment, residential treatment, and rehabilitation for substance abuse provided in settings other than hospitals.
 - **(i)**
   - **(1)** The Secretary may award grants for the purposes described in subsections (c), (e), and (f) for the planning and delivery of services to a special medically underserved population comprised of residents of public housing (such term, for purposes of this subsection, shall have the same meaning given such term in section 1437a(b)(1) of this title ) and individuals living in areas immediately accessible to such public housing.

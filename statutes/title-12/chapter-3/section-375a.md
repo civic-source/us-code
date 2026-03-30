@@ -3,9 +3,9 @@ title: "Section 375a - Loans to executive officers of banks"
 usc_title: 12
 usc_section: "375a"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 375a"
-generated_at: "2026-03-30T05:52:55.759Z"
+generated_at: "2026-03-30T05:55:26.949Z"
 status: "active"
 ---
 

@@ -1,27 +1,13 @@
 ---
-title: "Section 2249a - Prohibition on providing financial assistance to terrorist countries"
+title: "Section 2249a - Renumbered § 361]"
 usc_title: 10
 usc_section: "2249a"
 chapter: 134
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2249a"
-generated_at: "2026-03-30T05:52:47.174Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.294Z"
+status: "renumbered"
 ---
 
-# § 2249a. Prohibition on providing financial assistance to terrorist countries
+# [§ 2249a. Renumbered § 361]
 
-- **(a)** Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
-  - **(1)** any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)); 1 1 See References in Text note below.
-  - **(2)** any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ( 22 U.S.C. 2656f ), as providing significant support for international terrorism; or
-  - **(3)** any other country that, as determined by the President—
-    - **(A)** grants sanctuary from prosecution to any individual or group that has committed an act of international terrorism; or
-    - **(B)** otherwise supports international terrorism.
-- **(b)**
-  - **(1)** The President may waive the application of subsection (a) to a country if the President determines—
-    - **(A)** that it is in the national security interests of the United States to do so; or
-    - **(B)** that the waiver should be granted for humanitarian reasons.
-  - **(2)** The President shall—
-    - **(A)** notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives at least 15 days before the waiver takes effect; and
-    - **(B)** publish a notice of the waiver in the Federal Register.
-- **(c)** In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ( 22 U.S.C. 2656f(d) ).

@@ -3,9 +3,9 @@ title: "Section 3414 - Fiscal accountability"
 usc_title: 25
 usc_section: "3414"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "25 U.S.C. § 3414"
-generated_at: "2026-03-30T05:53:16.823Z"
+generated_at: "2026-03-30T05:55:47.722Z"
 status: "active"
 ---
 

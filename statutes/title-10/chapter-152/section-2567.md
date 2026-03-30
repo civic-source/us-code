@@ -1,13 +1,21 @@
 ---
-title: "Section 2567 - Repealed. Pub. L. 110–181, div. A, title X , § 1068(b)(1), Jan. 28, 2008 , 122 Stat. 326 ]"
+title: "Section 2567 - Space and services: provision to WIC offices"
 usc_title: 10
 usc_section: "2567"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2567"
-generated_at: "2026-03-30T05:52:47.194Z"
-status: "repealed"
+generated_at: "2026-03-30T05:55:13.315Z"
+status: "active"
 ---
 
-# [§ 2567. Repealed. Pub. L. 110–181, div. A, title X , § 1068(b)(1), Jan. 28, 2008 , 122 Stat. 326 ]
+# § 2567. Space and services: provision to WIC offices
 
+- **(a)** Upon application by a WIC office, the Secretary of a military department may allot space on a military installation under the jurisdiction of the Secretary to the WIC office without charge for rent or services if the Secretary determines that—
+  - **(1)** the WIC office provides or will provide services solely to members of the armed forces assigned to the installation, civilian employees of the Department of Defense employed at the installation, or dependents of such members or employees;
+  - **(2)** space is available on the installation;
+  - **(3)** operation of the WIC office will not hinder military mission requirements; and
+  - **(4)** the security situation at the installation permits the presence of a non-Federal entity on the installation.
+- **(b)** In this section:
+  - **(1)** The term “services” includes the provision of lighting, heating, cooling, and electricity.
+  - **(2)** The term “WIC office” means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1786 )) that participates in the special supplemental nutrition program for women, infants, and children under such section.

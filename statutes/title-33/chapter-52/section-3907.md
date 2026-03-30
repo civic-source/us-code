@@ -3,9 +3,9 @@ title: "Section 3907 - Determination of eligibility and project selection"
 usc_title: 33
 usc_section: "3907"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 3907"
-generated_at: "2026-03-30T05:53:40.462Z"
+generated_at: "2026-03-30T05:56:05.902Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(D)**
       - **(i)** The Secretary or the Administrator, as applicable, shall require each project applicant to provide, at the time of application, a preliminary rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project (which may be the Federal credit instrument) have the potential to achieve an investment-grade rating.
       - **(ii)** The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, final rating opinion letters from at least 2 rating agencies indicating that the senior obligations of the project have an investment-grade rating.
-    - **(E)** The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under section 3905(8) of this title or an entity for a project under section 3905(9) of this title , which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.
+    - **(E)** The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under section 3905(9) of this title or an entity for a project under section 3905(10) of this title , which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.
   - **(2)**
     - **(A)** Subject to subparagraph (B), the eligible project costs of a project shall be reasonably anticipated to be not less than $20,000,000.
     - **(B)** For a project described in paragraph (2) or (3) of section 3905 of this title that serves a community of not more than 25,000 individuals, the eligible project costs of a project shall be reasonably anticipated to be not less than $5,000,000.
@@ -64,5 +64,5 @@ status: "active"
     - **(I)** The extent to which the project addresses identified municipal, State, or regional priorities.
     - **(J)** The readiness of the project to proceed toward development, including a demonstration by the obligor that there is a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
     - **(K)** The extent to which assistance under this chapter reduces the contribution of Federal assistance to the project.
-  - **(3)** For a project described in section 3905(8) of this title , the Administrator shall only consider the criteria described in subparagraphs (B) through (K) of paragraph (2).
+  - **(3)** For a project described in section 3905(9) of this title , the Administrator shall only consider the criteria described in subparagraphs (B) through (K) of paragraph (2).
 - **(c)** Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).

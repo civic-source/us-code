@@ -3,9 +3,9 @@ title: "Section 5754 - Restriction on importation of previously exported tobacco
 usc_title: 26
 usc_section: "5754"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 5754"
-generated_at: "2026-03-30T05:53:36.576Z"
+generated_at: "2026-03-30T05:56:02.451Z"
 status: "active"
 ---
 

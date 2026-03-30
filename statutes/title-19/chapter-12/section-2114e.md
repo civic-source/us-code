@@ -3,9 +3,9 @@ title: "Section 2114e - Negotiation of agreements concerning high technology ind
 usc_title: 19
 usc_section: "2114e"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "19 U.S.C. § 2114e"
-generated_at: "2026-03-30T05:53:13.060Z"
+generated_at: "2026-03-30T05:55:33.002Z"
 status: "active"
 ---
 

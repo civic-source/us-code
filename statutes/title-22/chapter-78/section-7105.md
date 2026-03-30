@@ -3,9 +3,9 @@ title: "Section 7105 - Protection and assistance for victims of trafficking"
 usc_title: 22
 usc_section: "7105"
 chapter: 78
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 7105"
-generated_at: "2026-03-30T05:53:23.605Z"
+generated_at: "2026-03-30T05:55:51.150Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(A)** Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [ 8 U.S.C. 1601 et seq.], an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8 , shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8 .
     - **(B)**
       - **(i)** Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8 , without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
-      - **(ii)** Beginning in fiscal year 2017, and in each fiscal year thereafter, of amounts made available for grants under paragraph (2), the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
+      - **(ii)** Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
     - **(C)** For the purposes of this paragraph, the term “victim of a severe form of trafficking in persons” means only a person—
       - **(i)** who has been subjected to an act or practice described in section 7102(8) of this title as in effect on October 28, 2000 ; and
       - **(ii)**

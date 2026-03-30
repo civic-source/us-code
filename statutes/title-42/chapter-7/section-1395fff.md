@@ -3,9 +3,9 @@ title: "Section 1395fff - Prospective payment for home health services"
 usc_title: 42
 usc_section: "1395fff"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395fff"
-generated_at: "2026-03-30T05:54:40.295Z"
+generated_at: "2026-03-30T05:56:22.597Z"
 status: "active"
 ---
 
@@ -59,12 +59,12 @@ status: "active"
   - **(1)** the claim has the unique identifier (provided under section 1395u(r) of this title ) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title; and
   - **(2)** in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title , the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments.
 - **(d)** There shall be no administrative or judicial review under section 1395ff of this title , 1395 oo of this title, or otherwise of—
-  - **(1)** the establishment of a transition period under subsection (b)(1) of this section;
-  - **(2)** the definition and application of payment units under subsection (b)(2) of this section;
-  - **(3)** the computation of initial standard prospective payment amounts under subsection (b)(3)(A) of this section (including the reduction described in clause (ii) of such subsection);
-  - **(4)** the establishment of the adjustment for outliers under subsection (b)(3)(C) of this section;
-  - **(5)** the establishment of case mix and area wage adjustments under subsection (b)(4) of this section; and
-  - **(6)** the establishment of any adjustments for outliers under subsection (b)(5) of this section.
+  - **(1)** the establishment of a transition period under subsection (b)(1);
+  - **(2)** the definition and application of payment units under subsection (b)(2);
+  - **(3)** the computation of initial standard prospective payment amounts under subsection (b)(3)(A) (including the reduction described in clause (ii) of such subsection);
+  - **(4)** the establishment of the adjustment for outliers under subsection (b)(3)(C);
+  - **(5)** the establishment of case mix and area wage adjustments under subsection (b)(4); and
+  - **(6)** the establishment of any adjustments for outliers under subsection (b)(5).
 - **(e)**
   - **(1)** Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
     - **(A)** do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and

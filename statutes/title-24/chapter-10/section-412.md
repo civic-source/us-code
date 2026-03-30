@@ -3,9 +3,9 @@ title: "Section 412 - Residents of Retirement Home"
 usc_title: 24
 usc_section: "412"
 chapter: 10
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "24 U.S.C. § 412"
-generated_at: "2026-03-30T05:53:18.806Z"
+generated_at: "2026-03-30T05:55:45.863Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** were discharged or released from service in the Armed Forces under honorable conditions after 20 or more years of active service.
   - **(2)** Persons who are determined under rules prescribed by the Chief Operating Officer to be incapable of earning a livelihood because of a service-connected disability incurred in the line of duty in the Armed Forces.
   - **(3)** Persons who—
-    - **(A)** served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 of title 37 ;
+    - **(A)** served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37;
     - **(B)** were discharged or released from service in the Armed Forces under honorable conditions; and
     - **(C)** are determined under rules prescribed by the Chief Operating Officer to be incapable of earning a livelihood because of injuries, disease, or disability.
   - **(4)** Persons who—

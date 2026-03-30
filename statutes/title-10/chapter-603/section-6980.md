@@ -3,9 +3,9 @@ title: "Section 6980 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "6980"
 chapter: 603
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 6980"
-generated_at: "2026-03-30T05:52:47.222Z"
+generated_at: "2026-03-30T05:55:13.343Z"
 status: "active"
 ---
 

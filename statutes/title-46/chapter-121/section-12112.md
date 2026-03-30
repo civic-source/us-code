@@ -3,9 +3,9 @@ title: "Section 12112 - Coastwise endorsement"
 usc_title: 46
 usc_section: "12112"
 chapter: 121
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 12112"
-generated_at: "2026-03-30T05:54:44.420Z"
+generated_at: "2026-03-30T05:56:26.702Z"
 status: "active"
 ---
 

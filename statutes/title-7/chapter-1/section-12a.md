@@ -3,9 +3,9 @@ title: "Section 12a - Registration of commodity dealers and associated persons; 
 usc_title: 7
 usc_section: "12a"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "7 U.S.C. § 12a"
-generated_at: "2026-03-30T05:52:41.069Z"
+generated_at: "2026-03-30T05:55:20.390Z"
 status: "active"
 ---
 

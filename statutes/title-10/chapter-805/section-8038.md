@@ -3,9 +3,9 @@ title: "Section 8038 - Office of Air Force Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "8038"
 chapter: 805
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 8038"
-generated_at: "2026-03-30T05:52:47.228Z"
+generated_at: "2026-03-30T05:55:13.350Z"
 status: "active"
 ---
 
@@ -21,9 +21,7 @@ status: "active"
   - **(4)** Until December 31, 2006 , the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Air Force Reserve if the Secretary of the Air Force requests the waiver and, in the judgment of the Secretary of Defense—
     - **(A)** the officer is qualified for service in the position; and
     - **(B)** the waiver is necessary for the good of the service.
-- **(c)**
-  - **(1)** The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
-  - **(2)** The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.
+- **(c)** The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
 - **(d)** The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air Force Reserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
 - **(e)** The Chief of Air Force Reserve manages, with respect to the Air Force Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
 - **(f)**

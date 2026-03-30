@@ -3,9 +3,9 @@ title: "Section 7212 - Repealed. Pub. L. 104–106, div. D, title XLIII , § 430
 usc_title: 42
 usc_section: "7212"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 7212"
-generated_at: "2026-03-30T05:54:40.518Z"
+generated_at: "2026-03-30T05:56:22.822Z"
 status: "repealed"
 ---
 

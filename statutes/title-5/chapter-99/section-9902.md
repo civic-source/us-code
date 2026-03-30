@@ -3,9 +3,9 @@ title: "Section 9902 - Department of Defense personnel authorities"
 usc_title: 5
 usc_section: "9902"
 chapter: 99
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 9902"
-generated_at: "2026-03-30T05:52:33.979Z"
+generated_at: "2026-03-30T05:55:06.602Z"
 status: "active"
 ---
 
@@ -59,7 +59,7 @@ status: "active"
   - **(5)** include effective transparency and accountability measures and safeguards to ensure that the management of such system is fair, credible, and equitable, including appropriate independent reasonableness reviews, internal assessments, and employee surveys;
   - **(6)** provide mentors to advise individuals on their career paths and opportunities to advance and excel within their fields;
   - **(7)** develop appropriate procedures for warnings during performance evaluations for employees who fail to meet performance standards;
-  - **(8)** utilize the annual strategic workforce plan, required by section 115b of title 10 ; and
+  - **(8)** utilize the annual strategic workforce plan, required by section 115b 1 1 See References in Text note below. of title 10; and
   - **(9)** ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
 - **(d)**
   - **(1)** The Secretary shall develop—

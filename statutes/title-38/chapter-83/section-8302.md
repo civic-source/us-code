@@ -3,9 +3,9 @@ title: "Section 8302 - Legal proceedings"
 usc_title: 38
 usc_section: "8302"
 chapter: 83
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 8302"
-generated_at: "2026-03-30T05:54:20.244Z"
+generated_at: "2026-03-30T05:56:09.526Z"
 status: "active"
 ---
 

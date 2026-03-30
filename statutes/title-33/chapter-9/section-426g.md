@@ -3,9 +3,9 @@ title: "Section 426g - Storm and hurricane restoration and impact minimization p
 usc_title: 33
 usc_section: "426g"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 426g"
-generated_at: "2026-03-30T05:53:40.395Z"
+generated_at: "2026-03-30T05:56:05.838Z"
 status: "active"
 ---
 
@@ -72,4 +72,4 @@ status: "active"
   - **(1)** Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $30,000,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
   - **(2)** The total amount expended for a project under this section shall—
     - **(A)** be sufficient to pay the cost of Federal participation in the project (including periodic nourishment as provided for under section 426e of this title ), as determined by the Secretary; and
-    - **(B)** be not more than $5,000,000.
+    - **(B)** be not more than $10,000,000.

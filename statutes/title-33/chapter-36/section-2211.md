@@ -3,19 +3,19 @@ title: "Section 2211 - Harbors"
 usc_title: 33
 usc_section: "2211"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2211"
-generated_at: "2026-03-30T05:53:40.441Z"
+generated_at: "2026-03-30T05:56:05.881Z"
 status: "active"
 ---
 
 # § 2211. Harbors
 
 - **(a)**
-  - **(1)** The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before November 17, 1986 , shall pay, during the period of construction of the project, the following costs associated with general navigation features:
+  - **(1)** The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before June 10, 2014 , shall pay, during the period of construction of the project, the following costs associated with general navigation features:
     - **(A)** 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
-    - **(B)** 25 percent of the cost of construction of the portion of the project which has a depth in excess of 20 feet but not in excess of 45 feet; plus
-    - **(C)** 50 percent of the cost of construction of the portion of the project which has a depth in excess of 45 feet.
+    - **(B)** 25 percent of the cost of construction of the portion of the project which has a depth in excess of 20 feet but not in excess of 50 feet; plus
+    - **(C)** 50 percent of the cost of construction of the portion of the project which has a depth in excess of 50 feet.
   - **(2)** The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title . The value of lands, easements, rights-of-way, and relocations provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.
   - **(3)** Except as provided under section 2283(c) of this title , the non-Federal interests for a project to which paragraph (1) applies shall provide the lands, easements, rights-of-way, and relocations (other than utility relocations under paragraph (4)) necessary for the project, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities.
   - **(4)** The non-Federal interests for a project to which paragraph (1) applies shall perform or assure the performance of all relocations of utilities necessary to carry out the project, except that in the case of a project for a deep-draft harbor and in the case of a project constructed by non-Federal interests under section 2232 of this title , one-half of the cost of each such relocation shall be borne by the owner of the facility being relocated and one-half of the cost of each such relocation shall be borne by the non-Federal interests.

@@ -3,9 +3,9 @@ title: "Section 5014 - Office of the Secretary of the Navy"
 usc_title: 10
 usc_section: "5014"
 chapter: 503
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5014"
-generated_at: "2026-03-30T05:52:47.215Z"
+generated_at: "2026-03-30T05:55:13.336Z"
 status: "active"
 ---
 
@@ -54,4 +54,5 @@ status: "active"
   - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Navy assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 2,866.
   - **(2)** Not more than 1,720 officers of the Navy and Marine Corps on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps.
   - **(3)** The total number of general and flag officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 74.
-  - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
+  - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
+  - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

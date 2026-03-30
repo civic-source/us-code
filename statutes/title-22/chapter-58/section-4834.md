@@ -3,9 +3,9 @@ title: "Section 4834 - Findings and recommendations by a Board"
 usc_title: 22
 usc_section: "4834"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 4834"
-generated_at: "2026-03-30T05:53:23.585Z"
+generated_at: "2026-03-30T05:55:51.129Z"
 status: "active"
 ---
 
@@ -18,9 +18,9 @@ status: "active"
   - **(4)** the impact of intelligence and information availability; and
   - **(5)** such other facts and circumstances which may be relevant to the appropriate security management of United States missions abroad.
 - **(b)** A Board shall submit its findings (which may be classified to the extent deemed necessary by the Board) to the Secretary of State, together with recommendations as appropriate to improve the security and efficiency of any program or operation which the Board has reviewed.
-- **(c)** Whenever a Board finds reasonable cause to believe that an individual described in section 4833(a)(1)(B) of this title has breached the duty of that individual, the Board shall—
+- **(c)** If a Board finds reasonable cause to believe that an individual described in section 4833(a)(1)(B) of this title has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a), the Board shall—
   - **(1)** notify the individual concerned,
-  - **(2)** transmit the finding of reasonable cause, together with all information relevant to such finding, to the head of the appropriate Federal agency or instrumentality, and
+  - **(2)** transmit the findings of reasonable cause, together with all information relevant to such findings, to the head of the appropriate Federal agency or instrumentality, and
   - **(3)** recommend that such agency or instrumentality initiate an appropriate investigatory or disciplinary action.
 - **(d)**
   - **(1)** In any case in which a Board transmits recommendations to the Secretary of State under subsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.

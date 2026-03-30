@@ -3,9 +3,9 @@ title: "Section 403g - Establishment; minimum area"
 usc_title: 16
 usc_section: "403g"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 403g"
-generated_at: "2026-03-30T05:53:07.586Z"
+generated_at: "2026-03-30T05:55:38.066Z"
 status: "active"
 ---
 

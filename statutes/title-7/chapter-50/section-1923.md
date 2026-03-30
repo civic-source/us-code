@@ -3,9 +3,9 @@ title: "Section 1923 - Purposes of loans"
 usc_title: 7
 usc_section: "1923"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "7 U.S.C. § 1923"
-generated_at: "2026-03-30T05:52:41.140Z"
+generated_at: "2026-03-30T05:55:20.467Z"
 status: "active"
 ---
 

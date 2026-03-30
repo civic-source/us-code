@@ -3,9 +3,9 @@ title: "Section 7299a - Construction of combatant and escort vessels and assignm
 usc_title: 10
 usc_section: "7299a"
 chapter: 633
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 7299a"
-generated_at: "2026-03-30T05:52:47.223Z"
+generated_at: "2026-03-30T05:55:13.345Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
     - **(B)** may not award such contract to a firm other than a firm that will perform the work at the homeport of the vessel.
   - **(2)** Paragraph (1) applies notwithstanding subsection (a) or any other provision of law.
   - **(3)** Paragraph (1) does not apply in the case of voyage repairs.
-  - **(4)** In this subsection, the term “short-term work” means work that will be for a period of six months or less.
+  - **(4)** In this subsection, the term “short-term work” means work that will be for a period of 10 months or less.

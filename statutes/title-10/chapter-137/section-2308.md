@@ -3,9 +3,9 @@ title: "Section 2308 - Buy-to-budget acquisition: end items"
 usc_title: 10
 usc_section: "2308"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2308"
-generated_at: "2026-03-30T05:52:47.178Z"
+generated_at: "2026-03-30T05:55:13.298Z"
 status: "active"
 ---
 
@@ -19,7 +19,9 @@ status: "active"
 - **(b)** The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall include, at a minimum, the following:
   - **(1)** The level of approval within the Department of Defense that is required for a decision to acquire a higher quantity of an end item under subsection (a).
   - **(2)** Authority (subject to subsection (a)) to acquire up to 10 percent more than the quantity of an end item approved in a justification and approval of the use of procedures other than competitive procedures for the acquisition of the end item under section 2304 of this title .
-- **(c)** The head of an agency is not required to notify Congress in advance regarding a decision under the authority of this section to acquire a higher quantity of an end item than is specified in a law described in subsection (a), but shall notify the congressional defense committees of the decision not later than 30 days after the date of the decision.
+- **(c)**
+  - **(1)** The head of an agency is not required to notify Congress in advance regarding a decision under the authority of this section to acquire a higher quantity of an end item than is specified in a law described in subsection (a), but, except as provided in paragraph (2), shall notify the congressional defense committees of the decision not later than 30 days after the date of the decision.
+  - **(2)** A notification is not required under paragraph (1) if the end item being acquired in a higher quantity is an end item under a tactical missile program or a munitions program.
 - **(d)** A provision of law may not be construed as prohibiting the acquisition of a higher quantity of an end item under this section unless that provision of law—
   - **(1)** specifically refers to this section; and
   - **(2)** specifically states that the acquisition of the higher quantity of the end item is prohibited notwithstanding the authority provided in this section.

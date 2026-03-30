@@ -3,9 +3,9 @@ title: "Section 3104 - Survival craft"
 usc_title: 46
 usc_section: "3104"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 3104"
-generated_at: "2026-03-30T05:54:44.408Z"
+generated_at: "2026-03-30T05:56:26.689Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** The Secretary shall require that a passenger vessel be equipped with survival craft that ensures that no part of an individual is immersed in water, if—
   - **(1)** such vessel is built or undergoes a major conversion after January 1, 2016 ; and
   - **(2)** operates in cold waters as determined by the Secretary.
-- **(b)** The Secretary may revise part 117 or part 180 of title 46, Code of Federal Regulations, as in effect before January 1, 2016 , if such revision provides a higher standard of safety than is provided by the regulations in effect on or before the date of the enactment of the Coast Guard Authorization Act of 2015.
-- **(c)** The Secretary may, in lieu of the requirements set out in part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2015, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
+- **(b)** The Secretary may revise part 117 or part 180 of title 46, Code of Federal Regulations, as in effect before January 1, 2016 , if such revision provides a higher standard of safety than is provided by the regulations in effect on or before the date of the enactment of the Coast Guard Authorization Act of 2016.
+- **(c)** The Secretary may, in lieu of the requirements set out in part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2016, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
   - **(1)** ensures no part of an individual is immersed in water; and
   - **(2)** provides an equal or higher standard of safety than is provided by such requirements as in effect before such date of the enactment.
 - **(d)** In this section, the term “built” has the meaning that term has under section 4503(e).

@@ -3,9 +3,9 @@ title: "Section 2165 - Security restrictions"
 usc_title: 42
 usc_section: "2165"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 2165"
-generated_at: "2026-03-30T05:54:40.391Z"
+generated_at: "2026-03-30T05:56:22.696Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
     - **(A)** in a program certified by a majority of the members of the Commission to be of a high degree of importance or sensitivity; or
     - **(B)** in any other specific position certified by a majority of the members of the Commission to be of a high degree of importance or sensitivity.
 - **(g)** The Commission shall establish standards and specifications in writing as to the scope and extent of investigations, the reports of which will be utilized by the Commission in making the determination, pursuant to subsections (a), (b), and (c) of this section, that permitting a person access to restricted data will not endanger the common defense and security. Such standards and specifications shall be based on the location and class or kind of work to be done, and shall, among other considerations, take into account the degree of importance to the common defense and security of the restricted data to which access will be permitted.
-- **(h)** Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
+- **(h)** Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b), to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.

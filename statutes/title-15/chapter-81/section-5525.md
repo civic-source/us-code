@@ -1,15 +1,13 @@
 ---
-title: "Section 5525 - Environmental Protection Agency activities"
+title: "Section 5525 - Repealed. Pub. L. 114–329, title I , § 105(n), Jan. 6, 2017 , 130 Stat. 2984"
 usc_title: 15
 usc_section: "5525"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 5525"
-generated_at: "2026-03-30T05:52:57.841Z"
-status: "active"
+generated_at: "2026-03-30T05:55:29.376Z"
+status: "repealed"
 ---
 
-# § 5525. Environmental Protection Agency activities
+# § 5525. Repealed. Pub. L. 114–329, title I , § 105(n), Jan. 6, 2017 , 130 Stat. 2984
 
-- **(a)** As part of the Program described in subchapter I, the Environmental Protection Agency shall conduct basic and applied research directed toward the advancement and dissemination of computational techniques and software tools which form the core of ecosystem, atmospheric chemistry, and atmospheric dynamics models.
-- **(b)** From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the Environmental Protection Agency for the purposes of the Program $5,000,000 for fiscal year 1992; $5,500,000 for fiscal year 1993; $6,000,000 for fiscal year 1994; $6,500,000 for fiscal year 1995; and $7,000,000 for fiscal year 1996.

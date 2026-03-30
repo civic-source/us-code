@@ -3,9 +3,9 @@ title: "Section 5043 - Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "5043"
 chapter: 506
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5043"
-generated_at: "2026-03-30T05:52:47.216Z"
+generated_at: "2026-03-30T05:55:13.337Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of four years from the general officers of the Marine Corps. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
   - **(2)** The President may appoint an officer as Commandant of the Marine Corps only if—
     - **(A)** the officer has had significant experience in joint duty assignments; and
-    - **(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) of this title ) as a general officer.
+    - **(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1 1 See References in Text note below. of this title) as a general officer.
   - **(3)** The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 - **(b)** The Commandant of the Marine Corps, while so serving, has the grade of general without vacating his permanent grade.
 - **[(c)** Repealed. Pub. L. 104–106, div. A, title V , § 502(c), Feb. 10, 1996 , 110 Stat. 293 .]

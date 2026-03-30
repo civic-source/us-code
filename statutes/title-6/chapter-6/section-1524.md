@@ -3,9 +3,9 @@ title: "Section 1524 - Assessment; reports"
 usc_title: 6
 usc_section: "1524"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "6 U.S.C. § 1524"
-generated_at: "2026-03-30T05:52:37.256Z"
+generated_at: "2026-03-30T05:55:09.998Z"
 status: "active"
 ---
 

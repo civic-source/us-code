@@ -3,9 +3,9 @@ title: "Section 8914 - Effect of other statutes"
 usc_title: 5
 usc_section: "8914"
 chapter: 89
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 8914"
-generated_at: "2026-03-30T05:52:33.975Z"
+generated_at: "2026-03-30T05:55:06.599Z"
 status: "active"
 ---
 

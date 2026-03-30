@@ -3,9 +3,9 @@ title: "Section 6435a - Standards of conduct and disclosure"
 usc_title: 22
 usc_section: "6435a"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 6435a"
-generated_at: "2026-03-30T05:53:23.597Z"
+generated_at: "2026-03-30T05:55:51.142Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** a nongovernmental agency or project of which that member, or a relative of that member, of the Commission is an officer, trustee, partner, director, or employee.
 - **(c)**
   - **(1)** Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5 , except that the Commission may not expend more than $250,000 in any fiscal year to procure such services.
-  - **(2)** In the case of a study requested under section 6474 of this title , the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
+  - **(2)** In the case of a study requested under section 6474 2 2 See References in Text note below. of this title, the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
 - **(d)**
   - **(1)** In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
   - **(2)** This subsection shall not apply to the following:

@@ -3,9 +3,9 @@ title: "Section 1885a - Women in science and engineering; support of activities 
 usc_title: 42
 usc_section: "1885a"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1885a"
-generated_at: "2026-03-30T05:54:40.371Z"
+generated_at: "2026-03-30T05:56:22.676Z"
 status: "active"
 ---
 
@@ -27,5 +27,6 @@ The Foundation is authorized to—
   - **(7)** support activities of museums and science centers which demonstrate potential to interest and involve women in science and engineering;
   - **(8)** make grants, to be known as the National Research Opportunity Grants, to women scientists and engineers who (A) have received their doctorates within five years prior to the date of the award or (B) have received their doctorates, have had their careers interrupted, and are re-entering the work force within five years after such interruption;
   - **(9)** make grants to women eligible under paragraph (8) to assist such women in planning and developing a research project eligible for support under such paragraph;
-  - **(10)** provide support to individuals or academic institutions for full-time or part-time visiting professorships for women in science and engineering; and
-  - **(11)** support demonstration project activities of individuals, public agencies, and private entities designed to encourage the employment and advancement of women in science and engineering.
+  - **(10)** provide support to individuals or academic institutions for full-time or part-time visiting professorships for women in science and engineering;
+  - **(11)** support demonstration project activities of individuals, public agencies, and private entities designed to encourage the employment and advancement of women in science and engineering; and
+  - **(12)** encourage its entrepreneurial programs to recruit and support women to extend their focus beyond the laboratory and into the commercial world.

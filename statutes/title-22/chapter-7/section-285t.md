@@ -3,9 +3,9 @@ title: "Section 285t - Additional contribution to special funds; authorization o
 usc_title: 22
 usc_section: "285t"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 285t"
-generated_at: "2026-03-30T05:53:23.502Z"
+generated_at: "2026-03-30T05:55:51.043Z"
 status: "active"
 ---
 

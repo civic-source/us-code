@@ -3,9 +3,9 @@ title: "Section 582 - Repealed. Pub. L. 104–320 , § 4(b)(1), Oct. 19, 1996 , 
 usc_title: 5
 usc_section: "582"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 582"
-generated_at: "2026-03-30T05:52:33.925Z"
+generated_at: "2026-03-30T05:55:06.549Z"
 status: "repealed"
 ---
 

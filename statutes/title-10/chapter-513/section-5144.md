@@ -3,9 +3,9 @@ title: "Section 5144 - Office of Marine Forces Reserve: appointment of Commander
 usc_title: 10
 usc_section: "5144"
 chapter: 513
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5144"
-generated_at: "2026-03-30T05:52:47.216Z"
+generated_at: "2026-03-30T05:55:13.338Z"
 status: "active"
 ---
 
@@ -21,9 +21,7 @@ status: "active"
   - **(4)** Until December 31, 2006 , the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
     - **(A)** the officer is qualified for service in the position; and
     - **(B)** the waiver is necessary for the good of the service.
-- **(c)**
-  - **(1)** The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
-  - **(2)** The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.
+- **(c)** The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
 - **(d)**
   - **(1)** The Commander, Marine Forces Reserve, shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Marine Corps Reserve and the ability of the Marine Corps Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant of the Marine Corps and may be submitted in classified and unclassified versions.
   - **(2)** The Secretary of Defense shall transmit the annual report of the Commander, Marine Forces Reserve, under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.

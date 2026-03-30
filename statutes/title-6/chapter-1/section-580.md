@@ -3,9 +3,9 @@ title: "Section 580 - Border interoperability demonstration project"
 usc_title: 6
 usc_section: "580"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "6 U.S.C. § 580"
-generated_at: "2026-03-30T05:52:37.241Z"
+generated_at: "2026-03-30T05:55:09.983Z"
 status: "active"
 ---
 

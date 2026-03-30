@@ -3,9 +3,9 @@ title: "Section 2006 - Reports to Congress"
 usc_title: 16
 usc_section: "2006"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 2006"
-generated_at: "2026-03-30T05:53:07.742Z"
+generated_at: "2026-03-30T05:55:38.226Z"
 status: "active"
 ---
 

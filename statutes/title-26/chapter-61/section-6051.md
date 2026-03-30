@@ -3,9 +3,9 @@ title: "Section 6051 - Receipts for employees"
 usc_title: 26
 usc_section: "6051"
 chapter: 61
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 6051"
-generated_at: "2026-03-30T05:53:36.583Z"
+generated_at: "2026-03-30T05:56:02.458Z"
 status: "active"
 ---
 
@@ -24,10 +24,11 @@ status: "active"
   - **(10)** in the case of an employee who is a member of the Armed Forces of the United States, such employee’s earned income as determined for purposes of section 32 (relating to earned income credit),
   - **(11)** the amount contributed to any Archer MSA (as defined in section 220(d)) of such employee or such employee’s spouse,
   - **(12)** the amount contributed to any health savings account (as defined in section 223(d)) of such employee or such employee’s spouse,
-  - **(13)** the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)), and
+  - **(13)** the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)),
   - **(14)** the aggregate cost (determined under rules similar to the rules of section 4980B(f)(4)) of applicable employer-sponsored coverage (as defined in section 4980I(d)(1)), except that this paragraph shall not apply to—
     - **(A)** coverage to which paragraphs (11) and (12) apply, or
-    - **(B)** the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125).
+    - **(B)** the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125), and
+  - **(15)** the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee.
 - **(b)** In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendar year any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
 - **(c)** The statements required to be furnished pursuant to this section in respect of any remuneration shall be furnished at such other times, shall contain such other information, and shall be in such form as the Secretary may by regulations prescribe. The statements required under this section shall also show the proportion of the total amount withheld as tax under section 3101 which is for financing the cost of hospital insurance benefits under part A of title XVIII of the Social Security Act.
 - **(d)** A duplicate of any statement made pursuant to this section and in accordance with regulations prescribed by the Secretary shall, when required by such regulations, be filed with the Secretary.

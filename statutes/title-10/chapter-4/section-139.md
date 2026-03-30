@@ -3,9 +3,9 @@ title: "Section 139 - Director of Operational Test and Evaluation"
 usc_title: 10
 usc_section: "139"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 139"
-generated_at: "2026-03-30T05:52:47.112Z"
+generated_at: "2026-03-30T05:55:13.226Z"
 status: "active"
 ---
 
@@ -38,10 +38,10 @@ status: "active"
 - **(g)** The Director shall ensure that safety concerns developed during the operational test and evaluation of a weapon system under a major defense acquisition program are communicated in a timely manner to the program manager for that program for consideration in the acquisition decisionmaking process.
 - **(h)**
   - **(1)** The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
-  - **(2)** Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Congress not later than 10 days after the transmission of the budget for the next fiscal year under section 1105 of title 31 .
+  - **(2)** Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretaries of the military departments, and the Congress not later than January 31 of each year, through January 31, 2021 .
   - **(3)** If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
   - **(4)** The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
-  - **(5)** The Secretary may comment on any report of the Director to Congress under this subsection.
+  - **(5)** The Secretary of Defense and the Secretaries of the military departments may comment on any report of the Director to Congress under this subsection.
 - **(i)** The Director shall comply with requests from Congress (or any committee of either House of Congress) for information relating to operational test and evaluation in the Department of Defense.
 - **(j)** The President shall include in the Budget transmitted to Congress pursuant to section 1105 of title 31 for each fiscal year a separate statement of estimated expenditures and proposed appropriations for that fiscal year for the activities of the Director of Operational Test and Evaluation in carrying out the duties and responsibilities of the Director under this section.
 - **(k)** The Director shall have sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director prescribed by law.

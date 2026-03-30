@@ -3,9 +3,9 @@ title: "Section 677 - Turnkey selection procedures"
 usc_title: 14
 usc_section: "677"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 677"
-generated_at: "2026-03-30T05:52:49.226Z"
+generated_at: "2026-03-30T05:55:22.801Z"
 status: "active"
 ---
 

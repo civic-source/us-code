@@ -3,9 +3,9 @@ title: "Section 651 - Repealed. Pub. L. 113–281, title II , § 221(a)(2), Dec.
 usc_title: 14
 usc_section: "651"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 651"
-generated_at: "2026-03-30T05:52:49.225Z"
+generated_at: "2026-03-30T05:55:22.800Z"
 status: "repealed"
 ---
 

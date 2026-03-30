@@ -3,9 +3,9 @@ title: "Section 3014 - Office of the Secretary of the Army"
 usc_title: 10
 usc_section: "3014"
 chapter: 303
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3014"
-generated_at: "2026-03-30T05:52:47.207Z"
+generated_at: "2026-03-30T05:55:13.328Z"
 status: "active"
 ---
 
@@ -44,4 +44,5 @@ status: "active"
   - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Army assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 3,105.
   - **(2)** Not more than 1,865 officers of the Army on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff.
   - **(3)** The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 67.
-  - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.
+  - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
+  - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

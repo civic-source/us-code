@@ -3,9 +3,9 @@ title: "Section 3 - Commissioner; appointment and tenure of office; compensation
 usc_title: 29
 usc_section: "3"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "29 U.S.C. § 3"
-generated_at: "2026-03-30T05:53:28.089Z"
+generated_at: "2026-03-30T05:55:54.232Z"
 status: "active"
 ---
 

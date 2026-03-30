@@ -3,9 +3,9 @@ title: "Section 15605 - Grants to protect inmates and safeguard communities"
 usc_title: 42
 usc_section: "15605"
 chapter: 147
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 15605"
-generated_at: "2026-03-30T05:54:40.682Z"
+generated_at: "2026-03-30T05:56:22.983Z"
 status: "active"
 ---
 
@@ -32,9 +32,9 @@ status: "active"
 - **(d)**
   - **(1)** To request a grant under this section, the chief executive of a State shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.
   - **(2)** Each application required by paragraph (1) shall—
-    - **(A)** include the certification of the chief executive that the State receiving such grant—
-      - **(i)** has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; and
-      - **(ii)** will consider adopting all national prison rape standards that are promulgated under this chapter after such date;
+    - **(A)**
+      - **(i)** include the certification of the chief executive that the State receiving such grant has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; or
+      - **(ii)** demonstrate to the Attorney General, in such manner as the Attorney General shall require, that the State receiving such grant is actively working to adopt and achieve full compliance with the national prison rape standards described in clause (i);
     - **(B)** specify with particularity the preventative, prosecutorial, or administrative activities to be undertaken by the State with the amounts received under the grant; and
     - **(C)** in the case of an application for a grant for one or more activities specified in paragraph (2) of subsection (b)—
       - **(i)** review the extent of the budgetary circumstances affecting the State generally and describe how those circumstances relate to the State’s prisons;

@@ -3,9 +3,9 @@ title: "Section 1087ee - Cancellation of loans for certain public service"
 usc_title: 20
 usc_section: "1087ee"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 1087ee"
-generated_at: "2026-03-30T05:53:04.449Z"
+generated_at: "2026-03-30T05:55:35.995Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
       - **(ii)** in one or more public, or nonprofit private, elementary schools or secondary schools or locations operated by an educational service agency that have been determined by the Secretary (pursuant to regulations of the Secretary and after consultation with the State educational agency of the State in which the educational service agency operates) to be a school or location at which the number of children taught who meet a measure of poverty under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6313(a)(5) ], exceeds 30 percent of the total number of children taught at such school or location;
     - **(B)** as a full-time staff member in a preschool program carried on under the Head Start Act [ 42 U.S.C. 9831 et seq.], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
     - **(C)** as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title ;
-    - **(D)** as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310 of title 37 as an area of hostilities;
+    - **(D)** as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37 as an area of hostilities;
     - **(E)** as a volunteer under the Peace Corps Act [ 22 U.S.C. 2501 et seq.] or a volunteer under the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 4950 et seq.];
     - **(F)** as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies, or as a full-time attorney employed in a defender organization established in accordance with section 3006A(g)(2) of title 18 ;
     - **(G)** as a full-time teacher of mathematics, science, foreign languages, bilingual education, or any other field of expertise where the State educational agency determines there is a shortage of qualified teachers;

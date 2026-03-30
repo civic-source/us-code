@@ -3,9 +3,9 @@ title: "Section 70105 - Transportation security cards"
 usc_title: 46
 usc_section: "70105"
 chapter: 701
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 70105"
-generated_at: "2026-03-30T05:54:44.438Z"
+generated_at: "2026-03-30T05:56:26.720Z"
 status: "active"
 ---
 
@@ -24,8 +24,12 @@ status: "active"
     - **(C)** a vessel pilot;
     - **(D)** an individual engaged on a towing vessel that pushes, pulls, or hauls alongside a tank vessel allowed unescorted access to a secure area designated in a vessel security plan approved under section 70103 of this title ;
     - **(E)** an individual with access to security sensitive information as determined by the Secretary;
-    - **(F)** other individuals engaged in port security activities as determined by the Secretary; and
-    - **(G)** other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
+    - **(F)** other individuals engaged in port security activities as determined by the Secretary;
+    - **(G)** a member of the Armed Forces who—
+      - **(i)** is undergoing separation, discharge, or release from the Armed Forces under honorable conditions;
+      - **(ii)** applies for a transportation security card; and
+      - **(iii)** is otherwise eligible for such a card; and
+    - **(H)** other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
   - **(3)** The Secretary may extend for up to one year the expiration of a biometric transportation security card required by this section to align the expiration with the expiration of a license, certificate of registry, or merchant mariner document required under chapter 71 or 73.
 - **(c)**
   - **(1)**
@@ -109,7 +113,9 @@ status: "active"
     - **(A)** the 10 United States ports that the Secretary designates top priority not later than July 1, 2007 ;
     - **(B)** the 40 United States ports that are next in order of priority to the ports described in subparagraph (A) not later than January 1, 2008 ; and
     - **(C)** all other United States ports not later than January 1, 2009 .
-- **(j)** Not later than January 1, 2009 , the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners’ documents on the date of the enactment of the SAFE Port Act.
+- **(j)**
+  - **(1)** The Secretary and the Secretary of Defense shall enter into a memorandum of understanding regarding the submission and processing of applications for transportation security cards under subsection (b)(2)(G).
+  - **(2)** Not later than 30 days after the submission of such an application by an individual who is eligible to submit such an application, the Secretary shall process and approve or deny the application unless an appeal or waiver applies or further application documentation is necessary.
 - **(k)**
   - **(1)**
     - **(A)** The Secretary shall conduct a pilot program to test the business processes, technology, and operational impacts required to deploy transportation security card readers at secure areas of the marine transportation system.

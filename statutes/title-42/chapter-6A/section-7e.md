@@ -3,9 +3,9 @@ title: "Section 7e - Biomedical Advanced Research and Development Authority"
 usc_title: 42
 usc_section: "7e"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T05:54:40.065Z"
+generated_at: "2026-03-30T05:56:22.357Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(B)** promoting countermeasure and product advanced research and development;
     - **(C)** facilitating contacts between interested persons and the offices or employees authorized by the Secretary to advise such persons regarding requirements under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] and under section 262 of this title ; and
     - **(D)** promoting innovation to reduce the time and cost of countermeasure and product advanced research and development.
-  - **(3)** The BARDA shall be headed by a Director (referred to in this section as the “Director”) who shall be appointed by the Secretary and to whom the Secretary shall delegate such functions and authorities as necessary to implement this section.
+  - **(3)** The BARDA shall be headed by a Director (referred to in this section as the “Director”) who shall be appointed by the Secretary and to whom the Secretary shall delegate such functions and authorities as necessary to implement this section, including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section.
   - **(4)**
     - **(A)** To carry out the purpose described in paragraph (2)(A), the Secretary shall—
       - **(i)** facilitate and increase the expeditious and direct communication between the Department of Health and Human Services and relevant persons with respect to countermeasure and product advanced research and development, including by—
@@ -67,6 +67,26 @@ status: "active"
       - **(i)** innovation in technologies that may assist countermeasure and product advanced research and development;
       - **(ii)** research on and development of research tools and other devices and technologies; and
       - **(iii)** research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies.
+    - **(E)**
+      - **(i)** To support the purposes described in paragraph (2), the Secretary, acting through the Director of BARDA, may enter into an agreement (including through the use of grants, contracts, cooperative agreements, or other transactions as described in paragraph (5)) with an independent, nonprofit entity to—
+        - **(I)** foster and accelerate the development and innovation of medical countermeasures and technologies that may assist advanced research and the development of qualified countermeasures and qualified pandemic or epidemic products, including through the use of strategic venture capital practices and methods;
+        - **(II)** promote the development of new and promising technologies that address urgent medical countermeasure needs, as identified by the Secretary;
+        - **(III)** address unmet public health needs that are directly related to medical countermeasure requirements, such as novel antimicrobials for multidrug resistant organisms and multiuse platform technologies for diagnostics, prophylaxis, vaccines, and therapeutics; and
+        - **(IV)** provide expert consultation and advice to foster viable medical countermeasure innovators, including helping qualified countermeasure innovators navigate unique industry challenges with respect to developing chemical, biological, radiological, and nuclear countermeasure products.
+      - **(ii)**
+        - **(I)** To be eligible to enter into an agreement under clause (i) an entity shall—
+        - **(II)** In selecting an entity with which to enter into an agreement under clause (i), the Secretary shall place a high value on the demonstrated experience of the entity in partnering with the Federal Government to meet identified strategic needs.
+      - **(iii)** An entity that enters into an agreement under clause (i) shall not be deemed to be a Federal agency for any purpose, including for any purpose under title 5.
+      - **(iv)** Pursuant to an agreement entered into under this subparagraph, the Secretary, acting through the Director of BARDA, shall provide direction to the entity that enters into an agreement under clause (i). As part of this agreement the Director of BARDA shall—
+        - **(I)** communicate the medical countermeasure needs, requirements, and problems to be addressed by the entity under the agreement;
+        - **(II)** develop a description of work to be performed by the entity under the agreement;
+        - **(III)** provide technical feedback and appropriate oversight over work carried out by the entity under the agreement, including subsequent development and partnerships consistent with the needs and requirements set forth in this subparagraph;
+        - **(IV)** ensure fair consideration of products developed under the agreement in order to maintain competition to the maximum practical extent, as applicable and appropriate under applicable provisions of this section; and
+        - **(V)** ensure, as a condition of the agreement that the entity—
+- **(aa)** has in place a comprehensive set of policies that demonstrate a commitment to transparency and accountability;
+- **(bb)** protects against conflicts of interest through a comprehensive set of policies that address potential conflicts of interest, ethics, disclosure, and reporting requirements;
+- **(cc)** provides monthly accounting on the use of funds provided under such agreement; and
+- **(dd)** provides on a quarterly basis, reports regarding the progress made toward meeting the identified needs set forth in the agreement.
   - **(5)**
     - **(A)**
       - **(i)** The Secretary shall have the authority to enter into other transactions under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10 .
@@ -96,6 +116,11 @@ status: "active"
     - **(C)**
       - **(i)** The Secretary may hire up to 100 highly qualified individuals, or up to 50 percent of the total number of employees, whichever is less, under the authorities provided for in subparagraphs (A) and (B).
       - **(ii)** The Secretary shall report to Congress on a biennial basis on the implementation of this subparagraph.
+      - **(v)** Activities carried out under this subparagraph shall supplement, and not supplant, other activities carried out under this section.
+      - **(vi)** To prevent unnecessary duplication and target resources effectively, nothing in this subparagraph shall be construed to authorize the Secretary to establish within the Department of Health and Human Services an entity for the purposes of carrying out this subparagraph.
+      - **(vii)** Upon request, the Secretary shall provide to Congress the information provided to the Secretary under clause (iv)(V)(dd).
+      - **(viii)** Not later than 4 years after December 13, 2016 , the Comptroller General of the United States shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report, concerning the activities conducted under this subparagraph. Such report shall include recommendations with respect to any agreement or activities carried out pursuant to this subparagraph.
+      - **(ix)** This subparagraph shall have no force or effect after September 30, 2022 .
 - **(d)**
   - **(1)** There is established the Biodefense Medical Countermeasure Development Fund, which shall be available to carry out this section in addition to such amounts as are otherwise available for this purpose.
   - **(2)** To carry out the purposes of this section, there is authorized to be appropriated to the Fund $415,000,000 for each of fiscal years 2014 through 2018, such amounts to remain available until expended.

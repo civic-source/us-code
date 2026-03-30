@@ -3,15 +3,15 @@ title: "Section 3706 - Grants and cooperative agreements"
 usc_title: 15
 usc_section: "3706"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 3706"
-generated_at: "2026-03-30T05:52:57.829Z"
+generated_at: "2026-03-30T05:55:29.364Z"
 status: "active"
 ---
 
 # § 3706. Grants and cooperative agreements
 
-- **(a)** The Secretary may make grants and enter into cooperative agreements according to the provisions of this section in order to assist any activity consistent with this chapter, including activities performed by individuals. The total amount of any such grant or cooperative agreement may not exceed 75 percent of the total cost of the program.
+- **(a)** The Secretary may make grants and enter into cooperative agreements according to the provisions of this section in order to assist any activity consistent with this chapter, including activities performed by individuals.
 - **(b)** Any person or institution may apply to the Secretary for a grant or cooperative agreement available under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Assistant Secretary shall prescribe. The Secretary shall act upon each such application within 90 days after the date on which all required information is received.
 - **(c)**
   - **(1)** Any grant made, or cooperative agreement entered into, under this section shall be subject to the limitations and provisions set forth in paragraph (2) of this subsection, and to such other terms, conditions, and requirements as the Secretary deems necessary or appropriate.

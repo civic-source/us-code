@@ -3,9 +3,9 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-30T05:53:40.443Z"
+generated_at: "2026-03-30T05:56:05.883Z"
 status: "active"
 ---
 
@@ -23,14 +23,12 @@ status: "active"
       - **(ii)** consider the national and regional significance of harbor operations and maintenance; and
       - **(iii)** as appropriate, consider national security and military readiness needs.
     - **(B)** The Secretary shall not allocate funds under paragraph (1) based solely on the tonnage transiting through a harbor.
-  - **(3)** Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each of fiscal years 2015 through 2022, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+  - **(3)** Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
   - **(4)** To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of a single, comprehensive system, recognizing the interdependence of the projects.
 - **(d)**
   - **(1)**
-    - **(A)** For each of fiscal years 2015 through 2024, if priority funds are available, the Secretary shall use the priority funds as follows:
-      - **(i)** 90 percent of the priority funds shall be used for high- and moderate-use harbor projects.
-      - **(ii)** 10 percent of the priority funds shall be used for emerging harbor projects.
-    - **(B)** For each of fiscal years 2015 through 2024, of the priority funds available, the Secretary shall use—
+    - **(A)** For each fiscal year, if priority funds are available, the Secretary shall use at least 10 percent of such funds for emerging harbor projects.
+    - **(B)** For each fiscal year, of the priority funds available, the Secretary shall use—
       - **(i)** not less than 5 percent of such funds for underserved harbor projects; and
       - **(ii)** not less than 10 percent of such funds for projects that are located within the Great Lakes Navigation System.
     - **(C)** In determining which underserved harbor projects shall receive funds under this paragraph, the Secretary shall consider—
@@ -80,7 +78,8 @@ status: "active"
       - **(ii)** identifies the amount of funding requested in the President’s budget for the operation and maintenance costs associated with the harbors and inland harbors, on a project-by-project basis;
       - **(iii)** identifies the unmet operation and maintenance needs associated with the harbors and inland harbors, on a project-by-project basis; and
       - **(iv)** identifies the harbors and inland harbors for which the President will allocate funding over the subsequent 5 fiscal years for operation and maintenance activities, on a project-by-project basis, including the amounts to be allocated for such purposes.
-    - **(B)** The Secretary shall make the report submitted under subparagraph (A) available to the public, including on the Internet.
+    - **(B)** In the first report submitted under subparagraph (A) following December 16, 2016 , the Secretary shall identify, to the maximum extent practicable, transportation cost savings realized by achieving and maintaining the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2), on a project-by-project basis.
+    - **(C)** The Secretary shall make the report submitted under subparagraph (A) available to the public, including on the Internet.
 - **(f)** In this section:
   - **(1)** The term “constructed width and depth” means the width and depth to which a project has been constructed, which may not exceed the authorized width and depth of the project.
   - **(2)** The term “emerging harbor project” means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.

@@ -3,9 +3,9 @@ title: "Section 15261 - Congressional Badge of Bravery Office"
 usc_title: 42
 usc_section: "15261"
 chapter: 145
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 15261"
-generated_at: "2026-03-30T05:54:40.681Z"
+generated_at: "2026-03-30T05:56:22.982Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3485 - Work-study allowance"
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-30T05:54:20.214Z"
+generated_at: "2026-03-30T05:56:09.496Z"
 status: "active"
 ---
 
@@ -18,12 +18,12 @@ status: "active"
     - **(B)** the number of hours worked during the applicable period.
   - **(3)** An agreement described in this paragraph is an agreement of an individual to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with a qualifying work-study activity.
   - **(4)** For the purposes of this section, the term “qualifying work-study activity” means any of the following:
-    - **(A)** The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013 , outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+    - **(A)** The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013 , or the period beginning on June 30, 2017 , and ending on June 30, 2022 , outreach services to servicemembers and veterans furnished by employees of a State approving agency.
     - **(B)** The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
-    - **(C)** The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013 , the provision of such care to veterans in a State home for which payment is made under section 1741 of this title .
+    - **(C)** The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013 , or the period beginning on June 30, 2017 , and ending on June 30, 2022 , the provision of such care to veterans in a State home for which payment is made under section 1741 of this title .
     - **(D)** Any other activity of the Department as the Secretary determines appropriate.
     - **(E)** In the case of an individual who is receiving educational assistance under chapter 1606 or 1607 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
-    - **(F)** During the period preceding June 30, 2013 , an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+    - **(F)** During the period preceding June 30, 2013 , or the period beginning on June 30, 2017 , and ending on June 30, 2022 , an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
     - **(G)** Any activity of a State veterans agency related to providing assistance to veterans in obtaining any benefit under the laws administered by the Secretary or the laws of the State.
     - **(H)** A position working in a Center of Excellence for Veteran Student Success, as established pursuant to part T of title VIII of the Higher Education Act of 1965 ( 20 U.S.C. 1161t et seq.).
     - **(I)** A position working in a cooperative program carried out jointly by the Department and an institution of higher learning.

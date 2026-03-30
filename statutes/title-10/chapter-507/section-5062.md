@@ -3,9 +3,9 @@ title: "Section 5062 - United States Navy: composition; functions"
 usc_title: 10
 usc_section: "5062"
 chapter: 507
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5062"
-generated_at: "2026-03-30T05:52:47.216Z"
+generated_at: "2026-03-30T05:55:13.337Z"
 status: "active"
 ---
 
@@ -15,3 +15,9 @@ status: "active"
 - **(b)** The naval combat forces of the Navy shall include not less than 11 operational aircraft carriers. For purposes of this subsection, an operational aircraft carrier includes an aircraft carrier that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
 - **(c)** All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 - **(d)** The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, and the Navy.
+- **(e)** The Secretary of the Navy shall ensure that—
+  - **(1)** the Navy maintains a minimum of 9 carrier air wings until the earlier of—
+    - **(A)** the date on which additional operationally deployable aircraft carriers can fully support a 10th carrier air wing; or
+    - **(B)** October 1, 2025 ;
+  - **(2)** after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings; and
+  - **(3)** for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.

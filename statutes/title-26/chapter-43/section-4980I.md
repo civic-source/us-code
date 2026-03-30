@@ -3,9 +3,9 @@ title: "Section 4980I - Excise tax on high cost employer-sponsored health covera
 usc_title: 26
 usc_section: "4980I"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 4980I"
-generated_at: "2026-03-30T05:53:36.566Z"
+generated_at: "2026-03-30T05:56:02.441Z"
 status: "active"
 ---
 
@@ -70,7 +70,8 @@ status: "active"
       - **(i)** the amount of employer contributions under any salary reduction election under the arrangement, plus
       - **(ii)** the amount determined under subparagraph (A) with respect to any reimbursement under the arrangement in excess of the contributions described in clause (i).
     - **(C)** In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
-    - **(D)** If cost is determined on other than a monthly basis, the cost shall be allocated to months in a taxable period on such basis as the Secretary may prescribe.
+    - **(D)** In the case of applicable employer-sponsored coverage consisting of coverage under any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)), the cost of coverage shall be equal to the amount described in section 6051(a)(15).
+    - **(E)** If cost is determined on other than a monthly basis, the cost shall be allocated to months in a taxable period on such basis as the Secretary may prescribe.
   - **(3)** The term “employee” includes any former employee, surviving spouse, or other primary insured individual.
 - **(e)**
   - **(1)** If, for any taxable period, the tax imposed by subsection (a) exceeds the tax determined under such subsection with respect to the total excess benefit calculated by the employer or plan sponsor under subsection (c)(4)—
@@ -91,7 +92,7 @@ status: "active"
     - **(B)** has attained age 55, and
     - **(C)** is not entitled to benefits or eligible for enrollment under the Medicare program under title XVIII of the Social Security Act.
   - **(3)** The term “employees engaged in a high-risk profession” means law enforcement officers (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968), employees in fire protection activities (as such term is defined in section 3(y) of the Fair Labor Standards Act of 1938), individuals who provide out-of-hospital emergency medical care (including emergency medical technicians, paramedics, and first-responders), individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act ( 8 U.S.C. 1288(b) ), determined without regard to paragraph (2) thereof), and individuals engaged in the construction, mining, agriculture (not including food processing), forestry, and fishing industries. Such term includes an employee who is retired from a high-risk profession described in the preceding sentence, if such employee satisfied the requirements of such sentence for a period of not less than 20 years during the employee’s employment.
-  - **(4)** The term “group health plan” has the meaning given such term by section 5000(b)(1).
+  - **(4)** The term “group health plan” has the meaning given such term by section 5000(b)(1). Section 9831(d)(1) shall not apply for purposes of this section.
   - **(5)**
     - **(A)** The term “health insurance coverage” has the meaning given such term by section 9832(b)(1) (applied without regard to subparagraph (B) thereof, except as provided by the Secretary in regulations).
     - **(B)** The term “health insurance issuer” has the meaning given such term by section 9832(b)(2).

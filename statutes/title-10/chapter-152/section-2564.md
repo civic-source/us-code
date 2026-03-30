@@ -3,9 +3,9 @@ title: "Section 2564 - Provision of support for certain sporting events"
 usc_title: 10
 usc_section: "2564"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2564"
-generated_at: "2026-03-30T05:52:47.194Z"
+generated_at: "2026-03-30T05:55:13.315Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The Secretary of Defense may authorize a commander referred to in subsection (a) to provide assistance for a sporting event referred to in that subsection in support of other needs relating to such event, but only—
   - **(1)** to the extent that such needs cannot reasonably be met by a source other than the Department;
   - **(2)** to the extent that the provision of such assistance does not adversely affect the military preparedness of the armed forces; and
-  - **(3)** if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of section 377 of this title and other applicable provisions of law.
+  - **(3)** if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of section 377 of this title 1 1 See References in Text note below. and other applicable provisions of law.
 - **(c)** Subsections (a) and (b) do not apply to the following sporting events:
   - **(1)** Sporting events for which funds have been appropriated before September 23, 1996 .
   - **(2)** The Special Olympics.
@@ -36,7 +36,7 @@ status: "active"
   - **(4)** if the assistance was provided under subsection (b)—
     - **(A)** an explanation why the assistance could not reasonably be met by a source other than the Department; and
     - **(B)** the amount the Department was reimbursed under that subsection.
-- **(f)** Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.
+- **(f)** Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title. 1
 - **(g)**
   - **(1)** Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 ( Public Law 104–208 ; 10 U.S.C. 2564 note), notwithstanding any limitation under that section relating to the availability of funds in such account for the provision of support for international sporting competitions.
   - **(2)** The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.

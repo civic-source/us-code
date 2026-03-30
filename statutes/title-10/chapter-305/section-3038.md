@@ -3,9 +3,9 @@ title: "Section 3038 - Office of Army Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "3038"
 chapter: 305
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3038"
-generated_at: "2026-03-30T05:52:47.208Z"
+generated_at: "2026-03-30T05:55:13.329Z"
 status: "active"
 ---
 
@@ -21,9 +21,7 @@ status: "active"
   - **(4)** Until December 31, 2006 , the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Army Reserve if the Secretary of the Army requests the waiver and, in the judgment of the Secretary of Defense—
     - **(A)** the officer is qualified for service in the position; and
     - **(B)** the waiver is necessary for the good of the service.
-- **(c)**
-  - **(1)** The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
-  - **(2)** The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.
+- **(c)** The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
 - **(d)** The Chief of Army Reserve is the official within the executive part of the Department of the Army who, subject to the authority, direction, and control of the Secretary of the Army and the Chief of Staff, is responsible for justification and execution of the personnel, operation and maintenance, and construction budgets for the Army Reserve. As such, the Chief of Army Reserve is the director and functional manager of appropriations made for the Army Reserve in those areas.
 - **(e)** The Chief of Army Reserve manages, with respect to the Army Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
 - **(f)**

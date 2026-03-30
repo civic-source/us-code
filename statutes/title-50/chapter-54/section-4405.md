@@ -3,15 +3,15 @@ title: "Section 4405 - National Defense Reserve Fleet"
 usc_title: 50
 usc_section: "4405"
 chapter: 54
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 4405"
-generated_at: "2026-03-30T05:54:46.436Z"
+generated_at: "2026-03-30T05:56:27.734Z"
 status: "active"
 ---
 
 # § 4405. National Defense Reserve Fleet
 
-- **(a)** The Secretary of Transportation shall maintain a National Defense Reserve Fleet, including any vessel assigned by the Secretary to the Ready Reserve Force component of the fleet, consisting of those vessels owned or acquired by the United States Government that the Secretary of Transportation, after consultation with the Secretary of the Navy, determines are of value for national defense purposes and that the Secretary of Transportation decides to place and maintain in the fleet.
+- **(a)** The Secretary of Transportation shall maintain a National Defense Reserve Fleet, including any vessel assigned by the Secretary to the Ready Reserve Force component of the fleet, consisting of those vessels owned or acquired by the United States Government that the Secretary of Transportation, after consultation with the Secretary of the Navy, determines are of value for national defense purposes and that the Secretary of Transportation decides to place and maintain in the fleet. Vessels in the National Defense Reserve Fleet, including vessels loaned to State maritime academies, shall be considered public vessels of the United States.
 - **(b)** Except as otherwise provided by law, a vessel in the fleet may be used—
   - **(1)** for an account of an agency of the United States Government in a period during which vessels may be requisitioned under chapter 563 of title 46; or
   - **(2)** on the request of the Secretary of Defense, and in accordance with memoranda of agreement between the Secretary of Transportation and the Secretary of Defense, for—
@@ -44,3 +44,4 @@ status: "active"
   - **(3)** Whether safety precautions will be taken, including indemnification of liability when applicable.
   - **(4)** Whether any costs incurred by such use will be funded as a reimbursable transaction between Federal agencies, as applicable.
   - **(5)** Any other matters the Maritime Administrator considers appropriate.
+- **(g)** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1 and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.

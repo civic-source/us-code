@@ -3,9 +3,9 @@ title: "Section 4713 - Incentives for depository institution participation"
 usc_title: 12
 usc_section: "4713"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 4713"
-generated_at: "2026-03-30T05:52:55.885Z"
+generated_at: "2026-03-30T05:55:27.071Z"
 status: "active"
 ---
 

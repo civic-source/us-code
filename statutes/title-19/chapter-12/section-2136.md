@@ -3,9 +3,9 @@ title: "Section 2136 - Reciprocal nondiscriminatory treatment"
 usc_title: 19
 usc_section: "2136"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "19 U.S.C. § 2136"
-generated_at: "2026-03-30T05:53:13.060Z"
+generated_at: "2026-03-30T05:55:33.003Z"
 status: "active"
 ---
 

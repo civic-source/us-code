@@ -3,9 +3,9 @@ title: "Section 430c - Permits to occupy land"
 usc_title: 16
 usc_section: "430c"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 430c"
-generated_at: "2026-03-30T05:53:07.610Z"
+generated_at: "2026-03-30T05:55:38.093Z"
 status: "active"
 ---
 

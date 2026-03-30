@@ -3,9 +3,9 @@ title: "Section 11122 - Compensation and practice"
 usc_title: 49
 usc_section: "11122"
 chapter: 111
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "49 U.S.C. § 11122"
-generated_at: "2026-03-30T05:54:48.284Z"
+generated_at: "2026-03-30T05:56:29.549Z"
 status: "active"
 ---
 

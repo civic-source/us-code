@@ -3,9 +3,9 @@ title: "Section 676a - Air facility closures"
 usc_title: 14
 usc_section: "676a"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 676a"
-generated_at: "2026-03-30T05:52:49.226Z"
+generated_at: "2026-03-30T05:55:22.801Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** retire, transfer, relocate, or deploy an aviation asset from an air facility described in subparagraph (A) for the purpose of closing such facility.
   - **(2)** Paragraph (1) shall have no force or effect beginning on the later of—
     - **(A)** January 1, 2018 ; or
-    - **(B)** the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2015.
+    - **(B)** the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2016.
 - **(b)**
   - **(1)** Beginning on January 1, 2018 , the Secretary may not close a Coast Guard air facility, except as specified by this section.
   - **(2)** The Secretary may not propose closing or terminating operations at a Coast Guard air facility unless the Secretary determines that—

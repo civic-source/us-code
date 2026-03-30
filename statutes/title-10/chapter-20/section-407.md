@@ -3,9 +3,9 @@ title: "Section 407 - Humanitarian demining assistance and stockpiled convention
 usc_title: 10
 usc_section: "407"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 407"
-generated_at: "2026-03-30T05:52:47.119Z"
+generated_at: "2026-03-30T05:55:13.237Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** Expenses covered by paragraph (1) include the following:
     - **(A)** Travel, transportation, and subsistence expenses of Department of Defense personnel providing such assistance.
     - **(B)** The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting humanitarian demining activities or stockpiled conventional munitions activities, including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war, or stockpiled conventional munitions, as applicable, that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
-  - **(3)** The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $10,000,000.
+  - **(3)** The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $15,000,000.
 - **(d)** The Secretary of Defense shall include in the annual report under section 401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
   - **(1)** a list of the countries in which humanitarian demining assistance or stockpiled conventional munitions assistance was carried out during the preceding fiscal year;
   - **(2)** the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;

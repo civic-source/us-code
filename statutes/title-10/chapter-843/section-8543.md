@@ -1,15 +1,13 @@
 ---
-title: "Section 8543 - Aides: detail; number authorized"
+title: "Section 8543 - Repealed. Pub. L. 114–328, div. A, title V , § 502(pp)(1), Dec. 23, 2016 , 130 Stat. 2106 ]"
 usc_title: 10
 usc_section: "8543"
 chapter: 843
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 8543"
-generated_at: "2026-03-30T05:52:47.229Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.351Z"
+status: "repealed"
 ---
 
-# § 8543. Aides: detail; number authorized
+# [§ 8543. Repealed. Pub. L. 114–328, div. A, title V , § 502(pp)(1), Dec. 23, 2016 , 130 Stat. 2106 ]
 
-- **(a)** Each major general of the Air Force is entitled to three aides selected by him from commissioned officers of the Air Force in any grade below major.
-- **(b)** Each brigadier general of the Air Force is entitled to two aides selected by him from commissioned officers of the Air Force in any grade below captain.

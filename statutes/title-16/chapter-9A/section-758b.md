@@ -3,9 +3,9 @@ title: "Section 758b - Cooperation with agencies, organizations, and others"
 usc_title: 16
 usc_section: "758b"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 758b"
-generated_at: "2026-03-30T05:53:07.684Z"
+generated_at: "2026-03-30T05:55:38.168Z"
 status: "active"
 ---
 

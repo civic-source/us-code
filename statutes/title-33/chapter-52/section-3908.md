@@ -3,9 +3,9 @@ title: "Section 3908 - Secured loans"
 usc_title: 33
 usc_section: "3908"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 3908"
-generated_at: "2026-03-30T05:53:40.462Z"
+generated_at: "2026-03-30T05:56:05.903Z"
 status: "active"
 ---
 
@@ -31,7 +31,9 @@ status: "active"
       - **(ii)** if the useful life of the project (as determined by the Secretary or Administrator, as applicable) is less than 35 years, the useful life the project.
     - **(B)** The final maturity date of a secured loan to a State infrastructure financing authority under this section shall be not later than 35 years after the date on which amounts are first disbursed.
   - **(6)** A secured loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor of the project.
-  - **(7)** The Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+  - **(7)**
+    - **(A)** Except as provided in subparagraph (B), the Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+    - **(B)** On request of an eligible entity, the Secretary or the Administrator, as applicable, shall allow the fees under subparagraph (A) to be financed as part of the loan.
   - **(8)** The proceeds of a secured loan under this section may be used to pay any non-Federal share of project costs required if the loan is repayable from non-Federal funds.
   - **(9)**
     - **(A)** Except as provided in subparagraph (B), for each project for which assistance is provided under this chapter, the total amount of Federal assistance shall not exceed 80 percent of the total project cost.
@@ -39,6 +41,7 @@ status: "active"
       - **(i)** that is authorized to be carried out by the Secretary of the Interior;
       - **(ii)** that includes among its beneficiaries a federally recognized Indian tribe; and
       - **(iii)** for which the authorized Federal share of the total project costs is greater than the amount described in subparagraph (A).
+  - **(10)** Any eligible project costs incurred and the value of any integral in-kind contributions made before receipt of assistance under this chapter shall be credited toward the 51 percent of project costs to be provided by sources of funding other than a secured loan under this chapter (as described in paragraph (2)(A)).
 - **(c)**
   - **(1)** The Secretary or the Administrator, as applicable, shall establish a repayment schedule for each secured loan provided under this section, based on the projected cash flow from project revenues and other repayment sources.
   - **(2)**

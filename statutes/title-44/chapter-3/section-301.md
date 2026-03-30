@@ -3,9 +3,9 @@ title: "Section 301 - Director of the Government Publishing Office: appointment"
 usc_title: 44
 usc_section: "301"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "44 U.S.C. § 301"
-generated_at: "2026-03-30T05:54:32.605Z"
+generated_at: "2026-03-30T05:56:12.801Z"
 status: "active"
 ---
 

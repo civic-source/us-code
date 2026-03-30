@@ -3,9 +3,9 @@ title: "Section 121 - Information and Analysis and Infrastructure Protection"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-30T05:52:37.223Z"
+generated_at: "2026-03-30T05:55:09.963Z"
 status: "active"
 ---
 
@@ -59,6 +59,17 @@ status: "active"
     - **(A)** shall contain, if applicable, actions or countermeasures recommended or taken by the Secretary or the head of another Federal agency to address issues identified in the assessments;
     - **(B)** shall be required for fiscal year 2007 and each subsequent fiscal year and shall be submitted not later than 35 days after the last day of the fiscal year covered by the report; and
     - **(C)** may be classified.
+  - **(26)**
+    - **(A)** Not later than six months after December 23, 2016 , to conduct an intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure, and submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate—
+      - **(i)** a recommended strategy to protect and prepare the critical infrastructure of the homeland against threats of EMP and GMD; and
+      - **(ii)** not less frequently than every two years thereafter for the next six years, updates of the recommended strategy.
+    - **(B)** The recommended strategy under subparagraph (A) shall—
+      - **(i)** be based on findings of the research and development conducted under section 195f of this title ; 1
+      - **(ii)** be developed in consultation with the relevant Federal sector-specific agencies (as defined under Presidential Policy Directive-21) for critical infrastructure;
+      - **(iii)** be developed in consultation with the relevant sector coordinating councils for critical infrastructure;
+      - **(iv)** be informed, to the extent practicable, by the findings of the intelligence-based review and comparison of the risks and consequences of EMP and GMD facing critical infrastructure conducted under subparagraph (A); and
+      - **(v)** be submitted in unclassified form, but may include a classified annex.
+    - **(C)** The Secretary may, if appropriate, incorporate the recommended strategy into a broader recommendation developed by the Department to help protect and prepare critical infrastructure from terrorism, cyber attacks, and other threats if, as incorporated, the recommended strategy complies with subparagraph (B).
 - **(e)**
   - **(1)** The Secretary shall provide the Office of Intelligence and Analysis and the Office of Infrastructure Protection with a staff of analysts having appropriate expertise and experience to assist such offices in discharging responsibilities under this section.
   - **(2)** Analysts under this subsection may include analysts from the private sector.

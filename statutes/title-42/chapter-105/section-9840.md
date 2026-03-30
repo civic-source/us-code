@@ -3,9 +3,9 @@ title: "Section 9840 - Participation in Head Start programs"
 usc_title: 42
 usc_section: "9840"
 chapter: 105
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 9840"
-generated_at: "2026-03-30T05:54:40.587Z"
+generated_at: "2026-03-30T05:56:22.890Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
       - **(i)** The term “dependent” has the meaning given the term in paragraphs (2)(A) and (4)(A)(i) of section 401(a) of title 37 .
       - **(ii)** The terms “member” and “uniformed services” have the meanings given the terms in paragraphs (23) and (3), respectively, of section 101 of title 37 .
     - **(B)** The following amounts of pay and allowance of a member of the uniformed services shall not be considered to be income for purposes of determining the eligibility of a dependent of such member for programs funded under this subchapter:
-      - **(i)** The amount of any special pay payable under section 310 of title 37 , relating to duty subject to hostile fire or imminent danger.
+      - **(i)** The amount of any special pay payable under section 310 or 351 of title 37, relating to duty subject to hostile fire or imminent danger.
       - **(ii)** The amount of basic allowance payable under section 403 of such title, including any such amount that is provided on behalf of the member for housing that is acquired or constructed under the alternative authority for the acquisition and improvement of military housing under subchapter IV of chapter 169 of title 10 or any other related provision of law.
   - **(4)** After demonstrating a need through a communitywide strategic planning and needs assessment, a Head Start agency may apply to the Secretary to convert part-day sessions, particularly consecutive part-day sessions, into full-working-day sessions.
   - **(5)**

@@ -3,9 +3,9 @@ title: "Section 5125 - Former Speakers of House of Representatives; retention of
 usc_title: 2
 usc_section: "5125"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "2 U.S.C. § 5125"
-generated_at: "2026-03-30T05:52:35.326Z"
+generated_at: "2026-03-30T05:55:03.440Z"
 status: "active"
 ---
 

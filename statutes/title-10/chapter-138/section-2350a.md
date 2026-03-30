@@ -3,9 +3,9 @@ title: "Section 2350a - Cooperative research and development agreements: NATO or
 usc_title: 10
 usc_section: "2350a"
 chapter: 138
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2350a"
-generated_at: "2026-03-30T05:52:47.182Z"
+generated_at: "2026-03-30T05:55:13.301Z"
 status: "active"
 ---
 
@@ -40,6 +40,7 @@ status: "active"
     - **(A)** that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
     - **(B)** that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
   - **(2)** The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
+  - **(3)** The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
 - **(h)** The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 - **(i)** In this section:
   - **(1)** The term “cooperative research and development project” means a project involving joint participation by the United States and one or more countries and organizations referred to in subsection (a)(2) under a memorandum of understanding (or other formal agreement) to carry out a joint research and development program—

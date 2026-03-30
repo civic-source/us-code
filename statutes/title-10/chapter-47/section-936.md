@@ -3,9 +3,9 @@ title: "Section 936 - Art. 136. Authority to administer oaths and to act as nota
 usc_title: 10
 usc_section: "936"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 936"
-generated_at: "2026-03-30T05:52:47.134Z"
+generated_at: "2026-03-30T05:55:13.253Z"
 status: "active"
 ---
 
@@ -25,4 +25,4 @@ status: "active"
   - **(4)** All persons detailed to conduct an investigation.
   - **(5)** All recruiting officers.
   - **(6)** All other persons designated by regulations of the armed forces or by statute.
-- **(c)** The judges of the United States Court of Appeals for the Armed Forces may administer the oaths authorized by subsections (a) and (b).
+- **(c)** Each judge and senior judge of the United States Court of Appeals for the Armed Forces shall have the powers relating to oaths, affirmations, and acknowledgments provided to justices and judges of the United States by section 459 of title 28 .

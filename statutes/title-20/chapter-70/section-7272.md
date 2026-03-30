@@ -3,9 +3,9 @@ title: "Section 7272 - Definitions"
 usc_title: 20
 usc_section: "7272"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 7272"
-generated_at: "2026-03-30T05:53:04.526Z"
+generated_at: "2026-03-30T05:55:36.065Z"
 status: "active"
 ---
 

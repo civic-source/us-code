@@ -3,9 +3,9 @@ title: "Section 381 - Imports and exports"
 usc_title: 21
 usc_section: "381"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 381"
-generated_at: "2026-03-30T05:53:21.601Z"
+generated_at: "2026-03-30T05:55:48.569Z"
 status: "active"
 ---
 
@@ -154,6 +154,7 @@ status: "active"
       - **(ii)** provide a period of not less than 60 days for comments on the proposed regulation; and
       - **(iii)** publish the final regulation not less than 30 days before the regulation’s effective date.
     - **(C)** Notwithstanding any other provision of Federal law, in implementing this subsection, the Secretary shall only promulgate regulations as described in subparagraph (B).
+    - **(D)** In establishing the effective date of the regulations under subparagraph (A), the Secretary shall, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, as determined appropriate by the Secretary of Health and Human Services, provide a reasonable period of time for an importer of a drug to comply with good importer practices, taking into account differences among importers and types of imports, including based on the level of risk posed by the imported product.
   - **(3)** The Secretary shall discontinue the registration of any commercial importer of drugs that fails to comply with the regulations promulgated under this subsection.
   - **(4)** The Secretary shall specify the unique facility identifier system that shall be used by registrants under paragraph (1). The requirement to include a unique facility identifier in a registration under paragraph (1) shall not apply until the date that the identifier system is specified by the Secretary under the preceding sentence.
   - **(5)** The Secretary, by notice in the Federal Register, may establish exemptions from the requirements of this subsection.

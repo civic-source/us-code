@@ -3,15 +3,15 @@ title: "Section 563 - Recognition of Coast Guard personnel for excellence in acq
 usc_title: 14
 usc_section: "563"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 563"
-generated_at: "2026-03-30T05:52:49.224Z"
+generated_at: "2026-03-30T05:55:22.798Z"
 status: "active"
 ---
 
 # § 563. Recognition of Coast Guard personnel for excellence in acquisition
 
-- **(a)** Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
+- **(a)** The Commandant shall maintain a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
 - **(b)** The program shall include—
   - **(1)** specific award categories, criteria, and eligibility and manners of recognition;
   - **(2)** procedures for the nomination by personnel of the Coast Guard of individuals and teams comprised of officers, members, and employees of the Coast Guard for recognition under the program; and

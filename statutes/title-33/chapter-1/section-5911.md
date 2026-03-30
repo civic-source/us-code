@@ -1,0 +1,18 @@
+---
+title: "Section 5911 - Central Delaware River, Philadelphia, Pennsylvania"
+usc_title: 33
+usc_section: "5911"
+chapter: 1
+current_through: "PL 115-8"
+classification: "33 U.S.C. § 5911"
+generated_at: "2026-03-30T05:56:05.835Z"
+status: "active"
+---
+
+# § 59 11 . Central Delaware River, Philadelphia, Pennsylvania
+
+- **(a)** Subject to subsection (c), unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that there are substantive objections, those portions of the Delaware River, bounded by the former bulkhead and pierhead lines that were established by the Secretary of War and successors and described as follows, are declared to be nonnavigable waters of the United States:
+  - **(1)** Piers 70 South through 38 South, encompassing an area bounded by the southern line of Moore Street extended to the northern line of Catherine Street extended, including the following piers: Piers 70, 68, 67, 64, 61–63, 60, 57, 55, 53, 48, 46, 40, and 38.
+  - **(2)** Piers 24 North through 72 North, encompassing an area bounded by the southern line of Callowhill Street extended to the northern line of East Fletcher Street extended, including the following piers: Piers 24, 25, 27–35, 35.5, 36, 37, 38, 39, 49, 51–52, 53–57, 58–65, 66, 67, 69, 70–72, and Rivercenter.
+- **(b)** The Secretary shall make the public interest determination under subsection (a) separately for each proposed project to be undertaken within the boundaries described in subsection (a), using reasonable discretion, not later than 150 days after the date of submission of appropriate plans for the proposed project.
+- **(c)** The declaration under subsection (a) shall apply only to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina and recreation facilities.

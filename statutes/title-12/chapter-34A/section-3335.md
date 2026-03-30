@@ -3,9 +3,9 @@ title: "Section 3335 - Powers of Appraisal Subcommittee"
 usc_title: 12
 usc_section: "3335"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 3335"
-generated_at: "2026-03-30T05:52:55.863Z"
+generated_at: "2026-03-30T05:55:27.051Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16981 - Pilot program for monitoring sexual offenders"
 usc_title: 42
 usc_section: "16981"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 16981"
-generated_at: "2026-03-30T05:54:40.703Z"
+generated_at: "2026-03-30T05:56:23.003Z"
 status: "active"
 ---
 

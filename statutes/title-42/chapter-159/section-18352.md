@@ -3,9 +3,9 @@ title: "Section 18352 - Maximum utilization of the International Space Station"
 usc_title: 42
 usc_section: "18352"
 chapter: 159
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 18352"
-generated_at: "2026-03-30T05:54:40.725Z"
+generated_at: "2026-03-30T05:56:23.025Z"
 status: "active"
 ---
 

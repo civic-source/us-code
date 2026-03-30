@@ -3,9 +3,9 @@ title: "Section 3906 - Activities eligible for assistance"
 usc_title: 33
 usc_section: "3906"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 3906"
-generated_at: "2026-03-30T05:53:40.462Z"
+generated_at: "2026-03-30T05:56:05.902Z"
 status: "active"
 ---
 
@@ -15,5 +15,5 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
   - **(1)** development-phase activities, including planning, feasibility analysis (including any related analysis necessary to carry out an eligible project), revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
   - **(2)** construction, reconstruction, rehabilitation, and replacement activities;
-  - **(3)** the acquisition of real property or an interest in real property (including water rights, land relating to the project, and improvements to land), environmental mitigation (including acquisitions pursuant to section 3905(7) of this title ), construction contingencies, and acquisition of equipment; and
+  - **(3)** the acquisition of real property or an interest in real property (including water rights, land relating to the project, and improvements to land), environmental mitigation (including acquisitions pursuant to section 3905(8) of this title ), construction contingencies, and acquisition of equipment; and
   - **(4)** capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.

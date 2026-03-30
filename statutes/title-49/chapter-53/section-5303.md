@@ -3,9 +3,9 @@ title: "Section 5303 - Metropolitan transportation planning"
 usc_title: 49
 usc_section: "5303"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "49 U.S.C. § 5303"
-generated_at: "2026-03-30T05:54:48.268Z"
+generated_at: "2026-03-30T05:56:29.536Z"
 status: "active"
 ---
 
@@ -244,4 +244,4 @@ status: "active"
   - **(2)** For the purpose of this title, the Bi-State Metropolitan Planning Organization shall be treated as—
     - **(A)** a metropolitan planning organization;
     - **(B)** a transportation management area under subsection (k); and
-    - **(C)** an urbanized area, which is comprised of a population of 145,000 in the State of California and a population of 65,000 in the State of Nevada.
+    - **(C)** an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area in the State of California and a population of 65,000 and 12 square miles of land area in the State of Nevada.

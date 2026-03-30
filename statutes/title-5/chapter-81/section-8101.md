@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T05:52:33.956Z"
+generated_at: "2026-03-30T05:55:06.580Z"
 status: "active"
 ---
 
@@ -17,9 +17,10 @@ For the purpose of this subchapter—
     - **(A)** a civil officer or employee in any branch of the Government of the United States, including an officer or employee of an instrumentality wholly owned by the United States;
     - **(B)** an individual rendering personal service to the United States similar to the service of a civil officer or employee of the United States, without pay or for nominal pay, when a statute authorizes the acceptance or use of the service, or authorizes payment of travel or other expenses of the individual;
     - **(C)** an individual, other than an independent contractor or an individual employed by an independent contractor, employed on the Menominee Indian Reservation in Wisconsin in operations conducted under a statute relating to tribal timber and logging operations on that reservation;
-    - **(D)** an individual employed by the government of the District of Columbia; and
+    - **(D)** an individual employed by the government of the District of Columbia;
     - **(E)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
-    - **(F)** 1 1 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
+    - **(F)** 1 an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
+    - **(G)** an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 5165f of title 42 ;
       - **(i)** a commissioned officer of the Regular Corps of the Public Health Service;
       - **(ii)** a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
       - **(iii)** a commissioned officer of the Environmental Science Services Administration; or

@@ -3,9 +3,9 @@ title: "Section 1383 - Water pollution control revolving loan funds"
 usc_title: 33
 usc_section: "1383"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 1383"
-generated_at: "2026-03-30T05:53:40.433Z"
+generated_at: "2026-03-30T05:56:05.875Z"
 status: "active"
 ---
 
@@ -51,8 +51,8 @@ status: "active"
 - **(g)** The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) if such project is on the State’s priority list under section 1296 of this title . Such assistance may be provided regardless of the rank of such project on such list.
 - **(h)** A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from the Administrator under any other authority only if such assistance is necessary to allow such project to proceed.
 - **(i)**
-  - **(1)** In any case in which a State provides assistance to a municipality or intermunicipal, interstate, or State agency under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—
-    - **(A)** to benefit a municipality that—
+  - **(1)** In any case in which a State provides assistance to an eligible recipient under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—
+    - **(A)** in assistance to a municipality or intermunicipal, interstate, or State agency to benefit a municipality that—
       - **(i)** meets the affordability criteria of the State established under paragraph (2); or
       - **(ii)** does not meet the affordability criteria of the State if the recipient—
         - **(I)** seeks additional subsidization to benefit individual ratepayers in the residential user rate class;

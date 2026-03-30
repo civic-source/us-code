@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T05:53:28.130Z"
+generated_at: "2026-03-30T05:55:54.279Z"
 status: "active"
 ---
 
@@ -25,8 +25,11 @@ status: "active"
         - **(I)** for plan years beginning after December 31, 2005 , and before January 1, 2013 , $30;
         - **(II)** for plan years beginning after December 31, 2012 , and before January 1, 2014 , $42;
         - **(III)** for plan years beginning after December 31, 2013 and before January 1, 2015 ,, 1 1 So in original. $49. 2 2 So in original. The period probably should be a semicolon.
-        - **(IV)** for plan years beginning after December 31, 2014 , and before January 1, 2016 , $57; and
-        - **(V)** for plan years beginning after December 31, 2015 , and before January 1, 2017 , $64.
+        - **(IV)** for plan years beginning after December 31, 2014 , and before January 1, 2016 , $57;
+        - **(V)** for plan years beginning after December 31, 2015 , and before January 1, 2017 , $64;
+        - **(VI)** for plan years beginning after December 31, 2016 , and before January 1, 2018 , $69;
+        - **(VII)** for plan years beginning after December 31, 2017 , and before January 1, 2019 , $74; and
+        - **(VIII)** for plan years beginning after December 31, 2018 , $80.
       - **(ii)** in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
         - **(I)** 50 cents, multiplied by a fraction the numerator of which is the number of months in such year ending on or before such date and the denominator of which is 12, and
         - **(II)** $1.00, multiplied by a fraction equal to 1 minus the fraction determined under clause (i),
@@ -64,10 +67,10 @@ status: "active"
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2004 (2012 in the case of plan years beginning after calendar year 2014); and
       - **(ii)** the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
-    - **(G)** For each plan year beginning in a calendar year after 2016, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
+    - **(G)** For each plan year beginning in a calendar year after 2019, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying the premium rate specified in clause (i) of subparagraph (A) by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
-        - **(II)** the national average wage index (as so defined) for 2014; and
+        - **(II)** the national average wage index (as so defined) for 2017; and
       - **(ii)** the premium rate in effect under clause (i) of subparagraph (A) for plan years beginning in the preceding calendar year.
     - **(H)** For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (iv) of subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying the premium rate specified in clause (iv) of subparagraph (A) by the ratio of—
@@ -131,8 +134,11 @@ status: "active"
     - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount shall be—
       - **(i)** $9 for plan years beginning in a calendar year before 2015;
       - **(ii)** for plan years beginning in calendar year 2015, the amount in effect for plan years beginning in 2014 (determined after application of subparagraph (C));
-      - **(iii)** for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)); and
-      - **(iv)** for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C)).
+      - **(iii)** for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C));
+      - **(iv)** for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C));
+      - **(v)** for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
+      - **(vi)** for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and
+      - **(vii)** for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).
     - **(B)** For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
@@ -140,13 +146,19 @@ status: "active"
       - **(ii)** such applicable dollar amount in effect for plan years beginning in the preceding calendar year.
     - **(C)** The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
       - **(i)** in the case of plan years beginning in calendar year 2014, by $4;
-      - **(ii)** in the case of plan years beginning in calendar year 2015, by $10; and
-      - **(iii)** in the case of plan years beginning in calendar year 2016, by $5.
+      - **(ii)** in the case of plan years beginning in calendar year 2015, by $10;
+      - **(iii)** in the case of plan years beginning in calendar year 2016, by $5;
+      - **(iv)** in the case of plan years beginning in calendar year 2017, by $3;
+      - **(v)** in the case of plan years beginning in calendar year 2018, by $4; and
+      - **(vi)** in the case of plan years beginning in calendar year 2019, by $4.
     - **(D)** For purposes of subparagraph (B), the base year is—
       - **(i)** 2010, in the case of plan years beginning in calendar year 2013 or 2014;
       - **(ii)** 2012, in the case of plan years beginning in calendar year 2015;
-      - **(iii)** 2013, in the case of plan years beginning after calendar year 2015; and
-      - **(iv)** 2014, in the case of plan years beginning after calendar year 2016.
+      - **(iii)** 2013, in the case of plan years beginning after calendar year 2015;
+      - **(iv)** 2014, in the case of plan years beginning after calendar year 2016;
+      - **(v)** 2015, in the case of plan years beginning after calendar year 2017;
+      - **(vi)** 2016, in the case of plan years beginning after calendar year 2018; and
+      - **(vii)** 2017, in the case of plan years beginning after calendar year 2019.
 - **(b)**
   - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
   - **(2)** The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.

@@ -1,0 +1,20 @@
+---
+title: "Section 101931 - Contract authority"
+usc_title: 54
+usc_section: "101931"
+chapter: 1019
+current_through: "PL 115-8"
+classification: "54 U.S.C. § 101931"
+generated_at: "2026-03-30T05:56:37.643Z"
+status: "active"
+---
+
+# § 101931. Contract authority
+
+- **(a)** Notwithstanding subchapter II, the Secretary may award and administer commercial services contracts (and related professional services contracts) for the operation and expansion of commercial visitor facilities and visitor services programs in System units. The commercial services contracts that may be awarded shall be limited to those that are necessary and appropriate for public use and enjoyment of the unit of the System in which they are located, and, that are consistent with the preservation and conservation of the resources and values of the unit.
+- **(b)** Contracts may be awarded under subsection (a) without regard to Federal laws and regulations governing procurement by Federal agencies, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the Alaska National Interest Lands Conservation Act ( 16 U.S.C. 3101 et seq.), sections 3141–3144, 3146, and 3147 of title 40, United States Code (commonly known as the “Davis-Bacon Act”), and any civil rights provisions otherwise applicable thereto.
+- **(c)**
+  - **(1)** The Secretary may issue a commercial services contract under this subchapter when the Secretary determines that the contract meets the objectives of expanding, modernizing, and improving the condition of commercial visitor facilities and the services provided to visitors.
+  - **(2)** No contracts may be awarded under this subchapter—
+    - **(A)** for the provision of outfitter and guide services described in section 101913(8); or
+    - **(B)** to authorize the provision of facilities or services for which the Secretary has granted to an existing concessioner a preferential right of renewal as defined in sections 101911 and 101913.

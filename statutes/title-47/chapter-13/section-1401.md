@@ -3,9 +3,9 @@ title: "Section 1401 - Definitions"
 usc_title: 47
 usc_section: "1401"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "47 U.S.C. § 1401"
-generated_at: "2026-03-30T05:54:45.137Z"
+generated_at: "2026-03-30T05:56:25.663Z"
 status: "active"
 ---
 

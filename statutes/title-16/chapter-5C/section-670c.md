@@ -3,9 +3,9 @@ title: "Section 670c - Program for public outdoor recreation"
 usc_title: 16
 usc_section: "670c"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 670c"
-generated_at: "2026-03-30T05:53:07.674Z"
+generated_at: "2026-03-30T05:55:38.159Z"
 status: "active"
 ---
 

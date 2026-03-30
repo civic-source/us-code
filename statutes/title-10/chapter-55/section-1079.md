@@ -3,9 +3,9 @@ title: "Section 1079 - Contracts for medical care for spouses and children: plan
 usc_title: 10
 usc_section: "1079"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 1079"
-generated_at: "2026-03-30T05:52:47.144Z"
+generated_at: "2026-03-30T05:55:13.263Z"
 status: "active"
 ---
 
@@ -72,7 +72,7 @@ status: "active"
   - **(4)** To qualify for extended benefits under paragraph (3) or (4) of subsection (e), a dependent of a member of the uniformed services shall be required to use public facilities to the extent such facilities are available and adequate, as determined under joint regulations of the administering Secretaries.
   - **(5)** The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations to carry out this subsection.
 - **(g)**
-  - **(1)** When a member dies while he is eligible for receipt of hostile fire pay under section 310 of title 37 or from a disease or injury incurred while eligible for such pay, his dependents who are receiving benefits under a plan covered by subsection (d) shall continue to be eligible for such benefits until they pass their twenty-first birthday.
+  - **(1)** When a member dies while he is eligible for receipt of hostile fire pay under section 310 or 351 of title 37 or from a disease or injury incurred while eligible for such pay, his dependents who are receiving benefits under a plan covered by subsection (d) shall continue to be eligible for such benefits until they pass their twenty-first birthday.
   - **(2)** In addition to any continuation of eligibility for benefits under paragraph (1), when a member dies while on active duty for a period of more than 30 days, the member’s dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for benefits under TRICARE Prime during the three-year period beginning on the date of the member’s death, except that, in the case of such a dependent of the deceased who is described by subparagraph (D) or (I) of section 1072(2) of this title , the period of continued eligibility shall be the longer of the following periods beginning on such date:
     - **(A)** Three years.
     - **(B)** The period ending on the date on which such dependent attains 21 years of age.
@@ -93,7 +93,7 @@ status: "active"
       - **(ii)** any unpaid amounts of deductibles or copayments that are payable directly to the professional (or other provider) by the beneficiary.
     - **(C)**
       - **(i)** In the case of a dependent described in clause (ii), the regulations shall provide that, in addition to amounts otherwise payable by the United States, the Secretary may pay the amount referred to in subparagraph (B)(i).
-      - **(ii)** This subparagraph applies to a dependent referred to in subsection (a) of a member of a reserve component serving on active duty pursuant to a call or order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title .
+      - **(ii)** This subparagraph applies to a dependent referred to in subsection (a) of a member of a reserve component serving on active duty pursuant to a call or order to active duty for a period of more than 30 days.
   - **(5)** To assure access to care for all covered beneficiaries, the Secretary of Defense, in consultation with the other administering Secretaries, shall designate specific rates for reimbursement for services in certain localities if the Secretary determines that without payment of such rates access to health care services would be severely impaired. Such a determination shall be based on consideration of the number of providers in a locality who provide the services, the number of such providers who are CHAMPUS participating providers, the number of covered beneficiaries under CHAMPUS in the locality, the availability of military providers in the location or a nearby location, and any other factors determined to be relevant by the Secretary.
 - **(i)**
   - **(1)** A benefit may not be paid under a plan covered by this section in the case of a person enrolled in, or covered by, any other insurance, medical service, or health plan, including any plan offered by a third-party payer (as defined in section 1095(h)(1) of this title ), to the extent that the benefit is also a benefit under the other plan, except in the case of a plan administered under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).

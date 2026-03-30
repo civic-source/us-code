@@ -3,9 +3,9 @@ title: "Section 521 - Reserve-bank branches; establishment; directors; discontin
 usc_title: 12
 usc_section: "521"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 521"
-generated_at: "2026-03-30T05:52:55.761Z"
+generated_at: "2026-03-30T05:55:26.952Z"
 status: "active"
 ---
 

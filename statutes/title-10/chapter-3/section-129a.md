@@ -3,9 +3,9 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-30T05:52:47.111Z"
+generated_at: "2026-03-30T05:55:13.225Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(3)** The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title , is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
   - **(4)** The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 - **(d)** The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
-  - **(1)** The civilian strategic workforce plan (required by section 115b of this title ).
+  - **(1)** The civilian strategic workforce plan (required by section 115b 1 of this title).
   - **(2)** The civilian positions master plan (required by section 1597(c) of this title ).
   - **(3)** The inventory of contracts for services required by section 2330a(c) of this title .
   - **(4)** The list of activities required by the Federal Activities Inventory Reform Act of 1998 ( Public Law 105–270 ; 31 U.S.C. 501 note).
@@ -34,3 +34,8 @@ status: "active"
     - **(B)** there is adequate Government oversight of contractor personnel performing such functions;
   - **(4)** the establishment of numerical goals or budgetary savings targets for the conversion of functions to performance by either Department of Defense civilian personnel or for conversion to performance by contractor personnel; or
   - **(5)** the imposition of a civilian hiring freeze that may inhibit the implementation of the policies and procedures established under subsection (a).
+- **(g)**
+  - **(1)** Functions performed by civilian personnel should not be performed by military personnel except—
+    - **(A)** if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnel, including a permanent conversion of such functions to performance by military personnel, is cost-effective or required by a mission; or
+    - **(B)** if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.
+  - **(2)** In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.

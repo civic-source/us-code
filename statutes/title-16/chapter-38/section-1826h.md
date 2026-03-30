@@ -3,15 +3,15 @@ title: "Section 1826h - Biennial report on international compliance"
 usc_title: 16
 usc_section: "1826h"
 chapter: 38
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 1826h"
-generated_at: "2026-03-30T05:53:07.736Z"
+generated_at: "2026-03-30T05:55:38.220Z"
 status: "active"
 ---
 
 # § 1826h. Biennial report on international compliance
 
-The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007 , and every 2 years thereafter, a report that includes—
+The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007 , and every 2 years thereafter, on June 1 of that year a report that includes—
 
   - **(1)** the state of knowledge on the status of international living marine resources shared by the United States or subject to treaties or agreements to which the United States is a party, including a list of all such fish stocks classified as overfished, overexploited, depleted, endangered, or threatened with extinction by any international or other authority charged with management or conservation of living marine resources;
   - **(2)** a list of nations that have been identified under section 1826j(a) or 1826k(a) of this title, including the specific offending activities and any subsequent actions taken pursuant to section 1826j or 1826k of this title;

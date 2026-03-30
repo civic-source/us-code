@@ -3,9 +3,9 @@ title: "Section 13105 - Source Reduction Clearinghouse"
 usc_title: 42
 usc_section: "13105"
 chapter: 133
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 13105"
-generated_at: "2026-03-30T05:54:40.647Z"
+generated_at: "2026-03-30T05:56:22.949Z"
 status: "active"
 ---
 

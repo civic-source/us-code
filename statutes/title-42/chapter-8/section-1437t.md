@@ -3,9 +3,9 @@ title: "Section 1437t - Authority to convert public housing to vouchers"
 usc_title: 42
 usc_section: "1437t"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1437t"
-generated_at: "2026-03-30T05:54:40.338Z"
+generated_at: "2026-03-30T05:56:22.641Z"
 status: "active"
 ---
 
@@ -19,13 +19,13 @@ status: "active"
     - **(C)** an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistance under section 1437f of this title by the agency;
     - **(D)** the impact of the conversion to tenant-based assistance under this section on the neighborhood in which the public housing project is located; and
     - **(E)** a plan that identifies actions, if any, that the public housing agency would take with regard to converting any public housing project or projects (or portions thereof) of the public housing agency to tenant-based assistance.
-  - **(2)** Not later than 2 years after the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, each public housing agency shall conduct an assessment under paragraph (1) or (3) of the status of each public housing project owned by such agency and shall submit to the Secretary such assessment. A public housing agency may otherwise undertake an assessment under this subsection at any time and for any public housing project (or portion thereof) owned by the agency. A public housing agency may update a previously conducted assessment for a project (or portion thereof) for purposes of compliance with the one-year limitation under subsection (c) of this section.
+  - **(2)** Not later than 2 years after the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, each public housing agency shall conduct an assessment under paragraph (1) or (3) of the status of each public housing project owned by such agency and shall submit to the Secretary such assessment. A public housing agency may otherwise undertake an assessment under this subsection at any time and for any public housing project (or portion thereof) owned by the agency. A public housing agency may update a previously conducted assessment for a project (or portion thereof) for purposes of compliance with the one-year limitation under subsection (c).
   - **(3)** At the discretion of the Secretary or at the request of a public housing agency, the Secretary may waive any or all of the requirements of paragraph (1) or (3) or otherwise require a streamlined assessment with respect to any public housing project or class of public housing projects.
-- **(c)** A public housing agency may convert a public housing project (or portion thereof) owned by the agency to tenant-based assistance only pursuant to a conversion assessment under subsection (b) of this section that one year 1 1 So in original. and that demonstrates that the conversion—
+- **(c)** A public housing agency may convert a public housing project (or portion thereof) owned by the agency to tenant-based assistance only pursuant to a conversion assessment under subsection (b) that one year 1 1 So in original. and that demonstrates that the conversion—
   - **(1)** will not be more expensive than continuing to operate the public housing project (or portion thereof) as public housing;
   - **(2)** will principally benefit the residents of the public housing project (or portion thereof) to be converted, the public housing agency, and the community; and
   - **(3)** will not adversely affect the availability of affordable housing in such community.
-- **(d)** A public housing project may be converted under this section to tenant-based assistance only as provided in a conversion plan under this subsection, which has not been disapproved by the Secretary pursuant to subsection (e) of this section. Each conversion plan shall—
+- **(d)** A public housing project may be converted under this section to tenant-based assistance only as provided in a conversion plan under this subsection, which has not been disapproved by the Secretary pursuant to subsection (e). Each conversion plan shall—
   - **(1)** be developed by the public housing agency, in consultation with the appropriate public officials, with significant participation by the residents of the project (or portion thereof) to be converted;
   - **(2)** be consistent with and part of the public housing agency plan;
   - **(3)** describe the conversion and future use or disposition of the project (or portion thereof) and include an impact analysis on the affected community;
@@ -41,7 +41,7 @@ status: "active"
     - **(D)** provide any actual and reasonable relocation expenses for families displaced by the conversion; and
   - **(5)** provide that any proceeds to the agency from the conversion will be used subject to the limitations that are applicable under section 1437p(a)(5) of this title to proceeds resulting from the disposition or demolition of public housing.
 - **(e)** The Secretary shall disapprove a conversion plan only if—
-  - **(1)** the plan is plainly inconsistent with the conversion assessment for the agency developed under subsection (b) of this section;
+  - **(1)** the plan is plainly inconsistent with the conversion assessment for the agency developed under subsection (b);
   - **(2)** there is reliable information and data available to the Secretary that contradicts that conversion assessment; or
   - **(3)** the plan otherwise fails to meet the requirements of this section.
 - **(f)** To the extent approved by the Secretary, the funds used by the public housing agency to provide tenant-based assistance under section 1437f of this title shall be added to the annual contribution contract administered by the public housing agency.

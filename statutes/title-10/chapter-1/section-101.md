@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T05:52:47.108Z"
+generated_at: "2026-03-30T05:55:13.222Z"
 status: "active"
 ---
 
@@ -94,7 +94,7 @@ status: "active"
       - **(ii)** Duty performed as a property and fiscal officer under section 708 of title 32 .
       - **(iii)** Duty performed for the purpose of interdiction and counter-drug activities for which funds have been provided under section 112 of title 32 .
       - **(iv)** Duty performed as a general or flag officer.
-      - **(v)** Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)). 1 1 See References in Text note below.
+      - **(v)** Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act ( 50 U.S.C. 3809(b)(2) ).
   - **(7)** The term “inactive-duty training” means—
     - **(A)** duty prescribed for Reserves by the Secretary concerned under section 206 of title 37 or any other provision of law; and
     - **(B)** special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.

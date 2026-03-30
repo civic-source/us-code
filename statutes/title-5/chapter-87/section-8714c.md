@@ -3,9 +3,9 @@ title: "Section 8714c - Optional life insurance on family members"
 usc_title: 5
 usc_section: "8714c"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 8714c"
-generated_at: "2026-03-30T05:52:33.974Z"
+generated_at: "2026-03-30T05:55:06.597Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1200e - Authorization of appropriations for relocating certain S
 usc_title: 43
 usc_section: "1200e"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "43 U.S.C. § 1200e"
-generated_at: "2026-03-30T05:54:26.524Z"
+generated_at: "2026-03-30T05:56:12.335Z"
 status: "active"
 ---
 

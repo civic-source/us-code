@@ -3,9 +3,9 @@ title: "Section 4705 - Protection of contractor employees from reprisal for disc
 usc_title: 41
 usc_section: "4705"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "41 U.S.C. § 4705"
-generated_at: "2026-03-30T05:54:22.430Z"
+generated_at: "2026-03-30T05:56:11.715Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
 - **(e)** This section does not—
   - **(1)** authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (b); or
   - **(2)** modify or derogate from a right or remedy otherwise available to the employee.
-- **(f)** While section 4712 of this title is in effect, this section shall not be in effect.
+- **(f)** While section 4712 1 1 See References in Text note below. of this title is in effect, this section shall not be in effect.

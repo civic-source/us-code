@@ -3,9 +3,9 @@ title: "Section 1720A - Treatment and rehabilitative services for persons with d
 usc_title: 38
 usc_section: "1720A"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 1720A"
-generated_at: "2026-03-30T05:54:20.197Z"
+generated_at: "2026-03-30T05:56:09.479Z"
 status: "active"
 ---
 

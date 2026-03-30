@@ -3,9 +3,9 @@ title: "Section 1671a - Procedures for initiating a countervailing duty investig
 usc_title: 19
 usc_section: "1671a"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "19 U.S.C. § 1671a"
-generated_at: "2026-03-30T05:53:13.048Z"
+generated_at: "2026-03-30T05:55:32.990Z"
 status: "active"
 ---
 

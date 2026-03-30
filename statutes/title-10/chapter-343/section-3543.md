@@ -1,15 +1,13 @@
 ---
-title: "Section 3543 - Aides: detail; number authorized"
+title: "Section 3543 - Repealed. Pub. L. 114–328, div. A, title V , § 502(s)(1), Dec. 23, 2016 , 130 Stat. 2104 ]"
 usc_title: 10
 usc_section: "3543"
 chapter: 343
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3543"
-generated_at: "2026-03-30T05:52:47.209Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.330Z"
+status: "repealed"
 ---
 
-# § 3543. Aides: detail; number authorized
+# [§ 3543. Repealed. Pub. L. 114–328, div. A, title V , § 502(s)(1), Dec. 23, 2016 , 130 Stat. 2104 ]
 
-- **(a)** Each major general of the Army is entitled to three aides selected by him from commissioned officers of the Army in any grade below major.
-- **(b)** Each brigadier general of the Army is entitled to two aides selected by him from commissioned officers of the Army in any grade below captain.

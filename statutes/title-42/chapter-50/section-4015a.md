@@ -3,9 +3,9 @@ title: "Section 4015a - Premium surcharge"
 usc_title: 42
 usc_section: "4015a"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 4015a"
-generated_at: "2026-03-30T05:54:40.438Z"
+generated_at: "2026-03-30T05:56:22.745Z"
 status: "active"
 ---
 

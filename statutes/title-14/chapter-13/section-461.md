@@ -3,9 +3,9 @@ title: "Section 461 - Remission of indebtedness"
 usc_title: 14
 usc_section: "461"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 461"
-generated_at: "2026-03-30T05:52:49.222Z"
+generated_at: "2026-03-30T05:55:22.796Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 The Secretary may have remitted or cancelled any part of a person’s indebtedness to the United States or any instrumentality of the United States if—
 
-  - **(1)** the indebtedness was incurred while the person served on active duty as a member of the Coast Guard; and
+  - **(1)** the indebtedness was incurred while the person served as a member of the Coast Guard, whether as a regular or a reserve in active status; and
   - **(2)** the Secretary determines that remitting or cancelling the indebtedness is in the best interest of the United States.

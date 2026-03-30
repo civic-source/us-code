@@ -3,9 +3,9 @@ title: "Section 2218 - National Defense Sealift Fund"
 usc_title: 10
 usc_section: "2218"
 chapter: 131
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2218"
-generated_at: "2026-03-30T05:52:47.172Z"
+generated_at: "2026-03-30T05:55:13.292Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(B)** Operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes.
     - **(C)** Installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States.
     - **(D)** Research and development relating to national defense sealift.
-    - **(E)** Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), 1 1 See References in Text note below. and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
+    - **(E)** Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 ( 50 U.S.C. 4405 ), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
   - **(2)** Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
   - **(3)** Funds obligated and expended for a purpose set forth in subparagraph (B) or (D) of paragraph (1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
 - **(d)** There shall be deposited in the Fund the following:
@@ -43,7 +43,7 @@ status: "active"
   - **(2)** the amount requested for programs, projects, and activities for operation, maintenance, and lease or charter of national defense sealift vessels;
   - **(3)** the amount requested for programs, projects, and activities for installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States; and
   - **(4)** the amount requested for programs, projects, and activities for research and development relating to national defense sealift.
-- **(i)** Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744). 1
+- **(i)** Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744). 1 1 See References in Text note below.
 - **(j)**
   - **(1)** The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
   - **(2)** The head of an agency may make advance payments to the contractor under a contract under paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
@@ -65,5 +65,5 @@ status: "active"
     - **(B)** Any other auxiliary vessel that was procured or chartered with specific authorization in law for the vessel, or class of vessels, to be funded in the National Defense Sealift Fund.
   - **(3)** The term “national defense sealift vessel” means—
     - **(A)** a Department of Defense sealift vessel; and
-    - **(B)** a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744). 1
+    - **(B)** a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 ( 50 U.S.C. 4405 ).
   - **(4)** The term “head of an agency” has the meaning given that term in section 2302(1) of this title .

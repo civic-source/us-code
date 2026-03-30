@@ -3,9 +3,9 @@ title: "Section 4052 - Authorization of appropriations"
 usc_title: 15
 usc_section: "4052"
 chapter: 66
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 4052"
-generated_at: "2026-03-30T05:52:57.833Z"
+generated_at: "2026-03-30T05:55:29.369Z"
 status: "active"
 ---
 

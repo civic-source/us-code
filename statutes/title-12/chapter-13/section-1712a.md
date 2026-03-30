@@ -3,9 +3,9 @@ title: "Section 1712a - Indexing of FHA multifamily housing loan limits"
 usc_title: 12
 usc_section: "1712a"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 1712a"
-generated_at: "2026-03-30T05:52:55.789Z"
+generated_at: "2026-03-30T05:55:26.978Z"
 status: "active"
 ---
 

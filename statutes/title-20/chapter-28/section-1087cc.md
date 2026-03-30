@@ -3,9 +3,9 @@ title: "Section 1087cc - Agreements with institutions of higher education"
 usc_title: 20
 usc_section: "1087cc"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 1087cc"
-generated_at: "2026-03-30T05:53:04.448Z"
+generated_at: "2026-03-30T05:55:35.994Z"
 status: "active"
 ---
 

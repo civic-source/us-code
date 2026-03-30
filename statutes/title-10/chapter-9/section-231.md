@@ -3,9 +3,9 @@ title: "Section 231 - Budgeting for construction of naval vessels: annual plan a
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-03-30T05:52:47.117Z"
+generated_at: "2026-03-30T05:55:13.231Z"
 status: "active"
 ---
 
@@ -29,5 +29,5 @@ status: "active"
 - **(f)** In this section:
   - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
   - **(2)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
-  - **(3)** The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of this title .
+  - **(3)** The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 1 1 See References in Text note below. of this title.
   - **(4)** The term “combatant and support vessel” means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.

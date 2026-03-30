@@ -3,9 +3,9 @@ title: "Section 7253 - Composition"
 usc_title: 38
 usc_section: "7253"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-30T05:54:20.230Z"
+generated_at: "2026-03-30T05:56:09.512Z"
 status: "active"
 ---
 
@@ -49,4 +49,4 @@ status: "active"
   - **(5)** Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997 . For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 - **(i)**
   - **(1)** Subject to paragraph (2), effective as of December 31, 2009 , the authorized number of judges of the Court specified in subsection (a) is increased by two.
-  - **(2)** Effective as of January 1, 2013 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+  - **(2)** Effective as of January 1, 2021 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).

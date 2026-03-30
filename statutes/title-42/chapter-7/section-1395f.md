@@ -3,9 +3,9 @@ title: "Section 1395f - Conditions of and limitations on payment for services"
 usc_title: 42
 usc_section: "1395f"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395f"
-generated_at: "2026-03-30T05:54:40.229Z"
+generated_at: "2026-03-30T05:56:22.530Z"
 status: "active"
 ---
 
@@ -136,7 +136,7 @@ status: "active"
 - **(k)** The amount paid to any home health agency with respect to durable medical equipment for which payment may be made under this part shall be the amount described in section 1395m(a)(1) of this title .
 - **(l)**
   - **(1)** Except as provided in the subsequent paragraphs of this subsection, the amount of payment under this part for inpatient critical access hospital services is equal to 101 percent of the reasonable costs of the critical access hospital in providing such services.
-  - **(2)** In the case of a distinct part psychiatric or rehabilitation unit of a critical access hospital described in section 1395i–4(c)(2)(E) of this title , the amount of payment for inpatient critical access hospital services of such unit shall be equal to the amount of the payment that would otherwise be made if such services were inpatient hospital services of a distinct part psychiatric or rehabilitation unit, respectively, described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title .
+  - **(2)** In the case of a distinct part psychiatric or rehabilitation unit of a critical access hospital described in section 1395i–4(c)(2)(E) of this title , the amount of payment for inpatient critical access hospital services of such unit shall be equal to the amount of the payment that would otherwise be made if such services were inpatient hospital services of a distinct part psychiatric or rehabilitation unit, respectively, described in the matter following clause (v) 3 3 See References in Text note below. of section 1395ww(d)(1)(B) of this title .
   - **(3)**
     - **(A)** The following rules shall apply in determining payment and reasonable costs under paragraph (1) for costs described in subparagraph (C) for a critical access hospital that would be a meaningful EHR user (as would be determined under paragraph (3) of section 1395ww(n) of this title ) for an EHR reporting period for a cost reporting period beginning during a payment year if such critical access hospital was treated as an eligible hospital under such section:
       - **(i)** The Secretary shall compute reasonable costs by expensing such costs in a single payment year and not depreciating such costs over a period of years (and shall include as costs with respect to cost reporting periods beginning during a payment year costs from previous cost reporting periods to the extent they have not been fully depreciated as of the period involved).
@@ -156,5 +156,5 @@ status: "active"
   - **(5)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise, of—
     - **(A)** the methodology and standards for determining the amount of payment and reasonable cost under paragraph (3) and payment adjustments under paragraph (4), including selection of periods under section 1395ww(n)(2) of this title for determining, and making estimates or using proxies of, inpatient-bed-days, hospital charges, charity charges, and Medicare share under subparagraph (D) of section 1395ww(n)(2) of this title ;
     - **(B)** the methodology and standards for determining a meaningful EHR user under section 1395ww(n)(3) of this title as would apply if the hospital was treated as an eligible hospital under section 1395ww(n) of this title , and the hardship exception under paragraph (4)(C);
-    - **(C)** the specification of EHR reporting periods under section 1395ww(n)(6)(B) 3 3 So in original. Probably should be “1395ww(n)(3)(B)”. of this title as applied under paragraphs (3) and (4); and
+    - **(C)** the specification of EHR reporting periods under section 1395ww(n)(6)(B) 4 4 So in original. Probably should be “1395ww(n)(3)(B)”. of this title as applied under paragraphs (3) and (4); and
     - **(D)** the identification of costs for purposes of paragraph (3)(C).

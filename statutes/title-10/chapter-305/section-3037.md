@@ -3,15 +3,15 @@ title: "Section 3037 - Judge Advocate General, Deputy Judge Advocate General, an
 usc_title: 10
 usc_section: "3037"
 chapter: 305
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3037"
-generated_at: "2026-03-30T05:52:47.208Z"
+generated_at: "2026-03-30T05:55:13.329Z"
 status: "active"
 ---
 
 # § 3037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties
 
-- **(a)** The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General’s Corps, from officers of the Judge Advocate General’s Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate General and the Deputy Judge Advocate General is four years. The Judge Advocate General, while so serving, has the grade of lieutenant general. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
+- **(a)** The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General’s Corps, from officers of the Judge Advocate General’s Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate General and the Deputy Judge Advocate General is four years.
 - **(b)** The Judge Advocate General shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least eight years of experience in legal duties as commissioned officers.
 - **(c)** The Judge Advocate General, in addition to other duties prescribed by law—
   - **(1)** is the legal adviser of the Secretary of the Army and of all officers and agencies of the Department of the Army;

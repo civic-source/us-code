@@ -3,9 +3,9 @@ title: "Section 5302 - Stabilizing exchange rates and arrangements"
 usc_title: 31
 usc_section: "5302"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "31 U.S.C. § 5302"
-generated_at: "2026-03-30T05:53:39.209Z"
+generated_at: "2026-03-30T05:56:05.089Z"
 status: "active"
 ---
 

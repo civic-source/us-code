@@ -1,21 +1,13 @@
 ---
-title: "Section 2387 - Procurement of table and kitchen equipment for officers’ quarters: limitation on"
+title: "Section 2387 - Repealed. Pub. L. 114–328, div. A, title VIII , § 833(b)(4)(A), Dec. 23, 2016 , 130 Stat. 2285 ]"
 usc_title: 10
 usc_section: "2387"
 chapter: 141
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2387"
-generated_at: "2026-03-30T05:52:47.185Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.305Z"
+status: "repealed"
 ---
 
-# § 2387. Procurement of table and kitchen equipment for officers’ quarters: limitation on
+# [§ 2387. Repealed. Pub. L. 114–328, div. A, title VIII , § 833(b)(4)(A), Dec. 23, 2016 , 130 Stat. 2285 ]
 
-- **(a)** Except under regulations approved by the Secretary of Defense and providing for uniform practices among the armed forces under his jurisdiction, no part of any appropriation of the Department of Defense may be used to supply or replace table linen, dishes, glassware, silver, and kitchen utensils for use in the residences on shore, or quarters on shore, of officers of those armed forces.
-- **(b)** This section does not apply to—
-  - **(1)** field messes;
-  - **(2)** messes temporarily set up on shore for bachelor officers and officers attached to seagoing or district defense vessels;
-  - **(3)** aviation units based on seagoing vessels;
-  - **(4)** fleet air bases;
-  - **(5)** submarine bases; and
-  - **(6)** landing forces and expeditions.

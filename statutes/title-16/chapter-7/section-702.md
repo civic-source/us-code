@@ -3,9 +3,9 @@ title: "Section 702 - Importation of eggs of game birds for propagation"
 usc_title: 16
 usc_section: "702"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 702"
-generated_at: "2026-03-30T05:53:07.679Z"
+generated_at: "2026-03-30T05:55:38.164Z"
 status: "active"
 ---
 

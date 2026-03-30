@@ -3,9 +3,9 @@ title: "Section 355 - Disposition of receipts"
 usc_title: 30
 usc_section: "355"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "30 U.S.C. § 355"
-generated_at: "2026-03-30T05:53:29.528Z"
+generated_at: "2026-03-30T05:55:55.237Z"
 status: "active"
 ---
 

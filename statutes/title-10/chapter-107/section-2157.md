@@ -3,9 +3,9 @@ title: "Section 2157 - Annual report to Congress"
 usc_title: 10
 usc_section: "2157"
 chapter: 107
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2157"
-generated_at: "2026-03-30T05:52:47.169Z"
+generated_at: "2026-03-30T05:55:13.289Z"
 status: "active"
 ---
 

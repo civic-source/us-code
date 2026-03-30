@@ -3,9 +3,9 @@ title: "Section 292v - Provision by schools of information to students"
 usc_title: 42
 usc_section: "292v"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 292v"
-generated_at: "2026-03-30T05:54:40.114Z"
+generated_at: "2026-03-30T05:56:22.408Z"
 status: "active"
 ---
 

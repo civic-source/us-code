@@ -3,9 +3,9 @@ title: "Section 8379 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1636(
 usc_title: 10
 usc_section: "8379"
 chapter: 837
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 8379"
-generated_at: "2026-03-30T05:52:47.229Z"
+generated_at: "2026-03-30T05:55:13.351Z"
 status: "repealed"
 ---
 

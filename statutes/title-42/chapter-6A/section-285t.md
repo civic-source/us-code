@@ -3,9 +3,9 @@ title: "Section 285t - Purpose of Institute"
 usc_title: 42
 usc_section: "285t"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 285t"
-generated_at: "2026-03-30T05:54:40.098Z"
+generated_at: "2026-03-30T05:56:22.392Z"
 status: "active"
 ---
 
@@ -48,8 +48,8 @@ status: "active"
 - **(g)** The Director of the Institute shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry out the provisions of section 289a–2 of this title that relate to minority groups.
 - **(h)**
   - **(1)** The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
-  - **(1)** 2 2 So in original. Probably should be “(A)”. at centers of excellence under section 293 of this title ; and
-  - **(2)** 3 3 So in original. Probably should be “(B)”. at centers of excellence under section 285t–1 of this title .
+  - **(1)** 1 1 So in original. Probably should be “(A)”. at centers of excellence under section 293 of this title ; and
+  - **(2)** 2 2 So in original. Probably should be “(B)”. at centers of excellence under section 285t–1 of this title .
   - **(2)** The Director of the Institute may provide for a research endowment under paragraph (1) only if the institution involved meets the following conditions:
     - **(A)** The institution does not have an endowment that is worth in excess of an amount equal to 50 percent of the national median of endowment funds at institutions that conduct similar biomedical research or training of health professionals.
     - **(B)** The application of the institution under paragraph (1) regarding a research endowment has been recommended pursuant to technical and scientific peer review and has been approved by the advisory council under subsection (j).
@@ -60,4 +60,4 @@ status: "active"
 - **(j)**
   - **(1)** The Secretary shall, in accordance with section 284a of this title , establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports under subsection (k) before the reports are submitted under such subsection.
   - **(2)** With respect to the membership of the advisory council under paragraph (1), a majority of the members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title .
-- **(h)** The Director of the Institute, as the primary Federal officials 5 5 So in original. with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review and evaluate research and other activities conducted or supported by the Institutes and Centers of the National Institutes of Health.
+- **(k)** The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.

@@ -3,9 +3,9 @@ title: "Section 1395w - Appropriations to cover Government contributions and con
 usc_title: 42
 usc_section: "1395w"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395w"
-generated_at: "2026-03-30T05:54:40.245Z"
+generated_at: "2026-03-30T05:56:22.547Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6722 - Failure to furnish correct payee statements"
 usc_title: 26
 usc_section: "6722"
 chapter: 68
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 6722"
-generated_at: "2026-03-30T05:53:36.607Z"
+generated_at: "2026-03-30T05:56:02.482Z"
 status: "active"
 ---
 
@@ -31,6 +31,13 @@ status: "active"
   - **(2)** The number of payee statements to which paragraph (1) applies for any calendar year shall not exceed the greater of—
     - **(A)** 10, or
     - **(B)** one-half of 1 percent of the total number of payee statements required to be furnished by the person during the calendar year.
+  - **(3)**
+    - **(A)** If, with respect to any payee statement—
+      - **(i)** there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+      - **(ii)** no single amount in error differs from the correct amount by more than $100, and
+      - **(iii)** no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+    - **(B)** Subparagraph (A) shall not apply to any payee statement if the person to whom such statement is required to be furnished makes an election (at such time and in such manner as the Secretary may prescribe) that subparagraph (A) not apply with respect to such statement.
+    - **(C)** The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
 - **(d)**
   - **(1)** If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
     - **(A)** subsection (a)(1) shall be applied by substituting “$1,000,000” for “$3,000,000”,

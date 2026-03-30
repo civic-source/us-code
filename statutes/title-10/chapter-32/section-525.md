@@ -3,9 +3,9 @@ title: "Section 525 - Distribution of commissioned officers on active duty in ge
 usc_title: 10
 usc_section: "525"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 525"
-generated_at: "2026-03-30T05:52:47.123Z"
+generated_at: "2026-03-30T05:55:13.240Z"
 status: "active"
 ---
 
@@ -26,8 +26,8 @@ status: "active"
     - **(C)** 50 officers in the grade of rear admiral;
   - **(4)** in the Marine Corps, if that appointment would result in more than—
     - **(A)** 2 officers in the grade of general;
-    - **(B)** 15 officers in a grade above the grade of major general; or
-    - **(C)** 23 officers in the grade of major general.
+    - **(B)** 17 officers in a grade above the grade of major general; or
+    - **(C)** 22 officers in the grade of major general.
 - **(b)** The limitations of subsection (a) do not include the following:
   - **(1)** An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than three officers from each armed forces may be on active duty who are excluded under this paragraph.
   - **(2)** The number of officers required to serve in joint duty assignments as authorized by the Secretary of Defense under section 526(b) for each military service.

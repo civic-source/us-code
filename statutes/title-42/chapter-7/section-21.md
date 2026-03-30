@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T05:54:40.254Z"
+generated_at: "2026-03-30T05:56:22.555Z"
 status: "active"
 ---
 
@@ -132,7 +132,7 @@ status: "active"
     - **(B)**
       - **(i)** Subject to clause (ii), subparagraph (C)(iii), 1 1 See References in Text note below. and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1).
       - **(ii)** An individual may exercise the right under clause (i) only once. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under the first sentence of paragraph (4).
-    - **(C)** Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title .
+    - **(C)** Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011 and ending with 2018), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title .
     - **(D)** At any time after 2005 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1)—
       - **(i)** to enroll in a Medicare+Choice plan; or
       - **(ii)** to change the Medicare+Choice plan in which the individual is enrolled.
@@ -149,6 +149,13 @@ status: "active"
     - **(F)**
       - **(i)** At any time during the period beginning after the last day of the annual, coordinated election period under paragraph (3) in which an individual is deemed to have elected to enroll in an MA plan or MA–PD plan under subsection (c)(4) and ending on the last day of February of the first plan year for which the individual is enrolled in such plan, such individual may change the election under subsection (a)(1) (including changing the MA plan or MA–PD plan in which the individual is enrolled).
       - **(ii)** An individual may exercise the right under clause (i) only once during the applicable period described in such clause. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+    - **(G)**
+      - **(i)** Subject to clause (ii) and subparagraph (D)—
+        - **(I)** in the case of an MA eligible individual who is enrolled in an MA plan, at any time during the first 3 months of a year (beginning with 2019); or
+        - **(II)** in the case of an individual who first becomes an MA eligible individual during a year (beginning with 2019) and enrolls in an MA plan, during the first 3 months during such year in which the individual is an MA eligible individual;
+      - **(ii)** An individual may change the election pursuant to clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+      - **(iii)** Clauses (i) and (ii) of this subparagraph shall only apply with respect to changes in enrollment in a prescription drug plan under part D in the case of an individual who, previous to such change in enrollment, is enrolled in a Medicare Advantage plan.
+      - **(iv)** Pursuant to subsection (j), no unsolicited marketing or marketing materials may be sent to an individual described in clause (i) during the continuous open enrollment and disenrollment period established for the individual under such clause, notwithstanding marketing guidelines established by the Centers for Medicare & Medicaid Services.
   - **(3)**
     - **(A)** Subject to paragraph (5), each individual who is eligible to make an election under this section may change such election during an annual, coordinated election period.
     - **(B)** For purposes of this section, the term “annual, coordinated election period” means—

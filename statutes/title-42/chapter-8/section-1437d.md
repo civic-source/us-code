@@ -3,9 +3,9 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-30T05:54:40.332Z"
+generated_at: "2026-03-30T05:56:22.635Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
 - **(g)** Every contract for contributions (including contracts which amend or supersede contracts previously made) may provide that—
   - **(1)** upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined in such contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of the project, as then constituted, to which such contract relates; and
   - **(2)** the Secretary shall be obligated to reconvey or redeliver possession of the project as constituted at the time of reconveyance or redelivery, to such public housing agency or to its successor (if such public housing agency or a successor exists) upon such terms as shall be prescribed in such contract, and as soon as practicable (i) after the Secretary is satisfied that all defaults with respect to the project have been cured, and that the project will, in order to fulfill the purposes of this chapter, thereafter be operated in accordance with the terms of such contract; or (ii) after the termination of the obligation to make annual contributions available unless there are any obligations or covenants of the public housing agency to the Secretary which are then in default. Any prior conveyances and reconveyances or deliveries and redeliveries of possession shall not exhaust the right to require a conveyance or delivery of possession of the project to the Secretary pursuant to subparagraph (1) upon the subsequent occurrence of a substantial default.
-- **(h)** On or after October 1, 1983 , the Secretary may enter into a contract involving new construction only if the public housing agency demonstrates to the satisfaction of the Secretary that the cost of new construction in the neighborhood where the public housing agency determines the housing is needed is less than the cost of acquisition or acquisition and rehabilitation in such neighborhood, including any reserve fund under subsection (i) of this section, would be.
+- **(h)** On or after October 1, 1983 , the Secretary may enter into a contract involving new construction only if the public housing agency demonstrates to the satisfaction of the Secretary that the cost of new construction in the neighborhood where the public housing agency determines the housing is needed is less than the cost of acquisition or acquisition and rehabilitation in such neighborhood, including any reserve fund under subsection (i), would be.
 - **(i)** The Secretary may, upon application by a public housing agency in connection with the acquisition of housing for use as public housing, establish and set aside a reserve fund in an amount not to exceed 30 per centum of the acquisition cost which shall be available for use for major repairs to such housing.
 - **(j)**
   - **(1)** The Secretary shall develop and publish in the Federal Register indicators to assess the management performance of public housing agencies and resident management corporations. The indicators shall be established by rule under section 553 of title 5 . Such indicators shall enable the Secretary to evaluate the performance of public housing agencies and resident management corporations in all major areas of management operations. The Secretary shall, in particular, use the following indicators for public housing agencies, to the extent practicable:
@@ -135,7 +135,7 @@ status: "active"
   - **(7)** The Secretary shall apply the provisions of this subsection to resident management corporations in the same manner as applied to public housing agencies.
 - **(k)** The Secretary shall by regulation require each public housing agency receiving assistance under this chapter to establish and implement an administrative grievance procedure under which tenants will—
   - **(1)** be advised of the specific grounds of any proposed adverse public housing agency action;
-  - **(2)** have an opportunity for a hearing before an impartial party upon timely request within any period applicable under subsection ( l ) of this section;
+  - **(2)** have an opportunity for a hearing before an impartial party upon timely request within any period applicable under subsection ( l );
   - **(3)** have an opportunity to examine any documents or records or regulations related to the proposed action;
   - **(4)** be entitled to be represented by another person of their choice at any hearing;
   - **(5)** be entitled to ask questions of witnesses and have others make statements on their behalf; and
@@ -189,7 +189,7 @@ status: "active"
 - **(r)**
   - **(1)** A public housing agency may establish procedures for maintaining waiting lists for admissions to public housing projects of the agency, which may include (notwithstanding any other law, regulation, handbook, or notice to the contrary) a system of site-based waiting lists under which applicants may apply directly at or otherwise designate the project or projects in which they seek to reside. All such procedures shall comply with all provisions of title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.], the Fair Housing Act [ 42 U.S.C. 3601 et seq.], and other applicable civil rights laws.
   - **(2)** Any system described in paragraph (1) shall provide for the full disclosure by the public housing agency to each applicant of any option available to the applicant in the selection of the project in which to reside.
-- **(s)** A public housing agency may require, as a condition of providing admission to the public housing program or assisted housing program under the jurisdiction of the public housing agency, that each adult member of the household provide a signed, written authorization for the public housing agency to obtain records described in subsection (q)(1) of this section regarding such member of the household from the National Crime Information Center, police departments, and other law enforcement agencies.
+- **(s)** A public housing agency may require, as a condition of providing admission to the public housing program or assisted housing program under the jurisdiction of the public housing agency, that each adult member of the household provide a signed, written authorization for the public housing agency to obtain records described in subsection (q)(1) regarding such member of the household from the National Crime Information Center, police departments, and other law enforcement agencies.
 - **(t)**
   - **(1)** Notwithstanding any other provision of law other than the Public Health Service Act ( 42 U.S.C. 201 et seq.), a public housing agency may require each person who applies for admission to public housing to sign one or more forms of written consent authorizing the agency to receive information from a drug abuse treatment facility that is solely related to whether the applicant is currently engaging in the illegal use of a controlled substance.
   - **(2)**

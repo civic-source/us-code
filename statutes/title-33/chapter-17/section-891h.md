@@ -3,9 +3,9 @@ title: "Section 891h - Authorization of appropriations"
 usc_title: 33
 usc_section: "891h"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 891h"
-generated_at: "2026-03-30T05:53:40.411Z"
+generated_at: "2026-03-30T05:56:05.853Z"
 status: "active"
 ---
 

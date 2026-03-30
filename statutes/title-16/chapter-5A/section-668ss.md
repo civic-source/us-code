@@ -3,9 +3,9 @@ title: "Section 668ss - Omitted"
 usc_title: 16
 usc_section: "668ss"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 668ss"
-generated_at: "2026-03-30T05:53:07.673Z"
+generated_at: "2026-03-30T05:55:38.158Z"
 status: "omitted"
 ---
 

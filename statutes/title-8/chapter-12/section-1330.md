@@ -3,9 +3,9 @@ title: "Section 1330 - Collection of penalties and expenses"
 usc_title: 8
 usc_section: "1330"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "8 U.S.C. § 1330"
-generated_at: "2026-03-30T05:52:42.096Z"
+generated_at: "2026-03-30T05:55:09.023Z"
 status: "active"
 ---
 

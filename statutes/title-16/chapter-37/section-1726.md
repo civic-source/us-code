@@ -3,9 +3,9 @@ title: "Section 1726 - Living allowances and terms of service"
 usc_title: 16
 usc_section: "1726"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 1726"
-generated_at: "2026-03-30T05:53:07.733Z"
+generated_at: "2026-03-30T05:55:38.217Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, as the case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
 - **(c)** The Secretary may—
   - **(1)** grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
-  - **(2)** provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 120 days after the date on which the member’s service with the Public Lands Corps is complete.
+  - **(2)** provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 2 years after the date on which the member’s service with the Public Lands Corps is complete.

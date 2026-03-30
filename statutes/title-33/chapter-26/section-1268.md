@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T05:53:40.419Z"
+generated_at: "2026-03-30T05:56:05.861Z"
 status: "active"
 ---
 
@@ -61,37 +61,56 @@ status: "active"
   - **(6)** The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
   - **(7)**
     - **(A)** There is established in the Agency a Great Lakes Restoration Initiative (referred to in this paragraph as the “Initiative”) to carry out programs and projects for Great Lakes protection and restoration.
-    - **(B)** The Initiative shall prioritize programs and projects carried out in coordination with non-Federal partners and programs and projects that address priority areas each fiscal year, including—
+    - **(B)** In carrying out the Initiative, the Administrator shall prioritize programs and projects, to be carried out in coordination with non-Federal partners, that address the priority areas described in the Initiative Action Plan, including—
       - **(i)** the remediation of toxic substances and areas of concern;
       - **(ii)** the prevention and control of invasive species and the impacts of invasive species;
       - **(iii)** the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
       - **(iv)** habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
       - **(v)** accountability, monitoring, evaluation, communication, and partnership activities.
-    - **(C)** Under the Initiative, the Agency shall collaborate with Federal partners, including the Great Lakes Interagency Task Force, to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
-      - **(i)** the ability to achieve strategic and measurable environmental outcomes that implement the Great Lakes Action Plan and the Great Lakes Water Quality Agreement;
-      - **(ii)** the feasibility of—
-        - **(I)** prompt implementation;
-        - **(II)** timely achievement of results; and
-        - **(III)** resource leveraging; and
-      - **(iii)** the opportunity to improve interagency and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
+    - **(C)**
+      - **(i)** In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order No. 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+        - **(I)** the ability to achieve strategic and measurable environmental outcomes that implement the Initiative Action Plan and the Great Lakes Water Quality Agreement;
+        - **(II)** the feasibility of—
+        - **(III)** the opportunity to improve interagency, intergovernmental, and interorganizational coordination and collaboration to reduce duplication and streamline efforts.
+      - **(ii)** In selecting the best combination of programs and projects for Great Lakes protection and restoration under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+      - **(iii)** The Administrator shall designate a point person from an appropriate Federal partner to coordinate, with Federal partners and Great Lakes States, Indian tribes, and other non-Federal stakeholders, projects and activities under the Initiative involving harmful algal blooms in the Great Lakes.
     - **(D)**
-      - **(i)** Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
-        - **(I)** Federal projects; and
-        - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.
+      - **(i)** Subject to subparagraph (J)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+        - **(I)** Federal projects;
+        - **(II)** projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations; and
+        - **(III)** operations and activities of the Program Office, including remediation of sediment contamination in areas of concern.
       - **(ii)** With amounts made available for the Initiative each fiscal year, the Administrator may—
-        - **(I)** transfer not more than the total amount appropriated under subparagraph (G)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
+        - **(I)** transfer not more than the total amount appropriated under subparagraph (J)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
         - **(II)** enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
+      - **(iii)**
+        - **(I)** The Administrator, or the head of any other Federal department or agency receiving funds under clause (ii)(I), may make a grant to, or otherwise enter into an agreement with, a qualified non-Federal entity, as determined by the Administrator or the applicable head of the other Federal department or agency receiving funds, for planning, research, monitoring, outreach, or implementation of a project selected under subparagraph (C), to support the Initiative Action Plan or the Great Lakes Water Quality Agreement.
+        - **(II)** For purposes of this clause, a qualified non-Federal entity may include a governmental entity, nonprofit organization, institution, or individual.
     - **(E)**
-      - **(i)** Projects shall be carried out under the Initiative on multiple levels, including—
-        - **(I)** Great Lakes-wide; and
-        - **(II)** Great Lakes basin-wide.
-      - **(ii)** No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which amounts are made available from—
-        - **(I)** a State water pollution control revolving fund established under subchapter VI; or
-        - **(II)** a State drinking water revolving loan fund established under section 300j–12 of title 42 .
+      - **(i)** Projects may be carried out under the Initiative on multiple levels, including—
+        - **(I)** locally;
+        - **(II)** Great Lakes-wide; or
+        - **(III)** Great Lakes basin-wide.
+      - **(ii)** No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which financial assistance is received—
+        - **(I)** from a State water pollution control revolving fund established under subchapter VI;
+        - **(II)** from a State drinking water revolving loan fund established under section 300j–12 of title 42 ; or
+        - **(III)** pursuant to the Water Infrastructure Finance and Innovation Act of 2014 ( 33 U.S.C. 3901 et seq.).
     - **(F)** Each relevant Federal department or agency shall, to the maximum extent practicable—
       - **(i)** maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
       - **(ii)** identify new activities and projects to support the environmental goals of the Initiative.
-    - **(G)** There are authorized to be appropriated to carry out this paragraph for fiscal year 2016, $300,000,000.
+    - **(G)**
+      - **(i)** Not less often than once every 5 years, the Administrator, in conjunction with the Great Lakes Interagency Task Force, shall review, and revise as appropriate, the Initiative Action Plan to guide the activities of the Initiative in addressing the restoration and protection of the Great Lakes system.
+      - **(ii)** In reviewing and revising the Initiative Action Plan under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+    - **(H)** The Administrator shall—
+      - **(i)** establish and maintain a process for monitoring and periodically reporting to the public on the progress made in implementing the Initiative Action Plan;
+      - **(ii)** make information about each project carried out under the Initiative Action Plan available on a public website; and
+      - **(iii)** provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a yearly detailed description of the progress of the Initiative and amounts transferred to participating Federal departments and agencies under subparagraph (D)(ii).
+    - **(I)** In this paragraph, the term “Initiative Action Plan” means the comprehensive, multiyear action plan for the restoration of the Great Lakes, first developed pursuant to the Joint Explanatory Statement of the Conference Report accompanying the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 ( Public Law 111–88 ).
+    - **(J)**
+      - **(i)** There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+      - **(ii)** Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—
+        - **(I)** this section;
+        - **(II)** the Initiative Action Plan; or
+        - **(III)** the Great Lakes Water Quality Agreement.
   - **(8)** The Administrator shall ensure that the Program Office enters into agreements with the various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
     - **(A)** the duties and responsibilities of each such element in the Agency with respect to the Great Lakes;
     - **(B)** the time periods for carrying out such duties and responsibilities; and

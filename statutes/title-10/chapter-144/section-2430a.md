@@ -3,9 +3,9 @@ title: "Section 2430a - Major subprograms"
 usc_title: 10
 usc_section: "2430a"
 chapter: 144
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2430a"
-generated_at: "2026-03-30T05:52:47.187Z"
+generated_at: "2026-03-30T05:55:13.308Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** If the Secretary of Defense determines that a major defense acquisition program requires the delivery of two or more categories of end items which differ significantly from each other in form and function, the Secretary may designate each such category of end items as a major subprogram for the purposes of acquisition reporting under this chapter.
-    - **(B)** If the Secretary of Defense determines that a major defense acquisition program to purchase satellites requires the delivery of satellites in two or more increments or blocks, the Secretary may designate each such increment or block as a major subprogram for the purposes of acquisition reporting under this chapter.
+    - **(B)** If the Secretary of Defense determines that a major defense acquisition program requires the delivery of two or more increments or blocks, the Secretary may designate each such increment or block as a major subprogram for the purposes of acquisition reporting under this chapter.
   - **(2)** The Secretary shall notify the congressional defense committees in writing of any proposed designation pursuant to paragraph (1) not less than 30 days before the date such designation takes effect.
 - **(b)**
   - **(1)** If the Secretary designates a major subprogram of a major defense acquisition program in accordance with subsection (a), Selected Acquisition Reports, unit cost reports, and program baselines under this chapter shall reflect cost, schedule, and performance information—

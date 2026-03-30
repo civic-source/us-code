@@ -3,9 +3,9 @@ title: "Section 1395y - Exclusions from coverage and medicare as secondary payer
 usc_title: 42
 usc_section: "1395y"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395y"
-generated_at: "2026-03-30T05:54:40.271Z"
+generated_at: "2026-03-30T05:56:22.572Z"
 status: "active"
 ---
 
@@ -229,6 +229,12 @@ status: "active"
     - **(A)** The Secretary shall develop a plan to evaluate new local coverage determinations to determine which determinations should be adopted nationally and to what extent greater consistency can be achieved among local coverage determinations.
     - **(B)** The Secretary shall require the fiscal intermediaries or carriers providing services within the same area to consult on all new local coverage determinations within the area.
     - **(C)** The Secretary should serve as a center to disseminate information on local coverage determinations among fiscal intermediaries and carriers to reduce duplication of effort.
+    - **(D)** The Secretary shall require each Medicare administrative contractor that develops a local coverage determination to make available on the Internet website of such contractor and on the Medicare Internet website, at least 45 days before the effective date of such determination, the following information:
+      - **(i)** Such determination in its entirety.
+      - **(ii)** Where and when the proposed determination was first made public.
+      - **(iii)** Hyperlinks to the proposed determination and a response to comments submitted to the contractor with respect to such proposed determination.
+      - **(iv)** A summary of evidence that was considered by the contractor during the development of such determination and a list of the sources of such evidence.
+      - **(v)** An explanation of the rationale that supports such determination.
   - **(6)** For purposes of this subsection—
     - **(A)** The term “national coverage determination” means a determination by the Secretary with respect to whether or not a particular item or service is covered nationally under this subchapter.
     - **(B)** The term “local coverage determination” has the meaning given that in section 1395ff(f)(2)(B) of this title .

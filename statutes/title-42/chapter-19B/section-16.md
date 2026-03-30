@@ -3,16 +3,16 @@ title: "Section 16 - Comprehensive plans for development, utilization, and conse
 usc_title: 42
 usc_section: "16"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T05:54:40.375Z"
+generated_at: "2026-03-30T05:56:22.679Z"
 status: "active"
 ---
 
 # § 1962d–16. Comprehensive plans for development, utilization, and conservation of water and related resources
 
 - **(a)**
-  - **(1)** The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State or other non-Federal interest working with a State in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
+  - **(1)** The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, or non-Federal interest working with a State or group of States in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State or group of States, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
   - **(2)**
     - **(A)** At the request of a governmental agency or non-Federal interest, the Secretary may provide technical assistance to such agency or non-Federal interest in managing water resources.
     - **(B)** Technical assistance under this paragraph may include provision and integration of hydrologic, economic, and environmental data and analyses.
@@ -22,7 +22,8 @@ status: "active"
   - **(3)** The non-Federal contribution for preparation of a plan subject to the cost sharing program under this subsection may be made by the provision of services, materials, supplies, or other in-kind services necessary to prepare the plan.
   - **(4)** Fees collected under this subsection shall be deposited into the account in the Treasury of the United States entitled, “Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)” and shall be available until expended to carry out this section.
 - **(c)**
-  - **(1)** There is authorized to be appropriated not to exceed $30,000,000 annually to carry out subsection (a)(1), except that not more than $5,000,000 in Federal funds shall be expended in any one year in any one State.
+  - **(1)** There is authorized to be appropriated not to exceed $30,000,000 annually to carry out subsection (a)(1), except that not more than $5,000,000 in Federal funds shall be expended in any one year in any one State. The Secretary may allow 2 or more States to combine all or a portion of the funds that the Secretary makes available to the States in carrying out subsection (a)(1).
   - **(2)** There is authorized to be appropriated $15,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enter into cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
 - **(d)** Concurrent with the President’s submission to Congress of the President’s request for appropriations for the Civil Works Program for a fiscal year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the individual activities proposed for funding under subsection (a)(1) for that fiscal year.
 - **(e)** For the purposes of this section, the term “State” means the several States of the United States, Indian tribes, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
+- **(f)** The cost-share for assistance under this section provided to Indian tribes, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands shall be as provided under section 2310 of title 33 .

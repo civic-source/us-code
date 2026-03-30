@@ -3,9 +3,9 @@ title: "Section 52 - Authority to assess and use biosimilar biological product f
 usc_title: 21
 usc_section: "52"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 52"
-generated_at: "2026-03-30T05:53:21.600Z"
+generated_at: "2026-03-30T05:55:48.566Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
         - **(I)** half of the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application; minus
         - **(II)** the cumulative amount of fees paid, if any, under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
       - **(iii)** A fee for a supplement for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required, that is equal to half of the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application.
-    - **(B)** Notwithstanding section 404 of the Biosimilars 1 1 So in original. Probably should be “Biosimilar”. User Fee Act of 2012, any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017 , but submits a biosimilar biological product application for that product after such date, shall be entitled to the reduction of any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted, by the cumulative amount of fees paid under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
+    - **(B)** Notwithstanding section 404 of the Biosimilar User Fee Act of 2012, any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017 , but submits a biosimilar biological product application for that product after such date, shall be entitled to the reduction of any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted, by the cumulative amount of fees paid under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
     - **(C)** Any fee required by subparagraph (A) shall be due upon submission of the application or supplement for which such fee applies.
     - **(D)** If a biosimilar biological product application or supplement was submitted by a person that paid the fee for such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a biosimilar biological product application or a supplement for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
     - **(E)** The Secretary shall refund 75 percent of the fee paid under this paragraph for any application or supplement which is refused for filing or withdrawn without a waiver before filing.

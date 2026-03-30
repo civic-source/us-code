@@ -1,15 +1,13 @@
 ---
-title: "Section 9337 - Chaplain"
+title: "Section 9337 - Repealed. Pub. L. 114–328, div. A, title V , § 591(a), Dec. 23, 2016 , 130 Stat. 2152 ]"
 usc_title: 10
 usc_section: "9337"
 chapter: 903
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 9337"
-generated_at: "2026-03-30T05:52:47.231Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.353Z"
+status: "repealed"
 ---
 
-# § 9337. Chaplain
-
-There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and light for quarters in kind. The chaplain may be reappointed.
+# [§ 9337. Repealed. Pub. L. 114–328, div. A, title V , § 591(a), Dec. 23, 2016 , 130 Stat. 2152 ]
 

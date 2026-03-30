@@ -3,9 +3,9 @@ title: "Section 5004 - Advisory Panel"
 usc_title: 16
 usc_section: "5004"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 5004"
-generated_at: "2026-03-30T05:53:07.773Z"
+generated_at: "2026-03-30T05:55:38.259Z"
 status: "active"
 ---
 
@@ -19,4 +19,7 @@ status: "active"
 - **(b)** Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4), the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
 - **(c)** Any person appointed to the Advisory Panel pursuant to subsection (a)(4) shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
 - **(d)** The Advisory Panel shall be invited to all nonexecutive meetings of the United States Section and at such meetings shall be granted the opportunity to examine and to be heard on all proposed programs of study and investigation, reports, and recommendations of the United States Section.
-- **(e)** The members of the Advisory Panel shall receive no compensation or travel expenses for their services as such members.
+- **(e)** The members of the Advisory Panel shall receive no compensation for their service as such members.
+- **(f)**
+  - **(1)** The Secretary may pay the necessary travel expenses of the members of the Advisory Panel in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+  - **(2)** The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph. 1 1 So in original. Probably should be “subsection”.

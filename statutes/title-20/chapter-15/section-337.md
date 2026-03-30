@@ -3,9 +3,9 @@ title: "Section 337 - Repealed. Pub. L. 91–230, title I , § 143(b), Apr. 13, 
 usc_title: 20
 usc_section: "337"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 337"
-generated_at: "2026-03-30T05:53:04.407Z"
+generated_at: "2026-03-30T05:55:35.960Z"
 status: "repealed"
 ---
 

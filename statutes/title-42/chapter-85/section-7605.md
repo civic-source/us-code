@@ -3,9 +3,9 @@ title: "Section 7605 - Representation in litigation"
 usc_title: 42
 usc_section: "7605"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 7605"
-generated_at: "2026-03-30T05:54:40.545Z"
+generated_at: "2026-03-30T05:56:22.849Z"
 status: "active"
 ---
 

@@ -1,0 +1,21 @@
+---
+title: "Section 2447a - Weapon system component or technology prototype projects: display of budget information"
+usc_title: 10
+usc_section: "2447a"
+chapter: 144
+current_through: "PL 115-8"
+classification: "10 U.S.C. § 2447a"
+generated_at: "2026-03-30T05:55:13.309Z"
+status: "active"
+---
+
+# § 2447a. Weapon system component or technology prototype projects: display of budget information
+
+- **(a)** In the defense budget materials for any fiscal year after fiscal year 2017, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:
+  - **(1)** Acquisition programs of record.
+  - **(2)** Development, prototyping, and experimentation of weapon system components or other technologies, including those based on commercial items and technologies, separate from acquisition programs of record.
+  - **(3)** Other budget line items as determined by the Secretary of Defense.
+- **(b)** For purposes of subsection (a)(2), the amounts requested for development, prototyping, and experimentation of weapon system components or other technologies shall be—
+  - **(1)** structured into either capability, weapon system component, or technology portfolios that reflect the priority areas for prototype projects; and
+  - **(2)** justified with general descriptions of the types of capability areas and technologies being funded or expected to be funded during the fiscal year concerned.
+- **(c)** In this section, the terms “budget” and “defense budget materials” have the meaning given those terms in section 234 of this title .

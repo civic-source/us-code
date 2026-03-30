@@ -3,15 +3,15 @@ title: "Section 651 - Members: required service"
 usc_title: 10
 usc_section: "651"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 651"
-generated_at: "2026-03-30T05:52:47.126Z"
+generated_at: "2026-03-30T05:55:13.245Z"
 status: "active"
 ---
 
 # § 651. Members: required service
 
-- **(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)) 1 1 See References in Text note below. shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
+- **(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act ( 50 U.S.C. 3806(d)(1) ) 1 1 So in original. Probably should be followed by “, shall serve”. in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 - **(b)** Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
 - **(c)**
   - **(1)** For the armed forces under the jurisdiction of the Secretary of Defense, the Secretary may waive the initial period of required service otherwise established pursuant to subsection (a) in the case of the initial appointment of a commissioned officer in a critically short health professional specialty specified by the Secretary for purposes of this subsection.

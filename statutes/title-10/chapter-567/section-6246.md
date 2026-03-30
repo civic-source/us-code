@@ -3,9 +3,9 @@ title: "Section 6246 - Navy and Marine Corps Medal"
 usc_title: 10
 usc_section: "6246"
 chapter: 567
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 6246"
-generated_at: "2026-03-30T05:52:47.219Z"
+generated_at: "2026-03-30T05:55:13.340Z"
 status: "active"
 ---
 

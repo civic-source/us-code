@@ -3,9 +3,9 @@ title: "Section 110309 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "110309"
 chapter: 1103
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "36 U.S.C. § 110309"
-generated_at: "2026-03-30T05:54:01.326Z"
+generated_at: "2026-03-30T05:56:08.250Z"
 status: "active"
 ---
 

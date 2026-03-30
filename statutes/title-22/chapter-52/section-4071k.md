@@ -3,9 +3,9 @@ title: "Section 4071k - Spousal agreements"
 usc_title: 22
 usc_section: "4071k"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 4071k"
-generated_at: "2026-03-30T05:53:23.577Z"
+generated_at: "2026-03-30T05:55:51.121Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 360c - Classification of devices intended for human use"
 usc_title: 21
 usc_section: "360c"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 360c"
-generated_at: "2026-03-30T05:53:21.582Z"
+generated_at: "2026-03-30T05:55:48.547Z"
 status: "active"
 ---
 
@@ -47,15 +47,32 @@ status: "active"
   - **(2)** The Secretary shall appoint to each panel established under paragraph (1) persons who are qualified by training and experience to evaluate the safety and effectiveness of the devices to be referred to the panel and who, to the extent feasible, possess skill in the use of, or experience in the development, manufacture, or utilization of, such devices. The Secretary shall make appointments to each panel so that each panel shall consist of members with adequately diversified expertise in such fields as clinical and administrative medicine, engineering, biological and physical sciences, and other related professions. In addition, each panel shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter may be a member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
   - **(3)** Panel members (other than officers or employees of the United States), while attending meetings or conferences of a panel or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, but not at rates exceeding the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day so engaged, including traveltime; and while so serving away from their homes or regular places of business each member may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 , for persons in the Government service employed intermittently.
   - **(4)** The Secretary shall furnish each panel with adequate clerical and other necessary assistance.
-  - **(5)** Classification panels covering each type of device shall be scheduled to meet at such times as may be appropriate for the Secretary to meet applicable statutory deadlines.
+  - **(5)**
+    - **(A)** Classification panels covering each type of device shall be scheduled to meet at such times as may be appropriate for the Secretary to meet applicable statutory deadlines.
+    - **(B)** When a device is specifically the subject of review by a classification panel, the Secretary shall—
+      - **(i)** ensure that adequate expertise is represented on the classification panel to assess—
+        - **(I)** the disease or condition which the device is intended to cure, treat, mitigate, prevent, or diagnose; and
+        - **(II)** the technology of the device; and
+      - **(ii)** provide an opportunity for the person whose device is specifically the subject of panel review to provide recommendations on the expertise needed among the voting members of the panel.
+    - **(C)** For purposes of subparagraph (B)(i), the term “adequate expertise” means that the membership of the classification panel includes—
+      - **(i)** two or more voting members, with a specialty or other expertise clinically relevant to the device under review; and
+      - **(ii)** at least one voting member who is knowledgeable about the technology of the device.
+    - **(D)** The Secretary shall provide an annual opportunity for patients, representatives of patients, and sponsors of medical device submissions to provide recommendations for individuals with appropriate expertise to fill voting member positions on classification panels.
   - **(6)**
     - **(A)** Any person whose device is specifically the subject of review by a classification panel shall have—
       - **(i)** the same access to data and information submitted to a classification panel (except for data and information that are not available for public disclosure under section 552 of title 5 ) as the Secretary;
       - **(ii)** the opportunity to submit, for review by a classification panel, information that is based on the data or information provided in the application submitted under section 360e of this title by the person, which information shall be submitted to the Secretary for prompt transmittal to the classification panel; and
-      - **(iii)** the same opportunity as the Secretary to participate in meetings of the panel.
-    - **(B)** Any meetings of a classification panel shall provide adequate time for initial presentations and for response to any differing views by persons whose devices are specifically the subject of a classification panel review, and shall encourage free and open participation by all interested persons.
+      - **(iii)** the same opportunity as the Secretary to participate in meetings of the panel, including, subject to the discretion of the panel chairperson, by designating a representative who will be provided a time during the panel meeting to address the panel for the purpose of correcting misstatements of fact or providing clarifying information, and permitting the person or representative to call on experts within the person’s organization to address such specific issues in the time provided.
+    - **(B)**
+      - **(i)** Any meeting of a classification panel with respect to the review of a device shall—
+        - **(I)** provide adequate time for initial presentations by the person whose device is specifically the subject of such review and by the Secretary; and
+        - **(II)** encourage free and open participation by all interested persons.
+      - **(ii)** Following the initial presentations described in clause (i), the panel may—
+        - **(I)** pose questions to a designated representative described in subparagraph (A)(iii); and
+        - **(II)** consider the responses to such questions in the panel’s review of the device.
   - **(7)** After receiving from a classification panel the conclusions and recommendations of the panel on a matter that the panel has reviewed, the Secretary shall review the conclusions and recommendations, shall make a final decision on the matter in accordance with section 360e(d)(2) of this title , and shall notify the affected persons of the decision in writing and, if the decision differs from the conclusions and recommendations of the panel, shall include the reasons for the difference.
   - **(8)** A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the Federal Advisory Committee Act.
+  - **(9)** The Secretary shall classify an accessory under this section based on the intended use of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
 - **(c)**
   - **(1)** The Secretary shall organize the panels according to the various fields of clinical medicine and fundamental sciences in which devices intended for human use are used. The Secretary shall refer a device to be classified under this section to an appropriate panel established or authorized to be used under subsection (b) for its review and for its recommendation respecting the classification of the device. The Secretary shall by regulation prescribe the procedure to be followed by the panels in making their reviews and recommendations. In making their reviews of devices, the panels, to the maximum extent practicable, shall provide an opportunity for interested persons to submit data and views on the classification of the devices.
   - **(2)**
@@ -94,10 +111,10 @@ status: "active"
     - **(C)** the device is classified pursuant to a request submitted under paragraph (2).
   - **(2)**
     - **(A)**
-      - **(i)** Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, within 30 days after receiving written notice of such a classification, the Secretary to classify the device.
+      - **(i)** Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, after receiving written notice of such a classification, the Secretary to classify the device.
       - **(ii)** In lieu of submitting a report under section 360(k) of this title and submitting a request for classification under clause (i) for a device, if a person determines there is no legally marketed device upon which to base a determination of substantial equivalence (as defined in subsection (i)), a person may submit a request under this clause for the Secretary to classify the device.
       - **(iii)** Upon receipt of a request under clause (i) or (ii), the Secretary shall classify the device subject to the request under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) within 120 days.
-      - **(iv)** Notwithstanding clause (iii), the Secretary may decline to undertake a classification request submitted under clause (ii) if the Secretary identifies a legally marketed device that could provide a reasonable basis for review of substantial equivalence under paragraph (1), or when the Secretary determines that the device submitted is not of low-moderate risk or that general controls would be inadequate to control the risks and special controls to mitigate the risks cannot be developed.
+      - **(iv)** Notwithstanding clause (iii), the Secretary may decline to undertake a classification request submitted under clause (ii) if the Secretary identifies a legally marketed device that could provide a reasonable basis for review of substantial equivalence under paragraph (1), or when the Secretary determines that the device submitted is not of low to moderate risk or that general controls would be inadequate to control the risks and special controls to mitigate the risks cannot be developed.
       - **(v)** The person submitting the request for classification under this subparagraph may recommend to the Secretary a classification for the device and shall, if recommending classification in class II, include in the request an initial draft proposal for applicable special controls, as described in subsection (a)(1)(B), that are necessary, in conjunction with general controls, to provide reasonable assurance of safety and effectiveness and a description of how the special controls provide such assurance. Any such request shall describe the device and provide detailed information and reasons for the recommended classification.
     - **(B)**
       - **(i)** The Secretary shall by written order classify the device involved. Such classification shall be the initial classification of the device for purposes of paragraph (1) and any device classified under this paragraph shall be a predicate device for determining substantial equivalence under paragraph (1).
@@ -147,3 +164,15 @@ status: "active"
   - **(3)**
     - **(A)** As part of a submission under section 360(k) of this title respecting a device, the person required to file a premarket notification under such section shall provide an adequate summary of any information respecting safety and effectiveness or state that such information will be made available upon request by any person.
     - **(B)** Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
+- **(j)**
+  - **(1)**
+    - **(A)** ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title ; and
+    - **(B)** periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
+  - **(2)**
+    - **(A)** conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
+    - **(B)** include in such audit interviews of persons who are representatives of the device industry regarding their experiences in the device premarket review process, including with respect to the application of least burdensome concepts to premarket review and decisionmaking;
+    - **(C)** include in such audit a list of the measurement tools the Secretary uses to assess the implementation of the least burdensome requirements, including under paragraph (1)(B) and section 360g–1(a)(3) of this title , and may also provide feedback on the effectiveness of such tools in the implementation of the least burdensome requirements;
+    - **(D)** summarize the findings of such audit in a final audit report; and
+    - **(E)** within 30 calendar days of completion of such final audit report, make such final audit report available—
+      - **(i)** to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives; and
+      - **(ii)** on the Internet website of the Food and Drug Administration.

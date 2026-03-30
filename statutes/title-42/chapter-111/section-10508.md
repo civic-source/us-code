@@ -3,9 +3,9 @@ title: "Section 10508 - Recordkeeping requirement"
 usc_title: 42
 usc_section: "10508"
 chapter: 111
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 10508"
-generated_at: "2026-03-30T05:54:40.604Z"
+generated_at: "2026-03-30T05:56:22.907Z"
 status: "active"
 ---
 

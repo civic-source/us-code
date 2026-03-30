@@ -3,9 +3,9 @@ title: "Section 2431b - Risk management and mitigation in major defense acquisit
 usc_title: 10
 usc_section: "2431b"
 chapter: 144
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2431b"
-generated_at: "2026-03-30T05:52:47.187Z"
+generated_at: "2026-03-30T05:55:13.308Z"
 status: "active"
 ---
 
@@ -30,4 +30,6 @@ status: "active"
 - **(c)** To the maximum extent practicable and consistent with the economical use of available financial resources, the milestone decision authority for each major defense acquisition program shall ensure that the acquisition strategy for the program provides for—
   - **(1)** the production of competitive prototypes at the system or subsystem level before Milestone B approval; or
   - **(2)** if the production of competitive prototypes is not practicable, the production of single prototypes at the system or subsystem level.
-- **(d)** In this section, the terms “major defense acquisition program” and “major system” have the meanings provided in section 2431a of this title .
+- **(d)**
+  - **(1)** The term “concurrency” means, with respect to an acquisition strategy, the combination or overlap of program phases or activities.
+  - **(2)** The terms “major defense acquisition program” and “major system” have the meanings provided in section 2431a of this title .

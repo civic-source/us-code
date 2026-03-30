@@ -3,9 +3,9 @@ title: "Section 6804 - Recreation passes"
 usc_title: 16
 usc_section: "6804"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 6804"
-generated_at: "2026-03-30T05:53:07.782Z"
+generated_at: "2026-03-30T05:55:38.268Z"
 status: "active"
 ---
 
@@ -25,7 +25,11 @@ status: "active"
   - **(8)** The Secretaries may enter into cooperative agreements with governmental and nongovernmental entities for the development and implementation of the National Parks and Federal Recreational Lands Pass Program.
   - **(9)** The Secretary may not establish any national recreation pass, except as provided in this section.
 - **(b)**
-  - **(1)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
+  - **(1)**
+    - **(A)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be available—
+      - **(i)** for a period of 12 months from the date of the issuance, at a cost of $20; and
+      - **(ii)** for the lifetime of the passholder, at a cost equal to the cost of the National Parks and Federal Recreational Lands Pass purchased under subsection (a).
+    - **(B)** The Secretary shall issue a pass under subparagraph (A)(ii), for no additional cost, to any individual who provides evidence, under policies and guidelines determined by the Secretary, that the individual has purchased a pass under subparagraph (A)(i) for each of the 4 years prior to being issued a pass under this subparagraph.
   - **(2)** The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29 , if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
 - **(c)** The Secretary may establish and charge a fee for a site-specific pass that will cover the entrance fee or standard amenity recreation fee for particular Federal recreational lands and waters for a specified period not to exceed 12 months.
 - **(d)**

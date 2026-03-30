@@ -3,15 +3,15 @@ title: "Section 1395ddd - Medicare Integrity Program"
 usc_title: 42
 usc_section: "1395ddd"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395ddd"
-generated_at: "2026-03-30T05:54:40.294Z"
+generated_at: "2026-03-30T05:56:22.595Z"
 status: "active"
 ---
 
 # § 1395ddd. Medicare Integrity Program
 
-- **(a)** There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b) of this section.
+- **(a)** There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b).
 - **(b)** The activities described in this subsection are as follows:
   - **(1)** Review of activities of providers of services or other individuals and entities furnishing items and services for which payment may be made under this subchapter (including skilled nursing facilities and home health agencies), including medical and utilization review and fraud review (employing similar standards, processes, and technologies used by private health plans, including equipment and software technologies which surpass the capability of the equipment and technologies used in the review of claims under this subchapter as of August 21, 1996 ).
   - **(2)** Audit of cost reports.
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** Education of providers of services, beneficiaries, and other persons with respect to payment integrity and benefit quality assurance issues.
   - **(5)** Developing (and periodically updating) a list of items of durable medical equipment in accordance with section 1395m(a)(15) of this title which are subject to prior authorization under such section.
   - **(6)** The Medicare-Medicaid Data Match Program in accordance with subsection (g).
-- **(c)** An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) of this section if—
+- **(c)** An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) if—
   - **(1)** the entity has demonstrated capability to carry out such activities;
   - **(2)** in carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
   - **(3)** the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement;
@@ -69,7 +69,7 @@ status: "active"
         - **(I)** the opportunity for a statistically valid random sample; or
         - **(II)** a consent settlement.
     - **(D)** For purposes of this paragraph, the term “consent settlement” means an agreement between the Secretary and a provider of services or supplier whereby both parties agree to settle a projected overpayment based on less than a statistically valid sample of claims and the provider of services or supplier agrees not to appeal the claims involved.
-  - **(6)** The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI of this chapter insofar as they relate to such programs).
+  - **(6)** The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
   - **(7)**
     - **(A)** Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractor shall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
     - **(B)** Subject to subparagraph (C), if a medicare contractor audits a provider of services or supplier under this subchapter, the contractor shall—

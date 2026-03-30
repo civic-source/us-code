@@ -3,9 +3,9 @@ title: "Section 713 - Senior executives: removal based on performance or miscond
 usc_title: 38
 usc_section: "713"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 713"
-generated_at: "2026-03-30T05:54:20.190Z"
+generated_at: "2026-03-30T05:56:09.473Z"
 status: "active"
 ---
 

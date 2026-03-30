@@ -3,9 +3,9 @@ title: "Section 8923 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "8923"
 chapter: 867
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 8923"
-generated_at: "2026-03-30T05:52:47.230Z"
+generated_at: "2026-03-30T05:55:13.352Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 360b - New animal drugs"
 usc_title: 21
 usc_section: "360b"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 360b"
-generated_at: "2026-03-30T05:53:21.581Z"
+generated_at: "2026-03-30T05:55:48.545Z"
 status: "active"
 ---
 
@@ -14,8 +14,9 @@ status: "active"
 - **(a)**
   - **(1)** A new animal drug shall, with respect to any particular use or intended use of such drug, be deemed unsafe for purposes of section 351(a)(5) of this title and section 342(a)(2)(C)(ii) of this title unless—
     - **(A)** there is in effect an approval of an application filed pursuant to subsection (b) with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to such approved application;
-    - **(B)** there is in effect a conditional approval of an application filed pursuant to section 360ccc of this title with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to such conditionally approved application; or
-    - **(C)** there is in effect an index listing pursuant to section 360ccc–1 of this title with respect to such use or intended use of such drug in a minor species, and such drug, its labeling, and such use conform to such index listing.
+    - **(B)** there is in effect a conditional approval of an application filed pursuant to section 360ccc of this title with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to such conditionally approved application;
+    - **(C)** there is in effect an index listing pursuant to section 360ccc–1 of this title with respect to such use or intended use of such drug in a minor species, and such drug, its labeling, and such use conform to such index listing; or
+    - **(D)** there is in effect an authorization pursuant to section 360bbb–3 of this title with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to any conditions of such authorization.
   - **(2)** An animal feed bearing or containing a new animal drug shall, with respect to any particular use or intended use of such animal feed be deemed unsafe for purposes of section 351(a)(6) of this title unless—
     - **(A)** there is in effect—
       - **(i)** an approval of an application filed pursuant to subsection (b) with respect to such drug, as used in such animal feed, and such animal feed and its labeling, distribution, holding, and use conform to such approved application;

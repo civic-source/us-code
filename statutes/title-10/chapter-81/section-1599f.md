@@ -3,9 +3,9 @@ title: "Section 1599f - United States Cyber Command recruitment and retention"
 usc_title: 10
 usc_section: "1599f"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 1599f"
-generated_at: "2026-03-30T05:52:47.163Z"
+generated_at: "2026-03-30T05:55:13.282Z"
 status: "active"
 ---
 
@@ -36,8 +36,15 @@ status: "active"
   - **(3)** An assessment of the anticipated workforce needs of the United States Cyber Command across the future-years defense plan.
   - **(4)** Other matters as appropriate.
 - **(e)** Nothing in subsection (a) may be construed to impair the continued effectiveness of a collective bargaining agreement with respect to an office, component, subcomponent, or equivalent of the Department that is a successor to an office, component, subcomponent, or equivalent of the Department covered by the agreement before the succession.
-- **(f)** The Secretary, in coordination with the Director of the Office of Personnel Management, shall prescribe regulations for the administration of this section.
-- **(g)**
+- **(f)**
+  - **(1)** The Secretary shall provide training to covered personnel on hiring and pay matters relating to authorities under this section.
+  - **(2)** For purposes of this subsection, covered personnel are employees of the Department who—
+    - **(A)** carry out functions relating to—
+      - **(i)** the management of human resources and the civilian workforce of the Department; or
+      - **(ii)** the writing of guidance for the implementation of authorities regarding hiring and pay under this section; or
+    - **(B)** are employed in supervisory positions or have responsibilities relating to the hiring of individuals for positions in the Department and to whom the Secretary intends to delegate authority under this section.
+- **(g)** The Secretary, in coordination with the Director of the Office of Personnel Management, shall prescribe regulations for the administration of this section.
+- **(h)**
   - **(1)** Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years after the date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
   - **(2)** Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
     - **(A)** A discussion of the process used in accepting applications, assessing candidates, ensuring adherence to veterans’ preference, and selecting applicants for vacancies to be filled by an individual for a qualified position.
@@ -53,12 +60,12 @@ status: "active"
       - **(iv)** The number of separations of employees in qualified positions, disaggregated by occupation and grade and level or pay band.
       - **(v)** The number of retirements of employees in qualified positions, disaggregated by occupation, grade, and level or pay band.
       - **(vi)** The number and amounts of recruitment, relocation, and retention incentives paid to employees in qualified positions, disaggregated by occupation, grade, and level or pay band.
-    - **(E)** A description of the training provided to supervisors of employees in qualified positions at the Department on the use of the new authorities.
-- **(h)** The probationary period for all employees hired under the authority established in this section shall be three years.
-- **(i)**
+    - **(E)** A description of the training provided to employees described in subsection (f)(2) on the use of authorities under this section.
+- **(i)** The probationary period for all employees hired under the authority established in this section shall be three years.
+- **(j)**
   - **(1)** An individual occupying a position on the date of the enactment of this section that is selected to be converted to a position in the excepted service under this section shall have the right to refuse such conversion.
   - **(2)** After the date on which an individual who refuses a conversion under paragraph (1) stops serving in the position selected to be converted, the position may be converted to a position in the excepted service.
-- **(j)** In this section:
+- **(k)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.

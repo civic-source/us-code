@@ -3,9 +3,9 @@ title: "Section 16314 - Hydrogen"
 usc_title: 42
 usc_section: "16314"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 16314"
-generated_at: "2026-03-30T05:54:40.695Z"
+generated_at: "2026-03-30T05:56:22.996Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Application"
 usc_title: 42
 usc_section: "5"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T05:54:40.342Z"
+generated_at: "2026-03-30T05:56:22.645Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** takes into consideration comments from the public hearing, any other public comments on the proposed program, and comments from current and prospective residents who would be affected; and
     - **(C)** identifies each term or condition for which the jurisdiction is requesting waiver under section 1437bbb–3(a)(1) of this title ;
   - **(3)** shall describe how the plan for use of amounts will assist in meeting the purposes of, and be used in accordance with, sections 1437bbb and 1437bbb–1(a) of this title, respectively;
-  - **(4)** shall propose standards for measuring performance in using assistance provided pursuant to this subchapter based on the performance standards under subsection (b)(4) of this section;
+  - **(4)** shall propose standards for measuring performance in using assistance provided pursuant to this subchapter based on the performance standards under subsection (b)(4);
   - **(5)** shall propose the length of the period for participation of the jurisdiction is 1 1 So in original. in the demonstration program under this subchapter;
   - **(6)** shall—
     - **(A)** in the case of the application of any jurisdiction within whose boundaries are areas subject to any other unit of general local government, include the signed consent of the appropriate executive official of such unit to the application; and
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** clearly identify any State or local laws that will affect implementation of the plan under paragraph (2) and any contractual rights and property interests that may be affected by the plan;
     - **(B)** describe how the plan will be carried out with respect to such laws, rights, and interests; and
     - **(C)** contain a legal memorandum sufficient to describe how the plan will comply with such laws and how the plan will be carried out without violating or impairing such rights and interests; and
-  - **(10)** shall identify procedures for how the jurisdiction shall return to providing covered assistance for the jurisdiction under the provisions of subchapter I of this chapter, in the case of determination under subsection (b)(4)(B) of this section.
+  - **(10)** shall identify procedures for how the jurisdiction shall return to providing covered assistance for the jurisdiction under the provisions of subchapter I, in the case of determination under subsection (b)(4)(B).
 - **(b)**
   - **(1)** The Secretary shall review each application for participation in the demonstration program under this subchapter and shall determine and notify the jurisdiction submitting the application, not later than 90 days after its submission, of whether the application is approvable under this subchapter. If the Secretary determines that the application of a jurisdiction is approvable under this subchapter, the Secretary shall provide affected public housing agencies an opportunity to review and to provide written comments on the application for a period of not less than 30 days after notification under the preceding sentence. If the Secretary determines that an application is not approvable under this subchapter, the Secretary shall notify the jurisdiction submitting the application of the reasons for such determination. Upon making a determination of whether an application is approvable or nonapprovable under this subchapter, the Secretary shall make such determination publicly available in writing together with a written statement of the reasons for such determination.
   - **(2)** The Secretary may approve jurisdictions for participation in the demonstration program under this subchapter, but only from among applications that the Secretary has determined under paragraph 2 2 So in original. Probably should be preceded by “this”. are approvable under this subchapter and only in accordance with section 1437bbb–1(c) of this title . The Secretary shall base the selection of jurisdictions to approve on the potential success, as evidenced by the application, in—
@@ -50,7 +50,7 @@ status: "active"
       - **(vi)** reducing homelessness through providing permanent housing resources;
       - **(vii)** reducing geographic concentration of assisted families; and
       - **(viii)** any other performance goals that the Secretary and the participating jurisdiction may establish.
-    - **(B)** If, at any time during the participation of a jurisdiction in the program under this subchapter, the Secretary determines that the jurisdiction is not sufficiently meeting, or making progress toward meeting, the levels of performance incorporated into the agreement of the jurisdiction pursuant to subparagraph (A), the Secretary shall terminate the participation of the jurisdiction in the program under this subchapter and require the implementation of the procedures included in the application of the jurisdiction pursuant to subsection (a)(10) of this section.
+    - **(B)** If, at any time during the participation of a jurisdiction in the program under this subchapter, the Secretary determines that the jurisdiction is not sufficiently meeting, or making progress toward meeting, the levels of performance incorporated into the agreement of the jurisdiction pursuant to subparagraph (A), the Secretary shall terminate the participation of the jurisdiction in the program under this subchapter and require the implementation of the procedures included in the application of the jurisdiction pursuant to subsection (a)(10).
   - **(5)** The Secretary may establish requirements for the approval of applications under this section submitted by public housing agencies designated under section 1437d(j)(2) of this title as troubled, which may include additional or different criteria determined by the Secretary to be more appropriate for such agencies.
 - **(c)** This subchapter may not be construed to require any change in the legal status of any public housing agency or in any legal relationship between a jurisdiction and a public housing agency as a condition of participation in the program under this subchapter.
 - **(d)** In carrying out this subchapter, the Secretary may provide for a streamlined public housing agency plan and planning process under section 1437c–1 of this title for participating jurisdictions.

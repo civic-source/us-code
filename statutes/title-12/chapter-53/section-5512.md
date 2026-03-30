@@ -3,9 +3,9 @@ title: "Section 5512 - Rulemaking authority"
 usc_title: 12
 usc_section: "5512"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 5512"
-generated_at: "2026-03-30T05:52:55.907Z"
+generated_at: "2026-03-30T05:55:27.094Z"
 status: "active"
 ---
 

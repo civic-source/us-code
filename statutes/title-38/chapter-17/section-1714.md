@@ -3,9 +3,9 @@ title: "Section 1714 - Fitting and training in use of prosthetic appliances; gui
 usc_title: 38
 usc_section: "1714"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 1714"
-generated_at: "2026-03-30T05:54:20.196Z"
+generated_at: "2026-03-30T05:56:09.479Z"
 status: "active"
 ---
 

@@ -3,17 +3,15 @@ title: "Section 5022 - Office of Naval Research: duties"
 usc_title: 10
 usc_section: "5022"
 chapter: 503
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5022"
-generated_at: "2026-03-30T05:52:47.215Z"
+generated_at: "2026-03-30T05:55:13.337Z"
 status: "active"
 ---
 
 # § 5022. Office of Naval Research: duties
 
-- **(a)**
-  - **(1)** There is in the Office of the Secretary of the Navy an Office of Naval Research.
-  - **(2)** Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral.
+- **(a)** There is in the Office of the Secretary of the Navy an Office of Naval Research.
 - **(b)** The Office of Naval Research shall perform such duties as the Secretary of the Navy prescribes relating to—
   - **(1)** the encouragement, promotion, planning, initiation, and coordination of naval research;
   - **(2)** the conduct of naval research in augmentation of and in conjunction with the research and development conducted by the bureaus and other agencies and offices of the Department of the Navy;

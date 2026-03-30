@@ -3,9 +3,9 @@ title: "Section 347 - Quadrennial homeland security review"
 usc_title: 6
 usc_section: "347"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "6 U.S.C. § 347"
-generated_at: "2026-03-30T05:52:37.235Z"
+generated_at: "2026-03-30T05:55:09.977Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** Each quadrennial homeland security review shall be a comprehensive examination of the homeland security strategy of the Nation, including recommendations regarding the long-term strategy and priorities of the Nation for homeland security and guidance on the programs, assets, capabilities, budget, policies, and authorities of the Department.
   - **(3)** The Secretary shall conduct each quadrennial homeland security review under this subsection in consultation with—
     - **(A)** the heads of other Federal agencies, including the Attorney General, the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of the Treasury, the Secretary of Agriculture, and the Director of National Intelligence;
-    - **(B)** key officials of the Department; and
+    - **(B)** key officials of the Department, including the Under Secretary for Strategy, Policy, and Plans; and
     - **(C)** other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
   - **(4)** The Secretary shall ensure that each review conducted under this section is coordinated with the Future Years Homeland Security Program required under section 454 of this title .
 - **(b)** In each quadrennial homeland security review, the Secretary shall—

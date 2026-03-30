@@ -3,15 +3,15 @@ title: "Section 60 - Training course on workings of Congress"
 usc_title: 14
 usc_section: "60"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 60"
-generated_at: "2026-03-30T05:52:49.220Z"
+generated_at: "2026-03-30T05:55:22.794Z"
 status: "active"
 ---
 
 # § 60. Training course on workings of Congress
 
-- **(a)** Not later than 180 days after the date of the enactment of the Coast Guard Authorization Act of 2015, the Commandant, in consultation with the Superintendent of the Coast Guard Academy and such other individuals and organizations as the Commandant considers appropriate, shall develop a training course on the workings of the Congress and offer that training course at least once each year.
+- **(a)** Not later than 180 days after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant, in consultation with the Superintendent of the Coast Guard Academy and such other individuals and organizations as the Commandant considers appropriate, shall develop a training course on the workings of the Congress and offer that training course at least once each year.
 - **(b)** The training course required by this section shall provide an overview and introduction to the Congress and the Federal legislative process, including—
   - **(1)** the history and structure of the Congress and the committee systems of the House of Representatives and the Senate, including the functions and responsibilities of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
   - **(2)** the documents produced by the Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents;

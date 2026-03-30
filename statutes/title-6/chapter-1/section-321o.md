@@ -3,9 +3,9 @@ title: "Section 321o - Integrated public alert and warning system modernization"
 usc_title: 6
 usc_section: "321o"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "6 U.S.C. § 321o"
-generated_at: "2026-03-30T05:52:37.234Z"
+generated_at: "2026-03-30T05:55:09.976Z"
 status: "active"
 ---
 

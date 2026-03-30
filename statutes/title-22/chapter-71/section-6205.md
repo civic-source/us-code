@@ -1,15 +1,38 @@
 ---
-title: "Section 6205 - Role of Secretary of State"
+title: "Section 6205 - Establishment of the International Broadcasting Advisory Board"
 usc_title: 22
 usc_section: "6205"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 6205"
-generated_at: "2026-03-30T05:53:23.595Z"
+generated_at: "2026-03-30T05:55:51.140Z"
 status: "active"
 ---
 
-# § 6205. Role of Secretary of State
+# § 6205. Establishment of the International Broadcasting Advisory Board
 
-- **(a)** To assist the Board in carrying out its functions, the Secretary of State shall provide information and guidance on foreign policy issues to the Board, as the Secretary may deem appropriate.
-- **(b)** The Secretary of State is authorized to use Worldnet broadcasts for the purposes of continuing interactive dialogues with foreign media and other similar overseas public diplomacy programs sponsored by the Department of State. The Chairman of the Broadcasting Board of Governors shall provide access to Worldnet for this purpose on a nonreimbursable basis.
+- **(a)** Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the “Advisory Board”) shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate.
+- **(b)**
+  - **(1)** The presidentially appointed and Senate-confirmed members of the Board of the Broadcasting Board of Governors who are serving on unexpired terms as of December 23, 2016 , shall—
+    - **(A)** constitute the first Advisory Board; and
+    - **(B)** hold office for the remainder of their original terms of office without reappointment to the Advisory Board.
+  - **(2)** If, on December 23, 2016 , more than five members described in subsection (a) are serving their original terms of office on the Broadcasting Board of Governors, each such member may serve on the Advisory Board for a period equal to the time remaining on each such member’s respective term without reappointment.
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), the term of office of each member of the Advisory Board appointed pursuant to subsection (a) shall be three years.
+  - **(2)** If a vacancy on the Advisory Board occurs before the expiration of the term of the member who created such vacancy—
+    - **(A)** the President shall appoint a new member to fill such vacancy in accordance with subsection (d); and
+    - **(B)** the member appointed pursuant to such subsection shall serve for the remainder of such term.
+  - **(3)** Members may not serve beyond the term for which they were appointed.
+- **(d)** In identifying individuals for appointment to the Advisory Board under subsection (a), the President shall appoint United States citizens—
+  - **(1)** who, with the exception of the Secretary of State, are not regular, full-time employees of the United States Government; and
+  - **(2)** distinguished in the fields of public diplomacy, mass communications, print, broadcast or digital media, or foreign affairs, of whom—
+    - **(A)** one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Affairs of the House of Representatives;
+    - **(B)** one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Affairs of the House of Representatives;
+    - **(C)** one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Relations of the Senate; and
+    - **(D)** one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Relations of the Senate.
+- **(e)** The members of the Advisory Board shall perform the following advisory functions:
+  - **(1)** To provide the Chief Executive Officer of the Broadcasting Board of Governors with counsel and recommendations for improving the effectiveness and efficiency of the agency and its programming.
+  - **(2)** To meet with the Chief Executive Officer at least twice annually and at additional meetings at the request of the Chief Executive Officer.
+  - **(3)** To report periodically or upon request to the congressional committees specified in subsection (d)(2) regarding its counsel and recommendations for improving the effectiveness and efficiency of the Broadcasting Board of Governors and its programming.
+  - **(4)** To obtain information from the Chief Executive Officer, as needed, for the purposes of fulfilling the functions described in this subsection.
+- **(f)** Members of the Advisory Board, including the Secretary of State, may not receive any fee, salary, or remuneration of any kind for their service as members.

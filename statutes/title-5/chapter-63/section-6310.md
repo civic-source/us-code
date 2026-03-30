@@ -3,9 +3,9 @@ title: "Section 6310 - Leave of absence; aliens"
 usc_title: 5
 usc_section: "6310"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 6310"
-generated_at: "2026-03-30T05:52:33.950Z"
+generated_at: "2026-03-30T05:55:06.573Z"
 status: "active"
 ---
 

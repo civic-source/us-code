@@ -3,9 +3,9 @@ title: "Section 47128 - State block grant program"
 usc_title: 49
 usc_section: "47128"
 chapter: 471
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "49 U.S.C. § 47128"
-generated_at: "2026-03-30T05:54:48.341Z"
+generated_at: "2026-03-30T05:56:29.611Z"
 status: "active"
 ---
 

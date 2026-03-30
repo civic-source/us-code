@@ -3,9 +3,9 @@ title: "Section 9 - Provisions relating to administration"
 usc_title: 42
 usc_section: "9"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T05:54:40.228Z"
+generated_at: "2026-03-30T05:56:22.530Z"
 status: "active"
 ---
 
@@ -41,3 +41,8 @@ status: "active"
       - **(iii)** assistance to such individuals in presenting information under section 1395r(i)(4)(C) of this title (relating to income-related premium adjustment; 1 1 So in original. A closing parenthesis probably should precede the semicolon. and
     - **(C)** submit annual reports to Congress and the Secretary that describe the activities of the Office and that include such recommendations for improvement in the administration of this subchapter as the Ombudsman determines appropriate.
   - **(3)** To the extent possible, the Ombudsman shall work with health insurance counseling programs (receiving funding under section 1395b–4 of this title ) to facilitate the provision of information to individuals entitled to benefits under part A or enrolled under part B, or both regarding MA plans and changes to those plans. Nothing in this paragraph shall preclude further collaboration between the Ombudsman and such programs.
+- **(d)**
+  - **(1)** Not later than 12 months after December 13, 2016 , the Secretary shall provide for a pharmaceutical and technology ombudsman within the Centers for Medicare & Medicaid Services who shall receive and respond to complaints, grievances, and requests that—
+    - **(A)** are from entities that manufacture pharmaceutical, biotechnology, medical device, or diagnostic products that are covered or for which coverage is being sought under this subchapter; and
+    - **(B)** are with respect to coverage, coding, or payment under this subchapter for such products.
+  - **(2)** The second sentence of subsection (c)(2) shall apply to the ombudsman under subparagraph (A) in the same manner as such sentence applies to the Medicare Beneficiary Ombudsman under subsection (c).

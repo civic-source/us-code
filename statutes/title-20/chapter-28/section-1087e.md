@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-30T05:53:04.446Z"
+generated_at: "2026-03-30T05:55:35.992Z"
 status: "active"
 ---
 
@@ -199,7 +199,7 @@ status: "active"
     - **(A)**
       - **(i)** is serving on active duty during a war or other military operation or national emergency; or
       - **(ii)** is performing qualifying National Guard duty during a war or other military operation or national emergency; and
-    - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310 of title 37 .
+    - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37.
   - **(4)** An individual who qualifies as an eligible military borrower under this subsection may receive the benefit of this subsection for not more than 60 months.
 - **(p)** Each institution of higher education with which the Secretary has an agreement under section 1087c of this title , and each contractor with which the Secretary has a contract under section 1087f of this title , shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 - **(q)**

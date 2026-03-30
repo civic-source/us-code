@@ -3,9 +3,9 @@ title: "Section 2 - Private support for civil rights history project"
 usc_title: 20
 usc_section: "2"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T05:53:04.405Z"
+generated_at: "2026-03-30T05:55:35.958Z"
 status: "active"
 ---
 

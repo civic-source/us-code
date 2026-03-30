@@ -1,19 +1,15 @@
 ---
-title: "Section 7506 - Monitoring responsibilities of the Comptroller General"
+title: "Section 7506 - Effective date"
 usc_title: 31
 usc_section: "7506"
 chapter: 75
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "31 U.S.C. § 7506"
-generated_at: "2026-03-30T05:53:39.215Z"
+generated_at: "2026-03-30T05:56:05.095Z"
 status: "active"
 ---
 
-# § 7506. Monitoring responsibilities of the Comptroller General
+# § 7506. Effective date
 
-- **(a)** The Comptroller General shall review provisions requiring financial audits of non-Federal entities that receive Federal awards that are contained in bills and resolutions reported by the committees of the Senate and the House of Representatives.
-- **(b)** If the Comptroller General determines that a bill or resolution contains provisions that are inconsistent with the requirements of this chapter, the Comptroller General shall, at the earliest practicable date, notify in writing—
-  - **(1)** the committee that reported such bill or resolution; and
-  - **(2)**
-    - **(A)** the Committee on Governmental Affairs of the Senate (in the case of a bill or resolution reported by a committee of the Senate); or
-    - **(B)** the Committee on Government Reform and Oversight of the House of Representatives (in the case of a bill or resolution reported by a committee of the House of Representatives).
+This chapter shall apply to any non-Federal entity with respect to any of its fiscal years which begin after June 30, 1996 .
+

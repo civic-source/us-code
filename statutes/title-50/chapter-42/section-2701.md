@@ -3,9 +3,9 @@ title: "Section 2701 - Authority for appointment of certain scientific, engineer
 usc_title: 50
 usc_section: "2701"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 2701"
-generated_at: "2026-03-30T05:54:46.403Z"
+generated_at: "2026-03-30T05:56:27.702Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
     - **(A)** take appropriate actions to appoint persons to positions under such authority in a manner consistent with such principles or to set rates of pay at levels that are appropriate for the qualifications and experience of the persons appointed and the duties of the positions involved; or
     - **(B)** cease appointment of persons under such authority.
 - **(c)**
-  - **(1)** The authority provided under subsection (a)(1) shall terminate on September 30, 2016 .
+  - **(1)** The authority provided under subsection (a)(1) shall terminate on September 30, 2020 .
   - **(2)** An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).

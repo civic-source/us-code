@@ -3,15 +3,15 @@ title: "Section 3081 - Dental Corps: Chief, functions"
 usc_title: 10
 usc_section: "3081"
 chapter: 307
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3081"
-generated_at: "2026-03-30T05:52:47.208Z"
+generated_at: "2026-03-30T05:55:13.329Z"
 status: "active"
 ---
 
 # § 3081. Dental Corps: Chief, functions
 
-- **(a)** The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in section 3039 of this title .
+- **(a)** The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in section 3039 1 1 See References in Text note below. of this title.
 - **(b)** Under such regulations as the Secretary of the Army may prescribe, all dental functions of the Army shall be under the direction of the Chief of the Dental Corps. All matters relating to dentistry shall be referred to the Chief of the Dental Corps.
 - **(c)** The Chief of the Dental Corps shall—
   - **(1)** establish professional standards and policies for dental practice;

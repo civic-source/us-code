@@ -3,9 +3,9 @@ title: "Section 352 - Misbranded drugs and devices"
 usc_title: 21
 usc_section: "352"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 352"
-generated_at: "2026-03-30T05:53:21.572Z"
+generated_at: "2026-03-30T05:55:48.535Z"
 status: "active"
 ---
 
@@ -13,7 +13,11 @@ status: "active"
 
 A drug or device shall be deemed to be misbranded—
 
-- **(a)** If its labeling is false or misleading in any particular. Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations, shall not be considered to be false or misleading under this paragraph if the health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term “health care economic information” means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.
+- **(a)**
+  - **(1)** If its labeling is false or misleading in any particular. Health care economic information provided to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs for coverage or reimbursement, shall not be considered to be false or misleading under this paragraph if the health care economic information relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug under section 355 of this title or under section 262 of title 42 . The requirements set forth in section 355(a) of this title or in subsections (a) and (k) of section 262 of title 42 shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request.
+  - **(2)**
+    - **(A)** For purposes of this paragraph, 1 1 So in original. The term “health care economic information” appears only in par. (1). the term “health care economic information” means any analysis (including the clinical data, inputs, clinical or other assumptions, methods, results, and other components underlying or comprising the analysis) that identifies, measures, or describes the economic consequences, which may be based on the separate or aggregated clinical consequences of the represented health outcomes, of the use of a drug. Such analysis may be comparative to the use of another drug, to another health care intervention, or to no intervention.
+    - **(B)** Such term does not include any analysis that relates only to an indication that is not approved under section 355 of this title or under section 262 of title 42 for such drug.
 - **(b)** If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: Provided , That under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary.
 - **(c)** If any word, statement, or other information required by or under authority of this chapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
 - **(d)**
@@ -55,3 +59,4 @@ A drug or device shall be deemed to be misbranded—
 - **(aa)** If it is a drug, or an active pharmaceutical ingredient, and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–42(a)(4) of this title or for which identifying information required by section 379j–42(f) of this title has not been submitted, or it contains an active pharmaceutical ingredient that was manufactured, prepared, propagated, compounded, or processed in such a facility.
 - **(bb)** If the advertising or promotion of a compounded drug is false or misleading in any particular.
 - **(cc)** If it is a drug and it fails to bear the product identifier as required by section 360eee–1 of this title .
+- **(dd)** If it is an antimicrobial drug, as defined in section 360a–2(f) of this title , and its labeling fails to conform with the requirements under section 360a–2(d) of this title .

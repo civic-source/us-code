@@ -3,9 +3,9 @@ title: "Section 17935 - Restrictions on certain disclosures and sales of health 
 usc_title: 42
 usc_section: "17935"
 chapter: 156
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 17935"
-generated_at: "2026-03-30T05:54:40.717Z"
+generated_at: "2026-03-30T05:56:23.017Z"
 status: "active"
 ---
 
@@ -26,8 +26,8 @@ status: "active"
   - **(1)** In applying section 164.528 of title 45, Code of Federal Regulations, in the case that a covered entity uses or maintains an electronic health record with respect to protected health information—
     - **(A)** the exception under paragraph (a)(1)(i) of such section shall not apply to disclosures through an electronic health record made by such entity of such information; and
     - **(B)** an individual shall have a right to receive an accounting of disclosures described in such paragraph of such information made by such covered entity during only the three years prior to the date on which the accounting is requested.
-  - **(2)** The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the section 300jj–12(b)(2)(B)(iv) of this title , as added by section 13101. 2 Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
-  - **(3)** In response to an 3 3 So in original. Probably should be “a”. request from an individual for an accounting, a covered entity shall elect to provide either an—
+  - **(2)** The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the 3 3 So in original. section 300jj–12(b)(2)(B)(iv) of this title , as added by section 13101. 2 Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
+  - **(3)** In response to an 4 4 So in original. Probably should be “a”. request from an individual for an accounting, a covered entity shall elect to provide either an—
     - **(A)** accounting, as specified under paragraph (1), for disclosures of protected health information that are made by such covered entity and by a business associate acting on behalf of the covered entity; or
     - **(B)** accounting, as specified under paragraph (1), for disclosures that are made by such covered entity and provide a list of all business associates acting on behalf of the covered entity, including contact information for such associates (such as mailing address, phone, and email address).
   - **(4)**
@@ -35,7 +35,7 @@ status: "active"
     - **(B)** In the case of a covered entity insofar as it acquires an electronic health record after January 1, 2009 , paragraph (1) shall apply to disclosures, with respect to protected health information, made by the covered entity from such record on and after the later of the following:
       - **(i)** January 1, 2011 ; or
       - **(ii)** the date that it acquires an electronic health record.
-    - **(C)** The Secretary may set an effective date that is later that 4 4 So in original. Probably should be “than”. the date specified under subparagraph (A) or (B) if the Secretary determines that such later date is necessary, but in no case may the date specified under—
+    - **(C)** The Secretary may set an effective date that is later that 5 5 So in original. Probably should be “than”. the date specified under subparagraph (A) or (B) if the Secretary determines that such later date is necessary, but in no case may the date specified under—
       - **(i)** subparagraph (A) be later than 2016; or
       - **(ii)** subparagraph (B) be later than 2013.
 - **(d)**
@@ -53,5 +53,6 @@ status: "active"
     - **(B)** may further restrict the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittal of the data for such purpose, if the Secretary finds that such further restriction will not impede such research or public health activities.
   - **(4)** Paragraph (1) shall apply to exchanges occurring on or after the date that is 6 months after the date of the promulgation of final regulations implementing this subsection.
 - **(e)** In applying section 164.524 of title 45, Code of Federal Regulations, in the case that a covered entity uses or maintains an electronic health record with respect to protected health information of an individual—
-  - **(1)** the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific; and
-  - **(2)** notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity’s labor costs in responding to the request for the copy (or summary or explanation).
+  - **(1)** the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
+  - **(2)** if the individual makes a request to a business associate for access to, or a copy of, protected health information about the individual, or if an individual makes a request to a business associate to grant such access to, or transmit such copy directly to, a person or entity designated by the individual, a business associate may provide the individual with such access or copy, which may be in an electronic form, or grant or transmit such access or copy to such person or entity designated by the individual; and
+  - **(3)** notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity’s labor costs in responding to the request for the copy (or summary or explanation).

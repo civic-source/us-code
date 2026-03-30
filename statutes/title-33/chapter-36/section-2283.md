@@ -3,9 +3,9 @@ title: "Section 2283 - Fish and wildlife mitigation"
 usc_title: 33
 usc_section: "2283"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2283"
-generated_at: "2026-03-30T05:53:40.445Z"
+generated_at: "2026-03-30T05:56:05.886Z"
 status: "active"
 ---
 
@@ -65,13 +65,14 @@ status: "active"
     - **(A)** be developed on a regional, ecosystem, watershed, or statewide scale;
     - **(B)** include specific goals for aquatic resource and fish and wildlife habitat restoration, establishment, enhancement, or preservation;
     - **(C)** identify priority areas for aquatic resource and fish and wildlife habitat protection or restoration;
-    - **(D)** encompass multiple environmental resources within a defined geographical area or focus on a specific resource, such as aquatic resources or wildlife habitat; and
-    - **(E)** address impacts from all projects in a defined geographical area or focus on a specific type of project.
+    - **(D)** include measures to protect or restore habitat connectivity;
+    - **(E)** encompass multiple environmental resources within a defined geographical area or focus on a specific resource, such as aquatic resources or wildlife habitat; and
+    - **(F)** address impacts from all projects in a defined geographical area or focus on a specific type of project.
   - **(5)** The scope of the plan shall be determined by the Secretary or an entity described in paragraph (3), as appropriate, in consultation with the agency with jurisdiction over the resources being addressed in the environmental mitigation plan.
   - **(6)** A programmatic environmental mitigation plan may include—
     - **(A)** an assessment of the condition of environmental resources in the geographical area covered by the plan, including an assessment of recent trends and any potential threats to those resources;
     - **(B)** an assessment of potential opportunities to improve the overall quality of environmental resources in the geographical area covered by the plan through strategic mitigation for impacts of water resources development projects;
-    - **(C)** standard measures for mitigating certain types of impacts;
+    - **(C)** standard measures for mitigating certain types of impacts, including impacts to habitat connectivity;
     - **(D)** parameters for determining appropriate mitigation for certain types of impacts, such as mitigation ratios or criteria for determining appropriate mitigation sites;
     - **(E)** adaptive management procedures, such as protocols that involve monitoring predicted impacts over time and adjusting mitigation measures in response to information gathered through the monitoring;
     - **(F)** acknowledgment of specific statutory or regulatory requirements that must be satisfied when determining appropriate mitigation for certain types of resources; and
@@ -84,7 +85,9 @@ status: "active"
   - **(8)** A programmatic environmental mitigation plan may be integrated with other plans, including watershed plans, ecosystem plans, species recovery plans, growth management plans, and land use plans.
   - **(9)** If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
   - **(10)** Nothing in this subsection limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
-  - **(11)** Nothing in this subsection requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated.
+  - **(11)** Nothing in this subsection—
+    - **(A)** requires the Secretary to undertake additional mitigation for existing projects for which mitigation has already been initiated, including the addition of fish passage to an existing water resources development project; or
+    - **(B)** affects the mitigation responsibilities of the Secretary under any other provision of law.
 - **(i)**
   - **(1)** In accordance with all applicable Federal laws (including regulations), mitigation efforts carried out under this section may include—
     - **(A)** participation in mitigation banking or other third-party mitigation arrangements, such as—
@@ -96,3 +99,7 @@ status: "active"
     - **(A)** take place concurrent with, or in advance of, the commitment of funding to a project; and
     - **(B)** occur in advance of project construction only if the efforts are consistent with all applicable requirements of Federal law (including regulations) and water resources development planning processes.
   - **(4)** At the request of the non-Federal project sponsor, preference may be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project has been approved by the applicable Federal agency.
+- **(j)**
+  - **(1)** The Secretary, with the consent of the applicable non-Federal interest, may use funds made available for preconstruction engineering and design after authorization of project construction to satisfy mitigation requirements through third-party arrangements or to acquire interests in land necessary for meeting mitigation requirements under this section.
+  - **(2)** Prior to the expenditure of any funds for a project pursuant to paragraph (1), the Secretary shall notify the Committee on Appropriations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Appropriations and the Committee on Environment and Public Works of the Senate.
+- **(k)** The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.

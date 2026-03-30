@@ -3,9 +3,9 @@ title: "Section 659a - International support enforcement"
 usc_title: 42
 usc_section: "659a"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 659a"
-generated_at: "2026-03-30T05:54:40.194Z"
+generated_at: "2026-03-30T05:56:22.496Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6206 - Data consistency and uniformity of data elements"
 usc_title: 31
 usc_section: "6206"
 chapter: 62
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "31 U.S.C. § 6206"
-generated_at: "2026-03-30T05:53:39.213Z"
+generated_at: "2026-03-30T05:56:05.093Z"
 status: "active"
 ---
 

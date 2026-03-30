@@ -3,9 +3,9 @@ title: "Section 2231 - Study of water resources development projects by non-Fede
 usc_title: 33
 usc_section: "2231"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2231"
-generated_at: "2026-03-30T05:53:40.442Z"
+generated_at: "2026-03-30T05:56:05.882Z"
 status: "active"
 ---
 
@@ -20,3 +20,4 @@ status: "active"
   - **(2)** any recommendations the Secretary may have concerning the plan or design of the project; and
   - **(3)** any conditions the Secretary may require for construction of the project.
 - **(d)** If a project for which a feasibility study has been submitted under subsection (a)(1) is authorized by a Federal law enacted after the date of the submission to Congress under subsection (c), the Secretary shall credit toward the non-Federal share of the cost of construction of the project an amount equal to the portion of the cost of developing the study that would have been the responsibility of the United States if the study had been developed by the Secretary.
+- **(e)** At the request of a non-Federal interest, the Secretary may provide to the non-Federal interest technical assistance relating to any aspect of a feasibility study if the non-Federal interest contracts with the Secretary to pay all costs of providing such technical assistance.

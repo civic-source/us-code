@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T05:52:57.739Z"
+generated_at: "2026-03-30T05:55:29.274Z"
 status: "active"
 ---
 
@@ -281,8 +281,9 @@ status: "active"
     - **(B)** the agency periodically reviews data collected and reported pursuant to subparagraph (A) for the purpose of ensuring that such contractors comply in good faith with the requirements of this subsection and subcontracting plans submitted by the contractors pursuant to this subsection.
   - **(8)** The provisions of paragraphs (4), (5), and (6) shall not apply to offerors or bidders who are small business concerns.
   - **(9)** The failure of any contractor or subcontractor to comply in good faith with—
-    - **(A)** the clause contained in paragraph (3) of this subsection, or
-    - **(B)** any plan required of such contractor pursuant to the authority of this subsection to be included in its contract or subcontract,
+    - **(A)** the clause contained in paragraph (3) of this subsection,
+    - **(B)** any plan required of such contractor pursuant to the authority of this subsection to be included in its contract or subcontract, or
+    - **(C)** assurances provided under paragraph (6)(E),
   - **(10)** Nothing contained in this subsection shall be construed to supersede the requirements of Defense Manpower Policy Number 4A (32A CFR Chap. 1) or any successor policy.
   - **(11)** In the case of contracts within the provisions of paragraphs (4), (5), and (6), the Administration is authorized to—
     - **(A)** assist Federal agencies and businesses in complying with their responsibilities under the provisions of this subsection, including the formulation of subcontracting plans pursuant to paragraph (4);
@@ -307,6 +308,25 @@ status: "active"
       - **(i)** if the subcontracting goals pertain only to a single contract with the executive agency, the prime contractor shall receive credit for small business concerns performing as first tier subcontractors or subcontractors at any tier pursuant to the subcontracting plans required under paragraph (6)(D) in an amount equal to the dollar value of work awarded to such small business concerns; and
       - **(ii)** if the subcontracting goals pertain to more than one contract with one or more executive agencies, or to one contract with more than one executive agency, the prime contractor may only count first tier subcontractors that are small business concerns.
     - **(B)** Nothing in this paragraph shall abrogate the responsibility of a prime contractor to make a good-faith effort to achieve the first tier small business subcontracting goals negotiated under paragraph (6)(A), or the requirement for subcontractors with further opportunities for subcontracting to make a good-faith effort to achieve the goals established under paragraph (6)(D).
+  - **(17)**
+    - **(A)** The Administrator shall establish a pilot program for a small business concern without a past performance rating as a prime contractor performing as a first tier subcontractor for a covered contract (as defined in paragraph 13(A)) 5 5 So in original. Probably should be “(13)(A))”. to request a past performance rating in the system used by the Federal Government to monitor or record contractor past performance.
+    - **(B)** A small business concern described in subparagraph (A) shall submit an application to the appropriate official for a past performance rating no later than 270 days after the small business concern completed the work for which it seeks a past performance rating or 180 days after the prime contractor completes work on the covered contract, whichever is earlier. Such application shall include written evidence of the past performance factors for which the small business concern seeks a rating and a suggested rating.
+    - **(C)** The appropriate official shall submit the application from the small business concern to the Office of Small and Disadvantaged Business Utilization for the covered contract and to the prime contractor for review. The Office of Small and Disadvantaged Business Utilization and the prime contractor shall, not later than 30 days after receipt of the application, submit to the appropriate official a response regarding the application.
+      - **(i)** If the Office of Small and Disadvantaged Business Utilization and the prime contractor agree on a past performance rating, or if either the Office of Small and Disadvantaged Business Utilization or the prime contractor fail to respond and the responding person agrees with the rating of the applicant small business concern, the appropriate official shall enter the agreed-upon past performance rating in the system described in subparagraph (A).
+      - **(ii)** If the Office of Small and Disadvantaged Business Utilization and the prime contractor fail to respond within 30 days or if they disagree about the rating, or if either the Office of Small and Disadvantaged Business Utilization or the prime contractor fail to respond and the responding person disagrees with the rating of the applicant small business concern, the Office of Small and Disadvantaged Business Utilization or the prime contractor shall submit a notice contesting the application to the appropriate official. The appropriate official shall follow the requirements of subparagraph (D).
+    - **(D)** Not later than 14 calendar days after receipt of a notice under subparagraph (C)(ii), the appropriate official shall submit such notice to the applicant small business concern. Such concern may submit comments, rebuttals, or additional information relating to the past performance of such concern not later 14 6 6 So in original. Probably should be preceded by “than”. calendar days after receipt of such notice. The appropriate official shall enter into the system described in subparagraph (A) a rating that is neither favorable nor unfavorable along with the initial application from such concern, any responses of the Office of Small and Disadvantaged Business Utilization and the prime contractor, and any additional information provided by such concern. A copy of the information submitted shall be provided to the contracting officer (or designee of such officer) for the covered contract.
+    - **(E)** A small business subcontractor may use a past performance rating given under this paragraph to establish its past performance for a prime contract.
+    - **(F)** The pilot program established under this paragraph shall terminate 3 years after the date on which the first applicant small business concern receives a past performance rating for performance as a first tier subcontractor.
+    - **(G)** The Comptroller General of the United States shall begin an assessment of the pilot program 1 year after the establishment of such program. Not later than 6 months after beginning such assessment, the Comptroller General shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives, which shall include—
+      - **(i)** the number of small business concerns that have received past performance ratings under the pilot program;
+      - **(ii)** the number of applications in which the contracting officer (or designee) or the prime contractor contested the application of the small business concern;
+      - **(iii)** any suggestions or recommendations the Comptroller General or the small business concerns participating in the program have to address disputes between the small business concern, the contracting officer (or designee), and the prime contractor on past performance ratings;
+      - **(iv)** the number of small business concerns awarded prime contracts after receiving a past performance rating under this pilot program; and
+      - **(v)** any suggestions or recommendation the Comptroller General has to improve the operation of the pilot program.
+    - **(H)** In this paragraph, the term “appropriate official” means—
+      - **(i)** a commercial market representative;
+      - **(ii)** another individual designated by the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title; or
+      - **(iii)** the Office of Small and Disadvantaged Business Utilization of a Federal agency, if the head of the Federal agency and the Administrator agree.
 - **(e)**
   - **(1)** Except as provided in subsection (g)—
     - **(A)** an executive agency intending to—
@@ -358,7 +378,7 @@ status: "active"
     - **(A)** except as provided in paragraph (2), a written justification for the use of such procedures has been approved—
       - **(i)** in the case of a contract for an amount exceeding $100,000 (but equal to or less than $1,000,000), by the advocate for competition for the procuring activity (without further delegation);
       - **(ii)** in the case of a contract for an amount exceeding $1,000,000 (but equal to or less than $10,000,000), by the head of the procuring activity or a delegate who, if a member of the Armed Forces, is a general or flag officer, or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
-      - **(iii)** in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 5 5 See References in Text note below. (without further delegation); and
+      - **(iii)** in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 7 7 See References in Text note below. (without further delegation); and
     - **(B)** all other requirements applicable to the use of such procedures under division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or chapter 137 of title 10, as appropriate, have been satisfied.
   - **(2)** The same exceptions as are provided in paragraphs (3) and (4) of section 3304(e) of title 41 or section 2304(f)(2) of title 10 shall apply with respect to the requirements of paragraph (1)(A) of this subsection in the same manner as such exceptions apply to the requirements of section 3304(e)(1) of title 41 or section 2304(f)(1) of title 10 , as appropriate.
 - **(i)** An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.

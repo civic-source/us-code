@@ -3,9 +3,9 @@ title: "Section 1286 - Discharge of alien crewmen; penalties"
 usc_title: 8
 usc_section: "1286"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "8 U.S.C. § 1286"
-generated_at: "2026-03-30T05:52:42.094Z"
+generated_at: "2026-03-30T05:55:09.021Z"
 status: "active"
 ---
 

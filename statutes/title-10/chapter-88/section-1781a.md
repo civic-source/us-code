@@ -3,9 +3,9 @@ title: "Section 1781a - Department of Defense Military Family Readiness Council"
 usc_title: 10
 usc_section: "1781a"
 chapter: 88
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 1781a"
-generated_at: "2026-03-30T05:52:47.165Z"
+generated_at: "2026-03-30T05:55:13.285Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
       - **(iii)** One spouse or parent of a member of each of the Army, Navy, Marine Corps, and Air Force, two of whom shall be the spouse or parent of an active component member and two of whom shall be the spouse or parent of a reserve component member.
     - **(C)** Three individuals appointed by the Secretary of Defense from among representatives of military family organizations, including military family organizations of families of members of the regular components and of families of members of the reserve components.
     - **(D)** The senior enlisted advisor from each of the Army, Navy, Marine Corps, and Air Force, except that two of these members may instead be selected from among the spouses of the senior enlisted advisors.
-    - **(E)** The Director of the Office of Community Support for Military Families with Special Needs.
+    - **(E)** The Director of the Office of Military Family Readiness Policy.
   - **(2)**
     - **(A)** The term on the Council of the members appointed or designated under clauses (i) and (iii) of subparagraph (B) of paragraph (1) shall be two years and may be renewed by the Secretary of Defense. Representation on the Council under clause (ii) of that subparagraph shall rotate between the Army National Guard and Air National Guard every two years on a calendar year basis.
     - **(B)** The term on the Council of the members appointed under subparagraph (C) of paragraph (1) shall be three years.

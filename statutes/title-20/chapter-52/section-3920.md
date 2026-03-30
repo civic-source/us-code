@@ -3,9 +3,9 @@ title: "Section 3920 - Availability of funds"
 usc_title: 20
 usc_section: "3920"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 3920"
-generated_at: "2026-03-30T05:53:04.499Z"
+generated_at: "2026-03-30T05:55:36.040Z"
 status: "active"
 ---
 

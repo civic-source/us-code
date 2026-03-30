@@ -3,9 +3,9 @@ title: "Section 3 - Authorizations for appropriations"
 usc_title: 15
 usc_section: "3"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T05:52:57.757Z"
+generated_at: "2026-03-30T05:55:29.293Z"
 status: "active"
 ---
 

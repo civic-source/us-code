@@ -3,9 +3,9 @@ title: "Section 2114 - Mail, money, or other property of United States"
 usc_title: 18
 usc_section: "2114"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "18 U.S.C. § 2114"
-generated_at: "2026-03-30T05:53:09.652Z"
+generated_at: "2026-03-30T05:55:43.141Z"
 status: "active"
 ---
 

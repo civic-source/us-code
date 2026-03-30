@@ -3,16 +3,16 @@ title: "Section 302e - Special pay: nurse anesthetists"
 usc_title: 37
 usc_section: "302e"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "37 U.S.C. § 302e"
-generated_at: "2026-03-30T05:54:10.341Z"
+generated_at: "2026-03-30T05:56:07.661Z"
 status: "active"
 ---
 
 # § 302e. Special pay: nurse anesthetists
 
 - **(a)**
-  - **(1)** An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989 , and ending on December 31, 2016 , executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
+  - **(1)** An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989 , and ending on December 31, 2017 , executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
   - **(2)** The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 - **(b)**
   - **(1)** An officer referred to in subsection (a) is an officer of a uniformed service who—

@@ -3,9 +3,9 @@ title: "Section 667 - Treatment of amounts deemed distributed by trust in preced
 usc_title: 26
 usc_section: "667"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 667"
-generated_at: "2026-03-30T05:53:36.485Z"
+generated_at: "2026-03-30T05:56:02.362Z"
 status: "active"
 ---
 

@@ -1,0 +1,22 @@
+---
+title: "Section 348 - Aviation Leadership Program"
+usc_title: 10
+usc_section: "348"
+chapter: 16
+current_through: "PL 115-8"
+classification: "10 U.S.C. § 348"
+generated_at: "2026-03-30T05:55:13.234Z"
+status: "active"
+---
+
+# § 348. Aviation Leadership Program
+
+- **(a)** Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force may carry out an Aviation Leadership Program to provide undergraduate pilot training and necessary related training to personnel of the air forces of friendly, developing foreign countries. Training under this section shall include language training and programs to promote better awareness and understanding of the democratic institutions and social framework of the United States.
+- **(b)**
+  - **(1)** The Secretary of the Air Force may, under such conditions as the Secretary may prescribe, provide to a person receiving training under this section—
+    - **(A)** transportation incident to the training;
+    - **(B)** supplies and equipment to be used during the training;
+    - **(C)** flight clothing and other special clothing required for the training; and
+    - **(D)** billeting, food, and health services.
+  - **(2)** The Secretary may authorize such expenditures from the appropriations of the Air Force as the Secretary considers necessary for the efficient and effective maintenance of the Program in accordance with this section.
+- **(c)** The Secretary of the Air Force may pay to a person receiving training under this section a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the armed forces under similar circumstances.

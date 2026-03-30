@@ -3,9 +3,9 @@ title: "Section 2500 - Definitions"
 usc_title: 10
 usc_section: "2500"
 chapter: 148
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2500"
-generated_at: "2026-03-30T05:52:47.191Z"
+generated_at: "2026-03-30T05:55:13.312Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 In this chapter:
 
-  - **(1)** The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States and Canada.
+  - **(1)** The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, and Canada.
   - **(2)** The term “dual-use” with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
   - **(3)** The term “dual-use critical technology” means a critical technology that has military applications and nonmilitary applications.
   - **(4)** The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, production, integration, services, or information technology activities.

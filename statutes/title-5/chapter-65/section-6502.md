@@ -3,9 +3,9 @@ title: "Section 6502 - Executive agencies telework requirement"
 usc_title: 5
 usc_section: "6502"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 6502"
-generated_at: "2026-03-30T05:52:33.952Z"
+generated_at: "2026-03-30T05:55:06.576Z"
 status: "active"
 ---
 
@@ -29,3 +29,11 @@ status: "active"
     - **(A)** direct handling of secure materials determined to be inappropriate for telework by the agency head; or
     - **(B)** on-site activity that cannot be handled remotely or at an alternate worksite; and
   - **(5)** be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.
+- **(c)** If an agency places an employee in investigative leave under section 6329b, the agency may require the employee to, through telework, perform duties similar to the duties that the employee performs on-site if—
+  - **(1)** the agency determines that such a requirement would not—
+    - **(A)** pose a threat to the employee or others;
+    - **(B)** result in the destruction of evidence relevant to an investigation;
+    - **(C)** result in the loss of or damage to Government property; or
+    - **(D)** otherwise jeopardize legitimate Government interests;
+  - **(2)** the employee is eligible to telework under subsections (a) and (b) of this section; and
+  - **(3)** the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.

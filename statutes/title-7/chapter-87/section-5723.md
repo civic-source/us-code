@@ -3,9 +3,9 @@ title: "Section 5723 - Funding"
 usc_title: 7
 usc_section: "5723"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "7 U.S.C. § 5723"
-generated_at: "2026-03-30T05:52:41.192Z"
+generated_at: "2026-03-30T05:55:20.521Z"
 status: "active"
 ---
 

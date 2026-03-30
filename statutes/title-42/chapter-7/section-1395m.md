@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T05:54:40.238Z"
+generated_at: "2026-03-30T05:56:22.540Z"
 status: "active"
 ---
 
@@ -29,7 +29,12 @@ status: "active"
       - **(i)** the payment basis under this subsection for such items and services furnished in such area shall be the payment basis determined under such competitive acquisition program;
       - **(ii)** the Secretary may (and, in the case of covered items furnished on or after January 1, 2016 , subject to clause (iii), shall) use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise recognized under subparagraph (B)(ii) for an area that is not a competitive acquisition area under section 1395w–3 of this title and in the case of such adjustment, paragraph (10)(B) shall not be applied; and
       - **(iii)** in the case of covered items furnished on or after January 1, 2016 , the Secretary shall continue to make such adjustments described in clause (ii) as, under such competitive acquisition programs, additional covered items are phased in or information is updated as contracts under section 1395w–3 of this title are recompeted in accordance with section 1395w–3(b)(3)(B) of this title .
-    - **(G)** The Secretary shall specify by regulation the methodology to be used in applying the provisions of subparagraph (F)(ii) and subsection (h)(1)(H)(ii). In promulgating such regulation, the Secretary shall consider the costs of items and services in areas in which such provisions would be applied compared to the payment rates for such items and services in competitive acquisition areas.
+    - **(G)** The Secretary shall specify by regulation the methodology to be used in applying the provisions of subparagraph (F)(ii) and subsection (h)(1)(H)(ii). In promulgating such regulation, the Secretary shall consider the costs of items and services in areas in which such provisions would be applied compared to the payment rates for such items and services in competitive acquisition areas. In the case of items and services furnished on or after January 1, 2019 , in making any adjustments under clause (ii) or (iii) of subparagraph (F), under subsection (h)(1)(H)(ii), or under section 1395u(s)(3)(B) of this title , the Secretary shall—
+      - **(i)** solicit and take into account stakeholder input; and
+      - **(ii)** take into account the highest amount bid by a winning supplier in a competitive acquisition area and a comparison of each of the following with respect to non-competitive acquisition areas and competitive acquisition areas:
+        - **(I)** The average travel distance and cost associated with furnishing items and services in the area.
+        - **(II)** The average volume of items and services furnished by suppliers in the area.
+        - **(III)** The number of suppliers in the area.
     - **(H)**
       - **(i)** On or after the date described in clause (ii), the payment amount under this part for diabetic supplies, including testing strips, that are non-mail order items (as defined by the Secretary) shall be equal to the single payment amounts established under the national mail order competition for diabetic supplies under section 1395w–3 of this title .
       - **(ii)** The date described in this clause is the date of the implementation of the single payment amounts under the national mail order competition for diabetic supplies under section 1395w–3 of this title .
@@ -402,7 +407,7 @@ status: "active"
         - **(II)** such replacement device or part shall be deemed to be reasonable and necessary for purposes of section 1395y(a)(1)(A) of this title ;
     - **(H)** In the case of orthotics described in paragraph (2)(C) of section 1395w–3(a) of this title furnished on or after January 1, 2011 , subject to subsection (a)(1)(G), that are included in a competitive acquisition program in a competitive acquisition area under such section—
       - **(i)** the payment basis under this subsection for such orthotics furnished in such area shall be the payment basis determined under such competitive acquisition program; and
-      - **(ii)** the Secretary may use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise recognized under subparagraph (B)(ii) for an area that is not a competitive acquisition area under section 1395w–3 of this title , and in the case of such adjustment, paragraphs (8) and (9) of section 1395u(b) of this title shall not be applied.
+      - **(ii)** subject to subsection (a)(1)(G), the Secretary may use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise recognized under subparagraph (B)(ii) for an area that is not a competitive acquisition area under section 1395w–3 of this title , and in the case of such adjustment, paragraphs (8) and (9) of section 1395u(b) of this title shall not be applied.
   - **(2)** For purposes of paragraph (1), the amount that is recognized under this paragraph as the purchase price for prosthetic devices, orthotics, and prosthetics is the amount described in subparagraph (C) of this paragraph, determined as follows:
     - **(A)** Each carrier under section 1395u of this title shall compute a base local purchase price for the item as follows:
       - **(i)** The carrier shall compute a base local purchase price for each item equal to the average reasonable charge in the locality for the purchase of the item for the 12-month period ending with June 1987.
@@ -693,3 +698,18 @@ status: "active"
 - **(r)**
   - **(1)** In the case of renal dialysis services (as defined in subparagraph (B) of section 1395rr(b)(14) of this title ) furnished under this part by a renal dialysis facility or provider of services paid under such section during a year (beginning with 2017) to an individual with acute kidney injury (as defined in paragraph (2)), the amount of payment under this part for such services shall be the base rate for renal dialysis services determined for such year under such section, as adjusted by any applicable geographic adjustment factor applied under subparagraph (D)(iv)(II) of such section and may be adjusted by the Secretary (on a budget neutral basis for payments under this paragraph) by any other adjustment factor under subparagraph (D) of such section.
   - **(2)** In this subsection, the term “individual with acute kidney injury” means an individual who has acute loss of renal function and does not receive renal dialysis services for which payment is made under section 1395rr(b)(14) of this title .
+- **(s)**
+  - **(1)** The Secretary shall make a payment (separate from the payments otherwise made under section 1395fff of this title ) in the amount established under paragraph (3) to a home health agency for an applicable disposable device (as defined in paragraph (2)) when furnished on or after January 1, 2017 , to an individual who receives home health services for which payment is made under section 1395fff(b) of this title .
+  - **(2)** In this subsection, the term applicable disposable device means a disposable device that, as determined by the Secretary, is—
+    - **(A)** a disposable negative pressure wound therapy device that is an integrated system comprised of a non-manual vacuum pump, a receptacle for collecting exudate, and dressings for the purposes of wound therapy; and
+    - **(B)** a substitute for, and used in lieu of, a negative pressure wound therapy durable medical equipment item that is an integrated system of a negative pressure vacuum pump, a separate exudate collection canister, and dressings that would otherwise be covered for individuals for such wound therapy.
+  - **(3)** The separate payment amount established under this paragraph for an applicable disposable device for a year shall be equal to the amount of the payment that would be made under section 1395 l (t) of this title (relating to payment for covered OPD services) for the year for the Level I Healthcare Common Procedure Coding System (HCPCS) code for which the description for a professional service includes the furnishing of such device.
+- **(t)**
+  - **(1)** In order to facilitate price transparency with respect to items and services for which payment may be made either to a hospital outpatient department or to an ambulatory surgical center under this subchapter, the Secretary shall, for 2018 and each year thereafter, make available to the public via a searchable Internet website, with respect to an appropriate number of such items and services—
+    - **(A)** the estimated payment amount for the item or service under the outpatient department fee schedule under subsection (t) of section 1395 l of this title and the ambulatory surgical center payment system under subsection (i) of such section; and
+    - **(B)** the estimated amount of beneficiary liability applicable to the item or service.
+  - **(2)** For purposes of paragraph (1)(B), the estimated amount of beneficiary liability, with respect to an item or service, is the amount for such item or service for which an individual who does not have coverage under a Medicare supplemental policy certified under section 1395ss of this title or any other supplemental insurance coverage is responsible.
+  - **(3)** In carrying out this subsection, the Secretary—
+    - **(A)** shall include in the notice described in section 1395b–2(a) of this title a notification of the availability of the estimated amounts made available under paragraph (1); and
+    - **(B)** may utilize mechanisms in existence on December 13, 2016 , such as the portion of the Internet website of the Centers for Medicare & Medicaid Services on which information comparing physician performance is posted (commonly referred to as the Physician Compare Internet website), to make available such estimated amounts under such paragraph.
+  - **(4)** For purposes of implementing this subsection, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the Centers for Medicare & Medicaid Services Program Management Account, of $6,000,000 for fiscal year 2017, to remain available until expended.

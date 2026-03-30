@@ -3,9 +3,9 @@ title: "Section 76dd - Director, administrator, curators, and other personnel; a
 usc_title: 20
 usc_section: "76dd"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 76dd"
-generated_at: "2026-03-30T05:53:04.402Z"
+generated_at: "2026-03-30T05:55:35.955Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3043 - Annual national security strategy report"
 usc_title: 50
 usc_section: "3043"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 3043"
-generated_at: "2026-03-30T05:54:46.410Z"
+generated_at: "2026-03-30T05:56:27.709Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(3)** The proposed short-term and long-term uses of the political, economic, military, and other elements of the national power of the United States to protect or promote the interests and achieve the goals and objectives referred to in paragraph (1).
   - **(4)** The adequacy of the capabilities of the United States to carry out the national security strategy of the United States, including an evaluation of the balance among the capabilities of all elements of the national power of the United States to support the implementation of the national security strategy.
   - **(5)** Such other information as may be necessary to help inform Congress on matters relating to the national security strategy of the United States.
-- **(c)** Each national security strategy report shall be transmitted in both a classified and an unclassified form.
+- **(c)** Each national security strategy report shall be transmitted to Congress in classified form, but may include an unclassified summary.

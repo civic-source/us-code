@@ -1,18 +1,18 @@
 ---
-title: "Section 4712 - Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information"
+title: "Section 4712 - Enhancement of contractor protection from reprisal for disclosure of certain information"
 usc_title: 41
 usc_section: "4712"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "41 U.S.C. § 4712"
-generated_at: "2026-03-30T05:54:22.430Z"
+generated_at: "2026-03-30T05:56:11.715Z"
 status: "active"
 ---
 
-# § 4712. Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information
+# § 4712. Enhancement of contractor protection from reprisal for disclosure of certain information
 
 - **(a)**
-  - **(1)** An employee of a contractor, subcontractor, or grantee may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract or grant, a gross waste of Federal funds, an abuse of authority relating to a Federal contract or grant, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract) or grant.
+  - **(1)** An employee of a contractor, subcontractor, grantee, or subgrantee or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract or grant, a gross waste of Federal funds, an abuse of authority relating to a Federal contract or grant, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract) or grant.
   - **(2)** The persons and bodies described in this paragraph are the persons and bodies as follows:
     - **(A)** A Member of Congress or a representative of a committee of Congress.
     - **(B)** An Inspector General.
@@ -56,4 +56,3 @@ status: "active"
   - **(1)** The term “abuse of authority” means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
   - **(2)** The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 - **(h)** Nothing in this section, or the amendments made by this section, 1 1 So in original. shall be construed to provide any rights to disclose classified information not otherwise provided by law.
-- **(i)** This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section. 2 2 So in original. Probably should be “date that is 180 days after the date of the enactment of this section.”

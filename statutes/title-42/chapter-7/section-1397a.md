@@ -3,9 +3,9 @@ title: "Section 1397a - Payments to States"
 usc_title: 42
 usc_section: "1397a"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1397a"
-generated_at: "2026-03-30T05:54:40.322Z"
+generated_at: "2026-03-30T05:56:22.625Z"
 status: "active"
 ---
 
@@ -22,9 +22,9 @@ status: "active"
 - **(b)** The Secretary shall make payments in accordance with section 6503 of title 31 to each State from its allotment for use under this division.
 - **(c)** Payments to a State from its allotment for any fiscal year must be expended by the State in such fiscal year or in the succeeding fiscal year.
 - **(d)** A State may transfer up to 10 percent of its allotment under section 1397b of this title for any fiscal year for its use for that year under other provisions of Federal law providing block grants for support of health services, health promotion and disease prevention activities, or low-income home energy assistance (or any combination of those activities). Amounts allotted to a State under any provisions of Federal law referred to in the preceding sentence and transferred by a State for use in carrying out the purposes of this division shall be treated as if they were paid to the State under this division but shall not affect the computation of the State’s allotment under this division. The State shall inform the Secretary of any such transfer of funds.
-- **(e)** A State may use a portion of the amounts described in subsection (a) of this section for the purpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, or administering programs funded under this division.
+- **(e)** A State may use a portion of the amounts described in subsection (a) for the purpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, or administering programs funded under this division.
 - **(f)** A State may use funds provided under this division to provide vouchers, for services directed at the goals set forth in section 1397 of this title , to families, including—
-  - **(1)** families who have become ineligible for assistance under a State program funded under part A of subchapter IV of this chapter by reason of a durational limit on the provision of such assistance; and
-  - **(2)** families denied cash assistance under the State program funded under part A of subchapter IV of this chapter for a child who is born to a member of the family who is—
+  - **(1)** families who have become ineligible for assistance under a State program funded under part A of subchapter IV by reason of a durational limit on the provision of such assistance; and
+  - **(2)** families denied cash assistance under the State program funded under part A of subchapter IV for a child who is born to a member of the family who is—
     - **(A)** a recipient of assistance under the program; or
     - **(B)** a person who received such assistance at any time during the 10-month period ending with the birth of the child.

@@ -3,9 +3,9 @@ title: "Section 777 - Wearing of insignia of higher grade before promotion (froc
 usc_title: 10
 usc_section: "777"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 777"
-generated_at: "2026-03-30T05:52:47.129Z"
+generated_at: "2026-03-30T05:55:13.247Z"
 status: "active"
 ---
 

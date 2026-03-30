@@ -3,9 +3,9 @@ title: "Section 1801 - Congressional findings"
 usc_title: 43
 usc_section: "1801"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "43 U.S.C. § 1801"
-generated_at: "2026-03-30T05:54:26.545Z"
+generated_at: "2026-03-30T05:56:12.355Z"
 status: "active"
 ---
 

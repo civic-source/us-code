@@ -3,9 +3,9 @@ title: "Section 3797a - Program authorized"
 usc_title: 42
 usc_section: "3797a"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3797a"
-generated_at: "2026-03-30T05:54:40.433Z"
+generated_at: "2026-03-30T05:56:22.739Z"
 status: "active"
 ---
 
@@ -16,8 +16,9 @@ status: "active"
   - **(1)** Placement and use of metal detectors, locks, lighting, and other deterrent measures.
   - **(2)** Security assessments.
   - **(3)** Security training of personnel and students.
-  - **(4)** Coordination with local law enforcement.
-  - **(5)** Any other measure that, in the determination of the Director, may provide a significant improvement in security.
+  - **(4)** The development and operation of crisis intervention teams that may include coordination with law enforcement agencies and specialized training for school officials in responding to mental health crises.
+  - **(5)** Coordination with local law enforcement.
+  - **(6)** Any other measure that, in the determination of the Director, may provide a significant improvement in security.
 - **(c)** In awarding grants under this subchapter, the Director shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, and has evidenced the ability to make the improvements for which the grant amounts are sought.
 - **(d)**
   - **(1)** The portion of the costs of a program provided by a grant under subsection (a) of this section may not exceed 50 percent.

@@ -3,9 +3,9 @@ title: "Section 6652 - Failure to file certain information returns, registration
 usc_title: 26
 usc_section: "6652"
 chapter: 68
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 6652"
-generated_at: "2026-03-30T05:53:36.602Z"
+generated_at: "2026-03-30T05:56:02.477Z"
 status: "active"
 ---
 
@@ -70,3 +70,4 @@ status: "active"
 - **(l)** In the case of any failure to make a return required under section 6043(c) containing the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to file such return, an amount equal to $500 for each day during which such failure continues, but the total amount imposed under this subsection with respect to any return shall not exceed $100,000.
 - **(m)** For penalties for failure to file certain information returns with respect to alcohol and tobacco taxes, see, generally, subtitle E.
 - **(n)** In the case of a failure to make a report required under section 3511, 6053(c)(8), or 7705 which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard the preceding sentence shall be applied by substituting “$100” for “$50”.
+- **(o)** In the case of each failure to provide a written notice as required by section 9831(d)(4), unless it is shown that such failure is due to reasonable cause and not willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such written notice, an amount equal to $50 per employee per incident of failure to provide such notice, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $2,500.

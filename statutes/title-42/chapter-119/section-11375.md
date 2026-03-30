@@ -3,9 +3,9 @@ title: "Section 11375 - Responsibilities of recipients"
 usc_title: 42
 usc_section: "11375"
 chapter: 119
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 11375"
-generated_at: "2026-03-30T05:54:40.614Z"
+generated_at: "2026-03-30T05:56:22.917Z"
 status: "active"
 ---
 

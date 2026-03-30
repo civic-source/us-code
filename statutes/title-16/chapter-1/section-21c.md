@@ -3,9 +3,9 @@ title: "Section 21c - Section 485 as extending to revised boundaries; lands acqu
 usc_title: 16
 usc_section: "21c"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 21c"
-generated_at: "2026-03-30T05:53:07.566Z"
+generated_at: "2026-03-30T05:55:38.046Z"
 status: "active"
 ---
 

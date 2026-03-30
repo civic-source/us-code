@@ -3,23 +3,23 @@ title: "Section 1395nn - Limitation on certain physician referrals"
 usc_title: 42
 usc_section: "1395nn"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395nn"
-generated_at: "2026-03-30T05:54:40.279Z"
+generated_at: "2026-03-30T05:56:22.581Z"
 status: "active"
 ---
 
 # § 1395nn. Limitation on certain physician referrals
 
 - **(a)**
-  - **(1)** Except as provided in subsection (b) of this section, if a physician (or an immediate family member of such physician) has a financial relationship with an entity specified in paragraph (2), then—
+  - **(1)** Except as provided in subsection (b), if a physician (or an immediate family member of such physician) has a financial relationship with an entity specified in paragraph (2), then—
     - **(A)** the physician may not make a referral to the entity for the furnishing of designated health services for which payment otherwise may be made under this subchapter, and
     - **(B)** the entity may not present or cause to be presented a claim under this subchapter or bill to any individual, third party payor, or other entity for designated health services furnished pursuant to a referral prohibited under subparagraph (A).
   - **(2)** For purposes of this section, a financial relationship of a physician (or an immediate family member of such physician) with an entity specified in this paragraph is—
-    - **(A)** except as provided in subsections (c) and (d) of this section, an ownership or investment interest in the entity, or
-    - **(B)** except as provided in subsection (e) of this section, a compensation arrangement (as defined in subsection (h)(1) of this section) between the physician (or an immediate family member of such physician) and the entity.
-- **(b)** Subsection (a)(1) of this section shall not apply in the following cases:
-  - **(1)** In the case of physicians’ services (as defined in section 1395x(q) of this title ) provided personally by (or under the personal supervision of) another physician in the same group practice (as defined in subsection (h)(4) of this section) as the referring physician.
+    - **(A)** except as provided in subsections (c) and (d), an ownership or investment interest in the entity, or
+    - **(B)** except as provided in subsection (e), a compensation arrangement (as defined in subsection (h)(1)) between the physician (or an immediate family member of such physician) and the entity.
+- **(b)** Subsection (a)(1) shall not apply in the following cases:
+  - **(1)** In the case of physicians’ services (as defined in section 1395x(q) of this title ) provided personally by (or under the personal supervision of) another physician in the same group practice (as defined in subsection (h)(4)) as the referring physician.
   - **(2)** In the case of services (other than durable medical equipment (excluding infusion pumps) and parenteral and enteral nutrients, equipment, and supplies)—
     - **(A)** that are furnished—
       - **(i)** personally by the referring physician, personally by a physician who is a member of the same group practice as the referring physician, or personally by individuals who are directly supervised by the physician or by another physician in the group practice, and
@@ -32,28 +32,28 @@ status: "active"
     - **(B)** described in section 1395 l (a)(1)(A) of this title to an individual enrolled with the organization,
     - **(C)** receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization,
     - **(D)** that is a qualified health maintenance organization (within the meaning of section 300e–9(d) 1 1 See References in Text note below. of this title) to an individual enrolled with the organization, or
-    - **(E)** that is a Medicare+Choice organization under part C of this subchapter that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
+    - **(E)** that is a Medicare+Choice organization under part C that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
   - **(4)** In the case of any other financial relationship which the Secretary determines, and specifies in regulations, does not pose a risk of program or patient abuse.
   - **(5)** An exception established by regulation under section 1395w–104(e)(6) of this title . 1
-- **(c)** Ownership of the following shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A) of this section:
+- **(c)** Ownership of the following shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A):
   - **(1)** Ownership of investment securities (including shares or bonds, debentures, notes, or other debt instruments) which may be purchased on terms generally available to the public and which are—
     - **(A)**
       - **(i)** securities listed on the New York Stock Exchange, the American Stock Exchange, or any regional exchange in which quotations are published on a daily basis, or foreign securities listed on a recognized foreign, national, or regional exchange in which quotations are published on a daily basis, or
       - **(ii)** traded under an automated interdealer quotation system operated by the National Association of Securities Dealers, and
     - **(B)** in a corporation that had, at the end of the corporation’s most recent fiscal year, or on average during the previous 3 fiscal years, stockholder equity exceeding $75,000,000.
   - **(2)** Ownership of shares in a regulated investment company as defined in section 851(a) of the Internal Revenue Code of 1986, if such company had, at the end of the company’s most recent fiscal year, or on average during the previous 3 fiscal years, total assets exceeding $75,000,000.
-- **(d)** The following, if not otherwise excepted under subsection (b) of this section, shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A) of this section:
+- **(d)** The following, if not otherwise excepted under subsection (b), shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A):
   - **(1)** In the case of designated health services provided by a hospital located in Puerto Rico.
   - **(2)** In the case of designated health services furnished in a rural area (as defined in section 1395ww(d)(2)(D) of this title ) by an entity, if—
     - **(A)** substantially all of the designated health services furnished by the entity are furnished to individuals residing in such a rural area;
-    - **(B)** effective for the 18-month period beginning on December 8, 2003 , the entity is not a specialty hospital (as defined in subsection (h)(7) of this section); and
+    - **(B)** effective for the 18-month period beginning on December 8, 2003 , the entity is not a specialty hospital (as defined in subsection (h)(7)); and
     - **(C)** in the case where the entity is a hospital, the hospital meets the requirements of paragraph (3)(D).
   - **(3)** In the case of designated health services provided by a hospital (other than a hospital described in paragraph (1)) if—
     - **(A)** the referring physician is authorized to perform services at the hospital;
-    - **(B)** effective for the 18-month period beginning on December 8, 2003 , the hospital is not a specialty hospital (as defined in subsection (h)(7) of this section);
+    - **(B)** effective for the 18-month period beginning on December 8, 2003 , the hospital is not a specialty hospital (as defined in subsection (h)(7));
     - **(C)** the ownership or investment interest is in the hospital itself (and not merely in a subdivision of the hospital); and
     - **(D)** the hospital meets the requirements described in subsection (i)(1) not later than 18 months after March 23, 2010 .
-- **(e)** The following shall not be considered to be a compensation arrangement described in subsection (a)(2)(B) of this section:
+- **(e)** The following shall not be considered to be a compensation arrangement described in subsection (a)(2)(B):
   - **(1)**
     - **(A)** Payments made by a lessee to a lessor for the use of premises if—
       - **(i)** the lease is set out in writing, signed by the parties, and specifies the premises covered by the lease,
@@ -113,16 +113,16 @@ status: "active"
     - **(B)** to an entity as compensation for other items or services if the items or services are furnished at a price that is consistent with fair market value.
 - **(f)** Each entity providing covered items or services for which payment may be made under this subchapter shall provide the Secretary with the information concerning the entity’s ownership, investment, and compensation arrangements, including—
   - **(1)** the covered items and services provided by the entity, and
-  - **(2)** the names and unique physician identification numbers of all physicians with an ownership or investment interest (as described in subsection (a)(2)(A) of this section), or with a compensation arrangement (as described in subsection (a)(2)(B) of this section), in the entity, or whose immediate relatives have such an ownership or investment interest or who have such a compensation relationship with the entity.
+  - **(2)** the names and unique physician identification numbers of all physicians with an ownership or investment interest (as described in subsection (a)(2)(A)), or with a compensation arrangement (as described in subsection (a)(2)(B)), in the entity, or whose immediate relatives have such an ownership or investment interest or who have such a compensation relationship with the entity.
 - **(g)**
-  - **(1)** No payment may be made under this subchapter for a designated health service which is provided in violation of subsection (a)(1) of this section.
-  - **(2)** If a person collects any amounts that were billed in violation of subsection (a)(1) of this section, the person shall be liable to the individual for, and shall refund on a timely basis to the individual, any amounts so collected.
+  - **(1)** No payment may be made under this subchapter for a designated health service which is provided in violation of subsection (a)(1).
+  - **(2)** If a person collects any amounts that were billed in violation of subsection (a)(1), the person shall be liable to the individual for, and shall refund on a timely basis to the individual, any amounts so collected.
   - **(3)** Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
   - **(4)** Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
-  - **(5)** Any person who is required, but fails, to meet a reporting requirement of subsection (f) of this section is subject to a civil money penalty of not more than $10,000 for each day for which reporting is required to have been made. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
+  - **(5)** Any person who is required, but fails, to meet a reporting requirement of subsection (f) is subject to a civil money penalty of not more than $10,000 for each day for which reporting is required to have been made. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
   - **(6)**
     - **(A)** The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibited under this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
-    - **(B)** The Secretary shall, to the extent practicable, apply the rules under subsections (b)(3) and (b)(4) of this section and take into account the regulations promulgated under subsection (b)(5) of section 1320a–7d of this title in the issuance of advisory opinions under this paragraph.
+    - **(B)** The Secretary shall, to the extent practicable, apply the rules under subsections (b)(3) and (b)(4) and take into account the regulations promulgated under subsection (b)(5) of section 1320a–7d of this title in the issuance of advisory opinions under this paragraph.
     - **(C)** In order to implement this paragraph in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
     - **(D)** This paragraph shall apply to requests for advisory opinions made after the date which is 90 days after August 5, 1997 , and before the close of the period described in section 1320a–7d(b)(6) of this title .
 - **(h)** For purposes of this section:
@@ -153,7 +153,7 @@ status: "active"
       - **(i)** A physician in a group practice may be paid a share of overall profits of the group, or a productivity bonus based on services personally performed or services incident to such personally performed services, so long as the share or bonus is not determined in any manner which is directly related to the volume or value of referrals by such physician.
       - **(ii)** In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
   - **(5)**
-    - **(A)** Except as provided in subparagraph (C), in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service, including the request by a physician for a consultation with another physician (and any test or procedure ordered by, or to be performed by (or under the supervision of) that other physician), constitutes a “referral” by a “referring physician”.
+    - **(A)** Except as provided in subparagraph (C), in the case of an item or service for which payment may be made under part B, the request by a physician for the item or service, including the request by a physician for a consultation with another physician (and any test or procedure ordered by, or to be performed by (or under the supervision of) that other physician), constitutes a “referral” by a “referring physician”.
     - **(B)** Except as provided in subparagraph (C), the request or establishment of a plan of care by a physician which includes the provision of the designated health service constitutes a “referral” by a “referring physician”.
     - **(C)** A request by a pathologist for clinical diagnostic laboratory tests and pathological examination services, a request by a radiologist for diagnostic radiology services, and a request by a radiation oncologist for radiation therapy, if such services are furnished by (or under the supervision of) such pathologist, radiologist, or radiation oncologist pursuant to a consultation requested by another physician does not constitute a “referral” by a “referring physician”.
   - **(6)** The term “designated health services” means any of the following items or services:

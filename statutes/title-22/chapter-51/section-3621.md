@@ -3,9 +3,9 @@ title: "Section 3621 - Security legislation"
 usc_title: 22
 usc_section: "3621"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 3621"
-generated_at: "2026-03-30T05:53:23.567Z"
+generated_at: "2026-03-30T05:55:51.110Z"
 status: "active"
 ---
 

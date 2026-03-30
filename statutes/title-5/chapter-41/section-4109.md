@@ -3,9 +3,9 @@ title: "Section 4109 - Expenses of training"
 usc_title: 5
 usc_section: "4109"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 4109"
-generated_at: "2026-03-30T05:52:33.936Z"
+generated_at: "2026-03-30T05:55:06.559Z"
 status: "active"
 ---
 

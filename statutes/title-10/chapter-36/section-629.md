@@ -3,9 +3,9 @@ title: "Section 629 - Removal from a list of officers recommended for promotion"
 usc_title: 10
 usc_section: "629"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 629"
-generated_at: "2026-03-30T05:52:47.125Z"
+generated_at: "2026-03-30T05:55:13.243Z"
 status: "active"
 ---
 
@@ -16,7 +16,8 @@ status: "active"
 - **(c)**
   - **(1)** If an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer’s promotion eligibility period, the officer’s name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
   - **(2)** Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
-  - **(3)** In this subsection, the term “promotion eligibility period” means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
+  - **(3)** Paragraph (1) does not apply when the Senate is not able to obtain information necessary to give its advice and consent to the appointment concerned because that information is under the control of a department or agency of the Federal Government other than the Department of Defense.
+  - **(4)** In this subsection, the term “promotion eligibility period” means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 - **(d)** Under regulations prescribed by the Secretary concerned, if an officer on the active-duty list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer’s name shall be administratively removed from the list of officers recommended for promotion by a selection board.
 - **(e)**
   - **(1)** An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.

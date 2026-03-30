@@ -3,9 +3,9 @@ title: "Section 154 - Vice Chairman"
 usc_title: 10
 usc_section: "154"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 154"
-generated_at: "2026-03-30T05:52:47.113Z"
+generated_at: "2026-03-30T05:55:13.228Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(b)**
   - **(1)** The President may appoint an officer as Vice Chairman of the Joint Chiefs of Staff only if the officer—
     - **(A)** has the joint specialty under section 661 of this title ; and
-    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title ) as a general or flag officer.
+    - **(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 1 1 See References in Text note below. of this title) as a general or flag officer.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 - **(c)** The Vice Chairman performs the duties prescribed for him as a member of the Joint Chiefs of Staff and such other duties as may be prescribed by the Chairman with the approval of the Secretary of Defense.
 - **(d)** When there is a vacancy in the office of Chairman or in the absence or disability of the Chairman, the Vice Chairman acts as Chairman and performs the duties of the Chairman until a successor is appointed or the absence or disability ceases.

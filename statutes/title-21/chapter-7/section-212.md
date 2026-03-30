@@ -3,9 +3,9 @@ title: "Section 212 - Offenses; punishment; duty to enforce provisions"
 usc_title: 21
 usc_section: "212"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 212"
-generated_at: "2026-03-30T05:53:21.563Z"
+generated_at: "2026-03-30T05:55:48.523Z"
 status: "active"
 ---
 

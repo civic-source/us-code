@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions"
 usc_title: 33
 usc_section: "3301"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 3301"
-generated_at: "2026-03-30T05:53:40.458Z"
+generated_at: "2026-03-30T05:56:05.899Z"
 status: "active"
 ---
 
@@ -59,13 +59,14 @@ In this chapter, the following definitions apply:
     - **(A)** that collectively provide flood damage reduction to a defined area; and
     - **(B)** the failure of 1 of which may result in the failure of the entire system.
   - **(10)** The term “national levee database” means the levee database established under section 3303 of this title .
-  - **(11)** The term “participating program” means a levee safety program developed by a State or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
-  - **(12)** The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
-  - **(13)** The term “risk” means a measure of the probability and severity of undesirable consequences.
-  - **(14)** The term “State” means—
+  - **(11)** The term “participating program” means a levee safety program developed by a State, regional district, or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
+  - **(12)** The term “regional district” means a subdivision of a State government, or a subdivision of multiple State governments, that is authorized to acquire, construct, operate, and maintain projects for the purpose of flood damage reduction.
+  - **(13)** The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
+  - **(14)** The term “risk” means a measure of the probability and severity of undesirable consequences.
+  - **(15)** The term “State” means—
     - **(A)** a State;
     - **(B)** the District of Columbia;
     - **(C)** the Commonwealth of Puerto Rico; and
     - **(D)** any other territory or possession of the United States.
-  - **(15)** The term “State levee safety agency” means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
-  - **(16)** The term “United States”, when used in a geographical sense, means all of the States.
+  - **(16)** The term “State levee safety agency” means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
+  - **(17)** The term “United States”, when used in a geographical sense, means all of the States.

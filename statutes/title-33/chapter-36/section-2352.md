@@ -3,9 +3,9 @@ title: "Section 2352 - Funding to process permits"
 usc_title: 33
 usc_section: "2352"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2352"
-generated_at: "2026-03-30T05:53:40.451Z"
+generated_at: "2026-03-30T05:56:05.892Z"
 status: "active"
 ---
 
@@ -15,10 +15,11 @@ status: "active"
   - **(1)** In this subsection:
     - **(A)** The term “natural gas company” has the meaning given the term in section 16451 of title 42 , except that the term also includes a person engaged in the transportation of natural gas in intrastate commerce.
     - **(B)** The term “public-utility company” has the meaning given the term in section 16451 of title 42 .
-  - **(2)** The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company or natural gas company to expedite the evaluation of a permit of that entity or company related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
-  - **(3)** The authority provided under paragraph (2) to a public-utility company or natural gas company shall expire on the date that is 7 years after June 10, 2014 .
+    - **(C)** The term “railroad carrier” has the meaning given the term in section 20102 of title 49 .
+  - **(2)** The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company, natural gas company, or railroad carrier to expedite the evaluation of a permit of that entity, company, or carrier related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
+  - **(3)** The authority provided under paragraph (2) to a public-utility company, natural gas company, or railroad carrier shall expire on the date that is 10 years after June 10, 2014 .
   - **(4)** To the maximum extent practicable, the Secretary shall ensure that expediting the evaluation of a permit through the use of funds accepted and expended under this section does not adversely affect the timeline for evaluation (in the Corps district in which the project or activity is located) of permits under the jurisdiction of the Department of the Army of other entities that have not contributed funds under this section.
-  - **(5)** Not later than 4 years after June 10, 2014 , the Comptroller General of the United States shall carry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies and natural gas companies.
+  - **(5)** Not later than 4 years after June 10, 2014 , the Comptroller General of the United States shall carry out a study of the implementation by the Secretary of the authority provided under paragraph (2) to public-utility companies, natural gas companies, and railroad carriers, including an evaluation of the compliance with the requirements of this section and, with respect to a permit for those entities, the requirements of applicable Federal laws.
 - **(b)**
   - **(1)** In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
   - **(2)** In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—

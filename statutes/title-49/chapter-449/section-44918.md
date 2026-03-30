@@ -3,9 +3,9 @@ title: "Section 44918 - Crew training"
 usc_title: 49
 usc_section: "44918"
 chapter: 449
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "49 U.S.C. § 44918"
-generated_at: "2026-03-30T05:54:48.333Z"
+generated_at: "2026-03-30T05:56:29.602Z"
 status: "active"
 ---
 

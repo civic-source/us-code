@@ -3,9 +3,9 @@ title: "Section 3797aa - Adult and juvenile collaboration programs"
 usc_title: 42
 usc_section: "3797aa"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3797aa"
-generated_at: "2026-03-30T05:54:40.434Z"
+generated_at: "2026-03-30T05:56:22.741Z"
 status: "active"
 ---
 
@@ -23,17 +23,32 @@ status: "active"
     - **(C)** In this paragraph, the term “graduated sanctions” means an accountability-based graduated series of sanctions (including incentives, treatments, and services) applicable to mentally ill offenders within both the juvenile and adult justice system to hold individuals accountable for their actions and to protect communities by providing appropriate sanctions for inducing law-abiding behavior and preventing subsequent involvement in the criminal justice system.
   - **(5)** The term “mental health agency” means an agency of a State or local government or its contracted agency that is responsible for mental health services or co-occurring mental health and substance abuse services.
   - **(6)** The term “mental health court” means a judicial program that meets the requirements of subchapter XII–J of this chapter.
-  - **(7)** The term “mental illness” means a diagnosable mental, behavioral, or emotional disorder—
+  - **(7)** The terms “mental illness” and “mental health disorder” mean a diagnosable mental, behavioral, or emotional disorder—
     - **(A)** of sufficient duration to meet diagnostic criteria within the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association; and
     - **(B)**
       - **(i)** that, in the case of an adult, has resulted in functional impairment that substantially interferes with or limits 1 or more major life activities; or
       - **(ii)** that, in the case of a juvenile, has resulted in functional impairment that substantially interferes with or limits the juvenile’s role or functioning in family, school, or community activities.
   - **(8)** The term “nonviolent offense” means an offense that does not have as an element the use, attempted use, or threatened use of physical force against the person or property of another or is not a felony that by its nature involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
-  - **(9)** The term “preliminarily qualified offender” means an adult or juvenile accused of a nonviolent offense who—
-    - **(A)**
-      - **(i)** previously or currently has been diagnosed by a qualified mental health professional as having a mental illness or co-occurring mental illness and substance abuse disorders; or
-      - **(ii)** manifests obvious signs of mental illness or co-occurring mental illness and substance abuse disorders during arrest or confinement or before any court; and
-    - **(B)** has faced, is facing, or could face criminal charges for a misdemeanor or nonviolent offense and is deemed eligible by a diversion process, designated pretrial screening process, or by a magistrate or judge, on the ground that the commission of the offense is the product of the person’s mental illness.
+  - **(9)**
+    - **(A)** The term “preliminarily qualified offender” means an adult or juvenile accused of an offense who—
+      - **(i)**
+        - **(I)** previously or currently has been diagnosed by a qualified mental health professional as having a mental illness or co-occurring mental illness and substance abuse disorders;
+        - **(II)** manifests obvious signs of mental illness or co-occurring mental illness and substance abuse disorders during arrest or confinement or before any court; or
+        - **(III)** in the case of a veterans treatment court provided under subsection (i), has been diagnosed with, or manifests obvious signs of, mental illness or a substance abuse disorder or co-occurring mental illness and substance abuse disorder;
+      - **(ii)** has been unanimously approved for participation in a program funded under this section by, when appropriate—
+        - **(I)** the relevant—
+        - **(II)** a representative from the relevant mental health agency described in subsection (b)(5)(B)(i);
+      - **(iii)** has been determined, by each person described in clause (ii) who is involved in approving the adult or juvenile for participation in a program funded under this section, to not pose a risk of violence to any person in the program, or the public, if selected to participate in the program; and
+      - **(iv)** has not been charged with or convicted of—
+        - **(I)** any sex offense (as defined in section 16911 of this title ) or any offense relating to the sexual exploitation of children; or
+        - **(II)** murder or assault with intent to commit murder.
+    - **(B)** In determining whether to designate a defendant as a preliminarily qualified offender, the relevant prosecuting attorney, defense attorney, probation or corrections official, judge, and mental health or substance abuse agency representative shall take into account—
+      - **(i)** whether the participation of the defendant in the program would pose a substantial risk of violence to the community;
+      - **(ii)** the criminal history of the defendant and the nature and severity of the offense for which the defendant is charged;
+      - **(iii)** the views of any relevant victims to the offense;
+      - **(iv)** the extent to which the defendant would benefit from participation in the program;
+      - **(v)** the extent to which the community would realize cost savings because of the defendant’s participation in the program; and
+      - **(vi)** whether the defendant satisfies the eligibility criteria for program participation unanimously established by the relevant prosecuting attorney, defense attorney, probation or corrections official, judge and mental health or substance abuse agency representative.
   - **(10)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(11)** The term “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, including a State court, local court, or a governmental agency located within a city, county, township, town, borough, parish, or village.
 - **(b)**
@@ -94,12 +109,19 @@ status: "active"
         - **(II)** mental health system personnel to respond appropriately to the treatment needs of preliminarily qualified offenders.
       - **(iii)** Funds may be used to create or expand programs that promote public safety by providing the services described in subparagraph (C)(ii) to preliminarily qualified offenders.
       - **(iv)** Funds may be used to promote and provide mental health treatment and transitional services for those incarcerated or for transitional re-entry programs for those released from any penal or correctional institution.
+      - **(v)** Multidisciplinary teams that—
+        - **(I)** coordinate, implement, and administer community-based crisis responses and long-term plans for frequent users of crisis services;
+        - **(II)** provide training on how to respond appropriately to the unique issues involving frequent users of crisis services for public service personnel, including criminal justice, mental health, substance abuse, emergency room, healthcare, law enforcement, corrections, and housing personnel;
+        - **(III)** develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment; and
+        - **(IV)** develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services.
     - **(J)** The Attorney General, in consultation with the Secretary, shall ensure that planning and implementation grants are equitably distributed among the geographical regions of the United States and between urban and rural populations.
 - **(c)** The Attorney General, in awarding funds under this section, shall give priority to applications that—
   - **(1)** promote effective strategies by law enforcement to identify and to reduce risk of harm to mentally ill offenders and public safety;
   - **(2)** promote effective strategies for identification and treatment of female mentally ill offenders;
-  - **(3)** promote effective strategies to expand the use of mental health courts, including the use of pretrial services and related treatment programs for offenders; or
-  - **(4)**
+  - **(3)** promote effective strategies to expand the use of mental health courts, including the use of pretrial services and related treatment programs for offenders;
+  - **(4)** propose interventions that have been shown by empirical evidence to reduce recidivism;
+  - **(5)** when appropriate, use validated assessment tools to target preliminarily qualified offenders with a moderate or high risk of recidivism and a need for treatment and services; or
+  - **(6)**
     - **(A)** demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety;
     - **(B)** demonstrate the active participation of each co-applicant in the administration of the collaboration program;
     - **(C)** document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and reentry services for such individuals; and
@@ -130,8 +152,10 @@ status: "active"
     - **(C)** To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of such respective personnel to mentally ill offenders.
     - **(D)** To provide for the establishment and expansion of cooperative efforts by criminal and juvenile justice agencies and mental health agencies to promote public safety through the use of effective intervention with respect to mentally ill offenders.
     - **(E)** To provide for programs that offer campus security personnel training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+    - **(F)** To provide support for academy curricula, law enforcement officer orientation programs, continuing education training, and other programs that teach law enforcement personnel how to identify and respond to incidents involving persons with mental health disorders or co-occurring mental health and substance abuse disorders.
   - **(2)** For purposes of paragraph (1)(A), the Director of the Bureau of Justice Assistance shall develop training models for training law enforcement personnel in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including suicide prevention.
   - **(3)** The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be made in cash or in-kind fairly evaluated, including planned equipment or services.
+  - **(4)** The Attorney General, in awarding grants under this subsection, shall give priority to programs that law enforcement personnel and members of the mental health and substance abuse professions develop and administer cooperatively.
 - **(i)**
   - **(1)** In this subsection:
     - **(A)** The term “peer-to-peer services or programs” means services or programs that connect qualified veterans with other veterans for the purpose of providing support and mentorship to assist qualified veterans in obtaining treatment, recovery, stabilization, or rehabilitation.
@@ -154,8 +178,81 @@ status: "active"
       - **(ii)** promote effective strategies to identify and reduce the risk of harm to qualified veterans and public safety; and
       - **(iii)** propose interventions with empirical support to improve outcomes for qualified veterans.
 - **(j)**
+  - **(1)** The Attorney General may make grants to States, units of local government, territories, Indian Tribes, nonprofit agencies, or any combination thereof, to develop, implement, or expand Assertive Community Treatment initiatives to develop forensic assertive community treatment (referred to in this subsection as “FACT”) programs that provide high intensity services in the community for individuals with mental illness with involvement in the criminal justice system to prevent future incarcerations.
+  - **(2)** Grant funds awarded under this subsection may be used for—
+    - **(A)** multidisciplinary team initiatives for individuals with mental illnesses with criminal justice involvement that address criminal justice involvement as part of treatment protocols;
+    - **(B)** FACT programs that involve mental health professionals, criminal justice agencies, chemical dependency specialists, nurses, psychiatrists, vocational specialists, forensic peer specialists, forensic specialists, and dedicated administrative support staff who work together to provide recovery oriented, 24/7 wraparound services;
+    - **(C)** services such as integrated evidence-based practices for the treatment of co-occurring mental health and substance-related disorders, assertive outreach and engagement, community-based service provision at participants’ residence or in the community, psychiatric rehabilitation, recovery oriented services, services to address criminogenic risk factors, and community tenure;
+    - **(D)** payments for treatment providers that are approved by the State or Indian Tribe and licensed, if necessary, to provide needed treatment to eligible offenders participating in the program, including behavioral health services and aftercare supervision; and
+    - **(E)** training for all FACT teams to promote high-fidelity practice principles and technical assistance to support effective and continuing integration with criminal justice agency partners.
+  - **(3)** Grants made under this subsection shall be used to supplement, and not supplant, non-Federal funds that would otherwise be available for programs described in this subsection.
+  - **(4)** To request a grant under this subsection, a State, unit of local government, territory, Indian Tribe, or nonprofit agency shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
+- **(k)**
+  - **(1)** In this subsection, the term “eligible entity” means a State, unit of local government, Indian tribe, or tribal organization.
+  - **(2)** The Attorney General may make grants under this subsection to an eligible entity for sequential intercept mapping and implementation in accordance with paragraph (3).
+  - **(3)** An eligible entity that receives a grant under this subsection may use funds for—
+    - **(A)** sequential intercept mapping, which—
+      - **(i)** shall consist of—
+        - **(I)** convening mental health and criminal justice stakeholders to—
+        - **(II)** developing strategies to address gaps in services and bring innovative and effective programs to scale along multiple intercepts, including—
+      - **(ii)** may serve as a starting point for the development of strategic plans to achieve positive public health and safety outcomes; and
+    - **(B)** implementation, which shall—
+      - **(i)** be derived from the strategic plans described in subparagraph (A)(ii); and
+      - **(ii)** consist of—
+        - **(I)** hiring and training personnel;
+        - **(II)** identifying the eligible entity’s target population;
+        - **(III)** providing services and supports to reduce unnecessary penetration into the criminal justice system;
+        - **(IV)** reducing recidivism;
+        - **(V)** evaluating the impact of the eligible entity’s approach; and
+        - **(VI)** planning for the sustainability of effective interventions.
+- **(l)**
+  - **(1)**
+    - **(A)** The term “correctional facility” means a jail, prison, or other detention facility used to house people who have been arrested, detained, held, or convicted by a criminal justice agency or a court.
+    - **(B)** The term “eligible inmate” means an individual who—
+      - **(i)** is being held, detained, or incarcerated in a correctional facility; and
+      - **(ii)** manifests obvious signs of a mental illness or has been diagnosed by a qualified mental health professional as having a mental illness.
+  - **(2)** The Attorney General may award grants to applicants to enhance the capabilities of a correctional facility—
+    - **(A)** to identify and screen for eligible inmates;
+    - **(B)** to plan and provide—
+      - **(i)** initial and periodic assessments of the clinical, medical, and social needs of inmates; and
+      - **(ii)** appropriate treatment and services that address the mental health and substance abuse needs of inmates;
+    - **(C)** to develop, implement, and enhance—
+      - **(i)** post-release transition plans for eligible inmates that, in a comprehensive manner, coordinate health, housing, medical, employment, and other appropriate services and public benefits;
+      - **(ii)** the availability of mental health care services and substance abuse treatment services; and
+      - **(iii)** alternatives to solitary confinement and segregated housing and mental health screening and treatment for inmates placed in solitary confinement or segregated housing; and
+    - **(D)** to train each employee of the correctional facility to identify and appropriately respond to incidents involving inmates with mental health or co-occurring mental health and substance abuse disorders.
+- **(m)** All grants awarded by the Attorney General under this section shall be subject to the following accountability provisions:
+  - **(1)**
+    - **(A)** In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+    - **(B)** Beginning in the first fiscal year beginning after December 13, 2016 , and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+    - **(C)** A recipient of grant funds under this section that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this section during the first 2 fiscal years beginning after the end of the 12-month period described in subparagraph (A).
+    - **(D)** In awarding grants under this section, the Attorney General shall give priority to eligible applicants that did not have an unresolved audit finding during the 3 fiscal years before submitting an application for a grant under this section.
+    - **(E)** If an entity is awarded grant funds under this section during the 2-fiscal-year period during which the entity is barred from receiving grants under subparagraph (C), the Attorney General shall—
+      - **(i)** deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the General Fund of the Treasury; and
+      - **(ii)** seek to recoup the costs of the repayment to the fund from the grant recipient that was erroneously awarded grant funds.
+  - **(2)**
+    - **(A)** For purposes of this paragraph and the grant programs under this subchapter, the term “nonprofit organization” means an organization that is described in section 501(c)(3) of title 26 and is exempt from taxation under section 501(a) of such title.
+    - **(B)** The Attorney General may not award a grant under this subchapter to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26 .
+    - **(C)** Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
+  - **(3)**
+    - **(A)** No amounts made available to the Department of Justice under this section may be used by the Attorney General, or by any individual or entity awarded discretionary funds through a cooperative agreement under this section, to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Department of Justice, unless the head of the relevant agency or department, provides prior written authorization that the funds may be expended to host the conference.
+    - **(B)** Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
+    - **(C)** The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all conference expenditures approved under this paragraph.
+  - **(4)** Beginning in the first fiscal year beginning after December 13, 2016 , the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification—
+    - **(A)** indicating whether—
+      - **(i)** all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
+      - **(ii)** all mandatory exclusions required under paragraph (1)(C) have been issued; and
+      - **(iii)** all reimbursements required under paragraph (1)(E) have been made; and
+    - **(B)** that includes a list of any grant recipients excluded under paragraph (1) from the previous year.
+- **(n)**
+  - **(1)** Before the Attorney General awards a grant to an applicant under this section, the Attorney General shall compare potential grant awards with other grants awarded under this Act to determine if duplicate grant awards are awarded for the same purpose.
+  - **(2)** If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
+    - **(A)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
+    - **(B)** the reason the Attorney General awarded the duplicate grants.
+- **(o)**
   - **(1)** There are authorized to be appropriated to the Department of Justice to carry out this section—
     - **(A)** $50,000,000 for fiscal year 2005;
     - **(B)** such sums as may be necessary for each of the fiscal years 2006 and 2007; and
-    - **(C)** $50,000,000 for each of the fiscal years 2009 through 2014.
+    - **(C)** $50,000,000 for each of the fiscal years 2017 through 2021.
   - **(2)** For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
+  - **(3)** Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).

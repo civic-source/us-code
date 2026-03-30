@@ -3,9 +3,9 @@ title: "Section 2307 - Contract financing"
 usc_title: 10
 usc_section: "2307"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2307"
-generated_at: "2026-03-30T05:52:47.178Z"
+generated_at: "2026-03-30T05:55:13.298Z"
 status: "active"
 ---
 
@@ -14,10 +14,16 @@ status: "active"
 - **(a)** The head of any agency may—
   - **(1)** make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
   - **(2)** insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
-- **(b)** Whenever practicable, payments under subsection (a) shall be made on any of the following bases:
-  - **(1)** Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
-  - **(2)** Accomplishment of events defined in the program management plan.
-  - **(3)** Other quantifiable measures of results.
+- **(b)**
+  - **(1)** Whenever practicable, payments under subsection (a) shall be made using performance-based payments on any of the following bases:
+    - **(A)** Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.
+    - **(B)** Accomplishment of events defined in the program management plan.
+    - **(C)** Other quantifiable measures of results.
+  - **(2)** Performance-based payments shall not be conditioned upon costs incurred in contract performance but on the achievement of performance outcomes listed in paragraph (1).
+  - **(3)** The Secretary of Defense shall ensure that nontraditional defense contractors and other private sector companies are eligible for performance-based payments, consistent with best commercial practices.
+  - **(4)**
+    - **(A)** In order to receive performance-based payments, a contractor’s accounting system shall be in compliance with Generally Accepted Accounting Principles, and there shall be no requirement for a contractor to develop Government-unique accounting systems or practices as a prerequisite for agreeing to receive performance-based payments.
+    - **(B)** Nothing in this section shall be construed to grant the Defense Contract Audit Agency the authority to audit compliance with Generally Accepted Accounting Principles.
 - **(c)** Payments made under subsection (a) may not exceed the unpaid contract price.
 - **(d)** Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 - **(e)**

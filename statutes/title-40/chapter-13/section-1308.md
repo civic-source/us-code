@@ -3,9 +3,9 @@ title: "Section 1308 - Disposition of unfit horses and mules"
 usc_title: 40
 usc_section: "1308"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "40 U.S.C. § 1308"
-generated_at: "2026-03-30T05:54:13.497Z"
+generated_at: "2026-03-30T05:56:09.905Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1885c - Committee on Equal Opportunities in Science and Engineer
 usc_title: 42
 usc_section: "1885c"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1885c"
-generated_at: "2026-03-30T05:54:40.371Z"
+generated_at: "2026-03-30T05:56:22.676Z"
 status: "active"
 ---
 
@@ -15,4 +15,6 @@ status: "active"
 - **(b)** Each member of the Committee shall be appointed by the Director. In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee. Members of the Committee shall be appointed to serve for a three-year term, and may be reappointed to serve one additional term of three years.
 - **(c)** The Committee shall be responsible for reviewing and evaluating all Foundation matters relating to opportunities for the participation in, and the advancement of, women, minorities, and persons with disabilities in education, training, and science and engineering research programs.
 - **(d)** The Committee may organize such standing or ad hoc subcommittees as the Committee finds appropriate.
-- **(e)** Every two years, the Committee shall prepare and transmit to the Director a report on its activities during the previous two years and proposed activities for the next two years. The Director shall transmit to Congress the report, unaltered, together with such comments as the Director deems appropriate.
+- **(e)** Every 2 years, the Committee shall prepare and submit to the Director a report on its activities during the previous 2 years and proposed activities for the next 2 years. The Director shall submit to Congress the report, unaltered, together with such comments as the Director considers appropriate, including—
+  - **(1)** review data on the participation in Foundation activities of institutions serving populations that are underrepresented in STEM disciplines, including poor, rural, and tribal populations; and
+  - **(2)** recommendations regarding how the Foundation could improve outreach and inclusion of these populations in Foundation activities.

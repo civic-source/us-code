@@ -3,14 +3,14 @@ title: "Section 3972 - Special differentials"
 usc_title: 22
 usc_section: "3972"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 3972"
-generated_at: "2026-03-30T05:53:23.572Z"
+generated_at: "2026-03-30T05:55:51.116Z"
 status: "active"
 ---
 
 # § 3972. Special differentials
 
 - **(a)** The Secretary may pay special differentials, in addition to compensation otherwise authorized, to Foreign Service officers who are required because of the nature of their assignments to perform additional work on a regular basis in substantial excess of normal requirements.
-- **(b)**
+- **(b)** The Inspector General of the United States Agency for International Development (USAID) shall limit the payment of special differentials to USAID Foreign Service criminal investigators to levels at which the aggregate of basic pay and special differential for any pay period would equal, for such criminal investigators, the bi-weekly pay limitations on premium pay regularly placed on other criminal investigators within the Federal law enforcement community. This provision shall be retroactive to January 1, 2013 .
 - **(c)** Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall preclude the granting of compensatory time off for Foreign Service officers.

@@ -3,9 +3,9 @@ title: "Section 1300j - Omitted"
 usc_title: 25
 usc_section: "1300j"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "25 U.S.C. § 1300j"
-generated_at: "2026-03-30T05:53:16.789Z"
+generated_at: "2026-03-30T05:55:47.689Z"
 status: "omitted"
 ---
 

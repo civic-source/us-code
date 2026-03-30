@@ -3,9 +3,9 @@ title: "Section 287d - Office of Research on Women’s Health"
 usc_title: 42
 usc_section: "287d"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 287d"
-generated_at: "2026-03-30T05:54:40.100Z"
+generated_at: "2026-03-30T05:56:22.394Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(9)** prepare the report required in section 287d–2 of this title .
 - **(c)**
   - **(1)** In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women’s Health (in this subsection referred to as the “Coordinating Committee”).
-  - **(2)** The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
+  - **(2)** The Coordinating Committee shall be composed of the Directors of the national research institutes (or the senior-level staff designees of the Directors).
   - **(3)** The Director of the Office shall serve as the chair of the Coordinating Committee.
   - **(4)** With respect to research on women’s health, the Coordinating Committee shall assist the Director of the Office in—
     - **(A)** identifying the need for such research, and making an estimate each fiscal year of the funds needed to adequately support the research;

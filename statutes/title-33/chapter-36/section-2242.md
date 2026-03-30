@@ -3,9 +3,9 @@ title: "Section 2242 - Remote and subsistence harbors"
 usc_title: 33
 usc_section: "2242"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2242"
-generated_at: "2026-03-30T05:53:40.443Z"
+generated_at: "2026-03-30T05:56:05.884Z"
 status: "active"
 ---
 
@@ -16,13 +16,13 @@ status: "active"
     - **(A)** the community to be served by the project is at least 70 miles from the nearest surface accessible commercial port and has no direct rail or highway link to another community served by a surface accessible port or harbor; or
     - **(B)** the project would be located in the State of Hawaii or Alaska, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, or American Samoa;
   - **(2)** the harbor is economically critical such that over 80 percent of the goods transported through the harbor would be consumed within the region served by the harbor and navigation improvement, as determined by the Secretary, including consideration of information provided by the non-Federal interest; and
-  - **(3)** the long-term viability of the community would be threatened without the harbor and navigation improvement.
+  - **(3)** the long-term viability of the community in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project, would be threatened without the harbor and navigation improvement.
 - **(b)** In considering whether to recommend a project under subsection (a), the Secretary shall consider the benefits of the project to—
-  - **(1)** public health and safety of the local community, including access to facilities designed to protect public health and safety;
+  - **(1)** public health and safety of the local community and communities that are located in the region to be served by the project and that will rely on the project, including access to facilities designed to protect public health and safety;
   - **(2)** access to natural resources for subsistence purposes;
   - **(3)** local and regional economic opportunities;
-  - **(4)** welfare of the local population; and
-  - **(5)** social and cultural value to the community.
+  - **(4)** welfare of the regional population to be served by the project; and
+  - **(5)** social and cultural value to the local community and communities that are located in the region to be served by the project and that will rely on the project.
 - **(c)** Projects recommended by the Secretary under subsection (a) shall be given equivalent budget consideration and priority as projects recommended solely by national economic development benefits.
 - **(d)**
   - **(1)** The Secretary may carry out any project identified in the study carried out pursuant to subsection (a) in accordance with the criteria for projects carried out under the authority of the Secretary under section 577 of this title .

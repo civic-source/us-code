@@ -3,15 +3,15 @@ title: "Section 102 - Definitions"
 usc_title: 40
 usc_section: "102"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "40 U.S.C. § 102"
-generated_at: "2026-03-30T05:54:13.492Z"
+generated_at: "2026-03-30T05:56:09.901Z"
 status: "active"
 ---
 
 # § 102. Definitions
 
-The following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
+Except as provided in subchapter VII of chapter 5 of this title, the following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
   - **(1)** The term “care and handling” includes—
     - **(A)** completing, repairing, converting, rehabilitating, operating, preserving, protecting, insuring, packing, storing, handling, conserving, and transporting excess and surplus property; and

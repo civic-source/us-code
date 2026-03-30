@@ -3,9 +3,9 @@ title: "Section 11411 - Use of unutilized and underutilized public buildings and
 usc_title: 42
 usc_section: "11411"
 chapter: 119
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 11411"
-generated_at: "2026-03-30T05:54:40.616Z"
+generated_at: "2026-03-30T05:56:22.919Z"
 status: "active"
 ---
 
@@ -21,16 +21,16 @@ status: "active"
     - **(B)** in the case of excess property—
       - **(i)** a statement that there is no other compelling Federal need for the property and, therefore, the property will be determined surplus; or
       - **(ii)** a statement that there is further and compelling Federal need for the property (including a full explanation of such need) and that, therefore, the property is not presently available for use to assist the homeless.
-  - **(2)**
-    - **(A)** 1 1 So in original. No subpar. (B) has been enacted. All properties identified by the Secretary under subsection (a) shall be available for application—
-      - **(i)** in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section; and
-      - **(ii)** in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40.
+  - **(2)** All properties identified by the Secretary under subsection (a) shall be available for application—
+    - **(A)** in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section;
+    - **(B)** in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40; and
+    - **(C)** in the case of surplus property, the provision of permanent housing with or without supportive services is an eligible use to assist the homeless under this section.
   - **(3)** The Secretary shall maintain a written public record of—
     - **(A)** the identification of buildings and other properties by the Secretary under this subsection and the reasons for such identifications; and
     - **(B)** the responses of landholding agencies to such identifications.
 - **(c)**
   - **(1)**
-    - **(A)** No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1), the Secretary shall publish in the Federal Register—
+    - **(A)** No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1), the Secretary shall publish on the Web site of the Department of Housing and Urban Development or the General Services Administration—
       - **(i)** a list of all properties reviewed by the Secretary under subsection (a); and
       - **(ii)** a list of all properties that are available under subsection (b)(2) for application for use to assist the homeless.
     - **(B)** Each publication of properties shall include a description and the location of each property (including the address and zip code) and the current classification of each property as unutilized, underutilized, excess property, or surplus property.
@@ -50,18 +50,25 @@ status: "active"
       - **(i)** an application for or written expression of interest in the property is made under any law for use of the property for any purpose; or
       - **(ii)** the Administrator receives a bona fide offer to purchase the property or advertises for the sale of the property by public auction.
 - **(d)**
-  - **(1)** Properties published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless shall not be available for any other purpose for a period of 60 days beginning on the date of such publication.
-  - **(2)** If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 60-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) with respect to that written notice of intent.
-  - **(3)** Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
+  - **(1)** Properties published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless shall not be available for any other purpose for a period of 30 days beginning on the date of such publication.
+  - **(2)** If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 30-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) with respect to that written notice of intent.
+  - **(3)** Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness. If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable.
   - **(4)**
-    - **(A)** Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
+    - **(A)** Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
     - **(B)** Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f).
 - **(e)**
   - **(1)** A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless.
-  - **(2)** No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
-  - **(3)** No later than 25 days after receipt of a completed application, the Secretary of Health and Human Services shall review, make all determinations, and complete all actions on the application. The Secretary of Health and Human Services shall maintain a written public record of all actions taken in response to an application.
+  - **(2)**
+    - **(A)** No later than 75 days after the submission of written notice of intent to apply for a property, an applicant shall submit an initial application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
+    - **(B)** An initial application shall set forth—
+      - **(i)** the services that will be offered;
+      - **(ii)** the need for the services; and
+      - **(iii)** the experience of the applicant that demonstrates the ability to provide the services.
+  - **(3)** No later than 10 days after receipt of an initial application, the Secretary of Health and Human Services shall review, make all determinations, and complete all actions on the application. The Secretary of Health and Human Services shall maintain a written public record of all actions taken in response to an application.
+  - **(4)** If the Secretary of Health and Human Services approves an initial application, the applicant has 45 days in which to provide a final application that sets forth a reasonable plan to finance the approved program.
+  - **(5)** No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public record of all actions taken in response to an application.
 - **(f)**
-  - **(1)** Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) shall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
+  - **(1)** Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) shall be made promptly available, at the applicant’s discretion, by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
   - **(2)** Unutilized or underutilized property that is the subject of an agency’s statement of intention under subsection (b)(1)(A)(ii) shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
   - **(3)**
     - **(A)** In disposing of surplus property by deed or lease under sections 541–555 of title 40, the Administrator and the Secretary of Health and Human Services shall give priority of consideration to uses to assist the homeless, unless the Administrator or the Secretary of Health and Human Services determines that a competing request for the property under section 550 of title 40 is so meritorious and compelling as to outweigh the needs of the homeless.

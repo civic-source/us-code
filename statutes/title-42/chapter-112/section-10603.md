@@ -3,9 +3,9 @@ title: "Section 10603 - Crime victim assistance"
 usc_title: 42
 usc_section: "10603"
 chapter: 112
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 10603"
-generated_at: "2026-03-30T05:54:40.605Z"
+generated_at: "2026-03-30T05:56:22.908Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(3)** Not more than 5 percent of sums received under subsection (a) may be used for training purposes and the administration of the State crime victim assistance program receiving such sums.
 - **(c)**
   - **(1)** The Director shall make grants—
-    - **(A)** for demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs;
+    - **(A)** for victim services, demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs;
     - **(B)** for the financial support of services to victims of Federal crime by eligible crime victim assistance programs; and
     - **(C)** for nonprofit neighborhood and community-based victim service organizations and coalitions to improve outreach and services to victims of crime.
   - **(2)** Of the amount available for grants under this subsection—

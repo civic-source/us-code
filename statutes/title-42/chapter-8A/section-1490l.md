@@ -3,15 +3,15 @@ title: "Section 1490l - Processing of applications"
 usc_title: 42
 usc_section: "1490l"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1490l"
-generated_at: "2026-03-30T05:54:40.347Z"
+generated_at: "2026-03-30T05:56:22.651Z"
 status: "active"
 ---
 
 # § 1490l. Processing of applications
 
-- **(a)** Except as otherwise provided in subsection (c) of this section, the Secretary shall, in making assistance available under this subchapter, give a priority to applications submitted by—
+- **(a)** Except as otherwise provided in subsection (c), the Secretary shall, in making assistance available under this subchapter, give a priority to applications submitted by—
   - **(1)** persons and families that have the greatest housing assistance needs because of their low income and their residing in inadequate dwellings;
   - **(2)** applicants applying for assistance for projects that will serve such persons and families; and
   - **(3)** applicants residing in areas which are the most rural in character.

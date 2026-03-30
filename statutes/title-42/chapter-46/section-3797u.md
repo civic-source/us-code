@@ -3,16 +3,16 @@ title: "Section 3797u - Grant authority"
 usc_title: 42
 usc_section: "3797u"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3797u"
-generated_at: "2026-03-30T05:54:40.433Z"
+generated_at: "2026-03-30T05:56:22.740Z"
 status: "active"
 ---
 
 # § 3797u. Grant authority
 
 - **(a)** The Attorney General may make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or private entities, for adult drug courts, juvenile drug courts, family drug courts, and tribal drug courts that involve—
-  - **(1)** continuing judicial supervision over offenders, and other individuals under the jurisdiction of the court, with substance abuse problems who are not violent offenders;
+  - **(1)** continuing judicial supervision over offenders, and other individuals under the jurisdiction of the court, with substance abuse problems, including co-occurring substance abuse and mental health problems, who are not violent offenders;
   - **(2)** coordination with the appropriate State or local prosecutor; and
   - **(3)** the integrated administration of other sanctions and services, which shall include—
     - **(A)** mandatory periodic testing for the use of controlled substances or other addictive substances during any period of supervised release or probation for each participant;

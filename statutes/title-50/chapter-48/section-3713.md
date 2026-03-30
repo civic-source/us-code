@@ -3,9 +3,9 @@ title: "Section 3713 - Authority for urgent threat reduction activities under De
 usc_title: 50
 usc_section: "3713"
 chapter: 48
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 3713"
-generated_at: "2026-03-30T05:54:46.422Z"
+generated_at: "2026-03-30T05:56:27.721Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** certain provisions of law would unnecessarily impede the ability of the Secretary to carry out such covered activities to address such threat; and
     - **(C)** it is necessary to obligate or expend such funds to carry out such covered activities;
   - **(2)** the Secretary of State and the Secretary of Energy concur with such determination; and
-  - **(3)** at the time at which the Secretary of Defense first obligates such funds, the Secretary of Defense, in consultation with the Secretary of State, submits to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate—
+  - **(3)** not later than seven days before the date on which the Secretary of Defense first obligates such funds, the Secretary of Defense, in consultation with the Secretary of State, submits to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate—
     - **(A)** the determination under paragraph (1);
     - **(B)** a description of the covered activities to be carried out using such funds;
     - **(C)** the expected time frame for such activities; and

@@ -3,9 +3,9 @@ title: "Section 9002 - Comprehensive program management plan"
 usc_title: 42
 usc_section: "9002"
 chapter: 98
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 9002"
-generated_at: "2026-03-30T05:54:40.569Z"
+generated_at: "2026-03-30T05:56:22.873Z"
 status: "active"
 ---
 

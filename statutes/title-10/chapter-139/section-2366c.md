@@ -1,0 +1,23 @@
+---
+title: "Section 2366c - Major defense acquisition programs: submissions to Congress on Milestone C"
+usc_title: 10
+usc_section: "2366c"
+chapter: 139
+current_through: "PL 115-8"
+classification: "10 U.S.C. § 2366c"
+generated_at: "2026-03-30T05:55:13.304Z"
+status: "active"
+---
+
+# § 2366c. Major defense acquisition programs: submissions to Congress on Milestone C
+
+- **(a)** Not later than 15 days after granting Milestone C approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following:
+  - **(1)** The estimated cost and schedule for the program established by the military department concerned, including—
+    - **(A)** the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+    - **(B)** the planned dates for initial operational test and evaluation and initial operational capability.
+  - **(2)** The independent estimated cost for the program established pursuant to section 2334(a)(6) of this title , and any independent estimated schedule for the program, including—
+    - **(A)** the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+    - **(B)** the planned dates for initial operational test and evaluation and initial operational capability.
+  - **(3)** A summary of any production, manufacturing, and fielding risks associated with the program.
+- **(b)** At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee further information or underlying documentation for the information in a brief summary report submitted under subsection (a), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that subsection.
+- **(c)** In this section, the term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title .

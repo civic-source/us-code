@@ -3,9 +3,9 @@ title: "Section 31111 - Claims by nationals of foreign countries"
 usc_title: 46
 usc_section: "31111"
 chapter: 311
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 31111"
-generated_at: "2026-03-30T05:54:44.424Z"
+generated_at: "2026-03-30T05:56:26.706Z"
 status: "active"
 ---
 

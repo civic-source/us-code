@@ -3,9 +3,9 @@ title: "Section 6323 - Military leave; Reserves and National Guardsmen"
 usc_title: 5
 usc_section: "6323"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 6323"
-generated_at: "2026-03-30T05:52:33.950Z"
+generated_at: "2026-03-30T05:55:06.573Z"
 status: "active"
 ---
 
@@ -19,10 +19,10 @@ status: "active"
   - **(1)** is a member of a Reserve component of the Armed Forces, as described in section 10101 of title 10 , or the National Guard, as described in section 101 of title 32 ; and
   - **(2)**
     - **(A)** performs, for the purpose of providing military aid to enforce the law or for the purpose of providing assistance to civil authorities in the protection or saving of life or property or the prevention of injury—
-      - **(i)** Federal service under section 331, 332, 333, or 12406 of title 10, or other provision of law, as applicable, or
+      - **(i)** Federal service under section 331, 332, 333, 1 1 See References in Text note below or 12406 of title 10, or other provision of law, as applicable, or
       - **(ii)** full-time military service for his State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States; or
     - **(B)** performs full-time military service as a result of a call or order to active duty in support of a contingency operation as defined in section 101(a)(13) of title 10 ;
 - **(c)** An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is a member of the National Guard of the District of Columbia, is entitled to leave without loss in pay or time for each day of a parade or encampment ordered or authorized under title 39, District of Columbia Code. This subsection covers each day of service the National Guard, or a portion thereof, is ordered to perform by the commanding general.
 - **(d)**
-  - **(1)** A military reserve technician described in section 8401(30) 1 1 See References in Text note below. is entitled at such person’s request to leave without loss of, or reduction in, pay, leave to which such person is otherwise entitled, credit for time or service, or performance or efficiency rating for each day, not to exceed 44 workdays in a calendar year, in which such person is on active duty without pay, as authorized pursuant to section 12315 of title 10 , under section 12301(b) or 12301(d) of title 10 for participation in operations outside the United States, its territories and possessions.
+  - **(1)** A military reserve technician described in section 8401(30) 1 is entitled at such person’s request to leave without loss of, or reduction in, pay, leave to which such person is otherwise entitled, credit for time or service, or performance or efficiency rating for each day, not to exceed 44 workdays in a calendar year, in which such person is on active duty without pay, as authorized pursuant to section 12315 of title 10 , under section 12301(b) or 12301(d) of title 10 for participation in operations outside the United States, its territories and possessions.
   - **(2)** An employee who requests annual leave or compensatory time to which the employee is otherwise entitled, for a period during which the employee would have been entitled upon request to leave under this subsection, may be granted such annual leave or compensatory time without regard to this section or section 5519.

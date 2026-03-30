@@ -3,9 +3,9 @@ title: "Section 8014 - Office of the Secretary of the Air Force"
 usc_title: 10
 usc_section: "8014"
 chapter: 803
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 8014"
-generated_at: "2026-03-30T05:52:47.227Z"
+generated_at: "2026-03-30T05:55:13.349Z"
 status: "active"
 ---
 
@@ -43,4 +43,5 @@ status: "active"
   - **(1)** The total number of members of the armed forces and civilian employees of the Department of the Air Force assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 2,639.
   - **(2)** Not more than 1,585 officers of the Air Force on the active-duty list may be assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff.
   - **(3)** The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 60.
-  - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.
+  - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
+  - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.

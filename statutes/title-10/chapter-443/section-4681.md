@@ -1,15 +1,13 @@
 ---
-title: "Section 4681 - Surplus war material: sale to States and foreign governments"
+title: "Section 4681 - Repealed. Pub. L. 114–328, div. A, title XII , § 1253(a)(1)(D), Dec. 23, 2016 , 130 Stat. 2532 ]"
 usc_title: 10
 usc_section: "4681"
 chapter: 443
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 4681"
-generated_at: "2026-03-30T05:52:47.214Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.335Z"
+status: "repealed"
 ---
 
-# § 4681. Surplus war material: sale to States and foreign governments
-
-Subject to regulations under section 121 of title 40 , the Secretary of the Army may sell surplus war material and supplies, except food, of the Department of the Army, for which there is no adequate domestic market, to any State or to any foreign government with which the United States was at peace on June 5, 1920 . Sales under this section shall be made upon terms that the Secretary considers expedient.
+# [§ 4681. Repealed. Pub. L. 114–328, div. A, title XII , § 1253(a)(1)(D), Dec. 23, 2016 , 130 Stat. 2532 ]
 

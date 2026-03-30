@@ -3,9 +3,9 @@ title: "Section 1411c - Omitted"
 usc_title: 42
 usc_section: "1411c"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1411c"
-generated_at: "2026-03-30T05:54:40.329Z"
+generated_at: "2026-03-30T05:56:22.633Z"
 status: "omitted"
 ---
 

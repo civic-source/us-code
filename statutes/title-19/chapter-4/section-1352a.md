@@ -3,9 +3,9 @@ title: "Section 1352a - Repealed. Pub. L. 87–794, title II , § 257(f), Oct. 1
 usc_title: 19
 usc_section: "1352a"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "19 U.S.C. § 1352a"
-generated_at: "2026-03-30T05:53:13.035Z"
+generated_at: "2026-03-30T05:55:32.978Z"
 status: "repealed"
 ---
 

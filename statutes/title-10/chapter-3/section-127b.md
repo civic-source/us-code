@@ -3,9 +3,9 @@ title: "Section 127b - Department of Defense rewards program"
 usc_title: 10
 usc_section: "127b"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 127b"
-generated_at: "2026-03-30T05:52:47.111Z"
+generated_at: "2026-03-30T05:55:13.225Z"
 status: "active"
 ---
 
@@ -46,5 +46,5 @@ status: "active"
 - **(g)** A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 - **(h)** Not later than 15 days after the date on which the Secretary designates a country as a country in which an operation or activity of the armed forces is occurring in connection with which rewards may be paid under this section, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the designation. Each report shall include the following:
   - **(1)** The country so designated.
-  - **(2)** The reason for the designation of the country.
-  - **(3)** A justification for the designation of the country for purposes of this section.
+  - **(2)** The reason and justification for the designation of the country.
+  - **(3)** An estimate of the amount or value of the rewards to be paid as monetary payment or payment-in-kind under this section.

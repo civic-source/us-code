@@ -3,9 +3,9 @@ title: "Section 4064 - Reemployment"
 usc_title: 22
 usc_section: "4064"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 4064"
-generated_at: "2026-03-30T05:53:23.576Z"
+generated_at: "2026-03-30T05:55:51.119Z"
 status: "active"
 ---
 
@@ -35,13 +35,9 @@ status: "active"
 - **(g)**
   - **(1)** The Secretary of State may waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
     - **(A)** if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances;
-    - **(B)** to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+    - **(B)** if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
     - **(C)**
       - **(i)** to provide assistance to consular posts with a substantial backlog of visa applications; or
       - **(ii)** to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( Public Law 108–458 ; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
-  - **(2)**
-    - **(A)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010 . An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
-    - **(B)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009 .
-    - **(C)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009 .
-  - **(3)** The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
+  - **(2)** The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
 - **(h)** A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.

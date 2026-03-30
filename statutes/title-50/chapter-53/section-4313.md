@@ -3,9 +3,9 @@ title: "Section 4313 - Statements by masters of vessels and owners of cargoes be
 usc_title: 50
 usc_section: "4313"
 chapter: 53
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 4313"
-generated_at: "2026-03-30T05:54:46.433Z"
+generated_at: "2026-03-30T05:56:27.732Z"
 status: "active"
 ---
 

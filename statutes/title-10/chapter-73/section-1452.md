@@ -3,9 +3,9 @@ title: "Section 1452 - Reduction in retired pay"
 usc_title: 10
 usc_section: "1452"
 chapter: 73
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 1452"
-generated_at: "2026-03-30T05:52:47.157Z"
+generated_at: "2026-03-30T05:55:13.276Z"
 status: "active"
 ---
 
@@ -50,11 +50,12 @@ status: "active"
     - **(B)** Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
     - **(C)** Any additional amount that the Secretary determines necessary to protect the actuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
 - **(d)**
-  - **(1)** If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
-  - **(2)** Paragraph (1) does not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
+  - **(1)** If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period, except to the extent that the required deduction is made pursuant to paragraph (2).
+  - **(2)** In the case of a person who has elected to participate in the Plan and who has been awarded both retired pay and combat-related special compensation under section 1413a of this title , if a deduction from the person’s retired pay for any period cannot be made in the full amount required, there shall be deducted from the person’s combat-related special compensation in lieu of deduction from the person’s retired pay the amount that would otherwise have been deducted from the person’s retired pay for that period.
+  - **(3)** Paragraphs (1) and (2) do not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
 - **(e)** When a person who has elected to participate in the Plan waives that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or 8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
 - **(f)**
-  - **(1)** A person is not entitled to refund of any amount deducted from retired pay under this section.
+  - **(1)** A person is not entitled to refund of any amount deducted from retired pay or combat-related special compensation under this section.
   - **(2)** Paragraph (1) does not apply—
     - **(A)** in the case of a refund authorized by section 1450(e) of this title ; or
     - **(B)** in case of a deduction made through administrative error.
@@ -67,7 +68,7 @@ status: "active"
   - **(3)**
     - **(A)** The Secretary concerned shall furnish promptly to each person who files a request under paragraph (1) to discontinue participation in the Plan a written statement of the advantages of participating in the Plan and the possible disadvantages of discontinuing participation.
     - **(B)** A person may withdraw a request made under paragraph (1) if it is withdrawn within 30 days after having been submitted to the Secretary concerned.
-  - **(4)** Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person’s surviving spouse.
+  - **(4)** Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay or combat-related special compensation of that person under this section shall be refunded to the person’s surviving spouse.
   - **(5)**
     - **(A)** A person described in paragraph (1) who discontinued participation in the Plan may elect to participate again in the Plan if—
       - **(i)** after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person’s service-connected disability rating to a rating of less than total; and

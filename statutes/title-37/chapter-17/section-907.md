@@ -3,9 +3,9 @@ title: "Section 907 - Enlisted members and warrant officers appointed as officer
 usc_title: 37
 usc_section: "907"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "37 U.S.C. § 907"
-generated_at: "2026-03-30T05:54:10.351Z"
+generated_at: "2026-03-30T05:56:07.672Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(E)** Career sea pay under section 305a of this title .
     - **(F)** Special pay for service as a member of a Weapons of Mass Destruction Civil Support Team under section 305b of this title .
     - **(G)** Assignment incentive pay under section 307a of this title .
-    - **(H)** Special pay for duty subject to hostile fire or imminent danger under section 310 of this title .
+    - **(H)** Special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of this title.
     - **(I)** Special pay or bonus for an extension of duty at a designated overseas location under section 314 of this title .
     - **(J)** Foreign language proficiency pay under section 316 of this title .
     - **(K)** Critical skill retention bonus under section 323 1 1 See References in Text note below. of this title.

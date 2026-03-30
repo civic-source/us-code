@@ -3,9 +3,9 @@ title: "Section 5142 - Chaplain Corps and Chief of Chaplains"
 usc_title: 10
 usc_section: "5142"
 chapter: 513
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5142"
-generated_at: "2026-03-30T05:52:47.216Z"
+generated_at: "2026-03-30T05:55:13.338Z"
 status: "active"
 ---
 
@@ -17,4 +17,3 @@ status: "active"
 - **(d)**
   - **(1)** The Chief of Chaplains shall perform such duties as may be prescribed by the Secretary of the Navy and by law.
   - **(2)** The Chief of Chaplains shall, with respect to all duties pertaining to the procurement, distribution, and support of personnel of the Chaplain Corps, report to and be supported by the Chief of Naval Personnel.
-- **(e)** The Chief of Chaplains of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title .

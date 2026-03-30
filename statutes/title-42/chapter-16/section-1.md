@@ -1,18 +1,24 @@
 ---
-title: "Section 1 - Dyslexia"
+title: "Section 1 - Transparency and accountability"
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T05:54:40.370Z"
+generated_at: "2026-03-30T05:56:22.674Z"
 status: "active"
 ---
 
-# § 1862r–1. Dyslexia
+# § 1862s–1. Transparency and accountability
 
-- **(a)** Consistent with subsection (c), the National Science Foundation shall support multi-directorate, merit-reviewed, and competitively awarded research on the science of specific learning disability, including dyslexia, such as research on the early identification of children and students with dyslexia, professional development for teachers and administrators of students with dyslexia, curricula and educational tools needed for children with dyslexia, and implementation and scaling of successful models of dyslexia intervention. Research supported under this subsection shall be conducted with the goal of practical application.
-- **(b)** To promote development of early career researchers, in awarding funds under subsection (a) the National Science Foundation shall prioritize applications for funding submitted by early career researchers.
-- **(c)** To prevent unnecessary duplication of research, activities under this this section and section 1862r of this title shall be coordinated with similar activities supported by other Federal agencies, including research funded by the Institute of Education Sciences and the National Institutes of Health.
-- **(d)** The National Science Foundation shall devote not less than $5,000,000 to research described in subsection (a), which shall include not less than $2,500,000 for research on the science of dyslexia, for each of fiscal years 2017 through 2021, subject to the availability of appropriations, to come from amounts made available for the Research and Related Activities account or the Education and Human Resources Directorate under subsection (e). This section shall be carried out using funds otherwise appropriated by law after February 18, 2016 .
-- **(e)** For each of fiscal years 2016 through 2021, there are authorized out of funds appropriated to the National Science Foundation, $5,000,000 to carry out the activities described in subsection (a).
+- **(a)**
+  - **(1)** building the understanding of and confidence in investments in basic research is essential to public support for sustained, predictable Federal funding;
+  - **(2)** the Foundation has improved transparency and accountability of the outcomes made through the merit review process, but additional transparency into individual grants is valuable in communicating and assuring the public value of federally funded research; and
+  - **(3)** the Foundation should commit to transparency and accountability and to clear, consistent public communication regarding the national interest for each Foundation-awarded grant and cooperative agreement.
+- **(b)**
+  - **(1)** The Director of the Foundation shall issue and periodically update, as appropriate, policy guidance for both Foundation staff and other Foundation merit review process participants on the importance of transparency and accountability to the outcomes made through the merit review process.
+  - **(2)** The guidance under paragraph (1) shall require that each public notice of a Foundation-funded research project justify the expenditure of Federal funds by—
+    - **(A)** describing how the project—
+      - **(i)** reflects the statutory mission of the Foundation, as established in the National Science Foundation Act of 1950 ( 42 U.S.C. 1861 et seq.); and
+      - **(ii)** addresses the Foundation’s intellectual merit and broader impacts criteria; and
+    - **(B)** clearly identifying the research goals of the project in a manner that can be easily understood by both technical and non-technical audiences.

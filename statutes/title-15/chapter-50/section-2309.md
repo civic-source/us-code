@@ -3,9 +3,9 @@ title: "Section 2309 - Procedures applicable to promulgation of rules by Commiss
 usc_title: 15
 usc_section: "2309"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 2309"
-generated_at: "2026-03-30T05:52:57.809Z"
+generated_at: "2026-03-30T05:55:29.345Z"
 status: "active"
 ---
 

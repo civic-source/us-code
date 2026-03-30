@@ -3,9 +3,9 @@ title: "Section 4355 - Board of Visitors"
 usc_title: 10
 usc_section: "4355"
 chapter: 403
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 4355"
-generated_at: "2026-03-30T05:52:47.212Z"
+generated_at: "2026-03-30T05:55:13.333Z"
 status: "active"
 ---
 

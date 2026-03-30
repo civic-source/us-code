@@ -3,9 +3,9 @@ title: "Section 14 - Process for adoption of endorsed recommendations; adoption 
 usc_title: 42
 usc_section: "14"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T05:54:40.165Z"
+generated_at: "2026-03-30T05:56:22.463Z"
 status: "active"
 ---
 
@@ -15,9 +15,10 @@ status: "active"
   - **(1)** Not later than 90 days after the date of receipt of standards, implementation specifications, or certification criteria endorsed under section 300jj–11(c) of this title , the Secretary, in consultation with representatives of other relevant Federal agencies, shall jointly review such standards, implementation specifications, or certification criteria and shall determine whether or not to propose adoption of such standards, implementation specifications, or certification criteria.
   - **(2)** If the Secretary determines—
     - **(A)** to propose adoption of any grouping of such standards, implementation specifications, or certification criteria, the Secretary shall, by regulation under section 553 of title 5 , determine whether or not to adopt such grouping of standards, implementation specifications, or certification criteria; or
-    - **(B)** not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator and the HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
+    - **(B)** not to propose adoption of any grouping of standards, implementation specifications, or certification criteria, the Secretary shall notify the National Coordinator and the HIT Advisory Committee in writing of such determination and the reasons for not proposing the adoption of such recommendation.
   - **(3)** The Secretary shall provide for publication in the Federal Register of all determinations made by the Secretary under paragraph (1).
 - **(b)**
-  - **(1)** Not later than December 31, 2009 , the Secretary shall, through the rulemaking process consistent with subsection (a)(2)(A), adopt an initial set of standards, implementation specifications, and certification criteria for the areas required for consideration under section 300jj–12(b)(2)(B) of this title . The rulemaking for the initial set of standards, implementation specifications, and certification criteria may be issued on an interim, final basis.
+  - **(1)** Not later than December 31, 2009 , the Secretary shall, through the rulemaking process consistent with subsection (a)(2)(A), adopt an initial set of standards, implementation specifications, and certification criteria for the areas required for consideration under section 300jj–12(b)(2)(B) 1 1 See References in Text note below. of this title. The rulemaking for the initial set of standards, implementation specifications, and certification criteria may be issued on an interim, final basis.
   - **(2)** The standards, implementation specifications, and certification criteria adopted before February 17, 2009 , through the process existing through the Office of the National Coordinator for Health Information Technology may be applied towards meeting the requirement of paragraph (1).
-  - **(3)** The Secretary shall adopt additional standards, implementation specifications, and certification criteria as necessary and consistent with the schedule published under section 300jj–13(b)(2) 1 1 So in original. Probably should be a reference to section 300jj–13(b)(3). of this title.
+  - **(3)** The Secretary shall adopt additional standards, implementation specifications, and certification criteria as necessary and consistent with the schedule published under section 300jj–12(b)(4) of this title .
+- **(c)** In adopting and implementing standards under this section, the Secretary shall give deference to standards published by standards development organizations and voluntary consensus-based standards bodies.

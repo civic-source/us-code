@@ -3,9 +3,9 @@ title: "Section 18234 - Location and use"
 usc_title: 10
 usc_section: "18234"
 chapter: 1803
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 18234"
-generated_at: "2026-03-30T05:52:47.246Z"
+generated_at: "2026-03-30T05:55:13.368Z"
 status: "active"
 ---
 

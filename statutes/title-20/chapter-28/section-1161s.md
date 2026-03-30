@@ -3,9 +3,9 @@ title: "Section 1161s - Program to promote training and job placement of realtim
 usc_title: 20
 usc_section: "1161s"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "20 U.S.C. § 1161s"
-generated_at: "2026-03-30T05:53:04.472Z"
+generated_at: "2026-03-30T05:55:36.016Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8212 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "8212"
 chapter: 831
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 8212"
-generated_at: "2026-03-30T05:52:47.228Z"
+generated_at: "2026-03-30T05:55:13.350Z"
 status: "repealed"
 ---
 

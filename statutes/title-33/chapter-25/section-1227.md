@@ -3,9 +3,9 @@ title: "Section 1227 - Investigatory powers"
 usc_title: 33
 usc_section: "1227"
 chapter: 25
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 1227"
-generated_at: "2026-03-30T05:53:40.416Z"
+generated_at: "2026-03-30T05:56:05.858Z"
 status: "active"
 ---
 

@@ -3,15 +3,19 @@ title: "Section 5604 - Interagency cooperation"
 usc_title: 16
 usc_section: "5604"
 chapter: 76
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 5604"
-generated_at: "2026-03-30T05:53:07.776Z"
+generated_at: "2026-03-30T05:55:38.261Z"
 status: "active"
 ---
 
 # § 5604. Interagency cooperation
 
-- **(a)** In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with other agencies of the United States, the States, the New England and the Mid-Atlantic Fishery Management Councils, and private institutions and organizations.
+- **(a)** In carrying out the provisions of the Convention and this chapter, the Secretary may arrange for cooperation with—
+  - **(1)** any department, agency, or instrumentality of the United States;
+  - **(2)** a State;
+  - **(3)** a Council; or
+  - **(4)** a private institution or an organization.
 - **(b)** The head of any Federal agency may—
   - **(1)** cooperate in the conduct of scientific and other programs, and furnish facilities and personnel, for the purposes of assisting the Organization in carrying out its duties under the Convention; and
   - **(2)** accept reimbursement from the Organization for providing such services, facilities, and personnel.

@@ -3,9 +3,9 @@ title: "Section 3058 - Omitted"
 usc_title: 29
 usc_section: "3058"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "29 U.S.C. § 3058"
-generated_at: "2026-03-30T05:53:28.143Z"
+generated_at: "2026-03-30T05:55:54.294Z"
 status: "omitted"
 ---
 

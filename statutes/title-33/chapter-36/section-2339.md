@@ -3,9 +3,9 @@ title: "Section 2339 - Assistance programs"
 usc_title: 33
 usc_section: "2339"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2339"
-generated_at: "2026-03-30T05:53:40.449Z"
+generated_at: "2026-03-30T05:56:05.890Z"
 status: "active"
 ---
 
@@ -13,4 +13,5 @@ status: "active"
 
 - **(a)** To further training and educational opportunities about water resources development projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with non-Federal public and nonprofit entities for services relating to natural resources conservation or recreation management.
 - **(b)** In carrying out studies and projects under the jurisdiction of the Secretary, the Secretary may enter into cooperative agreements with multistate regional private nonprofit rural community assistance entities for services, including water resource assessment, community participation, planning, development, and management activities.
-- **(c)** A cooperative agreement entered into under this section shall not be considered to be, or treated as being, a cooperative agreement to which chapter 63 of title 31 applies.
+- **(c)** The Secretary, to the maximum extent practicable, shall enter into cooperative agreements with qualified youth service and conservation corps organizations for services relating to projects under the jurisdiction of the Secretary and shall do so in a manner that ensures the maximum participation and opportunities for such organizations.
+- **(d)** A cooperative agreement entered into under this section shall not be considered to be, or treated as being, a cooperative agreement to which chapter 63 of title 31 applies.

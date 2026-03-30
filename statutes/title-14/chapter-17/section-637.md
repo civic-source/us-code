@@ -3,9 +3,9 @@ title: "Section 637 - Stopping vessels; indemnity for firing at or into vessel"
 usc_title: 14
 usc_section: "637"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 637"
-generated_at: "2026-03-30T05:52:49.225Z"
+generated_at: "2026-03-30T05:55:22.800Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(b)** The person in command of an authorized vessel or authorized aircraft and all persons acting under that person’s direction shall be indemnified from any penalties or actions for damages for firing at or into a vessel pursuant to subsection (a). If any person is killed or wounded by the firing, and the person in command of the authorized vessel or authorized aircraft or any person acting pursuant to their orders is prosecuted or arrested therefor, they shall be forthwith admitted to bail.
 - **(c)** A vessel or aircraft is an authorized vessel or authorized aircraft for purposes of this section if—
   - **(1)** it is a Coast Guard vessel or aircraft;
-  - **(2)** it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10 ; or
+  - **(2)** it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10 ; 1 1 See References in Text note below. or
   - **(3)** it is any other vessel or aircraft on government noncommercial service when—
     - **(A)** the vessel or aircraft is under the tactical control of the Coast Guard; and
     - **(B)** at least one member of the Coast Guard is assigned and conducting a Coast Guard mission on the vessel or aircraft.

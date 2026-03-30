@@ -3,9 +3,9 @@ title: "Section 4244 - Definitions"
 usc_title: 16
 usc_section: "4244"
 chapter: 62
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 4244"
-generated_at: "2026-03-30T05:53:07.769Z"
+generated_at: "2026-03-30T05:55:38.254Z"
 status: "active"
 ---
 

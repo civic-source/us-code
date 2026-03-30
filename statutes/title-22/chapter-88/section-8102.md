@@ -3,9 +3,9 @@ title: "Section 8102 - Definitions"
 usc_title: 22
 usc_section: "8102"
 chapter: 88
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 8102"
-generated_at: "2026-03-30T05:53:23.615Z"
+generated_at: "2026-03-30T05:55:51.160Z"
 status: "active"
 ---
 

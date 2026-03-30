@@ -3,9 +3,9 @@ title: "Section 4105 - Administration"
 usc_title: 15
 usc_section: "4105"
 chapter: 67
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 4105"
-generated_at: "2026-03-30T05:52:57.834Z"
+generated_at: "2026-03-30T05:55:29.369Z"
 status: "active"
 ---
 

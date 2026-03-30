@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-30T05:52:57.808Z"
+generated_at: "2026-03-30T05:55:29.344Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteer fire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
-    - **(B)** Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters.
+    - **(B)** Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises.
     - **(C)** In awarding grants under this subsection, the Administrator of FEMA may give preferential consideration to applications that involve a non-Federal contribution exceeding the minimums under subparagraph (E).
     - **(D)** The Administrator of FEMA may provide technical assistance to States, units of local government, Indian tribal governments, and to other public entities, in furtherance of the purposes of this section.
     - **(E)** The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—

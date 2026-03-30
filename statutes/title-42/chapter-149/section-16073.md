@@ -3,9 +3,9 @@ title: "Section 16073 - Authorization of appropriations"
 usc_title: 42
 usc_section: "16073"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 16073"
-generated_at: "2026-03-30T05:54:40.689Z"
+generated_at: "2026-03-30T05:56:22.990Z"
 status: "active"
 ---
 

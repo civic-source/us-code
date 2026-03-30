@@ -3,9 +3,9 @@ title: "Section 7431 - Federal cybersecurity research and development"
 usc_title: 15
 usc_section: "7431"
 chapter: 100
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 7431"
-generated_at: "2026-03-30T05:52:57.855Z"
+generated_at: "2026-03-30T05:55:29.390Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
     - **(A)** the strategic plan not later than 1 year after December 18, 2014 ;
     - **(B)** each quadrennial update to the strategic plan; and
     - **(C)** the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual report required under section 5511(a)(2)(D) of this title .
-  - **(4)** In this subsection, the term “applicable agencies and departments” means the agencies and departments identified in clauses (i) through (x) of section 5511(a)(3)(B) of this title or designated under clause (xi) of that section.
+  - **(4)** In this subsection, the term “applicable agencies and departments” means the agencies and departments identified in clauses (i) through (xi) of section 5511(a)(3)(B) 1 1 See References in Text note below. of this title or designated under clause (xii) of that section.
 - **(b)** The Director of the National Science Foundation shall support research that—
   - **(1)** develops, evaluates, disseminates, and integrates new cybersecurity practices and concepts into the core curriculum of computer science programs and of other programs where graduates of such programs have a substantial probability of developing software after graduation, including new practices and concepts relating to secure coding education and improvement programs; and
   - **(2)** develops new models for professional development of faculty in cybersecurity education, including secure coding development.
@@ -65,4 +65,4 @@ status: "active"
   - **(7)** relevant nonprofit organizations; and
   - **(8)** international partners of the United States.
 - **(e)**
-- **(f)** The head of each agency and department identified under section 5511(a)(3)(B) of this title , through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
+- **(f)** The head of each agency and department identified under section 5511(a)(3)(B) 1 of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.

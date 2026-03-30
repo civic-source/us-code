@@ -3,9 +3,9 @@ title: "Section 15910 - Enhanced oil and natural gas production through carbon d
 usc_title: 42
 usc_section: "15910"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 15910"
-generated_at: "2026-03-30T05:54:40.686Z"
+generated_at: "2026-03-30T05:56:22.987Z"
 status: "active"
 ---
 

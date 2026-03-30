@@ -3,9 +3,9 @@ title: "Section 16 - Management of flood risk reduction projects"
 usc_title: 33
 usc_section: "16"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 16"
-generated_at: "2026-03-30T05:53:40.405Z"
+generated_at: "2026-03-30T05:56:05.847Z"
 status: "active"
 ---
 

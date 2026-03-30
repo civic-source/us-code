@@ -3,9 +3,9 @@ title: "Section 1722 - Definitions"
 usc_title: 16
 usc_section: "1722"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 1722"
-generated_at: "2026-03-30T05:53:07.733Z"
+generated_at: "2026-03-30T05:55:38.217Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ For purposes of this subchapter:
       - **(iii)** enhance productivity and carbon sequestration.
   - **(9)** The term “public lands” means any lands or waters (or interest therein) owned or administered by the United States, except that such term does not include any Indian lands.
   - **(10)** The term “qualified youth or conservation corps” means any program established by a State or local government, by the governing body of any Indian tribe, or by a nonprofit organization that—
-    - **(A)** is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 25, inclusive, in a natural or cultural resource setting;
+    - **(A)** is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 30, inclusive, in a natural or cultural resource setting;
     - **(B)** gives participants a mix of work experience, basic and life skills, education, training, and support services; and
     - **(C)** provides participants with the opportunity to develop citizenship values and skills through service to their community and the United States.
   - **(11)** The term “resource assistant” means a resource assistant selected under section 1725 of this title .

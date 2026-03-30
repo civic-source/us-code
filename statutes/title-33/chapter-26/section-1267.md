@@ -3,9 +3,9 @@ title: "Section 1267 - Chesapeake Bay"
 usc_title: 33
 usc_section: "1267"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 1267"
-generated_at: "2026-03-30T05:53:40.418Z"
+generated_at: "2026-03-30T05:56:05.860Z"
 status: "active"
 ---
 
@@ -88,4 +88,5 @@ status: "active"
     - **(B)** establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
     - **(C)** evaluate and assess interactions of species, with particular attention to the impact of changes within and among trophic levels; and
     - **(D)** recommend management actions to optimize the return of a healthy and balanced ecosystem in response to improvements in the quality and character of the waters of the Chesapeake Bay.
+  - **(3)** The Administrator shall carry out an annual survey of sea grasses in the Chesapeake Bay.
 - **(j)** There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.

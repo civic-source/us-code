@@ -3,9 +3,9 @@ title: "Section 355c - Research into pediatric uses for drugs and biological pro
 usc_title: 21
 usc_section: "355c"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 355c"
-generated_at: "2026-03-30T05:53:21.578Z"
+generated_at: "2026-03-30T05:55:48.541Z"
 status: "active"
 ---
 
@@ -98,7 +98,7 @@ status: "active"
 - **(e)**
   - **(1)** An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2).
   - **(2)**
-    - **(A)** An applicant shall submit the initial pediatric plan under paragraph (1)—
+    - **(A)** An applicant shall submit the initial pediatric study plan under paragraph (1)—
       - **(i)** before the date on which the applicant submits the assessments under subsection (a)(2); and
       - **(ii)** not later than—
         - **(I)** 60 calendar days after the date of the end-of-Phase 2 meeting (as such term is used in section 312.47 of title 21, Code of Federal Regulations, or successor regulations); or
@@ -114,10 +114,10 @@ status: "active"
   - **(3)** Not later than 90 calendar days following the meeting under paragraph (2)(C)(i) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked “Agreed Initial Pediatric Study Plan”, and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
   - **(4)** If the agreed initial pediatric study plan contains a request from the applicant for a deferral, partial waiver, or waiver under this section, the written confirmation under paragraph (3) shall include a recommendation from the Secretary as to whether such request meets the standards under paragraphs (3) or (4) of subsection (a).
   - **(5)** At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan under paragraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
-  - **(6)** The Secretary shall consult the internal committee under section 355d of this title on the review of the initial pediatric study plan, agreed initial pediatric plan, and any significant amendments to such plans.
+  - **(6)** The Secretary shall consult the internal committee under section 355d of this title on the review of the initial pediatric study plan, agreed initial pediatric study plan, and any significant amendments to such plans.
   - **(7)** Not later than 1 year after July 9, 2012 , the Secretary shall promulgate proposed regulations and issue guidance to implement the provisions of this subsection.
 - **(f)**
-  - **(1)** Beginning not later than 30 days after September 27, 2007 , the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
+  - **(1)** Beginning not later than 30 days after September 27, 2007 , the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and any significant amendments to such plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
   - **(2)** The committee referred to in paragraph (1) may operate using appropriate members of such committee and need not convene all members of the committee.
   - **(3)** For each drug or biological product, the committee referred to in paragraph (1) shall document, for each activity described in paragraph (4) or (5), which members of the committee participated in such activity.
   - **(4)** Consultation on initial pediatric study plans, agreed initial pediatric study plans, and assessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application or supplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
@@ -161,9 +161,5 @@ status: "active"
 - **(j)** Nothing in this section provides to the Secretary any authority to require a pediatric assessment of any drug or biological product, or any assessment regarding other populations or uses of a drug or biological product, other than the pediatric assessments described in this section.
 - **(k)** Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under section 360bb of this title .
 - **(l)**
-  - **(1)** Not later than three years after September 27, 2007 , the Secretary shall contract with the Institute of Medicine to conduct a study and report to Congress regarding the pediatric studies conducted pursuant to this section or precursor regulations since 1997 and labeling changes made as a result of such studies.
-  - **(2)** The study under paragraph (1) shall review and assess the use of extrapolation for pediatric subpopulations, the use of alternative endpoints for pediatric populations, neonatal assessment tools, the number and type of pediatric adverse events, and ethical issues in pediatric clinical trials.
-  - **(3)** The Institute of Medicine may devise an appropriate mechanism to review a representative sample of studies conducted pursuant to this section from each review division within the Center for Drug Evaluation and Research in order to make the requested assessment.
-- **(m)**
   - **(1)** A biological product that is biosimilar to a reference product under section 262 of title 42 , and that the Secretary has not determined to meet the standards described in subsection (k)(4) of such section for interchangeability with the reference product, shall be considered to have a new active ingredient under this section.
   - **(2)** A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.

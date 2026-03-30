@@ -3,9 +3,9 @@ title: "Section 1446 - Transferred"
 usc_title: 42
 usc_section: "1446"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1446"
-generated_at: "2026-03-30T05:54:40.343Z"
+generated_at: "2026-03-30T05:56:22.646Z"
 status: "transferred"
 ---
 

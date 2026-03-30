@@ -3,9 +3,9 @@ title: "Section 8 - Universal ratings symbols"
 usc_title: 15
 usc_section: "8"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T05:52:57.702Z"
+generated_at: "2026-03-30T05:55:29.237Z"
 status: "active"
 ---
 

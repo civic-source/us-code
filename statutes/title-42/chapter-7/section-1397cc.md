@@ -3,16 +3,16 @@ title: "Section 1397cc - Coverage requirements for children’s health insurance
 usc_title: 42
 usc_section: "1397cc"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1397cc"
-generated_at: "2026-03-30T05:54:40.325Z"
+generated_at: "2026-03-30T05:56:22.627Z"
 status: "active"
 ---
 
 # § 1397cc. Coverage requirements for children’s health insurance
 
-- **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
-  - **(1)** Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b) of this section.
+- **(a)** The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
+  - **(1)** Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
   - **(2)** Health benefits coverage that meets the following requirements:
     - **(A)** The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1) of this section.
     - **(B)** The coverage has an aggregate actuarial value that is at least actuarially equivalent to one of the benchmark benefit packages.
@@ -64,7 +64,7 @@ status: "active"
     - **(D)** was offered as of August 5, 1997 .
   - **(2)** A State may modify a program described in paragraph (1) from time to time so long as it continues to meet the requirement of subparagraph (A) and does not reduce the actuarial value of the coverage under the program below the lower of—
     - **(A)** the actuarial value of the coverage under the program as of August 5, 1997 , or
-    - **(B)** the actuarial value described in subsection (a)(2)(B) of this section,
+    - **(B)** the actuarial value described in subsection (a)(2)(B),
 - **(e)**
   - **(1)**
     - **(A)** A State child health plan shall include a description, consistent with this subsection, of the amount (if any) of premiums, deductibles, coinsurance, and other cost sharing imposed. Any such charges shall be imposed pursuant to a public schedule.

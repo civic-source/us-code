@@ -3,9 +3,9 @@ title: "Section 166a - Combatant commands: funding through the Chairman of Joint
 usc_title: 10
 usc_section: "166a"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 166a"
-generated_at: "2026-03-30T05:52:47.114Z"
+generated_at: "2026-03-30T05:55:13.229Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
 - **(d)** Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the Combatant Commander Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 - **(e)**
   - **(1)** Of funds made available under this section for any fiscal year—
-    - **(A)** not more than $20,000,000 may be used to purchase items with a unit cost in excess of the investment unit cost threshold in effect under section 2245a of this title ;
+    - **(A)** not more than $20,000,000 may be used to purchase items with a unit cost in excess of $250,000;
     - **(B)** not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
     - **(C)** not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
   - **(2)** Funds may not be provided under this section for any activity that has been denied authorization by Congress.

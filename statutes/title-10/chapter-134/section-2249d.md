@@ -1,32 +1,13 @@
 ---
-title: "Section 2249d - Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces"
+title: "Section 2249d - Renumbered § 346]"
 usc_title: 10
 usc_section: "2249d"
 chapter: 134
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2249d"
-generated_at: "2026-03-30T05:52:47.174Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.294Z"
+status: "renumbered"
 ---
 
-# § 2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces
+# [§ 2249d. Renumbered § 346]
 
-- **(a)** To enhance interoperability between the armed forces and military forces of friendly foreign nations, the Secretary of Defense, with the concurrence of the Secretary of State, may—
-  - **(1)** provide to personnel referred to in subsection (b) electronically-distributed learning content for the education and training of such personnel for the development or enhancement of allied and friendly military and civilian capabilities for multinational operations, including joint exercises and coalition operations; and
-  - **(2)** provide information technology, including computer software developed for such purpose, but only to the extent necessary to support the use of such learning content for the education and training of such personnel.
-- **(b)** The personnel to whom learning content and information technology may be provided under subsection (a) are military and civilian personnel of a friendly foreign government, with the permission of that government.
-- **(c)** Any education and training provided under subsection (a) shall include the following:
-  - **(1)** Internet-based education and training.
-  - **(2)** Advanced distributed learning and similar Internet learning tools, as well as distributed training and computer-assisted exercises.
-- **(d)** The provision of learning content and information technology under this section shall be subject to the provisions of the Arms Export Control Act ( 22 U.S.C. 2751 et seq.) and any other export control regime under law relating to the transfer of military technology to foreign nations.
-- **(e)**
-  - **(1)** The Secretary of Defense shall develop and issue guidance on the procedures for the use of the authority in this section.
-  - **(2)** If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forth the modified guidance not later than 30 days after the date of such modification.
-- **(f)**
-  - **(1)** Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
-  - **(2)** Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:
-    - **(A)** A statement of the recipients of learning content and information technology provided under this section.
-    - **(B)** A description of the type, quantity, and value of the learning content and information technology provided under this section.
-- **(g)** In this section, the term “appropriate committees of Congress” means—
-  - **(1)** the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
-  - **(2)** the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.

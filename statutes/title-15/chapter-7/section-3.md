@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T05:52:57.727Z"
+generated_at: "2026-03-30T05:55:29.262Z"
 status: "active"
 ---
 
@@ -41,7 +41,10 @@ status: "active"
     - **(A)** compliance with the standards and guidelines developed under subsection (a);
     - **(B)** detecting and handling information security incidents; and
     - **(C)** information security policies, procedures, and practices;
-  - **(3)** conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+  - **(3)** conduct research and analysis—
+    - **(A)** to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+    - **(B)** to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44, and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
+    - **(C)** to evaluate the effectiveness and sufficiency of, and challenges to, Federal agencies’ implementation of standards and guidelines developed under this section and policies and standards promulgated under section 11331 of title 40 ;
   - **(4)** develop and periodically revise performance indicators and measures for agency information security policies and practices;
   - **(5)** evaluate private sector information security policies and practices and commercially available information technologies to assess potential application by agencies to strengthen information security;
   - **(6)** evaluate security policies and practices developed for national security systems to assess potential application by agencies to strengthen information security;

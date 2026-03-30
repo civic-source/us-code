@@ -3,9 +3,9 @@ title: "Section 6805 - Cooperative agreements"
 usc_title: 16
 usc_section: "6805"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 6805"
-generated_at: "2026-03-30T05:53:07.783Z"
+generated_at: "2026-03-30T05:55:38.268Z"
 status: "active"
 ---
 

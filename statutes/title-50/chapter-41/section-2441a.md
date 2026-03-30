@@ -3,9 +3,9 @@ title: "Section 2441a - Authorized personnel levels of the Office of the Adminis
 usc_title: 50
 usc_section: "2441a"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 2441a"
-generated_at: "2026-03-30T05:54:46.397Z"
+generated_at: "2026-03-30T05:56:27.696Z"
 status: "active"
 ---
 
@@ -30,3 +30,6 @@ status: "active"
   - **(2)** The number of service support contracts of the Administration and whether such contracts are funded using program or program direction funds.
   - **(3)** The number of full-time equivalent contractor employees working under each contract identified under paragraph (2).
   - **(4)** The number of full-time equivalent contractor employees described in paragraph (3) that have been employed under such a contract for a period greater than two years.
+  - **(5)** With respect to each contract identified under paragraph (2)—
+    - **(A)** the cost of the contract; and
+    - **(B)** identification of the program or program direction accounts that support the contract.

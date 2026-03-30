@@ -3,9 +3,9 @@ title: "Section 10506 - Other senior National Guard Bureau officers"
 usc_title: 10
 usc_section: "10506"
 chapter: 1011
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 10506"
-generated_at: "2026-03-30T05:52:47.236Z"
+generated_at: "2026-03-30T05:55:13.358Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)**
   - **(1)** In addition to the Chief and Vice Chief of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
-    - **(A)** two general officers selected by the Secretary of the Army (after consultation with the Chief of the National Guard Bureau) from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
-    - **(B)** two general officers selected by the Secretary of the Air Force (after consultation with the Chief of the National Guard Bureau) from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
+    - **(A)** two officers selected by the Secretary of the Army (after consultation with the Chief of the National Guard Bureau) from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3) and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
+    - **(B)** two officers selected by the Secretary of the Air Force (after consultation with the Chief of the National Guard Bureau) from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3) and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
   - **(2)** The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard, shall assist the Chief of the National Guard Bureau in carrying out the functions of the National Guard Bureau as they relate to their respective branches.
   - **(3)**
     - **(A)** The President, by and with the advice and consent of the Senate, shall appoint the Director, Army National Guard, from general officers of the Army National Guard of the United States and shall appoint the Director, Air National Guard, from general officers of the Air National Guard of the United States.

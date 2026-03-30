@@ -3,9 +3,9 @@ title: "Section 5353 - Bonded wine warehouse"
 usc_title: 26
 usc_section: "5353"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 5353"
-generated_at: "2026-03-30T05:53:36.572Z"
+generated_at: "2026-03-30T05:56:02.447Z"
 status: "active"
 ---
 

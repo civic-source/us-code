@@ -3,9 +3,9 @@ title: "Section 589 - Staff and other employees"
 usc_title: 28
 usc_section: "589"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "28 U.S.C. § 589"
-generated_at: "2026-03-30T05:53:26.523Z"
+generated_at: "2026-03-30T05:55:54.914Z"
 status: "active"
 ---
 

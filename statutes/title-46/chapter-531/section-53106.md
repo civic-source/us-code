@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-30T05:54:44.430Z"
+generated_at: "2026-03-30T05:56:26.713Z"
 status: "active"
 ---
 
@@ -26,9 +26,8 @@ status: "active"
   - **(1)** under a charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107;
   - **(2)** not operated or maintained in accordance with an operating agreement under this chapter; or
   - **(3)** more than—
-    - **(A)** 25 years of age, except as provided in subparagraph (B) or (C);
-    - **(B)** 20 years of age, in the case of a tank vessel; or
-    - **(C)** 30 years of age, in the case of a lighter aboard ship vessel.
+    - **(A)** 25 years of age, except as provided in subparagraph (B); or
+    - **(B)** 20 years of age, in the case of a tank vessel.
 - **(d)** With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
   - **(1)** except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10 , or any other cargo preference law of the United States;
   - **(2)** shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and

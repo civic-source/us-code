@@ -3,9 +3,9 @@ title: "Section 3793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3793"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3793"
-generated_at: "2026-03-30T05:54:40.427Z"
+generated_at: "2026-03-30T05:56:22.733Z"
 status: "active"
 ---
 
@@ -56,8 +56,13 @@ status: "active"
     - **(E)** $56,733,000 for fiscal year 2005;
     - **(F)** $42,067,000 for fiscal year 2006;
     - **(G)** $20,000,000 for fiscal year 2007;
-    - **(H)** $20,000,000 for fiscal year 2008; and
-    - **(I)** $20,000,000 for fiscal year 2009.
+    - **(H)** $20,000,000 for fiscal year 2008;
+    - **(I)** $20,000,000 for fiscal year 2009; and
+    - **(J)** $13,500,000 for fiscal year 2017;
+    - **(K)** $18,500,000 for fiscal year 2018;
+    - **(L)** $19,000,000 for fiscal year 2019;
+    - **(M)** $21,000,000 for fiscal year 2020; and
+    - **(N)** $23,000,000 for fiscal year 2021.
   - **(25)**
     - **(A)** Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XVI—
       - **(i)** $50,000,000 for fiscal year 2002;

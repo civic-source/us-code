@@ -3,16 +3,18 @@ title: "Section 2326 - Regional sediment management"
 usc_title: 33
 usc_section: "2326"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2326"
-generated_at: "2026-03-30T05:53:40.447Z"
+generated_at: "2026-03-30T05:56:05.888Z"
 status: "active"
 ---
 
 # § 2326. Regional sediment management
 
 - **(a)**
-  - **(1)** For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
+  - **(1)**
+    - **(A)** For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
+    - **(B)** For purposes of projects carried out under this section, the Secretary may include sediment from other Federal sources and non-Federal sources, subject to the requirement that any sediment obtained from a non-Federal source shall not be obtained at Federal expense.
   - **(2)** The Secretary shall develop plans under this subsection in cooperation with the appropriate Federal, State, regional, and local agencies.
   - **(3)** The purposes of using sediment for the construction, repair, modification, or rehabilitation of Federal water resources projects are—
     - **(A)** to reduce storm damage to property;
@@ -35,6 +37,8 @@ status: "active"
     - **(A)** the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion; or
     - **(B)** the flood and storm damage and flood reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
   - **(2)** The Federal share of such incremental costs shall be determined in accordance with subsection (c).
+  - **(3)** Disposal of dredged material under this subsection may include a single or periodic application of sediment for beneficial use and shall not require operation and maintenance.
+  - **(4)** The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under section 2213(d)(1) of this title .
 - **(e)** The Secretary may—
   - **(1)** cooperate with any State or group of States in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State or among States;
   - **(2)** encourage State participation in the implementation of the plan; and

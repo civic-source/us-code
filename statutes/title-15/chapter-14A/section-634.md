@@ -3,9 +3,9 @@ title: "Section 634 - General powers"
 usc_title: 15
 usc_section: "634"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 634"
-generated_at: "2026-03-30T05:52:57.733Z"
+generated_at: "2026-03-30T05:55:29.269Z"
 status: "active"
 ---
 
@@ -82,7 +82,9 @@ status: "active"
         - **(I)** for which Congress requires a hearing on the record; or
         - **(II)** that the Administrator designates for hearing by regulation; and
       - **(ii)** which shall contain the office of the Administration that handles requests submitted pursuant to sections 552 of title 5 (commonly referred to as the “Freedom of Information Act”) and maintains records pursuant to section 552a of title 5 (commonly referred to as the “Privacy Act of 1974”).
-    - **(B)** The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 ( 15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), the Office of Hearings and Appeals shall hear appeals of agency actions under or pursuant to this chapter, the Small Business Investment Act of 1958 ( 15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations, and shall hear such other matters as the Administrator may determine appropriate.
+      - **(ii)** The Office of Hearings and Appeals shall not adjudicate disputes that require a hearing on the record, except disputes pertaining to the small business programs described in this chapter.
     - **(C)** The head of the Office of Hearings and Appeals shall be the Chief Hearing Officer appointed under section 633(b)(1) of this title , who shall be responsible to the Administrator.
   - **(2)**
     - **(A)** The Chief Hearing Officer shall—

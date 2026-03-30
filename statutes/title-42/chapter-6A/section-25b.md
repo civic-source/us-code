@@ -3,9 +3,9 @@ title: "Section 25b - Programs to reduce underage drinking"
 usc_title: 42
 usc_section: "25b"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 25b"
-generated_at: "2026-03-30T05:54:40.105Z"
+generated_at: "2026-03-30T05:56:22.399Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
 - **(c)**
   - **(1)**
     - **(A)** The Secretary, in collaboration with the Federal officials specified in subparagraph (B), shall formally establish and enhance the efforts of the interagency coordinating committee, that began operating in 2004, focusing on underage drinking (referred to in this subsection as the “Committee”).
-    - **(B)** The officials referred to in paragraph (1) are the Secretary of Education, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Defense, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Director of the National Institute on Alcohol Abuse and Alcoholism, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, the Assistant Secretary for Children and Families, the Director of the Office of National Drug Control Policy, the Administrator of the National Highway Traffic Safety Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Chairman of the Federal Trade Commission, and such other Federal officials as the Secretary of Health and Human Services determines to be appropriate.
+    - **(B)** The officials referred to in paragraph (1) are the Secretary of Education, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Defense, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Director of the National Institute on Alcohol Abuse and Alcoholism, the Assistant Secretary for Mental Health and Substance Use, the Director of the National Institute on Drug Abuse, the Assistant Secretary for Children and Families, the Director of the Office of National Drug Control Policy, the Administrator of the National Highway Traffic Safety Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Chairman of the Federal Trade Commission, and such other Federal officials as the Secretary of Health and Human Services determines to be appropriate.
     - **(C)** The Secretary of Health and Human Services shall serve as the chair of the Committee.
     - **(D)** The Committee shall guide policy and program development across the Federal Government with respect to underage drinking, provided, however, that nothing in this section shall be construed as transferring regulatory or program authority from an Agency to the Coordinating Committee.
     - **(E)** The Committee shall actively seek the input of and shall consult with all appropriate and interested parties, including States, public health research and interest groups, foundations, and alcohol beverage industry trade associations and companies.
@@ -62,15 +62,15 @@ status: "active"
         - **(VII)** Whether or not the State has programs targeted to youths, parents, and caregivers to deter underage drinking; and the number of individuals served by these programs.
         - **(VIII)** Whether or not the State has enacted graduated drivers licenses and the extent of those provisions.
         - **(IX)** The amount that the State invests, per youth capita, on the prevention of underage drinking, further broken down by the amount spent on—
-  - **(3)** There are authorized to be appropriated to carry out this subsection $1,000,000 for fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010.
+  - **(3)** There are authorized to be appropriated to carry out this subsection $1,000,000 for each of the fiscal years 2018 through 2022.
 - **(d)**
   - **(1)** The Secretary shall continue to fund and oversee the production, broadcasting, and evaluation of the national adult-oriented media public service campaign if the Secretary determines that such campaign is effective in achieving the media campaign’s measurable objectives.
   - **(2)** The Secretary shall provide a report to the Congress annually detailing the production, broadcasting, and evaluation of the campaign referred to in paragraph (1), and to detail in the report the effectiveness of the campaign in reducing underage drinking, the need for and likely effectiveness of an expanded adult-oriented media campaign, and the feasibility and the likely effectiveness of a national youth-focused media campaign to combat underage drinking.
   - **(3)** In carrying out the media campaign, the Secretary shall direct the entity carrying out the national adult-oriented media public service campaign to consult with interested parties including both the alcohol beverage industry and public health and consumer groups. The progress of this consultative process is to be covered in the report under paragraph (2).
-  - **(4)** There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
+  - **(4)** There are authorized to be appropriated to carry out this subsection, $1,000,000 for each of the fiscal years 2018 through 2022.
 - **(e)**
   - **(1)**
-    - **(A)** The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, “enhancement grants” to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
+    - **(A)** The Assistant Secretary for Mental Health and Substance Use, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Assistant Secretary determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, “enhancement grants” to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
     - **(B)** The purposes of this paragraph are to—
       - **(i)** prevent and reduce alcohol use among youth in communities throughout the United States;
       - **(ii)** strengthen collaboration among communities, the Federal Government, and State, local, and tribal governments;
@@ -78,7 +78,7 @@ status: "active"
       - **(iv)** serve as a catalyst for increased citizen participation and greater collaboration among all sectors and organizations of a community that first demonstrates a long-term commitment to reducing alcohol use among youth;
       - **(v)** disseminate to communities timely information regarding state-of-the-art practices and initiatives that have proven to be effective in preventing and reducing alcohol use among youth; and
       - **(vi)** enhance, not supplant, effective local community initiatives for preventing and reducing alcohol use among youth.
-    - **(C)** An eligible entity desiring an enhancement grant under this paragraph shall submit an application to the Administrator at such time, and in such manner, and accompanied by such information as the Administrator may require. Each application shall include—
+    - **(C)** An eligible entity desiring an enhancement grant under this paragraph shall submit an application to the Assistant Secretary at such time, and in such manner, and accompanied by such information as the Assistant Secretary may require. Each application shall include—
       - **(i)** a complete description of the entity’s current underage alcohol use prevention initiatives and how the grant will appropriately enhance the focus on underage drinking issues; or
       - **(ii)** a complete description of the entity’s current initiatives, and how it will use this grant to enhance those initiatives by adding a focus on underage drinking prevention.
     - **(D)** Each eligible entity that receives a grant under this paragraph shall use the grant funds to carry out the activities described in such entity’s application submitted pursuant to subparagraph (C). Grants under this paragraph shall not exceed $50,000 per year and may not exceed four years.
@@ -86,7 +86,7 @@ status: "active"
     - **(F)** Grants under this paragraph shall be subject to the same evaluation requirements and procedures as the evaluation requirements and procedures imposed on recipients of drug free community grants.
     - **(G)** For purposes of this paragraph, the term “eligible entity” means an organization that is currently receiving or has received grant funds under the Drug-Free Communities Act of 1997 ( 21 U.S.C. 1521 et seq.).
     - **(H)** Not more than 6 percent of a grant under this paragraph may be expended for administrative expenses.
-    - **(I)** There are authorized to be appropriated to carry out this paragraph $5,000,000 for fiscal year 2007, and $5,000,000 for each of the fiscal years 2008 through 2010.
+    - **(I)** There are authorized to be appropriated to carry out this paragraph $5,000,000 for each of the fiscal years 2018 through 2022.
   - **(2)**
     - **(A)** The Secretary shall award grants to eligible entities to enable the entities to prevent and reduce the rate of underage alcohol consumption including binge drinking among students at institutions of higher education.
     - **(B)** An eligible entity that desires to receive a grant under this paragraph shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall include—
@@ -132,4 +132,27 @@ status: "active"
       - **(i)** Obtaining new epidemiological data within the national or targeted surveys that identify alcohol use and attitudes about alcohol use during pre- and early adolescence, including harm caused to self or others as a result of adolescent alcohol use such as violence, date rape, risky sexual behavior, and prenatal alcohol exposure.
       - **(ii)** Developing or identifying successful clinical treatments for youth with alcohol problems.
     - **(C)** Research under subparagraph (A) shall meet current Federal standards for scientific peer review.
-  - **(2)** There are authorized to be appropriated to carry out this subsection $6,000,000 for fiscal year 2007, and $6,000,000 for each of the fiscal years 2008 through 2010.
+  - **(2)** There are authorized to be appropriated to carry out this subsection $3,000,000 for each of the fiscal years 2018 through 2022 1 1 So in original. A period probably should appear.
+- **(g)**
+  - **(1)** The Assistant Secretary may make grants to eligible entities to increase implementation of practices for reducing the prevalence of alcohol use among individuals under the age of 21, including college students.
+  - **(2)** Grants under this subsection shall be made to improve—
+    - **(A)** screening children and adolescents for alcohol use;
+    - **(B)** offering brief interventions to children and adolescents to discourage such use;
+    - **(C)** educating parents about the dangers of, and methods of discouraging, such use;
+    - **(D)** diagnosing and treating alcohol use disorders; and
+    - **(E)** referring patients, when necessary, to other appropriate care.
+  - **(3)** An entity receiving a grant under this subsection may use such funding for the purposes identified in paragraph (2) by—
+    - **(A)** providing training to health care providers;
+    - **(B)** disseminating best practices, including culturally and linguistically appropriate best practices, as appropriate, and developing and distributing materials; and
+    - **(C)** supporting other activities, as determined appropriate by the Assistant Secretary.
+  - **(4)** To be eligible to receive a grant under this subsection, an entity shall submit an application to the Assistant Secretary at such time, and in such manner, and accompanied by such information as the Assistant Secretary may require. Each application shall include—
+    - **(A)** a description of the entity;
+    - **(B)** a description of activities to be completed;
+    - **(C)** a description of how the services specified in paragraphs (2) and (3) will be carried out and the qualifications for providing such services; and
+    - **(D)** a timeline for the completion of such activities.
+  - **(5)** For the purpose of this subsection:
+    - **(A)** The term “brief intervention” means, after screening a patient, providing the patient with brief advice and other brief motivational enhancement techniques designed to increase the insight of the patient regarding the patient’s alcohol use, and any realized or potential consequences of such use, to effect the desired related behavioral change.
+    - **(B)** The term “children and adolescents” means any person under 21 years of age.
+    - **(C)** The term “eligible entity” means an entity consisting of pediatric health care providers and that is qualified to support or provide the activities identified in paragraph (2).
+    - **(D)** The term “pediatric health care provider” means a provider of primary health care to individuals under the age of 21 years.
+    - **(E)** The term “screening” means using validated patient interview techniques to identify and assess the existence and extent of alcohol use in a patient.

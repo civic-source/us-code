@@ -3,9 +3,9 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-30T05:53:40.445Z"
+generated_at: "2026-03-30T05:56:05.885Z"
 status: "active"
 ---
 
@@ -79,3 +79,4 @@ status: "active"
       - **(ii)** where applicable, any associated report of the Chief of Engineers.
   - **(3)** The term “feasibility study” has the meaning given that term in section 2215 of this title .
   - **(4)** The term “non-Federal interest” has the meaning given that term in section 1962d–5b of title 42 .
+  - **(5)** The term “water resources development project” includes a project under an environmental infrastructure assistance program if authorized before December 16, 2016 .

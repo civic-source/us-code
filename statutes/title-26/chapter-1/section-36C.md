@@ -3,9 +3,9 @@ title: "Section 36C - Renumbered § 23]"
 usc_title: 26
 usc_section: "36C"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 36C"
-generated_at: "2026-03-30T05:53:36.390Z"
+generated_at: "2026-03-30T05:56:02.267Z"
 status: "renumbered"
 ---
 

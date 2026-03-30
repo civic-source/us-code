@@ -3,9 +3,9 @@ title: "Section 3330d - Appointment of certain military spouses"
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-03-30T05:52:33.933Z"
+generated_at: "2026-03-30T05:55:06.556Z"
 status: "active"
 ---
 
@@ -41,6 +41,7 @@ status: "active"
 - **(c)**
   - **(1)** An appointment of a relocating spouse of a member of the Armed Forces under this section may only be to a position the duty station for which is within the geographic area of the permanent duty station of the member of the Armed Forces, unless there is no agency with a position with a duty station within the geographic area of the permanent duty station of the member of the Armed Forces.
   - **(2)** A relocating spouse of a member of the Armed Forces may not receive more than 1 permanent appointment under this section for each time the spouse relocates as described in subparagraphs (B) and (C) of subsection (a)(5).
+  - **(3)** A relocating spouse of a member of the Armed Forces remains eligible for noncompetitive appointment under this section for the duration of the spouse’s relocation to the permanent duty station of the member.
 - **(d)**
   - **(1)** An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(6) is not restricted to a geographical area.
   - **(2)** A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.

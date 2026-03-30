@@ -1,16 +1,13 @@
 ---
-title: "Section 5133 - Bureau Chiefs: rank; pay and allowances; retirement"
+title: "Section 5133 - Repealed. Pub. L. 114–328, div. A, title V , § 502(z)(1), Dec. 23, 2016 , 130 Stat. 2104 ]"
 usc_title: 10
 usc_section: "5133"
 chapter: 513
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 5133"
-generated_at: "2026-03-30T05:52:47.216Z"
-status: "active"
+generated_at: "2026-03-30T05:55:13.337Z"
+status: "repealed"
 ---
 
-# § 5133. Bureau Chiefs: rank; pay and allowances; retirement
+# [§ 5133. Repealed. Pub. L. 114–328, div. A, title V , § 502(z)(1), Dec. 23, 2016 , 130 Stat. 2104 ]
 
-- **(a)** Unless appointed to a higher grade under another provision of law, an officer of the Navy, while serving as a chief of bureau, has the rank of rear admiral.
-- **(b)** Except for an officer who is serving or has served in the grade of vice admiral under section 5137(a) of this title , an officer who is retired while serving as a chief of bureau, or who, after serving at least two and one-half years as chief of bureau, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of rear admiral, and with retired pay based on that grade. An officer who is serving or has served in the grade of vice admiral under section 5137(a) of this title may, upon retirement, be appointed by the President, by and with the advice and consent of the Senate, to the highest grade held by him while on the active list or active-duty list and with retired pay based on that grade.
-- **(c)** Except in time of war, any officer of a staff corps who has served as a chief of bureau for a full term is exempt from sea duty.

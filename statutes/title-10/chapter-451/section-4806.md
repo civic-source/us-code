@@ -3,9 +3,9 @@ title: "Section 4806 - Settlement or compromise: final and conclusive"
 usc_title: 10
 usc_section: "4806"
 chapter: 451
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 4806"
-generated_at: "2026-03-30T05:52:47.215Z"
+generated_at: "2026-03-30T05:55:13.336Z"
 status: "active"
 ---
 

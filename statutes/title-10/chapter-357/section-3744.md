@@ -3,9 +3,9 @@ title: "Section 3744 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "3744"
 chapter: 357
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3744"
-generated_at: "2026-03-30T05:52:47.209Z"
+generated_at: "2026-03-30T05:55:13.331Z"
 status: "active"
 ---
 

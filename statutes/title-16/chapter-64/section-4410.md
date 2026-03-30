@@ -3,9 +3,9 @@ title: "Section 4410 - Revisions to Plan"
 usc_title: 16
 usc_section: "4410"
 chapter: 64
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 4410"
-generated_at: "2026-03-30T05:53:07.770Z"
+generated_at: "2026-03-30T05:55:38.255Z"
 status: "active"
 ---
 

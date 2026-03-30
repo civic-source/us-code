@@ -3,9 +3,9 @@ title: "Section 5b - Written agreement requirement for water resources projects"
 usc_title: 42
 usc_section: "5b"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-30T05:54:40.374Z"
+generated_at: "2026-03-30T05:56:22.678Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
       - **(i)** This paragraph shall apply to water resources projects authorized after November 16, 1986 , including projects initiated after November 16, 1986 , without specific authorization in law, and to water resources projects authorized prior to November 17, 1986 , if correction of design deficiencies is necessary.
       - **(ii)** The authority of the Secretary to provide credit for in-kind contributions pursuant to this paragraph shall be in addition to any other authorization to provide credit for in-kind contributions and shall not be construed as a limitation on such other authorization. The Secretary shall apply the provisions of this paragraph, in lieu of provisions under other crediting authority, only if so requested by the non-Federal interest.
 - **(b)** The term “non-Federal interest” means—
-  - **(1)** a legally constituted public body (including a federally recognized Indian tribe); or
+  - **(1)** a legally constituted public body (including a federally recognized Indian tribe and, as defined in section 1602 of title 43 , a Native village, Regional Corporation, and Village Corporation); or
   - **(2)** a nonprofit entity with the consent of the affected local government,
 - **(c)** Every agreement entered into pursuant to this section shall be enforcible in the appropriate district court of the United States.
 - **(d)** After commencement of construction of a project, the Chief of Engineers may undertake performance of those items of cooperation necessary to the functioning of the project for its purposes, if he has first notified the non-Federal interest of its failure to perform the terms of its agreement and has given such interest a reasonable time after such notification to so perform.

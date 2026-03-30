@@ -3,9 +3,9 @@ title: "Section 334 - Special aviation incentive pay and bonus authorities for o
 usc_title: 37
 usc_section: "334"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "37 U.S.C. § 334"
-generated_at: "2026-03-30T05:54:10.345Z"
+generated_at: "2026-03-30T05:56:07.665Z"
 status: "active"
 ---
 
@@ -26,14 +26,17 @@ status: "active"
   - **(4)** meets such other criteria as the Secretary concerned determines appropriate.
 - **(c)**
   - **(1)** The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
-    - **(A)** aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed—
-      - **(i)** $1,000 per month for officers performing qualifying flying duty relating to remotely piloted aircraft (RPA); or
-      - **(ii)** $850 per month for officers performing other qualifying flying duty; and
-    - **(B)** an aviation bonus under subsection (b) may not exceed, for each 12-month period of obligated service agreed to under subsection (d)—
-      - **(i)** $35,000 for officers performing qualifying flying duty relating to remotely piloted aircraft; or
-      - **(ii)** $25,000 for officers performing other qualifying flying duty.
-  - **(2)** A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
-  - **(3)** Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
+    - **(A)** aviation incentive pay under subsection (a) shall be paid at a monthly rate not to exceed $1,000 per month; and
+    - **(B)** an aviation bonus under subsection (b) may not exceed $35,000 for each 12-month period of obligated service agreed to under subsection (d).
+  - **(2)**
+    - **(A)** The Secretary concerned shall determine the amount of the aviation bonus payable under paragraph (1)(B) under agreements entered into under subsection (d) during a fiscal year solely through a business case analysis of the amount required to be paid under such agreements in order to address anticipated manning shortfalls for such fiscal year by aircraft type category.
+    - **(B)** The budget justification documents in support of the budget of the President for a fiscal year (as submitted to Congress pursuant to section 1105 of title 31 ) shall set forth for each uniformed service the following:
+      - **(i)** The amount requested for the payment of aviation bonuses under subsection (b) using amounts authorized to be appropriated for the fiscal year concerned by aircraft type category.
+      - **(ii)** The business case analysis supporting the amount so requested by aircraft type category.
+      - **(iii)** For each aircraft type category, whether or not the amount requested will permit the payment during the fiscal year concerned of the maximum amount of the aviation bonus authorized by paragraph (1)(B).
+      - **(iv)** If any amount requested is to address manning shortfalls, a description of any plans of the Secretary concerned to address such shortfalls by nonmonetary means.
+  - **(3)** A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
+  - **(4)** Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
 - **(d)** To receive an aviation officer bonus under this section, an officer determined to be eligible for the bonus shall enter into a written agreement with the Secretary concerned that specifies—
   - **(1)** the amount of the bonus;
   - **(2)** the method of payment of the bonus under subsection (c)(2);
@@ -49,4 +52,4 @@ status: "active"
   - **(2)** The term “operational flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
   - **(3)** The term “proficiency flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
   - **(4)** The term “officer” includes an individual enlisted and designated as an aviation cadet under section 6911 of title 10 .
-- **(i)** No agreement may be entered into under this section after December 31, 2016 .
+- **(i)** No agreement may be entered into under this section after December 31, 2017 .

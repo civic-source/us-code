@@ -3,9 +3,9 @@ title: "Section 4219 - Application of tax in case of sales by other than manufac
 usc_title: 26
 usc_section: "4219"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 4219"
-generated_at: "2026-03-30T05:53:36.554Z"
+generated_at: "2026-03-30T05:56:02.429Z"
 status: "active"
 ---
 

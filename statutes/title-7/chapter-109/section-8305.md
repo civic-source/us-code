@@ -3,9 +3,9 @@ title: "Section 8305 - Interstate movement"
 usc_title: 7
 usc_section: "8305"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "7 U.S.C. § 8305"
-generated_at: "2026-03-30T05:52:41.231Z"
+generated_at: "2026-03-30T05:55:20.561Z"
 status: "active"
 ---
 

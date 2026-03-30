@@ -3,9 +3,9 @@ title: "Section 3756 - Reserved funds"
 usc_title: 42
 usc_section: "3756"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3756"
-generated_at: "2026-03-30T05:54:40.426Z"
+generated_at: "2026-03-30T05:56:22.732Z"
 status: "reserved"
 ---
 

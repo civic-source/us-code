@@ -3,9 +3,9 @@ title: "Section 2306a - Cost or pricing data: truth in negotiations"
 usc_title: 10
 usc_section: "2306a"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2306a"
-generated_at: "2026-03-30T05:52:47.177Z"
+generated_at: "2026-03-30T05:55:13.297Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** The head of an agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
-    - **(A)** An offeror for a prime contract under this chapter to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
+    - **(A)** An offeror for a prime contract under this chapter to be entered into using procedures other than sealed-bid procedures that is only expected to receive one bid shall be required to submit cost or pricing data before the award of a contract if—
       - **(i)** in the case of a prime contract entered into after December 5, 1990 , the price of the contract to the United States is expected to exceed $500,000; and
       - **(ii)** in the case of a prime contract entered into on or before December 5, 1990 , the price of the contract to the United States is expected to exceed $100,000.
     - **(B)** The contractor for a prime contract under this chapter shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
@@ -38,7 +38,7 @@ status: "active"
 - **(b)**
   - **(1)** Submission of certified cost or pricing data shall not be required under subsection (a) in the case of a contract, a subcontract, or modification of a contract or subcontract—
     - **(A)** for which the price agreed upon is based on—
-      - **(i)** adequate price competition; or
+      - **(i)** adequate competition that results in at least two or more responsive and viable competing bids; or
       - **(ii)** prices set by law or regulation;
     - **(B)** for the acquisition of a commercial item;
     - **(C)** in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination; or
@@ -61,6 +61,7 @@ status: "active"
       - **(i)** confirm that the prior determination was appropriate and still applicable; or
       - **(ii)** issue a revised determination with a written explanation of the basis for the revision.
   - **(5)** A contracting officer shall consider evidence provided by an offeror of recent purchase prices paid by the Government for the same or similar commercial items in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison after considering the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased or applicable terms and conditions.
+  - **(6)** A prime contractor required to submit certified cost or pricing data under subsection (a) with respect to a prime contract shall be responsible for determining whether a subcontract under such contract qualifies for an exception under paragraph (1)(A) from such requirement.
 - **(c)**
   - **(1)** Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
   - **(2)** The head of the procuring activity may not require certified cost or pricing data to be submitted under this paragraph for any contract or subcontract, or modification of a contract or subcontract, covered by the exceptions in subparagraph (A) or (B) of subsection (b)(1).

@@ -3,9 +3,9 @@ title: "Section 360 - Registration of producers of drugs or devices"
 usc_title: 21
 usc_section: "360"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 360"
-generated_at: "2026-03-30T05:53:21.580Z"
+generated_at: "2026-03-30T05:55:48.544Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(1)** Every establishment that is required to be registered with the Secretary under this section shall be subject to inspection pursuant to section 374 of this title .
   - **(2)** Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under section 374(g) of this title , at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter.
   - **(3)** The Secretary, acting through one or more officers or employees duly designated by the Secretary, shall inspect establishments described in paragraph (1) that are engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs (referred to in this subsection as “drug establishments”) in accordance with a risk-based schedule established by the Secretary.
-  - **(4)** In establishing the risk-based scheduled 2 2 So in original. Probably should be “schedule”. under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
+  - **(4)** In establishing a risk-based schedule under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
     - **(A)** The compliance history of the establishment.
     - **(B)** The record, history, and nature of recalls linked to the establishment.
     - **(C)** The inherent risk of the drug manufactured, prepared, propagated, compounded, or processed at the establishment.
@@ -44,9 +44,9 @@ status: "active"
   - **(5)** In determining the risk associated with an establishment for purposes of establishing a risk-based schedule under paragraph (3), the Secretary shall not consider whether the drugs manufactured, prepared, propagated, compounded, or processed by such establishment are drugs described in section 353(b) of this title .
   - **(6)** Beginning in 2014, not later than February 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
     - **(A)**
-      - **(i)** the number of domestic and foreign establishments registered pursuant to this section in the previous fiscal year; and
-      - **(ii)** the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous fiscal year;
-    - **(B)** with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug, a finished drug product, or an excipient of a drug, the number of each such type of establishment; and
+      - **(i)** the number of domestic and foreign establishments registered pursuant to this section in the previous calendar year; and
+      - **(ii)** the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous calendar year;
+    - **(B)** with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment; and
     - **(C)** the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A).
 - **(i)**
   - **(1)** Every person who owns or operates any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—
@@ -76,10 +76,21 @@ status: "active"
 - **(k)** Each person who is required to register under this section and who proposes to begin the introduction or delivery for introduction into interstate commerce for commercial distribution of a device intended for human use shall, at least ninety days before making such introduction or delivery, report to the Secretary or person who is accredited under section 360m(a) of this title (in such form and manner as the Secretary shall by regulation prescribe)—
   - **(1)** the class in which the device is classified under section 360c of this title or if such person determines that the device is not classified under such section, a statement of that determination and the basis for such person’s determination that the device is or is not so classified, and
   - **(2)** action taken by such person to comply with requirements under section 360d or 360e of this title which are applicable to the device.
-- **(l)** A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title . The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
+- **(l)**
+  - **(1)** A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title . The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
+  - **(2)** Not later than 120 calendar days after December 13, 2016 , and at least once every 5 years thereafter, as the Secretary determines appropriate, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—
+    - **(A)** each type of class I device so identified shall be exempt from the requirement for a report under subsection (k); and
+    - **(B)** the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption.
 - **(m)**
-  - **(1)** Not later than 60 days after November 21, 1997 , the Secretary shall publish in the Federal Register a list of each type of class II device that does not require a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Each type of class II device identified by the Secretary as not requiring the report shall be exempt from the requirement to provide a report under subsection (k) as of the date of the publication of the list in the Federal Register. The Secretary shall publish such list on the Internet site of the Food and Drug Administration. The list so published shall be updated not later than 30 days after each revision of the list by the Secretary.
-  - **(2)** Beginning on the date that is 1 day after the date of the publication of a list under this subsection, the Secretary may exempt a class II device from the requirement to submit a report under subsection (k), upon the Secretary’s own initiative or a petition of an interested person, if the Secretary determines that such report is not necessary to assure the safety and effectiveness of the device. The Secretary shall publish in the Federal Register notice of the intent of the Secretary to exempt the device, or of the petition, and provide a 30-day period for public comment. Within 120 days after the issuance of the notice in the Federal Register, the Secretary shall publish an order in the Federal Register that sets forth the final determination of the Secretary regarding the exemption of the device that was the subject of the notice. If the Secretary fails to respond to a petition within 180 days of receiving it, the petition shall be deemed to be granted.
+  - **(1)** The Secretary shall—
+    - **(A)** not later than 90 days after December 13, 2016 , and at least once every 5 years thereafter, as the Secretary determines appropriate—
+      - **(i)** publish in the Federal Register a notice that contains a list of each type of class II device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness; and
+      - **(ii)** provide for a period of not less than 60 calendar days for public comment beginning on the date of the publication of such notice; and
+    - **(B)** not later than 210 calendar days after December 13, 2016 , publish in the Federal Register a list representing the Secretary’s final determination with respect to the devices contained in the list published under subparagraph (A).
+  - **(2)** Beginning on the date that is 1 calendar day after the date of publication of the final list under paragraph (1)(B), the Secretary may exempt a class II device from the requirement to submit a report under subsection (k), upon the Secretary’s own initiative or a petition of an interested person, if the Secretary determines that such report is not necessary to assure the safety and effectiveness of the device. The Secretary shall publish in the Federal Register notice of the intent of the Secretary to exempt the device, or of the petition, and provide a 60-calendar-day period for public comment. Within 120 days after the issuance of the notice in the Federal Register, the Secretary shall publish an order in the Federal Register that sets forth the final determination of the Secretary regarding the exemption of the device that was the subject of the notice. If the Secretary fails to respond to a petition within 180 days of receiving it, the petition shall be deemed to be granted.
+  - **(3)** Upon the publication of the final list under paragraph (1)(B)—
+    - **(A)** each type of class II device so listed shall be exempt from the requirement for a report under subsection (k); and
+    - **(B)** the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption.
 - **(n)**
   - **(1)** The Secretary shall review the report required in subsection (k) and make a determination under section 360c(f)(1) of this title not later than 90 days after receiving the report.
   - **(2)**
@@ -106,3 +117,9 @@ status: "active"
     - **(A)** enables personnel of the Food and Drug Administration to search the database by any field of information submitted in a registration described under paragraph (1), or combination of such fields; and
     - **(B)** uses the unique facility identifier system to link with other relevant databases within the Food and Drug Administration, including the database for submission of information under section 381(r) of this title .
   - **(3)** The Secretary shall ensure the accuracy and coordination of relevant Food and Drug Administration databases in order to identify and inform risk-based inspections under subsection (h).
+- **(q)**
+  - **(1)** Not later than 180 days after December 13, 2016 , the Secretary shall identify and publish a list of reusable device types for which reports under subsection (k) are required to include—
+    - **(A)** instructions for use, which have been validated in a manner specified by the Secretary; and
+    - **(B)** validation data, the types of which shall be specified by the Secretary;
+  - **(2)** The Secretary shall revise the list under paragraph (2), 3 3 So in original. Probably should be “paragraph (1),”. as the Secretary determines appropriate, with notice in the Federal Register.
+  - **(3)** Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.

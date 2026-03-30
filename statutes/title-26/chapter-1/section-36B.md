@@ -3,9 +3,9 @@ title: "Section 36B - Refundable credit for coverage under a qualified health pl
 usc_title: 26
 usc_section: "36B"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 36B"
-generated_at: "2026-03-30T05:53:36.388Z"
+generated_at: "2026-03-30T05:56:02.266Z"
 status: "active"
 ---
 
@@ -61,6 +61,17 @@ status: "active"
   - **(3)**
     - **(A)** The term “qualified health plan” has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
     - **(B)** The term “grandfathered health plan” has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.
+  - **(4)**
+    - **(A)** The term “coverage month” shall not include any month with respect to an employee (or any spouse or dependent of such employee) if for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage.
+    - **(B)** In the case of any employee who is provided a qualified small employer health reimbursement arrangement for any coverage month (determined without regard to subparagraph (A)), the credit otherwise allowable under subsection (a) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month.
+    - **(C)** For purposes of subparagraph (A), a qualified small employer health reimbursement arrangement shall be treated as constituting affordable coverage for a month if—
+      - **(i)** the excess of—
+        - **(I)** the amount that would be paid by the employee as the premium for such month for self-only coverage under the second lowest cost silver plan offered in the relevant individual health insurance market, over
+        - **(II)** 1 ⁄ 12 of the employee’s permitted benefit (as defined in section 9831(d)(3)(C)) under such arrangement, does not exceed—
+      - **(ii)** 1 ⁄ 12 of 9.5 percent of the employee’s household income.
+    - **(D)** For purposes of this paragraph, the term “qualified small employer health reimbursement arrangement” has the meaning given such term by section 9831(d)(2).
+    - **(E)** In the case of an employee who is provided a qualified small employer health reimbursement arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied by substituting “the number of months during the year for which such arrangement was provided” for “12”.
+    - **(F)** In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
 - **(d)** For purposes of this section—
   - **(1)** The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
   - **(2)**

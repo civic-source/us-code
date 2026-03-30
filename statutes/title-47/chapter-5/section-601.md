@@ -3,9 +3,9 @@ title: "Section 601 - Interstate Commerce Commission and Postmaster General; dut
 usc_title: 47
 usc_section: "601"
 chapter: 5
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "47 U.S.C. § 601"
-generated_at: "2026-03-30T05:54:45.129Z"
+generated_at: "2026-03-30T05:56:25.655Z"
 status: "active"
 ---
 

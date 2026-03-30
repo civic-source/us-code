@@ -3,16 +3,16 @@ title: "Section 3013 - Secretary of the Army"
 usc_title: 10
 usc_section: "3013"
 chapter: 303
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3013"
-generated_at: "2026-03-30T05:52:47.207Z"
+generated_at: "2026-03-30T05:55:13.328Z"
 status: "active"
 ---
 
 # § 3013. Secretary of the Army
 
 - **(a)**
-  - **(1)** There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
+  - **(1)** There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Army.
   - **(2)** A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 - **(b)** Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Army is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Army, including the following functions:
   - **(1)** Recruiting.

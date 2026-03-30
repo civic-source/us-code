@@ -3,9 +3,9 @@ title: "Section 1397hh - Annual reports; evaluations"
 usc_title: 42
 usc_section: "1397hh"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1397hh"
-generated_at: "2026-03-30T05:54:40.328Z"
+generated_at: "2026-03-30T05:56:22.631Z"
 status: "active"
 ---
 
@@ -35,10 +35,10 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary, directly or through contracts or interagency agreements, shall conduct an independent evaluation of 10 States with approved child health plans.
   - **(2)** In selecting States for the evaluation conducted under this subsection, the Secretary shall choose 10 States that utilize diverse approaches to providing child health assistance, represent various geographic areas (including a mix of rural and urban areas), and contain a significant portion of uncovered children.
-  - **(3)** In addition to the elements described in subsection (b)(1) of this section, the evaluation conducted under this subsection shall include each of the following:
+  - **(3)** In addition to the elements described in subsection (b)(1), the evaluation conducted under this subsection shall include each of the following:
     - **(A)** Surveys of the target population (enrollees, disenrollees, and individuals eligible for but not enrolled in the program under this subchapter).
-    - **(B)** Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX of this chapter), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX of this chapter but have not been enrolled previously in the medicaid program under that subchapter.
-    - **(C)** Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX of this chapter are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
+    - **(B)** Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX but have not been enrolled previously in the medicaid program under that subchapter.
+    - **(C)** Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
     - **(D)** An assessment of the effect of cost-sharing on utilization, enrollment, and coverage retention.
     - **(E)** Evaluation of disenrollment or other retention issues, such as switching to private coverage, failure to pay premiums, or barriers in the recertification process.
   - **(4)** Not later than December 31, 2001 , the Secretary shall submit to Congress the results of the evaluation conducted under this subsection.

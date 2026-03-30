@@ -3,9 +3,9 @@ title: "Section 3929 - Inspector General"
 usc_title: 22
 usc_section: "3929"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 3929"
-generated_at: "2026-03-30T05:53:23.571Z"
+generated_at: "2026-03-30T05:55:51.115Z"
 status: "active"
 ---
 
@@ -34,6 +34,13 @@ status: "active"
     - **(B)** In order to ensure that final reports of investigations are thorough and accurate, the Inspector General shall—
       - **(i)** make every reasonable effort to ensure that any person named in a final report of investigation has been afforded an opportunity to refute any allegation of wrongdoing or assertion with respect to a material fact made regarding that person’s actions;
       - **(ii)** include in every final report of investigation any exculpatory information, as well as any inculpatory information, that has been discovered in the course of the investigation.
+  - **(6)**
+    - **(A)** The head of a bureau, post, or other office of the Department of State (in this paragraph referred to as a “Department entity”) shall submit to the Inspector General a report of any allegation of—
+      - **(i)** waste, fraud, or abuse in a Department program or operation;
+      - **(ii)** criminal or serious misconduct on the part of a Department employee at the FS–1, GS–15, or GM–15 level or higher;
+      - **(iii)** criminal misconduct on the part of a Department employee; and
+      - **(iv)** serious, noncriminal misconduct on the part of any Department employee who is authorized to carry a weapon, make arrests, or conduct searches, such as conduct that, if proved, would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority.
+    - **(B)** The head of a Department entity shall submit to the Inspector General a report of an allegation described in subparagraph (A) not later than 5 business days after the date on which the head of such Department entity is made aware of such allegation.
 - **(d)**
   - **(1)** The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
   - **(2)** The Inspector General shall, not later than April 30 of each year, prepare and furnish to the Secretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—

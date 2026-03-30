@@ -3,9 +3,9 @@ title: "Section 13 - Funding of administrative costs"
 usc_title: 42
 usc_section: "13"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T05:54:40.524Z"
+generated_at: "2026-03-30T05:56:22.828Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 390f - Revision of leases or agreements to evidence conversion o
 usc_title: 43
 usc_section: "390f"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "43 U.S.C. § 390f"
-generated_at: "2026-03-30T05:54:26.503Z"
+generated_at: "2026-03-30T05:56:12.316Z"
 status: "active"
 ---
 

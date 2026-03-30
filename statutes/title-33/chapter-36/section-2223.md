@@ -3,15 +3,17 @@ title: "Section 2223 - Transfer of excess credit"
 usc_title: 33
 usc_section: "2223"
 chapter: 36
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 2223"
-generated_at: "2026-03-30T05:53:40.442Z"
+generated_at: "2026-03-30T05:56:05.882Z"
 status: "active"
 ---
 
 # § 2223. Transfer of excess credit
 
-- **(a)** Subject to subsection (b), the Secretary may apply credit for in-kind contributions provided by a non-Federal interest that are in excess of the required non-Federal cost share for a water resources development study or project toward the required non-Federal cost share for a different water resources development study or project.
+- **(a)**
+  - **(1)** Subject to subsection (b), the Secretary may apply credit for in-kind contributions provided by a non-Federal interest that are in excess of the required non-Federal cost share for a water resources development study or project toward the required non-Federal cost share for a different water resources development study or project.
+  - **(2)** On request of a non-Federal interest, the credit described in paragraph (1) may be applied prior to completion of a study or project, if the credit amount is verified by the Secretary.
 - **(b)**
   - **(1)** Except for subsection (a)(4)(D)(i) of that section, the requirements of section 1962d–5b of title 42 (as amended by section 1018(a)) shall apply to any credit under this section.
   - **(2)** Credit in excess of the non-Federal share for a study or project may be approved under this section only if—

@@ -3,9 +3,9 @@ title: "Section 4071i - Transition provisions"
 usc_title: 22
 usc_section: "4071i"
 chapter: 52
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 4071i"
-generated_at: "2026-03-30T05:53:23.577Z"
+generated_at: "2026-03-30T05:55:51.121Z"
 status: "active"
 ---
 

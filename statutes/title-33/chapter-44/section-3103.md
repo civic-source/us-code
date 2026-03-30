@@ -3,13 +3,13 @@ title: "Section 3103 - Public information and outreach"
 usc_title: 33
 usc_section: "3103"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 3103"
-generated_at: "2026-03-30T05:53:40.458Z"
+generated_at: "2026-03-30T05:56:05.898Z"
 status: "active"
 ---
 
 # § 3103. Public information and outreach
 
-- **(a)** The Secretary of Commerce, in consultation with other Federal agencies, and in cooperation with the National Sea Grant program, shall design and implement a program to disseminate information developed under the NOAA Oceans and Human Health Initiative, including research, assessments, and findings regarding the relationship between oceans and human health, on both a regional and national scale. The information, particularly with respect to potential health risks, shall be made available in a timely manner to appropriate Federal or State agencies, involved industries, and other interested persons through a variety of means, including through the Internet.
-- **(b)** As part of this program, the Secretary shall submit to Congress an annual report reviewing the results of the research, assessments, and findings developed under the NOAA Oceans and Human Health Initiative, as well as recommendations for improving or expanding the program.
+The Secretary of Commerce, in consultation with other Federal agencies, and in cooperation with the National Sea Grant program, shall design and implement a program to disseminate information developed under the NOAA Oceans and Human Health Initiative, including research, assessments, and findings regarding the relationship between oceans and human health, on both a regional and national scale. The information, particularly with respect to potential health risks, shall be made available in a timely manner to appropriate Federal or State agencies, involved industries, and other interested persons through a variety of means, including through the Internet.
+

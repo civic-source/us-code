@@ -3,9 +3,9 @@ title: "Section 360i - Records and reports on devices"
 usc_title: 21
 usc_section: "360i"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 360i"
-generated_at: "2026-03-30T05:53:21.584Z"
+generated_at: "2026-03-30T05:55:48.549Z"
 status: "active"
 ---
 
@@ -79,7 +79,7 @@ status: "active"
       - **(i)** intended to be implanted in the human body for more than one year, or
       - **(ii)** a life sustaining or life supporting device used outside a device user facility.
   - **(2)** Any patient receiving a device subject to tracking under paragraph (1) may refuse to release, or refuse permission to release, the patient’s name, address, social security number, or other identifying information for the purpose of tracking.
-- **(f)** Not later than December 31, 2012 , the Secretary shall issue proposed regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number. The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.
+- **(f)** Not later than December 31, 2012 , the Secretary shall issue proposed regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number. The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, or life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.
 - **(g)**
   - **(1)** Except as provided in paragraph (2), the Secretary shall by regulation require a manufacturer or importer of a device to report promptly to the Secretary any correction or removal of a device undertaken by such manufacturer or importer if the removal or correction was undertaken—
     - **(A)** to reduce a risk to health posed by the device, or

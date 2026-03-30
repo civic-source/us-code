@@ -3,9 +3,9 @@ title: "Section 148 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "148"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "6 U.S.C. § 148"
-generated_at: "2026-03-30T05:52:37.226Z"
+generated_at: "2026-03-30T05:55:09.966Z"
 status: "active"
 ---
 
@@ -92,4 +92,7 @@ status: "active"
 - **(k)** Not later than 60 days after December 18, 2015 , the Secretary, acting through the Under Secretary appointed under section 113(a)(1)(H) of this title , shall—
   - **(1)** disseminate to the public information about how to voluntarily share cyber threat indicators and defensive measures with the Center; and
   - **(2)** enhance outreach to critical infrastructure owners and operators for purposes of such sharing.
-- **(l)** The Secretary, in coordination with industry and other stakeholders, may develop and adhere to Department policies and procedures for coordinating vulnerability disclosures.
+- **(l)**
+  - **(1)** The Secretary may leverage small business development centers to provide assistance to small business concerns by disseminating information on cyber threat indicators, defense measures, cybersecurity risks, incidents, analyses, and warnings to help small business concerns in developing or enhancing cybersecurity infrastructure, awareness of cyber threat indicators, and cyber training programs for employees.
+  - **(2)** For purposes of this subsection, the terms “small business concern” and “small business development center” have the meaning given such terms, respectively, under section 632 of title 15 .
+- **(m)** The Secretary, in coordination with industry and other stakeholders, may develop and adhere to Department policies and procedures for coordinating vulnerability disclosures.

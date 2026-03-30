@@ -3,9 +3,9 @@ title: "Section 10217 - Non-dual status technicians"
 usc_title: 10
 usc_section: "10217"
 chapter: 1007
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 10217"
-generated_at: "2026-03-30T05:52:47.236Z"
+generated_at: "2026-03-30T05:55:13.357Z"
 status: "active"
 ---
 
@@ -32,8 +32,7 @@ status: "active"
     - **(B)** Two years.
   - **(3)** No person may be hired under the authority of this subsection after January 6, 2013 .
 - **(e)**
-  - **(1)** No individual may be newly hired or employed, or rehired or reemployed, as a non-dual status technician for the purposes of this section after December 31, 2016 .
-  - **(2)** Commencing January 1, 2017 , the maximum number of non-dual status technicians employable by the Army Reserve and by the Air Force Reserve shall be reduced from the number otherwise provided by subsection (c)(1) by one for each individual who retires, is separated from, or otherwise ceases service as a non-dual status technician of the Army Reserve or the Air Force Reserve, as the case may be, after such date until the maximum number of non-dual status technicians employable by the Army Reserve or the Air Force Reserve, as the case may be, is zero.
-  - **(3)** Commencing January 1, 2017 , the maximum number of non-dual status technicians employable by the National Guard shall be reduced from the number otherwise provided by subsection (c)(2) by one for each individual who retires, is separated from, or otherwise ceases service as a non-dual status technician of the National Guard after such date until the maximum number of non-dual status technicians employable by the National Guard is zero.
-  - **(4)** Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of the amendment made by paragraph (1) shall be an individual employed in such position under section 3101 of title 5 , and may not be a military technician.
-  - **(5)** Nothing in this subsection shall be construed to terminate the status as a non-dual status technician under this section after December 31, 2016 , of any individual who is a non-dual status technician for the purposes of this section on that date.
+  - **(1)** No individual may be newly hired or employed, or rehired or reemployed, as a non-dual status technician for purposes of this section after September 30, 2017 .
+  - **(2)** By not later than October 1, 2017 , the Secretary of Defense shall convert all non-dual status technicians to positions filled by individuals who are employed under section 3101 of title 5 or section 1601 of this title and are not military technicians.
+  - **(3)** In the case of a position converted under paragraph (2) for which there is an incumbent employee on October 1, 2017 , the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.
+  - **(4)** Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of paragraph (1) shall an individual employed in such position under section 3101 of title 5 or section 1601 of this title .

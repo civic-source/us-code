@@ -3,9 +3,9 @@ title: "Section 3118 - Park and park monument subsistence resource commissions"
 usc_title: 16
 usc_section: "3118"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 3118"
-generated_at: "2026-03-30T05:53:07.750Z"
+generated_at: "2026-03-30T05:55:38.235Z"
 status: "active"
 ---
 

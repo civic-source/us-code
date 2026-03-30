@@ -3,9 +3,9 @@ title: "Section 7a - State constitution or laws limiting mortgage interest, disc
 usc_title: 12
 usc_section: "7a"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 7a"
-generated_at: "2026-03-30T05:52:55.803Z"
+generated_at: "2026-03-30T05:55:26.992Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16922 - Actions to be taken when sex offender fails to comply"
 usc_title: 42
 usc_section: "16922"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 16922"
-generated_at: "2026-03-30T05:54:40.702Z"
+generated_at: "2026-03-30T05:56:23.002Z"
 status: "active"
 ---
 

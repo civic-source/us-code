@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T05:54:40.267Z"
+generated_at: "2026-03-30T05:56:22.568Z"
 status: "active"
 ---
 
@@ -72,7 +72,7 @@ For purposes of this subchapter—
   - **(2)** physical or occupational therapy or speech-language pathology services;
   - **(3)** medical social services under the direction of a physician;
   - **(4)** to the extent permitted in regulations, part-time or intermittent services of a home health aide who has successfully completed a training program approved by the Secretary;
-  - **(5)** medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care, and a covered osteoporosis drug (as defined in subsection (kk)), but excluding other drugs and biologicals) and durable medical equipment while under such a plan;
+  - **(5)** medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care, and a covered osteoporosis drug (as defined in subsection (kk)), but excluding other drugs and biologicals) and durable medical equipment and applicable disposable devices (as defined in section 1395m(s)(2) of this title ) while under such a plan;
   - **(6)** in the case of a home health agency which is affiliated or under common control with a hospital, medical services provided by an intern or resident-in-training of such hospital, under a teaching program of such hospital approved as provided in the last sentence of subsection (b); and
   - **(7)** any of the foregoing items and services which are provided on an outpatient basis, under arrangements made by the home health agency, at a hospital or skilled nursing facility, or at a rehabilitation center which meets such standards as may be prescribed in regulations, and—
     - **(A)** the furnishing of which involves the use of equipment of such a nature that the items and services cannot readily be made available to the individual in such place of residence, or
@@ -650,7 +650,7 @@ For purposes of this subchapter—
   - **(2)** includes a physician’s interpretation of the results of the procedure.
 - **(ccc)** The term “long-term care hospital” means a hospital which—
   - **(1)** is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
-  - **(2)** has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of section 1395ww(d)(1)(B)(iv) of this title ;
+  - **(2)** has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) 8 of section 1395ww(d)(1)(B)(iv) of this title ;
   - **(3)** satisfies the requirements of subsection (e); and
   - **(4)** meets the following facility criteria:
     - **(A)** the institution has a patient review process, documented in the patient medical record, that screens patients prior to admission for appropriateness of admission to a long-term care hospital, validates within 48 hours of admission that patients meet admission criteria for long-term care hospitals, regularly evaluates patients throughout their stay for continuation of care in a long-term care hospital, and assesses the available discharge options when patients no longer meet such continued stay criteria;

@@ -3,9 +3,9 @@ title: "Section 1922A - Supplemental service disabled veterans’ insurance for 
 usc_title: 38
 usc_section: "1922A"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 1922A"
-generated_at: "2026-03-30T05:54:20.200Z"
+generated_at: "2026-03-30T05:56:09.483Z"
 status: "active"
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: "Section 128 - Physical protection of special nuclear material: limitation on dissemination of unclassified information"
+title: "Section 128 - Control and physical protection of special nuclear material: limitation on dissemination of unclassified information"
 usc_title: 10
 usc_section: "128"
 chapter: 3
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 128"
-generated_at: "2026-03-30T05:52:47.111Z"
+generated_at: "2026-03-30T05:55:13.225Z"
 status: "active"
 ---
 
-# § 128. Physical protection of special nuclear material: limitation on dissemination of unclassified information
+# § 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information
 
 - **(a)**
   - **(1)** In addition to any other authority or requirement regarding protection from dissemination of information, and subject to section 552(b)(3) of title 5 , the Secretary of Defense, with respect to special nuclear materials, shall prescribe such regulations, after notice and opportunity for public comment thereon, or issue such orders as may be necessary to prohibit the unauthorized dissemination of unclassified information pertaining to security measures, including security plans, procedures, and equipment for the physical protection of special nuclear material.
@@ -24,3 +24,4 @@ status: "active"
       - **(ii)** theft, diversion, or sabotage of nuclear materials, equipment, or facilities.
 - **(b)** Nothing in this section shall be construed to authorize the Secretary to withhold, or to authorize the withholding of, information from the appropriate committees of the Congress.
 - **(c)** Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5 .
+- **(d)** Information that the Secretary prohibits to be disseminated pursuant to subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense, and a State or local law authorizing or requiring a State or local government to disclose such information shall not apply to such information.

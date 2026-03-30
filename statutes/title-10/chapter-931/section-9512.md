@@ -3,9 +3,9 @@ title: "Section 9512 - Contracts for the inclusion or incorporation of defense f
 usc_title: 10
 usc_section: "9512"
 chapter: 931
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 9512"
-generated_at: "2026-03-30T05:52:47.233Z"
+generated_at: "2026-03-30T05:55:13.354Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
     - **(A)** to contract, with the concurrence of the contractor, directly with another person for the performance of the work necessary for the inclusion or incorporation of defense features in such aircraft; and
     - **(B)** to pay such other person directly for such work.
   - **(2)** A contract entered into pursuant to paragraph (1) may include such specifications for work and equipment as the Secretary considers necessary to meet the needs of the United States.
-- **(e)** Notwithstanding section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
+- **(e)** Notwithstanding section 101 of the Defense Production Act of 1950 ( 50 U.S.C. 4511 ), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.

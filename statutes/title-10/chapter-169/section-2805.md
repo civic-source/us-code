@@ -3,9 +3,9 @@ title: "Section 2805 - Unspecified minor construction"
 usc_title: 10
 usc_section: "2805"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2805"
-generated_at: "2026-03-30T05:52:47.202Z"
+generated_at: "2026-03-30T05:55:13.324Z"
 status: "active"
 ---
 
@@ -20,12 +20,12 @@ status: "active"
 - **(c)** The Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than $1,000,000.
 - **(d)**
   - **(1)** For the revitalization and recapitalization of laboratories owned by the United States and under the jurisdiction of the Secretary concerned, the Secretary concerned may obligate and expend—
-    - **(A)** from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000, notwithstanding subsection (c); or
-    - **(B)** from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ( Public Law 110–417 ; 10 U.S.C. 2358 note), amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000.
-  - **(2)** For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $4,000,000. The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.
-  - **(3)** Not later than February 1, 2014 , the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
+    - **(A)** from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000, notwithstanding subsection (c); or
+    - **(B)** from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ( Public Law 110–417 ; 10 U.S.C. 2358 note), amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000.
+  - **(2)** For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $6,000,000.
+  - **(3)** If the Secretary concerned makes a decision to carry out an unspecified minor military construction project to which this subsection applies, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title .
   - **(4)** In this subsection, the term “laboratory” includes—
     - **(A)** a research, engineering, and development center; and
     - **(B)** a test and evaluation activity.
-  - **(5)** The authority to carry out a project under this subsection expires on September 30, 2018 .
+  - **(5)** The authority to carry out a project under this subsection expires on September 30, 2025 .
 - **(e)** Military family housing projects for construction of new housing units may not be carried out under the authority of this section.

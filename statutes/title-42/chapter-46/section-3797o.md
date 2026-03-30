@@ -3,9 +3,9 @@ title: "Section 3797o - Reports"
 usc_title: 42
 usc_section: "3797o"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3797o"
-generated_at: "2026-03-30T05:54:40.433Z"
+generated_at: "2026-03-30T05:56:22.739Z"
 status: "active"
 ---
 
@@ -14,8 +14,9 @@ status: "active"
 - **(a)** For each fiscal year for which a grant is awarded under this subchapter, each State or unit of local government that receives such a grant shall submit to the Attorney General a report, at such time and in such manner as the Attorney General may reasonably require, which report shall include—
   - **(1)** a summary and assessment of the program carried out with the grant, which shall include a comparison of pre-grant and post-grant forensic science capabilities;
   - **(2)** the average number of days between submission of a sample to a forensic science laboratory or forensic science laboratory system in that State operated by the State or by a unit of local government and the delivery of test results to the requesting office or agency;
-  - **(3)** an identification of the number and type of cases currently accepted by the laboratory; and
-  - **(4)** such other information as the Attorney General may require.
+  - **(3)** an identification of the number and type of cases currently accepted by the laboratory;
+  - **(4)** the progress of any unaccredited forensic science service provider receiving grant funds toward obtaining accreditation; and
+  - **(5)** such other information as the Attorney General may require.
 - **(b)** Not later than 90 days after the last day of each fiscal year for which 1 or more grants are awarded under this subchapter, the Attorney General shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report, which shall include—
   - **(1)** the aggregate amount of grants awarded under this subchapter for that fiscal year; and
   - **(2)** a summary of the information provided under subsection (a) of this section.

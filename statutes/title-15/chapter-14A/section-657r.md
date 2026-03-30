@@ -3,9 +3,9 @@ title: "Section 657r - Mentor-protege programs"
 usc_title: 15
 usc_section: "657r"
 chapter: 14
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "15 U.S.C. § 657r"
-generated_at: "2026-03-30T05:52:57.750Z"
+generated_at: "2026-03-30T05:55:29.286Z"
 status: "active"
 ---
 
@@ -34,6 +34,7 @@ status: "active"
     - **(J)** Actions to be taken to ensure benefits for proteges and to protect a protege against actions by a mentor that—
       - **(i)** may adversely affect the protege’s status as a small business concern; or
       - **(ii)** provide disproportionate economic benefits to the mentor relative to those provided the protege.
+    - **(K)** The types of assistance provided by a mentor to assist with compliance with the requirements of contracting with the Federal Government after award of a contract or subcontract under this section.
   - **(4)** Paragraph (1) does not apply to the following:
     - **(A)** Any mentor-protege program of the Department of Defense.
     - **(B)** Any mentoring assistance provided under a Small Business Innovation Research Program or a Small Business Technology Transfer Program.

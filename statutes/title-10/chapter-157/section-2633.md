@@ -3,9 +3,9 @@ title: "Section 2633 - Stevedoring and terminal services: vessels carrying cargo
 usc_title: 10
 usc_section: "2633"
 chapter: 157
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2633"
-generated_at: "2026-03-30T05:52:47.196Z"
+generated_at: "2026-03-30T05:55:13.317Z"
 status: "active"
 ---
 

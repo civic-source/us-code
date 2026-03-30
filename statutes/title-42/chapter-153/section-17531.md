@@ -3,9 +3,9 @@ title: "Section 17531 - Mentoring grants to nonprofit organizations"
 usc_title: 42
 usc_section: "17531"
 chapter: 153
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 17531"
-generated_at: "2026-03-30T05:54:40.714Z"
+generated_at: "2026-03-30T05:56:23.014Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** From amounts made available to carry out this section, the Attorney General shall make grants to nonprofit organizations and Indian Tribes for the purpose of providing mentoring and other transitional services essential to reintegrating offenders into the community.
 - **(b)** A grant awarded under subsection (a) may be used for—
   - **(1)** mentoring adult and juvenile offenders during incarceration, through transition back to the community, and post-release;
-  - **(2)** transitional services to assist in the reintegration of offenders into the community; and
+  - **(2)** transitional services to assist in the reintegration of offenders into the community, including mental health care; and
   - **(3)** training regarding offender and victims issues.
 - **(c)**
   - **(1)** To be eligible to receive a grant under this section, a nonprofit organization or Indian Tribe shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.

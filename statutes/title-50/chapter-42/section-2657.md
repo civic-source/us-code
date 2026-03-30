@@ -3,9 +3,9 @@ title: "Section 2657 - Annual report and certification on status of security of 
 usc_title: 50
 usc_section: "2657"
 chapter: 42
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "50 U.S.C. § 2657"
-generated_at: "2026-03-30T05:54:46.403Z"
+generated_at: "2026-03-30T05:56:27.702Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
 - **(b)**
   - **(1)** Not later than December 1 of each year, the Secretary shall submit to the congressional defense committees—
     - **(A)** a report detailing the status of the security of atomic energy defense facilities holding Category I and II quantities of special nuclear material that are not administered by the Administration; and
-    - **(B)** written certification that such facilities meet the security standards and requirements of the Department of Energy.
+    - **(B)** written certification that such facilities are secure and that the security measures at such facilities meet the security standards and requirements of the Department of Energy.
   - **(2)** If the Secretary is unable to make the certification described in paragraph (1)(B) with respect to a facility, the Secretary shall submit to the congressional defense committees, together with the matters required by paragraph (1), a corrective action plan describing—
     - **(A)** the deficiency that resulted in the Secretary being unable to make the certification;
     - **(B)** the actions to be taken to correct the deficiency; and

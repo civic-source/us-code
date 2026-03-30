@@ -3,9 +3,9 @@ title: "Section 10314 - Construction"
 usc_title: 52
 usc_section: "10314"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "52 U.S.C. § 10314"
-generated_at: "2026-03-30T05:54:50.333Z"
+generated_at: "2026-03-30T05:56:32.432Z"
 status: "active"
 ---
 

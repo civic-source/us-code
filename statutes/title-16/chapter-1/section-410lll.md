@@ -3,9 +3,9 @@ title: "Section 410lll - Paterson Great Falls National Historical Park, New Jers
 usc_title: 16
 usc_section: "410lll"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 410lll"
-generated_at: "2026-03-30T05:53:07.603Z"
+generated_at: "2026-03-30T05:55:38.086Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
       - **(v)** The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
       - **(vi)** The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
       - **(vii)** The Great Falls Visitor Center.
-    - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155, and dated April 2014, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
+    - **(B)** In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155A, and dated August 2015, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
   - **(4)** The Map and the map referred to in paragraph (3)(B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
   - **(5)** Not later than 60 days after the date on which the conditions in clauses (i) and (ii) of paragraph (1)(B) are satisfied, the Secretary shall publish in the Federal Register notice of the establishment of the Park, including an official boundary map for the Park.
 - **(c)**

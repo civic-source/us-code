@@ -3,18 +3,18 @@ title: "Section 3797l - Allocation"
 usc_title: 42
 usc_section: "3797l"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 3797l"
-generated_at: "2026-03-30T05:54:40.433Z"
+generated_at: "2026-03-30T05:56:22.739Z"
 status: "active"
 ---
 
 # § 3797l. Allocation
 
 - **(a)**
-  - **(1)** Seventy-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated to each State that meets the requirements of section 3797k of this title so that each State shall receive an amount that bears the same ratio to the 75 percent of the total amount made available to carry out this subchapter for that fiscal year as the population of the State bears to the population of all States.
-  - **(2)** Twenty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General’s discretion for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient.
-  - **(3)** Each State shall receive not less than 0.6 percent of the amount made available to carry out this subchapter in each fiscal year.
+  - **(1)** Eighty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated to each State that meets the requirements of section 3797k of this title so that each State shall receive an amount that bears the same ratio to the 85 percent of the total amount made available to carry out this subchapter for that fiscal year as the population of the State bears to the population of all States.
+  - **(2)** Fifteen percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General’s discretion for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient.
+  - **(3)** Each State shall receive not less than 1 percent of the amount made available to carry out this subchapter in each fiscal year.
   - **(4)** If the amounts available to carry out this subchapter in each fiscal year are insufficient to pay in full the total payment that any State is otherwise eligible to receive under paragraph (3), then the Attorney General shall reduce payments under paragraph (1) for such payment period to the extent of such insufficiency. Reductions under the preceding sentence shall be allocated among the States (other than States whose payment is determined under paragraph (3)) in the same proportions as amounts would be allocated under paragraph (1) without regard to paragraph (3).
 - **(b)** In this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, except that—
   - **(1)** for purposes of the allocation under this section, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as 1 State; and

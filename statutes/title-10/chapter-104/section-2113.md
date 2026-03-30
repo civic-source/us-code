@@ -3,9 +3,9 @@ title: "Section 2113 - Administration of University"
 usc_title: 10
 usc_section: "2113"
 chapter: 104
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2113"
-generated_at: "2026-03-30T05:52:47.168Z"
+generated_at: "2026-03-30T05:55:13.288Z"
 status: "active"
 ---
 
@@ -18,11 +18,11 @@ status: "active"
   - **(2)** The Secretary may confer academic titles, as appropriate, upon military and civilian members of the faculty.
   - **(3)** The military members of the faculty shall include a professor of military, naval, or air science as the Secretary may determine.
   - **(4)** The limitations in sections 5307 and 5373 of title 5 do not apply to the authority of the Secretary under paragraph (1) to prescribe salary schedules and other related benefits. In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in section 102 of title 3 .
-- **(d)** The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources located in or near the District of Columbia. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities in or near the District of Columbia. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs. The Secretary may enter into an agreement under which the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.
+- **(d)** The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs.
 - **(e)** The Secretary of Defense may establish the following educational programs at the University:
   - **(1)** Postdoctoral, postgraduate, and technological institutes.
   - **(2)** A graduate school of nursing.
-  - **(3)** Other schools or programs that the Secretary determines necessary in order to operate the University in a cost-effective manner.
+  - **(3)** Other schools or programs, including certificate, certification, and undergraduate degree programs, that the Secretary determines necessary in order to operate the University in a cost-effective manner.
 - **(f)** The Secretary shall also establish programs in continuing medical education for military members of the health professions to the end that high standards of health care may be maintained within the military medical services.
 - **(g)**
   - **(1)** The Secretary also is authorized—

@@ -3,9 +3,9 @@ title: "Section 6151 - Higher retired grade and pay for members who serve satisf
 usc_title: 10
 usc_section: "6151"
 chapter: 561
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 6151"
-generated_at: "2026-03-30T05:52:47.219Z"
+generated_at: "2026-03-30T05:55:13.339Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6366 - Eligibility for leave recipients"
 usc_title: 5
 usc_section: "6366"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 6366"
-generated_at: "2026-03-30T05:52:33.951Z"
+generated_at: "2026-03-30T05:55:06.575Z"
 status: "active"
 ---
 

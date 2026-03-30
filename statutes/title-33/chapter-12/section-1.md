@@ -1,15 +1,23 @@
 ---
-title: "Section 1 - Amended compact"
+title: "Section 1 - Backlog prevention"
 usc_title: 33
 usc_section: "1"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T05:53:40.401Z"
+generated_at: "2026-03-30T05:56:05.844Z"
 status: "active"
 ---
 
-# § 567b–1. Amended compact
+# § 579c–1. Backlog prevention
 
-The consent of Congress is hereby given to the States of Maryland and West Virginia and the Commonwealths of Virginia and Pennsylvania and the District of Columbia to adopt the aforementioned amendments and enter into the amended compact hereinbefore recited and every part and article thereof: Provided , That nothing contained in such amended compact shall be construed as impairing or in any manner affecting any right or jurisdiction of the United States in and over the region which forms the subject of this compact: And provided further , That the consent herein given does not extend to section (F)(2) of article II of the amended compact.
-
+- **(a)**
+  - **(1)** A water resources development project, or separable element of such a project, authorized for construction by this Act shall not be authorized after the last day of the 10-year period beginning on December 16, 2016 , unless—
+    - **(A)** funds have been obligated for construction of, or a post-authorization study for, such project or separable element during that period; or
+    - **(B)** the authorization contained in this Act has been modified by a subsequent Act of Congress.
+  - **(2)** Not later than 60 days after the expiration of the 10-year period referred to in paragraph (1), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that identifies the projects deauthorized under paragraph (1).
+- **(b)** Not later than 60 days after the expiration of the 12-year period beginning on December 16, 2016 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make available to the public, a report that contains—
+  - **(1)** a list of any water resources development projects authorized by this Act for which construction has not been completed during that period;
+  - **(2)** a description of the reasons the projects were not completed;
+  - **(3)** a schedule for the completion of the projects based on expected levels of appropriations; and
+  - **(4)** a 5-year and 10-year projection of construction backlog and any recommendations to Congress regarding how to mitigate current problems and the backlog.

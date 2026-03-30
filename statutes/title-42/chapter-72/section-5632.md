@@ -3,9 +3,9 @@ title: "Section 5632 - Allocation of funds"
 usc_title: 42
 usc_section: "5632"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 5632"
-generated_at: "2026-03-30T05:54:40.473Z"
+generated_at: "2026-03-30T05:56:22.779Z"
 status: "active"
 ---
 

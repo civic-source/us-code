@@ -3,9 +3,9 @@ title: "Section 2320 - Rights in technical data"
 usc_title: 10
 usc_section: "2320"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2320"
-generated_at: "2026-03-30T05:52:47.179Z"
+generated_at: "2026-03-30T05:55:13.298Z"
 status: "active"
 ---
 
@@ -17,31 +17,33 @@ status: "active"
     - **(A)** In the case of an item or process that is developed by a contractor or subcontractor exclusively with Federal funds (other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act ( 15 U.S.C. 638(j)(2) ) apply), the United States shall have the unlimited right to—
       - **(i)** use technical data pertaining to the item or process; or
       - **(ii)** release or disclose the technical data to persons outside the government or permit the use of the technical data by such persons.
-    - **(B)** Except as provided in subparagraphs (C) and (D), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.
+    - **(B)** Except as provided in subparagraphs (C), (D), and (G), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.
     - **(C)** Subparagraph (B) does not apply to technical data that—
       - **(i)** constitutes a correction or change to data furnished by the United States;
       - **(ii)** relates to form, fit, or function;
-      - **(iii)** is necessary for operation, maintenance, installation, or training (other than detailed manufacturing or process data); or
+      - **(iii)** is necessary for operation, maintenance, installation, or training (other than detailed manufacturing or process data, including such data pertaining to a major system component); or
       - **(iv)** is otherwise publicly available or has been released or disclosed by the contractor or subcontractor without restriction on further release or disclosure.
     - **(D)** Notwithstanding subparagraph (B), the United States may release or disclose technical data to persons outside the Government, or permit the use of technical data by such persons, if—
       - **(i)** such release, disclosure, or use—
         - **(I)** is necessary for emergency repair and overhaul;
-        - **(II)** is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; or
+        - **(II)** is a release, disclosure, or use of technical data pertaining to an interface between an item or process and other items or processes necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; or
         - **(III)** is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
       - **(ii)** such release, disclosure, or use is made subject to a prohibition that the person to whom the data is released or disclosed may not further release, disclose, or use such data; and
       - **(iii)** the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
-    - **(E)** In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations). The United States shall have government purpose rights in such technical data, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such regulations, that negotiation of different rights in such technical data would be in the best interest of the United States. The establishment of any such negotiated rights shall be based upon consideration of all of the following factors:
+    - **(E)** Except as provided in subparagraphs (F) and (G), in the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based on negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall be based upon consideration of all of the following factors:
       - **(i)** The statement of congressional policy and objectives in section 200 of title 35 , the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 ( 15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act ( 15 U.S.C. 631 ).
       - **(ii)** The interest of the United States in increasing competition and lowering costs by developing and locating alternative sources of supply and manufacture.
       - **(iii)** The interest of the United States in encouraging contractors to develop at private expense items for use by the Government.
       - **(iv)** Such other factors as the Secretary of Defense may prescribe.
-    - **(F)** A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
+    - **(F)** Notwithstanding subparagraph (E), the United States shall have government purpose rights in technical data pertaining to an interface between an item or process and other items or processes that was developed in part with Federal funds and in part at private expense, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiation of different rights in such technical data would be in the best interest of the United States.
+    - **(G)** Notwithstanding subparagraphs (B) and (E), the United States shall have government purpose rights in technical data pertaining to a major system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to section 2446a of this title , except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States. Such major system interface shall be identified in the contract solicitation and the contract. For technical data pertaining to a major system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
+    - **(H)** A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
       - **(i)** to sell or otherwise relinquish to the United States any rights in technical data except—
         - **(I)** rights in technical data described in subparagraph (A) for which a use or release restriction has been erroneously asserted by a contractor or subcontractor;
         - **(II)** rights in technical data described in subparagraph (C); or
         - **(III)** under the conditions described in subparagraph (D); or
       - **(ii)** to refrain from offering to use, or from using, an item or process to which the contractor is entitled to restrict rights in data under subparagraph (B).
-    - **(G)** The Secretary of Defense may—
+    - **(I)** The Secretary of Defense may—
       - **(i)** negotiate and enter into a contract with a contractor or subcontractor for the acquisition of rights in technical data not otherwise provided under subparagraph (C) or (D), if necessary to develop alternative sources of supply and manufacture;
       - **(ii)** agree to restrict rights in technical data otherwise accorded to the United States under this section if the United States receives a royalty-free license to use, release, or disclose the data for purposes of the United States (including purposes of competitive procurement); or
       - **(iii)** permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
@@ -55,11 +57,11 @@ status: "active"
   - **(6)** requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the items specified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
   - **(7)** establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data;
   - **(8)** authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data;
-  - **(9)** providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require at any time the delivery of technical data that has been generated or utilized in the performance of a contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—
+  - **(9)** providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require, until the date occurring six years after acceptance of the last item (other than technical data) under a contract or the date of contract termination, whichever is later, the delivery of technical data that has been generated in the performance of the contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—
     - **(A)** the technical data is needed for the purpose of reprocurement, sustainment, modification, or upgrade (including through competitive means) of a major system or subsystem thereof, a weapon system or subsystem thereof, or any noncommercial item or process; and
     - **(B)** the technical data—
       - **(i)** pertains to an item or process developed in whole or in part with Federal funds; or
-      - **(ii)** is necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; and
+      - **(ii)** is described in subparagraphs (D)(i)(II), (F), and (G) of subsection (a)(2); and
   - **(10)** providing that the United States is not foreclosed from requiring the delivery of the technical data by a failure to challenge, in accordance with the requirements of section 2321(d) of this title , the contractor’s assertion of a use or release restriction on the technical data.
 - **(c)** Nothing in this section or in section 2305(d) of this title prohibits the Secretary of Defense from—
   - **(1)** prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
@@ -81,3 +83,4 @@ status: "active"
       - **(i)** to criminal, civil, administrative, and contractual actions in law and equity for penalties, damages, and other appropriate remedies by the United States; and
       - **(ii)** to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and
     - **(E)** that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
+- **(g)** In this section, the terms “major system component”, “major system interface”, and “modular open system approach” have the meanings provided in section 2446a of this title .

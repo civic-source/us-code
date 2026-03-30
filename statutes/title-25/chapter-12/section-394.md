@@ -3,9 +3,9 @@ title: "Section 394 - Leases of arid allotted lands"
 usc_title: 25
 usc_section: "394"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "25 U.S.C. § 394"
-generated_at: "2026-03-30T05:53:16.782Z"
+generated_at: "2026-03-30T05:55:47.682Z"
 status: "active"
 ---
 

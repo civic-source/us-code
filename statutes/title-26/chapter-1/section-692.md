@@ -3,9 +3,9 @@ title: "Section 692 - Income taxes of members of Armed Forces, astronauts, and v
 usc_title: 26
 usc_section: "692"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 692"
-generated_at: "2026-03-30T05:53:36.486Z"
+generated_at: "2026-03-30T05:56:02.363Z"
 status: "active"
 ---
 

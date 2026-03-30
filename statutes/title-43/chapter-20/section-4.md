@@ -3,9 +3,9 @@ title: "Section 4 - Disposition of moneys received from or on account of reveste
 usc_title: 43
 usc_section: "4"
 chapter: 20
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T05:54:26.518Z"
+generated_at: "2026-03-30T05:56:12.331Z"
 status: "active"
 ---
 

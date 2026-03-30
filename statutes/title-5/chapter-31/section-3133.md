@@ -3,9 +3,9 @@ title: "Section 3133 - Authorization of positions; authority for appointment"
 usc_title: 5
 usc_section: "3133"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "5 U.S.C. § 3133"
-generated_at: "2026-03-30T05:52:33.931Z"
+generated_at: "2026-03-30T05:55:06.554Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(b)** Each agency request submitted under subsection (a) of this section shall—
   - **(1)** be based on the anticipated type and extent of program activities and budget requests of the agency for each of the 2 fiscal years involved, and such other factors as may be prescribed from time to time by the Office; and
   - **(2)** identify, by position title, positions which are proposed to be designated as or removed from designation as career reserved positions, and set forth justifications for such proposed actions.
-- **(c)** The Office of Personnel Management, in consultation with the Office of Management and Budget, shall review the request of each agency and shall authorize, for each of the 2 fiscal years covered by requests required under subsection (a) of this section, a specific number of Senior Executive Service positions for each agency.
+- **(c)** The Office of Personnel Management, in consultation with the Office of Management and Budget, shall review the request of each agency and shall authorize, for each of the 2 fiscal years covered by requests required under subsection (a) of this section, a specific number of Senior Executive Service positions for each agency. Beginning in 2023, the number of such positions authorized under the preceding sentence for the Department of Defense may not exceed the limitation provided in section 1109 of the National Defense Authorization Act for Fiscal Year 2017.
 - **(d)**
   - **(1)** The Office of Personnel Management may, on a written request of an agency or on its own initiative, make an adjustment in the number of positions authorized for any agency. Each agency request under this paragraph shall be submitted in such form, and shall be based on such factors, as the Office shall prescribe.
   - **(2)** The total number of positions in the Senior Executive Service may not at any time during any fiscal year exceed 105 percent of the total number of positions authorized under subsection (c) of this section for such fiscal year.

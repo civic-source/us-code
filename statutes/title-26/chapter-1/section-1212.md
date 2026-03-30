@@ -3,9 +3,9 @@ title: "Section 1212 - Capital loss carrybacks and carryovers"
 usc_title: 26
 usc_section: "1212"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "26 U.S.C. § 1212"
-generated_at: "2026-03-30T05:53:36.517Z"
+generated_at: "2026-03-30T05:56:02.393Z"
 status: "active"
 ---
 

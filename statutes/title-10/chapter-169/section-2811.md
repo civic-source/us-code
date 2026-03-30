@@ -3,9 +3,9 @@ title: "Section 2811 - Repair of facilities"
 usc_title: 10
 usc_section: "2811"
 chapter: 169
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2811"
-generated_at: "2026-03-30T05:52:47.203Z"
+generated_at: "2026-03-30T05:55:13.324Z"
 status: "active"
 ---
 
@@ -18,4 +18,6 @@ status: "active"
   - **(1)** the justification for the repair project and the current estimate of the cost of the project, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project;
   - **(2)** if the current estimate of the cost of the repair project exceeds 75 percent of the estimated cost of a military construction project to replace the facility, an explanation of the reasons why replacement of the facility is not in the best interest of the Government; and
   - **(3)** a description of the elements of military construction, including the elements specified in section 2802(b) of this title , incorporated into the repair project.
-- **(e)** In this section, the term “repair project” means a project to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose.
+- **(e)** In this section, the term “repair project” means a project—
+  - **(1)** to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose; or
+  - **(2)** to convert a real property facility, system, or component to a new functional purpose without increasing its external dimensions.

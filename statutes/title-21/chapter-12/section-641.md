@@ -3,9 +3,9 @@ title: "Section 641 - Prohibition of subchapter I inspection of articles not int
 usc_title: 21
 usc_section: "641"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 641"
-generated_at: "2026-03-30T05:53:21.611Z"
+generated_at: "2026-03-30T05:55:48.579Z"
 status: "active"
 ---
 

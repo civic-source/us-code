@@ -3,9 +3,9 @@ title: "Section 11 - Housing protections for victims of domestic violence, datin
 usc_title: 42
 usc_section: "11"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T05:54:40.664Z"
+generated_at: "2026-03-30T05:56:22.966Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(A)** No person may deny assistance, tenancy, or occupancy rights to housing assisted under a covered housing program to a tenant solely on the basis of criminal activity directly relating to domestic violence, dating violence, sexual assault, or stalking that is engaged in by a member of the household of the tenant or any guest or other person under the control of the tenant, if the tenant or an affiliated individual of the tenant is the victim or threatened victim of such domestic violence, dating violence, sexual assault, or stalking.
     - **(B)**
       - **(i)** Notwithstanding subparagraph (A), a public housing agency or owner or manager of housing assisted under a covered housing program may bifurcate a lease for the housing in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant of the housing and who engages in criminal activity directly relating to domestic violence, dating violence, sexual assault, or stalking against an affiliated individual or other individual, without evicting, removing, terminating assistance to, or otherwise penalizing a victim of such criminal activity who is also a tenant or lawful occupant of the housing.
-      - **(ii)** If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant an opportunity to establish eligibility for the covered housing program. If a tenant described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
+      - **(ii)** If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant or resident an opportunity to establish eligibility for the covered housing program. If a tenant or resident described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant or resident a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
     - **(C)** Nothing in subparagraph (A) shall be construed—
       - **(i)** to limit the authority of a public housing agency or owner or manager of housing assisted under a covered housing program, when notified of a court order, to comply with a court order with respect to—
         - **(I)** the rights of access to or control of property, including civil protection orders issued to protect a victim of domestic violence, dating violence, sexual assault, or stalking; or

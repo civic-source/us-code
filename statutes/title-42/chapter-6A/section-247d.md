@@ -3,9 +3,9 @@ title: "Section 247d - Public health emergencies"
 usc_title: 42
 usc_section: "247d"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 247d"
-generated_at: "2026-03-30T05:54:40.060Z"
+generated_at: "2026-03-30T05:56:22.352Z"
 status: "active"
 ---
 
@@ -62,3 +62,15 @@ status: "active"
     - **(A)** the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 5304 of title 25 ; and
     - **(B)** the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title , the Freely Associated States.
   - **(8)** This subsection shall terminate on September 30, 2018 .
+- **(f)**
+  - **(1)** If the Secretary determines, after consultation with such public health officials as may be necessary, that—
+    - **(A)**
+      - **(i)** the criteria set forth for a public health emergency under paragraph (1) or (2) of subsection (a) has been met; or
+      - **(ii)** a disease or disorder, including a novel and emerging public health threat, is significantly likely to become a public health emergency; and
+    - **(B)** the circumstances of such public health emergency, or potential for such significantly likely public health emergency, including the specific preparation for and response to such public health emergency or threat, necessitate a waiver from the requirements of subchapter I of chapter 35 of title 44 (commonly referred to as the Paperwork Reduction Act),
+  - **(2)** If the Secretary determines that a waiver is necessary under paragraph (1), the Secretary shall promptly post on the Internet website of the Department of Health and Human Services a brief justification for such waiver, the anticipated period of time such waiver will be in effect, and the agencies and offices within the Department of Health and Human Services to which such waiver shall apply, and update such information posted on the Internet website of the Department of Health and Human Services, as applicable.
+  - **(3)** Any waiver under this subsection shall take effect on the date on which the Secretary posts information on the Internet website as provided for in this subsection.
+  - **(4)** Upon determining that the circumstances necessitating a waiver under paragraph (1) no longer exist, the Secretary shall promptly update the Internet website of the Department of Health and Human Services to reflect the termination of such waiver.
+  - **(5)**
+    - **(A)** The period of a waiver under paragraph (1) shall not exceed the period of time for the related public health emergency, including a public health emergency declared pursuant to subsection (a), and any immediate postresponse review regarding the public health emergency consistent with the requirements of this subsection.
+    - **(B)** An initiative subject to a waiver under paragraph (1) that is ongoing after the date on which the waiver expires, shall be subject to the requirements of subchapter I of chapter 35 of title 44 and the Secretary shall ensure that compliance with such requirements occurs in as timely a manner as possible based on the applicable circumstances, but not to exceed 30 calendar days after the expiration of the applicable waiver.

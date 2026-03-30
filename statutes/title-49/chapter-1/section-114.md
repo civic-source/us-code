@@ -3,9 +3,9 @@ title: "Section 114 - Transportation Security Administration"
 usc_title: 49
 usc_section: "114"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "49 U.S.C. § 114"
-generated_at: "2026-03-30T05:54:48.257Z"
+generated_at: "2026-03-30T05:56:29.526Z"
 status: "active"
 ---
 
@@ -142,7 +142,7 @@ status: "active"
   - **(7)** The Secretary of Homeland Security shall make available and appropriately publicize an unclassified version of the National Strategy for Transportation Security, including its component transportation modal security plans, to Federal, State, regional, local and tribal authorities, transportation system owners or operators, private sector stakeholders, including nonprofit employee labor organizations representing transportation employees, institutions of higher learning, and other appropriate entities.
 - **(u)**
   - **(1)** In this subsection:
-    - **(A)** The term “appropriate congressional committees” has the meaning given that term in subsection (t). 3 3 So in original. Probably should be “subsection (s).”.
+    - **(A)** The term “appropriate congressional committees” has the meaning given that term in subsection (s)(4)(E).
     - **(B)** The term “Plan” means the Transportation Security Information Sharing Plan established under paragraph (2).
     - **(C)** The term “public and private stakeholders” means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
     - **(D)** The term “Secretary” means the Secretary of Homeland Security.
@@ -160,12 +160,8 @@ status: "active"
   - **(6)**
     - **(A)** Not later than 150 days after the date of enactment of this subsection, and annually thereafter, the Secretary shall submit to the appropriate congressional committees, a report containing the Plan.
     - **(B)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall submit to the appropriate congressional committees a report on updates to and the implementation of the Plan.
-  - **(7)**
-    - **(A)** The Comptroller General of the United States shall conduct a biennial survey of the satisfaction of recipients of transportation intelligence reports disseminated under the Plan.
-    - **(B)** The survey conducted under subparagraph (A) shall seek information about the quality, speed, regularity, and classification of the transportation security information products disseminated by the Department of Homeland Security to public and private stakeholders.
-    - **(C)** Not later than 1 year after the date of the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, and every even numbered year thereafter, the Comptroller General shall submit to the appropriate congressional committees, a report on the results of the survey conducted under subparagraph (A). The Comptroller General shall also provide a copy of the report to the Secretary.
-  - **(8)** The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
-  - **(9)** The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
+  - **(7)** The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
+  - **(8)** The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
 - **(v)**
   - **(1)**
     - **(A)** This subsection applies to the enforcement of regulations prescribed, and orders issued, by the Secretary of Homeland Security under a provision of chapter 701 of title 46 and under a provision of this title other than a provision of chapter 449 (in this subsection referred to as an “applicable provision of this title”).

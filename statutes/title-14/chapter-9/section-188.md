@@ -3,9 +3,9 @@ title: "Section 188 - Appointment of permanent commissioned teaching staff"
 usc_title: 14
 usc_section: "188"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "14 U.S.C. § 188"
-generated_at: "2026-03-30T05:52:49.221Z"
+generated_at: "2026-03-30T05:55:22.796Z"
 status: "active"
 ---
 

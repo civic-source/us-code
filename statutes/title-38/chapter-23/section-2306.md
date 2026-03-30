@@ -3,9 +3,9 @@ title: "Section 2306 - Headstones, markers, and burial receptacles"
 usc_title: 38
 usc_section: "2306"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "38 U.S.C. § 2306"
-generated_at: "2026-03-30T05:54:20.206Z"
+generated_at: "2026-03-30T05:56:09.488Z"
 status: "active"
 ---
 
@@ -39,7 +39,19 @@ status: "active"
   - **(1)** The Secretary shall furnish, when requested, an appropriate Government headstone or marker at the expense of the United States for the grave of an individual described in paragraph (2) or (5) of subsection (a) who is buried in a private cemetery, notwithstanding that the grave is marked by a headstone or marker furnished at private expense. Such a headstone or marker may be furnished only if the individual making the request for the Government headstone or marker certifies to the Secretary that the headstone or marker will be placed on the grave for which the headstone or marker is requested, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located.
   - **(2)** Any headstone or marker furnished under this subsection shall be delivered by the Secretary directly to the cemetery where the grave is located or to a receiving agent for delivery to the cemetery.
   - **(3)** The headstone or marker furnished under this subsection shall be the headstone or marker selected by the individual making the request from among all the headstones and markers made available by the Government for selection.
-  - **(4)** In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased’s status as a veteran, to be attached to a headstone or marker furnished at private expense.
+  - **(4)**
+    - **(A)** In lieu of furnishing a headstone or marker under this subsection to a deceased individual described in subparagraph (B), the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased individual’s status as a veteran, to be attached to a headstone or marker furnished at private expense.
+    - **(B)** A deceased individual described in this subsection is an individual who—
+      - **(i)** served in the Armed Forces on or after April 6, 1917 ; and
+      - **(ii)** is eligible for a headstone or marker furnished under paragraph (1) (or would be so eligible but for the date of the death of the individual).
+  - **(5)**
+    - **(A)** In carrying out this subsection with respect to a deceased individual described in subparagraph (C), the Secretary shall furnish, upon request, a headstone or marker under paragraph (1) or a medallion under paragraph (4) that signifies the deceased’s status as a medal of honor recipient.
+    - **(B)** If the Secretary furnished a headstone, marker, or medallion under paragraph (1) or (4) for a deceased individual described in subparagraph (C) that does not signify the deceased’s status as a medal of honor recipient, the Secretary shall, upon request, replace such headstone, marker, or medallion with a headstone, marker, or medallion, as the case may be, that so signifies the deceased’s status as a medal of honor recipient.
+    - **(C)** A deceased individual described in this subparagraph is a deceased individual who—
+      - **(i)** served in the Armed Forces on or after April 6, 1917 ;
+      - **(ii)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+      - **(iii)** was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14 (including posthumously).
+    - **(D)** In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14 .
 - **(e)**
   - **(1)** The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
   - **(2)** The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in the Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs or Secretary of the Army, respectively.
@@ -49,9 +61,9 @@ status: "active"
       - **(i)** to pay the amount by which the cost of the outer burial receptacle exceeds the cost of the grave liner that would otherwise have been provided in the absence of the election; and
       - **(ii)** to pay the amount of the administrative costs incurred by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army) in providing the outer burial receptacle in lieu of such grave liner.
   - **(4)** Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
-- **(f)** The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial in a national cemetery of a deceased veteran in any case in which the Secretary—
+- **(f)** The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title in any case in which the Secretary—
   - **(1)** is unable to identify the veteran’s next of kin, if any; and
-  - **(2)** determines that sufficient resources for the furnishing of a casket or urn for the burial of the veteran in a national cemetery are not otherwise available.
+  - **(2)** determines that sufficient resources for the furnishing of a casket or urn for such burial are not otherwise available.
 - **(g)**
   - **(1)** When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
   - **(2)** When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, or air service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.

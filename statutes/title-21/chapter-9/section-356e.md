@@ -3,9 +3,9 @@ title: "Section 356e - Drug shortage list"
 usc_title: 21
 usc_section: "356e"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "21 U.S.C. § 356e"
-generated_at: "2026-03-30T05:53:21.580Z"
+generated_at: "2026-03-30T05:55:48.544Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** Regulatory delay.
     - **(C)** Shortage of an active ingredient.
     - **(D)** Shortage of an inactive ingredient component.
-    - **(E)** Discontinuation of the manufacture of the drug.
+    - **(E)** Discontinuance of the manufacture of the drug.
     - **(F)** Delay in shipping of the drug.
     - **(G)** Demand increase for the drug.
   - **(4)** The estimated duration of the shortage as determined by the Secretary.

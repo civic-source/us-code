@@ -1,22 +1,21 @@
 ---
-title: "Section 3070 - Army Medical Specialist Corps: organization; Chief and assistant chiefs"
+title: "Section 3070 - Army Medical Specialist Corps: organization; Chief"
 usc_title: 10
 usc_section: "3070"
 chapter: 307
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 3070"
-generated_at: "2026-03-30T05:52:47.208Z"
+generated_at: "2026-03-30T05:55:13.329Z"
 status: "active"
 ---
 
-# § 3070. Army Medical Specialist Corps: organization; Chief and assistant chiefs
+# § 3070. Army Medical Specialist Corps: organization; Chief
 
-- **(a)** The Army Medical Specialist Corps consists of the Chief and assistant chiefs of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
+- **(a)** The Army Medical Specialist Corps consists of the Chief of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
   - **(1)** The Dietitian Section.
   - **(2)** The Physical Therapist Section.
   - **(3)** The Occupational Therapist Section.
   - **(4)** The Physician Assistant Section.
   - **(5)** The Chiropractic Section.
 - **(b)** The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above captain and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed.
-- **(c)** The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.
-- **(d)** Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
+- **(c)** Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.

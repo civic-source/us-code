@@ -3,9 +3,9 @@ title: "Section 240112 - Annual report"
 usc_title: 36
 usc_section: "240112"
 chapter: 2401
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "36 U.S.C. § 240112"
-generated_at: "2026-03-30T05:54:01.336Z"
+generated_at: "2026-03-30T05:56:08.259Z"
 status: "active"
 ---
 

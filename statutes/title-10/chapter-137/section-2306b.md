@@ -3,9 +3,9 @@ title: "Section 2306b - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "2306b"
 chapter: 137
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2306b"
-generated_at: "2026-03-30T05:52:47.178Z"
+generated_at: "2026-03-30T05:55:13.297Z"
 status: "active"
 ---
 
@@ -49,10 +49,10 @@ status: "active"
   - **(1)** In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
   - **(2)** In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
     - **(A)** A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
-    - **(B)** Confirmation that the preliminary findings of the agency head under subparagraph (A) were made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Evaluation for the purpose of section 2334(e)(1) of this title , and that the analysis supports those preliminary findings.
+    - **(B)** Confirmation that the preliminary findings of the agency head under subparagraph (A) were made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Evaluation for the purpose of section 2334(e)(1) 1 1 See References in Text note below. of this title, and that the analysis supports those preliminary findings.
   - **(3)** A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
     - **(A)** The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
-    - **(B)** The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 2334(e)(2) of this title , and the analysis supports the determination.
+    - **(B)** The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 2334(e)(2) 1 of this title, and the analysis supports the determination.
     - **(C)** The system being acquired pursuant to such contract has not been determined to have experienced cost growth in excess of the critical cost growth threshold pursuant to section 2433(d) of this title within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
     - **(D)** A sufficient number of end items of the system being acquired under such contract have been delivered at or within the most current estimates of the program acquisition unit cost or procurement unit cost for such system to determine that current estimates of such unit costs are realistic.
     - **(E)** During the fiscal year in which such contract is to be awarded, sufficient funds will be available to perform the contract in such fiscal year, and the future-years defense program for such fiscal year will include the funding required to execute the program without cancellation.

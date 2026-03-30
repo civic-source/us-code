@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 12
 usc_section: "5"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T05:52:55.807Z"
+generated_at: "2026-03-30T05:55:26.996Z"
 status: "active"
 ---
 

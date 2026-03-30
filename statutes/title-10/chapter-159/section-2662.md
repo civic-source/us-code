@@ -3,9 +3,9 @@ title: "Section 2662 - Real property transactions: reports to congressional comm
 usc_title: 10
 usc_section: "2662"
 chapter: 159
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2662"
-generated_at: "2026-03-30T05:52:47.197Z"
+generated_at: "2026-03-30T05:55:13.318Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
     - **(A)** A declaration of war.
     - **(B)** A declaration of a national emergency by the President pursuant to the National Emergencies Act ( 50 U.S.C. 1601 et seq.).
     - **(C)** A declaration of an emergency or major disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
-    - **(D)** The use of the militia or the armed forces after a proclamation to disperse under section 334 of this title .
+    - **(D)** The use of the militia or the armed forces after a proclamation to disperse under section 334 of this title . 1 1 See References in Text note below.
     - **(E)** A contingency operation.
   - **(2)** The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection if the Secretary concerned determines that—
     - **(A)** an event listed in paragraph (1) is imminent; and

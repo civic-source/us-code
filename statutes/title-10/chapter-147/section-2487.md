@@ -3,9 +3,9 @@ title: "Section 2487 - Relationship between defense commissary system and exchan
 usc_title: 10
 usc_section: "2487"
 chapter: 147
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "10 U.S.C. § 2487"
-generated_at: "2026-03-30T05:52:47.191Z"
+generated_at: "2026-03-30T05:55:13.312Z"
 status: "active"
 ---
 
@@ -19,4 +19,14 @@ status: "active"
 - **(b)**
   - **(1)** The operation and administration of the defense retail systems may not be consolidated or otherwise merged unless the consolidation or merger is specifically authorized by an Act of Congress.
   - **(2)** In this subsection, the term “defense retail systems” means the defense commissary system and exchange stores system and other revenue-generating facilities operated by nonappropriated fund instrumentalities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
-- **(c)** To facilitate the provision of in-store credit to patrons of the exchange stores system while reducing the costs of providing such credit, the Army and Air Force Exchange Service, Navy Exchange Service Command, and Marine Corps exchanges may issue and sell their obligations to the Federal Financing Bank as provided in section 6 of the Federal Financing Bank Act of 1973 ( 12 U.S.C. 2285 ).
+- **(c)**
+  - **(1)** Notwithstanding subsections (a) and (b), the Secretary of Defense may establish common business processes, practices, and systems—
+    - **(A)** to exploit synergies between the defense commissary system and the exchange system; and
+    - **(B)** to optimize the operations of the defense retail systems as a whole and the benefits provided by the commissaries and exchanges.
+  - **(2)** The Secretary may authorize the defense commissary system and the exchange system to enter into contracts or other agreements—
+    - **(A)** for products and services that are shared by the defense commissary system and the exchange system; and
+    - **(B)** for the acquisition of supplies, resale goods, and services on behalf of both the defense commissary system and the exchange system.
+  - **(3)** For the purpose of a contract or agreement authorized under paragraph (2), the Secretary may—
+    - **(A)** use funds appropriated pursuant to section 2483 of this title to reimburse a nonappropriated fund entity or instrumentality for the portion of the cost of a contract or agreement entered by the nonappropriated fund entity or instrumentality that is attributable to the defense commissary system; and
+    - **(B)** authorize the defense commissary system to accept reimbursement from a nonappropriated fund entity or instrumentality for the portion of the cost of a contract or agreement entered by the defense commissary system that is attributable to the nonappropriated fund entity or instrumentality.
+- **(d)** To facilitate the provision of in-store credit to patrons of the exchange stores system while reducing the costs of providing such credit, the Army and Air Force Exchange Service, Navy Exchange Service Command, and Marine Corps exchanges may issue and sell their obligations to the Federal Financing Bank as provided in section 6 of the Federal Financing Bank Act of 1973 ( 12 U.S.C. 2285 ).

@@ -3,9 +3,9 @@ title: "Section 733 - Citizens; former Spanish subjects and children; body polit
 usc_title: 48
 usc_section: "733"
 chapter: 4
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "48 U.S.C. § 733"
-generated_at: "2026-03-30T05:54:44.758Z"
+generated_at: "2026-03-30T05:56:26.033Z"
 status: "active"
 ---
 

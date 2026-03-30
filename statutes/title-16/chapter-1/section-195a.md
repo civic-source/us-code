@@ -3,9 +3,9 @@ title: "Section 195a - North St. Vrain Creek and adjacent lands"
 usc_title: 16
 usc_section: "195a"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "16 U.S.C. § 195a"
-generated_at: "2026-03-30T05:53:07.576Z"
+generated_at: "2026-03-30T05:55:38.055Z"
 status: "active"
 ---
 

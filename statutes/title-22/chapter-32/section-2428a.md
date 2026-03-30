@@ -3,9 +3,9 @@ title: "Section 2428a - Congressional declaration of policy toward Korea; transm
 usc_title: 22
 usc_section: "2428a"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "22 U.S.C. § 2428a"
-generated_at: "2026-03-30T05:53:23.546Z"
+generated_at: "2026-03-30T05:55:51.088Z"
 status: "active"
 ---
 

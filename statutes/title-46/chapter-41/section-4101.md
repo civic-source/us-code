@@ -3,9 +3,9 @@ title: "Section 4101 - Application"
 usc_title: 46
 usc_section: "4101"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "46 U.S.C. § 4101"
-generated_at: "2026-03-30T05:54:44.410Z"
+generated_at: "2026-03-30T05:56:26.693Z"
 status: "active"
 ---
 

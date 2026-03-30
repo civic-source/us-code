@@ -3,9 +3,9 @@ title: "Section 5142 - Repealed. Pub. L. 100–707, title I , § 105(a)(2), Nov.
 usc_title: 42
 usc_section: "5142"
 chapter: 68
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 5142"
-generated_at: "2026-03-30T05:54:40.459Z"
+generated_at: "2026-03-30T05:56:22.765Z"
 status: "repealed"
 ---
 

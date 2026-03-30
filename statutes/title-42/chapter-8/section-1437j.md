@@ -3,16 +3,16 @@ title: "Section 1437j - Labor standards and community service requirement"
 usc_title: 42
 usc_section: "1437j"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "42 U.S.C. § 1437j"
-generated_at: "2026-03-30T05:54:40.336Z"
+generated_at: "2026-03-30T05:56:22.640Z"
 status: "active"
 ---
 
 # § 1437j. Labor standards and community service requirement
 
 - **(a)** Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title , where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
-- **(b)** Subsection (a) of this section and the provisions relating to wages (pursuant to subsection (a) of this section) in any contract for loans, annual contributions, sale, or lease pursuant to this chapter, shall not apply to any individual that—
+- **(b)** Subsection (a) and the provisions relating to wages (pursuant to subsection (a)) in any contract for loans, annual contributions, sale, or lease pursuant to this chapter, shall not apply to any individual that—
   - **(1)** performs services for which the individual volunteered;
   - **(2)**
     - **(A)** does not receive compensation for such services; or
@@ -21,7 +21,7 @@ status: "active"
 - **(c)**
   - **(1)** Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
     - **(A)** contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
-    - **(B)** participate in an economic self-sufficiency program (as that term is defined in subsection (g) of this section) for 8 hours per month.
+    - **(B)** participate in an economic self-sufficiency program (as that term is defined in subsection (g)) for 8 hours per month.
   - **(2)** The Secretary shall provide an exemption from the applicability of paragraph (1) for any individual who—
     - **(A)** is 62 years of age or older;
     - **(B)** is a blind or disabled individual, as defined under section 216(i)(1) or 1614 of the Social Security Act ( 42 U.S.C. 416(i)(1) ; 1382c), and who is unable to comply with this section, or is a primary caretaker of such individual;
@@ -54,9 +54,9 @@ status: "active"
   - **(5)** This subsection may not be construed to authorize any public housing agency to establish any time limit on tenancy in a public housing dwelling unit or on receipt of tenant-based assistance under section 1437f of this title .
   - **(6)** Any covered family residing in public housing that is affected by the operation of this subsection shall have the right to review the determination under this subsection through the administrative grievance procedure established pursuant to section 1437d(k) of this title for the public housing agency.
   - **(7)**
-    - **(A)** A public housing agency providing public housing dwelling units or tenant-based assistance under section 1437f of this title for covered families shall make its best efforts to enter into such cooperation agreements, with State, local, and other agencies providing assistance to covered families under welfare or public assistance programs, as may be necessary, to provide for such agencies to transfer information to facilitate administration of subsection (c) of this section and paragraphs (2), (3), and (4) of this subsection and other information regarding rents, income, and assistance that may assist a public housing agency or welfare or public assistance agency in carrying out its functions.
+    - **(A)** A public housing agency providing public housing dwelling units or tenant-based assistance under section 1437f of this title for covered families shall make its best efforts to enter into such cooperation agreements, with State, local, and other agencies providing assistance to covered families under welfare or public assistance programs, as may be necessary, to provide for such agencies to transfer information to facilitate administration of subsection (c) and paragraphs (2), (3), and (4) of this subsection and other information regarding rents, income, and assistance that may assist a public housing agency or welfare or public assistance agency in carrying out its functions.
     - **(B)** A public housing agency shall seek to include in a cooperation agreement under this paragraph requirements and provisions designed to target assistance under welfare and public assistance programs to families residing in public housing projects and families receiving tenant-based assistance under section 1437f of this title , which may include providing for economic self-sufficiency services within such housing, providing for services designed to meet the unique employment-related needs of residents of such housing and recipients of such assistance, providing for placement of workfare positions on-site in such housing, and such other elements as may be appropriate.
     - **(C)** This paragraph may not be construed to authorize any release of information prohibited by, or in contravention of, any other provision of Federal, State, or local law.
-- **(e)** A public housing agency shall incorporate into leases under section 1437d( l ) of this title and into agreements for the provision of tenant-based assistance under section 1437f of this title , provisions incorporating the conditions under subsection (d) of this section.
+- **(e)** A public housing agency shall incorporate into leases under section 1437d( l ) of this title and into agreements for the provision of tenant-based assistance under section 1437f of this title , provisions incorporating the conditions under subsection (d).
 - **(f)** Notwithstanding any other provision of this section, in determining the income of a family who resides in public housing or receives tenant-based assistance under section 1437f of this title , a public housing agency shall consider any decrease in the income of a family that results from the reduction of any welfare or public assistance benefits received by the family under any Federal, State, or local law regarding a program for such assistance if the family (or a member thereof, as applicable) has complied with the conditions for receiving such assistance and is unable to obtain employment notwithstanding such compliance.
 - **(g)** For purposes of this section, the term “economic self-sufficiency program” means any program designed to encourage, assist, train, or facilitate the economic independence of participants and their families or to provide work for participants, including programs for job training, employment counseling, work placement, basic skills training, education, workfare, financial or household management, apprenticeship, or other activities as the Secretary may provide.

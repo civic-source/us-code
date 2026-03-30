@@ -3,9 +3,9 @@ title: "Section 453 - Allowable travel and transportation: specific authorities"
 usc_title: 37
 usc_section: "453"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 115-8"
 classification: "37 U.S.C. § 453"
-generated_at: "2026-03-30T05:54:10.347Z"
+generated_at: "2026-03-30T05:56:07.668Z"
 status: "active"
 ---
 
@@ -25,4 +25,3 @@ status: "active"
   - **(2)** A member who is retired with pay under any other law or who, immediately following at least eight years of continuous active duty with no single break therein of more than 90 days, is discharged with separation pay or is involuntarily released from active duty with separation pay or readjustment pay.
   - **(3)** A member who is discharged under section 1173 of title 10 .
 - **(f)** A family member or member of the uniformed services who attends a deceased member’s repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under section 464 of this title .
-- **(g)** A member may be reimbursed as specified in regulations prescribed under section 464 of this title for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.
