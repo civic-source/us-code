@@ -3,9 +3,9 @@ title: "Section 1 - Authorization for appropriations to increase domestic consum
 usc_title: 7
 usc_section: "1"
 chapter: 26
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T01:01:59.160Z"
+generated_at: "2026-03-30T01:09:47.586Z"
 ---
 
 # § 612c–1. Authorization for appropriations to increase domestic consumption of surplus farm commodities

@@ -3,9 +3,9 @@ title: "Section 32 - Suspension or exclusion from practice"
 usc_title: 35
 usc_section: "32"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "35 U.S.C. § 32"
-generated_at: "2026-03-30T01:04:55.919Z"
+generated_at: "2026-03-30T01:11:42.110Z"
 ---
 
 # § 32. Suspension or exclusion from practice

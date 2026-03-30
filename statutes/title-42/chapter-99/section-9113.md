@@ -3,9 +3,9 @@ title: "Section 9113 - Protection of submarine electric transmission cables and 
 usc_title: 42
 usc_section: "9113"
 chapter: 99
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 9113"
-generated_at: "2026-03-30T01:05:41.380Z"
+generated_at: "2026-03-30T01:12:43.416Z"
 ---
 
 # § 9113. Protection of submarine electric transmission cables and equipment

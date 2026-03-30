@@ -3,9 +3,9 @@ title: "Section 40303 - National space grant college and fellowship program"
 usc_title: 51
 usc_section: "40303"
 chapter: 403
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "51 U.S.C. § 40303"
-generated_at: "2026-03-30T01:06:43.500Z"
+generated_at: "2026-03-30T01:13:21.931Z"
 ---
 
 # § 40303. National space grant college and fellowship program

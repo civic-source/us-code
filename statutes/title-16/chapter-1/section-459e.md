@@ -3,9 +3,9 @@ title: "Section 459e - Fire Island National Seashore"
 usc_title: 16
 usc_section: "459e"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 459e"
-generated_at: "2026-03-30T01:03:37.321Z"
+generated_at: "2026-03-30T01:10:36.901Z"
 ---
 
 # § 459e. Fire Island National Seashore

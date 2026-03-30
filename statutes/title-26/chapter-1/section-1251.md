@@ -3,9 +3,9 @@ title: "Section 1251 - Repealed. Pub. L. 98–369, div. A, title IV, § 492(a) ,
 usc_title: 26
 usc_section: "1251"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 1251"
-generated_at: "2026-03-30T01:04:51.528Z"
+generated_at: "2026-03-30T01:11:37.930Z"
 ---
 
 # [§ 1251. Repealed. Pub. L. 98–369, div. A, title IV, § 492(a) , July 18, 1984 , 98 Stat. 853 ]

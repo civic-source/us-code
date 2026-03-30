@@ -3,9 +3,9 @@ title: "Section 5324 - Pay of clerical assistants as affected by death or resign
 usc_title: 2
 usc_section: "5324"
 chapter: 53
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "2 U.S.C. § 5324"
-generated_at: "2026-03-30T01:00:36.185Z"
+generated_at: "2026-03-30T01:09:17.815Z"
 ---
 
 # § 5324. Pay of clerical assistants as affected by death or resignation of Member of House

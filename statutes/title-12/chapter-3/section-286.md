@@ -3,9 +3,9 @@ title: "Section 286 - Transfers of stock; rules and regulations"
 usc_title: 12
 usc_section: "286"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 286"
-generated_at: "2026-03-30T01:02:17.020Z"
+generated_at: "2026-03-30T01:10:24.197Z"
 ---
 
 # § 286. Transfers of stock; rules and regulations

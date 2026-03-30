@@ -3,9 +3,9 @@ title: "Section 804 - Institution of proceedings"
 usc_title: 17
 usc_section: "804"
 chapter: 8
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "17 U.S.C. § 804"
-generated_at: "2026-03-30T01:02:42.529Z"
+generated_at: "2026-03-30T01:10:29.802Z"
 ---
 
 # § 804. Institution of proceedings

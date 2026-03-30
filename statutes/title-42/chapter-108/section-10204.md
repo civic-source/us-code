@@ -3,9 +3,9 @@ title: "Section 10204 - Subseabed disposal"
 usc_title: 42
 usc_section: "10204"
 chapter: 108
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 10204"
-generated_at: "2026-03-30T01:05:41.425Z"
+generated_at: "2026-03-30T01:12:43.460Z"
 ---
 
 # § 10204. Subseabed disposal

@@ -3,9 +3,9 @@ title: "Section 606 - State and local permits"
 usc_title: 23
 usc_section: "606"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "23 U.S.C. § 606"
-generated_at: "2026-03-30T01:04:01.848Z"
+generated_at: "2026-03-30T01:11:21.575Z"
 ---
 
 # § 606. State and local permits

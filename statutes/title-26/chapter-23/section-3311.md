@@ -3,9 +3,9 @@ title: "Section 3311 - Short title"
 usc_title: 26
 usc_section: "3311"
 chapter: 23
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 3311"
-generated_at: "2026-03-30T01:04:51.568Z"
+generated_at: "2026-03-30T01:11:37.966Z"
 ---
 
 # § 3311. Short title

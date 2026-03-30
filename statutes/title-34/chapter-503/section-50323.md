@@ -3,9 +3,9 @@ title: "Section 50323 - State and Local Law Enforcement Congressional Badge of B
 usc_title: 34
 usc_section: "50323"
 chapter: 503
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 50323"
-generated_at: "2026-03-30T01:05:00.144Z"
+generated_at: "2026-03-30T01:11:43.104Z"
 ---
 
 # § 50323. State and Local Law Enforcement Congressional Badge of Bravery Board

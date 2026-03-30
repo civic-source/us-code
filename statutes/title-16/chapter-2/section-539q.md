@@ -3,9 +3,9 @@ title: "Section 539q - Hermosa Creek watershed protection"
 usc_title: 16
 usc_section: "539q"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 539q"
-generated_at: "2026-03-30T01:03:37.383Z"
+generated_at: "2026-03-30T01:10:36.962Z"
 ---
 
 # § 539q. Hermosa Creek watershed protection

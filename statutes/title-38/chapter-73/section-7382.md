@@ -3,9 +3,9 @@ title: "Section 7382 - Research personnel"
 usc_title: 38
 usc_section: "7382"
 chapter: 73
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "38 U.S.C. § 7382"
-generated_at: "2026-03-30T01:05:11.449Z"
+generated_at: "2026-03-30T01:11:54.401Z"
 ---
 
 # § 7382. Research personnel

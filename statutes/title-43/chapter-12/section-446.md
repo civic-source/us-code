@@ -3,9 +3,9 @@ title: "Section 446 - Right to make entry on relinquishment of former entry unde
 usc_title: 43
 usc_section: "446"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 446"
-generated_at: "2026-03-30T01:05:16.003Z"
+generated_at: "2026-03-30T01:12:04.157Z"
 ---
 
 # § 446. Right to make entry on relinquishment of former entry under land laws

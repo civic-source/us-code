@@ -3,9 +3,9 @@ title: "Section 4319 - Employment and reemployment rights in foreign countries"
 usc_title: 38
 usc_section: "4319"
 chapter: 43
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "38 U.S.C. § 4319"
-generated_at: "2026-03-30T01:05:11.429Z"
+generated_at: "2026-03-30T01:11:54.384Z"
 ---
 
 # § 4319. Employment and reemployment rights in foreign countries

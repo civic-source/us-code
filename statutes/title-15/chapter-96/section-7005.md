@@ -3,9 +3,9 @@ title: "Section 7005 - Studies"
 usc_title: 15
 usc_section: "7005"
 chapter: 96
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 7005"
-generated_at: "2026-03-30T01:02:38.504Z"
+generated_at: "2026-03-30T01:10:09.462Z"
 ---
 
 # § 7005. Studies

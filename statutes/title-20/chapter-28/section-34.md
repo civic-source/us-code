@@ -3,9 +3,9 @@ title: "Section 34 - Allocation among States"
 usc_title: 20
 usc_section: "34"
 chapter: 28
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "20 U.S.C. § 34"
-generated_at: "2026-03-30T01:02:54.501Z"
+generated_at: "2026-03-30T01:10:32.876Z"
 ---
 
 # § 1070d–34. Allocation among States

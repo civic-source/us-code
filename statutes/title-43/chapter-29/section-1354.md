@@ -3,9 +3,9 @@ title: "Section 1354 - Limitations on export of oil or gas"
 usc_title: 43
 usc_section: "1354"
 chapter: 29
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 1354"
-generated_at: "2026-03-30T01:05:16.035Z"
+generated_at: "2026-03-30T01:12:04.201Z"
 ---
 
 # § 1354. Limitations on export of oil or gas

@@ -3,9 +3,9 @@ title: "Section 4309a - United States responsibilities for employees of the Unit
 usc_title: 22
 usc_section: "4309a"
 chapter: 53
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 4309a"
-generated_at: "2026-03-30T01:04:13.351Z"
+generated_at: "2026-03-30T01:11:13.533Z"
 ---
 
 # § 4309a. United States responsibilities for employees of the United Nations

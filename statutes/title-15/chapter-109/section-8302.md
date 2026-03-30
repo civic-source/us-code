@@ -3,9 +3,9 @@ title: "Section 8302 - Review of regulatory authority"
 usc_title: 15
 usc_section: "8302"
 chapter: 109
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 8302"
-generated_at: "2026-03-30T01:02:38.518Z"
+generated_at: "2026-03-30T01:10:09.478Z"
 ---
 
 # § 8302. Review of regulatory authority

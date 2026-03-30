@@ -3,9 +3,9 @@ title: "Section 1479 - General powers of Secretary"
 usc_title: 42
 usc_section: "1479"
 chapter: 8
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1479"
-generated_at: "2026-03-30T01:05:41.063Z"
+generated_at: "2026-03-30T01:12:43.106Z"
 ---
 
 # § 1479. General powers of Secretary

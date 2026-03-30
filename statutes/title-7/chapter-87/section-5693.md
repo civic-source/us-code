@@ -3,9 +3,9 @@ title: "Section 5693 - Duties of Foreign Agricultural Service"
 usc_title: 7
 usc_section: "5693"
 chapter: 87
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 5693"
-generated_at: "2026-03-30T01:01:59.302Z"
+generated_at: "2026-03-30T01:09:47.725Z"
 ---
 
 # § 5693. Duties of Foreign Agricultural Service

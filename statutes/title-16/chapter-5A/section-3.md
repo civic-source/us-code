@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations for mitigating losses caused
 usc_title: 16
 usc_section: "3"
 chapter: 5
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T01:03:37.405Z"
+generated_at: "2026-03-30T01:10:36.984Z"
 ---
 
 # § 667f–3. Authorization of appropriations for mitigating losses caused by waterfowl depredation

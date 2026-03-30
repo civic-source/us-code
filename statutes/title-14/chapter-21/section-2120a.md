@@ -3,9 +3,9 @@ title: "Section 2120a - Special selection review boards"
 usc_title: 14
 usc_section: "2120a"
 chapter: 21
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "14 U.S.C. § 2120a"
-generated_at: "2026-03-30T01:02:26.326Z"
+generated_at: "2026-03-30T01:10:03.453Z"
 ---
 
 # § 2120a. Special selection review boards

@@ -3,9 +3,9 @@ title: "Section 12a - Ukraine debt payment relief"
 usc_title: 22
 usc_section: "12a"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 12a"
-generated_at: "2026-03-30T01:04:13.214Z"
+generated_at: "2026-03-30T01:11:13.407Z"
 ---
 
 # § 262p–12a. Ukraine debt payment relief

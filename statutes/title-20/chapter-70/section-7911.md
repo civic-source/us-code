@@ -3,9 +3,9 @@ title: "Section 7911 - Prohibition on nationwide database"
 usc_title: 20
 usc_section: "7911"
 chapter: 70
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "20 U.S.C. § 7911"
-generated_at: "2026-03-30T01:02:54.641Z"
+generated_at: "2026-03-30T01:10:33.027Z"
 ---
 
 # § 7911. Prohibition on nationwide database

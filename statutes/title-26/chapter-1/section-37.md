@@ -3,9 +3,9 @@ title: "Section 37 - Overpayments of tax"
 usc_title: 26
 usc_section: "37"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 37"
-generated_at: "2026-03-30T01:04:51.321Z"
+generated_at: "2026-03-30T01:11:37.744Z"
 ---
 
 # § 37. Overpayments of tax

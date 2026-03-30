@@ -3,9 +3,9 @@ title: "Section 681 - Limitation on charitable deduction"
 usc_title: 26
 usc_section: "681"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 681"
-generated_at: "2026-03-30T01:04:51.482Z"
+generated_at: "2026-03-30T01:11:37.888Z"
 ---
 
 # § 681. Limitation on charitable deduction

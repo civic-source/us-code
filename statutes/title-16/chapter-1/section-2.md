@@ -3,9 +3,9 @@ title: "Section 2 - Management plan"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T01:03:37.365Z"
+generated_at: "2026-03-30T01:10:36.947Z"
 ---
 
 # § 460ffff–2. Management plan

@@ -3,9 +3,9 @@ title: "Section 6 - Designation of customs officers for foreign service; status;
 usc_title: 19
 usc_section: "6"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "19 U.S.C. § 6"
-generated_at: "2026-03-30T01:02:51.809Z"
+generated_at: "2026-03-30T01:10:52.647Z"
 ---
 
 # § 6. Designation of customs officers for foreign service; status; rejection of designated customs officer; applicability of civil service laws

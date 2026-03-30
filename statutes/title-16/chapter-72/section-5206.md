@@ -3,9 +3,9 @@ title: "Section 5206 - Rule of construction"
 usc_title: 16
 usc_section: "5206"
 chapter: 72
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 5206"
-generated_at: "2026-03-30T01:03:37.592Z"
+generated_at: "2026-03-30T01:10:37.145Z"
 ---
 
 # § 5206. Rule of construction

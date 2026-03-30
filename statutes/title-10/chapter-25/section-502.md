@@ -3,9 +3,9 @@ title: "Section 502 - Annual report on electromagnetic spectrum operations strat
 usc_title: 10
 usc_section: "502"
 chapter: 25
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 502"
-generated_at: "2026-03-30T01:02:06.024Z"
+generated_at: "2026-03-30T01:10:00.548Z"
 ---
 
 # § 502. 1 1 Another section 502 is set out in chapter 31 of this title. Annual report on electromagnetic spectrum operations strategy of the Department of Defense

@@ -3,9 +3,9 @@ title: "Section 18912 - Research security"
 usc_title: 42
 usc_section: "18912"
 chapter: 163
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 18912"
-generated_at: "2026-03-30T01:05:41.612Z"
+generated_at: "2026-03-30T01:12:43.639Z"
 ---
 
 # § 18912. Research security

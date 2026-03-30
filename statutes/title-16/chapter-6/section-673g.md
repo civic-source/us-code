@@ -3,9 +3,9 @@ title: "Section 673g - Plan for elk restoration and conservation; coordination o
 usc_title: 16
 usc_section: "673g"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 673g"
-generated_at: "2026-03-30T01:03:37.414Z"
+generated_at: "2026-03-30T01:10:36.990Z"
 ---
 
 # § 673g. Plan for elk restoration and conservation; coordination of Secretary of the Interior with Federal, State and other officers; integration with State plans

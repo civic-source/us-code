@@ -3,9 +3,9 @@ title: "Section 3902 - Repealed. Pub. L. 107–171, title X, § 10418(a)(20) , M
 usc_title: 46
 usc_section: "3902"
 chapter: 39
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "46 U.S.C. § 3902"
-generated_at: "2026-03-30T01:06:18.943Z"
+generated_at: "2026-03-30T01:12:51.248Z"
 ---
 
 # [§§ 3901, 3902. Repealed. Pub. L. 107–171, title X, § 10418(a)(20) , May 13, 2002 , 116 Stat. 508 ]

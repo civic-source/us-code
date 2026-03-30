@@ -3,9 +3,9 @@ title: "Section 3531 - Sexual assault and sexual harassment within the Agency"
 usc_title: 50
 usc_section: "3531"
 chapter: 46
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3531"
-generated_at: "2026-03-30T01:06:06.820Z"
+generated_at: "2026-03-30T01:13:13.013Z"
 ---
 
 # § 3531. Sexual assault and sexual harassment within the Agency

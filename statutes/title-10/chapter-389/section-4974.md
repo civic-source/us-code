@@ -3,9 +3,9 @@ title: "Section 4974 - Fees charged and collected"
 usc_title: 10
 usc_section: "4974"
 chapter: 389
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4974"
-generated_at: "2026-03-30T01:02:06.181Z"
+generated_at: "2026-03-30T01:10:00.712Z"
 ---
 
 # § 4974. Fees charged and collected

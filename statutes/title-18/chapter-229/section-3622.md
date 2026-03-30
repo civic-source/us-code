@@ -3,9 +3,9 @@ title: "Section 3622 - Temporary release of a prisoner"
 usc_title: 18
 usc_section: "3622"
 chapter: 229
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3622"
-generated_at: "2026-03-30T01:02:49.052Z"
+generated_at: "2026-03-30T01:10:29.370Z"
 ---
 
 # § 3622. Temporary release of a prisoner

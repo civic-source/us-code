@@ -3,9 +3,9 @@ title: "Section 681a - Cyber incident review"
 usc_title: 6
 usc_section: "681a"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 681a"
-generated_at: "2026-03-30T01:01:07.268Z"
+generated_at: "2026-03-30T01:09:22.896Z"
 ---
 
 # § 681a. Cyber incident review

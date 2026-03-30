@@ -3,9 +3,9 @@ title: "Section 954 - Mixed-funded athletic and recreational extracurricular pro
 usc_title: 14
 usc_section: "954"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "14 U.S.C. § 954"
-generated_at: "2026-03-30T01:02:26.322Z"
+generated_at: "2026-03-30T01:10:03.447Z"
 ---
 
 # § 954. Mixed-funded athletic and recreational extracurricular programs

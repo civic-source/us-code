@@ -3,9 +3,9 @@ title: "Section 25 - Special use permits"
 usc_title: 16
 usc_section: "25"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 25"
-generated_at: "2026-03-30T01:03:37.358Z"
+generated_at: "2026-03-30T01:10:36.939Z"
 ---
 
 # § 460nnn–25. Special use permits

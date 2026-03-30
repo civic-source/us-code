@@ -3,9 +3,9 @@ title: "Section 656 - Support obligation as obligation to State; amount; dischar
 usc_title: 42
 usc_section: "656"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 656"
-generated_at: "2026-03-30T01:05:40.807Z"
+generated_at: "2026-03-30T01:12:42.866Z"
 ---
 
 # § 656. Support obligation as obligation to State; amount; discharge in bankruptcy

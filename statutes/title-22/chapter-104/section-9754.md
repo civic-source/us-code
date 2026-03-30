@@ -3,9 +3,9 @@ title: "Section 9754 - Restriction on export of covered articles and services to
 usc_title: 22
 usc_section: "9754"
 chapter: 104
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 9754"
-generated_at: "2026-03-30T01:04:13.432Z"
+generated_at: "2026-03-30T01:11:13.611Z"
 ---
 
 # § 9754. Restriction on export of covered articles and services to certain security forces of Venezuela

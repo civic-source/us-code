@@ -3,9 +3,9 @@ title: "Section 1701l - Limitation on interest rates of insured mortgages; terms
 usc_title: 12
 usc_section: "1701l"
 chapter: 13
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 1701l"
-generated_at: "2026-03-30T01:02:17.055Z"
+generated_at: "2026-03-30T01:10:24.240Z"
 ---
 
 # § 1701l. Limitation on interest rates of insured mortgages; terms of sales

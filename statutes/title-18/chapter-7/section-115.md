@@ -3,9 +3,9 @@ title: "Section 115 - Influencing, impeding, or retaliating against a Federal of
 usc_title: 18
 usc_section: "115"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 115"
-generated_at: "2026-03-30T01:02:48.968Z"
+generated_at: "2026-03-30T01:10:29.275Z"
 ---
 
 # § 115. Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member

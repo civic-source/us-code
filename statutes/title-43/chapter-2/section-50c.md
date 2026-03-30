@@ -3,9 +3,9 @@ title: "Section 50c - Payment of costs incidental to utilization of services of 
 usc_title: 43
 usc_section: "50c"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 50c"
-generated_at: "2026-03-30T01:05:15.984Z"
+generated_at: "2026-03-30T01:12:04.132Z"
 ---
 
 # § 50c. Payment of costs incidental to utilization of services of volunteers

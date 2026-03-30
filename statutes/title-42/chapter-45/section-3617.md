@@ -3,9 +3,9 @@ title: "Section 3617 - Interference, coercion, or intimidation"
 usc_title: 42
 usc_section: "3617"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 3617"
-generated_at: "2026-03-30T01:05:41.181Z"
+generated_at: "2026-03-30T01:12:43.225Z"
 ---
 
 # § 3617. Interference, coercion, or intimidation

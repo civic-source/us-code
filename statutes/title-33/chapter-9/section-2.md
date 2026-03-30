@@ -3,9 +3,9 @@ title: "Section 2 - Public awareness and outreach for dam safety"
 usc_title: 33
 usc_section: "2"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T01:04:57.276Z"
+generated_at: "2026-03-30T01:11:45.372Z"
 ---
 
 # § 467g–2. Public awareness and outreach for dam safety

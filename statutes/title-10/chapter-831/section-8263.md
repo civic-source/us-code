@@ -3,9 +3,9 @@ title: "Section 8263 - Emergency shore duty: advance of funds"
 usc_title: 10
 usc_section: "8263"
 chapter: 831
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8263"
-generated_at: "2026-03-30T01:02:06.195Z"
+generated_at: "2026-03-30T01:10:00.727Z"
 ---
 
 # § 8263. Emergency shore duty: advance of funds

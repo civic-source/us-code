@@ -3,9 +3,9 @@ title: "Section 290c - Advanced Research Projects Agency–Health"
 usc_title: 42
 usc_section: "290c"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 290c"
-generated_at: "2026-03-30T01:05:40.645Z"
+generated_at: "2026-03-30T01:12:42.706Z"
 ---
 
 # § 290c. Advanced Research Projects Agency–Health

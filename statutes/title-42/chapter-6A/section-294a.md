@@ -3,9 +3,9 @@ title: "Section 294a - Area health education centers"
 usc_title: 42
 usc_section: "294a"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 294a"
-generated_at: "2026-03-30T01:05:40.671Z"
+generated_at: "2026-03-30T01:12:42.732Z"
 ---
 
 # § 294a. Area health education centers

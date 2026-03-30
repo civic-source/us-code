@@ -3,9 +3,9 @@ title: "Section 402 - Contempts constituting crimes"
 usc_title: 18
 usc_section: "402"
 chapter: 21
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 402"
-generated_at: "2026-03-30T01:02:48.976Z"
+generated_at: "2026-03-30T01:10:29.284Z"
 ---
 
 # § 402. Contempts constituting crimes

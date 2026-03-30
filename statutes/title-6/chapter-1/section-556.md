@@ -3,9 +3,9 @@ title: "Section 556 - Incidental transfers"
 usc_title: 6
 usc_section: "556"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 556"
-generated_at: "2026-03-30T01:01:07.251Z"
+generated_at: "2026-03-30T01:09:22.881Z"
 ---
 
 # § 556. Incidental transfers

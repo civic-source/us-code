@@ -3,9 +3,9 @@ title: "Section 58 - Duty or liability of common carriers and rights of employee
 usc_title: 45
 usc_section: "58"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "45 U.S.C. § 58"
-generated_at: "2026-03-30T01:05:14.704Z"
+generated_at: "2026-03-30T01:12:02.568Z"
 ---
 
 # § 58. Duty or liability of common carriers and rights of employees under other acts not impaired

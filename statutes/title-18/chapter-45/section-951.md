@@ -3,9 +3,9 @@ title: "Section 951 - Agents of foreign governments"
 usc_title: 18
 usc_section: "951"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 951"
-generated_at: "2026-03-30T01:02:48.992Z"
+generated_at: "2026-03-30T01:10:29.302Z"
 ---
 
 # § 951. Agents of foreign governments

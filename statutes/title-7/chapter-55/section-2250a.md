@@ -3,9 +3,9 @@ title: "Section 2250a - Erection of buildings and other structures on non-Federa
 usc_title: 7
 usc_section: "2250a"
 chapter: 55
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 2250a"
-generated_at: "2026-03-30T01:01:59.262Z"
+generated_at: "2026-03-30T01:09:47.684Z"
 ---
 
 # § 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements

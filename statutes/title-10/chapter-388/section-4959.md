@@ -3,9 +3,9 @@ title: "Section 4959 - Advancing small business growth"
 usc_title: 10
 usc_section: "4959"
 chapter: 388
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4959"
-generated_at: "2026-03-30T01:02:06.181Z"
+generated_at: "2026-03-30T01:10:00.712Z"
 ---
 
 # § 4959. Advancing small business growth

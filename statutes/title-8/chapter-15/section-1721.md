@@ -3,9 +3,9 @@ title: "Section 1721 - Interim measures for access to and coordination of law en
 usc_title: 8
 usc_section: "1721"
 chapter: 15
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "8 U.S.C. § 1721"
-generated_at: "2026-03-30T01:01:08.219Z"
+generated_at: "2026-03-30T01:09:29.241Z"
 ---
 
 # § 1721. Interim measures for access to and coordination of law enforcement and other information

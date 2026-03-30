@@ -3,9 +3,9 @@ title: "Section 1831y - CRA sunshine requirements"
 usc_title: 12
 usc_section: "1831y"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 1831y"
-generated_at: "2026-03-30T01:02:17.140Z"
+generated_at: "2026-03-30T01:10:24.335Z"
 ---
 
 # § 1831y. CRA sunshine requirements

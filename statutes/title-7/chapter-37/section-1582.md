@@ -3,9 +3,9 @@ title: "Section 1582 - Procedure relating to importations; disposal of refuse; e
 usc_title: 7
 usc_section: "1582"
 chapter: 37
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1582"
-generated_at: "2026-03-30T01:01:59.198Z"
+generated_at: "2026-03-30T01:09:47.625Z"
 ---
 
 # § 1582. Procedure relating to importations; disposal of refuse; exceptions

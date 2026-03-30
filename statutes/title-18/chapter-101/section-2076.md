@@ -3,9 +3,9 @@ title: "Section 2076 - Clerk of United States District Court"
 usc_title: 18
 usc_section: "2076"
 chapter: 101
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 2076"
-generated_at: "2026-03-30T01:02:49.016Z"
+generated_at: "2026-03-30T01:10:29.330Z"
 ---
 
 # § 2076. Clerk of United States District Court

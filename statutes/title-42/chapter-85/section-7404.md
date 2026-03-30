@@ -3,9 +3,9 @@ title: "Section 7404 - Research relating to fuels and vehicles"
 usc_title: 42
 usc_section: "7404"
 chapter: 85
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 7404"
-generated_at: "2026-03-30T01:05:41.309Z"
+generated_at: "2026-03-30T01:12:43.349Z"
 ---
 
 # § 7404. Research relating to fuels and vehicles

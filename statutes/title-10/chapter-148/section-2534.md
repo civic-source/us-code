@@ -3,9 +3,9 @@ title: "Section 2534 - Renumbered § 4864]"
 usc_title: 10
 usc_section: "2534"
 chapter: 148
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 2534"
-generated_at: "2026-03-30T01:02:06.126Z"
+generated_at: "2026-03-30T01:10:00.653Z"
 ---
 
 # [§ 2534. Renumbered § 4864]

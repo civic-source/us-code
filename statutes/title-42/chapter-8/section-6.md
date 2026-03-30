@@ -3,9 +3,9 @@ title: "Section 6 - Training"
 usc_title: 42
 usc_section: "6"
 chapter: 8
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T01:05:41.059Z"
+generated_at: "2026-03-30T01:12:43.103Z"
 ---
 
 # § 1437bbb–6. Training

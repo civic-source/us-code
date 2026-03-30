@@ -3,9 +3,9 @@ title: "Section 18642 - Advanced scientific computing research"
 usc_title: 42
 usc_section: "18642"
 chapter: 161
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 18642"
-generated_at: "2026-03-30T01:05:41.597Z"
+generated_at: "2026-03-30T01:12:43.626Z"
 ---
 
 # § 18642. Advanced scientific computing research

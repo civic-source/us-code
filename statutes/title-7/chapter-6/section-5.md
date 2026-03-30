@@ -3,9 +3,9 @@ title: "Section 5 - Minimum requirements for training of maintenance applicators
 usc_title: 7
 usc_section: "5"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T01:01:59.125Z"
+generated_at: "2026-03-30T01:09:47.553Z"
 ---
 
 # § 136w–5. Minimum requirements for training of maintenance applicators and service technicians

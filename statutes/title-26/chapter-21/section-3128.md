@@ -3,9 +3,9 @@ title: "Section 3128 - Short title"
 usc_title: 26
 usc_section: "3128"
 chapter: 21
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 3128"
-generated_at: "2026-03-30T01:04:51.562Z"
+generated_at: "2026-03-30T01:11:37.961Z"
 ---
 
 # § 3128. Short title

@@ -3,9 +3,9 @@ title: "Section 7114 - Representation rights and duties"
 usc_title: 5
 usc_section: "7114"
 chapter: 71
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 7114"
-generated_at: "2026-03-30T01:01:03.937Z"
+generated_at: "2026-03-30T01:09:15.412Z"
 ---
 
 # § 7114. Representation rights and duties

@@ -3,9 +3,9 @@ title: "Section 1703 - Superintendent of Documents: assistants, blanks, printing
 usc_title: 44
 usc_section: "1703"
 chapter: 17
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "44 U.S.C. § 1703"
-generated_at: "2026-03-30T01:05:20.424Z"
+generated_at: "2026-03-30T01:12:08.466Z"
 ---
 
 # § 1703. Superintendent of Documents: assistants, blanks, printing and binding

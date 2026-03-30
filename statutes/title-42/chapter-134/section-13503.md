@@ -3,9 +3,9 @@ title: "Section 13503 - Supporting research and technical analysis"
 usc_title: 42
 usc_section: "13503"
 chapter: 134
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 13503"
-generated_at: "2026-03-30T01:05:41.504Z"
+generated_at: "2026-03-30T01:12:43.535Z"
 ---
 
 # § 13503. Supporting research and technical analysis

@@ -3,9 +3,9 @@ title: "Section 6693 - Failure to provide reports on certain tax-favored account
 usc_title: 26
 usc_section: "6693"
 chapter: 68
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 6693"
-generated_at: "2026-03-30T01:04:51.655Z"
+generated_at: "2026-03-30T01:11:38.044Z"
 ---
 
 # § 6693. Failure to provide reports on certain tax-favored accounts or annuities; penalties relating to designated nondeductible contributions

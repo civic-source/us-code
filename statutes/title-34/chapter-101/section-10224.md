@@ -3,9 +3,9 @@ title: "Section 10224 - Delegation of functions"
 usc_title: 34
 usc_section: "10224"
 chapter: 101
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 10224"
-generated_at: "2026-03-30T01:05:00.067Z"
+generated_at: "2026-03-30T01:11:43.038Z"
 ---
 
 # § 10224. Delegation of functions

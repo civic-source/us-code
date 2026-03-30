@@ -3,9 +3,9 @@ title: "Section 644 - Extraneous matter in reconciliation legislation"
 usc_title: 2
 usc_section: "644"
 chapter: 17
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "2 U.S.C. § 644"
-generated_at: "2026-03-30T01:00:36.142Z"
+generated_at: "2026-03-30T01:09:17.733Z"
 ---
 
 # § 644. Extraneous matter in reconciliation legislation

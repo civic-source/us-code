@@ -3,9 +3,9 @@ title: "Section 583 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(82) , Oc
 usc_title: 26
 usc_section: "583"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 583"
-generated_at: "2026-03-30T01:04:51.474Z"
+generated_at: "2026-03-30T01:11:37.882Z"
 ---
 
 # [§ 583. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(82) , Oct. 4, 1976 , 90 Stat. 1778 ]

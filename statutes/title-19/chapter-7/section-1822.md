@@ -3,9 +3,9 @@ title: "Section 1822 - Repealed. Pub. L. 93–618, title VI, § 602(d) , Jan. 3,
 usc_title: 19
 usc_section: "1822"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "19 U.S.C. § 1822"
-generated_at: "2026-03-30T01:02:51.852Z"
+generated_at: "2026-03-30T01:10:52.688Z"
 ---
 
 # § 1822. Repealed. Pub. L. 93–618, title VI, § 602(d) , Jan. 3, 1975 , 88 Stat. 2072

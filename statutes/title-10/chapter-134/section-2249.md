@@ -3,9 +3,9 @@ title: "Section 2249 - Renumbered § 4652]"
 usc_title: 10
 usc_section: "2249"
 chapter: 134
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 2249"
-generated_at: "2026-03-30T01:02:06.115Z"
+generated_at: "2026-03-30T01:10:00.641Z"
 ---
 
 # [§ 2249. Renumbered § 4652]

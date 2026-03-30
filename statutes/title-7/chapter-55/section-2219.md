@@ -3,9 +3,9 @@ title: "Section 2219 - Salaries; how paid"
 usc_title: 7
 usc_section: "2219"
 chapter: 55
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 2219"
-generated_at: "2026-03-30T01:01:59.260Z"
+generated_at: "2026-03-30T01:09:47.683Z"
 ---
 
 # § 2219. Salaries; how paid

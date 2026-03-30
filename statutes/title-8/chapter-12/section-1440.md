@@ -3,9 +3,9 @@ title: "Section 1440 - Naturalization through active-duty service in the Armed F
 usc_title: 8
 usc_section: "1440"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "8 U.S.C. § 1440"
-generated_at: "2026-03-30T01:01:08.210Z"
+generated_at: "2026-03-30T01:09:29.233Z"
 ---
 
 # § 1440. Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities, or other periods of military hostilities

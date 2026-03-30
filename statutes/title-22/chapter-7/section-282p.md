@@ -3,9 +3,9 @@ title: "Section 282p - Capital increases and amendment to the Articles of Agreem
 usc_title: 22
 usc_section: "282p"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 282p"
-generated_at: "2026-03-30T01:04:13.223Z"
+generated_at: "2026-03-30T01:11:13.414Z"
 ---
 
 # § 282p. Capital increases and amendment to the Articles of Agreement

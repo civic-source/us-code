@@ -3,9 +3,9 @@ title: "Section 7527A - Advance payment of child tax credit"
 usc_title: 26
 usc_section: "7527A"
 chapter: 77
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 7527A"
-generated_at: "2026-03-30T01:04:51.674Z"
+generated_at: "2026-03-30T01:11:38.061Z"
 ---
 
 # § 7527A. Advance payment of child tax credit

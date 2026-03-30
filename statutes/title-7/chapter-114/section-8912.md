@@ -3,9 +3,9 @@ title: "Section 8912 - Agricultural biosecurity communication center"
 usc_title: 7
 usc_section: "8912"
 chapter: 114
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 8912"
-generated_at: "2026-03-30T01:01:59.374Z"
+generated_at: "2026-03-30T01:09:47.796Z"
 ---
 
 # § 8912. Agricultural biosecurity communication center

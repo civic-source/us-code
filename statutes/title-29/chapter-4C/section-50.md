@@ -3,9 +3,9 @@ title: "Section 50 - Promotion of labor standards of apprenticeship"
 usc_title: 29
 usc_section: "50"
 chapter: 4
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "29 U.S.C. § 50"
-generated_at: "2026-03-30T01:04:23.697Z"
+generated_at: "2026-03-30T01:11:31.563Z"
 ---
 
 # § 50. Promotion of labor standards of apprenticeship

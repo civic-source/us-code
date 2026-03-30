@@ -3,9 +3,9 @@ title: "Section 1180 - Transferred"
 usc_title: 21
 usc_section: "1180"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "21 U.S.C. § 1180"
-generated_at: "2026-03-30T01:04:09.591Z"
+generated_at: "2026-03-30T01:11:04.873Z"
 ---
 
 # § 1180. Transferred

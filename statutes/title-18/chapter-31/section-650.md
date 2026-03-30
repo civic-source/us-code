@@ -3,9 +3,9 @@ title: "Section 650 - Depositaries failing to safeguard deposits"
 usc_title: 18
 usc_section: "650"
 chapter: 31
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 650"
-generated_at: "2026-03-30T01:02:48.980Z"
+generated_at: "2026-03-30T01:10:29.289Z"
 ---
 
 # § 650. Depositaries failing to safeguard deposits

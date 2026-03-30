@@ -3,9 +3,9 @@ title: "Section 281b - Acquisition of lands; restrictions; tribal-owned lands"
 usc_title: 16
 usc_section: "281b"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 281b"
-generated_at: "2026-03-30T01:03:37.254Z"
+generated_at: "2026-03-30T01:10:36.838Z"
 ---
 
 # § 281b. Acquisition of lands; restrictions; tribal-owned lands

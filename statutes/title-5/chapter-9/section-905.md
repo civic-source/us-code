@@ -3,9 +3,9 @@ title: "Section 905 - Limitation on powers"
 usc_title: 5
 usc_section: "905"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 905"
-generated_at: "2026-03-30T01:01:03.890Z"
+generated_at: "2026-03-30T01:09:15.354Z"
 ---
 
 # § 905. Limitation on powers

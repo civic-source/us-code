@@ -3,9 +3,9 @@ title: "Section 14336 - New product or use"
 usc_title: 42
 usc_section: "14336"
 chapter: 137
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 14336"
-generated_at: "2026-03-30T01:05:41.510Z"
+generated_at: "2026-03-30T01:12:43.540Z"
 ---
 
 # § 14336. New product or use

@@ -3,9 +3,9 @@ title: "Section 1276b - Puget Sound"
 usc_title: 33
 usc_section: "1276b"
 chapter: 26
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 1276b"
-generated_at: "2026-03-30T01:04:57.314Z"
+generated_at: "2026-03-30T01:11:45.407Z"
 ---
 
 # § 1276b. Puget Sound

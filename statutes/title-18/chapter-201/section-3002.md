@@ -3,9 +3,9 @@ title: "Section 3002 - Courts always open—(Rule)"
 usc_title: 18
 usc_section: "3002"
 chapter: 201
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3002"
-generated_at: "2026-03-30T01:02:49.033Z"
+generated_at: "2026-03-30T01:10:29.351Z"
 ---
 
 # § 3002. Courts always open—(Rule)

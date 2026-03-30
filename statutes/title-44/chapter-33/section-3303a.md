@@ -3,9 +3,9 @@ title: "Section 3303a - Examination by Archivist of lists and schedules of recor
 usc_title: 44
 usc_section: "3303a"
 chapter: 33
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "44 U.S.C. § 3303a"
-generated_at: "2026-03-30T01:05:20.430Z"
+generated_at: "2026-03-30T01:12:08.470Z"
 ---
 
 # § 3303a. Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records

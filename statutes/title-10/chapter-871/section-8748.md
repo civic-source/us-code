@@ -3,9 +3,9 @@ title: "Section 8748 - Naval War College and Marine Corps University: civilian f
 usc_title: 10
 usc_section: "8748"
 chapter: 871
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8748"
-generated_at: "2026-03-30T01:02:06.206Z"
+generated_at: "2026-03-30T01:10:00.739Z"
 ---
 
 # § 8748. Naval War College and Marine Corps University: civilian faculty members

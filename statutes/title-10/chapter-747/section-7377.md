@@ -3,9 +3,9 @@ title: "Section 7377 - Civilian special agents of the Criminal Investigation Com
 usc_title: 10
 usc_section: "7377"
 chapter: 747
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 7377"
-generated_at: "2026-03-30T01:02:06.185Z"
+generated_at: "2026-03-30T01:10:00.717Z"
 ---
 
 # § 7377. Civilian special agents of the Criminal Investigation Command: authority to execute warrants and make arrests

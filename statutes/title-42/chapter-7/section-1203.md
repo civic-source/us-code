@@ -3,9 +3,9 @@ title: "Section 1203 - Payment to States"
 usc_title: 42
 usc_section: "1203"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1203"
-generated_at: "2026-03-30T01:05:40.831Z"
+generated_at: "2026-03-30T01:12:42.889Z"
 ---
 
 # § 1203. Payment to States

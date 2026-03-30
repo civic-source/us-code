@@ -3,9 +3,9 @@ title: "Section 2809 - Authorizations for appropriations"
 usc_title: 16
 usc_section: "2809"
 chapter: 48
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 2809"
-generated_at: "2026-03-30T01:03:37.547Z"
+generated_at: "2026-03-30T01:10:37.103Z"
 ---
 
 # § 2809. Authorizations for appropriations

@@ -3,9 +3,9 @@ title: "Section 20302 - Purpose"
 usc_title: 36
 usc_section: "20302"
 chapter: 203
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 20302"
-generated_at: "2026-03-30T01:05:07.444Z"
+generated_at: "2026-03-30T01:11:48.474Z"
 ---
 
 # § 20302. Purpose

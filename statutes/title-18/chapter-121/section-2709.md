@@ -3,9 +3,9 @@ title: "Section 2709 - Counterintelligence access to telephone toll and transact
 usc_title: 18
 usc_section: "2709"
 chapter: 121
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 2709"
-generated_at: "2026-03-30T01:02:49.032Z"
+generated_at: "2026-03-30T01:10:29.350Z"
 ---
 
 # § 2709. Counterintelligence access to telephone toll and transactional records

@@ -3,9 +3,9 @@ title: "Section 1082 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1082"
 chapter: 14
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 1082"
-generated_at: "2026-03-30T01:04:13.242Z"
+generated_at: "2026-03-30T01:11:13.433Z"
 ---
 
 # §§ 1081, 1082. Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17, 1980 , 94 Stat. 2159

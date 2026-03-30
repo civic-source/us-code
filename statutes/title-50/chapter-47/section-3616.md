@@ -3,9 +3,9 @@ title: "Section 3616 - Transportation of remains of certain employees"
 usc_title: 50
 usc_section: "3616"
 chapter: 47
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3616"
-generated_at: "2026-03-30T01:06:06.821Z"
+generated_at: "2026-03-30T01:13:13.014Z"
 ---
 
 # § 3616. Transportation of remains of certain employees

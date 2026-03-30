@@ -3,9 +3,9 @@ title: "Section 14907 - Recordkeeping and reporting violations"
 usc_title: 49
 usc_section: "14907"
 chapter: 149
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "49 U.S.C. § 14907"
-generated_at: "2026-03-30T01:06:35.168Z"
+generated_at: "2026-03-30T01:12:54.643Z"
 ---
 
 # § 14907. Recordkeeping and reporting violations

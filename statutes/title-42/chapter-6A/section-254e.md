@@ -3,9 +3,9 @@ title: "Section 254e - Health professional shortage areas"
 usc_title: 42
 usc_section: "254e"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 254e"
-generated_at: "2026-03-30T01:05:40.590Z"
+generated_at: "2026-03-30T01:12:42.647Z"
 ---
 
 # § 254e. Health professional shortage areas

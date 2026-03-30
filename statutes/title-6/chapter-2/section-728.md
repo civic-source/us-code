@@ -3,9 +3,9 @@ title: "Section 728 - Disclosure of certain information to law enforcement agenc
 usc_title: 6
 usc_section: "728"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 728"
-generated_at: "2026-03-30T01:01:07.271Z"
+generated_at: "2026-03-30T01:09:22.899Z"
 ---
 
 # § 728. Disclosure of certain information to law enforcement agencies

@@ -3,9 +3,9 @@ title: "Section 1322 - Marine sanitation devices; discharges incidental to the n
 usc_title: 33
 usc_section: "1322"
 chapter: 26
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 1322"
-generated_at: "2026-03-30T01:04:57.328Z"
+generated_at: "2026-03-30T01:11:45.420Z"
 ---
 
 # § 1322. Marine sanitation devices; discharges incidental to the normal operation of vessels

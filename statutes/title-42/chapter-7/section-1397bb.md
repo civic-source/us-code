@@ -3,9 +3,9 @@ title: "Section 1397bb - General contents of State child health plan; eligibilit
 usc_title: 42
 usc_section: "1397bb"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1397bb"
-generated_at: "2026-03-30T01:05:41.033Z"
+generated_at: "2026-03-30T01:12:43.079Z"
 ---
 
 # § 1397bb. General contents of State child health plan; eligibility; outreach

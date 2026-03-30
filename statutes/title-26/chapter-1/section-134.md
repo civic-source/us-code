@@ -3,9 +3,9 @@ title: "Section 134 - Certain military benefits"
 usc_title: 26
 usc_section: "134"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 134"
-generated_at: "2026-03-30T01:04:51.367Z"
+generated_at: "2026-03-30T01:11:37.782Z"
 ---
 
 # § 134. Certain military benefits

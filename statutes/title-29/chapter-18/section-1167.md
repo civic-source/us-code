@@ -3,9 +3,9 @@ title: "Section 1167 - Definitions and special rules"
 usc_title: 29
 usc_section: "1167"
 chapter: 18
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "29 U.S.C. § 1167"
-generated_at: "2026-03-30T01:04:23.752Z"
+generated_at: "2026-03-30T01:11:31.625Z"
 ---
 
 # § 1167. Definitions and special rules

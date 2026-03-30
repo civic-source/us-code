@@ -3,9 +3,9 @@ title: "Section 9201 - Definitions"
 usc_title: 5
 usc_section: "9201"
 chapter: 92
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 9201"
-generated_at: "2026-03-30T01:01:03.975Z"
+generated_at: "2026-03-30T01:09:15.456Z"
 ---
 
 # § 9201. Definitions

@@ -3,9 +3,9 @@ title: "Section 5703 - Liability for tax and method of payment"
 usc_title: 26
 usc_section: "5703"
 chapter: 52
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 5703"
-generated_at: "2026-03-30T01:04:51.608Z"
+generated_at: "2026-03-30T01:11:38.002Z"
 ---
 
 # § 5703. Liability for tax and method of payment

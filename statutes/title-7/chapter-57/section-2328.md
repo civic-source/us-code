@@ -3,9 +3,9 @@ title: "Section 2328 - Library"
 usc_title: 7
 usc_section: "2328"
 chapter: 57
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 2328"
-generated_at: "2026-03-30T01:01:59.266Z"
+generated_at: "2026-03-30T01:09:47.689Z"
 ---
 
 # § 2328. Library

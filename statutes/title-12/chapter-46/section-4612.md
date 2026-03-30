@@ -3,9 +3,9 @@ title: "Section 4612 - Minimum capital levels"
 usc_title: 12
 usc_section: "4612"
 chapter: 46
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 4612"
-generated_at: "2026-03-30T01:02:17.206Z"
+generated_at: "2026-03-30T01:10:24.406Z"
 ---
 
 # § 4612. Minimum capital levels

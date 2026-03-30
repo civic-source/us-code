@@ -3,9 +3,9 @@ title: "Section 377b - Availability of appropriations for Bureau of Reclamation"
 usc_title: 43
 usc_section: "377b"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 377b"
-generated_at: "2026-03-30T01:05:15.994Z"
+generated_at: "2026-03-30T01:12:04.143Z"
 ---
 
 # § 377b. Availability of appropriations for Bureau of Reclamation

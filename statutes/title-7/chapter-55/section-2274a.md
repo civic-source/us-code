@@ -3,9 +3,9 @@ title: "Section 2274a - Firearm authority of employees conducting field work in 
 usc_title: 7
 usc_section: "2274a"
 chapter: 55
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 2274a"
-generated_at: "2026-03-30T01:01:59.263Z"
+generated_at: "2026-03-30T01:09:47.686Z"
 ---
 
 # § 2274a. Firearm authority of employees conducting field work in remote locations

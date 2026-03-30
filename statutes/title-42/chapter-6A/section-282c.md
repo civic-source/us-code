@@ -3,9 +3,9 @@ title: "Section 282c - Public access to funded investigators’ final manuscript
 usc_title: 42
 usc_section: "282c"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 282c"
-generated_at: "2026-03-30T01:05:40.623Z"
+generated_at: "2026-03-30T01:12:42.683Z"
 ---
 
 # § 282c. Public access to funded investigators’ final manuscripts

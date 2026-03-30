@@ -3,9 +3,9 @@ title: "Section 6596 - Employment of personnel by Sergeant at Arms and Doorkeepe
 usc_title: 2
 usc_section: "6596"
 chapter: 65
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "2 U.S.C. § 6596"
-generated_at: "2026-03-30T01:00:36.192Z"
+generated_at: "2026-03-30T01:09:17.827Z"
 ---
 
 # § 6596. Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation

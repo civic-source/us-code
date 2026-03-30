@@ -3,9 +3,9 @@ title: "Section 3746 - Tribal immunity"
 usc_title: 25
 usc_section: "3746"
 chapter: 39
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 3746"
-generated_at: "2026-03-30T01:03:48.757Z"
+generated_at: "2026-03-30T01:10:57.766Z"
 ---
 
 # § 3746. Tribal immunity

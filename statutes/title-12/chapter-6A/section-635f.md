@@ -3,9 +3,9 @@ title: "Section 635f - Termination date of Bank’s functions; exceptions; liqui
 usc_title: 12
 usc_section: "635f"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 635f"
-generated_at: "2026-03-30T01:02:17.034Z"
+generated_at: "2026-03-30T01:10:24.215Z"
 ---
 
 # § 635f. Termination date of Bank’s functions; exceptions; liquidation

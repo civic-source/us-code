@@ -3,9 +3,9 @@ title: "Section 752 - Corporate real estate holdings"
 usc_title: 48
 usc_section: "752"
 chapter: 4
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "48 U.S.C. § 752"
-generated_at: "2026-03-30T01:06:15.396Z"
+generated_at: "2026-03-30T01:13:06.905Z"
 ---
 
 # § 752. Corporate real estate holdings

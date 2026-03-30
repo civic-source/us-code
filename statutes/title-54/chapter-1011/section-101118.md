@@ -3,9 +3,9 @@ title: "Section 101118 - Tax exemptions; contributions toward costs of local gov
 usc_title: 54
 usc_section: "101118"
 chapter: 1011
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "54 U.S.C. § 101118"
-generated_at: "2026-03-30T01:06:42.549Z"
+generated_at: "2026-03-30T01:13:24.575Z"
 ---
 
 # § 101118. Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States

@@ -3,9 +3,9 @@ title: "Section 1359bb - Flexible marketing allotments for sugar"
 usc_title: 7
 usc_section: "1359bb"
 chapter: 35
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1359bb"
-generated_at: "2026-03-30T01:01:59.176Z"
+generated_at: "2026-03-30T01:09:47.602Z"
 ---
 
 # § 1359bb. Flexible marketing allotments for sugar

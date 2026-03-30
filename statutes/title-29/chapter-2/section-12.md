@@ -3,9 +3,9 @@ title: "Section 12 - Director of bureau; appointment"
 usc_title: 29
 usc_section: "12"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "29 U.S.C. § 12"
-generated_at: "2026-03-30T01:04:23.694Z"
+generated_at: "2026-03-30T01:11:31.561Z"
 ---
 
 # § 12. Director of bureau; appointment

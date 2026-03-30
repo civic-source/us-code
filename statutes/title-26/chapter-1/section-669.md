@@ -3,9 +3,9 @@ title: "Section 669 - Repealed. Pub. L. 94–455, title VII, § 701(d)(1) , Oct.
 usc_title: 26
 usc_section: "669"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 669"
-generated_at: "2026-03-30T01:04:51.481Z"
+generated_at: "2026-03-30T01:11:37.887Z"
 ---
 
 # [§ 669. Repealed. Pub. L. 94–455, title VII, § 701(d)(1) , Oct. 4, 1976 , 90 Stat. 1578 ]

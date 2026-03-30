@@ -3,9 +3,9 @@ title: "Section 2908 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2908"
 chapter: 56
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 2908"
-generated_at: "2026-03-30T01:02:38.459Z"
+generated_at: "2026-03-30T01:10:09.410Z"
 ---
 
 # § 2908. Authorization of appropriations

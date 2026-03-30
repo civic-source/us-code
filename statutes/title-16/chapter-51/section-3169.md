@@ -3,9 +3,9 @@ title: "Section 3169 - Valid existing right of access"
 usc_title: 16
 usc_section: "3169"
 chapter: 51
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 3169"
-generated_at: "2026-03-30T01:03:37.551Z"
+generated_at: "2026-03-30T01:10:37.107Z"
 ---
 
 # § 3169. Valid existing right of access

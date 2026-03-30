@@ -3,9 +3,9 @@ title: "Section 10501 - Definitions"
 usc_title: 22
 usc_section: "10501"
 chapter: 112
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 10501"
-generated_at: "2026-03-30T01:04:13.438Z"
+generated_at: "2026-03-30T01:11:13.618Z"
 ---
 
 # § 10501. Definitions
@@ -13,7 +13,7 @@ generated_at: "2026-03-30T01:04:13.438Z"
 In this chapter:
 
   - **(1)** The term “appropriate congressional committees” means—
-    - **(A)** the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate;Committee on the Judiciary of the Senate; and
+    - **(A)** the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Financial Services, and the Committee on the Judiciary of the House of Representatives.
   - **(2)** The term “corrupt actor” means—
     - **(A)** any foreign person or entity that is a government official or government entity responsible for, or complicit in, an act of corruption; and

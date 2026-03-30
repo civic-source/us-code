@@ -3,9 +3,9 @@ title: "Section 468A - Special rules for nuclear decommissioning costs"
 usc_title: 26
 usc_section: "468A"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 468A"
-generated_at: "2026-03-30T01:04:51.460Z"
+generated_at: "2026-03-30T01:11:37.868Z"
 ---
 
 # § 468A. Special rules for nuclear decommissioning costs

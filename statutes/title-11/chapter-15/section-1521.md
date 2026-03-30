@@ -3,9 +3,9 @@ title: "Section 1521 - Relief that may be granted upon recognition"
 usc_title: 11
 usc_section: "1521"
 chapter: 15
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "11 U.S.C. § 1521"
-generated_at: "2026-03-30T01:02:24.340Z"
+generated_at: "2026-03-30T01:10:03.955Z"
 ---
 
 # § 1521. Relief that may be granted upon recognition

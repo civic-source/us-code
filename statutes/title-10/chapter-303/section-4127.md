@@ -3,9 +3,9 @@ title: "Section 4127 - Defense innovation unit 1 1 So in original. Probably shou
 usc_title: 10
 usc_section: "4127"
 chapter: 303
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4127"
-generated_at: "2026-03-30T01:02:06.167Z"
+generated_at: "2026-03-30T01:10:00.698Z"
 ---
 
 # § 4127. Defense innovation unit 1 1 So in original. Probably should be “Defense Innovation Unit”.
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T01:02:06.167Z"
     - **(A)** select projects to be carried out by one or more of the service-level innovation organizations;
     - **(B)** allocate funds to service-level innovation organizations to carry out such projects; and
     - **(C)** monitor the execution of such projects by the service-level innovation organizations.
-  - **(9)** Serve as the principal liaison between the Department of Defense, nontraditional defense contractors, investors in nontraditional defense companies, and departments and agencies of the Federal Government pursing nontraditional capabilities similar to those pursued by the Department.
+  - **(9)** Serve as the principal liaison between the Department of Defense, nontraditional defense contractors, investors in nontraditional defense companies, and departments and agencies of the Federal Government pursing 2 2 So in original. Probably should be “pursuing”. nontraditional capabilities similar to those pursued by the Department.
   - **(10)** Lead engagement with industry, academia, and other nongovernment entities to develop—
     - **(A)** domestic capacity with respect to innovative, commercial, and dual-use technologies and the use of nontraditional defense contractors; and
     - **(B)** the capacity of international allies and partners of the United States with respect to such technologies and the use of such contractors.

@@ -3,9 +3,9 @@ title: "Section 60703 - Purpose"
 usc_title: 34
 usc_section: "60703"
 chapter: 607
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 60703"
-generated_at: "2026-03-30T01:05:00.149Z"
+generated_at: "2026-03-30T01:11:43.109Z"
 ---
 
 # § 60703. Purpose

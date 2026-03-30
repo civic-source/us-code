@@ -3,9 +3,9 @@ title: "Section 62b - Transferred"
 usc_title: 2
 usc_section: "62b"
 chapter: 4
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "2 U.S.C. § 62b"
-generated_at: "2026-03-30T01:00:36.125Z"
+generated_at: "2026-03-30T01:09:17.695Z"
 ---
 
 # § 62b. Transferred

@@ -3,9 +3,9 @@ title: "Section 15 - Utility facilities used in administration of Bureau; contra
 usc_title: 25
 usc_section: "15"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 15"
-generated_at: "2026-03-30T01:03:48.679Z"
+generated_at: "2026-03-30T01:10:57.694Z"
 ---
 
 # § 15. Utility facilities used in administration of Bureau; contracts for sale, operation, maintenance, repair or relocation of facilities; terms and conditions; exception; Congressional approval

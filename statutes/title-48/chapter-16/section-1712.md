@@ -3,9 +3,9 @@ title: "Section 1712 - Election of delegates; majority; runoff election; vacancy
 usc_title: 48
 usc_section: "1712"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "48 U.S.C. § 1712"
-generated_at: "2026-03-30T01:06:15.409Z"
+generated_at: "2026-03-30T01:13:06.915Z"
 ---
 
 # § 1712. Election of delegates; majority; runoff election; vacancy; commencement of term

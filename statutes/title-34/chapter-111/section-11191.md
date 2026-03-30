@@ -3,9 +3,9 @@ title: "Section 11191 - Content of materials"
 usc_title: 34
 usc_section: "11191"
 chapter: 111
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 11191"
-generated_at: "2026-03-30T01:05:00.090Z"
+generated_at: "2026-03-30T01:11:43.058Z"
 ---
 
 # § 11191. Content of materials

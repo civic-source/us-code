@@ -3,9 +3,9 @@ title: "Section 6037 - Return of S corporation"
 usc_title: 26
 usc_section: "6037"
 chapter: 61
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 6037"
-generated_at: "2026-03-30T01:04:51.614Z"
+generated_at: "2026-03-30T01:11:38.007Z"
 ---
 
 # § 6037. Return of S corporation

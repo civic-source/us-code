@@ -3,9 +3,9 @@ title: "Section 19081 - Facility operation and maintenance"
 usc_title: 42
 usc_section: "19081"
 chapter: 163
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 19081"
-generated_at: "2026-03-30T01:05:41.619Z"
+generated_at: "2026-03-30T01:12:43.646Z"
 ---
 
 # § 19081. Facility operation and maintenance

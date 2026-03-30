@@ -3,9 +3,9 @@ title: "Section 11333 - Role of Federal Emergency Management Agency"
 usc_title: 42
 usc_section: "11333"
 chapter: 119
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 11333"
-generated_at: "2026-03-30T01:05:41.441Z"
+generated_at: "2026-03-30T01:12:43.476Z"
 ---
 
 # § 11333. Role of Federal Emergency Management Agency

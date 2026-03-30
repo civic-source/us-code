@@ -3,9 +3,9 @@ title: "Section 27 - Required coverage for reconstructive surgery following mast
 usc_title: 42
 usc_section: "27"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T01:05:40.746Z"
+generated_at: "2026-03-30T01:12:42.807Z"
 ---
 
 # § 300gg–27. Required coverage for reconstructive surgery following mastectomies

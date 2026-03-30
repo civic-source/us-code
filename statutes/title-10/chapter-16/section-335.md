@@ -3,9 +3,9 @@ title: "Section 335 - Payment of personnel expenses necessary for participation 
 usc_title: 10
 usc_section: "335"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 335"
-generated_at: "2026-03-30T01:02:06.014Z"
+generated_at: "2026-03-30T01:10:00.537Z"
 ---
 
 # § 335. Payment of personnel expenses necessary for participation in training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security

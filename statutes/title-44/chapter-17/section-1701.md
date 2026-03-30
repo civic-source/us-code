@@ -3,9 +3,9 @@ title: "Section 1701 - Publications for public distribution to be distributed by
 usc_title: 44
 usc_section: "1701"
 chapter: 17
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "44 U.S.C. § 1701"
-generated_at: "2026-03-30T01:05:20.424Z"
+generated_at: "2026-03-30T01:12:08.466Z"
 ---
 
 # § 1701. Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists

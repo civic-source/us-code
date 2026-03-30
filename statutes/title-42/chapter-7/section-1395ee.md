@@ -3,9 +3,9 @@ title: "Section 1395ee - Practicing Physicians Advisory Council; Council for Tec
 usc_title: 42
 usc_section: "1395ee"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1395ee"
-generated_at: "2026-03-30T01:05:40.952Z"
+generated_at: "2026-03-30T01:12:43.004Z"
 ---
 
 # § 1395ee. Practicing Physicians Advisory Council; Council for Technology and Innovation

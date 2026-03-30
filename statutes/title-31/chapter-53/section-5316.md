@@ -3,9 +3,9 @@ title: "Section 5316 - Reports on exporting and importing monetary instruments"
 usc_title: 31
 usc_section: "5316"
 chapter: 53
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "31 U.S.C. § 5316"
-generated_at: "2026-03-30T01:04:55.678Z"
+generated_at: "2026-03-30T01:11:44.043Z"
 ---
 
 # § 5316. Reports on exporting and importing monetary instruments

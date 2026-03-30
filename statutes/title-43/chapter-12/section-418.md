@@ -3,9 +3,9 @@ title: "Section 418 - Private lands within project; agreement as to disposal of 
 usc_title: 43
 usc_section: "418"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 418"
-generated_at: "2026-03-30T01:05:16.000Z"
+generated_at: "2026-03-30T01:12:04.154Z"
 ---
 
 # § 418. Private lands within project; agreement as to disposal of excess over farm unit

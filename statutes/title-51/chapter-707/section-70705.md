@@ -3,9 +3,9 @@ title: "Section 70705 - Powers of Commission"
 usc_title: 51
 usc_section: "70705"
 chapter: 707
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "51 U.S.C. § 70705"
-generated_at: "2026-03-30T01:06:43.510Z"
+generated_at: "2026-03-30T01:13:21.947Z"
 ---
 
 # § 70705. Powers of Commission

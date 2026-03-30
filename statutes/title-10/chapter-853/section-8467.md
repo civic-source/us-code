@@ -3,9 +3,9 @@ title: "Section 8467 - Degree on graduation"
 usc_title: 10
 usc_section: "8467"
 chapter: 853
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8467"
-generated_at: "2026-03-30T01:02:06.198Z"
+generated_at: "2026-03-30T01:10:00.731Z"
 ---
 
 # § 8467. Degree on graduation

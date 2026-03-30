@@ -3,9 +3,9 @@ title: "Section 5601 - Purposes"
 usc_title: 22
 usc_section: "5601"
 chapter: 65
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 5601"
-generated_at: "2026-03-30T01:04:13.362Z"
+generated_at: "2026-03-30T01:11:13.543Z"
 ---
 
 # § 5601. Purposes

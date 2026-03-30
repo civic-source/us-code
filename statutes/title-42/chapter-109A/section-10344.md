@@ -3,9 +3,9 @@ title: "Section 10344 - Coordination with other research"
 usc_title: 42
 usc_section: "10344"
 chapter: 109
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 10344"
-generated_at: "2026-03-30T01:05:41.427Z"
+generated_at: "2026-03-30T01:12:43.462Z"
 ---
 
 # § 10344. Coordination with other research

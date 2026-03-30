@@ -3,9 +3,9 @@ title: "Section 1090b - Commanding officer and supervisor referrals of members f
 usc_title: 10
 usc_section: "1090b"
 chapter: 55
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 1090b"
-generated_at: "2026-03-30T01:02:06.068Z"
+generated_at: "2026-03-30T01:10:00.592Z"
 ---
 
 # § 1090b. Commanding officer and supervisor referrals of members for mental health evaluations

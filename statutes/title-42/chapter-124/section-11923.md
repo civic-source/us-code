@@ -3,9 +3,9 @@ title: "Section 11923 - Regional training program on drug abuse in public housin
 usc_title: 42
 usc_section: "11923"
 chapter: 124
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 11923"
-generated_at: "2026-03-30T01:05:41.453Z"
+generated_at: "2026-03-30T01:12:43.487Z"
 ---
 
 # § 11923. Regional training program on drug abuse in public housing

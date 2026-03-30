@@ -3,9 +3,9 @@ title: "Section 2602 - Reports in connection with permanent closures of Departme
 usc_title: 50
 usc_section: "2602"
 chapter: 42
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 2602"
-generated_at: "2026-03-30T01:06:06.771Z"
+generated_at: "2026-03-30T01:13:12.975Z"
 ---
 
 # § 2602. Reports in connection with permanent closures of Department of Energy defense nuclear facilities

@@ -3,9 +3,9 @@ title: "Section 1512 - Loan size limitation"
 usc_title: 30
 usc_section: "1512"
 chapter: 27
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "30 U.S.C. § 1512"
-generated_at: "2026-03-30T01:04:30.933Z"
+generated_at: "2026-03-30T01:11:26.020Z"
 ---
 
 # § 1512. Loan size limitation

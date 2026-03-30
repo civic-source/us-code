@@ -3,9 +3,9 @@ title: "Section 17 - Cross-program recovery of overpayments from benefits"
 usc_title: 42
 usc_section: "17"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-30T01:05:40.848Z"
+generated_at: "2026-03-30T01:12:42.905Z"
 ---
 
 # § 1320b–17. Cross-program recovery of overpayments from benefits

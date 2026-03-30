@@ -3,9 +3,9 @@ title: "Section 4004 - Disclosure of funds availability policies"
 usc_title: 12
 usc_section: "4004"
 chapter: 41
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 4004"
-generated_at: "2026-03-30T01:02:17.189Z"
+generated_at: "2026-03-30T01:10:24.389Z"
 ---
 
 # § 4004. Disclosure of funds availability policies

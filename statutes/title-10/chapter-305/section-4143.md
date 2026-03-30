@@ -3,9 +3,9 @@ title: "Section 4143 - Research and development laboratories: contracts for serv
 usc_title: 10
 usc_section: "4143"
 chapter: 305
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4143"
-generated_at: "2026-03-30T01:02:06.167Z"
+generated_at: "2026-03-30T01:10:00.698Z"
 ---
 
 # § 4143. Research and development laboratories: contracts for services of university students

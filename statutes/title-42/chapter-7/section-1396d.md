@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T01:05:40.997Z"
+generated_at: "2026-03-30T01:12:43.046Z"
 ---
 
 # § 1396d. Definitions

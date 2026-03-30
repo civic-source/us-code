@@ -3,9 +3,9 @@ title: "Section 4147 - Omitted]"
 usc_title: 10
 usc_section: "4147"
 chapter: 305
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4147"
-generated_at: "2026-03-30T01:02:06.167Z"
+generated_at: "2026-03-30T01:10:00.698Z"
 ---
 
 # [§§ 4145 to 4147. Omitted]

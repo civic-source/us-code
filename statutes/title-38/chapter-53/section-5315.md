@@ -3,9 +3,9 @@ title: "Section 5315 - Interest and administrative cost charges on delinquent pa
 usc_title: 38
 usc_section: "5315"
 chapter: 53
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "38 U.S.C. § 5315"
-generated_at: "2026-03-30T01:05:11.433Z"
+generated_at: "2026-03-30T01:11:54.388Z"
 ---
 
 # § 5315. Interest and administrative cost charges on delinquent payments of certain amounts due the United States

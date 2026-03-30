@@ -3,9 +3,9 @@ title: "Section 1461 - Liability for withheld tax"
 usc_title: 26
 usc_section: "1461"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 1461"
-generated_at: "2026-03-30T01:04:51.546Z"
+generated_at: "2026-03-30T01:11:37.946Z"
 ---
 
 # § 1461. Liability for withheld tax

@@ -3,9 +3,9 @@ title: "Section 904 - Limitation on jurisdiction and powers of court"
 usc_title: 11
 usc_section: "904"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "11 U.S.C. § 904"
-generated_at: "2026-03-30T01:02:24.332Z"
+generated_at: "2026-03-30T01:10:03.947Z"
 ---
 
 # § 904. Limitation on jurisdiction and powers of court

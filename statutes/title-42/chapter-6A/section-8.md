@@ -3,9 +3,9 @@ title: "Section 8 - Coverage for individuals participating in approved clinical 
 usc_title: 42
 usc_section: "8"
 chapter: 6
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T01:05:40.742Z"
+generated_at: "2026-03-30T01:12:42.803Z"
 ---
 
 # § 300gg–8. Coverage for individuals participating in approved clinical trials

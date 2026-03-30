@@ -3,9 +3,9 @@ title: "Section 3711 - Collection and compromise"
 usc_title: 31
 usc_section: "3711"
 chapter: 37
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "31 U.S.C. § 3711"
-generated_at: "2026-03-30T01:04:55.665Z"
+generated_at: "2026-03-30T01:11:44.033Z"
 ---
 
 # § 3711. Collection and compromise

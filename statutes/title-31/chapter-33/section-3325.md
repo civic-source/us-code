@@ -3,9 +3,9 @@ title: "Section 3325 - Vouchers"
 usc_title: 31
 usc_section: "3325"
 chapter: 33
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "31 U.S.C. § 3325"
-generated_at: "2026-03-30T01:04:55.660Z"
+generated_at: "2026-03-30T01:11:44.028Z"
 ---
 
 # § 3325. Vouchers

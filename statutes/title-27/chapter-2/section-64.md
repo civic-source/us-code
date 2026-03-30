@@ -3,9 +3,9 @@ title: "Section 64 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 
 usc_title: 27
 usc_section: "64"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "27 U.S.C. § 64"
-generated_at: "2026-03-30T01:04:31.935Z"
+generated_at: "2026-03-30T01:11:25.432Z"
 ---
 
 # § 64. Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 872

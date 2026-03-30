@@ -3,9 +3,9 @@ title: "Section 8771 - Quarters or other accommodations: to whom furnished"
 usc_title: 10
 usc_section: "8771"
 chapter: 877
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8771"
-generated_at: "2026-03-30T01:02:06.206Z"
+generated_at: "2026-03-30T01:10:00.739Z"
 ---
 
 # § 8771. Quarters or other accommodations: to whom furnished

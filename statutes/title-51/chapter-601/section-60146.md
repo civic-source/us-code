@@ -3,9 +3,9 @@ title: "Section 60146 - Radio frequency allocation"
 usc_title: 51
 usc_section: "60146"
 chapter: 601
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "51 U.S.C. § 60146"
-generated_at: "2026-03-30T01:06:43.508Z"
+generated_at: "2026-03-30T01:13:21.944Z"
 ---
 
 # § 60146. Radio frequency allocation

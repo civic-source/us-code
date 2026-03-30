@@ -3,9 +3,9 @@ title: "Section 257 - Publication of decisions"
 usc_title: 28
 usc_section: "257"
 chapter: 11
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "28 U.S.C. § 257"
-generated_at: "2026-03-30T01:04:18.383Z"
+generated_at: "2026-03-30T01:11:39.315Z"
 ---
 
 # § 257. Publication of decisions

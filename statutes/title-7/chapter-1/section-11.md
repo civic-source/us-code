@@ -3,9 +3,9 @@ title: "Section 11 - Vacation on request of designation or registration as “re
 usc_title: 7
 usc_section: "11"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 11"
-generated_at: "2026-03-30T01:01:59.104Z"
+generated_at: "2026-03-30T01:09:47.533Z"
 ---
 
 # § 11. Vacation on request of designation or registration as “registered entity”; redesignation or reregistration

@@ -3,9 +3,9 @@ title: "Section 1926 - Water and waste facility loans and grants"
 usc_title: 7
 usc_section: "1926"
 chapter: 50
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1926"
-generated_at: "2026-03-30T01:01:59.219Z"
+generated_at: "2026-03-30T01:09:47.643Z"
 ---
 
 # § 1926. Water and waste facility loans and grants

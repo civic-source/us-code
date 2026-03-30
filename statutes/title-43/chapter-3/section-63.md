@@ -3,9 +3,9 @@ title: "Section 63 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "63"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 63"
-generated_at: "2026-03-30T01:05:15.985Z"
+generated_at: "2026-03-30T01:12:04.133Z"
 ---
 
 # §§ 61 to 63. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

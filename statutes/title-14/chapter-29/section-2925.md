@@ -3,9 +3,9 @@ title: "Section 2925 - Parent partnerships with child development centers"
 usc_title: 14
 usc_section: "2925"
 chapter: 29
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "14 U.S.C. § 2925"
-generated_at: "2026-03-30T01:02:26.330Z"
+generated_at: "2026-03-30T01:10:03.458Z"
 ---
 
 # § 2925. Parent partnerships with child development centers

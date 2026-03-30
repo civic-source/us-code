@@ -3,9 +3,9 @@ title: "Section 5627 - Regulations"
 usc_title: 12
 usc_section: "5627"
 chapter: 53
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 5627"
-generated_at: "2026-03-30T01:02:17.257Z"
+generated_at: "2026-03-30T01:10:24.462Z"
 ---
 
 # § 5627. Regulations

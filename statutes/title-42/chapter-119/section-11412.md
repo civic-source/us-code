@@ -3,9 +3,9 @@ title: "Section 11412 - Making surplus personal property available to nonprofit 
 usc_title: 42
 usc_section: "11412"
 chapter: 119
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 11412"
-generated_at: "2026-03-30T01:05:41.447Z"
+generated_at: "2026-03-30T01:12:43.481Z"
 ---
 
 # § 11412. Making surplus personal property available to nonprofit agencies

@@ -3,9 +3,9 @@ title: "Section 8688 - Warranty requirements for shipbuilding contracts"
 usc_title: 10
 usc_section: "8688"
 chapter: 863
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8688"
-generated_at: "2026-03-30T01:02:06.203Z"
+generated_at: "2026-03-30T01:10:00.737Z"
 ---
 
 # § 8688. Warranty requirements for shipbuilding contracts

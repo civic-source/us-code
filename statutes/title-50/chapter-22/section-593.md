@@ -3,9 +3,9 @@ title: "Section 593 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "593"
 chapter: 22
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 593"
-generated_at: "2026-03-30T01:06:06.735Z"
+generated_at: "2026-03-30T01:13:12.944Z"
 ---
 
 # §§ 586 to 593. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

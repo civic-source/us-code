@@ -3,9 +3,9 @@ title: "Section 3030s - Definitions"
 usc_title: 42
 usc_section: "3030s"
 chapter: 35
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 3030s"
-generated_at: "2026-03-30T01:05:41.162Z"
+generated_at: "2026-03-30T01:12:43.207Z"
 ---
 
 # § 3030s. Definitions

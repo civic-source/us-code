@@ -3,9 +3,9 @@ title: "Section 6106 - Cooperation"
 usc_title: 16
 usc_section: "6106"
 chapter: 80
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 6106"
-generated_at: "2026-03-30T01:03:37.596Z"
+generated_at: "2026-03-30T01:10:37.148Z"
 ---
 
 # § 6106. Cooperation
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T01:03:37.596Z"
     - **(D)** conducting such other activities as the Secretary considers to be appropriate; and
   - **(2)** coordinate activities and projects under this chapter with existing efforts in order to enhance conservation of neotropical migratory bird species.
 - **(b)**
-  - **(1)** To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of neotropical migratory birds. The advisory group as a whole shall have expertise in the methods and procedures set forth in section 6103(2) of this title in each country and region of the Western Hemisphere 1 1 So in original. Probably should be followed by a period.
+  - **(1)** To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of neotropical migratory birds. The advisory group as a whole shall have expertise in the methods and procedures set forth in section 6103(2) of this title in each country and region of the Western Hemisphere.
   - **(2)**
     - **(A)** The advisory group shall—
       - **(i)** ensure that each meeting of the advisory group is open to the public; and
@@ -26,3 +26,4 @@ generated_at: "2026-03-30T01:03:37.596Z"
     - **(B)** The Secretary shall provide to the public timely notice of each meeting of the advisory group.
     - **(C)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
   - **(3)** Chapter 10 of title 5 shall not apply to the advisory group.
+- **(c)** Not later than 180 days after April 24, 2024 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the implementation of subsection (b) by the Secretary, which shall include, if applicable, a description of the composition of the advisory group convened under paragraph (1) of that subsection.

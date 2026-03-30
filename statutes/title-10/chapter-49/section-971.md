@@ -3,9 +3,9 @@ title: "Section 971 - Service credit: officers may not count service performed w
 usc_title: 10
 usc_section: "971"
 chapter: 49
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 971"
-generated_at: "2026-03-30T01:02:06.053Z"
+generated_at: "2026-03-30T01:10:00.576Z"
 ---
 
 # § 971. Service credit: officers may not count service performed while serving as cadet or midshipman

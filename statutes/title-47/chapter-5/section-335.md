@@ -3,9 +3,9 @@ title: "Section 335 - Direct broadcast satellite service obligations"
 usc_title: 47
 usc_section: "335"
 chapter: 5
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "47 U.S.C. § 335"
-generated_at: "2026-03-30T01:06:01.493Z"
+generated_at: "2026-03-30T01:12:50.060Z"
 ---
 
 # § 335. Direct broadcast satellite service obligations

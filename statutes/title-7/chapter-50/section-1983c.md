@@ -3,9 +3,9 @@ title: "Section 1983c - Provision of information to borrowers"
 usc_title: 7
 usc_section: "1983c"
 chapter: 50
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1983c"
-generated_at: "2026-03-30T01:01:59.227Z"
+generated_at: "2026-03-30T01:09:47.650Z"
 ---
 
 # § 1983c. Provision of information to borrowers

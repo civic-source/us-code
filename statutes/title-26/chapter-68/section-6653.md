@@ -3,9 +3,9 @@ title: "Section 6653 - Failure to pay stamp tax"
 usc_title: 26
 usc_section: "6653"
 chapter: 68
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 6653"
-generated_at: "2026-03-30T01:04:51.652Z"
+generated_at: "2026-03-30T01:11:38.041Z"
 ---
 
 # § 6653. Failure to pay stamp tax

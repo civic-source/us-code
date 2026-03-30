@@ -3,9 +3,9 @@ title: "Section 9302 - Strategic plan for sustainable chemistry"
 usc_title: 15
 usc_section: "9302"
 chapter: 118
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 9302"
-generated_at: "2026-03-30T01:02:38.543Z"
+generated_at: "2026-03-30T01:10:09.507Z"
 ---
 
 # § 9302. Strategic plan for sustainable chemistry

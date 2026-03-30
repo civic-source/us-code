@@ -3,9 +3,9 @@ title: "Section 280B - Demolition of structures"
 usc_title: 26
 usc_section: "280B"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 280B"
-generated_at: "2026-03-30T01:04:51.407Z"
+generated_at: "2026-03-30T01:11:37.819Z"
 ---
 
 # § 280B. Demolition of structures

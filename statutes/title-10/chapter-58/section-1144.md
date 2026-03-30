@@ -3,9 +3,9 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-30T01:02:06.073Z"
+generated_at: "2026-03-30T01:10:00.597Z"
 ---
 
 # § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor

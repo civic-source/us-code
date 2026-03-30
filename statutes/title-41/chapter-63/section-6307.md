@@ -3,9 +3,9 @@ title: "Section 6307 - Contracts with Federal Government-owned establishments an
 usc_title: 41
 usc_section: "6307"
 chapter: 63
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "41 U.S.C. § 6307"
-generated_at: "2026-03-30T01:05:55.486Z"
+generated_at: "2026-03-30T01:12:09.421Z"
 ---
 
 # § 6307. Contracts with Federal Government-owned establishments and availability of appropriations

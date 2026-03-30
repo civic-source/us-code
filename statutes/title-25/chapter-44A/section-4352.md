@@ -3,9 +3,9 @@ title: "Section 4352 - Definitions"
 usc_title: 25
 usc_section: "4352"
 chapter: 44
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 4352"
-generated_at: "2026-03-30T01:03:48.766Z"
+generated_at: "2026-03-30T01:10:57.776Z"
 ---
 
 # § 4352. Definitions

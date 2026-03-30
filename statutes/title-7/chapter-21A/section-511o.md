@@ -3,9 +3,9 @@ title: "Section 511o - Separability"
 usc_title: 7
 usc_section: "511o"
 chapter: 21
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 511o"
-generated_at: "2026-03-30T01:01:59.153Z"
+generated_at: "2026-03-30T01:09:47.580Z"
 ---
 
 # § 511o. Separability

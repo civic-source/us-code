@@ -3,9 +3,9 @@ title: "Section 40727 - Kirk Bloodsworth Post-Conviction DNA Testing Grant Progr
 usc_title: 34
 usc_section: "40727"
 chapter: 407
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 40727"
-generated_at: "2026-03-30T01:05:00.139Z"
+generated_at: "2026-03-30T01:11:43.100Z"
 ---
 
 # § 40727. Kirk Bloodsworth Post-Conviction DNA Testing Grant Program

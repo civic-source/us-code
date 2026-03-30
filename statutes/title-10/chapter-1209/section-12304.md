@@ -3,9 +3,9 @@ title: "Section 12304 - Selected Reserve and certain Individual Ready Reserve me
 usc_title: 10
 usc_section: "12304"
 chapter: 1209
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 12304"
-generated_at: "2026-03-30T01:02:06.225Z"
+generated_at: "2026-03-30T01:10:00.760Z"
 ---
 
 # § 12304. Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency

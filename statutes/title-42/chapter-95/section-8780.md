@@ -3,9 +3,9 @@ title: "Section 8780 - Omitted"
 usc_title: 42
 usc_section: "8780"
 chapter: 95
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 8780"
-generated_at: "2026-03-30T01:05:41.376Z"
+generated_at: "2026-03-30T01:12:43.412Z"
 ---
 
 # §§ 8771 to 8780. Omitted

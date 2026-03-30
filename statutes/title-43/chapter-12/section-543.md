@@ -3,9 +3,9 @@ title: "Section 543 - Certificate of final payment and release of lien"
 usc_title: 43
 usc_section: "543"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 543"
-generated_at: "2026-03-30T01:05:16.010Z"
+generated_at: "2026-03-30T01:12:04.165Z"
 ---
 
 # § 543. Certificate of final payment and release of lien

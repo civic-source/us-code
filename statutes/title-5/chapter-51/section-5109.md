@@ -3,9 +3,9 @@ title: "Section 5109 - Positions classified by statute"
 usc_title: 5
 usc_section: "5109"
 chapter: 51
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 5109"
-generated_at: "2026-03-30T01:01:03.911Z"
+generated_at: "2026-03-30T01:09:15.381Z"
 ---
 
 # § 5109. Positions classified by statute

@@ -3,9 +3,9 @@ title: "Section 7547 - Nonroad engines and vehicles"
 usc_title: 42
 usc_section: "7547"
 chapter: 85
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 7547"
-generated_at: "2026-03-30T01:05:41.338Z"
+generated_at: "2026-03-30T01:12:43.375Z"
 ---
 
 # § 7547. Nonroad engines and vehicles

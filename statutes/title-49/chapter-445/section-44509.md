@@ -3,9 +3,9 @@ title: "Section 44509 - Demonstration projects"
 usc_title: 49
 usc_section: "44509"
 chapter: 445
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "49 U.S.C. § 44509"
-generated_at: "2026-03-30T01:06:35.226Z"
+generated_at: "2026-03-30T01:12:54.707Z"
 ---
 
 # § 44509. Demonstration projects

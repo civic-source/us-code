@@ -3,9 +3,9 @@ title: "Section 9 - Federal funds"
 usc_title: 16
 usc_section: "9"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T01:03:37.397Z"
+generated_at: "2026-03-30T01:10:36.976Z"
 ---
 
 # § 583j–9. Federal funds

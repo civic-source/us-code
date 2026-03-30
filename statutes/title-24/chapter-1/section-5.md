@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. June 15, 1943, ch. 125, § 3 , 57 Stat. 153 , eff.
 usc_title: 24
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "24 U.S.C. § 5"
-generated_at: "2026-03-30T01:03:40.409Z"
+generated_at: "2026-03-30T01:10:59.363Z"
 ---
 
 # §§ 3 to 5. Repealed. June 15, 1943, ch. 125, § 3 , 57 Stat. 153 , eff. July 1, 1943

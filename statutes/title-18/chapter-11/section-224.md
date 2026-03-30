@@ -3,9 +3,9 @@ title: "Section 224 - Bribery in sporting contests"
 usc_title: 18
 usc_section: "224"
 chapter: 11
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 224"
-generated_at: "2026-03-30T01:02:48.973Z"
+generated_at: "2026-03-30T01:10:29.281Z"
 ---
 
 # § 224. Bribery in sporting contests

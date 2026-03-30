@@ -3,9 +3,9 @@ title: "Section 1205 - Members on active duty for 30 days or less: temporary dis
 usc_title: 10
 usc_section: "1205"
 chapter: 61
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 1205"
-generated_at: "2026-03-30T01:02:06.077Z"
+generated_at: "2026-03-30T01:10:00.602Z"
 ---
 
 # § 1205. Members on active duty for 30 days or less: temporary disability retired list

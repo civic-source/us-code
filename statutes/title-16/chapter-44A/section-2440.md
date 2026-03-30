@@ -3,9 +3,9 @@ title: "Section 2440 - Jurisdiction of courts"
 usc_title: 16
 usc_section: "2440"
 chapter: 44
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 2440"
-generated_at: "2026-03-30T01:03:37.542Z"
+generated_at: "2026-03-30T01:10:37.100Z"
 ---
 
 # § 2440. Jurisdiction of courts

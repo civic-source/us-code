@@ -3,9 +3,9 @@ title: "Section 3264 - Limitation on removal"
 usc_title: 18
 usc_section: "3264"
 chapter: 212
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3264"
-generated_at: "2026-03-30T01:02:49.041Z"
+generated_at: "2026-03-30T01:10:29.358Z"
 ---
 
 # § 3264. Limitation on removal

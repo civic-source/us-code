@@ -3,9 +3,9 @@ title: "Section 3271 - Availability of soil surveys under soil survey program"
 usc_title: 42
 usc_section: "3271"
 chapter: 40
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 3271"
-generated_at: "2026-03-30T01:05:41.173Z"
+generated_at: "2026-03-30T01:12:43.218Z"
 ---
 
 # § 3271. Availability of soil surveys under soil survey program

@@ -3,9 +3,9 @@ title: "Section 4240 - Review and audit by Secretary"
 usc_title: 25
 usc_section: "4240"
 chapter: 43
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 4240"
-generated_at: "2026-03-30T01:03:48.765Z"
+generated_at: "2026-03-30T01:10:57.774Z"
 ---
 
 # § 4240. Review and audit by Secretary

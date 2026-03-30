@@ -3,9 +3,9 @@ title: "Section 6335 - Targeted grants to local educational agencies"
 usc_title: 20
 usc_section: "6335"
 chapter: 70
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "20 U.S.C. § 6335"
-generated_at: "2026-03-30T01:02:54.611Z"
+generated_at: "2026-03-30T01:10:32.994Z"
 ---
 
 # § 6335. Targeted grants to local educational agencies

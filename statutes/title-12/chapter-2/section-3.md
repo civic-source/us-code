@@ -3,9 +3,9 @@ title: "Section 3 - Mergers and consolidations with subsidiaries and nonbank aff
 usc_title: 12
 usc_section: "3"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T01:02:17.015Z"
+generated_at: "2026-03-30T01:10:24.194Z"
 ---
 
 # § 215a–3. Mergers and consolidations with subsidiaries and nonbank affiliates

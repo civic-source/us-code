@@ -3,9 +3,9 @@ title: "Section 552 - Postpetition effect of security interest"
 usc_title: 11
 usc_section: "552"
 chapter: 5
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "11 U.S.C. § 552"
-generated_at: "2026-03-30T01:02:24.328Z"
+generated_at: "2026-03-30T01:10:03.943Z"
 ---
 
 # § 552. Postpetition effect of security interest

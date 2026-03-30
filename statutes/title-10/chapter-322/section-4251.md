@@ -3,9 +3,9 @@ title: "Section 4251 - Major defense acquisition programs: determination require
 usc_title: 10
 usc_section: "4251"
 chapter: 322
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4251"
-generated_at: "2026-03-30T01:02:06.169Z"
+generated_at: "2026-03-30T01:10:00.700Z"
 ---
 
 # § 4251. Major defense acquisition programs: determination required before Milestone A approval

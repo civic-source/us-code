@@ -3,9 +3,9 @@ title: "Section 87f - Enforcement provisions"
 usc_title: 7
 usc_section: "87f"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 87f"
-generated_at: "2026-03-30T01:01:59.114Z"
+generated_at: "2026-03-30T01:09:47.543Z"
 ---
 
 # § 87f. Enforcement provisions

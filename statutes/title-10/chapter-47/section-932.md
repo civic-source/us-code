@@ -3,9 +3,9 @@ title: "Section 932 - Art. 132. Retaliation"
 usc_title: 10
 usc_section: "932"
 chapter: 47
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 932"
-generated_at: "2026-03-30T01:02:06.048Z"
+generated_at: "2026-03-30T01:10:00.572Z"
 ---
 
 # § 932. Art. 132. Retaliation

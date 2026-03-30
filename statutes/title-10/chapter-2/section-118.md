@@ -3,9 +3,9 @@ title: "Section 118 - Materiel readiness metrics and objectives for major weapon
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T01:02:05.993Z"
+generated_at: "2026-03-30T01:10:00.516Z"
 ---
 
 # § 118. Materiel readiness metrics and objectives for major weapon systems

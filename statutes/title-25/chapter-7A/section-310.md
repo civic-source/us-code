@@ -3,9 +3,9 @@ title: "Section 310 - Institute of American Indian and Alaska Native Culture and
 usc_title: 25
 usc_section: "310"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 310"
-generated_at: "2026-03-30T01:03:48.687Z"
+generated_at: "2026-03-30T01:10:57.702Z"
 ---
 
 # § 310. Institute of American Indian and Alaska Native Culture and Arts Development

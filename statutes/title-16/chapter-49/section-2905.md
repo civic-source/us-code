@@ -3,9 +3,9 @@ title: "Section 2905 - Reimbursement of State costs for developing, revising, an
 usc_title: 16
 usc_section: "2905"
 chapter: 49
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 2905"
-generated_at: "2026-03-30T01:03:37.548Z"
+generated_at: "2026-03-30T01:10:37.104Z"
 ---
 
 # § 2905. Reimbursement of State costs for developing, revising, and implementing conservation plans and implementing certain nongame fish and wildlife conservation actions

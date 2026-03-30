@@ -3,9 +3,9 @@ title: "Section 110 - Saving clause of Revised Statutes"
 usc_title: 1
 usc_section: "110"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "1 U.S.C. § 110"
-generated_at: "2026-03-30T01:00:39.121Z"
+generated_at: "2026-03-30T01:08:58.503Z"
 ---
 
 # § 110. Saving clause of Revised Statutes

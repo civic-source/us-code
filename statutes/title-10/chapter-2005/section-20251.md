@@ -3,9 +3,9 @@ title: "Section 20251 - Special selection boards; correction of errors"
 usc_title: 10
 usc_section: "20251"
 chapter: 2005
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 20251"
-generated_at: "2026-03-30T01:02:06.240Z"
+generated_at: "2026-03-30T01:10:00.776Z"
 ---
 
 # § 20251. 1 1 Another section 20251 is set out preceding this section. Special selection boards; correction of errors

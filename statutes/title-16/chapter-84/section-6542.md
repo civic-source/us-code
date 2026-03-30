@@ -3,9 +3,9 @@ title: "Section 6542 - Water Source Protection Program"
 usc_title: 16
 usc_section: "6542"
 chapter: 84
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 6542"
-generated_at: "2026-03-30T01:03:37.601Z"
+generated_at: "2026-03-30T01:10:37.155Z"
 ---
 
 # § 6542. Water Source Protection Program

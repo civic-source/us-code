@@ -3,9 +3,9 @@ title: "Section 3103 - Employment at seat of Government only for services render
 usc_title: 5
 usc_section: "3103"
 chapter: 31
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 3103"
-generated_at: "2026-03-30T01:01:03.897Z"
+generated_at: "2026-03-30T01:09:15.363Z"
 ---
 
 # § 3103. Employment at seat of Government only for services rendered

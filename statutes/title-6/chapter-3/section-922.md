@@ -3,9 +3,9 @@ title: "Section 922 - Repealed. Pub. L. 115–254, div. J, § 1816(c) , Oct. 5, 
 usc_title: 6
 usc_section: "922"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 922"
-generated_at: "2026-03-30T01:01:07.275Z"
+generated_at: "2026-03-30T01:09:22.902Z"
 ---
 
 # § 922. Repealed. Pub. L. 115–254, div. J, § 1816(c) , Oct. 5, 2018 , 132 Stat. 3541

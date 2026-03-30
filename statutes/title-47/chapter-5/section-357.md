@@ -3,9 +3,9 @@ title: "Section 357 - Safety information"
 usc_title: 47
 usc_section: "357"
 chapter: 5
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "47 U.S.C. § 357"
-generated_at: "2026-03-30T01:06:01.498Z"
+generated_at: "2026-03-30T01:12:50.064Z"
 ---
 
 # § 357. Safety information

@@ -3,9 +3,9 @@ title: "Section 430b - Control; regulations for care and management"
 usc_title: 16
 usc_section: "430b"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 430b"
-generated_at: "2026-03-30T01:03:37.306Z"
+generated_at: "2026-03-30T01:10:36.888Z"
 ---
 
 # § 430b. Control; regulations for care and management

@@ -3,9 +3,9 @@ title: "Section 14302 - Decisions"
 usc_title: 40
 usc_section: "14302"
 chapter: 143
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "40 U.S.C. § 14302"
-generated_at: "2026-03-30T01:05:08.159Z"
+generated_at: "2026-03-30T01:11:54.987Z"
 ---
 
 # § 14302. Decisions

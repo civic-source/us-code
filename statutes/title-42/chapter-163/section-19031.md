@@ -3,9 +3,9 @@ title: "Section 19031 - Office of Research Security and Policy"
 usc_title: 42
 usc_section: "19031"
 chapter: 163
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 19031"
-generated_at: "2026-03-30T01:05:41.617Z"
+generated_at: "2026-03-30T01:12:43.645Z"
 ---
 
 # § 19031. Office of Research Security and Policy

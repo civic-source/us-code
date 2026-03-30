@@ -3,9 +3,9 @@ title: "Section 8469 - Band: composition"
 usc_title: 10
 usc_section: "8469"
 chapter: 853
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8469"
-generated_at: "2026-03-30T01:02:06.198Z"
+generated_at: "2026-03-30T01:10:00.731Z"
 ---
 
 # § 8469. Band: composition

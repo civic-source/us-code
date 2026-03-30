@@ -3,9 +3,9 @@ title: "Section 8302 - Staff department"
 usc_title: 46
 usc_section: "8302"
 chapter: 83
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "46 U.S.C. § 8302"
-generated_at: "2026-03-30T01:06:18.949Z"
+generated_at: "2026-03-30T01:12:51.253Z"
 ---
 
 # § 8302. Staff department

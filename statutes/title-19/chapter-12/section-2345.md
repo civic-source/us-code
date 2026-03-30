@@ -3,9 +3,9 @@ title: "Section 2345 - Conditions for financial assistance"
 usc_title: 19
 usc_section: "2345"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "19 U.S.C. § 2345"
-generated_at: "2026-03-30T01:02:51.863Z"
+generated_at: "2026-03-30T01:10:52.700Z"
 ---
 
 # § 2345. Conditions for financial assistance

@@ -3,9 +3,9 @@ title: "Section 7142c - Museum volunteers"
 usc_title: 42
 usc_section: "7142c"
 chapter: 84
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 7142c"
-generated_at: "2026-03-30T01:05:41.295Z"
+generated_at: "2026-03-30T01:12:43.336Z"
 ---
 
 # § 7142c. Museum volunteers

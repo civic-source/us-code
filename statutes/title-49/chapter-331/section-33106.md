@@ -3,9 +3,9 @@ title: "Section 33106 - Exemption for passenger motor vehicles equipped with ant
 usc_title: 49
 usc_section: "33106"
 chapter: 331
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "49 U.S.C. § 33106"
-generated_at: "2026-03-30T01:06:35.209Z"
+generated_at: "2026-03-30T01:12:54.688Z"
 ---
 
 # § 33106. Exemption for passenger motor vehicles equipped with anti-theft devices

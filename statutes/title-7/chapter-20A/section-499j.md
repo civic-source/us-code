@@ -3,9 +3,9 @@ title: "Section 499j - Orders; effective date; continuance in force; suspension,
 usc_title: 7
 usc_section: "499j"
 chapter: 20
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 499j"
-generated_at: "2026-03-30T01:01:59.152Z"
+generated_at: "2026-03-30T01:09:47.579Z"
 ---
 
 # § 499j. Orders; effective date; continuance in force; suspension, modification and setting aside; penalty

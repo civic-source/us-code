@@ -3,9 +3,9 @@ title: "Section 1 - Energy sustainability and efficiency grants and loans for in
 usc_title: 42
 usc_section: "1"
 chapter: 77
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T01:05:41.264Z"
+generated_at: "2026-03-30T01:12:43.307Z"
 ---
 
 # § 6371h–1. Energy sustainability and efficiency grants and loans for institutions

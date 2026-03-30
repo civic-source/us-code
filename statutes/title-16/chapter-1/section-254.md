@@ -3,9 +3,9 @@ title: "Section 254 - Administration, protection, and development"
 usc_title: 16
 usc_section: "254"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 254"
-generated_at: "2026-03-30T01:03:37.252Z"
+generated_at: "2026-03-30T01:10:36.836Z"
 ---
 
 # § 254. Administration, protection, and development

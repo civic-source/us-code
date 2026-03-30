@@ -3,9 +3,9 @@ title: "Section 491 - Authority of Secretary to operate works"
 usc_title: 43
 usc_section: "491"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 491"
-generated_at: "2026-03-30T01:05:16.008Z"
+generated_at: "2026-03-30T01:12:04.161Z"
 ---
 
 # § 491. Authority of Secretary to operate works

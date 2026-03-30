@@ -3,9 +3,9 @@ title: "Section 3600 - DNA testing"
 usc_title: 18
 usc_section: "3600"
 chapter: 228
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3600"
-generated_at: "2026-03-30T01:02:49.050Z"
+generated_at: "2026-03-30T01:10:29.368Z"
 ---
 
 # § 3600. DNA testing

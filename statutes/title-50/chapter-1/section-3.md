@@ -3,9 +3,9 @@ title: "Section 3 - Duties of council"
 usc_title: 50
 usc_section: "3"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3"
-generated_at: "2026-03-30T01:06:06.728Z"
+generated_at: "2026-03-30T01:13:12.939Z"
 ---
 
 # § 3. Duties of council

@@ -3,9 +3,9 @@ title: "Section 8272 - Photovoltaic energy program"
 usc_title: 42
 usc_section: "8272"
 chapter: 91
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 8272"
-generated_at: "2026-03-30T01:05:41.367Z"
+generated_at: "2026-03-30T01:12:43.403Z"
 ---
 
 # § 8272. Photovoltaic energy program

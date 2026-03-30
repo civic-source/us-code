@@ -3,9 +3,9 @@ title: "Section 941 - Railroad stations on rights of way granted"
 usc_title: 43
 usc_section: "941"
 chapter: 22
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 941"
-generated_at: "2026-03-30T01:05:16.025Z"
+generated_at: "2026-03-30T01:12:04.187Z"
 ---
 
 # § 941. Railroad stations on rights of way granted

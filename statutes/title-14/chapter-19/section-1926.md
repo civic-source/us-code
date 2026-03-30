@@ -3,9 +3,9 @@ title: "Section 1926 - Cadet applicants; preappointment travel to Academy"
 usc_title: 14
 usc_section: "1926"
 chapter: 19
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "14 U.S.C. § 1926"
-generated_at: "2026-03-30T01:02:26.325Z"
+generated_at: "2026-03-30T01:10:03.452Z"
 ---
 
 # § 1926. Cadet applicants; preappointment travel to Academy

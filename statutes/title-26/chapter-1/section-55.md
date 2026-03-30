@@ -3,9 +3,9 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-30T01:04:51.349Z"
+generated_at: "2026-03-30T01:11:37.767Z"
 ---
 
 # § 55. Alternative minimum tax imposed

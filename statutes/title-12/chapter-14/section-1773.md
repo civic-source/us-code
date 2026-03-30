@@ -3,9 +3,9 @@ title: "Section 1773 - District of Columbia credit unions; conversion to Federal
 usc_title: 12
 usc_section: "1773"
 chapter: 14
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 1773"
-generated_at: "2026-03-30T01:02:17.101Z"
+generated_at: "2026-03-30T01:10:24.293Z"
 ---
 
 # § 1773. District of Columbia credit unions; conversion to Federal status

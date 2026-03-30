@@ -3,9 +3,9 @@ title: "Section 18120 - Application"
 usc_title: 42
 usc_section: "18120"
 chapter: 157
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 18120"
-generated_at: "2026-03-30T01:05:41.593Z"
+generated_at: "2026-03-30T01:12:43.621Z"
 ---
 
 # § 18120. Application

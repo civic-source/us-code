@@ -3,9 +3,9 @@ title: "Section 2257a - Uniform financial reporting instructions"
 usc_title: 12
 usc_section: "2257a"
 chapter: 23
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 2257a"
-generated_at: "2026-03-30T01:02:17.159Z"
+generated_at: "2026-03-30T01:10:24.355Z"
 ---
 
 # § 2257a. Uniform financial reporting instructions

@@ -3,9 +3,9 @@ title: "Section 2508 - Encouragement and protection of small business"
 usc_title: 15
 usc_section: "2508"
 chapter: 52
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 2508"
-generated_at: "2026-03-30T01:02:38.442Z"
+generated_at: "2026-03-30T01:10:09.392Z"
 ---
 
 # § 2508. Encouragement and protection of small business

@@ -3,9 +3,9 @@ title: "Section 50502 - Applicability to receivers, trustees, successors, and as
 usc_title: 46
 usc_section: "50502"
 chapter: 505
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "46 U.S.C. § 50502"
-generated_at: "2026-03-30T01:06:18.969Z"
+generated_at: "2026-03-30T01:12:51.274Z"
 ---
 
 # § 50502. Applicability to receivers, trustees, successors, and assigns

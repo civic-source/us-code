@@ -3,9 +3,9 @@ title: "Section 4730 - Great Lakes and Lake Champlain Invasive Species Program"
 usc_title: 16
 usc_section: "4730"
 chapter: 67
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 4730"
-generated_at: "2026-03-30T01:03:37.587Z"
+generated_at: "2026-03-30T01:10:37.140Z"
 ---
 
 # § 4730. Great Lakes and Lake Champlain Invasive Species Program

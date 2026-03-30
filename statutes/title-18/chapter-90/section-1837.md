@@ -3,9 +3,9 @@ title: "Section 1837 - Applicability to conduct outside the United States"
 usc_title: 18
 usc_section: "1837"
 chapter: 90
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 1837"
-generated_at: "2026-03-30T01:02:49.011Z"
+generated_at: "2026-03-30T01:10:29.323Z"
 ---
 
 # § 1837. Applicability to conduct outside the United States

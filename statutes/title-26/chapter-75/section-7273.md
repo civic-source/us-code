@@ -3,9 +3,9 @@ title: "Section 7273 - Penalties for offenses relating to special taxes"
 usc_title: 26
 usc_section: "7273"
 chapter: 75
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 7273"
-generated_at: "2026-03-30T01:04:51.662Z"
+generated_at: "2026-03-30T01:11:38.051Z"
 ---
 
 # § 7273. Penalties for offenses relating to special taxes

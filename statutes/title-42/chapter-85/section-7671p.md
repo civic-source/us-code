@@ -3,9 +3,9 @@ title: "Section 7671p - International cooperation"
 usc_title: 42
 usc_section: "7671p"
 chapter: 85
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 7671p"
-generated_at: "2026-03-30T01:05:41.353Z"
+generated_at: "2026-03-30T01:12:43.390Z"
 ---
 
 # § 7671p. International cooperation

@@ -3,9 +3,9 @@ title: "Section 3582 - Imposition of a sentence of imprisonment"
 usc_title: 18
 usc_section: "3582"
 chapter: 227
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3582"
-generated_at: "2026-03-30T01:02:49.049Z"
+generated_at: "2026-03-30T01:10:29.366Z"
 ---
 
 # § 3582. Imposition of a sentence of imprisonment

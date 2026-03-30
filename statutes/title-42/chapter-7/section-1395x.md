@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T01:05:40.939Z"
+generated_at: "2026-03-30T01:12:42.992Z"
 ---
 
 # § 1395x. Definitions

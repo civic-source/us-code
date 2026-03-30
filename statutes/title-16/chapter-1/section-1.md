@@ -3,9 +3,9 @@ title: "Section 1 - Alabama Hills National Scenic Area, California"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T01:03:37.365Z"
+generated_at: "2026-03-30T01:10:36.946Z"
 ---
 
 # § 460ffff–1. Alabama Hills National Scenic Area, California

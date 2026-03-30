@@ -3,9 +3,9 @@ title: "Section 9852c - General provisions"
 usc_title: 42
 usc_section: "9852c"
 chapter: 105
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 9852c"
-generated_at: "2026-03-30T01:05:41.411Z"
+generated_at: "2026-03-30T01:12:43.446Z"
 ---
 
 # § 9852c. General provisions

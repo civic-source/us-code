@@ -3,9 +3,9 @@ title: "Section 836a - Rules governing issuance of license"
 usc_title: 16
 usc_section: "836a"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 836a"
-generated_at: "2026-03-30T01:03:37.455Z"
+generated_at: "2026-03-30T01:10:37.025Z"
 ---
 
 # § 836a. Rules governing issuance of license

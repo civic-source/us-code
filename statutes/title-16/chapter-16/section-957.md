@@ -3,9 +3,9 @@ title: "Section 957 - Violations; fines and forfeitures; application of related 
 usc_title: 16
 usc_section: "957"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 957"
-generated_at: "2026-03-30T01:03:37.467Z"
+generated_at: "2026-03-30T01:10:37.034Z"
 ---
 
 # § 957. Violations; fines and forfeitures; application of related laws

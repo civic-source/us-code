@@ -3,9 +3,9 @@ title: "Section 3308a - Provision of certain information to Government Accountab
 usc_title: 50
 usc_section: "3308a"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3308a"
-generated_at: "2026-03-30T01:06:06.799Z"
+generated_at: "2026-03-30T01:13:12.996Z"
 ---
 
 # § 3308a. Provision of certain information to Government Accountability Office by National Reconnaissance Office

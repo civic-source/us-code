@@ -3,9 +3,9 @@ title: "Section 3333 - Joint facilities certification"
 usc_title: 50
 usc_section: "3333"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3333"
-generated_at: "2026-03-30T01:06:06.801Z"
+generated_at: "2026-03-30T01:13:12.999Z"
 ---
 
 # § 3333. Joint facilities certification

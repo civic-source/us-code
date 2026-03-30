@@ -3,9 +3,9 @@ title: "Section 5 - Application of safe harbor for forward-looking statements"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T01:02:38.292Z"
+generated_at: "2026-03-30T01:10:09.203Z"
 ---
 
 # § 78u–5. Application of safe harbor for forward-looking statements

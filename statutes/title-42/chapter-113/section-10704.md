@@ -3,9 +3,9 @@ title: "Section 10704 - Officers and employees"
 usc_title: 42
 usc_section: "10704"
 chapter: 113
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 10704"
-generated_at: "2026-03-30T01:05:41.433Z"
+generated_at: "2026-03-30T01:12:43.468Z"
 ---
 
 # § 10704. Officers and employees

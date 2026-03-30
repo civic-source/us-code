@@ -3,9 +3,9 @@ title: "Section 3321 - Number of grand jurors; summoning additional jurors"
 usc_title: 18
 usc_section: "3321"
 chapter: 215
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3321"
-generated_at: "2026-03-30T01:02:49.042Z"
+generated_at: "2026-03-30T01:10:29.359Z"
 ---
 
 # § 3321. Number of grand jurors; summoning additional jurors

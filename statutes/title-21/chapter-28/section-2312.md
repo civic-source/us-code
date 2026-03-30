@@ -3,9 +3,9 @@ title: "Section 2312 - Imposition of sanctions"
 usc_title: 21
 usc_section: "2312"
 chapter: 28
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "21 U.S.C. § 2312"
-generated_at: "2026-03-30T01:04:09.603Z"
+generated_at: "2026-03-30T01:11:04.884Z"
 ---
 
 # § 2312. Imposition of sanctions

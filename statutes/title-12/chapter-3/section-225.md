@@ -3,9 +3,9 @@ title: "Section 225 - Federal reserve banks; title"
 usc_title: 12
 usc_section: "225"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "12 U.S.C. § 225"
-generated_at: "2026-03-30T01:02:17.016Z"
+generated_at: "2026-03-30T01:10:24.195Z"
 ---
 
 # § 225. Federal reserve banks; title

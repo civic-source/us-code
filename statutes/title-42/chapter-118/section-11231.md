@@ -3,9 +3,9 @@ title: "Section 11231 - Transferred"
 usc_title: 42
 usc_section: "11231"
 chapter: 118
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 11231"
-generated_at: "2026-03-30T01:05:41.440Z"
+generated_at: "2026-03-30T01:12:43.474Z"
 ---
 
 # § 11231. Transferred

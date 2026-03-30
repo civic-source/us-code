@@ -3,9 +3,9 @@ title: "Section 6619 - Advance payments for computer programing services"
 usc_title: 2
 usc_section: "6619"
 chapter: 65
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "2 U.S.C. § 6619"
-generated_at: "2026-03-30T01:00:36.193Z"
+generated_at: "2026-03-30T01:09:17.828Z"
 ---
 
 # § 6619. Advance payments for computer programing services

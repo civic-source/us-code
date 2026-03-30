@@ -3,9 +3,9 @@ title: "Section 466 - Imports"
 usc_title: 21
 usc_section: "466"
 chapter: 10
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "21 U.S.C. § 466"
-generated_at: "2026-03-30T01:04:09.569Z"
+generated_at: "2026-03-30T01:11:04.853Z"
 ---
 
 # § 466. Imports

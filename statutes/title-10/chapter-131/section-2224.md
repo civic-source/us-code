@@ -3,9 +3,9 @@ title: "Section 2224 - Defense Information Assurance Program"
 usc_title: 10
 usc_section: "2224"
 chapter: 131
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 2224"
-generated_at: "2026-03-30T01:02:06.113Z"
+generated_at: "2026-03-30T01:10:00.640Z"
 ---
 
 # § 2224. Defense Information Assurance Program

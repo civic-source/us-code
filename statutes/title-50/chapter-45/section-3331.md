@@ -3,9 +3,9 @@ title: "Section 3331 - Management of intelligence community personnel"
 usc_title: 50
 usc_section: "3331"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3331"
-generated_at: "2026-03-30T01:06:06.801Z"
+generated_at: "2026-03-30T01:13:12.999Z"
 ---
 
 # § 3331. Management of intelligence community personnel

@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T01:04:51.417Z"
+generated_at: "2026-03-30T01:11:37.829Z"
 ---
 
 # § 401. Qualified pension, profit-sharing, and stock bonus plans

@@ -3,9 +3,9 @@ title: "Section 504 - Commandant; general powers"
 usc_title: 14
 usc_section: "504"
 chapter: 5
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "14 U.S.C. § 504"
-generated_at: "2026-03-30T01:02:26.316Z"
+generated_at: "2026-03-30T01:10:03.442Z"
 ---
 
 # § 504. Commandant; general powers

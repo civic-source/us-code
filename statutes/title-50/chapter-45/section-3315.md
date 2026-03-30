@@ -3,9 +3,9 @@ title: "Section 3315 - Repealed. Pub. L. 117–103, div. X, title V, § 504(e) ,
 usc_title: 50
 usc_section: "3315"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3315"
-generated_at: "2026-03-30T01:06:06.799Z"
+generated_at: "2026-03-30T01:13:12.998Z"
 ---
 
 # § 3315. Repealed. Pub. L. 117–103, div. X, title V, § 504(e) , Mar. 15, 2022 , 136 Stat. 988

@@ -3,9 +3,9 @@ title: "Section 9412 - National Artificial Intelligence Initiative Office"
 usc_title: 15
 usc_section: "9412"
 chapter: 119
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 9412"
-generated_at: "2026-03-30T01:02:38.544Z"
+generated_at: "2026-03-30T01:10:09.507Z"
 ---
 
 # § 9412. National Artificial Intelligence Initiative Office

@@ -3,9 +3,9 @@ title: "Section 315 - Grazing districts; establishment; restrictions; prior righ
 usc_title: 43
 usc_section: "315"
 chapter: 8
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 315"
-generated_at: "2026-03-30T01:05:15.987Z"
+generated_at: "2026-03-30T01:12:04.137Z"
 ---
 
 # § 315. Grazing districts; establishment; restrictions; prior rights; rights-of-way; hearing and notice; hunting or fishing rights

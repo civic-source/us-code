@@ -3,9 +3,9 @@ title: "Section 46106 - Annual report"
 usc_title: 46
 usc_section: "46106"
 chapter: 461
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "46 U.S.C. § 46106"
-generated_at: "2026-03-30T01:06:18.967Z"
+generated_at: "2026-03-30T01:12:51.272Z"
 ---
 
 # § 46106. Annual report

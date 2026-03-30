@@ -3,9 +3,9 @@ title: "Section 3115 - Submission of legislative proposals"
 usc_title: 50
 usc_section: "3115"
 chapter: 44
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 3115"
-generated_at: "2026-03-30T01:06:06.793Z"
+generated_at: "2026-03-30T01:13:12.992Z"
 ---
 
 # § 3115. Submission of legislative proposals

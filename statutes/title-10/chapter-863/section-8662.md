@@ -3,9 +3,9 @@ title: "Section 8662 - Naming"
 usc_title: 10
 usc_section: "8662"
 chapter: 863
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8662"
-generated_at: "2026-03-30T01:02:06.201Z"
+generated_at: "2026-03-30T01:10:00.735Z"
 ---
 
 # § 8662. Naming

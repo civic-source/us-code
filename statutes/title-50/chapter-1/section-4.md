@@ -3,9 +3,9 @@ title: "Section 4 - Rules and regulations; subordinate bodies and committees"
 usc_title: 50
 usc_section: "4"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 4"
-generated_at: "2026-03-30T01:06:06.728Z"
+generated_at: "2026-03-30T01:13:12.939Z"
 ---
 
 # § 4. Rules and regulations; subordinate bodies and committees

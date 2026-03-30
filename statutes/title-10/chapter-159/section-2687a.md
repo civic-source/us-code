@@ -3,9 +3,9 @@ title: "Section 2687a - Overseas base closures and realignments and status of Un
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-30T01:02:06.134Z"
+generated_at: "2026-03-30T01:10:00.662Z"
 ---
 
 # § 2687a. Overseas base closures and realignments and status of United States overseas military locations

@@ -3,9 +3,9 @@ title: "Section 4918 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4918"
 chapter: 65
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 4918"
-generated_at: "2026-03-30T01:05:41.207Z"
+generated_at: "2026-03-30T01:12:43.251Z"
 ---
 
 # § 4918. Authorization of appropriations

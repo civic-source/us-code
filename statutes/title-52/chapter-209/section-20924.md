@@ -3,9 +3,9 @@ title: "Section 20924 - Staff"
 usc_title: 52
 usc_section: "20924"
 chapter: 209
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "52 U.S.C. § 20924"
-generated_at: "2026-03-30T01:06:37.455Z"
+generated_at: "2026-03-30T01:13:25.516Z"
 ---
 
 # § 20924. Staff

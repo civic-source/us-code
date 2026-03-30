@@ -3,9 +3,9 @@ title: "Section 594 - Testing authority"
 usc_title: 6
 usc_section: "594"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 594"
-generated_at: "2026-03-30T01:01:07.254Z"
+generated_at: "2026-03-30T01:09:22.884Z"
 ---
 
 # § 594. Testing authority

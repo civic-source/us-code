@@ -3,9 +3,9 @@ title: "Section 1581 - Housing disposition"
 usc_title: 42
 usc_section: "1581"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1581"
-generated_at: "2026-03-30T01:05:41.071Z"
+generated_at: "2026-03-30T01:12:43.114Z"
 ---
 
 # § 1581. Housing disposition

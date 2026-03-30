@@ -3,9 +3,9 @@ title: "Section 973k - Closed Area stowage requirements"
 usc_title: 16
 usc_section: "973k"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 973k"
-generated_at: "2026-03-30T01:03:37.470Z"
+generated_at: "2026-03-30T01:10:37.036Z"
 ---
 
 # § 973k. Closed Area stowage requirements

@@ -3,9 +3,9 @@ title: "Section 4843 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4843"
 chapter: 63
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 4843"
-generated_at: "2026-03-30T01:05:41.203Z"
+generated_at: "2026-03-30T01:12:43.247Z"
 ---
 
 # § 4843. Authorization of appropriations

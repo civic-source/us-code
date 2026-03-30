@@ -3,9 +3,9 @@ title: "Section 555 - Duty of shipowners and officers to furnish information req
 usc_title: 33
 usc_section: "555"
 chapter: 12
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 555"
-generated_at: "2026-03-30T01:04:57.279Z"
+generated_at: "2026-03-30T01:11:45.376Z"
 ---
 
 # § 555. Duty of shipowners and officers to furnish information required by Secretary of the Army

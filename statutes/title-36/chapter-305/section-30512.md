@@ -3,9 +3,9 @@ title: "Section 30512 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "30512"
 chapter: 305
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 30512"
-generated_at: "2026-03-30T01:05:07.451Z"
+generated_at: "2026-03-30T01:11:48.480Z"
 ---
 
 # § 30512. Liability for acts of officers and agents

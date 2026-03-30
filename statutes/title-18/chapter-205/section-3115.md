@@ -3,9 +3,9 @@ title: "Section 3115 - Inventory upon execution and return of search warrant—(
 usc_title: 18
 usc_section: "3115"
 chapter: 205
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 3115"
-generated_at: "2026-03-30T01:02:49.037Z"
+generated_at: "2026-03-30T01:10:29.354Z"
 ---
 
 # § 3115. Inventory upon execution and return of search warrant—(Rule)

@@ -3,9 +3,9 @@ title: "Section 20123 - Grants for outreach and services to underserved populati
 usc_title: 34
 usc_section: "20123"
 chapter: 201
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 20123"
-generated_at: "2026-03-30T01:05:00.113Z"
+generated_at: "2026-03-30T01:11:43.078Z"
 ---
 
 # § 20123. Grants for outreach and services to underserved populations

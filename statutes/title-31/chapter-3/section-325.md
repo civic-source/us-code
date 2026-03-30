@@ -3,9 +3,9 @@ title: "Section 325 - International affairs authorization"
 usc_title: 31
 usc_section: "325"
 chapter: 3
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "31 U.S.C. § 325"
-generated_at: "2026-03-30T01:04:55.644Z"
+generated_at: "2026-03-30T01:11:44.014Z"
 ---
 
 # § 325. International affairs authorization

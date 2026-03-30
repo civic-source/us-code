@@ -3,9 +3,9 @@ title: "Section 3373 - Penalties and sanctions"
 usc_title: 16
 usc_section: "3373"
 chapter: 53
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 3373"
-generated_at: "2026-03-30T01:03:37.557Z"
+generated_at: "2026-03-30T01:10:37.112Z"
 ---
 
 # § 3373. Penalties and sanctions

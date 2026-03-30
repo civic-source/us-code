@@ -3,9 +3,9 @@ title: "Section 2151h - Cost-sharing"
 usc_title: 22
 usc_section: "2151h"
 chapter: 32
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 2151h"
-generated_at: "2026-03-30T01:04:13.263Z"
+generated_at: "2026-03-30T01:11:13.452Z"
 ---
 
 # § 2151h. Cost-sharing

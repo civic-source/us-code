@@ -3,9 +3,9 @@ title: "Section 20201 - Original appointments: how made"
 usc_title: 10
 usc_section: "20201"
 chapter: 2005
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 20201"
-generated_at: "2026-03-30T01:02:06.238Z"
+generated_at: "2026-03-30T01:10:00.774Z"
 ---
 
 # § 20201. Original appointments: how made

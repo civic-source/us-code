@@ -3,9 +3,9 @@ title: "Section 4902 - Statement of purpose"
 usc_title: 16
 usc_section: "4902"
 chapter: 69
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 4902"
-generated_at: "2026-03-30T01:03:37.588Z"
+generated_at: "2026-03-30T01:10:37.141Z"
 ---
 
 # § 4902. Statement of purpose

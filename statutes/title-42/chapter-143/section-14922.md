@@ -3,9 +3,9 @@ title: "Section 14922 - Process for accreditation and approval; role of accredit
 usc_title: 42
 usc_section: "14922"
 chapter: 143
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 14922"
-generated_at: "2026-03-30T01:05:41.511Z"
+generated_at: "2026-03-30T01:12:43.543Z"
 ---
 
 # § 14922. Process for accreditation and approval; role of accrediting entities

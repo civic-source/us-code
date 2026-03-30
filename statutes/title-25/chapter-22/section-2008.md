@@ -3,9 +3,9 @@ title: "Section 2008 - Administrative cost grants"
 usc_title: 25
 usc_section: "2008"
 chapter: 22
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 2008"
-generated_at: "2026-03-30T01:03:48.727Z"
+generated_at: "2026-03-30T01:10:57.739Z"
 ---
 
 # § 2008. Administrative cost grants

@@ -3,9 +3,9 @@ title: "Section 1087bb - Allocation of funds"
 usc_title: 20
 usc_section: "1087bb"
 chapter: 28
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "20 U.S.C. § 1087bb"
-generated_at: "2026-03-30T01:02:54.523Z"
+generated_at: "2026-03-30T01:10:32.899Z"
 ---
 
 # § 1087bb. Allocation of funds

@@ -3,9 +3,9 @@ title: "Section 1003a - Cost share assistance"
 usc_title: 16
 usc_section: "1003a"
 chapter: 18
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 1003a"
-generated_at: "2026-03-30T01:03:37.471Z"
+generated_at: "2026-03-30T01:10:37.036Z"
 ---
 
 # § 1003a. Cost share assistance

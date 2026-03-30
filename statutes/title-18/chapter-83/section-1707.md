@@ -3,9 +3,9 @@ title: "Section 1707 - Theft of property used by Postal Service"
 usc_title: 18
 usc_section: "1707"
 chapter: 83
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 1707"
-generated_at: "2026-03-30T01:02:49.008Z"
+generated_at: "2026-03-30T01:10:29.320Z"
 ---
 
 # § 1707. Theft of property used by Postal Service

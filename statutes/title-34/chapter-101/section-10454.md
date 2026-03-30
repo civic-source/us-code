@@ -3,9 +3,9 @@ title: "Section 10454 - Grant eligibility regarding compelling victim testimony"
 usc_title: 34
 usc_section: "10454"
 chapter: 101
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "34 U.S.C. § 10454"
-generated_at: "2026-03-30T01:05:00.077Z"
+generated_at: "2026-03-30T01:11:43.046Z"
 ---
 
 # § 10454. Grant eligibility regarding compelling victim testimony

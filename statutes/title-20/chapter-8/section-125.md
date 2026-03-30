@@ -3,9 +3,9 @@ title: "Section 125 - Employees of hospital"
 usc_title: 20
 usc_section: "125"
 chapter: 8
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "20 U.S.C. § 125"
-generated_at: "2026-03-30T01:02:54.474Z"
+generated_at: "2026-03-30T01:10:32.844Z"
 ---
 
 # § 125. Employees of hospital

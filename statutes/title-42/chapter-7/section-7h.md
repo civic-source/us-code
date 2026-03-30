@@ -3,9 +3,9 @@ title: "Section 7h - Transparency reports and reporting of physician ownership o
 usc_title: 42
 usc_section: "7h"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 7h"
-generated_at: "2026-03-30T01:05:40.841Z"
+generated_at: "2026-03-30T01:12:42.898Z"
 ---
 
 # § 1320a–7h. Transparency reports and reporting of physician ownership or investment interests

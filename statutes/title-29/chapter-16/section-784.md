@@ -3,9 +3,9 @@ title: "Section 784 - Administrative powers of National Council"
 usc_title: 29
 usc_section: "784"
 chapter: 16
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "29 U.S.C. § 784"
-generated_at: "2026-03-30T01:04:23.722Z"
+generated_at: "2026-03-30T01:11:31.595Z"
 ---
 
 # § 784. Administrative powers of National Council

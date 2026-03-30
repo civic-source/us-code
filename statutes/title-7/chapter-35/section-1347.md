@@ -3,9 +3,9 @@ title: "Section 1347 - Repealed. Pub. L. 98–88, § 2 , Aug. 26, 1983 , 97 Stat
 usc_title: 7
 usc_section: "1347"
 chapter: 35
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1347"
-generated_at: "2026-03-30T01:01:59.175Z"
+generated_at: "2026-03-30T01:09:47.601Z"
 ---
 
 # § 1347. Repealed. Pub. L. 98–88, § 2 , Aug. 26, 1983 , 97 Stat. 494

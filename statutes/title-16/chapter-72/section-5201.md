@@ -3,9 +3,9 @@ title: "Section 5201 - Obstruction of a lawful hunt"
 usc_title: 16
 usc_section: "5201"
 chapter: 72
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 5201"
-generated_at: "2026-03-30T01:03:37.591Z"
+generated_at: "2026-03-30T01:10:37.144Z"
 ---
 
 # § 5201. Obstruction of a lawful hunt

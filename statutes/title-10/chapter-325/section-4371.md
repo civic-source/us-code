@@ -3,9 +3,9 @@ title: "Section 4371 - Cost growth definitions; applicability of reporting requi
 usc_title: 10
 usc_section: "4371"
 chapter: 325
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4371"
-generated_at: "2026-03-30T01:02:06.172Z"
+generated_at: "2026-03-30T01:10:00.702Z"
 ---
 
 # § 4371. Cost growth definitions; applicability of reporting requirements; constant base year dollars

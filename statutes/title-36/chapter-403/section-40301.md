@@ -3,9 +3,9 @@ title: "Section 40301 - Organization"
 usc_title: 36
 usc_section: "40301"
 chapter: 403
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 40301"
-generated_at: "2026-03-30T01:05:07.452Z"
+generated_at: "2026-03-30T01:11:48.481Z"
 ---
 
 # § 40301. Organization

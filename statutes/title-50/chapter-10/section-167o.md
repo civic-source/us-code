@@ -3,9 +3,9 @@ title: "Section 167o - Low-Btu gas separation and helium conservation"
 usc_title: 50
 usc_section: "167o"
 chapter: 10
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 167o"
-generated_at: "2026-03-30T01:06:06.732Z"
+generated_at: "2026-03-30T01:13:12.942Z"
 ---
 
 # § 167o. Low-Btu gas separation and helium conservation

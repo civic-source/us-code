@@ -3,9 +3,9 @@ title: "Section 8191 - Determination of eligibility"
 usc_title: 5
 usc_section: "8191"
 chapter: 81
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 8191"
-generated_at: "2026-03-30T01:01:03.945Z"
+generated_at: "2026-03-30T01:09:15.423Z"
 ---
 
 # § 8191. Determination of eligibility

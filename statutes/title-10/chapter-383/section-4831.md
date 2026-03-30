@@ -3,9 +3,9 @@ title: "Section 4831 - Defense dual-use critical technology program"
 usc_title: 10
 usc_section: "4831"
 chapter: 383
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 4831"
-generated_at: "2026-03-30T01:02:06.177Z"
+generated_at: "2026-03-30T01:10:00.708Z"
 ---
 
 # § 4831. Defense dual-use critical technology program

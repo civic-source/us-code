@@ -3,9 +3,9 @@ title: "Section 123c - Advancement of tribal funds to Indian tribes; miscellaneo
 usc_title: 25
 usc_section: "123c"
 chapter: 4
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 123c"
-generated_at: "2026-03-30T01:03:48.681Z"
+generated_at: "2026-03-30T01:10:57.696Z"
 ---
 
 # § 123c. Advancement of tribal funds to Indian tribes; miscellaneous authorized purposes

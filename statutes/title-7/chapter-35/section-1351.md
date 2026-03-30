@@ -3,9 +3,9 @@ title: "Section 1351 - Omitted"
 usc_title: 7
 usc_section: "1351"
 chapter: 35
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 1351"
-generated_at: "2026-03-30T01:01:59.176Z"
+generated_at: "2026-03-30T01:09:47.601Z"
 ---
 
 # § 1351. Omitted

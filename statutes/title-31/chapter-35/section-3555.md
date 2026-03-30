@@ -3,9 +3,9 @@ title: "Section 3555 - Regulations; authority of Comptroller General to verify a
 usc_title: 31
 usc_section: "3555"
 chapter: 35
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "31 U.S.C. § 3555"
-generated_at: "2026-03-30T01:04:55.665Z"
+generated_at: "2026-03-30T01:11:44.032Z"
 ---
 
 # § 3555. Regulations; authority of Comptroller General to verify assertions

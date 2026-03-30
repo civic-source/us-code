@@ -3,9 +3,9 @@ title: "Section 181 - Under Secretary for Science and Technology"
 usc_title: 6
 usc_section: "181"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 181"
-generated_at: "2026-03-30T01:01:07.219Z"
+generated_at: "2026-03-30T01:09:22.855Z"
 ---
 
 # § 181. Under Secretary for Science and Technology

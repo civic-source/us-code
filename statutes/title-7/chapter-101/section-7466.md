@@ -3,9 +3,9 @@ title: "Section 7466 - Permissive terms in order"
 usc_title: 7
 usc_section: "7466"
 chapter: 101
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 7466"
-generated_at: "2026-03-30T01:01:59.342Z"
+generated_at: "2026-03-30T01:09:47.765Z"
 ---
 
 # § 7466. Permissive terms in order

@@ -3,9 +3,9 @@ title: "Section 1395aaa - Contract with a consensus-based entity regarding perfo
 usc_title: 42
 usc_section: "1395aaa"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 1395aaa"
-generated_at: "2026-03-30T01:05:40.979Z"
+generated_at: "2026-03-30T01:12:43.028Z"
 ---
 
 # § 1395aaa. Contract with a consensus-based entity regarding performance measurement

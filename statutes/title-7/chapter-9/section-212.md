@@ -3,9 +3,9 @@ title: "Section 212 - Prescribing rates and practices to prevent discrimination 
 usc_title: 7
 usc_section: "212"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 212"
-generated_at: "2026-03-30T01:01:59.142Z"
+generated_at: "2026-03-30T01:09:47.569Z"
 ---
 
 # § 212. Prescribing rates and practices to prevent discrimination between intrastate and interstate commerce

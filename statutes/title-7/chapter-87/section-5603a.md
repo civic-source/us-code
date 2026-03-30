@@ -3,9 +3,9 @@ title: "Section 5603a - Global market strategy"
 usc_title: 7
 usc_section: "5603a"
 chapter: 87
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "7 U.S.C. § 5603a"
-generated_at: "2026-03-30T01:01:59.299Z"
+generated_at: "2026-03-30T01:09:47.723Z"
 ---
 
 # § 5603a. Global market strategy

@@ -3,9 +3,9 @@ title: "Section 591h - Relationship to other Department components and Federal a
 usc_title: 6
 usc_section: "591h"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "6 U.S.C. § 591h"
-generated_at: "2026-03-30T01:01:07.253Z"
+generated_at: "2026-03-30T01:09:22.883Z"
 ---
 
 # § 591h. Relationship to other Department components and Federal agencies

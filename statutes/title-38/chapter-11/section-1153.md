@@ -3,9 +3,9 @@ title: "Section 1153 - Aggravation"
 usc_title: 38
 usc_section: "1153"
 chapter: 11
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "38 U.S.C. § 1153"
-generated_at: "2026-03-30T01:05:11.366Z"
+generated_at: "2026-03-30T01:11:54.297Z"
 ---
 
 # § 1153. Aggravation

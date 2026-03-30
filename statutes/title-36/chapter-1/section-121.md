@@ -3,9 +3,9 @@ title: "Section 121 - National Disability Employment Awareness Month"
 usc_title: 36
 usc_section: "121"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 121"
-generated_at: "2026-03-30T01:05:07.441Z"
+generated_at: "2026-03-30T01:11:48.471Z"
 ---
 
 # § 121. National Disability Employment Awareness Month

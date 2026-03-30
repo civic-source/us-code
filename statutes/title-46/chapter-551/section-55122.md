@@ -3,9 +3,9 @@ title: "Section 55122 - Floating dry docks"
 usc_title: 46
 usc_section: "55122"
 chapter: 551
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "46 U.S.C. § 55122"
-generated_at: "2026-03-30T01:06:18.983Z"
+generated_at: "2026-03-30T01:12:51.287Z"
 ---
 
 # § 55122. Floating dry docks

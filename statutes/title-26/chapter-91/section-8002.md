@@ -3,9 +3,9 @@ title: "Section 8002 - Membership"
 usc_title: 26
 usc_section: "8002"
 chapter: 91
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 8002"
-generated_at: "2026-03-30T01:04:51.686Z"
+generated_at: "2026-03-30T01:11:38.072Z"
 ---
 
 # § 8002. Membership

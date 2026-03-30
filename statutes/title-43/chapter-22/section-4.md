@@ -3,9 +3,9 @@ title: "Section 4 - Filing preliminary survey, map and profile of road"
 usc_title: 43
 usc_section: "4"
 chapter: 22
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T01:05:16.025Z"
+generated_at: "2026-03-30T01:12:04.187Z"
 ---
 
 # § 942–4. Filing preliminary survey, map and profile of road

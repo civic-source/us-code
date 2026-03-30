@@ -3,9 +3,9 @@ title: "Section 70510 - Service of process"
 usc_title: 36
 usc_section: "70510"
 chapter: 705
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 70510"
-generated_at: "2026-03-30T01:05:07.455Z"
+generated_at: "2026-03-30T01:11:48.483Z"
 ---
 
 # § 70510. Service of process

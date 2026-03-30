@@ -3,9 +3,9 @@ title: "Section 2576 - General"
 usc_title: 19
 usc_section: "2576"
 chapter: 13
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "19 U.S.C. § 2576"
-generated_at: "2026-03-30T01:02:51.874Z"
+generated_at: "2026-03-30T01:10:52.710Z"
 ---
 
 # § 2576. General

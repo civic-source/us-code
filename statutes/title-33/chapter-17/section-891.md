@@ -3,9 +3,9 @@ title: "Section 891 - Definitions"
 usc_title: 33
 usc_section: "891"
 chapter: 17
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 891"
-generated_at: "2026-03-30T01:04:57.297Z"
+generated_at: "2026-03-30T01:11:45.391Z"
 ---
 
 # § 891. Definitions

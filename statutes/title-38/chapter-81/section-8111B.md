@@ -3,9 +3,9 @@ title: "Section 8111B - Shared medical facilities with Department of Defense"
 usc_title: 38
 usc_section: "8111B"
 chapter: 81
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "38 U.S.C. § 8111B"
-generated_at: "2026-03-30T01:05:11.460Z"
+generated_at: "2026-03-30T01:11:54.412Z"
 ---
 
 # § 8111B. Shared medical facilities with Department of Defense

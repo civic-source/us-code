@@ -3,9 +3,9 @@ title: "Section 7651 - Administration and collection of taxes in possessions"
 usc_title: 26
 usc_section: "7651"
 chapter: 78
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 7651"
-generated_at: "2026-03-30T01:04:51.676Z"
+generated_at: "2026-03-30T01:11:38.064Z"
 ---
 
 # § 7651. Administration and collection of taxes in possessions

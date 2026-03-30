@@ -3,9 +3,9 @@ title: "Section 15103 - Eligibility for consideration for promotion"
 usc_title: 10
 usc_section: "15103"
 chapter: 1413
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 15103"
-generated_at: "2026-03-30T01:02:06.233Z"
+generated_at: "2026-03-30T01:10:00.769Z"
 ---
 
 # § 15103. Eligibility for consideration for promotion

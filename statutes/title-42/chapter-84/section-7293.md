@@ -3,9 +3,9 @@ title: "Section 7293 - Agency terminations"
 usc_title: 42
 usc_section: "7293"
 chapter: 84
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 7293"
-generated_at: "2026-03-30T01:05:41.302Z"
+generated_at: "2026-03-30T01:12:43.342Z"
 ---
 
 # § 7293. Agency terminations

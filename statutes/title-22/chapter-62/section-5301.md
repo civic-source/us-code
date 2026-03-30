@@ -3,9 +3,9 @@ title: "Section 5301 - Short title"
 usc_title: 22
 usc_section: "5301"
 chapter: 62
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "22 U.S.C. § 5301"
-generated_at: "2026-03-30T01:04:13.358Z"
+generated_at: "2026-03-30T01:11:13.539Z"
 ---
 
 # § 5301. Short title

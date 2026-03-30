@@ -3,9 +3,9 @@ title: "Section 7280 - Soldier’s Medal: award; limitations"
 usc_title: 10
 usc_section: "7280"
 chapter: 737
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 7280"
-generated_at: "2026-03-30T01:02:06.184Z"
+generated_at: "2026-03-30T01:10:00.715Z"
 ---
 
 # § 7280. Soldier’s Medal: award; limitations

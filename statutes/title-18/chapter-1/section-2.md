@@ -3,9 +3,9 @@ title: "Section 2 - Principals"
 usc_title: 18
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 2"
-generated_at: "2026-03-30T01:02:48.965Z"
+generated_at: "2026-03-30T01:10:29.272Z"
 ---
 
 # § 2. Principals

@@ -3,9 +3,9 @@ title: "Section 7478 - Declaratory judgments relating to status of certain gover
 usc_title: 26
 usc_section: "7478"
 chapter: 76
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 7478"
-generated_at: "2026-03-30T01:04:51.669Z"
+generated_at: "2026-03-30T01:11:38.057Z"
 ---
 
 # § 7478. Declaratory judgments relating to status of certain governmental obligations

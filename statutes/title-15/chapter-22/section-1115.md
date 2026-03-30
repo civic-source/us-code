@@ -3,9 +3,9 @@ title: "Section 1115 - Registration on principal register as evidence of exclusi
 usc_title: 15
 usc_section: "1115"
 chapter: 22
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "15 U.S.C. § 1115"
-generated_at: "2026-03-30T01:02:38.382Z"
+generated_at: "2026-03-30T01:10:09.315Z"
 ---
 
 # § 1115. Registration on principal register as evidence of exclusive right to use mark; defenses

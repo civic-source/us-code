@@ -3,9 +3,9 @@ title: "Section 22510 - Annual report"
 usc_title: 36
 usc_section: "22510"
 chapter: 225
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 22510"
-generated_at: "2026-03-30T01:05:07.446Z"
+generated_at: "2026-03-30T01:11:48.478Z"
 ---
 
 # § 22510. Annual report

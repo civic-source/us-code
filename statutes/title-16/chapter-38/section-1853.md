@@ -3,9 +3,9 @@ title: "Section 1853 - Contents of fishery management plans"
 usc_title: 16
 usc_section: "1853"
 chapter: 38
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 1853"
-generated_at: "2026-03-30T01:03:37.526Z"
+generated_at: "2026-03-30T01:10:37.085Z"
 ---
 
 # § 1853. Contents of fishery management plans

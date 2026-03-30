@@ -3,9 +3,9 @@ title: "Section 470ff - Civil penalties"
 usc_title: 16
 usc_section: "470ff"
 chapter: 1
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 470ff"
-generated_at: "2026-03-30T01:03:37.369Z"
+generated_at: "2026-03-30T01:10:36.949Z"
 ---
 
 # § 470ff. Civil penalties

@@ -3,9 +3,9 @@ title: "Section 1606a - Reforestation Trust Fund"
 usc_title: 16
 usc_section: "1606a"
 chapter: 36
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "16 U.S.C. § 1606a"
-generated_at: "2026-03-30T01:03:37.515Z"
+generated_at: "2026-03-30T01:10:37.076Z"
 ---
 
 # § 1606a. Reforestation Trust Fund

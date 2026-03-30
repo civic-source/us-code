@@ -3,9 +3,9 @@ title: "Section 782 - Selection of trustee"
 usc_title: 11
 usc_section: "782"
 chapter: 7
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "11 U.S.C. § 782"
-generated_at: "2026-03-30T01:02:24.332Z"
+generated_at: "2026-03-30T01:10:03.946Z"
 ---
 
 # § 782. Selection of trustee

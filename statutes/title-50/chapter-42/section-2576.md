@@ -3,9 +3,9 @@ title: "Section 2576 - Information relating to certain defense nuclear nonprolif
 usc_title: 50
 usc_section: "2576"
 chapter: 42
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "50 U.S.C. § 2576"
-generated_at: "2026-03-30T01:06:06.770Z"
+generated_at: "2026-03-30T01:13:12.974Z"
 ---
 
 # § 2576. Information relating to certain defense nuclear nonproliferation programs

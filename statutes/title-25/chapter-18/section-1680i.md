@@ -3,9 +3,9 @@ title: "Section 1680i - Child sexual abuse treatment programs"
 usc_title: 25
 usc_section: "1680i"
 chapter: 18
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 1680i"
-generated_at: "2026-03-30T01:03:48.719Z"
+generated_at: "2026-03-30T01:10:57.733Z"
 ---
 
 # § 1680i. Child sexual abuse treatment programs

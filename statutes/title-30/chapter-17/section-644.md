@@ -3,9 +3,9 @@ title: "Section 644 - Advice and assistance by Government departments and agenci
 usc_title: 30
 usc_section: "644"
 chapter: 17
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "30 U.S.C. § 644"
-generated_at: "2026-03-30T01:04:30.905Z"
+generated_at: "2026-03-30T01:11:25.993Z"
 ---
 
 # § 644. Advice and assistance by Government departments and agencies; expenditure of funds

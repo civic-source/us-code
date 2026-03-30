@@ -3,9 +3,9 @@ title: "Section 5202 - Purchase of restricted Indian lands; preference to Secret
 usc_title: 25
 usc_section: "5202"
 chapter: 45
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 5202"
-generated_at: "2026-03-30T01:03:48.769Z"
+generated_at: "2026-03-30T01:10:57.778Z"
 ---
 
 # § 5202. Purchase of restricted Indian lands; preference to Secretary of the Interior; waiver of preference

@@ -3,9 +3,9 @@ title: "Section 3057i - Grants authorized"
 usc_title: 42
 usc_section: "3057i"
 chapter: 35
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 3057i"
-generated_at: "2026-03-30T01:05:41.167Z"
+generated_at: "2026-03-30T01:12:43.211Z"
 ---
 
 # § 3057i. Grants authorized

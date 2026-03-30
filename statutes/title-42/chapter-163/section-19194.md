@@ -3,9 +3,9 @@ title: "Section 19194 - Research awards"
 usc_title: 42
 usc_section: "19194"
 chapter: 163
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 19194"
-generated_at: "2026-03-30T01:05:41.623Z"
+generated_at: "2026-03-30T01:12:43.651Z"
 ---
 
 # § 19194. Research awards

@@ -3,9 +3,9 @@ title: "Section 2302 - Omitted"
 usc_title: 33
 usc_section: "2302"
 chapter: 36
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 2302"
-generated_at: "2026-03-30T01:04:57.359Z"
+generated_at: "2026-03-30T01:11:45.450Z"
 ---
 
 # §§ 2301, 2302. Omitted

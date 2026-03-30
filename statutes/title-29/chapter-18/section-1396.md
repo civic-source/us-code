@@ -3,9 +3,9 @@ title: "Section 1396 - Special rules for plans under section 404(c) of title 26"
 usc_title: 29
 usc_section: "1396"
 chapter: 18
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "29 U.S.C. § 1396"
-generated_at: "2026-03-30T01:04:23.768Z"
+generated_at: "2026-03-30T01:11:31.643Z"
 ---
 
 # § 1396. Special rules for plans under section 404(c) of title 26

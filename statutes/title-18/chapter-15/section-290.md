@@ -3,9 +3,9 @@ title: "Section 290 - Discharge papers withheld by claim agent"
 usc_title: 18
 usc_section: "290"
 chapter: 15
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "18 U.S.C. § 290"
-generated_at: "2026-03-30T01:02:48.975Z"
+generated_at: "2026-03-30T01:10:29.284Z"
 ---
 
 # § 290. Discharge papers withheld by claim agent

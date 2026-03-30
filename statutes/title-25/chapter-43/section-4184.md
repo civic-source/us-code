@@ -3,9 +3,9 @@ title: "Section 4184 - Effect on HOME Investment Partnerships Act"
 usc_title: 25
 usc_section: "4184"
 chapter: 43
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "25 U.S.C. § 4184"
-generated_at: "2026-03-30T01:03:48.762Z"
+generated_at: "2026-03-30T01:10:57.772Z"
 ---
 
 # § 4184. Effect on HOME Investment Partnerships Act

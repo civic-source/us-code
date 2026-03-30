@@ -3,9 +3,9 @@ title: "Section 5904 - State enforcement"
 usc_title: 49
 usc_section: "5904"
 chapter: 59
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "49 U.S.C. § 5904"
-generated_at: "2026-03-30T01:06:35.151Z"
+generated_at: "2026-03-30T01:12:54.625Z"
 ---
 
 # § 5904. State enforcement

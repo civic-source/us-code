@@ -3,9 +3,9 @@ title: "Section 7302 - Definitions"
 usc_title: 31
 usc_section: "7302"
 chapter: 73
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "31 U.S.C. § 7302"
-generated_at: "2026-03-30T01:04:55.690Z"
+generated_at: "2026-03-30T01:11:44.054Z"
 ---
 
 # § 7302. Definitions

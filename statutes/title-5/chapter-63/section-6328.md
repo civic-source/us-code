@@ -3,9 +3,9 @@ title: "Section 6328 - Absence in connection with funerals of fellow Federal law
 usc_title: 5
 usc_section: "6328"
 chapter: 63
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "5 U.S.C. § 6328"
-generated_at: "2026-03-30T01:01:03.931Z"
+generated_at: "2026-03-30T01:09:15.406Z"
 ---
 
 # § 6328. Absence in connection with funerals of fellow Federal law enforcement officers

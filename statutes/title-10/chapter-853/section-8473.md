@@ -3,9 +3,9 @@ title: "Section 8473 - Gifts, bequests, and loans of property: acceptance for be
 usc_title: 10
 usc_section: "8473"
 chapter: 853
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "10 U.S.C. § 8473"
-generated_at: "2026-03-30T01:02:06.199Z"
+generated_at: "2026-03-30T01:10:00.732Z"
 ---
 
 # § 8473. Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy

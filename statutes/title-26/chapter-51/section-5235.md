@@ -3,9 +3,9 @@ title: "Section 5235 - Bottling of alcohol for industrial purposes"
 usc_title: 26
 usc_section: "5235"
 chapter: 51
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "26 U.S.C. § 5235"
-generated_at: "2026-03-30T01:04:51.603Z"
+generated_at: "2026-03-30T01:11:37.997Z"
 ---
 
 # § 5235. Bottling of alcohol for industrial purposes

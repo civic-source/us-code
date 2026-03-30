@@ -3,9 +3,9 @@ title: "Section 33117 - Judicial review"
 usc_title: 49
 usc_section: "33117"
 chapter: 331
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "49 U.S.C. § 33117"
-generated_at: "2026-03-30T01:06:35.210Z"
+generated_at: "2026-03-30T01:12:54.691Z"
 ---
 
 # § 33117. Judicial review

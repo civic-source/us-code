@@ -3,9 +3,9 @@ title: "Section 1613 - Prohibition on provision of gifts or travel by registered
 usc_title: 2
 usc_section: "1613"
 chapter: 26
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "2 U.S.C. § 1613"
-generated_at: "2026-03-30T01:00:36.163Z"
+generated_at: "2026-03-30T01:09:17.771Z"
 ---
 
 # § 1613. Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees

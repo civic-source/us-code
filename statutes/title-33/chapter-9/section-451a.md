@@ -3,9 +3,9 @@ title: "Section 451a - Harbors subject to this subchapter"
 usc_title: 33
 usc_section: "451a"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "33 U.S.C. § 451a"
-generated_at: "2026-03-30T01:04:57.274Z"
+generated_at: "2026-03-30T01:11:45.371Z"
 ---
 
 # § 451a. Harbors subject to this subchapter

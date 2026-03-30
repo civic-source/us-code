@@ -3,9 +3,9 @@ title: "Section 80301 - International agreements"
 usc_title: 46
 usc_section: "80301"
 chapter: 803
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "46 U.S.C. § 80301"
-generated_at: "2026-03-30T01:06:18.995Z"
+generated_at: "2026-03-30T01:12:51.298Z"
 ---
 
 # § 80301. International agreements

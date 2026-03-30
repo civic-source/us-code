@@ -3,9 +3,9 @@ title: "Section 14925 - Universal accreditation requirements"
 usc_title: 42
 usc_section: "14925"
 chapter: 143
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 14925"
-generated_at: "2026-03-30T01:05:41.512Z"
+generated_at: "2026-03-30T01:12:43.544Z"
 ---
 
 # § 14925. Universal accreditation requirements

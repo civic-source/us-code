@@ -1,0 +1,28 @@
+---
+title: "Section 8573 - Report on Iranian petroleum and petroleum products exports"
+usc_title: 22
+usc_section: "8573"
+chapter: 92
+current_through: "PL 118-59"
+classification: "22 U.S.C. § 8573"
+generated_at: "2026-03-30T01:11:13.590Z"
+---
+
+# § 8573. Report on Iranian petroleum and petroleum products exports
+
+- **(a)** Not later than 120 days after April 24, 2024 , and annually thereafter until the date described in subsection (d), the Administrator of the Energy Information Administration shall submit to the appropriate congressional committees a report describing Iran’s growing exports of petroleum and petroleum products, that includes the following:
+  - **(1)** An analysis of Iran’s exports and sale of petroleum and petroleum products, including—
+    - **(A)** an estimate of Iran’s petroleum export and sale revenue per year since 2018;
+    - **(B)** an estimate of Iran’s petroleum export and sale revenue to China per year since 2018;
+    - **(C)** the amount of petroleum and crude oil barrels exported per year since 2018;
+    - **(D)** the amount of petroleum and crude oil barrels exported to China per year since 2018;
+    - **(E)** the amount of petroleum and crude oil barrels exported to countries other than China per year since 2018;
+    - **(F)** the average price per petroleum and crude oil barrel exported per year since 2018; and
+    - **(G)** the average price per petroleum and crude oil barrel exported to China per year since 2018.
+  - **(2)** An analysis of Iran’s labeling practices of exported petroleum and petroleum products.
+  - **(3)** A description of companies involved in the exporting and sale of Iranian petroleum and petroleum products.
+  - **(4)** A description of ships involved in the exporting and sale of Iranian petroleum and petroleum products.
+  - **(5)** A description of ports involved in the exporting and sale of Iranian petroleum and petroleum products.
+- **(b)** The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+- **(c)** The unclassified portion of the report required by subsection (a) shall be posted on a publicly available website of the Energy Information Administration.
+- **(d)** The requirement to submit reports under this section shall be terminated on the date on which the President makes the certification described in section 8572(i) of this title .

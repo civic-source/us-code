@@ -3,9 +3,9 @@ title: "Section 4991 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "4991"
 chapter: 66
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "42 U.S.C. § 4991"
-generated_at: "2026-03-30T01:05:41.208Z"
+generated_at: "2026-03-30T01:12:43.252Z"
 ---
 
 # § 4991. Congressional statement of purpose

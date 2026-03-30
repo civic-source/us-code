@@ -3,9 +3,9 @@ title: "Section 31307 - Minimum training requirements for operators of longer co
 usc_title: 49
 usc_section: "31307"
 chapter: 313
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "49 U.S.C. § 31307"
-generated_at: "2026-03-30T01:06:35.201Z"
+generated_at: "2026-03-30T01:12:54.680Z"
 ---
 
 # § 31307. Minimum training requirements for operators of longer combination vehicles

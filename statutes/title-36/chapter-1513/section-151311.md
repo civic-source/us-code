@@ -3,9 +3,9 @@ title: "Section 151311 - Annual report"
 usc_title: 36
 usc_section: "151311"
 chapter: 1513
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "36 U.S.C. § 151311"
-generated_at: "2026-03-30T01:05:07.463Z"
+generated_at: "2026-03-30T01:11:48.490Z"
 ---
 
 # § 151311. Annual report

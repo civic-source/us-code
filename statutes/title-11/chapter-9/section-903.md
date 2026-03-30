@@ -3,9 +3,9 @@ title: "Section 903 - Reservation of State power to control municipalities"
 usc_title: 11
 usc_section: "903"
 chapter: 9
-current_through: "PL 118-49"
+current_through: "PL 118-59"
 classification: "11 U.S.C. § 903"
-generated_at: "2026-03-30T01:02:24.332Z"
+generated_at: "2026-03-30T01:10:03.947Z"
 ---
 
 # § 903. Reservation of State power to control municipalities
