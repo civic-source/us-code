@@ -3,9 +3,9 @@ title: "Section 30183 - Prohibition on certain disclosures"
 usc_title: 49
 usc_section: "30183"
 chapter: 301
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 30183"
-generated_at: "2026-03-30T02:52:20.462Z"
+generated_at: "2026-03-30T02:56:19.353Z"
 ---
 
 # § 30183. Prohibition on certain disclosures

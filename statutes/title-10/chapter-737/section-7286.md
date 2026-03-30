@@ -3,9 +3,9 @@ title: "Section 7286 - Korea Defense Service Medal"
 usc_title: 10
 usc_section: "7286"
 chapter: 737
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7286"
-generated_at: "2026-03-30T02:50:18.686Z"
+generated_at: "2026-03-30T02:53:38.230Z"
 ---
 
 # § 7286. Korea Defense Service Medal

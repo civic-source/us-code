@@ -3,9 +3,9 @@ title: "Section 1314b - National Advisory Committee on the Sex Trafficking of Ch
 usc_title: 42
 usc_section: "1314b"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1314b"
-generated_at: "2026-03-30T02:52:02.329Z"
+generated_at: "2026-03-30T02:56:10.906Z"
 ---
 
 # § 1314b. National Advisory Committee on the Sex Trafficking of Children and Youth in the United States

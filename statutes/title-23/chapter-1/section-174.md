@@ -3,9 +3,9 @@ title: "Section 174 - State human capital plans"
 usc_title: 23
 usc_section: "174"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 174"
-generated_at: "2026-03-30T02:50:46.979Z"
+generated_at: "2026-03-30T02:55:12.563Z"
 ---
 
 # § 174. State human capital plans

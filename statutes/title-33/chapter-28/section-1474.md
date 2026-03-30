@@ -3,9 +3,9 @@ title: "Section 1474 - Federal intervention actions"
 usc_title: 33
 usc_section: "1474"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1474"
-generated_at: "2026-03-30T02:51:10.390Z"
+generated_at: "2026-03-30T02:55:41.107Z"
 ---
 
 # § 1474. Federal intervention actions

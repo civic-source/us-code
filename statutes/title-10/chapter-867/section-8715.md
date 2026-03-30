@@ -3,9 +3,9 @@ title: "Section 8715 - Naval Observatory: administration"
 usc_title: 10
 usc_section: "8715"
 chapter: 867
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8715"
-generated_at: "2026-03-30T02:50:18.711Z"
+generated_at: "2026-03-30T02:53:38.250Z"
 ---
 
 # § 8715. Naval Observatory: administration

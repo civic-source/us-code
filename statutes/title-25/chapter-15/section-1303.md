@@ -3,9 +3,9 @@ title: "Section 1303 - Habeas corpus"
 usc_title: 25
 usc_section: "1303"
 chapter: 15
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 1303"
-generated_at: "2026-03-30T02:50:48.145Z"
+generated_at: "2026-03-30T02:54:52.815Z"
 ---
 
 # § 1303. Habeas corpus

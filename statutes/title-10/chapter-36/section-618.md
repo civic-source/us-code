@@ -3,9 +3,9 @@ title: "Section 618 - Action on reports of selection boards"
 usc_title: 10
 usc_section: "618"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 618"
-generated_at: "2026-03-30T02:50:18.501Z"
+generated_at: "2026-03-30T02:53:38.068Z"
 ---
 
 # § 618. Action on reports of selection boards
@@ -30,6 +30,9 @@ generated_at: "2026-03-30T02:50:18.501Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the name of an officer recommended for promotion by a selection board may be removed from the report of the selection board only by the President.
   - **(2)** In the case of an officer recommended by a selection board for promotion to a grade below brigadier general or rear admiral (lower half), the name of the officer may also be removed from the report of the selection board by the Secretary of Defense or the Deputy Secretary of Defense.
+  - **(3)** The Secretary of Defense shall notify the congressional defense committees of the removal of the name of an officer from the report of a selection board by the President or the Secretary or Deputy Secretary of Defense under paragraph (1) or paragraph (2), respectively, for any reason other than misconduct—
+    - **(A)** not later than 30 days after the name of an officer is removed; and
+    - **(B)** prior to submission to the Senate of a promotion list with respect to such report pursuant to section 624(c) of this title .
 - **(e)**
   - **(1)** The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
     - **(A)** In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.

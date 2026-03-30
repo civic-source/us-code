@@ -3,9 +3,9 @@ title: "Section 553 - Freight statistics"
 usc_title: 33
 usc_section: "553"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 553"
-generated_at: "2026-03-30T02:51:10.338Z"
+generated_at: "2026-03-30T02:55:41.061Z"
 ---
 
 # § 553. Freight statistics

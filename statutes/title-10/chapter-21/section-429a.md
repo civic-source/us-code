@@ -3,9 +3,9 @@ title: "Section 429a - Expenditure of funds for Department of Defense intelligen
 usc_title: 10
 usc_section: "429a"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 429a"
-generated_at: "2026-03-30T02:50:18.490Z"
+generated_at: "2026-03-30T02:53:38.058Z"
 ---
 
 # § 429a. Expenditure of funds for Department of Defense intelligence and counterintelligence activities

@@ -3,9 +3,9 @@ title: "Section 6513 - Organic plan"
 usc_title: 7
 usc_section: "6513"
 chapter: 94
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6513"
-generated_at: "2026-03-30T02:50:11.715Z"
+generated_at: "2026-03-30T02:53:42.431Z"
 ---
 
 # § 6513. Organic plan

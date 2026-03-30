@@ -3,9 +3,9 @@ title: "Section 1205 - General authority of Secretary for conducting studies, re
 usc_title: 16
 usc_section: "1205"
 chapter: 25
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1205"
-generated_at: "2026-03-30T02:50:43.173Z"
+generated_at: "2026-03-30T02:54:22.943Z"
 ---
 
 # § 1205. General authority of Secretary for conducting studies, research, and investigations unaffected

@@ -3,9 +3,9 @@ title: "Section 1013 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 45
 usc_section: "1013"
 chapter: 19
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "45 U.S.C. § 1013"
-generated_at: "2026-03-30T02:51:35.203Z"
+generated_at: "2026-03-30T02:55:56.559Z"
 ---
 
 # § 1013. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

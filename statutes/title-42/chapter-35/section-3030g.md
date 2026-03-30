@@ -3,9 +3,9 @@ title: "Section 3030g - Criteria"
 usc_title: 42
 usc_section: "3030g"
 chapter: 35
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3030g"
-generated_at: "2026-03-30T02:52:02.714Z"
+generated_at: "2026-03-30T02:56:11.175Z"
 ---
 
 # § 3030g. Criteria

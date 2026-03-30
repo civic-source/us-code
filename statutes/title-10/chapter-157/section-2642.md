@@ -3,9 +3,9 @@ title: "Section 2642 - Transportation services provided to certain non-Departmen
 usc_title: 10
 usc_section: "2642"
 chapter: 157
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2642"
-generated_at: "2026-03-30T02:50:18.619Z"
+generated_at: "2026-03-30T02:53:38.167Z"
 ---
 
 # § 2642. Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate

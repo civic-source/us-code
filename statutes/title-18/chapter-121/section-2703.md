@@ -3,9 +3,9 @@ title: "Section 2703 - Required disclosure of customer communications or records
 usc_title: 18
 usc_section: "2703"
 chapter: 121
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2703"
-generated_at: "2026-03-30T02:50:34.976Z"
+generated_at: "2026-03-30T02:54:16.507Z"
 ---
 
 # § 2703. Required disclosure of customer communications or records

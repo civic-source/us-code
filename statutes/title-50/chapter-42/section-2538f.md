@@ -1,20 +1,12 @@
 ---
-title: "Section 2538f - Earned value management and technology readiness levels for life extension programs"
+title: "Section 2538f - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
 usc_title: 50
 usc_section: "2538f"
 chapter: 42
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2538f"
-generated_at: "2026-03-30T02:52:24.481Z"
+generated_at: "2026-03-30T02:56:26.225Z"
 ---
 
-# § 2538f. Earned value management and technology readiness levels for life extension programs
+# §§ 2537 to 2538f. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
 
-- **(a)** The Administrator shall enter into an arrangement with an independent entity under which that entity shall—
-  - **(1)** review and validate whether the earned value management systems of contractors of the Administration for life extension programs meet the earned value management national standard; and
-  - **(2)** conduct periodic surveillance reviews of such systems to ensure that such systems maintain compliance with that standard through program completion.
-- **(b)** The Administrator shall—
-  - **(1)** establish specific benchmarks for technology readiness levels of critical technologies for life extension programs at key decision points; and
-  - **(2)** ensure that critical technologies meet such benchmarks at such decision points.
-- **(c)** This section shall apply to programs that, as of January 1, 2021 , have not entered phase 3 of the nuclear weapons acquisition process or phase 6.3 of a nuclear weapons life extension program.
-- **(d)** In this section, the term “earned value management national standard” means the most recent version of the EIA-748 Earned Value Management System Standard published by the National Defense Industrial Association.

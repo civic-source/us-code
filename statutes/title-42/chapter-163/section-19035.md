@@ -3,9 +3,9 @@ title: "Section 19035 - Research awards"
 usc_title: 42
 usc_section: "19035"
 chapter: 163
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 19035"
-generated_at: "2026-03-30T02:52:03.232Z"
+generated_at: "2026-03-30T02:56:11.537Z"
 ---
 
 # § 19035. Research awards

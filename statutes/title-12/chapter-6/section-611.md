@@ -3,9 +3,9 @@ title: "Section 611 - Formation authorized; fiscal agents; depositaries in insul
 usc_title: 12
 usc_section: "611"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 611"
-generated_at: "2026-03-30T02:50:26.352Z"
+generated_at: "2026-03-30T02:53:53.384Z"
 ---
 
 # § 611. Formation authorized; fiscal agents; depositaries in insular possessions

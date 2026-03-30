@@ -3,9 +3,9 @@ title: "Section 242q - Task Force on Aging Research; establishment and duties"
 usc_title: 42
 usc_section: "242q"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 242q"
-generated_at: "2026-03-30T02:52:02.014Z"
+generated_at: "2026-03-30T02:56:10.691Z"
 ---
 
 # § 242q. Task Force on Aging Research; establishment and duties

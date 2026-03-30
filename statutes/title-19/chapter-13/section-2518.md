@@ -3,9 +3,9 @@ title: "Section 2518 - Definitions"
 usc_title: 19
 usc_section: "2518"
 chapter: 13
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2518"
-generated_at: "2026-03-30T02:50:36.576Z"
+generated_at: "2026-03-30T02:54:24.679Z"
 ---
 
 # § 2518. Definitions

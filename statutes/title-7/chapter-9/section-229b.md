@@ -3,9 +3,9 @@ title: "Section 229b - Right to discuss terms of contract"
 usc_title: 7
 usc_section: "229b"
 chapter: 9
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 229b"
-generated_at: "2026-03-30T02:50:11.523Z"
+generated_at: "2026-03-30T02:53:42.279Z"
 ---
 
 # § 229b. Right to discuss terms of contract

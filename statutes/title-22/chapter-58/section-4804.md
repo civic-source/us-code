@@ -3,9 +3,9 @@ title: "Section 4804 - Briefings on embassy security"
 usc_title: 22
 usc_section: "4804"
 chapter: 58
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4804"
-generated_at: "2026-03-30T02:50:53.096Z"
+generated_at: "2026-03-30T02:55:05.413Z"
 ---
 
 # § 4804. Briefings on embassy security
@@ -21,7 +21,7 @@ generated_at: "2026-03-30T02:50:53.096Z"
   - **(4)** the progress towards implementation of the provisions specified in title I of the Department of State Authorities Act, Fiscal Year 2017.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), not later than 30 days before opening or reopening a high risk, high threat post, the Secretary shall notify the appropriate congressional committees of the decision to open or reopen such post.
-  - **(2)** If the Secretary determines that the national security interests of the United States require the opening or reopening of a high risk, high threat post in fewer than 30 days, then as soon as possible, but not later than 48 hours before such opening or reopening, the Secretary shall transmit to the appropriate congressional committees a notification detailing the decision to open or reopen such post, the nature of the critical national security interests at stake, and the circumstances that prevented the normal 30-day notice under paragraph (1).
+  - **(2)** If the Secretary determines that the national security interests of the United States require the opening or reopening of a high risk, high threat post in fewer than 30 days, then as soon as possible, but not later than 48 hours before such opening or reopening, the Secretary shall transmit to the appropriate congressional committees a notification detailing the decision to open or reopen such post, detailing the national security value of reopening such post, the nature of the critical national security interests at stake, and the circumstances that prevented the normal 30-day notice under paragraph (1).
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs, the Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations, the Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate.

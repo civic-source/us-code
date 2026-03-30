@@ -3,9 +3,9 @@ title: "Section 4841 - Manufacturing Technology Program"
 usc_title: 10
 usc_section: "4841"
 chapter: 384
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4841"
-generated_at: "2026-03-30T02:50:18.676Z"
+generated_at: "2026-03-30T02:53:38.212Z"
 ---
 
 # § 4841. Manufacturing Technology Program
@@ -42,3 +42,4 @@ generated_at: "2026-03-30T02:50:18.676Z"
   - **(2)** The Secretary shall include in the plan mechanisms for assessing the effectiveness of the program under the plan.
   - **(3)** The Secretary shall update the plan not less frequently than once every four years.
   - **(4)** Each plan, and each update to the plan, shall cover a period of five fiscal years.
+- **(f)** In this section, the term “advanced manufacturing” means manufacturing through the use of interconnected, advanced technologies throughout the design and manufacturing process that enables modular, adaptable, and efficient manufacturing, including software-controlled subtractive manufacturing, additive manufacturing, powder bed fusion manufacturing, and other similar manufacturing techniques.

@@ -3,9 +3,9 @@ title: "Section 1701s - Rent supplement payments for qualified lower income fami
 usc_title: 12
 usc_section: "1701s"
 chapter: 13
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1701s"
-generated_at: "2026-03-30T02:50:26.381Z"
+generated_at: "2026-03-30T02:53:53.403Z"
 ---
 
 # § 1701s. Rent supplement payments for qualified lower income families

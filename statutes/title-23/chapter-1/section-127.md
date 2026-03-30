@@ -3,9 +3,9 @@ title: "Section 127 - Vehicle weight limitations—Interstate System"
 usc_title: 23
 usc_section: "127"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 127"
-generated_at: "2026-03-30T02:50:46.965Z"
+generated_at: "2026-03-30T02:55:12.550Z"
 ---
 
 # § 127. Vehicle weight limitations—Interstate System

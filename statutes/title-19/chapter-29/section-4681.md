@@ -3,9 +3,9 @@ title: "Section 4681 - Forced Labor Enforcement Task Force"
 usc_title: 19
 usc_section: "4681"
 chapter: 29
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 4681"
-generated_at: "2026-03-30T02:50:36.615Z"
+generated_at: "2026-03-30T02:54:24.715Z"
 ---
 
 # § 4681. Forced Labor Enforcement Task Force

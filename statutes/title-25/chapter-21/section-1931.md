@@ -3,9 +3,9 @@ title: "Section 1931 - Grants for on or near reservation programs and child welf
 usc_title: 25
 usc_section: "1931"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 1931"
-generated_at: "2026-03-30T02:50:48.165Z"
+generated_at: "2026-03-30T02:54:52.831Z"
 ---
 
 # § 1931. Grants for on or near reservation programs and child welfare codes

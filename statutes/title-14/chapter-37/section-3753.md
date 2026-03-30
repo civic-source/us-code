@@ -3,9 +3,9 @@ title: "Section 3753 - Maximum ages for retention in an active status"
 usc_title: 14
 usc_section: "3753"
 chapter: 37
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 3753"
-generated_at: "2026-03-30T02:50:21.623Z"
+generated_at: "2026-03-30T02:53:51.505Z"
 ---
 
 # § 3753. Maximum ages for retention in an active status
@@ -13,4 +13,11 @@ generated_at: "2026-03-30T02:50:21.623Z"
 - **(a)** A Reserve officer, if qualified, shall be transferred to the Retired Reserve on the day the officer becomes 60 years of age unless on active duty. If not qualified for retirement, a Reserve officer shall be discharged effective upon the day the officer becomes 60 years of age unless on active duty.
 - **(b)** A Reserve officer on active duty shall, if qualified, be retired effective upon the day the officer become 62 years of age. If not qualified for retirement, a Reserve officer on active duty shall be discharged effective upon the day the officer becomes 62 years of age.
 - **(c)** Notwithstanding subsections (a) and (b), the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
-- **(d)** For purposes of this section, “active duty” does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.
+- **(d)**
+  - **(1)** Notwithstanding subsections (a), (b), and (c), the Secretary may authorize the retention of a Reserve health professions officer in an active status not beyond the first day of the month following the month in which the health professions officer concerned becomes 68 years of age.
+  - **(2)** Nothing in this subsection may be construed to prohibit or modify the application of any provision relating to mandatory separation or disciplinary action.
+  - **(3)** In this subsection, the term “health professions officer” means an officer or enlisted member of the Coast Guard in good standing who is—
+    - **(A)** a physician, surgeon, medical specialist, nurse or nurse practitioner, physician’s assistant, health service technician, therapist, fully licensed clinical psychotherapist, counselor, social worker, medical assistant, radiology assistant, pharmacist, pharmacy assistant, nutritionist, dietitian, any administrative personnel associated with a Coast Guard medical program (including a clinic), personnel who works in a medical laboratory, physical therapist, physical therapist aide, occupational therapist, or occupational therapist aide;
+    - **(B)** a dentist, dental assistant, oral surgeon, or any other dental-related personnel; or
+    - **(C)** a member of a category designated by the Secretary under section 2154(c)(3).
+- **(e)** For purposes of this section, “active duty” does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.

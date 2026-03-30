@@ -3,9 +3,9 @@ title: "Section 4452 - Repealed. Pub. L. 93–24, § 7 , Apr. 20, 1973 , 87 Stat
 usc_title: 42
 usc_section: "4452"
 chapter: 58
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 4452"
-generated_at: "2026-03-30T02:52:02.759Z"
+generated_at: "2026-03-30T02:56:11.206Z"
 ---
 
 # § 4452. Repealed. Pub. L. 93–24, § 7 , Apr. 20, 1973 , 87 Stat. 25

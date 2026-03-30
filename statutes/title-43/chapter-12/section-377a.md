@@ -3,9 +3,9 @@ title: "Section 377a - Limitation on use of funds where organizations or individ
 usc_title: 43
 usc_section: "377a"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 377a"
-generated_at: "2026-03-30T02:51:38.279Z"
+generated_at: "2026-03-30T02:55:57.440Z"
 ---
 
 # § 377a. Limitation on use of funds where organizations or individuals are in arrears on contract charges

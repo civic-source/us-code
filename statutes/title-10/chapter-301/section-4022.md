@@ -3,9 +3,9 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-30T02:50:18.661Z"
+generated_at: "2026-03-30T02:53:38.200Z"
 ---
 
 # § 4022. Authority of the Department of Defense to carry out certain prototype projects
@@ -56,8 +56,8 @@ generated_at: "2026-03-30T02:50:18.661Z"
     - **(B)** the Director of the Defense Advanced Research Projects Agency;
     - **(C)** the Director of the Defense Innovation Unit;
     - **(D)** the Director of the Missile Defense Agency;
-    - **(E)** the Undersecretary of Defense for Acquisition and Sustainment; or
-    - **(F)** the Undersecretary of Defense for Research and Engineering.
+    - **(E)** the Under Secretary of Defense for Acquisition and Sustainment; or
+    - **(F)** the Under Secretary of Defense for Research and Engineering.
   - **(2)** The term “nontraditional defense contractor” has the meaning given the term under section 3014 of this title .
   - **(3)** The term “service acquisition executive” has the meaning given that term in section 101(a) of this title .
   - **(4)** The term “small business” means a small business concern as defined under section 3 of the Small Business Act ( 15 U.S.C. 632 ).

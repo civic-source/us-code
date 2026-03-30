@@ -3,9 +3,9 @@ title: "Section 1 - Alaska Native Vietnam era veterans land allotment"
 usc_title: 43
 usc_section: "1"
 chapter: 33
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:51:38.317Z"
+generated_at: "2026-03-30T02:55:57.484Z"
 ---
 
 # § 1629g–1. Alaska Native Vietnam era veterans land allotment
@@ -51,7 +51,7 @@ generated_at: "2026-03-30T02:51:38.317Z"
     - **(A)** An eligible individual—
       - **(i)** may select 1 parcel of not less than 2.5 acres and not more than 160 acres of available Federal land; and
       - **(ii)** on making a selection pursuant to clause (i), shall submit to the Secretary an allotment selection application for the applicable parcel of available Federal land.
-    - **(B)** An eligible individual may apply for an allotment during the 5-year period beginning on the effective date of the final regulations issued under paragraph (2).
+    - **(B)** An eligible individual may apply for an allotment during the 10-year period beginning on the effective date of the final regulations issued under paragraph (2).
   - **(4)** If 2 or more eligible individuals submit to the Secretary an allotment selection application under paragraph (3)(A)(ii) for the same parcel of available Federal land, the Secretary shall—
     - **(A)** give preference to the selection application received on the earliest date; and
     - **(B)** provide to each eligible individual the selection application of whom is rejected under subparagraph (A) an opportunity to select a substitute parcel of available Federal land.

@@ -3,9 +3,9 @@ title: "Section 286cc - Sustaining economic growth"
 usc_title: 22
 usc_section: "286cc"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 286cc"
-generated_at: "2026-03-30T02:50:52.983Z"
+generated_at: "2026-03-30T02:55:05.319Z"
 ---
 
 # § 286cc. Sustaining economic growth

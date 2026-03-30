@@ -3,9 +3,9 @@ title: "Section 422 - Transfer of functions"
 usc_title: 5
 usc_section: "422"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 422"
-generated_at: "2026-03-30T02:49:55.153Z"
+generated_at: "2026-03-30T02:52:55.984Z"
 ---
 
 # § 422. Transfer of functions

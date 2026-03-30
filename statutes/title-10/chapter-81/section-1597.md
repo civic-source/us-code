@@ -3,9 +3,9 @@ title: "Section 1597 - Civilian positions: guidelines for reductions"
 usc_title: 10
 usc_section: "1597"
 chapter: 81
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1597"
-generated_at: "2026-03-30T02:50:18.571Z"
+generated_at: "2026-03-30T02:53:38.131Z"
 ---
 
 # § 1597. Civilian positions: guidelines for reductions
@@ -17,5 +17,5 @@ generated_at: "2026-03-30T02:50:18.571Z"
   - **(3)** Overhead, indirect, and administrative positions in headquarters or field operating agencies in the United States.
   - **(4)** Direct operating or production positions in the United States.
 - **(c)** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
-- **(d)** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
+- **(d)** The Secretary of Defense may not implement any involuntary reduction 1 1 So in original. Probably should be followed by a comma. furlough, or significant reduction of over 50 civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs. The Secretary shall notify the congressional defense committees and each Member of Congress representing the area in which reductions are ordered. Such notification shall include billet, activity name, number of employees at the location, number of employees involuntarily separated by billet, reason for the personnel action, actions to mitigate reductions, and savings and costs.
 - **(e)** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.

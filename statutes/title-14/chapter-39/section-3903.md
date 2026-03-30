@@ -3,9 +3,9 @@ title: "Section 3903 - Eligibility; enrollments"
 usc_title: 14
 usc_section: "3903"
 chapter: 39
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 3903"
-generated_at: "2026-03-30T02:50:21.623Z"
+generated_at: "2026-03-30T02:53:51.505Z"
 ---
 
 # § 3903. Eligibility; enrollments

@@ -3,9 +3,9 @@ title: "Section 51302a - Nomination in event of death, resignation, or expulsion
 usc_title: 46
 usc_section: "51302a"
 chapter: 513
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 51302a"
-generated_at: "2026-03-30T02:52:21.783Z"
+generated_at: "2026-03-30T02:56:15.569Z"
 ---
 
 # § 51302a. Nomination in event of death, resignation, or expulsion from office of Senator otherwise authorized to nominate

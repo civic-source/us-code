@@ -3,9 +3,9 @@ title: "Section 82 - Treatment of State lands and mineral interests"
 usc_title: 16
 usc_section: "82"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 82"
-generated_at: "2026-03-30T02:50:43.064Z"
+generated_at: "2026-03-30T02:54:22.844Z"
 ---
 
 # § 460nnn–82. Treatment of State lands and mineral interests

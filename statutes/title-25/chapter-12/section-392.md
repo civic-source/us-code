@@ -3,9 +3,9 @@ title: "Section 392 - Consent to or approval of alienation of allotments by Secr
 usc_title: 25
 usc_section: "392"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 392"
-generated_at: "2026-03-30T02:50:48.136Z"
+generated_at: "2026-03-30T02:54:52.806Z"
 ---
 
 # § 392. Consent to or approval of alienation of allotments by Secretary of the Interior

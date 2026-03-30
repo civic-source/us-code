@@ -3,9 +3,9 @@ title: "Section 7297 - Cross references"
 usc_title: 42
 usc_section: "7297"
 chapter: 84
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7297"
-generated_at: "2026-03-30T02:52:02.881Z"
+generated_at: "2026-03-30T02:56:11.289Z"
 ---
 
 # § 7297. Cross references

@@ -3,9 +3,9 @@ title: "Section 450n - Administration, protection, and development"
 usc_title: 16
 usc_section: "450n"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 450n"
-generated_at: "2026-03-30T02:50:43.014Z"
+generated_at: "2026-03-30T02:54:22.800Z"
 ---
 
 # § 450n. Administration, protection, and development

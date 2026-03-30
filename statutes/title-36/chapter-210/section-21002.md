@@ -3,9 +3,9 @@ title: "Section 21002 - Organization"
 usc_title: 36
 usc_section: "21002"
 chapter: 210
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 21002"
-generated_at: "2026-03-30T02:51:20.874Z"
+generated_at: "2026-03-30T02:55:44.692Z"
 ---
 
 # § 21002. Organization

@@ -3,9 +3,9 @@ title: "Section 696a - Acquisition of title to properties for National Key Deer 
 usc_title: 16
 usc_section: "696a"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 696a"
-generated_at: "2026-03-30T02:50:43.117Z"
+generated_at: "2026-03-30T02:54:22.897Z"
 ---
 
 # § 696a. Acquisition of title to properties for National Key Deer Refuge; rights-of-way and easements

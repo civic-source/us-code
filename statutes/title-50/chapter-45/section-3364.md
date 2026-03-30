@@ -3,14 +3,14 @@ title: "Section 3364 - Assignment of responsibilities relating to analytic integ
 usc_title: 50
 usc_section: "3364"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3364"
-generated_at: "2026-03-30T02:52:24.522Z"
+generated_at: "2026-03-30T02:56:26.248Z"
 ---
 
 # § 3364. Assignment of responsibilities relating to analytic integrity
 
-- **(a)** For purposes of carrying out section 3024(h) of this title , the Director of National Intelligence shall, not later than 180 days after December 17, 2004 , assign an individual or entity to be responsible for ensuring that finished intelligence products produced by any element or elements of the intelligence community are timely, objective, independent of political considerations, based upon all sources of available intelligence, and employ the standards of proper analytic tradecraft.
+- **(a)** For purposes of carrying out section 3024(g) of this title , the Director of National Intelligence shall, not later than 180 days after December 17, 2004 , assign an individual or entity to be responsible for ensuring that finished intelligence products produced by any element or elements of the intelligence community are timely, objective, independent of political considerations, based upon all sources of available intelligence, and employ the standards of proper analytic tradecraft.
 - **(b)**
   - **(1)** The individual or entity assigned responsibility under subsection (a)—
     - **(A)** may be responsible for general oversight and management of analysis and production, but may not be directly responsible for, or involved in, the specific production of any finished intelligence product;
@@ -21,7 +21,6 @@ generated_at: "2026-03-30T02:52:24.522Z"
     - **(A)** include whether the product or products concerned were based on all sources of available intelligence, properly describe the quality and reliability of underlying sources, properly caveat and express uncertainties or confidence in analytic judgments, properly distinguish between underlying intelligence and the assumptions and judgments of analysts, and incorporate, where appropriate, alternative analyses; and
     - **(B)** ensure that the analytic methodologies, tradecraft, and practices used by the element or elements concerned in the production of the product or products concerned meet the standards set forth in subsection (a).
   - **(3)** Information drafted under paragraph (1)(D) should, as appropriate, be included in analysis teaching modules and case studies for use throughout the intelligence community.
-- **(c)** Not later than February 1 each year, the Director of National Intelligence shall provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with a description, and the associated findings, of each review under subsection (b)(1)(B) during such year.
-- **(d)** In this section, the term “congressional intelligence committees” means—
-  - **(1)** the Select Committee on Intelligence of the Senate; and
-  - **(2)** the Permanent Select Committee on Intelligence of the House of Representatives.
+  - **(4)**
+    - **(A)** The individual or entity assigned responsibility under subsection (a) shall annually conduct a survey of analytic objectivity among officers and employees of the intelligence community.
+    - **(B)** The head of each element of the intelligence community shall take all practical actions to encourage maximum participation by officers and employees of such element with respect to the survey conducted under subparagraph (A).

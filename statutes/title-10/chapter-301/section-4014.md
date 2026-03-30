@@ -3,9 +3,9 @@ title: "Section 4014 - Coordination and communication of defense research activi
 usc_title: 10
 usc_section: "4014"
 chapter: 301
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4014"
-generated_at: "2026-03-30T02:50:18.660Z"
+generated_at: "2026-03-30T02:53:38.200Z"
 ---
 
 # § 4014. Coordination and communication of defense research activities and technology domain awareness

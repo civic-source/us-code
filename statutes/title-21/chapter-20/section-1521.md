@@ -3,9 +3,9 @@ title: "Section 1521 - Findings"
 usc_title: 21
 usc_section: "1521"
 chapter: 20
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 1521"
-generated_at: "2026-03-30T02:50:49.569Z"
+generated_at: "2026-03-30T02:54:54.302Z"
 ---
 
 # § 1521. Findings

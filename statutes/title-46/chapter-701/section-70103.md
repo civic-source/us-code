@@ -3,9 +3,9 @@ title: "Section 70103 - Maritime transportation security plans"
 usc_title: 46
 usc_section: "70103"
 chapter: 701
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70103"
-generated_at: "2026-03-30T02:52:21.806Z"
+generated_at: "2026-03-30T02:56:15.586Z"
 ---
 
 # § 70103. Maritime transportation security plans
@@ -85,6 +85,7 @@ generated_at: "2026-03-30T02:52:21.806Z"
   - **(8)**
     - **(A)** The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
     - **(B)** The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
+  - **(9)** The Secretary may conduct no-notice exercises in Captain of the Port Zones (as described in part 3 of title 33, Code of Federal Regulations as in effect on the date of enactment of the Coast Guard Authorization Act of 2025 [ Dec. 18, 2025 ]) involving a facility or vessel required to maintain a security plan under this subsection.
 - **(d)**
   - **(1)** Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including—
     - **(A)** facility security plans, vessel security plans, and port vulnerability assessments; and

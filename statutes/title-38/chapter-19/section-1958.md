@@ -3,9 +3,9 @@ title: "Section 1958 - Statutory total permanent disability"
 usc_title: 38
 usc_section: "1958"
 chapter: 19
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1958"
-generated_at: "2026-03-30T02:51:18.034Z"
+generated_at: "2026-03-30T02:55:53.491Z"
 ---
 
 # § 1958. Statutory total permanent disability

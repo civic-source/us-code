@@ -3,9 +3,9 @@ title: "Section 68 - Definitions"
 usc_title: 15
 usc_section: "68"
 chapter: 2
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 68"
-generated_at: "2026-03-30T02:50:29.799Z"
+generated_at: "2026-03-30T02:54:08.028Z"
 ---
 
 # § 68. Definitions

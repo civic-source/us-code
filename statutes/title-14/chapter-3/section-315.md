@@ -1,28 +1,14 @@
 ---
-title: "Section 315 - Training for congressional affairs personnel"
+title: "Section 315 - Congressional affairs; Director"
 usc_title: 14
 usc_section: "315"
 chapter: 3
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 315"
-generated_at: "2026-03-30T02:50:21.607Z"
+generated_at: "2026-03-30T02:53:51.487Z"
 ---
 
-# § 315. Training for congressional affairs personnel
+# § 315. Congressional affairs; Director
 
-- **(a)** The Commandant shall develop a training course, which shall be administered in person, on the workings of Congress for any member of the Coast Guard selected for a position as a fellow, liaison, counsel, or administrative staff for the Coast Guard Office of Congressional and Governmental Affairs or as any Coast Guard district or area governmental affairs officer.
-- **(b)**
-  - **(1)** The training course required under this section shall provide an overview and introduction to Congress and the Federal legislative process, including—
-    - **(A)** the congressional budget process;
-    - **(B)** the congressional appropriations process;
-    - **(C)** the congressional authorization process;
-    - **(D)** the Senate advice and consent process for Presidential nominees;
-    - **(E)** the Senate advice and consent process for treaty ratification;
-    - **(F)** the roles of Members of Congress and congressional staff in the legislative process;
-    - **(G)** the concept and underlying purposes of congressional oversight within the governance framework of separation of powers;
-    - **(H)** the roles of Coast Guard fellows, liaisons, counsels, governmental affairs officers, the Coast Guard Office of Program Review, the Coast Guard Headquarters program offices, and any other entity the Commandant considers relevant; and
-    - **(I)** the roles and responsibilities of Coast Guard public affairs and external communications personnel with respect to Members of Congress and the staff of such Members necessary to enhance communication between Coast Guard units, sectors, and districts and Member offices and committees of jurisdiction so as to ensure visibility of Coast Guard activities.
-  - **(2)**
-    - **(A)** At the written request of a receiving congressional office, the training course required under this section shall include a multi-day detail within the Coast Guard Office of Budget and Programs to ensure adequate exposure to Coast Guard policy, oversight, and requests from Congress.
-    - **(B)** A detail under this paragraph is not required to be consecutive with the balance of the training.
-- **(c)** A member of the Coast Guard selected for a position described in subsection (a) shall complete the training required by this section before the date on which such member reports for duty for such position.
+The Commandant shall appoint a Director of Congressional Affairs from among officers of the Coast Guard who are in a grade above captain. The Director of Congressional Affairs is separate and distinct from the Director of Governmental and Public Affairs for the Coast Guard and is the principal advisor to the Commandant on all congressional and legislative matters for the Coast Guard and may have such additional functions as the Commandant may direct.
+

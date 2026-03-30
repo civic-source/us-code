@@ -3,9 +3,9 @@ title: "Section 2232 - Independent budget and authorization of appropriations"
 usc_title: 19
 usc_section: "2232"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2232"
-generated_at: "2026-03-30T02:50:36.562Z"
+generated_at: "2026-03-30T02:54:24.667Z"
 ---
 
 # § 2232. Independent budget and authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 3403 - Limitations"
 usc_title: 5
 usc_section: "3403"
 chapter: 34
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 3403"
-generated_at: "2026-03-30T02:49:55.174Z"
+generated_at: "2026-03-30T02:52:56.006Z"
 ---
 
 # § 3403. Limitations

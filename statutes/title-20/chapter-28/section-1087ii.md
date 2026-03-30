@@ -3,9 +3,9 @@ title: "Section 1087ii - Definitions"
 usc_title: 20
 usc_section: "1087ii"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1087ii"
-generated_at: "2026-03-30T02:50:39.160Z"
+generated_at: "2026-03-30T02:54:48.128Z"
 ---
 
 # § 1087ii. Definitions

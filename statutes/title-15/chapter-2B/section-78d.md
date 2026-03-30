@@ -3,9 +3,9 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-30T02:50:29.817Z"
+generated_at: "2026-03-30T02:54:08.041Z"
 ---
 
 # § 78d. Securities and Exchange Commission

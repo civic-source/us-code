@@ -3,9 +3,9 @@ title: "Section 30303 - State participation"
 usc_title: 49
 usc_section: "30303"
 chapter: 303
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 30303"
-generated_at: "2026-03-30T02:52:20.463Z"
+generated_at: "2026-03-30T02:56:19.354Z"
 ---
 
 # § 30303. State participation

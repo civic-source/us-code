@@ -3,9 +3,9 @@ title: "Section 53203 - Award of operating agreements"
 usc_title: 46
 usc_section: "53203"
 chapter: 532
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 53203"
-generated_at: "2026-03-30T02:52:21.789Z"
+generated_at: "2026-03-30T02:56:15.573Z"
 ---
 
 # § 53203. Award of operating agreements

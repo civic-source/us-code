@@ -3,9 +3,9 @@ title: "Section 345 - Irregular Warfare Center and Regional Defense Fellowship P
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-03-30T02:50:18.483Z"
+generated_at: "2026-03-30T02:53:38.053Z"
 ---
 
 # § 345. Irregular Warfare Center and Regional Defense Fellowship Program
@@ -52,7 +52,7 @@ generated_at: "2026-03-30T02:50:18.483Z"
     - **(C)** The Secretary of Defense shall make a determination with respect to the desirability of partnering with an institution of higher education in a Government-owned, contractor-operated partnership, such as the partnership structure used by the Department of Defense for University Affiliated Research Centers, for meeting the mission requirements of the Irregular Warfare Center.
   - **(4)** The Secretary of Defense shall prescribe guidance for the roles and responsibilities of the relevant components of the Department of Defense in the administration, operation, and oversight of the Irregular Warfare Center, which shall include the roles and responsibilities of the following:
     - **(A)** The Under Secretary of Defense for Policy and the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in policy oversight and governance structure of the Center.
-    - **(B)** The Director of the Defense Security Cooperation Agency, as the Executive Agent in support of the operation of the Center.
+    - **(B)** “The 1 1 So in original. Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict, as the Executive Agent in support of the operation of the Center.
     - **(C)** Any other official of the Department of Defense, as determined by the Secretary.
 - **(d)** The total amount of funds used under the authority in subsection (a)(1)(B) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a)(1)(B) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
 - **(e)** Not later than December 1 of each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:

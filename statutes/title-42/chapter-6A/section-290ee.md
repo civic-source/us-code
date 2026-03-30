@@ -3,9 +3,9 @@ title: "Section 290ee - Opioid overdose reversal medication access, education, a
 usc_title: 42
 usc_section: "290ee"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 290ee"
-generated_at: "2026-03-30T02:52:02.129Z"
+generated_at: "2026-03-30T02:56:10.766Z"
 ---
 
 # § 290ee. Opioid overdose reversal medication access, education, and co-prescribing grant programs

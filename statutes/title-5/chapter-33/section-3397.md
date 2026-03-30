@@ -3,9 +3,9 @@ title: "Section 3397 - Regulations"
 usc_title: 5
 usc_section: "3397"
 chapter: 33
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 3397"
-generated_at: "2026-03-30T02:49:55.174Z"
+generated_at: "2026-03-30T02:52:56.006Z"
 ---
 
 # § 3397. Regulations

@@ -3,9 +3,9 @@ title: "Section 3991 - Taxes respecting personal property, money, credits, and r
 usc_title: 50
 usc_section: "3991"
 chapter: 50
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3991"
-generated_at: "2026-03-30T02:52:24.546Z"
+generated_at: "2026-03-30T02:56:26.264Z"
 ---
 
 # § 3991. Taxes respecting personal property, money, credits, and real property

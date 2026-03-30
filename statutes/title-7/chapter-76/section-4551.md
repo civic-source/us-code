@@ -3,9 +3,9 @@ title: "Section 4551 - Indemnity payments to dairy farmers and manufacturers of 
 usc_title: 7
 usc_section: "4551"
 chapter: 76
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 4551"
-generated_at: "2026-03-30T02:50:11.688Z"
+generated_at: "2026-03-30T02:53:42.409Z"
 ---
 
 # § 4551. Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse

@@ -3,9 +3,9 @@ title: "Section 18992 - Undergraduate STEM education"
 usc_title: 42
 usc_section: "18992"
 chapter: 163
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 18992"
-generated_at: "2026-03-30T02:52:03.229Z"
+generated_at: "2026-03-30T02:56:11.534Z"
 ---
 
 # § 18992. Undergraduate STEM education

@@ -3,9 +3,9 @@ title: "Section 7910 - Limitations on national testing or certification for teac
 usc_title: 20
 usc_section: "7910"
 chapter: 70
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 7910"
-generated_at: "2026-03-30T02:50:39.282Z"
+generated_at: "2026-03-30T02:54:48.221Z"
 ---
 
 # § 7910. Limitations on national testing or certification for teachers, principals, or other school leaders

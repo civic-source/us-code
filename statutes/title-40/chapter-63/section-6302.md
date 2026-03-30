@@ -3,9 +3,9 @@ title: "Section 6302 - Public use of grounds"
 usc_title: 40
 usc_section: "6302"
 chapter: 63
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 6302"
-generated_at: "2026-03-30T02:51:19.771Z"
+generated_at: "2026-03-30T02:55:43.382Z"
 ---
 
 # § 6302. Public use of grounds

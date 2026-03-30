@@ -3,9 +3,9 @@ title: "Section 10 - Salaries of Deputy Comptrollers, examiners, and other emplo
 usc_title: 12
 usc_section: "10"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 10"
-generated_at: "2026-03-30T02:50:26.330Z"
+generated_at: "2026-03-30T02:53:53.369Z"
 ---
 
 # § 10. Salaries of Deputy Comptrollers, examiners, and other employees as part of bank examination expenses

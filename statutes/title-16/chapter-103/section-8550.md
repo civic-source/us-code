@@ -3,9 +3,9 @@ title: "Section 8550 - Savings provision"
 usc_title: 16
 usc_section: "8550"
 chapter: 103
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8550"
-generated_at: "2026-03-30T02:50:43.323Z"
+generated_at: "2026-03-30T02:54:23.088Z"
 ---
 
 # § 8550. Savings provision

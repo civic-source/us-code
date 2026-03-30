@@ -3,9 +3,9 @@ title: "Section 2717 - Investigations by Secretary; oaths and affirmations; subp
 usc_title: 7
 usc_section: "2717"
 chapter: 60
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2717"
-generated_at: "2026-03-30T02:50:11.669Z"
+generated_at: "2026-03-30T02:53:42.391Z"
 ---
 
 # § 2717. Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process

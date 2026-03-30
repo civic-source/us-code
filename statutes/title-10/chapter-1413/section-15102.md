@@ -3,9 +3,9 @@ title: "Section 15102 - Selection for promotion"
 usc_title: 10
 usc_section: "15102"
 chapter: 1413
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 15102"
-generated_at: "2026-03-30T02:50:18.746Z"
+generated_at: "2026-03-30T02:53:38.276Z"
 ---
 
 # § 15102. Selection for promotion

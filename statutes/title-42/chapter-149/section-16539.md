@@ -3,9 +3,9 @@ title: "Section 16539 - National Laboratory Jobs ACCESS Program"
 usc_title: 42
 usc_section: "16539"
 chapter: 149
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 16539"
-generated_at: "2026-03-30T02:52:03.168Z"
+generated_at: "2026-03-30T02:56:11.491Z"
 ---
 
 # § 16539. National Laboratory Jobs ACCESS Program
@@ -57,7 +57,7 @@ generated_at: "2026-03-30T02:52:03.168Z"
   - **(3)** The term “apprenticeship program” means a program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.).
   - **(4)** The term “area career and technical education school” has the meaning given the term in section 2302 of title 20 .
   - **(5)** The term “community college” has the meaning given the term “junior or community college” in section 1058(f) of title 20 .
-  - **(6)** The term “covered facility of the National Nuclear Security Administration” means a national security laboratory or a nuclear weapons production facility as such terms are defined in section 2501 of title 50 .
+  - **(6)** The term “covered facility of the National Nuclear Security Administration” means a national security laboratory or a nuclear weapons production facility as such terms are defined in section 2501 1 1 See References in Text note below. of title 50.
   - **(7)** The term “eligible sponsor” means a public organization or nonprofit organization that—
     - **(A)** with respect to an apprenticeship program, administers the program through a partnership that may include—
       - **(i)** an industry or sector partnership;

@@ -3,9 +3,9 @@ title: "Section 3418 - Applicability of other Federal statutory provisions relat
 usc_title: 15
 usc_section: "3418"
 chapter: 60
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3418"
-generated_at: "2026-03-30T02:50:30.011Z"
+generated_at: "2026-03-30T02:54:08.190Z"
 ---
 
 # § 3418. Applicability of other Federal statutory provisions relating to information-gathering

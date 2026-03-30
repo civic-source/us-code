@@ -3,9 +3,9 @@ title: "Section 666b - Definitions"
 usc_title: 16
 usc_section: "666b"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 666b"
-generated_at: "2026-03-30T02:50:43.109Z"
+generated_at: "2026-03-30T02:54:22.888Z"
 ---
 
 # § 666b. Definitions

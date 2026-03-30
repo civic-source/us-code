@@ -3,9 +3,9 @@ title: "Section 535f - Applicability of provisions"
 usc_title: 33
 usc_section: "535f"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 535f"
-generated_at: "2026-03-30T02:51:10.337Z"
+generated_at: "2026-03-30T02:55:41.061Z"
 ---
 
 # § 535f. Applicability of provisions

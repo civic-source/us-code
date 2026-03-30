@@ -3,9 +3,9 @@ title: "Section 1109 - Undefinitized contractual actions"
 usc_title: 14
 usc_section: "1109"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 1109"
-generated_at: "2026-03-30T02:50:21.612Z"
+generated_at: "2026-03-30T02:53:51.492Z"
 ---
 
 # § 1109. Undefinitized contractual actions

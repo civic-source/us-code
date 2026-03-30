@@ -3,9 +3,9 @@ title: "Section 6601 - Forestry rural revitalization"
 usc_title: 7
 usc_section: "6601"
 chapter: 95
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6601"
-generated_at: "2026-03-30T02:50:11.716Z"
+generated_at: "2026-03-30T02:53:42.433Z"
 ---
 
 # § 6601. Forestry rural revitalization

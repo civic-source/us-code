@@ -3,9 +3,9 @@ title: "Section 7 - Omitted"
 usc_title: 43
 usc_section: "7"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 7"
-generated_at: "2026-03-30T02:51:38.291Z"
+generated_at: "2026-03-30T02:55:57.456Z"
 ---
 
 # §§ 616aaa to 616fff–7. Omitted

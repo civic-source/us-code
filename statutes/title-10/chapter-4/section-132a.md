@@ -1,21 +1,21 @@
 ---
-title: "Section 132a - Performance improvement officer 1 1 So in original. Probably should be capitalized as “Performance Improvement Officer”."
+title: "Section 132a - Performance Improvement Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T02:50:18.467Z"
+generated_at: "2026-03-30T02:53:38.036Z"
 ---
 
-# § 132a. Performance improvement officer 1 1 So in original. Probably should be capitalized as “Performance Improvement Officer”.
+# § 132a. Performance Improvement Officer
 
 - **(a)**
   - **(1)** There is a Performance Improvement Officer of the Department of Defense, to be appointed by the Secretary of Defense from among the ranks of qualified individuals from the senior career civil service.
   - **(2)** The Performance Improvement Officer shall be appointed from among persons described in paragraph (1) who have an extensive management or business background and experience with managing large or complex organizations, organizational change management, or business transformation activities.
 - **(b)** The Performance Improvement Officer shall be supported by a Deputy who shall be appointed by the Secretary of Defense from among the ranks of qualified individuals from the senior career civil service. The Deputy shall be the first assistant to the Performance Improvement Officer and shall assist that Officer in the performance of the duties of that position and shall act for, and exercise the powers of, the Officer when that Officer dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 - **(c)** Subject to the authority, direction, and control of the Secretary of Defense and the Deputy Secretary of Defense, the Performance Improvement Officer shall perform such duties, exercise such powers, and have such responsibilities as the Secretary or the Deputy Secretary may prescribe, including the following:
-  - **(1)** Responsibility for updating and implementing the Strategic Management Plan of the Department of Defense required by section 904(d) of the National Defense Authorization Act of 2 2 So in original. Probably should be “for”. Fiscal Year 2008 ( Public Law 110–181 ; 10 U.S.C. note prec. 2201).
+  - **(1)** Responsibility for updating and implementing the Strategic Management Plan of the Department of Defense required by section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 ( Public Law 110–181 ; 10 U.S.C. note prec. 2201).
   - **(2)** Responsibility for chairing the Defense Performance Improvement Council (or any successor organization).
   - **(3)** Responsibility for the Defense Performance Improvement Framework, as established under section 125a of this title .
   - **(4)** Responsibility for the execution of not fewer than two annual meetings of the Defense Management Action Group (or any successor organization) with agendas relating to the Strategic Management Plan described in paragraph (1).

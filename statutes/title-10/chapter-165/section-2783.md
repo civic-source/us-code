@@ -3,9 +3,9 @@ title: "Section 2783 - Nonappropriated fund instrumentalities: financial managem
 usc_title: 10
 usc_section: "2783"
 chapter: 165
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2783"
-generated_at: "2026-03-30T02:50:18.630Z"
+generated_at: "2026-03-30T02:53:38.175Z"
 ---
 
 # § 2783. Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds

@@ -3,9 +3,9 @@ title: "Section 497a - Notification required for reduction or consolidation of d
 usc_title: 10
 usc_section: "497a"
 chapter: 24
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 497a"
-generated_at: "2026-03-30T02:50:18.494Z"
+generated_at: "2026-03-30T02:53:38.063Z"
 ---
 
 # § 497a. Notification required for reduction or consolidation of dual-capable aircraft based in Europe

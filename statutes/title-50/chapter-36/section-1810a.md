@@ -3,9 +3,9 @@ title: "Section 1810a - Reporting requirements for civil actions"
 usc_title: 50
 usc_section: "1810a"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 1810a"
-generated_at: "2026-03-30T02:52:24.455Z"
+generated_at: "2026-03-30T02:56:26.209Z"
 ---
 
 # § 1810a. Reporting requirements for civil actions

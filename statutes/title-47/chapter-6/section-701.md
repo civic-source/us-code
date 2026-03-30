@@ -3,9 +3,9 @@ title: "Section 701 - Omitted"
 usc_title: 47
 usc_section: "701"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 701"
-generated_at: "2026-03-30T02:52:17.335Z"
+generated_at: "2026-03-30T02:56:24.526Z"
 ---
 
 # § 701. Omitted

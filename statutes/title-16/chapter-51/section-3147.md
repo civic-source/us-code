@@ -3,9 +3,9 @@ title: "Section 3147 - Arctic research study"
 usc_title: 16
 usc_section: "3147"
 chapter: 51
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3147"
-generated_at: "2026-03-30T02:50:43.246Z"
+generated_at: "2026-03-30T02:54:23.010Z"
 ---
 
 # § 3147. Arctic research study

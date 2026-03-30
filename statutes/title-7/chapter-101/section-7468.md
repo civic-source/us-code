@@ -3,9 +3,9 @@ title: "Section 7468 - Enforcement"
 usc_title: 7
 usc_section: "7468"
 chapter: 101
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 7468"
-generated_at: "2026-03-30T02:50:11.740Z"
+generated_at: "2026-03-30T02:53:42.454Z"
 ---
 
 # § 7468. Enforcement

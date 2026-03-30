@@ -3,9 +3,9 @@ title: "Section 3373 - Establishment of All-domain Anomaly Resolution Office"
 usc_title: 50
 usc_section: "3373"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3373"
-generated_at: "2026-03-30T02:52:24.524Z"
+generated_at: "2026-03-30T02:56:26.251Z"
 ---
 
 # § 3373. Establishment of All-domain Anomaly Resolution Office
@@ -38,7 +38,7 @@ generated_at: "2026-03-30T02:52:24.524Z"
   - **(2)** The Secretary of Defense and the Director of National Intelligence shall each issue such directives as are necessary to ensure that each line organization designated under paragraph (1) has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.
 - **(f)**
   - **(1)**
-    - **(A)** The Director of National Intelligence, in coordination with the Secretary of Defense, shall ensure that each element of the intelligence community with data relating to unidentified anomalous phenomena makes such data available immediately to the Office.
+    - **(A)** The Director of National Intelligence and the Secretary of Defense shall jointly require that each element of the intelligence community and component of the Department of Defense with data relating to unidentified anomalous phenomena makes such data available immediately to the Office in a manner that protects intelligence sources and methods.
     - **(B)** The Director of National Intelligence and the Secretary of Defense shall each, in coordination with one another, ensure that military and civilian personnel of the Department of Defense or an element of the intelligence community, and contractor personnel of the Department or such an element, have access to procedures by which the personnel shall report incidents or information, including adverse physiological effects, involving or associated with unidentified anomalous phenomena directly to the Office.
   - **(2)** The Director of the Office, acting in coordination with the Secretary of Defense and the Director of National Intelligence, shall supervise the development and execution of an intelligence collection and analysis plan to gain as much knowledge as possible regarding the technical and operational characteristics, origins, and intentions of unidentified anomalous phenomena, including with respect to the development, acquisition, deployment, and operation of technical collection capabilities necessary to detect, identify, and scientifically characterize unidentified anomalous phenomena.
   - **(3)** In developing the plan under paragraph (2), the Director of the Office shall consider and propose, as appropriate, the use of any resource, capability, asset, or process of the Department and the intelligence community.
@@ -94,6 +94,12 @@ generated_at: "2026-03-30T02:52:24.524Z"
   - **(2)** The first briefing provided under paragraph (1) shall include all incidents involving unidentified anomalous phenomena that were reported to the Unidentified Aerial Phenomena Task Force or to the Office established under subsection (a) after June 24, 2021 , regardless of the date of occurrence of the incident.
   - **(3)** Each briefing provided subsequent to the first briefing described in paragraph (2) shall include, at a minimum, all events relating to unidentified anomalous phenomena that occurred during the previous 180 days, and events relating to unidentified anomalous phenomena that were not included in an earlier briefing.
   - **(4)** For each briefing period, the Director of the Office shall jointly provide to the chairman or chair and the ranking member or vice chairman of the congressional committees specified in subparagraphs (A) and (D) of subsection (n)(1) an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.
+  - **(5)**
+    - **(A)** Each briefing under this subsection shall include, for the period covered by the briefing, details on any unidentified anomalous phenomena intercepts conducted by the North American Aerospace Defense Command or the United States Northern Command.
+    - **(B)** In providing a briefing under this subsection, the Director of the Office shall make available a summary of all instances of intercepts described in subparagraph (A), including—
+      - **(i)** the number, location, and nature of such intercepts; and
+      - **(ii)** a description of the procedures and protocols followed during the intercepts, including any data collected or analyzed during such intercepts.
+    - **(C)** The Director of the Office shall inform the appropriate congressional committees of any failure by the North American Aerospace Defense Command or the United States Northern Command to provide timely information on unidentified anomalous phenomena intercepts.
 - **(m)** Not later than the date on which the Secretary of Defense establishes the Office under subsection (a), the Secretary shall terminate the Unidentified Aerial Phenomena Task Force.
 - **(n)** In this section:
   - **(1)** The term “appropriate congressional committees” means the following:

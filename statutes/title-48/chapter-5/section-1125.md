@@ -3,9 +3,9 @@ title: "Section 1125 - Omitted"
 usc_title: 48
 usc_section: "1125"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1125"
-generated_at: "2026-03-30T02:52:10.381Z"
+generated_at: "2026-03-30T02:56:14.582Z"
 ---
 
 # §§ 1111 to 1125. Omitted

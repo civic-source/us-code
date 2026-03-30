@@ -3,9 +3,9 @@ title: "Section 40104 - Reports filed with the Commission"
 usc_title: 46
 usc_section: "40104"
 chapter: 401
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 40104"
-generated_at: "2026-03-30T02:52:21.775Z"
+generated_at: "2026-03-30T02:56:15.563Z"
 ---
 
 # § 40104. Reports filed with the Commission

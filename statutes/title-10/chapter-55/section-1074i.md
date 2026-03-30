@@ -3,15 +3,17 @@ title: "Section 1074i - Reimbursement for certain travel expenses"
 usc_title: 10
 usc_section: "1074i"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1074i"
-generated_at: "2026-03-30T02:50:18.536Z"
+generated_at: "2026-03-30T02:53:38.101Z"
 ---
 
 # § 1074i. Reimbursement for certain travel expenses
 
-- **(a)** In any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.
-- **(b)** The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for travel of members of the armed forces on active duty and their dependents, and accompaniment, to a specialty care provider not otherwise authorized by subsection (a) under such exceptional circumstances as the Secretary considers appropriate for purposes of this section.
+- **(a)** Except as provided by subsection (b), in any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.
+- **(b)**
+  - **(1)** The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for travel of members of the armed forces on active duty and their dependents, and accompaniment, to a specialty care provider not otherwise authorized by subsection (a) under such exceptional circumstances as the Secretary considers appropriate for purposes of this section.
+  - **(2)** With respect to members of the armed forces on active duty and their dependents, the Secretary shall administer subsection (a) by substituting “75 miles” for “100 miles”.
 - **(c)** The Secretary concerned shall ensure that an outreach program is implemented for each member of the uniformed services who incurred a combat-related disability and is entitled to retired or retainer pay, or equivalent pay, so that—
   - **(1)** the progress of the member is closely monitored; and
   - **(2)** the member receives the travel reimbursement authorized by subsection (a) whenever the member requires follow-on specialty care, services, or supplies.

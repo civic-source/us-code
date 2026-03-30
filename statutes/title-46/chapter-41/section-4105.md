@@ -3,9 +3,9 @@ title: "Section 4105 - Uninspected passenger vessels"
 usc_title: 46
 usc_section: "4105"
 chapter: 41
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 4105"
-generated_at: "2026-03-30T02:52:21.752Z"
+generated_at: "2026-03-30T02:56:15.545Z"
 ---
 
 # § 4105. Uninspected passenger vessels
@@ -19,4 +19,4 @@ generated_at: "2026-03-30T02:52:21.752Z"
     - **(A)** such standards shall be identical to those established in the Codes of Practice referred to in paragraph (1); and
     - **(B)** on any dates before the date on which such standards are in effect, the Codes of Practice referred to in paragraph (1) shall apply with respect to the vessels referred to in paragraph (1).
 - **(c)** In applying this title with respect to an uninspected vessel of less than 25 feet overall in length that carries passengers on Crane Lake or waters contiguous to such lake in St. Louis County, Minnesota, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101.
-- **(d)** The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in section 2101(53)(A) of this title .
+- **(d)** The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in section 2101(55)(A) of this title .

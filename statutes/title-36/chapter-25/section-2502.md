@@ -3,9 +3,9 @@ title: "Section 2502 - Authorization of appropriations"
 usc_title: 36
 usc_section: "2502"
 chapter: 25
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 2502"
-generated_at: "2026-03-30T02:51:20.873Z"
+generated_at: "2026-03-30T02:55:44.691Z"
 ---
 
 # § 2502. Authorization of appropriations

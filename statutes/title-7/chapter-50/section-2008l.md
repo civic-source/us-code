@@ -3,9 +3,9 @@ title: "Section 2008l - Eligibility of employees of State, county, or area commi
 usc_title: 7
 usc_section: "2008l"
 chapter: 50
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2008l"
-generated_at: "2026-03-30T02:50:11.625Z"
+generated_at: "2026-03-30T02:53:42.355Z"
 ---
 
 # § 2008l. Eligibility of employees of State, county, or area committee for loans and loan guarantees

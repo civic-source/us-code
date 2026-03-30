@@ -3,14 +3,14 @@ title: "Section 2012 - Support and services for eligible organizations and activ
 usc_title: 10
 usc_section: "2012"
 chapter: 101
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-03-30T02:50:18.580Z"
+generated_at: "2026-03-30T02:53:38.139Z"
 ---
 
 # § 2012. Support and services for eligible organizations and activities outside Department of Defense
 
-- **(a)** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary’s jurisdiction to provide support and services to non-Department of Defense organizations and activities specified in subsection (e), but only if—
+- **(a)** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary’s jurisdiction to provide support and services, including supplies incidental to such support and services, to non-Department of Defense organizations and activities specified in subsection (e), but only if—
   - **(1)** such assistance is authorized by a provision of law (other than this section); or
   - **(2)** the provision of such assistance is incidental to military training.
 - **(b)** This section does not—

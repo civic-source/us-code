@@ -1,14 +1,12 @@
 ---
-title: "Section 4219 - Termination of authority"
+title: "Section 4219 - Transferred"
 usc_title: 33
 usc_section: "4219"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 4219"
-generated_at: "2026-03-30T02:51:10.438Z"
+generated_at: "2026-03-30T02:55:41.147Z"
 ---
 
-# § 4219. Termination of authority
-
-The authority of the Foundation under this part shall terminate on the date that is 10 years after the establishment of the Foundation, unless the Foundation is reauthorized by an Act of Congress.
+# §§ 4211 to 4219. Transferred
 

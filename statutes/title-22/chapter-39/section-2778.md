@@ -3,9 +3,9 @@ title: "Section 2778 - Control of arms exports and imports"
 usc_title: 22
 usc_section: "2778"
 chapter: 39
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2778"
-generated_at: "2026-03-30T02:50:53.061Z"
+generated_at: "2026-03-30T02:55:05.386Z"
 ---
 
 # § 2778. Control of arms exports and imports
@@ -158,7 +158,7 @@ generated_at: "2026-03-30T02:50:53.061Z"
         - **(II)** the specific actions the country needs to take in order to meet the comparability standards; and
         - **(III)** the actions the United States is taking, as appropriate, to facilitate that the country is granted an exemption in a timely manner upon meeting the comparability standards.
     - **(C)** The determination and certification described in subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
-  - **(2)** Upon submittal of a determination and certification to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that Australia or the United Kingdom has met the comparability standards of clauses (i) and (ii) of paragraph (1)(A), and subject to the limitation in paragraph (4), the President shall immediately exempt from the licensing or other approval requirements of this section exports and transfers (including reexports, transfers, temporary imports, and brokering activities) of defense articles and defense services between the United States and that country or among the United States, the United Kingdom, and Australia.
+  - **(2)** Upon submittal of a determination and certification to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that Australia or the United Kingdom has met the comparability standards of clauses (i) and (ii) of paragraph (1)(A), and subject to the limitation in paragraph (4), the President shall immediately exempt from the licensing or other approval requirements of this section exports and transfers (including reexports, transfers, temporary imports, and brokering activities) of defense articles and defense services between the United States and that country or among the United States, the United Kingdom, and Australia. The congressional notification requirements of subsections (c) and (d) of section 2776 of this title shall not apply with respect to the export or transfer of defense articles or defense services subject to the exemption described in this paragraph.
   - **(3)**
     - **(A)** If the President is unable to make a determination that Australia or the United Kingdom has met the comparability standards of clauses (i) and (ii) of paragraph (1)(A) or suspends the exemption pursuant to paragraph (5), the President shall—
       - **(i)** not less frequently than once every 120 days reassess whether the country has met those requirements;
@@ -190,5 +190,8 @@ generated_at: "2026-03-30T02:50:53.061Z"
       - **(i)** require all exports and transfers that would be subject to the requirements of paragraphs (1), (2), and (3) of section 2753(d) of this title but for the application of subparagraph (A) to be reported to the Secretary; and
       - **(ii)** submit such reports to the Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives on a quarterly basis.
   - **(7)**
+    - **(A)** Defense articles sold by the United States under this chapter, whether pursuant to the exemption authorized under this section or pursuant to an exemption under another authority under this chapter, may be reexported, retransferred or temporarily imported exclusively between the Government of Australia, the Government of the United Kingdom, or entities described in paragraph (b) of section 126.7(b)(2) of title 22, Code of Federal Regulations, or successor regulations, that are eligible for the exemption described in paragraph (a) of such section, notwithstanding the requirement for the consent of the President under section 2753(a)(2) of this title or section 2314(a)(1)(B) of this title .
+    - **(B)** Intra-company, intra-organization, and intra-governmental transfers related to defense articles described in subparagraph (A) are authorized to be made between officers, employees, and agents who meet the definition of the term “regular employee” under section 120.64 of title 22, Code of Federal Regulations, or successor regulations, including dual nationals or third-country nationals who satisfy the requirements of section 126.18 of title 22, Code of Federal Regulations, or successor regulations.
+  - **(8)**
     - **(A)** Any exemption described in paragraph (2) shall terminate on the date that is 15 years after December 22, 2023 .
     - **(B)** The Secretary of State may renew such exemption for 5 years upon a certification to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that such exemption is in the vital national interest of the United States with a detailed justification for such certification.

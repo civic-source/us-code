@@ -3,9 +3,9 @@ title: "Section 3705 - Application to Office of the Chief Technology Officer of 
 usc_title: 5
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 3705"
-generated_at: "2026-03-30T02:49:55.176Z"
+generated_at: "2026-03-30T02:52:56.008Z"
 ---
 
 # § 3705. Application to Office of the Chief Technology Officer of the District of Columbia

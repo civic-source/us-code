@@ -1,26 +1,12 @@
 ---
-title: "Section 2823 - University-based defense nuclear policy collaboration program"
+title: "Section 2823 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
 usc_title: 50
 usc_section: "2823"
 chapter: 42
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2823"
-generated_at: "2026-03-30T02:52:24.491Z"
+generated_at: "2026-03-30T02:56:26.226Z"
 ---
 
-# § 2823. University-based defense nuclear policy collaboration program
+# §§ 2822, 2823. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
 
-- **(a)** The Administrator shall carry out a program under which the Administrator establishes a policy research consortium of institutions of higher education and nonprofit entities in support of implementing and innovating the defense nuclear policy programs of the Administration. The Administrator shall establish and carry out such program in a manner similar to the program established under section 2795 of this title .
-- **(b)** The purposes of the consortium under subsection (a) are as follows:
-  - **(1)** To shape the formulation and application of policy through the conduct of research and analysis regarding defense nuclear policy programs.
-  - **(2)** To maintain open-source databases on issues relevant to understanding defense nuclear nonproliferation, arms control, nuclear deterrence, foreign nuclear programs, and nuclear security.
-  - **(3)** To facilitate the collaboration of research centers of excellence relating to defense nuclear policy to better distribute expertise to specific issues and scenarios regarding such threats.
-- **(c)**
-  - **(1)** The Administrator shall ensure that the consortium established under subsection (a) provides support to individuals described in paragraph (2) through the use of nongovernmental fellowships, scholarships, research internships, workshops, short courses, summer schools, and research grants.
-  - **(2)** The individuals described in this paragraph are graduate students, academics, and policy specialists, who are focused on policy innovation related to—
-    - **(A)** defense nuclear nonproliferation;
-    - **(B)** arms control;
-    - **(C)** nuclear deterrence;
-    - **(D)** the study of foreign nuclear programs;
-    - **(E)** nuclear security; or
-    - **(F)** educating and training the next generation of defense nuclear policy experts.

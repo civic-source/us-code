@@ -3,9 +3,9 @@ title: "Section 3316 - Classification societies"
 usc_title: 46
 usc_section: "3316"
 chapter: 33
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 3316"
-generated_at: "2026-03-30T02:52:21.749Z"
+generated_at: "2026-03-30T02:56:15.543Z"
 ---
 
 # § 3316. Classification societies
@@ -41,7 +41,9 @@ generated_at: "2026-03-30T02:52:21.749Z"
   - **(2)** The Secretary may make a delegation under paragraph (1) to a foreign classification society only if—
     - **(A)** the foreign society has offices and maintains records in the United States;
     - **(B)**
-      - **(i)** the government of the foreign country in which the foreign society is headquartered delegates that authority to the American Bureau of Shipping; or
+      - **(i)** the government of the foreign country in which the foreign society is headquartered—
+        - **(I)** delegates that authority to the American Bureau of Shipping; or
+        - **(II)** does not delegate that authority to any classification society; or
       - **(ii)** the Secretary has entered into an agreement with the government of the foreign country in which the foreign society is headquartered that—
         - **(I)** ensures the government of the foreign country will accept plan review, inspections, or examinations conducted by the American Bureau of Shipping and provide equivalent access to inspect, certify, and provide related services to offshore facilities located in that country or operating under the authority of that country; and
         - **(II)** is in full accord with principles of reciprocity in regards to any delegation contemplated by the Secretary under paragraph (1); and
@@ -54,6 +56,7 @@ generated_at: "2026-03-30T02:52:21.749Z"
   - **(4)** For purposes of this subsection—
     - **(A)** the term “offshore facility” means any installation, structure, or other device (including any vessel not documented under chapter 121 of this title or the laws of another country), fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the sea; and
     - **(B)** the term “United States offshore facility” means any offshore facility, fixed or floating, that dynamically holds position or is temporarily or permanently attached to the seabed or subsoil under the territorial sea of the United States or the outer Continental Shelf (as that term is defined in section 2 of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 )), including any vessel, rig, platform, or other vehicle or structure subject to regulation under section 30 of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1356 ).
+  - **(5)** Nothing in this subsection authorizes the Secretary to make a delegation under paragraph (2) to a classification society from the People’s Republic of China.
 - **(e)** The Secretary shall revoke a delegation made to a classification society under subsection (b) or (d) if the Secretary of State determines that the classification society provides comparable services in or for a state sponsor of terrorism.
 - **(f)**
   - **(1)** Upon request of an owner or operator of an offshore supply vessel, the Secretary shall delegate the authorities set forth in paragraph (1) of subsection (b) with respect to such vessel to a classification society to which a delegation is authorized under that paragraph. A delegation by the Secretary under this subsection shall be used for any vessel inspection and examination function carried out by the Secretary, including the issuance of certificates of inspection and all other related documents.

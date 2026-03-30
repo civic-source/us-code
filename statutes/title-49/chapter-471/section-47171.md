@@ -3,9 +3,9 @@ title: "Section 47171 - Expedited, coordinated environmental review process"
 usc_title: 49
 usc_section: "47171"
 chapter: 471
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 47171"
-generated_at: "2026-03-30T02:52:20.521Z"
+generated_at: "2026-03-30T02:56:19.406Z"
 ---
 
 # § 47171. Expedited, coordinated environmental review process
@@ -80,7 +80,7 @@ generated_at: "2026-03-30T02:52:20.521Z"
       - **(ii)**
         - **(I)** The Secretary may lengthen a schedule under clause (i) for a cooperating Federal agency by not more than 1 year after the latest deadline established for the project described or designated under subsection (b) by the Secretary.
         - **(II)** The Secretary may not shorten a schedule under clause (i) if doing so would impair the ability of a cooperating Federal agency to conduct necessary analyses or otherwise carry out relevant obligations of the Federal agency for the project.
-    - **(F)** If a cooperating Federal agency fails to meet a deadline established under subparagraph (D)(ii)(I) 1 1 So in original. Probably should be “subparagraph (E)(ii)(I)”. —
+    - **(F)** If a cooperating Federal agency fails to meet a deadline established under subparagraph (D)(ii)(I)— 1 1 So in original. Probably should be “subparagraph (E)(ii)(I)—”.
       - **(i)** the cooperating Federal agency shall, not later than 10 days after failing to meet the deadline, submit to the Secretary a report that describes the reasons why the deadline was not met; and
       - **(ii)** the Secretary shall—
         - **(I)** submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a copy of the report under clause (i); and

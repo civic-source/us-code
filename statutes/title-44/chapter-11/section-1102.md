@@ -3,9 +3,9 @@ title: "Section 1102 - Printing to be authorized by law and necessary to the pub
 usc_title: 44
 usc_section: "1102"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 1102"
-generated_at: "2026-03-30T02:51:32.914Z"
+generated_at: "2026-03-30T02:55:56.289Z"
 ---
 
 # § 1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Director of the Government Publishing Office

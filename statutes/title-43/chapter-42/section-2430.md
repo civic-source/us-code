@@ -3,9 +3,9 @@ title: "Section 2430 - Full faith and credit"
 usc_title: 43
 usc_section: "2430"
 chapter: 42
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 2430"
-generated_at: "2026-03-30T02:51:38.330Z"
+generated_at: "2026-03-30T02:55:57.497Z"
 ---
 
 # § 2430. Full faith and credit

@@ -3,9 +3,9 @@ title: "Section 1202 - Term of office; filling vacancies; removal"
 usc_title: 5
 usc_section: "1202"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 1202"
-generated_at: "2026-03-30T02:49:55.163Z"
+generated_at: "2026-03-30T02:52:55.994Z"
 ---
 
 # § 1202. Term of office; filling vacancies; removal

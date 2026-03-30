@@ -3,9 +3,9 @@ title: "Section 295 - General provisions"
 usc_title: 42
 usc_section: "295"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 295"
-generated_at: "2026-03-30T02:52:02.149Z"
+generated_at: "2026-03-30T02:56:10.780Z"
 ---
 
 # § 295. General provisions

@@ -3,9 +3,9 @@ title: "Section 1276a - San Francisco Bay restoration grant program"
 usc_title: 33
 usc_section: "1276a"
 chapter: 26
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1276a"
-generated_at: "2026-03-30T02:51:10.365Z"
+generated_at: "2026-03-30T02:55:41.085Z"
 ---
 
 # § 1276a. San Francisco Bay restoration grant program

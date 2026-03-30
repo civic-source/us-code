@@ -3,9 +3,9 @@ title: "Section 2576b - Excess personal property: sale or donation to assist fir
 usc_title: 10
 usc_section: "2576b"
 chapter: 153
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2576b"
-generated_at: "2026-03-30T02:50:18.616Z"
+generated_at: "2026-03-30T02:53:38.164Z"
 ---
 
 # § 2576b. Excess personal property: sale or donation to assist firefighting agencies

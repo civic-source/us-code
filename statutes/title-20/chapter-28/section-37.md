@@ -3,9 +3,9 @@ title: "Section 37 - Selection of scholars"
 usc_title: 20
 usc_section: "37"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 37"
-generated_at: "2026-03-30T02:50:39.133Z"
+generated_at: "2026-03-30T02:54:48.108Z"
 ---
 
 # § 1070d–37. Selection of scholars

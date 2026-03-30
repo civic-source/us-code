@@ -3,9 +3,9 @@ title: "Section 3545 - HUD accountability"
 usc_title: 42
 usc_section: "3545"
 chapter: 44
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3545"
-generated_at: "2026-03-30T02:52:02.735Z"
+generated_at: "2026-03-30T02:56:11.189Z"
 ---
 
 # § 3545. HUD accountability

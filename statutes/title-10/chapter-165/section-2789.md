@@ -3,9 +3,9 @@ title: "Section 2789 - Individual equipment: unauthorized disposition"
 usc_title: 10
 usc_section: "2789"
 chapter: 165
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2789"
-generated_at: "2026-03-30T02:50:18.630Z"
+generated_at: "2026-03-30T02:53:38.176Z"
 ---
 
 # § 2789. Individual equipment: unauthorized disposition

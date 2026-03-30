@@ -3,9 +3,9 @@ title: "Section 138c - Repealed. Pub. L. 113–291, div. A, title IX, § 901(g)(
 usc_title: 10
 usc_section: "138c"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 138c"
-generated_at: "2026-03-30T02:50:18.468Z"
+generated_at: "2026-03-30T02:53:38.037Z"
 ---
 
 # [§ 138c. Repealed. Pub. L. 113–291, div. A, title IX, § 901(g)(2) , Dec. 19, 2014 , 128 Stat. 3466 ]

@@ -3,9 +3,9 @@ title: "Section 2703 - Defenses to liability"
 usc_title: 33
 usc_section: "2703"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2703"
-generated_at: "2026-03-30T02:51:10.417Z"
+generated_at: "2026-03-30T02:55:41.130Z"
 ---
 
 # § 2703. Defenses to liability
@@ -68,4 +68,4 @@ generated_at: "2026-03-30T02:51:10.417Z"
       - **(ii)** With respect to real property purchased on or after May 31, 1997 , until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process”, shall satisfy the requirements in subparagraph (A).
     - **(E)** In the case of real property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, inspection and title search of the facility and the real property on which the facility is located that reveal no basis for further investigation shall be considered to satisfy the requirements of this paragraph.
   - **(5)** Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under section 2702(a) of this title and no defense under subsection (a) shall be available to such responsible party.
-  - **(6)** Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
+  - **(6)** Nothing in this subsection shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.

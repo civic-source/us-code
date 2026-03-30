@@ -3,9 +3,9 @@ title: "Section 2279l - National Detector Dog Training Center"
 usc_title: 7
 usc_section: "2279l"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2279l"
-generated_at: "2026-03-30T02:50:11.662Z"
+generated_at: "2026-03-30T02:53:42.385Z"
 ---
 
 # § 2279l. National Detector Dog Training Center

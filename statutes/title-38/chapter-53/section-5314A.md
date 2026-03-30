@@ -3,9 +3,9 @@ title: "Section 5314A - Dispute of indebtedness"
 usc_title: 38
 usc_section: "5314A"
 chapter: 53
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 5314A"
-generated_at: "2026-03-30T02:51:18.079Z"
+generated_at: "2026-03-30T02:55:53.521Z"
 ---
 
 # § 5314A. Dispute of indebtedness

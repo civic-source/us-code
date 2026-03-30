@@ -3,9 +3,9 @@ title: "Section 120105 - Powers"
 usc_title: 36
 usc_section: "120105"
 chapter: 1201
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 120105"
-generated_at: "2026-03-30T02:51:20.887Z"
+generated_at: "2026-03-30T02:55:44.700Z"
 ---
 
 # § 120105. Powers

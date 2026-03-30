@@ -3,9 +3,9 @@ title: "Section 1307 - National Oceanic and Atmospheric Administration: nautical
 usc_title: 44
 usc_section: "1307"
 chapter: 13
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 1307"
-generated_at: "2026-03-30T02:51:32.915Z"
+generated_at: "2026-03-30T02:55:56.290Z"
 ---
 
 # § 1307. National Oceanic and Atmospheric Administration: nautical products, sale and distribution

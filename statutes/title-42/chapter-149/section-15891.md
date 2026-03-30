@@ -3,9 +3,9 @@ title: "Section 15891 - Projects enhancing insular energy independence"
 usc_title: 42
 usc_section: "15891"
 chapter: 149
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 15891"
-generated_at: "2026-03-30T02:52:03.129Z"
+generated_at: "2026-03-30T02:56:11.461Z"
 ---
 
 # § 15891. Projects enhancing insular energy independence

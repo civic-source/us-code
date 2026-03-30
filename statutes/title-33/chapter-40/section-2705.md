@@ -3,9 +3,9 @@ title: "Section 2705 - Interest; partial payment of claims"
 usc_title: 33
 usc_section: "2705"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2705"
-generated_at: "2026-03-30T02:51:10.417Z"
+generated_at: "2026-03-30T02:55:41.130Z"
 ---
 
 # § 2705. Interest; partial payment of claims
@@ -20,4 +20,4 @@ generated_at: "2026-03-30T02:51:10.417Z"
     - **(B)** The interest paid for Federal Government cost recovery claims under this section shall be calculated in accordance with section 3717 of title 31 .
   - **(5)**
     - **(A)** Interest (including prejudgment interest) under this paragraph is in addition to damages and removal costs for which claims may be asserted under section 2702 of this title and shall be paid without regard to any limitation of liability under section 2704 of this title .
-    - **(B)** The payment of interest under this subsection by a guarantor is subject to section 2716(g) of this title .
+    - **(B)** The payment of interest under this subsection by a guarantor is subject to section 2716(f). 1 1 See References in Text note below.

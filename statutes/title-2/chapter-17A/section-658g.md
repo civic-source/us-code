@@ -3,9 +3,9 @@ title: "Section 658g - Clarification of application"
 usc_title: 2
 usc_section: "658g"
 chapter: 17
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 658g"
-generated_at: "2026-03-30T02:50:03.252Z"
+generated_at: "2026-03-30T02:53:04.801Z"
 ---
 
 # § 658g. Clarification of application

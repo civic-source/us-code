@@ -3,9 +3,9 @@ title: "Section 3604 - Program to accelerate the procurement and fielding of inn
 usc_title: 10
 usc_section: "3604"
 chapter: 253
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3604"
-generated_at: "2026-03-30T02:50:18.655Z"
+generated_at: "2026-03-30T02:53:38.195Z"
 ---
 
 # § 3604. Program to accelerate the procurement and fielding of innovative technologies
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:50:18.655Z"
       - **(i)** the review of proposals received in response to a solicitation issued under subparagraph (A) by the Secretary of Defense and by each Secretary of a military department;
       - **(ii)** the merit-based selection of the most promising cost-effective proposals; and
       - **(iii)** the procurement of goods or services offered by such a proposal through contracts, cooperative agreements, other transaction authority, or by another appropriate process.
-- **(c)** The total amount of funding provided for any proposal selected for an award under the program established under this section shall not exceed $50,000,000, unless the Secretary (or designee of the Secretary) approves a greater amount of funding.
+- **(c)** The total amount of funding provided for any proposal selected for an award under the program established under this section shall be greater than or equal to $10,000,000 and shall not exceed $50,000,000, unless the Secretary (or designee of the Secretary) approves a greater amount of funding.
 - **(d)**
   - **(1)** The Secretary of Defense may not provide funding under this section until the date on which the Secretary—
     - **(A)** completes a plan for carrying out the data collection required under paragraph (2); and

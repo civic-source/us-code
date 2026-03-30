@@ -3,9 +3,9 @@ title: "Section 8484 - Accessible trails"
 usc_title: 16
 usc_section: "8484"
 chapter: 103
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8484"
-generated_at: "2026-03-30T02:50:43.321Z"
+generated_at: "2026-03-30T02:54:23.087Z"
 ---
 
 # § 8484. Accessible trails

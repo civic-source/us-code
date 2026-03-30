@@ -3,9 +3,9 @@ title: "Section 10502 - Publication and provision of lists regarding progress on
 usc_title: 22
 usc_section: "10502"
 chapter: 112
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 10502"
-generated_at: "2026-03-30T02:50:53.173Z"
+generated_at: "2026-03-30T02:55:05.477Z"
 ---
 
 # § 10502. Publication and provision of lists regarding progress on anti-corruption efforts

@@ -3,9 +3,9 @@ title: "Section 80105 - Title and rights affected by negotiation"
 usc_title: 49
 usc_section: "80105"
 chapter: 801
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 80105"
-generated_at: "2026-03-30T02:52:20.536Z"
+generated_at: "2026-03-30T02:56:19.418Z"
 ---
 
 # § 80105. Title and rights affected by negotiation

@@ -3,9 +3,9 @@ title: "Section 12182 - Prohibition of discrimination by public accommodations"
 usc_title: 42
 usc_section: "12182"
 chapter: 126
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12182"
-generated_at: "2026-03-30T02:52:03.056Z"
+generated_at: "2026-03-30T02:56:11.410Z"
 ---
 
 # § 12182. Prohibition of discrimination by public accommodations

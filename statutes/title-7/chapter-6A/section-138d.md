@@ -3,9 +3,9 @@ title: "Section 138d - Application"
 usc_title: 7
 usc_section: "138d"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 138d"
-generated_at: "2026-03-30T02:50:11.518Z"
+generated_at: "2026-03-30T02:53:42.275Z"
 ---
 
 # § 138d. Application

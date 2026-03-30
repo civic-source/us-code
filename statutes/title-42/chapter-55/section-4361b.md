@@ -3,9 +3,9 @@ title: "Section 4361b - Implementation by Administrator of Environmental Protect
 usc_title: 42
 usc_section: "4361b"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 4361b"
-generated_at: "2026-03-30T02:52:02.755Z"
+generated_at: "2026-03-30T02:56:11.202Z"
 ---
 
 # § 4361b. Implementation by Administrator of Environmental Protection Agency of recommendations of “CHESS” Investigative Report; waiver; inclusion of status of implementation requirements in annual revisions of plan for research, development, and demonstration

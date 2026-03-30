@@ -3,9 +3,9 @@ title: "Section 4401 - Requirement for modular open system approach in major def
 usc_title: 10
 usc_section: "4401"
 chapter: 327
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4401"
-generated_at: "2026-03-30T02:50:18.671Z"
+generated_at: "2026-03-30T02:53:38.207Z"
 ---
 
 # § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions
@@ -40,4 +40,4 @@ generated_at: "2026-03-30T02:50:18.671Z"
   - **(6)** The term “program capability document” means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.
   - **(7)** The terms “program cost targets” and “fielding target” have the meanings provided in section 4271(a) of this title .
   - **(8)** The term “major defense acquisition program” has the meaning provided in section 4201 of this title .
-  - **(9)** The term “major weapon system” has the meaning provided in section 3455(f) of this title .
+  - **(9)** The term “major weapon system” has the meaning provided in section 101(a) of this title .

@@ -3,9 +3,9 @@ title: "Section 1421 - Prevention of interference with other uses of the high se
 usc_title: 30
 usc_section: "1421"
 chapter: 26
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1421"
-generated_at: "2026-03-30T02:50:55.763Z"
+generated_at: "2026-03-30T02:55:29.405Z"
 ---
 
 # § 1421. Prevention of interference with other uses of the high seas

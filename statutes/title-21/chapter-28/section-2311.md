@@ -3,9 +3,9 @@ title: "Section 2311 - Identification of foreign opioid traffickers"
 usc_title: 21
 usc_section: "2311"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 2311"
-generated_at: "2026-03-30T02:50:49.580Z"
+generated_at: "2026-03-30T02:54:54.311Z"
 ---
 
 # § 2311. Identification of foreign opioid traffickers
@@ -13,11 +13,22 @@ generated_at: "2026-03-30T02:50:49.580Z"
 - **(a)**
   - **(1)** The President shall submit to the appropriate congressional committees and leadership, in accordance with subsection (c), a report—
     - **(A)** identifying the foreign persons that the President determines are foreign opioid traffickers;
-    - **(B)** detailing progress the President has made in implementing this subchapter; and
-    - **(C)** providing an update on cooperative efforts with the governments of Mexico, the People’s Republic of China, and other countries of concern with respect to combating foreign opioid traffickers.
+    - **(B)** detailing progress the President has made in implementing this subchapter;
+    - **(C)** providing an update on cooperative efforts with the governments of Mexico, the People’s Republic of China, and other countries of concern with respect to combating foreign opioid traffickers; and
+    - **(D)** assessing whether any senior official of any anti-narcotics, regulatory, law enforcement, intelligence, or customs body of the People’s Republic of China—
+      - **(i)** has directly or indirectly taken actions that have facilitated or advanced foreign opioid trafficking; and
+      - **(ii)** should be identified as a foreign opioid trafficker.
   - **(2)** If, at any time after submitting a report required by paragraph (1) and before the submission of the next such report, the President determines that a foreign person not identified in the report is a foreign opioid trafficker, the President shall submit to the appropriate congressional committees and leadership an additional report containing the information required by paragraph (1) with respect to the foreign person.
-  - **(3)** The President shall not be required to include in a report under paragraph (1) or (2) any persons with respect to which the United States has imposed sanctions before the date of the report under this subchapter or any other provision of law with respect to opioid trafficking.
-  - **(4)**
+  - **(3)**
+    - **(A)** In this paragraph, the term “person of the People’s Republic of China” means—
+      - **(i)** an individual who is a citizen or national of the People’s Republic of China; or
+      - **(ii)** an entity organized under the laws of the People’s Republic of China or otherwise subject to the jurisdiction of the Government of the People’s Republic of China.
+    - **(B)** In preparing the report required under paragraph (1), the President shall direct the Secretary of the Treasury to prioritize, to the greatest extent practicable, the identification of persons of the People’s Republic of China involved in the shipment of fentanyl, fentanyl analogues, fentanyl precursors, precursors for fentanyl analogues, pre-precursors for fentanyl and fentanyl analogues, and equipment for the manufacturing of fentanyl and fentanyl-laced counterfeit pills to Mexico or any other country that is involved in the production of fentanyl trafficked into the United States, including—
+      - **(i)** any entity involved in the production of pharmaceuticals; and
+      - **(ii)** any person that is acting on behalf of any such entity.
+    - **(C)** The President shall continue the prioritization required under subparagraph (B) until the President certifies to the appropriate congressional committees that the People’s Republic of China is no longer the primary source for the shipment of fentanyl, fentanyl analogues, fentanyl precursors, precursors for fentanyl analogues, pre-precursors for fentanyl and fentanyl analogues, and equipment for the manufacturing of fentanyl and fentanyl-laced counterfeit pills to Mexico or any other country that is involved in the production of fentanyl trafficked into the United States.
+  - **(4)** The President shall not be required to include in a report under paragraph (1) or (2) any persons with respect to which the United States has imposed sanctions before the date of the report under this subchapter or any other provision of law with respect to opioid trafficking.
+  - **(5)**
     - **(A)** Each report required by paragraph (1) or (2) shall be submitted in unclassified form but may include a classified annex.
     - **(B)** The unclassified portion of a report required by paragraph (1) or (2) shall be made available to the public.
 - **(b)**
@@ -27,7 +38,7 @@ generated_at: "2026-03-30T02:50:49.580Z"
     - **(C)** describing actions the President intends to undertake or has undertaken to implement this subchapter; and
     - **(D)** providing a strategy for identifying additional foreign opioid traffickers.
   - **(2)** The report required by paragraph (1) is in addition to, and in no way delimits or restricts, the obligations of the President to keep Congress fully and currently informed pursuant to the provisions of the National Security Act of 1947 ( 50 U.S.C. 3001 et seq.).
-- **(c)** Not later than 180 days after December 20, 2019 , and annually thereafter until the date that is 5 years after December 20, 2019 , the President shall submit the reports required by subsections (a) and (b) to the appropriate congressional committees and leadership.
+- **(c)** Not later than 180 days after December 20, 2019 , and annually thereafter until December 31, 2030 , the President shall submit the reports required by subsections (a) and (b) to the appropriate congressional committees and leadership.
 - **(d)**
   - **(1)** Notwithstanding any other provision of this section, a report required by subsection (a) or (b) shall not disclose the identity of any person if the Director of National Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
   - **(2)** Notwithstanding any other provision of this section, a report required by subsection (a) or (b) shall not disclose the identity of any person if the Attorney General, in coordination, as appropriate, with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of the Treasury, the Secretary of State, and the head of any other appropriate Federal law enforcement agency, determines that such disclosure could reasonably be expected—

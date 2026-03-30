@@ -3,9 +3,9 @@ title: "Section 3599 - Counsel for financially unable defendants"
 usc_title: 18
 usc_section: "3599"
 chapter: 228
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 3599"
-generated_at: "2026-03-30T02:50:34.990Z"
+generated_at: "2026-03-30T02:54:16.521Z"
 ---
 
 # § 3599. Counsel for financially unable defendants

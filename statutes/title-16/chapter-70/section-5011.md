@@ -3,9 +3,9 @@ title: "Section 5011 - Funding requirements"
 usc_title: 16
 usc_section: "5011"
 chapter: 70
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 5011"
-generated_at: "2026-03-30T02:50:43.283Z"
+generated_at: "2026-03-30T02:54:23.050Z"
 ---
 
 # § 5011. Funding requirements

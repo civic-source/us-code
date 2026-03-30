@@ -3,9 +3,9 @@ title: "Section 4252 - Major defense acquisition programs: factors to be conside
 usc_title: 10
 usc_section: "4252"
 chapter: 322
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4252"
-generated_at: "2026-03-30T02:50:18.668Z"
+generated_at: "2026-03-30T02:53:38.205Z"
 ---
 
 # § 4252. Major defense acquisition programs: factors to be considered before Milestone B approval
@@ -23,13 +23,12 @@ generated_at: "2026-03-30T02:50:18.668Z"
   - **(6)** Funding is expected to be available to execute the product development and production plan for the program or subprogram, consistent with the estimates described in paragraph (4) for the program or subprogram.
   - **(7)** Appropriate market research has been conducted prior to technology development, including market research of commercial products, commercial services, and nondevelopmental items (as defined in section 110 of title 41 ).
   - **(8)** The Department of Defense has completed an analysis of alternatives with respect to the program or subprogram, or in lieu of an analysis of alternatives, early experimentation with a combatant commander has been conducted.
-  - **(9)** The Joint Requirements Oversight Council has accomplished its duties with respect to the program or subprogram pursuant to section 181(b) of this title , including an analysis of the operational requirements for the program or subprogram.
-  - **(10)** Life-cycle sustainment planning has identified and evaluated relevant sustainment cost elements, factors, risks, and gaps that are likely to drive readiness of the system as well as operating and supporting costs.
-  - **(11)** An estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements.
-  - **(12)** The program or subprogram complies with all relevant policies, regulations, and directives of the Department of Defense.
-  - **(13)** Appropriate actions are planned for the acquisition of technical data required to support the program or subprogram.
-  - **(14)** The program or subprogram has an approved life cycle sustainment plan required under section 4324(b) of this title .
-  - **(15)** In the case of a naval vessel program or subprogram, such program or subprogram is in compliance with the requirements of section 8669b of this title .
+  - **(9)** Life-cycle sustainment planning has identified and evaluated relevant sustainment cost elements, factors, risks, and gaps that are likely to drive readiness of the system as well as operating and supporting costs.
+  - **(10)** An estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements.
+  - **(11)** The program or subprogram complies with all relevant policies, regulations, and directives of the Department of Defense.
+  - **(12)** Appropriate actions are planned for the acquisition of technical data required to support the program or subprogram.
+  - **(13)** The program or subprogram has an approved life cycle sustainment plan required under section 4324(b) of this title .
+  - **(14)** In the case of a naval vessel program or subprogram, such program or subprogram is in compliance with the requirements of section 8669b of this title .
 - **(c)** The milestone decision authority shall issue a written record of decision at the time that Milestone B approval is granted. The record shall confirm compliance with subsection (b) and specifically state that the milestone decision authority considered the factors described in subsection (b) prior to the decision to grant milestone approval. The milestone decision authority shall retain records of the basis for the milestone decision.
 - **(d)**
   - **(1)** The program manager for a major defense acquisition program that has received a written record of the milestone decision under subsection (c) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—

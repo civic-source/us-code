@@ -3,9 +3,9 @@ title: "Section 702c - Expenditures for construction work; conditions precedent;
 usc_title: 33
 usc_section: "702c"
 chapter: 15
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 702c"
-generated_at: "2026-03-30T02:51:10.348Z"
+generated_at: "2026-03-30T02:55:41.071Z"
 ---
 
 # § 702c. Expenditures for construction work; conditions precedent; liability for damage from flood waters; condemnation proceedings; floodage rights

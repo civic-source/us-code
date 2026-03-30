@@ -1,14 +1,14 @@
 ---
-title: "Section 310 - Chief of Staff to President: appointment"
+title: "Section 310 - Director of Coast Guard Investigative Service"
 usc_title: 14
 usc_section: "310"
 chapter: 3
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 310"
-generated_at: "2026-03-30T02:50:21.606Z"
+generated_at: "2026-03-30T02:53:51.487Z"
 ---
 
-# § 310. Chief of Staff to President: appointment
+# § 310. Director of Coast Guard Investigative Service
 
-The President, by and with the advice and consent of the Senate, may appoint a flag officer of the Coast Guard as the Chief of Staff to the President.
-
+- **(a)** There shall be a Director of the Coast Guard Investigative Service.
+- **(b)** The Director of the Coast Guard Investigative Service shall report directly to and be under the general supervision of the Commandant, acting through the Vice Commandant of the Coast Guard.

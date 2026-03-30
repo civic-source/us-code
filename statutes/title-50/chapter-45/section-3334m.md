@@ -3,14 +3,14 @@ title: "Section 3334m - Additional responsibilities of Director of National Inte
 usc_title: 50
 usc_section: "3334m"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334m"
-generated_at: "2026-03-30T02:52:24.517Z"
+generated_at: "2026-03-30T02:56:26.245Z"
 ---
 
 # § 3334m. Additional responsibilities of Director of National Intelligence for artificial intelligence policies, standards, and guidance for the intelligence community
 
-- **(a)** The Director of National Intelligence, in consultation with the heads of the elements of the intelligence community or the officials designated under subsection (c), shall—
+- **(a)** The Director of National Intelligence, in consultation with the heads of the elements of the intelligence community or the Chief Artificial Intelligence Officers designated under subsection (e), shall—
   - **(1)** establish, and periodically conduct reviews of, policies, standards, and procedures relating to the acquisition, adoption, development, use, coordination, and maintenance of artificial intelligence capabilities and associated data, frameworks, computing environments, and other enablers by the intelligence community (including by incorporating and updating such policies based on emerging technology capabilities), to accelerate and increase the adoption of artificial intelligence capabilities within the intelligence community;
   - **(2)** ensure policies established or updated pursuant to paragraph (1) are consistent with—
     - **(A)** the principles outlined in the guidance of the Office of the Director of National Intelligence titled “Principles of Artificial Intelligence Ethics for the Intelligence Community and its Artificial Intelligence Ethics Framework for the Intelligence Community”, or any successor guidance; and
@@ -30,4 +30,8 @@ generated_at: "2026-03-30T02:52:24.517Z"
     - **(E)** establish minimum standards for the documentation of imputed, augmented, or synthetic data used to train any model developed, procured, or used by an element of the intelligence community; and
     - **(F)** provide guidance on the acquisition and usage of models that have previously been trained by a third party for subsequent modification and usage by such an element.
   - **(3)** The Director of National Intelligence shall annually review or revise each policy established under paragraph (1).
-- **(c)** Each head of an element of the intelligence community, in coordination with the Director of National Intelligence, shall identify a senior official within the element to serve as the designated element lead responsible for overseeing and coordinating efforts relating to artificial intelligence, including through the integration of the acquisition, technology, human capital, and financial management aspects necessary for the adoption of artificial intelligence solutions. Such designated element leads shall meet regularly to consult and coordinate with the Director of National Intelligence regarding the implementation of this section and this title. 1 1 See References in Text note below.
+- **(c)** In carrying out subsections (a) and (b), the Director shall ensure that the policies established under such subsections apply to the greatest extent possible to artificial intelligence models generally available to the public and hosted in classified environments.
+- **(d)**
+  - **(1)** The Chief Artificial Intelligence Officer of the Intelligence Community, or any officer designated by the Director of National Intelligence, shall establish standards for testing of artificial intelligence models in proportion to risk, including benchmarks and methodologies for the performance, efficacy, safety, fairness, transparency, accountability, appropriateness, lawfulness, and trustworthiness of artificial intelligence models across common use cases, including machine translation, object detection, and object recognition.
+  - **(2)** The Chief Artificial Intelligence Officer of the Intelligence Community, in coordination with the Chief Artificial Intelligence Officers of the elements of the intelligence community, shall set standards for an appropriate secure computing environment, at a level (or multiple levels) of classification deemed appropriate, for elements of the intelligence community to engage in testing and evaluation of models prior to acquisition.
+- **(e)** Each head of an element of the intelligence community, in coordination with the Director of National Intelligence, shall identify a senior official within the element to serve as the designated Chief Artificial Intelligence Officer, with lead responsibility for overseeing and coordinating efforts relating to artificial intelligence, including through the integration of the acquisition, technology, human capital, and financial management aspects necessary for the adoption of artificial intelligence solutions. Such designated Chief Artificial Intelligence Officers shall meet regularly to consult and coordinate with the Director of National Intelligence regarding the implementation of this section and this title. 1 1 See References in Text note below.

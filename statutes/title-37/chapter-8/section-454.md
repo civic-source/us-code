@@ -3,9 +3,9 @@ title: "Section 454 - Travel and transportation: pilot programs"
 usc_title: 37
 usc_section: "454"
 chapter: 8
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 454"
-generated_at: "2026-03-30T02:51:14.775Z"
+generated_at: "2026-03-30T02:55:44.059Z"
 ---
 
 # § 454. Travel and transportation: pilot programs

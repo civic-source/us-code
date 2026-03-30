@@ -3,9 +3,9 @@ title: "Section 2218 - National Defense Sealift Fund"
 usc_title: 10
 usc_section: "2218"
 chapter: 131
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2218"
-generated_at: "2026-03-30T02:50:18.595Z"
+generated_at: "2026-03-30T02:53:38.148Z"
 ---
 
 # § 2218. National Defense Sealift Fund
@@ -17,7 +17,7 @@ generated_at: "2026-03-30T02:50:18.595Z"
     - **(A)** Construction (including design of vessels), purchase, alteration, and conversion of Department of Defense sealift vessels.
     - **(B)** Operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes.
     - **(C)** Installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States.
-    - **(D)** Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 ( 50 U.S.C. 4405 ), 1 1 See References in Text note below. and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
+    - **(D)** Expenses for maintaining the National Defense Reserve Fleet under section 57100 of title 46 and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
   - **(2)** Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
   - **(3)** Funds obligated and expended for a purpose set forth in subparagraph (B) of paragraph (1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
 - **(d)** There shall be deposited in the Fund the following:
@@ -40,7 +40,7 @@ generated_at: "2026-03-30T02:50:18.595Z"
       - **(i)** participated in the Maritime Security Fleet; and
       - **(ii)** is available for purchase at a reasonable cost, as determined by the Secretary.
     - **(B)** If the Secretary determines that no used vessel meeting the requirements under clauses (i) and (ii) of subparagraph (A) is available, the Secretary may purchase a used vessel comparable to a vessel described in clause (i) of subparagraph (A), regardless of the source of the vessel or where the vessel was constructed, if such vessel is available for purchase at a reasonable cost, as determined by the Secretary.
-    - **(C)** The Secretary may not use the authority under this paragraph to purchase more than 10 foreign constructed vessels.
+    - **(C)** The Secretary may not use the authority under this paragraph to purchase more than 12 foreign constructed vessels.
     - **(D)** The Secretary shall ensure that the initial conversion, or modernization of any vessel purchased under the authority of subparagraph (A) occurs in a shipyard located in the United States.
     - **(E)** The Secretary may not use the authority under this paragraph to procure more than four foreign constructed vessels unless the Secretary submits to Congress, by not later than the second week of February of the fiscal year during which the Secretary plans to use such authority, a certification that—
       - **(i)** the Secretary has initiated an acquisition strategy for the construction in United States shipyards of not less than ten new vessels that are sealift vessels, auxiliary vessels, or a combination of such vessels; and
@@ -85,6 +85,6 @@ generated_at: "2026-03-30T02:50:18.595Z"
     - **(B)** Any other auxiliary vessel that was procured or chartered with specific authorization in law for the vessel, or class of vessels, to be funded in the National Defense Sealift Fund.
   - **(3)** The term “national defense sealift vessel” means—
     - **(A)** a Department of Defense sealift vessel; and
-    - **(B)** a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 ( 50 U.S.C. 4405 ). 1
+    - **(B)** a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 57100 of title 46 .
   - **(4)** The term “head of an agency” has the meaning given that term in section 3004 of this title .
   - **(5)** The term “Maritime Security Fleet” means the fleet established under section 53102(a) of title 46 .

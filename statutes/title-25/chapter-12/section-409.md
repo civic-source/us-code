@@ -3,9 +3,9 @@ title: "Section 409 - Sale of lands within reclamation projects"
 usc_title: 25
 usc_section: "409"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 409"
-generated_at: "2026-03-30T02:50:48.138Z"
+generated_at: "2026-03-30T02:54:52.808Z"
 ---
 
 # § 409. Sale of lands within reclamation projects

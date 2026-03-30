@@ -3,9 +3,9 @@ title: "Section 60504 - Reciprocal privileges for recreational vessels"
 usc_title: 46
 usc_section: "60504"
 chapter: 605
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 60504"
-generated_at: "2026-03-30T02:52:21.804Z"
+generated_at: "2026-03-30T02:56:15.584Z"
 ---
 
 # § 60504. Reciprocal privileges for recreational vessels

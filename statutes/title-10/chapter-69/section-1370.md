@@ -3,9 +3,9 @@ title: "Section 1370 - Regular commissioned officers"
 usc_title: 10
 usc_section: "1370"
 chapter: 69
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1370"
-generated_at: "2026-03-30T02:50:18.553Z"
+generated_at: "2026-03-30T02:53:38.116Z"
 ---
 
 # § 1370. Regular commissioned officers
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T02:50:18.553Z"
   - **(5)** The aggregate number of members of an armed force in a grade for whom reductions are made under paragraph (1), and waivers are made under paragraph (3), in a fiscal year may not exceed—
     - **(A)** in the case of officers to be retired in a grade at or below the grade of major in the Army, Air Force, Marine Corps, or Space Force or lieutenant commander in the Navy, the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade;
     - **(B)** in the case of officers to be retired in the grade of lieutenant colonel or colonel in the Army, Air Force, Marine Corps, or Space Force or commander or captain in the Navy, the number equal to four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in the applicable grade; or
-    - **(C)** in the case of officers to be retired in the grade of brigadier general or major general in the Army, Air Force, Marine Corps, or Space Force or rear admiral (lower half) or rear admiral in the Navy, the number equal to 10 percent of the authorized active-duty strength for that fiscal year for officers of that armed force in the applicable grade.
+    - **(C)** in the case of officers to be retired in the grade of brigadier general or major general in the Army, Air Force, Marine Corps, or Space Force or rear admiral (lower half) or rear admiral in the Navy, the number equal to 10 percent 1 1 See Temporary Increase in Fiscal Year Percentage Limitation for Reduction or Waiver of Service-In-Grade Requirement for General and Flag Officers To Be Retired in Pay Grades O–7 and O–8 note below. of the authorized active-duty strength for that fiscal year for officers of that armed force in the applicable grade.
   - **(6)** In the case of an officer to be retired in a grade that is a general or flag officer grade who is eligible to retire in that grade only by reason of an exercise of the authority in paragraph (1) to reduce the service-in-grade requirement in that paragraph, or the authority in paragraph (3) to waive that requirement, the Secretary of Defense or the President, as applicable, shall, not later than 60 days prior to the date on which the officer will be retired in that grade, notify the Committees on Armed Services of the Senate and the House of Representatives of the exercise of the applicable authority with respect to that officer.
   - **(7)** An officer described in paragraph (1) whose length of service in the highest grade held by the officer while on active duty does not meet the period of the service-in-grade requirement applicable to the officer under this subsection shall, subject to subsection (c), be retired in the next lower grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the military department concerned or the Secretary of Defense, as applicable.
 - **(c)**

@@ -3,9 +3,9 @@ title: "Section 384 - Importation of prescription drugs"
 usc_title: 21
 usc_section: "384"
 chapter: 9
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 384"
-generated_at: "2026-03-30T02:50:49.537Z"
+generated_at: "2026-03-30T02:54:54.278Z"
 ---
 
 # § 384. Importation of prescription drugs

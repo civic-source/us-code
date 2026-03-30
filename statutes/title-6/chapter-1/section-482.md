@@ -3,9 +3,9 @@ title: "Section 482 - Facilitating homeland security information sharing procedu
 usc_title: 6
 usc_section: "482"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 482"
-generated_at: "2026-03-30T02:50:05.831Z"
+generated_at: "2026-03-30T02:53:09.467Z"
 ---
 
 # § 482. Facilitating homeland security information sharing procedures

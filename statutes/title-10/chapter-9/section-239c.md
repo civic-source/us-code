@@ -3,9 +3,9 @@ title: "Section 239c - Certain multiyear contracts for acquisition of property: 
 usc_title: 10
 usc_section: "239c"
 chapter: 9
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 239c"
-generated_at: "2026-03-30T02:50:18.479Z"
+generated_at: "2026-03-30T02:53:38.048Z"
 ---
 
 # § 239c. Certain multiyear contracts for acquisition of property: budget justification materials

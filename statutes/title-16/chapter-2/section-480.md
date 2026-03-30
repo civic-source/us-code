@@ -3,9 +3,9 @@ title: "Section 480 - Civil and criminal jurisdiction"
 usc_title: 16
 usc_section: "480"
 chapter: 2
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 480"
-generated_at: "2026-03-30T02:50:43.077Z"
+generated_at: "2026-03-30T02:54:22.857Z"
 ---
 
 # § 480. Civil and criminal jurisdiction

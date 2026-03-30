@@ -3,9 +3,9 @@ title: "Section 14514 - Discharge or retirement for years of service or after se
 usc_title: 10
 usc_section: "14514"
 chapter: 1407
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 14514"
-generated_at: "2026-03-30T02:50:18.745Z"
+generated_at: "2026-03-30T02:53:38.276Z"
 ---
 
 # § 14514. Discharge or retirement for years of service or after selection for early removal

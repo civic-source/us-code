@@ -3,9 +3,9 @@ title: "Section 4659 - Prohibition on contracting with entities that comply with
 usc_title: 10
 usc_section: "4659"
 chapter: 363
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4659"
-generated_at: "2026-03-30T02:50:18.673Z"
+generated_at: "2026-03-30T02:53:38.209Z"
 ---
 
 # § 4659. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel

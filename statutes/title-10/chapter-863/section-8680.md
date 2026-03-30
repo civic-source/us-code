@@ -3,15 +3,15 @@ title: "Section 8680 - Overhaul, repair, etc. of vessels in foreign shipyards: r
 usc_title: 10
 usc_section: "8680"
 chapter: 863
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8680"
-generated_at: "2026-03-30T02:50:18.709Z"
+generated_at: "2026-03-30T02:53:38.248Z"
 ---
 
 # § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
 
 - **(a)**
-  - **(1)** A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam.
+  - **(1)** A naval vessel the homeport of which is in the United States, Guam, or the Commonwealth of the Northern Mariana Islands may not be overhauled, repaired, or maintained in a shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands.
   - **(2)**
     - **(A)** Notwithstanding paragraph (1) and subject to subparagraph (B), in the case of a naval vessel classified as a Littoral Combat Ship and operating on deployment, corrective and preventive maintenance or repair (whether intermediate or depot level) and facilities maintenance may be performed on the vessel—
       - **(i)** in a foreign shipyard;
@@ -32,7 +32,7 @@ generated_at: "2026-03-30T02:50:18.709Z"
         - **(II)** the effort required to perform coating maintenance and repair to exterior and interior surfaces due to normal environmental conditions; and
         - **(III)** the effort required to clean mechanical spaces, mission zones, and topside spaces.
   - **(3)**
-    - **(A)** Notwithstanding paragraph (1) and subject to subparagraph (B), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
+    - **(A)** Notwithstanding paragraph (1) and subject to subparagraph (B), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands if the repairs are—
       - **(i)** voyage repairs;
       - **(ii)** necessary to correct damage sustained due to hostile actions or interventions; or
       - **(iii)** corrective and preventive maintenance of a deployed naval vessel planned to last not more than 21 days.
@@ -55,7 +55,7 @@ generated_at: "2026-03-30T02:50:18.709Z"
       - **(ii)** opportunities to mitigate the future potential need to leverage foreign shipyards.
   - **(3)** Repair or refurbishment described in paragraph (1) may be carried out by personnel and contractors of the United States, the United Kingdom, or Australia in accordance with the international arrangements governing the submarine security activities described in such paragraph.
 - **(d)**
-  - **(1)** The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under section 1105(a) of title 31 , a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
+  - **(1)** The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under section 1105(a) of title 31 , a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
   - **(2)** The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
   - **(3)** Except as provided in paragraph (4), the report also shall include the following with respect to each covered naval vessel:
     - **(A)** The justification under law and operational justification for the repair in a foreign shipyard.

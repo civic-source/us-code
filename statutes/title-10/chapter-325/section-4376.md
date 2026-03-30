@@ -3,14 +3,14 @@ title: "Section 4376 - Breach of critical cost growth threshold: reassessment of
 usc_title: 10
 usc_section: "4376"
 chapter: 325
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4376"
-generated_at: "2026-03-30T02:50:18.670Z"
+generated_at: "2026-03-30T02:53:38.207Z"
 ---
 
 # § 4376. Breach of critical cost growth threshold: reassessment of program; presumption of program termination
 
-- **(a)** If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated subprogram (as determined by the Secretary under section 4374 of this title ) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense, after consultation with the Joint Requirements Oversight Council regarding program requirements, shall—
+- **(a)** If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated subprogram (as determined by the Secretary under section 4374 of this title ) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense shall—
   - **(1)** determine the root cause or causes of the critical cost growth in accordance with applicable statutory requirements and Department of Defense policies, procedures, and guidance; and
   - **(2)** in consultation with the Director of Cost Assessment and Program Evaluation, carry out an assessment of—
     - **(A)** the projected cost of completing the program if current requirements are not modified;
@@ -21,7 +21,7 @@ generated_at: "2026-03-30T02:50:18.670Z"
   - **(1)** After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 4375(d) and (e) of this title is required to be submitted under section 4351(f) of this title , a written certification in accordance with paragraph (2).
   - **(2)** A certification described by this paragraph with respect to a major defense acquisition program is a written certification that—
     - **(A)** the continuation of the program is essential to the national security;
-    - **(B)** there are no alternatives to the program which will provide acceptable capability to meet the joint military requirement (as defined in section 181(g)(1) of this title ) at less cost;
+    - **(B)** there are no alternatives to the program which will provide acceptable capability at less cost;
     - **(C)** the new estimates of the program acquisition unit cost or procurement unit cost have been determined by the Director of Cost Assessment and Program Evaluation to be reasonable;
     - **(D)** the program is a higher priority than programs whose funding must be reduced to accommodate the growth in cost of the program; and
     - **(E)** the management structure for the program is adequate to manage and control program acquisition unit cost or procurement unit cost.
@@ -29,4 +29,4 @@ generated_at: "2026-03-30T02:50:18.670Z"
 - **(c)** If a major defense acquisition program is terminated pursuant to subsection (b), the Secretary shall submit to Congress a written report setting forth—
   - **(1)** an explanation of the reasons for terminating the program;
   - **(2)** the alternatives considered to address any problems in the program; and
-  - **(3)** the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
+  - **(3)** the course the Department plans to pursue to meet any continuing military requirements otherwise intended to be met by the program.

@@ -3,9 +3,9 @@ title: "Section 2393 - Payments in anticipation of services; withholding of paym
 usc_title: 42
 usc_section: "2393"
 chapter: 24
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2393"
-generated_at: "2026-03-30T02:52:02.698Z"
+generated_at: "2026-03-30T02:56:11.165Z"
 ---
 
 # § 2393. Payments in anticipation of services; withholding of payments

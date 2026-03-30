@@ -3,9 +3,9 @@ title: "Section 2153c - Renegotiation of agreements for cooperation"
 usc_title: 42
 usc_section: "2153c"
 chapter: 23
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2153c"
-generated_at: "2026-03-30T02:52:02.675Z"
+generated_at: "2026-03-30T02:56:11.151Z"
 ---
 
 # § 2153c. Renegotiation of agreements for cooperation

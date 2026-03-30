@@ -3,9 +3,9 @@ title: "Section 1708 - Federal Housing Administration operations"
 usc_title: 12
 usc_section: "1708"
 chapter: 13
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1708"
-generated_at: "2026-03-30T02:50:26.389Z"
+generated_at: "2026-03-30T02:53:53.409Z"
 ---
 
 # § 1708. Federal Housing Administration operations

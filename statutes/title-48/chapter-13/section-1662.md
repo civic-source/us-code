@@ -3,9 +3,9 @@ title: "Section 1662 - Sovereignty of United States extended over Swains Island"
 usc_title: 48
 usc_section: "1662"
 chapter: 13
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1662"
-generated_at: "2026-03-30T02:52:10.397Z"
+generated_at: "2026-03-30T02:56:14.589Z"
 ---
 
 # § 1662. Sovereignty of United States extended over Swains Island

@@ -3,9 +3,9 @@ title: "Section 1459 - Reporting requirements for individuals"
 usc_title: 19
 usc_section: "1459"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1459"
-generated_at: "2026-03-30T02:50:36.527Z"
+generated_at: "2026-03-30T02:54:24.636Z"
 ---
 
 # § 1459. Reporting requirements for individuals

@@ -3,9 +3,9 @@ title: "Section 15503 - Approval of applications for assistance"
 usc_title: 40
 usc_section: "15503"
 chapter: 155
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 15503"
-generated_at: "2026-03-30T02:51:19.783Z"
+generated_at: "2026-03-30T02:55:43.388Z"
 ---
 
 # § 15503. Approval of applications for assistance

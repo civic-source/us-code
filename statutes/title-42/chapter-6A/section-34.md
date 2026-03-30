@@ -3,9 +3,9 @@ title: "Section 34 - Competitive grants to States and Indian tribes for the deve
 usc_title: 42
 usc_section: "34"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 34"
-generated_at: "2026-03-30T02:52:02.247Z"
+generated_at: "2026-03-30T02:56:10.847Z"
 ---
 
 # § 300jj–34. Competitive grants to States and Indian tribes for the development of loan programs to facilitate the widespread adoption of certified EHR technology

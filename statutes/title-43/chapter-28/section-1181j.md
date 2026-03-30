@@ -3,9 +3,9 @@ title: "Section 1181j - Transferred"
 usc_title: 43
 usc_section: "1181j"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1181j"
-generated_at: "2026-03-30T02:51:38.302Z"
+generated_at: "2026-03-30T02:55:57.468Z"
 ---
 
 # § 1181j. Transferred

@@ -3,9 +3,9 @@ title: "Section 30522 - Loss by fire"
 usc_title: 46
 usc_section: "30522"
 chapter: 305
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 30522"
-generated_at: "2026-03-30T02:52:21.772Z"
+generated_at: "2026-03-30T02:56:15.561Z"
 ---
 
 # § 30522. Loss by fire

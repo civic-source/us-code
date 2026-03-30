@@ -3,9 +3,9 @@ title: "Section 407a - Administration, protection, and development"
 usc_title: 16
 usc_section: "407a"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 407a"
-generated_at: "2026-03-30T02:50:42.971Z"
+generated_at: "2026-03-30T02:54:22.757Z"
 ---
 
 # § 407a. Administration, protection, and development

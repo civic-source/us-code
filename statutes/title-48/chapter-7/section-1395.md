@@ -3,9 +3,9 @@ title: "Section 1395 - Tax laws continued; tax on sugar"
 usc_title: 48
 usc_section: "1395"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1395"
-generated_at: "2026-03-30T02:52:10.382Z"
+generated_at: "2026-03-30T02:56:14.583Z"
 ---
 
 # § 1395. Tax laws continued; tax on sugar

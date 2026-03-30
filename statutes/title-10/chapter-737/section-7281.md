@@ -3,9 +3,9 @@ title: "Section 7281 - Service medals: issue; replacement; availability of appro
 usc_title: 10
 usc_section: "7281"
 chapter: 737
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7281"
-generated_at: "2026-03-30T02:50:18.686Z"
+generated_at: "2026-03-30T02:53:38.230Z"
 ---
 
 # § 7281. Service medals: issue; replacement; availability of appropriations

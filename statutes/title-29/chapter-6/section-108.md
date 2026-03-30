@@ -3,9 +3,9 @@ title: "Section 108 - Noncompliance with obligations involved in labor disputes 
 usc_title: 29
 usc_section: "108"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 108"
-generated_at: "2026-03-30T02:50:58.608Z"
+generated_at: "2026-03-30T02:55:18.677Z"
 ---
 
 # § 108. Noncompliance with obligations involved in labor disputes or failure to settle by negotiation or arbitration as preventing injunctive relief

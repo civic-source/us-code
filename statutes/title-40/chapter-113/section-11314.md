@@ -3,9 +3,9 @@ title: "Section 11314 - Authority to acquire and manage information technology"
 usc_title: 40
 usc_section: "11314"
 chapter: 113
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 11314"
-generated_at: "2026-03-30T02:51:19.778Z"
+generated_at: "2026-03-30T02:55:43.385Z"
 ---
 
 # § 11314. Authority to acquire and manage information technology

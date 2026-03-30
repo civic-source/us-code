@@ -3,9 +3,9 @@ title: "Section 2201 - Designation of facility as Capitol Visitor Center; purpos
 usc_title: 2
 usc_section: "2201"
 chapter: 31
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 2201"
-generated_at: "2026-03-30T02:50:03.284Z"
+generated_at: "2026-03-30T02:53:04.826Z"
 ---
 
 # § 2201. Designation of facility as Capitol Visitor Center; purposes of facility; treatment of the Capitol Visitor Center

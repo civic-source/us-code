@@ -3,9 +3,9 @@ title: "Section 2679 - Installation-support services: intergovernmental support 
 usc_title: 10
 usc_section: "2679"
 chapter: 159
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2679"
-generated_at: "2026-03-30T02:50:18.622Z"
+generated_at: "2026-03-30T02:53:38.169Z"
 ---
 
 # § 2679. Installation-support services: intergovernmental support agreements
@@ -28,9 +28,9 @@ generated_at: "2026-03-30T02:50:18.622Z"
     - **(B)** The source and type of intergovernmental support agreement that achieved the cost savings.
     - **(C)** The amount of the cost savings made available to the installation commander under paragraph (1).
     - **(D)** The sustainment restoration and modernization purposes for which the amount made available under paragraph (1) were used.
-  - **(4)** The authority to conduct the pilot program shall expire September 30, 2025 .
+  - **(4)** The authority to conduct the pilot program shall expire September 30, 2030 .
 - **(f)** In this section:
-  - **(1)** The term “installation-support services” means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions.
+  - **(1)** The term “installation-support services” means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions. The term does include ordnance disposal.
   - **(2)** The term “local government” includes a county, parish, municipality, city, town, township, local public authority, school district, special district, and any agency or instrumentality of a local government.
-  - **(3)** The term “State” includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands, and any agency or instrumentality of a State.
+  - **(3)** The term “State” includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, the State of Yap of the Federated States of Micronesia, and the Republic of Palau, and any agency or instrumentality of a State.
   - **(4)** The term “intergovernmental support agreement” means a legal instrument reflecting a relationship between the Secretary concerned and a State, local, or tribal government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.

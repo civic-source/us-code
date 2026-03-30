@@ -3,9 +3,9 @@ title: "Section 401 - Trust Funds"
 usc_title: 42
 usc_section: "401"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 401"
-generated_at: "2026-03-30T02:52:02.253Z"
+generated_at: "2026-03-30T02:56:10.852Z"
 ---
 
 # § 401. Trust Funds
@@ -33,7 +33,7 @@ generated_at: "2026-03-30T02:52:02.253Z"
   - **(1)**
     - **(A)** The Managing Trustee of the Trust Funds (which for purposes of this paragraph shall include also the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund established by subchapter XVIII) is directed to pay from the Trust Funds into the Treasury—
       - **(i)** 2 2 So in original. Two cls. (i) and (ii) have been enacted. the amounts estimated by the Managing Trustee, the Commissioner of Social Security, and the Secretary of Health and Human Services which will be expended, out of moneys appropriated from the general fund in the Treasury, during a three-month period by the Department of Health and Human Services for the administration of subchapter XVIII of this chapter, and by the Department of the Treasury for the administration of subchapters II and XVIII of this chapter and chapters 2 and 21 of the Internal Revenue Code of 1986, less
-      - **(ii)** 1 the amounts estimated (pursuant to the applicable method prescribed under paragraph (4) of this subsection) by the Commissioner of Social Security which will be expended, out of moneys made available for expenditures from the Trust Funds, during such three-month period to cover the cost of carrying out the functions of the Social Security Administration, specified in section 432 of this title , which relate to the administration of provisions of the Internal Revenue Code of 1986 other than those referred to in clause (i) and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in section 407(c) of this title , pursuant to requests by persons entitled to such benefits or such persons’ representative payee.
+      - **(ii)** 2 the amounts estimated (pursuant to the applicable method prescribed under paragraph (4) of this subsection) by the Commissioner of Social Security which will be expended, out of moneys made available for expenditures from the Trust Funds, during such three-month period to cover the cost of carrying out the functions of the Social Security Administration, specified in section 432 of this title , which relate to the administration of provisions of the Internal Revenue Code of 1986 other than those referred to in clause (i) and the functions of the Social Security Administration in connection with the withholding of taxes from benefits, as described in section 407(c) of this title , pursuant to requests by persons entitled to such benefits or such persons’ representative payee.
       - **(i)** 2 for fiscal year 1996, $260,000,000;
       - **(ii)** 2 for fiscal year 1997, $360,000,000;
       - **(iii)** for fiscal year 1998, $570,000,000;

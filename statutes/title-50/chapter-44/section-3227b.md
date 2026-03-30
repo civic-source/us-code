@@ -1,18 +1,12 @@
 ---
-title: "Section 3227b - Reporting"
+title: "Section 3227b - Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(4)(A) , Dec. 18, 2025 , 139 Stat. 1652"
 usc_title: 50
 usc_section: "3227b"
 chapter: 44
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3227b"
-generated_at: "2026-03-30T02:52:24.509Z"
+generated_at: "2026-03-30T02:56:26.238Z"
 ---
 
-# § 3227b. Reporting
+# § 3227b. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(4)(A) , Dec. 18, 2025 , 139 Stat. 1652
 
-- **(a)** Not less frequently than once each year, the Director of National Intelligence shall submit to the congressional intelligence committees a plan for employing professors, instructors, and lecturers at the National Intelligence University.
-- **(b)** Each plan submitted under subsection (a) shall include the following:
-  - **(1)** The total number of proposed personnel to be employed at the National Intelligence University.
-  - **(2)** The total annual compensation to be provided the personnel described in paragraph (1).
-  - **(3)** Such other matters as the Director considers appropriate.
-- **(c)** Each plan submitted by the Director to the congressional intelligence committees under subsection (a) shall be submitted as part of another annual submission from the Director to the congressional intelligence committees.

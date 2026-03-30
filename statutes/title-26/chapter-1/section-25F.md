@@ -3,9 +3,9 @@ title: "Section 25F - Qualified elementary and secondary education scholarships"
 usc_title: 26
 usc_section: "25F"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 25F"
-generated_at: "2026-03-30T02:51:05.319Z"
+generated_at: "2026-03-30T02:55:27.589Z"
 ---
 
 # § 25F. Qualified elementary and secondary education scholarships

@@ -3,9 +3,9 @@ title: "Section 2403 - Principal Deputy Administrator for Nuclear Security"
 usc_title: 50
 usc_section: "2403"
 chapter: 41
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2403"
-generated_at: "2026-03-30T02:52:24.473Z"
+generated_at: "2026-03-30T02:56:26.224Z"
 ---
 
 # § 2403. Principal Deputy Administrator for Nuclear Security

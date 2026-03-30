@@ -1,16 +1,18 @@
 ---
-title: "Section 1066 - Use of commissary stores and MWR facilities: protective services civilian employees"
+title: "Section 1066 - Use of commissary stores and MWR facilities: certain civilian employees"
 usc_title: 10
 usc_section: "1066"
 chapter: 54
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1066"
-generated_at: "2026-03-30T02:50:18.532Z"
+generated_at: "2026-03-30T02:53:38.098Z"
 ---
 
-# § 1066. Use of commissary stores and MWR facilities: protective services civilian employees
+# § 1066. Use of commissary stores and MWR facilities: certain civilian employees
 
-- **(a)** An individual employed as a protective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
+- **(a)**
+  - **(1)** An individual employed as a protective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
+  - **(2)** A civil service mariner of the Military Sealift Command may be permitted to use commissary stores and MWR retail facilities on the same basis as members of the armed forces on active duty.
 - **(b)**
   - **(1)** The Secretary of Defense shall prescribe regulations that impose a user fee on individuals who are eligible solely under this section to purchase merchandise at a commissary store or MWR retail facility.
   - **(2)** The Secretary shall set the user fee under this subsection at a rate that the Secretary determines will offset any increase in expenses arising from this section borne by the Department of the Treasury on behalf of commissary stores associated with the use of credit or debit cards for customer purchases, including expenses related to card network use and related transaction processing fees.

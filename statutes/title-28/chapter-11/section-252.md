@@ -3,9 +3,9 @@ title: "Section 252 - Tenure and salaries of judges"
 usc_title: 28
 usc_section: "252"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 252"
-generated_at: "2026-03-30T02:50:56.758Z"
+generated_at: "2026-03-30T02:55:30.127Z"
 ---
 
 # § 252. Tenure and salaries of judges

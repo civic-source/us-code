@@ -3,9 +3,9 @@ title: "Section 4362 - Application to Canada and Mexico"
 usc_title: 19
 usc_section: "4362"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 4362"
-generated_at: "2026-03-30T02:50:36.607Z"
+generated_at: "2026-03-30T02:54:24.707Z"
 ---
 
 # § 4362. Application to Canada and Mexico

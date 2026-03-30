@@ -3,9 +3,9 @@ title: "Section 7381n - Summer institutes"
 usc_title: 42
 usc_section: "7381n"
 chapter: 84
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7381n"
-generated_at: "2026-03-30T02:52:02.883Z"
+generated_at: "2026-03-30T02:56:11.290Z"
 ---
 
 # § 7381n. Summer institutes

@@ -3,9 +3,9 @@ title: "Section 8514 - Imposition of sanctions on certain persons who are respon
 usc_title: 22
 usc_section: "8514"
 chapter: 92
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 8514"
-generated_at: "2026-03-30T02:50:53.143Z"
+generated_at: "2026-03-30T02:55:05.452Z"
 ---
 
 # § 8514. Imposition of sanctions on certain persons who are responsible for or complicit in human rights abuses committed against citizens of Iran or their family members after the June 12, 2009 , elections in Iran

@@ -3,9 +3,9 @@ title: "Section 3719 - Reports on debt collection activities"
 usc_title: 31
 usc_section: "3719"
 chapter: 37
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 3719"
-generated_at: "2026-03-30T02:51:12.294Z"
+generated_at: "2026-03-30T02:55:34.060Z"
 ---
 
 # § 3719. Reports on debt collection activities

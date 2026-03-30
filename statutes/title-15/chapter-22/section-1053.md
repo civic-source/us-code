@@ -3,9 +3,9 @@ title: "Section 1053 - Service marks registrable"
 usc_title: 15
 usc_section: "1053"
 chapter: 22
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1053"
-generated_at: "2026-03-30T02:50:29.924Z"
+generated_at: "2026-03-30T02:54:08.125Z"
 ---
 
 # § 1053. Service marks registrable

@@ -3,9 +3,9 @@ title: "Section 70001 - Vessel traffic services"
 usc_title: 46
 usc_section: "70001"
 chapter: 700
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70001"
-generated_at: "2026-03-30T02:52:21.804Z"
+generated_at: "2026-03-30T02:56:15.584Z"
 ---
 
 # § 70001. Vessel traffic services
@@ -71,8 +71,8 @@ generated_at: "2026-03-30T02:52:21.804Z"
       - **(iii)** Data on near-miss events incidents.
       - **(iv)** Data on marine casualties.
       - **(v)** Geographic locations for near-miss events incidents and marine casualties, including latitude and longitude.
-      - **(vi)** Cyclical risk factors such as weather, seasonal water body currents, tides, bathymetry, and topography.
-      - **(vii)** Weather data, in coordination with the National Oceanic and Atmospheric Administration.
+      - **(vi)** Cyclical risk factors such as weather, ice cover, seasonal water body currents, tides, bathymetry, and topography.
+      - **(vii)** Weather data and information, in coordination with the Administrator of the National Oceanic and Atmospheric Administration.
     - **(B)** The Secretary shall retain all information collected under subparagraph (A) and ensure policies and procedures are in place to standardize the format in which that information is retained to facilitate statistical analysis of that information to calculate within a vessel traffic service area, at a minimum, the incident rate, intervention rate, and casualty prevention rate.
   - **(4)**
     - **(A)** In accordance with section 552 of title 5 , the Secretary shall make any risk assessments conducted under paragraph (1) and any information collected under paragraph (3)(A) available to the public.
@@ -124,15 +124,16 @@ generated_at: "2026-03-30T02:52:21.804Z"
       - **(iii)** Data on near miss incidents.
       - **(iv)** Data on marine casualties.
       - **(v)** Geographic locations for near-miss incidents and marine casualties, including latitude and longitude.
-      - **(vi)** Cyclical risk factors such as weather, seasonal water body currents, tides, bathymetry, and topography.
-      - **(vii)** Weather data, in coordination with the National Oceanic and Atmospheric Administration.
+      - **(vi)** Cyclical risk factors such as weather, ice cover, seasonal water body currents, tides, bathymetry, and topography.
+      - **(vii)** Weather data and information, in coordination with the Administrator of the National Oceanic and Atmospheric Administration.
   - **(3)** In conducting the periodic reviews under paragraph (1), the Secretary shall seek input from port and waterway stakeholders to identify areas of increased vessel conflicts or marine casualties that could benefit from the use of routing measures or vessel traffic service special areas to improve safety, port security, and environmental protection.
   - **(4)** The Commandant of the Coast Guard shall de-identify information prior to release to the public, including near miss incidents.
 - **(k)**
   - **(1)** Any pilot, acting in the course and scope of his or her duties while at a Coast Guard Vessel Traffic Service Center, who provides information, advice, or communication assistance while under the supervision of a Coast Guard officer, member, or employee shall not be liable for damages caused by or related to such assistance unless the acts or omissions of such pilot constitute gross negligence or willful misconduct.
   - **(2)** An entity operating a non-Federal vessel traffic information service or advisory service pursuant to a duly executed written agreement with the Coast Guard, and any pilot acting on behalf of such entity, is not liable for damages caused by or related to information, advice, or communication assistance provided by such entity or pilot while so operating or acting unless the acts or omissions of such entity or pilot constitute gross negligence or willful misconduct.
-- **(l)** Nothing in this section shall be construed to alter the existing authorities of the Secretary to enhance navigation, vessel safety, marine environmental protection, and to ensure safety and preservation of life and property at sea.
-- **(m)** In this section:
+- **(l)** The regulations required under section 109(a) of the Security and Accountability For Every Port Act of 2006 ( 46 U.S.C. 70001 note) dealing with notice of arrival requirements for foreign vessels on the Outer Continental Shelf shall not apply to a vessel documented under section 12105 unless the vessel arrives from a foreign port or place.
+- **(m)** Nothing in this section shall be construed to alter the existing authorities of the Secretary to enhance navigation, vessel safety, marine environmental protection, and to ensure safety and preservation of life and property at sea.
+- **(n)** In this section:
   - **(1)** The term “hazardous liquid cargo” has the meaning given that term in regulations prescribed under section 5103 of title 49 .
   - **(2)** The term “marine casualty” has the meaning given that term in regulations prescribed under section 6101(a).
   - **(3)** The term “vessel traffic service area” means an area specified in subpart C of part 161 of title 33, Code of Federal Regulations, or any successor regulation.

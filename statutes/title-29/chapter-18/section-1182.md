@@ -3,9 +3,9 @@ title: "Section 1182 - Prohibiting discrimination against individual participant
 usc_title: 29
 usc_section: "1182"
 chapter: 18
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1182"
-generated_at: "2026-03-30T02:50:58.662Z"
+generated_at: "2026-03-30T02:55:18.723Z"
 ---
 
 # § 1182. Prohibiting discrimination against individual participants and beneficiaries based on health status

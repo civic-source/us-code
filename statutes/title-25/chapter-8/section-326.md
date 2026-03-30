@@ -3,9 +3,9 @@ title: "Section 326 - Laws unaffected"
 usc_title: 25
 usc_section: "326"
 chapter: 8
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 326"
-generated_at: "2026-03-30T02:50:48.134Z"
+generated_at: "2026-03-30T02:54:52.804Z"
 ---
 
 # § 326. Laws unaffected

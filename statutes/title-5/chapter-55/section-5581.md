@@ -3,9 +3,9 @@ title: "Section 5581 - Definitions"
 usc_title: 5
 usc_section: "5581"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 5581"
-generated_at: "2026-03-30T02:49:55.190Z"
+generated_at: "2026-03-30T02:52:56.022Z"
 ---
 
 # § 5581. Definitions

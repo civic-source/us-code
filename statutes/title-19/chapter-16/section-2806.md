@@ -3,9 +3,9 @@ title: "Section 2806 - United States wine export promotion"
 usc_title: 19
 usc_section: "2806"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2806"
-generated_at: "2026-03-30T02:50:36.584Z"
+generated_at: "2026-03-30T02:54:24.686Z"
 ---
 
 # § 2806. United States wine export promotion

@@ -3,9 +3,9 @@ title: "Section 501 - Establishment of long-range proving ground for guided miss
 usc_title: 50
 usc_section: "501"
 chapter: 19
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 501"
-generated_at: "2026-03-30T02:52:24.444Z"
+generated_at: "2026-03-30T02:56:26.200Z"
 ---
 
 # § 501. Establishment of long-range proving ground for guided missiles and other weapons; jurisdiction of Secretary of the Air Force; use by all Services

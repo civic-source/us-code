@@ -3,9 +3,9 @@ title: "Section 1681m - Requirements on users of consumer reports"
 usc_title: 15
 usc_section: "1681m"
 chapter: 41
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1681m"
-generated_at: "2026-03-30T02:50:29.960Z"
+generated_at: "2026-03-30T02:54:08.152Z"
 ---
 
 # § 1681m. Requirements on users of consumer reports

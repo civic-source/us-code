@@ -3,9 +3,9 @@ title: "Section 1175a - Voluntary separation pay and benefits"
 usc_title: 10
 usc_section: "1175a"
 chapter: 59
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1175a"
-generated_at: "2026-03-30T02:50:18.550Z"
+generated_at: "2026-03-30T02:53:38.113Z"
 ---
 
 # § 1175a. Voluntary separation pay and benefits
@@ -61,5 +61,5 @@ generated_at: "2026-03-30T02:50:18.550Z"
     - **(B)** in the course of such duty, incurs a service-connected disability rated as total under section 1155 of title 38 .
   - **(5)** The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 - **(k)**
-  - **(1)** The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2025 .
+  - **(1)** The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2030 .
   - **(2)** A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.

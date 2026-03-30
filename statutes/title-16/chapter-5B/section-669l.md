@@ -3,9 +3,9 @@ title: "Section 669l - Value of land"
 usc_title: 16
 usc_section: "669l"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 669l"
-generated_at: "2026-03-30T02:50:43.113Z"
+generated_at: "2026-03-30T02:54:22.892Z"
 ---
 
 # § 669l. Value of land

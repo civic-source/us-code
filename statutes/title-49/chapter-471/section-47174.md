@@ -3,9 +3,9 @@ title: "Section 47174 - Authorization of appropriations"
 usc_title: 49
 usc_section: "47174"
 chapter: 471
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 47174"
-generated_at: "2026-03-30T02:52:20.524Z"
+generated_at: "2026-03-30T02:56:19.407Z"
 ---
 
 # § 47174. Authorization of appropriations

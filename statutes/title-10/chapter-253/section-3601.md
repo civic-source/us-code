@@ -3,9 +3,9 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-30T02:50:18.654Z"
+generated_at: "2026-03-30T02:53:38.193Z"
 ---
 
 # § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T02:50:18.654Z"
       - **(iii)** are based on technologies that are proven and available; and
       - **(iv)** can appropriately be acquired under fixed-price contracts;
     - **(B)** that can be developed or procured under a rapid acquisition pathway; or
-    - **(C)** with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. 2651a(m) ), 1 1 So in original. Another closing parenthesis probably should precede the comma. to which the United States is not a party, for purposes of—
+    - **(C)** with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. 2651a(m) )), to which the United States is not a party, for purposes of—
       - **(i)** replenishing United States stockpiles of defense articles when such stockpiles are diminished as a result of the United States providing defense articles in response to such armed attack by a country of concern against—
         - **(I)** a United States ally (as that term is defined in section 201(d) of the Act of December 2, 1942 , titled “To provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes” ( 56 Stat. 1028 , chapter 668; 42 U.S.C. 1711(d) )); or
         - **(II)** a United States partner; or
@@ -47,7 +47,7 @@ generated_at: "2026-03-30T02:50:18.654Z"
       - **(ii)** Clause (i) does not apply to an acquisition initiated in the case of a determination by the Secretary of Defense that funds are necessary to immediately initiate a project under a rapid acquisition pathway if the designated official for acquisitions using such pathway is a service acquisition executive.
     - **(B)** Upon designation of a senior official under subparagraph (A) with respect to a needed capability, the Secretary shall authorize that senior official to waive any provision of law or regulation described in subsection (d) that such senior official determines in writing would unnecessarily impede the urgent acquisition and deployment of such capability. In a case in which such capability cannot be acquired without an extensive delay, the senior official shall require that an interim solution be implemented and deployed using the procedures developed under this section to minimize adverse consequences resulting from the urgent need.
   - **(3)**
-    - **(A)** Subject to subparagraph (C), in any fiscal year in which the Secretary of Defense makes a determination described in subparagraph (A), (B), or (C) of paragraph (1) with respect to a capability, or upon the Secretary making a determination that funds are necessary to immediately initiate a project under a rapid acquisition pathway based on a compelling national security need, the Secretary may use any funds available to the Department of Defense to urgently acquire and deploy such capability or immediately initiate such project, respectively, if the determination includes a written finding that the use of such funds is necessary to address in a timely manner the deficiency documented or identified under such subparagraph (A), (B), or (C) or the compelling national security need identified for purposes of such section 804 pathway, 2 2 See References in Text note below. respectively.
+    - **(A)** Subject to subparagraph (C), in any fiscal year in which the Secretary of Defense makes a determination described in subparagraph (A), (B), or (C) of paragraph (1) with respect to a capability, or upon the Secretary making a determination that funds are necessary to immediately initiate a project under a rapid acquisition pathway based on a compelling national security need, the Secretary may use any funds available to the Department of Defense to urgently acquire and deploy such capability or immediately initiate such project, respectively, if the determination includes a written finding that the use of such funds is necessary to address in a timely manner the deficiency documented or identified under such subparagraph (A), (B), or (C) or the compelling national security need identified for purposes of such section 804 pathway, 1 1 See References in Text note below. respectively.
     - **(B)** The authority provided by this section may only be used to acquire capability—
       - **(i)** in the case of determinations by the Secretary under paragraph (1)(A), in an amount aggregating not more than $200,000,000 during any fiscal year;
       - **(ii)** in the case of determinations by the Secretary under paragraph (1)(B), in an amount aggregating not more than $200,000,000 during any fiscal year;

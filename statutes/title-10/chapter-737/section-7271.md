@@ -3,9 +3,9 @@ title: "Section 7271 - Medal of honor: award"
 usc_title: 10
 usc_section: "7271"
 chapter: 737
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7271"
-generated_at: "2026-03-30T02:50:18.686Z"
+generated_at: "2026-03-30T02:53:38.229Z"
 ---
 
 # § 7271. Medal of honor: award

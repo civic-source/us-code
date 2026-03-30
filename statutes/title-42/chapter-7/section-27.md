@@ -3,9 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T02:52:02.429Z"
+generated_at: "2026-03-30T02:56:10.979Z"
 ---
 
 # § 1395w–27. Contracts with Medicare+Choice organizations

@@ -3,9 +3,9 @@ title: "Section 742 - National preparedness"
 usc_title: 6
 usc_section: "742"
 chapter: 2
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 742"
-generated_at: "2026-03-30T02:50:05.849Z"
+generated_at: "2026-03-30T02:53:09.499Z"
 ---
 
 # § 742. National preparedness

@@ -3,9 +3,9 @@ title: "Section 428k - Addition of lands"
 usc_title: 16
 usc_section: "428k"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 428k"
-generated_at: "2026-03-30T02:50:43.007Z"
+generated_at: "2026-03-30T02:54:22.793Z"
 ---
 
 # § 428k. Addition of lands

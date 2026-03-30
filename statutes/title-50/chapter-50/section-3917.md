@@ -3,9 +3,9 @@ title: "Section 3917 - Extension of rights and protections to reserves ordered t
 usc_title: 50
 usc_section: "3917"
 chapter: 50
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3917"
-generated_at: "2026-03-30T02:52:24.543Z"
+generated_at: "2026-03-30T02:56:26.263Z"
 ---
 
 # § 3917. Extension of rights and protections to reserves ordered to report for military service and to persons ordered to report for induction

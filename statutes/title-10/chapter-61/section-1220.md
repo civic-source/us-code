@@ -3,9 +3,9 @@ title: "Section 1220 - Repealed. Pub. L. 87–651, title I, § 107(d) , Sept. 7,
 usc_title: 10
 usc_section: "1220"
 chapter: 61
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1220"
-generated_at: "2026-03-30T02:50:18.553Z"
+generated_at: "2026-03-30T02:53:38.116Z"
 ---
 
 # [§ 1220. Repealed. Pub. L. 87–651, title I, § 107(d) , Sept. 7, 1962 , 76 Stat. 509 ]

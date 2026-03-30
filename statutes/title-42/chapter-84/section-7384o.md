@@ -3,9 +3,9 @@ title: "Section 7384o - Advisory Board on Radiation and Worker Health"
 usc_title: 42
 usc_section: "7384o"
 chapter: 84
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7384o"
-generated_at: "2026-03-30T02:52:02.885Z"
+generated_at: "2026-03-30T02:56:11.291Z"
 ---
 
 # § 7384o. Advisory Board on Radiation and Worker Health

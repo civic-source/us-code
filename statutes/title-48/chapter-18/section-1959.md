@@ -3,9 +3,9 @@ title: "Section 1959 - Agreements"
 usc_title: 48
 usc_section: "1959"
 chapter: 18
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1959"
-generated_at: "2026-03-30T02:52:10.412Z"
+generated_at: "2026-03-30T02:56:14.598Z"
 ---
 
 # § 1959. Agreements

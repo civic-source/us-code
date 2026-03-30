@@ -3,9 +3,9 @@ title: "Section 209 - Suspension, waiver, or reduction of rents or royalties to 
 usc_title: 30
 usc_section: "209"
 chapter: 3
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 209"
-generated_at: "2026-03-30T02:50:55.734Z"
+generated_at: "2026-03-30T02:55:29.380Z"
 ---
 
 # § 209. Suspension, waiver, or reduction of rents or royalties to promote development or operation; extension of lease on suspension of operations and production

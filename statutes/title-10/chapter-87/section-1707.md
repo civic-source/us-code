@@ -3,9 +3,9 @@ title: "Section 1707 - Cadre of intellectual property experts"
 usc_title: 10
 usc_section: "1707"
 chapter: 87
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1707"
-generated_at: "2026-03-30T02:50:18.574Z"
+generated_at: "2026-03-30T02:53:38.135Z"
 ---
 
 # § 1707. Cadre of intellectual property experts
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T02:50:18.574Z"
 - **(b)** The Under Secretary—
   - **(1)** shall establish an appropriate leadership structure and office within which the cadre shall be managed; and
   - **(2)** shall determine the appropriate official to whom members of the cadre shall report.
-- **(c)** The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
+- **(c)** The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or portfolio acquisition executive on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
   - **(1)** interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
   - **(2)** advise and assist in the development of an acquisition strategy, product support strategy, and intellectual property strategy for a system;
   - **(3)** conduct or assist with financial analysis and valuation of intellectual property;

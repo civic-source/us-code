@@ -3,9 +3,9 @@ title: "Section 4313 - Criteria for performance appraisals"
 usc_title: 5
 usc_section: "4313"
 chapter: 43
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 4313"
-generated_at: "2026-03-30T02:49:55.177Z"
+generated_at: "2026-03-30T02:52:56.009Z"
 ---
 
 # § 4313. Criteria for performance appraisals

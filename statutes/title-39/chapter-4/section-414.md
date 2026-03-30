@@ -3,9 +3,9 @@ title: "Section 414 - Special postage stamps"
 usc_title: 39
 usc_section: "414"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "39 U.S.C. § 414"
-generated_at: "2026-03-30T02:51:14.313Z"
+generated_at: "2026-03-30T02:55:43.689Z"
 ---
 
 # § 414. Special postage stamps

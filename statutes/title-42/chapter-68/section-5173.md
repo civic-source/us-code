@@ -3,9 +3,9 @@ title: "Section 5173 - Debris removal"
 usc_title: 42
 usc_section: "5173"
 chapter: 68
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5173"
-generated_at: "2026-03-30T02:52:02.786Z"
+generated_at: "2026-03-30T02:56:11.225Z"
 ---
 
 # § 5173. Debris removal

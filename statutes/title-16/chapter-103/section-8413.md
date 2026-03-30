@@ -3,9 +3,9 @@ title: "Section 8413 - Recreation budget crosscut"
 usc_title: 16
 usc_section: "8413"
 chapter: 103
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8413"
-generated_at: "2026-03-30T02:50:43.317Z"
+generated_at: "2026-03-30T02:54:23.084Z"
 ---
 
 # § 8413. Recreation budget crosscut

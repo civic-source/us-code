@@ -3,9 +3,9 @@ title: "Section 1 - Governor and alternate Governor"
 usc_title: 22
 usc_section: "1"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:50:52.990Z"
+generated_at: "2026-03-30T02:55:05.326Z"
 ---
 
 # § 290o–1. Governor and alternate Governor

@@ -3,9 +3,9 @@ title: "Section 2281b - Corps of Engineers support for underserved communities; 
 usc_title: 33
 usc_section: "2281b"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2281b"
-generated_at: "2026-03-30T02:51:10.401Z"
+generated_at: "2026-03-30T02:55:41.118Z"
 ---
 
 # § 2281b. Corps of Engineers support for underserved communities; outreach
@@ -30,6 +30,6 @@ generated_at: "2026-03-30T02:51:10.401Z"
     - **(F)** to the maximum extent practicable—
       - **(i)** develop and continue to make publicly available, through a publicly available existing website, information on the projects and studies within the jurisdiction of each district of the Corps of Engineers; and
       - **(ii)** ensure that the information described in clause (i) is consistent and made publicly available in the same manner across all districts of the Corps of Engineers.
-  - **(3)** The Secretary shall develop and issue guidance to ensure that community project advisors designated under paragraph (2)(B) are adequately fulfilling their obligations under that paragraph
+  - **(3)** The Secretary shall develop and issue guidance to ensure that community project advisors designated under paragraph (2)(B) are adequately fulfilling their obligations under that paragraph.
   - **(4)** In carrying out this subsection, the Secretary shall, to the maximum extent practicable, prioritize awareness, education, and outreach and engagement to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ( 33 U.S.C. 2201 note)), including economically disadvantaged communities located in urban and rural areas.
   - **(5)** There is authorized to be appropriated to carry out this section $30,000,000 for each fiscal year.

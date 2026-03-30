@@ -3,9 +3,9 @@ title: "Section 5491 - Suspension of SEED assistance"
 usc_title: 22
 usc_section: "5491"
 chapter: 63
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 5491"
-generated_at: "2026-03-30T02:50:53.101Z"
+generated_at: "2026-03-30T02:55:05.418Z"
 ---
 
 # § 5491. Suspension of SEED assistance

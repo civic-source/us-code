@@ -3,9 +3,9 @@ title: "Section 6503 - Intergovernmental financing"
 usc_title: 31
 usc_section: "6503"
 chapter: 65
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 6503"
-generated_at: "2026-03-30T02:51:12.311Z"
+generated_at: "2026-03-30T02:55:34.073Z"
 ---
 
 # § 6503. Intergovernmental financing

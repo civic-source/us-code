@@ -1,30 +1,12 @@
 ---
-title: "Section 656 - Diversity in military leadership: plan; mentoring and career counseling program"
+title: "Section 656 - Repealed. Pub. L. 119–60, div. A, title IX, § 901(c) , Dec. 18, 2025 , 139 Stat. 1007 ]"
 usc_title: 10
 usc_section: "656"
 chapter: 37
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 656"
-generated_at: "2026-03-30T02:50:18.505Z"
+generated_at: "2026-03-30T02:53:38.072Z"
 ---
 
-# § 656. Diversity in military leadership: plan; mentoring and career counseling program
+# [§ 656. Repealed. Pub. L. 119–60, div. A, title IX, § 901(c) , Dec. 18, 2025 , 139 Stat. 1007 ]
 
-- **(a)** The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Department of the Navy) shall develop and implement a plan to accurately measure the efforts of the Department of Defense and the Coast Guard to achieve a dynamic, sustainable level of members of the armed forces (including reserve components) that, among both commissioned officers and senior enlisted personnel of each armed force, will reflect the diverse population of the United States eligible to serve in the armed forces, including gender specific, racial, and ethnic populations. Any metric established pursuant to this subsection may not be used in a manner that undermines the merit-based processes of the Department of Defense and the Coast Guard, including such processes for accession, retention, and promotion. Such metrics may not be combined with the identification of specific quotas based upon diversity characteristics. The Secretary concerned shall continue to account for diversified language and cultural skills among the total force of the armed forces.
-- **(b)**
-  - **(1)** With the goal of having the diversity of the population of officers serving in each branch, specialty, community, and grade of each armed force reflect the diversity of the population in such armed force as a whole, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall include in the plan required by subsection (a) a mentoring and career counseling program for officers.
-  - **(2)** The program required by this subsection shall include the following:
-    - **(A)** The option for any officer to participate in the program.
-    - **(B)** For each officer who elects to participate in the program, the following:
-      - **(i)** One or more opportunities for mentoring and career counseling before selection of the officer’s branch, specialty, or community.
-      - **(ii)** Ongoing opportunities for mentoring and career counseling following selection of the officer’s branch, specialty, or community, and continuing through the officer’s military career.
-    - **(C)** Mentoring and counseling during opportunities under subparagraph (B) consisting of the following:
-      - **(i)** Information on officer retention and promotion rates in each grade, branch, specialty, and community of the armed force concerned, including the rate at which officers in each branch, specialty, or community of such armed force are promoted to a grade above O–6.
-      - **(ii)** Information on career and service pathways, including service in the reserve components.
-      - **(iii)** Such other information as may be required to optimize the ability of an officer to make informed career decisions through the officer’s military career.
-- **(c)** In developing and implementing the plan under subsection (a) and the mentoring and career counseling program under subsection (b), the Secretary of Defense and the Secretary of Homeland Security shall develop a standard set of metrics and collection procedures that are uniform across the armed forces. The metrics required by this subsection shall be designed—
-  - **(1)** to accurately capture the inclusion and capability aspects of the armed forces’ broader diversity plans, including race, ethnic, and gender specific groups, as potential factors of force readiness that would supplement continued accounting by the Department of Defense and the Coast Guard of diversified language and cultural skills among the total force as part of the assessment of current and future national security needs; and
-  - **(2)** to be verifiable and systematically linked to strategic plans that will drive improvements.
-- **(d)** In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a uniform definition of diversity.
-- **(e)** Not less than annually, the Secretary of Defense and the Secretary of Homeland Security shall meet with the Secretaries of the military departments, the Joint Chiefs of Staff, the Commandant of the Coast Guard, and senior enlisted members of the armed forces to discuss the progress being made toward developing and implementing the plan established under subsection (a).
-- **(f)** The Secretary of Defense shall coordinate with the National Guard Bureau and States in tracking the progress of the National Guard toward developing and implementing the plan established under subsection (a).

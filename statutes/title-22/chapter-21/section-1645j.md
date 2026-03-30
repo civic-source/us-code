@@ -3,9 +3,9 @@ title: "Section 1645j - Settlement period"
 usc_title: 22
 usc_section: "1645j"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 1645j"
-generated_at: "2026-03-30T02:50:53.004Z"
+generated_at: "2026-03-30T02:55:05.337Z"
 ---
 
 # § 1645j. Settlement period

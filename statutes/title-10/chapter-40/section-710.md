@@ -3,14 +3,16 @@ title: "Section 710 - Career flexibility to enhance retention of members"
 usc_title: 10
 usc_section: "710"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 710"
-generated_at: "2026-03-30T02:50:18.507Z"
+generated_at: "2026-03-30T02:53:38.074Z"
 ---
 
 # § 710. Career flexibility to enhance retention of members
 
-- **(a)** Each Secretary of a military department may carry out programs under which members of the regular components or of the Space Force and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+- **(a)**
+  - **(1)** Each Secretary of a military department may carry out programs under which members of the regular components or of the Space Force and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+  - **(2)** Notwithstanding subsection (b)(1), if the Secretary of a military department carries out a program under paragraph (1), such Secretary shall, pursuant to this section, inactivate a member who completes a detail under section 2004c of this title upon the completion of such detail for such period of time as the Secretary determines appropriate so such member may perform religious ministry that meets professional requirements for appointment as a chaplain in the military department concerned.
 - **(b)**
   - **(1)** The period of inactivation from active service under a program under this section of a member participating in the program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
   - **(2)** Any service by a Reserve officer, or a Space Force officer in a space force active status not on active duty under section 20105(b) of this title , while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to section 14706(a) of this title .

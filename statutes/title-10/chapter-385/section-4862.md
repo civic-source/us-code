@@ -3,9 +3,9 @@ title: "Section 4862 - Requirement to buy certain articles from American sources
 usc_title: 10
 usc_section: "4862"
 chapter: 385
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4862"
-generated_at: "2026-03-30T02:50:18.677Z"
+generated_at: "2026-03-30T02:53:38.212Z"
 ---
 
 # § 4862. Requirement to buy certain articles from American sources; exceptions
@@ -19,7 +19,8 @@ generated_at: "2026-03-30T02:50:18.677Z"
     - **(D)** cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric (including all textile fibers and yarns that are for use in such fabrics), canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles); or
     - **(E)** any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.
   - **(2)** Hand or measuring tools.
-  - **[(3)** , (4) Repealed. Pub. L. 116–92, div. A, title VIII, § 854(a)(3) , Dec. 20, 2019 , 133 Stat. 1512 .]
+  - **(3)** Stainless steel flatware.
+  - **(4)** Dinnerware.
   - **(5)** A flag of the United States.
 - **(c)** Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 - **(d)** Subsection (a) does not apply to the following:
@@ -35,7 +36,12 @@ generated_at: "2026-03-30T02:50:18.677Z"
 - **(f)** Subsection (a) does not preclude the procurement of the following:
   - **(1)** Foods manufactured or processed in the United States.
   - **(2)** Waste and byproducts of cotton and wool fiber for use in the production of propellants and explosives.
-- **(g)** Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, or nonappropriated fund instrumentalities operated by the Department of Defense.
+- **(g)**
+  - **(1)** Except as provided in paragraph (2), subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, or nonappropriated fund instrumentalities operated by the Department of Defense.
+  - **(2)**
+    - **(A)** Paragraph (1) shall not apply with respect to the procurement of seafood originating in a covered foreign country, including procurement for use in military dining facilities, galleys aboard United States naval vessels, and procurement for resale in commissary stores, notwithstanding the source of funds used for such procurement.
+    - **(B)** The Secretary of Defense may waive the requirements of subparagraph (A) if such procurement would cause undue burden to a naval vessel while at sea or in port at a foreign port, a dining facility in a foreign country, a commissary, an exchange, or a nonappropriated fund instrumentality located on a military installation located outside the United States.
+    - **(C)** In this paragraph, the term “covered foreign country” means The People’s Republic of China, the Russian Federation, the Islamic Republic of Iran, or the Democratic People’s Republic of Korea.
 - **(h)**
   - **(1)** Except with respect to purchases of flags of the United States, subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
   - **(2)**

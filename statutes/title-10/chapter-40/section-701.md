@@ -3,9 +3,9 @@ title: "Section 701 - Entitlement and accumulation"
 usc_title: 10
 usc_section: "701"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 701"
-generated_at: "2026-03-30T02:50:18.506Z"
+generated_at: "2026-03-30T02:53:38.074Z"
 ---
 
 # § 701. Entitlement and accumulation
@@ -43,6 +43,7 @@ generated_at: "2026-03-30T02:50:18.506Z"
         - **(II)** professional military education obligations; or
         - **(III)** other circumstances that the Secretary determines reasonable and appropriate.
       - **(ii)** The regulations prescribed under clause (i) shall require that any leave authorized to be taken after the one-year period described in subparagraph (A) shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline.
+      - **(iii)** The regulations prescribed under clause (i) shall authorize a member described in such clause to take leave described under subparagraph (A) during the two-year period beginning after an event described in clause (i) or (ii) of such subparagraph with the approval of the first general officer or flag officer in the chain of command of such member.
   - **(2)** Paragraph (1) applies to the following members:
     - **(A)** A member on active duty.
     - **(B)** A member of a reserve component performing active Guard and Reserve duty.

@@ -3,9 +3,9 @@ title: "Section 7109 - Appropriations available for joint financing"
 usc_title: 31
 usc_section: "7109"
 chapter: 71
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 7109"
-generated_at: "2026-03-30T02:51:12.314Z"
+generated_at: "2026-03-30T02:55:34.076Z"
 ---
 
 # § 7109. Appropriations available for joint financing

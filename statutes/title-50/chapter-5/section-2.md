@@ -3,9 +3,9 @@ title: "Section 2 - Reports"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-03-30T02:52:24.440Z"
+generated_at: "2026-03-30T02:56:26.197Z"
 ---
 
 # § 98h–2. Reports

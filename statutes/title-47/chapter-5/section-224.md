@@ -3,9 +3,9 @@ title: "Section 224 - Pole attachments"
 usc_title: 47
 usc_section: "224"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 224"
-generated_at: "2026-03-30T02:52:17.305Z"
+generated_at: "2026-03-30T02:56:24.498Z"
 ---
 
 # § 224. Pole attachments

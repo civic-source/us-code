@@ -3,9 +3,9 @@ title: "Section 3612 - Supervisory Board"
 usc_title: 22
 usc_section: "3612"
 chapter: 51
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3612"
-generated_at: "2026-03-30T02:50:53.073Z"
+generated_at: "2026-03-30T02:55:05.394Z"
 ---
 
 # § 3612. Supervisory Board

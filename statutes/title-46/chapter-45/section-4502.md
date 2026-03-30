@@ -3,9 +3,9 @@ title: "Section 4502 - Safety standards"
 usc_title: 46
 usc_section: "4502"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 4502"
-generated_at: "2026-03-30T02:52:21.753Z"
+generated_at: "2026-03-30T02:56:15.548Z"
 ---
 
 # § 4502. Safety standards
@@ -86,10 +86,10 @@ generated_at: "2026-03-30T02:52:21.753Z"
     - **(B)** for purchase of safety equipment and training aids for use in those fishing vessel safety training programs.
   - **(2)** The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard 1 1 So in original. Probably should be followed by a comma. shall award grants under this subsection on a competitive basis.
   - **(3)** The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
-  - **(4)** There is authorized to be appropriated $3,000,000 for fiscal year 2023 for grants under this subsection.
+  - **(4)** There is authorized to be appropriated $3,000,000 for each of fiscal years 2026, and 2027 for grants under this subsection.
 - **(j)**
   - **(1)** The Secretary of Health and Human Services shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
   - **(2)** The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard, shall award grants under this subsection on a competitive basis.
   - **(3)** The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
-  - **(4)** There is authorized to be appropriated $3,000,000 for fiscal year 2023 for activities under this subsection.
+  - **(4)** There is authorized to be appropriated $3,000,000 for each of fiscal years 2026, and 2027. 2 2 So in original. Period probably should not appear. for activities under this subsection.
 - **(k)** For the purposes of this section, the term “auxiliary craft” means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.

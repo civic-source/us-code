@@ -3,9 +3,9 @@ title: "Section 282j - Increase in capital stock of Corporation; subscription to
 usc_title: 22
 usc_section: "282j"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 282j"
-generated_at: "2026-03-30T02:50:52.976Z"
+generated_at: "2026-03-30T02:55:05.314Z"
 ---
 
 # § 282j. Increase in capital stock of Corporation; subscription to additional shares

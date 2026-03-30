@@ -3,9 +3,9 @@ title: "Section 2112 - Reemployment"
 usc_title: 50
 usc_section: "2112"
 chapter: 38
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2112"
-generated_at: "2026-03-30T02:52:24.469Z"
+generated_at: "2026-03-30T02:56:26.219Z"
 ---
 
 # § 2112. Reemployment

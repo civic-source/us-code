@@ -3,9 +3,9 @@ title: "Section 209 - Orders for payment of money"
 usc_title: 47
 usc_section: "209"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 209"
-generated_at: "2026-03-30T02:52:17.303Z"
+generated_at: "2026-03-30T02:56:24.494Z"
 ---
 
 # § 209. Orders for payment of money

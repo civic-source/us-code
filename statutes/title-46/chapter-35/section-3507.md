@@ -3,9 +3,9 @@ title: "Section 3507 - Passenger vessel security and safety requirements"
 usc_title: 46
 usc_section: "3507"
 chapter: 35
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 3507"
-generated_at: "2026-03-30T02:52:21.750Z"
+generated_at: "2026-03-30T02:56:15.544Z"
 ---
 
 # § 3507. Passenger vessel security and safety requirements
@@ -62,7 +62,7 @@ generated_at: "2026-03-30T02:52:21.750Z"
     - **(C)** publicize the security guide on the website of the vessel owner.
   - **(2)** The owner of a vessel to which this section applies shall provide in each passenger stateroom, and post in a location readily accessible to all crew and in other places specified by the Secretary, information regarding the locations of the United States embassy and each consulate of the United States for each country the vessel will visit during the course of the voyage.
 - **(d)** The owner of a vessel to which this section applies shall—
-  - **(1)** maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
+  - **(1)** maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault (taking into consideration the length of the voyage and the number of passengers and crewmembers that the vessel can accommodate);
   - **(2)** maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
   - **(3)** make available on the vessel at all times medical staff who have undergone a credentialing process to verify that he or she—
     - **(A)** possesses a current physician’s or registered nurse’s license and—
@@ -82,9 +82,13 @@ generated_at: "2026-03-30T02:52:21.750Z"
   - **(2)** treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services as confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
 - **(f)** The owner of a vessel to which this section applies shall—
   - **(1)** establish and implement procedures and restrictions concerning—
-    - **(A)** which crewmembers have access to passenger staterooms; and
+    - **(A)** which crewmembers have access to passenger staterooms;
     - **(B)** the periods during which they have that access; and
-  - **(2)** ensure that the procedures and restrictions are fully and properly implemented and periodically reviewed.
+    - **(C)** a system that electronically records the date, time, and identity of each crew member accessing each passenger stateroom; and
+  - **(2)** ensure that the procedures and restrictions are—
+    - **(A)** fully and properly implemented;
+    - **(B)** reviewed annually; and
+    - **(C)** updated as necessary.
 - **(g)**
   - **(1)** The owner of a vessel to which this section applies shall—
     - **(A)** record in a log book, either electronically or otherwise, in a centralized location readily accessible to law enforcement personnel, a report on—
@@ -136,7 +140,7 @@ generated_at: "2026-03-30T02:52:21.750Z"
 - **(i)** The Secretary shall maintain guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
 - **(j)** The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
 - **(k)**
-  - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
+  - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(33)) that—
     - **(A)** is authorized to carry 250 or more passengers;
     - **(B)** has overnight accommodations for 250 or more passengers; and
     - **(C)** is on a voyage that embarks or disembarks passengers in the United States.

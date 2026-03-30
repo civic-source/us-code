@@ -3,9 +3,9 @@ title: "Section 7381 - Fatality reviews"
 usc_title: 10
 usc_section: "7381"
 chapter: 749
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7381"
-generated_at: "2026-03-30T02:50:18.687Z"
+generated_at: "2026-03-30T02:53:38.230Z"
 ---
 
 # § 7381. Fatality reviews

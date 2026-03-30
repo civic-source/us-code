@@ -3,9 +3,9 @@ title: "Section 1370 - Enforcement authority relating to terminations of single-
 usc_title: 29
 usc_section: "1370"
 chapter: 18
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1370"
-generated_at: "2026-03-30T02:50:58.675Z"
+generated_at: "2026-03-30T02:55:18.734Z"
 ---
 
 # § 1370. Enforcement authority relating to terminations of single-employer plans

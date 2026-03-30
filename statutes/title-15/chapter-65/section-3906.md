@@ -3,9 +3,9 @@ title: "Section 3906 - Injunctive orders issued by United States district courts
 usc_title: 15
 usc_section: "3906"
 chapter: 65
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 3906"
-generated_at: "2026-03-30T02:50:30.020Z"
+generated_at: "2026-03-30T02:54:08.196Z"
 ---
 
 # § 3906. Injunctive orders issued by United States district courts

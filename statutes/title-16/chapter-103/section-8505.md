@@ -3,9 +3,9 @@ title: "Section 8505 - Career and volunteer opportunities for veterans"
 usc_title: 16
 usc_section: "8505"
 chapter: 103
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8505"
-generated_at: "2026-03-30T02:50:43.322Z"
+generated_at: "2026-03-30T02:54:23.087Z"
 ---
 
 # § 8505. Career and volunteer opportunities for veterans

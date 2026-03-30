@@ -3,9 +3,9 @@ title: "Section 2215 - Transfer of funds to other departments and agencies: limi
 usc_title: 10
 usc_section: "2215"
 chapter: 131
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2215"
-generated_at: "2026-03-30T02:50:18.595Z"
+generated_at: "2026-03-30T02:53:38.148Z"
 ---
 
 # § 2215. Transfer of funds to other departments and agencies: limitation

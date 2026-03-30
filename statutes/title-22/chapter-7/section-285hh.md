@@ -3,9 +3,9 @@ title: "Section 285hh - Twelfth replenishment"
 usc_title: 22
 usc_section: "285hh"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 285hh"
-generated_at: "2026-03-30T02:50:52.980Z"
+generated_at: "2026-03-30T02:55:05.318Z"
 ---
 
 # § 285hh. Twelfth replenishment

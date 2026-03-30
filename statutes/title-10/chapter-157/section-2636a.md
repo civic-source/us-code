@@ -3,9 +3,9 @@ title: "Section 2636a - Loss or damage to personal property transported at Gover
 usc_title: 10
 usc_section: "2636a"
 chapter: 157
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2636a"
-generated_at: "2026-03-30T02:50:18.618Z"
+generated_at: "2026-03-30T02:53:38.166Z"
 ---
 
 # § 2636a. Loss or damage to personal property transported at Government expense: full replacement value; deduction from amounts due carriers

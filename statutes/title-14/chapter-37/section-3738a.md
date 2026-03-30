@@ -3,9 +3,9 @@ title: "Section 3738a - Direct commissioning authority for individuals with crit
 usc_title: 14
 usc_section: "3738a"
 chapter: 37
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 3738a"
-generated_at: "2026-03-30T02:50:21.623Z"
+generated_at: "2026-03-30T02:53:51.503Z"
 ---
 
 # § 3738a. Direct commissioning authority for individuals with critical skills

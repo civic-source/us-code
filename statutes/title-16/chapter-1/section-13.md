@@ -3,9 +3,9 @@ title: "Section 13 - Payments to States and counties"
 usc_title: 16
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 13"
-generated_at: "2026-03-30T02:50:43.061Z"
+generated_at: "2026-03-30T02:54:22.841Z"
 ---
 
 # § 460lll–13. Payments to States and counties

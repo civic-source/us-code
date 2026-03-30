@@ -3,9 +3,9 @@ title: "Section 8909 - Administrative"
 usc_title: 40
 usc_section: "8909"
 chapter: 89
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 8909"
-generated_at: "2026-03-30T02:51:19.776Z"
+generated_at: "2026-03-30T02:55:43.384Z"
 ---
 
 # § 8909. Administrative

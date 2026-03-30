@@ -3,9 +3,9 @@ title: "Section 1379 - Reconstitution of farms"
 usc_title: 7
 usc_section: "1379"
 chapter: 35
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1379"
-generated_at: "2026-03-30T02:50:11.558Z"
+generated_at: "2026-03-30T02:53:42.309Z"
 ---
 
 # § 1379. Reconstitution of farms

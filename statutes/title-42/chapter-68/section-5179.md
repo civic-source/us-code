@@ -3,9 +3,9 @@ title: "Section 5179 - Benefits and distribution"
 usc_title: 42
 usc_section: "5179"
 chapter: 68
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5179"
-generated_at: "2026-03-30T02:52:02.787Z"
+generated_at: "2026-03-30T02:56:11.225Z"
 ---
 
 # § 5179. Benefits and distribution

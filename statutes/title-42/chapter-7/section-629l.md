@@ -3,9 +3,9 @@ title: "Section 629l - Public access to State plans"
 usc_title: 42
 usc_section: "629l"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 629l"
-generated_at: "2026-03-30T02:52:02.292Z"
+generated_at: "2026-03-30T02:56:10.880Z"
 ---
 
 # § 629l. Public access to State plans

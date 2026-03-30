@@ -3,9 +3,9 @@ title: "Section 695 - Payment of cost of meat-inspection service; exception"
 usc_title: 21
 usc_section: "695"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 695"
-generated_at: "2026-03-30T02:50:49.553Z"
+generated_at: "2026-03-30T02:54:54.289Z"
 ---
 
 # § 695. Payment of cost of meat-inspection service; exception

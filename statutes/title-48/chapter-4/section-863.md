@@ -3,9 +3,9 @@ title: "Section 863 - Repealed. Pub. L. 91–272, § 13 , June 2, 1970 , 84 Stat
 usc_title: 48
 usc_section: "863"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 863"
-generated_at: "2026-03-30T02:52:10.381Z"
+generated_at: "2026-03-30T02:56:14.582Z"
 ---
 
 # § 863. Repealed. Pub. L. 91–272, § 13 , June 2, 1970 , 84 Stat. 298

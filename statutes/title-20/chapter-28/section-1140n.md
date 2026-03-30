@@ -3,9 +3,9 @@ title: "Section 1140n - Rule of construction"
 usc_title: 20
 usc_section: "1140n"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1140n"
-generated_at: "2026-03-30T02:50:39.183Z"
+generated_at: "2026-03-30T02:54:48.149Z"
 ---
 
 # § 1140n. Rule of construction

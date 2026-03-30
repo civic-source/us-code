@@ -3,9 +3,9 @@ title: "Section 8164 - Marine Corps officers: limitation on power to command"
 usc_title: 10
 usc_section: "8164"
 chapter: 821
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8164"
-generated_at: "2026-03-30T02:50:18.699Z"
+generated_at: "2026-03-30T02:53:38.239Z"
 ---
 
 # § 8164. Marine Corps officers: limitation on power to command

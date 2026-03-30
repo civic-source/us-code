@@ -3,9 +3,9 @@ title: "Section 1850 - Acquisition of subsidiary and tying arrangement: Federal 
 usc_title: 12
 usc_section: "1850"
 chapter: 17
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1850"
-generated_at: "2026-03-30T02:50:26.469Z"
+generated_at: "2026-03-30T02:53:53.469Z"
 ---
 
 # § 1850. Acquisition of subsidiary and tying arrangement: Federal Reserve Board proceedings; application for authorization; competitor as party in interest and person aggrieved; judicial review

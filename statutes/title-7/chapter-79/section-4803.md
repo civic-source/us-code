@@ -3,9 +3,9 @@ title: "Section 4803 - Pork and pork product orders"
 usc_title: 7
 usc_section: "4803"
 chapter: 79
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 4803"
-generated_at: "2026-03-30T02:50:11.691Z"
+generated_at: "2026-03-30T02:53:42.411Z"
 ---
 
 # § 4803. Pork and pork product orders

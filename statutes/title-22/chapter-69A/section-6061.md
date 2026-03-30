@@ -3,9 +3,9 @@ title: "Section 6061 - Policy toward transition government and democratically el
 usc_title: 22
 usc_section: "6061"
 chapter: 69
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6061"
-generated_at: "2026-03-30T02:50:53.107Z"
+generated_at: "2026-03-30T02:55:05.423Z"
 ---
 
 # § 6061. Policy toward transition government and democratically elected government in Cuba

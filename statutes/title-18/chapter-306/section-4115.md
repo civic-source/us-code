@@ -3,9 +3,9 @@ title: "Section 4115 - Execution of sentences imposing an obligation to make res
 usc_title: 18
 usc_section: "4115"
 chapter: 306
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 4115"
-generated_at: "2026-03-30T02:50:34.999Z"
+generated_at: "2026-03-30T02:54:16.528Z"
 ---
 
 # § 4115. Execution of sentences imposing an obligation to make restitution or reparations

@@ -3,9 +3,9 @@ title: "Section 4506 - Procurement of services: data analysis and requirements v
 usc_title: 10
 usc_section: "4506"
 chapter: 341
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4506"
-generated_at: "2026-03-30T02:50:18.672Z"
+generated_at: "2026-03-30T02:53:38.208Z"
 ---
 
 # § 4506. Procurement of services: data analysis and requirements validation
@@ -42,17 +42,7 @@ generated_at: "2026-03-30T02:50:18.672Z"
     - **(B)** that all appropriate statutory risk mitigation efforts have been made; and
     - **(C)** that such task order or statement of work does not include requirements formerly performed by Department of Defense civilian employees.
   - **(4)** The Inspector General of the Department of Defense may conduct annual audits to ensure compliance with this subsection.
-- **(e)**
-  - **(1)** Effective October 1, 2018 , the Secretary of Defense shall ensure that a requirements owner shall, to the extent practicable, plan appropriately before the date of need of a service at a Defense Agency, Department of Defense Field Activity, command, or military installation to avoid the use of a bridge contract to provide for continuation of a service to be performed through a services contract. Such planning shall include allowing time for a requirement to be validated, a services contract to be entered into, and funding for the services contract to be secured.
-  - **(2)**
-    - **(A)** Upon the first use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract, the requirements owner, along with the contracting officer or a designee of the contracting officer for the contract, shall—
-      - **(i)** for a services contract in an amount less than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the commander or the senior civilian official of the Defense Agency concerned, Department of Defense Field Activity concerned, command concerned, or military installation concerned, as applicable; or
-      - **(ii)** for a services contract in an amount equal to or greater than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the service acquisition executive for the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
-    - **(B)** Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+- **[(e)** Repealed. Pub. L. 119–60, div. A, title VIII, § 815(1) , Dec. 18, 2025 , 139 Stat. 953 .]
 - **(f)** In this section:
-  - **(1)** The term “bridge contract” means—
-    - **(A)** an extension to an existing contract beyond the period of performance to avoid a lapse in service caused by a delay in awarding a subsequent contract; or
-    - **(B)** a new short-term contract awarded on a sole-source basis to avoid a lapse in service caused by a delay in awarding a subsequent contract.
-  - **(2)** The term “requirements owner” means a member of the armed forces (other than the Coast Guard) or a civilian employee of the Department of Defense responsible for a requirement for a service to be performed through a services contract.
-  - **(3)** The term “Services Requirements Review Board” has the meaning given in Department of Defense Instruction 5000.74, titled “Defense Acquisition of Services” and dated January 10, 2020 , or a successor instruction.
-  - **(4)** The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.
+  - **(1)** The term “Services Requirements Review Board” has the meaning given in Department of Defense Instruction 5000.74, titled “Defense Acquisition of Services” and dated January 10, 2020 , or a successor instruction.
+  - **(2)** The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.

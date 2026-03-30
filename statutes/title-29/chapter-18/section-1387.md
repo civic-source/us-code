@@ -3,9 +3,9 @@ title: "Section 1387 - Reduction or waiver of complete withdrawal liability; pro
 usc_title: 29
 usc_section: "1387"
 chapter: 18
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1387"
-generated_at: "2026-03-30T02:50:58.676Z"
+generated_at: "2026-03-30T02:55:18.734Z"
 ---
 
 # § 1387. Reduction or waiver of complete withdrawal liability; procedures and standards applicable

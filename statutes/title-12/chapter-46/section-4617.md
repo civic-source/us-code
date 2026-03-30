@@ -3,9 +3,9 @@ title: "Section 4617 - Authority over critically undercapitalized regulated enti
 usc_title: 12
 usc_section: "4617"
 chapter: 46
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 4617"
-generated_at: "2026-03-30T02:50:26.524Z"
+generated_at: "2026-03-30T02:53:53.511Z"
 ---
 
 # § 4617. Authority over critically undercapitalized regulated entities

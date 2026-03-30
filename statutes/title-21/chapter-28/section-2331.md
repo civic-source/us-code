@@ -3,9 +3,9 @@ title: "Section 2331 - Director of National Intelligence program on use of intel
 usc_title: 21
 usc_section: "2331"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 2331"
-generated_at: "2026-03-30T02:50:49.580Z"
+generated_at: "2026-03-30T02:54:54.311Z"
 ---
 
 # § 2331. Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers

@@ -3,9 +3,9 @@ title: "Section 5422 - Administrative services and support"
 usc_title: 25
 usc_section: "5422"
 chapter: 46
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 5422"
-generated_at: "2026-03-30T02:50:48.212Z"
+generated_at: "2026-03-30T02:54:52.872Z"
 ---
 
 # § 5422. Administrative services and support

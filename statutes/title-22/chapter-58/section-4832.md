@@ -3,9 +3,9 @@ title: "Section 4832 - Security Review Committee"
 usc_title: 22
 usc_section: "4832"
 chapter: 58
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4832"
-generated_at: "2026-03-30T02:50:53.096Z"
+generated_at: "2026-03-30T02:55:05.414Z"
 ---
 
 # § 4832. Security Review Committee

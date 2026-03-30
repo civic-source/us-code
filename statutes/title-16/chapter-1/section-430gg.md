@@ -3,9 +3,9 @@ title: "Section 430gg - Determination of desirable areas"
 usc_title: 16
 usc_section: "430gg"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 430gg"
-generated_at: "2026-03-30T02:50:43.011Z"
+generated_at: "2026-03-30T02:54:22.797Z"
 ---
 
 # § 430gg. Determination of desirable areas

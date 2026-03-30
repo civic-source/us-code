@@ -3,9 +3,9 @@ title: "Section 6309 - Non-propagation of core-based statistical area delineatio
 usc_title: 31
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 6309"
-generated_at: "2026-03-30T02:51:12.310Z"
+generated_at: "2026-03-30T02:55:34.072Z"
 ---
 
 # § 6309. Non-propagation of core-based statistical area delineations

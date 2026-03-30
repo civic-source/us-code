@@ -3,9 +3,9 @@ title: "Section 1006 - Right of transfer"
 usc_title: 39
 usc_section: "1006"
 chapter: 10
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "39 U.S.C. § 1006"
-generated_at: "2026-03-30T02:51:14.314Z"
+generated_at: "2026-03-30T02:55:43.690Z"
 ---
 
 # § 1006. Right of transfer

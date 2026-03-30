@@ -3,9 +3,9 @@ title: "Section 8952 - Research and coordination plan for enhanced response on e
 usc_title: 15
 usc_section: "8952"
 chapter: 115
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 8952"
-generated_at: "2026-03-30T02:50:30.070Z"
+generated_at: "2026-03-30T02:54:08.235Z"
 ---
 
 # § 8952. Research and coordination plan for enhanced response on emerging contaminants

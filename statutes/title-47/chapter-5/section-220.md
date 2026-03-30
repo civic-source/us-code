@@ -3,9 +3,9 @@ title: "Section 220 - Accounts, records, and memoranda"
 usc_title: 47
 usc_section: "220"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 220"
-generated_at: "2026-03-30T02:52:17.304Z"
+generated_at: "2026-03-30T02:56:24.495Z"
 ---
 
 # § 220. Accounts, records, and memoranda

@@ -3,9 +3,9 @@ title: "Section 8669a - Construction of combatant and escort vessels and assignm
 usc_title: 10
 usc_section: "8669a"
 chapter: 863
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8669a"
-generated_at: "2026-03-30T02:50:18.708Z"
+generated_at: "2026-03-30T02:53:38.247Z"
 ---
 
 # § 8669a. Construction of combatant and escort vessels and assignment of vessel projects
@@ -18,4 +18,4 @@ generated_at: "2026-03-30T02:50:18.708Z"
     - **(B)** may not award such contract to a firm other than a firm that will perform the work at the homeport of the vessel.
   - **(2)** Paragraph (1) applies notwithstanding subsection (a) or any other provision of law.
   - **(3)** Paragraph (1) does not apply in the case of voyage repairs.
-  - **(4)** In this subsection, the term “short-term work” means work that will be for a period of 12 months or less.
+  - **(4)** In this subsection, the term “short-term work” means work that will be for a period of 18 months or less.

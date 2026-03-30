@@ -3,9 +3,9 @@ title: "Section 714 - Senior leaders of the Department of Defense and other spec
 usc_title: 10
 usc_section: "714"
 chapter: 41
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 714"
-generated_at: "2026-03-30T02:50:18.508Z"
+generated_at: "2026-03-30T02:53:38.075Z"
 ---
 
 # § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection
@@ -18,8 +18,11 @@ generated_at: "2026-03-30T02:50:18.508Z"
   - **(5)** Secretaries of the military departments.
   - **(6)** Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman.
   - **(7)** Commanders of combatant commands.
-- **(b)**
-  - **(1)** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to individuals other than individuals described in paragraphs (1) through (7) of subsection (a) if the Secretary determines that such protection and security are necessary because—
+- **(b)** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to a former or retired official who—
+  - **(1)** previously served in a position identified in paragraphs (1) through (7) 1 1 So in original. Probably should be followed by “of subsection (a)”. ; and
+  - **(2)** faces serious and credible threats arising from duties performed while employed by the Department of Defense.
+- **(c)**
+  - **(1)** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to individuals other than individuals described in subsection (a) or (b) if the Secretary determines that such protection and security are necessary because—
     - **(A)** there is a serious and credible threat to the safety of the individual for whom protection is to be provided; or
     - **(B)** compelling operational considerations make such protection essential to the conduct of official Department of Defense business.
   - **(2)** Individuals authorized to receive physical protection and personal security under this subsection include the following:
@@ -29,26 +32,40 @@ generated_at: "2026-03-30T02:50:18.508Z"
     - **(D)** Any member of the immediate family of a person authorized to receive physical protection and personal security under this section.
     - **(E)** An individual who has been designated by the President, and who has received the advice and consent of the Senate, to serve as Secretary of Defense, but who has not yet been appointed as Secretary of Defense.
   - **(3)** The authority of the Secretary of Defense to authorize the provision of physical protection and personal security under this subsection may be delegated only to the Deputy Secretary of Defense or the Under Secretary of Defense for Intelligence and Security.
-  - **(4)** A determination of the Secretary of Defense whether to provide physical protection and personal security under this subsection shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of any authorized protection and security for such officer, employee, or individual, and the nature of any arrangements for such protection and security.
-  - **(5)** The Secretary of Defense shall require periodic reviews, not less than once every six months, of the duration of protection provided to individuals under this subsection.
-  - **(6)**
-    - **(A)** Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees an initial determination made under paragraph (4), or a determination to deny the renewal of protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made. In the case of determination 2 2 So in original. Probably should be preceded by “a”. to continue protection and security, the Secretary shall make such submission not less than twice each year.
-    - **(B)** A report submitted under subparagraph (A) may be made in classified form.
-    - **(C)** The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to paragraph (1) not less than 20 days before the date on which such regulations take effect.
-    - **(D)** Subparagraph (A) does not apply to determinations made with respect to the following individuals:
-      - **(i)** An individual described in paragraph (2)(C) who is otherwise sponsored by the Secretary of Defense, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of Staff, or the Vice Chairman of the Joint Chiefs of Staff.
-      - **(ii)** An individual described in paragraph (2)(E).
-  - **(7)** The Secretary of Defense may temporarily provide physical protection and personal security under this subsection to an individual—
+  - **(4)** The Secretary of Defense may temporarily provide physical protection and personal security under this subsection to an individual—
     - **(A)** pending the determination of the Secretary under paragraph (4) regarding such individual; and
     - **(B)** for a period not to exceed 30 days.
-- **(c)** In this section, the terms “qualified members of the armed forces” and “qualified civilian employees of the Department of Defense” refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
+- **(d)** A determination of the Secretary of Defense whether to provide physical protection and personal security under subsection (b) or (c), or reimbursement under subsection (h), shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of any authorized protection and security for such officer, employee, or individual, and the nature of any arrangements for such protection and security.
+- **(e)** The Secretary of Defense shall require periodic reviews, not less than once every six months, of the duration of protection provided to individuals under subsection (b) or (c).
+- **(f)**
+  - **(1)** Except as provided in paragraph (4), the Secretary of Defense shall submit to the congressional defense committee determinations made pursuant to this section as follows:
+    - **(A)** An initial determination made under subsection (d), not later than 15 days after the date on which the determination is made, including the justification for such determination and a current threat assessment by an appropriate law enforcement, security, or intelligence organization.
+    - **(B)** A determination to deny the renewal of physical protection and security under subsection (b) or (c), or reimbursement under subsection (j), not later than 15 days after the date on which the determination is made, including—
+      - **(i)** the justification for such determination;
+      - **(ii)** a current threat assessment by an appropriate law enforcement, security, or intelligence organization; and
+      - **(iii)** a certification that threats to the individual arising from duties performed while employed by the Department of Defense can be sufficiently mitigated without physical protection and security or reimbursement.
+    - **(C)** A determination to terminate physical protection and security under subsection (b) or (c), or reimbursement under subsection (j), during a previously authorized period of protection, not later than 48 hours after the date on which the determination is made, including—
+      - **(i)** the justification for such determination;
+      - **(ii)** a current threat assessment by an appropriate law enforcement, security, or intelligence organization; and
+      - **(iii)** a certification that threats to the individual arising from duties performed while employed by the Department of Defense can be sufficiently mitigated without protection and security or reimbursement.
+    - **(D)** A determination to deny a request for reimbursement of an individual described in subsection (b), not later than 15 days after the date on which the determination is made, including—
+      - **(i)** the justification for such determination;
+      - **(ii)** a current threat assessment by an appropriate law enforcement, security, or intelligence organization; and
+      - **(iii)** a certification that threats to the individual arising from duties performed while employed by the Department of Defense can be sufficiently mitigated without reimbursement.
+  - **(2)** A report submitted under paragraph (1) may be made in classified form.
+  - **(3)** The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to subsections (b) and (c)(1), and a description of any changes to such guidelines, not less than 20 days before the date on which such regulations take effect.
+  - **(4)** Paragraph (1) does not apply to determinations made with respect to the following individuals:
+    - **(A)** An individual described in subsection (c)(2)(C) who is otherwise sponsored by the Secretary of Defense, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of Staff, or the Vice Chairman of the Joint Chiefs of Staff.
+    - **(B)** An individual described in subsection (c)(2)(E).
+- **(g)** The Secretary of Defense shall provide written notification to any individual receiving physical protection and personal security under subsection (a) or (b), or reimbursement under subsection (j), at least 90 days prior to terminating or denying the renewal of protection and security protection or reimbursement, as the case may be, for such individual.
+- **(h)** In this section, the terms “qualified members of the armed forces” and “qualified civilian employees of the Department of Defense” refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
   - **(1)** The Army Criminal Investigation Command.
   - **(2)** The Naval Criminal Investigative Service.
   - **(3)** The Air Force Office of Special Investigations.
   - **(4)** The Defense Criminal Investigative Service.
   - **(5)** The Pentagon Force Protection Agency.
-- **(d)**
+- **(i)**
   - **(1)** Other than the authority to provide protection and security under this section, nothing in this section may be construed to bestow any additional law enforcement or arrest authority upon the qualified members of the armed forces and qualified civilian employees of the Department of Defense.
   - **(2)** Nothing in this section shall be construed to abridge section 1385 of title 18 .
   - **(3)** Nothing in this section may be construed to preclude or limit, in any way, the express or implied powers of the Secretary of Defense or other Department of Defense officials, or the duties and authorities of the Secretary of State, the Director of the United States Secret Service, the Director of the United States Marshals Service, or any other Federal law enforcement agency.
-- **(e)** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.
+- **(j)** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.

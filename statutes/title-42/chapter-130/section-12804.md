@@ -3,9 +3,9 @@ title: "Section 12804 - Rehabilitation loans"
 usc_title: 42
 usc_section: "12804"
 chapter: 130
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12804"
-generated_at: "2026-03-30T02:52:03.088Z"
+generated_at: "2026-03-30T02:56:11.432Z"
 ---
 
 # § 12804. Rehabilitation loans

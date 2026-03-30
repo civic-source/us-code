@@ -3,9 +3,9 @@ title: "Section 3020 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3020"
 chapter: 30
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 3020"
-generated_at: "2026-03-30T02:51:18.046Z"
+generated_at: "2026-03-30T02:55:53.499Z"
 ---
 
 # § 3020. Authority to transfer unused education benefits to family members for career service members

@@ -3,9 +3,9 @@ title: "Section 5243 - Sale of abandoned spirits for denaturation without collec
 usc_title: 26
 usc_section: "5243"
 chapter: 51
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5243"
-generated_at: "2026-03-30T02:51:05.570Z"
+generated_at: "2026-03-30T02:55:27.821Z"
 ---
 
 # § 5243. Sale of abandoned spirits for denaturation without collection of tax

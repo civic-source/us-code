@@ -3,9 +3,9 @@ title: "Section 609 - Employee training"
 usc_title: 2
 usc_section: "609"
 chapter: 17
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 609"
-generated_at: "2026-03-30T02:50:03.248Z"
+generated_at: "2026-03-30T02:53:04.798Z"
 ---
 
 # § 609. Employee training

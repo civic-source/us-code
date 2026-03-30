@@ -3,9 +3,9 @@ title: "Section 60605 - Space weather data"
 usc_title: 51
 usc_section: "60605"
 chapter: 606
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "51 U.S.C. § 60605"
-generated_at: "2026-03-30T02:52:31.271Z"
+generated_at: "2026-03-30T02:56:28.713Z"
 ---
 
 # § 60605. Space weather data

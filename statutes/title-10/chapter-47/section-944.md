@@ -3,9 +3,9 @@ title: "Section 944 - Art. 144. Procedure"
 usc_title: 10
 usc_section: "944"
 chapter: 47
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 944"
-generated_at: "2026-03-30T02:50:18.521Z"
+generated_at: "2026-03-30T02:53:38.088Z"
 ---
 
 # § 944. Art. 144. Procedure

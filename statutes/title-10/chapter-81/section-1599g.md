@@ -3,9 +3,9 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-03-30T02:50:18.572Z"
+generated_at: "2026-03-30T02:53:38.132Z"
 ---
 
 # § 1599g. Public-private talent exchange
@@ -32,7 +32,7 @@ generated_at: "2026-03-30T02:50:18.572Z"
   - **(1)** shall continue to receive pay and benefits from the private-sector organization from which such employee is assigned and shall not receive pay or benefits from the Department of Defense, except as provided in paragraph (2);
   - **(2)** is deemed to be an employee of the Department of Defense for the purposes of—
     - **(A)** chapters 73 and 81 of title 5;
-    - **(B)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
+    - **(B)** sections 201, 203, 205, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
     - **(C)** sections 1343, 1344, and 1349(b) of title 31;
     - **(D)** the Federal Tort Claims Act and any other Federal tort liability statute;
     - **(E)** the Ethics in Government Act of 1978; and

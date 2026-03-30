@@ -3,9 +3,9 @@ title: "Section 24908 - Transfer taxes and levies and recording charges"
 usc_title: 49
 usc_section: "24908"
 chapter: 249
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 24908"
-generated_at: "2026-03-30T02:52:20.455Z"
+generated_at: "2026-03-30T02:56:19.349Z"
 ---
 
 # § 24908. Transfer taxes and levies and recording charges

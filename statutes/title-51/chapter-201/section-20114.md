@@ -3,9 +3,9 @@ title: "Section 20114 - Administration and Department of Defense coordination"
 usc_title: 51
 usc_section: "20114"
 chapter: 201
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "51 U.S.C. § 20114"
-generated_at: "2026-03-30T02:52:31.259Z"
+generated_at: "2026-03-30T02:56:28.703Z"
 ---
 
 # § 20114. Administration and Department of Defense coordination

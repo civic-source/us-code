@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions for this chapter"
 usc_title: 11
 usc_section: "1101"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 1101"
-generated_at: "2026-03-30T02:50:22.378Z"
+generated_at: "2026-03-30T02:53:53.883Z"
 ---
 
 # § 1101. Definitions for this chapter

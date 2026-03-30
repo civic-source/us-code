@@ -3,9 +3,9 @@ title: "Section 1784 - Employment opportunities for military spouses"
 usc_title: 10
 usc_section: "1784"
 chapter: 88
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1784"
-generated_at: "2026-03-30T02:50:18.577Z"
+generated_at: "2026-03-30T02:53:38.137Z"
 ---
 
 # § 1784. Employment opportunities for military spouses
@@ -32,3 +32,9 @@ generated_at: "2026-03-30T02:50:18.577Z"
   - **(4)** Not later than February 28 each year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on interstate compacts described in paragraph (1) developed through assistance provided under that paragraph. Each report shall set forth the following:
     - **(A)** Any interstate compact developed during the preceding calendar year, including the occupational licenses covered by such compact and the States agreeing to enter into such compact.
     - **(B)** Any interstate compact developed during a prior calendar year into which one or more additional States agreed to enter during the preceding calendar year.
+- **(i)**
+  - **(1)** The Secretary of Defense shall carry out a program to provide spouses of members of the armed forces with paid fellowships (including in-person, remote, and hybrid fellowships) with employers in various industries. To carry out such program, the Secretary shall take the following steps:
+    - **(A)** Seek to enter into an agreement with an entity to conduct such program.
+    - **(B)** Determine the appropriate capacity for the program based on the availability of appropriations for such purpose.
+    - **(C)** Establish criteria to evaluate the effectiveness and cost-effectiveness of the program in supporting the employment of such spouses.
+  - **(2)** The authority to carry out the program under this subsection shall terminate on January 1, 2031 .

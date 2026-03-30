@@ -3,9 +3,9 @@ title: "Section 1862u - NSF support of research on opioid addiction"
 usc_title: 42
 usc_section: "1862u"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1862u"
-generated_at: "2026-03-30T02:52:02.644Z"
+generated_at: "2026-03-30T02:56:11.129Z"
 ---
 
 # § 1862u. NSF support of research on opioid addiction

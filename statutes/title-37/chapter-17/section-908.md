@@ -3,16 +3,16 @@ title: "Section 908 - Reserves and retired members: acceptance of employment, pa
 usc_title: 37
 usc_section: "908"
 chapter: 17
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 908"
-generated_at: "2026-03-30T02:51:14.777Z"
+generated_at: "2026-03-30T02:55:44.060Z"
 ---
 
 # § 908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments
 
 - **(a)** Subject to subsections (b) and (c), Congress consents to the following persons accepting civil employment (and compensation for that employment), accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award, for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
   - **(1)** Retired members of the uniformed services.
-  - **(2)** Members of a reserve component of the armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days.
+  - **(2)** Members of a reserve component of the armed forces and members of the Space Force in space force active status not on sustained duty, except members serving on active duty under a call or order to active duty for a period in excess of 30 days.
   - **(3)** Members of the Commissioned Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
 - **(b)**
   - **(1)** A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment after determining that such approval is not contrary to the national interests of the United States.

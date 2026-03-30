@@ -3,9 +3,9 @@ title: "Section 105 - Subject matter of copyright: United States Government work
 usc_title: 17
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "17 U.S.C. § 105"
-generated_at: "2026-03-30T02:50:33.451Z"
+generated_at: "2026-03-30T02:54:15.344Z"
 ---
 
 # § 105. Subject matter of copyright: United States Government works
@@ -13,10 +13,10 @@ generated_at: "2026-03-30T02:50:33.451Z"
 - **(a)** Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
 - **(b)** Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work.
 - **(c)**
-  - **(1)** With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L) of such subsection when the Coast Guard is operating as a service in the Navy, the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-  - **(2)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(L), the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-  - **(3)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M), the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
-  - **(4)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(N), the Secretary of Transportation may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+  - **(1)** With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M) of such subsection when the Coast Guard is operating as a service in the Navy, the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+  - **(2)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M), the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+  - **(3)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(N), the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+  - **(4)** With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(O), the Secretary of Transportation may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 - **(d)** In this section:
   - **(1)** The term “covered author” means a civilian member of the faculty of a covered institution.
   - **(2)** The term “covered institution” means the following:
@@ -31,7 +31,8 @@ generated_at: "2026-03-30T02:50:33.451Z"
     - **(I)** United States Air Force Academy.
     - **(J)** Air University.
     - **(K)** Defense Language Institute.
-    - **(L)** United States Coast Guard Academy.
-    - **(M)** National Intelligence University.
-    - **(N)** United States Merchant Marine Academy.
+    - **(L)** Uniformed Services University of the Health Sciences.
+    - **(M)** United States Coast Guard Academy.
+    - **(N)** National Intelligence University.
+    - **(O)** United States Merchant Marine Academy.
   - **(3)** The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.

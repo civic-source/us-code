@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T02:50:18.596Z"
+generated_at: "2026-03-30T02:53:38.149Z"
 ---
 
 # § 2222. Defense business systems: business process reengineering; enterprise architecture; management
@@ -91,9 +91,17 @@ generated_at: "2026-03-30T02:50:18.596Z"
       - **(iii)** A contracting system.
       - **(iv)** A logistics system.
       - **(v)** A planning and budgeting system.
-      - **(vi)** An installations management system.
+      - **(vi)** An installations management system or real estate system.
       - **(vii)** A human resources management system.
       - **(viii)** A training and readiness system.
+      - **(ix)** A budget system.
+      - **(x)** A retail system.
+      - **(xi)** A health care system.
+      - **(xii)** A travel and expense system.
+      - **(xiii)** A payroll system.
+      - **(xiv)** A supply chain management system.
+      - **(xv)** A Departmentwide resource planning system.
+      - **(xvi)** A contractor management system.
     - **(B)** The term does not include—
       - **(i)** a national security system; or
       - **(ii)** an information system used exclusively by and within the defense commissary system or the exchange system or other instrumentality of the Department of Defense conducted for the morale, welfare, and recreation of members of the armed forces using nonappropriated funds.

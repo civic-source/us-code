@@ -3,9 +3,9 @@ title: "Section 2113 - Federal, State, and local coordination and cooperation"
 usc_title: 16
 usc_section: "2113"
 chapter: 41
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 2113"
-generated_at: "2026-03-30T02:50:43.236Z"
+generated_at: "2026-03-30T02:54:23.000Z"
 ---
 
 # § 2113. Federal, State, and local coordination and cooperation

@@ -3,14 +3,14 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-30T02:50:53.023Z"
+generated_at: "2026-03-30T02:55:05.354Z"
 ---
 
 # § 2291h. Reporting requirements
 
-- **(a)** Not later than March 1 of each year, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a report containing the following:
+- **(a)** Not later than June 1 of each year, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a report containing the following:
   - **(1)** For each country that received assistance under this part for either of the 2 preceding fiscal years, a report on the extent to which the country has—
     - **(A)** met the goals and objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, including action on such issues as illicit cultivation, production, distribution, sale, transport, and financing, and money laundering, asset seizure, extradition, mutual legal assistance, law enforcement and transit cooperation, precursor chemical control, and demand reduction;
     - **(B)** accomplished the goals described in an applicable bilateral narcotics agreement with the United States or a multilateral agreement; and
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T02:50:53.023Z"
     - **(A)** which countries are parties to international agreements on a method for maintaining records of transactions of an established list of precursor and essential chemicals;
     - **(B)** which countries have established a procedure by which such records may be made available to United States law enforcement authorities; and
     - **(C)** which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establish a system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
-  - **(7)** In addition, for those countries identified pursuant to paragraph (3)(D) 1 the following:
+  - **(7)** In addition, for those countries identified pursuant to paragraph (3)(C) the following:
     - **(A)**
       - **(i)** Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
       - **(ii)** which countries identified pursuant to clause (i) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
@@ -49,9 +49,15 @@ generated_at: "2026-03-30T02:50:53.023Z"
       - **(vi)** enacted laws for the sharing of seized narcotics assets with other governments;
       - **(vii)** cooperated, when requested, with appropriate law enforcement agencies of other governments investigating financial crimes related to narcotics; and
       - **(viii)** addressed the problem on international transportation of illegal-source currency and monetary instruments.
+    - **(D)** Where the information is available, examples of improvements in each country related to the findings described in each of clauses (i) through (viii) of subparagraph (C) including—
+      - **(i)** actions taken by the country due to the adoption of law and regulations considered essential to prevent narcotics-related money laundering;
+      - **(ii)** enhanced enforcement actions taken by the country, such as regulatory penalties, criminal prosecutions and convictions, and asset seizures and forfeitures;
+      - **(iii)** status changes in financial crime-related evaluations by international standards-setting bodies;
+      - **(iv)** efforts to enhance the prevention of narcotics-related money laundering; and
+      - **(v)** if applicable, bilateral, multilateral, and regional initiatives that have been undertaken to prevent narcotics-related money laundering.
   - **(8)**
     - **(A)** A separate section that contains the following:
-      - **(i)** An identification of the five countries that exported the largest amount of pseudoephedrine, ephedrine, and phenylpropanolamine (including the salts, optical isomers, or salts of optical isomers of such chemicals, and also including any products or substances containing such chemicals) during the preceding calendar year.
+      - **(i)** An identification of the five countries that exported the largest amount of chemical precursors used in the production of methamphetamine that significantly affected the United States during the preceding calendar year.
       - **(ii)** An identification of the five countries that imported the largest amount of the chemicals described in clause (i) during the preceding calendar year and have the highest rate of diversion of such chemicals for use in the illicit production of methamphetamine (either in that country or in another country).
       - **(iii)** An economic analysis of the total worldwide production of the chemicals described in clause (i) as compared to the legitimate demand for such chemicals worldwide.
     - **(B)** The identification of countries that imported the largest amount of chemicals under subparagraph (A)(ii) shall be based on the following:

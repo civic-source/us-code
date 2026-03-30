@@ -3,9 +3,9 @@ title: "Section 2326 - Regional sediment management"
 usc_title: 33
 usc_section: "2326"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2326"
-generated_at: "2026-03-30T02:51:10.408Z"
+generated_at: "2026-03-30T02:55:41.123Z"
 ---
 
 # § 2326. Regional sediment management
@@ -40,7 +40,7 @@ generated_at: "2026-03-30T02:51:10.408Z"
   - **(4)** The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under section 2213(d)(1) of this title .
   - **(5)** Activities carried out under this subsection—
     - **(A)** shall be carried out using amounts appropriated for construction or operation and maintenance of the project involving the disposal of the dredged material; and
-    - **(B)** shall not carried 1 1 So in original. Probably should be preceded by “be”. out using amounts made available under subsection (g).
+    - **(B)** shall not carried 2 2 So in original. Probably should be preceded by “be”. out using amounts made available under subsection (g).
 - **(e)** The Secretary may—
   - **(1)** cooperate with any State or group of States in the preparation of a comprehensive State or regional sediment management plan within the boundaries of the State or among States;
   - **(2)** encourage State participation in the implementation of the plan; and

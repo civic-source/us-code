@@ -3,9 +3,9 @@ title: "Section 3334i - Seedling investment in next-generation microelectronics 
 usc_title: 50
 usc_section: "3334i"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334i"
-generated_at: "2026-03-30T02:52:24.517Z"
+generated_at: "2026-03-30T02:56:26.244Z"
 ---
 
 # § 3334i. Seedling investment in next-generation microelectronics in support of artificial intelligence

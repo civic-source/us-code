@@ -3,9 +3,9 @@ title: "Section 23 - Suits by United States; subpoenas for witnesses"
 usc_title: 15
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 23"
-generated_at: "2026-03-30T02:50:29.792Z"
+generated_at: "2026-03-30T02:54:08.022Z"
 ---
 
 # § 23. Suits by United States; subpoenas for witnesses

@@ -3,9 +3,9 @@ title: "Section 1134 - Rates of peacetime disability compensation"
 usc_title: 38
 usc_section: "1134"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1134"
-generated_at: "2026-03-30T02:51:18.012Z"
+generated_at: "2026-03-30T02:55:53.477Z"
 ---
 
 # § 1134. Rates of peacetime disability compensation

@@ -3,9 +3,9 @@ title: "Section 895a - Art. 95a. Disrespect toward sentinel or lookout"
 usc_title: 10
 usc_section: "895a"
 chapter: 47
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 895a"
-generated_at: "2026-03-30T02:50:18.517Z"
+generated_at: "2026-03-30T02:53:38.085Z"
 ---
 
 # § 895a. Art. 95a. Disrespect toward sentinel or lookout

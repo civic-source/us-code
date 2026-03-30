@@ -3,9 +3,9 @@ title: "Section 1019c - Loan information to be disclosed and model disclosure fo
 usc_title: 20
 usc_section: "1019c"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1019c"
-generated_at: "2026-03-30T02:50:39.117Z"
+generated_at: "2026-03-30T02:54:48.096Z"
 ---
 
 # § 1019c. Loan information to be disclosed and model disclosure form for institutions participating in the William D. Ford Federal Direct Loan Program

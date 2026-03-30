@@ -3,9 +3,9 @@ title: "Section 196 - Expenses"
 usc_title: 12
 usc_section: "196"
 chapter: 2
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 196"
-generated_at: "2026-03-30T02:50:26.339Z"
+generated_at: "2026-03-30T02:53:53.374Z"
 ---
 
 # § 196. Expenses

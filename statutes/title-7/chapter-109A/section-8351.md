@@ -3,9 +3,9 @@ title: "Section 8351 - Predatory and other wild animals"
 usc_title: 7
 usc_section: "8351"
 chapter: 109
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8351"
-generated_at: "2026-03-30T02:50:11.765Z"
+generated_at: "2026-03-30T02:53:42.475Z"
 ---
 
 # § 8351. Predatory and other wild animals

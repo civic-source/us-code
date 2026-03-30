@@ -3,9 +3,9 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Fed
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-30T02:51:05.632Z"
+generated_at: "2026-03-30T02:55:27.876Z"
 ---
 
 # § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
@@ -40,3 +40,4 @@ generated_at: "2026-03-30T02:51:05.632Z"
   - **(5)** Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
   - **(6)** For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 120-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
 - **(f)** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+- **(f)** For purposes of section 6511(b)(2)(A), any period disregarded under this section with respect to the time prescribed for filing any return of tax shall be treated as an extension of time for filing such return.

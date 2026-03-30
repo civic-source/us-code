@@ -3,9 +3,9 @@ title: "Section 3001 - Defense acquisition system; element of the defense acquis
 usc_title: 10
 usc_section: "3001"
 chapter: 201
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3001"
-generated_at: "2026-03-30T02:50:18.644Z"
+generated_at: "2026-03-30T02:53:38.188Z"
 ---
 
 # § 3001. Defense acquisition system; element of the defense acquisition system
@@ -18,4 +18,4 @@ generated_at: "2026-03-30T02:50:18.644Z"
   - **(1)** employs members of the acquisition workforce;
   - **(2)** carries out acquisition functions; and
   - **(3)** focuses primarily on acquisition.
-- **(c)** In this section, the term “acquisition” has the meaning provided in section 131 of title 41 .
+- **(c)** In this part, the term “acquisition” has the meaning provided in section 131 of title 41 .

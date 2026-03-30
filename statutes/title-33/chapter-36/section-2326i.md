@@ -3,9 +3,9 @@ title: "Section 2326i - Beneficial use of dredged material"
 usc_title: 33
 usc_section: "2326i"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2326i"
-generated_at: "2026-03-30T02:51:10.409Z"
+generated_at: "2026-03-30T02:55:41.124Z"
 ---
 
 # § 2326i. Beneficial use of dredged material
@@ -32,7 +32,7 @@ generated_at: "2026-03-30T02:51:10.409Z"
   - **(1)** The Secretary shall establish regional beneficial use teams to identify and assist in the implementation of projects under this section.
   - **(2)**
     - **(A)** For each regional beneficial use team established under paragraph (1), the Secretary shall appoint the Commander of the relevant division of the Corps of Engineers to serve as the head of the team.
-    - **(B)** Membership
+    - **(B)** The membership of each regional beneficial use team shall include—
       - **(i)** representatives of relevant Corps of Engineers districts and divisions;
       - **(ii)** representatives of relevant State and local agencies; and
       - **(iii)** representatives of Federal agencies and such other entities as the Secretary determines appropriate, consistent with the purposes of this section.

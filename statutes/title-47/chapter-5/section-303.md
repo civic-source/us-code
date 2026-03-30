@@ -3,9 +3,9 @@ title: "Section 303 - Powers and duties of Commission"
 usc_title: 47
 usc_section: "303"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 303"
-generated_at: "2026-03-30T02:52:17.314Z"
+generated_at: "2026-03-30T02:56:24.504Z"
 ---
 
 # § 303. Powers and duties of Commission

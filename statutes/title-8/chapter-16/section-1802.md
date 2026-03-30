@@ -3,9 +3,9 @@ title: "Section 1802 - Asylum fee"
 usc_title: 8
 usc_section: "1802"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1802"
-generated_at: "2026-03-30T02:50:07.453Z"
+generated_at: "2026-03-30T02:53:10.508Z"
 ---
 
 # § 1802. Asylum fee

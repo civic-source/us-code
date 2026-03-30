@@ -3,9 +3,9 @@ title: "Section 1172 - Annual notice and opportunity for public comment"
 usc_title: 38
 usc_section: "1172"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1172"
-generated_at: "2026-03-30T02:51:18.014Z"
+generated_at: "2026-03-30T02:55:53.478Z"
 ---
 
 # § 1172. Annual notice and opportunity for public comment

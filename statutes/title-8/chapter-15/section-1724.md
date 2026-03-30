@@ -3,9 +3,9 @@ title: "Section 1724 - Personnel management authorities for positions involved i
 usc_title: 8
 usc_section: "1724"
 chapter: 15
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1724"
-generated_at: "2026-03-30T02:50:07.451Z"
+generated_at: "2026-03-30T02:53:10.507Z"
 ---
 
 # § 1724. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)

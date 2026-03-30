@@ -3,9 +3,9 @@ title: "Section 16423 - Advanced Power System Technology Incentive Program"
 usc_title: 42
 usc_section: "16423"
 chapter: 149
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 16423"
-generated_at: "2026-03-30T02:52:03.162Z"
+generated_at: "2026-03-30T02:56:11.486Z"
 ---
 
 # § 16423. Advanced Power System Technology Incentive Program

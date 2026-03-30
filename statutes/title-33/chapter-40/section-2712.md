@@ -3,9 +3,9 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-30T02:51:10.418Z"
+generated_at: "2026-03-30T02:55:41.131Z"
 ---
 
 # § 2712. Uses of Fund
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:51:10.418Z"
     - **(D)** not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
 - **(b)**
   - **(1)** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
-  - **(2)** Except for a guarantor claim pursuant to a defense under section 2716(f)(1) of this title , Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
+  - **(2)** Except for a guarantor claim pursuant to a defense under section 2716(e)(1) of this title , Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
 - **(c)** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 - **(d)**
   - **(1)** In carrying out section 1321(c) of this title , the President may enter into cost-reimbursable agreements with a State, a political subdivision of a State, or an Indian tribe to obligate the Fund for the payment of removal costs consistent with the National Contingency Plan.

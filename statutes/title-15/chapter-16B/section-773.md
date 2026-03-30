@@ -3,9 +3,9 @@ title: "Section 773 - Public disclosure of information"
 usc_title: 15
 usc_section: "773"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 773"
-generated_at: "2026-03-30T02:50:29.920Z"
+generated_at: "2026-03-30T02:54:08.121Z"
 ---
 
 # § 773. Public disclosure of information

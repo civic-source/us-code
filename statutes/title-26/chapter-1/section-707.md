@@ -3,9 +3,9 @@ title: "Section 707 - Transactions between partner and partnership"
 usc_title: 26
 usc_section: "707"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 707"
-generated_at: "2026-03-30T02:51:05.466Z"
+generated_at: "2026-03-30T02:55:27.726Z"
 ---
 
 # § 707. Transactions between partner and partnership

@@ -3,9 +3,9 @@ title: "Section 2453 - Future-years nuclear security program"
 usc_title: 50
 usc_section: "2453"
 chapter: 41
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2453"
-generated_at: "2026-03-30T02:52:24.477Z"
+generated_at: "2026-03-30T02:56:26.225Z"
 ---
 
 # § 2453. Future-years nuclear security program
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T02:52:24.477Z"
       - **(iii)** fissile materials disposition.
     - **(C)** For naval reactors, naval reactors operations and maintenance.
   - **(2)** A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support each program element specified pursuant to paragraph (1).
-  - **(3)** A detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that the nuclear weapons stockpile is safe and reliable, as determined in accordance with the criteria established under section 2522(a) of this title .
+  - **(3)** A detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that the nuclear weapons stockpile is safe and reliable, as determined in accordance with the criteria established under section 2522(a) 1 1 See References in Text note below. of this title.
   - **(4)** A description of the anticipated workload requirements for each Administration site during that five-fiscal-year period.
 - **(c)**
   - **(1)** The Administrator shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.

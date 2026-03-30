@@ -3,9 +3,9 @@ title: "Section 1842 - Confirmation of registration"
 usc_title: 29
 usc_section: "1842"
 chapter: 20
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1842"
-generated_at: "2026-03-30T02:50:58.681Z"
+generated_at: "2026-03-30T02:55:18.740Z"
 ---
 
 # § 1842. Confirmation of registration

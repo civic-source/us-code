@@ -3,9 +3,9 @@ title: "Section 2008 - Procedures for waiver of Federal law"
 usc_title: 43
 usc_section: "2008"
 chapter: 38
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 2008"
-generated_at: "2026-03-30T02:51:38.328Z"
+generated_at: "2026-03-30T02:55:57.495Z"
 ---
 
 # § 2008. Procedures for waiver of Federal law

@@ -3,9 +3,9 @@ title: "Section 51326 - Student advisory board at the United States Merchant Mar
 usc_title: 46
 usc_section: "51326"
 chapter: 513
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 51326"
-generated_at: "2026-03-30T02:52:21.786Z"
+generated_at: "2026-03-30T02:56:15.571Z"
 ---
 
 # § 51326. Student advisory board at the United States Merchant Marine Academy

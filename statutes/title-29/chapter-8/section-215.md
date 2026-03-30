@@ -3,9 +3,9 @@ title: "Section 215 - Prohibited acts; prima facie evidence"
 usc_title: 29
 usc_section: "215"
 chapter: 8
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 215"
-generated_at: "2026-03-30T02:50:58.615Z"
+generated_at: "2026-03-30T02:55:18.682Z"
 ---
 
 # § 215. Prohibited acts; prima facie evidence

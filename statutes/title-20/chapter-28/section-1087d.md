@@ -3,9 +3,9 @@ title: "Section 1087d - Agreements with institutions"
 usc_title: 20
 usc_section: "1087d"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1087d"
-generated_at: "2026-03-30T02:50:39.153Z"
+generated_at: "2026-03-30T02:54:48.123Z"
 ---
 
 # § 1087d. Agreements with institutions
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T02:50:39.153Z"
   - **(3)** provide that the institution or consortium will originate loans to eligible students and parents in accordance with this part; and
   - **(4)** provide that the note or evidence of obligation on the loan shall be the property of the Secretary.
 - **(c)**
-  - **(1)** Notwithstanding section 1088(b) of this section, an institution of higher education subject to this subsection shall not use funds under this part for student enrollment in an educational program offered by the institution that is described in paragraph (2).
+  - **(1)** Notwithstanding section 1088(b) of this title , an institution of higher education subject to this subsection shall not use funds under this part for student enrollment in an educational program offered by the institution that is described in paragraph (2).
   - **(2)** An educational program at an institution is described in this paragraph if the program awards an undergraduate degree, graduate or professional degree, or graduate certificate, for which the median earnings (as determined by the Secretary) of the programmatic cohort of students who received funds under this subchapter for enrollment in such program, who completed such program during the academic year that is 4 years before the year of the determination, who are not enrolled in any institution of higher education, and who are working, are, for not less than 2 of the 3 years immediately preceding the date of the determination, less than the median earnings of a working adult described in paragraph (3) for the corresponding year.
   - **(3)**
     - **(A)** For purposes of applying paragraph (2) to an educational program at an institution, a working adult described in this paragraph is a working adult who, for the corresponding year—

@@ -3,9 +3,9 @@ title: "Section 2674 - Liability of United States"
 usc_title: 28
 usc_section: "2674"
 chapter: 171
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 2674"
-generated_at: "2026-03-30T02:50:56.787Z"
+generated_at: "2026-03-30T02:55:30.151Z"
 ---
 
 # § 2674. Liability of United States

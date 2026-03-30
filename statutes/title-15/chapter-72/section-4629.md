@@ -3,9 +3,9 @@ title: "Section 4629 - Avoidance of duplication"
 usc_title: 15
 usc_section: "4629"
 chapter: 72
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 4629"
-generated_at: "2026-03-30T02:50:30.023Z"
+generated_at: "2026-03-30T02:54:08.200Z"
 ---
 
 # § 4629. Avoidance of duplication

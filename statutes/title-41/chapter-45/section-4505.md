@@ -3,9 +3,9 @@ title: "Section 4505 - Payments for commercial products and commercial services"
 usc_title: 41
 usc_section: "4505"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "41 U.S.C. § 4505"
-generated_at: "2026-03-30T02:51:36.395Z"
+generated_at: "2026-03-30T02:55:55.808Z"
 ---
 
 # § 4505. Payments for commercial products and commercial services

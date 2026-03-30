@@ -3,9 +3,9 @@ title: "Section 8 - Reports on Delmarva Peninsula hydrologic study"
 usc_title: 42
 usc_section: "8"
 chapter: 19
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:52:02.650Z"
+generated_at: "2026-03-30T02:56:11.135Z"
 ---
 
 # § 1962d–8. Reports on Delmarva Peninsula hydrologic study

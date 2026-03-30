@@ -3,9 +3,9 @@ title: "Section 279 - Rations to mission schools"
 usc_title: 25
 usc_section: "279"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 279"
-generated_at: "2026-03-30T02:50:48.130Z"
+generated_at: "2026-03-30T02:54:52.802Z"
 ---
 
 # § 279. Rations to mission schools

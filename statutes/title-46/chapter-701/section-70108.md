@@ -3,9 +3,9 @@ title: "Section 70108 - Foreign port assessment"
 usc_title: 46
 usc_section: "70108"
 chapter: 701
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70108"
-generated_at: "2026-03-30T02:52:21.810Z"
+generated_at: "2026-03-30T02:56:15.587Z"
 ---
 
 # § 70108. Foreign port assessment

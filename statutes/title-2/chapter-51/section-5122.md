@@ -3,9 +3,9 @@ title: "Section 5122 - Personal services in office of Speaker; payments"
 usc_title: 2
 usc_section: "5122"
 chapter: 51
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 5122"
-generated_at: "2026-03-30T02:50:03.292Z"
+generated_at: "2026-03-30T02:53:04.835Z"
 ---
 
 # § 5122. Personal services in office of Speaker; payments

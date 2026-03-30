@@ -3,9 +3,9 @@ title: "Section 2127 - Recall to active duty during war or national emergency"
 usc_title: 14
 usc_section: "2127"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2127"
-generated_at: "2026-03-30T02:50:21.617Z"
+generated_at: "2026-03-30T02:53:51.498Z"
 ---
 
 # § 2127. Recall to active duty during war or national emergency

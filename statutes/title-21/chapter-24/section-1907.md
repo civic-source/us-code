@@ -3,9 +3,9 @@ title: "Section 1907 - Definitions"
 usc_title: 21
 usc_section: "1907"
 chapter: 24
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 1907"
-generated_at: "2026-03-30T02:50:49.576Z"
+generated_at: "2026-03-30T02:54:54.307Z"
 ---
 
 # § 1907. Definitions

@@ -1,0 +1,25 @@
+---
+title: "Section 6312 - Independent acquisition project reviews of capital assets acquisition projects"
+usc_title: 10
+usc_section: "6312"
+chapter: 607
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 6312"
+generated_at: "2026-03-30T02:53:38.226Z"
+---
+
+# § 6312. Independent acquisition project reviews of capital assets acquisition projects
+
+- **(a)** The appropriate head shall ensure that an independent entity conducts reviews of each capital assets acquisition project as the project moves toward the approval of each of critical decision 0, critical decision 1, and critical decision 2 in the acquisition process.
+- **(b)** In addition to any other matters, with respect to each review of a capital assets acquisition project under subsection (a) that has not reached critical decision 1 approval in the acquisition process, such review shall include—
+  - **(1)** a review using best practices of the analysis of alternatives for the project; and
+  - **(2)** identification of any deficiencies in such analysis of alternatives for the appropriate head to address.
+- **(c)** The appropriate head shall ensure that each review of a capital assets acquisition project under subsection (a) is conducted by an independent entity with the appropriate expertise with respect to the project and the stage in the acquisition process of the project.
+- **(d)** In this section:
+  - **(1)** The term “acquisition process” means the acquisition process for a project, as defined in Department of Energy Order 413.3B (relating to project management and project management for the acquisition of capital assets), or a successor order.
+  - **(2)** The term “appropriate head” means—
+    - **(A)** the Administrator, with respect to capital assets acquisition projects of the Administration; and
+    - **(B)** the Assistant Secretary of Energy for Environmental Management, with respect to capital assets acquisition projects of the Office of Environmental Management.
+  - **(3)** The term “capital assets acquisition project” means a project—
+    - **(A)** the total project cost of which is more than $500,000,000; and
+    - **(B)** that is covered by Department of Energy Order 413.3B, or a successor order, for the acquisition of capital assets for atomic energy defense activities.

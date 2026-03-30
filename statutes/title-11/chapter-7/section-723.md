@@ -3,9 +3,9 @@ title: "Section 723 - Rights of partnership trustee against general partners"
 usc_title: 11
 usc_section: "723"
 chapter: 7
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 723"
-generated_at: "2026-03-30T02:50:22.376Z"
+generated_at: "2026-03-30T02:53:53.881Z"
 ---
 
 # § 723. Rights of partnership trustee against general partners

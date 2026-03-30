@@ -3,9 +3,9 @@ title: "Section 6d - Filming and still photography"
 usc_title: 16
 usc_section: "6d"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 6d"
-generated_at: "2026-03-30T02:50:43.030Z"
+generated_at: "2026-03-30T02:54:22.811Z"
 ---
 
 # § 460l–6d. Filming and still photography

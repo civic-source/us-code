@@ -3,9 +3,9 @@ title: "Section 7721 - Authority and responsibilities of the Secretary of the Ar
 usc_title: 10
 usc_section: "7721"
 chapter: 776
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7721"
-generated_at: "2026-03-30T02:50:18.694Z"
+generated_at: "2026-03-30T02:53:38.236Z"
 ---
 
 # § 7721. Authority and responsibilities of the Secretary of the Army

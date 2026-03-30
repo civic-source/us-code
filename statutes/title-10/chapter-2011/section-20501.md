@@ -3,9 +3,9 @@ title: "Section 20501 - Authority to establish procedures to consider the separa
 usc_title: 10
 usc_section: "20501"
 chapter: 2011
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 20501"
-generated_at: "2026-03-30T02:50:18.752Z"
+generated_at: "2026-03-30T02:53:38.282Z"
 ---
 
 # § 20501. Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons

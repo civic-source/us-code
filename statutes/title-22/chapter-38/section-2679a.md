@@ -3,9 +3,9 @@ title: "Section 2679a - Procurement contracts"
 usc_title: 22
 usc_section: "2679a"
 chapter: 38
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2679a"
-generated_at: "2026-03-30T02:50:53.050Z"
+generated_at: "2026-03-30T02:55:05.378Z"
 ---
 
 # § 2679a. Procurement contracts

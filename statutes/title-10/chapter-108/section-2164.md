@@ -3,9 +3,9 @@ title: "Section 2164 - Department of Defense domestic dependent elementary and s
 usc_title: 10
 usc_section: "2164"
 chapter: 108
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2164"
-generated_at: "2026-03-30T02:50:18.589Z"
+generated_at: "2026-03-30T02:53:38.145Z"
 ---
 
 # § 2164. Department of Defense domestic dependent elementary and secondary schools
@@ -92,9 +92,9 @@ generated_at: "2026-03-30T02:50:18.589Z"
   - **(2)** The Secretary may, for good cause, authorize a dependent of a member of the armed forces or a dependent of a Federal employee to continue enrollment in an educational program provided by the Secretary pursuant to subsection (a) notwithstanding a change in the status of the member or employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The enrollment may continue for as long as the Secretary considers appropriate.
   - **(3)** Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
 - **(i)**
-  - **(1)** The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in Puerto Rico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
+  - **(1)** The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in a territory, commonwealth, or possession of the United States if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
   - **(2)** An employee referred to in paragraph (1) is an American Red Cross employee who—
-    - **(A)** resides in Puerto Rico; and
+    - **(A)** resides in a territory, commonwealth, or possession of the United States where a program referred to in paragraph (1) is provided; and
     - **(B)** performs, on a full-time basis, emergency services on behalf of members of the armed forces.
   - **(3)** In determining the dependency status of any person for the purposes of paragraph (1), the Secretary shall apply the same definitions as apply to the determination of such status with respect to Federal employees in the administration of this section.
   - **(4)** Subsection (g) shall apply with respect to determining the reimbursement rates for educational services provided pursuant to this subsection. Amounts received as reimbursement for such educational services shall be treated in the same manner as amounts received under subsection (g).
@@ -122,3 +122,6 @@ generated_at: "2026-03-30T02:50:18.589Z"
 - **(m)**
   - **(1)** The Secretary of Defense may administer a meal program, consistent with Federal law and standards prescribed by the Secretary of Agriculture for that meal program, for students enrolled in a school established under this section.
   - **(2)** In this subsection, the term “meal program” means a program established under the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.) or the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.).
+- **(n)**
+  - **(1)** A dependent of a member described in paragraph (2) shall be eligible to attend a school established under this section at the military installation that is the permanent station of such member and such dependent shall automatically be granted enrollment at such school at the request of such member if there is sufficient space in the school to accommodate the dependent. In the event there is not sufficient space available at such school at the time the dependent seeks to enroll, the dependent shall be placed on a wait-list for enrollment in the school.
+  - **(2)** A member described in this paragraph is a member of a reserve component performing active service pursuant to an order for accompanied permanent change of station.

@@ -3,9 +3,9 @@ title: "Section 526 - Authorized strength: general officers and flag officers on
 usc_title: 10
 usc_section: "526"
 chapter: 32
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 526"
-generated_at: "2026-03-30T02:50:18.497Z"
+generated_at: "2026-03-30T02:53:38.065Z"
 ---
 
 # § 526. Authorized strength: general officers and flag officers on active duty
@@ -13,9 +13,9 @@ generated_at: "2026-03-30T02:50:18.497Z"
 - **(a)** The number of general officers on active duty in the Army, Air Force, Marine Corps, and Space Force, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
   - **(1)** For the Army, 219.
   - **(2)** For the Navy, 150.
-  - **(3)** For the Air Force, 171.
+  - **(3)** For the Air Force, 168.
   - **(4)** For the Marine Corps, 64.
-  - **(5)** For the Space Force, 21.
+  - **(5)** For the Space Force, 24.
 - **(b)**
   - **(1)** The Secretary of Defense may designate up to 232 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a).
   - **(2)** Unless the Secretary of Defense determines that a lower number is in the best interest of the Department of Defense, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
@@ -25,19 +25,21 @@ generated_at: "2026-03-30T02:50:18.497Z"
     - **(D)** For the Marine Corps, 17.
     - **(E)** For the Space Force, 6.
 - **(c)** The limitations of this section do not apply to the following:
-  - **(1)** A general or flag officer of a reserve component who is on active duty—
+  - **(1)** A general or flag officer of a reserve component or of the Space Force who is on active duty—
     - **(A)** for training; or
     - **(B)** under a call or order specifying a period of less than 180 days.
   - **(2)**
     - **(A)** A general or flag officer of a reserve component who is authorized by the Secretary of the military department concerned to serve on active duty for a period of at least 180 days and not longer than 365 days.
     - **(B)** The Secretary of the military department concerned may authorize a number, determined under subparagraph (C), of officers in the reserve component of each armed force under the jurisdiction of that Secretary to serve as described in subparagraph (A).
     - **(C)** Each number described in subparagraph (B) may not exceed 10 percent of the number of general or flag officers, as the case may be, authorized to serve in the armed force concerned under section 12004 of this title . In determining a number under this subparagraph, any fraction shall be rounded down to the next whole number that is greater than zero.
+    - **(D)** The Secretary of the Air Force may authorize not more than two of the general officers authorized to serve in the Space Force under section 20110 of this title to serve on active service for a period of at least 180 days and not longer than 365 days.
   - **(3)**
-    - **(A)** A general or flag officer of a reserve component who is on active duty for a period longer than 365 days and not longer than three years.
+    - **(A)** A general or flag officer of a reserve component, or a Space Force general officer in a Space Force active status not on sustained duty, who is on active duty for a period longer than 365 days and not longer than three years.
     - **(B)** The number of officers described in subparagraph (A) who do not serve in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed five per armed force, unless authorized by the Secretary of Defense.
 - **(d)** The limitations of this section do not apply to—
-  - **(1)** an officer of an armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer; or
-  - **(2)** an officer of an armed force who has been relieved from a position designated under section 601(a) of this title or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
+  - **(1)** an officer of an armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer;
+  - **(2)** an officer of an armed force who has been relieved from a position designated under section 601(a) of this title or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first; or
+  - **(3)** a Space Force officer in the grade of brigadier general or above who is pending transition off of sustained duty orders, but only during the 60-day period preceding the end date of such orders.
 - **(e)**
   - **(1)** The limitations in subsection (a) do not apply to a general officer or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
   - **(2)** A general officer or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.

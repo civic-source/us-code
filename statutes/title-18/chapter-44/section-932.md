@@ -3,9 +3,9 @@ title: "Section 932 - Straw purchasing of firearms"
 usc_title: 18
 usc_section: "932"
 chapter: 44
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 932"
-generated_at: "2026-03-30T02:50:34.943Z"
+generated_at: "2026-03-30T02:54:16.476Z"
 ---
 
 # § 932. Straw purchasing of firearms

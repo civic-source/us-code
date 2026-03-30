@@ -3,9 +3,9 @@ title: "Section 501 - Services for executive agencies"
 usc_title: 40
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "40 U.S.C. § 501"
-generated_at: "2026-03-30T02:51:19.756Z"
+generated_at: "2026-03-30T02:55:43.372Z"
 ---
 
 # § 501. Services for executive agencies

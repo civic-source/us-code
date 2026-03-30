@@ -1,14 +1,12 @@
 ---
-title: "Section 4237 - Termination of authority"
+title: "Section 4237 - Transferred"
 usc_title: 33
 usc_section: "4237"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 4237"
-generated_at: "2026-03-30T02:51:10.438Z"
+generated_at: "2026-03-30T02:55:41.147Z"
 ---
 
-# § 4237. Termination of authority
-
-The prize program will terminate after 5 prize competition cycles have been completed.
+# §§ 4231 to 4237. Transferred
 

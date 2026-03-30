@@ -3,9 +3,9 @@ title: "Section 745 - Repealed. Pub. L. 102–190, div. A, title XI, § 1114(b) 
 usc_title: 10
 usc_section: "745"
 chapter: 43
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 745"
-generated_at: "2026-03-30T02:50:18.508Z"
+generated_at: "2026-03-30T02:53:38.076Z"
 ---
 
 # [§ 745. Repealed. Pub. L. 102–190, div. A, title XI, § 1114(b) , Dec. 5, 1991 , 105 Stat. 1502 ]

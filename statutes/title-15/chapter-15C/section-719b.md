@@ -3,9 +3,9 @@ title: "Section 719b - Definitions"
 usc_title: 15
 usc_section: "719b"
 chapter: 15
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 719b"
-generated_at: "2026-03-30T02:50:29.917Z"
+generated_at: "2026-03-30T02:54:08.119Z"
 ---
 
 # § 719b. Definitions

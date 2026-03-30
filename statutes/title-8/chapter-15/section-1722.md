@@ -3,9 +3,9 @@ title: "Section 1722 - Interoperable law enforcement and intelligence data syste
 usc_title: 8
 usc_section: "1722"
 chapter: 15
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1722"
-generated_at: "2026-03-30T02:50:07.450Z"
+generated_at: "2026-03-30T02:53:10.507Z"
 ---
 
 # § 1722. Interoperable law enforcement and intelligence data system with name-matching capacity and training

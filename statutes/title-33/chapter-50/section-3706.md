@@ -3,9 +3,9 @@ title: "Section 3706 - NSF ocean acidification activities"
 usc_title: 33
 usc_section: "3706"
 chapter: 50
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 3706"
-generated_at: "2026-03-30T02:51:10.432Z"
+generated_at: "2026-03-30T02:55:41.144Z"
 ---
 
 # § 3706. NSF ocean acidification activities

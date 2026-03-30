@@ -3,9 +3,9 @@ title: "Section 404 - High-visibility enforcement program"
 usc_title: 23
 usc_section: "404"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 404"
-generated_at: "2026-03-30T02:50:46.988Z"
+generated_at: "2026-03-30T02:55:12.570Z"
 ---
 
 # § 404. High-visibility enforcement program

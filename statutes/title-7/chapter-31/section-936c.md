@@ -3,9 +3,9 @@ title: "Section 936c - Refinancing and prepayment of FFB loans"
 usc_title: 7
 usc_section: "936c"
 chapter: 31
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 936c"
-generated_at: "2026-03-30T02:50:11.542Z"
+generated_at: "2026-03-30T02:53:42.296Z"
 ---
 
 # § 936c. Refinancing and prepayment of FFB loans

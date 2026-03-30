@@ -3,9 +3,9 @@ title: "Section 70104 - Transportation security incident response"
 usc_title: 46
 usc_section: "70104"
 chapter: 701
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70104"
-generated_at: "2026-03-30T02:52:21.809Z"
+generated_at: "2026-03-30T02:56:15.586Z"
 ---
 
 # § 70104. Transportation security incident response

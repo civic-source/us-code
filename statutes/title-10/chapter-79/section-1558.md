@@ -3,9 +3,9 @@ title: "Section 1558 - Review of actions of selection boards: correction of mili
 usc_title: 10
 usc_section: "1558"
 chapter: 79
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1558"
-generated_at: "2026-03-30T02:50:18.567Z"
+generated_at: "2026-03-30T02:53:38.129Z"
 ---
 
 # § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review
@@ -25,7 +25,7 @@ generated_at: "2026-03-30T02:50:18.567Z"
       - **(iv)** A board for the correction of military records convened under section 1552 of this title .
   - **(3)** The term “involuntarily board-separated” means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, as a result of a recommendation of a selection board.
 - **(c)**
-  - **(1)** The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component, or the Space Force,. 1 1 So in original.
+  - **(1)** The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component, or the Space Force.
   - **(2)**
     - **(A)** A person referred to in paragraph (1) shall, with that person’s consent, be restored to the same status, rights, and entitlements (less appropriate offsets against back pay and allowances) in that person’s armed force as the person would have had if the person had not been selected to be involuntarily board-separated as a result of an action the record of which is corrected under subsection (a). An action under this subparagraph is subject to subparagraph (B).
     - **(B)** Nothing in subparagraph (A) may be construed to permit a person to be on active duty or in an active status in a reserve component, or the Space Force, after the date on which the person would have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, if the person had not been selected to be involuntarily board-separated in an action of a selection board the record of which is corrected under subsection (a).

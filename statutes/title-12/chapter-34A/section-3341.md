@@ -3,9 +3,9 @@ title: "Section 3341 - Functions of Federal financial institutions regulatory ag
 usc_title: 12
 usc_section: "3341"
 chapter: 34
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 3341"
-generated_at: "2026-03-30T02:50:26.500Z"
+generated_at: "2026-03-30T02:53:53.493Z"
 ---
 
 # § 3341. Functions of Federal financial institutions regulatory agencies relating to appraiser qualifications

@@ -3,9 +3,9 @@ title: "Section 257 - Pending collective and representative actions"
 usc_title: 29
 usc_section: "257"
 chapter: 9
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 257"
-generated_at: "2026-03-30T02:50:58.616Z"
+generated_at: "2026-03-30T02:55:18.683Z"
 ---
 
 # § 257. Pending collective and representative actions

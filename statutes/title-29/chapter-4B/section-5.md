@@ -3,9 +3,9 @@ title: "Section 5 - Omitted"
 usc_title: 29
 usc_section: "5"
 chapter: 4
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 5"
-generated_at: "2026-03-30T02:50:58.606Z"
+generated_at: "2026-03-30T02:55:18.674Z"
 ---
 
 # § 49c–5. Omitted

@@ -3,9 +3,9 @@ title: "Section 2430a - Definitions"
 usc_title: 22
 usc_section: "2430a"
 chapter: 32
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2430a"
-generated_at: "2026-03-30T02:50:53.038Z"
+generated_at: "2026-03-30T02:55:05.366Z"
 ---
 
 # § 2430a. Definitions

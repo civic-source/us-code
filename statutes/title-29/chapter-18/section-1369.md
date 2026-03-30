@@ -3,9 +3,9 @@ title: "Section 1369 - Treatment of transactions to evade liability; effect of c
 usc_title: 29
 usc_section: "1369"
 chapter: 18
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1369"
-generated_at: "2026-03-30T02:50:58.675Z"
+generated_at: "2026-03-30T02:55:18.734Z"
 ---
 
 # § 1369. Treatment of transactions to evade liability; effect of corporate reorganization

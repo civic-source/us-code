@@ -3,9 +3,9 @@ title: "Section 3596 - Regulations"
 usc_title: 5
 usc_section: "3596"
 chapter: 35
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 3596"
-generated_at: "2026-03-30T02:49:55.176Z"
+generated_at: "2026-03-30T02:52:56.007Z"
 ---
 
 # § 3596. Regulations

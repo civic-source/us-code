@@ -3,9 +3,9 @@ title: "Section 3125 - Relief for lost, stolen, destroyed, mutilated, or defaced
 usc_title: 31
 usc_section: "3125"
 chapter: 31
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 3125"
-generated_at: "2026-03-30T02:51:12.286Z"
+generated_at: "2026-03-30T02:55:34.054Z"
 ---
 
 # § 3125. Relief for lost, stolen, destroyed, mutilated, or defaced obligations

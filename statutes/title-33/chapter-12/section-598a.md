@@ -3,9 +3,9 @@ title: "Section 598a - Property acquisition"
 usc_title: 33
 usc_section: "598a"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 598a"
-generated_at: "2026-03-30T02:51:10.340Z"
+generated_at: "2026-03-30T02:55:41.064Z"
 ---
 
 # § 598a. Property acquisition

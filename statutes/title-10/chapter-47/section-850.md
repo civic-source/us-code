@@ -3,9 +3,9 @@ title: "Section 850 - Art. 50. Admissibility of sworn testimony from records of 
 usc_title: 10
 usc_section: "850"
 chapter: 47
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 850"
-generated_at: "2026-03-30T02:50:18.514Z"
+generated_at: "2026-03-30T02:53:38.080Z"
 ---
 
 # § 850. Art. 50. Admissibility of sworn testimony from records of courts of inquiry

@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:52:02.661Z"
+generated_at: "2026-03-30T02:56:11.141Z"
 ---
 
 # § 2000cc–5. Definitions

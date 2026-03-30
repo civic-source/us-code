@@ -3,14 +3,14 @@ title: "Section 629 - Removal from a list of officers recommended for promotion"
 usc_title: 10
 usc_section: "629"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 629"
-generated_at: "2026-03-30T02:50:18.503Z"
+generated_at: "2026-03-30T02:53:38.069Z"
 ---
 
 # § 629. Removal from a list of officers recommended for promotion
 
-- **(a)** The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
+- **(a)** The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter. The President shall notify the congressional defense committees not later than 30 days after removing the name of an officer from such list for any reason other than misconduct.
 - **(b)** If, after consideration of a list of officers approved for promotion by the President to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the Senate does not give its advice and consent to the appointment of an officer whose name is on the list, that officer’s name shall be removed from the list.
 - **(c)**
   - **(1)** If an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer’s promotion eligibility period, the officer’s name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.

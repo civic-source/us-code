@@ -3,9 +3,9 @@ title: "Section 5106c - Grants to States for programs relating to investigation 
 usc_title: 42
 usc_section: "5106c"
 chapter: 67
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5106c"
-generated_at: "2026-03-30T02:52:02.778Z"
+generated_at: "2026-03-30T02:56:11.218Z"
 ---
 
 # § 5106c. Grants to States for programs relating to investigation and prosecution of child abuse and neglect cases

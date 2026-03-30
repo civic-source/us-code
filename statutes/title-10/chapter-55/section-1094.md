@@ -3,9 +3,9 @@ title: "Section 1094 - Licensure requirement for health-care professionals"
 usc_title: 10
 usc_section: "1094"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1094"
-generated_at: "2026-03-30T02:50:18.542Z"
+generated_at: "2026-03-30T02:53:38.107Z"
 ---
 
 # § 1094. Licensure requirement for health-care professionals
@@ -33,6 +33,12 @@ generated_at: "2026-03-30T02:50:18.542Z"
     - **(C)** is providing such services under terms and conditions specified by the Secretary (which shall establish the scope of authorized Federal duties for purposes of paragraph (1)).
 - **(e)** In this section:
   - **(1)** The term “license”—
-    - **(A)** means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to provide health care independently as a health-care professional; and
+    - **(A)** means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to provide health care independently as a health-care professional, or the official agency of the government of a partner country; and
     - **(B)** includes, in the case of such care furnished in a foreign country by any person who is not a national of the United States, a grant of permission by an official agency of that foreign country for that person to provide health care independently as a health-care professional.
   - **(2)** The term “health-care professional” means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
+  - **(3)** The term “partner country” means any of the following:
+    - **(A)** Australia.
+    - **(B)** Canada.
+    - **(C)** New Zealand.
+    - **(D)** The United Kingdom.
+    - **(E)** Any other country designated as a partner country by the Secretary of Defense for the purposes of this section.

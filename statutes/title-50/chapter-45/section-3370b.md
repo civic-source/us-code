@@ -3,9 +3,9 @@ title: "Section 3370b - Collaboration between intelligence community and Departm
 usc_title: 50
 usc_section: "3370b"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3370b"
-generated_at: "2026-03-30T02:52:24.523Z"
+generated_at: "2026-03-30T02:56:26.251Z"
 ---
 
 # § 3370b. Collaboration between intelligence community and Department of Commerce to counter foreign commercial threats

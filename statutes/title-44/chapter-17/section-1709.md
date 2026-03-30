@@ -3,9 +3,9 @@ title: "Section 1709 - Blank forms: printing and sale to public"
 usc_title: 44
 usc_section: "1709"
 chapter: 17
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 1709"
-generated_at: "2026-03-30T02:51:32.916Z"
+generated_at: "2026-03-30T02:55:56.291Z"
 ---
 
 # § 1709. Blank forms: printing and sale to public

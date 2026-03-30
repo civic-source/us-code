@@ -3,9 +3,9 @@ title: "Section 1963 - Criminal penalties"
 usc_title: 18
 usc_section: "1963"
 chapter: 96
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1963"
-generated_at: "2026-03-30T02:50:34.961Z"
+generated_at: "2026-03-30T02:54:16.493Z"
 ---
 
 # § 1963. Criminal penalties

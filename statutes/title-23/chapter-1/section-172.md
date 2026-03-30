@@ -3,9 +3,9 @@ title: "Section 172 - Wildlife-vehicle collision reduction and habitat connectiv
 usc_title: 23
 usc_section: "172"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 172"
-generated_at: "2026-03-30T02:50:46.978Z"
+generated_at: "2026-03-30T02:55:12.563Z"
 ---
 
 # § 172. Wildlife-vehicle collision reduction and habitat connectivity improvement

@@ -3,9 +3,9 @@ title: "Section 8062 - United States Navy: composition; functions"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-30T02:50:18.697Z"
+generated_at: "2026-03-30T02:53:38.238Z"
 ---
 
 # § 8062. United States Navy: composition; functions
@@ -18,8 +18,9 @@ generated_at: "2026-03-30T02:50:18.697Z"
   - **(1)** the Navy maintains a minimum of 9 carrier air wings until the earlier of—
     - **(A)** the date on which additional operationally deployable aircraft carriers can fully support a 10th carrier air wing; or
     - **(B)** October 1, 2025 ;
-  - **(2)** after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings; and
-  - **(3)** for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.
+  - **(2)** after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings;
+  - **(3)** for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters; and
+  - **(4)** the Navy prioritizes scheduled maintenance and repair actions to maintain the minimum number of available amphibious warfare ships to meet operational requirements.
 - **(f)**
   - **(1)**
     - **(A)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023 and ending on September 30, 2027 , the Secretary of the Navy may not—

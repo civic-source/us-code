@@ -3,9 +3,9 @@ title: "Section 1811 - Fee relating to renewal and extension of employment autho
 usc_title: 8
 usc_section: "1811"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1811"
-generated_at: "2026-03-30T02:50:07.454Z"
+generated_at: "2026-03-30T02:53:10.509Z"
 ---
 
 # § 1811. Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status

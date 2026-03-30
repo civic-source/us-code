@@ -3,9 +3,9 @@ title: "Section 4402 - Requirement to address modular open system approach in pr
 usc_title: 10
 usc_section: "4402"
 chapter: 327
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 4402"
-generated_at: "2026-03-30T02:50:18.671Z"
+generated_at: "2026-03-30T02:53:38.207Z"
 ---
 
 # § 4402. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design
@@ -25,7 +25,7 @@ generated_at: "2026-03-30T02:50:18.671Z"
 - **(e)** A major defense acquisition program may not receive Milestone B approval under section 4252 of this title until the milestone decision authority determines in writing—
   - **(1)** in the case of a program that uses a modular open system approach, that—
     - **(A)** the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;
-    - **(B)** such major system interfaces are consistent with the widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces; and
+    - **(B)** such major system interfaces are consistent with the the 1 1 So in original. requirements of section 4401(a) of this title ; and
     - **(C)** the Government has arranged to obtain appropriate and necessary intellectual property rights with respect to such major system interfaces upon completion of the development of the major system platform; or
   - **(2)** in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
 - **(f)** The Secretaries of the military departments shall issue guidance to implement the requirements of this section.

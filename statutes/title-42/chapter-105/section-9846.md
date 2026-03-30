@@ -3,9 +3,9 @@ title: "Section 9846 - Reports"
 usc_title: 42
 usc_section: "9846"
 chapter: 105
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 9846"
-generated_at: "2026-03-30T02:52:03.002Z"
+generated_at: "2026-03-30T02:56:11.372Z"
 ---
 
 # § 9846. Reports

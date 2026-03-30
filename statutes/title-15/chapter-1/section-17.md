@@ -3,9 +3,9 @@ title: "Section 17 - Antitrust laws not applicable to labor organizations"
 usc_title: 15
 usc_section: "17"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 17"
-generated_at: "2026-03-30T02:50:29.791Z"
+generated_at: "2026-03-30T02:54:08.021Z"
 ---
 
 # § 17. Antitrust laws not applicable to labor organizations

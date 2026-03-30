@@ -3,9 +3,9 @@ title: "Section 2415 - Federal facilities, property, and equipment; leasing of t
 usc_title: 25
 usc_section: "2415"
 chapter: 26
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 2415"
-generated_at: "2026-03-30T02:50:48.175Z"
+generated_at: "2026-03-30T02:54:52.840Z"
 ---
 
 # § 2415. Federal facilities, property, and equipment; leasing of tribal property

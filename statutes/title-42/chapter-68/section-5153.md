@@ -3,9 +3,9 @@ title: "Section 5153 - Priority to certain applications for public facility and 
 usc_title: 42
 usc_section: "5153"
 chapter: 68
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5153"
-generated_at: "2026-03-30T02:52:02.783Z"
+generated_at: "2026-03-30T02:56:11.221Z"
 ---
 
 # § 5153. Priority to certain applications for public facility and public housing assistance

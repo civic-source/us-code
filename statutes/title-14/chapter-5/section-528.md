@@ -3,14 +3,14 @@ title: "Section 528 - Protecting against unmanned aircraft"
 usc_title: 14
 usc_section: "528"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 528"
-generated_at: "2026-03-30T02:50:21.608Z"
+generated_at: "2026-03-30T02:53:51.489Z"
 ---
 
 # § 528. Protecting against unmanned aircraft
 
-For the purposes of section 210G(k)(3)(C)(iv) of the Homeland Security Act of 2002, the missions authorized to be performed by the United States Coast Guard shall be those related to—
+For the purposes of section 210G(k)(3)(C)(iv) 1 1 See References in Text note below. of the Homeland Security Act of 2002, the missions authorized to be performed by the United States Coast Guard shall be those related to—
 
   - **(1)** functions of the U.S. Coast Guard relating to security or protection of facilities and assets assessed to be high-risk and a potential target for unlawful unmanned aircraft activity, including the security and protection of—
     - **(A)** a facility, including a facility that is under the administrative control of the Commandant; and
@@ -24,4 +24,4 @@ For the purposes of section 210G(k)(3)(C)(iv) of the Homeland Security Act of 20
         - **(V)** protection of a National Special Security Event and Special Event Assessment Rating events;
         - **(VI)** air defense of the United States, including air sovereignty, ground-based air defense, and the National Capital Region integrated air defense system; or
         - **(VII)** a search and rescue operation; and
-  - **(2)** missions directed by the Secretary pursuant to 210G(k)(3)(C)(iii) 1 1 So in original. Probably should be preceded by “section”. of the Homeland Security Act of 2002.
+  - **(2)** missions directed by the Secretary pursuant to 2 2 So in original. Probably should be followed by “section”. 210G(k)(3)(C)(iii) 1 of the Homeland Security Act of 2002.

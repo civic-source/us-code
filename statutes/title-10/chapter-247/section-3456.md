@@ -3,21 +3,21 @@ title: "Section 3456 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "3456"
 chapter: 247
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 3456"
-generated_at: "2026-03-30T02:50:18.651Z"
+generated_at: "2026-03-30T02:53:38.192Z"
 ---
 
 # § 3456. Commercial product and commercial service determinations by Department of Defense
 
 - **(a)** The Secretary of Defense shall—
   - **(1)** establish and maintain a centralized capability with necessary expertise and resources to provide assistance to the military departments and Defense Agencies in making commercial product and commercial service determinations, conducting market research, and performing analysis of price reasonableness for the purposes of procurements by the Department of Defense; and
-  - **(2)** provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
+  - **(2)** assist each Secretary of a military department and each head of a Defense Agency with performing market research in accordance with the requirements of section 3453 of this title relating to market research and the determination regarding the non-availability of commercial products or commercial services, and other analysis, used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
 - **(b)**
   - **(1)** In making a determination whether a particular product or service offered by a contractor meets the definition of a commercial product or commercial service, a contracting officer of the Department of Defense may—
     - **(A)** request support from the Director of the Defense Contract Management Agency, the Director of the Defense Contract Audit Agency, or other appropriate experts in the Department to make a determination whether a product or service is a commercial product or commercial service; and
     - **(B)** consider the views of appropriate public and private sector entities.
-  - **(2)** Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
+  - **(2)** Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. The contracting officer shall consider the results in the memorandum of the program manager required under section 3453(d)(1)(B) of this title when developing the memorandum required under this paragraph. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
 - **(c)**
   - **(1)** A contract or subcontract for a product (including a product without a part number or a product with a prior part number that has the same functionality as the product had with the prior part number) or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or commercial service determination with respect to such product or service for purposes of this chapter, including when subject to minor modifications, unless—
     - **(A)** the prior determination was not issued or approved by a contracting officer of the Department of Defense; or

@@ -3,14 +3,14 @@ title: "Section 2164 - Officers considered for removal; retirement or discharge;
 usc_title: 14
 usc_section: "2164"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2164"
-generated_at: "2026-03-30T02:50:21.618Z"
+generated_at: "2026-03-30T02:53:51.498Z"
 ---
 
 # § 2164. Officers considered for removal; retirement or discharge; separation benefits
 
-- **(a)** At any time during proceedings under section 2159 or 2160 of this title, and before the removal of an officer, the Secretary may grant a request—
+- **(a)** At any time during proceedings under section 2159 of this title , and before the removal of an officer, the Secretary may grant a request—
   - **(1)** for voluntary retirement, if the officer is otherwise qualified therefor; or
   - **(2)** for discharge with separation benefits under section 2146(c) of this title .
 - **(b)** Each officer removed from active duty under section 2163 of this title shall—

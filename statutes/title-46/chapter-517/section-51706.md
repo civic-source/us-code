@@ -3,9 +3,9 @@ title: "Section 51706 - Centers of excellence for domestic maritime workforce tr
 usc_title: 46
 usc_section: "51706"
 chapter: 517
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 51706"
-generated_at: "2026-03-30T02:52:21.787Z"
+generated_at: "2026-03-30T02:56:15.571Z"
 ---
 
 # § 51706. Centers of excellence for domestic maritime workforce training and education
@@ -64,4 +64,4 @@ generated_at: "2026-03-30T02:52:21.787Z"
     - **(B)** the coastal, offshore, and inland trade;
     - **(C)** non-commercial maritime activities, including—
       - **(i)** recreational boating; and
-      - **(ii)** oceanographic and limnological research as described in section 2101(24).
+      - **(ii)** oceanographic and limnological research as described in section 2101(26).

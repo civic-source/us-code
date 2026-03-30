@@ -3,9 +3,9 @@ title: "Section 6507 - Authorization of appropriations; Federal financial assist
 usc_title: 42
 usc_section: "6507"
 chapter: 78
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6507"
-generated_at: "2026-03-30T02:52:02.844Z"
+generated_at: "2026-03-30T02:56:11.262Z"
 ---
 
 # § 6507. Authorization of appropriations; Federal financial assistance for increased municipal services and facilities in communities located on or near reserve resulting from authorized exploration and study activities

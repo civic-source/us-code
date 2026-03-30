@@ -3,14 +3,14 @@ title: "Section 2656f - Annual country reports on terrorism"
 usc_title: 22
 usc_section: "2656f"
 chapter: 38
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2656f"
-generated_at: "2026-03-30T02:50:53.048Z"
+generated_at: "2026-03-30T02:55:05.375Z"
 ---
 
 # § 2656f. Annual country reports on terrorism
 
-- **(a)** The Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by April 30 of each year, a full and complete report providing—
+- **(a)** The Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by October 31 of each year, a full and complete report providing—
   - **(1)**
     - **(A)** detailed assessments with respect to each foreign country—
       - **(i)** in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;

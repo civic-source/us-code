@@ -3,9 +3,9 @@ title: "Section 928a - Art. 128a. Maiming"
 usc_title: 10
 usc_section: "928a"
 chapter: 47
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 928a"
-generated_at: "2026-03-30T02:50:18.519Z"
+generated_at: "2026-03-30T02:53:38.087Z"
 ---
 
 # § 928a. Art. 128a. Maiming

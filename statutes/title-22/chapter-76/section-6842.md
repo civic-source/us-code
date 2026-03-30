@@ -3,9 +3,9 @@ title: "Section 6842 - Certification requirement"
 usc_title: 22
 usc_section: "6842"
 chapter: 76
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6842"
-generated_at: "2026-03-30T02:50:53.119Z"
+generated_at: "2026-03-30T02:55:05.433Z"
 ---
 
 # § 6842. Certification requirement

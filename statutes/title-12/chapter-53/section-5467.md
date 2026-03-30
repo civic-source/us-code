@@ -3,9 +3,9 @@ title: "Section 5467 - Examination of and enforcement actions against financial 
 usc_title: 12
 usc_section: "5467"
 chapter: 53
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5467"
-generated_at: "2026-03-30T02:50:26.561Z"
+generated_at: "2026-03-30T02:53:53.540Z"
 ---
 
 # § 5467. Examination of and enforcement actions against financial institutions subject to standards for designated activities

@@ -3,9 +3,9 @@ title: "Section 2302 - Definitions"
 usc_title: 21
 usc_section: "2302"
 chapter: 28
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 2302"
-generated_at: "2026-03-30T02:50:49.579Z"
+generated_at: "2026-03-30T02:54:54.311Z"
 ---
 
 # § 2302. Definitions
@@ -18,7 +18,15 @@ In this chapter:
     - **(B)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, the Committee on Homeland Security, the Committee on the Judiciary, the Committee on Oversight and Reform, the Permanent Select Committee on Intelligence, and the Speaker and the minority leader of the House of Representatives.
   - **(3)** The terms “controlled substance”, “listed chemical”, “narcotic drug”, and “opioid” have the meanings given those terms in section 802 of this title .
   - **(4)** The term “entity” means a partnership, joint venture, association, corporation, organization, network, group, or subgroup, or any form of business collaboration.
-  - **(5)** The term “foreign opioid trafficker” means any foreign person that the President determines plays a significant role in opioid trafficking.
+  - **(5)** The term “foreign opioid trafficker” means— 1 1 So in original.
+    - **(A)** means 1 any foreign person that the President determines plays a significant role in opioid trafficking; and
+    - **(B)** may 1 include—
+      - **(i)** any entity of the People’s Republic of China that the President determines—
+        - **(I)** produces, manufactures, distributes, sells, or knowingly finances or transports any goods described in clause (i) or (ii) of paragraph (8)(A); and
+        - **(II)** demonstrates a pattern of failing to take credible steps (including implementing appropriate know-your-customer procedures or cooperating with United States counternarcotics efforts) to detect or prevent opioid trafficking; and
+      - **(ii)** any senior official of the Government of the People’s Republic of China that—
+        - **(I)** has significant regulatory or law enforcement responsibilities with respect to the activities of an entity described in clause (i); and
+        - **(II)** aids and abets opioid trafficking.
   - **(6)** The term “foreign person”—
     - **(A)** means—
       - **(i)** any citizen or national of a foreign country; or

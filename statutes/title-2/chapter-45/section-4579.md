@@ -3,9 +3,9 @@ title: "Section 4579 - Student loan repayment program for Senate employees"
 usc_title: 2
 usc_section: "4579"
 chapter: 45
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 4579"
-generated_at: "2026-03-30T02:50:03.289Z"
+generated_at: "2026-03-30T02:53:04.833Z"
 ---
 
 # § 4579. Student loan repayment program for Senate employees

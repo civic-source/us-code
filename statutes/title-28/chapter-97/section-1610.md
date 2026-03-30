@@ -3,9 +3,9 @@ title: "Section 1610 - Exceptions to the immunity from attachment or execution"
 usc_title: 28
 usc_section: "1610"
 chapter: 97
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1610"
-generated_at: "2026-03-30T02:50:56.777Z"
+generated_at: "2026-03-30T02:55:30.142Z"
 ---
 
 # § 1610. Exceptions to the immunity from attachment or execution

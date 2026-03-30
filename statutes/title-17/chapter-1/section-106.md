@@ -3,9 +3,9 @@ title: "Section 106 - Exclusive rights in copyrighted works"
 usc_title: 17
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "17 U.S.C. § 106"
-generated_at: "2026-03-30T02:50:33.451Z"
+generated_at: "2026-03-30T02:54:15.344Z"
 ---
 
 # § 106. Exclusive rights in copyrighted works

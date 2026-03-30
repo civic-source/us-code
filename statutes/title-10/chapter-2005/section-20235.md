@@ -3,9 +3,9 @@ title: "Section 20235 - Space Force officer list"
 usc_title: 10
 usc_section: "20235"
 chapter: 2005
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 20235"
-generated_at: "2026-03-30T02:50:18.751Z"
+generated_at: "2026-03-30T02:53:38.281Z"
 ---
 
 # § 20235. Space Force officer list

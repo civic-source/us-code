@@ -3,9 +3,9 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-30T02:51:10.398Z"
+generated_at: "2026-03-30T02:55:41.115Z"
 ---
 
 # § 2238. Authorization of appropriations
@@ -78,7 +78,7 @@ generated_at: "2026-03-30T02:51:10.398Z"
       - **(xi)** public health and safety related equipment for responding to coastal and inland emergencies;
       - **(xii)** recreation purposes; and
       - **(xiii)** other authorized purposes.
-    - **(C)** In carrying out paragraph (1), the Secretary shall identify potential opportunities for the beneficial use of dredged materials obtained from harbors and inland harbors referred to in subsection (a)(2), including projects eligible under section 1122 of the Water Resources Development Act of 2016 ( 130 Stat. 1645 ; 33 U.S.C. 2326 note).
+    - **(C)** In carrying out paragraph (1), the Secretary shall identify potential opportunities for the beneficial use of dredged materials obtained from harbors and inland harbors referred to in subsection (a)(2), including projects eligible under section 1122 of the Water Resources Development Act of 2016 ( 130 Stat. 1645 ; 33 U.S.C. 2326 note 1 1 See References in Text note below. ).
 - **(f)** In this section:
   - **(1)** The term “constructed width and depth” means the width and depth to which a project has been constructed, which may not exceed the authorized width and depth of the project.
   - **(2)** The term “emerging harbor” means a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.

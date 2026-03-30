@@ -3,9 +3,9 @@ title: "Section 15905 - Royalty relief for deep water production"
 usc_title: 42
 usc_section: "15905"
 chapter: 149
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 15905"
-generated_at: "2026-03-30T02:52:03.130Z"
+generated_at: "2026-03-30T02:56:11.462Z"
 ---
 
 # § 15905. Royalty relief for deep water production

@@ -3,9 +3,9 @@ title: "Section 2003 - Congressional policy and declaration of purpose"
 usc_title: 16
 usc_section: "2003"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 2003"
-generated_at: "2026-03-30T02:50:43.232Z"
+generated_at: "2026-03-30T02:54:22.996Z"
 ---
 
 # § 2003. Congressional policy and declaration of purpose

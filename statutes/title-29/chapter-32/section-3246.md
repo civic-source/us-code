@@ -3,9 +3,9 @@ title: "Section 3246 - Administrative adjudication"
 usc_title: 29
 usc_section: "3246"
 chapter: 32
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 3246"
-generated_at: "2026-03-30T02:50:58.705Z"
+generated_at: "2026-03-30T02:55:18.760Z"
 ---
 
 # § 3246. Administrative adjudication

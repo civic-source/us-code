@@ -3,9 +3,9 @@ title: "Section 1233 - Objectives of fund"
 usc_title: 30
 usc_section: "1233"
 chapter: 25
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1233"
-generated_at: "2026-03-30T02:50:55.754Z"
+generated_at: "2026-03-30T02:55:29.398Z"
 ---
 
 # § 1233. Objectives of fund

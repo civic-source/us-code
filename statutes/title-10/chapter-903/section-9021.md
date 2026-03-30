@@ -3,9 +3,9 @@ title: "Section 9021 - Space Acquisition Council"
 usc_title: 10
 usc_section: "9021"
 chapter: 903
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9021"
-generated_at: "2026-03-30T02:50:18.717Z"
+generated_at: "2026-03-30T02:53:38.255Z"
 ---
 
 # § 9021. Space Acquisition Council

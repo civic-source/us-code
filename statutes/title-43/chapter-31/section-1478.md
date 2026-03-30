@@ -3,9 +3,9 @@ title: "Section 1478 - Appraisal and valuation services for real property"
 usc_title: 43
 usc_section: "1478"
 chapter: 31
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1478"
-generated_at: "2026-03-30T02:51:38.308Z"
+generated_at: "2026-03-30T02:55:57.475Z"
 ---
 
 # § 1478. Appraisal and valuation services for real property

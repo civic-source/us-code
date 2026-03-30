@@ -3,9 +3,9 @@ title: "Section 235 - Coordination of information and information technology"
 usc_title: 6
 usc_section: "235"
 chapter: 1
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 235"
-generated_at: "2026-03-30T02:50:05.815Z"
+generated_at: "2026-03-30T02:53:09.453Z"
 ---
 
 # § 235. Coordination of information and information technology

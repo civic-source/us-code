@@ -3,9 +3,9 @@ title: "Section 806a - Art. 6a. Investigation and disposition of matters pertain
 usc_title: 10
 usc_section: "806a"
 chapter: 47
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 806a"
-generated_at: "2026-03-30T02:50:18.509Z"
+generated_at: "2026-03-30T02:53:38.077Z"
 ---
 
 # § 806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges

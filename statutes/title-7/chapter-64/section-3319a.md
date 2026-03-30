@@ -3,9 +3,9 @@ title: "Section 3319a - Cost-reimbursable agreements"
 usc_title: 7
 usc_section: "3319a"
 chapter: 64
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3319a"
-generated_at: "2026-03-30T02:50:11.681Z"
+generated_at: "2026-03-30T02:53:42.401Z"
 ---
 
 # § 3319a. Cost-reimbursable agreements

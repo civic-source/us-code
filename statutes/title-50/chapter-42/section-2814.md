@@ -1,24 +1,12 @@
 ---
-title: "Section 2814 - Department of Energy energy parks program"
+title: "Section 2814 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(7) , Dec. 18, 2025 , 139 Stat. 1459"
 usc_title: 50
 usc_section: "2814"
 chapter: 42
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2814"
-generated_at: "2026-03-30T02:52:24.491Z"
+generated_at: "2026-03-30T02:56:26.226Z"
 ---
 
-# § 2814. Department of Energy energy parks program
+# § 2814. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(7) , Dec. 18, 2025 , 139 Stat. 1459
 
-- **(a)** The Secretary of Energy may establish a program to permit the establishment of energy parks on former defense nuclear facilities.
-- **(b)** The objectives for establishing energy parks pursuant to subsection (a) are the following:
-  - **(1)** To provide locations to carry out a broad range of projects relating to the development and deployment of energy technologies and related advanced manufacturing technologies.
-  - **(2)** To provide locations for the implementation of pilot programs and demonstration projects for new and developing energy technologies and related advanced manufacturing technologies.
-  - **(3)** To set a national example for the development and deployment of energy technologies and related advanced manufacturing technologies in a manner that will promote energy security, energy sector employment, and energy independence.
-  - **(4)** To create a business environment that encourages collaboration and interaction between the public and private sectors.
-- **(c)** In establishing an energy park pursuant to subsection (a), the Secretary shall consult with—
-  - **(1)** the local government with jurisdiction over the land on which the energy park will be located;
-  - **(2)** the local governments of adjacent areas; and
-  - **(3)** any community reuse organization recognized by the Secretary at the former defense nuclear facility on which the energy park will be located.
-- **(d)** Not later than 120 days after January 7, 2011 , the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of the program under subsection (a). The report shall include such recommendations for additional legislative actions as the Secretary considers appropriate to facilitate the development of energy parks on former defense nuclear facilities.
-- **(e)** In this section, the term “defense nuclear facility” has the meaning given the term “Department of Energy defense nuclear facility” in section 2286g of title 42 .

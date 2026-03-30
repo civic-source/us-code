@@ -3,9 +3,9 @@ title: "Section 2870 - Repealed. Pub. L. 116–283, div. A, title VIII, § 818(a
 usc_title: 10
 usc_section: "2870"
 chapter: 169
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2870"
-generated_at: "2026-03-30T02:50:18.637Z"
+generated_at: "2026-03-30T02:53:38.181Z"
 ---
 
 # [§ 2870. Repealed. Pub. L. 116–283, div. A, title VIII, § 818(a) , Jan. 1, 2021 , 134 Stat. 3751 ]

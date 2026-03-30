@@ -3,9 +3,9 @@ title: "Section 222d - Annual report on industrial base constraints for munition
 usc_title: 10
 usc_section: "222d"
 chapter: 9
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 222d"
-generated_at: "2026-03-30T02:50:18.477Z"
+generated_at: "2026-03-30T02:53:38.047Z"
 ---
 
 # § 222d. Annual report on industrial base constraints for munitions
@@ -31,4 +31,4 @@ generated_at: "2026-03-30T02:50:18.477Z"
   - **(10)** A list of each contract for a munition with a priority rating of “critical to national defense” (commonly referred to as a “DO-rated order”) or a priority rating of “highest national defense urgency” (commonly referred to as a “DX-rated order”) in the Defense Priorities and Allocation System pursuant to part 700 of title 15, Code of Federal Regulations (or any successor regulation).
   - **(11)** A prioritized list of munitions judged to have high value for export for which additional investments would be necessary to enable export, including a description of such investments required.
   - **(12)** A list of munitions subject to the requirements of chapter 2 of the Arms Export Control Act ( 22 U.S.C. 2761 et seq.) relating to foreign military sales that are anticipated to be exported based on developments in the conflict in Ukraine.
-- **(c)** In this section, the term “munition” has the meaning given by the Under Secretary of Defense for Acquisition.
+- **(c)** In this section, the term “munition” has the meaning given that term by the Under Secretary of Defense for Acquisition and Sustainment.

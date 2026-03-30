@@ -3,9 +3,9 @@ title: "Section 273 - Omitted"
 usc_title: 45
 usc_section: "273"
 chapter: 10
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "45 U.S.C. § 273"
-generated_at: "2026-03-30T02:51:35.191Z"
+generated_at: "2026-03-30T02:55:56.548Z"
 ---
 
 # §§ 261 to 273. Omitted

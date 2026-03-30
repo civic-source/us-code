@@ -1,18 +1,12 @@
 ---
-title: "Section 2758 - Improvements to cost estimates informing analyses of alternatives"
+title: "Section 2758 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
 usc_title: 50
 usc_section: "2758"
 chapter: 42
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2758"
-generated_at: "2026-03-30T02:52:24.487Z"
+generated_at: "2026-03-30T02:56:26.226Z"
 ---
 
-# § 2758. Improvements to cost estimates informing analyses of alternatives
+# §§ 2744 to 2758. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
 
-- **(a)** The Administrator shall ensure that any cost estimate used in an analysis of alternatives for a project carried out using funds authorized by a DOE national security authorization is designed to fully satisfy the requirements outlined in the mission needs statement approved at critical decision 0 in the acquisition process, as set forth in Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets) or a successor order.
-- **(b)** In the case of a project the total estimated cost of which exceeds $500,000,000 and that has not reached critical decision 1 in the acquisition process, the Administrator may use funds authorized by a DOE national security authorization for project engineering and design to begin the development of a conceptual design to facilitate the development of a cost estimate for the project during the analysis of alternatives for the project if—
-  - **(1)** the Administrator—
-    - **(A)** determines that such use of funds would improve the quality of the cost estimate for the project; and
-    - **(B)** notifies the congressional defense committees of that determination; and
-  - **(2)** a period of 15 days has elapsed after the date on which such committees receive the notification.

@@ -3,9 +3,9 @@ title: "Section 6505 - Compliance requirements"
 usc_title: 7
 usc_section: "6505"
 chapter: 94
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6505"
-generated_at: "2026-03-30T02:50:11.713Z"
+generated_at: "2026-03-30T02:53:42.431Z"
 ---
 
 # § 6505. Compliance requirements

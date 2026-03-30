@@ -3,9 +3,9 @@ title: "Section 2734a - Property loss; personal injury or death: incident to non
 usc_title: 10
 usc_section: "2734a"
 chapter: 163
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2734a"
-generated_at: "2026-03-30T02:50:18.629Z"
+generated_at: "2026-03-30T02:53:38.174Z"
 ---
 
 # § 2734a. Property loss; personal injury or death: incident to noncombat activities of armed forces in foreign countries; international agreements

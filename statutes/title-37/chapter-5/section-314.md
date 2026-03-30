@@ -3,9 +3,9 @@ title: "Section 314 - Special pay or bonus: qualified members extending duty at 
 usc_title: 37
 usc_section: "314"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 314"
-generated_at: "2026-03-30T02:51:14.766Z"
+generated_at: "2026-03-30T02:55:44.052Z"
 ---
 
 # § 314. Special pay or bonus: qualified members extending duty at designated locations overseas

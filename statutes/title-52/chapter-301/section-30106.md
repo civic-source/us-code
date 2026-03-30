@@ -3,9 +3,9 @@ title: "Section 30106 - Federal Election Commission"
 usc_title: 52
 usc_section: "30106"
 chapter: 301
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "52 U.S.C. § 30106"
-generated_at: "2026-03-30T02:52:29.103Z"
+generated_at: "2026-03-30T02:56:30.170Z"
 ---
 
 # § 30106. Federal Election Commission

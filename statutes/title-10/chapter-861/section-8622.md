@@ -3,9 +3,9 @@ title: "Section 8622 - Naval Historical Center Fund: references to Fund"
 usc_title: 10
 usc_section: "8622"
 chapter: 861
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8622"
-generated_at: "2026-03-30T02:50:18.707Z"
+generated_at: "2026-03-30T02:53:38.246Z"
 ---
 
 # § 8622. Naval Historical Center Fund: references to Fund

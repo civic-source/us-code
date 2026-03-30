@@ -3,9 +3,9 @@ title: "Section 40726 - Allowances for junior competitors"
 usc_title: 36
 usc_section: "40726"
 chapter: 407
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 40726"
-generated_at: "2026-03-30T02:51:20.882Z"
+generated_at: "2026-03-30T02:55:44.696Z"
 ---
 
 # § 40726. Allowances for junior competitors

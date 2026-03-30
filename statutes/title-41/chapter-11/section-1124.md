@@ -3,9 +3,9 @@ title: "Section 1124 - Tests of innovative procurement methods and procedures"
 usc_title: 41
 usc_section: "1124"
 chapter: 11
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "41 U.S.C. § 1124"
-generated_at: "2026-03-30T02:51:36.385Z"
+generated_at: "2026-03-30T02:55:55.799Z"
 ---
 
 # § 1124. Tests of innovative procurement methods and procedures

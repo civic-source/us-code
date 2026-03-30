@@ -3,9 +3,9 @@ title: "Section 539a - Mining and mineral leasing on certain national forest lan
 usc_title: 16
 usc_section: "539a"
 chapter: 2
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 539a"
-generated_at: "2026-03-30T02:50:43.082Z"
+generated_at: "2026-03-30T02:54:22.862Z"
 ---
 
 # § 539a. Mining and mineral leasing on certain national forest lands

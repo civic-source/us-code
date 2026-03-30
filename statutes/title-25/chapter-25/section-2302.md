@@ -3,9 +3,9 @@ title: "Section 2302 - Payment of claims"
 usc_title: 25
 usc_section: "2302"
 chapter: 25
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 2302"
-generated_at: "2026-03-30T02:50:48.174Z"
+generated_at: "2026-03-30T02:54:52.840Z"
 ---
 
 # § 2302. Payment of claims

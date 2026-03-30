@@ -3,9 +3,9 @@ title: "Section 2701 - Definitions"
 usc_title: 33
 usc_section: "2701"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2701"
-generated_at: "2026-03-30T02:51:10.415Z"
+generated_at: "2026-03-30T02:55:41.129Z"
 ---
 
 # § 2701. Definitions
@@ -75,7 +75,7 @@ For the purposes of this Act, the term—
     - **(D)** In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
     - **(E)** In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ( 33 U.S.C. 1501–152 4), the licensee.
     - **(F)** In the case of a pipeline, any person owning or operating the pipeline.
-    - **(G)** In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,, 1 1 So in original. Second comma probably should not appear. offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+    - **(G)** In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
   - **(33)** “Secretary” means the Secretary of the department in which the Coast Guard is operating;
   - **(34)** “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
     - **(A)** is a vessel of the United States;
@@ -99,9 +99,9 @@ For the purposes of this Act, the term—
       - **(viii)** restructuring, renegotiating, or otherwise agreeing to alter the terms and conditions of the extension of credit or security interest, exercising forbearance;
       - **(ix)** exercising other remedies that may be available under applicable law for the breach of a term or condition of the extension of credit or security agreement; or
       - **(x)** conducting a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
-  - **(39)** “extension of credit” has the meaning provided in section 101(20)(G)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(i) );
-  - **(40)** “financial or administrative function” has the meaning provided in section 101(20)(G)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(ii) );
-  - **(41)** “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(G)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iii) );
-  - **(42)** “lender” has the meaning provided in section 101(20)(G)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iv) );
-  - **(43)** “operational function” has the meaning provided in section 101(20)(G)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(v) ); and
-  - **(44)** “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(vi) ).
+  - **(39)** “extension of credit” has the meaning provided in section 101(20)(H)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(i) ); 1 1 See References in Text note below.
+  - **(40)** “financial or administrative function” has the meaning provided in section 101(20)(H)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(ii) ); 1
+  - **(41)** “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(H)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iii) ); 1
+  - **(42)** “lender” has the meaning provided in section 101(20)(H)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(iv) ); 1
+  - **(43)** “operational function” has the meaning provided in section 101(20)(H)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(v) ); 1 and
+  - **(44)** “security interest” has the meaning provided in ection 101(20)(H)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ( 42 U.S.C. 9601(20)(G)(vi) ). 1

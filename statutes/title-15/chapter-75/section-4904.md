@@ -3,9 +3,9 @@ title: "Section 4904 - Consultation with private sector and government officials
 usc_title: 15
 usc_section: "4904"
 chapter: 75
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 4904"
-generated_at: "2026-03-30T02:50:30.029Z"
+generated_at: "2026-03-30T02:54:08.204Z"
 ---
 
 # § 4904. Consultation with private sector and government officials

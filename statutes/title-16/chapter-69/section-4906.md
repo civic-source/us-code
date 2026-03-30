@@ -3,9 +3,9 @@ title: "Section 4906 - Qualifying facilities"
 usc_title: 16
 usc_section: "4906"
 chapter: 69
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 4906"
-generated_at: "2026-03-30T02:50:43.281Z"
+generated_at: "2026-03-30T02:54:23.048Z"
 ---
 
 # § 4906. Qualifying facilities

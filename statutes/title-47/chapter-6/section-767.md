@@ -3,9 +3,9 @@ title: "Section 767 - Methods to pursue privatization"
 usc_title: 47
 usc_section: "767"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 767"
-generated_at: "2026-03-30T02:52:17.336Z"
+generated_at: "2026-03-30T02:56:24.526Z"
 ---
 
 # § 767. Methods to pursue privatization

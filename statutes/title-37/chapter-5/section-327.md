@@ -3,9 +3,9 @@ title: "Section 327 - Incentive bonus: transfer between armed forces"
 usc_title: 37
 usc_section: "327"
 chapter: 5
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 327"
-generated_at: "2026-03-30T02:51:14.767Z"
+generated_at: "2026-03-30T02:55:44.053Z"
 ---
 
 # § 327. Incentive bonus: transfer between armed forces

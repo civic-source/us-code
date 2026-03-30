@@ -3,14 +3,15 @@ title: "Section 5501 - National missile defense policy"
 usc_title: 10
 usc_section: "5501"
 chapter: 551
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 5501"
-generated_at: "2026-03-30T02:50:18.682Z"
+generated_at: "2026-03-30T02:53:38.217Z"
 ---
 
 # § 5501. National missile defense policy
 
 It is the policy of the United States—
 
-  - **(1)** to research, develop, test, procure, deploy, and sustain, with funding subject to the annual authorization of appropriations for National Missile Defense, systems that provide effective, layered missile defense capabilities to defeat increasingly complex missile threats in all phases of flight; and
-  - **(2)** to rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States.
+  - **(1)** to provide for the common defense of the United States and its citizens by deploying and maintaining a next-generation missile defense shield;
+  - **(2)** to deter and defend the United States, citizens of the United States, and critical infrastructure of the United States, against the threat of foreign attack by increasingly complex ballistic, hypersonic glide, and cruise missiles, and other advanced aerial threats; and
+  - **(3)** to guarantee the viability of an effective nuclear response capability of the United States and to support the continued deterrence of strategic attacks against the homeland of the United States.

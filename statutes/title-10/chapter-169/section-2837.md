@@ -3,9 +3,9 @@ title: "Section 2837 - Housing Requirements and Market Analysis"
 usc_title: 10
 usc_section: "2837"
 chapter: 169
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2837"
-generated_at: "2026-03-30T02:50:18.634Z"
+generated_at: "2026-03-30T02:53:38.179Z"
 ---
 
 # § 2837. Housing Requirements and Market Analysis
@@ -17,4 +17,4 @@ generated_at: "2026-03-30T02:50:18.634Z"
     - **(B)** in locations with housing shortages.
   - **(2)** Paragraph (1) shall not apply to a military department that required an HRMA to be conducted for each military installation not less frequently than once every five years before the date of the enactment of this section.
 - **(c)** The Secretary of Defense shall include with the budget materials for the Department of Defense for fiscal year 2024 and each subsequent fiscal year (as submitted to Congress pursuant to section 1105 of title 31 , United States Code) a list of the military installations for which the Secretary concerned plans to conduct an HRMA during the fiscal year covered by such budget materials.
-- **(d)** The term “Housing Requirements and Market Analysis”or “HRMA” means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total military population of such installation.
+- **(d)** The term “Housing Requirements and Market Analysis”or “HRMA” means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total population of such installation, including members of the armed forces, civilian employees of the Department of Defense, and defense contractors.

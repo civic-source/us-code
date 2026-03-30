@@ -3,9 +3,9 @@ title: "Section 971a - Commissioners"
 usc_title: 16
 usc_section: "971a"
 chapter: 16
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 971a"
-generated_at: "2026-03-30T02:50:43.165Z"
+generated_at: "2026-03-30T02:54:22.936Z"
 ---
 
 # § 971a. Commissioners

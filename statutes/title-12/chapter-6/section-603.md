@@ -3,9 +3,9 @@ title: "Section 603 - Restrictions imposed by Board of Governors of the Federal 
 usc_title: 12
 usc_section: "603"
 chapter: 6
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 603"
-generated_at: "2026-03-30T02:50:26.352Z"
+generated_at: "2026-03-30T02:53:53.384Z"
 ---
 
 # § 603. Restrictions imposed by Board of Governors of the Federal Reserve System on banks purchasing stock in corporations doing foreign business

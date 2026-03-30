@@ -3,9 +3,9 @@ title: "Section 5507 - Officer affidavit; condition to pay"
 usc_title: 5
 usc_section: "5507"
 chapter: 55
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 5507"
-generated_at: "2026-03-30T02:49:55.185Z"
+generated_at: "2026-03-30T02:52:56.017Z"
 ---
 
 # § 5507. Officer affidavit; condition to pay

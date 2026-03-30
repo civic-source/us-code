@@ -3,9 +3,9 @@ title: "Section 1203 - Reentry permit"
 usc_title: 8
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1203"
-generated_at: "2026-03-30T02:50:07.412Z"
+generated_at: "2026-03-30T02:53:10.485Z"
 ---
 
 # § 1203. Reentry permit

@@ -3,9 +3,9 @@ title: "Section 2761 - Oil pollution research and development program"
 usc_title: 33
 usc_section: "2761"
 chapter: 40
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2761"
-generated_at: "2026-03-30T02:51:10.420Z"
+generated_at: "2026-03-30T02:55:41.134Z"
 ---
 
 # § 2761. Oil pollution research and development program
@@ -123,5 +123,5 @@ generated_at: "2026-03-30T02:51:10.420Z"
 - **(f)** In accordance with the research plan submitted under subsection (d), the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
 - **(g)** The Chair shall submit to Congress every 2 years on October 30 a report on the activities carried out under this section in the preceding 2 fiscal years, and on activities proposed to be carried out under this section in the current 2 fiscal year period.
 - **(h)** Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (e)(8). Of such sums—
-  - **(1)** funds authorized to be appropriated to carry out the activities under subsection (c)(4) 1 1 See References in Text note below. shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
-  - **(2)** not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 1 for fiscal years 1992, 1993, 1994, and 1995.
+  - **(1)** funds authorized to be appropriated to carry out the activities under subsection (e)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+  - **(2)** not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 1 1 See References in Text note below. for fiscal years 1992, 1993, 1994, and 1995.

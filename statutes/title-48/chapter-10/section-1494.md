@@ -3,9 +3,9 @@ title: "Section 1494 - Purposes"
 usc_title: 48
 usc_section: "1494"
 chapter: 10
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1494"
-generated_at: "2026-03-30T02:52:10.393Z"
+generated_at: "2026-03-30T02:56:14.587Z"
 ---
 
 # § 1494. Purposes

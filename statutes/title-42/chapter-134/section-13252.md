@@ -3,9 +3,9 @@ title: "Section 13252 - Replacement fuel supply and demand program"
 usc_title: 42
 usc_section: "13252"
 chapter: 134
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 13252"
-generated_at: "2026-03-30T02:52:03.096Z"
+generated_at: "2026-03-30T02:56:11.439Z"
 ---
 
 # § 13252. Replacement fuel supply and demand program

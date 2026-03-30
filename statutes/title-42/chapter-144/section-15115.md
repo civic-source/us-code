@@ -3,9 +3,9 @@ title: "Section 15115 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15115"
 chapter: 144
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 15115"
-generated_at: "2026-03-30T02:52:03.124Z"
+generated_at: "2026-03-30T02:56:11.459Z"
 ---
 
 # § 15115. Authorization of appropriations

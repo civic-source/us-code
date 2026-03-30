@@ -3,9 +3,9 @@ title: "Section 3115b - Tribal forest management demonstration project"
 usc_title: 25
 usc_section: "3115b"
 chapter: 33
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 3115b"
-generated_at: "2026-03-30T02:50:48.186Z"
+generated_at: "2026-03-30T02:54:52.849Z"
 ---
 
 # § 3115b. Tribal forest management demonstration project

@@ -3,9 +3,9 @@ title: "Section 3408 - Non-proliferation of nuclear weapons"
 usc_title: 22
 usc_section: "3408"
 chapter: 49
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3408"
-generated_at: "2026-03-30T02:50:53.072Z"
+generated_at: "2026-03-30T02:55:05.394Z"
 ---
 
 # § 3408. Non-proliferation of nuclear weapons

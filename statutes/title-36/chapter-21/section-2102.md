@@ -3,9 +3,9 @@ title: "Section 2102 - Employment of personnel"
 usc_title: 36
 usc_section: "2102"
 chapter: 21
-current_through: "PL 119-59"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 2102"
-generated_at: "2026-03-30T02:51:20.871Z"
+generated_at: "2026-03-30T02:55:44.690Z"
 ---
 
 # § 2102. Employment of personnel
