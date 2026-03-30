@@ -3,9 +3,9 @@ title: "Section 3157 - Definitions; applicability"
 usc_title: 10
 usc_section: "3157"
 chapter: 209
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 3157"
-generated_at: "2026-03-30T00:36:31.027Z"
+generated_at: "2026-03-30T00:39:26.644Z"
 ---
 
 # § 3157. Definitions; applicability

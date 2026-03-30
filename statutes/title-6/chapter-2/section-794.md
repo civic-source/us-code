@@ -3,9 +3,9 @@ title: "Section 794 - Limitation on length of certain noncompetitive contracts"
 usc_title: 6
 usc_section: "794"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "6 U.S.C. § 794"
-generated_at: "2026-03-30T00:36:21.360Z"
+generated_at: "2026-03-30T00:39:13.563Z"
 ---
 
 # § 794. Limitation on length of certain noncompetitive contracts

@@ -3,9 +3,9 @@ title: "Section 469g - Ice Age National Scientific Reserve; recommendations for 
 usc_title: 16
 usc_section: "469g"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 469g"
-generated_at: "2026-03-30T00:37:02.219Z"
+generated_at: "2026-03-30T00:39:47.480Z"
 ---
 
 # § 469g. Ice Age National Scientific Reserve; recommendations for Federal and State participation in financing public facilities and services

@@ -3,9 +3,9 @@ title: "Section 7385j - Coordination with other Federal radiation compensation l
 usc_title: 42
 usc_section: "7385j"
 chapter: 84
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 7385j"
-generated_at: "2026-03-30T00:38:36.012Z"
+generated_at: "2026-03-30T00:40:57.556Z"
 ---
 
 # § 7385j. Coordination with other Federal radiation compensation laws

@@ -3,9 +3,9 @@ title: "Section 54 - Appropriation of interest"
 usc_title: 20
 usc_section: "54"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 54"
-generated_at: "2026-03-30T00:36:53.597Z"
+generated_at: "2026-03-30T00:39:53.550Z"
 ---
 
 # § 54. Appropriation of interest

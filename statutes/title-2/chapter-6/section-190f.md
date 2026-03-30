@@ -3,9 +3,9 @@ title: "Section 190f - General appropriation bills"
 usc_title: 2
 usc_section: "190f"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 190f"
-generated_at: "2026-03-30T00:36:16.937Z"
+generated_at: "2026-03-30T00:39:10.154Z"
 ---
 
 # § 190f. General appropriation bills

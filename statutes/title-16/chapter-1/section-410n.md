@@ -3,9 +3,9 @@ title: "Section 410n - Drainage of lands; right-of-way"
 usc_title: 16
 usc_section: "410n"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 410n"
-generated_at: "2026-03-30T00:37:02.146Z"
+generated_at: "2026-03-30T00:39:47.410Z"
 ---
 
 # § 410n. Drainage of lands; right-of-way

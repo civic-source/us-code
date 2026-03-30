@@ -3,9 +3,9 @@ title: "Section 824d - Rates and charges; schedules; suspension of new rates; au
 usc_title: 16
 usc_section: "824d"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 824d"
-generated_at: "2026-03-30T00:37:02.270Z"
+generated_at: "2026-03-30T00:39:47.529Z"
 ---
 
 # § 824d. Rates and charges; schedules; suspension of new rates; automatic adjustment clauses

@@ -3,9 +3,9 @@ title: "Section 4710 - Administrative provisions"
 usc_title: 20
 usc_section: "4710"
 chapter: 59
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 4710"
-generated_at: "2026-03-30T00:36:53.703Z"
+generated_at: "2026-03-30T00:39:53.657Z"
 ---
 
 # § 4710. Administrative provisions

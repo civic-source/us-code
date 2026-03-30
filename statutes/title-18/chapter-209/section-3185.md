@@ -3,9 +3,9 @@ title: "Section 3185 - Fugitives from country under control of United States int
 usc_title: 18
 usc_section: "3185"
 chapter: 209
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "18 U.S.C. § 3185"
-generated_at: "2026-03-30T00:36:51.576Z"
+generated_at: "2026-03-30T00:39:48.732Z"
 ---
 
 # § 3185. Fugitives from country under control of United States into the United States

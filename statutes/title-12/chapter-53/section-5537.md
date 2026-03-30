@@ -3,9 +3,9 @@ title: "Section 5537 - Senior investor protections"
 usc_title: 12
 usc_section: "5537"
 chapter: 53
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 5537"
-generated_at: "2026-03-30T00:36:37.627Z"
+generated_at: "2026-03-30T00:39:35.143Z"
 ---
 
 # § 5537. Senior investor protections

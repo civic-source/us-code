@@ -3,9 +3,9 @@ title: "Section 628 - Small covered chemical facilities"
 usc_title: 6
 usc_section: "628"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "6 U.S.C. § 628"
-generated_at: "2026-03-30T00:36:21.350Z"
+generated_at: "2026-03-30T00:39:13.553Z"
 ---
 
 # § 628. Small covered chemical facilities

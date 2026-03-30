@@ -3,9 +3,9 @@ title: "Section 3094 - Funding of intelligence activities"
 usc_title: 50
 usc_section: "3094"
 chapter: 44
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3094"
-generated_at: "2026-03-30T00:38:42.518Z"
+generated_at: "2026-03-30T00:41:02.182Z"
 ---
 
 # § 3094. Funding of intelligence activities

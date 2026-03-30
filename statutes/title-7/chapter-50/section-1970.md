@@ -3,9 +3,9 @@ title: "Section 1970 - Eligibility for assistance based on production loss"
 usc_title: 7
 usc_section: "1970"
 chapter: 50
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 1970"
-generated_at: "2026-03-30T00:36:25.718Z"
+generated_at: "2026-03-30T00:39:17.608Z"
 ---
 
 # § 1970. Eligibility for assistance based on production loss

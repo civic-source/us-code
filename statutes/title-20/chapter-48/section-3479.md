@@ -3,9 +3,9 @@ title: "Section 3479 - Use of facilities"
 usc_title: 20
 usc_section: "3479"
 chapter: 48
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 3479"
-generated_at: "2026-03-30T00:36:53.695Z"
+generated_at: "2026-03-30T00:39:53.650Z"
 ---
 
 # § 3479. Use of facilities

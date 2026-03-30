@@ -3,9 +3,9 @@ title: "Section 396d - Rules and regulations governing operations; limitations o
 usc_title: 25
 usc_section: "396d"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 396d"
-generated_at: "2026-03-30T00:37:24.732Z"
+generated_at: "2026-03-30T00:40:05.739Z"
 ---
 
 # § 396d. Rules and regulations governing operations; limitations on oil or gas leases

@@ -3,9 +3,9 @@ title: "Section 4961 - Administrative and other costs"
 usc_title: 10
 usc_section: "4961"
 chapter: 388
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 4961"
-generated_at: "2026-03-30T00:36:31.050Z"
+generated_at: "2026-03-30T00:39:26.678Z"
 ---
 
 # § 4961. Administrative and other costs

@@ -3,9 +3,9 @@ title: "Section 390cc - New or amended contracts"
 usc_title: 43
 usc_section: "390cc"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 390cc"
-generated_at: "2026-03-30T00:38:15.560Z"
+generated_at: "2026-03-30T00:40:42.042Z"
 ---
 
 # § 390cc. New or amended contracts

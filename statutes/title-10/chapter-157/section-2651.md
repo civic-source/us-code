@@ -3,9 +3,9 @@ title: "Section 2651 - Passengers and merchandise to Guam: sea transport"
 usc_title: 10
 usc_section: "2651"
 chapter: 157
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 2651"
-generated_at: "2026-03-30T00:36:31.009Z"
+generated_at: "2026-03-30T00:39:26.617Z"
 ---
 
 # § 2651. Passengers and merchandise to Guam: sea transport

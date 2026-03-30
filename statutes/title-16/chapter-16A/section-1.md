@@ -3,9 +3,9 @@ title: "Section 1 - Species working groups"
 usc_title: 16
 usc_section: "1"
 chapter: 16
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:37:02.286Z"
+generated_at: "2026-03-30T00:39:47.545Z"
 ---
 
 # § 971b–1. Species working groups

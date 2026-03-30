@@ -3,9 +3,9 @@ title: "Section 18001 - Immediate access to insurance for uninsured individuals 
 usc_title: 42
 usc_section: "18001"
 chapter: 157
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 18001"
-generated_at: "2026-03-30T00:38:36.228Z"
+generated_at: "2026-03-30T00:40:57.766Z"
 ---
 
 # § 18001. Immediate access to insurance for uninsured individuals with a preexisting condition

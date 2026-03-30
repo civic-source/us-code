@@ -3,9 +3,9 @@ title: "Section 651 - Deduction for trusts distributing current income only"
 usc_title: 26
 usc_section: "651"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 651"
-generated_at: "2026-03-30T00:37:37.711Z"
+generated_at: "2026-03-30T00:40:20.474Z"
 ---
 
 # § 651. Deduction for trusts distributing current income only

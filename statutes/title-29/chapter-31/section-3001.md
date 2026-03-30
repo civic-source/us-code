@@ -3,9 +3,9 @@ title: "Section 3001 - Purposes"
 usc_title: 29
 usc_section: "3001"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "29 U.S.C. § 3001"
-generated_at: "2026-03-30T00:37:38.937Z"
+generated_at: "2026-03-30T00:40:12.084Z"
 ---
 
 # § 3001. Purposes

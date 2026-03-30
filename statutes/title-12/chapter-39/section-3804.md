@@ -3,9 +3,9 @@ title: "Section 3804 - Applicability of preemption provisions"
 usc_title: 12
 usc_section: "3804"
 chapter: 39
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 3804"
-generated_at: "2026-03-30T00:36:37.579Z"
+generated_at: "2026-03-30T00:39:35.076Z"
 ---
 
 # § 3804. Applicability of preemption provisions

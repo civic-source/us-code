@@ -3,9 +3,9 @@ title: "Section 271 - Establishment"
 usc_title: 2
 usc_section: "271"
 chapter: 9
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 271"
-generated_at: "2026-03-30T00:36:16.938Z"
+generated_at: "2026-03-30T00:39:10.154Z"
 ---
 
 # § 271. Establishment

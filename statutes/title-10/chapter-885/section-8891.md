@@ -3,9 +3,9 @@ title: "Section 8891 - Scope of chapter"
 usc_title: 10
 usc_section: "8891"
 chapter: 885
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 8891"
-generated_at: "2026-03-30T00:36:31.077Z"
+generated_at: "2026-03-30T00:39:26.712Z"
 ---
 
 # § 8891. Scope of chapter

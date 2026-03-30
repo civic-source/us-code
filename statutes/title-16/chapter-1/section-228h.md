@@ -3,9 +3,9 @@ title: "Section 228h - Construction with existing Colorado River system reclamat
 usc_title: 16
 usc_section: "228h"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 228h"
-generated_at: "2026-03-30T00:37:02.132Z"
+generated_at: "2026-03-30T00:39:47.364Z"
 ---
 
 # § 228h. Construction with existing Colorado River system reclamation provisions

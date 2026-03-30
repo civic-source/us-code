@@ -3,9 +3,9 @@ title: "Section 590m - Execution of powers of Secretary by Production and Market
 usc_title: 16
 usc_section: "590m"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 590m"
-generated_at: "2026-03-30T00:37:02.243Z"
+generated_at: "2026-03-30T00:39:47.503Z"
 ---
 
 # § 590m. Execution of powers of Secretary by Production and Marketing Administration

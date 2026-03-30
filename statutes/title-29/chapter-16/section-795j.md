@@ -3,9 +3,9 @@ title: "Section 795j - Eligibility"
 usc_title: 29
 usc_section: "795j"
 chapter: 16
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "29 U.S.C. § 795j"
-generated_at: "2026-03-30T00:37:38.889Z"
+generated_at: "2026-03-30T00:40:12.037Z"
 ---
 
 # § 795j. Eligibility

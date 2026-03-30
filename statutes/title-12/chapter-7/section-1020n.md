@@ -3,9 +3,9 @@ title: "Section 1020n - Repealed. Aug. 14, 1946, ch. 964, § 2(a)(2) , 60 Stat. 
 usc_title: 12
 usc_section: "1020n"
 chapter: 7
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 1020n"
-generated_at: "2026-03-30T00:36:37.461Z"
+generated_at: "2026-03-30T00:39:34.915Z"
 ---
 
 # §§ 1020i to 1020n. Repealed. Aug. 14, 1946, ch. 964, § 2(a)(2) , 60 Stat. 1062

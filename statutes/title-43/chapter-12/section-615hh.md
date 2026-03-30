@@ -3,9 +3,9 @@ title: "Section 615hh - Omitted"
 usc_title: 43
 usc_section: "615hh"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 615hh"
-generated_at: "2026-03-30T00:38:15.569Z"
+generated_at: "2026-03-30T00:40:42.051Z"
 ---
 
 # §§ 615aa to 615hh. Omitted

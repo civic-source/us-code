@@ -3,9 +3,9 @@ title: "Section 564i - Omitted"
 usc_title: 25
 usc_section: "564i"
 chapter: 14
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 564i"
-generated_at: "2026-03-30T00:37:24.737Z"
+generated_at: "2026-03-30T00:40:05.742Z"
 ---
 
 # § 564i. Omitted

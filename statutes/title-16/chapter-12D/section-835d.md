@@ -3,9 +3,9 @@ title: "Section 835d - Acquisition of Indian lands, Spokane and Colville Reserva
 usc_title: 16
 usc_section: "835d"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 835d"
-generated_at: "2026-03-30T00:37:02.278Z"
+generated_at: "2026-03-30T00:39:47.538Z"
 ---
 
 # § 835d. Acquisition of Indian lands, Spokane and Colville Reservations

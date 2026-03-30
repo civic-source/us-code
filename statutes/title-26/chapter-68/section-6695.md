@@ -3,9 +3,9 @@ title: "Section 6695 - Other assessable penalties with respect to the preparatio
 usc_title: 26
 usc_section: "6695"
 chapter: 68
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 6695"
-generated_at: "2026-03-30T00:37:37.838Z"
+generated_at: "2026-03-30T00:40:20.613Z"
 ---
 
 # § 6695. Other assessable penalties with respect to the preparation of tax returns for other persons

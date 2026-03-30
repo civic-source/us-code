@@ -3,9 +3,9 @@ title: "Section 3203 - Endorsements on penalty covers"
 usc_title: 39
 usc_section: "3203"
 chapter: 32
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "39 U.S.C. § 3203"
-generated_at: "2026-03-30T00:38:08.461Z"
+generated_at: "2026-03-30T00:40:30.152Z"
 ---
 
 # § 3203. Endorsements on penalty covers

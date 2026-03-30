@@ -3,9 +3,9 @@ title: "Section 12 - Seal, books, and records"
 usc_title: 43
 usc_section: "12"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 12"
-generated_at: "2026-03-30T00:38:15.546Z"
+generated_at: "2026-03-30T00:40:42.030Z"
 ---
 
 # § 12. Seal, books, and records

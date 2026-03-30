@@ -3,9 +3,9 @@ title: "Section 1605 - Determination of finance charge"
 usc_title: 15
 usc_section: "1605"
 chapter: 41
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 1605"
-generated_at: "2026-03-30T00:36:40.638Z"
+generated_at: "2026-03-30T00:39:40.363Z"
 ---
 
 # § 1605. Determination of finance charge

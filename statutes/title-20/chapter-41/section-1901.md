@@ -3,9 +3,9 @@ title: "Section 1901 - Repealed. Pub. L. 95–561, title XV, § 1529 , Nov. 1, 1
 usc_title: 20
 usc_section: "1901"
 chapter: 41
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 1901"
-generated_at: "2026-03-30T00:36:53.687Z"
+generated_at: "2026-03-30T00:39:53.641Z"
 ---
 
 # § 1901. Repealed. Pub. L. 95–561, title XV, § 1529 , Nov. 1, 1978 , 92 Stat. 2380

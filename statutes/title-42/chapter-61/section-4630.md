@@ -3,9 +3,9 @@ title: "Section 4630 - Requirements for relocation payments and assistance of fe
 usc_title: 42
 usc_section: "4630"
 chapter: 61
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 4630"
-generated_at: "2026-03-30T00:38:35.930Z"
+generated_at: "2026-03-30T00:40:57.468Z"
 ---
 
 # § 4630. Requirements for relocation payments and assistance of federally assisted program; assurances of availability of housing

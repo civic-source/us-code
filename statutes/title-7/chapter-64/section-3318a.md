@@ -3,9 +3,9 @@ title: "Section 3318a - Cooperative research projects; agreements with and recei
 usc_title: 7
 usc_section: "3318a"
 chapter: 64
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 3318a"
-generated_at: "2026-03-30T00:36:25.763Z"
+generated_at: "2026-03-30T00:39:17.661Z"
 ---
 
 # § 3318a. Cooperative research projects; agreements with and receipt of funds from State and other agencies

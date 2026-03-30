@@ -3,9 +3,9 @@ title: "Section 663 - Special rules applicable to sections 661 and 662"
 usc_title: 26
 usc_section: "663"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 663"
-generated_at: "2026-03-30T00:37:37.711Z"
+generated_at: "2026-03-30T00:40:20.474Z"
 ---
 
 # § 663. Special rules applicable to sections 661 and 662

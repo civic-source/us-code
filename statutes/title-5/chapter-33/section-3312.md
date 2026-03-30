@@ -3,9 +3,9 @@ title: "Section 3312 - Preference eligibles; physical qualifications; waiver"
 usc_title: 5
 usc_section: "3312"
 chapter: 33
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "5 U.S.C. § 3312"
-generated_at: "2026-03-30T00:36:18.955Z"
+generated_at: "2026-03-30T00:39:08.298Z"
 ---
 
 # § 3312. Preference eligibles; physical qualifications; waiver

@@ -3,9 +3,9 @@ title: "Section 21742 - Interstate initiatives"
 usc_title: 34
 usc_section: "21742"
 chapter: 217
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "34 U.S.C. § 21742"
-generated_at: "2026-03-30T00:38:01.748Z"
+generated_at: "2026-03-30T00:40:25.243Z"
 ---
 
 # § 21742. Interstate initiatives

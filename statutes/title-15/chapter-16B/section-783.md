@@ -3,9 +3,9 @@ title: "Section 783 - Hydroelectric generating facilities; lists, transmittal to
 usc_title: 15
 usc_section: "783"
 chapter: 16
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 783"
-generated_at: "2026-03-30T00:36:40.616Z"
+generated_at: "2026-03-30T00:39:40.346Z"
 ---
 
 # § 783. Hydroelectric generating facilities; lists, transmittal to Congress; construction schedule and cost estimates for expedited construction program; prospective accomplishments from expedited completion of facilities; statement of appropriated but not obligated funds

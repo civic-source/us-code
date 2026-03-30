@@ -3,9 +3,9 @@ title: "Section 1313 - Definitions"
 usc_title: 26
 usc_section: "1313"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 1313"
-generated_at: "2026-03-30T00:37:37.751Z"
+generated_at: "2026-03-30T00:40:20.517Z"
 ---
 
 # § 1313. Definitions

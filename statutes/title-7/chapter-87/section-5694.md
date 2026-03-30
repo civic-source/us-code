@@ -3,9 +3,9 @@ title: "Section 5694 - Staff of Foreign Agricultural Service"
 usc_title: 7
 usc_section: "5694"
 chapter: 87
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 5694"
-generated_at: "2026-03-30T00:36:25.778Z"
+generated_at: "2026-03-30T00:39:17.678Z"
 ---
 
 # § 5694. Staff of Foreign Agricultural Service

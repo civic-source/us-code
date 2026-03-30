@@ -3,9 +3,9 @@ title: "Section 9813 - Coverage of dependent students on medically necessary lea
 usc_title: 26
 usc_section: "9813"
 chapter: 100
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 9813"
-generated_at: "2026-03-30T00:37:37.870Z"
+generated_at: "2026-03-30T00:40:20.644Z"
 ---
 
 # § 9813. Coverage of dependent students on medically necessary leave of absence

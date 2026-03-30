@@ -3,9 +3,9 @@ title: "Section 374 - Sale of lands acquired in connection with irrigation proje
 usc_title: 43
 usc_section: "374"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 374"
-generated_at: "2026-03-30T00:38:15.556Z"
+generated_at: "2026-03-30T00:40:42.038Z"
 ---
 
 # § 374. Sale of lands acquired in connection with irrigation project

@@ -3,9 +3,9 @@ title: "Section 14301 - Eligibility for consideration for promotion: general rul
 usc_title: 10
 usc_section: "14301"
 chapter: 1405
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 14301"
-generated_at: "2026-03-30T00:36:31.097Z"
+generated_at: "2026-03-30T00:39:26.739Z"
 ---
 
 # § 14301. Eligibility for consideration for promotion: general rules

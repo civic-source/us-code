@@ -3,9 +3,9 @@ title: "Section 4501 - Congressional findings"
 usc_title: 12
 usc_section: "4501"
 chapter: 46
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 4501"
-generated_at: "2026-03-30T00:36:37.586Z"
+generated_at: "2026-03-30T00:39:35.087Z"
 ---
 
 # § 4501. Congressional findings

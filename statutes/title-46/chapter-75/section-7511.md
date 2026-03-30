@@ -3,9 +3,9 @@ title: "Section 7511 - Convicted sex offender as grounds for denial"
 usc_title: 46
 usc_section: "7511"
 chapter: 75
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "46 U.S.C. § 7511"
-generated_at: "2026-03-30T00:38:41.111Z"
+generated_at: "2026-03-30T00:41:04.490Z"
 ---
 
 # § 7511. Convicted sex offender as grounds for denial

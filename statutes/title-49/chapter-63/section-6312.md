@@ -3,9 +3,9 @@ title: "Section 6312 - Transportation statistics annual report"
 usc_title: 49
 usc_section: "6312"
 chapter: 63
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "49 U.S.C. § 6312"
-generated_at: "2026-03-30T00:38:45.315Z"
+generated_at: "2026-03-30T00:41:06.953Z"
 ---
 
 # § 6312. Transportation statistics annual report

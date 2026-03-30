@@ -3,9 +3,9 @@ title: "Section 21041 - Grants for research on voting technology improvements"
 usc_title: 52
 usc_section: "21041"
 chapter: 209
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "52 U.S.C. § 21041"
-generated_at: "2026-03-30T00:38:48.265Z"
+generated_at: "2026-03-30T00:41:09.193Z"
 ---
 
 # § 21041. Grants for research on voting technology improvements

@@ -3,9 +3,9 @@ title: "Section 31321 - Filing, recording, and discharge"
 usc_title: 46
 usc_section: "31321"
 chapter: 313
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "46 U.S.C. § 31321"
-generated_at: "2026-03-30T00:38:41.122Z"
+generated_at: "2026-03-30T00:41:04.500Z"
 ---
 
 # § 31321. Filing, recording, and discharge

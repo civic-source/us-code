@@ -3,9 +3,9 @@ title: "Section 4862 - Requirement to buy certain articles from American sources
 usc_title: 10
 usc_section: "4862"
 chapter: 385
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 4862"
-generated_at: "2026-03-30T00:36:31.048Z"
+generated_at: "2026-03-30T00:39:26.674Z"
 ---
 
 # § 4862. Requirement to buy certain articles from American sources; exceptions

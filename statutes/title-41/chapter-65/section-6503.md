@@ -3,9 +3,9 @@ title: "Section 6503 - Breach or violation of required contract terms"
 usc_title: 41
 usc_section: "6503"
 chapter: 65
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "41 U.S.C. § 6503"
-generated_at: "2026-03-30T00:38:14.729Z"
+generated_at: "2026-03-30T00:40:40.723Z"
 ---
 
 # § 6503. Breach or violation of required contract terms

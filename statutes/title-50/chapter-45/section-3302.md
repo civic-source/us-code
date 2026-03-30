@@ -3,9 +3,9 @@ title: "Section 3302 - Identification of constituent components of base intellig
 usc_title: 50
 usc_section: "3302"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3302"
-generated_at: "2026-03-30T00:38:42.525Z"
+generated_at: "2026-03-30T00:41:02.188Z"
 ---
 
 # § 3302. Identification of constituent components of base intelligence budget

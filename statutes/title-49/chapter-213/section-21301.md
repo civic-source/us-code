@@ -3,9 +3,9 @@ title: "Section 21301 - Chapter 201 general violations"
 usc_title: 49
 usc_section: "21301"
 chapter: 213
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "49 U.S.C. § 21301"
-generated_at: "2026-03-30T00:38:45.337Z"
+generated_at: "2026-03-30T00:41:06.971Z"
 ---
 
 # § 21301. Chapter 201 general violations

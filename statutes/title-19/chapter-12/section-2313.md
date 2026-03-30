@@ -3,9 +3,9 @@ title: "Section 2313 - Payments to States"
 usc_title: 19
 usc_section: "2313"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "19 U.S.C. § 2313"
-generated_at: "2026-03-30T00:36:50.273Z"
+generated_at: "2026-03-30T00:39:55.851Z"
 ---
 
 # § 2313. Payments to States

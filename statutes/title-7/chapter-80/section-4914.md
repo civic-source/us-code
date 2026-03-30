@@ -3,9 +3,9 @@ title: "Section 4914 - Amendment procedure"
 usc_title: 7
 usc_section: "4914"
 chapter: 80
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 4914"
-generated_at: "2026-03-30T00:36:25.774Z"
+generated_at: "2026-03-30T00:39:17.674Z"
 ---
 
 # § 4914. Amendment procedure

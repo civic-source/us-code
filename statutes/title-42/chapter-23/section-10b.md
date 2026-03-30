@@ -3,9 +3,9 @@ title: "Section 10b - Secretarial determinations; congressional notification"
 usc_title: 42
 usc_section: "10b"
 chapter: 23
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-30T00:38:35.885Z"
+generated_at: "2026-03-30T00:40:57.421Z"
 ---
 
 # § 2297h–10b. Secretarial determinations; congressional notification

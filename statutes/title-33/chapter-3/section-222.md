@@ -3,9 +3,9 @@ title: "Section 222 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "222"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "33 U.S.C. § 222"
-generated_at: "2026-03-30T00:38:05.327Z"
+generated_at: "2026-03-30T00:40:28.134Z"
 ---
 
 # §§ 221, 222. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

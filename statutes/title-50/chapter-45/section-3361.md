@@ -3,9 +3,9 @@ title: "Section 3361 - National Virtual Translation Center"
 usc_title: 50
 usc_section: "3361"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3361"
-generated_at: "2026-03-30T00:38:42.531Z"
+generated_at: "2026-03-30T00:41:02.195Z"
 ---
 
 # § 3361. National Virtual Translation Center

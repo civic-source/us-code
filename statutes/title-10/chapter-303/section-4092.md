@@ -3,9 +3,9 @@ title: "Section 4092 - Personnel management authority to attract experts in scie
 usc_title: 10
 usc_section: "4092"
 chapter: 303
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 4092"
-generated_at: "2026-03-30T00:36:31.038Z"
+generated_at: "2026-03-30T00:39:26.660Z"
 ---
 
 # § 4092. Personnel management authority to attract experts in science and engineering

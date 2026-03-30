@@ -3,9 +3,9 @@ title: "Section 8421 - Purposes of assistance"
 usc_title: 22
 usc_section: "8421"
 chapter: 91
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 8421"
-generated_at: "2026-03-30T00:37:11.367Z"
+generated_at: "2026-03-30T00:40:08.190Z"
 ---
 
 # § 8421. Purposes of assistance

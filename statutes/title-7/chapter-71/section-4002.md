@@ -3,9 +3,9 @@ title: "Section 4002 - Alcohol processor grain reserve program"
 usc_title: 7
 usc_section: "4002"
 chapter: 71
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 4002"
-generated_at: "2026-03-30T00:36:25.767Z"
+generated_at: "2026-03-30T00:39:17.664Z"
 ---
 
 # § 4002. Alcohol processor grain reserve program

@@ -3,9 +3,9 @@ title: "Section 190303 - Purposes"
 usc_title: 36
 usc_section: "190303"
 chapter: 1903
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "36 U.S.C. § 190303"
-generated_at: "2026-03-30T00:38:10.145Z"
+generated_at: "2026-03-30T00:40:38.841Z"
 ---
 
 # § 190303. Purposes

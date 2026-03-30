@@ -3,9 +3,9 @@ title: "Section 395 - Contributions by State, municipality, etc."
 usc_title: 43
 usc_section: "395"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 395"
-generated_at: "2026-03-30T00:38:15.561Z"
+generated_at: "2026-03-30T00:40:42.043Z"
 ---
 
 # § 395. Contributions by State, municipality, etc.

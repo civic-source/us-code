@@ -3,9 +3,9 @@ title: "Section 292y - General provisions"
 usc_title: 42
 usc_section: "292y"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 292y"
-generated_at: "2026-03-30T00:38:35.509Z"
+generated_at: "2026-03-30T00:40:57.051Z"
 ---
 
 # § 292y. General provisions

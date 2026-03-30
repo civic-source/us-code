@@ -3,9 +3,9 @@ title: "Section 1732 - Contracts and grants to provide for the care and treatmen
 usc_title: 38
 usc_section: "1732"
 chapter: 17
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "38 U.S.C. § 1732"
-generated_at: "2026-03-30T00:38:11.741Z"
+generated_at: "2026-03-30T00:40:32.855Z"
 ---
 
 # § 1732. Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center

@@ -3,9 +3,9 @@ title: "Section 5759 - Retention and relocation bonuses for the Federal Bureau o
 usc_title: 5
 usc_section: "5759"
 chapter: 57
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "5 U.S.C. § 5759"
-generated_at: "2026-03-30T00:36:18.976Z"
+generated_at: "2026-03-30T00:39:08.320Z"
 ---
 
 # § 5759. 1 1 So in original. No section 5758 has been enacted. Retention and relocation bonuses for the Federal Bureau of Investigation

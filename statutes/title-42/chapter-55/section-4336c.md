@@ -3,9 +3,9 @@ title: "Section 4336c - Adoption of categorical exclusions"
 usc_title: 42
 usc_section: "4336c"
 chapter: 55
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 4336c"
-generated_at: "2026-03-30T00:38:35.925Z"
+generated_at: "2026-03-30T00:40:57.463Z"
 ---
 
 # § 4336c. Adoption of categorical exclusions

@@ -3,9 +3,9 @@ title: "Section 7555 - ARMS Initiative loan guarantee program"
 usc_title: 10
 usc_section: "7555"
 chapter: 764
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 7555"
-generated_at: "2026-03-30T00:36:31.058Z"
+generated_at: "2026-03-30T00:39:26.688Z"
 ---
 
 # § 7555. ARMS Initiative loan guarantee program

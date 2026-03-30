@@ -3,9 +3,9 @@ title: "Section 57 - Nondiscrimination"
 usc_title: 42
 usc_section: "57"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 57"
-generated_at: "2026-03-30T00:38:35.549Z"
+generated_at: "2026-03-30T00:40:57.091Z"
 ---
 
 # § 300x–57. Nondiscrimination

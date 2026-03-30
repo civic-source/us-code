@@ -3,9 +3,9 @@ title: "Section 2044 - Payment of fine with bond money"
 usc_title: 28
 usc_section: "2044"
 chapter: 129
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 2044"
-generated_at: "2026-03-30T00:37:57.027Z"
+generated_at: "2026-03-30T00:40:13.145Z"
 ---
 
 # § 2044. Payment of fine with bond money

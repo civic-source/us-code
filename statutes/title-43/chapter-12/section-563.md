@@ -3,9 +3,9 @@ title: "Section 563 - Disposal of town sites set apart prior to June 27, 1906"
 usc_title: 43
 usc_section: "563"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 563"
-generated_at: "2026-03-30T00:38:15.568Z"
+generated_at: "2026-03-30T00:40:42.050Z"
 ---
 
 # § 563. Disposal of town sites set apart prior to June 27, 1906

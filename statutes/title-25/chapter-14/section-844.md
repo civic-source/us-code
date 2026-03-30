@@ -3,9 +3,9 @@ title: "Section 844 - Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "844"
 chapter: 14
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 844"
-generated_at: "2026-03-30T00:37:24.738Z"
+generated_at: "2026-03-30T00:40:05.744Z"
 ---
 
 # § 844. Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92 Stat. 246

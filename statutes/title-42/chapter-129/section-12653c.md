@@ -3,9 +3,9 @@ title: "Section 12653c - Silver Scholarships and Encore Fellowships"
 usc_title: 42
 usc_section: "12653c"
 chapter: 129
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 12653c"
-generated_at: "2026-03-30T00:38:36.145Z"
+generated_at: "2026-03-30T00:40:57.686Z"
 ---
 
 # § 12653c. Silver Scholarships and Encore Fellowships

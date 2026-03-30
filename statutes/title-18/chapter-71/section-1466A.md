@@ -3,9 +3,9 @@ title: "Section 1466A - Obscene visual representations of the sexual abuse of ch
 usc_title: 18
 usc_section: "1466A"
 chapter: 71
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "18 U.S.C. § 1466A"
-generated_at: "2026-03-30T00:36:51.552Z"
+generated_at: "2026-03-30T00:39:48.705Z"
 ---
 
 # § 1466A. Obscene visual representations of the sexual abuse of children

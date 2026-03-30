@@ -3,9 +3,9 @@ title: "Section 6439 - Technical assistance"
 usc_title: 20
 usc_section: "6439"
 chapter: 70
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 6439"
-generated_at: "2026-03-30T00:36:53.716Z"
+generated_at: "2026-03-30T00:39:53.670Z"
 ---
 
 # § 6439. Technical assistance

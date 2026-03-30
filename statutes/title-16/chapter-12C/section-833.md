@@ -3,9 +3,9 @@ title: "Section 833 - Completion and maintenance of project; generation of elect
 usc_title: 16
 usc_section: "833"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 833"
-generated_at: "2026-03-30T00:37:02.277Z"
+generated_at: "2026-03-30T00:39:47.537Z"
 ---
 
 # § 833. Completion and maintenance of project; generation of electricity

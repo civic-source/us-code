@@ -3,9 +3,9 @@ title: "Section 708 - Property and fiscal officers"
 usc_title: 32
 usc_section: "708"
 chapter: 7
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "32 U.S.C. § 708"
-generated_at: "2026-03-30T00:37:58.996Z"
+generated_at: "2026-03-30T00:40:22.835Z"
 ---
 
 # § 708. Property and fiscal officers

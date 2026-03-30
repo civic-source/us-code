@@ -3,9 +3,9 @@ title: "Section 2098 - Public and acquired lands"
 usc_title: 42
 usc_section: "2098"
 chapter: 23
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 2098"
-generated_at: "2026-03-30T00:38:35.872Z"
+generated_at: "2026-03-30T00:40:57.407Z"
 ---
 
 # § 2098. Public and acquired lands

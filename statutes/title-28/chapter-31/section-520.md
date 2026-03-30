@@ -3,9 +3,9 @@ title: "Section 520 - Transmission of petitions in United States Court of Federa
 usc_title: 28
 usc_section: "520"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 520"
-generated_at: "2026-03-30T00:37:57.008Z"
+generated_at: "2026-03-30T00:40:13.127Z"
 ---
 
 # § 520. Transmission of petitions in United States Court of Federal Claims or in United States Court of Appeals for the Federal Circuit; statement furnished by departments

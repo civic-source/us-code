@@ -3,9 +3,9 @@ title: "Section 284 - Lands containing coal or other minerals in addition to pot
 usc_title: 30
 usc_section: "284"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "30 U.S.C. § 284"
-generated_at: "2026-03-30T00:37:31.650Z"
+generated_at: "2026-03-30T00:40:10.858Z"
 ---
 
 # § 284. Lands containing coal or other minerals in addition to potassium deposits; issuance of prospecting permits and leases; covenants in potassium leases

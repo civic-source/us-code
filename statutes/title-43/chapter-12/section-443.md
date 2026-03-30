@@ -3,9 +3,9 @@ title: "Section 443 - Limitation of amount of land holdable under assignment of 
 usc_title: 43
 usc_section: "443"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 443"
-generated_at: "2026-03-30T00:38:15.564Z"
+generated_at: "2026-03-30T00:40:42.045Z"
 ---
 
 # § 443. Limitation of amount of land holdable under assignment of entry

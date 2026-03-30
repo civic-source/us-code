@@ -3,9 +3,9 @@ title: "Section 3422 - Applicability to Securities and Exchange Commission"
 usc_title: 12
 usc_section: "3422"
 chapter: 35
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 3422"
-generated_at: "2026-03-30T00:36:37.577Z"
+generated_at: "2026-03-30T00:39:35.073Z"
 ---
 
 # § 3422. Applicability to Securities and Exchange Commission

@@ -3,9 +3,9 @@ title: "Section 7258 - Standby authority to indicate entity best suited to provi
 usc_title: 7
 usc_section: "7258"
 chapter: 100
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 7258"
-generated_at: "2026-03-30T00:36:25.803Z"
+generated_at: "2026-03-30T00:39:17.711Z"
 ---
 
 # § 7258. Standby authority to indicate entity best suited to provide international market development and export services

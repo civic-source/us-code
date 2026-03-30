@@ -3,9 +3,9 @@ title: "Section 6807 - Relation to State laws"
 usc_title: 15
 usc_section: "6807"
 chapter: 94
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 6807"
-generated_at: "2026-03-30T00:36:40.740Z"
+generated_at: "2026-03-30T00:39:40.450Z"
 ---
 
 # § 6807. Relation to State laws

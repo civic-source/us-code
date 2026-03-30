@@ -3,9 +3,9 @@ title: "Section 256h - Program of payments to teaching health centers that opera
 usc_title: 42
 usc_section: "256h"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-30T00:38:35.454Z"
+generated_at: "2026-03-30T00:40:56.997Z"
 ---
 
 # § 256h. Program of payments to teaching health centers that operate graduate medical education programs
@@ -51,7 +51,7 @@ generated_at: "2026-03-30T00:38:35.454Z"
   - **(3)** shall not include the time in which a resident is counted toward full-time equivalency by a hospital under paragraph (2) or under section 1395ww(d)(5)(B)(iv) of this title , section 1395ww(h)(4)(E) of this title , or section 256e of this title .
 - **(f)** The Secretary shall determine any changes to the number of residents reported by a teaching health center in the application of the teaching health center for the current fiscal year to determine the final amount payable to the teaching health center for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395 oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) 2 2 See References in Text note below. of this title is subject to review under such section.
 - **(g)**
-  - **(1)** To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023 , and ending on November 17, 2023 , and $21,834,247 for the period beginning on November 18, 2023 , and ending on January 19, 2024 , to remain available until expended.
+  - **(1)** To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023 , and ending on November 17, 2023 , $21,834,247 for the period beginning on November 18, 2023 , and ending on January 19, 2024 , and $16,982,192 for the period beginning on January 20, 2024 , and ending on March 8, 2024 , to remain available until expended.
   - **(2)** Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 - **(h)**
   - **(1)** The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:

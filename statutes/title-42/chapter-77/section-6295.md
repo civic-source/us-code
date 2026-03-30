@@ -3,9 +3,9 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-30T00:38:35.968Z"
+generated_at: "2026-03-30T00:40:57.508Z"
 ---
 
 # § 6295. Energy conservation standards

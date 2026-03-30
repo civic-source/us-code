@@ -3,9 +3,9 @@ title: "Section 3006 - Presidential action on Commission recommendations"
 usc_title: 19
 usc_section: "3006"
 chapter: 18
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "19 U.S.C. § 3006"
-generated_at: "2026-03-30T00:36:50.289Z"
+generated_at: "2026-03-30T00:39:55.866Z"
 ---
 
 # § 3006. Presidential action on Commission recommendations

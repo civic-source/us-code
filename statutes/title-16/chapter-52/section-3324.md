@@ -3,9 +3,9 @@ title: "Section 3324 - Monitoring and evaluation of enhancement projects"
 usc_title: 16
 usc_section: "3324"
 chapter: 52
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 3324"
-generated_at: "2026-03-30T00:37:02.347Z"
+generated_at: "2026-03-30T00:39:47.605Z"
 ---
 
 # § 3324. Monitoring and evaluation of enhancement projects

@@ -3,9 +3,9 @@ title: "Section 46319 - Permanent closure of an airport without providing suffic
 usc_title: 49
 usc_section: "46319"
 chapter: 463
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "49 U.S.C. § 46319"
-generated_at: "2026-03-30T00:38:45.395Z"
+generated_at: "2026-03-30T00:41:07.028Z"
 ---
 
 # § 46319. Permanent closure of an airport without providing sufficient notice

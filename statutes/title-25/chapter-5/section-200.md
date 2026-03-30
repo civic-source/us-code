@@ -3,9 +3,9 @@ title: "Section 200 - Report of offense or case of Indian incarcerated in agency
 usc_title: 25
 usc_section: "200"
 chapter: 5
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 200"
-generated_at: "2026-03-30T00:37:24.727Z"
+generated_at: "2026-03-30T00:40:05.733Z"
 ---
 
 # § 200. Report of offense or case of Indian incarcerated in agency jail

@@ -3,9 +3,9 @@ title: "Section 2248 - Return or answer; conclusiveness"
 usc_title: 28
 usc_section: "2248"
 chapter: 153
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 2248"
-generated_at: "2026-03-30T00:37:57.028Z"
+generated_at: "2026-03-30T00:40:13.145Z"
 ---
 
 # § 2248. Return or answer; conclusiveness

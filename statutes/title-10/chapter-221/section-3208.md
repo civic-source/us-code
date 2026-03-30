@@ -3,9 +3,9 @@ title: "Section 3208 - Planning for future competition in contracts for major sy
 usc_title: 10
 usc_section: "3208"
 chapter: 221
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 3208"
-generated_at: "2026-03-30T00:36:31.028Z"
+generated_at: "2026-03-30T00:39:26.645Z"
 ---
 
 # § 3208. Planning for future competition in contracts for major systems

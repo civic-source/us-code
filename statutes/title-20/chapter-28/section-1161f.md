@@ -3,9 +3,9 @@ title: "Section 1161f - Teach For America"
 usc_title: 20
 usc_section: "1161f"
 chapter: 28
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 1161f"
-generated_at: "2026-03-30T00:36:53.667Z"
+generated_at: "2026-03-30T00:39:53.620Z"
 ---
 
 # § 1161f. Teach For America

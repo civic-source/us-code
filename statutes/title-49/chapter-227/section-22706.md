@@ -3,9 +3,9 @@ title: "Section 22706 - Review"
 usc_title: 49
 usc_section: "22706"
 chapter: 227
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "49 U.S.C. § 22706"
-generated_at: "2026-03-30T00:38:45.338Z"
+generated_at: "2026-03-30T00:41:06.973Z"
 ---
 
 # § 22706. Review

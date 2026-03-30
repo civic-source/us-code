@@ -3,9 +3,9 @@ title: "Section 6335 - Termination of medical emergency"
 usc_title: 5
 usc_section: "6335"
 chapter: 63
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "5 U.S.C. § 6335"
-generated_at: "2026-03-30T00:36:18.980Z"
+generated_at: "2026-03-30T00:39:08.325Z"
 ---
 
 # § 6335. Termination of medical emergency

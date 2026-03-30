@@ -3,9 +3,9 @@ title: "Section 9111 - Assistance for providers of transportation services affec
 usc_title: 15
 usc_section: "9111"
 chapter: 116
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 9111"
-generated_at: "2026-03-30T00:36:40.775Z"
+generated_at: "2026-03-30T00:39:40.483Z"
 ---
 
 # § 9111. Assistance for providers of transportation services affected by COVID–19

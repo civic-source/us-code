@@ -3,9 +3,9 @@ title: "Section 3720B - Barring delinquent Federal debtors from obtaining Federa
 usc_title: 31
 usc_section: "3720B"
 chapter: 37
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "31 U.S.C. § 3720B"
-generated_at: "2026-03-30T00:38:00.877Z"
+generated_at: "2026-03-30T00:40:24.374Z"
 ---
 
 # § 3720B. Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees

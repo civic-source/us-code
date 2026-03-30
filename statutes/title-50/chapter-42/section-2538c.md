@@ -3,9 +3,9 @@ title: "Section 2538c - Long-term plan for meeting national security requirement
 usc_title: 50
 usc_section: "2538c"
 chapter: 42
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 2538c"
-generated_at: "2026-03-30T00:38:42.501Z"
+generated_at: "2026-03-30T00:41:02.166Z"
 ---
 
 # § 2538c. Long-term plan for meeting national security requirements for unencumbered uranium

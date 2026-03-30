@@ -3,9 +3,9 @@ title: "Section 1a - Clarification on domestic distribution of program material"
 usc_title: 22
 usc_section: "1a"
 chapter: 18
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-30T00:37:11.240Z"
+generated_at: "2026-03-30T00:40:08.068Z"
 ---
 
 # § 1461–1a. Clarification on domestic distribution of program material

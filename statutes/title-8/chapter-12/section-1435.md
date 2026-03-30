@@ -3,9 +3,9 @@ title: "Section 1435 - Former citizens regaining citizenship"
 usc_title: 8
 usc_section: "1435"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "8 U.S.C. § 1435"
-generated_at: "2026-03-30T00:36:22.476Z"
+generated_at: "2026-03-30T00:39:12.912Z"
 ---
 
 # § 1435. Former citizens regaining citizenship

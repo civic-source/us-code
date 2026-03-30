@@ -3,9 +3,9 @@ title: "Section 110 - Penalty for persons who negligently or fraudulently prepar
 usc_title: 11
 usc_section: "110"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "11 U.S.C. § 110"
-generated_at: "2026-03-30T00:36:34.387Z"
+generated_at: "2026-03-30T00:39:29.844Z"
 ---
 
 # § 110. Penalty for persons who negligently or fraudulently prepare bankruptcy petitions

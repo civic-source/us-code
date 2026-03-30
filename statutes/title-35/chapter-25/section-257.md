@@ -3,9 +3,9 @@ title: "Section 257 - Supplemental examinations to consider, reconsider, or corr
 usc_title: 35
 usc_section: "257"
 chapter: 25
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "35 U.S.C. § 257"
-generated_at: "2026-03-30T00:38:03.128Z"
+generated_at: "2026-03-30T00:40:28.511Z"
 ---
 
 # § 257. Supplemental examinations to consider, reconsider, or correct information

@@ -3,9 +3,9 @@ title: "Section 1107 - Appropriations chargeable for printing and binding of doc
 usc_title: 44
 usc_section: "1107"
 chapter: 11
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "44 U.S.C. § 1107"
-generated_at: "2026-03-30T00:38:15.876Z"
+generated_at: "2026-03-30T00:40:41.068Z"
 ---
 
 # § 1107. Appropriations chargeable for printing and binding of documents or reports

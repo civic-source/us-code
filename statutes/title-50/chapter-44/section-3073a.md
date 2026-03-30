@@ -3,9 +3,9 @@ title: "Section 3073a - Requirements for certain employment activities by former
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-03-30T00:38:42.517Z"
+generated_at: "2026-03-30T00:41:02.181Z"
 ---
 
 # § 3073a. Requirements for certain employment activities by former intelligence officers and employees

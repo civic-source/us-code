@@ -3,9 +3,9 @@ title: "Section 1506 - Resource reports and overpayment adjustments"
 usc_title: 38
 usc_section: "1506"
 chapter: 15
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "38 U.S.C. § 1506"
-generated_at: "2026-03-30T00:38:11.733Z"
+generated_at: "2026-03-30T00:40:32.846Z"
 ---
 
 # § 1506. Resource reports and overpayment adjustments

@@ -3,9 +3,9 @@ title: "Section 928 - Prompt processing of telephone loans"
 usc_title: 7
 usc_section: "928"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 928"
-generated_at: "2026-03-30T00:36:25.670Z"
+generated_at: "2026-03-30T00:39:17.552Z"
 ---
 
 # § 928. Prompt processing of telephone loans

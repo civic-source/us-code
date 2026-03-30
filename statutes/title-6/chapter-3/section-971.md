@@ -3,9 +3,9 @@ title: "Section 971 - C–TPAT program management"
 usc_title: 6
 usc_section: "971"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "6 U.S.C. § 971"
-generated_at: "2026-03-30T00:36:21.362Z"
+generated_at: "2026-03-30T00:39:13.565Z"
 ---
 
 # § 971. C–TPAT program management

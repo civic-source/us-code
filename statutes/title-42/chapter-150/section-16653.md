@@ -3,9 +3,9 @@ title: "Section 16653 - Omitted"
 usc_title: 42
 usc_section: "16653"
 chapter: 150
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 16653"
-generated_at: "2026-03-30T00:38:36.209Z"
+generated_at: "2026-03-30T00:40:57.747Z"
 ---
 
 # §§ 16652, 16653. Omitted

@@ -3,9 +3,9 @@ title: "Section 396 - Corporation for Public Broadcasting"
 usc_title: 47
 usc_section: "396"
 chapter: 5
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "47 U.S.C. § 396"
-generated_at: "2026-03-30T00:38:39.871Z"
+generated_at: "2026-03-30T00:41:03.464Z"
 ---
 
 # § 396. Corporation for Public Broadcasting

@@ -3,9 +3,9 @@ title: "Section 1423d - Oath of office"
 usc_title: 48
 usc_section: "1423d"
 chapter: 8
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "48 U.S.C. § 1423d"
-generated_at: "2026-03-30T00:38:39.294Z"
+generated_at: "2026-03-30T00:41:02.863Z"
 ---
 
 # § 1423d. Oath of office

@@ -3,9 +3,9 @@ title: "Section 133a - Under Secretary of Defense for Research and Engineering"
 usc_title: 10
 usc_section: "133a"
 chapter: 4
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 133a"
-generated_at: "2026-03-30T00:36:30.897Z"
+generated_at: "2026-03-30T00:39:26.445Z"
 ---
 
 # § 133a. Under Secretary of Defense for Research and Engineering

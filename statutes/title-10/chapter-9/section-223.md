@@ -3,9 +3,9 @@ title: "Section 223 - Ballistic missile defense programs: program elements"
 usc_title: 10
 usc_section: "223"
 chapter: 9
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 223"
-generated_at: "2026-03-30T00:36:30.906Z"
+generated_at: "2026-03-30T00:39:26.458Z"
 ---
 
 # § 223. Ballistic missile defense programs: program elements

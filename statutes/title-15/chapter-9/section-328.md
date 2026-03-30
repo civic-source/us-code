@@ -3,9 +3,9 @@ title: "Section 328 - Transfer from other Government Departments of surplus equi
 usc_title: 15
 usc_section: "328"
 chapter: 9
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 328"
-generated_at: "2026-03-30T00:36:40.564Z"
+generated_at: "2026-03-30T00:39:40.300Z"
 ---
 
 # § 328. Transfer from other Government Departments of surplus equipment and supplies for Arctic stations

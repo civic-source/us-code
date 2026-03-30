@@ -3,9 +3,9 @@ title: "Section 408l - Forfeiture of property used in hunting, fishing, etc."
 usc_title: 16
 usc_section: "408l"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 408l"
-generated_at: "2026-03-30T00:37:02.145Z"
+generated_at: "2026-03-30T00:39:47.409Z"
 ---
 
 # § 408l. Forfeiture of property used in hunting, fishing, etc.

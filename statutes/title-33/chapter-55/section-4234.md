@@ -3,9 +3,9 @@ title: "Section 4234 - Judges"
 usc_title: 33
 usc_section: "4234"
 chapter: 55
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "33 U.S.C. § 4234"
-generated_at: "2026-03-30T00:38:05.418Z"
+generated_at: "2026-03-30T00:40:28.233Z"
 ---
 
 # § 4234. Judges

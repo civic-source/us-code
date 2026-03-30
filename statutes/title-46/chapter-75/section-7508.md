@@ -3,9 +3,9 @@ title: "Section 7508 - Authority to extend the duration of medical certificates"
 usc_title: 46
 usc_section: "7508"
 chapter: 75
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "46 U.S.C. § 7508"
-generated_at: "2026-03-30T00:38:41.110Z"
+generated_at: "2026-03-30T00:41:04.490Z"
 ---
 
 # § 7508. Authority to extend the duration of medical certificates

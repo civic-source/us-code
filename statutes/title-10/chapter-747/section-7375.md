@@ -3,9 +3,9 @@ title: "Section 7375 - Production of supplies and munitions: hours and pay of la
 usc_title: 10
 usc_section: "7375"
 chapter: 747
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 7375"
-generated_at: "2026-03-30T00:36:31.055Z"
+generated_at: "2026-03-30T00:39:26.683Z"
 ---
 
 # § 7375. Production of supplies and munitions: hours and pay of laborers and mechanics

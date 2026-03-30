@@ -3,9 +3,9 @@ title: "Section 951 - Establishment; organization; administration"
 usc_title: 10
 usc_section: "951"
 chapter: 48
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 951"
-generated_at: "2026-03-30T00:36:30.944Z"
+generated_at: "2026-03-30T00:39:26.516Z"
 ---
 
 # § 951. Establishment; organization; administration

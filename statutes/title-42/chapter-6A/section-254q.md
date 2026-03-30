@@ -3,9 +3,9 @@ title: "Section 254q - Authorization of appropriations"
 usc_title: 42
 usc_section: "254q"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 254q"
-generated_at: "2026-03-30T00:38:35.450Z"
+generated_at: "2026-03-30T00:40:56.993Z"
 ---
 
 # § 254q. Authorization of appropriations

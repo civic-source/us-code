@@ -3,9 +3,9 @@ title: "Section 2141 - Licensing by Nuclear Regulatory Commission of distributio
 usc_title: 42
 usc_section: "2141"
 chapter: 23
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 2141"
-generated_at: "2026-03-30T00:38:35.873Z"
+generated_at: "2026-03-30T00:40:57.408Z"
 ---
 
 # § 2141. Licensing by Nuclear Regulatory Commission of distribution of special nuclear material, source material, and byproduct material by Department of Energy

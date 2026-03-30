@@ -3,9 +3,9 @@ title: "Section 3007 - Appropriations for Commission"
 usc_title: 22
 usc_section: "3007"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 3007"
-generated_at: "2026-03-30T00:37:11.301Z"
+generated_at: "2026-03-30T00:40:08.128Z"
 ---
 
 # § 3007. Appropriations for Commission

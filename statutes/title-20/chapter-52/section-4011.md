@@ -3,9 +3,9 @@ title: "Section 4011 - Findings and purpose"
 usc_title: 20
 usc_section: "4011"
 chapter: 52
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 4011"
-generated_at: "2026-03-30T00:36:53.698Z"
+generated_at: "2026-03-30T00:39:53.652Z"
 ---
 
 # § 4011. Findings and purpose

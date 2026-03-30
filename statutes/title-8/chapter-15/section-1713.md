@@ -3,9 +3,9 @@ title: "Section 1713 - Machine-readable visa fees"
 usc_title: 8
 usc_section: "1713"
 chapter: 15
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "8 U.S.C. § 1713"
-generated_at: "2026-03-30T00:36:22.482Z"
+generated_at: "2026-03-30T00:39:12.918Z"
 ---
 
 # § 1713. Machine-readable visa fees

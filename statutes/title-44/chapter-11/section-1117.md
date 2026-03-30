@@ -3,9 +3,9 @@ title: "Section 1117 - Annual reports: discontinuance of printing of annual or s
 usc_title: 44
 usc_section: "1117"
 chapter: 11
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "44 U.S.C. § 1117"
-generated_at: "2026-03-30T00:38:15.877Z"
+generated_at: "2026-03-30T00:40:41.068Z"
 ---
 
 # § 1117. Annual reports: discontinuance of printing of annual or special reports to keep within appropriations

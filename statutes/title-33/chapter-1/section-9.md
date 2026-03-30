@@ -3,9 +3,9 @@ title: "Section 9 - Des Moines River as toll free"
 usc_title: 33
 usc_section: "9"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "33 U.S.C. § 9"
-generated_at: "2026-03-30T00:38:05.323Z"
+generated_at: "2026-03-30T00:40:28.131Z"
 ---
 
 # § 9. Des Moines River as toll free

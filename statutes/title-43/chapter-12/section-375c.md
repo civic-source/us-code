@@ -3,9 +3,9 @@ title: "Section 375c - Sales of small tracts to resident farm owners and entryme
 usc_title: 43
 usc_section: "375c"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 375c"
-generated_at: "2026-03-30T00:38:15.556Z"
+generated_at: "2026-03-30T00:40:42.038Z"
 ---
 
 # § 375c. Sales of small tracts to resident farm owners and entrymen; price; terms; acreage purchasable

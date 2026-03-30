@@ -3,9 +3,9 @@ title: "Section 4230 - Program requirements"
 usc_title: 25
 usc_section: "4230"
 chapter: 43
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 4230"
-generated_at: "2026-03-30T00:37:24.789Z"
+generated_at: "2026-03-30T00:40:05.794Z"
 ---
 
 # § 4230. Program requirements

@@ -3,9 +3,9 @@ title: "Section 7d - Security for countermeasure development and production"
 usc_title: 42
 usc_section: "7d"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-30T00:38:35.441Z"
+generated_at: "2026-03-30T00:40:56.984Z"
 ---
 
 # § 247d–7d. Security for countermeasure development and production

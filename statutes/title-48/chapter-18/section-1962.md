@@ -3,9 +3,9 @@ title: "Section 1962 - Transition funding"
 usc_title: 48
 usc_section: "1962"
 chapter: 18
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "48 U.S.C. § 1962"
-generated_at: "2026-03-30T00:38:39.308Z"
+generated_at: "2026-03-30T00:41:02.879Z"
 ---
 
 # § 1962. Transition funding

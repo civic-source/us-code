@@ -3,9 +3,9 @@ title: "Section 5111 - Revocation and restoration of authority to classify posit
 usc_title: 5
 usc_section: "5111"
 chapter: 51
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "5 U.S.C. § 5111"
-generated_at: "2026-03-30T00:36:18.963Z"
+generated_at: "2026-03-30T00:39:08.307Z"
 ---
 
 # § 5111. Revocation and restoration of authority to classify positions

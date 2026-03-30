@@ -3,9 +3,9 @@ title: "Section 3327 - Limitation on transfer of funds between CIA and Departmen
 usc_title: 50
 usc_section: "3327"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3327"
-generated_at: "2026-03-30T00:38:42.526Z"
+generated_at: "2026-03-30T00:41:02.190Z"
 ---
 
 # § 3327. Limitation on transfer of funds between CIA and Department of Defense; congressional notification required

@@ -3,9 +3,9 @@ title: "Section 150101 - Definition"
 usc_title: 36
 usc_section: "150101"
 chapter: 1501
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "36 U.S.C. § 150101"
-generated_at: "2026-03-30T00:38:10.140Z"
+generated_at: "2026-03-30T00:40:38.835Z"
 ---
 
 # § 150101. Definition

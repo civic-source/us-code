@@ -3,9 +3,9 @@ title: "Section 19040 - Foreign financial support"
 usc_title: 42
 usc_section: "19040"
 chapter: 163
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 19040"
-generated_at: "2026-03-30T00:38:36.256Z"
+generated_at: "2026-03-30T00:40:57.791Z"
 ---
 
 # § 19040. Foreign financial support

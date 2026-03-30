@@ -3,9 +3,9 @@ title: "Section 9662 - Limitation on contract and borrowing authority"
 usc_title: 42
 usc_section: "9662"
 chapter: 103
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 9662"
-generated_at: "2026-03-30T00:38:36.084Z"
+generated_at: "2026-03-30T00:40:57.627Z"
 ---
 
 # § 9662. Limitation on contract and borrowing authority

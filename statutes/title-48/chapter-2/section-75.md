@@ -3,9 +3,9 @@ title: "Section 75 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 48
 usc_section: "75"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "48 U.S.C. § 75"
-generated_at: "2026-03-30T00:38:39.287Z"
+generated_at: "2026-03-30T00:41:02.859Z"
 ---
 
 # §§ 74, 75. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642

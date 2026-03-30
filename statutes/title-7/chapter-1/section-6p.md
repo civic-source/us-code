@@ -3,9 +3,9 @@ title: "Section 6p - Standards and examinations"
 usc_title: 7
 usc_section: "6p"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 6p"
-generated_at: "2026-03-30T00:36:25.622Z"
+generated_at: "2026-03-30T00:39:17.498Z"
 ---
 
 # § 6p. Standards and examinations

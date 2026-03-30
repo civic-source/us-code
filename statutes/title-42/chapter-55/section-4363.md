@@ -3,9 +3,9 @@ title: "Section 4363 - Continuing and long-term environmental research and devel
 usc_title: 42
 usc_section: "4363"
 chapter: 55
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 4363"
-generated_at: "2026-03-30T00:38:35.925Z"
+generated_at: "2026-03-30T00:40:57.464Z"
 ---
 
 # § 4363. Continuing and long-term environmental research and development

@@ -3,9 +3,9 @@ title: "Section 1745 - Disclaimer of interest in lands"
 usc_title: 43
 usc_section: "1745"
 chapter: 35
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 1745"
-generated_at: "2026-03-30T00:38:15.602Z"
+generated_at: "2026-03-30T00:40:42.083Z"
 ---
 
 # § 1745. Disclaimer of interest in lands

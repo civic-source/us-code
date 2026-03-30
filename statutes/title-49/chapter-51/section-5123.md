@@ -3,9 +3,9 @@ title: "Section 5123 - Civil penalty"
 usc_title: 49
 usc_section: "5123"
 chapter: 51
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "49 U.S.C. § 5123"
-generated_at: "2026-03-30T00:38:45.301Z"
+generated_at: "2026-03-30T00:41:06.939Z"
 ---
 
 # § 5123. Civil penalty

@@ -3,9 +3,9 @@ title: "Section 7282 - Medals: posthumous award and presentation"
 usc_title: 10
 usc_section: "7282"
 chapter: 737
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 7282"
-generated_at: "2026-03-30T00:36:31.055Z"
+generated_at: "2026-03-30T00:39:26.681Z"
 ---
 
 # § 7282. Medals: posthumous award and presentation

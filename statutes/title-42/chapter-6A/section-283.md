@@ -3,9 +3,9 @@ title: "Section 283 - Triennial reports of Director of NIH"
 usc_title: 42
 usc_section: "283"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 283"
-generated_at: "2026-03-30T00:38:35.474Z"
+generated_at: "2026-03-30T00:40:57.016Z"
 ---
 
 # § 283. Triennial reports of Director of NIH

@@ -3,9 +3,9 @@ title: "Section 1469 - Employment and compensation of personnel to perform work 
 usc_title: 43
 usc_section: "1469"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 1469"
-generated_at: "2026-03-30T00:38:15.586Z"
+generated_at: "2026-03-30T00:40:42.068Z"
 ---
 
 # § 1469. Employment and compensation of personnel to perform work occasioned by emergencies

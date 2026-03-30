@@ -3,9 +3,9 @@ title: "Section 7933 - Term of loans"
 usc_title: 7
 usc_section: "7933"
 chapter: 106
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 7933"
-generated_at: "2026-03-30T00:36:25.820Z"
+generated_at: "2026-03-30T00:39:17.733Z"
 ---
 
 # § 7933. Term of loans

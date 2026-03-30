@@ -3,9 +3,9 @@ title: "Section 9806 - Establishment and scope of programs"
 usc_title: 42
 usc_section: "9806"
 chapter: 105
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 9806"
-generated_at: "2026-03-30T00:38:36.085Z"
+generated_at: "2026-03-30T00:40:57.628Z"
 ---
 
 # § 9806. Establishment and scope of programs

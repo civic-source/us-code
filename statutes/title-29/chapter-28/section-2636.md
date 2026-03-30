@@ -3,9 +3,9 @@ title: "Section 2636 - Termination"
 usc_title: 29
 usc_section: "2636"
 chapter: 28
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "29 U.S.C. § 2636"
-generated_at: "2026-03-30T00:37:38.936Z"
+generated_at: "2026-03-30T00:40:12.083Z"
 ---
 
 # § 2636. Termination

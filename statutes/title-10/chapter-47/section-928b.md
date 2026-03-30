@@ -3,9 +3,9 @@ title: "Section 928b - Art. 128b. Domestic violence"
 usc_title: 10
 usc_section: "928b"
 chapter: 47
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 928b"
-generated_at: "2026-03-30T00:36:30.939Z"
+generated_at: "2026-03-30T00:39:26.510Z"
 ---
 
 # § 928b. Art. 128b. Domestic violence

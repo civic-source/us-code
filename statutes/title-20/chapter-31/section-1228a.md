@@ -3,9 +3,9 @@ title: "Section 1228a - Equity for students, teachers, and other program benefic
 usc_title: 20
 usc_section: "1228a"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 1228a"
-generated_at: "2026-03-30T00:36:53.672Z"
+generated_at: "2026-03-30T00:39:53.626Z"
 ---
 
 # § 1228a. Equity for students, teachers, and other program beneficiaries

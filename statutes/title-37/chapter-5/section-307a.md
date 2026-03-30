@@ -3,9 +3,9 @@ title: "Section 307a - Special pay: assignment incentive pay"
 usc_title: 37
 usc_section: "307a"
 chapter: 5
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "37 U.S.C. § 307a"
-generated_at: "2026-03-30T00:38:07.401Z"
+generated_at: "2026-03-30T00:40:35.623Z"
 ---
 
 # § 307a. Special pay: assignment incentive pay

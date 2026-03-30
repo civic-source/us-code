@@ -3,9 +3,9 @@ title: "Section 2413 - Executive Director and Deputy Director"
 usc_title: 15
 usc_section: "2413"
 chapter: 51
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 2413"
-generated_at: "2026-03-30T00:36:40.681Z"
+generated_at: "2026-03-30T00:39:40.401Z"
 ---
 
 # § 2413. Executive Director and Deputy Director

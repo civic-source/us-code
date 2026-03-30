@@ -3,9 +3,9 @@ title: "Section 273c - Livestock trails, watering rights; driveway regulations"
 usc_title: 16
 usc_section: "273c"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 273c"
-generated_at: "2026-03-30T00:37:02.137Z"
+generated_at: "2026-03-30T00:39:47.400Z"
 ---
 
 # § 273c. Livestock trails, watering rights; driveway regulations

@@ -3,9 +3,9 @@ title: "Section 217b - Statutory trust established; dealer"
 usc_title: 7
 usc_section: "217b"
 chapter: 9
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 217b"
-generated_at: "2026-03-30T00:36:25.655Z"
+generated_at: "2026-03-30T00:39:17.533Z"
 ---
 
 # § 217b. Statutory trust established; dealer

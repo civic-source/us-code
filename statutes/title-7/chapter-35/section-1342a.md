@@ -3,9 +3,9 @@ title: "Section 1342a - National cotton production goal"
 usc_title: 7
 usc_section: "1342a"
 chapter: 35
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 1342a"
-generated_at: "2026-03-30T00:36:25.679Z"
+generated_at: "2026-03-30T00:39:17.563Z"
 ---
 
 # § 1342a. National cotton production goal

@@ -3,9 +3,9 @@ title: "Section 1022 - Purposes"
 usc_title: 20
 usc_section: "1022"
 chapter: 28
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 1022"
-generated_at: "2026-03-30T00:36:53.617Z"
+generated_at: "2026-03-30T00:39:53.569Z"
 ---
 
 # § 1022. Purposes

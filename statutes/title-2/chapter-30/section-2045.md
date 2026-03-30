@@ -3,9 +3,9 @@ title: "Section 2045 - Deposits and disbursements under special deposit account"
 usc_title: 2
 usc_section: "2045"
 chapter: 30
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 2045"
-generated_at: "2026-03-30T00:36:16.966Z"
+generated_at: "2026-03-30T00:39:10.190Z"
 ---
 
 # § 2045. Deposits and disbursements under special deposit account

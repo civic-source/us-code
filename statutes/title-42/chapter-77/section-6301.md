@@ -3,9 +3,9 @@ title: "Section 6301 - Imports"
 usc_title: 42
 usc_section: "6301"
 chapter: 77
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 6301"
-generated_at: "2026-03-30T00:38:35.973Z"
+generated_at: "2026-03-30T00:40:57.514Z"
 ---
 
 # § 6301. Imports

@@ -3,9 +3,9 @@ title: "Section 2731 - Definition"
 usc_title: 10
 usc_section: "2731"
 chapter: 163
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 2731"
-generated_at: "2026-03-30T00:36:31.015Z"
+generated_at: "2026-03-30T00:39:26.625Z"
 ---
 
 # § 2731. Definition

@@ -3,9 +3,9 @@ title: "Section 28 - Parliamentary precedents of House of Representatives"
 usc_title: 2
 usc_section: "28"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 28"
-generated_at: "2026-03-30T00:36:16.928Z"
+generated_at: "2026-03-30T00:39:10.144Z"
 ---
 
 # § 28. Parliamentary precedents of House of Representatives

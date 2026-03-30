@@ -3,9 +3,9 @@ title: "Section 2345 - Prehearing conference"
 usc_title: 28
 usc_section: "2345"
 chapter: 158
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 2345"
-generated_at: "2026-03-30T00:37:57.029Z"
+generated_at: "2026-03-30T00:40:13.146Z"
 ---
 
 # § 2345. Prehearing conference

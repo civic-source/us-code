@@ -3,9 +3,9 @@ title: "Section 862 - Denial of Federal benefits to drug traffickers and possess
 usc_title: 21
 usc_section: "862"
 chapter: 13
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "21 U.S.C. § 862"
-generated_at: "2026-03-30T00:37:07.528Z"
+generated_at: "2026-03-30T00:40:03.158Z"
 ---
 
 # § 862. Denial of Federal benefits to drug traffickers and possessors

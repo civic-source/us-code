@@ -3,9 +3,9 @@ title: "Section 1451 - Definitions"
 usc_title: 28
 usc_section: "1451"
 chapter: 89
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 1451"
-generated_at: "2026-03-30T00:37:57.021Z"
+generated_at: "2026-03-30T00:40:13.138Z"
 ---
 
 # § 1451. Definitions

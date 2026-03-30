@@ -3,9 +3,9 @@ title: "Section 4903 - Fellowships"
 usc_title: 22
 usc_section: "4903"
 chapter: 59
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 4903"
-generated_at: "2026-03-30T00:37:11.329Z"
+generated_at: "2026-03-30T00:40:08.155Z"
 ---
 
 # § 4903. Fellowships

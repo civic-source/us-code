@@ -3,9 +3,9 @@ title: "Section 2431k - Annual reports to Congress"
 usc_title: 22
 usc_section: "2431k"
 chapter: 32
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 2431k"
-generated_at: "2026-03-30T00:37:11.277Z"
+generated_at: "2026-03-30T00:40:08.105Z"
 ---
 
 # § 2431k. Annual reports to Congress

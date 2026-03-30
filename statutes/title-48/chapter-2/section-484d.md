@@ -3,9 +3,9 @@ title: "Section 484d - Omitted"
 usc_title: 48
 usc_section: "484d"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "48 U.S.C. § 484d"
-generated_at: "2026-03-30T00:38:39.288Z"
+generated_at: "2026-03-30T00:41:02.859Z"
 ---
 
 # §§ 473 to 484d. Omitted

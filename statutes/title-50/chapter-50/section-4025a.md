@@ -3,9 +3,9 @@ title: "Section 4025a - Portability of professional licenses of servicemembers a
 usc_title: 50
 usc_section: "4025a"
 chapter: 50
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 4025a"
-generated_at: "2026-03-30T00:38:42.549Z"
+generated_at: "2026-03-30T00:41:02.212Z"
 ---
 
 # § 4025a. Portability of professional licenses of servicemembers and their spouses

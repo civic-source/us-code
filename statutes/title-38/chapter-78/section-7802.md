@@ -3,9 +3,9 @@ title: "Section 7802 - Duties of Secretary with respect to Service"
 usc_title: 38
 usc_section: "7802"
 chapter: 78
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "38 U.S.C. § 7802"
-generated_at: "2026-03-30T00:38:11.793Z"
+generated_at: "2026-03-30T00:40:32.908Z"
 ---
 
 # § 7802. Duties of Secretary with respect to Service

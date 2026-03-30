@@ -3,9 +3,9 @@ title: "Section 9594 - Department of the Air Force Military History Institute: f
 usc_title: 10
 usc_section: "9594"
 chapter: 967
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 9594"
-generated_at: "2026-03-30T00:36:31.085Z"
+generated_at: "2026-03-30T00:39:26.723Z"
 ---
 
 # § 9594. Department of the Air Force Military History Institute: fee for providing historical information to the public

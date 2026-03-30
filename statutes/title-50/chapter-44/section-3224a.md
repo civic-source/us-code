@@ -3,9 +3,9 @@ title: "Section 3224a - Authorization of support by Director of National Intelli
 usc_title: 50
 usc_section: "3224a"
 chapter: 44
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3224a"
-generated_at: "2026-03-30T00:38:42.522Z"
+generated_at: "2026-03-30T00:41:02.186Z"
 ---
 
 # § 3224a. Authorization of support by Director of National Intelligence for certain workforce activities

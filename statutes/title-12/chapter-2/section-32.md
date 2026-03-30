@@ -3,9 +3,9 @@ title: "Section 32 - Liabilities and suits as affected by change of name or loca
 usc_title: 12
 usc_section: "32"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 32"
-generated_at: "2026-03-30T00:36:37.442Z"
+generated_at: "2026-03-30T00:39:34.887Z"
 ---
 
 # § 32. Liabilities and suits as affected by change of name or location

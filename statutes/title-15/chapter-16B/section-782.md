@@ -3,9 +3,9 @@ title: "Section 782 - Petrochemical report to Congress"
 usc_title: 15
 usc_section: "782"
 chapter: 16
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 782"
-generated_at: "2026-03-30T00:36:40.616Z"
+generated_at: "2026-03-30T00:39:40.345Z"
 ---
 
 # § 782. Petrochemical report to Congress

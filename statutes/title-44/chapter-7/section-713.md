@@ -3,9 +3,9 @@ title: "Section 713 - Journals of Houses of Congress"
 usc_title: 44
 usc_section: "713"
 chapter: 7
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "44 U.S.C. § 713"
-generated_at: "2026-03-30T00:38:15.874Z"
+generated_at: "2026-03-30T00:40:41.066Z"
 ---
 
 # § 713. Journals of Houses of Congress

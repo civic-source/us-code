@@ -3,9 +3,9 @@ title: "Section 6921 - Identification and listing of hazardous waste"
 usc_title: 42
 usc_section: "6921"
 chapter: 82
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 6921"
-generated_at: "2026-03-30T00:38:35.990Z"
+generated_at: "2026-03-30T00:40:57.534Z"
 ---
 
 # § 6921. Identification and listing of hazardous waste

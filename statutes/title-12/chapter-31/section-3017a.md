@@ -3,9 +3,9 @@ title: "Section 3017a - Class A notes as paid-in capital of the Bank"
 usc_title: 12
 usc_section: "3017a"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 3017a"
-generated_at: "2026-03-30T00:36:37.570Z"
+generated_at: "2026-03-30T00:39:35.065Z"
 ---
 
 # § 3017a. Class A notes as paid-in capital of the Bank

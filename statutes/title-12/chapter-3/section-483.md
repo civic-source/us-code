@@ -3,9 +3,9 @@ title: "Section 483 - Special examination of member banks; information of condit
 usc_title: 12
 usc_section: "483"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "12 U.S.C. § 483"
-generated_at: "2026-03-30T00:36:37.454Z"
+generated_at: "2026-03-30T00:39:34.904Z"
 ---
 
 # § 483. Special examination of member banks; information of condition furnished to Board of Governors of the Federal Reserve System

@@ -3,9 +3,9 @@ title: "Section 12205 - Commissioned officers: appointment; educational requirem
 usc_title: 10
 usc_section: "12205"
 chapter: 1205
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 12205"
-generated_at: "2026-03-30T00:36:31.091Z"
+generated_at: "2026-03-30T00:39:26.732Z"
 ---
 
 # § 12205. Commissioned officers: appointment; educational requirement

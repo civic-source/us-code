@@ -3,9 +3,9 @@ title: "Section 721 - Congressional Directory"
 usc_title: 44
 usc_section: "721"
 chapter: 7
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "44 U.S.C. § 721"
-generated_at: "2026-03-30T00:38:15.875Z"
+generated_at: "2026-03-30T00:40:41.066Z"
 ---
 
 # § 721. Congressional Directory

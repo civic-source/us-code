@@ -3,9 +3,9 @@ title: "Section 9265a - Reports on certain licensing actions"
 usc_title: 22
 usc_section: "9265a"
 chapter: 99
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 9265a"
-generated_at: "2026-03-30T00:37:11.381Z"
+generated_at: "2026-03-30T00:40:08.203Z"
 ---
 
 # § 9265a. Reports on certain licensing actions

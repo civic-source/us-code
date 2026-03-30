@@ -3,9 +3,9 @@ title: "Section 123 - Repealed. June 25, 1936, ch. 815, § 9 , 49 Stat. 1930"
 usc_title: 27
 usc_section: "123"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "27 U.S.C. § 123"
-generated_at: "2026-03-30T00:37:26.700Z"
+generated_at: "2026-03-30T00:40:10.033Z"
 ---
 
 # § 123. Repealed. June 25, 1936, ch. 815, § 9 , 49 Stat. 1930

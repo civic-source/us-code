@@ -3,9 +3,9 @@ title: "Section 11132 - Reporting of sanctions taken by Boards of Medical Examin
 usc_title: 42
 usc_section: "11132"
 chapter: 117
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 11132"
-generated_at: "2026-03-30T00:38:36.115Z"
+generated_at: "2026-03-30T00:40:57.657Z"
 ---
 
 # § 11132. Reporting of sanctions taken by Boards of Medical Examiners

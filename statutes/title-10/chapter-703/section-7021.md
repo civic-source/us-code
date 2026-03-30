@@ -3,9 +3,9 @@ title: "Section 7021 - Army Reserve Forces Policy Committee"
 usc_title: 10
 usc_section: "7021"
 chapter: 703
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 7021"
-generated_at: "2026-03-30T00:36:31.053Z"
+generated_at: "2026-03-30T00:39:26.679Z"
 ---
 
 # § 7021. Army Reserve Forces Policy Committee

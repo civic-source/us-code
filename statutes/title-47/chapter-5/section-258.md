@@ -3,9 +3,9 @@ title: "Section 258 - Illegal changes in subscriber carrier selections"
 usc_title: 47
 usc_section: "258"
 chapter: 5
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "47 U.S.C. § 258"
-generated_at: "2026-03-30T00:38:39.860Z"
+generated_at: "2026-03-30T00:41:03.453Z"
 ---
 
 # § 258. Illegal changes in subscriber carrier selections

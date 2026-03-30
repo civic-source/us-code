@@ -3,9 +3,9 @@ title: "Section 1 - Mission of United States Information Agency"
 usc_title: 22
 usc_section: "1"
 chapter: 18
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T00:37:11.240Z"
+generated_at: "2026-03-30T00:40:08.068Z"
 ---
 
 # § 1461–1. Mission of United States Information Agency

@@ -3,9 +3,9 @@ title: "Section 8024 - Repealed. Pub. L. 118–31, div. A, title IX, § 914 , De
 usc_title: 10
 usc_section: "8024"
 chapter: 803
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 8024"
-generated_at: "2026-03-30T00:36:31.061Z"
+generated_at: "2026-03-30T00:39:26.691Z"
 ---
 
 # [§ 8024. Repealed. Pub. L. 118–31, div. A, title IX, § 914 , Dec. 22, 2023 , 137 Stat. 368 ]

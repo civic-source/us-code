@@ -3,9 +3,9 @@ title: "Section 3135 - Comparable budgeting for common procurement weapon system
 usc_title: 10
 usc_section: "3135"
 chapter: 207
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 3135"
-generated_at: "2026-03-30T00:36:31.027Z"
+generated_at: "2026-03-30T00:39:26.644Z"
 ---
 
 # § 3135. Comparable budgeting for common procurement weapon systems

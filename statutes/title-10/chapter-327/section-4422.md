@@ -3,9 +3,9 @@ title: "Section 4422 - Weapon system component or technology prototype projects:
 usc_title: 10
 usc_section: "4422"
 chapter: 327
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 4422"
-generated_at: "2026-03-30T00:36:31.044Z"
+generated_at: "2026-03-30T00:39:26.667Z"
 ---
 
 # § 4422. Weapon system component or technology prototype projects: oversight

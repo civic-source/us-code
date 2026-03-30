@@ -3,9 +3,9 @@ title: "Section 4504 - Nonpay status for Congressional employees studying under 
 usc_title: 2
 usc_section: "4504"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 4504"
-generated_at: "2026-03-30T00:36:16.973Z"
+generated_at: "2026-03-30T00:39:10.197Z"
 ---
 
 # § 4504. Nonpay status for Congressional employees studying under Congressional staff fellowships

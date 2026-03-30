@@ -3,9 +3,9 @@ title: "Section 3048 - Continuation on active duty; deferral of retirement"
 usc_title: 33
 usc_section: "3048"
 chapter: 43
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "33 U.S.C. § 3048"
-generated_at: "2026-03-30T00:38:05.407Z"
+generated_at: "2026-03-30T00:40:28.222Z"
 ---
 
 # § 3048. Continuation on active duty; deferral of retirement

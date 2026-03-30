@@ -3,9 +3,9 @@ title: "Section 4503 - Security for advance payments"
 usc_title: 41
 usc_section: "4503"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "41 U.S.C. § 4503"
-generated_at: "2026-03-30T00:38:14.727Z"
+generated_at: "2026-03-30T00:40:40.721Z"
 ---
 
 # § 4503. Security for advance payments

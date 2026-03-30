@@ -3,9 +3,9 @@ title: "Section 3235a - Notice and damage assessment with respect to significant
 usc_title: 50
 usc_section: "3235a"
 chapter: 44
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3235a"
-generated_at: "2026-03-30T00:38:42.523Z"
+generated_at: "2026-03-30T00:41:02.187Z"
 ---
 
 # § 3235a. Notice and damage assessment with respect to significant unauthorized disclosure or compromise of classified national intelligence

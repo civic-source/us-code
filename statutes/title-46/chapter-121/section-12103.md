@@ -3,9 +3,9 @@ title: "Section 12103 - General eligibility requirements"
 usc_title: 46
 usc_section: "12103"
 chapter: 121
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "46 U.S.C. § 12103"
-generated_at: "2026-03-30T00:38:41.117Z"
+generated_at: "2026-03-30T00:41:04.494Z"
 ---
 
 # § 12103. General eligibility requirements

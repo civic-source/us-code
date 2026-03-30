@@ -3,9 +3,9 @@ title: "Section 9415 - Community College of the Air Force: associate degrees"
 usc_title: 10
 usc_section: "9415"
 chapter: 951
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 9415"
-generated_at: "2026-03-30T00:36:31.081Z"
+generated_at: "2026-03-30T00:39:26.718Z"
 ---
 
 # § 9415. Community College of the Air Force: associate degrees

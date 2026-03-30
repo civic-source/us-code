@@ -3,9 +3,9 @@ title: "Section 12111 - Definitions"
 usc_title: 42
 usc_section: "12111"
 chapter: 126
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 12111"
-generated_at: "2026-03-30T00:38:36.127Z"
+generated_at: "2026-03-30T00:40:57.669Z"
 ---
 
 # § 12111. Definitions

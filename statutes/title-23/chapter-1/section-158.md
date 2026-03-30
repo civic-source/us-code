@@ -3,9 +3,9 @@ title: "Section 158 - National minimum drinking age"
 usc_title: 23
 usc_section: "158"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "23 U.S.C. § 158"
-generated_at: "2026-03-30T00:37:05.437Z"
+generated_at: "2026-03-30T00:40:04.051Z"
 ---
 
 # § 158. National minimum drinking age

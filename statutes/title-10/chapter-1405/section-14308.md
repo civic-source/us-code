@@ -3,9 +3,9 @@ title: "Section 14308 - Promotions: how made"
 usc_title: 10
 usc_section: "14308"
 chapter: 1405
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 14308"
-generated_at: "2026-03-30T00:36:31.098Z"
+generated_at: "2026-03-30T00:39:26.740Z"
 ---
 
 # § 14308. Promotions: how made

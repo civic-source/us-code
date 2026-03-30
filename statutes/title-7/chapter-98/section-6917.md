@@ -3,9 +3,9 @@ title: "Section 6917 - Repealed. Pub. L. 115–334, title XII, § 12414(a)(4) , 
 usc_title: 7
 usc_section: "6917"
 chapter: 98
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 6917"
-generated_at: "2026-03-30T00:36:25.794Z"
+generated_at: "2026-03-30T00:39:17.700Z"
 ---
 
 # § 6917. Repealed. Pub. L. 115–334, title XII, § 12414(a)(4) , Dec. 20, 2018 , 132 Stat. 4981

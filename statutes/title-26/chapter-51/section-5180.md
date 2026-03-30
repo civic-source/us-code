@@ -3,9 +3,9 @@ title: "Section 5180 - Signs"
 usc_title: 26
 usc_section: "5180"
 chapter: 51
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 5180"
-generated_at: "2026-03-30T00:37:37.799Z"
+generated_at: "2026-03-30T00:40:20.569Z"
 ---
 
 # § 5180. Signs

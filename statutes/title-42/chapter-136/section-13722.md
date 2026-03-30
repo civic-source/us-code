@@ -3,9 +3,9 @@ title: "Section 13722 - Transferred"
 usc_title: 42
 usc_section: "13722"
 chapter: 136
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 13722"
-generated_at: "2026-03-30T00:38:36.168Z"
+generated_at: "2026-03-30T00:40:57.709Z"
 ---
 
 # § 13722. Transferred

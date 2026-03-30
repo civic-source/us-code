@@ -3,9 +3,9 @@ title: "Section 315a - Protection, administration, regulation, and improvement o
 usc_title: 43
 usc_section: "315a"
 chapter: 8
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 315a"
-generated_at: "2026-03-30T00:38:15.553Z"
+generated_at: "2026-03-30T00:40:42.034Z"
 ---
 
 # § 315a. Protection, administration, regulation, and improvement of districts; rules and regulations; study of erosion and flood control; offenses

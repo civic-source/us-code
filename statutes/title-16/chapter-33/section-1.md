@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of the Coastal and Estuarine Land Conservation
 usc_title: 16
 usc_section: "1"
 chapter: 33
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:37:02.313Z"
+generated_at: "2026-03-30T00:39:47.573Z"
 ---
 
 # § 1456–1. Authorization of the Coastal and Estuarine Land Conservation Program

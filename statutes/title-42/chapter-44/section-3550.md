@@ -3,9 +3,9 @@ title: "Section 3550 - Audit of Department financial statements"
 usc_title: 42
 usc_section: "3550"
 chapter: 44
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 3550"
-generated_at: "2026-03-30T00:38:35.912Z"
+generated_at: "2026-03-30T00:40:57.450Z"
 ---
 
 # § 3550. Audit of Department financial statements

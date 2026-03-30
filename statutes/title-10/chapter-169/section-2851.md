@@ -3,9 +3,9 @@ title: "Section 2851 - Supervision of military construction projects"
 usc_title: 10
 usc_section: "2851"
 chapter: 169
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 2851"
-generated_at: "2026-03-30T00:36:31.019Z"
+generated_at: "2026-03-30T00:39:26.632Z"
 ---
 
 # § 2851. Supervision of military construction projects

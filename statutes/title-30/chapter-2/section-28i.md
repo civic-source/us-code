@@ -3,9 +3,9 @@ title: "Section 28i - Failure to pay"
 usc_title: 30
 usc_section: "28i"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "30 U.S.C. § 28i"
-generated_at: "2026-03-30T00:37:31.642Z"
+generated_at: "2026-03-30T00:40:10.850Z"
 ---
 
 # § 28i. Failure to pay

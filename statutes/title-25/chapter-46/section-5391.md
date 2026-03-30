@@ -3,9 +3,9 @@ title: "Section 5391 - Civil actions"
 usc_title: 25
 usc_section: "5391"
 chapter: 46
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 5391"
-generated_at: "2026-03-30T00:37:24.798Z"
+generated_at: "2026-03-30T00:40:05.802Z"
 ---
 
 # § 5391. Civil actions

@@ -3,9 +3,9 @@ title: "Section 30507 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "30507"
 chapter: 305
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "36 U.S.C. § 30507"
-generated_at: "2026-03-30T00:38:10.134Z"
+generated_at: "2026-03-30T00:40:38.828Z"
 ---
 
 # § 30507. Exclusive right to name, seals, emblems, and badges

@@ -3,9 +3,9 @@ title: "Section 20301 - Original enlistments: qualifications; grade"
 usc_title: 10
 usc_section: "20301"
 chapter: 2007
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 20301"
-generated_at: "2026-03-30T00:36:31.107Z"
+generated_at: "2026-03-30T00:39:26.751Z"
 ---
 
 # § 20301. Original enlistments: qualifications; grade

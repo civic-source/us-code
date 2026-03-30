@@ -3,9 +3,9 @@ title: "Section 562a - Project depths for national defense purposes; waterways f
 usc_title: 33
 usc_section: "562a"
 chapter: 12
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "33 U.S.C. § 562a"
-generated_at: "2026-03-30T00:38:05.335Z"
+generated_at: "2026-03-30T00:40:28.144Z"
 ---
 
 # § 562a. Project depths for national defense purposes; waterways for general commerce

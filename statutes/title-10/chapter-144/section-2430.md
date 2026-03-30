@@ -3,9 +3,9 @@ title: "Section 2430 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1846
 usc_title: 10
 usc_section: "2430"
 chapter: 144
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 2430"
-generated_at: "2026-03-30T00:36:31.001Z"
+generated_at: "2026-03-30T00:39:26.606Z"
 ---
 
 # [§ 2430. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1846(f)(8) , Jan. 1, 2021 , 134 Stat. 4251 ]

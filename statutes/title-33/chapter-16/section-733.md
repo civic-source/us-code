@@ -3,9 +3,9 @@ title: "Section 733 - Transferred"
 usc_title: 33
 usc_section: "733"
 chapter: 16
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "33 U.S.C. § 733"
-generated_at: "2026-03-30T00:38:05.345Z"
+generated_at: "2026-03-30T00:40:28.153Z"
 ---
 
 # § 733. Transferred

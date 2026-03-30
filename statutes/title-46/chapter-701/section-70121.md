@@ -3,9 +3,9 @@ title: "Section 70121 - Withholding of clearance"
 usc_title: 46
 usc_section: "70121"
 chapter: 701
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "46 U.S.C. § 70121"
-generated_at: "2026-03-30T00:38:41.147Z"
+generated_at: "2026-03-30T00:41:04.533Z"
 ---
 
 # § 70121. Withholding of clearance

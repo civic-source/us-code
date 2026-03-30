@@ -3,9 +3,9 @@ title: "Section 582 - Bad debts, losses, and gains with respect to securities he
 usc_title: 26
 usc_section: "582"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 582"
-generated_at: "2026-03-30T00:37:37.706Z"
+generated_at: "2026-03-30T00:40:20.470Z"
 ---
 
 # § 582. Bad debts, losses, and gains with respect to securities held by financial institutions

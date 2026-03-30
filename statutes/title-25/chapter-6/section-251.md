@@ -3,9 +3,9 @@ title: "Section 251 - Repealed. Pub. L. 115–304, § 1 , Dec. 11, 2018 , 132 St
 usc_title: 25
 usc_section: "251"
 chapter: 6
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 251"
-generated_at: "2026-03-30T00:37:24.728Z"
+generated_at: "2026-03-30T00:40:05.733Z"
 ---
 
 # § 251. Repealed. Pub. L. 115–304, § 1 , Dec. 11, 2018 , 132 Stat. 4401

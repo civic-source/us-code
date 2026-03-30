@@ -3,9 +3,9 @@ title: "Section 5346 - Transportation of official records and papers to House Me
 usc_title: 2
 usc_section: "5346"
 chapter: 53
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 5346"
-generated_at: "2026-03-30T00:36:16.977Z"
+generated_at: "2026-03-30T00:39:10.202Z"
 ---
 
 # § 5346. Transportation of official records and papers to House Member’s district

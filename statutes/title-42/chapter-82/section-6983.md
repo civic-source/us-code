@@ -3,9 +3,9 @@ title: "Section 6983 - Coordination, collection, and dissemination of informatio
 usc_title: 42
 usc_section: "6983"
 chapter: 82
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 6983"
-generated_at: "2026-03-30T00:38:36.000Z"
+generated_at: "2026-03-30T00:40:57.544Z"
 ---
 
 # § 6983. Coordination, collection, and dissemination of information

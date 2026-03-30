@@ -3,9 +3,9 @@ title: "Section 712 - Law clerks and secretaries"
 usc_title: 28
 usc_section: "712"
 chapter: 47
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 712"
-generated_at: "2026-03-30T00:37:57.016Z"
+generated_at: "2026-03-30T00:40:13.134Z"
 ---
 
 # § 712. Law clerks and secretaries

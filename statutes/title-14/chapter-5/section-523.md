@@ -3,9 +3,9 @@ title: "Section 523 - Enforcement authority"
 usc_title: 14
 usc_section: "523"
 chapter: 5
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "14 U.S.C. § 523"
-generated_at: "2026-03-30T00:36:34.028Z"
+generated_at: "2026-03-30T00:39:30.387Z"
 ---
 
 # § 523. Enforcement authority

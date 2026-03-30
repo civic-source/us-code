@@ -3,9 +3,9 @@ title: "Section 1973m - Omitted"
 usc_title: 42
 usc_section: "1973m"
 chapter: 20
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 1973m"
-generated_at: "2026-03-30T00:38:35.856Z"
+generated_at: "2026-03-30T00:40:57.391Z"
 ---
 
 # § 1973m. Omitted

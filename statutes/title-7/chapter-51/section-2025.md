@@ -3,9 +3,9 @@ title: "Section 2025 - Administrative cost-sharing and quality control"
 usc_title: 7
 usc_section: "2025"
 chapter: 51
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "7 U.S.C. § 2025"
-generated_at: "2026-03-30T00:36:25.736Z"
+generated_at: "2026-03-30T00:39:17.629Z"
 ---
 
 # § 2025. Administrative cost-sharing and quality control

@@ -3,9 +3,9 @@ title: "Section 5106 - Load line certificate"
 usc_title: 46
 usc_section: "5106"
 chapter: 51
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "46 U.S.C. § 5106"
-generated_at: "2026-03-30T00:38:41.109Z"
+generated_at: "2026-03-30T00:41:04.488Z"
 ---
 
 # § 5106. Load line certificate

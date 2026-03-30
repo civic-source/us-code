@@ -3,9 +3,9 @@ title: "Section 16183 - Energy and water for sustainability"
 usc_title: 42
 usc_section: "16183"
 chapter: 149
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 16183"
-generated_at: "2026-03-30T00:38:36.190Z"
+generated_at: "2026-03-30T00:40:57.730Z"
 ---
 
 # § 16183. Energy and water for sustainability

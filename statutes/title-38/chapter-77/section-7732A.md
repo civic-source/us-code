@@ -3,9 +3,9 @@ title: "Section 7732A - Employee certification"
 usc_title: 38
 usc_section: "7732A"
 chapter: 77
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "38 U.S.C. § 7732A"
-generated_at: "2026-03-30T00:38:11.793Z"
+generated_at: "2026-03-30T00:40:32.908Z"
 ---
 
 # § 7732A. Employee certification

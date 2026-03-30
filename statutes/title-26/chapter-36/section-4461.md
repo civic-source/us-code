@@ -3,9 +3,9 @@ title: "Section 4461 - Imposition of tax"
 usc_title: 26
 usc_section: "4461"
 chapter: 36
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "26 U.S.C. § 4461"
-generated_at: "2026-03-30T00:37:37.783Z"
+generated_at: "2026-03-30T00:40:20.552Z"
 ---
 
 # § 4461. Imposition of tax

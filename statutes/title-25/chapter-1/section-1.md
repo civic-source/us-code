@@ -3,9 +3,9 @@ title: "Section 1 - Standards of need as basis for general assistance payments b
 usc_title: 25
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T00:37:24.724Z"
+generated_at: "2026-03-30T00:40:05.730Z"
 ---
 
 # § 13d–1. Standards of need as basis for general assistance payments by Bureau of Indian Affairs; ratable reductions

@@ -3,9 +3,9 @@ title: "Section 471i - Pinelands National Reserve"
 usc_title: 16
 usc_section: "471i"
 chapter: 2
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 471i"
-generated_at: "2026-03-30T00:37:02.221Z"
+generated_at: "2026-03-30T00:39:47.482Z"
 ---
 
 # § 471i. Pinelands National Reserve

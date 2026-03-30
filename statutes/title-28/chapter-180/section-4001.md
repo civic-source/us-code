@@ -3,9 +3,9 @@ title: "Section 4001 - Assumption of contractual obligations related to transfer
 usc_title: 28
 usc_section: "4001"
 chapter: 180
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "28 U.S.C. § 4001"
-generated_at: "2026-03-30T00:37:57.036Z"
+generated_at: "2026-03-30T00:40:13.153Z"
 ---
 
 # § 4001. Assumption of contractual obligations related to transfers of rights in motion pictures

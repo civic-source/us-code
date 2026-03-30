@@ -3,9 +3,9 @@ title: "Section 16102 - Recordkeeping and reporting violations"
 usc_title: 49
 usc_section: "16102"
 chapter: 161
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "49 U.S.C. § 16102"
-generated_at: "2026-03-30T00:38:45.329Z"
+generated_at: "2026-03-30T00:41:06.965Z"
 ---
 
 # § 16102. Recordkeeping and reporting violations

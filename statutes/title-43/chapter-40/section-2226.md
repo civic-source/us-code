@@ -3,9 +3,9 @@ title: "Section 2226 - Technical assistance and transfer of precipitation manage
 usc_title: 43
 usc_section: "2226"
 chapter: 40
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "43 U.S.C. § 2226"
-generated_at: "2026-03-30T00:38:15.609Z"
+generated_at: "2026-03-30T00:40:42.090Z"
 ---
 
 # § 2226. Technical assistance and transfer of precipitation management technology

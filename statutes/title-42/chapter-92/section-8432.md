@@ -3,9 +3,9 @@ title: "Section 8432 - Criminal penalties"
 usc_title: 42
 usc_section: "8432"
 chapter: 92
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 8432"
-generated_at: "2026-03-30T00:38:36.063Z"
+generated_at: "2026-03-30T00:40:57.607Z"
 ---
 
 # § 8432. Criminal penalties

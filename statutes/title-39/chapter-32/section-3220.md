@@ -3,9 +3,9 @@ title: "Section 3220 - Use of official mail in the location and recovery of miss
 usc_title: 39
 usc_section: "3220"
 chapter: 32
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "39 U.S.C. § 3220"
-generated_at: "2026-03-30T00:38:08.462Z"
+generated_at: "2026-03-30T00:40:30.154Z"
 ---
 
 # § 3220. Use of official mail in the location and recovery of missing children

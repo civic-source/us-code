@@ -3,9 +3,9 @@ title: "Section 162b - Little Scholars Child Development Center; employee compen
 usc_title: 2
 usc_section: "162b"
 chapter: 5
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 162b"
-generated_at: "2026-03-30T00:36:16.934Z"
+generated_at: "2026-03-30T00:39:10.148Z"
 ---
 
 # § 162b. Little Scholars Child Development Center; employee compensation and personnel matters

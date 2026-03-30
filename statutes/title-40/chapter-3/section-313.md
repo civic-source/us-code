@@ -3,9 +3,9 @@ title: "Section 313 - Tests of materials"
 usc_title: 40
 usc_section: "313"
 chapter: 3
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "40 U.S.C. § 313"
-generated_at: "2026-03-30T00:38:09.059Z"
+generated_at: "2026-03-30T00:40:31.172Z"
 ---
 
 # § 313. Tests of materials

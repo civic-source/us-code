@@ -3,9 +3,9 @@ title: "Section 9706 - Studies by the Comptroller General"
 usc_title: 20
 usc_section: "9706"
 chapter: 77
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 9706"
-generated_at: "2026-03-30T00:36:53.747Z"
+generated_at: "2026-03-30T00:39:53.703Z"
 ---
 
 # § 9706. Studies by the Comptroller General

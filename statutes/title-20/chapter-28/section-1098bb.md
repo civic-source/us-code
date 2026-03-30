@@ -3,9 +3,9 @@ title: "Section 1098bb - Waiver authority for response to military contingencies
 usc_title: 20
 usc_section: "1098bb"
 chapter: 28
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 1098bb"
-generated_at: "2026-03-30T00:36:53.658Z"
+generated_at: "2026-03-30T00:39:53.611Z"
 ---
 
 # § 1098bb. Waiver authority for response to military contingencies and national emergencies

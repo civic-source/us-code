@@ -3,9 +3,9 @@ title: "Section 657j - Information tracking and follow-up system for disaster as
 usc_title: 15
 usc_section: "657j"
 chapter: 14
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "15 U.S.C. § 657j"
-generated_at: "2026-03-30T00:36:40.596Z"
+generated_at: "2026-03-30T00:39:40.328Z"
 ---
 
 # § 657j. Information tracking and follow-up system for disaster assistance

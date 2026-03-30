@@ -3,9 +3,9 @@ title: "Section 8751 - Notification of Navy procurement production disruptions"
 usc_title: 10
 usc_section: "8751"
 chapter: 873
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 8751"
-generated_at: "2026-03-30T00:36:31.075Z"
+generated_at: "2026-03-30T00:39:26.708Z"
 ---
 
 # § 8751. Notification of Navy procurement production disruptions

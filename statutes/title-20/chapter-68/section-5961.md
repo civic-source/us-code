@@ -3,9 +3,9 @@ title: "Section 5961 - Short title; statement of purpose"
 usc_title: 20
 usc_section: "5961"
 chapter: 68
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 5961"
-generated_at: "2026-03-30T00:36:53.707Z"
+generated_at: "2026-03-30T00:39:53.660Z"
 ---
 
 # § 5961. Short title; statement of purpose

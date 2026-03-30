@@ -3,9 +3,9 @@ title: "Section 15109 - Other administrative authorities"
 usc_title: 10
 usc_section: "15109"
 chapter: 1413
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "10 U.S.C. § 15109"
-generated_at: "2026-03-30T00:36:31.100Z"
+generated_at: "2026-03-30T00:39:26.743Z"
 ---
 
 # § 15109. Other administrative authorities

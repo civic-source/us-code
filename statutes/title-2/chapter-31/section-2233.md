@@ -3,9 +3,9 @@ title: "Section 2233 - Use of monies"
 usc_title: 2
 usc_section: "2233"
 chapter: 31
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "2 U.S.C. § 2233"
-generated_at: "2026-03-30T00:36:16.970Z"
+generated_at: "2026-03-30T00:39:10.193Z"
 ---
 
 # § 2233. Use of monies

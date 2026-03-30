@@ -3,9 +3,9 @@ title: "Section 1441 - State interagency coordinating council"
 usc_title: 20
 usc_section: "1441"
 chapter: 33
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "20 U.S.C. § 1441"
-generated_at: "2026-03-30T00:36:53.683Z"
+generated_at: "2026-03-30T00:39:53.636Z"
 ---
 
 # § 1441. State interagency coordinating council

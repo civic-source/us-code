@@ -3,9 +3,9 @@ title: "Section 3370a - Biennial report on foreign investment risks"
 usc_title: 50
 usc_section: "3370a"
 chapter: 45
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "50 U.S.C. § 3370a"
-generated_at: "2026-03-30T00:38:42.534Z"
+generated_at: "2026-03-30T00:41:02.196Z"
 ---
 
 # § 3370a. Biennial report on foreign investment risks

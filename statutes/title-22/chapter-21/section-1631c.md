@@ -3,9 +3,9 @@ title: "Section 1631c - Filing of order of conveyance"
 usc_title: 22
 usc_section: "1631c"
 chapter: 21
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "22 U.S.C. § 1631c"
-generated_at: "2026-03-30T00:37:11.242Z"
+generated_at: "2026-03-30T00:40:08.072Z"
 ---
 
 # § 1631c. Filing of order of conveyance

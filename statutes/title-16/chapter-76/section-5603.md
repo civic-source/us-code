@@ -3,9 +3,9 @@ title: "Section 5603 - Authorities of Secretary of State with respect to Convent
 usc_title: 16
 usc_section: "5603"
 chapter: 76
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "16 U.S.C. § 5603"
-generated_at: "2026-03-30T00:37:02.374Z"
+generated_at: "2026-03-30T00:39:47.634Z"
 ---
 
 # § 5603. Authorities of Secretary of State with respect to Convention

@@ -3,9 +3,9 @@ title: "Section 11503 - Interaction with other Federal programs"
 usc_title: 42
 usc_section: "11503"
 chapter: 120
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 11503"
-generated_at: "2026-03-30T00:38:36.123Z"
+generated_at: "2026-03-30T00:40:57.665Z"
 ---
 
 # § 11503. Interaction with other Federal programs

@@ -3,9 +3,9 @@ title: "Section 1016 - Administration"
 usc_title: 30
 usc_section: "1016"
 chapter: 23
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "30 U.S.C. § 1016"
-generated_at: "2026-03-30T00:37:31.663Z"
+generated_at: "2026-03-30T00:40:10.871Z"
 ---
 
 # § 1016. Administration

@@ -3,9 +3,9 @@ title: "Section 5005 - Mail transportation"
 usc_title: 39
 usc_section: "5005"
 chapter: 50
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "39 U.S.C. § 5005"
-generated_at: "2026-03-30T00:38:08.465Z"
+generated_at: "2026-03-30T00:40:30.156Z"
 ---
 
 # § 5005. Mail transportation

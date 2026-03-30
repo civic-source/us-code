@@ -3,9 +3,9 @@ title: "Section 8262i - United States Postal Service energy management report"
 usc_title: 42
 usc_section: "8262i"
 chapter: 91
-current_through: "PL 118-34"
+current_through: "PL 118-39"
 classification: "42 U.S.C. § 8262i"
-generated_at: "2026-03-30T00:38:36.059Z"
+generated_at: "2026-03-30T00:40:57.603Z"
 ---
 
 # § 8262i. United States Postal Service energy management report
