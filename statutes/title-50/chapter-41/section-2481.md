@@ -3,9 +3,9 @@ title: "Section 2481 - Functions transferred"
 usc_title: 50
 usc_section: "2481"
 chapter: 41
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 2481"
-generated_at: "2026-03-30T09:48:29.930Z"
+generated_at: "2026-03-30T09:51:27.787Z"
 status: "active"
 ---
 

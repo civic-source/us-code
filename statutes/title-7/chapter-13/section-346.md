@@ -3,9 +3,9 @@ title: "Section 346 - Repealed. Pub. L. 105–185, title I, § 103(f)(1) , June 
 usc_title: 7
 usc_section: "346"
 chapter: 13
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 346"
-generated_at: "2026-03-30T09:46:07.053Z"
+generated_at: "2026-03-30T09:49:26.091Z"
 status: "repealed"
 ---
 

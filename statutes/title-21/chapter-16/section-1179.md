@@ -3,9 +3,9 @@ title: "Section 1179 - National Drug Abuse Training Center"
 usc_title: 21
 usc_section: "1179"
 chapter: 16
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "21 U.S.C. § 1179"
-generated_at: "2026-03-30T09:46:39.136Z"
+generated_at: "2026-03-30T09:50:24.463Z"
 status: "active"
 ---
 

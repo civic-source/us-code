@@ -3,9 +3,9 @@ title: "Section 2613 - Certification"
 usc_title: 29
 usc_section: "2613"
 chapter: 28
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "29 U.S.C. § 2613"
-generated_at: "2026-03-30T09:47:07.792Z"
+generated_at: "2026-03-30T09:50:31.126Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1962 - Congressional statement of policy"
 usc_title: 42
 usc_section: "1962"
 chapter: 19
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 1962"
-generated_at: "2026-03-30T09:48:12.175Z"
+generated_at: "2026-03-30T09:51:16.932Z"
 status: "active"
 ---
 

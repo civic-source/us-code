@@ -3,9 +3,9 @@ title: "Section 453C - Repealed. Pub. L. 100–203, title X, § 10202(a)(1) , De
 usc_title: 26
 usc_section: "453C"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 453C"
-generated_at: "2026-03-30T09:46:56.250Z"
+generated_at: "2026-03-30T09:50:37.703Z"
 status: "repealed"
 ---
 

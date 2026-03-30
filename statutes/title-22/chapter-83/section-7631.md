@@ -3,9 +3,9 @@ title: "Section 7631 - Assistance to combat HIV/AIDS"
 usc_title: 22
 usc_section: "7631"
 chapter: 83
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 7631"
-generated_at: "2026-03-30T09:46:45.822Z"
+generated_at: "2026-03-30T09:50:26.851Z"
 status: "active"
 ---
 

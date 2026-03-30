@@ -3,9 +3,9 @@ title: "Section 568e - Repealed. Pub. L. 95–313, § 16(a)(4) , (5), formerly �
 usc_title: 16
 usc_section: "568e"
 chapter: 3
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 568e"
-generated_at: "2026-03-30T09:46:30.697Z"
+generated_at: "2026-03-30T09:50:17.368Z"
 status: "repealed"
 ---
 

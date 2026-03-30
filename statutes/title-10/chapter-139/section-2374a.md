@@ -3,9 +3,9 @@ title: "Section 2374a - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "2374a"
 chapter: 139
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2374a"
-generated_at: "2026-03-30T09:46:12.508Z"
+generated_at: "2026-03-30T09:49:38.977Z"
 status: "active"
 ---
 

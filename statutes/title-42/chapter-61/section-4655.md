@@ -3,9 +3,9 @@ title: "Section 4655 - Requirements for uniform land acquisition policies; payme
 usc_title: 42
 usc_section: "4655"
 chapter: 61
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 4655"
-generated_at: "2026-03-30T09:48:12.240Z"
+generated_at: "2026-03-30T09:51:16.997Z"
 status: "active"
 ---
 

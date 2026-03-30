@@ -3,9 +3,9 @@ title: "Section 793b - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320"
 usc_title: 48
 usc_section: "793b"
 chapter: 4
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "48 U.S.C. § 793b"
-generated_at: "2026-03-30T09:48:19.565Z"
+generated_at: "2026-03-30T09:51:26.401Z"
 status: "repealed"
 ---
 

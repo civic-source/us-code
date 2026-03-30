@@ -3,9 +3,9 @@ title: "Section 910b - Ratification of prior acts"
 usc_title: 48
 usc_section: "910b"
 chapter: 4
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "48 U.S.C. § 910b"
-generated_at: "2026-03-30T09:48:19.566Z"
+generated_at: "2026-03-30T09:51:26.402Z"
 status: "active"
 ---
 

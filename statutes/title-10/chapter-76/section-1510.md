@@ -3,9 +3,9 @@ title: "Section 1510 - Applicability to Coast Guard"
 usc_title: 10
 usc_section: "1510"
 chapter: 76
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 1510"
-generated_at: "2026-03-30T09:46:12.473Z"
+generated_at: "2026-03-30T09:49:38.948Z"
 status: "active"
 ---
 

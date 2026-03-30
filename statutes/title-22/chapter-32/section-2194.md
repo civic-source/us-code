@@ -3,9 +3,9 @@ title: "Section 2194 - Repealed. Pub. L. 115–254, div. F, title VI, § 1464(2)
 usc_title: 22
 usc_section: "2194"
 chapter: 32
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 2194"
-generated_at: "2026-03-30T09:46:45.743Z"
+generated_at: "2026-03-30T09:50:26.773Z"
 status: "repealed"
 ---
 

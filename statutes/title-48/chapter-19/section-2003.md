@@ -3,9 +3,9 @@ title: "Section 2003 - Conference"
 usc_title: 48
 usc_section: "2003"
 chapter: 19
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "48 U.S.C. § 2003"
-generated_at: "2026-03-30T09:48:19.581Z"
+generated_at: "2026-03-30T09:51:26.416Z"
 status: "active"
 ---
 

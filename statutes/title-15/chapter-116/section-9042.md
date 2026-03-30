@@ -3,9 +3,9 @@ title: "Section 9042 - Emergency relief and taxpayer protections"
 usc_title: 15
 usc_section: "9042"
 chapter: 116
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "15 U.S.C. § 9042"
-generated_at: "2026-03-30T09:46:18.723Z"
+generated_at: "2026-03-30T09:49:57.367Z"
 status: "active"
 ---
 

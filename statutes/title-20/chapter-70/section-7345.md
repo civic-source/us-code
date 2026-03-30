@@ -3,9 +3,9 @@ title: "Section 7345 - Use of applicable funding"
 usc_title: 20
 usc_section: "7345"
 chapter: 70
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 7345"
-generated_at: "2026-03-30T09:46:32.763Z"
+generated_at: "2026-03-30T09:50:09.907Z"
 status: "active"
 ---
 

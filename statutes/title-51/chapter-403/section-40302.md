@@ -3,9 +3,9 @@ title: "Section 40302 - Definitions"
 usc_title: 51
 usc_section: "40302"
 chapter: 403
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "51 U.S.C. § 40302"
-generated_at: "2026-03-30T09:48:43.996Z"
+generated_at: "2026-03-30T09:51:29.666Z"
 status: "active"
 ---
 

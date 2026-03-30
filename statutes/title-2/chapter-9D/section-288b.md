@@ -3,9 +3,9 @@ title: "Section 288b - Requirements for authorizing representation activity"
 usc_title: 2
 usc_section: "288b"
 chapter: 9
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 288b"
-generated_at: "2026-03-30T09:45:58.986Z"
+generated_at: "2026-03-30T09:49:04.236Z"
 status: "active"
 ---
 

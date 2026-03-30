@@ -3,9 +3,9 @@ title: "Section 5305 - Reporting and audit requirements for recipients of Federa
 usc_title: 25
 usc_section: "5305"
 chapter: 46
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "25 U.S.C. § 5305"
-generated_at: "2026-03-30T09:46:37.647Z"
+generated_at: "2026-03-30T09:50:23.166Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(C)** the amount of that portion of the cost of the project or undertaking supplied by other sources, and
     - **(D)** such other information as will facilitate an effective audit.
   - **(2)** For the purposes of this subsection, such records for a mature contract shall consist of quarterly financial statements for the purpose of accounting for Federal funds, the annual single-agency audit required by chapter 75 of title 31 1 1 So in original. Probably should be followed by a comma. and a brief annual program report.
-- **(b)** The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in the preceding subsection of this section, have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to in the preceding subsection.
+- **(b)** The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after the retention period for the report that is submitted to the Secretary under subsection (a), have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to in the preceding subsection. The retention period shall be defined in regulations promulgated by the Secretary pursuant to section 5373 of this title .
 - **(c)** Each recipient of Federal financial assistance referred to in subsection (a) of this section shall make such reports and information available to the Indian people served or represented by such recipient as and in a manner determined to be adequate by the appropriate Secretary.
 - **(d)** Except as provided in section 13a or 5325(a)(3) 2 2 See References in Text note below. of this title, funds paid to a financial assistance recipient referred to in subsection (a) of this section and not expended or used for the purposes for which paid shall be repaid to the Treasury of the United States through the respective Secretary.
 - **(e)** The Secretary shall report annually in writing to each tribe regarding projected and actual staffing levels, funding obligations, and expenditures for programs operated directly by the Secretary serving that tribe.

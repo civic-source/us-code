@@ -3,9 +3,9 @@ title: "Section 13258 - Credits"
 usc_title: 42
 usc_section: "13258"
 chapter: 134
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 13258"
-generated_at: "2026-03-30T09:48:12.440Z"
+generated_at: "2026-03-30T09:51:17.190Z"
 status: "active"
 ---
 

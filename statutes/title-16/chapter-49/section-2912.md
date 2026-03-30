@@ -3,9 +3,9 @@ title: "Section 2912 - Federal conservation of migratory nongame birds"
 usc_title: 16
 usc_section: "2912"
 chapter: 49
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 2912"
-generated_at: "2026-03-30T09:46:30.789Z"
+generated_at: "2026-03-30T09:50:17.456Z"
 status: "active"
 ---
 

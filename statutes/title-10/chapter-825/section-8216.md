@@ -3,9 +3,9 @@ title: "Section 8216 - Aviation duties: number of personnel assigned"
 usc_title: 10
 usc_section: "8216"
 chapter: 825
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 8216"
-generated_at: "2026-03-30T09:46:12.554Z"
+generated_at: "2026-03-30T09:49:39.012Z"
 status: "active"
 ---
 

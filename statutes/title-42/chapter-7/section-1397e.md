@@ -3,9 +3,9 @@ title: "Section 1397e - Administrative and fiscal accountability"
 usc_title: 42
 usc_section: "1397e"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 1397e"
-generated_at: "2026-03-30T09:48:12.121Z"
+generated_at: "2026-03-30T09:51:16.879Z"
 status: "active"
 ---
 

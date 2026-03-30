@@ -3,9 +3,9 @@ title: "Section 1154 - Scientific research on fur seal resources; use of fur sea
 usc_title: 16
 usc_section: "1154"
 chapter: 24
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 1154"
-generated_at: "2026-03-30T09:46:30.744Z"
+generated_at: "2026-03-30T09:50:17.413Z"
 status: "active"
 ---
 

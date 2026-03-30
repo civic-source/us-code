@@ -3,9 +3,9 @@ title: "Section 1801 - Approval of Covenant to Establish a Commonwealth of the N
 usc_title: 48
 usc_section: "1801"
 chapter: 17
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "48 U.S.C. § 1801"
-generated_at: "2026-03-30T09:48:19.574Z"
+generated_at: "2026-03-30T09:51:26.410Z"
 status: "active"
 ---
 

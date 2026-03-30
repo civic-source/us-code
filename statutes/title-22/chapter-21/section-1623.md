@@ -3,9 +3,9 @@ title: "Section 1623 - Claims"
 usc_title: 22
 usc_section: "1623"
 chapter: 21
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 1623"
-generated_at: "2026-03-30T09:46:45.730Z"
+generated_at: "2026-03-30T09:50:26.760Z"
 status: "active"
 ---
 

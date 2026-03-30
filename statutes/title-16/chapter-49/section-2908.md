@@ -3,9 +3,9 @@ title: "Section 2908 - Other Federal assistance and actions"
 usc_title: 16
 usc_section: "2908"
 chapter: 49
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 2908"
-generated_at: "2026-03-30T09:46:30.789Z"
+generated_at: "2026-03-30T09:50:17.456Z"
 status: "active"
 ---
 

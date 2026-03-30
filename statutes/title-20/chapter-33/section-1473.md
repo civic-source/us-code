@@ -3,9 +3,9 @@ title: "Section 1473 - Technical assistance for parent training and information 
 usc_title: 20
 usc_section: "1473"
 chapter: 33
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 1473"
-generated_at: "2026-03-30T09:46:32.719Z"
+generated_at: "2026-03-30T09:50:09.866Z"
 status: "active"
 ---
 

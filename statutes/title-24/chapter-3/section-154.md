@@ -3,9 +3,9 @@ title: "Section 154 - Unlawful intrusion, or violation of rules and regulations"
 usc_title: 24
 usc_section: "154"
 chapter: 3
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "24 U.S.C. § 154"
-generated_at: "2026-03-30T09:46:39.210Z"
+generated_at: "2026-03-30T09:50:20.517Z"
 status: "active"
 ---
 

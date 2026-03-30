@@ -3,9 +3,9 @@ title: "Section 5676 - Repealed. Pub. L. 94–455, title XIX, § 1905(b)(1)(A) ,
 usc_title: 26
 usc_section: "5676"
 chapter: 51
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 5676"
-generated_at: "2026-03-30T09:46:56.349Z"
+generated_at: "2026-03-30T09:50:37.808Z"
 status: "repealed"
 ---
 

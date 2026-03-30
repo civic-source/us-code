@@ -3,9 +3,9 @@ title: "Section 507 - Priorities"
 usc_title: 11
 usc_section: "507"
 chapter: 5
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "11 U.S.C. § 507"
-generated_at: "2026-03-30T09:46:15.402Z"
+generated_at: "2026-03-30T09:49:45.777Z"
 status: "active"
 ---
 

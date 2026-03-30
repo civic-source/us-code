@@ -3,9 +3,9 @@ title: "Section 1c - Prevention of traumatic brain injury"
 usc_title: 42
 usc_section: "1c"
 chapter: 6
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 1c"
-generated_at: "2026-03-30T09:48:11.845Z"
+generated_at: "2026-03-30T09:51:16.616Z"
 status: "active"
 ---
 

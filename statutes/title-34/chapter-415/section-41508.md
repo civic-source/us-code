@@ -3,9 +3,9 @@ title: "Section 41508 - Grants to States for threat assessment databases"
 usc_title: 34
 usc_section: "41508"
 chapter: 415
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "34 U.S.C. § 41508"
-generated_at: "2026-03-30T09:47:12.180Z"
+generated_at: "2026-03-30T09:50:40.723Z"
 status: "active"
 ---
 

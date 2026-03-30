@@ -3,9 +3,9 @@ title: "Section 1471h - Availability of appropriations for uniforms or allowance
 usc_title: 43
 usc_section: "1471h"
 chapter: 31
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "43 U.S.C. § 1471h"
-generated_at: "2026-03-30T09:47:36.366Z"
+generated_at: "2026-03-30T09:50:53.359Z"
 status: "active"
 ---
 

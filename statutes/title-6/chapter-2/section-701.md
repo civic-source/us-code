@@ -3,9 +3,9 @@ title: "Section 701 - Definitions"
 usc_title: 6
 usc_section: "701"
 chapter: 2
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 701"
-generated_at: "2026-03-30T09:46:02.456Z"
+generated_at: "2026-03-30T09:49:33.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 941d - Goals of United States Fish and Wildlife Service programs
 usc_title: 16
 usc_section: "941d"
 chapter: 15
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 941d"
-generated_at: "2026-03-30T09:46:30.739Z"
+generated_at: "2026-03-30T09:50:17.408Z"
 status: "active"
 ---
 

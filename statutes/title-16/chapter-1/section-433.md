@@ -3,9 +3,9 @@ title: "Section 433 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "433"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 433"
-generated_at: "2026-03-30T09:46:30.641Z"
+generated_at: "2026-03-30T09:50:17.316Z"
 status: "repealed"
 ---
 

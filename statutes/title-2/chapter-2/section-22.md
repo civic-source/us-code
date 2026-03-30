@@ -3,9 +3,9 @@ title: "Section 22 - Oath of President of Senate"
 usc_title: 2
 usc_section: "22"
 chapter: 2
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 22"
-generated_at: "2026-03-30T09:45:58.969Z"
+generated_at: "2026-03-30T09:49:04.226Z"
 status: "active"
 ---
 

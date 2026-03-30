@@ -3,9 +3,9 @@ title: "Section 51 - Definitions"
 usc_title: 21
 usc_section: "51"
 chapter: 9
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "21 U.S.C. § 51"
-generated_at: "2026-03-30T09:46:39.108Z"
+generated_at: "2026-03-30T09:50:24.437Z"
 status: "active"
 ---
 

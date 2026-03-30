@@ -3,9 +3,9 @@ title: "Section 1291 - Exemption from antitrust laws of agreements covering the 
 usc_title: 15
 usc_section: "1291"
 chapter: 32
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "15 U.S.C. § 1291"
-generated_at: "2026-03-30T09:46:18.587Z"
+generated_at: "2026-03-30T09:49:57.275Z"
 status: "active"
 ---
 

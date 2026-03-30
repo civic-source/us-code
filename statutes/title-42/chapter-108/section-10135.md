@@ -3,9 +3,9 @@ title: "Section 10135 - Review of repository site selection"
 usc_title: 42
 usc_section: "10135"
 chapter: 108
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 10135"
-generated_at: "2026-03-30T09:48:12.388Z"
+generated_at: "2026-03-30T09:51:17.139Z"
 status: "active"
 ---
 

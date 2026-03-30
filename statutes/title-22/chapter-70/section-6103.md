@@ -3,9 +3,9 @@ title: "Section 6103 - Separation of Government personnel during fellowships"
 usc_title: 22
 usc_section: "6103"
 chapter: 70
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 6103"
-generated_at: "2026-03-30T09:46:45.806Z"
+generated_at: "2026-03-30T09:50:26.835Z"
 status: "active"
 ---
 

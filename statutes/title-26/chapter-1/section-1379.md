@@ -3,9 +3,9 @@ title: "Section 1379 - Transitional rules on enactment"
 usc_title: 26
 usc_section: "1379"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 1379"
-generated_at: "2026-03-30T09:46:56.305Z"
+generated_at: "2026-03-30T09:50:37.762Z"
 status: "active"
 ---
 

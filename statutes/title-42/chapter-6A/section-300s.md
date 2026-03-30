@@ -3,9 +3,9 @@ title: "Section 300s - General regulations"
 usc_title: 42
 usc_section: "300s"
 chapter: 6
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 300s"
-generated_at: "2026-03-30T09:48:11.911Z"
+generated_at: "2026-03-30T09:51:16.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321i - Use of commercially available technology, goods, and serv
 usc_title: 6
 usc_section: "321i"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 321i"
-generated_at: "2026-03-30T09:46:02.431Z"
+generated_at: "2026-03-30T09:49:33.491Z"
 status: "active"
 ---
 

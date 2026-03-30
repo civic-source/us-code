@@ -3,9 +3,9 @@ title: "Section 1853 - Exemption of officers and employees of Architect of Capit
 usc_title: 2
 usc_section: "1853"
 chapter: 28
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 1853"
-generated_at: "2026-03-30T09:45:59.028Z"
+generated_at: "2026-03-30T09:49:04.257Z"
 status: "active"
 ---
 

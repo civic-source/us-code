@@ -3,9 +3,9 @@ title: "Section 749 - Command: commissioned officers in same grade or correspond
 usc_title: 10
 usc_section: "749"
 chapter: 43
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 749"
-generated_at: "2026-03-30T09:46:12.429Z"
+generated_at: "2026-03-30T09:49:38.912Z"
 status: "active"
 ---
 

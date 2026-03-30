@@ -3,9 +3,9 @@ title: "Section 1051c - Repealed. Pub. L. 114–328, div. A, title XII, § 1253(
 usc_title: 10
 usc_section: "1051c"
 chapter: 53
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 1051c"
-generated_at: "2026-03-30T09:46:12.446Z"
+generated_at: "2026-03-30T09:49:38.926Z"
 status: "repealed"
 ---
 

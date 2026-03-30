@@ -3,9 +3,9 @@ title: "Section 9009 - Repealed. Pub. L. 107–279, title IV, § 403(1) , Nov. 5
 usc_title: 20
 usc_section: "9009"
 chapter: 71
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 9009"
-generated_at: "2026-03-30T09:46:32.775Z"
+generated_at: "2026-03-30T09:50:09.918Z"
 status: "repealed"
 ---
 

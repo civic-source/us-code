@@ -3,9 +3,9 @@ title: "Section 1912 - Total disability waiver"
 usc_title: 38
 usc_section: "1912"
 chapter: 19
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "38 U.S.C. § 1912"
-generated_at: "2026-03-30T09:47:16.408Z"
+generated_at: "2026-03-30T09:50:50.818Z"
 status: "active"
 ---
 

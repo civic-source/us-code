@@ -3,9 +3,9 @@ title: "Section 916 - 4–H Club members or agents"
 usc_title: 18
 usc_section: "916"
 chapter: 43
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "18 U.S.C. § 916"
-generated_at: "2026-03-30T09:46:28.405Z"
+generated_at: "2026-03-30T09:50:07.972Z"
 status: "active"
 ---
 

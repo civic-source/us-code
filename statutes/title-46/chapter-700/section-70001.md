@@ -3,9 +3,9 @@ title: "Section 70001 - Vessel traffic services"
 usc_title: 46
 usc_section: "70001"
 chapter: 700
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "46 U.S.C. § 70001"
-generated_at: "2026-03-30T09:48:28.511Z"
+generated_at: "2026-03-30T09:51:25.902Z"
 status: "active"
 ---
 

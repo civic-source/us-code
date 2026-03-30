@@ -3,9 +3,9 @@ title: "Section 13 - Violations; punishment; action for damages"
 usc_title: 47
 usc_section: "13"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "47 U.S.C. § 13"
-generated_at: "2026-03-30T09:48:15.658Z"
+generated_at: "2026-03-30T09:51:23.070Z"
 status: "active"
 ---
 

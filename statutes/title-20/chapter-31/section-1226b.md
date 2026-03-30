@@ -3,9 +3,9 @@ title: "Section 1226b - Responsibility of States to furnish information"
 usc_title: 20
 usc_section: "1226b"
 chapter: 31
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 1226b"
-generated_at: "2026-03-30T09:46:32.706Z"
+generated_at: "2026-03-30T09:50:09.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 348 - Joint task forces"
 usc_title: 6
 usc_section: "348"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 348"
-generated_at: "2026-03-30T09:46:02.434Z"
+generated_at: "2026-03-30T09:49:33.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 81j - Transfer of lands to Secretary of Navy"
 usc_title: 16
 usc_section: "81j"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 81j"
-generated_at: "2026-03-30T09:46:30.596Z"
+generated_at: "2026-03-30T09:50:17.273Z"
 status: "active"
 ---
 

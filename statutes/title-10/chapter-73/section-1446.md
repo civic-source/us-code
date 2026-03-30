@@ -3,9 +3,9 @@ title: "Section 1446 - Restriction on participation"
 usc_title: 10
 usc_section: "1446"
 chapter: 73
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 1446"
-generated_at: "2026-03-30T09:46:12.467Z"
+generated_at: "2026-03-30T09:49:38.943Z"
 status: "active"
 ---
 

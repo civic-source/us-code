@@ -3,9 +3,9 @@ title: "Section 9874 - Use of allotments"
 usc_title: 42
 usc_section: "9874"
 chapter: 105
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 9874"
-generated_at: "2026-03-30T09:48:12.384Z"
+generated_at: "2026-03-30T09:51:17.136Z"
 status: "active"
 ---
 

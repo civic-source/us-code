@@ -3,9 +3,9 @@ title: "Section 4503 - Issuance of orders"
 usc_title: 7
 usc_section: "4503"
 chapter: 76
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 4503"
-generated_at: "2026-03-30T09:46:07.177Z"
+generated_at: "2026-03-30T09:49:26.189Z"
 status: "active"
 ---
 

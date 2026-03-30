@@ -3,9 +3,9 @@ title: "Section 1635 - Purpose"
 usc_title: 7
 usc_section: "1635"
 chapter: 38
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 1635"
-generated_at: "2026-03-30T09:46:07.104Z"
+generated_at: "2026-03-30T09:49:26.130Z"
 status: "active"
 ---
 

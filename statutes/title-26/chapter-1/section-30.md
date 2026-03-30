@@ -3,9 +3,9 @@ title: "Section 30 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(2)
 usc_title: 26
 usc_section: "30"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 30"
-generated_at: "2026-03-30T09:46:56.169Z"
+generated_at: "2026-03-30T09:50:37.621Z"
 status: "repealed"
 ---
 

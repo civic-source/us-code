@@ -3,9 +3,9 @@ title: "Section 8910 - Mandatory imposition of sanctions with respect to transac
 usc_title: 22
 usc_section: "8910"
 chapter: 96
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 8910"
-generated_at: "2026-03-30T09:46:45.835Z"
+generated_at: "2026-03-30T09:50:26.864Z"
 status: "active"
 ---
 

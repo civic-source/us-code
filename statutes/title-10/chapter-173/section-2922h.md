@@ -3,9 +3,9 @@ title: "Section 2922h - Limitation on procurement of drop-in fuels"
 usc_title: 10
 usc_section: "2922h"
 chapter: 173
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2922h"
-generated_at: "2026-03-30T09:46:12.541Z"
+generated_at: "2026-03-30T09:49:39.003Z"
 status: "active"
 ---
 

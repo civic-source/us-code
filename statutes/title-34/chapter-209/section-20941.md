@@ -3,9 +3,9 @@ title: "Section 20941 - Federal assistance with respect to violations of registr
 usc_title: 34
 usc_section: "20941"
 chapter: 209
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "34 U.S.C. § 20941"
-generated_at: "2026-03-30T09:47:12.169Z"
+generated_at: "2026-03-30T09:50:40.712Z"
 status: "active"
 ---
 

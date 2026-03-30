@@ -3,9 +3,9 @@ title: "Section 588 - Expenses"
 usc_title: 28
 usc_section: "588"
 chapter: 39
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "28 U.S.C. § 588"
-generated_at: "2026-03-30T09:46:49.548Z"
+generated_at: "2026-03-30T09:50:29.742Z"
 status: "active"
 ---
 

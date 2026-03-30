@@ -3,9 +3,9 @@ title: "Section 1541 - Issuance without authority"
 usc_title: 18
 usc_section: "1541"
 chapter: 75
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "18 U.S.C. § 1541"
-generated_at: "2026-03-30T09:46:28.417Z"
+generated_at: "2026-03-30T09:50:07.983Z"
 status: "active"
 ---
 

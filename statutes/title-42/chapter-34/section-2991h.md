@@ -3,9 +3,9 @@ title: "Section 2991h - Appeals, notice, and hearing"
 usc_title: 42
 usc_section: "2991h"
 chapter: 34
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 2991h"
-generated_at: "2026-03-30T09:48:12.206Z"
+generated_at: "2026-03-30T09:51:16.963Z"
 status: "active"
 ---
 

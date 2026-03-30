@@ -3,9 +3,9 @@ title: "Section 5a - Reimbursement to States"
 usc_title: 42
 usc_section: "5a"
 chapter: 19
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-30T09:48:12.176Z"
+generated_at: "2026-03-30T09:51:16.933Z"
 status: "active"
 ---
 

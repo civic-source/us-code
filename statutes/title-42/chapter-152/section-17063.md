@@ -3,9 +3,9 @@ title: "Section 17063 - Energy information for commercial buildings"
 usc_title: 42
 usc_section: "17063"
 chapter: 152
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 17063"
-generated_at: "2026-03-30T09:48:12.478Z"
+generated_at: "2026-03-30T09:51:17.227Z"
 status: "active"
 ---
 

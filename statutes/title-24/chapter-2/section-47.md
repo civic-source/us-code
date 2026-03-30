@@ -3,9 +3,9 @@ title: "Section 47 - Repealed. Pub. L. 101–189, div. A, title III, § 347(3) ,
 usc_title: 24
 usc_section: "47"
 chapter: 2
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "24 U.S.C. § 47"
-generated_at: "2026-03-30T09:46:39.209Z"
+generated_at: "2026-03-30T09:50:20.516Z"
 status: "repealed"
 ---
 

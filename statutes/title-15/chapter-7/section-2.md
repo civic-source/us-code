@@ -3,9 +3,9 @@ title: "Section 2 - Green manufacturing and construction"
 usc_title: 15
 usc_section: "2"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T09:46:18.521Z"
+generated_at: "2026-03-30T09:49:57.228Z"
 status: "active"
 ---
 

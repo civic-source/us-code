@@ -3,9 +3,9 @@ title: "Section 1395v - Agreements with States"
 usc_title: 42
 usc_section: "1395v"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 1395v"
-generated_at: "2026-03-30T09:48:12.032Z"
+generated_at: "2026-03-30T09:51:16.795Z"
 status: "active"
 ---
 

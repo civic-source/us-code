@@ -3,9 +3,9 @@ title: "Section 50c - Improved apprenticeship program coordination between the D
 usc_title: 29
 usc_section: "50c"
 chapter: 4
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "29 U.S.C. § 50c"
-generated_at: "2026-03-30T09:47:07.732Z"
+generated_at: "2026-03-30T09:50:31.070Z"
 status: "active"
 ---
 

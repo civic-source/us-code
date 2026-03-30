@@ -3,9 +3,9 @@ title: "Section 2440 - Repealed. Pub. L. 104–295, § 17 , Oct. 11, 1996 , 110 
 usc_title: 19
 usc_section: "2440"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "19 U.S.C. § 2440"
-generated_at: "2026-03-30T09:46:26.907Z"
+generated_at: "2026-03-30T09:50:18.580Z"
 status: "repealed"
 ---
 

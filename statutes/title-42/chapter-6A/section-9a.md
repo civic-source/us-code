@@ -3,9 +3,9 @@ title: "Section 9a - Better diabetes care"
 usc_title: 42
 usc_section: "9a"
 chapter: 6
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-30T09:48:11.818Z"
+generated_at: "2026-03-30T09:51:16.591Z"
 status: "active"
 ---
 

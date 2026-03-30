@@ -3,9 +3,9 @@ title: "Section 838j - Investment of excess moneys; deposit of moneys"
 usc_title: 16
 usc_section: "838j"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 838j"
-generated_at: "2026-03-30T09:46:30.735Z"
+generated_at: "2026-03-30T09:50:17.405Z"
 status: "active"
 ---
 

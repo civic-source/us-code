@@ -3,9 +3,9 @@ title: "Section 535c - Approval of Secretary; commencement and completion requir
 usc_title: 33
 usc_section: "535c"
 chapter: 11
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "33 U.S.C. § 535c"
-generated_at: "2026-03-30T09:47:11.498Z"
+generated_at: "2026-03-30T09:50:42.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 936 - Repealed. Sept. 3, 1954, ch. 1257 , title VII, § 702(d), 
 usc_title: 50
 usc_section: "936"
 chapter: 25
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 936"
-generated_at: "2026-03-30T09:48:29.912Z"
+generated_at: "2026-03-30T09:51:27.768Z"
 status: "repealed"
 ---
 

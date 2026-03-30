@@ -3,9 +3,9 @@ title: "Section 1153 - Prohibition on overhaul, repair, and maintenance of Coast
 usc_title: 14
 usc_section: "1153"
 chapter: 11
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "14 U.S.C. § 1153"
-generated_at: "2026-03-30T09:46:15.719Z"
+generated_at: "2026-03-30T09:49:57.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5963 - Eligible applicants"
 usc_title: 20
 usc_section: "5963"
 chapter: 68
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 5963"
-generated_at: "2026-03-30T09:46:32.742Z"
+generated_at: "2026-03-30T09:50:09.887Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 447c - Transferred"
 usc_title: 16
 usc_section: "447c"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 447c"
-generated_at: "2026-03-30T09:46:30.642Z"
+generated_at: "2026-03-30T09:50:17.317Z"
 status: "transferred"
 ---
 

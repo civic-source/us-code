@@ -3,9 +3,9 @@ title: "Section 3805 - Utilization of personnel, facilities or equipment of othe
 usc_title: 33
 usc_section: "3805"
 chapter: 51
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "33 U.S.C. § 3805"
-generated_at: "2026-03-30T09:47:11.562Z"
+generated_at: "2026-03-30T09:50:42.319Z"
 status: "active"
 ---
 

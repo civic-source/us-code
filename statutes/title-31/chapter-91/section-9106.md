@@ -3,9 +3,9 @@ title: "Section 9106 - Management reports"
 usc_title: 31
 usc_section: "9106"
 chapter: 91
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "31 U.S.C. § 9106"
-generated_at: "2026-03-30T09:47:10.643Z"
+generated_at: "2026-03-30T09:50:41.399Z"
 status: "active"
 ---
 

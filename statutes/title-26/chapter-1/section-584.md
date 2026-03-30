@@ -3,9 +3,9 @@ title: "Section 584 - Common trust funds"
 usc_title: 26
 usc_section: "584"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 584"
-generated_at: "2026-03-30T09:46:56.263Z"
+generated_at: "2026-03-30T09:50:37.716Z"
 status: "active"
 ---
 

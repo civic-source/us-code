@@ -3,9 +3,9 @@ title: "Section 2152 - Joint professional military education: general requiremen
 usc_title: 10
 usc_section: "2152"
 chapter: 107
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2152"
-generated_at: "2026-03-30T09:46:12.486Z"
+generated_at: "2026-03-30T09:49:38.958Z"
 status: "active"
 ---
 

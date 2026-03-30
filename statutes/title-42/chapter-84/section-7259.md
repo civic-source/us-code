@@ -3,9 +3,9 @@ title: "Section 7259 - Use of facilities"
 usc_title: 42
 usc_section: "7259"
 chapter: 84
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 7259"
-generated_at: "2026-03-30T09:48:12.306Z"
+generated_at: "2026-03-30T09:51:17.061Z"
 status: "active"
 ---
 

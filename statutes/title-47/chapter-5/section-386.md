@@ -3,9 +3,9 @@ title: "Section 386 - Forfeitures"
 usc_title: 47
 usc_section: "386"
 chapter: 5
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "47 U.S.C. § 386"
-generated_at: "2026-03-30T09:48:15.675Z"
+generated_at: "2026-03-30T09:51:23.089Z"
 status: "active"
 ---
 

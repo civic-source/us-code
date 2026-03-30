@@ -3,9 +3,9 @@ title: "Section 25e - Repealed. Pub. L. 114–255, div. B, title IX, § 9017 , D
 usc_title: 42
 usc_section: "25e"
 chapter: 6
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 25e"
-generated_at: "2026-03-30T09:48:11.873Z"
+generated_at: "2026-03-30T09:51:16.643Z"
 status: "repealed"
 ---
 

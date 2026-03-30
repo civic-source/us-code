@@ -3,9 +3,9 @@ title: "Section 488h - Deadlines for regulations"
 usc_title: 6
 usc_section: "488h"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 488h"
-generated_at: "2026-03-30T09:46:02.444Z"
+generated_at: "2026-03-30T09:49:33.499Z"
 status: "active"
 ---
 

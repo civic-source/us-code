@@ -3,9 +3,9 @@ title: "Section 10506 - Separability"
 usc_title: 52
 usc_section: "10506"
 chapter: 105
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "52 U.S.C. § 10506"
-generated_at: "2026-03-30T09:48:43.792Z"
+generated_at: "2026-03-30T09:51:30.316Z"
 status: "active"
 ---
 

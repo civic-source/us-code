@@ -3,9 +3,9 @@ title: "Section 11703 - Procurement procedures"
 usc_title: 40
 usc_section: "11703"
 chapter: 117
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "40 U.S.C. § 11703"
-generated_at: "2026-03-30T09:47:15.207Z"
+generated_at: "2026-03-30T09:50:46.397Z"
 status: "active"
 ---
 

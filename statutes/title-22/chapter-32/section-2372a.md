@@ -3,9 +3,9 @@ title: "Section 2372a - Renewal, reissuance, etc., of export licenses to or for 
 usc_title: 22
 usc_section: "2372a"
 chapter: 32
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 2372a"
-generated_at: "2026-03-30T09:46:45.752Z"
+generated_at: "2026-03-30T09:50:26.782Z"
 status: "active"
 ---
 

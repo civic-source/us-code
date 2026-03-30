@@ -3,9 +3,9 @@ title: "Section 30707 - Restrictions"
 usc_title: 36
 usc_section: "30707"
 chapter: 307
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "36 U.S.C. § 30707"
-generated_at: "2026-03-30T09:47:18.295Z"
+generated_at: "2026-03-30T09:50:45.208Z"
 status: "active"
 ---
 

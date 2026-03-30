@@ -3,9 +3,9 @@ title: "Section 1436a - Transfer of nonadministrative funds of Commodity Credit 
 usc_title: 7
 usc_section: "1436a"
 chapter: 35
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 1436a"
-generated_at: "2026-03-30T09:46:07.085Z"
+generated_at: "2026-03-30T09:49:26.115Z"
 status: "active"
 ---
 

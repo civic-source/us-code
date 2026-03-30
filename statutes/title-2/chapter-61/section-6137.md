@@ -3,9 +3,9 @@ title: "Section 6137 - Transfer of funds from appropriations account of Majority
 usc_title: 2
 usc_section: "6137"
 chapter: 61
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 6137"
-generated_at: "2026-03-30T09:45:59.059Z"
+generated_at: "2026-03-30T09:49:04.272Z"
 status: "active"
 ---
 

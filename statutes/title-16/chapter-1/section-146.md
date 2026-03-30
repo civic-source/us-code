@@ -3,9 +3,9 @@ title: "Section 146 - Offenses within park"
 usc_title: 16
 usc_section: "146"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 146"
-generated_at: "2026-03-30T09:46:30.598Z"
+generated_at: "2026-03-30T09:50:17.275Z"
 status: "active"
 ---
 

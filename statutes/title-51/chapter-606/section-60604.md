@@ -1,0 +1,25 @@
+---
+title: "Section 60604 - Research activities"
+usc_title: 51
+usc_section: "60604"
+chapter: 606
+current_through: "PL 116-182"
+classification: "51 U.S.C. § 60604"
+generated_at: "2026-03-30T09:51:29.671Z"
+status: "active"
+---
+
+# § 60604. Research activities
+
+- **(a)** The Director of the National Science Foundation, the Administrator of the National Aeronautics and Space Administration, and the Secretary of Defense, shall—
+  - **(1)** continue to carry out basic research on heliophysics, geospace science, and space weather; and
+  - **(2)** support competitive, peer-reviewed proposals for conducting research, advancing modeling, and monitoring of space weather and its impacts, including the science goals outlined in decadal surveys in solar and space physics conducted by the National Academies of Sciences, Engineering, and Medicine.
+- **(b)**
+  - **(1)** Congress finds that the multidisciplinary nature of solar and space physics creates funding challenges that require coordination across scientific disciplines and Federal agencies.
+  - **(2)** It is the sense of Congress that science centers could coordinate multidisciplinary solar and space physics research. The Administrator of the National Aeronautics and Space Administration and Director of the National Science Foundation should support competitively awarded grants for multidisciplinary science centers that advance solar and space physics research, including research-to-operations and operations-to-research processes.
+  - **(3)** The Director of the National Science Foundation, the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the National Aeronautics and Space Administration, shall each pursue multidisciplinary research in subjects that further the understanding of solar physics, space physics, and space weather.
+- **(c)** The Administrator of the National Aeronautics and Space Administration should implement missions that meet the science objectives identified in solar and space physics decadal surveys conducted by the National Academies of Sciences, Engineering, and Medicine.
+- **(d)** The interagency working group shall, upon consideration of the advice of the advisory group, develop formal mechanisms to—
+  - **(1)** transition the space weather research findings, models, and capabilities of the National Aeronautics and Space Administration, the National Science Foundation, the United States Geological Survey, and other relevant Federal agencies, as appropriate, to the National Oceanic and Atmospheric Administration and the Department of Defense;
+  - **(2)** enhance coordination between research modeling centers and forecasting centers; and
+  - **(3)** communicate the operational needs of space weather forecasters of the National Oceanic and Atmospheric Administration and Department of Defense, as appropriate, to the National Aeronautics and Space Administration, the National Science Foundation, and the United States Geological Survey.

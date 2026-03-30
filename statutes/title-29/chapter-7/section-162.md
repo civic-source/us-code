@@ -3,9 +3,9 @@ title: "Section 162 - Offenses and penalties"
 usc_title: 29
 usc_section: "162"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "29 U.S.C. § 162"
-generated_at: "2026-03-30T09:47:07.734Z"
+generated_at: "2026-03-30T09:50:31.073Z"
 status: "active"
 ---
 

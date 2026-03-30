@@ -3,9 +3,9 @@ title: "Section 190d - Legislative review by standing committees of the Senate a
 usc_title: 2
 usc_section: "190d"
 chapter: 6
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 190d"
-generated_at: "2026-03-30T09:45:58.984Z"
+generated_at: "2026-03-30T09:49:04.234Z"
 status: "active"
 ---
 

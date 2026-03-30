@@ -3,9 +3,9 @@ title: "Section 74d - Transferred"
 usc_title: 2
 usc_section: "74d"
 chapter: 4
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 74d"
-generated_at: "2026-03-30T09:45:58.973Z"
+generated_at: "2026-03-30T09:49:04.229Z"
 status: "transferred"
 ---
 

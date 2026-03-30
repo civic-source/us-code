@@ -3,9 +3,9 @@ title: "Section 7697 - Relationship to Educational Assistance Program"
 usc_title: 38
 usc_section: "7697"
 chapter: 76
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "38 U.S.C. § 7697"
-generated_at: "2026-03-30T09:47:16.449Z"
+generated_at: "2026-03-30T09:50:50.863Z"
 status: "active"
 ---
 

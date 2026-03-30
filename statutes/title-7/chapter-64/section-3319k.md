@@ -3,9 +3,9 @@ title: "Section 3319k - Agriculture Advanced Research and Development Authority 
 usc_title: 7
 usc_section: "3319k"
 chapter: 64
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 3319k"
-generated_at: "2026-03-30T09:46:07.171Z"
+generated_at: "2026-03-30T09:49:26.184Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1574 - Repealed. Oct. 31, 1951, ch. 654, § 1(113) , 65 Stat. 70
 usc_title: 42
 usc_section: "1574"
 chapter: 9
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 1574"
-generated_at: "2026-03-30T09:48:12.151Z"
+generated_at: "2026-03-30T09:51:16.908Z"
 status: "repealed"
 ---
 

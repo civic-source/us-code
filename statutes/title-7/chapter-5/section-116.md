@@ -3,9 +3,9 @@ title: "Section 116 - Repealed. Aug. 9, 1939, ch. 615, § 419 , 53 Stat. 1290"
 usc_title: 7
 usc_section: "116"
 chapter: 5
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 116"
-generated_at: "2026-03-30T09:46:07.028Z"
+generated_at: "2026-03-30T09:49:26.071Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3105 - Summary of intelligence relating to terrorist recidivism 
 usc_title: 50
 usc_section: "3105"
 chapter: 44
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 3105"
-generated_at: "2026-03-30T09:48:29.945Z"
+generated_at: "2026-03-30T09:51:27.803Z"
 status: "active"
 ---
 

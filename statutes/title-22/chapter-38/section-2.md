@@ -3,9 +3,9 @@ title: "Section 2 - Facilitating access to Department of State"
 usc_title: 22
 usc_section: "2"
 chapter: 38
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T09:46:45.765Z"
+generated_at: "2026-03-30T09:50:26.795Z"
 status: "active"
 ---
 

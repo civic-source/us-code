@@ -3,9 +3,9 @@ title: "Section 2372a - Bid and proposal costs: allowable costs"
 usc_title: 10
 usc_section: "2372a"
 chapter: 139
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2372a"
-generated_at: "2026-03-30T09:46:12.508Z"
+generated_at: "2026-03-30T09:49:38.976Z"
 status: "active"
 ---
 

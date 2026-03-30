@@ -3,9 +3,9 @@ title: "Section 4210 - Liability for uncollected fees"
 usc_title: 22
 usc_section: "4210"
 chapter: 52
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 4210"
-generated_at: "2026-03-30T09:46:45.792Z"
+generated_at: "2026-03-30T09:50:26.821Z"
 status: "active"
 ---
 

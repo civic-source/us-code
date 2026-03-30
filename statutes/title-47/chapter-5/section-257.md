@@ -3,9 +3,9 @@ title: "Section 257 - Market entry barriers proceeding"
 usc_title: 47
 usc_section: "257"
 chapter: 5
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "47 U.S.C. § 257"
-generated_at: "2026-03-30T09:48:15.667Z"
+generated_at: "2026-03-30T09:51:23.079Z"
 status: "active"
 ---
 

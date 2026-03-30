@@ -3,9 +3,9 @@ title: "Section 2379 - Procurement of a major weapon system as a commercial prod
 usc_title: 10
 usc_section: "2379"
 chapter: 140
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2379"
-generated_at: "2026-03-30T09:46:12.509Z"
+generated_at: "2026-03-30T09:49:38.977Z"
 status: "active"
 ---
 

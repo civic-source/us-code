@@ -3,9 +3,9 @@ title: "Section 1425 - Relinquishment, surrender, and transfer of licenses and p
 usc_title: 30
 usc_section: "1425"
 chapter: 26
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "30 U.S.C. § 1425"
-generated_at: "2026-03-30T09:46:48.213Z"
+generated_at: "2026-03-30T09:50:30.064Z"
 status: "active"
 ---
 

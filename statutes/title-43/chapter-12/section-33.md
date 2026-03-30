@@ -3,9 +3,9 @@ title: "Section 33 - Elsinore Valley Municipal Water District projects, Californ
 usc_title: 43
 usc_section: "33"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "43 U.S.C. § 33"
-generated_at: "2026-03-30T09:47:36.342Z"
+generated_at: "2026-03-30T09:50:53.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6733 - Repealed. Pub. L. 104–66, title I, § 1131(b) , Dec. 21
 usc_title: 42
 usc_section: "6733"
 chapter: 80
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 6733"
-generated_at: "2026-03-30T09:48:12.290Z"
+generated_at: "2026-03-30T09:51:17.044Z"
 status: "repealed"
 ---
 

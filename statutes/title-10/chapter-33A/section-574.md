@@ -3,9 +3,9 @@ title: "Section 574 - Warrant officer active-duty lists; competitive categories;
 usc_title: 10
 usc_section: "574"
 chapter: 33
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 574"
-generated_at: "2026-03-30T09:46:12.421Z"
+generated_at: "2026-03-30T09:49:38.906Z"
 status: "active"
 ---
 

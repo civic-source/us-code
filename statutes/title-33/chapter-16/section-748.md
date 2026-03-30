@@ -3,9 +3,9 @@ title: "Section 748 - Teachers for children of lighthouse keepers"
 usc_title: 33
 usc_section: "748"
 chapter: 16
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "33 U.S.C. § 748"
-generated_at: "2026-03-30T09:47:11.508Z"
+generated_at: "2026-03-30T09:50:42.261Z"
 status: "active"
 ---
 

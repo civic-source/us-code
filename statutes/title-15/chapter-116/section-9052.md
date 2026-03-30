@@ -3,9 +3,9 @@ title: "Section 9052 - Optional temporary relief from current expected credit lo
 usc_title: 15
 usc_section: "9052"
 chapter: 116
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "15 U.S.C. § 9052"
-generated_at: "2026-03-30T09:46:18.724Z"
+generated_at: "2026-03-30T09:49:57.368Z"
 status: "active"
 ---
 

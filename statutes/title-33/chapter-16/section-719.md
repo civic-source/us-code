@@ -3,9 +3,9 @@ title: "Section 719 - Omitted"
 usc_title: 33
 usc_section: "719"
 chapter: 16
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "33 U.S.C. § 719"
-generated_at: "2026-03-30T09:47:11.507Z"
+generated_at: "2026-03-30T09:50:42.260Z"
 status: "omitted"
 ---
 

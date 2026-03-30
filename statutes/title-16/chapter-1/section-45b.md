@@ -3,9 +3,9 @@ title: "Section 45b - Rules and regulations; leases; fish and game"
 usc_title: 16
 usc_section: "45b"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 45b"
-generated_at: "2026-03-30T09:46:30.593Z"
+generated_at: "2026-03-30T09:50:17.269Z"
 status: "active"
 ---
 

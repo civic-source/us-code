@@ -3,9 +3,9 @@ title: "Section 6678 - Repealed. Pub. L. 99–514, title XV, § 1501(d)(2) , Oct
 usc_title: 26
 usc_section: "6678"
 chapter: 68
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 6678"
-generated_at: "2026-03-30T09:46:56.379Z"
+generated_at: "2026-03-30T09:50:37.839Z"
 status: "repealed"
 ---
 

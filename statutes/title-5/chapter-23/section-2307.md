@@ -3,9 +3,9 @@ title: "Section 2307 - Repealed. Pub. L. 115–91, div. A, title X, § 1097(b)(1
 usc_title: 5
 usc_section: "2307"
 chapter: 23
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "5 U.S.C. § 2307"
-generated_at: "2026-03-30T09:45:57.669Z"
+generated_at: "2026-03-30T09:49:19.869Z"
 status: "repealed"
 ---
 

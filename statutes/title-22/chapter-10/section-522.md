@@ -3,9 +3,9 @@ title: "Section 522 - Transmission of information pertaining to implements of wa
 usc_title: 22
 usc_section: "522"
 chapter: 10
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 522"
-generated_at: "2026-03-30T09:46:45.724Z"
+generated_at: "2026-03-30T09:50:26.755Z"
 status: "active"
 ---
 

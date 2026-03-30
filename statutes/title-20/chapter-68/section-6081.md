@@ -3,9 +3,9 @@ title: "Section 6081 - Short title"
 usc_title: 20
 usc_section: "6081"
 chapter: 68
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 6081"
-generated_at: "2026-03-30T09:46:32.743Z"
+generated_at: "2026-03-30T09:50:09.887Z"
 status: "active"
 ---
 

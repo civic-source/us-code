@@ -3,9 +3,9 @@ title: "Section 718a - Prohibition on taking"
 usc_title: 16
 usc_section: "718a"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 718a"
-generated_at: "2026-03-30T09:46:30.716Z"
+generated_at: "2026-03-30T09:50:17.385Z"
 status: "active"
 ---
 

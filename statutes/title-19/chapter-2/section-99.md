@@ -3,9 +3,9 @@ title: "Section 99 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 19
 usc_section: "99"
 chapter: 2
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "19 U.S.C. § 99"
-generated_at: "2026-03-30T09:46:26.868Z"
+generated_at: "2026-03-30T09:50:18.540Z"
 status: "repealed"
 ---
 

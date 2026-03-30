@@ -3,9 +3,9 @@ title: "Section 1868 - Semiannual compilation and report of expenditures"
 usc_title: 2
 usc_section: "1868"
 chapter: 28
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 1868"
-generated_at: "2026-03-30T09:45:59.029Z"
+generated_at: "2026-03-30T09:49:04.257Z"
 status: "active"
 ---
 

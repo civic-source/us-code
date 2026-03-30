@@ -3,9 +3,9 @@ title: "Section 715j - “President” as including agencies, officers and emplo
 usc_title: 15
 usc_section: "715j"
 chapter: 15
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "15 U.S.C. § 715j"
-generated_at: "2026-03-30T09:46:18.565Z"
+generated_at: "2026-03-30T09:49:57.260Z"
 status: "active"
 ---
 

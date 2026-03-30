@@ -3,9 +3,9 @@ title: "Section 385 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 43
 usc_section: "385"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "43 U.S.C. § 385"
-generated_at: "2026-03-30T09:47:36.339Z"
+generated_at: "2026-03-30T09:50:53.332Z"
 status: "repealed"
 ---
 

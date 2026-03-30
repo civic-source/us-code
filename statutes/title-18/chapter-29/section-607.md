@@ -3,9 +3,9 @@ title: "Section 607 - Place of solicitation"
 usc_title: 18
 usc_section: "607"
 chapter: 29
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "18 U.S.C. § 607"
-generated_at: "2026-03-30T09:46:28.400Z"
+generated_at: "2026-03-30T09:50:07.967Z"
 status: "active"
 ---
 

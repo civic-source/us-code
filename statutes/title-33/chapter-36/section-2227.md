@@ -3,9 +3,9 @@ title: "Section 2227 - Clarification of impacts to other Federal facilities"
 usc_title: 33
 usc_section: "2227"
 chapter: 36
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "33 U.S.C. § 2227"
-generated_at: "2026-03-30T09:47:11.541Z"
+generated_at: "2026-03-30T09:50:42.297Z"
 status: "active"
 ---
 

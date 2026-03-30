@@ -3,9 +3,9 @@ title: "Section 9754 - Restriction on export of covered articles and services to
 usc_title: 22
 usc_section: "9754"
 chapter: 104
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 9754"
-generated_at: "2026-03-30T09:46:45.846Z"
+generated_at: "2026-03-30T09:50:26.874Z"
 status: "active"
 ---
 

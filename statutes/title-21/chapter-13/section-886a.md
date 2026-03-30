@@ -3,9 +3,9 @@ title: "Section 886a - Diversion Control Fee Account"
 usc_title: 21
 usc_section: "886a"
 chapter: 13
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "21 U.S.C. § 886a"
-generated_at: "2026-03-30T09:46:39.132Z"
+generated_at: "2026-03-30T09:50:24.460Z"
 status: "active"
 ---
 

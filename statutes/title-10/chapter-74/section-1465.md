@@ -3,9 +3,9 @@ title: "Section 1465 - Determination of contributions to the Fund"
 usc_title: 10
 usc_section: "1465"
 chapter: 74
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 1465"
-generated_at: "2026-03-30T09:46:12.469Z"
+generated_at: "2026-03-30T09:49:38.945Z"
 status: "active"
 ---
 

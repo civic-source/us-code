@@ -3,9 +3,9 @@ title: "Section 301 - Preemption with respect to other laws"
 usc_title: 17
 usc_section: "301"
 chapter: 3
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "17 U.S.C. § 301"
-generated_at: "2026-03-30T09:46:24.722Z"
+generated_at: "2026-03-30T09:50:10.430Z"
 status: "active"
 ---
 

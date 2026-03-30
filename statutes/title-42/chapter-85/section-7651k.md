@@ -3,9 +3,9 @@ title: "Section 7651k - Monitoring, reporting, and recordkeeping requirements"
 usc_title: 42
 usc_section: "7651k"
 chapter: 85
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 7651k"
-generated_at: "2026-03-30T09:48:12.339Z"
+generated_at: "2026-03-30T09:51:17.092Z"
 status: "active"
 ---
 

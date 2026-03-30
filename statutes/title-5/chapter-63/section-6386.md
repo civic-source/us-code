@@ -3,9 +3,9 @@ title: "Section 6386 - Health insurance"
 usc_title: 5
 usc_section: "6386"
 chapter: 63
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "5 U.S.C. § 6386"
-generated_at: "2026-03-30T09:45:57.717Z"
+generated_at: "2026-03-30T09:49:19.894Z"
 status: "active"
 ---
 

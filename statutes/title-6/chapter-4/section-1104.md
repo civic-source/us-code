@@ -3,9 +3,9 @@ title: "Section 1104 - Immunity for reports of suspected terrorist activity or s
 usc_title: 6
 usc_section: "1104"
 chapter: 4
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 1104"
-generated_at: "2026-03-30T09:46:02.462Z"
+generated_at: "2026-03-30T09:49:33.511Z"
 status: "active"
 ---
 

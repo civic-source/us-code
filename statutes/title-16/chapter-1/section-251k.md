@@ -3,9 +3,9 @@ title: "Section 251k - Economic dislocation in land acquisition; exchange of lan
 usc_title: 16
 usc_section: "251k"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 251k"
-generated_at: "2026-03-30T09:46:30.605Z"
+generated_at: "2026-03-30T09:50:17.282Z"
 status: "active"
 ---
 

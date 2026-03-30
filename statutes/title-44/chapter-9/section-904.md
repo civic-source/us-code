@@ -3,9 +3,9 @@ title: "Section 904 - Congressional Record: maps; diagrams; illustrations"
 usc_title: 44
 usc_section: "904"
 chapter: 9
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "44 U.S.C. § 904"
-generated_at: "2026-03-30T09:47:21.058Z"
+generated_at: "2026-03-30T09:50:52.613Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1148d - Repealed. Pub. L. 115–334, title V, § 5411(60) –(63
 usc_title: 12
 usc_section: "1148d"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "12 U.S.C. § 1148d"
-generated_at: "2026-03-30T09:46:21.942Z"
+generated_at: "2026-03-30T09:50:03.141Z"
 status: "repealed"
 ---
 

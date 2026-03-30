@@ -3,9 +3,9 @@ title: "Section 12621 - Missing Americans Alert Program"
 usc_title: 34
 usc_section: "12621"
 chapter: 121
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "34 U.S.C. § 12621"
-generated_at: "2026-03-30T09:47:12.161Z"
+generated_at: "2026-03-30T09:50:40.704Z"
 status: "active"
 ---
 

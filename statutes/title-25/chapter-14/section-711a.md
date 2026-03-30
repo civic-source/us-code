@@ -3,9 +3,9 @@ title: "Section 711a - Omitted"
 usc_title: 25
 usc_section: "711a"
 chapter: 14
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "25 U.S.C. § 711a"
-generated_at: "2026-03-30T09:46:37.602Z"
+generated_at: "2026-03-30T09:50:23.118Z"
 status: "omitted"
 ---
 

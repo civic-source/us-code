@@ -3,9 +3,9 @@ title: "Section 404n - Transferred"
 usc_title: 50
 usc_section: "404n"
 chapter: 15
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 404n"
-generated_at: "2026-03-30T09:48:29.910Z"
+generated_at: "2026-03-30T09:51:27.767Z"
 status: "transferred"
 ---
 

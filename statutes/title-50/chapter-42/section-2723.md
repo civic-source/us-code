@@ -3,9 +3,9 @@ title: "Section 2723 - Fellowship program for development of skills critical to 
 usc_title: 50
 usc_section: "2723"
 chapter: 42
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 2723"
-generated_at: "2026-03-30T09:48:29.935Z"
+generated_at: "2026-03-30T09:51:27.793Z"
 status: "active"
 ---
 

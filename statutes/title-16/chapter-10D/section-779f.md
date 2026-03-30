@@ -3,9 +3,9 @@ title: "Section 779f - Repealed. Pub. L. 99–659, title III, § 309 , Nov. 14, 
 usc_title: 16
 usc_section: "779f"
 chapter: 10
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 779f"
-generated_at: "2026-03-30T09:46:30.721Z"
+generated_at: "2026-03-30T09:50:17.391Z"
 status: "repealed"
 ---
 

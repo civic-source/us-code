@@ -3,9 +3,9 @@ title: "Section 6655 - Failure by corporation to pay estimated income tax"
 usc_title: 26
 usc_section: "6655"
 chapter: 68
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 6655"
-generated_at: "2026-03-30T09:46:56.377Z"
+generated_at: "2026-03-30T09:50:37.837Z"
 status: "active"
 ---
 

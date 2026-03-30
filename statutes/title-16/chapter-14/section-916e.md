@@ -3,9 +3,9 @@ title: "Section 916e - Failure to keep returns, records, reports"
 usc_title: 16
 usc_section: "916e"
 chapter: 14
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 916e"
-generated_at: "2026-03-30T09:46:30.738Z"
+generated_at: "2026-03-30T09:50:17.408Z"
 status: "active"
 ---
 

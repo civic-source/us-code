@@ -3,9 +3,9 @@ title: "Section 823a - Principal office in District of Columbia; proceedings hel
 usc_title: 30
 usc_section: "823a"
 chapter: 22
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "30 U.S.C. § 823a"
-generated_at: "2026-03-30T09:46:48.196Z"
+generated_at: "2026-03-30T09:50:30.048Z"
 status: "active"
 ---
 

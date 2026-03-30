@@ -3,9 +3,9 @@ title: "Section 47527 - Liability of the United States Government for noise dama
 usc_title: 49
 usc_section: "47527"
 chapter: 475
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "49 U.S.C. § 47527"
-generated_at: "2026-03-30T09:48:42.053Z"
+generated_at: "2026-03-30T09:51:25.176Z"
 status: "active"
 ---
 

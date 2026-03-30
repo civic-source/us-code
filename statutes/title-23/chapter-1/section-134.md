@@ -3,9 +3,9 @@ title: "Section 134 - Metropolitan transportation planning"
 usc_title: 23
 usc_section: "134"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "23 U.S.C. § 134"
-generated_at: "2026-03-30T09:46:38.044Z"
+generated_at: "2026-03-30T09:50:23.583Z"
 status: "active"
 ---
 

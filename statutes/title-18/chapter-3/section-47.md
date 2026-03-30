@@ -3,9 +3,9 @@ title: "Section 47 - Use of aircraft or motor vehicles to hunt certain wild hors
 usc_title: 18
 usc_section: "47"
 chapter: 3
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "18 U.S.C. § 47"
-generated_at: "2026-03-30T09:46:28.393Z"
+generated_at: "2026-03-30T09:50:07.960Z"
 status: "active"
 ---
 

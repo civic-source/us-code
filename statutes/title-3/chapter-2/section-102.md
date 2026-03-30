@@ -3,9 +3,9 @@ title: "Section 102 - Compensation of the President"
 usc_title: 3
 usc_section: "102"
 chapter: 2
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "3 U.S.C. § 102"
-generated_at: "2026-03-30T09:45:54.749Z"
+generated_at: "2026-03-30T09:49:07.223Z"
 status: "active"
 ---
 

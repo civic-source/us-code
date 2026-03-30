@@ -3,9 +3,9 @@ title: "Section 14909 - Disobedience to subpoenas"
 usc_title: 49
 usc_section: "14909"
 chapter: 149
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "49 U.S.C. § 14909"
-generated_at: "2026-03-30T09:48:42.004Z"
+generated_at: "2026-03-30T09:51:25.121Z"
 status: "active"
 ---
 

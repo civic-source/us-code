@@ -3,9 +3,9 @@ title: "Section 3193 - Repealed. Pub. L. 111–259, title III, § 313(b)(1)(B) ,
 usc_title: 50
 usc_section: "3193"
 chapter: 44
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 3193"
-generated_at: "2026-03-30T09:48:29.946Z"
+generated_at: "2026-03-30T09:51:27.805Z"
 status: "repealed"
 ---
 

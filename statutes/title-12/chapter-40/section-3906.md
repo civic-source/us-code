@@ -3,9 +3,9 @@ title: "Section 3906 - Collection and disclosure of international lending data"
 usc_title: 12
 usc_section: "3906"
 chapter: 40
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "12 U.S.C. § 3906"
-generated_at: "2026-03-30T09:46:22.064Z"
+generated_at: "2026-03-30T09:50:03.238Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1525 - Termination"
 usc_title: 6
 usc_section: "1525"
 chapter: 6
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 1525"
-generated_at: "2026-03-30T09:46:02.475Z"
+generated_at: "2026-03-30T09:49:33.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 29
 usc_section: "15"
 chapter: 2
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "29 U.S.C. § 15"
-generated_at: "2026-03-30T09:47:07.730Z"
+generated_at: "2026-03-30T09:50:31.069Z"
 status: "repealed"
 ---
 

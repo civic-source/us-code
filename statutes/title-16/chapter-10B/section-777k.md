@@ -3,9 +3,9 @@ title: "Section 777k - Payments of funds to and cooperation with Puerto Rico, th
 usc_title: 16
 usc_section: "777k"
 chapter: 10
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 777k"
-generated_at: "2026-03-30T09:46:30.721Z"
+generated_at: "2026-03-30T09:50:17.391Z"
 status: "active"
 ---
 

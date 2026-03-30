@@ -3,9 +3,9 @@ title: "Section 2322 - Office of Trade Adjustment Assistance"
 usc_title: 19
 usc_section: "2322"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "19 U.S.C. § 2322"
-generated_at: "2026-03-30T09:46:26.904Z"
+generated_at: "2026-03-30T09:50:18.577Z"
 status: "active"
 ---
 

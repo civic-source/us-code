@@ -3,9 +3,9 @@ title: "Section 1194 - Administration and enforcement"
 usc_title: 15
 usc_section: "1194"
 chapter: 25
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "15 U.S.C. § 1194"
-generated_at: "2026-03-30T09:46:18.582Z"
+generated_at: "2026-03-30T09:49:57.271Z"
 status: "active"
 ---
 

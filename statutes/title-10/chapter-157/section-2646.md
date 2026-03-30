@@ -3,9 +3,9 @@ title: "Section 2646 - Travel services: procurement for official and unofficial 
 usc_title: 10
 usc_section: "2646"
 chapter: 157
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2646"
-generated_at: "2026-03-30T09:46:12.526Z"
+generated_at: "2026-03-30T09:49:38.991Z"
 status: "active"
 ---
 

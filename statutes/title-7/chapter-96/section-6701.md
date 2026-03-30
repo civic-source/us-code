@@ -3,9 +3,9 @@ title: "Section 6701 - Global Climate Change Program"
 usc_title: 7
 usc_section: "6701"
 chapter: 96
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 6701"
-generated_at: "2026-03-30T09:46:07.202Z"
+generated_at: "2026-03-30T09:49:26.209Z"
 status: "active"
 ---
 

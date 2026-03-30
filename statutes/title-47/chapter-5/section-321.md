@@ -3,9 +3,9 @@ title: "Section 321 - Distress signals and communications; equipment on vessels;
 usc_title: 47
 usc_section: "321"
 chapter: 5
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "47 U.S.C. § 321"
-generated_at: "2026-03-30T09:48:15.672Z"
+generated_at: "2026-03-30T09:51:23.084Z"
 status: "active"
 ---
 

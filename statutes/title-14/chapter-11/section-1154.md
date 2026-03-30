@@ -3,9 +3,9 @@ title: "Section 1154 - Procurement of buoy chain"
 usc_title: 14
 usc_section: "1154"
 chapter: 11
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "14 U.S.C. § 1154"
-generated_at: "2026-03-30T09:46:15.719Z"
+generated_at: "2026-03-30T09:49:57.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 474 - Travel and transportation allowances: general"
 usc_title: 37
 usc_section: "474"
 chapter: 8
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "37 U.S.C. § 474"
-generated_at: "2026-03-30T09:47:19.308Z"
+generated_at: "2026-03-30T09:50:45.534Z"
 status: "active"
 ---
 

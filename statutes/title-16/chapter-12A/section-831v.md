@@ -3,9 +3,9 @@ title: "Section 831v - Legislation to carry out purposes of chapter; recommendat
 usc_title: 16
 usc_section: "831v"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 831v"
-generated_at: "2026-03-30T09:46:30.732Z"
+generated_at: "2026-03-30T09:50:17.401Z"
 status: "active"
 ---
 

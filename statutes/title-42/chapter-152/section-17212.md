@@ -3,9 +3,9 @@ title: "Section 17212 - Marine and hydrokinetic renewable energy research and de
 usc_title: 42
 usc_section: "17212"
 chapter: 152
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 17212"
-generated_at: "2026-03-30T09:48:12.481Z"
+generated_at: "2026-03-30T09:51:17.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Time of payment of premium charges"
 usc_title: 12
 usc_section: "8"
 chapter: 13
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T09:46:21.987Z"
+generated_at: "2026-03-30T09:50:03.176Z"
 status: "active"
 ---
 

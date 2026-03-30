@@ -3,9 +3,9 @@ title: "Section 4763 - General administrative provisions"
 usc_title: 42
 usc_section: "4763"
 chapter: 62
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 4763"
-generated_at: "2026-03-30T09:48:12.241Z"
+generated_at: "2026-03-30T09:51:16.997Z"
 status: "active"
 ---
 

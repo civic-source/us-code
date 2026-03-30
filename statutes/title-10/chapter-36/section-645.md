@@ -3,9 +3,9 @@ title: "Section 645 - Definitions"
 usc_title: 10
 usc_section: "645"
 chapter: 36
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 645"
-generated_at: "2026-03-30T09:46:12.425Z"
+generated_at: "2026-03-30T09:49:38.909Z"
 status: "active"
 ---
 

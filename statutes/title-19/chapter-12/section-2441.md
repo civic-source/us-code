@@ -3,9 +3,9 @@ title: "Section 2441 - Repealed. Pub. L. 105–362, title XIV, § 1401(b)(2) , N
 usc_title: 19
 usc_section: "2441"
 chapter: 12
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "19 U.S.C. § 2441"
-generated_at: "2026-03-30T09:46:26.907Z"
+generated_at: "2026-03-30T09:50:18.580Z"
 status: "repealed"
 ---
 

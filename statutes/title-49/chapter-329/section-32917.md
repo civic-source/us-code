@@ -3,9 +3,9 @@ title: "Section 32917 - Standards for executive agency automobiles"
 usc_title: 49
 usc_section: "32917"
 chapter: 329
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "49 U.S.C. § 32917"
-generated_at: "2026-03-30T09:48:42.026Z"
+generated_at: "2026-03-30T09:51:25.146Z"
 status: "active"
 ---
 

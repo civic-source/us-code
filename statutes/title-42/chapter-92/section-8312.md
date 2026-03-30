@@ -3,9 +3,9 @@ title: "Section 8312 - Repealed. Pub. L. 100–42, § 1(a)(1) , May 21, 1987 , 1
 usc_title: 42
 usc_section: "8312"
 chapter: 92
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 8312"
-generated_at: "2026-03-30T09:48:12.352Z"
+generated_at: "2026-03-30T09:51:17.105Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1720I - Mental and behavioral health care for certain former mem
 usc_title: 38
 usc_section: "1720I"
 chapter: 17
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "38 U.S.C. § 1720I"
-generated_at: "2026-03-30T09:47:16.405Z"
+generated_at: "2026-03-30T09:50:50.815Z"
 status: "active"
 ---
 
@@ -44,8 +44,15 @@ status: "active"
     - **(C)** is made available to State veteran agencies and through appropriate public information services; and
   - **(4)** shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
 - **(f)**
-  - **(1)** Not less frequently than once each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
+  - **(1)** Not later than February 15 each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
   - **(2)** Each report submitted under paragraph (1) shall include, with respect to the year preceding the submittal of the report, the following:
     - **(A)** The number of eligible individuals who were furnished mental or behavioral health care services under this section, disaggregated by the number of men who received such services and the number of women who received such services.
     - **(B)** The number of individuals who requested an initial mental health assessment under subsection (a)(1).
-    - **(C)** Such other information as the Secretary considers appropriate.
+    - **(C)** The types of mental or behavioral health care needs treated under this section.
+    - **(D)** The demographics of individuals being treated under this section, including—
+      - **(i)** age;
+      - **(ii)** era of service in the Armed Forces;
+      - **(iii)** branch of service in the Armed Forces; and
+      - **(iv)** geographic location.
+    - **(E)** The average number of visits for an individual for mental or behavioral health care under this section.
+    - **(F)** Such other information as the Secretary considers appropriate.

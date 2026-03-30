@@ -3,9 +3,9 @@ title: "Section 379b - Consolidated administrative and laboratory facility"
 usc_title: 21
 usc_section: "379b"
 chapter: 9
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "21 U.S.C. § 379b"
-generated_at: "2026-03-30T09:46:39.102Z"
+generated_at: "2026-03-30T09:50:24.431Z"
 status: "active"
 ---
 

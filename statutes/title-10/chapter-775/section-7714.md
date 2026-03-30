@@ -3,9 +3,9 @@ title: "Section 7714 - Collection of captured flags, standards, and colors"
 usc_title: 10
 usc_section: "7714"
 chapter: 775
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 7714"
-generated_at: "2026-03-30T09:46:12.550Z"
+generated_at: "2026-03-30T09:49:39.010Z"
 status: "active"
 ---
 

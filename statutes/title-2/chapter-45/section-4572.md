@@ -3,9 +3,9 @@ title: "Section 4572 - Rates of compensation paid by Secretary of Senate; applic
 usc_title: 2
 usc_section: "4572"
 chapter: 45
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "2 U.S.C. § 4572"
-generated_at: "2026-03-30T09:45:59.048Z"
+generated_at: "2026-03-30T09:49:04.268Z"
 status: "active"
 ---
 

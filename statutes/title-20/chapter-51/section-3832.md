@@ -3,9 +3,9 @@ title: "Section 3832 - Repealed. Pub. L. 100–297, title I, § 1003(a) , Apr. 2
 usc_title: 20
 usc_section: "3832"
 chapter: 51
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "20 U.S.C. § 3832"
-generated_at: "2026-03-30T09:46:32.732Z"
+generated_at: "2026-03-30T09:50:09.878Z"
 status: "repealed"
 ---
 

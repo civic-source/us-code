@@ -3,9 +3,9 @@ title: "Section 3383 - National Counterintelligence and Security Center"
 usc_title: 50
 usc_section: "3383"
 chapter: 45
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "50 U.S.C. § 3383"
-generated_at: "2026-03-30T09:48:29.953Z"
+generated_at: "2026-03-30T09:51:27.813Z"
 status: "active"
 ---
 

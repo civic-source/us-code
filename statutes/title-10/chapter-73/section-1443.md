@@ -3,9 +3,9 @@ title: "Section 1443 - Repealed. Pub. L. 92–425, § 1(2)(B) , Sept. 21, 1972 ,
 usc_title: 10
 usc_section: "1443"
 chapter: 73
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 1443"
-generated_at: "2026-03-30T09:46:12.467Z"
+generated_at: "2026-03-30T09:49:38.942Z"
 status: "repealed"
 ---
 

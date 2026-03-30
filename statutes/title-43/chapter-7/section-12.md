@@ -3,9 +3,9 @@ title: "Section 12 - Disposal by United States of coal, oil, or gas deposits res
 usc_title: 43
 usc_section: "12"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "43 U.S.C. § 12"
-generated_at: "2026-03-30T09:47:36.336Z"
+generated_at: "2026-03-30T09:50:53.329Z"
 status: "active"
 ---
 

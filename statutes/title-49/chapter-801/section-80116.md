@@ -3,9 +3,9 @@ title: "Section 80116 - Criminal penalty"
 usc_title: 49
 usc_section: "80116"
 chapter: 801
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "49 U.S.C. § 80116"
-generated_at: "2026-03-30T09:48:42.060Z"
+generated_at: "2026-03-30T09:51:25.184Z"
 status: "active"
 ---
 

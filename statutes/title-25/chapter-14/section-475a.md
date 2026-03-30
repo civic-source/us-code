@@ -3,9 +3,9 @@ title: "Section 475a - Transferred"
 usc_title: 25
 usc_section: "475a"
 chapter: 14
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "25 U.S.C. § 475a"
-generated_at: "2026-03-30T09:46:37.600Z"
+generated_at: "2026-03-30T09:50:23.116Z"
 status: "transferred"
 ---
 

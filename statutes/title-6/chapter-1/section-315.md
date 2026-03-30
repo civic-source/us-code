@@ -3,9 +3,9 @@ title: "Section 315 - Functions transferred"
 usc_title: 6
 usc_section: "315"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 315"
-generated_at: "2026-03-30T09:46:02.428Z"
+generated_at: "2026-03-30T09:49:33.490Z"
 status: "active"
 ---
 

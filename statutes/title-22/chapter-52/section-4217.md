@@ -3,9 +3,9 @@ title: "Section 4217 - Embezzlement of fees or of effects of American citizens"
 usc_title: 22
 usc_section: "4217"
 chapter: 52
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 4217"
-generated_at: "2026-03-30T09:46:45.792Z"
+generated_at: "2026-03-30T09:50:26.821Z"
 status: "active"
 ---
 

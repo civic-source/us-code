@@ -3,9 +3,9 @@ title: "Section 596a - Joint annual interagency review of global nuclear detecti
 usc_title: 6
 usc_section: "596a"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "6 U.S.C. § 596a"
-generated_at: "2026-03-30T09:46:02.447Z"
+generated_at: "2026-03-30T09:49:33.501Z"
 status: "active"
 ---
 

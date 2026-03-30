@@ -3,9 +3,9 @@ title: "Section 2504 - Computation of retired pay"
 usc_title: 14
 usc_section: "2504"
 chapter: 25
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "14 U.S.C. § 2504"
-generated_at: "2026-03-30T09:46:15.721Z"
+generated_at: "2026-03-30T09:49:57.984Z"
 status: "active"
 ---
 

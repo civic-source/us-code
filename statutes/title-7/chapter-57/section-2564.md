@@ -3,9 +3,9 @@ title: "Section 2564 - Damages"
 usc_title: 7
 usc_section: "2564"
 chapter: 57
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 2564"
-generated_at: "2026-03-30T09:46:07.158Z"
+generated_at: "2026-03-30T09:49:26.174Z"
 status: "active"
 ---
 

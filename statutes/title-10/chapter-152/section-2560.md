@@ -3,9 +3,9 @@ title: "Section 2560 - Aircraft and vehicles: limitation on leasing to non-Feder
 usc_title: 10
 usc_section: "2560"
 chapter: 152
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "10 U.S.C. § 2560"
-generated_at: "2026-03-30T09:46:12.522Z"
+generated_at: "2026-03-30T09:49:38.988Z"
 status: "active"
 ---
 

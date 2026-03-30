@@ -3,9 +3,9 @@ title: "Section 22 - Conservation stewardship program"
 usc_title: 16
 usc_section: "22"
 chapter: 58
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "16 U.S.C. § 22"
-generated_at: "2026-03-30T09:46:30.803Z"
+generated_at: "2026-03-30T09:50:17.469Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Proceedings begun by libel in admiralty and seizure of vesse
 usc_title: 9
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "9 U.S.C. § 8"
-generated_at: "2026-03-30T09:46:00.697Z"
+generated_at: "2026-03-30T09:49:26.269Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40701 - Rates"
 usc_title: 46
 usc_section: "40701"
 chapter: 407
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "46 U.S.C. § 40701"
-generated_at: "2026-03-30T09:48:28.498Z"
+generated_at: "2026-03-30T09:51:25.888Z"
 status: "active"
 ---
 

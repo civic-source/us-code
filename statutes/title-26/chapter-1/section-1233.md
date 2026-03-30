@@ -3,9 +3,9 @@ title: "Section 1233 - Gains and losses from short sales"
 usc_title: 26
 usc_section: "1233"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "26 U.S.C. § 1233"
-generated_at: "2026-03-30T09:46:56.297Z"
+generated_at: "2026-03-30T09:50:37.752Z"
 status: "active"
 ---
 

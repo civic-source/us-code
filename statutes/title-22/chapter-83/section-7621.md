@@ -3,9 +3,9 @@ title: "Section 7621 - Sense of Congress on public-private partnerships"
 usc_title: 22
 usc_section: "7621"
 chapter: 83
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "22 U.S.C. § 7621"
-generated_at: "2026-03-30T09:46:45.821Z"
+generated_at: "2026-03-30T09:50:26.850Z"
 status: "active"
 ---
 

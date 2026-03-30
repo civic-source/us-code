@@ -3,9 +3,9 @@ title: "Section 1392 - Availability of funds during certain fiscal years; limita
 usc_title: 42
 usc_section: "1392"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 1392"
-generated_at: "2026-03-30T09:48:12.012Z"
+generated_at: "2026-03-30T09:51:16.775Z"
 status: "active"
 ---
 

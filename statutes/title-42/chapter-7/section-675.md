@@ -3,9 +3,9 @@ title: "Section 675 - Definitions"
 usc_title: 42
 usc_section: "675"
 chapter: 7
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "42 U.S.C. § 675"
-generated_at: "2026-03-30T09:48:11.981Z"
+generated_at: "2026-03-30T09:51:16.745Z"
 status: "active"
 ---
 

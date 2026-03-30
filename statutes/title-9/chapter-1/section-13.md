@@ -3,9 +3,9 @@ title: "Section 13 - Papers filed with order on motions; judgment; docketing; fo
 usc_title: 9
 usc_section: "13"
 chapter: 1
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "9 U.S.C. § 13"
-generated_at: "2026-03-30T09:46:00.697Z"
+generated_at: "2026-03-30T09:49:26.269Z"
 status: "active"
 ---
 

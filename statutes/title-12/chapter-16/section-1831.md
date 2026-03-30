@@ -3,9 +3,9 @@ title: "Section 1831 - Separability of certain provisions of this chapter"
 usc_title: 12
 usc_section: "1831"
 chapter: 16
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "12 U.S.C. § 1831"
-generated_at: "2026-03-30T09:46:22.019Z"
+generated_at: "2026-03-30T09:50:03.201Z"
 status: "active"
 ---
 

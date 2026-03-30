@@ -3,9 +3,9 @@ title: "Section 2326 - Regulations"
 usc_title: 7
 usc_section: "2326"
 chapter: 57
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "7 U.S.C. § 2326"
-generated_at: "2026-03-30T09:46:07.157Z"
+generated_at: "2026-03-30T09:49:26.172Z"
 status: "active"
 ---
 

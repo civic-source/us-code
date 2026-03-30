@@ -3,9 +3,9 @@ title: "Section 12291 - Definitions and grant provisions"
 usc_title: 34
 usc_section: "12291"
 chapter: 121
-current_through: "PL 116-169"
+current_through: "PL 116-182"
 classification: "34 U.S.C. § 12291"
-generated_at: "2026-03-30T09:47:12.154Z"
+generated_at: "2026-03-30T09:50:40.698Z"
 status: "active"
 ---
 
