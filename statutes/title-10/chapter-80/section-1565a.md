@@ -3,9 +3,9 @@ title: "Section 1565a - DNA samples maintained for identification of human remai
 usc_title: 10
 usc_section: "1565a"
 chapter: 80
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 1565a"
-generated_at: "2026-03-30T03:07:27.097Z"
+generated_at: "2026-03-30T03:10:03.017Z"
 status: "active"
 ---
 

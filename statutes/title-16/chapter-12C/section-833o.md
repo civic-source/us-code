@@ -3,9 +3,9 @@ title: "Section 833o - Authority of Secretary of the Interior for acquisition of
 usc_title: 16
 usc_section: "833o"
 chapter: 12
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 833o"
-generated_at: "2026-03-30T03:08:28.861Z"
+generated_at: "2026-03-30T03:10:27.226Z"
 status: "active"
 ---
 

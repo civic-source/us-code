@@ -3,9 +3,9 @@ title: "Section 280e - National program of cancer registries"
 usc_title: 42
 usc_section: "280e"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 280e"
-generated_at: "2026-03-30T03:09:28.541Z"
+generated_at: "2026-03-30T03:11:39.984Z"
 status: "active"
 ---
 

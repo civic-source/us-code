@@ -3,9 +3,9 @@ title: "Section 89a - Certification of indebtedness of employees of House; withh
 usc_title: 2
 usc_section: "89a"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 89a"
-generated_at: "2026-03-30T03:07:00.074Z"
+generated_at: "2026-03-30T03:09:51.234Z"
 status: "active"
 ---
 

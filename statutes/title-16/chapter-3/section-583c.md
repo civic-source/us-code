@@ -3,9 +3,9 @@ title: "Section 583c - Agreements between Secretaries of Agriculture and the Int
 usc_title: 16
 usc_section: "583c"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 583c"
-generated_at: "2026-03-30T03:08:28.831Z"
+generated_at: "2026-03-30T03:10:27.194Z"
 status: "active"
 ---
 

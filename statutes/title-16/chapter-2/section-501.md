@@ -3,9 +3,9 @@ title: "Section 501 - Expenditures from receipts for roads and trails; cooperati
 usc_title: 16
 usc_section: "501"
 chapter: 2
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 501"
-generated_at: "2026-03-30T03:08:28.818Z"
+generated_at: "2026-03-30T03:10:27.175Z"
 status: "active"
 ---
 

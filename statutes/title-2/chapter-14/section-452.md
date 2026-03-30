@@ -3,9 +3,9 @@ title: "Section 452 - Prohibition against use of certain Federal funds for elect
 usc_title: 2
 usc_section: "452"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 452"
-generated_at: "2026-03-30T03:07:00.089Z"
+generated_at: "2026-03-30T03:09:51.249Z"
 status: "active"
 ---
 

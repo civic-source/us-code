@@ -3,9 +3,9 @@ title: "Section 3714a - Grants to States for threat assessment databases"
 usc_title: 42
 usc_section: "3714a"
 chapter: 46
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 3714a"
-generated_at: "2026-03-30T03:09:28.892Z"
+generated_at: "2026-03-30T03:11:40.335Z"
 status: "active"
 ---
 

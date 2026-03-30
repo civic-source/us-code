@@ -3,9 +3,9 @@ title: "Section 1973h - Poll taxes"
 usc_title: 42
 usc_section: "1973h"
 chapter: 20
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1973h"
-generated_at: "2026-03-30T03:09:28.840Z"
+generated_at: "2026-03-30T03:11:40.282Z"
 status: "active"
 ---
 

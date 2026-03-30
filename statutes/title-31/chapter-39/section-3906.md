@@ -3,9 +3,9 @@ title: "Section 3906 - Repealed. Pub. L. 105–362, title XIII, § 1301(c)(1) , 
 usc_title: 31
 usc_section: "3906"
 chapter: 39
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "31 U.S.C. § 3906"
-generated_at: "2026-03-30T03:09:10.961Z"
+generated_at: "2026-03-30T03:11:11.382Z"
 status: "repealed"
 ---
 

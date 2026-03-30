@@ -3,9 +3,9 @@ title: "Section 2389 - Status and benefits of personnel assigned or detailed to 
 usc_title: 22
 usc_section: "2389"
 chapter: 32
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 2389"
-generated_at: "2026-03-30T03:08:34.013Z"
+generated_at: "2026-03-30T03:10:34.698Z"
 status: "active"
 ---
 

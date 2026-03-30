@@ -3,9 +3,9 @@ title: "Section 22504 - Use of funds"
 usc_title: 49
 usc_section: "22504"
 chapter: 225
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "49 U.S.C. § 22504"
-generated_at: "2026-03-30T03:09:35.001Z"
+generated_at: "2026-03-30T03:11:48.087Z"
 status: "active"
 ---
 

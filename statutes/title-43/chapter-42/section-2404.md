@@ -3,9 +3,9 @@ title: "Section 2404 - Appraisal investigations"
 usc_title: 43
 usc_section: "2404"
 chapter: 42
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "43 U.S.C. § 2404"
-generated_at: "2026-03-30T03:09:17.270Z"
+generated_at: "2026-03-30T03:11:20.621Z"
 status: "active"
 ---
 

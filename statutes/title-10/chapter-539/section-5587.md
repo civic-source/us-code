@@ -3,9 +3,9 @@ title: "Section 5587 - Regular Navy: officers designated for engineering duty, a
 usc_title: 10
 usc_section: "5587"
 chapter: 539
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 5587"
-generated_at: "2026-03-30T03:07:27.154Z"
+generated_at: "2026-03-30T03:10:03.070Z"
 status: "active"
 ---
 

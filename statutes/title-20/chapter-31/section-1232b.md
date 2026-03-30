@@ -3,9 +3,9 @@ title: "Section 1232b - Labor standards"
 usc_title: 20
 usc_section: "1232b"
 chapter: 31
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 1232b"
-generated_at: "2026-03-30T03:08:22.857Z"
+generated_at: "2026-03-30T03:10:17.316Z"
 status: "active"
 ---
 

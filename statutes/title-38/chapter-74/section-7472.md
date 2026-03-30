@@ -3,9 +3,9 @@ title: "Section 7472 - Supervision and staffing of Centers"
 usc_title: 38
 usc_section: "7472"
 chapter: 74
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "38 U.S.C. § 7472"
-generated_at: "2026-03-30T03:09:15.048Z"
+generated_at: "2026-03-30T03:11:17.788Z"
 status: "active"
 ---
 

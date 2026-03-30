@@ -3,9 +3,9 @@ title: "Section 929 - Omitted"
 usc_title: 43
 usc_section: "929"
 chapter: 21
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "43 U.S.C. § 929"
-generated_at: "2026-03-30T03:09:17.241Z"
+generated_at: "2026-03-30T03:11:20.594Z"
 status: "omitted"
 ---
 

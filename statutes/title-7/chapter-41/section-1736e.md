@@ -3,9 +3,9 @@ title: "Section 1736e - Debt forgiveness"
 usc_title: 7
 usc_section: "1736e"
 chapter: 41
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 1736e"
-generated_at: "2026-03-30T03:07:51.812Z"
+generated_at: "2026-03-30T03:10:00.521Z"
 status: "active"
 ---
 

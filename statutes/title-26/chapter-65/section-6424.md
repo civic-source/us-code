@@ -3,9 +3,9 @@ title: "Section 6424 - Repealed. Pub. L. 97–424, title V, § 515(b)(5) , Jan. 
 usc_title: 26
 usc_section: "6424"
 chapter: 65
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 6424"
-generated_at: "2026-03-30T03:09:00.363Z"
+generated_at: "2026-03-30T03:11:08.866Z"
 status: "repealed"
 ---
 

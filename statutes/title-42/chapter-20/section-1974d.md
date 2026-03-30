@@ -3,9 +3,9 @@ title: "Section 1974d - Jurisdiction to compel production of records or papers"
 usc_title: 42
 usc_section: "1974d"
 chapter: 20
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1974d"
-generated_at: "2026-03-30T03:09:28.843Z"
+generated_at: "2026-03-30T03:11:40.285Z"
 status: "active"
 ---
 

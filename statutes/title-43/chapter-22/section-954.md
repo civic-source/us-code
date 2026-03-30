@@ -3,9 +3,9 @@ title: "Section 954 - Survey; map of reservoirs"
 usc_title: 43
 usc_section: "954"
 chapter: 22
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "43 U.S.C. § 954"
-generated_at: "2026-03-30T03:09:17.243Z"
+generated_at: "2026-03-30T03:11:20.595Z"
 status: "active"
 ---
 

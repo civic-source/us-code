@@ -3,9 +3,9 @@ title: "Section 1631 - Disclosure requirements"
 usc_title: 15
 usc_section: "1631"
 chapter: 41
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 1631"
-generated_at: "2026-03-30T03:08:17.035Z"
+generated_at: "2026-03-30T03:10:11.554Z"
 status: "active"
 ---
 

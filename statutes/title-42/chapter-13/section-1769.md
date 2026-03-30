@@ -3,9 +3,9 @@ title: "Section 1769 - Pilot projects"
 usc_title: 42
 usc_section: "1769"
 chapter: 13
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1769"
-generated_at: "2026-03-30T03:09:28.824Z"
+generated_at: "2026-03-30T03:11:40.266Z"
 status: "active"
 ---
 
@@ -121,4 +121,4 @@ status: "active"
         - **(II)** to carry out innovative programs that improve the health and wellness of schoolchildren; and
         - **(III)** to evaluate the outcome of the pilot program; and
       - **(iii)** any other criteria the Secretary determines to be appropriate.
-        - **(4)** There are authorized to be appropriated to carry out this subsection $10,000,000 for fiscal years 2011 through 2015.
+  - **(4)** There are authorized to be appropriated to carry out this subsection $10,000,000 for fiscal years 2011 through 2015.

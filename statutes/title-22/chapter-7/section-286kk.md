@@ -3,9 +3,9 @@ title: "Section 286kk - Discussions to enhance capacity of Fund to alleviate pot
 usc_title: 22
 usc_section: "286kk"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 286kk"
-generated_at: "2026-03-30T03:08:33.975Z"
+generated_at: "2026-03-30T03:10:34.658Z"
 status: "active"
 ---
 

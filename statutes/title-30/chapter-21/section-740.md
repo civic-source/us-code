@@ -3,9 +3,9 @@ title: "Section 740 - Repealed. Pub. L. 95–164, title III, § 306(a) , Nov. 9,
 usc_title: 30
 usc_section: "740"
 chapter: 21
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "30 U.S.C. § 740"
-generated_at: "2026-03-30T03:08:49.493Z"
+generated_at: "2026-03-30T03:10:47.975Z"
 status: "repealed"
 ---
 

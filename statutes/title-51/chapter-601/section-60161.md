@@ -3,9 +3,9 @@ title: "Section 60161 - Prohibition"
 usc_title: 51
 usc_section: "60161"
 chapter: 601
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "51 U.S.C. § 60161"
-generated_at: "2026-03-30T03:09:36.778Z"
+generated_at: "2026-03-30T03:11:51.451Z"
 status: "active"
 ---
 

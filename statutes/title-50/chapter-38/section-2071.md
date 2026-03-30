@@ -3,9 +3,9 @@ title: "Section 2071 - Lump-sum payments"
 usc_title: 50
 usc_section: "2071"
 chapter: 38
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "50 U.S.C. § 2071"
-generated_at: "2026-03-30T03:09:33.356Z"
+generated_at: "2026-03-30T03:11:43.706Z"
 status: "active"
 ---
 

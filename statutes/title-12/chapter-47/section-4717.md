@@ -3,9 +3,9 @@ title: "Section 4717 - Enforcement"
 usc_title: 12
 usc_section: "4717"
 chapter: 47
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "12 U.S.C. § 4717"
-generated_at: "2026-03-30T03:08:07.522Z"
+generated_at: "2026-03-30T03:10:09.826Z"
 status: "active"
 ---
 

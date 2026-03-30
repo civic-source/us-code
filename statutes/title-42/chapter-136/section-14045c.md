@@ -1,15 +1,13 @@
 ---
-title: "Section 14045c - Public awareness campaign"
+title: "Section 14045c - Repealed. Pub. L. 113–4, title IV, § 402(b)(2) , Mar. 7, 2013 , 127 Stat. 95"
 usc_title: 42
 usc_section: "14045c"
 chapter: 136
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 14045c"
-generated_at: "2026-03-30T03:09:29.132Z"
-status: "active"
+generated_at: "2026-03-30T03:11:40.574Z"
+status: "repealed"
 ---
 
-# § 14045c. Public awareness campaign
+# § 14045c. Repealed. Pub. L. 113–4, title IV, § 402(b)(2) , Mar. 7, 2013 , 127 Stat. 95
 
-- **(a)** The Attorney General, acting through the Office on Violence Against Women], 1 1 So in original. Bracket probably should not appear. shall make grants to States for carrying out a campaign to increase public awareness of issues regarding domestic violence against pregnant women.
-- **(b)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2006 through 2010.

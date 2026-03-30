@@ -3,9 +3,9 @@ title: "Section 7421 - Findings"
 usc_title: 22
 usc_section: "7421"
 chapter: 81
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 7421"
-generated_at: "2026-03-30T03:08:34.083Z"
+generated_at: "2026-03-30T03:10:34.762Z"
 status: "active"
 ---
 

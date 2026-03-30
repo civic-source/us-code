@@ -3,9 +3,9 @@ title: "Section 3 - Report on telecommunications to Committee on Rules and Admin
 usc_title: 2
 usc_section: "3"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 3"
-generated_at: "2026-03-30T03:07:00.067Z"
+generated_at: "2026-03-30T03:09:51.227Z"
 status: "active"
 ---
 

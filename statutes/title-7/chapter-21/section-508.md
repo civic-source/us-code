@@ -3,9 +3,9 @@ title: "Section 508 - Separability"
 usc_title: 7
 usc_section: "508"
 chapter: 21
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 508"
-generated_at: "2026-03-30T03:07:51.775Z"
+generated_at: "2026-03-30T03:10:00.482Z"
 status: "active"
 ---
 

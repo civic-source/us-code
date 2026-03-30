@@ -3,9 +3,9 @@ title: "Section 88a - Repealed. Pub. L. 104–186, title II, § 204(33) , (34)(A
 usc_title: 2
 usc_section: "88a"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 88a"
-generated_at: "2026-03-30T03:07:00.074Z"
+generated_at: "2026-03-30T03:09:51.234Z"
 status: "repealed"
 ---
 

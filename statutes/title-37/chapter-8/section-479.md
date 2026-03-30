@@ -3,9 +3,9 @@ title: "Section 479 - Travel and transportation allowances: house trailers and m
 usc_title: 37
 usc_section: "479"
 chapter: 8
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "37 U.S.C. § 479"
-generated_at: "2026-03-30T03:09:13.592Z"
+generated_at: "2026-03-30T03:11:14.334Z"
 status: "active"
 ---
 

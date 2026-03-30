@@ -3,9 +3,9 @@ title: "Section 9902 - Department of Defense personnel authorities"
 usc_title: 5
 usc_section: "9902"
 chapter: 99
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "5 U.S.C. § 9902"
-generated_at: "2026-03-30T03:07:18.730Z"
+generated_at: "2026-03-30T03:09:49.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2669 - Study of radon in Federal buildings"
 usc_title: 15
 usc_section: "2669"
 chapter: 53
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 2669"
-generated_at: "2026-03-30T03:08:17.070Z"
+generated_at: "2026-03-30T03:10:11.590Z"
 status: "active"
 ---
 

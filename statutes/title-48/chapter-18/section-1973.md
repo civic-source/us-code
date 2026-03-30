@@ -3,9 +3,9 @@ title: "Section 1973 - Freely Associated State Air Carrier"
 usc_title: 48
 usc_section: "1973"
 chapter: 18
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "48 U.S.C. § 1973"
-generated_at: "2026-03-30T03:09:31.710Z"
+generated_at: "2026-03-30T03:11:49.634Z"
 status: "active"
 ---
 

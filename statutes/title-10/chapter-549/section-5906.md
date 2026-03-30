@@ -3,9 +3,9 @@ title: "Section 5906 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1629(b
 usc_title: 10
 usc_section: "5906"
 chapter: 549
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 5906"
-generated_at: "2026-03-30T03:07:27.155Z"
+generated_at: "2026-03-30T03:10:03.071Z"
 status: "repealed"
 ---
 

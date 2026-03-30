@@ -3,9 +3,9 @@ title: "Section 9815 - 1 1 So in original. No section 9814 has been enacted. Add
 usc_title: 26
 usc_section: "9815"
 chapter: 100
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 9815"
-generated_at: "2026-03-30T03:09:00.394Z"
+generated_at: "2026-03-30T03:11:08.899Z"
 status: "active"
 ---
 

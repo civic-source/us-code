@@ -3,9 +3,9 @@ title: "Section 1145 - Exemption from securities laws"
 usc_title: 11
 usc_section: "1145"
 chapter: 11
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "11 U.S.C. § 1145"
-generated_at: "2026-03-30T03:07:54.095Z"
+generated_at: "2026-03-30T03:10:06.288Z"
 status: "active"
 ---
 

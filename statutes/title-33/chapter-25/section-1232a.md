@@ -3,9 +3,9 @@ title: "Section 1232a - Navigational hazards"
 usc_title: 33
 usc_section: "1232a"
 chapter: 25
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "33 U.S.C. § 1232a"
-generated_at: "2026-03-30T03:09:06.727Z"
+generated_at: "2026-03-30T03:11:12.235Z"
 status: "active"
 ---
 

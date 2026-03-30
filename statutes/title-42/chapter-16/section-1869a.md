@@ -3,9 +3,9 @@ title: "Section 1869a - Contracts for precollege science or engineering curricul
 usc_title: 42
 usc_section: "1869a"
 chapter: 16
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1869a"
-generated_at: "2026-03-30T03:09:28.835Z"
+generated_at: "2026-03-30T03:11:40.277Z"
 status: "active"
 ---
 

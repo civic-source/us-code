@@ -3,9 +3,9 @@ title: "Section 7325 - Accountability for adequate yearly progress"
 usc_title: 20
 usc_section: "7325"
 chapter: 70
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 7325"
-generated_at: "2026-03-30T03:08:22.918Z"
+generated_at: "2026-03-30T03:10:17.381Z"
 status: "active"
 ---
 

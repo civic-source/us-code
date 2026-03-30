@@ -3,9 +3,9 @@ title: "Section 1932 - 1 1 Another section 1932 is set out preceding this sectio
 usc_title: 28
 usc_section: "1932"
 chapter: 123
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "28 U.S.C. § 1932"
-generated_at: "2026-03-30T03:08:50.374Z"
+generated_at: "2026-03-30T03:10:49.978Z"
 status: "active"
 ---
 

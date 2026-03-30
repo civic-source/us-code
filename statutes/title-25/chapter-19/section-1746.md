@@ -3,9 +3,9 @@ title: "Section 1746 - Scope of rights or interests granted to Miccosukee Tribe;
 usc_title: 25
 usc_section: "1746"
 chapter: 19
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 1746"
-generated_at: "2026-03-30T03:08:47.367Z"
+generated_at: "2026-03-30T03:10:32.922Z"
 status: "active"
 ---
 

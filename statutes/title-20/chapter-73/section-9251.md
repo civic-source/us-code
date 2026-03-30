@@ -3,9 +3,9 @@ title: "Section 9251 - Administrative provisions"
 usc_title: 20
 usc_section: "9251"
 chapter: 73
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 9251"
-generated_at: "2026-03-30T03:08:22.929Z"
+generated_at: "2026-03-30T03:10:17.393Z"
 status: "active"
 ---
 

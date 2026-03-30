@@ -3,9 +3,9 @@ title: "Section 5102 - Application forms furnished upon request; notice to claim
 usc_title: 38
 usc_section: "5102"
 chapter: 51
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "38 U.S.C. § 5102"
-generated_at: "2026-03-30T03:09:15.035Z"
+generated_at: "2026-03-30T03:11:17.776Z"
 status: "active"
 ---
 

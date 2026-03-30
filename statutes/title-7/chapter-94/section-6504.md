@@ -3,9 +3,9 @@ title: "Section 6504 - National standards for organic production"
 usc_title: 7
 usc_section: "6504"
 chapter: 94
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 6504"
-generated_at: "2026-03-30T03:07:51.877Z"
+generated_at: "2026-03-30T03:10:00.587Z"
 status: "active"
 ---
 

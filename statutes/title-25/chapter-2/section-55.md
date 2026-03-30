@@ -3,9 +3,9 @@ title: "Section 55 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "55"
 chapter: 2
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 55"
-generated_at: "2026-03-30T03:08:47.311Z"
+generated_at: "2026-03-30T03:10:32.864Z"
 status: "repealed"
 ---
 

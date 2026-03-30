@@ -3,9 +3,9 @@ title: "Section 1a - Increase in capital stock of Bank"
 usc_title: 22
 usc_section: "1a"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-30T03:08:33.973Z"
+generated_at: "2026-03-30T03:10:34.656Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18505 - 1 1 So in original. No sections 18503 and 18504 have bee
 usc_title: 10
 usc_section: "18505"
 chapter: 1805
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 18505"
-generated_at: "2026-03-30T03:07:27.186Z"
+generated_at: "2026-03-30T03:10:03.101Z"
 status: "active"
 ---
 

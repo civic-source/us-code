@@ -3,9 +3,9 @@ title: "Section 6285 - Repealed. Pub. L. 109–58, title III, § 301(b)(3) , Aug
 usc_title: 42
 usc_section: "6285"
 chapter: 77
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 6285"
-generated_at: "2026-03-30T03:09:28.947Z"
+generated_at: "2026-03-30T03:11:40.392Z"
 status: "repealed"
 ---
 

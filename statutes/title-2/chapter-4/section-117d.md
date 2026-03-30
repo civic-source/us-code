@@ -3,9 +3,9 @@ title: "Section 117d - Reimbursements to Sergeant at Arms and Doorkeeper of Sena
 usc_title: 2
 usc_section: "117d"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 117d"
-generated_at: "2026-03-30T03:07:00.076Z"
+generated_at: "2026-03-30T03:09:51.236Z"
 status: "active"
 ---
 

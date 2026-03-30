@@ -3,9 +3,9 @@ title: "Section 113 - Teachers’ certificates dependent on passing examination 
 usc_title: 20
 usc_section: "113"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 113"
-generated_at: "2026-03-30T03:08:22.797Z"
+generated_at: "2026-03-30T03:10:17.252Z"
 status: "active"
 ---
 

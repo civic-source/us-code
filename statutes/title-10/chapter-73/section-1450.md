@@ -3,9 +3,9 @@ title: "Section 1450 - Payment of annuity: beneficiaries"
 usc_title: 10
 usc_section: "1450"
 chapter: 73
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 1450"
-generated_at: "2026-03-30T03:07:27.092Z"
+generated_at: "2026-03-30T03:10:03.012Z"
 status: "active"
 ---
 
@@ -64,8 +64,8 @@ status: "active"
 - **(h)** Except as provided in section 1451 of this title , an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
 - **(i)** Except as provided in subsection ( l )(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 - **(j)**
-  - **(1)**
-  - **(2)**
+  - **(1)** A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.
+  - **(2)** An annuity payable under section 1448(f) of this title shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
 - **(k)**
   - **(1)** If a surviving spouse or former spouse whose annuity has been adjusted under subsection (c) subsequently loses entitlement to dependency and indemnity compensation under section 1311(a) of title 38 because of the remarriage of the surviving spouse, or former spouse, and if at the time of such remarriage the surviving spouse or former spouse is 55 years of age or more, the amount of the annuity of the surviving spouse or former spouse shall be readjusted, effective on the effective date of such loss of dependency and indemnity compensation, to the amount of the annuity which would be in effect with respect to the surviving spouse or former spouse if the adjustment under subsection (c) had never been made.
   - **(2)**

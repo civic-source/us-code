@@ -3,9 +3,9 @@ title: "Section 6111 - Repealed. Pub. L. 87–649, § 14c(35) , Sept. 7, 1962 , 
 usc_title: 10
 usc_section: "6111"
 chapter: 559
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 6111"
-generated_at: "2026-03-30T03:07:27.155Z"
+generated_at: "2026-03-30T03:10:03.072Z"
 status: "repealed"
 ---
 

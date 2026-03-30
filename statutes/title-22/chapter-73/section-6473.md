@@ -3,9 +3,9 @@ title: "Section 6473 - Reform of asylum policy"
 usc_title: 22
 usc_section: "6473"
 chapter: 73
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 6473"
-generated_at: "2026-03-30T03:08:34.074Z"
+generated_at: "2026-03-30T03:10:34.754Z"
 status: "active"
 ---
 

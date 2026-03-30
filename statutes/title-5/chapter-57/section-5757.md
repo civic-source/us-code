@@ -3,9 +3,9 @@ title: "Section 5757 - 1 1 Another section 5757 is set out preceding this sectio
 usc_title: 5
 usc_section: "5757"
 chapter: 57
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "5 U.S.C. § 5757"
-generated_at: "2026-03-30T03:07:18.699Z"
+generated_at: "2026-03-30T03:09:48.951Z"
 status: "active"
 ---
 

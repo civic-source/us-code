@@ -3,9 +3,9 @@ title: "Section 110b - Administration of headquarters site"
 usc_title: 16
 usc_section: "110b"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 110b"
-generated_at: "2026-03-30T03:08:28.736Z"
+generated_at: "2026-03-30T03:10:27.088Z"
 status: "active"
 ---
 

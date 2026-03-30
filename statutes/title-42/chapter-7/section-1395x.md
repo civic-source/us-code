@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T03:09:28.733Z"
+generated_at: "2026-03-30T03:11:40.171Z"
 status: "active"
 ---
 
@@ -638,12 +638,12 @@ For purposes of this subchapter—
     - **(B)** Notwithstanding any other provision of this subchapter, payment may not be made under subparagraph (A)—
       - **(i)** in a year insofar as such payments exceed $700,000; and
       - **(ii)** after December 31, 2006 .
-        - **(1)** a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
-        - **(2)** includes a physician’s interpretation of the results of the procedure.
-        - **(1)** is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
-        - **(2)** has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of section 1395ww(d)(1)(B)(iv) of this title ;
-        - **(3)** satisfies the requirements of subsection (e); and
-        - **(4)** meets the following facility criteria:
+  - **(1)** a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
+  - **(2)** includes a physician’s interpretation of the results of the procedure.
+  - **(1)** is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
+  - **(2)** has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of section 1395ww(d)(1)(B)(iv) of this title ;
+  - **(3)** satisfies the requirements of subsection (e); and
+  - **(4)** meets the following facility criteria:
     - **(A)** the institution has a patient review process, documented in the patient medical record, that screens patients prior to admission for appropriateness of admission to a long-term care hospital, validates within 48 hours of admission that patients meet admission criteria for long-term care hospitals, regularly evaluates patients throughout their stay for continuation of care in a long-term care hospital, and assesses the available discharge options when patients no longer meet such continued stay criteria;
     - **(B)** the institution has active physician involvement with patients during their treatment through an organized medical staff, physician-directed treatment with physician on-site availability on a daily basis to review patient progress, and consulting physicians on call and capable of being at the patient’s side within a moderate period of time, as determined by the Secretary; and
     - **(C)** the institution has interdisciplinary team treatment for patients, requiring interdisciplinary teams of health care professionals, including physicians, to prepare and carry out an individualized treatment plan for each patient.

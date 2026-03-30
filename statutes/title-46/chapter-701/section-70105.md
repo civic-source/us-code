@@ -3,9 +3,9 @@ title: "Section 70105 - Transportation security cards"
 usc_title: 46
 usc_section: "70105"
 chapter: 701
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "46 U.S.C. § 70105"
-generated_at: "2026-03-30T03:09:32.744Z"
+generated_at: "2026-03-30T03:11:46.139Z"
 status: "active"
 ---
 

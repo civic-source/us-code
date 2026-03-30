@@ -3,9 +3,9 @@ title: "Section 291c - General regulations"
 usc_title: 42
 usc_section: "291c"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 291c"
-generated_at: "2026-03-30T03:09:28.571Z"
+generated_at: "2026-03-30T03:11:40.013Z"
 status: "active"
 ---
 

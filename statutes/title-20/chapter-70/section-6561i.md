@@ -3,9 +3,9 @@ title: "Section 6561i - Reporting and accountability"
 usc_title: 20
 usc_section: "6561i"
 chapter: 70
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 6561i"
-generated_at: "2026-03-30T03:08:22.900Z"
+generated_at: "2026-03-30T03:10:17.362Z"
 status: "active"
 ---
 

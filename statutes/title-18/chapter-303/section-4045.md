@@ -3,9 +3,9 @@ title: "Section 4045 - Authority to conduct autopsies"
 usc_title: 18
 usc_section: "4045"
 chapter: 303
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "18 U.S.C. § 4045"
-generated_at: "2026-03-30T03:08:20.292Z"
+generated_at: "2026-03-30T03:10:20.005Z"
 status: "active"
 ---
 

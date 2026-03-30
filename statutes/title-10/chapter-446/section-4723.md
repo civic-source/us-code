@@ -3,9 +3,9 @@ title: "Section 4723 - Advisory committee on Arlington National Cemetery"
 usc_title: 10
 usc_section: "4723"
 chapter: 446
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 4723"
-generated_at: "2026-03-30T03:07:27.151Z"
+generated_at: "2026-03-30T03:10:03.068Z"
 status: "active"
 ---
 

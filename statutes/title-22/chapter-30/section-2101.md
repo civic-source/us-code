@@ -3,9 +3,9 @@ title: "Section 2101 - Statement of purpose"
 usc_title: 22
 usc_section: "2101"
 chapter: 30
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 2101"
-generated_at: "2026-03-30T03:08:33.994Z"
+generated_at: "2026-03-30T03:10:34.678Z"
 status: "active"
 ---
 

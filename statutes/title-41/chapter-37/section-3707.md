@@ -3,9 +3,9 @@ title: "Section 3707 - Antitrust violations"
 usc_title: 41
 usc_section: "3707"
 chapter: 37
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "41 U.S.C. § 3707"
-generated_at: "2026-03-30T03:09:16.723Z"
+generated_at: "2026-03-30T03:11:19.724Z"
 status: "active"
 ---
 

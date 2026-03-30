@@ -3,9 +3,9 @@ title: "Section 6906 - Financial disclosure"
 usc_title: 42
 usc_section: "6906"
 chapter: 82
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 6906"
-generated_at: "2026-03-30T03:09:28.966Z"
+generated_at: "2026-03-30T03:11:40.411Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1442 - Federal administration"
 usc_title: 20
 usc_section: "1442"
 chapter: 33
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 1442"
-generated_at: "2026-03-30T03:08:22.866Z"
+generated_at: "2026-03-30T03:10:17.326Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8965 - Restoration to former grade: retired warrant officers and
 usc_title: 10
 usc_section: "8965"
 chapter: 869
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 8965"
-generated_at: "2026-03-30T03:07:27.168Z"
+generated_at: "2026-03-30T03:10:03.084Z"
 status: "active"
 ---
 

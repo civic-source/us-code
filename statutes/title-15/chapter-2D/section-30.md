@@ -3,9 +3,9 @@ title: "Section 30 - Accounts and records"
 usc_title: 15
 usc_section: "30"
 chapter: 2
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 30"
-generated_at: "2026-03-30T03:08:16.977Z"
+generated_at: "2026-03-30T03:10:11.496Z"
 status: "active"
 ---
 

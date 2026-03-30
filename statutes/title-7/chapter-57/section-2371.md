@@ -3,9 +3,9 @@ title: "Section 2371 - Plant variety protection fees"
 usc_title: 7
 usc_section: "2371"
 chapter: 57
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 2371"
-generated_at: "2026-03-30T03:07:51.845Z"
+generated_at: "2026-03-30T03:10:00.555Z"
 status: "active"
 ---
 

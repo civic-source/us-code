@@ -3,9 +3,9 @@ title: "Section 397 - Leases of lands for grazing or mining"
 usc_title: 25
 usc_section: "397"
 chapter: 12
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 397"
-generated_at: "2026-03-30T03:08:47.318Z"
+generated_at: "2026-03-30T03:10:32.872Z"
 status: "active"
 ---
 

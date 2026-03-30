@@ -3,9 +3,9 @@ title: "Section 4 - Enforcement levels"
 usc_title: 12
 usc_section: "4"
 chapter: 23
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T03:08:07.494Z"
+generated_at: "2026-03-30T03:10:09.797Z"
 status: "active"
 ---
 

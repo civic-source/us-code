@@ -3,9 +3,9 @@ title: "Section 953 - Lands"
 usc_title: 25
 usc_section: "953"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 953"
-generated_at: "2026-03-30T03:08:47.344Z"
+generated_at: "2026-03-30T03:10:32.898Z"
 status: "active"
 ---
 

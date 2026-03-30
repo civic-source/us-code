@@ -3,9 +3,9 @@ title: "Section 856 - Maintaining drug-involved premises"
 usc_title: 21
 usc_section: "856"
 chapter: 13
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "21 U.S.C. § 856"
-generated_at: "2026-03-30T03:08:36.098Z"
+generated_at: "2026-03-30T03:10:45.044Z"
 status: "active"
 ---
 

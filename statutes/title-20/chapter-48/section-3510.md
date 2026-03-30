@@ -3,9 +3,9 @@ title: "Section 3510 - Transitional provisions"
 usc_title: 20
 usc_section: "3510"
 chapter: 48
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 3510"
-generated_at: "2026-03-30T03:08:22.878Z"
+generated_at: "2026-03-30T03:10:17.338Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13774 - Applications"
 usc_title: 42
 usc_section: "13774"
 chapter: 136
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 13774"
-generated_at: "2026-03-30T03:09:29.123Z"
+generated_at: "2026-03-30T03:11:40.567Z"
 status: "active"
 ---
 

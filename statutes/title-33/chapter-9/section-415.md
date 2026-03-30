@@ -3,9 +3,9 @@ title: "Section 415 - Summary removal of water craft obstructing navigation; lia
 usc_title: 33
 usc_section: "415"
 chapter: 9
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "33 U.S.C. § 415"
-generated_at: "2026-03-30T03:09:06.706Z"
+generated_at: "2026-03-30T03:11:12.213Z"
 status: "active"
 ---
 

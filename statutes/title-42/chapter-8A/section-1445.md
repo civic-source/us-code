@@ -3,9 +3,9 @@ title: "Section 1445 - Repealed. Aug. 9, 1955, ch. 690, § 4(1) , 69 Stat. 625"
 usc_title: 42
 usc_section: "1445"
 chapter: 8
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1445"
-generated_at: "2026-03-30T03:09:28.807Z"
+generated_at: "2026-03-30T03:11:40.248Z"
 status: "repealed"
 ---
 

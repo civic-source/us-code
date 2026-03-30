@@ -3,9 +3,9 @@ title: "Section 59 - Home State office space for Senators; lease of office space
 usc_title: 2
 usc_section: "59"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 59"
-generated_at: "2026-03-30T03:07:00.067Z"
+generated_at: "2026-03-30T03:09:51.227Z"
 status: "active"
 ---
 

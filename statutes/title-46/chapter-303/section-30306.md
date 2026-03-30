@@ -3,9 +3,9 @@ title: "Section 30306 - Foreign cause of action"
 usc_title: 46
 usc_section: "30306"
 chapter: 303
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "46 U.S.C. § 30306"
-generated_at: "2026-03-30T03:09:32.731Z"
+generated_at: "2026-03-30T03:11:46.124Z"
 status: "active"
 ---
 

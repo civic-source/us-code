@@ -3,9 +3,9 @@ title: "Section 3793 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3793"
 chapter: 46
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 3793"
-generated_at: "2026-03-30T03:09:28.894Z"
+generated_at: "2026-03-30T03:11:40.337Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
   - **(19)** There is authorized to be appropriated to carry out subchapter XII–I of this chapter $73,000,000 for each of fiscal years 2014 through 2018. Funds appropriated under this paragraph shall remain available until expended.
   - **(20)** There are authorized to be appropriated to carry out subchapter XII–J of this chapter, $10,000,000 for each of fiscal years 2001 through 2004.
   - **(21)** There are authorized to be appropriated to carry out subchapter XII–K of this chapter—
-        - **(1)** 7 7 So in original. $2,500,000 for fiscal year 1996;
+        - **(1)** 7 7 Numbering so in original. $2,500,000 for fiscal year 1996;
         - **(2)** 7 $4,000,000 for fiscal year 1997;
         - **(3)** 7 $5,000,000 for fiscal year 1998;
         - **(4)** 7 $6,000,000 for fiscal year 1999; and

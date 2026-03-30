@@ -3,9 +3,9 @@ title: "Section 19c - Repealed. Pub. L. 90–209, § 2 , Dec. 18, 1967 , 81 Stat
 usc_title: 16
 usc_section: "19c"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 19c"
-generated_at: "2026-03-30T03:08:28.730Z"
+generated_at: "2026-03-30T03:10:27.082Z"
 status: "repealed"
 ---
 

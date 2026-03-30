@@ -3,9 +3,9 @@ title: "Section 167c - Fees for storage, transportation, and withdrawal"
 usc_title: 50
 usc_section: "167c"
 chapter: 10
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "50 U.S.C. § 167c"
-generated_at: "2026-03-30T03:09:33.341Z"
+generated_at: "2026-03-30T03:11:43.690Z"
 status: "active"
 ---
 

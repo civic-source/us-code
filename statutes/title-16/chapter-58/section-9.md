@@ -3,9 +3,9 @@ title: "Section 9 - Agricultural water enhancement program"
 usc_title: 16
 usc_section: "9"
 chapter: 58
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T03:08:28.929Z"
+generated_at: "2026-03-30T03:10:27.300Z"
 status: "active"
 ---
 

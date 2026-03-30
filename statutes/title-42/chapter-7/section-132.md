@@ -3,9 +3,9 @@ title: "Section 132 - Special rules for employer-sponsored programs"
 usc_title: 42
 usc_section: "132"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-30T03:09:28.731Z"
+generated_at: "2026-03-30T03:11:40.169Z"
 status: "active"
 ---
 

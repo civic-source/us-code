@@ -3,9 +3,9 @@ title: "Section 1004 - Systems security and integrity"
 usc_title: 47
 usc_section: "1004"
 chapter: 9
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "47 U.S.C. § 1004"
-generated_at: "2026-03-30T03:09:32.088Z"
+generated_at: "2026-03-30T03:11:46.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 133 - Request for notification with respect to victims assisted"
 usc_title: 42
 usc_section: "133"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-03-30T03:09:28.618Z"
+generated_at: "2026-03-30T03:11:40.062Z"
 status: "active"
 ---
 

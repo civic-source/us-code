@@ -3,9 +3,9 @@ title: "Section 2b - Overtime compensation for certain employees of Architect of
 usc_title: 2
 usc_section: "2b"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 2b"
-generated_at: "2026-03-30T03:07:00.069Z"
+generated_at: "2026-03-30T03:09:51.229Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6326 - Enlisted members: 30 years"
 usc_title: 10
 usc_section: "6326"
 chapter: 571
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 6326"
-generated_at: "2026-03-30T03:07:27.156Z"
+generated_at: "2026-03-30T03:10:03.073Z"
 status: "active"
 ---
 

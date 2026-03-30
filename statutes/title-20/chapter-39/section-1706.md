@@ -3,9 +3,9 @@ title: "Section 1706 - Civil actions by individuals denied equal educational opp
 usc_title: 20
 usc_section: "1706"
 chapter: 39
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 1706"
-generated_at: "2026-03-30T03:08:22.869Z"
+generated_at: "2026-03-30T03:10:17.329Z"
 status: "active"
 ---
 

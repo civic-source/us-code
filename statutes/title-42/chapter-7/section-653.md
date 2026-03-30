@@ -3,9 +3,9 @@ title: "Section 653 - Federal Parent Locator Service"
 usc_title: 42
 usc_section: "653"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 653"
-generated_at: "2026-03-30T03:09:28.654Z"
+generated_at: "2026-03-30T03:11:40.097Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(B)** information may be disclosed to a court or an agent of a court described in subsection (c)(2) of this section or section 663(d)(2)(B) of this title , if—
       - **(i)** upon receipt of information from the Secretary, the court determines whether disclosure to any other person of that information could be harmful to the parent or the child; and
       - **(ii)** if the court determines that disclosure of such information to any other person could be harmful, the court and its agents shall not make any such disclosure.
-        - **(3)** Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title .
+  - **(3)** Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title .
 - **(c)** As used in subsection (a) of this section, the term “authorized person” means—
   - **(1)** any agent or attorney of any State having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
   - **(2)** the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;

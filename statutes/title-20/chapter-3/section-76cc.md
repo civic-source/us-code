@@ -3,9 +3,9 @@ title: "Section 76cc - Board of Trustees"
 usc_title: 20
 usc_section: "76cc"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 76cc"
-generated_at: "2026-03-30T03:08:22.793Z"
+generated_at: "2026-03-30T03:10:17.248Z"
 status: "active"
 ---
 

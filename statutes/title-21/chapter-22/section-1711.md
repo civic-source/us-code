@@ -3,9 +3,9 @@ title: "Section 1711 - Authorization of appropriations"
 usc_title: 21
 usc_section: "1711"
 chapter: 22
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "21 U.S.C. § 1711"
-generated_at: "2026-03-30T03:08:36.107Z"
+generated_at: "2026-03-30T03:10:45.053Z"
 status: "active"
 ---
 

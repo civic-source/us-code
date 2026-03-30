@@ -3,9 +3,9 @@ title: "Section 1973ee - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "1973ee"
 chapter: 20
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1973ee"
-generated_at: "2026-03-30T03:09:28.841Z"
+generated_at: "2026-03-30T03:11:40.283Z"
 status: "active"
 ---
 

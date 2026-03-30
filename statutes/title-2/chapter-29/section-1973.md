@@ -3,9 +3,9 @@ title: "Section 1973 - Support and maintenance expenditures during emergency dut
 usc_title: 2
 usc_section: "1973"
 chapter: 29
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 1973"
-generated_at: "2026-03-30T03:07:00.108Z"
+generated_at: "2026-03-30T03:09:51.269Z"
 status: "active"
 ---
 

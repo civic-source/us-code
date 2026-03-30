@@ -3,9 +3,9 @@ title: "Section 9132 - Administration"
 usc_title: 20
 usc_section: "9132"
 chapter: 72
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 9132"
-generated_at: "2026-03-30T03:08:22.927Z"
+generated_at: "2026-03-30T03:10:17.392Z"
 status: "active"
 ---
 

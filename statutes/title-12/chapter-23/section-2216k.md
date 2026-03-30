@@ -3,9 +3,9 @@ title: "Section 2216k - Repealed. Pub. L. 100–233, title II, § 207(a)(3) , Ja
 usc_title: 12
 usc_section: "2216k"
 chapter: 23
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "12 U.S.C. § 2216k"
-generated_at: "2026-03-30T03:08:07.487Z"
+generated_at: "2026-03-30T03:10:09.790Z"
 status: "repealed"
 ---
 

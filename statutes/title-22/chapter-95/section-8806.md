@@ -3,9 +3,9 @@ title: "Section 8806 - Imposition of sanctions with respect to foreign financial
 usc_title: 22
 usc_section: "8806"
 chapter: 95
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 8806"
-generated_at: "2026-03-30T03:08:34.101Z"
+generated_at: "2026-03-30T03:10:34.778Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1778b - Ratification of Settlement Agreement"
 usc_title: 25
 usc_section: "1778b"
 chapter: 19
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 1778b"
-generated_at: "2026-03-30T03:08:47.371Z"
+generated_at: "2026-03-30T03:10:32.927Z"
 status: "active"
 ---
 

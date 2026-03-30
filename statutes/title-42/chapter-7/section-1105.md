@@ -3,9 +3,9 @@ title: "Section 1105 - Extended unemployment compensation account"
 usc_title: 42
 usc_section: "1105"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1105"
-generated_at: "2026-03-30T03:09:28.667Z"
+generated_at: "2026-03-30T03:11:40.112Z"
 status: "active"
 ---
 

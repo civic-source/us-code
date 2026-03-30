@@ -3,9 +3,9 @@ title: "Section 1753 - Disposition of articles entered for fairs"
 usc_title: 19
 usc_section: "1753"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "19 U.S.C. § 1753"
-generated_at: "2026-03-30T03:08:21.292Z"
+generated_at: "2026-03-30T03:10:25.196Z"
 status: "active"
 ---
 

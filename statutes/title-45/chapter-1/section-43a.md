@@ -3,9 +3,9 @@ title: "Section 43a - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "43a"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "45 U.S.C. § 43a"
-generated_at: "2026-03-30T03:09:17.963Z"
+generated_at: "2026-03-30T03:11:21.000Z"
 status: "repealed"
 ---
 

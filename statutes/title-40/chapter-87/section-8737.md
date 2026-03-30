@@ -3,9 +3,9 @@ title: "Section 8737 - Authorization of appropriations"
 usc_title: 40
 usc_section: "8737"
 chapter: 87
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "40 U.S.C. § 8737"
-generated_at: "2026-03-30T03:09:14.028Z"
+generated_at: "2026-03-30T03:11:16.241Z"
 status: "active"
 ---
 

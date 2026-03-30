@@ -3,9 +3,9 @@ title: "Section 542 - Limitations on remainder of fund"
 usc_title: 25
 usc_section: "542"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 542"
-generated_at: "2026-03-30T03:08:47.329Z"
+generated_at: "2026-03-30T03:10:32.882Z"
 status: "active"
 ---
 

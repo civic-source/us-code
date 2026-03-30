@@ -3,9 +3,9 @@ title: "Section 13257 - Fleet requirement program"
 usc_title: 42
 usc_section: "13257"
 chapter: 134
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 13257"
-generated_at: "2026-03-30T03:09:29.113Z"
+generated_at: "2026-03-30T03:11:40.556Z"
 status: "active"
 ---
 
@@ -35,8 +35,8 @@ status: "active"
       - **(ii)** there will be a sufficient number of new alternative fueled vehicles from original equipment manufacturers that comply with all applicable requirements of the Clean Air Act [ 42 U.S.C. 7401 et seq.] and chapter 301 of title 49;
       - **(iii)** such new vehicles will meet the applicable non-Federal and non-State fleet performance requirements of such fleets (including range, passenger or cargo-carrying capacity, reliability, refueling capability, vehicle mix, and economical operation and maintenance); and
       - **(iv)** establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
-        - **(2)** The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
-        - **(3)** If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary’s findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
+  - **(2)** The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
+  - **(3)** If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary’s findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
 - **(c)** Not later than April 1, 1998 , the Secretary shall publish an advance notice of proposed rulemaking for the purpose of—
   - **(1)** evaluating the progress toward achieving the goals of replacement fuel use described in section 13252(b)(2) of this title , as modified under section 13254 of this title ;
   - **(2)** identifying the problems associated with achieving those goals;

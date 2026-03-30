@@ -3,9 +3,9 @@ title: "Section 3610 - Relationship of statutory provisions to State and local l
 usc_title: 15
 usc_section: "3610"
 chapter: 62
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 3610"
-generated_at: "2026-03-30T03:08:17.078Z"
+generated_at: "2026-03-30T03:10:11.598Z"
 status: "active"
 ---
 

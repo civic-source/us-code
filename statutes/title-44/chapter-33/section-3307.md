@@ -3,9 +3,9 @@ title: "Section 3307 - Repealed. Pub. L. 91–287, § 2(c) , June 23, 1970 , 84 
 usc_title: 44
 usc_section: "3307"
 chapter: 33
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "44 U.S.C. § 3307"
-generated_at: "2026-03-30T03:09:17.414Z"
+generated_at: "2026-03-30T03:11:19.536Z"
 status: "repealed"
 ---
 

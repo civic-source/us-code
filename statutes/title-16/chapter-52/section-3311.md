@@ -3,9 +3,9 @@ title: "Section 3311 - Salmon and Steelhead Advisory Commission"
 usc_title: 16
 usc_section: "3311"
 chapter: 52
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 3311"
-generated_at: "2026-03-30T03:08:28.918Z"
+generated_at: "2026-03-30T03:10:27.288Z"
 status: "active"
 ---
 

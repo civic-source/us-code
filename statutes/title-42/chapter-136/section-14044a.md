@@ -3,9 +3,9 @@ title: "Section 14044a - Establishment of a grant program to develop, expand, an
 usc_title: 42
 usc_section: "14044a"
 chapter: 136
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 14044a"
-generated_at: "2026-03-30T03:09:29.131Z"
+generated_at: "2026-03-30T03:11:40.573Z"
 status: "active"
 ---
 
@@ -29,6 +29,7 @@ status: "active"
     - **(A)** is younger than 18 years of age, and is a victim of an offense described in section 1591(a) of title 18 or a comparable State law; or
     - **(B)**
       - **(i)** is not younger than 18 years of age nor older than 20 years of age;
+      - **(iii)** was receiving shelter or services as a minor victim of sex trafficking.
   - **(5)** The term “qualified nongovernmental organization” means an organization that—
     - **(A)** is not a State or unit of local government, or an agency of a State or unit of local government;
     - **(B)** has demonstrated experience providing services to victims of sex trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of sex trafficking victims; and

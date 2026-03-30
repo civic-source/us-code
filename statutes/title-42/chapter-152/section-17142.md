@@ -3,9 +3,9 @@ title: "Section 17142 - Procurement and acquisition of alternative fuels"
 usc_title: 42
 usc_section: "17142"
 chapter: 152
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 17142"
-generated_at: "2026-03-30T03:09:29.175Z"
+generated_at: "2026-03-30T03:11:40.618Z"
 status: "active"
 ---
 

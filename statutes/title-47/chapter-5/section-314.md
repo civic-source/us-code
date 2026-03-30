@@ -3,9 +3,9 @@ title: "Section 314 - Competition in commerce; preservation"
 usc_title: 47
 usc_section: "314"
 chapter: 5
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "47 U.S.C. § 314"
-generated_at: "2026-03-30T03:09:32.069Z"
+generated_at: "2026-03-30T03:11:46.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4841 - Definitions"
 usc_title: 42
 usc_section: "4841"
 chapter: 63
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 4841"
-generated_at: "2026-03-30T03:09:28.914Z"
+generated_at: "2026-03-30T03:11:40.358Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2512 - Authorization of appropriations"
 usc_title: 16
 usc_section: "2512"
 chapter: 45
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 2512"
-generated_at: "2026-03-30T03:08:28.911Z"
+generated_at: "2026-03-30T03:10:27.281Z"
 status: "active"
 ---
 

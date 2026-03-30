@@ -3,9 +3,9 @@ title: "Section 1780 - Definitions and purposes"
 usc_title: 25
 usc_section: "1780"
 chapter: 19
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 1780"
-generated_at: "2026-03-30T03:08:47.372Z"
+generated_at: "2026-03-30T03:10:32.928Z"
 status: "active"
 ---
 

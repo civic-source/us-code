@@ -3,9 +3,9 @@ title: "Section 972 - Definitions"
 usc_title: 16
 usc_section: "972"
 chapter: 16
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 972"
-generated_at: "2026-03-30T03:08:28.868Z"
+generated_at: "2026-03-30T03:10:27.233Z"
 status: "active"
 ---
 

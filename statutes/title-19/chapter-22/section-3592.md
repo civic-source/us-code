@@ -3,9 +3,9 @@ title: "Section 3592 - Rules of origin for textile and apparel products"
 usc_title: 19
 usc_section: "3592"
 chapter: 22
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "19 U.S.C. § 3592"
-generated_at: "2026-03-30T03:08:21.325Z"
+generated_at: "2026-03-30T03:10:25.226Z"
 status: "active"
 ---
 

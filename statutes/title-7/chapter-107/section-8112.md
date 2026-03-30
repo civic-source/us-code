@@ -3,9 +3,9 @@ title: "Section 8112 - Forest biomass for energy"
 usc_title: 7
 usc_section: "8112"
 chapter: 107
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 8112"
-generated_at: "2026-03-30T03:07:51.905Z"
+generated_at: "2026-03-30T03:10:00.616Z"
 status: "active"
 ---
 

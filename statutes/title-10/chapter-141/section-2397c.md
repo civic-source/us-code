@@ -3,9 +3,9 @@ title: "Section 2397c - Repealed. Pub. L. 104–106, div. D, title XLIII, § 430
 usc_title: 10
 usc_section: "2397c"
 chapter: 141
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 2397c"
-generated_at: "2026-03-30T03:07:27.121Z"
+generated_at: "2026-03-30T03:10:03.040Z"
 status: "repealed"
 ---
 

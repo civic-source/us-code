@@ -3,9 +3,9 @@ title: "Section 39 - Repealed. Pub. L. 102–325, title IV, § 406(g)(1) , July 
 usc_title: 20
 usc_section: "39"
 chapter: 28
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 39"
-generated_at: "2026-03-30T03:08:22.818Z"
+generated_at: "2026-03-30T03:10:17.274Z"
 status: "repealed"
 ---
 

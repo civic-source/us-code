@@ -3,9 +3,9 @@ title: "Section 3104 - Rules and regulations"
 usc_title: 22
 usc_section: "3104"
 chapter: 46
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 3104"
-generated_at: "2026-03-30T03:08:34.036Z"
+generated_at: "2026-03-30T03:10:34.719Z"
 status: "active"
 ---
 

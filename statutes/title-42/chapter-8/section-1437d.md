@@ -3,9 +3,9 @@ title: "Section 1437d - Contract provisions and requirements; loans and annual c
 usc_title: 42
 usc_section: "1437d"
 chapter: 8
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1437d"
-generated_at: "2026-03-30T03:09:28.796Z"
+generated_at: "2026-03-30T03:11:40.237Z"
 status: "active"
 ---
 
@@ -60,7 +60,10 @@ status: "active"
       - **(ii)** coordinates with local government officials and residents in the project and implementation of such strategies.
     - **(J)** The extent to which the public housing agency is providing acceptable basic housing conditions.
     - **(K)** Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
-        - **(I)** 3 3 Another subpar. (I) is set out before subpar. (J). The Secretary shall: (1) administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control; (2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and (3) determine a public housing agency’s status as “troubled with respect to the program under section 1437 l 4 4 See References in Text note below. of this title” based upon factors solely related to its ability to carry out that program.
+        - **(I)** 3 3 Another subpar. (I) is set out before subpar. (J). The Secretary shall:
+  - **(1)** administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
+  - **(2)** reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
+  - **(3)** determine a public housing agency’s status as “troubled with respect to the program under section 1437 l 4 4 See References in Text note below. of this title” based upon factors solely related to its ability to carry out that program.
   - **(2)**
     - **(A)**
       - **(i)** The Secretary shall, under the rulemaking procedures under section 553 of title 5 , establish procedures for designating troubled public housing agencies, which procedures shall include identification of serious and substantial failure to perform as measured by the performance indicators specified under paragraph (1) and such other factors as the Secretary may deem to be appropriate. Such procedures shall provide that an agency that fails on a widespread basis to provide acceptable basic housing conditions for its residents shall be designated as a troubled public housing agency. The Secretary may use a simplified set of indicators for public housing agencies with less than 250 public housing units. The Secretary shall also designate, by rule under section 553 of title 5 , agencies that are troubled with respect to the program for assistance from the Capital Fund under section 1437g(d) of this title .
@@ -156,7 +159,7 @@ status: "active"
   - **(7)** 7 7 So in original. Probably should be “(8)”. provide that any occupancy in violation of section 13661(b) of this title (relating to ineligibility of illegal drug users and alcohol abusers) or the furnishing of any false or misleading information pursuant to section 13662 of this title (relating to termination of tenancy and assistance for illegal drug users and alcohol abusers) shall be cause for termination of tenancy; 8 8 So in original. Probably should be followed by “and”.
   - **(9)** provide that it shall be cause for immediate termination of the tenancy of a public housing tenant if such tenant—
     - **(A)** is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
-        - **(2)** 9 9 So in original. Probably should be “(B)”. is violating a condition of probation or parole imposed under Federal or State law.
+  - **(2)** 9 9 So in original. Probably should be “(B)”. is violating a condition of probation or parole imposed under Federal or State law.
 - **(m)** The Secretary shall not impose any unnecessarily duplicative or burdensome reporting requirements on tenants or public housing agencies assisted under this chapter.
 - **(n)** When a public housing agency evicts an individual or family from a dwelling unit for engaging in criminal activity, including drug-related criminal activity, the public housing agency shall notify the local post office serving that dwelling unit that such individual or family is no longer residing in the dwelling unit.
 - **(o)** In providing housing in low-income housing projects, each public housing agency may coordinate with any local public agencies involved in providing for the welfare of children to make available dwelling units to—

@@ -3,9 +3,9 @@ title: "Section 1012 - Publications and reports"
 usc_title: 45
 usc_section: "1012"
 chapter: 19
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "45 U.S.C. § 1012"
-generated_at: "2026-03-30T03:09:17.980Z"
+generated_at: "2026-03-30T03:11:21.018Z"
 status: "active"
 ---
 

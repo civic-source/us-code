@@ -3,9 +3,9 @@ title: "Section 1400A - Tax-exempt economic development bonds"
 usc_title: 26
 usc_section: "1400A"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 1400A"
-generated_at: "2026-03-30T03:09:00.295Z"
+generated_at: "2026-03-30T03:11:08.793Z"
 status: "active"
 ---
 

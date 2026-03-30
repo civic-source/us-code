@@ -3,9 +3,9 @@ title: "Section 562a - Forest experiment station in Ohio and Mississippi Valleys
 usc_title: 16
 usc_section: "562a"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 562a"
-generated_at: "2026-03-30T03:08:28.827Z"
+generated_at: "2026-03-30T03:10:27.189Z"
 status: "active"
 ---
 

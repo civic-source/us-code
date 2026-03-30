@@ -3,9 +3,9 @@ title: "Section 335 - Hearing before report of criminal violation"
 usc_title: 21
 usc_section: "335"
 chapter: 9
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "21 U.S.C. § 335"
-generated_at: "2026-03-30T03:08:36.047Z"
+generated_at: "2026-03-30T03:10:44.990Z"
 status: "active"
 ---
 

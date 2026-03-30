@@ -3,9 +3,9 @@ title: "Section 2872 - Authorization of appropriations"
 usc_title: 29
 usc_section: "2872"
 chapter: 30
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "29 U.S.C. § 2872"
-generated_at: "2026-03-30T03:09:01.097Z"
+generated_at: "2026-03-30T03:10:49.047Z"
 status: "active"
 ---
 

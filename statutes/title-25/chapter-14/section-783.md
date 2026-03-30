@@ -3,9 +3,9 @@ title: "Section 783 - Payments to minors or persons under legal disability; lien
 usc_title: 25
 usc_section: "783"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 783"
-generated_at: "2026-03-30T03:08:47.341Z"
+generated_at: "2026-03-30T03:10:32.896Z"
 status: "active"
 ---
 

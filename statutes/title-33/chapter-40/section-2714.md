@@ -3,9 +3,9 @@ title: "Section 2714 - Designation of source and advertisement"
 usc_title: 33
 usc_section: "2714"
 chapter: 40
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "33 U.S.C. § 2714"
-generated_at: "2026-03-30T03:09:06.758Z"
+generated_at: "2026-03-30T03:11:12.267Z"
 status: "active"
 ---
 

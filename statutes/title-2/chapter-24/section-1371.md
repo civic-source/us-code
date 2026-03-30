@@ -3,9 +3,9 @@ title: "Section 1371 - Study and recommendations regarding Government Accountabi
 usc_title: 2
 usc_section: "1371"
 chapter: 24
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 1371"
-generated_at: "2026-03-30T03:07:00.101Z"
+generated_at: "2026-03-30T03:09:51.261Z"
 status: "active"
 ---
 

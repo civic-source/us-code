@@ -3,9 +3,9 @@ title: "Section 1073b - Recurring reports"
 usc_title: 10
 usc_section: "1073b"
 chapter: 55
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 1073b"
-generated_at: "2026-03-30T03:07:27.077Z"
+generated_at: "2026-03-30T03:10:02.998Z"
 status: "active"
 ---
 

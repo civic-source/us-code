@@ -3,9 +3,9 @@ title: "Section 1122 - Transparency of programs, priority goals, and results"
 usc_title: 31
 usc_section: "1122"
 chapter: 11
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "31 U.S.C. § 1122"
-generated_at: "2026-03-30T03:09:10.950Z"
+generated_at: "2026-03-30T03:11:11.370Z"
 status: "active"
 ---
 

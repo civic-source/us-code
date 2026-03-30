@@ -3,9 +3,9 @@ title: "Section 5364 - Remedial actions"
 usc_title: 5
 usc_section: "5364"
 chapter: 53
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "5 U.S.C. § 5364"
-generated_at: "2026-03-30T03:07:18.692Z"
+generated_at: "2026-03-30T03:09:48.943Z"
 status: "active"
 ---
 

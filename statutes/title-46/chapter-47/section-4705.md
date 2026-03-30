@@ -3,9 +3,9 @@ title: "Section 4705 - Liability of barge removal contractors"
 usc_title: 46
 usc_section: "4705"
 chapter: 47
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "46 U.S.C. § 4705"
-generated_at: "2026-03-30T03:09:32.721Z"
+generated_at: "2026-03-30T03:11:46.115Z"
 status: "active"
 ---
 

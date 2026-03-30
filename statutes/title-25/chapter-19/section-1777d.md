@@ -3,9 +3,9 @@ title: "Section 1777d - Affirmation of accurate boundaries of Santo Domingo Pueb
 usc_title: 25
 usc_section: "1777d"
 chapter: 19
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 1777d"
-generated_at: "2026-03-30T03:08:47.371Z"
+generated_at: "2026-03-30T03:10:32.926Z"
 status: "active"
 ---
 

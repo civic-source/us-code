@@ -3,9 +3,9 @@ title: "Section 6606 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6606"
 chapter: 85
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 6606"
-generated_at: "2026-03-30T03:08:28.948Z"
+generated_at: "2026-03-30T03:10:27.321Z"
 status: "active"
 ---
 

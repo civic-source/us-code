@@ -3,9 +3,9 @@ title: "Section 1023 - Cross references"
 usc_title: 26
 usc_section: "1023"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 1023"
-generated_at: "2026-03-30T03:09:00.279Z"
+generated_at: "2026-03-30T03:11:08.776Z"
 status: "active"
 ---
 

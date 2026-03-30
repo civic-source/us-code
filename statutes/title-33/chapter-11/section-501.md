@@ -3,9 +3,9 @@ title: "Section 501 - Omitted"
 usc_title: 33
 usc_section: "501"
 chapter: 11
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "33 U.S.C. § 501"
-generated_at: "2026-03-30T03:09:06.710Z"
+generated_at: "2026-03-30T03:11:12.217Z"
 status: "omitted"
 ---
 

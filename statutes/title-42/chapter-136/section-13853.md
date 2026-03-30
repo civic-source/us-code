@@ -3,9 +3,9 @@ title: "Section 13853 - Prohibition"
 usc_title: 42
 usc_section: "13853"
 chapter: 136
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 13853"
-generated_at: "2026-03-30T03:09:29.125Z"
+generated_at: "2026-03-30T03:11:40.568Z"
 status: "active"
 ---
 

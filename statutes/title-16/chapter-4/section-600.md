@@ -3,9 +3,9 @@ title: "Section 600 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028"
 usc_title: 16
 usc_section: "600"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 600"
-generated_at: "2026-03-30T03:08:28.833Z"
+generated_at: "2026-03-30T03:10:27.196Z"
 status: "repealed"
 ---
 

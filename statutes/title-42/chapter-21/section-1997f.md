@@ -3,9 +3,9 @@ title: "Section 1997f - Report to Congress"
 usc_title: 42
 usc_section: "1997f"
 chapter: 21
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1997f"
-generated_at: "2026-03-30T03:09:28.845Z"
+generated_at: "2026-03-30T03:11:40.287Z"
 status: "active"
 ---
 

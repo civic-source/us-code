@@ -3,9 +3,9 @@ title: "Section 464 - Cooperation with governmental and private agencies"
 usc_title: 16
 usc_section: "464"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 464"
-generated_at: "2026-03-30T03:08:28.809Z"
+generated_at: "2026-03-30T03:10:27.166Z"
 status: "active"
 ---
 

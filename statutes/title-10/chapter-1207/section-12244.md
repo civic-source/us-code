@@ -3,9 +3,9 @@ title: "Section 12244 - Warrant officers: discharge or retirement for years of s
 usc_title: 10
 usc_section: "12244"
 chapter: 1207
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 12244"
-generated_at: "2026-03-30T03:07:27.178Z"
+generated_at: "2026-03-30T03:10:03.093Z"
 status: "active"
 ---
 

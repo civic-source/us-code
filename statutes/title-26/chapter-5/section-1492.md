@@ -3,9 +3,9 @@ title: "Section 1492 - Repealed. Pub. L. 105–34, title XI, § 1131(a) , Aug. 5
 usc_title: 26
 usc_section: "1492"
 chapter: 5
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 1492"
-generated_at: "2026-03-30T03:09:00.300Z"
+generated_at: "2026-03-30T03:11:08.799Z"
 status: "repealed"
 ---
 

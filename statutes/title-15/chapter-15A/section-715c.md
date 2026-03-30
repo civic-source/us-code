@@ -3,9 +3,9 @@ title: "Section 715c - Suspension of operation of section 715b of this title"
 usc_title: 15
 usc_section: "715c"
 chapter: 15
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 715c"
-generated_at: "2026-03-30T03:08:17.013Z"
+generated_at: "2026-03-30T03:10:11.533Z"
 status: "active"
 ---
 

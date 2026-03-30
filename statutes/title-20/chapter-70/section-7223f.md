@@ -3,9 +3,9 @@ title: "Section 7223f - Audits and reports"
 usc_title: 20
 usc_section: "7223f"
 chapter: 70
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 7223f"
-generated_at: "2026-03-30T03:08:22.911Z"
+generated_at: "2026-03-30T03:10:17.375Z"
 status: "active"
 ---
 

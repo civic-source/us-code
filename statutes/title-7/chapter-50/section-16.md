@@ -3,9 +3,9 @@ title: "Section 16 - Repealed. Pub. L. 110–234, title VI, § 6027(e) , May 22,
 usc_title: 7
 usc_section: "16"
 chapter: 50
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 16"
-generated_at: "2026-03-30T03:07:51.830Z"
+generated_at: "2026-03-30T03:10:00.538Z"
 status: "repealed"
 ---
 

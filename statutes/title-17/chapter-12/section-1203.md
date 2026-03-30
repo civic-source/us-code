@@ -3,9 +3,9 @@ title: "Section 1203 - Civil remedies"
 usc_title: 17
 usc_section: "1203"
 chapter: 12
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "17 U.S.C. § 1203"
-generated_at: "2026-03-30T03:08:23.568Z"
+generated_at: "2026-03-30T03:10:20.153Z"
 status: "active"
 ---
 

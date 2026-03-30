@@ -3,9 +3,9 @@ title: "Section 3537 - Authorization of appropriations"
 usc_title: 44
 usc_section: "3537"
 chapter: 35
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "44 U.S.C. § 3537"
-generated_at: "2026-03-30T03:09:17.416Z"
+generated_at: "2026-03-30T03:11:19.538Z"
 status: "active"
 ---
 

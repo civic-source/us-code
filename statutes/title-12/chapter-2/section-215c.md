@@ -3,9 +3,9 @@ title: "Section 215c - Mergers, consolidations, and other acquisitions authorize
 usc_title: 12
 usc_section: "215c"
 chapter: 2
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "12 U.S.C. § 215c"
-generated_at: "2026-03-30T03:08:07.400Z"
+generated_at: "2026-03-30T03:10:09.700Z"
 status: "active"
 ---
 

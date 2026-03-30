@@ -3,9 +3,9 @@ title: "Section 1973b - Suspension of the use of tests or devices in determining
 usc_title: 42
 usc_section: "1973b"
 chapter: 20
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 1973b"
-generated_at: "2026-03-30T03:09:28.839Z"
+generated_at: "2026-03-30T03:11:40.282Z"
 status: "active"
 ---
 

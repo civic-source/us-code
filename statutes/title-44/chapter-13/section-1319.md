@@ -3,9 +3,9 @@ title: "Section 1319 - Geological Survey: specific appropriations required for m
 usc_title: 44
 usc_section: "1319"
 chapter: 13
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "44 U.S.C. § 1319"
-generated_at: "2026-03-30T03:09:17.411Z"
+generated_at: "2026-03-30T03:11:19.531Z"
 status: "active"
 ---
 

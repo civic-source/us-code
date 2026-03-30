@@ -3,9 +3,9 @@ title: "Section 2003 - Definitions"
 usc_title: 43
 usc_section: "2003"
 chapter: 38
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "43 U.S.C. § 2003"
-generated_at: "2026-03-30T03:09:17.267Z"
+generated_at: "2026-03-30T03:11:20.619Z"
 status: "active"
 ---
 

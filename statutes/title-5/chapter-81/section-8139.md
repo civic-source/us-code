@@ -3,9 +3,9 @@ title: "Section 8139 - Employees of the District of Columbia"
 usc_title: 5
 usc_section: "8139"
 chapter: 81
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "5 U.S.C. § 8139"
-generated_at: "2026-03-30T03:07:18.709Z"
+generated_at: "2026-03-30T03:09:48.964Z"
 status: "active"
 ---
 

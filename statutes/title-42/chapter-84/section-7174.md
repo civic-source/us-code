@@ -3,9 +3,9 @@ title: "Section 7174 - Referral of other rulemaking proceedings to Commission"
 usc_title: 42
 usc_section: "7174"
 chapter: 84
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 7174"
-generated_at: "2026-03-30T03:09:28.979Z"
+generated_at: "2026-03-30T03:11:40.424Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130506 - Exclusive right to name and emblems"
 usc_title: 36
 usc_section: "130506"
 chapter: 1305
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "36 U.S.C. § 130506"
-generated_at: "2026-03-30T03:09:13.287Z"
+generated_at: "2026-03-30T03:11:15.032Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2621 - National defense waiver"
 usc_title: 15
 usc_section: "2621"
 chapter: 53
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 2621"
-generated_at: "2026-03-30T03:08:17.067Z"
+generated_at: "2026-03-30T03:10:11.587Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 871 - Membership roll; preparation; eligibility for enrollment; 
 usc_title: 25
 usc_section: "871"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 871"
-generated_at: "2026-03-30T03:08:47.342Z"
+generated_at: "2026-03-30T03:10:32.896Z"
 status: "active"
 ---
 

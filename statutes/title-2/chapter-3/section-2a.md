@@ -3,9 +3,9 @@ title: "Section 2a - Transfer of funds from representation allowance of Majority
 usc_title: 2
 usc_section: "2a"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "2 U.S.C. § 2a"
-generated_at: "2026-03-30T03:07:00.065Z"
+generated_at: "2026-03-30T03:09:51.225Z"
 status: "active"
 ---
 

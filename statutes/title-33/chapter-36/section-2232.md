@@ -3,9 +3,9 @@ title: "Section 2232 - Construction of projects by non-Federal interests"
 usc_title: 33
 usc_section: "2232"
 chapter: 36
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "33 U.S.C. § 2232"
-generated_at: "2026-03-30T03:09:06.750Z"
+generated_at: "2026-03-30T03:11:12.259Z"
 status: "active"
 ---
 

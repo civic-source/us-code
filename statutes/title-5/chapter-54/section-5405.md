@@ -3,9 +3,9 @@ title: "Section 5405 - Regulations"
 usc_title: 5
 usc_section: "5405"
 chapter: 54
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "5 U.S.C. § 5405"
-generated_at: "2026-03-30T03:07:18.693Z"
+generated_at: "2026-03-30T03:09:48.946Z"
 status: "active"
 ---
 

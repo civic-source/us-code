@@ -3,9 +3,9 @@ title: "Section 2095 - Definitions"
 usc_title: 19
 usc_section: "2095"
 chapter: 11
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "19 U.S.C. § 2095"
-generated_at: "2026-03-30T03:08:21.294Z"
+generated_at: "2026-03-30T03:10:25.198Z"
 status: "active"
 ---
 

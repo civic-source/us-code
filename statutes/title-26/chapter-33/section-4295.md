@@ -3,9 +3,9 @@ title: "Section 4295 - Repealed. Pub. L. 94–455, title XIX, § 1904(a)(10) , (
 usc_title: 26
 usc_section: "4295"
 chapter: 33
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 4295"
-generated_at: "2026-03-30T03:09:00.322Z"
+generated_at: "2026-03-30T03:11:08.821Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5722 - Travel and transportation expenses of new appointees; pos
 usc_title: 5
 usc_section: "5722"
 chapter: 57
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "5 U.S.C. § 5722"
-generated_at: "2026-03-30T03:07:18.698Z"
+generated_at: "2026-03-30T03:09:48.950Z"
 status: "active"
 ---
 

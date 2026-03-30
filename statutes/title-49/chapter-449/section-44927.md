@@ -3,9 +3,9 @@ title: "Section 44927 - Expedited screening for severely injured or disabled mem
 usc_title: 49
 usc_section: "44927"
 chapter: 449
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "49 U.S.C. § 44927"
-generated_at: "2026-03-30T03:09:35.037Z"
+generated_at: "2026-03-30T03:11:48.124Z"
 status: "active"
 ---
 

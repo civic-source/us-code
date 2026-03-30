@@ -3,9 +3,9 @@ title: "Section 572 - Payments to individuals; expenditure of payments"
 usc_title: 25
 usc_section: "572"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 572"
-generated_at: "2026-03-30T03:08:47.330Z"
+generated_at: "2026-03-30T03:10:32.884Z"
 status: "active"
 ---
 

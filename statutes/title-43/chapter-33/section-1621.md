@@ -3,9 +3,9 @@ title: "Section 1621 - Miscellaneous provisions"
 usc_title: 43
 usc_section: "1621"
 chapter: 33
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "43 U.S.C. § 1621"
-generated_at: "2026-03-30T03:09:17.257Z"
+generated_at: "2026-03-30T03:11:20.609Z"
 status: "active"
 ---
 

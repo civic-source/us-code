@@ -3,9 +3,9 @@ title: "Section 55118 - Foreign railroads whose road enters by ferry, tugboat, o
 usc_title: 46
 usc_section: "55118"
 chapter: 551
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "46 U.S.C. § 55118"
-generated_at: "2026-03-30T03:09:32.741Z"
+generated_at: "2026-03-30T03:11:46.135Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47116 - Small airport fund"
 usc_title: 49
 usc_section: "47116"
 chapter: 471
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "49 U.S.C. § 47116"
-generated_at: "2026-03-30T03:09:35.044Z"
+generated_at: "2026-03-30T03:11:48.129Z"
 status: "active"
 ---
 

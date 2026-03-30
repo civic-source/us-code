@@ -3,9 +3,9 @@ title: "Section 6406 - National program"
 usc_title: 16
 usc_section: "6406"
 chapter: 83
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 6406"
-generated_at: "2026-03-30T03:08:28.945Z"
+generated_at: "2026-03-30T03:10:27.319Z"
 status: "active"
 ---
 

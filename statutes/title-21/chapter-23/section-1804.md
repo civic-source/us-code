@@ -3,9 +3,9 @@ title: "Section 1804 - Repealed. Pub. L. 109–469, title V, § 501(b) , Dec. 29
 usc_title: 21
 usc_section: "1804"
 chapter: 23
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "21 U.S.C. § 1804"
-generated_at: "2026-03-30T03:08:36.107Z"
+generated_at: "2026-03-30T03:10:45.054Z"
 status: "repealed"
 ---
 

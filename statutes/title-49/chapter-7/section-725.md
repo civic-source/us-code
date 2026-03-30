@@ -3,9 +3,9 @@ title: "Section 725 - Administrative support"
 usc_title: 49
 usc_section: "725"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "49 U.S.C. § 725"
-generated_at: "2026-03-30T03:09:34.971Z"
+generated_at: "2026-03-30T03:11:48.058Z"
 status: "active"
 ---
 

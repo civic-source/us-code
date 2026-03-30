@@ -3,9 +3,9 @@ title: "Section 20120 - Enforcement report"
 usc_title: 49
 usc_section: "20120"
 chapter: 201
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "49 U.S.C. § 20120"
-generated_at: "2026-03-30T03:09:34.997Z"
+generated_at: "2026-03-30T03:11:48.084Z"
 status: "active"
 ---
 

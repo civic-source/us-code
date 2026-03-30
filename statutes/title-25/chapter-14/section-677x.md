@@ -3,9 +3,9 @@ title: "Section 677x - Citizenship status unaffected"
 usc_title: 25
 usc_section: "677x"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 677x"
-generated_at: "2026-03-30T03:08:47.337Z"
+generated_at: "2026-03-30T03:10:32.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 125 - Repealed. May 20, 1926, ch. 347, § 14 , 44 Stat. 587"
 usc_title: 45
 usc_section: "125"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "45 U.S.C. § 125"
-generated_at: "2026-03-30T03:09:17.963Z"
+generated_at: "2026-03-30T03:11:21.001Z"
 status: "repealed"
 ---
 

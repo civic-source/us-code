@@ -3,9 +3,9 @@ title: "Section 464 - Transfer and exchange of restricted Indian lands and share
 usc_title: 25
 usc_section: "464"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 464"
-generated_at: "2026-03-30T03:08:47.326Z"
+generated_at: "2026-03-30T03:10:32.880Z"
 status: "active"
 ---
 

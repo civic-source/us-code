@@ -3,25 +3,25 @@ title: "Section 526 - Authorized strength: general and flag officers on active d
 usc_title: 10
 usc_section: "526"
 chapter: 32
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 526"
-generated_at: "2026-03-30T03:07:27.059Z"
+generated_at: "2026-03-30T03:10:02.981Z"
 status: "active"
 ---
 
 # § 526. Authorized strength: general and flag officers on active duty
 
 - **(a)** The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
-  - **(1)** For the Army, 230.
+  - **(1)** For the Army, 231.
   - **(2)** For the Navy, 162.
-  - **(3)** For the Air Force, 208.
-  - **(4)** For the Marine Corps, 60.
+  - **(3)** For the Air Force, 198.
+  - **(4)** For the Marine Corps, 61.
 - **(b)**
   - **(1)** The Secretary of Defense may designate up to 310 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.
   - **(2)** Unless the Secretary of Defense determines that a lower number is in the best interest of the Department, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
     - **(A)** For the Army, 85.
     - **(B)** For the Navy, 61.
-    - **(C)** For the Air Force, 76.
+    - **(C)** For the Air Force, 73.
     - **(D)** For the Marine Corps, 21.
   - **(3)** The number excluded under paragraph (1) and serving in positions designated under that paragraph—
     - **(A)** in the grade of general or admiral may not exceed 20;

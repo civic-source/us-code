@@ -3,9 +3,9 @@ title: "Section 7415 - Permissive terms in orders"
 usc_title: 7
 usc_section: "7415"
 chapter: 101
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "7 U.S.C. § 7415"
-generated_at: "2026-03-30T03:07:51.889Z"
+generated_at: "2026-03-30T03:10:00.600Z"
 status: "active"
 ---
 

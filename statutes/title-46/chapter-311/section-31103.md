@@ -3,9 +3,9 @@ title: "Section 31103 - Applicable procedure"
 usc_title: 46
 usc_section: "31103"
 chapter: 311
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "46 U.S.C. § 31103"
-generated_at: "2026-03-30T03:09:32.731Z"
+generated_at: "2026-03-30T03:11:46.125Z"
 status: "active"
 ---
 

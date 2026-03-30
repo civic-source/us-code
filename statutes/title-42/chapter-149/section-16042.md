@@ -3,9 +3,9 @@ title: "Section 16042 - Department of Homeland Security consultation"
 usc_title: 42
 usc_section: "16042"
 chapter: 149
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 16042"
-generated_at: "2026-03-30T03:09:29.156Z"
+generated_at: "2026-03-30T03:11:40.598Z"
 status: "active"
 ---
 

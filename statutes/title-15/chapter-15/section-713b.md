@@ -3,9 +3,9 @@ title: "Section 713b - Repealed. July 31, 1945, ch. 341, § 10 , 59 Stat. 529"
 usc_title: 15
 usc_section: "713b"
 chapter: 15
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 713b"
-generated_at: "2026-03-30T03:08:17.012Z"
+generated_at: "2026-03-30T03:10:11.532Z"
 status: "repealed"
 ---
 

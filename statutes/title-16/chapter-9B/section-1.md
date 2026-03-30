@@ -3,9 +3,9 @@ title: "Section 1 - Gifts to system and particular national fish hatcheries"
 usc_title: 16
 usc_section: "1"
 chapter: 9
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T03:08:28.848Z"
+generated_at: "2026-03-30T03:10:27.212Z"
 status: "active"
 ---
 

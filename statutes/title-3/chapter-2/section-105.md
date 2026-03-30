@@ -3,9 +3,9 @@ title: "Section 105 - Assistance and services for the President"
 usc_title: 3
 usc_section: "105"
 chapter: 2
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "3 U.S.C. § 105"
-generated_at: "2026-03-30T03:07:06.084Z"
+generated_at: "2026-03-30T03:09:49.282Z"
 status: "active"
 ---
 

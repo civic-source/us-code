@@ -3,9 +3,9 @@ title: "Section 2520 - Military training and service exemption"
 usc_title: 22
 usc_section: "2520"
 chapter: 34
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "22 U.S.C. § 2520"
-generated_at: "2026-03-30T03:08:34.022Z"
+generated_at: "2026-03-30T03:10:34.706Z"
 status: "active"
 ---
 

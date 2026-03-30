@@ -3,9 +3,9 @@ title: "Section 155 - National Labor Relations Board; principal office, conducti
 usc_title: 29
 usc_section: "155"
 chapter: 7
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "29 U.S.C. § 155"
-generated_at: "2026-03-30T03:09:01.040Z"
+generated_at: "2026-03-30T03:10:48.989Z"
 status: "active"
 ---
 

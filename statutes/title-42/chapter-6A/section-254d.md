@@ -3,9 +3,9 @@ title: "Section 254d - National Health Service Corps"
 usc_title: 42
 usc_section: "254d"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 254d"
-generated_at: "2026-03-30T03:09:28.528Z"
+generated_at: "2026-03-30T03:11:39.971Z"
 status: "active"
 ---
 

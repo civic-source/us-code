@@ -3,9 +3,9 @@ title: "Section 326 - Unsurveyed lands not subject to entry; preferential right 
 usc_title: 43
 usc_section: "326"
 chapter: 9
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "43 U.S.C. § 326"
-generated_at: "2026-03-30T03:09:17.222Z"
+generated_at: "2026-03-30T03:11:20.573Z"
 status: "active"
 ---
 

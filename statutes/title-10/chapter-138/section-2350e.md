@@ -3,9 +3,9 @@ title: "Section 2350e - NATO Airborne Warning and Control System (AWACS) program
 usc_title: 10
 usc_section: "2350e"
 chapter: 138
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 2350e"
-generated_at: "2026-03-30T03:07:27.118Z"
+generated_at: "2026-03-30T03:10:03.037Z"
 status: "active"
 ---
 

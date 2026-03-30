@@ -3,9 +3,9 @@ title: "Section 130e - Treatment under Freedom of Information Act of critical in
 usc_title: 10
 usc_section: "130e"
 chapter: 3
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 130e"
-generated_at: "2026-03-30T03:07:27.049Z"
+generated_at: "2026-03-30T03:10:02.970Z"
 status: "active"
 ---
 

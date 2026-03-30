@@ -3,9 +3,9 @@ title: "Section 987 - Terms of consumer credit extended to members and dependent
 usc_title: 10
 usc_section: "987"
 chapter: 49
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 987"
-generated_at: "2026-03-30T03:07:27.074Z"
+generated_at: "2026-03-30T03:10:02.995Z"
 status: "active"
 ---
 

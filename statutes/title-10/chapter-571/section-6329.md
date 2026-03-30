@@ -3,9 +3,9 @@ title: "Section 6329 - Officers not to be retired for misconduct"
 usc_title: 10
 usc_section: "6329"
 chapter: 571
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 6329"
-generated_at: "2026-03-30T03:07:27.157Z"
+generated_at: "2026-03-30T03:10:03.073Z"
 status: "active"
 ---
 

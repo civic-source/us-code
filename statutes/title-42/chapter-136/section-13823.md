@@ -3,9 +3,9 @@ title: "Section 13823 - Approval of applications"
 usc_title: 42
 usc_section: "13823"
 chapter: 136
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 13823"
-generated_at: "2026-03-30T03:09:29.124Z"
+generated_at: "2026-03-30T03:11:40.568Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12645g - Criminal history checks"
 usc_title: 42
 usc_section: "12645g"
 chapter: 129
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 12645g"
-generated_at: "2026-03-30T03:09:29.098Z"
+generated_at: "2026-03-30T03:11:40.542Z"
 status: "active"
 ---
 

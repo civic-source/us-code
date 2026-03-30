@@ -3,9 +3,9 @@ title: "Section 5533 - Consumer rights to access information"
 usc_title: 12
 usc_section: "5533"
 chapter: 53
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "12 U.S.C. § 5533"
-generated_at: "2026-03-30T03:08:07.544Z"
+generated_at: "2026-03-30T03:10:09.847Z"
 status: "active"
 ---
 

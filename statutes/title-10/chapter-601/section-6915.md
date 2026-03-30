@@ -3,9 +3,9 @@ title: "Section 6915 - Reserve student aviation pilots; reserve aviation pilots:
 usc_title: 10
 usc_section: "6915"
 chapter: 601
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 6915"
-generated_at: "2026-03-30T03:07:27.158Z"
+generated_at: "2026-03-30T03:10:03.074Z"
 status: "active"
 ---
 

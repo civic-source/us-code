@@ -3,9 +3,9 @@ title: "Section 6b - Strategic National Stockpile and security countermeasure pr
 usc_title: 42
 usc_section: "6b"
 chapter: 6
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 6b"
-generated_at: "2026-03-30T03:09:28.520Z"
+generated_at: "2026-03-30T03:11:39.964Z"
 status: "active"
 ---
 
@@ -121,7 +121,7 @@ status: "active"
   - **(3)** Amounts in the special reserve fund shall not be used to pay costs other than payments made by the Secretary to a vendor for advanced development (under section 247d–7e of this title ) or for procurement of a security countermeasure under subsection (c)(7).
   - **(4)** Not later than 30 days after any date on which the Secretary determines that the amount of funds in the special reserve fund available for procurement is less than $1,500,000,000, the Secretary shall submit to the appropriate committees of Congress a report detailing the amount of such funds available for procurement and the impact such reduction in funding will have—
     - **(A)** in meeting the security countermeasure needs identified under this section; and
-    - **(B)** on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy 2 2 So in original. Probably should be “Enterprise Strategy and”. Implementation Plan (pursuant to section 300hh–10(d) of this title ).
+    - **(B)** on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy 1 1 So in original. Probably should be “Enterprise Strategy and”. Implementation Plan (pursuant to section 300hh–10(d) of this title ).
 - **(h)** In this section:
   - **(1)** The term “advanced research and development” has the meaning given such term in section 247d–7e(a) of this title .
   - **(2)** The term “special reserve fund” means the “Biodefense Countermeasures” appropriations account, any appropriation made available pursuant to section 321j(a) of title 6 , and any appropriation made available pursuant to subsection (g)(1).

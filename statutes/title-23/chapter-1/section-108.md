@@ -3,9 +3,9 @@ title: "Section 108 - Advance acquisition of real property"
 usc_title: 23
 usc_section: "108"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "23 U.S.C. § 108"
-generated_at: "2026-03-30T03:08:34.594Z"
+generated_at: "2026-03-30T03:10:33.252Z"
 status: "active"
 ---
 

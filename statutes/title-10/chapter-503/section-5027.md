@@ -3,9 +3,9 @@ title: "Section 5027 - Chief of Legislative Affairs"
 usc_title: 10
 usc_section: "5027"
 chapter: 503
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 5027"
-generated_at: "2026-03-30T03:07:27.152Z"
+generated_at: "2026-03-30T03:10:03.069Z"
 status: "active"
 ---
 

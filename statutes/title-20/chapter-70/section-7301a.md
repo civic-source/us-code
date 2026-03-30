@@ -3,9 +3,9 @@ title: "Section 7301a - Grants for enhanced assessment instruments"
 usc_title: 20
 usc_section: "7301a"
 chapter: 70
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 7301a"
-generated_at: "2026-03-30T03:08:22.917Z"
+generated_at: "2026-03-30T03:10:17.380Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4105 - Two-party exchanges"
 usc_title: 26
 usc_section: "4105"
 chapter: 32
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 4105"
-generated_at: "2026-03-30T03:09:00.319Z"
+generated_at: "2026-03-30T03:11:08.819Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 102 - Payment of costs for furnishing coal for Indian Service"
 usc_title: 25
 usc_section: "102"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 102"
-generated_at: "2026-03-30T03:08:47.311Z"
+generated_at: "2026-03-30T03:10:32.865Z"
 status: "active"
 ---
 

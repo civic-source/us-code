@@ -3,9 +3,9 @@ title: "Section 2101 - Membership"
 usc_title: 36
 usc_section: "2101"
 chapter: 21
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "36 U.S.C. § 2101"
-generated_at: "2026-03-30T03:09:13.278Z"
+generated_at: "2026-03-30T03:11:15.023Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3011 - Establishment of Administration on Aging"
 usc_title: 42
 usc_section: "3011"
 chapter: 35
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 3011"
-generated_at: "2026-03-30T03:09:28.873Z"
+generated_at: "2026-03-30T03:11:40.316Z"
 status: "active"
 ---
 

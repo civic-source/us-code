@@ -3,9 +3,9 @@ title: "Section 70301 - Congressional findings and declarations"
 usc_title: 51
 usc_section: "70301"
 chapter: 703
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "51 U.S.C. § 70301"
-generated_at: "2026-03-30T03:09:36.778Z"
+generated_at: "2026-03-30T03:11:51.451Z"
 status: "active"
 ---
 

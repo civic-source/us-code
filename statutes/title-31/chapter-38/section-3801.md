@@ -3,9 +3,9 @@ title: "Section 3801 - Definitions"
 usc_title: 31
 usc_section: "3801"
 chapter: 38
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "31 U.S.C. § 3801"
-generated_at: "2026-03-30T03:09:10.960Z"
+generated_at: "2026-03-30T03:11:11.380Z"
 status: "active"
 ---
 

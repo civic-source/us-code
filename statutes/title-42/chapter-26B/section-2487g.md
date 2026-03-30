@@ -3,9 +3,9 @@ title: "Section 2487g - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2487g"
 chapter: 26
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 2487g"
-generated_at: "2026-03-30T03:09:28.868Z"
+generated_at: "2026-03-30T03:11:40.310Z"
 status: "repealed"
 ---
 

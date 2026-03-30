@@ -3,9 +3,9 @@ title: "Section 6345 - Clean Energy Application Centers"
 usc_title: 42
 usc_section: "6345"
 chapter: 77
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "42 U.S.C. § 6345"
-generated_at: "2026-03-30T03:09:28.957Z"
+generated_at: "2026-03-30T03:11:40.402Z"
 status: "active"
 ---
 

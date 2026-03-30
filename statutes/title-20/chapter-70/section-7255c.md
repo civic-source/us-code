@@ -3,9 +3,9 @@ title: "Section 7255c - Applications"
 usc_title: 20
 usc_section: "7255c"
 chapter: 70
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "20 U.S.C. § 7255c"
-generated_at: "2026-03-30T03:08:22.913Z"
+generated_at: "2026-03-30T03:10:17.377Z"
 status: "active"
 ---
 

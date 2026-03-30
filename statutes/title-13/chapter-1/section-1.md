@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 13
 usc_section: "1"
 chapter: 1
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "13 U.S.C. § 1"
-generated_at: "2026-03-30T03:07:57.269Z"
+generated_at: "2026-03-30T03:10:05.481Z"
 status: "active"
 ---
 

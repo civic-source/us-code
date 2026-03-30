@@ -3,9 +3,9 @@ title: "Section 7653 - Court in which proceedings brought"
 usc_title: 10
 usc_section: "7653"
 chapter: 655
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 7653"
-generated_at: "2026-03-30T03:07:27.164Z"
+generated_at: "2026-03-30T03:10:03.080Z"
 status: "active"
 ---
 

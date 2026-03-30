@@ -3,9 +3,9 @@ title: "Section 2011 - Credit for State death taxes"
 usc_title: 26
 usc_section: "2011"
 chapter: 11
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "26 U.S.C. § 2011"
-generated_at: "2026-03-30T03:09:00.302Z"
+generated_at: "2026-03-30T03:11:08.800Z"
 status: "active"
 ---
 

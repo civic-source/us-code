@@ -3,9 +3,9 @@ title: "Section 138c - Assistant Secretary of Defense for Operational Energy Pla
 usc_title: 10
 usc_section: "138c"
 chapter: 4
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "10 U.S.C. § 138c"
-generated_at: "2026-03-30T03:07:27.049Z"
+generated_at: "2026-03-30T03:10:02.970Z"
 status: "active"
 ---
 

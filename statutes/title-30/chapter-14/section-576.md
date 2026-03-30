@@ -3,9 +3,9 @@ title: "Section 576 - Authorization of appropriations"
 usc_title: 30
 usc_section: "576"
 chapter: 14
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "30 U.S.C. § 576"
-generated_at: "2026-03-30T03:08:49.492Z"
+generated_at: "2026-03-30T03:10:47.974Z"
 status: "active"
 ---
 

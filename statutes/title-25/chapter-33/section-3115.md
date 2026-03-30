@@ -3,9 +3,9 @@ title: "Section 3115 - Cooperative agreement between Department of the Interior 
 usc_title: 25
 usc_section: "3115"
 chapter: 33
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 3115"
-generated_at: "2026-03-30T03:08:47.390Z"
+generated_at: "2026-03-30T03:10:32.945Z"
 status: "active"
 ---
 

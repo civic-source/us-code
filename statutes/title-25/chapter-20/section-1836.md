@@ -3,9 +3,9 @@ title: "Section 1836 - Authorization of appropriations"
 usc_title: 25
 usc_section: "1836"
 chapter: 20
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "25 U.S.C. § 1836"
-generated_at: "2026-03-30T03:08:47.374Z"
+generated_at: "2026-03-30T03:10:32.930Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 49 - Documentary evidence; depositions; witnesses"
 usc_title: 15
 usc_section: "49"
 chapter: 2
-current_through: "PL 113-31"
+current_through: "PL 113-36"
 classification: "15 U.S.C. § 49"
-generated_at: "2026-03-30T03:08:16.938Z"
+generated_at: "2026-03-30T03:10:11.456Z"
 status: "active"
 ---
 
