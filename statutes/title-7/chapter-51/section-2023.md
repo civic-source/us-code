@@ -3,9 +3,9 @@ title: "Section 2023 - Administrative and judicial review; restoration of rights
 usc_title: 7
 usc_section: "2023"
 chapter: 51
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 2023"
-generated_at: "2026-03-30T02:24:00.969Z"
+generated_at: "2026-03-30T02:26:56.206Z"
 ---
 
 # § 2023. Administrative and judicial review; restoration of rights

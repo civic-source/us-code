@@ -3,9 +3,9 @@ title: "Section 2513 - Waiver of discriminatory purchasing requirements with res
 usc_title: 19
 usc_section: "2513"
 chapter: 13
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "19 U.S.C. § 2513"
-generated_at: "2026-03-30T02:24:30.161Z"
+generated_at: "2026-03-30T02:27:30.882Z"
 ---
 
 # § 2513. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft

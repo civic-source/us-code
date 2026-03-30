@@ -3,9 +3,9 @@ title: "Section 1504 - Conveyance of lands in Territories by aliens before esche
 usc_title: 48
 usc_section: "1504"
 chapter: 11
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "48 U.S.C. § 1504"
-generated_at: "2026-03-30T02:25:58.364Z"
+generated_at: "2026-03-30T02:28:54.997Z"
 ---
 
 # § 1504. Conveyance of lands in Territories by aliens before escheat proceedings

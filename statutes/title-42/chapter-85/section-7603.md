@@ -3,9 +3,9 @@ title: "Section 7603 - Emergency powers"
 usc_title: 42
 usc_section: "7603"
 chapter: 85
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 7603"
-generated_at: "2026-03-30T02:25:37.504Z"
+generated_at: "2026-03-30T02:28:50.639Z"
 ---
 
 # § 7603. Emergency powers

@@ -3,9 +3,9 @@ title: "Section 9072 - Pandemic relief for aviation workers"
 usc_title: 15
 usc_section: "9072"
 chapter: 116
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 9072"
-generated_at: "2026-03-30T02:24:20.154Z"
+generated_at: "2026-03-30T02:27:25.739Z"
 ---
 
 # § 9072. Pandemic relief for aviation workers

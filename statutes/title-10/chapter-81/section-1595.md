@@ -3,9 +3,9 @@ title: "Section 1595 - Civilian faculty members at certain Department of Defense
 usc_title: 10
 usc_section: "1595"
 chapter: 81
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 1595"
-generated_at: "2026-03-30T02:24:07.221Z"
+generated_at: "2026-03-30T02:26:40.873Z"
 ---
 
 # § 1595. Civilian faculty members at certain Department of Defense schools: employment and compensation

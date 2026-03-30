@@ -3,9 +3,9 @@ title: "Section 1380 - Maintenance of statistics by the Department of Homeland S
 usc_title: 8
 usc_section: "1380"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "8 U.S.C. § 1380"
-generated_at: "2026-03-30T02:23:57.115Z"
+generated_at: "2026-03-30T02:26:41.962Z"
 ---
 
 # § 1380. Maintenance of statistics by the Department of Homeland Security

@@ -3,9 +3,9 @@ title: "Section 2471 - Definitions"
 usc_title: 50
 usc_section: "2471"
 chapter: 41
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 2471"
-generated_at: "2026-03-30T02:26:05.737Z"
+generated_at: "2026-03-30T02:29:01.322Z"
 ---
 
 # § 2471. Definitions

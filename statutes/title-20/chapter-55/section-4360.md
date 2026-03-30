@@ -3,9 +3,9 @@ title: "Section 4360 - National study on the education of the deaf"
 usc_title: 20
 usc_section: "4360"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 4360"
-generated_at: "2026-03-30T02:24:28.412Z"
+generated_at: "2026-03-30T02:27:33.357Z"
 ---
 
 # § 4360. National study on the education of the deaf

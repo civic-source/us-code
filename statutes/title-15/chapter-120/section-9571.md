@@ -3,9 +3,9 @@ title: "Section 9571 - Purpose"
 usc_title: 15
 usc_section: "9571"
 chapter: 120
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 9571"
-generated_at: "2026-03-30T02:24:20.162Z"
+generated_at: "2026-03-30T02:27:25.744Z"
 ---
 
 # § 9571. Purpose

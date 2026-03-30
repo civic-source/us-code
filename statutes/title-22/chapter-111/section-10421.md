@@ -3,9 +3,9 @@ title: "Section 10421 - Priority for Australia and the United Kingdom in foreign
 usc_title: 22
 usc_section: "10421"
 chapter: 111
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 10421"
-generated_at: "2026-03-30T02:24:42.820Z"
+generated_at: "2026-03-30T02:27:46.122Z"
 ---
 
 # § 10421. Priority for Australia and the United Kingdom in foreign military sales and direct commercial sales

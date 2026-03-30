@@ -3,9 +3,9 @@ title: "Section 274 - Director; powers and duties; report; compensation"
 usc_title: 15
 usc_section: "274"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 274"
-generated_at: "2026-03-30T02:24:19.940Z"
+generated_at: "2026-03-30T02:27:25.577Z"
 ---
 
 # § 274. Director; powers and duties; report; compensation

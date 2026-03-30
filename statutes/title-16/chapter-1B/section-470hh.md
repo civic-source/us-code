@@ -3,9 +3,9 @@ title: "Section 470hh - Confidentiality of information concerning nature and loc
 usc_title: 16
 usc_section: "470hh"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 470hh"
-generated_at: "2026-03-30T02:24:34.093Z"
+generated_at: "2026-03-30T02:27:37.955Z"
 ---
 
 # § 470hh. Confidentiality of information concerning nature and location of archaeological resources

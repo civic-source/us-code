@@ -3,9 +3,9 @@ title: "Section 4174 - Contracts: acquisition, construction, or furnishing of te
 usc_title: 10
 usc_section: "4174"
 chapter: 307
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 4174"
-generated_at: "2026-03-30T02:24:07.291Z"
+generated_at: "2026-03-30T02:26:40.925Z"
 ---
 
 # § 4174. Contracts: acquisition, construction, or furnishing of test facilities and equipment

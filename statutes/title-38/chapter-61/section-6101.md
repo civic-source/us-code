@@ -3,9 +3,9 @@ title: "Section 6101 - Misappropriation by fiduciaries"
 usc_title: 38
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "38 U.S.C. § 6101"
-generated_at: "2026-03-30T02:25:14.778Z"
+generated_at: "2026-03-30T02:28:31.235Z"
 ---
 
 # § 6101. Misappropriation by fiduciaries

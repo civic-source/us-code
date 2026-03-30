@@ -3,9 +3,9 @@ title: "Section 2409a - Real property quiet title actions"
 usc_title: 28
 usc_section: "2409a"
 chapter: 161
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "28 U.S.C. § 2409a"
-generated_at: "2026-03-30T02:24:46.213Z"
+generated_at: "2026-03-30T02:28:03.294Z"
 ---
 
 # § 2409a. Real property quiet title actions

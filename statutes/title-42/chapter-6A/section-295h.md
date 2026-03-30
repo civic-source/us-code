@@ -3,9 +3,9 @@ title: "Section 295h - Loan repayment program for substance use disorder treatme
 usc_title: 42
 usc_section: "295h"
 chapter: 6
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 295h"
-generated_at: "2026-03-30T02:25:37.021Z"
+generated_at: "2026-03-30T02:28:50.041Z"
 ---
 
 # § 295h. Loan repayment program for substance use disorder treatment workforce

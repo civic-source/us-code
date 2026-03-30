@@ -3,9 +3,9 @@ title: "Section 5685 - Penalty and forfeiture relating to possession of devices 
 usc_title: 26
 usc_section: "5685"
 chapter: 51
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 5685"
-generated_at: "2026-03-30T02:24:56.036Z"
+generated_at: "2026-03-30T02:28:12.392Z"
 ---
 
 # § 5685. Penalty and forfeiture relating to possession of devices for emitting gas, smoke, etc., explosives and firearms, when violating liquor laws

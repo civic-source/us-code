@@ -3,9 +3,9 @@ title: "Section 6414 - Income tax withheld"
 usc_title: 26
 usc_section: "6414"
 chapter: 65
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 6414"
-generated_at: "2026-03-30T02:24:56.063Z"
+generated_at: "2026-03-30T02:28:12.419Z"
 ---
 
 # § 6414. Income tax withheld

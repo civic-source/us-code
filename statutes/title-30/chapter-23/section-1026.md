@@ -3,9 +3,9 @@ title: "Section 1026 - Significant thermal features"
 usc_title: 30
 usc_section: "1026"
 chapter: 23
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "30 U.S.C. § 1026"
-generated_at: "2026-03-30T02:24:45.497Z"
+generated_at: "2026-03-30T02:28:04.282Z"
 ---
 
 # § 1026. Significant thermal features

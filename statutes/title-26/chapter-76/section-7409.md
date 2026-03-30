@@ -3,9 +3,9 @@ title: "Section 7409 - Action to enjoin flagrant political expenditures of secti
 usc_title: 26
 usc_section: "7409"
 chapter: 76
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 7409"
-generated_at: "2026-03-30T02:24:56.080Z"
+generated_at: "2026-03-30T02:28:12.436Z"
 ---
 
 # § 7409. Action to enjoin flagrant political expenditures of section 501(c)(3) organizations

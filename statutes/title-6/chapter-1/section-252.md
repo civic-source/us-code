@@ -3,9 +3,9 @@ title: "Section 252 - U.S. Immigration and Customs Enforcement"
 usc_title: 6
 usc_section: "252"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "6 U.S.C. § 252"
-generated_at: "2026-03-30T02:23:56.371Z"
+generated_at: "2026-03-30T02:26:30.309Z"
 ---
 
 # § 252. U.S. Immigration and Customs Enforcement

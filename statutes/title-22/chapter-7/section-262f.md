@@ -3,9 +3,9 @@ title: "Section 262f - Promotion of development and utilization of light capital
 usc_title: 22
 usc_section: "262f"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 262f"
-generated_at: "2026-03-30T02:24:42.634Z"
+generated_at: "2026-03-30T02:27:45.941Z"
 ---
 
 # § 262f. Promotion of development and utilization of light capital technologies and United States assistance policies with international financial institutions

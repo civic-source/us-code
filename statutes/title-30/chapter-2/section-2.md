@@ -3,9 +3,9 @@ title: "Section 2 - Definitions"
 usc_title: 30
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-30T02:24:45.476Z"
+generated_at: "2026-03-30T02:28:04.261Z"
 ---
 
 # § 28–2. Definitions

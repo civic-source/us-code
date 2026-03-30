@@ -3,9 +3,9 @@ title: "Section 8686 - Support for transfers of decommissioned vessels and shipb
 usc_title: 10
 usc_section: "8686"
 chapter: 863
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 8686"
-generated_at: "2026-03-30T02:24:07.326Z"
+generated_at: "2026-03-30T02:26:40.952Z"
 ---
 
 # § 8686. Support for transfers of decommissioned vessels and shipboard equipment

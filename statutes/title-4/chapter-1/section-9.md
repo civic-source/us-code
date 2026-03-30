@@ -3,9 +3,9 @@ title: "Section 9 - Conduct during hoisting, lowering or passing of flag"
 usc_title: 4
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "4 U.S.C. § 9"
-generated_at: "2026-03-30T02:23:48.472Z"
+generated_at: "2026-03-30T02:26:21.663Z"
 ---
 
 # § 9. Conduct during hoisting, lowering or passing of flag

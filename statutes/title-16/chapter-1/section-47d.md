@@ -3,9 +3,9 @@ title: "Section 47d - Acquisition of certain lands for protection of park deer"
 usc_title: 16
 usc_section: "47d"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 47d"
-generated_at: "2026-03-30T02:24:33.994Z"
+generated_at: "2026-03-30T02:27:37.858Z"
 ---
 
 # § 47d. Acquisition of certain lands for protection of park deer

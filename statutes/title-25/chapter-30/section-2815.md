@@ -3,9 +3,9 @@ title: "Section 2815 - State, tribal, and local law enforcement cooperation"
 usc_title: 25
 usc_section: "2815"
 chapter: 30
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 2815"
-generated_at: "2026-03-30T02:24:38.436Z"
+generated_at: "2026-03-30T02:27:43.748Z"
 ---
 
 # § 2815. State, tribal, and local law enforcement cooperation

@@ -3,9 +3,9 @@ title: "Section 40506 - Authorization of the National Missing and Unidentified P
 usc_title: 34
 usc_section: "40506"
 chapter: 405
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "34 U.S.C. § 40506"
-generated_at: "2026-03-30T02:25:04.833Z"
+generated_at: "2026-03-30T02:28:26.125Z"
 ---
 
 # § 40506. Authorization of the National Missing and Unidentified Persons System

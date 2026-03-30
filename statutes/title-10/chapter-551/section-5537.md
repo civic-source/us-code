@@ -3,9 +3,9 @@ title: "Section 5537 - Limitation on Missile Defense Agency production of satell
 usc_title: 10
 usc_section: "5537"
 chapter: 551
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 5537"
-generated_at: "2026-03-30T02:24:07.305Z"
+generated_at: "2026-03-30T02:26:40.936Z"
 ---
 
 # § 5537. Limitation on Missile Defense Agency production of satellites and ground systems associated with operation of such satellites

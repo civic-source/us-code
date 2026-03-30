@@ -3,9 +3,9 @@ title: "Section 13339 - Underground coal gasification"
 usc_title: 42
 usc_section: "13339"
 chapter: 134
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 13339"
-generated_at: "2026-03-30T02:25:37.616Z"
+generated_at: "2026-03-30T02:28:50.776Z"
 ---
 
 # § 13339. Underground coal gasification

@@ -3,9 +3,9 @@ title: "Section 8013 - Secretary of the Navy"
 usc_title: 10
 usc_section: "8013"
 chapter: 803
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 8013"
-generated_at: "2026-03-30T02:24:07.314Z"
+generated_at: "2026-03-30T02:26:40.942Z"
 ---
 
 # § 8013. Secretary of the Navy

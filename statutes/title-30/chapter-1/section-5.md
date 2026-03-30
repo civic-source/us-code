@@ -3,9 +3,9 @@ title: "Section 5 - Reports of investigations"
 usc_title: 30
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "30 U.S.C. § 5"
-generated_at: "2026-03-30T02:24:45.476Z"
+generated_at: "2026-03-30T02:28:04.260Z"
 ---
 
 # § 5. Reports of investigations

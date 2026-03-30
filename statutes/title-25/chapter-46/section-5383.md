@@ -3,9 +3,9 @@ title: "Section 5383 - Selection of participating Indian tribes"
 usc_title: 25
 usc_section: "5383"
 chapter: 46
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 5383"
-generated_at: "2026-03-30T02:24:38.459Z"
+generated_at: "2026-03-30T02:27:43.771Z"
 ---
 
 # § 5383. Selection of participating Indian tribes

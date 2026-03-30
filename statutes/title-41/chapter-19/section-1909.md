@@ -3,9 +3,9 @@ title: "Section 1909 - Management of purchase cards"
 usc_title: 41
 usc_section: "1909"
 chapter: 19
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "41 U.S.C. § 1909"
-generated_at: "2026-03-30T02:25:16.970Z"
+generated_at: "2026-03-30T02:28:33.330Z"
 ---
 
 # § 1909. Management of purchase cards

@@ -3,9 +3,9 @@ title: "Section 3227 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3227"
 chapter: 32
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 3227"
-generated_at: "2026-03-30T02:24:47.392Z"
+generated_at: "2026-03-30T02:27:51.163Z"
 ---
 
 # § 3227. Authorization of appropriations

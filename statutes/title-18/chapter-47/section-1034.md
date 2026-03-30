@@ -3,9 +3,9 @@ title: "Section 1034 - Civil penalties and injunctions for violations of section
 usc_title: 18
 usc_section: "1034"
 chapter: 47
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 1034"
-generated_at: "2026-03-30T02:24:24.111Z"
+generated_at: "2026-03-30T02:27:34.403Z"
 ---
 
 # § 1034. Civil penalties and injunctions for violations of section 1033

@@ -3,9 +3,9 @@ title: "Section 4940 - Excise tax based on investment income"
 usc_title: 26
 usc_section: "4940"
 chapter: 42
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 4940"
-generated_at: "2026-03-30T02:24:56.018Z"
+generated_at: "2026-03-30T02:28:12.374Z"
 ---
 
 # § 4940. Excise tax based on investment income

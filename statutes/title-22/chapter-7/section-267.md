@@ -3,9 +3,9 @@ title: "Section 267 - Permanent Commission of International Geodetic Association
 usc_title: 22
 usc_section: "267"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 267"
-generated_at: "2026-03-30T02:24:42.640Z"
+generated_at: "2026-03-30T02:27:45.948Z"
 ---
 
 # § 267. Permanent Commission of International Geodetic Association; representative of United States

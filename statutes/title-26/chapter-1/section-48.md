@@ -3,9 +3,9 @@ title: "Section 48 - Energy credit"
 usc_title: 26
 usc_section: "48"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 48"
-generated_at: "2026-03-30T02:24:55.834Z"
+generated_at: "2026-03-30T02:28:12.189Z"
 ---
 
 # § 48. Energy credit

@@ -3,9 +3,9 @@ title: "Section 9433 - Superintendent; faculty: appointment and detail"
 usc_title: 10
 usc_section: "9433"
 chapter: 953
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 9433"
-generated_at: "2026-03-30T02:24:07.336Z"
+generated_at: "2026-03-30T02:26:40.959Z"
 ---
 
 # § 9433. Superintendent; faculty: appointment and detail

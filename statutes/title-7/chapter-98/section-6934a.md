@@ -3,9 +3,9 @@ title: "Section 6934a - Beginning farmer and rancher coordination"
 usc_title: 7
 usc_section: "6934a"
 chapter: 98
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 6934a"
-generated_at: "2026-03-30T02:24:01.038Z"
+generated_at: "2026-03-30T02:26:56.260Z"
 ---
 
 # § 6934a. Beginning farmer and rancher coordination

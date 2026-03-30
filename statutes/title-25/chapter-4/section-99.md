@@ -3,9 +3,9 @@ title: "Section 99 - Contracts for supplies in advance of appropriations"
 usc_title: 25
 usc_section: "99"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 99"
-generated_at: "2026-03-30T02:24:38.394Z"
+generated_at: "2026-03-30T02:27:43.704Z"
 ---
 
 # § 99. Contracts for supplies in advance of appropriations

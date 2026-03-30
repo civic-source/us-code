@@ -3,9 +3,9 @@ title: "Section 1393 - Applications; single State agency designation; essential 
 usc_title: 42
 usc_section: "1393"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 1393"
-generated_at: "2026-03-30T02:25:37.156Z"
+generated_at: "2026-03-30T02:28:50.211Z"
 ---
 
 # § 1393. Applications; single State agency designation; essential planning services; plans for expenditure; final activities report and other necessary reports; records; accounting

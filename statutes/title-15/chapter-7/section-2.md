@@ -3,9 +3,9 @@ title: "Section 2 - Green manufacturing and construction"
 usc_title: 15
 usc_section: "2"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:24:19.943Z"
+generated_at: "2026-03-30T02:27:25.580Z"
 ---
 
 # § 278n–2. Green manufacturing and construction

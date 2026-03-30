@@ -3,9 +3,9 @@ title: "Section 206 - Uniform clauses and regulations"
 usc_title: 35
 usc_section: "206"
 chapter: 18
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "35 U.S.C. § 206"
-generated_at: "2026-03-30T02:25:00.402Z"
+generated_at: "2026-03-30T02:28:22.584Z"
 ---
 
 # § 206. Uniform clauses and regulations

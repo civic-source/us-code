@@ -3,9 +3,9 @@ title: "Section 25 - Scholarship component"
 usc_title: 20
 usc_section: "25"
 chapter: 28
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 25"
-generated_at: "2026-03-30T02:24:28.342Z"
+generated_at: "2026-03-30T02:27:33.284Z"
 ---
 
 # § 1070a–25. Scholarship component

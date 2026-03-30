@@ -3,9 +3,9 @@ title: "Section 3945 - Senior Foreign Service"
 usc_title: 22
 usc_section: "3945"
 chapter: 52
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 3945"
-generated_at: "2026-03-30T02:24:42.737Z"
+generated_at: "2026-03-30T02:27:46.044Z"
 ---
 
 # § 3945. Senior Foreign Service

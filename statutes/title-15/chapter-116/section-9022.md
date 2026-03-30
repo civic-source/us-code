@@ -3,9 +3,9 @@ title: "Section 9022 - Flexibility in paying reimbursement"
 usc_title: 15
 usc_section: "9022"
 chapter: 116
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 9022"
-generated_at: "2026-03-30T02:24:20.147Z"
+generated_at: "2026-03-30T02:27:25.734Z"
 ---
 
 # § 9022. Flexibility in paying reimbursement

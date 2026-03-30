@@ -3,9 +3,9 @@ title: "Section 5335 - Prohibition on concealment of the source of assets in mon
 usc_title: 31
 usc_section: "5335"
 chapter: 53
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "31 U.S.C. § 5335"
-generated_at: "2026-03-30T02:24:58.777Z"
+generated_at: "2026-03-30T02:28:15.324Z"
 ---
 
 # § 5335. Prohibition on concealment of the source of assets in monetary transactions

@@ -3,9 +3,9 @@ title: "Section 5801 - Definition of independent states"
 usc_title: 22
 usc_section: "5801"
 chapter: 67
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 5801"
-generated_at: "2026-03-30T02:24:42.760Z"
+generated_at: "2026-03-30T02:27:46.065Z"
 ---
 
 # § 5801. Definition of independent states

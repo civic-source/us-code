@@ -3,9 +3,9 @@ title: "Section 6081 - Findings"
 usc_title: 22
 usc_section: "6081"
 chapter: 69
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 6081"
-generated_at: "2026-03-30T02:24:42.765Z"
+generated_at: "2026-03-30T02:27:46.069Z"
 ---
 
 # § 6081. Findings

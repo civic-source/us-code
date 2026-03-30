@@ -3,9 +3,9 @@ title: "Section 642 - Recordkeeping requirements"
 usc_title: 21
 usc_section: "642"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "21 U.S.C. § 642"
-generated_at: "2026-03-30T02:24:39.617Z"
+generated_at: "2026-03-30T02:27:47.209Z"
 ---
 
 # § 642. Recordkeeping requirements

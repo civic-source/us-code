@@ -3,9 +3,9 @@ title: "Section 4509 - Repealed. Pub. L. 102–138, title II, § 209 , Oct. 28, 
 usc_title: 22
 usc_section: "4509"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 4509"
-generated_at: "2026-03-30T02:24:42.752Z"
+generated_at: "2026-03-30T02:27:46.058Z"
 ---
 
 # § 4509. Repealed. Pub. L. 102–138, title II, § 209 , Oct. 28, 1991 , 105 Stat. 694

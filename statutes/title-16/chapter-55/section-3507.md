@@ -3,9 +3,9 @@ title: "Section 3507 - Priority of laws"
 usc_title: 16
 usc_section: "3507"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3507"
-generated_at: "2026-03-30T02:24:34.225Z"
+generated_at: "2026-03-30T02:27:38.079Z"
 ---
 
 # § 3507. Priority of laws

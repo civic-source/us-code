@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of appropriations"
 usc_title: 29
 usc_section: "1"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-30T02:24:47.312Z"
+generated_at: "2026-03-30T02:27:51.073Z"
 ---
 
 # § 49l–1. Authorization of appropriations

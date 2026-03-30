@@ -3,9 +3,9 @@ title: "Section 3704 - Strategic research plan"
 usc_title: 33
 usc_section: "3704"
 chapter: 50
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 3704"
-generated_at: "2026-03-30T02:25:00.197Z"
+generated_at: "2026-03-30T02:28:24.905Z"
 ---
 
 # § 3704. Strategic research plan

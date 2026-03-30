@@ -3,9 +3,9 @@ title: "Section 2289b - Stormwater management projects"
 usc_title: 33
 usc_section: "2289b"
 chapter: 36
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 2289b"
-generated_at: "2026-03-30T02:25:00.171Z"
+generated_at: "2026-03-30T02:28:24.883Z"
 ---
 
 # § 2289b. Stormwater management projects

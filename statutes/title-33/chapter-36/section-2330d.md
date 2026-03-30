@@ -3,9 +3,9 @@ title: "Section 2330d - Public recreational amenities in ecosystem restoration p
 usc_title: 33
 usc_section: "2330d"
 chapter: 36
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 2330d"
-generated_at: "2026-03-30T02:25:00.177Z"
+generated_at: "2026-03-30T02:28:24.888Z"
 ---
 
 # § 2330d. Public recreational amenities in ecosystem restoration projects

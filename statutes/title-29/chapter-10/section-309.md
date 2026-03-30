@@ -3,9 +3,9 @@ title: "Section 309 - Repealed. Pub. L. 93–406, title I, § 111(a)(1) , Sept. 
 usc_title: 29
 usc_section: "309"
 chapter: 10
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 309"
-generated_at: "2026-03-30T02:24:47.320Z"
+generated_at: "2026-03-30T02:27:51.082Z"
 ---
 
 # §§ 301 to 309. Repealed. Pub. L. 93–406, title I, § 111(a)(1) , Sept. 2, 1974 , 88 Stat. 851

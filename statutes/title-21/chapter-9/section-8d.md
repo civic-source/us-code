@@ -3,9 +3,9 @@ title: "Section 8d - Notification, nondistribution, and recall of controlled sub
 usc_title: 21
 usc_section: "8d"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "21 U.S.C. § 8d"
-generated_at: "2026-03-30T02:24:39.585Z"
+generated_at: "2026-03-30T02:27:47.178Z"
 ---
 
 # § 360bbb–8d. Notification, nondistribution, and recall of controlled substances

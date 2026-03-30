@@ -3,9 +3,9 @@ title: "Section 7114 - Efforts to end modern slavery"
 usc_title: 22
 usc_section: "7114"
 chapter: 78
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 7114"
-generated_at: "2026-03-30T02:24:42.781Z"
+generated_at: "2026-03-30T02:27:46.084Z"
 ---
 
 # § 7114. Efforts to end modern slavery

@@ -3,9 +3,9 @@ title: "Section 4559 - Certification of indebtedness of employees of House; with
 usc_title: 2
 usc_section: "4559"
 chapter: 45
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "2 U.S.C. § 4559"
-generated_at: "2026-03-30T02:23:50.747Z"
+generated_at: "2026-03-30T02:26:24.053Z"
 ---
 
 # § 4559. Certification of indebtedness of employees of House; withholding of amount

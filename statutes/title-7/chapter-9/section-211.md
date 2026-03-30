@@ -3,9 +3,9 @@ title: "Section 211 - Order of Secretary as to charges or practices; prescribing
 usc_title: 7
 usc_section: "211"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 211"
-generated_at: "2026-03-30T02:24:00.881Z"
+generated_at: "2026-03-30T02:26:56.131Z"
 ---
 
 # § 211. Order of Secretary as to charges or practices; prescribing rates and practices generally

@@ -3,9 +3,9 @@ title: "Section 1756 - Reports and examinations"
 usc_title: 12
 usc_section: "1756"
 chapter: 14
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "12 U.S.C. § 1756"
-generated_at: "2026-03-30T02:24:16.003Z"
+generated_at: "2026-03-30T02:27:02.750Z"
 ---
 
 # § 1756. Reports and examinations

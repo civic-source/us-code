@@ -3,9 +3,9 @@ title: "Section 5220b - Multifamily mortgage resolution program"
 usc_title: 12
 usc_section: "5220b"
 chapter: 52
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "12 U.S.C. § 5220b"
-generated_at: "2026-03-30T02:24:16.101Z"
+generated_at: "2026-03-30T02:27:02.835Z"
 ---
 
 # § 5220b. Multifamily mortgage resolution program

@@ -3,9 +3,9 @@ title: "Section 84 - Plans for buildings and bridges"
 usc_title: 20
 usc_section: "84"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 84"
-generated_at: "2026-03-30T02:24:28.321Z"
+generated_at: "2026-03-30T02:27:33.263Z"
 ---
 
 # § 84. Plans for buildings and bridges

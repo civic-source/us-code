@@ -3,9 +3,9 @@ title: "Section 5915 - Authority of banking institutions"
 usc_title: 12
 usc_section: "5915"
 chapter: 56
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "12 U.S.C. § 5915"
-generated_at: "2026-03-30T02:24:16.134Z"
+generated_at: "2026-03-30T02:27:02.863Z"
 ---
 
 # § 5915. Authority of banking institutions

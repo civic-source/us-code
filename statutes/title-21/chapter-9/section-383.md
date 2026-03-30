@@ -3,9 +3,9 @@ title: "Section 383 - Office of International Relations"
 usc_title: 21
 usc_section: "383"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "21 U.S.C. § 383"
-generated_at: "2026-03-30T02:24:39.606Z"
+generated_at: "2026-03-30T02:27:47.198Z"
 ---
 
 # § 383. Office of International Relations

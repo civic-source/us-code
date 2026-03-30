@@ -3,9 +3,9 @@ title: "Section 19059 - Sustainable chemistry research and education"
 usc_title: 42
 usc_section: "19059"
 chapter: 163
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 19059"
-generated_at: "2026-03-30T02:25:37.701Z"
+generated_at: "2026-03-30T02:28:50.882Z"
 ---
 
 # § 19059. Sustainable chemistry research and education

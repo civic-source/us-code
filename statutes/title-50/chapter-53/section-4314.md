@@ -3,9 +3,9 @@ title: "Section 4314 - False manifest; refusal of clearance; reports of gold or 
 usc_title: 50
 usc_section: "4314"
 chapter: 53
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 4314"
-generated_at: "2026-03-30T02:26:05.791Z"
+generated_at: "2026-03-30T02:29:01.374Z"
 ---
 
 # § 4314. False manifest; refusal of clearance; reports of gold or silver coin in cargoes for export

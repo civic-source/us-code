@@ -3,9 +3,9 @@ title: "Section 1592h - Conditions and requirements as to contracts; utilization
 usc_title: 42
 usc_section: "1592h"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 1592h"
-generated_at: "2026-03-30T02:25:37.305Z"
+generated_at: "2026-03-30T02:28:50.398Z"
 ---
 
 # § 1592h. Conditions and requirements as to contracts; utilization of existing facilities; disposition of facilities constructed by United States

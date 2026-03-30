@@ -3,9 +3,9 @@ title: "Section 7937 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "7937"
 chapter: 106
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 7937"
-generated_at: "2026-03-30T02:24:01.066Z"
+generated_at: "2026-03-30T02:26:56.281Z"
 ---
 
 # § 7937. Special marketing loan provisions for upland cotton

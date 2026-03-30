@@ -3,9 +3,9 @@ title: "Section 2261A - Stalking"
 usc_title: 18
 usc_section: "2261A"
 chapter: 110
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 2261A"
-generated_at: "2026-03-30T02:24:24.126Z"
+generated_at: "2026-03-30T02:27:34.419Z"
 ---
 
 # § 2261A. Stalking

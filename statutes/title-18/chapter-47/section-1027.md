@@ -3,9 +3,9 @@ title: "Section 1027 - False statements and concealment of facts in relation to 
 usc_title: 18
 usc_section: "1027"
 chapter: 47
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 1027"
-generated_at: "2026-03-30T02:24:24.110Z"
+generated_at: "2026-03-30T02:27:34.402Z"
 ---
 
 # § 1027. False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974

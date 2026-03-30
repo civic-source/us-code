@@ -3,9 +3,9 @@ title: "Section 40902 - National Aeronautics and Space Administration Endeavor T
 usc_title: 51
 usc_section: "40902"
 chapter: 409
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "51 U.S.C. § 40902"
-generated_at: "2026-03-30T02:26:07.783Z"
+generated_at: "2026-03-30T02:29:03.463Z"
 ---
 
 # § 40902. National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund

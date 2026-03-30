@@ -3,9 +3,9 @@ title: "Section 60904 - Consultation and updates"
 usc_title: 34
 usc_section: "60904"
 chapter: 609
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "34 U.S.C. § 60904"
-generated_at: "2026-03-30T02:25:04.842Z"
+generated_at: "2026-03-30T02:28:26.134Z"
 ---
 
 # § 60904. Consultation and updates

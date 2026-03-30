@@ -3,9 +3,9 @@ title: "Section 6017 - Self-employment tax returns"
 usc_title: 26
 usc_section: "6017"
 chapter: 61
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 6017"
-generated_at: "2026-03-30T02:24:56.040Z"
+generated_at: "2026-03-30T02:28:12.397Z"
 ---
 
 # § 6017. Self-employment tax returns

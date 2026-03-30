@@ -3,9 +3,9 @@ title: "Section 124e - Training for employees of intelligence components"
 usc_title: 6
 usc_section: "124e"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "6 U.S.C. § 124e"
-generated_at: "2026-03-30T02:23:56.362Z"
+generated_at: "2026-03-30T02:26:30.299Z"
 ---
 
 # § 124e. Training for employees of intelligence components

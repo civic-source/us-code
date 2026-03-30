@@ -3,9 +3,9 @@ title: "Section 94 - Supplying duplicates of standards; examination, etc., of na
 usc_title: 7
 usc_section: "94"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 94"
-generated_at: "2026-03-30T02:24:00.859Z"
+generated_at: "2026-03-30T02:26:56.113Z"
 ---
 
 # § 94. Supplying duplicates of standards; examination, etc., of naval stores and certification thereof

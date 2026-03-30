@@ -3,9 +3,9 @@ title: "Section 621 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(28) , N
 usc_title: 26
 usc_section: "621"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 621"
-generated_at: "2026-03-30T02:24:55.939Z"
+generated_at: "2026-03-30T02:28:12.295Z"
 ---
 
 # [§ 621. Repealed. Pub. L. 101–508, title XI, § 11801(a)(28) , Nov. 5, 1990 , 104 Stat. 1388–521 ]

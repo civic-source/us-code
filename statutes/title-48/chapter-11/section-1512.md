@@ -3,9 +3,9 @@ title: "Section 1512 - Omitted"
 usc_title: 48
 usc_section: "1512"
 chapter: 11
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "48 U.S.C. § 1512"
-generated_at: "2026-03-30T02:25:58.364Z"
+generated_at: "2026-03-30T02:28:54.998Z"
 ---
 
 # §§ 1509 to 1512. Omitted

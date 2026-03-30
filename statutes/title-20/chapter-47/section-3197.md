@@ -3,9 +3,9 @@ title: "Section 3197 - Omitted"
 usc_title: 20
 usc_section: "3197"
 chapter: 47
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 3197"
-generated_at: "2026-03-30T02:24:28.406Z"
+generated_at: "2026-03-30T02:27:33.350Z"
 ---
 
 # §§ 3191 to 3197. Omitted

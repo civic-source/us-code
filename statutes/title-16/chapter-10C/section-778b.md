@@ -3,9 +3,9 @@ title: "Section 778b - Cooperation with Secretary of the Interior"
 usc_title: 16
 usc_section: "778b"
 chapter: 10
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 778b"
-generated_at: "2026-03-30T02:24:34.137Z"
+generated_at: "2026-03-30T02:27:37.997Z"
 ---
 
 # § 778b. Cooperation with Secretary of the Interior

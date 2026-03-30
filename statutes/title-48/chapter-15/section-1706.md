@@ -3,9 +3,9 @@ title: "Section 1706 - Reserved rights"
 usc_title: 48
 usc_section: "1706"
 chapter: 15
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "48 U.S.C. § 1706"
-generated_at: "2026-03-30T02:25:58.367Z"
+generated_at: "2026-03-30T02:28:55.001Z"
 ---
 
 # § 1706. Reserved rights

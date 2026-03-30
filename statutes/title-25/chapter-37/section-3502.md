@@ -3,9 +3,9 @@ title: "Section 3502 - Indian tribal energy resource development"
 usc_title: 25
 usc_section: "3502"
 chapter: 37
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 3502"
-generated_at: "2026-03-30T02:24:38.442Z"
+generated_at: "2026-03-30T02:27:43.754Z"
 ---
 
 # § 3502. Indian tribal energy resource development

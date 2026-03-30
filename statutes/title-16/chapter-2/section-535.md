@@ -3,9 +3,9 @@ title: "Section 535 - Forest development roads; acquisition, construction, and m
 usc_title: 16
 usc_section: "535"
 chapter: 2
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 535"
-generated_at: "2026-03-30T02:24:34.099Z"
+generated_at: "2026-03-30T02:27:37.960Z"
 ---
 
 # § 535. Forest development roads; acquisition, construction, and maintenance; maximum economy; methods of financing; cost arrangements for construction standards; transfer of unused effective purchaser credit for road construction

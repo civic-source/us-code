@@ -3,9 +3,9 @@ title: "Section 1823 - Acquisition of real property for Sergeant at Arms and Doo
 usc_title: 2
 usc_section: "1823"
 chapter: 28
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "2 U.S.C. § 1823"
-generated_at: "2026-03-30T02:23:50.734Z"
+generated_at: "2026-03-30T02:26:24.041Z"
 ---
 
 # § 1823. Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate

@@ -3,9 +3,9 @@ title: "Section 2689 - American Sections, International Joint Commission, United
 usc_title: 22
 usc_section: "2689"
 chapter: 38
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 2689"
-generated_at: "2026-03-30T02:24:42.712Z"
+generated_at: "2026-03-30T02:27:46.020Z"
 ---
 
 # § 2689. American Sections, International Joint Commission, United States and Canada; funds for representation expenses and official entertainment within the United States

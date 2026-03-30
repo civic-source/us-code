@@ -3,9 +3,9 @@ title: "Section 3541 - Distress warrants"
 usc_title: 31
 usc_section: "3541"
 chapter: 35
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "31 U.S.C. § 3541"
-generated_at: "2026-03-30T02:24:58.765Z"
+generated_at: "2026-03-30T02:28:15.311Z"
 ---
 
 # § 3541. Distress warrants

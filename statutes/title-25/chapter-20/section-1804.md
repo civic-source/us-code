@@ -3,9 +3,9 @@ title: "Section 1804 - Eligible grant recipients"
 usc_title: 25
 usc_section: "1804"
 chapter: 20
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 1804"
-generated_at: "2026-03-30T02:24:38.422Z"
+generated_at: "2026-03-30T02:27:43.733Z"
 ---
 
 # § 1804. Eligible grant recipients

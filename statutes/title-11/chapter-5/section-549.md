@@ -3,9 +3,9 @@ title: "Section 549 - Postpetition transactions"
 usc_title: 11
 usc_section: "549"
 chapter: 5
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "11 U.S.C. § 549"
-generated_at: "2026-03-30T02:24:12.114Z"
+generated_at: "2026-03-30T02:26:58.699Z"
 ---
 
 # § 549. Postpetition transactions

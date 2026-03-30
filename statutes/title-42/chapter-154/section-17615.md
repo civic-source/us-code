@@ -3,9 +3,9 @@ title: "Section 17615 - Transferred"
 usc_title: 42
 usc_section: "17615"
 chapter: 154
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 17615"
-generated_at: "2026-03-30T02:25:37.674Z"
+generated_at: "2026-03-30T02:28:50.850Z"
 ---
 
 # § 17615. Transferred

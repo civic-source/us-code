@@ -3,9 +3,9 @@ title: "Section 7736 - Court jurisdiction"
 usc_title: 7
 usc_section: "7736"
 chapter: 104
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 7736"
-generated_at: "2026-03-30T02:24:01.062Z"
+generated_at: "2026-03-30T02:26:56.277Z"
 ---
 
 # § 7736. Court jurisdiction

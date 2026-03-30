@@ -3,9 +3,9 @@ title: "Section 105 - Consular officer"
 usc_title: 46
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "46 U.S.C. § 105"
-generated_at: "2026-03-30T02:25:49.350Z"
+generated_at: "2026-03-30T02:28:56.206Z"
 ---
 
 # § 105. Consular officer

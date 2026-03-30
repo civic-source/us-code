@@ -3,9 +3,9 @@ title: "Section 1772 - International cooperation"
 usc_title: 8
 usc_section: "1772"
 chapter: 15
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "8 U.S.C. § 1772"
-generated_at: "2026-03-30T02:23:57.125Z"
+generated_at: "2026-03-30T02:26:41.970Z"
 ---
 
 # § 1772. International cooperation

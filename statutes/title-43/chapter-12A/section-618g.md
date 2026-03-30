@@ -3,9 +3,9 @@ title: "Section 618g - Regulations; contracts; modification of allotments of ene
 usc_title: 43
 usc_section: "618g"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 618g"
-generated_at: "2026-03-30T02:25:17.802Z"
+generated_at: "2026-03-30T02:28:34.712Z"
 ---
 
 # § 618g. Regulations; contracts; modification of allotments of energy

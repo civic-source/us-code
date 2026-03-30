@@ -3,9 +3,9 @@ title: "Section 2193 - Resolutions relating to extension of waiver authority und
 usc_title: 19
 usc_section: "2193"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "19 U.S.C. § 2193"
-generated_at: "2026-03-30T02:24:30.151Z"
+generated_at: "2026-03-30T02:27:30.872Z"
 ---
 
 # § 2193. Resolutions relating to extension of waiver authority under section 402 of the Trade Act of 1974

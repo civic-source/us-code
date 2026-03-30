@@ -3,9 +3,9 @@ title: "Section 16253 - Small business bioproduct marketing and certification gr
 usc_title: 42
 usc_section: "16253"
 chapter: 149
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 16253"
-generated_at: "2026-03-30T02:25:37.646Z"
+generated_at: "2026-03-30T02:28:50.813Z"
 ---
 
 # § 16253. Small business bioproduct marketing and certification grants

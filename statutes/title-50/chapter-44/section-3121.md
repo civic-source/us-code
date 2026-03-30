@@ -3,9 +3,9 @@ title: "Section 3121 - Protection of identities of certain United States underco
 usc_title: 50
 usc_section: "3121"
 chapter: 44
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 3121"
-generated_at: "2026-03-30T02:26:05.758Z"
+generated_at: "2026-03-30T02:29:01.342Z"
 ---
 
 # § 3121. Protection of identities of certain United States undercover intelligence officers, agents, informants, and sources

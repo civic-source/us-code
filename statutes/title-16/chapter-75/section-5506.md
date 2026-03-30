@@ -3,9 +3,9 @@ title: "Section 5506 - Enforcement provisions"
 usc_title: 16
 usc_section: "5506"
 chapter: 75
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 5506"
-generated_at: "2026-03-30T02:24:34.250Z"
+generated_at: "2026-03-30T02:27:38.102Z"
 ---
 
 # § 5506. Enforcement provisions

@@ -3,9 +3,9 @@ title: "Section 3604 - Program to accelerate the procurement and fielding of inn
 usc_title: 10
 usc_section: "3604"
 chapter: 253
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 3604"
-generated_at: "2026-03-30T02:24:07.282Z"
+generated_at: "2026-03-30T02:26:40.919Z"
 ---
 
 # § 3604. Program to accelerate the procurement and fielding of innovative technologies

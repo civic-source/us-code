@@ -3,9 +3,9 @@ title: "Section 1625 - Transfer and consolidation of functions, powers, bureaus,
 usc_title: 7
 usc_section: "1625"
 chapter: 38
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 1625"
-generated_at: "2026-03-30T02:24:00.929Z"
+generated_at: "2026-03-30T02:26:56.172Z"
 ---
 
 # § 1625. Transfer and consolidation of functions, powers, bureaus, etc.

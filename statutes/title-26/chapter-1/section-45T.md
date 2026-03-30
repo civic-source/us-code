@@ -3,9 +3,9 @@ title: "Section 45T - Auto-enrollment option for retirement savings options prov
 usc_title: 26
 usc_section: "45T"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 45T"
-generated_at: "2026-03-30T02:24:55.831Z"
+generated_at: "2026-03-30T02:28:12.186Z"
 ---
 
 # § 45T. Auto-enrollment option for retirement savings options provided by small employers

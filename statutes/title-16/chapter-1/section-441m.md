@@ -3,9 +3,9 @@ title: "Section 441m - Disposition of excess gunnery range lands and reservation
 usc_title: 16
 usc_section: "441m"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 441m"
-generated_at: "2026-03-30T02:24:34.051Z"
+generated_at: "2026-03-30T02:27:37.913Z"
 ---
 
 # § 441m. Disposition of excess gunnery range lands and reservation lands; purchase; terms and conditions; life estates and use restrictions

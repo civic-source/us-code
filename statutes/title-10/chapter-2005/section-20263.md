@@ -3,9 +3,9 @@ title: "Section 20263 - Entitlement of officers discharged or retired under this
 usc_title: 10
 usc_section: "20263"
 chapter: 2005
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 20263"
-generated_at: "2026-03-30T02:24:07.360Z"
+generated_at: "2026-03-30T02:26:40.977Z"
 ---
 
 # § 20263. Entitlement of officers discharged or retired under this chapter to separation pay or retired pay

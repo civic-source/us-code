@@ -3,9 +3,9 @@ title: "Section 5462 - SEED Information Center System"
 usc_title: 22
 usc_section: "5462"
 chapter: 63
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 5462"
-generated_at: "2026-03-30T02:24:42.758Z"
+generated_at: "2026-03-30T02:27:46.064Z"
 ---
 
 # § 5462. SEED Information Center System

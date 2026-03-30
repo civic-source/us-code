@@ -3,9 +3,9 @@ title: "Section 1901a - Capitol Police Board"
 usc_title: 2
 usc_section: "1901a"
 chapter: 29
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "2 U.S.C. § 1901a"
-generated_at: "2026-03-30T02:23:50.735Z"
+generated_at: "2026-03-30T02:26:24.042Z"
 ---
 
 # § 1901a. Capitol Police Board

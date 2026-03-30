@@ -3,9 +3,9 @@ title: "Section 1838 - Biennial report"
 usc_title: 38
 usc_section: "1838"
 chapter: 18
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "38 U.S.C. § 1838"
-generated_at: "2026-03-30T02:25:14.739Z"
+generated_at: "2026-03-30T02:28:31.194Z"
 ---
 
 # § 1838. Biennial report

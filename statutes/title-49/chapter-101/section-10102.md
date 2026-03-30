@@ -3,9 +3,9 @@ title: "Section 10102 - Definitions"
 usc_title: 49
 usc_section: "10102"
 chapter: 101
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "49 U.S.C. § 10102"
-generated_at: "2026-03-30T02:26:04.064Z"
+generated_at: "2026-03-30T02:28:59.865Z"
 ---
 
 # § 10102. Definitions

@@ -3,9 +3,9 @@ title: "Section 2271 - Marketing education programs for small and medium size fa
 usc_title: 7
 usc_section: "2271"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 2271"
-generated_at: "2026-03-30T02:24:00.982Z"
+generated_at: "2026-03-30T02:26:56.217Z"
 ---
 
 # § 2271. Marketing education programs for small and medium size family farm operations

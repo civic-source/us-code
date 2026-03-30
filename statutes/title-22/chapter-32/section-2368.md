@@ -3,9 +3,9 @@ title: "Section 2368 - Assistance for a reconstruction and stabilization crisis"
 usc_title: 22
 usc_section: "2368"
 chapter: 32
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 2368"
-generated_at: "2026-03-30T02:24:42.694Z"
+generated_at: "2026-03-30T02:27:46.002Z"
 ---
 
 # § 2368. Assistance for a reconstruction and stabilization crisis

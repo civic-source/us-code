@@ -3,9 +3,9 @@ title: "Section 7109 - Studies and other research"
 usc_title: 15
 usc_section: "7109"
 chapter: 97
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 7109"
-generated_at: "2026-03-30T02:24:20.122Z"
+generated_at: "2026-03-30T02:27:25.714Z"
 ---
 
 # § 7109. Studies and other research

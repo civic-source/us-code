@@ -3,9 +3,9 @@ title: "Section 1531 - Congressional findings and declaration of purposes and po
 usc_title: 16
 usc_section: "1531"
 chapter: 35
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 1531"
-generated_at: "2026-03-30T02:24:34.189Z"
+generated_at: "2026-03-30T02:27:38.046Z"
 ---
 
 # § 1531. Congressional findings and declaration of purposes and policy

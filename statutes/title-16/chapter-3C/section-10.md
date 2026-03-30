@@ -3,9 +3,9 @@ title: "Section 10 - Authorization of appropriations"
 usc_title: 16
 usc_section: "10"
 chapter: 3
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T02:24:34.116Z"
+generated_at: "2026-03-30T02:27:37.977Z"
 ---
 
 # § 590z–10. Authorization of appropriations

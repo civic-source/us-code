@@ -3,9 +3,9 @@ title: "Section 379 - Confidential information"
 usc_title: 21
 usc_section: "379"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "21 U.S.C. § 379"
-generated_at: "2026-03-30T02:24:39.593Z"
+generated_at: "2026-03-30T02:27:47.185Z"
 ---
 
 # § 379. Confidential information

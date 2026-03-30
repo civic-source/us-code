@@ -3,9 +3,9 @@ title: "Section 707 - Use of public buildings for offices by instructors"
 usc_title: 32
 usc_section: "707"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "32 U.S.C. § 707"
-generated_at: "2026-03-30T02:24:58.987Z"
+generated_at: "2026-03-30T02:28:15.427Z"
 ---
 
 # § 707. Use of public buildings for offices by instructors

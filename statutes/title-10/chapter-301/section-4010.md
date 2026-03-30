@@ -3,9 +3,9 @@ title: "Section 4010 - Defense Established Program to Stimulate Competitive Rese
 usc_title: 10
 usc_section: "4010"
 chapter: 301
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 4010"
-generated_at: "2026-03-30T02:24:07.287Z"
+generated_at: "2026-03-30T02:26:40.922Z"
 ---
 
 # § 4010. Defense Established Program to Stimulate Competitive Research

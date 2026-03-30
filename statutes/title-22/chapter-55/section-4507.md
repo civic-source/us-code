@@ -3,9 +3,9 @@ title: "Section 4507 - Federal control of education prohibited"
 usc_title: 22
 usc_section: "4507"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 4507"
-generated_at: "2026-03-30T02:24:42.752Z"
+generated_at: "2026-03-30T02:27:46.058Z"
 ---
 
 # § 4507. Federal control of education prohibited

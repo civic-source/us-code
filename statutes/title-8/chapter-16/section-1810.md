@@ -3,9 +3,9 @@ title: "Section 1810 - Fee relating to renewal or extension of employment author
 usc_title: 8
 usc_section: "1810"
 chapter: 16
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "8 U.S.C. § 1810"
-generated_at: "2026-03-30T02:23:57.126Z"
+generated_at: "2026-03-30T02:26:41.971Z"
 ---
 
 # § 1810. Fee relating to renewal or extension of employment authorization for asylum applicants

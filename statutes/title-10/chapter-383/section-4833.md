@@ -3,9 +3,9 @@ title: "Section 4833 - Federal Defense Laboratory Diversification Program"
 usc_title: 10
 usc_section: "4833"
 chapter: 383
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 4833"
-generated_at: "2026-03-30T02:24:07.299Z"
+generated_at: "2026-03-30T02:26:40.931Z"
 ---
 
 # § 4833. Federal Defense Laboratory Diversification Program

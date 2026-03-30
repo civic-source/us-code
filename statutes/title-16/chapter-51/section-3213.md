@@ -3,9 +3,9 @@ title: "Section 3213 - Future executive branch actions"
 usc_title: 16
 usc_section: "3213"
 chapter: 51
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3213"
-generated_at: "2026-03-30T02:24:34.221Z"
+generated_at: "2026-03-30T02:27:38.075Z"
 ---
 
 # § 3213. Future executive branch actions

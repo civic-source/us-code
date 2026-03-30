@@ -3,9 +3,9 @@ title: "Section 5306 - Deductions for absence"
 usc_title: 2
 usc_section: "5306"
 chapter: 53
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "2 U.S.C. § 5306"
-generated_at: "2026-03-30T02:23:50.750Z"
+generated_at: "2026-03-30T02:26:24.057Z"
 ---
 
 # § 5306. Deductions for absence

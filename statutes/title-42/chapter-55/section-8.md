@@ -3,9 +3,9 @@ title: "Section 8 - Funding for governance, oversight, and processing of environ
 usc_title: 42
 usc_section: "8"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:25:37.403Z"
+generated_at: "2026-03-30T02:28:50.513Z"
 ---
 
 # § 4370m–8. Funding for governance, oversight, and processing of environmental reviews and permits

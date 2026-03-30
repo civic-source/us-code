@@ -3,9 +3,9 @@ title: "Section 2521 - Advisory Board on Women in the Coast Guard"
 usc_title: 14
 usc_section: "2521"
 chapter: 25
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "14 U.S.C. § 2521"
-generated_at: "2026-03-30T02:24:11.493Z"
+generated_at: "2026-03-30T02:27:08.005Z"
 ---
 
 # § 2521. Advisory Board on Women in the Coast Guard

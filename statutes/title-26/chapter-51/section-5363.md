@@ -3,9 +3,9 @@ title: "Section 5363 - Taxpaid wine bottling house operations"
 usc_title: 26
 usc_section: "5363"
 chapter: 51
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 5363"
-generated_at: "2026-03-30T02:24:56.034Z"
+generated_at: "2026-03-30T02:28:12.390Z"
 ---
 
 # § 5363. Taxpaid wine bottling house operations

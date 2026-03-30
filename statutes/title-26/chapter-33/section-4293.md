@@ -3,9 +3,9 @@ title: "Section 4293 - Exemption for United States and possessions"
 usc_title: 26
 usc_section: "4293"
 chapter: 33
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 4293"
-generated_at: "2026-03-30T02:24:56.014Z"
+generated_at: "2026-03-30T02:28:12.370Z"
 ---
 
 # § 4293. Exemption for United States and possessions

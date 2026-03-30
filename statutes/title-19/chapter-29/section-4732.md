@@ -3,9 +3,9 @@ title: "Section 4732 - Detail of personnel to Office of the United States Trade 
 usc_title: 19
 usc_section: "4732"
 chapter: 29
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "19 U.S.C. § 4732"
-generated_at: "2026-03-30T02:24:30.194Z"
+generated_at: "2026-03-30T02:27:30.913Z"
 ---
 
 # § 4732. Detail of personnel to Office of the United States Trade Representative

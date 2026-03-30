@@ -3,9 +3,9 @@ title: "Section 4219 - Termination of authority"
 usc_title: 33
 usc_section: "4219"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 4219"
-generated_at: "2026-03-30T02:25:00.202Z"
+generated_at: "2026-03-30T02:28:24.909Z"
 ---
 
 # § 4219. Termination of authority

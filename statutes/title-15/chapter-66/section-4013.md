@@ -3,9 +3,9 @@ title: "Section 4013 - Issuance of certificate"
 usc_title: 15
 usc_section: "4013"
 chapter: 66
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 4013"
-generated_at: "2026-03-30T02:24:20.095Z"
+generated_at: "2026-03-30T02:27:25.694Z"
 ---
 
 # § 4013. Issuance of certificate

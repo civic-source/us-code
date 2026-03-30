@@ -3,9 +3,9 @@ title: "Section 7983 - Study of national dairy policy"
 usc_title: 7
 usc_section: "7983"
 chapter: 106
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 7983"
-generated_at: "2026-03-30T02:24:01.068Z"
+generated_at: "2026-03-30T02:26:56.282Z"
 ---
 
 # § 7983. Study of national dairy policy

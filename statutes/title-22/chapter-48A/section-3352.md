@@ -3,9 +3,9 @@ title: "Section 3352 - Establishment"
 usc_title: 22
 usc_section: "3352"
 chapter: 48
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 3352"
-generated_at: "2026-03-30T02:24:42.729Z"
+generated_at: "2026-03-30T02:27:46.036Z"
 ---
 
 # § 3352. Establishment

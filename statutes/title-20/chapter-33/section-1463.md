@@ -3,9 +3,9 @@ title: "Section 1463 - Technical assistance, demonstration projects, disseminati
 usc_title: 20
 usc_section: "1463"
 chapter: 33
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 1463"
-generated_at: "2026-03-30T02:24:28.397Z"
+generated_at: "2026-03-30T02:27:33.341Z"
 ---
 
 # § 1463. Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research

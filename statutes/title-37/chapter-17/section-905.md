@@ -3,9 +3,9 @@ title: "Section 905 - Reserve officers of the Navy or Marine Corps not on the ac
 usc_title: 37
 usc_section: "905"
 chapter: 17
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "37 U.S.C. § 905"
-generated_at: "2026-03-30T02:25:07.792Z"
+generated_at: "2026-03-30T02:28:28.409Z"
 ---
 
 # § 905. Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances

@@ -3,9 +3,9 @@ title: "Section 2819 - Strategy and assessment with respect to non-operational, 
 usc_title: 10
 usc_section: "2819"
 chapter: 169
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2819"
-generated_at: "2026-03-30T02:24:07.266Z"
+generated_at: "2026-03-30T02:26:40.907Z"
 ---
 
 # § 2819. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance

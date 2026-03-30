@@ -3,9 +3,9 @@ title: "Section 7 - Provisions for furnishing surplus power and municipal or mis
 usc_title: 16
 usc_section: "7"
 chapter: 3
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T02:24:34.116Z"
+generated_at: "2026-03-30T02:27:37.977Z"
 ---
 
 # § 590z–7. Provisions for furnishing surplus power and municipal or miscellaneous water supplies

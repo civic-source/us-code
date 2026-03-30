@@ -3,9 +3,9 @@ title: "Section 16321 - Facility for Rare Isotope Beams"
 usc_title: 42
 usc_section: "16321"
 chapter: 149
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 16321"
-generated_at: "2026-03-30T02:25:37.652Z"
+generated_at: "2026-03-30T02:28:50.821Z"
 ---
 
 # § 16321. Facility for Rare Isotope Beams

@@ -3,9 +3,9 @@ title: "Section 3307 - Antitrust violations"
 usc_title: 10
 usc_section: "3307"
 chapter: 241
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 3307"
-generated_at: "2026-03-30T02:24:07.279Z"
+generated_at: "2026-03-30T02:26:40.916Z"
 ---
 
 # § 3307. Antitrust violations

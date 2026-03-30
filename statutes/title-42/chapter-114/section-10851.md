@@ -3,9 +3,9 @@ title: "Section 10851 - Construction of subchapters I and II; “individual with
 usc_title: 42
 usc_section: "10851"
 chapter: 114
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 10851"
-generated_at: "2026-03-30T02:25:37.572Z"
+generated_at: "2026-03-30T02:28:50.722Z"
 ---
 
 # § 10851. Construction of subchapters I and II; “individual with mental illness” defined

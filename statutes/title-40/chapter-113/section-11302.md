@@ -3,9 +3,9 @@ title: "Section 11302 - Capital planning and investment control"
 usc_title: 40
 usc_section: "11302"
 chapter: 113
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "40 U.S.C. § 11302"
-generated_at: "2026-03-30T02:25:07.381Z"
+generated_at: "2026-03-30T02:28:28.922Z"
 ---
 
 # § 11302. Capital planning and investment control

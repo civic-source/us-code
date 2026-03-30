@@ -3,9 +3,9 @@ title: "Section 7529 - Notification of suspected identity theft"
 usc_title: 26
 usc_section: "7529"
 chapter: 77
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 7529"
-generated_at: "2026-03-30T02:24:56.088Z"
+generated_at: "2026-03-30T02:28:12.445Z"
 ---
 
 # § 7529. Notification of suspected identity theft

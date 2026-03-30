@@ -3,9 +3,9 @@ title: "Section 7008 - Administrative matters"
 usc_title: 16
 usc_section: "7008"
 chapter: 89
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 7008"
-generated_at: "2026-03-30T02:24:34.265Z"
+generated_at: "2026-03-30T02:27:38.116Z"
 ---
 
 # § 7008. Administrative matters

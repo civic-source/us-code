@@ -3,9 +3,9 @@ title: "Section 3518 - Effect on existing laws and regulations"
 usc_title: 44
 usc_section: "3518"
 chapter: 35
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "44 U.S.C. § 3518"
-generated_at: "2026-03-30T02:25:16.699Z"
+generated_at: "2026-03-30T02:28:33.605Z"
 ---
 
 # § 3518. Effect on existing laws and regulations

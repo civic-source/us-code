@@ -3,9 +3,9 @@ title: "Section 105 - State, and so forth, taxation affecting Federal areas; sal
 usc_title: 4
 usc_section: "105"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "4 U.S.C. § 105"
-generated_at: "2026-03-30T02:23:48.472Z"
+generated_at: "2026-03-30T02:26:21.663Z"
 ---
 
 # § 105. State, and so forth, taxation affecting Federal areas; sales or use tax

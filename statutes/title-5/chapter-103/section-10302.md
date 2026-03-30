@@ -3,9 +3,9 @@ title: "Section 10302 - Consulting services for the Department of State"
 usc_title: 5
 usc_section: "10302"
 chapter: 103
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "5 U.S.C. § 10302"
-generated_at: "2026-03-30T02:23:53.362Z"
+generated_at: "2026-03-30T02:26:26.320Z"
 ---
 
 # § 10302. Consulting services for the Department of State

@@ -3,9 +3,9 @@ title: "Section 1124 - Undergraduate international studies and foreign language 
 usc_title: 20
 usc_section: "1124"
 chapter: 28
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 1124"
-generated_at: "2026-03-30T02:24:28.375Z"
+generated_at: "2026-03-30T02:27:33.318Z"
 ---
 
 # § 1124. Undergraduate international studies and foreign language programs

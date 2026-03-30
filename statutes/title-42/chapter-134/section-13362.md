@@ -3,9 +3,9 @@ title: "Section 13362 - Innovative clean coal technology transfer program"
 usc_title: 42
 usc_section: "13362"
 chapter: 134
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 13362"
-generated_at: "2026-03-30T02:25:37.616Z"
+generated_at: "2026-03-30T02:28:50.776Z"
 ---
 
 # § 13362. Innovative clean coal technology transfer program

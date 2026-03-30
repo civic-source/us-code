@@ -3,9 +3,9 @@ title: "Section 9203 - Evaluation and research plan"
 usc_title: 7
 usc_section: "9203"
 chapter: 116
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 9203"
-generated_at: "2026-03-30T02:24:01.090Z"
+generated_at: "2026-03-30T02:26:56.299Z"
 ---
 
 # § 9203. Evaluation and research plan

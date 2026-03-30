@@ -3,9 +3,9 @@ title: "Section 4 - Waiver of State immunity"
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:25:37.340Z"
+generated_at: "2026-03-30T02:28:50.442Z"
 ---
 
 # § 2000gg–4. Waiver of State immunity

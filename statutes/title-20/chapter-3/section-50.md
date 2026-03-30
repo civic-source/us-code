@@ -3,9 +3,9 @@ title: "Section 50 - Reception and arrangement of specimens and objects of art"
 usc_title: 20
 usc_section: "50"
 chapter: 3
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 50"
-generated_at: "2026-03-30T02:24:28.315Z"
+generated_at: "2026-03-30T02:27:33.258Z"
 ---
 
 # § 50. Reception and arrangement of specimens and objects of art

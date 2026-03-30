@@ -3,9 +3,9 @@ title: "Section 687j - Repealed. Pub. L. 104–208, div. D, title II, § 208(h)(
 usc_title: 15
 usc_section: "687j"
 chapter: 14
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 687j"
-generated_at: "2026-03-30T02:24:19.983Z"
+generated_at: "2026-03-30T02:27:25.609Z"
 ---
 
 # §§ 687i, 687j. Repealed. Pub. L. 104–208, div. D, title II, § 208(h)(1)(E) , Sept. 30, 1996 , 110 Stat. 3009–747

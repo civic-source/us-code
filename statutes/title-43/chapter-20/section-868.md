@@ -3,9 +3,9 @@ title: "Section 868 - Representation of Indian claimants in suits to determine r
 usc_title: 43
 usc_section: "868"
 chapter: 20
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 868"
-generated_at: "2026-03-30T02:25:17.807Z"
+generated_at: "2026-03-30T02:28:34.718Z"
 ---
 
 # § 868. Representation of Indian claimants in suits to determine right to school lands

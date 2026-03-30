@@ -3,9 +3,9 @@ title: "Section 1302 - Pension Benefit Guaranty Corporation"
 usc_title: 29
 usc_section: "1302"
 chapter: 18
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 1302"
-generated_at: "2026-03-30T02:24:47.362Z"
+generated_at: "2026-03-30T02:27:51.129Z"
 ---
 
 # § 1302. Pension Benefit Guaranty Corporation

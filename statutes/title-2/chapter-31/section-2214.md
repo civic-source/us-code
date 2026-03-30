@@ -3,9 +3,9 @@ title: "Section 2214 - Assistant to the Chief Executive Officer"
 usc_title: 2
 usc_section: "2214"
 chapter: 31
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "2 U.S.C. § 2214"
-generated_at: "2026-03-30T02:23:50.743Z"
+generated_at: "2026-03-30T02:26:24.050Z"
 ---
 
 # § 2214. Assistant to the Chief Executive Officer

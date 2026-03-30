@@ -3,9 +3,9 @@ title: "Section 2386 - Renumbered § 3793]"
 usc_title: 10
 usc_section: "2386"
 chapter: 141
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2386"
-generated_at: "2026-03-30T02:24:07.246Z"
+generated_at: "2026-03-30T02:26:40.891Z"
 ---
 
 # [§ 2386. Renumbered § 3793]

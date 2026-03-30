@@ -3,9 +3,9 @@ title: "Section 1504 - Commencement of ancillary case"
 usc_title: 11
 usc_section: "1504"
 chapter: 15
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "11 U.S.C. § 1504"
-generated_at: "2026-03-30T02:24:12.124Z"
+generated_at: "2026-03-30T02:26:58.706Z"
 ---
 
 # § 1504. Commencement of ancillary case

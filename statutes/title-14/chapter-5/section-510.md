@@ -3,9 +3,9 @@ title: "Section 510 - Conveyance of Coast Guard vessels for public purposes"
 usc_title: 14
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "14 U.S.C. § 510"
-generated_at: "2026-03-30T02:24:11.484Z"
+generated_at: "2026-03-30T02:27:07.996Z"
 ---
 
 # § 510. Conveyance of Coast Guard vessels for public purposes

@@ -3,9 +3,9 @@ title: "Section 1766 - Rules and regulations; advance payment for rent and other
 usc_title: 7
 usc_section: "1766"
 chapter: 43
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 1766"
-generated_at: "2026-03-30T02:24:00.942Z"
+generated_at: "2026-03-30T02:26:56.184Z"
 ---
 
 # § 1766. Rules and regulations; advance payment for rent and other service; funds for courtesies to foreign representatives

@@ -3,9 +3,9 @@ title: "Section 47105 - Project grant applications"
 usc_title: 49
 usc_section: "47105"
 chapter: 471
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "49 U.S.C. § 47105"
-generated_at: "2026-03-30T02:26:04.143Z"
+generated_at: "2026-03-30T02:28:59.949Z"
 ---
 
 # § 47105. Project grant applications

@@ -3,9 +3,9 @@ title: "Section 286e - Payment of subscriptions to Fund and Bank by United State
 usc_title: 22
 usc_section: "286e"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 286e"
-generated_at: "2026-03-30T02:24:42.649Z"
+generated_at: "2026-03-30T02:27:45.958Z"
 ---
 
 # § 286e. Payment of subscriptions to Fund and Bank by United States; issuance of special notes; income covered into Treasury

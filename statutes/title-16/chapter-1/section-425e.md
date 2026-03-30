@@ -3,9 +3,9 @@ title: "Section 425e - Acceptance and distribution of gifts"
 usc_title: 16
 usc_section: "425e"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 425e"
-generated_at: "2026-03-30T02:24:34.045Z"
+generated_at: "2026-03-30T02:27:37.906Z"
 ---
 
 # § 425e. Acceptance and distribution of gifts

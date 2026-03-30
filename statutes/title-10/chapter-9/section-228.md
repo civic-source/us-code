@@ -3,9 +3,9 @@ title: "Section 228 - Repealed. Pub. L. 114–92, div. A, title X, § 1073(a)(1)
 usc_title: 10
 usc_section: "228"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 228"
-generated_at: "2026-03-30T02:24:07.140Z"
+generated_at: "2026-03-30T02:26:40.813Z"
 ---
 
 # [§ 228. Repealed. Pub. L. 114–92, div. A, title X, § 1073(a)(1) , Nov. 25, 2015 , 129 Stat. 995 ]

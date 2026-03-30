@@ -3,9 +3,9 @@ title: "Section 1444 - Annual reports"
 usc_title: 33
 usc_section: "1444"
 chapter: 27
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 1444"
-generated_at: "2026-03-30T02:25:00.157Z"
+generated_at: "2026-03-30T02:28:24.869Z"
 ---
 
 # § 1444. Annual reports

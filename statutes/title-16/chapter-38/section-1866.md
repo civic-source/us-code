@@ -3,9 +3,9 @@ title: "Section 1866 - Shark feeding"
 usc_title: 16
 usc_section: "1866"
 chapter: 38
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 1866"
-generated_at: "2026-03-30T02:24:34.205Z"
+generated_at: "2026-03-30T02:27:38.061Z"
 ---
 
 # § 1866. Shark feeding

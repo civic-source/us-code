@@ -3,9 +3,9 @@ title: "Section 2571 - Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(
 usc_title: 50
 usc_section: "2571"
 chapter: 42
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 2571"
-generated_at: "2026-03-30T02:26:05.740Z"
+generated_at: "2026-03-30T02:29:01.326Z"
 ---
 
 # §§ 2570, 2571. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(b)(2) , Dec. 23, 2022 , 136 Stat. 3060

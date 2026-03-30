@@ -3,9 +3,9 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-30T02:24:00.925Z"
+generated_at: "2026-03-30T02:26:56.168Z"
 ---
 
 # § 1523. Pilot programs

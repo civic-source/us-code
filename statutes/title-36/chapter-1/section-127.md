@@ -3,9 +3,9 @@ title: "Section 127 - National Korean War Veterans Armistice Day"
 usc_title: 36
 usc_section: "127"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "36 U.S.C. § 127"
-generated_at: "2026-03-30T02:25:08.432Z"
+generated_at: "2026-03-30T02:28:29.605Z"
 ---
 
 # § 127. National Korean War Veterans Armistice Day

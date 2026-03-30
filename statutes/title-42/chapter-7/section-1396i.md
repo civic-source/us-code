@@ -3,9 +3,9 @@ title: "Section 1396i - Certification and approval of rural health clinics and i
 usc_title: 42
 usc_section: "1396i"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 1396i"
-generated_at: "2026-03-30T02:25:37.252Z"
+generated_at: "2026-03-30T02:28:50.331Z"
 ---
 
 # § 1396i. Certification and approval of rural health clinics and intermediate care facilities for mentally retarded

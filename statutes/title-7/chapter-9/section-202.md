@@ -3,9 +3,9 @@ title: "Section 202 - “Stockyard” defined; determination by Secretary as to 
 usc_title: 7
 usc_section: "202"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 202"
-generated_at: "2026-03-30T02:24:00.880Z"
+generated_at: "2026-03-30T02:26:56.131Z"
 ---
 
 # § 202. “Stockyard” defined; determination by Secretary as to particular yard

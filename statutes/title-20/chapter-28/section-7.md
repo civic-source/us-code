@@ -3,9 +3,9 @@ title: "Section 7 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7"
 chapter: 28
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-30T02:24:28.382Z"
+generated_at: "2026-03-30T02:27:33.326Z"
 ---
 
 # § 1161i–7. Authorization of appropriations

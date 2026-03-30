@@ -3,9 +3,9 @@ title: "Section 7322 - Definitions"
 usc_title: 5
 usc_section: "7322"
 chapter: 73
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "5 U.S.C. § 7322"
-generated_at: "2026-03-30T02:23:53.312Z"
+generated_at: "2026-03-30T02:26:26.288Z"
 ---
 
 # § 7322. Definitions

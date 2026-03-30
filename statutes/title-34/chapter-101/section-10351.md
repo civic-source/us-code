@@ -3,9 +3,9 @@ title: "Section 10351 - Rural drug enforcement assistance"
 usc_title: 34
 usc_section: "10351"
 chapter: 101
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "34 U.S.C. § 10351"
-generated_at: "2026-03-30T02:25:04.779Z"
+generated_at: "2026-03-30T02:28:26.077Z"
 ---
 
 # § 10351. Rural drug enforcement assistance

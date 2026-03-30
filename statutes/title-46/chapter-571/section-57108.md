@@ -3,9 +3,9 @@ title: "Section 57108 - Consideration of ballast and equipment in determining se
 usc_title: 46
 usc_section: "57108"
 chapter: 571
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "46 U.S.C. § 57108"
-generated_at: "2026-03-30T02:25:49.388Z"
+generated_at: "2026-03-30T02:28:56.256Z"
 ---
 
 # § 57108. Consideration of ballast and equipment in determining selling price

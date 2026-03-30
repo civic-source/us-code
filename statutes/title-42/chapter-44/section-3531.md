@@ -3,9 +3,9 @@ title: "Section 3531 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "3531"
 chapter: 44
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 3531"
-generated_at: "2026-03-30T02:25:37.384Z"
+generated_at: "2026-03-30T02:28:50.493Z"
 ---
 
 # § 3531. Congressional declaration of purpose

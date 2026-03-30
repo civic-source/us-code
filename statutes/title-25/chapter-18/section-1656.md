@@ -3,9 +3,9 @@ title: "Section 1656 - Other contract and grant requirements"
 usc_title: 25
 usc_section: "1656"
 chapter: 18
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 1656"
-generated_at: "2026-03-30T02:24:38.417Z"
+generated_at: "2026-03-30T02:27:43.728Z"
 ---
 
 # § 1656. Other contract and grant requirements

@@ -3,9 +3,9 @@ title: "Section 3916 - Information for members of the Armed Forces and their dep
 usc_title: 50
 usc_section: "3916"
 chapter: 50
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 3916"
-generated_at: "2026-03-30T02:26:05.782Z"
+generated_at: "2026-03-30T02:29:01.365Z"
 ---
 
 # § 3916. Information for members of the Armed Forces and their dependents on rights and protections of the Servicemembers Civil Relief Act

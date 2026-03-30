@@ -3,9 +3,9 @@ title: "Section 1513 - Duties and powers vested in Department"
 usc_title: 15
 usc_section: "1513"
 chapter: 40
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 1513"
-generated_at: "2026-03-30T02:24:20.017Z"
+generated_at: "2026-03-30T02:27:25.635Z"
 ---
 
 # § 1513. Duties and powers vested in Department

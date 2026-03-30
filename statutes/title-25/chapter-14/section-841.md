@@ -3,9 +3,9 @@ title: "Section 841 - Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "841"
 chapter: 14
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 841"
-generated_at: "2026-03-30T02:24:38.406Z"
+generated_at: "2026-03-30T02:27:43.717Z"
 ---
 
 # § 841. Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92 Stat. 246

@@ -3,9 +3,9 @@ title: "Section 835g - Relocation of Indian cemeteries"
 usc_title: 16
 usc_section: "835g"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 835g"
-generated_at: "2026-03-30T02:24:34.151Z"
+generated_at: "2026-03-30T02:27:38.011Z"
 ---
 
 # § 835g. Relocation of Indian cemeteries

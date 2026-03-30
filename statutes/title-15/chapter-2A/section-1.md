@@ -3,9 +3,9 @@ title: "Section 1 - Private securities litigation"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:24:19.886Z"
+generated_at: "2026-03-30T02:27:25.535Z"
 ---
 
 # § 77z–1. Private securities litigation

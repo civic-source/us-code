@@ -3,9 +3,9 @@ title: "Section 412 - Residents of Retirement Home"
 usc_title: 24
 usc_section: "412"
 chapter: 10
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "24 U.S.C. § 412"
-generated_at: "2026-03-30T02:24:40.343Z"
+generated_at: "2026-03-30T02:27:40.061Z"
 ---
 
 # § 412. Residents of Retirement Home

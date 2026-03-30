@@ -3,9 +3,9 @@ title: "Section 1679b - Prohibited practices"
 usc_title: 15
 usc_section: "1679b"
 chapter: 41
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 1679b"
-generated_at: "2026-03-30T02:24:20.030Z"
+generated_at: "2026-03-30T02:27:25.645Z"
 ---
 
 # § 1679b. Prohibited practices

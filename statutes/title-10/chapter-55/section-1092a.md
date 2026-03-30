@@ -3,9 +3,9 @@ title: "Section 1092a - Persons entering the armed forces: baseline health data"
 usc_title: 10
 usc_section: "1092a"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 1092a"
-generated_at: "2026-03-30T02:24:07.197Z"
+generated_at: "2026-03-30T02:26:40.854Z"
 ---
 
 # § 1092a. Persons entering the armed forces: baseline health data

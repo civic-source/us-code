@@ -3,9 +3,9 @@ title: "Section 2202b - Payment limitation"
 usc_title: 16
 usc_section: "2202b"
 chapter: 42
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 2202b"
-generated_at: "2026-03-30T02:24:34.211Z"
+generated_at: "2026-03-30T02:27:38.065Z"
 ---
 
 # § 2202b. Payment limitation

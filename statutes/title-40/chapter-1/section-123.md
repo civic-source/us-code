@@ -3,9 +3,9 @@ title: "Section 123 - Civil remedies for fraud"
 usc_title: 40
 usc_section: "123"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "40 U.S.C. § 123"
-generated_at: "2026-03-30T02:25:07.367Z"
+generated_at: "2026-03-30T02:28:28.907Z"
 ---
 
 # § 123. Civil remedies for fraud

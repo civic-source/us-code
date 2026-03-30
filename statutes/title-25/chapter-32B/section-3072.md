@@ -3,9 +3,9 @@ title: "Section 3072 - Definitions"
 usc_title: 25
 usc_section: "3072"
 chapter: 32
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 3072"
-generated_at: "2026-03-30T02:24:38.438Z"
+generated_at: "2026-03-30T02:27:43.749Z"
 ---
 
 # § 3072. Definitions

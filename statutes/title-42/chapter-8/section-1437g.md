@@ -3,9 +3,9 @@ title: "Section 1437g - Public housing Capital and Operating Funds"
 usc_title: 42
 usc_section: "1437g"
 chapter: 8
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 1437g"
-generated_at: "2026-03-30T02:25:37.288Z"
+generated_at: "2026-03-30T02:28:50.376Z"
 ---
 
 # § 1437g. Public housing Capital and Operating Funds

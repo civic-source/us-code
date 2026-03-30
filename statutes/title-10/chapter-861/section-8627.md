@@ -3,9 +3,9 @@ title: "Section 8627 - Foreign naval vessels and aircraft: supplies and services
 usc_title: 10
 usc_section: "8627"
 chapter: 861
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 8627"
-generated_at: "2026-03-30T02:24:07.324Z"
+generated_at: "2026-03-30T02:26:40.950Z"
 ---
 
 # § 8627. Foreign naval vessels and aircraft: supplies and services

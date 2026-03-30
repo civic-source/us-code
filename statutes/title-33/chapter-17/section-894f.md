@@ -3,9 +3,9 @@ title: "Section 894f - Sexual assault defined"
 usc_title: 33
 usc_section: "894f"
 chapter: 17
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 894f"
-generated_at: "2026-03-30T02:25:00.123Z"
+generated_at: "2026-03-30T02:28:24.840Z"
 ---
 
 # § 894f. Sexual assault defined

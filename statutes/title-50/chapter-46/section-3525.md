@@ -3,9 +3,9 @@ title: "Section 3525 - Office of the Ombudsman for Analytic Objectivity"
 usc_title: 50
 usc_section: "3525"
 chapter: 46
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 3525"
-generated_at: "2026-03-30T02:26:05.777Z"
+generated_at: "2026-03-30T02:29:01.360Z"
 ---
 
 # § 3525. Office of the Ombudsman for Analytic Objectivity

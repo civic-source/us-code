@@ -3,9 +3,9 @@ title: "Section 1812 - Fees relating to applications for adjustment of status"
 usc_title: 8
 usc_section: "1812"
 chapter: 16
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "8 U.S.C. § 1812"
-generated_at: "2026-03-30T02:23:57.126Z"
+generated_at: "2026-03-30T02:26:41.971Z"
 ---
 
 # § 1812. Fees relating to applications for adjustment of status

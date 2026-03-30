@@ -3,9 +3,9 @@ title: "Section 6852 - Termination assessments in case of flagrant political exp
 usc_title: 26
 usc_section: "6852"
 chapter: 70
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 6852"
-generated_at: "2026-03-30T02:24:56.076Z"
+generated_at: "2026-03-30T02:28:12.433Z"
 ---
 
 # § 6852. Termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations

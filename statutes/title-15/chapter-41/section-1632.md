@@ -3,9 +3,9 @@ title: "Section 1632 - Form of disclosure; additional information"
 usc_title: 15
 usc_section: "1632"
 chapter: 41
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 1632"
-generated_at: "2026-03-30T02:24:20.020Z"
+generated_at: "2026-03-30T02:27:25.638Z"
 ---
 
 # § 1632. Form of disclosure; additional information

@@ -3,9 +3,9 @@ title: "Section 3156 - Mission readiness exercises"
 usc_title: 10
 usc_section: "3156"
 chapter: 209
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 3156"
-generated_at: "2026-03-30T02:24:07.277Z"
+generated_at: "2026-03-30T02:26:40.914Z"
 ---
 
 # § 3156. Mission readiness exercises

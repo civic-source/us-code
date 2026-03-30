@@ -3,9 +3,9 @@ title: "Section 7455 - Board of Visitors"
 usc_title: 10
 usc_section: "7455"
 chapter: 753
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 7455"
-generated_at: "2026-03-30T02:24:07.309Z"
+generated_at: "2026-03-30T02:26:40.939Z"
 ---
 
 # § 7455. Board of Visitors

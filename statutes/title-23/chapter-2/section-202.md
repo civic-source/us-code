@@ -3,9 +3,9 @@ title: "Section 202 - Tribal transportation program"
 usc_title: 23
 usc_section: "202"
 chapter: 2
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "23 U.S.C. § 202"
-generated_at: "2026-03-30T02:24:37.447Z"
+generated_at: "2026-03-30T02:27:40.963Z"
 ---
 
 # § 202. Tribal transportation program

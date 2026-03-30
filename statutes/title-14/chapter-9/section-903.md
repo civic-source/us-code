@@ -3,9 +3,9 @@ title: "Section 903 - Use of certain appropriated funds"
 usc_title: 14
 usc_section: "903"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "14 U.S.C. § 903"
-generated_at: "2026-03-30T02:24:11.486Z"
+generated_at: "2026-03-30T02:27:07.997Z"
 ---
 
 # § 903. Use of certain appropriated funds

@@ -3,9 +3,9 @@ title: "Section 3605 - Cooperation with other agencies and institutions"
 usc_title: 16
 usc_section: "3605"
 chapter: 56
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3605"
-generated_at: "2026-03-30T02:24:34.225Z"
+generated_at: "2026-03-30T02:27:38.079Z"
 ---
 
 # § 3605. Cooperation with other agencies and institutions

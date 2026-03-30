@@ -3,9 +3,9 @@ title: "Section 2839 - Application of certain authorities and standards to histo
 usc_title: 10
 usc_section: "2839"
 chapter: 169
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2839"
-generated_at: "2026-03-30T02:24:07.267Z"
+generated_at: "2026-03-30T02:26:40.907Z"
 ---
 
 # § 2839. Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army

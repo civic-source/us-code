@@ -3,9 +3,9 @@ title: "Section 2841 - Study by Secretary of Energy"
 usc_title: 15
 usc_section: "2841"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 2841"
-generated_at: "2026-03-30T02:24:20.079Z"
+generated_at: "2026-03-30T02:27:25.681Z"
 ---
 
 # § 2841. Study by Secretary of Energy

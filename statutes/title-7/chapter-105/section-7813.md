@@ -3,9 +3,9 @@ title: "Section 7813 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7813"
 chapter: 105
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 7813"
-generated_at: "2026-03-30T02:24:01.064Z"
+generated_at: "2026-03-30T02:26:56.279Z"
 ---
 
 # § 7813. Authorization of appropriations

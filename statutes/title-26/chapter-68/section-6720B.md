@@ -3,9 +3,9 @@ title: "Section 6720B - Fraudulent identification of exempt use property"
 usc_title: 26
 usc_section: "6720B"
 chapter: 68
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 6720B"
-generated_at: "2026-03-30T02:24:56.075Z"
+generated_at: "2026-03-30T02:28:12.432Z"
 ---
 
 # § 6720B. Fraudulent identification of exempt use property

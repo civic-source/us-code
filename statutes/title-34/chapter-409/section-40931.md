@@ -3,9 +3,9 @@ title: "Section 40931 - Continuing evaluations"
 usc_title: 34
 usc_section: "40931"
 chapter: 409
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "34 U.S.C. § 40931"
-generated_at: "2026-03-30T02:25:04.836Z"
+generated_at: "2026-03-30T02:28:26.128Z"
 ---
 
 # § 40931. Continuing evaluations

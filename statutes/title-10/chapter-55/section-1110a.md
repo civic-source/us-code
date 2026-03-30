@@ -3,9 +3,9 @@ title: "Section 1110a - Notification of certain individuals regarding options fo
 usc_title: 10
 usc_section: "1110a"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 1110a"
-generated_at: "2026-03-30T02:24:07.199Z"
+generated_at: "2026-03-30T02:26:40.856Z"
 ---
 
 # § 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B

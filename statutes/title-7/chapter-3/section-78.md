@@ -3,9 +3,9 @@ title: "Section 78 - Use of official grade designations required; false or misle
 usc_title: 7
 usc_section: "78"
 chapter: 3
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "7 U.S.C. § 78"
-generated_at: "2026-03-30T02:24:00.856Z"
+generated_at: "2026-03-30T02:26:56.110Z"
 ---
 
 # § 78. Use of official grade designations required; false or misleading grade designations for grain shipped out of the United States

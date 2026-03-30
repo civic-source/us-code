@@ -3,9 +3,9 @@ title: "Section 3793 - Copyrights, patents, designs, etc.; acquisition"
 usc_title: 10
 usc_section: "3793"
 chapter: 275
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 3793"
-generated_at: "2026-03-30T02:24:07.286Z"
+generated_at: "2026-03-30T02:26:40.921Z"
 ---
 
 # § 3793. Copyrights, patents, designs, etc.; acquisition

@@ -3,9 +3,9 @@ title: "Section 372 - Laws operative within judicial district of Arkansas"
 usc_title: 16
 usc_section: "372"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 372"
-generated_at: "2026-03-30T02:24:34.013Z"
+generated_at: "2026-03-30T02:27:37.876Z"
 ---
 
 # § 372. Laws operative within judicial district of Arkansas

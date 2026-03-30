@@ -3,9 +3,9 @@ title: "Section 8455 - Midshipmen: allotment upon redistricting of Congressional
 usc_title: 10
 usc_section: "8455"
 chapter: 853
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 8455"
-generated_at: "2026-03-30T02:24:07.320Z"
+generated_at: "2026-03-30T02:26:40.947Z"
 ---
 
 # § 8455. Midshipmen: allotment upon redistricting of Congressional Districts

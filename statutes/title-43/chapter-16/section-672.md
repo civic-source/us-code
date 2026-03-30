@@ -3,9 +3,9 @@ title: "Section 672 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "672"
 chapter: 16
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 672"
-generated_at: "2026-03-30T02:25:17.804Z"
+generated_at: "2026-03-30T02:28:34.716Z"
 ---
 
 # § 672. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

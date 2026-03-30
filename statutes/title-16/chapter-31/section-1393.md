@@ -3,9 +3,9 @@ title: "Section 1393 - Conservation and mitigation assistance"
 usc_title: 16
 usc_section: "1393"
 chapter: 31
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 1393"
-generated_at: "2026-03-30T02:24:34.181Z"
+generated_at: "2026-03-30T02:27:38.038Z"
 ---
 
 # § 1393. Conservation and mitigation assistance

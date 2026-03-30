@@ -3,9 +3,9 @@ title: "Section 5534 - Dual employment and pay of Reserves and National Guardsme
 usc_title: 5
 usc_section: "5534"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "5 U.S.C. § 5534"
-generated_at: "2026-03-30T02:23:53.297Z"
+generated_at: "2026-03-30T02:26:26.273Z"
 ---
 
 # § 5534. Dual employment and pay of Reserves and National Guardsmen

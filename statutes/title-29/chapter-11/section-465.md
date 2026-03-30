@@ -3,9 +3,9 @@ title: "Section 465 - Report to Congress"
 usc_title: 29
 usc_section: "465"
 chapter: 11
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 465"
-generated_at: "2026-03-30T02:24:47.321Z"
+generated_at: "2026-03-30T02:27:51.083Z"
 ---
 
 # § 465. Report to Congress

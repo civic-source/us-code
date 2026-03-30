@@ -3,9 +3,9 @@ title: "Section 397b - Procurement of lands"
 usc_title: 16
 usc_section: "397b"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 397b"
-generated_at: "2026-03-30T02:24:34.015Z"
+generated_at: "2026-03-30T02:27:37.878Z"
 ---
 
 # § 397b. Procurement of lands

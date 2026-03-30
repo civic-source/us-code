@@ -3,9 +3,9 @@ title: "Section 7503 - Time for performance of acts where last day falls on Satu
 usc_title: 26
 usc_section: "7503"
 chapter: 77
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 7503"
-generated_at: "2026-03-30T02:24:56.085Z"
+generated_at: "2026-03-30T02:28:12.442Z"
 ---
 
 # § 7503. Time for performance of acts where last day falls on Saturday, Sunday, or legal holiday

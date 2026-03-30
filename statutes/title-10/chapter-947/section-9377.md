@@ -3,9 +3,9 @@ title: "Section 9377 - Civilian special agents of the Office of Special Investig
 usc_title: 10
 usc_section: "9377"
 chapter: 947
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 9377"
-generated_at: "2026-03-30T02:24:07.335Z"
+generated_at: "2026-03-30T02:26:40.959Z"
 ---
 
 # § 9377. Civilian special agents of the Office of Special Investigations: authority to execute warrants and make arrests

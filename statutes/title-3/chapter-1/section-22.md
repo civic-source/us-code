@@ -3,9 +3,9 @@ title: "Section 22 - Severability"
 usc_title: 3
 usc_section: "22"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "3 U.S.C. § 22"
-generated_at: "2026-03-30T02:23:49.125Z"
+generated_at: "2026-03-30T02:26:21.782Z"
 ---
 
 # § 22. Severability

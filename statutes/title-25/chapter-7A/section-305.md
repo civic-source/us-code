@@ -3,9 +3,9 @@ title: "Section 305 - Indian Arts and Crafts Board; creation and composition; pe
 usc_title: 25
 usc_section: "305"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "25 U.S.C. § 305"
-generated_at: "2026-03-30T02:24:38.397Z"
+generated_at: "2026-03-30T02:27:43.708Z"
 ---
 
 # § 305. Indian Arts and Crafts Board; creation and composition; per diem payments

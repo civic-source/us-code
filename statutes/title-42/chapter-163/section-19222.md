@@ -3,9 +3,9 @@ title: "Section 19222 - National research and development strategy for distribut
 usc_title: 42
 usc_section: "19222"
 chapter: 163
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 19222"
-generated_at: "2026-03-30T02:25:37.706Z"
+generated_at: "2026-03-30T02:28:50.888Z"
 ---
 
 # § 19222. National research and development strategy for distributed ledger technology

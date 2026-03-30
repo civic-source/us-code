@@ -3,9 +3,9 @@ title: "Section 2872 - General authority"
 usc_title: 10
 usc_section: "2872"
 chapter: 169
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2872"
-generated_at: "2026-03-30T02:24:07.269Z"
+generated_at: "2026-03-30T02:26:40.909Z"
 ---
 
 # § 2872. General authority

@@ -3,9 +3,9 @@ title: "Section 113 - Prevailing rate of wage"
 usc_title: 23
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "23 U.S.C. § 113"
-generated_at: "2026-03-30T02:24:37.431Z"
+generated_at: "2026-03-30T02:27:40.945Z"
 ---
 
 # § 113. Prevailing rate of wage

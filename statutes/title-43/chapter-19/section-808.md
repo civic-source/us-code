@@ -3,9 +3,9 @@ title: "Section 808 - Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76 Stat
 usc_title: 43
 usc_section: "808"
 chapter: 19
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 808"
-generated_at: "2026-03-30T02:25:17.807Z"
+generated_at: "2026-03-30T02:28:34.717Z"
 ---
 
 # §§ 791 to 808. Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76 Stat. 246

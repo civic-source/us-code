@@ -3,9 +3,9 @@ title: "Section 504 - Rehabilitation and betterment of Federal reclamation proje
 usc_title: 43
 usc_section: "504"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 504"
-generated_at: "2026-03-30T02:25:17.799Z"
+generated_at: "2026-03-30T02:28:34.707Z"
 ---
 
 # § 504. Rehabilitation and betterment of Federal reclamation projects, including small reclamation proj­ects; return of costs; interest; definitions; performance of work

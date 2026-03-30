@@ -3,9 +3,9 @@ title: "Section 290jj - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290jj"
 chapter: 6
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 290jj"
-generated_at: "2026-03-30T02:25:37.010Z"
+generated_at: "2026-03-30T02:28:50.029Z"
 ---
 
 # § 290jj. Requirement relating to the rights of residents of certain non-medical, community-based facilities for children and youth

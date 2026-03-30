@@ -3,9 +3,9 @@ title: "Section 47145 - Pilot program for airport accessibility"
 usc_title: 49
 usc_section: "47145"
 chapter: 471
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "49 U.S.C. § 47145"
-generated_at: "2026-03-30T02:26:04.149Z"
+generated_at: "2026-03-30T02:28:59.955Z"
 ---
 
 # § 47145. Pilot program for airport accessibility

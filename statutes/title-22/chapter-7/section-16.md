@@ -3,9 +3,9 @@ title: "Section 16 - Ninth replenishment"
 usc_title: 22
 usc_section: "16"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 16"
-generated_at: "2026-03-30T02:24:42.654Z"
+generated_at: "2026-03-30T02:27:45.963Z"
 ---
 
 # § 290g–16. Ninth replenishment

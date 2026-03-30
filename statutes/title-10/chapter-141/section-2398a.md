@@ -3,9 +3,9 @@ title: "Section 2398a - Renumbered § 2922d]"
 usc_title: 10
 usc_section: "2398a"
 chapter: 141
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2398a"
-generated_at: "2026-03-30T02:24:07.246Z"
+generated_at: "2026-03-30T02:26:40.892Z"
 ---
 
 # [§ 2398a. Renumbered § 2922d]

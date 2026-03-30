@@ -3,9 +3,9 @@ title: "Section 3 - Settlement of projects on agricultural basis"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:24:34.116Z"
+generated_at: "2026-03-30T02:27:37.977Z"
 ---
 
 # § 590z–3. Settlement of projects on agricultural basis

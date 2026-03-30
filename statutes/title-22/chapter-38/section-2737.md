@@ -3,9 +3,9 @@ title: "Section 2737 - Department of State paid Student Internship Program"
 usc_title: 22
 usc_section: "2737"
 chapter: 38
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 2737"
-generated_at: "2026-03-30T02:24:42.718Z"
+generated_at: "2026-03-30T02:27:46.025Z"
 ---
 
 # § 2737. Department of State paid Student Internship Program

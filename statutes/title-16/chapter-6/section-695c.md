@@ -3,9 +3,9 @@ title: "Section 695c - Availability of funds for construction of dams, buildings
 usc_title: 16
 usc_section: "695c"
 chapter: 6
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 695c"
-generated_at: "2026-03-30T02:24:34.126Z"
+generated_at: "2026-03-30T02:27:37.986Z"
 ---
 
 # § 695c. Availability of funds for construction of dams, buildings, etc., for California refuge

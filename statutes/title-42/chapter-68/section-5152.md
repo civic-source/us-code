@@ -3,9 +3,9 @@ title: "Section 5152 - Use and coordination of relief organizations"
 usc_title: 42
 usc_section: "5152"
 chapter: 68
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 5152"
-generated_at: "2026-03-30T02:25:37.417Z"
+generated_at: "2026-03-30T02:28:50.531Z"
 ---
 
 # § 5152. Use and coordination of relief organizations

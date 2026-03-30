@@ -3,9 +3,9 @@ title: "Section 1593 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 19
 usc_section: "1593"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "19 U.S.C. § 1593"
-generated_at: "2026-03-30T02:24:30.134Z"
+generated_at: "2026-03-30T02:27:30.855Z"
 ---
 
 # § 1593. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

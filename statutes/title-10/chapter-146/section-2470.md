@@ -3,9 +3,9 @@ title: "Section 2470 - Depot-level activities of the Department of Defense: auth
 usc_title: 10
 usc_section: "2470"
 chapter: 146
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2470"
-generated_at: "2026-03-30T02:24:07.248Z"
+generated_at: "2026-03-30T02:26:40.893Z"
 ---
 
 # § 2470. Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies

@@ -3,9 +3,9 @@ title: "Section 208 - Complaints to Commission; investigations; duration of inve
 usc_title: 47
 usc_section: "208"
 chapter: 5
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "47 U.S.C. § 208"
-generated_at: "2026-03-30T02:25:45.712Z"
+generated_at: "2026-03-30T02:28:54.102Z"
 ---
 
 # § 208. Complaints to Commission; investigations; duration of investigation; appeal of order concluding investigation

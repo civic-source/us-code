@@ -3,9 +3,9 @@ title: "Section 475 - Annual installments on entries and contracts prior to Augu
 usc_title: 43
 usc_section: "475"
 chapter: 12
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 475"
-generated_at: "2026-03-30T02:25:17.798Z"
+generated_at: "2026-03-30T02:28:34.705Z"
 ---
 
 # § 475. Annual installments on entries and contracts prior to August 13, 1914

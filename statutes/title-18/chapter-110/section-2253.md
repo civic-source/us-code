@@ -3,9 +3,9 @@ title: "Section 2253 - Criminal forfeiture"
 usc_title: 18
 usc_section: "2253"
 chapter: 110
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 2253"
-generated_at: "2026-03-30T02:24:24.125Z"
+generated_at: "2026-03-30T02:27:34.418Z"
 ---
 
 # § 2253. Criminal forfeiture

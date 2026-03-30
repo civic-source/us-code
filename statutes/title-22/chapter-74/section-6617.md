@@ -3,9 +3,9 @@ title: "Section 6617 - Final report"
 usc_title: 22
 usc_section: "6617"
 chapter: 74
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 6617"
-generated_at: "2026-03-30T02:24:42.773Z"
+generated_at: "2026-03-30T02:27:46.077Z"
 ---
 
 # § 6617. Final report

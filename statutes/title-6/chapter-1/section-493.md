@@ -3,9 +3,9 @@ title: "Section 493 - Membership"
 usc_title: 6
 usc_section: "493"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "6 U.S.C. § 493"
-generated_at: "2026-03-30T02:23:56.384Z"
+generated_at: "2026-03-30T02:26:30.324Z"
 ---
 
 # § 493. Membership

@@ -3,9 +3,9 @@ title: "Section 266 - Authorization of appropriations for acquisition of additio
 usc_title: 16
 usc_section: "266"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 266"
-generated_at: "2026-03-30T02:24:34.008Z"
+generated_at: "2026-03-30T02:27:37.872Z"
 ---
 
 # § 266. Authorization of appropriations for acquisition of additional lands

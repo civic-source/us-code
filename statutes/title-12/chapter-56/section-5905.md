@@ -3,9 +3,9 @@ title: "Section 5905 - Supervision and enforcement with respect to Federal quali
 usc_title: 12
 usc_section: "5905"
 chapter: 56
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "12 U.S.C. § 5905"
-generated_at: "2026-03-30T02:24:16.132Z"
+generated_at: "2026-03-30T02:27:02.862Z"
 ---
 
 # § 5905. Supervision and enforcement with respect to Federal qualified payment stablecoin issuers and subsidiaries of insured depository institutions

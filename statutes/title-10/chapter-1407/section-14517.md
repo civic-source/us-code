@@ -3,9 +3,9 @@ title: "Section 14517 - Entitlement of officers discharged under this chapter to
 usc_title: 10
 usc_section: "14517"
 chapter: 1407
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 14517"
-generated_at: "2026-03-30T02:24:07.353Z"
+generated_at: "2026-03-30T02:26:40.973Z"
 ---
 
 # § 14517. Entitlement of officers discharged under this chapter to separation pay

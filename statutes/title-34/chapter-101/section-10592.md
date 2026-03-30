@@ -3,9 +3,9 @@ title: "Section 10592 - Use of grant funds"
 usc_title: 34
 usc_section: "10592"
 chapter: 101
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "34 U.S.C. § 10592"
-generated_at: "2026-03-30T02:25:04.785Z"
+generated_at: "2026-03-30T02:28:26.084Z"
 ---
 
 # § 10592. Use of grant funds

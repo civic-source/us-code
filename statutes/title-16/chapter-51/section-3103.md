@@ -3,9 +3,9 @@ title: "Section 3103 - Maps"
 usc_title: 16
 usc_section: "3103"
 chapter: 51
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3103"
-generated_at: "2026-03-30T02:24:34.218Z"
+generated_at: "2026-03-30T02:27:38.071Z"
 ---
 
 # § 3103. Maps

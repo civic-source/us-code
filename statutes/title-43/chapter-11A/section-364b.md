@@ -3,9 +3,9 @@ title: "Section 364b - Formulation of principles, policies and procedures; actio
 usc_title: 43
 usc_section: "364b"
 chapter: 11
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "43 U.S.C. § 364b"
-generated_at: "2026-03-30T02:25:17.789Z"
+generated_at: "2026-03-30T02:28:34.694Z"
 ---
 
 # § 364b. Formulation of principles, policies and procedures; action by Secretary; recommendations of Board

@@ -3,9 +3,9 @@ title: "Section 3333 - Program approval"
 usc_title: 16
 usc_section: "3333"
 chapter: 52
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3333"
-generated_at: "2026-03-30T02:24:34.222Z"
+generated_at: "2026-03-30T02:27:38.077Z"
 ---
 
 # § 3333. Program approval

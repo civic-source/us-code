@@ -3,9 +3,9 @@ title: "Section 495 - Renumbered § 435]"
 usc_title: 37
 usc_section: "495"
 chapter: 8
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "37 U.S.C. § 495"
-generated_at: "2026-03-30T02:25:07.791Z"
+generated_at: "2026-03-30T02:28:28.408Z"
 ---
 
 # [§ 495. Renumbered § 435]

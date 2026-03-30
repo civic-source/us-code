@@ -3,9 +3,9 @@ title: "Section 1 - Findings"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:24:19.931Z"
+generated_at: "2026-03-30T02:27:25.571Z"
 ---
 
 # § 80b–1. Findings

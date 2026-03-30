@@ -3,9 +3,9 @@ title: "Section 2521 - Injunction against illegal interception"
 usc_title: 18
 usc_section: "2521"
 chapter: 119
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 2521"
-generated_at: "2026-03-30T02:24:24.133Z"
+generated_at: "2026-03-30T02:27:34.426Z"
 ---
 
 # § 2521. Injunction against illegal interception

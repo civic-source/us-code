@@ -3,9 +3,9 @@ title: "Section 3735 - Expansion of the United States and Foreign Commercial Ser
 usc_title: 19
 usc_section: "3735"
 chapter: 23
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "19 U.S.C. § 3735"
-generated_at: "2026-03-30T02:24:30.176Z"
+generated_at: "2026-03-30T02:27:30.896Z"
 ---
 
 # § 3735. Expansion of the United States and Foreign Commercial Service in sub-Saharan Africa

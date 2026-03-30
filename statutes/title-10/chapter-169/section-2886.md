@@ -3,9 +3,9 @@ title: "Section 2886 - Repealed. Pub. L. 116–92, div. B, title XXX, § 3014(d)
 usc_title: 10
 usc_section: "2886"
 chapter: 169
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2886"
-generated_at: "2026-03-30T02:24:07.270Z"
+generated_at: "2026-03-30T02:26:40.910Z"
 ---
 
 # [§ 2886. Repealed. Pub. L. 116–92, div. B, title XXX, § 3014(d)(1) , Dec. 20, 2019 , 133 Stat. 1926 ]

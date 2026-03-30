@@ -3,9 +3,9 @@ title: "Section 5 - Investment advisory contracts"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T02:24:19.933Z"
+generated_at: "2026-03-30T02:27:25.572Z"
 ---
 
 # § 80b–5. Investment advisory contracts

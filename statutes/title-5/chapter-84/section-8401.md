@@ -3,9 +3,9 @@ title: "Section 8401 - Definitions"
 usc_title: 5
 usc_section: "8401"
 chapter: 84
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "5 U.S.C. § 8401"
-generated_at: "2026-03-30T02:23:53.330Z"
+generated_at: "2026-03-30T02:26:26.300Z"
 ---
 
 # § 8401. Definitions

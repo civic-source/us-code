@@ -3,9 +3,9 @@ title: "Section 6363 - Federal actions with respect to recycled oil"
 usc_title: 42
 usc_section: "6363"
 chapter: 77
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 6363"
-generated_at: "2026-03-30T02:25:37.449Z"
+generated_at: "2026-03-30T02:28:50.570Z"
 ---
 
 # § 6363. Federal actions with respect to recycled oil

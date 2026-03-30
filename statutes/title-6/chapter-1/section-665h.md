@@ -3,9 +3,9 @@ title: "Section 665h - National Cyber Exercise Program"
 usc_title: 6
 usc_section: "665h"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "6 U.S.C. § 665h"
-generated_at: "2026-03-30T02:23:56.393Z"
+generated_at: "2026-03-30T02:26:30.334Z"
 ---
 
 # § 665h. National Cyber Exercise Program

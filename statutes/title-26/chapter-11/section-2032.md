@@ -3,9 +3,9 @@ title: "Section 2032 - Alternate valuation"
 usc_title: 26
 usc_section: "2032"
 chapter: 11
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 2032"
-generated_at: "2026-03-30T02:24:55.993Z"
+generated_at: "2026-03-30T02:28:12.349Z"
 ---
 
 # § 2032. Alternate valuation

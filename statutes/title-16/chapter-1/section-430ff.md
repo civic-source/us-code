@@ -3,9 +3,9 @@ title: "Section 430ff - Horseshoe Bend National Military Park; establishment"
 usc_title: 16
 usc_section: "430ff"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 430ff"
-generated_at: "2026-03-30T02:24:34.049Z"
+generated_at: "2026-03-30T02:27:37.911Z"
 ---
 
 # § 430ff. Horseshoe Bend National Military Park; establishment

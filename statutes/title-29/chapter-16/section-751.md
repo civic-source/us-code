@@ -3,9 +3,9 @@ title: "Section 751 - Data sharing"
 usc_title: 29
 usc_section: "751"
 chapter: 16
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 751"
-generated_at: "2026-03-30T02:24:47.330Z"
+generated_at: "2026-03-30T02:27:51.093Z"
 ---
 
 # § 751. Data sharing

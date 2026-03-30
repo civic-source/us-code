@@ -3,9 +3,9 @@ title: "Section 498a - Repealed. Pub. L. 100–17, title I, § 135(b) , Apr. 2, 
 usc_title: 33
 usc_section: "498a"
 chapter: 11
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 498a"
-generated_at: "2026-03-30T02:25:00.107Z"
+generated_at: "2026-03-30T02:28:24.823Z"
 ---
 
 # § 498a. Repealed. Pub. L. 100–17, title I, § 135(b) , Apr. 2, 1987 , 101 Stat. 174

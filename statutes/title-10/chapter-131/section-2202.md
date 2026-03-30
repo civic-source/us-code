@@ -3,9 +3,9 @@ title: "Section 2202 - Regulations on production, warehousing, and supply distri
 usc_title: 10
 usc_section: "2202"
 chapter: 131
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2202"
-generated_at: "2026-03-30T02:24:07.237Z"
+generated_at: "2026-03-30T02:26:40.885Z"
 ---
 
 # § 2202. Regulations on production, warehousing, and supply distribution functions

@@ -3,9 +3,9 @@ title: "Section 419 - Civilian clothing allowance"
 usc_title: 37
 usc_section: "419"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "37 U.S.C. § 419"
-generated_at: "2026-03-30T02:25:07.788Z"
+generated_at: "2026-03-30T02:28:28.407Z"
 ---
 
 # § 419. Civilian clothing allowance

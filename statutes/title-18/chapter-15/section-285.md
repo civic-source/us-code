@@ -3,9 +3,9 @@ title: "Section 285 - Taking or using papers relating to claims"
 usc_title: 18
 usc_section: "285"
 chapter: 15
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 285"
-generated_at: "2026-03-30T02:24:24.097Z"
+generated_at: "2026-03-30T02:27:34.388Z"
 ---
 
 # § 285. Taking or using papers relating to claims

@@ -3,9 +3,9 @@ title: "Section 19155 - Cultural and institutional barriers to expanding the aca
 usc_title: 42
 usc_section: "19155"
 chapter: 163
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 19155"
-generated_at: "2026-03-30T02:25:37.705Z"
+generated_at: "2026-03-30T02:28:50.885Z"
 ---
 
 # § 19155. Cultural and institutional barriers to expanding the academic and Federal STEM workforce

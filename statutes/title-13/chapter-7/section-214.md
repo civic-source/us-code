@@ -3,9 +3,9 @@ title: "Section 214 - Wrongful disclosure of information"
 usc_title: 13
 usc_section: "214"
 chapter: 7
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "13 U.S.C. § 214"
-generated_at: "2026-03-30T02:24:09.582Z"
+generated_at: "2026-03-30T02:26:59.787Z"
 ---
 
 # § 214. Wrongful disclosure of information

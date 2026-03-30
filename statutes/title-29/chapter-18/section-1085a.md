@@ -3,9 +3,9 @@ title: "Section 1085a - Minimum funding standards"
 usc_title: 29
 usc_section: "1085a"
 chapter: 18
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "29 U.S.C. § 1085a"
-generated_at: "2026-03-30T02:24:47.350Z"
+generated_at: "2026-03-30T02:27:51.115Z"
 ---
 
 # § 1085a. Minimum funding standards

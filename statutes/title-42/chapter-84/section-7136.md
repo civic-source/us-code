@@ -3,9 +3,9 @@ title: "Section 7136 - Economic Regulatory Administration; appointment of Admini
 usc_title: 42
 usc_section: "7136"
 chapter: 84
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 7136"
-generated_at: "2026-03-30T02:25:37.472Z"
+generated_at: "2026-03-30T02:28:50.598Z"
 ---
 
 # § 7136. Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions

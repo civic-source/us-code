@@ -3,9 +3,9 @@ title: "Section 409e - Administration, protection, and development"
 usc_title: 16
 usc_section: "409e"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 409e"
-generated_at: "2026-03-30T02:24:34.018Z"
+generated_at: "2026-03-30T02:27:37.882Z"
 ---
 
 # § 409e. Administration, protection, and development

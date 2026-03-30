@@ -3,9 +3,9 @@ title: "Section 165 - Combatant commands: administration and support"
 usc_title: 10
 usc_section: "165"
 chapter: 6
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 165"
-generated_at: "2026-03-30T02:24:07.135Z"
+generated_at: "2026-03-30T02:26:40.808Z"
 ---
 
 # § 165. Combatant commands: administration and support

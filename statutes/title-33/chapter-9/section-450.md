@@ -3,9 +3,9 @@ title: "Section 450 - Liability of vessel"
 usc_title: 33
 usc_section: "450"
 chapter: 9
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 450"
-generated_at: "2026-03-30T02:25:00.104Z"
+generated_at: "2026-03-30T02:28:24.822Z"
 ---
 
 # § 450. Liability of vessel

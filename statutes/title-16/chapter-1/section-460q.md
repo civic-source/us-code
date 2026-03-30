@@ -3,9 +3,9 @@ title: "Section 460q - Establishment; boundaries; administration; integrated man
 usc_title: 16
 usc_section: "460q"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 460q"
-generated_at: "2026-03-30T02:24:34.064Z"
+generated_at: "2026-03-30T02:27:37.925Z"
 ---
 
 # § 460q. Establishment; boundaries; administration; integrated management policies

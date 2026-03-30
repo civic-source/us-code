@@ -3,9 +3,9 @@ title: "Section 7f - Collaboration and coordination"
 usc_title: 42
 usc_section: "7f"
 chapter: 6
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T02:25:36.944Z"
+generated_at: "2026-03-30T02:28:49.956Z"
 ---
 
 # § 247d–7f. Collaboration and coordination

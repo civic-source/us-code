@@ -3,9 +3,9 @@ title: "Section 9062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "9062"
 chapter: 907
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 9062"
-generated_at: "2026-03-30T02:24:07.332Z"
+generated_at: "2026-03-30T02:26:40.957Z"
 ---
 
 # § 9062. Policy; composition; aircraft authorization

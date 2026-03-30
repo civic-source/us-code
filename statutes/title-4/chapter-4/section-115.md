@@ -3,9 +3,9 @@ title: "Section 115 - Limitation on State authority to tax compensation paid to 
 usc_title: 4
 usc_section: "115"
 chapter: 4
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "4 U.S.C. § 115"
-generated_at: "2026-03-30T02:23:48.473Z"
+generated_at: "2026-03-30T02:26:21.664Z"
 ---
 
 # § 115. Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky

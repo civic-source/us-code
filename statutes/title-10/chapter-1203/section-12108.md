@@ -3,9 +3,9 @@ title: "Section 12108 - Enlisted members: discharge or retirement for years of s
 usc_title: 10
 usc_section: "12108"
 chapter: 1203
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 12108"
-generated_at: "2026-03-30T02:24:07.346Z"
+generated_at: "2026-03-30T02:26:40.967Z"
 ---
 
 # § 12108. Enlisted members: discharge or retirement for years of service or for age

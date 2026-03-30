@@ -3,9 +3,9 @@ title: "Section 3371 - Required counterintelligence assessments, briefings, noti
 usc_title: 50
 usc_section: "3371"
 chapter: 45
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "50 U.S.C. § 3371"
-generated_at: "2026-03-30T02:26:05.771Z"
+generated_at: "2026-03-30T02:29:01.355Z"
 ---
 
 # § 3371. Required counterintelligence assessments, briefings, notifications, and reports

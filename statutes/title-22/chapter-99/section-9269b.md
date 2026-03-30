@@ -3,9 +3,9 @@ title: "Section 9269b - Waivers, exemptions, and termination"
 usc_title: 22
 usc_section: "9269b"
 chapter: 99
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 9269b"
-generated_at: "2026-03-30T02:24:42.808Z"
+generated_at: "2026-03-30T02:27:46.110Z"
 ---
 
 # § 9269b. Waivers, exemptions, and termination

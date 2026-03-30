@@ -3,9 +3,9 @@ title: "Section 3716 - Administrative offset"
 usc_title: 31
 usc_section: "3716"
 chapter: 37
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "31 U.S.C. § 3716"
-generated_at: "2026-03-30T02:24:58.767Z"
+generated_at: "2026-03-30T02:28:15.313Z"
 ---
 
 # § 3716. Administrative offset

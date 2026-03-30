@@ -3,9 +3,9 @@ title: "Section 244a - Materials and resources to increase education and awarene
 usc_title: 42
 usc_section: "244a"
 chapter: 6
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 244a"
-generated_at: "2026-03-30T02:25:36.931Z"
+generated_at: "2026-03-30T02:28:49.941Z"
 ---
 
 # § 244a. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families

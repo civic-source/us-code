@@ -3,9 +3,9 @@ title: "Section 1625 - Authorization for verification of eligibility for State a
 usc_title: 8
 usc_section: "1625"
 chapter: 14
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "8 U.S.C. § 1625"
-generated_at: "2026-03-30T02:23:57.123Z"
+generated_at: "2026-03-30T02:26:41.968Z"
 ---
 
 # § 1625. Authorization for verification of eligibility for State and local public benefits

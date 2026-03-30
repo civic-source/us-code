@@ -3,9 +3,9 @@ title: "Section 9801 - Repealed. Pub. L. 111–358, title X, § 1002(a)(1) , Jan
 usc_title: 20
 usc_section: "9801"
 chapter: 78
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "20 U.S.C. § 9801"
-generated_at: "2026-03-30T02:24:28.457Z"
+generated_at: "2026-03-30T02:27:33.405Z"
 ---
 
 # § 9801. Repealed. Pub. L. 111–358, title X, § 1002(a)(1) , Jan. 4, 2011 , 124 Stat. 4048

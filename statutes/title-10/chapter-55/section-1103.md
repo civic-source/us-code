@@ -3,9 +3,9 @@ title: "Section 1103 - Contracts for medical and dental care: State and local pr
 usc_title: 10
 usc_section: "1103"
 chapter: 55
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 1103"
-generated_at: "2026-03-30T02:24:07.198Z"
+generated_at: "2026-03-30T02:26:40.855Z"
 ---
 
 # § 1103. Contracts for medical and dental care: State and local preemption

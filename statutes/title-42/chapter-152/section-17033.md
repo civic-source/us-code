@@ -3,9 +3,9 @@ title: "Section 17033 - Biofuels and biorefinery information center"
 usc_title: 42
 usc_section: "17033"
 chapter: 152
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "42 U.S.C. § 17033"
-generated_at: "2026-03-30T02:25:37.660Z"
+generated_at: "2026-03-30T02:28:50.832Z"
 ---
 
 # § 17033. Biofuels and biorefinery information center

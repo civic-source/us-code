@@ -3,9 +3,9 @@ title: "Section 1037 - Certain exchanges of United States obligations"
 usc_title: 26
 usc_section: "1037"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 1037"
-generated_at: "2026-03-30T02:24:55.971Z"
+generated_at: "2026-03-30T02:28:12.327Z"
 ---
 
 # § 1037. Certain exchanges of United States obligations

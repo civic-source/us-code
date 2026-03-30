@@ -3,9 +3,9 @@ title: "Section 2154 - Production of defective war material, war premises, or wa
 usc_title: 18
 usc_section: "2154"
 chapter: 105
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "18 U.S.C. § 2154"
-generated_at: "2026-03-30T02:24:24.123Z"
+generated_at: "2026-03-30T02:27:34.416Z"
 ---
 
 # § 2154. Production of defective war material, war premises, or war utilities

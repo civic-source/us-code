@@ -3,9 +3,9 @@ title: "Section 6050W - Returns relating to payments made in settlement of payme
 usc_title: 26
 usc_section: "6050W"
 chapter: 61
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "26 U.S.C. § 6050W"
-generated_at: "2026-03-30T02:24:56.046Z"
+generated_at: "2026-03-30T02:28:12.402Z"
 ---
 
 # § 6050W. Returns relating to payments made in settlement of payment card and third party network transactions

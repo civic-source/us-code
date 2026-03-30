@@ -3,9 +3,9 @@ title: "Section 298 - Omitted"
 usc_title: 22
 usc_section: "298"
 chapter: 8
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "22 U.S.C. § 298"
-generated_at: "2026-03-30T02:24:42.657Z"
+generated_at: "2026-03-30T02:27:45.967Z"
 ---
 
 # § 298. Omitted

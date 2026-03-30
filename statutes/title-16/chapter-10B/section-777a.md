@@ -3,9 +3,9 @@ title: "Section 777a - Definitions"
 usc_title: 16
 usc_section: "777a"
 chapter: 10
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 777a"
-generated_at: "2026-03-30T02:24:34.136Z"
+generated_at: "2026-03-30T02:27:37.996Z"
 ---
 
 # § 777a. Definitions

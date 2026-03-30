@@ -3,9 +3,9 @@ title: "Section 1821a - FSLIC Resolution Fund"
 usc_title: 12
 usc_section: "1821a"
 chapter: 16
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "12 U.S.C. § 1821a"
-generated_at: "2026-03-30T02:24:16.023Z"
+generated_at: "2026-03-30T02:27:02.768Z"
 ---
 
 # § 1821a. FSLIC Resolution Fund

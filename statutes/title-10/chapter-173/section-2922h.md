@@ -3,9 +3,9 @@ title: "Section 2922h - Repealed. Pub. L. 118–159, div. A, title III, § 315(a
 usc_title: 10
 usc_section: "2922h"
 chapter: 173
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "10 U.S.C. § 2922h"
-generated_at: "2026-03-30T02:24:07.274Z"
+generated_at: "2026-03-30T02:26:40.913Z"
 ---
 
 # [§ 2922h. Repealed. Pub. L. 118–159, div. A, title III, § 315(a) , Dec. 23, 2024 , 138 Stat. 1851 ]

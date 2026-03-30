@@ -3,9 +3,9 @@ title: "Section 3632 - United States Section"
 usc_title: 16
 usc_section: "3632"
 chapter: 56
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 3632"
-generated_at: "2026-03-30T02:24:34.226Z"
+generated_at: "2026-03-30T02:27:38.079Z"
 ---
 
 # § 3632. United States Section

@@ -3,9 +3,9 @@ title: "Section 144 - National bridge and tunnel inventory and inspection standa
 usc_title: 23
 usc_section: "144"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "23 U.S.C. § 144"
-generated_at: "2026-03-30T02:24:37.439Z"
+generated_at: "2026-03-30T02:27:40.955Z"
 ---
 
 # § 144. National bridge and tunnel inventory and inspection standards

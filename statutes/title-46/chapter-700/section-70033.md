@@ -3,9 +3,9 @@ title: "Section 70033 - Limitation on application to foreign vessels"
 usc_title: 46
 usc_section: "70033"
 chapter: 700
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "46 U.S.C. § 70033"
-generated_at: "2026-03-30T02:25:49.390Z"
+generated_at: "2026-03-30T02:28:56.261Z"
 ---
 
 # § 70033. Limitation on application to foreign vessels

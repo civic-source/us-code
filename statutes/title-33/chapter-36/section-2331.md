@@ -3,9 +3,9 @@ title: "Section 2331 - Use of continuing contracts for construction of certain p
 usc_title: 33
 usc_section: "2331"
 chapter: 36
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "33 U.S.C. § 2331"
-generated_at: "2026-03-30T02:25:00.177Z"
+generated_at: "2026-03-30T02:28:24.888Z"
 ---
 
 # § 2331. Use of continuing contracts for construction of certain projects

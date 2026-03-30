@@ -3,9 +3,9 @@ title: "Section 4114 - Credentialing and licensure of veterans: demonstration pr
 usc_title: 38
 usc_section: "4114"
 chapter: 41
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "38 U.S.C. § 4114"
-generated_at: "2026-03-30T02:25:14.771Z"
+generated_at: "2026-03-30T02:28:31.227Z"
 ---
 
 # § 4114. Credentialing and licensure of veterans: demonstration project

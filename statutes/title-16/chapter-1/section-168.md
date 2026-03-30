@@ -3,9 +3,9 @@ title: "Section 168 - Repealed. May 24, 1949, ch. 139, § 142 , 63 Stat. 109"
 usc_title: 16
 usc_section: "168"
 chapter: 1
-current_through: "PL 119-31"
+current_through: "PL 119-33"
 classification: "16 U.S.C. § 168"
-generated_at: "2026-03-30T02:24:34.003Z"
+generated_at: "2026-03-30T02:27:37.866Z"
 ---
 
 # § 168. Repealed. May 24, 1949, ch. 139, § 142 , 63 Stat. 109
