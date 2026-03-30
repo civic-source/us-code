@@ -3,9 +3,9 @@ title: "Section 14303 - Eligibility for consideration for promotion: minimum yea
 usc_title: 10
 usc_section: "14303"
 chapter: 1405
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 14303"
-generated_at: "2026-03-30T07:18:47.495Z"
+generated_at: "2026-03-30T07:21:18.031Z"
 status: "active"
 ---
 

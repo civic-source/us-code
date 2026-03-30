@@ -3,9 +3,9 @@ title: "Section 721 - Repealed. Pub. L. 111–84, div. A, title V , § 502(i)(1)
 usc_title: 10
 usc_section: "721"
 chapter: 41
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 721"
-generated_at: "2026-03-30T07:18:47.377Z"
+generated_at: "2026-03-30T07:21:17.912Z"
 status: "repealed"
 ---
 

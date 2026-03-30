@@ -3,9 +3,9 @@ title: "Section 286u - Dollar-Special Drawing Rights substitution account"
 usc_title: 22
 usc_section: "286u"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 286u"
-generated_at: "2026-03-30T07:19:15.766Z"
+generated_at: "2026-03-30T07:22:06.492Z"
 status: "active"
 ---
 

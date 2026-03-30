@@ -3,9 +3,9 @@ title: "Section 3508 - Determination of necessity for information; hearing"
 usc_title: 44
 usc_section: "3508"
 chapter: 35
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "44 U.S.C. § 3508"
-generated_at: "2026-03-30T07:20:12.476Z"
+generated_at: "2026-03-30T07:22:35.342Z"
 status: "active"
 ---
 

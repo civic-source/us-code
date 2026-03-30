@@ -3,9 +3,9 @@ title: "Section 2621 - Safety measures for waste tanks at Hanford Nuclear Reserv
 usc_title: 50
 usc_section: "2621"
 chapter: 42
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 2621"
-generated_at: "2026-03-30T07:20:51.729Z"
+generated_at: "2026-03-30T07:23:09.700Z"
 status: "active"
 ---
 

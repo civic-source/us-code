@@ -3,9 +3,9 @@ title: "Section 6 - Transferred"
 usc_title: 42
 usc_section: "6"
 chapter: 46
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T07:20:27.438Z"
+generated_at: "2026-03-30T07:23:01.719Z"
 status: "transferred"
 ---
 

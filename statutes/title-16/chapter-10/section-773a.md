@@ -3,9 +3,9 @@ title: "Section 773a - International Pacific Halibut Commission"
 usc_title: 16
 usc_section: "773a"
 chapter: 10
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 773a"
-generated_at: "2026-03-30T07:19:06.054Z"
+generated_at: "2026-03-30T07:22:00.022Z"
 status: "active"
 ---
 

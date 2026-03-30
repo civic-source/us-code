@@ -3,9 +3,9 @@ title: "Section 5201 - Findings"
 usc_title: 7
 usc_section: "5201"
 chapter: 83
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 5201"
-generated_at: "2026-03-30T07:18:43.694Z"
+generated_at: "2026-03-30T07:21:14.625Z"
 status: "active"
 ---
 

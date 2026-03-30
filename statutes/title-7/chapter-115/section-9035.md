@@ -3,9 +3,9 @@ title: "Section 9035 - Loan deficiency payments"
 usc_title: 7
 usc_section: "9035"
 chapter: 115
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 9035"
-generated_at: "2026-03-30T07:18:43.745Z"
+generated_at: "2026-03-30T07:21:14.675Z"
 status: "active"
 ---
 

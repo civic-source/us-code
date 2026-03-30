@@ -3,9 +3,9 @@ title: "Section 583 - Oath of office"
 usc_title: 28
 usc_section: "583"
 chapter: 39
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 583"
-generated_at: "2026-03-30T07:19:20.194Z"
+generated_at: "2026-03-30T07:22:13.183Z"
 status: "active"
 ---
 

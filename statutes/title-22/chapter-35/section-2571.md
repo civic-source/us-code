@@ -3,9 +3,9 @@ title: "Section 2571 - Research, development and other studies"
 usc_title: 22
 usc_section: "2571"
 chapter: 35
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 2571"
-generated_at: "2026-03-30T07:19:15.813Z"
+generated_at: "2026-03-30T07:22:06.538Z"
 status: "active"
 ---
 

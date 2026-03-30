@@ -3,9 +3,9 @@ title: "Section 864a - Grants to reduce production of methamphetamines from anhy
 usc_title: 21
 usc_section: "864a"
 chapter: 13
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "21 U.S.C. § 864a"
-generated_at: "2026-03-30T07:19:09.440Z"
+generated_at: "2026-03-30T07:22:08.188Z"
 status: "active"
 ---
 

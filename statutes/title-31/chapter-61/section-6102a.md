@@ -3,9 +3,9 @@ title: "Section 6102a - Assistance awards information system"
 usc_title: 31
 usc_section: "6102a"
 chapter: 61
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "31 U.S.C. § 6102a"
-generated_at: "2026-03-30T07:19:33.901Z"
+generated_at: "2026-03-30T07:22:25.157Z"
 status: "active"
 ---
 

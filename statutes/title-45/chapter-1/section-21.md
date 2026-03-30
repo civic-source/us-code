@@ -3,9 +3,9 @@ title: "Section 21 - Repealed. Pub. L. 97–468, title VII , § 705, Jan. 14, 19
 usc_title: 45
 usc_section: "21"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "45 U.S.C. § 21"
-generated_at: "2026-03-30T07:20:11.934Z"
+generated_at: "2026-03-30T07:22:34.196Z"
 status: "repealed"
 ---
 

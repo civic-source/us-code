@@ -3,9 +3,9 @@ title: "Section 12681 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12681"
 chapter: 129
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 12681"
-generated_at: "2026-03-30T07:20:27.637Z"
+generated_at: "2026-03-30T07:23:01.910Z"
 status: "active"
 ---
 

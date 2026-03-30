@@ -3,9 +3,9 @@ title: "Section 1639j - Exclusion from Federal preemption"
 usc_title: 7
 usc_section: "1639j"
 chapter: 38
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 1639j"
-generated_at: "2026-03-30T07:18:43.637Z"
+generated_at: "2026-03-30T07:21:14.569Z"
 status: "active"
 ---
 

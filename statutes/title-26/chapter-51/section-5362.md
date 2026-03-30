@@ -3,9 +3,9 @@ title: "Section 5362 - Removals of wine from bonded wine cellars"
 usc_title: 26
 usc_section: "5362"
 chapter: 51
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 5362"
-generated_at: "2026-03-30T07:19:27.767Z"
+generated_at: "2026-03-30T07:22:21.851Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 287s - Amendments to constitution of Organization involving new 
 usc_title: 22
 usc_section: "287s"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 287s"
-generated_at: "2026-03-30T07:19:15.769Z"
+generated_at: "2026-03-30T07:22:06.494Z"
 status: "active"
 ---
 

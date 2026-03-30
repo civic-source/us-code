@@ -3,9 +3,9 @@ title: "Section 6167 - Extension of time for payment of tax attributable to reco
 usc_title: 26
 usc_section: "6167"
 chapter: 62
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 6167"
-generated_at: "2026-03-30T07:19:27.786Z"
+generated_at: "2026-03-30T07:22:21.872Z"
 status: "active"
 ---
 

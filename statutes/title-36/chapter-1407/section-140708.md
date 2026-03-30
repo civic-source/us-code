@@ -3,9 +3,9 @@ title: "Section 140708 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "140708"
 chapter: 1407
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "36 U.S.C. § 140708"
-generated_at: "2026-03-30T07:19:55.681Z"
+generated_at: "2026-03-30T07:22:29.181Z"
 status: "active"
 ---
 

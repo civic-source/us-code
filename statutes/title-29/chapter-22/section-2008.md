@@ -3,9 +3,9 @@ title: "Section 2008 - Disclosure of information"
 usc_title: 29
 usc_section: "2008"
 chapter: 22
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "29 U.S.C. § 2008"
-generated_at: "2026-03-30T07:19:19.514Z"
+generated_at: "2026-03-30T07:22:15.625Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3103 - Definitions"
 usc_title: 7
 usc_section: "3103"
 chapter: 64
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 3103"
-generated_at: "2026-03-30T07:18:43.679Z"
+generated_at: "2026-03-30T07:21:14.610Z"
 status: "active"
 ---
 

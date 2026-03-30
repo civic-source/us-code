@@ -3,9 +3,9 @@ title: "Section 1726 - Repealed. Pub. L. 107–171, title III , § 3006, May 13,
 usc_title: 7
 usc_section: "1726"
 chapter: 41
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 1726"
-generated_at: "2026-03-30T07:18:43.638Z"
+generated_at: "2026-03-30T07:21:14.570Z"
 status: "repealed"
 ---
 

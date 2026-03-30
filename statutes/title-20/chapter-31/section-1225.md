@@ -3,9 +3,9 @@ title: "Section 1225 - Availability of appropriations on academic or school-year
 usc_title: 20
 usc_section: "1225"
 chapter: 31
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "20 U.S.C. § 1225"
-generated_at: "2026-03-30T07:19:02.036Z"
+generated_at: "2026-03-30T07:21:47.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 142 - Privacy officer"
 usc_title: 6
 usc_section: "142"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "6 U.S.C. § 142"
-generated_at: "2026-03-30T07:18:40.095Z"
+generated_at: "2026-03-30T07:21:09.557Z"
 status: "active"
 ---
 

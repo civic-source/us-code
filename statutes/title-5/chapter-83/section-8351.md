@@ -3,9 +3,9 @@ title: "Section 8351 - Participation in the Thrift Savings Plan"
 usc_title: 5
 usc_section: "8351"
 chapter: 83
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "5 U.S.C. § 8351"
-generated_at: "2026-03-30T07:18:37.451Z"
+generated_at: "2026-03-30T07:21:07.517Z"
 status: "active"
 ---
 

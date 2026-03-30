@@ -3,9 +3,9 @@ title: "Section 4106 - Nonparticipation in flood insurance program"
 usc_title: 42
 usc_section: "4106"
 chapter: 50
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 4106"
-generated_at: "2026-03-30T07:20:27.444Z"
+generated_at: "2026-03-30T07:23:01.724Z"
 status: "active"
 ---
 

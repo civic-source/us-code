@@ -3,9 +3,9 @@ title: "Section 57 - Changes in investment policy"
 usc_title: 15
 usc_section: "57"
 chapter: 2
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 57"
-generated_at: "2026-03-30T07:18:56.218Z"
+generated_at: "2026-03-30T07:21:41.502Z"
 status: "active"
 ---
 

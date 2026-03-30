@@ -3,9 +3,9 @@ title: "Section 179C - Election to expense certain refineries"
 usc_title: 26
 usc_section: "179C"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 179C"
-generated_at: "2026-03-30T07:19:27.623Z"
+generated_at: "2026-03-30T07:22:21.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 154103 - Membership"
 usc_title: 36
 usc_section: "154103"
 chapter: 1541
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "36 U.S.C. § 154103"
-generated_at: "2026-03-30T07:19:55.685Z"
+generated_at: "2026-03-30T07:22:29.185Z"
 status: "active"
 ---
 

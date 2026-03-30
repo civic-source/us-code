@@ -3,9 +3,9 @@ title: "Section 2158 - Purchase and sale by Federal Reserve System"
 usc_title: 12
 usc_section: "2158"
 chapter: 23
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 2158"
-generated_at: "2026-03-30T07:18:52.916Z"
+generated_at: "2026-03-30T07:21:39.061Z"
 status: "active"
 ---
 

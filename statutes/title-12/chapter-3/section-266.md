@@ -3,9 +3,9 @@ title: "Section 266 - State-chartered banks and other institutions as depositari
 usc_title: 12
 usc_section: "266"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 266"
-generated_at: "2026-03-30T07:18:52.823Z"
+generated_at: "2026-03-30T07:21:38.956Z"
 status: "active"
 ---
 

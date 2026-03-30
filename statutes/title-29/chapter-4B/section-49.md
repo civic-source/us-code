@@ -3,9 +3,9 @@ title: "Section 49 - United States Employment Service established"
 usc_title: 29
 usc_section: "49"
 chapter: 4
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "29 U.S.C. § 49"
-generated_at: "2026-03-30T07:19:19.459Z"
+generated_at: "2026-03-30T07:22:15.573Z"
 status: "active"
 ---
 

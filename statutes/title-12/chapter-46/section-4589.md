@@ -3,9 +3,9 @@ title: "Section 4589 - Repealed. Pub. L. 110–289, div. A, title I , § 1122(a)
 usc_title: 12
 usc_section: "4589"
 chapter: 46
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 4589"
-generated_at: "2026-03-30T07:18:52.950Z"
+generated_at: "2026-03-30T07:21:39.097Z"
 status: "repealed"
 ---
 

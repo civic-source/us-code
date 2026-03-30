@@ -3,9 +3,9 @@ title: "Section 80502 - Application of Convention"
 usc_title: 46
 usc_section: "80502"
 chapter: 805
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "46 U.S.C. § 80502"
-generated_at: "2026-03-30T07:20:47.575Z"
+generated_at: "2026-03-30T07:23:05.425Z"
 status: "active"
 ---
 

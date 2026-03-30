@@ -3,9 +3,9 @@ title: "Section 1716D - Nonmailable injurious animals, plant pests, plants, and 
 usc_title: 18
 usc_section: "1716D"
 chapter: 83
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 1716D"
-generated_at: "2026-03-30T07:19:02.953Z"
+generated_at: "2026-03-30T07:21:56.013Z"
 status: "active"
 ---
 

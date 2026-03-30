@@ -3,9 +3,9 @@ title: "Section 902 - General authority of Secretary of Agriculture"
 usc_title: 7
 usc_section: "902"
 chapter: 31
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 902"
-generated_at: "2026-03-30T07:18:43.605Z"
+generated_at: "2026-03-30T07:21:14.538Z"
 status: "active"
 ---
 

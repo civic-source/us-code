@@ -3,9 +3,9 @@ title: "Section 61c - Omitted"
 usc_title: 2
 usc_section: "61c"
 chapter: 4
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 61c"
-generated_at: "2026-03-30T07:18:35.950Z"
+generated_at: "2026-03-30T07:21:05.854Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5175 - Repealed. Pub. L. 100–707, title I , § 105(m)(2), Nov.
 usc_title: 42
 usc_section: "5175"
 chapter: 68
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 5175"
-generated_at: "2026-03-30T07:20:27.465Z"
+generated_at: "2026-03-30T07:23:01.744Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1601 - Congressional findings and declaration of policy"
 usc_title: 43
 usc_section: "1601"
 chapter: 33
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "43 U.S.C. § 1601"
-generated_at: "2026-03-30T07:20:34.396Z"
+generated_at: "2026-03-30T07:22:34.959Z"
 status: "active"
 ---
 

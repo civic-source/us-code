@@ -3,9 +3,9 @@ title: "Section 1952 - Optional settlement"
 usc_title: 38
 usc_section: "1952"
 chapter: 19
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "38 U.S.C. § 1952"
-generated_at: "2026-03-30T07:20:05.122Z"
+generated_at: "2026-03-30T07:22:30.297Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 568 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
 usc_title: 50
 usc_section: "568"
 chapter: 22
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 568"
-generated_at: "2026-03-30T07:20:51.708Z"
+generated_at: "2026-03-30T07:23:09.674Z"
 status: "repealed"
 ---
 

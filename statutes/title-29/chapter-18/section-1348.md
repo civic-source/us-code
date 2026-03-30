@@ -3,9 +3,9 @@ title: "Section 1348 - Termination date"
 usc_title: 29
 usc_section: "1348"
 chapter: 18
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "29 U.S.C. § 1348"
-generated_at: "2026-03-30T07:19:19.507Z"
+generated_at: "2026-03-30T07:22:15.619Z"
 status: "active"
 ---
 

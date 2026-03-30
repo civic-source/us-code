@@ -3,9 +3,9 @@ title: "Section 4255 - Repealed. Pub. L. 98–473, title II , § 218(a)(6), Oct.
 usc_title: 18
 usc_section: "4255"
 chapter: 314
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 4255"
-generated_at: "2026-03-30T07:19:02.983Z"
+generated_at: "2026-03-30T07:21:56.046Z"
 status: "repealed"
 ---
 

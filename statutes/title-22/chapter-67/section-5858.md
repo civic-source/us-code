@@ -3,9 +3,9 @@ title: "Section 5858 - Notice and reports to Congress"
 usc_title: 22
 usc_section: "5858"
 chapter: 67
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 5858"
-generated_at: "2026-03-30T07:19:15.854Z"
+generated_at: "2026-03-30T07:22:06.578Z"
 status: "active"
 ---
 

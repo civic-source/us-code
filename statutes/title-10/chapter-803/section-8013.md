@@ -3,9 +3,9 @@ title: "Section 8013 - Secretary of the Air Force"
 usc_title: 10
 usc_section: "8013"
 chapter: 803
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 8013"
-generated_at: "2026-03-30T07:18:47.480Z"
+generated_at: "2026-03-30T07:21:18.016Z"
 status: "active"
 ---
 

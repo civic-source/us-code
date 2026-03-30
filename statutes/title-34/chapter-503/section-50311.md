@@ -3,9 +3,9 @@ title: "Section 50311 - Authorization of a Badge"
 usc_title: 34
 usc_section: "50311"
 chapter: 503
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "34 U.S.C. § 50311"
-generated_at: "2026-03-30T07:19:49.687Z"
+generated_at: "2026-03-30T07:22:24.515Z"
 status: "active"
 ---
 

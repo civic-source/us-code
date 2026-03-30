@@ -3,9 +3,9 @@ title: "Section 42d - Repealed. Pub. L. 104–186, title II , § 203(12), Aug. 2
 usc_title: 2
 usc_section: "42d"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 42d"
-generated_at: "2026-03-30T07:18:35.950Z"
+generated_at: "2026-03-30T07:21:05.853Z"
 status: "repealed"
 ---
 

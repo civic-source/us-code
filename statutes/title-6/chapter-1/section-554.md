@@ -3,9 +3,9 @@ title: "Section 554 - National identification system not authorized"
 usc_title: 6
 usc_section: "554"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "6 U.S.C. § 554"
-generated_at: "2026-03-30T07:18:40.112Z"
+generated_at: "2026-03-30T07:21:09.573Z"
 status: "active"
 ---
 

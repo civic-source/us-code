@@ -3,9 +3,9 @@ title: "Section 1311 - Correction of error"
 usc_title: 26
 usc_section: "1311"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 1311"
-generated_at: "2026-03-30T07:19:27.720Z"
+generated_at: "2026-03-30T07:22:21.805Z"
 status: "active"
 ---
 

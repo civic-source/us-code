@@ -3,9 +3,9 @@ title: "Section 6914 - Votes of the Commission"
 usc_title: 22
 usc_section: "6914"
 chapter: 77
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 6914"
-generated_at: "2026-03-30T07:19:15.867Z"
+generated_at: "2026-03-30T07:22:06.589Z"
 status: "active"
 ---
 

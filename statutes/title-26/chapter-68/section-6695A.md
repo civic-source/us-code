@@ -3,9 +3,9 @@ title: "Section 6695A - Substantial and gross valuation misstatements attributab
 usc_title: 26
 usc_section: "6695A"
 chapter: 68
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 6695A"
-generated_at: "2026-03-30T07:19:27.801Z"
+generated_at: "2026-03-30T07:22:21.886Z"
 status: "active"
 ---
 

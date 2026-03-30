@@ -3,9 +3,9 @@ title: "Section 1768 - Taxation"
 usc_title: 12
 usc_section: "1768"
 chapter: 14
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 1768"
-generated_at: "2026-03-30T07:18:52.880Z"
+generated_at: "2026-03-30T07:21:39.022Z"
 status: "active"
 ---
 

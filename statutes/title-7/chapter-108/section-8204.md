@@ -3,9 +3,9 @@ title: "Section 8204 - Limitations on assistance"
 usc_title: 7
 usc_section: "8204"
 chapter: 108
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 8204"
-generated_at: "2026-03-30T07:18:43.737Z"
+generated_at: "2026-03-30T07:21:14.667Z"
 status: "active"
 ---
 

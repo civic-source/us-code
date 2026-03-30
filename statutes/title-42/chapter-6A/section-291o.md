@@ -3,9 +3,9 @@ title: "Section 291o - Definitions"
 usc_title: 42
 usc_section: "291o"
 chapter: 6
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 291o"
-generated_at: "2026-03-30T07:20:27.109Z"
+generated_at: "2026-03-30T07:23:01.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 206 - Minimum wage"
 usc_title: 29
 usc_section: "206"
 chapter: 8
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "29 U.S.C. § 206"
-generated_at: "2026-03-30T07:19:19.463Z"
+generated_at: "2026-03-30T07:22:15.578Z"
 status: "active"
 ---
 

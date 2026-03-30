@@ -3,9 +3,9 @@ title: "Section 62 - Export trade and antitrust legislation"
 usc_title: 15
 usc_section: "62"
 chapter: 2
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 62"
-generated_at: "2026-03-30T07:18:56.178Z"
+generated_at: "2026-03-30T07:21:41.459Z"
 status: "active"
 ---
 

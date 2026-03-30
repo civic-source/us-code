@@ -3,9 +3,9 @@ title: "Section 7754 - Regulations and orders"
 usc_title: 7
 usc_section: "7754"
 chapter: 104
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 7754"
-generated_at: "2026-03-30T07:18:43.728Z"
+generated_at: "2026-03-30T07:21:14.658Z"
 status: "active"
 ---
 

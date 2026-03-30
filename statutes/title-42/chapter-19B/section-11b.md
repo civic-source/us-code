@@ -3,9 +3,9 @@ title: "Section 11b - Dalecarlia Reservoir; delivery of water to metropolitan Ma
 usc_title: 42
 usc_section: "11b"
 chapter: 19
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 11b"
-generated_at: "2026-03-30T07:20:27.387Z"
+generated_at: "2026-03-30T07:23:01.667Z"
 status: "active"
 ---
 

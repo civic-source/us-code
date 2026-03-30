@@ -3,9 +3,9 @@ title: "Section 1825 - Violations and penalties"
 usc_title: 15
 usc_section: "1825"
 chapter: 44
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 1825"
-generated_at: "2026-03-30T07:18:56.297Z"
+generated_at: "2026-03-30T07:21:41.585Z"
 status: "active"
 ---
 

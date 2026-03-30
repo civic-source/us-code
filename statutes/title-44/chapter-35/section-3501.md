@@ -3,9 +3,9 @@ title: "Section 3501 - Purposes"
 usc_title: 44
 usc_section: "3501"
 chapter: 35
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "44 U.S.C. § 3501"
-generated_at: "2026-03-30T07:20:12.475Z"
+generated_at: "2026-03-30T07:22:35.342Z"
 status: "active"
 ---
 

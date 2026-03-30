@@ -3,9 +3,9 @@ title: "Section 336 - Report of minor violations"
 usc_title: 21
 usc_section: "336"
 chapter: 9
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "21 U.S.C. § 336"
-generated_at: "2026-03-30T07:19:09.379Z"
+generated_at: "2026-03-30T07:22:08.131Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7511 - Repealed. Pub. L. 87–456, title III , § 302(d), May 24
 usc_title: 26
 usc_section: "7511"
 chapter: 77
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 7511"
-generated_at: "2026-03-30T07:19:27.811Z"
+generated_at: "2026-03-30T07:22:21.897Z"
 status: "repealed"
 ---
 

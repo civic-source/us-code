@@ -3,9 +3,9 @@ title: "Section 924 - Penalties"
 usc_title: 18
 usc_section: "924"
 chapter: 44
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 924"
-generated_at: "2026-03-30T07:19:02.942Z"
+generated_at: "2026-03-30T07:21:56.002Z"
 status: "active"
 ---
 

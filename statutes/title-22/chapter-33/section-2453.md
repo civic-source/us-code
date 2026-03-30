@@ -3,9 +3,9 @@ title: "Section 2453 - Agreements with foreign governments and international org
 usc_title: 22
 usc_section: "2453"
 chapter: 33
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 2453"
-generated_at: "2026-03-30T07:19:15.810Z"
+generated_at: "2026-03-30T07:22:06.535Z"
 status: "active"
 ---
 

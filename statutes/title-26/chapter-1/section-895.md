@@ -3,9 +3,9 @@ title: "Section 895 - Income derived by a foreign central bank of issue from obl
 usc_title: 26
 usc_section: "895"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 895"
-generated_at: "2026-03-30T07:19:27.698Z"
+generated_at: "2026-03-30T07:22:21.783Z"
 status: "active"
 ---
 

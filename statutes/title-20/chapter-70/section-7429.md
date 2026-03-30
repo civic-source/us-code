@@ -3,9 +3,9 @@ title: "Section 7429 - State educational agency review"
 usc_title: 20
 usc_section: "7429"
 chapter: 70
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "20 U.S.C. § 7429"
-generated_at: "2026-03-30T07:19:02.087Z"
+generated_at: "2026-03-30T07:21:47.405Z"
 status: "active"
 ---
 

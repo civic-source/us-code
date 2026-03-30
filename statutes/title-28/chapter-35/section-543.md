@@ -3,9 +3,9 @@ title: "Section 543 - Special attorneys"
 usc_title: 28
 usc_section: "543"
 chapter: 35
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 543"
-generated_at: "2026-03-30T07:19:20.194Z"
+generated_at: "2026-03-30T07:22:13.183Z"
 status: "active"
 ---
 

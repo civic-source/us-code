@@ -3,9 +3,9 @@ title: "Section 3058d - Additional State plan requirements"
 usc_title: 42
 usc_section: "3058d"
 chapter: 35
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 3058d"
-generated_at: "2026-03-30T07:20:27.427Z"
+generated_at: "2026-03-30T07:23:01.707Z"
 status: "active"
 ---
 

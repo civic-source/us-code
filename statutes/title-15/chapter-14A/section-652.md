@@ -3,9 +3,9 @@ title: "Section 652 - Central European Enterprise Development Commission"
 usc_title: 15
 usc_section: "652"
 chapter: 14
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 652"
-generated_at: "2026-03-30T07:18:56.246Z"
+generated_at: "2026-03-30T07:21:41.532Z"
 status: "active"
 ---
 

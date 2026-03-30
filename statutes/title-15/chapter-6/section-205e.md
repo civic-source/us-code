@@ -3,9 +3,9 @@ title: "Section 205e - Functions and powers of Board"
 usc_title: 15
 usc_section: "205e"
 chapter: 6
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 205e"
-generated_at: "2026-03-30T07:18:56.222Z"
+generated_at: "2026-03-30T07:21:41.508Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 902 - Cancellation; investigation before suit"
 usc_title: 43
 usc_section: "902"
 chapter: 21
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "43 U.S.C. § 902"
-generated_at: "2026-03-30T07:20:34.382Z"
+generated_at: "2026-03-30T07:22:34.948Z"
 status: "active"
 ---
 

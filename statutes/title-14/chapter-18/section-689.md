@@ -3,9 +3,9 @@ title: "Section 689 - Repealed. Pub. L. 111–281, title II , § 221(a)(9), Oct.
 usc_title: 14
 usc_section: "689"
 chapter: 18
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "14 U.S.C. § 689"
-generated_at: "2026-03-30T07:18:54.066Z"
+generated_at: "2026-03-30T07:21:20.315Z"
 status: "repealed"
 ---
 

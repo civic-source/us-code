@@ -3,9 +3,9 @@ title: "Section 905 - Reserve officers of the Navy or Marine Corps not on the ac
 usc_title: 37
 usc_section: "905"
 chapter: 17
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "37 U.S.C. § 905"
-generated_at: "2026-03-30T07:19:55.077Z"
+generated_at: "2026-03-30T07:22:31.427Z"
 status: "active"
 ---
 

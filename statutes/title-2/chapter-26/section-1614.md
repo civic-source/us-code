@@ -3,9 +3,9 @@ title: "Section 1614 - Annual audits and reports by Comptroller General"
 usc_title: 2
 usc_section: "1614"
 chapter: 26
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 1614"
-generated_at: "2026-03-30T07:18:35.976Z"
+generated_at: "2026-03-30T07:21:05.880Z"
 status: "active"
 ---
 

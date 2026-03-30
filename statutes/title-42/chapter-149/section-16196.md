@@ -3,9 +3,9 @@ title: "Section 16196 - Energy Efficiency Science Initiative"
 usc_title: 42
 usc_section: "16196"
 chapter: 149
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 16196"
-generated_at: "2026-03-30T07:20:27.673Z"
+generated_at: "2026-03-30T07:23:01.946Z"
 status: "active"
 ---
 

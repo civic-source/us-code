@@ -3,9 +3,9 @@ title: "Section 1251 - Original jurisdiction"
 usc_title: 28
 usc_section: "1251"
 chapter: 81
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 1251"
-generated_at: "2026-03-30T07:19:20.199Z"
+generated_at: "2026-03-30T07:22:13.188Z"
 status: "active"
 ---
 

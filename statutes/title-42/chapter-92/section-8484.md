@@ -3,9 +3,9 @@ title: "Section 8484 - Electric utility conservation plan"
 usc_title: 42
 usc_section: "8484"
 chapter: 92
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 8484"
-generated_at: "2026-03-30T07:20:27.563Z"
+generated_at: "2026-03-30T07:23:01.840Z"
 status: "active"
 ---
 

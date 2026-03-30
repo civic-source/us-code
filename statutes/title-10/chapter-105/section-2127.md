@@ -3,9 +3,9 @@ title: "Section 2127 - Scholarships and financial assistance: payments"
 usc_title: 10
 usc_section: "2127"
 chapter: 105
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 2127"
-generated_at: "2026-03-30T07:18:47.419Z"
+generated_at: "2026-03-30T07:21:17.955Z"
 status: "active"
 ---
 

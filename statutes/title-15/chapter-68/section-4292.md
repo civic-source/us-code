@@ -3,9 +3,9 @@ title: "Section 4292 - Repealed. Pub. L. 102–555 , § 4, Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4292"
 chapter: 68
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 4292"
-generated_at: "2026-03-30T07:18:56.331Z"
+generated_at: "2026-03-30T07:21:41.624Z"
 status: "repealed"
 ---
 

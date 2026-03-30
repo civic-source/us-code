@@ -3,9 +3,9 @@ title: "Section 670o - Authorization of appropriations"
 usc_title: 16
 usc_section: "670o"
 chapter: 5
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 670o"
-generated_at: "2026-03-30T07:19:06.045Z"
+generated_at: "2026-03-30T07:22:00.013Z"
 status: "active"
 ---
 

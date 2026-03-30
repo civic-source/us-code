@@ -3,9 +3,9 @@ title: "Section 3618 - Collection of service charges for certification or valida
 usc_title: 50
 usc_section: "3618"
 chapter: 47
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 3618"
-generated_at: "2026-03-30T07:20:51.748Z"
+generated_at: "2026-03-30T07:23:09.721Z"
 status: "active"
 ---
 

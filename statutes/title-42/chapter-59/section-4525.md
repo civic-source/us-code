@@ -3,9 +3,9 @@ title: "Section 4525 - Real property taxation"
 usc_title: 42
 usc_section: "4525"
 chapter: 59
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 4525"
-generated_at: "2026-03-30T07:20:27.449Z"
+generated_at: "2026-03-30T07:23:01.729Z"
 status: "active"
 ---
 

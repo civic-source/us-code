@@ -3,9 +3,9 @@ title: "Section 167 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 S
 usc_title: 24
 usc_section: "167"
 chapter: 4
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "24 U.S.C. § 167"
-generated_at: "2026-03-30T07:19:09.585Z"
+generated_at: "2026-03-30T07:22:04.791Z"
 status: "repealed"
 ---
 

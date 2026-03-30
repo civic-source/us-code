@@ -3,9 +3,9 @@ title: "Section 1492a - Study of electric rates in the insular areas"
 usc_title: 48
 usc_section: "1492a"
 chapter: 10
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "48 U.S.C. § 1492a"
-generated_at: "2026-03-30T07:20:40.921Z"
+generated_at: "2026-03-30T07:23:05.950Z"
 status: "active"
 ---
 

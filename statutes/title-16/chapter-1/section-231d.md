@@ -3,9 +3,9 @@ title: "Section 231d - Repeal of inconsistent laws"
 usc_title: 16
 usc_section: "231d"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 231d"
-generated_at: "2026-03-30T07:19:05.950Z"
+generated_at: "2026-03-30T07:21:59.868Z"
 status: "active"
 ---
 

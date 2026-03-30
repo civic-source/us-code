@@ -3,9 +3,9 @@ title: "Section 10d - Omitted"
 usc_title: 12
 usc_section: "10d"
 chapter: 13
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 10d"
-generated_at: "2026-03-30T07:18:52.878Z"
+generated_at: "2026-03-30T07:21:39.019Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1504 - Persons heretofore having a pensionable status"
 usc_title: 38
 usc_section: "1504"
 chapter: 15
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "38 U.S.C. § 1504"
-generated_at: "2026-03-30T07:20:05.115Z"
+generated_at: "2026-03-30T07:22:30.289Z"
 status: "active"
 ---
 

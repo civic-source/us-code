@@ -3,9 +3,9 @@ title: "Section 5418 - Beer imported in bulk"
 usc_title: 26
 usc_section: "5418"
 chapter: 51
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 5418"
-generated_at: "2026-03-30T07:19:27.768Z"
+generated_at: "2026-03-30T07:22:21.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 605 - Program administration"
 usc_title: 23
 usc_section: "605"
 chapter: 6
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "23 U.S.C. § 605"
-generated_at: "2026-03-30T07:19:11.174Z"
+generated_at: "2026-03-30T07:22:04.177Z"
 status: "active"
 ---
 

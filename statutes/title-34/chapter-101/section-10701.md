@@ -3,9 +3,9 @@ title: "Section 10701 - Description"
 usc_title: 34
 usc_section: "10701"
 chapter: 101
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "34 U.S.C. § 10701"
-generated_at: "2026-03-30T07:19:49.637Z"
+generated_at: "2026-03-30T07:22:24.482Z"
 status: "active"
 ---
 

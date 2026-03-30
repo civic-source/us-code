@@ -3,9 +3,9 @@ title: "Section 241 - Creation; membership; compensation and expenses"
 usc_title: 12
 usc_section: "241"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 241"
-generated_at: "2026-03-30T07:18:52.822Z"
+generated_at: "2026-03-30T07:21:38.955Z"
 status: "active"
 ---
 

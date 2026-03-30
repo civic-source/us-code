@@ -3,9 +3,9 @@ title: "Section 478 - Rations or commutation therefor in money"
 usc_title: 14
 usc_section: "478"
 chapter: 13
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "14 U.S.C. § 478"
-generated_at: "2026-03-30T07:18:54.063Z"
+generated_at: "2026-03-30T07:21:20.310Z"
 status: "active"
 ---
 

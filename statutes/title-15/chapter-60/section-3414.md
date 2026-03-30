@@ -3,9 +3,9 @@ title: "Section 3414 - Enforcement"
 usc_title: 15
 usc_section: "3414"
 chapter: 60
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 3414"
-generated_at: "2026-03-30T07:18:56.324Z"
+generated_at: "2026-03-30T07:21:41.617Z"
 status: "active"
 ---
 

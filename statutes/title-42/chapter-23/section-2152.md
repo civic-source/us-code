@@ -3,9 +3,9 @@ title: "Section 2152 - Policies contained in international arrangements"
 usc_title: 42
 usc_section: "2152"
 chapter: 23
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 2152"
-generated_at: "2026-03-30T07:20:27.402Z"
+generated_at: "2026-03-30T07:23:01.681Z"
 status: "active"
 ---
 

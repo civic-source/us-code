@@ -3,9 +3,9 @@ title: "Section 2279bb - Definitions"
 usc_title: 12
 usc_section: "2279bb"
 chapter: 23
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 2279bb"
-generated_at: "2026-03-30T07:18:52.925Z"
+generated_at: "2026-03-30T07:21:39.071Z"
 status: "active"
 ---
 

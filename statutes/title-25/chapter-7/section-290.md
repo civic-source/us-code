@@ -3,9 +3,9 @@ title: "Section 290 - Transportation of pupils under 14 at Government expense"
 usc_title: 25
 usc_section: "290"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "25 U.S.C. § 290"
-generated_at: "2026-03-30T07:19:10.708Z"
+generated_at: "2026-03-30T07:22:07.322Z"
 status: "active"
 ---
 

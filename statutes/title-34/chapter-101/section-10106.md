@@ -3,9 +3,9 @@ title: "Section 10106 - Community Capacity Development Office"
 usc_title: 34
 usc_section: "10106"
 chapter: 101
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "34 U.S.C. § 10106"
-generated_at: "2026-03-30T07:19:49.621Z"
+generated_at: "2026-03-30T07:22:24.467Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 931 - Purpose"
 usc_title: 2
 usc_section: "931"
 chapter: 20
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 931"
-generated_at: "2026-03-30T07:18:35.969Z"
+generated_at: "2026-03-30T07:21:05.873Z"
 status: "active"
 ---
 

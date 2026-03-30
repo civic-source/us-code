@@ -3,9 +3,9 @@ title: "Section 6250a - Authority"
 usc_title: 42
 usc_section: "6250a"
 chapter: 77
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 6250a"
-generated_at: "2026-03-30T07:20:27.481Z"
+generated_at: "2026-03-30T07:23:01.760Z"
 status: "active"
 ---
 

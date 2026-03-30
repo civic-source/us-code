@@ -3,9 +3,9 @@ title: "Section 3797l - Transferred"
 usc_title: 42
 usc_section: "3797l"
 chapter: 46
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 3797l"
-generated_at: "2026-03-30T07:20:27.438Z"
+generated_at: "2026-03-30T07:23:01.718Z"
 status: "transferred"
 ---
 

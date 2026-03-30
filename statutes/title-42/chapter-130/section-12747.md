@@ -3,9 +3,9 @@ title: "Section 12747 - Allocation of resources"
 usc_title: 42
 usc_section: "12747"
 chapter: 130
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 12747"
-generated_at: "2026-03-30T07:20:27.639Z"
+generated_at: "2026-03-30T07:23:01.912Z"
 status: "active"
 ---
 

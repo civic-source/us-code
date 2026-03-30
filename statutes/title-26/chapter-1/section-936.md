@@ -3,9 +3,9 @@ title: "Section 936 - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(
 usc_title: 26
 usc_section: "936"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 936"
-generated_at: "2026-03-30T07:19:27.702Z"
+generated_at: "2026-03-30T07:22:21.787Z"
 status: "repealed"
 ---
 

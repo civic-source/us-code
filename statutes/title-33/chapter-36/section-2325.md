@@ -3,9 +3,9 @@ title: "Section 2325 - Voluntary contributions for environmental and recreation 
 usc_title: 33
 usc_section: "2325"
 chapter: 36
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "33 U.S.C. § 2325"
-generated_at: "2026-03-30T07:19:32.429Z"
+generated_at: "2026-03-30T07:22:26.358Z"
 status: "active"
 ---
 

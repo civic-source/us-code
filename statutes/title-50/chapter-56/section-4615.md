@@ -3,9 +3,9 @@ title: "Section 4615 - Administrative procedure and judicial review"
 usc_title: 50
 usc_section: "4615"
 chapter: 56
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 4615"
-generated_at: "2026-03-30T07:20:51.766Z"
+generated_at: "2026-03-30T07:23:09.743Z"
 status: "active"
 ---
 

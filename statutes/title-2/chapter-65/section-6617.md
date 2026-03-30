@@ -3,9 +3,9 @@ title: "Section 6617 - Law enforcement authority of Sergeant-at-Arms and Doorkee
 usc_title: 2
 usc_section: "6617"
 chapter: 65
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 6617"
-generated_at: "2026-03-30T07:18:35.997Z"
+generated_at: "2026-03-30T07:21:05.900Z"
 status: "active"
 ---
 

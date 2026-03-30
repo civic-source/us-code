@@ -3,9 +3,9 @@ title: "Section 3293 - Educational assistance and training"
 usc_title: 29
 usc_section: "3293"
 chapter: 32
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "29 U.S.C. § 3293"
-generated_at: "2026-03-30T07:19:19.531Z"
+generated_at: "2026-03-30T07:22:15.642Z"
 status: "active"
 ---
 

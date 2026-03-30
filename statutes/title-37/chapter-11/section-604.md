@@ -3,9 +3,9 @@ title: "Section 604 - Determination of Secretary final"
 usc_title: 37
 usc_section: "604"
 chapter: 11
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "37 U.S.C. § 604"
-generated_at: "2026-03-30T07:19:55.077Z"
+generated_at: "2026-03-30T07:22:31.427Z"
 status: "active"
 ---
 

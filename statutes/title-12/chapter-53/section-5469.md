@@ -3,9 +3,9 @@ title: "Section 5469 - Rulemaking"
 usc_title: 12
 usc_section: "5469"
 chapter: 53
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 5469"
-generated_at: "2026-03-30T07:18:52.977Z"
+generated_at: "2026-03-30T07:21:39.124Z"
 status: "active"
 ---
 

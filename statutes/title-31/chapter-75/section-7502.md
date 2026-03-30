@@ -3,9 +3,9 @@ title: "Section 7502 - Audit requirements; exemptions"
 usc_title: 31
 usc_section: "7502"
 chapter: 75
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "31 U.S.C. § 7502"
-generated_at: "2026-03-30T07:19:33.904Z"
+generated_at: "2026-03-30T07:22:25.160Z"
 status: "active"
 ---
 

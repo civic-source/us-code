@@ -3,9 +3,9 @@ title: "Section 6906 - Union Station Fund"
 usc_title: 40
 usc_section: "6906"
 chapter: 69
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "40 U.S.C. § 6906"
-generated_at: "2026-03-30T07:20:08.916Z"
+generated_at: "2026-03-30T07:22:30.726Z"
 status: "active"
 ---
 

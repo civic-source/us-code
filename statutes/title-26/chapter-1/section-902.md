@@ -3,9 +3,9 @@ title: "Section 902 - Repealed. Pub. L. 115–97, title I , § 14301(a), Dec. 22
 usc_title: 26
 usc_section: "902"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 902"
-generated_at: "2026-03-30T07:19:27.700Z"
+generated_at: "2026-03-30T07:22:21.785Z"
 status: "repealed"
 ---
 

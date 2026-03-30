@@ -3,9 +3,9 @@ title: "Section 10156 - Formula"
 usc_title: 34
 usc_section: "10156"
 chapter: 101
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "34 U.S.C. § 10156"
-generated_at: "2026-03-30T07:19:49.622Z"
+generated_at: "2026-03-30T07:22:24.469Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3368 - Assistance for governmental entities and private entities
 usc_title: 50
 usc_section: "3368"
 chapter: 45
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 3368"
-generated_at: "2026-03-30T07:20:51.744Z"
+generated_at: "2026-03-30T07:23:09.718Z"
 status: "active"
 ---
 

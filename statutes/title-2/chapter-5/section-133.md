@@ -3,9 +3,9 @@ title: "Section 133 - Joint Committee during recess of Congress"
 usc_title: 2
 usc_section: "133"
 chapter: 5
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 133"
-generated_at: "2026-03-30T07:18:35.952Z"
+generated_at: "2026-03-30T07:21:05.856Z"
 status: "active"
 ---
 

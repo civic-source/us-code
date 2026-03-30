@@ -3,9 +3,9 @@ title: "Section 5608 - Administrative provisions"
 usc_title: 20
 usc_section: "5608"
 chapter: 66
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "20 U.S.C. § 5608"
-generated_at: "2026-03-30T07:19:02.066Z"
+generated_at: "2026-03-30T07:21:47.300Z"
 status: "active"
 ---
 

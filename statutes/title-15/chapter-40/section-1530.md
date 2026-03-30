@@ -3,9 +3,9 @@ title: "Section 1530 - Awarding of contracts for performance of commercial activ
 usc_title: 15
 usc_section: "1530"
 chapter: 40
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 1530"
-generated_at: "2026-03-30T07:18:56.277Z"
+generated_at: "2026-03-30T07:21:41.564Z"
 status: "active"
 ---
 

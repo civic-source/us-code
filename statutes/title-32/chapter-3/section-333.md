@@ -3,9 +3,9 @@ title: "Section 333 - Repealed. Pub. L. 107–314, div. A, title V , § 512(c)(1
 usc_title: 32
 usc_section: "333"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "32 U.S.C. § 333"
-generated_at: "2026-03-30T07:19:38.012Z"
+generated_at: "2026-03-30T07:22:23.527Z"
 status: "repealed"
 ---
 

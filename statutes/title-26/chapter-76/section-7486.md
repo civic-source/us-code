@@ -3,9 +3,9 @@ title: "Section 7486 - Refund, credit, or abatement of amounts dis­allowed"
 usc_title: 26
 usc_section: "7486"
 chapter: 76
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 7486"
-generated_at: "2026-03-30T07:19:27.811Z"
+generated_at: "2026-03-30T07:22:21.896Z"
 status: "active"
 ---
 

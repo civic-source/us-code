@@ -3,9 +3,9 @@ title: "Section 2 - Enrollment and general assistance payments"
 usc_title: 25
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T07:19:10.703Z"
+generated_at: "2026-03-30T07:22:07.317Z"
 status: "active"
 ---
 

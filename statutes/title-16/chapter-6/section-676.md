@@ -3,9 +3,9 @@ title: "Section 676 - Hunting, trapping, killing, or capturing game on Norbeck W
 usc_title: 16
 usc_section: "676"
 chapter: 6
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 676"
-generated_at: "2026-03-30T07:19:06.045Z"
+generated_at: "2026-03-30T07:22:00.013Z"
 status: "active"
 ---
 

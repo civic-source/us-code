@@ -3,9 +3,9 @@ title: "Section 6351 - Coordination of research and development of energy effici
 usc_title: 42
 usc_section: "6351"
 chapter: 77
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 6351"
-generated_at: "2026-03-30T07:20:27.493Z"
+generated_at: "2026-03-30T07:23:01.771Z"
 status: "active"
 ---
 

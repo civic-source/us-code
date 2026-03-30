@@ -3,9 +3,9 @@ title: "Section 549 - Removing goods from customs custody; breaking seals"
 usc_title: 18
 usc_section: "549"
 chapter: 27
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 549"
-generated_at: "2026-03-30T07:19:02.935Z"
+generated_at: "2026-03-30T07:21:55.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 844 - Penalties for simple possession"
 usc_title: 21
 usc_section: "844"
 chapter: 13
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "21 U.S.C. § 844"
-generated_at: "2026-03-30T07:19:09.438Z"
+generated_at: "2026-03-30T07:22:08.187Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6742 - Prohibition relating to low concentrations of Schedules 2
 usc_title: 22
 usc_section: "6742"
 chapter: 75
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 6742"
-generated_at: "2026-03-30T07:19:15.866Z"
+generated_at: "2026-03-30T07:22:06.588Z"
 status: "active"
 ---
 

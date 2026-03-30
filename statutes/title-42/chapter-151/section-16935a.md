@@ -3,9 +3,9 @@ title: "Section 16935a - Transferred"
 usc_title: 42
 usc_section: "16935a"
 chapter: 151
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 16935a"
-generated_at: "2026-03-30T07:20:27.681Z"
+generated_at: "2026-03-30T07:23:01.954Z"
 status: "transferred"
 ---
 

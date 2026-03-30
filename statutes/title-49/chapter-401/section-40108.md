@@ -3,9 +3,9 @@ title: "Section 40108 - Training schools"
 usc_title: 49
 usc_section: "40108"
 chapter: 401
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "49 U.S.C. § 40108"
-generated_at: "2026-03-30T07:20:50.226Z"
+generated_at: "2026-03-30T07:23:07.839Z"
 status: "active"
 ---
 

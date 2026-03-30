@@ -3,9 +3,9 @@ title: "Section 321 - Repealed. Pub. L. 99–661, div. A, title VI , § 604(f)(2
 usc_title: 32
 usc_section: "321"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "32 U.S.C. § 321"
-generated_at: "2026-03-30T07:19:38.012Z"
+generated_at: "2026-03-30T07:22:23.527Z"
 status: "repealed"
 ---
 

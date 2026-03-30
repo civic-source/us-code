@@ -3,9 +3,9 @@ title: "Section 130 - Certain personal injury liability assignments"
 usc_title: 26
 usc_section: "130"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 130"
-generated_at: "2026-03-30T07:19:27.606Z"
+generated_at: "2026-03-30T07:22:21.691Z"
 status: "active"
 ---
 

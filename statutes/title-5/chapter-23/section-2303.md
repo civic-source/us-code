@@ -3,9 +3,9 @@ title: "Section 2303 - Prohibited personnel practices in the Federal Bureau of I
 usc_title: 5
 usc_section: "2303"
 chapter: 23
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "5 U.S.C. § 2303"
-generated_at: "2026-03-30T07:18:37.418Z"
+generated_at: "2026-03-30T07:21:07.481Z"
 status: "active"
 ---
 

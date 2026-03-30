@@ -3,9 +3,9 @@ title: "Section 2008j - Transferred"
 usc_title: 7
 usc_section: "2008j"
 chapter: 50
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 2008j"
-generated_at: "2026-03-30T07:18:43.652Z"
+generated_at: "2026-03-30T07:21:14.583Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13b - Manipulations or other violations; cease and desist orders
 usc_title: 7
 usc_section: "13b"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 13b"
-generated_at: "2026-03-30T07:18:43.571Z"
+generated_at: "2026-03-30T07:21:14.505Z"
 status: "active"
 ---
 

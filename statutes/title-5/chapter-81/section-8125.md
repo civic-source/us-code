@@ -3,9 +3,9 @@ title: "Section 8125 - Misbehavior at proceedings"
 usc_title: 5
 usc_section: "8125"
 chapter: 81
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "5 U.S.C. § 8125"
-generated_at: "2026-03-30T07:18:37.444Z"
+generated_at: "2026-03-30T07:21:07.510Z"
 status: "active"
 ---
 

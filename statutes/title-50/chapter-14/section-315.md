@@ -3,9 +3,9 @@ title: "Section 315 - Repealed. Apr. 1, 1944, ch. 150 , 58 Stat. 136"
 usc_title: 50
 usc_section: "315"
 chapter: 14
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 315"
-generated_at: "2026-03-30T07:20:51.707Z"
+generated_at: "2026-03-30T07:23:09.673Z"
 status: "repealed"
 ---
 

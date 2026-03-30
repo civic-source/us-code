@@ -3,9 +3,9 @@ title: "Section 7471 - Plan requirements"
 usc_title: 42
 usc_section: "7471"
 chapter: 85
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 7471"
-generated_at: "2026-03-30T07:20:27.530Z"
+generated_at: "2026-03-30T07:23:01.809Z"
 status: "active"
 ---
 

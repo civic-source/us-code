@@ -3,9 +3,9 @@ title: "Section 199 - Marine safety curriculum"
 usc_title: 14
 usc_section: "199"
 chapter: 9
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "14 U.S.C. § 199"
-generated_at: "2026-03-30T07:18:54.063Z"
+generated_at: "2026-03-30T07:21:20.310Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Nuclear reprocessing transfers, illegal exports for nuclear 
 usc_title: 22
 usc_section: "1"
 chapter: 39
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T07:19:15.825Z"
+generated_at: "2026-03-30T07:22:06.549Z"
 status: "active"
 ---
 

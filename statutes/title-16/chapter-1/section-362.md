@@ -3,9 +3,9 @@ title: "Section 362 - Leases of bathhouses and sites; supply of water"
 usc_title: 16
 usc_section: "362"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 362"
-generated_at: "2026-03-30T07:19:05.955Z"
+generated_at: "2026-03-30T07:21:59.873Z"
 status: "active"
 ---
 

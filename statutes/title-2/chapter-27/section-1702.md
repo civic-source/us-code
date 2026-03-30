@@ -3,9 +3,9 @@ title: "Section 1702 - Duties of Librarian of Congress"
 usc_title: 2
 usc_section: "1702"
 chapter: 27
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 1702"
-generated_at: "2026-03-30T07:18:35.976Z"
+generated_at: "2026-03-30T07:21:05.880Z"
 status: "active"
 ---
 

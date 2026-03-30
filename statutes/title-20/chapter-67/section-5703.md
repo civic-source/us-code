@@ -3,9 +3,9 @@ title: "Section 5703 - Repealed. Pub. L. 115–31, div. E, title VI , § 631(a),
 usc_title: 20
 usc_section: "5703"
 chapter: 67
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "20 U.S.C. § 5703"
-generated_at: "2026-03-30T07:19:02.066Z"
+generated_at: "2026-03-30T07:21:47.300Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2644 - Interest"
 usc_title: 28
 usc_section: "2644"
 chapter: 169
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 2644"
-generated_at: "2026-03-30T07:19:20.211Z"
+generated_at: "2026-03-30T07:22:13.200Z"
 status: "active"
 ---
 

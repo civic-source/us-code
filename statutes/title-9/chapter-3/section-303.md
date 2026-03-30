@@ -3,9 +3,9 @@ title: "Section 303 - Order to compel arbitration; appointment of arbitrators; l
 usc_title: 9
 usc_section: "303"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "9 U.S.C. § 303"
-generated_at: "2026-03-30T07:18:39.575Z"
+generated_at: "2026-03-30T07:21:08.903Z"
 status: "active"
 ---
 

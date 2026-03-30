@@ -3,9 +3,9 @@ title: "Section 350g - Hazard analysis and risk-based preventive controls"
 usc_title: 21
 usc_section: "350g"
 chapter: 9
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "21 U.S.C. § 350g"
-generated_at: "2026-03-30T07:19:09.384Z"
+generated_at: "2026-03-30T07:22:08.136Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4305 - Property of foreign missions"
 usc_title: 22
 usc_section: "4305"
 chapter: 53
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 4305"
-generated_at: "2026-03-30T07:19:15.844Z"
+generated_at: "2026-03-30T07:22:06.568Z"
 status: "active"
 ---
 

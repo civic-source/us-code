@@ -3,9 +3,9 @@ title: "Section 10496 - Discretionary research grants"
 usc_title: 34
 usc_section: "10496"
 chapter: 101
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "34 U.S.C. § 10496"
-generated_at: "2026-03-30T07:19:49.632Z"
+generated_at: "2026-03-30T07:22:24.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3973 - Death gratuities"
 usc_title: 22
 usc_section: "3973"
 chapter: 52
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 3973"
-generated_at: "2026-03-30T07:19:15.834Z"
+generated_at: "2026-03-30T07:22:06.559Z"
 status: "active"
 ---
 

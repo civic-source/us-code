@@ -3,9 +3,9 @@ title: "Section 31101 - Aerospace Safety Advisory Panel"
 usc_title: 51
 usc_section: "31101"
 chapter: 311
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "51 U.S.C. § 31101"
-generated_at: "2026-03-30T07:20:53.618Z"
+generated_at: "2026-03-30T07:23:11.436Z"
 status: "active"
 ---
 

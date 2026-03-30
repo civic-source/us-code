@@ -3,9 +3,9 @@ title: "Section 238e - Transfer of funds"
 usc_title: 42
 usc_section: "238e"
 chapter: 6
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 238e"
-generated_at: "2026-03-30T07:20:27.045Z"
+generated_at: "2026-03-30T07:23:01.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 539k - Kelly Butte Special Management Area"
 usc_title: 16
 usc_section: "539k"
 chapter: 2
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 539k"
-generated_at: "2026-03-30T07:19:06.026Z"
+generated_at: "2026-03-30T07:21:59.993Z"
 status: "active"
 ---
 

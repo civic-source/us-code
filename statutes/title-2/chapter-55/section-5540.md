@@ -3,9 +3,9 @@ title: "Section 5540 - Disposal of used or surplus furniture and equipment by Ch
 usc_title: 2
 usc_section: "5540"
 chapter: 55
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 5540"
-generated_at: "2026-03-30T07:18:35.993Z"
+generated_at: "2026-03-30T07:21:05.896Z"
 status: "active"
 ---
 

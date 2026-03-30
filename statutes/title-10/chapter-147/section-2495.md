@@ -3,9 +3,9 @@ title: "Section 2495 - Nonappropriated fund instrumentalities: purchase of alcoh
 usc_title: 10
 usc_section: "2495"
 chapter: 147
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 2495"
-generated_at: "2026-03-30T07:18:47.443Z"
+generated_at: "2026-03-30T07:21:17.979Z"
 status: "active"
 ---
 

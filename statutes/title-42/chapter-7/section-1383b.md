@@ -3,9 +3,9 @@ title: "Section 1383b - Administration"
 usc_title: 42
 usc_section: "1383b"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 1383b"
-generated_at: "2026-03-30T07:20:27.233Z"
+generated_at: "2026-03-30T07:23:01.511Z"
 status: "active"
 ---
 

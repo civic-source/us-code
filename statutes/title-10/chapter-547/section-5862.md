@@ -3,9 +3,9 @@ title: "Section 5862 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 
 usc_title: 10
 usc_section: "5862"
 chapter: 547
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 5862"
-generated_at: "2026-03-30T07:18:47.470Z"
+generated_at: "2026-03-30T07:21:18.006Z"
 status: "repealed"
 ---
 

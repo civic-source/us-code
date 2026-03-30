@@ -3,9 +3,9 @@ title: "Section 5104 - Authority of Speaker and Minority Leader to allocate fund
 usc_title: 2
 usc_section: "5104"
 chapter: 51
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 5104"
-generated_at: "2026-03-30T07:18:35.991Z"
+generated_at: "2026-03-30T07:21:05.895Z"
 status: "active"
 ---
 

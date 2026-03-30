@@ -3,9 +3,9 @@ title: "Section 412 - Transferred"
 usc_title: 50
 usc_section: "412"
 chapter: 15
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 412"
-generated_at: "2026-03-30T07:20:51.707Z"
+generated_at: "2026-03-30T07:23:09.673Z"
 status: "transferred"
 ---
 

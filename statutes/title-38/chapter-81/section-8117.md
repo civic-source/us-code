@@ -3,9 +3,9 @@ title: "Section 8117 - Emergency preparedness"
 usc_title: 38
 usc_section: "8117"
 chapter: 81
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "38 U.S.C. § 8117"
-generated_at: "2026-03-30T07:20:05.162Z"
+generated_at: "2026-03-30T07:22:30.370Z"
 status: "active"
 ---
 

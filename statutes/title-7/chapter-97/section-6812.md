@@ -3,9 +3,9 @@ title: "Section 6812 - Construction"
 usc_title: 7
 usc_section: "6812"
 chapter: 97
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 6812"
-generated_at: "2026-03-30T07:18:43.710Z"
+generated_at: "2026-03-30T07:21:14.641Z"
 status: "active"
 ---
 

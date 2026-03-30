@@ -3,9 +3,9 @@ title: "Section 1643a - Definitions"
 usc_title: 22
 usc_section: "1643a"
 chapter: 21
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 1643a"
-generated_at: "2026-03-30T07:19:15.782Z"
+generated_at: "2026-03-30T07:22:06.507Z"
 status: "active"
 ---
 

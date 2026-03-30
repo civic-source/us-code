@@ -3,9 +3,9 @@ title: "Section 2200a - Report to Congress"
 usc_title: 22
 usc_section: "2200a"
 chapter: 32
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 2200a"
-generated_at: "2026-03-30T07:19:15.794Z"
+generated_at: "2026-03-30T07:22:06.519Z"
 status: "active"
 ---
 

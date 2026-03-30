@@ -3,9 +3,9 @@ title: "Section 10 - Website"
 usc_title: 42
 usc_section: "10"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T07:20:27.336Z"
+generated_at: "2026-03-30T07:23:01.615Z"
 status: "active"
 ---
 

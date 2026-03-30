@@ -3,9 +3,9 @@ title: "Section 985a - Cancellation of bonds issued under section 985"
 usc_title: 33
 usc_section: "985a"
 chapter: 19
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "33 U.S.C. § 985a"
-generated_at: "2026-03-30T07:19:32.399Z"
+generated_at: "2026-03-30T07:22:26.323Z"
 status: "active"
 ---
 

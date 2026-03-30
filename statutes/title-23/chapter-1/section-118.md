@@ -3,9 +3,9 @@ title: "Section 118 - Availability of funds"
 usc_title: 23
 usc_section: "118"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "23 U.S.C. § 118"
-generated_at: "2026-03-30T07:19:11.155Z"
+generated_at: "2026-03-30T07:22:04.159Z"
 status: "active"
 ---
 

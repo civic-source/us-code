@@ -3,9 +3,9 @@ title: "Section 7l - Nationwide program for national and State background checks
 usc_title: 42
 usc_section: "7l"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 7l"
-generated_at: "2026-03-30T07:20:27.219Z"
+generated_at: "2026-03-30T07:23:01.496Z"
 status: "active"
 ---
 

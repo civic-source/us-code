@@ -3,9 +3,9 @@ title: "Section 8816 - Repealed. Pub. L. 90–235 , § 3(a)(2), (b)(1), Jan. 2, 
 usc_title: 10
 usc_section: "8816"
 chapter: 861
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 8816"
-generated_at: "2026-03-30T07:18:47.482Z"
+generated_at: "2026-03-30T07:21:18.019Z"
 status: "repealed"
 ---
 

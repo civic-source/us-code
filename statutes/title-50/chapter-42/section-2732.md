@@ -3,9 +3,9 @@ title: "Section 2732 - Safety oversight and enforcement at defense nuclear facil
 usc_title: 50
 usc_section: "2732"
 chapter: 42
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 2732"
-generated_at: "2026-03-30T07:20:51.731Z"
+generated_at: "2026-03-30T07:23:09.701Z"
 status: "active"
 ---
 

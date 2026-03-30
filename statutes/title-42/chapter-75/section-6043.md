@@ -3,9 +3,9 @@ title: "Section 6043 - Repealed. Pub. L. 106–402, title IV , § 401(a), Oct. 3
 usc_title: 42
 usc_section: "6043"
 chapter: 75
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 6043"
-generated_at: "2026-03-30T07:20:27.479Z"
+generated_at: "2026-03-30T07:23:01.758Z"
 status: "repealed"
 ---
 

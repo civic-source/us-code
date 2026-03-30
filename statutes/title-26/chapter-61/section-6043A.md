@@ -3,9 +3,9 @@ title: "Section 6043A - Returns relating to taxable mergers and acquisitions"
 usc_title: 26
 usc_section: "6043A"
 chapter: 61
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 6043A"
-generated_at: "2026-03-30T07:19:27.776Z"
+generated_at: "2026-03-30T07:22:21.861Z"
 status: "active"
 ---
 

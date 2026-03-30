@@ -3,9 +3,9 @@ title: "Section 2403 - Intervention by United States or a State; constitutional 
 usc_title: 28
 usc_section: "2403"
 chapter: 161
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 2403"
-generated_at: "2026-03-30T07:19:20.209Z"
+generated_at: "2026-03-30T07:22:13.198Z"
 status: "active"
 ---
 

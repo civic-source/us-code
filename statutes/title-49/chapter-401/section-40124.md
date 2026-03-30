@@ -3,9 +3,9 @@ title: "Section 40124 - Interstate agreements for airport facilities"
 usc_title: 49
 usc_section: "40124"
 chapter: 401
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "49 U.S.C. § 40124"
-generated_at: "2026-03-30T07:20:50.227Z"
+generated_at: "2026-03-30T07:23:07.841Z"
 status: "active"
 ---
 

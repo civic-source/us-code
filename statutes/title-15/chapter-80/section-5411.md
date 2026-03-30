@@ -3,9 +3,9 @@ title: "Section 5411 - Construction"
 usc_title: 15
 usc_section: "5411"
 chapter: 80
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 5411"
-generated_at: "2026-03-30T07:18:56.337Z"
+generated_at: "2026-03-30T07:21:41.629Z"
 status: "active"
 ---
 

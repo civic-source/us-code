@@ -3,9 +3,9 @@ title: "Section 1731 - Delegate to House of Representatives from American Samoa"
 usc_title: 48
 usc_section: "1731"
 chapter: 16
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "48 U.S.C. § 1731"
-generated_at: "2026-03-30T07:20:40.925Z"
+generated_at: "2026-03-30T07:23:05.953Z"
 status: "active"
 ---
 

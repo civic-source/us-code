@@ -3,9 +3,9 @@ title: "Section 3504 - Plan"
 usc_title: 33
 usc_section: "3504"
 chapter: 48
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "33 U.S.C. § 3504"
-generated_at: "2026-03-30T07:19:32.441Z"
+generated_at: "2026-03-30T07:22:26.372Z"
 status: "active"
 ---
 

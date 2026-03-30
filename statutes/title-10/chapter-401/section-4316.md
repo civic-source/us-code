@@ -3,9 +3,9 @@ title: "Section 4316 - Repealed. Pub. L. 115–91, div. A, title X , § 1051(a)(
 usc_title: 10
 usc_section: "4316"
 chapter: 401
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 4316"
-generated_at: "2026-03-30T07:18:47.463Z"
+generated_at: "2026-03-30T07:21:18.000Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 284a - Advisory councils"
 usc_title: 42
 usc_section: "284a"
 chapter: 6
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 284a"
-generated_at: "2026-03-30T07:20:27.087Z"
+generated_at: "2026-03-30T07:23:01.362Z"
 status: "active"
 ---
 
@@ -44,7 +44,9 @@ status: "active"
     - **(A)** The National Cancer Advisory Board shall be the advisory council for the National Cancer Institute. This section applies to the National Cancer Advisory Board, except that—
       - **(i)** appointments to such Board shall be made by the President;
       - **(ii)** the term of office of an appointed member shall be 6 years;
-      - **(iii)** of the members appointed to the Board not less than five members shall be individuals knowledgeable in environmental carcinogenesis (including carcinogenesis involving occupational and dietary factors);
+      - **(iii)** of the members appointed to the Board—
+        - **(I)** not less than 5 members shall be individuals knowledgeable in environmental carcinogenesis (including carcinogenesis involving occupational and dietary factors); and
+        - **(II)** not less than one member shall be an individual knowledgeable in pediatric oncology;
       - **(iv)** the chairman of the Board shall be selected by the President from the appointed members and shall serve as chairman for a term of two years;
       - **(v)** the ex officio members of the Board shall be nonvoting members and shall be the Secretary, the Director of the Office of Science and Technology Policy, the Director of NIH, the Under Secretary for Health of the Department of Veterans Affairs, the Director of the National Institute for Occupational Safety and Health, the Director of the National Institute of Environmental Health Sciences, the Secretary of Labor, the Commissioner of the Food and Drug Administration, the Administrator of the Environmental Protection Agency, the Chairman of the Consumer Product Safety Commission, the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Science of the Department of Energy (or the designees of such officers); and
       - **(vi)** the Board shall meet at least four times each fiscal year.

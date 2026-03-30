@@ -3,9 +3,9 @@ title: "Section 7707 - Cooperation in carrying out Convention"
 usc_title: 16
 usc_section: "7707"
 chapter: 96
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 7707"
-generated_at: "2026-03-30T07:19:06.157Z"
+generated_at: "2026-03-30T07:22:00.126Z"
 status: "active"
 ---
 

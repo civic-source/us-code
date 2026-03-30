@@ -3,9 +3,9 @@ title: "Section 6034 - Returns by certain trusts"
 usc_title: 26
 usc_section: "6034"
 chapter: 61
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 6034"
-generated_at: "2026-03-30T07:19:27.774Z"
+generated_at: "2026-03-30T07:22:21.859Z"
 status: "active"
 ---
 

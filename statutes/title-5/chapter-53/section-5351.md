@@ -3,9 +3,9 @@ title: "Section 5351 - Definitions"
 usc_title: 5
 usc_section: "5351"
 chapter: 53
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "5 U.S.C. § 5351"
-generated_at: "2026-03-30T07:18:37.427Z"
+generated_at: "2026-03-30T07:21:07.493Z"
 status: "active"
 ---
 

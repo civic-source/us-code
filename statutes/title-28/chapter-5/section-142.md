@@ -3,9 +3,9 @@ title: "Section 142 - Repealed. Pub. L. 97–164, title I , § 115(c)(3), Apr. 2
 usc_title: 28
 usc_section: "142"
 chapter: 5
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 142"
-generated_at: "2026-03-30T07:19:20.187Z"
+generated_at: "2026-03-30T07:22:13.176Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1817 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1817"
 chapter: 24
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 1817"
-generated_at: "2026-03-30T07:19:15.783Z"
+generated_at: "2026-03-30T07:22:06.508Z"
 status: "repealed"
 ---
 

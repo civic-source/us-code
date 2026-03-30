@@ -3,9 +3,9 @@ title: "Section 7608 - Authority of internal revenue enforcement officers"
 usc_title: 26
 usc_section: "7608"
 chapter: 78
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 7608"
-generated_at: "2026-03-30T07:19:27.813Z"
+generated_at: "2026-03-30T07:22:21.898Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1745 - Insurance of mortgages on sales of Government housing; li
 usc_title: 12
 usc_section: "1745"
 chapter: 13
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 1745"
-generated_at: "2026-03-30T07:18:52.875Z"
+generated_at: "2026-03-30T07:21:39.017Z"
 status: "active"
 ---
 

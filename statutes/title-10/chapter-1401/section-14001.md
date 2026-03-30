@@ -3,9 +3,9 @@ title: "Section 14001 - Applicability of this part"
 usc_title: 10
 usc_section: "14001"
 chapter: 1401
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 14001"
-generated_at: "2026-03-30T07:18:47.494Z"
+generated_at: "2026-03-30T07:21:18.031Z"
 status: "active"
 ---
 

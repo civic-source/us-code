@@ -3,9 +3,9 @@ title: "Section 1915 - Proceedings in forma pauperis"
 usc_title: 28
 usc_section: "1915"
 chapter: 123
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "28 U.S.C. § 1915"
-generated_at: "2026-03-30T07:19:20.206Z"
+generated_at: "2026-03-30T07:22:13.195Z"
 status: "active"
 ---
 

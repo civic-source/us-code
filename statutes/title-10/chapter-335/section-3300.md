@@ -3,9 +3,9 @@ title: "Section 3300 - Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1
 usc_title: 10
 usc_section: "3300"
 chapter: 335
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 3300"
-generated_at: "2026-03-30T07:18:47.461Z"
+generated_at: "2026-03-30T07:21:17.998Z"
 status: "repealed"
 ---
 

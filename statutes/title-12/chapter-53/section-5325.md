@@ -3,9 +3,9 @@ title: "Section 5325 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5325"
 chapter: 53
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 5325"
-generated_at: "2026-03-30T07:18:52.966Z"
+generated_at: "2026-03-30T07:21:39.114Z"
 status: "active"
 ---
 

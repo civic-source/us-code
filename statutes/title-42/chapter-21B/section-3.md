@@ -3,9 +3,9 @@ title: "Section 3 - Applicability"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T07:20:27.394Z"
+generated_at: "2026-03-30T07:23:01.673Z"
 status: "active"
 ---
 

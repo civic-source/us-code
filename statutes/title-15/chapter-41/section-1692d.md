@@ -3,9 +3,9 @@ title: "Section 1692d - Harassment or abuse"
 usc_title: 15
 usc_section: "1692d"
 chapter: 41
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 1692d"
-generated_at: "2026-03-30T07:18:56.293Z"
+generated_at: "2026-03-30T07:21:41.581Z"
 status: "active"
 ---
 

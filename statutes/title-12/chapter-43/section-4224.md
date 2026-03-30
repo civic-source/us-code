@@ -3,9 +3,9 @@ title: "Section 4224 - Ineligibility to file valid declarations"
 usc_title: 12
 usc_section: "4224"
 chapter: 43
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 4224"
-generated_at: "2026-03-30T07:18:52.943Z"
+generated_at: "2026-03-30T07:21:39.090Z"
 status: "active"
 ---
 

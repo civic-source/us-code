@@ -3,9 +3,9 @@ title: "Section 629g - Discretionary and targeted grants"
 usc_title: 42
 usc_section: "629g"
 chapter: 7
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 629g"
-generated_at: "2026-03-30T07:20:27.194Z"
+generated_at: "2026-03-30T07:23:01.472Z"
 status: "active"
 ---
 

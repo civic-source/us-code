@@ -3,9 +3,9 @@ title: "Section 569e - Use of private sector resources in surveying and mapping"
 usc_title: 33
 usc_section: "569e"
 chapter: 12
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "33 U.S.C. § 569e"
-generated_at: "2026-03-30T07:19:32.386Z"
+generated_at: "2026-03-30T07:22:26.307Z"
 status: "active"
 ---
 

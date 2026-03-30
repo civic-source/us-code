@@ -3,9 +3,9 @@ title: "Section 101512 - Conveyance to States of roads leading to certain histor
 usc_title: 54
 usc_section: "101512"
 chapter: 1015
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "54 U.S.C. § 101512"
-generated_at: "2026-03-30T07:20:54.101Z"
+generated_at: "2026-03-30T07:23:11.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6201 - Assessment authority"
 usc_title: 26
 usc_section: "6201"
 chapter: 63
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 6201"
-generated_at: "2026-03-30T07:19:27.786Z"
+generated_at: "2026-03-30T07:22:21.872Z"
 status: "active"
 ---
 

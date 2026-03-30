@@ -3,9 +3,9 @@ title: "Section 1621w - Repealed. Pub. L. 111–148, title X , § 10221(a), Mar.
 usc_title: 25
 usc_section: "1621w"
 chapter: 18
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "25 U.S.C. § 1621w"
-generated_at: "2026-03-30T07:19:10.725Z"
+generated_at: "2026-03-30T07:22:07.338Z"
 status: "repealed"
 ---
 

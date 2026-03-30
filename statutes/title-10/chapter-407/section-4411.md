@@ -3,9 +3,9 @@ title: "Section 4411 - Establishment: purpose"
 usc_title: 10
 usc_section: "4411"
 chapter: 407
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 4411"
-generated_at: "2026-03-30T07:18:47.465Z"
+generated_at: "2026-03-30T07:21:18.001Z"
 status: "active"
 ---
 

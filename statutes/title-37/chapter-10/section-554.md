@@ -3,9 +3,9 @@ title: "Section 554 - Renumbered § 484]"
 usc_title: 37
 usc_section: "554"
 chapter: 10
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "37 U.S.C. § 554"
-generated_at: "2026-03-30T07:19:55.077Z"
+generated_at: "2026-03-30T07:22:31.427Z"
 status: "renumbered"
 ---
 

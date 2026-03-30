@@ -3,9 +3,9 @@ title: "Section 1831a - Activities of insured State banks"
 usc_title: 12
 usc_section: "1831a"
 chapter: 16
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 1831a"
-generated_at: "2026-03-30T07:18:52.900Z"
+generated_at: "2026-03-30T07:21:39.043Z"
 status: "active"
 ---
 

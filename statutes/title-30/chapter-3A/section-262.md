@@ -3,9 +3,9 @@ title: "Section 262 - Leases to permittees; survey of lands; royalties and annua
 usc_title: 30
 usc_section: "262"
 chapter: 3
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "30 U.S.C. § 262"
-generated_at: "2026-03-30T07:19:28.382Z"
+generated_at: "2026-03-30T07:22:13.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Notice of branch closure"
 usc_title: 12
 usc_section: "1"
 chapter: 16
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T07:18:52.905Z"
+generated_at: "2026-03-30T07:21:39.049Z"
 status: "active"
 ---
 

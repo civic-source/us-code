@@ -3,9 +3,9 @@ title: "Section 4312 - Property transferred to Alien Property Custodian"
 usc_title: 50
 usc_section: "4312"
 chapter: 53
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 4312"
-generated_at: "2026-03-30T07:20:51.757Z"
+generated_at: "2026-03-30T07:23:09.733Z"
 status: "active"
 ---
 

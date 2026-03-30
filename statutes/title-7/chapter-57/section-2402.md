@@ -3,9 +3,9 @@ title: "Section 2402 - Right to plant variety protection; plant varieties protec
 usc_title: 7
 usc_section: "2402"
 chapter: 57
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 2402"
-generated_at: "2026-03-30T07:18:43.675Z"
+generated_at: "2026-03-30T07:21:14.606Z"
 status: "active"
 ---
 

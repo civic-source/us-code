@@ -3,9 +3,9 @@ title: "Section 2736 - Omitted"
 usc_title: 42
 usc_section: "2736"
 chapter: 34
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "42 U.S.C. § 2736"
-generated_at: "2026-03-30T07:20:27.415Z"
+generated_at: "2026-03-30T07:23:01.695Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2451 - Separate treatment in budget"
 usc_title: 50
 usc_section: "2451"
 chapter: 41
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 2451"
-generated_at: "2026-03-30T07:20:51.726Z"
+generated_at: "2026-03-30T07:23:09.694Z"
 status: "active"
 ---
 

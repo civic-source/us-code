@@ -3,9 +3,9 @@ title: "Section 1881 - “Federal supervisory agency” defined"
 usc_title: 12
 usc_section: "1881"
 chapter: 19
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 1881"
-generated_at: "2026-03-30T07:18:52.912Z"
+generated_at: "2026-03-30T07:21:39.057Z"
 status: "active"
 ---
 

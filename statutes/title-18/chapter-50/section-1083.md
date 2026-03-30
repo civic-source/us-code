@@ -3,9 +3,9 @@ title: "Section 1083 - Transportation between shore and ship; penalties"
 usc_title: 18
 usc_section: "1083"
 chapter: 50
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 1083"
-generated_at: "2026-03-30T07:19:02.947Z"
+generated_at: "2026-03-30T07:21:56.007Z"
 status: "active"
 ---
 

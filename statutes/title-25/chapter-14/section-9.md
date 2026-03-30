@@ -3,9 +3,9 @@ title: "Section 9 - Omitted"
 usc_title: 25
 usc_section: "9"
 chapter: 14
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "25 U.S.C. § 9"
-generated_at: "2026-03-30T07:19:10.718Z"
+generated_at: "2026-03-30T07:22:07.332Z"
 status: "omitted"
 ---
 

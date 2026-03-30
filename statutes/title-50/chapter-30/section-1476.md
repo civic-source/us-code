@@ -3,9 +3,9 @@ title: "Section 1476 - Transferred"
 usc_title: 50
 usc_section: "1476"
 chapter: 30
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "50 U.S.C. § 1476"
-generated_at: "2026-03-30T07:20:51.710Z"
+generated_at: "2026-03-30T07:23:09.675Z"
 status: "transferred"
 ---
 

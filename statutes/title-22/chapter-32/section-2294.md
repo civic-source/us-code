@@ -3,9 +3,9 @@ title: "Section 2294 - Authorizations of appropriations for Development Fund for
 usc_title: 22
 usc_section: "2294"
 chapter: 32
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 2294"
-generated_at: "2026-03-30T07:19:15.799Z"
+generated_at: "2026-03-30T07:22:06.524Z"
 status: "active"
 ---
 

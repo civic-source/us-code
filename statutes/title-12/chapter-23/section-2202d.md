@@ -3,9 +3,9 @@ title: "Section 2202d - Protection of borrowers who meet all loan obligations"
 usc_title: 12
 usc_section: "2202d"
 chapter: 23
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 2202d"
-generated_at: "2026-03-30T07:18:52.917Z"
+generated_at: "2026-03-30T07:21:39.062Z"
 status: "active"
 ---
 

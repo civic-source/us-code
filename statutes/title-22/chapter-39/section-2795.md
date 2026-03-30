@@ -3,9 +3,9 @@ title: "Section 2795 - Fund"
 usc_title: 22
 usc_section: "2795"
 chapter: 39
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 2795"
-generated_at: "2026-03-30T07:19:15.823Z"
+generated_at: "2026-03-30T07:22:06.548Z"
 status: "active"
 ---
 

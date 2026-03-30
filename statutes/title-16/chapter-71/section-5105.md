@@ -3,9 +3,9 @@ title: "Section 5105 - State noncompliance with coastal fishery management plans
 usc_title: 16
 usc_section: "5105"
 chapter: 71
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "16 U.S.C. § 5105"
-generated_at: "2026-03-30T07:19:06.142Z"
+generated_at: "2026-03-30T07:22:00.112Z"
 status: "active"
 ---
 

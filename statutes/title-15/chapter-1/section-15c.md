@@ -3,9 +3,9 @@ title: "Section 15c - Actions by State attorneys general"
 usc_title: 15
 usc_section: "15c"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 15c"
-generated_at: "2026-03-30T07:18:56.172Z"
+generated_at: "2026-03-30T07:21:41.454Z"
 status: "active"
 ---
 

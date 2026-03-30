@@ -3,9 +3,9 @@ title: "Section 345 - Regional Defense Combating Terrorism Fellowship Program"
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-03-30T07:18:47.365Z"
+generated_at: "2026-03-30T07:21:17.901Z"
 status: "active"
 ---
 

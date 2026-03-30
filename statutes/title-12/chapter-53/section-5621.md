@@ -3,9 +3,9 @@ title: "Section 5621 - Purpose"
 usc_title: 12
 usc_section: "5621"
 chapter: 53
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 5621"
-generated_at: "2026-03-30T07:18:52.985Z"
+generated_at: "2026-03-30T07:21:39.134Z"
 status: "active"
 ---
 

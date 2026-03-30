@@ -3,9 +3,9 @@ title: "Section 655 - Off-budget agencies, programs, and activities"
 usc_title: 2
 usc_section: "655"
 chapter: 17
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "2 U.S.C. § 655"
-generated_at: "2026-03-30T07:18:35.964Z"
+generated_at: "2026-03-30T07:21:05.868Z"
 status: "active"
 ---
 

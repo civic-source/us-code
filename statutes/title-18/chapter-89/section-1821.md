@@ -3,9 +3,9 @@ title: "Section 1821 - Transportation of dentures"
 usc_title: 18
 usc_section: "1821"
 chapter: 89
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 1821"
-generated_at: "2026-03-30T07:19:02.954Z"
+generated_at: "2026-03-30T07:21:56.014Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 721 - Repealed. Pub. L. 92–318, title I , § 161(b)(2), June 2
 usc_title: 20
 usc_section: "721"
 chapter: 21
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "20 U.S.C. § 721"
-generated_at: "2026-03-30T07:19:01.977Z"
+generated_at: "2026-03-30T07:21:47.204Z"
 status: "repealed"
 ---
 

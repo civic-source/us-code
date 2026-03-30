@@ -3,9 +3,9 @@ title: "Section 7316 - Commission procedures"
 usc_title: 7
 usc_section: "7316"
 chapter: 100
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "7 U.S.C. § 7316"
-generated_at: "2026-03-30T07:18:43.718Z"
+generated_at: "2026-03-30T07:21:14.648Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1261 - Definitions"
 usc_title: 15
 usc_section: "1261"
 chapter: 30
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "15 U.S.C. § 1261"
-generated_at: "2026-03-30T07:18:56.270Z"
+generated_at: "2026-03-30T07:21:41.557Z"
 status: "active"
 ---
 

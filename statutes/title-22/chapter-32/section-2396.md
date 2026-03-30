@@ -3,9 +3,9 @@ title: "Section 2396 - Availability of funds"
 usc_title: 22
 usc_section: "2396"
 chapter: 32
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "22 U.S.C. § 2396"
-generated_at: "2026-03-30T07:19:15.806Z"
+generated_at: "2026-03-30T07:22:06.531Z"
 status: "active"
 ---
 

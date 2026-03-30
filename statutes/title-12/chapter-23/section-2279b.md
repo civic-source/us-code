@@ -3,9 +3,9 @@ title: "Section 2279b - Transfer of lending authority"
 usc_title: 12
 usc_section: "2279b"
 chapter: 23
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "12 U.S.C. § 2279b"
-generated_at: "2026-03-30T07:18:52.923Z"
+generated_at: "2026-03-30T07:21:39.069Z"
 status: "active"
 ---
 

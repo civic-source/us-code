@@ -3,9 +3,9 @@ title: "Section 229 - Prohibited activities"
 usc_title: 18
 usc_section: "229"
 chapter: 11
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "18 U.S.C. § 229"
-generated_at: "2026-03-30T07:19:02.931Z"
+generated_at: "2026-03-30T07:21:55.992Z"
 status: "active"
 ---
 

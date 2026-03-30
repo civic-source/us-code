@@ -3,9 +3,9 @@ title: "Section 3402 - Program established"
 usc_title: 33
 usc_section: "3402"
 chapter: 47
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "33 U.S.C. § 3402"
-generated_at: "2026-03-30T07:19:32.440Z"
+generated_at: "2026-03-30T07:22:26.372Z"
 status: "active"
 ---
 

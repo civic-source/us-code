@@ -3,9 +3,9 @@ title: "Section 136 - Control of junkyards"
 usc_title: 23
 usc_section: "136"
 chapter: 1
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "23 U.S.C. § 136"
-generated_at: "2026-03-30T07:19:11.160Z"
+generated_at: "2026-03-30T07:22:04.163Z"
 status: "active"
 ---
 

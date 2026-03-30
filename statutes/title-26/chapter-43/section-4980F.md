@@ -3,9 +3,9 @@ title: "Section 4980F - Failure of applicable plans reducing benefit accruals to
 usc_title: 26
 usc_section: "4980F"
 chapter: 43
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "26 U.S.C. § 4980F"
-generated_at: "2026-03-30T07:19:27.760Z"
+generated_at: "2026-03-30T07:22:21.844Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3463 - Personnel reduction and annual limitations"
 usc_title: 20
 usc_section: "3463"
 chapter: 48
-current_through: "PL 115-179"
+current_through: "PL 115-181"
 classification: "20 U.S.C. § 3463"
-generated_at: "2026-03-30T07:19:02.057Z"
+generated_at: "2026-03-30T07:21:47.290Z"
 status: "active"
 ---
 
