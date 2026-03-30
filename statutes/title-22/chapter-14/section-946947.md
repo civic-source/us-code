@@ -3,9 +3,9 @@ title: "Section 946947 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct.
 usc_title: 22
 usc_section: "946947"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 946947"
-generated_at: "2026-03-30T04:34:03.702Z"
+generated_at: "2026-03-30T04:36:18.219Z"
 status: "repealed"
 ---
 

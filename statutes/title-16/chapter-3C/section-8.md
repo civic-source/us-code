@@ -3,9 +3,9 @@ title: "Section 8 - Authority of Secretary of the Interior over lands, contracts
 usc_title: 16
 usc_section: "8"
 chapter: 3
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T04:33:54.881Z"
+generated_at: "2026-03-30T04:36:10.333Z"
 status: "active"
 ---
 

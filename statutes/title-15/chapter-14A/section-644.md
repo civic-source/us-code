@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T04:33:45.750Z"
+generated_at: "2026-03-30T04:35:45.402Z"
 status: "active"
 ---
 
@@ -154,7 +154,7 @@ status: "active"
     - **(A)** who shall be a full-time employee of the procuring activity and shall be well qualified, technically trained and familiar with the supplies or services purchased at the activity; and
     - **(B)** whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to this section and section 637 of this title , 4
   - **(9)** shall cooperate, and consult on a regular basis, with the Administration with respect to carrying out the functions and duties described in paragraph (4) of this subsection;
-  - **(10)** shall make recommendations to contracting officers as to whether a particular contract requirement should be awarded pursuant to subsection (a), section 637(a) of this title , or section 2323 of title 10 , which shall be made with due regard to the requirements of subsection (m) of this section, and the failure of the contracting officer to accept any such recommendations shall be documented and included within the appropriate contract file;
+  - **(10)** shall make recommendations to contracting officers as to whether a particular contract requirement should be awarded pursuant to subsection (a), section 637(a) of this title , or section 2323 of title 10 , which shall be made with due regard to the requirements of subsection (m), and the failure of the contracting officer to accept any such recommendations shall be documented and included within the appropriate contract file;
   - **(11)** shall review and advise such agency on any decision to convert an activity performed by a small business concern to an activity performed by a Federal employee;
   - **(12)** shall provide to the Chief Acquisition Officer and senior procurement executive of such agency advice and comments on acquisition strategies, market research, and justifications related to section 657q of this title ;
   - **(13)** may provide training to small business concerns and contract specialists, except that such training may only be provided to the extent that the training does not interfere with the Director carrying out other responsibilities under this subsection;
@@ -176,8 +176,8 @@ status: "active"
     - **(G)** consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph 5 5 So in original. Probably should be “paragraphs”. (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
     - **(H)** be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified; and
     - **(I)** carry out any other responsibility assigned by the Administrator.
-  - **(3)** A procurement center representative is authorized to appeal the failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be filed and processed in the same manner and subject to the same conditions and limitations as an appeal filed by the Administrator pursuant to subsection (a) of this section.
-  - **(4)** The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the procurement center representative for the center to which such advisers are assigned in carrying out the functions described in paragraph (2) and the representatives referred to in subsection (k)(6) of this section.
+  - **(3)** A procurement center representative is authorized to appeal the failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be filed and processed in the same manner and subject to the same conditions and limitations as an appeal filed by the Administrator pursuant to subsection (a).
+  - **(4)** The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the procurement center representative for the center to which such advisers are assigned in carrying out the functions described in paragraph (2) and the representatives referred to in subsection (k)(6).
   - **(5)**
     - **(A)** A procurement center representative assigned under this subsection shall—
       - **(i)** be a full-time employee of the Administration;
@@ -193,7 +193,7 @@ status: "active"
   - **(1)** Each agency subject to the requirements of section 2323 of title 10 shall, when implementing such requirements—
     - **(A)** establish policies and procedures that insure that there will be no reduction in the number of 7 7 So in original. Probably should be “or”. dollar value of contracts awarded pursuant to this section and section 637(a) of this title in order to achieve any goal or other program objective; and
     - **(B)** assure that such requirements will not alter or change the procurement process used to implement this section or section 637(a) of this title .
-  - **(2)** All procurement center representatives (including those referred to in subsection (k)(6) of this section), in addition to such other duties as may be assigned by the Administrator, shall—
+  - **(2)** All procurement center representatives (including those referred to in subsection (k)(6)), in addition to such other duties as may be assigned by the Administrator, shall—
     - **(A)** monitor the performance of the procurement activities to which they are assigned to ascertain the degree of compliance with the requirements of paragraph (1);
     - **(B)** report to their immediate supervisors all instances of noncompliance with such requirements; and
     - **(C)** increase, insofar as possible, the number and dollar value of procurements that may be used for the programs established under this section, section 637(a) of this title , and section 2323 of title 10 .
@@ -206,7 +206,7 @@ status: "active"
       - **(i)** each bundled contract awarded by a Federal agency; and
       - **(ii)** each small business concern that has been displaced as a prime contractor as a result of the award of such a contract.
   - **(3)** For each bundled contract that is to be recompeted as a bundled contract, the Administrator shall determine—
-    - **(A)** the amount of savings and benefits (in accordance with subsection (e) of this section) achieved under the bundling of contract requirements; and
+    - **(A)** the amount of savings and benefits (in accordance with subsection (e)) achieved under the bundling of contract requirements; and
     - **(B)** whether such savings and benefits will continue to be realized if the contract remains bundled, and whether such savings and benefits would be greater if the procurement requirements were divided into separate solicitations suitable for award to small business concerns.
   - **(4)**
     - **(A)** Not later than 1 year after December 21, 2000 , and annually in March thereafter, the Administration shall transmit a report on contract bundling to the Committees on Small Business of the House of Representatives and the Senate.

@@ -3,9 +3,9 @@ title: "Section 30124 - Nonuse of safety belts"
 usc_title: 49
 usc_section: "30124"
 chapter: 301
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "49 U.S.C. § 30124"
-generated_at: "2026-03-30T04:34:47.991Z"
+generated_at: "2026-03-30T04:37:48.261Z"
 status: "active"
 ---
 

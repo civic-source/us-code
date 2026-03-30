@@ -3,9 +3,9 @@ title: "Section 1148 - Regional agricultural credit corporations; creation; capi
 usc_title: 12
 usc_section: "1148"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "12 U.S.C. § 1148"
-generated_at: "2026-03-30T04:33:43.865Z"
+generated_at: "2026-03-30T04:35:51.143Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 754to756 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029
 usc_title: 43
 usc_section: "754to756"
 chapter: 18
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 754to756"
-generated_at: "2026-03-30T04:34:27.140Z"
+generated_at: "2026-03-30T04:36:57.600Z"
 status: "repealed"
 ---
 

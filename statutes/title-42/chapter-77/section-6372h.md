@@ -3,9 +3,9 @@ title: "Section 6372h - Administration; detailed description in annual report"
 usc_title: 42
 usc_section: "6372h"
 chapter: 77
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 6372h"
-generated_at: "2026-03-30T04:34:39.646Z"
+generated_at: "2026-03-30T04:37:13.610Z"
 status: "active"
 ---
 

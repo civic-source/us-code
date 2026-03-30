@@ -3,9 +3,9 @@ title: "Section 11to14 - Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5,
 usc_title: 20
 usc_section: "11to14"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 11to14"
-generated_at: "2026-03-30T04:33:52.023Z"
+generated_at: "2026-03-30T04:36:07.660Z"
 status: "repealed"
 ---
 

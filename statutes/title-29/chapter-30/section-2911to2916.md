@@ -3,9 +3,9 @@ title: "Section 2911to2916 - Repealed. Pub. L. 113–128, title V, § 511(a) , J
 usc_title: 29
 usc_section: "2911to2916"
 chapter: 30
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "29 U.S.C. § 2911to2916"
-generated_at: "2026-03-30T04:34:16.322Z"
+generated_at: "2026-03-30T04:36:21.467Z"
 status: "repealed"
 ---
 

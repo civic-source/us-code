@@ -3,9 +3,9 @@ title: "Section 1359ee - Reassignment of deficits"
 usc_title: 7
 usc_section: "1359ee"
 chapter: 35
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 1359ee"
-generated_at: "2026-03-30T04:33:35.932Z"
+generated_at: "2026-03-30T04:35:39.981Z"
 status: "active"
 ---
 

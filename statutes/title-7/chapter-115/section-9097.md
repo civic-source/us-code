@@ -3,9 +3,9 @@ title: "Section 9097 - Implementation"
 usc_title: 7
 usc_section: "9097"
 chapter: 115
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 9097"
-generated_at: "2026-03-30T04:33:36.063Z"
+generated_at: "2026-03-30T04:35:40.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111c - Revision of boundaries; vested rights; administration"
 usc_title: 16
 usc_section: "111c"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 111c"
-generated_at: "2026-03-30T04:33:54.774Z"
+generated_at: "2026-03-30T04:36:10.235Z"
 status: "active"
 ---
 

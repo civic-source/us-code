@@ -3,9 +3,9 @@ title: "Section 655 - Pilot Technology Access Program"
 usc_title: 15
 usc_section: "655"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 655"
-generated_at: "2026-03-30T04:33:45.753Z"
+generated_at: "2026-03-30T04:35:45.406Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Administration, in consultation with the National Institute of Standards and Technology and the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section to Small Business Development Centers (hereinafter in this section referred to as “Centers”).
 - **(b)** The Administrator of the Small Business Administration shall establish competitive, merit-based criteria for the selection of Centers to receive awards on the basis of—
-  - **(1)** the ability of the applicant to carry out the purposes described in subsection (d) of this section in a manner relevant to the needs of industries in the area served by the Center;
+  - **(1)** the ability of the applicant to carry out the purposes described in subsection (d) in a manner relevant to the needs of industries in the area served by the Center;
   - **(2)** the ability of the applicant to integrate the implementation of this program with existing Federal and State technical and business assistance resources; and
   - **(3)** the ability of the applicant to continue providing technology access after the termination of this pilot program.
 - **(c)** To be eligible to receive an award under this section, an applicant shall provide a matching contribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.

@@ -3,9 +3,9 @@ title: "Section 1152 - Distribution in equal shares"
 usc_title: 25
 usc_section: "1152"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 1152"
-generated_at: "2026-03-30T04:33:59.906Z"
+generated_at: "2026-03-30T04:36:15.514Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4113 - Review of plans"
 usc_title: 25
 usc_section: "4113"
 chapter: 43
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 4113"
-generated_at: "2026-03-30T04:33:59.956Z"
+generated_at: "2026-03-30T04:36:15.562Z"
 status: "active"
 ---
 

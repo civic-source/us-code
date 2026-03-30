@@ -3,9 +3,9 @@ title: "Section 1954 - Coordination"
 usc_title: 33
 usc_section: "1954"
 chapter: 33
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 1954"
-generated_at: "2026-03-30T04:34:20.132Z"
+generated_at: "2026-03-30T04:36:42.220Z"
 status: "active"
 ---
 

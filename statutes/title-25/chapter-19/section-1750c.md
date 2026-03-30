@@ -3,9 +3,9 @@ title: "Section 1750c - Authority of Secretary"
 usc_title: 25
 usc_section: "1750c"
 chapter: 19
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 1750c"
-generated_at: "2026-03-30T04:33:59.927Z"
+generated_at: "2026-03-30T04:36:15.533Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111to116 - Repealed. Aug. 9, 1939, ch. 615, § 419 , 53 Stat. 12
 usc_title: 7
 usc_section: "111to116"
 chapter: 5
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 111to116"
-generated_at: "2026-03-30T04:33:35.891Z"
+generated_at: "2026-03-30T04:35:39.939Z"
 status: "repealed"
 ---
 

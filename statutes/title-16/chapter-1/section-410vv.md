@@ -3,9 +3,9 @@ title: "Section 410vv - Purposes"
 usc_title: 16
 usc_section: "410vv"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 410vv"
-generated_at: "2026-03-30T04:33:54.802Z"
+generated_at: "2026-03-30T04:36:10.260Z"
 status: "active"
 ---
 

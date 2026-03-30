@@ -3,9 +3,9 @@ title: "Section 92 - Repealed. Pub. L. 85–56, title XXII, § 2202(66) , June 1
 usc_title: 24
 usc_section: "92"
 chapter: 3
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "24 U.S.C. § 92"
-generated_at: "2026-03-30T04:33:56.894Z"
+generated_at: "2026-03-30T04:36:13.826Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 90 - Arctic maritime transportation"
 usc_title: 14
 usc_section: "90"
 chapter: 5
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "14 U.S.C. § 90"
-generated_at: "2026-03-30T04:33:41.443Z"
+generated_at: "2026-03-30T04:35:43.246Z"
 status: "active"
 ---
 

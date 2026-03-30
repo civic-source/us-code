@@ -3,9 +3,9 @@ title: "Section 2306 - Insurance for Museum"
 usc_title: 36
 usc_section: "2306"
 chapter: 23
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 2306"
-generated_at: "2026-03-30T04:34:22.876Z"
+generated_at: "2026-03-30T04:36:44.421Z"
 status: "active"
 ---
 

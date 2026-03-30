@@ -3,9 +3,9 @@ title: "Section 923 - Filing of notice of claim"
 usc_title: 30
 usc_section: "923"
 chapter: 22
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "30 U.S.C. § 923"
-generated_at: "2026-03-30T04:34:12.490Z"
+generated_at: "2026-03-30T04:36:20.561Z"
 status: "active"
 ---
 

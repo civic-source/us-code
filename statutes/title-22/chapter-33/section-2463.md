@@ -3,9 +3,9 @@ title: "Section 2463 - Allocation of funds transferred to the Bureau of Educatio
 usc_title: 22
 usc_section: "2463"
 chapter: 33
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 2463"
-generated_at: "2026-03-30T04:34:03.736Z"
+generated_at: "2026-03-30T04:36:18.253Z"
 status: "active"
 ---
 

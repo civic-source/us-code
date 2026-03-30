@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 30
 usc_section: "2002"
 chapter: 32
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "30 U.S.C. § 2002"
-generated_at: "2026-03-30T04:34:12.509Z"
+generated_at: "2026-03-30T04:36:20.578Z"
 status: "active"
 ---
 

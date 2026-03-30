@@ -3,9 +3,9 @@ title: "Section 2780 - Debt collection"
 usc_title: 10
 usc_section: "2780"
 chapter: 165
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 2780"
-generated_at: "2026-03-30T04:33:39.097Z"
+generated_at: "2026-03-30T04:35:16.550Z"
 status: "active"
 ---
 

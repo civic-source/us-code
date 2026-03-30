@@ -3,9 +3,9 @@ title: "Section 5 - Voluntary public access and habitat incentive program"
 usc_title: 16
 usc_section: "5"
 chapter: 58
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T04:33:54.985Z"
+generated_at: "2026-03-30T04:36:10.430Z"
 status: "active"
 ---
 

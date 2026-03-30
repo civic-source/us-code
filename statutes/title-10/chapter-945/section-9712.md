@@ -3,9 +3,9 @@ title: "Section 9712 - Disposition of effects of deceased persons by summary cou
 usc_title: 10
 usc_section: "9712"
 chapter: 945
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 9712"
-generated_at: "2026-03-30T04:33:39.131Z"
+generated_at: "2026-03-30T04:35:16.582Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 949f - Challenges"
 usc_title: 10
 usc_section: "949f"
 chapter: 47
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 949f"
-generated_at: "2026-03-30T04:33:39.027Z"
+generated_at: "2026-03-30T04:35:16.486Z"
 status: "active"
 ---
 

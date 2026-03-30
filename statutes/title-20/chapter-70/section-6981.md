@@ -3,9 +3,9 @@ title: "Section 6981 - Release time"
 usc_title: 20
 usc_section: "6981"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 6981"
-generated_at: "2026-03-30T04:33:52.145Z"
+generated_at: "2026-03-30T04:36:07.771Z"
 status: "active"
 ---
 

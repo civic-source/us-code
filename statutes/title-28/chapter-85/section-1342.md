@@ -3,9 +3,9 @@ title: "Section 1342 - Rate orders of State agencies"
 usc_title: 28
 usc_section: "1342"
 chapter: 85
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "28 U.S.C. § 1342"
-generated_at: "2026-03-30T04:34:06.497Z"
+generated_at: "2026-03-30T04:36:23.693Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Definitions"
 usc_title: 30
 usc_section: "2"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "30 U.S.C. § 2"
-generated_at: "2026-03-30T04:34:12.475Z"
+generated_at: "2026-03-30T04:36:20.545Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3701 - Findings"
 usc_title: 19
 usc_section: "3701"
 chapter: 23
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "19 U.S.C. § 3701"
-generated_at: "2026-03-30T04:33:50.236Z"
+generated_at: "2026-03-30T04:36:05.694Z"
 status: "active"
 ---
 

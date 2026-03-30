@@ -3,9 +3,9 @@ title: "Section 6812 - Repeal of superseded admission and use fee authorities"
 usc_title: 16
 usc_section: "6812"
 chapter: 87
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 6812"
-generated_at: "2026-03-30T04:33:55.008Z"
+generated_at: "2026-03-30T04:36:10.451Z"
 status: "active"
 ---
 

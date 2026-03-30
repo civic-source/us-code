@@ -3,9 +3,9 @@ title: "Section 17533 - Bureau of Prisons policy on mentoring contacts"
 usc_title: 42
 usc_section: "17533"
 chapter: 153
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 17533"
-generated_at: "2026-03-30T04:34:39.862Z"
+generated_at: "2026-03-30T04:37:13.839Z"
 status: "active"
 ---
 

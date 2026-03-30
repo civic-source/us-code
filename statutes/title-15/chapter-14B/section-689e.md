@@ -3,9 +3,9 @@ title: "Section 689e - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "689e"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 689e"
-generated_at: "2026-03-30T04:33:45.759Z"
+generated_at: "2026-03-30T04:35:45.411Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** Each guarantee under this subsection shall be limited to the extent of principal and interest on the guaranteed debentures that compose the trust or pool.
   - **(3)** In the event that a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administrator only through the date of payment of the guarantee. At any time during its term, a trust certificate may be called for redemption due to prepayment or default of all debentures.
 - **(c)** The full faith and credit of the United States is pledged to pay all amounts that may be required to be paid under any guarantee of a trust certificate issued by the Administrator or its agents under this section.
-- **(d)** The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2) of this section.
+- **(d)** The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
 - **(e)**
   - **(1)** In the event the Administrator pays a claim under a guarantee issued under this section, it shall be subrogated fully to the rights satisfied by such payment.
   - **(2)** No Federal, State, or local law shall preclude or limit the exercise by the Administrator of its ownership rights in the debentures residing in a trust or pool against which trust certificates are issued under this section.

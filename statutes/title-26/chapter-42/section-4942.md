@@ -3,9 +3,9 @@ title: "Section 4942 - Taxes on failure to distribute income"
 usc_title: 26
 usc_section: "4942"
 chapter: 42
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 4942"
-generated_at: "2026-03-30T04:34:11.554Z"
+generated_at: "2026-03-30T04:36:32.200Z"
 status: "active"
 ---
 

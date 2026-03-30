@@ -3,9 +3,9 @@ title: "Section 361f - Exchange of lands"
 usc_title: 16
 usc_section: "361f"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 361f"
-generated_at: "2026-03-30T04:33:54.787Z"
+generated_at: "2026-03-30T04:36:10.246Z"
 status: "active"
 ---
 

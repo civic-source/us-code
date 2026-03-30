@@ -3,9 +3,9 @@ title: "Section 170108 - Records and inspection"
 usc_title: 36
 usc_section: "170108"
 chapter: 1701
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 170108"
-generated_at: "2026-03-30T04:34:22.896Z"
+generated_at: "2026-03-30T04:36:44.435Z"
 status: "active"
 ---
 

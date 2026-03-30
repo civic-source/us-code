@@ -3,9 +3,9 @@ title: "Section 387b - Adulterated tobacco products"
 usc_title: 21
 usc_section: "387b"
 chapter: 9
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "21 U.S.C. § 387b"
-generated_at: "2026-03-30T04:33:59.068Z"
+generated_at: "2026-03-30T04:36:16.455Z"
 status: "active"
 ---
 

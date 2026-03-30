@@ -3,9 +3,9 @@ title: "Section 5604 - Purpose of Foundation"
 usc_title: 20
 usc_section: "5604"
 chapter: 66
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 5604"
-generated_at: "2026-03-30T04:33:52.122Z"
+generated_at: "2026-03-30T04:36:07.750Z"
 status: "active"
 ---
 

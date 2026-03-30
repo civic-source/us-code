@@ -3,9 +3,9 @@ title: "Section 967c - Tax exemption"
 usc_title: 25
 usc_section: "967c"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 967c"
-generated_at: "2026-03-30T04:33:59.904Z"
+generated_at: "2026-03-30T04:36:15.512Z"
 status: "active"
 ---
 

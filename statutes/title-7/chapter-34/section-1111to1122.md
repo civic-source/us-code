@@ -3,9 +3,9 @@ title: "Section 1111to1122 - Omitted"
 usc_title: 7
 usc_section: "1111to1122"
 chapter: 34
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 1111to1122"
-generated_at: "2026-03-30T04:33:35.926Z"
+generated_at: "2026-03-30T04:35:39.975Z"
 status: "omitted"
 ---
 

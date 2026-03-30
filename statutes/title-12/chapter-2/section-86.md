@@ -3,9 +3,9 @@ title: "Section 86 - Usurious interest; penalty for taking; limitations"
 usc_title: 12
 usc_section: "86"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "12 U.S.C. § 86"
-generated_at: "2026-03-30T04:33:43.848Z"
+generated_at: "2026-03-30T04:35:51.129Z"
 status: "active"
 ---
 

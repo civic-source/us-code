@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T04:33:38.998Z"
+generated_at: "2026-03-30T04:35:16.460Z"
 status: "active"
 ---
 

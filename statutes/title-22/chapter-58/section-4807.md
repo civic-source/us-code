@@ -3,9 +3,9 @@ title: "Section 4807 - Establishment of Visa and Passport Security Program in th
 usc_title: 22
 usc_section: "4807"
 chapter: 58
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 4807"
-generated_at: "2026-03-30T04:34:03.771Z"
+generated_at: "2026-03-30T04:36:18.288Z"
 status: "active"
 ---
 

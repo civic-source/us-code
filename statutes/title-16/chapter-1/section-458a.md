@@ -3,9 +3,9 @@ title: "Section 458a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "458a"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 458a"
-generated_at: "2026-03-30T04:33:54.824Z"
+generated_at: "2026-03-30T04:36:10.280Z"
 status: "repealed"
 ---
 

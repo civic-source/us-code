@@ -3,9 +3,9 @@ title: "Section 70122 - Waterway watch program 1 1 So in original. Probably shou
 usc_title: 46
 usc_section: "70122"
 chapter: 701
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "46 U.S.C. § 70122"
-generated_at: "2026-03-30T04:34:42.949Z"
+generated_at: "2026-03-30T04:37:18.989Z"
 status: "active"
 ---
 

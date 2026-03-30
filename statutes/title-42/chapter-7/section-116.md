@@ -3,9 +3,9 @@ title: "Section 116 - Medicare Prescription Drug Account in the Federal Suppleme
 usc_title: 42
 usc_section: "116"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 116"
-generated_at: "2026-03-30T04:34:39.412Z"
+generated_at: "2026-03-30T04:37:13.370Z"
 status: "active"
 ---
 

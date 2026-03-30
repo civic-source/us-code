@@ -3,9 +3,9 @@ title: "Section 7678 - Interfering with delivery, custody, or sale of prize prop
 usc_title: 10
 usc_section: "7678"
 chapter: 655
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 7678"
-generated_at: "2026-03-30T04:33:39.123Z"
+generated_at: "2026-03-30T04:35:16.574Z"
 status: "active"
 ---
 

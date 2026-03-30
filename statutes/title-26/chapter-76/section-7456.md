@@ -3,9 +3,9 @@ title: "Section 7456 - Administration of oaths and procurement of testimony"
 usc_title: 26
 usc_section: "7456"
 chapter: 76
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 7456"
-generated_at: "2026-03-30T04:34:11.609Z"
+generated_at: "2026-03-30T04:36:32.254Z"
 status: "active"
 ---
 

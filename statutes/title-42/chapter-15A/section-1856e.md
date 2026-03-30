@@ -3,9 +3,9 @@ title: "Section 1856e - Reimbursement of fire funds"
 usc_title: 42
 usc_section: "1856e"
 chapter: 15
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 1856e"
-generated_at: "2026-03-30T04:34:39.516Z"
+generated_at: "2026-03-30T04:37:13.475Z"
 status: "active"
 ---
 

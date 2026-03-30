@@ -3,9 +3,9 @@ title: "Section 824825 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(1) ,
 usc_title: 45
 usc_section: "824825"
 chapter: 17
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "45 U.S.C. § 824825"
-generated_at: "2026-03-30T04:34:27.640Z"
+generated_at: "2026-03-30T04:36:57.080Z"
 status: "repealed"
 ---
 

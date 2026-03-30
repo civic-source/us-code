@@ -3,9 +3,9 @@ title: "Section 4028 - Training for Foreign Service officers"
 usc_title: 22
 usc_section: "4028"
 chapter: 52
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 4028"
-generated_at: "2026-03-30T04:34:03.760Z"
+generated_at: "2026-03-30T04:36:18.277Z"
 status: "active"
 ---
 

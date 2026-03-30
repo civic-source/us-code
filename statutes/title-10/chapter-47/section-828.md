@@ -3,9 +3,9 @@ title: "Section 828 - Art. 28. Detail or employment of reporters and interpreter
 usc_title: 10
 usc_section: "828"
 chapter: 47
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 828"
-generated_at: "2026-03-30T04:33:39.021Z"
+generated_at: "2026-03-30T04:35:16.481Z"
 status: "active"
 ---
 

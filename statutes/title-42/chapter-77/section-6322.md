@@ -3,9 +3,9 @@ title: "Section 6322 - State energy conservation plans"
 usc_title: 42
 usc_section: "6322"
 chapter: 77
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 6322"
-generated_at: "2026-03-30T04:34:39.643Z"
+generated_at: "2026-03-30T04:37:13.607Z"
 status: "active"
 ---
 

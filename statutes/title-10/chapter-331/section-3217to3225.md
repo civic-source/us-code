@@ -3,9 +3,9 @@ title: "Section 3217to3225 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "3217to3225"
 chapter: 331
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 3217to3225"
-generated_at: "2026-03-30T04:33:39.104Z"
+generated_at: "2026-03-30T04:35:16.557Z"
 status: "repealed"
 ---
 

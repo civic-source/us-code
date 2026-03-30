@@ -3,9 +3,9 @@ title: "Section 7503 - State plan"
 usc_title: 7
 usc_section: "7503"
 chapter: 102
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 7503"
-generated_at: "2026-03-30T04:33:36.039Z"
+generated_at: "2026-03-30T04:35:40.085Z"
 status: "active"
 ---
 

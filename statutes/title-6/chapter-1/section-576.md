@@ -3,9 +3,9 @@ title: "Section 576 - Emergency Communications Preparedness Center"
 usc_title: 6
 usc_section: "576"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "6 U.S.C. § 576"
-generated_at: "2026-03-30T04:33:32.913Z"
+generated_at: "2026-03-30T04:35:13.244Z"
 status: "active"
 ---
 

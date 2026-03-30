@@ -3,9 +3,9 @@ title: "Section 16531 - Definitions"
 usc_title: 42
 usc_section: "16531"
 chapter: 149
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 16531"
-generated_at: "2026-03-30T04:34:39.848Z"
+generated_at: "2026-03-30T04:37:13.824Z"
 status: "active"
 ---
 

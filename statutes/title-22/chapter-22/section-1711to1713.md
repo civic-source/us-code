@@ -3,9 +3,9 @@ title: "Section 1711to1713 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(
 usc_title: 22
 usc_section: "1711to1713"
 chapter: 22
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 1711to1713"
-generated_at: "2026-03-30T04:34:03.710Z"
+generated_at: "2026-03-30T04:36:18.226Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3316 - Certain authority not affected"
 usc_title: 40
 usc_section: "3316"
 chapter: 33
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "40 U.S.C. § 3316"
-generated_at: "2026-03-30T04:34:23.306Z"
+generated_at: "2026-03-30T04:36:53.558Z"
 status: "active"
 ---
 

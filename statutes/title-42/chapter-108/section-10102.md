@@ -3,9 +3,9 @@ title: "Section 10102 - Separability"
 usc_title: 42
 usc_section: "10102"
 chapter: 108
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 10102"
-generated_at: "2026-03-30T04:34:39.745Z"
+generated_at: "2026-03-30T04:37:13.715Z"
 status: "active"
 ---
 

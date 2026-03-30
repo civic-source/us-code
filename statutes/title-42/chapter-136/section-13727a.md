@@ -3,9 +3,9 @@ title: "Section 13727a - Federal law enforcement death in custody reporting requ
 usc_title: 42
 usc_section: "13727a"
 chapter: 136
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 13727a"
-generated_at: "2026-03-30T04:34:39.808Z"
+generated_at: "2026-03-30T04:37:13.781Z"
 status: "active"
 ---
 

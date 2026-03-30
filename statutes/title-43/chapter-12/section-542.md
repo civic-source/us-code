@@ -3,9 +3,9 @@ title: "Section 542 - Reservation of lien for charges; enforcement of lien; rede
 usc_title: 43
 usc_section: "542"
 chapter: 12
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 542"
-generated_at: "2026-03-30T04:34:27.134Z"
+generated_at: "2026-03-30T04:36:57.593Z"
 status: "active"
 ---
 

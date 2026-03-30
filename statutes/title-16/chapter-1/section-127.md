@@ -3,9 +3,9 @@ title: "Section 127 - Hunting and fishing; rules and regulations; punishment"
 usc_title: 16
 usc_section: "127"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 127"
-generated_at: "2026-03-30T04:33:54.775Z"
+generated_at: "2026-03-30T04:36:10.235Z"
 status: "active"
 ---
 

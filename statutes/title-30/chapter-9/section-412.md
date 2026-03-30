@@ -3,9 +3,9 @@ title: "Section 412 - Acquisition of lands and interests; acceptance of money an
 usc_title: 30
 usc_section: "412"
 chapter: 9
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "30 U.S.C. § 412"
-generated_at: "2026-03-30T04:34:12.483Z"
+generated_at: "2026-03-30T04:36:20.553Z"
 status: "active"
 ---
 

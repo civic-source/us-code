@@ -3,9 +3,9 @@ title: "Section 7633 - Food and agriculture service learning program"
 usc_title: 7
 usc_section: "7633"
 chapter: 103
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 7633"
-generated_at: "2026-03-30T04:33:36.042Z"
+generated_at: "2026-03-30T04:35:40.087Z"
 status: "active"
 ---
 

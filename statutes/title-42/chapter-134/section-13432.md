@@ -3,9 +3,9 @@ title: "Section 13432 - Advanced automotive fuel economy"
 usc_title: 42
 usc_section: "13432"
 chapter: 134
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 13432"
-generated_at: "2026-03-30T04:34:39.802Z"
+generated_at: "2026-03-30T04:37:13.775Z"
 status: "active"
 ---
 

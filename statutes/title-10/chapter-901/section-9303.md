@@ -3,9 +3,9 @@ title: "Section 9303 - Aviation cadets and aviation students: schools"
 usc_title: 10
 usc_section: "9303"
 chapter: 901
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 9303"
-generated_at: "2026-03-30T04:33:39.127Z"
+generated_at: "2026-03-30T04:35:16.578Z"
 status: "active"
 ---
 

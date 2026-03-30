@@ -3,9 +3,9 @@ title: "Section 1605 - Disclosure and enforcement"
 usc_title: 2
 usc_section: "1605"
 chapter: 26
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "2 U.S.C. § 1605"
-generated_at: "2026-03-30T04:33:29.747Z"
+generated_at: "2026-03-30T04:35:03.730Z"
 status: "active"
 ---
 

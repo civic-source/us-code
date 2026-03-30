@@ -3,9 +3,9 @@ title: "Section 5537to5539 - Repealed. Pub. L. 90–235, § 2(a)(3) , Jan. 2, 19
 usc_title: 10
 usc_section: "5537to5539"
 chapter: 537
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 5537to5539"
-generated_at: "2026-03-30T04:33:39.113Z"
+generated_at: "2026-03-30T04:35:16.565Z"
 status: "repealed"
 ---
 

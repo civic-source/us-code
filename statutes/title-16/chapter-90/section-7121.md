@@ -3,9 +3,9 @@ title: "Section 7121 - Definitions"
 usc_title: 16
 usc_section: "7121"
 chapter: 90
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 7121"
-generated_at: "2026-03-30T04:33:55.010Z"
+generated_at: "2026-03-30T04:36:10.453Z"
 status: "active"
 ---
 

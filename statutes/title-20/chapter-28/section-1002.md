@@ -3,9 +3,9 @@ title: "Section 1002 - Definition of institution of higher education for purpose
 usc_title: 20
 usc_section: "1002"
 chapter: 28
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 1002"
-generated_at: "2026-03-30T04:33:52.035Z"
+generated_at: "2026-03-30T04:36:07.671Z"
 status: "active"
 ---
 

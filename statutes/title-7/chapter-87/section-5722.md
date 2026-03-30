@@ -3,9 +3,9 @@ title: "Section 5722 - Foreign market development cooperator program"
 usc_title: 7
 usc_section: "5722"
 chapter: 87
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 5722"
-generated_at: "2026-03-30T04:33:36.012Z"
+generated_at: "2026-03-30T04:35:40.059Z"
 status: "active"
 ---
 

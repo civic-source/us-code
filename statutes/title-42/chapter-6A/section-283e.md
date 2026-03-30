@@ -3,9 +3,9 @@ title: "Section 283e - Plan for use of animals in research"
 usc_title: 42
 usc_section: "283e"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 283e"
-generated_at: "2026-03-30T04:34:39.228Z"
+generated_at: "2026-03-30T04:37:13.184Z"
 status: "active"
 ---
 

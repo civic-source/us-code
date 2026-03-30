@@ -3,9 +3,9 @@ title: "Section 6232 - Repealed. Pub. L. 100–418, title I, § 1941(b)(1) , Aug
 usc_title: 26
 usc_section: "6232"
 chapter: 63
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 6232"
-generated_at: "2026-03-30T04:34:11.588Z"
+generated_at: "2026-03-30T04:36:32.234Z"
 status: "repealed"
 ---
 

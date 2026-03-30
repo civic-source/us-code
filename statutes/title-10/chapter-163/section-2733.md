@@ -3,9 +3,9 @@ title: "Section 2733 - Property loss; personal injury or death: incident to nonc
 usc_title: 10
 usc_section: "2733"
 chapter: 163
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 2733"
-generated_at: "2026-03-30T04:33:39.096Z"
+generated_at: "2026-03-30T04:35:16.550Z"
 status: "active"
 ---
 

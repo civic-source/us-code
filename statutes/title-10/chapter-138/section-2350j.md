@@ -3,9 +3,9 @@ title: "Section 2350j - Burden sharing contributions by designated countries and
 usc_title: 10
 usc_section: "2350j"
 chapter: 138
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 2350j"
-generated_at: "2026-03-30T04:33:39.077Z"
+generated_at: "2026-03-30T04:35:16.533Z"
 status: "active"
 ---
 

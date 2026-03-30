@@ -3,9 +3,9 @@ title: "Section 15842 - Energy strategy for HUD"
 usc_title: 42
 usc_section: "15842"
 chapter: 149
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 15842"
-generated_at: "2026-03-30T04:34:39.832Z"
+generated_at: "2026-03-30T04:37:13.808Z"
 status: "active"
 ---
 

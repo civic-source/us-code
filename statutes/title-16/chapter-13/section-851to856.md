@@ -3,9 +3,9 @@ title: "Section 851to856 - Repealed. Pub. L. 97–79, § 9(b)(1) , Nov. 16, 1981
 usc_title: 16
 usc_section: "851to856"
 chapter: 13
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 851to856"
-generated_at: "2026-03-30T04:33:54.917Z"
+generated_at: "2026-03-30T04:36:10.366Z"
 status: "repealed"
 ---
 

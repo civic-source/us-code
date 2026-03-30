@@ -3,9 +3,9 @@ title: "Section 585 - Membership rolls; preparation; eligibility for enrollment;
 usc_title: 25
 usc_section: "585"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 585"
-generated_at: "2026-03-30T04:33:59.889Z"
+generated_at: "2026-03-30T04:36:15.498Z"
 status: "active"
 ---
 

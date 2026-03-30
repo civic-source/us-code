@@ -3,9 +3,9 @@ title: "Section 9602 - Designation of additional hazardous substances and establ
 usc_title: 42
 usc_section: "9602"
 chapter: 103
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 9602"
-generated_at: "2026-03-30T04:34:39.722Z"
+generated_at: "2026-03-30T04:37:13.692Z"
 status: "active"
 ---
 

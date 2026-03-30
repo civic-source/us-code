@@ -3,9 +3,9 @@ title: "Section 6916 - Programs for Native Americans and Puerto Rico"
 usc_title: 20
 usc_section: "6916"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 6916"
-generated_at: "2026-03-30T04:33:52.144Z"
+generated_at: "2026-03-30T04:36:07.770Z"
 status: "active"
 ---
 

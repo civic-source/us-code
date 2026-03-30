@@ -3,9 +3,9 @@ title: "Section 637 - Additional powers"
 usc_title: 15
 usc_section: "637"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 637"
-generated_at: "2026-03-30T04:33:45.744Z"
+generated_at: "2026-03-30T04:35:45.397Z"
 status: "active"
 ---
 
@@ -158,7 +158,7 @@ status: "active"
     - **(B)** The Administrator may, on a nondelegable basis, waive the requirements of subparagraph (A) only if one of the following conditions exist:
       - **(i)** When it is necessary for the owners of the concern to surrender partial control of such concern on a temporary basis in order to obtain equity financing.
       - **(ii)** The head of the contracting agency for which the contract is being performed certifies that termination of the contract would severely impair attainment of the agency’s program objectives or missions;
-      - **(iii)** Ownership and control of the concern that is performing the contract will pass to another small business concern that is a program participant, but only if the acquiring firm would otherwise be eligible to receive the award directly pursuant to subsection (a) of this section;
+      - **(iii)** Ownership and control of the concern that is performing the contract will pass to another small business concern that is a program participant, but only if the acquiring firm would otherwise be eligible to receive the award directly pursuant to subsection (a);
       - **(iv)** The individuals upon whom eligibility was based are no longer able to exercise control of the concern due to incapacity or death; or
       - **(v)** When, in order to raise equity capital, it is necessary for the disadvantaged owners of the concern to relinquish ownership of a majority of the voting stock of such concern, but only if—
         - **(I)** such concern has exited the Capital Ownership Development Program;
@@ -307,11 +307,11 @@ status: "active"
       - **(ii)** if the subcontracting goals pertain to more than one contract with one or more executive agencies, or to one contract with more than one executive agency, the prime contractor may only count first tier subcontractors that are small business concerns.
     - **(B)** Nothing in this paragraph shall abrogate the responsibility of a prime contractor to make a good-faith effort to achieve the first tier small business subcontracting goals negotiated under paragraph (6)(A), or the requirement for subcontractors with further opportunities for subcontracting to make a good-faith effort to achieve the goals established under paragraph (6)(D).
 - **(e)**
-  - **(1)** Except as provided in subsection (g) of this section—
+  - **(1)** Except as provided in subsection (g)—
     - **(A)** an executive agency intending to—
       - **(i)** solicit bids or proposals for a contract for property or services for a price expected to exceed $25,000; or
       - **(ii)** place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement,
-    - **(B)** an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f) of this section—
+    - **(B)** an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f)—
       - **(i)** in the case of an executive agency other than the Department of Defense, if the contract is for a price expected to exceed $10,000, but not to exceed $25,000; and
       - **(ii)** in the case of the Department of Defense, if the contract is for a price expected to exceed $5,000, but not to exceed $25,000;
     - **(C)** an executive agency awarding a contract for property or services for a price exceeding $100,000, or placing an order referred to in clause (A)(ii) exceeding $100,000, shall furnish for publication by the Secretary of Commerce a notice announcing the award or order if there is likely to be any subcontract under such contract or order.
@@ -326,7 +326,7 @@ status: "active"
       - **(i)** in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than the date 30 days after the date the notice required by paragraph (1)(A)(ii) is published;
       - **(ii)** in the case of a solicitation for research and development, is earlier than the date 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
       - **(iii)** in any other case, is earlier than the date 30 days after the date the solicitation is issued.
-- **(f)** Each notice of solicitation required by subparagraph (A) or (B) of subsection (e)(1) of this section shall include—
+- **(f)** Each notice of solicitation required by subparagraph (A) or (B) of subsection (e)(1) shall include—
   - **(1)** an accurate description of the property or services to be contracted for, which description (A) shall not be unnecessarily restrictive of competition, and (B) shall include, as appropriate, the agency nomenclature, National Stock Number or other part number, and a brief description of the item’s form, fit, or function, physical dimensions, predominant material of manufacture, or similar information that will assist a prospective contractor to make an informed business judgment as to whether a copy of the solicitation should be requested;
   - **(2)** provisions that—
     - **(A)** state whether the technical data required to respond to the solicitation will not be furnished as part of such solicitation, and identify the source in the Government, if any, from which the technical data may be obtained; and
@@ -338,7 +338,7 @@ status: "active"
     - **(A)** a description of the procedures to be used in awarding the contract; and
     - **(B)** a statement specifying the periods for prospective offerors and the contracting officer to take the necessary preaward and award actions.
 - **(g)**
-  - **(1)** A notice is not required under subsection (e)(1) of this section if—
+  - **(1)** A notice is not required under subsection (e)(1) if—
     - **(A)** the proposed procurement is for an amount not greater than the simplified acquisition threshold and is to be conducted by—
       - **(i)** using widespread electronic public notice of the solicitation in a form that allows convenient and universal user access through a single, Government-wide point of entry; and
       - **(ii)** permitting the public to respond to the solicitation electronically.
@@ -350,8 +350,8 @@ status: "active"
     - **(E)** the procurement is made for perishable subsistence supplies;
     - **(F)** the procurement is for utility services, other than telecommunication services, and only one source is available; or
     - **(G)** the procurement is for the services of an expert for use in any litigation or dispute (including preparation for any foreseeable litigation or dispute) that involves or could involve the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
-  - **(2)** The requirements of subsection (a)(1)(A) of this section do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of title 41 or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10 .
-  - **(3)** The requirements of subsection (a)(1)(A) of this section shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
+  - **(2)** The requirements of subsection (a)(1)(A) do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of title 41 or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10 .
+  - **(3)** The requirements of subsection (a)(1)(A) shall not apply in the case of any procurement for which the head of the executive agency makes a determination in writing, after consultation with the Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 - **(h)**
   - **(1)** An executive agency may not award a contract using procedures other than competitive procedures unless—
     - **(A)** except as provided in paragraph (2), a written justification for the use of such procedures has been approved—
@@ -360,14 +360,14 @@ status: "active"
       - **(iii)** in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of title 41 5 5 See References in Text note below. (without further delegation); and
     - **(B)** all other requirements applicable to the use of such procedures under division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or chapter 137 of title 10, as appropriate, have been satisfied.
   - **(2)** The same exceptions as are provided in paragraphs (3) and (4) of section 3304(e) of title 41 or section 2304(f)(2) of title 10 shall apply with respect to the requirements of paragraph (1)(A) of this subsection in the same manner as such exceptions apply to the requirements of section 3304(e)(1) of title 41 or section 2304(f)(1) of title 10 , as appropriate.
-- **(i)** An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
+- **(i)** An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice under subsection (e). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 - **(j)** For purposes of this section, the term “executive agency” has the meaning provided such term in section 133 of title 41 .
 - **(k)**
   - **(1)** Notices of subcontracting opportunities may be submitted for publication on the appropriate Federal Web site (as determined by the Administrator) by—
-    - **(A)** a business concern awarded a contract by an executive agency subject to subsection (e)(1)(C) of this section; and
+    - **(A)** a business concern awarded a contract by an executive agency subject to subsection (e)(1)(C); and
     - **(B)** a business concern that is a subcontractor or supplier (at any tier) to such contractor having a subcontracting opportunity in excess of $10,000.
   - **(2)** The notice of a subcontracting opportunity shall include—
-    - **(A)** a description of the business opportunity that is comparable to the description specified in paragraphs (1), (2), (3), and (4) of subsection (f) of this section; and
+    - **(A)** a description of the business opportunity that is comparable to the description specified in paragraphs (1), (2), (3), and (4) of subsection (f); and
     - **(B)** the due date for receipt of offers.
 - **(l)** The Administration shall utilize, as appropriate, its entrepreneurial development and management assistance programs, including programs involving State or private sector partners, to provide business counseling and training to any small business concern adversely affected by the deployment of units of the Armed Forces of the United States in support of a period of military conflict (as defined in section 636(n)(1) of this title ).
 - **(m)**

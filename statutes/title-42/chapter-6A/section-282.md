@@ -3,9 +3,9 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-30T04:34:39.226Z"
+generated_at: "2026-03-30T04:37:13.181Z"
 status: "active"
 ---
 

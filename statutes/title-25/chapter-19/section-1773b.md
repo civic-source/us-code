@@ -3,9 +3,9 @@ title: "Section 1773b - Settlement lands"
 usc_title: 25
 usc_section: "1773b"
 chapter: 19
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 1773b"
-generated_at: "2026-03-30T04:33:59.928Z"
+generated_at: "2026-03-30T04:36:15.535Z"
 status: "active"
 ---
 

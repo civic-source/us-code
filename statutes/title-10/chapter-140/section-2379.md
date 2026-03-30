@@ -3,9 +3,9 @@ title: "Section 2379 - Requirement for determination by Secretary of Defense and
 usc_title: 10
 usc_section: "2379"
 chapter: 140
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 2379"
-generated_at: "2026-03-30T04:33:39.079Z"
+generated_at: "2026-03-30T04:35:16.534Z"
 status: "active"
 ---
 

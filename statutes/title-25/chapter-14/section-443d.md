@@ -3,9 +3,9 @@ title: "Section 443d - Service of traditional foods in public facilities"
 usc_title: 25
 usc_section: "443d"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 443d"
-generated_at: "2026-03-30T04:33:59.879Z"
+generated_at: "2026-03-30T04:36:15.488Z"
 status: "active"
 ---
 

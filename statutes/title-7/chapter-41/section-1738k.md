@@ -3,9 +3,9 @@ title: "Section 1738k - Eligible activities and grantees"
 usc_title: 7
 usc_section: "1738k"
 chapter: 41
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 1738k"
-generated_at: "2026-03-30T04:33:35.956Z"
+generated_at: "2026-03-30T04:35:40.004Z"
 status: "active"
 ---
 

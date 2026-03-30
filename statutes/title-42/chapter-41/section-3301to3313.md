@@ -3,9 +3,9 @@ title: "Section 3301to3313 - Omitted"
 usc_title: 42
 usc_section: "3301to3313"
 chapter: 41
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 3301to3313"
-generated_at: "2026-03-30T04:34:39.567Z"
+generated_at: "2026-03-30T04:37:13.531Z"
 status: "omitted"
 ---
 

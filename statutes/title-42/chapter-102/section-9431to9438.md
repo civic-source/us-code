@@ -3,9 +3,9 @@ title: "Section 9431to9438 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) ,
 usc_title: 42
 usc_section: "9431to9438"
 chapter: 102
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 9431to9438"
-generated_at: "2026-03-30T04:34:39.721Z"
+generated_at: "2026-03-30T04:37:13.690Z"
 status: "repealed"
 ---
 

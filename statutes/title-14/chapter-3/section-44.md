@@ -3,9 +3,9 @@ title: "Section 44 - Commandant; appointment"
 usc_title: 14
 usc_section: "44"
 chapter: 3
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "14 U.S.C. § 44"
-generated_at: "2026-03-30T04:33:41.443Z"
+generated_at: "2026-03-30T04:35:43.246Z"
 status: "active"
 ---
 

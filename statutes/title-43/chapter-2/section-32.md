@@ -3,9 +3,9 @@ title: "Section 32 - Acting Director"
 usc_title: 43
 usc_section: "32"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 32"
-generated_at: "2026-03-30T04:34:27.118Z"
+generated_at: "2026-03-30T04:36:57.579Z"
 status: "active"
 ---
 

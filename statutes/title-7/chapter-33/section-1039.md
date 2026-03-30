@@ -3,9 +3,9 @@ title: "Section 1039 - Time for filing purchase applications"
 usc_title: 7
 usc_section: "1039"
 chapter: 33
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 1039"
-generated_at: "2026-03-30T04:33:35.926Z"
+generated_at: "2026-03-30T04:35:39.975Z"
 status: "active"
 ---
 

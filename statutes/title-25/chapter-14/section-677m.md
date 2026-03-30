@@ -3,9 +3,9 @@ title: "Section 677m - Procedure by Secretary if distribution not completed with
 usc_title: 25
 usc_section: "677m"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 677m"
-generated_at: "2026-03-30T04:33:59.896Z"
+generated_at: "2026-03-30T04:36:15.504Z"
 status: "active"
 ---
 

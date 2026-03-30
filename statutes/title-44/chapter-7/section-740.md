@@ -3,9 +3,9 @@ title: "Section 740 - Senate Service Department and House Publications Distribut
 usc_title: 44
 usc_section: "740"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "44 U.S.C. § 740"
-generated_at: "2026-03-30T04:34:27.833Z"
+generated_at: "2026-03-30T04:36:56.849Z"
 status: "active"
 ---
 

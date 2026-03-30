@@ -3,9 +3,9 @@ title: "Section 450ss6450ss7 - Repealed. Pub. L. 108–199, div. F, title V, § 
 usc_title: 16
 usc_section: "450ss6450ss7"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 450ss6450ss7"
-generated_at: "2026-03-30T04:33:54.824Z"
+generated_at: "2026-03-30T04:36:10.280Z"
 status: "repealed"
 ---
 

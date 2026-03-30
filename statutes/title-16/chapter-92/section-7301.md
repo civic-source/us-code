@@ -3,9 +3,9 @@ title: "Section 7301 - Purpose"
 usc_title: 16
 usc_section: "7301"
 chapter: 92
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 7301"
-generated_at: "2026-03-30T04:33:55.011Z"
+generated_at: "2026-03-30T04:36:10.454Z"
 status: "active"
 ---
 

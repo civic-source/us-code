@@ -3,9 +3,9 @@ title: "Section 5353 - Fair trade in financial services"
 usc_title: 22
 usc_section: "5353"
 chapter: 62
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 5353"
-generated_at: "2026-03-30T04:34:03.774Z"
+generated_at: "2026-03-30T04:36:18.290Z"
 status: "active"
 ---
 

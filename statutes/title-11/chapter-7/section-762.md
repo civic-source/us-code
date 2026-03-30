@@ -3,9 +3,9 @@ title: "Section 762 - Notice to the Commission and right to be heard"
 usc_title: 11
 usc_section: "762"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "11 U.S.C. § 762"
-generated_at: "2026-03-30T04:33:41.255Z"
+generated_at: "2026-03-30T04:36:01.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20109 - Employee protections"
 usc_title: 49
 usc_section: "20109"
 chapter: 201
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "49 U.S.C. § 20109"
-generated_at: "2026-03-30T04:34:47.982Z"
+generated_at: "2026-03-30T04:37:48.251Z"
 status: "active"
 ---
 

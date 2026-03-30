@@ -3,9 +3,9 @@ title: "Section 47 - Rehabilitation credit"
 usc_title: 26
 usc_section: "47"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 47"
-generated_at: "2026-03-30T04:34:11.388Z"
+generated_at: "2026-03-30T04:36:31.954Z"
 status: "active"
 ---
 

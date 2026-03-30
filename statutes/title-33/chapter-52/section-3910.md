@@ -3,9 +3,9 @@ title: "Section 3910 - State, tribal, and local permits"
 usc_title: 33
 usc_section: "3910"
 chapter: 52
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 3910"
-generated_at: "2026-03-30T04:34:20.155Z"
+generated_at: "2026-03-30T04:36:42.243Z"
 status: "active"
 ---
 

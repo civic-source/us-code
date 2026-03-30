@@ -3,9 +3,9 @@ title: "Section 987 - Branch transactions"
 usc_title: 26
 usc_section: "987"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 987"
-generated_at: "2026-03-30T04:34:11.504Z"
+generated_at: "2026-03-30T04:36:32.069Z"
 status: "active"
 ---
 

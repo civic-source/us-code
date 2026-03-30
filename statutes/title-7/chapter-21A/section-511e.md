@@ -3,9 +3,9 @@ title: "Section 511e - Sampling and weighing; cost; disposition of moneys receiv
 usc_title: 7
 usc_section: "511e"
 chapter: 21
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 511e"
-generated_at: "2026-03-30T04:33:35.915Z"
+generated_at: "2026-03-30T04:35:39.964Z"
 status: "active"
 ---
 

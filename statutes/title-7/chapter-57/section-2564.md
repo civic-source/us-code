@@ -3,9 +3,9 @@ title: "Section 2564 - Damages"
 usc_title: 7
 usc_section: "2564"
 chapter: 57
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 2564"
-generated_at: "2026-03-30T04:33:35.990Z"
+generated_at: "2026-03-30T04:35:40.038Z"
 status: "active"
 ---
 

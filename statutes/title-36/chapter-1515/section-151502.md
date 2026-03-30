@@ -3,9 +3,9 @@ title: "Section 151502 - Organization"
 usc_title: 36
 usc_section: "151502"
 chapter: 1515
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 151502"
-generated_at: "2026-03-30T04:34:22.893Z"
+generated_at: "2026-03-30T04:36:44.431Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 458bbbto458bbb2 - Transferred"
 usc_title: 25
 usc_section: "458bbbto458bbb2"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 458bbbto458bbb2"
-generated_at: "2026-03-30T04:33:59.884Z"
+generated_at: "2026-03-30T04:36:15.492Z"
 status: "transferred"
 ---
 

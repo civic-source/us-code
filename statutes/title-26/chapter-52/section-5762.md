@@ -3,9 +3,9 @@ title: "Section 5762 - Criminal penalties"
 usc_title: 26
 usc_section: "5762"
 chapter: 52
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 5762"
-generated_at: "2026-03-30T04:34:11.571Z"
+generated_at: "2026-03-30T04:36:32.216Z"
 status: "active"
 ---
 

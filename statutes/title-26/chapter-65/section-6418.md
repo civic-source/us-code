@@ -3,9 +3,9 @@ title: "Section 6418 - Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(B)
 usc_title: 26
 usc_section: "6418"
 chapter: 65
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 6418"
-generated_at: "2026-03-30T04:34:11.593Z"
+generated_at: "2026-03-30T04:36:32.239Z"
 status: "repealed"
 ---
 

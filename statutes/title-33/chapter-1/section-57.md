@@ -3,9 +3,9 @@ title: "Section 57 - Pike Creek, Wisconsin"
 usc_title: 33
 usc_section: "57"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 57"
-generated_at: "2026-03-30T04:34:20.080Z"
+generated_at: "2026-03-30T04:36:42.169Z"
 status: "active"
 ---
 

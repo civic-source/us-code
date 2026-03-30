@@ -3,9 +3,9 @@ title: "Section 2779 - Use of funds because of fluctuations in currency exchange
 usc_title: 10
 usc_section: "2779"
 chapter: 165
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 2779"
-generated_at: "2026-03-30T04:33:39.097Z"
+generated_at: "2026-03-30T04:35:16.550Z"
 status: "active"
 ---
 

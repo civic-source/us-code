@@ -3,9 +3,9 @@ title: "Section 1541 - Purpose and policy"
 usc_title: 50
 usc_section: "1541"
 chapter: 33
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "50 U.S.C. § 1541"
-generated_at: "2026-03-30T04:34:44.671Z"
+generated_at: "2026-03-30T04:37:18.314Z"
 status: "active"
 ---
 

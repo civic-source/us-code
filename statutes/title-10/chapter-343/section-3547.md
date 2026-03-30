@@ -3,9 +3,9 @@ title: "Section 3547 - Duties: chaplains; assistance required of commanding offi
 usc_title: 10
 usc_section: "3547"
 chapter: 343
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 3547"
-generated_at: "2026-03-30T04:33:39.105Z"
+generated_at: "2026-03-30T04:35:16.557Z"
 status: "active"
 ---
 

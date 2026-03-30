@@ -3,9 +3,9 @@ title: "Section 3105 - Authority of Federal Reserve System"
 usc_title: 12
 usc_section: "3105"
 chapter: 32
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "12 U.S.C. § 3105"
-generated_at: "2026-03-30T04:33:43.959Z"
+generated_at: "2026-03-30T04:35:51.232Z"
 status: "active"
 ---
 

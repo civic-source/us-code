@@ -3,9 +3,9 @@ title: "Section 1242 - Membership rolls; preparation; eligibility; excluded pers
 usc_title: 25
 usc_section: "1242"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 1242"
-generated_at: "2026-03-30T04:33:59.907Z"
+generated_at: "2026-03-30T04:36:15.515Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2906ato2907 - Repealed. Pub. L. 93–386, § 2(b) , Aug. 23, 197
 usc_title: 42
 usc_section: "2906ato2907"
 chapter: 34
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 2906ato2907"
-generated_at: "2026-03-30T04:34:39.552Z"
+generated_at: "2026-03-30T04:37:13.514Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 110 - Regulations"
 usc_title: 32
 usc_section: "110"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "32 U.S.C. § 110"
-generated_at: "2026-03-30T04:34:17.978Z"
+generated_at: "2026-03-30T04:36:33.907Z"
 status: "active"
 ---
 

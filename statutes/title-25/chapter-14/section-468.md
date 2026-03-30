@@ -3,9 +3,9 @@ title: "Section 468 - Allotments or holdings outside of reservations"
 usc_title: 25
 usc_section: "468"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 468"
-generated_at: "2026-03-30T04:33:59.885Z"
+generated_at: "2026-03-30T04:36:15.494Z"
 status: "active"
 ---
 

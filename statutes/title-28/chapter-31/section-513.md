@@ -3,9 +3,9 @@ title: "Section 513 - Attorney General to advise Secretaries of military departm
 usc_title: 28
 usc_section: "513"
 chapter: 31
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "28 U.S.C. § 513"
-generated_at: "2026-03-30T04:34:06.489Z"
+generated_at: "2026-03-30T04:36:23.686Z"
 status: "active"
 ---
 

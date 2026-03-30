@@ -3,9 +3,9 @@ title: "Section 302 - Change of name as affecting various rights; rec­ords, map
 usc_title: 24
 usc_section: "302"
 chapter: 8
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "24 U.S.C. § 302"
-generated_at: "2026-03-30T04:33:56.897Z"
+generated_at: "2026-03-30T04:36:13.829Z"
 status: "active"
 ---
 

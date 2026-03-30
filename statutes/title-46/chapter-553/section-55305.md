@@ -3,9 +3,9 @@ title: "Section 55305 - Cargoes procured, furnished, or financed by the United S
 usc_title: 46
 usc_section: "55305"
 chapter: 553
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "46 U.S.C. § 55305"
-generated_at: "2026-03-30T04:34:42.944Z"
+generated_at: "2026-03-30T04:37:18.985Z"
 status: "active"
 ---
 

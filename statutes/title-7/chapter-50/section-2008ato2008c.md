@@ -3,9 +3,9 @@ title: "Section 2008ato2008c - Repealed. Pub. L. 104–127, title VII , §§ 754
 usc_title: 7
 usc_section: "2008ato2008c"
 chapter: 50
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 2008ato2008c"
-generated_at: "2026-03-30T04:33:35.967Z"
+generated_at: "2026-03-30T04:35:40.014Z"
 status: "repealed"
 ---
 

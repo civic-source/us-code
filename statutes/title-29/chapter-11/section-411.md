@@ -3,9 +3,9 @@ title: "Section 411 - Bill of rights; constitution and bylaws of labor organizat
 usc_title: 29
 usc_section: "411"
 chapter: 11
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "29 U.S.C. § 411"
-generated_at: "2026-03-30T04:34:16.277Z"
+generated_at: "2026-03-30T04:36:21.419Z"
 status: "active"
 ---
 

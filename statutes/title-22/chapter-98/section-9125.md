@@ -3,9 +3,9 @@ title: "Section 9125 - Termination of actions by the Secretary of State"
 usc_title: 22
 usc_section: "9125"
 chapter: 98
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 9125"
-generated_at: "2026-03-30T04:34:03.813Z"
+generated_at: "2026-03-30T04:36:18.331Z"
 status: "active"
 ---
 

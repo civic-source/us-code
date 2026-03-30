@@ -3,9 +3,9 @@ title: "Section 765 - Tribal constitution and bylaws"
 usc_title: 25
 usc_section: "765"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 765"
-generated_at: "2026-03-30T04:33:59.900Z"
+generated_at: "2026-03-30T04:36:15.508Z"
 status: "active"
 ---
 

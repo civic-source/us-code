@@ -3,9 +3,9 @@ title: "Section 483484 - Repealed. Pub. L. 86–596, § 3 , July 6, 1960 , 74 St
 usc_title: 16
 usc_section: "483484"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 483484"
-generated_at: "2026-03-30T04:33:54.863Z"
+generated_at: "2026-03-30T04:36:10.316Z"
 status: "repealed"
 ---
 

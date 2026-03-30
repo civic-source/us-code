@@ -3,9 +3,9 @@ title: "Section 2593c2593d - Repealed. Pub. L. 105–277, div. G , subdiv. A, ti
 usc_title: 22
 usc_section: "2593c2593d"
 chapter: 35
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 2593c2593d"
-generated_at: "2026-03-30T04:34:03.739Z"
+generated_at: "2026-03-30T04:36:18.255Z"
 status: "repealed"
 ---
 

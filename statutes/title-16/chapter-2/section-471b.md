@@ -3,9 +3,9 @@ title: "Section 471b - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 2
 usc_title: 16
 usc_section: "471b"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 471b"
-generated_at: "2026-03-30T04:33:54.860Z"
+generated_at: "2026-03-30T04:36:10.314Z"
 status: "repealed"
 ---
 

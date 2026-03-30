@@ -3,9 +3,9 @@ title: "Section 466 - Repealed. Pub. L. 99–514, title VIII, § 823(a) , Oct. 2
 usc_title: 26
 usc_section: "466"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 466"
-generated_at: "2026-03-30T04:34:11.463Z"
+generated_at: "2026-03-30T04:36:32.028Z"
 status: "repealed"
 ---
 

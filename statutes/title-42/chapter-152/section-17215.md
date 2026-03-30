@@ -3,9 +3,9 @@ title: "Section 17215 - Authorization of appropriations"
 usc_title: 42
 usc_section: "17215"
 chapter: 152
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 17215"
-generated_at: "2026-03-30T04:34:39.857Z"
+generated_at: "2026-03-30T04:37:13.834Z"
 status: "active"
 ---
 

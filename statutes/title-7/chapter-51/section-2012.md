@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T04:33:35.973Z"
+generated_at: "2026-03-30T04:35:40.020Z"
 status: "active"
 ---
 

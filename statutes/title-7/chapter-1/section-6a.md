@@ -3,9 +3,9 @@ title: "Section 6a - Excessive speculation"
 usc_title: 7
 usc_section: "6a"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 6a"
-generated_at: "2026-03-30T04:33:35.878Z"
+generated_at: "2026-03-30T04:35:39.926Z"
 status: "active"
 ---
 

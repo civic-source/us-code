@@ -3,9 +3,9 @@ title: "Section 739to740b - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 56
 usc_title: 33
 usc_section: "739to740b"
 chapter: 16
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 739to740b"
-generated_at: "2026-03-30T04:34:20.099Z"
+generated_at: "2026-03-30T04:36:42.188Z"
 status: "repealed"
 ---
 

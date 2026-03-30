@@ -3,9 +3,9 @@ title: "Section 3103 - Receivership"
 usc_title: 28
 usc_section: "3103"
 chapter: 176
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "28 U.S.C. § 3103"
-generated_at: "2026-03-30T04:34:06.508Z"
+generated_at: "2026-03-30T04:36:23.706Z"
 status: "active"
 ---
 

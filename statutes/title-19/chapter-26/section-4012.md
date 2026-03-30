@@ -3,9 +3,9 @@ title: "Section 4012 - Relationship of the Agreement to United States and State 
 usc_title: 19
 usc_section: "4012"
 chapter: 26
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "19 U.S.C. § 4012"
-generated_at: "2026-03-30T04:33:50.240Z"
+generated_at: "2026-03-30T04:36:05.698Z"
 status: "active"
 ---
 

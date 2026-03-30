@@ -3,9 +3,9 @@ title: "Section 561to568 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 
 usc_title: 50
 usc_section: "561to568"
 chapter: 22
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "50 U.S.C. § 561to568"
-generated_at: "2026-03-30T04:34:44.668Z"
+generated_at: "2026-03-30T04:37:18.312Z"
 status: "repealed"
 ---
 

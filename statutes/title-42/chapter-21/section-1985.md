@@ -3,9 +3,9 @@ title: "Section 1985 - Conspiracy to interfere with civil rights"
 usc_title: 42
 usc_section: "1985"
 chapter: 21
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 1985"
-generated_at: "2026-03-30T04:34:39.525Z"
+generated_at: "2026-03-30T04:37:13.486Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 455 - Appropriations for travel: may not be used for attendance 
 usc_title: 37
 usc_section: "455"
 chapter: 8
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "37 U.S.C. § 455"
-generated_at: "2026-03-30T04:34:22.326Z"
+generated_at: "2026-03-30T04:36:44.753Z"
 status: "active"
 ---
 

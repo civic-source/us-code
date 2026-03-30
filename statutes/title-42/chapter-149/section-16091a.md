@@ -3,9 +3,9 @@ title: "Section 16091a - Clean school bus program 1 1 This section is substantia
 usc_title: 42
 usc_section: "16091a"
 chapter: 149
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 16091a"
-generated_at: "2026-03-30T04:34:39.838Z"
+generated_at: "2026-03-30T04:37:13.813Z"
 status: "active"
 ---
 

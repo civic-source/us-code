@@ -3,9 +3,9 @@ title: "Section 386 - Commissioning private vessels for seizure of piratical ves
 usc_title: 33
 usc_section: "386"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 386"
-generated_at: "2026-03-30T04:34:20.084Z"
+generated_at: "2026-03-30T04:36:42.173Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6735 - Preemption and election of State nonapplicability"
 usc_title: 20
 usc_section: "6735"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 6735"
-generated_at: "2026-03-30T04:33:52.141Z"
+generated_at: "2026-03-30T04:36:07.767Z"
 status: "active"
 ---
 

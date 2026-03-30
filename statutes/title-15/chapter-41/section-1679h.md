@@ -3,9 +3,9 @@ title: "Section 1679h - Administrative enforcement"
 usc_title: 15
 usc_section: "1679h"
 chapter: 41
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 1679h"
-generated_at: "2026-03-30T04:33:45.796Z"
+generated_at: "2026-03-30T04:35:45.443Z"
 status: "active"
 ---
 

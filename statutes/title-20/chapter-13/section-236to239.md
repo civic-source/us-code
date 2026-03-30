@@ -3,9 +3,9 @@ title: "Section 236to239 - Repealed. Pub. L. 103–382, title III, § 331(b) , O
 usc_title: 20
 usc_section: "236to239"
 chapter: 13
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 236to239"
-generated_at: "2026-03-30T04:33:52.030Z"
+generated_at: "2026-03-30T04:36:07.666Z"
 status: "repealed"
 ---
 

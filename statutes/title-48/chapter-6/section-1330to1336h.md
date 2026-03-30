@@ -3,9 +3,9 @@ title: "Section 1330to1336h - Omitted"
 usc_title: 48
 usc_section: "1330to1336h"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "48 U.S.C. § 1330to1336h"
-generated_at: "2026-03-30T04:34:42.253Z"
+generated_at: "2026-03-30T04:37:17.618Z"
 status: "omitted"
 ---
 

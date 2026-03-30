@@ -3,9 +3,9 @@ title: "Section 100736 - Acquisition of land by Secretary"
 usc_title: 54
 usc_section: "100736"
 chapter: 1007
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "54 U.S.C. § 100736"
-generated_at: "2026-03-30T04:34:50.060Z"
+generated_at: "2026-03-30T04:37:50.482Z"
 status: "active"
 ---
 

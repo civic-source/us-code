@@ -3,9 +3,9 @@ title: "Section 1182e - Denial of entry into United States of foreign nationals 
 usc_title: 8
 usc_section: "1182e"
 chapter: 12
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "8 U.S.C. § 1182e"
-generated_at: "2026-03-30T04:33:33.458Z"
+generated_at: "2026-03-30T04:35:36.779Z"
 status: "active"
 ---
 

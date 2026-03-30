@@ -3,9 +3,9 @@ title: "Section 272 - Establishment, functions, and activities"
 usc_title: 15
 usc_section: "272"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 272"
-generated_at: "2026-03-30T04:33:45.730Z"
+generated_at: "2026-03-30T04:35:45.385Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(11)** to advise government and industry on scientific and technical problems;
   - **(12)** to invent, develop, and (when appropriate) promote transfer to the private sector of measurement devices to serve special national needs; and
   - **(13)** to coordinate Federal, State, and local technical standards activities and conformity assessment activities, with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
-- **(c)** In carrying out the functions specified in subsection (b) of this section, the Secretary, acting through the Director 1 1 So in original. Probably should be followed by a comma. may, among other things—
+- **(c)** In carrying out the functions specified in subsection (b), the Secretary, acting through the Director 1 1 So in original. Probably should be followed by a comma. may, among other things—
   - **(1)** construct physical standards;
   - **(2)** test, calibrate, and certify standards and standard measuring apparatus;
   - **(3)** study and improve instruments, measurement methods, and industrial process control and quality assurance techniques;

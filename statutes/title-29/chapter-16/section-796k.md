@@ -3,9 +3,9 @@ title: "Section 796k - Program of grants"
 usc_title: 29
 usc_section: "796k"
 chapter: 16
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "29 U.S.C. § 796k"
-generated_at: "2026-03-30T04:34:16.292Z"
+generated_at: "2026-03-30T04:36:21.434Z"
 status: "active"
 ---
 

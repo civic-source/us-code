@@ -3,9 +3,9 @@ title: "Section 1212 - Unsworn written statements subject to penalties of presen
 usc_title: 43
 usc_section: "1212"
 chapter: 28
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 1212"
-generated_at: "2026-03-30T04:34:27.147Z"
+generated_at: "2026-03-30T04:36:57.608Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8271 - “Federal facility” and “Secretary” defined"
 usc_title: 42
 usc_section: "8271"
 chapter: 91
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 8271"
-generated_at: "2026-03-30T04:34:39.710Z"
+generated_at: "2026-03-30T04:37:13.677Z"
 status: "active"
 ---
 

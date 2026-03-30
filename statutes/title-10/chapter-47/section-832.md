@@ -3,9 +3,9 @@ title: "Section 832 - Art. 32. Preliminary hearing"
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-03-30T04:33:39.021Z"
+generated_at: "2026-03-30T04:35:16.482Z"
 status: "active"
 ---
 

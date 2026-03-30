@@ -3,9 +3,9 @@ title: "Section 13001b - Regional children’s advocacy centers"
 usc_title: 42
 usc_section: "13001b"
 chapter: 132
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 13001b"
-generated_at: "2026-03-30T04:34:39.794Z"
+generated_at: "2026-03-30T04:37:13.767Z"
 status: "active"
 ---
 

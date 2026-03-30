@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T04:34:39.414Z"
+generated_at: "2026-03-30T04:37:13.372Z"
 status: "active"
 ---
 

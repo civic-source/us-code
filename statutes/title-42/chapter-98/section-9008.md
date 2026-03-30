@@ -3,9 +3,9 @@ title: "Section 9008 - Definitions"
 usc_title: 42
 usc_section: "9008"
 chapter: 98
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 9008"
-generated_at: "2026-03-30T04:34:39.718Z"
+generated_at: "2026-03-30T04:37:13.686Z"
 status: "active"
 ---
 

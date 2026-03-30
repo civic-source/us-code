@@ -3,9 +3,9 @@ title: "Section 172to177 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 99
 usc_title: 16
 usc_section: "172to177"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 172to177"
-generated_at: "2026-03-30T04:33:54.777Z"
+generated_at: "2026-03-30T04:36:10.237Z"
 status: "repealed"
 ---
 

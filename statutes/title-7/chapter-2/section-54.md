@@ -3,9 +3,9 @@ title: "Section 54 - Classification by Department of Agriculture; certification 
 usc_title: 7
 usc_section: "54"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 54"
-generated_at: "2026-03-30T04:33:35.887Z"
+generated_at: "2026-03-30T04:35:39.936Z"
 status: "active"
 ---
 

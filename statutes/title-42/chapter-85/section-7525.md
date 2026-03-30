@@ -3,9 +3,9 @@ title: "Section 7525 - Motor vehicle and motor vehicle engine compliance testing
 usc_title: 42
 usc_section: "7525"
 chapter: 85
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 7525"
-generated_at: "2026-03-30T04:34:39.687Z"
+generated_at: "2026-03-30T04:37:13.653Z"
 status: "active"
 ---
 

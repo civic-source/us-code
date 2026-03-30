@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 104–127, title III, § 336(a)(2)(G) , Ap
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T04:33:54.880Z"
+generated_at: "2026-03-30T04:36:10.332Z"
 status: "repealed"
 ---
 

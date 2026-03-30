@@ -3,9 +3,9 @@ title: "Section 3796b - Definitions"
 usc_title: 42
 usc_section: "3796b"
 chapter: 46
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 3796b"
-generated_at: "2026-03-30T04:34:39.578Z"
+generated_at: "2026-03-30T04:37:13.541Z"
 status: "active"
 ---
 

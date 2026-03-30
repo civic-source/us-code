@@ -3,9 +3,9 @@ title: "Section 1112 - Special boards of inquiry on air transportation safety"
 usc_title: 49
 usc_section: "1112"
 chapter: 11
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "49 U.S.C. § 1112"
-generated_at: "2026-03-30T04:34:47.958Z"
+generated_at: "2026-03-30T04:37:48.226Z"
 status: "active"
 ---
 

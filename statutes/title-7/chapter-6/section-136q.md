@@ -3,9 +3,9 @@ title: "Section 136q - Storage, disposal, transportation, and recall"
 usc_title: 7
 usc_section: "136q"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 136q"
-generated_at: "2026-03-30T04:33:35.895Z"
+generated_at: "2026-03-30T04:35:39.944Z"
 status: "active"
 ---
 

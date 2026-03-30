@@ -3,9 +3,9 @@ title: "Section 1j - Additional increase in capital stock of Bank; subscription 
 usc_title: 22
 usc_section: "1j"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 1j"
-generated_at: "2026-03-30T04:34:03.693Z"
+generated_at: "2026-03-30T04:36:18.210Z"
 status: "active"
 ---
 

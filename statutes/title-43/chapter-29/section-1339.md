@@ -3,9 +3,9 @@ title: "Section 1339 - Repealed. Pub. L. 104–185, § 8(b) , Aug. 13, 1996 , 11
 usc_title: 43
 usc_section: "1339"
 chapter: 29
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 1339"
-generated_at: "2026-03-30T04:34:27.149Z"
+generated_at: "2026-03-30T04:36:57.628Z"
 status: "repealed"
 ---
 

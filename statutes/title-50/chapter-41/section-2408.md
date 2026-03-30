@@ -3,9 +3,9 @@ title: "Section 2408 - Staff of Administration"
 usc_title: 50
 usc_section: "2408"
 chapter: 41
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "50 U.S.C. § 2408"
-generated_at: "2026-03-30T04:34:44.687Z"
+generated_at: "2026-03-30T04:37:18.329Z"
 status: "active"
 ---
 

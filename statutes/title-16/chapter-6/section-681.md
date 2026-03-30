@@ -3,9 +3,9 @@ title: "Section 681 - Erection of fence by South Dakota for game animal and bird
 usc_title: 16
 usc_section: "681"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 681"
-generated_at: "2026-03-30T04:33:54.889Z"
+generated_at: "2026-03-30T04:36:10.339Z"
 status: "active"
 ---
 

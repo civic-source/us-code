@@ -3,9 +3,9 @@ title: "Section 350k - Laboratory accreditation for analyses of foods"
 usc_title: 21
 usc_section: "350k"
 chapter: 9
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "21 U.S.C. § 350k"
-generated_at: "2026-03-30T04:33:59.033Z"
+generated_at: "2026-03-30T04:36:16.421Z"
 status: "active"
 ---
 

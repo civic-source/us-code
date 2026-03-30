@@ -3,9 +3,9 @@ title: "Section 4306to4308 - Omitted]"
 usc_title: 5
 usc_section: "4306to4308"
 chapter: 43
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "5 U.S.C. § 4306to4308"
-generated_at: "2026-03-30T04:33:30.977Z"
+generated_at: "2026-03-30T04:35:02.537Z"
 status: "omitted"
 ---
 

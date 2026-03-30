@@ -3,9 +3,9 @@ title: "Section 1476 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "1476"
 chapter: 18
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 1476"
-generated_at: "2026-03-30T04:34:03.706Z"
+generated_at: "2026-03-30T04:36:18.222Z"
 status: "repealed"
 ---
 

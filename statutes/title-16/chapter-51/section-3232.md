@@ -3,9 +3,9 @@ title: "Section 3232 - Recommendations of President to Congress"
 usc_title: 16
 usc_section: "3232"
 chapter: 51
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 3232"
-generated_at: "2026-03-30T04:33:54.974Z"
+generated_at: "2026-03-30T04:36:10.420Z"
 status: "active"
 ---
 

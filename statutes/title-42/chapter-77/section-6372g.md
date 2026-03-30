@@ -3,9 +3,9 @@ title: "Section 6372g - Allocation of grants"
 usc_title: 42
 usc_section: "6372g"
 chapter: 77
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 6372g"
-generated_at: "2026-03-30T04:34:39.646Z"
+generated_at: "2026-03-30T04:37:13.610Z"
 status: "active"
 ---
 

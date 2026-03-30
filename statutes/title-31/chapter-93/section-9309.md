@@ -3,9 +3,9 @@ title: "Section 9309 - Priority of sureties"
 usc_title: 31
 usc_section: "9309"
 chapter: 93
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "31 U.S.C. § 9309"
-generated_at: "2026-03-30T04:34:18.991Z"
+generated_at: "2026-03-30T04:36:35.190Z"
 status: "active"
 ---
 

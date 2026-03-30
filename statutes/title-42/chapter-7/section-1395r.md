@@ -3,9 +3,9 @@ title: "Section 1395r - Amount of premiums for individuals enrolled under this p
 usc_title: 42
 usc_section: "1395r"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 1395r"
-generated_at: "2026-03-30T04:34:39.389Z"
+generated_at: "2026-03-30T04:37:13.346Z"
 status: "active"
 ---
 

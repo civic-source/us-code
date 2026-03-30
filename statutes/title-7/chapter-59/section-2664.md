@@ -3,9 +3,9 @@ title: "Section 2664 - Cooperating colleges and universities"
 usc_title: 7
 usc_section: "2664"
 chapter: 59
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 2664"
-generated_at: "2026-03-30T04:33:35.992Z"
+generated_at: "2026-03-30T04:35:40.039Z"
 status: "active"
 ---
 

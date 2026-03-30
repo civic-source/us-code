@@ -3,9 +3,9 @@ title: "Section 7660 - Duties of prize commissioners"
 usc_title: 10
 usc_section: "7660"
 chapter: 655
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 7660"
-generated_at: "2026-03-30T04:33:39.123Z"
+generated_at: "2026-03-30T04:35:16.574Z"
 status: "active"
 ---
 

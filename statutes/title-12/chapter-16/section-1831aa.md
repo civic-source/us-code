@@ -3,9 +3,9 @@ title: "Section 1831aa - Enforcement of agreements"
 usc_title: 12
 usc_section: "1831aa"
 chapter: 16
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "12 U.S.C. § 1831aa"
-generated_at: "2026-03-30T04:33:43.933Z"
+generated_at: "2026-03-30T04:35:51.208Z"
 status: "active"
 ---
 

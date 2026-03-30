@@ -3,9 +3,9 @@ title: "Section 30307 - Restrictions"
 usc_title: 36
 usc_section: "30307"
 chapter: 303
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 30307"
-generated_at: "2026-03-30T04:34:22.882Z"
+generated_at: "2026-03-30T04:36:44.424Z"
 status: "active"
 ---
 

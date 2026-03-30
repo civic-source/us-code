@@ -3,9 +3,9 @@ title: "Section 732 - Alabama and Coushatta Indian Tribes of Texas considered as
 usc_title: 25
 usc_section: "732"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 732"
-generated_at: "2026-03-30T04:33:59.899Z"
+generated_at: "2026-03-30T04:36:15.507Z"
 status: "active"
 ---
 

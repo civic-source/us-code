@@ -3,9 +3,9 @@ title: "Section 3334 - Coordination of Federal aids with local governments"
 usc_title: 42
 usc_section: "3334"
 chapter: 41
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 3334"
-generated_at: "2026-03-30T04:34:39.568Z"
+generated_at: "2026-03-30T04:37:13.531Z"
 status: "active"
 ---
 

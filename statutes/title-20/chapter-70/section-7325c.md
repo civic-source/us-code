@@ -3,9 +3,9 @@ title: "Section 7325c - Report to Congress"
 usc_title: 20
 usc_section: "7325c"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 7325c"
-generated_at: "2026-03-30T04:33:52.157Z"
+generated_at: "2026-03-30T04:36:07.782Z"
 status: "active"
 ---
 

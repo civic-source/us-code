@@ -3,9 +3,9 @@ title: "Section 1610 - Effective date"
 usc_title: 7
 usc_section: "1610"
 chapter: 37
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 1610"
-generated_at: "2026-03-30T04:33:35.948Z"
+generated_at: "2026-03-30T04:35:39.996Z"
 status: "active"
 ---
 

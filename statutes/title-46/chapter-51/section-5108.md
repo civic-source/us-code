@@ -3,9 +3,9 @@ title: "Section 5108 - Special exemptions"
 usc_title: 46
 usc_section: "5108"
 chapter: 51
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "46 U.S.C. § 5108"
-generated_at: "2026-03-30T04:34:42.924Z"
+generated_at: "2026-03-30T04:37:18.964Z"
 status: "active"
 ---
 

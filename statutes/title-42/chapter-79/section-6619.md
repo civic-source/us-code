@@ -3,9 +3,9 @@ title: "Section 6619 - National coordination of research infrastructure"
 usc_title: 42
 usc_section: "6619"
 chapter: 79
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 6619"
-generated_at: "2026-03-30T04:34:39.649Z"
+generated_at: "2026-03-30T04:37:13.613Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1282 - Deferral of interest deduction allocable to accrued disco
 usc_title: 26
 usc_section: "1282"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 1282"
-generated_at: "2026-03-30T04:34:11.516Z"
+generated_at: "2026-03-30T04:36:32.081Z"
 status: "active"
 ---
 

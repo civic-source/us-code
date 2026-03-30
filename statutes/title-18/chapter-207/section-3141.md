@@ -3,9 +3,9 @@ title: "Section 3141 - Release and detention authority generally"
 usc_title: 18
 usc_section: "3141"
 chapter: 207
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "18 U.S.C. § 3141"
-generated_at: "2026-03-30T04:33:49.122Z"
+generated_at: "2026-03-30T04:36:11.850Z"
 status: "active"
 ---
 

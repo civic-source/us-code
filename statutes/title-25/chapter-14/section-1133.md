@@ -3,9 +3,9 @@ title: "Section 1133 - Payments to enrollees, heirs, or legatees; protection of 
 usc_title: 25
 usc_section: "1133"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 1133"
-generated_at: "2026-03-30T04:33:59.906Z"
+generated_at: "2026-03-30T04:36:15.514Z"
 status: "active"
 ---
 

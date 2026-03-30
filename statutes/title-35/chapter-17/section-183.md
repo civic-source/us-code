@@ -3,9 +3,9 @@ title: "Section 183 - Right to compensation"
 usc_title: 35
 usc_section: "183"
 chapter: 17
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "35 U.S.C. § 183"
-generated_at: "2026-03-30T04:34:18.124Z"
+generated_at: "2026-03-30T04:36:38.369Z"
 status: "active"
 ---
 

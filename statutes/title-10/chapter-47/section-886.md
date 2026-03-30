@@ -3,9 +3,9 @@ title: "Section 886 - Art. 86. Absence without leave"
 usc_title: 10
 usc_section: "886"
 chapter: 47
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 886"
-generated_at: "2026-03-30T04:33:39.024Z"
+generated_at: "2026-03-30T04:35:16.484Z"
 status: "active"
 ---
 

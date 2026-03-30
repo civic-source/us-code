@@ -3,9 +3,9 @@ title: "Section 1466 - Administration of oaths, affirmations, etc., by employees
 usc_title: 43
 usc_section: "1466"
 chapter: 31
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 1466"
-generated_at: "2026-03-30T04:34:27.152Z"
+generated_at: "2026-03-30T04:36:57.631Z"
 status: "active"
 ---
 

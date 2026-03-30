@@ -3,9 +3,9 @@ title: "Section 7223j - Authorization of appropriations"
 usc_title: 20
 usc_section: "7223j"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 7223j"
-generated_at: "2026-03-30T04:33:52.151Z"
+generated_at: "2026-03-30T04:36:07.776Z"
 status: "active"
 ---
 

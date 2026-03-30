@@ -3,9 +3,9 @@ title: "Section 5775 - Grants"
 usc_title: 42
 usc_section: "5775"
 chapter: 72
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 5775"
-generated_at: "2026-03-30T04:34:39.625Z"
+generated_at: "2026-03-30T04:37:13.590Z"
 status: "active"
 ---
 

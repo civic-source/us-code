@@ -3,9 +3,9 @@ title: "Section 2305 - National Security Assistance Strategy"
 usc_title: 22
 usc_section: "2305"
 chapter: 32
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 2305"
-generated_at: "2026-03-30T04:34:03.726Z"
+generated_at: "2026-03-30T04:36:18.242Z"
 status: "active"
 ---
 

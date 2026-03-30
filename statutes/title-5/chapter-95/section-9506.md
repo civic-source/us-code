@@ -3,9 +3,9 @@ title: "Section 9506 - Limited appointments to career reserved Senior Executive 
 usc_title: 5
 usc_section: "9506"
 chapter: 95
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "5 U.S.C. § 9506"
-generated_at: "2026-03-30T04:33:31.018Z"
+generated_at: "2026-03-30T04:35:02.578Z"
 status: "active"
 ---
 

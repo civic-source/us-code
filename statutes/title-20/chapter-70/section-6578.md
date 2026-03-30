@@ -3,9 +3,9 @@ title: "Section 6578 - Regulations for sections 6311 and 6316"
 usc_title: 20
 usc_section: "6578"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 6578"
-generated_at: "2026-03-30T04:33:52.138Z"
+generated_at: "2026-03-30T04:36:07.765Z"
 status: "active"
 ---
 

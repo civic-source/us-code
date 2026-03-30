@@ -3,9 +3,9 @@ title: "Section 977 - Rights, privileges, and obligations under Nebraska laws un
 usc_title: 25
 usc_section: "977"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 977"
-generated_at: "2026-03-30T04:33:59.904Z"
+generated_at: "2026-03-30T04:36:15.512Z"
 status: "active"
 ---
 

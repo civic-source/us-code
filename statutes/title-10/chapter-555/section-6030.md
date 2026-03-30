@@ -3,9 +3,9 @@ title: "Section 6030 - Repealed. Pub. L. 90–130, § 1(22) , Nov. 8, 1967 , 81 
 usc_title: 10
 usc_section: "6030"
 chapter: 555
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 6030"
-generated_at: "2026-03-30T04:33:39.114Z"
+generated_at: "2026-03-30T04:35:16.566Z"
 status: "repealed"
 ---
 

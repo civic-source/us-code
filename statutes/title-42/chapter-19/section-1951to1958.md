@@ -3,9 +3,9 @@ title: "Section 1951to1958 - Repealed. Pub. L. 92–60, § 11 , July 29, 1971 , 
 usc_title: 42
 usc_section: "1951to1958"
 chapter: 19
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 1951to1958"
-generated_at: "2026-03-30T04:34:39.521Z"
+generated_at: "2026-03-30T04:37:13.482Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 907to911 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oc
 usc_title: 22
 usc_section: "907to911"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 907to911"
-generated_at: "2026-03-30T04:34:03.702Z"
+generated_at: "2026-03-30T04:36:18.219Z"
 status: "repealed"
 ---
 

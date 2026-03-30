@@ -3,9 +3,9 @@ title: "Section 1978 - Restriction on importation of fishery or wildlife product
 usc_title: 22
 usc_section: "1978"
 chapter: 25
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "22 U.S.C. § 1978"
-generated_at: "2026-03-30T04:34:03.711Z"
+generated_at: "2026-03-30T04:36:18.228Z"
 status: "active"
 ---
 

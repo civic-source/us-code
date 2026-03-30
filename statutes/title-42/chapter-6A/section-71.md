@@ -3,9 +3,9 @@ title: "Section 71 - Grants for coordinated services and access to research for 
 usc_title: 42
 usc_section: "71"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 71"
-generated_at: "2026-03-30T04:34:39.297Z"
+generated_at: "2026-03-30T04:37:13.254Z"
 status: "active"
 ---
 

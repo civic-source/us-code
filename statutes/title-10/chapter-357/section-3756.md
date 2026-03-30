@@ -3,9 +3,9 @@ title: "Section 3756 - Korea Defense Service Medal"
 usc_title: 10
 usc_section: "3756"
 chapter: 357
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 3756"
-generated_at: "2026-03-30T04:33:39.106Z"
+generated_at: "2026-03-30T04:35:16.558Z"
 status: "active"
 ---
 

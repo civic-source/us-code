@@ -3,9 +3,9 @@ title: "Section 77r - Exemption from State regulation of securities offerings"
 usc_title: 15
 usc_section: "77r"
 chapter: 2
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 77r"
-generated_at: "2026-03-30T04:33:45.685Z"
+generated_at: "2026-03-30T04:35:45.346Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 657e - Mentoring Networks"
 usc_title: 15
 usc_section: "657e"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 657e"
-generated_at: "2026-03-30T04:33:45.755Z"
+generated_at: "2026-03-30T04:35:45.407Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
       - **(ix)** venture capital networking; and
       - **(x)** other matters relevant to the SBIR and STTR programs;
   - **(3)** have experience working with small business concerns participating in the SBIR and STTR programs;
-  - **(4)** contribute information to the national database referred to in subsection (d) of this section; and
+  - **(4)** contribute information to the national database referred to in subsection (d); and
   - **(5)** agree to reimburse volunteer mentors for out-of-pocket expenses related to service as a mentor under this section.
 - **(d)** The Administrator shall—
   - **(1)** include in the database required by section 638(k)(1) of this title , in cooperation with the SBIR, STTR, and FAST programs, information on Mentoring Networks and mentors participating under this section, including a description of their areas of expertise;

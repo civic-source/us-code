@@ -3,9 +3,9 @@ title: "Section 17173 - Daylighting systems and direct solar light pipe technolo
 usc_title: 42
 usc_section: "17173"
 chapter: 152
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 17173"
-generated_at: "2026-03-30T04:34:39.856Z"
+generated_at: "2026-03-30T04:37:13.833Z"
 status: "active"
 ---
 

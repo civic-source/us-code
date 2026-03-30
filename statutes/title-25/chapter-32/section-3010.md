@@ -3,9 +3,9 @@ title: "Section 3010 - Special relationship between Federal Government and India
 usc_title: 25
 usc_section: "3010"
 chapter: 32
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 3010"
-generated_at: "2026-03-30T04:33:59.949Z"
+generated_at: "2026-03-30T04:36:15.555Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12353 - Establishment of National Center on Family Resource and 
 usc_title: 42
 usc_section: "12353"
 chapter: 127
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 12353"
-generated_at: "2026-03-30T04:34:39.774Z"
+generated_at: "2026-03-30T04:37:13.746Z"
 status: "active"
 ---
 

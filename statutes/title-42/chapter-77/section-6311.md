@@ -3,9 +3,9 @@ title: "Section 6311 - Definitions"
 usc_title: 42
 usc_section: "6311"
 chapter: 77
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 6311"
-generated_at: "2026-03-30T04:34:39.641Z"
+generated_at: "2026-03-30T04:37:13.604Z"
 status: "active"
 ---
 

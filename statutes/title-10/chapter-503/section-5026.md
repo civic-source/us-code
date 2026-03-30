@@ -3,9 +3,9 @@ title: "Section 5026 - Consultation with Commandant of the Marine Corps on major
 usc_title: 10
 usc_section: "5026"
 chapter: 503
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 5026"
-generated_at: "2026-03-30T04:33:39.111Z"
+generated_at: "2026-03-30T04:35:16.563Z"
 status: "active"
 ---
 

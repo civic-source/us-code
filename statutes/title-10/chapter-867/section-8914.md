@@ -3,9 +3,9 @@ title: "Section 8914 - Twenty to thirty years: enlisted members"
 usc_title: 10
 usc_section: "8914"
 chapter: 867
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 8914"
-generated_at: "2026-03-30T04:33:39.127Z"
+generated_at: "2026-03-30T04:35:16.578Z"
 status: "active"
 ---
 

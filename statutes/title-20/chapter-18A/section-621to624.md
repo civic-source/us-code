@@ -3,9 +3,9 @@ title: "Section 621to624 - Repealed. Pub. L. 91–230, title VI, § 662(5) , Apr
 usc_title: 20
 usc_section: "621to624"
 chapter: 18
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 621to624"
-generated_at: "2026-03-30T04:33:52.030Z"
+generated_at: "2026-03-30T04:36:07.666Z"
 status: "repealed"
 ---
 

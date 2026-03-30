@@ -3,9 +3,9 @@ title: "Section 4081to4086 - Repealed. Pub. L. 103–382, title III, § 364 , Oc
 usc_title: 20
 usc_section: "4081to4086"
 chapter: 52
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 4081to4086"
-generated_at: "2026-03-30T04:33:52.117Z"
+generated_at: "2026-03-30T04:36:07.745Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2331 - Procurement of detection equipment for United States bord
 usc_title: 50
 usc_section: "2331"
 chapter: 40
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "50 U.S.C. § 2331"
-generated_at: "2026-03-30T04:34:44.685Z"
+generated_at: "2026-03-30T04:37:18.328Z"
 status: "active"
 ---
 

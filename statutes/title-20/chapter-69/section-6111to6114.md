@@ -3,9 +3,9 @@ title: "Section 6111to6114 - Omitted"
 usc_title: 20
 usc_section: "6111to6114"
 chapter: 69
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 6111to6114"
-generated_at: "2026-03-30T04:33:52.125Z"
+generated_at: "2026-03-30T04:36:07.753Z"
 status: "omitted"
 ---
 

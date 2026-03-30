@@ -3,9 +3,9 @@ title: "Section 1138 - Public transportation research and development"
 usc_title: 6
 usc_section: "1138"
 chapter: 4
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "6 U.S.C. § 1138"
-generated_at: "2026-03-30T04:33:32.923Z"
+generated_at: "2026-03-30T04:35:13.253Z"
 status: "active"
 ---
 

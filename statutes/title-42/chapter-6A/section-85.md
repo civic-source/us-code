@@ -3,9 +3,9 @@ title: "Section 85 - Privacy protections"
 usc_title: 42
 usc_section: "85"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 85"
-generated_at: "2026-03-30T04:34:39.297Z"
+generated_at: "2026-03-30T04:37:13.255Z"
 status: "active"
 ---
 

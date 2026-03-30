@@ -3,9 +3,9 @@ title: "Section 1247 - State and local area recreation and historic trails"
 usc_title: 16
 usc_section: "1247"
 chapter: 27
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 1247"
-generated_at: "2026-03-30T04:33:54.928Z"
+generated_at: "2026-03-30T04:36:10.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114 - Models, specimens"
 usc_title: 35
 usc_section: "114"
 chapter: 11
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "35 U.S.C. § 114"
-generated_at: "2026-03-30T04:34:18.122Z"
+generated_at: "2026-03-30T04:36:38.368Z"
 status: "active"
 ---
 

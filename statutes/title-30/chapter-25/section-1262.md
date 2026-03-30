@@ -3,9 +3,9 @@ title: "Section 1262 - Coal exploration permits"
 usc_title: 30
 usc_section: "1262"
 chapter: 25
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "30 U.S.C. § 1262"
-generated_at: "2026-03-30T04:34:12.500Z"
+generated_at: "2026-03-30T04:36:20.569Z"
 status: "active"
 ---
 

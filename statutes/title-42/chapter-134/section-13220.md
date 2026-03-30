@@ -3,9 +3,9 @@ title: "Section 13220 - Biodiesel fuel use credits"
 usc_title: 42
 usc_section: "13220"
 chapter: 134
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 13220"
-generated_at: "2026-03-30T04:34:39.796Z"
+generated_at: "2026-03-30T04:37:13.769Z"
 status: "active"
 ---
 

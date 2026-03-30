@@ -3,9 +3,9 @@ title: "Section 832g - Purchase of supplies and services"
 usc_title: 16
 usc_section: "832g"
 chapter: 12
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 832g"
-generated_at: "2026-03-30T04:33:54.912Z"
+generated_at: "2026-03-30T04:36:10.361Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70508 - Principal office"
 usc_title: 36
 usc_section: "70508"
 chapter: 705
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 70508"
-generated_at: "2026-03-30T04:34:22.888Z"
+generated_at: "2026-03-30T04:36:44.427Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7278 - Availability of appropriations for Department of Energy f
 usc_title: 42
 usc_section: "7278"
 chapter: 84
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 7278"
-generated_at: "2026-03-30T04:34:39.668Z"
+generated_at: "2026-03-30T04:37:13.633Z"
 status: "active"
 ---
 

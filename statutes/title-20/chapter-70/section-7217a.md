@@ -3,9 +3,9 @@ title: "Section 7217a - Participation of children enrolled in private schools"
 usc_title: 20
 usc_section: "7217a"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 7217a"
-generated_at: "2026-03-30T04:33:52.149Z"
+generated_at: "2026-03-30T04:36:07.774Z"
 status: "active"
 ---
 

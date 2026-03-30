@@ -3,9 +3,9 @@ title: "Section 6224 - Participation in administrative proceedings; waivers; agr
 usc_title: 26
 usc_section: "6224"
 chapter: 63
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "26 U.S.C. § 6224"
-generated_at: "2026-03-30T04:34:11.587Z"
+generated_at: "2026-03-30T04:36:32.232Z"
 status: "active"
 ---
 

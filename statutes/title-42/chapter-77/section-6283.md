@@ -3,9 +3,9 @@ title: "Section 6283 - Summer fill and fuel budgeting programs"
 usc_title: 42
 usc_section: "6283"
 chapter: 77
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 6283"
-generated_at: "2026-03-30T04:34:39.633Z"
+generated_at: "2026-03-30T04:37:13.598Z"
 status: "active"
 ---
 

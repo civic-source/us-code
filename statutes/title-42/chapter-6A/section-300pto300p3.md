@@ -3,9 +3,9 @@ title: "Section 300pto300p3 - Repealed. Pub. L. 96–79, title II, § 201(a) , O
 usc_title: 42
 usc_section: "300pto300p3"
 chapter: 6
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 300pto300p3"
-generated_at: "2026-03-30T04:34:39.278Z"
+generated_at: "2026-03-30T04:37:13.235Z"
 status: "repealed"
 ---
 

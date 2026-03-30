@@ -3,9 +3,9 @@ title: "Section 6714 - We the People program"
 usc_title: 20
 usc_section: "6714"
 chapter: 70
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 6714"
-generated_at: "2026-03-30T04:33:52.140Z"
+generated_at: "2026-03-30T04:36:07.767Z"
 status: "active"
 ---
 

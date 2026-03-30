@@ -3,9 +3,9 @@ title: "Section 1961to1963 - Repealed. Pub. L. 93–618, title VI, § 602(e) , J
 usc_title: 19
 usc_section: "1961to1963"
 chapter: 7
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "19 U.S.C. § 1961to1963"
-generated_at: "2026-03-30T04:33:50.205Z"
+generated_at: "2026-03-30T04:36:05.666Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 554 - Child development center employees"
 usc_title: 14
 usc_section: "554"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "14 U.S.C. § 554"
-generated_at: "2026-03-30T04:33:41.446Z"
+generated_at: "2026-03-30T04:35:43.249Z"
 status: "active"
 ---
 

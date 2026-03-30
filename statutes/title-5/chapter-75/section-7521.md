@@ -3,9 +3,9 @@ title: "Section 7521 - Actions against administrative law judges"
 usc_title: 5
 usc_section: "7521"
 chapter: 75
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "5 U.S.C. § 7521"
-generated_at: "2026-03-30T04:33:30.996Z"
+generated_at: "2026-03-30T04:35:02.556Z"
 status: "active"
 ---
 

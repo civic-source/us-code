@@ -3,9 +3,9 @@ title: "Section 9348 - Cadets: agreement to serve as officer"
 usc_title: 10
 usc_section: "9348"
 chapter: 903
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 9348"
-generated_at: "2026-03-30T04:33:39.129Z"
+generated_at: "2026-03-30T04:35:16.579Z"
 status: "active"
 ---
 

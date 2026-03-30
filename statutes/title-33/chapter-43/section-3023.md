@@ -3,9 +3,9 @@ title: "Section 3023 - Promotion of ensigns to grade of lieutenant (junior grade
 usc_title: 33
 usc_section: "3023"
 chapter: 43
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 3023"
-generated_at: "2026-03-30T04:34:20.149Z"
+generated_at: "2026-03-30T04:36:42.237Z"
 status: "active"
 ---
 

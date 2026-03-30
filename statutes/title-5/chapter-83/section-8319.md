@@ -3,9 +3,9 @@ title: "Section 8319 - Removal of members of the uniformed services from rolls; 
 usc_title: 5
 usc_section: "8319"
 chapter: 83
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "5 U.S.C. § 8319"
-generated_at: "2026-03-30T04:33:31.001Z"
+generated_at: "2026-03-30T04:35:02.559Z"
 status: "active"
 ---
 

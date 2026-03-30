@@ -3,9 +3,9 @@ title: "Section 3483 - Working capital fund"
 usc_title: 20
 usc_section: "3483"
 chapter: 48
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 3483"
-generated_at: "2026-03-30T04:33:52.114Z"
+generated_at: "2026-03-30T04:36:07.742Z"
 status: "active"
 ---
 

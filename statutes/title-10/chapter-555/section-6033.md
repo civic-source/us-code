@@ -3,9 +3,9 @@ title: "Section 6033 - Repealed. Pub. L. 90–235, § 7(a)(3) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "6033"
 chapter: 555
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "10 U.S.C. § 6033"
-generated_at: "2026-03-30T04:33:39.114Z"
+generated_at: "2026-03-30T04:35:16.566Z"
 status: "repealed"
 ---
 

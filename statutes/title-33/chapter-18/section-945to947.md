@@ -3,9 +3,9 @@ title: "Section 945to947 - Repealed. Pub. L. 98–426, § 25 , Sept. 28, 1984 , 
 usc_title: 33
 usc_section: "945to947"
 chapter: 18
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "33 U.S.C. § 945to947"
-generated_at: "2026-03-30T04:34:20.105Z"
+generated_at: "2026-03-30T04:36:42.194Z"
 status: "repealed"
 ---
 

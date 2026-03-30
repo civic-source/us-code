@@ -3,9 +3,9 @@ title: "Section 282b - Compensation"
 usc_title: 2
 usc_section: "282b"
 chapter: 9
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "2 U.S.C. § 282b"
-generated_at: "2026-03-30T04:33:29.729Z"
+generated_at: "2026-03-30T04:35:03.713Z"
 status: "active"
 ---
 

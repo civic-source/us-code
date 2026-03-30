@@ -3,9 +3,9 @@ title: "Section 534 - Carriage of local commercial television signals"
 usc_title: 47
 usc_section: "534"
 chapter: 5
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "47 U.S.C. § 534"
-generated_at: "2026-03-30T04:34:45.089Z"
+generated_at: "2026-03-30T04:37:17.305Z"
 status: "active"
 ---
 

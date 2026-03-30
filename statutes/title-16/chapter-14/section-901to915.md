@@ -3,9 +3,9 @@ title: "Section 901to915 - Repealed. Aug. 9, 1950, ch. 653, § 16 , 64 Stat. 425
 usc_title: 16
 usc_section: "901to915"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "16 U.S.C. § 901to915"
-generated_at: "2026-03-30T04:33:54.918Z"
+generated_at: "2026-03-30T04:36:10.366Z"
 status: "repealed"
 ---
 

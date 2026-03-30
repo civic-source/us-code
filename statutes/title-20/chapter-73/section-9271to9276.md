@@ -3,9 +3,9 @@ title: "Section 9271to9276 - Repealed. Pub. L. 113–128, title V, § 511(a) , J
 usc_title: 20
 usc_section: "9271to9276"
 chapter: 73
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 9271to9276"
-generated_at: "2026-03-30T04:33:52.168Z"
+generated_at: "2026-03-30T04:36:07.792Z"
 status: "repealed"
 ---
 

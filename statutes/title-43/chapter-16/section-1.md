@@ -3,9 +3,9 @@ title: "Section 1 - Execution of provisions of section 687c; authority of Secret
 usc_title: 43
 usc_section: "1"
 chapter: 16
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T04:34:27.139Z"
+generated_at: "2026-03-30T04:36:57.599Z"
 status: "active"
 ---
 

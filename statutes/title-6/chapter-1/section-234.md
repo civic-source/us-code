@@ -3,9 +3,9 @@ title: "Section 234 - Preservation of Transportation Security Administration as 
 usc_title: 6
 usc_section: "234"
 chapter: 1
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "6 U.S.C. § 234"
-generated_at: "2026-03-30T04:33:32.903Z"
+generated_at: "2026-03-30T04:35:13.235Z"
 status: "active"
 ---
 

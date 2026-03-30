@@ -3,9 +3,9 @@ title: "Section 315 - Changes or assignment to duty"
 usc_title: 15
 usc_section: "315"
 chapter: 9
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 315"
-generated_at: "2026-03-30T04:33:45.735Z"
+generated_at: "2026-03-30T04:35:45.389Z"
 status: "active"
 ---
 

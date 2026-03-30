@@ -3,9 +3,9 @@ title: "Section 882 - Repealed. Pub. L. 91–230, title IV, § 401(h)(3) , Apr. 
 usc_title: 20
 usc_section: "882"
 chapter: 24
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "20 U.S.C. § 882"
-generated_at: "2026-03-30T04:33:52.032Z"
+generated_at: "2026-03-30T04:36:07.668Z"
 status: "repealed"
 ---
 

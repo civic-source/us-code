@@ -3,9 +3,9 @@ title: "Section 1782to1787 - Repealed. Pub. L. 103–130, § 3(a) , Nov. 1, 1993
 usc_title: 7
 usc_section: "1782to1787"
 chapter: 44
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "7 U.S.C. § 1782to1787"
-generated_at: "2026-03-30T04:33:35.958Z"
+generated_at: "2026-03-30T04:35:40.006Z"
 status: "repealed"
 ---
 

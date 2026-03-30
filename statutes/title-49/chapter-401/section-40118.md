@@ -3,9 +3,9 @@ title: "Section 40118 - Government-financed air transportation"
 usc_title: 49
 usc_section: "40118"
 chapter: 401
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "49 U.S.C. § 40118"
-generated_at: "2026-03-30T04:34:48.006Z"
+generated_at: "2026-03-30T04:37:48.275Z"
 status: "active"
 ---
 

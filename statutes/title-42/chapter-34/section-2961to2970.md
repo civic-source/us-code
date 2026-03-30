@@ -3,9 +3,9 @@ title: "Section 2961to2970 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Au
 usc_title: 42
 usc_section: "2961to2970"
 chapter: 34
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 2961to2970"
-generated_at: "2026-03-30T04:34:39.552Z"
+generated_at: "2026-03-30T04:37:13.514Z"
 status: "repealed"
 ---
 

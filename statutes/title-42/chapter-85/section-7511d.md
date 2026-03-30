@@ -3,9 +3,9 @@ title: "Section 7511d - Enforcement for Severe and Extreme ozone nonattainment a
 usc_title: 42
 usc_section: "7511d"
 chapter: 85
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "42 U.S.C. § 7511d"
-generated_at: "2026-03-30T04:34:39.685Z"
+generated_at: "2026-03-30T04:37:13.651Z"
 status: "active"
 ---
 

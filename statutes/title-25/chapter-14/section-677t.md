@@ -3,9 +3,9 @@ title: "Section 677t - Water rights"
 usc_title: 25
 usc_section: "677t"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "25 U.S.C. § 677t"
-generated_at: "2026-03-30T04:33:59.896Z"
+generated_at: "2026-03-30T04:36:15.504Z"
 status: "active"
 ---
 

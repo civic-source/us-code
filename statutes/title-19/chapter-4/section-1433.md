@@ -3,9 +3,9 @@ title: "Section 1433 - Report of arrival of vessels, vehicles, and aircraft"
 usc_title: 19
 usc_section: "1433"
 chapter: 4
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "19 U.S.C. § 1433"
-generated_at: "2026-03-30T04:33:50.185Z"
+generated_at: "2026-03-30T04:36:05.648Z"
 status: "active"
 ---
 

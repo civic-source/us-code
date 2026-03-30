@@ -3,9 +3,9 @@ title: "Section 2632 - Multi-year plan for clean-up"
 usc_title: 50
 usc_section: "2632"
 chapter: 42
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "50 U.S.C. § 2632"
-generated_at: "2026-03-30T04:34:44.692Z"
+generated_at: "2026-03-30T04:37:18.334Z"
 status: "active"
 ---
 

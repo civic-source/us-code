@@ -3,9 +3,9 @@ title: "Section 501to504 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a
 usc_title: 8
 usc_section: "501to504"
 chapter: 11
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "8 U.S.C. § 501to504"
-generated_at: "2026-03-30T04:33:33.450Z"
+generated_at: "2026-03-30T04:35:36.768Z"
 status: "repealed"
 ---
 

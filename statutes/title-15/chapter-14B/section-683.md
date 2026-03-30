@@ -3,9 +3,9 @@ title: "Section 683 - Borrowing operations"
 usc_title: 15
 usc_section: "683"
 chapter: 14
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "15 U.S.C. § 683"
-generated_at: "2026-03-30T04:33:45.757Z"
+generated_at: "2026-03-30T04:35:45.409Z"
 status: "active"
 ---
 
@@ -73,11 +73,11 @@ status: "active"
       - **(iii)** this paragraph shall not be construed to create any ownership interest of the Administration in the company.
   - **(12)** A company may elect to make an in-kind distribution of securities only if such securities are publicly traded and marketable. The company shall deposit the Administration’s share of such securities for disposition with a trustee designated by the Administration or, at its option and with the agreement of the company, the Administration may direct the company to retain the Administration’s share. If the company retains the Administration’s share, it shall sell the Administration’s share and promptly remit the proceeds to the Administration. As used in this paragraph, the term “trustee” means a person who is knowledgeable about and proficient in the marketing of thinly traded securities.
 - **(h)** The computation of amounts due the Administration under participating securities shall be subject to the following terms and conditions:
-  - **(1)** The formula in subsection (g)(11) of this section shall be computed annually and the Administration shall receive distributions of its profit participation at the same time as other investors in the company.
+  - **(1)** The formula in subsection (g)(11) shall be computed annually and the Administration shall receive distributions of its profit participation at the same time as other investors in the company.
   - **(2)** The formula shall not be modified due to an increase in the private capital unless the increase is provided for in a proposed business plan submitted to and approved by the Administration.
   - **(3)** After distributions have been made, the Administration’s share of such distributions shall not be recomputed or reduced.
   - **(4)** If the company prepays or repays the participating securities, the Administration shall receive the requisite participation upon the distribution of profits due to any investments held by the company on the date of the repayment or prepayment.
-  - **(5)** If a company is licensed on or before March 31, 1993 , it may elect to exclude from profit participation all investments held on that date and in such case the Administration shall determine the amount of the future expenses attributable to such prior investment: Provided , That if the company issues participating securities to refinance debentures as authorized in subsection (g)(6) of this section, it may not elect to exclude profits on existing investments under this paragraph.
+  - **(5)** If a company is licensed on or before March 31, 1993 , it may elect to exclude from profit participation all investments held on that date and in such case the Administration shall determine the amount of the future expenses attributable to such prior investment: Provided , That if the company issues participating securities to refinance debentures as authorized in subsection (g)(6), it may not elect to exclude profits on existing investments under this paragraph.
 - **(i)** With respect to leverage granted by the Administration to a licensee, the Administration shall collect from the licensee a nonrefundable fee in an amount equal to 3 percent of the face amount of leverage granted to the licensee in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee.
 - **(j)** All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2 ) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
 - **(k)** In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007 , or any fiscal year thereafter may issue Energy Saving debentures.

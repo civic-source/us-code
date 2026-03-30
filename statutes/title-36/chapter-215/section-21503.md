@@ -3,9 +3,9 @@ title: "Section 21503 - Governing body"
 usc_title: 36
 usc_section: "21503"
 chapter: 215
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 21503"
-generated_at: "2026-03-30T04:34:22.879Z"
+generated_at: "2026-03-30T04:36:44.422Z"
 status: "active"
 ---
 

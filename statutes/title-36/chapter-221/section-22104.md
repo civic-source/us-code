@@ -3,9 +3,9 @@ title: "Section 22104 - Powers"
 usc_title: 36
 usc_section: "22104"
 chapter: 221
-current_through: "PL 114-37"
+current_through: "PL 114-38"
 classification: "36 U.S.C. § 22104"
-generated_at: "2026-03-30T04:34:22.879Z"
+generated_at: "2026-03-30T04:36:44.423Z"
 status: "active"
 ---
 
