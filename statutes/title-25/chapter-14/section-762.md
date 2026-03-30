@@ -3,9 +3,9 @@ title: "Section 762 - Federal restoration of supervision"
 usc_title: 25
 usc_section: "762"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 762"
-generated_at: "2026-03-30T03:44:24.455Z"
+generated_at: "2026-03-30T03:49:08.433Z"
 status: "active"
 ---
 

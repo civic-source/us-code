@@ -3,9 +3,9 @@ title: "Section 3742 - Trust responsibility"
 usc_title: 25
 usc_section: "3742"
 chapter: 39
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 3742"
-generated_at: "2026-03-30T03:44:24.541Z"
+generated_at: "2026-03-30T03:49:08.510Z"
 status: "active"
 ---
 

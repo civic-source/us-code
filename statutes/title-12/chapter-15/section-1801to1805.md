@@ -3,9 +3,9 @@ title: "Section 1801to1805 - Omitted"
 usc_title: 12
 usc_section: "1801to1805"
 chapter: 15
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 1801to1805"
-generated_at: "2026-03-30T03:43:57.709Z"
+generated_at: "2026-03-30T03:48:29.224Z"
 status: "omitted"
 ---
 

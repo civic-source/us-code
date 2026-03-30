@@ -3,9 +3,9 @@ title: "Section 975975a - Repealed. Pub. L. 97–468, title VI, § 615(a)(1) , J
 usc_title: 43
 usc_section: "975975a"
 chapter: 22
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 975975a"
-generated_at: "2026-03-30T03:45:10.982Z"
+generated_at: "2026-03-30T03:49:59.897Z"
 status: "repealed"
 ---
 

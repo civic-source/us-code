@@ -3,9 +3,9 @@ title: "Section 6315 - Payments of estimated income tax"
 usc_title: 26
 usc_section: "6315"
 chapter: 64
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "26 U.S.C. § 6315"
-generated_at: "2026-03-30T03:44:42.070Z"
+generated_at: "2026-03-30T03:49:33.679Z"
 status: "active"
 ---
 

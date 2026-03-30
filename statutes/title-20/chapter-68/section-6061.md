@@ -3,9 +3,9 @@ title: "Section 6061 - School prayer"
 usc_title: 20
 usc_section: "6061"
 chapter: 68
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 6061"
-generated_at: "2026-03-30T03:44:15.289Z"
+generated_at: "2026-03-30T03:48:56.248Z"
 status: "active"
 ---
 

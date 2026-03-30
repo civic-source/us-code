@@ -3,9 +3,9 @@ title: "Section 3329 - Withholding checks to be sent to foreign countries"
 usc_title: 31
 usc_section: "3329"
 chapter: 33
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "31 U.S.C. § 3329"
-generated_at: "2026-03-30T03:44:51.256Z"
+generated_at: "2026-03-30T03:49:45.095Z"
 status: "active"
 ---
 

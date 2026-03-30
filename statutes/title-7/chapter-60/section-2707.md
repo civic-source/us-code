@@ -3,9 +3,9 @@ title: "Section 2707 - Required terms and conditions in orders"
 usc_title: 7
 usc_section: "2707"
 chapter: 60
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 2707"
-generated_at: "2026-03-30T03:43:46.112Z"
+generated_at: "2026-03-30T03:48:09.897Z"
 status: "active"
 ---
 

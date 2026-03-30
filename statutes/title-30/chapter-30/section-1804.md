@@ -3,9 +3,9 @@ title: "Section 1804 - Program and policy for advanced materials research and te
 usc_title: 30
 usc_section: "1804"
 chapter: 30
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "30 U.S.C. § 1804"
-generated_at: "2026-03-30T03:44:47.384Z"
+generated_at: "2026-03-30T03:49:20.816Z"
 status: "active"
 ---
 

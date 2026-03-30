@@ -3,9 +3,9 @@ title: "Section 6443 - Consultations"
 usc_title: 22
 usc_section: "6443"
 chapter: 73
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 6443"
-generated_at: "2026-03-30T03:44:27.654Z"
+generated_at: "2026-03-30T03:49:04.375Z"
 status: "active"
 ---
 

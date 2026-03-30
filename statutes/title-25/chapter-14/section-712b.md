@@ -3,9 +3,9 @@ title: "Section 712b - Organization of tribe"
 usc_title: 25
 usc_section: "712b"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 712b"
-generated_at: "2026-03-30T03:44:24.452Z"
+generated_at: "2026-03-30T03:49:08.429Z"
 status: "active"
 ---
 

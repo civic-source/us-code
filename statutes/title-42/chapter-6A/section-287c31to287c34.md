@@ -3,9 +3,9 @@ title: "Section 287c31to287c34 - Transferred"
 usc_title: 42
 usc_section: "287c31to287c34"
 chapter: 6
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 287c31to287c34"
-generated_at: "2026-03-30T03:46:12.804Z"
+generated_at: "2026-03-30T03:50:15.823Z"
 status: "transferred"
 ---
 

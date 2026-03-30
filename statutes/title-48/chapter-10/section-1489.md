@@ -3,9 +3,9 @@ title: "Section 1489 - Loss of title of United States to lands in territories th
 usc_title: 48
 usc_section: "1489"
 chapter: 10
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "48 U.S.C. § 1489"
-generated_at: "2026-03-30T03:46:23.012Z"
+generated_at: "2026-03-30T03:50:21.084Z"
 status: "active"
 ---
 

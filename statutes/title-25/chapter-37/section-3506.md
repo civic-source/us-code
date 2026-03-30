@@ -3,9 +3,9 @@ title: "Section 3506 - Wind and hydropower feasibility study"
 usc_title: 25
 usc_section: "3506"
 chapter: 37
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 3506"
-generated_at: "2026-03-30T03:44:24.538Z"
+generated_at: "2026-03-30T03:49:08.508Z"
 status: "active"
 ---
 

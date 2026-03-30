@@ -3,9 +3,9 @@ title: "Section 130 - Authority to withhold from public disclosure certain techn
 usc_title: 10
 usc_section: "130"
 chapter: 3
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 130"
-generated_at: "2026-03-30T03:43:42.353Z"
+generated_at: "2026-03-30T03:48:16.895Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 159b - Administration, protection, and development"
 usc_title: 16
 usc_section: "159b"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 159b"
-generated_at: "2026-03-30T03:44:18.531Z"
+generated_at: "2026-03-30T03:48:41.850Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2209 - Additional statement of expenditures"
 usc_title: 7
 usc_section: "2209"
 chapter: 55
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 2209"
-generated_at: "2026-03-30T03:43:46.102Z"
+generated_at: "2026-03-30T03:48:09.887Z"
 status: "active"
 ---
 

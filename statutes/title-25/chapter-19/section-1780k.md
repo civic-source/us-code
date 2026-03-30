@@ -3,9 +3,9 @@ title: "Section 1780k - Inter-Pueblo cooperation"
 usc_title: 25
 usc_section: "1780k"
 chapter: 19
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 1780k"
-generated_at: "2026-03-30T03:44:24.507Z"
+generated_at: "2026-03-30T03:49:08.480Z"
 status: "active"
 ---
 

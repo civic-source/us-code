@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Aug. 17, 1954, ch. 751, § 2 , 68 Stat. 736"
 usc_title: 16
 usc_section: "5"
 chapter: 3
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T03:44:18.658Z"
+generated_at: "2026-03-30T03:48:42.002Z"
 status: "repealed"
 ---
 

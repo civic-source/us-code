@@ -3,9 +3,9 @@ title: "Section 411to419 - Omitted"
 usc_title: 22
 usc_section: "411to419"
 chapter: 9
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 411to419"
-generated_at: "2026-03-30T03:44:27.529Z"
+generated_at: "2026-03-30T03:49:04.245Z"
 status: "omitted"
 ---
 

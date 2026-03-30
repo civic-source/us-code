@@ -3,9 +3,9 @@ title: "Section 2002 - Statement of purposes"
 usc_title: 43
 usc_section: "2002"
 chapter: 38
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 2002"
-generated_at: "2026-03-30T03:45:11.026Z"
+generated_at: "2026-03-30T03:49:59.934Z"
 status: "active"
 ---
 

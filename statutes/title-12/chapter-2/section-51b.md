@@ -3,9 +3,9 @@ title: "Section 51b - Dividends, voting, and retirement of preferred stock; indi
 usc_title: 12
 usc_section: "51b"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 51b"
-generated_at: "2026-03-30T03:43:57.598Z"
+generated_at: "2026-03-30T03:48:29.128Z"
 status: "active"
 ---
 

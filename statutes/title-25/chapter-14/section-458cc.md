@@ -3,9 +3,9 @@ title: "Section 458cc - Funding agreements"
 usc_title: 25
 usc_section: "458cc"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 458cc"
-generated_at: "2026-03-30T03:44:24.427Z"
+generated_at: "2026-03-30T03:49:08.408Z"
 status: "active"
 ---
 

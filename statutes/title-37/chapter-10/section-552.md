@@ -3,9 +3,9 @@ title: "Section 552 - Pay and allowances; continuance while in a missing status;
 usc_title: 37
 usc_section: "552"
 chapter: 10
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "37 U.S.C. § 552"
-generated_at: "2026-03-30T03:45:06.406Z"
+generated_at: "2026-03-30T03:49:51.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7321c - Performance review and penalties"
 usc_title: 20
 usc_section: "7321c"
 chapter: 70
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 7321c"
-generated_at: "2026-03-30T03:44:15.340Z"
+generated_at: "2026-03-30T03:48:56.298Z"
 status: "active"
 ---
 

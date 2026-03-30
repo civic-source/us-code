@@ -3,9 +3,9 @@ title: "Section 1664 - Advertising of credit other than open end plans"
 usc_title: 15
 usc_section: "1664"
 chapter: 41
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 1664"
-generated_at: "2026-03-30T03:44:05.777Z"
+generated_at: "2026-03-30T03:48:24.745Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2658 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3132(a
 usc_title: 50
 usc_section: "2658"
 chapter: 42
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "50 U.S.C. § 2658"
-generated_at: "2026-03-30T03:46:21.009Z"
+generated_at: "2026-03-30T03:50:23.749Z"
 status: "repealed"
 ---
 

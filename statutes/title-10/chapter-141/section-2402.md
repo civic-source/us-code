@@ -3,9 +3,9 @@ title: "Section 2402 - Prohibition of contractors limiting subcontractor sales d
 usc_title: 10
 usc_section: "2402"
 chapter: 141
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2402"
-generated_at: "2026-03-30T03:43:42.486Z"
+generated_at: "2026-03-30T03:48:17.007Z"
 status: "active"
 ---
 

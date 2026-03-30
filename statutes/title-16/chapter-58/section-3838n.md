@@ -3,9 +3,9 @@ title: "Section 3838n - Grassland reserve program"
 usc_title: 16
 usc_section: "3838n"
 chapter: 58
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 3838n"
-generated_at: "2026-03-30T03:44:18.783Z"
+generated_at: "2026-03-30T03:48:42.151Z"
 status: "active"
 ---
 

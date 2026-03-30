@@ -3,9 +3,9 @@ title: "Section 2861 - General authorization"
 usc_title: 29
 usc_section: "2861"
 chapter: 30
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "29 U.S.C. § 2861"
-generated_at: "2026-03-30T03:44:33.713Z"
+generated_at: "2026-03-30T03:49:28.159Z"
 status: "active"
 ---
 

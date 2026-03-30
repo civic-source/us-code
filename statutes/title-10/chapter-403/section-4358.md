@@ -3,9 +3,9 @@ title: "Section 4358 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "4358"
 chapter: 403
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 4358"
-generated_at: "2026-03-30T03:43:42.535Z"
+generated_at: "2026-03-30T03:48:17.049Z"
 status: "active"
 ---
 

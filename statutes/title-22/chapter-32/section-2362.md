@@ -3,9 +3,9 @@ title: "Section 2362 - Use of foreign currencies"
 usc_title: 22
 usc_section: "2362"
 chapter: 32
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 2362"
-generated_at: "2026-03-30T03:44:27.570Z"
+generated_at: "2026-03-30T03:49:04.288Z"
 status: "active"
 ---
 

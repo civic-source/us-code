@@ -3,9 +3,9 @@ title: "Section 1490g - Repealed. Pub. L. 98–181, title I [title V, § 503(c)]
 usc_title: 42
 usc_section: "1490g"
 chapter: 8
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 1490g"
-generated_at: "2026-03-30T03:46:13.230Z"
+generated_at: "2026-03-30T03:50:16.226Z"
 status: "repealed"
 ---
 

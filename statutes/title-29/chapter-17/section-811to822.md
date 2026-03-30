@@ -3,9 +3,9 @@ title: "Section 811to822 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , O
 usc_title: 29
 usc_section: "811to822"
 chapter: 17
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "29 U.S.C. § 811to822"
-generated_at: "2026-03-30T03:44:33.660Z"
+generated_at: "2026-03-30T03:49:28.105Z"
 status: "repealed"
 ---
 

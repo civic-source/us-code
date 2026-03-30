@@ -3,9 +3,9 @@ title: "Section 963 - Applications for Colorado and Wyoming pipeline right of wa
 usc_title: 43
 usc_section: "963"
 chapter: 22
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 963"
-generated_at: "2026-03-30T03:45:10.981Z"
+generated_at: "2026-03-30T03:49:59.897Z"
 status: "active"
 ---
 

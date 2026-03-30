@@ -3,9 +3,9 @@ title: "Section 701 - Placement of employees in military installations"
 usc_title: 38
 usc_section: "701"
 chapter: 7
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 701"
-generated_at: "2026-03-30T03:44:58.693Z"
+generated_at: "2026-03-30T03:49:52.884Z"
 status: "active"
 ---
 

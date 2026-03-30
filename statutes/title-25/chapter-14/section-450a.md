@@ -3,9 +3,9 @@ title: "Section 450a - Congressional declaration of policy"
 usc_title: 25
 usc_section: "450a"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 450a"
-generated_at: "2026-03-30T03:44:24.424Z"
+generated_at: "2026-03-30T03:49:08.403Z"
 status: "active"
 ---
 

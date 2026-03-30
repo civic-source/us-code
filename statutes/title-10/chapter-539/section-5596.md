@@ -3,9 +3,9 @@ title: "Section 5596 - Navy and Marine Corps: temporary appointments of officers
 usc_title: 10
 usc_section: "5596"
 chapter: 539
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 5596"
-generated_at: "2026-03-30T03:43:42.545Z"
+generated_at: "2026-03-30T03:48:17.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3612 - Concurrent State and Federal jurisdiction; venue; removal
 usc_title: 15
 usc_section: "3612"
 chapter: 62
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 3612"
-generated_at: "2026-03-30T03:44:05.834Z"
+generated_at: "2026-03-30T03:48:24.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 621 - Board; composition, tenure of members, compensation"
 usc_title: 28
 usc_section: "621"
 chapter: 42
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "28 U.S.C. § 621"
-generated_at: "2026-03-30T03:44:32.273Z"
+generated_at: "2026-03-30T03:49:26.537Z"
 status: "active"
 ---
 

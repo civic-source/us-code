@@ -3,9 +3,9 @@ title: "Section 4304 - Award of costs, including attorney’s fees, to substanti
 usc_title: 15
 usc_section: "4304"
 chapter: 69
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 4304"
-generated_at: "2026-03-30T03:44:05.843Z"
+generated_at: "2026-03-30T03:48:24.812Z"
 status: "active"
 ---
 

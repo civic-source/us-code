@@ -3,9 +3,9 @@ title: "Section 2717to2729 - Repealed. Pub. L. 93–203, title VI, § 614 , Dec.
 usc_title: 42
 usc_section: "2717to2729"
 chapter: 34
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 2717to2729"
-generated_at: "2026-03-30T03:46:13.329Z"
+generated_at: "2026-03-30T03:50:16.324Z"
 status: "repealed"
 ---
 

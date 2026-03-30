@@ -3,9 +3,9 @@ title: "Section 208to210h - Repealed. Pub. L. 89–183, § 8 , Sept. 14, 1965 , 
 usc_title: 24
 usc_section: "208to210h"
 chapter: 4
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "24 U.S.C. § 208to210h"
-generated_at: "2026-03-30T03:44:21.691Z"
+generated_at: "2026-03-30T03:48:58.770Z"
 status: "repealed"
 ---
 

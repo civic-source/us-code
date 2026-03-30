@@ -3,9 +3,9 @@ title: "Section 2214 - NRC user fees and annual charges"
 usc_title: 42
 usc_section: "2214"
 chapter: 23
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 2214"
-generated_at: "2026-03-30T03:46:13.315Z"
+generated_at: "2026-03-30T03:50:16.310Z"
 status: "active"
 ---
 

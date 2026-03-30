@@ -3,9 +3,9 @@ title: "Section 3771 - Training and manpower development"
 usc_title: 42
 usc_section: "3771"
 chapter: 46
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 3771"
-generated_at: "2026-03-30T03:46:13.372Z"
+generated_at: "2026-03-30T03:50:16.367Z"
 status: "active"
 ---
 

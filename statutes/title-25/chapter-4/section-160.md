@@ -3,9 +3,9 @@ title: "Section 160 - Custody of stocks or bonds held in trust for tribes"
 usc_title: 25
 usc_section: "160"
 chapter: 4
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 160"
-generated_at: "2026-03-30T03:44:24.410Z"
+generated_at: "2026-03-30T03:49:08.391Z"
 status: "active"
 ---
 

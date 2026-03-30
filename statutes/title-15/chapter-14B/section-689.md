@@ -3,9 +3,9 @@ title: "Section 689 - Definitions"
 usc_title: 15
 usc_section: "689"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 689"
-generated_at: "2026-03-30T03:44:05.728Z"
+generated_at: "2026-03-30T03:48:24.595Z"
 status: "active"
 ---
 

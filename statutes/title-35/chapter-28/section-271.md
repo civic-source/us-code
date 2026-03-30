@@ -3,9 +3,9 @@ title: "Section 271 - Infringement of patent"
 usc_title: 35
 usc_section: "271"
 chapter: 28
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "35 U.S.C. § 271"
-generated_at: "2026-03-30T03:44:51.600Z"
+generated_at: "2026-03-30T03:49:35.561Z"
 status: "active"
 ---
 

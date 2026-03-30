@@ -3,9 +3,9 @@ title: "Section 4112 - Absorption of costs within funds available"
 usc_title: 5
 usc_section: "4112"
 chapter: 41
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "5 U.S.C. § 4112"
-generated_at: "2026-03-30T03:43:32.474Z"
+generated_at: "2026-03-30T03:48:03.641Z"
 status: "active"
 ---
 

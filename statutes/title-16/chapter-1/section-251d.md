@@ -3,9 +3,9 @@ title: "Section 251d - Applicability to privately owned lands"
 usc_title: 16
 usc_section: "251d"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 251d"
-generated_at: "2026-03-30T03:44:18.539Z"
+generated_at: "2026-03-30T03:48:41.859Z"
 status: "active"
 ---
 

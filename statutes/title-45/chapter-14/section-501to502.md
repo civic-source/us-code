@@ -3,9 +3,9 @@ title: "Section 501to502 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 ,
 usc_title: 45
 usc_section: "501to502"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "45 U.S.C. § 501to502"
-generated_at: "2026-03-30T03:45:09.189Z"
+generated_at: "2026-03-30T03:49:56.993Z"
 status: "repealed"
 ---
 

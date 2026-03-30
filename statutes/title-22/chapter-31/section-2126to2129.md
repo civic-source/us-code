@@ -3,9 +3,9 @@ title: "Section 2126to2129 - Repealed. Pub. L. 104–288, § 9(a) , Oct. 11, 199
 usc_title: 22
 usc_section: "2126to2129"
 chapter: 31
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 2126to2129"
-generated_at: "2026-03-30T03:44:27.548Z"
+generated_at: "2026-03-30T03:49:04.264Z"
 status: "repealed"
 ---
 

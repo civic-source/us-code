@@ -3,9 +3,9 @@ title: "Section 10366 - Climate change and water intragovernmental panel"
 usc_title: 42
 usc_section: "10366"
 chapter: 109
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 10366"
-generated_at: "2026-03-30T03:46:13.665Z"
+generated_at: "2026-03-30T03:50:16.667Z"
 status: "active"
 ---
 

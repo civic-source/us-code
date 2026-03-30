@@ -3,9 +3,9 @@ title: "Section 5151 - Renumbered § 5022]"
 usc_title: 10
 usc_section: "5151"
 chapter: 513
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 5151"
-generated_at: "2026-03-30T03:43:42.543Z"
+generated_at: "2026-03-30T03:48:17.055Z"
 status: "renumbered"
 ---
 

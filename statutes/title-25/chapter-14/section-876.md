@@ -3,9 +3,9 @@ title: "Section 876 - Advances or expenditures from tribal funds; tax exemption"
 usc_title: 25
 usc_section: "876"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 876"
-generated_at: "2026-03-30T03:44:24.457Z"
+generated_at: "2026-03-30T03:49:08.434Z"
 status: "active"
 ---
 

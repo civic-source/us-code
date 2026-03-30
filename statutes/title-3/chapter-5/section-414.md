@@ -3,9 +3,9 @@ title: "Section 414 - Rights and protections under the Employee Polygraph Protec
 usc_title: 3
 usc_section: "414"
 chapter: 5
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "3 U.S.C. § 414"
-generated_at: "2026-03-30T03:43:27.831Z"
+generated_at: "2026-03-30T03:47:54.056Z"
 status: "active"
 ---
 

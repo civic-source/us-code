@@ -3,9 +3,9 @@ title: "Section 2401g - Authorization of appropriations"
 usc_title: 19
 usc_section: "2401g"
 chapter: 12
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "19 U.S.C. § 2401g"
-generated_at: "2026-03-30T03:44:12.696Z"
+generated_at: "2026-03-30T03:48:52.228Z"
 status: "active"
 ---
 

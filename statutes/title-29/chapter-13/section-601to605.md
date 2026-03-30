@@ -3,9 +3,9 @@ title: "Section 601to605 - Repealed. Pub. L. 97–306, title III, § 311 , Oct. 
 usc_title: 29
 usc_section: "601to605"
 chapter: 13
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "29 U.S.C. § 601to605"
-generated_at: "2026-03-30T03:44:33.640Z"
+generated_at: "2026-03-30T03:49:28.084Z"
 status: "repealed"
 ---
 

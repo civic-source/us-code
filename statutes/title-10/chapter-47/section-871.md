@@ -3,9 +3,9 @@ title: "Section 871 - Art. 71. Execution of sentence; suspension of sentence"
 usc_title: 10
 usc_section: "871"
 chapter: 47
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 871"
-generated_at: "2026-03-30T03:43:42.392Z"
+generated_at: "2026-03-30T03:48:16.925Z"
 status: "active"
 ---
 

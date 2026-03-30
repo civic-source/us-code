@@ -3,9 +3,9 @@ title: "Section 24 - Registration of securities under Securities Act of 1933"
 usc_title: 15
 usc_section: "24"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 24"
-generated_at: "2026-03-30T03:44:05.679Z"
+generated_at: "2026-03-30T03:48:24.545Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1041to1053 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat
 usc_title: 50
 usc_section: "1041to1053"
 chapter: 25
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "50 U.S.C. § 1041to1053"
-generated_at: "2026-03-30T03:46:20.972Z"
+generated_at: "2026-03-30T03:50:23.721Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 507 - Availability and allocation of funds; royalties from miner
 usc_title: 25
 usc_section: "507"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 507"
-generated_at: "2026-03-30T03:44:24.436Z"
+generated_at: "2026-03-30T03:49:08.414Z"
 status: "active"
 ---
 

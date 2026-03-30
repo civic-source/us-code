@@ -3,9 +3,9 @@ title: "Section 15362 - Process for adoption"
 usc_title: 42
 usc_section: "15362"
 chapter: 146
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 15362"
-generated_at: "2026-03-30T03:46:13.807Z"
+generated_at: "2026-03-30T03:50:16.810Z"
 status: "active"
 ---
 

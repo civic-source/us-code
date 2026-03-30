@@ -3,9 +3,9 @@ title: "Section 1 - Sale or partition by owners of interests in allotted lands i
 usc_title: 25
 usc_section: "1"
 chapter: 12
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T03:44:24.421Z"
+generated_at: "2026-03-30T03:49:08.401Z"
 status: "active"
 ---
 

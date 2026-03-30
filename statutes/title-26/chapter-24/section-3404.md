@@ -3,9 +3,9 @@ title: "Section 3404 - Return and payment by governmental employer"
 usc_title: 26
 usc_section: "3404"
 chapter: 24
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "26 U.S.C. § 3404"
-generated_at: "2026-03-30T03:44:41.997Z"
+generated_at: "2026-03-30T03:49:33.627Z"
 status: "active"
 ---
 

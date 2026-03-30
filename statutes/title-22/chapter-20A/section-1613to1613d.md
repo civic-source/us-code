@@ -3,9 +3,9 @@ title: "Section 1613to1613d - Omitted"
 usc_title: 22
 usc_section: "1613to1613d"
 chapter: 20
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 1613to1613d"
-generated_at: "2026-03-30T03:44:27.538Z"
+generated_at: "2026-03-30T03:49:04.253Z"
 status: "omitted"
 ---
 

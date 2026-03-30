@@ -3,9 +3,9 @@ title: "Section 611to620 - Omitted"
 usc_title: 48
 usc_section: "611to620"
 chapter: 3
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "48 U.S.C. § 611to620"
-generated_at: "2026-03-30T03:46:23.000Z"
+generated_at: "2026-03-30T03:50:21.073Z"
 status: "omitted"
 ---
 

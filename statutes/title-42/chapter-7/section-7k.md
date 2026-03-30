@@ -3,9 +3,9 @@ title: "Section 7k - Medicare and Medicaid program integrity provisions"
 usc_title: 42
 usc_section: "7k"
 chapter: 7
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 7k"
-generated_at: "2026-03-30T03:46:13.009Z"
+generated_at: "2026-03-30T03:50:16.008Z"
 status: "active"
 ---
 

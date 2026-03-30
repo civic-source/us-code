@@ -3,9 +3,9 @@ title: "Section 1680k - Repealed. Pub. L. 111–148, title X, § 10221(a) , Mar.
 usc_title: 25
 usc_section: "1680k"
 chapter: 18
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 1680k"
-generated_at: "2026-03-30T03:44:24.494Z"
+generated_at: "2026-03-30T03:49:08.468Z"
 status: "repealed"
 ---
 

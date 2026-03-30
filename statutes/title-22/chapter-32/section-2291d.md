@@ -3,9 +3,9 @@ title: "Section 2291d - Records of aircraft use"
 usc_title: 22
 usc_section: "2291d"
 chapter: 32
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 2291d"
-generated_at: "2026-03-30T03:44:27.563Z"
+generated_at: "2026-03-30T03:49:04.279Z"
 status: "active"
 ---
 

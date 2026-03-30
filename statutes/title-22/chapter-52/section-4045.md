@@ -3,9 +3,9 @@ title: "Section 4045 - Contributions to Fund"
 usc_title: 22
 usc_section: "4045"
 chapter: 52
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 4045"
-generated_at: "2026-03-30T03:44:27.619Z"
+generated_at: "2026-03-30T03:49:04.338Z"
 status: "active"
 ---
 

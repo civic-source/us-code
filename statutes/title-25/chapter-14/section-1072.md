@@ -3,9 +3,9 @@ title: "Section 1072 - Per capita distribution; limitation of $950 per share"
 usc_title: 25
 usc_section: "1072"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 1072"
-generated_at: "2026-03-30T03:44:24.464Z"
+generated_at: "2026-03-30T03:49:08.440Z"
 status: "active"
 ---
 

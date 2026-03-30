@@ -3,9 +3,9 @@ title: "Section 7283 - Short title and findings"
 usc_title: 20
 usc_section: "7283"
 chapter: 70
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 7283"
-generated_at: "2026-03-30T03:44:15.337Z"
+generated_at: "2026-03-30T03:48:56.296Z"
 status: "active"
 ---
 

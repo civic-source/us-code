@@ -3,9 +3,9 @@ title: "Section 647 - Receiving loan from court officer"
 usc_title: 18
 usc_section: "647"
 chapter: 31
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 647"
-generated_at: "2026-03-30T03:44:11.152Z"
+generated_at: "2026-03-30T03:48:37.321Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70j - Exemptions"
 usc_title: 15
 usc_section: "70j"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 70j"
-generated_at: "2026-03-30T03:44:05.626Z"
+generated_at: "2026-03-30T03:48:24.492Z"
 status: "active"
 ---
 

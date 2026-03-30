@@ -3,9 +3,9 @@ title: "Section 3431to3436 - Repealed. Pub. L. 104–127, title III, § 336(f)(1
 usc_title: 16
 usc_section: "3431to3436"
 chapter: 54
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 3431to3436"
-generated_at: "2026-03-30T03:44:18.773Z"
+generated_at: "2026-03-30T03:48:42.139Z"
 status: "repealed"
 ---
 

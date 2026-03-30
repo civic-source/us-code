@@ -3,9 +3,9 @@ title: "Section 9 - Provisions relating to administration"
 usc_title: 42
 usc_section: "9"
 chapter: 7
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T03:46:13.036Z"
+generated_at: "2026-03-30T03:50:16.035Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3292a - United States-Mexico joint agricultural research"
 usc_title: 7
 usc_section: "3292a"
 chapter: 64
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 3292a"
-generated_at: "2026-03-30T03:43:46.122Z"
+generated_at: "2026-03-30T03:48:09.907Z"
 status: "active"
 ---
 

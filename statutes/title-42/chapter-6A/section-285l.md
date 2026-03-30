@@ -3,9 +3,9 @@ title: "Section 285l - Purpose of Institute"
 usc_title: 42
 usc_section: "285l"
 chapter: 6
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 285l"
-generated_at: "2026-03-30T03:46:12.798Z"
+generated_at: "2026-03-30T03:50:15.816Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9303 - United States registered pilot service"
 usc_title: 46
 usc_section: "9303"
 chapter: 93
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "46 U.S.C. § 9303"
-generated_at: "2026-03-30T03:46:41.986Z"
+generated_at: "2026-03-30T03:50:22.672Z"
 status: "active"
 ---
 

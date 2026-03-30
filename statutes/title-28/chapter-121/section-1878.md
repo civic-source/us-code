@@ -3,9 +3,9 @@ title: "Section 1878 - Optional use of a one-step summoning and qualification pr
 usc_title: 28
 usc_section: "1878"
 chapter: 121
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "28 U.S.C. § 1878"
-generated_at: "2026-03-30T03:44:32.287Z"
+generated_at: "2026-03-30T03:49:26.574Z"
 status: "active"
 ---
 

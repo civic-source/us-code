@@ -3,9 +3,9 @@ title: "Section 473b - Market supply, demand, condition and prices; collection a
 usc_title: 7
 usc_section: "473b"
 chapter: 19
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 473b"
-generated_at: "2026-03-30T03:43:45.992Z"
+generated_at: "2026-03-30T03:48:09.779Z"
 status: "active"
 ---
 

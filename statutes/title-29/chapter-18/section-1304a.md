@@ -3,9 +3,9 @@ title: "Section 1304a - Sponsor education and assistance"
 usc_title: 29
 usc_section: "1304a"
 chapter: 18
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "29 U.S.C. § 1304a"
-generated_at: "2026-03-30T03:44:33.689Z"
+generated_at: "2026-03-30T03:49:28.134Z"
 status: "active"
 ---
 

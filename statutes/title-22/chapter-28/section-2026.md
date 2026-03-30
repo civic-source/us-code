@@ -3,9 +3,9 @@ title: "Section 2026 - Termination of authority and participation in Agency"
 usc_title: 22
 usc_section: "2026"
 chapter: 28
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 2026"
-generated_at: "2026-03-30T03:44:27.546Z"
+generated_at: "2026-03-30T03:49:04.263Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 437g - Enforcement"
 usc_title: 2
 usc_section: "437g"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "2 U.S.C. § 437g"
-generated_at: "2026-03-30T03:43:29.175Z"
+generated_at: "2026-03-30T03:47:48.838Z"
 status: "active"
 ---
 

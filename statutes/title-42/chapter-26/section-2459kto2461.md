@@ -3,9 +3,9 @@ title: "Section 2459kto2461 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 
 usc_title: 42
 usc_section: "2459kto2461"
 chapter: 26
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 2459kto2461"
-generated_at: "2026-03-30T03:46:13.327Z"
+generated_at: "2026-03-30T03:50:16.322Z"
 status: "repealed"
 ---
 

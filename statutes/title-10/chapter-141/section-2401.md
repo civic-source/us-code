@@ -3,9 +3,9 @@ title: "Section 2401 - Requirement for authorization by law of certain contracts
 usc_title: 10
 usc_section: "2401"
 chapter: 141
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2401"
-generated_at: "2026-03-30T03:43:42.485Z"
+generated_at: "2026-03-30T03:48:17.007Z"
 status: "active"
 ---
 

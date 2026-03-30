@@ -3,9 +3,9 @@ title: "Section 8201 - Findings and statement of purposes"
 usc_title: 42
 usc_section: "8201"
 chapter: 91
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 8201"
-generated_at: "2026-03-30T03:46:13.591Z"
+generated_at: "2026-03-30T03:50:16.590Z"
 status: "active"
 ---
 

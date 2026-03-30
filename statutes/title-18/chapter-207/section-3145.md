@@ -3,9 +3,9 @@ title: "Section 3145 - Review and appeal of a release or detention order"
 usc_title: 18
 usc_section: "3145"
 chapter: 207
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 3145"
-generated_at: "2026-03-30T03:44:11.201Z"
+generated_at: "2026-03-30T03:48:37.370Z"
 status: "active"
 ---
 

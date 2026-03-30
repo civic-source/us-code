@@ -3,9 +3,9 @@ title: "Section 12 - Cloud computing research enhancement"
 usc_title: 42
 usc_section: "12"
 chapter: 16
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T03:46:13.270Z"
+generated_at: "2026-03-30T03:50:16.265Z"
 status: "active"
 ---
 

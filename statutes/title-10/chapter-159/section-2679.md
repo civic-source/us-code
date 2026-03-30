@@ -3,9 +3,9 @@ title: "Section 2679 - Repealed. Pub. L. 108–375, div. B, title XXVIII, § 282
 usc_title: 10
 usc_section: "2679"
 chapter: 159
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2679"
-generated_at: "2026-03-30T03:43:42.509Z"
+generated_at: "2026-03-30T03:48:17.027Z"
 status: "repealed"
 ---
 

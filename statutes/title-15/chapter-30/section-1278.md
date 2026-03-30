@@ -3,9 +3,9 @@ title: "Section 1278 - Requirements for labeling certain toys and games"
 usc_title: 15
 usc_section: "1278"
 chapter: 30
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 1278"
-generated_at: "2026-03-30T03:44:05.759Z"
+generated_at: "2026-03-30T03:48:24.726Z"
 status: "active"
 ---
 

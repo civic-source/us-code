@@ -3,9 +3,9 @@ title: "Section 391 - Authorization of appropriations"
 usc_title: 47
 usc_section: "391"
 chapter: 5
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "47 U.S.C. § 391"
-generated_at: "2026-03-30T03:46:30.770Z"
+generated_at: "2026-03-30T03:50:20.346Z"
 status: "active"
 ---
 

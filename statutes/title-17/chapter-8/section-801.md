@@ -3,9 +3,9 @@ title: "Section 801 - Copyright Royalty Judges; appointment and functions"
 usc_title: 17
 usc_section: "801"
 chapter: 8
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "17 U.S.C. § 801"
-generated_at: "2026-03-30T03:44:09.360Z"
+generated_at: "2026-03-30T03:48:32.750Z"
 status: "active"
 ---
 

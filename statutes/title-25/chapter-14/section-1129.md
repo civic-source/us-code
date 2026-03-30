@@ -3,9 +3,9 @@ title: "Section 1129 - Tax exemption"
 usc_title: 25
 usc_section: "1129"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 1129"
-generated_at: "2026-03-30T03:44:24.465Z"
+generated_at: "2026-03-30T03:49:08.441Z"
 status: "active"
 ---
 

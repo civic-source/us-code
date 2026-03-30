@@ -3,9 +3,9 @@ title: "Section 1 - Exemptions for certain territories"
 usc_title: 42
 usc_section: "1"
 chapter: 85
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T03:46:13.569Z"
+generated_at: "2026-03-30T03:50:16.569Z"
 status: "active"
 ---
 

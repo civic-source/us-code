@@ -3,9 +3,9 @@ title: "Section 11921 - Statement of purpose"
 usc_title: 42
 usc_section: "11921"
 chapter: 124
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 11921"
-generated_at: "2026-03-30T03:46:13.700Z"
+generated_at: "2026-03-30T03:50:16.701Z"
 status: "active"
 ---
 

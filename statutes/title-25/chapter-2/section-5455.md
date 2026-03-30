@@ -3,9 +3,9 @@ title: "Section 5455 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 25
 usc_section: "5455"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 5455"
-generated_at: "2026-03-30T03:44:24.408Z"
+generated_at: "2026-03-30T03:49:08.389Z"
 status: "repealed"
 ---
 

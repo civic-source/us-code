@@ -3,9 +3,9 @@ title: "Section 1500c1to1500e - Omitted"
 usc_title: 42
 usc_section: "1500c1to1500e"
 chapter: 8
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 1500c1to1500e"
-generated_at: "2026-03-30T03:46:13.232Z"
+generated_at: "2026-03-30T03:50:16.230Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1701gto1701g3 - Omitted"
 usc_title: 12
 usc_section: "1701gto1701g3"
 chapter: 13
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 1701gto1701g3"
-generated_at: "2026-03-30T03:43:57.648Z"
+generated_at: "2026-03-30T03:48:29.171Z"
 status: "omitted"
 ---
 

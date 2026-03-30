@@ -3,9 +3,9 @@ title: "Section 5165c - Public notice, comment, and consultation requirements"
 usc_title: 42
 usc_section: "5165c"
 chapter: 68
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 5165c"
-generated_at: "2026-03-30T03:46:13.426Z"
+generated_at: "2026-03-30T03:50:16.421Z"
 status: "active"
 ---
 

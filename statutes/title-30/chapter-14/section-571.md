@@ -3,9 +3,9 @@ title: "Section 571 - Declaration of policy"
 usc_title: 30
 usc_section: "571"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "30 U.S.C. § 571"
-generated_at: "2026-03-30T03:44:47.343Z"
+generated_at: "2026-03-30T03:49:20.782Z"
 status: "active"
 ---
 

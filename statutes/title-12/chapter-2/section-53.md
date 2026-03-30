@@ -3,9 +3,9 @@ title: "Section 53 - When capital stock paid in"
 usc_title: 12
 usc_section: "53"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 53"
-generated_at: "2026-03-30T03:43:57.598Z"
+generated_at: "2026-03-30T03:48:29.128Z"
 status: "active"
 ---
 

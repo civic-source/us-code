@@ -3,9 +3,9 @@ title: "Section 205 - General duty as to services; revocation of registration"
 usc_title: 7
 usc_section: "205"
 chapter: 9
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 205"
-generated_at: "2026-03-30T03:43:45.981Z"
+generated_at: "2026-03-30T03:48:09.768Z"
 status: "active"
 ---
 

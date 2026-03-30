@@ -3,9 +3,9 @@ title: "Section 521to535 - Omitted or Transferred"
 usc_title: 7
 usc_section: "521to535"
 chapter: 22
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 521to535"
-generated_at: "2026-03-30T03:43:45.997Z"
+generated_at: "2026-03-30T03:48:09.784Z"
 status: "omitted"
 ---
 

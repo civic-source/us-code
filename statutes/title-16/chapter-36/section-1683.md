@@ -3,9 +3,9 @@ title: "Section 1683 - Pilot projects; requirements; residue removal credits as 
 usc_title: 16
 usc_section: "1683"
 chapter: 36
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 1683"
-generated_at: "2026-03-30T03:44:18.742Z"
+generated_at: "2026-03-30T03:48:42.100Z"
 status: "active"
 ---
 

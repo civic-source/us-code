@@ -3,9 +3,9 @@ title: "Section 2161 - Degree granting authority for National Intelligence Unive
 usc_title: 10
 usc_section: "2161"
 chapter: 108
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2161"
-generated_at: "2026-03-30T03:43:42.457Z"
+generated_at: "2026-03-30T03:48:16.983Z"
 status: "active"
 ---
 

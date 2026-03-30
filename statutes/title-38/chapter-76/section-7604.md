@@ -3,9 +3,9 @@ title: "Section 7604 - Terms of agreement"
 usc_title: 38
 usc_section: "7604"
 chapter: 76
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 7604"
-generated_at: "2026-03-30T03:44:58.775Z"
+generated_at: "2026-03-30T03:49:52.933Z"
 status: "active"
 ---
 

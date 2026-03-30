@@ -3,9 +3,9 @@ title: "Section 8108 - Reduction of compensation for subsequent injury to same m
 usc_title: 5
 usc_section: "8108"
 chapter: 81
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "5 U.S.C. § 8108"
-generated_at: "2026-03-30T03:43:32.504Z"
+generated_at: "2026-03-30T03:48:03.673Z"
 status: "active"
 ---
 

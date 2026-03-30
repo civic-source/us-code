@@ -3,9 +3,9 @@ title: "Section 118 - Quadrennial defense review"
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T03:43:42.349Z"
+generated_at: "2026-03-30T03:48:16.891Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1651to1656 - Repealed. Pub. L. 106–224, title IV, § 438(a)(7)
 usc_title: 7
 usc_section: "1651to1656"
 chapter: 40
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 1651to1656"
-generated_at: "2026-03-30T03:43:46.050Z"
+generated_at: "2026-03-30T03:48:09.836Z"
 status: "repealed"
 ---
 

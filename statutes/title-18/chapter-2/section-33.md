@@ -3,9 +3,9 @@ title: "Section 33 - Destruction of motor vehicles or motor vehicle facilities"
 usc_title: 18
 usc_section: "33"
 chapter: 2
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 33"
-generated_at: "2026-03-30T03:44:11.139Z"
+generated_at: "2026-03-30T03:48:37.309Z"
 status: "active"
 ---
 

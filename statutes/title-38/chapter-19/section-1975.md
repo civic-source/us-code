@@ -3,9 +3,9 @@ title: "Section 1975 - Jurisdiction of District Courts"
 usc_title: 38
 usc_section: "1975"
 chapter: 19
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 1975"
-generated_at: "2026-03-30T03:44:58.713Z"
+generated_at: "2026-03-30T03:49:52.896Z"
 status: "active"
 ---
 

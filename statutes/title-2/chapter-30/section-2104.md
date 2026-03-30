@@ -3,9 +3,9 @@ title: "Section 2104 - Publication of list of works of art, historical objects, 
 usc_title: 2
 usc_section: "2104"
 chapter: 30
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "2 U.S.C. § 2104"
-generated_at: "2026-03-30T03:43:29.216Z"
+generated_at: "2026-03-30T03:47:48.877Z"
 status: "active"
 ---
 

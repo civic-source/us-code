@@ -3,9 +3,9 @@ title: "Section 3210 - Regular Army: strength in grade; general officers"
 usc_title: 10
 usc_section: "3210"
 chapter: 331
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 3210"
-generated_at: "2026-03-30T03:43:42.527Z"
+generated_at: "2026-03-30T03:48:17.042Z"
 status: "active"
 ---
 

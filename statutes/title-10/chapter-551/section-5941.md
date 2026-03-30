@@ -3,9 +3,9 @@ title: "Section 5941 - Repealed. Pub. L. 90–235, § 5(b)(1) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "5941"
 chapter: 551
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 5941"
-generated_at: "2026-03-30T03:43:42.546Z"
+generated_at: "2026-03-30T03:48:17.058Z"
 status: "repealed"
 ---
 

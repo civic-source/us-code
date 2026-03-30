@@ -3,9 +3,9 @@ title: "Section 12106 - Army and Air Force Reserve: transfer to upon withdrawal 
 usc_title: 10
 usc_section: "12106"
 chapter: 1203
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 12106"
-generated_at: "2026-03-30T03:43:42.585Z"
+generated_at: "2026-03-30T03:48:17.088Z"
 status: "active"
 ---
 

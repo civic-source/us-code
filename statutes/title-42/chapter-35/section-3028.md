@@ -3,9 +3,9 @@ title: "Section 3028 - Cost of administration of State plans"
 usc_title: 42
 usc_section: "3028"
 chapter: 35
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 3028"
-generated_at: "2026-03-30T03:46:13.342Z"
+generated_at: "2026-03-30T03:50:16.337Z"
 status: "active"
 ---
 

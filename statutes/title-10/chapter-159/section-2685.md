@@ -3,9 +3,9 @@ title: "Section 2685 - Adjustment of or surcharge on selling prices in commissar
 usc_title: 10
 usc_section: "2685"
 chapter: 159
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2685"
-generated_at: "2026-03-30T03:43:42.510Z"
+generated_at: "2026-03-30T03:48:17.027Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31708 - Repealed. Pub. L. 105–178, title IV, § 4013 , June 9,
 usc_title: 49
 usc_section: "31708"
 chapter: 317
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "49 U.S.C. § 31708"
-generated_at: "2026-03-30T03:46:39.839Z"
+generated_at: "2026-03-30T03:50:26.070Z"
 status: "repealed"
 ---
 

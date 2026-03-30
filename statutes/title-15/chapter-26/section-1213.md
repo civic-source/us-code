@@ -3,9 +3,9 @@ title: "Section 1213 - Publication of safety standards in Federal Register"
 usc_title: 15
 usc_section: "1213"
 chapter: 26
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 1213"
-generated_at: "2026-03-30T03:44:05.756Z"
+generated_at: "2026-03-30T03:48:24.723Z"
 status: "active"
 ---
 

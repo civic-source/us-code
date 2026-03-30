@@ -3,9 +3,9 @@ title: "Section 13842 - Emerging community development corporation revolving loa
 usc_title: 42
 usc_section: "13842"
 chapter: 136
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 13842"
-generated_at: "2026-03-30T03:46:13.771Z"
+generated_at: "2026-03-30T03:50:16.772Z"
 status: "active"
 ---
 

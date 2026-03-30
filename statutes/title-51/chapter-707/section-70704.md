@@ -3,9 +3,9 @@ title: "Section 70704 - Composition of Commission"
 usc_title: 51
 usc_section: "70704"
 chapter: 707
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "51 U.S.C. § 70704"
-generated_at: "2026-03-30T03:46:50.581Z"
+generated_at: "2026-03-30T03:50:28.052Z"
 status: "active"
 ---
 

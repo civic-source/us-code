@@ -3,9 +3,9 @@ title: "Section 6206 - International Broadcasting Bureau"
 usc_title: 22
 usc_section: "6206"
 chapter: 71
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 6206"
-generated_at: "2026-03-30T03:44:27.651Z"
+generated_at: "2026-03-30T03:49:04.371Z"
 status: "active"
 ---
 

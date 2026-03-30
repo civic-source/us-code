@@ -3,9 +3,9 @@ title: "Section 485b - Amendment of existing repayment contracts"
 usc_title: 43
 usc_section: "485b"
 chapter: 12
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 485b"
-generated_at: "2026-03-30T03:45:10.955Z"
+generated_at: "2026-03-30T03:49:59.878Z"
 status: "active"
 ---
 

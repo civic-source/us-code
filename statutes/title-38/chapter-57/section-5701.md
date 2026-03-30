@@ -3,9 +3,9 @@ title: "Section 5701 - Confidential nature of claims"
 usc_title: 38
 usc_section: "5701"
 chapter: 57
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 5701"
-generated_at: "2026-03-30T03:44:58.756Z"
+generated_at: "2026-03-30T03:49:52.922Z"
 status: "active"
 ---
 

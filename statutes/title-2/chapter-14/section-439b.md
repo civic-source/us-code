@@ -3,9 +3,9 @@ title: "Section 439b - Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 
 usc_title: 2
 usc_section: "439b"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "2 U.S.C. § 439b"
-generated_at: "2026-03-30T03:43:29.176Z"
+generated_at: "2026-03-30T03:47:48.839Z"
 status: "repealed"
 ---
 

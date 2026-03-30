@@ -3,9 +3,9 @@ title: "Section 572 - Collection and removal of drift in Baltimore Harbor"
 usc_title: 33
 usc_section: "572"
 chapter: 12
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "33 U.S.C. § 572"
-generated_at: "2026-03-30T03:44:53.258Z"
+generated_at: "2026-03-30T03:49:49.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 407 - Deposit of refuse in navigable waters generally"
 usc_title: 33
 usc_section: "407"
 chapter: 9
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "33 U.S.C. § 407"
-generated_at: "2026-03-30T03:44:53.245Z"
+generated_at: "2026-03-30T03:49:49.330Z"
 status: "active"
 ---
 

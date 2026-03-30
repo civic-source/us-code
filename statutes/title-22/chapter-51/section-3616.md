@@ -3,9 +3,9 @@ title: "Section 3616 - Joint Commission on the Environment"
 usc_title: 22
 usc_section: "3616"
 chapter: 51
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 3616"
-generated_at: "2026-03-30T03:44:27.609Z"
+generated_at: "2026-03-30T03:49:04.327Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 551to558 - Repealed. Pub. L. 108–357, title IV, § 413(a)(1) ,
 usc_title: 26
 usc_section: "551to558"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "26 U.S.C. § 551to558"
-generated_at: "2026-03-30T03:44:41.880Z"
+generated_at: "2026-03-30T03:49:33.541Z"
 status: "repealed"
 ---
 

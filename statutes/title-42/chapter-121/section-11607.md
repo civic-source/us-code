@@ -3,9 +3,9 @@ title: "Section 11607 - Costs and fees"
 usc_title: 42
 usc_section: "11607"
 chapter: 121
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 11607"
-generated_at: "2026-03-30T03:46:13.694Z"
+generated_at: "2026-03-30T03:50:16.697Z"
 status: "active"
 ---
 

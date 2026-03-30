@@ -3,9 +3,9 @@ title: "Section 4142 - Repealed. Pub. L. 104–186, title II, § 203(9)(A) , (10
 usc_title: 2
 usc_section: "4142"
 chapter: 3
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "2 U.S.C. § 4142"
-generated_at: "2026-03-30T03:43:29.153Z"
+generated_at: "2026-03-30T03:47:48.814Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1702 - Chief Acquisition Officers and senior procurement executi
 usc_title: 41
 usc_section: "1702"
 chapter: 17
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "41 U.S.C. § 1702"
-generated_at: "2026-03-30T03:45:08.774Z"
+generated_at: "2026-03-30T03:49:58.787Z"
 status: "active"
 ---
 

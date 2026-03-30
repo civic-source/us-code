@@ -3,9 +3,9 @@ title: "Section 7283e - Report"
 usc_title: 20
 usc_section: "7283e"
 chapter: 70
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 7283e"
-generated_at: "2026-03-30T03:44:15.338Z"
+generated_at: "2026-03-30T03:48:56.296Z"
 status: "active"
 ---
 

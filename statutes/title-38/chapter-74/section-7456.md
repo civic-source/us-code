@@ -3,9 +3,9 @@ title: "Section 7456 - Nurses: special rules for weekend duty"
 usc_title: 38
 usc_section: "7456"
 chapter: 74
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 7456"
-generated_at: "2026-03-30T03:44:58.773Z"
+generated_at: "2026-03-30T03:49:52.932Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4101to4108 - Repealed. Pub. L. 100–297, title I, § 1003(c) , 
 usc_title: 20
 usc_section: "4101to4108"
 chapter: 53
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 4101to4108"
-generated_at: "2026-03-30T03:44:15.277Z"
+generated_at: "2026-03-30T03:48:56.236Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4012 - Application for issuance of certificate of review"
 usc_title: 15
 usc_section: "4012"
 chapter: 66
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 4012"
-generated_at: "2026-03-30T03:44:05.840Z"
+generated_at: "2026-03-30T03:48:24.810Z"
 status: "active"
 ---
 

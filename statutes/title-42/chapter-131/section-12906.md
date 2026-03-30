@@ -3,9 +3,9 @@ title: "Section 12906 - Grants for AIDS housing information and coordination ser
 usc_title: 42
 usc_section: "12906"
 chapter: 131
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 12906"
-generated_at: "2026-03-30T03:46:13.744Z"
+generated_at: "2026-03-30T03:50:16.746Z"
 status: "active"
 ---
 

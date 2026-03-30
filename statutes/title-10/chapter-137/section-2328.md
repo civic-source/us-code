@@ -3,9 +3,9 @@ title: "Section 2328 - Release of technical data under Freedom of Information Ac
 usc_title: 10
 usc_section: "2328"
 chapter: 137
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2328"
-generated_at: "2026-03-30T03:43:42.477Z"
+generated_at: "2026-03-30T03:48:17.000Z"
 status: "active"
 ---
 

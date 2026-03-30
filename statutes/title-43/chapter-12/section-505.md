@@ -3,9 +3,9 @@ title: "Section 505 - Drainage facilities and minor construction in irrigation w
 usc_title: 43
 usc_section: "505"
 chapter: 12
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 505"
-generated_at: "2026-03-30T03:45:10.957Z"
+generated_at: "2026-03-30T03:49:59.880Z"
 status: "active"
 ---
 

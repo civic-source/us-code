@@ -3,9 +3,9 @@ title: "Section 707 - 4–H club emblem fraudulently used"
 usc_title: 18
 usc_section: "707"
 chapter: 33
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 707"
-generated_at: "2026-03-30T03:44:11.153Z"
+generated_at: "2026-03-30T03:48:37.322Z"
 status: "active"
 ---
 

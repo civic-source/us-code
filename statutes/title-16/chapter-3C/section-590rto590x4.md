@@ -3,9 +3,9 @@ title: "Section 590rto590x4 - Repealed. Pub. L. 87–128, title III, § 341(a) ,
 usc_title: 16
 usc_section: "590rto590x4"
 chapter: 3
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 590rto590x4"
-generated_at: "2026-03-30T03:44:18.658Z"
+generated_at: "2026-03-30T03:48:42.000Z"
 status: "repealed"
 ---
 

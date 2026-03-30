@@ -3,9 +3,9 @@ title: "Section 466 - Requirement for specific authorization"
 usc_title: 16
 usc_section: "466"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 466"
-generated_at: "2026-03-30T03:44:18.628Z"
+generated_at: "2026-03-30T03:48:41.964Z"
 status: "active"
 ---
 

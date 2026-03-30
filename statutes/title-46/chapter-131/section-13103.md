@@ -3,9 +3,9 @@ title: "Section 13103 - Program acceptance"
 usc_title: 46
 usc_section: "13103"
 chapter: 131
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "46 U.S.C. § 13103"
-generated_at: "2026-03-30T03:46:41.992Z"
+generated_at: "2026-03-30T03:50:22.681Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5033 - Custody prior to appearance before magistrate judge"
 usc_title: 18
 usc_section: "5033"
 chapter: 403
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 5033"
-generated_at: "2026-03-30T03:44:11.222Z"
+generated_at: "2026-03-30T03:48:37.389Z"
 status: "active"
 ---
 

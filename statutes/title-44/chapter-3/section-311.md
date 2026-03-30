@@ -3,9 +3,9 @@ title: "Section 311 - Purchases exempt from subtitle I of title 40 and division 
 usc_title: 44
 usc_section: "311"
 chapter: 3
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "44 U.S.C. § 311"
-generated_at: "2026-03-30T03:45:08.425Z"
+generated_at: "2026-03-30T03:49:59.073Z"
 status: "active"
 ---
 

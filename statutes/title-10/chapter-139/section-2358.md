@@ -3,9 +3,9 @@ title: "Section 2358 - Research and development projects"
 usc_title: 10
 usc_section: "2358"
 chapter: 139
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2358"
-generated_at: "2026-03-30T03:43:42.481Z"
+generated_at: "2026-03-30T03:48:17.003Z"
 status: "active"
 ---
 

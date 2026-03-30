@@ -3,9 +3,9 @@ title: "Section 739 - Senate and House document rooms; superintendents"
 usc_title: 44
 usc_section: "739"
 chapter: 7
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "44 U.S.C. § 739"
-generated_at: "2026-03-30T03:45:08.427Z"
+generated_at: "2026-03-30T03:49:59.075Z"
 status: "active"
 ---
 

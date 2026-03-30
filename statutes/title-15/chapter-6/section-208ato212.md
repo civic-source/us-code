@@ -3,9 +3,9 @@ title: "Section 208ato212 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 
 usc_title: 15
 usc_section: "208ato212"
 chapter: 6
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 208ato212"
-generated_at: "2026-03-30T03:44:05.691Z"
+generated_at: "2026-03-30T03:48:24.557Z"
 status: "repealed"
 ---
 

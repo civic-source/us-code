@@ -3,9 +3,9 @@ title: "Section 986 - Repealed. Pub. L. 110–181, div. A, title X, § 1072(b)(1
 usc_title: 10
 usc_section: "986"
 chapter: 49
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 986"
-generated_at: "2026-03-30T03:43:42.402Z"
+generated_at: "2026-03-30T03:48:16.935Z"
 status: "repealed"
 ---
 

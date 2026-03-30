@@ -3,9 +3,9 @@ title: "Section 8 - Trusts in restraint of import trade illegal; penalty"
 usc_title: 15
 usc_section: "8"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-03-30T03:44:05.613Z"
+generated_at: "2026-03-30T03:48:24.481Z"
 status: "active"
 ---
 

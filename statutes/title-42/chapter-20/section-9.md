@@ -3,9 +3,9 @@ title: "Section 9 - Civil enforcement and private right of action"
 usc_title: 42
 usc_section: "9"
 chapter: 20
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T03:46:13.284Z"
+generated_at: "2026-03-30T03:50:16.279Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1674 - Restriction on discharge from employment by reason of gar
 usc_title: 15
 usc_section: "1674"
 chapter: 41
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 1674"
-generated_at: "2026-03-30T03:44:05.779Z"
+generated_at: "2026-03-30T03:48:24.747Z"
 status: "active"
 ---
 

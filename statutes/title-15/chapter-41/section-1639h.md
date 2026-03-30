@@ -3,9 +3,9 @@ title: "Section 1639h - Property appraisal requirements"
 usc_title: 15
 usc_section: "1639h"
 chapter: 41
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 1639h"
-generated_at: "2026-03-30T03:44:05.775Z"
+generated_at: "2026-03-30T03:48:24.742Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1735 - Restriction on issuance of visas to nonimmigrants from co
 usc_title: 8
 usc_section: "1735"
 chapter: 15
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "8 U.S.C. § 1735"
-generated_at: "2026-03-30T03:43:36.958Z"
+generated_at: "2026-03-30T03:48:12.967Z"
 status: "active"
 ---
 

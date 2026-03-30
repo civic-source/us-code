@@ -3,9 +3,9 @@ title: "Section 6671to6677 - Repealed. Pub. L. 112–239, div. A, title V, § 54
 usc_title: 20
 usc_section: "6671to6677"
 chapter: 70
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 6671to6677"
-generated_at: "2026-03-30T03:44:15.313Z"
+generated_at: "2026-03-30T03:48:56.272Z"
 status: "repealed"
 ---
 

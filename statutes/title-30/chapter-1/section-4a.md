@@ -3,9 +3,9 @@ title: "Section 4a - Omitted"
 usc_title: 30
 usc_section: "4a"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "30 U.S.C. § 4a"
-generated_at: "2026-03-30T03:44:47.325Z"
+generated_at: "2026-03-30T03:49:20.766Z"
 status: "omitted"
 ---
 

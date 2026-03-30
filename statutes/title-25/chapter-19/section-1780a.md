@@ -3,9 +3,9 @@ title: "Section 1780a - Ratification of agreements"
 usc_title: 25
 usc_section: "1780a"
 chapter: 19
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 1780a"
-generated_at: "2026-03-30T03:44:24.506Z"
+generated_at: "2026-03-30T03:49:08.479Z"
 status: "active"
 ---
 

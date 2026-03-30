@@ -3,9 +3,9 @@ title: "Section 860Hto860L - Repealed. Pub. L. 108–357, title VIII, § 835(a) 
 usc_title: 26
 usc_section: "860Hto860L"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "26 U.S.C. § 860Hto860L"
-generated_at: "2026-03-30T03:44:41.909Z"
+generated_at: "2026-03-30T03:49:33.562Z"
 status: "repealed"
 ---
 

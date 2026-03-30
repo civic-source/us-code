@@ -3,9 +3,9 @@ title: "Section 2517 - Office for Foreign Defense Critical Technology Monitoring
 usc_title: 10
 usc_section: "2517"
 chapter: 148
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 2517"
-generated_at: "2026-03-30T03:43:42.497Z"
+generated_at: "2026-03-30T03:48:17.016Z"
 status: "active"
 ---
 

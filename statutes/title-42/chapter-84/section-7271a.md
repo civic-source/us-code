@@ -3,9 +3,9 @@ title: "Section 7271a - Repealed. Pub. L. 105–85, div. C, title XXXI, § 3152(
 usc_title: 42
 usc_section: "7271a"
 chapter: 84
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 7271a"
-generated_at: "2026-03-30T03:46:13.522Z"
+generated_at: "2026-03-30T03:50:16.521Z"
 status: "repealed"
 ---
 

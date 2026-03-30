@@ -3,9 +3,9 @@ title: "Section 1461 - Effect upon State law"
 usc_title: 15
 usc_section: "1461"
 chapter: 39
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 1461"
-generated_at: "2026-03-30T03:44:05.764Z"
+generated_at: "2026-03-30T03:48:24.730Z"
 status: "active"
 ---
 

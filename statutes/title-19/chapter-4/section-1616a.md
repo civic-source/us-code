@@ -3,9 +3,9 @@ title: "Section 1616a - Disposition of forfeited property"
 usc_title: 19
 usc_section: "1616a"
 chapter: 4
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "19 U.S.C. § 1616a"
-generated_at: "2026-03-30T03:44:12.664Z"
+generated_at: "2026-03-30T03:48:52.197Z"
 status: "active"
 ---
 

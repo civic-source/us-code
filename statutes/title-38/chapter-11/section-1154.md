@@ -3,9 +3,9 @@ title: "Section 1154 - Consideration to be accorded time, place, and circumstanc
 usc_title: 38
 usc_section: "1154"
 chapter: 11
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 1154"
-generated_at: "2026-03-30T03:44:58.696Z"
+generated_at: "2026-03-30T03:49:52.886Z"
 status: "active"
 ---
 

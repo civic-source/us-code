@@ -3,9 +3,9 @@ title: "Section 8127 - Small business concerns owned and controlled by veterans:
 usc_title: 38
 usc_section: "8127"
 chapter: 81
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "38 U.S.C. § 8127"
-generated_at: "2026-03-30T03:44:58.781Z"
+generated_at: "2026-03-30T03:49:52.937Z"
 status: "active"
 ---
 

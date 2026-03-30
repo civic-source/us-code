@@ -3,9 +3,9 @@ title: "Section 5 - Exemption of Commodity Credit Corporation and its obligation
 usc_title: 15
 usc_section: "5"
 chapter: 15
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T03:44:05.734Z"
+generated_at: "2026-03-30T03:48:24.601Z"
 status: "active"
 ---
 

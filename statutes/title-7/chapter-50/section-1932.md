@@ -3,9 +3,9 @@ title: "Section 1932 - Assistance for rural entities"
 usc_title: 7
 usc_section: "1932"
 chapter: 50
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 1932"
-generated_at: "2026-03-30T03:43:46.063Z"
+generated_at: "2026-03-30T03:48:09.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 478 - Utilization of the Government Accountability Office"
 usc_title: 2
 usc_section: "478"
 chapter: 15
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "2 U.S.C. § 478"
-generated_at: "2026-03-30T03:43:29.180Z"
+generated_at: "2026-03-30T03:47:48.843Z"
 status: "active"
 ---
 

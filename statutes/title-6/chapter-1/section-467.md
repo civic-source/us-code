@@ -3,9 +3,9 @@ title: "Section 467 - Coordination with the Department of Health and Human Servi
 usc_title: 6
 usc_section: "467"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "6 U.S.C. § 467"
-generated_at: "2026-03-30T03:43:37.872Z"
+generated_at: "2026-03-30T03:48:10.895Z"
 status: "active"
 ---
 

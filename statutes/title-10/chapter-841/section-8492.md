@@ -3,9 +3,9 @@ title: "Section 8492 - Repealed. Pub. L. 90–235, § 1(a)(2) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8492"
 chapter: 841
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 8492"
-generated_at: "2026-03-30T03:43:42.567Z"
+generated_at: "2026-03-30T03:48:17.074Z"
 status: "repealed"
 ---
 

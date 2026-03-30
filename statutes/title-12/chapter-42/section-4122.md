@@ -3,9 +3,9 @@ title: "Section 4122 - Preemption of State and local laws"
 usc_title: 12
 usc_section: "4122"
 chapter: 42
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 4122"
-generated_at: "2026-03-30T03:43:57.798Z"
+generated_at: "2026-03-30T03:48:29.304Z"
 status: "active"
 ---
 

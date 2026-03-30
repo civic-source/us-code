@@ -3,9 +3,9 @@ title: "Section 375 - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [t
 usc_title: 20
 usc_section: "375"
 chapter: 16
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 375"
-generated_at: "2026-03-30T03:44:15.142Z"
+generated_at: "2026-03-30T03:48:56.096Z"
 status: "repealed"
 ---
 

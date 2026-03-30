@@ -3,9 +3,9 @@ title: "Section 6901a - Congressional findings: used oil recycling"
 usc_title: 42
 usc_section: "6901a"
 chapter: 82
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 6901a"
-generated_at: "2026-03-30T03:46:13.496Z"
+generated_at: "2026-03-30T03:50:16.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5641 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5641"
 chapter: 82
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 5641"
-generated_at: "2026-03-30T03:44:05.852Z"
+generated_at: "2026-03-30T03:48:24.822Z"
 status: "repealed"
 ---
 

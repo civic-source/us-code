@@ -3,9 +3,9 @@ title: "Section 2878to2883 - Repealed. Pub. L. 103–236, title III, § 310(e) ,
 usc_title: 22
 usc_section: "2878to2883"
 chapter: 43
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 2878to2883"
-generated_at: "2026-03-30T03:44:27.603Z"
+generated_at: "2026-03-30T03:49:04.322Z"
 status: "repealed"
 ---
 

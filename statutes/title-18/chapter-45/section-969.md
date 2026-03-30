@@ -3,9 +3,9 @@ title: "Section 969 - Repealed. Pub. L. 101–647, title XII, § 1207(a) , Nov. 
 usc_title: 18
 usc_section: "969"
 chapter: 45
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 969"
-generated_at: "2026-03-30T03:44:11.163Z"
+generated_at: "2026-03-30T03:48:37.332Z"
 status: "repealed"
 ---
 

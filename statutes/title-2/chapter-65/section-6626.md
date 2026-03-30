@@ -3,9 +3,9 @@ title: "Section 6626 - Reimbursements to Sergeant at Arms and Doorkeeper of Sena
 usc_title: 2
 usc_section: "6626"
 chapter: 65
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "2 U.S.C. § 6626"
-generated_at: "2026-03-30T03:43:29.237Z"
+generated_at: "2026-03-30T03:47:48.897Z"
 status: "active"
 ---
 

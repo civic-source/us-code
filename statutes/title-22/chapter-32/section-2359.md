@@ -3,9 +3,9 @@ title: "Section 2359 - Repealed. Pub. L. 105–277, div. A, § 101(d) [title V, 
 usc_title: 22
 usc_section: "2359"
 chapter: 32
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "22 U.S.C. § 2359"
-generated_at: "2026-03-30T03:44:27.570Z"
+generated_at: "2026-03-30T03:49:04.288Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7391to7394 - Repealed. Pub. L. 97–295, § 1(50)(A) , Oct. 12, 
 usc_title: 10
 usc_section: "7391to7394"
 chapter: 639
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 7391to7394"
-generated_at: "2026-03-30T03:43:42.557Z"
+generated_at: "2026-03-30T03:48:17.067Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1934 - Low-income farm ownership loan program; eligibility; repa
 usc_title: 7
 usc_section: "1934"
 chapter: 50
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 1934"
-generated_at: "2026-03-30T03:43:46.065Z"
+generated_at: "2026-03-30T03:48:09.849Z"
 status: "active"
 ---
 

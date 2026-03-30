@@ -3,9 +3,9 @@ title: "Section 6503 - National organic production program"
 usc_title: 7
 usc_section: "6503"
 chapter: 94
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "7 U.S.C. § 6503"
-generated_at: "2026-03-30T03:43:46.157Z"
+generated_at: "2026-03-30T03:48:09.943Z"
 status: "active"
 ---
 

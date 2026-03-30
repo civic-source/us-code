@@ -3,9 +3,9 @@ title: "Section 5013 - Variation by agreement"
 usc_title: 12
 usc_section: "5013"
 chapter: 50
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 5013"
-generated_at: "2026-03-30T03:43:57.826Z"
+generated_at: "2026-03-30T03:48:29.328Z"
 status: "active"
 ---
 

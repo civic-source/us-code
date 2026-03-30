@@ -3,9 +3,9 @@ title: "Section 15405 - Process for development and filing of plan; publication 
 usc_title: 42
 usc_section: "15405"
 chapter: 146
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 15405"
-generated_at: "2026-03-30T03:46:13.809Z"
+generated_at: "2026-03-30T03:50:16.811Z"
 status: "active"
 ---
 

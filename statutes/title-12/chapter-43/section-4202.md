@@ -3,9 +3,9 @@ title: "Section 4202 - Contents of declarations"
 usc_title: 12
 usc_section: "4202"
 chapter: 43
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "12 U.S.C. § 4202"
-generated_at: "2026-03-30T03:43:57.799Z"
+generated_at: "2026-03-30T03:48:29.305Z"
 status: "active"
 ---
 

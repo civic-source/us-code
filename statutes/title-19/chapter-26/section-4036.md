@@ -3,9 +3,9 @@ title: "Section 4036 - Regulations"
 usc_title: 19
 usc_section: "4036"
 chapter: 26
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "19 U.S.C. § 4036"
-generated_at: "2026-03-30T03:44:12.737Z"
+generated_at: "2026-03-30T03:48:52.268Z"
 status: "active"
 ---
 

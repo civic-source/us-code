@@ -3,9 +3,9 @@ title: "Section 10305 - Development of water-related technology"
 usc_title: 42
 usc_section: "10305"
 chapter: 109
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 10305"
-generated_at: "2026-03-30T03:46:13.663Z"
+generated_at: "2026-03-30T03:50:16.666Z"
 status: "active"
 ---
 

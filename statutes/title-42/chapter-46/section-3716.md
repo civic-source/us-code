@@ -3,9 +3,9 @@ title: "Section 3716 - Support for criminal investigations and prosecutions by S
 usc_title: 42
 usc_section: "3716"
 chapter: 46
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "42 U.S.C. § 3716"
-generated_at: "2026-03-30T03:46:13.369Z"
+generated_at: "2026-03-30T03:50:16.365Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423b - Administration"
 usc_title: 16
 usc_section: "1423b"
 chapter: 31
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 1423b"
-generated_at: "2026-03-30T03:44:18.730Z"
+generated_at: "2026-03-30T03:48:42.086Z"
 status: "active"
 ---
 

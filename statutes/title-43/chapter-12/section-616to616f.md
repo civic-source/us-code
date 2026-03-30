@@ -3,9 +3,9 @@ title: "Section 616to616f - Omitted"
 usc_title: 43
 usc_section: "616to616f"
 chapter: 12
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 616to616f"
-generated_at: "2026-03-30T03:45:10.964Z"
+generated_at: "2026-03-30T03:49:59.883Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8702 - Definitions"
 usc_title: 40
 usc_section: "8702"
 chapter: 87
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "40 U.S.C. § 8702"
-generated_at: "2026-03-30T03:44:56.579Z"
+generated_at: "2026-03-30T03:49:51.222Z"
 status: "active"
 ---
 

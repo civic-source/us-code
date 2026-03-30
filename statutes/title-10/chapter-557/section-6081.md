@@ -3,9 +3,9 @@ title: "Section 6081 - Navy ration: persons entitled to"
 usc_title: 10
 usc_section: "6081"
 chapter: 557
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 6081"
-generated_at: "2026-03-30T03:43:42.547Z"
+generated_at: "2026-03-30T03:48:17.058Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53713 - Administrative fees"
 usc_title: 46
 usc_section: "53713"
 chapter: 537
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "46 U.S.C. § 53713"
-generated_at: "2026-03-30T03:46:42.007Z"
+generated_at: "2026-03-30T03:50:22.699Z"
 status: "active"
 ---
 

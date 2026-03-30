@@ -3,9 +3,9 @@ title: "Section 921to927 - Repealed. Pub. L. 106–519, § 2 , Nov. 15, 2000 , 1
 usc_title: 26
 usc_section: "921to927"
 chapter: 1
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "26 U.S.C. § 921to927"
-generated_at: "2026-03-30T03:44:41.922Z"
+generated_at: "2026-03-30T03:49:33.572Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6334 - Concentration grants to local educational agencies"
 usc_title: 20
 usc_section: "6334"
 chapter: 70
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 6334"
-generated_at: "2026-03-30T03:44:15.299Z"
+generated_at: "2026-03-30T03:48:56.258Z"
 status: "active"
 ---
 

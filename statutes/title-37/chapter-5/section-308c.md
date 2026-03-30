@@ -3,9 +3,9 @@ title: "Section 308c - Special pay: bonus for affiliation or enlistment in the S
 usc_title: 37
 usc_section: "308c"
 chapter: 5
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "37 U.S.C. § 308c"
-generated_at: "2026-03-30T03:45:06.393Z"
+generated_at: "2026-03-30T03:49:51.718Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 887 - Coordination and consolidation of post-seizure administrat
 usc_title: 21
 usc_section: "887"
 chapter: 13
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "21 U.S.C. § 887"
-generated_at: "2026-03-30T03:44:28.781Z"
+generated_at: "2026-03-30T03:49:01.707Z"
 status: "active"
 ---
 

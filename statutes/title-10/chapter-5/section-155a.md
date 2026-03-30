@@ -3,9 +3,9 @@ title: "Section 155a - Assistants to the Chairman of the Joint Chiefs of Staff f
 usc_title: 10
 usc_section: "155a"
 chapter: 5
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "10 U.S.C. § 155a"
-generated_at: "2026-03-30T03:43:42.357Z"
+generated_at: "2026-03-30T03:48:16.898Z"
 status: "active"
 ---
 

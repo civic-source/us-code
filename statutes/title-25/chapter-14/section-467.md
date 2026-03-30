@@ -3,9 +3,9 @@ title: "Section 467 - New Indian reservations"
 usc_title: 25
 usc_section: "467"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 467"
-generated_at: "2026-03-30T03:44:24.432Z"
+generated_at: "2026-03-30T03:49:08.412Z"
 status: "active"
 ---
 

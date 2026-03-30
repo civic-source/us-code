@@ -3,9 +3,9 @@ title: "Section 2611 - Purposes"
 usc_title: 16
 usc_section: "2611"
 chapter: 46
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "16 U.S.C. § 2611"
-generated_at: "2026-03-30T03:44:18.762Z"
+generated_at: "2026-03-30T03:48:42.124Z"
 status: "active"
 ---
 

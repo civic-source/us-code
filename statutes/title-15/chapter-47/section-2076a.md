@@ -3,9 +3,9 @@ title: "Section 2076a - Report on civil penalties"
 usc_title: 15
 usc_section: "2076a"
 chapter: 47
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "15 U.S.C. § 2076a"
-generated_at: "2026-03-30T03:44:05.804Z"
+generated_at: "2026-03-30T03:48:24.771Z"
 status: "active"
 ---
 

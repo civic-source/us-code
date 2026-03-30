@@ -3,9 +3,9 @@ title: "Section 335 - Circulation of obligations of expired corporations"
 usc_title: 18
 usc_section: "335"
 chapter: 17
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 335"
-generated_at: "2026-03-30T03:44:11.146Z"
+generated_at: "2026-03-30T03:48:37.316Z"
 status: "active"
 ---
 

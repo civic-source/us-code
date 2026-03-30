@@ -3,9 +3,9 @@ title: "Section 6761 - Allotment and reallotment"
 usc_title: 20
 usc_section: "6761"
 chapter: 70
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 6761"
-generated_at: "2026-03-30T03:44:15.315Z"
+generated_at: "2026-03-30T03:48:56.274Z"
 status: "active"
 ---
 

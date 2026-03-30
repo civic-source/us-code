@@ -3,9 +3,9 @@ title: "Section 2011 - Judicial review"
 usc_title: 43
 usc_section: "2011"
 chapter: 38
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "43 U.S.C. § 2011"
-generated_at: "2026-03-30T03:45:11.027Z"
+generated_at: "2026-03-30T03:49:59.935Z"
 status: "active"
 ---
 

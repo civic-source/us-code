@@ -3,9 +3,9 @@ title: "Section 3261 - Criminal offenses committed by certain members of the Arm
 usc_title: 18
 usc_section: "3261"
 chapter: 212
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "18 U.S.C. § 3261"
-generated_at: "2026-03-30T03:44:11.204Z"
+generated_at: "2026-03-30T03:48:37.373Z"
 status: "active"
 ---
 

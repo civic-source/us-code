@@ -3,9 +3,9 @@ title: "Section 747 - Property of deceased members"
 usc_title: 25
 usc_section: "747"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 747"
-generated_at: "2026-03-30T03:44:24.455Z"
+generated_at: "2026-03-30T03:49:08.432Z"
 status: "active"
 ---
 

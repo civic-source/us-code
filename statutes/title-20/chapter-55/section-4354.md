@@ -3,9 +3,9 @@ title: "Section 4354 - Reports"
 usc_title: 20
 usc_section: "4354"
 chapter: 55
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "20 U.S.C. § 4354"
-generated_at: "2026-03-30T03:44:15.278Z"
+generated_at: "2026-03-30T03:48:56.237Z"
 status: "active"
 ---
 

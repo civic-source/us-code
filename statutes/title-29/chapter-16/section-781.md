@@ -3,9 +3,9 @@ title: "Section 781 - Duties of National Council"
 usc_title: 29
 usc_section: "781"
 chapter: 16
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "29 U.S.C. § 781"
-generated_at: "2026-03-30T03:44:33.654Z"
+generated_at: "2026-03-30T03:49:28.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 677j - Advances or expenditures from tribal funds; restrictions 
 usc_title: 25
 usc_section: "677j"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 677j"
-generated_at: "2026-03-30T03:44:24.449Z"
+generated_at: "2026-03-30T03:49:08.426Z"
 status: "active"
 ---
 

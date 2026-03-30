@@ -3,9 +3,9 @@ title: "Section 643 - Council’s powers subject to approval by Secretary"
 usc_title: 25
 usc_section: "643"
 chapter: 14
-current_through: "PL 113-103"
+current_through: "PL 113-108"
 classification: "25 U.S.C. § 643"
-generated_at: "2026-03-30T03:44:24.444Z"
+generated_at: "2026-03-30T03:49:08.423Z"
 status: "active"
 ---
 
