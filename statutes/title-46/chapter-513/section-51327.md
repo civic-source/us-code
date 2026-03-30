@@ -3,9 +3,9 @@ title: "Section 51327 - Sexual Assault Advisory Council"
 usc_title: 46
 usc_section: "51327"
 chapter: 513
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "46 U.S.C. § 51327"
-generated_at: "2026-03-30T00:04:28.368Z"
+generated_at: "2026-03-30T00:12:53.365Z"
 ---
 
 # § 51327. Sexual Assault Advisory Council
@@ -30,4 +30,4 @@ generated_at: "2026-03-30T00:04:28.368Z"
   - **(3)** In carrying out this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information.
 - **(d)** On an annual basis for each of the 5 years after the date of enactment of this section, and at the discretion of the Council thereafter, the Council shall submit, to the President and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, a report on the Council’s findings based on the reviews conducted pursuant to subsection (c) and related recommendations.
 - **(e)** Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5 .
-- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to the Council.

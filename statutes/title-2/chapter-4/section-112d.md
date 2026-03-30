@@ -3,9 +3,9 @@ title: "Section 112d - Repealed. Pub. L. 91–139, § 2(a) , Dec. 5, 1969 , 83 S
 usc_title: 2
 usc_section: "112d"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "2 U.S.C. § 112d"
-generated_at: "2026-03-29T23:59:41.253Z"
+generated_at: "2026-03-30T00:06:51.540Z"
 ---
 
 # §§ 112a to 112d. Repealed. Pub. L. 91–139, § 2(a) , Dec. 5, 1969 , 83 Stat. 291

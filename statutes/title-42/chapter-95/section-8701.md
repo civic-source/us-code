@@ -3,9 +3,9 @@ title: "Section 8701 - Omitted"
 usc_title: 42
 usc_section: "8701"
 chapter: 95
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 8701"
-generated_at: "2026-03-30T00:04:20.986Z"
+generated_at: "2026-03-30T00:12:27.635Z"
 ---
 
 # § 8701. Omitted

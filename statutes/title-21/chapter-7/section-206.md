@@ -3,9 +3,9 @@ title: "Section 206 - Revocation of license"
 usc_title: 21
 usc_section: "206"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "21 U.S.C. § 206"
-generated_at: "2026-03-30T00:02:27.658Z"
+generated_at: "2026-03-30T00:08:54.749Z"
 ---
 
 # § 206. Revocation of license

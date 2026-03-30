@@ -3,9 +3,9 @@ title: "Section 1282 - Deferral of interest deduction allocable to accrued disco
 usc_title: 26
 usc_section: "1282"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 1282"
-generated_at: "2026-03-30T00:03:33.540Z"
+generated_at: "2026-03-30T00:09:49.419Z"
 ---
 
 # § 1282. Deferral of interest deduction allocable to accrued discount

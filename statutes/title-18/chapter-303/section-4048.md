@@ -3,9 +3,9 @@ title: "Section 4048 - Fees for health care services for prisoners"
 usc_title: 18
 usc_section: "4048"
 chapter: 303
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 4048"
-generated_at: "2026-03-30T00:01:51.880Z"
+generated_at: "2026-03-30T00:08:07.603Z"
 ---
 
 # § 4048. Fees for health care services for prisoners

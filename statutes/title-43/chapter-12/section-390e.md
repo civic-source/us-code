@@ -3,9 +3,9 @@ title: "Section 390e - Rights, acquisition and availability of; obligation for o
 usc_title: 43
 usc_section: "390e"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 390e"
-generated_at: "2026-03-30T00:03:57.439Z"
+generated_at: "2026-03-30T00:11:08.877Z"
 ---
 
 # § 390e. Rights, acquisition and availability of; obligation for operation and maintenance; costs for reconstruction, rehabilitation, or replacement; use during Government operation or by contract

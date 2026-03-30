@@ -3,9 +3,9 @@ title: "Section 317 - Settlement"
 usc_title: 35
 usc_section: "317"
 chapter: 31
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "35 U.S.C. § 317"
-generated_at: "2026-03-30T00:03:37.650Z"
+generated_at: "2026-03-30T00:10:01.786Z"
 ---
 
 # § 317. Settlement

@@ -3,9 +3,9 @@ title: "Section 1339 - Injunction proceedings"
 usc_title: 15
 usc_section: "1339"
 chapter: 36
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 1339"
-generated_at: "2026-03-30T00:01:21.362Z"
+generated_at: "2026-03-30T00:07:49.672Z"
 ---
 
 # § 1339. Injunction proceedings

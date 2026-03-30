@@ -3,9 +3,9 @@ title: "Section 3003 - State grants for assistive technology"
 usc_title: 29
 usc_section: "3003"
 chapter: 31
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 3003"
-generated_at: "2026-03-30T00:03:00.536Z"
+generated_at: "2026-03-30T00:09:38.315Z"
 ---
 
 # § 3003. State grants for assistive technology

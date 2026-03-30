@@ -3,16 +3,16 @@ title: "Section 353 - Acquisition professional career program"
 usc_title: 6
 usc_section: "353"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 353"
-generated_at: "2026-03-30T00:00:10.042Z"
+generated_at: "2026-03-30T00:06:56.828Z"
 ---
 
 # § 353. Acquisition professional career program
 
 - **(a)** There is established in the Department an acquisition professional career program to develop a cadre of acquisition professionals within the Department.
 - **(b)** The Under Secretary for Management shall administer the acquisition professional career program established pursuant to subsection (a).
-- **(c)** The Under Secretary for Management shall carry out the following with respect to the acquisition professional career program.
+- **(c)** The Under Secretary for Management shall carry out the following with respect to the acquisition professional career program. 1 1 So in original. Probably should be a colon.
   - **(1)** Designate the occupational series, grades, and number of acquisition positions throughout the Department to be included in the program and manage centrally such positions.
   - **(2)** Establish and publish on the Department’s website eligibility criteria for candidates to participate in the program.
   - **(3)** Carry out recruitment efforts to attract candidates—

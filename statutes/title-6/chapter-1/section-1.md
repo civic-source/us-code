@@ -3,9 +3,9 @@ title: "Section 1 - Integrated public alert and warning system"
 usc_title: 6
 usc_section: "1"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 1"
-generated_at: "2026-03-30T00:00:10.039Z"
+generated_at: "2026-03-30T00:06:56.826Z"
 ---
 
 # § 321o–1. Integrated public alert and warning system
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T00:00:10.039Z"
     - **(H)** technical experts from the broadcasting industry;
     - **(I)** educators from the Emergency Management Institute; and
     - **(J)** other individuals with technical expertise as the Administrator determines appropriate.
-  - **(4)** In accordance with the Federal Advisory Committee Act (5 U.S.C. App.), the Administrator may obtain advice from a single individual or non-consensus advice from each of the several members of a group without invoking that Act.
+  - **(4)** In accordance with the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Administrator may obtain advice from a single individual or non-consensus advice from each of the several members of a group without invoking that Act.
 - **(c)**
   - **(1)** The Administrator shall establish a process to ensure that an incident management and warning tool used by a State, Tribal, or local government to originate and transmit an alert through the public alert and warning system meets the requirements developed by the Administrator under subsection (b)(1).
   - **(2)** The process required to be established under paragraph (1) shall include—

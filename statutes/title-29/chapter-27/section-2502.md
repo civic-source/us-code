@@ -3,9 +3,9 @@ title: "Section 2502 - Outreach to employers and labor unions"
 usc_title: 29
 usc_section: "2502"
 chapter: 27
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 2502"
-generated_at: "2026-03-30T00:03:00.533Z"
+generated_at: "2026-03-30T00:09:38.313Z"
 ---
 
 # § 2502. Outreach to employers and labor unions

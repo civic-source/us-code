@@ -3,9 +3,9 @@ title: "Section 305 - Federal recognition of commissioned officers: persons elig
 usc_title: 32
 usc_section: "305"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "32 U.S.C. § 305"
-generated_at: "2026-03-30T00:03:35.886Z"
+generated_at: "2026-03-30T00:09:55.238Z"
 ---
 
 # § 305. Federal recognition of commissioned officers: persons eligible

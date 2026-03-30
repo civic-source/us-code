@@ -3,9 +3,9 @@ title: "Section 2314a - Repealed. Pub. L. 93–189, § 26(4) , Dec. 17, 1973 , 8
 usc_title: 22
 usc_section: "2314a"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 2314a"
-generated_at: "2026-03-30T00:02:50.216Z"
+generated_at: "2026-03-30T00:09:16.564Z"
 ---
 
 # § 2314a. Repealed. Pub. L. 93–189, § 26(4) , Dec. 17, 1973 , 87 Stat. 731

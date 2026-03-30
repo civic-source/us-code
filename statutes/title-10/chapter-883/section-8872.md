@@ -3,9 +3,9 @@ title: "Section 8872 - Recaptures: award of salvage, costs, and expenses"
 usc_title: 10
 usc_section: "8872"
 chapter: 883
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 8872"
-generated_at: "2026-03-29T23:59:56.236Z"
+generated_at: "2026-03-30T00:07:02.287Z"
 ---
 
 # § 8872. Recaptures: award of salvage, costs, and expenses

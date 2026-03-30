@@ -3,9 +3,9 @@ title: "Section 182 - Abandonment of invention for unauthorized disclosure"
 usc_title: 35
 usc_section: "182"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "35 U.S.C. § 182"
-generated_at: "2026-03-30T00:03:37.647Z"
+generated_at: "2026-03-30T00:10:01.783Z"
 ---
 
 # § 182. Abandonment of invention for unauthorized disclosure

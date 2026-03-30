@@ -3,9 +3,9 @@ title: "Section 1205 - Radiotelephone capability; maintenance; restoration; cons
 usc_title: 33
 usc_section: "1205"
 chapter: 24
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 1205"
-generated_at: "2026-03-30T00:03:44.709Z"
+generated_at: "2026-03-30T00:09:54.482Z"
 ---
 
 # § 1205. Radiotelephone capability; maintenance; restoration; consequences of loss: navigation of vessel

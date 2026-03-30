@@ -3,9 +3,9 @@ title: "Section 947 - Vessel construction bonding requirements"
 usc_title: 14
 usc_section: "947"
 chapter: 9
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "14 U.S.C. § 947"
-generated_at: "2026-03-30T00:00:27.252Z"
+generated_at: "2026-03-30T00:07:27.038Z"
 ---
 
 # § 947. Vessel construction bonding requirements

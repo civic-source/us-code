@@ -3,9 +3,9 @@ title: "Section 1365 - Reimbursement of States for costs of incarcerating illega
 usc_title: 8
 usc_section: "1365"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "8 U.S.C. § 1365"
-generated_at: "2026-03-29T23:59:57.691Z"
+generated_at: "2026-03-30T00:07:07.034Z"
 ---
 
 # § 1365. Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals

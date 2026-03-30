@@ -3,9 +3,9 @@ title: "Section 493 - Operation charges; date of payment; discount; advance paym
 usc_title: 43
 usc_section: "493"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 493"
-generated_at: "2026-03-30T00:03:57.451Z"
+generated_at: "2026-03-30T00:11:08.885Z"
 ---
 
 # § 493. Operation charges; date of payment; discount; advance payment

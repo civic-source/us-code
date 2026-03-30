@@ -3,9 +3,9 @@ title: "Section 718f - Enforcement"
 usc_title: 16
 usc_section: "718f"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 718f"
-generated_at: "2026-03-30T00:01:39.690Z"
+generated_at: "2026-03-30T00:08:37.967Z"
 ---
 
 # § 718f. Enforcement

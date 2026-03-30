@@ -3,9 +3,9 @@ title: "Section 1863 - Northwest Atlantic Ocean Fisheries Reinvestment Program"
 usc_title: 16
 usc_section: "1863"
 chapter: 38
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 1863"
-generated_at: "2026-03-30T00:01:39.776Z"
+generated_at: "2026-03-30T00:08:38.032Z"
 ---
 
 # § 1863. Northwest Atlantic Ocean Fisheries Reinvestment Program

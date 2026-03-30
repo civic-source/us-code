@@ -3,9 +3,9 @@ title: "Section 152 - Name; control, rules and regulations"
 usc_title: 24
 usc_section: "152"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "24 U.S.C. § 152"
-generated_at: "2026-03-30T00:02:26.673Z"
+generated_at: "2026-03-30T00:08:44.256Z"
 ---
 
 # § 152. Name; control, rules and regulations

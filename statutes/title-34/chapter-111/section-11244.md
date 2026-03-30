@@ -3,9 +3,9 @@ title: "Section 11244 - Demonstration projects to provide services to youth in r
 usc_title: 34
 usc_section: "11244"
 chapter: 111
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "34 U.S.C. § 11244"
-generated_at: "2026-03-30T00:03:42.923Z"
+generated_at: "2026-03-30T00:10:12.892Z"
 ---
 
 # § 11244. Demonstration projects to provide services to youth in rural areas

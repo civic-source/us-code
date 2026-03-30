@@ -3,9 +3,9 @@ title: "Section 1102 - Administrator"
 usc_title: 41
 usc_section: "1102"
 chapter: 11
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "41 U.S.C. § 1102"
-generated_at: "2026-03-30T00:03:53.381Z"
+generated_at: "2026-03-30T00:10:56.805Z"
 ---
 
 # § 1102. Administrator

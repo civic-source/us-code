@@ -3,9 +3,9 @@ title: "Section 6591b - Administrative review"
 usc_title: 16
 usc_section: "6591b"
 chapter: 84
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 6591b"
-generated_at: "2026-03-30T00:01:39.832Z"
+generated_at: "2026-03-30T00:08:38.078Z"
 ---
 
 # § 6591b. Administrative review

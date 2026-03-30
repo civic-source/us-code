@@ -3,9 +3,9 @@ title: "Section 7111 - Congressional findings"
 usc_title: 42
 usc_section: "7111"
 chapter: 84
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 7111"
-generated_at: "2026-03-30T00:04:20.900Z"
+generated_at: "2026-03-30T00:12:27.568Z"
 ---
 
 # § 7111. Congressional findings

@@ -3,9 +3,9 @@ title: "Section 45 - Swan Creek, Toledo, Ohio"
 usc_title: 33
 usc_section: "45"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 45"
-generated_at: "2026-03-30T00:03:44.669Z"
+generated_at: "2026-03-30T00:09:54.455Z"
 ---
 
 # § 45. Swan Creek, Toledo, Ohio

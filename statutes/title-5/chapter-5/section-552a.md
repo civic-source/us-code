@@ -3,9 +3,9 @@ title: "Section 552a - Records maintained on individuals"
 usc_title: 5
 usc_section: "552a"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 552a"
-generated_at: "2026-03-29T23:59:20.434Z"
+generated_at: "2026-03-30T00:06:30.335Z"
 ---
 
 # § 552a. Records maintained on individuals

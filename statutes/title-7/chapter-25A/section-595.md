@@ -3,9 +3,9 @@ title: "Section 595 - Fees for inspection and certification; certificates as pri
 usc_title: 7
 usc_section: "595"
 chapter: 25
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 595"
-generated_at: "2026-03-30T00:00:03.445Z"
+generated_at: "2026-03-30T00:07:16.232Z"
 ---
 
 # § 595. Fees for inspection and certification; certificates as prima facie evidence

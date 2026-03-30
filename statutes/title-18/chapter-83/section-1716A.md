@@ -3,9 +3,9 @@ title: "Section 1716A - Nonmailable locksmithing devices and motor vehicle maste
 usc_title: 18
 usc_section: "1716A"
 chapter: 83
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 1716A"
-generated_at: "2026-03-30T00:01:51.843Z"
+generated_at: "2026-03-30T00:08:07.573Z"
 ---
 
 # § 1716A. Nonmailable locksmithing devices and motor vehicle master keys

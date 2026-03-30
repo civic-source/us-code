@@ -3,9 +3,9 @@ title: "Section 615b - Definitions"
 usc_title: 47
 usc_section: "615b"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "47 U.S.C. § 615b"
-generated_at: "2026-03-30T00:04:50.872Z"
+generated_at: "2026-03-30T00:12:52.447Z"
 ---
 
 # § 615b. Definitions

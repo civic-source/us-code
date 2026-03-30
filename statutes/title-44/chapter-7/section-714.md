@@ -3,9 +3,9 @@ title: "Section 714 - Printing documents for Congress in two or more editions; p
 usc_title: 44
 usc_section: "714"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "44 U.S.C. § 714"
-generated_at: "2026-03-30T00:03:56.514Z"
+generated_at: "2026-03-30T00:10:41.664Z"
 ---
 
 # § 714. Printing documents for Congress in two or more editions; printing of full number and allotment of full quota

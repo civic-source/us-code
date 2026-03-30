@@ -3,9 +3,9 @@ title: "Section 601 - Rules and regulations governing disposal of materials; pay
 usc_title: 30
 usc_section: "601"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "30 U.S.C. § 601"
-generated_at: "2026-03-30T00:02:53.407Z"
+generated_at: "2026-03-30T00:09:27.936Z"
 ---
 
 # § 601. Rules and regulations governing disposal of materials; payment; removal without charge; lands excluded

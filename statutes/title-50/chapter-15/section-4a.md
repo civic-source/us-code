@@ -3,9 +3,9 @@ title: "Section 4a - Transferred"
 usc_title: 50
 usc_section: "4a"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 4a"
-generated_at: "2026-03-30T00:04:33.156Z"
+generated_at: "2026-03-30T00:12:34.439Z"
 ---
 
 # § 403–4a. Transferred

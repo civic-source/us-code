@@ -3,9 +3,9 @@ title: "Section 5568 - Income tax deferment"
 usc_title: 5
 usc_section: "5568"
 chapter: 55
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 5568"
-generated_at: "2026-03-29T23:59:20.462Z"
+generated_at: "2026-03-30T00:06:30.361Z"
 ---
 
 # § 5568. Income tax deferment

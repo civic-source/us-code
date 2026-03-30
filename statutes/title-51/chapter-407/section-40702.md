@@ -3,9 +3,9 @@ title: "Section 40702 - Additional research and development initiative"
 usc_title: 51
 usc_section: "40702"
 chapter: 407
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "51 U.S.C. § 40702"
-generated_at: "2026-03-30T00:04:53.742Z"
+generated_at: "2026-03-30T00:13:07.156Z"
 ---
 
 # § 40702. Additional research and development initiative

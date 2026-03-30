@@ -3,9 +3,9 @@ title: "Section 9805 - Retention bonuses"
 usc_title: 5
 usc_section: "9805"
 chapter: 98
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 9805"
-generated_at: "2026-03-29T23:59:20.501Z"
+generated_at: "2026-03-30T00:06:30.400Z"
 ---
 
 # § 9805. Retention bonuses

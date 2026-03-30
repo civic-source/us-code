@@ -3,9 +3,9 @@ title: "Section 3529 - Requests for decisions of the Comptroller General"
 usc_title: 31
 usc_section: "3529"
 chapter: 35
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "31 U.S.C. § 3529"
-generated_at: "2026-03-30T00:03:39.112Z"
+generated_at: "2026-03-30T00:10:06.383Z"
 ---
 
 # § 3529. Requests for decisions of the Comptroller General

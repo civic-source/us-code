@@ -3,9 +3,9 @@ title: "Section 3172 - State allotments"
 usc_title: 29
 usc_section: "3172"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 3172"
-generated_at: "2026-03-30T00:03:00.544Z"
+generated_at: "2026-03-30T00:09:38.322Z"
 ---
 
 # § 3172. State allotments

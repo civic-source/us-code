@@ -3,9 +3,9 @@ title: "Section 499g - Reparation order"
 usc_title: 7
 usc_section: "499g"
 chapter: 20
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 499g"
-generated_at: "2026-03-30T00:00:03.442Z"
+generated_at: "2026-03-30T00:07:16.230Z"
 ---
 
 # § 499g. Reparation order

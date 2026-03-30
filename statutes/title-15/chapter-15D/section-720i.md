@@ -3,9 +3,9 @@ title: "Section 720i - Sense of Congress concerning use of steel manufactured in
 usc_title: 15
 usc_section: "720i"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 720i"
-generated_at: "2026-03-30T00:01:21.349Z"
+generated_at: "2026-03-30T00:07:49.659Z"
 ---
 
 # § 720i. Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement

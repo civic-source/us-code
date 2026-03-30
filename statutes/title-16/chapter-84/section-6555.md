@@ -3,9 +3,9 @@ title: "Section 6555 - Relation to other laws"
 usc_title: 16
 usc_section: "6555"
 chapter: 84
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 6555"
-generated_at: "2026-03-30T00:01:39.831Z"
+generated_at: "2026-03-30T00:08:38.078Z"
 ---
 
 # § 6555. Relation to other laws

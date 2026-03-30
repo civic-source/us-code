@@ -3,9 +3,9 @@ title: "Section 9530 - Exceptions, waiver, and termination"
 usc_title: 22
 usc_section: "9530"
 chapter: 102
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 9530"
-generated_at: "2026-03-30T00:02:50.343Z"
+generated_at: "2026-03-30T00:09:16.665Z"
 ---
 
 # § 9530. Exceptions, waiver, and termination

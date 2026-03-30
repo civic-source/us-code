@@ -3,9 +3,9 @@ title: "Section 1705 - Management of health care: patient enrollment system"
 usc_title: 38
 usc_section: "1705"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 1705"
-generated_at: "2026-03-30T00:03:51.243Z"
+generated_at: "2026-03-30T00:10:20.876Z"
 ---
 
 # § 1705. Management of health care: patient enrollment system

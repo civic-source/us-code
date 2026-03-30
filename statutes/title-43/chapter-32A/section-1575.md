@@ -3,9 +3,9 @@ title: "Section 1575 - Contract authority"
 usc_title: 43
 usc_section: "1575"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 1575"
-generated_at: "2026-03-30T00:03:57.483Z"
+generated_at: "2026-03-30T00:11:08.905Z"
 ---
 
 # § 1575. Contract authority

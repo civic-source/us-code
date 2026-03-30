@@ -3,9 +3,9 @@ title: "Section 502 - Commissioners"
 usc_title: 39
 usc_section: "502"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "39 U.S.C. § 502"
-generated_at: "2026-03-30T00:03:47.450Z"
+generated_at: "2026-03-30T00:10:19.556Z"
 ---
 
 # § 502. Commissioners

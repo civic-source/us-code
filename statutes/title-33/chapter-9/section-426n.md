@@ -3,9 +3,9 @@ title: "Section 426n - Technical assistance to States and local governments; cos
 usc_title: 33
 usc_section: "426n"
 chapter: 9
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 426n"
-generated_at: "2026-03-30T00:03:44.678Z"
+generated_at: "2026-03-30T00:09:54.459Z"
 ---
 
 # § 426n. Technical assistance to States and local governments; cost sharing

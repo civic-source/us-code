@@ -3,9 +3,9 @@ title: "Section 3217 - Maintenance and public inspection of list of approved app
 usc_title: 42
 usc_section: "3217"
 chapter: 38
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 3217"
-generated_at: "2026-03-30T00:04:20.771Z"
+generated_at: "2026-03-30T00:12:27.472Z"
 ---
 
 # § 3217. Maintenance and public inspection of list of approved applications for financial assistance

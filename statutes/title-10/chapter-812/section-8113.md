@@ -3,9 +3,9 @@ title: "Section 8113 - Navy and Marine Corps: warrant officer grades"
 usc_title: 10
 usc_section: "8113"
 chapter: 812
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 8113"
-generated_at: "2026-03-29T23:59:56.225Z"
+generated_at: "2026-03-30T00:07:02.276Z"
 ---
 
 # § 8113. Navy and Marine Corps: warrant officer grades

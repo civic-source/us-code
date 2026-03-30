@@ -3,9 +3,9 @@ title: "Section 3612 - Availability of appropriations"
 usc_title: 50
 usc_section: "3612"
 chapter: 47
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 3612"
-generated_at: "2026-03-30T00:04:33.243Z"
+generated_at: "2026-03-30T00:12:34.496Z"
 ---
 
 # § 3612. Availability of appropriations

@@ -3,9 +3,9 @@ title: "Section 303 - National floral emblem"
 usc_title: 36
 usc_section: "303"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "36 U.S.C. § 303"
-generated_at: "2026-03-30T00:03:49.062Z"
+generated_at: "2026-03-30T00:10:18.808Z"
 ---
 
 # § 303. National floral emblem

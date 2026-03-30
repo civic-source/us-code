@@ -3,9 +3,9 @@ title: "Section 60912 - Annual report"
 usc_title: 34
 usc_section: "60912"
 chapter: 609
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "34 U.S.C. § 60912"
-generated_at: "2026-03-30T00:03:42.989Z"
+generated_at: "2026-03-30T00:10:12.930Z"
 ---
 
 # § 60912. Annual report

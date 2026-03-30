@@ -3,9 +3,9 @@ title: "Section 619b - Reimbursement of funds advanced by non-Federal purchasers
 usc_title: 43
 usc_section: "619b"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 619b"
-generated_at: "2026-03-30T00:03:57.459Z"
+generated_at: "2026-03-30T00:11:08.889Z"
 ---
 
 # § 619b. Reimbursement of funds advanced by non-Federal purchasers; uprating program; repayment requirement; visitor facilities program

@@ -3,9 +3,9 @@ title: "Section 9703 - Research, development, and demonstration program; establi
 usc_title: 42
 usc_section: "9703"
 chapter: 104
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 9703"
-generated_at: "2026-03-30T00:04:21.010Z"
+generated_at: "2026-03-30T00:12:27.655Z"
 ---
 
 # § 9703. Research, development, and demonstration program; establishment; purposes; implementation

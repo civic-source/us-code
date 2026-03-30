@@ -3,9 +3,9 @@ title: "Section 2221 - Just compensation for requisitioned property"
 usc_title: 42
 usc_section: "2221"
 chapter: 23
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 2221"
-generated_at: "2026-03-30T00:04:20.734Z"
+generated_at: "2026-03-30T00:12:27.445Z"
 ---
 
 # § 2221. Just compensation for requisitioned property

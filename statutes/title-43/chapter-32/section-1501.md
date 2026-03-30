@@ -3,9 +3,9 @@ title: "Section 1501 - Congressional declaration of purpose and policy"
 usc_title: 43
 usc_section: "1501"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 1501"
-generated_at: "2026-03-30T00:03:57.480Z"
+generated_at: "2026-03-30T00:11:08.903Z"
 ---
 
 # § 1501. Congressional declaration of purpose and policy

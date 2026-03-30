@@ -3,9 +3,9 @@ title: "Section 941b - Definitions"
 usc_title: 16
 usc_section: "941b"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 941b"
-generated_at: "2026-03-30T00:01:39.717Z"
+generated_at: "2026-03-30T00:08:37.990Z"
 ---
 
 # § 941b. Definitions

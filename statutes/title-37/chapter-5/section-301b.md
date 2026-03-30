@@ -3,9 +3,9 @@ title: "Section 301b - Special pay: aviation career officers extending period of
 usc_title: 37
 usc_section: "301b"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "37 U.S.C. § 301b"
-generated_at: "2026-03-30T00:03:47.197Z"
+generated_at: "2026-03-30T00:10:39.857Z"
 ---
 
 # § 301b. Special pay: aviation career officers extending period of active duty

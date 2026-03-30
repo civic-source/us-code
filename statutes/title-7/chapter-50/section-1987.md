@@ -3,9 +3,9 @@ title: "Section 1987 - Debt adjustment and credit counseling; “summary period�
 usc_title: 7
 usc_section: "1987"
 chapter: 50
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 1987"
-generated_at: "2026-03-30T00:00:03.498Z"
+generated_at: "2026-03-30T00:07:16.291Z"
 ---
 
 # § 1987. Debt adjustment and credit counseling; “summary period” defined; loan summary statements

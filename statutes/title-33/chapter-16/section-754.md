@@ -3,9 +3,9 @@ title: "Section 754 - Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561"
 usc_title: 33
 usc_section: "754"
 chapter: 16
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 754"
-generated_at: "2026-03-30T00:03:44.698Z"
+generated_at: "2026-03-30T00:09:54.474Z"
 ---
 
 # §§ 753, 754. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561

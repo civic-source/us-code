@@ -3,9 +3,9 @@ title: "Section 5107 - Claimant responsibility; benefit of the doubt"
 usc_title: 38
 usc_section: "5107"
 chapter: 51
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 5107"
-generated_at: "2026-03-30T00:03:51.296Z"
+generated_at: "2026-03-30T00:10:20.912Z"
 ---
 
 # § 5107. Claimant responsibility; benefit of the doubt

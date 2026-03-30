@@ -3,9 +3,9 @@ title: "Section 1643 - Amount and use of funds reimbursed through medicare and m
 usc_title: 25
 usc_section: "1643"
 chapter: 18
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 1643"
-generated_at: "2026-03-30T00:02:38.543Z"
+generated_at: "2026-03-30T00:09:02.673Z"
 ---
 
 # § 1643. Amount and use of funds reimbursed through medicare and medicaid available to Indian Health Service

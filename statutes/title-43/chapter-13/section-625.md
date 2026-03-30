@@ -3,9 +3,9 @@ title: "Section 625 - Release of unentered land from lien on noncompletion of ir
 usc_title: 43
 usc_section: "625"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 625"
-generated_at: "2026-03-30T00:03:57.460Z"
+generated_at: "2026-03-30T00:11:08.890Z"
 ---
 
 # § 625. Release of unentered land from lien on noncompletion of irrigation project

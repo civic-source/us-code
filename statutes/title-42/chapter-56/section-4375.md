@@ -3,9 +3,9 @@ title: "Section 4375 - Office of Environmental Quality Management Fund"
 usc_title: 42
 usc_section: "4375"
 chapter: 56
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 4375"
-generated_at: "2026-03-30T00:04:20.799Z"
+generated_at: "2026-03-30T00:12:27.493Z"
 ---
 
 # § 4375. Office of Environmental Quality Management Fund

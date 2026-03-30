@@ -3,9 +3,9 @@ title: "Section 46504 - Interference with flight crew members and attendants"
 usc_title: 49
 usc_section: "46504"
 chapter: 465
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 46504"
-generated_at: "2026-03-30T00:04:37.390Z"
+generated_at: "2026-03-30T00:13:05.147Z"
 ---
 
 # § 46504. Interference with flight crew members and attendants

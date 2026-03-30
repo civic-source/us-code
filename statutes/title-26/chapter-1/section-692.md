@@ -3,9 +3,9 @@ title: "Section 692 - Income taxes of members of Armed Forces, astronauts, and v
 usc_title: 26
 usc_section: "692"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 692"
-generated_at: "2026-03-30T00:03:33.480Z"
+generated_at: "2026-03-30T00:09:49.386Z"
 ---
 
 # § 692. Income taxes of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death

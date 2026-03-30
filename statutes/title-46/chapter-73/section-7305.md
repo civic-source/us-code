@@ -3,9 +3,9 @@ title: "Section 7305 - Oaths for holders of merchant mariners’ documents"
 usc_title: 46
 usc_section: "7305"
 chapter: 73
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "46 U.S.C. § 7305"
-generated_at: "2026-03-30T00:04:28.339Z"
+generated_at: "2026-03-30T00:12:53.346Z"
 ---
 
 # § 7305. Oaths for holders of merchant mariners’ documents

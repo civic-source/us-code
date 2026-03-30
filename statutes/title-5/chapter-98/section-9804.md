@@ -3,9 +3,9 @@ title: "Section 9804 - Recruitment, redesignation, and relocation bonuses"
 usc_title: 5
 usc_section: "9804"
 chapter: 98
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 9804"
-generated_at: "2026-03-29T23:59:20.501Z"
+generated_at: "2026-03-30T00:06:30.400Z"
 ---
 
 # § 9804. Recruitment, redesignation, and relocation bonuses

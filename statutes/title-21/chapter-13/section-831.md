@@ -3,9 +3,9 @@ title: "Section 831 - Additional requirements relating to online pharmacies and 
 usc_title: 21
 usc_section: "831"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "21 U.S.C. § 831"
-generated_at: "2026-03-30T00:02:27.731Z"
+generated_at: "2026-03-30T00:08:54.853Z"
 ---
 
 # § 831. Additional requirements relating to online pharmacies and telemedicine

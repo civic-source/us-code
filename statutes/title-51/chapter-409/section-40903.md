@@ -3,9 +3,9 @@ title: "Section 40903 - Established Program to Stimulate Competitive Research—
 usc_title: 51
 usc_section: "40903"
 chapter: 409
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "51 U.S.C. § 40903"
-generated_at: "2026-03-30T00:04:53.742Z"
+generated_at: "2026-03-30T00:13:07.156Z"
 ---
 
 # § 40903. Established Program to Stimulate Competitive Research—merit grant competition requirements

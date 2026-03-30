@@ -3,9 +3,9 @@ title: "Section 1645 - Transportation and interment of remains of deceased emplo
 usc_title: 19
 usc_section: "1645"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "19 U.S.C. § 1645"
-generated_at: "2026-03-30T00:02:18.564Z"
+generated_at: "2026-03-30T00:08:05.296Z"
 ---
 
 # § 1645. Transportation and interment of remains of deceased employees in foreign countries; travel or shipping expenses incurred on foreign ships

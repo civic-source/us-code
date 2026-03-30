@@ -3,9 +3,9 @@ title: "Section 322 - Continuity of the economy plan"
 usc_title: 6
 usc_section: "322"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 322"
-generated_at: "2026-03-30T00:00:10.040Z"
+generated_at: "2026-03-30T00:06:56.826Z"
 ---
 
 # § 322. Continuity of the economy plan

@@ -3,9 +3,9 @@ title: "Section 3023 - Separation of ensigns found not fully qualified"
 usc_title: 33
 usc_section: "3023"
 chapter: 43
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 3023"
-generated_at: "2026-03-30T00:03:44.781Z"
+generated_at: "2026-03-30T00:09:54.529Z"
 ---
 
 # § 3023. Separation of ensigns found not fully qualified

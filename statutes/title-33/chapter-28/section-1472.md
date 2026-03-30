@@ -3,9 +3,9 @@ title: "Section 1472 - Grave and imminent danger from oil pollution casualties t
 usc_title: 33
 usc_section: "1472"
 chapter: 28
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 1472"
-generated_at: "2026-03-30T00:03:44.745Z"
+generated_at: "2026-03-30T00:09:54.505Z"
 ---
 
 # § 1472. Grave and imminent danger from oil pollution casualties to coastline or related interests of United States; Federal nonliability for Federal preventive measures on the high seas

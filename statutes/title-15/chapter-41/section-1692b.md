@@ -3,9 +3,9 @@ title: "Section 1692b - Acquisition of location information"
 usc_title: 15
 usc_section: "1692b"
 chapter: 41
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 1692b"
-generated_at: "2026-03-30T00:01:21.388Z"
+generated_at: "2026-03-30T00:07:49.692Z"
 ---
 
 # § 1692b. Acquisition of location information

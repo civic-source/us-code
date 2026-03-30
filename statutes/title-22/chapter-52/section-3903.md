@@ -3,9 +3,9 @@ title: "Section 3903 - Members of Service"
 usc_title: 22
 usc_section: "3903"
 chapter: 52
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 3903"
-generated_at: "2026-03-30T00:02:50.262Z"
+generated_at: "2026-03-30T00:09:16.601Z"
 ---
 
 # § 3903. Members of Service

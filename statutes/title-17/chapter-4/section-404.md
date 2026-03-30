@@ -3,9 +3,9 @@ title: "Section 404 - Notice of copyright: Contributions to collective works"
 usc_title: 17
 usc_section: "404"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "17 U.S.C. § 404"
-generated_at: "2026-03-30T00:01:32.405Z"
+generated_at: "2026-03-30T00:08:06.343Z"
 ---
 
 # § 404. Notice of copyright: Contributions to collective works

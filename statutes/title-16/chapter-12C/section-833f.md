@@ -3,9 +3,9 @@ title: "Section 833f - Purchase of supplies and services"
 usc_title: 16
 usc_section: "833f"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 833f"
-generated_at: "2026-03-30T00:01:39.710Z"
+generated_at: "2026-03-30T00:08:37.985Z"
 ---
 
 # § 833f. Purchase of supplies and services

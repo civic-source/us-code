@@ -3,9 +3,9 @@ title: "Section 1003 - Demands against the United States"
 usc_title: 18
 usc_section: "1003"
 chapter: 47
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 1003"
-generated_at: "2026-03-30T00:01:51.832Z"
+generated_at: "2026-03-30T00:08:07.564Z"
 ---
 
 # § 1003. Demands against the United States

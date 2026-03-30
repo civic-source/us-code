@@ -3,9 +3,9 @@ title: "Section 20929 - Limitation on rulemaking authority"
 usc_title: 52
 usc_section: "20929"
 chapter: 209
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "52 U.S.C. § 20929"
-generated_at: "2026-03-30T00:04:57.755Z"
+generated_at: "2026-03-30T00:13:14.696Z"
 ---
 
 # § 20929. Limitation on rulemaking authority

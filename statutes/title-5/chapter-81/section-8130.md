@@ -3,9 +3,9 @@ title: "Section 8130 - Assignment of claim"
 usc_title: 5
 usc_section: "8130"
 chapter: 81
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 8130"
-generated_at: "2026-03-29T23:59:20.477Z"
+generated_at: "2026-03-30T00:06:30.375Z"
 ---
 
 # § 8130. Assignment of claim

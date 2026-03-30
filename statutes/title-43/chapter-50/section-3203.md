@@ -3,9 +3,9 @@ title: "Section 3203 - Small water storage and groundwater storage projects"
 usc_title: 43
 usc_section: "3203"
 chapter: 50
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 3203"
-generated_at: "2026-03-30T00:03:57.517Z"
+generated_at: "2026-03-30T00:11:08.927Z"
 ---
 
 # § 3203. Small water storage and groundwater storage projects

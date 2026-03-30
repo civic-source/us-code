@@ -3,9 +3,9 @@ title: "Section 704 - Duties of trustee"
 usc_title: 11
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "11 U.S.C. § 704"
-generated_at: "2026-03-30T00:00:17.996Z"
+generated_at: "2026-03-30T00:07:23.352Z"
 ---
 
 # § 704. Duties of trustee

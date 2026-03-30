@@ -3,9 +3,9 @@ title: "Section 44519 - Certification personnel continuing education and trainin
 usc_title: 49
 usc_section: "44519"
 chapter: 445
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 44519"
-generated_at: "2026-03-30T00:04:37.373Z"
+generated_at: "2026-03-30T00:13:05.135Z"
 ---
 
 # § 44519. Certification personnel continuing education and training

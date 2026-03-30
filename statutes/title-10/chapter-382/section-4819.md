@@ -3,9 +3,9 @@ title: "Section 4819 - Modernization of acquisition processes to ensure integrit
 usc_title: 10
 usc_section: "4819"
 chapter: 382
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 4819"
-generated_at: "2026-03-29T23:59:56.209Z"
+generated_at: "2026-03-30T00:07:02.263Z"
 ---
 
 # § 4819. Modernization of acquisition processes to ensure integrity of industrial base

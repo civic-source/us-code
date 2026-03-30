@@ -3,9 +3,9 @@ title: "Section 1064 - Violations of chapter; punishment"
 usc_title: 43
 usc_section: "1064"
 chapter: 25
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 1064"
-generated_at: "2026-03-30T00:03:57.470Z"
+generated_at: "2026-03-30T00:11:08.897Z"
 ---
 
 # § 1064. Violations of chapter; punishment

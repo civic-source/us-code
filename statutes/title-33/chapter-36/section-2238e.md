@@ -3,9 +3,9 @@ title: "Section 2238e - Additional projects for underserved community harbors"
 usc_title: 33
 usc_section: "2238e"
 chapter: 36
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 2238e"
-generated_at: "2026-03-30T00:03:44.755Z"
+generated_at: "2026-03-30T00:09:54.512Z"
 ---
 
 # § 2238e. Additional projects for underserved community harbors

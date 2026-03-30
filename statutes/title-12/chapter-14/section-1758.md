@@ -3,9 +3,9 @@ title: "Section 1758 - Bylaws"
 usc_title: 12
 usc_section: "1758"
 chapter: 14
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 1758"
-generated_at: "2026-03-30T00:00:35.598Z"
+generated_at: "2026-03-30T00:07:40.211Z"
 ---
 
 # § 1758. Bylaws

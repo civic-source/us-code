@@ -3,9 +3,9 @@ title: "Section 2801 - Congressional findings and purposes"
 usc_title: 19
 usc_section: "2801"
 chapter: 16
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "19 U.S.C. § 2801"
-generated_at: "2026-03-30T00:02:18.599Z"
+generated_at: "2026-03-30T00:08:05.328Z"
 ---
 
 # § 2801. Congressional findings and purposes

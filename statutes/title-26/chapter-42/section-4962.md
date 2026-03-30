@@ -3,9 +3,9 @@ title: "Section 4962 - Abatement of first tier taxes in certain cases"
 usc_title: 26
 usc_section: "4962"
 chapter: 42
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 4962"
-generated_at: "2026-03-30T00:03:33.606Z"
+generated_at: "2026-03-30T00:09:49.455Z"
 ---
 
 # § 4962. Abatement of first tier taxes in certain cases

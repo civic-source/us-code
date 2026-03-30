@@ -3,9 +3,9 @@ title: "Section 1639s - Authorization of appropriations"
 usc_title: 7
 usc_section: "1639s"
 chapter: 38
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 1639s"
-generated_at: "2026-03-30T00:00:03.484Z"
+generated_at: "2026-03-30T00:07:16.277Z"
 ---
 
 # § 1639s. Authorization of appropriations

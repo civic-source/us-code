@@ -3,9 +3,9 @@ title: "Section 1816 - Construction contracts"
 usc_title: 2
 usc_section: "1816"
 chapter: 28
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "2 U.S.C. § 1816"
-generated_at: "2026-03-29T23:59:41.284Z"
+generated_at: "2026-03-30T00:06:51.574Z"
 ---
 
 # § 1816. Construction contracts

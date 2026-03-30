@@ -3,9 +3,9 @@ title: "Section 1185m - Increasing transparency by removing gag clauses on price
 usc_title: 29
 usc_section: "1185m"
 chapter: 18
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 1185m"
-generated_at: "2026-03-30T00:03:00.516Z"
+generated_at: "2026-03-30T00:09:38.299Z"
 ---
 
 # § 1185m. Increasing transparency by removing gag clauses on price and quality information

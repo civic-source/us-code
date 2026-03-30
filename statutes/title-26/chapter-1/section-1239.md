@@ -3,9 +3,9 @@ title: "Section 1239 - Gain from sale of depreciable property between certain re
 usc_title: 26
 usc_section: "1239"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 1239"
-generated_at: "2026-03-30T00:03:33.534Z"
+generated_at: "2026-03-30T00:09:49.416Z"
 ---
 
 # § 1239. Gain from sale of depreciable property between certain related taxpayers

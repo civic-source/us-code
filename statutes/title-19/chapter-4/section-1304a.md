@@ -3,9 +3,9 @@ title: "Section 1304a - Technical assistance to U.S. Customs and Border Protecti
 usc_title: 19
 usc_section: "1304a"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "19 U.S.C. § 1304a"
-generated_at: "2026-03-30T00:02:18.542Z"
+generated_at: "2026-03-30T00:08:05.278Z"
 ---
 
 # § 1304a. Technical assistance to U.S. Customs and Border Protection

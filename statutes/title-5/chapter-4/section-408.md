@@ -3,9 +3,9 @@ title: "Section 408 - Additional provisions with respect to the Inspector Genera
 usc_title: 5
 usc_section: "408"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 408"
-generated_at: "2026-03-29T23:59:20.428Z"
+generated_at: "2026-03-30T00:06:30.330Z"
 ---
 
 # § 408. Additional provisions with respect to the Inspector General of the Department of Defense
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T23:59:20.428Z"
     - **(A)** information concerning the numbers and types of contract audits conducted by the Department during the reporting period; and
     - **(B)** information concerning any Department of Defense audit agency that, during the reporting period, has either received a failed opinion from an external peer review or is overdue for an external peer review required to be conducted in accordance with subsection (c)(10).
   - **(2)** Any report required to be transmitted by the Secretary of Defense to the appropriate committees or subcommittees of the Congress under section 405(e) of this title shall also be transmitted, within the 7-day period specified in section 405(e) of this title , to the congressional committees specified in paragraph (1).
-- **(g)** The provisions of section 1385 of title 18 , shall not apply to audits and investigations conducted by, under the direction of, or at the request of the Inspector General of the Department of Defense to carry out the purposes of this chapter.
+- **(g)** The provisions of section 1385 of title 18 , 1 1 So in original. The comma probably should not appear. shall not apply to audits and investigations conducted by, under the direction of, or at the request of the Inspector General of the Department of Defense to carry out the purposes of this chapter.
 - **(h)**
   - **(1)** There is a General Counsel to the Inspector General of the Department of Defense, who shall be appointed by the Inspector General of the Department of Defense.
   - **(2)**

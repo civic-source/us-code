@@ -3,9 +3,9 @@ title: "Section 3807 - Vesting of title in the United States"
 usc_title: 10
 usc_section: "3807"
 chapter: 277
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 3807"
-generated_at: "2026-03-29T23:59:56.199Z"
+generated_at: "2026-03-30T00:07:02.252Z"
 ---
 
 # § 3807. Vesting of title in the United States

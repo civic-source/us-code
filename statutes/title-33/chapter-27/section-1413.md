@@ -3,9 +3,9 @@ title: "Section 1413 - Dumping permit program for dredged mate­rial"
 usc_title: 33
 usc_section: "1413"
 chapter: 27
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 1413"
-generated_at: "2026-03-30T00:03:44.742Z"
+generated_at: "2026-03-30T00:09:54.503Z"
 ---
 
 # § 1413. Dumping permit program for dredged mate­rial

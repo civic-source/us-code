@@ -3,9 +3,9 @@ title: "Section 2279c - Student internship programs"
 usc_title: 7
 usc_section: "2279c"
 chapter: 55
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 2279c"
-generated_at: "2026-03-30T00:00:03.526Z"
+generated_at: "2026-03-30T00:07:16.321Z"
 ---
 
 # § 2279c. Student internship programs

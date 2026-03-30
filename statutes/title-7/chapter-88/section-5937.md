@@ -3,9 +3,9 @@ title: "Section 5937 - Natural products research program"
 usc_title: 7
 usc_section: "5937"
 chapter: 88
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 5937"
-generated_at: "2026-03-30T00:00:03.558Z"
+generated_at: "2026-03-30T00:07:16.351Z"
 ---
 
 # § 5937. Natural products research program

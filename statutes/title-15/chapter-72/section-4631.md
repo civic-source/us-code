@@ -3,9 +3,9 @@ title: "Section 4631 - Technology transfer"
 usc_title: 15
 usc_section: "4631"
 chapter: 72
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 4631"
-generated_at: "2026-03-30T00:01:21.437Z"
+generated_at: "2026-03-30T00:07:49.738Z"
 ---
 
 # § 4631. Technology transfer

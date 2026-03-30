@@ -3,9 +3,9 @@ title: "Section 4 - Evaluations"
 usc_title: 42
 usc_section: "4"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T00:04:20.616Z"
+generated_at: "2026-03-30T00:12:27.354Z"
 ---
 
 # § 1397n–4. Evaluations

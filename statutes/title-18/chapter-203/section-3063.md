@@ -3,9 +3,9 @@ title: "Section 3063 - Powers of Environmental Protection Agency"
 usc_title: 18
 usc_section: "3063"
 chapter: 203
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 3063"
-generated_at: "2026-03-30T00:01:51.863Z"
+generated_at: "2026-03-30T00:08:07.590Z"
 ---
 
 # § 3063. Powers of Environmental Protection Agency

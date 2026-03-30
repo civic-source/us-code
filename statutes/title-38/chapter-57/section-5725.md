@@ -3,9 +3,9 @@ title: "Section 5725 - Contracts for data processing or maintenance"
 usc_title: 38
 usc_section: "5725"
 chapter: 57
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 5725"
-generated_at: "2026-03-30T00:03:51.301Z"
+generated_at: "2026-03-30T00:10:20.915Z"
 ---
 
 # § 5725. Contracts for data processing or maintenance

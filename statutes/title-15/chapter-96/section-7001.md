@@ -3,9 +3,9 @@ title: "Section 7001 - General rule of validity"
 usc_title: 15
 usc_section: "7001"
 chapter: 96
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 7001"
-generated_at: "2026-03-30T00:01:21.455Z"
+generated_at: "2026-03-30T00:07:49.755Z"
 ---
 
 # § 7001. General rule of validity

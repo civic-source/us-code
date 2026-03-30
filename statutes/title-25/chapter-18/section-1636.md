@@ -3,9 +3,9 @@ title: "Section 1636 - Grant program for construction, expansion, and modernizat
 usc_title: 25
 usc_section: "1636"
 chapter: 18
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 1636"
-generated_at: "2026-03-30T00:02:38.542Z"
+generated_at: "2026-03-30T00:09:02.672Z"
 ---
 
 # § 1636. Grant program for construction, expansion, and modernization of small ambulatory care facilities

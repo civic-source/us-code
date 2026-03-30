@@ -3,9 +3,9 @@ title: "Section 7121 - Rule of construction"
 usc_title: 20
 usc_section: "7121"
 chapter: 70
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "20 U.S.C. § 7121"
-generated_at: "2026-03-30T00:01:54.804Z"
+generated_at: "2026-03-30T00:08:14.567Z"
 ---
 
 # § 7121. Rule of construction

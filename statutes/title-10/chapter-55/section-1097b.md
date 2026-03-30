@@ -3,9 +3,9 @@ title: "Section 1097b - TRICARE program: financial management"
 usc_title: 10
 usc_section: "1097b"
 chapter: 55
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 1097b"
-generated_at: "2026-03-29T23:59:56.125Z"
+generated_at: "2026-03-30T00:07:02.181Z"
 ---
 
 # § 1097b. TRICARE program: financial management

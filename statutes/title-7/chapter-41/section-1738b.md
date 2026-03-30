@@ -3,9 +3,9 @@ title: "Section 1738b - Eligibility for benefits under Facility"
 usc_title: 7
 usc_section: "1738b"
 chapter: 41
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 1738b"
-generated_at: "2026-03-30T00:00:03.489Z"
+generated_at: "2026-03-30T00:07:16.281Z"
 ---
 
 # § 1738b. Eligibility for benefits under Facility

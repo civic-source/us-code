@@ -3,9 +3,9 @@ title: "Section 6415 - Definitions"
 usc_title: 16
 usc_section: "6415"
 chapter: 83
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 6415"
-generated_at: "2026-03-30T00:01:39.828Z"
+generated_at: "2026-03-30T00:08:38.076Z"
 ---
 
 # § 6415. Definitions

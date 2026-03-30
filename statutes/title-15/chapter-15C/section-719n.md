@@ -3,9 +3,9 @@ title: "Section 719n - Separability"
 usc_title: 15
 usc_section: "719n"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 719n"
-generated_at: "2026-03-30T00:01:21.347Z"
+generated_at: "2026-03-30T00:07:49.658Z"
 ---
 
 # § 719n. Separability

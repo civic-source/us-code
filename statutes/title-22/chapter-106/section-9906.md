@@ -3,9 +3,9 @@ title: "Section 9906 - Improving awareness of United States Government tools and
 usc_title: 22
 usc_section: "9906"
 chapter: 106
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 9906"
-generated_at: "2026-03-30T00:02:50.349Z"
+generated_at: "2026-03-30T00:09:16.670Z"
 ---
 
 # § 9906. Improving awareness of United States Government tools and services to support United States businesses overseas

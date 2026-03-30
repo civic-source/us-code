@@ -3,9 +3,9 @@ title: "Section 7476 - Declaratory judgments relating to qualification of certai
 usc_title: 26
 usc_section: "7476"
 chapter: 76
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 7476"
-generated_at: "2026-03-30T00:03:33.699Z"
+generated_at: "2026-03-30T00:09:49.509Z"
 ---
 
 # § 7476. Declaratory judgments relating to qualification of certain retirement plans

@@ -3,9 +3,9 @@ title: "Section 4332 - Assistance to Senators with committee memberships by empl
 usc_title: 2
 usc_section: "4332"
 chapter: 43
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "2 U.S.C. § 4332"
-generated_at: "2026-03-29T23:59:41.296Z"
+generated_at: "2026-03-30T00:06:51.587Z"
 ---
 
 # § 4332. Assistance to Senators with committee memberships by employees in office of Senator

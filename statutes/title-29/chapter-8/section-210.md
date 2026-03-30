@@ -3,9 +3,9 @@ title: "Section 210 - Court review of wage orders in Puerto Rico and the Virgin 
 usc_title: 29
 usc_section: "210"
 chapter: 8
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 210"
-generated_at: "2026-03-30T00:03:00.465Z"
+generated_at: "2026-03-30T00:09:38.259Z"
 ---
 
 # § 210. Court review of wage orders in Puerto Rico and the Virgin Islands

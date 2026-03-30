@@ -3,9 +3,9 @@ title: "Section 1747h - Termination of insurance contract by investor"
 usc_title: 12
 usc_section: "1747h"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 1747h"
-generated_at: "2026-03-30T00:00:35.594Z"
+generated_at: "2026-03-30T00:07:40.209Z"
 ---
 
 # § 1747h. Termination of insurance contract by investor

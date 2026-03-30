@@ -3,9 +3,9 @@ title: "Section 2193 - Improvement of education in technical fields: grants for 
 usc_title: 10
 usc_section: "2193"
 chapter: 111
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 2193"
-generated_at: "2026-03-29T23:59:56.158Z"
+generated_at: "2026-03-30T00:07:02.213Z"
 ---
 
 # § 2193. Improvement of education in technical fields: grants for higher education in science and mathematics

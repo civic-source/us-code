@@ -3,9 +3,9 @@ title: "Section 264 - Administration, protection, and development"
 usc_title: 16
 usc_section: "264"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 264"
-generated_at: "2026-03-30T00:01:39.555Z"
+generated_at: "2026-03-30T00:08:37.854Z"
 ---
 
 # § 264. Administration, protection, and development

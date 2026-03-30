@@ -3,9 +3,9 @@ title: "Section 1703 - Veterans Community Care Program"
 usc_title: 38
 usc_section: "1703"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 1703"
-generated_at: "2026-03-30T00:03:51.240Z"
+generated_at: "2026-03-30T00:10:20.875Z"
 ---
 
 # § 1703. Veterans Community Care Program

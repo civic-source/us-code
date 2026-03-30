@@ -3,9 +3,9 @@ title: "Section 34 - American-Mexican Boundary Treaty, authorization for carryin
 usc_title: 22
 usc_section: "34"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 34"
-generated_at: "2026-03-30T00:02:50.166Z"
+generated_at: "2026-03-30T00:09:16.526Z"
 ---
 
 # § 277d–34. American-Mexican Boundary Treaty, authorization for carrying out treaty provisions; investigations; land acquisition, purposes; damages, repair or compensation

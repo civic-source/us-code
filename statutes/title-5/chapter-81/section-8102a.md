@@ -3,9 +3,9 @@ title: "Section 8102a - Death gratuity for injuries incurred in connection with 
 usc_title: 5
 usc_section: "8102a"
 chapter: 81
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 8102a"
-generated_at: "2026-03-29T23:59:20.476Z"
+generated_at: "2026-03-30T00:06:30.374Z"
 ---
 
 # § 8102a. Death gratuity for injuries incurred in connection with employee’s service with an Armed Force

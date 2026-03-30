@@ -3,9 +3,9 @@ title: "Section 2623 - Adoption of certain standards"
 usc_title: 16
 usc_section: "2623"
 chapter: 46
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 2623"
-generated_at: "2026-03-30T00:01:39.785Z"
+generated_at: "2026-03-30T00:08:38.041Z"
 ---
 
 # § 2623. Adoption of certain standards

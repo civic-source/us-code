@@ -3,9 +3,9 @@ title: "Section 5045 - Cross references"
 usc_title: 26
 usc_section: "5045"
 chapter: 51
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 5045"
-generated_at: "2026-03-30T00:03:33.618Z"
+generated_at: "2026-03-30T00:09:49.462Z"
 ---
 
 # § 5045. Cross references

@@ -3,9 +3,9 @@ title: "Section 3504 - Leases, business agreements, and rights-of-way involving 
 usc_title: 25
 usc_section: "3504"
 chapter: 37
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 3504"
-generated_at: "2026-03-30T00:02:38.574Z"
+generated_at: "2026-03-30T00:09:02.701Z"
 ---
 
 # § 3504. Leases, business agreements, and rights-of-way involving energy development or transmission

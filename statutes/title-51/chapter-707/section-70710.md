@@ -3,9 +3,9 @@ title: "Section 70710 - Reporting requirements and termination"
 usc_title: 51
 usc_section: "70710"
 chapter: 707
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "51 U.S.C. § 70710"
-generated_at: "2026-03-30T00:04:53.748Z"
+generated_at: "2026-03-30T00:13:07.162Z"
 ---
 
 # § 70710. Reporting requirements and termination

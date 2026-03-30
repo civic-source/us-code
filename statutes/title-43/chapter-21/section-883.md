@@ -3,9 +3,9 @@ title: "Section 883 - Collection of costs of surveying, etc.; reimbursement of p
 usc_title: 43
 usc_section: "883"
 chapter: 21
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 883"
-generated_at: "2026-03-30T00:03:57.465Z"
+generated_at: "2026-03-30T00:11:08.894Z"
 ---
 
 # § 883. Collection of costs of surveying, etc.; reimbursement of purchaser

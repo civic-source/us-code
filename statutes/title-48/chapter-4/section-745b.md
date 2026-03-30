@@ -3,9 +3,9 @@ title: "Section 745b - Refunding bonds excluded temporarily in computing indebte
 usc_title: 48
 usc_section: "745b"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "48 U.S.C. § 745b"
-generated_at: "2026-03-30T00:04:26.832Z"
+generated_at: "2026-03-30T00:12:30.806Z"
 ---
 
 # § 745b. Refunding bonds excluded temporarily in computing indebtedness

@@ -3,9 +3,9 @@ title: "Section 1437b - Support for out-of-area covered employees"
 usc_title: 2
 usc_section: "1437b"
 chapter: 24
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "2 U.S.C. § 1437b"
-generated_at: "2026-03-29T23:59:41.282Z"
+generated_at: "2026-03-30T00:06:51.572Z"
 ---
 
 # § 1437b. Support for out-of-area covered employees

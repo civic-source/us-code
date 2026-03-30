@@ -3,9 +3,9 @@ title: "Section 1675 - Confidentiality of medical quality assurance records; qua
 usc_title: 25
 usc_section: "1675"
 chapter: 18
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 1675"
-generated_at: "2026-03-30T00:02:38.547Z"
+generated_at: "2026-03-30T00:09:02.677Z"
 ---
 
 # § 1675. Confidentiality of medical quality assurance records; qualified immunity for participants

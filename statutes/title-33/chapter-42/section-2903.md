@@ -3,9 +3,9 @@ title: "Section 2903 - Estuary habitat restoration program"
 usc_title: 33
 usc_section: "2903"
 chapter: 42
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 2903"
-generated_at: "2026-03-30T00:03:44.780Z"
+generated_at: "2026-03-30T00:09:54.528Z"
 ---
 
 # § 2903. Estuary habitat restoration program

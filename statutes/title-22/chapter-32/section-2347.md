@@ -3,9 +3,9 @@ title: "Section 2347 - General authority"
 usc_title: 22
 usc_section: "2347"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 2347"
-generated_at: "2026-03-30T00:02:50.217Z"
+generated_at: "2026-03-30T00:09:16.565Z"
 ---
 
 # § 2347. General authority

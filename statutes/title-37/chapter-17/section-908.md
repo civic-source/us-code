@@ -3,9 +3,9 @@ title: "Section 908 - Reserves and retired members: acceptance of employment, pa
 usc_title: 37
 usc_section: "908"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "37 U.S.C. § 908"
-generated_at: "2026-03-30T00:03:47.210Z"
+generated_at: "2026-03-30T00:10:39.870Z"
 ---
 
 # § 908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments

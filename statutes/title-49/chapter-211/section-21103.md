@@ -3,9 +3,9 @@ title: "Section 21103 - Limitations on duty hours of train employees"
 usc_title: 49
 usc_section: "21103"
 chapter: 211
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 21103"
-generated_at: "2026-03-30T00:04:37.320Z"
+generated_at: "2026-03-30T00:13:05.097Z"
 ---
 
 # § 21103. Limitations on duty hours of train employees

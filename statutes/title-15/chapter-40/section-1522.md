@@ -3,9 +3,9 @@ title: "Section 1522 - Acceptance of gifts and bequests for purposes of the Depa
 usc_title: 15
 usc_section: "1522"
 chapter: 40
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 1522"
-generated_at: "2026-03-30T00:01:21.365Z"
+generated_at: "2026-03-30T00:07:49.675Z"
 ---
 
 # § 1522. Acceptance of gifts and bequests for purposes of the Department; separate fund; disbursements

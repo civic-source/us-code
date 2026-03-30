@@ -3,9 +3,9 @@ title: "Section 195 - Punishment for violation of order"
 usc_title: 7
 usc_section: "195"
 chapter: 9
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 195"
-generated_at: "2026-03-30T00:00:03.434Z"
+generated_at: "2026-03-30T00:07:16.221Z"
 ---
 
 # § 195. Punishment for violation of order

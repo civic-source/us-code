@@ -3,9 +3,9 @@ title: "Section 7509 - Relationship to other programs"
 usc_title: 7
 usc_section: "7509"
 chapter: 102
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 7509"
-generated_at: "2026-03-30T00:00:03.587Z"
+generated_at: "2026-03-30T00:07:16.381Z"
 ---
 
 # § 7509. Relationship to other programs

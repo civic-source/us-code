@@ -3,9 +3,9 @@ title: "Section 1522 - Definitions; actions to recover developed property"
 usc_title: 42
 usc_section: "1522"
 chapter: 9
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 1522"
-generated_at: "2026-03-30T00:04:20.657Z"
+generated_at: "2026-03-30T00:12:27.385Z"
 ---
 
 # § 1522. Definitions; actions to recover developed property

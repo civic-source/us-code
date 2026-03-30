@@ -3,9 +3,9 @@ title: "Section 6510 - Materials, supplies, and fuel payments from Senate contin
 usc_title: 2
 usc_section: "6510"
 chapter: 65
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "2 U.S.C. § 6510"
-generated_at: "2026-03-29T23:59:41.305Z"
+generated_at: "2026-03-30T00:06:51.597Z"
 ---
 
 # § 6510. Materials, supplies, and fuel payments from Senate contingent fund

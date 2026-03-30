@@ -3,9 +3,9 @@ title: "Section 1761 - Transportation or importation"
 usc_title: 18
 usc_section: "1761"
 chapter: 85
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 1761"
-generated_at: "2026-03-30T00:01:51.844Z"
+generated_at: "2026-03-30T00:08:07.574Z"
 ---
 
 # § 1761. Transportation or importation

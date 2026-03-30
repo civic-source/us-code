@@ -3,9 +3,9 @@ title: "Section 10603a - Transferred"
 usc_title: 42
 usc_section: "10603a"
 chapter: 112
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 10603a"
-generated_at: "2026-03-30T00:04:21.045Z"
+generated_at: "2026-03-30T00:12:27.680Z"
 ---
 
 # § 10603a. Transferred

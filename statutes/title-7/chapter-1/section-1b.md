@@ -3,9 +3,9 @@ title: "Section 1b - Requirements of Secretary of the Treasury regarding exempti
 usc_title: 7
 usc_section: "1b"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 1b"
-generated_at: "2026-03-30T00:00:03.400Z"
+generated_at: "2026-03-30T00:07:16.184Z"
 ---
 
 # § 1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”

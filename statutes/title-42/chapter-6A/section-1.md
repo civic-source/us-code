@@ -3,9 +3,9 @@ title: "Section 1 - WTC Health Program Scientific/Technical Advisory Committee; 
 usc_title: 42
 usc_section: "1"
 chapter: 6
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T00:04:20.333Z"
+generated_at: "2026-03-30T00:12:27.155Z"
 ---
 
 # § 300mm–1. WTC Health Program Scientific/Technical Advisory Committee; WTC Health Program Steering Committees

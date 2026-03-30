@@ -3,9 +3,9 @@ title: "Section 4585 - Civil money penalties"
 usc_title: 12
 usc_section: "4585"
 chapter: 46
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 4585"
-generated_at: "2026-03-30T00:00:35.677Z"
+generated_at: "2026-03-30T00:07:40.280Z"
 ---
 
 # § 4585. Civil money penalties

@@ -3,9 +3,9 @@ title: "Section 4905 - List of approved species"
 usc_title: 16
 usc_section: "4905"
 chapter: 69
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 4905"
-generated_at: "2026-03-30T00:01:39.821Z"
+generated_at: "2026-03-30T00:08:38.068Z"
 ---
 
 # § 4905. List of approved species

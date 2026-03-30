@@ -3,9 +3,9 @@ title: "Section 462 - Purposes for establishment of trusteeship"
 usc_title: 29
 usc_section: "462"
 chapter: 11
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 462"
-generated_at: "2026-03-30T00:03:00.469Z"
+generated_at: "2026-03-30T00:09:38.262Z"
 ---
 
 # § 462. Purposes for establishment of trusteeship

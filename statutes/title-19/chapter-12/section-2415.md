@@ -3,9 +3,9 @@ title: "Section 2415 - Implementation of actions"
 usc_title: 19
 usc_section: "2415"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "19 U.S.C. § 2415"
-generated_at: "2026-03-30T00:02:18.587Z"
+generated_at: "2026-03-30T00:08:05.317Z"
 ---
 
 # § 2415. Implementation of actions

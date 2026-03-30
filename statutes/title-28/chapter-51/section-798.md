@@ -3,9 +3,9 @@ title: "Section 798 - Places of holding court; appointment of special masters"
 usc_title: 28
 usc_section: "798"
 chapter: 51
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "28 U.S.C. § 798"
-generated_at: "2026-03-30T00:02:54.277Z"
+generated_at: "2026-03-30T00:09:50.183Z"
 ---
 
 # § 798. Places of holding court; appointment of special masters

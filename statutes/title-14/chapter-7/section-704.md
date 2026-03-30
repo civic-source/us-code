@@ -3,9 +3,9 @@ title: "Section 704 - Department of the Army and Department of the Air Force"
 usc_title: 14
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "14 U.S.C. § 704"
-generated_at: "2026-03-30T00:00:27.250Z"
+generated_at: "2026-03-30T00:07:27.037Z"
 ---
 
 # § 704. Department of the Army and Department of the Air Force

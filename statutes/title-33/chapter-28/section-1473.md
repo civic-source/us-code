@@ -3,9 +3,9 @@ title: "Section 1473 - Consultations and determinations respecting creation of h
 usc_title: 33
 usc_section: "1473"
 chapter: 28
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 1473"
-generated_at: "2026-03-30T00:03:44.745Z"
+generated_at: "2026-03-30T00:09:54.505Z"
 ---
 
 # § 1473. Consultations and determinations respecting creation of hazards to human health, etc.; criteria for determinations respecting grave and imminent dangers of major harmful consequences to United States coastline or related interests

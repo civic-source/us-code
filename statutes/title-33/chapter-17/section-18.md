@@ -3,9 +3,9 @@ title: "Section 18 - Authorization of appropriations"
 usc_title: 33
 usc_section: "18"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 18"
-generated_at: "2026-03-30T00:03:44.699Z"
+generated_at: "2026-03-30T00:09:54.475Z"
 ---
 
 # § 857–18. Authorization of appropriations

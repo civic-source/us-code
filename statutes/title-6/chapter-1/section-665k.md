@@ -3,9 +3,9 @@ title: "Section 665k - Federal Clearinghouse on School Safety Evidence-based Pra
 usc_title: 6
 usc_section: "665k"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 665k"
-generated_at: "2026-03-30T00:00:10.061Z"
+generated_at: "2026-03-30T00:06:56.847Z"
 ---
 
 # § 665k. Federal Clearinghouse on School Safety Evidence-based Practices
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T00:00:10.061Z"
     - **(B)** The Secretary of Education, the Attorney General, and the Secretary of Health and Human Services may detail personnel to the Clearinghouse.
   - **(4)**
     - **(A)** Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”), shall not apply to any rulemaking or information collection required under this section.
-    - **(B)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply for the purposes of carrying out this section.
+    - **(B)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply for the purposes of carrying out this section.
 - **(b)**
   - **(1)** In identifying the evidence-based practices and recommendations for the Clearinghouse, the Secretary shall—
     - **(A)** consult with appropriate Federal, State, local, Tribal, private sector, and nongovernmental organizations, including civil rights and disability rights organizations; and
@@ -41,7 +41,7 @@ generated_at: "2026-03-30T00:00:10.061Z"
     - **(C)** any evaluations conducted on implementation of the evidence-based practices and recommendations of the Clearinghouse; and
   - **(2)** in coordination with the Secretary of Education, the Secretary of Health and Human Services, and the Attorney General—
     - **(A)** regularly assess and identify Clearinghouse evidence-based practices and recommendations for which there are no resources available through Federal Government programs for implementation; and
-    - **(B)** establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative 1 1 So in original. Probably should be “representatives”. from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
+    - **(B)** establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative 2 2 So in original. Probably should be “representatives”. from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
       - **(i)** provide feedback on the implementation of evidence-based practices and recommendations of the Clearinghouse; and
       - **(ii)** propose additional recommendations for evidence-based practices for inclusion in the Clearinghouse that meet the requirements described in subsection (b)(2)(B).
 - **(e)** The Clearinghouse shall produce materials in accessible formats to assist parents and legal guardians of students with identifying relevant Clearinghouse resources related to supporting the implementation of Clearinghouse evidence-based practices and recommendations.

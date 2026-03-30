@@ -3,9 +3,9 @@ title: "Section 801 - Repealed. Pub. L. 103–355, title VI, § 6001(a)(1) , Oct
 usc_title: 37
 usc_section: "801"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "37 U.S.C. § 801"
-generated_at: "2026-03-30T00:03:47.210Z"
+generated_at: "2026-03-30T00:10:39.869Z"
 ---
 
 # [§ 801. Repealed. Pub. L. 103–355, title VI, § 6001(a)(1) , Oct. 13, 1994 , 108 Stat. 3362 ]

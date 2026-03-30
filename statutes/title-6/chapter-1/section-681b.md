@@ -3,9 +3,9 @@ title: "Section 681b - Required reporting of certain cyber incidents"
 usc_title: 6
 usc_section: "681b"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 681b"
-generated_at: "2026-03-30T00:00:10.062Z"
+generated_at: "2026-03-30T00:06:56.848Z"
 ---
 
 # § 681b. Required reporting of certain cyber incidents
@@ -25,7 +25,7 @@ generated_at: "2026-03-30T00:00:10.062Z"
       - **(i)** Subject to the limitation described in clause (ii), where the Agency has an agreement in place that satisfies the requirements of section 681g(a) of this title , the requirements under paragraphs (1), (2), and (3) shall not apply to a covered entity required by law, regulation, or contract to report substantially similar information to another Federal agency within a substantially similar timeframe.
       - **(ii)** The exemption in clause (i) shall take effect with respect to a covered entity once an agency agreement and sharing mechanism is in place between the Agency and the respective Federal agency, pursuant to section 681g(a) of this title .
       - **(iii)** Nothing in this paragraph shall be construed to—
-        - **(I)** exempt a covered entity from the reporting requirements under paragraph (3) unless the supplemental report also meets the requirements of clauses (i) and (ii) of this paragraph;
+        - **(I)** exempt a covered entity from the reporting requirements under paragraph (3) unless the supplemental report also meets the requirements of clauses (i) and (ii) of this paragraph; 1 1 So in original. Probably should be “subparagraph”.
         - **(II)** prevent the Agency from contacting an entity submitting information to another Federal agency that is provided to the Agency pursuant to section 681g of this title ; or
         - **(III)** prevent an entity from communicating with the Agency.
     - **(C)** The requirements under paragraphs (1), (2) and (3) shall not apply to a covered entity or the functions of a covered entity that the Director determines constitute critical infrastructure owned, operated, or governed by multi-stakeholder organizations that develop, implement, and enforce policies concerning the Domain Name System, such as the Internet Corporation for Assigned Names and Numbers or the Internet Assigned Numbers Authority.
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T00:00:10.062Z"
   - **(2)** A clear description of the types of substantial cyber incidents that constitute covered cyber incidents, which shall—
     - **(A)** at a minimum, require the occurrence of—
       - **(i)** a cyber incident that leads to substantial loss of confidentiality, integrity, or availability of such information system or network, or a serious impact on the safety and resiliency of operational systems and processes;
-      - **(ii)** a disruption of business or industrial operations, including due to a denial of service attack, ransomware attack, or exploitation of a zero day vulnerability, against 1 1 So in original. Probably should be followed by a dash.
+      - **(ii)** a disruption of business or industrial operations, including due to a denial of service attack, ransomware attack, or exploitation of a zero day vulnerability, against 2 2 So in original. Probably should be followed by a dash.
         - **(I)** an information system or network; or
         - **(II)** an operational technology system or process; or
       - **(iii)** unauthorized access or disruption of business or industrial operations due to loss of service facilitated through, or caused by, a compromise of a cloud service provider, managed service provider, or other third-party data hosting provider or by a supply chain compromise;
@@ -55,7 +55,7 @@ generated_at: "2026-03-30T00:00:10.062Z"
       - **(iii)** potential impacts on industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers; and
     - **(C)** exclude—
       - **(i)** any event where the cyber incident is perpetrated in good faith by an entity in response to a specific request by the owner or operator of the information system; and
-      - **(ii)** the threat of disruption as extortion, as described in section 681(14)(A) 2 2 See References in Text note below. of this title.
+      - **(ii)** the threat of disruption as extortion, as described in section 681(14)(A) 3 3 See References in Text note below. of this title.
   - **(3)** A requirement that, if a covered cyber incident or a ransom payment occurs following an exempted threat described in paragraph (2)(C)(ii), the covered entity shall comply with the requirements in this part in reporting the covered cyber incident or ransom payment.
   - **(4)** A clear description of the specific required contents of a report pursuant to subsection (a)(1), which shall include the following information, to the extent applicable and available, with respect to a covered cyber incident:
     - **(A)** A description of the covered cyber incident, including—
@@ -96,7 +96,7 @@ generated_at: "2026-03-30T00:00:10.062Z"
 - **(d)**
   - **(1)** A covered entity that is required to submit a covered cyber incident report or a ransom payment report may use a third party, such as an incident response company, insurance provider, service provider, Information Sharing and Analysis Organization, or law firm, to submit the required report under subsection (a).
   - **(2)** If a covered entity impacted by a ransomware attack uses a third party to make a ransom payment, the third party shall not be required to submit a ransom payment report for itself under subsection (a)(2).
-  - **(3)** Third-party reporting under this subparagraph does not relieve a covered entity from the duty to comply with the requirements for covered cyber incident report or ransom payment report submission.
+  - **(3)** Third-party reporting under this subparagraph 4 4 So in original. Probably should be “subsection”. does not relieve a covered entity from the duty to comply with the requirements for covered cyber incident report or ransom payment report submission.
   - **(4)** Any third party used by a covered entity that knowingly makes a ransom payment on behalf of a covered entity impacted by a ransomware attack shall advise the impacted covered entity of the responsibilities of the impacted covered entity regarding reporting ransom payments under this section.
 - **(e)**
   - **(1)** The Agency shall conduct an outreach and education campaign to inform likely covered entities, entities that offer or advertise as a service to customers to make or facilitate ransom payments on behalf of covered entities impacted by ransomware attacks and other appropriate entities of the requirements of paragraphs (1), (2), and (3) of subsection (a).

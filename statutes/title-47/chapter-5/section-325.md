@@ -3,9 +3,9 @@ title: "Section 325 - False, fraudulent, or unauthorized transmissions"
 usc_title: 47
 usc_section: "325"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "47 U.S.C. § 325"
-generated_at: "2026-03-30T00:04:50.850Z"
+generated_at: "2026-03-30T00:12:52.432Z"
 ---
 
 # § 325. False, fraudulent, or unauthorized transmissions

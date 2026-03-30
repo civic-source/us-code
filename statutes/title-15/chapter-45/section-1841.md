@@ -3,9 +3,9 @@ title: "Section 1841 - Emergency Loan Guarantee Board; establishment; membership
 usc_title: 15
 usc_section: "1841"
 chapter: 45
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 1841"
-generated_at: "2026-03-30T00:01:21.392Z"
+generated_at: "2026-03-30T00:07:49.697Z"
 ---
 
 # § 1841. Emergency Loan Guarantee Board; establishment; membership; voting

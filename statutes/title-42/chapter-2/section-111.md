@@ -3,9 +3,9 @@ title: "Section 111 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "111"
 chapter: 2
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T00:04:20.092Z"
+generated_at: "2026-03-30T00:12:27.000Z"
 ---
 
 # §§ 110, 111. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

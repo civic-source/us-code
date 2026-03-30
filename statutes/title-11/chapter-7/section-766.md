@@ -3,9 +3,9 @@ title: "Section 766 - Treatment of customer property"
 usc_title: 11
 usc_section: "766"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "11 U.S.C. § 766"
-generated_at: "2026-03-30T00:00:17.999Z"
+generated_at: "2026-03-30T00:07:23.354Z"
 ---
 
 # § 766. Treatment of customer property

@@ -3,9 +3,9 @@ title: "Section 1534 - Cybercrime"
 usc_title: 6
 usc_section: "1534"
 chapter: 6
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 1534"
-generated_at: "2026-03-30T00:00:10.078Z"
+generated_at: "2026-03-30T00:06:56.863Z"
 ---
 
 # § 1534. Cybercrime

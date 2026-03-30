@@ -3,9 +3,9 @@ title: "Section 6o - Fraud and misrepresentation by commodity trading advisors, 
 usc_title: 7
 usc_section: "6o"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 6o"
-generated_at: "2026-03-30T00:00:03.405Z"
+generated_at: "2026-03-30T00:07:16.188Z"
 ---
 
 # § 6o. Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons

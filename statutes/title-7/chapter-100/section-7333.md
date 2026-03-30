@@ -3,9 +3,9 @@ title: "Section 7333 - Administration and operation of noninsured crop assistanc
 usc_title: 7
 usc_section: "7333"
 chapter: 100
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 7333"
-generated_at: "2026-03-30T00:00:03.582Z"
+generated_at: "2026-03-30T00:07:16.375Z"
 ---
 
 # § 7333. Administration and operation of noninsured crop assistance program

@@ -3,9 +3,9 @@ title: "Section 6681 - Findings"
 usc_title: 20
 usc_section: "6681"
 chapter: 70
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "20 U.S.C. § 6681"
-generated_at: "2026-03-30T00:01:54.801Z"
+generated_at: "2026-03-30T00:08:14.564Z"
 ---
 
 # § 6681. Findings

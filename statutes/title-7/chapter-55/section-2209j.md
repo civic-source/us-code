@@ -3,9 +3,9 @@ title: "Section 2209j - Permanent debarment from participation in Department of 
 usc_title: 7
 usc_section: "2209j"
 chapter: 55
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 2209j"
-generated_at: "2026-03-30T00:00:03.523Z"
+generated_at: "2026-03-30T00:07:16.316Z"
 ---
 
 # § 2209j. Permanent debarment from participation in Department of Agriculture programs for fraud

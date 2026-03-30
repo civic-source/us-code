@@ -3,9 +3,9 @@ title: "Section 285 - Repealed. Pub. L. 117–317, § 2(10) , Dec. 27, 2022 , 13
 usc_title: 25
 usc_section: "285"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 285"
-generated_at: "2026-03-30T00:02:38.523Z"
+generated_at: "2026-03-30T00:09:02.654Z"
 ---
 
 # § 285. Repealed. Pub. L. 117–317, § 2(10) , Dec. 27, 2022 , 136 Stat. 4419

@@ -3,9 +3,9 @@ title: "Section 18649 - Isotope research, development, and production"
 usc_title: 42
 usc_section: "18649"
 chapter: 161
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 18649"
-generated_at: "2026-03-30T00:04:21.218Z"
+generated_at: "2026-03-30T00:12:27.811Z"
 ---
 
 # § 18649. Isotope research, development, and production

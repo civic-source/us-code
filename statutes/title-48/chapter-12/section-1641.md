@@ -3,9 +3,9 @@ title: "Section 1641 - Method of payment of official salaries"
 usc_title: 48
 usc_section: "1641"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "48 U.S.C. § 1641"
-generated_at: "2026-03-30T00:04:26.843Z"
+generated_at: "2026-03-30T00:12:30.815Z"
 ---
 
 # § 1641. Method of payment of official salaries

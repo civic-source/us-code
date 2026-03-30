@@ -3,9 +3,9 @@ title: "Section 102711 - Authority of Secretary to use applicable appropriations
 usc_title: 54
 usc_section: "102711"
 chapter: 1027
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "54 U.S.C. § 102711"
-generated_at: "2026-03-30T00:04:53.346Z"
+generated_at: "2026-03-30T00:13:17.610Z"
 ---
 
 # § 102711. Authority of Secretary to use applicable appropriations for the System to render assistance to nearby law enforcement and fire prevention agencies and for related activities outside the System

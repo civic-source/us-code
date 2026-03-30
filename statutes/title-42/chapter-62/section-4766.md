@@ -3,9 +3,9 @@ title: "Section 4766 - Distribution of grants"
 usc_title: 42
 usc_section: "4766"
 chapter: 62
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 4766"
-generated_at: "2026-03-30T00:04:20.803Z"
+generated_at: "2026-03-30T00:12:27.496Z"
 ---
 
 # § 4766. Distribution of grants

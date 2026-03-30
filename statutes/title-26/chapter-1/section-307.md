@@ -3,9 +3,9 @@ title: "Section 307 - Basis of stock and stock rights acquired in distributions"
 usc_title: 26
 usc_section: "307"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "26 U.S.C. § 307"
-generated_at: "2026-03-30T00:03:33.393Z"
+generated_at: "2026-03-30T00:09:49.336Z"
 ---
 
 # § 307. Basis of stock and stock rights acquired in distributions

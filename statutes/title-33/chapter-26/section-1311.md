@@ -3,9 +3,9 @@ title: "Section 1311 - Effluent limitations"
 usc_title: 33
 usc_section: "1311"
 chapter: 26
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 1311"
-generated_at: "2026-03-30T00:03:44.722Z"
+generated_at: "2026-03-30T00:09:54.490Z"
 ---
 
 # § 1311. Effluent limitations

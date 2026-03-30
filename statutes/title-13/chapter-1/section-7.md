@@ -3,9 +3,9 @@ title: "Section 7 - Printing; requisitions upon Director of the Government Publi
 usc_title: 13
 usc_section: "7"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "13 U.S.C. § 7"
-generated_at: "2026-03-30T00:00:15.961Z"
+generated_at: "2026-03-30T00:07:25.682Z"
 ---
 
 # § 7. Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports

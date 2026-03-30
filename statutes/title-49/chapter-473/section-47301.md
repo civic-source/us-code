@@ -3,9 +3,9 @@ title: "Section 47301 - Definitions"
 usc_title: 49
 usc_section: "47301"
 chapter: 473
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 47301"
-generated_at: "2026-03-30T00:04:37.399Z"
+generated_at: "2026-03-30T00:13:05.155Z"
 ---
 
 # § 47301. Definitions

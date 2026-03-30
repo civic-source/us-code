@@ -3,9 +3,9 @@ title: "Section 9036 - Surgeon General: appointment; duties"
 usc_title: 10
 usc_section: "9036"
 chapter: 905
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 9036"
-generated_at: "2026-03-29T23:59:56.238Z"
+generated_at: "2026-03-30T00:07:02.290Z"
 ---
 
 # § 9036. Surgeon General: appointment; duties

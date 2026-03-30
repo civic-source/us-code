@@ -3,9 +3,9 @@ title: "Section 3865a - Definitions"
 usc_title: 16
 usc_section: "3865a"
 chapter: 58
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 3865a"
-generated_at: "2026-03-30T00:01:39.810Z"
+generated_at: "2026-03-30T00:08:38.060Z"
 ---
 
 # § 3865a. Definitions

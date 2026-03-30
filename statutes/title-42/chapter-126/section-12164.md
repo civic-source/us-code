@@ -3,9 +3,9 @@ title: "Section 12164 - Regulations"
 usc_title: 42
 usc_section: "12164"
 chapter: 126
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 12164"
-generated_at: "2026-03-30T00:04:21.071Z"
+generated_at: "2026-03-30T00:12:27.700Z"
 ---
 
 # § 12164. Regulations

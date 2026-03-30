@@ -3,9 +3,9 @@ title: "Section 1304 - Tribal jurisdiction over covered crimes"
 usc_title: 25
 usc_section: "1304"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 1304"
-generated_at: "2026-03-30T00:02:38.535Z"
+generated_at: "2026-03-30T00:09:02.665Z"
 ---
 
 # § 1304. Tribal jurisdiction over covered crimes

@@ -3,9 +3,9 @@ title: "Section 8102 - Biobased markets program"
 usc_title: 7
 usc_section: "8102"
 chapter: 107
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 8102"
-generated_at: "2026-03-30T00:00:03.600Z"
+generated_at: "2026-03-30T00:07:16.393Z"
 ---
 
 # § 8102. Biobased markets program

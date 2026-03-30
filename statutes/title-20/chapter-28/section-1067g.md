@@ -3,9 +3,9 @@ title: "Section 1067g - Eligibility for grants"
 usc_title: 20
 usc_section: "1067g"
 chapter: 28
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "20 U.S.C. § 1067g"
-generated_at: "2026-03-30T00:01:54.700Z"
+generated_at: "2026-03-30T00:08:14.473Z"
 ---
 
 # § 1067g. Eligibility for grants

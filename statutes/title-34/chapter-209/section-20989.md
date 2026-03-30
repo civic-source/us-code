@@ -3,9 +3,9 @@ title: "Section 20989 - Fugitive Safe Surrender"
 usc_title: 34
 usc_section: "20989"
 chapter: 209
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "34 U.S.C. § 20989"
-generated_at: "2026-03-30T00:03:42.961Z"
+generated_at: "2026-03-30T00:10:12.914Z"
 ---
 
 # § 20989. Fugitive Safe Surrender

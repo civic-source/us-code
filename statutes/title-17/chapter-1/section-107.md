@@ -3,9 +3,9 @@ title: "Section 107 - Limitations on exclusive rights: Fair use"
 usc_title: 17
 usc_section: "107"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "17 U.S.C. § 107"
-generated_at: "2026-03-30T00:01:32.397Z"
+generated_at: "2026-03-30T00:08:06.337Z"
 ---
 
 # § 107. Limitations on exclusive rights: Fair use

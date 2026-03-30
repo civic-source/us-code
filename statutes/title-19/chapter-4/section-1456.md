@@ -3,9 +3,9 @@ title: "Section 1456 - Compensation and expenses of inspectors between ports; re
 usc_title: 19
 usc_section: "1456"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "19 U.S.C. § 1456"
-generated_at: "2026-03-30T00:02:18.552Z"
+generated_at: "2026-03-30T00:08:05.286Z"
 ---
 
 # § 1456. Compensation and expenses of inspectors between ports; reimbursement

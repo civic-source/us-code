@@ -3,9 +3,9 @@ title: "Section 122 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(13), 
 usc_title: 22
 usc_section: "122"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 122"
-generated_at: "2026-03-30T00:02:50.154Z"
+generated_at: "2026-03-30T00:09:16.517Z"
 ---
 
 # §§ 121, 122. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(13), (20), 60 Stat. 1036

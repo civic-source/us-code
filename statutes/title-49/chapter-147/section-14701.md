@@ -3,9 +3,9 @@ title: "Section 14701 - General authority"
 usc_title: 49
 usc_section: "14701"
 chapter: 147
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 14701"
-generated_at: "2026-03-30T00:04:37.310Z"
+generated_at: "2026-03-30T00:13:05.089Z"
 ---
 
 # § 14701. General authority

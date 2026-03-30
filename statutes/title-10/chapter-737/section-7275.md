@@ -3,9 +3,9 @@ title: "Section 7275 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7275"
 chapter: 737
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 7275"
-generated_at: "2026-03-29T23:59:56.216Z"
+generated_at: "2026-03-30T00:07:02.269Z"
 ---
 
 # § 7275. Medal of honor; distinguished-service cross; distinguished-service medal: delegation of power to award

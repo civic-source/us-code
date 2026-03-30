@@ -3,9 +3,9 @@ title: "Section 10122 - National Institute of Justice"
 usc_title: 34
 usc_section: "10122"
 chapter: 101
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "34 U.S.C. § 10122"
-generated_at: "2026-03-30T00:03:42.892Z"
+generated_at: "2026-03-30T00:10:12.872Z"
 ---
 
 # § 10122. National Institute of Justice

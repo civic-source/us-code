@@ -3,9 +3,9 @@ title: "Section 5603 - Review, report, and program with respect to exchange faci
 usc_title: 12
 usc_section: "5603"
 chapter: 53
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 5603"
-generated_at: "2026-03-30T00:00:35.715Z"
+generated_at: "2026-03-30T00:07:40.313Z"
 ---
 
 # § 5603. Review, report, and program with respect to exchange facilitators

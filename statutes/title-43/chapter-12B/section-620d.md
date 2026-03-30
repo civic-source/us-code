@@ -3,9 +3,9 @@ title: "Section 620d - Upper Colorado River Basin Fund"
 usc_title: 43
 usc_section: "620d"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 620d"
-generated_at: "2026-03-30T00:03:57.459Z"
+generated_at: "2026-03-30T00:11:08.890Z"
 ---
 
 # § 620d. Upper Colorado River Basin Fund

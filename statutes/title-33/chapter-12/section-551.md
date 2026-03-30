@@ -3,9 +3,9 @@ title: "Section 551 - Policy of Government as to terminal facilities for new pro
 usc_title: 33
 usc_section: "551"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 551"
-generated_at: "2026-03-30T00:03:44.684Z"
+generated_at: "2026-03-30T00:09:54.465Z"
 ---
 
 # § 551. Policy of Government as to terminal facilities for new projects

@@ -3,9 +3,9 @@ title: "Section 4221 - Filing of confidential declarations by private persons id
 usc_title: 12
 usc_section: "4221"
 chapter: 43
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 4221"
-generated_at: "2026-03-30T00:00:35.670Z"
+generated_at: "2026-03-30T00:07:40.274Z"
 ---
 
 # § 4221. Filing of confidential declarations by private persons identifying specific assets

@@ -3,9 +3,9 @@ title: "Section 6108 - Authority for judicial orders of restitution"
 usc_title: 38
 usc_section: "6108"
 chapter: 61
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 6108"
-generated_at: "2026-03-30T00:03:51.302Z"
+generated_at: "2026-03-30T00:10:20.916Z"
 ---
 
 # § 6108. Authority for judicial orders of restitution

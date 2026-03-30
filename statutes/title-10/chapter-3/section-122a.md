@@ -3,9 +3,9 @@ title: "Section 122a - Public availability of Department of Defense reports requ
 usc_title: 10
 usc_section: "122a"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 122a"
-generated_at: "2026-03-29T23:59:56.067Z"
+generated_at: "2026-03-30T00:07:02.123Z"
 ---
 
 # § 122a. Public availability of Department of Defense reports required by law

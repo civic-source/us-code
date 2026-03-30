@@ -3,9 +3,9 @@ title: "Section 8115 - Acceptance of certain property"
 usc_title: 38
 usc_section: "8115"
 chapter: 81
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 8115"
-generated_at: "2026-03-30T00:03:51.326Z"
+generated_at: "2026-03-30T00:10:20.929Z"
 ---
 
 # § 8115. Acceptance of certain property

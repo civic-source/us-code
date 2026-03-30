@@ -3,9 +3,9 @@ title: "Section 1012 - Responsibilities of Library of Congress"
 usc_title: 5
 usc_section: "1012"
 chapter: 10
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 1012"
-generated_at: "2026-03-29T23:59:20.441Z"
+generated_at: "2026-03-30T00:06:30.340Z"
 ---
 
 # § 1012. Responsibilities of Library of Congress

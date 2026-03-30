@@ -3,9 +3,9 @@ title: "Section 1461 - Administration as single Indian Revolving Loan Fund sums 
 usc_title: 25
 usc_section: "1461"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 1461"
-generated_at: "2026-03-30T00:02:38.537Z"
+generated_at: "2026-03-30T00:09:02.667Z"
 ---
 
 # § 1461. Administration as single Indian Revolving Loan Fund sums from diverse sources; availability of fund for loans to Indians and for administrative expenses

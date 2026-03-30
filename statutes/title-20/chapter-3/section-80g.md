@@ -3,9 +3,9 @@ title: "Section 80g - Powers and duties of Board"
 usc_title: 20
 usc_section: "80g"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "20 U.S.C. § 80g"
-generated_at: "2026-03-30T00:01:54.676Z"
+generated_at: "2026-03-30T00:08:14.451Z"
 ---
 
 # § 80g. Powers and duties of Board

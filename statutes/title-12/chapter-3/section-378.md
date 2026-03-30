@@ -3,9 +3,9 @@ title: "Section 378 - Dealers in securities engaging in banking business; indivi
 usc_title: 12
 usc_section: "378"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 378"
-generated_at: "2026-03-30T00:00:35.539Z"
+generated_at: "2026-03-30T00:07:40.162Z"
 ---
 
 # § 378. Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties

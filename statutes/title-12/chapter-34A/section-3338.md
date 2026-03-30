@@ -3,9 +3,9 @@ title: "Section 3338 - Roster of State certified or licensed appraisers; authori
 usc_title: 12
 usc_section: "3338"
 chapter: 34
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 3338"
-generated_at: "2026-03-30T00:00:35.659Z"
+generated_at: "2026-03-30T00:07:40.265Z"
 ---
 
 # § 3338. Roster of State certified or licensed appraisers; authority to collect and transmit fees

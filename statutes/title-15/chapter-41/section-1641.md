@@ -3,9 +3,9 @@ title: "Section 1641 - Liability of assignees"
 usc_title: 15
 usc_section: "1641"
 chapter: 41
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 1641"
-generated_at: "2026-03-30T00:01:21.375Z"
+generated_at: "2026-03-30T00:07:49.682Z"
 ---
 
 # § 1641. Liability of assignees

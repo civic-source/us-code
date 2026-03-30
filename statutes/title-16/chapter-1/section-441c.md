@@ -3,9 +3,9 @@ title: "Section 441c - Administration, protection, and promotion; franchises for
 usc_title: 16
 usc_section: "441c"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 441c"
-generated_at: "2026-03-30T00:01:39.599Z"
+generated_at: "2026-03-30T00:08:37.894Z"
 ---
 
 # § 441c. Administration, protection, and promotion; franchises for hotel and lodge accommodations

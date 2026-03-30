@@ -3,9 +3,9 @@ title: "Section 2132 - Renumbered § 16132]"
 usc_title: 10
 usc_section: "2132"
 chapter: 106
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 2132"
-generated_at: "2026-03-29T23:59:56.156Z"
+generated_at: "2026-03-30T00:07:02.209Z"
 ---
 
 # [§ 2132. Renumbered § 16132]

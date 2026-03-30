@@ -3,9 +3,9 @@ title: "Section 4431 - Definitions"
 usc_title: 19
 usc_section: "4431"
 chapter: 28
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "19 U.S.C. § 4431"
-generated_at: "2026-03-30T00:02:18.617Z"
+generated_at: "2026-03-30T00:08:05.347Z"
 ---
 
 # § 4431. Definitions

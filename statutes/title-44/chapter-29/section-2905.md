@@ -3,9 +3,9 @@ title: "Section 2905 - Establishment of standards for selective retention of rec
 usc_title: 44
 usc_section: "2905"
 chapter: 29
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "44 U.S.C. § 2905"
-generated_at: "2026-03-30T00:03:56.521Z"
+generated_at: "2026-03-30T00:10:41.671Z"
 ---
 
 # § 2905. Establishment of standards for selective retention of records; security measures

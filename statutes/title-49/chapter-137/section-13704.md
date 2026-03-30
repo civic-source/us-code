@@ -3,9 +3,9 @@ title: "Section 13704 - Household goods rates—estimates; guarantees of service
 usc_title: 49
 usc_section: "13704"
 chapter: 137
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 13704"
-generated_at: "2026-03-30T00:04:37.307Z"
+generated_at: "2026-03-30T00:13:05.087Z"
 ---
 
 # § 13704. Household goods rates—estimates; guarantees of service

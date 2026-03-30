@@ -3,9 +3,9 @@ title: "Section 12601 - Compensation: Reserve on active duty accepting from any 
 usc_title: 10
 usc_section: "12601"
 chapter: 1217
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 12601"
-generated_at: "2026-03-29T23:59:56.256Z"
+generated_at: "2026-03-30T00:07:02.302Z"
 ---
 
 # § 12601. Compensation: Reserve on active duty accepting from any person

@@ -3,9 +3,9 @@ title: "Section 79a - Weighing authority"
 usc_title: 7
 usc_section: "79a"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 79a"
-generated_at: "2026-03-30T00:00:03.415Z"
+generated_at: "2026-03-30T00:07:16.198Z"
 ---
 
 # § 79a. Weighing authority

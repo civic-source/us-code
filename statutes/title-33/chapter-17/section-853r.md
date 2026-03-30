@@ -3,9 +3,9 @@ title: "Section 853r - Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 1
 usc_title: 33
 usc_section: "853r"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 853r"
-generated_at: "2026-03-30T00:03:44.698Z"
+generated_at: "2026-03-30T00:09:54.475Z"
 ---
 
 # §§ 853p to 853r. Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 19, 2002 , 116 Stat. 3094

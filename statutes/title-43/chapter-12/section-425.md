@@ -3,9 +3,9 @@ title: "Section 425 - Exemption of lands owned by States, etc., from acreage lim
 usc_title: 43
 usc_section: "425"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 425"
-generated_at: "2026-03-30T00:03:57.448Z"
+generated_at: "2026-03-30T00:11:08.882Z"
 ---
 
 # § 425. Exemption of lands owned by States, etc., from acreage limitation on receipt of irrigation benefits; determination of exempt status

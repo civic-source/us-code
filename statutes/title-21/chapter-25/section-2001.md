@@ -3,9 +3,9 @@ title: "Section 2001 - Designation of United States Anti-Doping Agency"
 usc_title: 21
 usc_section: "2001"
 chapter: 25
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "21 U.S.C. § 2001"
-generated_at: "2026-03-30T00:02:27.745Z"
+generated_at: "2026-03-30T00:08:54.864Z"
 ---
 
 # § 2001. Designation of United States Anti-Doping Agency

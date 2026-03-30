@@ -3,9 +3,9 @@ title: "Section 13841 - Transferred"
 usc_title: 42
 usc_section: "13841"
 chapter: 136
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 13841"
-generated_at: "2026-03-30T00:04:21.122Z"
+generated_at: "2026-03-30T00:12:27.738Z"
 ---
 
 # § 13841. Transferred

@@ -3,9 +3,9 @@ title: "Section 24 - Pilot program for automated process for borrowers without s
 usc_title: 12
 usc_section: "24"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 24"
-generated_at: "2026-03-30T00:00:35.588Z"
+generated_at: "2026-03-30T00:07:40.203Z"
 ---
 
 # § 1715z–24. Pilot program for automated process for borrowers without sufficient credit history

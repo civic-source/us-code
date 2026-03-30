@@ -3,9 +3,9 @@ title: "Section 4802 - Council established"
 usc_title: 15
 usc_section: "4802"
 chapter: 74
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 4802"
-generated_at: "2026-03-30T00:01:21.441Z"
+generated_at: "2026-03-30T00:07:49.741Z"
 ---
 
 # § 4802. Council established

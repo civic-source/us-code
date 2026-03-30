@@ -3,9 +3,9 @@ title: "Section 1135 - Additional compensation for dependents"
 usc_title: 38
 usc_section: "1135"
 chapter: 11
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 1135"
-generated_at: "2026-03-30T00:03:51.236Z"
+generated_at: "2026-03-30T00:10:20.872Z"
 ---
 
 # § 1135. Additional compensation for dependents

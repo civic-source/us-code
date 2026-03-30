@@ -3,9 +3,9 @@ title: "Section 153506 - Exclusive right to name"
 usc_title: 36
 usc_section: "153506"
 chapter: 1535
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "36 U.S.C. § 153506"
-generated_at: "2026-03-30T00:03:49.084Z"
+generated_at: "2026-03-30T00:10:18.823Z"
 ---
 
 # § 153506. Exclusive right to name

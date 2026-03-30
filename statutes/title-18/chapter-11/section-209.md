@@ -3,9 +3,9 @@ title: "Section 209 - Salary of Government officials and employees payable only 
 usc_title: 18
 usc_section: "209"
 chapter: 11
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 209"
-generated_at: "2026-03-30T00:01:51.815Z"
+generated_at: "2026-03-30T00:08:07.550Z"
 ---
 
 # § 209. Salary of Government officials and employees payable only by United States

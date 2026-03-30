@@ -3,9 +3,9 @@ title: "Section 1711 - Value engineering"
 usc_title: 41
 usc_section: "1711"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "41 U.S.C. § 1711"
-generated_at: "2026-03-30T00:03:53.384Z"
+generated_at: "2026-03-30T00:10:56.808Z"
 ---
 
 # § 1711. Value engineering

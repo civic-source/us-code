@@ -3,9 +3,9 @@ title: "Section 1703 - Duties and functions of Secretary of the Interior and Sec
 usc_title: 16
 usc_section: "1703"
 chapter: 37
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 1703"
-generated_at: "2026-03-30T00:01:39.760Z"
+generated_at: "2026-03-30T00:08:38.023Z"
 ---
 
 # § 1703. Duties and functions of Secretary of the Interior and Secretary of Agriculture

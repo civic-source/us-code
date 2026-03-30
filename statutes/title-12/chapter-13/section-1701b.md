@@ -3,9 +3,9 @@ title: "Section 1701b - Short title of amendment of 1942"
 usc_title: 12
 usc_section: "1701b"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 1701b"
-generated_at: "2026-03-30T00:00:35.563Z"
+generated_at: "2026-03-30T00:07:40.182Z"
 ---
 
 # § 1701b. Short title of amendment of 1942

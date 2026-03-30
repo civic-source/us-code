@@ -3,9 +3,9 @@ title: "Section 42304 - Widespread disruptions"
 usc_title: 49
 usc_section: "42304"
 chapter: 423
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "49 U.S.C. § 42304"
-generated_at: "2026-03-30T00:04:37.368Z"
+generated_at: "2026-03-30T00:13:05.132Z"
 ---
 
 # § 42304. Widespread disruptions

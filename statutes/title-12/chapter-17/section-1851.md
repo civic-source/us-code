@@ -3,9 +3,9 @@ title: "Section 1851 - Prohibitions on proprietary trading and certain relations
 usc_title: 12
 usc_section: "1851"
 chapter: 17
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 1851"
-generated_at: "2026-03-30T00:00:35.634Z"
+generated_at: "2026-03-30T00:07:40.243Z"
 ---
 
 # § 1851. Prohibitions on proprietary trading and certain relationships with hedge funds and private equity funds

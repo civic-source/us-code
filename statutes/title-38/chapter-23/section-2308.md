@@ -3,9 +3,9 @@ title: "Section 2308 - Transportation of deceased veteran to a national cemetery
 usc_title: 38
 usc_section: "2308"
 chapter: 23
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 2308"
-generated_at: "2026-03-30T00:03:51.264Z"
+generated_at: "2026-03-30T00:10:20.890Z"
 ---
 
 # § 2308. Transportation of deceased veteran to a national cemetery or a covered veterans’ cemetery

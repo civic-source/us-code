@@ -3,9 +3,9 @@ title: "Section 176a - Confidential nature of information furnished Bureau"
 usc_title: 15
 usc_section: "176a"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 176a"
-generated_at: "2026-03-30T00:01:21.297Z"
+generated_at: "2026-03-30T00:07:49.614Z"
 ---
 
 # § 176a. Confidential nature of information furnished Bureau

@@ -3,9 +3,9 @@ title: "Section 46 - Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(2),
 usc_title: 48
 usc_section: "46"
 chapter: 2
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "48 U.S.C. § 46"
-generated_at: "2026-03-30T00:04:26.831Z"
+generated_at: "2026-03-30T00:12:30.805Z"
 ---
 
 # § 46. Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(2), 70 Stat. 712

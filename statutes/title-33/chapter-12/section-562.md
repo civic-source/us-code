@@ -3,9 +3,9 @@ title: "Section 562 - Channel depths and dimensions defined"
 usc_title: 33
 usc_section: "562"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "33 U.S.C. § 562"
-generated_at: "2026-03-30T00:03:44.684Z"
+generated_at: "2026-03-30T00:09:54.465Z"
 ---
 
 # § 562. Channel depths and dimensions defined

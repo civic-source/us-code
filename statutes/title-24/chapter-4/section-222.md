@@ -3,9 +3,9 @@ title: "Section 222 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "222"
 chapter: 4
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "24 U.S.C. § 222"
-generated_at: "2026-03-30T00:02:26.674Z"
+generated_at: "2026-03-30T00:08:44.257Z"
 ---
 
 # §§ 221, 222. Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 Stat. 3379

@@ -3,9 +3,9 @@ title: "Section 1525 - Assistance for facilities subject to inspection under Che
 usc_title: 50
 usc_section: "1525"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 1525"
-generated_at: "2026-03-30T00:04:33.163Z"
+generated_at: "2026-03-30T00:12:34.442Z"
 ---
 
 # § 1525. Assistance for facilities subject to inspection under Chemical Weapons Convention

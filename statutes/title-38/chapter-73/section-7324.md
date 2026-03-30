@@ -3,9 +3,9 @@ title: "Section 7324 - Annual report on use of authorities to enhance retention 
 usc_title: 38
 usc_section: "7324"
 chapter: 73
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 7324"
-generated_at: "2026-03-30T00:03:51.309Z"
+generated_at: "2026-03-30T00:10:20.920Z"
 ---
 
 # § 7324. Annual report on use of authorities to enhance retention of experienced nurses

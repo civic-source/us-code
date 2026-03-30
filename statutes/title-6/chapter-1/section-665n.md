@@ -3,9 +3,9 @@ title: "Section 665n - Industrial Control Systems Cybersecurity Training Initiat
 usc_title: 6
 usc_section: "665n"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 665n"
-generated_at: "2026-03-30T00:00:10.061Z"
+generated_at: "2026-03-30T00:06:56.847Z"
 ---
 
 # § 665n. Industrial Control Systems Cybersecurity Training Initiative

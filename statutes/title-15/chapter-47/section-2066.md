@@ -3,9 +3,9 @@ title: "Section 2066 - Imported products"
 usc_title: 15
 usc_section: "2066"
 chapter: 47
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 2066"
-generated_at: "2026-03-30T00:01:21.397Z"
+generated_at: "2026-03-30T00:07:49.702Z"
 ---
 
 # § 2066. Imported products

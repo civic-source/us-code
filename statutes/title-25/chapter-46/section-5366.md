@@ -3,9 +3,9 @@ title: "Section 5366 - Provisions relating to the Secretary"
 usc_title: 25
 usc_section: "5366"
 chapter: 46
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 5366"
-generated_at: "2026-03-30T00:02:38.591Z"
+generated_at: "2026-03-30T00:09:02.715Z"
 ---
 
 # § 5366. Provisions relating to the Secretary

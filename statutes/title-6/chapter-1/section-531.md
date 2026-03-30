@@ -3,9 +3,9 @@ title: "Section 531 - Bureau of Alcohol, Tobacco, Firearms, and Explosives"
 usc_title: 6
 usc_section: "531"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 531"
-generated_at: "2026-03-30T00:00:10.049Z"
+generated_at: "2026-03-30T00:06:56.835Z"
 ---
 
 # § 531. Bureau of Alcohol, Tobacco, Firearms, and Explosives

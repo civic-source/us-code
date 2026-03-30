@@ -3,9 +3,9 @@ title: "Section 5924 - Agricultural Genome to Phenome Initiative"
 usc_title: 7
 usc_section: "5924"
 chapter: 88
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 5924"
-generated_at: "2026-03-30T00:00:03.557Z"
+generated_at: "2026-03-30T00:07:16.350Z"
 ---
 
 # § 5924. Agricultural Genome to Phenome Initiative

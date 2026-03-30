@@ -3,9 +3,9 @@ title: "Section 2350q - Execution of projects under the North Atlantic Treaty Or
 usc_title: 10
 usc_section: "2350q"
 chapter: 138
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 2350q"
-generated_at: "2026-03-29T23:59:56.165Z"
+generated_at: "2026-03-30T00:07:02.219Z"
 ---
 
 # § 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program

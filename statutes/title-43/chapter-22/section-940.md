@@ -3,9 +3,9 @@ title: "Section 940 - Forfeiture of rights where railroad not constructed in fiv
 usc_title: 43
 usc_section: "940"
 chapter: 22
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 940"
-generated_at: "2026-03-30T00:03:57.467Z"
+generated_at: "2026-03-30T00:11:08.895Z"
 ---
 
 # § 940. Forfeiture of rights where railroad not constructed in five years after location

@@ -3,9 +3,9 @@ title: "Section 164 - Assistance of Department of Agriculture"
 usc_title: 35
 usc_section: "164"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "35 U.S.C. § 164"
-generated_at: "2026-03-30T00:03:37.646Z"
+generated_at: "2026-03-30T00:10:01.783Z"
 ---
 
 # § 164. Assistance of Department of Agriculture

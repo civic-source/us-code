@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations for the preservation of wetl
 usc_title: 16
 usc_section: "3"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T00:01:39.689Z"
+generated_at: "2026-03-30T00:08:37.966Z"
 ---
 
 # § 715k–3. Authorization of appropriations for the preservation of wetlands and other waterfowl habitat

@@ -3,9 +3,9 @@ title: "Section 243 - Assessments upon Federal reserve banks to pay expenses"
 usc_title: 12
 usc_section: "243"
 chapter: 3
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 243"
-generated_at: "2026-03-30T00:00:35.534Z"
+generated_at: "2026-03-30T00:07:40.157Z"
 ---
 
 # § 243. Assessments upon Federal reserve banks to pay expenses

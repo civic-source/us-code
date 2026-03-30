@@ -3,9 +3,9 @@ title: "Section 635 - Expenses"
 usc_title: 28
 usc_section: "635"
 chapter: 43
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "28 U.S.C. § 635"
-generated_at: "2026-03-30T00:02:54.276Z"
+generated_at: "2026-03-30T00:09:50.182Z"
 ---
 
 # § 635. Expenses

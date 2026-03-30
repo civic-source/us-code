@@ -3,9 +3,9 @@ title: "Section 51509 - Student incentive payment agreements"
 usc_title: 46
 usc_section: "51509"
 chapter: 515
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "46 U.S.C. § 51509"
-generated_at: "2026-03-30T00:04:28.368Z"
+generated_at: "2026-03-30T00:12:53.366Z"
 ---
 
 # § 51509. Student incentive payment agreements
@@ -51,3 +51,4 @@ generated_at: "2026-03-30T00:04:28.368Z"
 - **(h)**
   - **(1)** An individual who, for the 5-year period following graduation from an academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (d).
   - **(2)** The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
+- **(i)** The Secretary may make an agreement under this section only with a qualified student who will meet the age requirement for enlistment or commission in the Navy Reserve at the time of graduation from the academy.

@@ -3,9 +3,9 @@ title: "Section 1772 - Vegetation managment, 1 1 So in original. Probably should
 usc_title: 43
 usc_section: "1772"
 chapter: 35
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-03-30T00:03:57.504Z"
+generated_at: "2026-03-30T00:11:08.918Z"
 ---
 
 # § 1772. Vegetation managment, 1 1 So in original. Probably should be “management,”. facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way

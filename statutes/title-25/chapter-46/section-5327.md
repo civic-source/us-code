@@ -3,9 +3,9 @@ title: "Section 5327 - Department of the Interior: availability of funds for Ind
 usc_title: 25
 usc_section: "5327"
 chapter: 46
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "25 U.S.C. § 5327"
-generated_at: "2026-03-30T00:02:38.589Z"
+generated_at: "2026-03-30T00:09:02.713Z"
 ---
 
 # § 5327. Department of the Interior: availability of funds for Indian self-determination or self-governance contract or grant support costs

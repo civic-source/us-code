@@ -3,9 +3,9 @@ title: "Section 3352a - Reports and plans relating to security clearances and ba
 usc_title: 50
 usc_section: "3352a"
 chapter: 45
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 3352a"
-generated_at: "2026-03-30T00:04:33.230Z"
+generated_at: "2026-03-30T00:12:34.488Z"
 ---
 
 # § 3352a. Reports and plans relating to security clearances and background investigations

@@ -3,9 +3,9 @@ title: "Section 3906 - Membership in other organizations"
 usc_title: 14
 usc_section: "3906"
 chapter: 39
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "14 U.S.C. § 3906"
-generated_at: "2026-03-30T00:00:27.263Z"
+generated_at: "2026-03-30T00:07:27.048Z"
 ---
 
 # § 3906. Membership in other organizations

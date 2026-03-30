@@ -3,9 +3,9 @@ title: "Section 277f - Valley Gravity Canal and Storage Project"
 usc_title: 22
 usc_section: "277f"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 277f"
-generated_at: "2026-03-30T00:02:50.167Z"
+generated_at: "2026-03-30T00:09:16.526Z"
 ---
 
 # § 277f. Valley Gravity Canal and Storage Project

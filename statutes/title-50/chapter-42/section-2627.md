@@ -3,9 +3,9 @@ title: "Section 2627 - Notification regarding air release of radioactive or haza
 usc_title: 50
 usc_section: "2627"
 chapter: 42
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 2627"
-generated_at: "2026-03-30T00:04:33.195Z"
+generated_at: "2026-03-30T00:12:34.465Z"
 ---
 
 # § 2627. Notification regarding air release of radioactive or hazardous material

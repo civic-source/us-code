@@ -3,9 +3,9 @@ title: "Section 52 - Effective date"
 usc_title: 15
 usc_section: "52"
 chapter: 2
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "15 U.S.C. § 52"
-generated_at: "2026-03-30T00:01:21.293Z"
+generated_at: "2026-03-30T00:07:49.609Z"
 ---
 
 # § 80a–52. Effective date

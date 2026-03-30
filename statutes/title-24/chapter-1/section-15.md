@@ -3,9 +3,9 @@ title: "Section 15 - Superintendence of Navy hospitals"
 usc_title: 24
 usc_section: "15"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "24 U.S.C. § 15"
-generated_at: "2026-03-30T00:02:26.673Z"
+generated_at: "2026-03-30T00:08:44.256Z"
 ---
 
 # § 15. Superintendence of Navy hospitals

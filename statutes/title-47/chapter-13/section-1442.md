@@ -3,9 +3,9 @@ title: "Section 1442 - State and local implementation"
 usc_title: 47
 usc_section: "1442"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "47 U.S.C. § 1442"
-generated_at: "2026-03-30T00:04:50.887Z"
+generated_at: "2026-03-30T00:12:52.460Z"
 ---
 
 # § 1442. State and local implementation

@@ -3,9 +3,9 @@ title: "Section 618 - Promulgation of charges for electrical energy"
 usc_title: 43
 usc_section: "618"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 618"
-generated_at: "2026-03-30T00:03:57.457Z"
+generated_at: "2026-03-30T00:11:08.888Z"
 ---
 
 # § 618. Promulgation of charges for electrical energy

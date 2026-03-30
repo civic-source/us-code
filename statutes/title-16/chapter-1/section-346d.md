@@ -3,9 +3,9 @@ title: "Section 346d - Use of funds"
 usc_title: 16
 usc_section: "346d"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 346d"
-generated_at: "2026-03-30T00:01:39.558Z"
+generated_at: "2026-03-30T00:08:37.857Z"
 ---
 
 # § 346d. Use of funds

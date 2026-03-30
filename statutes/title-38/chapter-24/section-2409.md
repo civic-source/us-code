@@ -3,9 +3,9 @@ title: "Section 2409 - Memorial areas in Arlington National Cemetery"
 usc_title: 38
 usc_section: "2409"
 chapter: 24
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 2409"
-generated_at: "2026-03-30T00:03:51.265Z"
+generated_at: "2026-03-30T00:10:20.891Z"
 ---
 
 # § 2409. Memorial areas in Arlington National Cemetery

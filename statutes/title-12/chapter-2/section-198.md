@@ -3,9 +3,9 @@ title: "Section 198 - Purchase by receiver of property of bank; request to Compt
 usc_title: 12
 usc_section: "198"
 chapter: 2
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 198"
-generated_at: "2026-03-30T00:00:35.532Z"
+generated_at: "2026-03-30T00:07:40.154Z"
 ---
 
 # § 198. Purchase by receiver of property of bank; request to Comptroller

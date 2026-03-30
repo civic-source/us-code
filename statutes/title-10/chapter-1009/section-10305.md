@@ -3,9 +3,9 @@ title: "Section 10305 - Air Force Reserve Forces Policy Committee"
 usc_title: 10
 usc_section: "10305"
 chapter: 1009
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 10305"
-generated_at: "2026-03-29T23:59:56.251Z"
+generated_at: "2026-03-30T00:07:02.298Z"
 ---
 
 # § 10305. Air Force Reserve Forces Policy Committee

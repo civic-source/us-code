@@ -3,9 +3,9 @@ title: "Section 1562 - Special provisions relating to pension"
 usc_title: 38
 usc_section: "1562"
 chapter: 15
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 1562"
-generated_at: "2026-03-30T00:03:51.240Z"
+generated_at: "2026-03-30T00:10:20.875Z"
 ---
 
 # § 1562. Special provisions relating to pension

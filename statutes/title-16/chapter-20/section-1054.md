@@ -3,9 +3,9 @@ title: "Section 1054 - Advisory Board; establishment; meetings; functions; quoru
 usc_title: 16
 usc_section: "1054"
 chapter: 20
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 1054"
-generated_at: "2026-03-30T00:01:39.722Z"
+generated_at: "2026-03-30T00:08:37.995Z"
 ---
 
 # § 1054. Advisory Board; establishment; meetings; functions; quorum; executive secretary

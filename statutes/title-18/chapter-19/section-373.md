@@ -3,9 +3,9 @@ title: "Section 373 - Solicitation to commit a crime of violence"
 usc_title: 18
 usc_section: "373"
 chapter: 19
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 373"
-generated_at: "2026-03-30T00:01:51.818Z"
+generated_at: "2026-03-30T00:08:07.552Z"
 ---
 
 # § 373. Solicitation to commit a crime of violence

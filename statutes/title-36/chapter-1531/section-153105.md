@@ -3,9 +3,9 @@ title: "Section 153105 - Principal office"
 usc_title: 36
 usc_section: "153105"
 chapter: 1531
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "36 U.S.C. § 153105"
-generated_at: "2026-03-30T00:03:49.083Z"
+generated_at: "2026-03-30T00:10:18.823Z"
 ---
 
 # § 153105. Principal office

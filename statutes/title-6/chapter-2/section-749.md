@@ -3,9 +3,9 @@ title: "Section 749 - Comprehensive assessment system"
 usc_title: 6
 usc_section: "749"
 chapter: 2
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "6 U.S.C. § 749"
-generated_at: "2026-03-30T00:00:10.065Z"
+generated_at: "2026-03-30T00:06:56.849Z"
 ---
 
 # § 749. Comprehensive assessment system

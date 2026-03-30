@@ -3,9 +3,9 @@ title: "Section 908 - Deposits by railroad companies for costs of surveying and 
 usc_title: 43
 usc_section: "908"
 chapter: 21
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 908"
-generated_at: "2026-03-30T00:03:57.466Z"
+generated_at: "2026-03-30T00:11:08.894Z"
 ---
 
 # § 908. Deposits by railroad companies for costs of surveying and conveying unsurveyed lands granted

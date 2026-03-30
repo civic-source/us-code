@@ -3,9 +3,9 @@ title: "Section 1903 - Repealed. Pub. L. 95–445, § 5(b) , Oct. 10, 1978 , 92 
 usc_title: 7
 usc_section: "1903"
 chapter: 48
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 1903"
-generated_at: "2026-03-30T00:00:03.491Z"
+generated_at: "2026-03-30T00:07:16.284Z"
 ---
 
 # § 1903. Repealed. Pub. L. 95–445, § 5(b) , Oct. 10, 1978 , 92 Stat. 1069

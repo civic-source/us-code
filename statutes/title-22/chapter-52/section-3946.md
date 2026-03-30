@@ -3,9 +3,9 @@ title: "Section 3946 - Career appointments"
 usc_title: 22
 usc_section: "3946"
 chapter: 52
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 3946"
-generated_at: "2026-03-30T00:02:50.264Z"
+generated_at: "2026-03-30T00:09:16.602Z"
 ---
 
 # § 3946. Career appointments

@@ -3,9 +3,9 @@ title: "Section 1037 - Fraud and related activity in connection with electronic 
 usc_title: 18
 usc_section: "1037"
 chapter: 47
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "18 U.S.C. § 1037"
-generated_at: "2026-03-30T00:01:51.834Z"
+generated_at: "2026-03-30T00:08:07.566Z"
 ---
 
 # § 1037. Fraud and related activity in connection with electronic mail

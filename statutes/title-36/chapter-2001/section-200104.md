@@ -3,9 +3,9 @@ title: "Section 200104 - Restrictions"
 usc_title: 36
 usc_section: "200104"
 chapter: 2001
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "36 U.S.C. § 200104"
-generated_at: "2026-03-30T00:03:49.086Z"
+generated_at: "2026-03-30T00:10:18.825Z"
 ---
 
 # § 200104. Restrictions

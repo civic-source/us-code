@@ -3,9 +3,9 @@ title: "Section 4235 - Compensation for community losses"
 usc_title: 50
 usc_section: "4235"
 chapter: 52
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 4235"
-generated_at: "2026-03-30T00:04:33.258Z"
+generated_at: "2026-03-30T00:12:34.506Z"
 ---
 
 # § 4235. Compensation for community losses

@@ -3,9 +3,9 @@ title: "Section 161 - Investigatory powers of Board"
 usc_title: 29
 usc_section: "161"
 chapter: 7
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "29 U.S.C. § 161"
-generated_at: "2026-03-30T00:03:00.461Z"
+generated_at: "2026-03-30T00:09:38.256Z"
 ---
 
 # § 161. Investigatory powers of Board

@@ -3,9 +3,9 @@ title: "Section 1376 - Seizure and forfeiture of cargo"
 usc_title: 16
 usc_section: "1376"
 chapter: 31
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 1376"
-generated_at: "2026-03-30T00:01:39.739Z"
+generated_at: "2026-03-30T00:08:38.007Z"
 ---
 
 # § 1376. Seizure and forfeiture of cargo

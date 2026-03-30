@@ -3,9 +3,9 @@ title: "Section 60511 - Careers training demonstration grants"
 usc_title: 34
 usc_section: "60511"
 chapter: 605
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "34 U.S.C. § 60511"
-generated_at: "2026-03-30T00:03:42.987Z"
+generated_at: "2026-03-30T00:10:12.929Z"
 ---
 
 # § 60511. Careers training demonstration grants

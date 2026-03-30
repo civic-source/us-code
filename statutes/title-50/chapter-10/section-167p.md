@@ -3,9 +3,9 @@ title: "Section 167p - Helium-3 separation"
 usc_title: 50
 usc_section: "167p"
 chapter: 10
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "50 U.S.C. § 167p"
-generated_at: "2026-03-30T00:04:33.155Z"
+generated_at: "2026-03-30T00:12:34.438Z"
 ---
 
 # § 167p. Helium-3 separation

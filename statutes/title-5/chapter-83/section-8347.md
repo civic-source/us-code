@@ -3,9 +3,9 @@ title: "Section 8347 - Administration; regulations"
 usc_title: 5
 usc_section: "8347"
 chapter: 83
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "5 U.S.C. § 8347"
-generated_at: "2026-03-29T23:59:20.485Z"
+generated_at: "2026-03-30T00:06:30.382Z"
 ---
 
 # § 8347. Administration; regulations

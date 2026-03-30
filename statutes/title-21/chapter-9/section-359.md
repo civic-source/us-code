@@ -3,9 +3,9 @@ title: "Section 359 - Nonapplicability of subchapter to cosmetics"
 usc_title: 21
 usc_section: "359"
 chapter: 9
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "21 U.S.C. § 359"
-generated_at: "2026-03-30T00:02:27.684Z"
+generated_at: "2026-03-30T00:08:54.775Z"
 ---
 
 # § 359. Nonapplicability of subchapter to cosmetics

@@ -3,9 +3,9 @@ title: "Section 5216 - Rights; management; sale of troubled assets; revenues and
 usc_title: 12
 usc_section: "5216"
 chapter: 52
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 5216"
-generated_at: "2026-03-30T00:00:35.690Z"
+generated_at: "2026-03-30T00:07:40.292Z"
 ---
 
 # § 5216. Rights; management; sale of troubled assets; revenues and sale proceeds

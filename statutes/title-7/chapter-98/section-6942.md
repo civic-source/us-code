@@ -3,9 +3,9 @@ title: "Section 6942 - Rural Utilities Service"
 usc_title: 7
 usc_section: "6942"
 chapter: 98
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 6942"
-generated_at: "2026-03-30T00:00:03.574Z"
+generated_at: "2026-03-30T00:07:16.367Z"
 ---
 
 # § 6942. Rural Utilities Service

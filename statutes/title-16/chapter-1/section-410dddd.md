@@ -3,9 +3,9 @@ title: "Section 410dddd - White Sands National Park"
 usc_title: 16
 usc_section: "410dddd"
 chapter: 1
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 410dddd"
-generated_at: "2026-03-30T00:01:39.589Z"
+generated_at: "2026-03-30T00:08:37.885Z"
 ---
 
 # § 410dddd. White Sands National Park

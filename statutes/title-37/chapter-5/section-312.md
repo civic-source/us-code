@@ -3,9 +3,9 @@ title: "Section 312 - Special pay: nuclear-qualified officers extending period o
 usc_title: 37
 usc_section: "312"
 chapter: 5
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "37 U.S.C. § 312"
-generated_at: "2026-03-30T00:03:47.200Z"
+generated_at: "2026-03-30T00:10:39.860Z"
 ---
 
 # § 312. Special pay: nuclear-qualified officers extending period of active service

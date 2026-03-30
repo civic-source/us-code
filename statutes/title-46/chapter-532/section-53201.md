@@ -3,9 +3,9 @@ title: "Section 53201 - Definitions"
 usc_title: 46
 usc_section: "53201"
 chapter: 532
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "46 U.S.C. § 53201"
-generated_at: "2026-03-30T00:04:28.370Z"
+generated_at: "2026-03-30T00:12:53.367Z"
 ---
 
 # § 53201. Definitions

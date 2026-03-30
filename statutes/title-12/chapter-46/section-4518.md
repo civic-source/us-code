@@ -3,9 +3,9 @@ title: "Section 4518 - Prohibition and withholding of executive compensation"
 usc_title: 12
 usc_section: "4518"
 chapter: 46
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "12 U.S.C. § 4518"
-generated_at: "2026-03-30T00:00:35.673Z"
+generated_at: "2026-03-30T00:07:40.277Z"
 ---
 
 # § 4518. Prohibition and withholding of executive compensation

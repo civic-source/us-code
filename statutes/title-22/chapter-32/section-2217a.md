@@ -3,9 +3,9 @@ title: "Section 2217a - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , O
 usc_title: 22
 usc_section: "2217a"
 chapter: 32
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "22 U.S.C. § 2217a"
-generated_at: "2026-03-30T00:02:50.210Z"
+generated_at: "2026-03-30T00:09:16.558Z"
 ---
 
 # §§ 2217, 2217a. Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oct. 6, 1978 , 92 Stat. 942

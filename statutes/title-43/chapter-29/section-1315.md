@@ -3,9 +3,9 @@ title: "Section 1315 - Rights acquired under laws of United States unaffected"
 usc_title: 43
 usc_section: "1315"
 chapter: 29
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "43 U.S.C. § 1315"
-generated_at: "2026-03-30T00:03:57.472Z"
+generated_at: "2026-03-30T00:11:08.898Z"
 ---
 
 # § 1315. Rights acquired under laws of United States unaffected

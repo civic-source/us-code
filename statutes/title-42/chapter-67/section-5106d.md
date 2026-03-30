@@ -3,9 +3,9 @@ title: "Section 5106d - Miscellaneous requirements relating to assistance"
 usc_title: 42
 usc_section: "5106d"
 chapter: 67
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 5106d"
-generated_at: "2026-03-30T00:04:20.815Z"
+generated_at: "2026-03-30T00:12:27.506Z"
 ---
 
 # § 5106d. Miscellaneous requirements relating to assistance

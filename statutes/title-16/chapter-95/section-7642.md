@@ -3,9 +3,9 @@ title: "Section 7642 - Anti-trafficking programs"
 usc_title: 16
 usc_section: "7642"
 chapter: 95
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "16 U.S.C. § 7642"
-generated_at: "2026-03-30T00:01:39.843Z"
+generated_at: "2026-03-30T00:08:38.088Z"
 ---
 
 # § 7642. Anti-trafficking programs

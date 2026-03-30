@@ -3,9 +3,9 @@ title: "Section 7772 - Heritage Center for the National Museum of the United Sta
 usc_title: 10
 usc_section: "7772"
 chapter: 779
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "10 U.S.C. § 7772"
-generated_at: "2026-03-29T23:59:56.223Z"
+generated_at: "2026-03-30T00:07:02.274Z"
 ---
 
 # § 7772. Heritage Center for the National Museum of the United States Army: development and operation

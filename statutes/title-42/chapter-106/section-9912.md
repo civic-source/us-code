@@ -3,9 +3,9 @@ title: "Section 9912 - Office of Community Services"
 usc_title: 42
 usc_section: "9912"
 chapter: 106
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 9912"
-generated_at: "2026-03-30T00:04:21.027Z"
+generated_at: "2026-03-30T00:12:27.666Z"
 ---
 
 # § 9912. Office of Community Services

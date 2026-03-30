@@ -3,9 +3,9 @@ title: "Section 3513 - Application"
 usc_title: 38
 usc_section: "3513"
 chapter: 35
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "38 U.S.C. § 3513"
-generated_at: "2026-03-30T00:03:51.277Z"
+generated_at: "2026-03-30T00:10:20.900Z"
 ---
 
 # § 3513. Application

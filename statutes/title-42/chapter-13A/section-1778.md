@@ -3,9 +3,9 @@ title: "Section 1778 - Nonprofit programs"
 usc_title: 42
 usc_section: "1778"
 chapter: 13
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "42 U.S.C. § 1778"
-generated_at: "2026-03-30T00:04:20.680Z"
+generated_at: "2026-03-30T00:12:27.402Z"
 ---
 
 # § 1778. Nonprofit programs

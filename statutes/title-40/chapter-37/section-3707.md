@@ -3,9 +3,9 @@ title: "Section 3707 - Contractor certification or contract clause in acquisitio
 usc_title: 40
 usc_section: "3707"
 chapter: 37
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "40 U.S.C. § 3707"
-generated_at: "2026-03-30T00:03:48.153Z"
+generated_at: "2026-03-30T00:10:21.713Z"
 ---
 
 # § 3707. Contractor certification or contract clause in acquisition of commercial items not required

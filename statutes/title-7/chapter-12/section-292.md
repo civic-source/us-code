@@ -3,9 +3,9 @@ title: "Section 292 - Monopolizing or restraining trade and unduly enhancing pri
 usc_title: 7
 usc_section: "292"
 chapter: 12
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "7 U.S.C. § 292"
-generated_at: "2026-03-30T00:00:03.437Z"
+generated_at: "2026-03-30T00:07:16.226Z"
 ---
 
 # § 292. Monopolizing or restraining trade and unduly enhancing prices prohibited; remedy and procedure

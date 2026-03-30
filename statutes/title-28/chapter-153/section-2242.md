@@ -3,9 +3,9 @@ title: "Section 2242 - Application"
 usc_title: 28
 usc_section: "2242"
 chapter: 153
-current_through: "PL 118-6"
+current_through: "PL 118-9"
 classification: "28 U.S.C. § 2242"
-generated_at: "2026-03-30T00:02:54.287Z"
+generated_at: "2026-03-30T00:09:50.193Z"
 ---
 
 # § 2242. Application
