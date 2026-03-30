@@ -3,9 +3,9 @@ title: "Section 938 - Miners suffering from pneumoconiosis; discrimination prohi
 usc_title: 30
 usc_section: "938"
 chapter: 22
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "30 U.S.C. § 938"
-generated_at: "2026-03-30T08:26:09.193Z"
+generated_at: "2026-03-30T08:30:23.196Z"
 status: "active"
 ---
 

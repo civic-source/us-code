@@ -3,9 +3,9 @@ title: "Section 1012 - Disbursement and accounting: pay of enlisted members of t
 usc_title: 37
 usc_section: "1012"
 chapter: 19
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "37 U.S.C. § 1012"
-generated_at: "2026-03-30T08:27:10.798Z"
+generated_at: "2026-03-30T08:31:21.637Z"
 status: "active"
 ---
 

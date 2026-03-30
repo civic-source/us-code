@@ -3,9 +3,9 @@ title: "Section 46 - Amount of credit"
 usc_title: 26
 usc_section: "46"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 46"
-generated_at: "2026-03-30T08:26:53.680Z"
+generated_at: "2026-03-30T08:30:54.681Z"
 status: "active"
 ---
 

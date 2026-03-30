@@ -3,9 +3,9 @@ title: "Section 16927 - Transferred"
 usc_title: 42
 usc_section: "16927"
 chapter: 151
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 16927"
-generated_at: "2026-03-30T08:27:43.611Z"
+generated_at: "2026-03-30T08:31:59.886Z"
 status: "transferred"
 ---
 

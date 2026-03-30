@@ -3,9 +3,9 @@ title: "Section 718q - State application"
 usc_title: 16
 usc_section: "718q"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 718q"
-generated_at: "2026-03-30T08:25:26.593Z"
+generated_at: "2026-03-30T08:29:45.572Z"
 status: "active"
 ---
 

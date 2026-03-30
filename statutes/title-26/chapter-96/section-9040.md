@@ -3,9 +3,9 @@ title: "Section 9040 - Participation by Commission in judicial proceedings"
 usc_title: 26
 usc_section: "9040"
 chapter: 96
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 9040"
-generated_at: "2026-03-30T08:26:53.891Z"
+generated_at: "2026-03-30T08:30:54.931Z"
 status: "active"
 ---
 

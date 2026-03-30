@@ -3,9 +3,9 @@ title: "Section 472 - Installments on entries or applications made after August 
 usc_title: 43
 usc_section: "472"
 chapter: 12
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 472"
-generated_at: "2026-03-30T08:27:17.603Z"
+generated_at: "2026-03-30T08:31:39.041Z"
 status: "active"
 ---
 

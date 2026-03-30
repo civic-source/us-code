@@ -3,9 +3,9 @@ title: "Section 42302 - Investigations"
 usc_title: 46
 usc_section: "42302"
 chapter: 423
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "46 U.S.C. § 42302"
-generated_at: "2026-03-30T08:27:51.139Z"
+generated_at: "2026-03-30T08:32:03.300Z"
 status: "active"
 ---
 

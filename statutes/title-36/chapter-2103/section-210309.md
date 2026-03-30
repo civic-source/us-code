@@ -3,9 +3,9 @@ title: "Section 210309 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "210309"
 chapter: 2103
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "36 U.S.C. § 210309"
-generated_at: "2026-03-30T08:27:10.428Z"
+generated_at: "2026-03-30T08:31:26.677Z"
 status: "active"
 ---
 

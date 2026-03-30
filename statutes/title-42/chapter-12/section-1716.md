@@ -3,9 +3,9 @@ title: "Section 1716 - Presumption of death or detention"
 usc_title: 42
 usc_section: "1716"
 chapter: 12
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 1716"
-generated_at: "2026-03-30T08:27:43.294Z"
+generated_at: "2026-03-30T08:31:59.568Z"
 status: "active"
 ---
 

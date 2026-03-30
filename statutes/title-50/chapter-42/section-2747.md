@@ -3,9 +3,9 @@ title: "Section 2747 - Authority for emergency planning, design, and constructio
 usc_title: 50
 usc_section: "2747"
 chapter: 42
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "50 U.S.C. § 2747"
-generated_at: "2026-03-30T08:27:47.703Z"
+generated_at: "2026-03-30T08:32:04.888Z"
 status: "active"
 ---
 

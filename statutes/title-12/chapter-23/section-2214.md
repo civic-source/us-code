@@ -3,9 +3,9 @@ title: "Section 2214 - State laws"
 usc_title: 12
 usc_section: "2214"
 chapter: 23
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "12 U.S.C. § 2214"
-generated_at: "2026-03-30T08:25:12.570Z"
+generated_at: "2026-03-30T08:29:34.759Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5134 - Sale of land by individual Indian owners"
 usc_title: 25
 usc_section: "5134"
 chapter: 45
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 5134"
-generated_at: "2026-03-30T08:25:51.251Z"
+generated_at: "2026-03-30T08:30:03.863Z"
 status: "active"
 ---
 

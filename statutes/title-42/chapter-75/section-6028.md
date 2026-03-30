@@ -3,9 +3,9 @@ title: "Section 6028 - Repealed. Pub. L. 103–230, title II, § 210 , Apr. 6, 1
 usc_title: 42
 usc_section: "6028"
 chapter: 75
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 6028"
-generated_at: "2026-03-30T08:27:43.408Z"
+generated_at: "2026-03-30T08:31:59.680Z"
 status: "repealed"
 ---
 

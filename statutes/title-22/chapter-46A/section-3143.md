@@ -3,9 +3,9 @@ title: "Section 3143 - Reports by Government Accountability Office"
 usc_title: 22
 usc_section: "3143"
 chapter: 46
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 3143"
-generated_at: "2026-03-30T08:26:04.046Z"
+generated_at: "2026-03-30T08:30:06.716Z"
 status: "active"
 ---
 

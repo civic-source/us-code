@@ -3,9 +3,9 @@ title: "Section 705 - Repealed. Pub. L. 99–145, title VI, § 683(b)(1) , Nov. 
 usc_title: 37
 usc_section: "705"
 chapter: 13
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "37 U.S.C. § 705"
-generated_at: "2026-03-30T08:27:10.797Z"
+generated_at: "2026-03-30T08:31:21.636Z"
 status: "repealed"
 ---
 

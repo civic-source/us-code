@@ -3,9 +3,9 @@ title: "Section 1511 - Interest subsidies; rules and regulations"
 usc_title: 25
 usc_section: "1511"
 chapter: 17
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 1511"
-generated_at: "2026-03-30T08:25:51.211Z"
+generated_at: "2026-03-30T08:30:03.824Z"
 status: "active"
 ---
 

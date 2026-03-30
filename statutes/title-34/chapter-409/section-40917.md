@@ -3,9 +3,9 @@ title: "Section 40917 - Implementation plan"
 usc_title: 34
 usc_section: "40917"
 chapter: 409
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 40917"
-generated_at: "2026-03-30T08:27:01.990Z"
+generated_at: "2026-03-30T08:30:58.955Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Terms of court"
 usc_title: 28
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "28 U.S.C. § 2"
-generated_at: "2026-03-30T08:26:07.256Z"
+generated_at: "2026-03-30T08:30:33.881Z"
 status: "active"
 ---
 

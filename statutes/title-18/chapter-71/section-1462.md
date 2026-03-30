@@ -3,9 +3,9 @@ title: "Section 1462 - Importation or transportation of obscene matters"
 usc_title: 18
 usc_section: "1462"
 chapter: 71
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "18 U.S.C. § 1462"
-generated_at: "2026-03-30T08:25:20.629Z"
+generated_at: "2026-03-30T08:29:55.449Z"
 status: "active"
 ---
 

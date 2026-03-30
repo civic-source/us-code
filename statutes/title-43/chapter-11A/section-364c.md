@@ -3,9 +3,9 @@ title: "Section 364c - Studies, investigations, and records; staff assistance; a
 usc_title: 43
 usc_section: "364c"
 chapter: 11
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 364c"
-generated_at: "2026-03-30T08:27:17.595Z"
+generated_at: "2026-03-30T08:31:39.033Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2295 - Acquisition of nuclear materials"
 usc_title: 42
 usc_section: "2295"
 chapter: 23
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 2295"
-generated_at: "2026-03-30T08:27:43.339Z"
+generated_at: "2026-03-30T08:31:59.613Z"
 status: "active"
 ---
 

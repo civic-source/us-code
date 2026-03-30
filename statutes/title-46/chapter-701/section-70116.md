@@ -3,9 +3,9 @@ title: "Section 70116 - Port, harbor, and coastal facility security"
 usc_title: 46
 usc_section: "70116"
 chapter: 701
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "46 U.S.C. § 70116"
-generated_at: "2026-03-30T08:27:51.154Z"
+generated_at: "2026-03-30T08:32:03.315Z"
 status: "active"
 ---
 

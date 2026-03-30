@@ -3,9 +3,9 @@ title: "Section 1693h - Liability of financial institutions"
 usc_title: 15
 usc_section: "1693h"
 chapter: 41
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 1693h"
-generated_at: "2026-03-30T08:25:15.843Z"
+generated_at: "2026-03-30T08:29:19.518Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6363 - Allotment of appropriated funds"
 usc_title: 20
 usc_section: "6363"
 chapter: 70
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 6363"
-generated_at: "2026-03-30T08:25:28.996Z"
+generated_at: "2026-03-30T08:30:00.578Z"
 status: "active"
 ---
 

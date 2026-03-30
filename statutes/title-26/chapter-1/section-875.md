@@ -3,9 +3,9 @@ title: "Section 875 - Partnerships; beneficiaries of estates and trusts"
 usc_title: 26
 usc_section: "875"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 875"
-generated_at: "2026-03-30T08:26:53.777Z"
+generated_at: "2026-03-30T08:30:54.794Z"
 status: "active"
 ---
 

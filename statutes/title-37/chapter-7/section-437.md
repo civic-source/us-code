@@ -3,9 +3,9 @@ title: "Section 437 - Allowance to cover monthly premiums for Servicemembers’ 
 usc_title: 37
 usc_section: "437"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "37 U.S.C. § 437"
-generated_at: "2026-03-30T08:27:10.793Z"
+generated_at: "2026-03-30T08:31:21.631Z"
 status: "active"
 ---
 

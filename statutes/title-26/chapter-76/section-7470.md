@@ -3,9 +3,9 @@ title: "Section 7470 - Administration"
 usc_title: 26
 usc_section: "7470"
 chapter: 76
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 7470"
-generated_at: "2026-03-30T08:26:53.879Z"
+generated_at: "2026-03-30T08:30:54.917Z"
 status: "active"
 ---
 

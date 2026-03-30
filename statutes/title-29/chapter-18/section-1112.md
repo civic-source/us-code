@@ -3,9 +3,9 @@ title: "Section 1112 - Bonding"
 usc_title: 29
 usc_section: "1112"
 chapter: 18
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 1112"
-generated_at: "2026-03-30T08:26:15.432Z"
+generated_at: "2026-03-30T08:30:39.418Z"
 status: "active"
 ---
 

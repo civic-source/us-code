@@ -3,9 +3,9 @@ title: "Section 1762 - Repealed. Pub. L. 101–147, title III, § 308 , Nov. 10,
 usc_title: 42
 usc_section: "1762"
 chapter: 13
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 1762"
-generated_at: "2026-03-30T08:27:43.298Z"
+generated_at: "2026-03-30T08:31:59.572Z"
 status: "repealed"
 ---
 

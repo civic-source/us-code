@@ -3,9 +3,9 @@ title: "Section 3685 - Overpayments to eligible persons or veterans"
 usc_title: 38
 usc_section: "3685"
 chapter: 36
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "38 U.S.C. § 3685"
-generated_at: "2026-03-30T08:27:15.028Z"
+generated_at: "2026-03-30T08:31:35.528Z"
 status: "active"
 ---
 

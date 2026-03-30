@@ -3,9 +3,9 @@ title: "Section 1396v - References to laws directly affecting medicaid program"
 usc_title: 42
 usc_section: "1396v"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 1396v"
-generated_at: "2026-03-30T08:27:43.258Z"
+generated_at: "2026-03-30T08:31:59.532Z"
 status: "active"
 ---
 

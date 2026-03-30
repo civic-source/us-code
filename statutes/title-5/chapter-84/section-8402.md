@@ -3,9 +3,9 @@ title: "Section 8402 - Federal Employees’ Retirement System; exclusions"
 usc_title: 5
 usc_section: "8402"
 chapter: 84
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "5 U.S.C. § 8402"
-generated_at: "2026-03-30T08:24:32.102Z"
+generated_at: "2026-03-30T08:28:34.322Z"
 status: "active"
 ---
 

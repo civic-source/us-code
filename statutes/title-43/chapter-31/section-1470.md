@@ -3,9 +3,9 @@ title: "Section 1470 - Appropriations; availability for certain administrative e
 usc_title: 43
 usc_section: "1470"
 chapter: 31
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 1470"
-generated_at: "2026-03-30T08:27:17.622Z"
+generated_at: "2026-03-30T08:31:39.060Z"
 status: "active"
 ---
 

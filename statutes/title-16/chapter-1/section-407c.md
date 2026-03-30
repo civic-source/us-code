@@ -3,9 +3,9 @@ title: "Section 407c - Repealed. Pub. L. 88–249, § 5 , Dec. 30, 1963 , 77 Sta
 usc_title: 16
 usc_section: "407c"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 407c"
-generated_at: "2026-03-30T08:25:26.497Z"
+generated_at: "2026-03-30T08:29:45.483Z"
 status: "repealed"
 ---
 

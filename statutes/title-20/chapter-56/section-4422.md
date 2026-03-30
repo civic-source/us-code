@@ -3,9 +3,9 @@ title: "Section 4422 - Reports"
 usc_title: 20
 usc_section: "4422"
 chapter: 56
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 4422"
-generated_at: "2026-03-30T08:25:28.985Z"
+generated_at: "2026-03-30T08:30:00.567Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2105 - Rank of warrant officers"
 usc_title: 14
 usc_section: "2105"
 chapter: 21
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "14 U.S.C. § 2105"
-generated_at: "2026-03-30T08:25:05.795Z"
+generated_at: "2026-03-30T08:29:11.766Z"
 status: "active"
 ---
 

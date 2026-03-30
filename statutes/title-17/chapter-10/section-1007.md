@@ -3,9 +3,9 @@ title: "Section 1007 - Procedures for distributing royalty payments"
 usc_title: 17
 usc_section: "1007"
 chapter: 10
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "17 U.S.C. § 1007"
-generated_at: "2026-03-30T08:25:17.777Z"
+generated_at: "2026-03-30T08:29:49.130Z"
 status: "active"
 ---
 

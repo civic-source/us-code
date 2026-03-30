@@ -3,9 +3,9 @@ title: "Section 22506 - Restrictions"
 usc_title: 36
 usc_section: "22506"
 chapter: 225
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "36 U.S.C. § 22506"
-generated_at: "2026-03-30T08:27:10.415Z"
+generated_at: "2026-03-30T08:31:26.663Z"
 status: "active"
 ---
 

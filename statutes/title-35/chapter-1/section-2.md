@@ -3,9 +3,9 @@ title: "Section 2 - Powers and duties"
 usc_title: 35
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "35 U.S.C. § 2"
-generated_at: "2026-03-30T08:26:59.583Z"
+generated_at: "2026-03-30T08:30:59.874Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 671 - Establishment; Associate Administrator; appointment and co
 usc_title: 15
 usc_section: "671"
 chapter: 14
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 671"
-generated_at: "2026-03-30T08:25:15.796Z"
+generated_at: "2026-03-30T08:29:19.475Z"
 status: "active"
 ---
 

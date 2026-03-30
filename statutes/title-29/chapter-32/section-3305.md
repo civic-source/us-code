@@ -3,9 +3,9 @@ title: "Section 3305 - Programs for corrections education and other institutiona
 usc_title: 29
 usc_section: "3305"
 chapter: 32
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 3305"
-generated_at: "2026-03-30T08:26:15.466Z"
+generated_at: "2026-03-30T08:30:39.453Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1962c - Authorization of appropriations; coordination of related
 usc_title: 42
 usc_section: "1962c"
 chapter: 19
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 1962c"
-generated_at: "2026-03-30T08:27:43.314Z"
+generated_at: "2026-03-30T08:31:59.588Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7443 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "7443"
 chapter: 101
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "7 U.S.C. § 7443"
-generated_at: "2026-03-30T08:24:54.047Z"
+generated_at: "2026-03-30T08:28:41.863Z"
 status: "active"
 ---
 

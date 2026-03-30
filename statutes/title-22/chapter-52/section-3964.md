@@ -3,9 +3,9 @@ title: "Section 3964 - Assignments to salary class"
 usc_title: 22
 usc_section: "3964"
 chapter: 52
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 3964"
-generated_at: "2026-03-30T08:26:04.053Z"
+generated_at: "2026-03-30T08:30:06.724Z"
 status: "active"
 ---
 

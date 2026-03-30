@@ -3,9 +3,9 @@ title: "Section 1588 - Transportation between American ports via foreign ports"
 usc_title: 19
 usc_section: "1588"
 chapter: 4
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "19 U.S.C. § 1588"
-generated_at: "2026-03-30T08:25:37.446Z"
+generated_at: "2026-03-30T08:29:57.437Z"
 status: "active"
 ---
 

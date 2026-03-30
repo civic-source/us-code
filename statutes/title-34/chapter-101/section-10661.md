@@ -3,9 +3,9 @@ title: "Section 10661 - Authority to make grants to address public safety and me
 usc_title: 34
 usc_section: "10661"
 chapter: 101
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 10661"
-generated_at: "2026-03-30T08:27:01.957Z"
+generated_at: "2026-03-30T08:30:58.915Z"
 status: "active"
 ---
 

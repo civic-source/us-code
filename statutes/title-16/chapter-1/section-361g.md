@@ -3,9 +3,9 @@ title: "Section 361g - Modification of park boundary"
 usc_title: 16
 usc_section: "361g"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 361g"
-generated_at: "2026-03-30T08:25:26.493Z"
+generated_at: "2026-03-30T08:29:45.479Z"
 status: "active"
 ---
 

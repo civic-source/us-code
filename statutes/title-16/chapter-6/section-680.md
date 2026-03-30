@@ -3,9 +3,9 @@ title: "Section 680 - Game animal and bird refuge in South Dakota; establishment
 usc_title: 16
 usc_section: "680"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 680"
-generated_at: "2026-03-30T08:25:26.588Z"
+generated_at: "2026-03-30T08:29:45.566Z"
 status: "active"
 ---
 

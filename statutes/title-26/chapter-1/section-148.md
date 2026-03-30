@@ -3,9 +3,9 @@ title: "Section 148 - Arbitrage"
 usc_title: 26
 usc_section: "148"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 148"
-generated_at: "2026-03-30T08:26:53.699Z"
+generated_at: "2026-03-30T08:30:54.702Z"
 status: "active"
 ---
 

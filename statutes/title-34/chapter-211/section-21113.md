@@ -3,9 +3,9 @@ title: "Section 21113 - Purpose of ICAC task forces"
 usc_title: 34
 usc_section: "21113"
 chapter: 211
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 21113"
-generated_at: "2026-03-30T08:27:01.982Z"
+generated_at: "2026-03-30T08:30:58.945Z"
 status: "active"
 ---
 

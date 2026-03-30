@@ -3,9 +3,9 @@ title: "Section 1355 - Prohibition on use of funds for portraits"
 usc_title: 31
 usc_section: "1355"
 chapter: 13
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "31 U.S.C. § 1355"
-generated_at: "2026-03-30T08:27:04.213Z"
+generated_at: "2026-03-30T08:31:01.096Z"
 status: "active"
 ---
 

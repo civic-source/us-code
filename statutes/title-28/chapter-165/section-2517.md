@@ -3,9 +3,9 @@ title: "Section 2517 - Payment of judgments"
 usc_title: 28
 usc_section: "2517"
 chapter: 165
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "28 U.S.C. § 2517"
-generated_at: "2026-03-30T08:26:07.288Z"
+generated_at: "2026-03-30T08:30:33.908Z"
 status: "active"
 ---
 

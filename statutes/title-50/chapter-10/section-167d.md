@@ -3,9 +3,9 @@ title: "Section 167d - Sale of crude helium"
 usc_title: 50
 usc_section: "167d"
 chapter: 10
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "50 U.S.C. § 167d"
-generated_at: "2026-03-30T08:27:47.674Z"
+generated_at: "2026-03-30T08:32:04.858Z"
 status: "active"
 ---
 

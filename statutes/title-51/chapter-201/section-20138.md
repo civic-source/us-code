@@ -3,9 +3,9 @@ title: "Section 20138 - Insurance and indemnification"
 usc_title: 51
 usc_section: "20138"
 chapter: 201
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "51 U.S.C. § 20138"
-generated_at: "2026-03-30T08:27:52.852Z"
+generated_at: "2026-03-30T08:32:10.337Z"
 status: "active"
 ---
 

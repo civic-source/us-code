@@ -3,9 +3,9 @@ title: "Section 261 - Ownership; assignment"
 usc_title: 35
 usc_section: "261"
 chapter: 26
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "35 U.S.C. § 261"
-generated_at: "2026-03-30T08:26:59.588Z"
+generated_at: "2026-03-30T08:30:59.879Z"
 status: "active"
 ---
 

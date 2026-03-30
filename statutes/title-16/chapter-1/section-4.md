@@ -3,9 +3,9 @@ title: "Section 4 - Transfer of administrative jurisdiction"
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T08:25:26.559Z"
+generated_at: "2026-03-30T08:29:45.540Z"
 status: "active"
 ---
 

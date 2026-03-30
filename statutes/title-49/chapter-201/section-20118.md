@@ -3,9 +3,9 @@ title: "Section 20118 - Prohibition on public disclosure of railroad safety anal
 usc_title: 49
 usc_section: "20118"
 chapter: 201
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "49 U.S.C. § 20118"
-generated_at: "2026-03-30T08:27:49.560Z"
+generated_at: "2026-03-30T08:32:08.110Z"
 status: "active"
 ---
 

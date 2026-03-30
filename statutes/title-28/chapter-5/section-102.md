@@ -3,9 +3,9 @@ title: "Section 102 - Michigan"
 usc_title: 28
 usc_section: "102"
 chapter: 5
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "28 U.S.C. § 102"
-generated_at: "2026-03-30T08:26:07.258Z"
+generated_at: "2026-03-30T08:30:33.883Z"
 status: "active"
 ---
 

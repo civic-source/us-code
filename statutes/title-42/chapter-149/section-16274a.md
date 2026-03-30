@@ -3,9 +3,9 @@ title: "Section 16274a - Integrated University Program"
 usc_title: 42
 usc_section: "16274a"
 chapter: 149
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 16274a"
-generated_at: "2026-03-30T08:27:43.604Z"
+generated_at: "2026-03-30T08:31:59.878Z"
 status: "active"
 ---
 

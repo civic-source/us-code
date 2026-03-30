@@ -3,9 +3,9 @@ title: "Section 47502 - Noise measurement and exposure systems and identifying l
 usc_title: 49
 usc_section: "47502"
 chapter: 475
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "49 U.S.C. § 47502"
-generated_at: "2026-03-30T08:27:49.611Z"
+generated_at: "2026-03-30T08:32:08.174Z"
 status: "active"
 ---
 

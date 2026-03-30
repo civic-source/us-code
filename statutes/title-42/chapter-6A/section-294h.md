@@ -3,9 +3,9 @@ title: "Section 294h - Repealed. Pub. L. 113–4, title V, § 501(b)(2) , Mar. 7
 usc_title: 42
 usc_section: "294h"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 294h"
-generated_at: "2026-03-30T08:27:43.033Z"
+generated_at: "2026-03-30T08:31:59.305Z"
 status: "repealed"
 ---
 

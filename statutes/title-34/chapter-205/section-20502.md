@@ -3,9 +3,9 @@ title: "Section 20502 - Minimum standards for issuance and dissemination of aler
 usc_title: 34
 usc_section: "20502"
 chapter: 205
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 20502"
-generated_at: "2026-03-30T08:27:01.977Z"
+generated_at: "2026-03-30T08:30:58.940Z"
 status: "active"
 ---
 

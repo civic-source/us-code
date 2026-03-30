@@ -3,9 +3,9 @@ title: "Section 6166A - Repealed. Pub. L. 97–34, title IV, § 422(d) , Aug. 13
 usc_title: 26
 usc_section: "6166A"
 chapter: 62
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 6166A"
-generated_at: "2026-03-30T08:26:53.859Z"
+generated_at: "2026-03-30T08:30:54.892Z"
 status: "repealed"
 ---
 

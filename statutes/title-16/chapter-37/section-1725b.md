@@ -3,9 +3,9 @@ title: "Section 1725b - Forest Service hire authority"
 usc_title: 16
 usc_section: "1725b"
 chapter: 37
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 1725b"
-generated_at: "2026-03-30T08:25:26.648Z"
+generated_at: "2026-03-30T08:29:45.624Z"
 status: "active"
 ---
 

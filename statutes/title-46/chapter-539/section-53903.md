@@ -3,9 +3,9 @@ title: "Section 53903 - Insurable interests"
 usc_title: 46
 usc_section: "53903"
 chapter: 539
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "46 U.S.C. § 53903"
-generated_at: "2026-03-30T08:27:51.147Z"
+generated_at: "2026-03-30T08:32:03.307Z"
 status: "active"
 ---
 

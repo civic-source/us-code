@@ -3,9 +3,9 @@ title: "Section 687b - Investigations and examinations; power to subpena and tak
 usc_title: 15
 usc_section: "687b"
 chapter: 14
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 687b"
-generated_at: "2026-03-30T08:25:15.798Z"
+generated_at: "2026-03-30T08:29:19.476Z"
 status: "active"
 ---
 

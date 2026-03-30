@@ -3,9 +3,9 @@ title: "Section 3873 - Exemption from Metric Conversion Act of 1975"
 usc_title: 22
 usc_section: "3873"
 chapter: 51
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 3873"
-generated_at: "2026-03-30T08:26:04.052Z"
+generated_at: "2026-03-30T08:30:06.723Z"
 status: "active"
 ---
 

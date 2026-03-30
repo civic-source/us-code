@@ -3,9 +3,9 @@ title: "Section 562 - Appraisal and sale of town lots"
 usc_title: 43
 usc_section: "562"
 chapter: 12
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 562"
-generated_at: "2026-03-30T08:27:17.606Z"
+generated_at: "2026-03-30T08:31:39.044Z"
 status: "active"
 ---
 

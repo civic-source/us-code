@@ -3,9 +3,9 @@ title: "Section 8943 - Supplies: military instruction camps"
 usc_title: 10
 usc_section: "8943"
 chapter: 895
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "10 U.S.C. § 8943"
-generated_at: "2026-03-30T08:24:43.840Z"
+generated_at: "2026-03-30T08:29:03.590Z"
 status: "active"
 ---
 

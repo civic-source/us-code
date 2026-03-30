@@ -3,9 +3,9 @@ title: "Section 13317 - Renewable energy production incentive"
 usc_title: 42
 usc_section: "13317"
 chapter: 134
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 13317"
-generated_at: "2026-03-30T08:27:43.578Z"
+generated_at: "2026-03-30T08:31:59.852Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 427g - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674"
 usc_title: 7
 usc_section: "427g"
 chapter: 17
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "7 U.S.C. § 427g"
-generated_at: "2026-03-30T08:24:53.919Z"
+generated_at: "2026-03-30T08:28:41.734Z"
 status: "repealed"
 ---
 

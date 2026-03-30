@@ -3,9 +3,9 @@ title: "Section 181 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "181"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 181"
-generated_at: "2026-03-30T08:27:17.592Z"
+generated_at: "2026-03-30T08:31:39.030Z"
 status: "repealed"
 ---
 

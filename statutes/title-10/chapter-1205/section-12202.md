@@ -3,9 +3,9 @@ title: "Section 12202 - Commissioned officer grades"
 usc_title: 10
 usc_section: "12202"
 chapter: 1205
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "10 U.S.C. § 12202"
-generated_at: "2026-03-30T08:24:43.850Z"
+generated_at: "2026-03-30T08:29:03.601Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2292e - Transferred"
 usc_title: 22
 usc_section: "2292e"
 chapter: 32
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 2292e"
-generated_at: "2026-03-30T08:26:04.018Z"
+generated_at: "2026-03-30T08:30:06.687Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 577g - Payment for additional lands acquired in northern Minneso
 usc_title: 16
 usc_section: "577g"
 chapter: 3
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 577g"
-generated_at: "2026-03-30T08:25:26.576Z"
+generated_at: "2026-03-30T08:29:45.557Z"
 status: "active"
 ---
 

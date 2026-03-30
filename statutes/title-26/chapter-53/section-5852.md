@@ -3,9 +3,9 @@ title: "Section 5852 - General transfer and making tax exemption"
 usc_title: 26
 usc_section: "5852"
 chapter: 53
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 5852"
-generated_at: "2026-03-30T08:26:53.846Z"
+generated_at: "2026-03-30T08:30:54.875Z"
 status: "active"
 ---
 

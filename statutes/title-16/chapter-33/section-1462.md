@@ -3,9 +3,9 @@ title: "Section 1462 - Coastal zone management reports"
 usc_title: 16
 usc_section: "1462"
 chapter: 33
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 1462"
-generated_at: "2026-03-30T08:25:26.642Z"
+generated_at: "2026-03-30T08:29:45.618Z"
 status: "active"
 ---
 

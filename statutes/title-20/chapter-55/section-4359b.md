@@ -3,9 +3,9 @@ title: "Section 4359b - Research priorities"
 usc_title: 20
 usc_section: "4359b"
 chapter: 55
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 4359b"
-generated_at: "2026-03-30T08:25:28.984Z"
+generated_at: "2026-03-30T08:30:00.566Z"
 status: "active"
 ---
 

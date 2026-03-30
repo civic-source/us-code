@@ -3,9 +3,9 @@ title: "Section 4612 - Repealed. Pub. L. 100–297, title I, § 1003(e) , Apr. 2
 usc_title: 20
 usc_section: "4612"
 chapter: 58
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 4612"
-generated_at: "2026-03-30T08:25:28.985Z"
+generated_at: "2026-03-30T08:30:00.568Z"
 status: "repealed"
 ---
 

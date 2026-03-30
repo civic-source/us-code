@@ -3,9 +3,9 @@ title: "Section 430rr - Change in name to Fort Necessity National Battlefield"
 usc_title: 16
 usc_section: "430rr"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 430rr"
-generated_at: "2026-03-30T08:25:26.523Z"
+generated_at: "2026-03-30T08:29:45.506Z"
 status: "active"
 ---
 

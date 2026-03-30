@@ -3,9 +3,9 @@ title: "Section 970 - Noncontainerized cargo"
 usc_title: 6
 usc_section: "970"
 chapter: 3
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "6 U.S.C. § 970"
-generated_at: "2026-03-30T08:24:36.190Z"
+generated_at: "2026-03-30T08:28:56.798Z"
 status: "active"
 ---
 

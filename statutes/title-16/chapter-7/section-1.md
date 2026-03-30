@@ -3,9 +3,9 @@ title: "Section 1 - Definition of State"
 usc_title: 16
 usc_section: "1"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:25:26.593Z"
+generated_at: "2026-03-30T08:29:45.572Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10334 - Review of applications"
 usc_title: 34
 usc_section: "10334"
 chapter: 101
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 10334"
-generated_at: "2026-03-30T08:27:01.948Z"
+generated_at: "2026-03-30T08:30:58.905Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3320 - Edith Nourse Rogers STEM Scholarship"
 usc_title: 38
 usc_section: "3320"
 chapter: 33
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "38 U.S.C. § 3320"
-generated_at: "2026-03-30T08:27:15.024Z"
+generated_at: "2026-03-30T08:31:35.524Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** who applies for assistance under this section; and
   - **(4)** who—
     - **(A)** is an individual who—
-      - **(i)** is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires more than the standard 128 semester (or 192 quarter) credit hours for completion in a standard, undergraduate college degree in—
+      - **(i)** is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree in—
         - **(I)** biological or biomedical science;
         - **(II)** physical science;
         - **(III)** science technologies or technicians;

@@ -3,9 +3,9 @@ title: "Section 30902 - Purposes"
 usc_title: 36
 usc_section: "30902"
 chapter: 309
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "36 U.S.C. § 30902"
-generated_at: "2026-03-30T08:27:10.416Z"
+generated_at: "2026-03-30T08:31:26.665Z"
 status: "active"
 ---
 

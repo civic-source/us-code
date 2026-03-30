@@ -3,9 +3,9 @@ title: "Section 9524 - Imposition of sanctions with respect to activities of the
 usc_title: 22
 usc_section: "9524"
 chapter: 102
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 9524"
-generated_at: "2026-03-30T08:26:04.113Z"
+generated_at: "2026-03-30T08:30:06.785Z"
 status: "active"
 ---
 

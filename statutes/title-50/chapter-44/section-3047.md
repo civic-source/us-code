@@ -3,9 +3,9 @@ title: "Section 3047 - Restrictions on intelligence sharing with United Nations"
 usc_title: 50
 usc_section: "3047"
 chapter: 44
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "50 U.S.C. § 3047"
-generated_at: "2026-03-30T08:27:47.708Z"
+generated_at: "2026-03-30T08:32:04.894Z"
 status: "active"
 ---
 

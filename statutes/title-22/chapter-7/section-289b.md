@@ -3,9 +3,9 @@ title: "Section 289b - Authorization of appropriations; payment of salaries and 
 usc_title: 22
 usc_section: "289b"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 289b"
-generated_at: "2026-03-30T08:26:03.989Z"
+generated_at: "2026-03-30T08:30:06.659Z"
 status: "active"
 ---
 

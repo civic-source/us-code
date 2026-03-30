@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 92–152, § 3 , Nov. 5, 1971 , 85 Stat. 4
 usc_title: 21
 usc_section: "6"
 chapter: 4
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "21 U.S.C. § 6"
-generated_at: "2026-03-30T08:26:01.014Z"
+generated_at: "2026-03-30T08:30:20.506Z"
 status: "repealed"
 ---
 

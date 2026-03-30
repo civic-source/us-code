@@ -3,9 +3,9 @@ title: "Section 506 - Assignment and detail of members of Regular Army or Regula
 usc_title: 32
 usc_section: "506"
 chapter: 5
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "32 U.S.C. § 506"
-generated_at: "2026-03-30T08:27:02.426Z"
+generated_at: "2026-03-30T08:31:01.601Z"
 status: "active"
 ---
 

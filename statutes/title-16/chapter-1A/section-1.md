@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:25:26.560Z"
+generated_at: "2026-03-30T08:29:45.541Z"
 status: "repealed"
 ---
 

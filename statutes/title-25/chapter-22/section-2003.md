@@ -3,9 +3,9 @@ title: "Section 2003 - Codification of regulations"
 usc_title: 25
 usc_section: "2003"
 chapter: 22
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 2003"
-generated_at: "2026-03-30T08:25:51.225Z"
+generated_at: "2026-03-30T08:30:03.837Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5309 - Payment of certain withheld benefits"
 usc_title: 38
 usc_section: "5309"
 chapter: 53
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "38 U.S.C. § 5309"
-generated_at: "2026-03-30T08:27:15.037Z"
+generated_at: "2026-03-30T08:31:35.538Z"
 status: "active"
 ---
 

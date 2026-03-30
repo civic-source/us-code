@@ -3,9 +3,9 @@ title: "Section 714 - Printing documents for Congress in two or more editions; p
 usc_title: 44
 usc_section: "714"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "44 U.S.C. § 714"
-generated_at: "2026-03-30T08:27:18.105Z"
+generated_at: "2026-03-30T08:31:40.667Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4243 - Repealed. Pub. L. 107–111, § 6(a)(3) , Jan. 8, 2002 , 
 usc_title: 16
 usc_section: "4243"
 chapter: 62
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 4243"
-generated_at: "2026-03-30T08:25:26.685Z"
+generated_at: "2026-03-30T08:29:45.661Z"
 status: "repealed"
 ---
 

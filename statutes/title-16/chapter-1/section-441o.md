@@ -3,9 +3,9 @@ title: "Section 441o - Facilities for interpretation of park and history of Siou
 usc_title: 16
 usc_section: "441o"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 441o"
-generated_at: "2026-03-30T08:25:26.524Z"
+generated_at: "2026-03-30T08:29:45.507Z"
 status: "active"
 ---
 

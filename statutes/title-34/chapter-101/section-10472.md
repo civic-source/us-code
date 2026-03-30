@@ -3,9 +3,9 @@ title: "Section 10472 - Definitions"
 usc_title: 34
 usc_section: "10472"
 chapter: 101
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 10472"
-generated_at: "2026-03-30T08:27:01.951Z"
+generated_at: "2026-03-30T08:30:58.910Z"
 status: "active"
 ---
 

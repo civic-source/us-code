@@ -3,9 +3,9 @@ title: "Section 657 - Distribution of collected support"
 usc_title: 42
 usc_section: "657"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 657"
-generated_at: "2026-03-30T08:27:43.118Z"
+generated_at: "2026-03-30T08:31:59.392Z"
 status: "active"
 ---
 

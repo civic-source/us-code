@@ -3,9 +3,9 @@ title: "Section 40502 - Eligibility"
 usc_title: 34
 usc_section: "40502"
 chapter: 405
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 40502"
-generated_at: "2026-03-30T08:27:01.988Z"
+generated_at: "2026-03-30T08:30:58.952Z"
 status: "active"
 ---
 

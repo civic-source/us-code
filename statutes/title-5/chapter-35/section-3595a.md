@@ -3,9 +3,9 @@ title: "Section 3595a - Furlough in the Senior Executive Service"
 usc_title: 5
 usc_section: "3595a"
 chapter: 35
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "5 U.S.C. § 3595a"
-generated_at: "2026-03-30T08:24:32.070Z"
+generated_at: "2026-03-30T08:28:34.290Z"
 status: "active"
 ---
 

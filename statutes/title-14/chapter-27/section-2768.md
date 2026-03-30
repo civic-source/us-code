@@ -3,9 +3,9 @@ title: "Section 2768 - Annual audit of pay and allowances of members undergoing 
 usc_title: 14
 usc_section: "2768"
 chapter: 27
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "14 U.S.C. § 2768"
-generated_at: "2026-03-30T08:25:05.798Z"
+generated_at: "2026-03-30T08:29:11.768Z"
 status: "active"
 ---
 

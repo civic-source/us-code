@@ -3,9 +3,9 @@ title: "Section 2330 - Procurement of contract services: management structure"
 usc_title: 10
 usc_section: "2330"
 chapter: 137
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "10 U.S.C. § 2330"
-generated_at: "2026-03-30T08:24:43.791Z"
+generated_at: "2026-03-30T08:29:03.543Z"
 status: "active"
 ---
 

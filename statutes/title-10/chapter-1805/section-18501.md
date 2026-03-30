@@ -3,9 +3,9 @@ title: "Section 18501 - Reserve components: personnel and logistic support by mi
 usc_title: 10
 usc_section: "18501"
 chapter: 1805
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "10 U.S.C. § 18501"
-generated_at: "2026-03-30T08:24:43.859Z"
+generated_at: "2026-03-30T08:29:03.609Z"
 status: "active"
 ---
 

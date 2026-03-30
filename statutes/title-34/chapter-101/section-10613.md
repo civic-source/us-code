@@ -3,9 +3,9 @@ title: "Section 10613 - Definition"
 usc_title: 34
 usc_section: "10613"
 chapter: 101
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 10613"
-generated_at: "2026-03-30T08:27:01.955Z"
+generated_at: "2026-03-30T08:30:58.913Z"
 status: "active"
 ---
 

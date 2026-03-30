@@ -3,9 +3,9 @@ title: "Section 13236 - Alternative fuel bus program"
 usc_title: 42
 usc_section: "13236"
 chapter: 134
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 13236"
-generated_at: "2026-03-30T08:27:43.575Z"
+generated_at: "2026-03-30T08:31:59.850Z"
 status: "active"
 ---
 

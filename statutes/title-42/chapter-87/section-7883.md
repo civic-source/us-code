@@ -3,9 +3,9 @@ title: "Section 7883 - Repealed. Pub. L. 98–242, title I, § 110(a) , Mar. 22,
 usc_title: 42
 usc_section: "7883"
 chapter: 87
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 7883"
-generated_at: "2026-03-30T08:27:43.483Z"
+generated_at: "2026-03-30T08:31:59.756Z"
 status: "repealed"
 ---
 

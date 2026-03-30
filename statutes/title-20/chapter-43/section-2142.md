@@ -3,9 +3,9 @@ title: "Section 2142 - Establishment of program at American Folklife Center to c
 usc_title: 20
 usc_section: "2142"
 chapter: 43
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 2142"
-generated_at: "2026-03-30T08:25:28.973Z"
+generated_at: "2026-03-30T08:30:00.556Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1270 - Citizens suits"
 usc_title: 30
 usc_section: "1270"
 chapter: 25
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "30 U.S.C. § 1270"
-generated_at: "2026-03-30T08:26:09.202Z"
+generated_at: "2026-03-30T08:30:23.206Z"
 status: "active"
 ---
 

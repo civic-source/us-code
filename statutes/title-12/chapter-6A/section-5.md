@@ -3,9 +3,9 @@ title: "Section 5 - Environmental policy and procedures"
 usc_title: 12
 usc_section: "5"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T08:25:12.492Z"
+generated_at: "2026-03-30T08:29:34.682Z"
 status: "active"
 ---
 

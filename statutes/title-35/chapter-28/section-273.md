@@ -3,9 +3,9 @@ title: "Section 273 - Defense to infringement based on prior commercial use"
 usc_title: 35
 usc_section: "273"
 chapter: 28
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "35 U.S.C. § 273"
-generated_at: "2026-03-30T08:26:59.588Z"
+generated_at: "2026-03-30T08:30:59.879Z"
 status: "active"
 ---
 

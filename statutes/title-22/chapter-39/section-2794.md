@@ -3,9 +3,9 @@ title: "Section 2794 - Definitions"
 usc_title: 22
 usc_section: "2794"
 chapter: 39
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 2794"
-generated_at: "2026-03-30T08:26:04.043Z"
+generated_at: "2026-03-30T08:30:06.714Z"
 status: "active"
 ---
 

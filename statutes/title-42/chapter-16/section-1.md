@@ -3,9 +3,9 @@ title: "Section 1 - Transparency and accountability"
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T08:27:43.312Z"
+generated_at: "2026-03-30T08:31:59.586Z"
 status: "active"
 ---
 

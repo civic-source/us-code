@@ -3,9 +3,9 @@ title: "Section 2329 - Procurement of services: data analysis and requirements v
 usc_title: 10
 usc_section: "2329"
 chapter: 137
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "10 U.S.C. § 2329"
-generated_at: "2026-03-30T08:24:43.791Z"
+generated_at: "2026-03-30T08:29:03.543Z"
 status: "active"
 ---
 

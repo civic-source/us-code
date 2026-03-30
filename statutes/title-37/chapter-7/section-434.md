@@ -3,9 +3,9 @@ title: "Section 434 - Renumbered § 494]"
 usc_title: 37
 usc_section: "434"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "37 U.S.C. § 434"
-generated_at: "2026-03-30T08:27:10.793Z"
+generated_at: "2026-03-30T08:31:21.631Z"
 status: "renumbered"
 ---
 

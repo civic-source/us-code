@@ -3,9 +3,9 @@ title: "Section 7385h - Certain claims not affected by awards of damages"
 usc_title: 42
 usc_section: "7385h"
 chapter: 84
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 7385h"
-generated_at: "2026-03-30T08:27:43.450Z"
+generated_at: "2026-03-30T08:31:59.724Z"
 status: "active"
 ---
 

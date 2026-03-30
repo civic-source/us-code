@@ -3,9 +3,9 @@ title: "Section 318 - Amendment or repeal of sections"
 usc_title: 25
 usc_section: "318"
 chapter: 8
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 318"
-generated_at: "2026-03-30T08:25:51.199Z"
+generated_at: "2026-03-30T08:30:03.813Z"
 status: "active"
 ---
 

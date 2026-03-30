@@ -3,9 +3,9 @@ title: "Section 5109 - Independent medical opinions"
 usc_title: 38
 usc_section: "5109"
 chapter: 51
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "38 U.S.C. § 5109"
-generated_at: "2026-03-30T08:27:15.036Z"
+generated_at: "2026-03-30T08:31:35.537Z"
 status: "active"
 ---
 

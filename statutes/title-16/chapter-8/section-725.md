@@ -3,9 +3,9 @@ title: "Section 725 - Regulations, etc., by Secretary of the Interior"
 usc_title: 16
 usc_section: "725"
 chapter: 8
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 725"
-generated_at: "2026-03-30T08:25:26.593Z"
+generated_at: "2026-03-30T08:29:45.572Z"
 status: "active"
 ---
 

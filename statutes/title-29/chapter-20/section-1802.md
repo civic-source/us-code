@@ -3,9 +3,9 @@ title: "Section 1802 - Definitions"
 usc_title: 29
 usc_section: "1802"
 chapter: 20
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 1802"
-generated_at: "2026-03-30T08:26:15.446Z"
+generated_at: "2026-03-30T08:30:39.432Z"
 status: "active"
 ---
 

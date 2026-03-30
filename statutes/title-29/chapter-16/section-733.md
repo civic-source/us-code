@@ -3,9 +3,9 @@ title: "Section 733 - Provision of pre-employment transition services"
 usc_title: 29
 usc_section: "733"
 chapter: 16
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 733"
-generated_at: "2026-03-30T08:26:15.412Z"
+generated_at: "2026-03-30T08:30:39.396Z"
 status: "active"
 ---
 

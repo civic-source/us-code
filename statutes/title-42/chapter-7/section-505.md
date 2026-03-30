@@ -3,9 +3,9 @@ title: "Section 505 - Demonstration projects"
 usc_title: 42
 usc_section: "505"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 505"
-generated_at: "2026-03-30T08:27:43.106Z"
+generated_at: "2026-03-30T08:31:59.380Z"
 status: "active"
 ---
 

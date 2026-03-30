@@ -3,9 +3,9 @@ title: "Section 12721 - Findings"
 usc_title: 42
 usc_section: "12721"
 chapter: 130
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 12721"
-generated_at: "2026-03-30T08:27:43.568Z"
+generated_at: "2026-03-30T08:31:59.843Z"
 status: "active"
 ---
 

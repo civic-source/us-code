@@ -3,9 +3,9 @@ title: "Section 4718 - Authorization of appropriations"
 usc_title: 12
 usc_section: "4718"
 chapter: 47
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "12 U.S.C. § 4718"
-generated_at: "2026-03-30T08:25:12.607Z"
+generated_at: "2026-03-30T08:29:34.796Z"
 status: "active"
 ---
 

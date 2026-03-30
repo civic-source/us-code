@@ -3,9 +3,9 @@ title: "Section 5123 - Speaker’s Office for Legislative Floor Activities"
 usc_title: 2
 usc_section: "5123"
 chapter: 51
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "2 U.S.C. § 5123"
-generated_at: "2026-03-30T08:24:33.694Z"
+generated_at: "2026-03-30T08:28:11.645Z"
 status: "active"
 ---
 

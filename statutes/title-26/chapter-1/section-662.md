@@ -3,9 +3,9 @@ title: "Section 662 - Inclusion of amounts in gross income of beneficiaries of e
 usc_title: 26
 usc_section: "662"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 662"
-generated_at: "2026-03-30T08:26:53.763Z"
+generated_at: "2026-03-30T08:30:54.778Z"
 status: "active"
 ---
 

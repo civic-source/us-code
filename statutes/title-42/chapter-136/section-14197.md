@@ -3,9 +3,9 @@ title: "Section 14197 - Omitted"
 usc_title: 42
 usc_section: "14197"
 chapter: 136
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 14197"
-generated_at: "2026-03-30T08:27:43.586Z"
+generated_at: "2026-03-30T08:31:59.860Z"
 status: "omitted"
 ---
 

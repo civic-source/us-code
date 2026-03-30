@@ -3,9 +3,9 @@ title: "Section 4578 - Restriction on payment of dual compensation by Secretary 
 usc_title: 2
 usc_section: "4578"
 chapter: 45
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "2 U.S.C. § 4578"
-generated_at: "2026-03-30T08:24:33.692Z"
+generated_at: "2026-03-30T08:28:11.643Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8174 - Report on efforts to promote the implementation of additi
 usc_title: 22
 usc_section: "8174"
 chapter: 88
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 8174"
-generated_at: "2026-03-30T08:26:04.098Z"
+generated_at: "2026-03-30T08:30:06.771Z"
 status: "active"
 ---
 

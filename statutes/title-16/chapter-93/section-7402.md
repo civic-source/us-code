@@ -3,9 +3,9 @@ title: "Section 7402 - Definitions"
 usc_title: 16
 usc_section: "7402"
 chapter: 93
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 7402"
-generated_at: "2026-03-30T08:25:26.704Z"
+generated_at: "2026-03-30T08:29:45.679Z"
 status: "active"
 ---
 

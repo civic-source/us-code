@@ -3,9 +3,9 @@ title: "Section 4915 - Judicial review"
 usc_title: 42
 usc_section: "4915"
 chapter: 65
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 4915"
-generated_at: "2026-03-30T08:27:43.383Z"
+generated_at: "2026-03-30T08:31:59.655Z"
 status: "active"
 ---
 

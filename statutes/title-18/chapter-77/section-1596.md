@@ -3,9 +3,9 @@ title: "Section 1596 - Additional jurisdiction in certain trafficking offenses"
 usc_title: 18
 usc_section: "1596"
 chapter: 77
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "18 U.S.C. § 1596"
-generated_at: "2026-03-30T08:25:20.632Z"
+generated_at: "2026-03-30T08:29:55.451Z"
 status: "active"
 ---
 

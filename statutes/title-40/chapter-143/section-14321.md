@@ -3,9 +3,9 @@ title: "Section 14321 - Grants and other assistance"
 usc_title: 40
 usc_section: "14321"
 chapter: 143
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "40 U.S.C. § 14321"
-generated_at: "2026-03-30T08:27:06.716Z"
+generated_at: "2026-03-30T08:31:21.339Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1403 - Enforcement"
 usc_title: 47
 usc_section: "1403"
 chapter: 13
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "47 U.S.C. § 1403"
-generated_at: "2026-03-30T08:27:49.993Z"
+generated_at: "2026-03-30T08:32:03.707Z"
 status: "active"
 ---
 

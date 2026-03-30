@@ -3,9 +3,9 @@ title: "Section 178 - Collection of statistics of foreign and interstate commerc
 usc_title: 15
 usc_section: "178"
 chapter: 5
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 178"
-generated_at: "2026-03-30T08:25:15.768Z"
+generated_at: "2026-03-30T08:29:19.449Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 305a - Promotion of economic welfare through development of arts
 usc_title: 25
 usc_section: "305a"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 305a"
-generated_at: "2026-03-30T08:25:51.198Z"
+generated_at: "2026-03-30T08:30:03.813Z"
 status: "active"
 ---
 

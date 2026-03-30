@@ -3,9 +3,9 @@ title: "Section 22 - Treatment of enrolled WTC responders for WTC-related health
 usc_title: 42
 usc_section: "22"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T08:27:43.089Z"
+generated_at: "2026-03-30T08:31:59.363Z"
 status: "active"
 ---
 

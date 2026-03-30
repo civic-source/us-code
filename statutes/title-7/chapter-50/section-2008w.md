@@ -3,9 +3,9 @@ title: "Section 2008w - Rural Innovation Stronger Economy Grant Program"
 usc_title: 7
 usc_section: "2008w"
 chapter: 50
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "7 U.S.C. § 2008w"
-generated_at: "2026-03-30T08:24:53.975Z"
+generated_at: "2026-03-30T08:28:41.790Z"
 status: "active"
 ---
 

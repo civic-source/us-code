@@ -3,9 +3,9 @@ title: "Section 1542 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1542"
 chapter: 35
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 1542"
-generated_at: "2026-03-30T08:25:26.645Z"
+generated_at: "2026-03-30T08:29:45.621Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3404 - Unsealed letters sent by blind or physically handicapped 
 usc_title: 39
 usc_section: "3404"
 chapter: 34
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "39 U.S.C. § 3404"
-generated_at: "2026-03-30T08:27:08.851Z"
+generated_at: "2026-03-30T08:31:20.781Z"
 status: "active"
 ---
 

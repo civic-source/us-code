@@ -3,9 +3,9 @@ title: "Section 1646 - Dissemination of annual percentage rates; implementation,
 usc_title: 15
 usc_section: "1646"
 chapter: 41
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 1646"
-generated_at: "2026-03-30T08:25:15.831Z"
+generated_at: "2026-03-30T08:29:19.507Z"
 status: "active"
 ---
 

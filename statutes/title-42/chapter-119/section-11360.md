@@ -3,9 +3,9 @@ title: "Section 11360 - Definitions"
 usc_title: 42
 usc_section: "11360"
 chapter: 119
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 11360"
-generated_at: "2026-03-30T08:27:43.541Z"
+generated_at: "2026-03-30T08:31:59.815Z"
 status: "active"
 ---
 

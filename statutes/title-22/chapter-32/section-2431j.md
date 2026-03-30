@@ -3,9 +3,9 @@ title: "Section 2431j - Consultations with Congress"
 usc_title: 22
 usc_section: "2431j"
 chapter: 32
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 2431j"
-generated_at: "2026-03-30T08:26:04.029Z"
+generated_at: "2026-03-30T08:30:06.699Z"
 status: "active"
 ---
 

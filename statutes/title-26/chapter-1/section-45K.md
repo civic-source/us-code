@@ -3,9 +3,9 @@ title: "Section 45K - Credit for producing fuel from a nonconventional source"
 usc_title: 26
 usc_section: "45K"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 45K"
-generated_at: "2026-03-30T08:26:53.679Z"
+generated_at: "2026-03-30T08:30:54.679Z"
 status: "active"
 ---
 

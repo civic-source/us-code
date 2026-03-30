@@ -3,9 +3,9 @@ title: "Section 1074 - Flight to avoid prosecution for damaging or destroying an
 usc_title: 18
 usc_section: "1074"
 chapter: 49
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "18 U.S.C. § 1074"
-generated_at: "2026-03-30T08:25:20.627Z"
+generated_at: "2026-03-30T08:29:55.445Z"
 status: "active"
 ---
 

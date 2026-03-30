@@ -3,9 +3,9 @@ title: "Section 2283 - Fish and wildlife mitigation"
 usc_title: 33
 usc_section: "2283"
 chapter: 36
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "33 U.S.C. § 2283"
-generated_at: "2026-03-30T08:26:57.976Z"
+generated_at: "2026-03-30T08:31:18.960Z"
 status: "active"
 ---
 

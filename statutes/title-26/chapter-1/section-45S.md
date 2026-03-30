@@ -3,9 +3,9 @@ title: "Section 45S - Employer credit for paid family and medical leave"
 usc_title: 26
 usc_section: "45S"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 45S"
-generated_at: "2026-03-30T08:26:53.680Z"
+generated_at: "2026-03-30T08:30:54.681Z"
 status: "active"
 ---
 

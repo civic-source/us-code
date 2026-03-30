@@ -3,9 +3,9 @@ title: "Section 1866 - Certification of vouchers"
 usc_title: 2
 usc_section: "1866"
 chapter: 28
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "2 U.S.C. § 1866"
-generated_at: "2026-03-30T08:24:33.681Z"
+generated_at: "2026-03-30T08:28:11.632Z"
 status: "active"
 ---
 

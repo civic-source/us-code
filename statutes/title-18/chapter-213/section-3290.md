@@ -3,9 +3,9 @@ title: "Section 3290 - Fugitives from justice"
 usc_title: 18
 usc_section: "3290"
 chapter: 213
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "18 U.S.C. § 3290"
-generated_at: "2026-03-30T08:25:20.654Z"
+generated_at: "2026-03-30T08:29:55.472Z"
 status: "active"
 ---
 

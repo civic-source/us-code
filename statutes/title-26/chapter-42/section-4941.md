@@ -3,9 +3,9 @@ title: "Section 4941 - Taxes on self-dealing"
 usc_title: 26
 usc_section: "4941"
 chapter: 42
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 4941"
-generated_at: "2026-03-30T08:26:53.828Z"
+generated_at: "2026-03-30T08:30:54.855Z"
 status: "active"
 ---
 

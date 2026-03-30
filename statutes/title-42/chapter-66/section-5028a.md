@@ -3,9 +3,9 @@ title: "Section 5028a - Prohibition"
 usc_title: 42
 usc_section: "5028a"
 chapter: 66
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 5028a"
-generated_at: "2026-03-30T08:27:43.384Z"
+generated_at: "2026-03-30T08:31:59.657Z"
 status: "active"
 ---
 

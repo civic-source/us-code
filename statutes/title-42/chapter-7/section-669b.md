@@ -3,9 +3,9 @@ title: "Section 669b - Grants to States for access and visitation programs"
 usc_title: 42
 usc_section: "669b"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 669b"
-generated_at: "2026-03-30T08:27:43.121Z"
+generated_at: "2026-03-30T08:31:59.395Z"
 status: "active"
 ---
 

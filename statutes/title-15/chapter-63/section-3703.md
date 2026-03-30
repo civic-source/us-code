@@ -3,9 +3,9 @@ title: "Section 3703 - Definitions"
 usc_title: 15
 usc_section: "3703"
 chapter: 63
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 3703"
-generated_at: "2026-03-30T08:25:15.874Z"
+generated_at: "2026-03-30T08:29:19.548Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1647d - Navajo Nation medicaid agency feasibility study"
 usc_title: 25
 usc_section: "1647d"
 chapter: 18
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 1647d"
-generated_at: "2026-03-30T08:25:51.217Z"
+generated_at: "2026-03-30T08:30:03.829Z"
 status: "active"
 ---
 

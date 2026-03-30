@@ -3,9 +3,9 @@ title: "Section 15 - Reports"
 usc_title: 33
 usc_section: "15"
 chapter: 17
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "33 U.S.C. § 15"
-generated_at: "2026-03-30T08:26:57.939Z"
+generated_at: "2026-03-30T08:31:18.921Z"
 status: "active"
 ---
 

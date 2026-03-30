@@ -3,9 +3,9 @@ title: "Section 5202 - Prohibitions regarding PLO"
 usc_title: 22
 usc_section: "5202"
 chapter: 61
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 5202"
-generated_at: "2026-03-30T08:26:04.068Z"
+generated_at: "2026-03-30T08:30:06.739Z"
 status: "active"
 ---
 

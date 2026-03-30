@@ -3,9 +3,9 @@ title: "Section 3419 - Repealed. Pub. L. 104–66, title I, § 1011(q) , Dec. 21
 usc_title: 16
 usc_section: "3419"
 chapter: 54
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 3419"
-generated_at: "2026-03-30T08:25:26.670Z"
+generated_at: "2026-03-30T08:29:45.647Z"
 status: "repealed"
 ---
 

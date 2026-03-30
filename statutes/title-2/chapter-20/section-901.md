@@ -3,9 +3,9 @@ title: "Section 901 - Enforcing discretionary spending limits"
 usc_title: 2
 usc_section: "901"
 chapter: 20
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "2 U.S.C. § 901"
-generated_at: "2026-03-30T08:24:33.669Z"
+generated_at: "2026-03-30T08:28:11.619Z"
 status: "active"
 ---
 
@@ -88,6 +88,7 @@ status: "active"
       - **(ii)** In this subparagraph:
         - **(I)** The term “additional new budget authority” means the amount provided for a fiscal year in an appropriation Act that is in excess of the average costs for wildfire suppression operations as reported in the budget of the President submitted under section 1105(a) of title 31 for fiscal year 2015 and are specified to pay for the costs of wildfire suppression operations in an amount not to exceed the amount specified for that fiscal year in clause (i).
         - **(II)** The term “wildfire suppression operations” means the emergency and unpredictable aspects of wildland firefighting, including—
+    - **(G)** If, for fiscal year 2020, appropriations for the Periodic Censuses and Programs account of the Bureau of the Census of the Department of Commerce are enacted that the Congress designates in statute as being for the 2020 Census, then the adjustment for that fiscal year shall be the total of such appropriations for that fiscal year designated as being for the 2020 Census, but shall not exceed $2,500,000,000.
 - **(c)** As used in this subchapter, the term “discretionary spending limit” means—
   - **(1)** for fiscal year 2014—
     - **(A)** for the revised security category, $520,464,000,000 in new budget authority; and
@@ -108,8 +109,8 @@ status: "active"
     - **(A)** for the revised security category, $647,000,000,000 in new budget authority; and
     - **(B)** for the revised nonsecurity category, $597,000,000,000 in new budget authority;
   - **(7)** for fiscal year 2020—
-    - **(A)** for the revised security category, $630,000,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category, $578,000,000,000 in new budget authority; and
+    - **(A)** for the revised security category, $666,500,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category, $621,500,000,000 in new budget authority; and
   - **(8)** for fiscal year 2021—
-    - **(A)** for the revised security category, $644,000,000,000 in new budget authority; and
-    - **(B)** for the revised nonsecurity category, $590,000,000,000 in new budget authority;
+    - **(A)** for the revised security category, $671,500,000,000 in new budget authority; and
+    - **(B)** for the revised nonsecurity category, $626,500,000,000 in new budget authority;

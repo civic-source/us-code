@@ -3,9 +3,9 @@ title: "Section 38 - Evidence of possession and work to establish right to paten
 usc_title: 30
 usc_section: "38"
 chapter: 2
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "30 U.S.C. § 38"
-generated_at: "2026-03-30T08:26:09.177Z"
+generated_at: "2026-03-30T08:30:23.181Z"
 status: "active"
 ---
 

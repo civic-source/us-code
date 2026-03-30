@@ -3,9 +3,9 @@ title: "Section 11294 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11294"
 chapter: 118
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 11294"
-generated_at: "2026-03-30T08:27:43.540Z"
+generated_at: "2026-03-30T08:31:59.814Z"
 status: "active"
 ---
 

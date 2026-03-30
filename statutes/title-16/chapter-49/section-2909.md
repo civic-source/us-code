@@ -3,9 +3,9 @@ title: "Section 2909 - Disclaimers"
 usc_title: 16
 usc_section: "2909"
 chapter: 49
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 2909"
-generated_at: "2026-03-30T08:25:26.664Z"
+generated_at: "2026-03-30T08:29:45.641Z"
 status: "active"
 ---
 

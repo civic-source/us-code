@@ -3,9 +3,9 @@ title: "Section 196 - Senate resolutions for investigations; limit of cost"
 usc_title: 2
 usc_section: "196"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "2 U.S.C. § 196"
-generated_at: "2026-03-30T08:24:33.659Z"
+generated_at: "2026-03-30T08:28:11.609Z"
 status: "active"
 ---
 

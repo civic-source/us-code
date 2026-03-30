@@ -3,9 +3,9 @@ title: "Section 2401e - Qualifying requirements and benefits for agricultural co
 usc_title: 19
 usc_section: "2401e"
 chapter: 12
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "19 U.S.C. § 2401e"
-generated_at: "2026-03-30T08:25:37.468Z"
+generated_at: "2026-03-30T08:29:57.460Z"
 status: "active"
 ---
 

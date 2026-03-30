@@ -3,9 +3,9 @@ title: "Section 2431 - Findings and purpose"
 usc_title: 16
 usc_section: "2431"
 chapter: 44
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 2431"
-generated_at: "2026-03-30T08:25:26.661Z"
+generated_at: "2026-03-30T08:29:45.637Z"
 status: "active"
 ---
 

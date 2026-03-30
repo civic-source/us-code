@@ -3,9 +3,9 @@ title: "Section 10501 - Application"
 usc_title: 46
 usc_section: "10501"
 chapter: 105
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "46 U.S.C. § 10501"
-generated_at: "2026-03-30T08:27:51.130Z"
+generated_at: "2026-03-30T08:32:03.288Z"
 status: "active"
 ---
 

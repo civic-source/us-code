@@ -3,9 +3,9 @@ title: "Section 280D - Repealed. Pub. L. 100–418, title I, § 1941(b)(4)(A) , 
 usc_title: 26
 usc_section: "280D"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 280D"
-generated_at: "2026-03-30T08:26:53.719Z"
+generated_at: "2026-03-30T08:30:54.725Z"
 status: "repealed"
 ---
 

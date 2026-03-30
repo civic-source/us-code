@@ -3,9 +3,9 @@ title: "Section 1885b - Participation in science and engineering of minorities a
 usc_title: 42
 usc_section: "1885b"
 chapter: 16
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 1885b"
-generated_at: "2026-03-30T08:27:43.313Z"
+generated_at: "2026-03-30T08:31:59.587Z"
 status: "active"
 ---
 

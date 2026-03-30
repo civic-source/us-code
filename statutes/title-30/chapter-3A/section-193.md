@@ -3,9 +3,9 @@ title: "Section 193 - Disposition of deposits of coal, and so forth"
 usc_title: 30
 usc_section: "193"
 chapter: 3
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "30 U.S.C. § 193"
-generated_at: "2026-03-30T08:26:09.180Z"
+generated_at: "2026-03-30T08:30:23.184Z"
 status: "active"
 ---
 

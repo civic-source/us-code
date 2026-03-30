@@ -3,9 +3,9 @@ title: "Section 7317 - Hazardous research projects: indemnification of contracto
 usc_title: 38
 usc_section: "7317"
 chapter: 73
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "38 U.S.C. § 7317"
-generated_at: "2026-03-30T08:27:15.042Z"
+generated_at: "2026-03-30T08:31:35.545Z"
 status: "active"
 ---
 

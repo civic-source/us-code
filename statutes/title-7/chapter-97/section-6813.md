@@ -3,9 +3,9 @@ title: "Section 6813 - Regulations"
 usc_title: 7
 usc_section: "6813"
 chapter: 97
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "7 U.S.C. § 6813"
-generated_at: "2026-03-30T08:24:54.036Z"
+generated_at: "2026-03-30T08:28:41.852Z"
 status: "active"
 ---
 

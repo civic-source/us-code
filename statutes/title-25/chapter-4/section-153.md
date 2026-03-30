@@ -3,9 +3,9 @@ title: "Section 153 - Appropriation to carry out treaties"
 usc_title: 25
 usc_section: "153"
 chapter: 4
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 153"
-generated_at: "2026-03-30T08:25:51.196Z"
+generated_at: "2026-03-30T08:30:03.810Z"
 status: "active"
 ---
 

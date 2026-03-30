@@ -3,9 +3,9 @@ title: "Section 773 - Demonstration and training programs"
 usc_title: 29
 usc_section: "773"
 chapter: 16
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 773"
-generated_at: "2026-03-30T08:26:15.413Z"
+generated_at: "2026-03-30T08:30:39.398Z"
 status: "active"
 ---
 

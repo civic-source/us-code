@@ -3,9 +3,9 @@ title: "Section 48201 - Advance appropriations"
 usc_title: 49
 usc_section: "48201"
 chapter: 482
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "49 U.S.C. § 48201"
-generated_at: "2026-03-30T08:27:49.613Z"
+generated_at: "2026-03-30T08:32:08.176Z"
 status: "active"
 ---
 

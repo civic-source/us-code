@@ -3,9 +3,9 @@ title: "Section 894 - Adjustment of land grants to railroads"
 usc_title: 43
 usc_section: "894"
 chapter: 21
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 894"
-generated_at: "2026-03-30T08:27:17.613Z"
+generated_at: "2026-03-30T08:31:39.052Z"
 status: "active"
 ---
 

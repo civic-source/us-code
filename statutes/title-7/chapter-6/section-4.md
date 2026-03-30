@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 7
 usc_section: "4"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T08:24:53.904Z"
+generated_at: "2026-03-30T08:28:41.719Z"
 status: "omitted"
 ---
 

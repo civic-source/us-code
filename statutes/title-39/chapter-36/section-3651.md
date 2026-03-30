@@ -3,9 +3,9 @@ title: "Section 3651 - Annual reports by the Commission"
 usc_title: 39
 usc_section: "3651"
 chapter: 36
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "39 U.S.C. § 3651"
-generated_at: "2026-03-30T08:27:08.852Z"
+generated_at: "2026-03-30T08:31:20.782Z"
 status: "active"
 ---
 

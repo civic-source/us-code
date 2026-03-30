@@ -3,9 +3,9 @@ title: "Section 181 - Treatment of certain qualified film and television and liv
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-30T08:26:53.710Z"
+generated_at: "2026-03-30T08:30:54.715Z"
 status: "active"
 ---
 

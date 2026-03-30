@@ -3,9 +3,9 @@ title: "Section 7941 - Study of authority for regulation and control of residual
 usc_title: 42
 usc_section: "7941"
 chapter: 88
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 7941"
-generated_at: "2026-03-30T08:27:43.484Z"
+generated_at: "2026-03-30T08:31:59.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19l - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19l"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 19l"
-generated_at: "2026-03-30T08:25:26.475Z"
+generated_at: "2026-03-30T08:29:45.464Z"
 status: "repealed"
 ---
 

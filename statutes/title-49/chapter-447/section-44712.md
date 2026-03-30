@@ -3,9 +3,9 @@ title: "Section 44712 - Emergency locator transmitters"
 usc_title: 49
 usc_section: "44712"
 chapter: 447
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "49 U.S.C. § 44712"
-generated_at: "2026-03-30T08:27:49.596Z"
+generated_at: "2026-03-30T08:32:08.155Z"
 status: "active"
 ---
 

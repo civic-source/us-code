@@ -3,9 +3,9 @@ title: "Section 13001b - Transferred"
 usc_title: 42
 usc_section: "13001b"
 chapter: 132
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 13001b"
-generated_at: "2026-03-30T08:27:43.574Z"
+generated_at: "2026-03-30T08:31:59.848Z"
 status: "transferred"
 ---
 

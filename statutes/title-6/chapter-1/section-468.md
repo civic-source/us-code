@@ -3,9 +3,9 @@ title: "Section 468 - Preserving Coast Guard mission performance"
 usc_title: 6
 usc_section: "468"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "6 U.S.C. § 468"
-generated_at: "2026-03-30T08:24:36.177Z"
+generated_at: "2026-03-30T08:28:56.784Z"
 status: "active"
 ---
 

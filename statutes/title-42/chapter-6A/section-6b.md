@@ -3,9 +3,9 @@ title: "Section 6b - Strategic National Stockpile and security countermeasure pr
 usc_title: 42
 usc_section: "6b"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 6b"
-generated_at: "2026-03-30T08:27:42.970Z"
+generated_at: "2026-03-30T08:31:59.243Z"
 status: "active"
 ---
 

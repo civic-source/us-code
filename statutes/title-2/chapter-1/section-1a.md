@@ -3,9 +3,9 @@ title: "Section 1a - Election to be certified by governor"
 usc_title: 2
 usc_section: "1a"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-30T08:24:33.651Z"
+generated_at: "2026-03-30T08:28:11.600Z"
 status: "active"
 ---
 

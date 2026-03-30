@@ -3,9 +3,9 @@ title: "Section 1273 - Imports"
 usc_title: 15
 usc_section: "1273"
 chapter: 30
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "15 U.S.C. § 1273"
-generated_at: "2026-03-30T08:25:15.819Z"
+generated_at: "2026-03-30T08:29:19.495Z"
 status: "active"
 ---
 

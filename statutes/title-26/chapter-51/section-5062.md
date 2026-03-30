@@ -3,9 +3,9 @@ title: "Section 5062 - Refund and drawback in case of exportation"
 usc_title: 26
 usc_section: "5062"
 chapter: 51
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 5062"
-generated_at: "2026-03-30T08:26:53.839Z"
+generated_at: "2026-03-30T08:30:54.867Z"
 status: "active"
 ---
 

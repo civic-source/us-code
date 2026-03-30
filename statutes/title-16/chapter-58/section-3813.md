@@ -3,9 +3,9 @@ title: "Section 3813 - Soil surveys"
 usc_title: 16
 usc_section: "3813"
 chapter: 58
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 3813"
-generated_at: "2026-03-30T08:25:26.674Z"
+generated_at: "2026-03-30T08:29:45.650Z"
 status: "active"
 ---
 

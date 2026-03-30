@@ -3,9 +3,9 @@ title: "Section 296c - Matching requirement"
 usc_title: 42
 usc_section: "296c"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 296c"
-generated_at: "2026-03-30T08:27:43.036Z"
+generated_at: "2026-03-30T08:31:59.309Z"
 status: "active"
 ---
 

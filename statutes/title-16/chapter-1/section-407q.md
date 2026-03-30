@@ -3,9 +3,9 @@ title: "Section 407q - Administration, protection, and development"
 usc_title: 16
 usc_section: "407q"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 407q"
-generated_at: "2026-03-30T08:25:26.498Z"
+generated_at: "2026-03-30T08:29:45.483Z"
 status: "active"
 ---
 

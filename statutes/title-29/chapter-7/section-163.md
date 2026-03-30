@@ -3,9 +3,9 @@ title: "Section 163 - Right to strike preserved"
 usc_title: 29
 usc_section: "163"
 chapter: 7
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 163"
-generated_at: "2026-03-30T08:26:15.398Z"
+generated_at: "2026-03-30T08:30:39.383Z"
 status: "active"
 ---
 

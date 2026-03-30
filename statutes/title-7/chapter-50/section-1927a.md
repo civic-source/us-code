@@ -3,9 +3,9 @@ title: "Section 1927a - Loan interest rates charged by Farmers Home Administrati
 usc_title: 7
 usc_section: "1927a"
 chapter: 50
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "7 U.S.C. § 1927a"
-generated_at: "2026-03-30T08:24:53.967Z"
+generated_at: "2026-03-30T08:28:41.782Z"
 status: "active"
 ---
 

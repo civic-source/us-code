@@ -3,9 +3,9 @@ title: "Section 993 - Omitted"
 usc_title: 25
 usc_section: "993"
 chapter: 14
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 993"
-generated_at: "2026-03-30T08:25:51.208Z"
+generated_at: "2026-03-30T08:30:03.821Z"
 status: "omitted"
 ---
 

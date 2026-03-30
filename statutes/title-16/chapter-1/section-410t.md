@@ -3,9 +3,9 @@ title: "Section 410t - Acquisition and transfer of lands; private owner’s rete
 usc_title: 16
 usc_section: "410t"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 410t"
-generated_at: "2026-03-30T08:25:26.500Z"
+generated_at: "2026-03-30T08:29:45.486Z"
 status: "active"
 ---
 

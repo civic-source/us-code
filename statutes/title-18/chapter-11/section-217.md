@@ -3,9 +3,9 @@ title: "Section 217 - Acceptance of consideration for adjustment of farm indebte
 usc_title: 18
 usc_section: "217"
 chapter: 11
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "18 U.S.C. § 217"
-generated_at: "2026-03-30T08:25:20.611Z"
+generated_at: "2026-03-30T08:29:55.429Z"
 status: "active"
 ---
 

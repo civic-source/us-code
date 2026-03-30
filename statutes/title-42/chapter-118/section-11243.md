@@ -3,9 +3,9 @@ title: "Section 11243 - Repealed. Pub. L. 100–607, title I, § 142(c)(2)(A) , 
 usc_title: 42
 usc_section: "11243"
 chapter: 118
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 11243"
-generated_at: "2026-03-30T08:27:43.539Z"
+generated_at: "2026-03-30T08:31:59.813Z"
 status: "repealed"
 ---
 

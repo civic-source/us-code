@@ -3,9 +3,9 @@ title: "Section 410nn - Establishment"
 usc_title: 16
 usc_section: "410nn"
 chapter: 1
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "16 U.S.C. § 410nn"
-generated_at: "2026-03-30T08:25:26.504Z"
+generated_at: "2026-03-30T08:29:45.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2325 - Assistance for the outlying areas"
 usc_title: 20
 usc_section: "2325"
 chapter: 44
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 2325"
-generated_at: "2026-03-30T08:25:28.974Z"
+generated_at: "2026-03-30T08:30:00.558Z"
 status: "active"
 ---
 

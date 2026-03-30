@@ -3,9 +3,9 @@ title: "Section 2104 - Permits for construction and management of artificial ree
 usc_title: 33
 usc_section: "2104"
 chapter: 35
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "33 U.S.C. § 2104"
-generated_at: "2026-03-30T08:26:57.971Z"
+generated_at: "2026-03-30T08:31:18.955Z"
 status: "active"
 ---
 

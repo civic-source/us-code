@@ -3,9 +3,9 @@ title: "Section 6163 - Extension of time for payment of estate tax on value of r
 usc_title: 26
 usc_section: "6163"
 chapter: 62
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "26 U.S.C. § 6163"
-generated_at: "2026-03-30T08:26:53.857Z"
+generated_at: "2026-03-30T08:30:54.891Z"
 status: "active"
 ---
 

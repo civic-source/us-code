@@ -3,9 +3,9 @@ title: "Section 14932 - Adoptions of children emigrating from the United States"
 usc_title: 42
 usc_section: "14932"
 chapter: 143
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 14932"
-generated_at: "2026-03-30T08:27:43.588Z"
+generated_at: "2026-03-30T08:31:59.862Z"
 status: "active"
 ---
 

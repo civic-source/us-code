@@ -3,9 +3,9 @@ title: "Section 924 - Annual educational assessment"
 usc_title: 20
 usc_section: "924"
 chapter: 25
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "20 U.S.C. § 924"
-generated_at: "2026-03-30T08:25:28.901Z"
+generated_at: "2026-03-30T08:30:00.491Z"
 status: "active"
 ---
 

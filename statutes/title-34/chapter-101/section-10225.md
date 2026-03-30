@@ -3,9 +3,9 @@ title: "Section 10225 - Subpoena power; employment of hearing officers; authorit
 usc_title: 34
 usc_section: "10225"
 chapter: 101
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "34 U.S.C. § 10225"
-generated_at: "2026-03-30T08:27:01.946Z"
+generated_at: "2026-03-30T08:30:58.903Z"
 status: "active"
 ---
 

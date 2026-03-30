@@ -3,9 +3,9 @@ title: "Section 9307 - Reports"
 usc_title: 22
 usc_section: "9307"
 chapter: 100
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "22 U.S.C. § 9307"
-generated_at: "2026-03-30T08:26:04.111Z"
+generated_at: "2026-03-30T08:30:06.784Z"
 status: "active"
 ---
 

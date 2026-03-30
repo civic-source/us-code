@@ -3,9 +3,9 @@ title: "Section 155 - Temporary transfer of bankruptcy judges"
 usc_title: 28
 usc_section: "155"
 chapter: 6
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "28 U.S.C. § 155"
-generated_at: "2026-03-30T08:26:07.260Z"
+generated_at: "2026-03-30T08:30:33.885Z"
 status: "active"
 ---
 

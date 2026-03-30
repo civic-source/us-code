@@ -3,9 +3,9 @@ title: "Section 1594 - Colorado River Basin Salinity Control Ad­visory Council"
 usc_title: 43
 usc_section: "1594"
 chapter: 32
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 1594"
-generated_at: "2026-03-30T08:27:17.625Z"
+generated_at: "2026-03-30T08:31:39.063Z"
 status: "active"
 ---
 

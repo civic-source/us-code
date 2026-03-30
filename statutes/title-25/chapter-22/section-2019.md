@@ -3,9 +3,9 @@ title: "Section 2019 - Early childhood development program"
 usc_title: 25
 usc_section: "2019"
 chapter: 22
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "25 U.S.C. § 2019"
-generated_at: "2026-03-30T08:25:51.228Z"
+generated_at: "2026-03-30T08:30:03.840Z"
 status: "active"
 ---
 

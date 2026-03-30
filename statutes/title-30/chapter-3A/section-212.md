@@ -3,9 +3,9 @@ title: "Section 212 - Surveys; royalties; time payable; annual rentals; term of 
 usc_title: 30
 usc_section: "212"
 chapter: 3
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "30 U.S.C. § 212"
-generated_at: "2026-03-30T08:26:09.182Z"
+generated_at: "2026-03-30T08:30:23.185Z"
 status: "active"
 ---
 

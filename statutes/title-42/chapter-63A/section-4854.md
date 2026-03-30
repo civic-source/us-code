@@ -3,9 +3,9 @@ title: "Section 4854 - Research on lead exposure from other sources"
 usc_title: 42
 usc_section: "4854"
 chapter: 63
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "42 U.S.C. § 4854"
-generated_at: "2026-03-30T08:27:43.381Z"
+generated_at: "2026-03-30T08:31:59.654Z"
 status: "active"
 ---
 

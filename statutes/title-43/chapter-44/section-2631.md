@@ -3,9 +3,9 @@ title: "Section 2631 - Unselected and unpatented odd-numbered sections as revest
 usc_title: 43
 usc_section: "2631"
 chapter: 44
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "43 U.S.C. § 2631"
-generated_at: "2026-03-30T08:27:17.644Z"
+generated_at: "2026-03-30T08:31:39.083Z"
 status: "active"
 ---
 

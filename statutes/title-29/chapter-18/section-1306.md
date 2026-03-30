@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 116-35"
+current_through: "PL 116-38"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T08:26:15.438Z"
+generated_at: "2026-03-30T08:30:39.424Z"
 status: "active"
 ---
 
