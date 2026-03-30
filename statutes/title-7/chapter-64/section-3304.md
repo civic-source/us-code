@@ -3,9 +3,9 @@ title: "Section 3304 - Repealed. Pub. L. 99–198, title XIV, § 1421 , Dec. 23,
 usc_title: 7
 usc_section: "3304"
 chapter: 64
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 3304"
-generated_at: "2026-03-30T09:30:21.798Z"
+generated_at: "2026-03-30T09:32:40.836Z"
 status: "repealed"
 ---
 

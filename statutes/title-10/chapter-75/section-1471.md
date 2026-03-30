@@ -3,9 +3,9 @@ title: "Section 1471 - Forensic pathology investigations"
 usc_title: 10
 usc_section: "1471"
 chapter: 75
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 1471"
-generated_at: "2026-03-30T09:30:29.851Z"
+generated_at: "2026-03-30T09:32:35.580Z"
 status: "active"
 ---
 

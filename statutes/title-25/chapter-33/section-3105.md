@@ -3,9 +3,9 @@ title: "Section 3105 - Forest management deduction"
 usc_title: 25
 usc_section: "3105"
 chapter: 33
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "25 U.S.C. § 3105"
-generated_at: "2026-03-30T09:31:03.736Z"
+generated_at: "2026-03-30T09:33:28.805Z"
 status: "active"
 ---
 

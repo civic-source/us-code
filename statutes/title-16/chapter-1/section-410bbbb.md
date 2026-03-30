@@ -3,9 +3,9 @@ title: "Section 410bbbb - Reconstruction Era National Historical Park and Recons
 usc_title: 16
 usc_section: "410bbbb"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 410bbbb"
-generated_at: "2026-03-30T09:30:57.526Z"
+generated_at: "2026-03-30T09:33:15.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 426 - Stones River National Battlefield; establishment; appointm
 usc_title: 16
 usc_section: "426"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 426"
-generated_at: "2026-03-30T09:30:57.530Z"
+generated_at: "2026-03-30T09:33:15.522Z"
 status: "active"
 ---
 

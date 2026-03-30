@@ -3,9 +3,9 @@ title: "Section 191 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "191"
 chapter: 4
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "24 U.S.C. § 191"
-generated_at: "2026-03-30T09:31:00.812Z"
+generated_at: "2026-03-30T09:33:17.929Z"
 status: "repealed"
 ---
 

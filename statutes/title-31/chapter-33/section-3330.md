@@ -3,9 +3,9 @@ title: "Section 3330 - Payment of Department of Veterans Affairs checks for the 
 usc_title: 31
 usc_section: "3330"
 chapter: 33
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "31 U.S.C. § 3330"
-generated_at: "2026-03-30T09:31:23.197Z"
+generated_at: "2026-03-30T09:33:42.173Z"
 status: "active"
 ---
 

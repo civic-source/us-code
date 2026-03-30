@@ -3,9 +3,9 @@ title: "Section 3902 - Definitions"
 usc_title: 19
 usc_section: "3902"
 chapter: 25
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 3902"
-generated_at: "2026-03-30T09:30:49.589Z"
+generated_at: "2026-03-30T09:33:04.777Z"
 status: "active"
 ---
 

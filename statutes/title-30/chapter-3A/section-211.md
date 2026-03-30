@@ -3,9 +3,9 @@ title: "Section 211 - Phosphate deposits"
 usc_title: 30
 usc_section: "211"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "30 U.S.C. § 211"
-generated_at: "2026-03-30T09:31:10.420Z"
+generated_at: "2026-03-30T09:33:34.899Z"
 status: "active"
 ---
 

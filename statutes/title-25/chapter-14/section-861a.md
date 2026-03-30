@@ -3,9 +3,9 @@ title: "Section 861a - Omitted"
 usc_title: 25
 usc_section: "861a"
 chapter: 14
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "25 U.S.C. § 861a"
-generated_at: "2026-03-30T09:31:03.690Z"
+generated_at: "2026-03-30T09:33:28.774Z"
 status: "omitted"
 ---
 

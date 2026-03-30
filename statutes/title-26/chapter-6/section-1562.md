@@ -3,9 +3,9 @@ title: "Section 1562 - Repealed. Pub. L. 91–172, title IV, § 401(a)(2) , Dec.
 usc_title: 26
 usc_section: "1562"
 chapter: 6
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "26 U.S.C. § 1562"
-generated_at: "2026-03-30T09:31:20.189Z"
+generated_at: "2026-03-30T09:33:39.483Z"
 status: "repealed"
 ---
 

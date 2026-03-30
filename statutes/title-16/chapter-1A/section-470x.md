@@ -3,9 +3,9 @@ title: "Section 470x - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470x"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 470x"
-generated_at: "2026-03-30T09:30:57.601Z"
+generated_at: "2026-03-30T09:33:15.564Z"
 status: "repealed"
 ---
 

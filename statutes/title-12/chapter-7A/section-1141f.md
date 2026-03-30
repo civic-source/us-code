@@ -3,9 +3,9 @@ title: "Section 1141f - Repealed. Pub. L. 115–334, title V, § 5411(52) –(56
 usc_title: 12
 usc_section: "1141f"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "12 U.S.C. § 1141f"
-generated_at: "2026-03-30T09:30:35.585Z"
+generated_at: "2026-03-30T09:32:45.892Z"
 status: "repealed"
 ---
 

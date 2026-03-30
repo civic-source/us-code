@@ -3,9 +3,9 @@ title: "Section 1018 - Performance-Based Organization for delivery of Federal st
 usc_title: 20
 usc_section: "1018"
 chapter: 28
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 1018"
-generated_at: "2026-03-30T09:30:47.778Z"
+generated_at: "2026-03-30T09:33:02.748Z"
 status: "active"
 ---
 

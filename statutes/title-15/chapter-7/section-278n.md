@@ -3,9 +3,9 @@ title: "Section 278n - Repealed. Pub. L. 114–329, title II, § 205(a)(1) , Jan
 usc_title: 15
 usc_section: "278n"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 278n"
-generated_at: "2026-03-30T09:30:42.471Z"
+generated_at: "2026-03-30T09:32:47.950Z"
 status: "repealed"
 ---
 

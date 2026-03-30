@@ -3,9 +3,9 @@ title: "Section 1344 - Permits for dredged or fill material"
 usc_title: 33
 usc_section: "1344"
 chapter: 26
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "33 U.S.C. § 1344"
-generated_at: "2026-03-30T09:31:24.792Z"
+generated_at: "2026-03-30T09:33:48.756Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1555 - Bonded warehouses"
 usc_title: 19
 usc_section: "1555"
 chapter: 4
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 1555"
-generated_at: "2026-03-30T09:30:49.537Z"
+generated_at: "2026-03-30T09:33:04.733Z"
 status: "active"
 ---
 

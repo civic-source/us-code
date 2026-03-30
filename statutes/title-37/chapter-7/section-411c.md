@@ -3,9 +3,9 @@ title: "Section 411c - Renumbered § 481c]"
 usc_title: 37
 usc_section: "411c"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "37 U.S.C. § 411c"
-generated_at: "2026-03-30T09:31:26.973Z"
+generated_at: "2026-03-30T09:33:50.915Z"
 status: "renumbered"
 ---
 

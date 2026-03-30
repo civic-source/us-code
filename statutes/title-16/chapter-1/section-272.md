@@ -3,9 +3,9 @@ title: "Section 272 - Establishment of park"
 usc_title: 16
 usc_section: "272"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 272"
-generated_at: "2026-03-30T09:30:57.482Z"
+generated_at: "2026-03-30T09:33:15.492Z"
 status: "active"
 ---
 

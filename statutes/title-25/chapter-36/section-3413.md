@@ -3,9 +3,9 @@ title: "Section 3413 - Administration of funds"
 usc_title: 25
 usc_section: "3413"
 chapter: 36
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "25 U.S.C. § 3413"
-generated_at: "2026-03-30T09:31:03.740Z"
+generated_at: "2026-03-30T09:33:28.808Z"
 status: "active"
 ---
 

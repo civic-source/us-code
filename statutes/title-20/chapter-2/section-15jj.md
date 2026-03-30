@@ -3,9 +3,9 @@ title: "Section 15jj - Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 19
 usc_title: 20
 usc_section: "15jj"
 chapter: 2
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 15jj"
-generated_at: "2026-03-30T09:30:47.761Z"
+generated_at: "2026-03-30T09:33:02.734Z"
 status: "repealed"
 ---
 

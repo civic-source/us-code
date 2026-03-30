@@ -3,9 +3,9 @@ title: "Section 9137 - Regular Air Force: aviation cadets; qualifications, grade
 usc_title: 10
 usc_section: "9137"
 chapter: 913
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 9137"
-generated_at: "2026-03-30T09:30:29.928Z"
+generated_at: "2026-03-30T09:32:35.654Z"
 status: "active"
 ---
 

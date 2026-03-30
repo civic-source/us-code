@@ -3,9 +3,9 @@ title: "Section 7713 - Definitions"
 usc_title: 20
 usc_section: "7713"
 chapter: 70
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 7713"
-generated_at: "2026-03-30T09:30:47.910Z"
+generated_at: "2026-03-30T09:33:02.853Z"
 status: "active"
 ---
 

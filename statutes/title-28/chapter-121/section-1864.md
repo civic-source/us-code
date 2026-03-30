@@ -3,9 +3,9 @@ title: "Section 1864 - Drawing of names from the master jury wheel; completion o
 usc_title: 28
 usc_section: "1864"
 chapter: 121
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "28 U.S.C. § 1864"
-generated_at: "2026-03-30T09:31:14.084Z"
+generated_at: "2026-03-30T09:33:32.848Z"
 status: "active"
 ---
 

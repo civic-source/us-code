@@ -3,9 +3,9 @@ title: "Section 8545 - Officers of the other armed forces; enlisted members: adm
 usc_title: 10
 usc_section: "8545"
 chapter: 855
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 8545"
-generated_at: "2026-03-30T09:30:29.920Z"
+generated_at: "2026-03-30T09:32:35.647Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45B - Credit for portion of employer social security taxes paid 
 usc_title: 26
 usc_section: "45B"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "26 U.S.C. § 45B"
-generated_at: "2026-03-30T09:31:20.033Z"
+generated_at: "2026-03-30T09:33:39.348Z"
 status: "active"
 ---
 

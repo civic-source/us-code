@@ -3,9 +3,9 @@ title: "Section 3026 - Area plans"
 usc_title: 42
 usc_section: "3026"
 chapter: 35
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 3026"
-generated_at: "2026-03-30T09:32:01.049Z"
+generated_at: "2026-03-30T09:34:29.433Z"
 status: "active"
 ---
 
@@ -144,7 +144,7 @@ status: "active"
   - **(3)**
     - **(A)** If a State agency withholds the funds, the State agency may use the funds withheld to directly administer programs under this subchapter in the planning and service area served by the area agency on aging for a period not to exceed 180 days, except as provided in subparagraph (B).
     - **(B)** If the State agency determines that the area agency on aging has not taken corrective action, or if the State agency does not approve the corrective action, during the 180-day period described in subparagraph (A), the State agency may extend the period for not more than 90 days.
-- **(g)**
+- **(g)** Nothing in this chapter shall restrict an area agency on aging from providing services not provided or authorized by this chapter, including through—
   - **(1)** contracts with health care payers;
   - **(2)** consumer private pay programs; or
   - **(3)** other arrangements with entities or individuals that increase the availability of home- and community-based services and supports.

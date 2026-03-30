@@ -3,9 +3,9 @@ title: "Section 3903 - Purchasing groups"
 usc_title: 15
 usc_section: "3903"
 chapter: 65
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 3903"
-generated_at: "2026-03-30T09:30:42.587Z"
+generated_at: "2026-03-30T09:32:48.052Z"
 status: "active"
 ---
 

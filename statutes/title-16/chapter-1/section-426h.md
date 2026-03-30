@@ -3,9 +3,9 @@ title: "Section 426h - Ascertaining and marking lines of battle"
 usc_title: 16
 usc_section: "426h"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 426h"
-generated_at: "2026-03-30T09:30:57.530Z"
+generated_at: "2026-03-30T09:33:15.522Z"
 status: "active"
 ---
 

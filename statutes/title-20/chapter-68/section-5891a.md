@@ -3,9 +3,9 @@ title: "Section 5891a - Definitions"
 usc_title: 20
 usc_section: "5891a"
 chapter: 68
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 5891a"
-generated_at: "2026-03-30T09:30:47.876Z"
+generated_at: "2026-03-30T09:33:02.828Z"
 status: "active"
 ---
 

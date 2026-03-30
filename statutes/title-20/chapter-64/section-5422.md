@@ -3,9 +3,9 @@ title: "Section 5422 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5422"
 chapter: 64
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 5422"
-generated_at: "2026-03-30T09:30:47.874Z"
+generated_at: "2026-03-30T09:33:02.826Z"
 status: "repealed"
 ---
 

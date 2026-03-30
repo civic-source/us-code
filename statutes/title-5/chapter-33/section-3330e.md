@@ -3,9 +3,9 @@ title: "Section 3330e - Review of official personnel file of former Federal empl
 usc_title: 5
 usc_section: "3330e"
 chapter: 33
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "5 U.S.C. § 3330e"
-generated_at: "2026-03-30T09:30:12.615Z"
+generated_at: "2026-03-30T09:32:27.201Z"
 status: "active"
 ---
 

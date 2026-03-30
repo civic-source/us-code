@@ -3,9 +3,9 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-30T09:32:00.834Z"
+generated_at: "2026-03-30T09:34:29.218Z"
 status: "active"
 ---
 
@@ -151,9 +151,9 @@ status: "active"
     - **(B)** There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
 - **(i)**
   - **(1)**
-    - **(A)** In addition to any other amounts, the Secretary of Labor shall provide for the transfer of funds during the applicable period to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with the succeeding provisions of this subsection.
-    - **(B)** The amount of funds transferred to the account of a State under subparagraph (A) during the applicable period shall, as determined by the Secretary of Labor, be equal to one-half of the amounts of compensation (as defined in section 3306(h) of the Internal Revenue Code of 1986) attributable under the State law to service to which section 3309(a)(1) of such Code applies that were paid by the State for weeks of unemployment beginning and ending during such period. Such transfers shall be made at such times as the Secretary of Labor considers appropriate.
-    - **(C)** Notwithstanding any other law, funds transferred to the account of a State under subparagraph (A) shall be used exclusively to reimburse governmental entities and other organizations described in section 3309(a)(2) of such Code for amounts paid (in lieu of contributions) into the State unemployment fund pursuant to such section.
+    - **(A)** In addition to any other amounts, the Secretary of Labor shall provide for the transfer of funds with respect to the applicable period to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with the succeeding provisions of this subsection.
+    - **(B)** The amount of funds transferred to the account of a State under subparagraph (A) during the applicable period shall, as determined by the Secretary of Labor, be equal to one-half of the amounts of compensation (as defined in section 3306(h) of the Internal Revenue Code of 1986) attributable under the State law to service to which section 3309(a) of such Code applies that were paid by the State for weeks of unemployment beginning and ending during such period. Such transfers shall be made at such times as the Secretary of Labor considers appropriate.
+    - **(C)** Notwithstanding any other provision of law, funds transferred to the account of a State under subparagraph (A) shall be used exclusively to reduce the amounts required to be paid in lieu of contributions into the State unemployment fund pursuant to such section by governmental entities and other organizations described in section 3309(a) of such Code.
     - **(D)** For purposes of this paragraph, the term “applicable period” means the period beginning on March 13, 2020 , and ending on December 31, 2020 .
   - **(2)**
     - **(A)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the Federal unemployment account such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1).

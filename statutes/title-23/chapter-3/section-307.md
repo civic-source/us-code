@@ -3,9 +3,9 @@ title: "Section 307 - Repealed. Pub. L. 105–178, title V, § 5119(b) , June 9,
 usc_title: 23
 usc_section: "307"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "23 U.S.C. § 307"
-generated_at: "2026-03-30T09:31:02.520Z"
+generated_at: "2026-03-30T09:33:18.301Z"
 status: "repealed"
 ---
 

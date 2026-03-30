@@ -3,9 +3,9 @@ title: "Section 1157 - Relation to other provisions"
 usc_title: 15
 usc_section: "1157"
 chapter: 23
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 1157"
-generated_at: "2026-03-30T09:30:42.520Z"
+generated_at: "2026-03-30T09:32:47.992Z"
 status: "active"
 ---
 

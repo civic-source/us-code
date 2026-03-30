@@ -3,9 +3,9 @@ title: "Section 728 - Sufficiency of cession by State; service of State process 
 usc_title: 33
 usc_section: "728"
 chapter: 16
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "33 U.S.C. § 728"
-generated_at: "2026-03-30T09:31:24.769Z"
+generated_at: "2026-03-30T09:33:48.731Z"
 status: "active"
 ---
 

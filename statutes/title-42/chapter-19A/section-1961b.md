@@ -3,9 +3,9 @@ title: "Section 1961b - Repealed. Pub. L. 95–467, title IV, § 410(a) , Oct. 1
 usc_title: 42
 usc_section: "1961b"
 chapter: 19
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 1961b"
-generated_at: "2026-03-30T09:32:01.012Z"
+generated_at: "2026-03-30T09:34:29.396Z"
 status: "repealed"
 ---
 

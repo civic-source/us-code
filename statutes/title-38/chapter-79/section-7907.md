@@ -3,9 +3,9 @@ title: "Section 7907 - Termination"
 usc_title: 38
 usc_section: "7907"
 chapter: 79
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "38 U.S.C. § 7907"
-generated_at: "2026-03-30T09:31:28.998Z"
+generated_at: "2026-03-30T09:33:53.102Z"
 status: "active"
 ---
 

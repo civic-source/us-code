@@ -3,9 +3,9 @@ title: "Section 32906 - Maximum fuel economy increase for alternative fuel autom
 usc_title: 49
 usc_section: "32906"
 chapter: 329
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "49 U.S.C. § 32906"
-generated_at: "2026-03-30T09:32:07.329Z"
+generated_at: "2026-03-30T09:34:36.840Z"
 status: "active"
 ---
 

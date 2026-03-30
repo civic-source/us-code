@@ -3,9 +3,9 @@ title: "Section 1238 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(35
 usc_title: 48
 usc_section: "1238"
 chapter: 5
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "48 U.S.C. § 1238"
-generated_at: "2026-03-30T09:32:04.397Z"
+generated_at: "2026-03-30T09:34:32.527Z"
 status: "repealed"
 ---
 

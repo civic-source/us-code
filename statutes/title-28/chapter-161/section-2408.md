@@ -3,9 +3,9 @@ title: "Section 2408 - Security not required of United States"
 usc_title: 28
 usc_section: "2408"
 chapter: 161
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "28 U.S.C. § 2408"
-generated_at: "2026-03-30T09:31:14.087Z"
+generated_at: "2026-03-30T09:33:32.852Z"
 status: "active"
 ---
 

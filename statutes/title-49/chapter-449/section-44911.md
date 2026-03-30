@@ -3,9 +3,9 @@ title: "Section 44911 - Intelligence"
 usc_title: 49
 usc_section: "44911"
 chapter: 449
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "49 U.S.C. § 44911"
-generated_at: "2026-03-30T09:32:07.349Z"
+generated_at: "2026-03-30T09:34:36.861Z"
 status: "active"
 ---
 

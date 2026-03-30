@@ -3,9 +3,9 @@ title: "Section 2 - Repayment contracts"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T09:30:57.635Z"
+generated_at: "2026-03-30T09:33:15.584Z"
 status: "active"
 ---
 

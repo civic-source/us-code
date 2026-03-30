@@ -3,9 +3,9 @@ title: "Section 748a - Prioritization of facilities"
 usc_title: 6
 usc_section: "748a"
 chapter: 2
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "6 U.S.C. § 748a"
-generated_at: "2026-03-30T09:30:17.906Z"
+generated_at: "2026-03-30T09:32:36.655Z"
 status: "active"
 ---
 

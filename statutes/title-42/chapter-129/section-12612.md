@@ -3,9 +3,9 @@ title: "Section 12612 - Establishment of National Civilian Community Corps Progr
 usc_title: 42
 usc_section: "12612"
 chapter: 129
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 12612"
-generated_at: "2026-03-30T09:32:01.254Z"
+generated_at: "2026-03-30T09:34:29.637Z"
 status: "active"
 ---
 

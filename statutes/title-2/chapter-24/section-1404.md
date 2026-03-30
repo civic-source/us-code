@@ -3,9 +3,9 @@ title: "Section 1404 - Repealed. Pub. L. 115–397, title I, § 101(c)(1) , Dec.
 usc_title: 2
 usc_section: "1404"
 chapter: 24
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "2 U.S.C. § 1404"
-generated_at: "2026-03-30T09:30:03.100Z"
+generated_at: "2026-03-30T09:32:25.145Z"
 status: "repealed"
 ---
 

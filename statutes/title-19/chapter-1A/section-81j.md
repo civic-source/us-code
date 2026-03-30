@@ -3,9 +3,9 @@ title: "Section 81j - Cooperation of other agencies with Board"
 usc_title: 19
 usc_section: "81j"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 81j"
-generated_at: "2026-03-30T09:30:49.521Z"
+generated_at: "2026-03-30T09:33:04.721Z"
 status: "active"
 ---
 

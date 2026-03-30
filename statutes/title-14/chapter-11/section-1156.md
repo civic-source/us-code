@@ -3,9 +3,9 @@ title: "Section 1156 - Limitation on unmanned aircraft systems"
 usc_title: 14
 usc_section: "1156"
 chapter: 11
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "14 U.S.C. § 1156"
-generated_at: "2026-03-30T09:30:32.996Z"
+generated_at: "2026-03-30T09:32:43.024Z"
 status: "active"
 ---
 

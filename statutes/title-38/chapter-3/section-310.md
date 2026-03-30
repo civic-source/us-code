@@ -3,9 +3,9 @@ title: "Section 310 - Chief Information Officer"
 usc_title: 38
 usc_section: "310"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "38 U.S.C. § 310"
-generated_at: "2026-03-30T09:31:28.938Z"
+generated_at: "2026-03-30T09:33:53.049Z"
 status: "active"
 ---
 

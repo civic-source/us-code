@@ -3,9 +3,9 @@ title: "Section 21306 - Period of increase"
 usc_title: 34
 usc_section: "21306"
 chapter: 213
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "34 U.S.C. § 21306"
-generated_at: "2026-03-30T09:31:23.858Z"
+generated_at: "2026-03-30T09:33:47.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 131 - Repealed. Pub. L. 107–171, title X, § 10418(a)(1) , (8)
 usc_title: 21
 usc_section: "131"
 chapter: 4
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "21 U.S.C. § 131"
-generated_at: "2026-03-30T09:31:05.063Z"
+generated_at: "2026-03-30T09:33:22.878Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 612 - Accountability"
 usc_title: 6
 usc_section: "612"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "6 U.S.C. § 612"
-generated_at: "2026-03-30T09:30:17.901Z"
+generated_at: "2026-03-30T09:32:36.651Z"
 status: "active"
 ---
 

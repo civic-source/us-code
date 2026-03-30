@@ -3,9 +3,9 @@ title: "Section 12138 - List of documented vessels"
 usc_title: 46
 usc_section: "12138"
 chapter: 121
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "46 U.S.C. § 12138"
-generated_at: "2026-03-30T09:32:08.916Z"
+generated_at: "2026-03-30T09:34:53.117Z"
 status: "active"
 ---
 

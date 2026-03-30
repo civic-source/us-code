@@ -3,9 +3,9 @@ title: "Section 319 - Land-based unmanned aircraft system program"
 usc_title: 14
 usc_section: "319"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "14 U.S.C. § 319"
-generated_at: "2026-03-30T09:30:32.991Z"
+generated_at: "2026-03-30T09:32:43.020Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 108 - Noncompliance with obligations involved in labor disputes 
 usc_title: 29
 usc_section: "108"
 chapter: 6
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "29 U.S.C. § 108"
-generated_at: "2026-03-30T09:31:11.721Z"
+generated_at: "2026-03-30T09:33:34.439Z"
 status: "active"
 ---
 

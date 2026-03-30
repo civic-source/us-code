@@ -3,9 +3,9 @@ title: "Section 2315 - Testing of preparedness for emergencies involving nuclear
 usc_title: 50
 usc_section: "2315"
 chapter: 40
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "50 U.S.C. § 2315"
-generated_at: "2026-03-30T09:32:10.296Z"
+generated_at: "2026-03-30T09:34:34.475Z"
 status: "active"
 ---
 

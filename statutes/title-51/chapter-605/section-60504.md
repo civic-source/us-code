@@ -3,9 +3,9 @@ title: "Section 60504 - Tornadoes and other severe storms"
 usc_title: 51
 usc_section: "60504"
 chapter: 605
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "51 U.S.C. § 60504"
-generated_at: "2026-03-30T09:32:12.551Z"
+generated_at: "2026-03-30T09:34:55.569Z"
 status: "active"
 ---
 

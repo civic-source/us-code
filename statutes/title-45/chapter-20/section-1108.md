@@ -3,9 +3,9 @@ title: "Section 1108 - Concerted economic action"
 usc_title: 45
 usc_section: "1108"
 chapter: 20
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "45 U.S.C. § 1108"
-generated_at: "2026-03-30T09:31:36.049Z"
+generated_at: "2026-03-30T09:33:58.380Z"
 status: "active"
 ---
 

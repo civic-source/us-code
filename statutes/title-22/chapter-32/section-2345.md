@@ -3,9 +3,9 @@ title: "Section 2345 - Repealed. Pub. L. 90–629 , ch. 4, § 45(a), Oct. 22, 19
 usc_title: 22
 usc_section: "2345"
 chapter: 32
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 2345"
-generated_at: "2026-03-30T09:31:07.902Z"
+generated_at: "2026-03-30T09:33:25.004Z"
 status: "repealed"
 ---
 

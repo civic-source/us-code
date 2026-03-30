@@ -3,9 +3,9 @@ title: "Section 356d - Coordination; task force and strategic plan"
 usc_title: 21
 usc_section: "356d"
 chapter: 9
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "21 U.S.C. § 356d"
-generated_at: "2026-03-30T09:31:05.094Z"
+generated_at: "2026-03-30T09:33:22.900Z"
 status: "active"
 ---
 

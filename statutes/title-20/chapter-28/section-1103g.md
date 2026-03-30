@@ -3,9 +3,9 @@ title: "Section 1103g - Authorizations of appropriations"
 usc_title: 20
 usc_section: "1103g"
 chapter: 28
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 1103g"
-generated_at: "2026-03-30T09:30:47.825Z"
+generated_at: "2026-03-30T09:33:02.787Z"
 status: "active"
 ---
 

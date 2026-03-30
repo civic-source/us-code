@@ -3,9 +3,9 @@ title: "Section 1022a - Medium-term economic goals and policies respecting full 
 usc_title: 15
 usc_section: "1022a"
 chapter: 21
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 1022a"
-generated_at: "2026-03-30T09:30:42.515Z"
+generated_at: "2026-03-30T09:32:47.988Z"
 status: "active"
 ---
 

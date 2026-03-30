@@ -3,9 +3,9 @@ title: "Section 1 - Grants to upgrade agriculture and food sciences facilities a
 usc_title: 7
 usc_section: "1"
 chapter: 64
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T09:30:21.797Z"
+generated_at: "2026-03-30T09:32:40.834Z"
 status: "active"
 ---
 

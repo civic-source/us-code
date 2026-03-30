@@ -3,9 +3,9 @@ title: "Section 1653 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1653"
 chapter: 19
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "29 U.S.C. § 1653"
-generated_at: "2026-03-30T09:31:11.781Z"
+generated_at: "2026-03-30T09:33:34.488Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 630 - Offenses by officers of corporation; punishment"
 usc_title: 12
 usc_section: "630"
 chapter: 6
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "12 U.S.C. § 630"
-generated_at: "2026-03-30T09:30:35.581Z"
+generated_at: "2026-03-30T09:32:45.887Z"
 status: "active"
 ---
 

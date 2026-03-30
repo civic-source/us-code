@@ -3,9 +3,9 @@ title: "Section 423e - Ascertaining and marking lines of battle"
 usc_title: 16
 usc_section: "423e"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 423e"
-generated_at: "2026-03-30T09:30:57.528Z"
+generated_at: "2026-03-30T09:33:15.521Z"
 status: "active"
 ---
 

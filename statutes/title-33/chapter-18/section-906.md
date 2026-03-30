@@ -3,9 +3,9 @@ title: "Section 906 - Compensation"
 usc_title: 33
 usc_section: "906"
 chapter: 18
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "33 U.S.C. § 906"
-generated_at: "2026-03-30T09:31:24.772Z"
+generated_at: "2026-03-30T09:33:48.735Z"
 status: "active"
 ---
 

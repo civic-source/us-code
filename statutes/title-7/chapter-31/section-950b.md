@@ -3,9 +3,9 @@ title: "Section 950b - Repealed. Pub. L. 115–334, title VI, § 6602(a) , (b)(1
 usc_title: 7
 usc_section: "950b"
 chapter: 31
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 950b"
-generated_at: "2026-03-30T09:30:21.722Z"
+generated_at: "2026-03-30T09:32:40.757Z"
 status: "repealed"
 ---
 

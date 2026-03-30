@@ -3,9 +3,9 @@ title: "Section 3224 - Intelligence officer training program"
 usc_title: 50
 usc_section: "3224"
 chapter: 44
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "50 U.S.C. § 3224"
-generated_at: "2026-03-30T09:32:10.319Z"
+generated_at: "2026-03-30T09:34:34.495Z"
 status: "active"
 ---
 

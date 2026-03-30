@@ -3,9 +3,9 @@ title: "Section 13603 - Establishment of criteria for occupancy"
 usc_title: 42
 usc_section: "13603"
 chapter: 135
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 13603"
-generated_at: "2026-03-30T09:32:01.277Z"
+generated_at: "2026-03-30T09:34:29.660Z"
 status: "active"
 ---
 

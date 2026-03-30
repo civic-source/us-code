@@ -3,9 +3,9 @@ title: "Section 513 - Repealed. Pub. L. 96–374, title VI, § 601(c)(1) , Oct. 
 usc_title: 20
 usc_section: "513"
 chapter: 17
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 513"
-generated_at: "2026-03-30T09:30:47.770Z"
+generated_at: "2026-03-30T09:33:02.741Z"
 status: "repealed"
 ---
 

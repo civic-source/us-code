@@ -3,9 +3,9 @@ title: "Section 5233 - Congressional Oversight Panel"
 usc_title: 12
 usc_section: "5233"
 chapter: 52
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "12 U.S.C. § 5233"
-generated_at: "2026-03-30T09:30:35.715Z"
+generated_at: "2026-03-30T09:32:46.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7f - Coordination of medicare and medicaid surety bond provision
 usc_title: 42
 usc_section: "7f"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T09:32:00.841Z"
+generated_at: "2026-03-30T09:34:29.225Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4301 - Continuation of Gallaudet College as Gallaudet University
 usc_title: 20
 usc_section: "4301"
 chapter: 55
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 4301"
-generated_at: "2026-03-30T09:30:47.869Z"
+generated_at: "2026-03-30T09:33:02.822Z"
 status: "active"
 ---
 

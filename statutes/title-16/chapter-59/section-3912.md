@@ -3,9 +3,9 @@ title: "Section 3912 - Transfers to Migratory Bird Conservation Fund"
 usc_title: 16
 usc_section: "3912"
 chapter: 59
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 3912"
-generated_at: "2026-03-30T09:30:57.809Z"
+generated_at: "2026-03-30T09:33:15.684Z"
 status: "active"
 ---
 

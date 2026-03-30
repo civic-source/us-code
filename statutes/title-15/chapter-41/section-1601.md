@@ -3,9 +3,9 @@ title: "Section 1601 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "1601"
 chapter: 41
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 1601"
-generated_at: "2026-03-30T09:30:42.529Z"
+generated_at: "2026-03-30T09:32:48.000Z"
 status: "active"
 ---
 

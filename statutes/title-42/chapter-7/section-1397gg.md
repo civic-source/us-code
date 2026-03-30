@@ -3,9 +3,9 @@ title: "Section 1397gg - Strategic objectives and performance goals; plan admini
 usc_title: 42
 usc_section: "1397gg"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 1397gg"
-generated_at: "2026-03-30T09:32:00.966Z"
+generated_at: "2026-03-30T09:34:29.349Z"
 status: "active"
 ---
 

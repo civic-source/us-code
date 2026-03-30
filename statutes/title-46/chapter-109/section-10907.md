@@ -3,9 +3,9 @@ title: "Section 10907 - Permission to make complaint"
 usc_title: 46
 usc_section: "10907"
 chapter: 109
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "46 U.S.C. § 10907"
-generated_at: "2026-03-30T09:32:08.913Z"
+generated_at: "2026-03-30T09:34:53.115Z"
 status: "active"
 ---
 

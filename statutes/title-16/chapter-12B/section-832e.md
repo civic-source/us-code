@@ -3,9 +3,9 @@ title: "Section 832e - Rate schedules"
 usc_title: 16
 usc_section: "832e"
 chapter: 12
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 832e"
-generated_at: "2026-03-30T09:30:57.684Z"
+generated_at: "2026-03-30T09:33:15.612Z"
 status: "active"
 ---
 

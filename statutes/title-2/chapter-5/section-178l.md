@@ -3,9 +3,9 @@ title: "Section 178l - Repealed. Pub. L. 102–307, title II, § 214 , June 26, 
 usc_title: 2
 usc_section: "178l"
 chapter: 5
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "2 U.S.C. § 178l"
-generated_at: "2026-03-30T09:30:03.079Z"
+generated_at: "2026-03-30T09:32:25.125Z"
 status: "repealed"
 ---
 

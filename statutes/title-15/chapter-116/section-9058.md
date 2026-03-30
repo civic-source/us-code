@@ -3,9 +3,9 @@ title: "Section 9058 - Temporary moratorium on eviction filings"
 usc_title: 15
 usc_section: "9058"
 chapter: 116
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 9058"
-generated_at: "2026-03-30T09:30:42.628Z"
+generated_at: "2026-03-30T09:32:48.089Z"
 status: "active"
 ---
 

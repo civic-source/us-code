@@ -3,9 +3,9 @@ title: "Section 58103 - Employing another person as managing or operating agent"
 usc_title: 46
 usc_section: "58103"
 chapter: 581
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "46 U.S.C. § 58103"
-generated_at: "2026-03-30T09:32:08.935Z"
+generated_at: "2026-03-30T09:34:53.137Z"
 status: "active"
 ---
 

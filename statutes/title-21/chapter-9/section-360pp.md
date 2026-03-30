@@ -3,9 +3,9 @@ title: "Section 360pp - Enforcement"
 usc_title: 21
 usc_section: "360pp"
 chapter: 9
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "21 U.S.C. § 360pp"
-generated_at: "2026-03-30T09:31:05.109Z"
+generated_at: "2026-03-30T09:33:22.910Z"
 status: "active"
 ---
 

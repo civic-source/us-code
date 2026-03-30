@@ -3,9 +3,9 @@ title: "Section 3312 - Eligibility for financial assistance under approved enhan
 usc_title: 16
 usc_section: "3312"
 chapter: 52
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 3312"
-generated_at: "2026-03-30T09:30:57.785Z"
+generated_at: "2026-03-30T09:33:15.670Z"
 status: "active"
 ---
 

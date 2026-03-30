@@ -3,9 +3,9 @@ title: "Section 506 - Prospective payment of funds necessary to provide medical 
 usc_title: 14
 usc_section: "506"
 chapter: 5
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "14 U.S.C. § 506"
-generated_at: "2026-03-30T09:30:32.991Z"
+generated_at: "2026-03-30T09:32:43.021Z"
 status: "active"
 ---
 

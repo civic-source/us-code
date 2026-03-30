@@ -3,9 +3,9 @@ title: "Section 321q - Coordination of Department of Homeland Security efforts r
 usc_title: 6
 usc_section: "321q"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "6 U.S.C. § 321q"
-generated_at: "2026-03-30T09:30:17.890Z"
+generated_at: "2026-03-30T09:32:36.640Z"
 status: "active"
 ---
 

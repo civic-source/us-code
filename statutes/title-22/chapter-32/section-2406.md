@@ -3,9 +3,9 @@ title: "Section 2406 - Development programs for dependable fuel supplies"
 usc_title: 22
 usc_section: "2406"
 chapter: 32
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 2406"
-generated_at: "2026-03-30T09:31:07.910Z"
+generated_at: "2026-03-30T09:33:25.011Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1812 - Issuance of certificate of registration"
 usc_title: 29
 usc_section: "1812"
 chapter: 20
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "29 U.S.C. § 1812"
-generated_at: "2026-03-30T09:31:11.781Z"
+generated_at: "2026-03-30T09:33:34.489Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1677j - Prevention of circumvention of antidumping and counterva
 usc_title: 19
 usc_section: "1677j"
 chapter: 4
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 1677j"
-generated_at: "2026-03-30T09:30:49.551Z"
+generated_at: "2026-03-30T09:33:04.745Z"
 status: "active"
 ---
 

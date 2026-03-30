@@ -3,9 +3,9 @@ title: "Section 33 - Scholarships authorized"
 usc_title: 20
 usc_section: "33"
 chapter: 28
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 33"
-generated_at: "2026-03-30T09:30:47.790Z"
+generated_at: "2026-03-30T09:33:02.760Z"
 status: "active"
 ---
 

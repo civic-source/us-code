@@ -3,9 +3,9 @@ title: "Section 10 - Bringing in additional parties"
 usc_title: 15
 usc_section: "10"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-30T09:30:42.412Z"
+generated_at: "2026-03-30T09:32:47.896Z"
 status: "active"
 ---
 

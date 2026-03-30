@@ -3,9 +3,9 @@ title: "Section 1440f - Fingerprints and other biometric information for members
 usc_title: 8
 usc_section: "1440f"
 chapter: 12
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "8 U.S.C. § 1440f"
-generated_at: "2026-03-30T09:30:19.770Z"
+generated_at: "2026-03-30T09:32:36.184Z"
 status: "active"
 ---
 

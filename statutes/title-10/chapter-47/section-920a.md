@@ -3,9 +3,9 @@ title: "Section 920a - Art. 120a. Mails: deposit of obscene matter"
 usc_title: 10
 usc_section: "920a"
 chapter: 47
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 920a"
-generated_at: "2026-03-30T09:30:29.825Z"
+generated_at: "2026-03-30T09:32:35.554Z"
 status: "active"
 ---
 

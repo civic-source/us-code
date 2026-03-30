@@ -3,9 +3,9 @@ title: "Section 455 - Inspection in official establishments"
 usc_title: 21
 usc_section: "455"
 chapter: 10
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "21 U.S.C. § 455"
-generated_at: "2026-03-30T09:31:05.147Z"
+generated_at: "2026-03-30T09:33:22.935Z"
 status: "active"
 ---
 

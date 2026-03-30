@@ -3,9 +3,9 @@ title: "Section 2 - Failure to make choice on prescribed day"
 usc_title: 3
 usc_section: "2"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "3 U.S.C. § 2"
-generated_at: "2026-03-30T09:30:06.928Z"
+generated_at: "2026-03-30T09:32:23.403Z"
 status: "active"
 ---
 

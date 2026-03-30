@@ -3,9 +3,9 @@ title: "Section 6103 - Definitions"
 usc_title: 16
 usc_section: "6103"
 chapter: 80
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 6103"
-generated_at: "2026-03-30T09:30:57.829Z"
+generated_at: "2026-03-30T09:33:15.695Z"
 status: "active"
 ---
 

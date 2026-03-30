@@ -3,9 +3,9 @@ title: "Section 1502 - Initiation and development of projects; jurisdiction; acq
 usc_title: 42
 usc_section: "1502"
 chapter: 9
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 1502"
-generated_at: "2026-03-30T09:32:00.988Z"
+generated_at: "2026-03-30T09:34:29.371Z"
 status: "active"
 ---
 

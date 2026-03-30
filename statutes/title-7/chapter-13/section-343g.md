@@ -3,9 +3,9 @@ title: "Section 343g - Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 86"
 usc_title: 7
 usc_section: "343g"
 chapter: 13
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 343g"
-generated_at: "2026-03-30T09:30:21.710Z"
+generated_at: "2026-03-30T09:32:40.744Z"
 status: "repealed"
 ---
 

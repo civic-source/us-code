@@ -3,9 +3,9 @@ title: "Section 13705 - Transferred"
 usc_title: 42
 usc_section: "13705"
 chapter: 136
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 13705"
-generated_at: "2026-03-30T09:32:01.278Z"
+generated_at: "2026-03-30T09:34:29.661Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9346 - Retired lists"
 usc_title: 10
 usc_section: "9346"
 chapter: 943
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 9346"
-generated_at: "2026-03-30T09:30:29.928Z"
+generated_at: "2026-03-30T09:32:35.655Z"
 status: "active"
 ---
 

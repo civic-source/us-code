@@ -3,9 +3,9 @@ title: "Section 331 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "331"
 chapter: 5
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "33 U.S.C. § 331"
-generated_at: "2026-03-30T09:31:24.752Z"
+generated_at: "2026-03-30T09:33:48.715Z"
 status: "repealed"
 ---
 

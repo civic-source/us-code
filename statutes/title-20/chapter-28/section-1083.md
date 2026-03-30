@@ -3,9 +3,9 @@ title: "Section 1083 - Student loan information by eligible lenders"
 usc_title: 20
 usc_section: "1083"
 chapter: 28
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 1083"
-generated_at: "2026-03-30T09:30:47.800Z"
+generated_at: "2026-03-30T09:33:02.767Z"
 status: "active"
 ---
 

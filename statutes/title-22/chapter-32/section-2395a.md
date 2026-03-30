@@ -3,9 +3,9 @@ title: "Section 2395a - International agreements concerning debt relief; transmi
 usc_title: 22
 usc_section: "2395a"
 chapter: 32
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 2395a"
-generated_at: "2026-03-30T09:31:07.909Z"
+generated_at: "2026-03-30T09:33:25.010Z"
 status: "active"
 ---
 

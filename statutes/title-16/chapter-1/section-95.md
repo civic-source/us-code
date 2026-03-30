@@ -3,9 +3,9 @@ title: "Section 95 - Jurisdiction by the United States; fugitives from justice"
 usc_title: 16
 usc_section: "95"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 95"
-generated_at: "2026-03-30T09:30:57.467Z"
+generated_at: "2026-03-30T09:33:15.483Z"
 status: "active"
 ---
 

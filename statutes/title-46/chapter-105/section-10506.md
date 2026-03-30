@@ -3,9 +3,9 @@ title: "Section 10506 - Trusts"
 usc_title: 46
 usc_section: "10506"
 chapter: 105
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "46 U.S.C. § 10506"
-generated_at: "2026-03-30T09:32:08.913Z"
+generated_at: "2026-03-30T09:34:53.115Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1064 - Cancellation of registration"
 usc_title: 15
 usc_section: "1064"
 chapter: 22
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 1064"
-generated_at: "2026-03-30T09:30:42.517Z"
+generated_at: "2026-03-30T09:32:47.989Z"
 status: "active"
 ---
 

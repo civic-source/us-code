@@ -3,9 +3,9 @@ title: "Section 2347e - Prohibition on grant assistance for certain high income 
 usc_title: 22
 usc_section: "2347e"
 chapter: 32
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 2347e"
-generated_at: "2026-03-30T09:31:07.902Z"
+generated_at: "2026-03-30T09:33:25.005Z"
 status: "active"
 ---
 

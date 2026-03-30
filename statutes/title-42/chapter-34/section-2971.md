@@ -3,9 +3,9 @@ title: "Section 2971 - Repealed. Pub. L. 95–568, § 13(i) , Nov. 2, 1978 , 92 
 usc_title: 42
 usc_section: "2971"
 chapter: 34
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 2971"
-generated_at: "2026-03-30T09:32:01.043Z"
+generated_at: "2026-03-30T09:34:29.427Z"
 status: "repealed"
 ---
 

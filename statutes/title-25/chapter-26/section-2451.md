@@ -3,9 +3,9 @@ title: "Section 2451 - Bureau of Indian Affairs law enforcement and judicial tra
 usc_title: 25
 usc_section: "2451"
 chapter: 26
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "25 U.S.C. § 2451"
-generated_at: "2026-03-30T09:31:03.728Z"
+generated_at: "2026-03-30T09:33:28.800Z"
 status: "active"
 ---
 

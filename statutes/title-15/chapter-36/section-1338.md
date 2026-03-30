@@ -3,9 +3,9 @@ title: "Section 1338 - Criminal penalty"
 usc_title: 15
 usc_section: "1338"
 chapter: 36
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 1338"
-generated_at: "2026-03-30T09:30:42.525Z"
+generated_at: "2026-03-30T09:32:47.997Z"
 status: "active"
 ---
 

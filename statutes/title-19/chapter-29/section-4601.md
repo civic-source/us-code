@@ -3,9 +3,9 @@ title: "Section 4601 - Effect of termination of USMCA country status"
 usc_title: 19
 usc_section: "4601"
 chapter: 29
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 4601"
-generated_at: "2026-03-30T09:30:49.603Z"
+generated_at: "2026-03-30T09:33:04.789Z"
 status: "active"
 ---
 

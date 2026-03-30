@@ -3,9 +3,9 @@ title: "Section 1366 - Annual notification to substantial employers"
 usc_title: 29
 usc_section: "1366"
 chapter: 18
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "29 U.S.C. § 1366"
-generated_at: "2026-03-30T09:31:11.776Z"
+generated_at: "2026-03-30T09:33:34.485Z"
 status: "active"
 ---
 

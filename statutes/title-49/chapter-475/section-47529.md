@@ -3,9 +3,9 @@ title: "Section 47529 - Nonaddition rule"
 usc_title: 49
 usc_section: "47529"
 chapter: 475
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "49 U.S.C. § 47529"
-generated_at: "2026-03-30T09:32:07.360Z"
+generated_at: "2026-03-30T09:34:36.873Z"
 status: "active"
 ---
 

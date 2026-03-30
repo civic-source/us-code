@@ -3,9 +3,9 @@ title: "Section 316 - Consent by United States to conveyance of property"
 usc_title: 23
 usc_section: "316"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "23 U.S.C. § 316"
-generated_at: "2026-03-30T09:31:02.521Z"
+generated_at: "2026-03-30T09:33:18.301Z"
 status: "active"
 ---
 

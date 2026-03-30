@@ -3,9 +3,9 @@ title: "Section 8 - Special debt relief for poorest, most heavily indebted count
 usc_title: 12
 usc_section: "8"
 chapter: 6
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T09:30:35.584Z"
+generated_at: "2026-03-30T09:32:45.892Z"
 status: "active"
 ---
 

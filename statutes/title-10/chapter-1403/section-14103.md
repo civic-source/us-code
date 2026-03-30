@@ -3,9 +3,9 @@ title: "Section 14103 - Oath of members"
 usc_title: 10
 usc_section: "14103"
 chapter: 1403
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 14103"
-generated_at: "2026-03-30T09:30:29.941Z"
+generated_at: "2026-03-30T09:32:35.666Z"
 status: "active"
 ---
 

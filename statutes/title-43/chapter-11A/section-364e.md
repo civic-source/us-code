@@ -3,9 +3,9 @@ title: "Section 364e - Standardization of geographic names; abolition of United 
 usc_title: 43
 usc_section: "364e"
 chapter: 11
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "43 U.S.C. § 364e"
-generated_at: "2026-03-30T09:31:34.697Z"
+generated_at: "2026-03-30T09:33:59.946Z"
 status: "active"
 ---
 

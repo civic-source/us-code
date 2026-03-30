@@ -3,9 +3,9 @@ title: "Section 60101 - Definitions"
 usc_title: 51
 usc_section: "60101"
 chapter: 601
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "51 U.S.C. § 60101"
-generated_at: "2026-03-30T09:32:12.550Z"
+generated_at: "2026-03-30T09:34:55.568Z"
 status: "active"
 ---
 

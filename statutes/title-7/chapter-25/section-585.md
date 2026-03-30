@@ -3,9 +3,9 @@ title: "Section 585 - Fees for inspection and certification; certificates as pri
 usc_title: 7
 usc_section: "585"
 chapter: 25
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 585"
-generated_at: "2026-03-30T09:30:21.716Z"
+generated_at: "2026-03-30T09:32:40.751Z"
 status: "active"
 ---
 

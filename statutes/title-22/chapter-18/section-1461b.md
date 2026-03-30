@@ -3,9 +3,9 @@ title: "Section 1461b - Indemnification of owners of short-wave radio facilities
 usc_title: 22
 usc_section: "1461b"
 chapter: 18
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 1461b"
-generated_at: "2026-03-30T09:31:07.874Z"
+generated_at: "2026-03-30T09:33:24.983Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 281 - Repealed. Pub. L. 100–418, title V, § 5113 , Aug. 23, 1
 usc_title: 15
 usc_section: "281"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 281"
-generated_at: "2026-03-30T09:30:42.472Z"
+generated_at: "2026-03-30T09:32:47.951Z"
 status: "repealed"
 ---
 

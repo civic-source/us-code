@@ -3,9 +3,9 @@ title: "Section 1220d - “Obsolete ship” defined"
 usc_title: 16
 usc_section: "1220d"
 chapter: 25
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 1220d"
-generated_at: "2026-03-30T09:30:57.705Z"
+generated_at: "2026-03-30T09:33:15.624Z"
 status: "active"
 ---
 

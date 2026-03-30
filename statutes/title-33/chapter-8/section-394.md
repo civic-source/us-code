@@ -3,9 +3,9 @@ title: "Section 394 - Challenge to jurors"
 usc_title: 33
 usc_section: "394"
 chapter: 8
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "33 U.S.C. § 394"
-generated_at: "2026-03-30T09:31:24.753Z"
+generated_at: "2026-03-30T09:33:48.715Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6316 - Payment by foreign currency"
 usc_title: 26
 usc_section: "6316"
 chapter: 64
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "26 U.S.C. § 6316"
-generated_at: "2026-03-30T09:31:20.259Z"
+generated_at: "2026-03-30T09:33:39.541Z"
 status: "active"
 ---
 

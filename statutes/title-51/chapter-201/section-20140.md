@@ -3,9 +3,9 @@ title: "Section 20140 - Appropriations"
 usc_title: 51
 usc_section: "20140"
 chapter: 201
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "51 U.S.C. § 20140"
-generated_at: "2026-03-30T09:32:12.543Z"
+generated_at: "2026-03-30T09:34:55.563Z"
 status: "active"
 ---
 

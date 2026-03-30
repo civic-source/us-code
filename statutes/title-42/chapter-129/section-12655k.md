@@ -3,9 +3,9 @@ title: "Section 12655k - Repealed. Pub. L. 103–82, title I, § 101(e)(8)(A) , 
 usc_title: 42
 usc_section: "12655k"
 chapter: 129
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 12655k"
-generated_at: "2026-03-30T09:32:01.260Z"
+generated_at: "2026-03-30T09:34:29.643Z"
 status: "repealed"
 ---
 

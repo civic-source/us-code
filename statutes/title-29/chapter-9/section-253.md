@@ -3,9 +3,9 @@ title: "Section 253 - Compromise and waiver"
 usc_title: 29
 usc_section: "253"
 chapter: 9
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "29 U.S.C. § 253"
-generated_at: "2026-03-30T09:31:11.726Z"
+generated_at: "2026-03-30T09:33:34.444Z"
 status: "active"
 ---
 

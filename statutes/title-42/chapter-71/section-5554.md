@@ -3,9 +3,9 @@ title: "Section 5554 - Solar energy resource determination and assessment progra
 usc_title: 42
 usc_section: "5554"
 chapter: 71
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 5554"
-generated_at: "2026-03-30T09:32:01.100Z"
+generated_at: "2026-03-30T09:34:29.484Z"
 status: "active"
 ---
 

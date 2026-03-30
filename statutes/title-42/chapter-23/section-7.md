@@ -3,9 +3,9 @@ title: "Section 7 - Liabilities"
 usc_title: 42
 usc_section: "7"
 chapter: 23
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T09:32:01.038Z"
+generated_at: "2026-03-30T09:34:29.422Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 78iii - Functions of self-regulatory organizations"
 usc_title: 15
 usc_section: "78iii"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 78iii"
-generated_at: "2026-03-30T09:30:42.455Z"
+generated_at: "2026-03-30T09:32:47.935Z"
 status: "active"
 ---
 

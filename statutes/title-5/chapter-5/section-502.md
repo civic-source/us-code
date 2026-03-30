@@ -3,9 +3,9 @@ title: "Section 502 - Administrative practice; Reserves and National Guardsmen"
 usc_title: 5
 usc_section: "502"
 chapter: 5
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "5 U.S.C. § 502"
-generated_at: "2026-03-30T09:30:12.601Z"
+generated_at: "2026-03-30T09:32:27.189Z"
 status: "active"
 ---
 

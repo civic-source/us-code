@@ -3,9 +3,9 @@ title: "Section 2624 - Repealed. Pub. L. 114–182, title I, § 16 , June 22, 20
 usc_title: 15
 usc_section: "2624"
 chapter: 53
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 2624"
-generated_at: "2026-03-30T09:30:42.570Z"
+generated_at: "2026-03-30T09:32:48.037Z"
 status: "repealed"
 ---
 

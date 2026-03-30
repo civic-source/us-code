@@ -3,9 +3,9 @@ title: "Section 2160a - Review of Nuclear Proliferation Assessment Statements"
 usc_title: 42
 usc_section: "2160a"
 chapter: 23
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "42 U.S.C. § 2160a"
-generated_at: "2026-03-30T09:32:01.029Z"
+generated_at: "2026-03-30T09:34:29.413Z"
 status: "active"
 ---
 

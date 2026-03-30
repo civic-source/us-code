@@ -3,9 +3,9 @@ title: "Section 1012 - Payments to counties"
 usc_title: 7
 usc_section: "1012"
 chapter: 33
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 1012"
-generated_at: "2026-03-30T09:30:21.724Z"
+generated_at: "2026-03-30T09:32:40.759Z"
 status: "active"
 ---
 

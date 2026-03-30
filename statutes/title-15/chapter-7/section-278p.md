@@ -3,9 +3,9 @@ title: "Section 278p - Notice to Congress"
 usc_title: 15
 usc_section: "278p"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 278p"
-generated_at: "2026-03-30T09:30:42.471Z"
+generated_at: "2026-03-30T09:32:47.950Z"
 status: "active"
 ---
 

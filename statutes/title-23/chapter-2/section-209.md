@@ -3,9 +3,9 @@ title: "Section 209 - Repealed. Pub. L. 97–424, title I, § 126(d) , Jan. 6, 1
 usc_title: 23
 usc_section: "209"
 chapter: 2
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "23 U.S.C. § 209"
-generated_at: "2026-03-30T09:31:02.520Z"
+generated_at: "2026-03-30T09:33:18.300Z"
 status: "repealed"
 ---
 

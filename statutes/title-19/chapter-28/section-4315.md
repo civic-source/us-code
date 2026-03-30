@@ -3,9 +3,9 @@ title: "Section 4315 - Consultations with respect to mutual recognition arrangem
 usc_title: 19
 usc_section: "4315"
 chapter: 28
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 4315"
-generated_at: "2026-03-30T09:30:49.596Z"
+generated_at: "2026-03-30T09:33:04.783Z"
 status: "active"
 ---
 

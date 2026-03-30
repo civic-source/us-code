@@ -3,9 +3,9 @@ title: "Section 312a - Revocation of operator’s license used in unlawful distr
 usc_title: 47
 usc_section: "312a"
 chapter: 5
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "47 U.S.C. § 312a"
-generated_at: "2026-03-30T09:32:04.784Z"
+generated_at: "2026-03-30T09:34:32.921Z"
 status: "active"
 ---
 

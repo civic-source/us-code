@@ -3,9 +3,9 @@ title: "Section 158 - Designation of United States attorneys and agents of the F
 usc_title: 18
 usc_section: "158"
 chapter: 9
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "18 U.S.C. § 158"
-generated_at: "2026-03-30T09:30:51.469Z"
+generated_at: "2026-03-30T09:33:03.668Z"
 status: "active"
 ---
 

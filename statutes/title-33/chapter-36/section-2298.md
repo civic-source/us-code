@@ -3,9 +3,9 @@ title: "Section 2298 - Impact of proposed projects on existing recreation facili
 usc_title: 33
 usc_section: "2298"
 chapter: 36
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "33 U.S.C. § 2298"
-generated_at: "2026-03-30T09:31:24.807Z"
+generated_at: "2026-03-30T09:33:48.772Z"
 status: "active"
 ---
 

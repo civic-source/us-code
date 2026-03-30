@@ -3,9 +3,9 @@ title: "Section 2412 - Initiation of investigations"
 usc_title: 19
 usc_section: "2412"
 chapter: 12
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 2412"
-generated_at: "2026-03-30T09:30:49.565Z"
+generated_at: "2026-03-30T09:33:04.758Z"
 status: "active"
 ---
 

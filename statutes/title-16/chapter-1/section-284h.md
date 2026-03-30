@@ -3,9 +3,9 @@ title: "Section 284h - General management plan; preparation and revision; submit
 usc_title: 16
 usc_section: "284h"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 284h"
-generated_at: "2026-03-30T09:30:57.484Z"
+generated_at: "2026-03-30T09:33:15.493Z"
 status: "active"
 ---
 

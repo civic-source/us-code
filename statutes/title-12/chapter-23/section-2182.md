@@ -3,9 +3,9 @@ title: "Section 2182 - Repealed. Pub. L. 100–233, title IV, § 418(a)(2) , (3)
 usc_title: 12
 usc_section: "2182"
 chapter: 23
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "12 U.S.C. § 2182"
-generated_at: "2026-03-30T09:30:35.667Z"
+generated_at: "2026-03-30T09:32:45.972Z"
 status: "repealed"
 ---
 

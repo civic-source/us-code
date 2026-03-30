@@ -3,9 +3,9 @@ title: "Section 3414 - Other programs relating to wheat or wheat food research o
 usc_title: 7
 usc_section: "3414"
 chapter: 65
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "7 U.S.C. § 3414"
-generated_at: "2026-03-30T09:30:21.800Z"
+generated_at: "2026-03-30T09:32:40.838Z"
 status: "active"
 ---
 

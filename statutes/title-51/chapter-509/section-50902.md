@@ -3,9 +3,9 @@ title: "Section 50902 - Definitions"
 usc_title: 51
 usc_section: "50902"
 chapter: 509
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "51 U.S.C. § 50902"
-generated_at: "2026-03-30T09:32:12.549Z"
+generated_at: "2026-03-30T09:34:55.567Z"
 status: "active"
 ---
 

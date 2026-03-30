@@ -3,9 +3,9 @@ title: "Section 1172 - Enlisted members: during war or emergency; discharge"
 usc_title: 10
 usc_section: "1172"
 chapter: 59
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 1172"
-generated_at: "2026-03-30T09:30:29.843Z"
+generated_at: "2026-03-30T09:32:35.572Z"
 status: "active"
 ---
 

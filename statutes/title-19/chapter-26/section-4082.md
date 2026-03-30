@@ -3,9 +3,9 @@ title: "Section 4082 - Determination and provision of relief"
 usc_title: 19
 usc_section: "4082"
 chapter: 26
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "19 U.S.C. § 4082"
-generated_at: "2026-03-30T09:30:49.592Z"
+generated_at: "2026-03-30T09:33:04.779Z"
 status: "active"
 ---
 

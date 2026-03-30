@@ -3,9 +3,9 @@ title: "Section 622 - Chemical Facility Anti-Terrorism Standards Program"
 usc_title: 6
 usc_section: "622"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "6 U.S.C. § 622"
-generated_at: "2026-03-30T09:30:17.901Z"
+generated_at: "2026-03-30T09:32:36.652Z"
 status: "active"
 ---
 

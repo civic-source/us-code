@@ -3,9 +3,9 @@ title: "Section 46 - Compliance with environmental laws"
 usc_title: 16
 usc_section: "46"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 46"
-generated_at: "2026-03-30T09:30:57.588Z"
+generated_at: "2026-03-30T09:33:15.557Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2411 - Director for Cost Estimating and Program Evaluation"
 usc_title: 50
 usc_section: "2411"
 chapter: 41
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "50 U.S.C. § 2411"
-generated_at: "2026-03-30T09:32:10.298Z"
+generated_at: "2026-03-30T09:34:34.477Z"
 status: "active"
 ---
 

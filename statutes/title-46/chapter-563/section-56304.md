@@ -3,9 +3,9 @@ title: "Section 56304 - Disputed compensation"
 usc_title: 46
 usc_section: "56304"
 chapter: 563
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "46 U.S.C. § 56304"
-generated_at: "2026-03-30T09:32:08.934Z"
+generated_at: "2026-03-30T09:34:53.136Z"
 status: "active"
 ---
 

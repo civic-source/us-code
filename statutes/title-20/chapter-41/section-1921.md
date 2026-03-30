@@ -3,9 +3,9 @@ title: "Section 1921 - Repealed. Pub. L. 95–561, title XV, § 1529 , Nov. 1, 1
 usc_title: 20
 usc_section: "1921"
 chapter: 41
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 1921"
-generated_at: "2026-03-30T09:30:47.855Z"
+generated_at: "2026-03-30T09:33:02.811Z"
 status: "repealed"
 ---
 

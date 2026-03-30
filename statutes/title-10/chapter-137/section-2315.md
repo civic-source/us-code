@@ -3,9 +3,9 @@ title: "Section 2315 - Law inapplicable to the procurement of automatic data pro
 usc_title: 10
 usc_section: "2315"
 chapter: 137
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "10 U.S.C. § 2315"
-generated_at: "2026-03-30T09:30:29.874Z"
+generated_at: "2026-03-30T09:32:35.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Health benefits for certain former spouses"
 usc_title: 22
 usc_section: "1"
 chapter: 52
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T09:31:07.952Z"
+generated_at: "2026-03-30T09:33:25.044Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 38 - Association of marine insurance companies; application of a
 usc_title: 15
 usc_section: "38"
 chapter: 1
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "15 U.S.C. § 38"
-generated_at: "2026-03-30T09:30:42.416Z"
+generated_at: "2026-03-30T09:32:47.898Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41 - Incorporation of institution"
 usc_title: 20
 usc_section: "41"
 chapter: 3
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "20 U.S.C. § 41"
-generated_at: "2026-03-30T09:30:47.761Z"
+generated_at: "2026-03-30T09:33:02.734Z"
 status: "active"
 ---
 

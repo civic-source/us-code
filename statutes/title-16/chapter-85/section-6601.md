@@ -3,9 +3,9 @@ title: "Section 6601 - Findings and purposes"
 usc_title: 16
 usc_section: "6601"
 chapter: 85
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "16 U.S.C. § 6601"
-generated_at: "2026-03-30T09:30:57.837Z"
+generated_at: "2026-03-30T09:33:15.699Z"
 status: "active"
 ---
 

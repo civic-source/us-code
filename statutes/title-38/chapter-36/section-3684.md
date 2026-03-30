@@ -3,9 +3,9 @@ title: "Section 3684 - Reports by veterans, eligible persons, and institutions; 
 usc_title: 38
 usc_section: "3684"
 chapter: 36
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "38 U.S.C. § 3684"
-generated_at: "2026-03-30T09:31:28.971Z"
+generated_at: "2026-03-30T09:33:53.080Z"
 status: "active"
 ---
 

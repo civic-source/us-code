@@ -3,9 +3,9 @@ title: "Section 8731 - Acquiring land for park, parkway, or playground purposes"
 usc_title: 40
 usc_section: "8731"
 chapter: 87
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "40 U.S.C. § 8731"
-generated_at: "2026-03-30T09:31:31.927Z"
+generated_at: "2026-03-30T09:33:51.330Z"
 status: "active"
 ---
 

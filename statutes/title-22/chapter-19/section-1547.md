@@ -3,9 +3,9 @@ title: "Section 1547 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(4),
 usc_title: 22
 usc_section: "1547"
 chapter: 19
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "22 U.S.C. § 1547"
-generated_at: "2026-03-30T09:31:07.876Z"
+generated_at: "2026-03-30T09:33:24.984Z"
 status: "repealed"
 ---
 

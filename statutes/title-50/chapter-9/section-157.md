@@ -3,9 +3,9 @@ title: "Section 157 - Omitted"
 usc_title: 50
 usc_section: "157"
 chapter: 9
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "50 U.S.C. § 157"
-generated_at: "2026-03-30T09:32:10.276Z"
+generated_at: "2026-03-30T09:34:34.456Z"
 status: "omitted"
 ---
 

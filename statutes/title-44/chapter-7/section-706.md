@@ -3,9 +3,9 @@ title: "Section 706 - Bills and resolutions: number and distribution"
 usc_title: 44
 usc_section: "706"
 chapter: 7
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "44 U.S.C. § 706"
-generated_at: "2026-03-30T09:31:33.822Z"
+generated_at: "2026-03-30T09:33:55.801Z"
 status: "active"
 ---
 

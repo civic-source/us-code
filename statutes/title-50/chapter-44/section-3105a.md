@@ -3,9 +3,9 @@ title: "Section 3105a - Repealed. Pub. L. 116–92, div. E, title LVII, § 5701(
 usc_title: 50
 usc_section: "3105a"
 chapter: 44
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "50 U.S.C. § 3105a"
-generated_at: "2026-03-30T09:32:10.315Z"
+generated_at: "2026-03-30T09:34:34.493Z"
 status: "repealed"
 ---
 

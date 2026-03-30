@@ -3,9 +3,9 @@ title: "Section 1531 - Feasibility study loan program"
 usc_title: 30
 usc_section: "1531"
 chapter: 27
-current_through: "PL 116-150"
+current_through: "PL 116-151"
 classification: "30 U.S.C. § 1531"
-generated_at: "2026-03-30T09:31:10.448Z"
+generated_at: "2026-03-30T09:33:34.923Z"
 status: "active"
 ---
 
