@@ -3,9 +3,9 @@ title: "Section 10109 - Marine Corps Reserve: administration"
 usc_title: 10
 usc_section: "10109"
 chapter: 1003
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 10109"
-generated_at: "2026-03-30T08:32:32.978Z"
+generated_at: "2026-03-30T08:34:50.759Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10491 - Duties"
 usc_title: 34
 usc_section: "10491"
 chapter: 101
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "34 U.S.C. § 10491"
-generated_at: "2026-03-30T08:33:32.762Z"
+generated_at: "2026-03-30T08:36:13.882Z"
 status: "active"
 ---
 

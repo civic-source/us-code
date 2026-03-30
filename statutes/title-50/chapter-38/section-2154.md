@@ -3,9 +3,9 @@ title: "Section 2154 - Special rules for former spouses"
 usc_title: 50
 usc_section: "2154"
 chapter: 38
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "50 U.S.C. § 2154"
-generated_at: "2026-03-30T08:34:13.913Z"
+generated_at: "2026-03-30T08:36:46.714Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22912 - Annual report"
 usc_title: 36
 usc_section: "22912"
 chapter: 229
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "36 U.S.C. § 22912"
-generated_at: "2026-03-30T08:33:40.010Z"
+generated_at: "2026-03-30T08:36:25.991Z"
 status: "active"
 ---
 

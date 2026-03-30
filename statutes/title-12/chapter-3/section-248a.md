@@ -3,9 +3,9 @@ title: "Section 248a - Pricing of services"
 usc_title: 12
 usc_section: "248a"
 chapter: 3
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 248a"
-generated_at: "2026-03-30T08:32:41.122Z"
+generated_at: "2026-03-30T08:34:58.609Z"
 status: "active"
 ---
 

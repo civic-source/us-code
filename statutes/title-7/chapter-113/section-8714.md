@@ -3,9 +3,9 @@ title: "Section 8714 - Repealed. Pub. L. 113–79, title I, § 1102(a) , Feb. 7,
 usc_title: 7
 usc_section: "8714"
 chapter: 113
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 8714"
-generated_at: "2026-03-30T08:32:36.185Z"
+generated_at: "2026-03-30T08:34:52.912Z"
 status: "repealed"
 ---
 

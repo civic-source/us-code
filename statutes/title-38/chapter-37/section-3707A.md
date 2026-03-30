@@ -3,9 +3,9 @@ title: "Section 3707A - Hybrid adjustable rate mortgages"
 usc_title: 38
 usc_section: "3707A"
 chapter: 37
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "38 U.S.C. § 3707A"
-generated_at: "2026-03-30T08:33:42.459Z"
+generated_at: "2026-03-30T08:36:27.627Z"
 status: "active"
 ---
 

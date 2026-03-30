@@ -3,9 +3,9 @@ title: "Section 706 - Liabilities of occupants; trespass; limitations"
 usc_title: 30
 usc_section: "706"
 chapter: 20
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "30 U.S.C. § 706"
-generated_at: "2026-03-30T08:33:18.271Z"
+generated_at: "2026-03-30T08:35:33.513Z"
 status: "active"
 ---
 

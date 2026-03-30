@@ -3,9 +3,9 @@ title: "Section 2224 - Recommendations"
 usc_title: 43
 usc_section: "2224"
 chapter: 40
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 2224"
-generated_at: "2026-03-30T08:33:46.556Z"
+generated_at: "2026-03-30T08:36:30.496Z"
 status: "active"
 ---
 

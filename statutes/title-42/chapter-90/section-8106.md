@@ -3,9 +3,9 @@ title: "Section 8106 - Reports and audits"
 usc_title: 42
 usc_section: "8106"
 chapter: 90
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 8106"
-generated_at: "2026-03-30T08:34:08.836Z"
+generated_at: "2026-03-30T08:36:42.361Z"
 status: "active"
 ---
 

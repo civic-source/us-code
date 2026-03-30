@@ -3,9 +3,9 @@ title: "Section 10222 - Notice and hearing on denial or termination of grant"
 usc_title: 34
 usc_section: "10222"
 chapter: 101
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "34 U.S.C. § 10222"
-generated_at: "2026-03-30T08:33:32.757Z"
+generated_at: "2026-03-30T08:36:13.876Z"
 status: "active"
 ---
 

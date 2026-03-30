@@ -3,9 +3,9 @@ title: "Section 614d - Omitted"
 usc_title: 43
 usc_section: "614d"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 614d"
-generated_at: "2026-03-30T08:33:46.520Z"
+generated_at: "2026-03-30T08:36:30.462Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2261 - Presentation of recognition items for recruitment and ret
 usc_title: 10
 usc_section: "2261"
 chapter: 134
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 2261"
-generated_at: "2026-03-30T08:32:32.917Z"
+generated_at: "2026-03-30T08:34:50.701Z"
 status: "active"
 ---
 

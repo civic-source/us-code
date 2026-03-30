@@ -3,9 +3,9 @@ title: "Section 8624 - Transportation on naval vessels during wartime"
 usc_title: 10
 usc_section: "8624"
 chapter: 861
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 8624"
-generated_at: "2026-03-30T08:32:32.966Z"
+generated_at: "2026-03-30T08:34:50.749Z"
 status: "active"
 ---
 

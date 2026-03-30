@@ -3,9 +3,9 @@ title: "Section 51908 - Prohibition against unauthorized manufacture, sale, poss
 usc_title: 46
 usc_section: "51908"
 chapter: 519
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "46 U.S.C. § 51908"
-generated_at: "2026-03-30T08:34:12.955Z"
+generated_at: "2026-03-30T08:36:54.072Z"
 status: "active"
 ---
 

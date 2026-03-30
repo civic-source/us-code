@@ -3,9 +3,9 @@ title: "Section 7191 - Procedures for issuance of rules, regulations, or orders"
 usc_title: 42
 usc_section: "7191"
 chapter: 84
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 7191"
-generated_at: "2026-03-30T08:34:08.794Z"
+generated_at: "2026-03-30T08:36:42.319Z"
 status: "active"
 ---
 

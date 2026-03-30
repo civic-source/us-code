@@ -3,9 +3,9 @@ title: "Section 324 - Special pay: accession bonus for new officers in critical 
 usc_title: 37
 usc_section: "324"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "37 U.S.C. § 324"
-generated_at: "2026-03-30T08:33:43.122Z"
+generated_at: "2026-03-30T08:36:25.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1727g - Omitted"
 usc_title: 7
 usc_section: "1727g"
 chapter: 41
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 1727g"
-generated_at: "2026-03-30T08:32:36.066Z"
+generated_at: "2026-03-30T08:34:52.805Z"
 status: "omitted"
 ---
 

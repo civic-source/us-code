@@ -3,9 +3,9 @@ title: "Section 190112 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "190112"
 chapter: 1901
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "36 U.S.C. § 190112"
-generated_at: "2026-03-30T08:33:40.022Z"
+generated_at: "2026-03-30T08:36:26.002Z"
 status: "active"
 ---
 

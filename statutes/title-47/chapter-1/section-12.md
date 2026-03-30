@@ -3,9 +3,9 @@ title: "Section 12 - Interference with liens of United States"
 usc_title: 47
 usc_section: "12"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "47 U.S.C. § 12"
-generated_at: "2026-03-30T08:34:12.137Z"
+generated_at: "2026-03-30T08:36:48.576Z"
 status: "active"
 ---
 

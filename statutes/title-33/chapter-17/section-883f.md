@@ -3,9 +3,9 @@ title: "Section 883f - Contracts with qualified organizations"
 usc_title: 33
 usc_section: "883f"
 chapter: 17
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "33 U.S.C. § 883f"
-generated_at: "2026-03-30T08:33:34.588Z"
+generated_at: "2026-03-30T08:36:11.812Z"
 status: "active"
 ---
 

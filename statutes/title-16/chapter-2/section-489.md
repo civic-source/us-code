@@ -3,9 +3,9 @@ title: "Section 489 - Repealed. Pub. L. 87–869, § 5 , Oct. 23, 1962 , 76 Stat
 usc_title: 16
 usc_section: "489"
 chapter: 2
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 489"
-generated_at: "2026-03-30T08:33:07.245Z"
+generated_at: "2026-03-30T08:35:17.659Z"
 status: "repealed"
 ---
 

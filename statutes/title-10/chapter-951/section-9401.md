@@ -3,9 +3,9 @@ title: "Section 9401 - Members of Air Force: detail as students, observers, and 
 usc_title: 10
 usc_section: "9401"
 chapter: 951
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 9401"
-generated_at: "2026-03-30T08:32:32.973Z"
+generated_at: "2026-03-30T08:34:50.755Z"
 status: "active"
 ---
 

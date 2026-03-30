@@ -3,9 +3,9 @@ title: "Section 1131 - Definitions"
 usc_title: 6
 usc_section: "1131"
 chapter: 4
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "6 U.S.C. § 1131"
-generated_at: "2026-03-30T08:32:26.662Z"
+generated_at: "2026-03-30T08:34:46.204Z"
 status: "active"
 ---
 

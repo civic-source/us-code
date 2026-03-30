@@ -3,9 +3,9 @@ title: "Section 11173 - Eligibility"
 usc_title: 34
 usc_section: "11173"
 chapter: 111
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "34 U.S.C. § 11173"
-generated_at: "2026-03-30T08:33:32.770Z"
+generated_at: "2026-03-30T08:36:13.888Z"
 status: "active"
 ---
 

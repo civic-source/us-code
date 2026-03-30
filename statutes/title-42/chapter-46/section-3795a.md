@@ -3,9 +3,9 @@ title: "Section 3795a - Transferred"
 usc_title: 42
 usc_section: "3795a"
 chapter: 46
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 3795a"
-generated_at: "2026-03-30T08:34:08.713Z"
+generated_at: "2026-03-30T08:36:42.240Z"
 status: "transferred"
 ---
 

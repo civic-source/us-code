@@ -3,9 +3,9 @@ title: "Section 559 - Benefits for members held as captives"
 usc_title: 37
 usc_section: "559"
 chapter: 10
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "37 U.S.C. § 559"
-generated_at: "2026-03-30T08:33:43.129Z"
+generated_at: "2026-03-30T08:36:25.338Z"
 status: "active"
 ---
 

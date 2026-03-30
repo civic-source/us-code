@@ -3,9 +3,9 @@ title: "Section 6438 - Transition services"
 usc_title: 20
 usc_section: "6438"
 chapter: 70
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 6438"
-generated_at: "2026-03-30T08:33:02.816Z"
+generated_at: "2026-03-30T08:35:19.570Z"
 status: "active"
 ---
 

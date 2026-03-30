@@ -3,9 +3,9 @@ title: "Section 4013a - Policy disclosures"
 usc_title: 42
 usc_section: "4013a"
 chapter: 50
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 4013a"
-generated_at: "2026-03-30T08:34:08.716Z"
+generated_at: "2026-03-30T08:36:42.243Z"
 status: "active"
 ---
 

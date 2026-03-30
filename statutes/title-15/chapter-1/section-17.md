@@ -3,9 +3,9 @@ title: "Section 17 - Antitrust laws not applicable to labor organizations"
 usc_title: 15
 usc_section: "17"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 17"
-generated_at: "2026-03-30T08:32:57.546Z"
+generated_at: "2026-03-30T08:35:09.696Z"
 status: "active"
 ---
 

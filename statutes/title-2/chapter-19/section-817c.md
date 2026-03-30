@@ -3,9 +3,9 @@ title: "Section 817c - Omitted"
 usc_title: 2
 usc_section: "817c"
 chapter: 19
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "2 U.S.C. § 817c"
-generated_at: "2026-03-30T08:32:22.087Z"
+generated_at: "2026-03-30T08:34:34.716Z"
 status: "omitted"
 ---
 

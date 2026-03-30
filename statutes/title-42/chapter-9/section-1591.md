@@ -3,9 +3,9 @@ title: "Section 1591 - Determination of critical areas by President; requisite c
 usc_title: 42
 usc_section: "1591"
 chapter: 9
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 1591"
-generated_at: "2026-03-30T08:34:08.635Z"
+generated_at: "2026-03-30T08:36:42.164Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1437h - Implementation of provisions by Secretary"
 usc_title: 42
 usc_section: "1437h"
 chapter: 8
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 1437h"
-generated_at: "2026-03-30T08:34:08.618Z"
+generated_at: "2026-03-30T08:36:42.149Z"
 status: "active"
 ---
 

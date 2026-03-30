@@ -3,9 +3,9 @@ title: "Section 342 - Chief Financial Officer"
 usc_title: 6
 usc_section: "342"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "6 U.S.C. § 342"
-generated_at: "2026-03-30T08:32:26.644Z"
+generated_at: "2026-03-30T08:34:46.186Z"
 status: "active"
 ---
 

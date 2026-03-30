@@ -3,9 +3,9 @@ title: "Section 80j - Audit of accounts"
 usc_title: 20
 usc_section: "80j"
 chapter: 3
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 80j"
-generated_at: "2026-03-30T08:33:02.716Z"
+generated_at: "2026-03-30T08:35:19.462Z"
 status: "active"
 ---
 

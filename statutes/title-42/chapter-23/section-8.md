@@ -3,9 +3,9 @@ title: "Section 8 - Employee protections"
 usc_title: 42
 usc_section: "8"
 chapter: 23
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T08:34:08.685Z"
+generated_at: "2026-03-30T08:36:42.214Z"
 status: "active"
 ---
 

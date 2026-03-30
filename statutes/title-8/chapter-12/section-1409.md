@@ -3,9 +3,9 @@ title: "Section 1409 - Children born out of wedlock"
 usc_title: 8
 usc_section: "1409"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "8 U.S.C. § 1409"
-generated_at: "2026-03-30T08:32:27.302Z"
+generated_at: "2026-03-30T08:34:43.746Z"
 status: "active"
 ---
 

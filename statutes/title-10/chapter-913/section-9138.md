@@ -3,9 +3,9 @@ title: "Section 9138 - Regular Air Force: reenlistment after service as an offic
 usc_title: 10
 usc_section: "9138"
 chapter: 913
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 9138"
-generated_at: "2026-03-30T08:32:32.972Z"
+generated_at: "2026-03-30T08:34:50.754Z"
 status: "active"
 ---
 

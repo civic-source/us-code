@@ -3,9 +3,9 @@ title: "Section 1223 - Omitted"
 usc_title: 43
 usc_section: "1223"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 1223"
-generated_at: "2026-03-30T08:33:46.531Z"
+generated_at: "2026-03-30T08:36:30.472Z"
 status: "omitted"
 ---
 

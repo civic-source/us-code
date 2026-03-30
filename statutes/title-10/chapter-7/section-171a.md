@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T08:32:32.845Z"
+generated_at: "2026-03-30T08:34:50.633Z"
 status: "active"
 ---
 

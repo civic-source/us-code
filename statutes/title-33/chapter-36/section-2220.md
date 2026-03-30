@@ -3,9 +3,9 @@ title: "Section 2220 - Rivers and harbors and other waterways projects for benef
 usc_title: 33
 usc_section: "2220"
 chapter: 36
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "33 U.S.C. § 2220"
-generated_at: "2026-03-30T08:33:34.620Z"
+generated_at: "2026-03-30T08:36:11.843Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 668 - Encouragement of States to adopt civil procedure for estab
 usc_title: 42
 usc_section: "668"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 668"
-generated_at: "2026-03-30T08:34:08.461Z"
+generated_at: "2026-03-30T08:36:41.994Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20925 - Powers"
 usc_title: 52
 usc_section: "20925"
 chapter: 209
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "52 U.S.C. § 20925"
-generated_at: "2026-03-30T08:34:17.723Z"
+generated_at: "2026-03-30T08:36:56.391Z"
 status: "active"
 ---
 

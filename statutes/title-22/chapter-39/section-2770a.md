@@ -3,9 +3,9 @@ title: "Section 2770a - Exchange of training and related support"
 usc_title: 22
 usc_section: "2770a"
 chapter: 39
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 2770a"
-generated_at: "2026-03-30T08:33:13.170Z"
+generated_at: "2026-03-30T08:35:26.586Z"
 status: "active"
 ---
 

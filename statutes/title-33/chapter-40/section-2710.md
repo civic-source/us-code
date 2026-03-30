@@ -3,9 +3,9 @@ title: "Section 2710 - Indemnification agreements"
 usc_title: 33
 usc_section: "2710"
 chapter: 40
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "33 U.S.C. § 2710"
-generated_at: "2026-03-30T08:33:34.633Z"
+generated_at: "2026-03-30T08:36:11.854Z"
 status: "active"
 ---
 

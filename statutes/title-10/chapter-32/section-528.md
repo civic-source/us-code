@@ -3,9 +3,9 @@ title: "Section 528 - Officers serving in certain intelligence positions: milita
 usc_title: 10
 usc_section: "528"
 chapter: 32
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 528"
-generated_at: "2026-03-30T08:32:32.857Z"
+generated_at: "2026-03-30T08:34:50.645Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 585 - Vacancies"
 usc_title: 28
 usc_section: "585"
 chapter: 39
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "28 U.S.C. § 585"
-generated_at: "2026-03-30T08:33:21.123Z"
+generated_at: "2026-03-30T08:35:30.899Z"
 status: "active"
 ---
 

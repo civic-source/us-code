@@ -3,9 +3,9 @@ title: "Section 9013 - Secretary of the Air Force"
 usc_title: 10
 usc_section: "9013"
 chapter: 903
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 9013"
-generated_at: "2026-03-30T08:32:32.971Z"
+generated_at: "2026-03-30T08:34:50.753Z"
 status: "active"
 ---
 

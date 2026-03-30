@@ -3,9 +3,9 @@ title: "Section 908 - Art. 108. Military property of United States—Loss, damag
 usc_title: 10
 usc_section: "908"
 chapter: 47
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 908"
-generated_at: "2026-03-30T08:32:32.871Z"
+generated_at: "2026-03-30T08:34:50.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 250 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 25
 usc_section: "250"
 chapter: 6
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 250"
-generated_at: "2026-03-30T08:33:15.905Z"
+generated_at: "2026-03-30T08:35:27.938Z"
 status: "repealed"
 ---
 

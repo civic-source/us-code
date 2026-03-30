@@ -3,9 +3,9 @@ title: "Section 1780b - Omitted"
 usc_title: 25
 usc_section: "1780b"
 chapter: 19
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 1780b"
-generated_at: "2026-03-30T08:33:15.931Z"
+generated_at: "2026-03-30T08:35:27.963Z"
 status: "omitted"
 ---
 

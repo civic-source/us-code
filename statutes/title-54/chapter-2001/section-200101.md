@@ -3,9 +3,9 @@ title: "Section 200101 - Findings and declaration of policy"
 usc_title: 54
 usc_section: "200101"
 chapter: 2001
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "54 U.S.C. § 200101"
-generated_at: "2026-03-30T08:34:17.993Z"
+generated_at: "2026-03-30T08:36:55.910Z"
 status: "active"
 ---
 

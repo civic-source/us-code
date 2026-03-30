@@ -3,9 +3,9 @@ title: "Section 3 - Regulations"
 usc_title: 12
 usc_section: "3"
 chapter: 13
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T08:32:41.176Z"
+generated_at: "2026-03-30T08:34:58.662Z"
 status: "active"
 ---
 

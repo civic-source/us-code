@@ -3,9 +3,9 @@ title: "Section 2276 - Access to and examination by Comptroller General of books
 usc_title: 12
 usc_section: "2276"
 chapter: 23
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 2276"
-generated_at: "2026-03-30T08:32:41.216Z"
+generated_at: "2026-03-30T08:34:58.706Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3149 - Grants for economic adjustment"
 usc_title: 42
 usc_section: "3149"
 chapter: 38
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 3149"
-generated_at: "2026-03-30T08:34:08.704Z"
+generated_at: "2026-03-30T08:36:42.232Z"
 status: "active"
 ---
 

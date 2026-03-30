@@ -3,9 +3,9 @@ title: "Section 1070g - Definitions"
 usc_title: 20
 usc_section: "1070g"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 1070g"
-generated_at: "2026-03-30T08:33:02.739Z"
+generated_at: "2026-03-30T08:35:19.487Z"
 status: "active"
 ---
 

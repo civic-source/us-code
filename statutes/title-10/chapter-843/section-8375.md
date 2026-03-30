@@ -3,9 +3,9 @@ title: "Section 8375 - Navy and Marine Corps; warrant officers, W–1: limitatio
 usc_title: 10
 usc_section: "8375"
 chapter: 843
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 8375"
-generated_at: "2026-03-30T08:32:32.964Z"
+generated_at: "2026-03-30T08:34:50.746Z"
 status: "active"
 ---
 

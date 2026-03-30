@@ -3,9 +3,9 @@ title: "Section 6672 - Failure to collect and pay over tax, or attempt to evade 
 usc_title: 26
 usc_section: "6672"
 chapter: 68
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "26 U.S.C. § 6672"
-generated_at: "2026-03-30T08:33:25.777Z"
+generated_at: "2026-03-30T08:35:38.562Z"
 status: "active"
 ---
 

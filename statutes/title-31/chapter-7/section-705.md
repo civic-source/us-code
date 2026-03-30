@@ -3,9 +3,9 @@ title: "Section 705 - Inspector General for the Government Accountability Office
 usc_title: 31
 usc_section: "705"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "31 U.S.C. § 705"
-generated_at: "2026-03-30T08:33:28.330Z"
+generated_at: "2026-03-30T08:36:21.675Z"
 status: "active"
 ---
 

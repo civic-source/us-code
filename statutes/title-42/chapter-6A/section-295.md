@@ -3,9 +3,9 @@ title: "Section 295 - General provisions"
 usc_title: 42
 usc_section: "295"
 chapter: 6
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 295"
-generated_at: "2026-03-30T08:34:08.370Z"
+generated_at: "2026-03-30T08:36:41.904Z"
 status: "active"
 ---
 

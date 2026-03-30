@@ -3,9 +3,9 @@ title: "Section 390pp - Involuntary foreclosure"
 usc_title: 43
 usc_section: "390pp"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 390pp"
-generated_at: "2026-03-30T08:33:46.512Z"
+generated_at: "2026-03-30T08:36:30.455Z"
 status: "active"
 ---
 

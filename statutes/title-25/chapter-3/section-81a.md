@@ -3,9 +3,9 @@ title: "Section 81a - Counsel for prosecution of claims against the United State
 usc_title: 25
 usc_section: "81a"
 chapter: 3
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 81a"
-generated_at: "2026-03-30T08:33:15.902Z"
+generated_at: "2026-03-30T08:35:27.935Z"
 status: "active"
 ---
 

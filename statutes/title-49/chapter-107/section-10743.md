@@ -3,9 +3,9 @@ title: "Section 10743 - Liability for payment of rates"
 usc_title: 49
 usc_section: "10743"
 chapter: 107
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "49 U.S.C. § 10743"
-generated_at: "2026-03-30T08:34:15.950Z"
+generated_at: "2026-03-30T08:36:53.270Z"
 status: "active"
 ---
 

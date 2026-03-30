@@ -3,9 +3,9 @@ title: "Section 1152 - Advance procurement funding"
 usc_title: 14
 usc_section: "1152"
 chapter: 11
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "14 U.S.C. § 1152"
-generated_at: "2026-03-30T08:32:38.295Z"
+generated_at: "2026-03-30T08:34:55.114Z"
 status: "active"
 ---
 

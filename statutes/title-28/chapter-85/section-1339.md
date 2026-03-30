@@ -3,9 +3,9 @@ title: "Section 1339 - Postal matters"
 usc_title: 28
 usc_section: "1339"
 chapter: 85
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "28 U.S.C. § 1339"
-generated_at: "2026-03-30T08:33:21.128Z"
+generated_at: "2026-03-30T08:35:30.905Z"
 status: "active"
 ---
 

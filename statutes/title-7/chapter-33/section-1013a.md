@@ -3,9 +3,9 @@ title: "Section 1013a - Benefits extended to Puerto Rico and Virgin Islands; “
 usc_title: 7
 usc_section: "1013a"
 chapter: 33
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 1013a"
-generated_at: "2026-03-30T08:32:36.036Z"
+generated_at: "2026-03-30T08:34:52.776Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1392 - Acquisition of military and naval bases by United States"
 usc_title: 22
 usc_section: "1392"
 chapter: 15
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 1392"
-generated_at: "2026-03-30T08:33:13.124Z"
+generated_at: "2026-03-30T08:35:26.540Z"
 status: "active"
 ---
 

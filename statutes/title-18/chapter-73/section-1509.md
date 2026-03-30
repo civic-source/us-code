@@ -3,9 +3,9 @@ title: "Section 1509 - Obstruction of court orders"
 usc_title: 18
 usc_section: "1509"
 chapter: 73
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "18 U.S.C. § 1509"
-generated_at: "2026-03-30T08:33:04.921Z"
+generated_at: "2026-03-30T08:35:13.273Z"
 status: "active"
 ---
 

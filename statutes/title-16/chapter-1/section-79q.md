@@ -3,9 +3,9 @@ title: "Section 79q - Pledge of full faith and credit of United States for payme
 usc_title: 16
 usc_section: "79q"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 79q"
-generated_at: "2026-03-30T08:33:07.115Z"
+generated_at: "2026-03-30T08:35:17.577Z"
 status: "active"
 ---
 

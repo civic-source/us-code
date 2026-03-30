@@ -3,9 +3,9 @@ title: "Section 262c - Commitments for United States contributions to internatio
 usc_title: 22
 usc_section: "262c"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 262c"
-generated_at: "2026-03-30T08:33:13.102Z"
+generated_at: "2026-03-30T08:35:26.515Z"
 status: "active"
 ---
 

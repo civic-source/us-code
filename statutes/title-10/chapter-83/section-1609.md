@@ -3,9 +3,9 @@ title: "Section 1609 - Termination of defense intelligence employees"
 usc_title: 10
 usc_section: "1609"
 chapter: 83
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 1609"
-generated_at: "2026-03-30T08:32:32.905Z"
+generated_at: "2026-03-30T08:34:50.690Z"
 status: "active"
 ---
 

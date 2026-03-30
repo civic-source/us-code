@@ -3,9 +3,9 @@ title: "Section 1657 - Reports and records"
 usc_title: 25
 usc_section: "1657"
 chapter: 18
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 1657"
-generated_at: "2026-03-30T08:33:15.927Z"
+generated_at: "2026-03-30T08:35:27.958Z"
 status: "active"
 ---
 

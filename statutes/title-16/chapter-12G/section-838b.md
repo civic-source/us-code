@@ -3,9 +3,9 @@ title: "Section 838b - Operation and maintenance of Federal transmission system;
 usc_title: 16
 usc_section: "838b"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 838b"
-generated_at: "2026-03-30T08:33:07.293Z"
+generated_at: "2026-03-30T08:35:17.705Z"
 status: "active"
 ---
 

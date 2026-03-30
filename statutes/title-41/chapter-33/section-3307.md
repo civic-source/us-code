@@ -3,9 +3,9 @@ title: "Section 3307 - Preference for commercial items"
 usc_title: 41
 usc_section: "3307"
 chapter: 33
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "41 U.S.C. § 3307"
-generated_at: "2026-03-30T08:33:45.161Z"
+generated_at: "2026-03-30T08:36:30.746Z"
 status: "active"
 ---
 

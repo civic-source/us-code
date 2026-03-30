@@ -3,9 +3,9 @@ title: "Section 1523 - Annual report on chemical and biological warfare defense"
 usc_title: 50
 usc_section: "1523"
 chapter: 32
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "50 U.S.C. § 1523"
-generated_at: "2026-03-30T08:34:13.899Z"
+generated_at: "2026-03-30T08:36:46.702Z"
 status: "active"
 ---
 

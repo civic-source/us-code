@@ -3,9 +3,9 @@ title: "Section 190 - Defense Cost Accounting Standards Board"
 usc_title: 10
 usc_section: "190"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 190"
-generated_at: "2026-03-30T08:32:32.847Z"
+generated_at: "2026-03-30T08:34:50.634Z"
 status: "active"
 ---
 

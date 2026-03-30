@@ -3,9 +3,9 @@ title: "Section 1881d - Incidental harvest research"
 usc_title: 16
 usc_section: "1881d"
 chapter: 38
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 1881d"
-generated_at: "2026-03-30T08:33:07.338Z"
+generated_at: "2026-03-30T08:35:17.747Z"
 status: "active"
 ---
 

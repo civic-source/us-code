@@ -3,9 +3,9 @@ title: "Section 1011g - Application of peer review process"
 usc_title: 20
 usc_section: "1011g"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 1011g"
-generated_at: "2026-03-30T08:33:02.724Z"
+generated_at: "2026-03-30T08:35:19.472Z"
 status: "active"
 ---
 

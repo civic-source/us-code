@@ -3,9 +3,9 @@ title: "Section 2011 - Judicial review"
 usc_title: 43
 usc_section: "2011"
 chapter: 38
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 2011"
-generated_at: "2026-03-30T08:33:46.555Z"
+generated_at: "2026-03-30T08:36:30.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 174 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat
 usc_title: 15
 usc_section: "174"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 174"
-generated_at: "2026-03-30T08:32:57.595Z"
+generated_at: "2026-03-30T08:35:09.749Z"
 status: "repealed"
 ---
 

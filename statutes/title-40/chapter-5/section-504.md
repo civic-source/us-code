@@ -3,9 +3,9 @@ title: "Section 504 - Agency cooperation for inspection"
 usc_title: 40
 usc_section: "504"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "40 U.S.C. § 504"
-generated_at: "2026-03-30T08:33:36.688Z"
+generated_at: "2026-03-30T08:36:24.430Z"
 status: "active"
 ---
 

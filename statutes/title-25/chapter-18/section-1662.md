@@ -3,9 +3,9 @@ title: "Section 1662 - Automated management information system"
 usc_title: 25
 usc_section: "1662"
 chapter: 18
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 1662"
-generated_at: "2026-03-30T08:33:15.927Z"
+generated_at: "2026-03-30T08:35:27.958Z"
 status: "active"
 ---
 

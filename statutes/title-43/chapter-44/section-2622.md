@@ -3,9 +3,9 @@ title: "Section 2622 - Appraisal of land and timber; manner and frequency; compu
 usc_title: 43
 usc_section: "2622"
 chapter: 44
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 2622"
-generated_at: "2026-03-30T08:33:46.558Z"
+generated_at: "2026-03-30T08:36:30.498Z"
 status: "active"
 ---
 

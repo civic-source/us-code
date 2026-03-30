@@ -3,9 +3,9 @@ title: "Section 179r - Remedies"
 usc_title: 2
 usc_section: "179r"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "2 U.S.C. § 179r"
-generated_at: "2026-03-30T08:32:22.076Z"
+generated_at: "2026-03-30T08:34:34.705Z"
 status: "active"
 ---
 

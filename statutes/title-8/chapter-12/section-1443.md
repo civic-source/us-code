@@ -3,9 +3,9 @@ title: "Section 1443 - Administration"
 usc_title: 8
 usc_section: "1443"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "8 U.S.C. § 1443"
-generated_at: "2026-03-30T08:32:27.304Z"
+generated_at: "2026-03-30T08:34:43.748Z"
 status: "active"
 ---
 

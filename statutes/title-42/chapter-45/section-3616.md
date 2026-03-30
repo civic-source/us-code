@@ -3,9 +3,9 @@ title: "Section 3616 - Cooperation with State and local agencies administering f
 usc_title: 42
 usc_section: "3616"
 chapter: 45
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 3616"
-generated_at: "2026-03-30T08:34:08.712Z"
+generated_at: "2026-03-30T08:36:42.239Z"
 status: "active"
 ---
 

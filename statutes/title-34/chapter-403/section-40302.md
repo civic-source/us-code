@@ -3,9 +3,9 @@ title: "Section 40302 - Funding for improvement of criminal records"
 usc_title: 34
 usc_section: "40302"
 chapter: 403
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "34 U.S.C. § 40302"
-generated_at: "2026-03-30T08:33:32.795Z"
+generated_at: "2026-03-30T08:36:13.912Z"
 status: "active"
 ---
 

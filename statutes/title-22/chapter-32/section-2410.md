@@ -3,9 +3,9 @@ title: "Section 2410 - Repealed. Pub. L. 95–424, title VI, § 604 , Oct. 6, 19
 usc_title: 22
 usc_section: "2410"
 chapter: 32
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 2410"
-generated_at: "2026-03-30T08:33:13.155Z"
+generated_at: "2026-03-30T08:35:26.572Z"
 status: "repealed"
 ---
 

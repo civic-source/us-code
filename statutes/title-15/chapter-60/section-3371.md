@@ -3,9 +3,9 @@ title: "Section 3371 - Authorization of certain sales and transportation"
 usc_title: 15
 usc_section: "3371"
 chapter: 60
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 3371"
-generated_at: "2026-03-30T08:32:57.694Z"
+generated_at: "2026-03-30T08:35:09.861Z"
 status: "active"
 ---
 

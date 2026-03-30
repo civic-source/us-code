@@ -3,9 +3,9 @@ title: "Section 825q - Repealed. Pub. L. 109–58, title XII, § 1277(a) , Aug. 
 usc_title: 16
 usc_section: "825q"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 825q"
-generated_at: "2026-03-30T08:33:07.288Z"
+generated_at: "2026-03-30T08:35:17.700Z"
 status: "repealed"
 ---
 

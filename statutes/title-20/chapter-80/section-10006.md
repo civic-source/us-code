@@ -3,9 +3,9 @@ title: "Section 10006 - State incentive grants"
 usc_title: 20
 usc_section: "10006"
 chapter: 80
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 10006"
-generated_at: "2026-03-30T08:33:02.846Z"
+generated_at: "2026-03-30T08:35:19.600Z"
 status: "active"
 ---
 

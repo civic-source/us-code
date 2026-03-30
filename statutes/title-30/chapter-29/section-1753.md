@@ -3,9 +3,9 @@ title: "Section 1753 - Relation to other laws"
 usc_title: 30
 usc_section: "1753"
 chapter: 29
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "30 U.S.C. § 1753"
-generated_at: "2026-03-30T08:33:18.295Z"
+generated_at: "2026-03-30T08:35:33.535Z"
 status: "active"
 ---
 

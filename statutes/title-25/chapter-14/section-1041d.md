@@ -3,9 +3,9 @@ title: "Section 1041d - Omitted"
 usc_title: 25
 usc_section: "1041d"
 chapter: 14
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 1041d"
-generated_at: "2026-03-30T08:33:15.916Z"
+generated_at: "2026-03-30T08:35:27.948Z"
 status: "omitted"
 ---
 

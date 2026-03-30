@@ -3,9 +3,9 @@ title: "Section 929 - Art. 129. Burglary; unlawful entry"
 usc_title: 10
 usc_section: "929"
 chapter: 47
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 929"
-generated_at: "2026-03-30T08:32:32.872Z"
+generated_at: "2026-03-30T08:34:50.658Z"
 status: "active"
 ---
 

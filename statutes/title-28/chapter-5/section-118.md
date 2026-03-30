@@ -3,9 +3,9 @@ title: "Section 118 - Pennsylvania"
 usc_title: 28
 usc_section: "118"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "28 U.S.C. § 118"
-generated_at: "2026-03-30T08:33:21.114Z"
+generated_at: "2026-03-30T08:35:30.891Z"
 status: "active"
 ---
 

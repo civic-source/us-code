@@ -3,9 +3,9 @@ title: "Section 3302 - Identification of constituent components of base intellig
 usc_title: 50
 usc_section: "3302"
 chapter: 45
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "50 U.S.C. § 3302"
-generated_at: "2026-03-30T08:34:13.936Z"
+generated_at: "2026-03-30T08:36:46.737Z"
 status: "active"
 ---
 

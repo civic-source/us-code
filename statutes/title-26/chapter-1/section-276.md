@@ -3,9 +3,9 @@ title: "Section 276 - Certain indirect contributions to political parties"
 usc_title: 26
 usc_section: "276"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "26 U.S.C. § 276"
-generated_at: "2026-03-30T08:33:25.609Z"
+generated_at: "2026-03-30T08:35:38.396Z"
 status: "active"
 ---
 

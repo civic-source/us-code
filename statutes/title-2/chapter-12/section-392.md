@@ -3,9 +3,9 @@ title: "Section 392 - Record"
 usc_title: 2
 usc_section: "392"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "2 U.S.C. § 392"
-generated_at: "2026-03-30T08:32:22.081Z"
+generated_at: "2026-03-30T08:34:34.709Z"
 status: "active"
 ---
 

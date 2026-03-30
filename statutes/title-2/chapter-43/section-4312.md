@@ -3,9 +3,9 @@ title: "Section 4312 - Regulations governing availability of appropriations for 
 usc_title: 2
 usc_section: "4312"
 chapter: 43
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "2 U.S.C. § 4312"
-generated_at: "2026-03-30T08:32:22.109Z"
+generated_at: "2026-03-30T08:34:34.738Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40909 - Compliance with title IX of Education Amendments of 1972
 usc_title: 51
 usc_section: "40909"
 chapter: 409
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "51 U.S.C. § 40909"
-generated_at: "2026-03-30T08:34:23.050Z"
+generated_at: "2026-03-30T08:36:56.194Z"
 status: "active"
 ---
 

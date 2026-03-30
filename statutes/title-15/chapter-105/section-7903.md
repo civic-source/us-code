@@ -3,9 +3,9 @@ title: "Section 7903 - Definitions"
 usc_title: 15
 usc_section: "7903"
 chapter: 105
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 7903"
-generated_at: "2026-03-30T08:32:57.724Z"
+generated_at: "2026-03-30T08:35:09.895Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 100725 - Donations"
 usc_title: 54
 usc_section: "100725"
 chapter: 1007
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "54 U.S.C. § 100725"
-generated_at: "2026-03-30T08:34:17.990Z"
+generated_at: "2026-03-30T08:36:55.905Z"
 status: "active"
 ---
 

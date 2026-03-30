@@ -3,9 +3,9 @@ title: "Section 6474 - Studies on effect of expedited removal provisions on asyl
 usc_title: 22
 usc_section: "6474"
 chapter: 73
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 6474"
-generated_at: "2026-03-30T08:33:13.210Z"
+generated_at: "2026-03-30T08:35:26.624Z"
 status: "active"
 ---
 

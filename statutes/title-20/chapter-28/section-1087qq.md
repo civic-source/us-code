@@ -3,9 +3,9 @@ title: "Section 1087qq - Family contribution for independent students with depen
 usc_title: 20
 usc_section: "1087qq"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 1087qq"
-generated_at: "2026-03-30T08:33:02.756Z"
+generated_at: "2026-03-30T08:35:19.506Z"
 status: "active"
 ---
 

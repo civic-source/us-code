@@ -3,9 +3,9 @@ title: "Section 1177 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 2
 usc_title: 43
 usc_section: "1177"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "43 U.S.C. § 1177"
-generated_at: "2026-03-30T08:33:46.530Z"
+generated_at: "2026-03-30T08:36:30.472Z"
 status: "repealed"
 ---
 

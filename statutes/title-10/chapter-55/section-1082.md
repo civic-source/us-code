@@ -3,9 +3,9 @@ title: "Section 1082 - Contracts for health care: advisory committees"
 usc_title: 10
 usc_section: "1082"
 chapter: 55
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 1082"
-generated_at: "2026-03-30T08:32:32.885Z"
+generated_at: "2026-03-30T08:34:50.670Z"
 status: "active"
 ---
 

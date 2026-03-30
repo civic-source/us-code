@@ -3,9 +3,9 @@ title: "Section 617 - Engaging in commerce or trade in commodities; price fixing
 usc_title: 12
 usc_section: "617"
 chapter: 6
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 617"
-generated_at: "2026-03-30T08:32:41.130Z"
+generated_at: "2026-03-30T08:34:58.616Z"
 status: "active"
 ---
 

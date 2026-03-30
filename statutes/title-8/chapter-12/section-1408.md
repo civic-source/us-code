@@ -3,9 +3,9 @@ title: "Section 1408 - Nationals but not citizens of the United States at birth"
 usc_title: 8
 usc_section: "1408"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "8 U.S.C. § 1408"
-generated_at: "2026-03-30T08:32:27.302Z"
+generated_at: "2026-03-30T08:34:43.746Z"
 status: "active"
 ---
 

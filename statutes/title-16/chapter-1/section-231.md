@@ -3,9 +3,9 @@ title: "Section 231 - Establishment; description of area"
 usc_title: 16
 usc_section: "231"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 231"
-generated_at: "2026-03-30T08:33:07.123Z"
+generated_at: "2026-03-30T08:35:17.585Z"
 status: "active"
 ---
 

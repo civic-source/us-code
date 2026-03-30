@@ -3,9 +3,9 @@ title: "Section 58c - Fees for certain customs services"
 usc_title: 19
 usc_section: "58c"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "19 U.S.C. § 58c"
-generated_at: "2026-03-30T08:33:03.913Z"
+generated_at: "2026-03-30T08:35:14.574Z"
 status: "active"
 ---
 
@@ -23,9 +23,9 @@ status: "active"
   - **(7)** For each customs broker permit held by an individual, partnership, association, or corporate customs broker, $125 per year.
   - **(8)** For the arrival of a barge or other bulk carrier from Canada or Mexico, $100.
   - **(9)**
-    - **(A)** For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
+    - **(A)** For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 1 1 See Rates for Merchandise Processing Fees notes below. percent ad valorem, unless adjusted under subparagraph (B).
     - **(B)**
-      - **(i)** The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
+      - **(i)** The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 1 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
       - **(ii)** In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
       - **(iii)** An adjustment may not be made under clause (i) with respect to the fee charged during any fiscal year unless the Secretary of the Treasury—
         - **(I)** not later than 45 days after the date of the enactment of the Act providing full-year appropriations for the Customs Service for that fiscal year, publishes in the Federal Register a notice of intent to adjust the fee under this paragraph and the amount of such adjustment;
@@ -219,7 +219,7 @@ status: "active"
     - **(D)** Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a), to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
   - **(4)**
     - **(A)** There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
-    - **(B)** There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 1 1 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
+    - **(B)** There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 2 2 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
     - **(C)** In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
   - **(5)** Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a), $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
 - **(g)**
@@ -233,7 +233,7 @@ status: "active"
   - **(3)**
     - **(A)** Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2029 .
     - **(B)**
-      - **(i)** Subject to clause (ii), Fees 2 2 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029 .
+      - **(i)** Subject to clause (ii), Fees 3 3 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029 .
       - **(ii)** In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
         - **(I)** the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
         - **(II)** the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;

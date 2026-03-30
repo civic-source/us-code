@@ -3,9 +3,9 @@ title: "Section 2229 - Strategic policy on prepositioning of materiel and equipm
 usc_title: 10
 usc_section: "2229"
 chapter: 131
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 2229"
-generated_at: "2026-03-30T08:32:32.916Z"
+generated_at: "2026-03-30T08:34:50.700Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1591b - Community facilities or services by local agencies"
 usc_title: 42
 usc_section: "1591b"
 chapter: 9
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 1591b"
-generated_at: "2026-03-30T08:34:08.635Z"
+generated_at: "2026-03-30T08:36:42.165Z"
 status: "active"
 ---
 

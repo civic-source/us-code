@@ -3,9 +3,9 @@ title: "Section 827 - Art. 27. Detail of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "827"
 chapter: 47
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 827"
-generated_at: "2026-03-30T08:32:32.866Z"
+generated_at: "2026-03-30T08:34:50.654Z"
 status: "active"
 ---
 

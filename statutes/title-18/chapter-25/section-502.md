@@ -3,9 +3,9 @@ title: "Section 502 - Postage and revenue stamps of foreign governments"
 usc_title: 18
 usc_section: "502"
 chapter: 25
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "18 U.S.C. § 502"
-generated_at: "2026-03-30T08:33:04.904Z"
+generated_at: "2026-03-30T08:35:13.255Z"
 status: "active"
 ---
 

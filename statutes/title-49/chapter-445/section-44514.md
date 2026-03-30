@@ -3,9 +3,9 @@ title: "Section 44514 - Flight service stations"
 usc_title: 49
 usc_section: "44514"
 chapter: 445
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "49 U.S.C. § 44514"
-generated_at: "2026-03-30T08:34:15.995Z"
+generated_at: "2026-03-30T08:36:53.315Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Activities of the Food and Drug Administration"
 usc_title: 21
 usc_section: "2"
 chapter: 9
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "21 U.S.C. § 2"
-generated_at: "2026-03-30T08:33:15.128Z"
+generated_at: "2026-03-30T08:35:22.741Z"
 status: "active"
 ---
 

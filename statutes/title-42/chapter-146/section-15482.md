@@ -3,9 +3,9 @@ title: "Section 15482 - Transferred"
 usc_title: 42
 usc_section: "15482"
 chapter: 146
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 15482"
-generated_at: "2026-03-30T08:34:08.949Z"
+generated_at: "2026-03-30T08:36:42.470Z"
 status: "transferred"
 ---
 

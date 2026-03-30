@@ -3,9 +3,9 @@ title: "Section 7473 - Disposition of fees"
 usc_title: 26
 usc_section: "7473"
 chapter: 76
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "26 U.S.C. § 7473"
-generated_at: "2026-03-30T08:33:25.787Z"
+generated_at: "2026-03-30T08:35:38.572Z"
 status: "active"
 ---
 

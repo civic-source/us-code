@@ -3,9 +3,9 @@ title: "Section 216c - Rules and regulations"
 usc_title: 12
 usc_section: "216c"
 chapter: 2
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 216c"
-generated_at: "2026-03-30T08:32:41.121Z"
+generated_at: "2026-03-30T08:34:58.608Z"
 status: "active"
 ---
 

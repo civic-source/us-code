@@ -3,9 +3,9 @@ title: "Section 535 - Forest development roads; acquisition, construction, and m
 usc_title: 16
 usc_section: "535"
 chapter: 2
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 535"
-generated_at: "2026-03-30T08:33:07.248Z"
+generated_at: "2026-03-30T08:35:17.661Z"
 status: "active"
 ---
 

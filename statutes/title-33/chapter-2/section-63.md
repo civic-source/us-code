@@ -3,9 +3,9 @@ title: "Section 63 - Repealed. Oct. 11, 1951, ch. 495, § 5 , 65 Stat. 407"
 usc_title: 33
 usc_section: "63"
 chapter: 2
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "33 U.S.C. § 63"
-generated_at: "2026-03-30T08:33:34.570Z"
+generated_at: "2026-03-30T08:36:11.795Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5405 - Judicial review of orders establishing standards; petitio
 usc_title: 42
 usc_section: "5405"
 chapter: 70
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 5405"
-generated_at: "2026-03-30T08:34:08.749Z"
+generated_at: "2026-03-30T08:36:42.275Z"
 status: "active"
 ---
 

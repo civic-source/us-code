@@ -3,9 +3,9 @@ title: "Section 7803 - Issuance of orders"
 usc_title: 7
 usc_section: "7803"
 chapter: 105
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 7803"
-generated_at: "2026-03-30T08:32:36.170Z"
+generated_at: "2026-03-30T08:34:52.900Z"
 status: "active"
 ---
 

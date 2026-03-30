@@ -3,9 +3,9 @@ title: "Section 6901 - Definitions"
 usc_title: 15
 usc_section: "6901"
 chapter: 95
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 6901"
-generated_at: "2026-03-30T08:32:57.716Z"
+generated_at: "2026-03-30T08:35:09.886Z"
 status: "active"
 ---
 

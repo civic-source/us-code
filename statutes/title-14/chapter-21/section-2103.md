@@ -3,9 +3,9 @@ title: "Section 2103 - Number and distribution of commissioned officers on activ
 usc_title: 14
 usc_section: "2103"
 chapter: 21
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "14 U.S.C. § 2103"
-generated_at: "2026-03-30T08:32:38.296Z"
+generated_at: "2026-03-30T08:34:55.115Z"
 status: "active"
 ---
 

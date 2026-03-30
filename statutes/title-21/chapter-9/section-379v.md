@@ -3,9 +3,9 @@ title: "Section 379v - Safety report disclaimers"
 usc_title: 21
 usc_section: "379v"
 chapter: 9
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "21 U.S.C. § 379v"
-generated_at: "2026-03-30T08:33:15.127Z"
+generated_at: "2026-03-30T08:35:22.741Z"
 status: "active"
 ---
 

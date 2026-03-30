@@ -3,9 +3,9 @@ title: "Section 5124 - Registration by dealers"
 usc_title: 26
 usc_section: "5124"
 chapter: 51
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "26 U.S.C. § 5124"
-generated_at: "2026-03-30T08:33:25.741Z"
+generated_at: "2026-03-30T08:35:38.526Z"
 status: "active"
 ---
 

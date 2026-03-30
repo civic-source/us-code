@@ -3,9 +3,9 @@ title: "Section 11 - Annual appropriations to reimburse Commodity Credit Corpora
 usc_title: 15
 usc_section: "11"
 chapter: 15
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-30T08:32:57.628Z"
+generated_at: "2026-03-30T08:35:09.785Z"
 status: "active"
 ---
 

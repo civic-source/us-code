@@ -3,9 +3,9 @@ title: "Section 2424 - Death or incapacity of breeder"
 usc_title: 7
 usc_section: "2424"
 chapter: 57
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 2424"
-generated_at: "2026-03-30T08:32:36.106Z"
+generated_at: "2026-03-30T08:34:52.842Z"
 status: "active"
 ---
 

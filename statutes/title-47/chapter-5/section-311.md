@@ -3,9 +3,9 @@ title: "Section 311 - Requirements as to certain applications in broadcasting se
 usc_title: 47
 usc_section: "311"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "47 U.S.C. § 311"
-generated_at: "2026-03-30T08:34:12.149Z"
+generated_at: "2026-03-30T08:36:48.587Z"
 status: "active"
 ---
 

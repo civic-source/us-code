@@ -3,9 +3,9 @@ title: "Section 9074 - Commands: territorial organization"
 usc_title: 10
 usc_section: "9074"
 chapter: 907
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 9074"
-generated_at: "2026-03-30T08:32:32.972Z"
+generated_at: "2026-03-30T08:34:50.754Z"
 status: "active"
 ---
 

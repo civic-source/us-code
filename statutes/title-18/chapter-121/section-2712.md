@@ -3,9 +3,9 @@ title: "Section 2712 - Civil actions against the United States"
 usc_title: 18
 usc_section: "2712"
 chapter: 121
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "18 U.S.C. § 2712"
-generated_at: "2026-03-30T08:33:04.939Z"
+generated_at: "2026-03-30T08:35:13.292Z"
 status: "active"
 ---
 

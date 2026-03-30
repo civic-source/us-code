@@ -3,9 +3,9 @@ title: "Section 6903 - Authority and responsibility of the Secretary of State"
 usc_title: 16
 usc_section: "6903"
 chapter: 88
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 6903"
-generated_at: "2026-03-30T08:33:07.383Z"
+generated_at: "2026-03-30T08:35:17.791Z"
 status: "active"
 ---
 

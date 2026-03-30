@@ -3,9 +3,9 @@ title: "Section 328 - Repealed. Pub. L. 114–328, div. A, title VI, § 647(a) ,
 usc_title: 37
 usc_section: "328"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "37 U.S.C. § 328"
-generated_at: "2026-03-30T08:33:43.122Z"
+generated_at: "2026-03-30T08:36:25.330Z"
 status: "repealed"
 ---
 

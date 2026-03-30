@@ -3,9 +3,9 @@ title: "Section 8027 - Chief of Legislative Affairs"
 usc_title: 10
 usc_section: "8027"
 chapter: 803
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 8027"
-generated_at: "2026-03-30T08:32:32.961Z"
+generated_at: "2026-03-30T08:34:50.743Z"
 status: "active"
 ---
 

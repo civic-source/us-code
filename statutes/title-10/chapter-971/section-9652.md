@@ -3,9 +3,9 @@ title: "Section 9652 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "9652"
 chapter: 971
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 9652"
-generated_at: "2026-03-30T08:32:32.977Z"
+generated_at: "2026-03-30T08:34:50.758Z"
 status: "active"
 ---
 

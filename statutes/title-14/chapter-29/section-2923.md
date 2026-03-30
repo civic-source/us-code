@@ -3,9 +3,9 @@ title: "Section 2923 - Child development center standards and inspections"
 usc_title: 14
 usc_section: "2923"
 chapter: 29
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "14 U.S.C. § 2923"
-generated_at: "2026-03-30T08:32:38.299Z"
+generated_at: "2026-03-30T08:34:55.119Z"
 status: "active"
 ---
 

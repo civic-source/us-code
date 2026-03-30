@@ -3,9 +3,9 @@ title: "Section 5 - Rule of construction"
 usc_title: 20
 usc_section: "5"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-30T08:33:02.774Z"
+generated_at: "2026-03-30T08:35:19.525Z"
 status: "active"
 ---
 

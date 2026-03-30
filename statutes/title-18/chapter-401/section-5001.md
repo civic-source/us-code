@@ -3,9 +3,9 @@ title: "Section 5001 - Surrender to State authorities; expenses"
 usc_title: 18
 usc_section: "5001"
 chapter: 401
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "18 U.S.C. § 5001"
-generated_at: "2026-03-30T08:33:04.957Z"
+generated_at: "2026-03-30T08:35:13.310Z"
 status: "active"
 ---
 

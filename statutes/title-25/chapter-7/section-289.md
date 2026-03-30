@@ -3,9 +3,9 @@ title: "Section 289 - Repealed. Pub. L. 99–228, § 3(1) , (2), Dec. 28, 1985 ,
 usc_title: 25
 usc_section: "289"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 289"
-generated_at: "2026-03-30T08:33:15.905Z"
+generated_at: "2026-03-30T08:35:27.939Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1059e - Predominantly Black Institutions"
 usc_title: 20
 usc_section: "1059e"
 chapter: 28
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 1059e"
-generated_at: "2026-03-30T08:33:02.731Z"
+generated_at: "2026-03-30T08:35:19.478Z"
 status: "active"
 ---
 

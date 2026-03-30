@@ -3,9 +3,9 @@ title: "Section 8231 - Declaration of purpose"
 usc_title: 38
 usc_section: "8231"
 chapter: 82
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "38 U.S.C. § 8231"
-generated_at: "2026-03-30T08:33:42.484Z"
+generated_at: "2026-03-30T08:36:27.652Z"
 status: "active"
 ---
 

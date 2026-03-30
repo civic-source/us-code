@@ -3,9 +3,9 @@ title: "Section 924a - Repealed. Pub. L. 107–275, § 2(c)(2) , Nov. 2, 2002 , 
 usc_title: 30
 usc_section: "924a"
 chapter: 22
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "30 U.S.C. § 924a"
-generated_at: "2026-03-30T08:33:18.277Z"
+generated_at: "2026-03-30T08:35:33.518Z"
 status: "repealed"
 ---
 

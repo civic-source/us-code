@@ -3,9 +3,9 @@ title: "Section 2102 - Employment of personnel"
 usc_title: 36
 usc_section: "2102"
 chapter: 21
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "36 U.S.C. § 2102"
-generated_at: "2026-03-30T08:33:40.006Z"
+generated_at: "2026-03-30T08:36:25.987Z"
 status: "active"
 ---
 

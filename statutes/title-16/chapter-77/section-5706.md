@@ -3,9 +3,9 @@ title: "Section 5706 - Authority and responsibility"
 usc_title: 16
 usc_section: "5706"
 chapter: 77
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 5706"
-generated_at: "2026-03-30T08:33:07.375Z"
+generated_at: "2026-03-30T08:35:17.784Z"
 status: "active"
 ---
 

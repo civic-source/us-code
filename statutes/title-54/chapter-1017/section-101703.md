@@ -3,9 +3,9 @@ title: "Section 101703 - Cooperative management agreements"
 usc_title: 54
 usc_section: "101703"
 chapter: 1017
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "54 U.S.C. § 101703"
-generated_at: "2026-03-30T08:34:17.991Z"
+generated_at: "2026-03-30T08:36:55.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4208 - Valuation of foreign coins in payment of fees"
 usc_title: 22
 usc_section: "4208"
 chapter: 52
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 4208"
-generated_at: "2026-03-30T08:33:13.192Z"
+generated_at: "2026-03-30T08:35:26.607Z"
 status: "active"
 ---
 

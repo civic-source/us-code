@@ -3,9 +3,9 @@ title: "Section 878 - Art. 78. Accessory after the fact"
 usc_title: 10
 usc_section: "878"
 chapter: 47
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 878"
-generated_at: "2026-03-30T08:32:32.870Z"
+generated_at: "2026-03-30T08:34:50.656Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1731 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 12
 usc_section: "1731"
 chapter: 13
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 1731"
-generated_at: "2026-03-30T08:32:41.171Z"
+generated_at: "2026-03-30T08:34:58.658Z"
 status: "repealed"
 ---
 

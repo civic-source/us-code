@@ -3,9 +3,9 @@ title: "Section 541d - Location of source materials by holders of coal leases"
 usc_title: 30
 usc_section: "541d"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "30 U.S.C. § 541d"
-generated_at: "2026-03-30T08:33:18.269Z"
+generated_at: "2026-03-30T08:35:33.510Z"
 status: "active"
 ---
 

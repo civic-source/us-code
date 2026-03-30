@@ -3,9 +3,9 @@ title: "Section 6312 - Professional boxing matches conducted on Indian reservati
 usc_title: 15
 usc_section: "6312"
 chapter: 89
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 6312"
-generated_at: "2026-03-30T08:32:57.710Z"
+generated_at: "2026-03-30T08:35:09.879Z"
 status: "active"
 ---
 

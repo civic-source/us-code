@@ -3,9 +3,9 @@ title: "Section 1141j - Dependence of extension of protection to the United Stat
 usc_title: 15
 usc_section: "1141j"
 chapter: 22
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "15 U.S.C. § 1141j"
-generated_at: "2026-03-30T08:32:57.640Z"
+generated_at: "2026-03-30T08:35:09.798Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7627 - Coordinated program of research, extension, and education
 usc_title: 7
 usc_section: "7627"
 chapter: 103
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 7627"
-generated_at: "2026-03-30T08:32:36.165Z"
+generated_at: "2026-03-30T08:34:52.896Z"
 status: "active"
 ---
 

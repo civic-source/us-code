@@ -3,9 +3,9 @@ title: "Section 11190 - Issuance of rules"
 usc_title: 34
 usc_section: "11190"
 chapter: 111
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "34 U.S.C. § 11190"
-generated_at: "2026-03-30T08:33:32.770Z"
+generated_at: "2026-03-30T08:36:13.889Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1120 - Blanks and letterheads for judges and officers of courts"
 usc_title: 44
 usc_section: "1120"
 chapter: 11
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "44 U.S.C. § 1120"
-generated_at: "2026-03-30T08:33:44.906Z"
+generated_at: "2026-03-30T08:36:29.376Z"
 status: "active"
 ---
 

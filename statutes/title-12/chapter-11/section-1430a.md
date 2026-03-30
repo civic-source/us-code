@@ -3,9 +3,9 @@ title: "Section 1430a - Omitted"
 usc_title: 12
 usc_section: "1430a"
 chapter: 11
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 1430a"
-generated_at: "2026-03-30T08:32:41.137Z"
+generated_at: "2026-03-30T08:34:58.623Z"
 status: "omitted"
 ---
 

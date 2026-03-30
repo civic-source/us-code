@@ -3,9 +3,9 @@ title: "Section 9222 - Rank: commissioned officers serving under temporary appoi
 usc_title: 10
 usc_section: "9222"
 chapter: 925
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 9222"
-generated_at: "2026-03-30T08:32:32.973Z"
+generated_at: "2026-03-30T08:34:50.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9167 - Severability"
 usc_title: 42
 usc_section: "9167"
 chapter: 99
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 9167"
-generated_at: "2026-03-30T08:34:08.851Z"
+generated_at: "2026-03-30T08:36:42.375Z"
 status: "active"
 ---
 

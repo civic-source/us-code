@@ -3,9 +3,9 @@ title: "Section 20709b - Encouraging a victim-centered approach to training of F
 usc_title: 34
 usc_section: "20709b"
 chapter: 207
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "34 U.S.C. § 20709b"
-generated_at: "2026-03-30T08:33:32.788Z"
+generated_at: "2026-03-30T08:36:13.905Z"
 status: "active"
 ---
 

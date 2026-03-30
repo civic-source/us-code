@@ -3,9 +3,9 @@ title: "Section 2106 - Reporting information believed to constitute evidence of 
 usc_title: 41
 usc_section: "2106"
 chapter: 21
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "41 U.S.C. § 2106"
-generated_at: "2026-03-30T08:33:45.160Z"
+generated_at: "2026-03-30T08:36:30.745Z"
 status: "active"
 ---
 

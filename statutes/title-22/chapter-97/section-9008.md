@@ -3,9 +3,9 @@ title: "Section 9008 - Collection, maintenance, and dissemination of information
 usc_title: 22
 usc_section: "9008"
 chapter: 97
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 9008"
-generated_at: "2026-03-30T08:33:13.240Z"
+generated_at: "2026-03-30T08:35:26.652Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 328 - Rules and regulations"
 usc_title: 25
 usc_section: "328"
 chapter: 8
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 328"
-generated_at: "2026-03-30T08:33:15.907Z"
+generated_at: "2026-03-30T08:35:27.940Z"
 status: "active"
 ---
 

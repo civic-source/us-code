@@ -3,9 +3,9 @@ title: "Section 200307 - Restrictions"
 usc_title: 36
 usc_section: "200307"
 chapter: 2003
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "36 U.S.C. § 200307"
-generated_at: "2026-03-30T08:33:40.022Z"
+generated_at: "2026-03-30T08:36:26.003Z"
 status: "active"
 ---
 

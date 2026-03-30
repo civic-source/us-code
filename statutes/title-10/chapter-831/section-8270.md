@@ -3,9 +3,9 @@ title: "Section 8270 - Pension to persons serving ten years"
 usc_title: 10
 usc_section: "8270"
 chapter: 831
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 8270"
-generated_at: "2026-03-30T08:32:32.963Z"
+generated_at: "2026-03-30T08:34:50.745Z"
 status: "active"
 ---
 

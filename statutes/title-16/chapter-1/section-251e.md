@@ -3,9 +3,9 @@ title: "Section 251e - Boundary revision"
 usc_title: 16
 usc_section: "251e"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 251e"
-generated_at: "2026-03-30T08:33:07.126Z"
+generated_at: "2026-03-30T08:35:17.586Z"
 status: "active"
 ---
 

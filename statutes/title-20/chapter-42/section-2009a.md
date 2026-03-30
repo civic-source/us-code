@@ -3,9 +3,9 @@ title: "Section 2009a - Investment of amounts appropriated and contributed to Ha
 usc_title: 20
 usc_section: "2009a"
 chapter: 42
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "20 U.S.C. § 2009a"
-generated_at: "2026-03-30T08:33:02.790Z"
+generated_at: "2026-03-30T08:35:19.542Z"
 status: "active"
 ---
 

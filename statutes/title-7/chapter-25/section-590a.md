@@ -3,9 +3,9 @@ title: "Section 590a - Estimates of apple production"
 usc_title: 7
 usc_section: "590a"
 chapter: 25
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "7 U.S.C. § 590a"
-generated_at: "2026-03-30T08:32:36.027Z"
+generated_at: "2026-03-30T08:34:52.767Z"
 status: "active"
 ---
 

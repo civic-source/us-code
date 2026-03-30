@@ -3,9 +3,9 @@ title: "Section 16303 - Loan repayment program: chaplains serving in the Selecte
 usc_title: 10
 usc_section: "16303"
 chapter: 1609
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 16303"
-generated_at: "2026-03-30T08:32:32.989Z"
+generated_at: "2026-03-30T08:34:50.771Z"
 status: "active"
 ---
 

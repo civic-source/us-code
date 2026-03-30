@@ -3,9 +3,9 @@ title: "Section 1502 - Custody and printing of Federal documents; appointment of
 usc_title: 44
 usc_section: "1502"
 chapter: 15
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "44 U.S.C. § 1502"
-generated_at: "2026-03-30T08:33:44.907Z"
+generated_at: "2026-03-30T08:36:29.377Z"
 status: "active"
 ---
 

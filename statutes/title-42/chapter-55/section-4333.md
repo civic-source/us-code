@@ -3,9 +3,9 @@ title: "Section 4333 - Conformity of administrative procedures to national envir
 usc_title: 42
 usc_section: "4333"
 chapter: 55
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 4333"
-generated_at: "2026-03-30T08:34:08.721Z"
+generated_at: "2026-03-30T08:36:42.248Z"
 status: "active"
 ---
 

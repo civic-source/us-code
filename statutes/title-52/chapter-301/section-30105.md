@@ -3,9 +3,9 @@ title: "Section 30105 - Reports on convention financing"
 usc_title: 52
 usc_section: "30105"
 chapter: 301
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "52 U.S.C. § 30105"
-generated_at: "2026-03-30T08:34:17.727Z"
+generated_at: "2026-03-30T08:36:56.397Z"
 status: "active"
 ---
 

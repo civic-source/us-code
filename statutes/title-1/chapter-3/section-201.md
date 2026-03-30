@@ -3,9 +3,9 @@ title: "Section 201 - Publication and distribution of Code of Laws of United Sta
 usc_title: 1
 usc_section: "201"
 chapter: 3
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "1 U.S.C. § 201"
-generated_at: "2026-03-30T08:32:22.151Z"
+generated_at: "2026-03-30T08:34:33.199Z"
 status: "active"
 ---
 

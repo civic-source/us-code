@@ -3,9 +3,9 @@ title: "Section 2719 - Grants for training and education in international affair
 usc_title: 22
 usc_section: "2719"
 chapter: 38
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 2719"
-generated_at: "2026-03-30T08:33:13.168Z"
+generated_at: "2026-03-30T08:35:26.584Z"
 status: "active"
 ---
 

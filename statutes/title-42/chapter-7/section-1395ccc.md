@@ -3,9 +3,9 @@ title: "Section 1395ccc - Offset of payments to individuals to collect past-due 
 usc_title: 42
 usc_section: "1395ccc"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 1395ccc"
-generated_at: "2026-03-30T08:34:08.570Z"
+generated_at: "2026-03-30T08:36:42.101Z"
 status: "active"
 ---
 

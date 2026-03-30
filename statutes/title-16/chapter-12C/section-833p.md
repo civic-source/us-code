@@ -3,9 +3,9 @@ title: "Section 833p - Reversion of title"
 usc_title: 16
 usc_section: "833p"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 833p"
-generated_at: "2026-03-30T08:33:07.292Z"
+generated_at: "2026-03-30T08:35:17.704Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Aug. 7, 1946, ch. 770, § 1 (40, 50), 60 Stat. 86
 usc_title: 12
 usc_section: "15"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 15"
-generated_at: "2026-03-30T08:32:41.115Z"
+generated_at: "2026-03-30T08:34:58.601Z"
 status: "repealed"
 ---
 

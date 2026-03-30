@@ -3,9 +3,9 @@ title: "Section 673 - Repealed. Pub. L. 97–375, title I, § 108(b) , Dec. 21, 
 usc_title: 25
 usc_section: "673"
 chapter: 14
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 673"
-generated_at: "2026-03-30T08:33:15.914Z"
+generated_at: "2026-03-30T08:35:27.947Z"
 status: "repealed"
 ---
 

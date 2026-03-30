@@ -3,9 +3,9 @@ title: "Section 2093 - General corporate powers"
 usc_title: 12
 usc_section: "2093"
 chapter: 23
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "12 U.S.C. § 2093"
-generated_at: "2026-03-30T08:32:41.211Z"
+generated_at: "2026-03-30T08:34:58.701Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 518 - Temporary enlistments"
 usc_title: 10
 usc_section: "518"
 chapter: 31
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 518"
-generated_at: "2026-03-30T08:32:32.856Z"
+generated_at: "2026-03-30T08:34:50.644Z"
 status: "active"
 ---
 

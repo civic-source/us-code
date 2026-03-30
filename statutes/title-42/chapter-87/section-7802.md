@@ -3,9 +3,9 @@ title: "Section 7802 - Repealed. Pub. L. 98–242, title I, § 110(a) , Mar. 22,
 usc_title: 42
 usc_section: "7802"
 chapter: 87
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 7802"
-generated_at: "2026-03-30T08:34:08.833Z"
+generated_at: "2026-03-30T08:36:42.357Z"
 status: "repealed"
 ---
 

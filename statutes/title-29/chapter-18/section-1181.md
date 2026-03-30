@@ -3,9 +3,9 @@ title: "Section 1181 - Increased portability through limitation on preexisting c
 usc_title: 29
 usc_section: "1181"
 chapter: 18
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "29 U.S.C. § 1181"
-generated_at: "2026-03-30T08:33:20.064Z"
+generated_at: "2026-03-30T08:36:05.285Z"
 status: "active"
 ---
 

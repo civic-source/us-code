@@ -3,9 +3,9 @@ title: "Section 1616d - Advanced training and research"
 usc_title: 25
 usc_section: "1616d"
 chapter: 18
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 1616d"
-generated_at: "2026-03-30T08:33:15.920Z"
+generated_at: "2026-03-30T08:35:27.952Z"
 status: "active"
 ---
 

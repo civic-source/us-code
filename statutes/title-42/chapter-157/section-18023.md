@@ -3,9 +3,9 @@ title: "Section 18023 - Special rules"
 usc_title: 42
 usc_section: "18023"
 chapter: 157
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 18023"
-generated_at: "2026-03-30T08:34:08.982Z"
+generated_at: "2026-03-30T08:36:42.502Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6403 - Coral reef conservation program"
 usc_title: 16
 usc_section: "6403"
 chapter: 83
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 6403"
-generated_at: "2026-03-30T08:33:07.377Z"
+generated_at: "2026-03-30T08:35:17.786Z"
 status: "active"
 ---
 

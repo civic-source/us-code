@@ -3,9 +3,9 @@ title: "Section 1a - National Science Foundation Teaching Fellowships and Master
 usc_title: 42
 usc_section: "1a"
 chapter: 16
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T08:34:08.652Z"
+generated_at: "2026-03-30T08:36:42.182Z"
 status: "active"
 ---
 

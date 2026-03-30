@@ -3,9 +3,9 @@ title: "Section 4103 - Limitation on rights of members of the Auxiliary and temp
 usc_title: 14
 usc_section: "4103"
 chapter: 41
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "14 U.S.C. § 4103"
-generated_at: "2026-03-30T08:32:38.301Z"
+generated_at: "2026-03-30T08:34:55.120Z"
 status: "active"
 ---
 

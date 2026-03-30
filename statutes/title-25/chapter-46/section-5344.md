@@ -3,9 +3,9 @@ title: "Section 5344 - Rules and regulations; minimum standards of service"
 usc_title: 25
 usc_section: "5344"
 chapter: 46
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "25 U.S.C. § 5344"
-generated_at: "2026-03-30T08:33:15.965Z"
+generated_at: "2026-03-30T08:35:27.995Z"
 status: "active"
 ---
 

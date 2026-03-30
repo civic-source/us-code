@@ -3,9 +3,9 @@ title: "Section 824f - Ordering furnishing of adequate service"
 usc_title: 16
 usc_section: "824f"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 824f"
-generated_at: "2026-03-30T08:33:07.285Z"
+generated_at: "2026-03-30T08:35:17.697Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Prohibited acts; criminal penalties"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T08:33:07.243Z"
+generated_at: "2026-03-30T08:35:17.656Z"
 status: "active"
 ---
 

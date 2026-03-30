@@ -3,9 +3,9 @@ title: "Section 1463 - Repealed. Pub. L. 103–236, title III, § 315(a) , Apr. 
 usc_title: 22
 usc_section: "1463"
 chapter: 18
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 1463"
-generated_at: "2026-03-30T08:33:13.125Z"
+generated_at: "2026-03-30T08:35:26.542Z"
 status: "repealed"
 ---
 

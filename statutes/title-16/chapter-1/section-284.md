@@ -3,9 +3,9 @@ title: "Section 284 - Establishment; statement of purposes; description; acquisi
 usc_title: 16
 usc_section: "284"
 chapter: 1
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 284"
-generated_at: "2026-03-30T08:33:07.130Z"
+generated_at: "2026-03-30T08:35:17.588Z"
 status: "active"
 ---
 

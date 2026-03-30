@@ -3,9 +3,9 @@ title: "Section 1951 - Repealed"
 usc_title: 22
 usc_section: "1951"
 chapter: 24
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "22 U.S.C. § 1951"
-generated_at: "2026-03-30T08:33:13.132Z"
+generated_at: "2026-03-30T08:35:26.548Z"
 status: "repealed"
 ---
 

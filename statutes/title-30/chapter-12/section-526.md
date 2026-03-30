@@ -3,9 +3,9 @@ title: "Section 526 - Mining and Leasing Act operations"
 usc_title: 30
 usc_section: "526"
 chapter: 12
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "30 U.S.C. § 526"
-generated_at: "2026-03-30T08:33:18.268Z"
+generated_at: "2026-03-30T08:35:33.510Z"
 status: "active"
 ---
 

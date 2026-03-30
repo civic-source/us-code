@@ -3,9 +3,9 @@ title: "Section 12336 - Independent State body"
 usc_title: 42
 usc_section: "12336"
 chapter: 127
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "42 U.S.C. § 12336"
-generated_at: "2026-03-30T08:34:08.906Z"
+generated_at: "2026-03-30T08:36:42.428Z"
 status: "active"
 ---
 

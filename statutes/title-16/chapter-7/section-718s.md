@@ -3,9 +3,9 @@ title: "Section 718s - Electronic stamp requirements; recognition of electronic 
 usc_title: 16
 usc_section: "718s"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "16 U.S.C. § 718s"
-generated_at: "2026-03-30T08:33:07.275Z"
+generated_at: "2026-03-30T08:35:17.688Z"
 status: "active"
 ---
 

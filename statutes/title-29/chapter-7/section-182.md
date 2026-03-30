@@ -3,9 +3,9 @@ title: "Section 182 - Exemption of Railway Labor Act from subchapter"
 usc_title: 29
 usc_section: "182"
 chapter: 7
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "29 U.S.C. § 182"
-generated_at: "2026-03-30T08:33:20.025Z"
+generated_at: "2026-03-30T08:36:05.243Z"
 status: "active"
 ---
 

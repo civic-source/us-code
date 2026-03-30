@@ -3,9 +3,9 @@ title: "Section 7553 - Armament Retooling and Manufacturing Support Initiative"
 usc_title: 10
 usc_section: "7553"
 chapter: 764
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 7553"
-generated_at: "2026-03-30T08:32:32.958Z"
+generated_at: "2026-03-30T08:34:50.741Z"
 status: "active"
 ---
 

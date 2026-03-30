@@ -3,9 +3,9 @@ title: "Section 533 - Ownership restrictions"
 usc_title: 47
 usc_section: "533"
 chapter: 5
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "47 U.S.C. § 533"
-generated_at: "2026-03-30T08:34:12.158Z"
+generated_at: "2026-03-30T08:36:48.596Z"
 status: "active"
 ---
 

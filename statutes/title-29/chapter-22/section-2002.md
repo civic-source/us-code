@@ -3,9 +3,9 @@ title: "Section 2002 - Prohibitions on lie detector use"
 usc_title: 29
 usc_section: "2002"
 chapter: 22
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "29 U.S.C. § 2002"
-generated_at: "2026-03-30T08:33:20.078Z"
+generated_at: "2026-03-30T08:36:05.298Z"
 status: "active"
 ---
 

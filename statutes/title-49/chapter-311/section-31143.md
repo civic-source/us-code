@@ -3,9 +3,9 @@ title: "Section 31143 - Investigating complaints and protecting complainants"
 usc_title: 49
 usc_section: "31143"
 chapter: 311
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "49 U.S.C. § 31143"
-generated_at: "2026-03-30T08:34:15.977Z"
+generated_at: "2026-03-30T08:36:53.296Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51308 - Uniforms, textbooks, and transportation allowances"
 usc_title: 46
 usc_section: "51308"
 chapter: 513
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "46 U.S.C. § 51308"
-generated_at: "2026-03-30T08:34:12.953Z"
+generated_at: "2026-03-30T08:36:54.070Z"
 status: "active"
 ---
 

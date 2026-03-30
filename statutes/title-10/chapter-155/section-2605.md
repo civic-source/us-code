@@ -3,9 +3,9 @@ title: "Section 2605 - Acceptance of gifts for defense dependents’ schools"
 usc_title: 10
 usc_section: "2605"
 chapter: 155
-current_through: "PL 116-56"
+current_through: "PL 116-57"
 classification: "10 U.S.C. § 2605"
-generated_at: "2026-03-30T08:32:32.941Z"
+generated_at: "2026-03-30T08:34:50.724Z"
 status: "active"
 ---
 
