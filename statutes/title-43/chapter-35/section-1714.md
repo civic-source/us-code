@@ -3,9 +3,9 @@ title: "Section 1714 - Withdrawals of lands"
 usc_title: 43
 usc_section: "1714"
 chapter: 35
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 1714"
-generated_at: "2026-03-30T09:05:40.530Z"
+generated_at: "2026-03-30T09:08:38.491Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1166 - Regular warrant officers: elimination for unfitness or un
 usc_title: 10
 usc_section: "1166"
 chapter: 59
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 1166"
-generated_at: "2026-03-30T09:04:10.435Z"
+generated_at: "2026-03-30T09:06:39.373Z"
 status: "active"
 ---
 

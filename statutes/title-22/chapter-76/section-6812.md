@@ -3,9 +3,9 @@ title: "Section 6812 - African crisis response initiative and HIV/AIDS training"
 usc_title: 22
 usc_section: "6812"
 chapter: 76
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 6812"
-generated_at: "2026-03-30T09:04:49.100Z"
+generated_at: "2026-03-30T09:07:20.717Z"
 status: "active"
 ---
 

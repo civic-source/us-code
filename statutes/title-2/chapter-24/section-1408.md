@@ -3,9 +3,9 @@ title: "Section 1408 - Civil action"
 usc_title: 2
 usc_section: "1408"
 chapter: 24
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 1408"
-generated_at: "2026-03-30T09:03:45.503Z"
+generated_at: "2026-03-30T09:06:26.170Z"
 status: "active"
 ---
 

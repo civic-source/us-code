@@ -3,9 +3,9 @@ title: "Section 988 - Prohibition on ownership or trading of stocks in certain c
 usc_title: 10
 usc_section: "988"
 chapter: 49
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 988"
-generated_at: "2026-03-30T09:04:10.421Z"
+generated_at: "2026-03-30T09:06:39.361Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
   - **(1)** The term “covered official of the Department of Defense” means any of the following:
     - **(A)** A civilian appointed to a position in the Department of Defense by the President, by and with the advice and consent of the Senate.
     - **(B)** If serving in a key acquisition position (as designated by the Secretary of Defense or the Secretary concerned for purposes of this section), the following:
-      - **(i)** A member of the armed forces in a grade above O –6.
+      - **(i)** A member of the armed forces in a grade above O–6.
       - **(ii)** A civilian officer or employee in a Senior Executive Service, Senior-Level, or Scientific or Professional position.
   - **(2)** The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).

@@ -3,9 +3,9 @@ title: "Section 505 - Penalty for violating regulation or order"
 usc_title: 46
 usc_section: "505"
 chapter: 5
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "46 U.S.C. § 505"
-generated_at: "2026-03-30T09:06:07.879Z"
+generated_at: "2026-03-30T09:08:52.067Z"
 status: "active"
 ---
 

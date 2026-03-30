@@ -3,9 +3,9 @@ title: "Section 13a - Nonenforcement of rules of government or other violations;
 usc_title: 7
 usc_section: "13a"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 13a"
-generated_at: "2026-03-30T09:04:05.771Z"
+generated_at: "2026-03-30T09:06:35.453Z"
 status: "active"
 ---
 

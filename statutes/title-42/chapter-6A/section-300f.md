@@ -3,9 +3,9 @@ title: "Section 300f - Definitions"
 usc_title: 42
 usc_section: "300f"
 chapter: 6
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 300f"
-generated_at: "2026-03-30T09:06:03.296Z"
+generated_at: "2026-03-30T09:08:36.463Z"
 status: "active"
 ---
 

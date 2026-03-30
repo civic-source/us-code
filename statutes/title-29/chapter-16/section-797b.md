@@ -3,9 +3,9 @@ title: "Section 797b - Repealed. Pub. L. 105–220, title IV, § 411 , Aug. 7, 1
 usc_title: 29
 usc_section: "797b"
 chapter: 16
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "29 U.S.C. § 797b"
-generated_at: "2026-03-30T09:05:04.369Z"
+generated_at: "2026-03-30T09:07:27.273Z"
 status: "repealed"
 ---
 

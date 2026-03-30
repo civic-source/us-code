@@ -3,9 +3,9 @@ title: "Section 1288 - Areawide waste treatment management"
 usc_title: 33
 usc_section: "1288"
 chapter: 26
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "33 U.S.C. § 1288"
-generated_at: "2026-03-30T09:05:20.200Z"
+generated_at: "2026-03-30T09:07:47.477Z"
 status: "active"
 ---
 

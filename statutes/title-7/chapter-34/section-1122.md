@@ -3,9 +3,9 @@ title: "Section 1122 - Omitted"
 usc_title: 7
 usc_section: "1122"
 chapter: 34
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 1122"
-generated_at: "2026-03-30T09:04:05.812Z"
+generated_at: "2026-03-30T09:06:35.495Z"
 status: "omitted"
 ---
 

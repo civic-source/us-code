@@ -3,9 +3,9 @@ title: "Section 1811 - Authorization during time of war"
 usc_title: 50
 usc_section: "1811"
 chapter: 36
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "50 U.S.C. § 1811"
-generated_at: "2026-03-30T09:06:09.013Z"
+generated_at: "2026-03-30T09:08:47.201Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53504 - Deposits and withdrawals"
 usc_title: 46
 usc_section: "53504"
 chapter: 535
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "46 U.S.C. § 53504"
-generated_at: "2026-03-30T09:06:07.907Z"
+generated_at: "2026-03-30T09:08:52.094Z"
 status: "active"
 ---
 

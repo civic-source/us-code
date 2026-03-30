@@ -3,9 +3,9 @@ title: "Section 2380a - Treatment of certain products and services as commercial
 usc_title: 10
 usc_section: "2380a"
 chapter: 140
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2380a"
-generated_at: "2026-03-30T09:04:10.473Z"
+generated_at: "2026-03-30T09:06:39.411Z"
 status: "active"
 ---
 

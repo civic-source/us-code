@@ -3,9 +3,9 @@ title: "Section 2381 - Assistance in organization"
 usc_title: 42
 usc_section: "2381"
 chapter: 24
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 2381"
-generated_at: "2026-03-30T09:06:03.600Z"
+generated_at: "2026-03-30T09:08:36.743Z"
 status: "active"
 ---
 

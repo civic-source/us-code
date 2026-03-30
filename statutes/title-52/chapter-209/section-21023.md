@@ -3,9 +3,9 @@ title: "Section 21023 - Requirements for eligibility"
 usc_title: 52
 usc_section: "21023"
 chapter: 209
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "52 U.S.C. § 21023"
-generated_at: "2026-03-30T09:06:12.799Z"
+generated_at: "2026-03-30T09:09:07.984Z"
 status: "active"
 ---
 

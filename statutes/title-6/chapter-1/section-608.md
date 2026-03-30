@@ -3,9 +3,9 @@ title: "Section 608 - Prioritization"
 usc_title: 6
 usc_section: "608"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 608"
-generated_at: "2026-03-30T09:04:02.799Z"
+generated_at: "2026-03-30T09:06:32.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423j - Authorization of appropriations"
 usc_title: 48
 usc_section: "1423j"
 chapter: 8
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "48 U.S.C. § 1423j"
-generated_at: "2026-03-30T09:06:06.615Z"
+generated_at: "2026-03-30T09:08:43.775Z"
 status: "active"
 ---
 

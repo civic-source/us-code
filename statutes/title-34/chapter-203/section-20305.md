@@ -3,9 +3,9 @@ title: "Section 20305 - Grants for specialized technical assistance and training
 usc_title: 34
 usc_section: "20305"
 chapter: 203
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "34 U.S.C. § 20305"
-generated_at: "2026-03-30T09:05:15.461Z"
+generated_at: "2026-03-30T09:07:37.342Z"
 status: "active"
 ---
 

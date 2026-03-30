@@ -3,9 +3,9 @@ title: "Section 4513 - Implementing actions in anticipation of entry into force;
 usc_title: 19
 usc_section: "4513"
 chapter: 29
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "19 U.S.C. § 4513"
-generated_at: "2026-03-30T09:04:33.580Z"
+generated_at: "2026-03-30T09:06:52.264Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
       - **(ii)** the provisions set forth in paragraph 2 of article 3.A.6 of Annex 3–A of the USMCA;
       - **(iii)** the provisions set forth in paragraph 5 of Annex 3–B of the USMCA;
       - **(iv)** the provisions set forth in paragraphs 14(b), 14(c), and 15(e) of Section B of Appendix 2 to Annex 2–B of the USMCA; and
-      - **(v)** any additional subordinate category that is necessary to carry out section 202 and section 202A consistent with the USMCA.
+      - **(v)** any additional subordinate category that is necessary to carry out section 4531 of this title and section 4532 of this title consistent with the USMCA.
     - **(B)**
       - **(i)** Subject to the consultation and layover provisions of section 4514 of this title , the President may proclaim modifications to the provisions proclaimed under the authority of subparagraph (A), other than the provisions of chapters 50 through 63 of the USMCA.
       - **(ii)** Notwithstanding clause (i), and subject to the consultation and layover provisions of section 4514 of this title , the President may proclaim—

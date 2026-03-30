@@ -3,9 +3,9 @@ title: "Section 1095f - TRICARE program: referrals and preauthorizations under T
 usc_title: 10
 usc_section: "1095f"
 chapter: 55
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 1095f"
-generated_at: "2026-03-30T09:04:10.430Z"
+generated_at: "2026-03-30T09:06:39.370Z"
 status: "active"
 ---
 

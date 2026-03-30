@@ -3,9 +3,9 @@ title: "Section 9672 - State laws; scope of subchapter"
 usc_title: 42
 usc_section: "9672"
 chapter: 103
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 9672"
-generated_at: "2026-03-30T09:06:03.774Z"
+generated_at: "2026-03-30T09:08:36.904Z"
 status: "active"
 ---
 

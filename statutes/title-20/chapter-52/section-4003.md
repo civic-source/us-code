@@ -3,9 +3,9 @@ title: "Section 4003 - Repealed. Pub. L. 100–297, title II, § 2303 , Apr. 28,
 usc_title: 20
 usc_section: "4003"
 chapter: 52
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 4003"
-generated_at: "2026-03-30T09:04:35.448Z"
+generated_at: "2026-03-30T09:06:57.184Z"
 status: "repealed"
 ---
 

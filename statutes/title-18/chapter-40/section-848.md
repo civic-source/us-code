@@ -3,9 +3,9 @@ title: "Section 848 - Effect on State law"
 usc_title: 18
 usc_section: "848"
 chapter: 40
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "18 U.S.C. § 848"
-generated_at: "2026-03-30T09:04:29.023Z"
+generated_at: "2026-03-30T09:06:54.871Z"
 status: "active"
 ---
 

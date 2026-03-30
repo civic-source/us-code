@@ -3,9 +3,9 @@ title: "Section 3873 - Omitted"
 usc_title: 42
 usc_section: "3873"
 chapter: 47
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 3873"
-generated_at: "2026-03-30T09:06:03.625Z"
+generated_at: "2026-03-30T09:08:36.768Z"
 status: "omitted"
 ---
 

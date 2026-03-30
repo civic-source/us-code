@@ -3,9 +3,9 @@ title: "Section 4010 - Hypoxia or harmful algal bloom of national significance"
 usc_title: 33
 usc_section: "4010"
 chapter: 53
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "33 U.S.C. § 4010"
-generated_at: "2026-03-30T09:05:20.243Z"
+generated_at: "2026-03-30T09:07:47.525Z"
 status: "active"
 ---
 

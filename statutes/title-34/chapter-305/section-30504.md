@@ -3,9 +3,9 @@ title: "Section 30504 - Grant program"
 usc_title: 34
 usc_section: "30504"
 chapter: 305
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "34 U.S.C. § 30504"
-generated_at: "2026-03-30T09:05:15.471Z"
+generated_at: "2026-03-30T09:07:37.351Z"
 status: "active"
 ---
 

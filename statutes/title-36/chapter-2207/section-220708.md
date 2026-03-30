@@ -3,9 +3,9 @@ title: "Section 220708 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "220708"
 chapter: 2207
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "36 U.S.C. § 220708"
-generated_at: "2026-03-30T09:05:22.781Z"
+generated_at: "2026-03-30T09:07:51.334Z"
 status: "active"
 ---
 

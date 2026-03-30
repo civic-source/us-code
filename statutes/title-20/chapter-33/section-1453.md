@@ -3,9 +3,9 @@ title: "Section 1453 - Applications"
 usc_title: 20
 usc_section: "1453"
 chapter: 33
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 1453"
-generated_at: "2026-03-30T09:04:35.433Z"
+generated_at: "2026-03-30T09:06:57.170Z"
 status: "active"
 ---
 

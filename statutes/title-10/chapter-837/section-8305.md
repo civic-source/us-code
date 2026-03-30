@@ -3,9 +3,9 @@ title: "Section 8305 - Commemorative or special medals: facsimiles and ribbons"
 usc_title: 10
 usc_section: "8305"
 chapter: 837
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 8305"
-generated_at: "2026-03-30T09:04:10.509Z"
+generated_at: "2026-03-30T09:06:39.445Z"
 status: "active"
 ---
 

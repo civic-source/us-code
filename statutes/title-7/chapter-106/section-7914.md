@@ -3,9 +3,9 @@ title: "Section 7914 - Availability of counter-cyclical payments"
 usc_title: 7
 usc_section: "7914"
 chapter: 106
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 7914"
-generated_at: "2026-03-30T09:04:05.939Z"
+generated_at: "2026-03-30T09:06:35.623Z"
 status: "active"
 ---
 

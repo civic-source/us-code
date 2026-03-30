@@ -3,9 +3,9 @@ title: "Section 20144 - Justice for United States victims of state sponsored ter
 usc_title: 34
 usc_section: "20144"
 chapter: 201
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "34 U.S.C. § 20144"
-generated_at: "2026-03-30T09:05:15.460Z"
+generated_at: "2026-03-30T09:07:37.341Z"
 status: "active"
 ---
 
@@ -46,8 +46,8 @@ status: "active"
     - **(A)** The deadline for submitting an application for a payment under this subsection is as follows:
       - **(i)** Not later than 90 days after the date of the publication required under subsection (b)(2)(A), with regard to an application based on—
         - **(I)** a final judgment described in paragraph (2)(A) obtained before that date of publication; or
-        - **(II)** a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019 shall have 90 days from November 21, 2019 to submit an application for payment.
-      - **(ii)** Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019 , in which case such United States person shall have 90 days from November 21, 2019 to submit an application for payment.
+        - **(II)** a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019 , shall have 90 days from November 21, 2019 , to submit an application for payment.
+      - **(ii)** Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019 , in which case such United States person shall have 90 days from November 21, 2019 , to submit an application for payment.
     - **(B)** For good cause shown, the Special Master may grant a claimant a reasonable extension of a deadline under this paragraph.
 - **(d)**
   - **(1)** The Special Master shall order payment from the Fund for each eligible claim of a United States person to that person or, if that person is deceased, to the personal representative of the estate of that person.

@@ -3,9 +3,9 @@ title: "Section 2143 - Effect of finding of noncompliance with Budget"
 usc_title: 48
 usc_section: "2143"
 chapter: 20
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "48 U.S.C. § 2143"
-generated_at: "2026-03-30T09:06:06.629Z"
+generated_at: "2026-03-30T09:08:43.788Z"
 status: "active"
 ---
 

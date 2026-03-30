@@ -3,9 +3,9 @@ title: "Section 1394 - Application of plan amendments; exception"
 usc_title: 29
 usc_section: "1394"
 chapter: 18
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "29 U.S.C. § 1394"
-generated_at: "2026-03-30T09:05:04.395Z"
+generated_at: "2026-03-30T09:07:27.298Z"
 status: "active"
 ---
 

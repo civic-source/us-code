@@ -3,9 +3,9 @@ title: "Section 4309 - Application to public international organizations and off
 usc_title: 22
 usc_section: "4309"
 chapter: 53
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 4309"
-generated_at: "2026-03-30T09:04:49.079Z"
+generated_at: "2026-03-30T09:07:20.695Z"
 status: "active"
 ---
 

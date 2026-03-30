@@ -3,9 +3,9 @@ title: "Section 9835 - Repealed. Pub. L. 107–314, div. A, title X, § 1006(c)(
 usc_title: 10
 usc_section: "9835"
 chapter: 983
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 9835"
-generated_at: "2026-03-30T09:04:10.524Z"
+generated_at: "2026-03-30T09:06:39.459Z"
 status: "repealed"
 ---
 

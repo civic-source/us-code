@@ -3,9 +3,9 @@ title: "Section 2409a - Incentives and consideration for qualified training prog
 usc_title: 10
 usc_section: "2409a"
 chapter: 141
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2409a"
-generated_at: "2026-03-30T09:04:10.475Z"
+generated_at: "2026-03-30T09:06:39.412Z"
 status: "active"
 ---
 
@@ -16,5 +16,5 @@ status: "active"
 - **(c)** The term “qualified training program” means any of the following:
   - **(1)** A program eligible to receive funds under the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3101 et seq.).
   - **(2)** A program eligible to receive funds under the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.).
-  - **(3)** A program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; Stat. 664 1 1 So in original. See References in Text note below. , chapter 663; 29 U.S.C. 50 et seq.).
+  - **(3)** A program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; Stat. 664, 1 1 So in original. Probably should be “ 50 Stat. 664 ,”. chapter 663; 29 U.S.C. 50 et seq.).
   - **(4)** Any other program determined to be a qualified training program for purposes of this section, and that meets the workforce needs of the Department of Defense, as determined by the Secretary of Defense.

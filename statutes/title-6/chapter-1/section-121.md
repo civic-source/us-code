@@ -3,9 +3,9 @@ title: "Section 121 - Information and Analysis"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-30T09:04:02.774Z"
+generated_at: "2026-03-30T09:06:32.468Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(C)** understand such threats in light of actual and potential vulnerabilities of the homeland.
   - **(2)** To carry out comprehensive assessments of the vulnerabilities of the key resources and critical infrastructure of the United States, including the performance of risk assessments to determine the risks posed by particular types of terrorist attacks within the United States (including an assessment of the probability of success of such attacks and the feasibility and potential efficacy of various countermeasures to such attacks).
   - **(3)** To integrate relevant information, analysis, and vulnerability assessments (regardless of whether such information, analysis or assessments are provided by or produced by the Department) in order to—
-    - **(A)** identify priorities for protective and support measures regarding terrorist and other threats to homeland security by the Department, other agencies of the Federal Government, State, and local government agencies and authorities, the private sector, and other entities; and
+    - **(A)** identify priorities for protective and support measures regarding terrorist and other threats to homeland security by the Department, other agencies of the Federal Government, State, 1 1 So in original. The comma probably should not appear. and local government agencies and authorities, the private sector, and other entities; and
     - **(B)** prepare finished intelligence and information products in both classified and unclassified formats, as appropriate, whenever reasonably expected to be of benefit to a State, local, or tribal government (including a State, local, or tribal law enforcement agency) or a private sector entity.
   - **(4)** To ensure, pursuant to section 122 of this title , the timely and efficient access by the Department to all information necessary to discharge the responsibilities under this section, including obtaining such information from other agencies of the Federal Government.
   - **(5)** To review, analyze, and make recommendations for improvements to the policies and procedures governing the sharing of information within the scope of the information sharing environment established under section 485 of this title , including homeland security information, terrorism information, and weapons of mass destruction information, and any policies, guidelines, procedures, instructions, or standards established under that section.

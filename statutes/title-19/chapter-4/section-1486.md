@@ -1,15 +1,15 @@
 ---
-title: "Section 1486 - Administration of oaths"
+title: "Section 1486 - Administration of oaths; verification of documents"
 usc_title: 19
 usc_section: "1486"
 chapter: 4
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "19 U.S.C. § 1486"
-generated_at: "2026-03-30T09:04:33.515Z"
+generated_at: "2026-03-30T09:06:52.202Z"
 status: "active"
 ---
 
-# § 1486. Administration of oaths
+# § 1486. Administration of oaths; verification of documents
 
 - **(a)** The following officers and employees may administer any oaths required or authorized by law or regulations promulgated thereunder in respect of any matter coming before such officers or employees in the performance of their official duties: (1) Any customs officer appointed by the President; (2) the chief assistant of any such officer, or any officer or employee of the customs field service designated for the purpose by such officer or by the Secretary of the Treasury; and (3) any officer or employee of the United States Customs Service designated for the purpose by the Secretary of the Treasury.
 - **(b)** The postmaster or assistant postmaster of the United States at any post office where customs officers are not stationed, is authorized to administer any oaths required to be made to statements in customs documents by importers of merchandise, not exceeding $100 in value, through the mails.

@@ -3,9 +3,9 @@ title: "Section 1856b - Emergency assistance"
 usc_title: 42
 usc_section: "1856b"
 chapter: 15
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 1856b"
-generated_at: "2026-03-30T09:06:03.562Z"
+generated_at: "2026-03-30T09:08:36.709Z"
 status: "active"
 ---
 

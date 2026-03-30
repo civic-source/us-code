@@ -3,9 +3,9 @@ title: "Section 1235 - State reclamation program"
 usc_title: 30
 usc_section: "1235"
 chapter: 25
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "30 U.S.C. § 1235"
-generated_at: "2026-03-30T09:04:56.913Z"
+generated_at: "2026-03-30T09:07:22.978Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 566 - Employee drug and alcohol abuse assistance programs"
 usc_title: 29
 usc_section: "566"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "29 U.S.C. § 566"
-generated_at: "2026-03-30T09:05:04.355Z"
+generated_at: "2026-03-30T09:07:27.261Z"
 status: "active"
 ---
 

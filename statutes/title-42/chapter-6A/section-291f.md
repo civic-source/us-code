@@ -3,9 +3,9 @@ title: "Section 291f - Payments for construction or modernization"
 usc_title: 42
 usc_section: "291f"
 chapter: 6
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 291f"
-generated_at: "2026-03-30T09:06:03.273Z"
+generated_at: "2026-03-30T09:08:36.443Z"
 status: "active"
 ---
 

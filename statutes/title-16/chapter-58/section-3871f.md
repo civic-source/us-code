@@ -3,9 +3,9 @@ title: "Section 3871f - Critical conservation areas"
 usc_title: 16
 usc_section: "3871f"
 chapter: 58
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 3871f"
-generated_at: "2026-03-30T09:04:31.758Z"
+generated_at: "2026-03-30T09:06:59.566Z"
 status: "active"
 ---
 

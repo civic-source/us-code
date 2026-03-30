@@ -3,9 +3,9 @@ title: "Section 1624 - Cooperation with Government and State agencies, private r
 usc_title: 7
 usc_section: "1624"
 chapter: 38
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 1624"
-generated_at: "2026-03-30T09:04:05.834Z"
+generated_at: "2026-03-30T09:06:35.518Z"
 status: "active"
 ---
 

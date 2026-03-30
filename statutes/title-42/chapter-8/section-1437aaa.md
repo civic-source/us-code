@@ -3,9 +3,9 @@ title: "Section 1437aaa - Program authority"
 usc_title: 42
 usc_section: "1437aaa"
 chapter: 8
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 1437aaa"
-generated_at: "2026-03-30T09:06:03.536Z"
+generated_at: "2026-03-30T09:08:36.684Z"
 status: "active"
 ---
 

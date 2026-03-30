@@ -3,9 +3,9 @@ title: "Section 3352e - Periodic report on positions in the intelligence communi
 usc_title: 50
 usc_section: "3352e"
 chapter: 45
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "50 U.S.C. § 3352e"
-generated_at: "2026-03-30T09:06:09.051Z"
+generated_at: "2026-03-30T09:08:47.235Z"
 status: "active"
 ---
 

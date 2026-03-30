@@ -3,9 +3,9 @@ title: "Section 1521 - Reservoir insurance program study"
 usc_title: 30
 usc_section: "1521"
 chapter: 27
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "30 U.S.C. § 1521"
-generated_at: "2026-03-30T09:04:56.921Z"
+generated_at: "2026-03-30T09:07:22.985Z"
 status: "active"
 ---
 

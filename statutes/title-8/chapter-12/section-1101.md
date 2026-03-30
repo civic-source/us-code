@@ -3,9 +3,9 @@ title: "Section 1101 - Definitions"
 usc_title: 8
 usc_section: "1101"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "8 U.S.C. § 1101"
-generated_at: "2026-03-30T09:04:02.360Z"
+generated_at: "2026-03-30T09:06:31.249Z"
 status: "active"
 ---
 
@@ -141,7 +141,7 @@ status: "active"
       - **(i)** for at least 2 years immediately preceding the time of application for admission, has been a member of a religious denomination having a bona fide nonprofit, religious organization in the United States;
       - **(ii)** seeks to enter the United States—
         - **(I)** solely for the purpose of carrying on the vocation of a minister of that religious denomination,
-        - **(II)** before September 30, 2015 , 3 in order to work for the organization at the request of the organization in a professional capacity in a religious vocation or occupation, or
+        - **(II)** before September 30, 2015 , 3 3 See Availability of Funds note below. in order to work for the organization at the request of the organization in a professional capacity in a religious vocation or occupation, or
         - **(III)** before September 30, 2015 , 3 in order to work for the organization (or for a bona fide organization which is affiliated with the religious denomination and is exempt from taxation as an organization described in section 501(c)(3) of title 26 ) at the request of the organization in a religious vocation or occupation; and
       - **(iii)** has been carrying on such vocation, professional work, or other work continuously for at least the 2-year period described in clause (i);
     - **(D)** an immigrant who is an employee, or an honorably retired former employee, of the United States Government abroad, or of the American Institute in Taiwan, and who has performed faithful service for a total of fifteen years, or more, and his accompanying spouse and children: Provided , That the principal officer of a Foreign Service establishment (or, in the case of the American Institute in Taiwan, the Director thereof), in his discretion, shall have recommended the granting of special immigrant status to such alien in exceptional circumstances and the Secretary of State approves such recommendation and finds that it is in the national interest to grant such status;

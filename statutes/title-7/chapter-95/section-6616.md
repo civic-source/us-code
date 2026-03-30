@@ -3,9 +3,9 @@ title: "Section 6616 - Loans to economically disadvantaged rural communities"
 usc_title: 7
 usc_section: "6616"
 chapter: 95
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 6616"
-generated_at: "2026-03-30T09:04:05.915Z"
+generated_at: "2026-03-30T09:06:35.599Z"
 status: "active"
 ---
 

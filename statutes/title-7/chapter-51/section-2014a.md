@@ -3,9 +3,9 @@ title: "Section 2014a - Notice of change in State of residence of certified hous
 usc_title: 7
 usc_section: "2014a"
 chapter: 51
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 2014a"
-generated_at: "2026-03-30T09:04:05.861Z"
+generated_at: "2026-03-30T09:06:35.545Z"
 status: "active"
 ---
 

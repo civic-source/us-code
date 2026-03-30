@@ -3,9 +3,9 @@ title: "Section 1727 - Bilateral grant program"
 usc_title: 7
 usc_section: "1727"
 chapter: 41
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 1727"
-generated_at: "2026-03-30T09:04:05.840Z"
+generated_at: "2026-03-30T09:06:35.524Z"
 status: "active"
 ---
 

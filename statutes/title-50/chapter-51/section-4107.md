@@ -3,9 +3,9 @@ title: "Section 4107 - Reports to Congress"
 usc_title: 50
 usc_section: "4107"
 chapter: 51
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "50 U.S.C. § 4107"
-generated_at: "2026-03-30T09:06:09.064Z"
+generated_at: "2026-03-30T09:08:47.248Z"
 status: "active"
 ---
 

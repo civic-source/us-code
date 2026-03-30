@@ -3,9 +3,9 @@ title: "Section 53208 - Regulatory relief"
 usc_title: 46
 usc_section: "53208"
 chapter: 532
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "46 U.S.C. § 53208"
-generated_at: "2026-03-30T09:06:07.907Z"
+generated_at: "2026-03-30T09:08:52.093Z"
 status: "active"
 ---
 

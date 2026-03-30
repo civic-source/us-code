@@ -1,15 +1,15 @@
 ---
-title: "Section 1551 - Designation as carrier of bonded merchandise"
+title: "Section 1551 - Bonding of carriers"
 usc_title: 19
 usc_section: "1551"
 chapter: 4
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "19 U.S.C. § 1551"
-generated_at: "2026-03-30T09:04:33.519Z"
+generated_at: "2026-03-30T09:06:52.207Z"
 status: "active"
 ---
 
-# § 1551. Designation as carrier of bonded merchandise
+# § 1551. Bonding of carriers
 
 Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe—
 

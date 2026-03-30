@@ -3,9 +3,9 @@ title: "Section 292a - Discontinuance of boarding and day schools having small a
 usc_title: 25
 usc_section: "292a"
 chapter: 7
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "25 U.S.C. § 292a"
-generated_at: "2026-03-30T09:04:44.442Z"
+generated_at: "2026-03-30T09:07:03.467Z"
 status: "active"
 ---
 

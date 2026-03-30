@@ -3,9 +3,9 @@ title: "Section 424 - Disposal of lands classified as temporarily or permanently
 usc_title: 43
 usc_section: "424"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 424"
-generated_at: "2026-03-30T09:05:40.501Z"
+generated_at: "2026-03-30T09:08:38.457Z"
 status: "active"
 ---
 

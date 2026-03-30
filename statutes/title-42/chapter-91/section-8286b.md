@@ -3,9 +3,9 @@ title: "Section 8286b - Omitted"
 usc_title: 42
 usc_section: "8286b"
 chapter: 91
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 8286b"
-generated_at: "2026-03-30T09:06:03.752Z"
+generated_at: "2026-03-30T09:08:36.884Z"
 status: "omitted"
 ---
 

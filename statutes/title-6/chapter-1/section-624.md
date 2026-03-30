@@ -3,9 +3,9 @@ title: "Section 624 - Civil enforcement"
 usc_title: 6
 usc_section: "624"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 624"
-generated_at: "2026-03-30T09:04:02.800Z"
+generated_at: "2026-03-30T09:06:32.491Z"
 status: "active"
 ---
 
@@ -35,5 +35,5 @@ status: "active"
       - **(ii)** states the security measures or order issued or imposed; and
       - **(iii)** describes the standards and procedures for obtaining relief from the order.
     - **(B)** After issuing an order under paragraph (1) with respect to a chemical facility of interest, the Secretary shall provide for review of the order under section 554 of title 5 if a petition for review is filed not later than 20 days after the date on which the Secretary issues the order.
-    - **(C)** If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
+    - **(C)** If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph 2 2 So in original. Probably should be “that subparagraph”. is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
 - **(d)** Nothing in this subchapter confers upon any person except the Secretary or his or her designee a right of action against an owner or operator of a covered chemical facility to enforce any provision of this subchapter.

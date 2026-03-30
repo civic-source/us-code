@@ -3,9 +3,9 @@ title: "Section 524 - Information on shipments to be given Chairman of National 
 usc_title: 22
 usc_section: "524"
 chapter: 10
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 524"
-generated_at: "2026-03-30T09:04:49.009Z"
+generated_at: "2026-03-30T09:07:20.622Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24706 - Discontinuance"
 usc_title: 49
 usc_section: "24706"
 chapter: 247
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "49 U.S.C. § 24706"
-generated_at: "2026-03-30T09:06:11.031Z"
+generated_at: "2026-03-30T09:09:06.122Z"
 status: "active"
 ---
 

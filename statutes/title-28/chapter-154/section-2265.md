@@ -3,9 +3,9 @@ title: "Section 2265 - Certification and judicial review"
 usc_title: 28
 usc_section: "2265"
 chapter: 154
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "28 U.S.C. § 2265"
-generated_at: "2026-03-30T09:04:57.938Z"
+generated_at: "2026-03-30T09:07:25.064Z"
 status: "active"
 ---
 

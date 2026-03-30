@@ -3,9 +3,9 @@ title: "Section 363 - Use, sale, or lease of property"
 usc_title: 11
 usc_section: "363"
 chapter: 3
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "11 U.S.C. § 363"
-generated_at: "2026-03-30T09:04:24.023Z"
+generated_at: "2026-03-30T09:06:41.941Z"
 status: "active"
 ---
 

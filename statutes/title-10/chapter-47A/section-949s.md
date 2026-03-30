@@ -3,9 +3,9 @@ title: "Section 949s - Cruel or unusual punishments prohibited"
 usc_title: 10
 usc_section: "949s"
 chapter: 47
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 949s"
-generated_at: "2026-03-30T09:04:10.420Z"
+generated_at: "2026-03-30T09:06:39.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 653 - Analysis by Congressional Budget Office"
 usc_title: 2
 usc_section: "653"
 chapter: 17
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 653"
-generated_at: "2026-03-30T09:03:45.489Z"
+generated_at: "2026-03-30T09:06:26.159Z"
 status: "active"
 ---
 

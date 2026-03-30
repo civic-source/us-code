@@ -3,9 +3,9 @@ title: "Section 2725 - Definitions"
 usc_title: 18
 usc_section: "2725"
 chapter: 123
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "18 U.S.C. § 2725"
-generated_at: "2026-03-30T09:04:29.053Z"
+generated_at: "2026-03-30T09:06:54.901Z"
 status: "active"
 ---
 

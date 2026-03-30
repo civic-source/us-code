@@ -3,9 +3,9 @@ title: "Section 166a - Equal access to Congressional Research Service Reports"
 usc_title: 2
 usc_section: "166a"
 chapter: 5
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 166a"
-generated_at: "2026-03-30T09:03:45.479Z"
+generated_at: "2026-03-30T09:06:26.149Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2410o - Multiyear procurement authority: purchase of dinitrogen 
 usc_title: 10
 usc_section: "2410o"
 chapter: 141
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2410o"
-generated_at: "2026-03-30T09:04:10.475Z"
+generated_at: "2026-03-30T09:06:39.413Z"
 status: "active"
 ---
 

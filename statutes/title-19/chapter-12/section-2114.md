@@ -1,15 +1,15 @@
 ---
-title: "Section 2114 - Sector negotiating objectives"
+title: "Section 2114 - Sector negotiating objective"
 usc_title: 19
 usc_section: "2114"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "19 U.S.C. § 2114"
-generated_at: "2026-03-30T09:04:33.537Z"
+generated_at: "2026-03-30T09:06:52.223Z"
 status: "active"
 ---
 
-# § 2114. Sector negotiating objectives
+# § 2114. Sector negotiating objective
 
 - **(a)** A principal United States negotiating objective under sections 2111 and 2112 of this title shall be to obtain, to the maximum extent feasible, with respect to appropriate product sectors of manufacturing, and with respect to the agricultural sector, competitive opportunities for United States exports to the developed countries of the world equivalent to the competitive opportunities afforded in United States markets to the importation of like or similar products, taking into account all barriers (including tariffs) to and other distortions of international trade affecting that sector.
 - **(b)** As a means of achieving the negotiating objective set forth in subsection (a), to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.

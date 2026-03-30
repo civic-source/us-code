@@ -3,9 +3,9 @@ title: "Section 807 - Right of Government to take over project works"
 usc_title: 16
 usc_section: "807"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 807"
-generated_at: "2026-03-30T09:04:31.677Z"
+generated_at: "2026-03-30T09:06:59.482Z"
 status: "active"
 ---
 

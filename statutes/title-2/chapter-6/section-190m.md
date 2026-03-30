@@ -3,9 +3,9 @@ title: "Section 190m - Subpoena for taking testimony; compensation of officers a
 usc_title: 2
 usc_section: "190m"
 chapter: 6
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 190m"
-generated_at: "2026-03-30T09:03:45.481Z"
+generated_at: "2026-03-30T09:06:26.152Z"
 status: "active"
 ---
 

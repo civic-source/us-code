@@ -3,9 +3,9 @@ title: "Section 7344 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "7344"
 chapter: 743
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 7344"
-generated_at: "2026-03-30T09:04:10.501Z"
+generated_at: "2026-03-30T09:06:39.438Z"
 status: "active"
 ---
 

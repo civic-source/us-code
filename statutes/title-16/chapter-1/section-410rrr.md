@@ -3,9 +3,9 @@ title: "Section 410rrr - First State National Historical Park"
 usc_title: 16
 usc_section: "410rrr"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 410rrr"
-generated_at: "2026-03-30T09:04:31.595Z"
+generated_at: "2026-03-30T09:06:59.395Z"
 status: "active"
 ---
 

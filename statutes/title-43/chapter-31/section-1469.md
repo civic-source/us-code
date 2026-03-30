@@ -3,9 +3,9 @@ title: "Section 1469 - Employment and compensation of personnel to perform work 
 usc_title: 43
 usc_section: "1469"
 chapter: 31
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 1469"
-generated_at: "2026-03-30T09:05:40.519Z"
+generated_at: "2026-03-30T09:08:38.480Z"
 status: "active"
 ---
 

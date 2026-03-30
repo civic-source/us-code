@@ -3,9 +3,9 @@ title: "Section 433g - Fort Frederica National Monument; establishment"
 usc_title: 16
 usc_section: "433g"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 433g"
-generated_at: "2026-03-30T09:04:31.603Z"
+generated_at: "2026-03-30T09:06:59.404Z"
 status: "active"
 ---
 

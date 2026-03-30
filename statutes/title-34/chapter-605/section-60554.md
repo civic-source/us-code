@@ -3,9 +3,9 @@ title: "Section 60554 - Repealed. Pub. L. 115–391, title V, § 504(d) , Dec. 2
 usc_title: 34
 usc_section: "60554"
 chapter: 605
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "34 U.S.C. § 60554"
-generated_at: "2026-03-30T09:05:15.479Z"
+generated_at: "2026-03-30T09:07:37.360Z"
 status: "repealed"
 ---
 

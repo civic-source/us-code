@@ -3,9 +3,9 @@ title: "Section 425 - Fredericksburg and Spotsylvania County Battle Fields Memor
 usc_title: 16
 usc_section: "425"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 425"
-generated_at: "2026-03-30T09:04:31.599Z"
+generated_at: "2026-03-30T09:06:59.398Z"
 status: "active"
 ---
 

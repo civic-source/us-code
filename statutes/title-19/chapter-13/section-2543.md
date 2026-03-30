@@ -3,9 +3,9 @@ title: "Section 2543 - Representation of United States interests before internat
 usc_title: 19
 usc_section: "2543"
 chapter: 13
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "19 U.S.C. § 2543"
-generated_at: "2026-03-30T09:04:33.551Z"
+generated_at: "2026-03-30T09:06:52.237Z"
 status: "active"
 ---
 

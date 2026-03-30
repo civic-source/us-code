@@ -3,9 +3,9 @@ title: "Section 70107 - Grants"
 usc_title: 46
 usc_section: "70107"
 chapter: 701
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "46 U.S.C. § 70107"
-generated_at: "2026-03-30T09:06:07.916Z"
+generated_at: "2026-03-30T09:08:52.103Z"
 status: "active"
 ---
 

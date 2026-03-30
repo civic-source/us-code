@@ -3,9 +3,9 @@ title: "Section 3924 - Uniform and consolidated administration of Service"
 usc_title: 22
 usc_section: "3924"
 chapter: 52
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 3924"
-generated_at: "2026-03-30T09:04:49.068Z"
+generated_at: "2026-03-30T09:07:20.684Z"
 status: "active"
 ---
 

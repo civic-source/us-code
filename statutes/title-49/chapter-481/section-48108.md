@@ -3,9 +3,9 @@ title: "Section 48108 - Availability and uses of amounts"
 usc_title: 49
 usc_section: "48108"
 chapter: 481
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "49 U.S.C. § 48108"
-generated_at: "2026-03-30T09:06:11.080Z"
+generated_at: "2026-03-30T09:09:06.167Z"
 status: "active"
 ---
 

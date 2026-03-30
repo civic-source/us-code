@@ -3,9 +3,9 @@ title: "Section 5853 - Limitation on legal fee reimbursement"
 usc_title: 42
 usc_section: "5853"
 chapter: 73
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 5853"
-generated_at: "2026-03-30T09:06:03.666Z"
+generated_at: "2026-03-30T09:08:36.806Z"
 status: "active"
 ---
 

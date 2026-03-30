@@ -3,9 +3,9 @@ title: "Section 2361a - Extramural acquisition innovation and research activitie
 usc_title: 10
 usc_section: "2361a"
 chapter: 139
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2361a"
-generated_at: "2026-03-30T09:04:10.471Z"
+generated_at: "2026-03-30T09:06:39.408Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and in coordination with the Under Secretary of Defense for Research and Engineering, shall establish and maintain extramural acquisition innovation and research activities as described in subsection (d), which shall include an acquisition research organization within a civilian college or university that is not owned or operated by the Federal Government that is established to provide and maintain essential research and development capabilities through a long-term strategic relationship with the Department of Defense.
 - **(b)** The goal of any activity conducted pursuant to this section shall be to provide academic analyses and policy alternatives for innovation in defense acquisition policies and practices to policymakers in the Federal Government by using a variety of means intended to widely disseminate research findings from such an activity, in addition to executing demonstration and pilot programs of innovative acquisition policies and practices.
 - **(c)**
-  - **(1)** Not later than June 1, 2020 , the Secretary of Defense shall appoint an individual from civilian life to serve as the director for the extramural acquisition innovation and research activities required by this section (referred to in this section as the ‘Director’).
+  - **(1)** Not later than June 1, 2020 , the Secretary of Defense shall appoint an individual from civilian life to serve as the director for the extramural acquisition innovation and research activities required by this section (referred to in this section as the “Director”).
   - **(2)** The Director shall serve a term of five years.
 - **(d)** The activities described in this subsection are as follows:
   - **(1)** Research on past and current defense acquisition policies and practices, commercial and international best practices, and the application of new technologies and analytical capabilities to improve acquisition policies and practices.

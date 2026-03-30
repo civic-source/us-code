@@ -3,9 +3,9 @@ title: "Section 1469a - Congressional declaration of policy respecting “Insula
 usc_title: 48
 usc_section: "1469a"
 chapter: 10
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "48 U.S.C. § 1469a"
-generated_at: "2026-03-30T09:06:06.616Z"
+generated_at: "2026-03-30T09:08:43.776Z"
 status: "active"
 ---
 

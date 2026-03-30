@@ -3,9 +3,9 @@ title: "Section 4242 - Reports to Congress"
 usc_title: 25
 usc_section: "4242"
 chapter: 43
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "25 U.S.C. § 4242"
-generated_at: "2026-03-30T09:04:44.499Z"
+generated_at: "2026-03-30T09:07:03.520Z"
 status: "active"
 ---
 

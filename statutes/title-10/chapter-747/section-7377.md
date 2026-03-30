@@ -3,9 +3,9 @@ title: "Section 7377 - Civilian special agents of the Criminal Investigation Com
 usc_title: 10
 usc_section: "7377"
 chapter: 747
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 7377"
-generated_at: "2026-03-30T09:04:10.502Z"
+generated_at: "2026-03-30T09:06:39.438Z"
 status: "active"
 ---
 

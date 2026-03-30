@@ -3,9 +3,9 @@ title: "Section 1354 - Operation of State plans"
 usc_title: 42
 usc_section: "1354"
 chapter: 7
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 1354"
-generated_at: "2026-03-30T09:06:03.401Z"
+generated_at: "2026-03-30T09:08:36.562Z"
 status: "active"
 ---
 

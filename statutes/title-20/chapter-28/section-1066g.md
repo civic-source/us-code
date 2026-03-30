@@ -3,9 +3,9 @@ title: "Section 1066g - Minority business enterprise utilization"
 usc_title: 20
 usc_section: "1066g"
 chapter: 28
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 1066g"
-generated_at: "2026-03-30T09:04:35.378Z"
+generated_at: "2026-03-30T09:06:57.114Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 954 - Vacancy in clerk position; absence of clerk"
 usc_title: 28
 usc_section: "954"
 chapter: 57
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "28 U.S.C. § 954"
-generated_at: "2026-03-30T09:04:57.928Z"
+generated_at: "2026-03-30T09:07:25.055Z"
 status: "active"
 ---
 

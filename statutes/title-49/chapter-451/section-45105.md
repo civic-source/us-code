@@ -3,9 +3,9 @@ title: "Section 45105 - Rehabilitation"
 usc_title: 49
 usc_section: "45105"
 chapter: 451
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "49 U.S.C. § 45105"
-generated_at: "2026-03-30T09:06:11.070Z"
+generated_at: "2026-03-30T09:09:06.159Z"
 status: "active"
 ---
 

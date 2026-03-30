@@ -3,9 +3,9 @@ title: "Section 7302 - Definitions"
 usc_title: 31
 usc_section: "7302"
 chapter: 73
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "31 U.S.C. § 7302"
-generated_at: "2026-03-30T09:05:07.542Z"
+generated_at: "2026-03-30T09:07:36.758Z"
 status: "active"
 ---
 

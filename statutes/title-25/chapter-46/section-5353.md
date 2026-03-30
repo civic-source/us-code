@@ -3,9 +3,9 @@ title: "Section 5353 - Availability of funds to agencies, institutions, and orga
 usc_title: 25
 usc_section: "5353"
 chapter: 46
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "25 U.S.C. § 5353"
-generated_at: "2026-03-30T09:04:44.504Z"
+generated_at: "2026-03-30T09:07:03.525Z"
 status: "active"
 ---
 

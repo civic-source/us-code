@@ -3,9 +3,9 @@ title: "Section 2583 - Military animals: transfer and adoption"
 usc_title: 10
 usc_section: "2583"
 chapter: 153
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2583"
-generated_at: "2026-03-30T09:04:10.485Z"
+generated_at: "2026-03-30T09:06:39.422Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
 - **(g)** Upon completion of veterinary screening and care for a military working dog to be retired pursuant to subsection (f), the Secretary of the military department concerned shall—
   - **(1)** if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armed forces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
   - **(2)** for any other dog, transport the dog—
-    - **(A)** to the 341st Training Squadron;
+    - **(A)** to the 341st Training Squadron; 1 1 So in original. Probably should be followed by “or”.
     - **(B)** to another location within the United States for transfer or adoption under this section.
 - **(h)**
   - **(1)** In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.

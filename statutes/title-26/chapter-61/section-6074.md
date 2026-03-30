@@ -3,9 +3,9 @@ title: "Section 6074 - Repealed. Pub. L. 90–364, title I, § 103(a) , June 28,
 usc_title: 26
 usc_section: "6074"
 chapter: 61
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "26 U.S.C. § 6074"
-generated_at: "2026-03-30T09:05:03.471Z"
+generated_at: "2026-03-30T09:07:34.031Z"
 status: "repealed"
 ---
 

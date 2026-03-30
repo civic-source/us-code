@@ -3,9 +3,9 @@ title: "Section 2693 - Repealed. Pub. L. 109–364, div. B, title XXVIII, § 282
 usc_title: 10
 usc_section: "2693"
 chapter: 159
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2693"
-generated_at: "2026-03-30T09:04:10.490Z"
+generated_at: "2026-03-30T09:06:39.427Z"
 status: "repealed"
 ---
 

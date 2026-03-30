@@ -3,9 +3,9 @@ title: "Section 1474 - Loans and grants for repairs or improvements of rural dwe
 usc_title: 42
 usc_section: "1474"
 chapter: 8
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 1474"
-generated_at: "2026-03-30T09:06:03.540Z"
+generated_at: "2026-03-30T09:08:36.687Z"
 status: "active"
 ---
 

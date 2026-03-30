@@ -3,9 +3,9 @@ title: "Section 5308 - Protection of proprietary rights"
 usc_title: 15
 usc_section: "5308"
 chapter: 79
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "15 U.S.C. § 5308"
-generated_at: "2026-03-30T09:04:23.017Z"
+generated_at: "2026-03-30T09:06:47.408Z"
 status: "active"
 ---
 

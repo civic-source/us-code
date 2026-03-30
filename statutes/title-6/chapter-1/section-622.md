@@ -3,9 +3,9 @@ title: "Section 622 - Chemical Facility Anti-Terrorism Standards Program"
 usc_title: 6
 usc_section: "622"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 622"
-generated_at: "2026-03-30T09:04:02.800Z"
+generated_at: "2026-03-30T09:06:32.491Z"
 status: "active"
 ---
 
@@ -99,7 +99,7 @@ status: "active"
         - **(V)** If the Secretary determines that a new or modified site security plan submitted by an expedited approval facility under subclause (III) is facially deficient—
     - **(H)**
       - **(i)** The Secretary may develop prescriptive site security plan templates with specific security measures to meet the risk-based performance standards under subsection (a)(2)(C) for adoption and certification by a covered chemical facility assigned to tier 3 or 4 in lieu of developing and certifying its own plan.
-      - **(ii)** During the period before the Secretary has met the deadline under subparagraph (B)(i), in developing and issuing, or amending, the site security plan templates under this subparagraph, in issuing guidance for implementation of the templates, and in collecting information from expedited approval facilities, the Secretary shall not be subject to—
+      - **(ii)** During the period before the Secretary has met the deadline under subparagraph (B)(i), 2 2 So in original. Probably should be “(D)(i),”. in developing and issuing, or amending, the site security plan templates under this subparagraph, in issuing guidance for implementation of the templates, and in collecting information from expedited approval facilities, the Secretary shall not be subject to—
         - **(I)** section 553 of title 5 ;
         - **(II)** subchapter I of chapter 35 of title 44; or
         - **(III)** section 627(b) of this title .

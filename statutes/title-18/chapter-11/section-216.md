@@ -3,9 +3,9 @@ title: "Section 216 - Penalties and injunctions"
 usc_title: 18
 usc_section: "216"
 chapter: 11
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "18 U.S.C. § 216"
-generated_at: "2026-03-30T09:04:29.014Z"
+generated_at: "2026-03-30T09:06:54.862Z"
 status: "active"
 ---
 

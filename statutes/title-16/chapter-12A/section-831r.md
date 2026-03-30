@@ -3,9 +3,9 @@ title: "Section 831r - Patents; access to Patent and Trademark Office and right 
 usc_title: 16
 usc_section: "831r"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 831r"
-generated_at: "2026-03-30T09:04:31.686Z"
+generated_at: "2026-03-30T09:06:59.491Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2103 - Rights of access"
 usc_title: 43
 usc_section: "2103"
 chapter: 39
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 2103"
-generated_at: "2026-03-30T09:05:40.536Z"
+generated_at: "2026-03-30T09:08:38.499Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7704 - National Earthquake Hazards Reduction Program"
 usc_title: 42
 usc_section: "7704"
 chapter: 86
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 7704"
-generated_at: "2026-03-30T09:06:03.743Z"
+generated_at: "2026-03-30T09:08:36.876Z"
 status: "active"
 ---
 
@@ -44,26 +44,26 @@ status: "active"
       - **(iii)** To the extent practicable, the Secretary of Agriculture and the Secretary of the Interior shall expedite any request for a permit to use public land under clause (ii)(VI).
   - **(4)**
     - **(A)** Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program. Such report shall include—
-      - **(i)** the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);
-      - **(ii)** the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);
-      - **(iii)** a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I);
+      - **(i)** the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); 2 2 See References in Text note below.
+      - **(ii)** the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); 2
+      - **(iii)** a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I); 2
       - **(iv)** a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
       - **(v)** a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program;
       - **(vi)** a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i); and
       - **(vii)** a statement regarding whether the Administrator of the Federal Emergency Management Agency has lowered or waived the cost share requirement for assistance provided under subsection (b)(2)(A)(i).
     - **(B)** Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.
   - **(5)**
-    - **(A)** The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5 2 2 So in original. Probably should be followed by a closing parenthesis. including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
+    - **(A)** The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5 3 3 So in original. Probably should be followed by a closing parenthesis. including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
     - **(B)** The Advisory Committee shall assess—
       - **(i)** trends and developments in the science and engineering of earthquake hazards reduction;
-      - **(ii)** effectiveness of the Program in carrying out the activities under (a)(2) 3 3 So in original. Probably should be preceded by “subsection”. ;
+      - **(ii)** effectiveness of the Program in carrying out the activities under (a)(2) 4 4 So in original. Probably should be preceded by “subsection”. ;
       - **(iii)** the need to revise the Program; and
       - **(iv)** the management, coordination, implementation, and activities of the Program.
     - **(C)** Not later than 1 year after October 25, 2004 , and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
     - **(D)** Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14) shall not apply to the Advisory Committee.
 - **(b)**
   - **(1)** The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute shall—
-    - **(A)** ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning 4 4 So in original. Probably should be followed by a comma. constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
+    - **(A)** ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning 5 5 So in original. Probably should be followed by a comma. constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
     - **(B)** support the development of performance-based seismic engineering tools, and work with appropriate groups to promote the commercial application of such tools, through earthquake-related building codes, standards, and construction practices;
     - **(C)** request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter; and
     - **(D)** work with the Federal Emergency Management Agency, the National Science Foundation, and the United States Geological Survey, to develop a comprehensive plan for earthquake engineering research to provide new and effectively use existing testing facilities and laboratories (existing at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
@@ -90,7 +90,7 @@ status: "active"
       - **(iv)** direct foreign requests to the agency involved in the Program which is best able to respond to the request;
     - **(F)** operate a National Seismic System;
     - **(G)** support regional seismic networks, which shall complement the National Seismic Network; and 1
-    - **(H)** work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner. 5 5 So in original. The period probably should be a semicolon.
+    - **(H)** work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner. 6 6 So in original. The period probably should be a semicolon.
     - **(I)** work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries;
     - **(J)** maintain suitable seismic hazard maps and data in support of building codes for structures and lifeline infrastructure, including additional maps needed for performance-based design approaches; and
     - **(K)** support the Director of the National Institute of Standards and Technology in the completion of programmatic goals.

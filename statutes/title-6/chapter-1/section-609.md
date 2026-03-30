@@ -3,9 +3,9 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-30T09:04:02.799Z"
+generated_at: "2026-03-30T09:06:32.490Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(A)** With respect to the use of amounts awarded to a grant recipient under section 604 or 605 of this title for personnel costs in accordance with paragraph (2) of this subsection, the Administrator may not—
       - **(i)** impose a limit on the amount of the award that may be used to pay for personnel, or personnel-related, costs that is higher or lower than the percent limit imposed in paragraph (2)(A); or
       - **(ii)** impose any additional limitation on the portion of the funds of a recipient that may be used for a specific type, purpose, or category of personnel, or personnel-related, costs.
-    - **(B)** If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
+    - **(B)** If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), 1 1 See References in Text note below. the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
   - **(4)**
     - **(A)** A grant awarded under section 604 or 605 of this title may not be used to acquire land or to construct buildings or other physical facilities.
     - **(B)**

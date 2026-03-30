@@ -3,9 +3,9 @@ title: "Section 2641 - Congressional findings and purpose"
 usc_title: 15
 usc_section: "2641"
 chapter: 53
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "15 U.S.C. § 2641"
-generated_at: "2026-03-30T09:04:22.996Z"
+generated_at: "2026-03-30T09:06:47.386Z"
 status: "active"
 ---
 

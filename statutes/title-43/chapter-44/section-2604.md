@@ -3,9 +3,9 @@ title: "Section 2604 - Rules and regulations generally; consultation and agreeme
 usc_title: 43
 usc_section: "2604"
 chapter: 44
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 2604"
-generated_at: "2026-03-30T09:05:40.539Z"
+generated_at: "2026-03-30T09:08:38.502Z"
 status: "active"
 ---
 

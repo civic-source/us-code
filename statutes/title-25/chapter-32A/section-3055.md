@@ -3,9 +3,9 @@ title: "Section 3055 - Forest products for traditional and cultural purposes"
 usc_title: 25
 usc_section: "3055"
 chapter: 32
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "25 U.S.C. § 3055"
-generated_at: "2026-03-30T09:04:44.486Z"
+generated_at: "2026-03-30T09:07:03.507Z"
 status: "active"
 ---
 

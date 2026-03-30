@@ -3,9 +3,9 @@ title: "Section 3172 - Termination or modification of economic development distr
 usc_title: 42
 usc_section: "3172"
 chapter: 38
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 3172"
-generated_at: "2026-03-30T09:06:03.617Z"
+generated_at: "2026-03-30T09:08:36.760Z"
 status: "active"
 ---
 

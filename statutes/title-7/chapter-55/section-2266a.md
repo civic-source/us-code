@@ -3,9 +3,9 @@ title: "Section 2266a - Century Farms program"
 usc_title: 7
 usc_section: "2266a"
 chapter: 55
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 2266a"
-generated_at: "2026-03-30T09:04:05.876Z"
+generated_at: "2026-03-30T09:06:35.560Z"
 status: "active"
 ---
 

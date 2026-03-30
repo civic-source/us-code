@@ -3,9 +3,9 @@ title: "Section 3412 - Principal officers"
 usc_title: 20
 usc_section: "3412"
 chapter: 48
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 3412"
-generated_at: "2026-03-30T09:04:35.443Z"
+generated_at: "2026-03-30T09:06:57.180Z"
 status: "active"
 ---
 

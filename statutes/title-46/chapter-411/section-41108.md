@@ -3,9 +3,9 @@ title: "Section 41108 - Additional penalties"
 usc_title: 46
 usc_section: "41108"
 chapter: 411
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "46 U.S.C. § 41108"
-generated_at: "2026-03-30T09:06:07.900Z"
+generated_at: "2026-03-30T09:08:52.087Z"
 status: "active"
 ---
 

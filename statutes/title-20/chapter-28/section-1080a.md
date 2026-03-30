@@ -3,9 +3,9 @@ title: "Section 1080a - Reports to consumer reporting agencies and institutions 
 usc_title: 20
 usc_section: "1080a"
 chapter: 28
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 1080a"
-generated_at: "2026-03-30T09:04:35.391Z"
+generated_at: "2026-03-30T09:06:57.127Z"
 status: "active"
 ---
 

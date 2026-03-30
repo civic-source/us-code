@@ -3,9 +3,9 @@ title: "Section 1792 - Promoting Federal food donation"
 usc_title: 42
 usc_section: "1792"
 chapter: 13
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 1792"
-generated_at: "2026-03-30T09:06:03.562Z"
+generated_at: "2026-03-30T09:08:36.708Z"
 status: "active"
 ---
 

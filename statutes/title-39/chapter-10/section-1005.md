@@ -3,9 +3,9 @@ title: "Section 1005 - Applicability of laws relating to Federal employees"
 usc_title: 39
 usc_section: "1005"
 chapter: 10
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "39 U.S.C. § 1005"
-generated_at: "2026-03-30T09:05:21.992Z"
+generated_at: "2026-03-30T09:07:59.512Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 554c - Care of employees’ graves"
 usc_title: 16
 usc_section: "554c"
 chapter: 3
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 554c"
-generated_at: "2026-03-30T09:04:31.653Z"
+generated_at: "2026-03-30T09:06:59.456Z"
 status: "active"
 ---
 

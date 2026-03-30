@@ -3,9 +3,9 @@ title: "Section 31138 - Minimum financial responsibility for transporting passen
 usc_title: 49
 usc_section: "31138"
 chapter: 311
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "49 U.S.C. § 31138"
-generated_at: "2026-03-30T09:06:11.040Z"
+generated_at: "2026-03-30T09:09:06.131Z"
 status: "active"
 ---
 

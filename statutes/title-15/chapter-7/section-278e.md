@@ -3,9 +3,9 @@ title: "Section 278e - Functions and activities"
 usc_title: 15
 usc_section: "278e"
 chapter: 7
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "15 U.S.C. § 278e"
-generated_at: "2026-03-30T09:04:22.906Z"
+generated_at: "2026-03-30T09:06:47.293Z"
 status: "active"
 ---
 

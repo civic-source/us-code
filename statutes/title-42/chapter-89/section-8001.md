@@ -3,9 +3,9 @@ title: "Section 8001 - Congressional findings"
 usc_title: 42
 usc_section: "8001"
 chapter: 89
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 8001"
-generated_at: "2026-03-30T09:06:03.745Z"
+generated_at: "2026-03-30T09:08:36.878Z"
 status: "active"
 ---
 

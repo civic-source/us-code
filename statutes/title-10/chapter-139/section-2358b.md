@@ -3,17 +3,17 @@ title: "Section 2358b - Joint reserve detachment of the Defense Innovation Unit"
 usc_title: 10
 usc_section: "2358b"
 chapter: 139
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2358b"
-generated_at: "2026-03-30T09:04:10.470Z"
+generated_at: "2026-03-30T09:06:39.408Z"
 status: "active"
 ---
 
 # § 2358b. Joint reserve detachment of the Defense Innovation Unit
 
-- **(a)** The Secretary of Defense, in consultation with the Secretaries of the military departments, may establish a joint reserve detachment (referred to in this section as the ‘Detachment’) composed of members of the reserve components described in subsection (b) to be assigned to each office of the Defense Innovation Unit to—
+- **(a)** The Secretary of Defense, in consultation with the Secretaries of the military departments, may establish a joint reserve detachment (referred to in this section as the “Detachment”) composed of members of the reserve components described in subsection (b) to be assigned to each office of the Defense Innovation Unit to—
   - **(1)** support engagement and collaboration with private-sector industry and the community surrounding the location of such office; and
-  - **(2)** to accelerate the use and adoption of commercially-developed technologies for national security purposes.
+  - **(2)** to 1 1 So in original. The word “to” probably should not appear. accelerate the use and adoption of commercially-developed technologies for national security purposes.
 - **(b)** Each Secretary of a military department shall select for the Detachment, and make efforts to retain, members of the reserve components who possess relevant private-sector experience in the fields of business, acquisition, intelligence, engineering, technology transfer, science, mathematics, program management, logistics, cybersecurity, or such other fields as determined by the Under Secretary of Defense for Research and Engineering.
 - **(c)** The Detachment shall have the following duties:
   - **(1)** Providing the Department of Defense with—

@@ -3,9 +3,9 @@ title: "Section 3927a - Review by chief of mission"
 usc_title: 22
 usc_section: "3927a"
 chapter: 52
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 3927a"
-generated_at: "2026-03-30T09:04:49.068Z"
+generated_at: "2026-03-30T09:07:20.684Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 644 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1622(b)
 usc_title: 10
 usc_section: "644"
 chapter: 36
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 644"
-generated_at: "2026-03-30T09:04:10.407Z"
+generated_at: "2026-03-30T09:06:39.348Z"
 status: "repealed"
 ---
 

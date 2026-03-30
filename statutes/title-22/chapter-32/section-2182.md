@@ -3,15 +3,15 @@ title: "Section 2182 - Authorization for worldwide shelter guarantees"
 usc_title: 22
 usc_section: "2182"
 chapter: 32
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 2182"
-generated_at: "2026-03-30T09:04:49.027Z"
+generated_at: "2026-03-30T09:07:20.642Z"
 status: "active"
 ---
 
 # § 2182. Authorization for worldwide shelter guarantees
 
-- **(a)** To carry out the policy of section 2181 of this title , the President is authorized to issue guaranties to eligible investors (as defined in section 2198(c) 1 1 See References in Text note below. of this title) assuring against losses incurred in connection with loans made for proj­ects meeting the criteria set forth in section 2181 of this title . The total principal amount of guaranties issued under this subpart or heretofore issued under prior housing guaranty authorities, which are outstanding at any one time, shall not exceed $2,558,000,000. The authority of this section shall continue through September 30, 1992 . The President may issue regulations from time to time with regard to the terms and conditions upon which such guaranties shall be issued and the eligibility of lenders.
+- **(a)** To carry out the policy of section 2181 of this title , the President is authorized to issue guaranties to eligible investors (as defined in section 2198(c) 1 1 See References in Text note below. of this title) assuring against losses incurred in connection with loans made for projects meeting the criteria set forth in section 2181 of this title . The total principal amount of guaranties issued under this subpart or heretofore issued under prior housing guaranty authorities, which are outstanding at any one time, shall not exceed $2,558,000,000. The authority of this section shall continue through September 30, 1992 . The President may issue regulations from time to time with regard to the terms and conditions upon which such guaranties shall be issued and the eligibility of lenders.
 - **(b)** Activities carried out under this section shall emphasize—
   - **(1)** projects which provide improved home sites to poor families on which to build shelter, and related services;
   - **(2)** projects comprised of expandable core shelter units on serviced sites;

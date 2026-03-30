@@ -3,9 +3,9 @@ title: "Section 8902 - Comprehensive ten-year program"
 usc_title: 42
 usc_section: "8902"
 chapter: 97
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 8902"
-generated_at: "2026-03-30T09:06:03.760Z"
+generated_at: "2026-03-30T09:08:36.892Z"
 status: "active"
 ---
 

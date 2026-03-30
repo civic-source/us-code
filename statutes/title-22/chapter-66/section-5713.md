@@ -3,9 +3,9 @@ title: "Section 5713 - Commerce between United States and Hong Kong"
 usc_title: 22
 usc_section: "5713"
 chapter: 66
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 5713"
-generated_at: "2026-03-30T09:04:49.087Z"
+generated_at: "2026-03-30T09:07:20.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1143 - Security background checks of covered individuals for pub
 usc_title: 6
 usc_section: "1143"
 chapter: 4
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 1143"
-generated_at: "2026-03-30T09:04:02.810Z"
+generated_at: "2026-03-30T09:06:32.500Z"
 status: "active"
 ---
 
@@ -29,6 +29,6 @@ status: "active"
   - **(1)** provide an adequate redress process for a covered individual subjected to an adverse employment decision, including removal or suspension of the employee, due to such rule, regulation, or directive that is consistent with the appeals and waiver process established for applicants for commercial motor vehicle hazardous materials endorsements and transportation workers at ports, as required by section 70105(c) of title 49 ; 1 1 So in original. Probably should be title “46;”. and
   - **(2)** have the authority to order an appropriate remedy, including reinstatement of the covered individual, should the Secretary determine that a public transportation agency or contractor or subcontractor of a public transportation agency wrongfully made an adverse employment decision regarding a covered individual pursuant to such rule, regulation, or directive.
 - **(e)** A public transportation agency or a contractor or subcontractor of a public transportation agency may not knowingly misrepresent to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check. Not later than 1 year after August 3, 2007 , the Secretary shall issue a regulation that prohibits a public transportation agency or a contractor or subcontractor of a public transportation agency from knowingly misrepresenting to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check.
-- **(f)** Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
+- **(f)** Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the 2 2 So in original. Probably should be “this”. section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
 - **(g)** Nothing in this section shall be construed to preempt a Federal, State, or local law that requires criminal history background checks, immigration status checks, or other background checks of covered individuals.
 - **(h)** Nothing in this section shall be construed to affect the process for review established under section 70105(c) of title 46 , including regulations issued pursuant to such section.

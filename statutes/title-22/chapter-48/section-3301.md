@@ -3,9 +3,9 @@ title: "Section 3301 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "3301"
 chapter: 48
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 3301"
-generated_at: "2026-03-30T09:04:49.062Z"
+generated_at: "2026-03-30T09:07:20.677Z"
 status: "active"
 ---
 

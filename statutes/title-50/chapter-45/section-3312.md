@@ -3,9 +3,9 @@ title: "Section 3312 - Congressional oversight of policy directives and guidance
 usc_title: 50
 usc_section: "3312"
 chapter: 45
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "50 U.S.C. § 3312"
-generated_at: "2026-03-30T09:06:09.048Z"
+generated_at: "2026-03-30T09:08:47.232Z"
 status: "active"
 ---
 

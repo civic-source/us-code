@@ -3,9 +3,9 @@ title: "Section 521 - Investigations by Secretary; applicability of other laws"
 usc_title: 29
 usc_section: "521"
 chapter: 11
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "29 U.S.C. § 521"
-generated_at: "2026-03-30T09:05:04.354Z"
+generated_at: "2026-03-30T09:07:27.260Z"
 status: "active"
 ---
 

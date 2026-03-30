@@ -3,9 +3,9 @@ title: "Section 114i - Pseudorabies eradication"
 usc_title: 21
 usc_section: "114i"
 chapter: 4
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "21 U.S.C. § 114i"
-generated_at: "2026-03-30T09:04:39.264Z"
+generated_at: "2026-03-30T09:07:04.431Z"
 status: "active"
 ---
 

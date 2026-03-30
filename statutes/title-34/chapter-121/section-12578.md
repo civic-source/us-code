@@ -3,9 +3,9 @@ title: "Section 12578 - Scholarship agreement"
 usc_title: 34
 usc_section: "12578"
 chapter: 121
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "34 U.S.C. § 12578"
-generated_at: "2026-03-30T09:05:15.457Z"
+generated_at: "2026-03-30T09:07:37.337Z"
 status: "active"
 ---
 

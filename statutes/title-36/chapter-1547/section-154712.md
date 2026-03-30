@@ -3,9 +3,9 @@ title: "Section 154712 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "154712"
 chapter: 1547
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "36 U.S.C. § 154712"
-generated_at: "2026-03-30T09:05:22.778Z"
+generated_at: "2026-03-30T09:07:51.331Z"
 status: "active"
 ---
 

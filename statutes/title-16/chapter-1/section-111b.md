@@ -3,9 +3,9 @@ title: "Section 111b - Donations or exchanges of lands"
 usc_title: 16
 usc_section: "111b"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 111b"
-generated_at: "2026-03-30T09:04:31.564Z"
+generated_at: "2026-03-30T09:06:59.361Z"
 status: "active"
 ---
 

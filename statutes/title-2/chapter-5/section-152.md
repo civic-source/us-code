@@ -3,9 +3,9 @@ title: "Section 152 - Care and use of Smithsonian Library"
 usc_title: 2
 usc_section: "152"
 chapter: 5
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 152"
-generated_at: "2026-03-30T09:03:45.478Z"
+generated_at: "2026-03-30T09:06:26.148Z"
 status: "active"
 ---
 

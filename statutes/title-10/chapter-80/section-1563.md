@@ -3,9 +3,9 @@ title: "Section 1563 - Consideration of proposals for posthumous and honorary pr
 usc_title: 10
 usc_section: "1563"
 chapter: 80
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 1563"
-generated_at: "2026-03-30T09:04:10.446Z"
+generated_at: "2026-03-30T09:06:39.385Z"
 status: "active"
 ---
 

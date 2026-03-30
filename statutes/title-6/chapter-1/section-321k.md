@@ -3,9 +3,9 @@ title: "Section 321k - Model standards and guidelines for critical infrastructur
 usc_title: 6
 usc_section: "321k"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 321k"
-generated_at: "2026-03-30T09:04:02.786Z"
+generated_at: "2026-03-30T09:06:32.479Z"
 status: "active"
 ---
 

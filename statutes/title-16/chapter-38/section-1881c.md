@@ -3,9 +3,9 @@ title: "Section 1881c - Fisheries research"
 usc_title: 16
 usc_section: "1881c"
 chapter: 38
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 1881c"
-generated_at: "2026-03-30T09:04:31.731Z"
+generated_at: "2026-03-30T09:06:59.539Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30507 - Apportionment of losses"
 usc_title: 46
 usc_section: "30507"
 chapter: 305
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "46 U.S.C. § 30507"
-generated_at: "2026-03-30T09:06:07.897Z"
+generated_at: "2026-03-30T09:08:52.084Z"
 status: "active"
 ---
 

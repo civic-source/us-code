@@ -3,9 +3,9 @@ title: "Section 4515 - Presidential power to ration gasoline among classes of en
 usc_title: 50
 usc_section: "4515"
 chapter: 55
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "50 U.S.C. § 4515"
-generated_at: "2026-03-30T09:06:09.070Z"
+generated_at: "2026-03-30T09:08:47.254Z"
 status: "active"
 ---
 

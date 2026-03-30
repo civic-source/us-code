@@ -3,9 +3,9 @@ title: "Section 720n - Loan guarantees"
 usc_title: 15
 usc_section: "720n"
 chapter: 15
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "15 U.S.C. § 720n"
-generated_at: "2026-03-30T09:04:22.944Z"
+generated_at: "2026-03-30T09:06:47.331Z"
 status: "active"
 ---
 

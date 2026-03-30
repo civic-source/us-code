@@ -3,9 +3,9 @@ title: "Section 4710 - Repealed. Pub. L. 101–624, title XVI, § 1620(a) , Nov.
 usc_title: 7
 usc_section: "4710"
 chapter: 78
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 4710"
-generated_at: "2026-03-30T09:04:05.897Z"
+generated_at: "2026-03-30T09:06:35.581Z"
 status: "repealed"
 ---
 

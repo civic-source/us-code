@@ -3,9 +3,9 @@ title: "Section 2602 - Amount of tax"
 usc_title: 26
 usc_section: "2602"
 chapter: 13
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "26 U.S.C. § 2602"
-generated_at: "2026-03-30T09:05:03.427Z"
+generated_at: "2026-03-30T09:07:33.988Z"
 status: "active"
 ---
 

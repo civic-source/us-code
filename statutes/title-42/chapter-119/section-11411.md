@@ -3,9 +3,9 @@ title: "Section 11411 - Use of unutilized and underutilized public buildings and
 usc_title: 42
 usc_section: "11411"
 chapter: 119
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 11411"
-generated_at: "2026-03-30T09:06:03.807Z"
+generated_at: "2026-03-30T09:08:36.935Z"
 status: "active"
 ---
 

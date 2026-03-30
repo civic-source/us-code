@@ -3,9 +3,9 @@ title: "Section 3702 - General provisions"
 usc_title: 5
 usc_section: "3702"
 chapter: 37
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "5 U.S.C. § 3702"
-generated_at: "2026-03-30T09:03:59.545Z"
+generated_at: "2026-03-30T09:06:28.672Z"
 status: "active"
 ---
 

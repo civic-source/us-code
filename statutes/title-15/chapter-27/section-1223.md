@@ -3,9 +3,9 @@ title: "Section 1223 - Limitations"
 usc_title: 15
 usc_section: "1223"
 chapter: 27
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "15 U.S.C. § 1223"
-generated_at: "2026-03-30T09:04:22.952Z"
+generated_at: "2026-03-30T09:06:47.340Z"
 status: "active"
 ---
 

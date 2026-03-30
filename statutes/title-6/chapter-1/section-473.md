@@ -3,9 +3,9 @@ title: "Section 473 - Cyber Crimes Center, Child Exploitation Investigations Uni
 usc_title: 6
 usc_section: "473"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 473"
-generated_at: "2026-03-30T09:04:02.793Z"
+generated_at: "2026-03-30T09:06:32.484Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
       - **(iv)** training for Federal, State, local, tribal, and foreign law enforcement agency personnel, upon request;
     - **(C)** shall provide training, technical expertise, support, or coordination of child exploitation investigations, as needed, to cooperating law enforcement agencies and personnel, which shall include participating in training for Homeland Security Investigations personnel conducted by Internet Crimes Against Children Task Forces;
     - **(D)** shall provide psychological support and counseling services for United States Immigration and Customs Enforcement personnel engaged in child exploitation prevention initiatives, including making available other existing services to assist employees who are exposed to child exploitation material during investigations;
-    - **(E)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of the recruiting, training, equipping and hiring of wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program; and
+    - **(E)** is authorized to collaborate with the Department of Defense and the National Association to Protect Children for the purpose of the recruiting, training, equipping and hiring of wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program 1 1 So in original. Probably should be “Program”. ; and
     - **(F)** shall collaborate with other governmental, nongovernmental, and nonprofit entities approved by the Secretary for the sponsorship of, and participation in, outreach and training activities.
   - **(3)** The CEIU shall collect and maintain data concerning—
     - **(A)** the total number of suspects identified by United States Immigration and Customs Enforcement;
@@ -61,7 +61,7 @@ status: "active"
       - **(ii)** Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
     - **(B)** shall provide computer hardware, software, and forensic licenses for all computer forensics personnel within United States Immigration and Customs Enforcement;
     - **(C)** shall participate in research and development in the area of digital forensics and emerging technologies, in coordination with appropriate components of the Department; and
-    - **(D)** is authorized to collaborate with the Department of Defense, the National Association to Protect Children, and other governmental entities for the purpose of recruiting, training, equipping, and hiring wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program.
+    - **(D)** is authorized to collaborate with the Department of Defense, the National Association to Protect Children, and other governmental entities for the purpose of recruiting, training, equipping, and hiring wounded, ill, and injured veterans and transitioning service members, through the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program 1 .
   - **(3)** The CFU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
   - **(4)**
     - **(A)** The Secretary is authorized to accept monies and in-kind donations from the Virtual Global Task Force, national laboratories, Federal agencies, not-for-profit organizations, and educational institutions to create and expand public awareness campaigns in support of the functions of the CFU.
@@ -80,11 +80,11 @@ status: "active"
       - **(i)** United States Immigration and Customs Enforcement personnel; and
       - **(ii)** Federal, State, local, tribal, military, and foreign law enforcement agency personnel engaged in the investigation of crimes within their respective jurisdictions, upon request and subject to the availability of funds;
     - **(D)** shall participate in research and development in the area of cyber investigations, in coordination with appropriate components of the Department; and
-    - **(E)** is authorized to recruit participants of the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program for investigative and forensic positions in support of the functions of the CCU.
+    - **(E)** is authorized to recruit participants of the Human Exploitation Rescue Operative (HERO) Child Rescue Corps program 1 for investigative and forensic positions in support of the functions of the CCU.
   - **(3)** The CCU is authorized to enter into cooperative agreements to accomplish the functions set forth in paragraph (2).
 - **(e)**
   - **(1)**
-    - **(A)** There is established within the Center a Human Exploitation Rescue Operation Child-Rescue Corps Program (referred to in this section as the “HERO Child-Rescue Corps Program”), which shall be a Department-wide program, in collaboration with the Department of Defense and the National Association to Protect Children.
+    - **(A)** There is established within the Center a Human Exploitation Rescue Operation 3 3 So in original. Probably should be “Operative”. Child-Rescue Corps Program (referred to in this section as the “HERO Child-Rescue Corps Program”), which shall be a Department-wide program, in collaboration with the Department of Defense and the National Association to Protect Children.
     - **(B)** As part of the HERO Child-Rescue Corps Program, the National Association to Protect Children shall provide logistical support for program participants.
   - **(2)** The purpose of the HERO Child-Rescue Corps Program shall be to recruit, train, equip, and employ members of the Armed Forces on active duty and wounded, ill, and injured veterans to combat and prevent child exploitation, including in investigative, intelligence, analyst, inspection, and forensic positions or any other positions determined appropriate by the employing agency.
   - **(3)** The HERO Child-Rescue Program shall—

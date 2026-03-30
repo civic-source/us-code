@@ -3,9 +3,9 @@ title: "Section 1572 - Canal or canal lining"
 usc_title: 43
 usc_section: "1572"
 chapter: 32
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 1572"
-generated_at: "2026-03-30T09:05:40.521Z"
+generated_at: "2026-03-30T09:08:38.482Z"
 status: "active"
 ---
 

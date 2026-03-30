@@ -3,9 +3,9 @@ title: "Section 2534 - Miscellaneous limitations on the procurement of goods oth
 usc_title: 10
 usc_section: "2534"
 chapter: 148
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2534"
-generated_at: "2026-03-30T09:04:10.482Z"
+generated_at: "2026-03-30T09:06:39.419Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(A)** Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
     - **(B)** Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
   - **(5)** Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992 , except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
-  - **(6)** Subject to subsection (k) 1 1 So in original. Probably means the subsec. (k) enacted by Pub. L. 116–92 . See 2019 Amendment note below. , large medium-speed diesel engines.
+  - **(6)** Subject to subsection (k), 1 1 So in original. Probably means the subsec. (k) enacted by Pub. L. 116–92 , related to implementation of auxiliary ship component limitation. See 2019 Amendment note below. large medium-speed diesel engines.
 - **(b)**
   - **(1)** A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
   - **(2)** In the case of a procurement of chemical weapons antidote referred to in subsection (a)(2), a manufacturer meets the requirements of this subsection only if the manufacturer—

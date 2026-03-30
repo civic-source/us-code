@@ -3,9 +3,9 @@ title: "Section 2366c - Major defense acquisition programs: submissions to Congr
 usc_title: 10
 usc_section: "2366c"
 chapter: 139
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 2366c"
-generated_at: "2026-03-30T09:04:10.472Z"
+generated_at: "2026-03-30T09:06:39.409Z"
 status: "active"
 ---
 

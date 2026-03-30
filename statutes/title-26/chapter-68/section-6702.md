@@ -3,9 +3,9 @@ title: "Section 6702 - Frivolous tax submissions"
 usc_title: 26
 usc_section: "6702"
 chapter: 68
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "26 U.S.C. § 6702"
-generated_at: "2026-03-30T09:05:03.492Z"
+generated_at: "2026-03-30T09:07:34.052Z"
 status: "active"
 ---
 

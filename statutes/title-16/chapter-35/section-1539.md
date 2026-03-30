@@ -3,9 +3,9 @@ title: "Section 1539 - Exceptions"
 usc_title: 16
 usc_section: "1539"
 chapter: 35
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 1539"
-generated_at: "2026-03-30T09:04:31.720Z"
+generated_at: "2026-03-30T09:06:59.527Z"
 status: "active"
 ---
 

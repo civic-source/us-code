@@ -3,9 +3,9 @@ title: "Section 2225b - Personal service contracts for veterinarians"
 usc_title: 7
 usc_section: "2225b"
 chapter: 55
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 2225b"
-generated_at: "2026-03-30T09:04:05.874Z"
+generated_at: "2026-03-30T09:06:35.559Z"
 status: "active"
 ---
 

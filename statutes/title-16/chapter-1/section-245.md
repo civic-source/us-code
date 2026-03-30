@@ -3,9 +3,9 @@ title: "Section 245 - Administration, protection, and development"
 usc_title: 16
 usc_section: "245"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 245"
-generated_at: "2026-03-30T09:04:31.570Z"
+generated_at: "2026-03-30T09:06:59.368Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6642 - Comprehensive literacy State development grants"
 usc_title: 20
 usc_section: "6642"
 chapter: 70
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 6642"
-generated_at: "2026-03-30T09:04:35.467Z"
+generated_at: "2026-03-30T09:06:57.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8318 - Veterinary training"
 usc_title: 7
 usc_section: "8318"
 chapter: 109
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 8318"
-generated_at: "2026-03-30T09:04:05.947Z"
+generated_at: "2026-03-30T09:06:35.631Z"
 status: "active"
 ---
 

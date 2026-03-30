@@ -3,9 +3,9 @@ title: "Section 444 - Definitions"
 usc_title: 6
 usc_section: "444"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "6 U.S.C. § 444"
-generated_at: "2026-03-30T09:04:02.791Z"
+generated_at: "2026-03-30T09:06:32.483Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ For purposes of this part, the following definitions apply:
       - **(i)** is unlawful;
       - **(ii)** causes harm to a person, property, or entity, in the United States, or in the case of a domestic United States air carrier or a United States-flag vessel (or a vessel based principally in the United States on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), in or outside the United States; and
       - **(iii)** uses or attempts to use instrumentalities, weapons or other methods designed or intended to cause mass destruction, injury or other loss to citizens or institutions of the United States.
-  - **(3)** The term “insurance carrier” means any corporation, association, society, order, firm, company, mutual, partnership, individual aggregation of individuals, or any other legal entity that provides commercial property and casualty insurance. Such term includes any affiliates of a commercial insurance carrier.
+  - **(3)** The term “insurance carrier” means any corporation, association, society, order, firm, company, mutual, 1 1 So in original. partnership, individual aggregation of individuals, or any other legal entity that provides commercial property and casualty insurance. Such term includes any affiliates of a commercial insurance carrier.
   - **(4)**
     - **(A)** The term “liability insurance” means insurance for legal liabilities incurred by the insured resulting from—
       - **(i)** loss of or damage to property of others;

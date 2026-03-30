@@ -3,9 +3,9 @@ title: "Section 711 - Senior members of Military Staff Committee of United Natio
 usc_title: 10
 usc_section: "711"
 chapter: 41
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 711"
-generated_at: "2026-03-30T09:04:10.409Z"
+generated_at: "2026-03-30T09:06:39.350Z"
 status: "active"
 ---
 

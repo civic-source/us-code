@@ -3,9 +3,9 @@ title: "Section 8127 - Part of Washington Aqueduct for playground purposes"
 usc_title: 40
 usc_section: "8127"
 chapter: 81
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "40 U.S.C. § 8127"
-generated_at: "2026-03-30T09:05:32.575Z"
+generated_at: "2026-03-30T09:07:49.796Z"
 status: "active"
 ---
 

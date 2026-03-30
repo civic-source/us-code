@@ -3,9 +3,9 @@ title: "Section 19b - Information on prescription drugs"
 usc_title: 42
 usc_section: "19b"
 chapter: 6
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 19b"
-generated_at: "2026-03-30T09:06:03.329Z"
+generated_at: "2026-03-30T09:08:36.495Z"
 status: "active"
 ---
 

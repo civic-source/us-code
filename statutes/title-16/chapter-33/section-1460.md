@@ -3,9 +3,9 @@ title: "Section 1460 - Walter B. Jones excellence in coastal zone management awa
 usc_title: 16
 usc_section: "1460"
 chapter: 33
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 1460"
-generated_at: "2026-03-30T09:04:31.717Z"
+generated_at: "2026-03-30T09:06:59.524Z"
 status: "active"
 ---
 

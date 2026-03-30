@@ -3,9 +3,9 @@ title: "Section 1501 - Purposes"
 usc_title: 2
 usc_section: "1501"
 chapter: 25
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 1501"
-generated_at: "2026-03-30T09:03:45.504Z"
+generated_at: "2026-03-30T09:06:26.171Z"
 status: "active"
 ---
 

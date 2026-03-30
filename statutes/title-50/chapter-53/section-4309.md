@@ -3,9 +3,9 @@ title: "Section 4309 - Claims to property transferred to custodian; notice of cl
 usc_title: 50
 usc_section: "4309"
 chapter: 53
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "50 U.S.C. § 4309"
-generated_at: "2026-03-30T09:06:09.067Z"
+generated_at: "2026-03-30T09:08:47.250Z"
 status: "active"
 ---
 

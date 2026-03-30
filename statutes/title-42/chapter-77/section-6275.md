@@ -3,9 +3,9 @@ title: "Section 6275 - Relationship between standby emergency authorities and in
 usc_title: 42
 usc_section: "6275"
 chapter: 77
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 6275"
-generated_at: "2026-03-30T09:06:03.670Z"
+generated_at: "2026-03-30T09:08:36.810Z"
 status: "active"
 ---
 

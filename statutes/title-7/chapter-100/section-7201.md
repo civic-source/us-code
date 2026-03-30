@@ -3,9 +3,9 @@ title: "Section 7201 - Short title and purpose"
 usc_title: 7
 usc_section: "7201"
 chapter: 100
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 7201"
-generated_at: "2026-03-30T09:04:05.923Z"
+generated_at: "2026-03-30T09:06:35.607Z"
 status: "active"
 ---
 

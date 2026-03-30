@@ -3,9 +3,9 @@ title: "Section 499a - Short title and definitions"
 usc_title: 7
 usc_section: "499a"
 chapter: 20
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 499a"
-generated_at: "2026-03-30T09:04:05.800Z"
+generated_at: "2026-03-30T09:06:35.482Z"
 status: "active"
 ---
 

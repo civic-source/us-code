@@ -3,9 +3,9 @@ title: "Section 401 - General powers of the Postal Service"
 usc_title: 39
 usc_section: "401"
 chapter: 4
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "39 U.S.C. § 401"
-generated_at: "2026-03-30T09:05:21.990Z"
+generated_at: "2026-03-30T09:07:59.509Z"
 status: "active"
 ---
 

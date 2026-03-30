@@ -3,9 +3,9 @@ title: "Section 948 - Contracts for medical care for retirees, dependents, and s
 usc_title: 14
 usc_section: "948"
 chapter: 9
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "14 U.S.C. § 948"
-generated_at: "2026-03-30T09:04:14.122Z"
+generated_at: "2026-03-30T09:06:48.427Z"
 status: "active"
 ---
 

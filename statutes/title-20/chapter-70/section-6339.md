@@ -3,9 +3,9 @@ title: "Section 6339 - Carryover and waiver"
 usc_title: 20
 usc_section: "6339"
 chapter: 70
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 6339"
-generated_at: "2026-03-30T09:04:35.463Z"
+generated_at: "2026-03-30T09:06:57.198Z"
 status: "active"
 ---
 

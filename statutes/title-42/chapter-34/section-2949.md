@@ -3,9 +3,9 @@ title: "Section 2949 - Repealed. Pub. L. 93–644, § 9(c)(6) , Jan. 4, 1975 , 8
 usc_title: 42
 usc_section: "2949"
 chapter: 34
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 2949"
-generated_at: "2026-03-30T09:06:03.602Z"
+generated_at: "2026-03-30T09:08:36.746Z"
 status: "repealed"
 ---
 

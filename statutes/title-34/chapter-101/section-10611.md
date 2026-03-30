@@ -3,9 +3,9 @@ title: "Section 10611 - Grant authority"
 usc_title: 34
 usc_section: "10611"
 chapter: 101
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "34 U.S.C. § 10611"
-generated_at: "2026-03-30T09:05:15.440Z"
+generated_at: "2026-03-30T09:07:37.321Z"
 status: "active"
 ---
 

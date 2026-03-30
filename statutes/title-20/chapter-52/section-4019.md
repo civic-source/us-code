@@ -3,9 +3,9 @@ title: "Section 4019 - Affect on rights under other laws"
 usc_title: 20
 usc_section: "4019"
 chapter: 52
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 4019"
-generated_at: "2026-03-30T09:04:35.448Z"
+generated_at: "2026-03-30T09:06:57.184Z"
 status: "active"
 ---
 

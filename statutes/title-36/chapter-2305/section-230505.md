@@ -3,9 +3,9 @@ title: "Section 230505 - Governing body"
 usc_title: 36
 usc_section: "230505"
 chapter: 2305
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "36 U.S.C. § 230505"
-generated_at: "2026-03-30T09:05:22.782Z"
+generated_at: "2026-03-30T09:07:51.334Z"
 status: "active"
 ---
 

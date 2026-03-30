@@ -3,9 +3,9 @@ title: "Section 2279e - Civil penalty"
 usc_title: 7
 usc_section: "2279e"
 chapter: 55
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 2279e"
-generated_at: "2026-03-30T09:04:05.877Z"
+generated_at: "2026-03-30T09:06:35.562Z"
 status: "active"
 ---
 

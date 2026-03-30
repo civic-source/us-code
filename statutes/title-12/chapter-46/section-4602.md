@@ -3,9 +3,9 @@ title: "Section 4602 - Studies of effects of privatization of FNMA and FHLMC"
 usc_title: 12
 usc_section: "4602"
 chapter: 46
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "12 U.S.C. § 4602"
-generated_at: "2026-03-30T09:04:16.529Z"
+generated_at: "2026-03-30T09:06:45.027Z"
 status: "active"
 ---
 

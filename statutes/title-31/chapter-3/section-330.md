@@ -3,9 +3,9 @@ title: "Section 330 - Practice before the Department"
 usc_title: 31
 usc_section: "330"
 chapter: 3
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "31 U.S.C. § 330"
-generated_at: "2026-03-30T09:05:07.516Z"
+generated_at: "2026-03-30T09:07:36.730Z"
 status: "active"
 ---
 

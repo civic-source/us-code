@@ -3,9 +3,9 @@ title: "Section 1436 - Repealed. Pub. L. 106–57, title III, § 313 , Sept. 29,
 usc_title: 2
 usc_section: "1436"
 chapter: 24
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "2 U.S.C. § 1436"
-generated_at: "2026-03-30T09:03:45.504Z"
+generated_at: "2026-03-30T09:06:26.171Z"
 status: "repealed"
 ---
 

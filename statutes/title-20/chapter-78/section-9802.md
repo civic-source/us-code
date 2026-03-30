@@ -3,9 +3,9 @@ title: "Section 9802 - Definitions"
 usc_title: 20
 usc_section: "9802"
 chapter: 78
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 9802"
-generated_at: "2026-03-30T09:04:35.494Z"
+generated_at: "2026-03-30T09:06:57.228Z"
 status: "active"
 ---
 

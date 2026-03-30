@@ -3,9 +3,9 @@ title: "Section 6610 - Damages limitation by contract"
 usc_title: 15
 usc_section: "6610"
 chapter: 92
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "15 U.S.C. § 6610"
-generated_at: "2026-03-30T09:04:23.024Z"
+generated_at: "2026-03-30T09:06:47.414Z"
 status: "active"
 ---
 

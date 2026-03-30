@@ -3,9 +3,9 @@ title: "Section 4214 - Repealed. Pub. L. 105–277, div. G , subdiv. B, title XX
 usc_title: 22
 usc_section: "4214"
 chapter: 52
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "22 U.S.C. § 4214"
-generated_at: "2026-03-30T09:04:49.078Z"
+generated_at: "2026-03-30T09:07:20.694Z"
 status: "repealed"
 ---
 

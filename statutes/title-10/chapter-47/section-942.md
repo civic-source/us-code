@@ -3,9 +3,9 @@ title: "Section 942 - Art. 142. Judges"
 usc_title: 10
 usc_section: "942"
 chapter: 47
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 942"
-generated_at: "2026-03-30T09:04:10.417Z"
+generated_at: "2026-03-30T09:06:39.357Z"
 status: "active"
 ---
 

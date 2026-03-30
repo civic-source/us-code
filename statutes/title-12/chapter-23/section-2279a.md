@@ -3,9 +3,9 @@ title: "Section 2279a - Power to merge"
 usc_title: 12
 usc_section: "2279a"
 chapter: 23
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "12 U.S.C. § 2279a"
-generated_at: "2026-03-30T09:04:16.504Z"
+generated_at: "2026-03-30T09:06:45.001Z"
 status: "active"
 ---
 

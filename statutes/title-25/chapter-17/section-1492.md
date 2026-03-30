@@ -3,9 +3,9 @@ title: "Section 1492 - Claims for losses; submission to Secretary; reimbursement
 usc_title: 25
 usc_section: "1492"
 chapter: 17
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "25 U.S.C. § 1492"
-generated_at: "2026-03-30T09:04:44.457Z"
+generated_at: "2026-03-30T09:07:03.480Z"
 status: "active"
 ---
 

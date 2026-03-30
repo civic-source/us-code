@@ -3,9 +3,9 @@ title: "Section 2008 - Procedures for waiver of Federal law"
 usc_title: 43
 usc_section: "2008"
 chapter: 38
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "43 U.S.C. § 2008"
-generated_at: "2026-03-30T09:05:40.536Z"
+generated_at: "2026-03-30T09:08:38.498Z"
 status: "active"
 ---
 

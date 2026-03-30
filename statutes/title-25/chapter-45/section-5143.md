@@ -3,9 +3,9 @@ title: "Section 5143 - Authorization of appropriations"
 usc_title: 25
 usc_section: "5143"
 chapter: 45
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "25 U.S.C. § 5143"
-generated_at: "2026-03-30T09:04:44.501Z"
+generated_at: "2026-03-30T09:07:03.522Z"
 status: "active"
 ---
 

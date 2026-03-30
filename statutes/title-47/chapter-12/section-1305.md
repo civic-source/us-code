@@ -3,9 +3,9 @@ title: "Section 1305 - Broadband Technology Opportunities Program"
 usc_title: 47
 usc_section: "1305"
 chapter: 12
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "47 U.S.C. § 1305"
-generated_at: "2026-03-30T09:06:07.186Z"
+generated_at: "2026-03-30T09:08:53.374Z"
 status: "active"
 ---
 

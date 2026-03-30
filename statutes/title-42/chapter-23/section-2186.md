@@ -3,9 +3,9 @@ title: "Section 2186 - Commission patent licenses"
 usc_title: 42
 usc_section: "2186"
 chapter: 23
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 2186"
-generated_at: "2026-03-30T09:06:03.590Z"
+generated_at: "2026-03-30T09:08:36.734Z"
 status: "active"
 ---
 

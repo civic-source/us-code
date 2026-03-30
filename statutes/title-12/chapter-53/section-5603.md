@@ -3,9 +3,9 @@ title: "Section 5603 - Review, report, and program with respect to exchange faci
 usc_title: 12
 usc_section: "5603"
 chapter: 53
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "12 U.S.C. § 5603"
-generated_at: "2026-03-30T09:04:16.560Z"
+generated_at: "2026-03-30T09:06:45.060Z"
 status: "active"
 ---
 

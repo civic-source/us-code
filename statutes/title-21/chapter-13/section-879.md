@@ -3,9 +3,9 @@ title: "Section 879 - Search warrants"
 usc_title: 21
 usc_section: "879"
 chapter: 13
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "21 U.S.C. § 879"
-generated_at: "2026-03-30T09:04:39.332Z"
+generated_at: "2026-03-30T09:07:04.502Z"
 status: "active"
 ---
 

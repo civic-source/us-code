@@ -3,9 +3,9 @@ title: "Section 356j - Discontinuance or interruption in the production of medic
 usc_title: 21
 usc_section: "356j"
 chapter: 9
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "21 U.S.C. § 356j"
-generated_at: "2026-03-30T09:04:39.287Z"
+generated_at: "2026-03-30T09:07:04.454Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(1)** the Secretary shall issue a letter to such person informing such person of such failure;
   - **(2)** not later than 30 calendar days after the issuance of a letter under paragraph (1), the person who receives such letter shall submit to the Secretary a written response to such letter setting forth the basis for noncompliance and providing information required under subsection (a); and
   - **(3)** not later than 45 calendar days after the issuance of a letter under paragraph (1), the Secretary shall make such letter and any response to such letter under paragraph (2) available to the public on the internet website of the Food and Drug Administration, with appropriate redactions made to protect information described in subsection (d), except that, if the Secretary determines that the letter under paragraph (1) was issued in error or, after review of such response, the person had a reasonable basis for not notifying as required under subsection (a), the requirements of this paragraph shall not apply.
-- **(f)** If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a shortage of an device, the Secretary shall, as appropriate—
+- **(f)** If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a shortage of an 1 1 So in original. Probably should be “a”. device, the Secretary shall, as appropriate—
   - **(1)** prioritize and expedite the review of a submission under section 360c(f)(2) of this title , 360e of this title, review of a notification under section 360(k) of this title , or 360j(m) of this title for a device that could help mitigate or prevent such shortage; or
   - **(2)** prioritize and expedite an inspection or reinspection of an establishment that could help mitigate or prevent such shortage.
 - **(g)**

@@ -3,9 +3,9 @@ title: "Section 1904 - Participation in Federal, State, or other educational res
 usc_title: 14
 usc_section: "1904"
 chapter: 19
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "14 U.S.C. § 1904"
-generated_at: "2026-03-30T09:04:14.123Z"
+generated_at: "2026-03-30T09:06:48.429Z"
 status: "active"
 ---
 

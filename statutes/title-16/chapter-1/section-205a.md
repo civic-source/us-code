@@ -3,9 +3,9 @@ title: "Section 205a - Sections made applicable to additional lands"
 usc_title: 16
 usc_section: "205a"
 chapter: 1
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 205a"
-generated_at: "2026-03-30T09:04:31.568Z"
+generated_at: "2026-03-30T09:06:59.365Z"
 status: "active"
 ---
 

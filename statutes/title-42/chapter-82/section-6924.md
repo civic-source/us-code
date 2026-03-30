@@ -3,9 +3,9 @@ title: "Section 6924 - Standards applicable to owners and operators of hazardous
 usc_title: 42
 usc_section: "6924"
 chapter: 82
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 6924"
-generated_at: "2026-03-30T09:06:03.693Z"
+generated_at: "2026-03-30T09:08:36.830Z"
 status: "active"
 ---
 

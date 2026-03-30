@@ -3,9 +3,9 @@ title: "Section 1037 - Sale of reserved mineral interests; disposition of procee
 usc_title: 7
 usc_section: "1037"
 chapter: 33
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 1037"
-generated_at: "2026-03-30T09:04:05.812Z"
+generated_at: "2026-03-30T09:06:35.495Z"
 status: "active"
 ---
 

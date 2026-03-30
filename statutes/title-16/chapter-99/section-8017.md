@@ -3,9 +3,9 @@ title: "Section 8017 - Savings clause"
 usc_title: 16
 usc_section: "8017"
 chapter: 99
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "16 U.S.C. § 8017"
-generated_at: "2026-03-30T09:04:31.782Z"
+generated_at: "2026-03-30T09:06:59.591Z"
 status: "active"
 ---
 

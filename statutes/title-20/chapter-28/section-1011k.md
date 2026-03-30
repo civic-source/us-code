@@ -3,9 +3,9 @@ title: "Section 1011k - Recovery of payments"
 usc_title: 20
 usc_section: "1011k"
 chapter: 28
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "20 U.S.C. § 1011k"
-generated_at: "2026-03-30T09:04:35.370Z"
+generated_at: "2026-03-30T09:06:57.105Z"
 status: "active"
 ---
 

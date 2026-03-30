@@ -3,9 +3,9 @@ title: "Section 14316 - Army National Guard and Air National Guard: appointment 
 usc_title: 10
 usc_section: "14316"
 chapter: 1405
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 14316"
-generated_at: "2026-03-30T09:04:10.533Z"
+generated_at: "2026-03-30T09:06:39.468Z"
 status: "active"
 ---
 

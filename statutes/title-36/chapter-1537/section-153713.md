@@ -3,9 +3,9 @@ title: "Section 153713 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "153713"
 chapter: 1537
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "36 U.S.C. § 153713"
-generated_at: "2026-03-30T09:05:22.778Z"
+generated_at: "2026-03-30T09:07:51.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6003 - Issuance of plans"
 usc_title: 7
 usc_section: "6003"
 chapter: 89
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "7 U.S.C. § 6003"
-generated_at: "2026-03-30T09:04:05.907Z"
+generated_at: "2026-03-30T09:06:35.591Z"
 status: "active"
 ---
 

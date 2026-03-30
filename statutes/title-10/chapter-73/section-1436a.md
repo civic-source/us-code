@@ -3,9 +3,9 @@ title: "Section 1436a - Coverage paid up at 30 years and age 70"
 usc_title: 10
 usc_section: "1436a"
 chapter: 73
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "10 U.S.C. § 1436a"
-generated_at: "2026-03-30T09:04:10.440Z"
+generated_at: "2026-03-30T09:06:39.379Z"
 status: "active"
 ---
 

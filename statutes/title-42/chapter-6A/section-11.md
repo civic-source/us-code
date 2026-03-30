@@ -3,9 +3,9 @@ title: "Section 11 - Office of the National Coordinator for Health Information T
 usc_title: 42
 usc_section: "11"
 chapter: 6
-current_through: "PL 116-140"
+current_through: "PL 116-141"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T09:06:03.336Z"
+generated_at: "2026-03-30T09:08:36.500Z"
 status: "active"
 ---
 
