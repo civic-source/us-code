@@ -3,9 +3,9 @@ title: "Section 9511 - Establishment"
 usc_title: 20
 usc_section: "9511"
 chapter: 76
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 9511"
-generated_at: "2026-03-30T02:03:15.890Z"
+generated_at: "2026-03-30T02:06:31.566Z"
 ---
 
 # § 9511. Establishment

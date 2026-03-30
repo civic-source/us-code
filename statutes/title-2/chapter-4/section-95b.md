@@ -3,9 +3,9 @@ title: "Section 95b - Transferred"
 usc_title: 2
 usc_section: "95b"
 chapter: 4
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 95b"
-generated_at: "2026-03-30T02:02:05.529Z"
+generated_at: "2026-03-30T02:05:44.627Z"
 ---
 
 # § 95b. Transferred

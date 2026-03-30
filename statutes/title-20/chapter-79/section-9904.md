@@ -3,9 +3,9 @@ title: "Section 9904 - Grant oversight and administration"
 usc_title: 20
 usc_section: "9904"
 chapter: 79
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 9904"
-generated_at: "2026-03-30T02:03:15.897Z"
+generated_at: "2026-03-30T02:06:31.571Z"
 ---
 
 # § 9904. Grant oversight and administration

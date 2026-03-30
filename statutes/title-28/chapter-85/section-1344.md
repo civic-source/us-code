@@ -3,9 +3,9 @@ title: "Section 1344 - Election disputes"
 usc_title: 28
 usc_section: "1344"
 chapter: 85
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "28 U.S.C. § 1344"
-generated_at: "2026-03-30T02:04:21.604Z"
+generated_at: "2026-03-30T02:06:49.332Z"
 ---
 
 # § 1344. Election disputes

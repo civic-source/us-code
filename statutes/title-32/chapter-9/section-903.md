@@ -3,9 +3,9 @@ title: "Section 903 - Regulations"
 usc_title: 32
 usc_section: "903"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "32 U.S.C. § 903"
-generated_at: "2026-03-30T02:04:25.115Z"
+generated_at: "2026-03-30T02:06:58.696Z"
 ---
 
 # § 903. Regulations

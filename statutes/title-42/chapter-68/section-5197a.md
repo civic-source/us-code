@@ -3,9 +3,9 @@ title: "Section 5197a - Security regulations"
 usc_title: 42
 usc_section: "5197a"
 chapter: 68
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 5197a"
-generated_at: "2026-03-30T02:05:18.926Z"
+generated_at: "2026-03-30T02:07:27.898Z"
 ---
 
 # § 5197a. Security regulations

@@ -3,9 +3,9 @@ title: "Section 4577 - Grants and contracts for demonstration of new and more ef
 usc_title: 42
 usc_section: "4577"
 chapter: 60
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 4577"
-generated_at: "2026-03-30T02:05:18.906Z"
+generated_at: "2026-03-30T02:07:27.876Z"
 ---
 
 # § 4577. Grants and contracts for demonstration of new and more effective drug and alcohol abuse prevention, treatment, and rehabilitation programs

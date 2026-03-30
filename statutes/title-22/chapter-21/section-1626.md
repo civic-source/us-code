@@ -3,9 +3,9 @@ title: "Section 1626 - Payments"
 usc_title: 22
 usc_section: "1626"
 chapter: 21
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 1626"
-generated_at: "2026-03-30T02:03:33.002Z"
+generated_at: "2026-03-30T02:06:45.815Z"
 ---
 
 # § 1626. Payments

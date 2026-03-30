@@ -3,9 +3,9 @@ title: "Section 2564 - Departmental day care center facilities; establishment; f
 usc_title: 20
 usc_section: "2564"
 chapter: 45
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 2564"
-generated_at: "2026-03-30T02:03:15.830Z"
+generated_at: "2026-03-30T02:06:31.518Z"
 ---
 
 # § 2564. Departmental day care center facilities; establishment; fees and charges; equipment and operation by appropriated funds

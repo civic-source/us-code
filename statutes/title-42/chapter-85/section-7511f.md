@@ -3,9 +3,9 @@ title: "Section 7511f - NO x and VOC study"
 usc_title: 42
 usc_section: "7511f"
 chapter: 85
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 7511f"
-generated_at: "2026-03-30T02:05:18.999Z"
+generated_at: "2026-03-30T02:07:27.982Z"
 ---
 
 # § 7511f. NO x and VOC study

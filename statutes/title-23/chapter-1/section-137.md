@@ -3,9 +3,9 @@ title: "Section 137 - Fringe and corridor parking facilities"
 usc_title: 23
 usc_section: "137"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "23 U.S.C. § 137"
-generated_at: "2026-03-30T02:03:39.251Z"
+generated_at: "2026-03-30T02:06:34.609Z"
 ---
 
 # § 137. Fringe and corridor parking facilities

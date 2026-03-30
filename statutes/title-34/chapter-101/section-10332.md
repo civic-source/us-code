@@ -3,9 +3,9 @@ title: "Section 10332 - Description of grant program"
 usc_title: 34
 usc_section: "10332"
 chapter: 101
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 10332"
-generated_at: "2026-03-30T02:04:47.274Z"
+generated_at: "2026-03-30T02:06:59.521Z"
 ---
 
 # § 10332. Description of grant program

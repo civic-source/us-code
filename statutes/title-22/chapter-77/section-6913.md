@@ -3,9 +3,9 @@ title: "Section 6913 - Membership of the Commission"
 usc_title: 22
 usc_section: "6913"
 chapter: 77
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 6913"
-generated_at: "2026-03-30T02:03:33.115Z"
+generated_at: "2026-03-30T02:06:45.924Z"
 ---
 
 # § 6913. Membership of the Commission

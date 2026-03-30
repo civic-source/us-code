@@ -3,9 +3,9 @@ title: "Section 482k - Patents affecting forest lands"
 usc_title: 16
 usc_section: "482k"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 482k"
-generated_at: "2026-03-30T02:03:23.941Z"
+generated_at: "2026-03-30T02:06:17.145Z"
 ---
 
 # § 482k. Patents affecting forest lands

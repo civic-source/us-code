@@ -3,9 +3,9 @@ title: "Section 5103 - License or registration required"
 usc_title: 12
 usc_section: "5103"
 chapter: 51
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 5103"
-generated_at: "2026-03-30T02:02:59.726Z"
+generated_at: "2026-03-30T02:06:07.104Z"
 ---
 
 # § 5103. License or registration required

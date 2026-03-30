@@ -3,9 +3,9 @@ title: "Section 1237 - Acquisition and reclamation of land adversely affected by
 usc_title: 30
 usc_section: "1237"
 chapter: 25
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "30 U.S.C. § 1237"
-generated_at: "2026-03-30T02:04:10.752Z"
+generated_at: "2026-03-30T02:06:48.469Z"
 ---
 
 # § 1237. Acquisition and reclamation of land adversely affected by past coal mining practices

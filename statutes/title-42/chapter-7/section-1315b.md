@@ -3,9 +3,9 @@ title: "Section 1315b - Providing Federal coverage and payment coordination for 
 usc_title: 42
 usc_section: "1315b"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 1315b"
-generated_at: "2026-03-30T02:05:18.634Z"
+generated_at: "2026-03-30T02:07:27.570Z"
 ---
 
 # § 1315b. Providing Federal coverage and payment coordination for dual eligible beneficiaries

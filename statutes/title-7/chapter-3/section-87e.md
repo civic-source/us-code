@@ -3,9 +3,9 @@ title: "Section 87e - General authorities"
 usc_title: 7
 usc_section: "87e"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 87e"
-generated_at: "2026-03-30T02:02:15.350Z"
+generated_at: "2026-03-30T02:05:53.742Z"
 ---
 
 # § 87e. General authorities

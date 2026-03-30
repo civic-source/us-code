@@ -3,9 +3,9 @@ title: "Section 44 - Employment of Indians"
 usc_title: 25
 usc_section: "44"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "25 U.S.C. § 44"
-generated_at: "2026-03-30T02:03:51.849Z"
+generated_at: "2026-03-30T02:06:35.563Z"
 ---
 
 # § 44. Employment of Indians

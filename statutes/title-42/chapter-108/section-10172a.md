@@ -3,9 +3,9 @@ title: "Section 10172a - Siting a second repository"
 usc_title: 42
 usc_section: "10172a"
 chapter: 108
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 10172a"
-generated_at: "2026-03-30T02:05:19.068Z"
+generated_at: "2026-03-30T02:07:28.059Z"
 ---
 
 # § 10172a. Siting a second repository

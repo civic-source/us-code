@@ -3,9 +3,9 @@ title: "Section 201 - Enforcement of Convention"
 usc_title: 9
 usc_section: "201"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "9 U.S.C. § 201"
-generated_at: "2026-03-30T02:02:13.001Z"
+generated_at: "2026-03-30T02:05:49.235Z"
 ---
 
 # § 201. Enforcement of Convention

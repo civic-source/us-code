@@ -3,9 +3,9 @@ title: "Section 3607 - Definitions"
 usc_title: 44
 usc_section: "3607"
 chapter: 36
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "44 U.S.C. § 3607"
-generated_at: "2026-03-30T02:05:00.401Z"
+generated_at: "2026-03-30T02:07:14.205Z"
 ---
 
 # § 3607. Definitions

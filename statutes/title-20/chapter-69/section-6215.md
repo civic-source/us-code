@@ -3,9 +3,9 @@ title: "Section 6215 - Omitted"
 usc_title: 20
 usc_section: "6215"
 chapter: 69
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 6215"
-generated_at: "2026-03-30T02:03:15.847Z"
+generated_at: "2026-03-30T02:06:31.532Z"
 ---
 
 # §§ 6211 to 6215. Omitted

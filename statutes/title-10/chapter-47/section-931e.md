@@ -3,9 +3,9 @@ title: "Section 931e - Art. 131e. Prevention of authorized seizure of property"
 usc_title: 10
 usc_section: "931e"
 chapter: 47
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 931e"
-generated_at: "2026-03-30T02:02:21.221Z"
+generated_at: "2026-03-30T02:06:00.125Z"
 ---
 
 # § 931e. Art. 131e. Prevention of authorized seizure of property

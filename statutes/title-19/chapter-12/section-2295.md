@@ -3,9 +3,9 @@ title: "Section 2295 - Employment services"
 usc_title: 19
 usc_section: "2295"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "19 U.S.C. § 2295"
-generated_at: "2026-03-30T02:03:03.877Z"
+generated_at: "2026-03-30T02:06:21.317Z"
 ---
 
 # § 2295. Employment services

@@ -3,9 +3,9 @@ title: "Section 2710 - Right of attachment"
 usc_title: 28
 usc_section: "2710"
 chapter: 173
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "28 U.S.C. § 2710"
-generated_at: "2026-03-30T02:04:21.617Z"
+generated_at: "2026-03-30T02:06:49.343Z"
 ---
 
 # § 2710. Right of attachment

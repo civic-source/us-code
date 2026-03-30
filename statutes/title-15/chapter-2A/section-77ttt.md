@@ -3,9 +3,9 @@ title: "Section 77ttt - Hearings by Commission"
 usc_title: 15
 usc_section: "77ttt"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 77ttt"
-generated_at: "2026-03-30T02:02:33.148Z"
+generated_at: "2026-03-30T02:06:09.651Z"
 ---
 
 # § 77ttt. Hearings by Commission

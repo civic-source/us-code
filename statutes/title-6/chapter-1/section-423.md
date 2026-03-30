@@ -3,9 +3,9 @@ title: "Section 423 - Increased simplified acquisition threshold for procurement
 usc_title: 6
 usc_section: "423"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "6 U.S.C. § 423"
-generated_at: "2026-03-30T02:02:11.814Z"
+generated_at: "2026-03-30T02:05:54.581Z"
 ---
 
 # § 423. Increased simplified acquisition threshold for procurements in support of humanitarian or peacekeeping operations or contingency operations

@@ -3,9 +3,9 @@ title: "Section 2799a - CFE Treaty obligations"
 usc_title: 22
 usc_section: "2799a"
 chapter: 39
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 2799a"
-generated_at: "2026-03-30T02:03:33.064Z"
+generated_at: "2026-03-30T02:06:45.871Z"
 ---
 
 # § 2799a. CFE Treaty obligations

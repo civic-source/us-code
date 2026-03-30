@@ -3,9 +3,9 @@ title: "Section 2114a - Negotiating objectives with respect to trade in services
 usc_title: 19
 usc_section: "2114a"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "19 U.S.C. § 2114a"
-generated_at: "2026-03-30T02:03:03.872Z"
+generated_at: "2026-03-30T02:06:21.311Z"
 ---
 
 # § 2114a. Negotiating objectives with respect to trade in services, foreign direct investment, and high technology products

@@ -3,9 +3,9 @@ title: "Section 760c - Studies; authorization of appropriations"
 usc_title: 16
 usc_section: "760c"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 760c"
-generated_at: "2026-03-30T02:03:23.983Z"
+generated_at: "2026-03-30T02:06:17.181Z"
 ---
 
 # § 760c. Studies; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 4425 - Endowment programs"
 usc_title: 20
 usc_section: "4425"
 chapter: 56
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 4425"
-generated_at: "2026-03-30T02:03:15.839Z"
+generated_at: "2026-03-30T02:06:31.526Z"
 ---
 
 # § 4425. Endowment programs

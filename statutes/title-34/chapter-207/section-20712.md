@@ -3,9 +3,9 @@ title: "Section 20712 - Holistic training for Federal law enforcement officers a
 usc_title: 34
 usc_section: "20712"
 chapter: 207
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 20712"
-generated_at: "2026-03-30T02:04:47.306Z"
+generated_at: "2026-03-30T02:06:59.557Z"
 ---
 
 # § 20712. Holistic training for Federal law enforcement officers and prosecutors

@@ -3,9 +3,9 @@ title: "Section 407g - State right-of-way for park-type road; reconveyance of in
 usc_title: 16
 usc_section: "407g"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 407g"
-generated_at: "2026-03-30T02:03:23.856Z"
+generated_at: "2026-03-30T02:06:17.071Z"
 ---
 
 # § 407g. State right-of-way for park-type road; reconveyance of interest upon completion of road

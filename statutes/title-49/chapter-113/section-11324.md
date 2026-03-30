@@ -3,9 +3,9 @@ title: "Section 11324 - Consolidation, merger, and acquisition of control: condi
 usc_title: 49
 usc_section: "11324"
 chapter: 113
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 11324"
-generated_at: "2026-03-30T02:05:28.941Z"
+generated_at: "2026-03-30T02:07:36.541Z"
 ---
 
 # § 11324. Consolidation, merger, and acquisition of control: conditions of approval

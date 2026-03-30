@@ -3,9 +3,9 @@ title: "Section 2 - Repayment contracts"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:03:23.962Z"
+generated_at: "2026-03-30T02:06:17.163Z"
 ---
 
 # § 590z–2. Repayment contracts

@@ -3,9 +3,9 @@ title: "Section 628 - Rules and regulations; exemptions"
 usc_title: 29
 usc_section: "628"
 chapter: 14
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "29 U.S.C. § 628"
-generated_at: "2026-03-30T02:04:18.058Z"
+generated_at: "2026-03-30T02:06:50.320Z"
 ---
 
 # § 628. Rules and regulations; exemptions

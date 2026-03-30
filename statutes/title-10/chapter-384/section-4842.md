@@ -3,9 +3,9 @@ title: "Section 4842 - Joint Defense Manufacturing Technology Panel"
 usc_title: 10
 usc_section: "4842"
 chapter: 384
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 4842"
-generated_at: "2026-03-30T02:02:21.319Z"
+generated_at: "2026-03-30T02:06:00.227Z"
 ---
 
 # § 4842. Joint Defense Manufacturing Technology Panel

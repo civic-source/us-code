@@ -3,9 +3,9 @@ title: "Section 4055 - Lump-sum payments"
 usc_title: 22
 usc_section: "4055"
 chapter: 52
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4055"
-generated_at: "2026-03-30T02:03:33.082Z"
+generated_at: "2026-03-30T02:06:45.890Z"
 ---
 
 # § 4055. Lump-sum payments

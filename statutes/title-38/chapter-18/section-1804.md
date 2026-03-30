@@ -3,9 +3,9 @@ title: "Section 1804 - Vocational training and rehabilitation"
 usc_title: 38
 usc_section: "1804"
 chapter: 18
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 1804"
-generated_at: "2026-03-30T02:04:57.958Z"
+generated_at: "2026-03-30T02:07:10.003Z"
 ---
 
 # § 1804. Vocational training and rehabilitation

@@ -3,9 +3,9 @@ title: "Section 14 - Acquisition of land; cooperation with other agencies"
 usc_title: 30
 usc_section: "14"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "30 U.S.C. § 14"
-generated_at: "2026-03-30T02:04:10.728Z"
+generated_at: "2026-03-30T02:06:48.445Z"
 ---
 
 # § 14. Acquisition of land; cooperation with other agencies

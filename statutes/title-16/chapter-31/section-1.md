@@ -3,9 +3,9 @@ title: "Section 1 - Marine Mammal Rescue and Response Grant Program and Rapid Re
 usc_title: 16
 usc_section: "1"
 chapter: 31
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:03:24.036Z"
+generated_at: "2026-03-30T02:06:17.228Z"
 ---
 
 # § 1421f–1. Marine Mammal Rescue and Response Grant Program and Rapid Response Fund

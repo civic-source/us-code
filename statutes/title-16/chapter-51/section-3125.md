@@ -3,9 +3,9 @@ title: "Section 3125 - Limitations and savings clauses"
 usc_title: 16
 usc_section: "3125"
 chapter: 51
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 3125"
-generated_at: "2026-03-30T02:03:24.073Z"
+generated_at: "2026-03-30T02:06:17.328Z"
 ---
 
 # § 3125. Limitations and savings clauses

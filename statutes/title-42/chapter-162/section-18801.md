@@ -3,9 +3,9 @@ title: "Section 18801 - Building, training, and assessment centers"
 usc_title: 42
 usc_section: "18801"
 chapter: 162
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 18801"
-generated_at: "2026-03-30T02:05:19.203Z"
+generated_at: "2026-03-30T02:07:28.214Z"
 ---
 
 # § 18801. Building, training, and assessment centers

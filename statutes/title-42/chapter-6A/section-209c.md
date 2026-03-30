@@ -3,9 +3,9 @@ title: "Section 209c - Repealed. Pub. L. 87–649, § 14b , Sept. 7, 1962 , 76 S
 usc_title: 42
 usc_section: "209c"
 chapter: 6
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 209c"
-generated_at: "2026-03-30T02:05:18.426Z"
+generated_at: "2026-03-30T02:07:27.340Z"
 ---
 
 # § 209c. Repealed. Pub. L. 87–649, § 14b , Sept. 7, 1962 , 76 Stat. 499

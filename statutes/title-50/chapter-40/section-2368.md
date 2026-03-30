@@ -3,9 +3,9 @@ title: "Section 2368 - Annual reports on the proliferation of missiles and essen
 usc_title: 50
 usc_section: "2368"
 chapter: 40
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "50 U.S.C. § 2368"
-generated_at: "2026-03-30T02:05:24.004Z"
+generated_at: "2026-03-30T02:07:38.931Z"
 ---
 
 # § 2368. Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons

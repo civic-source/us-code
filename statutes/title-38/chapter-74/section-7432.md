@@ -3,9 +3,9 @@ title: "Section 7432 - Pay of Under Secretary for Health"
 usc_title: 38
 usc_section: "7432"
 chapter: 74
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 7432"
-generated_at: "2026-03-30T02:04:58.003Z"
+generated_at: "2026-03-30T02:07:10.055Z"
 ---
 
 # § 7432. Pay of Under Secretary for Health

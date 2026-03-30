@@ -3,9 +3,9 @@ title: "Section 4162 - Definitions; treatment of certain resales"
 usc_title: 26
 usc_section: "4162"
 chapter: 32
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 4162"
-generated_at: "2026-03-30T02:04:09.268Z"
+generated_at: "2026-03-30T02:06:56.581Z"
 ---
 
 # § 4162. Definitions; treatment of certain resales

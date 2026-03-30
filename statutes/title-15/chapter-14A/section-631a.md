@@ -3,9 +3,9 @@ title: "Section 631a - Congressional declaration of small business economic poli
 usc_title: 15
 usc_section: "631a"
 chapter: 14
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 631a"
-generated_at: "2026-03-30T02:02:33.201Z"
+generated_at: "2026-03-30T02:06:09.704Z"
 ---
 
 # § 631a. Congressional declaration of small business economic policy

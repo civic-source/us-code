@@ -3,9 +3,9 @@ title: "Section 5 - Display and use of flag by civilians; codification of rules 
 usc_title: 4
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "4 U.S.C. § 5"
-generated_at: "2026-03-30T02:02:03.972Z"
+generated_at: "2026-03-30T02:05:43.391Z"
 ---
 
 # § 5. Display and use of flag by civilians; codification of rules and customs; definition

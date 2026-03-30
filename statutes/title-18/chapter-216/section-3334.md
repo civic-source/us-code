@@ -3,9 +3,9 @@ title: "Section 3334 - General provisions"
 usc_title: 18
 usc_section: "3334"
 chapter: 216
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "18 U.S.C. § 3334"
-generated_at: "2026-03-30T02:03:17.383Z"
+generated_at: "2026-03-30T02:06:19.242Z"
 ---
 
 # § 3334. General provisions

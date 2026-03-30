@@ -3,9 +3,9 @@ title: "Section 1719 - Mineral interests; reservation and conveyance requirement
 usc_title: 43
 usc_section: "1719"
 chapter: 35
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 1719"
-generated_at: "2026-03-30T02:05:01.525Z"
+generated_at: "2026-03-30T02:07:14.955Z"
 ---
 
 # § 1719. Mineral interests; reservation and conveyance requirements and procedures

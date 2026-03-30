@@ -3,9 +3,9 @@ title: "Section 1320f - Establishment of program"
 usc_title: 42
 usc_section: "1320f"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 1320f"
-generated_at: "2026-03-30T02:05:18.649Z"
+generated_at: "2026-03-30T02:07:27.588Z"
 ---
 
 # § 1320f. Establishment of program

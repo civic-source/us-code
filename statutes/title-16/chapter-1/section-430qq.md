@@ -3,9 +3,9 @@ title: "Section 430qq - Exchange of lands"
 usc_title: 16
 usc_section: "430qq"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 430qq"
-generated_at: "2026-03-30T02:03:23.890Z"
+generated_at: "2026-03-30T02:06:17.100Z"
 ---
 
 # § 430qq. Exchange of lands

@@ -3,9 +3,9 @@ title: "Section 12653a - Presidential awards for service"
 usc_title: 42
 usc_section: "12653a"
 chapter: 129
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 12653a"
-generated_at: "2026-03-30T02:05:19.105Z"
+generated_at: "2026-03-30T02:07:28.103Z"
 ---
 
 # § 12653a. Presidential awards for service

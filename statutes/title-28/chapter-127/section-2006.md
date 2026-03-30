@@ -3,9 +3,9 @@ title: "Section 2006 - Execution against revenue officer"
 usc_title: 28
 usc_section: "2006"
 chapter: 127
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "28 U.S.C. § 2006"
-generated_at: "2026-03-30T02:04:21.611Z"
+generated_at: "2026-03-30T02:06:49.339Z"
 ---
 
 # § 2006. Execution against revenue officer

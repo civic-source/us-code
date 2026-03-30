@@ -3,9 +3,9 @@ title: "Section 964 - Delivering armed vessel to belligerent nation"
 usc_title: 18
 usc_section: "964"
 chapter: 45
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "18 U.S.C. § 964"
-generated_at: "2026-03-30T02:03:17.342Z"
+generated_at: "2026-03-30T02:06:19.211Z"
 ---
 
 # § 964. Delivering armed vessel to belligerent nation

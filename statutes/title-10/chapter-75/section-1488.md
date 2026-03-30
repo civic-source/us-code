@@ -3,9 +3,9 @@ title: "Section 1488 - Removal of remains"
 usc_title: 10
 usc_section: "1488"
 chapter: 75
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 1488"
-generated_at: "2026-03-30T02:02:21.253Z"
+generated_at: "2026-03-30T02:06:00.158Z"
 ---
 
 # § 1488. Removal of remains

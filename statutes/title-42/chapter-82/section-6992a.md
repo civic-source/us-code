@@ -3,9 +3,9 @@ title: "Section 6992a - Listing of medical wastes"
 usc_title: 42
 usc_section: "6992a"
 chapter: 82
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 6992a"
-generated_at: "2026-03-30T02:05:18.975Z"
+generated_at: "2026-03-30T02:07:27.954Z"
 ---
 
 # § 6992a. Listing of medical wastes

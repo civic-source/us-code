@@ -3,9 +3,9 @@ title: "Section 402a - Utah National Park; change of name to Bryce Canyon Nation
 usc_title: 16
 usc_section: "402a"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 402a"
-generated_at: "2026-03-30T02:03:23.854Z"
+generated_at: "2026-03-30T02:06:17.068Z"
 ---
 
 # § 402a. Utah National Park; change of name to Bryce Canyon National Park

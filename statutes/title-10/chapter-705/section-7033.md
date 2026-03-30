@@ -3,9 +3,9 @@ title: "Section 7033 - Chief of Staff"
 usc_title: 10
 usc_section: "7033"
 chapter: 705
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 7033"
-generated_at: "2026-03-30T02:02:21.322Z"
+generated_at: "2026-03-30T02:06:00.230Z"
 ---
 
 # § 7033. Chief of Staff

@@ -3,9 +3,9 @@ title: "Section 2202 - National Agriculture and Food Defense Strategy"
 usc_title: 21
 usc_section: "2202"
 chapter: 27
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "21 U.S.C. § 2202"
-generated_at: "2026-03-30T02:03:29.598Z"
+generated_at: "2026-03-30T02:06:36.736Z"
 ---
 
 # § 2202. National Agriculture and Food Defense Strategy

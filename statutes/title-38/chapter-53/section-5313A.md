@@ -3,9 +3,9 @@ title: "Section 5313A - Limitation on payment of clothing allowance to incarcera
 usc_title: 38
 usc_section: "5313A"
 chapter: 53
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 5313A"
-generated_at: "2026-03-30T02:04:57.991Z"
+generated_at: "2026-03-30T02:07:10.041Z"
 ---
 
 # § 5313A. Limitation on payment of clothing allowance to incarcerated veterans

@@ -3,9 +3,9 @@ title: "Section 1718 - Rules, regulations, and orders"
 usc_title: 15
 usc_section: "1718"
 chapter: 42
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 1718"
-generated_at: "2026-03-30T02:02:33.288Z"
+generated_at: "2026-03-30T02:06:09.784Z"
 ---
 
 # § 1718. Rules, regulations, and orders

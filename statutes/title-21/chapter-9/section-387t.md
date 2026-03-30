@@ -3,9 +3,9 @@ title: "Section 387t - Labeling, recordkeeping, records inspection"
 usc_title: 21
 usc_section: "387t"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "21 U.S.C. § 387t"
-generated_at: "2026-03-30T02:03:29.566Z"
+generated_at: "2026-03-30T02:06:36.711Z"
 ---
 
 # § 387t. Labeling, recordkeeping, records inspection

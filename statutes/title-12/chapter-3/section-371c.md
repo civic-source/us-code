@@ -3,9 +3,9 @@ title: "Section 371c - Banking affiliates"
 usc_title: 12
 usc_section: "371c"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 371c"
-generated_at: "2026-03-30T02:02:59.584Z"
+generated_at: "2026-03-30T02:06:06.970Z"
 ---
 
 # § 371c. Banking affiliates

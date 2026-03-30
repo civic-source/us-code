@@ -3,9 +3,9 @@ title: "Section 1605 - Protection, use and management of renewable resources on 
 usc_title: 16
 usc_section: "1605"
 chapter: 36
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 1605"
-generated_at: "2026-03-30T02:03:24.047Z"
+generated_at: "2026-03-30T02:06:17.239Z"
 ---
 
 # § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc.

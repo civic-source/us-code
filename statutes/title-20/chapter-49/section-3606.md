@@ -3,9 +3,9 @@ title: "Section 3606 - Standards and safety procedures"
 usc_title: 20
 usc_section: "3606"
 chapter: 49
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 3606"
-generated_at: "2026-03-30T02:03:15.833Z"
+generated_at: "2026-03-30T02:06:31.521Z"
 ---
 
 # § 3606. Standards and safety procedures

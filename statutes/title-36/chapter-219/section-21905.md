@@ -3,9 +3,9 @@ title: "Section 21905 - Restrictions"
 usc_title: 36
 usc_section: "21905"
 chapter: 219
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 21905"
-generated_at: "2026-03-30T02:04:50.393Z"
+generated_at: "2026-03-30T02:07:11.745Z"
 ---
 
 # § 21905. Restrictions

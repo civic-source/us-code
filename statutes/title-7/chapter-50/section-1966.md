@@ -3,9 +3,9 @@ title: "Section 1966 - Emergency Credit Revolving Fund utilization"
 usc_title: 7
 usc_section: "1966"
 chapter: 50
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 1966"
-generated_at: "2026-03-30T02:02:15.427Z"
+generated_at: "2026-03-30T02:05:53.824Z"
 ---
 
 # § 1966. Emergency Credit Revolving Fund utilization

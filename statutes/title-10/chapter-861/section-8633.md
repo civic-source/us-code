@@ -3,9 +3,9 @@ title: "Section 8633 - Auxiliary vessels: extended lease authority"
 usc_title: 10
 usc_section: "8633"
 chapter: 861
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 8633"
-generated_at: "2026-03-30T02:02:21.338Z"
+generated_at: "2026-03-30T02:06:00.246Z"
 ---
 
 # § 8633. Auxiliary vessels: extended lease authority

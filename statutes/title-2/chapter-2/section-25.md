@@ -3,9 +3,9 @@ title: "Section 25 - Oath of Speaker, Members, and Delegates"
 usc_title: 2
 usc_section: "25"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 25"
-generated_at: "2026-03-30T02:02:05.524Z"
+generated_at: "2026-03-30T02:05:44.624Z"
 ---
 
 # § 25. Oath of Speaker, Members, and Delegates

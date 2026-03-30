@@ -3,9 +3,9 @@ title: "Section 15095 - Designation of the lead entity"
 usc_title: 42
 usc_section: "15095"
 chapter: 144
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 15095"
-generated_at: "2026-03-30T02:05:19.137Z"
+generated_at: "2026-03-30T02:07:28.138Z"
 ---
 
 # § 15095. Designation of the lead entity

@@ -3,9 +3,9 @@ title: "Section 21506 - Reciprocal notifications"
 usc_title: 34
 usc_section: "21506"
 chapter: 215
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 21506"
-generated_at: "2026-03-30T02:04:47.310Z"
+generated_at: "2026-03-30T02:06:59.562Z"
 ---
 
 # § 21506. Reciprocal notifications

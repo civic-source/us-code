@@ -3,9 +3,9 @@ title: "Section 12112 - Discrimination"
 usc_title: 42
 usc_section: "12112"
 chapter: 126
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 12112"
-generated_at: "2026-03-30T02:05:19.089Z"
+generated_at: "2026-03-30T02:07:28.084Z"
 ---
 
 # § 12112. Discrimination

@@ -3,9 +3,9 @@ title: "Section 5401 - Findings and purposes"
 usc_title: 42
 usc_section: "5401"
 chapter: 70
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 5401"
-generated_at: "2026-03-30T02:05:18.931Z"
+generated_at: "2026-03-30T02:07:27.904Z"
 ---
 
 # § 5401. Findings and purposes

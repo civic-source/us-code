@@ -3,9 +3,9 @@ title: "Section 4515 - Administration of dispute settlement proceedings"
 usc_title: 19
 usc_section: "4515"
 chapter: 29
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "19 U.S.C. § 4515"
-generated_at: "2026-03-30T02:03:03.911Z"
+generated_at: "2026-03-30T02:06:21.352Z"
 ---
 
 # § 4515. Administration of dispute settlement proceedings

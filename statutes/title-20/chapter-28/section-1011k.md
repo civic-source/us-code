@@ -3,9 +3,9 @@ title: "Section 1011k - Recovery of payments"
 usc_title: 20
 usc_section: "1011k"
 chapter: 28
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 1011k"
-generated_at: "2026-03-30T02:03:15.728Z"
+generated_at: "2026-03-30T02:06:31.438Z"
 ---
 
 # § 1011k. Recovery of payments

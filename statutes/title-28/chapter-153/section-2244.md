@@ -3,9 +3,9 @@ title: "Section 2244 - Finality of determination"
 usc_title: 28
 usc_section: "2244"
 chapter: 153
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "28 U.S.C. § 2244"
-generated_at: "2026-03-30T02:04:21.613Z"
+generated_at: "2026-03-30T02:06:49.340Z"
 ---
 
 # § 2244. Finality of determination

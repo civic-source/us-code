@@ -3,9 +3,9 @@ title: "Section 939 - Limitation on changes to the Social Security Act"
 usc_title: 2
 usc_section: "939"
 chapter: 20
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 939"
-generated_at: "2026-03-30T02:02:05.549Z"
+generated_at: "2026-03-30T02:05:44.648Z"
 ---
 
 # § 939. Limitation on changes to the Social Security Act

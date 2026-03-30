@@ -3,9 +3,9 @@ title: "Section 1914 - Department of Defense program to protect United States st
 usc_title: 50
 usc_section: "1914"
 chapter: 37
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "50 U.S.C. § 1914"
-generated_at: "2026-03-30T02:05:23.999Z"
+generated_at: "2026-03-30T02:07:38.923Z"
 ---
 
 # § 1914. Department of Defense program to protect United States students against foreign agents

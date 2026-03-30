@@ -3,9 +3,9 @@ title: "Section 705 - Purchase of uniforms and equipment by officers of National
 usc_title: 32
 usc_section: "705"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "32 U.S.C. § 705"
-generated_at: "2026-03-30T02:04:25.114Z"
+generated_at: "2026-03-30T02:06:58.695Z"
 ---
 
 # § 705. Purchase of uniforms and equipment by officers of National Guard from Army or Air Force

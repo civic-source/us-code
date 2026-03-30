@@ -3,9 +3,9 @@ title: "Section 30 - Definitions"
 usc_title: 47
 usc_section: "30"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "47 U.S.C. § 30"
-generated_at: "2026-03-30T02:05:22.308Z"
+generated_at: "2026-03-30T02:07:32.864Z"
 ---
 
 # § 30. Definitions

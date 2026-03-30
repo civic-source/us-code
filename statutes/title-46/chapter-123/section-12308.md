@@ -3,9 +3,9 @@ title: "Section 12308 - Providing vessel numbering and registration information"
 usc_title: 46
 usc_section: "12308"
 chapter: 123
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "46 U.S.C. § 12308"
-generated_at: "2026-03-30T02:05:26.025Z"
+generated_at: "2026-03-30T02:07:32.052Z"
 ---
 
 # § 12308. Providing vessel numbering and registration information

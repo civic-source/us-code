@@ -3,9 +3,9 @@ title: "Section 4305 - Disclosure of joint venture"
 usc_title: 15
 usc_section: "4305"
 chapter: 69
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 4305"
-generated_at: "2026-03-30T02:02:33.334Z"
+generated_at: "2026-03-30T02:06:09.826Z"
 ---
 
 # § 4305. Disclosure of joint venture

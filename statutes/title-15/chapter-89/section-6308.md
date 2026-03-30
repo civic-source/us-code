@@ -3,9 +3,9 @@ title: "Section 6308 - Conflicts of interest"
 usc_title: 15
 usc_section: "6308"
 chapter: 89
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 6308"
-generated_at: "2026-03-30T02:02:33.346Z"
+generated_at: "2026-03-30T02:06:09.838Z"
 ---
 
 # § 6308. Conflicts of interest

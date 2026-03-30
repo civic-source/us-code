@@ -3,9 +3,9 @@ title: "Section 8210 - Effect of this chapter"
 usc_title: 16
 usc_section: "8210"
 chapter: 101
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 8210"
-generated_at: "2026-03-30T02:03:24.133Z"
+generated_at: "2026-03-30T02:06:17.382Z"
 ---
 
 # § 8210. Effect of this chapter

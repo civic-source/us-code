@@ -3,9 +3,9 @@ title: "Section 6814 - Authorization of appropriations"
 usc_title: 7
 usc_section: "6814"
 chapter: 97
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 6814"
-generated_at: "2026-03-30T02:02:15.497Z"
+generated_at: "2026-03-30T02:05:53.896Z"
 ---
 
 # § 6814. Authorization of appropriations

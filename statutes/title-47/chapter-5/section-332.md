@@ -3,9 +3,9 @@ title: "Section 332 - Mobile services"
 usc_title: 47
 usc_section: "332"
 chapter: 5
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "47 U.S.C. § 332"
-generated_at: "2026-03-30T02:05:22.324Z"
+generated_at: "2026-03-30T02:07:32.884Z"
 ---
 
 # § 332. Mobile services

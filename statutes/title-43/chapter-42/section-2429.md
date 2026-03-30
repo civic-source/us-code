@@ -3,9 +3,9 @@ title: "Section 2429 - Records; audits"
 usc_title: 43
 usc_section: "2429"
 chapter: 42
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 2429"
-generated_at: "2026-03-30T02:05:01.535Z"
+generated_at: "2026-03-30T02:07:14.967Z"
 ---
 
 # § 2429. Records; audits

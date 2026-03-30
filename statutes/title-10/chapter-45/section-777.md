@@ -3,9 +3,9 @@ title: "Section 777 - Wearing of insignia of higher grade before promotion (froc
 usc_title: 10
 usc_section: "777"
 chapter: 45
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 777"
-generated_at: "2026-03-30T02:02:21.212Z"
+generated_at: "2026-03-30T02:06:00.117Z"
 ---
 
 # § 777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions

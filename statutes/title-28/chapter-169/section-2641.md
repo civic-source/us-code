@@ -3,9 +3,9 @@ title: "Section 2641 - Witnesses; inspection of documents"
 usc_title: 28
 usc_section: "2641"
 chapter: 169
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "28 U.S.C. § 2641"
-generated_at: "2026-03-30T02:04:21.617Z"
+generated_at: "2026-03-30T02:06:49.343Z"
 ---
 
 # § 2641. Witnesses; inspection of documents

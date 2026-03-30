@@ -3,9 +3,9 @@ title: "Section 9151 - Prohibited acts"
 usc_title: 42
 usc_section: "9151"
 chapter: 99
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 9151"
-generated_at: "2026-03-30T02:05:19.037Z"
+generated_at: "2026-03-30T02:07:28.025Z"
 ---
 
 # § 9151. Prohibited acts

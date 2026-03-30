@@ -3,9 +3,9 @@ title: "Section 9653 - Repealed. Pub. L. 99–499, title V, § 511(b) , Oct. 17,
 usc_title: 42
 usc_section: "9653"
 chapter: 103
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 9653"
-generated_at: "2026-03-30T02:05:19.049Z"
+generated_at: "2026-03-30T02:07:28.037Z"
 ---
 
 # § 9653. Repealed. Pub. L. 99–499, title V, § 511(b) , Oct. 17, 1986 , 100 Stat. 1761

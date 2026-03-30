@@ -3,9 +3,9 @@ title: "Section 7174 - Local competitive subgrant program"
 usc_title: 20
 usc_section: "7174"
 chapter: 70
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 7174"
-generated_at: "2026-03-30T02:03:15.866Z"
+generated_at: "2026-03-30T02:06:31.546Z"
 ---
 
 # § 7174. Local competitive subgrant program

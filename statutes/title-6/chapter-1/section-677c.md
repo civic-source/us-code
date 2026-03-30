@@ -3,9 +3,9 @@ title: "Section 677c - Cyber Response and Recovery Fund"
 usc_title: 6
 usc_section: "677c"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "6 U.S.C. § 677c"
-generated_at: "2026-03-30T02:02:11.830Z"
+generated_at: "2026-03-30T02:05:54.598Z"
 ---
 
 # § 677c. Cyber Response and Recovery Fund

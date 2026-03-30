@@ -3,9 +3,9 @@ title: "Section 254n - Private practice"
 usc_title: 42
 usc_section: "254n"
 chapter: 6
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 254n"
-generated_at: "2026-03-30T02:05:18.454Z"
+generated_at: "2026-03-30T02:07:27.371Z"
 ---
 
 # § 254n. Private practice

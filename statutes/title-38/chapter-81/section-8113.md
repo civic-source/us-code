@@ -3,9 +3,9 @@ title: "Section 8113 - Property formerly owned by National Home for Disabled Vol
 usc_title: 38
 usc_section: "8113"
 chapter: 81
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 8113"
-generated_at: "2026-03-30T02:04:58.008Z"
+generated_at: "2026-03-30T02:07:10.062Z"
 ---
 
 # § 8113. Property formerly owned by National Home for Disabled Volunteer Soldiers

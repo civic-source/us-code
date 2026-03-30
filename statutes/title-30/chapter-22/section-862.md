@@ -3,9 +3,9 @@ title: "Section 862 - Roof support"
 usc_title: 30
 usc_section: "862"
 chapter: 22
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "30 U.S.C. § 862"
-generated_at: "2026-03-30T02:04:10.743Z"
+generated_at: "2026-03-30T02:06:48.459Z"
 ---
 
 # § 862. Roof support

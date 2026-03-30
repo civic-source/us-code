@@ -3,9 +3,9 @@ title: "Section 648 - Arkansas River; levee and bank protection"
 usc_title: 33
 usc_section: "648"
 chapter: 13
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 648"
-generated_at: "2026-03-30T02:04:35.770Z"
+generated_at: "2026-03-30T02:07:01.974Z"
 ---
 
 # § 648. Arkansas River; levee and bank protection

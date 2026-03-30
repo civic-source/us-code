@@ -3,9 +3,9 @@ title: "Section 1331 - Rights and protections under Americans with Disabilities 
 usc_title: 2
 usc_section: "1331"
 chapter: 24
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 1331"
-generated_at: "2026-03-30T02:02:05.551Z"
+generated_at: "2026-03-30T02:05:44.650Z"
 ---
 
 # § 1331. Rights and protections under Americans with Disabilities Act of 1990 relating to public services and accommodations; procedures for remedy of violations

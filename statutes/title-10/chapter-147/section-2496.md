@@ -3,9 +3,9 @@ title: "Section 2496 - Sale of certain goods from the Xinjiang Uyghur Autonomous
 usc_title: 10
 usc_section: "2496"
 chapter: 147
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 2496"
-generated_at: "2026-03-30T02:02:21.281Z"
+generated_at: "2026-03-30T02:06:00.186Z"
 ---
 
 # § 2496. Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited

@@ -3,9 +3,9 @@ title: "Section 301a - Port of entry donation authority"
 usc_title: 6
 usc_section: "301a"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "6 U.S.C. § 301a"
-generated_at: "2026-03-30T02:02:11.808Z"
+generated_at: "2026-03-30T02:05:54.574Z"
 ---
 
 # § 301a. Port of entry donation authority

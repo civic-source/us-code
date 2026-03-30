@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-30T02:04:09.122Z"
+generated_at: "2026-03-30T02:06:56.441Z"
 ---
 
 # § 163. Interest

@@ -3,9 +3,9 @@ title: "Section 719 - Reduction of benefits of employees convicted of certain cr
 usc_title: 38
 usc_section: "719"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 719"
-generated_at: "2026-03-30T02:04:57.945Z"
+generated_at: "2026-03-30T02:07:09.987Z"
 ---
 
 # § 719. Reduction of benefits of employees convicted of certain crimes

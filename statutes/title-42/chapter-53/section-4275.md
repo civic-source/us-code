@@ -3,9 +3,9 @@ title: "Section 4275 - Duties of Commission"
 usc_title: 42
 usc_section: "4275"
 chapter: 53
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 4275"
-generated_at: "2026-03-30T02:05:18.901Z"
+generated_at: "2026-03-30T02:07:27.870Z"
 ---
 
 # § 4275. Duties of Commission

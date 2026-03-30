@@ -3,9 +3,9 @@ title: "Section 556c - Reimbursement of employees for property losses resulting 
 usc_title: 16
 usc_section: "556c"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 556c"
-generated_at: "2026-03-30T02:03:23.956Z"
+generated_at: "2026-03-30T02:06:17.157Z"
 ---
 
 # § 556c. Reimbursement of employees for property losses resulting from fires, floods, or other casualties

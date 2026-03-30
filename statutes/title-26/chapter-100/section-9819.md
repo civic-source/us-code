@@ -3,9 +3,9 @@ title: "Section 9819 - Maintenance of price comparison tool"
 usc_title: 26
 usc_section: "9819"
 chapter: 100
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 9819"
-generated_at: "2026-03-30T02:04:09.354Z"
+generated_at: "2026-03-30T02:06:56.672Z"
 ---
 
 # § 9819. Maintenance of price comparison tool

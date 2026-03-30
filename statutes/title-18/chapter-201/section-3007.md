@@ -3,9 +3,9 @@ title: "Section 3007 - Motions—(Rule)"
 usc_title: 18
 usc_section: "3007"
 chapter: 201
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "18 U.S.C. § 3007"
-generated_at: "2026-03-30T02:03:17.377Z"
+generated_at: "2026-03-30T02:06:19.237Z"
 ---
 
 # § 3007. Motions—(Rule)

@@ -3,9 +3,9 @@ title: "Section 47510 - Tradeoff allowance"
 usc_title: 49
 usc_section: "47510"
 chapter: 475
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 47510"
-generated_at: "2026-03-30T02:05:29.015Z"
+generated_at: "2026-03-30T02:07:36.627Z"
 ---
 
 # § 47510. Tradeoff allowance

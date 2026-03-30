@@ -3,9 +3,9 @@ title: "Section 1498 - Rules and regulations"
 usc_title: 25
 usc_section: "1498"
 chapter: 17
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "25 U.S.C. § 1498"
-generated_at: "2026-03-30T02:03:51.880Z"
+generated_at: "2026-03-30T02:06:35.583Z"
 ---
 
 # § 1498. Rules and regulations

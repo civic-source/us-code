@@ -3,9 +3,9 @@ title: "Section 3001 - Nonmailable matter"
 usc_title: 39
 usc_section: "3001"
 chapter: 30
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "39 U.S.C. § 3001"
-generated_at: "2026-03-30T02:04:49.510Z"
+generated_at: "2026-03-30T02:07:10.427Z"
 ---
 
 # § 3001. Nonmailable matter

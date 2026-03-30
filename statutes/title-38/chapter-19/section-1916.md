@@ -3,9 +3,9 @@ title: "Section 1916 - Insurance which matured before August 1, 1946"
 usc_title: 38
 usc_section: "1916"
 chapter: 19
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 1916"
-generated_at: "2026-03-30T02:04:57.960Z"
+generated_at: "2026-03-30T02:07:10.004Z"
 ---
 
 # § 1916. Insurance which matured before August 1, 1946

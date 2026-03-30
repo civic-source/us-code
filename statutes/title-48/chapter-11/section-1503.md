@@ -3,9 +3,9 @@ title: "Section 1503 - Acquisition by inheritance, in collection of debts, etc."
 usc_title: 48
 usc_section: "1503"
 chapter: 11
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "48 U.S.C. § 1503"
-generated_at: "2026-03-30T02:05:29.417Z"
+generated_at: "2026-03-30T02:07:31.148Z"
 ---
 
 # § 1503. Acquisition by inheritance, in collection of debts, etc.

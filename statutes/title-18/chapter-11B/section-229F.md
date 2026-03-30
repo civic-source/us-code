@@ -3,9 +3,9 @@ title: "Section 229F - Definitions"
 usc_title: 18
 usc_section: "229F"
 chapter: 11
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "18 U.S.C. § 229F"
-generated_at: "2026-03-30T02:03:17.327Z"
+generated_at: "2026-03-30T02:06:19.198Z"
 ---
 
 # § 229F. Definitions

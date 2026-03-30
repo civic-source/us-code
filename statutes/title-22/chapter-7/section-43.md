@@ -3,9 +3,9 @@ title: "Section 43 - Definitions"
 usc_title: 22
 usc_section: "43"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 43"
-generated_at: "2026-03-30T02:03:32.979Z"
+generated_at: "2026-03-30T02:06:45.792Z"
 ---
 
 # § 277d–43. Definitions

@@ -3,9 +3,9 @@ title: "Section 24303 - Officers"
 usc_title: 49
 usc_section: "24303"
 chapter: 243
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 24303"
-generated_at: "2026-03-30T02:05:28.958Z"
+generated_at: "2026-03-30T02:07:36.561Z"
 ---
 
 # § 24303. Officers

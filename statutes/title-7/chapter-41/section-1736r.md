@@ -3,9 +3,9 @@ title: "Section 1736r - Trade negotiations policy"
 usc_title: 7
 usc_section: "1736r"
 chapter: 41
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 1736r"
-generated_at: "2026-03-30T02:02:15.420Z"
+generated_at: "2026-03-30T02:05:53.816Z"
 ---
 
 # § 1736r. Trade negotiations policy

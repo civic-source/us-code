@@ -3,9 +3,9 @@ title: "Section 8298 - Limitations of time"
 usc_title: 10
 usc_section: "8298"
 chapter: 837
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 8298"
-generated_at: "2026-03-30T02:02:21.333Z"
+generated_at: "2026-03-30T02:06:00.241Z"
 ---
 
 # § 8298. Limitations of time

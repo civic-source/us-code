@@ -3,9 +3,9 @@ title: "Section 6002 - Statement of policy"
 usc_title: 22
 usc_section: "6002"
 chapter: 69
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 6002"
-generated_at: "2026-03-30T02:03:33.102Z"
+generated_at: "2026-03-30T02:06:45.911Z"
 ---
 
 # § 6002. Statement of policy

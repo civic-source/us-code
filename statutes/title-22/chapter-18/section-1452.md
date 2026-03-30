@@ -3,9 +3,9 @@ title: "Section 1452 - Status and allowances of assigned personnel"
 usc_title: 22
 usc_section: "1452"
 chapter: 18
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 1452"
-generated_at: "2026-03-30T02:03:32.999Z"
+generated_at: "2026-03-30T02:06:45.812Z"
 ---
 
 # § 1452. Status and allowances of assigned personnel

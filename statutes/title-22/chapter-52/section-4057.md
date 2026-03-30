@@ -3,9 +3,9 @@ title: "Section 4057 - Extra credit for service at unhealthful posts"
 usc_title: 22
 usc_section: "4057"
 chapter: 52
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4057"
-generated_at: "2026-03-30T02:03:33.082Z"
+generated_at: "2026-03-30T02:06:45.891Z"
 ---
 
 # § 4057. Extra credit for service at unhealthful posts

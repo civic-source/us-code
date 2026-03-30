@@ -3,9 +3,9 @@ title: "Section 1578 - Authorization of appropriations"
 usc_title: 43
 usc_section: "1578"
 chapter: 32
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 1578"
-generated_at: "2026-03-30T02:05:01.515Z"
+generated_at: "2026-03-30T02:07:14.942Z"
 ---
 
 # § 1578. Authorization of appropriations

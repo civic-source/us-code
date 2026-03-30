@@ -3,9 +3,9 @@ title: "Section 556 - Administration"
 usc_title: 30
 usc_section: "556"
 chapter: 13
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "30 U.S.C. § 556"
-generated_at: "2026-03-30T02:04:10.738Z"
+generated_at: "2026-03-30T02:06:48.455Z"
 ---
 
 # § 556. Administration

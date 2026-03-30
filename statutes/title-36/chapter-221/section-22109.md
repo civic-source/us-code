@@ -3,9 +3,9 @@ title: "Section 22109 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "22109"
 chapter: 221
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 22109"
-generated_at: "2026-03-30T02:04:50.393Z"
+generated_at: "2026-03-30T02:07:11.745Z"
 ---
 
 # § 22109. Liability for acts of officers and agents

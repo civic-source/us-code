@@ -3,9 +3,9 @@ title: "Section 5000C - Imposition of tax on certain foreign procurement"
 usc_title: 26
 usc_section: "5000C"
 chapter: 50
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 5000C"
-generated_at: "2026-03-30T02:04:09.283Z"
+generated_at: "2026-03-30T02:06:56.596Z"
 ---
 
 # § 5000C. Imposition of tax on certain foreign procurement

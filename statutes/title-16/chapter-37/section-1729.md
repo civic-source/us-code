@@ -3,9 +3,9 @@ title: "Section 1729 - Funding"
 usc_title: 16
 usc_section: "1729"
 chapter: 37
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 1729"
-generated_at: "2026-03-30T02:03:24.050Z"
+generated_at: "2026-03-30T02:06:17.244Z"
 ---
 
 # § 1729. Funding

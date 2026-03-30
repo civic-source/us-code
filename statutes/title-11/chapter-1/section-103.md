@@ -3,9 +3,9 @@ title: "Section 103 - Applicability of chapters"
 usc_title: 11
 usc_section: "103"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-30T02:02:29.593Z"
+generated_at: "2026-03-30T02:06:02.536Z"
 ---
 
 # § 103. Applicability of chapters

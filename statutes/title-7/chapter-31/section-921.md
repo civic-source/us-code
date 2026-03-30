@@ -3,9 +3,9 @@ title: "Section 921 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "921"
 chapter: 31
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 921"
-generated_at: "2026-03-30T02:02:15.383Z"
+generated_at: "2026-03-30T02:05:53.777Z"
 ---
 
 # § 921. Congressional declaration of policy

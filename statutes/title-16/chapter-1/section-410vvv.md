@@ -3,9 +3,9 @@ title: "Section 410vvv - Oregon Caves National Monument and Preserve"
 usc_title: 16
 usc_section: "410vvv"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 410vvv"
-generated_at: "2026-03-30T02:03:23.878Z"
+generated_at: "2026-03-30T02:06:17.090Z"
 ---
 
 # § 410vvv. Oregon Caves National Monument and Preserve

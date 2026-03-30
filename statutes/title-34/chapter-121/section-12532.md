@@ -3,9 +3,9 @@ title: "Section 12532 - Gang investigation coordination and information collecti
 usc_title: 34
 usc_section: "12532"
 chapter: 121
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 12532"
-generated_at: "2026-03-30T02:04:47.297Z"
+generated_at: "2026-03-30T02:06:59.546Z"
 ---
 
 # § 12532. Gang investigation coordination and information collection

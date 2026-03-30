@@ -3,9 +3,9 @@ title: "Section 12897 - Limitation on selection criteria"
 usc_title: 42
 usc_section: "12897"
 chapter: 130
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 12897"
-generated_at: "2026-03-30T02:05:19.114Z"
+generated_at: "2026-03-30T02:07:28.113Z"
 ---
 
 # § 12897. Limitation on selection criteria

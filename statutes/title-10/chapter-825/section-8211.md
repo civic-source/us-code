@@ -3,9 +3,9 @@ title: "Section 8211 - Navy Regulations"
 usc_title: 10
 usc_section: "8211"
 chapter: 825
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 8211"
-generated_at: "2026-03-30T02:02:21.332Z"
+generated_at: "2026-03-30T02:06:00.240Z"
 ---
 
 # § 8211. Navy Regulations

@@ -3,9 +3,9 @@ title: "Section 45B - Credit for portion of employer social security taxes paid 
 usc_title: 26
 usc_section: "45B"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 45B"
-generated_at: "2026-03-30T02:04:09.088Z"
+generated_at: "2026-03-30T02:06:56.410Z"
 ---
 
 # § 45B. Credit for portion of employer social security taxes paid with respect to employee cash tips

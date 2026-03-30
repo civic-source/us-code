@@ -3,9 +3,9 @@ title: "Section 3744 - Recommendation for promotion of an officer previously rem
 usc_title: 14
 usc_section: "3744"
 chapter: 37
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "14 U.S.C. § 3744"
-generated_at: "2026-03-30T02:02:29.079Z"
+generated_at: "2026-03-30T02:06:05.174Z"
 ---
 
 # § 3744. Recommendation for promotion of an officer previously removed from an active status

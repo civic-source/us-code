@@ -3,9 +3,9 @@ title: "Section 78j - Manipulative and deceptive devices"
 usc_title: 15
 usc_section: "78j"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 78j"
-generated_at: "2026-03-30T02:02:33.154Z"
+generated_at: "2026-03-30T02:06:09.658Z"
 ---
 
 # § 78j. Manipulative and deceptive devices

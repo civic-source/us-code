@@ -3,9 +3,9 @@ title: "Section 154504 - Membership"
 usc_title: 36
 usc_section: "154504"
 chapter: 1545
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 154504"
-generated_at: "2026-03-30T02:04:50.405Z"
+generated_at: "2026-03-30T02:07:11.760Z"
 ---
 
 # § 154504. Membership

@@ -3,9 +3,9 @@ title: "Section 44 - Sale of transfers or copies of data"
 usc_title: 43
 usc_section: "44"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 44"
-generated_at: "2026-03-30T02:05:01.480Z"
+generated_at: "2026-03-30T02:07:14.898Z"
 ---
 
 # § 44. Sale of transfers or copies of data

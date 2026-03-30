@@ -3,9 +3,9 @@ title: "Section 433 - Minimum funding standards for CSEC plans"
 usc_title: 26
 usc_section: "433"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 433"
-generated_at: "2026-03-30T02:04:09.173Z"
+generated_at: "2026-03-30T02:06:56.492Z"
 ---
 
 # § 433. Minimum funding standards for CSEC plans

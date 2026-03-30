@@ -3,9 +3,9 @@ title: "Section 2104 - Administrative provisions"
 usc_title: 44
 usc_section: "2104"
 chapter: 21
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "44 U.S.C. § 2104"
-generated_at: "2026-03-30T02:05:00.394Z"
+generated_at: "2026-03-30T02:07:14.199Z"
 ---
 
 # § 2104. Administrative provisions

@@ -3,9 +3,9 @@ title: "Section 573 - Convening of selection boards"
 usc_title: 10
 usc_section: "573"
 chapter: 33
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 573"
-generated_at: "2026-03-30T02:02:21.203Z"
+generated_at: "2026-03-30T02:06:00.109Z"
 ---
 
 # § 573. Convening of selection boards

@@ -3,9 +3,9 @@ title: "Section 6301 - Imposition of procurement sanction on persons engaging in
 usc_title: 22
 usc_section: "6301"
 chapter: 72
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 6301"
-generated_at: "2026-03-30T02:03:33.107Z"
+generated_at: "2026-03-30T02:06:45.917Z"
 ---
 
 # § 6301. Imposition of procurement sanction on persons engaging in export activities that contribute to proliferation

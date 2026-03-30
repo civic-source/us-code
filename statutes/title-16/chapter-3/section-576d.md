@@ -3,9 +3,9 @@ title: "Section 576d - Expenditure of Supplemental National Forest Reforestation
 usc_title: 16
 usc_section: "576d"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 576d"
-generated_at: "2026-03-30T02:03:23.957Z"
+generated_at: "2026-03-30T02:06:17.159Z"
 ---
 
 # § 576d. Expenditure of Supplemental National Forest Reforestation Fund moneys; availability of moneys from other sources unaffected

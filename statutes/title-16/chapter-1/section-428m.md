@@ -3,9 +3,9 @@ title: "Section 428m - Authorization of appropriation"
 usc_title: 16
 usc_section: "428m"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 428m"
-generated_at: "2026-03-30T02:03:23.886Z"
+generated_at: "2026-03-30T02:06:17.097Z"
 ---
 
 # § 428m. Authorization of appropriation

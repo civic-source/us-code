@@ -3,9 +3,9 @@ title: "Section 233a - Annual report on force structure changes exhibit for the 
 usc_title: 10
 usc_section: "233a"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 233a"
-generated_at: "2026-03-30T02:02:21.190Z"
+generated_at: "2026-03-30T02:06:00.094Z"
 ---
 
 # § 233a. Annual report on force structure changes exhibit for the defense budget

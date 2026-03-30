@@ -3,9 +3,9 @@ title: "Section 22311 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "22311"
 chapter: 223
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 22311"
-generated_at: "2026-03-30T02:04:50.393Z"
+generated_at: "2026-03-30T02:07:11.746Z"
 ---
 
 # § 22311. Liability for acts of officers and agents

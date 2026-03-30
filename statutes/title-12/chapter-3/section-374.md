@@ -3,9 +3,9 @@ title: "Section 374 - Acting as agent for nonmember bank in getting discounts fr
 usc_title: 12
 usc_section: "374"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 374"
-generated_at: "2026-03-30T02:02:59.585Z"
+generated_at: "2026-03-30T02:06:06.970Z"
 ---
 
 # § 374. Acting as agent for nonmember bank in getting discounts from reserve bank

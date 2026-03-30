@@ -3,9 +3,9 @@ title: "Section 4062 - Unfunded liability obligations"
 usc_title: 22
 usc_section: "4062"
 chapter: 52
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4062"
-generated_at: "2026-03-30T02:03:33.082Z"
+generated_at: "2026-03-30T02:06:45.891Z"
 ---
 
 # § 4062. Unfunded liability obligations

@@ -3,9 +3,9 @@ title: "Section 4325 - Enforcement of rights with respect to certain Federal age
 usc_title: 38
 usc_section: "4325"
 chapter: 43
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 4325"
-generated_at: "2026-03-30T02:04:57.988Z"
+generated_at: "2026-03-30T02:07:10.038Z"
 ---
 
 # § 4325. Enforcement of rights with respect to certain Federal agencies

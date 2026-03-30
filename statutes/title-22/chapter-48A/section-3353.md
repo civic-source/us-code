@@ -3,9 +3,9 @@ title: "Section 3353 - International military education and training cooperation
 usc_title: 22
 usc_section: "3353"
 chapter: 48
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 3353"
-generated_at: "2026-03-30T02:03:33.068Z"
+generated_at: "2026-03-30T02:06:45.875Z"
 ---
 
 # § 3353. International military education and training cooperation with Taiwan

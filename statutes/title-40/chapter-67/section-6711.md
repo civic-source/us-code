@@ -3,9 +3,9 @@ title: "Section 6711 - Definition"
 usc_title: 40
 usc_section: "6711"
 chapter: 67
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "40 U.S.C. § 6711"
-generated_at: "2026-03-30T02:04:49.334Z"
+generated_at: "2026-03-30T02:07:07.757Z"
 ---
 
 # § 6711. Definition

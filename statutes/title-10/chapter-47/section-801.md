@@ -3,9 +3,9 @@ title: "Section 801 - Article 1. Definitions"
 usc_title: 10
 usc_section: "801"
 chapter: 47
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 801"
-generated_at: "2026-03-30T02:02:21.212Z"
+generated_at: "2026-03-30T02:06:00.117Z"
 ---
 
 # § 801. Article 1. Definitions

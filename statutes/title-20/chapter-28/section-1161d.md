@@ -3,9 +3,9 @@ title: "Section 1161d - Capacity for nursing students and faculty"
 usc_title: 20
 usc_section: "1161d"
 chapter: 28
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 1161d"
-generated_at: "2026-03-30T02:03:15.796Z"
+generated_at: "2026-03-30T02:06:31.492Z"
 ---
 
 # § 1161d. Capacity for nursing students and faculty

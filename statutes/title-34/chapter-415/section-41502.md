@@ -3,9 +3,9 @@ title: "Section 41502 - Morgan P. Hardiman Child Abduction and Serial Murder Inv
 usc_title: 34
 usc_section: "41502"
 chapter: 415
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 41502"
-generated_at: "2026-03-30T02:04:47.320Z"
+generated_at: "2026-03-30T02:06:59.572Z"
 ---
 
 # § 41502. Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center

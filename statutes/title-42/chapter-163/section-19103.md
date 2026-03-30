@@ -3,9 +3,9 @@ title: "Section 19103 - Activities"
 usc_title: 42
 usc_section: "19103"
 chapter: 163
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 19103"
-generated_at: "2026-03-30T02:05:19.210Z"
+generated_at: "2026-03-30T02:07:28.222Z"
 ---
 
 # § 19103. Activities

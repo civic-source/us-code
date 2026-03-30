@@ -3,9 +3,9 @@ title: "Section 1216 - Other matters within the jurisdiction of the Office of Sp
 usc_title: 5
 usc_section: "1216"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "5 U.S.C. § 1216"
-generated_at: "2026-03-30T02:02:07.862Z"
+generated_at: "2026-03-30T02:05:47.782Z"
 ---
 
 # § 1216. Other matters within the jurisdiction of the Office of Special Counsel

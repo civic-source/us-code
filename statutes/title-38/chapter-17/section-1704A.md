@@ -3,9 +3,9 @@ title: "Section 1704A - Independent assessments of health care delivery systems 
 usc_title: 38
 usc_section: "1704A"
 chapter: 17
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 1704A"
-generated_at: "2026-03-30T02:04:57.952Z"
+generated_at: "2026-03-30T02:07:09.995Z"
 ---
 
 # § 1704A. Independent assessments of health care delivery systems and management processes

@@ -3,9 +3,9 @@ title: "Section 376 - Rate of interest paid to directors, etc."
 usc_title: 12
 usc_section: "376"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 376"
-generated_at: "2026-03-30T02:02:59.585Z"
+generated_at: "2026-03-30T02:06:06.971Z"
 ---
 
 # § 376. Rate of interest paid to directors, etc.

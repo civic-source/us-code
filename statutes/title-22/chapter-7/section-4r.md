@@ -3,9 +3,9 @@ title: "Section 4r - Use of authority of United States Executive Directors"
 usc_title: 22
 usc_section: "4r"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4r"
-generated_at: "2026-03-30T02:03:32.973Z"
+generated_at: "2026-03-30T02:06:45.787Z"
 ---
 
 # § 262p–4r. Use of authority of United States Executive Directors

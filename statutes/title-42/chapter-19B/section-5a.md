@@ -3,9 +3,9 @@ title: "Section 5a - Reimbursement to States"
 usc_title: 42
 usc_section: "5a"
 chapter: 19
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-30T02:05:18.837Z"
+generated_at: "2026-03-30T02:07:27.796Z"
 ---
 
 # § 1962d–5a. Reimbursement to States

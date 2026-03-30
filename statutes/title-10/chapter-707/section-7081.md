@@ -3,9 +3,9 @@ title: "Section 7081 - Dental Corps: Chief, functions"
 usc_title: 10
 usc_section: "7081"
 chapter: 707
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 7081"
-generated_at: "2026-03-30T02:02:21.323Z"
+generated_at: "2026-03-30T02:06:00.231Z"
 ---
 
 # § 7081. Dental Corps: Chief, functions

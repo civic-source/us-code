@@ -3,9 +3,9 @@ title: "Section 8336a - Phased retirement"
 usc_title: 5
 usc_section: "8336a"
 chapter: 83
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "5 U.S.C. § 8336a"
-generated_at: "2026-03-30T02:02:07.897Z"
+generated_at: "2026-03-30T02:05:47.819Z"
 ---
 
 # § 8336a. Phased retirement

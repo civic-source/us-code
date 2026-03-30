@@ -3,9 +3,9 @@ title: "Section 966 - Right of way in Arkansas to pipe-line companies"
 usc_title: 43
 usc_section: "966"
 chapter: 22
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 966"
-generated_at: "2026-03-30T02:05:01.506Z"
+generated_at: "2026-03-30T02:07:14.930Z"
 ---
 
 # § 966. Right of way in Arkansas to pipe-line companies

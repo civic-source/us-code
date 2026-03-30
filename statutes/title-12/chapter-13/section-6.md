@@ -3,9 +3,9 @@ title: "Section 6 - Secondary mortgages held by State or local governmental agen
 usc_title: 12
 usc_section: "6"
 chapter: 13
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T02:02:59.634Z"
+generated_at: "2026-03-30T02:06:07.016Z"
 ---
 
 # § 1735f–6. Secondary mortgages held by State or local governmental agency on insured properties

@@ -3,9 +3,9 @@ title: "Section 58a - Transferred"
 usc_title: 2
 usc_section: "58a"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 58a"
-generated_at: "2026-03-30T02:02:05.527Z"
+generated_at: "2026-03-30T02:05:44.625Z"
 ---
 
 # § 58a. Transferred

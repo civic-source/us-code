@@ -3,9 +3,9 @@ title: "Section 2326g - Beneficial use of dredged material; dredged material man
 usc_title: 33
 usc_section: "2326g"
 chapter: 36
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 2326g"
-generated_at: "2026-03-30T02:04:35.825Z"
+generated_at: "2026-03-30T02:07:02.037Z"
 ---
 
 # § 2326g. Beneficial use of dredged material; dredged material management plans

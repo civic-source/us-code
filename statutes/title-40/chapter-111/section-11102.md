@@ -3,9 +3,9 @@ title: "Section 11102 - Sense of Congress"
 usc_title: 40
 usc_section: "11102"
 chapter: 111
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "40 U.S.C. § 11102"
-generated_at: "2026-03-30T02:04:49.337Z"
+generated_at: "2026-03-30T02:07:07.760Z"
 ---
 
 # § 11102. Sense of Congress

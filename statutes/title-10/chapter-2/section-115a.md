@@ -3,9 +3,9 @@ title: "Section 115a - Annual defense manpower profile report and related report
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-30T02:02:21.177Z"
+generated_at: "2026-03-30T02:06:00.081Z"
 ---
 
 # § 115a. Annual defense manpower profile report and related reports

@@ -3,9 +3,9 @@ title: "Section 120103 - National Heritage Area studies and designation"
 usc_title: 54
 usc_section: "120103"
 chapter: 1201
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "54 U.S.C. § 120103"
-generated_at: "2026-03-30T02:05:31.611Z"
+generated_at: "2026-03-30T02:07:41.103Z"
 ---
 
 # § 120103. National Heritage Area studies and designation

@@ -3,9 +3,9 @@ title: "Section 1772e - Data standards"
 usc_title: 12
 usc_section: "1772e"
 chapter: 14
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 1772e"
-generated_at: "2026-03-30T02:02:59.642Z"
+generated_at: "2026-03-30T02:06:07.023Z"
 ---
 
 # § 1772e. Data standards

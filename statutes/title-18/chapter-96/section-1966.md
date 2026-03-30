@@ -3,9 +3,9 @@ title: "Section 1966 - Expedition of actions"
 usc_title: 18
 usc_section: "1966"
 chapter: 96
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "18 U.S.C. § 1966"
-generated_at: "2026-03-30T02:03:17.360Z"
+generated_at: "2026-03-30T02:06:19.225Z"
 ---
 
 # § 1966. Expedition of actions

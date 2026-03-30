@@ -3,9 +3,9 @@ title: "Section 220308 - Restrictions"
 usc_title: 36
 usc_section: "220308"
 chapter: 2203
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 220308"
-generated_at: "2026-03-30T02:04:50.407Z"
+generated_at: "2026-03-30T02:07:11.762Z"
 ---
 
 # § 220308. Restrictions

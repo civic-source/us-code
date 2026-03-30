@@ -3,9 +3,9 @@ title: "Section 3021 - Purpose and program"
 usc_title: 42
 usc_section: "3021"
 chapter: 35
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 3021"
-generated_at: "2026-03-30T02:05:18.874Z"
+generated_at: "2026-03-30T02:07:27.839Z"
 ---
 
 # § 3021. Purpose and program

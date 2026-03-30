@@ -3,9 +3,9 @@ title: "Section 17256 - University based research and development grant program"
 usc_title: 42
 usc_section: "17256"
 chapter: 152
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 17256"
-generated_at: "2026-03-30T02:05:19.177Z"
+generated_at: "2026-03-30T02:07:28.184Z"
 ---
 
 # § 17256. University based research and development grant program

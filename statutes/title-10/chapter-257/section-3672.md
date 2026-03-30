@@ -3,9 +3,9 @@ title: "Section 3672 - Requirement of specific authorization by law for appropri
 usc_title: 10
 usc_section: "3672"
 chapter: 257
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 3672"
-generated_at: "2026-03-30T02:02:21.305Z"
+generated_at: "2026-03-30T02:06:00.212Z"
 ---
 
 # § 3672. Requirement of specific authorization by law for appropriation, and for obligation and expenditure, of funds for certain contracts relating to aircraft, naval vessels, and combat vehicles

@@ -3,9 +3,9 @@ title: "Section 3863 - Retention of amounts collected from contractor during the
 usc_title: 10
 usc_section: "3863"
 chapter: 281
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 3863"
-generated_at: "2026-03-30T02:02:21.308Z"
+generated_at: "2026-03-30T02:06:00.215Z"
 ---
 
 # § 3863. Retention of amounts collected from contractor during the pendency of contract dispute

@@ -3,9 +3,9 @@ title: "Section 433b - Administration, protection, and development"
 usc_title: 16
 usc_section: "433b"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 433b"
-generated_at: "2026-03-30T02:03:23.891Z"
+generated_at: "2026-03-30T02:06:17.101Z"
 ---
 
 # § 433b. Administration, protection, and development

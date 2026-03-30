@@ -3,9 +3,9 @@ title: "Section 214 - Presentation of United States flag upon retirement"
 usc_title: 42
 usc_section: "214"
 chapter: 6
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 214"
-generated_at: "2026-03-30T02:05:18.427Z"
+generated_at: "2026-03-30T02:07:27.341Z"
 ---
 
 # § 214. Presentation of United States flag upon retirement

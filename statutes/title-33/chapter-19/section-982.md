@@ -3,9 +3,9 @@ title: "Section 982 - Management of Corporation; appointment of Administrator; t
 usc_title: 33
 usc_section: "982"
 chapter: 19
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 982"
-generated_at: "2026-03-30T02:04:35.785Z"
+generated_at: "2026-03-30T02:07:01.988Z"
 ---
 
 # § 982. Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties; compensation and expenses

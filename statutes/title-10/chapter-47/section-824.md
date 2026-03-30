@@ -3,9 +3,9 @@ title: "Section 824 - Art. 24. Who may convene summary courts-martial"
 usc_title: 10
 usc_section: "824"
 chapter: 47
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 824"
-generated_at: "2026-03-30T02:02:21.213Z"
+generated_at: "2026-03-30T02:06:00.119Z"
 ---
 
 # § 824. Art. 24. Who may convene summary courts-martial

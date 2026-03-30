@@ -3,9 +3,9 @@ title: "Section 1769 - Existing right-of-way or right-of-use unaffected; excepti
 usc_title: 43
 usc_section: "1769"
 chapter: 35
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 1769"
-generated_at: "2026-03-30T02:05:01.529Z"
+generated_at: "2026-03-30T02:07:14.961Z"
 ---
 
 # § 1769. Existing right-of-way or right-of-use unaffected; exceptions; rights-of-way for railroad and appurtenant communication facilities; applicability of existing terms and conditions

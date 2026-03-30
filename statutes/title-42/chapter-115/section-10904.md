@@ -3,9 +3,9 @@ title: "Section 10904 - Annual report by States; contents; manner of payments pu
 usc_title: 42
 usc_section: "10904"
 chapter: 115
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 10904"
-generated_at: "2026-03-30T02:05:19.076Z"
+generated_at: "2026-03-30T02:07:28.069Z"
 ---
 
 # § 10904. Annual report by States; contents; manner of payments pursuant to grants

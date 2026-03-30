@@ -3,9 +3,9 @@ title: "Section 460ffff - Definitions"
 usc_title: 16
 usc_section: "460ffff"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 460ffff"
-generated_at: "2026-03-30T02:03:23.936Z"
+generated_at: "2026-03-30T02:06:17.139Z"
 ---
 
 # § 460ffff. Definitions

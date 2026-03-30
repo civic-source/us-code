@@ -3,9 +3,9 @@ title: "Section 1437 - Sense of Senate regarding adoption of simplified and stre
 usc_title: 2
 usc_section: "1437"
 chapter: 24
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 1437"
-generated_at: "2026-03-30T02:02:05.556Z"
+generated_at: "2026-03-30T02:05:44.654Z"
 ---
 
 # § 1437. Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions

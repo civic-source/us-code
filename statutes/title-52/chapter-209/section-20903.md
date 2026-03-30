@@ -3,9 +3,9 @@ title: "Section 20903 - Guaranteed minimum payment amount"
 usc_title: 52
 usc_section: "20903"
 chapter: 209
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "52 U.S.C. § 20903"
-generated_at: "2026-03-30T02:05:31.287Z"
+generated_at: "2026-03-30T02:07:40.797Z"
 ---
 
 # § 20903. Guaranteed minimum payment amount

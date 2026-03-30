@@ -3,9 +3,9 @@ title: "Section 2763 - Compensatory absence from duty for military personnel at 
 usc_title: 14
 usc_section: "2763"
 chapter: 27
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "14 U.S.C. § 2763"
-generated_at: "2026-03-30T02:02:29.077Z"
+generated_at: "2026-03-30T02:06:05.172Z"
 ---
 
 # § 2763. Compensatory absence from duty for military personnel at isolated duty stations

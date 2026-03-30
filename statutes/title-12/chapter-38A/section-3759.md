@@ -3,9 +3,9 @@ title: "Section 3759 - Presale reinstatement"
 usc_title: 12
 usc_section: "3759"
 chapter: 38
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 3759"
-generated_at: "2026-03-30T02:02:59.702Z"
+generated_at: "2026-03-30T02:06:07.081Z"
 ---
 
 # § 3759. Presale reinstatement

@@ -3,9 +3,9 @@ title: "Section 8564 - Report and imposition of sanctions with respect to foreig
 usc_title: 22
 usc_section: "8564"
 chapter: 92
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 8564"
-generated_at: "2026-03-30T02:03:33.138Z"
+generated_at: "2026-03-30T02:06:45.946Z"
 ---
 
 # § 8564. Report and imposition of sanctions with respect to foreign financial institutions conducting significant transactions with persons responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran

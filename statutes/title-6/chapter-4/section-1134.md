@@ -3,9 +3,9 @@ title: "Section 1134 - Security assessments and plans"
 usc_title: 6
 usc_section: "1134"
 chapter: 4
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "6 U.S.C. § 1134"
-generated_at: "2026-03-30T02:02:11.837Z"
+generated_at: "2026-03-30T02:05:54.606Z"
 ---
 
 # § 1134. Security assessments and plans

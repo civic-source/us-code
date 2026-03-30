@@ -3,9 +3,9 @@ title: "Section 205 - Termination of conservatorship"
 usc_title: 12
 usc_section: "205"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 205"
-generated_at: "2026-03-30T02:02:59.577Z"
+generated_at: "2026-03-30T02:06:06.963Z"
 ---
 
 # § 205. Termination of conservatorship

@@ -3,9 +3,9 @@ title: "Section 1092d - Scholarship fraud assessment and awareness activities"
 usc_title: 20
 usc_section: "1092d"
 chapter: 28
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 1092d"
-generated_at: "2026-03-30T02:03:15.781Z"
+generated_at: "2026-03-30T02:06:31.480Z"
 ---
 
 # § 1092d. Scholarship fraud assessment and awareness activities

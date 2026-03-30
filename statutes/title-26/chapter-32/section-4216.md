@@ -3,9 +3,9 @@ title: "Section 4216 - Definition of price"
 usc_title: 26
 usc_section: "4216"
 chapter: 32
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 4216"
-generated_at: "2026-03-30T02:04:09.268Z"
+generated_at: "2026-03-30T02:06:56.581Z"
 ---
 
 # § 4216. Definition of price

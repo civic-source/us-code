@@ -3,9 +3,9 @@ title: "Section 316l - Stock driveways and free grazing"
 usc_title: 43
 usc_section: "316l"
 chapter: 8
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 316l"
-generated_at: "2026-03-30T02:05:01.484Z"
+generated_at: "2026-03-30T02:07:14.902Z"
 ---
 
 # § 316l. Stock driveways and free grazing

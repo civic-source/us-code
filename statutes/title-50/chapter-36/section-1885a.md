@@ -3,9 +3,9 @@ title: "Section 1885a - Procedures for implementing statutory defenses"
 usc_title: 50
 usc_section: "1885a"
 chapter: 36
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "50 U.S.C. § 1885a"
-generated_at: "2026-03-30T02:05:23.996Z"
+generated_at: "2026-03-30T02:07:38.922Z"
 ---
 
 # § 1885a. Procedures for implementing statutory defenses

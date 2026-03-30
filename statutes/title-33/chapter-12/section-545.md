@@ -3,9 +3,9 @@ title: "Section 545 - Preliminary examinations and reports; surveys; contents of
 usc_title: 33
 usc_section: "545"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 545"
-generated_at: "2026-03-30T02:04:35.766Z"
+generated_at: "2026-03-30T02:07:01.969Z"
 ---
 
 # § 545. Preliminary examinations and reports; surveys; contents of report to Congress generally

@@ -3,9 +3,9 @@ title: "Section 14006 - Determination of years in grade"
 usc_title: 10
 usc_section: "14006"
 chapter: 1401
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 14006"
-generated_at: "2026-03-30T02:02:21.360Z"
+generated_at: "2026-03-30T02:06:00.270Z"
 ---
 
 # § 14006. Determination of years in grade

@@ -3,9 +3,9 @@ title: "Section 2680 - Appropriations for State Department; information to congr
 usc_title: 22
 usc_section: "2680"
 chapter: 38
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 2680"
-generated_at: "2026-03-30T02:03:33.050Z"
+generated_at: "2026-03-30T02:06:45.858Z"
 ---
 
 # § 2680. Appropriations for State Department; information to congressional committees

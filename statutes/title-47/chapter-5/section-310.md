@@ -3,9 +3,9 @@ title: "Section 310 - License ownership restrictions"
 usc_title: 47
 usc_section: "310"
 chapter: 5
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "47 U.S.C. § 310"
-generated_at: "2026-03-30T02:05:22.321Z"
+generated_at: "2026-03-30T02:07:32.880Z"
 ---
 
 # § 310. License ownership restrictions

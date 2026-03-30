@@ -3,9 +3,9 @@ title: "Section 2801 - Purposes"
 usc_title: 33
 usc_section: "2801"
 chapter: 41
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 2801"
-generated_at: "2026-03-30T02:04:35.833Z"
+generated_at: "2026-03-30T02:07:02.048Z"
 ---
 
 # § 2801. Purposes

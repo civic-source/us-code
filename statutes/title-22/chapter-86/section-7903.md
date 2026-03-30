@@ -3,9 +3,9 @@ title: "Section 7903 - Technology inventory for developing countries"
 usc_title: 22
 usc_section: "7903"
 chapter: 86
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 7903"
-generated_at: "2026-03-30T02:03:33.130Z"
+generated_at: "2026-03-30T02:06:45.938Z"
 ---
 
 # § 7903. Technology inventory for developing countries

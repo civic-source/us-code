@@ -3,9 +3,9 @@ title: "Section 6301 - Senators’ salaries"
 usc_title: 2
 usc_section: "6301"
 chapter: 63
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 6301"
-generated_at: "2026-03-30T02:02:05.622Z"
+generated_at: "2026-03-30T02:05:44.676Z"
 ---
 
 # § 6301. Senators’ salaries

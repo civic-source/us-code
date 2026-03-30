@@ -3,9 +3,9 @@ title: "Section 1331 - Administrator; Office of the Administrator"
 usc_title: 17
 usc_section: "1331"
 chapter: 13
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "17 U.S.C. § 1331"
-generated_at: "2026-03-30T02:03:08.111Z"
+generated_at: "2026-03-30T02:06:19.490Z"
 ---
 
 # § 1331. Administrator; Office of the Administrator

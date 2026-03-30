@@ -3,9 +3,9 @@ title: "Section 210 - Precedence of chapter"
 usc_title: 35
 usc_section: "210"
 chapter: 18
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "35 U.S.C. § 210"
-generated_at: "2026-03-30T02:04:39.211Z"
+generated_at: "2026-03-30T02:06:59.841Z"
 ---
 
 # § 210. Precedence of chapter

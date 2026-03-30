@@ -3,9 +3,9 @@ title: "Section 8855 - Forest Service leases and permits"
 usc_title: 42
 usc_section: "8855"
 chapter: 96
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 8855"
-generated_at: "2026-03-30T02:05:19.035Z"
+generated_at: "2026-03-30T02:07:28.023Z"
 ---
 
 # § 8855. Forest Service leases and permits

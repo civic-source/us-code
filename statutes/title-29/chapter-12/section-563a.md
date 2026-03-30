@@ -3,9 +3,9 @@ title: "Section 563a - Repealed. Pub. L. 115–245, div. B, title I, § 117(b)(2
 usc_title: 29
 usc_section: "563a"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "29 U.S.C. § 563a"
-generated_at: "2026-03-30T02:04:18.057Z"
+generated_at: "2026-03-30T02:06:50.319Z"
 ---
 
 # § 563a. Repealed. Pub. L. 115–245, div. B, title I, § 117(b)(2) , Sept. 28, 2018 , 132 Stat. 3067

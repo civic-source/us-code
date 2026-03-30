@@ -3,9 +3,9 @@ title: "Section 4311 - Enforcement"
 usc_title: 22
 usc_section: "4311"
 chapter: 53
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4311"
-generated_at: "2026-03-30T02:03:33.090Z"
+generated_at: "2026-03-30T02:06:45.899Z"
 ---
 
 # § 4311. Enforcement

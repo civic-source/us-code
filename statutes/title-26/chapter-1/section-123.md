@@ -3,9 +3,9 @@ title: "Section 123 - Amounts received under insurance contracts for certain liv
 usc_title: 26
 usc_section: "123"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 123"
-generated_at: "2026-03-30T02:04:09.109Z"
+generated_at: "2026-03-30T02:06:56.431Z"
 ---
 
 # § 123. Amounts received under insurance contracts for certain living expenses

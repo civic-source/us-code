@@ -3,9 +3,9 @@ title: "Section 6046 - Condemnation of Cuban attack on American aircraft"
 usc_title: 22
 usc_section: "6046"
 chapter: 69
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 6046"
-generated_at: "2026-03-30T02:03:33.103Z"
+generated_at: "2026-03-30T02:06:45.913Z"
 ---
 
 # § 6046. Condemnation of Cuban attack on American aircraft

@@ -3,9 +3,9 @@ title: "Section 27 - Omitted"
 usc_title: 25
 usc_section: "27"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "25 U.S.C. § 27"
-generated_at: "2026-03-30T02:03:51.848Z"
+generated_at: "2026-03-30T02:06:35.563Z"
 ---
 
 # § 27. Omitted

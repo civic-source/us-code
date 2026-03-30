@@ -3,9 +3,9 @@ title: "Section 4102 - Definitions"
 usc_title: 22
 usc_section: "4102"
 chapter: 52
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4102"
-generated_at: "2026-03-30T02:03:33.085Z"
+generated_at: "2026-03-30T02:06:45.894Z"
 ---
 
 # § 4102. Definitions

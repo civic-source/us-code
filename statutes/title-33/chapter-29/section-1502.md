@@ -3,9 +3,9 @@ title: "Section 1502 - Definitions"
 usc_title: 33
 usc_section: "1502"
 chapter: 29
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 1502"
-generated_at: "2026-03-30T02:04:35.812Z"
+generated_at: "2026-03-30T02:07:02.019Z"
 ---
 
 # § 1502. Definitions
@@ -19,7 +19,7 @@ In this chapter:
   - **(5)** The term “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including 1 1 So in original. Probably should be preceded by an opening parenthesis. waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources.
   - **(6)** The term “coastal State” means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico.
   - **(7)** The term “construction” means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port.
-  - **(8)** The term.“control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise.
+  - **(8)** The term “control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise.
   - **(9)** The term “deepwater port”—
     - **(A)** means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to or from any State, except as otherwise provided in section 1522 of this title , and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
     - **(B)** includes all components and equipment, including pipelines, pumping stations, service platforms, buoys, mooring lines, and similar facilities to the extent they are located seaward of the high water mark;

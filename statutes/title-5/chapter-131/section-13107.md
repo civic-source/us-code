@@ -3,9 +3,9 @@ title: "Section 13107 - Custody of and public access to reports"
 usc_title: 5
 usc_section: "13107"
 chapter: 131
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "5 U.S.C. § 13107"
-generated_at: "2026-03-30T02:02:07.919Z"
+generated_at: "2026-03-30T02:05:47.842Z"
 ---
 
 # § 13107. Custody of and public access to reports

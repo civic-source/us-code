@@ -3,9 +3,9 @@ title: "Section 2104 - Administration and enforcement of requirements"
 usc_title: 29
 usc_section: "2104"
 chapter: 23
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "29 U.S.C. § 2104"
-generated_at: "2026-03-30T02:04:18.116Z"
+generated_at: "2026-03-30T02:06:50.375Z"
 ---
 
 # § 2104. Administration and enforcement of requirements

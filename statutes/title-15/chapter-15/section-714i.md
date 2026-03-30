@@ -3,9 +3,9 @@ title: "Section 714i - Cooperation with other governmental agencies"
 usc_title: 15
 usc_section: "714i"
 chapter: 15
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 714i"
-generated_at: "2026-03-30T02:02:33.237Z"
+generated_at: "2026-03-30T02:06:09.738Z"
 ---
 
 # § 714i. Cooperation with other governmental agencies

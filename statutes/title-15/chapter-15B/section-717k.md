@@ -3,9 +3,9 @@ title: "Section 717k - Officials dealing in securities"
 usc_title: 15
 usc_section: "717k"
 chapter: 15
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 717k"
-generated_at: "2026-03-30T02:02:33.239Z"
+generated_at: "2026-03-30T02:06:09.740Z"
 ---
 
 # § 717k. Officials dealing in securities

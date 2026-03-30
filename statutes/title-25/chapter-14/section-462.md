@@ -3,9 +3,9 @@ title: "Section 462 - Transferred"
 usc_title: 25
 usc_section: "462"
 chapter: 14
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "25 U.S.C. § 462"
-generated_at: "2026-03-30T02:03:51.871Z"
+generated_at: "2026-03-30T02:06:35.576Z"
 ---
 
 # § 462. Transferred

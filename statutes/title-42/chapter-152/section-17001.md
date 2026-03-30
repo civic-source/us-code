@@ -3,9 +3,9 @@ title: "Section 17001 - Definitions"
 usc_title: 42
 usc_section: "17001"
 chapter: 152
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 17001"
-generated_at: "2026-03-30T02:05:19.167Z"
+generated_at: "2026-03-30T02:07:28.171Z"
 ---
 
 # § 17001. Definitions

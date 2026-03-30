@@ -3,9 +3,9 @@ title: "Section 2734g - Promoting transparency and accountability in the Departm
 usc_title: 22
 usc_section: "2734g"
 chapter: 38
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 2734g"
-generated_at: "2026-03-30T02:03:33.056Z"
+generated_at: "2026-03-30T02:06:45.863Z"
 ---
 
 # § 2734g. Promoting transparency and accountability in the Department of State workforce

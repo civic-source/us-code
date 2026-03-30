@@ -3,9 +3,9 @@ title: "Section 505 - Report to Congress"
 usc_title: 15
 usc_section: "505"
 chapter: 13
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 505"
-generated_at: "2026-03-30T02:02:33.200Z"
+generated_at: "2026-03-30T02:06:09.703Z"
 ---
 
 # § 505. Report to Congress

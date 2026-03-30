@@ -3,9 +3,9 @@ title: "Section 1631 - Ownership of submerged lands"
 usc_title: 43
 usc_section: "1631"
 chapter: 33
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 1631"
-generated_at: "2026-03-30T02:05:01.522Z"
+generated_at: "2026-03-30T02:07:14.952Z"
 ---
 
 # § 1631. Ownership of submerged lands

@@ -3,9 +3,9 @@ title: "Section 1450 - Unlading on Sundays, holidays, or during overtime hours"
 usc_title: 19
 usc_section: "1450"
 chapter: 4
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "19 U.S.C. § 1450"
-generated_at: "2026-03-30T02:03:03.848Z"
+generated_at: "2026-03-30T02:06:21.284Z"
 ---
 
 # § 1450. Unlading on Sundays, holidays, or during overtime hours

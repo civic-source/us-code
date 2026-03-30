@@ -3,9 +3,9 @@ title: "Section 352 - Assignment pay or special duty pay"
 usc_title: 37
 usc_section: "352"
 chapter: 5
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "37 U.S.C. § 352"
-generated_at: "2026-03-30T02:04:51.449Z"
+generated_at: "2026-03-30T02:07:07.162Z"
 ---
 
 # § 352. Assignment pay or special duty pay

@@ -3,9 +3,9 @@ title: "Section 22 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "22"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "21 U.S.C. § 22"
-generated_at: "2026-03-30T02:03:29.550Z"
+generated_at: "2026-03-30T02:06:36.699Z"
 ---
 
 # § 379j–22. Reauthorization; reporting requirements

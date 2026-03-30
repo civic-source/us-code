@@ -3,9 +3,9 @@ title: "Section 288i - Liaison Office of the People’s Republic of China; exten
 usc_title: 22
 usc_section: "288i"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 288i"
-generated_at: "2026-03-30T02:03:32.989Z"
+generated_at: "2026-03-30T02:06:45.802Z"
 ---
 
 # § 288i. Liaison Office of the People’s Republic of China; extension of privileges and immunities to members

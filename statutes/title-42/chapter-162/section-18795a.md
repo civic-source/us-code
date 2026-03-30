@@ -3,9 +3,9 @@ title: "Section 18795a - High-efficiency electric home rebate program"
 usc_title: 42
 usc_section: "18795a"
 chapter: 162
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 18795a"
-generated_at: "2026-03-30T02:05:19.202Z"
+generated_at: "2026-03-30T02:07:28.214Z"
 ---
 
 # § 18795a. High-efficiency electric home rebate program

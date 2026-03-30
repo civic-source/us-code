@@ -3,9 +3,9 @@ title: "Section 1041 - Limitations"
 usc_title: 20
 usc_section: "1041"
 chapter: 28
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 1041"
-generated_at: "2026-03-30T02:03:15.736Z"
+generated_at: "2026-03-30T02:06:31.444Z"
 ---
 
 # § 1041. Limitations

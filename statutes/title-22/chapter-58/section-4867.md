@@ -3,9 +3,9 @@ title: "Section 4867 - Security management training for officials assigned to a 
 usc_title: 22
 usc_section: "4867"
 chapter: 58
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4867"
-generated_at: "2026-03-30T02:03:33.095Z"
+generated_at: "2026-03-30T02:06:45.903Z"
 ---
 
 # § 4867. Security management training for officials assigned to a high risk, high threat post

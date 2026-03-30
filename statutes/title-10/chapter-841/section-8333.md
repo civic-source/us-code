@@ -3,9 +3,9 @@ title: "Section 8333 - Computation of retired and retainer pay"
 usc_title: 10
 usc_section: "8333"
 chapter: 841
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 8333"
-generated_at: "2026-03-30T02:02:21.334Z"
+generated_at: "2026-03-30T02:06:00.242Z"
 ---
 
 # § 8333. Computation of retired and retainer pay

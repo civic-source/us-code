@@ -3,9 +3,9 @@ title: "Section 10553 - Annual report to Congress; grant accountability"
 usc_title: 34
 usc_section: "10553"
 chapter: 101
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 10553"
-generated_at: "2026-03-30T02:04:47.280Z"
+generated_at: "2026-03-30T02:06:59.528Z"
 ---
 
 # § 10553. Annual report to Congress; grant accountability

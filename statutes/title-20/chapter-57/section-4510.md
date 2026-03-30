@@ -3,9 +3,9 @@ title: "Section 4510 - James Madison Memorial Fellowship Trust Fund"
 usc_title: 20
 usc_section: "4510"
 chapter: 57
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 4510"
-generated_at: "2026-03-30T02:03:15.840Z"
+generated_at: "2026-03-30T02:06:31.527Z"
 ---
 
 # § 4510. James Madison Memorial Fellowship Trust Fund

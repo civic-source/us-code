@@ -3,9 +3,9 @@ title: "Section 7252 - Delegation"
 usc_title: 42
 usc_section: "7252"
 chapter: 84
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 7252"
-generated_at: "2026-03-30T02:05:18.978Z"
+generated_at: "2026-03-30T02:07:27.958Z"
 ---
 
 # § 7252. Delegation

@@ -3,9 +3,9 @@ title: "Section 6374b - Alternative fuels bus program"
 usc_title: 42
 usc_section: "6374b"
 chapter: 77
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 6374b"
-generated_at: "2026-03-30T02:05:18.955Z"
+generated_at: "2026-03-30T02:07:27.931Z"
 ---
 
 # § 6374b. Alternative fuels bus program

@@ -3,9 +3,9 @@ title: "Section 240109 - Records and inspection"
 usc_title: 36
 usc_section: "240109"
 chapter: 2401
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 240109"
-generated_at: "2026-03-30T02:04:50.410Z"
+generated_at: "2026-03-30T02:07:11.765Z"
 ---
 
 # § 240109. Records and inspection

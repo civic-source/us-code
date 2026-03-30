@@ -3,9 +3,9 @@ title: "Section 5196g - Guidance and training by FEMA on coordination of emergen
 usc_title: 42
 usc_section: "5196g"
 chapter: 68
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 5196g"
-generated_at: "2026-03-30T02:05:18.926Z"
+generated_at: "2026-03-30T02:07:27.897Z"
 ---
 
 # § 5196g. Guidance and training by FEMA on coordination of emergency response plans

@@ -3,9 +3,9 @@ title: "Section 10530 - Patrick Leahy Bulletproof Vest Partnership Grant Program
 usc_title: 34
 usc_section: "10530"
 chapter: 101
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 10530"
-generated_at: "2026-03-30T02:04:47.279Z"
+generated_at: "2026-03-30T02:06:59.527Z"
 ---
 
 # § 10530. Patrick Leahy Bulletproof Vest Partnership Grant Program

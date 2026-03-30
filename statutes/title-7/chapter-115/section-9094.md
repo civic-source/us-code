@@ -3,9 +3,9 @@ title: "Section 9094 - Assignment of payments"
 usc_title: 7
 usc_section: "9094"
 chapter: 115
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 9094"
-generated_at: "2026-03-30T02:02:15.537Z"
+generated_at: "2026-03-30T02:05:53.938Z"
 ---
 
 # § 9094. Assignment of payments

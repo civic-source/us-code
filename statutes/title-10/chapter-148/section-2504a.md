@@ -3,9 +3,9 @@ title: "Section 2504a - Renumbered § 4815]"
 usc_title: 10
 usc_section: "2504a"
 chapter: 148
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 2504a"
-generated_at: "2026-03-30T02:02:21.281Z"
+generated_at: "2026-03-30T02:06:00.186Z"
 ---
 
 # [§ 2504a. Renumbered § 4815]

@@ -3,9 +3,9 @@ title: "Section 10316 - Trusts"
 usc_title: 46
 usc_section: "10316"
 chapter: 103
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "46 U.S.C. § 10316"
-generated_at: "2026-03-30T02:05:26.022Z"
+generated_at: "2026-03-30T02:07:32.049Z"
 ---
 
 # § 10316. Trusts

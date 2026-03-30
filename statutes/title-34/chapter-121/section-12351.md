@@ -3,9 +3,9 @@ title: "Section 12351 - Transitional housing assistance grants for victims of do
 usc_title: 34
 usc_section: "12351"
 chapter: 121
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "34 U.S.C. § 12351"
-generated_at: "2026-03-30T02:04:47.293Z"
+generated_at: "2026-03-30T02:06:59.542Z"
 ---
 
 # § 12351. Transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking

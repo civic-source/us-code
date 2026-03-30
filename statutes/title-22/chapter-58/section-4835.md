@@ -3,9 +3,9 @@ title: "Section 4835 - Relation to other proceedings"
 usc_title: 22
 usc_section: "4835"
 chapter: 58
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 4835"
-generated_at: "2026-03-30T02:03:33.094Z"
+generated_at: "2026-03-30T02:06:45.902Z"
 ---
 
 # § 4835. Relation to other proceedings

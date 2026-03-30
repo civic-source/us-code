@@ -3,9 +3,9 @@ title: "Section 21b - Extension of certain laws to park"
 usc_title: 16
 usc_section: "21b"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 21b"
-generated_at: "2026-03-30T02:03:23.832Z"
+generated_at: "2026-03-30T02:06:17.047Z"
 ---
 
 # § 21b. Extension of certain laws to park

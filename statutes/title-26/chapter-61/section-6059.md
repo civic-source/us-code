@@ -3,9 +3,9 @@ title: "Section 6059 - Periodic report of actuary"
 usc_title: 26
 usc_section: "6059"
 chapter: 61
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 6059"
-generated_at: "2026-03-30T02:04:09.301Z"
+generated_at: "2026-03-30T02:06:56.616Z"
 ---
 
 # § 6059. Periodic report of actuary

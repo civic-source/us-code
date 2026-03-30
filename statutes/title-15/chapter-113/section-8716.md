@@ -3,9 +3,9 @@ title: "Section 8716 - Study and report by the Government Accountability Office"
 usc_title: 15
 usc_section: "8716"
 chapter: 113
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 8716"
-generated_at: "2026-03-30T02:02:33.372Z"
+generated_at: "2026-03-30T02:06:09.862Z"
 ---
 
 # § 8716. Study and report by the Government Accountability Office

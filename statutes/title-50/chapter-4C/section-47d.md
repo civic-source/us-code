@@ -3,9 +3,9 @@ title: "Section 47d - Hearings; rules and regulations; conclusiveness of determi
 usc_title: 50
 usc_section: "47d"
 chapter: 4
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "50 U.S.C. § 47d"
-generated_at: "2026-03-30T02:05:23.982Z"
+generated_at: "2026-03-30T02:07:38.902Z"
 ---
 
 # § 47d. Hearings; rules and regulations; conclusiveness of determinations of Attorney General

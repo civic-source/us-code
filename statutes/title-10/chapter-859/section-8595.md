@@ -3,9 +3,9 @@ title: "Section 8595 - United States Naval Community College: establishment and 
 usc_title: 10
 usc_section: "8595"
 chapter: 859
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 8595"
-generated_at: "2026-03-30T02:02:21.337Z"
+generated_at: "2026-03-30T02:06:00.245Z"
 ---
 
 # § 8595. United States Naval Community College: establishment and degree granting authority

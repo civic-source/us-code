@@ -3,9 +3,9 @@ title: "Section 869 - Underground low- and medium-voltage alternating current ci
 usc_title: 30
 usc_section: "869"
 chapter: 22
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "30 U.S.C. § 869"
-generated_at: "2026-03-30T02:04:10.744Z"
+generated_at: "2026-03-30T02:06:48.460Z"
 ---
 
 # § 869. Underground low- and medium-voltage alternating current circuits

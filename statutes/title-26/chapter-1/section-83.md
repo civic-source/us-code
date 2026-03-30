@@ -3,9 +3,9 @@ title: "Section 83 - Property transferred in connection with performance of serv
 usc_title: 26
 usc_section: "83"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 83"
-generated_at: "2026-03-30T02:04:09.105Z"
+generated_at: "2026-03-30T02:06:56.427Z"
 ---
 
 # § 83. Property transferred in connection with performance of services

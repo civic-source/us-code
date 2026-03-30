@@ -3,9 +3,9 @@ title: "Section 12001 - Finding, purpose, and general authority"
 usc_title: 42
 usc_section: "12001"
 chapter: 125
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 12001"
-generated_at: "2026-03-30T02:05:19.089Z"
+generated_at: "2026-03-30T02:07:28.083Z"
 ---
 
 # § 12001. Finding, purpose, and general authority

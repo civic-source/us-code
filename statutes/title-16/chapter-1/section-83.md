@@ -3,9 +3,9 @@ title: "Section 83 - Authorization of appropriations"
 usc_title: 16
 usc_section: "83"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 83"
-generated_at: "2026-03-30T02:03:23.871Z"
+generated_at: "2026-03-30T02:06:17.083Z"
 ---
 
 # § 410aaa–83. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 5322 - Grants to tribal organizations or tribes"
 usc_title: 25
 usc_section: "5322"
 chapter: 46
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "25 U.S.C. § 5322"
-generated_at: "2026-03-30T02:03:51.926Z"
+generated_at: "2026-03-30T02:06:35.634Z"
 ---
 
 # § 5322. Grants to tribal organizations or tribes

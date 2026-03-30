@@ -3,9 +3,9 @@ title: "Section 350l - Mandatory recall authority"
 usc_title: 21
 usc_section: "350l"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "21 U.S.C. § 350l"
-generated_at: "2026-03-30T02:03:29.497Z"
+generated_at: "2026-03-30T02:06:36.658Z"
 ---
 
 # § 350l. Mandatory recall authority

@@ -3,9 +3,9 @@ title: "Section 3597 - Use of State facilities"
 usc_title: 18
 usc_section: "3597"
 chapter: 228
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "18 U.S.C. § 3597"
-generated_at: "2026-03-30T02:03:17.389Z"
+generated_at: "2026-03-30T02:06:19.246Z"
 ---
 
 # § 3597. Use of State facilities

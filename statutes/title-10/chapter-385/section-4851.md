@@ -3,9 +3,9 @@ title: "Section 4851 - Defense memoranda of understanding and related agreements
 usc_title: 10
 usc_section: "4851"
 chapter: 385
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 4851"
-generated_at: "2026-03-30T02:02:21.319Z"
+generated_at: "2026-03-30T02:06:00.227Z"
 ---
 
 # § 4851. Defense memoranda of understanding and related agreements

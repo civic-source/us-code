@@ -3,9 +3,9 @@ title: "Section 4374 - Unit cost reports: determinations by service acquisition 
 usc_title: 10
 usc_section: "4374"
 chapter: 325
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 4374"
-generated_at: "2026-03-30T02:02:21.314Z"
+generated_at: "2026-03-30T02:06:00.222Z"
 ---
 
 # § 4374. Unit cost reports: determinations by service acquisition executive and secretary concerned of breach of significant cost growth threshold or critical cost growth threshold; reports to Congress

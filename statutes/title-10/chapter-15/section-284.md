@@ -3,9 +3,9 @@ title: "Section 284 - Support for counterdrug activities and activities to count
 usc_title: 10
 usc_section: "284"
 chapter: 15
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 284"
-generated_at: "2026-03-30T02:02:21.193Z"
+generated_at: "2026-03-30T02:06:00.097Z"
 ---
 
 # § 284. Support for counterdrug activities and activities to counter transnational organized crime

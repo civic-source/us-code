@@ -3,9 +3,9 @@ title: "Section 1244 - National scenic and national historic trails"
 usc_title: 16
 usc_section: "1244"
 chapter: 27
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 1244"
-generated_at: "2026-03-30T02:03:24.017Z"
+generated_at: "2026-03-30T02:06:17.211Z"
 ---
 
 # § 1244. National scenic and national historic trails

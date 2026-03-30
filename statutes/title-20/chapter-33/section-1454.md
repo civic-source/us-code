@@ -3,9 +3,9 @@ title: "Section 1454 - Use of funds"
 usc_title: 20
 usc_section: "1454"
 chapter: 33
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 1454"
-generated_at: "2026-03-30T02:03:15.817Z"
+generated_at: "2026-03-30T02:06:31.508Z"
 ---
 
 # § 1454. Use of funds

@@ -3,9 +3,9 @@ title: "Section 731 - Adverse actions against supervisory employees who commit p
 usc_title: 38
 usc_section: "731"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 731"
-generated_at: "2026-03-30T02:04:57.945Z"
+generated_at: "2026-03-30T02:07:09.987Z"
 ---
 
 # § 731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints

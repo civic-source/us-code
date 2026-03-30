@@ -3,9 +3,9 @@ title: "Section 1430 - Married persons and employees of certain nonprofit organi
 usc_title: 8
 usc_section: "1430"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "8 U.S.C. § 1430"
-generated_at: "2026-03-30T02:02:24.228Z"
+generated_at: "2026-03-30T02:05:50.503Z"
 ---
 
 # § 1430. Married persons and employees of certain nonprofit organizations

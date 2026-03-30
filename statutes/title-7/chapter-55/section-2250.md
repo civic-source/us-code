@@ -3,9 +3,9 @@ title: "Section 2250 - Construction and repair of buildings and public improveme
 usc_title: 7
 usc_section: "2250"
 chapter: 55
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 2250"
-generated_at: "2026-03-30T02:02:15.453Z"
+generated_at: "2026-03-30T02:05:53.851Z"
 ---
 
 # § 2250. Construction and repair of buildings and public improvements

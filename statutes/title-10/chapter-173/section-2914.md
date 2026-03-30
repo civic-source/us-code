@@ -3,9 +3,9 @@ title: "Section 2914 - Military construction projects for energy resilience, ene
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-30T02:02:21.298Z"
+generated_at: "2026-03-30T02:06:00.205Z"
 ---
 
 # § 2914. Military construction projects for energy resilience, energy security, and energy conservation

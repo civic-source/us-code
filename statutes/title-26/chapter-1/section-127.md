@@ -3,9 +3,9 @@ title: "Section 127 - Educational assistance programs"
 usc_title: 26
 usc_section: "127"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 127"
-generated_at: "2026-03-30T02:04:09.110Z"
+generated_at: "2026-03-30T02:06:56.431Z"
 ---
 
 # § 127. Educational assistance programs

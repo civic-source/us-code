@@ -3,9 +3,9 @@ title: "Section 208 - Repealed. Pub. L. 110–28, title VIII, § 8103(c)(1)(A) ,
 usc_title: 29
 usc_section: "208"
 chapter: 8
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "29 U.S.C. § 208"
-generated_at: "2026-03-30T02:04:18.050Z"
+generated_at: "2026-03-30T02:06:50.313Z"
 ---
 
 # § 208. Repealed. Pub. L. 110–28, title VIII, § 8103(c)(1)(A) , May 25, 2007 , 121 Stat. 189

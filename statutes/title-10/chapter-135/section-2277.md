@@ -3,9 +3,9 @@ title: "Section 2277 - Disclosure of National Security Space Launch program cont
 usc_title: 10
 usc_section: "2277"
 chapter: 135
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 2277"
-generated_at: "2026-03-30T02:02:21.274Z"
+generated_at: "2026-03-30T02:06:00.179Z"
 ---
 
 # § 2277. Disclosure of National Security Space Launch program contract pricing terms

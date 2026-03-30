@@ -3,9 +3,9 @@ title: "Section 718o - Definitions"
 usc_title: 16
 usc_section: "718o"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 718o"
-generated_at: "2026-03-30T02:03:23.979Z"
+generated_at: "2026-03-30T02:06:17.178Z"
 ---
 
 # § 718o. Definitions

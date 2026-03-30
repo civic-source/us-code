@@ -3,9 +3,9 @@ title: "Section 59aa - Nonnavigability of Wisconsin River"
 usc_title: 33
 usc_section: "59aa"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "33 U.S.C. § 59aa"
-generated_at: "2026-03-30T02:04:35.758Z"
+generated_at: "2026-03-30T02:07:01.959Z"
 ---
 
 # § 59aa. Nonnavigability of Wisconsin River

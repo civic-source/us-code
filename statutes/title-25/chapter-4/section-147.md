@@ -3,9 +3,9 @@ title: "Section 147 - Appropriations for specified buildings; use for transporta
 usc_title: 25
 usc_section: "147"
 chapter: 4
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "25 U.S.C. § 147"
-generated_at: "2026-03-30T02:03:51.853Z"
+generated_at: "2026-03-30T02:06:35.565Z"
 ---
 
 # § 147. Appropriations for specified buildings; use for transportation of materials

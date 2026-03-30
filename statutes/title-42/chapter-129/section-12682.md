@@ -3,9 +3,9 @@ title: "Section 12682 - Actions under national service laws to be subject to ava
 usc_title: 42
 usc_section: "12682"
 chapter: 129
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 12682"
-generated_at: "2026-03-30T02:05:19.109Z"
+generated_at: "2026-03-30T02:07:28.107Z"
 ---
 
 # § 12682. Actions under national service laws to be subject to availability of appropriations

@@ -3,9 +3,9 @@ title: "Section 13021 - Transferred"
 usc_title: 42
 usc_section: "13021"
 chapter: 132
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 13021"
-generated_at: "2026-03-30T02:05:19.118Z"
+generated_at: "2026-03-30T02:07:28.115Z"
 ---
 
 # § 13021. Transferred

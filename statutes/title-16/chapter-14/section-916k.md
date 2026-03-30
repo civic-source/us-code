@@ -3,9 +3,9 @@ title: "Section 916k - Regulations; submission; publication; effectiveness"
 usc_title: 16
 usc_section: "916k"
 chapter: 14
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 916k"
-generated_at: "2026-03-30T02:03:24.008Z"
+generated_at: "2026-03-30T02:06:17.201Z"
 ---
 
 # § 916k. Regulations; submission; publication; effectiveness

@@ -3,9 +3,9 @@ title: "Section 8321 - Temporary exemptions"
 usc_title: 42
 usc_section: "8321"
 chapter: 92
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 8321"
-generated_at: "2026-03-30T02:05:19.028Z"
+generated_at: "2026-03-30T02:07:28.015Z"
 ---
 
 # § 8321. Temporary exemptions

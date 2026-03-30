@@ -3,9 +3,9 @@ title: "Section 940c - Cushion of credit payments program"
 usc_title: 7
 usc_section: "940c"
 chapter: 31
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 940c"
-generated_at: "2026-03-30T02:02:15.385Z"
+generated_at: "2026-03-30T02:05:53.779Z"
 ---
 
 # § 940c. Cushion of credit payments program

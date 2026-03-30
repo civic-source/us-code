@@ -3,9 +3,9 @@ title: "Section 8604 - Schools near naval activities: financial aid"
 usc_title: 10
 usc_section: "8604"
 chapter: 861
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 8604"
-generated_at: "2026-03-30T02:02:21.337Z"
+generated_at: "2026-03-30T02:06:00.245Z"
 ---
 
 # § 8604. Schools near naval activities: financial aid

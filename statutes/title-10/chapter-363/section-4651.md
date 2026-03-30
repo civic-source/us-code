@@ -3,9 +3,9 @@ title: "Section 4651 - Expenditure of appropriations: limitation"
 usc_title: 10
 usc_section: "4651"
 chapter: 363
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 4651"
-generated_at: "2026-03-30T02:02:21.316Z"
+generated_at: "2026-03-30T02:06:00.224Z"
 ---
 
 # § 4651. Expenditure of appropriations: limitation

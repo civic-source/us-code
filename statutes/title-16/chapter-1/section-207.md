@@ -3,9 +3,9 @@ title: "Section 207 - Exchange of certain lands; adjustment of boundary"
 usc_title: 16
 usc_section: "207"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 207"
-generated_at: "2026-03-30T02:03:23.843Z"
+generated_at: "2026-03-30T02:06:17.058Z"
 ---
 
 # § 207. Exchange of certain lands; adjustment of boundary

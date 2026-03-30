@@ -3,9 +3,9 @@ title: "Section 2502 - Funding requirements"
 usc_title: 20
 usc_section: "2502"
 chapter: 45
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "20 U.S.C. § 2502"
-generated_at: "2026-03-30T02:03:15.829Z"
+generated_at: "2026-03-30T02:06:31.518Z"
 ---
 
 # § 2502. Funding requirements

@@ -3,9 +3,9 @@ title: "Section 7232 - Failure to register or reregister under section 4101, fal
 usc_title: 26
 usc_section: "7232"
 chapter: 75
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "26 U.S.C. § 7232"
-generated_at: "2026-03-30T02:04:09.329Z"
+generated_at: "2026-03-30T02:06:56.645Z"
 ---
 
 # § 7232. Failure to register or reregister under section 4101, false representations of registration status, etc.

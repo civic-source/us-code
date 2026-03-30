@@ -3,9 +3,9 @@ title: "Section 545 - Residence"
 usc_title: 28
 usc_section: "545"
 chapter: 35
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "28 U.S.C. § 545"
-generated_at: "2026-03-30T02:04:21.597Z"
+generated_at: "2026-03-30T02:06:49.325Z"
 ---
 
 # § 545. Residence

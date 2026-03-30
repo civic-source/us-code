@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:03:23.961Z"
+generated_at: "2026-03-30T02:06:17.161Z"
 ---
 
 # § 583k–1. Definitions

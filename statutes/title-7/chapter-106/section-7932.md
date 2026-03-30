@@ -3,9 +3,9 @@ title: "Section 7932 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "7932"
 chapter: 106
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 7932"
-generated_at: "2026-03-30T02:02:15.519Z"
+generated_at: "2026-03-30T02:05:53.920Z"
 ---
 
 # § 7932. Loan rates for nonrecourse marketing assistance loans

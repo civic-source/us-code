@@ -3,9 +3,9 @@ title: "Section 1605 - Applicability to other statutory national mining and mine
 usc_title: 30
 usc_section: "1605"
 chapter: 28
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "30 U.S.C. § 1605"
-generated_at: "2026-03-30T02:04:10.762Z"
+generated_at: "2026-03-30T02:06:48.478Z"
 ---
 
 # § 1605. Applicability to other statutory national mining and minerals policies

@@ -3,9 +3,9 @@ title: "Section 2322 - Repealed. Pub. L. 107–210, div. A, title I , §123(b)(2
 usc_title: 19
 usc_section: "2322"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "19 U.S.C. § 2322"
-generated_at: "2026-03-30T02:03:03.878Z"
+generated_at: "2026-03-30T02:06:21.319Z"
 ---
 
 # § 2322. Repealed. Pub. L. 107–210, div. A, title I , §123(b)(2), Aug. 6, 2002 , 116 Stat. 944

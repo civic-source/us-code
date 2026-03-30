@@ -3,9 +3,9 @@ title: "Section 170311 - Service of process"
 usc_title: 36
 usc_section: "170311"
 chapter: 1703
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 170311"
-generated_at: "2026-03-30T02:04:50.406Z"
+generated_at: "2026-03-30T02:07:11.760Z"
 ---
 
 # § 170311. Service of process

@@ -3,9 +3,9 @@ title: "Section 2009c - Strategic plans"
 usc_title: 7
 usc_section: "2009c"
 chapter: 50
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 2009c"
-generated_at: "2026-03-30T02:02:15.433Z"
+generated_at: "2026-03-30T02:05:53.831Z"
 ---
 
 # § 2009c. Strategic plans

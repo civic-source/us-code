@@ -3,9 +3,9 @@ title: "Section 18939 - Premise plumbing research"
 usc_title: 42
 usc_section: "18939"
 chapter: 163
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 18939"
-generated_at: "2026-03-30T02:05:19.205Z"
+generated_at: "2026-03-30T02:07:28.217Z"
 ---
 
 # § 18939. Premise plumbing research

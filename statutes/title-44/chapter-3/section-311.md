@@ -3,9 +3,9 @@ title: "Section 311 - Purchases exempt from subtitle I of title 40 and division 
 usc_title: 44
 usc_section: "311"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "44 U.S.C. § 311"
-generated_at: "2026-03-30T02:05:00.389Z"
+generated_at: "2026-03-30T02:07:14.192Z"
 ---
 
 # § 311. Purchases exempt from subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41; contract negotiation authority; small purchase threshold

@@ -3,9 +3,9 @@ title: "Section 4 - Transferred"
 usc_title: 42
 usc_section: "4"
 chapter: 46
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:05:18.894Z"
+generated_at: "2026-03-30T02:07:27.861Z"
 ---
 
 # § 3797ff–4. Transferred

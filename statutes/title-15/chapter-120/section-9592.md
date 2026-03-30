@@ -3,9 +3,9 @@ title: "Section 9592 - Federal assistance"
 usc_title: 15
 usc_section: "9592"
 chapter: 120
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 9592"
-generated_at: "2026-03-30T02:02:33.390Z"
+generated_at: "2026-03-30T02:06:09.879Z"
 ---
 
 # § 9592. Federal assistance

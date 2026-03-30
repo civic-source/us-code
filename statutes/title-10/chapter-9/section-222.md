@@ -3,9 +3,9 @@ title: "Section 222 - Future-years mission budget"
 usc_title: 10
 usc_section: "222"
 chapter: 9
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "10 U.S.C. § 222"
-generated_at: "2026-03-30T02:02:21.188Z"
+generated_at: "2026-03-30T02:06:00.092Z"
 ---
 
 # § 222. Future-years mission budget

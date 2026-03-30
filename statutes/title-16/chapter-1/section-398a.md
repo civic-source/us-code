@@ -3,9 +3,9 @@ title: "Section 398a - Conditions and limitations"
 usc_title: 16
 usc_section: "398a"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 398a"
-generated_at: "2026-03-30T02:03:23.854Z"
+generated_at: "2026-03-30T02:06:17.067Z"
 ---
 
 # § 398a. Conditions and limitations

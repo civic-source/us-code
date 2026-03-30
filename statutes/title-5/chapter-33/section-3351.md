@@ -3,9 +3,9 @@ title: "Section 3351 - Preference eligibles; transfer; physical qualifications; 
 usc_title: 5
 usc_section: "3351"
 chapter: 33
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "5 U.S.C. § 3351"
-generated_at: "2026-03-30T02:02:07.867Z"
+generated_at: "2026-03-30T02:05:47.788Z"
 ---
 
 # § 3351. Preference eligibles; transfer; physical qualifications; waiver

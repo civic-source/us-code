@@ -3,9 +3,9 @@ title: "Section 1466 - Administration of oaths, affirmations, etc., by employees
 usc_title: 43
 usc_section: "1466"
 chapter: 31
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 1466"
-generated_at: "2026-03-30T02:05:01.512Z"
+generated_at: "2026-03-30T02:07:14.939Z"
 ---
 
 # § 1466. Administration of oaths, affirmations, etc., by employees of Division of Investigations; force and effect

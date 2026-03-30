@@ -3,9 +3,9 @@ title: "Section 295 - Director of Shared Services"
 usc_title: 6
 usc_section: "295"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "6 U.S.C. § 295"
-generated_at: "2026-03-30T02:02:11.807Z"
+generated_at: "2026-03-30T02:05:54.574Z"
 ---
 
 # § 295. Director of Shared Services

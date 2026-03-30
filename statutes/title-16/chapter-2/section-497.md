@@ -3,9 +3,9 @@ title: "Section 497 - Use and occupation of lands for hotels, resorts, summer ho
 usc_title: 16
 usc_section: "497"
 chapter: 2
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 497"
-generated_at: "2026-03-30T02:03:23.942Z"
+generated_at: "2026-03-30T02:06:17.145Z"
 ---
 
 # § 497. Use and occupation of lands for hotels, resorts, summer homes, stores, and facilities for industrial, commercial, educational or public uses

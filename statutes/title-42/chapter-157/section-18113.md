@@ -3,9 +3,9 @@ title: "Section 18113 - Prohibition against discrimination on assisted suicide"
 usc_title: 42
 usc_section: "18113"
 chapter: 157
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 18113"
-generated_at: "2026-03-30T02:05:19.189Z"
+generated_at: "2026-03-30T02:07:28.198Z"
 ---
 
 # § 18113. Prohibition against discrimination on assisted suicide

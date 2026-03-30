@@ -3,9 +3,9 @@ title: "Section 893 - Rights of permissive settlers on railroad lands restored t
 usc_title: 43
 usc_section: "893"
 chapter: 21
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 893"
-generated_at: "2026-03-30T02:05:01.504Z"
+generated_at: "2026-03-30T02:07:14.928Z"
 ---
 
 # § 893. Rights of permissive settlers on railroad lands restored to public domain

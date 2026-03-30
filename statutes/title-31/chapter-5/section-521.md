@@ -3,9 +3,9 @@ title: "Section 521 - Employees"
 usc_title: 31
 usc_section: "521"
 chapter: 5
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "31 U.S.C. § 521"
-generated_at: "2026-03-30T02:04:45.441Z"
+generated_at: "2026-03-30T02:07:05.129Z"
 ---
 
 # § 521. Employees

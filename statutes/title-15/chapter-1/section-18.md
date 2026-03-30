@@ -3,9 +3,9 @@ title: "Section 18 - Acquisition by one corporation of stock of another"
 usc_title: 15
 usc_section: "18"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 18"
-generated_at: "2026-03-30T02:02:33.129Z"
+generated_at: "2026-03-30T02:06:09.633Z"
 ---
 
 # § 18. Acquisition by one corporation of stock of another

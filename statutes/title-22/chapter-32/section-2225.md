@@ -3,9 +3,9 @@ title: "Section 2225 - Integration of women"
 usc_title: 22
 usc_section: "2225"
 chapter: 32
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 2225"
-generated_at: "2026-03-30T02:03:33.022Z"
+generated_at: "2026-03-30T02:06:45.832Z"
 ---
 
 # § 2225. Integration of women

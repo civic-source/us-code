@@ -3,9 +3,9 @@ title: "Section 1731 - Commodity determinations"
 usc_title: 7
 usc_section: "1731"
 chapter: 41
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 1731"
-generated_at: "2026-03-30T02:02:15.418Z"
+generated_at: "2026-03-30T02:05:53.814Z"
 ---
 
 # § 1731. Commodity determinations

@@ -3,9 +3,9 @@ title: "Section 460cc - Establishment"
 usc_title: 16
 usc_section: "460cc"
 chapter: 1
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "16 U.S.C. § 460cc"
-generated_at: "2026-03-30T02:03:23.912Z"
+generated_at: "2026-03-30T02:06:17.119Z"
 ---
 
 # § 460cc. Establishment

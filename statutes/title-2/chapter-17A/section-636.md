@@ -3,9 +3,9 @@ title: "Section 636 - Provisions relating to consideration of concurrent resolut
 usc_title: 2
 usc_section: "636"
 chapter: 17
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "2 U.S.C. § 636"
-generated_at: "2026-03-30T02:02:05.540Z"
+generated_at: "2026-03-30T02:05:44.639Z"
 ---
 
 # § 636. Provisions relating to consideration of concurrent resolutions on the budget

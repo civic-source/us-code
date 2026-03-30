@@ -3,9 +3,9 @@ title: "Section 8235h - Revoking approval of plans and terminating financial ass
 usc_title: 42
 usc_section: "8235h"
 chapter: 91
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 8235h"
-generated_at: "2026-03-30T02:05:19.025Z"
+generated_at: "2026-03-30T02:07:28.011Z"
 ---
 
 # § 8235h. Revoking approval of plans and terminating financial assistance

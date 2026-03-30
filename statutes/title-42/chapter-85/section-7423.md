@@ -3,9 +3,9 @@ title: "Section 7423 - Stack heights"
 usc_title: 42
 usc_section: "7423"
 chapter: 85
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 7423"
-generated_at: "2026-03-30T02:05:18.993Z"
+generated_at: "2026-03-30T02:07:27.975Z"
 ---
 
 # § 7423. Stack heights

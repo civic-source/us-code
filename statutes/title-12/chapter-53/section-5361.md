@@ -3,9 +3,9 @@ title: "Section 5361 - Reports by and examinations of nonbank financial companie
 usc_title: 12
 usc_section: "5361"
 chapter: 53
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 5361"
-generated_at: "2026-03-30T02:02:59.734Z"
+generated_at: "2026-03-30T02:06:07.111Z"
 ---
 
 # § 5361. Reports by and examinations of nonbank financial companies by the Board of Governors

@@ -3,9 +3,9 @@ title: "Section 678 - Authorization of appropriations"
 usc_title: 29
 usc_section: "678"
 chapter: 15
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "29 U.S.C. § 678"
-generated_at: "2026-03-30T02:04:18.061Z"
+generated_at: "2026-03-30T02:06:50.322Z"
 ---
 
 # § 678. Authorization of appropriations

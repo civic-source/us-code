@@ -3,9 +3,9 @@ title: "Section 16139 - Settlement agreement provisions"
 usc_title: 42
 usc_section: "16139"
 chapter: 149
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 16139"
-generated_at: "2026-03-30T02:05:19.147Z"
+generated_at: "2026-03-30T02:07:28.150Z"
 ---
 
 # § 16139. Settlement agreement provisions

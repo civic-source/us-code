@@ -3,9 +3,9 @@ title: "Section 1471g - Benefits limitation"
 usc_title: 7
 usc_section: "1471g"
 chapter: 35
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "7 U.S.C. § 1471g"
-generated_at: "2026-03-30T02:02:15.401Z"
+generated_at: "2026-03-30T02:05:53.796Z"
 ---
 
 # § 1471g. Benefits limitation

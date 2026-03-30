@@ -3,9 +3,9 @@ title: "Section 2073 - Additional enforcement of product safety rules and sectio
 usc_title: 15
 usc_section: "2073"
 chapter: 47
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 2073"
-generated_at: "2026-03-30T02:02:33.297Z"
+generated_at: "2026-03-30T02:06:09.790Z"
 ---
 
 # § 2073. Additional enforcement of product safety rules and section 2064 orders

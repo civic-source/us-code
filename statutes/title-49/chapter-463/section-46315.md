@@ -3,9 +3,9 @@ title: "Section 46315 - Lighting violations involving transporting controlled su
 usc_title: 49
 usc_section: "46315"
 chapter: 463
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 46315"
-generated_at: "2026-03-30T02:05:29.006Z"
+generated_at: "2026-03-30T02:07:36.617Z"
 ---
 
 # § 46315. Lighting violations involving transporting controlled substances by aircraft not providing air transportation

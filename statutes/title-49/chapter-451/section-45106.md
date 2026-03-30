@@ -3,9 +3,9 @@ title: "Section 45106 - Relationship to other laws, regulations, standards, and 
 usc_title: 49
 usc_section: "45106"
 chapter: 451
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 45106"
-generated_at: "2026-03-30T02:05:29.003Z"
+generated_at: "2026-03-30T02:07:36.615Z"
 ---
 
 # § 45106. Relationship to other laws, regulations, standards, and orders

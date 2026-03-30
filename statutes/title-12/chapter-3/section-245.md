@@ -3,9 +3,9 @@ title: "Section 245 - Vacancies during recess of Senate"
 usc_title: 12
 usc_section: "245"
 chapter: 3
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 245"
-generated_at: "2026-03-30T02:02:59.580Z"
+generated_at: "2026-03-30T02:06:06.966Z"
 ---
 
 # § 245. Vacancies during recess of Senate

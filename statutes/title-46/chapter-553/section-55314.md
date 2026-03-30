@@ -3,9 +3,9 @@ title: "Section 55314 - Transportation requirements for certain exports sponsore
 usc_title: 46
 usc_section: "55314"
 chapter: 553
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "46 U.S.C. § 55314"
-generated_at: "2026-03-30T02:05:26.045Z"
+generated_at: "2026-03-30T02:07:32.076Z"
 ---
 
 # § 55314. Transportation requirements for certain exports sponsored by the Secretary of Agriculture

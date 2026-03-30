@@ -3,9 +3,9 @@ title: "Section 3714a - Dissolution of Commission"
 usc_title: 22
 usc_section: "3714a"
 chapter: 51
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "22 U.S.C. § 3714a"
-generated_at: "2026-03-30T02:03:33.074Z"
+generated_at: "2026-03-30T02:06:45.882Z"
 ---
 
 # § 3714a. Dissolution of Commission

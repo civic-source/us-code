@@ -3,9 +3,9 @@ title: "Section 190101 - Organization"
 usc_title: 36
 usc_section: "190101"
 chapter: 1901
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "36 U.S.C. § 190101"
-generated_at: "2026-03-30T02:04:50.406Z"
+generated_at: "2026-03-30T02:07:11.760Z"
 ---
 
 # § 190101. Organization

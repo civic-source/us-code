@@ -3,9 +3,9 @@ title: "Section 41506 - Price division filing requirements for foreign air trans
 usc_title: 49
 usc_section: "41506"
 chapter: 415
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 41506"
-generated_at: "2026-03-30T02:05:28.985Z"
+generated_at: "2026-03-30T02:07:36.592Z"
 ---
 
 # § 41506. Price division filing requirements for foreign air transportation

@@ -3,9 +3,9 @@ title: "Section 5134 - Interagency task force"
 usc_title: 42
 usc_section: "5134"
 chapter: 68
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 5134"
-generated_at: "2026-03-30T02:05:18.919Z"
+generated_at: "2026-03-30T02:07:27.890Z"
 ---
 
 # § 5134. Interagency task force

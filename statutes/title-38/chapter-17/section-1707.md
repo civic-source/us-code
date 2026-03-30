@@ -3,9 +3,9 @@ title: "Section 1707 - Limitations"
 usc_title: 38
 usc_section: "1707"
 chapter: 17
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "38 U.S.C. § 1707"
-generated_at: "2026-03-30T02:04:57.952Z"
+generated_at: "2026-03-30T02:07:09.996Z"
 ---
 
 # § 1707. Limitations

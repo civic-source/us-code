@@ -3,9 +3,9 @@ title: "Section 718 - Training; emergency response providers"
 usc_title: 14
 usc_section: "718"
 chapter: 7
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "14 U.S.C. § 718"
-generated_at: "2026-03-30T02:02:29.068Z"
+generated_at: "2026-03-30T02:06:05.164Z"
 ---
 
 # § 718. Training; emergency response providers

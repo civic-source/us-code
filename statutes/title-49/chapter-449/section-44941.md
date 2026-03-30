@@ -3,9 +3,9 @@ title: "Section 44941 - Immunity for reporting suspicious activities"
 usc_title: 49
 usc_section: "44941"
 chapter: 449
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "49 U.S.C. § 44941"
-generated_at: "2026-03-30T02:05:29.003Z"
+generated_at: "2026-03-30T02:07:36.614Z"
 ---
 
 # § 44941. Immunity for reporting suspicious activities

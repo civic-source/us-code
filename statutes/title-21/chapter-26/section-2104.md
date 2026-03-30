@@ -3,9 +3,9 @@ title: "Section 2104 - State and Federal cooperation"
 usc_title: 21
 usc_section: "2104"
 chapter: 26
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "21 U.S.C. § 2104"
-generated_at: "2026-03-30T02:03:29.598Z"
+generated_at: "2026-03-30T02:06:36.736Z"
 ---
 
 # § 2104. State and Federal cooperation

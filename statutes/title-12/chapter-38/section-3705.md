@@ -3,9 +3,9 @@ title: "Section 3705 - Prerequisites to foreclosure"
 usc_title: 12
 usc_section: "3705"
 chapter: 38
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "12 U.S.C. § 3705"
-generated_at: "2026-03-30T02:02:59.701Z"
+generated_at: "2026-03-30T02:06:07.080Z"
 ---
 
 # § 3705. Prerequisites to foreclosure

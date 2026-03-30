@@ -3,9 +3,9 @@ title: "Section 16512 - Terms and conditions"
 usc_title: 42
 usc_section: "16512"
 chapter: 149
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "42 U.S.C. § 16512"
-generated_at: "2026-03-30T02:05:19.163Z"
+generated_at: "2026-03-30T02:07:28.168Z"
 ---
 
 # § 16512. Terms and conditions

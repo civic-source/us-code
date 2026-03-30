@@ -3,9 +3,9 @@ title: "Section 510a - Guidelines and inspection of project facilities and techn
 usc_title: 43
 usc_section: "510a"
 chapter: 12
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "43 U.S.C. § 510a"
-generated_at: "2026-03-30T02:05:01.495Z"
+generated_at: "2026-03-30T02:07:14.917Z"
 ---
 
 # § 510a. Guidelines and inspection of project facilities and technical assistance to transferred works operating entities

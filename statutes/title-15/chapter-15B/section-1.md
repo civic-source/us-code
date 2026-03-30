@@ -3,9 +3,9 @@ title: "Section 1 - Civil penalty authority"
 usc_title: 15
 usc_section: "1"
 chapter: 15
-current_through: "PL 118-151"
+current_through: "PL 118-157"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:02:33.239Z"
+generated_at: "2026-03-30T02:06:09.741Z"
 ---
 
 # § 717t–1. Civil penalty authority
