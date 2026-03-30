@@ -3,9 +3,9 @@ title: "Section 5564 - Travel and transportation; dependents; household and pers
 usc_title: 5
 usc_section: "5564"
 chapter: 55
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 5564"
-generated_at: "2026-03-30T06:01:31.392Z"
+generated_at: "2026-03-30T06:05:49.180Z"
 status: "active"
 ---
 

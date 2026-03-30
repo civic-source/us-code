@@ -3,9 +3,9 @@ title: "Section 131 - Advances to disbursing officers"
 usc_title: 25
 usc_section: "131"
 chapter: 4
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "25 U.S.C. § 131"
-generated_at: "2026-03-30T06:04:30.474Z"
+generated_at: "2026-03-30T06:06:29.187Z"
 status: "active"
 ---
 

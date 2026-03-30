@@ -3,9 +3,9 @@ title: "Section 25b - State law preemption standards for national banks and subs
 usc_title: 12
 usc_section: "25b"
 chapter: 2
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 25b"
-generated_at: "2026-03-30T06:03:04.377Z"
+generated_at: "2026-03-30T06:06:10.944Z"
 status: "active"
 ---
 

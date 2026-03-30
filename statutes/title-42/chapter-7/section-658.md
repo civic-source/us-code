@@ -3,9 +3,9 @@ title: "Section 658 - Repealed. Pub. L. 105–200, title II , § 201(f)(1), July
 usc_title: 42
 usc_section: "658"
 chapter: 7
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 658"
-generated_at: "2026-03-30T06:05:04.568Z"
+generated_at: "2026-03-30T06:07:18.536Z"
 status: "repealed"
 ---
 

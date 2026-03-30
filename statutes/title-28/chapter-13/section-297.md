@@ -3,9 +3,9 @@ title: "Section 297 - Assignment of judges to courts of the freely associated co
 usc_title: 28
 usc_section: "297"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "28 U.S.C. § 297"
-generated_at: "2026-03-30T06:04:33.650Z"
+generated_at: "2026-03-30T06:06:43.827Z"
 status: "active"
 ---
 

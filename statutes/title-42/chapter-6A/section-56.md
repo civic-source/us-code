@@ -3,9 +3,9 @@ title: "Section 56 - Prohibitions regarding receipt of funds"
 usc_title: 42
 usc_section: "56"
 chapter: 6
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 56"
-generated_at: "2026-03-30T06:05:04.513Z"
+generated_at: "2026-03-30T06:07:18.483Z"
 status: "active"
 ---
 

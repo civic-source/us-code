@@ -3,9 +3,9 @@ title: "Section 56306 - Use and transfer of vessels"
 usc_title: 46
 usc_section: "56306"
 chapter: 563
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "46 U.S.C. § 56306"
-generated_at: "2026-03-30T06:05:16.548Z"
+generated_at: "2026-03-30T06:07:22.960Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 456 - Civil actions barred"
 usc_title: 10
 usc_section: "456"
 chapter: 22
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 456"
-generated_at: "2026-03-30T06:02:58.694Z"
+generated_at: "2026-03-30T06:06:04.743Z"
 status: "active"
 ---
 

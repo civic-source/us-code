@@ -3,9 +3,9 @@ title: "Section 8509 - Definitions"
 usc_title: 38
 usc_section: "8509"
 chapter: 85
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "38 U.S.C. § 8509"
-generated_at: "2026-03-30T06:04:48.220Z"
+generated_at: "2026-03-30T06:06:57.842Z"
 status: "active"
 ---
 

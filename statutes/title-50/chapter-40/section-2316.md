@@ -3,9 +3,9 @@ title: "Section 2316 - Actions to increase civilian expertise"
 usc_title: 50
 usc_section: "2316"
 chapter: 40
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 2316"
-generated_at: "2026-03-30T06:05:14.803Z"
+generated_at: "2026-03-30T06:07:23.908Z"
 status: "active"
 ---
 

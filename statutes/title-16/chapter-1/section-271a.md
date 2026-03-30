@@ -3,9 +3,9 @@ title: "Section 271a - Acquisition of lands; authority of Secretary; exchange of
 usc_title: 16
 usc_section: "271a"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 271a"
-generated_at: "2026-03-30T06:04:07.149Z"
+generated_at: "2026-03-30T06:06:26.001Z"
 status: "active"
 ---
 

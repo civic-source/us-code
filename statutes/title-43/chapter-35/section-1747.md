@@ -3,9 +3,9 @@ title: "Section 1747 - Loans to States and political subdivisions; purposes; amo
 usc_title: 43
 usc_section: "1747"
 chapter: 35
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "43 U.S.C. § 1747"
-generated_at: "2026-03-30T06:04:51.115Z"
+generated_at: "2026-03-30T06:07:00.412Z"
 status: "active"
 ---
 

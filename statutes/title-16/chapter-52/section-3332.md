@@ -3,9 +3,9 @@ title: "Section 3332 - State program for reduction of overall fishing capacity"
 usc_title: 16
 usc_section: "3332"
 chapter: 52
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 3332"
-generated_at: "2026-03-30T06:04:07.373Z"
+generated_at: "2026-03-30T06:06:26.175Z"
 status: "active"
 ---
 

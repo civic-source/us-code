@@ -3,9 +3,9 @@ title: "Section 6632 - Disposal of used or surplus automobiles and trucks by Ser
 usc_title: 2
 usc_section: "6632"
 chapter: 65
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 6632"
-generated_at: "2026-03-30T06:01:39.189Z"
+generated_at: "2026-03-30T06:05:31.223Z"
 status: "active"
 ---
 

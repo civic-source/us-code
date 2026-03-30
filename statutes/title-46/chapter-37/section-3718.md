@@ -3,9 +3,9 @@ title: "Section 3718 - Penalties"
 usc_title: 46
 usc_section: "3718"
 chapter: 37
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "46 U.S.C. § 3718"
-generated_at: "2026-03-30T06:05:16.523Z"
+generated_at: "2026-03-30T06:07:22.936Z"
 status: "active"
 ---
 

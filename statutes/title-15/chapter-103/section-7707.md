@@ -3,9 +3,9 @@ title: "Section 7707 - Effect on other laws"
 usc_title: 15
 usc_section: "7707"
 chapter: 103
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 7707"
-generated_at: "2026-03-30T06:03:23.729Z"
+generated_at: "2026-03-30T06:06:17.891Z"
 status: "active"
 ---
 

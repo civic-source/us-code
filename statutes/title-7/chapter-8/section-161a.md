@@ -3,9 +3,9 @@ title: "Section 161a - Omitted"
 usc_title: 7
 usc_section: "161a"
 chapter: 8
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "7 U.S.C. § 161a"
-generated_at: "2026-03-30T06:02:22.317Z"
+generated_at: "2026-03-30T06:05:56.902Z"
 status: "omitted"
 ---
 

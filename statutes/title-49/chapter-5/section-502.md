@@ -3,9 +3,9 @@ title: "Section 502 - General authority"
 usc_title: 49
 usc_section: "502"
 chapter: 5
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "49 U.S.C. § 502"
-generated_at: "2026-03-30T06:05:10.133Z"
+generated_at: "2026-03-30T06:07:25.845Z"
 status: "active"
 ---
 

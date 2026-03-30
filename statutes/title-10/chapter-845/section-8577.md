@@ -3,9 +3,9 @@ title: "Section 8577 - Repealed. Pub. L. 93–525 , Dec. 18, 1974 , 88 Stat. 169
 usc_title: 10
 usc_section: "8577"
 chapter: 845
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 8577"
-generated_at: "2026-03-30T06:02:58.810Z"
+generated_at: "2026-03-30T06:06:04.852Z"
 status: "repealed"
 ---
 

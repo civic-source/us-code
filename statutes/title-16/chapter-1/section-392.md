@@ -3,9 +3,9 @@ title: "Section 392 - Acquisition of privately owned lands"
 usc_title: 16
 usc_section: "392"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 392"
-generated_at: "2026-03-30T06:04:07.153Z"
+generated_at: "2026-03-30T06:06:26.005Z"
 status: "active"
 ---
 

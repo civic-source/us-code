@@ -3,9 +3,9 @@ title: "Section 1701q - Supportive housing for the elderly"
 usc_title: 12
 usc_section: "1701q"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 1701q"
-generated_at: "2026-03-30T06:03:04.409Z"
+generated_at: "2026-03-30T06:06:10.977Z"
 status: "active"
 ---
 

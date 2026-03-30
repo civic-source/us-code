@@ -3,9 +3,9 @@ title: "Section 220526 - Restricted amateur athletic competitions"
 usc_title: 36
 usc_section: "220526"
 chapter: 2205
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "36 U.S.C. § 220526"
-generated_at: "2026-03-30T06:04:46.989Z"
+generated_at: "2026-03-30T06:06:56.082Z"
 status: "active"
 ---
 

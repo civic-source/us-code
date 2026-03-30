@@ -3,9 +3,9 @@ title: "Section 11 - Definitions"
 usc_title: 21
 usc_section: "11"
 chapter: 9
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "21 U.S.C. § 11"
-generated_at: "2026-03-30T06:04:29.462Z"
+generated_at: "2026-03-30T06:06:33.055Z"
 status: "active"
 ---
 

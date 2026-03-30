@@ -3,9 +3,9 @@ title: "Section 2323 - Collection and publication of data and reports; informati
 usc_title: 19
 usc_section: "2323"
 chapter: 12
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 2323"
-generated_at: "2026-03-30T06:03:27.342Z"
+generated_at: "2026-03-30T06:06:23.858Z"
 status: "active"
 ---
 

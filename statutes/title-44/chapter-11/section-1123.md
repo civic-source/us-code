@@ -3,9 +3,9 @@ title: "Section 1123 - Binding materials; bookbinding for libraries"
 usc_title: 44
 usc_section: "1123"
 chapter: 11
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "44 U.S.C. § 1123"
-generated_at: "2026-03-30T06:04:51.715Z"
+generated_at: "2026-03-30T06:07:01.604Z"
 status: "active"
 ---
 

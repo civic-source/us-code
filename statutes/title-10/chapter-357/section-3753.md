@@ -3,9 +3,9 @@ title: "Section 3753 - Civil War battle streamers"
 usc_title: 10
 usc_section: "3753"
 chapter: 357
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 3753"
-generated_at: "2026-03-30T06:02:58.790Z"
+generated_at: "2026-03-30T06:06:04.833Z"
 status: "active"
 ---
 

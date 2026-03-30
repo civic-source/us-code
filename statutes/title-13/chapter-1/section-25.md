@@ -3,9 +3,9 @@ title: "Section 25 - Duties of supervisors, enumerators, and other employees"
 usc_title: 13
 usc_section: "25"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "13 U.S.C. § 25"
-generated_at: "2026-03-30T06:03:04.604Z"
+generated_at: "2026-03-30T06:06:06.574Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 102 - Repealed. Pub. L. 104–186, title II , § 204(52), Aug. 2
 usc_title: 2
 usc_section: "102"
 chapter: 4
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 102"
-generated_at: "2026-03-30T06:01:39.147Z"
+generated_at: "2026-03-30T06:05:31.175Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4525 - Information, records, and meetings"
 usc_title: 12
 usc_section: "4525"
 chapter: 46
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 4525"
-generated_at: "2026-03-30T06:03:04.506Z"
+generated_at: "2026-03-30T06:06:11.072Z"
 status: "active"
 ---
 

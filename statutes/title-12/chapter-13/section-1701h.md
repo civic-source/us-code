@@ -3,9 +3,9 @@ title: "Section 1701h - Advisory committees; payment of transportation and other
 usc_title: 12
 usc_section: "1701h"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 1701h"
-generated_at: "2026-03-30T06:03:04.408Z"
+generated_at: "2026-03-30T06:06:10.976Z"
 status: "active"
 ---
 

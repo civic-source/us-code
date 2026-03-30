@@ -3,9 +3,9 @@ title: "Section 541 - When patent or final certificate issued"
 usc_title: 43
 usc_section: "541"
 chapter: 12
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "43 U.S.C. § 541"
-generated_at: "2026-03-30T06:04:51.082Z"
+generated_at: "2026-03-30T06:07:00.380Z"
 status: "active"
 ---
 

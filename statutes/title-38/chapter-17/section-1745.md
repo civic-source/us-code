@@ -3,9 +3,9 @@ title: "Section 1745 - Nursing home care and medications for veterans with servi
 usc_title: 38
 usc_section: "1745"
 chapter: 17
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "38 U.S.C. § 1745"
-generated_at: "2026-03-30T06:04:48.175Z"
+generated_at: "2026-03-30T06:06:57.797Z"
 status: "active"
 ---
 

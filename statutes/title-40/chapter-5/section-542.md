@@ -3,9 +3,9 @@ title: "Section 542 - Care and handling"
 usc_title: 40
 usc_section: "542"
 chapter: 5
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "40 U.S.C. § 542"
-generated_at: "2026-03-30T06:04:48.587Z"
+generated_at: "2026-03-30T06:06:56.754Z"
 status: "active"
 ---
 

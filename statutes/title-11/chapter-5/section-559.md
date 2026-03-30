@@ -3,9 +3,9 @@ title: "Section 559 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "559"
 chapter: 5
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "11 U.S.C. § 559"
-generated_at: "2026-03-30T06:03:06.076Z"
+generated_at: "2026-03-30T06:06:07.914Z"
 status: "active"
 ---
 

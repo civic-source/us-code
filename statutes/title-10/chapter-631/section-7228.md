@@ -3,9 +3,9 @@ title: "Section 7228 - Merchant vessels: supplies"
 usc_title: 10
 usc_section: "7228"
 chapter: 631
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 7228"
-generated_at: "2026-03-30T06:02:58.804Z"
+generated_at: "2026-03-30T06:06:04.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 55314 - Transportation requirements for certain exports sponsore
 usc_title: 46
 usc_section: "55314"
 chapter: 553
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "46 U.S.C. § 55314"
-generated_at: "2026-03-30T06:05:16.548Z"
+generated_at: "2026-03-30T06:07:22.958Z"
 status: "active"
 ---
 

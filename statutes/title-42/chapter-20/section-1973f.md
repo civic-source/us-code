@@ -3,9 +3,9 @@ title: "Section 1973f - Transferred"
 usc_title: 42
 usc_section: "1973f"
 chapter: 20
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 1973f"
-generated_at: "2026-03-30T06:05:04.754Z"
+generated_at: "2026-03-30T06:07:18.722Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7505 - Authorization of appropriations"
 usc_title: 15
 usc_section: "7505"
 chapter: 101
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 7505"
-generated_at: "2026-03-30T06:03:23.727Z"
+generated_at: "2026-03-30T06:06:17.889Z"
 status: "active"
 ---
 

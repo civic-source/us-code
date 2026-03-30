@@ -3,9 +3,9 @@ title: "Section 9353 - Cadets: degree and commission on graduation"
 usc_title: 10
 usc_section: "9353"
 chapter: 903
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 9353"
-generated_at: "2026-03-30T06:02:58.812Z"
+generated_at: "2026-03-30T06:06:04.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2224 - Attorney General approval of title"
 usc_title: 42
 usc_section: "2224"
 chapter: 23
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 2224"
-generated_at: "2026-03-30T06:05:04.774Z"
+generated_at: "2026-03-30T06:07:18.742Z"
 status: "active"
 ---
 

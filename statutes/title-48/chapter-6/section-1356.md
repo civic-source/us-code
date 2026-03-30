@@ -3,9 +3,9 @@ title: "Section 1356 - Repealed. June 25, 1948, ch. 646 , § 35, 62 Stat. 991"
 usc_title: 48
 usc_section: "1356"
 chapter: 6
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "48 U.S.C. § 1356"
-generated_at: "2026-03-30T06:05:11.455Z"
+generated_at: "2026-03-30T06:07:21.699Z"
 status: "repealed"
 ---
 

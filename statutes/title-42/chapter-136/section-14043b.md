@@ -3,9 +3,9 @@ title: "Section 14043b - Grants to protect the privacy and confidentiality of vi
 usc_title: 42
 usc_section: "14043b"
 chapter: 136
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 14043b"
-generated_at: "2026-03-30T06:05:05.050Z"
+generated_at: "2026-03-30T06:07:19.012Z"
 status: "active"
 ---
 

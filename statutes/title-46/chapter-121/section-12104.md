@@ -3,9 +3,9 @@ title: "Section 12104 - Applications for documentation"
 usc_title: 46
 usc_section: "12104"
 chapter: 121
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "46 U.S.C. § 12104"
-generated_at: "2026-03-30T06:05:16.532Z"
+generated_at: "2026-03-30T06:07:22.945Z"
 status: "active"
 ---
 

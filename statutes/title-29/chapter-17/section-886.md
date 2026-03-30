@@ -3,9 +3,9 @@ title: "Section 886 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "886"
 chapter: 17
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "29 U.S.C. § 886"
-generated_at: "2026-03-30T06:04:34.508Z"
+generated_at: "2026-03-30T06:06:36.581Z"
 status: "repealed"
 ---
 

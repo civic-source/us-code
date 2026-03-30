@@ -3,9 +3,9 @@ title: "Section 76 - Retaliation against restriction of importations in time of 
 usc_title: 15
 usc_section: "76"
 chapter: 2
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 76"
-generated_at: "2026-03-30T06:03:23.573Z"
+generated_at: "2026-03-30T06:06:17.718Z"
 status: "active"
 ---
 

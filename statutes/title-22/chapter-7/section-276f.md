@@ -3,9 +3,9 @@ title: "Section 276f - Report to Congress"
 usc_title: 22
 usc_section: "276f"
 chapter: 7
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 276f"
-generated_at: "2026-03-30T06:04:13.739Z"
+generated_at: "2026-03-30T06:06:31.819Z"
 status: "active"
 ---
 

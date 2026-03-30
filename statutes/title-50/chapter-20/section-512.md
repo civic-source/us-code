@@ -3,9 +3,9 @@ title: "Section 512 - Limitation on cost of construction and equipment; vesting 
 usc_title: 50
 usc_section: "512"
 chapter: 20
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 512"
-generated_at: "2026-03-30T06:05:14.787Z"
+generated_at: "2026-03-30T06:07:23.892Z"
 status: "active"
 ---
 

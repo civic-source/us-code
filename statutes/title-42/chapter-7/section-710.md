@@ -3,9 +3,9 @@ title: "Section 710 - Separate program for abstinence education"
 usc_title: 42
 usc_section: "710"
 chapter: 7
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 710"
-generated_at: "2026-03-30T06:05:04.576Z"
+generated_at: "2026-03-30T06:07:18.544Z"
 status: "active"
 ---
 

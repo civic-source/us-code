@@ -3,9 +3,9 @@ title: "Section 8423 - Limitations on certain assistance"
 usc_title: 22
 usc_section: "8423"
 chapter: 91
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 8423"
-generated_at: "2026-03-30T06:04:13.865Z"
+generated_at: "2026-03-30T06:06:31.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6213 - Repealed. Pub. L. 113–291, div. B, title XXX , § 3024(
 usc_title: 16
 usc_section: "6213"
 chapter: 81
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 6213"
-generated_at: "2026-03-30T06:04:07.395Z"
+generated_at: "2026-03-30T06:06:26.198Z"
 status: "repealed"
 ---
 

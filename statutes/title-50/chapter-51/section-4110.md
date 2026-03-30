@@ -3,9 +3,9 @@ title: "Section 4110 - War Claims Fund"
 usc_title: 50
 usc_section: "4110"
 chapter: 51
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 4110"
-generated_at: "2026-03-30T06:05:14.836Z"
+generated_at: "2026-03-30T06:07:23.941Z"
 status: "active"
 ---
 

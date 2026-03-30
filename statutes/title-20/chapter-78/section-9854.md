@@ -3,9 +3,9 @@ title: "Section 9854 - Repealed. Pub. L. 111–358, title X , § 1002(a)(3), Jan
 usc_title: 20
 usc_section: "9854"
 chapter: 78
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "20 U.S.C. § 9854"
-generated_at: "2026-03-30T06:03:32.969Z"
+generated_at: "2026-03-30T06:06:22.799Z"
 status: "repealed"
 ---
 

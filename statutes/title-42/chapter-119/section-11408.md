@@ -3,9 +3,9 @@ title: "Section 11408 - Rural housing stability grant program"
 usc_title: 42
 usc_section: "11408"
 chapter: 119
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 11408"
-generated_at: "2026-03-30T06:05:05.002Z"
+generated_at: "2026-03-30T06:07:18.964Z"
 status: "active"
 ---
 

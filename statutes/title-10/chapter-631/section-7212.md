@@ -3,9 +3,9 @@ title: "Section 7212 - Employment of outside architects and engineers"
 usc_title: 10
 usc_section: "7212"
 chapter: 631
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 7212"
-generated_at: "2026-03-30T06:02:58.803Z"
+generated_at: "2026-03-30T06:06:04.845Z"
 status: "active"
 ---
 

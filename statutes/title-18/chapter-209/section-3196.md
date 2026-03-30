@@ -3,9 +3,9 @@ title: "Section 3196 - Extradition of United States citizens"
 usc_title: 18
 usc_section: "3196"
 chapter: 209
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "18 U.S.C. § 3196"
-generated_at: "2026-03-30T06:03:28.268Z"
+generated_at: "2026-03-30T06:06:21.008Z"
 status: "active"
 ---
 

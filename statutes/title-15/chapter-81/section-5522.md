@@ -3,9 +3,9 @@ title: "Section 5522 - National Aeronautics and Space Administration activities"
 usc_title: 15
 usc_section: "5522"
 chapter: 81
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 5522"
-generated_at: "2026-03-30T06:03:23.713Z"
+generated_at: "2026-03-30T06:06:17.873Z"
 status: "active"
 ---
 

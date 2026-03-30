@@ -3,9 +3,9 @@ title: "Section 7913 - Supplies: military instruction camps"
 usc_title: 10
 usc_section: "7913"
 chapter: 667
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 7913"
-generated_at: "2026-03-30T06:02:58.808Z"
+generated_at: "2026-03-30T06:06:04.850Z"
 status: "active"
 ---
 

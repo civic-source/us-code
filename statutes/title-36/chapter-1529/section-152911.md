@@ -3,9 +3,9 @@ title: "Section 152911 - Service of process"
 usc_title: 36
 usc_section: "152911"
 chapter: 1529
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "36 U.S.C. § 152911"
-generated_at: "2026-03-30T06:04:46.985Z"
+generated_at: "2026-03-30T06:06:56.078Z"
 status: "active"
 ---
 

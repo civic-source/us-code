@@ -3,9 +3,9 @@ title: "Section 1181i - Designation of national-forest areas within counties; di
 usc_title: 43
 usc_section: "1181i"
 chapter: 28
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "43 U.S.C. § 1181i"
-generated_at: "2026-03-30T06:04:51.095Z"
+generated_at: "2026-03-30T06:07:00.393Z"
 status: "active"
 ---
 

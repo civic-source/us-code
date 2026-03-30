@@ -3,9 +3,9 @@ title: "Section 1039 - Fraud and related activity in connection with obtaining c
 usc_title: 18
 usc_section: "1039"
 chapter: 47
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "18 U.S.C. § 1039"
-generated_at: "2026-03-30T06:03:28.244Z"
+generated_at: "2026-03-30T06:06:20.982Z"
 status: "active"
 ---
 

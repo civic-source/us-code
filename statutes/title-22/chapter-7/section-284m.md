@@ -3,9 +3,9 @@ title: "Section 284m - Repealed. Pub. L. 95–118, title VII , § 702, Oct. 3, 1
 usc_title: 22
 usc_section: "284m"
 chapter: 7
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 284m"
-generated_at: "2026-03-30T06:04:13.744Z"
+generated_at: "2026-03-30T06:06:31.824Z"
 status: "repealed"
 ---
 

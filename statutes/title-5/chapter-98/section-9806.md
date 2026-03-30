@@ -3,9 +3,9 @@ title: "Section 9806 - Term appointments"
 usc_title: 5
 usc_section: "9806"
 chapter: 98
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 9806"
-generated_at: "2026-03-30T06:01:31.430Z"
+generated_at: "2026-03-30T06:05:49.214Z"
 status: "active"
 ---
 

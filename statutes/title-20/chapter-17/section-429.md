@@ -3,9 +3,9 @@ title: "Section 429 - Omitted"
 usc_title: 20
 usc_section: "429"
 chapter: 17
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "20 U.S.C. § 429"
-generated_at: "2026-03-30T06:03:32.844Z"
+generated_at: "2026-03-30T06:06:22.672Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5121 - Recordkeeping by wholesale dealers"
 usc_title: 26
 usc_section: "5121"
 chapter: 51
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "26 U.S.C. § 5121"
-generated_at: "2026-03-30T06:04:40.243Z"
+generated_at: "2026-03-30T06:06:49.947Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3117 - Employment assistance"
 usc_title: 38
 usc_section: "3117"
 chapter: 31
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "38 U.S.C. § 3117"
-generated_at: "2026-03-30T06:04:48.188Z"
+generated_at: "2026-03-30T06:06:57.809Z"
 status: "active"
 ---
 

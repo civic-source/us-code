@@ -3,9 +3,9 @@ title: "Section 7473 - Employment of aliens"
 usc_title: 10
 usc_section: "7473"
 chapter: 643
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 7473"
-generated_at: "2026-03-30T06:02:58.806Z"
+generated_at: "2026-03-30T06:06:04.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 609 - Identification of vehicles"
 usc_title: 40
 usc_section: "609"
 chapter: 5
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "40 U.S.C. § 609"
-generated_at: "2026-03-30T06:04:48.589Z"
+generated_at: "2026-03-30T06:06:56.757Z"
 status: "active"
 ---
 

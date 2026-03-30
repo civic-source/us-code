@@ -3,9 +3,9 @@ title: "Section 7809 - Exclusive economic zone notification"
 usc_title: 16
 usc_section: "7809"
 chapter: 97
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 7809"
-generated_at: "2026-03-30T06:04:07.406Z"
+generated_at: "2026-03-30T06:06:26.210Z"
 status: "active"
 ---
 

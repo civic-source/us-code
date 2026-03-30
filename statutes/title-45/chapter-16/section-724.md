@@ -3,9 +3,9 @@ title: "Section 724 - Authorization of appropriations"
 usc_title: 45
 usc_section: "724"
 chapter: 16
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "45 U.S.C. § 724"
-generated_at: "2026-03-30T06:04:51.958Z"
+generated_at: "2026-03-30T06:07:01.058Z"
 status: "active"
 ---
 

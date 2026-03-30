@@ -3,9 +3,9 @@ title: "Section 1925 - Admiralty and maritime cases"
 usc_title: 28
 usc_section: "1925"
 chapter: 123
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "28 U.S.C. § 1925"
-generated_at: "2026-03-30T06:04:33.666Z"
+generated_at: "2026-03-30T06:06:43.843Z"
 status: "active"
 ---
 

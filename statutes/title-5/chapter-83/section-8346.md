@@ -3,9 +3,9 @@ title: "Section 8346 - Exemption from legal process; recovery of payments"
 usc_title: 5
 usc_section: "8346"
 chapter: 83
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 8346"
-generated_at: "2026-03-30T06:01:31.414Z"
+generated_at: "2026-03-30T06:05:49.200Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2107 - Referenda"
 usc_title: 7
 usc_section: "2107"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "7 U.S.C. § 2107"
-generated_at: "2026-03-30T06:02:22.398Z"
+generated_at: "2026-03-30T06:05:56.980Z"
 status: "active"
 ---
 

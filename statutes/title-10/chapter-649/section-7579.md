@@ -3,9 +3,9 @@ title: "Section 7579 - Officers’ messes and quarters: limitations on employmen
 usc_title: 10
 usc_section: "7579"
 chapter: 649
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 7579"
-generated_at: "2026-03-30T06:02:58.806Z"
+generated_at: "2026-03-30T06:06:04.849Z"
 status: "active"
 ---
 

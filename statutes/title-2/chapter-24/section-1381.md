@@ -3,16 +3,16 @@ title: "Section 1381 - Establishment of Office of Compliance"
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-30T06:01:39.167Z"
+generated_at: "2026-03-30T06:05:31.197Z"
 status: "active"
 ---
 
 # § 1381. Establishment of Office of Compliance
 
 - **(a)** There is established, as an independent office within the legislative branch of the Federal Government, the Office of Compliance.
-- **(b)** The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995 .
+- **(b)** The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995 .
 - **(c)** The Chair shall be appointed from members of the Board jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate.
 - **(d)**
   - **(1)** Selection and appointment of members of the Board shall be without regard to political affiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title .
@@ -26,6 +26,7 @@ status: "active"
     - **(A)** 1 shall have a term of office of 3 years,
     - **(B)** 2 shall have a term of office of 4 years, and
     - **(C)** 2 shall have a term of office of 5 years, 1 of whom shall be the Chair,
+  - **(3)** A member of the Board may serve after the expiration of that member’s term until a successor has taken office.
 - **(f)**
   - **(1)** Any member of the Board may be removed from office by a majority decision of the appointing authorities described in subsection (b), but only for—
     - **(A)** disability that substantially prevents the member from carrying out the duties of the member,

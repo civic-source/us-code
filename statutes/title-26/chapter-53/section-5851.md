@@ -3,9 +3,9 @@ title: "Section 5851 - Special (occupational) tax exemption"
 usc_title: 26
 usc_section: "5851"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "26 U.S.C. § 5851"
-generated_at: "2026-03-30T06:04:40.251Z"
+generated_at: "2026-03-30T06:06:49.954Z"
 status: "active"
 ---
 

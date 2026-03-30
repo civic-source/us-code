@@ -3,9 +3,9 @@ title: "Section 7394 - Repealed. Pub. L. 97–295 , § 1(50)(A), Oct. 12, 1982 ,
 usc_title: 10
 usc_section: "7394"
 chapter: 639
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 7394"
-generated_at: "2026-03-30T06:02:58.805Z"
+generated_at: "2026-03-30T06:06:04.847Z"
 status: "repealed"
 ---
 

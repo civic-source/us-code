@@ -3,9 +3,9 @@ title: "Section 2206 - Disbursement of funds of military department to cover obl
 usc_title: 10
 usc_section: "2206"
 chapter: 131
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 2206"
-generated_at: "2026-03-30T06:02:58.749Z"
+generated_at: "2026-03-30T06:06:04.794Z"
 status: "active"
 ---
 

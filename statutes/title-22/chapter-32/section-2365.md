@@ -3,9 +3,9 @@ title: "Section 2365 - Contract authority"
 usc_title: 22
 usc_section: "2365"
 chapter: 32
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 2365"
-generated_at: "2026-03-30T06:04:13.784Z"
+generated_at: "2026-03-30T06:06:31.863Z"
 status: "active"
 ---
 

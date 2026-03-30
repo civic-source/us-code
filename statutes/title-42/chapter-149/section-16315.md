@@ -3,9 +3,9 @@ title: "Section 16315 - Solid state lighting"
 usc_title: 42
 usc_section: "16315"
 chapter: 149
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 16315"
-generated_at: "2026-03-30T06:05:05.082Z"
+generated_at: "2026-03-30T06:07:19.043Z"
 status: "active"
 ---
 

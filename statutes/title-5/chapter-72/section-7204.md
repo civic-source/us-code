@@ -3,9 +3,9 @@ title: "Section 7204 - Other prohibitions"
 usc_title: 5
 usc_section: "7204"
 chapter: 72
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 7204"
-generated_at: "2026-03-30T06:01:31.404Z"
+generated_at: "2026-03-30T06:05:49.191Z"
 status: "active"
 ---
 

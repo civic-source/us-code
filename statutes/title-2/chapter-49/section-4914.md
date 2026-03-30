@@ -3,9 +3,9 @@ title: "Section 4914 - Academic year and summer term for page program"
 usc_title: 2
 usc_section: "4914"
 chapter: 49
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 4914"
-generated_at: "2026-03-30T06:01:39.183Z"
+generated_at: "2026-03-30T06:05:31.216Z"
 status: "active"
 ---
 

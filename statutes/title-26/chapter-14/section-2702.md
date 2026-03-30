@@ -3,9 +3,9 @@ title: "Section 2702 - Special valuation rules in case of transfers of interests
 usc_title: 26
 usc_section: "2702"
 chapter: 14
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "26 U.S.C. § 2702"
-generated_at: "2026-03-30T06:04:40.216Z"
+generated_at: "2026-03-30T06:06:49.920Z"
 status: "active"
 ---
 

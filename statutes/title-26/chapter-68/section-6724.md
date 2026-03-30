@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-30T06:04:40.282Z"
+generated_at: "2026-03-30T06:06:50.063Z"
 status: "active"
 ---
 

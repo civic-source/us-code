@@ -3,9 +3,9 @@ title: "Section 12655n - Federal and State employee status"
 usc_title: 42
 usc_section: "12655n"
 chapter: 129
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 12655n"
-generated_at: "2026-03-30T06:05:05.024Z"
+generated_at: "2026-03-30T06:07:18.987Z"
 status: "active"
 ---
 

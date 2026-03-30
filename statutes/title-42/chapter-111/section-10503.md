@@ -3,9 +3,9 @@ title: "Section 10503 - Limitation on authority"
 usc_title: 42
 usc_section: "10503"
 chapter: 111
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 10503"
-generated_at: "2026-03-30T06:05:04.991Z"
+generated_at: "2026-03-30T06:07:18.953Z"
 status: "active"
 ---
 

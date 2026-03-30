@@ -3,9 +3,9 @@ title: "Section 13295 - Repealed. Pub. L. 105–362, title IV , § 401(b), Nov. 
 usc_title: 42
 usc_section: "13295"
 chapter: 134
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 13295"
-generated_at: "2026-03-30T06:05:05.036Z"
+generated_at: "2026-03-30T06:07:18.998Z"
 status: "repealed"
 ---
 

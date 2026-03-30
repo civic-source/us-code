@@ -3,9 +3,9 @@ title: "Section 11522 - Repealed. Pub. L. 107–314, div. A, title VIII , § 825
 usc_title: 40
 usc_section: "11522"
 chapter: 115
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "40 U.S.C. § 11522"
-generated_at: "2026-03-30T06:04:48.598Z"
+generated_at: "2026-03-30T06:06:56.765Z"
 status: "repealed"
 ---
 

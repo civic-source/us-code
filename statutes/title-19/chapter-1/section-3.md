@@ -3,9 +3,9 @@ title: "Section 3 - Superintendence of collection of import duties"
 usc_title: 19
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 3"
-generated_at: "2026-03-30T06:03:27.307Z"
+generated_at: "2026-03-30T06:06:23.821Z"
 status: "active"
 ---
 

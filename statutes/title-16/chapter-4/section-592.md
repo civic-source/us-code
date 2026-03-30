@@ -3,9 +3,9 @@ title: "Section 592 - Repealed. Feb. 28, 1933, ch. 131 , § 1, 47 Stat. 1349"
 usc_title: 16
 usc_section: "592"
 chapter: 4
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 592"
-generated_at: "2026-03-30T06:04:07.241Z"
+generated_at: "2026-03-30T06:06:26.090Z"
 status: "repealed"
 ---
 

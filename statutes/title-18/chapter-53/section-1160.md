@@ -3,9 +3,9 @@ title: "Section 1160 - Property damaged in committing offense"
 usc_title: 18
 usc_section: "1160"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "18 U.S.C. § 1160"
-generated_at: "2026-03-30T06:03:28.245Z"
+generated_at: "2026-03-30T06:06:20.983Z"
 status: "active"
 ---
 

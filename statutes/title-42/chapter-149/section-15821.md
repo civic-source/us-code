@@ -3,9 +3,9 @@ title: "Section 15821 - Energy efficient appliance rebate programs"
 usc_title: 42
 usc_section: "15821"
 chapter: 149
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 15821"
-generated_at: "2026-03-30T06:05:05.071Z"
+generated_at: "2026-03-30T06:07:19.032Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41 - Repealed. Feb. 28, 1933, ch. 131 , § 1, 47 Stat. 1349"
 usc_title: 19
 usc_section: "41"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 41"
-generated_at: "2026-03-30T06:03:27.307Z"
+generated_at: "2026-03-30T06:06:23.821Z"
 status: "repealed"
 ---
 

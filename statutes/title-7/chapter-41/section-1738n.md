@@ -3,9 +3,9 @@ title: "Section 1738n - Consultations with Congress"
 usc_title: 7
 usc_section: "1738n"
 chapter: 41
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "7 U.S.C. § 1738n"
-generated_at: "2026-03-30T06:02:22.372Z"
+generated_at: "2026-03-30T06:05:56.955Z"
 status: "active"
 ---
 

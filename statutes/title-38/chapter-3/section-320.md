@@ -3,9 +3,9 @@ title: "Section 320 - Department of Veterans Affairs-Department of Defense Joint
 usc_title: 38
 usc_section: "320"
 chapter: 3
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "38 U.S.C. § 320"
-generated_at: "2026-03-30T06:04:48.166Z"
+generated_at: "2026-03-30T06:06:57.788Z"
 status: "active"
 ---
 

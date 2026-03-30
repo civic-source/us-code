@@ -3,9 +3,9 @@ title: "Section 1831e - Activities of savings associations"
 usc_title: 12
 usc_section: "1831e"
 chapter: 16
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 1831e"
-generated_at: "2026-03-30T06:03:04.460Z"
+generated_at: "2026-03-30T06:06:11.027Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5532 - Disclosures"
 usc_title: 12
 usc_section: "5532"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 5532"
-generated_at: "2026-03-30T06:03:04.538Z"
+generated_at: "2026-03-30T06:06:11.105Z"
 status: "active"
 ---
 

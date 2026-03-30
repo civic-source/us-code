@@ -3,9 +3,9 @@ title: "Section 1638f - Indian country modular component facilities demonstratio
 usc_title: 25
 usc_section: "1638f"
 chapter: 18
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "25 U.S.C. § 1638f"
-generated_at: "2026-03-30T06:04:30.494Z"
+generated_at: "2026-03-30T06:06:29.207Z"
 status: "active"
 ---
 

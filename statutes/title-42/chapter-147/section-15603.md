@@ -3,9 +3,9 @@ title: "Section 15603 - National prison rape statistics, data, and research"
 usc_title: 42
 usc_section: "15603"
 chapter: 147
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 15603"
-generated_at: "2026-03-30T06:05:05.068Z"
+generated_at: "2026-03-30T06:07:19.030Z"
 status: "active"
 ---
 

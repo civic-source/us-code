@@ -3,9 +3,9 @@ title: "Section 1273 - Federal lands"
 usc_title: 30
 usc_section: "1273"
 chapter: 25
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "30 U.S.C. § 1273"
-generated_at: "2026-03-30T06:04:35.671Z"
+generated_at: "2026-03-30T06:06:37.215Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 658 - Property mortgaged or pledged to farm credit agencies"
 usc_title: 18
 usc_section: "658"
 chapter: 31
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "18 U.S.C. § 658"
-generated_at: "2026-03-30T06:03:28.234Z"
+generated_at: "2026-03-30T06:06:20.971Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1124a - Repealed. Pub. L. 105–160 , § 6, Mar. 6, 1998 , 112 S
 usc_title: 33
 usc_section: "1124a"
 chapter: 22
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "33 U.S.C. § 1124a"
-generated_at: "2026-03-30T06:04:44.413Z"
+generated_at: "2026-03-30T06:06:53.669Z"
 status: "repealed"
 ---
 

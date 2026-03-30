@@ -3,9 +3,9 @@ title: "Section 8745 - Omitted"
 usc_title: 42
 usc_section: "8745"
 chapter: 95
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 8745"
-generated_at: "2026-03-30T06:05:04.952Z"
+generated_at: "2026-03-30T06:07:18.915Z"
 status: "omitted"
 ---
 

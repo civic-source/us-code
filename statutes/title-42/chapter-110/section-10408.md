@@ -3,9 +3,9 @@ title: "Section 10408 - Subgrants and uses of funds"
 usc_title: 42
 usc_section: "10408"
 chapter: 110
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 10408"
-generated_at: "2026-03-30T06:05:04.989Z"
+generated_at: "2026-03-30T06:07:18.951Z"
 status: "active"
 ---
 

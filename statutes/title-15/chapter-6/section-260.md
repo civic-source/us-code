@@ -3,9 +3,9 @@ title: "Section 260 - Congressional declaration of policy; adoption and observan
 usc_title: 15
 usc_section: "260"
 chapter: 6
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 260"
-generated_at: "2026-03-30T06:03:23.612Z"
+generated_at: "2026-03-30T06:06:17.761Z"
 status: "active"
 ---
 

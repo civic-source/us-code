@@ -3,9 +3,9 @@ title: "Section 80107 - Warranties and liability"
 usc_title: 49
 usc_section: "80107"
 chapter: 801
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "49 U.S.C. § 80107"
-generated_at: "2026-03-30T06:05:10.220Z"
+generated_at: "2026-03-30T06:07:25.933Z"
 status: "active"
 ---
 

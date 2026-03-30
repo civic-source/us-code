@@ -3,9 +3,9 @@ title: "Section 1968 - Citation release"
 usc_title: 2
 usc_section: "1968"
 chapter: 29
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 1968"
-generated_at: "2026-03-30T06:01:39.174Z"
+generated_at: "2026-03-30T06:05:31.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4009 - Authorization of appropriations"
 usc_title: 33
 usc_section: "4009"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "33 U.S.C. § 4009"
-generated_at: "2026-03-30T06:04:44.459Z"
+generated_at: "2026-03-30T06:06:53.716Z"
 status: "active"
 ---
 

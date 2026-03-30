@@ -3,9 +3,9 @@ title: "Section 1131 - Annual report"
 usc_title: 41
 usc_section: "1131"
 chapter: 11
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "41 U.S.C. § 1131"
-generated_at: "2026-03-30T06:04:50.371Z"
+generated_at: "2026-03-30T06:06:59.817Z"
 status: "active"
 ---
 

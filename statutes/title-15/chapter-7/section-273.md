@@ -3,9 +3,9 @@ title: "Section 273 - Functions; for whom exercised"
 usc_title: 15
 usc_section: "273"
 chapter: 7
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 273"
-generated_at: "2026-03-30T06:03:23.613Z"
+generated_at: "2026-03-30T06:06:17.761Z"
 status: "active"
 ---
 

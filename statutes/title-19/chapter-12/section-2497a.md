@@ -3,9 +3,9 @@ title: "Section 2497a - Agricultural Disaster Relief Trust Fund"
 usc_title: 19
 usc_section: "2497a"
 chapter: 12
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 2497a"
-generated_at: "2026-03-30T06:03:27.348Z"
+generated_at: "2026-03-30T06:06:23.864Z"
 status: "active"
 ---
 

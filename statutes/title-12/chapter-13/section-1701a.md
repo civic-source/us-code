@@ -3,9 +3,9 @@ title: "Section 1701a - Short title of amendment of 1938"
 usc_title: 12
 usc_section: "1701a"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 1701a"
-generated_at: "2026-03-30T06:03:04.408Z"
+generated_at: "2026-03-30T06:06:10.975Z"
 status: "active"
 ---
 

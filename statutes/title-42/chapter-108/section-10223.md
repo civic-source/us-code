@@ -3,9 +3,9 @@ title: "Section 10223 - Alternative means of financing"
 usc_title: 42
 usc_section: "10223"
 chapter: 108
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 10223"
-generated_at: "2026-03-30T06:05:04.986Z"
+generated_at: "2026-03-30T06:07:18.948Z"
 status: "active"
 ---
 

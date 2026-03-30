@@ -3,9 +3,9 @@ title: "Section 5137 - Surgeon General: appointment; duties"
 usc_title: 10
 usc_section: "5137"
 chapter: 513
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 5137"
-generated_at: "2026-03-30T06:02:58.797Z"
+generated_at: "2026-03-30T06:06:04.839Z"
 status: "active"
 ---
 

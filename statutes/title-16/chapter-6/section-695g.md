@@ -3,9 +3,9 @@ title: "Section 695g - Authorization of appropriations"
 usc_title: 16
 usc_section: "695g"
 chapter: 6
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 695g"
-generated_at: "2026-03-30T06:04:07.248Z"
+generated_at: "2026-03-30T06:06:26.097Z"
 status: "active"
 ---
 

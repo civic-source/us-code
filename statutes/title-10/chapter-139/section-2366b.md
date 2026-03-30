@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-30T06:02:58.762Z"
+generated_at: "2026-03-30T06:06:04.806Z"
 status: "active"
 ---
 

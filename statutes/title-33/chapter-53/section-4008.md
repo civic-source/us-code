@@ -3,9 +3,9 @@ title: "Section 4008 - Definitions"
 usc_title: 33
 usc_section: "4008"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "33 U.S.C. § 4008"
-generated_at: "2026-03-30T06:04:44.459Z"
+generated_at: "2026-03-30T06:06:53.716Z"
 status: "active"
 ---
 

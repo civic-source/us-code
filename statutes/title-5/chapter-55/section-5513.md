@@ -3,9 +3,9 @@ title: "Section 5513 - Withholding pay; credit disallowed or charge raised for p
 usc_title: 5
 usc_section: "5513"
 chapter: 55
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 5513"
-generated_at: "2026-03-30T06:01:31.389Z"
+generated_at: "2026-03-30T06:05:49.178Z"
 status: "active"
 ---
 

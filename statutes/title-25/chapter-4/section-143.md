@@ -3,9 +3,9 @@ title: "Section 143 - Repealed. Aug. 30, 1954, ch. 1076 , § 1(24), 68 Stat. 968
 usc_title: 25
 usc_section: "143"
 chapter: 4
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "25 U.S.C. § 143"
-generated_at: "2026-03-30T06:04:30.474Z"
+generated_at: "2026-03-30T06:06:29.187Z"
 status: "repealed"
 ---
 

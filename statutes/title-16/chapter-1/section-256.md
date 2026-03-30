@@ -3,9 +3,9 @@ title: "Section 256 - Acceptance of land ceded by State of Washington; assumptio
 usc_title: 16
 usc_section: "256"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 256"
-generated_at: "2026-03-30T06:04:07.148Z"
+generated_at: "2026-03-30T06:06:26.000Z"
 status: "active"
 ---
 

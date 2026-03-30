@@ -3,9 +3,9 @@ title: "Section 16944 - Expansion of training and technology efforts"
 usc_title: 42
 usc_section: "16944"
 chapter: 151
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 16944"
-generated_at: "2026-03-30T06:05:05.090Z"
+generated_at: "2026-03-30T06:07:19.051Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 406 - Compelling furnishing of facilities; mandamus; jurisdictio
 usc_title: 47
 usc_section: "406"
 chapter: 5
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "47 U.S.C. § 406"
-generated_at: "2026-03-30T06:05:15.227Z"
+generated_at: "2026-03-30T06:07:22.298Z"
 status: "active"
 ---
 

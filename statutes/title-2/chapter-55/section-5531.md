@@ -3,9 +3,9 @@ title: "Section 5531 - Program to increase employment opportunities in House of 
 usc_title: 2
 usc_section: "5531"
 chapter: 55
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 5531"
-generated_at: "2026-03-30T06:01:39.185Z"
+generated_at: "2026-03-30T06:05:31.218Z"
 status: "active"
 ---
 

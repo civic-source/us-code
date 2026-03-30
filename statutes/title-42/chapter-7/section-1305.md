@@ -3,9 +3,9 @@ title: "Section 1305 - Short title of chapter"
 usc_title: 42
 usc_section: "1305"
 chapter: 7
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 1305"
-generated_at: "2026-03-30T06:05:04.581Z"
+generated_at: "2026-03-30T06:07:18.549Z"
 status: "active"
 ---
 

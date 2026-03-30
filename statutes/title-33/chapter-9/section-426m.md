@@ -3,9 +3,9 @@ title: "Section 426m - Collection and removal of drift and debris from publicly 
 usc_title: 33
 usc_section: "426m"
 chapter: 9
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "33 U.S.C. § 426m"
-generated_at: "2026-03-30T06:04:44.394Z"
+generated_at: "2026-03-30T06:06:53.651Z"
 status: "active"
 ---
 

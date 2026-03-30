@@ -3,9 +3,9 @@ title: "Section 6808 - Reports"
 usc_title: 16
 usc_section: "6808"
 chapter: 87
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 6808"
-generated_at: "2026-03-30T06:04:07.400Z"
+generated_at: "2026-03-30T06:06:26.204Z"
 status: "active"
 ---
 

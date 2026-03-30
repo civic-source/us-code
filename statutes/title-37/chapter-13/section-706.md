@@ -3,9 +3,9 @@ title: "Section 706 - Allotments: commissioned officers of the National Oceanic 
 usc_title: 37
 usc_section: "706"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "37 U.S.C. § 706"
-generated_at: "2026-03-30T06:04:46.378Z"
+generated_at: "2026-03-30T06:06:55.528Z"
 status: "active"
 ---
 

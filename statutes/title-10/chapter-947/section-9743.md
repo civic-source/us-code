@@ -3,9 +3,9 @@ title: "Section 9743 - Repealed. Pub. L. 108–375, div. A, title X , § 1072(c)
 usc_title: 10
 usc_section: "9743"
 chapter: 947
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 9743"
-generated_at: "2026-03-30T06:02:58.815Z"
+generated_at: "2026-03-30T06:06:04.857Z"
 status: "repealed"
 ---
 

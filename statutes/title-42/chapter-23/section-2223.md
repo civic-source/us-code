@@ -3,9 +3,9 @@ title: "Section 2223 - Patent application disclosures"
 usc_title: 42
 usc_section: "2223"
 chapter: 23
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 2223"
-generated_at: "2026-03-30T06:05:04.774Z"
+generated_at: "2026-03-30T06:07:18.742Z"
 status: "active"
 ---
 

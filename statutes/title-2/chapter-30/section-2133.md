@@ -3,9 +3,9 @@ title: "Section 2133 - Acceptance and supervision of works of fine arts"
 usc_title: 2
 usc_section: "2133"
 chapter: 30
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 2133"
-generated_at: "2026-03-30T06:01:39.177Z"
+generated_at: "2026-03-30T06:05:31.208Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6323 - Military leave; Reserves and National Guardsmen"
 usc_title: 5
 usc_section: "6323"
 chapter: 63
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 6323"
-generated_at: "2026-03-30T06:01:31.399Z"
+generated_at: "2026-03-30T06:05:49.186Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 445 - Equipment and marking of boats or scows"
 usc_title: 33
 usc_section: "445"
 chapter: 9
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "33 U.S.C. § 445"
-generated_at: "2026-03-30T06:04:44.394Z"
+generated_at: "2026-03-30T06:06:53.651Z"
 status: "active"
 ---
 

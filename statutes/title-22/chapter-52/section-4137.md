@@ -3,9 +3,9 @@ title: "Section 4137 - Foreign Service Grievance Board decisions"
 usc_title: 22
 usc_section: "4137"
 chapter: 52
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 4137"
-generated_at: "2026-03-30T06:04:13.824Z"
+generated_at: "2026-03-30T06:06:31.904Z"
 status: "active"
 ---
 

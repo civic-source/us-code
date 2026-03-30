@@ -3,9 +3,9 @@ title: "Section 1031 - Exchange of property held for productive use or investmen
 usc_title: 26
 usc_section: "1031"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "26 U.S.C. § 1031"
-generated_at: "2026-03-30T06:04:40.188Z"
+generated_at: "2026-03-30T06:06:49.888Z"
 status: "active"
 ---
 

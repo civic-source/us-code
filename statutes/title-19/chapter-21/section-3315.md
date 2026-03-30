@@ -3,9 +3,9 @@ title: "Section 3315 - United States Section of NAFTA Secretariat"
 usc_title: 19
 usc_section: "3315"
 chapter: 21
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 3315"
-generated_at: "2026-03-30T06:03:27.356Z"
+generated_at: "2026-03-30T06:06:23.874Z"
 status: "active"
 ---
 

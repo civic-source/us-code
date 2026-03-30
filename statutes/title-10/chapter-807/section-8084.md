@@ -3,9 +3,9 @@ title: "Section 8084 - Officer career field for space"
 usc_title: 10
 usc_section: "8084"
 chapter: 807
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 8084"
-generated_at: "2026-03-30T06:02:58.809Z"
+generated_at: "2026-03-30T06:06:04.851Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2327 - Definition of rehabilitation for inland waterway projects
 usc_title: 33
 usc_section: "2327"
 chapter: 36
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "33 U.S.C. § 2327"
-generated_at: "2026-03-30T06:04:44.444Z"
+generated_at: "2026-03-30T06:06:53.700Z"
 status: "active"
 ---
 

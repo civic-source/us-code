@@ -3,9 +3,9 @@ title: "Section 13013a - Report"
 usc_title: 42
 usc_section: "13013a"
 chapter: 132
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 13013a"
-generated_at: "2026-03-30T06:05:05.033Z"
+generated_at: "2026-03-30T06:07:18.995Z"
 status: "active"
 ---
 

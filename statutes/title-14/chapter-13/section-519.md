@@ -3,9 +3,9 @@ title: "Section 519 - Annual audit of pay and allowances of members undergoing p
 usc_title: 14
 usc_section: "519"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "14 U.S.C. § 519"
-generated_at: "2026-03-30T06:03:06.806Z"
+generated_at: "2026-03-30T06:06:06.913Z"
 status: "active"
 ---
 

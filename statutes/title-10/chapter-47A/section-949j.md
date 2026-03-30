@@ -3,9 +3,9 @@ title: "Section 949j - Opportunity to obtain witnesses and other evidence"
 usc_title: 10
 usc_section: "949j"
 chapter: 47
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 949j"
-generated_at: "2026-03-30T06:02:58.711Z"
+generated_at: "2026-03-30T06:06:04.758Z"
 status: "active"
 ---
 

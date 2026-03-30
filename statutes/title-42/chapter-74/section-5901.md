@@ -3,9 +3,9 @@ title: "Section 5901 - Congressional statement of findings"
 usc_title: 42
 usc_section: "5901"
 chapter: 74
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 5901"
-generated_at: "2026-03-30T06:05:04.861Z"
+generated_at: "2026-03-30T06:07:18.828Z"
 status: "active"
 ---
 

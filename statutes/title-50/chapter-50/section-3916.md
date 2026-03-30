@@ -3,9 +3,9 @@ title: "Section 3916 - Information for members of the Armed Forces and their dep
 usc_title: 50
 usc_section: "3916"
 chapter: 50
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 3916"
-generated_at: "2026-03-30T06:05:14.833Z"
+generated_at: "2026-03-30T06:07:23.938Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2412 - Purposes"
 usc_title: 10
 usc_section: "2412"
 chapter: 142
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 2412"
-generated_at: "2026-03-30T06:02:58.765Z"
+generated_at: "2026-03-30T06:06:04.810Z"
 status: "active"
 ---
 

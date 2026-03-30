@@ -3,9 +3,9 @@ title: "Section 4651 - Repealed. Pub. L. 112–239, div. A, title V , § 552(b),
 usc_title: 10
 usc_section: "4651"
 chapter: 441
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 4651"
-generated_at: "2026-03-30T06:02:58.794Z"
+generated_at: "2026-03-30T06:06:04.837Z"
 status: "repealed"
 ---
 

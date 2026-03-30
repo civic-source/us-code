@@ -3,9 +3,9 @@ title: "Section 317 - Special policemen"
 usc_title: 44
 usc_section: "317"
 chapter: 3
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "44 U.S.C. § 317"
-generated_at: "2026-03-30T06:04:51.713Z"
+generated_at: "2026-03-30T06:07:01.602Z"
 status: "active"
 ---
 

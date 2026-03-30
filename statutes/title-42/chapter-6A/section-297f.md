@@ -3,9 +3,9 @@ title: "Section 297f - Repealed. Pub. L. 94–63, title IX , § 936(e)(1), July 
 usc_title: 42
 usc_section: "297f"
 chapter: 6
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 297f"
-generated_at: "2026-03-30T06:05:04.488Z"
+generated_at: "2026-03-30T06:07:18.458Z"
 status: "repealed"
 ---
 

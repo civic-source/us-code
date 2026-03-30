@@ -3,9 +3,9 @@ title: "Section 1611 - Certain types of property immune from execution"
 usc_title: 28
 usc_section: "1611"
 chapter: 97
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "28 U.S.C. § 1611"
-generated_at: "2026-03-30T06:04:33.664Z"
+generated_at: "2026-03-30T06:06:43.841Z"
 status: "active"
 ---
 

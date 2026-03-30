@@ -3,9 +3,9 @@ title: "Section 2151f - Transferred"
 usc_title: 22
 usc_section: "2151f"
 chapter: 32
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 2151f"
-generated_at: "2026-03-30T06:04:13.770Z"
+generated_at: "2026-03-30T06:06:31.849Z"
 status: "transferred"
 ---
 

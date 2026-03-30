@@ -3,9 +3,9 @@ title: "Section 1311 - Preparation for public offering"
 usc_title: 45
 usc_section: "1311"
 chapter: 22
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "45 U.S.C. § 1311"
-generated_at: "2026-03-30T06:04:51.966Z"
+generated_at: "2026-03-30T06:07:01.064Z"
 status: "active"
 ---
 

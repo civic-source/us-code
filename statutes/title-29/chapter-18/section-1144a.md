@@ -3,9 +3,9 @@ title: "Section 1144a - Clarification of church welfare plan status under State 
 usc_title: 29
 usc_section: "1144a"
 chapter: 18
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "29 U.S.C. § 1144a"
-generated_at: "2026-03-30T06:04:34.523Z"
+generated_at: "2026-03-30T06:06:36.596Z"
 status: "active"
 ---
 

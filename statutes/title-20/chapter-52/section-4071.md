@@ -3,9 +3,9 @@ title: "Section 4071 - Denial of equal access prohibited"
 usc_title: 20
 usc_section: "4071"
 chapter: 52
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "20 U.S.C. § 4071"
-generated_at: "2026-03-30T06:03:32.926Z"
+generated_at: "2026-03-30T06:06:22.755Z"
 status: "active"
 ---
 

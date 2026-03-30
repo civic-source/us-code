@@ -3,9 +3,9 @@ title: "Section 14044a - Establishment of a grant program to develop, expand, an
 usc_title: 42
 usc_section: "14044a"
 chapter: 136
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 14044a"
-generated_at: "2026-03-30T06:05:05.052Z"
+generated_at: "2026-03-30T06:07:19.014Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3699 - Repealed. Pub. L. 108–183, title III , § 306(e), Dec. 
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T06:04:48.195Z"
+generated_at: "2026-03-30T06:06:57.816Z"
 status: "repealed"
 ---
 

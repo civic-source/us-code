@@ -3,9 +3,9 @@ title: "Section 1629d - Dissenters rights"
 usc_title: 43
 usc_section: "1629d"
 chapter: 33
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "43 U.S.C. § 1629d"
-generated_at: "2026-03-30T06:04:51.110Z"
+generated_at: "2026-03-30T06:07:00.407Z"
 status: "active"
 ---
 

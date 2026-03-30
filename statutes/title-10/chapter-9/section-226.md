@@ -3,9 +3,9 @@ title: "Section 226 - Repealed. Pub. L. 112–81, div. A, title X , § 1061(3)(A
 usc_title: 10
 usc_section: "226"
 chapter: 9
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 226"
-generated_at: "2026-03-30T06:02:58.687Z"
+generated_at: "2026-03-30T06:06:04.737Z"
 status: "repealed"
 ---
 

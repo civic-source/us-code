@@ -3,9 +3,9 @@ title: "Section 1667c - Substance abuse and mental health services Administratio
 usc_title: 25
 usc_section: "1667c"
 chapter: 18
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "25 U.S.C. § 1667c"
-generated_at: "2026-03-30T06:04:30.497Z"
+generated_at: "2026-03-30T06:06:29.211Z"
 status: "active"
 ---
 

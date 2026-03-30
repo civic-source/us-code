@@ -3,9 +3,9 @@ title: "Section 1098 - Advisory Committee on Student Financial Assistance"
 usc_title: 20
 usc_section: "1098"
 chapter: 28
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "20 U.S.C. § 1098"
-generated_at: "2026-03-30T06:03:32.888Z"
+generated_at: "2026-03-30T06:06:22.716Z"
 status: "active"
 ---
 

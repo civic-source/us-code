@@ -3,9 +3,9 @@ title: "Section 7261 - Grants for education innovation and research"
 usc_title: 20
 usc_section: "7261"
 chapter: 70
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "20 U.S.C. § 7261"
-generated_at: "2026-03-30T06:03:32.950Z"
+generated_at: "2026-03-30T06:06:22.779Z"
 status: "active"
 ---
 

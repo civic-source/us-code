@@ -3,9 +3,9 @@ title: "Section 159g - Acquisition of lands"
 usc_title: 16
 usc_section: "159g"
 chapter: 1
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "16 U.S.C. § 159g"
-generated_at: "2026-03-30T06:04:07.141Z"
+generated_at: "2026-03-30T06:06:25.995Z"
 status: "active"
 ---
 

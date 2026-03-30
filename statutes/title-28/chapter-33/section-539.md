@@ -3,9 +3,9 @@ title: "Section 539 - Counterintelligence official reception and representation 
 usc_title: 28
 usc_section: "539"
 chapter: 33
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "28 U.S.C. § 539"
-generated_at: "2026-03-30T06:04:33.654Z"
+generated_at: "2026-03-30T06:06:43.831Z"
 status: "active"
 ---
 

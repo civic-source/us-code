@@ -3,9 +3,9 @@ title: "Section 8724 - Zoning regulations and maps"
 usc_title: 40
 usc_section: "8724"
 chapter: 87
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "40 U.S.C. § 8724"
-generated_at: "2026-03-30T06:04:48.596Z"
+generated_at: "2026-03-30T06:06:56.763Z"
 status: "active"
 ---
 

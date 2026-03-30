@@ -3,9 +3,9 @@ title: "Section 2416 - Annual foreign military training report"
 usc_title: 22
 usc_section: "2416"
 chapter: 32
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 2416"
-generated_at: "2026-03-30T06:04:13.789Z"
+generated_at: "2026-03-30T06:06:31.867Z"
 status: "active"
 ---
 

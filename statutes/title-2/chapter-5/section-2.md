@@ -3,9 +3,9 @@ title: "Section 2 - Librarian of Congress and Deputy Librarian of Congress; comp
 usc_title: 2
 usc_section: "2"
 chapter: 5
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 2"
-generated_at: "2026-03-30T06:01:39.148Z"
+generated_at: "2026-03-30T06:05:31.175Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1869 - Advance payments"
 usc_title: 2
 usc_section: "1869"
 chapter: 28
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 1869"
-generated_at: "2026-03-30T06:01:39.172Z"
+generated_at: "2026-03-30T06:05:31.204Z"
 status: "active"
 ---
 

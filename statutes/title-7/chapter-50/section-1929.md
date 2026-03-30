@@ -3,9 +3,9 @@ title: "Section 1929 - Agricultural Credit Insurance Fund"
 usc_title: 7
 usc_section: "1929"
 chapter: 50
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "7 U.S.C. § 1929"
-generated_at: "2026-03-30T06:02:22.375Z"
+generated_at: "2026-03-30T06:05:56.958Z"
 status: "active"
 ---
 

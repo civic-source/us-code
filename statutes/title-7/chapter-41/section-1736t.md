@@ -3,9 +3,9 @@ title: "Section 1736t - Repealed. Pub. L. 101–624, title XV , § 1572(3), Nov.
 usc_title: 7
 usc_section: "1736t"
 chapter: 41
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "7 U.S.C. § 1736t"
-generated_at: "2026-03-30T06:02:22.370Z"
+generated_at: "2026-03-30T06:05:56.954Z"
 status: "repealed"
 ---
 

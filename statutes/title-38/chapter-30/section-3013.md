@@ -3,9 +3,9 @@ title: "Section 3013 - Duration of basic educational assistance"
 usc_title: 38
 usc_section: "3013"
 chapter: 30
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "38 U.S.C. § 3013"
-generated_at: "2026-03-30T06:04:48.186Z"
+generated_at: "2026-03-30T06:06:57.806Z"
 status: "active"
 ---
 

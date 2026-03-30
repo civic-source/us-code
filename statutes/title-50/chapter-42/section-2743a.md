@@ -3,9 +3,9 @@ title: "Section 2743a - General plant projects"
 usc_title: 50
 usc_section: "2743a"
 chapter: 42
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 2743a"
-generated_at: "2026-03-30T06:05:14.812Z"
+generated_at: "2026-03-30T06:07:23.917Z"
 status: "active"
 ---
 

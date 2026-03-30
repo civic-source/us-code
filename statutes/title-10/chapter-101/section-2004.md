@@ -3,9 +3,9 @@ title: "Section 2004 - Detail of commissioned officers as students at law school
 usc_title: 10
 usc_section: "2004"
 chapter: 101
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 2004"
-generated_at: "2026-03-30T06:02:58.743Z"
+generated_at: "2026-03-30T06:06:04.789Z"
 status: "active"
 ---
 

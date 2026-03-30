@@ -3,9 +3,9 @@ title: "Section 11521 - Repealed. Pub. L. 107–347, title II , § 210(h)(1), De
 usc_title: 40
 usc_section: "11521"
 chapter: 115
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "40 U.S.C. § 11521"
-generated_at: "2026-03-30T06:04:48.598Z"
+generated_at: "2026-03-30T06:06:56.765Z"
 status: "repealed"
 ---
 

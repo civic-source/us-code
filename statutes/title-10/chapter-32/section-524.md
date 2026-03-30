@@ -3,9 +3,9 @@ title: "Section 524 - Renumbered § 12011]"
 usc_title: 10
 usc_section: "524"
 chapter: 32
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 524"
-generated_at: "2026-03-30T06:02:58.696Z"
+generated_at: "2026-03-30T06:06:04.745Z"
 status: "renumbered"
 ---
 

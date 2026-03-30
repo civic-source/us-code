@@ -3,9 +3,9 @@ title: "Section 3801 - Short title; Congressional declaration of policy"
 usc_title: 50
 usc_section: "3801"
 chapter: 49
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 3801"
-generated_at: "2026-03-30T06:05:14.830Z"
+generated_at: "2026-03-30T06:07:23.935Z"
 status: "active"
 ---
 

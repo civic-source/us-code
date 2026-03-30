@@ -3,9 +3,9 @@ title: "Section 4046 - Shock incarceration program"
 usc_title: 18
 usc_section: "4046"
 chapter: 303
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "18 U.S.C. § 4046"
-generated_at: "2026-03-30T06:03:28.277Z"
+generated_at: "2026-03-30T06:06:21.016Z"
 status: "active"
 ---
 

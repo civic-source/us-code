@@ -3,9 +3,9 @@ title: "Section 1104 - Purposes and authority of Center"
 usc_title: 2
 usc_section: "1104"
 chapter: 22
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 1104"
-generated_at: "2026-03-30T06:01:39.164Z"
+generated_at: "2026-03-30T06:05:31.195Z"
 status: "active"
 ---
 

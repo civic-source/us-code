@@ -3,9 +3,9 @@ title: "Section 20903 - Reports not evidence in civil actions for damages"
 usc_title: 49
 usc_section: "20903"
 chapter: 209
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "49 U.S.C. § 20903"
-generated_at: "2026-03-30T06:05:10.164Z"
+generated_at: "2026-03-30T06:07:25.876Z"
 status: "active"
 ---
 

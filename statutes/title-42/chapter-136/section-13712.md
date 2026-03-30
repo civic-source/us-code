@@ -3,9 +3,9 @@ title: "Section 13712 - Report by Attorney General"
 usc_title: 42
 usc_section: "13712"
 chapter: 136
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 13712"
-generated_at: "2026-03-30T06:05:05.044Z"
+generated_at: "2026-03-30T06:07:19.006Z"
 status: "active"
 ---
 

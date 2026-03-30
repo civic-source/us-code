@@ -3,9 +3,9 @@ title: "Section 6416 - Equal access to United States missions abroad for conduct
 usc_title: 22
 usc_section: "6416"
 chapter: 73
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 6416"
-generated_at: "2026-03-30T06:04:13.843Z"
+generated_at: "2026-03-30T06:06:31.922Z"
 status: "active"
 ---
 

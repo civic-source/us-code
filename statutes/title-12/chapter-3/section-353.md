@@ -3,9 +3,9 @@ title: "Section 353 - Purchase and sale of cable transfers, acceptances and bill
 usc_title: 12
 usc_section: "353"
 chapter: 3
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "12 U.S.C. § 353"
-generated_at: "2026-03-30T06:03:04.386Z"
+generated_at: "2026-03-30T06:06:10.954Z"
 status: "active"
 ---
 

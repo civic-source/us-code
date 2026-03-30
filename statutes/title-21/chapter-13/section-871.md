@@ -3,9 +3,9 @@ title: "Section 871 - Attorney General"
 usc_title: 21
 usc_section: "871"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "21 U.S.C. § 871"
-generated_at: "2026-03-30T06:04:29.489Z"
+generated_at: "2026-03-30T06:06:33.077Z"
 status: "active"
 ---
 

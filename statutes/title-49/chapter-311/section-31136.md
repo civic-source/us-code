@@ -3,9 +3,9 @@ title: "Section 31136 - United States Government regulations"
 usc_title: 49
 usc_section: "31136"
 chapter: 311
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "49 U.S.C. § 31136"
-generated_at: "2026-03-30T06:05:10.177Z"
+generated_at: "2026-03-30T06:07:25.889Z"
 status: "active"
 ---
 

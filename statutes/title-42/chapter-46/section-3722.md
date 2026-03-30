@@ -3,9 +3,9 @@ title: "Section 3722 - National Institute of Justice"
 usc_title: 42
 usc_section: "3722"
 chapter: 46
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 3722"
-generated_at: "2026-03-30T06:05:04.805Z"
+generated_at: "2026-03-30T06:07:18.773Z"
 status: "active"
 ---
 

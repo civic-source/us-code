@@ -3,9 +3,9 @@ title: "Section 432a - Transferred"
 usc_title: 50
 usc_section: "432a"
 chapter: 15
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "50 U.S.C. § 432a"
-generated_at: "2026-03-30T06:05:14.787Z"
+generated_at: "2026-03-30T06:07:23.892Z"
 status: "transferred"
 ---
 

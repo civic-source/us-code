@@ -3,9 +3,9 @@ title: "Section 2464 - Ethical issues in international health research"
 usc_title: 22
 usc_section: "2464"
 chapter: 33
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 2464"
-generated_at: "2026-03-30T06:04:13.792Z"
+generated_at: "2026-03-30T06:06:31.870Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2310 - Performance-based contracts or task orders for services t
 usc_title: 41
 usc_section: "2310"
 chapter: 23
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "41 U.S.C. § 2310"
-generated_at: "2026-03-30T06:04:50.375Z"
+generated_at: "2026-03-30T06:06:59.822Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8801 - Definitions"
 usc_title: 22
 usc_section: "8801"
 chapter: 95
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "22 U.S.C. § 8801"
-generated_at: "2026-03-30T06:04:13.871Z"
+generated_at: "2026-03-30T06:06:31.950Z"
 status: "active"
 ---
 

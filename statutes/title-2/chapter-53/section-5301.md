@@ -3,9 +3,9 @@ title: "Section 5301 - Representatives’ and Delegates’ salaries payable mont
 usc_title: 2
 usc_section: "5301"
 chapter: 53
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "2 U.S.C. § 5301"
-generated_at: "2026-03-30T06:01:39.184Z"
+generated_at: "2026-03-30T06:05:31.217Z"
 status: "active"
 ---
 

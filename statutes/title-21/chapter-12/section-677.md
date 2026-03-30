@@ -3,9 +3,9 @@ title: "Section 677 - Other Federal laws applicable for administration and enfor
 usc_title: 21
 usc_section: "677"
 chapter: 12
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "21 U.S.C. § 677"
-generated_at: "2026-03-30T06:04:29.481Z"
+generated_at: "2026-03-30T06:06:33.070Z"
 status: "active"
 ---
 

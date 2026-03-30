@@ -3,9 +3,9 @@ title: "Section 1074k - Long-term care insurance"
 usc_title: 10
 usc_section: "1074k"
 chapter: 55
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "10 U.S.C. § 1074k"
-generated_at: "2026-03-30T06:02:58.719Z"
+generated_at: "2026-03-30T06:06:04.765Z"
 status: "active"
 ---
 

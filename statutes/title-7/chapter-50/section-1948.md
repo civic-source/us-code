@@ -3,9 +3,9 @@ title: "Section 1948 - Repealed. Pub. L. 104–127, title VI , §§ 615, 616(a),
 usc_title: 7
 usc_section: "1948"
 chapter: 50
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "7 U.S.C. § 1948"
-generated_at: "2026-03-30T06:02:22.377Z"
+generated_at: "2026-03-30T06:05:56.960Z"
 status: "repealed"
 ---
 

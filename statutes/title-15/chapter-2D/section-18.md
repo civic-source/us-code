@@ -3,9 +3,9 @@ title: "Section 18 - Hiring and leasing authority of Commission"
 usc_title: 15
 usc_section: "18"
 chapter: 2
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "15 U.S.C. § 18"
-generated_at: "2026-03-30T06:03:23.609Z"
+generated_at: "2026-03-30T06:06:17.758Z"
 status: "active"
 ---
 

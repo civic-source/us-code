@@ -3,9 +3,9 @@ title: "Section 5655 - Eligibility of entities"
 usc_title: 42
 usc_section: "5655"
 chapter: 72
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 5655"
-generated_at: "2026-03-30T06:05:04.855Z"
+generated_at: "2026-03-30T06:07:18.822Z"
 status: "active"
 ---
 

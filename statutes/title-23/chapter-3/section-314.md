@@ -3,9 +3,9 @@ title: "Section 314 - Relief of employees in hazardous work"
 usc_title: 23
 usc_section: "314"
 chapter: 3
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "23 U.S.C. § 314"
-generated_at: "2026-03-30T06:04:18.981Z"
+generated_at: "2026-03-30T06:06:29.616Z"
 status: "active"
 ---
 

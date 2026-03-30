@@ -3,9 +3,9 @@ title: "Section 5706b - Interview expenses"
 usc_title: 5
 usc_section: "5706b"
 chapter: 57
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "5 U.S.C. § 5706b"
-generated_at: "2026-03-30T06:01:31.393Z"
+generated_at: "2026-03-30T06:05:49.182Z"
 status: "active"
 ---
 

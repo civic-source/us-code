@@ -3,9 +3,9 @@ title: "Section 12703 - Purposes of Cranston-Gonzalez National Affordable Housin
 usc_title: 42
 usc_section: "12703"
 chapter: 130
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "42 U.S.C. § 12703"
-generated_at: "2026-03-30T06:05:05.025Z"
+generated_at: "2026-03-30T06:07:18.987Z"
 status: "active"
 ---
 

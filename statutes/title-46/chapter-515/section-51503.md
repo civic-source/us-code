@@ -3,9 +3,9 @@ title: "Section 51503 - Regional maritime academies"
 usc_title: 46
 usc_section: "51503"
 chapter: 515
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "46 U.S.C. § 51503"
-generated_at: "2026-03-30T06:05:16.541Z"
+generated_at: "2026-03-30T06:07:22.953Z"
 status: "active"
 ---
 

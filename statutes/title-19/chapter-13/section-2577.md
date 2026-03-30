@@ -3,9 +3,9 @@ title: "Section 2577 - Definitions"
 usc_title: 19
 usc_section: "2577"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 2577"
-generated_at: "2026-03-30T06:03:27.350Z"
+generated_at: "2026-03-30T06:06:23.866Z"
 status: "active"
 ---
 

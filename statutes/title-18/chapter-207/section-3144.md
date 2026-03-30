@@ -3,9 +3,9 @@ title: "Section 3144 - Release or detention of a material witness"
 usc_title: 18
 usc_section: "3144"
 chapter: 207
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "18 U.S.C. § 3144"
-generated_at: "2026-03-30T06:03:28.267Z"
+generated_at: "2026-03-30T06:06:21.006Z"
 status: "active"
 ---
 

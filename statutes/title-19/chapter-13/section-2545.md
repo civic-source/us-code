@@ -3,9 +3,9 @@ title: "Section 2545 - Contracts and grants"
 usc_title: 19
 usc_section: "2545"
 chapter: 13
-current_through: "PL 115-18"
+current_through: "PL 115-22"
 classification: "19 U.S.C. § 2545"
-generated_at: "2026-03-30T06:03:27.349Z"
+generated_at: "2026-03-30T06:06:23.865Z"
 status: "active"
 ---
 
