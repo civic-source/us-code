@@ -3,9 +3,9 @@ title: "Section 15906 - Liability of pipeline carriers under receipts and bills 
 usc_title: 49
 usc_section: "15906"
 chapter: 159
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 15906"
-generated_at: "2026-03-30T07:32:05.211Z"
+generated_at: "2026-03-30T07:34:17.430Z"
 status: "active"
 ---
 

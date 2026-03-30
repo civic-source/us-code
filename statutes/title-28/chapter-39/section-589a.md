@@ -3,9 +3,9 @@ title: "Section 589a - United States Trustee System Fund"
 usc_title: 28
 usc_section: "589a"
 chapter: 39
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "28 U.S.C. § 589a"
-generated_at: "2026-03-30T07:29:43.727Z"
+generated_at: "2026-03-30T07:33:36.944Z"
 status: "active"
 ---
 

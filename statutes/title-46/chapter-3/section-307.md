@@ -3,9 +3,9 @@ title: "Section 307 - Expenditures"
 usc_title: 46
 usc_section: "307"
 chapter: 3
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "46 U.S.C. § 307"
-generated_at: "2026-03-30T07:32:10.735Z"
+generated_at: "2026-03-30T07:34:14.309Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40114 - Reports and records"
 usc_title: 49
 usc_section: "40114"
 chapter: 401
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 40114"
-generated_at: "2026-03-30T07:32:05.240Z"
+generated_at: "2026-03-30T07:34:17.456Z"
 status: "active"
 ---
 

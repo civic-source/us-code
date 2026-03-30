@@ -3,9 +3,9 @@ title: "Section 191 - Disposition of moneys received"
 usc_title: 30
 usc_section: "191"
 chapter: 3
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "30 U.S.C. § 191"
-generated_at: "2026-03-30T07:29:37.065Z"
+generated_at: "2026-03-30T07:33:36.121Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1434 - Judicial branch coverage study"
 usc_title: 2
 usc_section: "1434"
 chapter: 24
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "2 U.S.C. § 1434"
-generated_at: "2026-03-30T07:27:31.881Z"
+generated_at: "2026-03-30T07:32:34.741Z"
 status: "active"
 ---
 

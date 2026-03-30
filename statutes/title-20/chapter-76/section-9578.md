@@ -3,9 +3,9 @@ title: "Section 9578 - Scientific or technical employees"
 usc_title: 20
 usc_section: "9578"
 chapter: 76
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 9578"
-generated_at: "2026-03-30T07:29:00.383Z"
+generated_at: "2026-03-30T07:33:09.891Z"
 status: "active"
 ---
 

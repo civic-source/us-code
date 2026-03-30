@@ -3,9 +3,9 @@ title: "Section 10542 - Repealed. Pub. L. 114–92, div. A, title X , § 1073(c)
 usc_title: 10
 usc_section: "10542"
 chapter: 1013
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 10542"
-generated_at: "2026-03-30T07:28:11.931Z"
+generated_at: "2026-03-30T07:32:50.743Z"
 status: "repealed"
 ---
 

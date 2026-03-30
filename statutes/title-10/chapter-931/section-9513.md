@@ -3,9 +3,9 @@ title: "Section 9513 - Repealed. Pub. L. 113–291, div. A, title X , § 1045(a)
 usc_title: 10
 usc_section: "9513"
 chapter: 931
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 9513"
-generated_at: "2026-03-30T07:28:11.927Z"
+generated_at: "2026-03-30T07:32:50.739Z"
 status: "repealed"
 ---
 

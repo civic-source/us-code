@@ -3,9 +3,9 @@ title: "Section 2395 - Judicial review"
 usc_title: 19
 usc_section: "2395"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "19 U.S.C. § 2395"
-generated_at: "2026-03-30T07:29:01.425Z"
+generated_at: "2026-03-30T07:33:13.285Z"
 status: "active"
 ---
 

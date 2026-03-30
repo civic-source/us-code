@@ -3,9 +3,9 @@ title: "Section 3074 - Authorization of appropriations"
 usc_title: 50
 usc_section: "3074"
 chapter: 44
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "50 U.S.C. § 3074"
-generated_at: "2026-03-30T07:31:55.142Z"
+generated_at: "2026-03-30T07:34:15.298Z"
 status: "active"
 ---
 

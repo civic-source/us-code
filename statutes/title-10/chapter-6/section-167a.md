@@ -3,9 +3,9 @@ title: "Section 167a - Unified combatant command for joint warfighting experimen
 usc_title: 10
 usc_section: "167a"
 chapter: 6
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 167a"
-generated_at: "2026-03-30T07:28:11.793Z"
+generated_at: "2026-03-30T07:32:50.615Z"
 status: "active"
 ---
 

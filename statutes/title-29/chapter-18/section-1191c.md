@@ -3,9 +3,9 @@ title: "Section 1191c - Regulations"
 usc_title: 29
 usc_section: "1191c"
 chapter: 18
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "29 U.S.C. § 1191c"
-generated_at: "2026-03-30T07:29:47.057Z"
+generated_at: "2026-03-30T07:33:37.808Z"
 status: "active"
 ---
 

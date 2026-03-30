@@ -3,9 +3,9 @@ title: "Section 9175 - Repealed. Pub. L. 108–81, title III , § 304, Sept. 25,
 usc_title: 20
 usc_section: "9175"
 chapter: 72
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 9175"
-generated_at: "2026-03-30T07:29:00.380Z"
+generated_at: "2026-03-30T07:33:09.888Z"
 status: "repealed"
 ---
 

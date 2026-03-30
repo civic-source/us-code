@@ -3,9 +3,9 @@ title: "Section 1546 - Fraud and misuse of visas, permits, and other documents"
 usc_title: 18
 usc_section: "1546"
 chapter: 75
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "18 U.S.C. § 1546"
-generated_at: "2026-03-30T07:29:07.302Z"
+generated_at: "2026-03-30T07:33:06.823Z"
 status: "active"
 ---
 

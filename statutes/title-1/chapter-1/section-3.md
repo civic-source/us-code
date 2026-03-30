@@ -3,9 +3,9 @@ title: "Section 3 - “Vessel” as including all means of water transportation"
 usc_title: 1
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "1 U.S.C. § 3"
-generated_at: "2026-03-30T07:27:26.169Z"
+generated_at: "2026-03-30T07:32:35.985Z"
 status: "active"
 ---
 

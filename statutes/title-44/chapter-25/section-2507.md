@@ -3,9 +3,9 @@ title: "Section 2507 - Repealed. Pub. L. 98–497, title I , § 107(b)(12)(A), O
 usc_title: 44
 usc_section: "2507"
 chapter: 25
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "44 U.S.C. § 2507"
-generated_at: "2026-03-30T07:30:49.893Z"
+generated_at: "2026-03-30T07:33:55.318Z"
 status: "repealed"
 ---
 

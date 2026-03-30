@@ -3,9 +3,9 @@ title: "Section 195 - Admission of foreign nationals for instruction; restrictio
 usc_title: 14
 usc_section: "195"
 chapter: 9
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "14 U.S.C. § 195"
-generated_at: "2026-03-30T07:28:14.228Z"
+generated_at: "2026-03-30T07:32:57.170Z"
 status: "active"
 ---
 

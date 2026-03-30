@@ -3,9 +3,9 @@ title: "Section 4023 - Repealed. Pub. L. 87–651, title I , § 116(1), Sept. 7,
 usc_title: 10
 usc_section: "4023"
 chapter: 373
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 4023"
-generated_at: "2026-03-30T07:28:11.904Z"
+generated_at: "2026-03-30T07:32:50.717Z"
 status: "repealed"
 ---
 

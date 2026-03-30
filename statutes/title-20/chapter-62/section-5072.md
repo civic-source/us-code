@@ -3,9 +3,9 @@ title: "Section 5072 - Repealed. Pub. L. 103–382, title III , § 391(i), Oct. 
 usc_title: 20
 usc_section: "5072"
 chapter: 62
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 5072"
-generated_at: "2026-03-30T07:29:00.349Z"
+generated_at: "2026-03-30T07:33:09.853Z"
 status: "repealed"
 ---
 

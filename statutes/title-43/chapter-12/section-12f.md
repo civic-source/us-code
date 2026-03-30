@@ -3,9 +3,9 @@ title: "Section 12f - Southern Nevada Water Recycling Project"
 usc_title: 43
 usc_section: "12f"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 12f"
-generated_at: "2026-03-30T07:30:50.806Z"
+generated_at: "2026-03-30T07:33:54.039Z"
 status: "active"
 ---
 

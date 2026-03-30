@@ -3,9 +3,9 @@ title: "Section 10617 - Distribution and allocation"
 usc_title: 34
 usc_section: "10617"
 chapter: 101
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "34 U.S.C. § 10617"
-generated_at: "2026-03-30T07:30:19.099Z"
+generated_at: "2026-03-30T07:33:45.499Z"
 status: "active"
 ---
 

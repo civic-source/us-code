@@ -3,9 +3,9 @@ title: "Section 14165a - Transferred"
 usc_title: 42
 usc_section: "14165a"
 chapter: 136
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 14165a"
-generated_at: "2026-03-30T07:31:50.959Z"
+generated_at: "2026-03-30T07:34:09.645Z"
 status: "transferred"
 ---
 

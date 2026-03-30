@@ -3,9 +3,9 @@ title: "Section 150110 - Records and inspection"
 usc_title: 36
 usc_section: "150110"
 chapter: 1501
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "36 U.S.C. § 150110"
-generated_at: "2026-03-30T07:30:34.857Z"
+generated_at: "2026-03-30T07:33:49.840Z"
 status: "active"
 ---
 

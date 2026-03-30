@@ -3,9 +3,9 @@ title: "Section 208 - Interlocking directorates"
 usc_title: 27
 usc_section: "208"
 chapter: 8
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "27 U.S.C. § 208"
-generated_at: "2026-03-30T07:29:34.092Z"
+generated_at: "2026-03-30T07:33:35.543Z"
 status: "active"
 ---
 

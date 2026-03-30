@@ -3,9 +3,9 @@ title: "Section 208 - Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 1
 usc_title: 43
 usc_section: "208"
 chapter: 7
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 208"
-generated_at: "2026-03-30T07:30:50.797Z"
+generated_at: "2026-03-30T07:33:54.033Z"
 status: "repealed"
 ---
 

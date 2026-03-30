@@ -3,9 +3,9 @@ title: "Section 5512 - Antiterrorism measures"
 usc_title: 22
 usc_section: "5512"
 chapter: 64
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 5512"
-generated_at: "2026-03-30T07:29:27.927Z"
+generated_at: "2026-03-30T07:33:32.698Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 98–511, title I , § 109(b), Oct. 19, 19
 usc_title: 20
 usc_section: "1"
 chapter: 31
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T07:29:00.324Z"
+generated_at: "2026-03-30T07:33:09.826Z"
 status: "repealed"
 ---
 

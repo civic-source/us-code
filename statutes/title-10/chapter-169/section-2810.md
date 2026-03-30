@@ -3,9 +3,9 @@ title: "Section 2810 - Repealed. Pub. L. 107–314, div. A, title III , § 313(b
 usc_title: 10
 usc_section: "2810"
 chapter: 169
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 2810"
-generated_at: "2026-03-30T07:28:11.896Z"
+generated_at: "2026-03-30T07:32:50.710Z"
 status: "repealed"
 ---
 

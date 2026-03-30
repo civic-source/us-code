@@ -3,9 +3,9 @@ title: "Section 450w - Administration; establishment of museum"
 usc_title: 16
 usc_section: "450w"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 450w"
-generated_at: "2026-03-30T07:29:14.561Z"
+generated_at: "2026-03-30T07:33:21.265Z"
 status: "active"
 ---
 

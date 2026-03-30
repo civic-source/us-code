@@ -3,9 +3,9 @@ title: "Section 6251 - Delegation of power to award"
 usc_title: 10
 usc_section: "6251"
 chapter: 567
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 6251"
-generated_at: "2026-03-30T07:28:11.912Z"
+generated_at: "2026-03-30T07:32:50.726Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Authorization of appropriations; establishment of Columbia B
 usc_title: 16
 usc_section: "2"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T07:29:14.652Z"
+generated_at: "2026-03-30T07:33:21.354Z"
 status: "active"
 ---
 

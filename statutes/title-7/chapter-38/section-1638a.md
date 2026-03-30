@@ -3,9 +3,9 @@ title: "Section 1638a - Notice of country of origin"
 usc_title: 7
 usc_section: "1638a"
 chapter: 38
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "7 U.S.C. § 1638a"
-generated_at: "2026-03-30T07:27:42.884Z"
+generated_at: "2026-03-30T07:32:54.994Z"
 status: "active"
 ---
 

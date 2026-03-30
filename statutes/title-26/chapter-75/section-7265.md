@@ -3,9 +3,9 @@ title: "Section 7265 - Repealed. Pub. L. 94–455, title XIX , § 1904(b)(7)(C)(
 usc_title: 26
 usc_section: "7265"
 chapter: 75
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 7265"
-generated_at: "2026-03-30T07:30:02.225Z"
+generated_at: "2026-03-30T07:33:42.883Z"
 status: "repealed"
 ---
 

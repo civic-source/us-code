@@ -3,9 +3,9 @@ title: "Section 985 - Bonds; issuance; maturity; redemption; interest; purchase 
 usc_title: 33
 usc_section: "985"
 chapter: 19
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 985"
-generated_at: "2026-03-30T07:30:15.189Z"
+generated_at: "2026-03-30T07:33:47.067Z"
 status: "active"
 ---
 

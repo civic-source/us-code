@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Pub. L. 93–380, title I , § 101(a)(4)(B), Aug.
 usc_title: 20
 usc_section: "12"
 chapter: 13
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T07:29:00.270Z"
+generated_at: "2026-03-30T07:33:09.766Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18082 - Advance determination and payment of premium tax credits
 usc_title: 42
 usc_section: "18082"
 chapter: 157
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 18082"
-generated_at: "2026-03-30T07:31:51.002Z"
+generated_at: "2026-03-30T07:34:09.688Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T07:29:00.284Z"
+generated_at: "2026-03-30T07:33:09.781Z"
 status: "active"
 ---
 

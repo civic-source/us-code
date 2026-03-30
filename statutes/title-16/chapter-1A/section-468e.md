@@ -3,9 +3,9 @@ title: "Section 468e - Repealed. Pub. L. 86–533 , § 1(19), June 29, 1960 , 74
 usc_title: 16
 usc_section: "468e"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 468e"
-generated_at: "2026-03-30T07:29:14.596Z"
+generated_at: "2026-03-30T07:33:21.302Z"
 status: "repealed"
 ---
 

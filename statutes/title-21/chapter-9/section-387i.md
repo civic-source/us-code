@@ -3,9 +3,9 @@ title: "Section 387i - Records and reports on tobacco products"
 usc_title: 21
 usc_section: "387i"
 chapter: 9
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "21 U.S.C. § 387i"
-generated_at: "2026-03-30T07:29:26.250Z"
+generated_at: "2026-03-30T07:33:24.789Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 248b - Omitted"
 usc_title: 48
 usc_section: "248b"
 chapter: 2
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "48 U.S.C. § 248b"
-generated_at: "2026-03-30T07:32:00.450Z"
+generated_at: "2026-03-30T07:34:15.682Z"
 status: "omitted"
 ---
 

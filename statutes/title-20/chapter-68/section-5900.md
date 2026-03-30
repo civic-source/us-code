@@ -3,9 +3,9 @@ title: "Section 5900 - Repealed. Pub. L. 106–113, div. B , § 1000(a)(4) [titl
 usc_title: 20
 usc_section: "5900"
 chapter: 68
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 5900"
-generated_at: "2026-03-30T07:29:00.352Z"
+generated_at: "2026-03-30T07:33:09.856Z"
 status: "repealed"
 ---
 

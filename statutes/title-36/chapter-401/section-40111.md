@@ -3,9 +3,9 @@ title: "Section 40111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "40111"
 chapter: 401
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "36 U.S.C. § 40111"
-generated_at: "2026-03-30T07:30:34.851Z"
+generated_at: "2026-03-30T07:33:49.835Z"
 status: "active"
 ---
 

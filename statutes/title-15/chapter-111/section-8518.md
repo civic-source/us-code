@@ -3,9 +3,9 @@ title: "Section 8518 - Annual report on computing resources prioritization"
 usc_title: 15
 usc_section: "8518"
 chapter: 111
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 8518"
-generated_at: "2026-03-30T07:28:42.839Z"
+generated_at: "2026-03-30T07:33:03.262Z"
 status: "active"
 ---
 

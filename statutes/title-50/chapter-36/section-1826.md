@@ -3,9 +3,9 @@ title: "Section 1826 - Congressional oversight"
 usc_title: 50
 usc_section: "1826"
 chapter: 36
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "50 U.S.C. § 1826"
-generated_at: "2026-03-30T07:31:55.117Z"
+generated_at: "2026-03-30T07:34:15.270Z"
 status: "active"
 ---
 

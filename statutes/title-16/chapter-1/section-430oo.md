@@ -3,9 +3,9 @@ title: "Section 430oo - Acquisition of lands for preservation, protection and im
 usc_title: 16
 usc_section: "430oo"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 430oo"
-generated_at: "2026-03-30T07:29:14.558Z"
+generated_at: "2026-03-30T07:33:21.263Z"
 status: "active"
 ---
 

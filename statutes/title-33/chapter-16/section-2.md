@@ -3,9 +3,9 @@ title: "Section 2 - Application to persons of Coast Guard"
 usc_title: 33
 usc_section: "2"
 chapter: 16
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T07:30:15.183Z"
+generated_at: "2026-03-30T07:33:47.061Z"
 status: "active"
 ---
 

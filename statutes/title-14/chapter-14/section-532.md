@@ -3,9 +3,9 @@ title: "Section 532 - Surveys of Coast Guard families"
 usc_title: 14
 usc_section: "532"
 chapter: 14
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "14 U.S.C. § 532"
-generated_at: "2026-03-30T07:28:14.229Z"
+generated_at: "2026-03-30T07:32:57.171Z"
 status: "active"
 ---
 

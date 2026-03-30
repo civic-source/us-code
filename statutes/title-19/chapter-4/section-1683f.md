@@ -3,9 +3,9 @@ title: "Section 1683f - Penalties"
 usc_title: 19
 usc_section: "1683f"
 chapter: 4
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "19 U.S.C. § 1683f"
-generated_at: "2026-03-30T07:29:01.414Z"
+generated_at: "2026-03-30T07:33:13.275Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10133 - Authority for 100 per centum grants"
 usc_title: 34
 usc_section: "10133"
 chapter: 101
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "34 U.S.C. § 10133"
-generated_at: "2026-03-30T07:30:19.088Z"
+generated_at: "2026-03-30T07:33:45.490Z"
 status: "active"
 ---
 

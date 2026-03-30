@@ -3,9 +3,9 @@ title: "Section 2295 - Assistance for the independent states"
 usc_title: 22
 usc_section: "2295"
 chapter: 32
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 2295"
-generated_at: "2026-03-30T07:29:27.877Z"
+generated_at: "2026-03-30T07:33:32.648Z"
 status: "active"
 ---
 

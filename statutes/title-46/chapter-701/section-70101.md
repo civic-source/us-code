@@ -3,9 +3,9 @@ title: "Section 70101 - Definitions"
 usc_title: 46
 usc_section: "70101"
 chapter: 701
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "46 U.S.C. § 70101"
-generated_at: "2026-03-30T07:32:10.768Z"
+generated_at: "2026-03-30T07:34:14.339Z"
 status: "active"
 ---
 

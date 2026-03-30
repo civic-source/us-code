@@ -3,9 +3,9 @@ title: "Section 1277 - Labeling of art materials"
 usc_title: 15
 usc_section: "1277"
 chapter: 30
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 1277"
-generated_at: "2026-03-30T07:28:42.751Z"
+generated_at: "2026-03-30T07:33:03.172Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2464 - Use of capabilities of national security laboratories by 
 usc_title: 50
 usc_section: "2464"
 chapter: 41
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "50 U.S.C. § 2464"
-generated_at: "2026-03-30T07:31:55.129Z"
+generated_at: "2026-03-30T07:34:15.285Z"
 status: "active"
 ---
 

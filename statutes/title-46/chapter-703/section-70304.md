@@ -3,9 +3,9 @@ title: "Section 70304 - Travel advisories on security at foreign ports"
 usc_title: 46
 usc_section: "70304"
 chapter: 703
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "46 U.S.C. § 70304"
-generated_at: "2026-03-30T07:32:10.771Z"
+generated_at: "2026-03-30T07:34:14.341Z"
 status: "active"
 ---
 

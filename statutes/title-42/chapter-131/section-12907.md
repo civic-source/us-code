@@ -3,9 +3,9 @@ title: "Section 12907 - AIDS short-term supported housing and services"
 usc_title: 42
 usc_section: "12907"
 chapter: 131
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 12907"
-generated_at: "2026-03-30T07:31:50.946Z"
+generated_at: "2026-03-30T07:34:09.634Z"
 status: "active"
 ---
 

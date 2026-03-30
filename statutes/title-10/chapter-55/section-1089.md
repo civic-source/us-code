@@ -3,9 +3,9 @@ title: "Section 1089 - Defense of certain suits arising out of medical malpracti
 usc_title: 10
 usc_section: "1089"
 chapter: 55
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 1089"
-generated_at: "2026-03-30T07:28:11.833Z"
+generated_at: "2026-03-30T07:32:50.649Z"
 status: "active"
 ---
 

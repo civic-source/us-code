@@ -3,9 +3,9 @@ title: "Section 2229a - Annual report on prepositioned materiel and equipment"
 usc_title: 10
 usc_section: "2229a"
 chapter: 131
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 2229a"
-generated_at: "2026-03-30T07:28:11.863Z"
+generated_at: "2026-03-30T07:32:50.678Z"
 status: "active"
 ---
 

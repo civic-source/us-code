@@ -3,9 +3,9 @@ title: "Section 715a - Migratory Bird Conservation Commission; creation; composi
 usc_title: 16
 usc_section: "715a"
 chapter: 7
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 715a"
-generated_at: "2026-03-30T07:29:14.628Z"
+generated_at: "2026-03-30T07:33:21.335Z"
 status: "active"
 ---
 

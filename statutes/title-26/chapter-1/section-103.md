@@ -3,9 +3,9 @@ title: "Section 103 - Interest on State and local bonds"
 usc_title: 26
 usc_section: "103"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 103"
-generated_at: "2026-03-30T07:30:02.024Z"
+generated_at: "2026-03-30T07:33:42.686Z"
 status: "active"
 ---
 

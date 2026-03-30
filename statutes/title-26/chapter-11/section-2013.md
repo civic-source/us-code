@@ -3,9 +3,9 @@ title: "Section 2013 - Credit for tax on prior transfers"
 usc_title: 26
 usc_section: "2013"
 chapter: 11
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 2013"
-generated_at: "2026-03-30T07:30:02.151Z"
+generated_at: "2026-03-30T07:33:42.811Z"
 status: "active"
 ---
 

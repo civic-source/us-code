@@ -3,9 +3,9 @@ title: "Section 6324 - Officers: creditable service"
 usc_title: 10
 usc_section: "6324"
 chapter: 571
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 6324"
-generated_at: "2026-03-30T07:28:11.912Z"
+generated_at: "2026-03-30T07:32:50.726Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2669a - Diplomatic Telecommunications Service"
 usc_title: 22
 usc_section: "2669a"
 chapter: 38
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 2669a"
-generated_at: "2026-03-30T07:29:27.894Z"
+generated_at: "2026-03-30T07:33:32.665Z"
 status: "active"
 ---
 

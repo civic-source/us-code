@@ -3,9 +3,9 @@ title: "Section 4777 - Permits: military reservations; landing ferries, erecting
 usc_title: 10
 usc_section: "4777"
 chapter: 449
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 4777"
-generated_at: "2026-03-30T07:28:11.907Z"
+generated_at: "2026-03-30T07:32:50.721Z"
 status: "active"
 ---
 

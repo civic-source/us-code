@@ -3,9 +3,9 @@ title: "Section 59v - Middle River, Maryland"
 usc_title: 33
 usc_section: "59v"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 59v"
-generated_at: "2026-03-30T07:30:15.163Z"
+generated_at: "2026-03-30T07:33:47.043Z"
 status: "active"
 ---
 

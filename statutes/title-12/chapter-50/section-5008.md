@@ -3,9 +3,9 @@ title: "Section 5008 - Delays in an emergency"
 usc_title: 12
 usc_section: "5008"
 chapter: 50
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "12 U.S.C. § 5008"
-generated_at: "2026-03-30T07:28:17.239Z"
+generated_at: "2026-03-30T07:33:01.003Z"
 status: "active"
 ---
 

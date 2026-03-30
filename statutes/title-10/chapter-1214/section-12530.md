@@ -3,9 +3,9 @@ title: "Section 12530 - Payment of benefits"
 usc_title: 10
 usc_section: "12530"
 chapter: 1214
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 12530"
-generated_at: "2026-03-30T07:28:11.934Z"
+generated_at: "2026-03-30T07:32:50.747Z"
 status: "active"
 ---
 

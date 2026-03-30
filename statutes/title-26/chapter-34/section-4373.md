@@ -3,9 +3,9 @@ title: "Section 4373 - Exemptions"
 usc_title: 26
 usc_section: "4373"
 chapter: 34
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 4373"
-generated_at: "2026-03-30T07:30:02.170Z"
+generated_at: "2026-03-30T07:33:42.829Z"
 status: "active"
 ---
 

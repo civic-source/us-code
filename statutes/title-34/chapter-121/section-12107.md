@@ -3,9 +3,9 @@ title: "Section 12107 - Accountability"
 usc_title: 34
 usc_section: "12107"
 chapter: 121
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "34 U.S.C. § 12107"
-generated_at: "2026-03-30T07:30:19.107Z"
+generated_at: "2026-03-30T07:33:45.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3017 - Secretary of the Army: successors to duties"
 usc_title: 10
 usc_section: "3017"
 chapter: 303
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 3017"
-generated_at: "2026-03-30T07:28:11.900Z"
+generated_at: "2026-03-30T07:32:50.714Z"
 status: "active"
 ---
 

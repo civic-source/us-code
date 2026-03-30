@@ -3,9 +3,9 @@ title: "Section 4541 - Army arsenals: treatment of unutilized or underutilized p
 usc_title: 10
 usc_section: "4541"
 chapter: 433
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 4541"
-generated_at: "2026-03-30T07:28:11.906Z"
+generated_at: "2026-03-30T07:32:50.719Z"
 status: "active"
 ---
 

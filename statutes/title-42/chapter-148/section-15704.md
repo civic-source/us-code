@@ -3,9 +3,9 @@ title: "Section 15704 - National Advisory Committee on Windstorm Impact Reductio
 usc_title: 42
 usc_section: "15704"
 chapter: 148
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 15704"
-generated_at: "2026-03-30T07:31:50.967Z"
+generated_at: "2026-03-30T07:34:09.653Z"
 status: "active"
 ---
 

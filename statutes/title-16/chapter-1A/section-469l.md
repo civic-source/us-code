@@ -3,9 +3,9 @@ title: "Section 469l - Omitted or Transferred"
 usc_title: 16
 usc_section: "469l"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 469l"
-generated_at: "2026-03-30T07:29:14.596Z"
+generated_at: "2026-03-30T07:33:21.302Z"
 status: "omitted"
 ---
 

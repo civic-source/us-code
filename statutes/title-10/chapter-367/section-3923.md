@@ -3,9 +3,9 @@ title: "Section 3923 - Repealed. Pub. L. 96–513, title II , § 217(a), Dec. 12
 usc_title: 10
 usc_section: "3923"
 chapter: 367
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 3923"
-generated_at: "2026-03-30T07:28:11.904Z"
+generated_at: "2026-03-30T07:32:50.717Z"
 status: "repealed"
 ---
 

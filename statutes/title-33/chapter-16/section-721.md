@@ -3,9 +3,9 @@ title: "Section 721 - Omitted"
 usc_title: 33
 usc_section: "721"
 chapter: 16
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 721"
-generated_at: "2026-03-30T07:30:15.183Z"
+generated_at: "2026-03-30T07:33:47.060Z"
 status: "omitted"
 ---
 

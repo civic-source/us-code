@@ -3,9 +3,9 @@ title: "Section 9527 - Sanctions with respect to investment in or facilitation o
 usc_title: 22
 usc_section: "9527"
 chapter: 102
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 9527"
-generated_at: "2026-03-30T07:29:27.966Z"
+generated_at: "2026-03-30T07:33:32.737Z"
 status: "active"
 ---
 

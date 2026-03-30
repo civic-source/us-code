@@ -3,9 +3,9 @@ title: "Section 325 - Authority for certain functions and activities"
 usc_title: 15
 usc_section: "325"
 chapter: 9
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 325"
-generated_at: "2026-03-30T07:28:42.708Z"
+generated_at: "2026-03-30T07:33:03.127Z"
 status: "active"
 ---
 

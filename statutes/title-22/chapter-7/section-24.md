@@ -3,9 +3,9 @@ title: "Section 24 - Fourteenth replenishment"
 usc_title: 22
 usc_section: "24"
 chapter: 7
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 24"
-generated_at: "2026-03-30T07:29:27.852Z"
+generated_at: "2026-03-30T07:33:32.619Z"
 status: "active"
 ---
 

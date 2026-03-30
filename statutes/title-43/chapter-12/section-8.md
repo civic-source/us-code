@@ -3,9 +3,9 @@ title: "Section 8 - Lake Cheraw water reclamation and reuse study"
 usc_title: 43
 usc_section: "8"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 8"
-generated_at: "2026-03-30T07:30:50.804Z"
+generated_at: "2026-03-30T07:33:54.039Z"
 status: "active"
 ---
 

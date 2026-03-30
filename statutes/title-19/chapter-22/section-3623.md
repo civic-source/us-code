@@ -3,9 +3,9 @@ title: "Section 3623 - Study of milk marketing order system"
 usc_title: 19
 usc_section: "3623"
 chapter: 22
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "19 U.S.C. § 3623"
-generated_at: "2026-03-30T07:29:01.446Z"
+generated_at: "2026-03-30T07:33:13.306Z"
 status: "active"
 ---
 

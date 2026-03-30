@@ -3,9 +3,9 @@ title: "Section 3101 - Congressional statement of purpose"
 usc_title: 16
 usc_section: "3101"
 chapter: 51
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 3101"
-generated_at: "2026-03-30T07:29:14.706Z"
+generated_at: "2026-03-30T07:33:21.408Z"
 status: "active"
 ---
 

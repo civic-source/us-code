@@ -3,9 +3,9 @@ title: "Section 12 - South Carolina fish hatchery; authorization of appropriatio
 usc_title: 16
 usc_section: "12"
 chapter: 9
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-03-30T07:29:14.632Z"
+generated_at: "2026-03-30T07:33:21.339Z"
 status: "active"
 ---
 

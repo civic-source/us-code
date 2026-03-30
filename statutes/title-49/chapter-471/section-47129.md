@@ -3,9 +3,9 @@ title: "Section 47129 - Resolution of disputes concerning airport fees"
 usc_title: 49
 usc_section: "47129"
 chapter: 471
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 47129"
-generated_at: "2026-03-30T07:32:05.262Z"
+generated_at: "2026-03-30T07:34:17.478Z"
 status: "active"
 ---
 

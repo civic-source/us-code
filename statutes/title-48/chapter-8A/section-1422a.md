@@ -3,9 +3,9 @@ title: "Section 1422a - Removal of Governor, Lieutenant Governor, or member of l
 usc_title: 48
 usc_section: "1422a"
 chapter: 8
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "48 U.S.C. § 1422a"
-generated_at: "2026-03-30T07:32:00.456Z"
+generated_at: "2026-03-30T07:34:15.688Z"
 status: "active"
 ---
 

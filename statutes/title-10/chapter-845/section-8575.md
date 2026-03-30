@@ -3,9 +3,9 @@ title: "Section 8575 - Rank: warrant officers"
 usc_title: 10
 usc_section: "8575"
 chapter: 845
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 8575"
-generated_at: "2026-03-30T07:28:11.923Z"
+generated_at: "2026-03-30T07:32:50.736Z"
 status: "active"
 ---
 

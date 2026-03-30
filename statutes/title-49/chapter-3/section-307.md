@@ -3,9 +3,9 @@ title: "Section 307 - Improving State and Federal agency engagement in environme
 usc_title: 49
 usc_section: "307"
 chapter: 3
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 307"
-generated_at: "2026-03-30T07:32:05.184Z"
+generated_at: "2026-03-30T07:34:17.401Z"
 status: "active"
 ---
 

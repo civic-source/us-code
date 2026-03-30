@@ -3,9 +3,9 @@ title: "Section 4855 - Federal implementation and insurance study"
 usc_title: 42
 usc_section: "4855"
 chapter: 63
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 4855"
-generated_at: "2026-03-30T07:31:50.756Z"
+generated_at: "2026-03-30T07:34:09.444Z"
 status: "active"
 ---
 

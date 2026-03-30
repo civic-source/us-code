@@ -3,9 +3,9 @@ title: "Section 112 - Certain combat zone compensation of members of the Armed F
 usc_title: 26
 usc_section: "112"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 112"
-generated_at: "2026-03-30T07:30:02.026Z"
+generated_at: "2026-03-30T07:33:42.687Z"
 status: "active"
 ---
 

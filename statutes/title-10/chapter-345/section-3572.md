@@ -3,9 +3,9 @@ title: "Section 3572 - Rank: commissioned officers serving under temporary appoi
 usc_title: 10
 usc_section: "3572"
 chapter: 345
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 3572"
-generated_at: "2026-03-30T07:28:11.903Z"
+generated_at: "2026-03-30T07:32:50.716Z"
 status: "active"
 ---
 

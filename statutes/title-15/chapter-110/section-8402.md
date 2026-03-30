@@ -3,9 +3,9 @@ title: "Section 8402 - Prohibitions against certain unfair and deceptive Interne
 usc_title: 15
 usc_section: "8402"
 chapter: 110
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 8402"
-generated_at: "2026-03-30T07:28:42.839Z"
+generated_at: "2026-03-30T07:33:03.261Z"
 status: "active"
 ---
 

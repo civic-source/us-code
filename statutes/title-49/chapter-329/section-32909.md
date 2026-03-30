@@ -3,9 +3,9 @@ title: "Section 32909 - Judicial review of regulations"
 usc_title: 49
 usc_section: "32909"
 chapter: 329
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 32909"
-generated_at: "2026-03-30T07:32:05.238Z"
+generated_at: "2026-03-30T07:34:17.453Z"
 status: "active"
 ---
 

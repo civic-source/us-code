@@ -3,9 +3,9 @@ title: "Section 5701 - Findings and declarations"
 usc_title: 22
 usc_section: "5701"
 chapter: 66
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 5701"
-generated_at: "2026-03-30T07:29:27.928Z"
+generated_at: "2026-03-30T07:33:32.699Z"
 status: "active"
 ---
 

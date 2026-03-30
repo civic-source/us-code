@@ -3,9 +3,9 @@ title: "Section 2521 - Foreign language proficiency"
 usc_title: 22
 usc_section: "2521"
 chapter: 34
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 2521"
-generated_at: "2026-03-30T07:29:27.891Z"
+generated_at: "2026-03-30T07:33:32.661Z"
 status: "active"
 ---
 

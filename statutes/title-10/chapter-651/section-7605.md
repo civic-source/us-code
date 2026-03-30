@@ -3,9 +3,9 @@ title: "Section 7605 - Acceptance of Government checks outside the United States
 usc_title: 10
 usc_section: "7605"
 chapter: 651
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 7605"
-generated_at: "2026-03-30T07:28:11.919Z"
+generated_at: "2026-03-30T07:32:50.732Z"
 status: "active"
 ---
 

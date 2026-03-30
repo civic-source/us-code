@@ -3,9 +3,9 @@ title: "Section 1769g - Information clearinghouse"
 usc_title: 42
 usc_section: "1769g"
 chapter: 13
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 1769g"
-generated_at: "2026-03-30T07:31:50.674Z"
+generated_at: "2026-03-30T07:34:09.366Z"
 status: "active"
 ---
 

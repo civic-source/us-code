@@ -3,9 +3,9 @@ title: "Section 5723 - Rules and regulations"
 usc_title: 22
 usc_section: "5723"
 chapter: 66
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 5723"
-generated_at: "2026-03-30T07:29:27.928Z"
+generated_at: "2026-03-30T07:33:32.699Z"
 status: "active"
 ---
 

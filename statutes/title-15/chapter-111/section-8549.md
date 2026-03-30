@@ -3,9 +3,9 @@ title: "Section 8549 - Hurricane hunter aircraft"
 usc_title: 15
 usc_section: "8549"
 chapter: 111
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 8549"
-generated_at: "2026-03-30T07:28:42.840Z"
+generated_at: "2026-03-30T07:33:03.263Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6329a - Administrative leave"
 usc_title: 5
 usc_section: "6329a"
 chapter: 63
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "5 U.S.C. § 6329a"
-generated_at: "2026-03-30T07:27:29.143Z"
+generated_at: "2026-03-30T07:32:43.239Z"
 status: "active"
 ---
 

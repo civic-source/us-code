@@ -3,9 +3,9 @@ title: "Section 508b - National forests in Minnesota; authority to prospect, dev
 usc_title: 16
 usc_section: "508b"
 chapter: 2
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 508b"
-generated_at: "2026-03-30T07:29:14.601Z"
+generated_at: "2026-03-30T07:33:21.307Z"
 status: "active"
 ---
 

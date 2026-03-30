@@ -3,9 +3,9 @@ title: "Section 1913 - National Language Service Corps"
 usc_title: 50
 usc_section: "1913"
 chapter: 37
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "50 U.S.C. § 1913"
-generated_at: "2026-03-30T07:31:55.122Z"
+generated_at: "2026-03-30T07:34:15.276Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6048 - Information with respect to certain foreign trusts"
 usc_title: 26
 usc_section: "6048"
 chapter: 61
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 6048"
-generated_at: "2026-03-30T07:30:02.196Z"
+generated_at: "2026-03-30T07:33:42.856Z"
 status: "active"
 ---
 

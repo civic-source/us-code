@@ -3,9 +3,9 @@ title: "Section 68e - Transferred"
 usc_title: 2
 usc_section: "68e"
 chapter: 4
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "2 U.S.C. § 68e"
-generated_at: "2026-03-30T07:27:31.860Z"
+generated_at: "2026-03-30T07:32:34.713Z"
 status: "transferred"
 ---
 

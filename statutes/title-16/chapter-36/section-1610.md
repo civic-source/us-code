@@ -3,9 +3,9 @@ title: "Section 1610 - Implementation of provisions by Secretary; utilization of
 usc_title: 16
 usc_section: "1610"
 chapter: 36
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 1610"
-generated_at: "2026-03-30T07:29:14.687Z"
+generated_at: "2026-03-30T07:33:21.388Z"
 status: "active"
 ---
 

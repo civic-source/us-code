@@ -3,9 +3,9 @@ title: "Section 12109 - Payments for incarceration on tribal lands"
 usc_title: 34
 usc_section: "12109"
 chapter: 121
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "34 U.S.C. § 12109"
-generated_at: "2026-03-30T07:30:19.107Z"
+generated_at: "2026-03-30T07:33:45.506Z"
 status: "active"
 ---
 

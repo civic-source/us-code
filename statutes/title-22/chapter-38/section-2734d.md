@@ -3,9 +3,9 @@ title: "Section 2734d - Recruitment and retention of individuals who have lived,
 usc_title: 22
 usc_section: "2734d"
 chapter: 38
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 2734d"
-generated_at: "2026-03-30T07:29:27.897Z"
+generated_at: "2026-03-30T07:33:32.668Z"
 status: "active"
 ---
 

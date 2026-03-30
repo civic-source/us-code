@@ -3,9 +3,9 @@ title: "Section 53723 - Payments by Secretary or Administrator and issuance of o
 usc_title: 46
 usc_section: "53723"
 chapter: 537
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "46 U.S.C. § 53723"
-generated_at: "2026-03-30T07:32:10.763Z"
+generated_at: "2026-03-30T07:34:14.334Z"
 status: "active"
 ---
 

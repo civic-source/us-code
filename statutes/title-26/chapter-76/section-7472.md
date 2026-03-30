@@ -3,9 +3,9 @@ title: "Section 7472 - Expenditures"
 usc_title: 26
 usc_section: "7472"
 chapter: 76
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 7472"
-generated_at: "2026-03-30T07:30:02.229Z"
+generated_at: "2026-03-30T07:33:42.888Z"
 status: "active"
 ---
 

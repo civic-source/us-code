@@ -3,9 +3,9 @@ title: "Section 540 - Investigation of felonious killings of State or local law 
 usc_title: 28
 usc_section: "540"
 chapter: 33
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "28 U.S.C. § 540"
-generated_at: "2026-03-30T07:29:43.726Z"
+generated_at: "2026-03-30T07:33:36.943Z"
 status: "active"
 ---
 

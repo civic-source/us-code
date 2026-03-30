@@ -3,9 +3,9 @@ title: "Section 5724 - Consultation with Congress"
 usc_title: 22
 usc_section: "5724"
 chapter: 66
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 5724"
-generated_at: "2026-03-30T07:29:27.928Z"
+generated_at: "2026-03-30T07:33:32.699Z"
 status: "active"
 ---
 

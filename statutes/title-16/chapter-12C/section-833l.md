@@ -3,9 +3,9 @@ title: "Section 833l - Acquisition of Indian lands"
 usc_title: 16
 usc_section: "833l"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 833l"
-generated_at: "2026-03-30T07:29:14.652Z"
+generated_at: "2026-03-30T07:33:21.353Z"
 status: "active"
 ---
 

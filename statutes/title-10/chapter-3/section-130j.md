@@ -3,9 +3,9 @@ title: "Section 130j - Notification requirements for sensitive military cyber op
 usc_title: 10
 usc_section: "130j"
 chapter: 3
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 130j"
-generated_at: "2026-03-30T07:28:11.788Z"
+generated_at: "2026-03-30T07:32:50.612Z"
 status: "active"
 ---
 

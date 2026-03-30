@@ -3,9 +3,9 @@ title: "Section 3536 - Leader of Army Band: appointment"
 usc_title: 10
 usc_section: "3536"
 chapter: 343
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 3536"
-generated_at: "2026-03-30T07:28:11.902Z"
+generated_at: "2026-03-30T07:32:50.715Z"
 status: "active"
 ---
 

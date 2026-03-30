@@ -3,9 +3,9 @@ title: "Section 3914 - Twenty to thirty years: enlisted members"
 usc_title: 10
 usc_section: "3914"
 chapter: 367
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 3914"
-generated_at: "2026-03-30T07:28:11.903Z"
+generated_at: "2026-03-30T07:32:50.717Z"
 status: "active"
 ---
 

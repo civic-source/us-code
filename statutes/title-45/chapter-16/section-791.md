@@ -3,9 +3,9 @@ title: "Section 791 - Relationship to other laws"
 usc_title: 45
 usc_section: "791"
 chapter: 16
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "45 U.S.C. § 791"
-generated_at: "2026-03-30T07:30:50.181Z"
+generated_at: "2026-03-30T07:33:54.847Z"
 status: "active"
 ---
 

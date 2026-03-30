@@ -3,9 +3,9 @@ title: "Section 5621 - Direct credit sales program"
 usc_title: 7
 usc_section: "5621"
 chapter: 87
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "7 U.S.C. § 5621"
-generated_at: "2026-03-30T07:27:42.943Z"
+generated_at: "2026-03-30T07:32:55.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2338 - Micro-purchase threshold"
 usc_title: 10
 usc_section: "2338"
 chapter: 137
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 2338"
-generated_at: "2026-03-30T07:28:11.872Z"
+generated_at: "2026-03-30T07:32:50.686Z"
 status: "active"
 ---
 

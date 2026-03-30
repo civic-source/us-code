@@ -3,9 +3,9 @@ title: "Section 2881a - Pilot projects for acquisition or construction of milita
 usc_title: 10
 usc_section: "2881a"
 chapter: 169
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 2881a"
-generated_at: "2026-03-30T07:28:11.898Z"
+generated_at: "2026-03-30T07:32:50.712Z"
 status: "active"
 ---
 

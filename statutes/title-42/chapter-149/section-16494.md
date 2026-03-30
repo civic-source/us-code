@@ -3,9 +3,9 @@ title: "Section 16494 - Oxygen-fuel"
 usc_title: 42
 usc_section: "16494"
 chapter: 149
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 16494"
-generated_at: "2026-03-30T07:31:50.982Z"
+generated_at: "2026-03-30T07:34:09.668Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1405p - Repealed. Pub. L. 97–357, title III , § 307, Oct. 19,
 usc_title: 48
 usc_section: "1405p"
 chapter: 7
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "48 U.S.C. § 1405p"
-generated_at: "2026-03-30T07:32:00.454Z"
+generated_at: "2026-03-30T07:34:15.686Z"
 status: "repealed"
 ---
 

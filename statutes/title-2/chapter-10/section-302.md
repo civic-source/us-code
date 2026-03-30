@@ -3,9 +3,9 @@ title: "Section 302 - Regulations"
 usc_title: 2
 usc_section: "302"
 chapter: 10
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "2 U.S.C. § 302"
-generated_at: "2026-03-30T07:27:31.867Z"
+generated_at: "2026-03-30T07:32:34.721Z"
 status: "active"
 ---
 

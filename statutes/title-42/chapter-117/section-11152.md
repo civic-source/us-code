@@ -3,9 +3,9 @@ title: "Section 11152 - Reports and memoranda of understanding"
 usc_title: 42
 usc_section: "11152"
 chapter: 117
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 11152"
-generated_at: "2026-03-30T07:31:50.912Z"
+generated_at: "2026-03-30T07:34:09.598Z"
 status: "active"
 ---
 

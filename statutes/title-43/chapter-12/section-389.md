@@ -3,9 +3,9 @@ title: "Section 389 - Relocation of highways, railroads, transmission lines, etc
 usc_title: 43
 usc_section: "389"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 389"
-generated_at: "2026-03-30T07:30:50.802Z"
+generated_at: "2026-03-30T07:33:54.038Z"
 status: "active"
 ---
 

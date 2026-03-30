@@ -3,9 +3,9 @@ title: "Section 10402 - Tribal grant program authorized"
 usc_title: 34
 usc_section: "10402"
 chapter: 101
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "34 U.S.C. § 10402"
-generated_at: "2026-03-30T07:30:19.093Z"
+generated_at: "2026-03-30T07:33:45.494Z"
 status: "active"
 ---
 

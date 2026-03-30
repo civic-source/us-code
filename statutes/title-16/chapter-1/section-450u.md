@@ -3,9 +3,9 @@ title: "Section 450u - Homestead National Monument of America; establishment"
 usc_title: 16
 usc_section: "450u"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 450u"
-generated_at: "2026-03-30T07:29:14.560Z"
+generated_at: "2026-03-30T07:33:21.265Z"
 status: "active"
 ---
 

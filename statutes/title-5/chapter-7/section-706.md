@@ -3,9 +3,9 @@ title: "Section 706 - Scope of review"
 usc_title: 5
 usc_section: "706"
 chapter: 7
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "5 U.S.C. § 706"
-generated_at: "2026-03-30T07:27:29.116Z"
+generated_at: "2026-03-30T07:32:43.216Z"
 status: "active"
 ---
 

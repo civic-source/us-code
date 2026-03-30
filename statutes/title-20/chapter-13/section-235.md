@@ -3,9 +3,9 @@ title: "Section 235 - Omitted"
 usc_title: 20
 usc_section: "235"
 chapter: 13
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 235"
-generated_at: "2026-03-30T07:29:00.270Z"
+generated_at: "2026-03-30T07:33:09.766Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8756 - Korea Defense Service Medal"
 usc_title: 10
 usc_section: "8756"
 chapter: 857
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 8756"
-generated_at: "2026-03-30T07:28:11.923Z"
+generated_at: "2026-03-30T07:32:50.736Z"
 status: "active"
 ---
 

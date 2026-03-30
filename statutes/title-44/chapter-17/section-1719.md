@@ -3,9 +3,9 @@ title: "Section 1719 - International exchange of Government publications"
 usc_title: 44
 usc_section: "1719"
 chapter: 17
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "44 U.S.C. § 1719"
-generated_at: "2026-03-30T07:30:49.890Z"
+generated_at: "2026-03-30T07:33:55.316Z"
 status: "active"
 ---
 

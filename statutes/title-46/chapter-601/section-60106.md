@@ -3,9 +3,9 @@ title: "Section 60106 - State inspection laws"
 usc_title: 46
 usc_section: "60106"
 chapter: 601
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "46 U.S.C. § 60106"
-generated_at: "2026-03-30T07:32:10.768Z"
+generated_at: "2026-03-30T07:34:14.338Z"
 status: "active"
 ---
 

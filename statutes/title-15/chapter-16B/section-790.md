@@ -3,9 +3,9 @@ title: "Section 790 - Establishment of Office of Energy Information and Analysis
 usc_title: 15
 usc_section: "790"
 chapter: 16
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 790"
-generated_at: "2026-03-30T07:28:42.742Z"
+generated_at: "2026-03-30T07:33:03.163Z"
 status: "active"
 ---
 

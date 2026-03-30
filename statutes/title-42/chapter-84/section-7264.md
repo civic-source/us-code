@@ -3,9 +3,9 @@ title: "Section 7264 - Seal of Department"
 usc_title: 42
 usc_section: "7264"
 chapter: 84
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 7264"
-generated_at: "2026-03-30T07:31:50.819Z"
+generated_at: "2026-03-30T07:34:09.505Z"
 status: "active"
 ---
 

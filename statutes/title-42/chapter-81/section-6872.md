@@ -3,9 +3,9 @@ title: "Section 6872 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6872"
 chapter: 81
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 6872"
-generated_at: "2026-03-30T07:31:50.802Z"
+generated_at: "2026-03-30T07:34:09.490Z"
 status: "active"
 ---
 

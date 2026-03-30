@@ -3,9 +3,9 @@ title: "Section 1301 - Findings"
 usc_title: 47
 usc_section: "1301"
 chapter: 12
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "47 U.S.C. § 1301"
-generated_at: "2026-03-30T07:32:00.115Z"
+generated_at: "2026-03-30T07:34:13.644Z"
 status: "active"
 ---
 

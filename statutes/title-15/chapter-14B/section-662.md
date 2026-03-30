@@ -3,9 +3,9 @@ title: "Section 662 - Definitions"
 usc_title: 15
 usc_section: "662"
 chapter: 14
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 662"
-generated_at: "2026-03-30T07:28:42.729Z"
+generated_at: "2026-03-30T07:33:03.149Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1910 - Legal actions"
 usc_title: 33
 usc_section: "1910"
 chapter: 33
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 1910"
-generated_at: "2026-03-30T07:30:15.215Z"
+generated_at: "2026-03-30T07:33:47.092Z"
 status: "active"
 ---
 

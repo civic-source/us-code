@@ -3,9 +3,9 @@ title: "Section 15973 - Western integrated coal gasification demonstration proje
 usc_title: 42
 usc_section: "15973"
 chapter: 149
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 15973"
-generated_at: "2026-03-30T07:31:50.971Z"
+generated_at: "2026-03-30T07:34:09.658Z"
 status: "active"
 ---
 

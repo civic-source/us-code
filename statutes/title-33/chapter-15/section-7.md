@@ -3,9 +3,9 @@ title: "Section 7 - Railroad and highway crossings over floodways"
 usc_title: 33
 usc_section: "7"
 chapter: 15
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 7"
-generated_at: "2026-03-30T07:30:15.180Z"
+generated_at: "2026-03-30T07:33:47.058Z"
 status: "active"
 ---
 

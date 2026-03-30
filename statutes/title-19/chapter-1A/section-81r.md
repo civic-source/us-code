@@ -3,9 +3,9 @@ title: "Section 81r - Revocation of grants"
 usc_title: 19
 usc_section: "81r"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "19 U.S.C. § 81r"
-generated_at: "2026-03-30T07:29:01.388Z"
+generated_at: "2026-03-30T07:33:13.250Z"
 status: "active"
 ---
 

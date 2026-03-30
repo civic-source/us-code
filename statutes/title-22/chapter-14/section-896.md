@@ -3,9 +3,9 @@ title: "Section 896 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 17
 usc_title: 22
 usc_section: "896"
 chapter: 14
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 896"
-generated_at: "2026-03-30T07:29:27.856Z"
+generated_at: "2026-03-30T07:33:32.624Z"
 status: "repealed"
 ---
 

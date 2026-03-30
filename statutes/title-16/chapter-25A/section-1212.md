@@ -3,9 +3,9 @@ title: "Section 1212 - Investigation and control of crown of thorns starfish"
 usc_title: 16
 usc_section: "1212"
 chapter: 25
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 1212"
-generated_at: "2026-03-30T07:29:14.667Z"
+generated_at: "2026-03-30T07:33:21.365Z"
 status: "active"
 ---
 

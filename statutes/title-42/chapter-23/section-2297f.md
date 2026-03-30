@@ -3,9 +3,9 @@ title: "Section 2297f - Gaseous diffusion facilities"
 usc_title: 42
 usc_section: "2297f"
 chapter: 23
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 2297f"
-generated_at: "2026-03-30T07:31:50.711Z"
+generated_at: "2026-03-30T07:34:09.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6038 - Reports on commerce with, and assistance to, Cuba from ot
 usc_title: 22
 usc_section: "6038"
 chapter: 69
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 6038"
-generated_at: "2026-03-30T07:29:27.931Z"
+generated_at: "2026-03-30T07:33:32.701Z"
 status: "active"
 ---
 

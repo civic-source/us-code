@@ -3,9 +3,9 @@ title: "Section 16231 - Renewable energy"
 usc_title: 42
 usc_section: "16231"
 chapter: 149
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 16231"
-generated_at: "2026-03-30T07:31:50.976Z"
+generated_at: "2026-03-30T07:34:09.663Z"
 status: "active"
 ---
 

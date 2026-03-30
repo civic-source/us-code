@@ -3,9 +3,9 @@ title: "Section 50908 - Effective periods, and modifications, suspensions, and r
 usc_title: 51
 usc_section: "50908"
 chapter: 509
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "51 U.S.C. § 50908"
-generated_at: "2026-03-30T07:32:19.063Z"
+generated_at: "2026-03-30T07:34:19.435Z"
 status: "active"
 ---
 

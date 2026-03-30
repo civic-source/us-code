@@ -3,9 +3,9 @@ title: "Section 10172 - Navy Reserve Force"
 usc_title: 10
 usc_section: "10172"
 chapter: 1006
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 10172"
-generated_at: "2026-03-30T07:28:11.929Z"
+generated_at: "2026-03-30T07:32:50.742Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 975g - Repealed. Pub. L. 97–468, title VI , § 615(a)(1), Jan.
 usc_title: 43
 usc_section: "975g"
 chapter: 22
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 975g"
-generated_at: "2026-03-30T07:30:50.826Z"
+generated_at: "2026-03-30T07:33:54.059Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1477 - Death gratuity: eligible survivors"
 usc_title: 10
 usc_section: "1477"
 chapter: 75
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 1477"
-generated_at: "2026-03-30T07:28:11.846Z"
+generated_at: "2026-03-30T07:32:50.662Z"
 status: "active"
 ---
 

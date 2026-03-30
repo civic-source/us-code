@@ -3,9 +3,9 @@ title: "Section 1982 - Relief for mobilized military reservists from certain agr
 usc_title: 7
 usc_section: "1982"
 chapter: 50
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "7 U.S.C. § 1982"
-generated_at: "2026-03-30T07:27:42.896Z"
+generated_at: "2026-03-30T07:32:55.006Z"
 status: "active"
 ---
 

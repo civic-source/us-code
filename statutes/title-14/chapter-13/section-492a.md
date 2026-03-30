@@ -3,9 +3,9 @@ title: "Section 492a - Silver star medal"
 usc_title: 14
 usc_section: "492a"
 chapter: 13
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "14 U.S.C. § 492a"
-generated_at: "2026-03-30T07:28:14.229Z"
+generated_at: "2026-03-30T07:32:57.171Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6957b - Repealed. Pub. L. 114–328, div. A, title XII , § 1248
 usc_title: 10
 usc_section: "6957b"
 chapter: 603
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 6957b"
-generated_at: "2026-03-30T07:28:11.914Z"
+generated_at: "2026-03-30T07:32:50.727Z"
 status: "repealed"
 ---
 

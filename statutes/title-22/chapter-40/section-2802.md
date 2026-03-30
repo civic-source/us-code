@@ -3,9 +3,9 @@ title: "Section 2802 - Federal recognition"
 usc_title: 22
 usc_section: "2802"
 chapter: 40
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 2802"
-generated_at: "2026-03-30T07:29:27.902Z"
+generated_at: "2026-03-30T07:33:32.673Z"
 status: "active"
 ---
 

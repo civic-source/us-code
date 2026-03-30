@@ -3,9 +3,9 @@ title: "Section 571 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
 usc_title: 50
 usc_section: "571"
 chapter: 22
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "50 U.S.C. § 571"
-generated_at: "2026-03-30T07:31:55.112Z"
+generated_at: "2026-03-30T07:34:15.265Z"
 status: "repealed"
 ---
 

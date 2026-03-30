@@ -3,9 +3,9 @@ title: "Section 668 - “Hydraulic mining” and “mining by hydraulic process�
 usc_title: 33
 usc_section: "668"
 chapter: 14
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "33 U.S.C. § 668"
-generated_at: "2026-03-30T07:30:15.177Z"
+generated_at: "2026-03-30T07:33:47.056Z"
 status: "active"
 ---
 

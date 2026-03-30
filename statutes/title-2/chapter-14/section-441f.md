@@ -3,9 +3,9 @@ title: "Section 441f - Transferred"
 usc_title: 2
 usc_section: "441f"
 chapter: 14
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "2 U.S.C. § 441f"
-generated_at: "2026-03-30T07:27:31.869Z"
+generated_at: "2026-03-30T07:32:34.723Z"
 status: "transferred"
 ---
 

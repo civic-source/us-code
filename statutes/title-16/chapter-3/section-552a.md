@@ -3,9 +3,9 @@ title: "Section 552a - Restoration of withdrawn national forest lands to appropr
 usc_title: 16
 usc_section: "552a"
 chapter: 3
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 552a"
-generated_at: "2026-03-30T07:29:14.611Z"
+generated_at: "2026-03-30T07:33:21.317Z"
 status: "active"
 ---
 

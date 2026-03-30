@@ -3,9 +3,9 @@ title: "Section 1361 - Amounts payable by corporation"
 usc_title: 29
 usc_section: "1361"
 chapter: 18
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "29 U.S.C. § 1361"
-generated_at: "2026-03-30T07:29:47.061Z"
+generated_at: "2026-03-30T07:33:37.813Z"
 status: "active"
 ---
 

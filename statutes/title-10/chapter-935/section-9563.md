@@ -3,9 +3,9 @@ title: "Section 9563 - Clothing: replacement when destroyed to prevent contagion
 usc_title: 10
 usc_section: "9563"
 chapter: 935
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 9563"
-generated_at: "2026-03-30T07:28:11.927Z"
+generated_at: "2026-03-30T07:32:50.740Z"
 status: "active"
 ---
 

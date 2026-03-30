@@ -3,9 +3,9 @@ title: "Section 2872 - Repealed. Pub. L. 113–128, title V , § 511(a), July 22
 usc_title: 29
 usc_section: "2872"
 chapter: 30
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "29 U.S.C. § 2872"
-generated_at: "2026-03-30T07:29:47.070Z"
+generated_at: "2026-03-30T07:33:37.822Z"
 status: "repealed"
 ---
 

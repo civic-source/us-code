@@ -3,9 +3,9 @@ title: "Section 204j - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 16
 usc_section: "204j"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 204j"
-generated_at: "2026-03-30T07:29:14.523Z"
+generated_at: "2026-03-30T07:33:21.226Z"
 status: "repealed"
 ---
 

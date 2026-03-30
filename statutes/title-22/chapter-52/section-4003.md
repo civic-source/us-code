@@ -3,9 +3,9 @@ title: "Section 4003 - Recommendations and rankings"
 usc_title: 22
 usc_section: "4003"
 chapter: 52
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 4003"
-generated_at: "2026-03-30T07:29:27.912Z"
+generated_at: "2026-03-30T07:33:32.682Z"
 status: "active"
 ---
 

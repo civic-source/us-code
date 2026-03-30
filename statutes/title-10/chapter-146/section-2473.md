@@ -3,9 +3,9 @@ title: "Section 2473 - Repealed. Pub. L. 111–383, div. A, title VIII , § 822(
 usc_title: 10
 usc_section: "2473"
 chapter: 146
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 2473"
-generated_at: "2026-03-30T07:28:11.882Z"
+generated_at: "2026-03-30T07:32:50.696Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6371 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "6371"
 chapter: 573
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 6371"
-generated_at: "2026-03-30T07:28:11.913Z"
+generated_at: "2026-03-30T07:32:50.726Z"
 status: "active"
 ---
 

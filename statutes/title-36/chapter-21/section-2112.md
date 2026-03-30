@@ -3,9 +3,9 @@ title: "Section 2112 - Care and maintenance of Surrender Tree site"
 usc_title: 36
 usc_section: "2112"
 chapter: 21
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "36 U.S.C. § 2112"
-generated_at: "2026-03-30T07:30:34.847Z"
+generated_at: "2026-03-30T07:33:49.830Z"
 status: "active"
 ---
 

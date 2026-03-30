@@ -3,9 +3,9 @@ title: "Section 41102 - Parimutuel licensing simplification"
 usc_title: 34
 usc_section: "41102"
 chapter: 411
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "34 U.S.C. § 41102"
-generated_at: "2026-03-30T07:30:19.133Z"
+generated_at: "2026-03-30T07:33:45.530Z"
 status: "active"
 ---
 

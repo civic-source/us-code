@@ -3,9 +3,9 @@ title: "Section 1404 - Change of venue"
 usc_title: 28
 usc_section: "1404"
 chapter: 87
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "28 U.S.C. § 1404"
-generated_at: "2026-03-30T07:29:43.733Z"
+generated_at: "2026-03-30T07:33:36.950Z"
 status: "active"
 ---
 

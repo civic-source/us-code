@@ -3,9 +3,9 @@ title: "Section 4375 - Trade negotiating objectives"
 usc_title: 19
 usc_section: "4375"
 chapter: 28
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "19 U.S.C. § 4375"
-generated_at: "2026-03-30T07:29:01.457Z"
+generated_at: "2026-03-30T07:33:13.317Z"
 status: "active"
 ---
 

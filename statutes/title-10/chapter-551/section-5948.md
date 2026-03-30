@@ -3,9 +3,9 @@ title: "Section 5948 - Consular powers: senior officer present afloat"
 usc_title: 10
 usc_section: "5948"
 chapter: 551
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 5948"
-generated_at: "2026-03-30T07:28:11.911Z"
+generated_at: "2026-03-30T07:32:50.724Z"
 status: "active"
 ---
 

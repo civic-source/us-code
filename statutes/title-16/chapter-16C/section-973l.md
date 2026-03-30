@@ -3,9 +3,9 @@ title: "Section 973l - Observers"
 usc_title: 16
 usc_section: "973l"
 chapter: 16
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 973l"
-generated_at: "2026-03-30T07:29:14.664Z"
+generated_at: "2026-03-30T07:33:21.361Z"
 status: "active"
 ---
 

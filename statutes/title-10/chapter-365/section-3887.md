@@ -3,9 +3,9 @@ title: "Section 3887 - Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21
 usc_title: 10
 usc_section: "3887"
 chapter: 365
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 3887"
-generated_at: "2026-03-30T07:28:11.903Z"
+generated_at: "2026-03-30T07:32:50.717Z"
 status: "repealed"
 ---
 

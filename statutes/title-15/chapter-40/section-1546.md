@@ -3,9 +3,9 @@ title: "Section 1546 - Advisory committee for promotion of tourist travel; expen
 usc_title: 15
 usc_section: "1546"
 chapter: 40
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 1546"
-generated_at: "2026-03-30T07:28:42.756Z"
+generated_at: "2026-03-30T07:33:03.177Z"
 status: "active"
 ---
 

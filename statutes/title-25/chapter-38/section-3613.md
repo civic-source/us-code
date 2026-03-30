@@ -3,9 +3,9 @@ title: "Section 3613 - Base support funding for tribal justice systems"
 usc_title: 25
 usc_section: "3613"
 chapter: 38
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "25 U.S.C. § 3613"
-generated_at: "2026-03-30T07:29:18.545Z"
+generated_at: "2026-03-30T07:33:33.918Z"
 status: "active"
 ---
 

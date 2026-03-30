@@ -3,9 +3,9 @@ title: "Section 2 - Minimum capital level"
 usc_title: 12
 usc_section: "2"
 chapter: 23
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T07:28:17.208Z"
+generated_at: "2026-03-30T07:33:00.969Z"
 status: "active"
 ---
 

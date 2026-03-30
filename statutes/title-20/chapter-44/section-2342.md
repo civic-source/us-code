@@ -3,9 +3,9 @@ title: "Section 2342 - State plan"
 usc_title: 20
 usc_section: "2342"
 chapter: 44
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 2342"
-generated_at: "2026-03-30T07:29:00.339Z"
+generated_at: "2026-03-30T07:33:09.842Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3002a - Nonmailability of locksmithing devices"
 usc_title: 39
 usc_section: "3002a"
 chapter: 30
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "39 U.S.C. § 3002a"
-generated_at: "2026-03-30T07:30:29.548Z"
+generated_at: "2026-03-30T07:33:48.681Z"
 status: "active"
 ---
 

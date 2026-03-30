@@ -3,9 +3,9 @@ title: "Section 5315 - Scientific research and development in support of coordin
 usc_title: 7
 usc_section: "5315"
 chapter: 84
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "7 U.S.C. § 5315"
-generated_at: "2026-03-30T07:27:42.942Z"
+generated_at: "2026-03-30T07:32:55.054Z"
 status: "active"
 ---
 

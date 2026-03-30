@@ -3,9 +3,9 @@ title: "Section 182 - Rights of Indian women marrying white men; tribal property
 usc_title: 25
 usc_section: "182"
 chapter: 5
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "25 U.S.C. § 182"
-generated_at: "2026-03-30T07:29:18.500Z"
+generated_at: "2026-03-30T07:33:33.871Z"
 status: "active"
 ---
 

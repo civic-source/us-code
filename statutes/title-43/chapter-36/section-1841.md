@@ -3,9 +3,9 @@ title: "Section 1841 - Definitions"
 usc_title: 43
 usc_section: "1841"
 chapter: 36
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 1841"
-generated_at: "2026-03-30T07:30:50.853Z"
+generated_at: "2026-03-30T07:33:54.084Z"
 status: "active"
 ---
 

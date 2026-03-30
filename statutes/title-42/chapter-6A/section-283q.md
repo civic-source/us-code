@@ -3,9 +3,9 @@ title: "Section 283q - Eureka prize competitions"
 usc_title: 42
 usc_section: "283q"
 chapter: 6
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 283q"
-generated_at: "2026-03-30T07:31:50.381Z"
+generated_at: "2026-03-30T07:34:09.069Z"
 status: "active"
 ---
 

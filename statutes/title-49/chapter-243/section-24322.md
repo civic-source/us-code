@@ -3,9 +3,9 @@ title: "Section 24322 - Rolling stock purchases"
 usc_title: 49
 usc_section: "24322"
 chapter: 243
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 24322"
-generated_at: "2026-03-30T07:32:05.221Z"
+generated_at: "2026-03-30T07:34:17.437Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6543 - Savings provisions"
 usc_title: 22
 usc_section: "6543"
 chapter: 74
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 6543"
-generated_at: "2026-03-30T07:29:27.937Z"
+generated_at: "2026-03-30T07:33:32.707Z"
 status: "active"
 ---
 

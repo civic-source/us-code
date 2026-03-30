@@ -3,9 +3,9 @@ title: "Section 5705 - Repealed. Pub. L. 115–31, div. E, title VI , § 631(a),
 usc_title: 20
 usc_section: "5705"
 chapter: 67
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "20 U.S.C. § 5705"
-generated_at: "2026-03-30T07:29:00.351Z"
+generated_at: "2026-03-30T07:33:09.855Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1193 - Repealed. Pub. L. 94–579, title VII , § 705(a), Oct. 2
 usc_title: 43
 usc_section: "1193"
 chapter: 28
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 1193"
-generated_at: "2026-03-30T07:30:50.827Z"
+generated_at: "2026-03-30T07:33:54.060Z"
 status: "repealed"
 ---
 

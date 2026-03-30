@@ -3,9 +3,9 @@ title: "Section 941e - Establishment of offices"
 usc_title: 16
 usc_section: "941e"
 chapter: 15
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 941e"
-generated_at: "2026-03-30T07:29:14.660Z"
+generated_at: "2026-03-30T07:33:21.359Z"
 status: "active"
 ---
 

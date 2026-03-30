@@ -3,9 +3,9 @@ title: "Section 730 - Violations of law or regulations; punishment"
 usc_title: 16
 usc_section: "730"
 chapter: 8
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 730"
-generated_at: "2026-03-30T07:29:14.630Z"
+generated_at: "2026-03-30T07:33:21.337Z"
 status: "active"
 ---
 

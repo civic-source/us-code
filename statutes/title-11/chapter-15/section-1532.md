@@ -3,9 +3,9 @@ title: "Section 1532 - Rule of payment in concurrent proceedings"
 usc_title: 11
 usc_section: "1532"
 chapter: 15
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "11 U.S.C. § 1532"
-generated_at: "2026-03-30T07:28:14.526Z"
+generated_at: "2026-03-30T07:32:57.473Z"
 status: "active"
 ---
 

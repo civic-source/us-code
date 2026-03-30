@@ -3,9 +3,9 @@ title: "Section 5126 - Mandatory application of sections 5102 and 5124"
 usc_title: 25
 usc_section: "5126"
 chapter: 45
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "25 U.S.C. § 5126"
-generated_at: "2026-03-30T07:29:18.554Z"
+generated_at: "2026-03-30T07:33:33.928Z"
 status: "active"
 ---
 

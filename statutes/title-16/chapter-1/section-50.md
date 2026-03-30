@@ -3,9 +3,9 @@ title: "Section 50 - Authorization of appropriations"
 usc_title: 16
 usc_section: "50"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 50"
-generated_at: "2026-03-30T07:29:14.583Z"
+generated_at: "2026-03-30T07:33:21.288Z"
 status: "active"
 ---
 

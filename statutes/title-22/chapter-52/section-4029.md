@@ -3,9 +3,9 @@ title: "Section 4029 - Increased training in multilateral diplomacy"
 usc_title: 22
 usc_section: "4029"
 chapter: 52
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 4029"
-generated_at: "2026-03-30T07:29:27.912Z"
+generated_at: "2026-03-30T07:33:32.683Z"
 status: "active"
 ---
 

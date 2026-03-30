@@ -3,9 +3,9 @@ title: "Section 2151 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "2151"
 chapter: 32
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "22 U.S.C. § 2151"
-generated_at: "2026-03-30T07:29:27.867Z"
+generated_at: "2026-03-30T07:33:32.636Z"
 status: "active"
 ---
 

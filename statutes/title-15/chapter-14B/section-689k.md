@@ -3,9 +3,9 @@ title: "Section 689k - Examinations"
 usc_title: 15
 usc_section: "689k"
 chapter: 14
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 689k"
-generated_at: "2026-03-30T07:28:42.731Z"
+generated_at: "2026-03-30T07:33:03.152Z"
 status: "active"
 ---
 

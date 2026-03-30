@@ -3,9 +3,9 @@ title: "Section 8 - Authorization of appropriations"
 usc_title: 16
 usc_section: "8"
 chapter: 3
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T07:29:14.615Z"
+generated_at: "2026-03-30T07:33:21.321Z"
 status: "active"
 ---
 

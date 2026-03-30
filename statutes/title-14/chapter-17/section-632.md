@@ -3,9 +3,9 @@ title: "Section 632 - Functions and powers vested in the Commandant"
 usc_title: 14
 usc_section: "632"
 chapter: 17
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "14 U.S.C. § 632"
-generated_at: "2026-03-30T07:28:14.230Z"
+generated_at: "2026-03-30T07:32:57.173Z"
 status: "active"
 ---
 

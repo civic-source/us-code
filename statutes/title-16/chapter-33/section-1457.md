@@ -3,9 +3,9 @@ title: "Section 1457 - Public hearings"
 usc_title: 16
 usc_section: "1457"
 chapter: 33
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 1457"
-generated_at: "2026-03-30T07:29:14.684Z"
+generated_at: "2026-03-30T07:33:21.384Z"
 status: "active"
 ---
 

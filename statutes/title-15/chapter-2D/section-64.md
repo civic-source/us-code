@@ -3,9 +3,9 @@ title: "Section 64 - Preventing compliance with subchapter; liability of control
 usc_title: 15
 usc_section: "64"
 chapter: 2
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "15 U.S.C. § 64"
-generated_at: "2026-03-30T07:28:42.698Z"
+generated_at: "2026-03-30T07:33:03.117Z"
 status: "active"
 ---
 

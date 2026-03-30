@@ -3,9 +3,9 @@ title: "Section 2776 - Use of receipts of public money for current expenditures"
 usc_title: 10
 usc_section: "2776"
 chapter: 165
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 2776"
-generated_at: "2026-03-30T07:28:11.895Z"
+generated_at: "2026-03-30T07:32:50.708Z"
 status: "active"
 ---
 

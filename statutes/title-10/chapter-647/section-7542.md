@@ -3,9 +3,9 @@ title: "Section 7542 - Excess clothing: sale for distribution to needy"
 usc_title: 10
 usc_section: "7542"
 chapter: 647
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 7542"
-generated_at: "2026-03-30T07:28:11.919Z"
+generated_at: "2026-03-30T07:32:50.732Z"
 status: "active"
 ---
 

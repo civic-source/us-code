@@ -3,9 +3,9 @@ title: "Section 41741 - Insurance"
 usc_title: 49
 usc_section: "41741"
 chapter: 417
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "49 U.S.C. § 41741"
-generated_at: "2026-03-30T07:32:05.246Z"
+generated_at: "2026-03-30T07:34:17.462Z"
 status: "active"
 ---
 

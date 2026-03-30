@@ -3,9 +3,9 @@ title: "Section 9722 - Sham transactions"
 usc_title: 26
 usc_section: "9722"
 chapter: 99
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 9722"
-generated_at: "2026-03-30T07:30:02.250Z"
+generated_at: "2026-03-30T07:33:42.904Z"
 status: "active"
 ---
 

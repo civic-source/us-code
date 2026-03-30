@@ -3,9 +3,9 @@ title: "Section 5038 - Director for Expeditionary Warfare"
 usc_title: 10
 usc_section: "5038"
 chapter: 505
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "10 U.S.C. § 5038"
-generated_at: "2026-03-30T07:28:11.909Z"
+generated_at: "2026-03-30T07:32:50.722Z"
 status: "active"
 ---
 

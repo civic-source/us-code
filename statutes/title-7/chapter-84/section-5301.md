@@ -3,9 +3,9 @@ title: "Section 5301 - Congressional statement of purposes"
 usc_title: 7
 usc_section: "5301"
 chapter: 84
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "7 U.S.C. § 5301"
-generated_at: "2026-03-30T07:27:42.941Z"
+generated_at: "2026-03-30T07:32:55.053Z"
 status: "active"
 ---
 

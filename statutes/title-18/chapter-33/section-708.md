@@ -3,9 +3,9 @@ title: "Section 708 - Swiss Confederation coat of arms"
 usc_title: 18
 usc_section: "708"
 chapter: 33
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "18 U.S.C. § 708"
-generated_at: "2026-03-30T07:29:07.287Z"
+generated_at: "2026-03-30T07:33:06.809Z"
 status: "active"
 ---
 

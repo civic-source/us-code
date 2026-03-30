@@ -3,9 +3,9 @@ title: "Section 836 - Employee protection"
 usc_title: 45
 usc_section: "836"
 chapter: 17
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "45 U.S.C. § 836"
-generated_at: "2026-03-30T07:30:50.183Z"
+generated_at: "2026-03-30T07:33:54.849Z"
 status: "active"
 ---
 

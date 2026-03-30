@@ -3,9 +3,9 @@ title: "Section 2016 - Recovery of taxes claimed as credit"
 usc_title: 26
 usc_section: "2016"
 chapter: 11
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 2016"
-generated_at: "2026-03-30T07:30:02.151Z"
+generated_at: "2026-03-30T07:33:42.811Z"
 status: "active"
 ---
 

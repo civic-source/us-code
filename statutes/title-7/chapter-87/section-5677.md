@@ -3,9 +3,9 @@ title: "Section 5677 - Trade compensation and assistance programs"
 usc_title: 7
 usc_section: "5677"
 chapter: 87
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "7 U.S.C. § 5677"
-generated_at: "2026-03-30T07:27:42.943Z"
+generated_at: "2026-03-30T07:32:55.056Z"
 status: "active"
 ---
 

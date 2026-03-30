@@ -3,9 +3,9 @@ title: "Section 17f - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17f"
 chapter: 1
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "16 U.S.C. § 17f"
-generated_at: "2026-03-30T07:29:14.512Z"
+generated_at: "2026-03-30T07:33:21.215Z"
 status: "repealed"
 ---
 

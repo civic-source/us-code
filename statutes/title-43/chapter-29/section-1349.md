@@ -3,9 +3,9 @@ title: "Section 1349 - Citizens suits, jurisdiction and judicial review"
 usc_title: 43
 usc_section: "1349"
 chapter: 29
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "43 U.S.C. § 1349"
-generated_at: "2026-03-30T07:30:50.830Z"
+generated_at: "2026-03-30T07:33:54.063Z"
 status: "active"
 ---
 

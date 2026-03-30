@@ -3,9 +3,9 @@ title: "Section 334a - Special aviation incentive pay and bonus authorities: enl
 usc_title: 37
 usc_section: "334a"
 chapter: 5
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "37 U.S.C. § 334a"
-generated_at: "2026-03-30T07:30:35.341Z"
+generated_at: "2026-03-30T07:33:49.150Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
   - **(1)** The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible enlisted member who is a remotely piloted aircraft pilot.
   - **(2)** The term “operational flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which basic flying skills are normally maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to designation as a remotely piloted aircraft pilot by the Secretary concerned.
   - **(3)** The term “proficiency flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
-      - **(i)** No agreement may be entered into under this section after December 31, 2018 .
+- **(i)** No agreement may be entered into under this section after December 31, 2018 .

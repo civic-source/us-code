@@ -3,9 +3,9 @@ title: "Section 7448 - Annuities to surviving spouses and dependent children of 
 usc_title: 26
 usc_section: "7448"
 chapter: 76
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "26 U.S.C. § 7448"
-generated_at: "2026-03-30T07:30:02.228Z"
+generated_at: "2026-03-30T07:33:42.887Z"
 status: "active"
 ---
 

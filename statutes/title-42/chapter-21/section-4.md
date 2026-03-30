@@ -3,9 +3,9 @@ title: "Section 4 - Construction of provisions not to exclude operation of State
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T07:31:50.693Z"
+generated_at: "2026-03-30T07:34:09.385Z"
 status: "active"
 ---
 

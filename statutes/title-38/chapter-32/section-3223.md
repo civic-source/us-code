@@ -3,9 +3,9 @@ title: "Section 3223 - Refunds of contributions upon disenrollment"
 usc_title: 38
 usc_section: "3223"
 chapter: 32
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "38 U.S.C. § 3223"
-generated_at: "2026-03-30T07:30:47.656Z"
+generated_at: "2026-03-30T07:33:51.083Z"
 status: "active"
 ---
 

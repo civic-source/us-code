@@ -3,9 +3,9 @@ title: "Section 5197e - Authorization of appropriations and transfers of funds"
 usc_title: 42
 usc_section: "5197e"
 chapter: 68
-current_through: "PL 115-193"
+current_through: "PL 115-196"
 classification: "42 U.S.C. § 5197e"
-generated_at: "2026-03-30T07:31:50.769Z"
+generated_at: "2026-03-30T07:34:09.457Z"
 status: "active"
 ---
 
