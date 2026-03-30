@@ -3,9 +3,9 @@ title: "Section 2156 - Joint Forces Staff College: duration of principal course 
 usc_title: 10
 usc_section: "2156"
 chapter: 107
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2156"
-generated_at: "2026-03-30T03:59:31.600Z"
+generated_at: "2026-03-30T04:02:49.668Z"
 status: "active"
 ---
 

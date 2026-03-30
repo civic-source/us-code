@@ -1,15 +1,13 @@
 ---
-title: "Section 1973ee - Congressional declaration of purpose"
+title: "Section 1973ee - Transferred"
 usc_title: 42
 usc_section: "1973ee"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1973ee"
-generated_at: "2026-03-30T04:01:27.362Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.621Z"
+status: "transferred"
 ---
 
-# § 1973ee. Congressional declaration of purpose
-
-It is the intention of Congress in enacting this subchapter to promote the fundamental right to vote by improving access for handicapped and elderly individuals to registration facilities and polling places for Federal elections.
+# § 1973ee. Transferred
 

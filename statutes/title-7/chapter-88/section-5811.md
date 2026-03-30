@@ -3,9 +3,9 @@ title: "Section 5811 - Research and extension projects"
 usc_title: 7
 usc_section: "5811"
 chapter: 88
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 5811"
-generated_at: "2026-03-30T03:59:22.369Z"
+generated_at: "2026-03-30T04:02:40.403Z"
 status: "active"
 ---
 

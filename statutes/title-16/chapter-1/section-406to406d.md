@@ -3,9 +3,9 @@ title: "Section 406to406d - Repealed. Sept. 14, 1950, ch. 950, § 1 , 64 Stat. 8
 usc_title: 16
 usc_section: "406to406d"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 406to406d"
-generated_at: "2026-03-30T04:00:01.571Z"
+generated_at: "2026-03-30T04:03:31.360Z"
 status: "repealed"
 ---
 

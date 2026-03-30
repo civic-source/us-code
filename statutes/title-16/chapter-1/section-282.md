@@ -3,9 +3,9 @@ title: "Section 282 - Acquisition of property; purpose; authority of Secretary; 
 usc_title: 16
 usc_section: "282"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 282"
-generated_at: "2026-03-30T04:00:01.558Z"
+generated_at: "2026-03-30T04:03:31.349Z"
 status: "active"
 ---
 

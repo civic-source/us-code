@@ -3,9 +3,9 @@ title: "Section 360hh - Definitions"
 usc_title: 21
 usc_section: "360hh"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 360hh"
-generated_at: "2026-03-30T04:00:10.484Z"
+generated_at: "2026-03-30T04:03:37.682Z"
 status: "active"
 ---
 

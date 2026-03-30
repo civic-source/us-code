@@ -3,9 +3,9 @@ title: "Section 103 - National Highway System"
 usc_title: 23
 usc_section: "103"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "23 U.S.C. § 103"
-generated_at: "2026-03-30T04:00:06.844Z"
+generated_at: "2026-03-30T04:03:35.065Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** meet national defense requirements; and
     - **(C)** serve interstate and interregional travel and commerce.
   - **(2)** The National Highway System described in paragraph (1) consists of the following:
-    - **(A)** The National Highway System depicted on the map submitted by the Secretary of Transportation to Congress with the report entitled ‘Pulling Together: The National Highway System and its Connections to Major Intermodal Terminals’ and dated May 24, 1996 , and modifications approved by the Secretary before the date of enactment of the MAP–21.
+    - **(A)** The National Highway System depicted on the map submitted by the Secretary of Transportation to Congress with the report entitled “Pulling Together: The National Highway System and its Connections to Major Intermodal Terminals” and dated May 24, 1996 , and modifications approved by the Secretary before the date of enactment of the MAP–21.
     - **(B)** Other urban and rural principal arterial routes, and border crossings on those routes, that were not included on the National Highway System before the date of enactment of the MAP–21.
     - **(C)** Other connector highways (including toll facilities) that were not included in the National Highway System before the date of enactment of the MAP–21 but that provide motor vehicle access between arterial routes on the National Highway System and a major intermodal transportation facility.
     - **(D)** A strategic highway network that—

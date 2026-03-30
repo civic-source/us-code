@@ -3,9 +3,9 @@ title: "Section 344 - Establishment; maintenance"
 usc_title: 16
 usc_section: "344"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 344"
-generated_at: "2026-03-30T04:00:01.561Z"
+generated_at: "2026-03-30T04:03:31.351Z"
 status: "active"
 ---
 

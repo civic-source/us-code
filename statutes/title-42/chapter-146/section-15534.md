@@ -1,16 +1,13 @@
 ---
-title: "Section 15534 - Effective date; transition"
+title: "Section 15534 - Transferred"
 usc_title: 42
 usc_section: "15534"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15534"
-generated_at: "2026-03-30T04:01:27.874Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15534. Effective date; transition
+# § 15534. Transferred
 
-- **(a)** This subchapter and the amendments made by this subchapter shall take effect upon the appointment of all members of the Election Assistance Commission under section 15323 of this title .
-- **(b)** With the consent of the entity involved, the Election Assistance Commission is authorized to utilize the services of such officers, employees, and other personnel of the entities from which functions have been transferred to the Election Assistance Commission under this subchapter or the amendments made by this subchapter for such period of time as may reasonably be needed to facilitate the orderly transfer of such functions.
-- **(c)** During the period which begins on October 29, 2002 , and ends on the effective date described in subsection (a) of this section, the Office of Election Administration of the Federal Election Commission shall continue to have the authority to carry out any of the functions (including the development of voluntary standards for voting systems and procedures for the certification of voting systems) which it has the authority to carry out as of October 29, 2002 .

@@ -3,9 +3,9 @@ title: "Section 1610 - Implementation of provisions by Secretary of Agriculture;
 usc_title: 16
 usc_section: "1610"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 1610"
-generated_at: "2026-03-30T04:00:01.854Z"
+generated_at: "2026-03-30T04:03:31.590Z"
 status: "active"
 ---
 

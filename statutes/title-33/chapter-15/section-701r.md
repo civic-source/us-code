@@ -3,9 +3,9 @@ title: "Section 701r - Protection of highways, bridge approaches, public works, 
 usc_title: 33
 usc_section: "701r"
 chapter: 15
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "33 U.S.C. § 701r"
-generated_at: "2026-03-30T04:00:40.074Z"
+generated_at: "2026-03-30T04:03:57.473Z"
 status: "active"
 ---
 

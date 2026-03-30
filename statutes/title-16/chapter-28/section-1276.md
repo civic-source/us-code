@@ -3,9 +3,9 @@ title: "Section 1276 - Rivers constituting potential additions to national wild 
 usc_title: 16
 usc_section: "1276"
 chapter: 28
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 1276"
-generated_at: "2026-03-30T04:00:01.822Z"
+generated_at: "2026-03-30T04:03:31.564Z"
 status: "active"
 ---
 

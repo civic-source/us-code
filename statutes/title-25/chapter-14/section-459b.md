@@ -3,9 +3,9 @@ title: "Section 459b - Submarginal lands of United States held in trust for Stoc
 usc_title: 25
 usc_section: "459b"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 459b"
-generated_at: "2026-03-30T04:00:08.985Z"
+generated_at: "2026-03-30T04:03:36.510Z"
 status: "active"
 ---
 

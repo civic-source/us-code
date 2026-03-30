@@ -3,9 +3,9 @@ title: "Section 623 - Prohibition of age discrimination"
 usc_title: 29
 usc_section: "623"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 623"
-generated_at: "2026-03-30T04:00:22.378Z"
+generated_at: "2026-03-30T04:03:46.371Z"
 status: "active"
 ---
 

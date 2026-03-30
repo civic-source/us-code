@@ -3,9 +3,9 @@ title: "Section 8754 - Medal of honor: duplicate medal"
 usc_title: 10
 usc_section: "8754"
 chapter: 857
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 8754"
-generated_at: "2026-03-30T03:59:31.732Z"
+generated_at: "2026-03-30T04:02:49.766Z"
 status: "active"
 ---
 

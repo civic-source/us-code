@@ -1,17 +1,13 @@
 ---
-title: "Section 437 - Reports on convention financing"
+title: "Section 437 - Transferred"
 usc_title: 2
 usc_section: "437"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 437"
-generated_at: "2026-03-30T03:59:14.034Z"
-status: "active"
+generated_at: "2026-03-30T04:02:32.874Z"
+status: "transferred"
 ---
 
-# § 437. Reports on convention financing
+# § 437. Transferred
 
-Each committee or other organization which—
-
-  - **(1)** represents a State, or a political subdivision thereof, or any group of persons, in dealing with officials of a national political party with respect to matters involving a convention held in such State or political subdivision to nominate a candidate for the office of President or Vice President, or
-  - **(2)** represents a national political party in making arrangements for the convention of such party held to nominate a candidate for the office of President or Vice President,

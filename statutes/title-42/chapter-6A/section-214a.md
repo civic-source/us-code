@@ -3,9 +3,9 @@ title: "Section 214a - Repealed. Sept. 1, 1954, ch. 1211, § 5 , 68 Stat. 1130"
 usc_title: 42
 usc_section: "214a"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 214a"
-generated_at: "2026-03-30T04:01:26.790Z"
+generated_at: "2026-03-30T04:04:27.114Z"
 status: "repealed"
 ---
 

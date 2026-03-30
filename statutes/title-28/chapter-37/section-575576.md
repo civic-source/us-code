@@ -3,9 +3,9 @@ title: "Section 575576 - Renumbered §§ 568, 569]"
 usc_title: 28
 usc_section: "575576"
 chapter: 37
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "28 U.S.C. § 575576"
-generated_at: "2026-03-30T04:00:20.961Z"
+generated_at: "2026-03-30T04:03:44.912Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 436 - Transfer of Army Remount Service to Department of Agricult
 usc_title: 7
 usc_section: "436"
 chapter: 17
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 436"
-generated_at: "2026-03-30T03:59:22.190Z"
+generated_at: "2026-03-30T04:02:40.246Z"
 status: "active"
 ---
 

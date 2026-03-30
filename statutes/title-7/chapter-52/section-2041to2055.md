@@ -3,9 +3,9 @@ title: "Section 2041to2055 - Repealed. Pub. L. 97–470, title V, § 523 , Jan. 
 usc_title: 7
 usc_section: "2041to2055"
 chapter: 52
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 2041to2055"
-generated_at: "2026-03-30T03:59:22.317Z"
+generated_at: "2026-03-30T04:02:40.357Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2420 - Regulations"
 usc_title: 10
 usc_section: "2420"
 chapter: 142
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2420"
-generated_at: "2026-03-30T03:59:31.639Z"
+generated_at: "2026-03-30T04:02:49.698Z"
 status: "active"
 ---
 

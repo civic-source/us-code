@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-30T03:59:45.821Z"
+generated_at: "2026-03-30T04:03:12.634Z"
 status: "active"
 ---
 
@@ -74,7 +74,7 @@ status: "active"
     - **(D)** $1,093,000,000 for fiscal year 2007;
     - **(E)** $1,126,000,000 for fiscal year 2008;
     - **(F)** $1,159,000,000 for fiscal year 2009;
-    - **(G)** $1,194,000,000 for fiscal year 2010; and 2 2 So in original. The word “and” probably should not appear.
+    - **(G)** $1,194,000,000 for fiscal year 2010;
     - **(H)** $750,000,000 for fiscal year 2013; and
     - **(I)** for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
       - **(i)** the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds

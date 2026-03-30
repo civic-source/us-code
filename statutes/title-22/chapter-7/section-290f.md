@@ -3,9 +3,9 @@ title: "Section 290f - Inter-American Foundation"
 usc_title: 22
 usc_section: "290f"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 290f"
-generated_at: "2026-03-30T04:00:16.192Z"
+generated_at: "2026-03-30T04:03:40.418Z"
 status: "active"
 ---
 

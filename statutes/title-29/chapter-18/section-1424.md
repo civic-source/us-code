@@ -3,9 +3,9 @@ title: "Section 1424 - Overburden credit against minimum contribution requiremen
 usc_title: 29
 usc_section: "1424"
 chapter: 18
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 1424"
-generated_at: "2026-03-30T04:00:22.447Z"
+generated_at: "2026-03-30T04:03:46.437Z"
 status: "active"
 ---
 

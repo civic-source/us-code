@@ -3,9 +3,9 @@ title: "Section 7318 - Termination of Commission"
 usc_title: 7
 usc_section: "7318"
 chapter: 100
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 7318"
-generated_at: "2026-03-30T03:59:22.407Z"
+generated_at: "2026-03-30T04:02:40.435Z"
 status: "active"
 ---
 

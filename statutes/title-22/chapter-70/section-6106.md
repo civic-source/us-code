@@ -3,9 +3,9 @@ title: "Section 6106 - Definitions"
 usc_title: 22
 usc_section: "6106"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 6106"
-generated_at: "2026-03-30T04:00:16.367Z"
+generated_at: "2026-03-30T04:03:40.552Z"
 status: "active"
 ---
 

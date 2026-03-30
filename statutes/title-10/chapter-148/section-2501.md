@@ -3,9 +3,9 @@ title: "Section 2501 - National security strategy for national technology and in
 usc_title: 10
 usc_section: "2501"
 chapter: 148
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2501"
-generated_at: "2026-03-30T03:59:31.648Z"
+generated_at: "2026-03-30T04:02:49.704Z"
 status: "active"
 ---
 

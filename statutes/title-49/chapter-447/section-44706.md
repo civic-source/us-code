@@ -3,9 +3,9 @@ title: "Section 44706 - Airport operating certificates"
 usc_title: 49
 usc_section: "44706"
 chapter: 447
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "49 U.S.C. § 44706"
-generated_at: "2026-03-30T04:01:43.303Z"
+generated_at: "2026-03-30T04:04:36.360Z"
 status: "active"
 ---
 

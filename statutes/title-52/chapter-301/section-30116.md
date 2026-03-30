@@ -3,9 +3,10 @@ title: "Section 30116 - Limitations on contributions and expenditures"
 usc_title: 52
 usc_section: "30116"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 113-163"
 classification: "52 U.S.C. § 30116"
-generated_at: "2026-03-30T02:56:30.171Z"
+generated_at: "2026-03-30T04:04:43.386Z"
+status: "active"
 ---
 
 # § 30116. Limitations on contributions and expenditures
@@ -13,12 +14,12 @@ generated_at: "2026-03-30T02:56:30.171Z"
 - **(a)**
   - **(1)** Except as provided in subsection (i) and section 30117 of this title , no person shall make contributions—
     - **(A)** to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $2,000;
-    - **(B)** to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year which, in the aggregate, exceed $25,000, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year;
+    - **(B)** to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year which, in the aggregate, exceed $25,000;
     - **(C)** to any other political committee (other than a committee described in subparagraph (D)) in any calendar year which, in the aggregate, exceed $5,000; or
     - **(D)** to a political committee established and maintained by a State committee of a political party in any calendar year which, in the aggregate, exceed $10,000.
   - **(2)** No multicandidate political committee shall make contributions—
     - **(A)** to any candidate and his authorized political committees with respect to any election for Federal office which, in the aggregate, exceed $5,000;
-    - **(B)** to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year, which, in the aggregate, exceed $15,000, or, in the case of contributions made to any of the accounts described in paragraph (9), exceed 300 percent of the amount otherwise applicable under this subparagraph with respect to such calendar year; or
+    - **(B)** to the political committees established and maintained by a national political party, which are not the authorized political committees of any candidate, in any calendar year, which, in the aggregate, exceed $15,000; or
     - **(C)** to any other political committee in any calendar year which, in the aggregate, exceed $5,000.
   - **(3)** During the period which begins on January 1 of an odd-numbered year and ends on December 31 of the next even-numbered year, no individual may make contributions aggregating more than—
     - **(A)** $37,500, in the case of contributions to candidates and the authorized committees of candidates;
@@ -37,10 +38,6 @@ generated_at: "2026-03-30T02:56:30.171Z"
       - **(ii)** such disbursement is coordinated with a candidate or an authorized committee of such candidate, a Federal, State, or local political party or committee thereof, or an agent or official of any such candidate, party, or committee;
     - **(D)** contributions made to or for the benefit of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
   - **(8)** For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
-  - **(9)** An account described in this paragraph is any of the following accounts:
-    - **(A)** A separate, segregated account of a national committee of a political party (other than a national congressional campaign committee of a political party) which is used solely to defray expenses incurred with respect to a presidential nominating convention (including the payment of deposits) or to repay loans the proceeds of which were used to defray such expenses, or otherwise to restore funds used to defray such expenses, except that the aggregate amount of expenditures the national committee of a political party may make from such account may not exceed $20,000,000 with respect to any single convention.
-    - **(B)** A separate, segregated account of a national committee of a political party (including a national congressional campaign committee of a political party) which is used solely to defray expenses incurred with respect to the construction, purchase, renovation, operation, and furnishing of one or more headquarters buildings of the party or to repay loans the proceeds of which were used to defray such expenses, or otherwise to restore funds used to defray such expenses (including expenses for obligations incurred during the 2-year period which ends on December 16, 2014 ).
-    - **(C)** A separate, segregated account of a national committee of a political party (including a national congressional campaign committee of a political party) which is used to defray expenses incurred with respect to the preparation for and the conduct of election recounts and contests and other legal proceedings.
 - **(b)**
   - **(1)** No candidate for the office of President of the United States who is eligible under section 9003 of title 26 (relating to condition for eligibility for payments) or under section 9033 of title 26 (relating to eligibility for payments) to receive payments from the Secretary of the Treasury may make expenditures in excess of—
     - **(A)** $10,000,000, in the case of a campaign for nomination for election to such office, except the aggregate of expenditures under this subparagraph in any one State shall not exceed the greater of 16 cents multiplied by the voting age population of the State (as certified under subsection (e)), or $200,000; or
@@ -77,7 +74,6 @@ generated_at: "2026-03-30T02:56:30.171Z"
       - **(ii)** any independent expenditure (as defined in section 30101(17) of this title ) with respect to the candidate during the election cycle at any time after it makes any coordinated expenditure under this subsection with respect to the candidate during the election cycle.
     - **(B)** For purposes of this paragraph, all political committees established and maintained by a national political party (including all congressional campaign committees) and all political committees established and maintained by a State political party (including any subordinate committee of a State committee) shall be considered to be a single political committee.
     - **(C)** A committee of a political party that makes coordinated expenditures under this subsection with respect to a candidate shall not, during an election cycle, transfer any funds to, assign authority to make coordinated expenditures under this subsection to, or receive a transfer of funds from, a committee of the political party that has made or intends to make an independent expenditure with respect to the candidate.
-  - **(5)** The limitations contained in paragraphs (2), (3), and (4) of this subsection shall not apply to expenditures made from any of the accounts described in subsection (a)(9).
 - **(e)** During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of the voting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term “voting age population” means resident population, 18 years of age or older.
 - **(f)** No candidate or political committee shall knowingly accept any contribution or make any expenditure in violation of the provisions of this section. No officer or employee of a political committee shall knowingly accept a contribution made for the benefit or use of a candidate, or knowingly make any expenditure on behalf of a candidate, in violation of any limitation imposed on contributions and expenditures under this section.
 - **(g)** The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate’s expenditure limitation in each such State, based on the voting age population in such State which can reasonably be expected to be influenced by such expenditure.

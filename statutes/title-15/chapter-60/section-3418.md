@@ -3,9 +3,9 @@ title: "Section 3418 - Applicability of other Federal statutory provisions relat
 usc_title: 15
 usc_section: "3418"
 chapter: 60
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 3418"
-generated_at: "2026-03-30T03:59:45.872Z"
+generated_at: "2026-03-30T04:03:12.661Z"
 status: "active"
 ---
 

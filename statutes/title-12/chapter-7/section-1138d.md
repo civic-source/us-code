@@ -3,9 +3,9 @@ title: "Section 1138d - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 ,
 usc_title: 12
 usc_section: "1138d"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 1138d"
-generated_at: "2026-03-30T03:59:41.725Z"
+generated_at: "2026-03-30T04:03:08.968Z"
 status: "repealed"
 ---
 

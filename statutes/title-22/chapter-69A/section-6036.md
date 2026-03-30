@@ -3,9 +3,9 @@ title: "Section 6036 - Assistance by independent states of former Soviet Union f
 usc_title: 22
 usc_section: "6036"
 chapter: 69
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 6036"
-generated_at: "2026-03-30T04:00:16.364Z"
+generated_at: "2026-03-30T04:03:40.550Z"
 status: "active"
 ---
 

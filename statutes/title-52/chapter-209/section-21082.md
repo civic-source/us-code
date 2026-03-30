@@ -3,9 +3,10 @@ title: "Section 21082 - Provisional voting and voting information requirements"
 usc_title: 52
 usc_section: "21082"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 113-163"
 classification: "52 U.S.C. § 21082"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-03-30T04:04:43.380Z"
+status: "active"
 ---
 
 # § 21082. Provisional voting and voting information requirements

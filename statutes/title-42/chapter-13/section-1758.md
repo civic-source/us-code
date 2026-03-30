@@ -3,9 +3,9 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-30T04:01:27.325Z"
+generated_at: "2026-03-30T04:04:27.589Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 491 - Benefits for certain members assigned to the Defense Intel
 usc_title: 37
 usc_section: "491"
 chapter: 8
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "37 U.S.C. § 491"
-generated_at: "2026-03-30T04:00:43.252Z"
+generated_at: "2026-03-30T04:04:03.927Z"
 status: "active"
 ---
 

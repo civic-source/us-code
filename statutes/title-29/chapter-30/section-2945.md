@@ -3,9 +3,9 @@ title: "Section 2945 - General program requirements"
 usc_title: 29
 usc_section: "2945"
 chapter: 30
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 2945"
-generated_at: "2026-03-30T04:00:22.474Z"
+generated_at: "2026-03-30T04:03:46.463Z"
 status: "active"
 ---
 

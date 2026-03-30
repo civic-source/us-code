@@ -3,9 +3,9 @@ title: "Section 2566 - Disposition of weapons-usable plutonium at Savannah River
 usc_title: 50
 usc_section: "2566"
 chapter: 42
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "50 U.S.C. § 2566"
-generated_at: "2026-03-30T04:02:01.580Z"
+generated_at: "2026-03-30T04:04:33.881Z"
 status: "active"
 ---
 

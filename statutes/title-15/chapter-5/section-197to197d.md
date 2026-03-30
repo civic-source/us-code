@@ -3,9 +3,9 @@ title: "Section 197to197d - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131
 usc_title: 15
 usc_section: "197to197d"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 197to197d"
-generated_at: "2026-03-30T03:59:45.560Z"
+generated_at: "2026-03-30T04:03:12.499Z"
 status: "repealed"
 ---
 

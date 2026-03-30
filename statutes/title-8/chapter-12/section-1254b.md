@@ -3,9 +3,9 @@ title: "Section 1254b - Collection of fees under temporary protected status prog
 usc_title: 8
 usc_section: "1254b"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "8 U.S.C. § 1254b"
-generated_at: "2026-03-30T03:59:17.511Z"
+generated_at: "2026-03-30T04:02:36.420Z"
 status: "active"
 ---
 

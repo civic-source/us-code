@@ -3,9 +3,9 @@ title: "Section 3209 - Effect on prior withdrawals"
 usc_title: 16
 usc_section: "3209"
 chapter: 51
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 3209"
-generated_at: "2026-03-30T04:00:01.900Z"
+generated_at: "2026-03-30T04:03:31.626Z"
 status: "active"
 ---
 

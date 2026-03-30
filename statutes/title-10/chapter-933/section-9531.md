@@ -3,9 +3,9 @@ title: "Section 9531 - Repealed. Pub. L. 103–160, div. A, title VIII, § 823(2
 usc_title: 10
 usc_section: "9531"
 chapter: 933
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 9531"
-generated_at: "2026-03-30T03:59:31.739Z"
+generated_at: "2026-03-30T04:02:49.772Z"
 status: "repealed"
 ---
 

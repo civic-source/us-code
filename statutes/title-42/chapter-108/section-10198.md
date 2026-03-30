@@ -3,9 +3,9 @@ title: "Section 10198 - Research and development on spent nuclear fuel"
 usc_title: 42
 usc_section: "10198"
 chapter: 108
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 10198"
-generated_at: "2026-03-30T04:01:27.731Z"
+generated_at: "2026-03-30T04:04:27.962Z"
 status: "active"
 ---
 

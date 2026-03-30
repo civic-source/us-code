@@ -3,9 +3,9 @@ title: "Section 6053to6053e - Repealed. Pub. L. 107–279, title IV, § 403(2) ,
 usc_title: 20
 usc_section: "6053to6053e"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 6053to6053e"
-generated_at: "2026-03-30T03:59:57.107Z"
+generated_at: "2026-03-30T04:03:21.783Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 825l - Review of orders"
 usc_title: 16
 usc_section: "825l"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 825l"
-generated_at: "2026-03-30T04:00:01.778Z"
+generated_at: "2026-03-30T04:03:31.529Z"
 status: "active"
 ---
 

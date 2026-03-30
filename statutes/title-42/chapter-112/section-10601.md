@@ -3,9 +3,9 @@ title: "Section 10601 - Crime Victims Fund"
 usc_title: 42
 usc_section: "10601"
 chapter: 112
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 10601"
-generated_at: "2026-03-30T04:01:27.741Z"
+generated_at: "2026-03-30T04:04:27.970Z"
 status: "active"
 ---
 
@@ -36,7 +36,11 @@ status: "active"
     - **(B)**
       - **(i)** For any fiscal year for which the amount deposited in the Fund is greater than the amount deposited in the Fund for fiscal year 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title .
       - **(ii)** Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
-  - **(3)** Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.
+  - **(3)**
+    - **(A)** Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available only for—
+      - **(i)** the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in 3771 2 2 So in original. Probably should be preceded by “section”. of title 18 and section 10607 of this title ) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+      - **(ii)** a Victim Notification System.
+    - **(B)** Amounts made available under subparagraph (A) may not be used for any purpose that is not specified in clause (i) or (ii) of subparagraph (A).
   - **(4)** Of the remaining amount to be distributed from the Fund in a particular fiscal year—
     - **(A)** 47.5 percent shall be available for grants under section 10602 of this title ;
     - **(B)** 47.5 percent shall be available for grants under section 10603(a) of this title ; and
@@ -55,4 +59,4 @@ status: "active"
     - **(A)** the handling of child abuse cases, particularly cases of child sexual abuse, in a manner which limits additional trauma to the child victim; and
     - **(B)** the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
   - **(2)** The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
-  - **(3)** As used in this subsection, the term “tribe” 2 2 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 3 3 See References in Text note below. of title 25.
+  - **(3)** As used in this subsection, the term “tribe” 3 3 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 1 of title 25.

@@ -3,9 +3,9 @@ title: "Section 794 - Nondiscrimination under Federal grants and programs"
 usc_title: 29
 usc_section: "794"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 794"
-generated_at: "2026-03-30T04:00:22.396Z"
+generated_at: "2026-03-30T04:03:46.388Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
   - **(2)**
     - **(A)** a college, university, or other postsecondary institution, or a public system of higher education; or
-    - **(B)** a local educational agency (as defined in section 7801 of title 20 ), system of vocational education, or other school system;
+    - **(B)** a local educational agency (as defined in section 7801 of title 20 ), system of career and technical education, or other school system;
   - **(3)**
     - **(A)** an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
       - **(i)** if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or

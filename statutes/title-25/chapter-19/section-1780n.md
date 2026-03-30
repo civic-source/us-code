@@ -3,9 +3,9 @@ title: "Section 1780n - Effective date"
 usc_title: 25
 usc_section: "1780n"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 1780n"
-generated_at: "2026-03-30T04:00:09.086Z"
+generated_at: "2026-03-30T04:03:36.583Z"
 status: "active"
 ---
 

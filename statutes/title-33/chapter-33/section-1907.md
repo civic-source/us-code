@@ -3,9 +3,9 @@ title: "Section 1907 - Violations"
 usc_title: 33
 usc_section: "1907"
 chapter: 33
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "33 U.S.C. § 1907"
-generated_at: "2026-03-30T04:00:40.131Z"
+generated_at: "2026-03-30T04:03:57.525Z"
 status: "active"
 ---
 

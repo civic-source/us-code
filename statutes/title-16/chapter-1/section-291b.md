@@ -3,9 +3,9 @@ title: "Section 291b - Administration, protection, development, and maintenance"
 usc_title: 16
 usc_section: "291b"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 291b"
-generated_at: "2026-03-30T04:00:01.560Z"
+generated_at: "2026-03-30T04:03:31.351Z"
 status: "active"
 ---
 

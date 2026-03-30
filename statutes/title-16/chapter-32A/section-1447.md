@@ -3,9 +3,9 @@ title: "Section 1447 - Purposes"
 usc_title: 16
 usc_section: "1447"
 chapter: 32
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 1447"
-generated_at: "2026-03-30T04:00:01.842Z"
+generated_at: "2026-03-30T04:03:31.580Z"
 status: "active"
 ---
 

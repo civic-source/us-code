@@ -3,9 +3,9 @@ title: "Section 16984 - Grants for fingerprinting programs for children"
 usc_title: 42
 usc_section: "16984"
 chapter: 151
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 16984"
-generated_at: "2026-03-30T04:01:27.909Z"
+generated_at: "2026-03-30T04:04:28.121Z"
 status: "active"
 ---
 

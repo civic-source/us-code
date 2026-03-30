@@ -3,9 +3,9 @@ title: "Section 145146 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 
 usc_title: 12
 usc_section: "145146"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 145146"
-generated_at: "2026-03-30T03:59:41.698Z"
+generated_at: "2026-03-30T04:03:08.945Z"
 status: "repealed"
 ---
 

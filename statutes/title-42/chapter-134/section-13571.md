@@ -3,9 +3,9 @@ title: "Section 13571 - Purposes"
 usc_title: 42
 usc_section: "13571"
 chapter: 134
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 13571"
-generated_at: "2026-03-30T04:01:27.828Z"
+generated_at: "2026-03-30T04:04:28.050Z"
 status: "active"
 ---
 

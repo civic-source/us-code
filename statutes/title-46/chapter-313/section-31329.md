@@ -3,9 +3,9 @@ title: "Section 31329 - Court sales of documented vessels"
 usc_title: 46
 usc_section: "31329"
 chapter: 313
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "46 U.S.C. § 31329"
-generated_at: "2026-03-30T04:01:51.343Z"
+generated_at: "2026-03-30T04:04:32.423Z"
 status: "active"
 ---
 

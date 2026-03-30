@@ -3,9 +3,9 @@ title: "Section 1161 - Payment of disability compensation in disability severanc
 usc_title: 38
 usc_section: "1161"
 chapter: 11
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 1161"
-generated_at: "2026-03-30T04:00:45.109Z"
+generated_at: "2026-03-30T04:04:07.646Z"
 status: "active"
 ---
 

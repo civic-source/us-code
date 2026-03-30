@@ -3,9 +3,9 @@ title: "Section 5957 - “Appropriate congressional committees” defined"
 usc_title: 22
 usc_section: "5957"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 5957"
-generated_at: "2026-03-30T04:00:16.361Z"
+generated_at: "2026-03-30T04:03:40.547Z"
 status: "active"
 ---
 

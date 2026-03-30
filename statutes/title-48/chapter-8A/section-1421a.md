@@ -3,9 +3,9 @@ title: "Section 1421a - Unincorporated territory; capital; powers of government;
 usc_title: 48
 usc_section: "1421a"
 chapter: 8
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "48 U.S.C. § 1421a"
-generated_at: "2026-03-30T04:01:36.637Z"
+generated_at: "2026-03-30T04:04:31.404Z"
 status: "active"
 ---
 

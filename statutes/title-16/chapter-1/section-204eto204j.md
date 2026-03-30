@@ -3,9 +3,9 @@ title: "Section 204eto204j - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 
 usc_title: 16
 usc_section: "204eto204j"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 204eto204j"
-generated_at: "2026-03-30T04:00:01.551Z"
+generated_at: "2026-03-30T04:03:31.343Z"
 status: "repealed"
 ---
 

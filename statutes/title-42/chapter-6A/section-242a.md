@@ -3,9 +3,9 @@ title: "Section 242a - Repealed. Pub. L. 106–310, div. B, title XXXII, § 3201
 usc_title: 42
 usc_section: "242a"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 242a"
-generated_at: "2026-03-30T04:01:26.797Z"
+generated_at: "2026-03-30T04:04:27.121Z"
 status: "repealed"
 ---
 

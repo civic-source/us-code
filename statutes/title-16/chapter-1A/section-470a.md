@@ -3,9 +3,9 @@ title: "Section 470a - Historic preservation program"
 usc_title: 16
 usc_section: "470a"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 470a"
-generated_at: "2026-03-30T04:00:01.688Z"
+generated_at: "2026-03-30T04:03:31.457Z"
 status: "active"
 ---
 

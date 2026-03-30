@@ -3,9 +3,9 @@ title: "Section 6570 - Opening bids for stationery; awarding contracts"
 usc_title: 2
 usc_section: "6570"
 chapter: 65
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 6570"
-generated_at: "2026-03-30T03:59:14.094Z"
+generated_at: "2026-03-30T04:02:32.925Z"
 status: "active"
 ---
 

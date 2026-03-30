@@ -3,9 +3,9 @@ title: "Section 5251 - Information for congressional support agencies"
 usc_title: 12
 usc_section: "5251"
 chapter: 52
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 5251"
-generated_at: "2026-03-30T03:59:41.981Z"
+generated_at: "2026-03-30T04:03:09.168Z"
 status: "active"
 ---
 

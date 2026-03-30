@@ -3,9 +3,9 @@ title: "Section 152601 - Organization"
 usc_title: 36
 usc_section: "152601"
 chapter: 1526
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "36 U.S.C. § 152601"
-generated_at: "2026-03-30T04:00:50.930Z"
+generated_at: "2026-03-30T04:04:04.872Z"
 status: "active"
 ---
 

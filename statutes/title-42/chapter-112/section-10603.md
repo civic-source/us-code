@@ -3,9 +3,9 @@ title: "Section 10603 - Crime victim assistance"
 usc_title: 42
 usc_section: "10603"
 chapter: 112
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 10603"
-generated_at: "2026-03-30T04:01:27.741Z"
+generated_at: "2026-03-30T04:04:27.970Z"
 status: "active"
 ---
 

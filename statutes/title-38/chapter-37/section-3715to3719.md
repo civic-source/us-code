@@ -3,9 +3,9 @@ title: "Section 3715to3719 - Vacant]"
 usc_title: 38
 usc_section: "3715to3719"
 chapter: 37
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 3715to3719"
-generated_at: "2026-03-30T04:00:45.154Z"
+generated_at: "2026-03-30T04:04:07.688Z"
 status: "active"
 ---
 

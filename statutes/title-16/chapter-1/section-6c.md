@@ -3,9 +3,9 @@ title: "Section 6c - Admission, entrance, and recreation fees"
 usc_title: 16
 usc_section: "6c"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 6c"
-generated_at: "2026-03-30T04:00:01.634Z"
+generated_at: "2026-03-30T04:03:31.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19h - Property and income dealings and transactions; prohibition
 usc_title: 16
 usc_section: "19h"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 19h"
-generated_at: "2026-03-30T04:00:01.530Z"
+generated_at: "2026-03-30T04:03:31.325Z"
 status: "active"
 ---
 

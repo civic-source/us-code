@@ -3,9 +3,9 @@ title: "Section 2559 - Provision of medical care to foreign military and diploma
 usc_title: 10
 usc_section: "2559"
 chapter: 152
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2559"
-generated_at: "2026-03-30T03:59:31.654Z"
+generated_at: "2026-03-30T04:02:49.709Z"
 status: "active"
 ---
 

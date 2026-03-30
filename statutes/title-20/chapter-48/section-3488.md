@@ -3,9 +3,9 @@ title: "Section 3488 - Authorization of appropriations"
 usc_title: 20
 usc_section: "3488"
 chapter: 48
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 3488"
-generated_at: "2026-03-30T03:59:57.087Z"
+generated_at: "2026-03-30T04:03:21.765Z"
 status: "active"
 ---
 

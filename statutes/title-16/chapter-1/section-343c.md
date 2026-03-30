@@ -3,9 +3,9 @@ title: "Section 343c - Exchange of lands; Jackson Memorial Laboratory"
 usc_title: 16
 usc_section: "343c"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 343c"
-generated_at: "2026-03-30T04:00:01.560Z"
+generated_at: "2026-03-30T04:03:31.351Z"
 status: "active"
 ---
 

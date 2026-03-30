@@ -3,9 +3,9 @@ title: "Section 55601 - Short sea transportation program"
 usc_title: 46
 usc_section: "55601"
 chapter: 556
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "46 U.S.C. § 55601"
-generated_at: "2026-03-30T04:01:51.363Z"
+generated_at: "2026-03-30T04:04:32.438Z"
 status: "active"
 ---
 

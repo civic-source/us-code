@@ -3,9 +3,9 @@ title: "Section 282a - Governor, executive director, and alternates of Corporati
 usc_title: 22
 usc_section: "282a"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 282a"
-generated_at: "2026-03-30T04:00:16.178Z"
+generated_at: "2026-03-30T04:03:40.407Z"
 status: "active"
 ---
 

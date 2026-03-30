@@ -3,9 +3,9 @@ title: "Section 1395iii - Transitional Fund for Sustainable Growth Rate (SGR) Re
 usc_title: 42
 usc_section: "1395iii"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1395iii"
-generated_at: "2026-03-30T04:01:27.226Z"
+generated_at: "2026-03-30T04:04:27.497Z"
 status: "active"
 ---
 

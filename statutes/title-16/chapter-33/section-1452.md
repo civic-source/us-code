@@ -3,9 +3,9 @@ title: "Section 1452 - Congressional declaration of policy"
 usc_title: 16
 usc_section: "1452"
 chapter: 33
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 1452"
-generated_at: "2026-03-30T04:00:01.843Z"
+generated_at: "2026-03-30T04:03:31.581Z"
 status: "active"
 ---
 

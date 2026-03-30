@@ -3,9 +3,9 @@ title: "Section 3519 - Access to information"
 usc_title: 44
 usc_section: "3519"
 chapter: 35
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "44 U.S.C. § 3519"
-generated_at: "2026-03-30T04:00:53.217Z"
+generated_at: "2026-03-30T04:04:09.564Z"
 status: "active"
 ---
 

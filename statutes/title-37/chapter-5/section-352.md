@@ -3,9 +3,9 @@ title: "Section 352 - Assignment pay or special duty pay"
 usc_title: 37
 usc_section: "352"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "37 U.S.C. § 352"
-generated_at: "2026-03-30T04:00:43.242Z"
+generated_at: "2026-03-30T04:04:03.918Z"
 status: "active"
 ---
 
@@ -32,4 +32,4 @@ status: "active"
 - **(d)** A member of a reserve component entitled to compensation under section 206 of this title who is authorized assignment or special duty pay under this section may be paid an amount of assignment or special duty pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
 - **(e)** Assignment or special duty pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 - **(f)** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of section 373 of this title .
-- **(g)** No agreement may be entered into under this section after December 31, 2013 .
+- **(g)** No agreement may be entered into under this section after December 31, 2014 .

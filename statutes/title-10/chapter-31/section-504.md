@@ -3,9 +3,9 @@ title: "Section 504 - Persons not qualified"
 usc_title: 10
 usc_section: "504"
 chapter: 31
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 504"
-generated_at: "2026-03-30T03:59:31.496Z"
+generated_at: "2026-03-30T04:02:49.591Z"
 status: "active"
 ---
 

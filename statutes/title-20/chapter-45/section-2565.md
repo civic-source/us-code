@@ -3,9 +3,9 @@ title: "Section 2565 - Wayne Morse Chair of Law and Politics"
 usc_title: 20
 usc_section: "2565"
 chapter: 45
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 2565"
-generated_at: "2026-03-30T03:59:57.083Z"
+generated_at: "2026-03-30T04:03:21.761Z"
 status: "active"
 ---
 

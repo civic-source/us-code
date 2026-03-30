@@ -3,9 +3,9 @@ title: "Section 479a - Definitions"
 usc_title: 25
 usc_section: "479a"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 479a"
-generated_at: "2026-03-30T04:00:08.988Z"
+generated_at: "2026-03-30T04:03:36.512Z"
 status: "active"
 ---
 

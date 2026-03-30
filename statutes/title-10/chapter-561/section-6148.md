@@ -3,9 +3,9 @@ title: "Section 6148 - Repealed. Pub. L. 99–661, div. A, title VI, § 604(f)(1
 usc_title: 10
 usc_section: "6148"
 chapter: 561
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 6148"
-generated_at: "2026-03-30T03:59:31.707Z"
+generated_at: "2026-03-30T04:02:49.748Z"
 status: "repealed"
 ---
 

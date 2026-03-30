@@ -3,9 +3,9 @@ title: "Section 3318 - Penalties"
 usc_title: 46
 usc_section: "3318"
 chapter: 33
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "46 U.S.C. § 3318"
-generated_at: "2026-03-30T04:01:51.314Z"
+generated_at: "2026-03-30T04:04:32.401Z"
 status: "active"
 ---
 

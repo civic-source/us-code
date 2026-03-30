@@ -3,9 +3,9 @@ title: "Section 1034 - Repealed. Pub. L. 105–34, title III, § 312(b) , Aug. 5
 usc_title: 26
 usc_section: "1034"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 1034"
-generated_at: "2026-03-30T04:00:34.788Z"
+generated_at: "2026-03-30T04:03:53.270Z"
 status: "repealed"
 ---
 

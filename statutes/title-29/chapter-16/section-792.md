@@ -3,9 +3,9 @@ title: "Section 792 - Architectural and Transportation Barriers Compliance Board
 usc_title: 29
 usc_section: "792"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 792"
-generated_at: "2026-03-30T04:00:22.396Z"
+generated_at: "2026-03-30T04:03:46.387Z"
 status: "active"
 ---
 
@@ -86,4 +86,4 @@ status: "active"
     - **(A)** The Access Board may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding and facilitating the functions of the Access Board under paragraphs (2) and (4) of subsection (b) of this section. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Chairperson. 2 Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests. For purposes of Federal income, estate, or gift taxes, property accepted under this section shall be considered as a gift, devise, or bequest to the United States.
     - **(B)** The Access Board shall publish regulations setting forth the criteria the Board will use in determining whether the acceptance of gifts, devises, and bequests of property, both real and personal, would reflect unfavorably upon the ability of the Board or any employee to carry out the responsibilities or official duties of the Board in a fair and objective manner, or would compromise the integrity of or the appearance of the integrity of a Government program or any official involved in that program.
   - **(3)** Omitted.
-- **(j)** There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+- **(j)** There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section $7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.

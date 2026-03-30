@@ -3,9 +3,9 @@ title: "Section 10309 - Engaging seamen to replace those lost by desertion or ca
 usc_title: 46
 usc_section: "10309"
 chapter: 103
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "46 U.S.C. § 10309"
-generated_at: "2026-03-30T04:01:51.329Z"
+generated_at: "2026-03-30T04:04:32.412Z"
 status: "active"
 ---
 

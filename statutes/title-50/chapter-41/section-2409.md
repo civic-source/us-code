@@ -3,9 +3,9 @@ title: "Section 2409 - Scope of authority of Secretary of Energy to modify organ
 usc_title: 50
 usc_section: "2409"
 chapter: 41
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "50 U.S.C. § 2409"
-generated_at: "2026-03-30T04:02:01.576Z"
+generated_at: "2026-03-30T04:04:33.876Z"
 status: "active"
 ---
 

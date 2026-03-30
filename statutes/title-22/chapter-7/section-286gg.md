@@ -3,9 +3,9 @@ title: "Section 286gg - Elimination of trade restrictions"
 usc_title: 22
 usc_section: "286gg"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 286gg"
-generated_at: "2026-03-30T04:00:16.187Z"
+generated_at: "2026-03-30T04:03:40.414Z"
 status: "active"
 ---
 

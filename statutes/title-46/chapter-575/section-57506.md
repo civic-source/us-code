@@ -3,9 +3,9 @@ title: "Section 57506 - Minimum selling price of vessels"
 usc_title: 46
 usc_section: "57506"
 chapter: 575
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "46 U.S.C. § 57506"
-generated_at: "2026-03-30T04:01:51.366Z"
+generated_at: "2026-03-30T04:04:32.440Z"
 status: "active"
 ---
 

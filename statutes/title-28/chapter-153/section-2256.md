@@ -3,9 +3,9 @@ title: "Section 2256 - Omitted]"
 usc_title: 28
 usc_section: "2256"
 chapter: 153
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "28 U.S.C. § 2256"
-generated_at: "2026-03-30T04:00:20.985Z"
+generated_at: "2026-03-30T04:03:44.934Z"
 status: "omitted"
 ---
 

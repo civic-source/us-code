@@ -3,9 +3,9 @@ title: "Section 691 - Environmental Compliance and Restoration Program"
 usc_title: 14
 usc_section: "691"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "14 U.S.C. § 691"
-generated_at: "2026-03-30T03:59:35.789Z"
+generated_at: "2026-03-30T04:02:52.180Z"
 status: "active"
 ---
 

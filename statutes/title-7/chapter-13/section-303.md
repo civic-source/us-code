@@ -3,9 +3,9 @@ title: "Section 303 - Management expenses paid by State"
 usc_title: 7
 usc_section: "303"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 303"
-generated_at: "2026-03-30T03:59:22.183Z"
+generated_at: "2026-03-30T04:02:40.242Z"
 status: "active"
 ---
 

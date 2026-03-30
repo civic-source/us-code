@@ -3,9 +3,9 @@ title: "Section 6511 - Abolition of United States Arms Control and Disarmament A
 usc_title: 22
 usc_section: "6511"
 chapter: 74
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 6511"
-generated_at: "2026-03-30T04:00:16.375Z"
+generated_at: "2026-03-30T04:03:40.559Z"
 status: "active"
 ---
 

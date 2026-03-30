@@ -3,9 +3,9 @@ title: "Section 1772b - Findings by Secretary"
 usc_title: 25
 usc_section: "1772b"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 1772b"
-generated_at: "2026-03-30T04:00:09.076Z"
+generated_at: "2026-03-30T04:03:36.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4584 - Enforcement and jurisdiction"
 usc_title: 12
 usc_section: "4584"
 chapter: 46
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 4584"
-generated_at: "2026-03-30T03:59:41.951Z"
+generated_at: "2026-03-30T04:03:09.145Z"
 status: "active"
 ---
 

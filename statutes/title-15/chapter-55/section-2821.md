@@ -3,9 +3,9 @@ title: "Section 2821 - Definitions"
 usc_title: 15
 usc_section: "2821"
 chapter: 55
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 2821"
-generated_at: "2026-03-30T03:59:45.858Z"
+generated_at: "2026-03-30T04:03:12.653Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ As used in this subchapter:
     - **(A)** between any State and any place outside of such State; or
     - **(B)** which affects any trade, transportation, exchange, or other commerce described in subparagraph (A).
   - **(14)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
-  - **(15)** the term “person”, for purposes of applying any provision of the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] with respect to any provision of the subchapter, includes a partnership and a corporation.
+  - **(15)** the 1 1 So in original. Probably should be capitalized. term “person”, for purposes of applying any provision of the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] with respect to any provision of the subchapter, includes a partnership and a corporation.
   - **(16)** The term “distributor” means any person who receives automotive fuel and distributes such automotive fuel to another person other than the ultimate purchaser.
   - **(17)** The term “automotive fuel rating” means—
     - **(A)** the octane rating of an automotive spark-ignition engine fuel; and

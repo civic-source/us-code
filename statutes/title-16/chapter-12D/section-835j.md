@@ -3,9 +3,9 @@ title: "Section 835j - Projects marketing commercial power and energy; consolida
 usc_title: 16
 usc_section: "835j"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 835j"
-generated_at: "2026-03-30T04:00:01.787Z"
+generated_at: "2026-03-30T04:03:31.537Z"
 status: "active"
 ---
 

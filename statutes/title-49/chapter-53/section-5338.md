@@ -3,38 +3,38 @@ title: "Section 5338 - Authorizations"
 usc_title: 49
 usc_section: "5338"
 chapter: 53
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "49 U.S.C. § 5338"
-generated_at: "2026-03-30T04:01:43.221Z"
+generated_at: "2026-03-30T04:04:36.295Z"
 status: "active"
 ---
 
 # § 5338. Authorizations
 
 - **(a)**
-  - **(1)** There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013 and $8,595,000,000 for fiscal year 2014.
+  - **(1)** There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013, $8,595,000,000 for fiscal year 2014, and $5,722,150,685 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
   - **(2)** Of the amounts made available under paragraph (1)—
-    - **(A)** $126,900,000 for fiscal year 2013 and $128,800,000 for fiscal year 2014 shall be available to carry out section 5305;
-    - **(B)** $10,000,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
-    - **(C)** $4,397,950,000 for fiscal year 2013 and $4,458,650,000 for fiscal year 2014 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
-    - **(D)** $254,800,000 for fiscal year 2013 and $258,300,000 for fiscal year 2014 shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
-    - **(E)** $599,500,000 for fiscal year 2013 and $607,800,000 for fiscal year 2014 shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013 and $30,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013 and $20,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(2);
-    - **(F)** $3,000,000 for each of fiscal years 2013 and 2014 shall be available for bus testing under section 5318;
-    - **(G)** $5,000,000 for each of fiscal years 2013 and 2014 shall be available for the national transit institute under section 5322(d);
-    - **(H)** $3,850,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 5335;
-    - **(I)** $2,136,300,000 for fiscal year 2013 and $2,165,900,000 for fiscal year 2014 shall be available to carry out section 5337;
-    - **(J)** $422,000,000 for fiscal year 2013 and $427,800,000 for fiscal year 2014 shall be available for the bus and bus facilities program under section 5339; and
-    - **(K)** $518,700,000 for fiscal year 2013 and $525,900,000 for fiscal year 2014 shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
-- **(b)** There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013 and $70,000,000 for fiscal year 2014.
-- **(c)** There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
-- **(d)** There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
-- **(e)** There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013 and $5,000,000 for fiscal year 2014.
+    - **(A)** $126,900,000 for fiscal year 2013, $128,800,000 for fiscal year 2014, and $85,749,041 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5305;
+    - **(B)** $10,000,000 for each of fiscal years 2013 and 2014 and $6,657,534 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
+    - **(C)** $4,397,950,000 for fiscal year 2013, $4,458,650,000 for fiscal year 2014, and $2,968,361,507 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
+    - **(D)** $254,800,000 for fiscal year 2013, $258,300,000 for fiscal year 2014, and $171,964,110 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
+    - **(E)** $599,500,000 for fiscal year 2013, $607,800,000 for fiscal year 2014, and $404,644,932 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013, $30,000,000 for fiscal year 2014, and $19,972,603 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013, $20,000,000 for fiscal year 2014, and $13,315,068 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5311(c)(2);
+    - **(F)** $3,000,000 for each of fiscal years 2013 and 2014 and $1,997,260 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available for bus testing under section 5318;
+    - **(G)** $5,000,000 for each of fiscal years 2013 and 2014 and $3,328,767 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available for the national transit institute under section 5322(d);
+    - **(H)** $3,850,000 for each of fiscal years 2013 and 2014 and $2,563,151 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5335;
+    - **(I)** $2,136,300,000 for fiscal year 2013, $2,165,900,000 for fiscal year 2014, and $1,441,955,342 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5337;
+    - **(J)** $422,000,000 for fiscal year 2013, $427,800,000 for fiscal year 2014, and $284,809,315 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available for the bus and bus facilities program under section 5339; and
+    - **(K)** $518,700,000 for fiscal year 2013, $525,900,000 for fiscal year 2014, and $350,119,726 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
+- **(b)** There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013, $70,000,000 for fiscal year 2014, and $46,602,740 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
+- **(c)** There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
+- **(d)** There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
+- **(e)** There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013, $5,000,000 for fiscal year 2014, and $3,328,767 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out section 5324.
-- **(g)** There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013 and $1,907,000,000 for fiscal year 2014.
+- **(g)** There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013, $1,907,000,000 for fiscal year 2014, and $1,269,591,781 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
 - **(h)**
-  - **(1)** There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013 and $104,000,000 for fiscal year 2014.
-  - **(2)** Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 shall be available to carry out section 5329.
-  - **(3)** Of the amounts made available under paragraph (2), not less than $1,000,000 shall be available to carry out section 5326.
+  - **(1)** There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013, $104,000,000 for fiscal year 2014, and $69,238,356 for the period beginning on October 1, 2014 , and ending on May 31, 2015 .
+  - **(2)** Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 for each of fiscal years 2013 and 2014 and not less than $3,328,767 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5329.
+  - **(3)** Of the amounts made available under paragraph (2), not less than $1,000,000 for each of fiscal years 2013 and 2014 and not less than $665,753 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , shall be available to carry out section 5326.
 - **(i)**
   - **(1)** Of the amounts made available to carry out this chapter for a fiscal year, the Secretary may use not more than the following amounts for the activities described in paragraph (2):
     - **(A)** 0.5 percent of amounts made available to carry out section 5305.

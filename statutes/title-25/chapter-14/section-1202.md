@@ -3,9 +3,9 @@ title: "Section 1202 - Per capita shares; reversion to tribe; use of reverted fu
 usc_title: 25
 usc_section: "1202"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 1202"
-generated_at: "2026-03-30T04:00:09.027Z"
+generated_at: "2026-03-30T04:03:36.544Z"
 status: "active"
 ---
 

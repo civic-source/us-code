@@ -3,9 +3,9 @@ title: "Section 31144 - Safety fitness of owners and operators"
 usc_title: 49
 usc_section: "31144"
 chapter: 311
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "49 U.S.C. § 31144"
-generated_at: "2026-03-30T04:01:43.270Z"
+generated_at: "2026-03-30T04:04:36.333Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(4)** Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
   - **(5)**
     - **(A)** The Secretary may make grants to States and local governments for new entrant motor carrier audits under this subsection without requiring a matching contribution from such States and local governments.
-    - **(B)** The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
+    - **(B)** The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $21,304,110 for the period beginning on October 1, 2014 , and ending on May 31, 2015 , for audits of new entrant motor carriers conducted pursuant to this paragraph.
     - **(C)** If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
   - **(6)**
     - **(A)** In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.

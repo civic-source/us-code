@@ -3,9 +3,9 @@ title: "Section 3341to3348 - Repealed. Pub. L. 100–42, § 2(a) , May 21, 1987 
 usc_title: 15
 usc_section: "3341to3348"
 chapter: 60
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 3341to3348"
-generated_at: "2026-03-30T03:59:45.867Z"
+generated_at: "2026-03-30T04:03:12.658Z"
 status: "repealed"
 ---
 

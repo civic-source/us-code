@@ -3,9 +3,9 @@ title: "Section 7802 - Regulation of unfair and deceptive acts and practices in 
 usc_title: 15
 usc_section: "7802"
 chapter: 104
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 7802"
-generated_at: "2026-03-30T03:59:45.973Z"
+generated_at: "2026-03-30T04:03:12.710Z"
 status: "active"
 ---
 

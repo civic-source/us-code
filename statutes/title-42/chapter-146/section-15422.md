@@ -1,15 +1,13 @@
 ---
-title: "Section 15422 - Amount of payment"
+title: "Section 15422 - Transferred"
 usc_title: 42
 usc_section: "15422"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15422"
-generated_at: "2026-03-30T04:01:27.872Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15422. Amount of payment
+# § 15422. Transferred
 
-- **(a)** The amount of a payment made to an eligible State or an eligible unit of local government for a year under this subpart shall be determined by the Secretary.
-- **(b)** A payment made to an eligible State or eligible unit of local government under this subpart shall be available without fiscal year limitation.

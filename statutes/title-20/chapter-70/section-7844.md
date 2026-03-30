@@ -3,9 +3,9 @@ title: "Section 7844 - General applicability of State educational agency assuran
 usc_title: 20
 usc_section: "7844"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 7844"
-generated_at: "2026-03-30T03:59:57.184Z"
+generated_at: "2026-03-30T04:03:21.848Z"
 status: "active"
 ---
 

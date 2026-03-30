@@ -3,9 +3,9 @@ title: "Section 415 - Prohibition on restriction or elimination of services"
 usc_title: 39
 usc_section: "415"
 chapter: 4
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "39 U.S.C. § 415"
-generated_at: "2026-03-30T04:00:46.832Z"
+generated_at: "2026-03-30T04:04:05.630Z"
 status: "active"
 ---
 

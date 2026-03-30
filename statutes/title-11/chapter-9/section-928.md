@@ -3,9 +3,9 @@ title: "Section 928 - Post petition effect of security interest"
 usc_title: 11
 usc_section: "928"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "11 U.S.C. § 928"
-generated_at: "2026-03-30T03:59:36.404Z"
+generated_at: "2026-03-30T04:02:52.768Z"
 status: "active"
 ---
 

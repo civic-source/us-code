@@ -3,9 +3,9 @@ title: "Section 292r - Loan provisions"
 usc_title: 42
 usc_section: "292r"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 292r"
-generated_at: "2026-03-30T04:01:26.915Z"
+generated_at: "2026-03-30T04:04:27.213Z"
 status: "active"
 ---
 

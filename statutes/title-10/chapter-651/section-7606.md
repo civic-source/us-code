@@ -3,9 +3,9 @@ title: "Section 7606 - Subsistence and other supplies: members of armed forces; 
 usc_title: 10
 usc_section: "7606"
 chapter: 651
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 7606"
-generated_at: "2026-03-30T03:59:31.723Z"
+generated_at: "2026-03-30T04:02:49.760Z"
 status: "active"
 ---
 

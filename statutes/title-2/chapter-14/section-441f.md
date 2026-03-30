@@ -1,15 +1,13 @@
 ---
-title: "Section 441f - Contributions in name of another prohibited"
+title: "Section 441f - Transferred"
 usc_title: 2
 usc_section: "441f"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 441f"
-generated_at: "2026-03-30T03:59:14.037Z"
-status: "active"
+generated_at: "2026-03-30T04:02:32.874Z"
+status: "transferred"
 ---
 
-# § 441f. Contributions in name of another prohibited
-
-No person shall make a contribution in the name of another person or knowingly permit his name to be used to effect such a contribution, and no person shall knowingly accept a contribution made by one person in the name of another person.
+# § 441f. Transferred
 

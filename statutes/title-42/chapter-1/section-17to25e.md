@@ -3,9 +3,9 @@ title: "Section 17to25e - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313,
 usc_title: 42
 usc_section: "17to25e"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 17to25e"
-generated_at: "2026-03-30T04:01:26.786Z"
+generated_at: "2026-03-30T04:04:27.111Z"
 status: "repealed"
 ---
 

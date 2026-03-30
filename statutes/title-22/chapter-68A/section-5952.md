@@ -3,9 +3,9 @@ title: "Section 5952 - Authority for programs to facilitate cooperative threat r
 usc_title: 22
 usc_section: "5952"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 5952"
-generated_at: "2026-03-30T04:00:16.360Z"
+generated_at: "2026-03-30T04:03:40.547Z"
 status: "active"
 ---
 

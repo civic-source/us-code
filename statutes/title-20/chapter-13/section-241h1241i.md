@@ -3,9 +3,9 @@ title: "Section 241h1241i - Repealed. Pub. L. 91–230, title I, § 113(b)(6) , 
 usc_title: 20
 usc_section: "241h1241i"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 241h1241i"
-generated_at: "2026-03-30T03:59:56.928Z"
+generated_at: "2026-03-30T04:03:21.625Z"
 status: "repealed"
 ---
 

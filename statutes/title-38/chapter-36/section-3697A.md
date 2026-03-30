@@ -3,9 +3,9 @@ title: "Section 3697A - Educational and vocational counseling"
 usc_title: 38
 usc_section: "3697A"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 3697A"
-generated_at: "2026-03-30T04:00:45.151Z"
+generated_at: "2026-03-30T04:04:07.685Z"
 status: "active"
 ---
 

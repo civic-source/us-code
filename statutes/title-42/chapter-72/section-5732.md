@@ -3,9 +3,9 @@ title: "Section 5732 - Evaluation and information"
 usc_title: 42
 usc_section: "5732"
 chapter: 72
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 5732"
-generated_at: "2026-03-30T04:01:27.531Z"
+generated_at: "2026-03-30T04:04:27.773Z"
 status: "active"
 ---
 

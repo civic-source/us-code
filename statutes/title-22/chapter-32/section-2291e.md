@@ -3,9 +3,9 @@ title: "Section 2291e - Reallocation of funds withheld from countries which fail
 usc_title: 22
 usc_section: "2291e"
 chapter: 32
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 2291e"
-generated_at: "2026-03-30T04:00:16.250Z"
+generated_at: "2026-03-30T04:03:40.460Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3506 - Certification of compliance"
 usc_title: 16
 usc_section: "3506"
 chapter: 55
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 3506"
-generated_at: "2026-03-30T04:00:01.906Z"
+generated_at: "2026-03-30T04:03:31.630Z"
 status: "active"
 ---
 

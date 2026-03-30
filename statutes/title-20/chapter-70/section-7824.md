@@ -3,9 +3,9 @@ title: "Section 7824 - Consolidated set-aside for Department of the Interior fun
 usc_title: 20
 usc_section: "7824"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 7824"
-generated_at: "2026-03-30T03:59:57.184Z"
+generated_at: "2026-03-30T04:03:21.847Z"
 status: "active"
 ---
 

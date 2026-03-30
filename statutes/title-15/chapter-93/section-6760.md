@@ -3,9 +3,9 @@ title: "Section 6760 - Functions of the NAIC"
 usc_title: 15
 usc_section: "6760"
 chapter: 93
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 6760"
-generated_at: "2026-03-30T03:59:45.942Z"
+generated_at: "2026-03-30T04:03:12.695Z"
 status: "active"
 ---
 

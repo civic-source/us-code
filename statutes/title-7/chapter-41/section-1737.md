@@ -3,9 +3,9 @@ title: "Section 1737 - John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
 usc_title: 7
 usc_section: "1737"
 chapter: 41
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 1737"
-generated_at: "2026-03-30T03:59:22.269Z"
+generated_at: "2026-03-30T04:02:40.316Z"
 status: "active"
 ---
 

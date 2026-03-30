@@ -3,9 +3,9 @@ title: "Section 5318 - Compliance, exemptions, and summons authority"
 usc_title: 31
 usc_section: "5318"
 chapter: 53
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "31 U.S.C. § 5318"
-generated_at: "2026-03-30T04:00:38.448Z"
+generated_at: "2026-03-30T04:04:01.822Z"
 status: "active"
 ---
 
@@ -18,8 +18,11 @@ status: "active"
   - **(4)** summon a financial institution or nonfinancial trade or business, an officer or employee of a financial institution or nonfinancial trade or business (including a former officer or employee), or any person having possession, custody, or care of the reports and records required under this subchapter, to appear before the Secretary of the Treasury or his delegate at a time and place named in the summons and to produce such books, papers, records, or other data, and to give testimony, under oath, as may be relevant or material to an investigation described in subsection (b);
   - **(5)** exempt from the requirements of this subchapter any class of transactions within any State if the Secretary determines that—
     - **(A)** under the laws of such State, that class of transactions is subject to requirements substantially similar to those imposed under this subchapter; and
-    - **(B)** there is adequate provision for the enforcement of such requirements; and
-  - **(6)** prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
+    - **(B)** there is adequate provision for the enforcement of such requirements;
+  - **(6)** rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that—
+    - **(A)** the category of financial institution is required to comply with this subchapter and regulations prescribed under this subchapter; or
+    - **(B)** the State supervisory agency examines the category of financial institution for compliance with this subchapter and regulations prescribed under this subchapter; and
+  - **(7)** prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
 - **(b)**
   - **(1)** The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411 1 1 See References in Text note below. of the National Housing Act, or chapter 2 of Public Law 91–508 ( 12 U.S.C. 1951 et seq.) or any regulation under any such provision.
   - **(2)** A summons may be issued under subsection (a)(4) only by, or with the approval of, the Secretary of the Treasury or a supervisory level delegate of the Secretary of the Treasury.

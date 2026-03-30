@@ -3,9 +3,9 @@ title: "Section 541f - Withdrawal from location, entry and patent under mining l
 usc_title: 16
 usc_section: "541f"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 541f"
-generated_at: "2026-03-30T04:00:01.711Z"
+generated_at: "2026-03-30T04:03:31.475Z"
 status: "active"
 ---
 

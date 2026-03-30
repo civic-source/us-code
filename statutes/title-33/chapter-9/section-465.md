@@ -3,9 +3,9 @@ title: "Section 465 - Authority to dredge; riparian rights of United States"
 usc_title: 33
 usc_section: "465"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "33 U.S.C. § 465"
-generated_at: "2026-03-30T04:00:40.059Z"
+generated_at: "2026-03-30T04:03:57.458Z"
 status: "active"
 ---
 

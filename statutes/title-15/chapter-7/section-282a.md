@@ -3,9 +3,9 @@ title: "Section 282a - Assessment of emerging technologies requiring research in
 usc_title: 15
 usc_section: "282a"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 282a"
-generated_at: "2026-03-30T03:59:45.572Z"
+generated_at: "2026-03-30T04:03:12.506Z"
 status: "active"
 ---
 

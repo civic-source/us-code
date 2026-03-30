@@ -3,9 +3,9 @@ title: "Section 664 - User fees"
 usc_title: 14
 usc_section: "664"
 chapter: 17
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "14 U.S.C. § 664"
-generated_at: "2026-03-30T03:59:35.786Z"
+generated_at: "2026-03-30T04:02:52.179Z"
 status: "active"
 ---
 

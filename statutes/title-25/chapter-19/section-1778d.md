@@ -3,9 +3,9 @@ title: "Section 1778d - Trust land acquisition and status"
 usc_title: 25
 usc_section: "1778d"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 1778d"
-generated_at: "2026-03-30T04:00:09.083Z"
+generated_at: "2026-03-30T04:03:36.581Z"
 status: "active"
 ---
 

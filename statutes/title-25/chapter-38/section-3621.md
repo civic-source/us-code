@@ -3,9 +3,9 @@ title: "Section 3621 - Tribal justice systems"
 usc_title: 25
 usc_section: "3621"
 chapter: 38
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 3621"
-generated_at: "2026-03-30T04:00:09.128Z"
+generated_at: "2026-03-30T04:03:36.615Z"
 status: "active"
 ---
 

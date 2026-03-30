@@ -3,9 +3,9 @@ title: "Section 59hh - Declaration of nonnavigability for portion of Pelican Isl
 usc_title: 33
 usc_section: "59hh"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "33 U.S.C. § 59hh"
-generated_at: "2026-03-30T04:00:40.051Z"
+generated_at: "2026-03-30T04:03:57.452Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3203 - Definitions"
 usc_title: 22
 usc_section: "3203"
 chapter: 47
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 3203"
-generated_at: "2026-03-30T04:00:16.307Z"
+generated_at: "2026-03-30T04:03:40.504Z"
 status: "active"
 ---
 

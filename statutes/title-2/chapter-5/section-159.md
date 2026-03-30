@@ -3,9 +3,9 @@ title: "Section 159 - Perpetual succession and suits by or against Library of Co
 usc_title: 2
 usc_section: "159"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 159"
-generated_at: "2026-03-30T03:59:14.021Z"
+generated_at: "2026-03-30T04:02:32.865Z"
 status: "active"
 ---
 

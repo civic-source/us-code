@@ -3,9 +3,9 @@ title: "Section 619 - Marking, labeling, or other identification to show kinds o
 usc_title: 21
 usc_section: "619"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 619"
-generated_at: "2026-03-30T04:00:10.528Z"
+generated_at: "2026-03-30T04:03:37.721Z"
 status: "active"
 ---
 

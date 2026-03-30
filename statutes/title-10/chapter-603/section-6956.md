@@ -3,9 +3,9 @@ title: "Section 6956 - Midshipmen: nomination and selection to fill vacancies"
 usc_title: 10
 usc_section: "6956"
 chapter: 603
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 6956"
-generated_at: "2026-03-30T03:59:31.713Z"
+generated_at: "2026-03-30T04:02:49.751Z"
 status: "active"
 ---
 

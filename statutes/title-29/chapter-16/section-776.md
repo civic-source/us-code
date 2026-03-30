@@ -3,9 +3,9 @@ title: "Section 776 - Measuring of project outcomes and performance"
 usc_title: 29
 usc_section: "776"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 776"
-generated_at: "2026-03-30T04:00:22.395Z"
+generated_at: "2026-03-30T04:03:46.387Z"
 status: "active"
 ---
 

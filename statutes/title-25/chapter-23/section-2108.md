@@ -3,9 +3,9 @@ title: "Section 2108 - Tribal right to develop mineral resources"
 usc_title: 25
 usc_section: "2108"
 chapter: 23
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 2108"
-generated_at: "2026-03-30T04:00:09.100Z"
+generated_at: "2026-03-30T04:03:36.594Z"
 status: "active"
 ---
 

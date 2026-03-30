@@ -3,9 +3,9 @@ title: "Section 5054 - Distribution of benefits between rural and urban areas"
 usc_title: 42
 usc_section: "5054"
 chapter: 66
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 5054"
-generated_at: "2026-03-30T04:01:27.496Z"
+generated_at: "2026-03-30T04:04:27.742Z"
 status: "active"
 ---
 

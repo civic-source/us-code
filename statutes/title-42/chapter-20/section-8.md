@@ -1,15 +1,13 @@
 ---
-title: "Section 8 - Designation of chief State election official"
+title: "Section 8 - Transferred"
 usc_title: 42
 usc_section: "8"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T04:01:27.365Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.621Z"
+status: "transferred"
 ---
 
-# § 1973gg–8. Designation of chief State election official
-
-Each State shall designate a State officer or employee as the chief State election official to be responsible for coordination of State responsibilities under this subchapter.
+# § 1973gg–8. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 111 - Procurement"
 usc_title: 41
 usc_section: "111"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "41 U.S.C. § 111"
-generated_at: "2026-03-30T04:00:56.266Z"
+generated_at: "2026-03-30T04:04:11.324Z"
 status: "active"
 ---
 

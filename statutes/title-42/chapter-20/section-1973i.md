@@ -1,21 +1,13 @@
 ---
-title: "Section 1973i - Prohibited acts"
+title: "Section 1973i - Transferred"
 usc_title: 42
 usc_section: "1973i"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1973i"
-generated_at: "2026-03-30T04:01:27.361Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.620Z"
+status: "transferred"
 ---
 
-# § 1973i. Prohibited acts
+# § 1973i. Transferred
 
-- **(a)** No person acting under color of law shall fail or refuse to permit any person to vote who is entitled to vote under any provision of subchapters I–A to I–C of this chapter or is otherwise qualified to vote, or willfully fail or refuse to tabulate, count, and report such person’s vote.
-- **(b)** No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under section 1973a(a), 1973d, 1 1 See References in Text note below. 1973f, 1973g, 1 1973h, or 1973j(e) of this title.
-- **(c)** Whoever knowingly or willfully gives false information as to his name, address or period of residence in the voting district for the purpose of establishing his eligibility to register or vote, or conspires with another individual for the purpose of encouraging his false registration to vote or illegal voting, or pays or offers to pay or accepts payment either for registration to vote or for voting shall be fined not more than $10,000 or imprisoned not more than five years, or both: Provided, however , That this provision shall be applicable only to general, special, or primary elections held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
-- **(d)** Whoever, in any matter within the jurisdiction of an examiner or hearing officer knowingly and willfully falsifies or conceals a material fact, or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined not more than $10,000 or imprisoned not more than five years, or both.
-- **(e)**
-  - **(1)** Whoever votes more than once in an election referred to in paragraph (2) shall be fined not more than $10,000 or imprisoned not more than five years, or both.
-  - **(2)** The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
-  - **(3)** As used in this subsection, the term “votes more than once” does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 1973aa–1 of this title , to the extent two ballots are not cast for an election to the same candidacy or office.

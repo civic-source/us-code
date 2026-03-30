@@ -3,9 +3,9 @@ title: "Section 2509 - Conversion of recreation property"
 usc_title: 16
 usc_section: "2509"
 chapter: 45
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 2509"
-generated_at: "2026-03-30T04:00:01.886Z"
+generated_at: "2026-03-30T04:03:31.615Z"
 status: "active"
 ---
 

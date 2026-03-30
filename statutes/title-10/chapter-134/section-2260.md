@@ -3,9 +3,9 @@ title: "Section 2260 - Licensing of intellectual property: retention of fees"
 usc_title: 10
 usc_section: "2260"
 chapter: 134
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2260"
-generated_at: "2026-03-30T03:59:31.610Z"
+generated_at: "2026-03-30T04:02:49.677Z"
 status: "active"
 ---
 

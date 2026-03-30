@@ -3,9 +3,9 @@ title: "Section 353b - Outsourcing facilities"
 usc_title: 21
 usc_section: "353b"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 353b"
-generated_at: "2026-03-30T04:00:10.461Z"
+generated_at: "2026-03-30T04:03:37.661Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
   - **(1)** The Secretary shall implement the list described in subsection (a)(6) through regulations.
   - **(2)** Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
   - **(3)**
-    - **(A)** Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such subsection by—
+    - **(A)** Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such 1 1 So in original. subsection by—
       - **(i)** publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
       - **(ii)** providing a period of not less than 60 calendar days for comment on the notice; and
       - **(iii)** publishing a notice in the Federal Register designating such drugs, categories of drugs, or conditions.

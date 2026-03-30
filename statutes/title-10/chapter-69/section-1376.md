@@ -3,9 +3,9 @@ title: "Section 1376 - Temporary disability retired lists"
 usc_title: 10
 usc_section: "1376"
 chapter: 69
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 1376"
-generated_at: "2026-03-30T03:59:31.561Z"
+generated_at: "2026-03-30T04:02:49.640Z"
 status: "active"
 ---
 

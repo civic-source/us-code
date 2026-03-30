@@ -3,9 +3,9 @@ title: "Section 8a - National-park approach roads; designation"
 usc_title: 16
 usc_section: "8a"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 8a"
-generated_at: "2026-03-30T04:00:01.528Z"
+generated_at: "2026-03-30T04:03:31.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4543 - Army industrial facilities: sales of manufactured article
 usc_title: 10
 usc_section: "4543"
 chapter: 433
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 4543"
-generated_at: "2026-03-30T03:59:31.695Z"
+generated_at: "2026-03-30T04:02:49.738Z"
 status: "active"
 ---
 

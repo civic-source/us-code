@@ -1,15 +1,13 @@
 ---
-title: "Section 15341 - Establishment"
+title: "Section 15341 - Transferred"
 usc_title: 42
 usc_section: "15341"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15341"
-generated_at: "2026-03-30T04:01:27.870Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.087Z"
+status: "transferred"
 ---
 
-# § 15341. Establishment
-
-There are hereby established the Election Assistance Commission Standards Board (hereafter in this subchapter referred to as the “Standards Board”) and the Election Assistance Commission Board of Advisors (hereafter in this subchapter referred to as the “Board of Advisors”).
+# § 15341. Transferred
 

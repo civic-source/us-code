@@ -3,9 +3,9 @@ title: "Section 564565 - Repealed. Pub. L. 95–313, § 16(a)(1) , formerly § 1
 usc_title: 16
 usc_section: "564565"
 chapter: 3
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 564565"
-generated_at: "2026-03-30T04:00:01.720Z"
+generated_at: "2026-03-30T04:03:31.483Z"
 status: "repealed"
 ---
 

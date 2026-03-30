@@ -3,9 +3,9 @@ title: "Section 9707 - The national public service multimedia campaign to enhanc
 usc_title: 20
 usc_section: "9707"
 chapter: 77
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 9707"
-generated_at: "2026-03-30T03:59:57.205Z"
+generated_at: "2026-03-30T04:03:21.865Z"
 status: "active"
 ---
 

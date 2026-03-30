@@ -3,9 +3,9 @@ title: "Section 7713 - Powers of the Corporation; related provisions"
 usc_title: 22
 usc_section: "7713"
 chapter: 84
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 7713"
-generated_at: "2026-03-30T04:00:16.403Z"
+generated_at: "2026-03-30T04:03:40.580Z"
 status: "active"
 ---
 

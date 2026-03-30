@@ -3,9 +3,9 @@ title: "Section 3191to3197 - Omitted"
 usc_title: 20
 usc_section: "3191to3197"
 chapter: 47
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 3191to3197"
-generated_at: "2026-03-30T03:59:57.083Z"
+generated_at: "2026-03-30T04:03:21.762Z"
 status: "omitted"
 ---
 

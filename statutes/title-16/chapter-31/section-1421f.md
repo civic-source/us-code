@@ -3,9 +3,9 @@ title: "Section 1421f - National Marine Mammal Tissue Bank and tissue analysis"
 usc_title: 16
 usc_section: "1421f"
 chapter: 31
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 1421f"
-generated_at: "2026-03-30T04:00:01.838Z"
+generated_at: "2026-03-30T04:03:31.577Z"
 status: "active"
 ---
 

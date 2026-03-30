@@ -3,9 +3,9 @@ title: "Section 7050 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "7050"
 chapter: 605
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 7050"
-generated_at: "2026-03-30T03:59:31.716Z"
+generated_at: "2026-03-30T04:02:49.753Z"
 status: "active"
 ---
 

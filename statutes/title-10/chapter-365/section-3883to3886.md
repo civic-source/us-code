@@ -3,9 +3,9 @@ title: "Section 3883to3886 - Repealed. Pub. L. 96–513, title II, § 216 , Dec.
 usc_title: 10
 usc_section: "3883to3886"
 chapter: 365
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 3883to3886"
-generated_at: "2026-03-30T03:59:31.689Z"
+generated_at: "2026-03-30T04:02:49.734Z"
 status: "repealed"
 ---
 

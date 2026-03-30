@@ -3,9 +3,9 @@ title: "Section 6013 - Enlisted grades and ratings: authority to establish"
 usc_title: 10
 usc_section: "6013"
 chapter: 555
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 6013"
-generated_at: "2026-03-30T03:59:31.706Z"
+generated_at: "2026-03-30T04:02:49.747Z"
 status: "active"
 ---
 

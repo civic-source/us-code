@@ -3,9 +3,9 @@ title: "Section 5953 - Demilitarization Enterprise Fund"
 usc_title: 22
 usc_section: "5953"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 5953"
-generated_at: "2026-03-30T04:00:16.360Z"
+generated_at: "2026-03-30T04:03:40.547Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4l - Improvement of interaction between International Bank for R
 usc_title: 22
 usc_section: "4l"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 4l"
-generated_at: "2026-03-30T04:00:16.169Z"
+generated_at: "2026-03-30T04:03:40.399Z"
 status: "active"
 ---
 

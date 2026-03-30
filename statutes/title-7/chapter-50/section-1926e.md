@@ -3,9 +3,9 @@ title: "Section 1926e - Grants to nonprofit organizations to finance the constru
 usc_title: 7
 usc_section: "1926e"
 chapter: 50
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 1926e"
-generated_at: "2026-03-30T03:59:22.276Z"
+generated_at: "2026-03-30T04:02:40.321Z"
 status: "active"
 ---
 

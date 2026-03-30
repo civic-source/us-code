@@ -3,9 +3,9 @@ title: "Section 602 - Infringing importation or exportation of copies or phonore
 usc_title: 17
 usc_section: "602"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "17 U.S.C. § 602"
-generated_at: "2026-03-30T03:59:48.905Z"
+generated_at: "2026-03-30T04:03:15.008Z"
 status: "active"
 ---
 

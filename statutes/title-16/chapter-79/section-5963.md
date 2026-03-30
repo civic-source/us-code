@@ -3,9 +3,9 @@ title: "Section 5963 - Recordkeeping requirements"
 usc_title: 16
 usc_section: "5963"
 chapter: 79
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 5963"
-generated_at: "2026-03-30T04:00:01.952Z"
+generated_at: "2026-03-30T04:03:31.666Z"
 status: "active"
 ---
 

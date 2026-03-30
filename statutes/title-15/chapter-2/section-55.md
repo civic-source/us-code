@@ -3,9 +3,9 @@ title: "Section 55 - Additional definitions"
 usc_title: 15
 usc_section: "55"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 55"
-generated_at: "2026-03-30T03:59:45.462Z"
+generated_at: "2026-03-30T04:03:12.424Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17352 - Establishment and management of Foundation"
 usc_title: 42
 usc_section: "17352"
 chapter: 152
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 17352"
-generated_at: "2026-03-30T04:01:27.923Z"
+generated_at: "2026-03-30T04:04:28.134Z"
 status: "active"
 ---
 

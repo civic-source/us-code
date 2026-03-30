@@ -3,9 +3,9 @@ title: "Section 12211 - Officers: Army National Guard of the United States"
 usc_title: 10
 usc_section: "12211"
 chapter: 1205
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 12211"
-generated_at: "2026-03-30T03:59:31.751Z"
+generated_at: "2026-03-30T04:02:49.781Z"
 status: "active"
 ---
 

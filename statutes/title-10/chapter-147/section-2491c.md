@@ -3,9 +3,9 @@ title: "Section 2491c - Retention of morale, welfare, and recreation funds by mi
 usc_title: 10
 usc_section: "2491c"
 chapter: 147
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2491c"
-generated_at: "2026-03-30T03:59:31.647Z"
+generated_at: "2026-03-30T04:02:49.703Z"
 status: "active"
 ---
 

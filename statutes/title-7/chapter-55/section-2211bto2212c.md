@@ -3,9 +3,9 @@ title: "Section 2211bto2212c - Repealed. Pub. L. 103–354, title II , §§ 218(
 usc_title: 7
 usc_section: "2211bto2212c"
 chapter: 55
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 2211bto2212c"
-generated_at: "2026-03-30T03:59:22.322Z"
+generated_at: "2026-03-30T04:02:40.363Z"
 status: "repealed"
 ---
 

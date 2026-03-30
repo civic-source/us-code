@@ -3,9 +3,9 @@ title: "Section 901a - Enforcement of budget goal"
 usc_title: 2
 usc_section: "901a"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 901a"
-generated_at: "2026-03-30T03:59:14.049Z"
+generated_at: "2026-03-30T04:02:32.884Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
       - **(ii)** with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
   - **(7)** If the percentage reduction for the Medicare programs would exceed 2 percent for a fiscal year in the absence of paragraph (6), OMB shall increase the reduction for all other discretionary appropriations and direct spending under paragraph (4) by a uniform percentage to a level sufficient to achieve the reduction required by paragraph (4) in the non-defense function.
   - **(8)** Any reductions imposed under this section shall be implemented in accordance with section 906(k) of this title .
-  - **(9)** On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title and actions taken under it.
+  - **(9)** On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title 1 1 See References in Text note below. and actions taken under it.
   - **(10)**
     - **(A)** OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2014 and 2015 by the Bipartisan Budget Act of 2013.
     - **(B)** Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.

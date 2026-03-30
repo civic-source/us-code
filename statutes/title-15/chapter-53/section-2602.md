@@ -3,9 +3,9 @@ title: "Section 2602 - Definitions"
 usc_title: 15
 usc_section: "2602"
 chapter: 53
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 2602"
-generated_at: "2026-03-30T03:59:45.831Z"
+generated_at: "2026-03-30T04:03:12.638Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ As used in this chapter:
   - **(1)** the 1 1 So in original. Probably should be capitalized. term “Administrator” means the Administrator of the Environmental Protection Agency.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), the term “chemical substance” means any organic or inorganic substance of a particular molecular identity, including—
-      - **(i)** any combination of such substances occurring in whole or in part as a result of a chemical reaction or occurring in nature and
+      - **(i)** any combination of such substances occurring in whole or in part as a result of a chemical reaction or occurring in nature, and
       - **(ii)** any element or uncombined radical.
     - **(B)** Such term does not include—
       - **(i)** any mixture,

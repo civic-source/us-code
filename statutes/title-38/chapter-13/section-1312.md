@@ -3,9 +3,9 @@ title: "Section 1312 - Benefits in certain cases of in-service or service-connec
 usc_title: 38
 usc_section: "1312"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 1312"
-generated_at: "2026-03-30T04:00:45.112Z"
+generated_at: "2026-03-30T04:04:07.648Z"
 status: "active"
 ---
 

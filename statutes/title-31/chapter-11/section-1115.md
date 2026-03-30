@@ -3,9 +3,9 @@ title: "Section 1115 - Federal Government and agency performance plans"
 usc_title: 31
 usc_section: "1115"
 chapter: 11
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "31 U.S.C. § 1115"
-generated_at: "2026-03-30T04:00:38.422Z"
+generated_at: "2026-03-30T04:04:01.798Z"
 status: "active"
 ---
 

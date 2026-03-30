@@ -3,9 +3,9 @@ title: "Section 5891b - Education flexibility partnership"
 usc_title: 20
 usc_section: "5891b"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 5891b"
-generated_at: "2026-03-30T03:59:57.105Z"
+generated_at: "2026-03-30T04:03:21.781Z"
 status: "active"
 ---
 

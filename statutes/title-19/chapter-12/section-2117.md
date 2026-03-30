@@ -3,9 +3,9 @@ title: "Section 2117 - International safeguard procedures"
 usc_title: 19
 usc_section: "2117"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "19 U.S.C. § 2117"
-generated_at: "2026-03-30T03:59:53.520Z"
+generated_at: "2026-03-30T04:03:18.744Z"
 status: "active"
 ---
 

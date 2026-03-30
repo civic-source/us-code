@@ -3,9 +3,9 @@ title: "Section 236 - Personal protection equipment procurement: display of budg
 usc_title: 10
 usc_section: "236"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 236"
-generated_at: "2026-03-30T03:59:31.488Z"
+generated_at: "2026-03-30T04:02:49.585Z"
 status: "active"
 ---
 

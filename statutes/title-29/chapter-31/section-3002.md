@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 29
 usc_section: "3002"
 chapter: 31
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 3002"
-generated_at: "2026-03-30T04:00:22.475Z"
+generated_at: "2026-03-30T04:03:46.464Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ In this chapter:
   - **(12)** The term “protection and advocacy services” means services that—
     - **(A)** are described in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.), the Protection and Advocacy for Individuals with Mental Illness Act ( 42 U.S.C. 10801 et seq.), or section 509 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794e ); and
     - **(B)** assist individuals with disabilities with respect to assistive technology devices and assistive technology services.
-  - **(13)** The term “Secretary” means the Secretary of Education.
+  - **(13)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(14)**
     - **(A)** Except as provided in subparagraph (B), the term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
     - **(B)** In section 3003(b) of this title :

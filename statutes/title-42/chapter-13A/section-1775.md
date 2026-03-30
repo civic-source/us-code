@@ -3,9 +3,9 @@ title: "Section 1775 - Certification to Secretary of the Treasury of amounts to 
 usc_title: 42
 usc_section: "1775"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1775"
-generated_at: "2026-03-30T04:01:27.338Z"
+generated_at: "2026-03-30T04:04:27.601Z"
 status: "active"
 ---
 

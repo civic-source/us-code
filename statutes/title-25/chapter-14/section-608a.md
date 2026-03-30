@@ -3,9 +3,9 @@ title: "Section 608a - Sale of tribal trust lands, etc."
 usc_title: 25
 usc_section: "608a"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 608a"
-generated_at: "2026-03-30T04:00:08.995Z"
+generated_at: "2026-03-30T04:03:36.519Z"
 status: "active"
 ---
 

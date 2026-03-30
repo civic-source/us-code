@@ -1,15 +1,13 @@
 ---
-title: "Section 1973o - Authorization of appropriations"
+title: "Section 1973o - Transferred"
 usc_title: 42
 usc_section: "1973o"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1973o"
-generated_at: "2026-03-30T04:01:27.361Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.621Z"
+status: "transferred"
 ---
 
-# § 1973o. Authorization of appropriations
-
-There are hereby authorized to be appropriated such sums as are necessary to carry out the provisions of subchapters I–A to I–C of this chapter.
+# § 1973o. Transferred
 

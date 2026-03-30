@@ -3,9 +3,9 @@ title: "Section 633 - Retirement for years of service: regular lieutenant colone
 usc_title: 10
 usc_section: "633"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 633"
-generated_at: "2026-03-30T03:59:31.506Z"
+generated_at: "2026-03-30T04:02:49.598Z"
 status: "active"
 ---
 

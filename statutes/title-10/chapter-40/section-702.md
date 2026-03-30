@@ -3,9 +3,9 @@ title: "Section 702 - Cadets and midshipmen"
 usc_title: 10
 usc_section: "702"
 chapter: 40
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 702"
-generated_at: "2026-03-30T03:59:31.510Z"
+generated_at: "2026-03-30T04:02:49.601Z"
 status: "active"
 ---
 

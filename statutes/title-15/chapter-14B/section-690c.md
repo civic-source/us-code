@@ -3,9 +3,9 @@ title: "Section 690c - Selection of Renewable Fuel Capital Investment companies"
 usc_title: 15
 usc_section: "690c"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 690c"
-generated_at: "2026-03-30T03:59:45.648Z"
+generated_at: "2026-03-30T04:03:12.545Z"
 status: "active"
 ---
 
@@ -45,8 +45,8 @@ status: "active"
       - **(ii)** payable or available over a multiyear period determined appropriate by the Administrator (not to exceed 10 years).
     - **(B)** The Administrator may, in the discretion of the Administrator and based upon a showing of special circumstances and good cause, consider an applicant to have satisfied the requirements of subparagraph (A) if the applicant has—
       - **(i)** a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
-      - **(ii)** binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph (A).
-    - **(C)** The total amount of a 1 1 So in original. The article probably should not appear. in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+      - **(ii)** binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph 1 1 So in original. Probably should be “subparagraph”. (A).
+    - **(C)** The total amount of a 2 2 So in original. The article probably should not appear. in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 - **(e)** The Administrator shall, with respect to each applicant conditionally approved under subsection (c)—
   - **(1)** grant final approval to the applicant to operate as a Renewable Fuel Capital Investment company under this part and designate the applicant as such a company, if the applicant—
     - **(A)** satisfies the requirements of subsection (d) on or before the expiration of the time period described in that subsection; and

@@ -3,9 +3,9 @@ title: "Section 1113 - Congressional information"
 usc_title: 31
 usc_section: "1113"
 chapter: 11
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "31 U.S.C. § 1113"
-generated_at: "2026-03-30T04:00:38.422Z"
+generated_at: "2026-03-30T04:04:01.797Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 620e - Definitions"
 usc_title: 16
 usc_section: "620e"
 chapter: 4
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 620e"
-generated_at: "2026-03-30T04:00:01.733Z"
+generated_at: "2026-03-30T04:03:31.493Z"
 status: "active"
 ---
 

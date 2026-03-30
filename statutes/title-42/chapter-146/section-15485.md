@@ -1,15 +1,13 @@
 ---
-title: "Section 15485 - Methods of implementation left to discretion of State"
+title: "Section 15485 - Transferred"
 usc_title: 42
 usc_section: "15485"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15485"
-generated_at: "2026-03-30T04:01:27.874Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15485. Methods of implementation left to discretion of State
-
-The specific choices on the methods of complying with the requirements of this subchapter shall be left to the discretion of the State.
+# § 15485. Transferred
 

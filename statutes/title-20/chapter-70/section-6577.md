@@ -3,9 +3,9 @@ title: "Section 6577 - State report on dropout data"
 usc_title: 20
 usc_section: "6577"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 6577"
-generated_at: "2026-03-30T03:59:57.134Z"
+generated_at: "2026-03-30T04:03:21.804Z"
 status: "active"
 ---
 

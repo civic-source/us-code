@@ -3,9 +3,9 @@ title: "Section 773 - Election of survivor benefits"
 usc_title: 31
 usc_section: "773"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "31 U.S.C. § 773"
-generated_at: "2026-03-30T04:00:38.420Z"
+generated_at: "2026-03-30T04:04:01.795Z"
 status: "active"
 ---
 

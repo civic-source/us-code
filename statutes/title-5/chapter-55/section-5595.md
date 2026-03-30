@@ -3,9 +3,9 @@ title: "Section 5595 - Severance pay"
 usc_title: 5
 usc_section: "5595"
 chapter: 55
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "5 U.S.C. § 5595"
-generated_at: "2026-03-30T03:59:12.163Z"
+generated_at: "2026-03-30T04:02:26.688Z"
 status: "active"
 ---
 
@@ -69,7 +69,7 @@ status: "active"
     - **(B)** The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
     - **(C)** Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
   - **(3)** If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
-  - **(4)** This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996 , and before October 1, 2014 .
+  - **(4)** This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996 , and before October 1, 2018 .
 - **(j)**
   - **(1)** In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
   - **(2)**

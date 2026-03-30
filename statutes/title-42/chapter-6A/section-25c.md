@@ -3,9 +3,9 @@ title: "Section 25c - Services for individuals with fetal alcohol syndrome"
 usc_title: 42
 usc_section: "25c"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 25c"
-generated_at: "2026-03-30T04:01:26.900Z"
+generated_at: "2026-03-30T04:04:27.201Z"
 status: "active"
 ---
 

@@ -3,13 +3,13 @@ title: "Section 6 - Authorization of appropriations"
 usc_title: 29
 usc_section: "6"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 6"
-generated_at: "2026-03-30T04:00:22.401Z"
+generated_at: "2026-03-30T04:03:46.393Z"
 status: "active"
 ---
 
 # § 796f–6. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subpart such sums as may be necessary for each of the fiscal years 1999 through 2003.
+There are authorized to be appropriated to carry out this subpart $78,305,000 for fiscal year 2015, $84,353,000 for fiscal year 2016, $86,104,000 for fiscal year 2017, $88,013,000 for fiscal year 2018, $90,083,000 for fiscal year 2019, and $91,992,000 for fiscal year 2020.
 

@@ -3,9 +3,9 @@ title: "Section 497e - Enhancing Forest Service administration of rights-of-way 
 usc_title: 16
 usc_section: "497e"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 497e"
-generated_at: "2026-03-30T04:00:01.702Z"
+generated_at: "2026-03-30T04:03:31.468Z"
 status: "active"
 ---
 

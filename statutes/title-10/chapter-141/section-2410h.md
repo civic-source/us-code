@@ -3,9 +3,9 @@ title: "Section 2410h - Renumbered § 1747]"
 usc_title: 10
 usc_section: "2410h"
 chapter: 141
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2410h"
-generated_at: "2026-03-30T03:59:31.637Z"
+generated_at: "2026-03-30T04:02:49.697Z"
 status: "renumbered"
 ---
 

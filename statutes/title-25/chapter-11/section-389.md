@@ -3,9 +3,9 @@ title: "Section 389 - Investigation and adjustment of irrigation charges on land
 usc_title: 25
 usc_section: "389"
 chapter: 11
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 389"
-generated_at: "2026-03-30T04:00:08.969Z"
+generated_at: "2026-03-30T04:03:36.498Z"
 status: "active"
 ---
 

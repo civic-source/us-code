@@ -3,9 +3,9 @@ title: "Section 49f - Percentage disposition of allotted funds"
 usc_title: 29
 usc_section: "49f"
 chapter: 4
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 49f"
-generated_at: "2026-03-30T04:00:22.362Z"
+generated_at: "2026-03-30T04:03:46.353Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
 - **(b)** Ten percent of the sums allotted to each State pursuant to section 49e of this title shall be reserved for use in accordance with this subsection by the Governor of each such State to provide—
   - **(1)** performance incentives for public employment service offices and programs, consistent with performance standards established by the Secretary, taking into account direct or indirect placements (including those resulting from self-directed job search or group job search activities assisted by such offices or programs), wages on entered employment, retention, and other appropriate factors;
   - **(2)** services for groups with special needs, carried out pursuant to joint agreements between the employment service and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
-  - **(3)** the extra costs of exemplary models for delivering services of the types described in subsection (a) of this section.
+  - **(3)** the extra costs of exemplary models for delivering services of the types described in subsection (a).
 - **(c)**
   - **(1)** Funds made available to States under this section may be used to provide additional funds under an applicable program if—
     - **(A)** such program otherwise meets the requirements of this chapter and the requirements of the applicable program;
@@ -33,4 +33,4 @@ status: "active"
     - **(D)** such funds would be used to supplement, and not supplant, funds provided from non-Federal sources.
   - **(2)** For purposes of this subsection, the term “applicable program” means any workforce investment activity carried out under the Workforce Investment Act of 1998.
 - **(d)** In addition to the services and activities otherwise authorized by this chapter, the Secretary or any State agency designated under this chapter may perform such other services and activities as shall be specified in contracts for payment or reimbursement of the costs thereof made with the Secretary or with any Federal, State, or local public agency, or administrative entity under the Workforce Investment Act of 1998, or private nonprofit organization.
-- **(e)** All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) of this section shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
+- **(e)** All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.

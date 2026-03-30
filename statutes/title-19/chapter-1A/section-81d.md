@@ -3,9 +3,9 @@ title: "Section 81d - Customs officers and guards"
 usc_title: 19
 usc_section: "81d"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "19 U.S.C. § 81d"
-generated_at: "2026-03-30T03:59:53.462Z"
+generated_at: "2026-03-30T04:03:18.696Z"
 status: "active"
 ---
 

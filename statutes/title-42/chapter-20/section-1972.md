@@ -1,15 +1,13 @@
 ---
-title: "Section 1972 - Interference with freedom of elections"
+title: "Section 1972 - Transferred"
 usc_title: 42
 usc_section: "1972"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1972"
-generated_at: "2026-03-30T04:01:27.360Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.620Z"
+status: "transferred"
 ---
 
-# § 1972. Interference with freedom of elections
-
-No officer of the Army, Navy, or Air Force of the United States shall prescribe or fix, or attempt to prescribe or fix, by proclamation, order, or otherwise, the qualifications of voters in any State, or in any manner interfere with the freedom of any election in any State, or with the exercise of the free right of suffrage in any State.
+# § 1972. Transferred
 

@@ -3,18 +3,18 @@ title: "Section 3006 - Administrative provisions"
 usc_title: 29
 usc_section: "3006"
 chapter: 31
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 3006"
-generated_at: "2026-03-30T04:00:22.477Z"
+generated_at: "2026-03-30T04:03:46.466Z"
 status: "active"
 ---
 
 # § 3006. Administrative provisions
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of law, the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration, shall be responsible for the administration of this chapter.
-  - **(2)** The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.
-  - **(3)** In administering this chapter, the Rehabilitation Services Administration shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
+  - **(1)** Notwithstanding any other provision of law, the Administrator of the Administration for Community Living shall be responsible for the administration of this chapter.
+  - **(2)** The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
+  - **(3)** In administering this chapter, the Administrator of the Administration for Community Living shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
   - **(4)**
     - **(A)** The Secretary shall take such steps as the Secretary determines to be appropriate to provide for the orderly transition to, and implementation of, programs authorized by this chapter, from programs authorized by this chapter, as in effect on the day before October 25, 2004 .
     - **(B)** Subparagraph (A) ceases to be effective on the date that is 6 months after October 25, 2004 .
@@ -30,7 +30,7 @@ status: "active"
     - **(D)** Required redesignation of the lead agency designated under section 3003(c)(1) of this title or an entity responsible for administering the grant program.
   - **(3)** The Secretary shall establish appeals procedures for entities that are determined to be in noncompliance with the applicable requirements of this chapter, or have not made substantial progress toward achieving the measurable goals described in subsection (b)(1).
   - **(4)** As part of the annual report required under subsection (d), the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
-  - **(5)** The Secretary shall notify the public, by posting on the Internet website of the Department of Education, of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
+  - **(5)** The Secretary shall notify the public, by posting on the Internet website of the Department of Health and Human Services, of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
 - **(d)**
   - **(1)** Not later than December 31 of each year, the Secretary shall prepare, and submit to the President and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the activities funded under this chapter to improve the access of individuals with disabilities to assistive technology devices and assistive technology services.
   - **(2)** Such report shall include—

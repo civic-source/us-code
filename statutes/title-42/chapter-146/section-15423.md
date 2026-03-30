@@ -1,20 +1,13 @@
 ---
-title: "Section 15423 - Requirements for eligibility"
+title: "Section 15423 - Transferred"
 usc_title: 42
 usc_section: "15423"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15423"
-generated_at: "2026-03-30T04:01:27.872Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15423. Requirements for eligibility
+# § 15423. Transferred
 
-- **(a)** Each State or unit of local government that desires to receive a payment under this subpart for a fiscal year shall submit an application for the payment to the Secretary at such time and in such manner and containing such information as the Secretary shall require.
-- **(b)** Each application submitted under subsection (a) of this section shall—
-  - **(1)** describe the activities for which assistance under this section is sought; and
-  - **(2)** provide such additional information and certifications as the Secretary determines to be essential to ensure compliance with the requirements of this subpart.
-- **(c)**
-  - **(1)** No action may be brought under this chapter against a State or unit of local government on the basis of any information contained in the application submitted under subsection (a) of this section.
-  - **(2)** Paragraph (1) may not be construed to limit the liability of a State or unit of local government for criminal acts or omissions.

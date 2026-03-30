@@ -3,9 +3,9 @@ title: "Section 670h - Comprehensive plans for conservation and rehabilitation p
 usc_title: 16
 usc_section: "670h"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 670h"
-generated_at: "2026-03-30T04:00:01.741Z"
+generated_at: "2026-03-30T04:03:31.500Z"
 status: "active"
 ---
 

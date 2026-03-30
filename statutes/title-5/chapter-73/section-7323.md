@@ -3,9 +3,9 @@ title: "Section 7323 - Political activity authorized; prohibitions"
 usc_title: 5
 usc_section: "7323"
 chapter: 73
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "5 U.S.C. § 7323"
-generated_at: "2026-03-30T03:59:12.183Z"
+generated_at: "2026-03-30T04:02:26.702Z"
 status: "active"
 ---
 
@@ -14,9 +14,9 @@ status: "active"
 - **(a)** Subject to the provisions of subsection (b), an employee may take an active part in political management or in political campaigns, except an employee may not—
   - **(1)** use his official authority or influence for the purpose of interfering with or affecting the result of an election;
   - **(2)** knowingly solicit, accept, or receive a political contribution from any person, unless such person is—
-    - **(A)** a member of the same Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441a(a)(4) ));
+    - **(A)** a member of the same Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441a(a)(4) )); 1 1 See References in Text note below.
     - **(B)** not a subordinate employee; and
-    - **(C)** the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441a(a)(4) )) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441a(a)(4) )); or
+    - **(C)** the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441a(a)(4) )) 1 of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 ( 2 U.S.C. 441a(a)(4) )); 1 or
   - **(3)** run for the nomination or as a candidate for election to a partisan political office; or
   - **(4)** knowingly solicit or discourage the participation in any political activity of any person who—
     - **(A)** has an application for any compensation, grant, contract, ruling, license, permit, or certificate pending before the employing office of such employee; or

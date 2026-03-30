@@ -3,9 +3,9 @@ title: "Section 12 - Loan repayment for civil legal assistance attorneys"
 usc_title: 20
 usc_section: "12"
 chapter: 28
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T03:59:56.980Z"
+generated_at: "2026-03-30T04:03:21.670Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
         - **(IV)** section 3004 of title 29 ;
         - **(V)** section 1320b–21 of title 42 ;
         - **(VI)** section 300d–53 of title 42 ; or
-        - **(VII)** section 15461 of title 42 ;
+        - **(VII)** section 21061 of title 52 ;
     - **(B)** as such employee, provides civil legal assistance as described in subparagraph (A) on a full-time basis; and
     - **(C)** is continually licensed to practice law.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 2352 - Distribution of funds for postsecondary education program
 usc_title: 20
 usc_section: "2352"
 chapter: 44
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 2352"
-generated_at: "2026-03-30T03:59:57.080Z"
+generated_at: "2026-03-30T04:03:21.759Z"
 status: "active"
 ---
 

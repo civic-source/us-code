@@ -3,9 +3,9 @@ title: "Section 1979 - Release of security information"
 usc_title: 2
 usc_section: "1979"
 chapter: 29
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 1979"
-generated_at: "2026-03-30T03:59:14.072Z"
+generated_at: "2026-03-30T04:02:32.905Z"
 status: "active"
 ---
 

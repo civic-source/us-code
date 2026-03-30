@@ -3,9 +3,9 @@ title: "Section 94 - Oceanographic research"
 usc_title: 14
 usc_section: "94"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "14 U.S.C. § 94"
-generated_at: "2026-03-30T03:59:35.778Z"
+generated_at: "2026-03-30T04:02:52.173Z"
 status: "active"
 ---
 

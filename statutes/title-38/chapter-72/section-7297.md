@@ -3,9 +3,9 @@ title: "Section 7297 - Survivor annuities"
 usc_title: 38
 usc_section: "7297"
 chapter: 72
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 7297"
-generated_at: "2026-03-30T04:00:45.173Z"
+generated_at: "2026-03-30T04:04:07.706Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4591to4597 - Repealed. Pub. L. 94–455, title XIX, § 1904(a)(1
 usc_title: 26
 usc_section: "4591to4597"
 chapter: 38
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 4591to4597"
-generated_at: "2026-03-30T04:00:34.861Z"
+generated_at: "2026-03-30T04:03:53.338Z"
 status: "repealed"
 ---
 

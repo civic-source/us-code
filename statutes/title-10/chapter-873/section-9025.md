@@ -3,9 +3,9 @@ title: "Section 9025 - Production of supplies and munitions: hours and pay of la
 usc_title: 10
 usc_section: "9025"
 chapter: 873
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 9025"
-generated_at: "2026-03-30T03:59:31.733Z"
+generated_at: "2026-03-30T04:02:49.767Z"
 status: "active"
 ---
 

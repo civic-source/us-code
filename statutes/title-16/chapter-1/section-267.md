@@ -3,9 +3,9 @@ title: "Section 267 - Authority of Secretary to acquire additional lands"
 usc_title: 16
 usc_section: "267"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 267"
-generated_at: "2026-03-30T04:00:01.557Z"
+generated_at: "2026-03-30T04:03:31.348Z"
 status: "active"
 ---
 

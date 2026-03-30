@@ -3,9 +3,9 @@ title: "Section 210 - Offer to procure appointive public office"
 usc_title: 18
 usc_section: "210"
 chapter: 11
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "18 U.S.C. § 210"
-generated_at: "2026-03-30T03:59:51.158Z"
+generated_at: "2026-03-30T04:03:17.126Z"
 status: "active"
 ---
 

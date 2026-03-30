@@ -3,9 +3,9 @@ title: "Section 21a - Amendment of articles of association"
 usc_title: 12
 usc_section: "21a"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 21a"
-generated_at: "2026-03-30T03:59:41.685Z"
+generated_at: "2026-03-30T04:03:08.939Z"
 status: "active"
 ---
 

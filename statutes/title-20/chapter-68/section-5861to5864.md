@@ -3,9 +3,9 @@ title: "Section 5861to5864 - Repealed. Pub. L. 103–382, title III, § 361(a) ,
 usc_title: 20
 usc_section: "5861to5864"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 5861to5864"
-generated_at: "2026-03-30T03:59:57.105Z"
+generated_at: "2026-03-30T04:03:21.781Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,10 @@ title: "Section 10311 - Impairment of voting rights of persons holding current r
 usc_title: 52
 usc_section: "10311"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-163"
 classification: "52 U.S.C. § 10311"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-03-30T04:04:43.374Z"
+status: "active"
 ---
 
 # § 10311. Impairment of voting rights of persons holding current registration

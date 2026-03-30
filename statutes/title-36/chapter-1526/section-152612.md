@@ -3,9 +3,9 @@ title: "Section 152612 - Annual report"
 usc_title: 36
 usc_section: "152612"
 chapter: 1526
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "36 U.S.C. § 152612"
-generated_at: "2026-03-30T04:00:50.931Z"
+generated_at: "2026-03-30T04:04:04.872Z"
 status: "active"
 ---
 

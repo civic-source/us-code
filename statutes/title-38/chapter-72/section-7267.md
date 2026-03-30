@@ -3,9 +3,9 @@ title: "Section 7267 - Decisions"
 usc_title: 38
 usc_section: "7267"
 chapter: 72
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 7267"
-generated_at: "2026-03-30T04:00:45.172Z"
+generated_at: "2026-03-30T04:04:07.705Z"
 status: "active"
 ---
 

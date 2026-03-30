@@ -3,9 +3,9 @@ title: "Section 353c - Prereview of television advertisements"
 usc_title: 21
 usc_section: "353c"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 353c"
-generated_at: "2026-03-30T04:00:10.461Z"
+generated_at: "2026-03-30T04:03:37.662Z"
 status: "active"
 ---
 

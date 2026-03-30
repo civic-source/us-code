@@ -3,9 +3,9 @@ title: "Section 6 - Southeastern Power Administration; deposit and availability 
 usc_title: 16
 usc_section: "6"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T04:00:01.779Z"
+generated_at: "2026-03-30T04:03:31.530Z"
 status: "active"
 ---
 

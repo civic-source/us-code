@@ -3,9 +3,9 @@ title: "Section 6to15a - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 
 usc_title: 42
 usc_section: "6to15a"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 6to15a"
-generated_at: "2026-03-30T04:01:26.786Z"
+generated_at: "2026-03-30T04:04:27.111Z"
 status: "repealed"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 15387 - Consultation with Standards Board and Board of Advisors"
+title: "Section 15387 - Transferred"
 usc_title: 42
 usc_section: "15387"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15387"
-generated_at: "2026-03-30T04:01:27.871Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15387. Consultation with Standards Board and Board of Advisors
-
-The Commission shall carry out its duties under this part in consultation with the Standards Board and the Board of Advisors.
+# § 15387. Transferred
 

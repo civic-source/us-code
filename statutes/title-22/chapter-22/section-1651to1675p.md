@@ -3,9 +3,9 @@ title: "Section 1651to1675p - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542
 usc_title: 22
 usc_section: "1651to1675p"
 chapter: 22
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 1651to1675p"
-generated_at: "2026-03-30T04:00:16.218Z"
+generated_at: "2026-03-30T04:03:40.439Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1962 - Authority for higher monthly installments payable to cert
 usc_title: 38
 usc_section: "1962"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 1962"
-generated_at: "2026-03-30T04:00:45.126Z"
+generated_at: "2026-03-30T04:04:07.661Z"
 status: "active"
 ---
 

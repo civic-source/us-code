@@ -3,9 +3,9 @@ title: "Section 1737 - Copy of officer’s bond"
 usc_title: 28
 usc_section: "1737"
 chapter: 115
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "28 U.S.C. § 1737"
-generated_at: "2026-03-30T04:00:20.978Z"
+generated_at: "2026-03-30T04:03:44.928Z"
 status: "active"
 ---
 

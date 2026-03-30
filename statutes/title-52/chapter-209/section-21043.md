@@ -3,9 +3,10 @@ title: "Section 21043 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21043"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 113-163"
 classification: "52 U.S.C. § 21043"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-03-30T04:04:43.380Z"
+status: "active"
 ---
 
 # § 21043. Authorization of appropriations

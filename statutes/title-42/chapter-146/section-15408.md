@@ -1,18 +1,13 @@
 ---
-title: "Section 15408 - Reports"
+title: "Section 15408 - Transferred"
 usc_title: 42
 usc_section: "15408"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15408"
-generated_at: "2026-03-30T04:01:27.872Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15408. Reports
+# § 15408. Transferred
 
-Not later than 6 months after the end of each fiscal year for which a State received a requirements payment under this subpart, the State shall submit a report to the Commission on the activities conducted with the funds provided during the year, and shall include in the report—
-
-  - **(1)** a list of expenditures made with respect to each category of activities described in section 15401(b) of this title ;
-  - **(2)** the number and type of articles of voting equipment obtained with the funds; and
-  - **(3)** an analysis and description of the activities funded under this subpart to meet the requirements of this chapter and an analysis and description of how such activities conform to the State plan under section 15404 of this title .

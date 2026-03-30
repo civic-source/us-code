@@ -3,9 +3,9 @@ title: "Section 4623 - Participation of national laboratories of Department of E
 usc_title: 15
 usc_section: "4623"
 chapter: 72
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 4623"
-generated_at: "2026-03-30T03:59:45.899Z"
+generated_at: "2026-03-30T04:03:12.675Z"
 status: "active"
 ---
 

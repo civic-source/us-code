@@ -3,9 +3,9 @@ title: "Section 3911 - Reports"
 usc_title: 19
 usc_section: "3911"
 chapter: 25
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "19 U.S.C. § 3911"
-generated_at: "2026-03-30T03:59:53.586Z"
+generated_at: "2026-03-30T04:03:18.796Z"
 status: "active"
 ---
 

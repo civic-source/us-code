@@ -1,18 +1,13 @@
 ---
-title: "Section 15325 - Powers"
+title: "Section 15325 - Transferred"
 usc_title: 42
 usc_section: "15325"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15325"
-generated_at: "2026-03-30T04:01:27.870Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.087Z"
+status: "transferred"
 ---
 
-# § 15325. Powers
+# § 15325. Transferred
 
-- **(a)** The Commission may hold such hearings for the purpose of carrying out this chapter, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this chapter. The Commission may administer oaths and affirmations to witnesses appearing before the Commission.
-- **(b)** The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out this chapter. Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
-- **(c)** The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-- **(d)** Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services that are necessary to enable the Commission to carry out its duties under this chapter.
-- **(e)** The Commission may contract with and compensate persons and Federal agencies for supplies and services without regard to section 6101 of title 41 .

@@ -1,39 +1,13 @@
 ---
-title: "Section 15361 - Technical Guidelines Development Committee"
+title: "Section 15361 - Transferred"
 usc_title: 42
 usc_section: "15361"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15361"
-generated_at: "2026-03-30T04:01:27.870Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.087Z"
+status: "transferred"
 ---
 
-# § 15361. Technical Guidelines Development Committee
+# § 15361. Transferred
 
-- **(a)** There is hereby established the Technical Guidelines Development Committee (hereafter in this subpart referred to as the “Development Committee”).
-- **(b)**
-  - **(1)** The Development Committee shall assist the Executive Director of the Commission in the development of the voluntary voting system guidelines.
-  - **(2)** The Development Committee shall provide its first set of recommendations under this section to the Executive Director of the Commission not later than 9 months after all of its members have been appointed.
-- **(c)**
-  - **(1)** The Development Committee shall be composed of the Director of the National Institute of Standards and Technology (who shall serve as its chair), together with a group of 14 other individuals appointed jointly by the Commission and the Director of the National Institute of Standards and Technology, consisting of the following:
-    - **(A)** An equal number of each of the following:
-      - **(i)** Members of the Standards Board.
-      - **(ii)** Members of the Board of Advisors.
-      - **(iii)** Members of the Architectural and Transportation Barrier Compliance Board under section 792 of title 29 .
-    - **(B)** A representative of the American National Standards Institute.
-    - **(C)** A representative of the Institute of Electrical and Electronics Engineers.
-    - **(D)** Two representatives of the National Association of State Election Directors selected by such Association who are not members of the Standards Board or Board of Advisors, and who are not of the same political party.
-    - **(E)** Other individuals with technical and scientific expertise relating to voting systems and voting equipment.
-  - **(2)** A majority of the members of the Development Committee shall constitute a quorum, except that the Development Committee may not conduct any business prior to the appointment of all of its members.
-- **(d)** Members of the Development Committee shall not receive any compensation for their service, but shall be paid travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Development Committee.
-- **(e)**
-  - **(1)** At the request of the Development Committee, the Director of the National Institute of Standards and Technology shall provide the Development Committee with technical support necessary for the Development Committee to carry out its duties under this part.
-  - **(2)** The technical support provided under paragraph (1) shall include intramural research and development in areas to support the development of the voluntary voting system guidelines under this subpart, including—
-    - **(A)** the security of computers, computer networks, and computer data storage used in voting systems, including the computerized list required under section 15483(a) of this title ;
-    - **(B)** methods to detect and prevent fraud;
-    - **(C)** the protection of voter privacy;
-    - **(D)** the role of human factors in the design and application of voting systems, including assistive technologies for individuals with disabilities (including blindness) and varying levels of literacy; and
-    - **(E)** remote access voting, including voting through the Internet.
-  - **(3)** No private sector individual or entity shall obtain any intellectual property rights to any guideline or the contents of any guideline (or any modification to any guideline) adopted by the Commission under this chapter.
-- **(f)** At the time the Commission adopts any voluntary voting system guideline pursuant to section 15362 of this title , the Development Committee shall cause to have published in the Federal Register the recommendations it provided under this section to the Executive Director of the Commission concerning the guideline adopted.

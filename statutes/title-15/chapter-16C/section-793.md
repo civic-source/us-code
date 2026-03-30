@@ -3,9 +3,9 @@ title: "Section 793 - Protection of public health and environment"
 usc_title: 15
 usc_section: "793"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 793"
-generated_at: "2026-03-30T03:59:45.682Z"
+generated_at: "2026-03-30T04:03:12.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2349 - Overseas Workload Program"
 usc_title: 10
 usc_section: "2349"
 chapter: 138
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2349"
-generated_at: "2026-03-30T03:59:31.626Z"
+generated_at: "2026-03-30T04:02:49.689Z"
 status: "active"
 ---
 

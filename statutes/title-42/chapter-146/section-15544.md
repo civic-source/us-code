@@ -1,15 +1,13 @@
 ---
-title: "Section 15544 - Other criminal penalties"
+title: "Section 15544 - Transferred"
 usc_title: 42
 usc_section: "15544"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15544"
-generated_at: "2026-03-30T04:01:27.874Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15544. Other criminal penalties
+# § 15544. Transferred
 
-- **(a)** Any individual who knowingly and willfully gives false information in registering or voting in violation of section 1973i(c) of this title , or conspires with another to violate such section, shall be fined or imprisoned, or both, in accordance with such section.
-- **(b)** Any individual who knowingly commits fraud or knowingly makes a false statement with respect to the naturalization, citizenry, or alien registry of such individual in violation of section 1015 of title 18 shall be fined or imprisoned, or both, in accordance with such section.

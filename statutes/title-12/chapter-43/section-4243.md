@@ -3,9 +3,9 @@ title: "Section 4243 - Representation"
 usc_title: 12
 usc_section: "4243"
 chapter: 43
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 4243"
-generated_at: "2026-03-30T03:59:41.938Z"
+generated_at: "2026-03-30T04:03:09.136Z"
 status: "active"
 ---
 

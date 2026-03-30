@@ -3,15 +3,15 @@ title: "Section 794c - Interagency Disability Coordinating Council"
 usc_title: 29
 usc_section: "794c"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 794c"
-generated_at: "2026-03-30T04:00:22.397Z"
+generated_at: "2026-03-30T04:03:46.388Z"
 status: "active"
 ---
 
 # § 794c. Interagency Disability Coordinating Council
 
-- **(a)** There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, and such other officials as may be designated by the President.
+- **(a)** There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, the Chairperson of the National Council on Disability, and such other officials as may be designated by the President.
 - **(b)** The Council shall—
   - **(1)** have the responsibility for developing and implementing agreements, policies, and practices designed to maximize effort, promote efficiency, and eliminate conflict, competition, duplication, and inconsistencies among the operations, functions, and jurisdictions of the various departments, agencies, and branches of the Federal Government responsible for the implementation and enforcement of the provisions of this subchapter, and the regulations prescribed thereunder;
   - **(2)** be responsible for developing and implementing agreements, policies, and practices designed to coordinate operations, functions, and jurisdictions of the various departments and agencies of the Federal Government responsible for promoting the full integration into society, independence, and productivity of individuals with disabilities; and

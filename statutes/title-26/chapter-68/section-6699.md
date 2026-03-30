@@ -3,9 +3,9 @@ title: "Section 6699 - Failure to file S corporation return"
 usc_title: 26
 usc_section: "6699"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 6699"
-generated_at: "2026-03-30T04:00:34.944Z"
+generated_at: "2026-03-30T04:03:53.414Z"
 status: "active"
 ---
 

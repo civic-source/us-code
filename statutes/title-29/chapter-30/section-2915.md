@@ -3,9 +3,9 @@ title: "Section 2915 - Technical assistance"
 usc_title: 29
 usc_section: "2915"
 chapter: 30
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 2915"
-generated_at: "2026-03-30T04:00:22.468Z"
+generated_at: "2026-03-30T04:03:46.457Z"
 status: "active"
 ---
 

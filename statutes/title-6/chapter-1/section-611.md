@@ -3,9 +3,9 @@ title: "Section 611 - Administration and coordination"
 usc_title: 6
 usc_section: "611"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "6 U.S.C. § 611"
-generated_at: "2026-03-30T03:59:16.604Z"
+generated_at: "2026-03-30T04:02:35.574Z"
 status: "active"
 ---
 

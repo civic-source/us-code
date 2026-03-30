@@ -3,9 +3,9 @@ title: "Section 1418 - Employment of land and naval forces in protection of righ
 usc_title: 48
 usc_section: "1418"
 chapter: 8
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "48 U.S.C. § 1418"
-generated_at: "2026-03-30T04:01:36.636Z"
+generated_at: "2026-03-30T04:04:31.404Z"
 status: "active"
 ---
 

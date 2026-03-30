@@ -3,9 +3,9 @@ title: "Section 3046 - Financial analysis and market surveys at request of eligi
 usc_title: 12
 usc_section: "3046"
 chapter: 31
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 3046"
-generated_at: "2026-03-30T03:59:41.913Z"
+generated_at: "2026-03-30T04:03:09.116Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 615b - Exportation of timber pulp wood and wood pulp from Alaska
 usc_title: 16
 usc_section: "615b"
 chapter: 4
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 615b"
-generated_at: "2026-03-30T04:00:01.731Z"
+generated_at: "2026-03-30T04:03:31.492Z"
 status: "active"
 ---
 

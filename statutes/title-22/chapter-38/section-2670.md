@@ -3,9 +3,9 @@ title: "Section 2670 - Insurance on motor vehicles in foreign countries; tie lin
 usc_title: 22
 usc_section: "2670"
 chapter: 38
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 2670"
-generated_at: "2026-03-30T04:00:16.283Z"
+generated_at: "2026-03-30T04:03:40.488Z"
 status: "active"
 ---
 

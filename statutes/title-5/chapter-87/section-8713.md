@@ -3,9 +3,9 @@ title: "Section 8713 - Effect of other statutes"
 usc_title: 5
 usc_section: "8713"
 chapter: 87
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "5 U.S.C. § 8713"
-generated_at: "2026-03-30T03:59:12.227Z"
+generated_at: "2026-03-30T04:02:26.731Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3216 - Reimbursement for franked mailings"
 usc_title: 39
 usc_section: "3216"
 chapter: 32
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "39 U.S.C. § 3216"
-generated_at: "2026-03-30T04:00:46.838Z"
+generated_at: "2026-03-30T04:04:05.638Z"
 status: "active"
 ---
 

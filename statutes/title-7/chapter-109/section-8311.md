@@ -3,9 +3,9 @@ title: "Section 8311 - Reimbursable agreements"
 usc_title: 7
 usc_section: "8311"
 chapter: 109
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 8311"
-generated_at: "2026-03-30T03:59:22.442Z"
+generated_at: "2026-03-30T04:02:40.466Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 331 - Treatment of charitable trusts for members of the Armed Fo
 usc_title: 6
 usc_section: "331"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "6 U.S.C. § 331"
-generated_at: "2026-03-30T03:59:16.592Z"
+generated_at: "2026-03-30T04:02:35.561Z"
 status: "active"
 ---
 
@@ -39,6 +39,6 @@ status: "active"
   - **(9)**
     - **(A)** When determining the amount of a distribution to any beneficiary described in paragraph (1), a Johnny Micheal Spann Patriot Trust should take into account the amount of any collateral source compensation that the beneficiary has received or is entitled to receive as a result of the death of an individual described in paragraph (1).
     - **(B)** Collateral source compensation includes all compensation from collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the death of an individual described in paragraph (1).
-- **(d)** Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activities described in clauses (i) and (ii) of section 431(20)(A) of title 2 so that a general solicitation of funds by an individual described in paragraph (1) of section 441i(e) of title 2 will be permissible if such solicitation meets the requirements of paragraph (4)(A) of such section.
+- **(d)** Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activities described in clauses (i) and (ii) of section 30101(20)(A) of title 52 so that a general solicitation of funds by an individual described in paragraph (1) of section 30125(e) of title 52 will be permissible if such solicitation meets the requirements of paragraph (4)(A) of such section.
 - **(e)** Notwithstanding any other provision of law, and in a manner consistent with the protection of intelligence sources and methods and sensitive law enforcement information, and other sensitive national security information, the Secretary of Defense, the Director of the Federal Bureau of Investigation, or the Director of Central Intelligence, or their designees, as applicable, may forward information received from an executor, administrator, or other legal representative of the estate of a decedent described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) of this section, to a Johnny Micheal Spann Patriot Trust on how to contact individuals eligible for a distribution under subsection (c)(1) of this section for the purpose of providing assistance from such Trust: Provided , That, neither forwarding nor failing to forward any information under this subsection shall create any cause of action against any Federal department, agency, officer, agent, or employee.
 - **(f)** Not later than 90 days after November 25, 2002 , the Secretary of Defense, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.

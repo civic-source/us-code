@@ -3,9 +3,9 @@ title: "Section 961 - Office expenses of clerks"
 usc_title: 28
 usc_section: "961"
 chapter: 57
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "28 U.S.C. § 961"
-generated_at: "2026-03-30T04:00:20.969Z"
+generated_at: "2026-03-30T04:03:44.919Z"
 status: "active"
 ---
 

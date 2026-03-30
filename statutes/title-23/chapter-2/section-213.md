@@ -3,9 +3,9 @@ title: "Section 213 - Transportation alternatives"
 usc_title: 23
 usc_section: "213"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "23 U.S.C. § 213"
-generated_at: "2026-03-30T04:00:06.866Z"
+generated_at: "2026-03-30T04:03:35.082Z"
 status: "active"
 ---
 

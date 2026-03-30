@@ -3,9 +3,9 @@ title: "Section 6444 - Report to Congress"
 usc_title: 22
 usc_section: "6444"
 chapter: 73
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 6444"
-generated_at: "2026-03-30T04:00:16.373Z"
+generated_at: "2026-03-30T04:03:40.558Z"
 status: "active"
 ---
 

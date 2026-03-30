@@ -3,9 +3,9 @@ title: "Section 31 - Repealed. Pub. L. 106–113, div. B, § 1000(a)(9) [title I
 usc_title: 35
 usc_section: "31"
 chapter: 3
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "35 U.S.C. § 31"
-generated_at: "2026-03-30T04:00:37.202Z"
+generated_at: "2026-03-30T04:03:55.616Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3342 - Repealed. Pub. L. 102–378, § 2(13)(A) , Oct. 2, 1992 ,
 usc_title: 5
 usc_section: "3342"
 chapter: 33
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "5 U.S.C. § 3342"
-generated_at: "2026-03-30T03:59:12.132Z"
+generated_at: "2026-03-30T04:02:26.669Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4201to4204 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 ,
 usc_title: 15
 usc_section: "4201to4204"
 chapter: 68
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 4201to4204"
-generated_at: "2026-03-30T03:59:45.893Z"
+generated_at: "2026-03-30T04:03:12.672Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2625 - Plan for tank farm waste at Hanford Nuclear Reservation"
 usc_title: 50
 usc_section: "2625"
 chapter: 42
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "50 U.S.C. § 2625"
-generated_at: "2026-03-30T04:02:01.582Z"
+generated_at: "2026-03-30T04:04:33.883Z"
 status: "active"
 ---
 

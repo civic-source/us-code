@@ -3,9 +3,9 @@ title: "Section 112 - Secretary; functions"
 usc_title: 6
 usc_section: "112"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "6 U.S.C. § 112"
-generated_at: "2026-03-30T03:59:16.576Z"
+generated_at: "2026-03-30T04:02:35.546Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(1)** except as otherwise provided by this chapter, may delegate any of the Secretary’s functions to any officer, employee, or organizational unit of the Department;
   - **(2)** shall have the authority to make contracts, grants, and cooperative agreements, and to enter into agreements with other executive agencies, as may be necessary and proper to carry out the Secretary’s responsibilities under this chapter or otherwise provided by law; and
   - **(3)** shall take reasonable steps to ensure that information systems and databases of the Department are compatible with each other and with appropriate databases of other Departments.
-- **(c)** With respect to homeland security, the Secretary shall coordinate through the Office of State and Local Coordination 1 1 So in original. Probably should be “Office of State and Local Government Coordination”. (established under section 361 of this title ) (including the provision of training and equipment) with State and local government personnel, agencies, and authorities, with the private sector, and with other entities, including by—
+- **(c)** With respect to homeland security, the Secretary shall coordinate through the Office of State and Local Coordination 1 1 So in original. Probably should be “Office for State and Local Government Coordination”. (established under section 361 of this title ) (including the provision of training and equipment) with State and local government personnel, agencies, and authorities, with the private sector, and with other entities, including by—
   - **(1)** coordinating with State and local government personnel, agencies, and authorities, and with the private sector, to ensure adequate planning, equipment, training, and exercise activities;
   - **(2)** coordinating and, as appropriate, consolidating, the Federal Government’s communications and systems of communications relating to homeland security with State and local government personnel, agencies, and authorities, the private sector, other entities, and the public; and
   - **(3)** distributing or, as appropriate, coordinating the distribution of, warnings and information to State and local government personnel, agencies, and authorities and to the public.

@@ -3,9 +3,9 @@ title: "Section 1404 - Port of entry technology demonstration program"
 usc_title: 6
 usc_section: "1404"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "6 U.S.C. § 1404"
-generated_at: "2026-03-30T03:59:16.619Z"
+generated_at: "2026-03-30T04:02:35.589Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** Under the demonstration program, the Commissioner shall test technologies that enhance port of entry operations, including those related to inspections, communications, port tracking, identification of persons and cargo, sensory devices, personal detection, decision support, and the detection and identification of weapons of mass destruction.
 - **(c)**
   - **(1)** The Commissioner shall carry out the demonstration program at not less than three sites and not more than five sites.
-  - **(2)** Of the sites selected under subsection (c)—
+  - **(2)** Of the sites selected under subsection (c)— 1 1 So in original. Probably should be “paragraph (1)—”.
     - **(A)** at least one shall be located on the northern border of the United States; and
     - **(B)** at least one shall be located on the southern border of the United States.
   - **(3)** To ensure that one of the facilities selected as a port of entry demonstration site for the demonstration program has the most up-to-date design, contains sufficient space to conduct the demonstration program, has a traffic volume low enough to easily incorporate new technologies without interrupting normal processing activity, and can efficiently carry out demonstration and port of entry operations, one port of entry selected as a demonstration site may—

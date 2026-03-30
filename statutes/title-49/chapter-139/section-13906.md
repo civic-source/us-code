@@ -3,9 +3,9 @@ title: "Section 13906 - Security of motor carriers, motor private carriers, brok
 usc_title: 49
 usc_section: "13906"
 chapter: 139
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "49 U.S.C. § 13906"
-generated_at: "2026-03-30T04:01:43.236Z"
+generated_at: "2026-03-30T04:04:36.306Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
   - **(7)**
     - **(A)** Either the Secretary or the Attorney General of the United States may bring a civil action in an appropriate district court of the United States to enforce the requirements of this subsection or a regulation prescribed or order issued under this subsection. The court may award appropriate relief, including injunctive relief.
     - **(B)** If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be liable to the United States for a civil penalty in an amount not to exceed $10,000.
-    - **(C)** If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provider broker financial security for 3 years.
+    - **(C)** If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provider 2 2 So in original. Probably should be “provide”. broker financial security for 3 years.
   - **(8)** The amount of the financial security required under this subsection may not be reduced by deducting attorney’s fees or administrative costs.
 - **(c)**
   - **(1)**
@@ -55,7 +55,7 @@ status: "active"
   - **(2)**
     - **(A)** A surety bond, trust fund, or other financial security obtained under paragraph (1) shall be available to pay any claim against a freight forwarder arising from its failure to pay freight charges under its contracts, agreements, or arrangements for transportation subject to jurisdiction under chapter 135 if—
       - **(i)** subject to the review by the surety provider, the freight forwarder consents to the payment;
-      - **(ii)** in the case the freight forwarder does not respond to adequate notice to address the validity of the claim, the surety provider determines the claim is valid; or
+      - **(ii)** in the case 3 3 So in original. the freight forwarder does not respond to adequate notice to address the validity of the claim, the surety provider determines the claim is valid; or
       - **(iii)** the claim—
         - **(I)** is not resolved within a reasonable period of time following a reasonable attempt by the claimant to resolve the claim under clauses (i) and (ii); and
         - **(II)** is reduced to a judgment against the freight forwarder.

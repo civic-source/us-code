@@ -3,9 +3,9 @@ title: "Section 5702 - Furnishing of records"
 usc_title: 38
 usc_section: "5702"
 chapter: 57
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 5702"
-generated_at: "2026-03-30T04:00:45.168Z"
+generated_at: "2026-03-30T04:04:07.701Z"
 status: "active"
 ---
 

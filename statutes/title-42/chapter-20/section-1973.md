@@ -1,15 +1,13 @@
 ---
-title: "Section 1973 - Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation"
+title: "Section 1973 - Transferred"
 usc_title: 42
 usc_section: "1973"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1973"
-generated_at: "2026-03-30T04:01:27.360Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.620Z"
+status: "transferred"
 ---
 
-# § 1973. Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation
+# § 1973. Transferred
 
-- **(a)** No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title , as provided in subsection (b) of this section.
-- **(b)** A violation of subsection (a) of this section is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) of this section in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: Provided , That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.

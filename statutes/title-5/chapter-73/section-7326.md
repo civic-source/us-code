@@ -3,9 +3,9 @@ title: "Section 7326 - Penalties"
 usc_title: 5
 usc_section: "7326"
 chapter: 73
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "5 U.S.C. § 7326"
-generated_at: "2026-03-30T03:59:12.183Z"
+generated_at: "2026-03-30T04:02:26.702Z"
 status: "active"
 ---
 

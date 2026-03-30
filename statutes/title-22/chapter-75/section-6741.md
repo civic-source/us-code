@@ -3,9 +3,9 @@ title: "Section 6741 - Reports required by United States National Authority"
 usc_title: 22
 usc_section: "6741"
 chapter: 75
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 6741"
-generated_at: "2026-03-30T04:00:16.379Z"
+generated_at: "2026-03-30T04:03:40.562Z"
 status: "active"
 ---
 

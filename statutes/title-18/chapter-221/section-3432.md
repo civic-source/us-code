@@ -3,9 +3,9 @@ title: "Section 3432 - Indictment and list of jurors and witnesses for prisoner 
 usc_title: 18
 usc_section: "3432"
 chapter: 221
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "18 U.S.C. § 3432"
-generated_at: "2026-03-30T03:59:51.248Z"
+generated_at: "2026-03-30T04:03:17.199Z"
 status: "active"
 ---
 

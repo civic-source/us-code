@@ -3,9 +3,9 @@ title: "Section 4564 - Navy and Marine Corps: camp equipment and transportation;
 usc_title: 10
 usc_section: "4564"
 chapter: 435
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 4564"
-generated_at: "2026-03-30T03:59:31.696Z"
+generated_at: "2026-03-30T04:02:49.739Z"
 status: "active"
 ---
 

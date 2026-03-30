@@ -3,9 +3,9 @@ title: "Section 3148 - Oil and gas leasing program for non-North Slope Federal l
 usc_title: 16
 usc_section: "3148"
 chapter: 51
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 3148"
-generated_at: "2026-03-30T04:00:01.895Z"
+generated_at: "2026-03-30T04:03:31.622Z"
 status: "active"
 ---
 

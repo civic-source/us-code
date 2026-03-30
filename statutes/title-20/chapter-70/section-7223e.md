@@ -3,9 +3,9 @@ title: "Section 7223e - Limitation on administrative costs"
 usc_title: 20
 usc_section: "7223e"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 7223e"
-generated_at: "2026-03-30T03:59:57.157Z"
+generated_at: "2026-03-30T04:03:21.825Z"
 status: "active"
 ---
 

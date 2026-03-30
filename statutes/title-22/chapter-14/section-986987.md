@@ -3,9 +3,9 @@ title: "Section 986987 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct.
 usc_title: 22
 usc_section: "986987"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 986987"
-generated_at: "2026-03-30T04:00:16.203Z"
+generated_at: "2026-03-30T04:03:40.428Z"
 status: "repealed"
 ---
 

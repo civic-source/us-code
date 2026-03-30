@@ -3,9 +3,9 @@ title: "Section 12592 - Selection of national service participants"
 usc_title: 42
 usc_section: "12592"
 chapter: 129
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 12592"
-generated_at: "2026-03-30T04:01:27.784Z"
+generated_at: "2026-03-30T04:04:28.008Z"
 status: "active"
 ---
 

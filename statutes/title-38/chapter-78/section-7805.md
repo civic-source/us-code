@@ -3,9 +3,9 @@ title: "Section 7805 - Revolving fund"
 usc_title: 38
 usc_section: "7805"
 chapter: 78
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 7805"
-generated_at: "2026-03-30T04:00:45.187Z"
+generated_at: "2026-03-30T04:04:07.719Z"
 status: "active"
 ---
 

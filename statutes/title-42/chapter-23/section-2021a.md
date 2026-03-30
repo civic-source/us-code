@@ -3,9 +3,9 @@ title: "Section 2021a - Storage or disposal facility planning"
 usc_title: 42
 usc_section: "2021a"
 chapter: 23
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 2021a"
-generated_at: "2026-03-30T04:01:27.380Z"
+generated_at: "2026-03-30T04:04:27.635Z"
 status: "active"
 ---
 

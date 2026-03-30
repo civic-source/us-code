@@ -3,9 +3,9 @@ title: "Section 1363 - Deposit of and interest on cash received to secure immigr
 usc_title: 8
 usc_section: "1363"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "8 U.S.C. § 1363"
-generated_at: "2026-03-30T03:59:17.520Z"
+generated_at: "2026-03-30T04:02:36.429Z"
 status: "active"
 ---
 

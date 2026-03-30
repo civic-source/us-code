@@ -3,9 +3,9 @@ title: "Section 281 - Children taking lands in severalty not excluded"
 usc_title: 25
 usc_section: "281"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 281"
-generated_at: "2026-03-30T04:00:08.962Z"
+generated_at: "2026-03-30T04:03:36.492Z"
 status: "active"
 ---
 

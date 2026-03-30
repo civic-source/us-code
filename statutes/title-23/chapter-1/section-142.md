@@ -3,9 +3,9 @@ title: "Section 142 - Public transportation"
 usc_title: 23
 usc_section: "142"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "23 U.S.C. § 142"
-generated_at: "2026-03-30T04:00:06.854Z"
+generated_at: "2026-03-30T04:03:35.074Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** To encourage the development, improvement, and use of public mass transportation systems operating buses on Federal-aid highways for the transportation of passengers, so as to increase the traffic capacity of the Federal-aid highways for the movement of persons, the Secretary may approve as a project on any Federal-aid highway the construction of exclusive or preferential high occupancy vehicle lanes, highway traffic control devices, bus passenger loading areas and facilities (including shelters), and fringe and transportation corridor parking facilities, which may include electric vehicle charging stations or natural gas vehicle refueling stations, to serve high occupancy vehicle and public mass transportation passengers, and sums apportioned under section 104(b) of this title shall be available to finance the cost of projects under this paragraph. If fees are charged for the use of any parking facility constructed under this section, the rate thereof shall not be in excess of that required for maintenance and operation of the facility and the cost of providing shuttle service to and from the facility (including compensation to any person for operating the facility and for providing such shuttle service).
   - **(2)** In addition to the projects under paragraph (1), the Secretary may approve payment from sums apportioned under section 104(b)(2) for carrying out any capital transit project eligible for assistance under chapter 53 of title 49, capital improvement to provide access and coordination between intercity and rural bus service, and construction of facilities to provide connections between highway transportation and other modes of transportation.
 - **(b)** Sums apportioned in accordance with section 104(b)(1) shall be available to finance the Federal share of projects for exclusive or preferential high occupancy vehicle, truck, and emergency vehicle routes or lanes. Routes constructed under this subsection shall not be subject to the third sentence of section 109(b) of this title .
-- **(c)** The Secretary may approve as a project on any Federal-aid highwayfor payment from sums apportioned under section 104(b) modifications to existing highways eligible under the program that is the source of the funds on such highway necessary to accommodate other modes of transportation if such modifications will not adversely affect automotive safety.
+- **(c)** The Secretary may approve as a project on any Federal-aid highway for payment from sums apportioned under section 104(b) modifications to existing highways eligible under the program that is the source of the funds on such highway necessary to accommodate other modes of transportation if such modifications will not adversely affect automotive safety.
 - **(d)** Any project carried out under this section in an urbanized area shall be subject to the metropolitan planning requirements of section 134.
 - **(e)**
   - **(1)** For all purposes of this title, a project authorized by subsection (a)(1) of this section shall be deemed to be a highway project.

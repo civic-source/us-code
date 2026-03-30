@@ -3,9 +3,9 @@ title: "Section 210311 - Service of process"
 usc_title: 36
 usc_section: "210311"
 chapter: 2103
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "36 U.S.C. § 210311"
-generated_at: "2026-03-30T04:00:50.935Z"
+generated_at: "2026-03-30T04:04:04.877Z"
 status: "active"
 ---
 

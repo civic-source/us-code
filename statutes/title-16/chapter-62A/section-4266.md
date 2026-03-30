@@ -3,9 +3,9 @@ title: "Section 4266 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4266"
 chapter: 62
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 4266"
-generated_at: "2026-03-30T04:00:01.932Z"
+generated_at: "2026-03-30T04:03:31.651Z"
 status: "active"
 ---
 

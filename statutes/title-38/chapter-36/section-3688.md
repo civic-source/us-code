@@ -3,9 +3,9 @@ title: "Section 3688 - Measurement of courses"
 usc_title: 38
 usc_section: "3688"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 3688"
-generated_at: "2026-03-30T04:00:45.150Z"
+generated_at: "2026-03-30T04:04:07.684Z"
 status: "active"
 ---
 

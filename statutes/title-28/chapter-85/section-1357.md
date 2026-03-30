@@ -3,9 +3,9 @@ title: "Section 1357 - Injuries under Federal laws"
 usc_title: 28
 usc_section: "1357"
 chapter: 85
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "28 U.S.C. § 1357"
-generated_at: "2026-03-30T04:00:20.972Z"
+generated_at: "2026-03-30T04:03:44.922Z"
 status: "active"
 ---
 

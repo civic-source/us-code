@@ -3,9 +3,9 @@ title: "Section 10704 - Duties of consular officers"
 usc_title: 46
 usc_section: "10704"
 chapter: 107
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "46 U.S.C. § 10704"
-generated_at: "2026-03-30T04:01:51.330Z"
+generated_at: "2026-03-30T04:04:32.414Z"
 status: "active"
 ---
 

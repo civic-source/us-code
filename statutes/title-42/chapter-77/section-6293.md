@@ -3,9 +3,9 @@ title: "Section 6293 - Test procedures"
 usc_title: 42
 usc_section: "6293"
 chapter: 77
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 6293"
-generated_at: "2026-03-30T04:01:27.547Z"
+generated_at: "2026-03-30T04:04:27.789Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(11)** Test procedures for traffic signal modules and pedestrian modules shall be based on the test method used under the Energy Star program of the Environmental Protection Agency for traffic signal modules, as in effect on August 8, 2005 .
   - **(12)**
     - **(A)** Test procedures for medium base compact fluorescent lamps shall be based on the test methods for compact fluorescent lamps used under the August 9, 2001 , version of the Energy Star program of the Environmental Protection Agency and the Department of Energy.
-    - **(B)** Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) of this title .
+    - **(B)** Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) 1 1 So in original. Probably should be section “6295(bb)”. of this title.
     - **(C)** Notwithstanding subparagraph (B), if manufacturers document engineering predictions and analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
   - **(13)** Test procedures for dehumidifiers shall be based on the test criteria used under the Energy Star Program Requirements for Dehumidifiers developed by the Environmental Protection Agency, as in effect on August 8, 2005 , unless revised by the Secretary pursuant to this section.
   - **(14)** The test procedure for measuring flow rate for commercial prerinse spray valves shall be based on American Society for Testing and Materials Standard F2324, entitled “Standard Test Method for Pre-Rinse Spray Valves”.

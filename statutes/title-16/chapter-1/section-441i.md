@@ -3,9 +3,9 @@ title: "Section 441i - Exchanges of land"
 usc_title: 16
 usc_section: "441i"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 441i"
-generated_at: "2026-03-30T04:00:01.616Z"
+generated_at: "2026-03-30T04:03:31.398Z"
 status: "active"
 ---
 

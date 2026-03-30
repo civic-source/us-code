@@ -3,9 +3,9 @@ title: "Section 300a21to300a28 - Repealed. Pub. L. 97–35, title IX, § 955(b) 
 usc_title: 42
 usc_section: "300a21to300a28"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 300a21to300a28"
-generated_at: "2026-03-30T04:01:26.937Z"
+generated_at: "2026-03-30T04:04:27.233Z"
 status: "repealed"
 ---
 

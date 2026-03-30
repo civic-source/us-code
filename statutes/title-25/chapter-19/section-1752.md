@@ -3,9 +3,9 @@ title: "Section 1752 - Definitions"
 usc_title: 25
 usc_section: "1752"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 1752"
-generated_at: "2026-03-30T04:00:09.074Z"
+generated_at: "2026-03-30T04:03:36.574Z"
 status: "active"
 ---
 

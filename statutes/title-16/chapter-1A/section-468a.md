@@ -3,9 +3,9 @@ title: "Section 468a - Principal office of National Trust Commission"
 usc_title: 16
 usc_section: "468a"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 468a"
-generated_at: "2026-03-30T04:00:01.686Z"
+generated_at: "2026-03-30T04:03:31.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5543 - Compensatory time off"
 usc_title: 5
 usc_section: "5543"
 chapter: 55
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "5 U.S.C. § 5543"
-generated_at: "2026-03-30T03:59:12.159Z"
+generated_at: "2026-03-30T04:02:26.685Z"
 status: "active"
 ---
 

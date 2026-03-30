@@ -3,9 +3,9 @@ title: "Section 1232 - Enhancing efforts to combat the trafficking of children"
 usc_title: 8
 usc_section: "1232"
 chapter: 12
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "8 U.S.C. § 1232"
-generated_at: "2026-03-30T03:59:17.507Z"
+generated_at: "2026-03-30T04:02:36.418Z"
 status: "active"
 ---
 
@@ -85,7 +85,7 @@ status: "active"
         - **(II)** the Committee on Health, Education, Labor, and Pensions of the Senate;
         - **(III)** the Committee on the Judiciary of the House of Representatives; and
         - **(IV)** the Committee on Education and the Workforce of the House of Representatives.
-    - **(F)** There are authorized to be appropriated to the Secretary and Human Services to carry out this subsection—
+    - **(F)** There are authorized to be appropriated to the Secretary and Human Services 3 3 So in original. Probably should be “Secretary of Health and Human Services”. to carry out this subsection—
       - **(i)** $1,000,000 for each of the fiscal years 2014 and 2015; and
       - **(ii)** $2,000,000 for each of the fiscal years 2016 and 2017.
 - **(d)**

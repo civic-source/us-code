@@ -3,9 +3,9 @@ title: "Section 387e - Annual registration"
 usc_title: 21
 usc_section: "387e"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 387e"
-generated_at: "2026-03-30T04:00:10.516Z"
+generated_at: "2026-03-30T04:03:37.710Z"
 status: "active"
 ---
 

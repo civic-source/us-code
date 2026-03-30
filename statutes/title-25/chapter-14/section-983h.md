@@ -3,9 +3,9 @@ title: "Section 983h - Economic development plan"
 usc_title: 25
 usc_section: "983h"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 983h"
-generated_at: "2026-03-30T04:00:09.022Z"
+generated_at: "2026-03-30T04:03:36.540Z"
 status: "active"
 ---
 

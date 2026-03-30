@@ -3,9 +3,9 @@ title: "Section 7211 - Allotment to States"
 usc_title: 20
 usc_section: "7211"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 7211"
-generated_at: "2026-03-30T03:59:57.154Z"
+generated_at: "2026-03-30T04:03:21.821Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22107 - Records, audits, and information"
 usc_title: 49
 usc_section: "22107"
 chapter: 221
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "49 U.S.C. § 22107"
-generated_at: "2026-03-30T04:01:43.250Z"
+generated_at: "2026-03-30T04:04:36.318Z"
 status: "active"
 ---
 

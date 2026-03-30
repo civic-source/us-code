@@ -3,9 +3,9 @@ title: "Section 3676 - Approval of nonaccredited courses"
 usc_title: 38
 usc_section: "3676"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 3676"
-generated_at: "2026-03-30T04:00:45.148Z"
+generated_at: "2026-03-30T04:04:07.682Z"
 status: "active"
 ---
 

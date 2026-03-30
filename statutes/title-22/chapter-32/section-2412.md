@@ -3,9 +3,9 @@ title: "Section 2412 - Limitation on foreign assistance appropriations"
 usc_title: 22
 usc_section: "2412"
 chapter: 32
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 2412"
-generated_at: "2026-03-30T04:00:16.267Z"
+generated_at: "2026-03-30T04:03:40.475Z"
 status: "active"
 ---
 

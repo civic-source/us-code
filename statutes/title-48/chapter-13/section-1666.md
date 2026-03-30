@@ -3,9 +3,9 @@ title: "Section 1666 - Extension of scientific, technical, and other assistance;
 usc_title: 48
 usc_section: "1666"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "48 U.S.C. § 1666"
-generated_at: "2026-03-30T04:01:36.647Z"
+generated_at: "2026-03-30T04:04:31.413Z"
 status: "active"
 ---
 

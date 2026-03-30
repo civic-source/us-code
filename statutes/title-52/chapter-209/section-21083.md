@@ -3,9 +3,10 @@ title: "Section 21083 - Computerized statewide voter registration list requireme
 usc_title: 52
 usc_section: "21083"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 113-163"
 classification: "52 U.S.C. § 21083"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-03-30T04:04:43.380Z"
+status: "active"
 ---
 
 # § 21083. Computerized statewide voter registration list requirements and requirements for voters who register by mail
@@ -46,7 +47,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
       - **(iii)** The State shall determine whether the information provided by an individual is sufficient to meet the requirements of this subparagraph, in accordance with State law.
     - **(B)**
       - **(i)** The chief State election official and the official responsible for the State motor vehicle authority of a State shall enter into an agreement to match information in the database of the statewide voter registration system with information in the database of the motor vehicle authority to the extent required to enable each such official to verify the accuracy of the information provided on applications for voter registration.
-      - **(ii)** The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) 1 1 See References in Text note below. of title 42 (as added by subparagraph (C)).
+      - **(ii)** The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) of title 42 (as added by subparagraph (C)).
     - **(C)**
     - **(D)** In the case of a State which is permitted to use social security numbers, and provides for the use of social security numbers, on applications for voter registration, in accordance with section 7 of the Privacy Act of 1974 ( 5 U.S.C. 552a note), the provisions of this paragraph shall be optional.
 - **(b)**

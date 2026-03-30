@@ -3,9 +3,9 @@ title: "Section 6003 - Report to Congress"
 usc_title: 15
 usc_section: "6003"
 chapter: 86
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 6003"
-generated_at: "2026-03-30T03:59:45.918Z"
+generated_at: "2026-03-30T04:03:12.684Z"
 status: "active"
 ---
 

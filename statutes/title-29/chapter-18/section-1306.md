@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T04:00:22.435Z"
+generated_at: "2026-03-30T04:03:46.425Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
       - **(i)** in the case of a single-employer plan, an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
         - **(I)** for plan years beginning after December 31, 2005 , and before January 1, 2013 , $30;
         - **(II)** for plan years beginning after December 31, 2012 , and before January 1, 2014 , $42;
-        - **(III)** for plan years beginning after December 31, 2013 and before January 1, 2015 ,, 1 1 So in original. The second comma probably should follow “2013”. $49. 2 2 So in original. The period probably should be a semicolon.
+        - **(III)** for plan years beginning after December 31, 2013 and before January 1, 2015 ,, 1 1 So in original. $49. 2 2 So in original. The period probably should be a semicolon.
         - **(IV)** for plan years beginning after December 31, 2014 , and before January 1, 2016 , $57; and
         - **(V)** for plan years beginning after December 31, 2015 , and before January 1, 2017 , $64.
       - **(ii)** in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—

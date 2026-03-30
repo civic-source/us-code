@@ -3,9 +3,9 @@ title: "Section 112 - Requirements for and contracts with prescription drug plan
 usc_title: 42
 usc_section: "112"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T04:01:27.172Z"
+generated_at: "2026-03-30T04:04:27.446Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 436 - Funding-based limits on benefits and benefit accruals unde
 usc_title: 26
 usc_section: "436"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-30T04:00:34.706Z"
+generated_at: "2026-03-30T04:03:53.195Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
   - **(3)** Paragraph (1) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant’s compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
 - **(d)**
   - **(1)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
-  - **(2)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
+  - **(2)** A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
   - **(3)**
     - **(A)** A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan’s adjusted funding target attainment percentage for a plan year is 60 percent or greater but less than 80 percent, the plan may not pay any prohibited payment after the valuation date for the plan year to the extent the amount of the payment exceeds the lesser of—
       - **(i)** 50 percent of the amount of the payment which could be made without regard to this section, or

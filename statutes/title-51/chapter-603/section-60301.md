@@ -3,9 +3,9 @@ title: "Section 60301 - Definitions"
 usc_title: 51
 usc_section: "60301"
 chapter: 603
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "51 U.S.C. § 60301"
-generated_at: "2026-03-30T04:02:07.601Z"
+generated_at: "2026-03-30T04:04:42.914Z"
 status: "active"
 ---
 

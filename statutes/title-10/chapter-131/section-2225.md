@@ -3,9 +3,9 @@ title: "Section 2225 - Information technology purchases: tracking and management
 usc_title: 10
 usc_section: "2225"
 chapter: 131
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2225"
-generated_at: "2026-03-30T03:59:31.607Z"
+generated_at: "2026-03-30T04:02:49.675Z"
 status: "active"
 ---
 

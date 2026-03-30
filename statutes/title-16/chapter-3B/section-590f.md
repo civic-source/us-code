@@ -3,9 +3,9 @@ title: "Section 590f - Authorization of appropriations and conservation technica
 usc_title: 16
 usc_section: "590f"
 chapter: 3
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 590f"
-generated_at: "2026-03-30T04:00:01.728Z"
+generated_at: "2026-03-30T04:03:31.489Z"
 status: "active"
 ---
 

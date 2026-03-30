@@ -3,9 +3,9 @@ title: "Section 1607 - Administrative enforcement"
 usc_title: 15
 usc_section: "1607"
 chapter: 41
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 1607"
-generated_at: "2026-03-30T03:59:45.729Z"
+generated_at: "2026-03-30T04:03:12.586Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(A)** if it would have a significantly adverse impact upon the safety or soundness of the creditor, but in any such case, the agency may—
       - **(i)** require a partial adjustment in an amount which does not have such an impact; or
       - **(ii)** require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act [ 12 U.S.C. 1831 o ];
-    - **(B)** the 2 2 So in original. Probably should be preceded by “if”. amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
+    - **(B)** the 1 1 So in original. Probably should be preceded by “if”. amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
     - **(C)** except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, in the case of an open-end credit plan, more than two years after the violation, or in the case of any other extension of credit, as follows:
       - **(i)** with respect to creditors that are subject to examination by the agencies referred to in paragraphs (1) through (3) of subsection (a) of this section, except in connection with violations arising from practices identified in the current examination and only in connection with transactions that are consummated after the date of the immediately preceding examination, except that where practices giving rise to violations identified in earlier examinations have not been corrected, adjustments for those violations shall be required in connection with transactions consummated after the date of examination in which such practices were first identified;
       - **(ii)** with respect to creditors that are not subject to examination by such agencies, except in connection with transactions that are consummated after May 10, 1978 ; and

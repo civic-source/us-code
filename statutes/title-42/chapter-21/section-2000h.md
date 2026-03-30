@@ -3,9 +3,9 @@ title: "Section 2000h - Criminal contempt proceedings: trial by jury, criminal p
 usc_title: 42
 usc_section: "2000h"
 chapter: 21
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 2000h"
-generated_at: "2026-03-30T04:01:27.372Z"
+generated_at: "2026-03-30T04:04:27.629Z"
 status: "active"
 ---
 

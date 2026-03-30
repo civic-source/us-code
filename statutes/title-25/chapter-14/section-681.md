@@ -3,9 +3,9 @@ title: "Section 681 - Per capita payment to tribal members; rules and regulation
 usc_title: 25
 usc_section: "681"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 681"
-generated_at: "2026-03-30T04:00:09.007Z"
+generated_at: "2026-03-30T04:03:36.527Z"
 status: "active"
 ---
 

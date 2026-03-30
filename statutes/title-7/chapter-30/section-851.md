@@ -3,9 +3,9 @@ title: "Section 851 - Declaration of policy"
 usc_title: 7
 usc_section: "851"
 chapter: 30
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "7 U.S.C. § 851"
-generated_at: "2026-03-30T03:59:22.207Z"
+generated_at: "2026-03-30T04:02:40.260Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5154 - Repealed. Pub. L. 89–718, § 35(5) , Nov. 2, 1966 , 80 
 usc_title: 10
 usc_section: "5154"
 chapter: 513
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 5154"
-generated_at: "2026-03-30T03:59:31.703Z"
+generated_at: "2026-03-30T04:02:49.745Z"
 status: "repealed"
 ---
 

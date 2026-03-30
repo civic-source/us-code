@@ -1,15 +1,13 @@
 ---
-title: "Section 454 - Partial invalidity"
+title: "Section 454 - Transferred"
 usc_title: 2
 usc_section: "454"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 454"
-generated_at: "2026-03-30T03:59:14.038Z"
-status: "active"
+generated_at: "2026-03-30T04:02:32.874Z"
+status: "transferred"
 ---
 
-# § 454. Partial invalidity
-
-If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the Act and the application of such provision to other persons and circumstances shall not be affected thereby.
+# § 454. Transferred
 

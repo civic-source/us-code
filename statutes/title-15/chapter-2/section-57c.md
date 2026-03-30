@@ -3,9 +3,9 @@ title: "Section 57c - Authorization of appropriations"
 usc_title: 15
 usc_section: "57c"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 57c"
-generated_at: "2026-03-30T03:59:45.465Z"
+generated_at: "2026-03-30T04:03:12.427Z"
 status: "active"
 ---
 

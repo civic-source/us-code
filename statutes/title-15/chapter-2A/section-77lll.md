@@ -3,9 +3,9 @@ title: "Section 77lll - Bondholders’ lists"
 usc_title: 15
 usc_section: "77lll"
 chapter: 2
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 77lll"
-generated_at: "2026-03-30T03:59:45.483Z"
+generated_at: "2026-03-30T04:03:12.441Z"
 status: "active"
 ---
 

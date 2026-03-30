@@ -3,9 +3,9 @@ title: "Section 3831 - Conservation reserve"
 usc_title: 16
 usc_section: "3831"
 chapter: 58
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 3831"
-generated_at: "2026-03-30T04:00:01.914Z"
+generated_at: "2026-03-30T04:03:31.636Z"
 status: "active"
 ---
 

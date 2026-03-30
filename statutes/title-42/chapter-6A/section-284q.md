@@ -3,9 +3,9 @@ title: "Section 284q - Pain research"
 usc_title: 42
 usc_section: "284q"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 284q"
-generated_at: "2026-03-30T04:01:26.867Z"
+generated_at: "2026-03-30T04:04:27.181Z"
 status: "active"
 ---
 

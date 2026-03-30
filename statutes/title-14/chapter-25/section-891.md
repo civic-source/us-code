@@ -3,9 +3,9 @@ title: "Section 891 - Flags; pennants; uniforms and insignia"
 usc_title: 14
 usc_section: "891"
 chapter: 25
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "14 U.S.C. § 891"
-generated_at: "2026-03-30T03:59:35.789Z"
+generated_at: "2026-03-30T04:02:52.181Z"
 status: "active"
 ---
 

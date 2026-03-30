@@ -3,9 +3,9 @@ title: "Section 5303 - Statement of policy"
 usc_title: 22
 usc_section: "5303"
 chapter: 62
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 5303"
-generated_at: "2026-03-30T04:00:16.350Z"
+generated_at: "2026-03-30T04:03:40.538Z"
 status: "active"
 ---
 

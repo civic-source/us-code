@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-30T04:00:34.699Z"
+generated_at: "2026-03-30T04:03:53.189Z"
 status: "active"
 ---
 
@@ -207,7 +207,7 @@ status: "active"
   - **(2)**
     - **(A)** For purposes of this section, the term “effective interest rate” means, with respect to any plan for any plan year, the single rate of interest which, if used to determine the present value of the plan’s accrued or earned benefits referred to in subsection (d)(1), would result in an amount equal to the funding target of the plan for such plan year.
     - **(B)** For purposes of determining the funding target and target normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
-      - **(i)** in the case of benefits reasonably determined to be payable during the 5-year period beginning on the first day of the plan year, the first segment rate with respect to the applicable month,
+      - **(i)** in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
       - **(ii)** in the case of benefits reasonably determined to be payable during the 15-year period beginning at the end of the period described in clause (i), the second segment rate with respect to the applicable month, and
       - **(iii)** in the case of benefits reasonably determined to be payable after the period described in clause (ii), the third segment rate with respect to the applicable month.
     - **(C)** For purposes of this paragraph—
@@ -216,7 +216,7 @@ status: "active"
       - **(iii)** The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
       - **(iv)**
         - **(I)** If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
-        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012 90% 110% 2013 85% 115% 2014 80% 120% 2015 75% 125% After 2015 70% 130%.
+        - **(II)** For purposes of subclause (I), the applicable minimum percentage and the applicable maximum percentage for a plan year beginning in a calendar year shall be determined in accordance with the following table: If the calendar year is: The applicable minimum percentage is: The applicable maximum percentage is: 2012, 2013, 2014, 2015, 2016, or 2017 90% 110% 2018 85% 115% 2019 80% 120% 2020 75% 125% After 2020 70% 130%.
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary.

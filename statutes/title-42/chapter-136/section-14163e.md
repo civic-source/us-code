@@ -3,9 +3,9 @@ title: "Section 14163e - Authorization of appropriations"
 usc_title: 42
 usc_section: "14163e"
 chapter: 136
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 14163e"
-generated_at: "2026-03-30T04:01:27.851Z"
+generated_at: "2026-03-30T04:04:28.072Z"
 status: "active"
 ---
 

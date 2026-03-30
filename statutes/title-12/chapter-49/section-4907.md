@@ -3,9 +3,9 @@ title: "Section 4907 - Civil liability"
 usc_title: 12
 usc_section: "4907"
 chapter: 49
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "12 U.S.C. § 4907"
-generated_at: "2026-03-30T03:59:41.969Z"
+generated_at: "2026-03-30T04:03:09.160Z"
 status: "active"
 ---
 

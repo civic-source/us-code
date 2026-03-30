@@ -3,9 +3,9 @@ title: "Section 228 - Biannual reports on allocation of funds within operation a
 usc_title: 10
 usc_section: "228"
 chapter: 9
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 228"
-generated_at: "2026-03-30T03:59:31.487Z"
+generated_at: "2026-03-30T04:02:49.584Z"
 status: "active"
 ---
 

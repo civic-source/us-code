@@ -3,9 +3,9 @@ title: "Section 4001 - Imposition of tax"
 usc_title: 26
 usc_section: "4001"
 chapter: 31
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 4001"
-generated_at: "2026-03-30T04:00:34.852Z"
+generated_at: "2026-03-30T04:03:53.329Z"
 status: "active"
 ---
 

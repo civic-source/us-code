@@ -3,9 +3,9 @@ title: "Section 464d - Additional funds for training"
 usc_title: 6
 usc_section: "464d"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "6 U.S.C. § 464d"
-generated_at: "2026-03-30T03:59:16.596Z"
+generated_at: "2026-03-30T04:02:35.566Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7110 - Authorizations of appropriations"
 usc_title: 22
 usc_section: "7110"
 chapter: 78
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 7110"
-generated_at: "2026-03-30T04:00:16.388Z"
+generated_at: "2026-03-30T04:03:40.570Z"
 status: "active"
 ---
 
@@ -34,4 +34,4 @@ status: "active"
   - **(1)** No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to promote, support, or advocate the legalization or practice of prostitution. Nothing in the preceding sentence shall be construed to preclude assistance designed to promote the purposes of this Act by ameliorating the suffering of, or health risks to, victims while they are being trafficked or after they are out of the situation that resulted from such victims being trafficked.
   - **(2)** No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that it does not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
 - **(h)** There are authorized to be appropriated to the Director of the Federal Bureau of Investigation $15,000,000 for each of the fiscal years 2008 through 2011, to remain available until expended, to investigate severe forms of trafficking in persons.
-- **(i)** There are authorized to be appropriated to the Secretary of Homeland Security, 4 4 So in original. Comma probably should not appear. $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+- **(i)** There are authorized to be appropriated to the Secretary of Homeland Security, 4 4 So in original. The comma probably should not appear. $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.

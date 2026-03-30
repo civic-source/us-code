@@ -3,9 +3,9 @@ title: "Section 2907 - Contract and grant authority; records and audits"
 usc_title: 15
 usc_section: "2907"
 chapter: 56
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "15 U.S.C. § 2907"
-generated_at: "2026-03-30T03:59:45.860Z"
+generated_at: "2026-03-30T04:03:12.654Z"
 status: "active"
 ---
 

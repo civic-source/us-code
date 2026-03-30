@@ -1,18 +1,13 @@
 ---
-title: "Section 2b - Federal Voting Assistance Program Improvements"
+title: "Section 2b - Transferred"
 usc_title: 42
 usc_section: "2b"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 2b"
-generated_at: "2026-03-30T04:01:27.363Z"
-status: "active"
+generated_at: "2026-03-30T04:04:27.621Z"
+status: "transferred"
 ---
 
-# § 1973ff–2b. Federal Voting Assistance Program Improvements
+# § 1973ff–2b. Transferred
 
-- **(a)** The Presidential designee shall carry out the following duties:
-  - **(1)** Develop online portals of information to inform absent uniformed services voters regarding voter registration procedures and absentee ballot procedures to be used by such voters with respect to elections for Federal office.
-  - **(2)** Establish a program to notify absent uniformed services voters of voter registration information and resources, the availability of the Federal postcard application, and the availability of the Federal write-in absentee ballot on the military Global Network, and shall use the military Global Network to notify absent uniformed services voters of the foregoing 90, 60, and 30 days prior to each election for Federal office.
-- **(b)** Nothing in this section shall relieve the Presidential designee of their duties and obligations under any directives or regulations issued by the Department of Defense, including the Department of Defense Directive 1000.04 (or any successor directive or regulation) that is not inconsistent or contradictory to the provisions of this section.
-- **(c)** There are authorized to be appropriated to the Federal Voting Assistance Program of the Department of Defense (or a successor program) such sums as are necessary for purposes of carrying out this section.

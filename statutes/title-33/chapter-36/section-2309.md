@@ -3,9 +3,9 @@ title: "Section 2309 - Great Lakes Commodities Marketing Board"
 usc_title: 33
 usc_section: "2309"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "33 U.S.C. § 2309"
-generated_at: "2026-03-30T04:00:40.142Z"
+generated_at: "2026-03-30T04:03:57.536Z"
 status: "active"
 ---
 

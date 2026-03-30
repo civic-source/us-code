@@ -3,9 +3,9 @@ title: "Section 7395 - Naval Observatory: administration"
 usc_title: 10
 usc_section: "7395"
 chapter: 639
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 7395"
-generated_at: "2026-03-30T03:59:31.720Z"
+generated_at: "2026-03-30T04:02:49.757Z"
 status: "active"
 ---
 

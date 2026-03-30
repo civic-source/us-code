@@ -3,9 +3,9 @@ title: "Section 828 - Order forms"
 usc_title: 21
 usc_section: "828"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 828"
-generated_at: "2026-03-30T04:00:10.537Z"
+generated_at: "2026-03-30T04:03:37.727Z"
 status: "active"
 ---
 

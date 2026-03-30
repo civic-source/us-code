@@ -3,9 +3,9 @@ title: "Section 2704 - Subsistence expenses"
 usc_title: 22
 usc_section: "2704"
 chapter: 38
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 2704"
-generated_at: "2026-03-30T04:00:16.285Z"
+generated_at: "2026-03-30T04:03:40.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30168 - Repealed. Pub. L. 112–141, div. C, title I, § 31204(b
 usc_title: 49
 usc_section: "30168"
 chapter: 301
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "49 U.S.C. § 30168"
-generated_at: "2026-03-30T04:01:43.263Z"
+generated_at: "2026-03-30T04:04:36.328Z"
 status: "repealed"
 ---
 

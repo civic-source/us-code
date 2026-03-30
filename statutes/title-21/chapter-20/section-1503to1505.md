@@ -3,9 +3,9 @@ title: "Section 1503to1505 - Repealed. Pub. L. 100–690, title I, § 1009 , Nov
 usc_title: 21
 usc_section: "1503to1505"
 chapter: 20
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 1503to1505"
-generated_at: "2026-03-30T04:00:10.552Z"
+generated_at: "2026-03-30T04:03:37.739Z"
 status: "repealed"
 ---
 

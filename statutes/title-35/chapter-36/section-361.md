@@ -3,9 +3,9 @@ title: "Section 361 - Receiving Office"
 usc_title: 35
 usc_section: "361"
 chapter: 36
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "35 U.S.C. § 361"
-generated_at: "2026-03-30T04:00:37.212Z"
+generated_at: "2026-03-30T04:03:55.625Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** The Patent and Trademark Office shall act as a Receiving Office for international applications filed by nationals or residents of the United States. In accordance with any agreement made between the United States and another country, the Patent and Trademark Office may also act as a Receiving Office for international applications filed by residents or nationals of such country who are entitled to file international applications.
 - **(b)** The Patent and Trademark Office shall perform all acts connected with the discharge of duties required of a Receiving Office, including the collection of international fees and their transmittal to the International Bureau.
-- **(c)** International applications filed in the Patent and Trademark Office shall be in the English language.
+- **(c)** International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.
 - **(d)** The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.

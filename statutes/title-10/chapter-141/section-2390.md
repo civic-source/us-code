@@ -3,9 +3,9 @@ title: "Section 2390 - Prohibition on the sale of certain defense articles from 
 usc_title: 10
 usc_section: "2390"
 chapter: 141
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2390"
-generated_at: "2026-03-30T03:59:31.634Z"
+generated_at: "2026-03-30T04:02:49.694Z"
 status: "active"
 ---
 

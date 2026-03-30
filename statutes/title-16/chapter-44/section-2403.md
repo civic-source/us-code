@@ -3,9 +3,9 @@ title: "Section 2403 - Prohibited acts"
 usc_title: 16
 usc_section: "2403"
 chapter: 44
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 2403"
-generated_at: "2026-03-30T04:00:01.883Z"
+generated_at: "2026-03-30T04:03:31.611Z"
 status: "active"
 ---
 

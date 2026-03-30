@@ -1,0 +1,24 @@
+---
+title: "Section 336 - Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps"
+usc_title: 37
+usc_section: "336"
+chapter: 5
+current_through: "PL 113-163"
+classification: "37 U.S.C. § 336"
+generated_at: "2026-03-30T04:04:03.918Z"
+status: "active"
+---
+
+# § 336. Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps
+
+- **(a)** The Secretary concerned may pay a bonus under this section to a cadet or midshipman enrolled in the Senior Reserve Officers’ Training Corps who executes a written agreement described in subsection (c).
+- **(b)** The amount of a bonus under subsection (a) may not exceed $5,000.
+- **(c)** A written agreement referred to in subsection (a) is a written agreement by the cadet or midshipman—
+  - **(1)** to complete field training or a practice cruise under section 2104(b)(6)(A)(ii) of title 10 ;
+  - **(2)** to complete advanced training under chapter 103 of title 10;
+  - **(3)** to accept a commission or appointment as an officer of the armed forces; and
+  - **(4)** to serve on active duty.
+- **(d)** Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify when the bonus will be paid and whether the bonus will be paid in a lump sum or in installments.
+- **(e)** A person who, having received all or part of a bonus under subsection (a), fails to fulfill the terms of the written agreement required by such subsection for receipt of the bonus shall be subject to the repayment provisions of section 373 of this title .
+- **(f)** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
+- **(g)** No agreement under this section may be entered into after December 31, 2014 .

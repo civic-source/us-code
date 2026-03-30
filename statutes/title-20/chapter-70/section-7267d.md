@@ -3,9 +3,9 @@ title: "Section 7267d - Requirements"
 usc_title: 20
 usc_section: "7267d"
 chapter: 70
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 7267d"
-generated_at: "2026-03-30T03:59:57.165Z"
+generated_at: "2026-03-30T04:03:21.830Z"
 status: "active"
 ---
 

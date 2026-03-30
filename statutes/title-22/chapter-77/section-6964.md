@@ -3,9 +3,9 @@ title: "Section 6964 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6964"
 chapter: 77
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 6964"
-generated_at: "2026-03-30T04:00:16.382Z"
+generated_at: "2026-03-30T04:03:40.565Z"
 status: "active"
 ---
 

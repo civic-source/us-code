@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T04:01:27.133Z"
+generated_at: "2026-03-30T04:04:27.411Z"
 status: "active"
 ---
 
@@ -601,7 +601,7 @@ status: "active"
     - **(C)** Notwithstanding any other provision of law, the Secretary may establish and implement by program instruction or otherwise the payment codes to be used under the prospective payment system under this section.
 - **(p)**
   - **(1)** In the case of an applicable computed tomography service (as defined in paragraph (2)) for which payment is made under an applicable payment system (as defined in paragraph (3)) and that is furnished on or after January 1, 2016 , using equipment that is not consistent with the CT equipment standard (described in paragraph (4)), the payment amount for such service shall be reduced by the applicable percentage (as defined in paragraph (5)).
-  - **(2)** In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014 , by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). 6 6 So in original. The period probably should be preceded by another closing parenthesis.
+  - **(2)** In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014 , by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). 5 5 So in original. The period probably should be preceded by another closing parenthesis.
   - **(3)** In this subsection, the term “applicable payment system” means the following:
     - **(A)** The technical component and the technical component of the global fee under the fee schedule established under section 1395w–4(b) of this title .
     - **(B)** The prospective payment system for hospital outpatient department services under section 1395 l (t) of this title.

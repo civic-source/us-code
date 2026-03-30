@@ -3,9 +3,9 @@ title: "Section 856 - Art. 56. Maximum and minimum limits"
 usc_title: 10
 usc_section: "856"
 chapter: 47
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 856"
-generated_at: "2026-03-30T03:59:31.518Z"
+generated_at: "2026-03-30T04:02:49.606Z"
 status: "active"
 ---
 

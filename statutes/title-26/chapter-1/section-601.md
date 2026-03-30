@@ -3,9 +3,9 @@ title: "Section 601 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(85) , Oc
 usc_title: 26
 usc_section: "601"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 601"
-generated_at: "2026-03-30T04:00:34.733Z"
+generated_at: "2026-03-30T04:03:53.220Z"
 status: "repealed"
 ---
 

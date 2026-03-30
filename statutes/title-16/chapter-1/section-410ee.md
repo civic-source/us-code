@@ -3,9 +3,9 @@ title: "Section 410ee - Establishment"
 usc_title: 16
 usc_section: "410ee"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 410ee"
-generated_at: "2026-03-30T04:00:01.582Z"
+generated_at: "2026-03-30T04:03:31.369Z"
 status: "active"
 ---
 

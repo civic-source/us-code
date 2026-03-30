@@ -3,9 +3,9 @@ title: "Section 1604 - Reports by registered lobbyists"
 usc_title: 2
 usc_section: "1604"
 chapter: 26
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 1604"
-generated_at: "2026-03-30T03:59:14.063Z"
+generated_at: "2026-03-30T04:02:32.897Z"
 status: "active"
 ---
 
@@ -40,5 +40,5 @@ status: "active"
     - **(G)** a certification by the person or organization filing the report that the person or organization—
       - **(i)** has read and is familiar with those provisions of the Standing Rules of the Senate and the Rules of the House of Representatives relating to the provision of gifts and travel; and
       - **(ii)** has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.
-  - **(2)** In this subsection, the term “leadership PAC” has the meaning given such term in section 434(i)(8)(B) of this title .
+  - **(2)** In this subsection, the term “leadership PAC” has the meaning given such term in section 30104(i)(8)(B) of title 52 .
 - **(e)** A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.

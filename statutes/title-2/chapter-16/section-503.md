@@ -3,9 +3,9 @@ title: "Section 503 - Official mail of persons entitled to use congressional fra
 usc_title: 2
 usc_section: "503"
 chapter: 16
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 503"
-generated_at: "2026-03-30T03:59:14.039Z"
+generated_at: "2026-03-30T04:02:32.876Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(1)** may be supplemented by other appropriated funds only if such supplementation is provided for by law or by regulation under subsection (a) of this section; and
   - **(2)** may not be supplemented by funds from any other source, public or private.
 - **(d)** No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) from—
-  - **(1)** funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 431 of this title );
+  - **(1)** funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 30101 of title 52 );
   - **(2)** funds received as reimbursement for expenses incurred by the Senator or Member in connection with personal services provided by the Senator or Member to the person making the reimbursement; or
   - **(3)** any other funds that are not specifically appropriated for official expenses.
 - **(e)**

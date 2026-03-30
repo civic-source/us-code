@@ -3,9 +3,9 @@ title: "Section 402 - Application of laws"
 usc_title: 3
 usc_section: "402"
 chapter: 5
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "3 U.S.C. § 402"
-generated_at: "2026-03-30T03:59:08.725Z"
+generated_at: "2026-03-30T04:02:23.332Z"
 status: "active"
 ---
 

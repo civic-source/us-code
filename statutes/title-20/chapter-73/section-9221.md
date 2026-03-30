@@ -3,9 +3,9 @@ title: "Section 9221 - State administration"
 usc_title: 20
 usc_section: "9221"
 chapter: 73
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "20 U.S.C. § 9221"
-generated_at: "2026-03-30T03:59:57.191Z"
+generated_at: "2026-03-30T04:03:21.854Z"
 status: "active"
 ---
 

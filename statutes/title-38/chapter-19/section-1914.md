@@ -3,9 +3,9 @@ title: "Section 1914 - Statutory total disabilities"
 usc_title: 38
 usc_section: "1914"
 chapter: 19
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "38 U.S.C. § 1914"
-generated_at: "2026-03-30T04:00:45.122Z"
+generated_at: "2026-03-30T04:04:07.658Z"
 status: "active"
 ---
 

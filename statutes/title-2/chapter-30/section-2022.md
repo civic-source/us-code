@@ -3,9 +3,9 @@ title: "Section 2022 - Acquisition of buildings and facilities for use in emerge
 usc_title: 2
 usc_section: "2022"
 chapter: 30
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 2022"
-generated_at: "2026-03-30T03:59:14.072Z"
+generated_at: "2026-03-30T04:02:32.905Z"
 status: "active"
 ---
 

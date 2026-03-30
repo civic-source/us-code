@@ -3,9 +3,9 @@ title: "Section 2571 - Interchange of supplies and services"
 usc_title: 10
 usc_section: "2571"
 chapter: 153
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 2571"
-generated_at: "2026-03-30T03:59:31.655Z"
+generated_at: "2026-03-30T04:02:49.710Z"
 status: "active"
 ---
 

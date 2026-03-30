@@ -1,15 +1,13 @@
 ---
-title: "Section 452 - Prohibition against use of certain Federal funds for election activities"
+title: "Section 452 - Transferred"
 usc_title: 2
 usc_section: "452"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "2 U.S.C. § 452"
-generated_at: "2026-03-30T03:59:14.038Z"
-status: "active"
+generated_at: "2026-03-30T04:02:32.874Z"
+status: "transferred"
 ---
 
-# § 452. Prohibition against use of certain Federal funds for election activities
-
-No part of any funds appropriated to carry out the Economic Opportunity Act of 1964 [ 42 U.S.C. 2701 et seq.] shall be used to finance, directly or indirectly, any activity designed to influence the outcome of any election to Federal office, or any voter registration activity, or to pay the salary of any officer or employee of the Office of Economic Opportunity who, in his official capacity as such an officer or employee, engages in any such activity.
+# § 452. Transferred
 

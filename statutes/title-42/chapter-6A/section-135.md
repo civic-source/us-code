@@ -3,9 +3,9 @@ title: "Section 135 - Notification of employee"
 usc_title: 42
 usc_section: "135"
 chapter: 6
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 135"
-generated_at: "2026-03-30T04:01:26.993Z"
+generated_at: "2026-03-30T04:04:27.284Z"
 status: "active"
 ---
 

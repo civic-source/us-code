@@ -3,9 +3,9 @@ title: "Section 7111 - Report by Secretary of State"
 usc_title: 22
 usc_section: "7111"
 chapter: 78
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "22 U.S.C. § 7111"
-generated_at: "2026-03-30T04:00:16.388Z"
+generated_at: "2026-03-30T04:03:40.570Z"
 status: "active"
 ---
 

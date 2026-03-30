@@ -3,9 +3,9 @@ title: "Section 2015 - Special reports to Congress"
 usc_title: 19
 usc_section: "2015"
 chapter: 8
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "19 U.S.C. § 2015"
-generated_at: "2026-03-30T03:59:53.517Z"
+generated_at: "2026-03-30T04:03:18.741Z"
 status: "active"
 ---
 

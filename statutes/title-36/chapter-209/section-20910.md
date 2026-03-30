@@ -3,9 +3,9 @@ title: "Section 20910 - Records and inspection"
 usc_title: 36
 usc_section: "20910"
 chapter: 209
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "36 U.S.C. § 20910"
-generated_at: "2026-03-30T04:00:50.912Z"
+generated_at: "2026-03-30T04:04:04.853Z"
 status: "active"
 ---
 

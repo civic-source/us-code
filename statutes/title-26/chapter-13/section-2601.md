@@ -3,9 +3,9 @@ title: "Section 2601 - Tax imposed"
 usc_title: 26
 usc_section: "2601"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "26 U.S.C. § 2601"
-generated_at: "2026-03-30T04:00:34.835Z"
+generated_at: "2026-03-30T04:03:53.314Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2243 - Licensing of uranium enrichment facilities"
 usc_title: 42
 usc_section: "2243"
 chapter: 23
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 2243"
-generated_at: "2026-03-30T04:01:27.397Z"
+generated_at: "2026-03-30T04:04:27.652Z"
 status: "active"
 ---
 

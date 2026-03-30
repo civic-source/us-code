@@ -3,9 +3,9 @@ title: "Section 2011 - Definitions"
 usc_title: 21
 usc_section: "2011"
 chapter: 25
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "21 U.S.C. § 2011"
-generated_at: "2026-03-30T04:00:10.560Z"
+generated_at: "2026-03-30T04:03:37.747Z"
 status: "active"
 ---
 

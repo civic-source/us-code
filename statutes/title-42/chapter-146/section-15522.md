@@ -1,16 +1,13 @@
 ---
-title: "Section 15522 - Activities under Program"
+title: "Section 15522 - Transferred"
 usc_title: 42
 usc_section: "15522"
 chapter: 146
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "42 U.S.C. § 15522"
-generated_at: "2026-03-30T04:01:27.874Z"
-status: "active"
+generated_at: "2026-03-30T04:04:28.088Z"
+status: "transferred"
 ---
 
-# § 15522. Activities under Program
+# § 15522. Transferred
 
-- **(a)** In carrying out the Program, the Commission (in consultation with the chief election official of each State) shall develop materials, sponsor seminars and workshops, engage in advertising targeted at students, make grants, and take such other actions as it considers appropriate to meet the purposes described in section 15521(b) of this title .
-- **(b)** In making grants under the Program, the Commission shall ensure that the funds provided are spent for projects and activities which are carried out without partisan bias or without promoting any particular point of view regarding any issue, and that each recipient is governed in a balanced manner which does not reflect any partisan bias.
-- **(c)** The Commission shall encourage institutions of higher education (including community colleges) to participate in the Program, and shall make all necessary materials and other assistance (including materials and assistance to enable the institution to hold workshops and poll worker training sessions) available without charge to any institution which desires to participate in the Program.

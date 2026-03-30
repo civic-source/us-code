@@ -3,9 +3,9 @@ title: "Section 1356m1356n - Repealed. Pub. L. 105–362, title XIV, § 1401(a) 
 usc_title: 19
 usc_section: "1356m1356n"
 chapter: 4
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "19 U.S.C. § 1356m1356n"
-generated_at: "2026-03-30T03:59:53.471Z"
+generated_at: "2026-03-30T04:03:18.705Z"
 status: "repealed"
 ---
 

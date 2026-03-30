@@ -3,9 +3,9 @@ title: "Section 445 - Repealed. Pub. L. 105–107, title V, § 503(c) , Nov. 20,
 usc_title: 10
 usc_section: "445"
 chapter: 22
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "10 U.S.C. § 445"
-generated_at: "2026-03-30T03:59:31.492Z"
+generated_at: "2026-03-30T04:02:49.588Z"
 status: "repealed"
 ---
 

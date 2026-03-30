@@ -3,9 +3,9 @@ title: "Section 159c - Completion of establishment"
 usc_title: 16
 usc_section: "159c"
 chapter: 1
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 159c"
-generated_at: "2026-03-30T04:00:01.545Z"
+generated_at: "2026-03-30T04:03:31.337Z"
 status: "active"
 ---
 

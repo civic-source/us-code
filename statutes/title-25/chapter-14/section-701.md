@@ -3,9 +3,9 @@ title: "Section 701 - Advances or expenditures from tribal funds"
 usc_title: 25
 usc_section: "701"
 chapter: 14
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "25 U.S.C. § 701"
-generated_at: "2026-03-30T04:00:09.008Z"
+generated_at: "2026-03-30T04:03:36.528Z"
 status: "active"
 ---
 

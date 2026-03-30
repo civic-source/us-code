@@ -3,9 +3,9 @@ title: "Section 470 - Special instruction at universities"
 usc_title: 14
 usc_section: "470"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "14 U.S.C. § 470"
-generated_at: "2026-03-30T03:59:35.780Z"
+generated_at: "2026-03-30T04:02:52.175Z"
 status: "active"
 ---
 

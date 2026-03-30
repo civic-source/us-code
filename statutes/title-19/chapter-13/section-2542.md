@@ -3,9 +3,9 @@ title: "Section 2542 - Establishment and operation of technical offices"
 usc_title: 19
 usc_section: "2542"
 chapter: 13
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "19 U.S.C. § 2542"
-generated_at: "2026-03-30T03:59:53.547Z"
+generated_at: "2026-03-30T04:03:18.766Z"
 status: "active"
 ---
 

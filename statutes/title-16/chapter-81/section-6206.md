@@ -3,9 +3,9 @@ title: "Section 6206 - Cabin user fees"
 usc_title: 16
 usc_section: "6206"
 chapter: 81
-current_through: "PL 113-126"
+current_through: "PL 113-163"
 classification: "16 U.S.C. § 6206"
-generated_at: "2026-03-30T04:00:01.954Z"
+generated_at: "2026-03-30T04:03:31.667Z"
 status: "active"
 ---
 

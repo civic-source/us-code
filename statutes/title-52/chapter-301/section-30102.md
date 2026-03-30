@@ -3,9 +3,10 @@ title: "Section 30102 - Organization of political committees"
 usc_title: 52
 usc_section: "30102"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 113-163"
 classification: "52 U.S.C. § 30102"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-03-30T04:04:43.383Z"
+status: "active"
 ---
 
 # § 30102. Organization of political committees
@@ -37,7 +38,11 @@ generated_at: "2026-03-30T02:56:30.169Z"
 - **(f)**
   - **(1)** Notwithstanding any other provision of this Act, each designation, statement, or report of receipts or disbursements made by an authorized committee of a candidate shall be filed with the candidate’s principal campaign committee.
   - **(2)** Each principal campaign committee shall receive all designations, statements, and reports required to be filed with it under paragraph (1) and shall compile and file such designations, statements, and reports in accordance with this Act.
-- **(g)** All designations, statements, and reports required to be filed under this Act shall be filed with the Commission.
+- **(g)**
+  - **(1)** Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
+  - **(2)** The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
+  - **(3)** All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
+  - **(4)** The Secretary of the Senate shall make the designations, statements, and reports received under this subsection available for public inspection and copying in the same manner as the Commission under section 30111(a)(4) of this title , and shall preserve such designations, statements, and reports in the same manner as the Commission under section 30111(a)(5) of this title .
 - **(h)**
   - **(1)** Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited in such accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
   - **(2)** A political committee may maintain a petty cash fund for disbursements not in excess of $100 to any person in connection with a single purchase or transaction. A record of all petty cash disbursements shall be maintained in accordance with subsection (c)(5).
