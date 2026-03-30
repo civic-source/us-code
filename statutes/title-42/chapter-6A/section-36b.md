@@ -3,9 +3,9 @@ title: "Section 36b - Mental health and substance use disorder services on campu
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-03-30T07:08:38.405Z"
+generated_at: "2026-03-30T07:10:19.479Z"
 status: "active"
 ---
 

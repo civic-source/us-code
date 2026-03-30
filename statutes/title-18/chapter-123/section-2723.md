@@ -3,9 +3,9 @@ title: "Section 2723 - Penalties"
 usc_title: 18
 usc_section: "2723"
 chapter: 123
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "18 U.S.C. § 2723"
-generated_at: "2026-03-30T07:07:51.130Z"
+generated_at: "2026-03-30T07:09:35.166Z"
 status: "active"
 ---
 

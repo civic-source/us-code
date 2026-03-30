@@ -3,9 +3,9 @@ title: "Section 4208 - Limitations"
 usc_title: 7
 usc_section: "4208"
 chapter: 73
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 4208"
-generated_at: "2026-03-30T07:07:34.996Z"
+generated_at: "2026-03-30T07:09:10.999Z"
 status: "active"
 ---
 

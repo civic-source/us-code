@@ -3,9 +3,9 @@ title: "Section 6991c - Approval of State programs"
 usc_title: 42
 usc_section: "6991c"
 chapter: 82
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 6991c"
-generated_at: "2026-03-30T07:08:38.838Z"
+generated_at: "2026-03-30T07:10:19.893Z"
 status: "active"
 ---
 

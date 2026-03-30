@@ -3,9 +3,9 @@ title: "Section 1009 - Hearings and review"
 usc_title: 42
 usc_section: "1009"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 1009"
-generated_at: "2026-03-30T07:08:38.517Z"
+generated_at: "2026-03-30T07:10:19.586Z"
 status: "active"
 ---
 

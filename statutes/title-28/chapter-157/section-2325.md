@@ -3,9 +3,9 @@ title: "Section 2325 - Repealed. Pub. L. 93–584 , § 7, Jan. 2, 1975 , 88 Stat
 usc_title: 28
 usc_section: "2325"
 chapter: 157
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "28 U.S.C. § 2325"
-generated_at: "2026-03-30T07:08:09.081Z"
+generated_at: "2026-03-30T07:09:51.793Z"
 status: "repealed"
 ---
 

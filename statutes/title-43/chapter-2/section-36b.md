@@ -3,9 +3,9 @@ title: "Section 36b - Acquisition of lands or interests therein for use in gagin
 usc_title: 43
 usc_section: "36b"
 chapter: 2
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "43 U.S.C. § 36b"
-generated_at: "2026-03-30T07:08:27.972Z"
+generated_at: "2026-03-30T07:10:07.383Z"
 status: "active"
 ---
 

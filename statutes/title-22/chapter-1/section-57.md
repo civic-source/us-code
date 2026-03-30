@@ -3,9 +3,9 @@ title: "Section 57 - Repealed. Feb. 23, 1931, ch. 276 , § 6, 46 Stat. 1207 , ef
 usc_title: 22
 usc_section: "57"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 57"
-generated_at: "2026-03-30T07:08:06.067Z"
+generated_at: "2026-03-30T07:09:46.891Z"
 status: "repealed"
 ---
 

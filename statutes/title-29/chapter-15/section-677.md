@@ -3,9 +3,9 @@ title: "Section 677 - Separability"
 usc_title: 29
 usc_section: "677"
 chapter: 15
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "29 U.S.C. § 677"
-generated_at: "2026-03-30T07:08:09.844Z"
+generated_at: "2026-03-30T07:09:50.788Z"
 status: "active"
 ---
 

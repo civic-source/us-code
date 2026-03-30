@@ -3,9 +3,9 @@ title: "Section 44721 - Aeronautical charts and related products and services"
 usc_title: 49
 usc_section: "44721"
 chapter: 447
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 44721"
-generated_at: "2026-03-30T07:08:49.157Z"
+generated_at: "2026-03-30T07:10:27.717Z"
 status: "active"
 ---
 

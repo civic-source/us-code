@@ -3,9 +3,9 @@ title: "Section 1368 - Increase in INS detention facilities; report on detention
 usc_title: 8
 usc_section: "1368"
 chapter: 12
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "8 U.S.C. § 1368"
-generated_at: "2026-03-30T07:07:36.289Z"
+generated_at: "2026-03-30T07:09:16.113Z"
 status: "active"
 ---
 

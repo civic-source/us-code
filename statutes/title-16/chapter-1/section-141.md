@@ -3,9 +3,9 @@ title: "Section 141 - Establishment; boundaries"
 usc_title: 16
 usc_section: "141"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 141"
-generated_at: "2026-03-30T07:07:59.106Z"
+generated_at: "2026-03-30T07:09:40.297Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 629i - Grants for programs for mentoring children of prisoners"
 usc_title: 42
 usc_section: "629i"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 629i"
-generated_at: "2026-03-30T07:08:38.501Z"
+generated_at: "2026-03-30T07:10:19.570Z"
 status: "active"
 ---
 

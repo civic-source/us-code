@@ -3,9 +3,9 @@ title: "Section 1315a - Center for Medicare and Medicaid Innovation"
 usc_title: 42
 usc_section: "1315a"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 1315a"
-generated_at: "2026-03-30T07:08:38.520Z"
+generated_at: "2026-03-30T07:10:19.589Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1614 - Repealed. Pub. L. 96–221, title VI , § 616(b), Mar. 31
 usc_title: 15
 usc_section: "1614"
 chapter: 41
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 1614"
-generated_at: "2026-03-30T07:07:47.986Z"
+generated_at: "2026-03-30T07:09:31.530Z"
 status: "repealed"
 ---
 

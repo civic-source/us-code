@@ -3,9 +3,9 @@ title: "Section 8352 - Authorization of expenditures for the eradication and con
 usc_title: 7
 usc_section: "8352"
 chapter: 109
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 8352"
-generated_at: "2026-03-30T07:07:35.047Z"
+generated_at: "2026-03-30T07:09:11.046Z"
 status: "active"
 ---
 

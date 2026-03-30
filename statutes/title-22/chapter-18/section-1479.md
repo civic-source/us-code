@@ -3,9 +3,9 @@ title: "Section 1479 - Advancement of funds, property, or services by foreign go
 usc_title: 22
 usc_section: "1479"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 1479"
-generated_at: "2026-03-30T07:08:06.095Z"
+generated_at: "2026-03-30T07:09:46.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7330B - Annual report on Veterans Health Administration and furn
 usc_title: 38
 usc_section: "7330B"
 chapter: 73
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "38 U.S.C. § 7330B"
-generated_at: "2026-03-30T07:08:25.661Z"
+generated_at: "2026-03-30T07:10:04.400Z"
 status: "active"
 ---
 

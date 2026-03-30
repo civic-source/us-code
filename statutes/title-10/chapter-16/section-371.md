@@ -3,9 +3,9 @@ title: "Section 371 - Renumbered § 271]"
 usc_title: 10
 usc_section: "371"
 chapter: 16
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 371"
-generated_at: "2026-03-30T07:07:39.997Z"
+generated_at: "2026-03-30T07:09:14.301Z"
 status: "renumbered"
 ---
 

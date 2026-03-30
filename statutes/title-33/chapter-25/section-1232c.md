@@ -3,9 +3,9 @@ title: "Section 1232c - Prohibition on entry and operation"
 usc_title: 33
 usc_section: "1232c"
 chapter: 25
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "33 U.S.C. § 1232c"
-generated_at: "2026-03-30T07:08:19.206Z"
+generated_at: "2026-03-30T07:10:00.621Z"
 status: "active"
 ---
 

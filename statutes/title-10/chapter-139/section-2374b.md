@@ -3,9 +3,9 @@ title: "Section 2374b - Repealed. Pub. L. 112–239, div. A, title X , § 1076(g
 usc_title: 10
 usc_section: "2374b"
 chapter: 139
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 2374b"
-generated_at: "2026-03-30T07:07:40.066Z"
+generated_at: "2026-03-30T07:09:14.380Z"
 status: "repealed"
 ---
 

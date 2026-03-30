@@ -3,9 +3,9 @@ title: "Section 6320 - Notice and opportunity for hearing upon filing of notice 
 usc_title: 26
 usc_section: "6320"
 chapter: 64
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "26 U.S.C. § 6320"
-generated_at: "2026-03-30T07:08:15.762Z"
+generated_at: "2026-03-30T07:09:56.560Z"
 status: "active"
 ---
 

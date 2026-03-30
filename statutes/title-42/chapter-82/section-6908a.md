@@ -3,9 +3,9 @@ title: "Section 6908a - Agreements with Indian tribes"
 usc_title: 42
 usc_section: "6908a"
 chapter: 82
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 6908a"
-generated_at: "2026-03-30T07:08:38.828Z"
+generated_at: "2026-03-30T07:10:19.884Z"
 status: "active"
 ---
 

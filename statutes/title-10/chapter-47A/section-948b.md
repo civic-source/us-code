@@ -3,9 +3,9 @@ title: "Section 948b - Military commissions generally"
 usc_title: 10
 usc_section: "948b"
 chapter: 47
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 948b"
-generated_at: "2026-03-30T07:07:40.015Z"
+generated_at: "2026-03-30T07:09:14.321Z"
 status: "active"
 ---
 

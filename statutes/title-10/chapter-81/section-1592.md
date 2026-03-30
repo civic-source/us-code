@@ -3,9 +3,9 @@ title: "Section 1592 - Prohibition on payment of severance pay to foreign nation
 usc_title: 10
 usc_section: "1592"
 chapter: 81
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 1592"
-generated_at: "2026-03-30T07:07:40.043Z"
+generated_at: "2026-03-30T07:09:14.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 29 - Condensed and simplified versions of House precedents; othe
 usc_title: 2
 usc_section: "29"
 chapter: 2
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "2 U.S.C. § 29"
-generated_at: "2026-03-30T07:07:28.462Z"
+generated_at: "2026-03-30T07:09:03.110Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1991 - Fees; persons appointed to execute process"
 usc_title: 42
 usc_section: "1991"
 chapter: 21
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 1991"
-generated_at: "2026-03-30T07:08:38.708Z"
+generated_at: "2026-03-30T07:10:19.769Z"
 status: "active"
 ---
 

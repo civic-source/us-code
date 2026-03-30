@@ -3,9 +3,9 @@ title: "Section 4021 - Authorization"
 usc_title: 20
 usc_section: "4021"
 chapter: 52
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "20 U.S.C. § 4021"
-generated_at: "2026-03-30T07:07:52.897Z"
+generated_at: "2026-03-30T07:09:38.207Z"
 status: "active"
 ---
 

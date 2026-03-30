@@ -3,9 +3,9 @@ title: "Section 2667a - Repealed. Pub. L. 110–417, div. B, title XXVIII , § 2
 usc_title: 10
 usc_section: "2667a"
 chapter: 159
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 2667a"
-generated_at: "2026-03-30T07:07:40.081Z"
+generated_at: "2026-03-30T07:09:14.396Z"
 status: "repealed"
 ---
 

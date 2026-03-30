@@ -3,9 +3,9 @@ title: "Section 1582 - Civil actions commenced by the United States"
 usc_title: 28
 usc_section: "1582"
 chapter: 95
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "28 U.S.C. § 1582"
-generated_at: "2026-03-30T07:08:09.075Z"
+generated_at: "2026-03-30T07:09:51.787Z"
 status: "active"
 ---
 

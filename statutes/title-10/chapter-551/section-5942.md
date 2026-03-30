@@ -3,9 +3,9 @@ title: "Section 5942 - Aviation commands: eligibility"
 usc_title: 10
 usc_section: "5942"
 chapter: 551
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 5942"
-generated_at: "2026-03-30T07:07:40.100Z"
+generated_at: "2026-03-30T07:09:14.419Z"
 status: "active"
 ---
 

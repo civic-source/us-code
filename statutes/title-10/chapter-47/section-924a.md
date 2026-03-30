@@ -3,9 +3,9 @@ title: "Section 924a - Art. 124a]"
 usc_title: 10
 usc_section: "924a"
 chapter: 47
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 924a"
-generated_at: "2026-03-30T07:07:40.014Z"
+generated_at: "2026-03-30T07:09:14.320Z"
 status: "active"
 ---
 

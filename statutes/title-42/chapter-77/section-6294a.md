@@ -3,9 +3,9 @@ title: "Section 6294a - Energy Star program"
 usc_title: 42
 usc_section: "6294a"
 chapter: 77
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 6294a"
-generated_at: "2026-03-30T07:08:38.808Z"
+generated_at: "2026-03-30T07:10:19.866Z"
 status: "active"
 ---
 

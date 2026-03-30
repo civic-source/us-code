@@ -3,9 +3,9 @@ title: "Section 1871 - State laws and regulations"
 usc_title: 29
 usc_section: "1871"
 chapter: 20
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "29 U.S.C. § 1871"
-generated_at: "2026-03-30T07:08:09.885Z"
+generated_at: "2026-03-30T07:09:50.825Z"
 status: "active"
 ---
 

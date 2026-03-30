@@ -3,9 +3,9 @@ title: "Section 59r - Trent River, Craven County, North Carolina"
 usc_title: 33
 usc_section: "59r"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "33 U.S.C. § 59r"
-generated_at: "2026-03-30T07:08:19.182Z"
+generated_at: "2026-03-30T07:10:00.595Z"
 status: "active"
 ---
 

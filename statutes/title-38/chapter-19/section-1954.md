@@ -3,9 +3,9 @@ title: "Section 1954 - Forfeiture"
 usc_title: 38
 usc_section: "1954"
 chapter: 19
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "38 U.S.C. § 1954"
-generated_at: "2026-03-30T07:08:25.627Z"
+generated_at: "2026-03-30T07:10:04.366Z"
 status: "active"
 ---
 

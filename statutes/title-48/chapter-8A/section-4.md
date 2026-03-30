@@ -3,9 +3,9 @@ title: "Section 4 - Criminal offenses; procedure; definitions"
 usc_title: 48
 usc_section: "4"
 chapter: 8
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "48 U.S.C. § 4"
-generated_at: "2026-03-30T07:08:45.979Z"
+generated_at: "2026-03-30T07:10:22.628Z"
 status: "active"
 ---
 

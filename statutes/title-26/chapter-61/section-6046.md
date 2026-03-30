@@ -3,9 +3,9 @@ title: "Section 6046 - Returns as to organization or reorganization of foreign c
 usc_title: 26
 usc_section: "6046"
 chapter: 61
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "26 U.S.C. § 6046"
-generated_at: "2026-03-30T07:08:15.749Z"
+generated_at: "2026-03-30T07:09:56.548Z"
 status: "active"
 ---
 

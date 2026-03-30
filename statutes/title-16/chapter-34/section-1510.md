@@ -3,9 +3,9 @@ title: "Section 1510 - Repealed. Pub. L. 104–127, title III , § 336(d)(1), Ap
 usc_title: 16
 usc_section: "1510"
 chapter: 34
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 1510"
-generated_at: "2026-03-30T07:07:59.265Z"
+generated_at: "2026-03-30T07:09:40.448Z"
 status: "repealed"
 ---
 

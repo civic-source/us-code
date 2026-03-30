@@ -3,9 +3,9 @@ title: "Section 57513 - Minimum bid"
 usc_title: 46
 usc_section: "57513"
 chapter: 575
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "46 U.S.C. § 57513"
-generated_at: "2026-03-30T07:08:47.069Z"
+generated_at: "2026-03-30T07:10:23.442Z"
 status: "active"
 ---
 

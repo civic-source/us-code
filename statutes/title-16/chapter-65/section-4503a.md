@@ -3,9 +3,9 @@ title: "Section 4503a - Institute of Pacific Islands Forestry"
 usc_title: 16
 usc_section: "4503a"
 chapter: 65
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 4503a"
-generated_at: "2026-03-30T07:07:59.311Z"
+generated_at: "2026-03-30T07:09:40.492Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 117 - Limitations on exclusive rights: Computer programs"
 usc_title: 17
 usc_section: "117"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "17 U.S.C. § 117"
-generated_at: "2026-03-30T07:07:50.210Z"
+generated_at: "2026-03-30T07:09:36.568Z"
 status: "active"
 ---
 

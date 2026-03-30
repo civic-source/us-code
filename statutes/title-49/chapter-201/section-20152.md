@@ -3,9 +3,9 @@ title: "Section 20152 - Notification of grade crossing problems"
 usc_title: 49
 usc_section: "20152"
 chapter: 201
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 20152"
-generated_at: "2026-03-30T07:08:49.120Z"
+generated_at: "2026-03-30T07:10:27.679Z"
 status: "active"
 ---
 

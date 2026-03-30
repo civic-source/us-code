@@ -3,9 +3,9 @@ title: "Section 53911 - Civil actions for losses"
 usc_title: 46
 usc_section: "53911"
 chapter: 539
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "46 U.S.C. § 53911"
-generated_at: "2026-03-30T07:08:47.066Z"
+generated_at: "2026-03-30T07:10:23.438Z"
 status: "active"
 ---
 

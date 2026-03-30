@@ -3,9 +3,9 @@ title: "Section 51316 - Temporary appointments to the Academy"
 usc_title: 46
 usc_section: "51316"
 chapter: 513
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "46 U.S.C. § 51316"
-generated_at: "2026-03-30T07:08:47.060Z"
+generated_at: "2026-03-30T07:10:23.433Z"
 status: "active"
 ---
 

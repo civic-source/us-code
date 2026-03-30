@@ -3,9 +3,9 @@ title: "Section 1421b - Stranding response agreements"
 usc_title: 16
 usc_section: "1421b"
 chapter: 31
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 1421b"
-generated_at: "2026-03-30T07:07:59.259Z"
+generated_at: "2026-03-30T07:09:40.443Z"
 status: "active"
 ---
 

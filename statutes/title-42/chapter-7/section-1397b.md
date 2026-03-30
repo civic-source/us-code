@@ -3,9 +3,9 @@ title: "Section 1397b - Allotments"
 usc_title: 42
 usc_section: "1397b"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 1397b"
-generated_at: "2026-03-30T07:08:38.648Z"
+generated_at: "2026-03-30T07:10:19.711Z"
 status: "active"
 ---
 

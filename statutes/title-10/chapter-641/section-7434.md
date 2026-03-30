@@ -3,9 +3,9 @@ title: "Section 7434 - Repealed. Pub. L. 104–66, title I , § 1051(g), Dec. 21
 usc_title: 10
 usc_section: "7434"
 chapter: 641
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 7434"
-generated_at: "2026-03-30T07:07:40.107Z"
+generated_at: "2026-03-30T07:09:14.427Z"
 status: "repealed"
 ---
 

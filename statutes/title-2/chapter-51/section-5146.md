@@ -3,9 +3,9 @@ title: "Section 5146 - Lump-sum allowances for House Majority Whip and Minority 
 usc_title: 2
 usc_section: "5146"
 chapter: 51
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "2 U.S.C. § 5146"
-generated_at: "2026-03-30T07:07:28.508Z"
+generated_at: "2026-03-30T07:09:03.154Z"
 status: "active"
 ---
 

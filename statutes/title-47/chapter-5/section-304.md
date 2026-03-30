@@ -3,9 +3,9 @@ title: "Section 304 - Waiver by license of claims to particular frequency or of 
 usc_title: 47
 usc_section: "304"
 chapter: 5
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "47 U.S.C. § 304"
-generated_at: "2026-03-30T07:08:46.359Z"
+generated_at: "2026-03-30T07:10:24.351Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1159 - Adjustment of status of refugees"
 usc_title: 8
 usc_section: "1159"
 chapter: 12
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "8 U.S.C. § 1159"
-generated_at: "2026-03-30T07:07:36.268Z"
+generated_at: "2026-03-30T07:09:16.093Z"
 status: "active"
 ---
 

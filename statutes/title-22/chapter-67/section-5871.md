@@ -3,9 +3,9 @@ title: "Section 5871 - Facilitating discussions regarding acquisition of space h
 usc_title: 22
 usc_section: "5871"
 chapter: 67
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 5871"
-generated_at: "2026-03-30T07:08:06.172Z"
+generated_at: "2026-03-30T07:09:46.994Z"
 status: "active"
 ---
 

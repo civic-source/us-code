@@ -3,9 +3,9 @@ title: "Section 1906 - Exemption of ritual slaughter"
 usc_title: 7
 usc_section: "1906"
 chapter: 48
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 1906"
-generated_at: "2026-03-30T07:07:34.949Z"
+generated_at: "2026-03-30T07:09:10.959Z"
 status: "active"
 ---
 

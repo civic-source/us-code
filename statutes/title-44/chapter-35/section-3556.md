@@ -3,9 +3,9 @@ title: "Section 3556 - Federal information security incident center"
 usc_title: 44
 usc_section: "3556"
 chapter: 35
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "44 U.S.C. § 3556"
-generated_at: "2026-03-30T07:08:27.480Z"
+generated_at: "2026-03-30T07:10:07.835Z"
 status: "active"
 ---
 

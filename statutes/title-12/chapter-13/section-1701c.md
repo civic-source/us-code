@@ -3,9 +3,9 @@ title: "Section 1701c - Secretary of Housing and Urban Development"
 usc_title: 12
 usc_section: "1701c"
 chapter: 13
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "12 U.S.C. § 1701c"
-generated_at: "2026-03-30T07:07:44.701Z"
+generated_at: "2026-03-30T07:09:21.195Z"
 status: "active"
 ---
 

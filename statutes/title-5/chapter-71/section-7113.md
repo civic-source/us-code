@@ -3,9 +3,9 @@ title: "Section 7113 - National consultation rights"
 usc_title: 5
 usc_section: "7113"
 chapter: 71
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 7113"
-generated_at: "2026-03-30T07:07:30.149Z"
+generated_at: "2026-03-30T07:09:04.796Z"
 status: "active"
 ---
 

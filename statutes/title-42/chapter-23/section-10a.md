@@ -3,9 +3,9 @@ title: "Section 10a - Incentives for additional downblending of highly enriched 
 usc_title: 42
 usc_section: "10a"
 chapter: 23
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-30T07:08:38.732Z"
+generated_at: "2026-03-30T07:10:19.793Z"
 status: "active"
 ---
 

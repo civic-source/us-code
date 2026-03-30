@@ -3,9 +3,9 @@ title: "Section 1724 - Levels of assistance"
 usc_title: 7
 usc_section: "1724"
 chapter: 41
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 1724"
-generated_at: "2026-03-30T07:07:34.943Z"
+generated_at: "2026-03-30T07:09:10.953Z"
 status: "active"
 ---
 

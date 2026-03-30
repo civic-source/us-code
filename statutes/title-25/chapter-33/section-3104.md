@@ -3,9 +3,9 @@ title: "Section 3104 - Management of Indian forest land"
 usc_title: 25
 usc_section: "3104"
 chapter: 33
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "25 U.S.C. § 3104"
-generated_at: "2026-03-30T07:08:03.624Z"
+generated_at: "2026-03-30T07:09:44.776Z"
 status: "active"
 ---
 

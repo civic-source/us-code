@@ -3,9 +3,9 @@ title: "Section 1511 - Reconnaissance investigations by Secretary of the Interio
 usc_title: 43
 usc_section: "1511"
 chapter: 32
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "43 U.S.C. § 1511"
-generated_at: "2026-03-30T07:08:28.003Z"
+generated_at: "2026-03-30T07:10:07.416Z"
 status: "active"
 ---
 

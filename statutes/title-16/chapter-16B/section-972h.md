@@ -3,9 +3,9 @@ title: "Section 972h - Repealed. Pub. L. 114–81, title II , § 210, Nov. 5, 20
 usc_title: 16
 usc_section: "972h"
 chapter: 16
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 972h"
-generated_at: "2026-03-30T07:07:59.241Z"
+generated_at: "2026-03-30T07:09:40.425Z"
 status: "repealed"
 ---
 

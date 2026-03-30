@@ -3,9 +3,9 @@ title: "Section 1465a - Additional functions of Broadcasting Board of Governors"
 usc_title: 22
 usc_section: "1465a"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 1465a"
-generated_at: "2026-03-30T07:08:06.093Z"
+generated_at: "2026-03-30T07:09:46.917Z"
 status: "active"
 ---
 

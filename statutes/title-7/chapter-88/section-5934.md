@@ -3,9 +3,9 @@ title: "Section 5934 - Repealed. Pub. L. 110–234, title VII , § 7211, May 22,
 usc_title: 7
 usc_section: "5934"
 chapter: 88
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 5934"
-generated_at: "2026-03-30T07:07:35.008Z"
+generated_at: "2026-03-30T07:09:11.009Z"
 status: "repealed"
 ---
 

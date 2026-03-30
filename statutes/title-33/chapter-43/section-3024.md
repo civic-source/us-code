@@ -3,9 +3,9 @@ title: "Section 3024 - Promotion by selection to permanent grades above lieutena
 usc_title: 33
 usc_section: "3024"
 chapter: 43
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "33 U.S.C. § 3024"
-generated_at: "2026-03-30T07:08:19.251Z"
+generated_at: "2026-03-30T07:10:00.661Z"
 status: "active"
 ---
 

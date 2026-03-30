@@ -3,9 +3,9 @@ title: "Section 13553 - Energy subsidy study"
 usc_title: 42
 usc_section: "13553"
 chapter: 134
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 13553"
-generated_at: "2026-03-30T07:08:38.989Z"
+generated_at: "2026-03-30T07:10:20.038Z"
 status: "active"
 ---
 

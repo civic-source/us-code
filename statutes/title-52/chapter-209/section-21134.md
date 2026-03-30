@@ -3,9 +3,9 @@ title: "Section 21134 - Effective date; transition"
 usc_title: 52
 usc_section: "21134"
 chapter: 209
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "52 U.S.C. § 21134"
-generated_at: "2026-03-30T07:08:50.846Z"
+generated_at: "2026-03-30T07:10:38.314Z"
 status: "active"
 ---
 

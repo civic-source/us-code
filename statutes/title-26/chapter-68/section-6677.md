@@ -3,9 +3,9 @@ title: "Section 6677 - Failure to file information with respect to certain forei
 usc_title: 26
 usc_section: "6677"
 chapter: 68
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "26 U.S.C. § 6677"
-generated_at: "2026-03-30T07:08:15.773Z"
+generated_at: "2026-03-30T07:09:56.571Z"
 status: "active"
 ---
 

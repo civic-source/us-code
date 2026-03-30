@@ -3,9 +3,9 @@ title: "Section 33103 - Theft prevention standard for other lines"
 usc_title: 49
 usc_section: "33103"
 chapter: 331
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 33103"
-generated_at: "2026-03-30T07:08:49.144Z"
+generated_at: "2026-03-30T07:10:27.702Z"
 status: "active"
 ---
 

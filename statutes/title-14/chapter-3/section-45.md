@@ -3,9 +3,9 @@ title: "Section 45 - Repealed. Pub. L. 86–474 , § 1(4), May 14, 1960 , 74 Sta
 usc_title: 14
 usc_section: "45"
 chapter: 3
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "14 U.S.C. § 45"
-generated_at: "2026-03-30T07:07:42.510Z"
+generated_at: "2026-03-30T07:09:19.502Z"
 status: "repealed"
 ---
 

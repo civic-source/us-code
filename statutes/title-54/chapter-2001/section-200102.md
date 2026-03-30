@@ -3,9 +3,9 @@ title: "Section 200102 - Definitions"
 usc_title: 54
 usc_section: "200102"
 chapter: 2001
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "54 U.S.C. § 200102"
-generated_at: "2026-03-30T07:08:51.123Z"
+generated_at: "2026-03-30T07:10:38.776Z"
 status: "active"
 ---
 

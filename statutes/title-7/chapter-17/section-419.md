@@ -3,9 +3,9 @@ title: "Section 419 - Repealed. Oct. 31, 1951, ch. 654 , § 1(12), 65 Stat. 701"
 usc_title: 7
 usc_section: "419"
 chapter: 17
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 419"
-generated_at: "2026-03-30T07:07:34.902Z"
+generated_at: "2026-03-30T07:09:10.912Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2105 - Penalties and administrative actions"
 usc_title: 41
 usc_section: "2105"
 chapter: 21
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "41 U.S.C. § 2105"
-generated_at: "2026-03-30T07:08:28.244Z"
+generated_at: "2026-03-30T07:10:06.421Z"
 status: "active"
 ---
 

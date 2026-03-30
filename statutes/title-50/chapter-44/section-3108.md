@@ -3,9 +3,9 @@ title: "Section 3108 - Auditability of certain elements of the intelligence comm
 usc_title: 50
 usc_section: "3108"
 chapter: 44
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "50 U.S.C. § 3108"
-generated_at: "2026-03-30T07:08:43.692Z"
+generated_at: "2026-03-30T07:10:36.681Z"
 status: "active"
 ---
 

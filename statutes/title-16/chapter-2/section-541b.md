@@ -3,9 +3,9 @@ title: "Section 541b - Boundaries of scenic-research area; adjustments to subare
 usc_title: 16
 usc_section: "541b"
 chapter: 2
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 541b"
-generated_at: "2026-03-30T07:07:59.194Z"
+generated_at: "2026-03-30T07:09:40.381Z"
 status: "active"
 ---
 

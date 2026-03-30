@@ -3,9 +3,9 @@ title: "Section 1444d - Repealed. Pub. L. 101–624, title IV , § 401(1), Nov. 
 usc_title: 7
 usc_section: "1444d"
 chapter: 35
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 1444d"
-generated_at: "2026-03-30T07:07:34.927Z"
+generated_at: "2026-03-30T07:09:10.937Z"
 status: "repealed"
 ---
 

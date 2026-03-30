@@ -3,9 +3,9 @@ title: "Section 41104 - Processing of fingerprint identification records and nam
 usc_title: 34
 usc_section: "41104"
 chapter: 411
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "34 U.S.C. § 41104"
-generated_at: "2026-03-30T07:08:21.305Z"
+generated_at: "2026-03-30T07:09:59.170Z"
 status: "active"
 ---
 

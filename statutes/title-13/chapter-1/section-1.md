@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 13
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "13 U.S.C. § 1"
-generated_at: "2026-03-30T07:07:41.753Z"
+generated_at: "2026-03-30T07:09:17.819Z"
 status: "active"
 ---
 

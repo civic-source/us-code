@@ -3,9 +3,9 @@ title: "Section 7511c - Control of interstate ozone air pollution"
 usc_title: 42
 usc_section: "7511c"
 chapter: 85
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 7511c"
-generated_at: "2026-03-30T07:08:38.861Z"
+generated_at: "2026-03-30T07:10:19.917Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1803 - Responsibilities and authorities of Council"
 usc_title: 30
 usc_section: "1803"
 chapter: 30
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "30 U.S.C. § 1803"
-generated_at: "2026-03-30T07:08:10.374Z"
+generated_at: "2026-03-30T07:09:51.198Z"
 status: "active"
 ---
 

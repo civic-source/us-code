@@ -3,9 +3,9 @@ title: "Section 7422 - Administration"
 usc_title: 10
 usc_section: "7422"
 chapter: 641
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 7422"
-generated_at: "2026-03-30T07:07:40.107Z"
+generated_at: "2026-03-30T07:09:14.426Z"
 status: "active"
 ---
 

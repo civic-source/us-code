@@ -3,9 +3,9 @@ title: "Section 1514 - Remedies"
 usc_title: 33
 usc_section: "1514"
 chapter: 29
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "33 U.S.C. § 1514"
-generated_at: "2026-03-30T07:08:19.229Z"
+generated_at: "2026-03-30T07:10:00.641Z"
 status: "active"
 ---
 

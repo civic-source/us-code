@@ -3,9 +3,9 @@ title: "Section 2210a - Conflicts of interest relating to contracts and other ar
 usc_title: 42
 usc_section: "2210a"
 chapter: 23
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 2210a"
-generated_at: "2026-03-30T07:08:38.727Z"
+generated_at: "2026-03-30T07:10:19.788Z"
 status: "active"
 ---
 

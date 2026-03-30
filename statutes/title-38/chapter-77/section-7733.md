@@ -3,9 +3,9 @@ title: "Section 7733 - Personnel"
 usc_title: 38
 usc_section: "7733"
 chapter: 77
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "38 U.S.C. § 7733"
-generated_at: "2026-03-30T07:08:25.666Z"
+generated_at: "2026-03-30T07:10:04.405Z"
 status: "active"
 ---
 

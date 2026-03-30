@@ -3,9 +3,9 @@ title: "Section 1709 - Comprehensive policy on reporting and tracking sexual ass
 usc_title: 38
 usc_section: "1709"
 chapter: 17
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "38 U.S.C. § 1709"
-generated_at: "2026-03-30T07:08:25.619Z"
+generated_at: "2026-03-30T07:10:04.359Z"
 status: "active"
 ---
 

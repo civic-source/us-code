@@ -3,9 +3,9 @@ title: "Section 1490l - Processing of applications"
 usc_title: 42
 usc_section: "1490l"
 chapter: 8
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 1490l"
-generated_at: "2026-03-30T07:08:38.677Z"
+generated_at: "2026-03-30T07:10:19.739Z"
 status: "active"
 ---
 

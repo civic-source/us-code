@@ -3,9 +3,9 @@ title: "Section 7295 - Vessels: under-age"
 usc_title: 10
 usc_section: "7295"
 chapter: 633
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 7295"
-generated_at: "2026-03-30T07:07:40.106Z"
+generated_at: "2026-03-30T07:09:14.425Z"
 status: "active"
 ---
 

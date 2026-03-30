@@ -3,9 +3,9 @@ title: "Section 191b - Collection of unpaid and underpaid royalties and late pay
 usc_title: 30
 usc_section: "191b"
 chapter: 3
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "30 U.S.C. § 191b"
-generated_at: "2026-03-30T07:08:10.343Z"
+generated_at: "2026-03-30T07:09:51.169Z"
 status: "active"
 ---
 

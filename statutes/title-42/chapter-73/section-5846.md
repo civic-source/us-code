@@ -3,9 +3,9 @@ title: "Section 5846 - Compliance with safety regulations"
 usc_title: 42
 usc_section: "5846"
 chapter: 73
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 5846"
-generated_at: "2026-03-30T07:08:38.800Z"
+generated_at: "2026-03-30T07:10:19.858Z"
 status: "active"
 ---
 

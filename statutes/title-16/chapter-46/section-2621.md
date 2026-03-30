@@ -3,9 +3,9 @@ title: "Section 2621 - Consideration and determination respecting certain ratema
 usc_title: 16
 usc_section: "2621"
 chapter: 46
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 2621"
-generated_at: "2026-03-30T07:07:59.286Z"
+generated_at: "2026-03-30T07:09:40.467Z"
 status: "active"
 ---
 

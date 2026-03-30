@@ -3,9 +3,9 @@ title: "Section 1104 - Repealed. Pub. L. 94–237 , § 4(c)(1), Mar. 19, 1976 , 
 usc_title: 21
 usc_section: "1104"
 chapter: 16
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "21 U.S.C. § 1104"
-generated_at: "2026-03-30T07:08:02.829Z"
+generated_at: "2026-03-30T07:09:43.499Z"
 status: "repealed"
 ---
 

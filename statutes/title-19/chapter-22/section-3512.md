@@ -3,9 +3,9 @@ title: "Section 3512 - Relationship of agreements to United States law and State
 usc_title: 19
 usc_section: "3512"
 chapter: 22
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "19 U.S.C. § 3512"
-generated_at: "2026-03-30T07:07:56.321Z"
+generated_at: "2026-03-30T07:09:36.277Z"
 status: "active"
 ---
 

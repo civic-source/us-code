@@ -3,9 +3,9 @@ title: "Section 1475a - Replacement of passenger motor vehicles"
 usc_title: 22
 usc_section: "1475a"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 1475a"
-generated_at: "2026-03-30T07:08:06.094Z"
+generated_at: "2026-03-30T07:09:46.917Z"
 status: "active"
 ---
 

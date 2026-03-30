@@ -3,9 +3,9 @@ title: "Section 1676 - Issuance of rules and regulations for implementation of p
 usc_title: 16
 usc_section: "1676"
 chapter: 36
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 1676"
-generated_at: "2026-03-30T07:07:59.270Z"
+generated_at: "2026-03-30T07:09:40.452Z"
 status: "active"
 ---
 

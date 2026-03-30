@@ -3,9 +3,9 @@ title: "Section 5308 - Grant and cooperative agreements"
 usc_title: 25
 usc_section: "5308"
 chapter: 46
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "25 U.S.C. § 5308"
-generated_at: "2026-03-30T07:08:03.639Z"
+generated_at: "2026-03-30T07:09:44.790Z"
 status: "active"
 ---
 

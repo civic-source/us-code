@@ -3,9 +3,9 @@ title: "Section 3582 - Repealed. Pub. L. 96–513, title II , § 211, Dec. 12, 1
 usc_title: 10
 usc_section: "3582"
 chapter: 345
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 3582"
-generated_at: "2026-03-30T07:07:40.092Z"
+generated_at: "2026-03-30T07:09:14.410Z"
 status: "repealed"
 ---
 

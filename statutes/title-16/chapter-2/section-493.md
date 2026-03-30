@@ -3,9 +3,9 @@ title: "Section 493 - Omitted"
 usc_title: 16
 usc_section: "493"
 chapter: 2
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 493"
-generated_at: "2026-03-30T07:07:59.187Z"
+generated_at: "2026-03-30T07:09:40.374Z"
 status: "omitted"
 ---
 

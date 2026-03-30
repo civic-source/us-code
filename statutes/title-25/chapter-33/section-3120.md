@@ -3,9 +3,9 @@ title: "Section 3120 - Trust responsibility"
 usc_title: 25
 usc_section: "3120"
 chapter: 33
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "25 U.S.C. § 3120"
-generated_at: "2026-03-30T07:08:03.625Z"
+generated_at: "2026-03-30T07:09:44.777Z"
 status: "active"
 ---
 

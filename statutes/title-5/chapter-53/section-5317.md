@@ -3,9 +3,9 @@ title: "Section 5317 - Presidential authority to place positions at levels IV an
 usc_title: 5
 usc_section: "5317"
 chapter: 53
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 5317"
-generated_at: "2026-03-30T07:07:30.133Z"
+generated_at: "2026-03-30T07:09:04.780Z"
 status: "active"
 ---
 

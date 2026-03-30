@@ -3,9 +3,9 @@ title: "Section 15241 - Transferred"
 usc_title: 42
 usc_section: "15241"
 chapter: 145
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 15241"
-generated_at: "2026-03-30T07:08:38.999Z"
+generated_at: "2026-03-30T07:10:20.048Z"
 status: "transferred"
 ---
 

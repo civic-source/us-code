@@ -3,9 +3,9 @@ title: "Section 363 - Automated ship distress and safety systems"
 usc_title: 47
 usc_section: "363"
 chapter: 5
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "47 U.S.C. § 363"
-generated_at: "2026-03-30T07:08:46.366Z"
+generated_at: "2026-03-30T07:10:24.358Z"
 status: "active"
 ---
 

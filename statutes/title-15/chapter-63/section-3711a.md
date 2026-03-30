@@ -3,9 +3,9 @@ title: "Section 3711a - Malcolm Baldrige National Quality Award"
 usc_title: 15
 usc_section: "3711a"
 chapter: 63
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 3711a"
-generated_at: "2026-03-30T07:07:48.033Z"
+generated_at: "2026-03-30T07:09:31.576Z"
 status: "active"
 ---
 

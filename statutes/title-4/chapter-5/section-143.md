@@ -3,9 +3,9 @@ title: "Section 143 - Employment and utilization of other personnel; cost of cop
 usc_title: 4
 usc_section: "143"
 chapter: 5
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "4 U.S.C. § 143"
-generated_at: "2026-03-30T07:07:27.202Z"
+generated_at: "2026-03-30T07:09:02.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5314 - Technical assistance and workforce development"
 usc_title: 49
 usc_section: "5314"
 chapter: 53
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 5314"
-generated_at: "2026-03-30T07:08:49.103Z"
+generated_at: "2026-03-30T07:10:27.662Z"
 status: "active"
 ---
 

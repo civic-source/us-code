@@ -3,9 +3,9 @@ title: "Section 1311 - Authority of President to obtain release"
 usc_title: 40
 usc_section: "1311"
 chapter: 13
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "40 U.S.C. § 1311"
-generated_at: "2026-03-30T07:08:23.242Z"
+generated_at: "2026-03-30T07:10:04.775Z"
 status: "active"
 ---
 

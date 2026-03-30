@@ -3,9 +3,9 @@ title: "Section 351 - Renumbered § 261]"
 usc_title: 10
 usc_section: "351"
 chapter: 16
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 351"
-generated_at: "2026-03-30T07:07:39.997Z"
+generated_at: "2026-03-30T07:09:14.301Z"
 status: "renumbered"
 ---
 

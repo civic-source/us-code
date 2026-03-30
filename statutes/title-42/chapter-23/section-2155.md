@@ -3,9 +3,9 @@ title: "Section 2155 - Export licensing procedures"
 usc_title: 42
 usc_section: "2155"
 chapter: 23
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 2155"
-generated_at: "2026-03-30T07:08:38.722Z"
+generated_at: "2026-03-30T07:10:19.783Z"
 status: "active"
 ---
 

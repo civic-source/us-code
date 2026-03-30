@@ -3,9 +3,9 @@ title: "Section 950d - Interlocutory appeals by the United States"
 usc_title: 10
 usc_section: "950d"
 chapter: 47
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 950d"
-generated_at: "2026-03-30T07:07:40.016Z"
+generated_at: "2026-03-30T07:09:14.322Z"
 status: "active"
 ---
 

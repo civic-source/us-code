@@ -3,9 +3,9 @@ title: "Section 9414 - Quartermaster and ordnance property: sales"
 usc_title: 10
 usc_section: "9414"
 chapter: 907
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 9414"
-generated_at: "2026-03-30T07:07:40.115Z"
+generated_at: "2026-03-30T07:09:14.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286p - Issuance, purpose, and redemption of Special Drawing Righ
 usc_title: 22
 usc_section: "286p"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 286p"
-generated_at: "2026-03-30T07:08:06.082Z"
+generated_at: "2026-03-30T07:09:46.905Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1279 - Anthracite coal mines"
 usc_title: 30
 usc_section: "1279"
 chapter: 25
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "30 U.S.C. § 1279"
-generated_at: "2026-03-30T07:08:10.367Z"
+generated_at: "2026-03-30T07:09:51.191Z"
 status: "active"
 ---
 

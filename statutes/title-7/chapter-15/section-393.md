@@ -3,9 +3,9 @@ title: "Section 393 - Sale of pathological and zoological specimens; disposition
 usc_title: 7
 usc_section: "393"
 chapter: 15
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 393"
-generated_at: "2026-03-30T07:07:34.902Z"
+generated_at: "2026-03-30T07:09:10.911Z"
 status: "active"
 ---
 

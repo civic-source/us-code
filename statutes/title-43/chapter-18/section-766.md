@@ -3,9 +3,9 @@ title: "Section 766 - Geological surveys, extension of public surveys, expenses 
 usc_title: 43
 usc_section: "766"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "43 U.S.C. § 766"
-generated_at: "2026-03-30T07:08:27.993Z"
+generated_at: "2026-03-30T07:10:07.404Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2911 - Study on most equitable and effective mechanism for fundi
 usc_title: 16
 usc_section: "2911"
 chapter: 49
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 2911"
-generated_at: "2026-03-30T07:07:59.288Z"
+generated_at: "2026-03-30T07:09:40.470Z"
 status: "active"
 ---
 

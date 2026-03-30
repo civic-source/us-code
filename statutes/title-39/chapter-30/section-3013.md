@@ -3,9 +3,9 @@ title: "Section 3013 - Semiannual reports on investigative activities of the Pos
 usc_title: 39
 usc_section: "3013"
 chapter: 30
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "39 U.S.C. § 3013"
-generated_at: "2026-03-30T07:08:23.427Z"
+generated_at: "2026-03-30T07:10:02.148Z"
 status: "active"
 ---
 

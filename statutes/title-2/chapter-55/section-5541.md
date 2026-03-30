@@ -3,9 +3,9 @@ title: "Section 5541 - Fees for internal delivery in House of Representatives of
 usc_title: 2
 usc_section: "5541"
 chapter: 55
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "2 U.S.C. § 5541"
-generated_at: "2026-03-30T07:07:28.510Z"
+generated_at: "2026-03-30T07:09:03.156Z"
 status: "active"
 ---
 

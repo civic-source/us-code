@@ -3,9 +3,9 @@ title: "Section 580h - Range improvements from appropriated funds"
 usc_title: 16
 usc_section: "580h"
 chapter: 3
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 580h"
-generated_at: "2026-03-30T07:07:59.201Z"
+generated_at: "2026-03-30T07:09:40.388Z"
 status: "active"
 ---
 

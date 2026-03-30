@@ -3,9 +3,9 @@ title: "Section 5843 - Advisory council"
 usc_title: 7
 usc_section: "5843"
 chapter: 88
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 5843"
-generated_at: "2026-03-30T07:07:35.007Z"
+generated_at: "2026-03-30T07:09:11.008Z"
 status: "active"
 ---
 

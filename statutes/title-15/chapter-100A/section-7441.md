@@ -3,9 +3,9 @@ title: "Section 7441 - Cybersecurity competitions and challenges"
 usc_title: 15
 usc_section: "7441"
 chapter: 100
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 7441"
-generated_at: "2026-03-30T07:07:48.057Z"
+generated_at: "2026-03-30T07:09:31.601Z"
 status: "active"
 ---
 

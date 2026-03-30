@@ -3,9 +3,9 @@ title: "Section 31109 - Service of process"
 usc_title: 36
 usc_section: "31109"
 chapter: 311
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "36 U.S.C. § 31109"
-generated_at: "2026-03-30T07:08:24.285Z"
+generated_at: "2026-03-30T07:10:03.214Z"
 status: "active"
 ---
 

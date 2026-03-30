@@ -3,9 +3,9 @@ title: "Section 6652 - Failure to file certain information returns, registration
 usc_title: 26
 usc_section: "6652"
 chapter: 68
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "26 U.S.C. § 6652"
-generated_at: "2026-03-30T07:08:15.771Z"
+generated_at: "2026-03-30T07:09:56.568Z"
 status: "active"
 ---
 

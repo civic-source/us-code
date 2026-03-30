@@ -3,9 +3,9 @@ title: "Section 3666 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3666"
 chapter: 38
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "25 U.S.C. § 3666"
-generated_at: "2026-03-30T07:08:03.629Z"
+generated_at: "2026-03-30T07:09:44.780Z"
 status: "active"
 ---
 

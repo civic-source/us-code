@@ -3,9 +3,9 @@ title: "Section 11211 - Authority to make grants"
 usc_title: 34
 usc_section: "11211"
 chapter: 111
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "34 U.S.C. § 11211"
-generated_at: "2026-03-30T07:08:21.279Z"
+generated_at: "2026-03-30T07:09:59.144Z"
 status: "active"
 ---
 

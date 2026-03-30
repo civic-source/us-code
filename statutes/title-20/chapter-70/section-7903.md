@@ -3,9 +3,9 @@ title: "Section 7903 - Privacy of assessment results"
 usc_title: 20
 usc_section: "7903"
 chapter: 70
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "20 U.S.C. § 7903"
-generated_at: "2026-03-30T07:07:52.931Z"
+generated_at: "2026-03-30T07:09:38.242Z"
 status: "active"
 ---
 

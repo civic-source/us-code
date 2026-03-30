@@ -3,9 +3,9 @@ title: "Section 2304 - Compensation of members; availability of trust funds for 
 usc_title: 44
 usc_section: "2304"
 chapter: 23
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "44 U.S.C. § 2304"
-generated_at: "2026-03-30T07:08:27.475Z"
+generated_at: "2026-03-30T07:10:07.831Z"
 status: "active"
 ---
 

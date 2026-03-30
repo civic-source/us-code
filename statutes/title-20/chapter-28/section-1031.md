@@ -3,9 +3,9 @@ title: "Section 1031 - Authorization of appropriations"
 usc_title: 20
 usc_section: "1031"
 chapter: 28
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "20 U.S.C. § 1031"
-generated_at: "2026-03-30T07:07:52.824Z"
+generated_at: "2026-03-30T07:09:38.135Z"
 status: "active"
 ---
 

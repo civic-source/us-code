@@ -3,9 +3,9 @@ title: "Section 4 - Pledge of allegiance to the flag; manner of delivery"
 usc_title: 4
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "4 U.S.C. § 4"
-generated_at: "2026-03-30T07:07:27.198Z"
+generated_at: "2026-03-30T07:09:02.128Z"
 status: "active"
 ---
 

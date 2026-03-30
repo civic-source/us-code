@@ -3,9 +3,9 @@ title: "Section 5416 - Definitions of package and packaging"
 usc_title: 26
 usc_section: "5416"
 chapter: 51
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "26 U.S.C. § 5416"
-generated_at: "2026-03-30T07:08:15.741Z"
+generated_at: "2026-03-30T07:09:56.540Z"
 status: "active"
 ---
 

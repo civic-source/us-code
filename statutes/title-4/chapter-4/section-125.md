@@ -3,9 +3,9 @@ title: "Section 125 - Nonseverability"
 usc_title: 4
 usc_section: "125"
 chapter: 4
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "4 U.S.C. § 125"
-generated_at: "2026-03-30T07:07:27.202Z"
+generated_at: "2026-03-30T07:09:02.129Z"
 status: "active"
 ---
 

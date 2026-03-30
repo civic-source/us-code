@@ -3,9 +3,9 @@ title: "Section 308f - Repealed. Pub. L. 106–398 , § 1 [[div. A], title VI, �
 usc_title: 37
 usc_section: "308f"
 chapter: 5
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "37 U.S.C. § 308f"
-generated_at: "2026-03-30T07:08:23.737Z"
+generated_at: "2026-03-30T07:10:02.637Z"
 status: "repealed"
 ---
 

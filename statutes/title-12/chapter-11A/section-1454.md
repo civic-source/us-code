@@ -3,9 +3,9 @@ title: "Section 1454 - Purchase and sale of mortgages; residential mortgages; co
 usc_title: 12
 usc_section: "1454"
 chapter: 11
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "12 U.S.C. § 1454"
-generated_at: "2026-03-30T07:07:44.695Z"
+generated_at: "2026-03-30T07:09:21.188Z"
 status: "active"
 ---
 

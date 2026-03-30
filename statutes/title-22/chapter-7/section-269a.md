@@ -3,9 +3,9 @@ title: "Section 269a - Central Bureau of the International Map of the World on t
 usc_title: 22
 usc_section: "269a"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 269a"
-generated_at: "2026-03-30T07:08:06.073Z"
+generated_at: "2026-03-30T07:09:46.897Z"
 status: "active"
 ---
 

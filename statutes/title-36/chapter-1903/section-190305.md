@@ -3,9 +3,9 @@ title: "Section 190305 - Governing body"
 usc_title: 36
 usc_section: "190305"
 chapter: 1903
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "36 U.S.C. § 190305"
-generated_at: "2026-03-30T07:08:24.296Z"
+generated_at: "2026-03-30T07:10:03.225Z"
 status: "active"
 ---
 

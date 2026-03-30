@@ -3,9 +3,9 @@ title: "Section 350 - Purchase and sale of debentures and like obligations of in
 usc_title: 12
 usc_section: "350"
 chapter: 3
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "12 U.S.C. § 350"
-generated_at: "2026-03-30T07:07:44.680Z"
+generated_at: "2026-03-30T07:09:21.174Z"
 status: "active"
 ---
 

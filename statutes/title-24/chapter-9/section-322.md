@@ -3,9 +3,9 @@ title: "Section 322 - Reception of eligible persons at ports of entry or debarka
 usc_title: 24
 usc_section: "322"
 chapter: 9
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "24 U.S.C. § 322"
-generated_at: "2026-03-30T07:08:01.205Z"
+generated_at: "2026-03-30T07:09:42.353Z"
 status: "active"
 ---
 

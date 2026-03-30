@@ -3,9 +3,9 @@ title: "Section 1006a - Loans or advancements for financing local share of costs
 usc_title: 16
 usc_section: "1006a"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 1006a"
-generated_at: "2026-03-30T07:07:59.242Z"
+generated_at: "2026-03-30T07:09:40.427Z"
 status: "active"
 ---
 

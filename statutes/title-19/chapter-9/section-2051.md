@@ -3,9 +3,9 @@ title: "Section 2051 - Implementation of the Agreement; executive designation an
 usc_title: 19
 usc_section: "2051"
 chapter: 9
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "19 U.S.C. § 2051"
-generated_at: "2026-03-30T07:07:56.295Z"
+generated_at: "2026-03-30T07:09:36.248Z"
 status: "active"
 ---
 

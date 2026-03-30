@@ -3,9 +3,9 @@ title: "Section 458 - Office of Counternarcotics Enforcement"
 usc_title: 6
 usc_section: "458"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "6 U.S.C. § 458"
-generated_at: "2026-03-30T07:07:35.758Z"
+generated_at: "2026-03-30T07:09:07.468Z"
 status: "active"
 ---
 

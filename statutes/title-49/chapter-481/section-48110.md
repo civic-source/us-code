@@ -3,9 +3,9 @@ title: "Section 48110 - Facilities for advanced training of maintenance technici
 usc_title: 49
 usc_section: "48110"
 chapter: 481
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 48110"
-generated_at: "2026-03-30T07:08:49.172Z"
+generated_at: "2026-03-30T07:10:27.730Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1415 - Transfers pursuant to change in bargaining representative
 usc_title: 29
 usc_section: "1415"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "29 U.S.C. § 1415"
-generated_at: "2026-03-30T07:08:09.883Z"
+generated_at: "2026-03-30T07:09:50.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6321 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "6321"
 chapter: 77
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 6321"
-generated_at: "2026-03-30T07:08:38.816Z"
+generated_at: "2026-03-30T07:10:19.873Z"
 status: "active"
 ---
 

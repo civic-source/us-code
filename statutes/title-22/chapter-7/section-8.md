@@ -3,9 +3,9 @@ title: "Section 8 - Congressional consultations"
 usc_title: 22
 usc_section: "8"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 8"
-generated_at: "2026-03-30T07:08:06.087Z"
+generated_at: "2026-03-30T07:09:46.910Z"
 status: "active"
 ---
 

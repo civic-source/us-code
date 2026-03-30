@@ -3,9 +3,9 @@ title: "Section 5865 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 
 usc_title: 10
 usc_section: "5865"
 chapter: 547
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 5865"
-generated_at: "2026-03-30T07:07:40.100Z"
+generated_at: "2026-03-30T07:09:14.419Z"
 status: "repealed"
 ---
 

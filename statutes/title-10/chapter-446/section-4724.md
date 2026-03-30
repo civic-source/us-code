@@ -3,9 +3,9 @@ title: "Section 4724 - Executive Director"
 usc_title: 10
 usc_section: "4724"
 chapter: 446
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 4724"
-generated_at: "2026-03-30T07:07:40.097Z"
+generated_at: "2026-03-30T07:09:14.415Z"
 status: "active"
 ---
 

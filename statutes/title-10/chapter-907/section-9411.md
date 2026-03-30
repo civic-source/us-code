@@ -3,9 +3,9 @@ title: "Section 9411 - Establishment: purpose"
 usc_title: 10
 usc_section: "9411"
 chapter: 907
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 9411"
-generated_at: "2026-03-30T07:07:40.115Z"
+generated_at: "2026-03-30T07:09:14.435Z"
 status: "active"
 ---
 

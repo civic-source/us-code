@@ -3,9 +3,9 @@ title: "Section 1219 - Public information"
 usc_title: 5
 usc_section: "1219"
 chapter: 12
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 1219"
-generated_at: "2026-03-30T07:07:30.118Z"
+generated_at: "2026-03-30T07:09:04.768Z"
 status: "active"
 ---
 

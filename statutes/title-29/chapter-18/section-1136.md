@@ -3,9 +3,9 @@ title: "Section 1136 - Coordination and responsibility of agencies enforcing thi
 usc_title: 29
 usc_section: "1136"
 chapter: 18
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "29 U.S.C. § 1136"
-generated_at: "2026-03-30T07:08:09.870Z"
+generated_at: "2026-03-30T07:09:50.811Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8354 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "8354"
 chapter: 837
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 8354"
-generated_at: "2026-03-30T07:07:40.112Z"
+generated_at: "2026-03-30T07:09:14.431Z"
 status: "repealed"
 ---
 

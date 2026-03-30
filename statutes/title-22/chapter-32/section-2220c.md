@@ -3,9 +3,9 @@ title: "Section 2220c - Board for International Food and Agricultural Developmen
 usc_title: 22
 usc_section: "2220c"
 chapter: 32
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 2220c"
-generated_at: "2026-03-30T07:08:06.112Z"
+generated_at: "2026-03-30T07:09:46.935Z"
 status: "active"
 ---
 

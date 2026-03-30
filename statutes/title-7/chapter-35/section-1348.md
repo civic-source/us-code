@@ -3,9 +3,9 @@ title: "Section 1348 - Payments in kind to equalize cost of cotton to domestic a
 usc_title: 7
 usc_section: "1348"
 chapter: 35
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 1348"
-generated_at: "2026-03-30T07:07:34.921Z"
+generated_at: "2026-03-30T07:09:10.931Z"
 status: "active"
 ---
 

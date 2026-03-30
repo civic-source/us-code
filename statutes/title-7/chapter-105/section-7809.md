@@ -3,9 +3,9 @@ title: "Section 7809 - Confidentiality"
 usc_title: 7
 usc_section: "7809"
 chapter: 105
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 7809"
-generated_at: "2026-03-30T07:07:35.038Z"
+generated_at: "2026-03-30T07:09:11.038Z"
 status: "active"
 ---
 

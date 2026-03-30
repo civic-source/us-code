@@ -3,9 +3,9 @@ title: "Section 1685 - Transfer of property or money for administration of Trust
 usc_title: 48
 usc_section: "1685"
 chapter: 14
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "48 U.S.C. § 1685"
-generated_at: "2026-03-30T07:08:45.984Z"
+generated_at: "2026-03-30T07:10:22.633Z"
 status: "active"
 ---
 

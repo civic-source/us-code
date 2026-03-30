@@ -3,9 +3,9 @@ title: "Section 6542 - Employees of Senate Disbursing Office; designation by Sec
 usc_title: 2
 usc_section: "6542"
 chapter: 65
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "2 U.S.C. § 6542"
-generated_at: "2026-03-30T07:07:28.514Z"
+generated_at: "2026-03-30T07:09:03.158Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2304 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2304"
 chapter: 43
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 2304"
-generated_at: "2026-03-30T07:07:59.284Z"
+generated_at: "2026-03-30T07:09:40.465Z"
 status: "repealed"
 ---
 

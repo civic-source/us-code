@@ -3,9 +3,9 @@ title: "Section 2311 - Assignment and delegation of procurement functions and re
 usc_title: 10
 usc_section: "2311"
 chapter: 137
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 2311"
-generated_at: "2026-03-30T07:07:40.059Z"
+generated_at: "2026-03-30T07:09:14.372Z"
 status: "active"
 ---
 

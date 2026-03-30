@@ -3,9 +3,9 @@ title: "Section 803 - Special rule on statutory, regulatory, and judicial deadli
 usc_title: 5
 usc_section: "803"
 chapter: 8
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 803"
-generated_at: "2026-03-30T07:07:30.116Z"
+generated_at: "2026-03-30T07:09:04.765Z"
 status: "active"
 ---
 

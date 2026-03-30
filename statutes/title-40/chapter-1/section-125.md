@@ -3,9 +3,9 @@ title: "Section 125 - Library memberships"
 usc_title: 40
 usc_section: "125"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "40 U.S.C. § 125"
-generated_at: "2026-03-30T07:08:23.238Z"
+generated_at: "2026-03-30T07:10:04.770Z"
 status: "active"
 ---
 

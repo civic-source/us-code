@@ -3,9 +3,9 @@ title: "Section 8069 - Air Force nurses: Chief; appointment"
 usc_title: 10
 usc_section: "8069"
 chapter: 807
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 8069"
-generated_at: "2026-03-30T07:07:40.111Z"
+generated_at: "2026-03-30T07:09:14.431Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1252a - Reservoir projects, water storage; modification; storage
 usc_title: 33
 usc_section: "1252a"
 chapter: 26
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "33 U.S.C. § 1252a"
-generated_at: "2026-03-30T07:08:19.206Z"
+generated_at: "2026-03-30T07:10:00.621Z"
 status: "active"
 ---
 

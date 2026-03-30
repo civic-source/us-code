@@ -3,9 +3,9 @@ title: "Section 742g - Cooperation with State Department"
 usc_title: 16
 usc_section: "742g"
 chapter: 9
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 742g"
-generated_at: "2026-03-30T07:07:59.218Z"
+generated_at: "2026-03-30T07:09:40.404Z"
 status: "active"
 ---
 

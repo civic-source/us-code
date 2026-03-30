@@ -3,9 +3,9 @@ title: "Section 149 - Bylaws"
 usc_title: 15
 usc_section: "149"
 chapter: 4
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 149"
-generated_at: "2026-03-30T07:07:47.931Z"
+generated_at: "2026-03-30T07:09:31.475Z"
 status: "active"
 ---
 

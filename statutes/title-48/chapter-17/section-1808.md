@@ -3,9 +3,9 @@ title: "Section 1808 - Operations"
 usc_title: 48
 usc_section: "1808"
 chapter: 17
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "48 U.S.C. § 1808"
-generated_at: "2026-03-30T07:08:45.986Z"
+generated_at: "2026-03-30T07:10:22.634Z"
 status: "active"
 ---
 

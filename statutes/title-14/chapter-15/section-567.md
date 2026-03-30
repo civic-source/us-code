@@ -3,9 +3,9 @@ title: "Section 567 - Undefinitized contractual actions"
 usc_title: 14
 usc_section: "567"
 chapter: 15
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "14 U.S.C. § 567"
-generated_at: "2026-03-30T07:07:42.515Z"
+generated_at: "2026-03-30T07:09:19.506Z"
 status: "active"
 ---
 

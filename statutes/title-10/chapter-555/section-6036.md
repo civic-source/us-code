@@ -3,9 +3,9 @@ title: "Section 6036 - Fatality reviews"
 usc_title: 10
 usc_section: "6036"
 chapter: 555
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 6036"
-generated_at: "2026-03-30T07:07:40.101Z"
+generated_at: "2026-03-30T07:09:14.419Z"
 status: "active"
 ---
 

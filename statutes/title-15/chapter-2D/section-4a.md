@@ -3,9 +3,9 @@ title: "Section 4a - Prevention of misuse of nonpublic information"
 usc_title: 15
 usc_section: "4a"
 chapter: 2
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 4a"
-generated_at: "2026-03-30T07:07:47.930Z"
+generated_at: "2026-03-30T07:09:31.474Z"
 status: "active"
 ---
 

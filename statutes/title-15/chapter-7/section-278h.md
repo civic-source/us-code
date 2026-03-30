@@ -3,9 +3,9 @@ title: "Section 278h - Research program on security of computer systems"
 usc_title: 15
 usc_section: "278h"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 278h"
-generated_at: "2026-03-30T07:07:47.935Z"
+generated_at: "2026-03-30T07:09:31.479Z"
 status: "active"
 ---
 

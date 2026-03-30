@@ -3,9 +3,9 @@ title: "Section 1802 - Establishment of National Critical Materials Council"
 usc_title: 30
 usc_section: "1802"
 chapter: 30
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "30 U.S.C. § 1802"
-generated_at: "2026-03-30T07:08:10.374Z"
+generated_at: "2026-03-30T07:09:51.197Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 456 - Repealed. Pub. L. 94–283, title I , § 111, May 11, 1976
 usc_title: 2
 usc_section: "456"
 chapter: 14
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "2 U.S.C. § 456"
-generated_at: "2026-03-30T07:07:28.474Z"
+generated_at: "2026-03-30T07:09:03.121Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 486 - Limitation of liability"
 usc_title: 6
 usc_section: "486"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "6 U.S.C. § 486"
-generated_at: "2026-03-30T07:07:35.760Z"
+generated_at: "2026-03-30T07:09:07.470Z"
 status: "active"
 ---
 

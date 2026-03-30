@@ -3,9 +3,9 @@ title: "Section 7215 - Repealed. Pub. L. 90–377 , § 6(2), July 5, 1968 , 82 S
 usc_title: 10
 usc_section: "7215"
 chapter: 631
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 7215"
-generated_at: "2026-03-30T07:07:40.105Z"
+generated_at: "2026-03-30T07:09:14.424Z"
 status: "repealed"
 ---
 

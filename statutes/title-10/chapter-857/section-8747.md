@@ -3,9 +3,9 @@ title: "Section 8747 - Medal of honor; Air Force cross; distinguished-service cr
 usc_title: 10
 usc_section: "8747"
 chapter: 857
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 8747"
-generated_at: "2026-03-30T07:07:40.112Z"
+generated_at: "2026-03-30T07:09:14.432Z"
 status: "active"
 ---
 

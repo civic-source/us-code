@@ -3,9 +3,9 @@ title: "Section 4003 - Safeguard exceptions"
 usc_title: 12
 usc_section: "4003"
 chapter: 41
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "12 U.S.C. § 4003"
-generated_at: "2026-03-30T07:07:44.790Z"
+generated_at: "2026-03-30T07:09:21.281Z"
 status: "active"
 ---
 

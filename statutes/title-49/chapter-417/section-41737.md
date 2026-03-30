@@ -3,9 +3,9 @@ title: "Section 41737 - Compensation guidelines, limitations, and claims"
 usc_title: 49
 usc_section: "41737"
 chapter: 417
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 41737"
-generated_at: "2026-03-30T07:08:49.152Z"
+generated_at: "2026-03-30T07:10:27.710Z"
 status: "active"
 ---
 

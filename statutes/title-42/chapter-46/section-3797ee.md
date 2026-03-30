@@ -3,9 +3,9 @@ title: "Section 3797ee - Transferred"
 usc_title: 42
 usc_section: "3797ee"
 chapter: 46
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 3797ee"
-generated_at: "2026-03-30T07:08:38.761Z"
+generated_at: "2026-03-30T07:10:19.820Z"
 status: "transferred"
 ---
 

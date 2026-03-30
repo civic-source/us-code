@@ -3,9 +3,9 @@ title: "Section 34 - Licenses for landing or operating cables connecting United 
 usc_title: 47
 usc_section: "34"
 chapter: 2
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "47 U.S.C. § 34"
-generated_at: "2026-03-30T07:08:46.348Z"
+generated_at: "2026-03-30T07:10:24.338Z"
 status: "active"
 ---
 

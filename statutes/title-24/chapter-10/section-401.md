@@ -3,9 +3,9 @@ title: "Section 401 - Definitions"
 usc_title: 24
 usc_section: "401"
 chapter: 10
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "24 U.S.C. § 401"
-generated_at: "2026-03-30T07:08:01.205Z"
+generated_at: "2026-03-30T07:09:42.354Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 190 - Renumbered §§ 601 to 610]"
 usc_title: 23
 usc_section: "190"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "23 U.S.C. § 190"
-generated_at: "2026-03-30T07:08:01.838Z"
+generated_at: "2026-03-30T07:09:43.946Z"
 status: "renumbered"
 ---
 

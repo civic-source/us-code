@@ -3,9 +3,9 @@ title: "Section 4604 - Repealed. Pub. L. 104–66, title I , § 1031(a)(2), Dec.
 usc_title: 15
 usc_section: "4604"
 chapter: 72
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "15 U.S.C. § 4604"
-generated_at: "2026-03-30T07:07:48.038Z"
+generated_at: "2026-03-30T07:09:31.582Z"
 status: "repealed"
 ---
 

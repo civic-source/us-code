@@ -3,9 +3,9 @@ title: "Section 8531 - Repealed. Pub. L. 96–513, title II , § 233(b), Dec. 12
 usc_title: 10
 usc_section: "8531"
 chapter: 843
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 8531"
-generated_at: "2026-03-30T07:07:40.112Z"
+generated_at: "2026-03-30T07:09:14.431Z"
 status: "repealed"
 ---
 

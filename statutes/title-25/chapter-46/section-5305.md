@@ -3,9 +3,9 @@ title: "Section 5305 - Reporting and audit requirements for recipients of Federa
 usc_title: 25
 usc_section: "5305"
 chapter: 46
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "25 U.S.C. § 5305"
-generated_at: "2026-03-30T07:08:03.639Z"
+generated_at: "2026-03-30T07:09:44.790Z"
 status: "active"
 ---
 

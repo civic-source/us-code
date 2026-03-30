@@ -3,9 +3,9 @@ title: "Section 3616a - Fair housing initiatives program"
 usc_title: 42
 usc_section: "3616a"
 chapter: 45
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 3616a"
-generated_at: "2026-03-30T07:08:38.760Z"
+generated_at: "2026-03-30T07:10:19.819Z"
 status: "active"
 ---
 

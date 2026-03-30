@@ -3,9 +3,9 @@ title: "Section 8261 - Omitted"
 usc_title: 42
 usc_section: "8261"
 chapter: 91
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 8261"
-generated_at: "2026-03-30T07:08:38.888Z"
+generated_at: "2026-03-30T07:10:19.942Z"
 status: "omitted"
 ---
 

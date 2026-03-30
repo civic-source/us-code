@@ -3,9 +3,9 @@ title: "Section 2162 - Classification and declassification of Restricted Data"
 usc_title: 42
 usc_section: "2162"
 chapter: 23
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 2162"
-generated_at: "2026-03-30T07:08:38.724Z"
+generated_at: "2026-03-30T07:10:19.785Z"
 status: "active"
 ---
 

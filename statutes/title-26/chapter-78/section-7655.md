@@ -3,9 +3,9 @@ title: "Section 7655 - Cross references"
 usc_title: 26
 usc_section: "7655"
 chapter: 78
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "26 U.S.C. § 7655"
-generated_at: "2026-03-30T07:08:15.789Z"
+generated_at: "2026-03-30T07:09:56.585Z"
 status: "active"
 ---
 

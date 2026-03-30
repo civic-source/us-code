@@ -3,9 +3,9 @@ title: "Section 2606 - Subpena authority"
 usc_title: 33
 usc_section: "2606"
 chapter: 39
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "33 U.S.C. § 2606"
-generated_at: "2026-03-30T07:08:19.246Z"
+generated_at: "2026-03-30T07:10:00.655Z"
 status: "active"
 ---
 

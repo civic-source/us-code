@@ -3,9 +3,9 @@ title: "Section 12651f - Employees, consultants, and other personnel"
 usc_title: 42
 usc_section: "12651f"
 chapter: 129
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 12651f"
-generated_at: "2026-03-30T07:08:38.968Z"
+generated_at: "2026-03-30T07:10:20.017Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24102 - Definitions"
 usc_title: 49
 usc_section: "24102"
 chapter: 241
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "49 U.S.C. § 24102"
-generated_at: "2026-03-30T07:08:49.122Z"
+generated_at: "2026-03-30T07:10:27.682Z"
 status: "active"
 ---
 

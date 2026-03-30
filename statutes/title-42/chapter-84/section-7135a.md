@@ -3,9 +3,9 @@ title: "Section 7135a - Delegation by Secretary of Energy of energy research, et
 usc_title: 42
 usc_section: "7135a"
 chapter: 84
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 7135a"
-generated_at: "2026-03-30T07:08:38.840Z"
+generated_at: "2026-03-30T07:10:19.896Z"
 status: "active"
 ---
 

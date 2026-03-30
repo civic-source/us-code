@@ -3,9 +3,9 @@ title: "Section 8110 - Feedstock flexibility program for bioenergy producers"
 usc_title: 7
 usc_section: "8110"
 chapter: 107
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 8110"
-generated_at: "2026-03-30T07:07:35.044Z"
+generated_at: "2026-03-30T07:09:11.044Z"
 status: "active"
 ---
 

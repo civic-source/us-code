@@ -3,9 +3,9 @@ title: "Section 796 - Definitions"
 usc_title: 16
 usc_section: "796"
 chapter: 12
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 796"
-generated_at: "2026-03-30T07:07:59.222Z"
+generated_at: "2026-03-30T07:09:40.407Z"
 status: "active"
 ---
 

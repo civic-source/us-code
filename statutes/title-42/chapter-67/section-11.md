@@ -3,9 +3,9 @@ title: "Section 11 - Establishment of local projects"
 usc_title: 42
 usc_section: "11"
 chapter: 67
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T07:08:38.784Z"
+generated_at: "2026-03-30T07:10:19.843Z"
 status: "active"
 ---
 

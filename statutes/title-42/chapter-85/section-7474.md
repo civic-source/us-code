@@ -3,9 +3,9 @@ title: "Section 7474 - Area redesignation"
 usc_title: 42
 usc_section: "7474"
 chapter: 85
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 7474"
-generated_at: "2026-03-30T07:08:38.857Z"
+generated_at: "2026-03-30T07:10:19.913Z"
 status: "active"
 ---
 

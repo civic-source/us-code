@@ -3,9 +3,9 @@ title: "Section 837b - Contract terms and conditions for use of electric energy 
 usc_title: 16
 usc_section: "837b"
 chapter: 12
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 837b"
-generated_at: "2026-03-30T07:07:59.234Z"
+generated_at: "2026-03-30T07:09:40.420Z"
 status: "active"
 ---
 

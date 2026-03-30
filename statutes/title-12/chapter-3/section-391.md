@@ -3,9 +3,9 @@ title: "Section 391 - Federal reserve banks as Government depositaries and fisca
 usc_title: 12
 usc_section: "391"
 chapter: 3
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "12 U.S.C. § 391"
-generated_at: "2026-03-30T07:07:44.681Z"
+generated_at: "2026-03-30T07:09:21.175Z"
 status: "active"
 ---
 

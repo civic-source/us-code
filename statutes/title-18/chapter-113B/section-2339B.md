@@ -3,9 +3,9 @@ title: "Section 2339B - Providing material support or resources to designated fo
 usc_title: 18
 usc_section: "2339B"
 chapter: 113
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "18 U.S.C. § 2339B"
-generated_at: "2026-03-30T07:07:51.127Z"
+generated_at: "2026-03-30T07:09:35.163Z"
 status: "active"
 ---
 

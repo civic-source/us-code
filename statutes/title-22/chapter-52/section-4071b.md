@@ -3,9 +3,9 @@ title: "Section 4071b - Participants"
 usc_title: 22
 usc_section: "4071b"
 chapter: 52
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 4071b"
-generated_at: "2026-03-30T07:08:06.157Z"
+generated_at: "2026-03-30T07:09:46.980Z"
 status: "active"
 ---
 

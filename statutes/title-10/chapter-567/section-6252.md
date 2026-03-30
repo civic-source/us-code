@@ -3,9 +3,9 @@ title: "Section 6252 - Regulations"
 usc_title: 10
 usc_section: "6252"
 chapter: 567
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 6252"
-generated_at: "2026-03-30T07:07:40.102Z"
+generated_at: "2026-03-30T07:09:14.420Z"
 status: "active"
 ---
 

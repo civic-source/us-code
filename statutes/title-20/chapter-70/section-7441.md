@@ -3,9 +3,9 @@ title: "Section 7441 - Improvement of educational opportunities for Indian child
 usc_title: 20
 usc_section: "7441"
 chapter: 70
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "20 U.S.C. § 7441"
-generated_at: "2026-03-30T07:07:52.924Z"
+generated_at: "2026-03-30T07:09:38.235Z"
 status: "active"
 ---
 

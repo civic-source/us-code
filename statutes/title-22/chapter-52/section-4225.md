@@ -3,9 +3,9 @@ title: "Section 4225 - Fiscal districts; establishment; district accounting and 
 usc_title: 22
 usc_section: "4225"
 chapter: 52
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 4225"
-generated_at: "2026-03-30T07:08:06.161Z"
+generated_at: "2026-03-30T07:09:46.984Z"
 status: "active"
 ---
 

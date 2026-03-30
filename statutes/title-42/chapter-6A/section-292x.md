@@ -3,9 +3,9 @@ title: "Section 292x - Distribution of assets from loan funds"
 usc_title: 42
 usc_section: "292x"
 chapter: 6
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 292x"
-generated_at: "2026-03-30T07:08:38.413Z"
+generated_at: "2026-03-30T07:10:19.487Z"
 status: "active"
 ---
 

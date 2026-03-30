@@ -3,9 +3,9 @@ title: "Section 5039 - Repealed. Pub. L. 103–149 , § 4(a)(1), Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5039"
 chapter: 60
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "22 U.S.C. § 5039"
-generated_at: "2026-03-30T07:08:06.167Z"
+generated_at: "2026-03-30T07:09:46.989Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 405 - Use of Department of Defense funds for United States share
 usc_title: 10
 usc_section: "405"
 chapter: 20
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 405"
-generated_at: "2026-03-30T07:07:39.999Z"
+generated_at: "2026-03-30T07:09:14.302Z"
 status: "active"
 ---
 

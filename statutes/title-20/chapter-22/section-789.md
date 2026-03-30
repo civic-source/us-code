@@ -3,9 +3,9 @@ title: "Section 789 - Repealed. Pub. L. 89–209 , § 6(d)(5), Sept. 29, 1965 , 
 usc_title: 20
 usc_section: "789"
 chapter: 22
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "20 U.S.C. § 789"
-generated_at: "2026-03-30T07:07:52.815Z"
+generated_at: "2026-03-30T07:09:38.125Z"
 status: "repealed"
 ---
 

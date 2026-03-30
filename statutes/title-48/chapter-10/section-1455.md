@@ -3,9 +3,9 @@ title: "Section 1455 - Repealed. Pub. L. 98–213 , § 16(c)–(f), Dec. 8, 1983
 usc_title: 48
 usc_section: "1455"
 chapter: 10
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "48 U.S.C. § 1455"
-generated_at: "2026-03-30T07:08:45.980Z"
+generated_at: "2026-03-30T07:10:22.628Z"
 status: "repealed"
 ---
 

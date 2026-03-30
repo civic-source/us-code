@@ -3,9 +3,9 @@ title: "Section 670j - Enforcement provisions"
 usc_title: 16
 usc_section: "670j"
 chapter: 5
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 670j"
-generated_at: "2026-03-30T07:07:59.210Z"
+generated_at: "2026-03-30T07:09:40.396Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 715 - Senate and House documents and reports for Department of S
 usc_title: 44
 usc_section: "715"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "44 U.S.C. § 715"
-generated_at: "2026-03-30T07:08:27.469Z"
+generated_at: "2026-03-30T07:10:07.827Z"
 status: "active"
 ---
 

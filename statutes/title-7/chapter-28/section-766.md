@@ -3,9 +3,9 @@ title: "Section 766 - Repealed. Feb. 10, 1936, ch. 42 , 49 Stat. 1106"
 usc_title: 7
 usc_section: "766"
 chapter: 28
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 766"
-generated_at: "2026-03-30T07:07:34.910Z"
+generated_at: "2026-03-30T07:09:10.920Z"
 status: "repealed"
 ---
 

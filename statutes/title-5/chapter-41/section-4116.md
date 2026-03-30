@@ -3,9 +3,9 @@ title: "Section 4116 - Training program assistance"
 usc_title: 5
 usc_section: "4116"
 chapter: 41
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 4116"
-generated_at: "2026-03-30T07:07:30.128Z"
+generated_at: "2026-03-30T07:09:04.777Z"
 status: "active"
 ---
 

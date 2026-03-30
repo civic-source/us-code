@@ -3,9 +3,9 @@ title: "Section 802 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "802"
 chapter: 17
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "29 U.S.C. § 802"
-generated_at: "2026-03-30T07:08:09.854Z"
+generated_at: "2026-03-30T07:09:50.797Z"
 status: "repealed"
 ---
 

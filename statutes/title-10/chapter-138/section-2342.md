@@ -3,9 +3,9 @@ title: "Section 2342 - Cross-servicing agreements"
 usc_title: 10
 usc_section: "2342"
 chapter: 138
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 2342"
-generated_at: "2026-03-30T07:07:40.063Z"
+generated_at: "2026-03-30T07:09:14.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8126 - Subpenas; oaths; examination of witnesses"
 usc_title: 5
 usc_section: "8126"
 chapter: 81
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 8126"
-generated_at: "2026-03-30T07:07:30.154Z"
+generated_at: "2026-03-30T07:09:04.801Z"
 status: "active"
 ---
 

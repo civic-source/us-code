@@ -3,9 +3,9 @@ title: "Section 1 - Federal Bureau of Investigation Reserve Service"
 usc_title: 5
 usc_section: "1"
 chapter: 35
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "5 U.S.C. § 1"
-generated_at: "2026-03-30T07:07:30.127Z"
+generated_at: "2026-03-30T07:09:04.776Z"
 status: "active"
 ---
 

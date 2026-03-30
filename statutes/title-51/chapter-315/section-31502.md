@@ -3,9 +3,9 @@ title: "Section 31502 - Maintenance of facilities"
 usc_title: 51
 usc_section: "31502"
 chapter: 315
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "51 U.S.C. § 31502"
-generated_at: "2026-03-30T07:08:51.426Z"
+generated_at: "2026-03-30T07:10:38.508Z"
 status: "active"
 ---
 

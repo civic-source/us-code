@@ -3,9 +3,9 @@ title: "Section 11703 - Comprehensive health care master plan for Native Hawaiia
 usc_title: 42
 usc_section: "11703"
 chapter: 122
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 11703"
-generated_at: "2026-03-30T07:08:38.949Z"
+generated_at: "2026-03-30T07:10:20.000Z"
 status: "active"
 ---
 

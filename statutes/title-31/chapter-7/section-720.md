@@ -3,9 +3,9 @@ title: "Section 720 - Agency reports"
 usc_title: 31
 usc_section: "720"
 chapter: 7
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "31 U.S.C. § 720"
-generated_at: "2026-03-30T07:08:18.442Z"
+generated_at: "2026-03-30T07:09:59.785Z"
 status: "active"
 ---
 

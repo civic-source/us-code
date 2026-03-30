@@ -3,9 +3,9 @@ title: "Section 10286 - Expedited payment for public safety officers involved in
 usc_title: 34
 usc_section: "10286"
 chapter: 101
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "34 U.S.C. § 10286"
-generated_at: "2026-03-30T07:08:21.266Z"
+generated_at: "2026-03-30T07:09:59.132Z"
 status: "active"
 ---
 

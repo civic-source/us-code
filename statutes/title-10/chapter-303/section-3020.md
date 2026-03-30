@@ -3,9 +3,9 @@ title: "Section 3020 - Inspector General"
 usc_title: 10
 usc_section: "3020"
 chapter: 303
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 3020"
-generated_at: "2026-03-30T07:07:40.090Z"
+generated_at: "2026-03-30T07:09:14.407Z"
 status: "active"
 ---
 

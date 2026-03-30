@@ -3,9 +3,9 @@ title: "Section 152108 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "152108"
 chapter: 1521
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "36 U.S.C. § 152108"
-generated_at: "2026-03-30T07:08:24.293Z"
+generated_at: "2026-03-30T07:10:03.222Z"
 status: "active"
 ---
 

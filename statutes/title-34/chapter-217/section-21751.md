@@ -3,9 +3,9 @@ title: "Section 21751 - Model power of attorney legislation"
 usc_title: 34
 usc_section: "21751"
 chapter: 217
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "34 U.S.C. § 21751"
-generated_at: "2026-03-30T07:08:21.299Z"
+generated_at: "2026-03-30T07:09:59.164Z"
 status: "active"
 ---
 

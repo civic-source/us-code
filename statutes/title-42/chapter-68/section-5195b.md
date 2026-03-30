@@ -3,9 +3,9 @@ title: "Section 5195b - Administration of subchapter"
 usc_title: 42
 usc_section: "5195b"
 chapter: 68
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 5195b"
-generated_at: "2026-03-30T07:08:38.789Z"
+generated_at: "2026-03-30T07:10:19.848Z"
 status: "active"
 ---
 

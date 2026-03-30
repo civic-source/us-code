@@ -3,9 +3,9 @@ title: "Section 100504 - Study and planning of park, parkway, and recreational-a
 usc_title: 54
 usc_section: "100504"
 chapter: 1005
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "54 U.S.C. § 100504"
-generated_at: "2026-03-30T07:08:51.117Z"
+generated_at: "2026-03-30T07:10:38.772Z"
 status: "active"
 ---
 

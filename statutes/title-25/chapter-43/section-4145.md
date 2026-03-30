@@ -3,9 +3,9 @@ title: "Section 4145 - Purpose"
 usc_title: 25
 usc_section: "4145"
 chapter: 43
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "25 U.S.C. § 4145"
-generated_at: "2026-03-30T07:08:03.633Z"
+generated_at: "2026-03-30T07:09:44.785Z"
 status: "active"
 ---
 

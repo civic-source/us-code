@@ -3,9 +3,9 @@ title: "Section 2410q - Multiyear contracts: purchase of electricity from renewa
 usc_title: 10
 usc_section: "2410q"
 chapter: 141
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 2410q"
-generated_at: "2026-03-30T07:07:40.069Z"
+generated_at: "2026-03-30T07:09:14.383Z"
 status: "active"
 ---
 

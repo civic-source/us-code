@@ -3,9 +3,9 @@ title: "Section 3670 - Disposition of conveyances seized for violation of the In
 usc_title: 18
 usc_section: "3670"
 chapter: 232
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "18 U.S.C. § 3670"
-generated_at: "2026-03-30T07:07:51.141Z"
+generated_at: "2026-03-30T07:09:35.179Z"
 status: "active"
 ---
 

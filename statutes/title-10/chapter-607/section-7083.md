@@ -3,9 +3,9 @@ title: "Section 7083 - Annuity premium to be paid by monthly installments; gover
 usc_title: 10
 usc_section: "7083"
 chapter: 607
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 7083"
-generated_at: "2026-03-30T07:07:40.105Z"
+generated_at: "2026-03-30T07:09:14.423Z"
 status: "active"
 ---
 

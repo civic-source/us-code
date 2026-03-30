@@ -3,9 +3,9 @@ title: "Section 1982 - Acceptance of surplus or obsolete property"
 usc_title: 2
 usc_section: "1982"
 chapter: 29
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "2 U.S.C. § 1982"
-generated_at: "2026-03-30T07:07:28.498Z"
+generated_at: "2026-03-30T07:09:03.144Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11105 - Wages on discharge when vessel sold"
 usc_title: 46
 usc_section: "11105"
 chapter: 111
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "46 U.S.C. § 11105"
-generated_at: "2026-03-30T07:08:47.051Z"
+generated_at: "2026-03-30T07:10:23.424Z"
 status: "active"
 ---
 

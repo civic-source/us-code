@@ -3,9 +3,9 @@ title: "Section 17336 - Deployment of international clean and efficient energy t
 usc_title: 42
 usc_section: "17336"
 chapter: 152
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "42 U.S.C. § 17336"
-generated_at: "2026-03-30T07:08:39.027Z"
+generated_at: "2026-03-30T07:10:20.075Z"
 status: "active"
 ---
 

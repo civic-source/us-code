@@ -3,9 +3,9 @@ title: "Section 1074 - Medical and dental care for members and certain former me
 usc_title: 10
 usc_section: "1074"
 chapter: 55
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 1074"
-generated_at: "2026-03-30T07:07:40.022Z"
+generated_at: "2026-03-30T07:09:14.328Z"
 status: "active"
 ---
 

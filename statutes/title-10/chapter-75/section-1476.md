@@ -3,9 +3,9 @@ title: "Section 1476 - Death gratuity: death after discharge or release from dut
 usc_title: 10
 usc_section: "1476"
 chapter: 75
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "10 U.S.C. § 1476"
-generated_at: "2026-03-30T07:07:40.038Z"
+generated_at: "2026-03-30T07:09:14.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4401 - Congressional findings and declaration of purpose"
 usc_title: 7
 usc_section: "4401"
 chapter: 75
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "7 U.S.C. § 4401"
-generated_at: "2026-03-30T07:07:34.997Z"
+generated_at: "2026-03-30T07:09:11.000Z"
 status: "active"
 ---
 

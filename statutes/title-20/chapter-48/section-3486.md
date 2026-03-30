@@ -3,9 +3,9 @@ title: "Section 3486 - Annual report"
 usc_title: 20
 usc_section: "3486"
 chapter: 48
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "20 U.S.C. § 3486"
-generated_at: "2026-03-30T07:07:52.893Z"
+generated_at: "2026-03-30T07:09:38.205Z"
 status: "active"
 ---
 

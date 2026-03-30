@@ -3,9 +3,9 @@ title: "Section 10310 - Enforcement proceedings"
 usc_title: 52
 usc_section: "10310"
 chapter: 103
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "52 U.S.C. § 10310"
-generated_at: "2026-03-30T07:08:50.839Z"
+generated_at: "2026-03-30T07:10:38.307Z"
 status: "active"
 ---
 

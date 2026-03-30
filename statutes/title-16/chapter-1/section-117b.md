@@ -3,9 +3,9 @@ title: "Section 117b - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , 
 usc_title: 16
 usc_section: "117b"
 chapter: 1
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "16 U.S.C. § 117b"
-generated_at: "2026-03-30T07:07:59.105Z"
+generated_at: "2026-03-30T07:09:40.295Z"
 status: "repealed"
 ---
 

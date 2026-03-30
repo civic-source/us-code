@@ -3,9 +3,9 @@ title: "Section 3305 - Scope and standards of inspection"
 usc_title: 46
 usc_section: "3305"
 chapter: 33
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "46 U.S.C. § 3305"
-generated_at: "2026-03-30T07:08:47.042Z"
+generated_at: "2026-03-30T07:10:23.414Z"
 status: "active"
 ---
 

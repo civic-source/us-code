@@ -3,9 +3,9 @@ title: "Section 3536 - Increased transparency"
 usc_title: 19
 usc_section: "3536"
 chapter: 22
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "19 U.S.C. § 3536"
-generated_at: "2026-03-30T07:07:56.323Z"
+generated_at: "2026-03-30T07:09:36.278Z"
 status: "active"
 ---
 

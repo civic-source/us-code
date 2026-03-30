@@ -3,9 +3,9 @@ title: "Section 232 - Definitions"
 usc_title: 18
 usc_section: "232"
 chapter: 12
-current_through: "PL 115-129"
+current_through: "PL 115-132"
 classification: "18 U.S.C. § 232"
-generated_at: "2026-03-30T07:07:51.093Z"
+generated_at: "2026-03-30T07:09:35.126Z"
 status: "active"
 ---
 
