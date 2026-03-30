@@ -3,9 +3,9 @@ title: "Section 2 - Expedited procedures for certain reorganizations"
 usc_title: 12
 usc_section: "2"
 chapter: 2
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T07:59:10.184Z"
+generated_at: "2026-03-30T08:01:28.319Z"
 status: "active"
 ---
 

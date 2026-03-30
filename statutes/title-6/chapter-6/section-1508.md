@@ -3,9 +3,9 @@ title: "Section 1508 - Report on cybersecurity threats"
 usc_title: 6
 usc_section: "1508"
 chapter: 6
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "6 U.S.C. § 1508"
-generated_at: "2026-03-30T07:58:54.227Z"
+generated_at: "2026-03-30T08:01:02.413Z"
 status: "active"
 ---
 

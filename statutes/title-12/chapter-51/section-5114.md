@@ -3,9 +3,9 @@ title: "Section 5114 - State examination authority"
 usc_title: 12
 usc_section: "5114"
 chapter: 51
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 5114"
-generated_at: "2026-03-30T07:59:10.321Z"
+generated_at: "2026-03-30T08:01:28.462Z"
 status: "active"
 ---
 

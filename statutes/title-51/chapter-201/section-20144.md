@@ -3,9 +3,9 @@ title: "Section 20144 - Prize authority"
 usc_title: 51
 usc_section: "20144"
 chapter: 201
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "51 U.S.C. § 20144"
-generated_at: "2026-03-30T08:00:33.063Z"
+generated_at: "2026-03-30T08:03:04.369Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24311 - Acquiring interests in property by eminent domain"
 usc_title: 49
 usc_section: "24311"
 chapter: 243
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "49 U.S.C. § 24311"
-generated_at: "2026-03-30T08:00:30.848Z"
+generated_at: "2026-03-30T08:02:53.507Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1153 - Rules, regulations, and fees"
 usc_title: 15
 usc_section: "1153"
 chapter: 23
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 1153"
-generated_at: "2026-03-30T07:59:12.370Z"
+generated_at: "2026-03-30T08:01:31.604Z"
 status: "active"
 ---
 

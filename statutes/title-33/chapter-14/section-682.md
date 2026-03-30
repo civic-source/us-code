@@ -3,9 +3,9 @@ title: "Section 682 - Malicious injury to works; injury to navigable waters by h
 usc_title: 33
 usc_section: "682"
 chapter: 14
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 682"
-generated_at: "2026-03-30T07:59:48.338Z"
+generated_at: "2026-03-30T08:02:24.211Z"
 status: "active"
 ---
 

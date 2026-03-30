@@ -3,9 +3,9 @@ title: "Section 10644 - Requirements"
 usc_title: 34
 usc_section: "10644"
 chapter: 101
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 10644"
-generated_at: "2026-03-30T07:59:57.245Z"
+generated_at: "2026-03-30T08:02:21.566Z"
 status: "active"
 ---
 

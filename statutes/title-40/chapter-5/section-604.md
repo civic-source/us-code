@@ -3,9 +3,9 @@ title: "Section 604 - Treatment of assets taken over to establish motor vehicle 
 usc_title: 40
 usc_section: "604"
 chapter: 5
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "40 U.S.C. § 604"
-generated_at: "2026-03-30T08:00:00.444Z"
+generated_at: "2026-03-30T08:02:29.275Z"
 status: "active"
 ---
 

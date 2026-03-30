@@ -3,9 +3,9 @@ title: "Section 1 - Governor and alternate Governor"
 usc_title: 22
 usc_section: "1"
 chapter: 7
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T07:59:32.601Z"
+generated_at: "2026-03-30T08:01:48.668Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Enforcement action plan for advertising and promotion restri
 usc_title: 21
 usc_section: "1"
 chapter: 9
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "21 U.S.C. § 1"
-generated_at: "2026-03-30T07:59:29.402Z"
+generated_at: "2026-03-30T08:01:50.465Z"
 status: "active"
 ---
 

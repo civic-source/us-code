@@ -3,9 +3,9 @@ title: "Section 2153 - Cooperation with other nations"
 usc_title: 42
 usc_section: "2153"
 chapter: 23
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 2153"
-generated_at: "2026-03-30T08:00:21.557Z"
+generated_at: "2026-03-30T08:02:46.149Z"
 status: "active"
 ---
 

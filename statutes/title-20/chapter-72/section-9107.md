@@ -3,9 +3,9 @@ title: "Section 9107 - Awards and medals"
 usc_title: 20
 usc_section: "9107"
 chapter: 72
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 9107"
-generated_at: "2026-03-30T07:59:17.954Z"
+generated_at: "2026-03-30T08:01:39.516Z"
 status: "active"
 ---
 

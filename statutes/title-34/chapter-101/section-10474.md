@@ -3,9 +3,9 @@ title: "Section 10474 - Applications"
 usc_title: 34
 usc_section: "10474"
 chapter: 101
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 10474"
-generated_at: "2026-03-30T07:59:57.241Z"
+generated_at: "2026-03-30T08:02:21.563Z"
 status: "active"
 ---
 

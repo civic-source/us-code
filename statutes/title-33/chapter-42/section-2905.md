@@ -3,9 +3,9 @@ title: "Section 2905 - Estuary habitat restoration strategy"
 usc_title: 33
 usc_section: "2905"
 chapter: 42
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 2905"
-generated_at: "2026-03-30T07:59:48.393Z"
+generated_at: "2026-03-30T08:02:24.269Z"
 status: "active"
 ---
 

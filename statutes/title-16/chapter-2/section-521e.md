@@ -3,9 +3,9 @@ title: "Section 521e - Small parcels and road rights-of-way"
 usc_title: 16
 usc_section: "521e"
 chapter: 2
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "16 U.S.C. § 521e"
-generated_at: "2026-03-30T07:59:23.078Z"
+generated_at: "2026-03-30T08:01:42.293Z"
 status: "active"
 ---
 

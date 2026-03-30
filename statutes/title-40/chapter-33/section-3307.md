@@ -3,9 +3,9 @@ title: "Section 3307 - Congressional approval of proposed projects"
 usc_title: 40
 usc_section: "3307"
 chapter: 33
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "40 U.S.C. § 3307"
-generated_at: "2026-03-30T08:00:00.446Z"
+generated_at: "2026-03-30T08:02:29.277Z"
 status: "active"
 ---
 

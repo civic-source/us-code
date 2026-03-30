@@ -3,9 +3,9 @@ title: "Section 5213 - Considerations"
 usc_title: 12
 usc_section: "5213"
 chapter: 52
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 5213"
-generated_at: "2026-03-30T07:59:10.322Z"
+generated_at: "2026-03-30T08:01:28.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13614 - General availability of units"
 usc_title: 42
 usc_section: "13614"
 chapter: 135
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 13614"
-generated_at: "2026-03-30T08:00:21.807Z"
+generated_at: "2026-03-30T08:02:46.401Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2447d - Mechanisms to speed deployment of successful weapon syst
 usc_title: 10
 usc_section: "2447d"
 chapter: 144
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 2447d"
-generated_at: "2026-03-30T07:59:04.060Z"
+generated_at: "2026-03-30T08:01:13.290Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2309 - Administrative review"
 usc_title: 42
 usc_section: "2309"
 chapter: 24
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 2309"
-generated_at: "2026-03-30T08:00:21.568Z"
+generated_at: "2026-03-30T08:02:46.160Z"
 status: "active"
 ---
 

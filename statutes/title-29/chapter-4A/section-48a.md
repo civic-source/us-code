@@ -3,9 +3,9 @@ title: "Section 48a - Omitted"
 usc_title: 29
 usc_section: "48a"
 chapter: 4
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "29 U.S.C. § 48a"
-generated_at: "2026-03-30T07:59:38.679Z"
+generated_at: "2026-03-30T08:01:59.129Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1641i - Payment of awards"
 usc_title: 22
 usc_section: "1641i"
 chapter: 21
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 1641i"
-generated_at: "2026-03-30T07:59:32.610Z"
+generated_at: "2026-03-30T08:01:48.676Z"
 status: "active"
 ---
 

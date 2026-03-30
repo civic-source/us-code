@@ -3,9 +3,9 @@ title: "Section 1141 - Effect of confirmation"
 usc_title: 11
 usc_section: "1141"
 chapter: 11
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "11 U.S.C. § 1141"
-generated_at: "2026-03-30T07:59:06.629Z"
+generated_at: "2026-03-30T08:01:18.443Z"
 status: "active"
 ---
 

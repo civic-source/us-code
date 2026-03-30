@@ -3,9 +3,9 @@ title: "Section 381 - Use of public vessels to suppress piracy"
 usc_title: 33
 usc_section: "381"
 chapter: 7
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 381"
-generated_at: "2026-03-30T07:59:48.327Z"
+generated_at: "2026-03-30T08:02:24.198Z"
 status: "active"
 ---
 

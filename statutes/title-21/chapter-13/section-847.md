@@ -3,9 +3,9 @@ title: "Section 847 - Additional penalties"
 usc_title: 21
 usc_section: "847"
 chapter: 13
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "21 U.S.C. § 847"
-generated_at: "2026-03-30T07:59:29.416Z"
+generated_at: "2026-03-30T08:01:50.480Z"
 status: "active"
 ---
 

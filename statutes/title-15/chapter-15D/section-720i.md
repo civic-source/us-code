@@ -3,9 +3,9 @@ title: "Section 720i - Sense of Congress concerning use of steel manufactured in
 usc_title: 15
 usc_section: "720i"
 chapter: 15
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 720i"
-generated_at: "2026-03-30T07:59:12.363Z"
+generated_at: "2026-03-30T08:01:31.596Z"
 status: "active"
 ---
 

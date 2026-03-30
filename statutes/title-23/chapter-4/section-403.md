@@ -3,9 +3,9 @@ title: "Section 403 - Highway safety research and development"
 usc_title: 23
 usc_section: "403"
 chapter: 4
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "23 U.S.C. § 403"
-generated_at: "2026-03-30T07:59:28.034Z"
+generated_at: "2026-03-30T08:01:45.973Z"
 status: "active"
 ---
 

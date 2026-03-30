@@ -3,9 +3,9 @@ title: "Section 12003 - National goals and multi-year funding for Federal wind, 
 usc_title: 42
 usc_section: "12003"
 chapter: 125
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-03-30T08:00:21.772Z"
+generated_at: "2026-03-30T08:02:46.363Z"
 status: "active"
 ---
 

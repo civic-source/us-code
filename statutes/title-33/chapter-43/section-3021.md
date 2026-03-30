@@ -3,9 +3,9 @@ title: "Section 3021 - Original appointments"
 usc_title: 33
 usc_section: "3021"
 chapter: 43
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 3021"
-generated_at: "2026-03-30T07:59:48.393Z"
+generated_at: "2026-03-30T08:02:24.270Z"
 status: "active"
 ---
 

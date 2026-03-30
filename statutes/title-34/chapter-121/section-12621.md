@@ -3,9 +3,9 @@ title: "Section 12621 - Missing Americans Alert Program"
 usc_title: 34
 usc_section: "12621"
 chapter: 121
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 12621"
-generated_at: "2026-03-30T07:59:57.262Z"
+generated_at: "2026-03-30T08:02:21.584Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
     - **(B)** The Attorney General may not award a grant under this section to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26 .
     - **(C)** Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
   - **(3)**
-    - **(A)** No amounts made available to the Department of Justice under this section may be used by the Attorney General, or by any individual or entity awarded discretionary funds through a cooperative agreement under this section, to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Department of Justice, unless the head of the relevant agency or department, provides prior written authorization that the funds may be expended to host the conference.
+    - **(A)** No amounts made available to the Department of Justice under this section may be used by the Attorney General, or by any individual or entity awarded discretionary funds through a cooperative agreement under this section, to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Department of Justice, unless the head of the relevant agency or department, 1 1 So in original. The comma probably should not appear. provides prior written authorization that the funds may be expended to host the conference.
     - **(B)** Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
     - **(C)** The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all conference expenditures approved under this paragraph.
   - **(4)** Beginning in the first fiscal year beginning after March 23, 2018 , the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification—

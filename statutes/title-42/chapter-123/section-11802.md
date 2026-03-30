@@ -3,9 +3,9 @@ title: "Section 11802 - Application for grants and contracts"
 usc_title: 42
 usc_section: "11802"
 chapter: 123
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 11802"
-generated_at: "2026-03-30T08:00:21.770Z"
+generated_at: "2026-03-30T08:02:46.362Z"
 status: "active"
 ---
 

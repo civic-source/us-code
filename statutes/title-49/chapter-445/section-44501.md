@@ -3,9 +3,9 @@ title: "Section 44501 - Plans and policy"
 usc_title: 49
 usc_section: "44501"
 chapter: 445
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "49 U.S.C. § 44501"
-generated_at: "2026-03-30T08:00:30.875Z"
+generated_at: "2026-03-30T08:02:53.537Z"
 status: "active"
 ---
 

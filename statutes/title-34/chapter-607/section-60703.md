@@ -3,9 +3,9 @@ title: "Section 60703 - Purpose"
 usc_title: 34
 usc_section: "60703"
 chapter: 607
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 60703"
-generated_at: "2026-03-30T07:59:57.285Z"
+generated_at: "2026-03-30T08:02:21.608Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
   - **(3)** collecting data on outcomes achieved through the Program, including the effect on the violent crime rate, incarceration rate, and recidivism rate of the jurisdiction.
 - **(b)** In addition to the purpose described in subsection (a), the Attorney General may use funds authorized under this chapter for any of the following purposes—
   - **(1)** competitive and evidence-based programs to reduce gun crime and gang violence;
-  - **(2)** the Edward Byrne criminal justice innovation program;
+  - **(2)** the Edward Byrne criminal justice innovation program; 1 1 So in original. Probably should be “Edward Byrne Criminal Justice Innovation Program;”.
   - **(3)** community-based violence prevention initiatives; or
   - **(4)** gang and youth violence education, prevention and intervention, and related activities.

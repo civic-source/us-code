@@ -3,9 +3,9 @@ title: "Section 426n - Technical assistance to States and local governments; cos
 usc_title: 33
 usc_section: "426n"
 chapter: 9
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 426n"
-generated_at: "2026-03-30T07:59:48.329Z"
+generated_at: "2026-03-30T08:02:24.201Z"
 status: "active"
 ---
 

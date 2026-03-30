@@ -3,9 +3,9 @@ title: "Section 1710D - Traumatic brain injury: comprehensive program for long-t
 usc_title: 38
 usc_section: "1710D"
 chapter: 17
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "38 U.S.C. § 1710D"
-generated_at: "2026-03-30T08:00:02.589Z"
+generated_at: "2026-03-30T08:02:28.561Z"
 status: "active"
 ---
 

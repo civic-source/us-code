@@ -3,9 +3,9 @@ title: "Section 4902 - Authorizations of appropriations"
 usc_title: 14
 usc_section: "4902"
 chapter: 49
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "14 U.S.C. § 4902"
-generated_at: "2026-03-30T07:59:06.938Z"
+generated_at: "2026-03-30T08:01:21.466Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3057l - Administration"
 usc_title: 42
 usc_section: "3057l"
 chapter: 35
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 3057l"
-generated_at: "2026-03-30T08:00:21.582Z"
+generated_at: "2026-03-30T08:02:46.175Z"
 status: "active"
 ---
 

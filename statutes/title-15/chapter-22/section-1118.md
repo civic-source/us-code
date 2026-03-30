@@ -3,9 +3,9 @@ title: "Section 1118 - Destruction of infringing articles"
 usc_title: 15
 usc_section: "1118"
 chapter: 22
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 1118"
-generated_at: "2026-03-30T07:59:12.369Z"
+generated_at: "2026-03-30T08:01:31.602Z"
 status: "active"
 ---
 

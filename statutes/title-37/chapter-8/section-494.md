@@ -3,9 +3,9 @@ title: "Section 494 - Subsistence reimbursement relating to escorts of foreign a
 usc_title: 37
 usc_section: "494"
 chapter: 8
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "37 U.S.C. § 494"
-generated_at: "2026-03-30T07:59:59.328Z"
+generated_at: "2026-03-30T08:02:29.601Z"
 status: "active"
 ---
 

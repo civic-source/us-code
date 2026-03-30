@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 12
 usc_section: "1"
 chapter: 11
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T07:59:10.201Z"
+generated_at: "2026-03-30T08:01:28.337Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11161 - Research and evaluation; statistical analyses; informati
 usc_title: 34
 usc_section: "11161"
 chapter: 111
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 11161"
-generated_at: "2026-03-30T07:59:57.249Z"
+generated_at: "2026-03-30T08:02:21.571Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(A)** the number of juveniles in each category;
     - **(B)** the extent to which State juvenile justice systems and child welfare systems are coordinating services and treatment for such juveniles;
     - **(C)** the Federal and local sources of funds used for placements and post-placement services;
-    - **(D)** barriers faced by State and Indian Tribes in providing services to these juveniles;
+    - **(D)** barriers faced by State 2 2 So in original. Probably should be “States”. and Indian Tribes in providing services to these juveniles;
     - **(E)** the types of post-placement services used;
     - **(F)** the frequency of case plans and case plan reviews;
     - **(G)** the extent to which case plans identify and address permanency and placement barriers and treatment plans;

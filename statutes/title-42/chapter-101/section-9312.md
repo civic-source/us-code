@@ -3,9 +3,9 @@ title: "Section 9312 - Authorization of appropriations; contract authority"
 usc_title: 42
 usc_section: "9312"
 chapter: 101
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 9312"
-generated_at: "2026-03-30T08:00:21.724Z"
+generated_at: "2026-03-30T08:02:46.315Z"
 status: "active"
 ---
 

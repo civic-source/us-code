@@ -3,9 +3,9 @@ title: "Section 8906 - Updated data base on acid content in precipitation; new m
 usc_title: 42
 usc_section: "8906"
 chapter: 97
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 8906"
-generated_at: "2026-03-30T08:00:21.720Z"
+generated_at: "2026-03-30T08:02:46.312Z"
 status: "active"
 ---
 

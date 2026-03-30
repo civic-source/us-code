@@ -3,9 +3,9 @@ title: "Section 17301 - Prohibition on market manipulation"
 usc_title: 42
 usc_section: "17301"
 chapter: 152
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 17301"
-generated_at: "2026-03-30T08:00:21.842Z"
+generated_at: "2026-03-30T08:02:46.436Z"
 status: "active"
 ---
 

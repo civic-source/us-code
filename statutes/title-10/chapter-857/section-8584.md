@@ -3,9 +3,9 @@ title: "Section 8584 - Age of retirement"
 usc_title: 10
 usc_section: "8584"
 chapter: 857
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 8584"
-generated_at: "2026-03-30T07:59:04.092Z"
+generated_at: "2026-03-30T08:01:13.337Z"
 status: "active"
 ---
 

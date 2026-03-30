@@ -3,9 +3,9 @@ title: "Section 7914 - Shooting ranges"
 usc_title: 16
 usc_section: "7914"
 chapter: 98
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "16 U.S.C. § 7914"
-generated_at: "2026-03-30T07:59:23.225Z"
+generated_at: "2026-03-30T08:01:42.470Z"
 status: "active"
 ---
 

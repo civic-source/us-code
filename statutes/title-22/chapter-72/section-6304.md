@@ -3,9 +3,9 @@ title: "Section 6304 - Reporting on demarches"
 usc_title: 22
 usc_section: "6304"
 chapter: 72
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 6304"
-generated_at: "2026-03-30T07:59:32.691Z"
+generated_at: "2026-03-30T08:01:48.755Z"
 status: "active"
 ---
 

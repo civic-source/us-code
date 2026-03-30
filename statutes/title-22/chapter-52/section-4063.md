@@ -3,9 +3,9 @@ title: "Section 4063 - Annuity adjustment for recall service"
 usc_title: 22
 usc_section: "4063"
 chapter: 52
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 4063"
-generated_at: "2026-03-30T07:59:32.670Z"
+generated_at: "2026-03-30T08:01:48.733Z"
 status: "active"
 ---
 

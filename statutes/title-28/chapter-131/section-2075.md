@@ -3,9 +3,9 @@ title: "Section 2075 - Bankruptcy rules"
 usc_title: 28
 usc_section: "2075"
 chapter: 131
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "28 U.S.C. § 2075"
-generated_at: "2026-03-30T07:59:36.358Z"
+generated_at: "2026-03-30T08:02:00.360Z"
 status: "active"
 ---
 

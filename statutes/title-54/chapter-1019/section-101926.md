@@ -3,9 +3,9 @@ title: "Section 101926 - Regulations"
 usc_title: 54
 usc_section: "101926"
 chapter: 1019
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "54 U.S.C. § 101926"
-generated_at: "2026-03-30T08:00:33.345Z"
+generated_at: "2026-03-30T08:03:06.935Z"
 status: "active"
 ---
 

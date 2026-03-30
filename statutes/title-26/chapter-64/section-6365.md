@@ -3,9 +3,9 @@ title: "Section 6365 - Repealed. Pub. L. 101–508, title XI , § 11801(a)(45), 
 usc_title: 26
 usc_section: "6365"
 chapter: 64
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "26 U.S.C. § 6365"
-generated_at: "2026-03-30T07:59:44.502Z"
+generated_at: "2026-03-30T08:02:18.066Z"
 status: "repealed"
 ---
 

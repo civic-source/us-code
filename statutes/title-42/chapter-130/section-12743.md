@@ -3,9 +3,9 @@ title: "Section 12743 - Development of model programs"
 usc_title: 42
 usc_section: "12743"
 chapter: 130
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 12743"
-generated_at: "2026-03-30T08:00:21.792Z"
+generated_at: "2026-03-30T08:02:46.385Z"
 status: "active"
 ---
 

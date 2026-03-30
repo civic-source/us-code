@@ -3,9 +3,9 @@ title: "Section 1703 - Denial of equal educational opportunity prohibited"
 usc_title: 20
 usc_section: "1703"
 chapter: 39
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 1703"
-generated_at: "2026-03-30T07:59:17.907Z"
+generated_at: "2026-03-30T08:01:39.456Z"
 status: "active"
 ---
 

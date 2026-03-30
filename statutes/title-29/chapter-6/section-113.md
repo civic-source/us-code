@@ -3,9 +3,9 @@ title: "Section 113 - Definitions of terms and words used in chapter"
 usc_title: 29
 usc_section: "113"
 chapter: 6
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "29 U.S.C. § 113"
-generated_at: "2026-03-30T07:59:38.680Z"
+generated_at: "2026-03-30T08:01:59.130Z"
 status: "active"
 ---
 

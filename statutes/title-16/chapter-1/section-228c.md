@@ -3,9 +3,9 @@ title: "Section 228c - Acquisition of lands within enlarged boundaries by donati
 usc_title: 16
 usc_section: "228c"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "16 U.S.C. § 228c"
-generated_at: "2026-03-30T07:59:22.995Z"
+generated_at: "2026-03-30T08:01:42.195Z"
 status: "active"
 ---
 

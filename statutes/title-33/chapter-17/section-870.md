@@ -3,9 +3,9 @@ title: "Section 870 - Repealed. Aug. 1, 1956, ch. 837 , title V, § 502(7), 70 S
 usc_title: 33
 usc_section: "870"
 chapter: 17
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 870"
-generated_at: "2026-03-30T07:59:48.344Z"
+generated_at: "2026-03-30T08:02:24.217Z"
 status: "repealed"
 ---
 

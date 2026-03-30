@@ -3,9 +3,9 @@ title: "Section 5178 - Repealed. Pub. L. 106–390, title II , § 206(c), Oct. 3
 usc_title: 42
 usc_section: "5178"
 chapter: 68
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 5178"
-generated_at: "2026-03-30T08:00:21.618Z"
+generated_at: "2026-03-30T08:02:46.210Z"
 status: "repealed"
 ---
 

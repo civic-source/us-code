@@ -3,9 +3,9 @@ title: "Section 1a - Definitions"
 usc_title: 7
 usc_section: "1a"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T07:58:53.455Z"
+generated_at: "2026-03-30T08:01:01.059Z"
 status: "active"
 ---
 

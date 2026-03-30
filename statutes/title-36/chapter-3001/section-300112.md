@@ -3,9 +3,9 @@ title: "Section 300112 - Office of the Ombudsman"
 usc_title: 36
 usc_section: "300112"
 chapter: 3001
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "36 U.S.C. § 300112"
-generated_at: "2026-03-30T07:59:59.928Z"
+generated_at: "2026-03-30T08:02:27.050Z"
 status: "active"
 ---
 

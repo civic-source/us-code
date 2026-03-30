@@ -3,9 +3,9 @@ title: "Section 481e - Travel and transportation allowances: transportation inci
 usc_title: 37
 usc_section: "481e"
 chapter: 8
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "37 U.S.C. § 481e"
-generated_at: "2026-03-30T07:59:59.327Z"
+generated_at: "2026-03-30T08:02:29.600Z"
 status: "active"
 ---
 

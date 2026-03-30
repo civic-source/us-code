@@ -3,9 +3,9 @@ title: "Section 80511 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "80511"
 chapter: 805
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "36 U.S.C. § 80511"
-generated_at: "2026-03-30T07:59:59.916Z"
+generated_at: "2026-03-30T08:02:27.039Z"
 status: "active"
 ---
 

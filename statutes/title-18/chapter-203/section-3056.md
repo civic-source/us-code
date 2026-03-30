@@ -3,9 +3,9 @@ title: "Section 3056 - Powers, authorities, and duties of United States Secret S
 usc_title: 18
 usc_section: "3056"
 chapter: 203
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "18 U.S.C. § 3056"
-generated_at: "2026-03-30T07:59:20.868Z"
+generated_at: "2026-03-30T08:01:37.412Z"
 status: "active"
 ---
 

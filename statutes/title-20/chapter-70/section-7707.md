@@ -3,9 +3,9 @@ title: "Section 7707 - Construction"
 usc_title: 20
 usc_section: "7707"
 chapter: 70
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 7707"
-generated_at: "2026-03-30T07:59:17.948Z"
+generated_at: "2026-03-30T08:01:39.509Z"
 status: "active"
 ---
 

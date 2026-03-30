@@ -3,9 +3,9 @@ title: "Section 60504 - Rule of construction"
 usc_title: 34
 usc_section: "60504"
 chapter: 605
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 60504"
-generated_at: "2026-03-30T07:59:57.284Z"
+generated_at: "2026-03-30T08:02:21.606Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 Nothing in this Act or an amendment made by this Act shall be construed as creating a right or entitlement to assistance or services for any individual, program, or grant recipient. Each grant made under this Act or an amendment made by this Act shall—
 
-  - **(1)** be made as competitive grants 1 1 So in original. Probably should be “a competitive grant”. to eligible entities for a 12-month period, except that grants awarded under section 113 2 2 See References in Text note below. , section 60521 of this title , section 60531 of this title , and section 60532 2 of this title or under section 10631 of this title may be made for a 24-month period; and
+  - **(1)** be made as competitive grants 1 1 So in original. Probably should be “as a competitive grant”. to eligible entities for a 12-month period, except that grants awarded under section 113 2 2 See References in Text note below. , section 60521 of this title , section 60531 of this title , and section 60532 2 of this title or under section 10631 of this title may be made for a 24-month period; and
   - **(2)** require that services for participants, when necessary and appropriate, be transferred from programs funded under this Act or the amendment made by this Act, respectively, to State and community-based programs not funded under this Act or the amendment made by this Act, respectively, before the expiration of the grant.

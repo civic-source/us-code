@@ -3,9 +3,9 @@ title: "Section 1733 - Supervision of program by the President"
 usc_title: 38
 usc_section: "1733"
 chapter: 17
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "38 U.S.C. § 1733"
-generated_at: "2026-03-30T08:00:02.593Z"
+generated_at: "2026-03-30T08:02:28.564Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 133 - Surface transportation block grant program"
 usc_title: 23
 usc_section: "133"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "23 U.S.C. § 133"
-generated_at: "2026-03-30T07:59:28.023Z"
+generated_at: "2026-03-30T08:01:45.962Z"
 status: "active"
 ---
 

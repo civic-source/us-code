@@ -3,9 +3,9 @@ title: "Section 1995 - Participation and financial and technical assistance by o
 usc_title: 7
 usc_section: "1995"
 chapter: 50
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "7 U.S.C. § 1995"
-generated_at: "2026-03-30T07:58:53.544Z"
+generated_at: "2026-03-30T08:01:01.209Z"
 status: "active"
 ---
 

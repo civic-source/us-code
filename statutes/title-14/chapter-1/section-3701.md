@@ -3,9 +3,9 @@ title: "Section 3701 - Organization"
 usc_title: 14
 usc_section: "3701"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "14 U.S.C. § 3701"
-generated_at: "2026-03-30T07:59:06.935Z"
+generated_at: "2026-03-30T08:01:21.464Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1706a - Repealed. June 3, 1939, ch. 175 , § 3, 53 Stat. 805"
 usc_title: 12
 usc_section: "1706a"
 chapter: 13
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 1706a"
-generated_at: "2026-03-30T07:59:10.217Z"
+generated_at: "2026-03-30T08:01:28.353Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4051 - Requirement of prior authorization"
 usc_title: 15
 usc_section: "4051"
 chapter: 66
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 4051"
-generated_at: "2026-03-30T07:59:12.433Z"
+generated_at: "2026-03-30T08:01:31.675Z"
 status: "active"
 ---
 

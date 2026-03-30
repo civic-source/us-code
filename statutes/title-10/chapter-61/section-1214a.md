@@ -3,9 +3,9 @@ title: "Section 1214a - Members determined fit for duty in Physical Evaluation B
 usc_title: 10
 usc_section: "1214a"
 chapter: 61
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 1214a"
-generated_at: "2026-03-30T07:59:04.014Z"
+generated_at: "2026-03-30T08:01:13.229Z"
 status: "active"
 ---
 

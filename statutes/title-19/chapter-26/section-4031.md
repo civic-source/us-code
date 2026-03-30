@@ -3,9 +3,9 @@ title: "Section 4031 - Tariff modifications"
 usc_title: 19
 usc_section: "4031"
 chapter: 26
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "19 U.S.C. § 4031"
-generated_at: "2026-03-30T07:59:25.270Z"
+generated_at: "2026-03-30T08:01:35.796Z"
 status: "active"
 ---
 

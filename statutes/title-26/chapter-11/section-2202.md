@@ -3,9 +3,9 @@ title: "Section 2202 - Repealed. Pub. L. 94–455, title XIX , § 1902(a)(8), Oc
 usc_title: 26
 usc_section: "2202"
 chapter: 11
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "26 U.S.C. § 2202"
-generated_at: "2026-03-30T07:59:44.445Z"
+generated_at: "2026-03-30T08:02:18.009Z"
 status: "repealed"
 ---
 

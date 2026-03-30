@@ -3,9 +3,9 @@ title: "Section 3703 - Report of violations and withholding of amounts for unpai
 usc_title: 40
 usc_section: "3703"
 chapter: 37
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "40 U.S.C. § 3703"
-generated_at: "2026-03-30T08:00:00.447Z"
+generated_at: "2026-03-30T08:02:29.278Z"
 status: "active"
 ---
 

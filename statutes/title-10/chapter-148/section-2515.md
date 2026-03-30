@@ -3,9 +3,9 @@ title: "Section 2515 - Repealed. Pub. L. 115–232, div. A, title VIII , § 811(
 usc_title: 10
 usc_section: "2515"
 chapter: 148
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 2515"
-generated_at: "2026-03-30T07:59:04.063Z"
+generated_at: "2026-03-30T08:01:13.294Z"
 status: "repealed"
 ---
 

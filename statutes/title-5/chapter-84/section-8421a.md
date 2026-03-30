@@ -3,9 +3,9 @@ title: "Section 8421a - Reductions on account of earnings from work performed wh
 usc_title: 5
 usc_section: "8421a"
 chapter: 84
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "5 U.S.C. § 8421a"
-generated_at: "2026-03-30T07:58:45.219Z"
+generated_at: "2026-03-30T08:00:52.936Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47501 - Definitions"
 usc_title: 49
 usc_section: "47501"
 chapter: 475
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "49 U.S.C. § 47501"
-generated_at: "2026-03-30T08:00:30.893Z"
+generated_at: "2026-03-30T08:02:53.555Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2178 - Repealed. Pub. L. 95–424, title I , § 102(g)(1)(A), Oc
 usc_title: 22
 usc_section: "2178"
 chapter: 32
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 2178"
-generated_at: "2026-03-30T07:59:32.622Z"
+generated_at: "2026-03-30T08:01:48.687Z"
 status: "repealed"
 ---
 

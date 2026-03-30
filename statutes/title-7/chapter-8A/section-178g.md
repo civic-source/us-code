@@ -3,9 +3,9 @@ title: "Section 178g - Powers of Secretary of Agriculture"
 usc_title: 7
 usc_section: "178g"
 chapter: 8
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "7 U.S.C. § 178g"
-generated_at: "2026-03-30T07:58:53.485Z"
+generated_at: "2026-03-30T08:01:01.111Z"
 status: "active"
 ---
 

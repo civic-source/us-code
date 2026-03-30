@@ -3,9 +3,9 @@ title: "Section 1229c - Voluntary departure"
 usc_title: 8
 usc_section: "1229c"
 chapter: 12
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "8 U.S.C. § 1229c"
-generated_at: "2026-03-30T07:58:47.788Z"
+generated_at: "2026-03-30T08:00:57.822Z"
 status: "active"
 ---
 

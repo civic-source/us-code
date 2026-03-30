@@ -3,9 +3,9 @@ title: "Section 579a - Operation of aerial facilities and services"
 usc_title: 16
 usc_section: "579a"
 chapter: 3
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "16 U.S.C. § 579a"
-generated_at: "2026-03-30T07:59:23.091Z"
+generated_at: "2026-03-30T08:01:42.308Z"
 status: "active"
 ---
 

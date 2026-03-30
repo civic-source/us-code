@@ -3,9 +3,9 @@ title: "Section 702h - Prosecution of project by Mississippi River Commission; p
 usc_title: 33
 usc_section: "702h"
 chapter: 15
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 702h"
-generated_at: "2026-03-30T07:59:48.342Z"
+generated_at: "2026-03-30T08:02:24.215Z"
 status: "active"
 ---
 

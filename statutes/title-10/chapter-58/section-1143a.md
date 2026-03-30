@@ -3,9 +3,9 @@ title: "Section 1143a - Repealed. Pub. L. 115–232, div. A, title V , § 553(a)
 usc_title: 10
 usc_section: "1143a"
 chapter: 58
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 1143a"
-generated_at: "2026-03-30T07:59:04.011Z"
+generated_at: "2026-03-30T08:01:13.223Z"
 status: "repealed"
 ---
 

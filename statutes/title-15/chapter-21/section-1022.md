@@ -3,9 +3,9 @@ title: "Section 1022 - Economic Report of President; coverage; supplementary rep
 usc_title: 15
 usc_section: "1022"
 chapter: 21
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 1022"
-generated_at: "2026-03-30T07:59:12.366Z"
+generated_at: "2026-03-30T08:01:31.599Z"
 status: "active"
 ---
 

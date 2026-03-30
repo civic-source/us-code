@@ -3,9 +3,9 @@ title: "Section 21 - Definitions"
 usc_title: 3
 usc_section: "21"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "3 U.S.C. § 21"
-generated_at: "2026-03-30T07:58:34.844Z"
+generated_at: "2026-03-30T08:00:44.511Z"
 status: "active"
 ---
 

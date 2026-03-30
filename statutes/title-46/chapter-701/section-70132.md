@@ -3,9 +3,9 @@ title: "Section 70132 - Credentialing standards, training, and certification for
 usc_title: 46
 usc_section: "70132"
 chapter: 701
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "46 U.S.C. § 70132"
-generated_at: "2026-03-30T08:00:25.962Z"
+generated_at: "2026-03-30T08:02:55.912Z"
 status: "active"
 ---
 

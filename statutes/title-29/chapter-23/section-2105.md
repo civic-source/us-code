@@ -3,9 +3,9 @@ title: "Section 2105 - Procedures in addition to other rights of employees"
 usc_title: 29
 usc_section: "2105"
 chapter: 23
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "29 U.S.C. § 2105"
-generated_at: "2026-03-30T07:59:38.734Z"
+generated_at: "2026-03-30T08:01:59.181Z"
 status: "active"
 ---
 

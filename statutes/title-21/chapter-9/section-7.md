@@ -3,9 +3,9 @@ title: "Section 7 - Report"
 usc_title: 21
 usc_section: "7"
 chapter: 9
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "21 U.S.C. § 7"
-generated_at: "2026-03-30T07:59:29.389Z"
+generated_at: "2026-03-30T08:01:50.452Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2804 - Actions to reduce or eliminate tariff and nontariff barri
 usc_title: 19
 usc_section: "2804"
 chapter: 16
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "19 U.S.C. § 2804"
-generated_at: "2026-03-30T07:59:25.257Z"
+generated_at: "2026-03-30T08:01:35.781Z"
 status: "active"
 ---
 

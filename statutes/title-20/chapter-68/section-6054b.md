@@ -3,9 +3,9 @@ title: "Section 6054b - Repealed. Pub. L. 107–279, title IV, § 403(2) , Nov. 
 usc_title: 20
 usc_section: "6054b"
 chapter: 68
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 6054b"
-generated_at: "2026-03-30T07:59:17.925Z"
+generated_at: "2026-03-30T08:01:39.479Z"
 status: "repealed"
 ---
 

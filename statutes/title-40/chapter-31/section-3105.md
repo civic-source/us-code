@@ -3,9 +3,9 @@ title: "Section 3105 - Buildings not to be draped in mourning"
 usc_title: 40
 usc_section: "3105"
 chapter: 31
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "40 U.S.C. § 3105"
-generated_at: "2026-03-30T08:00:00.445Z"
+generated_at: "2026-03-30T08:02:29.276Z"
 status: "active"
 ---
 

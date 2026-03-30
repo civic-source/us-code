@@ -3,9 +3,9 @@ title: "Section 1436c - Insurance for public housing agencies and Indian housing
 usc_title: 42
 usc_section: "1436c"
 chapter: 8
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 1436c"
-generated_at: "2026-03-30T08:00:21.497Z"
+generated_at: "2026-03-30T08:02:46.087Z"
 status: "active"
 ---
 

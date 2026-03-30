@@ -3,9 +3,9 @@ title: "Section 6384 - Employment and benefits protection"
 usc_title: 5
 usc_section: "6384"
 chapter: 63
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "5 U.S.C. § 6384"
-generated_at: "2026-03-30T07:58:45.204Z"
+generated_at: "2026-03-30T08:00:52.914Z"
 status: "active"
 ---
 

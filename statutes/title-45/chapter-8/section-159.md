@@ -3,9 +3,9 @@ title: "Section 159 - Award and judgment thereon; effect of chapter on individua
 usc_title: 45
 usc_section: "159"
 chapter: 8
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "45 U.S.C. § 159"
-generated_at: "2026-03-30T08:00:04.530Z"
+generated_at: "2026-03-30T08:02:31.601Z"
 status: "active"
 ---
 

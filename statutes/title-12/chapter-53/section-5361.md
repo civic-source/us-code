@@ -3,9 +3,9 @@ title: "Section 5361 - Reports by and examinations of nonbank financial companie
 usc_title: 12
 usc_section: "5361"
 chapter: 53
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 5361"
-generated_at: "2026-03-30T07:59:10.327Z"
+generated_at: "2026-03-30T08:01:28.468Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1411 - Jury trials"
 usc_title: 28
 usc_section: "1411"
 chapter: 87
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "28 U.S.C. § 1411"
-generated_at: "2026-03-30T07:59:36.352Z"
+generated_at: "2026-03-30T08:02:00.354Z"
 status: "active"
 ---
 

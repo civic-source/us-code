@@ -3,9 +3,9 @@ title: "Section 11322 - Accountability and oversight"
 usc_title: 34
 usc_section: "11322"
 chapter: 111
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 11322"
-generated_at: "2026-03-30T07:59:57.252Z"
+generated_at: "2026-03-30T08:02:21.573Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is the sense of Congress that, in order to ensure that at-risk youth, and youth who come into contact with the juvenile justice system or the criminal justice system, are treated fairly and that the outcome of that contact is beneficial to the Nation—
   - **(1)** the Department of Justice, through its Office of Juvenile Justice and Delinquency Prevention, must restore meaningful enforcement of the core requirements in subchapter II; and
-  - **(2)** States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
+  - **(2)** States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II 1 1 So in original. Probably should be followed by a comma. must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
 - **(b)**
   - **(1)**
     - **(A)**
@@ -34,7 +34,7 @@ status: "active"
         - **(VI)** whether grant funds were spent in accordance with the program goals and guidelines.
       - **(iv)** The Director shall—
         - **(I)** submit to the Congress a report outlining the results of the analysis, evaluation, and audit conducted under clause (i), including supporting materials, to the Speaker of the House of Representatives and the President pro tempore of the Senate; and
-        - **(II)** shall make such report available to the public online, not later than 1 year after December 21, 2018 .
+        - **(II)** shall 2 2 So in original. The word “shall” probably should not appear. make such report available to the public online, not later than 1 year after December 21, 2018 .
     - **(B)**
       - **(i)** Not later than 30 days after December 21, 2018 , the Administrator shall initiate a comprehensive analysis and evaluation of the internal controls of the agency to determine whether, and to what extent, States and Indian Tribes that receive grants under subchapters II and V are following the requirements of the grant programs authorized under subchapters II and V.
       - **(ii)** Not later than 180 days after December 21, 2018 , the Administrator shall submit to Congress a report containing—
@@ -82,7 +82,7 @@ status: "active"
     - **(D)** includes a list of any grant recipients excluded under paragraph (2) during the then preceding fiscal year.
 - **(c)**
   - **(1)** Before the Attorney General awards a grant to an applicant under this chapter, the Attorney General shall compare potential grant awards with other grants awarded under this chapter to determine if duplicate grant awards are awarded for the same purpose.
-  - **(2)** If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
+  - **(2)** If the Attorney General awards duplicate grants to the same applicant for the same purpose 1 the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
     - **(A)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
     - **(B)** the reason the Attorney General awarded the duplicative grant.
 - **(d)** The Administrator shall comply with the Generally Accepted Government Auditing Standards, published by the General Accountability Office (commonly known as the “Yellow Book”), in the conduct of fiscal, compliance, and programmatic audits of States.

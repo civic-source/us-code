@@ -3,9 +3,9 @@ title: "Section 30146 - Release of motor vehicles and bonds"
 usc_title: 49
 usc_section: "30146"
 chapter: 301
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "49 U.S.C. § 30146"
-generated_at: "2026-03-30T08:00:30.854Z"
+generated_at: "2026-03-30T08:02:53.513Z"
 status: "active"
 ---
 

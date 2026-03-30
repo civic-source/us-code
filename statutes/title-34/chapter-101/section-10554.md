@@ -3,9 +3,9 @@ title: "Section 10554 - Definitions"
 usc_title: 34
 usc_section: "10554"
 chapter: 101
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 10554"
-generated_at: "2026-03-30T07:59:57.244Z"
+generated_at: "2026-03-30T08:02:21.564Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 For purposes of this subchapter—
 
-  - **(1)** the term “school” means an elementary or secondary school, including a Bureau-funded school (as defined in section 2021 of title 25 ;
+  - **(1)** the term “school” means an elementary or secondary school, including a Bureau-funded school (as defined in section 2021 of title 25 );
   - **(2)** the term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level;
   - **(3)** the term “Indian tribe” has the same meaning as in section 5304(e) of title 25 ;
   - **(4)** the term “evidence-based” means a program, practice, technology, or equipment that—

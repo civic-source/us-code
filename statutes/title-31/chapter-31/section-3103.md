@@ -3,9 +3,9 @@ title: "Section 3103 - Notes"
 usc_title: 31
 usc_section: "3103"
 chapter: 31
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "31 U.S.C. § 3103"
-generated_at: "2026-03-30T07:59:47.269Z"
+generated_at: "2026-03-30T08:02:20.932Z"
 status: "active"
 ---
 

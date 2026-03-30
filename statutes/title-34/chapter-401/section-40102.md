@@ -3,9 +3,9 @@ title: "Section 40102 - Background checks"
 usc_title: 34
 usc_section: "40102"
 chapter: 401
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 40102"
-generated_at: "2026-03-30T07:59:57.276Z"
+generated_at: "2026-03-30T08:02:21.598Z"
 status: "active"
 ---
 
@@ -29,17 +29,17 @@ status: "active"
     - **(B)** each covered individual who is the subject of a background check under subsection (a) is provided a process by which the covered individual may appeal the results of the background check to challenge the accuracy or completeness of the information contained in the background report of the covered individual and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
     - **(C)**
       - **(i)** each covered individual described in subparagraph (B) is given notice of the opportunity to appeal;
-      - **(ii)** each covered individual described in subparagraph (B) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and
-      - **(iii)** the appeals process is completed in a timely manner for each covered individual described in subparagraph (B);
+      - **(ii)** each covered individual described in subparagraph (B) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and 1 1 So in original. The word “and” probably should not appear.
+      - **(iii)** the appeals process is completed in a timely manner for each covered individual described in subparagraph (B); 2 2 So in original. Probably should be followed by “and”.
       - **(iv)** the appeals process is consistent with title VII of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e et seq.); and
     - **(D)** an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
-  - **(3)** that an authorized agency or designated entity, as applicable,, 1 1 So in original. upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
+  - **(3)** that an authorized agency or designated entity, as applicable,, 3 3 So in original. upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
   - **(4)** that the authorized agency or designated entity, as applicable, shall make a determination whether the covered individual has been convicted of, or is under pending indictment for, a crime that bears upon the covered individual’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
   - **(5)** that any background check under subsection (a) and the results thereof shall be handled in accordance with the requirements of Public Law 92–544 , except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3).
 - **(c)**
   - **(1)** The Attorney General may by regulation prescribe such other measures as may be required to carry out the purposes of this chapter, including measures relating to the security, confidentiality, accuracy, use, misuse, and dissemination of information, and audits and recordkeeping.
   - **(2)** The Attorney General shall, to the maximum extent possible, encourage the use of the best technology available in conducting background checks.
-- **(d)** A qualified entity shall not be liable in an action for damages solely for failure to conduct a criminal background check on a covered individual, nor shall a State or political subdivision thereof nor any agency, officer or employee thereof,, 1 nor shall any designated entity nor any officer or employee thereof, be liable in an action for damages for the failure of a qualified entity (other than itself) to take action adverse to a covered individual who was the subject of a background check.
+- **(d)** A qualified entity shall not be liable in an action for damages solely for failure to conduct a criminal background check on a covered individual, nor shall a State or political subdivision thereof nor any agency, officer or employee thereof,, 3 nor shall any designated entity nor any officer or employee thereof, be liable in an action for damages for the failure of a qualified entity (other than itself) to take action adverse to a covered individual who was the subject of a background check.
 - **(e)**
   - **(1)** In the case of a background check conducted pursuant to a State requirement adopted after December 20, 1993 , conducted with fingerprints on a covered individual, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed the actual cost of the background check conducted with fingerprints.
   - **(2)** In the case of a national criminal history background check and criminal history review conducted pursuant to the procedures established pursuant to subsection (a)(3), the fees collected by a designated entity shall be set at a level that will ensure the recovery of the full costs of providing all such services. The designated entity shall remit the appropriate portion of such fee to the Attorney General, which amount is in accordance with the amount published in the Federal Register to be collected for the provision of a criminal history background check by the Federal Bureau of Investigation.

@@ -3,9 +3,9 @@ title: "Section 2082 - Authority of Commission to accept gifts and conduct other
 usc_title: 2
 usc_section: "2082"
 chapter: 30
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "2 U.S.C. § 2082"
-generated_at: "2026-03-30T07:58:38.854Z"
+generated_at: "2026-03-30T08:00:45.743Z"
 status: "active"
 ---
 

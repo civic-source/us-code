@@ -3,9 +3,9 @@ title: "Section 244 - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(
 usc_title: 26
 usc_section: "244"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "26 U.S.C. § 244"
-generated_at: "2026-03-30T07:59:44.341Z"
+generated_at: "2026-03-30T08:02:17.906Z"
 status: "repealed"
 ---
 

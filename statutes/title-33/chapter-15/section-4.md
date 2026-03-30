@@ -3,9 +3,9 @@ title: "Section 4 - Fuse-plug levees"
 usc_title: 33
 usc_section: "4"
 chapter: 15
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 4"
-generated_at: "2026-03-30T07:59:48.341Z"
+generated_at: "2026-03-30T08:02:24.214Z"
 status: "active"
 ---
 

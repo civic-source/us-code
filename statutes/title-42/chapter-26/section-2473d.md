@@ -3,9 +3,9 @@ title: "Section 2473d - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2473d"
 chapter: 26
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 2473d"
-generated_at: "2026-03-30T08:00:21.569Z"
+generated_at: "2026-03-30T08:02:46.162Z"
 status: "repealed"
 ---
 

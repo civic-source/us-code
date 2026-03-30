@@ -3,9 +3,9 @@ title: "Section 1881a - Procedures for targeting certain persons outside the Uni
 usc_title: 50
 usc_section: "1881a"
 chapter: 36
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "50 U.S.C. § 1881a"
-generated_at: "2026-03-30T08:00:28.940Z"
+generated_at: "2026-03-30T08:02:50.921Z"
 status: "active"
 ---
 

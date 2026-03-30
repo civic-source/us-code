@@ -3,9 +3,9 @@ title: "Section 11388 - Reports to Congress"
 usc_title: 42
 usc_section: "11388"
 chapter: 119
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 11388"
-generated_at: "2026-03-30T08:00:21.766Z"
+generated_at: "2026-03-30T08:02:46.358Z"
 status: "active"
 ---
 

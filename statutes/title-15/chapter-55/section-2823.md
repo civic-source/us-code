@@ -3,9 +3,9 @@ title: "Section 2823 - Administration and enforcement provisions"
 usc_title: 15
 usc_section: "2823"
 chapter: 55
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 2823"
-generated_at: "2026-03-30T07:59:12.424Z"
+generated_at: "2026-03-30T08:01:31.664Z"
 status: "active"
 ---
 

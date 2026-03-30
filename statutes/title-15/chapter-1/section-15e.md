@@ -3,9 +3,9 @@ title: "Section 15e - Distribution of damages"
 usc_title: 15
 usc_section: "15e"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 15e"
-generated_at: "2026-03-30T07:59:12.271Z"
+generated_at: "2026-03-30T08:01:31.504Z"
 status: "active"
 ---
 

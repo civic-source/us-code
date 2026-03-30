@@ -3,9 +3,9 @@ title: "Section 5320 - Injunctions"
 usc_title: 31
 usc_section: "5320"
 chapter: 53
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "31 U.S.C. § 5320"
-generated_at: "2026-03-30T07:59:47.282Z"
+generated_at: "2026-03-30T08:02:20.945Z"
 status: "active"
 ---
 

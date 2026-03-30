@@ -3,9 +3,9 @@ title: "Section 2813 - Repealed. Pub. L. 106–224, title IV , § 438(a)(4), Jun
 usc_title: 7
 usc_section: "2813"
 chapter: 61
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "7 U.S.C. § 2813"
-generated_at: "2026-03-30T07:58:53.573Z"
+generated_at: "2026-03-30T08:01:01.256Z"
 status: "repealed"
 ---
 

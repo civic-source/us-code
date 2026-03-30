@@ -3,9 +3,9 @@ title: "Section 16163 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "16163"
 chapter: 149
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 16163"
-generated_at: "2026-03-30T08:00:21.825Z"
+generated_at: "2026-03-30T08:02:46.420Z"
 status: "active"
 ---
 

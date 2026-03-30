@@ -3,9 +3,9 @@ title: "Section 287c - Economic and communication sanctions pursuant to United N
 usc_title: 22
 usc_section: "287c"
 chapter: 7
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 287c"
-generated_at: "2026-03-30T07:59:32.597Z"
+generated_at: "2026-03-30T08:01:48.663Z"
 status: "active"
 ---
 

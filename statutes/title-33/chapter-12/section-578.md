@@ -3,9 +3,9 @@ title: "Section 578 - Disposal of surplus property for development of public por
 usc_title: 33
 usc_section: "578"
 chapter: 12
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 578"
-generated_at: "2026-03-30T07:59:48.335Z"
+generated_at: "2026-03-30T08:02:24.208Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3808 - Repealed. Pub. L. 100–297, title I, § 1003(a) , Apr. 2
 usc_title: 20
 usc_section: "3808"
 chapter: 51
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 3808"
-generated_at: "2026-03-30T07:59:17.916Z"
+generated_at: "2026-03-30T08:01:39.468Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3030c - Audit; request for information"
 usc_title: 42
 usc_section: "3030c"
 chapter: 35
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 3030c"
-generated_at: "2026-03-30T08:00:21.577Z"
+generated_at: "2026-03-30T08:02:46.171Z"
 status: "active"
 ---
 

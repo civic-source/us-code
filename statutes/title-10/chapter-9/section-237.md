@@ -3,9 +3,9 @@ title: "Section 237 - Embedded mental health providers of the reserve components
 usc_title: 10
 usc_section: "237"
 chapter: 9
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 237"
-generated_at: "2026-03-30T07:59:03.971Z"
+generated_at: "2026-03-30T08:01:13.164Z"
 status: "active"
 ---
 

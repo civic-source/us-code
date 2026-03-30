@@ -3,9 +3,9 @@ title: "Section 220542 - Additional duties. 1 1 So in original. The period proba
 usc_title: 36
 usc_section: "220542"
 chapter: 2205
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "36 U.S.C. § 220542"
-generated_at: "2026-03-30T07:59:59.926Z"
+generated_at: "2026-03-30T08:02:27.049Z"
 status: "active"
 ---
 

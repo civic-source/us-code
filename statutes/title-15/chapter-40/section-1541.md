@@ -3,9 +3,9 @@ title: "Section 1541 - Administrative Law Judges"
 usc_title: 15
 usc_section: "1541"
 chapter: 40
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 1541"
-generated_at: "2026-03-30T07:59:12.379Z"
+generated_at: "2026-03-30T08:01:31.613Z"
 status: "active"
 ---
 

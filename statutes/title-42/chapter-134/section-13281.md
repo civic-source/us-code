@@ -3,9 +3,9 @@ title: "Section 13281 - Program and solicitation"
 usc_title: 42
 usc_section: "13281"
 chapter: 134
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 13281"
-generated_at: "2026-03-30T08:00:21.800Z"
+generated_at: "2026-03-30T08:02:46.394Z"
 status: "active"
 ---
 

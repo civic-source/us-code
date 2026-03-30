@@ -3,9 +3,9 @@ title: "Section 1707 - Repealed. Pub. L. 115–271, title VIII , § 8222(3), Oct
 usc_title: 21
 usc_section: "1707"
 chapter: 22
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "21 U.S.C. § 1707"
-generated_at: "2026-03-30T07:59:29.426Z"
+generated_at: "2026-03-30T08:01:50.490Z"
 status: "repealed"
 ---
 

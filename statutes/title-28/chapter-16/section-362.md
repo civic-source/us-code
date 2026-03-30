@@ -3,9 +3,9 @@ title: "Section 362 - Other provisions and rules not affected"
 usc_title: 28
 usc_section: "362"
 chapter: 16
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "28 U.S.C. § 362"
-generated_at: "2026-03-30T07:59:36.340Z"
+generated_at: "2026-03-30T08:02:00.342Z"
 status: "active"
 ---
 

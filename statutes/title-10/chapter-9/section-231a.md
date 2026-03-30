@@ -3,9 +3,9 @@ title: "Section 231a - Repealed. Pub. L. 115–232, div. A, title VIII , § 813(
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-03-30T07:59:03.971Z"
+generated_at: "2026-03-30T08:01:13.163Z"
 status: "repealed"
 ---
 

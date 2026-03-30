@@ -3,9 +3,9 @@ title: "Section 40109 - Records and inspection"
 usc_title: 36
 usc_section: "40109"
 chapter: 401
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "36 U.S.C. § 40109"
-generated_at: "2026-03-30T07:59:59.913Z"
+generated_at: "2026-03-30T08:02:27.035Z"
 status: "active"
 ---
 

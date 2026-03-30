@@ -3,9 +3,9 @@ title: "Section 2026 - Termination of authority and participation in Agency"
 usc_title: 22
 usc_section: "2026"
 chapter: 28
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 2026"
-generated_at: "2026-03-30T07:59:32.614Z"
+generated_at: "2026-03-30T08:01:48.680Z"
 status: "active"
 ---
 

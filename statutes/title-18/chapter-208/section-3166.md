@@ -3,9 +3,9 @@ title: "Section 3166 - District plans—contents"
 usc_title: 18
 usc_section: "3166"
 chapter: 208
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "18 U.S.C. § 3166"
-generated_at: "2026-03-30T07:59:20.870Z"
+generated_at: "2026-03-30T08:01:37.414Z"
 status: "active"
 ---
 

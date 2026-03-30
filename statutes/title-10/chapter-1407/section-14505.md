@@ -3,9 +3,9 @@ title: "Section 14505 - Effect of failure of selection for promotion: reserve ca
 usc_title: 10
 usc_section: "14505"
 chapter: 1407
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 14505"
-generated_at: "2026-03-30T07:59:04.112Z"
+generated_at: "2026-03-30T08:01:13.368Z"
 status: "active"
 ---
 

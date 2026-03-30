@@ -3,9 +3,9 @@ title: "Section 2105 - Effect of other provisions"
 usc_title: 25
 usc_section: "2105"
 chapter: 23
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "25 U.S.C. § 2105"
-generated_at: "2026-03-30T07:59:30.205Z"
+generated_at: "2026-03-30T08:01:55.625Z"
 status: "active"
 ---
 

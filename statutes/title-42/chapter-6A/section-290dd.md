@@ -3,9 +3,9 @@ title: "Section 290dd - Substance abuse among government and other employees"
 usc_title: 42
 usc_section: "290dd"
 chapter: 6
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 290dd"
-generated_at: "2026-03-30T08:00:21.257Z"
+generated_at: "2026-03-30T08:02:45.847Z"
 status: "active"
 ---
 

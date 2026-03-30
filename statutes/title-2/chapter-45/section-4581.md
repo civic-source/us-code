@@ -3,9 +3,9 @@ title: "Section 4581 - Aggregate gross compensation of employee of Senator of St
 usc_title: 2
 usc_section: "4581"
 chapter: 45
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "2 U.S.C. § 4581"
-generated_at: "2026-03-30T07:58:38.860Z"
+generated_at: "2026-03-30T08:00:45.750Z"
 status: "active"
 ---
 

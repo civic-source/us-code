@@ -3,9 +3,9 @@ title: "Section 3735 - Limitation on availability of funds for Cooperative Threa
 usc_title: 50
 usc_section: "3735"
 chapter: 48
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "50 U.S.C. § 3735"
-generated_at: "2026-03-30T08:00:28.975Z"
+generated_at: "2026-03-30T08:02:50.957Z"
 status: "active"
 ---
 

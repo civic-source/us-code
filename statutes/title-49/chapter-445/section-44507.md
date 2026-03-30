@@ -3,9 +3,9 @@ title: "Section 44507 - Regions and centers"
 usc_title: 49
 usc_section: "44507"
 chapter: 445
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "49 U.S.C. § 44507"
-generated_at: "2026-03-30T08:00:30.876Z"
+generated_at: "2026-03-30T08:02:53.538Z"
 status: "active"
 ---
 

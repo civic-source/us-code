@@ -3,9 +3,9 @@ title: "Section 7682 - Obsolete or excess material: sale to National Council of 
 usc_title: 10
 usc_section: "7682"
 chapter: 773
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 7682"
-generated_at: "2026-03-30T07:59:04.085Z"
+generated_at: "2026-03-30T08:01:13.327Z"
 status: "active"
 ---
 

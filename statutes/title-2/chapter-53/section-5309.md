@@ -3,9 +3,9 @@ title: "Section 5309 - Disbursement of compensation of House Members by Chief Ad
 usc_title: 2
 usc_section: "5309"
 chapter: 53
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "2 U.S.C. § 5309"
-generated_at: "2026-03-30T07:58:38.862Z"
+generated_at: "2026-03-30T08:00:45.752Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7715 - Assistance to certain candidate countries"
 usc_title: 22
 usc_section: "7715"
 chapter: 84
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 7715"
-generated_at: "2026-03-30T07:59:32.709Z"
+generated_at: "2026-03-30T08:01:48.773Z"
 status: "active"
 ---
 

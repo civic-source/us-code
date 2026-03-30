@@ -3,9 +3,9 @@ title: "Section 1902 - Procedures applicable to purchases below micro-purchase t
 usc_title: 41
 usc_section: "1902"
 chapter: 19
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "41 U.S.C. § 1902"
-generated_at: "2026-03-30T08:00:04.771Z"
+generated_at: "2026-03-30T08:02:32.447Z"
 status: "active"
 ---
 

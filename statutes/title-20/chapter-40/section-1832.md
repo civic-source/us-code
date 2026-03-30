@@ -3,9 +3,9 @@ title: "Section 1832 - Omitted"
 usc_title: 20
 usc_section: "1832"
 chapter: 40
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 1832"
-generated_at: "2026-03-30T07:59:17.908Z"
+generated_at: "2026-03-30T08:01:39.457Z"
 status: "omitted"
 ---
 

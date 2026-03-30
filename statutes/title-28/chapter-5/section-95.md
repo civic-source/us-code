@@ -3,9 +3,9 @@ title: "Section 95 - Iowa"
 usc_title: 28
 usc_section: "95"
 chapter: 5
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "28 U.S.C. § 95"
-generated_at: "2026-03-30T07:59:36.335Z"
+generated_at: "2026-03-30T08:02:00.337Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2503 - Status of recalled personnel"
 usc_title: 14
 usc_section: "2503"
 chapter: 25
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "14 U.S.C. § 2503"
-generated_at: "2026-03-30T07:59:06.934Z"
+generated_at: "2026-03-30T08:01:21.462Z"
 status: "active"
 ---
 

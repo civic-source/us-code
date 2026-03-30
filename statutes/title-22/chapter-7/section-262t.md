@@ -3,9 +3,9 @@ title: "Section 262t - Personnel practices"
 usc_title: 22
 usc_section: "262t"
 chapter: 7
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "22 U.S.C. § 262t"
-generated_at: "2026-03-30T07:59:32.586Z"
+generated_at: "2026-03-30T08:01:48.653Z"
 status: "active"
 ---
 

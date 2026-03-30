@@ -3,9 +3,9 @@ title: "Section 454 - Exchange of mapping, charting, and geodetic data with fore
 usc_title: 10
 usc_section: "454"
 chapter: 22
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "10 U.S.C. § 454"
-generated_at: "2026-03-30T07:59:03.977Z"
+generated_at: "2026-03-30T08:01:13.173Z"
 status: "active"
 ---
 

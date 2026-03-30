@@ -3,9 +3,9 @@ title: "Section 705 - Navy Department"
 usc_title: 14
 usc_section: "705"
 chapter: 7
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "14 U.S.C. § 705"
-generated_at: "2026-03-30T07:59:06.928Z"
+generated_at: "2026-03-30T08:01:21.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 151707 - Provision and acceptance of support by Librarian of Con
 usc_title: 36
 usc_section: "151707"
 chapter: 1517
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "36 U.S.C. § 151707"
-generated_at: "2026-03-30T07:59:59.920Z"
+generated_at: "2026-03-30T08:02:27.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17711 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17711"
 chapter: 155
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 17711"
-generated_at: "2026-03-30T08:00:21.845Z"
+generated_at: "2026-03-30T08:02:46.439Z"
 status: "repealed"
 ---
 

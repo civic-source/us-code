@@ -3,9 +3,9 @@ title: "Section 3 - Priority trail maintenance program"
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T07:59:23.093Z"
+generated_at: "2026-03-30T08:01:42.311Z"
 status: "active"
 ---
 

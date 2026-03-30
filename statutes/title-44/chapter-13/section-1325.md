@@ -3,9 +3,9 @@ title: "Section 1325 - Labor Statistics, Bureau of: report of Commissioner"
 usc_title: 44
 usc_section: "1325"
 chapter: 13
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "44 U.S.C. § 1325"
-generated_at: "2026-03-30T08:00:07.826Z"
+generated_at: "2026-03-30T08:02:31.395Z"
 status: "active"
 ---
 

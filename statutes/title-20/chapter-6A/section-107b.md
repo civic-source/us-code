@@ -3,9 +3,9 @@ title: "Section 107b - Application for designation as State licensing agency; co
 usc_title: 20
 usc_section: "107b"
 chapter: 6
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 107b"
-generated_at: "2026-03-30T07:59:17.835Z"
+generated_at: "2026-03-30T08:01:39.364Z"
 status: "active"
 ---
 

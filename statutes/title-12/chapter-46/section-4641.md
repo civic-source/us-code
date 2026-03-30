@@ -3,9 +3,9 @@ title: "Section 4641 - Subpoena authority"
 usc_title: 12
 usc_section: "4641"
 chapter: 46
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 4641"
-generated_at: "2026-03-30T07:59:10.315Z"
+generated_at: "2026-03-30T08:01:28.455Z"
 status: "active"
 ---
 

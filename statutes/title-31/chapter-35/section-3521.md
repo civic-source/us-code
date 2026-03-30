@@ -3,9 +3,9 @@ title: "Section 3521 - Audits by agencies"
 usc_title: 31
 usc_section: "3521"
 chapter: 35
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "31 U.S.C. § 3521"
-generated_at: "2026-03-30T07:59:47.272Z"
+generated_at: "2026-03-30T08:02:20.935Z"
 status: "active"
 ---
 

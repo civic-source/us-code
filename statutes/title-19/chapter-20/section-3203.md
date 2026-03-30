@@ -3,9 +3,9 @@ title: "Section 3203 - Eligible articles"
 usc_title: 19
 usc_section: "3203"
 chapter: 20
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "19 U.S.C. § 3203"
-generated_at: "2026-03-30T07:59:25.259Z"
+generated_at: "2026-03-30T08:01:35.783Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20711 - Establishing a national strategy to combat human traffic
 usc_title: 34
 usc_section: "20711"
 chapter: 207
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "34 U.S.C. § 20711"
-generated_at: "2026-03-30T07:59:57.269Z"
+generated_at: "2026-03-30T08:02:21.590Z"
 status: "active"
 ---
 
@@ -26,9 +26,9 @@ status: "active"
   - **(1)** implementing the National Strategy with respect to all forms of human trafficking, including labor trafficking and sex trafficking;
   - **(2)** prosecuting, or assisting in the prosecution of, human trafficking cases;
   - **(3)** conducting public outreach and awareness activities relating to human trafficking;
-  - **(4)** ensuring the collection of data required to be collected under clause (viii) of section 7103(d)(7)(Q)) of title 22, as added by section 17 of the Abolish Human Trafficking Act of 2017, 1 1 See References in Text note below. is sought;
+  - **(4)** ensuring the collection of data required to be collected under clause (viii) of section 7103(d)(7)(Q) of title 22 , as added by section 17 of the Abolish Human Trafficking Act of 2017, 1 1 See References in Text note below. is sought;
   - **(5)** coordinating with other Federal agencies, State, tribal, and local law enforcement agencies, victim service providers, and other relevant non-governmental organizations to build partnerships on activities relating to human trafficking; and
-  - **(6)** ensuring the collection of restitution for victims is sought as required to be ordered under section 1593 of title 18 and section 2429 of such title.
+  - **(6)** ensuring the collection of restitution for victims is sought as required to be ordered under section 1593 of title 18 and section 2429 of such title, as added by section 3 of the Abolish Human Trafficking Act of 2017.
 - **(d)** Not later than 60 days after December 21, 2018 , the Attorney General shall designate an official who shall coordinate human trafficking efforts within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
   - **(1)** coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
   - **(2)** in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—

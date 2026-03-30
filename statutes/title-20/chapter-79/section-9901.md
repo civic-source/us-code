@@ -3,9 +3,9 @@ title: "Section 9901 - Purpose"
 usc_title: 20
 usc_section: "9901"
 chapter: 79
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 9901"
-generated_at: "2026-03-30T07:59:17.961Z"
+generated_at: "2026-03-30T08:01:39.526Z"
 status: "active"
 ---
 

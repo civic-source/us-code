@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. Pub. L. 104–134, title III , § 3116(a)(1), Apr
 usc_title: 42
 usc_section: "15"
 chapter: 23
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T08:00:21.566Z"
+generated_at: "2026-03-30T08:02:46.158Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101 - Establishment of Coast Guard"
 usc_title: 14
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "14 U.S.C. § 101"
-generated_at: "2026-03-30T07:59:06.927Z"
+generated_at: "2026-03-30T08:01:21.454Z"
 status: "active"
 ---
 

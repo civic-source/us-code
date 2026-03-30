@@ -3,9 +3,9 @@ title: "Section 2609 - Seizure and forfeiture"
 usc_title: 19
 usc_section: "2609"
 chapter: 14
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "19 U.S.C. § 2609"
-generated_at: "2026-03-30T07:59:25.254Z"
+generated_at: "2026-03-30T08:01:35.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1232e - Single local educational agency application"
 usc_title: 20
 usc_section: "1232e"
 chapter: 31
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "20 U.S.C. § 1232e"
-generated_at: "2026-03-30T07:59:17.895Z"
+generated_at: "2026-03-30T08:01:39.441Z"
 status: "active"
 ---
 

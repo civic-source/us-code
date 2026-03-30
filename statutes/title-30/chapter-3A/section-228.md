@@ -3,9 +3,9 @@ title: "Section 228 - Prospecting permits and leases to persons of lands not wit
 usc_title: 30
 usc_section: "228"
 chapter: 3
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "30 U.S.C. § 228"
-generated_at: "2026-03-30T07:59:35.286Z"
+generated_at: "2026-03-30T08:01:59.489Z"
 status: "active"
 ---
 

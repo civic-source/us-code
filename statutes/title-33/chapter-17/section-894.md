@@ -3,9 +3,9 @@ title: "Section 894 - Actions to address sexual harassment at National Oceanic a
 usc_title: 33
 usc_section: "894"
 chapter: 17
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "33 U.S.C. § 894"
-generated_at: "2026-03-30T07:59:48.346Z"
+generated_at: "2026-03-30T08:02:24.219Z"
 status: "active"
 ---
 

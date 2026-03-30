@@ -3,9 +3,9 @@ title: "Section 2202c - Repealed. Pub. L. 115–334, title V , § 5411(23), Dec.
 usc_title: 12
 usc_section: "2202c"
 chapter: 23
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "12 U.S.C. § 2202c"
-generated_at: "2026-03-30T07:59:10.278Z"
+generated_at: "2026-03-30T08:01:28.416Z"
 status: "repealed"
 ---
 

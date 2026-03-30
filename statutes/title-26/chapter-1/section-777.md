@@ -3,9 +3,9 @@ title: "Section 777 - Repealed. Pub. L. 114–74, title XI , § 1101(b)(1), Nov.
 usc_title: 26
 usc_section: "777"
 chapter: 1
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "26 U.S.C. § 777"
-generated_at: "2026-03-30T07:59:44.397Z"
+generated_at: "2026-03-30T08:02:17.962Z"
 status: "repealed"
 ---
 

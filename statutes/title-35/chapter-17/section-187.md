@@ -3,9 +3,9 @@ title: "Section 187 - Nonapplicability to certain persons"
 usc_title: 35
 usc_section: "187"
 chapter: 17
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "35 U.S.C. § 187"
-generated_at: "2026-03-30T07:59:46.357Z"
+generated_at: "2026-03-30T08:02:19.988Z"
 status: "active"
 ---
 

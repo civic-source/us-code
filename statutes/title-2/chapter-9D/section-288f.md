@@ -3,9 +3,9 @@ title: "Section 288f - Immunity proceedings"
 usc_title: 2
 usc_section: "288f"
 chapter: 9
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "2 U.S.C. § 288f"
-generated_at: "2026-03-30T07:58:38.828Z"
+generated_at: "2026-03-30T08:00:45.715Z"
 status: "active"
 ---
 

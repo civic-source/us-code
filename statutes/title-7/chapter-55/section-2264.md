@@ -3,9 +3,9 @@ title: "Section 2264 - National Agricultural Library; acceptance of gifts, beque
 usc_title: 7
 usc_section: "2264"
 chapter: 55
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "7 U.S.C. § 2264"
-generated_at: "2026-03-30T07:58:53.566Z"
+generated_at: "2026-03-30T08:01:01.246Z"
 status: "active"
 ---
 

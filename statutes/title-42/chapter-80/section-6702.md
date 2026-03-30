@@ -3,9 +3,9 @@ title: "Section 6702 - Direct grants; Federal share"
 usc_title: 42
 usc_section: "6702"
 chapter: 80
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 6702"
-generated_at: "2026-03-30T08:00:21.652Z"
+generated_at: "2026-03-30T08:02:46.243Z"
 status: "active"
 ---
 

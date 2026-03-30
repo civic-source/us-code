@@ -3,9 +3,9 @@ title: "Section 1124 - Impairment of claims or interests"
 usc_title: 11
 usc_section: "1124"
 chapter: 11
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "11 U.S.C. § 1124"
-generated_at: "2026-03-30T07:59:06.629Z"
+generated_at: "2026-03-30T08:01:18.443Z"
 status: "active"
 ---
 

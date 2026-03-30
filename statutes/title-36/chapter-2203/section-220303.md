@@ -3,9 +3,9 @@ title: "Section 220303 - Membership"
 usc_title: 36
 usc_section: "220303"
 chapter: 2203
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "36 U.S.C. § 220303"
-generated_at: "2026-03-30T07:59:59.924Z"
+generated_at: "2026-03-30T08:02:27.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2005 - Financial assistance by Surgeon General"
 usc_title: 42
 usc_section: "2005"
 chapter: 22
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 2005"
-generated_at: "2026-03-30T08:00:21.551Z"
+generated_at: "2026-03-30T08:02:46.144Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7478 - Period before plan approval"
 usc_title: 42
 usc_section: "7478"
 chapter: 85
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "42 U.S.C. § 7478"
-generated_at: "2026-03-30T08:00:21.684Z"
+generated_at: "2026-03-30T08:02:46.275Z"
 status: "active"
 ---
 

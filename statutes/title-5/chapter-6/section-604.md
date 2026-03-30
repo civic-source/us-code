@@ -3,9 +3,9 @@ title: "Section 604 - Final regulatory flexibility analysis"
 usc_title: 5
 usc_section: "604"
 chapter: 6
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "5 U.S.C. § 604"
-generated_at: "2026-03-30T07:58:45.177Z"
+generated_at: "2026-03-30T08:00:52.874Z"
 status: "active"
 ---
 

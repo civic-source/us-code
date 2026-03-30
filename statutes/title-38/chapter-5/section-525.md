@@ -3,9 +3,9 @@ title: "Section 525 - Publication of laws relating to veterans"
 usc_title: 38
 usc_section: "525"
 chapter: 5
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "38 U.S.C. § 525"
-generated_at: "2026-03-30T08:00:02.581Z"
+generated_at: "2026-03-30T08:02:28.553Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300 - Application of State laws"
 usc_title: 15
 usc_section: "300"
 chapter: 8
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "15 U.S.C. § 300"
-generated_at: "2026-03-30T07:59:12.328Z"
+generated_at: "2026-03-30T08:01:31.561Z"
 status: "active"
 ---
 

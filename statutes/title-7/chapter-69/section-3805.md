@@ -3,9 +3,9 @@ title: "Section 3805 - Civil penalties"
 usc_title: 7
 usc_section: "3805"
 chapter: 69
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "7 U.S.C. § 3805"
-generated_at: "2026-03-30T07:58:53.583Z"
+generated_at: "2026-03-30T08:01:01.272Z"
 status: "active"
 ---
 

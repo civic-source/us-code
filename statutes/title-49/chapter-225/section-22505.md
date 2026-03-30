@@ -3,9 +3,9 @@ title: "Section 22505 - Repealed. Pub. L. 114–94, div. A, title XI , § 11301(
 usc_title: 49
 usc_section: "22505"
 chapter: 225
-current_through: "PL 116-17"
+current_through: "PL 116-18"
 classification: "49 U.S.C. § 22505"
-generated_at: "2026-03-30T08:00:30.846Z"
+generated_at: "2026-03-30T08:02:53.505Z"
 status: "repealed"
 ---
 
