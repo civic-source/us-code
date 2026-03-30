@@ -3,9 +3,9 @@ title: "Section 1543 - Construction with Marine Mammal Protection Act of 1972"
 usc_title: 16
 usc_section: "1543"
 chapter: 35
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 1543"
-generated_at: "2026-03-30T08:42:34.827Z"
+generated_at: "2026-03-30T08:45:01.857Z"
 status: "active"
 ---
 

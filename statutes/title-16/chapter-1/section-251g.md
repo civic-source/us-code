@@ -3,9 +3,9 @@ title: "Section 251g - Land acquisition; study and investigation of use of priva
 usc_title: 16
 usc_section: "251g"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 251g"
-generated_at: "2026-03-30T08:42:34.665Z"
+generated_at: "2026-03-30T08:45:01.706Z"
 status: "active"
 ---
 

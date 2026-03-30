@@ -3,9 +3,9 @@ title: "Section 733a - Citizens; residence in island of citizens of United State
 usc_title: 48
 usc_section: "733a"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "48 U.S.C. § 733a"
-generated_at: "2026-03-30T08:44:02.775Z"
+generated_at: "2026-03-30T08:45:59.090Z"
 status: "active"
 ---
 

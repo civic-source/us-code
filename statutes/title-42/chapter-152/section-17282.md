@@ -3,9 +3,9 @@ title: "Section 17282 - Renewable energy deployment"
 usc_title: 42
 usc_section: "17282"
 chapter: 152
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 17282"
-generated_at: "2026-03-30T08:44:00.020Z"
+generated_at: "2026-03-30T08:45:55.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5415 - Records and returns"
 usc_title: 26
 usc_section: "5415"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 5415"
-generated_at: "2026-03-30T08:43:18.617Z"
+generated_at: "2026-03-30T08:45:23.513Z"
 status: "active"
 ---
 

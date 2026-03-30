@@ -3,9 +3,9 @@ title: "Section 1644 - Application of section 1644a(b)(1) of this title and sect
 usc_title: 19
 usc_section: "1644"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 1644"
-generated_at: "2026-03-30T08:42:22.655Z"
+generated_at: "2026-03-30T08:45:03.851Z"
 status: "active"
 ---
 

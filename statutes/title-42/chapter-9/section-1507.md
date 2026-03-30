@@ -3,9 +3,9 @@ title: "Section 1507 - Omitted"
 usc_title: 42
 usc_section: "1507"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 1507"
-generated_at: "2026-03-30T08:43:59.706Z"
+generated_at: "2026-03-30T08:45:54.518Z"
 status: "omitted"
 ---
 

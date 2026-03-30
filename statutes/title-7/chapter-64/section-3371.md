@@ -3,9 +3,9 @@ title: "Section 3371 - Repealed. Pub. L. 115–334, title VII, § 7614(a) , Dec.
 usc_title: 7
 usc_section: "3371"
 chapter: 64
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 3371"
-generated_at: "2026-03-30T08:41:29.011Z"
+generated_at: "2026-03-30T08:44:38.739Z"
 status: "repealed"
 ---
 

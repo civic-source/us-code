@@ -3,9 +3,9 @@ title: "Section 1310 - Sale of war supplies, land, and buildings"
 usc_title: 40
 usc_section: "1310"
 chapter: 13
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "40 U.S.C. § 1310"
-generated_at: "2026-03-30T08:43:30.506Z"
+generated_at: "2026-03-30T08:45:32.287Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 109 - Same; exception of Indians"
 usc_title: 4
 usc_section: "109"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "4 U.S.C. § 109"
-generated_at: "2026-03-30T08:41:15.767Z"
+generated_at: "2026-03-30T08:44:19.959Z"
 status: "active"
 ---
 

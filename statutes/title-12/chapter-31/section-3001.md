@@ -3,9 +3,9 @@ title: "Section 3001 - Congressional statement of findings and purpose"
 usc_title: 12
 usc_section: "3001"
 chapter: 31
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 3001"
-generated_at: "2026-03-30T08:42:18.916Z"
+generated_at: "2026-03-30T08:44:50.697Z"
 status: "active"
 ---
 

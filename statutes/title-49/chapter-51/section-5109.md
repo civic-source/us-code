@@ -3,9 +3,9 @@ title: "Section 5109 - Motor carrier safety permits"
 usc_title: 49
 usc_section: "5109"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 5109"
-generated_at: "2026-03-30T08:44:05.878Z"
+generated_at: "2026-03-30T08:46:03.411Z"
 status: "active"
 ---
 

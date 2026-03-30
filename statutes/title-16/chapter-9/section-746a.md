@@ -3,9 +3,9 @@ title: "Section 746a - Operation and maintenance fees for the M/V Tiglax and oth
 usc_title: 16
 usc_section: "746a"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 746a"
-generated_at: "2026-03-30T08:42:34.777Z"
+generated_at: "2026-03-30T08:45:01.809Z"
 status: "active"
 ---
 

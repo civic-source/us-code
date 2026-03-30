@@ -3,9 +3,9 @@ title: "Section 9905 - Direct hire authority for certain personnel of the Depart
 usc_title: 5
 usc_section: "9905"
 chapter: 99
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "5 U.S.C. § 9905"
-generated_at: "2026-03-30T08:41:19.437Z"
+generated_at: "2026-03-30T08:44:22.321Z"
 status: "active"
 ---
 

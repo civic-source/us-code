@@ -3,9 +3,9 @@ title: "Section 1508 - Interpretation"
 usc_title: 11
 usc_section: "1508"
 chapter: 15
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "11 U.S.C. § 1508"
-generated_at: "2026-03-30T08:42:07.775Z"
+generated_at: "2026-03-30T08:44:47.509Z"
 status: "active"
 ---
 

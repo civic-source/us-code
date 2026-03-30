@@ -3,9 +3,9 @@ title: "Section 50501 - Definitions"
 usc_title: 51
 usc_section: "50501"
 chapter: 505
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "51 U.S.C. § 50501"
-generated_at: "2026-03-30T08:44:09.154Z"
+generated_at: "2026-03-30T08:46:30.450Z"
 status: "active"
 ---
 

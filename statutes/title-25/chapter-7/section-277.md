@@ -3,9 +3,9 @@ title: "Section 277 - Former Apache military post established as Theodore Roosev
 usc_title: 25
 usc_section: "277"
 chapter: 7
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "25 U.S.C. § 277"
-generated_at: "2026-03-30T08:43:02.997Z"
+generated_at: "2026-03-30T08:45:12.508Z"
 status: "active"
 ---
 

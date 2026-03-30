@@ -3,9 +3,9 @@ title: "Section 149 - Bonds must be registered to be tax exempt; other requireme
 usc_title: 26
 usc_section: "149"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 149"
-generated_at: "2026-03-30T08:43:18.467Z"
+generated_at: "2026-03-30T08:45:23.361Z"
 status: "active"
 ---
 

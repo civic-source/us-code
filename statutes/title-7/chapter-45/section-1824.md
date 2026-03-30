@@ -3,9 +3,9 @@ title: "Section 1824 - Repealed. Pub. L. 89–321, title VI, § 601 , Nov. 3, 19
 usc_title: 7
 usc_section: "1824"
 chapter: 45
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 1824"
-generated_at: "2026-03-30T08:41:28.966Z"
+generated_at: "2026-03-30T08:44:38.695Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10206 - Technician positions"
 usc_title: 5
 usc_section: "10206"
 chapter: 102
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "5 U.S.C. § 10206"
-generated_at: "2026-03-30T08:41:19.438Z"
+generated_at: "2026-03-30T08:44:22.321Z"
 status: "active"
 ---
 

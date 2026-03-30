@@ -3,9 +3,9 @@ title: "Section 2113 - World War II memorial in the District of Columbia"
 usc_title: 36
 usc_section: "2113"
 chapter: 21
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "36 U.S.C. § 2113"
-generated_at: "2026-03-30T08:43:28.597Z"
+generated_at: "2026-03-30T08:45:30.353Z"
 status: "active"
 ---
 

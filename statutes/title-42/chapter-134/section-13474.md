@@ -3,9 +3,9 @@ title: "Section 13474 - Fusion energy"
 usc_title: 42
 usc_section: "13474"
 chapter: 134
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 13474"
-generated_at: "2026-03-30T08:43:59.984Z"
+generated_at: "2026-03-30T08:45:54.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1978 - Actions under other Federal or State laws unaffected; reg
 usc_title: 12
 usc_section: "1978"
 chapter: 22
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 1978"
-generated_at: "2026-03-30T08:42:18.900Z"
+generated_at: "2026-03-30T08:44:50.682Z"
 status: "active"
 ---
 

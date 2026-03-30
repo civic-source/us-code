@@ -3,9 +3,9 @@ title: "Section 6412 - Reports"
 usc_title: 22
 usc_section: "6412"
 chapter: 73
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 6412"
-generated_at: "2026-03-30T08:43:08.044Z"
+generated_at: "2026-03-30T08:45:11.099Z"
 status: "active"
 ---
 

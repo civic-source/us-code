@@ -3,9 +3,9 @@ title: "Section 425g - Protection of monuments, etc."
 usc_title: 16
 usc_section: "425g"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 425g"
-generated_at: "2026-03-30T08:42:34.699Z"
+generated_at: "2026-03-30T08:45:01.734Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1157 - North Pacific Fur Seal Commission; appointment of United 
 usc_title: 16
 usc_section: "1157"
 chapter: 24
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 1157"
-generated_at: "2026-03-30T08:42:34.803Z"
+generated_at: "2026-03-30T08:45:01.834Z"
 status: "active"
 ---
 

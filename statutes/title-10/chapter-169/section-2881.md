@@ -3,9 +3,9 @@ title: "Section 2881 - Ancillary supporting facilities"
 usc_title: 10
 usc_section: "2881"
 chapter: 169
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 2881"
-generated_at: "2026-03-30T08:41:52.153Z"
+generated_at: "2026-03-30T08:44:42.103Z"
 status: "active"
 ---
 

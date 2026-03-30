@@ -3,9 +3,9 @@ title: "Section 156 - Authorization of appropriations"
 usc_title: 47
 usc_section: "156"
 chapter: 5
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "47 U.S.C. § 156"
-generated_at: "2026-03-30T08:44:03.145Z"
+generated_at: "2026-03-30T08:45:59.707Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11146 - Repealed. Pub. L. 115–385, title II, § 206 , Dec. 21,
 usc_title: 34
 usc_section: "11146"
 chapter: 111
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "34 U.S.C. § 11146"
-generated_at: "2026-03-30T08:43:22.431Z"
+generated_at: "2026-03-30T08:45:26.813Z"
 status: "repealed"
 ---
 

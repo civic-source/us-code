@@ -3,9 +3,9 @@ title: "Section 1110 - Mission need statement"
 usc_title: 14
 usc_section: "1110"
 chapter: 11
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "14 U.S.C. § 1110"
-generated_at: "2026-03-30T08:41:54.409Z"
+generated_at: "2026-03-30T08:44:52.987Z"
 status: "active"
 ---
 

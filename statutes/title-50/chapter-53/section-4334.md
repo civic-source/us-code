@@ -3,9 +3,9 @@ title: "Section 4334 - Insurance of property"
 usc_title: 50
 usc_section: "4334"
 chapter: 53
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "50 U.S.C. § 4334"
-generated_at: "2026-03-30T08:44:07.021Z"
+generated_at: "2026-03-30T08:46:17.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6507 - Authorization of appropriations; Federal financial assist
 usc_title: 42
 usc_section: "6507"
 chapter: 78
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 6507"
-generated_at: "2026-03-30T08:43:59.836Z"
+generated_at: "2026-03-30T08:45:54.744Z"
 status: "active"
 ---
 

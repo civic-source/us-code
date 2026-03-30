@@ -3,9 +3,9 @@ title: "Section 376 - Return of land donations not needed"
 usc_title: 43
 usc_section: "376"
 chapter: 12
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 376"
-generated_at: "2026-03-30T08:43:38.404Z"
+generated_at: "2026-03-30T08:45:34.923Z"
 status: "active"
 ---
 

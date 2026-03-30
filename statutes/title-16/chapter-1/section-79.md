@@ -3,9 +3,9 @@ title: "Section 79 - Federal facilities fee equity"
 usc_title: 16
 usc_section: "79"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 79"
-generated_at: "2026-03-30T08:42:34.688Z"
+generated_at: "2026-03-30T08:45:01.725Z"
 status: "active"
 ---
 

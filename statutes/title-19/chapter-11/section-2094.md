@@ -3,9 +3,9 @@ title: "Section 2094 - Rules and regulations"
 usc_title: 19
 usc_section: "2094"
 chapter: 11
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 2094"
-generated_at: "2026-03-30T08:42:22.667Z"
+generated_at: "2026-03-30T08:45:03.863Z"
 status: "active"
 ---
 

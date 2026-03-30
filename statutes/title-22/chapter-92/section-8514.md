@@ -3,9 +3,9 @@ title: "Section 8514 - Imposition of sanctions on certain persons who are respon
 usc_title: 22
 usc_section: "8514"
 chapter: 92
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 8514"
-generated_at: "2026-03-30T08:43:08.066Z"
+generated_at: "2026-03-30T08:45:11.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2393 - Waiver of certain laws"
 usc_title: 22
 usc_section: "2393"
 chapter: 32
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 2393"
-generated_at: "2026-03-30T08:43:07.990Z"
+generated_at: "2026-03-30T08:45:11.042Z"
 status: "active"
 ---
 

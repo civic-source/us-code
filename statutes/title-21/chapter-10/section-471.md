@@ -3,9 +3,9 @@ title: "Section 471 - Safe Meat and Poultry Inspection Panel"
 usc_title: 21
 usc_section: "471"
 chapter: 10
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "21 U.S.C. § 471"
-generated_at: "2026-03-30T08:42:47.704Z"
+generated_at: "2026-03-30T08:45:13.430Z"
 status: "active"
 ---
 

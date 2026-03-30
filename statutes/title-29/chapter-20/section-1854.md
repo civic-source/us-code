@@ -3,9 +3,9 @@ title: "Section 1854 - Private right of action"
 usc_title: 29
 usc_section: "1854"
 chapter: 20
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "29 U.S.C. § 1854"
-generated_at: "2026-03-30T08:43:11.993Z"
+generated_at: "2026-03-30T08:45:17.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7701 - Taxpayer identifying number"
 usc_title: 31
 usc_section: "7701"
 chapter: 77
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "31 U.S.C. § 7701"
-generated_at: "2026-03-30T08:43:21.856Z"
+generated_at: "2026-03-30T08:45:26.227Z"
 status: "active"
 ---
 

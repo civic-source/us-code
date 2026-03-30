@@ -3,9 +3,9 @@ title: "Section 10a - Public Health Emergency Medical Countermeasures Enterprise
 usc_title: 42
 usc_section: "10a"
 chapter: 6
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-30T08:43:59.515Z"
+generated_at: "2026-03-30T08:45:54.180Z"
 status: "active"
 ---
 

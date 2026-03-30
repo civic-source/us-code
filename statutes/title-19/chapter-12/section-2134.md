@@ -3,9 +3,9 @@ title: "Section 2134 - Two-year residual authority to negotiate duties"
 usc_title: 19
 usc_section: "2134"
 chapter: 12
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 2134"
-generated_at: "2026-03-30T08:42:22.668Z"
+generated_at: "2026-03-30T08:45:03.864Z"
 status: "active"
 ---
 

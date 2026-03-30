@@ -3,9 +3,9 @@ title: "Section 2204 - Discharge of fiduciary from personal liability"
 usc_title: 26
 usc_section: "2204"
 chapter: 11
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 2204"
-generated_at: "2026-03-30T08:43:18.583Z"
+generated_at: "2026-03-30T08:45:23.479Z"
 status: "active"
 ---
 

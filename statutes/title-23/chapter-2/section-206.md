@@ -3,9 +3,9 @@ title: "Section 206 - Recreational trails program"
 usc_title: 23
 usc_section: "206"
 chapter: 2
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "23 U.S.C. § 206"
-generated_at: "2026-03-30T08:42:54.981Z"
+generated_at: "2026-03-30T08:45:08.540Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6050E - State and local income tax refunds"
 usc_title: 26
 usc_section: "6050E"
 chapter: 61
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 6050E"
-generated_at: "2026-03-30T08:43:18.626Z"
+generated_at: "2026-03-30T08:45:23.522Z"
 status: "active"
 ---
 

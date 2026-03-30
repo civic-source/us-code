@@ -3,9 +3,9 @@ title: "Section 106a - Promulgation of laws"
 usc_title: 1
 usc_section: "106a"
 chapter: 2
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "1 U.S.C. § 106a"
-generated_at: "2026-03-30T08:41:16.335Z"
+generated_at: "2026-03-30T08:44:19.934Z"
 status: "active"
 ---
 

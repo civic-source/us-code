@@ -3,9 +3,9 @@ title: "Section 2244 - Repealed. Pub. L. 101–624, title XVI, § 1606(b)(3) , N
 usc_title: 7
 usc_section: "2244"
 chapter: 55
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 2244"
-generated_at: "2026-03-30T08:41:28.995Z"
+generated_at: "2026-03-30T08:44:38.724Z"
 status: "repealed"
 ---
 

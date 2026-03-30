@@ -3,9 +3,9 @@ title: "Section 1 - Dr. Nancy Foster Scholarship Program"
 usc_title: 16
 usc_section: "1"
 chapter: 32
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:42:34.821Z"
+generated_at: "2026-03-30T08:45:01.851Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 425n - Interpretation"
 usc_title: 16
 usc_section: "425n"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 425n"
-generated_at: "2026-03-30T08:42:34.700Z"
+generated_at: "2026-03-30T08:45:01.734Z"
 status: "active"
 ---
 

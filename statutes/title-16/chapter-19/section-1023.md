@@ -3,9 +3,9 @@ title: "Section 1023 - Repealed. Pub. L. 102–567, title VIII, § 814 , Oct. 29
 usc_title: 16
 usc_section: "1023"
 chapter: 19
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 1023"
-generated_at: "2026-03-30T08:42:34.802Z"
+generated_at: "2026-03-30T08:45:01.833Z"
 status: "repealed"
 ---
 

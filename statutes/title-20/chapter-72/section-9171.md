@@ -3,9 +3,9 @@ title: "Section 9171 - Purpose"
 usc_title: 20
 usc_section: "9171"
 chapter: 72
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "20 U.S.C. § 9171"
-generated_at: "2026-03-30T08:42:24.719Z"
+generated_at: "2026-03-30T08:45:05.710Z"
 status: "active"
 ---
 

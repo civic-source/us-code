@@ -3,9 +3,9 @@ title: "Section 51306 - Cadet commitment agreements"
 usc_title: 46
 usc_section: "51306"
 chapter: 513
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "46 U.S.C. § 51306"
-generated_at: "2026-03-30T08:44:03.949Z"
+generated_at: "2026-03-30T08:46:10.882Z"
 status: "active"
 ---
 

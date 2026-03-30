@@ -3,9 +3,9 @@ title: "Section 456 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "456"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 456"
-generated_at: "2026-03-30T08:42:34.709Z"
+generated_at: "2026-03-30T08:45:01.743Z"
 status: "repealed"
 ---
 

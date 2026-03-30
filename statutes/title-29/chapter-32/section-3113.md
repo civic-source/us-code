@@ -3,9 +3,9 @@ title: "Section 3113 - Combined State plan"
 usc_title: 29
 usc_section: "3113"
 chapter: 32
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "29 U.S.C. § 3113"
-generated_at: "2026-03-30T08:43:12.000Z"
+generated_at: "2026-03-30T08:45:17.082Z"
 status: "active"
 ---
 

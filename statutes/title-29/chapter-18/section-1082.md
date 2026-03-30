@@ -3,9 +3,9 @@ title: "Section 1082 - Minimum funding standards"
 usc_title: 29
 usc_section: "1082"
 chapter: 18
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "29 U.S.C. § 1082"
-generated_at: "2026-03-30T08:43:11.971Z"
+generated_at: "2026-03-30T08:45:17.050Z"
 status: "active"
 ---
 

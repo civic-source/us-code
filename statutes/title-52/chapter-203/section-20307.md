@@ -3,9 +3,9 @@ title: "Section 20307 - Enforcement"
 usc_title: 52
 usc_section: "20307"
 chapter: 203
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "52 U.S.C. § 20307"
-generated_at: "2026-03-30T08:44:08.928Z"
+generated_at: "2026-03-30T08:46:19.276Z"
 status: "active"
 ---
 

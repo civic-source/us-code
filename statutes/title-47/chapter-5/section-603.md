@@ -3,9 +3,9 @@ title: "Section 603 - Repealed. Pub. L. 103–414, title III, § 304(a)(13) , Oc
 usc_title: 47
 usc_section: "603"
 chapter: 5
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "47 U.S.C. § 603"
-generated_at: "2026-03-30T08:44:03.170Z"
+generated_at: "2026-03-30T08:45:59.746Z"
 status: "repealed"
 ---
 

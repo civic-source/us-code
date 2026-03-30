@@ -3,9 +3,9 @@ title: "Section 16103 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "16103"
 chapter: 161
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 16103"
-generated_at: "2026-03-30T08:44:05.901Z"
+generated_at: "2026-03-30T08:46:03.443Z"
 status: "active"
 ---
 

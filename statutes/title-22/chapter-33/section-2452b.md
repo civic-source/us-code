@@ -3,9 +3,9 @@ title: "Section 2452b - International expositions"
 usc_title: 22
 usc_section: "2452b"
 chapter: 33
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 2452b"
-generated_at: "2026-03-30T08:43:07.994Z"
+generated_at: "2026-03-30T08:45:11.047Z"
 status: "active"
 ---
 

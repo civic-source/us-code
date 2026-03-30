@@ -3,9 +3,9 @@ title: "Section 7684 - Repealed. Pub. L. 107–135, title I, § 102(a)(1) , Jan.
 usc_title: 38
 usc_section: "7684"
 chapter: 76
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 7684"
-generated_at: "2026-03-30T08:43:32.352Z"
+generated_at: "2026-03-30T08:45:31.725Z"
 status: "repealed"
 ---
 

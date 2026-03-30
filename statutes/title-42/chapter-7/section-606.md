@@ -3,9 +3,9 @@ title: "Section 606 - Federal loans for State welfare programs"
 usc_title: 42
 usc_section: "606"
 chapter: 7
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 606"
-generated_at: "2026-03-30T08:43:59.539Z"
+generated_at: "2026-03-30T08:45:54.221Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1785 - Fossil Forest Research Natural Area"
 usc_title: 43
 usc_section: "1785"
 chapter: 35
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 1785"
-generated_at: "2026-03-30T08:43:38.451Z"
+generated_at: "2026-03-30T08:45:34.970Z"
 status: "active"
 ---
 

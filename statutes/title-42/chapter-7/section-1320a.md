@@ -3,9 +3,9 @@ title: "Section 1320a - Uniform reporting systems for health services facilities
 usc_title: 42
 usc_section: "1320a"
 chapter: 7
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 1320a"
-generated_at: "2026-03-30T08:43:59.563Z"
+generated_at: "2026-03-30T08:45:54.265Z"
 status: "active"
 ---
 

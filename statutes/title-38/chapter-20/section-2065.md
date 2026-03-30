@@ -3,9 +3,9 @@ title: "Section 2065 - Annual report on assistance to homeless veterans"
 usc_title: 38
 usc_section: "2065"
 chapter: 20
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 2065"
-generated_at: "2026-03-30T08:43:32.316Z"
+generated_at: "2026-03-30T08:45:31.682Z"
 status: "active"
 ---
 

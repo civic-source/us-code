@@ -3,9 +3,9 @@ title: "Section 2076 - Repealed. Pub. L. 100–702, title IV, § 401(c) , Nov. 1
 usc_title: 28
 usc_section: "2076"
 chapter: 131
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "28 U.S.C. § 2076"
-generated_at: "2026-03-30T08:43:13.228Z"
+generated_at: "2026-03-30T08:45:19.162Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2670 - Repealed. Pub. L. 97–98, title XIV, § 1444(b) , Dec. 2
 usc_title: 7
 usc_section: "2670"
 chapter: 59
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 2670"
-generated_at: "2026-03-30T08:41:29.001Z"
+generated_at: "2026-03-30T08:44:38.730Z"
 status: "repealed"
 ---
 

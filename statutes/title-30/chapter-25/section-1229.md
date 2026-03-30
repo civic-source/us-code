@@ -3,9 +3,9 @@ title: "Section 1229 - Committee on Mining and Mineral Resources Research"
 usc_title: 30
 usc_section: "1229"
 chapter: 25
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "30 U.S.C. § 1229"
-generated_at: "2026-03-30T08:43:19.125Z"
+generated_at: "2026-03-30T08:45:16.215Z"
 status: "active"
 ---
 

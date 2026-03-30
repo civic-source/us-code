@@ -3,9 +3,9 @@ title: "Section 220 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 8
 usc_section: "220"
 chapter: 6
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "8 U.S.C. § 220"
-generated_at: "2026-03-30T08:41:42.827Z"
+generated_at: "2026-03-30T08:44:45.003Z"
 status: "repealed"
 ---
 

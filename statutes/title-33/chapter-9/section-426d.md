@@ -3,9 +3,9 @@ title: "Section 426d - Payment of expenses"
 usc_title: 33
 usc_section: "426d"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "33 U.S.C. § 426d"
-generated_at: "2026-03-30T08:43:24.707Z"
+generated_at: "2026-03-30T08:45:27.670Z"
 status: "active"
 ---
 

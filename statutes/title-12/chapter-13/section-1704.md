@@ -3,9 +3,9 @@ title: "Section 1704 - Repealed. Apr. 3, 1936, ch. 165, § 2 , 49 Stat. 1188"
 usc_title: 12
 usc_section: "1704"
 chapter: 13
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 1704"
-generated_at: "2026-03-30T08:42:18.846Z"
+generated_at: "2026-03-30T08:44:50.628Z"
 status: "repealed"
 ---
 

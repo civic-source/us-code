@@ -3,9 +3,9 @@ title: "Section 911 - Guardian for minor or incompetent"
 usc_title: 33
 usc_section: "911"
 chapter: 18
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "33 U.S.C. § 911"
-generated_at: "2026-03-30T08:43:24.726Z"
+generated_at: "2026-03-30T08:45:27.689Z"
 status: "active"
 ---
 

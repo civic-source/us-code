@@ -3,9 +3,9 @@ title: "Section 367 - Foreign corporations"
 usc_title: 26
 usc_section: "367"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 367"
-generated_at: "2026-03-30T08:43:18.492Z"
+generated_at: "2026-03-30T08:45:23.386Z"
 status: "active"
 ---
 

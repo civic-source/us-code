@@ -3,9 +3,9 @@ title: "Section 30306 - National Driver Register Advisory Committee"
 usc_title: 49
 usc_section: "30306"
 chapter: 303
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 30306"
-generated_at: "2026-03-30T08:44:05.916Z"
+generated_at: "2026-03-30T08:46:03.464Z"
 status: "active"
 ---
 

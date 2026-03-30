@@ -3,9 +3,9 @@ title: "Section 3734 - Export-Import Bank initiatives"
 usc_title: 19
 usc_section: "3734"
 chapter: 23
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 3734"
-generated_at: "2026-03-30T08:42:22.698Z"
+generated_at: "2026-03-30T08:45:03.894Z"
 status: "active"
 ---
 

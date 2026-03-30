@@ -3,9 +3,9 @@ title: "Section 751 - Unrealized receivables and inventory items"
 usc_title: 26
 usc_section: "751"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 751"
-generated_at: "2026-03-30T08:43:18.537Z"
+generated_at: "2026-03-30T08:45:23.432Z"
 status: "active"
 ---
 

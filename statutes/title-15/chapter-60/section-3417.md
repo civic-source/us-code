@@ -3,9 +3,9 @@ title: "Section 3417 - Repealed. Pub. L. 101–60, § 3(a)(6) , July 26, 1989 , 
 usc_title: 15
 usc_section: "3417"
 chapter: 60
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "15 U.S.C. § 3417"
-generated_at: "2026-03-30T08:41:59.361Z"
+generated_at: "2026-03-30T08:44:52.708Z"
 status: "repealed"
 ---
 

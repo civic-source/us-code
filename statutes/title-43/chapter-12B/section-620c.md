@@ -3,9 +3,9 @@ title: "Section 620c - Laws governing; irrigation repayment contracts; time for 
 usc_title: 43
 usc_section: "620c"
 chapter: 12
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 620c"
-generated_at: "2026-03-30T08:43:38.419Z"
+generated_at: "2026-03-30T08:45:34.937Z"
 status: "active"
 ---
 

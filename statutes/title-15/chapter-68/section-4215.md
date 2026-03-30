@@ -3,9 +3,9 @@ title: "Section 4215 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4215"
 chapter: 68
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "15 U.S.C. § 4215"
-generated_at: "2026-03-30T08:41:59.367Z"
+generated_at: "2026-03-30T08:44:52.716Z"
 status: "repealed"
 ---
 

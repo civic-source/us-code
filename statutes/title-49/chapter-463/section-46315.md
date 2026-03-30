@@ -3,9 +3,9 @@ title: "Section 46315 - Lighting violations involving transporting controlled su
 usc_title: 49
 usc_section: "46315"
 chapter: 463
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 46315"
-generated_at: "2026-03-30T08:44:05.949Z"
+generated_at: "2026-03-30T08:46:03.510Z"
 status: "active"
 ---
 

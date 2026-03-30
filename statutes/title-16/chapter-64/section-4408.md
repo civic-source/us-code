@@ -3,9 +3,9 @@ title: "Section 4408 - Restoration, management, and protection of wetlands and h
 usc_title: 16
 usc_section: "4408"
 chapter: 64
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 4408"
-generated_at: "2026-03-30T08:42:34.871Z"
+generated_at: "2026-03-30T08:45:01.898Z"
 status: "active"
 ---
 

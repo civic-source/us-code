@@ -3,9 +3,9 @@ title: "Section 1427 - Omitted"
 usc_title: 43
 usc_section: "1427"
 chapter: 30
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 1427"
-generated_at: "2026-03-30T08:43:38.433Z"
+generated_at: "2026-03-30T08:45:34.951Z"
 status: "omitted"
 ---
 

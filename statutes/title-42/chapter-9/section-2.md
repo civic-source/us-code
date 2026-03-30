@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 97–214, § 7(5) , July 12, 1982 , 96 Sta
 usc_title: 42
 usc_section: "2"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T08:43:59.710Z"
+generated_at: "2026-03-30T08:45:54.523Z"
 status: "repealed"
 ---
 

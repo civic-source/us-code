@@ -3,9 +3,9 @@ title: "Section 2433 - Representatives"
 usc_title: 16
 usc_section: "2433"
 chapter: 44
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 2433"
-generated_at: "2026-03-30T08:42:34.844Z"
+generated_at: "2026-03-30T08:45:01.873Z"
 status: "active"
 ---
 

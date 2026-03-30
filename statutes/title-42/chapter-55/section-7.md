@@ -3,9 +3,9 @@ title: "Section 7 - Reports"
 usc_title: 42
 usc_section: "7"
 chapter: 55
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T08:43:59.790Z"
+generated_at: "2026-03-30T08:45:54.664Z"
 status: "active"
 ---
 

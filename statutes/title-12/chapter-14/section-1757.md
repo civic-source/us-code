@@ -3,9 +3,9 @@ title: "Section 1757 - Powers"
 usc_title: 12
 usc_section: "1757"
 chapter: 14
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 1757"
-generated_at: "2026-03-30T08:42:18.868Z"
+generated_at: "2026-03-30T08:44:50.649Z"
 status: "active"
 ---
 

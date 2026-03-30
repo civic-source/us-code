@@ -3,9 +3,9 @@ title: "Section 45c - Prior claims, locations, and entries; permits for use of n
 usc_title: 16
 usc_section: "45c"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 45c"
-generated_at: "2026-03-30T08:42:34.650Z"
+generated_at: "2026-03-30T08:45:01.694Z"
 status: "active"
 ---
 

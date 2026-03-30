@@ -3,9 +3,9 @@ title: "Section 4105 - Cooperation of Federal agencies"
 usc_title: 38
 usc_section: "4105"
 chapter: 41
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 4105"
-generated_at: "2026-03-30T08:43:32.334Z"
+generated_at: "2026-03-30T08:45:31.703Z"
 status: "active"
 ---
 

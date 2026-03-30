@@ -3,9 +3,9 @@ title: "Section 3705 - Application to Office of the Chief Technology Officer of 
 usc_title: 5
 usc_section: "3705"
 chapter: 37
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "5 U.S.C. § 3705"
-generated_at: "2026-03-30T08:41:19.394Z"
+generated_at: "2026-03-30T08:44:22.271Z"
 status: "active"
 ---
 

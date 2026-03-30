@@ -3,9 +3,9 @@ title: "Section 15093 - Grants to States"
 usc_title: 42
 usc_section: "15093"
 chapter: 144
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 15093"
-generated_at: "2026-03-30T08:43:59.994Z"
+generated_at: "2026-03-30T08:45:55.011Z"
 status: "active"
 ---
 

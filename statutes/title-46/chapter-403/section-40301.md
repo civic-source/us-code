@@ -3,9 +3,9 @@ title: "Section 40301 - Application"
 usc_title: 46
 usc_section: "40301"
 chapter: 403
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "46 U.S.C. § 40301"
-generated_at: "2026-03-30T08:44:03.947Z"
+generated_at: "2026-03-30T08:46:10.879Z"
 status: "active"
 ---
 

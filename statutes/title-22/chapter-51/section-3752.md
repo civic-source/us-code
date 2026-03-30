@@ -3,9 +3,9 @@ title: "Section 3752 - Transactions with Republic of Panama"
 usc_title: 22
 usc_section: "3752"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 3752"
-generated_at: "2026-03-30T08:43:08.017Z"
+generated_at: "2026-03-30T08:45:11.070Z"
 status: "active"
 ---
 

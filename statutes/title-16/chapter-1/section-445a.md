@@ -3,9 +3,9 @@ title: "Section 445a - Rights and privileges of Navajo Indians in canyons"
 usc_title: 16
 usc_section: "445a"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 445a"
-generated_at: "2026-03-30T08:42:34.706Z"
+generated_at: "2026-03-30T08:45:01.740Z"
 status: "active"
 ---
 

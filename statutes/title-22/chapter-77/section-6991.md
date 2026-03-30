@@ -3,9 +3,9 @@ title: "Section 6991 - Accession of Taiwan to the WTO"
 usc_title: 22
 usc_section: "6991"
 chapter: 77
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 6991"
-generated_at: "2026-03-30T08:43:08.051Z"
+generated_at: "2026-03-30T08:45:11.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101 - Payment for wagon transportation"
 usc_title: 25
 usc_section: "101"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "25 U.S.C. § 101"
-generated_at: "2026-03-30T08:43:02.995Z"
+generated_at: "2026-03-30T08:45:12.503Z"
 status: "active"
 ---
 

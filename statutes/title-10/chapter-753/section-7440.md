@@ -3,9 +3,9 @@ title: "Section 7440 - Quartermaster"
 usc_title: 10
 usc_section: "7440"
 chapter: 753
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 7440"
-generated_at: "2026-03-30T08:41:52.159Z"
+generated_at: "2026-03-30T08:44:42.109Z"
 status: "active"
 ---
 

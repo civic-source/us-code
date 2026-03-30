@@ -3,9 +3,9 @@ title: "Section 13304 - Service of process in court proceedings"
 usc_title: 49
 usc_section: "13304"
 chapter: 133
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 13304"
-generated_at: "2026-03-30T08:44:05.894Z"
+generated_at: "2026-03-30T08:46:03.434Z"
 status: "active"
 ---
 

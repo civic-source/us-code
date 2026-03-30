@@ -3,9 +3,9 @@ title: "Section 1772 - Territorial application of chapter"
 usc_title: 12
 usc_section: "1772"
 chapter: 14
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 1772"
-generated_at: "2026-03-30T08:42:18.870Z"
+generated_at: "2026-03-30T08:44:50.651Z"
 status: "active"
 ---
 

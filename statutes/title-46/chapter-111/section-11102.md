@@ -3,9 +3,9 @@ title: "Section 11102 - Medicine chests"
 usc_title: 46
 usc_section: "11102"
 chapter: 111
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "46 U.S.C. § 11102"
-generated_at: "2026-03-30T08:44:03.939Z"
+generated_at: "2026-03-30T08:46:10.872Z"
 status: "active"
 ---
 

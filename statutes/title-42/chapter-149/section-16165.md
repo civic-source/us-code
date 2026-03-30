@@ -3,9 +3,9 @@ title: "Section 16165 - Savings clause"
 usc_title: 42
 usc_section: "16165"
 chapter: 149
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 16165"
-generated_at: "2026-03-30T08:44:00.004Z"
+generated_at: "2026-03-30T08:45:55.029Z"
 status: "active"
 ---
 

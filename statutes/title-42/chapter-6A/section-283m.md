@@ -3,9 +3,9 @@ title: "Section 283m - Sanctuary system for surplus chimpanzees"
 usc_title: 42
 usc_section: "283m"
 chapter: 6
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 283m"
-generated_at: "2026-03-30T08:43:59.438Z"
+generated_at: "2026-03-30T08:45:54.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2707 - Omitted"
 usc_title: 42
 usc_section: "2707"
 chapter: 34
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 2707"
-generated_at: "2026-03-30T08:43:59.759Z"
+generated_at: "2026-03-30T08:45:54.609Z"
 status: "omitted"
 ---
 

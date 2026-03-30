@@ -3,9 +3,9 @@ title: "Section 1862 - Functions"
 usc_title: 42
 usc_section: "1862"
 chapter: 16
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 1862"
-generated_at: "2026-03-30T08:43:59.723Z"
+generated_at: "2026-03-30T08:45:54.547Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8013 - Supportive housing for persons with disabilities"
 usc_title: 42
 usc_section: "8013"
 chapter: 89
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 8013"
-generated_at: "2026-03-30T08:43:59.892Z"
+generated_at: "2026-03-30T08:45:54.839Z"
 status: "active"
 ---
 

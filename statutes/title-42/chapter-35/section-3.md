@@ -3,9 +3,9 @@ title: "Section 3 - Waivers"
 usc_title: 42
 usc_section: "3"
 chapter: 35
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T08:43:59.766Z"
+generated_at: "2026-03-30T08:45:54.622Z"
 status: "active"
 ---
 

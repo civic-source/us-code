@@ -3,9 +3,9 @@ title: "Section 1407 - Multidistrict litigation"
 usc_title: 28
 usc_section: "1407"
 chapter: 87
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "28 U.S.C. § 1407"
-generated_at: "2026-03-30T08:43:13.221Z"
+generated_at: "2026-03-30T08:45:19.156Z"
 status: "active"
 ---
 

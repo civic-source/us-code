@@ -3,9 +3,9 @@ title: "Section 809 - Repealed. Pub. L. 108–218, title II, § 205(a) , Apr. 10
 usc_title: 26
 usc_section: "809"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 809"
-generated_at: "2026-03-30T08:43:18.538Z"
+generated_at: "2026-03-30T08:45:23.433Z"
 status: "repealed"
 ---
 

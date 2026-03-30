@@ -3,9 +3,9 @@ title: "Section 910 - Enforcement of exclusive rights"
 usc_title: 17
 usc_section: "910"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "17 U.S.C. § 910"
-generated_at: "2026-03-30T08:42:27.830Z"
+generated_at: "2026-03-30T08:44:59.095Z"
 status: "active"
 ---
 

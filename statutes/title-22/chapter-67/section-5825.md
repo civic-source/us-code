@@ -3,9 +3,9 @@ title: "Section 5825 - Repealed. Pub. L. 104–66, title I, § 1021(e) , Dec. 21
 usc_title: 22
 usc_section: "5825"
 chapter: 67
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 5825"
-generated_at: "2026-03-30T08:43:08.037Z"
+generated_at: "2026-03-30T08:45:11.093Z"
 status: "repealed"
 ---
 

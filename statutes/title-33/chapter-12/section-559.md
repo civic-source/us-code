@@ -3,9 +3,9 @@ title: "Section 559 - Disposition of rentals for Government plants"
 usc_title: 33
 usc_section: "559"
 chapter: 12
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "33 U.S.C. § 559"
-generated_at: "2026-03-30T08:43:24.712Z"
+generated_at: "2026-03-30T08:45:27.676Z"
 status: "active"
 ---
 

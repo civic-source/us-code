@@ -3,9 +3,9 @@ title: "Section 267 - Permanent Commission of International Geodetic Association
 usc_title: 22
 usc_section: "267"
 chapter: 7
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 267"
-generated_at: "2026-03-30T08:43:07.943Z"
+generated_at: "2026-03-30T08:45:10.993Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7233 - Term of loans"
 usc_title: 7
 usc_section: "7233"
 chapter: 100
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 7233"
-generated_at: "2026-03-30T08:41:29.042Z"
+generated_at: "2026-03-30T08:44:38.770Z"
 status: "active"
 ---
 

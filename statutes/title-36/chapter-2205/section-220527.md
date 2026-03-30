@@ -3,9 +3,9 @@ title: "Section 220527 - Complaints against national governing bodies"
 usc_title: 36
 usc_section: "220527"
 chapter: 2205
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "36 U.S.C. § 220527"
-generated_at: "2026-03-30T08:43:28.614Z"
+generated_at: "2026-03-30T08:45:30.372Z"
 status: "active"
 ---
 

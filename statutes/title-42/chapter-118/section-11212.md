@@ -3,9 +3,9 @@ title: "Section 11212 - Repealed. Pub. L. 105–362, title VI, § 601(a)(2)(E) ,
 usc_title: 42
 usc_section: "11212"
 chapter: 118
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 11212"
-generated_at: "2026-03-30T08:43:59.944Z"
+generated_at: "2026-03-30T08:45:54.927Z"
 status: "repealed"
 ---
 

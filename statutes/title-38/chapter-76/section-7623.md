@@ -3,9 +3,9 @@ title: "Section 7623 - Obligated service"
 usc_title: 38
 usc_section: "7623"
 chapter: 76
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 7623"
-generated_at: "2026-03-30T08:43:32.352Z"
+generated_at: "2026-03-30T08:45:31.724Z"
 status: "active"
 ---
 

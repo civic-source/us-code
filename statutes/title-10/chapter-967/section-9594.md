@@ -3,9 +3,9 @@ title: "Section 9594 - Air Force Military History Institute: fee for providing h
 usc_title: 10
 usc_section: "9594"
 chapter: 967
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 9594"
-generated_at: "2026-03-30T08:41:52.179Z"
+generated_at: "2026-03-30T08:44:42.128Z"
 status: "active"
 ---
 

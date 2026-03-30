@@ -3,9 +3,9 @@ title: "Section 3837f - Repealed. Pub. L. 113–79, title II, § 2703(a) , Feb. 
 usc_title: 16
 usc_section: "3837f"
 chapter: 58
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 3837f"
-generated_at: "2026-03-30T08:42:34.860Z"
+generated_at: "2026-03-30T08:45:01.889Z"
 status: "repealed"
 ---
 

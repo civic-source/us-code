@@ -3,9 +3,9 @@ title: "Section 415a - Omitted"
 usc_title: 7
 usc_section: "415a"
 chapter: 17
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 415a"
-generated_at: "2026-03-30T08:41:28.921Z"
+generated_at: "2026-03-30T08:44:38.649Z"
 status: "omitted"
 ---
 

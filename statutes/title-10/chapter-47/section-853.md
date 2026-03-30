@@ -3,9 +3,9 @@ title: "Section 853 - Art. 53. Findings and sentencing"
 usc_title: 10
 usc_section: "853"
 chapter: 47
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 853"
-generated_at: "2026-03-30T08:41:52.068Z"
+generated_at: "2026-03-30T08:44:42.020Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1617 - Compromise of Government claims by Secretary of the Treas
 usc_title: 19
 usc_section: "1617"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 1617"
-generated_at: "2026-03-30T08:42:22.654Z"
+generated_at: "2026-03-30T08:45:03.849Z"
 status: "active"
 ---
 

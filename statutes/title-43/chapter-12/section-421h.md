@@ -3,9 +3,9 @@ title: "Section 421h - Procedural and substantive requirements applicable to wor
 usc_title: 43
 usc_section: "421h"
 chapter: 12
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 421h"
-generated_at: "2026-03-30T08:43:38.409Z"
+generated_at: "2026-03-30T08:45:34.928Z"
 status: "active"
 ---
 

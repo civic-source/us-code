@@ -3,9 +3,9 @@ title: "Section 594 - Exemption of minimum quantities"
 usc_title: 7
 usc_section: "594"
 chapter: 25
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 594"
-generated_at: "2026-03-30T08:41:28.926Z"
+generated_at: "2026-03-30T08:44:38.654Z"
 status: "active"
 ---
 

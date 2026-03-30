@@ -3,9 +3,9 @@ title: "Section 429b - Manassas National Battlefield Park"
 usc_title: 16
 usc_section: "429b"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 429b"
-generated_at: "2026-03-30T08:42:34.701Z"
+generated_at: "2026-03-30T08:45:01.736Z"
 status: "active"
 ---
 

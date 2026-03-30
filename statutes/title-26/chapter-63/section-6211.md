@@ -3,9 +3,9 @@ title: "Section 6211 - Definition of a deficiency"
 usc_title: 26
 usc_section: "6211"
 chapter: 63
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 6211"
-generated_at: "2026-03-30T08:43:18.635Z"
+generated_at: "2026-03-30T08:45:23.531Z"
 status: "active"
 ---
 

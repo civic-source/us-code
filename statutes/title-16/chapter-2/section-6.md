@@ -3,9 +3,9 @@ title: "Section 6 - Jurisdiction over the Area"
 usc_title: 16
 usc_section: "6"
 chapter: 2
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T08:42:34.749Z"
+generated_at: "2026-03-30T08:45:01.783Z"
 status: "active"
 ---
 

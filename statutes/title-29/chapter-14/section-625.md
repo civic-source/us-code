@@ -3,9 +3,9 @@ title: "Section 625 - Administration"
 usc_title: 29
 usc_section: "625"
 chapter: 14
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "29 U.S.C. § 625"
-generated_at: "2026-03-30T08:43:11.951Z"
+generated_at: "2026-03-30T08:45:17.031Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47175 - Definitions"
 usc_title: 49
 usc_section: "47175"
 chapter: 471
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 47175"
-generated_at: "2026-03-30T08:44:05.956Z"
+generated_at: "2026-03-30T08:46:03.519Z"
 status: "active"
 ---
 

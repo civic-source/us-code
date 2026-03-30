@@ -3,9 +3,9 @@ title: "Section 6621 - Reservations"
 usc_title: 20
 usc_section: "6621"
 chapter: 70
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "20 U.S.C. § 6621"
-generated_at: "2026-03-30T08:42:24.699Z"
+generated_at: "2026-03-30T08:45:05.690Z"
 status: "active"
 ---
 

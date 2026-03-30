@@ -3,9 +3,9 @@ title: "Section 2075 - Short- and intermediate-term loans; participation; other 
 usc_title: 12
 usc_section: "2075"
 chapter: 23
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 2075"
-generated_at: "2026-03-30T08:42:18.902Z"
+generated_at: "2026-03-30T08:44:50.683Z"
 status: "active"
 ---
 

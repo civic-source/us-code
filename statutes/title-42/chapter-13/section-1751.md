@@ -3,9 +3,9 @@ title: "Section 1751 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "1751"
 chapter: 13
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 1751"
-generated_at: "2026-03-30T08:43:59.711Z"
+generated_at: "2026-03-30T08:45:54.525Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4505 - Certification of organizations"
 usc_title: 7
 usc_section: "4505"
 chapter: 76
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 4505"
-generated_at: "2026-03-30T08:41:29.014Z"
+generated_at: "2026-03-30T08:44:38.742Z"
 status: "active"
 ---
 

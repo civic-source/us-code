@@ -3,9 +3,9 @@ title: "Section 8222 - Regulation of reinsurer solvency"
 usc_title: 15
 usc_section: "8222"
 chapter: 108
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "15 U.S.C. § 8222"
-generated_at: "2026-03-30T08:41:59.392Z"
+generated_at: "2026-03-30T08:44:52.742Z"
 status: "active"
 ---
 

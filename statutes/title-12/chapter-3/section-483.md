@@ -3,9 +3,9 @@ title: "Section 483 - Special examination of member banks; information of condit
 usc_title: 12
 usc_section: "483"
 chapter: 3
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 483"
-generated_at: "2026-03-30T08:42:18.821Z"
+generated_at: "2026-03-30T08:44:50.604Z"
 status: "active"
 ---
 

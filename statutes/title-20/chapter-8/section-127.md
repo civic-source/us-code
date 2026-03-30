@@ -3,9 +3,9 @@ title: "Section 127 - Transfer of facilities by University or cessation of opera
 usc_title: 20
 usc_section: "127"
 chapter: 8
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "20 U.S.C. § 127"
-generated_at: "2026-03-30T08:42:24.598Z"
+generated_at: "2026-03-30T08:45:05.587Z"
 status: "active"
 ---
 

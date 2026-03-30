@@ -3,9 +3,9 @@ title: "Section 2343 - Venue"
 usc_title: 28
 usc_section: "2343"
 chapter: 158
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "28 U.S.C. § 2343"
-generated_at: "2026-03-30T08:43:13.229Z"
+generated_at: "2026-03-30T08:45:19.164Z"
 status: "active"
 ---
 

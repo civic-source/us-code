@@ -3,9 +3,9 @@ title: "Section 4200 - Certification of invoices generally"
 usc_title: 22
 usc_section: "4200"
 chapter: 52
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 4200"
-generated_at: "2026-03-30T08:43:08.028Z"
+generated_at: "2026-03-30T08:45:11.082Z"
 status: "active"
 ---
 

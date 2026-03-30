@@ -3,9 +3,9 @@ title: "Section 5204 - National Institute of Standards and Technology"
 usc_title: 15
 usc_section: "5204"
 chapter: 78
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "15 U.S.C. § 5204"
-generated_at: "2026-03-30T08:41:59.372Z"
+generated_at: "2026-03-30T08:44:52.721Z"
 status: "active"
 ---
 

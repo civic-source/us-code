@@ -3,9 +3,9 @@ title: "Section 3318 - Additional assistance: relocation or travel assistance fo
 usc_title: 38
 usc_section: "3318"
 chapter: 33
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 3318"
-generated_at: "2026-03-30T08:43:32.324Z"
+generated_at: "2026-03-30T08:45:31.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Guidance document regarding product promotion using the Inte
 usc_title: 21
 usc_section: "5"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "21 U.S.C. § 5"
-generated_at: "2026-03-30T08:42:47.688Z"
+generated_at: "2026-03-30T08:45:13.412Z"
 status: "active"
 ---
 

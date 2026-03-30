@@ -3,9 +3,9 @@ title: "Section 8861 - Interrogation of witnesses by prize commissioners"
 usc_title: 10
 usc_section: "8861"
 chapter: 883
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 8861"
-generated_at: "2026-03-30T08:41:52.172Z"
+generated_at: "2026-03-30T08:44:42.122Z"
 status: "active"
 ---
 

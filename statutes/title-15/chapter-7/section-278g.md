@@ -3,9 +3,9 @@ title: "Section 278g - International activities"
 usc_title: 15
 usc_section: "278g"
 chapter: 7
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "15 U.S.C. § 278g"
-generated_at: "2026-03-30T08:41:59.210Z"
+generated_at: "2026-03-30T08:44:52.601Z"
 status: "active"
 ---
 

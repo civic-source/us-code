@@ -3,9 +3,9 @@ title: "Section 801 - Establishment, etc., of Congressional Award Board"
 usc_title: 2
 usc_section: "801"
 chapter: 19
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "2 U.S.C. § 801"
-generated_at: "2026-03-30T08:41:17.143Z"
+generated_at: "2026-03-30T08:44:31.472Z"
 status: "active"
 ---
 

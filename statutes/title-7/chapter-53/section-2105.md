@@ -3,9 +3,9 @@ title: "Section 2105 - Permissive terms and conditions in orders"
 usc_title: 7
 usc_section: "2105"
 chapter: 53
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 2105"
-generated_at: "2026-03-30T08:41:28.991Z"
+generated_at: "2026-03-30T08:44:38.719Z"
 status: "active"
 ---
 

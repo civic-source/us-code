@@ -3,9 +3,9 @@ title: "Section 5111 - Confidentiality of information"
 usc_title: 12
 usc_section: "5111"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 5111"
-generated_at: "2026-03-30T08:42:18.945Z"
+generated_at: "2026-03-30T08:44:50.726Z"
 status: "active"
 ---
 

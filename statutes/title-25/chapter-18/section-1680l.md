@@ -3,9 +3,9 @@ title: "Section 1680l - Shared services for long-term care"
 usc_title: 25
 usc_section: "1680l"
 chapter: 18
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "25 U.S.C. § 1680l"
-generated_at: "2026-03-30T08:43:03.022Z"
+generated_at: "2026-03-30T08:45:12.532Z"
 status: "active"
 ---
 

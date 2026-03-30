@@ -3,9 +3,9 @@ title: "Section 16167 - Sunset"
 usc_title: 10
 usc_section: "16167"
 chapter: 1607
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 16167"
-generated_at: "2026-03-30T08:41:52.192Z"
+generated_at: "2026-03-30T08:44:42.141Z"
 status: "active"
 ---
 

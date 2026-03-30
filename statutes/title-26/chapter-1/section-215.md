@@ -3,9 +3,9 @@ title: "Section 215 - Repealed. Pub. L. 115–97, title I, § 11051(a) , Dec. 22
 usc_title: 26
 usc_section: "215"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 215"
-generated_at: "2026-03-30T08:43:18.480Z"
+generated_at: "2026-03-30T08:45:23.374Z"
 status: "repealed"
 ---
 

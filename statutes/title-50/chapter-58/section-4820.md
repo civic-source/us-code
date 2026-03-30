@@ -3,9 +3,9 @@ title: "Section 4820 - Enforcement"
 usc_title: 50
 usc_section: "4820"
 chapter: 58
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "50 U.S.C. § 4820"
-generated_at: "2026-03-30T08:44:07.029Z"
+generated_at: "2026-03-30T08:46:17.091Z"
 status: "active"
 ---
 

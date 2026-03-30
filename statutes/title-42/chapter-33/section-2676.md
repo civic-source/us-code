@@ -3,9 +3,9 @@ title: "Section 2676 - Repealed. Pub. L. 94–103, title I, § 112 , Oct. 4, 197
 usc_title: 42
 usc_section: "2676"
 chapter: 33
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 2676"
-generated_at: "2026-03-30T08:43:59.759Z"
+generated_at: "2026-03-30T08:45:54.609Z"
 status: "repealed"
 ---
 

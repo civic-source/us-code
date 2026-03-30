@@ -3,9 +3,9 @@ title: "Section 8858 - Duties of prize master"
 usc_title: 10
 usc_section: "8858"
 chapter: 883
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 8858"
-generated_at: "2026-03-30T08:41:52.172Z"
+generated_at: "2026-03-30T08:44:42.122Z"
 status: "active"
 ---
 

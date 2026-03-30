@@ -3,9 +3,9 @@ title: "Section 3173 - Within State allocations"
 usc_title: 29
 usc_section: "3173"
 chapter: 32
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "29 U.S.C. § 3173"
-generated_at: "2026-03-30T08:43:12.004Z"
+generated_at: "2026-03-30T08:45:17.086Z"
 status: "active"
 ---
 

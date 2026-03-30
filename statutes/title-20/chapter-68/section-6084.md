@@ -3,9 +3,9 @@ title: "Section 6084 - Preemption"
 usc_title: 20
 usc_section: "6084"
 chapter: 68
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "20 U.S.C. § 6084"
-generated_at: "2026-03-30T08:42:24.690Z"
+generated_at: "2026-03-30T08:45:05.680Z"
 status: "active"
 ---
 

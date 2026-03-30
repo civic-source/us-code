@@ -3,9 +3,9 @@ title: "Section 3123 - Periodic reports"
 usc_title: 16
 usc_section: "3123"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 3123"
-generated_at: "2026-03-30T08:42:34.849Z"
+generated_at: "2026-03-30T08:45:01.877Z"
 status: "active"
 ---
 

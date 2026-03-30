@@ -3,9 +3,9 @@ title: "Section 2810 - Savings provision"
 usc_title: 43
 usc_section: "2810"
 chapter: 46
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 2810"
-generated_at: "2026-03-30T08:43:38.457Z"
+generated_at: "2026-03-30T08:45:34.977Z"
 status: "active"
 ---
 

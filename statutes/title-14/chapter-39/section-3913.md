@@ -3,9 +3,9 @@ title: "Section 3913 - Injury or death in line of duty"
 usc_title: 14
 usc_section: "3913"
 chapter: 39
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "14 U.S.C. § 3913"
-generated_at: "2026-03-30T08:41:54.417Z"
+generated_at: "2026-03-30T08:44:52.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9482 - Operation"
 usc_title: 10
 usc_section: "9482"
 chapter: 957
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 9482"
-generated_at: "2026-03-30T08:41:52.178Z"
+generated_at: "2026-03-30T08:44:42.127Z"
 status: "active"
 ---
 

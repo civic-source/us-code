@@ -3,9 +3,9 @@ title: "Section 6 - Separability"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T08:43:59.737Z"
+generated_at: "2026-03-30T08:45:54.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 119a - Repealed. Pub. L. 90–620, § 3 , Oct. 22, 1968 , 82 Sta
 usc_title: 2
 usc_section: "119a"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "2 U.S.C. § 119a"
-generated_at: "2026-03-30T08:41:17.129Z"
+generated_at: "2026-03-30T08:44:31.459Z"
 status: "repealed"
 ---
 

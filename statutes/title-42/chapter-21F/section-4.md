@@ -3,9 +3,9 @@ title: "Section 4 - Training programs"
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T08:43:59.740Z"
+generated_at: "2026-03-30T08:45:54.575Z"
 status: "active"
 ---
 

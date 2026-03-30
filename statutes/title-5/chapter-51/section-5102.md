@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions; application"
 usc_title: 5
 usc_section: "5102"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "5 U.S.C. § 5102"
-generated_at: "2026-03-30T08:41:19.396Z"
+generated_at: "2026-03-30T08:44:22.272Z"
 status: "active"
 ---
 

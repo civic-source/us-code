@@ -3,9 +3,9 @@ title: "Section 483 - Repealed. Pub. L. 113–66, div. A, title X, § 1084(a)(1)
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-30T08:41:52.056Z"
+generated_at: "2026-03-30T08:44:42.007Z"
 status: "repealed"
 ---
 

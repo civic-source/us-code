@@ -3,9 +3,9 @@ title: "Section 510 - Enlistment incentives for pursuit of skills to facilitate 
 usc_title: 10
 usc_section: "510"
 chapter: 31
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 510"
-generated_at: "2026-03-30T08:41:52.058Z"
+generated_at: "2026-03-30T08:44:42.009Z"
 status: "active"
 ---
 

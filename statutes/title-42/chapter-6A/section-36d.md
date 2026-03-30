@@ -3,9 +3,9 @@ title: "Section 36d - Treatment Referral Routing Service"
 usc_title: 42
 usc_section: "36d"
 chapter: 6
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 36d"
-generated_at: "2026-03-30T08:43:59.456Z"
+generated_at: "2026-03-30T08:45:54.078Z"
 status: "active"
 ---
 

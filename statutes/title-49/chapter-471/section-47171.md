@@ -3,9 +3,9 @@ title: "Section 47171 - Expedited, coordinated environmental review process"
 usc_title: 49
 usc_section: "47171"
 chapter: 471
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 47171"
-generated_at: "2026-03-30T08:44:05.956Z"
+generated_at: "2026-03-30T08:46:03.519Z"
 status: "active"
 ---
 

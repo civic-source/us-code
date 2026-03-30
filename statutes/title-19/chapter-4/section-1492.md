@@ -3,9 +3,9 @@ title: "Section 1492 - Destruction of abandoned or forfeited merchandise"
 usc_title: 19
 usc_section: "1492"
 chapter: 4
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 1492"
-generated_at: "2026-03-30T08:42:22.646Z"
+generated_at: "2026-03-30T08:45:03.842Z"
 status: "active"
 ---
 

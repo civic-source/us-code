@@ -3,9 +3,9 @@ title: "Section 1447 - Hearings on denials of applications for naturalization"
 usc_title: 8
 usc_section: "1447"
 chapter: 12
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "8 U.S.C. § 1447"
-generated_at: "2026-03-30T08:41:42.857Z"
+generated_at: "2026-03-30T08:44:45.034Z"
 status: "active"
 ---
 

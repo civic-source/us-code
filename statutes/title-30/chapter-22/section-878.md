@@ -3,9 +3,9 @@ title: "Section 878 - Definitions"
 usc_title: 30
 usc_section: "878"
 chapter: 22
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "30 U.S.C. § 878"
-generated_at: "2026-03-30T08:43:19.119Z"
+generated_at: "2026-03-30T08:45:16.208Z"
 status: "active"
 ---
 

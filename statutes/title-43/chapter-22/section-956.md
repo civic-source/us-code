@@ -3,9 +3,9 @@ title: "Section 956 - Right of way for tramroads, canals, or reservoirs"
 usc_title: 43
 usc_section: "956"
 chapter: 22
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "43 U.S.C. § 956"
-generated_at: "2026-03-30T08:43:38.426Z"
+generated_at: "2026-03-30T08:45:34.944Z"
 status: "active"
 ---
 

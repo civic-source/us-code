@@ -3,9 +3,9 @@ title: "Section 161 - Effect of partial invalidity of chapter"
 usc_title: 45
 usc_section: "161"
 chapter: 8
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "45 U.S.C. § 161"
-generated_at: "2026-03-30T08:43:37.698Z"
+generated_at: "2026-03-30T08:45:35.500Z"
 status: "active"
 ---
 

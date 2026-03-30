@@ -3,9 +3,9 @@ title: "Section 5303 - End-of-the-month salary payment schedule inapplicable to 
 usc_title: 2
 usc_section: "5303"
 chapter: 53
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "2 U.S.C. § 5303"
-generated_at: "2026-03-30T08:41:17.169Z"
+generated_at: "2026-03-30T08:44:31.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 455 - General penalty provision"
 usc_title: 22
 usc_section: "455"
 chapter: 9
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 455"
-generated_at: "2026-03-30T08:43:07.959Z"
+generated_at: "2026-03-30T08:45:11.009Z"
 status: "active"
 ---
 

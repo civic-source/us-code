@@ -3,9 +3,9 @@ title: "Section 5705 - Confidentiality of medical quality-assurance records"
 usc_title: 38
 usc_section: "5705"
 chapter: 57
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 5705"
-generated_at: "2026-03-30T08:43:32.340Z"
+generated_at: "2026-03-30T08:45:31.711Z"
 status: "active"
 ---
 

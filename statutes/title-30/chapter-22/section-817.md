@@ -3,9 +3,9 @@ title: "Section 817 - Procedures to counteract dangerous conditions"
 usc_title: 30
 usc_section: "817"
 chapter: 22
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "30 U.S.C. § 817"
-generated_at: "2026-03-30T08:43:19.116Z"
+generated_at: "2026-03-30T08:45:16.205Z"
 status: "active"
 ---
 

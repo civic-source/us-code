@@ -3,9 +3,9 @@ title: "Section 1426a - Exclusion from certain requirements"
 usc_title: 12
 usc_section: "1426a"
 chapter: 11
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 1426a"
-generated_at: "2026-03-30T08:42:18.828Z"
+generated_at: "2026-03-30T08:44:50.610Z"
 status: "active"
 ---
 

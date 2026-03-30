@@ -3,9 +3,9 @@ title: "Section 8322 - Permanent exemptions"
 usc_title: 42
 usc_section: "8322"
 chapter: 92
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 8322"
-generated_at: "2026-03-30T08:43:59.898Z"
+generated_at: "2026-03-30T08:45:54.849Z"
 status: "active"
 ---
 

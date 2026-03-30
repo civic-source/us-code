@@ -3,9 +3,9 @@ title: "Section 7240 - Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(D)
 usc_title: 26
 usc_section: "7240"
 chapter: 75
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 7240"
-generated_at: "2026-03-30T08:43:18.653Z"
+generated_at: "2026-03-30T08:45:23.548Z"
 status: "repealed"
 ---
 

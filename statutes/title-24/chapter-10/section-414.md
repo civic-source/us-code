@@ -3,9 +3,9 @@ title: "Section 414 - Fees paid by residents"
 usc_title: 24
 usc_section: "414"
 chapter: 10
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "24 U.S.C. § 414"
-generated_at: "2026-03-30T08:42:46.154Z"
+generated_at: "2026-03-30T08:45:07.609Z"
 status: "active"
 ---
 

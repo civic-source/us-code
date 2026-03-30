@@ -3,9 +3,9 @@ title: "Section 14 - Process for adoption of endorsed recommendations; adoption 
 usc_title: 42
 usc_section: "14"
 chapter: 6
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T08:43:59.517Z"
+generated_at: "2026-03-30T08:45:54.186Z"
 status: "active"
 ---
 

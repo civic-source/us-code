@@ -3,9 +3,9 @@ title: "Section 1751 - Secretarial authority"
 usc_title: 30
 usc_section: "1751"
 chapter: 29
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "30 U.S.C. § 1751"
-generated_at: "2026-03-30T08:43:19.138Z"
+generated_at: "2026-03-30T08:45:16.227Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 883a - Surveys and other activities"
 usc_title: 33
 usc_section: "883a"
 chapter: 17
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "33 U.S.C. § 883a"
-generated_at: "2026-03-30T08:43:24.724Z"
+generated_at: "2026-03-30T08:45:27.687Z"
 status: "active"
 ---
 

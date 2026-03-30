@@ -3,9 +3,9 @@ title: "Section 221 - Establishment; boundaries"
 usc_title: 16
 usc_section: "221"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 221"
-generated_at: "2026-03-30T08:42:34.663Z"
+generated_at: "2026-03-30T08:45:01.704Z"
 status: "active"
 ---
 

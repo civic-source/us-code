@@ -3,9 +3,9 @@ title: "Section 1697 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(9)�
 usc_title: 22
 usc_section: "1697"
 chapter: 22
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 1697"
-generated_at: "2026-03-30T08:43:07.968Z"
+generated_at: "2026-03-30T08:45:11.019Z"
 status: "repealed"
 ---
 

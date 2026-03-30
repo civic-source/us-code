@@ -3,9 +3,9 @@ title: "Section 372a - Acceptance of jurisdiction over part of park; application
 usc_title: 16
 usc_section: "372a"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 372a"
-generated_at: "2026-03-30T08:42:34.670Z"
+generated_at: "2026-03-30T08:45:01.709Z"
 status: "active"
 ---
 

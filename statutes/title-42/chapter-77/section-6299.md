@@ -3,9 +3,9 @@ title: "Section 6299 - Authority to obtain information"
 usc_title: 42
 usc_section: "6299"
 chapter: 77
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 6299"
-generated_at: "2026-03-30T08:43:59.828Z"
+generated_at: "2026-03-30T08:45:54.730Z"
 status: "active"
 ---
 

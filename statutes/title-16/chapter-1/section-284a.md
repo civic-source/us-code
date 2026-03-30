@@ -3,9 +3,9 @@ title: "Section 284a - Administration"
 usc_title: 16
 usc_section: "284a"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 284a"
-generated_at: "2026-03-30T08:42:34.668Z"
+generated_at: "2026-03-30T08:45:01.708Z"
 status: "active"
 ---
 

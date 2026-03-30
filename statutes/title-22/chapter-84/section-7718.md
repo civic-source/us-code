@@ -3,9 +3,9 @@ title: "Section 7718 - Authorization of appropriations"
 usc_title: 22
 usc_section: "7718"
 chapter: 84
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 7718"
-generated_at: "2026-03-30T08:43:08.060Z"
+generated_at: "2026-03-30T08:45:11.118Z"
 status: "active"
 ---
 

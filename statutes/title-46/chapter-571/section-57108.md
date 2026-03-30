@@ -3,9 +3,9 @@ title: "Section 57108 - Consideration of ballast and equipment in determining se
 usc_title: 46
 usc_section: "57108"
 chapter: 571
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "46 U.S.C. § 57108"
-generated_at: "2026-03-30T08:44:03.958Z"
+generated_at: "2026-03-30T08:46:10.891Z"
 status: "active"
 ---
 

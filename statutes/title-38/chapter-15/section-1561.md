@@ -3,9 +3,9 @@ title: "Section 1561 - Repealed. Pub. L. 113–66, div. A, title V, § 563(c)(1)
 usc_title: 38
 usc_section: "1561"
 chapter: 15
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "38 U.S.C. § 1561"
-generated_at: "2026-03-30T08:43:32.302Z"
+generated_at: "2026-03-30T08:45:31.666Z"
 status: "repealed"
 ---
 

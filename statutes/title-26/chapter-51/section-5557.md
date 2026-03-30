@@ -3,9 +3,9 @@ title: "Section 5557 - Officers and agents authorized to investigate, issue sear
 usc_title: 26
 usc_section: "5557"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 5557"
-generated_at: "2026-03-30T08:43:18.618Z"
+generated_at: "2026-03-30T08:45:23.513Z"
 status: "active"
 ---
 

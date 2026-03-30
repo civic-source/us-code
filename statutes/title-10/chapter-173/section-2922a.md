@@ -3,9 +3,9 @@ title: "Section 2922a - Contracts for energy or fuel for military installations"
 usc_title: 10
 usc_section: "2922a"
 chapter: 173
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "10 U.S.C. § 2922a"
-generated_at: "2026-03-30T08:41:52.154Z"
+generated_at: "2026-03-30T08:44:42.105Z"
 status: "active"
 ---
 

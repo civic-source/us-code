@@ -3,9 +3,9 @@ title: "Section 1427 - Civil actions"
 usc_title: 30
 usc_section: "1427"
 chapter: 26
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "30 U.S.C. § 1427"
-generated_at: "2026-03-30T08:43:19.134Z"
+generated_at: "2026-03-30T08:45:16.224Z"
 status: "active"
 ---
 

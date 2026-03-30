@@ -3,9 +3,9 @@ title: "Section 6441 - Presidential actions in response to violations of religio
 usc_title: 22
 usc_section: "6441"
 chapter: 73
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 6441"
-generated_at: "2026-03-30T08:43:08.045Z"
+generated_at: "2026-03-30T08:45:11.101Z"
 status: "active"
 ---
 

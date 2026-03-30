@@ -3,9 +3,9 @@ title: "Section 421 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "421"
 chapter: 13
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "45 U.S.C. § 421"
-generated_at: "2026-03-30T08:43:37.706Z"
+generated_at: "2026-03-30T08:45:35.509Z"
 status: "repealed"
 ---
 

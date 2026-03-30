@@ -3,9 +3,9 @@ title: "Section 10 - Omitted"
 usc_title: 12
 usc_section: "10"
 chapter: 13
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "12 U.S.C. § 10"
-generated_at: "2026-03-30T08:42:18.867Z"
+generated_at: "2026-03-30T08:44:50.648Z"
 status: "omitted"
 ---
 

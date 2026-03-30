@@ -3,9 +3,9 @@ title: "Section 4960 - Tax on excess tax-exempt organization executive compensat
 usc_title: 26
 usc_section: "4960"
 chapter: 42
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 4960"
-generated_at: "2026-03-30T08:43:18.604Z"
+generated_at: "2026-03-30T08:45:23.501Z"
 status: "active"
 ---
 

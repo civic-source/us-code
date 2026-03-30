@@ -3,9 +3,9 @@ title: "Section 2021b - Definitions"
 usc_title: 42
 usc_section: "2021b"
 chapter: 23
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 2021b"
-generated_at: "2026-03-30T08:43:59.741Z"
+generated_at: "2026-03-30T08:45:54.578Z"
 status: "active"
 ---
 

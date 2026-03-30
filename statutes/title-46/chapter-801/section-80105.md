@@ -3,9 +3,9 @@ title: "Section 80105 - Canadian vessels aiding vessels in United States waters"
 usc_title: 46
 usc_section: "80105"
 chapter: 801
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "46 U.S.C. § 80105"
-generated_at: "2026-03-30T08:44:03.964Z"
+generated_at: "2026-03-30T08:46:10.897Z"
 status: "active"
 ---
 

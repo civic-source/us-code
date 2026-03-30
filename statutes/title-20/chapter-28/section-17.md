@@ -3,9 +3,9 @@ title: "Section 17 - Staff development activities"
 usc_title: 20
 usc_section: "17"
 chapter: 28
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "20 U.S.C. § 17"
-generated_at: "2026-03-30T08:42:24.616Z"
+generated_at: "2026-03-30T08:45:05.605Z"
 status: "active"
 ---
 

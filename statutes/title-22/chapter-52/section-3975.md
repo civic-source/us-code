@@ -3,9 +3,9 @@ title: "Section 3975 - Group life insurance supplement applicable to those kille
 usc_title: 22
 usc_section: "3975"
 chapter: 52
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "22 U.S.C. § 3975"
-generated_at: "2026-03-30T08:43:08.019Z"
+generated_at: "2026-03-30T08:45:11.073Z"
 status: "active"
 ---
 

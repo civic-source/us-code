@@ -3,9 +3,9 @@ title: "Section 818 - Other definitions and special rules"
 usc_title: 26
 usc_section: "818"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 818"
-generated_at: "2026-03-30T08:43:18.539Z"
+generated_at: "2026-03-30T08:45:23.435Z"
 status: "active"
 ---
 

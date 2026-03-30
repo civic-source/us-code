@@ -3,9 +3,9 @@ title: "Section 25D - Residential energy efficient property"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-30T08:43:18.436Z"
+generated_at: "2026-03-30T08:45:23.331Z"
 status: "active"
 ---
 

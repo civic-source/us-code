@@ -3,9 +3,9 @@ title: "Section 45102 - Alcohol and controlled substances testing programs"
 usc_title: 49
 usc_section: "45102"
 chapter: 451
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 45102"
-generated_at: "2026-03-30T08:44:05.948Z"
+generated_at: "2026-03-30T08:46:03.508Z"
 status: "active"
 ---
 

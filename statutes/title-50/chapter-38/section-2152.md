@@ -3,9 +3,9 @@ title: "Section 2152 - Special rules relating to section 2013 criteria employees
 usc_title: 50
 usc_section: "2152"
 chapter: 38
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "50 U.S.C. § 2152"
-generated_at: "2026-03-30T08:44:06.980Z"
+generated_at: "2026-03-30T08:46:17.045Z"
 status: "active"
 ---
 

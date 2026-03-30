@@ -3,9 +3,9 @@ title: "Section 3718 - Contracts for collection services"
 usc_title: 31
 usc_section: "3718"
 chapter: 37
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "31 U.S.C. § 3718"
-generated_at: "2026-03-30T08:43:21.841Z"
+generated_at: "2026-03-30T08:45:26.213Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(5)** A contract made with a private counsel under paragraph (1) of this subsection shall include—
     - **(A)** a provision permitting the Attorney General to terminate either the contract or the private counsel’s representation of the United States in particular cases if the Attorney General finds that such action is for the convenience of the Government;
     - **(B)** a provision stating that the head of the executive or 2 2 So in original. Probably should be “, judicial, or”. legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
-    - **(C)** a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or 1 legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
+    - **(C)** a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or 2 legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
   - **(6)** Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act ( 15 U.S.C. 1692a(6) ), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
   - **(7)** Any counterclaim filed in any action to recover indebtedness owed the United States which is brought on behalf of the United States by private counsel retained under this subsection may not be asserted unless the counterclaim is served directly on the Attorney General or the United States Attorney for the judicial district in which, or embracing the place in which, the action is brought. Such service shall be made in accordance with the rules of procedure of the court in which the action is brought.
 - **(c)** The Attorney General shall transmit to the Congress an annual report on the activities of the Department of Justice to recover indebtedness owed the United States which was referred to the Department of Justice for collection. Each such report shall include a list, by agency, of—

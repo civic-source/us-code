@@ -3,9 +3,9 @@ title: "Section 10692 - Juvenile sex offender treatment grants"
 usc_title: 34
 usc_section: "10692"
 chapter: 101
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "34 U.S.C. § 10692"
-generated_at: "2026-03-30T08:43:22.429Z"
+generated_at: "2026-03-30T08:45:26.811Z"
 status: "active"
 ---
 

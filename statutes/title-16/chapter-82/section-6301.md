@@ -3,9 +3,9 @@ title: "Section 6301 - Findings and purposes"
 usc_title: 16
 usc_section: "6301"
 chapter: 82
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 6301"
-generated_at: "2026-03-30T08:42:34.879Z"
+generated_at: "2026-03-30T08:45:01.906Z"
 status: "active"
 ---
 

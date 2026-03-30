@@ -3,9 +3,9 @@ title: "Section 10664 - Authority to award competitive grants to address methamp
 usc_title: 34
 usc_section: "10664"
 chapter: 101
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "34 U.S.C. § 10664"
-generated_at: "2026-03-30T08:43:22.428Z"
+generated_at: "2026-03-30T08:45:26.810Z"
 status: "active"
 ---
 

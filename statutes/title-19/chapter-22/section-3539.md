@@ -3,9 +3,9 @@ title: "Section 3539 - Fund for WTO dispute settlements"
 usc_title: 19
 usc_section: "3539"
 chapter: 22
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 3539"
-generated_at: "2026-03-30T08:42:22.695Z"
+generated_at: "2026-03-30T08:45:03.892Z"
 status: "active"
 ---
 

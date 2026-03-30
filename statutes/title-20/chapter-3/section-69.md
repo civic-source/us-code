@@ -3,9 +3,9 @@ title: "Section 69 - Anthropological researches; cooperation of Institution with
 usc_title: 20
 usc_section: "69"
 chapter: 3
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "20 U.S.C. § 69"
-generated_at: "2026-03-30T08:42:24.591Z"
+generated_at: "2026-03-30T08:45:05.582Z"
 status: "active"
 ---
 

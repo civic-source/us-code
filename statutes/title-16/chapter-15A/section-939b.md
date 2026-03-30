@@ -3,9 +3,9 @@ title: "Section 939b - State laws and regulations"
 usc_title: 16
 usc_section: "939b"
 chapter: 15
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 939b"
-generated_at: "2026-03-30T08:42:34.797Z"
+generated_at: "2026-03-30T08:45:01.829Z"
 status: "active"
 ---
 

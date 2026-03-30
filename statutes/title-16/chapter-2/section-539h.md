@@ -3,9 +3,9 @@ title: "Section 539h - Greer Spring Special Management Area"
 usc_title: 16
 usc_section: "539h"
 chapter: 2
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 539h"
-generated_at: "2026-03-30T08:42:34.748Z"
+generated_at: "2026-03-30T08:45:01.781Z"
 status: "active"
 ---
 

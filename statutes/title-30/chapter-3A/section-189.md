@@ -3,9 +3,9 @@ title: "Section 189 - Rules and regulations; boundary lines; State rights unaffe
 usc_title: 30
 usc_section: "189"
 chapter: 3
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "30 U.S.C. § 189"
-generated_at: "2026-03-30T08:43:19.106Z"
+generated_at: "2026-03-30T08:45:16.196Z"
 status: "active"
 ---
 

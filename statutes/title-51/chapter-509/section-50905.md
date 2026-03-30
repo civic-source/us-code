@@ -3,9 +3,9 @@ title: "Section 50905 - License applications and requirements"
 usc_title: 51
 usc_section: "50905"
 chapter: 509
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "51 U.S.C. § 50905"
-generated_at: "2026-03-30T08:44:09.155Z"
+generated_at: "2026-03-30T08:46:30.451Z"
 status: "active"
 ---
 

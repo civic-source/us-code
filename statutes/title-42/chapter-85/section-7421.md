@@ -3,9 +3,9 @@ title: "Section 7421 - Consultation"
 usc_title: 42
 usc_section: "7421"
 chapter: 85
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 7421"
-generated_at: "2026-03-30T08:43:59.867Z"
+generated_at: "2026-03-30T08:45:54.797Z"
 status: "active"
 ---
 

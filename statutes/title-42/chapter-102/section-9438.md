@@ -3,9 +3,9 @@ title: "Section 9438 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9438"
 chapter: 102
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "42 U.S.C. § 9438"
-generated_at: "2026-03-30T08:43:59.907Z"
+generated_at: "2026-03-30T08:45:54.865Z"
 status: "repealed"
 ---
 

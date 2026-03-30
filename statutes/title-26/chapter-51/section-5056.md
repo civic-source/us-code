@@ -3,9 +3,9 @@ title: "Section 5056 - Refund and credit of tax, or relief from lia­bility"
 usc_title: 26
 usc_section: "5056"
 chapter: 51
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "26 U.S.C. § 5056"
-generated_at: "2026-03-30T08:43:18.613Z"
+generated_at: "2026-03-30T08:45:23.509Z"
 status: "active"
 ---
 

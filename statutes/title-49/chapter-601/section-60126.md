@@ -3,9 +3,9 @@ title: "Section 60126 - Risk management"
 usc_title: 49
 usc_section: "60126"
 chapter: 601
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "49 U.S.C. § 60126"
-generated_at: "2026-03-30T08:44:05.961Z"
+generated_at: "2026-03-30T08:46:03.528Z"
 status: "active"
 ---
 

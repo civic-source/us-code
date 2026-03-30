@@ -3,9 +3,9 @@ title: "Section 22 - Roads and travel access"
 usc_title: 16
 usc_section: "22"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "16 U.S.C. § 22"
-generated_at: "2026-03-30T08:42:34.736Z"
+generated_at: "2026-03-30T08:45:01.769Z"
 status: "active"
 ---
 

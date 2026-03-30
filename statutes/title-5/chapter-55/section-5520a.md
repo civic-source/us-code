@@ -3,9 +3,9 @@ title: "Section 5520a - Garnishment of pay"
 usc_title: 5
 usc_section: "5520a"
 chapter: 55
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "5 U.S.C. § 5520a"
-generated_at: "2026-03-30T08:41:19.400Z"
+generated_at: "2026-03-30T08:44:22.279Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60 - Penalty for extortion"
 usc_title: 19
 usc_section: "60"
 chapter: 1
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "19 U.S.C. § 60"
-generated_at: "2026-03-30T08:42:22.637Z"
+generated_at: "2026-03-30T08:45:03.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 912a - Rescheduling and refinancing of loans"
 usc_title: 7
 usc_section: "912a"
 chapter: 31
-current_through: "PL 116-63"
+current_through: "PL 116-65"
 classification: "7 U.S.C. § 912a"
-generated_at: "2026-03-30T08:41:28.930Z"
+generated_at: "2026-03-30T08:44:38.658Z"
 status: "active"
 ---
 
