@@ -3,9 +3,9 @@ title: "Section 6903 - Definitions"
 usc_title: 22
 usc_section: "6903"
 chapter: 77
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 6903"
-generated_at: "2026-03-30T05:55:51.148Z"
+generated_at: "2026-03-30T05:58:27.786Z"
 status: "active"
 ---
 

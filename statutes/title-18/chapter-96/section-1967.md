@@ -3,9 +3,9 @@ title: "Section 1967 - Evidence"
 usc_title: 18
 usc_section: "1967"
 chapter: 96
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "18 U.S.C. § 1967"
-generated_at: "2026-03-30T05:55:43.141Z"
+generated_at: "2026-03-30T05:57:53.817Z"
 status: "active"
 ---
 

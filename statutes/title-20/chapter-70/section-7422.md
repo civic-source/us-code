@@ -3,9 +3,9 @@ title: "Section 7422 - Grants to local educational agencies and tribes"
 usc_title: 20
 usc_section: "7422"
 chapter: 70
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 7422"
-generated_at: "2026-03-30T05:55:36.067Z"
+generated_at: "2026-03-30T05:57:56.396Z"
 status: "active"
 ---
 

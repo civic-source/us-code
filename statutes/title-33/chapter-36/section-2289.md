@@ -3,9 +3,9 @@ title: "Section 2289 - Urban and rural flood control frequency"
 usc_title: 33
 usc_section: "2289"
 chapter: 36
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "33 U.S.C. § 2289"
-generated_at: "2026-03-30T05:56:05.886Z"
+generated_at: "2026-03-30T05:58:42.644Z"
 status: "active"
 ---
 

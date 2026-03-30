@@ -3,9 +3,9 @@ title: "Section 1282 - Conditional permits to land temporarily"
 usc_title: 8
 usc_section: "1282"
 chapter: 12
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "8 U.S.C. § 1282"
-generated_at: "2026-03-30T05:55:09.020Z"
+generated_at: "2026-03-30T05:57:21.818Z"
 status: "active"
 ---
 

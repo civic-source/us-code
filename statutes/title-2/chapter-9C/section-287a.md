@@ -3,9 +3,9 @@ title: "Section 287a - Parliamentarian"
 usc_title: 2
 usc_section: "287a"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "2 U.S.C. § 287a"
-generated_at: "2026-03-30T05:55:03.405Z"
+generated_at: "2026-03-30T05:56:57.557Z"
 status: "active"
 ---
 

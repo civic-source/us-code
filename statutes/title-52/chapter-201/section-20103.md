@@ -3,9 +3,9 @@ title: "Section 20103 - Selection of registration facilities"
 usc_title: 52
 usc_section: "20103"
 chapter: 201
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "52 U.S.C. § 20103"
-generated_at: "2026-03-30T05:56:32.432Z"
+generated_at: "2026-03-30T05:59:28.366Z"
 status: "active"
 ---
 

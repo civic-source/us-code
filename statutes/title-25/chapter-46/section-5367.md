@@ -3,9 +3,9 @@ title: "Section 5367 - Regulations"
 usc_title: 25
 usc_section: "5367"
 chapter: 46
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "25 U.S.C. § 5367"
-generated_at: "2026-03-30T05:55:47.735Z"
+generated_at: "2026-03-30T05:58:20.361Z"
 status: "active"
 ---
 

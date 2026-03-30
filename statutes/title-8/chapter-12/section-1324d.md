@@ -3,9 +3,9 @@ title: "Section 1324d - Civil penalties for failure to depart"
 usc_title: 8
 usc_section: "1324d"
 chapter: 12
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "8 U.S.C. § 1324d"
-generated_at: "2026-03-30T05:55:09.023Z"
+generated_at: "2026-03-30T05:57:21.820Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1216 - Other matters within the jurisdiction of the Office of Sp
 usc_title: 5
 usc_section: "1216"
 chapter: 12
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "5 U.S.C. § 1216"
-generated_at: "2026-03-30T05:55:06.551Z"
+generated_at: "2026-03-30T05:57:16.850Z"
 status: "active"
 ---
 

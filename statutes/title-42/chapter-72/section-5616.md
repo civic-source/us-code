@@ -3,9 +3,9 @@ title: "Section 5616 - Coordinating Council on Juvenile Justice and Delinquency 
 usc_title: 42
 usc_section: "5616"
 chapter: 72
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 5616"
-generated_at: "2026-03-30T05:56:22.778Z"
+generated_at: "2026-03-30T05:59:08.886Z"
 status: "active"
 ---
 

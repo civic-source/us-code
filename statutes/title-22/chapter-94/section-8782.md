@@ -3,9 +3,9 @@ title: "Section 8782 - Applicability to certain intelligence activities"
 usc_title: 22
 usc_section: "8782"
 chapter: 94
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 8782"
-generated_at: "2026-03-30T05:55:51.168Z"
+generated_at: "2026-03-30T05:58:27.806Z"
 status: "active"
 ---
 

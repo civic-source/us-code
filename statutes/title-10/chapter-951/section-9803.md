@@ -3,9 +3,9 @@ title: "Section 9803 - Admiralty claims by United States"
 usc_title: 10
 usc_section: "9803"
 chapter: 951
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 9803"
-generated_at: "2026-03-30T05:55:13.356Z"
+generated_at: "2026-03-30T05:57:28.164Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Office of the Comptroller of the Currency"
 usc_title: 12
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T05:55:26.938Z"
+generated_at: "2026-03-30T05:57:43.305Z"
 status: "active"
 ---
 

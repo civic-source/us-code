@@ -3,9 +3,9 @@ title: "Section 2096 - Agreements for sharing gains or losses"
 usc_title: 12
 usc_section: "2096"
 chapter: 23
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "12 U.S.C. § 2096"
-generated_at: "2026-03-30T05:55:27.032Z"
+generated_at: "2026-03-30T05:57:43.400Z"
 status: "active"
 ---
 

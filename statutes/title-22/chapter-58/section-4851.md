@@ -3,9 +3,9 @@ title: "Section 4851 - Authorization"
 usc_title: 22
 usc_section: "4851"
 chapter: 58
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 4851"
-generated_at: "2026-03-30T05:55:51.129Z"
+generated_at: "2026-03-30T05:58:27.768Z"
 status: "active"
 ---
 

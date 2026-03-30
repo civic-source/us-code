@@ -3,9 +3,9 @@ title: "Section 17172 - Solar energy curriculum development and certification gr
 usc_title: 42
 usc_section: "17172"
 chapter: 152
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 17172"
-generated_at: "2026-03-30T05:56:23.009Z"
+generated_at: "2026-03-30T05:59:09.114Z"
 status: "active"
 ---
 

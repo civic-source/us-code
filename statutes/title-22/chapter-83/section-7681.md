@@ -3,9 +3,9 @@ title: "Section 7681 - Report on expansion of debt relief to non-HIPC countries"
 usc_title: 22
 usc_section: "7681"
 chapter: 83
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 7681"
-generated_at: "2026-03-30T05:55:51.157Z"
+generated_at: "2026-03-30T05:58:27.796Z"
 status: "active"
 ---
 

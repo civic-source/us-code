@@ -3,9 +3,9 @@ title: "Section 7426 - Repealed. Pub. L. 106–398 , § 1 [div. C, title XXXIV, 
 usc_title: 10
 usc_section: "7426"
 chapter: 641
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 7426"
-generated_at: "2026-03-30T05:55:13.346Z"
+generated_at: "2026-03-30T05:57:28.154Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11 - Acceptance and development of fish hatchery in South Caroli
 usc_title: 16
 usc_section: "11"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T05:55:38.168Z"
+generated_at: "2026-03-30T05:58:15.417Z"
 status: "active"
 ---
 

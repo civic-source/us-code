@@ -3,9 +3,9 @@ title: "Section 11111 - Limit on amount recoverable on voyage"
 usc_title: 46
 usc_section: "11111"
 chapter: 111
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "46 U.S.C. § 11111"
-generated_at: "2026-03-30T05:56:26.702Z"
+generated_at: "2026-03-30T05:59:23.045Z"
 status: "active"
 ---
 

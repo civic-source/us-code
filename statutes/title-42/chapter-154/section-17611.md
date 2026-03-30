@@ -3,9 +3,9 @@ title: "Section 17611 - Establishment of National Strategy for Child Exploitatio
 usc_title: 42
 usc_section: "17611"
 chapter: 154
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 17611"
-generated_at: "2026-03-30T05:56:23.015Z"
+generated_at: "2026-03-30T05:59:09.119Z"
 status: "active"
 ---
 

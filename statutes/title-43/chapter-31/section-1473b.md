@@ -3,9 +3,9 @@ title: "Section 1473b - Awards for contributions to Department of the Interior p
 usc_title: 43
 usc_section: "1473b"
 chapter: 31
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "43 U.S.C. § 1473b"
-generated_at: "2026-03-30T05:56:12.340Z"
+generated_at: "2026-03-30T05:58:49.648Z"
 status: "active"
 ---
 

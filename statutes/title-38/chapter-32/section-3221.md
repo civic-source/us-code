@@ -3,9 +3,9 @@ title: "Section 3221 - Eligibility"
 usc_title: 38
 usc_section: "3221"
 chapter: 32
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 3221"
-generated_at: "2026-03-30T05:56:09.493Z"
+generated_at: "2026-03-30T05:58:47.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1901 - Definitions"
 usc_title: 33
 usc_section: "1901"
 chapter: 33
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "33 U.S.C. § 1901"
-generated_at: "2026-03-30T05:56:05.879Z"
+generated_at: "2026-03-30T05:58:42.637Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41 - Federal Trade Commission established; membership; vacancies
 usc_title: 15
 usc_section: "41"
 chapter: 2
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "15 U.S.C. § 41"
-generated_at: "2026-03-30T05:55:29.210Z"
+generated_at: "2026-03-30T05:57:48.267Z"
 status: "active"
 ---
 

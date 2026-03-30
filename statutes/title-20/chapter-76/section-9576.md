@@ -3,9 +3,9 @@ title: "Section 9576 - Authority to publish"
 usc_title: 20
 usc_section: "9576"
 chapter: 76
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 9576"
-generated_at: "2026-03-30T05:55:36.082Z"
+generated_at: "2026-03-30T05:57:56.411Z"
 status: "active"
 ---
 

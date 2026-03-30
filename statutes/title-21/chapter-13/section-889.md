@@ -3,9 +3,9 @@ title: "Section 889 - Production control of controlled substances"
 usc_title: 21
 usc_section: "889"
 chapter: 13
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "21 U.S.C. § 889"
-generated_at: "2026-03-30T05:55:48.588Z"
+generated_at: "2026-03-30T05:58:21.144Z"
 status: "active"
 ---
 

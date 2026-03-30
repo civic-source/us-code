@@ -3,9 +3,9 @@ title: "Section 18081 - Procedures for determining eligibility for Exchange part
 usc_title: 42
 usc_section: "18081"
 chapter: 157
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 18081"
-generated_at: "2026-03-30T05:56:23.022Z"
+generated_at: "2026-03-30T05:59:09.126Z"
 status: "active"
 ---
 

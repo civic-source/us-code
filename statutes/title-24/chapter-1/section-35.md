@@ -3,9 +3,9 @@ title: "Section 35 - Limitation of medical, surgical or hospital services"
 usc_title: 24
 usc_section: "35"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "24 U.S.C. § 35"
-generated_at: "2026-03-30T05:55:45.861Z"
+generated_at: "2026-03-30T05:58:21.491Z"
 status: "active"
 ---
 

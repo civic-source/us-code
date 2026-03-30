@@ -3,9 +3,9 @@ title: "Section 3803 - Persons liable for training and service"
 usc_title: 50
 usc_section: "3803"
 chapter: 49
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "50 U.S.C. § 3803"
-generated_at: "2026-03-30T05:56:27.722Z"
+generated_at: "2026-03-30T05:59:13.239Z"
 status: "active"
 ---
 

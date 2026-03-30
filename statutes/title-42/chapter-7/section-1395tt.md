@@ -3,9 +3,9 @@ title: "Section 1395tt - Hospital providers of extended care services"
 usc_title: 42
 usc_section: "1395tt"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1395tt"
-generated_at: "2026-03-30T05:56:22.586Z"
+generated_at: "2026-03-30T05:59:08.693Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8193 - Administration"
 usc_title: 5
 usc_section: "8193"
 chapter: 81
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "5 U.S.C. § 8193"
-generated_at: "2026-03-30T05:55:06.582Z"
+generated_at: "2026-03-30T05:57:16.881Z"
 status: "active"
 ---
 

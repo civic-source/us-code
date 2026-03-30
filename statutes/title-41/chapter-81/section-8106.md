@@ -3,9 +3,9 @@ title: "Section 8106 - Regulations"
 usc_title: 41
 usc_section: "8106"
 chapter: 81
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "41 U.S.C. § 8106"
-generated_at: "2026-03-30T05:56:11.718Z"
+generated_at: "2026-03-30T05:58:48.892Z"
 status: "active"
 ---
 

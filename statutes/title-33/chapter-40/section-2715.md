@@ -3,9 +3,9 @@ title: "Section 2715 - Subrogation"
 usc_title: 33
 usc_section: "2715"
 chapter: 40
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "33 U.S.C. § 2715"
-generated_at: "2026-03-30T05:56:05.894Z"
+generated_at: "2026-03-30T05:58:42.653Z"
 status: "active"
 ---
 

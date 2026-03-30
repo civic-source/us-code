@@ -3,9 +3,9 @@ title: "Section 4271 - Imposition of tax"
 usc_title: 26
 usc_section: "4271"
 chapter: 33
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "26 U.S.C. § 4271"
-generated_at: "2026-03-30T05:56:02.430Z"
+generated_at: "2026-03-30T05:58:37.537Z"
 status: "active"
 ---
 

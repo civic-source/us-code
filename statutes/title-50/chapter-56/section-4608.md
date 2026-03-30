@@ -3,9 +3,9 @@ title: "Section 4608 - Procedures for hardship relief from export controls"
 usc_title: 50
 usc_section: "4608"
 chapter: 56
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "50 U.S.C. § 4608"
-generated_at: "2026-03-30T05:56:27.741Z"
+generated_at: "2026-03-30T05:59:13.256Z"
 status: "active"
 ---
 

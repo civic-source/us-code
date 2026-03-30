@@ -3,9 +3,9 @@ title: "Section 8036 - Surgeon General: appointment; duties"
 usc_title: 10
 usc_section: "8036"
 chapter: 805
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 8036"
-generated_at: "2026-03-30T05:55:13.350Z"
+generated_at: "2026-03-30T05:57:28.157Z"
 status: "active"
 ---
 

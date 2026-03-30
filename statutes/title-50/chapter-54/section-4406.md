@@ -3,9 +3,9 @@ title: "Section 4406 - Reconversion of vessels for normal commercial operation; 
 usc_title: 50
 usc_section: "4406"
 chapter: 54
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "50 U.S.C. § 4406"
-generated_at: "2026-03-30T05:56:27.734Z"
+generated_at: "2026-03-30T05:59:13.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3680A - Disapproval of enrollment in certain courses"
 usc_title: 38
 usc_section: "3680A"
 chapter: 36
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 3680A"
-generated_at: "2026-03-30T05:56:09.498Z"
+generated_at: "2026-03-30T05:58:47.085Z"
 status: "active"
 ---
 

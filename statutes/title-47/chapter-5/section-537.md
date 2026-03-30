@@ -3,9 +3,9 @@ title: "Section 537 - Sales of cable systems"
 usc_title: 47
 usc_section: "537"
 chapter: 5
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "47 U.S.C. § 537"
-generated_at: "2026-03-30T05:56:25.652Z"
+generated_at: "2026-03-30T05:59:12.288Z"
 status: "active"
 ---
 

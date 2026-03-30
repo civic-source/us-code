@@ -3,9 +3,9 @@ title: "Section 795h - Allotments"
 usc_title: 29
 usc_section: "795h"
 chapter: 16
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "29 U.S.C. § 795h"
-generated_at: "2026-03-30T05:55:54.253Z"
+generated_at: "2026-03-30T05:58:33.486Z"
 status: "active"
 ---
 

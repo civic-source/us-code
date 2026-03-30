@@ -3,9 +3,9 @@ title: "Section 6004 - Certain administrative proceedings"
 usc_title: 18
 usc_section: "6004"
 chapter: 601
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "18 U.S.C. § 6004"
-generated_at: "2026-03-30T05:55:43.169Z"
+generated_at: "2026-03-30T05:57:53.843Z"
 status: "active"
 ---
 

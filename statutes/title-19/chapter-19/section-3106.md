@@ -3,9 +3,9 @@ title: "Section 3106 - Review of trade agreement implementation by Trade Represe
 usc_title: 19
 usc_section: "3106"
 chapter: 19
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "19 U.S.C. § 3106"
-generated_at: "2026-03-30T05:55:33.023Z"
+generated_at: "2026-03-30T05:57:58.595Z"
 status: "active"
 ---
 

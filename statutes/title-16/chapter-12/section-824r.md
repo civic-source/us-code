@@ -3,9 +3,9 @@ title: "Section 824r - Protection of transmission contracts in the Pacific North
 usc_title: 16
 usc_section: "824r"
 chapter: 12
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 824r"
-generated_at: "2026-03-30T05:55:38.177Z"
+generated_at: "2026-03-30T05:58:15.425Z"
 status: "active"
 ---
 

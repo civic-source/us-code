@@ -3,9 +3,9 @@ title: "Section 13382 - Least-cost energy strategy"
 usc_title: 42
 usc_section: "13382"
 chapter: 134
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 13382"
-generated_at: "2026-03-30T05:56:22.954Z"
+generated_at: "2026-03-30T05:59:09.060Z"
 status: "active"
 ---
 

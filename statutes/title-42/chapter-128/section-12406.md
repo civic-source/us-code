@@ -3,9 +3,9 @@ title: "Section 12406 - Coordination and consultation"
 usc_title: 42
 usc_section: "12406"
 chapter: 128
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 12406"
-generated_at: "2026-03-30T05:56:22.929Z"
+generated_at: "2026-03-30T05:59:09.036Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321 - Training with friendly foreign countries: payment of train
 usc_title: 10
 usc_section: "321"
 chapter: 16
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 321"
-generated_at: "2026-03-30T05:55:13.233Z"
+generated_at: "2026-03-30T05:57:28.043Z"
 status: "active"
 ---
 

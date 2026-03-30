@@ -3,9 +3,9 @@ title: "Section 2226 - Employment of persons for forest fire fighting, pest cont
 usc_title: 7
 usc_section: "2226"
 chapter: 55
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 2226"
-generated_at: "2026-03-30T05:55:20.494Z"
+generated_at: "2026-03-30T05:57:36.228Z"
 status: "active"
 ---
 

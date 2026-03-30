@@ -3,9 +3,9 @@ title: "Section 3809 - Committee staff"
 usc_title: 19
 usc_section: "3809"
 chapter: 24
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "19 U.S.C. § 3809"
-generated_at: "2026-03-30T05:55:33.035Z"
+generated_at: "2026-03-30T05:57:58.605Z"
 status: "active"
 ---
 

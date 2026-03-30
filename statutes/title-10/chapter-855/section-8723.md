@@ -3,9 +3,9 @@ title: "Section 8723 - When Secretary may require"
 usc_title: 10
 usc_section: "8723"
 chapter: 855
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 8723"
-generated_at: "2026-03-30T05:55:13.351Z"
+generated_at: "2026-03-30T05:57:28.159Z"
 status: "active"
 ---
 

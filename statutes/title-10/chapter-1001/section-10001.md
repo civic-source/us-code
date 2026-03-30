@@ -3,9 +3,9 @@ title: "Section 10001 - Definition of State"
 usc_title: 10
 usc_section: "10001"
 chapter: 1001
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 10001"
-generated_at: "2026-03-30T05:55:13.356Z"
+generated_at: "2026-03-30T05:57:28.164Z"
 status: "active"
 ---
 

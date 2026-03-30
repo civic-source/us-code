@@ -3,9 +3,9 @@ title: "Section 1401 - Resolution of disputes"
 usc_title: 29
 usc_section: "1401"
 chapter: 18
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "29 U.S.C. § 1401"
-generated_at: "2026-03-30T05:55:54.285Z"
+generated_at: "2026-03-30T05:58:33.515Z"
 status: "active"
 ---
 

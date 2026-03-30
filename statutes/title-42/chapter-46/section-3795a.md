@@ -3,9 +3,9 @@ title: "Section 3795a - Falsification or concealment of facts"
 usc_title: 42
 usc_section: "3795a"
 chapter: 46
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 3795a"
-generated_at: "2026-03-30T05:56:22.733Z"
+generated_at: "2026-03-30T05:59:08.840Z"
 status: "active"
 ---
 

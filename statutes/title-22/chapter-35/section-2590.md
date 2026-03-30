@@ -3,9 +3,9 @@ title: "Section 2590 - Repealed. Pub. L. 103–236, title VII , § 717(a)(1), Ap
 usc_title: 22
 usc_section: "2590"
 chapter: 35
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 2590"
-generated_at: "2026-03-30T05:55:51.093Z"
+generated_at: "2026-03-30T05:58:27.733Z"
 status: "repealed"
 ---
 

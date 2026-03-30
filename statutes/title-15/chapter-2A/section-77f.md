@@ -3,9 +3,9 @@ title: "Section 77f - Registration of securities"
 usc_title: 15
 usc_section: "77f"
 chapter: 2
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "15 U.S.C. § 77f"
-generated_at: "2026-03-30T05:55:29.218Z"
+generated_at: "2026-03-30T05:57:48.274Z"
 status: "active"
 ---
 

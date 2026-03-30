@@ -3,9 +3,9 @@ title: "Section 101701 - Challenge cost-share agreement authority"
 usc_title: 54
 usc_section: "101701"
 chapter: 1017
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "54 U.S.C. § 101701"
-generated_at: "2026-03-30T05:56:37.640Z"
+generated_at: "2026-03-30T05:59:28.622Z"
 status: "active"
 ---
 

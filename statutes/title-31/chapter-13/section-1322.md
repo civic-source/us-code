@@ -3,9 +3,9 @@ title: "Section 1322 - Payments of unclaimed trust fund amounts and refund of am
 usc_title: 31
 usc_section: "1322"
 chapter: 13
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "31 U.S.C. § 1322"
-generated_at: "2026-03-30T05:56:05.077Z"
+generated_at: "2026-03-30T05:58:41.059Z"
 status: "active"
 ---
 

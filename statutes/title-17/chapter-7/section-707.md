@@ -3,9 +3,9 @@ title: "Section 707 - Copyright Office forms and publications"
 usc_title: 17
 usc_section: "707"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "17 U.S.C. § 707"
-generated_at: "2026-03-30T05:55:31.300Z"
+generated_at: "2026-03-30T05:57:52.722Z"
 status: "active"
 ---
 

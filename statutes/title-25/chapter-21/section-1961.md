@@ -3,9 +3,9 @@ title: "Section 1961 - Locally convenient day schools"
 usc_title: 25
 usc_section: "1961"
 chapter: 21
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "25 U.S.C. § 1961"
-generated_at: "2026-03-30T05:55:47.705Z"
+generated_at: "2026-03-30T05:58:20.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8752 - Base acres for peanuts for a farm"
 usc_title: 7
 usc_section: "8752"
 chapter: 113
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 8752"
-generated_at: "2026-03-30T05:55:20.565Z"
+generated_at: "2026-03-30T05:57:36.299Z"
 status: "active"
 ---
 

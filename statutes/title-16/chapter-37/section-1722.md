@@ -3,9 +3,9 @@ title: "Section 1722 - Definitions"
 usc_title: 16
 usc_section: "1722"
 chapter: 37
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 1722"
-generated_at: "2026-03-30T05:55:38.217Z"
+generated_at: "2026-03-30T05:58:15.498Z"
 status: "active"
 ---
 

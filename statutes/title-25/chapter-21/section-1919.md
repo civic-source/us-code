@@ -3,9 +3,9 @@ title: "Section 1919 - Agreements between States and Indian tribes"
 usc_title: 25
 usc_section: "1919"
 chapter: 21
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "25 U.S.C. § 1919"
-generated_at: "2026-03-30T05:55:47.704Z"
+generated_at: "2026-03-30T05:58:20.330Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 471 - Attendance at professional meetings"
 usc_title: 14
 usc_section: "471"
 chapter: 13
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "14 U.S.C. § 471"
-generated_at: "2026-03-30T05:55:22.796Z"
+generated_at: "2026-03-30T05:57:39.485Z"
 status: "active"
 ---
 

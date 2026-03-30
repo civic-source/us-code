@@ -3,9 +3,9 @@ title: "Section 7 - Report"
 usc_title: 21
 usc_section: "7"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "21 U.S.C. § 7"
-generated_at: "2026-03-30T05:55:48.559Z"
+generated_at: "2026-03-30T05:58:21.115Z"
 status: "active"
 ---
 

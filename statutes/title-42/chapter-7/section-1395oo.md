@@ -3,9 +3,9 @@ title: "Section 1395oo - Provider Reimbursement Review Board"
 usc_title: 42
 usc_section: "1395oo"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1395oo"
-generated_at: "2026-03-30T05:56:22.582Z"
+generated_at: "2026-03-30T05:59:08.689Z"
 status: "active"
 ---
 

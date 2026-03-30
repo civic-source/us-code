@@ -3,9 +3,9 @@ title: "Section 22910 - Service of process"
 usc_title: 36
 usc_section: "22910"
 chapter: 229
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "36 U.S.C. § 22910"
-generated_at: "2026-03-30T05:56:08.244Z"
+generated_at: "2026-03-30T05:58:44.905Z"
 status: "active"
 ---
 

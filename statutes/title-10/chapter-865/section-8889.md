@@ -3,9 +3,9 @@ title: "Section 8889 - Repealed. Pub. L. 96–513, title II , § 216, Dec. 12, 1
 usc_title: 10
 usc_section: "8889"
 chapter: 865
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 8889"
-generated_at: "2026-03-30T05:55:13.352Z"
+generated_at: "2026-03-30T05:57:28.159Z"
 status: "repealed"
 ---
 

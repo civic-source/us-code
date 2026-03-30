@@ -3,9 +3,9 @@ title: "Section 3519a - Separation pay program for voluntary separation from ser
 usc_title: 50
 usc_section: "3519a"
 chapter: 46
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "50 U.S.C. § 3519a"
-generated_at: "2026-03-30T05:56:27.719Z"
+generated_at: "2026-03-30T05:59:13.237Z"
 status: "active"
 ---
 

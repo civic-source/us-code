@@ -3,9 +3,9 @@ title: "Section 3634 - Repealed. Pub. L. 110–181, div. A, title V , § 590(b)(
 usc_title: 10
 usc_section: "3634"
 chapter: 349
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 3634"
-generated_at: "2026-03-30T05:55:13.330Z"
+generated_at: "2026-03-30T05:57:28.139Z"
 status: "repealed"
 ---
 

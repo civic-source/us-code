@@ -3,9 +3,9 @@ title: "Section 5132 - Bureaus: distribution of business; orders; rec­ords; exp
 usc_title: 10
 usc_section: "5132"
 chapter: 513
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 5132"
-generated_at: "2026-03-30T05:55:13.337Z"
+generated_at: "2026-03-30T05:57:28.145Z"
 status: "active"
 ---
 

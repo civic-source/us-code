@@ -3,9 +3,9 @@ title: "Section 1496 - Powers of Secretary; finality of financial transactions a
 usc_title: 25
 usc_section: "1496"
 chapter: 17
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "25 U.S.C. § 1496"
-generated_at: "2026-03-30T05:55:47.691Z"
+generated_at: "2026-03-30T05:58:20.317Z"
 status: "active"
 ---
 

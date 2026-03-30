@@ -3,9 +3,9 @@ title: "Section 4112 - Employees represented"
 usc_title: 22
 usc_section: "4112"
 chapter: 52
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 4112"
-generated_at: "2026-03-30T05:55:51.123Z"
+generated_at: "2026-03-30T05:58:27.761Z"
 status: "active"
 ---
 

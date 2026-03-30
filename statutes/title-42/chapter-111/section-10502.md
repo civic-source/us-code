@@ -3,9 +3,9 @@ title: "Section 10502 - Definitions"
 usc_title: 42
 usc_section: "10502"
 chapter: 111
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 10502"
-generated_at: "2026-03-30T05:56:22.907Z"
+generated_at: "2026-03-30T05:59:09.016Z"
 status: "active"
 ---
 

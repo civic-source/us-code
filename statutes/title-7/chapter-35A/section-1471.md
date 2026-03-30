@@ -3,9 +3,9 @@ title: "Section 1471 - Definitions"
 usc_title: 7
 usc_section: "1471"
 chapter: 35
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 1471"
-generated_at: "2026-03-30T05:55:20.447Z"
+generated_at: "2026-03-30T05:57:36.180Z"
 status: "active"
 ---
 

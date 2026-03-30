@@ -3,9 +3,9 @@ title: "Section 6472 - Definitions"
 usc_title: 20
 usc_section: "6472"
 chapter: 70
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 6472"
-generated_at: "2026-03-30T05:55:36.057Z"
+generated_at: "2026-03-30T05:57:56.385Z"
 status: "active"
 ---
 

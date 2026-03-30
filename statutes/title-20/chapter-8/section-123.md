@@ -3,9 +3,9 @@ title: "Section 123 - Annual appropriations; inspection by Secretary of Educatio
 usc_title: 20
 usc_section: "123"
 chapter: 8
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 123"
-generated_at: "2026-03-30T05:55:35.959Z"
+generated_at: "2026-03-30T05:57:56.286Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1592j - Disposition of moneys derived from rentals, operation, a
 usc_title: 42
 usc_section: "1592j"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1592j"
-generated_at: "2026-03-30T05:56:22.656Z"
+generated_at: "2026-03-30T05:59:08.764Z"
 status: "active"
 ---
 

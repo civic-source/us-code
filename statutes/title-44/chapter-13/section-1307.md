@@ -3,9 +3,9 @@ title: "Section 1307 - National Oceanic and Atmospheric Administration: nautical
 usc_title: 44
 usc_section: "1307"
 chapter: 13
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "44 U.S.C. § 1307"
-generated_at: "2026-03-30T05:56:12.804Z"
+generated_at: "2026-03-30T05:58:49.077Z"
 status: "active"
 ---
 

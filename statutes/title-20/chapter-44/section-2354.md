@@ -3,9 +3,9 @@ title: "Section 2354 - Local plan for career and technical education programs"
 usc_title: 20
 usc_section: "2354"
 chapter: 44
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 2354"
-generated_at: "2026-03-30T05:55:36.035Z"
+generated_at: "2026-03-30T05:57:56.363Z"
 status: "active"
 ---
 

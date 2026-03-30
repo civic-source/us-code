@@ -3,9 +3,9 @@ title: "Section 536 - Positions in excepted service"
 usc_title: 28
 usc_section: "536"
 chapter: 33
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "28 U.S.C. § 536"
-generated_at: "2026-03-30T05:55:54.913Z"
+generated_at: "2026-03-30T05:58:31.772Z"
 status: "active"
 ---
 

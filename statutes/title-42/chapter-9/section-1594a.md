@@ -3,9 +3,9 @@ title: "Section 1594a - Acquisition of military housing financed under Armed Ser
 usc_title: 42
 usc_section: "1594a"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1594a"
-generated_at: "2026-03-30T05:56:22.656Z"
+generated_at: "2026-03-30T05:59:08.765Z"
 status: "active"
 ---
 

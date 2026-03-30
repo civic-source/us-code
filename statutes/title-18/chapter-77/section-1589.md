@@ -3,9 +3,9 @@ title: "Section 1589 - Forced labor"
 usc_title: 18
 usc_section: "1589"
 chapter: 77
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "18 U.S.C. § 1589"
-generated_at: "2026-03-30T05:55:43.136Z"
+generated_at: "2026-03-30T05:57:53.812Z"
 status: "active"
 ---
 

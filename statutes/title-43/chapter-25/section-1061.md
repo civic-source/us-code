@@ -3,9 +3,9 @@ title: "Section 1061 - Inclosure of or assertion of right to public lands withou
 usc_title: 43
 usc_section: "1061"
 chapter: 25
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "43 U.S.C. § 1061"
-generated_at: "2026-03-30T05:56:12.334Z"
+generated_at: "2026-03-30T05:58:49.641Z"
 status: "active"
 ---
 

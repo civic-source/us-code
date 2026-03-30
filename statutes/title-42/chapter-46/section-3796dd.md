@@ -3,9 +3,9 @@ title: "Section 3796dd - Authority to make public safety and community policing 
 usc_title: 42
 usc_section: "3796dd"
 chapter: 46
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 3796dd"
-generated_at: "2026-03-30T05:56:22.734Z"
+generated_at: "2026-03-30T05:59:08.841Z"
 status: "active"
 ---
 

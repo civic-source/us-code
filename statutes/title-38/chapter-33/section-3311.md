@@ -3,9 +3,9 @@ title: "Section 3311 - Educational assistance for service in the Armed Forces co
 usc_title: 38
 usc_section: "3311"
 chapter: 33
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 3311"
-generated_at: "2026-03-30T05:56:09.494Z"
+generated_at: "2026-03-30T05:58:47.081Z"
 status: "active"
 ---
 

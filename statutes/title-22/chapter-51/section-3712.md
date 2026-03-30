@@ -3,9 +3,9 @@ title: "Section 3712 - Panama Canal Revolving Fund"
 usc_title: 22
 usc_section: "3712"
 chapter: 51
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 3712"
-generated_at: "2026-03-30T05:55:51.112Z"
+generated_at: "2026-03-30T05:58:27.751Z"
 status: "active"
 ---
 

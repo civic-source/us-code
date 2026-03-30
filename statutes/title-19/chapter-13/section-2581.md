@@ -3,9 +3,9 @@ title: "Section 2581 - Auction of import licenses"
 usc_title: 19
 usc_section: "2581"
 chapter: 13
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "19 U.S.C. § 2581"
-generated_at: "2026-03-30T05:55:33.017Z"
+generated_at: "2026-03-30T05:57:58.589Z"
 status: "active"
 ---
 

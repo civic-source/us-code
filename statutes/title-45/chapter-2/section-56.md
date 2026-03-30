@@ -3,9 +3,9 @@ title: "Section 56 - Actions; limitation; concurrent jurisdiction of courts"
 usc_title: 45
 usc_section: "56"
 chapter: 2
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "45 U.S.C. § 56"
-generated_at: "2026-03-30T05:56:13.038Z"
+generated_at: "2026-03-30T05:58:51.974Z"
 status: "active"
 ---
 

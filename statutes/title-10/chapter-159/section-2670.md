@@ -3,9 +3,9 @@ title: "Section 2670 - Use of facilities by private organizations; use as pollin
 usc_title: 10
 usc_section: "2670"
 chapter: 159
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 2670"
-generated_at: "2026-03-30T05:55:13.319Z"
+generated_at: "2026-03-30T05:57:28.127Z"
 status: "active"
 ---
 

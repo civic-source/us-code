@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T05:56:22.607Z"
+generated_at: "2026-03-30T05:59:08.716Z"
 status: "active"
 ---
 
@@ -224,7 +224,7 @@ For purposes of this subchapter—
 - **(u)**
   - **(1)** The conditions described in this paragraph for a State plan are as follows:
     - **(A)** The State is complying with the requirement of section 1397ee(d)(1) of this title .
-    - **(B)** The plan provides for such reporting of information about expenditures and payments attributable to the operation of this subsection as the Secretary deems necessary in order to carry out the fourth sentence of subsection (b)n.
+    - **(B)** The plan provides for such reporting of information about expenditures and payments attributable to the operation of this subsection as the Secretary deems necessary in order to carry out the fourth sentence of subsection (b).
   - **(2)**
     - **(A)** For purposes of subsection (b), the expenditures described in this subparagraph are expenditures for medical assistance for optional targeted low-income children described in subparagraph (B).
     - **(B)** For purposes of this paragraph, the term “optional targeted low-income child” means a targeted low-income child as defined in section 1397jj(b)(1) of this title (determined without regard to that portion of subparagraph (C) of such section concerning eligibility for medical assistance under this subchapter) who would not qualify for medical assistance under the State plan under this subchapter as in effect on March 31, 1997 (but taking into account the expansion of age of eligibility effected through the operation of section 1396a( l )(1)(D) of this title). Such term excludes any child eligible for medical assistance only by reason of section 1396a(a)(10)(A)(ii)(XIX) of this title .

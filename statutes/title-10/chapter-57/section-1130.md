@@ -3,9 +3,9 @@ title: "Section 1130 - Consideration of proposals for decorations not previously
 usc_title: 10
 usc_section: "1130"
 chapter: 57
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 1130"
-generated_at: "2026-03-30T05:55:13.267Z"
+generated_at: "2026-03-30T05:57:28.076Z"
 status: "active"
 ---
 

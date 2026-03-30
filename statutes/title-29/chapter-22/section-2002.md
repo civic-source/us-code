@@ -3,9 +3,9 @@ title: "Section 2002 - Prohibitions on lie detector use"
 usc_title: 29
 usc_section: "2002"
 chapter: 22
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "29 U.S.C. § 2002"
-generated_at: "2026-03-30T05:55:54.289Z"
+generated_at: "2026-03-30T05:58:33.518Z"
 status: "active"
 ---
 

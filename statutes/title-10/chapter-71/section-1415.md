@@ -3,9 +3,9 @@ title: "Section 1415 - Lump sum payment of certain retired pay"
 usc_title: 10
 usc_section: "1415"
 chapter: 71
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 1415"
-generated_at: "2026-03-30T05:55:13.274Z"
+generated_at: "2026-03-30T05:57:28.083Z"
 status: "active"
 ---
 

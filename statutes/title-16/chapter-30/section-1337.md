@@ -3,9 +3,9 @@ title: "Section 1337 - Joint advisory board; appointment; membership; functions;
 usc_title: 16
 usc_section: "1337"
 chapter: 30
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 1337"
-generated_at: "2026-03-30T05:55:38.201Z"
+generated_at: "2026-03-30T05:58:15.482Z"
 status: "active"
 ---
 

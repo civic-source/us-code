@@ -3,9 +3,9 @@ title: "Section 14665 - Grants for the assistance of organizations to find missi
 usc_title: 42
 usc_section: "14665"
 chapter: 140
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 14665"
-generated_at: "2026-03-30T05:56:22.975Z"
+generated_at: "2026-03-30T05:59:09.081Z"
 status: "active"
 ---
 

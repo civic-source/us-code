@@ -3,9 +3,9 @@ title: "Section 5867 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 
 usc_title: 10
 usc_section: "5867"
 chapter: 547
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 5867"
-generated_at: "2026-03-30T05:55:13.339Z"
+generated_at: "2026-03-30T05:57:28.147Z"
 status: "repealed"
 ---
 

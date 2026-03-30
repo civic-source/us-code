@@ -3,9 +3,9 @@ title: "Section 14 - Unlawful acts and omissions; breach of fiduciary duty"
 usc_title: 7
 usc_section: "14"
 chapter: 50
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 14"
-generated_at: "2026-03-30T05:55:20.480Z"
+generated_at: "2026-03-30T05:57:36.213Z"
 status: "active"
 ---
 

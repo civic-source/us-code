@@ -3,9 +3,9 @@ title: "Section 231c - Computation of spouse and survivor annuities"
 usc_title: 45
 usc_section: "231c"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "45 U.S.C. § 231c"
-generated_at: "2026-03-30T05:56:13.043Z"
+generated_at: "2026-03-30T05:58:51.978Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5793 - Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 
 usc_title: 10
 usc_section: "5793"
 chapter: 545
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 5793"
-generated_at: "2026-03-30T05:55:13.339Z"
+generated_at: "2026-03-30T05:57:28.147Z"
 status: "repealed"
 ---
 

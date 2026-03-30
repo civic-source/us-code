@@ -3,9 +3,9 @@ title: "Section 356c - Discontinuance or interruption in the production of life-
 usc_title: 21
 usc_section: "356c"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "21 U.S.C. § 356c"
-generated_at: "2026-03-30T05:55:48.543Z"
+generated_at: "2026-03-30T05:58:21.100Z"
 status: "active"
 ---
 

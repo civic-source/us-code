@@ -3,9 +3,9 @@ title: "Section 2151r - Sahel development program; planning"
 usc_title: 22
 usc_section: "2151r"
 chapter: 32
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "22 U.S.C. § 2151r"
-generated_at: "2026-03-30T05:55:51.070Z"
+generated_at: "2026-03-30T05:58:27.710Z"
 status: "active"
 ---
 

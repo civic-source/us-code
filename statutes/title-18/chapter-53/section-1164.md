@@ -3,9 +3,9 @@ title: "Section 1164 - Destroying boundary and warning signs"
 usc_title: 18
 usc_section: "1164"
 chapter: 53
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "18 U.S.C. § 1164"
-generated_at: "2026-03-30T05:55:43.130Z"
+generated_at: "2026-03-30T05:57:53.808Z"
 status: "active"
 ---
 

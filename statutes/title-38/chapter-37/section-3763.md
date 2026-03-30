@@ -3,9 +3,9 @@ title: "Section 3763 - Native American Veteran Housing Loan Program Account"
 usc_title: 38
 usc_section: "3763"
 chapter: 37
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 3763"
-generated_at: "2026-03-30T05:56:09.503Z"
+generated_at: "2026-03-30T05:58:47.090Z"
 status: "active"
 ---
 

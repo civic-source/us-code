@@ -3,9 +3,9 @@ title: "Section 8071 - Repealed. Pub. L. 90–130 , § 1(25), Nov. 8, 1967 , 81 
 usc_title: 10
 usc_section: "8071"
 chapter: 807
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 8071"
-generated_at: "2026-03-30T05:55:13.350Z"
+generated_at: "2026-03-30T05:57:28.158Z"
 status: "repealed"
 ---
 

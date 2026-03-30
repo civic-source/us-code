@@ -3,9 +3,9 @@ title: "Section 1116 - Repealed. Pub. L. 100–690, title I , § 1007(c)(1), Nov
 usc_title: 21
 usc_section: "1116"
 chapter: 16
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "21 U.S.C. § 1116"
-generated_at: "2026-03-30T05:55:48.592Z"
+generated_at: "2026-03-30T05:58:21.147Z"
 status: "repealed"
 ---
 

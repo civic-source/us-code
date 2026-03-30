@@ -3,9 +3,9 @@ title: "Section 3172 - Duties of Secretary of Agriculture"
 usc_title: 7
 usc_section: "3172"
 chapter: 64
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 3172"
-generated_at: "2026-03-30T05:55:20.505Z"
+generated_at: "2026-03-30T05:57:36.238Z"
 status: "active"
 ---
 

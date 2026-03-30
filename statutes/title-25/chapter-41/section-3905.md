@@ -3,9 +3,9 @@ title: "Section 3905 - Contract authority"
 usc_title: 25
 usc_section: "3905"
 chapter: 41
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "25 U.S.C. § 3905"
-generated_at: "2026-03-30T05:55:47.726Z"
+generated_at: "2026-03-30T05:58:20.351Z"
 status: "active"
 ---
 

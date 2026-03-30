@@ -3,9 +3,9 @@ title: "Section 4107 - Verification of consent of offender to transfer from the 
 usc_title: 18
 usc_section: "4107"
 chapter: 306
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "18 U.S.C. § 4107"
-generated_at: "2026-03-30T05:55:43.167Z"
+generated_at: "2026-03-30T05:57:53.841Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 561a - Contributions from local interests; reduction to meet low
 usc_title: 33
 usc_section: "561a"
 chapter: 12
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "33 U.S.C. § 561a"
-generated_at: "2026-03-30T05:56:05.843Z"
+generated_at: "2026-03-30T05:58:42.598Z"
 status: "active"
 ---
 

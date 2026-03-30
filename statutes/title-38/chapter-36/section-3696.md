@@ -3,9 +3,9 @@ title: "Section 3696 - Limitation on certain advertising, sales, and enrollment 
 usc_title: 38
 usc_section: "3696"
 chapter: 36
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 3696"
-generated_at: "2026-03-30T05:56:09.500Z"
+generated_at: "2026-03-30T05:58:47.086Z"
 status: "active"
 ---
 

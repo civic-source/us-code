@@ -3,9 +3,9 @@ title: "Section 2154a - Capitalization of System institutions"
 usc_title: 12
 usc_section: "2154a"
 chapter: 23
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "12 U.S.C. § 2154a"
-generated_at: "2026-03-30T05:55:27.033Z"
+generated_at: "2026-03-30T05:57:43.402Z"
 status: "active"
 ---
 

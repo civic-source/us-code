@@ -3,9 +3,9 @@ title: "Section 1395kkk - Independent Payment Advisory Board"
 usc_title: 42
 usc_section: "1395kkk"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1395kkk"
-generated_at: "2026-03-30T05:56:22.598Z"
+generated_at: "2026-03-30T05:59:08.706Z"
 status: "active"
 ---
 

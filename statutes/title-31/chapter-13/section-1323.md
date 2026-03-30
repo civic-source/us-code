@@ -3,9 +3,9 @@ title: "Section 1323 - Trust funds for certain fees, donations, quasi-public amo
 usc_title: 31
 usc_section: "1323"
 chapter: 13
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "31 U.S.C. § 1323"
-generated_at: "2026-03-30T05:56:05.077Z"
+generated_at: "2026-03-30T05:58:41.060Z"
 status: "active"
 ---
 

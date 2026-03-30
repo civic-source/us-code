@@ -3,9 +3,9 @@ title: "Section 488e - Prohibitions and penalty"
 usc_title: 6
 usc_section: "488e"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "6 U.S.C. § 488e"
-generated_at: "2026-03-30T05:55:09.981Z"
+generated_at: "2026-03-30T05:57:36.671Z"
 status: "active"
 ---
 

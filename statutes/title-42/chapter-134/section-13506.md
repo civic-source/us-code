@@ -3,9 +3,9 @@ title: "Section 13506 - Definitions"
 usc_title: 42
 usc_section: "13506"
 chapter: 134
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 13506"
-generated_at: "2026-03-30T05:56:22.957Z"
+generated_at: "2026-03-30T05:59:09.064Z"
 status: "active"
 ---
 

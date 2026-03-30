@@ -3,9 +3,9 @@ title: "Section 565 - Expenses of the Service"
 usc_title: 28
 usc_section: "565"
 chapter: 37
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "28 U.S.C. § 565"
-generated_at: "2026-03-30T05:55:54.914Z"
+generated_at: "2026-03-30T05:58:31.772Z"
 status: "active"
 ---
 

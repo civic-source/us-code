@@ -3,9 +3,9 @@ title: "Section 1609 - Limitation of actions"
 usc_title: 43
 usc_section: "1609"
 chapter: 33
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "43 U.S.C. § 1609"
-generated_at: "2026-03-30T05:56:12.344Z"
+generated_at: "2026-03-30T05:58:49.652Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-30T05:55:13.304Z"
+generated_at: "2026-03-30T05:57:28.112Z"
 status: "active"
 ---
 
@@ -72,6 +72,6 @@ status: "active"
   - **(3)** The term “milestone decision authority”, with respect to a major defense acquisition program, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program, including authority to approve entry of the program into the next phase of the acquisition process.
   - **(4)** The term “Milestone B approval” has the meaning provided that term in section 2366(e)(7) of this title .
   - **(5)** The term “core logistics capabilities” means the core logistics capabilities identified under section 2464(a) of this title .
-  - **(6)** The term “fielding target”’ has the meaning given that term in section 2448a(a) of this title .
+  - **(6)** The term “fielding target” has the meaning given that term in section 2448a(a) of this title .
   - **(7)** The term “major system component” has the meaning given that term in section 2446a(b)(3) of this title .
   - **(8)** The term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title .

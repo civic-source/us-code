@@ -3,9 +3,9 @@ title: "Section 5000A - Requirement to maintain minimum essential coverage"
 usc_title: 26
 usc_section: "5000A"
 chapter: 48
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "26 U.S.C. § 5000A"
-generated_at: "2026-03-30T05:56:02.443Z"
+generated_at: "2026-03-30T05:58:37.549Z"
 status: "active"
 ---
 

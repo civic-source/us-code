@@ -3,9 +3,9 @@ title: "Section 331 - Service, supplies, and facilities at remote places"
 usc_title: 49
 usc_section: "331"
 chapter: 3
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "49 U.S.C. § 331"
-generated_at: "2026-03-30T05:56:29.530Z"
+generated_at: "2026-03-30T05:59:26.562Z"
 status: "active"
 ---
 

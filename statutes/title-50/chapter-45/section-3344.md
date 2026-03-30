@@ -3,9 +3,9 @@ title: "Section 3344 - Classification training program"
 usc_title: 50
 usc_section: "3344"
 chapter: 45
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "50 U.S.C. § 3344"
-generated_at: "2026-03-30T05:56:27.717Z"
+generated_at: "2026-03-30T05:59:13.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1053 - Financial institution charges incurred because of Governm
 usc_title: 10
 usc_section: "1053"
 chapter: 53
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 1053"
-generated_at: "2026-03-30T05:55:13.259Z"
+generated_at: "2026-03-30T05:57:28.068Z"
 status: "active"
 ---
 

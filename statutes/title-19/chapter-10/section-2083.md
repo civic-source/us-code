@@ -3,9 +3,9 @@ title: "Section 2083 - Annual national trade and customs law violation estimates
 usc_title: 19
 usc_section: "2083"
 chapter: 10
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "19 U.S.C. § 2083"
-generated_at: "2026-03-30T05:55:33.002Z"
+generated_at: "2026-03-30T05:57:58.574Z"
 status: "active"
 ---
 

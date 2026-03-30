@@ -3,9 +3,9 @@ title: "Section 1309 - Certification and training of blasters"
 usc_title: 30
 usc_section: "1309"
 chapter: 25
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "30 U.S.C. § 1309"
-generated_at: "2026-03-30T05:55:55.257Z"
+generated_at: "2026-03-30T05:58:30.278Z"
 status: "active"
 ---
 

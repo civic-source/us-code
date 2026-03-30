@@ -3,9 +3,9 @@ title: "Section 695q - Research studies on Clear Lake Refuge; report to Congress
 usc_title: 16
 usc_section: "695q"
 chapter: 6
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 695q"
-generated_at: "2026-03-30T05:55:38.161Z"
+generated_at: "2026-03-30T05:58:15.410Z"
 status: "active"
 ---
 

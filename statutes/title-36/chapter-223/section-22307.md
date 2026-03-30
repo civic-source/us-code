@@ -3,9 +3,9 @@ title: "Section 22307 - Restrictions"
 usc_title: 36
 usc_section: "22307"
 chapter: 223
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "36 U.S.C. § 22307"
-generated_at: "2026-03-30T05:56:08.244Z"
+generated_at: "2026-03-30T05:58:44.903Z"
 status: "active"
 ---
 

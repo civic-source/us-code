@@ -3,9 +3,9 @@ title: "Section 285 - Omitted"
 usc_title: 24
 usc_section: "285"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "24 U.S.C. § 285"
-generated_at: "2026-03-30T05:55:45.863Z"
+generated_at: "2026-03-30T05:58:21.492Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4586 - Repealed. Pub. L. 98–24 , § 2(c)(1), Apr. 26, 1983 , 9
 usc_title: 42
 usc_section: "4586"
 chapter: 60
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 4586"
-generated_at: "2026-03-30T05:56:22.753Z"
+generated_at: "2026-03-30T05:59:08.861Z"
 status: "repealed"
 ---
 

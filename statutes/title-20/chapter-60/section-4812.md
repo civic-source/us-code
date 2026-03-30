@@ -3,9 +3,9 @@ title: "Section 4812 - Repealed. Pub. L. 103–382, title III , § 365, Oct. 20,
 usc_title: 20
 usc_section: "4812"
 chapter: 60
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 4812"
-generated_at: "2026-03-30T05:55:36.045Z"
+generated_at: "2026-03-30T05:57:56.373Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 304 - Federal information centers"
 usc_title: 40
 usc_section: "304"
 chapter: 3
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "40 U.S.C. § 304"
-generated_at: "2026-03-30T05:56:09.901Z"
+generated_at: "2026-03-30T05:58:45.302Z"
 status: "active"
 ---
 

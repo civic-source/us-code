@@ -3,9 +3,9 @@ title: "Section 18322 - Space Launch System as follow-on launch vehicle to the S
 usc_title: 42
 usc_section: "18322"
 chapter: 159
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 18322"
-generated_at: "2026-03-30T05:56:23.024Z"
+generated_at: "2026-03-30T05:59:09.129Z"
 status: "active"
 ---
 

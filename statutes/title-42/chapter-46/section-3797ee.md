@@ -3,9 +3,9 @@ title: "Section 3797ee - Sex offender apprehension grants"
 usc_title: 42
 usc_section: "3797ee"
 chapter: 46
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 3797ee"
-generated_at: "2026-03-30T05:56:22.742Z"
+generated_at: "2026-03-30T05:59:08.850Z"
 status: "active"
 ---
 

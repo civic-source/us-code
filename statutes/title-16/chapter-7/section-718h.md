@@ -3,9 +3,9 @@ title: "Section 718h - Cooperation"
 usc_title: 16
 usc_section: "718h"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 718h"
-generated_at: "2026-03-30T05:55:38.166Z"
+generated_at: "2026-03-30T05:58:15.414Z"
 status: "active"
 ---
 

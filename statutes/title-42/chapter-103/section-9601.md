@@ -3,9 +3,9 @@ title: "Section 9601 - Definitions"
 usc_title: 42
 usc_section: "9601"
 chapter: 103
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 9601"
-generated_at: "2026-03-30T05:56:22.876Z"
+generated_at: "2026-03-30T05:59:08.985Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 934 - Right of way through public lands granted to railroads"
 usc_title: 43
 usc_section: "934"
 chapter: 22
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "43 U.S.C. § 934"
-generated_at: "2026-03-30T05:56:12.332Z"
+generated_at: "2026-03-30T05:58:49.638Z"
 status: "active"
 ---
 

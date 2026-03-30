@@ -3,9 +3,9 @@ title: "Section 6598 - Designation by Sergeant at Arms and Doorkeeper of Senate 
 usc_title: 2
 usc_section: "6598"
 chapter: 65
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "2 U.S.C. § 6598"
-generated_at: "2026-03-30T05:55:03.446Z"
+generated_at: "2026-03-30T05:56:57.598Z"
 status: "active"
 ---
 

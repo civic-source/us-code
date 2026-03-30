@@ -3,9 +3,9 @@ title: "Section 143 - Enhancement of Federal and non-Federal cybersecurity"
 usc_title: 6
 usc_section: "143"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "6 U.S.C. § 143"
-generated_at: "2026-03-30T05:55:09.965Z"
+generated_at: "2026-03-30T05:57:36.654Z"
 status: "active"
 ---
 

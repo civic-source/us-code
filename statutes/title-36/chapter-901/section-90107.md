@@ -3,9 +3,9 @@ title: "Section 90107 - Service of process"
 usc_title: 36
 usc_section: "90107"
 chapter: 901
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "36 U.S.C. § 90107"
-generated_at: "2026-03-30T05:56:08.249Z"
+generated_at: "2026-03-30T05:58:44.909Z"
 status: "active"
 ---
 

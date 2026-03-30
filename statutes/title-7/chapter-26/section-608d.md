@@ -3,9 +3,9 @@ title: "Section 608d - Books and records"
 usc_title: 7
 usc_section: "608d"
 chapter: 26
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 608d"
-generated_at: "2026-03-30T05:55:20.426Z"
+generated_at: "2026-03-30T05:57:36.160Z"
 status: "active"
 ---
 

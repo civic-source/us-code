@@ -3,9 +3,9 @@ title: "Section 112 - Department of Defense: seal"
 usc_title: 10
 usc_section: "112"
 chapter: 2
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 112"
-generated_at: "2026-03-30T05:55:13.223Z"
+generated_at: "2026-03-30T05:57:28.034Z"
 status: "active"
 ---
 

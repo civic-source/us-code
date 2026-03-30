@@ -3,9 +3,9 @@ title: "Section 12302 - Ready Reserve"
 usc_title: 10
 usc_section: "12302"
 chapter: 1209
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 12302"
-generated_at: "2026-03-30T05:55:13.360Z"
+generated_at: "2026-03-30T05:57:28.168Z"
 status: "active"
 ---
 

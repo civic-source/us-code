@@ -3,9 +3,9 @@ title: "Section 5013a - Secretary of the Navy: powers with respect to Coast Guar
 usc_title: 10
 usc_section: "5013a"
 chapter: 503
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 5013a"
-generated_at: "2026-03-30T05:55:13.336Z"
+generated_at: "2026-03-30T05:57:28.144Z"
 status: "active"
 ---
 

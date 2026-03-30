@@ -3,9 +3,9 @@ title: "Section 10708 - Administrative provisions"
 usc_title: 42
 usc_section: "10708"
 chapter: 113
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 10708"
-generated_at: "2026-03-30T05:56:22.910Z"
+generated_at: "2026-03-30T05:59:09.019Z"
 status: "active"
 ---
 

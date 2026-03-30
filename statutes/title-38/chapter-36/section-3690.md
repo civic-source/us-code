@@ -3,9 +3,9 @@ title: "Section 3690 - Overcharges by educational institutions; discontinuance o
 usc_title: 38
 usc_section: "3690"
 chapter: 36
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 3690"
-generated_at: "2026-03-30T05:56:09.500Z"
+generated_at: "2026-03-30T05:58:47.086Z"
 status: "active"
 ---
 

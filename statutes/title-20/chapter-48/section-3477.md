@@ -3,9 +3,9 @@ title: "Section 3477 - Acquisition and maintenance of property"
 usc_title: 20
 usc_section: "3477"
 chapter: 48
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 3477"
-generated_at: "2026-03-30T05:55:36.038Z"
+generated_at: "2026-03-30T05:57:56.367Z"
 status: "active"
 ---
 

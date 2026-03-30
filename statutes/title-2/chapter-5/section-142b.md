@@ -3,9 +3,9 @@ title: "Section 142b - Certifying officers of the Library of Congress; accountab
 usc_title: 2
 usc_section: "142b"
 chapter: 5
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "2 U.S.C. § 142b"
-generated_at: "2026-03-30T05:55:03.401Z"
+generated_at: "2026-03-30T05:56:57.551Z"
 status: "active"
 ---
 

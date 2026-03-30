@@ -3,9 +3,9 @@ title: "Section 948i - Who may serve on military commissions"
 usc_title: 10
 usc_section: "948i"
 chapter: 47
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 948i"
-generated_at: "2026-03-30T05:55:13.254Z"
+generated_at: "2026-03-30T05:57:28.063Z"
 status: "active"
 ---
 

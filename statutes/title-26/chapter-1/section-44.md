@@ -3,9 +3,9 @@ title: "Section 44 - Expenditures to provide access to disabled individuals"
 usc_title: 26
 usc_section: "44"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "26 U.S.C. § 44"
-generated_at: "2026-03-30T05:56:02.272Z"
+generated_at: "2026-03-30T05:58:37.373Z"
 status: "active"
 ---
 

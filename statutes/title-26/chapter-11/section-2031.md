@@ -3,9 +3,9 @@ title: "Section 2031 - Definition of gross estate"
 usc_title: 26
 usc_section: "2031"
 chapter: 11
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "26 U.S.C. § 2031"
-generated_at: "2026-03-30T05:56:02.413Z"
+generated_at: "2026-03-30T05:58:37.518Z"
 status: "active"
 ---
 

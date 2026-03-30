@@ -3,9 +3,9 @@ title: "Section 13024 - Authorization of appropriations"
 usc_title: 42
 usc_section: "13024"
 chapter: 132
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 13024"
-generated_at: "2026-03-30T05:56:22.949Z"
+generated_at: "2026-03-30T05:59:09.056Z"
 status: "active"
 ---
 

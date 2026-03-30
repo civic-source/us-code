@@ -3,9 +3,9 @@ title: "Section 905 - Art. 105. Misconduct as prisoner"
 usc_title: 10
 usc_section: "905"
 chapter: 47
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 905"
-generated_at: "2026-03-30T05:55:13.252Z"
+generated_at: "2026-03-30T05:57:28.061Z"
 status: "active"
 ---
 

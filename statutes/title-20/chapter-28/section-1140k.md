@@ -3,9 +3,9 @@ title: "Section 1140k - Definition of student with a print disability"
 usc_title: 20
 usc_section: "1140k"
 chapter: 28
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 1140k"
-generated_at: "2026-03-30T05:55:36.010Z"
+generated_at: "2026-03-30T05:57:56.339Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30 - South Santa Clara County recycled water project"
 usc_title: 43
 usc_section: "30"
 chapter: 12
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "43 U.S.C. § 30"
-generated_at: "2026-03-30T05:56:12.318Z"
+generated_at: "2026-03-30T05:58:49.623Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 403b - Administration, protection, and development; Federal Powe
 usc_title: 16
 usc_section: "403b"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 403b"
-generated_at: "2026-03-30T05:55:38.066Z"
+generated_at: "2026-03-30T05:58:15.317Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1118 - Presumptions of service connection for illnesses associat
 usc_title: 38
 usc_section: "1118"
 chapter: 11
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "38 U.S.C. § 1118"
-generated_at: "2026-03-30T05:56:09.474Z"
+generated_at: "2026-03-30T05:58:47.061Z"
 status: "active"
 ---
 

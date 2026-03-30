@@ -3,9 +3,9 @@ title: "Section 154 - Adverse interest and conduct of officers"
 usc_title: 18
 usc_section: "154"
 chapter: 9
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "18 U.S.C. § 154"
-generated_at: "2026-03-30T05:55:43.111Z"
+generated_at: "2026-03-30T05:57:53.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6306 - Administrative procedure and judicial review"
 usc_title: 42
 usc_section: "6306"
 chapter: 77
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 6306"
-generated_at: "2026-03-30T05:56:22.795Z"
+generated_at: "2026-03-30T05:59:08.902Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 432 - Repealed. Pub. L. 86–252 , § 1, Sept. 9, 1959 , 73 Stat
 usc_title: 48
 usc_section: "432"
 chapter: 2
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "48 U.S.C. § 432"
-generated_at: "2026-03-30T05:56:26.032Z"
+generated_at: "2026-03-30T05:59:14.395Z"
 status: "repealed"
 ---
 

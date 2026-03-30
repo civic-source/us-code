@@ -3,9 +3,9 @@ title: "Section 1087a - Program authority"
 usc_title: 20
 usc_section: "1087a"
 chapter: 28
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 1087a"
-generated_at: "2026-03-30T05:55:35.992Z"
+generated_at: "2026-03-30T05:57:56.319Z"
 status: "active"
 ---
 

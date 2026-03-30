@@ -3,9 +3,9 @@ title: "Section 196 - Concessions, fees, and voluntary services"
 usc_title: 20
 usc_section: "196"
 chapter: 11
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 196"
-generated_at: "2026-03-30T05:55:35.959Z"
+generated_at: "2026-03-30T05:57:56.287Z"
 status: "active"
 ---
 

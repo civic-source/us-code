@@ -3,9 +3,9 @@ title: "Section 1382k - Repealed. Pub. L. 97–123 , § 2(h), Dec. 29, 1981 , 95
 usc_title: 42
 usc_section: "1382k"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 1382k"
-generated_at: "2026-03-30T05:56:22.526Z"
+generated_at: "2026-03-30T05:59:08.634Z"
 status: "repealed"
 ---
 

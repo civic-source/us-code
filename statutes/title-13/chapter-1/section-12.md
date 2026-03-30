@@ -3,9 +3,9 @@ title: "Section 12 - Mechanical and electronic development"
 usc_title: 13
 usc_section: "12"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "13 U.S.C. § 12"
-generated_at: "2026-03-30T05:55:22.848Z"
+generated_at: "2026-03-30T05:57:39.123Z"
 status: "active"
 ---
 

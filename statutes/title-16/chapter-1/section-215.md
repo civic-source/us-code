@@ -3,9 +3,9 @@ title: "Section 215 - Improvements and preservation of lands and buildings"
 usc_title: 16
 usc_section: "215"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 215"
-generated_at: "2026-03-30T05:55:38.056Z"
+generated_at: "2026-03-30T05:58:15.307Z"
 status: "active"
 ---
 

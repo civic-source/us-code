@@ -3,9 +3,9 @@ title: "Section 10341 - Findings"
 usc_title: 42
 usc_section: "10341"
 chapter: 109
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 10341"
-generated_at: "2026-03-30T05:56:22.904Z"
+generated_at: "2026-03-30T05:59:09.013Z"
 status: "active"
 ---
 

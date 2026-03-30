@@ -3,9 +3,9 @@ title: "Section 6 - Information from other Federal departments and agencies; acq
 usc_title: 13
 usc_section: "6"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "13 U.S.C. § 6"
-generated_at: "2026-03-30T05:55:22.848Z"
+generated_at: "2026-03-30T05:57:39.123Z"
 status: "active"
 ---
 

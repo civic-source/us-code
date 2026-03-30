@@ -3,9 +3,9 @@ title: "Section 611 - Permits to cut and remove timber; citizens of Idaho and Wy
 usc_title: 16
 usc_section: "611"
 chapter: 4
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 611"
-generated_at: "2026-03-30T05:55:38.154Z"
+generated_at: "2026-03-30T05:58:15.403Z"
 status: "active"
 ---
 

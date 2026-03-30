@@ -3,9 +3,9 @@ title: "Section 11261 - Research program"
 usc_title: 42
 usc_section: "11261"
 chapter: 118
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 11261"
-generated_at: "2026-03-30T05:56:22.915Z"
+generated_at: "2026-03-30T05:59:09.023Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4771 - Acceptance of donations: land for mobilization, training,
 usc_title: 10
 usc_section: "4771"
 chapter: 449
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 4771"
-generated_at: "2026-03-30T05:55:13.336Z"
+generated_at: "2026-03-30T05:57:28.144Z"
 status: "active"
 ---
 

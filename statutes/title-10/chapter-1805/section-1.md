@@ -3,9 +3,9 @@ title: "Section 1 - Reserves traveling for inactive-duty training: space-require
 usc_title: 10
 usc_section: "1"
 chapter: 1805
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T05:55:13.368Z"
+generated_at: "2026-03-30T05:57:28.176Z"
 status: "active"
 ---
 

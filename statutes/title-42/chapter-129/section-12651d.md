@@ -3,9 +3,9 @@ title: "Section 12651d - Authorities and duties of the Chief Executive Officer"
 usc_title: 42
 usc_section: "12651d"
 chapter: 129
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 12651d"
-generated_at: "2026-03-30T05:56:22.937Z"
+generated_at: "2026-03-30T05:59:09.044Z"
 status: "active"
 ---
 

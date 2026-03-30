@@ -3,9 +3,9 @@ title: "Section 19j - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19j"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 19j"
-generated_at: "2026-03-30T05:55:38.046Z"
+generated_at: "2026-03-30T05:58:15.291Z"
 status: "repealed"
 ---
 

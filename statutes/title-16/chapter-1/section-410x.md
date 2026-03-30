@@ -3,9 +3,9 @@ title: "Section 410x - Authorization of appropriations"
 usc_title: 16
 usc_section: "410x"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 410x"
-generated_at: "2026-03-30T05:55:38.071Z"
+generated_at: "2026-03-30T05:58:15.323Z"
 status: "active"
 ---
 

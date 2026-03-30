@@ -3,9 +3,9 @@ title: "Section 1488 - Repealed. Pub. L. 91–271, title II , § 204(b), June 2,
 usc_title: 19
 usc_section: "1488"
 chapter: 4
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "19 U.S.C. § 1488"
-generated_at: "2026-03-30T05:55:32.981Z"
+generated_at: "2026-03-30T05:57:58.555Z"
 status: "repealed"
 ---
 

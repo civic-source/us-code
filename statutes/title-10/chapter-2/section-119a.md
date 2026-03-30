@@ -3,15 +3,15 @@ title: "Section 119a - Programs managed under alternative compensatory control m
 usc_title: 10
 usc_section: "119a"
 chapter: 2
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 119a"
-generated_at: "2026-03-30T05:55:13.224Z"
+generated_at: "2026-03-30T05:57:28.035Z"
 status: "active"
 ---
 
 # § 119a. Programs managed under alternative compensatory control measures: congressional oversight
 
-- **(a)**
+- **(a)** 1 1 So in original. Probably should be “ACCMS.—”.
   - **(1)** Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the programs being managed under alternative compensatory control measures in the Department of Defense.
   - **(2)** Each report under paragraph (1) shall set forth the following:
     - **(A)** The total amount requested for programs being managed under alternative compensatory control measures in the Department in the budget of the President under section 1105 of title 31 for the fiscal year beginning in the fiscal year in which such report is submitted.
@@ -26,7 +26,7 @@ status: "active"
   - **(3)** In the case of a report under paragraph (1) submitted in a year during which the budget of the President for the fiscal year concerned does not, because of multiyear budgeting for the Department, include a full budget request for the Department, the report required by paragraph (1) shall set forth—
     - **(A)** the total amount already appropriated for the next fiscal year for programs being managed under alternative compensatory control measures in the Department, and any additional amount requested in that budget for such programs for such fiscal year; and
     - **(B)** for each program that is a program being managed under alternative compensatory control measures in the Department, the information specified in paragraph (2)(B).
-- **(b)**
+- **(b)** 1
   - **(1)** Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program being managed under alternative compensatory control measures in the Department, provides—
     - **(A)** notice of the designation of the program as a program being managed under alternative compensatory control measures in the Department; and
     - **(B)** a justification for such designation.

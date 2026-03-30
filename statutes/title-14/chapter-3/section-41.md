@@ -3,9 +3,9 @@ title: "Section 41 - Grades and ratings"
 usc_title: 14
 usc_section: "41"
 chapter: 3
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "14 U.S.C. § 41"
-generated_at: "2026-03-30T05:55:22.793Z"
+generated_at: "2026-03-30T05:57:39.483Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13631 - Requirement to provide service coordinators"
 usc_title: 42
 usc_section: "13631"
 chapter: 135
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "42 U.S.C. § 13631"
-generated_at: "2026-03-30T05:56:22.958Z"
+generated_at: "2026-03-30T05:59:09.065Z"
 status: "active"
 ---
 

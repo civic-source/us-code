@@ -3,9 +3,9 @@ title: "Section 6006 - Permissive terms in plans"
 usc_title: 7
 usc_section: "6006"
 chapter: 89
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "7 U.S.C. § 6006"
-generated_at: "2026-03-30T05:55:20.524Z"
+generated_at: "2026-03-30T05:57:36.258Z"
 status: "active"
 ---
 

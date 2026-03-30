@@ -3,9 +3,9 @@ title: "Section 5802 - Definitions"
 usc_title: 20
 usc_section: "5802"
 chapter: 68
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 5802"
-generated_at: "2026-03-30T05:55:36.047Z"
+generated_at: "2026-03-30T05:57:56.376Z"
 status: "active"
 ---
 

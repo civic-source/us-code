@@ -3,9 +3,9 @@ title: "Section 4211 - Short title"
 usc_title: 50
 usc_section: "4211"
 chapter: 52
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "50 U.S.C. § 4211"
-generated_at: "2026-03-30T05:56:27.729Z"
+generated_at: "2026-03-30T05:59:13.246Z"
 status: "active"
 ---
 

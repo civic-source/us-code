@@ -3,9 +3,9 @@ title: "Section 10012 - Fiscal relief"
 usc_title: 20
 usc_section: "10012"
 chapter: 80
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "20 U.S.C. § 10012"
-generated_at: "2026-03-30T05:55:36.086Z"
+generated_at: "2026-03-30T05:57:56.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 187 - Strategic Materials Protection Board"
 usc_title: 10
 usc_section: "187"
 chapter: 7
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 187"
-generated_at: "2026-03-30T05:55:13.230Z"
+generated_at: "2026-03-30T05:57:28.041Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
     - **(C)** A designee of the Assistant Secretary of the Army for Acquisition, Technology, and Logistics.
     - **(D)** A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
-    - **(E)** A designee of the Assistant Secretary of the Air Force for Acquisition.
+    - **(E)** A designee of the Assistant Secretary of the Air Force for Acquisition. 1 1 See Change of Name note below.
 - **(b)** In addition to other matters assigned to it by the Secretary of Defense, the Board shall—
   - **(1)** determine the need to provide a long term secure supply of materials designated as critical to national security to ensure that national defense needs are met;
   - **(2)** analyze the risk associated with each material designated as critical to national security and the effect on national defense that the nonavailability of such material would have;

@@ -3,9 +3,9 @@ title: "Section 8012 - Department of the Air Force: seal"
 usc_title: 10
 usc_section: "8012"
 chapter: 803
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 8012"
-generated_at: "2026-03-30T05:55:13.349Z"
+generated_at: "2026-03-30T05:57:28.157Z"
 status: "active"
 ---
 

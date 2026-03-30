@@ -3,9 +3,9 @@ title: "Section 1725 - General powers of Board"
 usc_title: 2
 usc_section: "1725"
 chapter: 27
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "2 U.S.C. § 1725"
-generated_at: "2026-03-30T05:55:03.426Z"
+generated_at: "2026-03-30T05:56:57.577Z"
 status: "active"
 ---
 

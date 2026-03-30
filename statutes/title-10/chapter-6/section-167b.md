@@ -3,9 +3,9 @@ title: "Section 167b - Unified combatant command for cyber operations"
 usc_title: 10
 usc_section: "167b"
 chapter: 6
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 167b"
-generated_at: "2026-03-30T05:55:13.229Z"
+generated_at: "2026-03-30T05:57:28.039Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
       - **(ii)** Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
       - **(iii)** Exercising authority, direction, and control over the expenditure of funds—
         - **(I)** for forces assigned directly to the cyber command; and
-        - **(II)** for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 1 1 So in original. Should be “2016”. ( Public Law 114–92 ; 129 Stat. 886 ; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+        - **(II)** for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 1 1 So in original. Probably should be “2016”. ( Public Law 114–92 ; 129 Stat. 886 ; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
       - **(iv)** Training and certification of assigned joint forces.
       - **(v)** Conducting specialized courses of instruction for commissioned and noncommissioned officers.
       - **(vi)** Validating requirements.

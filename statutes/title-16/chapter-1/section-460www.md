@@ -3,9 +3,9 @@ title: "Section 460www - Red Cliffs National Conservation Area"
 usc_title: 16
 usc_section: "460www"
 chapter: 1
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "16 U.S.C. § 460www"
-generated_at: "2026-03-30T05:55:38.131Z"
+generated_at: "2026-03-30T05:58:15.381Z"
 status: "active"
 ---
 

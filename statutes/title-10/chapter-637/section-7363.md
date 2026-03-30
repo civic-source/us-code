@@ -3,9 +3,9 @@ title: "Section 7363 - Settlement of claims"
 usc_title: 10
 usc_section: "7363"
 chapter: 637
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "10 U.S.C. § 7363"
-generated_at: "2026-03-30T05:55:13.346Z"
+generated_at: "2026-03-30T05:57:28.153Z"
 status: "active"
 ---
 

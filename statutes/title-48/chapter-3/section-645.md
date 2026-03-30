@@ -3,9 +3,9 @@ title: "Section 645 - Repealed. Pub. L. 86–3 , § 14(f), Mar. 18, 1959 , 73 St
 usc_title: 48
 usc_section: "645"
 chapter: 3
-current_through: "PL 115-8"
+current_through: "PL 115-14"
 classification: "48 U.S.C. § 645"
-generated_at: "2026-03-30T05:56:26.032Z"
+generated_at: "2026-03-30T05:59:14.396Z"
 status: "repealed"
 ---
 
