@@ -3,9 +3,9 @@ title: "Section 460y - Establishment; boundaries"
 usc_title: 16
 usc_section: "460y"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 460y"
-generated_at: "2026-03-30T06:25:32.286Z"
+generated_at: "2026-03-30T06:27:24.295Z"
 status: "active"
 ---
 

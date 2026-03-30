@@ -3,9 +3,9 @@ title: "Section 82 - Repealed. Pub. L. 85–857 , § 14(3), (18), (19), Sept. 2,
 usc_title: 24
 usc_section: "82"
 chapter: 3
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "24 U.S.C. § 82"
-generated_at: "2026-03-30T06:25:34.373Z"
+generated_at: "2026-03-30T06:27:26.368Z"
 status: "repealed"
 ---
 

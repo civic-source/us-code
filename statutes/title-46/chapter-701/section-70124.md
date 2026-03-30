@@ -3,9 +3,9 @@ title: "Section 70124 - Regulations"
 usc_title: 46
 usc_section: "70124"
 chapter: 701
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "46 U.S.C. § 70124"
-generated_at: "2026-03-30T06:26:30.753Z"
+generated_at: "2026-03-30T06:28:22.959Z"
 status: "active"
 ---
 

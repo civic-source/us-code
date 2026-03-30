@@ -3,9 +3,9 @@ title: "Section 171 - Patents for designs"
 usc_title: 35
 usc_section: "171"
 chapter: 16
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "35 U.S.C. § 171"
-generated_at: "2026-03-30T06:25:54.341Z"
+generated_at: "2026-03-30T06:27:43.181Z"
 status: "active"
 ---
 

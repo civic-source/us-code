@@ -3,9 +3,9 @@ title: "Section 7464 - Intervention by trustee of debtor’s estate"
 usc_title: 26
 usc_section: "7464"
 chapter: 76
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 7464"
-generated_at: "2026-03-30T06:25:52.503Z"
+generated_at: "2026-03-30T06:27:41.459Z"
 status: "active"
 ---
 

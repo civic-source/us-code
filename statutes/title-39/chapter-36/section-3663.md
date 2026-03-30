@@ -3,9 +3,9 @@ title: "Section 3663 - Appellate review"
 usc_title: 39
 usc_section: "3663"
 chapter: 36
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "39 U.S.C. § 3663"
-generated_at: "2026-03-30T06:26:06.236Z"
+generated_at: "2026-03-30T06:27:47.465Z"
 status: "active"
 ---
 

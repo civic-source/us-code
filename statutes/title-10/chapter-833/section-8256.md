@@ -3,9 +3,9 @@ title: "Section 8256 - Repealed. Pub. L. 90–235 , § 2(a) (4)(B), Jan. 2, 1968
 usc_title: 10
 usc_section: "8256"
 chapter: 833
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 8256"
-generated_at: "2026-03-30T06:25:14.046Z"
+generated_at: "2026-03-30T06:27:02.126Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2492a - Limitation on Department of Defense entities competing w
 usc_title: 10
 usc_section: "2492a"
 chapter: 147
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 2492a"
-generated_at: "2026-03-30T06:25:14.007Z"
+generated_at: "2026-03-30T06:27:02.088Z"
 status: "active"
 ---
 

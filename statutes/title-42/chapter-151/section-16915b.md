@@ -3,9 +3,9 @@ title: "Section 16915b - Checking system for social networking websites"
 usc_title: 42
 usc_section: "16915b"
 chapter: 151
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 16915b"
-generated_at: "2026-03-30T06:26:27.540Z"
+generated_at: "2026-03-30T06:28:18.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5316 - Transition provisions"
 usc_title: 42
 usc_section: "5316"
 chapter: 69
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 5316"
-generated_at: "2026-03-30T06:26:27.312Z"
+generated_at: "2026-03-30T06:28:18.599Z"
 status: "active"
 ---
 

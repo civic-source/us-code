@@ -3,9 +3,9 @@ title: "Section 4387 - Repealed. Pub. L. 88–647, title III , § 301(10), Oct. 
 usc_title: 10
 usc_section: "4387"
 chapter: 405
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 4387"
-generated_at: "2026-03-30T06:25:14.030Z"
+generated_at: "2026-03-30T06:27:02.110Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7670 - Costs and expenses a charge on prize property"
 usc_title: 10
 usc_section: "7670"
 chapter: 655
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 7670"
-generated_at: "2026-03-30T06:25:14.044Z"
+generated_at: "2026-03-30T06:27:02.124Z"
 status: "active"
 ---
 

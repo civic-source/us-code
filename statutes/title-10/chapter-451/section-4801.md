@@ -3,9 +3,9 @@ title: "Section 4801 - Definition"
 usc_title: 10
 usc_section: "4801"
 chapter: 451
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 4801"
-generated_at: "2026-03-30T06:25:14.032Z"
+generated_at: "2026-03-30T06:27:02.112Z"
 status: "active"
 ---
 

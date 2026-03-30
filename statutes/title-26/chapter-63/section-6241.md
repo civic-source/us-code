@@ -3,9 +3,9 @@ title: "Section 6241 - Partner’s return must be consistent with partnership re
 usc_title: 26
 usc_section: "6241"
 chapter: 63
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 6241"
-generated_at: "2026-03-30T06:25:52.482Z"
+generated_at: "2026-03-30T06:27:41.438Z"
 status: "active"
 ---
 

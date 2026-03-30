@@ -3,9 +3,9 @@ title: "Section 723 - Purposes of refuge; regulations by Secretary of the Interi
 usc_title: 16
 usc_section: "723"
 chapter: 8
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 723"
-generated_at: "2026-03-30T06:25:32.340Z"
+generated_at: "2026-03-30T06:27:24.349Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "31"
 chapter: 2
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 31"
-generated_at: "2026-03-30T06:25:38.013Z"
+generated_at: "2026-03-30T06:27:28.385Z"
 status: "repealed"
 ---
 

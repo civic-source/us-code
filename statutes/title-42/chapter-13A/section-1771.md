@@ -3,9 +3,9 @@ title: "Section 1771 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "1771"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 1771"
-generated_at: "2026-03-30T06:26:27.208Z"
+generated_at: "2026-03-30T06:28:18.484Z"
 status: "active"
 ---
 

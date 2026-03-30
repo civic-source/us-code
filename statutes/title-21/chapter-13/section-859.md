@@ -3,9 +3,9 @@ title: "Section 859 - Distribution to persons under age twenty-one"
 usc_title: 21
 usc_section: "859"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "21 U.S.C. § 859"
-generated_at: "2026-03-30T06:25:36.077Z"
+generated_at: "2026-03-30T06:27:29.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-30T06:26:08.029Z"
+generated_at: "2026-03-30T06:27:49.737Z"
 status: "active"
 ---
 

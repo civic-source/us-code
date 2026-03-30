@@ -3,9 +3,9 @@ title: "Section 564 - Prohibition on use of lead systems integrators"
 usc_title: 14
 usc_section: "564"
 chapter: 15
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "14 U.S.C. § 564"
-generated_at: "2026-03-30T06:25:19.307Z"
+generated_at: "2026-03-30T06:27:09.437Z"
 status: "active"
 ---
 
@@ -30,4 +30,4 @@ status: "active"
     - **(A)** The limitations in paragraph (1)(B) do not apply to any small unmanned aerial system that consists of—
       - **(i)** an unmanned aircraft weighing less than 55 pounds on takeoff, including all components and equipment on board or otherwise attached to the aircraft; and
       - **(ii)** associated elements (including communication links and the components that control such aircraft) that are required for the safe and efficient operation of such aircraft.
-    - **(B)** The limitations in paragraph (1) do not apply to the design or acquisition of an unmanned aerial system for which funds for research, development, test, and evaluation have been received from the Department of Defense or the Department of Homeland Security
+    - **(B)** The limitations in paragraph (1) do not apply to the design or acquisition of an unmanned aerial system for which funds for research, development, test, and evaluation have been received from the Department of Defense or the Department of Homeland Security 1 1 So in original. Probably should be followed by a period.

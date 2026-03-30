@@ -3,9 +3,9 @@ title: "Section 2194b - Enhancing private political risk insurance industry"
 usc_title: 22
 usc_section: "2194b"
 chapter: 32
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 2194b"
-generated_at: "2026-03-30T06:25:39.864Z"
+generated_at: "2026-03-30T06:27:30.908Z"
 status: "active"
 ---
 

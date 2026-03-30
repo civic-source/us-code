@@ -3,9 +3,9 @@ title: "Section 375d - Disposition of estates of intestate members of Cherokee, 
 usc_title: 25
 usc_section: "375d"
 chapter: 10
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 375d"
-generated_at: "2026-03-30T06:25:38.020Z"
+generated_at: "2026-03-30T06:27:28.392Z"
 status: "active"
 ---
 

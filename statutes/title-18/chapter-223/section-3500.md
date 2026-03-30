@@ -3,9 +3,9 @@ title: "Section 3500 - Demands for production of statements and reports of witne
 usc_title: 18
 usc_section: "3500"
 chapter: 223
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 3500"
-generated_at: "2026-03-30T06:25:27.612Z"
+generated_at: "2026-03-30T06:27:17.962Z"
 status: "active"
 ---
 

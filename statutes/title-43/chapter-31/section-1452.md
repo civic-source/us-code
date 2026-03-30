@@ -3,9 +3,9 @@ title: "Section 1452 - Deputy Secretary of the Interior; appointment"
 usc_title: 43
 usc_section: "1452"
 chapter: 31
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 1452"
-generated_at: "2026-03-30T06:26:15.065Z"
+generated_at: "2026-03-30T06:27:54.391Z"
 status: "active"
 ---
 

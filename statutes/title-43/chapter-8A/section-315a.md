@@ -3,9 +3,9 @@ title: "Section 315a - Protection, administration, regulation, and improvement o
 usc_title: 43
 usc_section: "315a"
 chapter: 8
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 315a"
-generated_at: "2026-03-30T06:26:15.039Z"
+generated_at: "2026-03-30T06:27:54.362Z"
 status: "active"
 ---
 

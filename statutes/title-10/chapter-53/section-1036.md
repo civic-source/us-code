@@ -3,9 +3,9 @@ title: "Section 1036 - Repealed. Pub. L. 113–66, div. A, title VI , § 621(a)(
 usc_title: 10
 usc_section: "1036"
 chapter: 53
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 1036"
-generated_at: "2026-03-30T06:25:13.953Z"
+generated_at: "2026-03-30T06:27:02.035Z"
 status: "repealed"
 ---
 

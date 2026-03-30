@@ -3,9 +3,9 @@ title: "Section 983d - Omitted"
 usc_title: 25
 usc_section: "983d"
 chapter: 14
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 983d"
-generated_at: "2026-03-30T06:25:38.028Z"
+generated_at: "2026-03-30T06:27:28.399Z"
 status: "omitted"
 ---
 

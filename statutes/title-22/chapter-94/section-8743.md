@@ -3,9 +3,9 @@ title: "Section 8743 - Identification of, and imposition of measures with respec
 usc_title: 22
 usc_section: "8743"
 chapter: 94
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 8743"
-generated_at: "2026-03-30T06:25:39.952Z"
+generated_at: "2026-03-30T06:27:31.000Z"
 status: "active"
 ---
 

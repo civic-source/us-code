@@ -3,9 +3,9 @@ title: "Section 927 - Existing allocation and transfer authority retained"
 usc_title: 47
 usc_section: "927"
 chapter: 8
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "47 U.S.C. § 927"
-generated_at: "2026-03-30T06:26:35.487Z"
+generated_at: "2026-03-30T06:28:21.635Z"
 status: "active"
 ---
 

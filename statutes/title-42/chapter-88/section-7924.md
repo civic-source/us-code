@@ -3,9 +3,9 @@ title: "Section 7924 - Reports to Congress"
 usc_title: 42
 usc_section: "7924"
 chapter: 88
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 7924"
-generated_at: "2026-03-30T06:26:27.396Z"
+generated_at: "2026-03-30T06:28:18.687Z"
 status: "active"
 ---
 

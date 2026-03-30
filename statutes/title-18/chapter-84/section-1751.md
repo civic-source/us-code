@@ -3,9 +3,9 @@ title: "Section 1751 - Presidential and Presidential staff assassination, kidnap
 usc_title: 18
 usc_section: "1751"
 chapter: 84
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 1751"
-generated_at: "2026-03-30T06:25:27.592Z"
+generated_at: "2026-03-30T06:27:17.944Z"
 status: "active"
 ---
 

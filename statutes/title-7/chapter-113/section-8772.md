@@ -3,9 +3,9 @@ title: "Section 8772 - Dairy forward pricing program"
 usc_title: 7
 usc_section: "8772"
 chapter: 113
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 8772"
-generated_at: "2026-03-30T06:25:08.446Z"
+generated_at: "2026-03-30T06:27:05.363Z"
 status: "active"
 ---
 

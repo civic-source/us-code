@@ -3,9 +3,9 @@ title: "Section 70204 - Savings provision"
 usc_title: 49
 usc_section: "70204"
 chapter: 702
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "49 U.S.C. § 70204"
-generated_at: "2026-03-30T06:26:35.090Z"
+generated_at: "2026-03-30T06:28:26.698Z"
 status: "active"
 ---
 

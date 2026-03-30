@@ -3,9 +3,9 @@ title: "Section 4012 - Certificates of service; persons reported missing"
 usc_title: 50
 usc_section: "4012"
 chapter: 50
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "50 U.S.C. § 4012"
-generated_at: "2026-03-30T06:26:33.091Z"
+generated_at: "2026-03-30T06:28:24.885Z"
 status: "active"
 ---
 

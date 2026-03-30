@@ -3,9 +3,9 @@ title: "Section 7042 - President; assistants"
 usc_title: 10
 usc_section: "7042"
 chapter: 605
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 7042"
-generated_at: "2026-03-30T06:25:14.039Z"
+generated_at: "2026-03-30T06:27:02.119Z"
 status: "active"
 ---
 

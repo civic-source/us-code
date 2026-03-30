@@ -3,9 +3,9 @@ title: "Section 3435 - Rules of procedure for panels and committees"
 usc_title: 19
 usc_section: "3435"
 chapter: 21
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "19 U.S.C. § 3435"
-generated_at: "2026-03-30T06:25:26.263Z"
+generated_at: "2026-03-30T06:27:21.543Z"
 status: "active"
 ---
 

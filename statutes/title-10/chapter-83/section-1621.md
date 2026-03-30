@@ -3,9 +3,9 @@ title: "Section 1621 - Defense Intelligence Agency merit pay system"
 usc_title: 10
 usc_section: "1621"
 chapter: 83
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 1621"
-generated_at: "2026-03-30T06:25:13.978Z"
+generated_at: "2026-03-30T06:27:02.059Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1645g - Consolidated awards"
 usc_title: 22
 usc_section: "1645g"
 chapter: 21
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 1645g"
-generated_at: "2026-03-30T06:25:39.854Z"
+generated_at: "2026-03-30T06:27:30.898Z"
 status: "active"
 ---
 

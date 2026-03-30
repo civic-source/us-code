@@ -3,9 +3,9 @@ title: "Section 6114 - Omitted"
 usc_title: 20
 usc_section: "6114"
 chapter: 69
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 6114"
-generated_at: "2026-03-30T06:25:29.221Z"
+generated_at: "2026-03-30T06:27:20.375Z"
 status: "omitted"
 ---
 

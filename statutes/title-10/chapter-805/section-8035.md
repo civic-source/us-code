@@ -3,9 +3,9 @@ title: "Section 8035 - Deputy Chiefs of Staff and Assistant Chiefs of Staff"
 usc_title: 10
 usc_section: "8035"
 chapter: 805
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 8035"
-generated_at: "2026-03-30T06:25:14.046Z"
+generated_at: "2026-03-30T06:27:02.126Z"
 status: "active"
 ---
 

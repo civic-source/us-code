@@ -3,9 +3,9 @@ title: "Section 9593 - Quarters: heat and light"
 usc_title: 10
 usc_section: "9593"
 chapter: 937
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 9593"
-generated_at: "2026-03-30T06:25:14.050Z"
+generated_at: "2026-03-30T06:27:02.130Z"
 status: "active"
 ---
 

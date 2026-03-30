@@ -3,9 +3,9 @@ title: "Section 14331 - Purpose"
 usc_title: 42
 usc_section: "14331"
 chapter: 137
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 14331"
-generated_at: "2026-03-30T06:26:27.512Z"
+generated_at: "2026-03-30T06:28:18.806Z"
 status: "active"
 ---
 

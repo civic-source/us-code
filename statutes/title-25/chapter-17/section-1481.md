@@ -3,9 +3,9 @@ title: "Section 1481 - Loan guaranties and insurance"
 usc_title: 25
 usc_section: "1481"
 chapter: 17
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 1481"
-generated_at: "2026-03-30T06:25:38.031Z"
+generated_at: "2026-03-30T06:27:28.401Z"
 status: "active"
 ---
 

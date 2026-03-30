@@ -3,9 +3,9 @@ title: "Section 2911 - Disclosure requirement for official business conducted us
 usc_title: 44
 usc_section: "2911"
 chapter: 29
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "44 U.S.C. § 2911"
-generated_at: "2026-03-30T06:26:10.669Z"
+generated_at: "2026-03-30T06:27:53.723Z"
 status: "active"
 ---
 

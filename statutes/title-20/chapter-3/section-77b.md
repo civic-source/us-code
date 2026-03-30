@@ -3,9 +3,9 @@ title: "Section 77b - Repealed. Pub. L. 89–509 , pt. I, § 5, July 19, 1966 , 
 usc_title: 20
 usc_section: "77b"
 chapter: 3
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 77b"
-generated_at: "2026-03-30T06:25:29.125Z"
+generated_at: "2026-03-30T06:27:20.277Z"
 status: "repealed"
 ---
 

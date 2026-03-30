@@ -3,9 +3,9 @@ title: "Section 2902 - Capital investment plan"
 usc_title: 14
 usc_section: "2902"
 chapter: 29
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "14 U.S.C. § 2902"
-generated_at: "2026-03-30T06:25:19.312Z"
+generated_at: "2026-03-30T06:27:09.441Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** estimated completion dates for each capital asset;
     - **(C)** the total estimated cost to complete each capital asset; and
     - **(D)** other planned construction or improvement projects; and
-  - **(3)** recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such asset’s approved acquisition program baseline.
+  - **(3)** recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such 1 1 So in original. asset’s approved acquisition program baseline.
 - **(c)** In this section—
   - **(1)** the term “unfunded priority” means a program or mission requirement that—
     - **(A)** has not been selected for funding in the applicable proposed budget;

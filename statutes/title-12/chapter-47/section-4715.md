@@ -3,9 +3,9 @@ title: "Section 4715 - Special provisions with respect to institutions that are 
 usc_title: 12
 usc_section: "4715"
 chapter: 47
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "12 U.S.C. § 4715"
-generated_at: "2026-03-30T06:25:22.210Z"
+generated_at: "2026-03-30T06:27:14.684Z"
 status: "active"
 ---
 

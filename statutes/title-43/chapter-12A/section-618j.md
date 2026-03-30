@@ -3,9 +3,9 @@ title: "Section 618j - Effect of refusal to modify existing contracts"
 usc_title: 43
 usc_section: "618j"
 chapter: 12
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 618j"
-generated_at: "2026-03-30T06:26:15.053Z"
+generated_at: "2026-03-30T06:27:54.378Z"
 status: "active"
 ---
 

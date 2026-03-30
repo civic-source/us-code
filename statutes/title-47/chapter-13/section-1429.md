@@ -3,9 +3,9 @@ title: "Section 1429 - Audit and report"
 usc_title: 47
 usc_section: "1429"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "47 U.S.C. § 1429"
-generated_at: "2026-03-30T06:26:35.491Z"
+generated_at: "2026-03-30T06:28:21.638Z"
 status: "active"
 ---
 

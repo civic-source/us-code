@@ -3,9 +3,9 @@ title: "Section 1723 - Omitted"
 usc_title: 25
 usc_section: "1723"
 chapter: 19
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 1723"
-generated_at: "2026-03-30T06:25:38.042Z"
+generated_at: "2026-03-30T06:27:28.413Z"
 status: "omitted"
 ---
 

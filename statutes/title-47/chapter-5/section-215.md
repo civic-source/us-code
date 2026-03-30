@@ -3,9 +3,9 @@ title: "Section 215 - Examination of transactions relating to furnishing of serv
 usc_title: 47
 usc_section: "215"
 chapter: 5
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "47 U.S.C. § 215"
-generated_at: "2026-03-30T06:26:35.460Z"
+generated_at: "2026-03-30T06:28:21.607Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5703 - Fellowship recipients"
 usc_title: 20
 usc_section: "5703"
 chapter: 67
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 5703"
-generated_at: "2026-03-30T06:25:29.219Z"
+generated_at: "2026-03-30T06:27:20.373Z"
 status: "active"
 ---
 

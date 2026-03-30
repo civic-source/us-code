@@ -3,9 +3,9 @@ title: "Section 657l - Comprehensive disaster response plan"
 usc_title: 15
 usc_section: "657l"
 chapter: 14
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 657l"
-generated_at: "2026-03-30T06:25:18.926Z"
+generated_at: "2026-03-30T06:27:12.787Z"
 status: "active"
 ---
 

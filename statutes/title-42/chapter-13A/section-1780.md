@@ -3,9 +3,9 @@ title: "Section 1780 - Prohibitions"
 usc_title: 42
 usc_section: "1780"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 1780"
-generated_at: "2026-03-30T06:26:27.209Z"
+generated_at: "2026-03-30T06:28:18.485Z"
 status: "active"
 ---
 

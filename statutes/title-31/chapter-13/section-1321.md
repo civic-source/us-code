@@ -3,9 +3,9 @@ title: "Section 1321 - Trust funds"
 usc_title: 31
 usc_section: "1321"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "31 U.S.C. § 1321"
-generated_at: "2026-03-30T06:25:58.012Z"
+generated_at: "2026-03-30T06:27:44.997Z"
 status: "active"
 ---
 

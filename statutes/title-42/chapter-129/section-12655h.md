@@ -3,9 +3,9 @@ title: "Section 12655h - Preference for certain projects"
 usc_title: 42
 usc_section: "12655h"
 chapter: 129
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 12655h"
-generated_at: "2026-03-30T06:26:27.479Z"
+generated_at: "2026-03-30T06:28:18.771Z"
 status: "active"
 ---
 

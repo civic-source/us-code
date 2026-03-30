@@ -3,9 +3,9 @@ title: "Section 1141a - International applications based on United States applic
 usc_title: 15
 usc_section: "1141a"
 chapter: 22
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 1141a"
-generated_at: "2026-03-30T06:25:18.945Z"
+generated_at: "2026-03-30T06:27:12.806Z"
 status: "active"
 ---
 

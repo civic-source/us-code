@@ -3,9 +3,9 @@ title: "Section 6542 - Transfer of broadcasting related funds, property, and per
 usc_title: 22
 usc_section: "6542"
 chapter: 74
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 6542"
-generated_at: "2026-03-30T06:25:39.929Z"
+generated_at: "2026-03-30T06:27:30.978Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3195 - Cooperative information and education centers"
 usc_title: 16
 usc_section: "3195"
 chapter: 51
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 3195"
-generated_at: "2026-03-30T06:25:32.412Z"
+generated_at: "2026-03-30T06:27:24.422Z"
 status: "active"
 ---
 

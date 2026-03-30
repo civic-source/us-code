@@ -3,9 +3,9 @@ title: "Section 3797dd - Grant program to evaluate and improve educational metho
 usc_title: 42
 usc_section: "3797dd"
 chapter: 46
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 3797dd"
-generated_at: "2026-03-30T06:26:27.282Z"
+generated_at: "2026-03-30T06:28:18.568Z"
 status: "active"
 ---
 

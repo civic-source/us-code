@@ -3,9 +3,9 @@ title: "Section 3114 - Vocational rehabilitation outside the United States"
 usc_title: 38
 usc_section: "3114"
 chapter: 31
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "38 U.S.C. § 3114"
-generated_at: "2026-03-30T06:26:08.035Z"
+generated_at: "2026-03-30T06:27:49.744Z"
 status: "active"
 ---
 

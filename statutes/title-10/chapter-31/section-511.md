@@ -3,9 +3,9 @@ title: "Section 511 - College First Program"
 usc_title: 10
 usc_section: "511"
 chapter: 31
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 511"
-generated_at: "2026-03-30T06:25:13.934Z"
+generated_at: "2026-03-30T06:27:02.017Z"
 status: "active"
 ---
 

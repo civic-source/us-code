@@ -3,9 +3,9 @@ title: "Section 5 - Advisory Committee"
 usc_title: 16
 usc_section: "5"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T06:25:32.337Z"
+generated_at: "2026-03-30T06:27:24.346Z"
 status: "active"
 ---
 

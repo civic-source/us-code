@@ -3,9 +3,9 @@ title: "Section 1352 - Limitation on use of appropriated funds to influence cert
 usc_title: 31
 usc_section: "1352"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "31 U.S.C. § 1352"
-generated_at: "2026-03-30T06:25:58.013Z"
+generated_at: "2026-03-30T06:27:44.998Z"
 status: "active"
 ---
 

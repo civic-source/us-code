@@ -3,9 +3,9 @@ title: "Section 30305 - Powers"
 usc_title: 36
 usc_section: "30305"
 chapter: 303
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "36 U.S.C. § 30305"
-generated_at: "2026-03-30T06:26:03.092Z"
+generated_at: "2026-03-30T06:27:48.529Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1191 - Definitions"
 usc_title: 15
 usc_section: "1191"
 chapter: 25
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 1191"
-generated_at: "2026-03-30T06:25:18.946Z"
+generated_at: "2026-03-30T06:27:12.807Z"
 status: "active"
 ---
 

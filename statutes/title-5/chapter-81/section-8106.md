@@ -3,9 +3,9 @@ title: "Section 8106 - Partial disability"
 usc_title: 5
 usc_section: "8106"
 chapter: 81
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "5 U.S.C. § 8106"
-generated_at: "2026-03-30T06:25:01.865Z"
+generated_at: "2026-03-30T06:26:54.954Z"
 status: "active"
 ---
 

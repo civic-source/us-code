@@ -3,9 +3,9 @@ title: "Section 1 - Remittance transfers"
 usc_title: 15
 usc_section: "1"
 chapter: 41
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T06:25:18.971Z"
+generated_at: "2026-03-30T06:27:12.833Z"
 status: "active"
 ---
 

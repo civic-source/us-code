@@ -3,9 +3,9 @@ title: "Section 450g - Repealed or Transferred. Pub. L. 100–472, title II , §
 usc_title: 25
 usc_section: "450g"
 chapter: 14
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 450g"
-generated_at: "2026-03-30T06:25:38.024Z"
+generated_at: "2026-03-30T06:27:28.395Z"
 status: "repealed"
 ---
 

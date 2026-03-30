@@ -3,9 +3,9 @@ title: "Section 9706 - Assignment of eligible beneficiaries"
 usc_title: 26
 usc_section: "9706"
 chapter: 99
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 9706"
-generated_at: "2026-03-30T06:25:52.518Z"
+generated_at: "2026-03-30T06:27:41.473Z"
 status: "active"
 ---
 

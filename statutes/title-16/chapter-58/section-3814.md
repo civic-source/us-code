@@ -3,9 +3,9 @@ title: "Section 3814 - Notice and investigation of possible compliance deficienc
 usc_title: 16
 usc_section: "3814"
 chapter: 58
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 3814"
-generated_at: "2026-03-30T06:25:32.418Z"
+generated_at: "2026-03-30T06:27:24.429Z"
 status: "active"
 ---
 

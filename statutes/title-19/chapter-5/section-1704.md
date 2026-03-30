@@ -3,9 +3,9 @@ title: "Section 1704 - Refusal or revocation of registry, enrollment, license or
 usc_title: 19
 usc_section: "1704"
 chapter: 5
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "19 U.S.C. § 1704"
-generated_at: "2026-03-30T06:25:26.233Z"
+generated_at: "2026-03-30T06:27:21.512Z"
 status: "active"
 ---
 

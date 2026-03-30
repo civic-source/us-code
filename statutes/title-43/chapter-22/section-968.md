@@ -3,9 +3,9 @@ title: "Section 968 - Restriction on use of Arkansas pipeline right of way"
 usc_title: 43
 usc_section: "968"
 chapter: 22
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 968"
-generated_at: "2026-03-30T06:26:15.060Z"
+generated_at: "2026-03-30T06:27:54.385Z"
 status: "active"
 ---
 

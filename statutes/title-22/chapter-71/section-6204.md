@@ -1,15 +1,15 @@
 ---
-title: "Section 6204 - Authorities of Board"
+title: "Section 6204 - Authorities of Chief Executive Officer"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-30T06:25:39.925Z"
+generated_at: "2026-03-30T06:27:30.974Z"
 status: "active"
 ---
 
-# § 6204. Authorities of Board
+# § 6204. Authorities of Chief Executive Officer
 
 - **(a)** The Chief Executive Officer shall have the following authorities:
   - **(1)** To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [ 22 U.S.C. 1465 et seq.],, 1 1 So in original. the Television Broadcasting to Cuba Act [ 22 U.S.C. 1465aa et seq.], and Worldnet Television, except as provided in section 6205(b) of this title .

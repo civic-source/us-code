@@ -3,9 +3,9 @@ title: "Section 316a - Special pay: incentive pay for members of precommissionin
 usc_title: 37
 usc_section: "316a"
 chapter: 5
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "37 U.S.C. § 316a"
-generated_at: "2026-03-30T06:26:05.826Z"
+generated_at: "2026-03-30T06:27:51.468Z"
 status: "active"
 ---
 

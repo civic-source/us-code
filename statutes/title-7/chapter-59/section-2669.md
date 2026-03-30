@@ -3,9 +3,9 @@ title: "Section 2669 - Pilot projects for production and marketing of industrial
 usc_title: 7
 usc_section: "2669"
 chapter: 59
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 2669"
-generated_at: "2026-03-30T06:25:08.381Z"
+generated_at: "2026-03-30T06:27:05.296Z"
 status: "active"
 ---
 

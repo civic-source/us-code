@@ -3,9 +3,9 @@ title: "Section 1692n - Relation to State laws"
 usc_title: 15
 usc_section: "1692n"
 chapter: 41
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 1692n"
-generated_at: "2026-03-30T06:25:18.970Z"
+generated_at: "2026-03-30T06:27:12.831Z"
 status: "active"
 ---
 

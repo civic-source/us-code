@@ -3,9 +3,9 @@ title: "Section 425 - Omitted"
 usc_title: 20
 usc_section: "425"
 chapter: 17
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 425"
-generated_at: "2026-03-30T06:25:29.130Z"
+generated_at: "2026-03-30T06:27:20.283Z"
 status: "omitted"
 ---
 

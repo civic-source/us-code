@@ -3,9 +3,9 @@ title: "Section 4116 - Resident homeownership program"
 usc_title: 12
 usc_section: "4116"
 chapter: 42
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "12 U.S.C. § 4116"
-generated_at: "2026-03-30T06:25:22.196Z"
+generated_at: "2026-03-30T06:27:14.671Z"
 status: "active"
 ---
 

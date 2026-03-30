@@ -3,9 +3,9 @@ title: "Section 1411b - Repealed. Aug. 7, 1956, ch. 1029 , title IV, § 401(b), 
 usc_title: 42
 usc_section: "1411b"
 chapter: 8
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 1411b"
-generated_at: "2026-03-30T06:26:27.176Z"
+generated_at: "2026-03-30T06:28:18.449Z"
 status: "repealed"
 ---
 

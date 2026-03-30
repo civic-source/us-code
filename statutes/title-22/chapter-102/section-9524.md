@@ -1,0 +1,35 @@
+---
+title: "Section 9524 - Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity"
+usc_title: 22
+usc_section: "9524"
+chapter: 102
+current_through: "PL 115-45"
+classification: "22 U.S.C. § 9524"
+generated_at: "2026-03-30T06:27:31.009Z"
+status: "active"
+---
+
+# § 9524. Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity
+
+- **(a)** On and after the date that is 60 days after August 2, 2017 , the President shall—
+  - **(1)** impose the sanctions described in subsection (b) with respect to any person that the President determines—
+    - **(A)** knowingly engages in significant activities undermining cybersecurity against any person, including a democratic institution, or government on behalf of the Government of the Russian Federation; or
+    - **(B)** is owned or controlled by, or acts or purports to act for or on behalf of, directly or indirectly, a person described in subparagraph (A);
+  - **(2)** impose five or more of the sanctions described in section 9529 of this title with respect to any person that the President determines knowingly materially assists, sponsors, or provides financial, material, or technological support for, or goods or services (except financial services) in support of, an activity described in paragraph (1)(A); and
+  - **(3)** impose three or more of the sanctions described in section 8923(c) of this title with respect to any person that the President determines knowingly provides financial services in support of an activity described in paragraph (1)(A).
+- **(b)** The sanctions described in this subsection are the following:
+  - **(1)** The exercise of all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a)(1) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+  - **(2)** In the case of an alien determined by the President to be subject to subsection (a)(1), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with section 1201(i) of this title , of any visa or other documentation of the alien.
+- **(c)** The President may waive the initial application under subsection (a) of sanctions with respect to a person only if the President submits to the appropriate congressional committees—
+  - **(1)** a written determination that the waiver—
+    - **(A)** is in the vital national security interests of the United States; or
+    - **(B)** will further the enforcement of this chapter; and
+  - **(2)** a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
+- **(d)** In this section, the term “significant activities undermining cybersecurity” includes—
+  - **(1)** significant efforts—
+    - **(A)** to deny access to or degrade, disrupt, or destroy an information and communications technology system or network; or
+    - **(B)** to exfiltrate, degrade, corrupt, destroy, or release information from such a system or network without authorization for purposes of—
+      - **(i)** conducting influence operations; or
+      - **(ii)** causing a significant misappropriation of funds, economic resources, trade secrets, personal identifications, or financial information for commercial or competitive advantage or private financial gain;
+  - **(2)** significant destructive malware attacks; and
+  - **(3)** significant denial of service activities.

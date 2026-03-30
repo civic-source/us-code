@@ -3,9 +3,9 @@ title: "Section 1334 - Private maintenance; numerical approximation; strays on p
 usc_title: 16
 usc_section: "1334"
 chapter: 30
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 1334"
-generated_at: "2026-03-30T06:25:32.376Z"
+generated_at: "2026-03-30T06:27:24.386Z"
 status: "active"
 ---
 

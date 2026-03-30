@@ -3,9 +3,9 @@ title: "Section 6317 - Energy conservation standards for high-intensity discharg
 usc_title: 42
 usc_section: "6317"
 chapter: 77
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 6317"
-generated_at: "2026-03-30T06:26:27.336Z"
+generated_at: "2026-03-30T06:28:18.623Z"
 status: "active"
 ---
 

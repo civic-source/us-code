@@ -3,9 +3,9 @@ title: "Section 385c - Appropriation and disposition of power revenues"
 usc_title: 25
 usc_section: "385c"
 chapter: 11
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 385c"
-generated_at: "2026-03-30T06:25:38.021Z"
+generated_at: "2026-03-30T06:27:28.392Z"
 status: "active"
 ---
 

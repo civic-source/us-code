@@ -3,9 +3,9 @@ title: "Section 2671 - Military reservations and facilities: hunting, fishing, a
 usc_title: 10
 usc_section: "2671"
 chapter: 159
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 2671"
-generated_at: "2026-03-30T06:25:14.015Z"
+generated_at: "2026-03-30T06:27:02.095Z"
 status: "active"
 ---
 

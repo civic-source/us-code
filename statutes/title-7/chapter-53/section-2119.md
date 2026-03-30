@@ -3,9 +3,9 @@ title: "Section 2119 - Repealed. Pub. L. 94–366 , § 1, July 14, 1976 , 90 Sta
 usc_title: 7
 usc_section: "2119"
 chapter: 53
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 2119"
-generated_at: "2026-03-30T06:25:08.372Z"
+generated_at: "2026-03-30T06:27:05.286Z"
 status: "repealed"
 ---
 

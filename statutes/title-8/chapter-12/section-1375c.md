@@ -3,9 +3,9 @@ title: "Section 1375c - Protections, remedies, and limitations on issuance for A
 usc_title: 8
 usc_section: "1375c"
 chapter: 12
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "8 U.S.C. § 1375c"
-generated_at: "2026-03-30T06:25:05.451Z"
+generated_at: "2026-03-30T06:26:58.411Z"
 status: "active"
 ---
 

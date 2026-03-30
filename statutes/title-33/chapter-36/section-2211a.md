@@ -3,9 +3,9 @@ title: "Section 2211a - Preserving United States harbors"
 usc_title: 33
 usc_section: "2211a"
 chapter: 36
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "33 U.S.C. § 2211a"
-generated_at: "2026-03-30T06:26:00.780Z"
+generated_at: "2026-03-30T06:27:45.894Z"
 status: "active"
 ---
 

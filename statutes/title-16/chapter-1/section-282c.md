@@ -3,9 +3,9 @@ title: "Section 282c - Authorization of appropriations"
 usc_title: 16
 usc_section: "282c"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 282c"
-generated_at: "2026-03-30T06:25:32.239Z"
+generated_at: "2026-03-30T06:27:24.247Z"
 status: "active"
 ---
 

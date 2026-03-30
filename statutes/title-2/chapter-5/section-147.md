@@ -3,9 +3,9 @@ title: "Section 147 - Repealed. Oct. 25, 1951, ch. 562 , § 1(l), 65 Stat. 638"
 usc_title: 2
 usc_section: "147"
 chapter: 5
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "2 U.S.C. § 147"
-generated_at: "2026-03-30T06:25:03.012Z"
+generated_at: "2026-03-30T06:26:50.544Z"
 status: "repealed"
 ---
 

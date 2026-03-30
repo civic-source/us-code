@@ -3,9 +3,9 @@ title: "Section 1908 - Judicial Review Commission on Foreign Asset Control"
 usc_title: 21
 usc_section: "1908"
 chapter: 24
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "21 U.S.C. § 1908"
-generated_at: "2026-03-30T06:25:36.088Z"
+generated_at: "2026-03-30T06:27:29.260Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 226 - Omitted"
 usc_title: 16
 usc_section: "226"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 226"
-generated_at: "2026-03-30T06:25:32.235Z"
+generated_at: "2026-03-30T06:27:24.243Z"
 status: "omitted"
 ---
 

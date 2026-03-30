@@ -3,9 +3,9 @@ title: "Section 304b - Deposits of funds of students and student activity associ
 usc_title: 25
 usc_section: "304b"
 chapter: 7
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 304b"
-generated_at: "2026-03-30T06:25:38.018Z"
+generated_at: "2026-03-30T06:27:28.390Z"
 status: "active"
 ---
 

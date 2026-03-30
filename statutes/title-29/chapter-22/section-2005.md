@@ -3,9 +3,9 @@ title: "Section 2005 - Enforcement provisions"
 usc_title: 29
 usc_section: "2005"
 chapter: 22
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "29 U.S.C. § 2005"
-generated_at: "2026-03-30T06:25:43.884Z"
+generated_at: "2026-03-30T06:27:34.979Z"
 status: "active"
 ---
 

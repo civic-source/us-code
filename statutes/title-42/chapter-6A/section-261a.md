@@ -3,9 +3,9 @@ title: "Section 261a - Repealed. Pub. L. 106–310, div. B, title XXXIV , § 340
 usc_title: 42
 usc_section: "261a"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 261a"
-generated_at: "2026-03-30T06:26:26.918Z"
+generated_at: "2026-03-30T06:28:18.167Z"
 status: "repealed"
 ---
 

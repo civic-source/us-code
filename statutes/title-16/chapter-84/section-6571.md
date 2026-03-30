@@ -3,9 +3,9 @@ title: "Section 6571 - Establishment of healthy forests reserve program"
 usc_title: 16
 usc_section: "6571"
 chapter: 84
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 6571"
-generated_at: "2026-03-30T06:25:32.440Z"
+generated_at: "2026-03-30T06:27:24.452Z"
 status: "active"
 ---
 

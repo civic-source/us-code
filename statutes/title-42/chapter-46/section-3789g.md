@@ -3,9 +3,9 @@ title: "Section 3789g - Confidentiality of information"
 usc_title: 42
 usc_section: "3789g"
 chapter: 46
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 3789g"
-generated_at: "2026-03-30T06:26:27.272Z"
+generated_at: "2026-03-30T06:28:18.559Z"
 status: "active"
 ---
 

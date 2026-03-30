@@ -3,9 +3,9 @@ title: "Section 40110 - Service of process"
 usc_title: 36
 usc_section: "40110"
 chapter: 401
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "36 U.S.C. § 40110"
-generated_at: "2026-03-30T06:26:03.094Z"
+generated_at: "2026-03-30T06:27:48.530Z"
 status: "active"
 ---
 

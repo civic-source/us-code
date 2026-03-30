@@ -3,9 +3,9 @@ title: "Section 205 - Recordation of transfers and other documents"
 usc_title: 17
 usc_section: "205"
 chapter: 2
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "17 U.S.C. § 205"
-generated_at: "2026-03-30T06:25:24.200Z"
+generated_at: "2026-03-30T06:27:16.640Z"
 status: "active"
 ---
 

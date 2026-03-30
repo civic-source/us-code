@@ -3,9 +3,9 @@ title: "Section 1780 - Omitted"
 usc_title: 25
 usc_section: "1780"
 chapter: 19
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 1780"
-generated_at: "2026-03-30T06:25:38.043Z"
+generated_at: "2026-03-30T06:27:28.414Z"
 status: "omitted"
 ---
 

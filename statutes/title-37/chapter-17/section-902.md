@@ -3,9 +3,9 @@ title: "Section 902 - Pay of crews of wrecked or lost naval vessels"
 usc_title: 37
 usc_section: "902"
 chapter: 17
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "37 U.S.C. § 902"
-generated_at: "2026-03-30T06:26:05.834Z"
+generated_at: "2026-03-30T06:27:51.476Z"
 status: "active"
 ---
 

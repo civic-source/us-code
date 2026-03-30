@@ -3,9 +3,9 @@ title: "Section 3561 - Sentence of probation"
 usc_title: 18
 usc_section: "3561"
 chapter: 227
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 3561"
-generated_at: "2026-03-30T06:25:27.614Z"
+generated_at: "2026-03-30T06:27:17.964Z"
 status: "active"
 ---
 

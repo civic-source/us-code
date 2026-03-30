@@ -3,9 +3,9 @@ title: "Section 1634 - Effect of subsequent occurrence"
 usc_title: 15
 usc_section: "1634"
 chapter: 41
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 1634"
-generated_at: "2026-03-30T06:25:18.956Z"
+generated_at: "2026-03-30T06:27:12.817Z"
 status: "active"
 ---
 

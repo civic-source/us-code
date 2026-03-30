@@ -3,9 +3,9 @@ title: "Section 9356 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "9356"
 chapter: 903
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 9356"
-generated_at: "2026-03-30T06:25:14.049Z"
+generated_at: "2026-03-30T06:27:02.129Z"
 status: "active"
 ---
 

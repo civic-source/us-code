@@ -3,9 +3,9 @@ title: "Section 7152 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7152"
 chapter: 90
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 7152"
-generated_at: "2026-03-30T06:25:32.445Z"
+generated_at: "2026-03-30T06:27:24.457Z"
 status: "active"
 ---
 

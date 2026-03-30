@@ -3,9 +3,9 @@ title: "Section 1232 - Enforcement provisions"
 usc_title: 33
 usc_section: "1232"
 chapter: 25
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "33 U.S.C. § 1232"
-generated_at: "2026-03-30T06:26:00.756Z"
+generated_at: "2026-03-30T06:27:45.870Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)** Any person who, in the willfull 1 1 So in original. Probably should be “willful”. and knowing violation of this chapter or of any regulation issued hereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of this chapter or the regulations issued hereunder, commits a class C felony.
 - **(c)** Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 - **(d)** The United States district courts shall have jurisdiction to restrain violations of this chapter or of regulations issued hereunder, for cause shown.
-- **(e)** Except as provided in section 1228 of this title , the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+- **(e)** Except as provided in section 1228 or 1232c of this title, the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
 - **(f)**
   - **(1)** If any owner, operator, or individual in charge of a vessel is liable for a penalty or fine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty or fine under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of title 46 .
   - **(2)** Clearance refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.

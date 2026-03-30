@@ -3,9 +3,9 @@ title: "Section 2414 - Issuance of notes by Administrator of Federal Emergency M
 usc_title: 42
 usc_section: "2414"
 chapter: 25
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 2414"
-generated_at: "2026-03-30T06:26:27.247Z"
+generated_at: "2026-03-30T06:28:18.525Z"
 status: "active"
 ---
 

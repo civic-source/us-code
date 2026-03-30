@@ -3,9 +3,9 @@ title: "Section 4535 - Saving provision"
 usc_title: 2
 usc_section: "4535"
 chapter: 45
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "2 U.S.C. § 4535"
-generated_at: "2026-03-30T06:25:03.046Z"
+generated_at: "2026-03-30T06:26:50.582Z"
 status: "active"
 ---
 

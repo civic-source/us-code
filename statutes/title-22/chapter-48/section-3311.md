@@ -3,9 +3,9 @@ title: "Section 3311 - Reporting requirements"
 usc_title: 22
 usc_section: "3311"
 chapter: 48
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 3311"
-generated_at: "2026-03-30T06:25:39.897Z"
+generated_at: "2026-03-30T06:27:30.944Z"
 status: "active"
 ---
 

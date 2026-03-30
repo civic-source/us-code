@@ -3,9 +3,9 @@ title: "Section 22708 - Headquarters and principal place of business"
 usc_title: 36
 usc_section: "22708"
 chapter: 227
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "36 U.S.C. § 22708"
-generated_at: "2026-03-30T06:26:03.092Z"
+generated_at: "2026-03-30T06:27:48.528Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4008 - Transportation expenses"
 usc_title: 18
 usc_section: "4008"
 chapter: 301
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 4008"
-generated_at: "2026-03-30T06:25:27.619Z"
+generated_at: "2026-03-30T06:27:17.969Z"
 status: "active"
 ---
 

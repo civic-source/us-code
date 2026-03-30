@@ -3,9 +3,9 @@ title: "Section 441j - Revision of boundaries"
 usc_title: 16
 usc_section: "441j"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 441j"
-generated_at: "2026-03-30T06:25:32.271Z"
+generated_at: "2026-03-30T06:27:24.279Z"
 status: "active"
 ---
 

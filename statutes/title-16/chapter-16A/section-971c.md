@@ -3,9 +3,9 @@ title: "Section 971c - Authority of Secretary of State; cooperative enforcement 
 usc_title: 16
 usc_section: "971c"
 chapter: 16
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 971c"
-generated_at: "2026-03-30T06:25:32.362Z"
+generated_at: "2026-03-30T06:27:24.372Z"
 status: "active"
 ---
 

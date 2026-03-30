@@ -3,9 +3,9 @@ title: "Section 4713a - Guarantees for bonds and notes issued for community or e
 usc_title: 12
 usc_section: "4713a"
 chapter: 47
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "12 U.S.C. § 4713a"
-generated_at: "2026-03-30T06:25:22.210Z"
+generated_at: "2026-03-30T06:27:14.684Z"
 status: "active"
 ---
 

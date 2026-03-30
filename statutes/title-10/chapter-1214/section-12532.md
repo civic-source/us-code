@@ -3,9 +3,9 @@ title: "Section 12532 - Termination for nonpayment of premiums; forfeiture"
 usc_title: 10
 usc_section: "12532"
 chapter: 1214
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 12532"
-generated_at: "2026-03-30T06:25:14.057Z"
+generated_at: "2026-03-30T06:27:02.136Z"
 status: "active"
 ---
 

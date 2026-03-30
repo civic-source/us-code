@@ -3,9 +3,9 @@ title: "Section 3615 - Consultative Committee"
 usc_title: 22
 usc_section: "3615"
 chapter: 51
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 3615"
-generated_at: "2026-03-30T06:25:39.898Z"
+generated_at: "2026-03-30T06:27:30.945Z"
 status: "active"
 ---
 

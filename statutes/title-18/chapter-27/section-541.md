@@ -3,9 +3,9 @@ title: "Section 541 - Entry of goods falsely classified"
 usc_title: 18
 usc_section: "541"
 chapter: 27
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 541"
-generated_at: "2026-03-30T06:25:27.573Z"
+generated_at: "2026-03-30T06:27:17.926Z"
 status: "active"
 ---
 

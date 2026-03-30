@@ -3,9 +3,9 @@ title: "Section 453c - Disposition of equines unfit for service"
 usc_title: 6
 usc_section: "453c"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "6 U.S.C. § 453c"
-generated_at: "2026-03-30T06:25:05.874Z"
+generated_at: "2026-03-30T06:26:57.009Z"
 status: "active"
 ---
 

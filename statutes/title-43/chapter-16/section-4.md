@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 
 usc_title: 43
 usc_section: "4"
 chapter: 16
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-30T06:26:15.055Z"
+generated_at: "2026-03-30T06:27:54.380Z"
 status: "repealed"
 ---
 

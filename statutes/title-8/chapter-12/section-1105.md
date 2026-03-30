@@ -3,9 +3,9 @@ title: "Section 1105 - Liaison with internal security officers; data exchange"
 usc_title: 8
 usc_section: "1105"
 chapter: 12
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "8 U.S.C. § 1105"
-generated_at: "2026-03-30T06:25:05.427Z"
+generated_at: "2026-03-30T06:26:58.382Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1126 - Program Management Improvement Officers and Program Manag
 usc_title: 31
 usc_section: "1126"
 chapter: 11
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "31 U.S.C. § 1126"
-generated_at: "2026-03-30T06:25:58.011Z"
+generated_at: "2026-03-30T06:27:44.996Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
       - **(vi)** Common templates and tools to support improved data gathering and analysis for program management and oversight purposes.
   - **(3)** This subsection shall not apply to the Department of Defense to the extent that the provisions of this subsection are substantially similar to or duplicative of the provisions of chapter 87 of title 10. For purposes of paragraph (1), the Under Secretary of Defense for Acquisition, Technology, and Logistics (or a designee of the Under Secretary) shall be considered the Program Management Improvement Officer.
 - **(b)**
-  - **(1)** There is established in the Office of Management and Budget a council to be known as the ‘Program Management Policy Council’ (in this subsection referred to as the “Council”).
+  - **(1)** There is established in the Office of Management and Budget a council to be known as the “Program Management Policy Council” (in this subsection referred to as the “Council”).
   - **(2)** The Council shall act as the principal interagency forum for improving agency practices related to program and project management. The Council shall—
     - **(A)** advise and assist the Deputy Director for Management of the Office of Management and Budget;
     - **(B)** review programs identified as high risk by the Government Accountability Office and make recommendations for actions to be taken by the Deputy Director for Management of the Office of Management and Budget or a designee;

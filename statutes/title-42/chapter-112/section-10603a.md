@@ -3,9 +3,9 @@ title: "Section 10603a - Child abuse prevention and treatment grants"
 usc_title: 42
 usc_section: "10603a"
 chapter: 112
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 10603a"
-generated_at: "2026-03-30T06:26:27.447Z"
+generated_at: "2026-03-30T06:28:18.738Z"
 status: "active"
 ---
 

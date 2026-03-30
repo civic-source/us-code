@@ -3,9 +3,9 @@ title: "Section 8502 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "8502"
 chapter: 841
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 8502"
-generated_at: "2026-03-30T06:25:14.046Z"
+generated_at: "2026-03-30T06:27:02.126Z"
 status: "repealed"
 ---
 

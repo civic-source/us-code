@@ -3,9 +3,9 @@ title: "Section 4577 - Availability of appropriations during first three months 
 usc_title: 2
 usc_section: "4577"
 chapter: 45
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "2 U.S.C. § 4577"
-generated_at: "2026-03-30T06:25:03.047Z"
+generated_at: "2026-03-30T06:26:50.583Z"
 status: "active"
 ---
 

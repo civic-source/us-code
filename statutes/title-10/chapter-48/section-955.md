@@ -3,9 +3,9 @@ title: "Section 955 - Prisoners transferred to or from foreign countries"
 usc_title: 10
 usc_section: "955"
 chapter: 48
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 955"
-generated_at: "2026-03-30T06:25:13.951Z"
+generated_at: "2026-03-30T06:27:02.032Z"
 status: "active"
 ---
 

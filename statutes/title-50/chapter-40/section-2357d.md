@@ -3,9 +3,9 @@ title: "Section 2357d - Administrative support"
 usc_title: 50
 usc_section: "2357d"
 chapter: 40
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "50 U.S.C. § 2357d"
-generated_at: "2026-03-30T06:26:33.058Z"
+generated_at: "2026-03-30T06:28:24.853Z"
 status: "active"
 ---
 

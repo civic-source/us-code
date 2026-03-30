@@ -3,9 +3,9 @@ title: "Section 635n - Prohibition of loans, guarantees, and insurance as to sal
 usc_title: 12
 usc_section: "635n"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "12 U.S.C. § 635n"
-generated_at: "2026-03-30T06:25:22.082Z"
+generated_at: "2026-03-30T06:27:14.571Z"
 status: "active"
 ---
 

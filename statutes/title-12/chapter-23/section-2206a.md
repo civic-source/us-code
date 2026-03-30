@@ -3,9 +3,9 @@ title: "Section 2206a - Authority of Farm Credit Banks and direct lender associa
 usc_title: 12
 usc_section: "2206a"
 chapter: 23
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "12 U.S.C. § 2206a"
-generated_at: "2026-03-30T06:25:22.169Z"
+generated_at: "2026-03-30T06:27:14.648Z"
 status: "active"
 ---
 

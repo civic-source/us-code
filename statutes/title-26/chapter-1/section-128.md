@@ -3,9 +3,9 @@ title: "Section 128 - Repealed. Pub. L. 101–508, title XI , § 11801(a)(10), N
 usc_title: 26
 usc_section: "128"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 128"
-generated_at: "2026-03-30T06:25:52.298Z"
+generated_at: "2026-03-30T06:27:41.254Z"
 status: "repealed"
 ---
 

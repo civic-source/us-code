@@ -3,9 +3,9 @@ title: "Section 1391 - Designation procedure"
 usc_title: 26
 usc_section: "1391"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 1391"
-generated_at: "2026-03-30T06:25:52.416Z"
+generated_at: "2026-03-30T06:27:41.372Z"
 status: "active"
 ---
 

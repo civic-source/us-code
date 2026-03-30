@@ -3,9 +3,9 @@ title: "Section 56503 - Types of adjustments and arrangements"
 usc_title: 46
 usc_section: "56503"
 chapter: 565
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "46 U.S.C. § 56503"
-generated_at: "2026-03-30T06:26:30.749Z"
+generated_at: "2026-03-30T06:28:22.955Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5724d - Transportation and moving expenses for immediate family 
 usc_title: 5
 usc_section: "5724d"
 chapter: 57
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "5 U.S.C. § 5724d"
-generated_at: "2026-03-30T06:25:01.855Z"
+generated_at: "2026-03-30T06:26:54.944Z"
 status: "active"
 ---
 

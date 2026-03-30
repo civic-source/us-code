@@ -3,9 +3,9 @@ title: "Section 396e - Exchange of lands"
 usc_title: 16
 usc_section: "396e"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 396e"
-generated_at: "2026-03-30T06:25:32.243Z"
+generated_at: "2026-03-30T06:27:24.250Z"
 status: "active"
 ---
 

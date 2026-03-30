@@ -3,9 +3,9 @@ title: "Section 5606 - Prohibited acts and enforcement"
 usc_title: 16
 usc_section: "5606"
 chapter: 76
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 5606"
-generated_at: "2026-03-30T06:25:32.436Z"
+generated_at: "2026-03-30T06:27:24.447Z"
 status: "active"
 ---
 

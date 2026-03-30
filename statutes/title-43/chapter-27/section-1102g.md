@@ -3,9 +3,9 @@ title: "Section 1102g - Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 
 usc_title: 43
 usc_section: "1102g"
 chapter: 27
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 1102g"
-generated_at: "2026-03-30T06:26:15.061Z"
+generated_at: "2026-03-30T06:27:54.386Z"
 status: "repealed"
 ---
 

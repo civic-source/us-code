@@ -3,9 +3,9 @@ title: "Section 5117d - Repealed. Pub. L. 104–235, title I , § 142(a), Oct. 3
 usc_title: 42
 usc_section: "5117d"
 chapter: 67
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 5117d"
-generated_at: "2026-03-30T06:26:27.304Z"
+generated_at: "2026-03-30T06:28:18.590Z"
 status: "repealed"
 ---
 

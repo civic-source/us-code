@@ -3,9 +3,9 @@ title: "Section 391 - Continuance of restrictions on alienation in patent"
 usc_title: 25
 usc_section: "391"
 chapter: 12
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 391"
-generated_at: "2026-03-30T06:25:38.021Z"
+generated_at: "2026-03-30T06:27:28.393Z"
 status: "active"
 ---
 

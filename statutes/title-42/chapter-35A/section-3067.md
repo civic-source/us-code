@@ -3,9 +3,9 @@ title: "Section 3067 - Repealed. Pub. L. 94–135, title I , § 113(b), Nov. 28,
 usc_title: 42
 usc_section: "3067"
 chapter: 35
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 3067"
-generated_at: "2026-03-30T06:26:27.260Z"
+generated_at: "2026-03-30T06:28:18.543Z"
 status: "repealed"
 ---
 

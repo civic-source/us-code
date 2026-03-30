@@ -3,9 +3,9 @@ title: "Section 2753 - Notification of cost overruns for certain Department of E
 usc_title: 50
 usc_section: "2753"
 chapter: 42
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "50 U.S.C. § 2753"
-generated_at: "2026-03-30T06:26:33.067Z"
+generated_at: "2026-03-30T06:28:24.862Z"
 status: "active"
 ---
 

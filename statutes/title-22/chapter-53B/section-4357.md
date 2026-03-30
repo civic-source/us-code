@@ -3,9 +3,9 @@ title: "Section 4357 - Definitions"
 usc_title: 22
 usc_section: "4357"
 chapter: 53
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 4357"
-generated_at: "2026-03-30T06:25:39.913Z"
+generated_at: "2026-03-30T06:27:30.961Z"
 status: "active"
 ---
 

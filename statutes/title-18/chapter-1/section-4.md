@@ -3,9 +3,9 @@ title: "Section 4 - Misprision of felony"
 usc_title: 18
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 4"
-generated_at: "2026-03-30T06:25:27.565Z"
+generated_at: "2026-03-30T06:27:17.918Z"
 status: "active"
 ---
 

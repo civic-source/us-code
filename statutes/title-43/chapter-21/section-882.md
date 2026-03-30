@@ -3,9 +3,9 @@ title: "Section 882 - Surveyed lands taxable notwithstanding lien; provisos"
 usc_title: 43
 usc_section: "882"
 chapter: 21
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "43 U.S.C. § 882"
-generated_at: "2026-03-30T06:26:15.058Z"
+generated_at: "2026-03-30T06:27:54.382Z"
 status: "active"
 ---
 

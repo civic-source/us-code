@@ -3,9 +3,9 @@ title: "Section 4007 - Voluntary payments"
 usc_title: 16
 usc_section: "4007"
 chapter: 60
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 4007"
-generated_at: "2026-03-30T06:25:32.426Z"
+generated_at: "2026-03-30T06:27:24.438Z"
 status: "active"
 ---
 

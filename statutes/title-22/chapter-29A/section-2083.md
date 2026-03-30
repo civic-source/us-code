@@ -3,9 +3,9 @@ title: "Section 2083 - Commissioner for Interama; procurement and appointment of
 usc_title: 22
 usc_section: "2083"
 chapter: 29
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 2083"
-generated_at: "2026-03-30T06:25:39.856Z"
+generated_at: "2026-03-30T06:27:30.900Z"
 status: "active"
 ---
 

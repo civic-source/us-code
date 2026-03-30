@@ -3,9 +3,9 @@ title: "Section 2706 - Powers of Commission"
 usc_title: 25
 usc_section: "2706"
 chapter: 29
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "25 U.S.C. § 2706"
-generated_at: "2026-03-30T06:25:38.056Z"
+generated_at: "2026-03-30T06:27:28.426Z"
 status: "active"
 ---
 

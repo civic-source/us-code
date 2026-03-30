@@ -3,9 +3,9 @@ title: "Section 1257 - Application requirements"
 usc_title: 30
 usc_section: "1257"
 chapter: 25
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "30 U.S.C. § 1257"
-generated_at: "2026-03-30T06:25:42.092Z"
+generated_at: "2026-03-30T06:27:36.427Z"
 status: "active"
 ---
 

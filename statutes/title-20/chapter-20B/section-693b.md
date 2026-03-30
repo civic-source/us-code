@@ -3,9 +3,9 @@ title: "Section 693b - Repealed. Pub. L. 99–371, title II , § 210(c), formerl
 usc_title: 20
 usc_section: "693b"
 chapter: 20
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 693b"
-generated_at: "2026-03-30T06:25:29.131Z"
+generated_at: "2026-03-30T06:27:20.283Z"
 status: "repealed"
 ---
 

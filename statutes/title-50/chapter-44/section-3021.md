@@ -3,9 +3,9 @@ title: "Section 3021 - National Security Council"
 usc_title: 50
 usc_section: "3021"
 chapter: 44
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "50 U.S.C. § 3021"
-generated_at: "2026-03-30T06:26:33.069Z"
+generated_at: "2026-03-30T06:28:24.865Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(2)** assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President; and
   - **(3)** make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security.
 - **(c)**
-  - **(1)** The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, and such other officers of the United States Government as the President may designate.
+  - **(1)** The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and such other officers of the United States Government as the President may designate.
   - **(2)** The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, and the Chairman of the Joint Chiefs of Staff, to attend and participate in meetings of the Council.
 - **(d)** At meetings of the Council, the President shall preside or, in the absence of the President, a member of the Council designated by the President shall preside.
 - **(e)**

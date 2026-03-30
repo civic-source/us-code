@@ -3,9 +3,9 @@ title: "Section 1442 - Residue cargo"
 usc_title: 19
 usc_section: "1442"
 chapter: 4
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "19 U.S.C. § 1442"
-generated_at: "2026-03-30T06:25:26.212Z"
+generated_at: "2026-03-30T06:27:21.492Z"
 status: "active"
 ---
 

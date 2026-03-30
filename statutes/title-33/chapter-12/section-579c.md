@@ -1,15 +1,15 @@
 ---
-title: "Section 579c - Backlog prevention"
+title: "Section 579c - Backlog prevention: projects from Public Law 113–121"
 usc_title: 33
 usc_section: "579c"
 chapter: 12
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "33 U.S.C. § 579c"
-generated_at: "2026-03-30T06:26:00.740Z"
+generated_at: "2026-03-30T06:27:45.853Z"
 status: "active"
 ---
 
-# § 579c. Backlog prevention
+# § 579c. Backlog prevention: projects from Public Law 113–121
 
 - **(a)**
   - **(1)** A water resources development project, or separable element of such a project, authorized for construction by this Act shall not be authorized after the last day of the 7-year period beginning on June 10, 2014 , unless funds have been obligated for construction of such project during that period.

@@ -3,9 +3,9 @@ title: "Section 6063 - Signing of partnership returns"
 usc_title: 26
 usc_section: "6063"
 chapter: 61
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 6063"
-generated_at: "2026-03-30T06:25:52.473Z"
+generated_at: "2026-03-30T06:27:41.429Z"
 status: "active"
 ---
 

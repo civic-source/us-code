@@ -3,9 +3,9 @@ title: "Section 6932a - Prohibition on closure or relocation of county offices f
 usc_title: 7
 usc_section: "6932a"
 chapter: 98
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 6932a"
-generated_at: "2026-03-30T06:25:08.415Z"
+generated_at: "2026-03-30T06:27:05.331Z"
 status: "active"
 ---
 

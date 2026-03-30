@@ -3,9 +3,9 @@ title: "Section 408 - Equipment and training of foreign personnel to assist in D
 usc_title: 10
 usc_section: "408"
 chapter: 20
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 408"
-generated_at: "2026-03-30T06:25:13.932Z"
+generated_at: "2026-03-30T06:27:02.014Z"
 status: "active"
 ---
 

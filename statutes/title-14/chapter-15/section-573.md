@@ -3,9 +3,9 @@ title: "Section 573 - Preliminary development and demonstration"
 usc_title: 14
 usc_section: "573"
 chapter: 15
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "14 U.S.C. § 573"
-generated_at: "2026-03-30T06:25:19.308Z"
+generated_at: "2026-03-30T06:27:09.438Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** To ensure that the product capabilities meet contract specifications, acceptable operational performance requirements, and system security requirements.
   - **(3)** To ensure that the product design is mature enough to commit to full production and deployment.
 - **(b)**
-  - **(1)** The Commandant shall ensure that the Coast Guard conducts developmental tests and evaluations and operational tests and evaluations of a capability or asset and the subsystems of the capability or asset in accordance with the master plan prepared for the capability or asset under section 572(d)(1).
+  - **(1)** The Commandant shall ensure that the Coast Guard conducts developmental tests and evaluations and operational tests and evaluations of a capability or asset and the subsystems of the capability or asset in accordance with the master plan prepared for the capability or asset under section 572(d)(1). 1 1 See References in Text note below.
   - **(2)** The Commandant shall ensure that the Coast Guard uses independent third parties with expertise in testing and evaluating the capabilities or assets and the subsystems of the capabilities or assets being acquired to conduct developmental tests and evaluations and operational tests and evaluations whenever the Coast Guard lacks the capability to conduct the tests and evaluations required by a master plan.
   - **(3)** The Commandant shall require that safety concerns identified during developmental or operational tests and evaluations or through independent or Government-conducted design assessments of capabilities or assets and subsystems of capabilities or assets to be acquired by the Coast Guard shall be communicated as soon as practicable, but not later than 30 days after the completion of the test or assessment event or activity that identified the safety concern, to the program manager for the capability or asset and the subsystems concerned and to the Chief Acquisition Officer.
   - **(4)** Any safety concerns that have been reported to the Chief Acquisition Officer for an acquisition program or project shall be reported by the Commandant to the appropriate congressional committees at least 90 days before the award of any contract or issuance of any delivery order or task order for low, initial, or full-rate production of the capability or asset concerned if they will remain uncorrected or unmitigated at the time such a contract is awarded or delivery order or task order is issued. The report shall include a justification for the approval of that level of production of the capability or asset before the safety concerns are corrected or mitigated. The report shall also include an explanation of the actions that will be taken to correct or mitigate the safety concerns, the date by which those actions will be taken, and the adequacy of current funding to correct or mitigate the safety concerns.

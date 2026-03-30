@@ -3,9 +3,9 @@ title: "Section 2777 - Fiscal provisions relating to foreign military sales cred
 usc_title: 22
 usc_section: "2777"
 chapter: 39
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 2777"
-generated_at: "2026-03-30T06:25:39.891Z"
+generated_at: "2026-03-30T06:27:30.938Z"
 status: "active"
 ---
 

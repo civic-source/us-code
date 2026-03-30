@@ -3,9 +3,9 @@ title: "Section 17084 - Separate spaces with high-performance energy efficiency 
 usc_title: 42
 usc_section: "17084"
 chapter: 152
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 17084"
-generated_at: "2026-03-30T06:26:27.544Z"
+generated_at: "2026-03-30T06:28:18.839Z"
 status: "active"
 ---
 

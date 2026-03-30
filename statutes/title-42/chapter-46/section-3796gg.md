@@ -3,9 +3,9 @@ title: "Section 3796gg - Purpose of program and grants"
 usc_title: 42
 usc_section: "3796gg"
 chapter: 46
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 3796gg"
-generated_at: "2026-03-30T06:26:27.276Z"
+generated_at: "2026-03-30T06:28:18.562Z"
 status: "active"
 ---
 

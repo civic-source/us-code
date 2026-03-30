@@ -3,9 +3,9 @@ title: "Section 5176 - New or renewed bonds"
 usc_title: 26
 usc_section: "5176"
 chapter: 51
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 5176"
-generated_at: "2026-03-30T06:25:52.459Z"
+generated_at: "2026-03-30T06:27:41.415Z"
 status: "active"
 ---
 

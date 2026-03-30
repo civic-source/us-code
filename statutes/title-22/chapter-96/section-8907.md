@@ -3,9 +3,9 @@ title: "Section 8907 - Sanctions on persons responsible for violence or undermin
 usc_title: 22
 usc_section: "8907"
 chapter: 96
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 8907"
-generated_at: "2026-03-30T06:25:39.954Z"
+generated_at: "2026-03-30T06:27:31.002Z"
 status: "active"
 ---
 
@@ -28,4 +28,7 @@ status: "active"
 - **(c)** The President may waive the application of sanctions under subsection (b) with respect to a person if the President—
   - **(1)** determines that such a waiver is in the national security interests of the United States; and
   - **(2)** on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
-- **(d)** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+- **(d)** Subject to section 9511 of this title , the President may terminate the application of sanctions under subsection (b) with respect to a person if the President submits to the appropriate congressional committees a notice that—
+  - **(1)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+  - **(2)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
+- **(e)** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.

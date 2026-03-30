@@ -3,9 +3,9 @@ title: "Section 53517 - Reports"
 usc_title: 46
 usc_section: "53517"
 chapter: 535
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "46 U.S.C. § 53517"
-generated_at: "2026-03-30T06:26:30.745Z"
+generated_at: "2026-03-30T06:28:22.951Z"
 status: "active"
 ---
 

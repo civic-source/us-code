@@ -3,9 +3,9 @@ title: "Section 356e - Drug shortage list"
 usc_title: 21
 usc_section: "356e"
 chapter: 9
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "21 U.S.C. § 356e"
-generated_at: "2026-03-30T06:25:36.036Z"
+generated_at: "2026-03-30T06:27:29.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3111 - Rate of tax"
 usc_title: 26
 usc_section: "3111"
 chapter: 21
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "26 U.S.C. § 3111"
-generated_at: "2026-03-30T06:25:52.433Z"
+generated_at: "2026-03-30T06:27:41.389Z"
 status: "active"
 ---
 

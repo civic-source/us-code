@@ -3,9 +3,9 @@ title: "Section 1599h - Personnel management authority to attract experts in sci
 usc_title: 10
 usc_section: "1599h"
 chapter: 81
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 1599h"
-generated_at: "2026-03-30T06:25:13.978Z"
+generated_at: "2026-03-30T06:27:02.059Z"
 status: "active"
 ---
 

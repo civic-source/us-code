@@ -3,9 +3,9 @@ title: "Section 27a - Spousal notification"
 usc_title: 42
 usc_section: "27a"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 27a"
-generated_at: "2026-03-30T06:26:26.998Z"
+generated_at: "2026-03-30T06:28:18.257Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8306 - Determining status of novel derivative products"
 usc_title: 15
 usc_section: "8306"
 chapter: 109
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 8306"
-generated_at: "2026-03-30T06:25:19.036Z"
+generated_at: "2026-03-30T06:27:12.896Z"
 status: "active"
 ---
 

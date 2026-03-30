@@ -3,9 +3,9 @@ title: "Section 4645 - Repealed. Pub. L. 100–297, title I , § 1003(e), Apr. 2
 usc_title: 20
 usc_section: "4645"
 chapter: 58
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 4645"
-generated_at: "2026-03-30T06:25:29.216Z"
+generated_at: "2026-03-30T06:27:20.370Z"
 status: "repealed"
 ---
 

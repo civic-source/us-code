@@ -3,9 +3,9 @@ title: "Section 3004 - Decorum in court room—(Rule)"
 usc_title: 18
 usc_section: "3004"
 chapter: 201
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 3004"
-generated_at: "2026-03-30T06:25:27.606Z"
+generated_at: "2026-03-30T06:27:17.956Z"
 status: "active"
 ---
 

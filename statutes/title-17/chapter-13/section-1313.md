@@ -3,9 +3,9 @@ title: "Section 1313 - Examination of application and issue or refusal of regist
 usc_title: 17
 usc_section: "1313"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "17 U.S.C. § 1313"
-generated_at: "2026-03-30T06:25:24.205Z"
+generated_at: "2026-03-30T06:27:16.646Z"
 status: "active"
 ---
 

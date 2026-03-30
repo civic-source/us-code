@@ -3,9 +3,9 @@ title: "Section 3737 - Additional authorities and increased flexibility to provi
 usc_title: 19
 usc_section: "3737"
 chapter: 23
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "19 U.S.C. § 3737"
-generated_at: "2026-03-30T06:25:26.268Z"
+generated_at: "2026-03-30T06:27:21.548Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3505 - Savings provisions"
 usc_title: 20
 usc_section: "3505"
 chapter: 48
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 3505"
-generated_at: "2026-03-30T06:25:29.211Z"
+generated_at: "2026-03-30T06:27:20.364Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10110 - Air Force Reserve: composition"
 usc_title: 10
 usc_section: "10110"
 chapter: 1003
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 10110"
-generated_at: "2026-03-30T06:25:14.052Z"
+generated_at: "2026-03-30T06:27:02.132Z"
 status: "active"
 ---
 

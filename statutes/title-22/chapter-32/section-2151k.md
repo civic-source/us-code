@@ -3,9 +3,9 @@ title: "Section 2151k - Integrating women into national economies; report"
 usc_title: 22
 usc_section: "2151k"
 chapter: 32
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 2151k"
-generated_at: "2026-03-30T06:25:39.859Z"
+generated_at: "2026-03-30T06:27:30.904Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30906 - Restrictions"
 usc_title: 36
 usc_section: "30906"
 chapter: 309
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "36 U.S.C. § 30906"
-generated_at: "2026-03-30T06:26:03.093Z"
+generated_at: "2026-03-30T06:27:48.529Z"
 status: "active"
 ---
 

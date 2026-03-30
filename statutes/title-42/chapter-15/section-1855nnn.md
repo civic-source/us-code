@@ -3,9 +3,9 @@ title: "Section 1855nnn - Repealed. Pub. L. 91–606, title III , § 302(3), Dec
 usc_title: 42
 usc_section: "1855nnn"
 chapter: 15
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 1855nnn"
-generated_at: "2026-03-30T06:26:27.212Z"
+generated_at: "2026-03-30T06:28:18.489Z"
 status: "repealed"
 ---
 

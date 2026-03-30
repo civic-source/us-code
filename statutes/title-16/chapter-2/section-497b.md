@@ -3,9 +3,9 @@ title: "Section 497b - Ski area permits"
 usc_title: 16
 usc_section: "497b"
 chapter: 2
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 497b"
-generated_at: "2026-03-30T06:25:32.311Z"
+generated_at: "2026-03-30T06:27:24.320Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 28j - Other requirements"
 usc_title: 30
 usc_section: "28j"
 chapter: 2
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "30 U.S.C. § 28j"
-generated_at: "2026-03-30T06:25:42.069Z"
+generated_at: "2026-03-30T06:27:36.399Z"
 status: "active"
 ---
 

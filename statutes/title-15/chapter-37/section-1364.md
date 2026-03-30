@@ -3,9 +3,9 @@ title: "Section 1364 - Annual report by designated agencies to Secretary; report
 usc_title: 15
 usc_section: "1364"
 chapter: 37
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "15 U.S.C. § 1364"
-generated_at: "2026-03-30T06:25:18.951Z"
+generated_at: "2026-03-30T06:27:12.813Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2316 - Environmental protection mission"
 usc_title: 33
 usc_section: "2316"
 chapter: 36
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "33 U.S.C. § 2316"
-generated_at: "2026-03-30T06:26:00.786Z"
+generated_at: "2026-03-30T06:27:45.901Z"
 status: "active"
 ---
 

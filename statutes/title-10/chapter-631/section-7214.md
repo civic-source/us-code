@@ -3,9 +3,9 @@ title: "Section 7214 - Apprehension of deserters and prisoners; operation of sho
 usc_title: 10
 usc_section: "7214"
 chapter: 631
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 7214"
-generated_at: "2026-03-30T06:25:14.040Z"
+generated_at: "2026-03-30T06:27:02.120Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2677 - Availability of funds for travel expenses and transportat
 usc_title: 22
 usc_section: "2677"
 chapter: 38
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 2677"
-generated_at: "2026-03-30T06:25:39.886Z"
+generated_at: "2026-03-30T06:27:30.932Z"
 status: "active"
 ---
 

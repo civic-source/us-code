@@ -3,9 +3,9 @@ title: "Section 2612a - Omitted"
 usc_title: 20
 usc_section: "2612a"
 chapter: 46
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 2612a"
-generated_at: "2026-03-30T06:25:29.208Z"
+generated_at: "2026-03-30T06:27:20.362Z"
 status: "omitted"
 ---
 

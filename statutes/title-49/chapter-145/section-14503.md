@@ -3,9 +3,9 @@ title: "Section 14503 - Withholding State and local income tax by certain carrie
 usc_title: 49
 usc_section: "14503"
 chapter: 145
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "49 U.S.C. § 14503"
-generated_at: "2026-03-30T06:26:35.029Z"
+generated_at: "2026-03-30T06:28:26.638Z"
 status: "active"
 ---
 

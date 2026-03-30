@@ -3,9 +3,9 @@ title: "Section 7334 - Flood risk reduction"
 usc_title: 7
 usc_section: "7334"
 chapter: 100
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 7334"
-generated_at: "2026-03-30T06:25:08.423Z"
+generated_at: "2026-03-30T06:27:05.339Z"
 status: "active"
 ---
 

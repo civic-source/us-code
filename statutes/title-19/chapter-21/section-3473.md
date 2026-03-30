@@ -3,9 +3,9 @@ title: "Section 3473 - Agreement on Border Environment Cooperation Commission"
 usc_title: 19
 usc_section: "3473"
 chapter: 21
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "19 U.S.C. § 3473"
-generated_at: "2026-03-30T06:25:26.264Z"
+generated_at: "2026-03-30T06:27:21.544Z"
 status: "active"
 ---
 

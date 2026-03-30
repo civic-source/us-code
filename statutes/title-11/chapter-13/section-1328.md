@@ -3,9 +3,9 @@ title: "Section 1328 - Discharge"
 usc_title: 11
 usc_section: "1328"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "11 U.S.C. § 1328"
-generated_at: "2026-03-30T06:25:16.204Z"
+generated_at: "2026-03-30T06:27:09.732Z"
 status: "active"
 ---
 

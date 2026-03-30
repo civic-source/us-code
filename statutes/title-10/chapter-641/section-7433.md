@@ -3,9 +3,9 @@ title: "Section 7433 - Disposition of royalties"
 usc_title: 10
 usc_section: "7433"
 chapter: 641
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 7433"
-generated_at: "2026-03-30T06:25:14.042Z"
+generated_at: "2026-03-30T06:27:02.122Z"
 status: "active"
 ---
 

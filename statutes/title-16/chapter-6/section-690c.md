@@ -3,9 +3,9 @@ title: "Section 690c - Existence of easements, reservations, or exceptions as ba
 usc_title: 16
 usc_section: "690c"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 690c"
-generated_at: "2026-03-30T06:25:32.334Z"
+generated_at: "2026-03-30T06:27:24.343Z"
 status: "active"
 ---
 

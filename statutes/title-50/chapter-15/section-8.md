@@ -3,9 +3,9 @@ title: "Section 8 - Transferred"
 usc_title: 50
 usc_section: "8"
 chapter: 15
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "50 U.S.C. § 8"
-generated_at: "2026-03-30T06:26:33.040Z"
+generated_at: "2026-03-30T06:28:24.836Z"
 status: "transferred"
 ---
 

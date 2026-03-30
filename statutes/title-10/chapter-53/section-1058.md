@@ -3,9 +3,9 @@ title: "Section 1058 - Responsibilities of military law enforcement officials at
 usc_title: 10
 usc_section: "1058"
 chapter: 53
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 1058"
-generated_at: "2026-03-30T06:25:13.954Z"
+generated_at: "2026-03-30T06:27:02.036Z"
 status: "active"
 ---
 

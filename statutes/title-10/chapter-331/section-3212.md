@@ -3,9 +3,9 @@ title: "Section 3212 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(
 usc_title: 10
 usc_section: "3212"
 chapter: 331
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "10 U.S.C. § 3212"
-generated_at: "2026-03-30T06:25:14.026Z"
+generated_at: "2026-03-30T06:27:02.106Z"
 status: "repealed"
 ---
 

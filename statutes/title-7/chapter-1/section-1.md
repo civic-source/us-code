@@ -3,9 +3,9 @@ title: "Section 1 - Enjoining or restraining violations"
 usc_title: 7
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T06:25:08.277Z"
+generated_at: "2026-03-30T06:27:05.188Z"
 status: "active"
 ---
 

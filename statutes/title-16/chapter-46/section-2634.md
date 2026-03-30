@@ -3,9 +3,9 @@ title: "Section 2634 - Prior and pending proceedings"
 usc_title: 16
 usc_section: "2634"
 chapter: 46
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 2634"
-generated_at: "2026-03-30T06:25:32.407Z"
+generated_at: "2026-03-30T06:27:24.418Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 850 - Information for sentencing"
 usc_title: 21
 usc_section: "850"
 chapter: 13
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "21 U.S.C. § 850"
-generated_at: "2026-03-30T06:25:36.076Z"
+generated_at: "2026-03-30T06:27:29.249Z"
 status: "active"
 ---
 

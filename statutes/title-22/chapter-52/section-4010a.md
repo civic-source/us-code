@@ -3,9 +3,9 @@ title: "Section 4010a - Reductions in force"
 usc_title: 22
 usc_section: "4010a"
 chapter: 52
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 4010a"
-generated_at: "2026-03-30T06:25:39.904Z"
+generated_at: "2026-03-30T06:27:30.951Z"
 status: "active"
 ---
 

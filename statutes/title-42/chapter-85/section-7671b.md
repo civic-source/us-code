@@ -3,9 +3,9 @@ title: "Section 7671b - Monitoring and reporting requirements"
 usc_title: 42
 usc_section: "7671b"
 chapter: 85
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 7671b"
-generated_at: "2026-03-30T06:26:27.393Z"
+generated_at: "2026-03-30T06:28:18.683Z"
 status: "active"
 ---
 

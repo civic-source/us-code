@@ -3,9 +3,9 @@ title: "Section 70305 - Suspension of passenger services"
 usc_title: 46
 usc_section: "70305"
 chapter: 703
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "46 U.S.C. § 70305"
-generated_at: "2026-03-30T06:26:30.754Z"
+generated_at: "2026-03-30T06:28:22.960Z"
 status: "active"
 ---
 

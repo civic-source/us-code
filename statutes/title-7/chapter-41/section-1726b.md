@@ -3,9 +3,9 @@ title: "Section 1726b - Assistance for stockpiling and rapid transportation, del
 usc_title: 7
 usc_section: "1726b"
 chapter: 41
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 1726b"
-generated_at: "2026-03-30T06:25:08.343Z"
+generated_at: "2026-03-30T06:27:05.256Z"
 status: "active"
 ---
 

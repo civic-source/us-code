@@ -3,9 +3,9 @@ title: "Section 678 - Exchange of lands with State of South Dakota and Norbeck W
 usc_title: 16
 usc_section: "678"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 678"
-generated_at: "2026-03-30T06:25:32.334Z"
+generated_at: "2026-03-30T06:27:24.343Z"
 status: "active"
 ---
 

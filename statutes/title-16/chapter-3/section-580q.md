@@ -3,9 +3,9 @@ title: "Section 580q - National Tree Seed Laboratory; disposition of fees"
 usc_title: 16
 usc_section: "580q"
 chapter: 3
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 580q"
-generated_at: "2026-03-30T06:25:32.324Z"
+generated_at: "2026-03-30T06:27:24.333Z"
 status: "active"
 ---
 

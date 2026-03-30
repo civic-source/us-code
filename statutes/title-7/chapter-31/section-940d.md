@@ -3,9 +3,9 @@ title: "Section 940d - Limitations on authorization of appropriations"
 usc_title: 7
 usc_section: "940d"
 chapter: 31
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "7 U.S.C. § 940d"
-generated_at: "2026-03-30T06:25:08.313Z"
+generated_at: "2026-03-30T06:27:05.226Z"
 status: "active"
 ---
 

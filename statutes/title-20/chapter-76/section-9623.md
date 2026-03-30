@@ -3,9 +3,9 @@ title: "Section 9623 - Definitions"
 usc_title: 20
 usc_section: "9623"
 chapter: 76
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "20 U.S.C. § 9623"
-generated_at: "2026-03-30T06:25:29.256Z"
+generated_at: "2026-03-30T06:27:20.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2332h - Radiological dispersal devices"
 usc_title: 18
 usc_section: "2332h"
 chapter: 113
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 2332h"
-generated_at: "2026-03-30T06:25:27.602Z"
+generated_at: "2026-03-30T06:27:17.953Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2296d - Strengthening democracy, tolerance, and the development 
 usc_title: 22
 usc_section: "2296d"
 chapter: 32
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "22 U.S.C. § 2296d"
-generated_at: "2026-03-30T06:25:39.869Z"
+generated_at: "2026-03-30T06:27:30.914Z"
 status: "active"
 ---
 

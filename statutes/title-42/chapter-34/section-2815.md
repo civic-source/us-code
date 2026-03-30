@@ -3,9 +3,9 @@ title: "Section 2815 - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13,
 usc_title: 42
 usc_section: "2815"
 chapter: 34
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 2815"
-generated_at: "2026-03-30T06:26:27.248Z"
+generated_at: "2026-03-30T06:28:18.527Z"
 status: "repealed"
 ---
 

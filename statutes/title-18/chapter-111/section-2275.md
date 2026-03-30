@@ -3,9 +3,9 @@ title: "Section 2275 - Firing or tampering with vessels"
 usc_title: 18
 usc_section: "2275"
 chapter: 111
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "18 U.S.C. § 2275"
-generated_at: "2026-03-30T06:25:27.599Z"
+generated_at: "2026-03-30T06:27:17.950Z"
 status: "active"
 ---
 

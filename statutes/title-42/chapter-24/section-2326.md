@@ -3,9 +3,9 @@ title: "Section 2326 - Deductions from sales price"
 usc_title: 42
 usc_section: "2326"
 chapter: 24
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 2326"
-generated_at: "2026-03-30T06:26:27.246Z"
+generated_at: "2026-03-30T06:28:18.524Z"
 status: "active"
 ---
 

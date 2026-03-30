@@ -3,9 +3,9 @@ title: "Section 5154 - Moratorium"
 usc_title: 16
 usc_section: "5154"
 chapter: 71
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "16 U.S.C. § 5154"
-generated_at: "2026-03-30T06:25:32.433Z"
+generated_at: "2026-03-30T06:27:24.445Z"
 status: "active"
 ---
 

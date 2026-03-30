@@ -3,9 +3,9 @@ title: "Section 7a - Heart attack, stroke, and other cardiovascular diseases in 
 usc_title: 42
 usc_section: "7a"
 chapter: 6
-current_through: "PL 115-43"
+current_through: "PL 115-45"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T06:26:26.937Z"
+generated_at: "2026-03-30T06:28:18.189Z"
 status: "active"
 ---
 
