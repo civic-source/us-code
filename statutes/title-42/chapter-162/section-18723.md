@@ -3,9 +3,9 @@ title: "Section 18723 - Rural and municipal utility advanced cybersecurity grant
 usc_title: 42
 usc_section: "18723"
 chapter: 162
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 18723"
-generated_at: "2026-03-30T00:44:58.902Z"
+generated_at: "2026-03-30T00:49:19.033Z"
 ---
 
 # § 18723. Rural and municipal utility advanced cybersecurity grant and technical assistance program

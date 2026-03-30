@@ -3,9 +3,9 @@ title: "Section 286b - National Advisory Council on International Monetary and F
 usc_title: 22
 usc_section: "286b"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 286b"
-generated_at: "2026-03-30T00:42:54.430Z"
+generated_at: "2026-03-30T00:47:22.463Z"
 ---
 
 # § 286b. National Advisory Council on International Monetary and Financial Problems

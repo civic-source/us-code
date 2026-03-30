@@ -3,9 +3,9 @@ title: "Section 711 - Parental leave for members of certain reserve components o
 usc_title: 10
 usc_section: "711"
 chapter: 40
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 711"
-generated_at: "2026-03-30T00:41:56.866Z"
+generated_at: "2026-03-30T00:46:04.660Z"
 ---
 
 # § 711. 1 1 Another section 711 is set out in chapter 41 of this title. Parental leave for members of certain reserve components of the armed forces

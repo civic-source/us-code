@@ -3,9 +3,9 @@ title: "Section 1853 - Administrative sanctions"
 usc_title: 29
 usc_section: "1853"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 1853"
-generated_at: "2026-03-30T00:42:59.088Z"
+generated_at: "2026-03-30T00:47:42.011Z"
 ---
 
 # § 1853. Administrative sanctions

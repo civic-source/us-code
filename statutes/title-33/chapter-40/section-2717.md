@@ -3,9 +3,9 @@ title: "Section 2717 - Litigation, jurisdiction, and venue"
 usc_title: 33
 usc_section: "2717"
 chapter: 40
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 2717"
-generated_at: "2026-03-30T00:44:01.031Z"
+generated_at: "2026-03-30T00:47:56.741Z"
 ---
 
 # § 2717. Litigation, jurisdiction, and venue

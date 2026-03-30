@@ -3,9 +3,9 @@ title: "Section 274 - International Council of Scientific Unions and Associated 
 usc_title: 22
 usc_section: "274"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 274"
-generated_at: "2026-03-30T00:42:54.423Z"
+generated_at: "2026-03-30T00:47:22.455Z"
 ---
 
 # § 274. International Council of Scientific Unions and Associated Unions; authorization of annual appropriations for membership

@@ -3,9 +3,9 @@ title: "Section 645 - Repealed. Pub. L. 100–485, title II, § 202(a) , Oct. 13
 usc_title: 42
 usc_section: "645"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 645"
-generated_at: "2026-03-30T00:44:58.345Z"
+generated_at: "2026-03-30T00:49:18.340Z"
 ---
 
 # §§ 633 to 645. Repealed. Pub. L. 100–485, title II, § 202(a) , Oct. 13, 1988 , 102 Stat. 2377

@@ -3,9 +3,9 @@ title: "Section 5370 - Discretionary application of other sections"
 usc_title: 25
 usc_section: "5370"
 chapter: 46
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 5370"
-generated_at: "2026-03-30T00:42:43.366Z"
+generated_at: "2026-03-30T00:47:11.236Z"
 ---
 
 # § 5370. Discretionary application of other sections

@@ -3,9 +3,9 @@ title: "Section 1114 - Rates of wartime disability compensation"
 usc_title: 38
 usc_section: "1114"
 chapter: 11
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "38 U.S.C. § 1114"
-generated_at: "2026-03-30T00:44:18.466Z"
+generated_at: "2026-03-30T00:48:21.063Z"
 ---
 
 # § 1114. Rates of wartime disability compensation

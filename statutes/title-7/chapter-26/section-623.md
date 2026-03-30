@@ -3,9 +3,9 @@ title: "Section 623 - Actions relating to tax; legalization of prior taxes"
 usc_title: 7
 usc_section: "623"
 chapter: 26
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 623"
-generated_at: "2026-03-30T00:41:49.504Z"
+generated_at: "2026-03-30T00:45:50.777Z"
 ---
 
 # § 623. Actions relating to tax; legalization of prior taxes

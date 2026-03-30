@@ -3,9 +3,9 @@ title: "Section 54 - Completion of surveys; delivery to States"
 usc_title: 43
 usc_section: "54"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 54"
-generated_at: "2026-03-30T00:44:30.432Z"
+generated_at: "2026-03-30T00:48:34.207Z"
 ---
 
 # § 54. Completion of surveys; delivery to States

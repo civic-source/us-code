@@ -3,9 +3,9 @@ title: "Section 19 - Acreages"
 usc_title: 16
 usc_section: "19"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 19"
-generated_at: "2026-03-30T00:42:28.830Z"
+generated_at: "2026-03-30T00:46:53.296Z"
 ---
 
 # § 460vv–19. Acreages

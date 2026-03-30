@@ -3,9 +3,9 @@ title: "Section 24313 - Rail safety system program"
 usc_title: 49
 usc_section: "24313"
 chapter: 243
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 24313"
-generated_at: "2026-03-30T00:45:11.504Z"
+generated_at: "2026-03-30T00:49:28.268Z"
 ---
 
 # § 24313. Rail safety system program

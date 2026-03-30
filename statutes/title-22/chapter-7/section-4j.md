@@ -3,9 +3,9 @@ title: "Section 4j - Promotion of lending for environment"
 usc_title: 22
 usc_section: "4j"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 4j"
-generated_at: "2026-03-30T00:42:54.420Z"
+generated_at: "2026-03-30T00:47:22.453Z"
 ---
 
 # § 262p–4j. Promotion of lending for environment

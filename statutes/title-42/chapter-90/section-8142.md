@@ -3,9 +3,9 @@ title: "Section 8142 - Statement of purpose"
 usc_title: 42
 usc_section: "8142"
 chapter: 90
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 8142"
-generated_at: "2026-03-30T00:44:58.737Z"
+generated_at: "2026-03-30T00:49:18.806Z"
 ---
 
 # § 8142. Statement of purpose

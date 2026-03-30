@@ -3,9 +3,9 @@ title: "Section 2712 - Issue of warrant"
 usc_title: 28
 usc_section: "2712"
 chapter: 173
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "28 U.S.C. § 2712"
-generated_at: "2026-03-30T00:43:33.231Z"
+generated_at: "2026-03-30T00:47:29.030Z"
 ---
 
 # § 2712. Issue of warrant

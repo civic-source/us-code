@@ -3,9 +3,9 @@ title: "Section 5382 - Establishment of rates of pay for the Senior Executive Se
 usc_title: 5
 usc_section: "5382"
 chapter: 53
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 5382"
-generated_at: "2026-03-30T00:41:37.002Z"
+generated_at: "2026-03-30T00:45:37.299Z"
 ---
 
 # § 5382. Establishment of rates of pay for the Senior Executive Service

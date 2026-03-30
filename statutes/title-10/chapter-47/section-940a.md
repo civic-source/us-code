@@ -3,9 +3,9 @@ title: "Section 940a - Art. 140a. Case management; data collection and accessibi
 usc_title: 10
 usc_section: "940a"
 chapter: 47
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 940a"
-generated_at: "2026-03-30T00:41:56.876Z"
+generated_at: "2026-03-30T00:46:04.669Z"
 ---
 
 # § 940a. Art. 140a. Case management; data collection and accessibility

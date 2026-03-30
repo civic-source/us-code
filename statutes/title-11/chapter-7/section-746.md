@@ -3,9 +3,9 @@ title: "Section 746 - Extent of customer claims"
 usc_title: 11
 usc_section: "746"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "11 U.S.C. § 746"
-generated_at: "2026-03-30T00:42:01.665Z"
+generated_at: "2026-03-30T00:46:14.841Z"
 ---
 
 # § 746. Extent of customer claims

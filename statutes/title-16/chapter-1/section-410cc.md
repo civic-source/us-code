@@ -3,9 +3,9 @@ title: "Section 410cc - Congressional statement of findings and purpose"
 usc_title: 16
 usc_section: "410cc"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 410cc"
-generated_at: "2026-03-30T00:42:28.775Z"
+generated_at: "2026-03-30T00:46:53.243Z"
 ---
 
 # § 410cc. Congressional statement of findings and purpose

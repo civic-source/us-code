@@ -3,9 +3,9 @@ title: "Section 7810 - Authority for Secretary to suspend or terminate order"
 usc_title: 7
 usc_section: "7810"
 chapter: 105
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 7810"
-generated_at: "2026-03-30T00:41:49.704Z"
+generated_at: "2026-03-30T00:45:50.908Z"
 ---
 
 # § 7810. Authority for Secretary to suspend or terminate order

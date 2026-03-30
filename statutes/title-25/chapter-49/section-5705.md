@@ -3,9 +3,9 @@ title: "Section 5705 - Annual reporting requirements"
 usc_title: 25
 usc_section: "5705"
 chapter: 49
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 5705"
-generated_at: "2026-03-30T00:42:43.370Z"
+generated_at: "2026-03-30T00:47:11.240Z"
 ---
 
 # § 5705. Annual reporting requirements

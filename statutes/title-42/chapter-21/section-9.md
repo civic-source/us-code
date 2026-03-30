@@ -3,9 +3,9 @@ title: "Section 9 - Conduct of hearings and investigations pursuant to section 1
 usc_title: 42
 usc_section: "9"
 chapter: 21
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T00:44:58.564Z"
+generated_at: "2026-03-30T00:49:18.593Z"
 ---
 
 # § 2000e–9. Conduct of hearings and investigations pursuant to section 161 of title 29

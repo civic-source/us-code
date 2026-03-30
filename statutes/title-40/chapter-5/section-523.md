@@ -3,9 +3,9 @@ title: "Section 523 - Excess real property located on Indian reservations"
 usc_title: 40
 usc_section: "523"
 chapter: 5
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "40 U.S.C. § 523"
-generated_at: "2026-03-30T00:44:04.694Z"
+generated_at: "2026-03-30T00:48:09.832Z"
 ---
 
 # § 523. Excess real property located on Indian reservations

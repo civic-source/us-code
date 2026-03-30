@@ -3,9 +3,9 @@ title: "Section 7262 - Repealed. Pub. L. 104–206, title V, § 502 , Sept. 30, 
 usc_title: 42
 usc_section: "7262"
 chapter: 84
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 7262"
-generated_at: "2026-03-30T00:44:58.693Z"
+generated_at: "2026-03-30T00:49:18.755Z"
 ---
 
 # § 7262. Repealed. Pub. L. 104–206, title V, § 502 , Sept. 30, 1996 , 110 Stat. 3002

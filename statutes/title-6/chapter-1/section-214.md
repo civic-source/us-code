@@ -3,9 +3,9 @@ title: "Section 214 - Separate budget request for Customs"
 usc_title: 6
 usc_section: "214"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "6 U.S.C. § 214"
-generated_at: "2026-03-30T00:41:41.201Z"
+generated_at: "2026-03-30T00:45:43.585Z"
 ---
 
 # § 214. Separate budget request for Customs

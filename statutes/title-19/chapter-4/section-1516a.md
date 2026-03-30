@@ -3,9 +3,9 @@ title: "Section 1516a - Judicial review in countervailing duty and antidumping d
 usc_title: 19
 usc_section: "1516a"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 1516a"
-generated_at: "2026-03-30T00:42:13.277Z"
+generated_at: "2026-03-30T00:46:50.674Z"
 ---
 
 # § 1516a. Judicial review in countervailing duty and antidumping duty proceedings

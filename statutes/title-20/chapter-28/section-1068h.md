@@ -3,9 +3,9 @@ title: "Section 1068h - Authorization of appropriations"
 usc_title: 20
 usc_section: "1068h"
 chapter: 28
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 1068h"
-generated_at: "2026-03-30T00:42:15.719Z"
+generated_at: "2026-03-30T00:46:49.198Z"
 ---
 
 # § 1068h. Authorization of appropriations

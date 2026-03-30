@@ -3,9 +3,9 @@ title: "Section 7304 - Citizenship notation on merchant mariners’ documents"
 usc_title: 46
 usc_section: "7304"
 chapter: 73
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 7304"
-generated_at: "2026-03-30T00:45:02.365Z"
+generated_at: "2026-03-30T00:49:23.391Z"
 ---
 
 # § 7304. Citizenship notation on merchant mariners’ documents

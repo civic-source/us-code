@@ -3,9 +3,9 @@ title: "Section 10707 - Evaluation of performance of Department of Justice progr
 usc_title: 34
 usc_section: "10707"
 chapter: 101
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "34 U.S.C. § 10707"
-generated_at: "2026-03-30T00:43:45.628Z"
+generated_at: "2026-03-30T00:47:53.096Z"
 ---
 
 # § 10707. Evaluation of performance of Department of Justice programs

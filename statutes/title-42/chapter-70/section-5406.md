@@ -3,9 +3,9 @@ title: "Section 5406 - Submission of cost or other information by manufacturer"
 usc_title: 42
 usc_section: "5406"
 chapter: 70
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 5406"
-generated_at: "2026-03-30T00:44:58.648Z"
+generated_at: "2026-03-30T00:49:18.705Z"
 ---
 
 # § 5406. Submission of cost or other information by manufacturer

@@ -3,9 +3,9 @@ title: "Section 60123 - Criminal penalties"
 usc_title: 49
 usc_section: "60123"
 chapter: 601
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 60123"
-generated_at: "2026-03-30T00:45:11.565Z"
+generated_at: "2026-03-30T00:49:28.330Z"
 ---
 
 # § 60123. Criminal penalties

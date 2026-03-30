@@ -3,9 +3,9 @@ title: "Section 6505 - Appropriations for contingent expenses of Senate; restric
 usc_title: 2
 usc_section: "6505"
 chapter: 65
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 6505"
-generated_at: "2026-03-30T00:41:25.800Z"
+generated_at: "2026-03-30T00:45:29.264Z"
 ---
 
 # § 6505. Appropriations for contingent expenses of Senate; restrictions

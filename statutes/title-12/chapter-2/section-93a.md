@@ -3,9 +3,9 @@ title: "Section 93a - Authority to prescribe rules and regulations"
 usc_title: 12
 usc_section: "93a"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 93a"
-generated_at: "2026-03-30T00:42:04.379Z"
+generated_at: "2026-03-30T00:46:42.340Z"
 ---
 
 # § 93a. Authority to prescribe rules and regulations

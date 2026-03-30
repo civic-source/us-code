@@ -3,9 +3,9 @@ title: "Section 973 - Application for indemnity agreements"
 usc_title: 20
 usc_section: "973"
 chapter: 26
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 973"
-generated_at: "2026-03-30T00:42:15.708Z"
+generated_at: "2026-03-30T00:46:49.184Z"
 ---
 
 # § 973. Application for indemnity agreements

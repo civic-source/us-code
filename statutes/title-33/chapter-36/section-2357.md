@@ -3,9 +3,9 @@ title: "Section 2357 - Managed aquifer recharge study and working group"
 usc_title: 33
 usc_section: "2357"
 chapter: 36
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 2357"
-generated_at: "2026-03-30T00:44:01.028Z"
+generated_at: "2026-03-30T00:47:56.737Z"
 ---
 
 # § 2357. Managed aquifer recharge study and working group

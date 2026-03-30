@@ -3,9 +3,9 @@ title: "Section 153 - Existing laws unaffected by admission of Oklahoma; rights 
 usc_title: 16
 usc_section: "153"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 153"
-generated_at: "2026-03-30T00:42:28.751Z"
+generated_at: "2026-03-30T00:46:53.222Z"
 ---
 
 # § 153. Existing laws unaffected by admission of Oklahoma; rights and jurisdiction of United States; indemnity school lands

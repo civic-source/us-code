@@ -3,9 +3,9 @@ title: "Section 12 - Loan repayment for civil legal assistance attorneys"
 usc_title: 20
 usc_section: "12"
 chapter: 28
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T00:42:15.732Z"
+generated_at: "2026-03-30T00:46:49.210Z"
 ---
 
 # § 1078–12. Loan repayment for civil legal assistance attorneys

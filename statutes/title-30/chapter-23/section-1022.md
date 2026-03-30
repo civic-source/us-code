@@ -3,9 +3,9 @@ title: "Section 1022 - Prevention of waste; exclusivity"
 usc_title: 30
 usc_section: "1022"
 chapter: 23
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 1022"
-generated_at: "2026-03-30T00:42:57.085Z"
+generated_at: "2026-03-30T00:47:30.530Z"
 ---
 
 # § 1022. Prevention of waste; exclusivity

@@ -3,9 +3,9 @@ title: "Section 1833a - Civil penalties"
 usc_title: 12
 usc_section: "1833a"
 chapter: 16
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 1833a"
-generated_at: "2026-03-30T00:42:04.480Z"
+generated_at: "2026-03-30T00:46:42.443Z"
 ---
 
 # § 1833a. Civil penalties

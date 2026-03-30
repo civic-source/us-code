@@ -3,9 +3,9 @@ title: "Section 4723 - Local government programs and grants"
 usc_title: 42
 usc_section: "4723"
 chapter: 62
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 4723"
-generated_at: "2026-03-30T00:44:58.626Z"
+generated_at: "2026-03-30T00:49:18.676Z"
 ---
 
 # § 4723. Local government programs and grants

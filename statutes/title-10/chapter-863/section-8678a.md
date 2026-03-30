@@ -3,9 +3,9 @@ title: "Section 8678a - Limitation on decommissioning or inactivating a battle f
 usc_title: 10
 usc_section: "8678a"
 chapter: 863
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8678a"
-generated_at: "2026-03-30T00:41:56.996Z"
+generated_at: "2026-03-30T00:46:04.785Z"
 ---
 
 # § 8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life

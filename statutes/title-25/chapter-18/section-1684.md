@@ -3,9 +3,9 @@ title: "Section 1684 - Emergency plan for Indian safety and health"
 usc_title: 25
 usc_section: "1684"
 chapter: 18
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 1684"
-generated_at: "2026-03-30T00:42:43.314Z"
+generated_at: "2026-03-30T00:47:11.198Z"
 ---
 
 # § 1684. Emergency plan for Indian safety and health

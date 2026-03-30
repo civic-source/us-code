@@ -3,9 +3,9 @@ title: "Section 40744 - Offset of funds appropriated"
 usc_title: 34
 usc_section: "40744"
 chapter: 407
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "34 U.S.C. § 40744"
-generated_at: "2026-03-30T00:43:45.663Z"
+generated_at: "2026-03-30T00:47:53.134Z"
 ---
 
 # § 40744. Offset of funds appropriated

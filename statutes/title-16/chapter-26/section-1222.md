@@ -3,9 +3,9 @@ title: "Section 1222 - General study and inventory of estuaries and their natura
 usc_title: 16
 usc_section: "1222"
 chapter: 26
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 1222"
-generated_at: "2026-03-30T00:42:28.915Z"
+generated_at: "2026-03-30T00:46:53.380Z"
 ---
 
 # § 1222. General study and inventory of estuaries and their natural resources

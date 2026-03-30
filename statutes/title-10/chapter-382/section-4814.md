@@ -3,9 +3,9 @@ title: "Section 4814 - National technology and industrial base: biennial report"
 usc_title: 10
 usc_section: "4814"
 chapter: 382
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 4814"
-generated_at: "2026-03-30T00:41:56.975Z"
+generated_at: "2026-03-30T00:46:04.765Z"
 ---
 
 # § 4814. National technology and industrial base: biennial report

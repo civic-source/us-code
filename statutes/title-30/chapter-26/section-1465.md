@@ -3,9 +3,9 @@ title: "Section 1465 - Liability of vessels"
 usc_title: 30
 usc_section: "1465"
 chapter: 26
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 1465"
-generated_at: "2026-03-30T00:42:57.096Z"
+generated_at: "2026-03-30T00:47:30.541Z"
 ---
 
 # § 1465. Liability of vessels

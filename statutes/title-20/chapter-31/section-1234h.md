@@ -3,9 +3,9 @@ title: "Section 1234h - Use of recovered funds"
 usc_title: 20
 usc_section: "1234h"
 chapter: 31
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 1234h"
-generated_at: "2026-03-30T00:42:15.772Z"
+generated_at: "2026-03-30T00:46:49.249Z"
 ---
 
 # § 1234h. Use of recovered funds

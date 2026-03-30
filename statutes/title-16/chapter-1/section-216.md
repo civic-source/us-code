@@ -3,9 +3,9 @@ title: "Section 216 - Authorization of appropriation"
 usc_title: 16
 usc_section: "216"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 216"
-generated_at: "2026-03-30T00:42:28.755Z"
+generated_at: "2026-03-30T00:46:53.225Z"
 ---
 
 # § 216. Authorization of appropriation

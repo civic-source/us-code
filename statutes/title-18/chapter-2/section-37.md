@@ -3,9 +3,9 @@ title: "Section 37 - Violence at international airports"
 usc_title: 18
 usc_section: "37"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "18 U.S.C. § 37"
-generated_at: "2026-03-30T00:42:11.157Z"
+generated_at: "2026-03-30T00:47:06.455Z"
 ---
 
 # § 37. Violence at international airports

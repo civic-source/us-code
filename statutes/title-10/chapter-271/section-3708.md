@@ -3,9 +3,9 @@ title: "Section 3708 - Right to examine contractor records"
 usc_title: 10
 usc_section: "3708"
 chapter: 271
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 3708"
-generated_at: "2026-03-30T00:41:56.963Z"
+generated_at: "2026-03-30T00:46:04.753Z"
 ---
 
 # § 3708. Right to examine contractor records

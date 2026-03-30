@@ -3,9 +3,9 @@ title: "Section 770 - Rectangular mode of survey; departure from"
 usc_title: 43
 usc_section: "770"
 chapter: 18
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 770"
-generated_at: "2026-03-30T00:44:30.455Z"
+generated_at: "2026-03-30T00:48:34.229Z"
 ---
 
 # § 770. Rectangular mode of survey; departure from

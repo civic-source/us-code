@@ -3,9 +3,9 @@ title: "Section 2073 - Repealed. Pub. L. 115–282, title VI, § 601(c)(5) , Dec
 usc_title: 33
 usc_section: "2073"
 chapter: 34
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 2073"
-generated_at: "2026-03-30T00:44:01.014Z"
+generated_at: "2026-03-30T00:47:56.722Z"
 ---
 
 # § 2073. Repealed. Pub. L. 115–282, title VI, § 601(c)(5) , Dec. 4, 2018 , 132 Stat. 4290

@@ -3,9 +3,9 @@ title: "Section 681e - Information shared with or provided to the Federal Govern
 usc_title: 6
 usc_section: "681e"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "6 U.S.C. § 681e"
-generated_at: "2026-03-30T00:41:41.234Z"
+generated_at: "2026-03-30T00:45:43.611Z"
 ---
 
 # § 681e. Information shared with or provided to the Federal Government

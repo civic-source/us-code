@@ -3,9 +3,9 @@ title: "Section 3513 - Working capital fund; establishment; amount; use; reimbur
 usc_title: 42
 usc_section: "3513"
 chapter: 43
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 3513"
-generated_at: "2026-03-30T00:44:58.606Z"
+generated_at: "2026-03-30T00:49:18.645Z"
 ---
 
 # § 3513. Working capital fund; establishment; amount; use; reimbursement

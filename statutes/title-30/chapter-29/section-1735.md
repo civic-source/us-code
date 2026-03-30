@@ -3,9 +3,9 @@ title: "Section 1735 - Delegation of royalty collections and related activities"
 usc_title: 30
 usc_section: "1735"
 chapter: 29
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 1735"
-generated_at: "2026-03-30T00:42:57.101Z"
+generated_at: "2026-03-30T00:47:30.545Z"
 ---
 
 # § 1735. Delegation of royalty collections and related activities

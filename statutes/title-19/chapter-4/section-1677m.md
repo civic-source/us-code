@@ -3,9 +3,9 @@ title: "Section 1677m - Conduct of investigations and administrative reviews"
 usc_title: 19
 usc_section: "1677m"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 1677m"
-generated_at: "2026-03-30T00:42:13.294Z"
+generated_at: "2026-03-30T00:46:50.690Z"
 ---
 
 # § 1677m. Conduct of investigations and administrative reviews

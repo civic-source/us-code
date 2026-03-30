@@ -3,9 +3,9 @@ title: "Section 4508 - Longevity compensation for telephone operators on United 
 usc_title: 2
 usc_section: "4508"
 chapter: 45
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 4508"
-generated_at: "2026-03-30T00:41:25.791Z"
+generated_at: "2026-03-30T00:45:29.256Z"
 ---
 
 # § 4508. Longevity compensation for telephone operators on United States telephone exchange and members of Capitol Police paid by Chief Administrative Officer of House

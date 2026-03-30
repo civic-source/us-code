@@ -3,9 +3,9 @@ title: "Section 823a - Principal office in District of Columbia; proceedings hel
 usc_title: 30
 usc_section: "823a"
 chapter: 22
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 823a"
-generated_at: "2026-03-30T00:42:57.077Z"
+generated_at: "2026-03-30T00:47:30.523Z"
 ---
 
 # § 823a. Principal office in District of Columbia; proceedings held elsewhere

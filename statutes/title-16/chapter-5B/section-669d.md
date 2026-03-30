@@ -3,9 +3,9 @@ title: "Section 669d - Apportionment; certification to States and Secretary of t
 usc_title: 16
 usc_section: "669d"
 chapter: 5
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 669d"
-generated_at: "2026-03-30T00:42:28.875Z"
+generated_at: "2026-03-30T00:46:53.340Z"
 ---
 
 # § 669d. Apportionment; certification to States and Secretary of the Treasury; acceptance by States; disposition of funds not accepted

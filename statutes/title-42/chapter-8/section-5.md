@@ -3,9 +3,9 @@ title: "Section 5 - Application"
 usc_title: 42
 usc_section: "5"
 chapter: 8
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T00:44:58.523Z"
+generated_at: "2026-03-30T00:49:18.548Z"
 ---
 
 # § 1437bbb–5. Application

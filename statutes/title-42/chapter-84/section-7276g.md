@@ -3,9 +3,9 @@ title: "Section 7276g - Western Area Power Administration; deposit and availabil
 usc_title: 42
 usc_section: "7276g"
 chapter: 84
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 7276g"
-generated_at: "2026-03-30T00:44:58.695Z"
+generated_at: "2026-03-30T00:49:18.756Z"
 ---
 
 # § 7276g. Western Area Power Administration; deposit and availability of funds related to Falcon and Amistad Dams

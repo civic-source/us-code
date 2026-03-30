@@ -3,9 +3,9 @@ title: "Section 3117 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3117"
 chapter: 33
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 3117"
-generated_at: "2026-03-30T00:42:43.341Z"
+generated_at: "2026-03-30T00:47:11.218Z"
 ---
 
 # § 3117. Authorization of appropriations

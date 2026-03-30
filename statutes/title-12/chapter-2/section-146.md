@@ -3,9 +3,9 @@ title: "Section 146 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 
 usc_title: 12
 usc_section: "146"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 146"
-generated_at: "2026-03-30T00:42:04.379Z"
+generated_at: "2026-03-30T00:46:42.341Z"
 ---
 
 # §§ 145, 146. Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 Stat. 1068

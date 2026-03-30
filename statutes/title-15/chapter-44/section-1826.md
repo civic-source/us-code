@@ -3,9 +3,9 @@ title: "Section 1826 - Notice of violations to Attorney General"
 usc_title: 15
 usc_section: "1826"
 chapter: 44
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 1826"
-generated_at: "2026-03-30T00:42:07.411Z"
+generated_at: "2026-03-30T00:46:25.681Z"
 ---
 
 # § 1826. Notice of violations to Attorney General

@@ -3,9 +3,9 @@ title: "Section 1222 - Repealed. Pub. L. 102–392, title III, § 316(b) , Oct. 
 usc_title: 2
 usc_section: "1222"
 chapter: 23
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 1222"
-generated_at: "2026-03-30T00:41:25.770Z"
+generated_at: "2026-03-30T00:45:29.236Z"
 ---
 
 # § 1222. Repealed. Pub. L. 102–392, title III, § 316(b) , Oct. 6, 1992 , 106 Stat. 1724

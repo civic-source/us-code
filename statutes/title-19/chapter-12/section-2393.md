@@ -3,9 +3,9 @@ title: "Section 2393 - Trade monitoring system"
 usc_title: 19
 usc_section: "2393"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 2393"
-generated_at: "2026-03-30T00:42:13.305Z"
+generated_at: "2026-03-30T00:46:50.701Z"
 ---
 
 # § 2393. Trade monitoring system

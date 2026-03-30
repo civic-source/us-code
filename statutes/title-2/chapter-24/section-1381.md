@@ -3,9 +3,9 @@ title: "Section 1381 - Establishment of Office of Congressional Workplace Rights
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-30T00:41:25.772Z"
+generated_at: "2026-03-30T00:45:29.239Z"
 ---
 
 # § 1381. Establishment of Office of Congressional Workplace Rights

@@ -3,9 +3,9 @@ title: "Section 1660i - Deeming an Urban Indian organization and employees there
 usc_title: 25
 usc_section: "1660i"
 chapter: 18
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 1660i"
-generated_at: "2026-03-30T00:42:43.308Z"
+generated_at: "2026-03-30T00:47:11.195Z"
 ---
 
 # § 1660i. Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims for personal injury

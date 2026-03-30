@@ -3,9 +3,9 @@ title: "Section 373 - Repayment of unearned portion of bonus, incentive pay, or 
 usc_title: 37
 usc_section: "373"
 chapter: 5
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "37 U.S.C. § 373"
-generated_at: "2026-03-30T00:44:18.860Z"
+generated_at: "2026-03-30T00:48:05.525Z"
 ---
 
 # § 373. Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met

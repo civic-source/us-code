@@ -3,9 +3,9 @@ title: "Section 3603 - Integrated Coastal and Ocean Observing System"
 usc_title: 33
 usc_section: "3603"
 chapter: 49
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 3603"
-generated_at: "2026-03-30T00:44:01.040Z"
+generated_at: "2026-03-30T00:47:56.749Z"
 ---
 
 # § 3603. Integrated Coastal and Ocean Observing System

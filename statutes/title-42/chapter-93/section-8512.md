@@ -3,9 +3,9 @@ title: "Section 8512 - State emergency conservation plan"
 usc_title: 42
 usc_section: "8512"
 chapter: 93
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 8512"
-generated_at: "2026-03-30T00:44:58.744Z"
+generated_at: "2026-03-30T00:49:18.815Z"
 ---
 
 # § 8512. State emergency conservation plan

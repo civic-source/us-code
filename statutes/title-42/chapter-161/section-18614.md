@@ -3,9 +3,9 @@ title: "Section 18614 - Technology transfer and transitions assessment"
 usc_title: 42
 usc_section: "18614"
 chapter: 161
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 18614"
-generated_at: "2026-03-30T00:44:58.897Z"
+generated_at: "2026-03-30T00:49:19.027Z"
 ---
 
 # § 18614. Technology transfer and transitions assessment

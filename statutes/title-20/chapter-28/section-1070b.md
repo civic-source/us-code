@@ -3,9 +3,9 @@ title: "Section 1070b - Purpose; appropriations authorized"
 usc_title: 20
 usc_section: "1070b"
 chapter: 28
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 1070b"
-generated_at: "2026-03-30T00:42:15.723Z"
+generated_at: "2026-03-30T00:46:49.201Z"
 ---
 
 # § 1070b. Purpose; appropriations authorized

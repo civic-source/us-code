@@ -3,9 +3,9 @@ title: "Section 9771 - Acceptance of donations: land for mobilization, training,
 usc_title: 10
 usc_section: "9771"
 chapter: 979
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 9771"
-generated_at: "2026-03-30T00:41:57.008Z"
+generated_at: "2026-03-30T00:46:04.797Z"
 ---
 
 # § 9771. Acceptance of donations: land for mobilization, training, supply base, aviation field, or space mission-related facility

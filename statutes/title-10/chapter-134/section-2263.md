@@ -3,9 +3,9 @@ title: "Section 2263 - United States contributions to the North Atlantic Treaty 
 usc_title: 10
 usc_section: "2263"
 chapter: 134
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 2263"
-generated_at: "2026-03-30T00:41:56.928Z"
+generated_at: "2026-03-30T00:46:04.720Z"
 ---
 
 # § 2263. United States contributions to the North Atlantic Treaty Organization common-funded budgets

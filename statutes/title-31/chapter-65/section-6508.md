@@ -3,9 +3,9 @@ title: "Section 6508 - Studies and reports"
 usc_title: 31
 usc_section: "6508"
 chapter: 65
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "31 U.S.C. § 6508"
-generated_at: "2026-03-30T00:43:57.472Z"
+generated_at: "2026-03-30T00:47:46.395Z"
 ---
 
 # § 6508. Studies and reports

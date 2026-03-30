@@ -3,9 +3,9 @@ title: "Section 410hhhh - Establishment of Jimmy Carter National Historic Site 1
 usc_title: 16
 usc_section: "410hhhh"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 410hhhh"
-generated_at: "2026-03-30T00:42:28.794Z"
+generated_at: "2026-03-30T00:46:53.262Z"
 ---
 
 # § 410hhhh. Establishment of Jimmy Carter National Historic Site 1 1 So in original. Probably should be “Historical Park”. See Codification note below.

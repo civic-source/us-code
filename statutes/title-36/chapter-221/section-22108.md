@@ -3,9 +3,9 @@ title: "Section 22108 - Service of process"
 usc_title: 36
 usc_section: "22108"
 chapter: 221
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "36 U.S.C. § 22108"
-generated_at: "2026-03-30T00:44:07.441Z"
+generated_at: "2026-03-30T00:48:05.169Z"
 ---
 
 # § 22108. Service of process

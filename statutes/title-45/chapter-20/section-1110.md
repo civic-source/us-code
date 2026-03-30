@@ -3,9 +3,9 @@ title: "Section 1110 - Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)
 usc_title: 45
 usc_section: "1110"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "45 U.S.C. § 1110"
-generated_at: "2026-03-30T00:44:20.892Z"
+generated_at: "2026-03-30T00:48:46.575Z"
 ---
 
 # § 1110. Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(II) , Oct. 21, 1986 , 100 Stat. 1908

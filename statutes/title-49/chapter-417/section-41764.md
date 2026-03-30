@@ -3,9 +3,9 @@ title: "Section 41764 - Use of Federal facilities and assistance"
 usc_title: 49
 usc_section: "41764"
 chapter: 417
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 41764"
-generated_at: "2026-03-30T00:45:11.535Z"
+generated_at: "2026-03-30T00:49:28.299Z"
 ---
 
 # § 41764. Use of Federal facilities and assistance

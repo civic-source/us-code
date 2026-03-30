@@ -3,9 +3,9 @@ title: "Section 2202 - Prohibition on transfers to countries which support terro
 usc_title: 50
 usc_section: "2202"
 chapter: 39
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "50 U.S.C. § 2202"
-generated_at: "2026-03-30T00:45:08.049Z"
+generated_at: "2026-03-30T00:49:25.783Z"
 ---
 
 # § 2202. Prohibition on transfers to countries which support terrorism

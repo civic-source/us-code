@@ -3,9 +3,9 @@ title: "Section 284o - Sixth replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284o"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 284o"
-generated_at: "2026-03-30T00:42:54.429Z"
+generated_at: "2026-03-30T00:47:22.462Z"
 ---
 
 # § 284o. Sixth replenishment; authorization of appropriations

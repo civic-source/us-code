@@ -3,9 +3,9 @@ title: "Section 9813 - Model Community Economic Development Finance Corporation;
 usc_title: 42
 usc_section: "9813"
 chapter: 105
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 9813"
-generated_at: "2026-03-30T00:44:58.763Z"
+generated_at: "2026-03-30T00:49:18.838Z"
 ---
 
 # § 9813. Model Community Economic Development Finance Corporation; establishment; functions

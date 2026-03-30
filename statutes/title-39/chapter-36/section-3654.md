@@ -3,9 +3,9 @@ title: "Section 3654 - Additional financial reporting"
 usc_title: 39
 usc_section: "3654"
 chapter: 36
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "39 U.S.C. § 3654"
-generated_at: "2026-03-30T00:44:13.893Z"
+generated_at: "2026-03-30T00:47:58.942Z"
 ---
 
 # § 3654. Additional financial reporting

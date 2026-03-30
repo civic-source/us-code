@@ -3,9 +3,9 @@ title: "Section 3456 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "3456"
 chapter: 247
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 3456"
-generated_at: "2026-03-30T00:41:56.961Z"
+generated_at: "2026-03-30T00:46:04.751Z"
 ---
 
 # § 3456. Commercial product and commercial service determinations by Department of Defense

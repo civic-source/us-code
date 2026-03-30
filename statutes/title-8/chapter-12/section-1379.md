@@ -3,9 +3,9 @@ title: "Section 1379 - Technology standard to confirm identity"
 usc_title: 8
 usc_section: "1379"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "8 U.S.C. § 1379"
-generated_at: "2026-03-30T00:41:39.816Z"
+generated_at: "2026-03-30T00:45:45.486Z"
 ---
 
 # § 1379. Technology standard to confirm identity

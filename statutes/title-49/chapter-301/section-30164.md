@@ -3,9 +3,9 @@ title: "Section 30164 - Service of process; conditions on importation of vehicle
 usc_title: 49
 usc_section: "30164"
 chapter: 301
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 30164"
-generated_at: "2026-03-30T00:45:11.510Z"
+generated_at: "2026-03-30T00:49:28.274Z"
 ---
 
 # § 30164. Service of process; conditions on importation of vehicles and equipment

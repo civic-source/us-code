@@ -3,9 +3,9 @@ title: "Section 5113 - Investigation of claims"
 usc_title: 26
 usc_section: "5113"
 chapter: 51
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 5113"
-generated_at: "2026-03-30T00:43:12.524Z"
+generated_at: "2026-03-30T00:47:39.503Z"
 ---
 
 # § 5113. Investigation of claims

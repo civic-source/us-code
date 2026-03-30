@@ -3,9 +3,9 @@ title: "Section 8744 - Rule of construction"
 usc_title: 22
 usc_section: "8744"
 chapter: 94
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 8744"
-generated_at: "2026-03-30T00:42:54.573Z"
+generated_at: "2026-03-30T00:47:22.635Z"
 ---
 
 # § 8744. Rule of construction

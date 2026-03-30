@@ -3,9 +3,9 @@ title: "Section 345 - Rediscount of notes, drafts, and bills for member banks; l
 usc_title: 12
 usc_section: "345"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 345"
-generated_at: "2026-03-30T00:42:04.387Z"
+generated_at: "2026-03-30T00:46:42.349Z"
 ---
 
 # § 345. Rediscount of notes, drafts, and bills for member banks; limitation of amount

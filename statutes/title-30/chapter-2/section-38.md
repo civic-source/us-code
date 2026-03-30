@@ -3,9 +3,9 @@ title: "Section 38 - Evidence of possession and work to establish right to paten
 usc_title: 30
 usc_section: "38"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 38"
-generated_at: "2026-03-30T00:42:57.063Z"
+generated_at: "2026-03-30T00:47:30.509Z"
 ---
 
 # § 38. Evidence of possession and work to establish right to patent

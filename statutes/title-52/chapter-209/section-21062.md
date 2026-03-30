@@ -3,9 +3,9 @@ title: "Section 21062 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21062"
 chapter: 209
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "52 U.S.C. § 21062"
-generated_at: "2026-03-30T00:45:13.446Z"
+generated_at: "2026-03-30T00:49:30.408Z"
 ---
 
 # § 21062. Authorization of appropriations

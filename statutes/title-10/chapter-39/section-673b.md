@@ -3,9 +3,9 @@ title: "Section 673b - Renumbered § 12304]"
 usc_title: 10
 usc_section: "673b"
 chapter: 39
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 673b"
-generated_at: "2026-03-30T00:41:56.865Z"
+generated_at: "2026-03-30T00:46:04.659Z"
 ---
 
 # [§ 673b. Renumbered § 12304]

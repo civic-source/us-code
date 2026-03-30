@@ -3,9 +3,9 @@ title: "Section 16503 - Sugar ethanol loan guarantee program"
 usc_title: 42
 usc_section: "16503"
 chapter: 149
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 16503"
-generated_at: "2026-03-30T00:44:58.869Z"
+generated_at: "2026-03-30T00:49:18.994Z"
 ---
 
 # § 16503. Sugar ethanol loan guarantee program

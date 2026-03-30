@@ -3,9 +3,9 @@ title: "Section 7682 - Eligibility"
 usc_title: 38
 usc_section: "7682"
 chapter: 76
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "38 U.S.C. § 7682"
-generated_at: "2026-03-30T00:44:18.526Z"
+generated_at: "2026-03-30T00:48:21.119Z"
 ---
 
 # § 7682. Eligibility

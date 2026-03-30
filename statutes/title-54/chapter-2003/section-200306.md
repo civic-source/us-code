@@ -3,9 +3,9 @@ title: "Section 200306 - Allocation of Fund amounts for Federal purposes"
 usc_title: 54
 usc_section: "200306"
 chapter: 2003
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "54 U.S.C. § 200306"
-generated_at: "2026-03-30T00:45:13.767Z"
+generated_at: "2026-03-30T00:49:30.723Z"
 ---
 
 # § 200306. Allocation of Fund amounts for Federal purposes

@@ -3,9 +3,9 @@ title: "Section 173 - Term of design patent"
 usc_title: 35
 usc_section: "173"
 chapter: 16
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "35 U.S.C. § 173"
-generated_at: "2026-03-30T00:43:41.556Z"
+generated_at: "2026-03-30T00:47:50.858Z"
 ---
 
 # § 173. Term of design patent

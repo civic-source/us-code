@@ -3,9 +3,9 @@ title: "Section 806 - Rescission of funds declined by States, territories, or ot
 usc_title: 42
 usc_section: "806"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 806"
-generated_at: "2026-03-30T00:44:58.361Z"
+generated_at: "2026-03-30T00:49:18.359Z"
 ---
 
 # § 806. Rescission of funds declined by States, territories, or other governmental entities

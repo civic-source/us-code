@@ -3,9 +3,9 @@ title: "Section 14105 - Notice of convening of promotion board"
 usc_title: 10
 usc_section: "14105"
 chapter: 1403
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 14105"
-generated_at: "2026-03-30T00:41:57.017Z"
+generated_at: "2026-03-30T00:46:04.805Z"
 ---
 
 # § 14105. Notice of convening of promotion board

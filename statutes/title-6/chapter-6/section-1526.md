@@ -3,9 +3,9 @@ title: "Section 1526 - Inventory of cryptographic systems; migration to post-qua
 usc_title: 6
 usc_section: "1526"
 chapter: 6
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "6 U.S.C. § 1526"
-generated_at: "2026-03-30T00:41:41.248Z"
+generated_at: "2026-03-30T00:45:43.623Z"
 ---
 
 # § 1526. Inventory of cryptographic systems; migration to post-quantum cryptography

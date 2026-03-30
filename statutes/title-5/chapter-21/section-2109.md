@@ -3,9 +3,9 @@ title: "Section 2109 - Air traffic controller; Secretary"
 usc_title: 5
 usc_section: "2109"
 chapter: 21
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 2109"
-generated_at: "2026-03-30T00:41:36.989Z"
+generated_at: "2026-03-30T00:45:37.286Z"
 ---
 
 # § 2109. Air traffic controller; Secretary

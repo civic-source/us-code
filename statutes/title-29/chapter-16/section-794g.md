@@ -3,9 +3,9 @@ title: "Section 794g - Limitations on use of subminimum wage"
 usc_title: 29
 usc_section: "794g"
 chapter: 16
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 794g"
-generated_at: "2026-03-30T00:42:59.048Z"
+generated_at: "2026-03-30T00:47:41.971Z"
 ---
 
 # § 794g. Limitations on use of subminimum wage

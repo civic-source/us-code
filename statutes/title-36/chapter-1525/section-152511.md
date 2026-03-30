@@ -3,9 +3,9 @@ title: "Section 152511 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "152511"
 chapter: 1525
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "36 U.S.C. § 152511"
-generated_at: "2026-03-30T00:44:07.452Z"
+generated_at: "2026-03-30T00:48:05.181Z"
 ---
 
 # § 152511. Liability for acts of officers and agents

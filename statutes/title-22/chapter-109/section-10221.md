@@ -3,9 +3,9 @@ title: "Section 10221 - Definitions"
 usc_title: 22
 usc_section: "10221"
 chapter: 109
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 10221"
-generated_at: "2026-03-30T00:42:54.590Z"
+generated_at: "2026-03-30T00:47:22.652Z"
 ---
 
 # § 10221. Definitions

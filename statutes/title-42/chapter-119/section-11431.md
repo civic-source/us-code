@@ -3,9 +3,9 @@ title: "Section 11431 - Statement of policy"
 usc_title: 42
 usc_section: "11431"
 chapter: 119
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 11431"
-generated_at: "2026-03-30T00:44:58.795Z"
+generated_at: "2026-03-30T00:49:18.887Z"
 ---
 
 # § 11431. Statement of policy

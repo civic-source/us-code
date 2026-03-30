@@ -3,9 +3,9 @@ title: "Section 3032k - Community innovations for aging in place"
 usc_title: 42
 usc_section: "3032k"
 chapter: 35
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 3032k"
-generated_at: "2026-03-30T00:44:58.598Z"
+generated_at: "2026-03-30T00:49:18.631Z"
 ---
 
 # § 3032k. Community innovations for aging in place

@@ -3,9 +3,9 @@ title: "Section 9841 - Appeals, notice, hearing, and mediation; alternative agen
 usc_title: 42
 usc_section: "9841"
 chapter: 105
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 9841"
-generated_at: "2026-03-30T00:44:58.767Z"
+generated_at: "2026-03-30T00:49:18.845Z"
 ---
 
 # § 9841. Appeals, notice, hearing, and mediation; alternative agency for Indian tribe

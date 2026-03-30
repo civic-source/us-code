@@ -3,9 +3,9 @@ title: "Section 29a - Supplemental grants"
 usc_title: 42
 usc_section: "29a"
 chapter: 6
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 29a"
-generated_at: "2026-03-30T00:44:58.298Z"
+generated_at: "2026-03-30T00:49:18.281Z"
 ---
 
 # § 300ff–29a. Supplemental grants

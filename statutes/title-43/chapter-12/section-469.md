@@ -3,9 +3,9 @@ title: "Section 469 - Increase in construction charges"
 usc_title: 43
 usc_section: "469"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 469"
-generated_at: "2026-03-30T00:44:30.446Z"
+generated_at: "2026-03-30T00:48:34.219Z"
 ---
 
 # § 469. Increase in construction charges

@@ -3,9 +3,9 @@ title: "Section 143 - Mortgage revenue bonds: qualified mortgage bond and qualif
 usc_title: 26
 usc_section: "143"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 143"
-generated_at: "2026-03-30T00:43:12.350Z"
+generated_at: "2026-03-30T00:47:39.335Z"
 ---
 
 # § 143. Mortgage revenue bonds: qualified mortgage bond and qualified veterans’ mortgage bond

@@ -3,9 +3,9 @@ title: "Section 269a - Central Bureau of the International Map of the World on t
 usc_title: 22
 usc_section: "269a"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 269a"
-generated_at: "2026-03-30T00:42:54.423Z"
+generated_at: "2026-03-30T00:47:22.455Z"
 ---
 
 # § 269a. Central Bureau of the International Map of the World on the Millionth Scale; authorization of appropriations

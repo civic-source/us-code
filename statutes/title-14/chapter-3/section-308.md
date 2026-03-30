@@ -3,9 +3,9 @@ title: "Section 308 - Chief Acquisition Officer"
 usc_title: 14
 usc_section: "308"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "14 U.S.C. § 308"
-generated_at: "2026-03-30T00:41:59.463Z"
+generated_at: "2026-03-30T00:46:13.931Z"
 ---
 
 # § 308. Chief Acquisition Officer

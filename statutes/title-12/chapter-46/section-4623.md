@@ -3,9 +3,9 @@ title: "Section 4623 - Judicial review of Director action"
 usc_title: 12
 usc_section: "4623"
 chapter: 46
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 4623"
-generated_at: "2026-03-30T00:42:04.531Z"
+generated_at: "2026-03-30T00:46:42.495Z"
 ---
 
 # § 4623. Judicial review of Director action

@@ -3,9 +3,9 @@ title: "Section 31105 - Security when counterclaim filed"
 usc_title: 46
 usc_section: "31105"
 chapter: 311
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 31105"
-generated_at: "2026-03-30T00:45:02.376Z"
+generated_at: "2026-03-30T00:49:23.403Z"
 ---
 
 # § 31105. Security when counterclaim filed

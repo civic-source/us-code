@@ -3,9 +3,9 @@ title: "Section 6 - Pension paid to fund for benefit of naval hospital"
 usc_title: 24
 usc_section: "6"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "24 U.S.C. § 6"
-generated_at: "2026-03-30T00:42:32.502Z"
+generated_at: "2026-03-30T00:47:09.860Z"
 ---
 
 # § 6. Pension paid to fund for benefit of naval hospital

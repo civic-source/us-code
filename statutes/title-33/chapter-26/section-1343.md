@@ -3,9 +3,9 @@ title: "Section 1343 - Ocean discharge criteria"
 usc_title: 33
 usc_section: "1343"
 chapter: 26
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 1343"
-generated_at: "2026-03-30T00:44:01.004Z"
+generated_at: "2026-03-30T00:47:56.713Z"
 ---
 
 # § 1343. Ocean discharge criteria

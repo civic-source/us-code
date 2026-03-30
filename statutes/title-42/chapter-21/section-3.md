@@ -3,9 +3,9 @@ title: "Section 3 - Construction of provisions not to affect authority of Attorn
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T00:44:58.565Z"
+generated_at: "2026-03-30T00:49:18.593Z"
 ---
 
 # § 2000h–3. Construction of provisions not to affect authority of Attorney General, etc., to institute or intervene in actions or proceedings

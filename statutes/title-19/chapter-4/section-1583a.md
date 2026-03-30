@@ -3,9 +3,9 @@ title: "Section 1583a - Development of technology to detect illicit narcotics"
 usc_title: 19
 usc_section: "1583a"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 1583a"
-generated_at: "2026-03-30T00:42:13.281Z"
+generated_at: "2026-03-30T00:46:50.677Z"
 ---
 
 # § 1583a. Development of technology to detect illicit narcotics

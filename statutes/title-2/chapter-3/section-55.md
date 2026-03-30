@@ -3,9 +3,9 @@ title: "Section 55 - Transferred"
 usc_title: 2
 usc_section: "55"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 55"
-generated_at: "2026-03-30T00:41:25.743Z"
+generated_at: "2026-03-30T00:45:29.215Z"
 ---
 
 # § 55. Transferred

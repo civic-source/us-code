@@ -3,9 +3,9 @@ title: "Section 18445 - Information security"
 usc_title: 42
 usc_section: "18445"
 chapter: 159
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 18445"
-generated_at: "2026-03-30T00:44:58.896Z"
+generated_at: "2026-03-30T00:49:19.027Z"
 ---
 
 # § 18445. Information security

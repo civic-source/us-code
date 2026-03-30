@@ -3,9 +3,9 @@ title: "Section 3789h - Repealed. Pub. L. 98–473, title II, § 609B(e) , (l), 
 usc_title: 42
 usc_section: "3789h"
 chapter: 46
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 3789h"
-generated_at: "2026-03-30T00:44:58.612Z"
+generated_at: "2026-03-30T00:49:18.654Z"
 ---
 
 # § 3789h. Repealed. Pub. L. 98–473, title II, § 609B(e) , (l), Oct. 12, 1984 , 98 Stat. 2093 , 2096

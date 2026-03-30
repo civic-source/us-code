@@ -3,9 +3,9 @@ title: "Section 273d - Administration, protection, and development"
 usc_title: 16
 usc_section: "273d"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 273d"
-generated_at: "2026-03-30T00:42:28.761Z"
+generated_at: "2026-03-30T00:46:53.230Z"
 ---
 
 # § 273d. Administration, protection, and development

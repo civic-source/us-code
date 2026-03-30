@@ -3,9 +3,9 @@ title: "Section 113 - Premiums; late enrollment penalty"
 usc_title: 42
 usc_section: "113"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-30T00:44:58.433Z"
+generated_at: "2026-03-30T00:49:18.443Z"
 ---
 
 # § 1395w–113. Premiums; late enrollment penalty

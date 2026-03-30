@@ -3,9 +3,9 @@ title: "Section 8921 - Unauthorized use of Marine Corps insignia"
 usc_title: 10
 usc_section: "8921"
 chapter: 891
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8921"
-generated_at: "2026-03-30T00:41:57.000Z"
+generated_at: "2026-03-30T00:46:04.790Z"
 ---
 
 # § 8921. Unauthorized use of Marine Corps insignia

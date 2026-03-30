@@ -3,9 +3,9 @@ title: "Section 6504 - Actions by States"
 usc_title: 15
 usc_section: "6504"
 chapter: 91
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 6504"
-generated_at: "2026-03-30T00:42:07.463Z"
+generated_at: "2026-03-30T00:46:25.735Z"
 ---
 
 # § 6504. Actions by States

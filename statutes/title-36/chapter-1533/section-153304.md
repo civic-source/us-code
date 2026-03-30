@@ -3,9 +3,9 @@ title: "Section 153304 - Trustees"
 usc_title: 36
 usc_section: "153304"
 chapter: 1533
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "36 U.S.C. § 153304"
-generated_at: "2026-03-30T00:44:07.452Z"
+generated_at: "2026-03-30T00:48:05.182Z"
 ---
 
 # § 153304. Trustees

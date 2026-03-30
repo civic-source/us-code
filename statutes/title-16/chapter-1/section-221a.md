@@ -3,9 +3,9 @@ title: "Section 221a - Boundary changed"
 usc_title: 16
 usc_section: "221a"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 221a"
-generated_at: "2026-03-30T00:42:28.755Z"
+generated_at: "2026-03-30T00:46:53.225Z"
 ---
 
 # § 221a. Boundary changed

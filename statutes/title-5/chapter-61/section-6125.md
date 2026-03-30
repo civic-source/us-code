@@ -3,9 +3,9 @@ title: "Section 6125 - Flexible schedules; time-recording devices"
 usc_title: 5
 usc_section: "6125"
 chapter: 61
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 6125"
-generated_at: "2026-03-30T00:41:37.012Z"
+generated_at: "2026-03-30T00:45:37.307Z"
 ---
 
 # § 6125. Flexible schedules; time-recording devices

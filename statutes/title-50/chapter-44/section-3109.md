@@ -3,9 +3,9 @@ title: "Section 3109 - Significant interpretations of law concerning intelligenc
 usc_title: 50
 usc_section: "3109"
 chapter: 44
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "50 U.S.C. § 3109"
-generated_at: "2026-03-30T00:45:08.072Z"
+generated_at: "2026-03-30T00:49:25.808Z"
 ---
 
 # § 3109. Significant interpretations of law concerning intelligence activities

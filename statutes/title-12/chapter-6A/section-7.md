@@ -3,9 +3,9 @@ title: "Section 7 - Cooperation on export financing programs"
 usc_title: 12
 usc_section: "7"
 chapter: 6
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-30T00:42:04.397Z"
+generated_at: "2026-03-30T00:46:42.360Z"
 ---
 
 # § 635i–7. Cooperation on export financing programs

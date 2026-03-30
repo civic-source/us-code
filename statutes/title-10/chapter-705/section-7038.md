@@ -3,9 +3,9 @@ title: "Section 7038 - Office of Army Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "7038"
 chapter: 705
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 7038"
-generated_at: "2026-03-30T00:41:56.981Z"
+generated_at: "2026-03-30T00:46:04.770Z"
 ---
 
 # § 7038. Office of Army Reserve: appointment of Chief

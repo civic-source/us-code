@@ -3,9 +3,9 @@ title: "Section 78rr - Data standards for security-based swap reporting"
 usc_title: 15
 usc_section: "78rr"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 78rr"
-generated_at: "2026-03-30T00:42:07.312Z"
+generated_at: "2026-03-30T00:46:25.576Z"
 ---
 
 # § 78rr. Data standards for security-based swap reporting

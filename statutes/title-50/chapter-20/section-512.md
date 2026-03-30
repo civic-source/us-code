@@ -3,9 +3,9 @@ title: "Section 512 - Limitation on cost of construction and equipment; vesting 
 usc_title: 50
 usc_section: "512"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "50 U.S.C. § 512"
-generated_at: "2026-03-30T00:45:08.030Z"
+generated_at: "2026-03-30T00:49:25.763Z"
 ---
 
 # § 512. Limitation on cost of construction and equipment; vesting of title to facilities

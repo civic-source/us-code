@@ -3,9 +3,9 @@ title: "Section 6361 - Federal energy conservation programs"
 usc_title: 42
 usc_section: "6361"
 chapter: 77
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 6361"
-generated_at: "2026-03-30T00:44:58.668Z"
+generated_at: "2026-03-30T00:49:18.728Z"
 ---
 
 # § 6361. Federal energy conservation programs

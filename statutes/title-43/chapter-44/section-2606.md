@@ -3,9 +3,9 @@ title: "Section 2606 - Oregon and California Railroad revested lands and Coos Ba
 usc_title: 43
 usc_section: "2606"
 chapter: 44
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 2606"
-generated_at: "2026-03-30T00:44:30.489Z"
+generated_at: "2026-03-30T00:48:34.284Z"
 ---
 
 # § 2606. Oregon and California Railroad revested lands and Coos Bay Wagon Road reconveyed lands

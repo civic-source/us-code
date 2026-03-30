@@ -3,9 +3,9 @@ title: "Section 3352c - Goals for promptness of determinations regarding securit
 usc_title: 50
 usc_section: "3352c"
 chapter: 45
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "50 U.S.C. § 3352c"
-generated_at: "2026-03-30T00:45:08.082Z"
+generated_at: "2026-03-30T00:49:25.821Z"
 ---
 
 # § 3352c. Goals for promptness of determinations regarding security clearances

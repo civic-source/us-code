@@ -3,9 +3,9 @@ title: "Section 1613 - Relations between courts of United States and courts of V
 usc_title: 48
 usc_section: "1613"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "48 U.S.C. § 1613"
-generated_at: "2026-03-30T00:45:08.571Z"
+generated_at: "2026-03-30T00:49:21.842Z"
 ---
 
 # § 1613. Relations between courts of United States and courts of Virgin Islands; review by United States Court of Appeals for Third Circuit; reports to Congress; rules

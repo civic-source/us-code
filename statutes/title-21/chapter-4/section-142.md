@@ -3,9 +3,9 @@ title: "Section 142 - Milk or cream when unfit for importation"
 usc_title: 21
 usc_section: "142"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "21 U.S.C. § 142"
-generated_at: "2026-03-30T00:42:48.752Z"
+generated_at: "2026-03-30T00:47:24.902Z"
 ---
 
 # § 142. Milk or cream when unfit for importation

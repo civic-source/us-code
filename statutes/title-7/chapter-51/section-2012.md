@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T00:41:49.582Z"
+generated_at: "2026-03-30T00:45:50.830Z"
 ---
 
 # § 2012. Definitions

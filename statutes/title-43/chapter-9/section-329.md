@@ -3,9 +3,9 @@ title: "Section 329 - Issue of patent on final proof; citizenship requirement as
 usc_title: 43
 usc_section: "329"
 chapter: 9
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 329"
-generated_at: "2026-03-30T00:44:30.437Z"
+generated_at: "2026-03-30T00:48:34.210Z"
 ---
 
 # § 329. Issue of patent on final proof; citizenship requirement as to patentee; limit as to amount of holding

@@ -3,9 +3,9 @@ title: "Section 455a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "455a"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 455a"
-generated_at: "2026-03-30T00:42:28.807Z"
+generated_at: "2026-03-30T00:46:53.274Z"
 ---
 
 # § 455a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

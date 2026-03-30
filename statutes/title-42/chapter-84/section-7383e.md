@@ -3,9 +3,9 @@ title: "Section 7383e - Repealed. Pub. L. 114–113, div. M, title VII, § 701(e
 usc_title: 42
 usc_section: "7383e"
 chapter: 84
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 7383e"
-generated_at: "2026-03-30T00:44:58.697Z"
+generated_at: "2026-03-30T00:49:18.758Z"
 ---
 
 # § 7383e. Repealed. Pub. L. 114–113, div. M, title VII, § 701(e) , Dec. 18, 2015 , 129 Stat. 2930

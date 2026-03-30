@@ -3,9 +3,9 @@ title: "Section 113 - “Little and Brown’s” edition of laws and treaties; s
 usc_title: 1
 usc_section: "113"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "1 U.S.C. § 113"
-generated_at: "2026-03-30T00:41:21.616Z"
+generated_at: "2026-03-30T00:45:25.207Z"
 ---
 
 # § 113. “Little and Brown’s” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence

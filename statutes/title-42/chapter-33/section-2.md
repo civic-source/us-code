@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 93–282, title III, § 302 , May 14, 1974
 usc_title: 42
 usc_section: "2"
 chapter: 33
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T00:44:58.588Z"
+generated_at: "2026-03-30T00:49:18.620Z"
 ---
 
 # § 2688j–2. Repealed. Pub. L. 93–282, title III, § 302 , May 14, 1974 , 88 Stat. 137

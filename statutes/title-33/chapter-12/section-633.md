@@ -3,9 +3,9 @@ title: "Section 633 - Protection, alteration, reconstruction, relocation, or rep
 usc_title: 33
 usc_section: "633"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 633"
-generated_at: "2026-03-30T00:44:00.970Z"
+generated_at: "2026-03-30T00:47:56.678Z"
 ---
 
 # § 633. Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs

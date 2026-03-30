@@ -3,9 +3,9 @@ title: "Section 7425 - Authorized services and activities"
 usc_title: 20
 usc_section: "7425"
 chapter: 70
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 7425"
-generated_at: "2026-03-30T00:42:15.825Z"
+generated_at: "2026-03-30T00:46:49.302Z"
 ---
 
 # § 7425. Authorized services and activities

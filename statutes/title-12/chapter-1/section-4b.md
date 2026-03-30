@@ -3,9 +3,9 @@ title: "Section 4b - Deputy Comptroller for the supervision and examination of F
 usc_title: 12
 usc_section: "4b"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 4b"
-generated_at: "2026-03-30T00:42:04.375Z"
+generated_at: "2026-03-30T00:46:42.335Z"
 ---
 
 # § 4b. Deputy Comptroller for the supervision and examination of Federal savings associations

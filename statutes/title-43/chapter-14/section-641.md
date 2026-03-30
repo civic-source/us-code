@@ -3,9 +3,9 @@ title: "Section 641 - Grant of desert land to States authorized"
 usc_title: 43
 usc_section: "641"
 chapter: 14
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 641"
-generated_at: "2026-03-30T00:44:30.454Z"
+generated_at: "2026-03-30T00:48:34.227Z"
 ---
 
 # § 641. Grant of desert land to States authorized

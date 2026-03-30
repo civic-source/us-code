@@ -3,9 +3,9 @@ title: "Section 8620 - Gifts for welfare of enlisted members"
 usc_title: 10
 usc_section: "8620"
 chapter: 861
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8620"
-generated_at: "2026-03-30T00:41:56.995Z"
+generated_at: "2026-03-30T00:46:04.784Z"
 ---
 
 # § 8620. Gifts for welfare of enlisted members

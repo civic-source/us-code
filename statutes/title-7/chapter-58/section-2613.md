@@ -3,9 +3,9 @@ title: "Section 2613 - Authority for issuance and amendment of plan"
 usc_title: 7
 usc_section: "2613"
 chapter: 58
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 2613"
-generated_at: "2026-03-30T00:41:49.616Z"
+generated_at: "2026-03-30T00:45:50.850Z"
 ---
 
 # § 2613. Authority for issuance and amendment of plan

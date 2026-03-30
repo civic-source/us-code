@@ -3,9 +3,9 @@ title: "Section 41 - Authorization of appropriations"
 usc_title: 20
 usc_section: "41"
 chapter: 28
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 41"
-generated_at: "2026-03-30T00:42:15.724Z"
+generated_at: "2026-03-30T00:46:49.202Z"
 ---
 
 # § 1070d–41. Authorization of appropriations

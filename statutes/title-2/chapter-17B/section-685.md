@@ -3,9 +3,9 @@ title: "Section 685 - Transmission of messages; publication"
 usc_title: 2
 usc_section: "685"
 chapter: 17
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 685"
-generated_at: "2026-03-30T00:41:25.762Z"
+generated_at: "2026-03-30T00:45:29.231Z"
 ---
 
 # § 685. Transmission of messages; publication

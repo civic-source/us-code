@@ -3,9 +3,9 @@ title: "Section 9125 - Judicial review"
 usc_title: 42
 usc_section: "9125"
 chapter: 99
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 9125"
-generated_at: "2026-03-30T00:44:58.750Z"
+generated_at: "2026-03-30T00:49:18.822Z"
 ---
 
 # § 9125. Judicial review

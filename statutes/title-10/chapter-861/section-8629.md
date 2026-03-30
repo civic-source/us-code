@@ -3,9 +3,9 @@ title: "Section 8629 - Purchase of fuel"
 usc_title: 10
 usc_section: "8629"
 chapter: 861
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8629"
-generated_at: "2026-03-30T00:41:56.995Z"
+generated_at: "2026-03-30T00:46:04.784Z"
 ---
 
 # § 8629. Purchase of fuel

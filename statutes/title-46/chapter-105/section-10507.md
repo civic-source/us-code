@@ -3,9 +3,9 @@ title: "Section 10507 - Repealed. Pub. L. 103–206, title IV, § 415(a) , Dec. 
 usc_title: 46
 usc_section: "10507"
 chapter: 105
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 10507"
-generated_at: "2026-03-30T00:45:02.369Z"
+generated_at: "2026-03-30T00:49:23.396Z"
 ---
 
 # [§ 10507. Repealed. Pub. L. 103–206, title IV, § 415(a) , Dec. 20, 1993 , 107 Stat. 2438 ]

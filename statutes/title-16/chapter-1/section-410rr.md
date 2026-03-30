@@ -3,9 +3,9 @@ title: "Section 410rr - Purpose"
 usc_title: 16
 usc_section: "410rr"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 410rr"
-generated_at: "2026-03-30T00:42:28.779Z"
+generated_at: "2026-03-30T00:46:53.247Z"
 ---
 
 # § 410rr. Purpose

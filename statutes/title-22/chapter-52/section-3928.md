@@ -3,9 +3,9 @@ title: "Section 3928 - Director General of Foreign Service"
 usc_title: 22
 usc_section: "3928"
 chapter: 52
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 3928"
-generated_at: "2026-03-30T00:42:54.515Z"
+generated_at: "2026-03-30T00:47:22.542Z"
 ---
 
 # § 3928. Director General of Foreign Service

@@ -3,9 +3,9 @@ title: "Section 2106 - Rural fire prevention and control"
 usc_title: 16
 usc_section: "2106"
 chapter: 41
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 2106"
-generated_at: "2026-03-30T00:42:28.956Z"
+generated_at: "2026-03-30T00:46:53.422Z"
 ---
 
 # § 2106. Rural fire prevention and control

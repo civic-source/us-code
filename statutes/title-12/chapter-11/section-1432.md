@@ -3,9 +3,9 @@ title: "Section 1432 - Incorporation of banks; corporate powers; housing project
 usc_title: 12
 usc_section: "1432"
 chapter: 11
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 1432"
-generated_at: "2026-03-30T00:42:04.402Z"
+generated_at: "2026-03-30T00:46:42.364Z"
 ---
 
 # § 1432. Incorporation of banks; corporate powers; housing project loans

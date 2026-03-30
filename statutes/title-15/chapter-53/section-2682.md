@@ -3,9 +3,9 @@ title: "Section 2682 - Lead-based paint activities training and certification"
 usc_title: 15
 usc_section: "2682"
 chapter: 53
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 2682"
-generated_at: "2026-03-30T00:42:07.433Z"
+generated_at: "2026-03-30T00:46:25.703Z"
 ---
 
 # § 2682. Lead-based paint activities training and certification

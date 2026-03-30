@@ -3,9 +3,9 @@ title: "Section 2 - Validity, irrevocability, and enforcement of agreements to a
 usc_title: 9
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "9 U.S.C. § 2"
-generated_at: "2026-03-30T00:41:38.455Z"
+generated_at: "2026-03-30T00:45:38.852Z"
 ---
 
 # § 2. Validity, irrevocability, and enforcement of agreements to arbitrate

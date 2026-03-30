@@ -3,9 +3,9 @@ title: "Section 6106 - Grants to States"
 usc_title: 49
 usc_section: "6106"
 chapter: 61
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 6106"
-generated_at: "2026-03-30T00:45:11.479Z"
+generated_at: "2026-03-30T00:49:28.243Z"
 ---
 
 # § 6106. Grants to States

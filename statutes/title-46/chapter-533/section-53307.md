@@ -3,9 +3,9 @@ title: "Section 53307 - Basis for determining gain or loss and for depreciating 
 usc_title: 46
 usc_section: "53307"
 chapter: 533
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 53307"
-generated_at: "2026-03-30T00:45:02.387Z"
+generated_at: "2026-03-30T00:49:23.413Z"
 ---
 
 # § 53307. Basis for determining gain or loss and for depreciating new vessels

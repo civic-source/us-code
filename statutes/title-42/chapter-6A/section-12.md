@@ -3,9 +3,9 @@ title: "Section 12 - Health Information Technology Advisory Committee"
 usc_title: 42
 usc_section: "12"
 chapter: 6
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T00:44:58.314Z"
+generated_at: "2026-03-30T00:49:18.301Z"
 ---
 
 # § 300jj–12. Health Information Technology Advisory Committee

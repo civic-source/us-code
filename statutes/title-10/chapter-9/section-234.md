@@ -3,9 +3,9 @@ title: "Section 234 - POW/MIA activities: display of budget information"
 usc_title: 10
 usc_section: "234"
 chapter: 9
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 234"
-generated_at: "2026-03-30T00:41:56.845Z"
+generated_at: "2026-03-30T00:46:04.640Z"
 ---
 
 # § 234. POW/MIA activities: display of budget information

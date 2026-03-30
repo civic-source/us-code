@@ -3,9 +3,9 @@ title: "Section 8837 - Commercialization demonstration program pursuant to Feder
 usc_title: 42
 usc_section: "8837"
 chapter: 96
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 8837"
-generated_at: "2026-03-30T00:44:58.747Z"
+generated_at: "2026-03-30T00:49:18.819Z"
 ---
 
 # § 8837. Commercialization demonstration program pursuant to Federal nonnuclear energy research and development

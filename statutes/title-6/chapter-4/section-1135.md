@@ -3,9 +3,9 @@ title: "Section 1135 - Public transportation security assistance"
 usc_title: 6
 usc_section: "1135"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "6 U.S.C. § 1135"
-generated_at: "2026-03-30T00:41:41.240Z"
+generated_at: "2026-03-30T00:45:43.617Z"
 ---
 
 # § 1135. Public transportation security assistance

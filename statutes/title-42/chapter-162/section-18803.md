@@ -3,9 +3,9 @@ title: "Section 18803 - Commercial building energy consumption information shari
 usc_title: 42
 usc_section: "18803"
 chapter: 162
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 18803"
-generated_at: "2026-03-30T00:44:58.906Z"
+generated_at: "2026-03-30T00:49:19.037Z"
 ---
 
 # § 18803. Commercial building energy consumption information sharing

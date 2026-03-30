@@ -3,9 +3,9 @@ title: "Section 410ooo - Findings"
 usc_title: 16
 usc_section: "410ooo"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 410ooo"
-generated_at: "2026-03-30T00:42:28.790Z"
+generated_at: "2026-03-30T00:46:53.257Z"
 ---
 
 # § 410ooo. Findings

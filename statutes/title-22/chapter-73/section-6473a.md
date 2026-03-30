@@ -3,9 +3,9 @@ title: "Section 6473a - Designated persons list for particularly severe violatio
 usc_title: 22
 usc_section: "6473a"
 chapter: 73
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 6473a"
-generated_at: "2026-03-30T00:42:54.546Z"
+generated_at: "2026-03-30T00:47:22.571Z"
 ---
 
 # § 6473a. Designated persons list for particularly severe violations of religious freedom

@@ -3,9 +3,9 @@ title: "Section 4154 - Conversion from Foreign Service"
 usc_title: 22
 usc_section: "4154"
 chapter: 52
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 4154"
-generated_at: "2026-03-30T00:42:54.525Z"
+generated_at: "2026-03-30T00:47:22.551Z"
 ---
 
 # § 4154. Conversion from Foreign Service

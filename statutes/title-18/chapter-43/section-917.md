@@ -3,9 +3,9 @@ title: "Section 917 - Red Cross members or agents"
 usc_title: 18
 usc_section: "917"
 chapter: 43
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "18 U.S.C. § 917"
-generated_at: "2026-03-30T00:42:11.172Z"
+generated_at: "2026-03-30T00:47:06.473Z"
 ---
 
 # § 917. Red Cross members or agents

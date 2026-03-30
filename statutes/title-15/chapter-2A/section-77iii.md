@@ -3,9 +3,9 @@ title: "Section 77iii - Effective time of qualification"
 usc_title: 15
 usc_section: "77iii"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 77iii"
-generated_at: "2026-03-30T00:42:07.288Z"
+generated_at: "2026-03-30T00:46:25.549Z"
 ---
 
 # § 77iii. Effective time of qualification

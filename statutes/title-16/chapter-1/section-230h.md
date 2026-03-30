@@ -3,9 +3,9 @@ title: "Section 230h - Change in name of Chalmette National Historical Park"
 usc_title: 16
 usc_section: "230h"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 230h"
-generated_at: "2026-03-30T00:42:28.758Z"
+generated_at: "2026-03-30T00:46:53.227Z"
 ---
 
 # § 230h. Change in name of Chalmette National Historical Park

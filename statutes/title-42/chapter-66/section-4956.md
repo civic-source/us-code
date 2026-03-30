@@ -3,9 +3,9 @@ title: "Section 4956 - Participation of program beneficiaries"
 usc_title: 42
 usc_section: "4956"
 chapter: 66
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 4956"
-generated_at: "2026-03-30T00:44:58.630Z"
+generated_at: "2026-03-30T00:49:18.680Z"
 ---
 
 # § 4956. Participation of program beneficiaries

@@ -3,9 +3,9 @@ title: "Section 1103 - Establishment of trust"
 usc_title: 29
 usc_section: "1103"
 chapter: 18
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 1103"
-generated_at: "2026-03-30T00:42:59.065Z"
+generated_at: "2026-03-30T00:47:41.989Z"
 ---
 
 # § 1103. Establishment of trust

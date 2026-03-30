@@ -3,9 +3,9 @@ title: "Section 695f - Construction, etc., authorized by section 695e as not rei
 usc_title: 16
 usc_section: "695f"
 chapter: 6
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 695f"
-generated_at: "2026-03-30T00:42:28.878Z"
+generated_at: "2026-03-30T00:46:53.343Z"
 ---
 
 # § 695f. Construction, etc., authorized by section 695e as not reimbursable or returnable under reclamation laws

@@ -3,9 +3,9 @@ title: "Section 513 - Lands in project subject to provisions of chapter; after c
 usc_title: 43
 usc_section: "513"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 513"
-generated_at: "2026-03-30T00:44:30.449Z"
+generated_at: "2026-03-30T00:48:34.223Z"
 ---
 
 # § 513. Lands in project subject to provisions of chapter; after contract with irrigation district

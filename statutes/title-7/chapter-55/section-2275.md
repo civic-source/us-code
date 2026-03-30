@@ -3,9 +3,9 @@ title: "Section 2275 - Repealed. Pub. L. 101–624, title XV, § 1572(3) , Nov. 
 usc_title: 7
 usc_section: "2275"
 chapter: 55
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 2275"
-generated_at: "2026-03-30T00:41:49.609Z"
+generated_at: "2026-03-30T00:45:50.847Z"
 ---
 
 # § 2275. Repealed. Pub. L. 101–624, title XV, § 1572(3) , Nov. 28, 1990 , 104 Stat. 3702

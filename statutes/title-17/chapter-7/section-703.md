@@ -3,9 +3,9 @@ title: "Section 703 - Effective date of actions in Copyright Office"
 usc_title: 17
 usc_section: "703"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "17 U.S.C. § 703"
-generated_at: "2026-03-30T00:42:10.162Z"
+generated_at: "2026-03-30T00:46:49.549Z"
 ---
 
 # § 703. Effective date of actions in Copyright Office

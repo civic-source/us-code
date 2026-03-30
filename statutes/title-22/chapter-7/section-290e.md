@@ -3,9 +3,9 @@ title: "Section 290e - Congressional declaration of policy"
 usc_title: 22
 usc_section: "290e"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 290e"
-generated_at: "2026-03-30T00:42:54.436Z"
+generated_at: "2026-03-30T00:47:22.468Z"
 ---
 
 # § 290e. Congressional declaration of policy

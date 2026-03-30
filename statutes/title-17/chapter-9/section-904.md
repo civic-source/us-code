@@ -3,9 +3,9 @@ title: "Section 904 - Duration of protection"
 usc_title: 17
 usc_section: "904"
 chapter: 9
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "17 U.S.C. § 904"
-generated_at: "2026-03-30T00:42:10.163Z"
+generated_at: "2026-03-30T00:46:49.550Z"
 ---
 
 # § 904. Duration of protection

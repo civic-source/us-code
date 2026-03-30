@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 104–66, title III, § 3001(e) , Dec. 21,
 usc_title: 15
 usc_section: "1"
 chapter: 6
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T00:42:07.326Z"
+generated_at: "2026-03-30T00:46:25.589Z"
 ---
 
 # § 205j–1. Repealed. Pub. L. 104–66, title III, § 3001(e) , Dec. 21, 1995 , 109 Stat. 734

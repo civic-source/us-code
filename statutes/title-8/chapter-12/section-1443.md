@@ -3,9 +3,9 @@ title: "Section 1443 - Administration"
 usc_title: 8
 usc_section: "1443"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "8 U.S.C. § 1443"
-generated_at: "2026-03-30T00:41:39.820Z"
+generated_at: "2026-03-30T00:45:45.488Z"
 ---
 
 # § 1443. Administration

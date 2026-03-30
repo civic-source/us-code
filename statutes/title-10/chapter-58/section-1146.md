@@ -3,9 +3,9 @@ title: "Section 1146 - Commissary and exchange benefits"
 usc_title: 10
 usc_section: "1146"
 chapter: 58
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 1146"
-generated_at: "2026-03-30T00:41:56.896Z"
+generated_at: "2026-03-30T00:46:04.689Z"
 ---
 
 # § 1146. Commissary and exchange benefits

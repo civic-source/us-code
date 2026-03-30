@@ -3,9 +3,9 @@ title: "Section 2512 - Authority to encourage reciprocal competitive procurement
 usc_title: 19
 usc_section: "2512"
 chapter: 13
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 2512"
-generated_at: "2026-03-30T00:42:13.311Z"
+generated_at: "2026-03-30T00:46:50.707Z"
 ---
 
 # § 2512. Authority to encourage reciprocal competitive procurement practices

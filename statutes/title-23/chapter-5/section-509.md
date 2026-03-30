@@ -3,9 +3,9 @@ title: "Section 509 - Repealed. Pub. L. 112–141, div. E, title II, § 52008(a)
 usc_title: 23
 usc_section: "509"
 chapter: 5
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "23 U.S.C. § 509"
-generated_at: "2026-03-30T00:42:32.199Z"
+generated_at: "2026-03-30T00:47:11.784Z"
 ---
 
 # [§ 509. Repealed. Pub. L. 112–141, div. E, title II, § 52008(a) , July 6, 2012 , 126 Stat. 882 ]

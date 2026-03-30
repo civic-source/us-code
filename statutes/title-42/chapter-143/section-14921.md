@@ -3,9 +3,9 @@ title: "Section 14921 - Accreditation or approval required in order to provide a
 usc_title: 42
 usc_section: "14921"
 chapter: 143
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 14921"
-generated_at: "2026-03-30T00:44:58.839Z"
+generated_at: "2026-03-30T00:49:18.954Z"
 ---
 
 # § 14921. Accreditation or approval required in order to provide adoption services in cases subject to the Convention

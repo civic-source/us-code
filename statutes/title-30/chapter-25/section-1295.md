@@ -3,9 +3,9 @@ title: "Section 1295 - Grants to States"
 usc_title: 30
 usc_section: "1295"
 chapter: 25
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 1295"
-generated_at: "2026-03-30T00:42:57.093Z"
+generated_at: "2026-03-30T00:47:30.537Z"
 ---
 
 # § 1295. Grants to States

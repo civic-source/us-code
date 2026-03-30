@@ -3,9 +3,9 @@ title: "Section 1321 - Legislative finding of effect on interstate and foreign c
 usc_title: 7
 usc_section: "1321"
 chapter: 35
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 1321"
-generated_at: "2026-03-30T00:41:49.513Z"
+generated_at: "2026-03-30T00:45:50.784Z"
 ---
 
 # § 1321. Legislative finding of effect on interstate and foreign commerce and necessity of regulation

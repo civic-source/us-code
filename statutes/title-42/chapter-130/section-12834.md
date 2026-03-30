@@ -3,9 +3,9 @@ title: "Section 12834 - Uniform recordkeeping and reports to Congress"
 usc_title: 42
 usc_section: "12834"
 chapter: 130
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 12834"
-generated_at: "2026-03-30T00:44:58.822Z"
+generated_at: "2026-03-30T00:49:18.930Z"
 ---
 
 # § 12834. Uniform recordkeeping and reports to Congress

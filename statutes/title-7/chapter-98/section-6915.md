@@ -3,9 +3,9 @@ title: "Section 6915 - Combination of field offices"
 usc_title: 7
 usc_section: "6915"
 chapter: 98
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 6915"
-generated_at: "2026-03-30T00:41:49.673Z"
+generated_at: "2026-03-30T00:45:50.888Z"
 ---
 
 # § 6915. Combination of field offices

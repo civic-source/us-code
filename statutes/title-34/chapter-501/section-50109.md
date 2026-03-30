@@ -3,9 +3,9 @@ title: "Section 50109 - Bureau of Justice Assistance"
 usc_title: 34
 usc_section: "50109"
 chapter: 501
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "34 U.S.C. § 50109"
-generated_at: "2026-03-30T00:43:45.667Z"
+generated_at: "2026-03-30T00:47:53.137Z"
 ---
 
 # § 50109. Bureau of Justice Assistance

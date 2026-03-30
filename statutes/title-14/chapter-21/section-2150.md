@@ -3,9 +3,9 @@ title: "Section 2150 - Captains; continuation on active duty; involuntary retire
 usc_title: 14
 usc_section: "2150"
 chapter: 21
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "14 U.S.C. § 2150"
-generated_at: "2026-03-30T00:41:59.475Z"
+generated_at: "2026-03-30T00:46:13.940Z"
 ---
 
 # § 2150. Captains; continuation on active duty; involuntary retirement

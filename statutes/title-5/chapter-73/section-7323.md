@@ -3,9 +3,9 @@ title: "Section 7323 - Political activity authorized; prohibitions"
 usc_title: 5
 usc_section: "7323"
 chapter: 73
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 7323"
-generated_at: "2026-03-30T00:41:37.019Z"
+generated_at: "2026-03-30T00:45:37.312Z"
 ---
 
 # § 7323. Political activity authorized; prohibitions

@@ -3,9 +3,9 @@ title: "Section 26102 - High-speed rail technology improvements"
 usc_title: 49
 usc_section: "26102"
 chapter: 261
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 26102"
-generated_at: "2026-03-30T00:45:11.508Z"
+generated_at: "2026-03-30T00:49:28.271Z"
 ---
 
 # § 26102. High-speed rail technology improvements

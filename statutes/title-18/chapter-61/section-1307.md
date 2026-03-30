@@ -3,9 +3,9 @@ title: "Section 1307 - Exceptions relating to certain advertisements and other i
 usc_title: 18
 usc_section: "1307"
 chapter: 61
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "18 U.S.C. § 1307"
-generated_at: "2026-03-30T00:42:11.182Z"
+generated_at: "2026-03-30T00:47:06.483Z"
 ---
 
 # § 1307. Exceptions relating to certain advertisements and other information and to State-conducted lotteries

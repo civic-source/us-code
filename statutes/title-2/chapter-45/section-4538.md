@@ -3,9 +3,9 @@ title: "Section 4538 - Reimbursement of residential telecommunications expenses 
 usc_title: 2
 usc_section: "4538"
 chapter: 45
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 4538"
-generated_at: "2026-03-30T00:41:25.792Z"
+generated_at: "2026-03-30T00:45:29.256Z"
 ---
 
 # § 4538. Reimbursement of residential telecommunications expenses for House Members, officers, and employees

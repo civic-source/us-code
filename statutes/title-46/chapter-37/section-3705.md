@@ -3,9 +3,9 @@ title: "Section 3705 - Crude oil tanker minimum standards"
 usc_title: 46
 usc_section: "3705"
 chapter: 37
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 3705"
-generated_at: "2026-03-30T00:45:02.360Z"
+generated_at: "2026-03-30T00:49:23.388Z"
 ---
 
 # § 3705. Crude oil tanker minimum standards

@@ -3,9 +3,9 @@ title: "Section 707 - Reservation of mineral rights"
 usc_title: 30
 usc_section: "707"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "30 U.S.C. § 707"
-generated_at: "2026-03-30T00:42:57.074Z"
+generated_at: "2026-03-30T00:47:30.521Z"
 ---
 
 # § 707. Reservation of mineral rights

@@ -3,9 +3,9 @@ title: "Section 1741e - Definitions"
 usc_title: 22
 usc_section: "1741e"
 chapter: 23
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 1741e"
-generated_at: "2026-03-30T00:42:54.453Z"
+generated_at: "2026-03-30T00:47:22.482Z"
 ---
 
 # § 1741e. Definitions

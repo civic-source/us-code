@@ -3,9 +3,9 @@ title: "Section 1901b - Joint oversight hearings"
 usc_title: 2
 usc_section: "1901b"
 chapter: 29
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 1901b"
-generated_at: "2026-03-30T00:41:25.781Z"
+generated_at: "2026-03-30T00:45:29.246Z"
 ---
 
 # § 1901b. Joint oversight hearings

@@ -3,9 +3,9 @@ title: "Section 1516 - Judicial review; persons aggrieved; jurisdiction of court
 usc_title: 33
 usc_section: "1516"
 chapter: 29
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 1516"
-generated_at: "2026-03-30T00:44:01.011Z"
+generated_at: "2026-03-30T00:47:56.720Z"
 ---
 
 # § 1516. Judicial review; persons aggrieved; jurisdiction of courts of appeal

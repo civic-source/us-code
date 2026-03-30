@@ -3,9 +3,9 @@ title: "Section 41716 - Interim slot rules at New York airports"
 usc_title: 49
 usc_section: "41716"
 chapter: 417
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "49 U.S.C. § 41716"
-generated_at: "2026-03-30T00:45:11.533Z"
+generated_at: "2026-03-30T00:49:28.297Z"
 ---
 
 # § 41716. Interim slot rules at New York airports

@@ -3,9 +3,9 @@ title: "Section 321d - National Operations Center"
 usc_title: 6
 usc_section: "321d"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "6 U.S.C. § 321d"
-generated_at: "2026-03-30T00:41:41.209Z"
+generated_at: "2026-03-30T00:45:43.590Z"
 ---
 
 # § 321d. National Operations Center

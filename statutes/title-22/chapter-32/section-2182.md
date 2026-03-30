@@ -3,9 +3,9 @@ title: "Section 2182 - Authorization for worldwide shelter guarantees"
 usc_title: 22
 usc_section: "2182"
 chapter: 32
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 2182"
-generated_at: "2026-03-30T00:42:54.464Z"
+generated_at: "2026-03-30T00:47:22.493Z"
 ---
 
 # § 2182. Authorization for worldwide shelter guarantees

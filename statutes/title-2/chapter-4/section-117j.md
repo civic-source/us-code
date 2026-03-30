@@ -3,9 +3,9 @@ title: "Section 117j - Transferred"
 usc_title: 2
 usc_section: "117j"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 117j"
-generated_at: "2026-03-30T00:41:25.747Z"
+generated_at: "2026-03-30T00:45:29.216Z"
 ---
 
 # § 117j. Transferred

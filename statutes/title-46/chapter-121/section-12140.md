@@ -3,9 +3,9 @@ title: "Section 12140 - Investigations by Secretary"
 usc_title: 46
 usc_section: "12140"
 chapter: 121
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 12140"
-generated_at: "2026-03-30T00:45:02.373Z"
+generated_at: "2026-03-30T00:49:23.398Z"
 ---
 
 # § 12140. Investigations by Secretary

@@ -3,9 +3,9 @@ title: "Section 174 - Function of Center for the Book"
 usc_title: 2
 usc_section: "174"
 chapter: 5
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 174"
-generated_at: "2026-03-30T00:41:25.750Z"
+generated_at: "2026-03-30T00:45:29.219Z"
 ---
 
 # § 174. Function of Center for the Book

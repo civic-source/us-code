@@ -3,9 +3,9 @@ title: "Section 1a - Further modification of 1927 project; adoption; appropriati
 usc_title: 33
 usc_section: "1a"
 chapter: 15
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 1a"
-generated_at: "2026-03-30T00:44:00.975Z"
+generated_at: "2026-03-30T00:47:56.683Z"
 ---
 
 # § 702a–1a. Further modification of 1927 project; adoption; appropriation

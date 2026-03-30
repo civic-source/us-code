@@ -3,9 +3,9 @@ title: "Section 509 - Private foundation defined"
 usc_title: 26
 usc_section: "509"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 509"
-generated_at: "2026-03-30T00:43:12.422Z"
+generated_at: "2026-03-30T00:47:39.404Z"
 ---
 
 # § 509. Private foundation defined

@@ -3,9 +3,9 @@ title: "Section 1921 - Higher State or Federal standard applicable to protect ri
 usc_title: 25
 usc_section: "1921"
 chapter: 21
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 1921"
-generated_at: "2026-03-30T00:42:43.317Z"
+generated_at: "2026-03-30T00:47:11.201Z"
 ---
 
 # § 1921. Higher State or Federal standard applicable to protect rights of parent or Indian custodian of Indian child

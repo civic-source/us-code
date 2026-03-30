@@ -3,9 +3,9 @@ title: "Section 532 - Cable channels for commercial use"
 usc_title: 47
 usc_section: "532"
 chapter: 5
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "47 U.S.C. § 532"
-generated_at: "2026-03-30T00:45:04.911Z"
+generated_at: "2026-03-30T00:49:24.454Z"
 ---
 
 # § 532. Cable channels for commercial use

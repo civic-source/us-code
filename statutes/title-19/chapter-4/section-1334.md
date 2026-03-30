@@ -3,9 +3,9 @@ title: "Section 1334 - Cooperation with other agencies"
 usc_title: 19
 usc_section: "1334"
 chapter: 4
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 1334"
-generated_at: "2026-03-30T00:42:13.269Z"
+generated_at: "2026-03-30T00:46:50.665Z"
 ---
 
 # § 1334. Cooperation with other agencies

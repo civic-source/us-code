@@ -3,9 +3,9 @@ title: "Section 5708 - Losses caused by disaster"
 usc_title: 26
 usc_section: "5708"
 chapter: 52
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 5708"
-generated_at: "2026-03-30T00:43:12.531Z"
+generated_at: "2026-03-30T00:47:39.509Z"
 ---
 
 # § 5708. Losses caused by disaster

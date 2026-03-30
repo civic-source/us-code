@@ -3,9 +3,9 @@ title: "Section 491 - Establishment and development of land-based air warning an
 usc_title: 50
 usc_section: "491"
 chapter: 18
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "50 U.S.C. § 491"
-generated_at: "2026-03-30T00:45:08.030Z"
+generated_at: "2026-03-30T00:49:25.763Z"
 ---
 
 # § 491. Establishment and development of land-based air warning and control installations and facilities; extent of appropriation; procurement of communication services

@@ -3,9 +3,9 @@ title: "Section 18921 - Definitions"
 usc_title: 42
 usc_section: "18921"
 chapter: 163
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 18921"
-generated_at: "2026-03-30T00:44:58.908Z"
+generated_at: "2026-03-30T00:49:19.041Z"
 ---
 
 # § 18921. Definitions

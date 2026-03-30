@@ -3,9 +3,9 @@ title: "Section 6907 - Use of other appropriated amounts"
 usc_title: 40
 usc_section: "6907"
 chapter: 69
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "40 U.S.C. § 6907"
-generated_at: "2026-03-30T00:44:04.703Z"
+generated_at: "2026-03-30T00:48:09.843Z"
 ---
 
 # § 6907. Use of other appropriated amounts

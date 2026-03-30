@@ -3,9 +3,9 @@ title: "Section 904 - Disposal"
 usc_title: 40
 usc_section: "904"
 chapter: 9
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "40 U.S.C. § 904"
-generated_at: "2026-03-30T00:44:04.698Z"
+generated_at: "2026-03-30T00:48:09.837Z"
 ---
 
 # § 904. Disposal

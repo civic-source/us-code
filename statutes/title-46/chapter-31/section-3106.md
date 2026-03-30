@@ -3,9 +3,9 @@ title: "Section 3106 - Master key control system"
 usc_title: 46
 usc_section: "3106"
 chapter: 31
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 3106"
-generated_at: "2026-03-30T00:45:02.358Z"
+generated_at: "2026-03-30T00:49:23.385Z"
 ---
 
 # § 3106. Master key control system

@@ -3,9 +3,9 @@ title: "Section 2171 - Structure, functions, powers, and personnel"
 usc_title: 19
 usc_section: "2171"
 chapter: 12
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "19 U.S.C. § 2171"
-generated_at: "2026-03-30T00:42:13.300Z"
+generated_at: "2026-03-30T00:46:50.695Z"
 ---
 
 # § 2171. Structure, functions, powers, and personnel

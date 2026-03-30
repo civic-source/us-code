@@ -3,9 +3,9 @@ title: "Section 7435 - Dean of Academic Board"
 usc_title: 10
 usc_section: "7435"
 chapter: 753
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 7435"
-generated_at: "2026-03-30T00:41:56.983Z"
+generated_at: "2026-03-30T00:46:04.772Z"
 ---
 
 # § 7435. Dean of Academic Board

@@ -3,9 +3,9 @@ title: "Section 10632 - State reentry project evaluation"
 usc_title: 34
 usc_section: "10632"
 chapter: 101
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "34 U.S.C. § 10632"
-generated_at: "2026-03-30T00:43:45.624Z"
+generated_at: "2026-03-30T00:47:53.094Z"
 ---
 
 # § 10632. State reentry project evaluation

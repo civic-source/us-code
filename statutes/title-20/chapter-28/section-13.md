@@ -3,9 +3,9 @@ title: "Section 13 - Upward bound"
 usc_title: 20
 usc_section: "13"
 chapter: 28
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-30T00:42:15.721Z"
+generated_at: "2026-03-30T00:46:49.199Z"
 ---
 
 # § 1070a–13. Upward bound

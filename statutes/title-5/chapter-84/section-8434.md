@@ -3,9 +3,9 @@ title: "Section 8434 - Annuities: methods of payment; election; purchase"
 usc_title: 5
 usc_section: "8434"
 chapter: 84
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 8434"
-generated_at: "2026-03-30T00:41:37.038Z"
+generated_at: "2026-03-30T00:45:37.326Z"
 ---
 
 # § 8434. Annuities: methods of payment; election; purchase

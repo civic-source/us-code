@@ -3,9 +3,9 @@ title: "Section 7902 - Safety programs"
 usc_title: 5
 usc_section: "7902"
 chapter: 79
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 7902"
-generated_at: "2026-03-30T00:41:37.020Z"
+generated_at: "2026-03-30T00:45:37.314Z"
 ---
 
 # § 7902. Safety programs

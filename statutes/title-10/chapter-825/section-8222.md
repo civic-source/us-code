@@ -3,9 +3,9 @@ title: "Section 8222 - Indebtedness to Marine Corps Exchanges: payment from appr
 usc_title: 10
 usc_section: "8222"
 chapter: 825
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8222"
-generated_at: "2026-03-30T00:41:56.990Z"
+generated_at: "2026-03-30T00:46:04.779Z"
 ---
 
 # § 8222. Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases

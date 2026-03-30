@@ -3,9 +3,9 @@ title: "Section 41313 - GAO study on incidence of fatal and non-fatal physical a
 usc_title: 34
 usc_section: "41313"
 chapter: 413
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "34 U.S.C. § 41313"
-generated_at: "2026-03-30T00:43:45.665Z"
+generated_at: "2026-03-30T00:47:53.136Z"
 ---
 
 # § 41313. GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire vehicles

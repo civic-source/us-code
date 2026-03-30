@@ -3,9 +3,9 @@ title: "Section 3012 - Basic educational assistance entitlement for service in t
 usc_title: 38
 usc_section: "3012"
 chapter: 30
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "38 U.S.C. § 3012"
-generated_at: "2026-03-30T00:44:18.488Z"
+generated_at: "2026-03-30T00:48:21.083Z"
 ---
 
 # § 3012. Basic educational assistance entitlement for service in the Selected Reserve

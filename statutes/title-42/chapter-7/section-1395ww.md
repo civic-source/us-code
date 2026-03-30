@@ -3,9 +3,9 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T00:44:58.457Z"
+generated_at: "2026-03-30T00:49:18.472Z"
 ---
 
 # § 1395ww. Payments to hospitals for inpatient hospital services

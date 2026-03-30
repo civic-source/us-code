@@ -3,9 +3,9 @@ title: "Section 7263 - Representation of parties; fee agreements"
 usc_title: 38
 usc_section: "7263"
 chapter: 72
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "38 U.S.C. § 7263"
-generated_at: "2026-03-30T00:44:18.516Z"
+generated_at: "2026-03-30T00:48:21.109Z"
 ---
 
 # § 7263. Representation of parties; fee agreements

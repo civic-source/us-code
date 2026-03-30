@@ -3,9 +3,9 @@ title: "Section 1722 - Provision of agricultural commodities"
 usc_title: 7
 usc_section: "1722"
 chapter: 41
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 1722"
-generated_at: "2026-03-30T00:41:49.553Z"
+generated_at: "2026-03-30T00:45:50.810Z"
 ---
 
 # § 1722. Provision of agricultural commodities

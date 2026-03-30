@@ -3,9 +3,9 @@ title: "Section 53405 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53405"
 chapter: 534
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 53405"
-generated_at: "2026-03-30T00:45:02.387Z"
+generated_at: "2026-03-30T00:49:23.413Z"
 ---
 
 # § 53405. Obligations and rights under operating agreements

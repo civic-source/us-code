@@ -3,9 +3,9 @@ title: "Section 1b - Tenant participation in multifamily housing projects"
 usc_title: 12
 usc_section: "1b"
 chapter: 13
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 1b"
-generated_at: "2026-03-30T00:42:04.434Z"
+generated_at: "2026-03-30T00:46:42.394Z"
 ---
 
 # § 1715z–1b. Tenant participation in multifamily housing projects

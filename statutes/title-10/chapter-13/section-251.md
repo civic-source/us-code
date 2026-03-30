@@ -3,9 +3,9 @@ title: "Section 251 - Federal aid for State governments"
 usc_title: 10
 usc_section: "251"
 chapter: 13
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 251"
-generated_at: "2026-03-30T00:41:56.846Z"
+generated_at: "2026-03-30T00:46:04.641Z"
 ---
 
 # § 251. Federal aid for State governments

@@ -3,9 +3,9 @@ title: "Section 6552 - Definitions"
 usc_title: 16
 usc_section: "6552"
 chapter: 84
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 6552"
-generated_at: "2026-03-30T00:42:29.000Z"
+generated_at: "2026-03-30T00:46:53.466Z"
 ---
 
 # § 6552. Definitions

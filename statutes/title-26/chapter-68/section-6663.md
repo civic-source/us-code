@@ -3,9 +3,9 @@ title: "Section 6663 - Imposition of fraud penalty"
 usc_title: 26
 usc_section: "6663"
 chapter: 68
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 6663"
-generated_at: "2026-03-30T00:43:12.566Z"
+generated_at: "2026-03-30T00:47:39.542Z"
 ---
 
 # § 6663. Imposition of fraud penalty

@@ -3,9 +3,9 @@ title: "Section 3057e - Applications"
 usc_title: 42
 usc_section: "3057e"
 chapter: 35
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 3057e"
-generated_at: "2026-03-30T00:44:58.600Z"
+generated_at: "2026-03-30T00:49:18.634Z"
 ---
 
 # § 3057e. Applications

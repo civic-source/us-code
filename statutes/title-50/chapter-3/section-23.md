@@ -3,9 +3,9 @@ title: "Section 23 - Jurisdiction of United States courts and judges"
 usc_title: 50
 usc_section: "23"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "50 U.S.C. § 23"
-generated_at: "2026-03-30T00:45:08.026Z"
+generated_at: "2026-03-30T00:49:25.758Z"
 ---
 
 # § 23. Jurisdiction of United States courts and judges

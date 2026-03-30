@@ -3,9 +3,9 @@ title: "Section 6712 - Insurance underwriting in national banks"
 usc_title: 15
 usc_section: "6712"
 chapter: 93
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 6712"
-generated_at: "2026-03-30T00:42:07.465Z"
+generated_at: "2026-03-30T00:46:25.737Z"
 ---
 
 # § 6712. Insurance underwriting in national banks

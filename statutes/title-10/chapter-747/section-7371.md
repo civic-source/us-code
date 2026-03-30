@@ -3,9 +3,9 @@ title: "Section 7371 - Army War College and United States Army Command and Gener
 usc_title: 10
 usc_section: "7371"
 chapter: 747
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 7371"
-generated_at: "2026-03-30T00:41:56.982Z"
+generated_at: "2026-03-30T00:46:04.772Z"
 ---
 
 # § 7371. Army War College and United States Army Command and General Staff College: civilian faculty members

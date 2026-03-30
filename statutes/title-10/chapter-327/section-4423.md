@@ -3,9 +3,9 @@ title: "Section 4423 - Requirements and limitations for weapon system component 
 usc_title: 10
 usc_section: "4423"
 chapter: 327
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 4423"
-generated_at: "2026-03-30T00:41:56.973Z"
+generated_at: "2026-03-30T00:46:04.763Z"
 ---
 
 # § 4423. Requirements and limitations for weapon system component or technology prototype projects

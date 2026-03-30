@@ -3,9 +3,9 @@ title: "Section 5115 - United States currency notes"
 usc_title: 31
 usc_section: "5115"
 chapter: 51
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "31 U.S.C. § 5115"
-generated_at: "2026-03-30T00:43:57.464Z"
+generated_at: "2026-03-30T00:47:46.387Z"
 ---
 
 # § 5115. United States currency notes

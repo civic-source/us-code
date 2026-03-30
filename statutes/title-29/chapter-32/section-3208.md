@@ -3,9 +3,9 @@ title: "Section 3208 - Special provisions"
 usc_title: 29
 usc_section: "3208"
 chapter: 32
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 3208"
-generated_at: "2026-03-30T00:42:59.104Z"
+generated_at: "2026-03-30T00:47:42.027Z"
 ---
 
 # § 3208. Special provisions

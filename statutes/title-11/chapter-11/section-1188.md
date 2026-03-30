@@ -3,9 +3,9 @@ title: "Section 1188 - Status conference"
 usc_title: 11
 usc_section: "1188"
 chapter: 11
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "11 U.S.C. § 1188"
-generated_at: "2026-03-30T00:42:01.670Z"
+generated_at: "2026-03-30T00:46:14.848Z"
 ---
 
 # § 1188. Status conference

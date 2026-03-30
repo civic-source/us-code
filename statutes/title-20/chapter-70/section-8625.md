@@ -3,9 +3,9 @@ title: "Section 8625 - Transferred"
 usc_title: 20
 usc_section: "8625"
 chapter: 70
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 8625"
-generated_at: "2026-03-30T00:42:15.836Z"
+generated_at: "2026-03-30T00:46:49.313Z"
 ---
 
 # §§ 8621 to 8625. Transferred

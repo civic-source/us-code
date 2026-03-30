@@ -3,9 +3,9 @@ title: "Section 304 - Subpenas"
 usc_title: 5
 usc_section: "304"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "5 U.S.C. § 304"
-generated_at: "2026-03-30T00:41:36.972Z"
+generated_at: "2026-03-30T00:45:37.273Z"
 ---
 
 # § 304. Subpenas

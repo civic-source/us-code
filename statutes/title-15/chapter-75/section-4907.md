@@ -3,9 +3,9 @@ title: "Section 4907 - Operation of Data Bank"
 usc_title: 15
 usc_section: "4907"
 chapter: 75
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "15 U.S.C. § 4907"
-generated_at: "2026-03-30T00:42:07.457Z"
+generated_at: "2026-03-30T00:46:25.729Z"
 ---
 
 # § 4907. Operation of Data Bank

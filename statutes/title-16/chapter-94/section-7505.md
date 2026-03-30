@@ -3,9 +3,9 @@ title: "Section 7505 - Grants"
 usc_title: 16
 usc_section: "7505"
 chapter: 94
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 7505"
-generated_at: "2026-03-30T00:42:29.011Z"
+generated_at: "2026-03-30T00:46:53.476Z"
 ---
 
 # § 7505. Grants

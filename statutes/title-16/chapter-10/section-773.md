@@ -3,9 +3,9 @@ title: "Section 773 - Definitions"
 usc_title: 16
 usc_section: "773"
 chapter: 10
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 773"
-generated_at: "2026-03-30T00:42:28.887Z"
+generated_at: "2026-03-30T00:46:53.351Z"
 ---
 
 # § 773. Definitions

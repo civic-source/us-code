@@ -3,9 +3,9 @@ title: "Section 7601 - Canvass of districts for taxable persons and objects"
 usc_title: 26
 usc_section: "7601"
 chapter: 78
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 7601"
-generated_at: "2026-03-30T00:43:12.581Z"
+generated_at: "2026-03-30T00:47:39.557Z"
 ---
 
 # § 7601. Canvass of districts for taxable persons and objects

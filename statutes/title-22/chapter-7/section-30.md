@@ -3,9 +3,9 @@ title: "Section 30 - Lower Rio Grande drainage conveyance canal projects; agreem
 usc_title: 22
 usc_section: "30"
 chapter: 7
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 30"
-generated_at: "2026-03-30T00:42:54.425Z"
+generated_at: "2026-03-30T00:47:22.459Z"
 ---
 
 # § 277d–30. Lower Rio Grande drainage conveyance canal projects; agreements with Mexico for construction, operation, and maintenance; division of costs; non-Federal assurances of one-half of Federal costs

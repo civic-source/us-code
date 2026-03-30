@@ -3,9 +3,9 @@ title: "Section 4068 - Remarriage"
 usc_title: 22
 usc_section: "4068"
 chapter: 52
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 4068"
-generated_at: "2026-03-30T00:42:54.521Z"
+generated_at: "2026-03-30T00:47:22.547Z"
 ---
 
 # § 4068. Remarriage

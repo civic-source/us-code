@@ -3,9 +3,9 @@ title: "Section 8286a - Use of factors and data"
 usc_title: 42
 usc_section: "8286a"
 chapter: 91
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 8286a"
-generated_at: "2026-03-30T00:44:58.740Z"
+generated_at: "2026-03-30T00:49:18.809Z"
 ---
 
 # § 8286a. Use of factors and data

@@ -3,9 +3,9 @@ title: "Section 5203 - Excess disaster assistance payments as budgetary emergenc
 usc_title: 42
 usc_section: "5203"
 chapter: 68
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 5203"
-generated_at: "2026-03-30T00:44:58.644Z"
+generated_at: "2026-03-30T00:49:18.698Z"
 ---
 
 # § 5203. Excess disaster assistance payments as budgetary emergency requirements

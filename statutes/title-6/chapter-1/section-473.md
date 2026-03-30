@@ -3,9 +3,9 @@ title: "Section 473 - Cyber Crimes Center, Child Exploitation Investigations Uni
 usc_title: 6
 usc_section: "473"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "6 U.S.C. § 473"
-generated_at: "2026-03-30T00:41:41.217Z"
+generated_at: "2026-03-30T00:45:43.597Z"
 ---
 
 # § 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit

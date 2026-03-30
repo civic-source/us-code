@@ -3,9 +3,9 @@ title: "Section 6324A - Special lien for estate tax deferred under section 6166"
 usc_title: 26
 usc_section: "6324A"
 chapter: 64
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 6324A"
-generated_at: "2026-03-30T00:43:12.553Z"
+generated_at: "2026-03-30T00:47:39.530Z"
 ---
 
 # § 6324A. Special lien for estate tax deferred under section 6166

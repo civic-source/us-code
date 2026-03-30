@@ -3,9 +3,9 @@ title: "Section 148 - U.S. Hostage and Wrongful Detainee Day"
 usc_title: 36
 usc_section: "148"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "36 U.S.C. § 148"
-generated_at: "2026-03-30T00:44:07.438Z"
+generated_at: "2026-03-30T00:48:05.166Z"
 ---
 
 # § 148. U.S. Hostage and Wrongful Detainee Day

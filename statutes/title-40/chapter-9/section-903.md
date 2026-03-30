@@ -3,9 +3,9 @@ title: "Section 903 - Acquisition and use"
 usc_title: 40
 usc_section: "903"
 chapter: 9
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "40 U.S.C. § 903"
-generated_at: "2026-03-30T00:44:04.698Z"
+generated_at: "2026-03-30T00:48:09.837Z"
 ---
 
 # § 903. Acquisition and use

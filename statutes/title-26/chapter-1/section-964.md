@@ -3,9 +3,9 @@ title: "Section 964 - Miscellaneous provisions"
 usc_title: 26
 usc_section: "964"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 964"
-generated_at: "2026-03-30T00:43:12.456Z"
+generated_at: "2026-03-30T00:47:39.438Z"
 ---
 
 # § 964. Miscellaneous provisions

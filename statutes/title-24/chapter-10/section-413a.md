@@ -3,9 +3,9 @@ title: "Section 413a - Oversight of health care provided to residents"
 usc_title: 24
 usc_section: "413a"
 chapter: 10
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "24 U.S.C. § 413a"
-generated_at: "2026-03-30T00:42:32.507Z"
+generated_at: "2026-03-30T00:47:09.864Z"
 ---
 
 # § 413a. Oversight of health care provided to residents

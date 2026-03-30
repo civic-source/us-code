@@ -3,9 +3,9 @@ title: "Section 125 - Functions, powers, and duties: transfer, reassignment, con
 usc_title: 10
 usc_section: "125"
 chapter: 3
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 125"
-generated_at: "2026-03-30T00:41:56.834Z"
+generated_at: "2026-03-30T00:46:04.628Z"
 ---
 
 # § 125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition

@@ -3,9 +3,9 @@ title: "Section 18777 - Harmonization of efforts and data"
 usc_title: 42
 usc_section: "18777"
 chapter: 162
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 18777"
-generated_at: "2026-03-30T00:44:58.905Z"
+generated_at: "2026-03-30T00:49:19.036Z"
 ---
 
 # § 18777. Harmonization of efforts and data

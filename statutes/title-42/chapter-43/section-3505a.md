@@ -3,9 +3,9 @@ title: "Section 3505a - Office of Population Affairs; establishment; Deputy Assi
 usc_title: 42
 usc_section: "3505a"
 chapter: 43
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 3505a"
-generated_at: "2026-03-30T00:44:58.606Z"
+generated_at: "2026-03-30T00:49:18.644Z"
 ---
 
 # § 3505a. Office of Population Affairs; establishment; Deputy Assistant Secretary for Population Affairs; appointment; staff and consultants

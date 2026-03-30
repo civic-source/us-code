@@ -3,9 +3,9 @@ title: "Section 10 - Publications"
 usc_title: 35
 usc_section: "10"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "35 U.S.C. § 10"
-generated_at: "2026-03-30T00:43:41.554Z"
+generated_at: "2026-03-30T00:47:50.855Z"
 ---
 
 # § 10. Publications

@@ -3,9 +3,9 @@ title: "Section 796d - Statewide Independent Living Council"
 usc_title: 29
 usc_section: "796d"
 chapter: 16
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 796d"
-generated_at: "2026-03-30T00:42:59.049Z"
+generated_at: "2026-03-30T00:47:41.972Z"
 ---
 
 # § 796d. Statewide Independent Living Council

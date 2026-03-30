@@ -3,9 +3,9 @@ title: "Section 19211 - Early-career research fellowship program"
 usc_title: 42
 usc_section: "19211"
 chapter: 163
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 19211"
-generated_at: "2026-03-30T00:44:58.916Z"
+generated_at: "2026-03-30T00:49:19.051Z"
 ---
 
 # § 19211. Early-career research fellowship program

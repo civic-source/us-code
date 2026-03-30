@@ -3,9 +3,9 @@ title: "Section 764 - Research and other covered activities"
 usc_title: 29
 usc_section: "764"
 chapter: 16
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 764"
-generated_at: "2026-03-30T00:42:59.044Z"
+generated_at: "2026-03-30T00:47:41.968Z"
 ---
 
 # § 764. Research and other covered activities

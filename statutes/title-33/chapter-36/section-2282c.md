@@ -3,9 +3,9 @@ title: "Section 2282c - Vertical integration and acceleration of studies"
 usc_title: 33
 usc_section: "2282c"
 chapter: 36
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "33 U.S.C. § 2282c"
-generated_at: "2026-03-30T00:44:01.019Z"
+generated_at: "2026-03-30T00:47:56.728Z"
 ---
 
 # § 2282c. Vertical integration and acceleration of studies

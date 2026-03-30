@@ -3,9 +3,9 @@ title: "Section 159e - Revision of boundary; additional acreage; authorization o
 usc_title: 16
 usc_section: "159e"
 chapter: 1
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 159e"
-generated_at: "2026-03-30T00:42:28.751Z"
+generated_at: "2026-03-30T00:46:53.222Z"
 ---
 
 # § 159e. Revision of boundary; additional acreage; authorization of appropriations

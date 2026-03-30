@@ -3,9 +3,9 @@ title: "Section 1108 - Authorization to operate business"
 usc_title: 11
 usc_section: "1108"
 chapter: 11
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "11 U.S.C. § 1108"
-generated_at: "2026-03-30T00:42:01.668Z"
+generated_at: "2026-03-30T00:46:14.845Z"
 ---
 
 # § 1108. Authorization to operate business

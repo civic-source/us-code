@@ -3,9 +3,9 @@ title: "Section 3057 - Severability and savings provisions"
 usc_title: 25
 usc_section: "3057"
 chapter: 32
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "25 U.S.C. § 3057"
-generated_at: "2026-03-30T00:42:43.338Z"
+generated_at: "2026-03-30T00:47:11.216Z"
 ---
 
 # § 3057. Severability and savings provisions

@@ -3,9 +3,9 @@ title: "Section 30120 - Publication and distribution of statements and solicitat
 usc_title: 52
 usc_section: "30120"
 chapter: 301
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "52 U.S.C. § 30120"
-generated_at: "2026-03-30T00:45:13.451Z"
+generated_at: "2026-03-30T00:49:30.415Z"
 ---
 
 # § 30120. Publication and distribution of statements and solicitations

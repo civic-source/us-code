@@ -3,9 +3,9 @@ title: "Section 1092 - Studies and demonstration projects relating to delivery o
 usc_title: 10
 usc_section: "1092"
 chapter: 55
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 1092"
-generated_at: "2026-03-30T00:41:56.891Z"
+generated_at: "2026-03-30T00:46:04.685Z"
 ---
 
 # § 1092. Studies and demonstration projects relating to delivery of health and medical care

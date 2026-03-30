@@ -3,9 +3,9 @@ title: "Section 70052 - Seizure and forfeiture of vessel; fine and imprisonment"
 usc_title: 46
 usc_section: "70052"
 chapter: 700
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "46 U.S.C. § 70052"
-generated_at: "2026-03-30T00:45:02.399Z"
+generated_at: "2026-03-30T00:49:23.423Z"
 ---
 
 # § 70052. Seizure and forfeiture of vessel; fine and imprisonment

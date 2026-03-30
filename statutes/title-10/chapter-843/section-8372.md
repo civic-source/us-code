@@ -3,9 +3,9 @@ title: "Section 8372 - Regular Navy and Regular Marine Corps; officers designate
 usc_title: 10
 usc_section: "8372"
 chapter: 843
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8372"
-generated_at: "2026-03-30T00:41:56.991Z"
+generated_at: "2026-03-30T00:46:04.781Z"
 ---
 
 # § 8372. Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay

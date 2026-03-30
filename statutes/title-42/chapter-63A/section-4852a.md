@@ -3,9 +3,9 @@ title: "Section 4852a - Task force on lead-based paint hazard reduction and fina
 usc_title: 42
 usc_section: "4852a"
 chapter: 63
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 4852a"
-generated_at: "2026-03-30T00:44:58.628Z"
+generated_at: "2026-03-30T00:49:18.677Z"
 ---
 
 # § 4852a. Task force on lead-based paint hazard reduction and financing

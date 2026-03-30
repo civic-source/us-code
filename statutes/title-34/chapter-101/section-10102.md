@@ -3,9 +3,9 @@ title: "Section 10102 - Duties and functions of Assistant Attorney General"
 usc_title: 34
 usc_section: "10102"
 chapter: 101
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "34 U.S.C. § 10102"
-generated_at: "2026-03-30T00:43:45.609Z"
+generated_at: "2026-03-30T00:47:53.080Z"
 ---
 
 # § 10102. Duties and functions of Assistant Attorney General

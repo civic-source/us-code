@@ -3,9 +3,9 @@ title: "Section 3606 - Arrest and return of a probationer"
 usc_title: 18
 usc_section: "3606"
 chapter: 229
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "18 U.S.C. § 3606"
-generated_at: "2026-03-30T00:42:11.215Z"
+generated_at: "2026-03-30T00:47:06.515Z"
 ---
 
 # § 3606. Arrest and return of a probationer

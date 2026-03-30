@@ -3,9 +3,9 @@ title: "Section 4503d - Definitions"
 usc_title: 16
 usc_section: "4503d"
 chapter: 65
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 4503d"
-generated_at: "2026-03-30T00:42:28.988Z"
+generated_at: "2026-03-30T00:46:53.455Z"
 ---
 
 # § 4503d. Definitions

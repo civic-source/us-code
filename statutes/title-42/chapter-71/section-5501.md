@@ -3,9 +3,9 @@ title: "Section 5501 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "5501"
 chapter: 71
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 5501"
-generated_at: "2026-03-30T00:44:58.649Z"
+generated_at: "2026-03-30T00:49:18.706Z"
 ---
 
 # § 5501. Congressional findings and declaration of policy

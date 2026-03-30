@@ -3,9 +3,9 @@ title: "Section 2441 - Federal agency cooperation"
 usc_title: 16
 usc_section: "2441"
 chapter: 44
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "16 U.S.C. § 2441"
-generated_at: "2026-03-30T00:42:28.959Z"
+generated_at: "2026-03-30T00:46:53.425Z"
 ---
 
 # § 2441. Federal agency cooperation

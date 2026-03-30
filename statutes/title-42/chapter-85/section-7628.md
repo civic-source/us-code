@@ -3,9 +3,9 @@ title: "Section 7628 - Demonstration grant program for local governments"
 usc_title: 42
 usc_section: "7628"
 chapter: 85
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "42 U.S.C. § 7628"
-generated_at: "2026-03-30T00:44:58.723Z"
+generated_at: "2026-03-30T00:49:18.787Z"
 ---
 
 # § 7628. Demonstration grant program for local governments

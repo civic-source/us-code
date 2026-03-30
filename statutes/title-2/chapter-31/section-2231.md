@@ -3,9 +3,9 @@ title: "Section 2231 - Establishment and accounts"
 usc_title: 2
 usc_section: "2231"
 chapter: 31
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 2231"
-generated_at: "2026-03-30T00:41:25.789Z"
+generated_at: "2026-03-30T00:45:29.253Z"
 ---
 
 # § 2231. Establishment and accounts

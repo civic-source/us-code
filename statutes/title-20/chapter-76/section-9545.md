@@ -3,9 +3,9 @@ title: "Section 9545 - Reports"
 usc_title: 20
 usc_section: "9545"
 chapter: 76
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "20 U.S.C. § 9545"
-generated_at: "2026-03-30T00:42:15.841Z"
+generated_at: "2026-03-30T00:46:49.317Z"
 ---
 
 # § 9545. Reports

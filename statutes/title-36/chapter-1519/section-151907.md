@@ -3,9 +3,9 @@ title: "Section 151907 - Principal office"
 usc_title: 36
 usc_section: "151907"
 chapter: 1519
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "36 U.S.C. § 151907"
-generated_at: "2026-03-30T00:44:07.450Z"
+generated_at: "2026-03-30T00:48:05.180Z"
 ---
 
 # § 151907. Principal office

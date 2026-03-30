@@ -3,9 +3,9 @@ title: "Section 2211 - Definitions"
 usc_title: 48
 usc_section: "2211"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "48 U.S.C. § 2211"
-generated_at: "2026-03-30T00:45:08.585Z"
+generated_at: "2026-03-30T00:49:21.856Z"
 ---
 
 # § 2211. Definitions

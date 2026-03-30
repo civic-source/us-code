@@ -3,9 +3,9 @@ title: "Section 1 - Sale or lease to State or nonprofit organization; reservatio
 usc_title: 43
 usc_section: "1"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T00:44:30.457Z"
+generated_at: "2026-03-30T00:48:34.230Z"
 ---
 
 # § 869–1. Sale or lease to State or nonprofit organization; reservation of mineral deposits; termination of lease for nonuse

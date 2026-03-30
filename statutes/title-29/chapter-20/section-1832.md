@@ -3,9 +3,9 @@ title: "Section 1832 - Wages, supplies, and other working arrangements"
 usc_title: 29
 usc_section: "1832"
 chapter: 20
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 1832"
-generated_at: "2026-03-30T00:42:59.088Z"
+generated_at: "2026-03-30T00:47:42.011Z"
 ---
 
 # § 1832. Wages, supplies, and other working arrangements

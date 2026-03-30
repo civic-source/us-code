@@ -3,9 +3,9 @@ title: "Section 30310 - Exception to alternative fuel procurement requirement"
 usc_title: 51
 usc_section: "30310"
 chapter: 303
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "51 U.S.C. § 30310"
-generated_at: "2026-03-30T00:45:14.090Z"
+generated_at: "2026-03-30T00:49:32.835Z"
 ---
 
 # § 30310. Exception to alternative fuel procurement requirement

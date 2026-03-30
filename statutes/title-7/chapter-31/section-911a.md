@@ -3,9 +3,9 @@ title: "Section 911a - Repealed. Pub. L. 103–354, title II, § 235(a)(5) , Oct
 usc_title: 7
 usc_section: "911a"
 chapter: 31
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 911a"
-generated_at: "2026-03-30T00:41:49.505Z"
+generated_at: "2026-03-30T00:45:50.777Z"
 ---
 
 # § 911a. Repealed. Pub. L. 103–354, title II, § 235(a)(5) , Oct. 13, 1994 , 108 Stat. 3221

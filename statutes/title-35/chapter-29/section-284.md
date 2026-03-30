@@ -3,9 +3,9 @@ title: "Section 284 - Damages"
 usc_title: 35
 usc_section: "284"
 chapter: 29
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "35 U.S.C. § 284"
-generated_at: "2026-03-30T00:43:41.559Z"
+generated_at: "2026-03-30T00:47:50.860Z"
 ---
 
 # § 284. Damages

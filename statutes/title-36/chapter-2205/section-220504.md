@@ -3,9 +3,9 @@ title: "Section 220504 - Membership"
 usc_title: 36
 usc_section: "220504"
 chapter: 2205
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "36 U.S.C. § 220504"
-generated_at: "2026-03-30T00:44:07.455Z"
+generated_at: "2026-03-30T00:48:05.185Z"
 ---
 
 # § 220504. Membership

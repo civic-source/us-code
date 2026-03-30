@@ -3,9 +3,9 @@ title: "Section 2633 - Membership"
 usc_title: 29
 usc_section: "2633"
 chapter: 28
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "29 U.S.C. § 2633"
-generated_at: "2026-03-30T00:42:59.092Z"
+generated_at: "2026-03-30T00:47:42.015Z"
 ---
 
 # § 2633. Membership

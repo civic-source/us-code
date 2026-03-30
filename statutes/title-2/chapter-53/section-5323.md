@@ -3,9 +3,9 @@ title: "Section 5323 - Pay of clerical assistants as affected by death of Senato
 usc_title: 2
 usc_section: "5323"
 chapter: 53
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "2 U.S.C. § 5323"
-generated_at: "2026-03-30T00:41:25.797Z"
+generated_at: "2026-03-30T00:45:29.260Z"
 ---
 
 # § 5323. Pay of clerical assistants as affected by death of Senator or Representative

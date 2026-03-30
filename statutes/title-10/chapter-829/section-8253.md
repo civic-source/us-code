@@ -3,9 +3,9 @@ title: "Section 8253 - Loans: Supply Corps officers"
 usc_title: 10
 usc_section: "8253"
 chapter: 829
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "10 U.S.C. § 8253"
-generated_at: "2026-03-30T00:41:56.990Z"
+generated_at: "2026-03-30T00:46:04.780Z"
 ---
 
 # § 8253. Loans: Supply Corps officers

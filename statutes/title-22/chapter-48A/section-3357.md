@@ -3,9 +3,9 @@ title: "Section 3357 - Findings and statement of policy"
 usc_title: 22
 usc_section: "3357"
 chapter: 48
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 3357"
-generated_at: "2026-03-30T00:42:54.508Z"
+generated_at: "2026-03-30T00:47:22.534Z"
 ---
 
 # § 3357. Findings and statement of policy

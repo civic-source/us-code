@@ -3,9 +3,9 @@ title: "Section 1736q - Repealed. Pub. L. 104–127, title II, § 268 , Apr. 4, 
 usc_title: 7
 usc_section: "1736q"
 chapter: 41
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "7 U.S.C. § 1736q"
-generated_at: "2026-03-30T00:41:49.557Z"
+generated_at: "2026-03-30T00:45:50.813Z"
 ---
 
 # § 1736q. Repealed. Pub. L. 104–127, title II, § 268 , Apr. 4, 1996 , 110 Stat. 975

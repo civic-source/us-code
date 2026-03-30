@@ -3,9 +3,9 @@ title: "Section 6401 - Amounts treated as overpayments"
 usc_title: 26
 usc_section: "6401"
 chapter: 65
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "26 U.S.C. § 6401"
-generated_at: "2026-03-30T00:43:12.555Z"
+generated_at: "2026-03-30T00:47:39.532Z"
 ---
 
 # § 6401. Amounts treated as overpayments

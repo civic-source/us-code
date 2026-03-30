@@ -3,9 +3,9 @@ title: "Section 64a - Individual liability of shareholders; limitation on liabil
 usc_title: 12
 usc_section: "64a"
 chapter: 2
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "12 U.S.C. § 64a"
-generated_at: "2026-03-30T00:42:04.378Z"
+generated_at: "2026-03-30T00:46:42.339Z"
 ---
 
 # § 64a. Individual liability of shareholders; limitation on liability

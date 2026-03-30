@@ -3,9 +3,9 @@ title: "Section 7207 - Prohibition on United States assistance and financing"
 usc_title: 22
 usc_section: "7207"
 chapter: 79
-current_through: "PL 118-40"
+current_through: "PL 118-41"
 classification: "22 U.S.C. § 7207"
-generated_at: "2026-03-30T00:42:54.556Z"
+generated_at: "2026-03-30T00:47:22.581Z"
 ---
 
 # § 7207. Prohibition on United States assistance and financing
