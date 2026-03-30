@@ -3,9 +3,9 @@ title: "Section 2032 - Repealed. Pub. L. 99–646, § 87(c)(1) , Nov. 10, 1986 ,
 usc_title: 18
 usc_section: "2032"
 chapter: 99
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 2032"
-generated_at: "2026-03-30T08:08:29.020Z"
+generated_at: "2026-03-30T08:12:32.629Z"
 status: "repealed"
 ---
 

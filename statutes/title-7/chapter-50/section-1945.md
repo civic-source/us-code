@@ -3,9 +3,9 @@ title: "Section 1945 - Repealed. Pub. L. 104–127, title VI, § 613 , Apr. 4, 1
 usc_title: 7
 usc_section: "1945"
 chapter: 50
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 1945"
-generated_at: "2026-03-30T08:07:12.778Z"
+generated_at: "2026-03-30T08:12:04.706Z"
 status: "repealed"
 ---
 

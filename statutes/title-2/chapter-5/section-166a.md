@@ -3,9 +3,9 @@ title: "Section 166a - Equal access to Congressional Research Service Reports"
 usc_title: 2
 usc_section: "166a"
 chapter: 5
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 166a"
-generated_at: "2026-03-30T08:06:39.053Z"
+generated_at: "2026-03-30T08:11:34.297Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
     - **(B)** On the Website, CRS Reports shall be searchable, sortable, and downloadable, including downloadable in bulk.
     - **(C)** Notwithstanding any other provision of law, the Librarian of Congress may not charge a fee for access to the Website.
   - **(2)** The Librarian of Congress, in consultation with the CRS Director, shall ensure that the Website—
-    - **(A)** is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after March 23, 2018 ;
+    - **(A)** is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after the effective date of this section;
     - **(B)** shows the status of each CRS Report as new, updated, or archived; and
     - **(C)** displays the following statement in reference to the CRS Reports included on the Website: “These documents were prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you wish to copy or otherwise use copyrighted material.”.
   - **(3)** The CRS Director shall consult with and provide assistance to the Librarian of Congress to ensure—

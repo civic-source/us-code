@@ -3,9 +3,9 @@ title: "Section 418 - Voluntary agreements for coverage of State and local emplo
 usc_title: 42
 usc_section: "418"
 chapter: 7
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 418"
-generated_at: "2026-03-30T08:10:45.941Z"
+generated_at: "2026-03-30T08:13:46.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51 - Transferred"
 usc_title: 2
 usc_section: "51"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 51"
-generated_at: "2026-03-30T08:06:39.048Z"
+generated_at: "2026-03-30T08:11:34.293Z"
 status: "transferred"
 ---
 

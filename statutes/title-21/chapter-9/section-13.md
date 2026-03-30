@@ -3,9 +3,9 @@ title: "Section 13 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "13"
 chapter: 9
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "21 U.S.C. § 13"
-generated_at: "2026-03-30T08:09:00.639Z"
+generated_at: "2026-03-30T08:12:40.200Z"
 status: "active"
 ---
 

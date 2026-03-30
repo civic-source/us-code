@@ -3,9 +3,9 @@ title: "Section 480 - Omitted"
 usc_title: 2
 usc_section: "480"
 chapter: 15
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 480"
-generated_at: "2026-03-30T08:06:39.060Z"
+generated_at: "2026-03-30T08:11:34.302Z"
 status: "omitted"
 ---
 

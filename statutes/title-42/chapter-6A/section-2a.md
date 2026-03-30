@@ -3,9 +3,9 @@ title: "Section 2a - Peer support technical assistance center"
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T08:10:45.865Z"
+generated_at: "2026-03-30T08:13:46.682Z"
 status: "active"
 ---
 

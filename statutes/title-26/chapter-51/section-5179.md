@@ -3,9 +3,9 @@ title: "Section 5179 - Registration of stills"
 usc_title: 26
 usc_section: "5179"
 chapter: 51
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 5179"
-generated_at: "2026-03-30T08:10:09.590Z"
+generated_at: "2026-03-30T08:12:52.703Z"
 status: "active"
 ---
 

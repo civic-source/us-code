@@ -3,9 +3,9 @@ title: "Section 953 - Administration of oaths and acknowledgments"
 usc_title: 28
 usc_section: "953"
 chapter: 57
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "28 U.S.C. § 953"
-generated_at: "2026-03-30T08:09:25.656Z"
+generated_at: "2026-03-30T08:12:54.808Z"
 status: "active"
 ---
 

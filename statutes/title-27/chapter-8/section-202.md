@@ -3,9 +3,9 @@ title: "Section 202 - General provisions"
 usc_title: 27
 usc_section: "202"
 chapter: 8
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "27 U.S.C. § 202"
-generated_at: "2026-03-30T08:09:04.213Z"
+generated_at: "2026-03-30T08:12:45.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2162 - Rights and procedures"
 usc_title: 14
 usc_section: "2162"
 chapter: 21
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "14 U.S.C. § 2162"
-generated_at: "2026-03-30T08:07:35.486Z"
+generated_at: "2026-03-30T08:12:07.358Z"
 status: "active"
 ---
 

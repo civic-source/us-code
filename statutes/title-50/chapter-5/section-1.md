@@ -3,9 +3,9 @@ title: "Section 1 - Advisory committees"
 usc_title: 50
 usc_section: "1"
 chapter: 5
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-03-30T08:10:51.488Z"
+generated_at: "2026-03-30T08:13:55.248Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2001 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "2001"
 chapter: 11
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 2001"
-generated_at: "2026-03-30T08:10:09.558Z"
+generated_at: "2026-03-30T08:12:52.666Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2525 - Omitted"
 usc_title: 42
 usc_section: "2525"
 chapter: 28
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 2525"
-generated_at: "2026-03-30T08:10:46.178Z"
+generated_at: "2026-03-30T08:13:46.998Z"
 status: "omitted"
 ---
 

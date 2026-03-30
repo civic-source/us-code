@@ -3,9 +3,9 @@ title: "Section 1135 - Regulations"
 usc_title: 29
 usc_section: "1135"
 chapter: 18
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "29 U.S.C. § 1135"
-generated_at: "2026-03-30T08:09:05.319Z"
+generated_at: "2026-03-30T08:12:46.727Z"
 status: "active"
 ---
 

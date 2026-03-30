@@ -3,9 +3,9 @@ title: "Section 3 - Appellate jurisdiction of District Court; procedure; review 
 usc_title: 48
 usc_section: "3"
 chapter: 8
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "48 U.S.C. § 3"
-generated_at: "2026-03-30T08:10:49.107Z"
+generated_at: "2026-03-30T08:13:56.046Z"
 status: "active"
 ---
 

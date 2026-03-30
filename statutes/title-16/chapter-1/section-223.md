@@ -3,9 +3,9 @@ title: "Section 223 - Repealed. Pub. L. 93–620, § 10(f) , Jan. 3, 1975 , 88 S
 usc_title: 16
 usc_section: "223"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 223"
-generated_at: "2026-03-30T08:08:19.976Z"
+generated_at: "2026-03-30T08:12:31.553Z"
 status: "repealed"
 ---
 

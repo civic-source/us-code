@@ -3,9 +3,9 @@ title: "Section 1507 - Filing document as constructive notice; publication in Fe
 usc_title: 44
 usc_section: "1507"
 chapter: 15
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "44 U.S.C. § 1507"
-generated_at: "2026-03-30T08:10:36.570Z"
+generated_at: "2026-03-30T08:13:19.355Z"
 status: "active"
 ---
 

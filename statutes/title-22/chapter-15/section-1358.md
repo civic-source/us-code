@@ -3,9 +3,9 @@ title: "Section 1358 - Rights of third countries"
 usc_title: 22
 usc_section: "1358"
 chapter: 15
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 1358"
-generated_at: "2026-03-30T08:08:48.561Z"
+generated_at: "2026-03-30T08:12:43.361Z"
 status: "active"
 ---
 

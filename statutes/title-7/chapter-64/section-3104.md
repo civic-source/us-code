@@ -3,9 +3,9 @@ title: "Section 3104 - Agriculture research; declaration of policy; duties of Se
 usc_title: 7
 usc_section: "3104"
 chapter: 64
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 3104"
-generated_at: "2026-03-30T08:07:12.810Z"
+generated_at: "2026-03-30T08:12:04.741Z"
 status: "active"
 ---
 

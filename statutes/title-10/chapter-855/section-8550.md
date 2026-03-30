@@ -3,9 +3,9 @@ title: "Section 8550 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "8550"
 chapter: 855
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 8550"
-generated_at: "2026-03-30T08:07:24.818Z"
+generated_at: "2026-03-30T08:11:48.027Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 216a - Repealed. Oct. 26, 1949, ch. 736, § 16(f) , 63 Stat. 920
 usc_title: 29
 usc_section: "216a"
 chapter: 8
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "29 U.S.C. § 216a"
-generated_at: "2026-03-30T08:09:05.288Z"
+generated_at: "2026-03-30T08:12:46.695Z"
 status: "repealed"
 ---
 

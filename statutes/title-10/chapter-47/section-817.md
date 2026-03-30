@@ -3,9 +3,9 @@ title: "Section 817 - Art. 17. Jurisdiction of courts-martial in general"
 usc_title: 10
 usc_section: "817"
 chapter: 47
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 817"
-generated_at: "2026-03-30T08:07:24.721Z"
+generated_at: "2026-03-30T08:11:47.934Z"
 status: "active"
 ---
 

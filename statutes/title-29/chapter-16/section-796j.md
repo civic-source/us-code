@@ -3,9 +3,9 @@ title: "Section 796j - “Older individual who is blind” defined"
 usc_title: 29
 usc_section: "796j"
 chapter: 16
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "29 U.S.C. § 796j"
-generated_at: "2026-03-30T08:09:05.304Z"
+generated_at: "2026-03-30T08:12:46.712Z"
 status: "active"
 ---
 

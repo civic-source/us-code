@@ -3,9 +3,9 @@ title: "Section 57 - Transferred"
 usc_title: 2
 usc_section: "57"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 57"
-generated_at: "2026-03-30T08:06:39.048Z"
+generated_at: "2026-03-30T08:11:34.293Z"
 status: "transferred"
 ---
 

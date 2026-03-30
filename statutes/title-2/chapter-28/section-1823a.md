@@ -3,9 +3,9 @@ title: "Section 1823a - Acquisition of real property for Library of Congress"
 usc_title: 2
 usc_section: "1823a"
 chapter: 28
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 1823a"
-generated_at: "2026-03-30T08:06:39.078Z"
+generated_at: "2026-03-30T08:11:34.318Z"
 status: "active"
 ---
 

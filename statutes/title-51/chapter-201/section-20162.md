@@ -3,9 +3,9 @@ title: "Section 20162 - Definition of upper atmosphere"
 usc_title: 51
 usc_section: "20162"
 chapter: 201
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "51 U.S.C. § 20162"
-generated_at: "2026-03-30T08:11:03.031Z"
+generated_at: "2026-03-30T08:14:00.939Z"
 status: "active"
 ---
 

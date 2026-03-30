@@ -3,9 +3,9 @@ title: "Section 15965 - Time limit for award; extension"
 usc_title: 42
 usc_section: "15965"
 chapter: 149
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 15965"
-generated_at: "2026-03-30T08:10:46.439Z"
+generated_at: "2026-03-30T08:13:47.252Z"
 status: "active"
 ---
 

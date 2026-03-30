@@ -3,9 +3,9 @@ title: "Section 2198 - Report on territorial debt"
 usc_title: 48
 usc_section: "2198"
 chapter: 20
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "48 U.S.C. § 2198"
-generated_at: "2026-03-30T08:10:49.123Z"
+generated_at: "2026-03-30T08:13:56.061Z"
 status: "active"
 ---
 

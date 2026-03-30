@@ -3,9 +3,9 @@ title: "Section 541e - Definitions"
 usc_title: 30
 usc_section: "541e"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "30 U.S.C. § 541e"
-generated_at: "2026-03-30T08:09:03.690Z"
+generated_at: "2026-03-30T08:12:57.298Z"
 status: "active"
 ---
 

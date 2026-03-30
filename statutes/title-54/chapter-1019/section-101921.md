@@ -3,9 +3,9 @@ title: "Section 101921 - Multiple contracts within a System unit"
 usc_title: 54
 usc_section: "101921"
 chapter: 1019
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "54 U.S.C. § 101921"
-generated_at: "2026-03-30T08:11:04.672Z"
+generated_at: "2026-03-30T08:14:01.202Z"
 status: "active"
 ---
 

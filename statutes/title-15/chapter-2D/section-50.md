@@ -3,9 +3,9 @@ title: "Section 50 - Separability"
 usc_title: 15
 usc_section: "50"
 chapter: 2
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "15 U.S.C. § 50"
-generated_at: "2026-03-30T08:08:11.778Z"
+generated_at: "2026-03-30T08:12:15.284Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3202 - Beneficiary country"
 usc_title: 19
 usc_section: "3202"
 chapter: 20
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "19 U.S.C. § 3202"
-generated_at: "2026-03-30T08:08:17.937Z"
+generated_at: "2026-03-30T08:12:26.616Z"
 status: "active"
 ---
 

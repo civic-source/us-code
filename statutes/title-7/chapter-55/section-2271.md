@@ -3,9 +3,9 @@ title: "Section 2271 - Marketing education programs for small and medium size fa
 usc_title: 7
 usc_section: "2271"
 chapter: 55
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 2271"
-generated_at: "2026-03-30T08:07:12.803Z"
+generated_at: "2026-03-30T08:12:04.733Z"
 status: "active"
 ---
 

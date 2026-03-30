@@ -3,9 +3,9 @@ title: "Section 5509 - Forfeitures"
 usc_title: 16
 usc_section: "5509"
 chapter: 75
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 5509"
-generated_at: "2026-03-30T08:08:20.270Z"
+generated_at: "2026-03-30T08:12:31.756Z"
 status: "active"
 ---
 

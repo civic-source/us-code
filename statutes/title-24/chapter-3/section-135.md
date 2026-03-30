@@ -3,9 +3,9 @@ title: "Section 135 - Repealed. Pub. L. 85–857, § 14(1) , (10), (12), (50), (
 usc_title: 24
 usc_section: "135"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "24 U.S.C. § 135"
-generated_at: "2026-03-30T08:08:44.794Z"
+generated_at: "2026-03-30T08:12:37.696Z"
 status: "repealed"
 ---
 

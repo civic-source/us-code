@@ -3,9 +3,9 @@ title: "Section 38 - Exchange for State or private lands authorized"
 usc_title: 16
 usc_section: "38"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 38"
-generated_at: "2026-03-30T08:08:19.965Z"
+generated_at: "2026-03-30T08:12:31.542Z"
 status: "active"
 ---
 

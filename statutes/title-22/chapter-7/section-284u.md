@@ -3,9 +3,9 @@ title: "Section 284u - Fourteenth replenishment"
 usc_title: 22
 usc_section: "284u"
 chapter: 7
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 284u"
-generated_at: "2026-03-30T08:08:48.550Z"
+generated_at: "2026-03-30T08:12:43.348Z"
 status: "active"
 ---
 

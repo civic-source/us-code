@@ -3,9 +3,9 @@ title: "Section 4993 - Technical and financial assistance"
 usc_title: 42
 usc_section: "4993"
 chapter: 66
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 4993"
-generated_at: "2026-03-30T08:10:46.219Z"
+generated_at: "2026-03-30T08:13:47.039Z"
 status: "active"
 ---
 

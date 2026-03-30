@@ -3,9 +3,9 @@ title: "Section 693 - Powers of Administration respecting loans; liquidation of 
 usc_title: 15
 usc_section: "693"
 chapter: 14
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "15 U.S.C. § 693"
-generated_at: "2026-03-30T08:08:11.813Z"
+generated_at: "2026-03-30T08:12:15.320Z"
 status: "active"
 ---
 

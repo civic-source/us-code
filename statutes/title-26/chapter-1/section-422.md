@@ -3,9 +3,9 @@ title: "Section 422 - Incentive stock options"
 usc_title: 26
 usc_section: "422"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 422"
-generated_at: "2026-03-30T08:10:09.493Z"
+generated_at: "2026-03-30T08:12:52.594Z"
 status: "active"
 ---
 

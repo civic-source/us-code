@@ -3,9 +3,9 @@ title: "Section 114 - United States"
 usc_title: 46
 usc_section: "114"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "46 U.S.C. § 114"
-generated_at: "2026-03-30T08:10:49.894Z"
+generated_at: "2026-03-30T08:13:52.886Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8079 - Appointment of chiropractors in the Medical Service Corps
 usc_title: 10
 usc_section: "8079"
 chapter: 809
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 8079"
-generated_at: "2026-03-30T08:07:24.814Z"
+generated_at: "2026-03-30T08:11:48.023Z"
 status: "active"
 ---
 

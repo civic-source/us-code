@@ -3,9 +3,9 @@ title: "Section 3336 - Amount of grant"
 usc_title: 42
 usc_section: "3336"
 chapter: 41
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 3336"
-generated_at: "2026-03-30T08:10:46.195Z"
+generated_at: "2026-03-30T08:13:47.015Z"
 status: "active"
 ---
 

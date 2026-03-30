@@ -3,9 +3,9 @@ title: "Section 6046A - Returns as to interests in foreign partnerships"
 usc_title: 26
 usc_section: "6046A"
 chapter: 61
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 6046A"
-generated_at: "2026-03-30T08:10:09.600Z"
+generated_at: "2026-03-30T08:12:52.715Z"
 status: "active"
 ---
 

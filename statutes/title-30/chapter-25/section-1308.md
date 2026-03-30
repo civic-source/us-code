@@ -3,9 +3,9 @@ title: "Section 1308 - Advance appropriations"
 usc_title: 30
 usc_section: "1308"
 chapter: 25
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "30 U.S.C. § 1308"
-generated_at: "2026-03-30T08:09:03.709Z"
+generated_at: "2026-03-30T08:12:57.315Z"
 status: "active"
 ---
 

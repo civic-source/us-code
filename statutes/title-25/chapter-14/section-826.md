@@ -3,9 +3,9 @@ title: "Section 826 - Repealed. Pub. L. 95–281, § 1(b)(2) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "826"
 chapter: 14
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "25 U.S.C. § 826"
-generated_at: "2026-03-30T08:08:55.701Z"
+generated_at: "2026-03-30T08:12:39.018Z"
 status: "repealed"
 ---
 

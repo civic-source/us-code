@@ -3,9 +3,9 @@ title: "Section 21009 - Records and inspection"
 usc_title: 36
 usc_section: "21009"
 chapter: 210
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "36 U.S.C. § 21009"
-generated_at: "2026-03-30T08:10:22.935Z"
+generated_at: "2026-03-30T08:13:06.316Z"
 status: "active"
 ---
 

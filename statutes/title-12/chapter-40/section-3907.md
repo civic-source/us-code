@@ -3,9 +3,9 @@ title: "Section 3907 - Capital adequacy"
 usc_title: 12
 usc_section: "3907"
 chapter: 40
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "12 U.S.C. § 3907"
-generated_at: "2026-03-30T08:07:59.316Z"
+generated_at: "2026-03-30T08:12:22.899Z"
 status: "active"
 ---
 

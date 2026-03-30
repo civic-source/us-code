@@ -3,9 +3,9 @@ title: "Section 6107 - Report to Congress"
 usc_title: 16
 usc_section: "6107"
 chapter: 80
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 6107"
-generated_at: "2026-03-30T08:08:20.271Z"
+generated_at: "2026-03-30T08:12:31.757Z"
 status: "active"
 ---
 

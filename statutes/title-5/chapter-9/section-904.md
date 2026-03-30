@@ -3,9 +3,9 @@ title: "Section 904 - Additional contents of reorganization plan"
 usc_title: 5
 usc_section: "904"
 chapter: 9
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "5 U.S.C. § 904"
-generated_at: "2026-03-30T08:07:04.228Z"
+generated_at: "2026-03-30T08:11:23.539Z"
 status: "active"
 ---
 

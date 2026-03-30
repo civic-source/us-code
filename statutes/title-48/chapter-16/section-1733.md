@@ -3,9 +3,9 @@ title: "Section 1733 - Qualifications for Office of Delegate"
 usc_title: 48
 usc_section: "1733"
 chapter: 16
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "48 U.S.C. § 1733"
-generated_at: "2026-03-30T08:10:49.113Z"
+generated_at: "2026-03-30T08:13:56.052Z"
 status: "active"
 ---
 

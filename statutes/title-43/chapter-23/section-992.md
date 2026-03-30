@@ -3,9 +3,9 @@ title: "Section 992 - Sale of erroneously designated water-covered areas in Arka
 usc_title: 43
 usc_section: "992"
 chapter: 23
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 992"
-generated_at: "2026-03-30T08:10:33.796Z"
+generated_at: "2026-03-30T08:13:17.415Z"
 status: "active"
 ---
 

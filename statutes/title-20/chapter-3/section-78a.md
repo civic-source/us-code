@@ -3,9 +3,9 @@ title: "Section 78a - Authorization of appropriations; availability of funds; li
 usc_title: 20
 usc_section: "78a"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 78a"
-generated_at: "2026-03-30T08:08:42.720Z"
+generated_at: "2026-03-30T08:12:35.748Z"
 status: "active"
 ---
 

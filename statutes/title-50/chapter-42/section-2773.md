@@ -3,9 +3,9 @@ title: "Section 2773 - Independent acquisition project reviews of capital assets
 usc_title: 50
 usc_section: "2773"
 chapter: 42
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "50 U.S.C. § 2773"
-generated_at: "2026-03-30T08:10:51.519Z"
+generated_at: "2026-03-30T08:13:55.278Z"
 status: "active"
 ---
 

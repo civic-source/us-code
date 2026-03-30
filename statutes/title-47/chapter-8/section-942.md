@@ -3,9 +3,9 @@ title: "Section 942 - Coordination of 9–1–1, E9–1–1, and Next Generation
 usc_title: 47
 usc_section: "942"
 chapter: 8
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "47 U.S.C. § 942"
-generated_at: "2026-03-30T08:10:50.288Z"
+generated_at: "2026-03-30T08:13:55.712Z"
 status: "active"
 ---
 

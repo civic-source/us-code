@@ -3,9 +3,9 @@ title: "Section 2 - Transfer of Federal scientific and technical information"
 usc_title: 15
 usc_section: "2"
 chapter: 63
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T08:08:11.887Z"
+generated_at: "2026-03-30T08:12:15.391Z"
 status: "active"
 ---
 

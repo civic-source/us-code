@@ -3,9 +3,9 @@ title: "Section 1446 - Investigation of applicants; examination of applications"
 usc_title: 8
 usc_section: "1446"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "8 U.S.C. § 1446"
-generated_at: "2026-03-30T08:07:09.249Z"
+generated_at: "2026-03-30T08:11:38.417Z"
 status: "active"
 ---
 

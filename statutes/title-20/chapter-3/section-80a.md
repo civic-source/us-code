@@ -3,9 +3,9 @@ title: "Section 80a - Display of contributions of Armed Forces"
 usc_title: 20
 usc_section: "80a"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 80a"
-generated_at: "2026-03-30T08:08:42.720Z"
+generated_at: "2026-03-30T08:12:35.749Z"
 status: "active"
 ---
 

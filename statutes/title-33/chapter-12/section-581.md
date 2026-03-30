@@ -3,9 +3,9 @@ title: "Section 581 - Hiring special means of transportation"
 usc_title: 33
 usc_section: "581"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "33 U.S.C. § 581"
-generated_at: "2026-03-30T08:10:20.107Z"
+generated_at: "2026-03-30T08:13:01.704Z"
 status: "active"
 ---
 

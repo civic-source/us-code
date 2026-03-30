@@ -3,9 +3,9 @@ title: "Section 4724 - State aquatic nuisance species management plans"
 usc_title: 16
 usc_section: "4724"
 chapter: 67
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 4724"
-generated_at: "2026-03-30T08:08:20.266Z"
+generated_at: "2026-03-30T08:12:31.752Z"
 status: "active"
 ---
 

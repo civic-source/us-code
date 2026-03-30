@@ -3,9 +3,9 @@ title: "Section 1623 - Financial assistance to certain employees in acquisition 
 usc_title: 10
 usc_section: "1623"
 chapter: 83
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 1623"
-generated_at: "2026-03-30T08:07:24.758Z"
+generated_at: "2026-03-30T08:11:47.970Z"
 status: "active"
 ---
 

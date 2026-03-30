@@ -3,9 +3,9 @@ title: "Section 2341 - State administration"
 usc_title: 20
 usc_section: "2341"
 chapter: 44
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 2341"
-generated_at: "2026-03-30T08:08:42.794Z"
+generated_at: "2026-03-30T08:12:35.824Z"
 status: "active"
 ---
 

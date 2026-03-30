@@ -3,9 +3,9 @@ title: "Section 60532 - Repealed. Pub. L. 115–391, title V, § 504(a) , Dec. 2
 usc_title: 34
 usc_section: "60532"
 chapter: 605
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "34 U.S.C. § 60532"
-generated_at: "2026-03-30T08:10:14.711Z"
+generated_at: "2026-03-30T08:13:00.966Z"
 status: "repealed"
 ---
 

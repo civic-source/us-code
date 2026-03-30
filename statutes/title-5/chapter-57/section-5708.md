@@ -3,9 +3,9 @@ title: "Section 5708 - Effect on other statutes"
 usc_title: 5
 usc_section: "5708"
 chapter: 57
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "5 U.S.C. § 5708"
-generated_at: "2026-03-30T08:07:04.250Z"
+generated_at: "2026-03-30T08:11:23.560Z"
 status: "active"
 ---
 

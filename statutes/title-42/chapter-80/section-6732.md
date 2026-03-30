@@ -3,9 +3,9 @@ title: "Section 6732 - Withholding of payments for failure to comply with statem
 usc_title: 42
 usc_section: "6732"
 chapter: 80
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 6732"
-generated_at: "2026-03-30T08:10:46.264Z"
+generated_at: "2026-03-30T08:13:47.084Z"
 status: "active"
 ---
 

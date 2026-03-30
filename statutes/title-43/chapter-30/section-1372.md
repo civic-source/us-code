@@ -3,9 +3,9 @@ title: "Section 1372 - Repealed. Pub. L. 94–579, title VII, § 705(a) , Oct. 2
 usc_title: 43
 usc_section: "1372"
 chapter: 30
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 1372"
-generated_at: "2026-03-30T08:10:33.801Z"
+generated_at: "2026-03-30T08:13:17.421Z"
 status: "repealed"
 ---
 

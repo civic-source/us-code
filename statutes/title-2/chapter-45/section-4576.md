@@ -3,9 +3,9 @@ title: "Section 4576 - Availability of appropriated funds for payment to an indi
 usc_title: 2
 usc_section: "4576"
 chapter: 45
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 4576"
-generated_at: "2026-03-30T08:06:39.089Z"
+generated_at: "2026-03-30T08:11:34.328Z"
 status: "active"
 ---
 

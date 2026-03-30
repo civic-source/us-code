@@ -3,9 +3,9 @@ title: "Section 1914 - Department of Defense program to protect United States st
 usc_title: 50
 usc_section: "1914"
 chapter: 37
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "50 U.S.C. § 1914"
-generated_at: "2026-03-30T08:10:51.504Z"
+generated_at: "2026-03-30T08:13:55.263Z"
 status: "active"
 ---
 

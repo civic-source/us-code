@@ -3,9 +3,9 @@ title: "Section 2456 - J. William Fulbright Foreign Scholarship Board"
 usc_title: 22
 usc_section: "2456"
 chapter: 33
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 2456"
-generated_at: "2026-03-30T08:08:48.592Z"
+generated_at: "2026-03-30T08:12:43.396Z"
 status: "active"
 ---
 

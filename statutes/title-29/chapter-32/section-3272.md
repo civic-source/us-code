@@ -3,9 +3,9 @@ title: "Section 3272 - Definitions"
 usc_title: 29
 usc_section: "3272"
 chapter: 32
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "29 U.S.C. § 3272"
-generated_at: "2026-03-30T08:09:05.351Z"
+generated_at: "2026-03-30T08:12:46.761Z"
 status: "active"
 ---
 

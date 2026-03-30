@@ -3,9 +3,9 @@ title: "Section 6045A - Information required in connection with transfers of cov
 usc_title: 26
 usc_section: "6045A"
 chapter: 61
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 6045A"
-generated_at: "2026-03-30T08:10:09.600Z"
+generated_at: "2026-03-30T08:12:52.715Z"
 status: "active"
 ---
 

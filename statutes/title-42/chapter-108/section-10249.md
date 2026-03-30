@@ -3,9 +3,9 @@ title: "Section 10249 - Cooperation of other departments and agencies"
 usc_title: 42
 usc_section: "10249"
 chapter: 108
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 10249"
-generated_at: "2026-03-30T08:10:46.370Z"
+generated_at: "2026-03-30T08:13:47.184Z"
 status: "active"
 ---
 

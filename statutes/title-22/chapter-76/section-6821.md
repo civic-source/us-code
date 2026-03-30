@@ -3,9 +3,9 @@ title: "Section 6821 - Establishment"
 usc_title: 22
 usc_section: "6821"
 chapter: 76
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 6821"
-generated_at: "2026-03-30T08:08:48.642Z"
+generated_at: "2026-03-30T08:12:43.451Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 382 - Irrigation projects under Reclamation Act"
 usc_title: 25
 usc_section: "382"
 chapter: 11
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "25 U.S.C. § 382"
-generated_at: "2026-03-30T08:08:55.696Z"
+generated_at: "2026-03-30T08:12:39.012Z"
 status: "active"
 ---
 

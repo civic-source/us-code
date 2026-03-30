@@ -3,9 +3,9 @@ title: "Section 1032 - Omitted"
 usc_title: 25
 usc_section: "1032"
 chapter: 14
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "25 U.S.C. § 1032"
-generated_at: "2026-03-30T08:08:55.702Z"
+generated_at: "2026-03-30T08:12:39.019Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1634 - Alaska Native allotments"
 usc_title: 43
 usc_section: "1634"
 chapter: 33
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 1634"
-generated_at: "2026-03-30T08:10:33.810Z"
+generated_at: "2026-03-30T08:13:17.431Z"
 status: "active"
 ---
 

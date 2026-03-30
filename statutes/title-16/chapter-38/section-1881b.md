@@ -3,9 +3,9 @@ title: "Section 1881b - Observers"
 usc_title: 16
 usc_section: "1881b"
 chapter: 38
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 1881b"
-generated_at: "2026-03-30T08:08:20.142Z"
+generated_at: "2026-03-30T08:12:31.719Z"
 status: "active"
 ---
 

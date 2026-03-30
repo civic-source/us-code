@@ -3,9 +3,9 @@ title: "Section 478 - Pecuniary penalty for nonpayment of installments of constr
 usc_title: 43
 usc_section: "478"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 478"
-generated_at: "2026-03-30T08:10:33.784Z"
+generated_at: "2026-03-30T08:13:17.402Z"
 status: "active"
 ---
 

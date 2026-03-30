@@ -3,9 +3,9 @@ title: "Section 1933 - Clarification of authorities regarding certain personnel 
 usc_title: 2
 usc_section: "1933"
 chapter: 29
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 1933"
-generated_at: "2026-03-30T08:06:39.080Z"
+generated_at: "2026-03-30T08:11:34.320Z"
 status: "active"
 ---
 

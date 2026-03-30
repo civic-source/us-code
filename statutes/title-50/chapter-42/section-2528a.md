@@ -3,9 +3,9 @@ title: "Section 2528a - Repealed. Pub. L. 110–181, div. C, title XXXI, § 3112
 usc_title: 50
 usc_section: "2528a"
 chapter: 42
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "50 U.S.C. § 2528a"
-generated_at: "2026-03-30T08:10:51.513Z"
+generated_at: "2026-03-30T08:13:55.272Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2313b - Performance of incurred cost audits"
 usc_title: 10
 usc_section: "2313b"
 chapter: 137
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 2313b"
-generated_at: "2026-03-30T08:07:24.774Z"
+generated_at: "2026-03-30T08:11:47.985Z"
 status: "active"
 ---
 

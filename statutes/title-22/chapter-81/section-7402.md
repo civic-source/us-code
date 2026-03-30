@@ -3,9 +3,9 @@ title: "Section 7402 - Prohibition on extradition or transfer of United States c
 usc_title: 22
 usc_section: "7402"
 chapter: 81
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 7402"
-generated_at: "2026-03-30T08:08:48.647Z"
+generated_at: "2026-03-30T08:12:43.457Z"
 status: "active"
 ---
 

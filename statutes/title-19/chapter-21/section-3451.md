@@ -3,9 +3,9 @@ title: "Section 3451 - Effect of termination of NAFTA country status"
 usc_title: 19
 usc_section: "3451"
 chapter: 21
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "19 U.S.C. § 3451"
-generated_at: "2026-03-30T08:08:17.941Z"
+generated_at: "2026-03-30T08:12:26.620Z"
 status: "active"
 ---
 

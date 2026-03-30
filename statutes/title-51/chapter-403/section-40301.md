@@ -3,9 +3,9 @@ title: "Section 40301 - Purposes"
 usc_title: 51
 usc_section: "40301"
 chapter: 403
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "51 U.S.C. § 40301"
-generated_at: "2026-03-30T08:11:03.034Z"
+generated_at: "2026-03-30T08:14:00.940Z"
 status: "active"
 ---
 

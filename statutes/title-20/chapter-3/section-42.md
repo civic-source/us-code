@@ -3,9 +3,9 @@ title: "Section 42 - Board of Regents; members"
 usc_title: 20
 usc_section: "42"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 42"
-generated_at: "2026-03-30T08:08:42.718Z"
+generated_at: "2026-03-30T08:12:35.746Z"
 status: "active"
 ---
 

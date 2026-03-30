@@ -3,9 +3,9 @@ title: "Section 3033 - Bar to duplication of educational assistance benefits"
 usc_title: 38
 usc_section: "3033"
 chapter: 30
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "38 U.S.C. § 3033"
-generated_at: "2026-03-30T08:10:31.147Z"
+generated_at: "2026-03-30T08:13:09.337Z"
 status: "active"
 ---
 

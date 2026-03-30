@@ -3,9 +3,9 @@ title: "Section 10603 - Seaman’s duty to notify employer regarding illness, di
 usc_title: 46
 usc_section: "10603"
 chapter: 106
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "46 U.S.C. § 10603"
-generated_at: "2026-03-30T08:10:49.907Z"
+generated_at: "2026-03-30T08:13:52.898Z"
 status: "active"
 ---
 

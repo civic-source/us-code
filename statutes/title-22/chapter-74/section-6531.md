@@ -3,9 +3,9 @@ title: "Section 6531 - Abolition of United States Information Agency"
 usc_title: 22
 usc_section: "6531"
 chapter: 74
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 6531"
-generated_at: "2026-03-30T08:08:48.639Z"
+generated_at: "2026-03-30T08:12:43.448Z"
 status: "active"
 ---
 

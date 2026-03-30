@@ -3,9 +3,9 @@ title: "Section 46316 - General criminal penalty when specific penalty not provi
 usc_title: 49
 usc_section: "46316"
 chapter: 463
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "49 U.S.C. § 46316"
-generated_at: "2026-03-30T08:11:00.544Z"
+generated_at: "2026-03-30T08:13:59.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1964 - Security systems for Capitol buildings and grounds"
 usc_title: 2
 usc_section: "1964"
 chapter: 29
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 1964"
-generated_at: "2026-03-30T08:06:39.081Z"
+generated_at: "2026-03-30T08:11:34.320Z"
 status: "active"
 ---
 

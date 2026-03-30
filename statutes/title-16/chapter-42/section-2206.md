@@ -3,9 +3,9 @@ title: "Section 2206 - Emergency forest restoration program"
 usc_title: 16
 usc_section: "2206"
 chapter: 42
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 2206"
-generated_at: "2026-03-30T08:08:20.145Z"
+generated_at: "2026-03-30T08:12:31.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4108 - Fee limitation for representing claimants; penalties"
 usc_title: 50
 usc_section: "4108"
 chapter: 51
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "50 U.S.C. § 4108"
-generated_at: "2026-03-30T08:10:51.543Z"
+generated_at: "2026-03-30T08:13:55.303Z"
 status: "active"
 ---
 

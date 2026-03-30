@@ -3,9 +3,9 @@ title: "Section 2051 - Continued benefits for certain Senate Restaurants employe
 usc_title: 2
 usc_section: "2051"
 chapter: 30
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 2051"
-generated_at: "2026-03-30T08:06:39.083Z"
+generated_at: "2026-03-30T08:11:34.322Z"
 status: "active"
 ---
 
@@ -30,9 +30,9 @@ status: "active"
 - **(c)**
   - **(1)** The rate of basic pay of a covered individual as an employee of a contractor, or successor contractor, during a period of continuous service may not be reduced to a rate less than the rate of basic pay paid to that individual as an employee of the Architect of the Capitol on the day before the transfer date, except for cause.
   - **(2)**
-    - **(A)** For purposes of chapters 83, 84, and 87 of title 5—
-      - **(i)** any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol; and
-      - **(ii)** the rate of basic pay of the covered individual during the period described under clause (i) shall be deemed to be the rate of basic pay of that individual as an employee of the Architect of the Capitol on the date on which the Architect of the Capitol enters into the food services contract.
+    - **(A)**
+      - **(i)** For purposes of chapters 83, 84, and 87 of title 5, any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol.
+      - **(ii)** For purposes of chapter 87 of title 5, the rate of basic pay of a covered individual during the period described under clause (i) shall be deemed to be the rate of basic pay of that individual as an employee of the Architect of the Capitol on the date on which the Architect of the Capitol enters into the food services contract.
     - **(B)** In the case of a covered individual who on the day before the transfer date is subject to subchapter III of chapter 83 of title 5 but whose employment with the Architect of the Capitol is not employment for purposes of title II of the Social Security Act [ 42 U.S.C. 401 et seq.] and chapter 21 of title 26—
       - **(i)** the employment described under subparagraph (A)(i) shall, for purposes of subchapter III of chapter 83 of title 5, be deemed to be—
         - **(I)** employment of an individual described under section 8402(b)(2) of title 5 ; and

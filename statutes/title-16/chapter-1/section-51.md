@@ -3,9 +3,9 @@ title: "Section 51 - Establishment of advisory council"
 usc_title: 16
 usc_section: "51"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 51"
-generated_at: "2026-03-30T08:08:20.042Z"
+generated_at: "2026-03-30T08:12:31.621Z"
 status: "active"
 ---
 

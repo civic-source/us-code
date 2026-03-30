@@ -3,9 +3,9 @@ title: "Section 332 - Miscellaneous administrative authority"
 usc_title: 31
 usc_section: "332"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "31 U.S.C. § 332"
-generated_at: "2026-03-30T08:10:12.396Z"
+generated_at: "2026-03-30T08:13:00.313Z"
 status: "active"
 ---
 

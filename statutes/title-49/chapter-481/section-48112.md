@@ -3,9 +3,9 @@ title: "Section 48112 - Repealed. Pub. L. 115–254, div. B, title I, § 115 , O
 usc_title: 49
 usc_section: "48112"
 chapter: 481
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "49 U.S.C. § 48112"
-generated_at: "2026-03-30T08:11:00.552Z"
+generated_at: "2026-03-30T08:13:59.077Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3363 - Joinder of offenses—(Rule)"
 usc_title: 18
 usc_section: "3363"
 chapter: 217
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 3363"
-generated_at: "2026-03-30T08:08:29.036Z"
+generated_at: "2026-03-30T08:12:32.647Z"
 status: "active"
 ---
 

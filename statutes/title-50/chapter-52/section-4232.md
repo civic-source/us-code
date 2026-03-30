@@ -3,9 +3,9 @@ title: "Section 4232 - Definitions"
 usc_title: 50
 usc_section: "4232"
 chapter: 52
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "50 U.S.C. § 4232"
-generated_at: "2026-03-30T08:10:51.544Z"
+generated_at: "2026-03-30T08:13:55.305Z"
 status: "active"
 ---
 

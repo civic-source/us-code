@@ -3,9 +3,9 @@ title: "Section 1012a - Funding"
 usc_title: 16
 usc_section: "1012a"
 chapter: 18
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 1012a"
-generated_at: "2026-03-30T08:08:20.106Z"
+generated_at: "2026-03-30T08:12:31.684Z"
 status: "active"
 ---
 

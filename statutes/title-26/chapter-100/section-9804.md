@@ -3,9 +3,9 @@ title: "Section 9804 - Renumbered § 9831]"
 usc_title: 26
 usc_section: "9804"
 chapter: 100
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 9804"
-generated_at: "2026-03-30T08:10:09.644Z"
+generated_at: "2026-03-30T08:12:52.763Z"
 status: "renumbered"
 ---
 

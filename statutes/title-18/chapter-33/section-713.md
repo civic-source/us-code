@@ -3,9 +3,9 @@ title: "Section 713 - Use of likenesses of the great seal of the United States, 
 usc_title: 18
 usc_section: "713"
 chapter: 33
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 713"
-generated_at: "2026-03-30T08:08:29.000Z"
+generated_at: "2026-03-30T08:12:32.580Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 229F - Definitions"
 usc_title: 18
 usc_section: "229F"
 chapter: 11
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 229F"
-generated_at: "2026-03-30T08:08:28.994Z"
+generated_at: "2026-03-30T08:12:32.574Z"
 status: "active"
 ---
 

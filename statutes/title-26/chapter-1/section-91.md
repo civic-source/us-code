@@ -3,9 +3,9 @@ title: "Section 91 - Certain foreign branch losses transferred to specified 10-p
 usc_title: 26
 usc_section: "91"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 91"
-generated_at: "2026-03-30T08:10:09.442Z"
+generated_at: "2026-03-30T08:12:52.536Z"
 status: "active"
 ---
 

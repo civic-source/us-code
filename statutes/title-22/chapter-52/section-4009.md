@@ -3,9 +3,9 @@ title: "Section 4009 - Retirement benefits"
 usc_title: 22
 usc_section: "4009"
 chapter: 52
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 4009"
-generated_at: "2026-03-30T08:08:48.615Z"
+generated_at: "2026-03-30T08:12:43.421Z"
 status: "active"
 ---
 

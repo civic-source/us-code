@@ -3,9 +3,9 @@ title: "Section 2414 - Functions of the Center"
 usc_title: 15
 usc_section: "2414"
 chapter: 51
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "15 U.S.C. § 2414"
-generated_at: "2026-03-30T08:08:11.869Z"
+generated_at: "2026-03-30T08:12:15.373Z"
 status: "active"
 ---
 

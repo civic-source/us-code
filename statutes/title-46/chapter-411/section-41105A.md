@@ -3,9 +3,9 @@ title: "Section 41105A - Authority"
 usc_title: 46
 usc_section: "41105A"
 chapter: 411
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "46 U.S.C. § 41105A"
-generated_at: "2026-03-30T08:10:49.915Z"
+generated_at: "2026-03-30T08:13:52.906Z"
 status: "active"
 ---
 

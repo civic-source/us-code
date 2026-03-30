@@ -3,9 +3,9 @@ title: "Section 8185 - Nautical Schools: detail of naval officers as superintend
 usc_title: 10
 usc_section: "8185"
 chapter: 823
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 8185"
-generated_at: "2026-03-30T08:07:24.814Z"
+generated_at: "2026-03-30T08:11:48.023Z"
 status: "active"
 ---
 

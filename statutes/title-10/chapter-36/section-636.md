@@ -3,9 +3,9 @@ title: "Section 636 - Retirement for years of service: regular officers in grade
 usc_title: 10
 usc_section: "636"
 chapter: 36
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 636"
-generated_at: "2026-03-30T08:07:24.717Z"
+generated_at: "2026-03-30T08:11:47.928Z"
 status: "active"
 ---
 

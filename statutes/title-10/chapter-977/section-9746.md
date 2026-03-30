@@ -3,9 +3,9 @@ title: "Section 9746 - Repealed. Pub. L. 108–375, div. A, title X, § 1072(c) 
 usc_title: 10
 usc_section: "9746"
 chapter: 977
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 9746"
-generated_at: "2026-03-30T08:07:24.829Z"
+generated_at: "2026-03-30T08:11:48.037Z"
 status: "repealed"
 ---
 

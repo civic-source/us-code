@@ -3,9 +3,9 @@ title: "Section 312 - Administrative sanctions"
 usc_title: 47
 usc_section: "312"
 chapter: 5
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "47 U.S.C. § 312"
-generated_at: "2026-03-30T08:10:50.270Z"
+generated_at: "2026-03-30T08:13:55.692Z"
 status: "active"
 ---
 

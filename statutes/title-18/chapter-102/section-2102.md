@@ -3,9 +3,9 @@ title: "Section 2102 - Definitions"
 usc_title: 18
 usc_section: "2102"
 chapter: 102
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 2102"
-generated_at: "2026-03-30T08:08:29.020Z"
+generated_at: "2026-03-30T08:12:32.629Z"
 status: "active"
 ---
 

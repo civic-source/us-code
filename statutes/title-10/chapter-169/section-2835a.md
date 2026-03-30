@@ -3,9 +3,9 @@ title: "Section 2835a - Use of military family housing constructed under build a
 usc_title: 10
 usc_section: "2835a"
 chapter: 169
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 2835a"
-generated_at: "2026-03-30T08:07:24.802Z"
+generated_at: "2026-03-30T08:11:48.012Z"
 status: "active"
 ---
 

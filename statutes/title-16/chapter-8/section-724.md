@@ -3,9 +3,9 @@ title: "Section 724 - Consent of States to acquisition; existing rights-of-way, 
 usc_title: 16
 usc_section: "724"
 chapter: 8
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 724"
-generated_at: "2026-03-30T08:08:20.081Z"
+generated_at: "2026-03-30T08:12:31.659Z"
 status: "active"
 ---
 

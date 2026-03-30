@@ -3,9 +3,9 @@ title: "Section 4241 - Determination of mental competency to stand trial to unde
 usc_title: 18
 usc_section: "4241"
 chapter: 313
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 4241"
-generated_at: "2026-03-30T08:08:29.047Z"
+generated_at: "2026-03-30T08:12:32.657Z"
 status: "active"
 ---
 

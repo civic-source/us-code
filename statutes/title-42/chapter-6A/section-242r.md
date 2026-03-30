@@ -3,9 +3,9 @@ title: "Section 242r - Improvement and publication of data on food-related aller
 usc_title: 42
 usc_section: "242r"
 chapter: 6
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 242r"
-generated_at: "2026-03-30T08:10:45.809Z"
+generated_at: "2026-03-30T08:13:46.622Z"
 status: "active"
 ---
 

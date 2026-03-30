@@ -3,9 +3,9 @@ title: "Section 1959 - Administrative procedure"
 usc_title: 12
 usc_section: "1959"
 chapter: 21
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "12 U.S.C. § 1959"
-generated_at: "2026-03-30T08:07:59.291Z"
+generated_at: "2026-03-30T08:12:22.875Z"
 status: "active"
 ---
 

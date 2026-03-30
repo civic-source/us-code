@@ -3,9 +3,9 @@ title: "Section 555 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "555"
 chapter: 5
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "11 U.S.C. § 555"
-generated_at: "2026-03-30T08:07:46.176Z"
+generated_at: "2026-03-30T08:12:07.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4978B - Repealed. Pub. L. 104–188, title I, § 1602(b)(5)(A) ,
 usc_title: 26
 usc_section: "4978B"
 chapter: 43
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 4978B"
-generated_at: "2026-03-30T08:10:09.584Z"
+generated_at: "2026-03-30T08:12:52.696Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1493 - Prosecution; authorization to seek review; local or Feder
 usc_title: 48
 usc_section: "1493"
 chapter: 10
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "48 U.S.C. § 1493"
-generated_at: "2026-03-30T08:10:49.108Z"
+generated_at: "2026-03-30T08:13:56.047Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 763a - Specific criteria for INTELSAT"
 usc_title: 47
 usc_section: "763a"
 chapter: 6
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "47 U.S.C. § 763a"
-generated_at: "2026-03-30T08:10:50.284Z"
+generated_at: "2026-03-30T08:13:55.708Z"
 status: "active"
 ---
 

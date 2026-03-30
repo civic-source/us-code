@@ -3,9 +3,9 @@ title: "Section 3018A - Opportunity for certain active-duty personnel to enroll 
 usc_title: 38
 usc_section: "3018A"
 chapter: 30
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "38 U.S.C. § 3018A"
-generated_at: "2026-03-30T08:10:31.147Z"
+generated_at: "2026-03-30T08:13:09.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7703a - Impact aid for children with severe disabilities"
 usc_title: 20
 usc_section: "7703a"
 chapter: 70
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 7703a"
-generated_at: "2026-03-30T08:08:42.828Z"
+generated_at: "2026-03-30T08:12:35.860Z"
 status: "active"
 ---
 

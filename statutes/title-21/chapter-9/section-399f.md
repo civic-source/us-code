@@ -3,9 +3,9 @@ title: "Section 399f - Ensuring adequate information regarding pharmaceuticals f
 usc_title: 21
 usc_section: "399f"
 chapter: 9
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "21 U.S.C. § 399f"
-generated_at: "2026-03-30T08:09:00.651Z"
+generated_at: "2026-03-30T08:12:40.212Z"
 status: "active"
 ---
 

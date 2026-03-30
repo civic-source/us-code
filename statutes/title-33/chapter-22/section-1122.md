@@ -3,9 +3,9 @@ title: "Section 1122 - Definitions"
 usc_title: 33
 usc_section: "1122"
 chapter: 22
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "33 U.S.C. § 1122"
-generated_at: "2026-03-30T08:10:20.122Z"
+generated_at: "2026-03-30T08:13:01.717Z"
 status: "active"
 ---
 

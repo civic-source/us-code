@@ -3,9 +3,9 @@ title: "Section 407 - Assignment of benefits"
 usc_title: 42
 usc_section: "407"
 chapter: 7
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 407"
-generated_at: "2026-03-30T08:10:45.937Z"
+generated_at: "2026-03-30T08:13:46.756Z"
 status: "active"
 ---
 

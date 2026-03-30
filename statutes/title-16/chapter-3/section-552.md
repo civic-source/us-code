@@ -3,9 +3,9 @@ title: "Section 552 - Consent to agreement by States for conservation of forests
 usc_title: 16
 usc_section: "552"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 552"
-generated_at: "2026-03-30T08:08:20.063Z"
+generated_at: "2026-03-30T08:12:31.641Z"
 status: "active"
 ---
 

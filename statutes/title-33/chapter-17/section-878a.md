@@ -3,9 +3,9 @@ title: "Section 878a - Contract for development of a major program; costs; Major
 usc_title: 33
 usc_section: "878a"
 chapter: 17
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "33 U.S.C. § 878a"
-generated_at: "2026-03-30T08:10:20.116Z"
+generated_at: "2026-03-30T08:13:01.712Z"
 status: "active"
 ---
 

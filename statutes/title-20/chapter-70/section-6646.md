@@ -3,9 +3,9 @@ title: "Section 6646 - Innovative approaches to literacy"
 usc_title: 20
 usc_section: "6646"
 chapter: 70
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 6646"
-generated_at: "2026-03-30T08:08:42.817Z"
+generated_at: "2026-03-30T08:12:35.849Z"
 status: "active"
 ---
 

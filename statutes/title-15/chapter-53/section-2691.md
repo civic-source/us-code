@@ -3,9 +3,9 @@ title: "Section 2691 - General provisions relating to administrative proceedings
 usc_title: 15
 usc_section: "2691"
 chapter: 53
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "15 U.S.C. § 2691"
-generated_at: "2026-03-30T08:08:11.878Z"
+generated_at: "2026-03-30T08:12:15.383Z"
 status: "active"
 ---
 

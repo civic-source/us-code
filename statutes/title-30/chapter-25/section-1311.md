@@ -3,9 +3,9 @@ title: "Section 1311 - Establishment of university coal research laboratories"
 usc_title: 30
 usc_section: "1311"
 chapter: 25
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "30 U.S.C. § 1311"
-generated_at: "2026-03-30T08:09:03.709Z"
+generated_at: "2026-03-30T08:12:57.315Z"
 status: "active"
 ---
 

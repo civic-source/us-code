@@ -3,9 +3,9 @@ title: "Section 648 - Omitted"
 usc_title: 43
 usc_section: "648"
 chapter: 14
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 648"
-generated_at: "2026-03-30T08:10:33.791Z"
+generated_at: "2026-03-30T08:13:17.410Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1152 - Joinder and intervention in aviation proceedings"
 usc_title: 49
 usc_section: "1152"
 chapter: 11
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "49 U.S.C. § 1152"
-generated_at: "2026-03-30T08:11:00.471Z"
+generated_at: "2026-03-30T08:13:59.002Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10154 - Review of applications"
 usc_title: 34
 usc_section: "10154"
 chapter: 101
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "34 U.S.C. § 10154"
-generated_at: "2026-03-30T08:10:14.662Z"
+generated_at: "2026-03-30T08:13:00.921Z"
 status: "active"
 ---
 

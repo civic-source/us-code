@@ -3,9 +3,9 @@ title: "Section 543e - Scenic Area Advisory Board"
 usc_title: 16
 usc_section: "543e"
 chapter: 2
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 543e"
-generated_at: "2026-03-30T08:08:20.059Z"
+generated_at: "2026-03-30T08:12:31.637Z"
 status: "active"
 ---
 

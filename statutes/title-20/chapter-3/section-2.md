@@ -3,9 +3,9 @@ title: "Section 2 - Private support for civil rights history project"
 usc_title: 20
 usc_section: "2"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T08:08:42.723Z"
+generated_at: "2026-03-30T08:12:35.750Z"
 status: "active"
 ---
 

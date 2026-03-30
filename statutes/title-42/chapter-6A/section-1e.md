@@ -3,9 +3,9 @@ title: "Section 1e - Repealed. Pub. L. 115–377, § 2(3) , Dec. 21, 2018 , 132 
 usc_title: 42
 usc_section: "1e"
 chapter: 6
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 1e"
-generated_at: "2026-03-30T08:10:45.835Z"
+generated_at: "2026-03-30T08:13:46.650Z"
 status: "repealed"
 ---
 

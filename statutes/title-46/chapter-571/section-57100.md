@@ -3,9 +3,9 @@ title: "Section 57100 - National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57100"
 chapter: 571
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "46 U.S.C. § 57100"
-generated_at: "2026-03-30T08:10:49.926Z"
+generated_at: "2026-03-30T08:13:52.918Z"
 status: "active"
 ---
 

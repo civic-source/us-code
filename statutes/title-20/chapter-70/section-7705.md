@@ -3,9 +3,9 @@ title: "Section 7705 - Application for payments under sections 7702 and 7703 of 
 usc_title: 20
 usc_section: "7705"
 chapter: 70
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 7705"
-generated_at: "2026-03-30T08:08:42.828Z"
+generated_at: "2026-03-30T08:12:35.861Z"
 status: "active"
 ---
 

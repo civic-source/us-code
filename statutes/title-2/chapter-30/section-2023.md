@@ -3,9 +3,9 @@ title: "Section 2023 - Control, care, and supervision of Senate Office Building"
 usc_title: 2
 usc_section: "2023"
 chapter: 30
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 2023"
-generated_at: "2026-03-30T08:06:39.082Z"
+generated_at: "2026-03-30T08:11:34.322Z"
 status: "active"
 ---
 

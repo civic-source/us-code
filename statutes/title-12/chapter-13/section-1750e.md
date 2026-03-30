@@ -3,9 +3,9 @@ title: "Section 1750e - Taxation"
 usc_title: 12
 usc_section: "1750e"
 chapter: 13
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "12 U.S.C. § 1750e"
-generated_at: "2026-03-30T08:07:59.258Z"
+generated_at: "2026-03-30T08:12:22.843Z"
 status: "active"
 ---
 

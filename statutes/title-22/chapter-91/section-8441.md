@@ -3,9 +3,9 @@ title: "Section 8441 - Strategy reports"
 usc_title: 22
 usc_section: "8441"
 chapter: 91
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 8441"
-generated_at: "2026-03-30T08:08:48.657Z"
+generated_at: "2026-03-30T08:12:43.468Z"
 status: "active"
 ---
 

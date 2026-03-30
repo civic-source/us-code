@@ -3,9 +3,9 @@ title: "Section 513 - Use of funds for ITS activities"
 usc_title: 23
 usc_section: "513"
 chapter: 5
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "23 U.S.C. § 513"
-generated_at: "2026-03-30T08:09:01.060Z"
+generated_at: "2026-03-30T08:12:39.448Z"
 status: "active"
 ---
 

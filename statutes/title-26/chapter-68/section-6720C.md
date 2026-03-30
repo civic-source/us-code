@@ -3,9 +3,9 @@ title: "Section 6720C - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)
 usc_title: 26
 usc_section: "6720C"
 chapter: 68
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 6720C"
-generated_at: "2026-03-30T08:10:09.623Z"
+generated_at: "2026-03-30T08:12:52.739Z"
 status: "repealed"
 ---
 

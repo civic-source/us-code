@@ -3,9 +3,9 @@ title: "Section 3601 - [Reserved]"
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-30T08:07:24.806Z"
+generated_at: "2026-03-30T08:11:48.015Z"
 status: "reserved"
 ---
 

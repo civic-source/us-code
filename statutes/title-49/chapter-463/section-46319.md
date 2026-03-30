@@ -3,9 +3,9 @@ title: "Section 46319 - Permanent closure of an airport without providing suffic
 usc_title: 49
 usc_section: "46319"
 chapter: 463
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "49 U.S.C. § 46319"
-generated_at: "2026-03-30T08:11:00.544Z"
+generated_at: "2026-03-30T08:13:59.070Z"
 status: "active"
 ---
 

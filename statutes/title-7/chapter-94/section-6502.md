@@ -3,9 +3,9 @@ title: "Section 6502 - Definitions"
 usc_title: 7
 usc_section: "6502"
 chapter: 94
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 6502"
-generated_at: "2026-03-30T08:07:12.836Z"
+generated_at: "2026-03-30T08:12:04.770Z"
 status: "active"
 ---
 

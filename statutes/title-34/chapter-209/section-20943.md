@@ -3,9 +3,9 @@ title: "Section 20943 - Federal assistance in identification and location of sex
 usc_title: 34
 usc_section: "20943"
 chapter: 209
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "34 U.S.C. § 20943"
-generated_at: "2026-03-30T08:10:14.697Z"
+generated_at: "2026-03-30T08:13:00.953Z"
 status: "active"
 ---
 

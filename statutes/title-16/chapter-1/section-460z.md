@@ -3,9 +3,9 @@ title: "Section 460z - Establishment"
 usc_title: 16
 usc_section: "460z"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 460z"
-generated_at: "2026-03-30T08:08:20.027Z"
+generated_at: "2026-03-30T08:12:31.606Z"
 status: "active"
 ---
 

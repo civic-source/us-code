@@ -3,9 +3,9 @@ title: "Section 6203 - Establishment of the Chief Executive Officer of the Broad
 usc_title: 22
 usc_section: "6203"
 chapter: 71
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 6203"
-generated_at: "2026-03-30T08:08:48.635Z"
+generated_at: "2026-03-30T08:12:43.444Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3192 - Definitions"
 usc_title: 7
 usc_section: "3192"
 chapter: 64
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 3192"
-generated_at: "2026-03-30T08:07:12.813Z"
+generated_at: "2026-03-30T08:12:04.744Z"
 status: "active"
 ---
 

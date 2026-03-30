@@ -3,9 +3,9 @@ title: "Section 16252 - Education"
 usc_title: 42
 usc_section: "16252"
 chapter: 149
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 16252"
-generated_at: "2026-03-30T08:10:46.446Z"
+generated_at: "2026-03-30T08:13:47.258Z"
 status: "active"
 ---
 

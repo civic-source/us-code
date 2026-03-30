@@ -3,9 +3,9 @@ title: "Section 2 - Backlog prevention: projects from Public Law 115–270"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T08:10:20.107Z"
+generated_at: "2026-03-30T08:13:01.704Z"
 status: "active"
 ---
 

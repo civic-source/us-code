@@ -3,9 +3,9 @@ title: "Section 7626 - Integrated research, education, and extension competitive
 usc_title: 7
 usc_section: "7626"
 chapter: 103
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 7626"
-generated_at: "2026-03-30T08:07:12.855Z"
+generated_at: "2026-03-30T08:12:04.791Z"
 status: "active"
 ---
 

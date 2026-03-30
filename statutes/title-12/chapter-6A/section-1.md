@@ -3,9 +3,9 @@ title: "Section 1 - Annual competitiveness report"
 usc_title: 12
 usc_section: "1"
 chapter: 6
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T08:07:59.216Z"
+generated_at: "2026-03-30T08:12:22.802Z"
 status: "active"
 ---
 

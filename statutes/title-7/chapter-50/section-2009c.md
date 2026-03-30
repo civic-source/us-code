@@ -3,9 +3,9 @@ title: "Section 2009c - Strategic plans"
 usc_title: 7
 usc_section: "2009c"
 chapter: 50
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 2009c"
-generated_at: "2026-03-30T08:07:12.784Z"
+generated_at: "2026-03-30T08:12:04.713Z"
 status: "active"
 ---
 

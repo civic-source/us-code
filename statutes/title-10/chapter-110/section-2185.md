@@ -3,9 +3,9 @@ title: "Section 2185 - Programs to be consistent with programs administered by t
 usc_title: 10
 usc_section: "2185"
 chapter: 110
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 2185"
-generated_at: "2026-03-30T08:07:24.766Z"
+generated_at: "2026-03-30T08:11:47.977Z"
 status: "active"
 ---
 

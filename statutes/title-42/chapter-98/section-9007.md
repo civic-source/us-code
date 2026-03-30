@@ -3,9 +3,9 @@ title: "Section 9007 - Technical Panel of Energy Research Advisory Board"
 usc_title: 42
 usc_section: "9007"
 chapter: 98
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 9007"
-generated_at: "2026-03-30T08:10:46.336Z"
+generated_at: "2026-03-30T08:13:47.152Z"
 status: "active"
 ---
 

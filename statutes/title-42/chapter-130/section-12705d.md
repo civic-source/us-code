@@ -3,9 +3,9 @@ title: "Section 12705d - Regulatory barriers clearinghouse"
 usc_title: 42
 usc_section: "12705d"
 chapter: 130
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 12705d"
-generated_at: "2026-03-30T08:10:46.408Z"
+generated_at: "2026-03-30T08:13:47.221Z"
 status: "active"
 ---
 

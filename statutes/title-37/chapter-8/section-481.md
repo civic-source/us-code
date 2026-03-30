@@ -3,9 +3,9 @@ title: "Section 481 - Travel and transportation allowances: administrative provi
 usc_title: 37
 usc_section: "481"
 chapter: 8
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "37 U.S.C. § 481"
-generated_at: "2026-03-30T08:10:22.317Z"
+generated_at: "2026-03-30T08:13:14.950Z"
 status: "active"
 ---
 

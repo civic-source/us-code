@@ -3,9 +3,9 @@ title: "Section 5177 - Other provisions relating to bonds"
 usc_title: 26
 usc_section: "5177"
 chapter: 51
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 5177"
-generated_at: "2026-03-30T08:10:09.590Z"
+generated_at: "2026-03-30T08:12:52.703Z"
 status: "active"
 ---
 

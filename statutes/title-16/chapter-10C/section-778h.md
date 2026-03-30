@@ -3,9 +3,9 @@ title: "Section 778h - Omitted"
 usc_title: 16
 usc_section: "778h"
 chapter: 10
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 778h"
-generated_at: "2026-03-30T08:08:20.086Z"
+generated_at: "2026-03-30T08:12:31.664Z"
 status: "omitted"
 ---
 

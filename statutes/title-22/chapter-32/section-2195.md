@@ -3,9 +3,9 @@ title: "Section 2195 - Issuing authority, direct investment authority and reserv
 usc_title: 22
 usc_section: "2195"
 chapter: 32
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 2195"
-generated_at: "2026-03-30T08:08:48.577Z"
+generated_at: "2026-03-30T08:12:43.379Z"
 status: "active"
 ---
 

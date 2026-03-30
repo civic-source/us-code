@@ -3,9 +3,9 @@ title: "Section 424d - Use of moneys collected from sales, project construction 
 usc_title: 43
 usc_section: "424d"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 424d"
-generated_at: "2026-03-30T08:10:33.783Z"
+generated_at: "2026-03-30T08:13:17.401Z"
 status: "active"
 ---
 

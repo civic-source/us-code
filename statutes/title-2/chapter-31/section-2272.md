@@ -3,9 +3,9 @@ title: "Section 2272 - Acceptance of volunteer services"
 usc_title: 2
 usc_section: "2272"
 chapter: 31
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "2 U.S.C. § 2272"
-generated_at: "2026-03-30T08:06:39.086Z"
+generated_at: "2026-03-30T08:11:34.326Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2465 - Return of property to claimant; liability for wrongful se
 usc_title: 28
 usc_section: "2465"
 chapter: 163
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "28 U.S.C. § 2465"
-generated_at: "2026-03-30T08:09:25.670Z"
+generated_at: "2026-03-30T08:12:54.819Z"
 status: "active"
 ---
 

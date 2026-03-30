@@ -3,9 +3,9 @@ title: "Section 1921 - Congressional findings"
 usc_title: 7
 usc_section: "1921"
 chapter: 50
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 1921"
-generated_at: "2026-03-30T08:07:12.775Z"
+generated_at: "2026-03-30T08:12:04.702Z"
 status: "active"
 ---
 

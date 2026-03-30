@@ -3,9 +3,9 @@ title: "Section 545b - Opal Creek Wilderness and Scenic Recreation Area"
 usc_title: 16
 usc_section: "545b"
 chapter: 2
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 545b"
-generated_at: "2026-03-30T08:08:20.061Z"
+generated_at: "2026-03-30T08:12:31.639Z"
 status: "active"
 ---
 

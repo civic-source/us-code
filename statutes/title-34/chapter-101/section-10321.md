@@ -3,9 +3,9 @@ title: "Section 10321 - Regional information sharing systems grants"
 usc_title: 34
 usc_section: "10321"
 chapter: 101
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "34 U.S.C. § 10321"
-generated_at: "2026-03-30T08:10:14.664Z"
+generated_at: "2026-03-30T08:13:00.924Z"
 status: "active"
 ---
 

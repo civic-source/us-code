@@ -3,9 +3,9 @@ title: "Section 954a - Access to the arts through support of education"
 usc_title: 20
 usc_section: "954a"
 chapter: 26
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 954a"
-generated_at: "2026-03-30T08:08:42.727Z"
+generated_at: "2026-03-30T08:12:35.755Z"
 status: "active"
 ---
 

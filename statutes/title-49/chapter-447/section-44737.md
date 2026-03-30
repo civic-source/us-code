@@ -3,9 +3,9 @@ title: "Section 44737 - Special rule for certain aircraft operations. 2 2 So in 
 usc_title: 49
 usc_section: "44737"
 chapter: 447
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "49 U.S.C. § 44737"
-generated_at: "2026-03-30T08:11:00.537Z"
+generated_at: "2026-03-30T08:13:59.063Z"
 status: "active"
 ---
 

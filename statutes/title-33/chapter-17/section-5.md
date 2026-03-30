@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 107–372, title II, § 271(3) , (4), Dec.
 usc_title: 33
 usc_section: "5"
 chapter: 17
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "33 U.S.C. § 5"
-generated_at: "2026-03-30T08:10:20.115Z"
+generated_at: "2026-03-30T08:13:01.712Z"
 status: "repealed"
 ---
 

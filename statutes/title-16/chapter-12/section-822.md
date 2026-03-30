@@ -3,9 +3,9 @@ title: "Section 822 - Reservation of right to alter or repeal chapter"
 usc_title: 16
 usc_section: "822"
 chapter: 12
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 822"
-generated_at: "2026-03-30T08:08:20.088Z"
+generated_at: "2026-03-30T08:12:31.666Z"
 status: "active"
 ---
 

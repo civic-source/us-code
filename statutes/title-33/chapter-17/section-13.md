@@ -3,9 +3,9 @@ title: "Section 13 - National Advisory Committee on Oceans and Atmosphere"
 usc_title: 33
 usc_section: "13"
 chapter: 17
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "33 U.S.C. § 13"
-generated_at: "2026-03-30T08:10:20.115Z"
+generated_at: "2026-03-30T08:13:01.712Z"
 status: "active"
 ---
 

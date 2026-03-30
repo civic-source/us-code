@@ -3,9 +3,9 @@ title: "Section 6102 - Definitions"
 usc_title: 49
 usc_section: "6102"
 chapter: 61
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "49 U.S.C. § 6102"
-generated_at: "2026-03-30T08:11:00.484Z"
+generated_at: "2026-03-30T08:13:59.014Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3485 - Expert witnesses—(Rule)"
 usc_title: 18
 usc_section: "3485"
 chapter: 223
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 3485"
-generated_at: "2026-03-30T08:08:29.037Z"
+generated_at: "2026-03-30T08:12:32.647Z"
 status: "active"
 ---
 

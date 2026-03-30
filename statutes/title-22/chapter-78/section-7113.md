@@ -3,9 +3,9 @@ title: "Section 7113 - Accountability"
 usc_title: 22
 usc_section: "7113"
 chapter: 78
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 7113"
-generated_at: "2026-03-30T08:08:48.647Z"
+generated_at: "2026-03-30T08:12:43.456Z"
 status: "active"
 ---
 

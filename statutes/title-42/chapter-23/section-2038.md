@@ -3,9 +3,9 @@ title: "Section 2038 - Appointment of Army, Navy, or Air Force officer as Assist
 usc_title: 42
 usc_section: "2038"
 chapter: 23
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 2038"
-generated_at: "2026-03-30T08:10:46.162Z"
+generated_at: "2026-03-30T08:13:46.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1312 - Medical care guides and reports for public assistance and
 usc_title: 42
 usc_section: "1312"
 chapter: 7
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 1312"
-generated_at: "2026-03-30T08:10:45.971Z"
+generated_at: "2026-03-30T08:13:46.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1161u - Sustainability planning grants authorized"
 usc_title: 20
 usc_section: "1161u"
 chapter: 28
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "20 U.S.C. § 1161u"
-generated_at: "2026-03-30T08:08:42.777Z"
+generated_at: "2026-03-30T08:12:35.807Z"
 status: "active"
 ---
 

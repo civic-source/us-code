@@ -3,9 +3,9 @@ title: "Section 1647 - Other Federal programs"
 usc_title: 16
 usc_section: "1647"
 chapter: 36
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 1647"
-generated_at: "2026-03-30T08:08:20.132Z"
+generated_at: "2026-03-30T08:12:31.710Z"
 status: "active"
 ---
 

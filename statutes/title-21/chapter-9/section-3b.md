@@ -3,9 +3,9 @@ title: "Section 3b - Products held for emergency use"
 usc_title: 21
 usc_section: "3b"
 chapter: 9
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "21 U.S.C. § 3b"
-generated_at: "2026-03-30T08:09:00.628Z"
+generated_at: "2026-03-30T08:12:40.190Z"
 status: "active"
 ---
 

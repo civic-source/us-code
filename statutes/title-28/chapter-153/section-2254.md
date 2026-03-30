@@ -3,9 +3,9 @@ title: "Section 2254 - State custody; remedies in Federal courts"
 usc_title: 28
 usc_section: "2254"
 chapter: 153
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "28 U.S.C. § 2254"
-generated_at: "2026-03-30T08:09:25.668Z"
+generated_at: "2026-03-30T08:12:54.818Z"
 status: "active"
 ---
 

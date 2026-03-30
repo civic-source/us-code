@@ -3,9 +3,9 @@ title: "Section 203 - Sale and removal of timber; charges for leases and privile
 usc_title: 16
 usc_section: "203"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 203"
-generated_at: "2026-03-30T08:08:19.974Z"
+generated_at: "2026-03-30T08:12:31.552Z"
 status: "active"
 ---
 

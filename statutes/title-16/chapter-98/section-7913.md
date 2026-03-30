@@ -3,9 +3,9 @@ title: "Section 7913 - Closure of Federal land to hunting, fishing, and recreati
 usc_title: 16
 usc_section: "7913"
 chapter: 98
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 7913"
-generated_at: "2026-03-30T08:08:20.284Z"
+generated_at: "2026-03-30T08:12:31.769Z"
 status: "active"
 ---
 

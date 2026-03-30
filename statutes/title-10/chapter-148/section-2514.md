@@ -3,9 +3,9 @@ title: "Section 2514 - Encouragement of technology transfer"
 usc_title: 10
 usc_section: "2514"
 chapter: 148
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 2514"
-generated_at: "2026-03-30T08:07:24.789Z"
+generated_at: "2026-03-30T08:11:48.000Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9004 - Entitlement of eligible candidates to payments"
 usc_title: 26
 usc_section: "9004"
 chapter: 95
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 9004"
-generated_at: "2026-03-30T08:10:09.640Z"
+generated_at: "2026-03-30T08:12:52.758Z"
 status: "active"
 ---
 

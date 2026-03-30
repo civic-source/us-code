@@ -3,9 +3,9 @@ title: "Section 3614 - Resentencing upon failure to pay a fine or restitution"
 usc_title: 18
 usc_section: "3614"
 chapter: 229
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 3614"
-generated_at: "2026-03-30T08:08:29.042Z"
+generated_at: "2026-03-30T08:12:32.652Z"
 status: "active"
 ---
 

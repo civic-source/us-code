@@ -3,9 +3,9 @@ title: "Section 5327 - Repealed. Pub. L. 104–208, div. A, title II, § 2223(1)
 usc_title: 31
 usc_section: "5327"
 chapter: 53
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "31 U.S.C. § 5327"
-generated_at: "2026-03-30T08:10:12.418Z"
+generated_at: "2026-03-30T08:13:00.333Z"
 status: "repealed"
 ---
 

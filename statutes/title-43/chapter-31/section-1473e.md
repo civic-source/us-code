@@ -3,9 +3,9 @@ title: "Section 1473e - Acceptance of donations and bequests for Natural Resourc
 usc_title: 43
 usc_section: "1473e"
 chapter: 31
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "43 U.S.C. § 1473e"
-generated_at: "2026-03-30T08:10:33.802Z"
+generated_at: "2026-03-30T08:13:17.422Z"
 status: "active"
 ---
 

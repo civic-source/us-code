@@ -3,9 +3,9 @@ title: "Section 100903 - Solid waste disposal operations"
 usc_title: 54
 usc_section: "100903"
 chapter: 1009
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "54 U.S.C. § 100903"
-generated_at: "2026-03-30T08:11:04.670Z"
+generated_at: "2026-03-30T08:14:01.200Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11502 - Entry of offenses in logbook"
 usc_title: 46
 usc_section: "11502"
 chapter: 115
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "46 U.S.C. § 11502"
-generated_at: "2026-03-30T08:10:49.908Z"
+generated_at: "2026-03-30T08:13:52.900Z"
 status: "active"
 ---
 

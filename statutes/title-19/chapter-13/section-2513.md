@@ -3,9 +3,9 @@ title: "Section 2513 - Waiver of discriminatory purchasing requirements with res
 usc_title: 19
 usc_section: "2513"
 chapter: 13
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "19 U.S.C. § 2513"
-generated_at: "2026-03-30T08:08:17.930Z"
+generated_at: "2026-03-30T08:12:26.609Z"
 status: "active"
 ---
 

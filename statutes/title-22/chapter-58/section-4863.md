@@ -3,9 +3,9 @@ title: "Section 4863 - Use of cleared personnel to ensure secure maintenance and
 usc_title: 22
 usc_section: "4863"
 chapter: 58
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 4863"
-generated_at: "2026-03-30T08:08:48.627Z"
+generated_at: "2026-03-30T08:12:43.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12645b - Generation of volunteers"
 usc_title: 42
 usc_section: "12645b"
 chapter: 129
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 12645b"
-generated_at: "2026-03-30T08:10:46.403Z"
+generated_at: "2026-03-30T08:13:47.216Z"
 status: "active"
 ---
 

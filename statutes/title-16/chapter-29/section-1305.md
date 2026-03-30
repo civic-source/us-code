@@ -3,9 +3,9 @@ title: "Section 1305 - Renewal or extension of agreement; participation of subse
 usc_title: 16
 usc_section: "1305"
 chapter: 29
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "16 U.S.C. § 1305"
-generated_at: "2026-03-30T08:08:20.117Z"
+generated_at: "2026-03-30T08:12:31.695Z"
 status: "active"
 ---
 

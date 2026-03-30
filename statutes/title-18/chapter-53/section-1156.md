@@ -3,9 +3,9 @@ title: "Section 1156 - Intoxicants possessed unlawfully"
 usc_title: 18
 usc_section: "1156"
 chapter: 53
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "18 U.S.C. § 1156"
-generated_at: "2026-03-30T08:08:29.010Z"
+generated_at: "2026-03-30T08:12:32.592Z"
 status: "active"
 ---
 

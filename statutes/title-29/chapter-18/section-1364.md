@@ -3,9 +3,9 @@ title: "Section 1364 - Liability on termination of single-employer plans under m
 usc_title: 29
 usc_section: "1364"
 chapter: 18
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "29 U.S.C. § 1364"
-generated_at: "2026-03-30T08:09:05.328Z"
+generated_at: "2026-03-30T08:12:46.736Z"
 status: "active"
 ---
 

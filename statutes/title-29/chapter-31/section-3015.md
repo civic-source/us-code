@@ -3,9 +3,9 @@ title: "Section 3015 - Omitted"
 usc_title: 29
 usc_section: "3015"
 chapter: 31
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "29 U.S.C. § 3015"
-generated_at: "2026-03-30T08:09:05.338Z"
+generated_at: "2026-03-30T08:12:46.748Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 42 - Contents of reports; number of bales of linter; distributio
 usc_title: 13
 usc_section: "42"
 chapter: 3
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "13 U.S.C. § 42"
-generated_at: "2026-03-30T08:07:34.998Z"
+generated_at: "2026-03-30T08:12:06.520Z"
 status: "active"
 ---
 

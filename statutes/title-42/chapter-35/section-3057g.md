@@ -3,9 +3,9 @@ title: "Section 3057g - Findings"
 usc_title: 42
 usc_section: "3057g"
 chapter: 35
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 3057g"
-generated_at: "2026-03-30T08:10:46.190Z"
+generated_at: "2026-03-30T08:13:47.011Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6b - Contracts designed to defraud or mislead"
 usc_title: 7
 usc_section: "6b"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "7 U.S.C. § 6b"
-generated_at: "2026-03-30T08:07:12.701Z"
+generated_at: "2026-03-30T08:12:04.615Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5751 - Transferred"
 usc_title: 42
 usc_section: "5751"
 chapter: 72
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "42 U.S.C. § 5751"
-generated_at: "2026-03-30T08:10:46.239Z"
+generated_at: "2026-03-30T08:13:47.060Z"
 status: "transferred"
 ---
 

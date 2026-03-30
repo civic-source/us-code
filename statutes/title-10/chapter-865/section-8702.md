@@ -3,9 +3,9 @@ title: "Section 8702 - Acquisition and transfer of vessels and equipment"
 usc_title: 10
 usc_section: "8702"
 chapter: 865
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "10 U.S.C. § 8702"
-generated_at: "2026-03-30T08:07:24.820Z"
+generated_at: "2026-03-30T08:11:48.029Z"
 status: "active"
 ---
 

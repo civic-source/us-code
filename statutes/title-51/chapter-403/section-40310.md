@@ -3,9 +3,9 @@ title: "Section 40310 - Designation or award to be on competitive basis"
 usc_title: 51
 usc_section: "40310"
 chapter: 403
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "51 U.S.C. § 40310"
-generated_at: "2026-03-30T08:11:03.034Z"
+generated_at: "2026-03-30T08:14:00.941Z"
 status: "active"
 ---
 

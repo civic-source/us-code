@@ -3,9 +3,9 @@ title: "Section 212 - Expenses for production of income"
 usc_title: 26
 usc_section: "212"
 chapter: 1
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "26 U.S.C. § 212"
-generated_at: "2026-03-30T08:10:09.464Z"
+generated_at: "2026-03-30T08:12:52.563Z"
 status: "active"
 ---
 

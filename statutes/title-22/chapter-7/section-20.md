@@ -3,9 +3,9 @@ title: "Section 20 - Twelfth replenishment"
 usc_title: 22
 usc_section: "20"
 chapter: 7
-current_through: "PL 116-20"
+current_through: "PL 116-21"
 classification: "22 U.S.C. § 20"
-generated_at: "2026-03-30T08:08:48.556Z"
+generated_at: "2026-03-30T08:12:43.355Z"
 status: "active"
 ---
 
