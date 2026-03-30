@@ -3,9 +3,9 @@ title: "Section 1693i - Issuance of cards or other means of access"
 usc_title: 15
 usc_section: "1693i"
 chapter: 41
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 1693i"
-generated_at: "2026-03-30T07:50:53.609Z"
+generated_at: "2026-03-30T07:55:36.983Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395aaa - Contract with a consensus-based entity regarding perfo
 usc_title: 42
 usc_section: "1395aaa"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1395aaa"
-generated_at: "2026-03-30T07:52:13.398Z"
+generated_at: "2026-03-30T07:58:06.415Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
         - **(III)** a breakdown of the amount awarded per contracted task order and the specific projects funded in each task order assigned to the entity.
       - **(iii)** Any updates or modifications of internal policies and procedures of the entity as they relate to the duties of the entity under this section, including—
         - **(I)** specifically identifying any modifications to the disclosure of interests and conflicts of interests for committees, work groups, task forces, and advisory panels of the entity; and
-        - **(II)** information on external stakeholder participation in the duties of the entity under this section (including complete rosters for all committees, work groups, task forces, and advisory panels funded through government contracts, descriptions of relevant interests and any conflicts of interest for members of all committees, work groups, task forces, and advisory panels, and the total percentage by health care sector of all convened committees, work groups, task forces, and advisory panels.
+        - **(II)** information on external stakeholder participation in the duties of the entity under this section (including complete rosters for all committees, work groups, task forces, and advisory panels funded through government contracts, descriptions of relevant interests and any conflicts of interest for members of all committees, work groups, task forces, and advisory panels, and the total percentage by health care sector of all convened committees, work groups, task forces, and advisory panels. 2 2 So in original. Probably should be “panels).”
     - **(B)** Not later than 6 months after receiving a report under subparagraph (A) for a year, the Secretary shall—
       - **(i)** review such report; and
       - **(ii)** publish such report in the Federal Register, together with any comments of the Secretary on such report.
@@ -59,7 +59,7 @@ status: "active"
       - **(ii)** national priorities (as identified under section 280j of this title ) for improvement in population health and in the delivery of health care services for consideration under the national strategy established under section 280j of this title .
     - **(B)**
       - **(i)** Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
-        - **(I)** for use pursuant to sections 1395f(i)(5)(D), 1395 l (i)(7), 1395 l (t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 2 2 See References in Text note below. 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww( o )(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+        - **(I)** for use pursuant to sections 1395f(i)(5)(D), 1395 l (i)(7), 1395 l (t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 3 3 See References in Text note below. 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww( o )(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
         - **(II)** for use in reporting performance information to the public; and
         - **(III)** for use in health care programs other than for use under this chapter.
       - **(ii)** Data sets (such as the outcome and assessment information set for home health services and the minimum data set for skilled nursing facility services) that are used for purposes of classification systems used in establishing payment rates under this subchapter shall not be quality and efficiency measures described in this subparagraph.

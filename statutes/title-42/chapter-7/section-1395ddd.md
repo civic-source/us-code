@@ -3,9 +3,9 @@ title: "Section 1395ddd - Medicare Integrity Program"
 usc_title: 42
 usc_section: "1395ddd"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1395ddd"
-generated_at: "2026-03-30T07:52:13.399Z"
+generated_at: "2026-03-30T07:58:06.416Z"
 status: "active"
 ---
 
@@ -116,7 +116,7 @@ status: "active"
     - **(C)** examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drug plans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
     - **(D)** review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
   - **(10)**
-    - **(A)** After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395 l (z), 1 1 See References in Text note below. 1935m( l )(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
+    - **(A)** After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare & Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395 l (z), 1 1 See References in Text note below. 1395m( l )(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
     - **(B)** Except for uses that support claims processing (including edits) or system functionality for detecting fraud, amounts retained under subparagraph (A) may not be used for technological-related infrastructure, capital investments, or information systems.
     - **(C)** Nothing in subparagraph (A) shall reduce amounts available for payments to recovery audit contractors under this subsection.
 - **(i)**

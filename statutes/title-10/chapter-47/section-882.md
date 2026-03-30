@@ -3,9 +3,9 @@ title: "Section 882 - Art. 82. Soliciting commission of offenses"
 usc_title: 10
 usc_section: "882"
 chapter: 47
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 882"
-generated_at: "2026-03-30T07:50:48.230Z"
+generated_at: "2026-03-30T07:55:12.903Z"
 status: "active"
 ---
 

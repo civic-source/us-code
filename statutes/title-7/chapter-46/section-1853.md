@@ -3,9 +3,9 @@ title: "Section 1853 - Repealed. Pub. L. 103–465, title IV , § 412(c), Dec. 8
 usc_title: 7
 usc_section: "1853"
 chapter: 46
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 1853"
-generated_at: "2026-03-30T07:50:43.428Z"
+generated_at: "2026-03-30T07:55:30.856Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1403 - Issuance of bonds or other obligations by government or m
 usc_title: 48
 usc_section: "1403"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "48 U.S.C. § 1403"
-generated_at: "2026-03-30T07:52:40.144Z"
+generated_at: "2026-03-30T07:58:15.974Z"
 status: "active"
 ---
 

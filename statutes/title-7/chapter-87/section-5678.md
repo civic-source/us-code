@@ -3,9 +3,9 @@ title: "Section 5678 - Edward R. Madigan United States Agricultural Export Excel
 usc_title: 7
 usc_section: "5678"
 chapter: 87
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 5678"
-generated_at: "2026-03-30T07:50:43.484Z"
+generated_at: "2026-03-30T07:55:30.911Z"
 status: "active"
 ---
 

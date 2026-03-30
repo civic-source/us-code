@@ -3,9 +3,9 @@ title: "Section 2727 - Accounting of collections in budget presentation document
 usc_title: 22
 usc_section: "2727"
 chapter: 38
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 2727"
-generated_at: "2026-03-30T07:51:13.655Z"
+generated_at: "2026-03-30T07:56:40.786Z"
 status: "active"
 ---
 

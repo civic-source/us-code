@@ -3,9 +3,9 @@ title: "Section 1271 - Treatment of amounts received on retirement or sale or ex
 usc_title: 26
 usc_section: "1271"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 1271"
-generated_at: "2026-03-30T07:51:34.218Z"
+generated_at: "2026-03-30T07:57:29.772Z"
 status: "active"
 ---
 

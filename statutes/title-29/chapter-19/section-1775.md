@@ -3,9 +3,9 @@ title: "Section 1775 - Repealed. Pub. L. 105–220, title I , § 199(b)(2), Aug.
 usc_title: 29
 usc_section: "1775"
 chapter: 19
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 1775"
-generated_at: "2026-03-30T07:51:27.371Z"
+generated_at: "2026-03-30T07:57:32.055Z"
 status: "repealed"
 ---
 

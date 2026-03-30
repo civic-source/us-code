@@ -3,9 +3,9 @@ title: "Section 12623 - Standards and best practices for use of non-invasive and
 usc_title: 34
 usc_section: "12623"
 chapter: 121
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "34 U.S.C. § 12623"
-generated_at: "2026-03-30T07:51:39.269Z"
+generated_at: "2026-03-30T07:57:36.491Z"
 status: "active"
 ---
 

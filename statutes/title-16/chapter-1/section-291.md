@@ -3,9 +3,9 @@ title: "Section 291 - Establishment; acceptance of land"
 usc_title: 16
 usc_section: "291"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 291"
-generated_at: "2026-03-30T07:51:07.684Z"
+generated_at: "2026-03-30T07:56:29.716Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8782 - Omitted"
 usc_title: 42
 usc_section: "8782"
 chapter: 95
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 8782"
-generated_at: "2026-03-30T07:52:13.664Z"
+generated_at: "2026-03-30T07:58:06.685Z"
 status: "omitted"
 ---
 

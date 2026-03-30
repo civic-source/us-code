@@ -3,9 +3,9 @@ title: "Section 2515 - New trial; stay of judgment"
 usc_title: 28
 usc_section: "2515"
 chapter: 165
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "28 U.S.C. § 2515"
-generated_at: "2026-03-30T07:51:26.013Z"
+generated_at: "2026-03-30T07:57:13.635Z"
 status: "active"
 ---
 

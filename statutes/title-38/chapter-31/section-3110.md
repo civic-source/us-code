@@ -3,9 +3,9 @@ title: "Section 3110 - Leaves of absence"
 usc_title: 38
 usc_section: "3110"
 chapter: 31
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "38 U.S.C. § 3110"
-generated_at: "2026-03-30T07:51:44.941Z"
+generated_at: "2026-03-30T07:57:43.496Z"
 status: "active"
 ---
 

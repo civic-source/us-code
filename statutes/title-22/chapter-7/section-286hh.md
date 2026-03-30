@@ -3,9 +3,9 @@ title: "Section 286hh - Policy based lending for debt reduction"
 usc_title: 22
 usc_section: "286hh"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 286hh"
-generated_at: "2026-03-30T07:51:13.601Z"
+generated_at: "2026-03-30T07:56:40.725Z"
 status: "active"
 ---
 

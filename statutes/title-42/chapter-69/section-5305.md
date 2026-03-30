@@ -3,9 +3,9 @@ title: "Section 5305 - Activities eligible for assistance"
 usc_title: 42
 usc_section: "5305"
 chapter: 69
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 5305"
-generated_at: "2026-03-30T07:52:13.567Z"
+generated_at: "2026-03-30T07:58:06.586Z"
 status: "active"
 ---
 

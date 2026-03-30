@@ -3,9 +3,9 @@ title: "Section 6613 - Advances to Sergeant at Arms of Senate for extraordinary 
 usc_title: 2
 usc_section: "6613"
 chapter: 65
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "2 U.S.C. § 6613"
-generated_at: "2026-03-30T07:50:35.335Z"
+generated_at: "2026-03-30T07:55:02.780Z"
 status: "active"
 ---
 

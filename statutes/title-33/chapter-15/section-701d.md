@@ -3,9 +3,9 @@ title: "Section 701d - Compacts between States; consent of Congress"
 usc_title: 33
 usc_section: "701d"
 chapter: 15
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "33 U.S.C. § 701d"
-generated_at: "2026-03-30T07:51:38.224Z"
+generated_at: "2026-03-30T07:57:37.851Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2930f - Repealed. Pub. L. 97–35, title VI , § 683(a), Aug. 13
 usc_title: 42
 usc_section: "2930f"
 chapter: 34
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 2930f"
-generated_at: "2026-03-30T07:52:13.514Z"
+generated_at: "2026-03-30T07:58:06.531Z"
 status: "repealed"
 ---
 

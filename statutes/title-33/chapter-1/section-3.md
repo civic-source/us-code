@@ -3,9 +3,9 @@ title: "Section 3 - Queens County, New York"
 usc_title: 33
 usc_section: "3"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-30T07:51:38.209Z"
+generated_at: "2026-03-30T07:57:37.835Z"
 status: "active"
 ---
 

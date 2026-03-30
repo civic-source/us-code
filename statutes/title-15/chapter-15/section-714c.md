@@ -3,9 +3,9 @@ title: "Section 714c - Specific powers of Corporation"
 usc_title: 15
 usc_section: "714c"
 chapter: 15
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 714c"
-generated_at: "2026-03-30T07:50:53.572Z"
+generated_at: "2026-03-30T07:55:36.948Z"
 status: "active"
 ---
 

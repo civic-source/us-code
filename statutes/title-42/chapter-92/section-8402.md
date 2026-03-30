@@ -3,9 +3,9 @@ title: "Section 8402 - Loans to assist powerplant acquisitions of air pollution 
 usc_title: 42
 usc_section: "8402"
 chapter: 92
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 8402"
-generated_at: "2026-03-30T07:52:13.661Z"
+generated_at: "2026-03-30T07:58:06.682Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1400J - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d
 usc_title: 26
 usc_section: "1400J"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 1400J"
-generated_at: "2026-03-30T07:51:34.227Z"
+generated_at: "2026-03-30T07:57:29.780Z"
 status: "repealed"
 ---
 

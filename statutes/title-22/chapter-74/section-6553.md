@@ -3,9 +3,9 @@ title: "Section 6553 - Sunset of United States Advisory Commission on Public Dip
 usc_title: 22
 usc_section: "6553"
 chapter: 74
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 6553"
-generated_at: "2026-03-30T07:51:13.699Z"
+generated_at: "2026-03-30T07:56:40.830Z"
 status: "active"
 ---
 

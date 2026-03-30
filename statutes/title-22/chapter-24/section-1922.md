@@ -3,9 +3,9 @@ title: "Section 1922 - Repealed. Pub. L. 104–127, title II , § 228, Apr. 4, 1
 usc_title: 22
 usc_section: "1922"
 chapter: 24
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 1922"
-generated_at: "2026-03-30T07:51:13.619Z"
+generated_at: "2026-03-30T07:56:40.743Z"
 status: "repealed"
 ---
 

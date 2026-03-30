@@ -3,9 +3,9 @@ title: "Section 195 - Control; regulations; leases; sale and removal of timber"
 usc_title: 16
 usc_section: "195"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 195"
-generated_at: "2026-03-30T07:51:07.678Z"
+generated_at: "2026-03-30T07:56:29.709Z"
 status: "active"
 ---
 

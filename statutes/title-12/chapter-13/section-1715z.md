@@ -3,9 +3,9 @@ title: "Section 1715z - Homeownership or membership in cooperative association f
 usc_title: 12
 usc_section: "1715z"
 chapter: 13
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "12 U.S.C. § 1715z"
-generated_at: "2026-03-30T07:50:57.139Z"
+generated_at: "2026-03-30T07:55:50.757Z"
 status: "active"
 ---
 

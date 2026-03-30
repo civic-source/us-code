@@ -3,9 +3,9 @@ title: "Section 1765 - Terms and conditions"
 usc_title: 43
 usc_section: "1765"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 1765"
-generated_at: "2026-03-30T07:52:30.963Z"
+generated_at: "2026-03-30T07:57:46.463Z"
 status: "active"
 ---
 

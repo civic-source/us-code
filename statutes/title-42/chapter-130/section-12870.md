@@ -3,9 +3,9 @@ title: "Section 12870 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12870"
 chapter: 130
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 12870"
-generated_at: "2026-03-30T07:52:13.740Z"
+generated_at: "2026-03-30T07:58:06.761Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 352 - Exemptions"
 usc_title: 47
 usc_section: "352"
 chapter: 5
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "47 U.S.C. § 352"
-generated_at: "2026-03-30T07:52:43.697Z"
+generated_at: "2026-03-30T07:58:14.309Z"
 status: "active"
 ---
 

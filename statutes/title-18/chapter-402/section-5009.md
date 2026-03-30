@@ -3,9 +3,9 @@ title: "Section 5009 - Repealed. Pub. L. 94–233 , § 5, Mar. 15, 1976 , 90 Sta
 usc_title: 18
 usc_section: "5009"
 chapter: 402
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "18 U.S.C. § 5009"
-generated_at: "2026-03-30T07:51:00.607Z"
+generated_at: "2026-03-30T07:55:54.295Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 433n - Change in name of Whitman National Monument"
 usc_title: 16
 usc_section: "433n"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 433n"
-generated_at: "2026-03-30T07:51:07.716Z"
+generated_at: "2026-03-30T07:56:29.749Z"
 status: "active"
 ---
 

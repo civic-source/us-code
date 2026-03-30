@@ -3,9 +3,9 @@ title: "Section 302c - Special pay: psychologists and nonphysician health care p
 usc_title: 37
 usc_section: "302c"
 chapter: 5
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "37 U.S.C. § 302c"
-generated_at: "2026-03-30T07:51:43.507Z"
+generated_at: "2026-03-30T07:57:41.658Z"
 status: "active"
 ---
 

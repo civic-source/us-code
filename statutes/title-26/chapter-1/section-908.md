@@ -3,9 +3,9 @@ title: "Section 908 - Reduction of credit for participation in or cooperation wi
 usc_title: 26
 usc_section: "908"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 908"
-generated_at: "2026-03-30T07:51:34.203Z"
+generated_at: "2026-03-30T07:57:29.757Z"
 status: "active"
 ---
 

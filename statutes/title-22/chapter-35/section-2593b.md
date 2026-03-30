@@ -3,9 +3,9 @@ title: "Section 2593b - Public annual report on world military expenditures and 
 usc_title: 22
 usc_section: "2593b"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 2593b"
-generated_at: "2026-03-30T07:51:13.649Z"
+generated_at: "2026-03-30T07:56:40.781Z"
 status: "active"
 ---
 

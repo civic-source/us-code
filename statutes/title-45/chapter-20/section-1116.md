@@ -3,9 +3,9 @@ title: "Section 1116 - Applicability of other laws"
 usc_title: 45
 usc_section: "1116"
 chapter: 20
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "45 U.S.C. § 1116"
-generated_at: "2026-03-30T07:52:05.945Z"
+generated_at: "2026-03-30T07:57:50.519Z"
 status: "active"
 ---
 

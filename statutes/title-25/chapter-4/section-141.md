@@ -3,9 +3,9 @@ title: "Section 141 - Omitted"
 usc_title: 25
 usc_section: "141"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "25 U.S.C. § 141"
-generated_at: "2026-03-30T07:51:22.596Z"
+generated_at: "2026-03-30T07:57:04.493Z"
 status: "omitted"
 ---
 

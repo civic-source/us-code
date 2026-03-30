@@ -3,9 +3,9 @@ title: "Section 269f - International Bureau for the Protection of Industrial Pro
 usc_title: 22
 usc_section: "269f"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 269f"
-generated_at: "2026-03-30T07:51:13.593Z"
+generated_at: "2026-03-30T07:56:40.715Z"
 status: "active"
 ---
 

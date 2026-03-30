@@ -3,9 +3,9 @@ title: "Section 7690 - Recyclable munitions materials: sale; use of proceeds"
 usc_title: 10
 usc_section: "7690"
 chapter: 773
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 7690"
-generated_at: "2026-03-30T07:50:48.318Z"
+generated_at: "2026-03-30T07:55:12.990Z"
 status: "active"
 ---
 

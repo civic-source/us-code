@@ -3,9 +3,9 @@ title: "Section 5105 - Load line surveys"
 usc_title: 46
 usc_section: "5105"
 chapter: 51
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "46 U.S.C. § 5105"
-generated_at: "2026-03-30T07:52:44.403Z"
+generated_at: "2026-03-30T07:58:11.862Z"
 status: "active"
 ---
 

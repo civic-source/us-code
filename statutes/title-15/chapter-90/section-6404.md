@@ -3,9 +3,9 @@ title: "Section 6404 - Propane Education and Research Council"
 usc_title: 15
 usc_section: "6404"
 chapter: 90
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 6404"
-generated_at: "2026-03-30T07:50:53.655Z"
+generated_at: "2026-03-30T07:55:37.027Z"
 status: "active"
 ---
 

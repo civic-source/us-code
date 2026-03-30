@@ -3,9 +3,9 @@ title: "Section 2021 - Definitions"
 usc_title: 25
 usc_section: "2021"
 chapter: 22
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "25 U.S.C. § 2021"
-generated_at: "2026-03-30T07:51:22.625Z"
+generated_at: "2026-03-30T07:57:04.530Z"
 status: "active"
 ---
 

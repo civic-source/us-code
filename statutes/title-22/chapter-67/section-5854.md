@@ -3,9 +3,9 @@ title: "Section 5854 - Nonproliferation and disarmament fund"
 usc_title: 22
 usc_section: "5854"
 chapter: 67
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 5854"
-generated_at: "2026-03-30T07:51:13.690Z"
+generated_at: "2026-03-30T07:56:40.821Z"
 status: "active"
 ---
 

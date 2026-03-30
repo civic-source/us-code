@@ -3,9 +3,9 @@ title: "Section 201 - Short title"
 usc_title: 29
 usc_section: "201"
 chapter: 8
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 201"
-generated_at: "2026-03-30T07:51:27.325Z"
+generated_at: "2026-03-30T07:57:32.005Z"
 status: "active"
 ---
 

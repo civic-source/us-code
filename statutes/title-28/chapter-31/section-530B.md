@@ -3,9 +3,9 @@ title: "Section 530B - Ethical standards for attorneys for the Government"
 usc_title: 28
 usc_section: "530B"
 chapter: 31
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "28 U.S.C. § 530B"
-generated_at: "2026-03-30T07:51:25.996Z"
+generated_at: "2026-03-30T07:57:13.618Z"
 status: "active"
 ---
 

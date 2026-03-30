@@ -3,9 +3,9 @@ title: "Section 6 - Virginia fish hatchery; authorization of appropriations"
 usc_title: 16
 usc_section: "6"
 chapter: 9
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T07:51:07.790Z"
+generated_at: "2026-03-30T07:56:29.824Z"
 status: "active"
 ---
 

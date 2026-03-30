@@ -3,9 +3,9 @@ title: "Section 254v - Clarification regarding service in schools and other comm
 usc_title: 42
 usc_section: "254v"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 254v"
-generated_at: "2026-03-30T07:52:13.152Z"
+generated_at: "2026-03-30T07:58:06.173Z"
 status: "active"
 ---
 

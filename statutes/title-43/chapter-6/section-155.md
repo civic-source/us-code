@@ -3,9 +3,9 @@ title: "Section 155 - Withdrawal, reservation, or restriction of public lands fo
 usc_title: 43
 usc_section: "155"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 155"
-generated_at: "2026-03-30T07:52:30.912Z"
+generated_at: "2026-03-30T07:57:46.412Z"
 status: "active"
 ---
 

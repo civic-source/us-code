@@ -3,9 +3,9 @@ title: "Section 2292f - Repealed. Pub. L. 112–74, div. I, title VII , § 7034(
 usc_title: 22
 usc_section: "2292f"
 chapter: 32
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 2292f"
-generated_at: "2026-03-30T07:51:13.633Z"
+generated_at: "2026-03-30T07:56:40.759Z"
 status: "repealed"
 ---
 

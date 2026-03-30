@@ -3,9 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 30
 usc_section: "2002"
 chapter: 32
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "30 U.S.C. § 2002"
-generated_at: "2026-03-30T07:51:24.962Z"
+generated_at: "2026-03-30T07:57:18.016Z"
 status: "active"
 ---
 

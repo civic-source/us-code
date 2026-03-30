@@ -3,9 +3,9 @@ title: "Section 1 - Wildfire Technology Modernization"
 usc_title: 43
 usc_section: "1"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T07:52:30.962Z"
+generated_at: "2026-03-30T07:57:46.460Z"
 status: "active"
 ---
 

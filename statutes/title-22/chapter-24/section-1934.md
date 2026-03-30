@@ -3,9 +3,9 @@ title: "Section 1934 - Repealed. Pub. L. 94–329, title II , § 212(b)(1), June
 usc_title: 22
 usc_section: "1934"
 chapter: 24
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 1934"
-generated_at: "2026-03-30T07:51:13.619Z"
+generated_at: "2026-03-30T07:56:40.743Z"
 status: "repealed"
 ---
 

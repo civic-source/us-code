@@ -3,9 +3,9 @@ title: "Section 278i - Reports to Congress"
 usc_title: 15
 usc_section: "278i"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 278i"
-generated_at: "2026-03-30T07:50:53.541Z"
+generated_at: "2026-03-30T07:55:36.919Z"
 status: "active"
 ---
 

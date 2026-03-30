@@ -3,9 +3,9 @@ title: "Section 9632 - Corporate powers"
 usc_title: 22
 usc_section: "9632"
 chapter: 103
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 9632"
-generated_at: "2026-03-30T07:51:13.733Z"
+generated_at: "2026-03-30T07:56:40.865Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5566 - Agency determinations"
 usc_title: 5
 usc_section: "5566"
 chapter: 55
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "5 U.S.C. § 5566"
-generated_at: "2026-03-30T07:50:37.196Z"
+generated_at: "2026-03-30T07:54:54.957Z"
 status: "active"
 ---
 

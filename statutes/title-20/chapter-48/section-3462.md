@@ -3,9 +3,9 @@ title: "Section 3462 - Experts and consultants"
 usc_title: 20
 usc_section: "3462"
 chapter: 48
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 3462"
-generated_at: "2026-03-30T07:51:05.127Z"
+generated_at: "2026-03-30T07:56:08.023Z"
 status: "active"
 ---
 

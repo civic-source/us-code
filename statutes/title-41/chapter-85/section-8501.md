@@ -3,9 +3,9 @@ title: "Section 8501 - Definitions"
 usc_title: 41
 usc_section: "8501"
 chapter: 85
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "41 U.S.C. § 8501"
-generated_at: "2026-03-30T07:51:54.313Z"
+generated_at: "2026-03-30T07:57:45.582Z"
 status: "active"
 ---
 

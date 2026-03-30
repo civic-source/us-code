@@ -3,9 +3,9 @@ title: "Section 1151 - Administrative summary cease and desist orders and summar
 usc_title: 29
 usc_section: "1151"
 chapter: 18
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 1151"
-generated_at: "2026-03-30T07:51:27.359Z"
+generated_at: "2026-03-30T07:57:32.042Z"
 status: "active"
 ---
 

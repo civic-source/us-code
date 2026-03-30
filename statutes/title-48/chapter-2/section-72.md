@@ -3,9 +3,9 @@ title: "Section 72 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 48
 usc_section: "72"
 chapter: 2
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "48 U.S.C. § 72"
-generated_at: "2026-03-30T07:52:40.141Z"
+generated_at: "2026-03-30T07:58:15.972Z"
 status: "repealed"
 ---
 

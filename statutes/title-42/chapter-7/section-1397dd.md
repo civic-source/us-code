@@ -3,9 +3,9 @@ title: "Section 1397dd - Allotments"
 usc_title: 42
 usc_section: "1397dd"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1397dd"
-generated_at: "2026-03-30T07:52:13.433Z"
+generated_at: "2026-03-30T07:58:06.451Z"
 status: "active"
 ---
 
@@ -284,9 +284,9 @@ status: "active"
       - **(i)** the sum of—
         - **(I)** the amount made available under subsection (a)(18)(A); and
         - **(II)** the amount of the appropriation for such period under section 108 of the Children’s Health Insurance Program Reauthorization Act of 2009; to
-      - **(ii)** the sum of the—
+      - **(ii)** the sum of the 3 —
         - **(I)** amount described in clause (i); and
-        - **(II)** the amount made available under subsection (a)(18)(B).
+        - **(II)** the 3 amount made available under subsection (a)(18)(B).
   - **(4)**
     - **(A)** Subject to paragraphs (5) and (7), from the amount made available under subparagraph (A) of paragraph (20) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
     - **(B)** Subject to paragraphs (5) and (7), from the amount made available under subparagraph (B) of paragraph (20) of subsection (a) for the semi-annual period described in such paragraph, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the amount made available under such subparagraph, multiplied by the ratio of—

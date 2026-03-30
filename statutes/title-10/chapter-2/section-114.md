@@ -3,9 +3,9 @@ title: "Section 114 - Annual authorization of appropriations"
 usc_title: 10
 usc_section: "114"
 chapter: 2
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 114"
-generated_at: "2026-03-30T07:50:48.199Z"
+generated_at: "2026-03-30T07:55:12.873Z"
 status: "active"
 ---
 

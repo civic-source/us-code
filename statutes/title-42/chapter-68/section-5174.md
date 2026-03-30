@@ -3,9 +3,9 @@ title: "Section 5174 - Federal assistance to individuals and households"
 usc_title: 42
 usc_section: "5174"
 chapter: 68
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 5174"
-generated_at: "2026-03-30T07:52:13.563Z"
+generated_at: "2026-03-30T07:58:06.581Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 90e - Pasayten Wilderness, Okanogan and Mount Baker National For
 usc_title: 16
 usc_section: "90e"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 90e"
-generated_at: "2026-03-30T07:51:07.673Z"
+generated_at: "2026-03-30T07:56:29.703Z"
 status: "active"
 ---
 

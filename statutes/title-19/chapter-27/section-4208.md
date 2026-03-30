@@ -3,9 +3,9 @@ title: "Section 4208 - Interests of small businesses"
 usc_title: 19
 usc_section: "4208"
 chapter: 27
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "19 U.S.C. § 4208"
-generated_at: "2026-03-30T07:51:01.662Z"
+generated_at: "2026-03-30T07:55:55.665Z"
 status: "active"
 ---
 

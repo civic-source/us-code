@@ -3,9 +3,9 @@ title: "Section 2610c - Repealed. Pub. L. 93–203, title VII , § 714, formerly
 usc_title: 42
 usc_section: "2610c"
 chapter: 30
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 2610c"
-generated_at: "2026-03-30T07:52:13.512Z"
+generated_at: "2026-03-30T07:58:06.530Z"
 status: "repealed"
 ---
 

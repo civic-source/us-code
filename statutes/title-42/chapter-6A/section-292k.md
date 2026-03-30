@@ -3,9 +3,9 @@ title: "Section 292k - Participation by Federal credit unions in Federal, State,
 usc_title: 42
 usc_section: "292k"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 292k"
-generated_at: "2026-03-30T07:52:13.200Z"
+generated_at: "2026-03-30T07:58:06.221Z"
 status: "active"
 ---
 

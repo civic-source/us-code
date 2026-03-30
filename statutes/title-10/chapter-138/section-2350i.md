@@ -3,9 +3,9 @@ title: "Section 2350i - Foreign contributions for cooperative projects"
 usc_title: 10
 usc_section: "2350i"
 chapter: 138
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 2350i"
-generated_at: "2026-03-30T07:50:48.286Z"
+generated_at: "2026-03-30T07:55:12.957Z"
 status: "active"
 ---
 

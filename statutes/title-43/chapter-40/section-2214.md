@@ -3,9 +3,9 @@ title: "Section 2214 - Applicable period of drought program"
 usc_title: 43
 usc_section: "2214"
 chapter: 40
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 2214"
-generated_at: "2026-03-30T07:52:30.967Z"
+generated_at: "2026-03-30T07:57:46.466Z"
 status: "active"
 ---
 

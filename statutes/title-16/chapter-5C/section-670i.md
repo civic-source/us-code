@@ -3,9 +3,9 @@ title: "Section 670i - Public land management area stamps for hunting, trapping,
 usc_title: 16
 usc_section: "670i"
 chapter: 5
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 670i"
-generated_at: "2026-03-30T07:51:07.780Z"
+generated_at: "2026-03-30T07:56:29.814Z"
 status: "active"
 ---
 

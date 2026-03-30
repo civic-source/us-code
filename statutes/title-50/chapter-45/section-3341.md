@@ -3,9 +3,9 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-30T07:52:49.877Z"
+generated_at: "2026-03-30T07:58:11.044Z"
 status: "active"
 ---
 

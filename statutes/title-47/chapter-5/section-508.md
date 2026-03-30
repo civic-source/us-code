@@ -3,9 +3,9 @@ title: "Section 508 - Disclosure of payments to individuals connected with broad
 usc_title: 47
 usc_section: "508"
 chapter: 5
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "47 U.S.C. § 508"
-generated_at: "2026-03-30T07:52:43.701Z"
+generated_at: "2026-03-30T07:58:14.313Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4037 - Repealed. Pub. L. 100–297, title II , § 2303, Apr. 28,
 usc_title: 20
 usc_section: "4037"
 chapter: 52
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 4037"
-generated_at: "2026-03-30T07:51:05.131Z"
+generated_at: "2026-03-30T07:56:08.026Z"
 status: "repealed"
 ---
 

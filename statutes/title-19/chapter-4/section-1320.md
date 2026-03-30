@@ -3,9 +3,9 @@ title: "Section 1320 - Repealed. Aug. 8, 1953, ch. 397 , § 6(b), 67 Stat. 510"
 usc_title: 19
 usc_section: "1320"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "19 U.S.C. § 1320"
-generated_at: "2026-03-30T07:51:01.599Z"
+generated_at: "2026-03-30T07:55:55.602Z"
 status: "repealed"
 ---
 

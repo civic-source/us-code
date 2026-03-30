@@ -3,9 +3,9 @@ title: "Section 1704 - Registration of subdivisions"
 usc_title: 15
 usc_section: "1704"
 chapter: 42
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 1704"
-generated_at: "2026-03-30T07:50:53.611Z"
+generated_at: "2026-03-30T07:55:36.985Z"
 status: "active"
 ---
 

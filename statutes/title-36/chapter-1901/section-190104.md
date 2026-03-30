@@ -3,9 +3,9 @@ title: "Section 190104 - Governing body"
 usc_title: 36
 usc_section: "190104"
 chapter: 1901
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "36 U.S.C. § 190104"
-generated_at: "2026-03-30T07:51:43.179Z"
+generated_at: "2026-03-30T07:57:40.120Z"
 status: "active"
 ---
 

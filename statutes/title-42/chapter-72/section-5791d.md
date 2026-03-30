@@ -3,9 +3,9 @@ title: "Section 5791d - Transferred"
 usc_title: 42
 usc_section: "5791d"
 chapter: 72
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 5791d"
-generated_at: "2026-03-30T07:52:13.574Z"
+generated_at: "2026-03-30T07:58:06.594Z"
 status: "transferred"
 ---
 

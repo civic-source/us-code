@@ -3,9 +3,9 @@ title: "Section 7105 - Filing of appeal"
 usc_title: 38
 usc_section: "7105"
 chapter: 71
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "38 U.S.C. § 7105"
-generated_at: "2026-03-30T07:51:44.960Z"
+generated_at: "2026-03-30T07:57:43.518Z"
 status: "active"
 ---
 

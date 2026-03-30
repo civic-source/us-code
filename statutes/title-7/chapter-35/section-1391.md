@@ -3,9 +3,9 @@ title: "Section 1391 - Authorization of appropriations; loans from Commodity Cre
 usc_title: 7
 usc_section: "1391"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 1391"
-generated_at: "2026-03-30T07:50:43.403Z"
+generated_at: "2026-03-30T07:55:30.831Z"
 status: "active"
 ---
 

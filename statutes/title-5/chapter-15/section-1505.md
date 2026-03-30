@@ -3,9 +3,9 @@ title: "Section 1505 - Hearings; adjudications; notice of determinations"
 usc_title: 5
 usc_section: "1505"
 chapter: 15
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "5 U.S.C. § 1505"
-generated_at: "2026-03-30T07:50:37.180Z"
+generated_at: "2026-03-30T07:54:54.941Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1015e - State higher education information system pilot program"
 usc_title: 20
 usc_section: "1015e"
 chapter: 28
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1015e"
-generated_at: "2026-03-30T07:51:05.054Z"
+generated_at: "2026-03-30T07:56:07.954Z"
 status: "active"
 ---
 

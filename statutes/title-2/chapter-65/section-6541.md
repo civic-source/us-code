@@ -3,9 +3,9 @@ title: "Section 6541 - Professional archivist; Secretary’s authority to obtain
 usc_title: 2
 usc_section: "6541"
 chapter: 65
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "2 U.S.C. § 6541"
-generated_at: "2026-03-30T07:50:35.335Z"
+generated_at: "2026-03-30T07:55:02.779Z"
 status: "active"
 ---
 

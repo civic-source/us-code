@@ -3,9 +3,9 @@ title: "Section 1011 - Antidiscrimination"
 usc_title: 20
 usc_section: "1011"
 chapter: 28
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1011"
-generated_at: "2026-03-30T07:51:05.052Z"
+generated_at: "2026-03-30T07:56:07.953Z"
 status: "active"
 ---
 

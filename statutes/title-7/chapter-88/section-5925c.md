@@ -3,9 +3,9 @@ title: "Section 5925c - Organic production and market data initiatives"
 usc_title: 7
 usc_section: "5925c"
 chapter: 88
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 5925c"
-generated_at: "2026-03-30T07:50:43.487Z"
+generated_at: "2026-03-30T07:55:30.914Z"
 status: "active"
 ---
 

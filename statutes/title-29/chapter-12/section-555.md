@@ -3,9 +3,9 @@ title: "Section 555 - Solicitor"
 usc_title: 29
 usc_section: "555"
 chapter: 12
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 555"
-generated_at: "2026-03-30T07:51:27.330Z"
+generated_at: "2026-03-30T07:57:32.011Z"
 status: "active"
 ---
 

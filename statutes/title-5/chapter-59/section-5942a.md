@@ -3,9 +3,9 @@ title: "Section 5942a - Separate maintenance allowance for duty at Johnston Isla
 usc_title: 5
 usc_section: "5942a"
 chapter: 59
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "5 U.S.C. § 5942a"
-generated_at: "2026-03-30T07:50:37.200Z"
+generated_at: "2026-03-30T07:54:54.961Z"
 status: "active"
 ---
 

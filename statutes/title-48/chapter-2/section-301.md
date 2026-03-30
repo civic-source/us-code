@@ -3,9 +3,9 @@ title: "Section 301 - Transferred"
 usc_title: 48
 usc_section: "301"
 chapter: 2
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "48 U.S.C. § 301"
-generated_at: "2026-03-30T07:52:40.141Z"
+generated_at: "2026-03-30T07:58:15.972Z"
 status: "transferred"
 ---
 

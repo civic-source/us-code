@@ -3,9 +3,9 @@ title: "Section 4005 - Functions and duties of National Council"
 usc_title: 16
 usc_section: "4005"
 chapter: 60
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 4005"
-generated_at: "2026-03-30T07:51:07.877Z"
+generated_at: "2026-03-30T07:56:29.912Z"
 status: "active"
 ---
 

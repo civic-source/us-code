@@ -3,9 +3,9 @@ title: "Section 50105 - Studies and cooperation relating to the construction of 
 usc_title: 46
 usc_section: "50105"
 chapter: 501
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "46 U.S.C. § 50105"
-generated_at: "2026-03-30T07:52:44.417Z"
+generated_at: "2026-03-30T07:58:11.875Z"
 status: "active"
 ---
 

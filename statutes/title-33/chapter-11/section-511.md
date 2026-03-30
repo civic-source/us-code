@@ -3,9 +3,9 @@ title: "Section 511 - Definitions"
 usc_title: 33
 usc_section: "511"
 chapter: 11
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "33 U.S.C. § 511"
-generated_at: "2026-03-30T07:51:38.216Z"
+generated_at: "2026-03-30T07:57:37.843Z"
 status: "active"
 ---
 

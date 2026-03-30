@@ -3,9 +3,9 @@ title: "Section 1506 - Repealed. Oct. 10, 1951, ch. 479 , title V, § 503(b)(1),
 usc_title: 22
 usc_section: "1506"
 chapter: 19
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 1506"
-generated_at: "2026-03-30T07:51:13.614Z"
+generated_at: "2026-03-30T07:56:40.737Z"
 status: "repealed"
 ---
 

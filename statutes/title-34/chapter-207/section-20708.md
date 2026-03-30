@@ -3,9 +3,9 @@ title: "Section 20708 - Grants for specialized human trafficking training and te
 usc_title: 34
 usc_section: "20708"
 chapter: 207
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "34 U.S.C. § 20708"
-generated_at: "2026-03-30T07:51:39.275Z"
+generated_at: "2026-03-30T07:57:36.498Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1363 - Review of quota; review committee"
 usc_title: 7
 usc_section: "1363"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 1363"
-generated_at: "2026-03-30T07:50:43.401Z"
+generated_at: "2026-03-30T07:55:30.830Z"
 status: "active"
 ---
 

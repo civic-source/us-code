@@ -3,9 +3,9 @@ title: "Section 5452 - Office of Minority and Women Inclusion"
 usc_title: 12
 usc_section: "5452"
 chapter: 53
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "12 U.S.C. § 5452"
-generated_at: "2026-03-30T07:50:57.251Z"
+generated_at: "2026-03-30T07:55:50.864Z"
 status: "active"
 ---
 

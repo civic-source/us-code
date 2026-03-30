@@ -3,9 +3,9 @@ title: "Section 6387 - Regulations"
 usc_title: 5
 usc_section: "6387"
 chapter: 63
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "5 U.S.C. § 6387"
-generated_at: "2026-03-30T07:50:37.203Z"
+generated_at: "2026-03-30T07:54:54.964Z"
 status: "active"
 ---
 

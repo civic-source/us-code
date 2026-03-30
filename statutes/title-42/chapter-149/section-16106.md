@@ -3,9 +3,9 @@ title: "Section 16106 - Ultra-efficient engine technology for aircraft"
 usc_title: 42
 usc_section: "16106"
 chapter: 149
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 16106"
-generated_at: "2026-03-30T07:52:13.769Z"
+generated_at: "2026-03-30T07:58:06.789Z"
 status: "active"
 ---
 

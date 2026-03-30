@@ -3,9 +3,9 @@ title: "Section 3423 - Immunity from suit for disclosure of financial exploitati
 usc_title: 12
 usc_section: "3423"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "12 U.S.C. § 3423"
-generated_at: "2026-03-30T07:50:57.213Z"
+generated_at: "2026-03-30T07:55:50.827Z"
 status: "active"
 ---
 

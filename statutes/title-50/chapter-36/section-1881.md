@@ -3,9 +3,9 @@ title: "Section 1881 - Definitions"
 usc_title: 50
 usc_section: "1881"
 chapter: 36
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "50 U.S.C. § 1881"
-generated_at: "2026-03-30T07:52:49.851Z"
+generated_at: "2026-03-30T07:58:11.015Z"
 status: "active"
 ---
 

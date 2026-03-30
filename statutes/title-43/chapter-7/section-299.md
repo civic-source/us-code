@@ -3,9 +3,9 @@ title: "Section 299 - Reservation of coal and mineral rights"
 usc_title: 43
 usc_section: "299"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 299"
-generated_at: "2026-03-30T07:52:30.913Z"
+generated_at: "2026-03-30T07:57:46.413Z"
 status: "active"
 ---
 

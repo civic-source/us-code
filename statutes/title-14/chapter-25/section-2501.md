@@ -3,9 +3,9 @@ title: "Section 2501 - Grade on retirement"
 usc_title: 14
 usc_section: "2501"
 chapter: 25
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "14 U.S.C. § 2501"
-generated_at: "2026-03-30T07:50:50.373Z"
+generated_at: "2026-03-30T07:55:38.755Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1881a - Alan T. Waterman Award"
 usc_title: 42
 usc_section: "1881a"
 chapter: 16
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1881a"
-generated_at: "2026-03-30T07:52:13.483Z"
+generated_at: "2026-03-30T07:58:06.500Z"
 status: "active"
 ---
 

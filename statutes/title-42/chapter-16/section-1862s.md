@@ -3,9 +3,9 @@ title: "Section 1862s - Reaffirmation of merit-based peer review"
 usc_title: 42
 usc_section: "1862s"
 chapter: 16
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1862s"
-generated_at: "2026-03-30T07:52:13.481Z"
+generated_at: "2026-03-30T07:58:06.497Z"
 status: "active"
 ---
 

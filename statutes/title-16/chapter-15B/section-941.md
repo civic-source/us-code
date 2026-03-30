@@ -3,9 +3,9 @@ title: "Section 941 - Findings"
 usc_title: 16
 usc_section: "941"
 chapter: 15
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 941"
-generated_at: "2026-03-30T07:51:07.809Z"
+generated_at: "2026-03-30T07:56:29.843Z"
 status: "active"
 ---
 

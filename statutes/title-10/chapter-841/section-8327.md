@@ -3,9 +3,9 @@ title: "Section 8327 - Officers and enlisted members of the Navy Reserve and Mar
 usc_title: 10
 usc_section: "8327"
 chapter: 841
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 8327"
-generated_at: "2026-03-30T07:50:48.322Z"
+generated_at: "2026-03-30T07:55:12.995Z"
 status: "active"
 ---
 

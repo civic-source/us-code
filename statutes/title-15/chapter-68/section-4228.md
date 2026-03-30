@@ -3,9 +3,9 @@ title: "Section 4228 - Repealed. Pub. L. 102–555 , § 4, Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4228"
 chapter: 68
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 4228"
-generated_at: "2026-03-30T07:50:53.646Z"
+generated_at: "2026-03-30T07:55:37.018Z"
 status: "repealed"
 ---
 

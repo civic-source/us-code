@@ -3,9 +3,9 @@ title: "Section 7957 - Marketing assistance loans and loan deficiency payments f
 usc_title: 7
 usc_section: "7957"
 chapter: 106
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 7957"
-generated_at: "2026-03-30T07:50:43.522Z"
+generated_at: "2026-03-30T07:55:30.948Z"
 status: "active"
 ---
 

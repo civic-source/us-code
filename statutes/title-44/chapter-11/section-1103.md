@@ -3,9 +3,9 @@ title: "Section 1103 - Certificate of necessity; estimate of cost"
 usc_title: 44
 usc_section: "1103"
 chapter: 11
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "44 U.S.C. § 1103"
-generated_at: "2026-03-30T07:51:53.211Z"
+generated_at: "2026-03-30T07:58:07.034Z"
 status: "active"
 ---
 

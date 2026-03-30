@@ -3,9 +3,9 @@ title: "Section 1091c - Readmission requirements for servicemembers"
 usc_title: 20
 usc_section: "1091c"
 chapter: 28
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1091c"
-generated_at: "2026-03-30T07:51:05.089Z"
+generated_at: "2026-03-30T07:56:07.987Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(A)** that is required, beyond five years, to complete an initial period of obligated service;
     - **(B)** during which such student was unable to obtain orders releasing such student from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
     - **(C)** performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
-      - **(i)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252, 359, 360, 367, or 712 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+      - **(i)** ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252, 1 1 See References in Text note below. 359, 360, 367, or 712 1 of title 14;
       - **(ii)** ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
       - **(iii)** ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10 ;
       - **(iv)** ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or

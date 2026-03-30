@@ -3,9 +3,9 @@ title: "Section 6056a - Repealed. Pub. L. 107–279, title IV , § 403(2), Nov. 
 usc_title: 20
 usc_section: "6056a"
 chapter: 68
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 6056a"
-generated_at: "2026-03-30T07:51:05.138Z"
+generated_at: "2026-03-30T07:56:08.033Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11202 - Qualified service"
 usc_title: 46
 usc_section: "11202"
 chapter: 112
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "46 U.S.C. § 11202"
-generated_at: "2026-03-30T07:52:44.409Z"
+generated_at: "2026-03-30T07:58:11.868Z"
 status: "active"
 ---
 

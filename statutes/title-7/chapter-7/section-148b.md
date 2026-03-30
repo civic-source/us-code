@@ -3,9 +3,9 @@ title: "Section 148b - Repealed. Oct. 10, 1940, ch. 851 , § 4, 54 Stat. 1111"
 usc_title: 7
 usc_section: "148b"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 148b"
-generated_at: "2026-03-30T07:50:43.375Z"
+generated_at: "2026-03-30T07:55:30.804Z"
 status: "repealed"
 ---
 

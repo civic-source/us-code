@@ -3,9 +3,9 @@ title: "Section 3 - Streamlined hiring authority"
 usc_title: 21
 usc_section: "3"
 chapter: 9
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "21 U.S.C. § 3"
-generated_at: "2026-03-30T07:51:21.589Z"
+generated_at: "2026-03-30T07:56:37.668Z"
 status: "active"
 ---
 

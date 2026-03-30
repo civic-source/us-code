@@ -3,9 +3,9 @@ title: "Section 286w - Denial of membership or other status in Fund for Palestin
 usc_title: 22
 usc_section: "286w"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 286w"
-generated_at: "2026-03-30T07:51:13.601Z"
+generated_at: "2026-03-30T07:56:40.724Z"
 status: "active"
 ---
 

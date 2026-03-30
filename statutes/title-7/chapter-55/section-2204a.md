@@ -3,9 +3,9 @@ title: "Section 2204a - Rural development; utilization of non-Federal offices; l
 usc_title: 7
 usc_section: "2204a"
 chapter: 55
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "7 U.S.C. § 2204a"
-generated_at: "2026-03-30T07:50:43.455Z"
+generated_at: "2026-03-30T07:55:30.882Z"
 status: "active"
 ---
 

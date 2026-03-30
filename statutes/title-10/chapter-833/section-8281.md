@@ -3,9 +3,9 @@ title: "Section 8281 - Members of the naval service in other United States hospi
 usc_title: 10
 usc_section: "8281"
 chapter: 833
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 8281"
-generated_at: "2026-03-30T07:50:48.322Z"
+generated_at: "2026-03-30T07:55:12.994Z"
 status: "active"
 ---
 

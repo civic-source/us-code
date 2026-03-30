@@ -3,9 +3,9 @@ title: "Section 41 - Osage River, Missouri"
 usc_title: 33
 usc_section: "41"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "33 U.S.C. § 41"
-generated_at: "2026-03-30T07:51:38.208Z"
+generated_at: "2026-03-30T07:57:37.835Z"
 status: "active"
 ---
 

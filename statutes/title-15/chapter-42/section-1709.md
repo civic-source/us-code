@@ -3,9 +3,9 @@ title: "Section 1709 - Civil liabilities"
 usc_title: 15
 usc_section: "1709"
 chapter: 42
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 1709"
-generated_at: "2026-03-30T07:50:53.612Z"
+generated_at: "2026-03-30T07:55:36.985Z"
 status: "active"
 ---
 

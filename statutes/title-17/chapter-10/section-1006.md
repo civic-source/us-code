@@ -3,9 +3,9 @@ title: "Section 1006 - Entitlement to royalty payments"
 usc_title: 17
 usc_section: "1006"
 chapter: 10
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "17 U.S.C. § 1006"
-generated_at: "2026-03-30T07:50:59.062Z"
+generated_at: "2026-03-30T07:55:56.684Z"
 status: "active"
 ---
 

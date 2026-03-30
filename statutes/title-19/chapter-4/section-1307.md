@@ -3,9 +3,9 @@ title: "Section 1307 - Convict-made goods; importation prohibited"
 usc_title: 19
 usc_section: "1307"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "19 U.S.C. § 1307"
-generated_at: "2026-03-30T07:51:01.597Z"
+generated_at: "2026-03-30T07:55:55.600Z"
 status: "active"
 ---
 

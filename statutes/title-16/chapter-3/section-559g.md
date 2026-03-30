@@ -3,9 +3,9 @@ title: "Section 559g - Designation authority of Secretary of Agriculture"
 usc_title: 16
 usc_section: "559g"
 chapter: 3
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 559g"
-generated_at: "2026-03-30T07:51:07.769Z"
+generated_at: "2026-03-30T07:56:29.803Z"
 status: "active"
 ---
 

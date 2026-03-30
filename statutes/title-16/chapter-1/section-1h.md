@@ -3,9 +3,9 @@ title: "Section 1h - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "1h"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 1h"
-generated_at: "2026-03-30T07:51:07.667Z"
+generated_at: "2026-03-30T07:56:29.695Z"
 status: "repealed"
 ---
 

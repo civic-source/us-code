@@ -3,9 +3,9 @@ title: "Section 765 - Retirement for disability"
 usc_title: 33
 usc_section: "765"
 chapter: 16
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "33 U.S.C. § 765"
-generated_at: "2026-03-30T07:51:38.228Z"
+generated_at: "2026-03-30T07:57:37.855Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Designation of customs officers for foreign service; status;
 usc_title: 19
 usc_section: "6"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "19 U.S.C. § 6"
-generated_at: "2026-03-30T07:51:01.594Z"
+generated_at: "2026-03-30T07:55:55.597Z"
 status: "active"
 ---
 

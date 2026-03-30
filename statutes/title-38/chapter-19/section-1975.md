@@ -3,9 +3,9 @@ title: "Section 1975 - Jurisdiction of District Courts"
 usc_title: 38
 usc_section: "1975"
 chapter: 19
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "38 U.S.C. § 1975"
-generated_at: "2026-03-30T07:51:44.933Z"
+generated_at: "2026-03-30T07:57:43.488Z"
 status: "active"
 ---
 

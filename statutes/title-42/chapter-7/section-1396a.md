@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T07:52:13.402Z"
+generated_at: "2026-03-30T07:58:06.420Z"
 status: "active"
 ---
 

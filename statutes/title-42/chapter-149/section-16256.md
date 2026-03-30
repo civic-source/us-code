@@ -3,9 +3,9 @@ title: "Section 16256 - Education and outreach"
 usc_title: 42
 usc_section: "16256"
 chapter: 149
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 16256"
-generated_at: "2026-03-30T07:52:13.773Z"
+generated_at: "2026-03-30T07:58:06.793Z"
 status: "active"
 ---
 

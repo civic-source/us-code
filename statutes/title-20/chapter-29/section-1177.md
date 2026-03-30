@@ -3,9 +3,9 @@ title: "Section 1177 - Repealed. Pub. L. 96–374, title VI , § 601(c)(2), Oct.
 usc_title: 20
 usc_section: "1177"
 chapter: 29
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1177"
-generated_at: "2026-03-30T07:51:05.106Z"
+generated_at: "2026-03-30T07:56:08.003Z"
 status: "repealed"
 ---
 

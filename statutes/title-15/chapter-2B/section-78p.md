@@ -3,9 +3,9 @@ title: "Section 78p - Directors, officers, and principal stockholders"
 usc_title: 15
 usc_section: "78p"
 chapter: 2
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 78p"
-generated_at: "2026-03-30T07:50:53.518Z"
+generated_at: "2026-03-30T07:55:36.897Z"
 status: "active"
 ---
 

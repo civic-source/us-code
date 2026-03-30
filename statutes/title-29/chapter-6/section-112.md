@@ -3,9 +3,9 @@ title: "Section 112 - Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , e
 usc_title: 29
 usc_section: "112"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 112"
-generated_at: "2026-03-30T07:51:27.322Z"
+generated_at: "2026-03-30T07:57:32.002Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1255 - Gain from disposition of section 126 property"
 usc_title: 26
 usc_section: "1255"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 1255"
-generated_at: "2026-03-30T07:51:34.217Z"
+generated_at: "2026-03-30T07:57:29.771Z"
 status: "active"
 ---
 

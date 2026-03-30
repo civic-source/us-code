@@ -3,9 +3,9 @@ title: "Section 2392 - Prohibition on use of funds to relieve economic dislocati
 usc_title: 10
 usc_section: "2392"
 chapter: 141
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 2392"
-generated_at: "2026-03-30T07:50:48.289Z"
+generated_at: "2026-03-30T07:55:12.960Z"
 status: "active"
 ---
 

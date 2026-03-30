@@ -3,9 +3,9 @@ title: "Section 20903 - Tribal registry"
 usc_title: 34
 usc_section: "20903"
 chapter: 209
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "34 U.S.C. § 20903"
-generated_at: "2026-03-30T07:51:39.276Z"
+generated_at: "2026-03-30T07:57:36.498Z"
 status: "active"
 ---
 

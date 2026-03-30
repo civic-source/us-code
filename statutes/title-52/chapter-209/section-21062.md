@@ -3,9 +3,9 @@ title: "Section 21062 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21062"
 chapter: 209
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "52 U.S.C. § 21062"
-generated_at: "2026-03-30T07:52:55.884Z"
+generated_at: "2026-03-30T07:58:23.576Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1445 - Withholding of tax on dispositions of United States real 
 usc_title: 26
 usc_section: "1445"
 chapter: 3
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 1445"
-generated_at: "2026-03-30T07:51:34.229Z"
+generated_at: "2026-03-30T07:57:29.782Z"
 status: "active"
 ---
 

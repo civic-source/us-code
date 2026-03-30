@@ -3,9 +3,9 @@ title: "Section 2157 - Transition regulations"
 usc_title: 50
 usc_section: "2157"
 chapter: 38
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "50 U.S.C. § 2157"
-generated_at: "2026-03-30T07:52:49.858Z"
+generated_at: "2026-03-30T07:58:11.023Z"
 status: "active"
 ---
 

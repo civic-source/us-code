@@ -3,9 +3,9 @@ title: "Section 7115 - Allotments to representatives"
 usc_title: 5
 usc_section: "7115"
 chapter: 71
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "5 U.S.C. § 7115"
-generated_at: "2026-03-30T07:50:37.204Z"
+generated_at: "2026-03-30T07:54:54.965Z"
 status: "active"
 ---
 

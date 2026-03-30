@@ -3,9 +3,9 @@ title: "Section 1087b - Funds for origination of direct student loans"
 usc_title: 20
 usc_section: "1087b"
 chapter: 28
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1087b"
-generated_at: "2026-03-30T07:51:05.080Z"
+generated_at: "2026-03-30T07:56:07.979Z"
 status: "active"
 ---
 

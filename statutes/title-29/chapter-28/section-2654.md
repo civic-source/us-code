@@ -3,9 +3,9 @@ title: "Section 2654 - Regulations"
 usc_title: 29
 usc_section: "2654"
 chapter: 28
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 2654"
-generated_at: "2026-03-30T07:51:27.375Z"
+generated_at: "2026-03-30T07:57:32.059Z"
 status: "active"
 ---
 

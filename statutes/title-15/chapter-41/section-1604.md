@@ -3,9 +3,9 @@ title: "Section 1604 - Disclosure guidelines"
 usc_title: 15
 usc_section: "1604"
 chapter: 41
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 1604"
-generated_at: "2026-03-30T07:50:53.593Z"
+generated_at: "2026-03-30T07:55:36.967Z"
 status: "active"
 ---
 

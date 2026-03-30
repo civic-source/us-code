@@ -3,9 +3,9 @@ title: "Section 1319a - Duty on coffee; ratification of duties imposed by Legisl
 usc_title: 19
 usc_section: "1319a"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "19 U.S.C. § 1319a"
-generated_at: "2026-03-30T07:51:01.599Z"
+generated_at: "2026-03-30T07:55:55.601Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 568a - Cooperation by Secretary of Agriculture with Territories 
 usc_title: 16
 usc_section: "568a"
 chapter: 3
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 568a"
-generated_at: "2026-03-30T07:51:07.770Z"
+generated_at: "2026-03-30T07:56:29.803Z"
 status: "active"
 ---
 

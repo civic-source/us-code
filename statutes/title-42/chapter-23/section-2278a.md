@@ -3,9 +3,9 @@ title: "Section 2278a - Trespass on Commission installations"
 usc_title: 42
 usc_section: "2278a"
 chapter: 23
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 2278a"
-generated_at: "2026-03-30T07:52:13.507Z"
+generated_at: "2026-03-30T07:58:06.525Z"
 status: "active"
 ---
 

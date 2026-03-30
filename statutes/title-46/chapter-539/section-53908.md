@@ -3,9 +3,9 @@ title: "Section 53908 - Additional insurance privately obtained"
 usc_title: 46
 usc_section: "53908"
 chapter: 539
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "46 U.S.C. § 53908"
-generated_at: "2026-03-30T07:52:44.424Z"
+generated_at: "2026-03-30T07:58:11.882Z"
 status: "active"
 ---
 

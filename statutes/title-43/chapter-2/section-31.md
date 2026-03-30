@@ -3,9 +3,9 @@ title: "Section 31 - Director of United States Geological Survey"
 usc_title: 43
 usc_section: "31"
 chapter: 2
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 31"
-generated_at: "2026-03-30T07:52:30.907Z"
+generated_at: "2026-03-30T07:57:46.410Z"
 status: "active"
 ---
 

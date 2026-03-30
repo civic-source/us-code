@@ -3,9 +3,9 @@ title: "Section 1602 - Findings and declaration of purpose"
 usc_title: 28
 usc_section: "1602"
 chapter: 97
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "28 U.S.C. § 1602"
-generated_at: "2026-03-30T07:51:26.005Z"
+generated_at: "2026-03-30T07:57:13.627Z"
 status: "active"
 ---
 

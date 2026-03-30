@@ -3,9 +3,9 @@ title: "Section 796b - Eligibility for receipt of services"
 usc_title: 29
 usc_section: "796b"
 chapter: 16
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 796b"
-generated_at: "2026-03-30T07:51:27.342Z"
+generated_at: "2026-03-30T07:57:32.023Z"
 status: "active"
 ---
 

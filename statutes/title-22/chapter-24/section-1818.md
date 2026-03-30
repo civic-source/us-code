@@ -3,9 +3,9 @@ title: "Section 1818 - Repealed. Pub. L. 85–141 , § 2(e), Aug. 14, 1957 , 71 
 usc_title: 22
 usc_section: "1818"
 chapter: 24
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 1818"
-generated_at: "2026-03-30T07:51:13.618Z"
+generated_at: "2026-03-30T07:56:40.742Z"
 status: "repealed"
 ---
 

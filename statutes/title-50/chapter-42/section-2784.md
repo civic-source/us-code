@@ -3,9 +3,9 @@ title: "Section 2784 - Notice-and-wait requirement applicable to certain third-p
 usc_title: 50
 usc_section: "2784"
 chapter: 42
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "50 U.S.C. § 2784"
-generated_at: "2026-03-30T07:52:49.867Z"
+generated_at: "2026-03-30T07:58:11.033Z"
 status: "active"
 ---
 

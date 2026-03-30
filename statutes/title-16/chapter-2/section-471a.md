@@ -3,9 +3,9 @@ title: "Section 471a - Forest reserves in New Mexico and Arizona restricted"
 usc_title: 16
 usc_section: "471a"
 chapter: 2
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 471a"
-generated_at: "2026-03-30T07:51:07.755Z"
+generated_at: "2026-03-30T07:56:29.788Z"
 status: "active"
 ---
 

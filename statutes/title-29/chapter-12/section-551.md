@@ -3,9 +3,9 @@ title: "Section 551 - Establishment of Department; Secretary; seal"
 usc_title: 29
 usc_section: "551"
 chapter: 12
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 551"
-generated_at: "2026-03-30T07:51:27.330Z"
+generated_at: "2026-03-30T07:57:32.010Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1727 - Repealed. Pub. L. 90–384 , § 1(a), July 5, 1968 , 82 S
 usc_title: 18
 usc_section: "1727"
 chapter: 83
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "18 U.S.C. § 1727"
-generated_at: "2026-03-30T07:51:00.575Z"
+generated_at: "2026-03-30T07:55:54.263Z"
 status: "repealed"
 ---
 

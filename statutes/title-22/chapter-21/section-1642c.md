@@ -3,9 +3,9 @@ title: "Section 1642c - Determination of validity and amount of claims"
 usc_title: 22
 usc_section: "1642c"
 chapter: 21
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 1642c"
-generated_at: "2026-03-30T07:51:13.617Z"
+generated_at: "2026-03-30T07:56:40.740Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2148 - Separation for failure of selection for promotion or cont
 usc_title: 14
 usc_section: "2148"
 chapter: 21
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "14 U.S.C. § 2148"
-generated_at: "2026-03-30T07:50:50.372Z"
+generated_at: "2026-03-30T07:55:38.754Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9833 - Advanced Placement and International Baccalaureate progra
 usc_title: 20
 usc_section: "9833"
 chapter: 78
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 9833"
-generated_at: "2026-03-30T07:51:05.177Z"
+generated_at: "2026-03-30T07:56:08.067Z"
 status: "active"
 ---
 

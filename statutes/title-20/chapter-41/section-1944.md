@@ -3,9 +3,9 @@ title: "Section 1944 - Repealed. Pub. L. 95–561, title XV , § 1529, Nov. 1, 1
 usc_title: 20
 usc_section: "1944"
 chapter: 41
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1944"
-generated_at: "2026-03-30T07:51:05.120Z"
+generated_at: "2026-03-30T07:56:08.017Z"
 status: "repealed"
 ---
 

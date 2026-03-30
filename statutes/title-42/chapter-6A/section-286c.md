@@ -3,9 +3,9 @@ title: "Section 286c - Purpose, establishment, functions, and funding of Nationa
 usc_title: 42
 usc_section: "286c"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 286c"
-generated_at: "2026-03-30T07:52:13.182Z"
+generated_at: "2026-03-30T07:58:06.202Z"
 status: "active"
 ---
 

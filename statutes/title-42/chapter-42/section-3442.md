@@ -3,9 +3,9 @@ title: "Section 3442 - Repealed. Pub. L. 90–574, title III , § 303(b), Oct. 1
 usc_title: 42
 usc_section: "3442"
 chapter: 42
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 3442"
-generated_at: "2026-03-30T07:52:13.530Z"
+generated_at: "2026-03-30T07:58:06.548Z"
 status: "repealed"
 ---
 

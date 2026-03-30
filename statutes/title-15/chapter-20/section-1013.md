@@ -3,9 +3,9 @@ title: "Section 1013 - Suspension until June 30, 1948 , of application of certai
 usc_title: 15
 usc_section: "1013"
 chapter: 20
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 1013"
-generated_at: "2026-03-30T07:50:53.579Z"
+generated_at: "2026-03-30T07:55:36.954Z"
 status: "active"
 ---
 

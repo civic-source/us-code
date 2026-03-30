@@ -3,9 +3,9 @@ title: "Section 1523 - Omitted"
 usc_title: 42
 usc_section: "1523"
 chapter: 9
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1523"
-generated_at: "2026-03-30T07:52:13.458Z"
+generated_at: "2026-03-30T07:58:06.475Z"
 status: "omitted"
 ---
 

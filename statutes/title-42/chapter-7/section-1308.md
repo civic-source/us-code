@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-30T07:52:13.304Z"
+generated_at: "2026-03-30T07:58:06.324Z"
 status: "active"
 ---
 

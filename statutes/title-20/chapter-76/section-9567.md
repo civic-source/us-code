@@ -3,9 +3,9 @@ title: "Section 9567 - Establishment"
 usc_title: 20
 usc_section: "9567"
 chapter: 76
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 9567"
-generated_at: "2026-03-30T07:51:05.173Z"
+generated_at: "2026-03-30T07:56:08.065Z"
 status: "active"
 ---
 

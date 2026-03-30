@@ -3,9 +3,9 @@ title: "Section 577b - Cost of operation and maintenance of general navigation f
 usc_title: 33
 usc_section: "577b"
 chapter: 12
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "33 U.S.C. § 577b"
-generated_at: "2026-03-30T07:51:38.220Z"
+generated_at: "2026-03-30T07:57:37.846Z"
 status: "active"
 ---
 

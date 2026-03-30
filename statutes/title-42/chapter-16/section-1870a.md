@@ -3,9 +3,9 @@ title: "Section 1870a - Buy-American requirements"
 usc_title: 42
 usc_section: "1870a"
 chapter: 16
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1870a"
-generated_at: "2026-03-30T07:52:13.482Z"
+generated_at: "2026-03-30T07:58:06.499Z"
 status: "active"
 ---
 

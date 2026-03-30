@@ -3,9 +3,9 @@ title: "Section 1066f - HBCU Capital Financing Advisory Board"
 usc_title: 20
 usc_section: "1066f"
 chapter: 28
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1066f"
-generated_at: "2026-03-30T07:51:05.061Z"
+generated_at: "2026-03-30T07:56:07.961Z"
 status: "active"
 ---
 

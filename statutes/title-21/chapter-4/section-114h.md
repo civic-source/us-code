@@ -3,9 +3,9 @@ title: "Section 114h - Repealed. Pub. L. 107–171, title X , § 10418(a)(10), (
 usc_title: 21
 usc_section: "114h"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "21 U.S.C. § 114h"
-generated_at: "2026-03-30T07:51:21.554Z"
+generated_at: "2026-03-30T07:56:37.632Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1616q - Exemption from payment of certain fees"
 usc_title: 25
 usc_section: "1616q"
 chapter: 18
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "25 U.S.C. § 1616q"
-generated_at: "2026-03-30T07:51:22.611Z"
+generated_at: "2026-03-30T07:57:04.515Z"
 status: "active"
 ---
 

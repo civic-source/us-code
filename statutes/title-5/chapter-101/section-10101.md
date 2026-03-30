@@ -3,9 +3,9 @@ title: "Section 10101 - Definitions"
 usc_title: 5
 usc_section: "10101"
 chapter: 101
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "5 U.S.C. § 10101"
-generated_at: "2026-03-30T07:50:37.229Z"
+generated_at: "2026-03-30T07:54:54.991Z"
 status: "active"
 ---
 

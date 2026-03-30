@@ -3,9 +3,9 @@ title: "Section 377a - Limitation on use of funds where organizations or individ
 usc_title: 43
 usc_section: "377a"
 chapter: 12
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 377a"
-generated_at: "2026-03-30T07:52:30.917Z"
+generated_at: "2026-03-30T07:57:46.416Z"
 status: "active"
 ---
 

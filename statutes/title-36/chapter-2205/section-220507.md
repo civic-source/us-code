@@ -3,9 +3,9 @@ title: "Section 220507 - Restrictions"
 usc_title: 36
 usc_section: "220507"
 chapter: 2205
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "36 U.S.C. § 220507"
-generated_at: "2026-03-30T07:51:43.180Z"
+generated_at: "2026-03-30T07:57:40.122Z"
 status: "active"
 ---
 

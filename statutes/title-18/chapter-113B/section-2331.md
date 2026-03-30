@@ -3,9 +3,9 @@ title: "Section 2331 - Definitions"
 usc_title: 18
 usc_section: "2331"
 chapter: 113
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "18 U.S.C. § 2331"
-generated_at: "2026-03-30T07:51:00.585Z"
+generated_at: "2026-03-30T07:55:54.273Z"
 status: "active"
 ---
 

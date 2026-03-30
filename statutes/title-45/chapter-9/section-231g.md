@@ -3,9 +3,9 @@ title: "Section 231g - Court jurisdiction"
 usc_title: 45
 usc_section: "231g"
 chapter: 9
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "45 U.S.C. § 231g"
-generated_at: "2026-03-30T07:52:05.928Z"
+generated_at: "2026-03-30T07:57:50.507Z"
 status: "active"
 ---
 

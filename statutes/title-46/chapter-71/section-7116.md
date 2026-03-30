@@ -3,9 +3,9 @@ title: "Section 7116 - Examinations for merchant mariner credentials"
 usc_title: 46
 usc_section: "7116"
 chapter: 71
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "46 U.S.C. § 7116"
-generated_at: "2026-03-30T07:52:44.404Z"
+generated_at: "2026-03-30T07:58:11.863Z"
 status: "active"
 ---
 

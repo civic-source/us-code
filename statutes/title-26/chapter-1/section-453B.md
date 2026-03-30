@@ -3,9 +3,9 @@ title: "Section 453B - Gain or loss on disposition of installment obligations"
 usc_title: 26
 usc_section: "453B"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 453B"
-generated_at: "2026-03-30T07:51:34.166Z"
+generated_at: "2026-03-30T07:57:29.721Z"
 status: "active"
 ---
 

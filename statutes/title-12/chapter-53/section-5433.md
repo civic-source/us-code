@@ -3,9 +3,9 @@ title: "Section 5433 - Property transferred"
 usc_title: 12
 usc_section: "5433"
 chapter: 53
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "12 U.S.C. § 5433"
-generated_at: "2026-03-30T07:50:57.251Z"
+generated_at: "2026-03-30T07:55:50.864Z"
 status: "active"
 ---
 

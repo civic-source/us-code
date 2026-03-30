@@ -3,9 +3,9 @@ title: "Section 2601 - Refugees and migration"
 usc_title: 22
 usc_section: "2601"
 chapter: 36
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 2601"
-generated_at: "2026-03-30T07:51:13.650Z"
+generated_at: "2026-03-30T07:56:40.781Z"
 status: "active"
 ---
 

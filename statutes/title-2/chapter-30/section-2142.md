@@ -3,9 +3,9 @@ title: "Section 2142 - Superintendent of Botanic Garden and greenhouses"
 usc_title: 2
 usc_section: "2142"
 chapter: 30
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "2 U.S.C. § 2142"
-generated_at: "2026-03-30T07:50:35.323Z"
+generated_at: "2026-03-30T07:55:02.769Z"
 status: "active"
 ---
 

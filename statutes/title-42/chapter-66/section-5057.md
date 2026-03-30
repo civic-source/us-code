@@ -3,9 +3,9 @@ title: "Section 5057 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "5057"
 chapter: 66
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 5057"
-generated_at: "2026-03-30T07:52:13.555Z"
+generated_at: "2026-03-30T07:58:06.574Z"
 status: "active"
 ---
 

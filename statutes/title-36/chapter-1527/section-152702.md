@@ -3,9 +3,9 @@ title: "Section 152702 - Organization"
 usc_title: 36
 usc_section: "152702"
 chapter: 1527
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "36 U.S.C. § 152702"
-generated_at: "2026-03-30T07:51:43.177Z"
+generated_at: "2026-03-30T07:57:40.118Z"
 status: "active"
 ---
 

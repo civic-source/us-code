@@ -3,9 +3,9 @@ title: "Section 10508 - Voting assistance for blind, disabled or illiterate pers
 usc_title: 52
 usc_section: "10508"
 chapter: 105
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "52 U.S.C. § 10508"
-generated_at: "2026-03-30T07:52:55.879Z"
+generated_at: "2026-03-30T07:58:23.571Z"
 status: "active"
 ---
 

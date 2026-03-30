@@ -3,9 +3,9 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T07:52:13.358Z"
+generated_at: "2026-03-30T07:58:06.375Z"
 status: "active"
 ---
 
@@ -459,4 +459,4 @@ status: "active"
       - **(ii)** the Secretary shall consider applying administrative actions, such as remedies described in section 1395w–27(g)(2) of this title , at the plan level.
   - **(7)**
     - **(A)** The Secretary shall determine the feasibility of requiring reporting of data under section 1395w–22(e) of this title for, and applying under this subsection, quality measures at the plan level for all MA plans under this part.
-    - **(B)** After making a determination under subparagraph (A), the Secretary shall consider requiring such reporting and applying such quality measures at the plan level as described in such subparagraph
+    - **(B)** After making a determination under subparagraph (A), the Secretary shall consider requiring such reporting and applying such quality measures at the plan level as described in such subparagraph 3

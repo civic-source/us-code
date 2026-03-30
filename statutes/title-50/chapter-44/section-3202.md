@@ -3,9 +3,9 @@ title: "Section 3202 - Education partnerships"
 usc_title: 50
 usc_section: "3202"
 chapter: 44
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "50 U.S.C. § 3202"
-generated_at: "2026-03-30T07:52:49.875Z"
+generated_at: "2026-03-30T07:58:11.043Z"
 status: "active"
 ---
 

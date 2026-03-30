@@ -3,9 +3,9 @@ title: "Section 3530 - Adjusting accounts"
 usc_title: 31
 usc_section: "3530"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "31 U.S.C. § 3530"
-generated_at: "2026-03-30T07:51:40.826Z"
+generated_at: "2026-03-30T07:57:34.660Z"
 status: "active"
 ---
 

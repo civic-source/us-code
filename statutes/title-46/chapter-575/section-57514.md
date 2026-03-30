@@ -3,9 +3,9 @@ title: "Section 57514 - Qualifications of bidders"
 usc_title: 46
 usc_section: "57514"
 chapter: 575
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "46 U.S.C. § 57514"
-generated_at: "2026-03-30T07:52:44.428Z"
+generated_at: "2026-03-30T07:58:11.884Z"
 status: "active"
 ---
 

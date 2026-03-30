@@ -3,9 +3,9 @@ title: "Section 720a - Issuance of certificate of public convenience and necessi
 usc_title: 15
 usc_section: "720a"
 chapter: 15
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 720a"
-generated_at: "2026-03-30T07:50:53.576Z"
+generated_at: "2026-03-30T07:55:36.951Z"
 status: "active"
 ---
 

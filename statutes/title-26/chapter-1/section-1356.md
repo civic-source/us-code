@@ -3,9 +3,9 @@ title: "Section 1356 - Qualifying shipping activities"
 usc_title: 26
 usc_section: "1356"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "26 U.S.C. § 1356"
-generated_at: "2026-03-30T07:51:34.223Z"
+generated_at: "2026-03-30T07:57:29.776Z"
 status: "active"
 ---
 

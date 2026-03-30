@@ -3,9 +3,9 @@ title: "Section 1772 - Vegetation managment, facility inspection, and operation 
 usc_title: 43
 usc_section: "1772"
 chapter: 35
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-03-30T07:52:30.963Z"
+generated_at: "2026-03-30T07:57:46.463Z"
 status: "active"
 ---
 

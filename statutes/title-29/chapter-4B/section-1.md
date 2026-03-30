@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of appropriations"
 usc_title: 29
 usc_section: "1"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-30T07:51:27.322Z"
+generated_at: "2026-03-30T07:57:32.001Z"
 status: "active"
 ---
 

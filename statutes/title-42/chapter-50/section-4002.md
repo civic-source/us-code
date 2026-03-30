@@ -3,9 +3,9 @@ title: "Section 4002 - Additional Congressional findings and declaration of purp
 usc_title: 42
 usc_section: "4002"
 chapter: 50
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 4002"
-generated_at: "2026-03-30T07:52:13.537Z"
+generated_at: "2026-03-30T07:58:06.555Z"
 status: "active"
 ---
 

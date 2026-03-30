@@ -3,9 +3,9 @@ title: "Section 893 - Financing extortionate extensions of credit"
 usc_title: 18
 usc_section: "893"
 chapter: 42
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "18 U.S.C. § 893"
-generated_at: "2026-03-30T07:51:00.561Z"
+generated_at: "2026-03-30T07:55:54.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3592 - Mitigating and aggravating factors to be considered in de
 usc_title: 18
 usc_section: "3592"
 chapter: 228
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "18 U.S.C. § 3592"
-generated_at: "2026-03-30T07:51:00.599Z"
+generated_at: "2026-03-30T07:55:54.287Z"
 status: "active"
 ---
 

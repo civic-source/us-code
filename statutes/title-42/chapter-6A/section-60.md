@@ -3,9 +3,9 @@ title: "Section 60 - Rule of construction regarding delegation of authority to S
 usc_title: 42
 usc_section: "60"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 60"
-generated_at: "2026-03-30T07:52:13.235Z"
+generated_at: "2026-03-30T07:58:06.257Z"
 status: "active"
 ---
 

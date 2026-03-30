@@ -3,9 +3,9 @@ title: "Section 8047 - Legislative Assistant to the Commandant"
 usc_title: 10
 usc_section: "8047"
 chapter: 806
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 8047"
-generated_at: "2026-03-30T07:50:48.320Z"
+generated_at: "2026-03-30T07:55:12.993Z"
 status: "active"
 ---
 

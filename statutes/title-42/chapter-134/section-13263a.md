@@ -3,9 +3,9 @@ title: "Section 13263a - Alternative compliance"
 usc_title: 42
 usc_section: "13263a"
 chapter: 134
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 13263a"
-generated_at: "2026-03-30T07:52:13.745Z"
+generated_at: "2026-03-30T07:58:06.766Z"
 status: "active"
 ---
 

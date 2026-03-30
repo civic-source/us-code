@@ -3,9 +3,9 @@ title: "Section 14505 - State tax"
 usc_title: 49
 usc_section: "14505"
 chapter: 145
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "49 U.S.C. § 14505"
-generated_at: "2026-03-30T07:52:37.138Z"
+generated_at: "2026-03-30T07:58:21.900Z"
 status: "active"
 ---
 

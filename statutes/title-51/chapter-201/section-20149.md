@@ -3,9 +3,9 @@ title: "Section 20149 - Medical monitoring and research relating to human space 
 usc_title: 51
 usc_section: "20149"
 chapter: 201
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "51 U.S.C. § 20149"
-generated_at: "2026-03-30T07:53:03.484Z"
+generated_at: "2026-03-30T07:58:24.230Z"
 status: "active"
 ---
 

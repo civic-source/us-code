@@ -3,9 +3,9 @@ title: "Section 3 - Availability of contributions received"
 usc_title: 43
 usc_section: "3"
 chapter: 8
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T07:52:30.914Z"
+generated_at: "2026-03-30T07:57:46.414Z"
 status: "active"
 ---
 

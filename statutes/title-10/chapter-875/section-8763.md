@@ -3,9 +3,9 @@ title: "Section 8763 - Useless ordnance material: disposition of proceeds on sal
 usc_title: 10
 usc_section: "8763"
 chapter: 875
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "10 U.S.C. § 8763"
-generated_at: "2026-03-30T07:50:48.328Z"
+generated_at: "2026-03-30T07:55:13.001Z"
 status: "active"
 ---
 

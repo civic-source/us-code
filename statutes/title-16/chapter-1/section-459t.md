@@ -3,9 +3,9 @@ title: "Section 459t - Secretary of the Interior authorized to execute deeds and
 usc_title: 16
 usc_section: "459t"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 459t"
-generated_at: "2026-03-30T07:51:07.724Z"
+generated_at: "2026-03-30T07:56:29.758Z"
 status: "active"
 ---
 

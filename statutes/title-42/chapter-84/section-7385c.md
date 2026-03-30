@@ -3,9 +3,9 @@ title: "Section 7385c - Exclusivity of remedy against the United States and agai
 usc_title: 42
 usc_section: "7385c"
 chapter: 84
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 7385c"
-generated_at: "2026-03-30T07:52:13.620Z"
+generated_at: "2026-03-30T07:58:06.640Z"
 status: "active"
 ---
 

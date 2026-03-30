@@ -3,9 +3,9 @@ title: "Section 154709 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "154709"
 chapter: 1547
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "36 U.S.C. § 154709"
-generated_at: "2026-03-30T07:51:43.178Z"
+generated_at: "2026-03-30T07:57:40.120Z"
 status: "active"
 ---
 

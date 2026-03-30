@@ -3,9 +3,9 @@ title: "Section 1437u - Family Self-Sufficiency program"
 usc_title: 42
 usc_section: "1437u"
 chapter: 8
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "42 U.S.C. § 1437u"
-generated_at: "2026-03-30T07:52:13.447Z"
+generated_at: "2026-03-30T07:58:06.464Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2369 - Repealed. Pub. L. 95–424, title VI , § 604, Oct. 6, 19
 usc_title: 22
 usc_section: "2369"
 chapter: 32
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 2369"
-generated_at: "2026-03-30T07:51:13.638Z"
+generated_at: "2026-03-30T07:56:40.766Z"
 status: "repealed"
 ---
 

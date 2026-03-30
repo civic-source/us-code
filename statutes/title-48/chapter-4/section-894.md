@@ -3,9 +3,9 @@ title: "Section 894 - Salary and traveling expenses; payment"
 usc_title: 48
 usc_section: "894"
 chapter: 4
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "48 U.S.C. § 894"
-generated_at: "2026-03-30T07:52:40.143Z"
+generated_at: "2026-03-30T07:58:15.973Z"
 status: "active"
 ---
 

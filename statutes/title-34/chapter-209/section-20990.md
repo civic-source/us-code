@@ -3,9 +3,9 @@ title: "Section 20990 - National registry of substantiated cases of child abuse"
 usc_title: 34
 usc_section: "20990"
 chapter: 209
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "34 U.S.C. § 20990"
-generated_at: "2026-03-30T07:51:39.278Z"
+generated_at: "2026-03-30T07:57:36.500Z"
 status: "active"
 ---
 

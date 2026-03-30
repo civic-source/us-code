@@ -3,9 +3,9 @@ title: "Section 20206 - Powers"
 usc_title: 36
 usc_section: "20206"
 chapter: 202
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "36 U.S.C. § 20206"
-generated_at: "2026-03-30T07:51:43.163Z"
+generated_at: "2026-03-30T07:57:40.105Z"
 status: "active"
 ---
 

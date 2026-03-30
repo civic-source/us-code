@@ -3,9 +3,9 @@ title: "Section 4517 - Appropriations for universities"
 usc_title: 20
 usc_section: "4517"
 chapter: 57
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 4517"
-generated_at: "2026-03-30T07:51:05.134Z"
+generated_at: "2026-03-30T07:56:08.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460kk - Establishment"
 usc_title: 16
 usc_section: "460kk"
 chapter: 1
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 460kk"
-generated_at: "2026-03-30T07:51:07.737Z"
+generated_at: "2026-03-30T07:56:29.770Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1716 - Voluntary adoption of remedies"
 usc_title: 20
 usc_section: "1716"
 chapter: 39
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 1716"
-generated_at: "2026-03-30T07:51:05.120Z"
+generated_at: "2026-03-30T07:56:08.016Z"
 status: "active"
 ---
 

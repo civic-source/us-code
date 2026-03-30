@@ -3,9 +3,9 @@ title: "Section 373 - Records"
 usc_title: 21
 usc_section: "373"
 chapter: 9
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "21 U.S.C. § 373"
-generated_at: "2026-03-30T07:51:21.588Z"
+generated_at: "2026-03-30T07:56:37.667Z"
 status: "active"
 ---
 

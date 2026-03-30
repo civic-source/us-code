@@ -3,9 +3,9 @@ title: "Section 1106 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1106"
 chapter: 14
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 1106"
-generated_at: "2026-03-30T07:51:13.611Z"
+generated_at: "2026-03-30T07:56:40.734Z"
 status: "repealed"
 ---
 

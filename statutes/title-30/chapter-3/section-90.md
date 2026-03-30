@@ -3,9 +3,9 @@ title: "Section 90 - Selection of coal lands by States; sale in isolated or disc
 usc_title: 30
 usc_section: "90"
 chapter: 3
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "30 U.S.C. § 90"
-generated_at: "2026-03-30T07:51:24.931Z"
+generated_at: "2026-03-30T07:57:17.985Z"
 status: "active"
 ---
 

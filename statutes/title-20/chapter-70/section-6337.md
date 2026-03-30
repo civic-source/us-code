@@ -3,9 +3,9 @@ title: "Section 6337 - Education finance incentive grant program"
 usc_title: 20
 usc_section: "6337"
 chapter: 70
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "20 U.S.C. § 6337"
-generated_at: "2026-03-30T07:51:05.145Z"
+generated_at: "2026-03-30T07:56:08.038Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3645 - Northern and Southern Funds; treaty implementation; addit
 usc_title: 16
 usc_section: "3645"
 chapter: 56
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "16 U.S.C. § 3645"
-generated_at: "2026-03-30T07:51:07.865Z"
+generated_at: "2026-03-30T07:56:29.899Z"
 status: "active"
 ---
 

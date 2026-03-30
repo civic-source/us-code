@@ -3,9 +3,9 @@ title: "Section 8d - Notification, nondistribution, and recall of controlled sub
 usc_title: 21
 usc_section: "8d"
 chapter: 9
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "21 U.S.C. § 8d"
-generated_at: "2026-03-30T07:51:21.584Z"
+generated_at: "2026-03-30T07:56:37.662Z"
 status: "active"
 ---
 

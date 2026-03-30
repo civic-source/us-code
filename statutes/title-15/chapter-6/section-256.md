@@ -3,9 +3,9 @@ title: "Section 256 - Repealed. Pub. L. 90–628 , § 1(a), Oct. 22, 1968 , 82 S
 usc_title: 15
 usc_section: "256"
 chapter: 6
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "15 U.S.C. § 256"
-generated_at: "2026-03-30T07:50:53.539Z"
+generated_at: "2026-03-30T07:55:36.917Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2152c - Programs to encourage good governance"
 usc_title: 22
 usc_section: "2152c"
 chapter: 32
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "22 U.S.C. § 2152c"
-generated_at: "2026-03-30T07:51:13.626Z"
+generated_at: "2026-03-30T07:56:40.750Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3151 - Establishment of one-stop delivery systems"
 usc_title: 29
 usc_section: "3151"
 chapter: 32
-current_through: "PL 116-12"
+current_through: "PL 116-16"
 classification: "29 U.S.C. § 3151"
-generated_at: "2026-03-30T07:51:27.381Z"
+generated_at: "2026-03-30T07:57:32.066Z"
 status: "active"
 ---
 
