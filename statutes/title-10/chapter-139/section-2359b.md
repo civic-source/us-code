@@ -3,9 +3,9 @@ title: "Section 2359b - Defense Acquisition Challenge Program"
 usc_title: 10
 usc_section: "2359b"
 chapter: 139
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2359b"
-generated_at: "2026-03-30T04:35:16.533Z"
+generated_at: "2026-03-30T04:38:16.467Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 560 - Scrambling of cable channels for nonsubscribers"
 usc_title: 47
 usc_section: "560"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "47 U.S.C. § 560"
-generated_at: "2026-03-30T04:37:17.308Z"
+generated_at: "2026-03-30T04:40:22.761Z"
 status: "active"
 ---
 

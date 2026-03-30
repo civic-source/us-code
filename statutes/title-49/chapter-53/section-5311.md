@@ -3,9 +3,9 @@ title: "Section 5311 - Formula grants for rural areas"
 usc_title: 49
 usc_section: "5311"
 chapter: 53
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "49 U.S.C. § 5311"
-generated_at: "2026-03-30T04:37:48.235Z"
+generated_at: "2026-03-30T04:40:22.016Z"
 status: "active"
 ---
 
@@ -41,8 +41,8 @@ status: "active"
     - **(G)** ridership.
 - **(c)**
   - **(1)** Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
-    - **(A)** $5,000,000 for each fiscal year ending before October 1, 2014 , and $4,164,384 for the period beginning on October 1, 2014 , and ending on July 31, 2015 , shall be distributed on a competitive basis by the Secretary.
-    - **(B)** $25,000,000 for each fiscal year ending before October 1, 2014 , and $20,821,918 for the period beginning on October 1, 2014 , and ending on July 31, 2015 , shall be apportioned as formula grants, as provided in subsection (j).
+    - **(A)** $5,000,000 for each fiscal year ending before October 1, 2015 , and $396,175 for the period beginning on October 1, 2015 , and ending on October 29, 2015 , shall be distributed on a competitive basis by the Secretary.
+    - **(B)** $25,000,000 for each fiscal year ending before October 1, 2015 , and $1,980,874 for the period beginning on October 1, 2015 , and ending on October 29, 2015 , shall be apportioned as formula grants, as provided in subsection (j).
   - **(2)**
     - **(A)** In this paragraph—
       - **(i)** the term “Appalachian region” has the same meaning as in section 14102 of title 40 ; and

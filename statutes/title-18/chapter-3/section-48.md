@@ -3,9 +3,9 @@ title: "Section 48 - Animal crush videos"
 usc_title: 18
 usc_section: "48"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "18 U.S.C. § 48"
-generated_at: "2026-03-30T04:36:11.809Z"
+generated_at: "2026-03-30T04:38:47.787Z"
 status: "active"
 ---
 

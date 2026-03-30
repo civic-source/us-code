@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T04:35:45.386Z"
+generated_at: "2026-03-30T04:38:29.292Z"
 status: "active"
 ---
 

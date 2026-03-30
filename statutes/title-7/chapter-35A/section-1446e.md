@@ -3,9 +3,9 @@ title: "Section 1446e - Repealed. Pub. L. 104–127, title I, § 141(g) , Apr. 4
 usc_title: 7
 usc_section: "1446e"
 chapter: 35
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 1446e"
-generated_at: "2026-03-30T04:35:39.987Z"
+generated_at: "2026-03-30T04:38:22.401Z"
 status: "repealed"
 ---
 

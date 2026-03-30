@@ -3,9 +3,9 @@ title: "Section 1304a - Technical assistance to CBP"
 usc_title: 19
 usc_section: "1304a"
 chapter: 4
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 1304a"
-generated_at: "2026-03-30T04:36:05.642Z"
+generated_at: "2026-03-30T04:38:32.908Z"
 status: "active"
 ---
 

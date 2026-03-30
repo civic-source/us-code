@@ -3,9 +3,9 @@ title: "Section 3032h - Multidisciplinary centers and multidisciplinary systems"
 usc_title: 42
 usc_section: "3032h"
 chapter: 35
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 3032h"
-generated_at: "2026-03-30T04:37:13.523Z"
+generated_at: "2026-03-30T04:40:14.868Z"
 status: "active"
 ---
 

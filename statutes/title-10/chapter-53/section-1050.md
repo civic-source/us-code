@@ -3,9 +3,9 @@ title: "Section 1050 - Latin American cooperation: payment of personnel expenses
 usc_title: 10
 usc_section: "1050"
 chapter: 53
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 1050"
-generated_at: "2026-03-30T04:35:16.491Z"
+generated_at: "2026-03-30T04:38:16.424Z"
 status: "active"
 ---
 

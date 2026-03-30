@@ -3,9 +3,9 @@ title: "Section 10203 - Technical assistance to non-nuclear weapon states in fie
 usc_title: 42
 usc_section: "10203"
 chapter: 108
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 10203"
-generated_at: "2026-03-30T04:37:13.719Z"
+generated_at: "2026-03-30T04:40:15.059Z"
 status: "active"
 ---
 

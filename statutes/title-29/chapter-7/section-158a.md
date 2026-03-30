@@ -3,9 +3,9 @@ title: "Section 158a - Providing facilities for operations of Federal Credit Uni
 usc_title: 29
 usc_section: "158a"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "29 U.S.C. § 158a"
-generated_at: "2026-03-30T04:36:21.413Z"
+generated_at: "2026-03-30T04:39:30.243Z"
 status: "active"
 ---
 

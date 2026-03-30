@@ -3,9 +3,9 @@ title: "Section 539p - Southeast Arizona land exchange and conservation"
 usc_title: 16
 usc_section: "539p"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 539p"
-generated_at: "2026-03-30T04:36:10.321Z"
+generated_at: "2026-03-30T04:38:37.452Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
         - **(II)** make a cash payment to the United States; or
         - **(III)** use a combination of the methods described in subclauses (I) and (II), as agreed to by Resolution Copper, the Secretary, and the Secretary of the Interior.
       - **(ii)** The Secretary may accept a payment in excess of 25 percent of the total value of the land or interests conveyed, notwithstanding section 206(b) of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1716(b) ).
-      - **(iii)** Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”; 16 U.S.C. 484a ) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+      - **(iii)** Any amounts received by the United States under this subparagraph shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
     - **(C)** If the final appraised value of the non-Federal land exceeds the value of the Federal land—
       - **(i)** the United States shall not make a payment to Resolution Copper to equalize the value; and
       - **(ii)** except as provided in subsection (h), the surplus value of the non-Federal land shall be considered to be a donation by Resolution Copper to the United States.
@@ -96,7 +96,7 @@ status: "active"
         - **(I)** become part of the national forest in which the land is located; and
         - **(II)** be administered in accordance with the laws applicable to the National Forest System.
       - **(ii)** On the acquisition of land by the Secretary under this section, the boundaries of the national forest shall be modified to reflect the inclusion of the acquired land.
-      - **(iii)** For purposes of section 460 l –9 of this title, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965 .
+      - **(iii)** For purposes of sections 100506(c) and 200306 of title 54, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965 .
     - **(B)**
       - **(i)**
         - **(I)** The land acquired by the Secretary of the Interior under paragraph (1)(B)(i) shall be added to, and administered as part of, the San Pedro National 1 Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
@@ -142,7 +142,7 @@ status: "active"
     - **(B)** The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport” and dated March 2011.
     - **(C)** The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels” and dated March 2011.
   - **(2)** The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this subsection, as determined by appraisals conducted in accordance with subsection (c)(4).
-  - **(3)** Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) ( 16 U.S.C. 484a ) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+  - **(3)** Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
   - **(4)** The conveyances under this subsection shall be subject to such terms and conditions as the Secretary may require.
 - **(i)**
   - **(1)**

@@ -3,9 +3,9 @@ title: "Section 228eto228z1 - Omitted"
 usc_title: 45
 usc_section: "228eto228z1"
 chapter: 9
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "45 U.S.C. § 228eto228z1"
-generated_at: "2026-03-30T04:36:57.065Z"
+generated_at: "2026-03-30T04:39:59.363Z"
 status: "omitted"
 ---
 

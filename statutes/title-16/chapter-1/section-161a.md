@@ -3,9 +3,9 @@ title: "Section 161a - Part of Waterton-Glacier International Peace Park"
 usc_title: 16
 usc_section: "161a"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 161a"
-generated_at: "2026-03-30T04:36:10.237Z"
+generated_at: "2026-03-30T04:38:37.371Z"
 status: "active"
 ---
 

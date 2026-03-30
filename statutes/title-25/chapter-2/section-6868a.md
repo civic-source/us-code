@@ -3,9 +3,9 @@ title: "Section 6868a - Repealed. Pub. L. 96–277, § 2 , June 17, 1980 , 94 St
 usc_title: 25
 usc_section: "6868a"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 6868a"
-generated_at: "2026-03-30T04:36:15.479Z"
+generated_at: "2026-03-30T04:39:06.135Z"
 status: "repealed"
 ---
 

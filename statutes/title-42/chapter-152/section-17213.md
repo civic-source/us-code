@@ -3,9 +3,9 @@ title: "Section 17213 - National Marine Renewable Energy Research, Development, 
 usc_title: 42
 usc_section: "17213"
 chapter: 152
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 17213"
-generated_at: "2026-03-30T04:37:13.834Z"
+generated_at: "2026-03-30T04:40:15.174Z"
 status: "active"
 ---
 

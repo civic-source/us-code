@@ -3,9 +3,9 @@ title: "Section 70h - Guaranty"
 usc_title: 15
 usc_section: "70h"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 70h"
-generated_at: "2026-03-30T04:35:45.343Z"
+generated_at: "2026-03-30T04:38:29.244Z"
 status: "active"
 ---
 

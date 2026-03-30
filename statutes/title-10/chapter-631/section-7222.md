@@ -3,9 +3,9 @@ title: "Section 7222 - Naval Historical Center Fund: references to Fund"
 usc_title: 10
 usc_section: "7222"
 chapter: 631
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 7222"
-generated_at: "2026-03-30T04:35:16.571Z"
+generated_at: "2026-03-30T04:38:16.506Z"
 status: "active"
 ---
 

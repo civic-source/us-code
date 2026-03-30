@@ -3,9 +3,9 @@ title: "Section 10a - Oversight actions by Corporation"
 usc_title: 12
 usc_section: "10a"
 chapter: 23
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "12 U.S.C. § 10a"
-generated_at: "2026-03-30T04:35:51.221Z"
+generated_at: "2026-03-30T04:38:27.291Z"
 status: "active"
 ---
 

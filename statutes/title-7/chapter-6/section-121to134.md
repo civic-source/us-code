@@ -3,9 +3,9 @@ title: "Section 121to134 - Repealed. June 25, 1947, ch. 125, § 16 , 61 Stat. 17
 usc_title: 7
 usc_section: "121to134"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 121to134"
-generated_at: "2026-03-30T04:35:39.939Z"
+generated_at: "2026-03-30T04:38:22.354Z"
 status: "repealed"
 ---
 

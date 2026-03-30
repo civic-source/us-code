@@ -3,9 +3,9 @@ title: "Section 5592 - Priorities"
 usc_title: 42
 usc_section: "5592"
 chapter: 71
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 5592"
-generated_at: "2026-03-30T04:37:13.585Z"
+generated_at: "2026-03-30T04:40:14.928Z"
 status: "active"
 ---
 

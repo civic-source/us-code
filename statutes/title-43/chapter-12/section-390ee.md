@@ -3,9 +3,9 @@ title: "Section 390ee - Pricing"
 usc_title: 43
 usc_section: "390ee"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "43 U.S.C. § 390ee"
-generated_at: "2026-03-30T04:36:57.587Z"
+generated_at: "2026-03-30T04:40:02.186Z"
 status: "active"
 ---
 

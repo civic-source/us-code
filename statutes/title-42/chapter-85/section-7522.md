@@ -3,9 +3,9 @@ title: "Section 7522 - Prohibited acts"
 usc_title: 42
 usc_section: "7522"
 chapter: 85
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 7522"
-generated_at: "2026-03-30T04:37:13.653Z"
+generated_at: "2026-03-30T04:40:14.995Z"
 status: "active"
 ---
 

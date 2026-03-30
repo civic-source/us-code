@@ -3,9 +3,9 @@ title: "Section 3007 - Seniors farmers’ market nutrition program"
 usc_title: 7
 usc_section: "3007"
 chapter: 63
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 3007"
-generated_at: "2026-03-30T04:35:40.041Z"
+generated_at: "2026-03-30T04:38:22.455Z"
 status: "active"
 ---
 

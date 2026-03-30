@@ -3,9 +3,9 @@ title: "Section 13993 - Cooperation in developing programs in making grants unde
 usc_title: 42
 usc_section: "13993"
 chapter: 136
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 13993"
-generated_at: "2026-03-30T04:37:13.785Z"
+generated_at: "2026-03-30T04:40:15.127Z"
 status: "active"
 ---
 

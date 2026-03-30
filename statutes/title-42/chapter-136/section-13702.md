@@ -3,9 +3,9 @@ title: "Section 13702 - Authorization of grants"
 usc_title: 42
 usc_section: "13702"
 chapter: 136
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 13702"
-generated_at: "2026-03-30T04:37:13.779Z"
+generated_at: "2026-03-30T04:40:15.121Z"
 status: "active"
 ---
 

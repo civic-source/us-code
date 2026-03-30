@@ -3,9 +3,9 @@ title: "Section 1100to1100a3 - Omitted"
 usc_title: 16
 usc_section: "1100to1100a3"
 chapter: 21
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 1100to1100a3"
-generated_at: "2026-03-30T04:36:10.372Z"
+generated_at: "2026-03-30T04:38:37.501Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2601 - Collection and adjustment of debts"
 usc_title: 39
 usc_section: "2601"
 chapter: 26
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "39 U.S.C. § 2601"
-generated_at: "2026-03-30T04:36:45.616Z"
+generated_at: "2026-03-30T04:39:42.157Z"
 status: "active"
 ---
 

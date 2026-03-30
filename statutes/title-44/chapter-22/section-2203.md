@@ -3,9 +3,9 @@ title: "Section 2203 - Management and custody of Presidential records"
 usc_title: 44
 usc_section: "2203"
 chapter: 22
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "44 U.S.C. § 2203"
-generated_at: "2026-03-30T04:36:56.853Z"
+generated_at: "2026-03-30T04:39:59.688Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
 - **(c)** During the President’s term of office, the President may dispose of those Presidential records of such President that no longer have administrative, historical, informational, or evidentiary value if—
   - **(1)** the President obtains the views, in writing, of the Archivist concerning the proposed disposal of such Presidential records; and
   - **(2)** the Archivist states that the Archivist does not intend to take any action under subsection (e) of this section.
-- **(d)** In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential rec­ords if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
+- **(d)** In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
 - **(e)** The Archivist shall request the advice of the Committee on Rules and Administration and the Committee on Governmental Affairs of the Senate and the Committee on House Oversight and the Committee on Government Operations of the House of Representatives with respect to any proposed disposal of Presidential records whenever the Archivist considers that—
   - **(1)** these particular records may be of special interest to the Congress; or
   - **(2)** consultation with the Congress regarding the disposal of these particular records is in the public interest.

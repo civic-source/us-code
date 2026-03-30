@@ -3,9 +3,9 @@ title: "Section 1395a - Free choice by patient guaranteed"
 usc_title: 42
 usc_section: "1395a"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 1395a"
-generated_at: "2026-03-30T04:37:13.330Z"
+generated_at: "2026-03-30T04:40:14.679Z"
 status: "active"
 ---
 

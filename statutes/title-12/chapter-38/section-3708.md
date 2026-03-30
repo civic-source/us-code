@@ -3,9 +3,9 @@ title: "Section 3708 - Service of notice of default and foreclosure sale"
 usc_title: 12
 usc_section: "3708"
 chapter: 38
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "12 U.S.C. § 3708"
-generated_at: "2026-03-30T04:35:51.236Z"
+generated_at: "2026-03-30T04:38:27.306Z"
 status: "active"
 ---
 

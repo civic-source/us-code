@@ -3,9 +3,9 @@ title: "Section 1153 - Assistance to separated members to obtain employment with
 usc_title: 10
 usc_section: "1153"
 chapter: 58
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 1153"
-generated_at: "2026-03-30T04:35:16.501Z"
+generated_at: "2026-03-30T04:38:16.433Z"
 status: "active"
 ---
 

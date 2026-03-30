@@ -3,9 +3,9 @@ title: "Section 11361 - Housing affordability strategy"
 usc_title: 42
 usc_section: "11361"
 chapter: 119
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 11361"
-generated_at: "2026-03-30T04:37:13.734Z"
+generated_at: "2026-03-30T04:40:15.072Z"
 status: "active"
 ---
 

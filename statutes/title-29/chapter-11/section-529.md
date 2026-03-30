@@ -3,9 +3,9 @@ title: "Section 529 - Prohibition on certain discipline by labor organization"
 usc_title: 29
 usc_section: "529"
 chapter: 11
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "29 U.S.C. § 529"
-generated_at: "2026-03-30T04:36:21.420Z"
+generated_at: "2026-03-30T04:39:30.250Z"
 status: "active"
 ---
 

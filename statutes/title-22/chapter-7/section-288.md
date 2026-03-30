@@ -3,9 +3,9 @@ title: "Section 288 - “International organization” defined; authority of Pre
 usc_title: 22
 usc_section: "288"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 288"
-generated_at: "2026-03-30T04:36:18.212Z"
+generated_at: "2026-03-30T04:39:08.176Z"
 status: "active"
 ---
 

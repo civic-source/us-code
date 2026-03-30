@@ -3,9 +3,9 @@ title: "Section 1111 - Annual reports: time for furnishing manuscript and proofs
 usc_title: 44
 usc_section: "1111"
 chapter: 11
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "44 U.S.C. § 1111"
-generated_at: "2026-03-30T04:36:56.850Z"
+generated_at: "2026-03-30T04:39:59.684Z"
 status: "active"
 ---
 

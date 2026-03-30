@@ -3,9 +3,9 @@ title: "Section 7 - Activities of Foundation and United States Forest Service"
 usc_title: 16
 usc_section: "7"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T04:36:10.332Z"
+generated_at: "2026-03-30T04:38:37.463Z"
 status: "active"
 ---
 

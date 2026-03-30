@@ -3,9 +3,9 @@ title: "Section 690l - Examinations"
 usc_title: 15
 usc_section: "690l"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 690l"
-generated_at: "2026-03-30T04:35:45.412Z"
+generated_at: "2026-03-30T04:38:29.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8243 - Duties of Secretary"
 usc_title: 42
 usc_section: "8243"
 chapter: 91
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 8243"
-generated_at: "2026-03-30T04:37:13.675Z"
+generated_at: "2026-03-30T04:40:15.016Z"
 status: "active"
 ---
 

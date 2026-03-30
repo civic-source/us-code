@@ -3,9 +3,9 @@ title: "Section 3552 - Implementation of Rules of Origin work program"
 usc_title: 19
 usc_section: "3552"
 chapter: 22
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 3552"
-generated_at: "2026-03-30T04:36:05.693Z"
+generated_at: "2026-03-30T04:38:32.963Z"
 status: "active"
 ---
 

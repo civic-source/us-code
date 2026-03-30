@@ -3,9 +3,9 @@ title: "Section 343ato343c1 - Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 
 usc_title: 7
 usc_section: "343ato343c1"
 chapter: 13
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 343ato343c1"
-generated_at: "2026-03-30T04:35:39.957Z"
+generated_at: "2026-03-30T04:38:22.372Z"
 status: "repealed"
 ---
 

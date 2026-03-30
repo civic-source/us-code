@@ -3,9 +3,9 @@ title: "Section 1780f - Conveyances"
 usc_title: 25
 usc_section: "1780f"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 1780f"
-generated_at: "2026-03-30T04:36:15.539Z"
+generated_at: "2026-03-30T04:39:06.196Z"
 status: "active"
 ---
 

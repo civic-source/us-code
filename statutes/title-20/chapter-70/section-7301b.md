@@ -3,9 +3,9 @@ title: "Section 7301b - Funding"
 usc_title: 20
 usc_section: "7301b"
 chapter: 70
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 7301b"
-generated_at: "2026-03-30T04:36:07.781Z"
+generated_at: "2026-03-30T04:38:34.811Z"
 status: "active"
 ---
 

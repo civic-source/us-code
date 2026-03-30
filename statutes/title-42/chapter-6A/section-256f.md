@@ -3,9 +3,9 @@ title: "Section 256f - Designated dental health professional shortage area"
 usc_title: 42
 usc_section: "256f"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 256f"
-generated_at: "2026-03-30T04:37:13.167Z"
+generated_at: "2026-03-30T04:40:14.521Z"
 status: "active"
 ---
 

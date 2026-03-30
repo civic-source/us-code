@@ -3,9 +3,9 @@ title: "Section 2513 - Gift by husband or wife to third party"
 usc_title: 26
 usc_section: "2513"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 2513"
-generated_at: "2026-03-30T04:36:32.181Z"
+generated_at: "2026-03-30T04:39:18.144Z"
 status: "active"
 ---
 

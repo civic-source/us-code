@@ -3,9 +3,9 @@ title: "Section 410uuu - Manhattan Project National Historical Park"
 usc_title: 16
 usc_section: "410uuu"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 410uuu"
-generated_at: "2026-03-30T04:36:10.269Z"
+generated_at: "2026-03-30T04:38:37.402Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
       - **(v)** the Hanford Irrigation District Pump House; and
       - **(vi)** the T Plant (221–T Process Building).
 - **(d)**
-  - **(1)** Not later than 1 year after December 19, 2014 , the Secretary and the Secretary of Energy (acting through the Oak Ridge, Los Alamos, and Richland site offices) shall enter into an agreement governing the respective roles of the Secretary and the Secretary of Energy in administering the facilities, land, or interests in land under the administrative jurisdiction of the Department of Energy that is to be included in the Historical Park under subsection (c)(2), including provisions for enhanced public access, management, interpretation, and historic preservation.
+  - **(1)** Not later than 1 year after December 19, 2014 , the Secretary and the Secretary of Energy (acting through the Oak Ridge, Los Alamos, and Richland site offices) shall enter into an agreement governing the respective roles of the Secretary and the Secretary of Energy in administering the facilities, land, or interests in land under the administrative jurisdiction of the Department of Energy that is 1 1 So in original. Probably should be “are”. to be included in the Historical Park under subsection (c)(2), including provisions for enhanced public access, management, interpretation, and historic preservation.
   - **(2)** Any agreement under paragraph (1) shall provide that the Secretary shall—
     - **(A)** have decisionmaking authority for the content of historic interpretation of the Manhattan Project for purposes of administering the Historical Park; and
     - **(B)** ensure that the agreement provides an appropriate advisory role for the National Park Service in preserving the historic resources covered by the agreement.
@@ -64,8 +64,8 @@ status: "active"
   - **(1)** The Secretary shall administer the Historical Park in accordance with—
     - **(A)** this section; and
     - **(B)** the laws generally applicable to units of the National Park System, including—
-      - **(i)** the National Park System Organic Act ( 16 U.S.C. 1 et seq.); 1 1 See References in Text note below. and
-      - **(ii)** the Act of August 21, 1935 ( 16 U.S.C. 461 et seq.). 1
+      - **(i)** the National Park System Organic Act ( 16 U.S.C. 1 et seq.); 2 2 See References in Text note below. and
+      - **(ii)** the Act of August 21, 1935 ( 16 U.S.C. 461 et seq.). 2
   - **(2)** Not later than 3 years after the date on which funds are made available to carry out this subsection, the Secretary, with the concurrence of the Secretary of Energy, with respect to land administered by the Secretary of Energy, and in consultation and collaboration with the Oak Ridge, Los Alamos and Richland Department of Energy site offices, shall complete a general management plan for the Historical Park in accordance with section 100502 of title 54 .
   - **(3)** The Secretary may, subject to applicable law, provide interpretive tours of historically significant Manhattan Project sites and resources in the States of Tennessee, New Mexico, and Washington that are located outside the boundary of the Historical Park.
   - **(4)**

@@ -3,9 +3,9 @@ title: "Section 1274 - Public agencies, public utilities, and public corporation
 usc_title: 30
 usc_section: "1274"
 chapter: 25
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "30 U.S.C. § 1274"
-generated_at: "2026-03-30T04:36:20.570Z"
+generated_at: "2026-03-30T04:39:10.876Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 59w - Norton Basin and Jamaica Bay, New York"
 usc_title: 33
 usc_section: "59w"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "33 U.S.C. § 59w"
-generated_at: "2026-03-30T04:36:42.171Z"
+generated_at: "2026-03-30T04:39:40.535Z"
 status: "active"
 ---
 

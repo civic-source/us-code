@@ -3,9 +3,9 @@ title: "Section 5539 - Commissions and charges for public telephone or telecommu
 usc_title: 2
 usc_section: "5539"
 chapter: 55
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 5539"
-generated_at: "2026-03-30T04:35:03.745Z"
+generated_at: "2026-03-30T04:38:08.942Z"
 status: "active"
 ---
 

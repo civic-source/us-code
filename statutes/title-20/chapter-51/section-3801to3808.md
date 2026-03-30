@@ -3,9 +3,9 @@ title: "Section 3801to3808 - Repealed. Pub. L. 100–297, title I, § 1003(a) , 
 usc_title: 20
 usc_section: "3801to3808"
 chapter: 51
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 3801to3808"
-generated_at: "2026-03-30T04:36:07.743Z"
+generated_at: "2026-03-30T04:38:34.772Z"
 status: "repealed"
 ---
 

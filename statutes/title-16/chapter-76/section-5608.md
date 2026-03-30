@@ -3,9 +3,9 @@ title: "Section 5608 - Administrative matters"
 usc_title: 16
 usc_section: "5608"
 chapter: 76
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 5608"
-generated_at: "2026-03-30T04:36:10.443Z"
+generated_at: "2026-03-30T04:38:37.572Z"
 status: "active"
 ---
 

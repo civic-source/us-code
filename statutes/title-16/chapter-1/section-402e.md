@@ -3,9 +3,9 @@ title: "Section 402e - Application of Federal Power Act"
 usc_title: 16
 usc_section: "402e"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 402e"
-generated_at: "2026-03-30T04:36:10.249Z"
+generated_at: "2026-03-30T04:38:37.383Z"
 status: "active"
 ---
 

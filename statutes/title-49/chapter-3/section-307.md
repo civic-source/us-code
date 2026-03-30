@@ -3,9 +3,9 @@ title: "Section 307 - Repealed. Pub. L. 112–141, div. C, title II, § 32932(a)
 usc_title: 49
 usc_section: "307"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "49 U.S.C. § 307"
-generated_at: "2026-03-30T04:37:48.222Z"
+generated_at: "2026-03-30T04:40:22.006Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12877 - Exemption"
 usc_title: 42
 usc_section: "12877"
 chapter: 130
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 12877"
-generated_at: "2026-03-30T04:37:13.766Z"
+generated_at: "2026-03-30T04:40:15.106Z"
 status: "active"
 ---
 

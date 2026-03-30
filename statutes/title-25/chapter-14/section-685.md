@@ -3,9 +3,9 @@ title: "Section 685 - Payment free of liens or claims"
 usc_title: 25
 usc_section: "685"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 685"
-generated_at: "2026-03-30T04:36:15.505Z"
+generated_at: "2026-03-30T04:39:06.161Z"
 status: "active"
 ---
 

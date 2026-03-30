@@ -3,9 +3,9 @@ title: "Section 6605 - Advisory group"
 usc_title: 16
 usc_section: "6605"
 chapter: 85
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 6605"
-generated_at: "2026-03-30T04:36:10.449Z"
+generated_at: "2026-03-30T04:38:37.578Z"
 status: "active"
 ---
 

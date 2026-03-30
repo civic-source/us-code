@@ -3,9 +3,9 @@ title: "Section 1074g - Pharmacy benefits program"
 usc_title: 10
 usc_section: "1074g"
 chapter: 55
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 1074g"
-generated_at: "2026-03-30T04:35:16.493Z"
+generated_at: "2026-03-30T04:38:16.427Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(6)**
     - **(A)** The Secretary, in the regulations prescribed under subsection (h), shall establish cost-sharing requirements under the pharmacy benefits program. In accordance with subparagraph (C), such cost-sharing requirements shall consist of the following:
       - **(i)** With respect to each supply of a prescription covering not more than 30 days that is obtained by a covered beneficiary under the TRICARE retail pharmacy program—
-        - **(I)** in the case of generic agents, $8;
+        - **(I)** in the case of generic agents, $8; 1 1 So in original. Probably should be followed by “and”.
         - **(II)** in the case of formulary agents, $20.
       - **(ii)** With respect to each supply of a prescription covering not more than 90 days that is obtained by a covered beneficiary under the national mail-order pharmacy program—
         - **(I)** in the case of generic agents, $0;

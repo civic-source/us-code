@@ -3,9 +3,9 @@ title: "Section 2351 - Availability of appropriations"
 usc_title: 10
 usc_section: "2351"
 chapter: 139
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2351"
-generated_at: "2026-03-30T04:35:16.533Z"
+generated_at: "2026-03-30T04:38:16.466Z"
 status: "active"
 ---
 

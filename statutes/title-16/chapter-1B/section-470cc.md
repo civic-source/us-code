@@ -3,9 +3,9 @@ title: "Section 470cc - Excavation and removal"
 usc_title: 16
 usc_section: "470cc"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 470cc"
-generated_at: "2026-03-30T04:36:10.313Z"
+generated_at: "2026-03-30T04:38:37.444Z"
 status: "active"
 ---
 
@@ -22,10 +22,10 @@ status: "active"
 - **(e)** Each permit under this section shall identify the individual who shall be responsible for carrying out the terms and conditions of the permit and for otherwise complying with this chapter and other law applicable to the permitted activity.
 - **(f)** Any permit issued under this section may be suspended by the Federal land manager upon his determination that the permittee has violated any provision of subsection (a), (b), or (c) of section 470ee of this title . Any such permit may be revoked by such Federal land manager upon assessment of a civil penalty under section 470ff of this title against the permittee or upon the permittee’s conviction under section 470ee of this title .
 - **(g)**
-  - **(1)** No permit shall be required under this section or under the Act of June 8, 1906 , 1 1 See References in Text note below. for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+  - **(1)** No permit shall be required under this section or under the Act of June 8, 1906 ( 16 U.S.C. 431 ), 1 1 See References in Text note below. for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
   - **(2)** In the case of any permits for the excavation or removal of any archaelogical 2 2 So in original. Probably should be “archaeological”. resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 - **(h)**
-  - **(1)** No permit or other permission shall be required under chapter 3203 of title 54, 3 3 So in original. The comma probably should not appear. for any activity for which a permit is issued under this section.
-  - **(2)** Any permit issued under chapter 3203 of title 54, 3 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54, 3 before October 31, 1979 , which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+  - **(1)** No permit or other permission shall be required under chapter 3203 of title 54 for any activity for which a permit is issued under this section.
+  - **(2)** Any permit issued under chapter 3203 of title 54 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54 before October 31, 1979 , which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 - **(i)** Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with section 306108 of title 54 .
 - **(j)** Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.

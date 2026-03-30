@@ -3,9 +3,9 @@ title: "Section 14135a - Collection and use of DNA identification information fr
 usc_title: 42
 usc_section: "14135a"
 chapter: 136
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 14135a"
-generated_at: "2026-03-30T04:37:13.793Z"
+generated_at: "2026-03-30T04:40:15.134Z"
 status: "active"
 ---
 

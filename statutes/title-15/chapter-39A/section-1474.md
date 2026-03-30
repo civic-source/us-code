@@ -3,9 +3,9 @@ title: "Section 1474 - Regulations for special packaging standards"
 usc_title: 15
 usc_section: "1474"
 chapter: 39
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 1474"
-generated_at: "2026-03-30T04:35:45.433Z"
+generated_at: "2026-03-30T04:38:29.343Z"
 status: "active"
 ---
 

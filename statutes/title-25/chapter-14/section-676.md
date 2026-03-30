@@ -3,9 +3,9 @@ title: "Section 676 - Use of funds of Southern Ute Tribe of Southern Ute Reserva
 usc_title: 25
 usc_section: "676"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 676"
-generated_at: "2026-03-30T04:36:15.502Z"
+generated_at: "2026-03-30T04:39:06.159Z"
 status: "active"
 ---
 

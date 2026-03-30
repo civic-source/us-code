@@ -3,9 +3,9 @@ title: "Section 6655 - Failure by corporation to pay estimated income tax"
 usc_title: 26
 usc_section: "6655"
 chapter: 68
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 6655"
-generated_at: "2026-03-30T04:36:32.244Z"
+generated_at: "2026-03-30T04:39:18.208Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(A)** the required installment, over
     - **(B)** the amount (if any) of the installment paid on or before the due date for the installment.
   - **(2)** The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier—
-    - **(A)** the 15th day of the 3rd month following the close of the taxable year, or
+    - **(A)** the 15th day of the 4th month following the close of the taxable year, or
     - **(B)** with respect to any portion of the underpayment, the date on which such portion is paid.
   - **(3)** For purposes of paragraph (2)(B), a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
 - **(c)** For purposes of this section—
@@ -116,9 +116,10 @@ status: "active"
         - **“(I)** the amount determined under clause (i) by only taking into account the taxes referred to in clauses (i) and (iii) of subsection (g)(4)(A), and
         - **“(II)** 100 percent of the tax imposed by section 1375(a) which was shown on the return of the corporation for the preceding taxable year.”
     - **(D)** The requirement in the last sentence of subsection (d)(1)(B) that the return for the preceding taxable year show a liability for tax shall not apply.
-    - **(E)** Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
+    - **(E)** Subsection (b)(2)(A) shall be applied by substituting “3rd month” for “4th month”.
+    - **(F)** Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
 - **(h)**
-  - **(1)** If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
+  - **(1)** If the amount of an adjustment under section 6425 made before the 15th day of the 4th month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
   - **(2)** For purposes of paragraph (1), the excessive amount is equal to the amount of the adjustment or (if smaller) the amount by which—
     - **(A)** the income tax liability (as defined in section 6425(c)) for the taxable year as shown on the return for the taxable year, exceeds
     - **(B)** the estimated income tax paid during the taxable year, reduced by the amount of the adjustment.

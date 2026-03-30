@@ -3,9 +3,9 @@ title: "Section 285286 - Repealed. Pub. L. 85–890, § 3 , Sept. 2, 1958 , 72 S
 usc_title: 15
 usc_section: "285286"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 285286"
-generated_at: "2026-03-30T04:35:45.388Z"
+generated_at: "2026-03-30T04:38:29.294Z"
 status: "repealed"
 ---
 

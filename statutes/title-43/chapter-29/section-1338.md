@@ -3,9 +3,9 @@ title: "Section 1338 - Disposition of revenues"
 usc_title: 43
 usc_section: "1338"
 chapter: 29
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "43 U.S.C. § 1338"
-generated_at: "2026-03-30T04:36:57.628Z"
+generated_at: "2026-03-30T04:40:02.208Z"
 status: "active"
 ---
 

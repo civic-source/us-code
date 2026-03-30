@@ -3,9 +3,9 @@ title: "Section 371 - Conspiracy to commit offense or to defraud United States"
 usc_title: 18
 usc_section: "371"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "18 U.S.C. § 371"
-generated_at: "2026-03-30T04:36:11.813Z"
+generated_at: "2026-03-30T04:38:47.794Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4141c - Authorization of appropriations"
 usc_title: 22
 usc_section: "4141c"
 chapter: 52
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 4141c"
-generated_at: "2026-03-30T04:36:18.283Z"
+generated_at: "2026-03-30T04:39:08.249Z"
 status: "active"
 ---
 

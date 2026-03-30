@@ -3,9 +3,9 @@ title: "Section 2230 - Surplus and excess Federal equipment"
 usc_title: 15
 usc_section: "2230"
 chapter: 49
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 2230"
-generated_at: "2026-03-30T04:35:45.464Z"
+generated_at: "2026-03-30T04:38:29.376Z"
 status: "active"
 ---
 

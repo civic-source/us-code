@@ -3,9 +3,9 @@ title: "Section 7101 - Issuing and classifying licenses and certificates of regi
 usc_title: 46
 usc_section: "7101"
 chapter: 71
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "46 U.S.C. § 7101"
-generated_at: "2026-03-30T04:37:18.965Z"
+generated_at: "2026-03-30T04:40:19.044Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6331 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "6331"
 chapter: 571
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 6331"
-generated_at: "2026-03-30T04:35:16.567Z"
+generated_at: "2026-03-30T04:38:16.503Z"
 status: "active"
 ---
 

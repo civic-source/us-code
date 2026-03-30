@@ -3,9 +3,9 @@ title: "Section 31704 - Vehicle registration"
 usc_title: 49
 usc_section: "31704"
 chapter: 317
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "49 U.S.C. § 31704"
-generated_at: "2026-03-30T04:37:48.268Z"
+generated_at: "2026-03-30T04:40:22.047Z"
 status: "active"
 ---
 

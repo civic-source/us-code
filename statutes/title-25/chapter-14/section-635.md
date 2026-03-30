@@ -3,9 +3,9 @@ title: "Section 635 - Disposition of lands"
 usc_title: 25
 usc_section: "635"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 635"
-generated_at: "2026-03-30T04:36:15.499Z"
+generated_at: "2026-03-30T04:39:06.156Z"
 status: "active"
 ---
 

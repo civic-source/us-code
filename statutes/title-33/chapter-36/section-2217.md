@@ -3,9 +3,9 @@ title: "Section 2217 - Limitation on applicability of certain provisions in repo
 usc_title: 33
 usc_section: "2217"
 chapter: 36
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "33 U.S.C. § 2217"
-generated_at: "2026-03-30T04:36:42.221Z"
+generated_at: "2026-03-30T04:39:40.582Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11906 - General criminal penalty when specific penalty not provi
 usc_title: 49
 usc_section: "11906"
 chapter: 119
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "49 U.S.C. § 11906"
-generated_at: "2026-03-30T04:37:48.244Z"
+generated_at: "2026-03-30T04:40:22.024Z"
 status: "active"
 ---
 

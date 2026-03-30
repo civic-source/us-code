@@ -3,9 +3,9 @@ title: "Section 3554 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3554"
 chapter: 35
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "44 U.S.C. § 3554"
-generated_at: "2026-03-30T04:36:56.857Z"
+generated_at: "2026-03-30T04:39:59.691Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(A)** information security risks associated with their activities; and
     - **(B)** their responsibilities in complying with agency policies and procedures designed to reduce these risks;
   - **(5)** periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices, to be performed with a frequency depending on risk, but no less than annually, of which such testing—
-    - **(A)** shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c); 1 1 See References in Text note below.
+    - **(A)** shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c); 1 1 So in original. Section 3505 contains two subsecs. (c).
     - **(B)** may include testing relied on in an evaluation under section 3555; and
     - **(C)** shall include using automated tools, consistent with standards and guidelines promulgated under section 11331 of title 40 ;
   - **(6)** a process for planning, implementing, evaluating, and documenting remedial action to address any deficiencies in the information security policies, procedures, and practices of the agency;

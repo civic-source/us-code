@@ -3,9 +3,9 @@ title: "Section 867868 - Repealed. Oct. 31, 1951, ch. 654, § 1(39) , (60), 65 S
 usc_title: 33
 usc_section: "867868"
 chapter: 17
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "33 U.S.C. § 867868"
-generated_at: "2026-03-30T04:36:42.190Z"
+generated_at: "2026-03-30T04:39:40.551Z"
 status: "repealed"
 ---
 

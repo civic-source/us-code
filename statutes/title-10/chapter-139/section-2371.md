@@ -3,9 +3,9 @@ title: "Section 2371 - Research projects: transactions other than contracts and 
 usc_title: 10
 usc_section: "2371"
 chapter: 139
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2371"
-generated_at: "2026-03-30T04:35:16.534Z"
+generated_at: "2026-03-30T04:38:16.468Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(2)** A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 - **(f)** There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 - **(g)** The Secretary of Defense shall prescribe regulations to carry out this section.
-- **[(h)** Repealed. Pub. L. 113–291, div. A, title X, § 1071(f)(20) , Dec. 19, 2014 , 128 Stat. 3511 ]
+- **[(h)** Repealed. Pub. L. 113–291, div. A, title X, § 1071(f)(20) , Dec. 19, 2014 , 128 Stat. 3511 .]
 - **(i)**
   - **(1)** Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for five years after the date on which the information is received by the Department of Defense.
   - **(2)**

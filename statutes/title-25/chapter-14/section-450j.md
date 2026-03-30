@@ -3,9 +3,9 @@ title: "Section 450j - Contract or grant provisions and administration"
 usc_title: 25
 usc_section: "450j"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 450j"
-generated_at: "2026-03-30T04:36:15.489Z"
+generated_at: "2026-03-30T04:39:06.146Z"
 status: "active"
 ---
 

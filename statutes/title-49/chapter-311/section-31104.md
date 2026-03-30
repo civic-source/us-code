@@ -3,9 +3,9 @@ title: "Section 31104 - Availability of amounts"
 usc_title: 49
 usc_section: "31104"
 chapter: 311
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "49 U.S.C. § 31104"
-generated_at: "2026-03-30T04:37:48.263Z"
+generated_at: "2026-03-30T04:40:22.043Z"
 status: "active"
 ---
 
@@ -20,8 +20,9 @@ status: "active"
   - **(6)** $209,000,000 for fiscal year 2010;
   - **(7)** $209,000,000 for fiscal year 2011;
   - **(8)** $215,000,000 for fiscal year 2013;
-  - **(9)** $218,000,000 for fiscal year 2014; and
-  - **(10)** $181,567,123 for the period beginning on October 1, 2014 , and ending on July 31, 2015 .
+  - **(9)** $218,000,000 for fiscal year 2014;
+  - **(10)** $218,000,000 for fiscal year 2015; and
+  - **(11)** $17,273,224 for the period beginning on October 1, 2015 , and ending on October 29, 2015 .
 - **(b)** Amounts made available under subsection (a) of this section remain available until expended. Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are released to the Secretary for reallocation.
 - **(c)** Amounts made available under subsection (a) of this section shall be used to reimburse States proportionately for the United States Government’s share of costs incurred.
 - **(d)** Approval by the Secretary of a grant to a State under section 31102 of this title is a contractual obligation of the Government for payment of the Government’s share of costs incurred by the State in developing, implementing, or developing and implementing programs to enforce commercial motor vehicle regulations, standards, and orders.
@@ -39,8 +40,9 @@ status: "active"
     - **(F)** $239,828,000 for fiscal year 2010;
     - **(G)** $244,144,000 for fiscal year 2011;
     - **(H)** $251,000,000 for fiscal year 2013;
-    - **(I)** $259,000,000 for fiscal year 2014; and
-    - **(J)** $215,715,068 for the period beginning on October 1, 2014 , and ending on July 31, 2015 .
+    - **(I)** $259,000,000 for fiscal year 2014;
+    - **(J)** $259,000,000 for fiscal year 2015; and
+    - **(K)** $20,521,858 for the period beginning on October 1, 2015 , and ending on October 29, 2015 .
   - **(2)** The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration information system management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
 - **(j)**
   - **(1)** The amounts made available under this section shall remain available until expended.
@@ -48,6 +50,6 @@ status: "active"
   - **(3)** Approval by the Secretary of a grant with funds made available under this section imposes upon the United States a contractual obligation for payment of the Government’s share of costs incurred in carrying out the objectives of the grant.
 - **(k)**
   - **(1)** The Secretary shall establish safety performance criteria to be used to distribute high priority program funds under this subsection.
-  - **(2)** The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014 , and ending on July 31, 2015 , for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
+  - **(2)** The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015 , and ending on October 29, 2015 , for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
   - **(3)** Amounts set aside under this subsection shall be allocated by the Secretary only to State agencies, local governments, and organizations representing government agencies or officials that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
   - **(4)** At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.

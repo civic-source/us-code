@@ -3,9 +3,9 @@ title: "Section 5081to5083 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 
 usc_title: 22
 usc_section: "5081to5083"
 chapter: 60
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 5081to5083"
-generated_at: "2026-03-30T04:36:18.290Z"
+generated_at: "2026-03-30T04:39:08.255Z"
 status: "repealed"
 ---
 

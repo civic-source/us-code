@@ -3,9 +3,9 @@ title: "Section 1014 - Basis of property acquired from a decedent"
 usc_title: 26
 usc_section: "1014"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 1014"
-generated_at: "2026-03-30T04:36:32.071Z"
+generated_at: "2026-03-30T04:39:18.115Z"
 status: "active"
 ---
 
@@ -38,3 +38,13 @@ status: "active"
   - **(2)** For purposes of paragraph (1)—
     - **(A)** The term “appreciated property” means any property if the fair market value of such property on the day it was transferred to the decedent by gift exceeds its adjusted basis.
     - **(B)** In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor, rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
+- **(f)** For purposes of this section—
+  - **(1)** The basis of any property to which subsection (a) applies shall not exceed—
+    - **(A)** in the case of property the final value of which has been determined for purposes of the tax imposed by chapter 11 on the estate of such decedent, such value, and
+    - **(B)** in the case of property not described in subparagraph (A) and with respect to which a statement has been furnished under section 6035(a) identifying the value of such property, such value.
+  - **(2)** Paragraph (1) shall only apply to any property whose inclusion in the decedent’s estate increased the liability for the tax imposed by chapter 11 (reduced by credits allowable against such tax) on such estate.
+  - **(3)** For purposes of paragraph (1), the basis of property has been determined for purposes of the tax imposed by chapter 11 if—
+    - **(A)** the value of such property is shown on a return under section 6018 and such value is not contested by the Secretary before the expiration of the time for assessing a tax under chapter 11,
+    - **(B)** in a case not described in subparagraph (A), the value is specified by the Secretary and such value is not timely contested by the executor of the estate, or
+    - **(C)** the value is determined by a court or pursuant to a settlement agreement with the Secretary.
+  - **(4)** The Secretary may by regulations provide exceptions to the application of this subsection.

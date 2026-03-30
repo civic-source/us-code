@@ -3,9 +3,9 @@ title: "Section 6507 - Hearing authority and procedures"
 usc_title: 41
 usc_section: "6507"
 chapter: 65
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "41 U.S.C. § 6507"
-generated_at: "2026-03-30T04:36:56.618Z"
+generated_at: "2026-03-30T04:40:05.897Z"
 status: "active"
 ---
 

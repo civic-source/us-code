@@ -3,9 +3,9 @@ title: "Section 10904 - Refusal to proceed"
 usc_title: 46
 usc_section: "10904"
 chapter: 109
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "46 U.S.C. § 10904"
-generated_at: "2026-03-30T04:37:18.970Z"
+generated_at: "2026-03-30T04:40:19.050Z"
 status: "active"
 ---
 

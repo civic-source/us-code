@@ -3,9 +3,9 @@ title: "Section 3349d - Notification of intent to nominate during certain recess
 usc_title: 5
 usc_section: "3349d"
 chapter: 33
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "5 U.S.C. § 3349d"
-generated_at: "2026-03-30T04:35:02.534Z"
+generated_at: "2026-03-30T04:38:05.841Z"
 status: "active"
 ---
 

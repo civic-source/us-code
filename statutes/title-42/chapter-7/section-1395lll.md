@@ -3,9 +3,9 @@ title: "Section 1395lll - Standardized post-acute care (PAC) assessment data for
 usc_title: 42
 usc_section: "1395lll"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 1395lll"
-generated_at: "2026-03-30T04:37:13.403Z"
+generated_at: "2026-03-30T04:40:14.750Z"
 status: "active"
 ---
 
@@ -132,5 +132,5 @@ status: "active"
   - **(3)** Such regulations shall not require an individual to be provided post-acute care by a specific type of PAC provider in order for such care to be eligible for payment under this subchapter.
 - **(j)** Before the initial rulemaking process to implement this section, the Secretary shall allow for stakeholder input, such as through town halls, open door forums, and mail-box submissions.
 - **(k)** For purposes of carrying out this section, the Secretary shall provide for the transfer to the Centers for Medicare & Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014 , and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
-- **(l)** There shall be no administrative or judicial review under sections 1395ff and 1395oo or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
-- **(m)**
+- **(l)** There shall be no administrative or judicial review under sections 1395ff and 1395 oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
+- **(m)** Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.

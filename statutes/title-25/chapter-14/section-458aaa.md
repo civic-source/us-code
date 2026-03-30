@@ -3,9 +3,9 @@ title: "Section 458aaa - Definitions"
 usc_title: 25
 usc_section: "458aaa"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 458aaa"
-generated_at: "2026-03-30T04:36:15.491Z"
+generated_at: "2026-03-30T04:39:06.148Z"
 status: "active"
 ---
 

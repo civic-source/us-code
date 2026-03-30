@@ -3,9 +3,9 @@ title: "Section 392 - Executive agents for cyber test and training ranges"
 usc_title: 10
 usc_section: "392"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 392"
-generated_at: "2026-03-30T04:35:16.470Z"
+generated_at: "2026-03-30T04:38:16.403Z"
 status: "active"
 ---
 

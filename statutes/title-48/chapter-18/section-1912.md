@@ -3,9 +3,9 @@ title: "Section 1912 - Jurisdiction"
 usc_title: 48
 usc_section: "1912"
 chapter: 18
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "48 U.S.C. § 1912"
-generated_at: "2026-03-30T04:37:17.630Z"
+generated_at: "2026-03-30T04:40:22.375Z"
 status: "active"
 ---
 

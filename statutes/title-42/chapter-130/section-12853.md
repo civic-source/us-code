@@ -3,9 +3,9 @@ title: "Section 12853 - National Homeownership Trust Fund"
 usc_title: 42
 usc_section: "12853"
 chapter: 130
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 12853"
-generated_at: "2026-03-30T04:37:13.765Z"
+generated_at: "2026-03-30T04:40:15.105Z"
 status: "active"
 ---
 

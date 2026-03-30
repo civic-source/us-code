@@ -3,9 +3,9 @@ title: "Section 1121to1123 - Repealed. Pub. L. 92–255, title I, § 104 , Mar. 
 usc_title: 21
 usc_section: "1121to1123"
 chapter: 16
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "21 U.S.C. § 1121to1123"
-generated_at: "2026-03-30T04:36:16.474Z"
+generated_at: "2026-03-30T04:38:52.759Z"
 status: "repealed"
 ---
 

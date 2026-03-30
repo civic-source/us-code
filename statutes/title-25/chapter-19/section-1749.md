@@ -3,9 +3,9 @@ title: "Section 1749 - Revocation of settlement"
 usc_title: 25
 usc_section: "1749"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 1749"
-generated_at: "2026-03-30T04:36:15.533Z"
+generated_at: "2026-03-30T04:39:06.190Z"
 status: "active"
 ---
 

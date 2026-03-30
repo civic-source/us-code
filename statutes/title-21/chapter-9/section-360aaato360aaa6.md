@@ -3,9 +3,9 @@ title: "Section 360aaato360aaa6 - Omitted"
 usc_title: 21
 usc_section: "360aaato360aaa6"
 chapter: 9
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "21 U.S.C. § 360aaato360aaa6"
-generated_at: "2026-03-30T04:36:16.437Z"
+generated_at: "2026-03-30T04:38:52.721Z"
 status: "omitted"
 ---
 

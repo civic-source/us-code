@@ -3,9 +3,9 @@ title: "Section 8447 - Repealed. Pub. L. 96–513, title II, § 207 , Dec. 12, 1
 usc_title: 10
 usc_section: "8447"
 chapter: 839
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 8447"
-generated_at: "2026-03-30T04:35:16.577Z"
+generated_at: "2026-03-30T04:38:16.512Z"
 status: "repealed"
 ---
 

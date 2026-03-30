@@ -3,9 +3,9 @@ title: "Section 192192a - Repealed. Pub. L. 91–412, § 3(a) , (b), Sept. 25, 1
 usc_title: 15
 usc_section: "192192a"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 192192a"
-generated_at: "2026-03-30T04:35:45.383Z"
+generated_at: "2026-03-30T04:38:29.288Z"
 status: "repealed"
 ---
 

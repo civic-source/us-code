@@ -3,9 +3,9 @@ title: "Section 475 - Annual installments on entries and contracts prior to Augu
 usc_title: 43
 usc_section: "475"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "43 U.S.C. § 475"
-generated_at: "2026-03-30T04:36:57.591Z"
+generated_at: "2026-03-30T04:40:02.191Z"
 status: "active"
 ---
 

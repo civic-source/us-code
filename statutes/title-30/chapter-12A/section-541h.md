@@ -3,9 +3,9 @@ title: "Section 541h - Savings provision"
 usc_title: 30
 usc_section: "541h"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "30 U.S.C. § 541h"
-generated_at: "2026-03-30T04:36:20.554Z"
+generated_at: "2026-03-30T04:39:10.859Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 153 - Existing laws unaffected by admission of Oklahoma; rights 
 usc_title: 16
 usc_section: "153"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 153"
-generated_at: "2026-03-30T04:36:10.236Z"
+generated_at: "2026-03-30T04:38:37.370Z"
 status: "active"
 ---
 

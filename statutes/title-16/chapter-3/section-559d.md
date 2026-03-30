@@ -3,9 +3,9 @@ title: "Section 559d - Cooperation with other Federal, State, and local law enfo
 usc_title: 16
 usc_section: "559d"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 559d"
-generated_at: "2026-03-30T04:36:10.328Z"
+generated_at: "2026-03-30T04:38:37.459Z"
 status: "active"
 ---
 

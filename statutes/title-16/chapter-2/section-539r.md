@@ -3,9 +3,9 @@ title: "Section 539r - Rocky Mountain Front Conservation Management Area and wil
 usc_title: 16
 usc_section: "539r"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 539r"
-generated_at: "2026-03-30T04:36:10.322Z"
+generated_at: "2026-03-30T04:38:37.454Z"
 status: "active"
 ---
 
@@ -60,8 +60,10 @@ status: "active"
     - **(A)** The designation of the Conservation Management Area shall not create a protective perimeter or buffer zone around the Conservation Management Area.
     - **(B)** The fact that activities or uses can be seen or heard from areas within the Conservation Management Area shall not preclude the conduct of the activities or uses outside the boundary of the Conservation Management Area.
 - **(c)**
-  - **(1)**
-  - **(2)** Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) 1 1 See Codification note below. shall be administered by the Secretary in accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014 .
+  - **(1)** In accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), the following Federal land in the State is designated as wilderness and as additions to existing components of the National Wilderness Preservation System:
+    - **(A)** Certain land in the Lewis and Clark National Forest, comprising approximately 50,401 acres, as generally depicted on the map, which shall be added to and administered as part of the Bob Marshall Wilderness designated under section 3 of the Wilderness Act ( 16 U.S.C. 1132 ).
+    - **(B)** Certain land in the Lewis and Clark National Forest, comprising approximately 16,711 acres, as generally depicted on the map, which shall be added to and administered as part of the Scapegoat Wilderness designated by the first section of Public Law 92–395 ( 16 U.S.C. 1132 note).
+  - **(2)** Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) shall be administered by the Secretary in accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014 .
   - **(3)** The grazing of livestock and the maintenance of existing facilities relating to grazing in the wilderness additions designated by this subsection, if established before December 19, 2014 , shall be permitted to continue in accordance with—
     - **(A)** section 4(d)(4) of the Wilderness Act ( 16 U.S.C. 1133(d)(4) ); and
     - **(B)** the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).

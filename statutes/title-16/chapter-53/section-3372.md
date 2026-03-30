@@ -3,9 +3,9 @@ title: "Section 3372 - Prohibited acts"
 usc_title: 16
 usc_section: "3372"
 chapter: 53
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 3372"
-generated_at: "2026-03-30T04:36:10.421Z"
+generated_at: "2026-03-30T04:38:37.550Z"
 status: "active"
 ---
 

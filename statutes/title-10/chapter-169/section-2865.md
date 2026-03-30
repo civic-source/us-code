@@ -3,9 +3,9 @@ title: "Section 2865 - Repealed. Pub. L. 109–364, div. B, title XXVIII, § 285
 usc_title: 10
 usc_section: "2865"
 chapter: 169
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2865"
-generated_at: "2026-03-30T04:35:16.553Z"
+generated_at: "2026-03-30T04:38:16.488Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 472 - Last-in, first-out inventories"
 usc_title: 26
 usc_section: "472"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 472"
-generated_at: "2026-03-30T04:36:32.030Z"
+generated_at: "2026-03-30T04:39:18.072Z"
 status: "active"
 ---
 

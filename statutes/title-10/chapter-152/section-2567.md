@@ -3,9 +3,9 @@ title: "Section 2567 - Repealed. Pub. L. 110–181, div. A, title X, § 1068(b)(
 usc_title: 10
 usc_section: "2567"
 chapter: 152
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2567"
-generated_at: "2026-03-30T04:35:16.543Z"
+generated_at: "2026-03-30T04:38:16.478Z"
 status: "repealed"
 ---
 

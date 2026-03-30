@@ -3,9 +3,9 @@ title: "Section 419 - Regulation by Secretary governing transportation and dumpi
 usc_title: 33
 usc_section: "419"
 chapter: 9
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "33 U.S.C. § 419"
-generated_at: "2026-03-30T04:36:42.174Z"
+generated_at: "2026-03-30T04:39:40.537Z"
 status: "active"
 ---
 

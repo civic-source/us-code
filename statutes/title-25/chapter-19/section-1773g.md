@@ -3,9 +3,9 @@ title: "Section 1773g - Jurisdiction"
 usc_title: 25
 usc_section: "1773g"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 1773g"
-generated_at: "2026-03-30T04:36:15.535Z"
+generated_at: "2026-03-30T04:39:06.193Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 423 - Authority to use proceeds from counterintelligence operati
 usc_title: 10
 usc_section: "423"
 chapter: 21
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 423"
-generated_at: "2026-03-30T04:35:16.470Z"
+generated_at: "2026-03-30T04:38:16.404Z"
 status: "active"
 ---
 

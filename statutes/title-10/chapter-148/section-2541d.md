@@ -3,9 +3,9 @@ title: "Section 2541d - Reports"
 usc_title: 10
 usc_section: "2541d"
 chapter: 148
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2541d"
-generated_at: "2026-03-30T04:35:16.543Z"
+generated_at: "2026-03-30T04:38:16.477Z"
 status: "active"
 ---
 

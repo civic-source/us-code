@@ -3,9 +3,9 @@ title: "Section 128129 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 8
 usc_title: 2
 usc_section: "128129"
 chapter: 4
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 128129"
-generated_at: "2026-03-30T04:35:03.708Z"
+generated_at: "2026-03-30T04:38:08.905Z"
 status: "repealed"
 ---
 

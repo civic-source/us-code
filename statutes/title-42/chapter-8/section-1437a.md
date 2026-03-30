@@ -3,9 +3,9 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T04:37:13.439Z"
+generated_at: "2026-03-30T04:40:14.786Z"
 status: "active"
 ---
 
@@ -59,7 +59,7 @@ status: "active"
   - **(2)**
     - **(A)** The term “low-income families” means those families whose incomes do not exceed 80 per centum of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
     - **(B)** The term “very low-income families” means low-income families whose incomes do not exceed 50 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 per centum of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
-    - **(C)** The term extremely low-income families 3 3 So in original. Probably should be “extremely low-income families”. means very low-income families whose incomes do not exceed the higher of—
+    - **(C)** The term extremely low-income families 3 3 So in original. Probably should be “ ‘extremely low-income families’ ”. means very low-income families whose incomes do not exceed the higher of—
       - **(i)** the poverty guidelines updated periodically by the Department of Health and Human Services under the authority of section 9902(2) of this title applicable to a family of the size involved (except that this clause shall not apply in the case of public housing agencies or projects located in Puerto Rico or any other territory or possession of the United States); or
       - **(ii)** 30 percent of the median family income for the area, as determined by the Secretary, with adjustments for smaller and larger families (except that the Secretary may establish income ceilings higher or lower than 30 percent of the median for the area on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes).
     - **(D)** Such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in section 1490 of this title , taking into account the subsidy characteristics and types of programs to which such ceilings apply. In determining median incomes (of persons, families, or households) for an area or establishing any ceilings or limits based on income under this chapter, the Secretary shall determine or establish area median incomes and income ceilings and limits for Westchester and Rockland Counties, in the State of New York, as if each such county were an area not contained within the metropolitan statistical area in which it is located. In determining such area median incomes or establishing such income ceilings or limits for the portion of such metropolitan statistical area that does not include Westchester or Rockland Counties, the Secretary shall determine or establish area median incomes and income ceilings and limits as if such portion included Westchester and Rockland Counties. In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area.

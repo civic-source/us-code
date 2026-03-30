@@ -3,9 +3,9 @@ title: "Section 390jj - Water conservation"
 usc_title: 43
 usc_section: "390jj"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "43 U.S.C. § 390jj"
-generated_at: "2026-03-30T04:36:57.587Z"
+generated_at: "2026-03-30T04:40:02.187Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 410ppp - Blackstone River Valley National Historical Park"
 usc_title: 16
 usc_section: "410ppp"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 410ppp"
-generated_at: "2026-03-30T04:36:10.268Z"
+generated_at: "2026-03-30T04:38:37.401Z"
 status: "active"
 ---
 
@@ -45,14 +45,14 @@ status: "active"
     - **(C)** The Secretary may include in the Park boundary any resources that are the subject of an agreement with the States or a subdivision of the States entered into under paragraph (4)(D).
     - **(D)** On the acquisition of additional land or interests in land under subparagraph (A), or on entering an agreement under subparagraph (C), the boundary of the Park shall be adjusted to reflect the acquisition or agreement by publishing a Park boundary map in the Federal Register.
     - **(E)** The maps referred to in this paragraph shall be available for public inspection in the appropriate offices of the National Park Service.
-    - **(F)** The Secretary may acquire not more than 10 acres in Woonsocket, Rhode Island for the development of administrative, curatorial, maintenance, or visitor facilities for the Park.
+    - **(F)** The Secretary may acquire not more than 10 acres in Woonsocket, Rhode Island 1 1 So in original. Probably should be followed by a comma. for the development of administrative, curatorial, maintenance, or visitor facilities for the Park.
     - **(G)** Land owned by the States or a political subdivision of the States may be acquired under this paragraph only by donation.
   - **(4)**
     - **(A)** The Secretary shall administer land within the boundary of the Park in accordance with—
       - **(i)** this subsection; and
       - **(ii)** the laws generally applicable to units of the National Park System, including—
-        - **(I)** the National Park Service Organic Act ( 16 U.S.C. 1 et seq.); 1 1 See References in Text note below. and
-        - **(II)** the Act of August 21, 1935 ( 16 U.S.C. 461 et seq.). 1
+        - **(I)** the National Park Service Organic Act ( 16 U.S.C. 1 et seq.); 2 2 See References in Text note below. and
+        - **(II)** the Act of August 21, 1935 ( 16 U.S.C. 461 et seq.). 2
     - **(B)**
       - **(i)** Not later than 3 years after the date on which funds are made available to carry out this subsection, the Secretary shall prepare a general management plan for the Park—
         - **(I)** in consultation with the States and other interested parties; and
@@ -71,7 +71,7 @@ status: "active"
         - **(I)** to provide technical assistance, interpretation, and educational programs in the historic sites and districts described in paragraph (2)(B); and
         - **(II)** subject to the availability of appropriations and clauses (ii) and (iii), to provide not more than 50 percent of the cost of any natural, historic, or cultural resource protection project in the Park that is consistent with the general management plan prepared under subparagraph (B).
       - **(ii)** As a condition of the receipt of funds under clause (i)(II), the Secretary shall require that any Federal funds made available under a cooperative agreement entered into under this paragraph are to be matched on a 1-to-1 basis by non-Federal funds.
-      - **(iii)** Any payment made by the Secretary under clause (i)(ii) 2 2 So in original. Probably should be “(i)(II)”. shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this subsection, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
+      - **(iii)** Any payment made by the Secretary under clause (i)(ii) 3 3 So in original. Probably should be “(i)(II)”. shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this subsection, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
         - **(I)** the amount provided by the Secretary to the project under clause (i)(II); or
         - **(II)** an amount equal to the increase in the value of the project that is attributable to the funds, as determined by the Secretary at the time of the conversion, use, or disposal.
       - **(iv)** Any cooperative agreement entered into under this subparagraph shall provide for reasonable public access to the resources covered by the cooperative agreement.

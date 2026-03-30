@@ -3,9 +3,9 @@ title: "Section 1070e - Child care access means parents in school"
 usc_title: 20
 usc_section: "1070e"
 chapter: 28
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 1070e"
-generated_at: "2026-03-30T04:36:07.685Z"
+generated_at: "2026-03-30T04:38:34.711Z"
 status: "active"
 ---
 

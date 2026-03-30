@@ -3,9 +3,9 @@ title: "Section 626 - Compensation of the Director and Deputy Director"
 usc_title: 28
 usc_section: "626"
 chapter: 42
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "28 U.S.C. § 626"
-generated_at: "2026-03-30T04:36:23.690Z"
+generated_at: "2026-03-30T04:39:21.261Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5131 - Organization"
 usc_title: 31
 usc_section: "5131"
 chapter: 51
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "31 U.S.C. § 5131"
-generated_at: "2026-03-30T04:36:35.181Z"
+generated_at: "2026-03-30T04:39:36.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1762 - Demonstration project relating to certain acquisition per
 usc_title: 10
 usc_section: "1762"
 chapter: 87
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 1762"
-generated_at: "2026-03-30T04:35:16.515Z"
+generated_at: "2026-03-30T04:38:16.449Z"
 status: "active"
 ---
 

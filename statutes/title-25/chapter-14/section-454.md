@@ -3,9 +3,9 @@ title: "Section 454 - Rules and regulations; minimum standards of service"
 usc_title: 25
 usc_section: "454"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 454"
-generated_at: "2026-03-30T04:36:15.490Z"
+generated_at: "2026-03-30T04:39:06.147Z"
 status: "active"
 ---
 

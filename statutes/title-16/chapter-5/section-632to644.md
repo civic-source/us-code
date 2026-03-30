@@ -3,9 +3,9 @@ title: "Section 632to644 - Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104
 usc_title: 16
 usc_section: "632to644"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 632to644"
-generated_at: "2026-03-30T04:36:10.335Z"
+generated_at: "2026-03-30T04:38:37.466Z"
 status: "repealed"
 ---
 

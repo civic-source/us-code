@@ -3,9 +3,9 @@ title: "Section 7602 - Immediate payment of fees in limited circumstances"
 usc_title: 15
 usc_section: "7602"
 chapter: 102
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 7602"
-generated_at: "2026-03-30T04:35:45.507Z"
+generated_at: "2026-03-30T04:38:29.422Z"
 status: "active"
 ---
 

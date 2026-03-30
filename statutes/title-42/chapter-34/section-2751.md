@@ -3,9 +3,9 @@ title: "Section 2751 - Purpose; appropriations authorized"
 usc_title: 42
 usc_section: "2751"
 chapter: 34
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 2751"
-generated_at: "2026-03-30T04:37:13.513Z"
+generated_at: "2026-03-30T04:40:14.857Z"
 status: "active"
 ---
 

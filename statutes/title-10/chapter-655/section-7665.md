@@ -3,9 +3,9 @@ title: "Section 7665 - Sale of prize"
 usc_title: 10
 usc_section: "7665"
 chapter: 655
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 7665"
-generated_at: "2026-03-30T04:35:16.574Z"
+generated_at: "2026-03-30T04:38:16.510Z"
 status: "active"
 ---
 

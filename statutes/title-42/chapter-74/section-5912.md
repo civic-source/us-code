@@ -3,9 +3,9 @@ title: "Section 5912 - Water resource assessments"
 usc_title: 42
 usc_section: "5912"
 chapter: 74
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 5912"
-generated_at: "2026-03-30T04:37:13.594Z"
+generated_at: "2026-03-30T04:40:14.936Z"
 status: "active"
 ---
 

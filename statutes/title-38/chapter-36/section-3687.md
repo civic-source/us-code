@@ -3,9 +3,9 @@ title: "Section 3687 - Apprenticeship or other on-job training"
 usc_title: 38
 usc_section: "3687"
 chapter: 36
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "38 U.S.C. § 3687"
-generated_at: "2026-03-30T04:36:54.824Z"
+generated_at: "2026-03-30T04:39:57.457Z"
 status: "active"
 ---
 

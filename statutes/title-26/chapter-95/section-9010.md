@@ -3,9 +3,9 @@ title: "Section 9010 - Participation by Commission in judicial proceedings"
 usc_title: 26
 usc_section: "9010"
 chapter: 95
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 9010"
-generated_at: "2026-03-30T04:36:32.267Z"
+generated_at: "2026-03-30T04:39:18.231Z"
 status: "active"
 ---
 

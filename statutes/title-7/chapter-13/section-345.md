@@ -3,9 +3,9 @@ title: "Section 345 - Replacement of diminished, lost or misapplied funds; restr
 usc_title: 7
 usc_section: "345"
 chapter: 13
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 345"
-generated_at: "2026-03-30T04:35:39.958Z"
+generated_at: "2026-03-30T04:38:22.372Z"
 status: "active"
 ---
 

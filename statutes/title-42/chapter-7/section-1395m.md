@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T04:37:13.342Z"
+generated_at: "2026-03-30T04:40:14.690Z"
 status: "active"
 ---
 
@@ -37,8 +37,9 @@ status: "active"
   - **(2)**
     - **(A)** Payment for an item of durable medical equipment (as defined in paragraph (13))—
       - **(i)** the purchase price of which does not exceed $150,
-      - **(ii)** which the Secretary determines is acquired at least 75 percent of the time by purchase, or
-      - **(iii)** which is an accessory used in conjunction with a nebulizer, aspirator, or a ventilator excluded under paragraph (3)(A),
+      - **(ii)** which the Secretary determines is acquired at least 75 percent of the time by purchase,
+      - **(iii)** which is an accessory used in conjunction with a nebulizer, aspirator, or a ventilator excluded under paragraph (3)(A), or
+      - **(iv)** in the case of devices furnished on or after October 1, 2015 , and before October 1, 2018 , which serves as a speech generating device or which is an accessory that is needed for the individual to effectively utilize such a device,
     - **(B)** For purposes of subparagraph (A), the amount specified in this subparagraph, with respect to the purchase or rental of an item furnished in a carrier service area—
       - **(i)** in 1989 and in 1990 is the average reasonable charge in the area for the purchase or rental, respectively, of the item for the 12-month period ending on June 30, 1987 , increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 6-month period ending with December 1987;
       - **(ii)** in 1991 is the sum of (I) 67 percent of the local payment amount for the item or device computed under subparagraph (C)(i)(I) for 1991, and (II) 33 percent of the national limited payment amount for the item or device computed under subparagraph (C)(ii) for 1991;

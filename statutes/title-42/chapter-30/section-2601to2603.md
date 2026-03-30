@@ -3,9 +3,9 @@ title: "Section 2601to2603 - Repealed. Pub. L. 93–203, title VII, § 714 , for
 usc_title: 42
 usc_section: "2601to2603"
 chapter: 30
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 2601to2603"
-generated_at: "2026-03-30T04:37:13.512Z"
+generated_at: "2026-03-30T04:40:14.857Z"
 status: "repealed"
 ---
 

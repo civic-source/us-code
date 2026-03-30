@@ -3,9 +3,9 @@ title: "Section 1834 - Reduced assessment rate for deposits attributable to life
 usc_title: 12
 usc_section: "1834"
 chapter: 16
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "12 U.S.C. § 1834"
-generated_at: "2026-03-30T04:35:51.208Z"
+generated_at: "2026-03-30T04:38:27.278Z"
 status: "active"
 ---
 

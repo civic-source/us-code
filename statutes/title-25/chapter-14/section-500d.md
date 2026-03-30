@@ -3,9 +3,9 @@ title: "Section 500d - Acceptance and expenditure of Federal funds"
 usc_title: 25
 usc_section: "500d"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 500d"
-generated_at: "2026-03-30T04:36:15.495Z"
+generated_at: "2026-03-30T04:39:06.152Z"
 status: "active"
 ---
 

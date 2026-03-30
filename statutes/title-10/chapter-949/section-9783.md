@@ -3,9 +3,9 @@ title: "Section 9783 - Johnston Atoll: reimbursement for support provided to civ
 usc_title: 10
 usc_section: "9783"
 chapter: 949
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 9783"
-generated_at: "2026-03-30T04:35:16.582Z"
+generated_at: "2026-03-30T04:38:16.518Z"
 status: "active"
 ---
 

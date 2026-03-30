@@ -3,9 +3,9 @@ title: "Section 6911 - Financial assistance for language instruction educational
 usc_title: 20
 usc_section: "6911"
 chapter: 70
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 6911"
-generated_at: "2026-03-30T04:36:07.770Z"
+generated_at: "2026-03-30T04:38:34.799Z"
 status: "active"
 ---
 

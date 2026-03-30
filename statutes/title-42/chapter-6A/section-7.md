@@ -3,9 +3,9 @@ title: "Section 7 - Prohibition on excessive waiting periods"
 usc_title: 42
 usc_section: "7"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T04:37:13.258Z"
+generated_at: "2026-03-30T04:40:14.609Z"
 status: "active"
 ---
 

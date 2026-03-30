@@ -3,9 +3,9 @@ title: "Section 15 - Jurisdiction"
 usc_title: 25
 usc_section: "15"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 15"
-generated_at: "2026-03-30T04:36:15.516Z"
+generated_at: "2026-03-30T04:39:06.172Z"
 status: "active"
 ---
 

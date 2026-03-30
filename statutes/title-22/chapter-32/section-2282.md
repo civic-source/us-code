@@ -3,9 +3,9 @@ title: "Section 2282 - Assistance for commercial debt exchanges"
 usc_title: 22
 usc_section: "2282"
 chapter: 32
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 2282"
-generated_at: "2026-03-30T04:36:18.239Z"
+generated_at: "2026-03-30T04:39:08.203Z"
 status: "active"
 ---
 

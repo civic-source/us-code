@@ -3,9 +3,9 @@ title: "Section 488f - Protection from civil liability"
 usc_title: 6
 usc_section: "488f"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "6 U.S.C. § 488f"
-generated_at: "2026-03-30T04:35:13.243Z"
+generated_at: "2026-03-30T04:38:10.781Z"
 status: "active"
 ---
 

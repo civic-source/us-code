@@ -3,9 +3,9 @@ title: "Section 3596 - Implementation of a sentence of death"
 usc_title: 18
 usc_section: "3596"
 chapter: 228
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "18 U.S.C. § 3596"
-generated_at: "2026-03-30T04:36:11.857Z"
+generated_at: "2026-03-30T04:38:47.842Z"
 status: "active"
 ---
 

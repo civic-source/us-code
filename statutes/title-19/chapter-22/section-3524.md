@@ -3,9 +3,9 @@ title: "Section 3524 - Consultation and layover requirements for, and effective 
 usc_title: 19
 usc_section: "3524"
 chapter: 22
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 3524"
-generated_at: "2026-03-30T04:36:05.692Z"
+generated_at: "2026-03-30T04:38:32.962Z"
 status: "active"
 ---
 

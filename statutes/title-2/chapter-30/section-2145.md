@@ -3,9 +3,9 @@ title: "Section 2145 - Restriction on use of appropriation for Botanic Garden"
 usc_title: 2
 usc_section: "2145"
 chapter: 30
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 2145"
-generated_at: "2026-03-30T04:35:03.737Z"
+generated_at: "2026-03-30T04:38:08.934Z"
 status: "active"
 ---
 

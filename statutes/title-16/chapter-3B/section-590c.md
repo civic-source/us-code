@@ -3,9 +3,9 @@ title: "Section 590c - Conditions under which benefits of law extended to nongov
 usc_title: 16
 usc_section: "590c"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 590c"
-generated_at: "2026-03-30T04:36:10.332Z"
+generated_at: "2026-03-30T04:38:37.463Z"
 status: "active"
 ---
 

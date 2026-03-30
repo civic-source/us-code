@@ -3,9 +3,9 @@ title: "Section 973e - Criminal offenses"
 usc_title: 16
 usc_section: "973e"
 chapter: 16
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 973e"
-generated_at: "2026-03-30T04:36:10.369Z"
+generated_at: "2026-03-30T04:38:37.499Z"
 status: "active"
 ---
 

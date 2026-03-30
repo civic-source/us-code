@@ -3,9 +3,9 @@ title: "Section 1541 - Establishment of Advisory Commission"
 usc_title: 21
 usc_section: "1541"
 chapter: 20
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "21 U.S.C. § 1541"
-generated_at: "2026-03-30T04:36:16.476Z"
+generated_at: "2026-03-30T04:38:52.760Z"
 status: "active"
 ---
 

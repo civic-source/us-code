@@ -3,9 +3,9 @@ title: "Section 1534 - Removal hearing"
 usc_title: 8
 usc_section: "1534"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "8 U.S.C. § 1534"
-generated_at: "2026-03-30T04:35:36.804Z"
+generated_at: "2026-03-30T04:38:17.990Z"
 status: "active"
 ---
 

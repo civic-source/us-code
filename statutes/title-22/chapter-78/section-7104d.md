@@ -3,9 +3,9 @@ title: "Section 7104d - Rules of construction; effective date"
 usc_title: 22
 usc_section: "7104d"
 chapter: 78
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 7104d"
-generated_at: "2026-03-30T04:36:18.308Z"
+generated_at: "2026-03-30T04:39:08.273Z"
 status: "active"
 ---
 

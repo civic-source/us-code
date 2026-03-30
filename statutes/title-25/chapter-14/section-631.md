@@ -3,9 +3,9 @@ title: "Section 631 - Basic program for conservation and development of resource
 usc_title: 25
 usc_section: "631"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 631"
-generated_at: "2026-03-30T04:36:15.499Z"
+generated_at: "2026-03-30T04:39:06.156Z"
 status: "active"
 ---
 

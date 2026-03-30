@@ -3,9 +3,9 @@ title: "Section 6902 - Authority and Eligibility 1 1 So in original. Probably sh
 usc_title: 31
 usc_section: "6902"
 chapter: 69
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "31 U.S.C. § 6902"
-generated_at: "2026-03-30T04:36:35.188Z"
+generated_at: "2026-03-30T04:39:36.094Z"
 status: "active"
 ---
 

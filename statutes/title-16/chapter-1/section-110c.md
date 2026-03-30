@@ -3,9 +3,9 @@ title: "Section 110c - Boundary adjustments"
 usc_title: 16
 usc_section: "110c"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 110c"
-generated_at: "2026-03-30T04:36:10.234Z"
+generated_at: "2026-03-30T04:38:37.368Z"
 status: "active"
 ---
 

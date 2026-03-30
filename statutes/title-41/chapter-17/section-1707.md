@@ -3,9 +3,9 @@ title: "Section 1707 - Publication of proposed regulations"
 usc_title: 41
 usc_section: "1707"
 chapter: 17
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "41 U.S.C. § 1707"
-generated_at: "2026-03-30T04:36:56.611Z"
+generated_at: "2026-03-30T04:40:05.889Z"
 status: "active"
 ---
 

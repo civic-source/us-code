@@ -3,9 +3,9 @@ title: "Section 1108 - Exemptions from prohibited transactions"
 usc_title: 29
 usc_section: "1108"
 chapter: 18
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "29 U.S.C. § 1108"
-generated_at: "2026-03-30T04:36:21.447Z"
+generated_at: "2026-03-30T04:39:30.276Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
     - **(A)** the requirements of paragraphs (1) and (2) of subsection (e) of this section are met with respect to such stock,
     - **(B)** on the later of the date on which the stock was acquired by the plan, or January 1, 1975 , such stock constituted a qualifying employer security (as defined in section 1107(d)(5) of this title as then in effect), and
     - **(C)** such stock does not constitute a qualifying employer security (as defined in section 1107(d)(5) of this title as in effect at the time of the sale).
-  - **(13)** Any transfer made before January 1, 2022 , of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on July 6, 2012 ).
+  - **(13)** Any transfer made before January 1, 2026 , of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on July 31, 2015 ).
   - **(14)** Any transaction in connection with the provision of investment advice described in section 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
     - **(A)** the transaction is—
       - **(i)** the provision of the investment advice to the participant or beneficiary of the plan with respect to a security or other property available as an investment under the plan,

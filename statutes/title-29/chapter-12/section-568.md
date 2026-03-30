@@ -3,9 +3,9 @@ title: "Section 568 - Acceptance of donations by Secretary"
 usc_title: 29
 usc_section: "568"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "29 U.S.C. § 568"
-generated_at: "2026-03-30T04:36:21.420Z"
+generated_at: "2026-03-30T04:39:30.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Jurisdiction and venue of civil actions by or against Bank"
 usc_title: 22
 usc_section: "5"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 5"
-generated_at: "2026-03-30T04:36:18.215Z"
+generated_at: "2026-03-30T04:39:08.179Z"
 status: "active"
 ---
 

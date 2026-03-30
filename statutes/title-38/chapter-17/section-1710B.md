@@ -3,9 +3,9 @@ title: "Section 1710B - Extended care services"
 usc_title: 38
 usc_section: "1710B"
 chapter: 17
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "38 U.S.C. § 1710B"
-generated_at: "2026-03-30T04:36:54.805Z"
+generated_at: "2026-03-30T04:39:57.439Z"
 status: "active"
 ---
 

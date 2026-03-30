@@ -3,9 +3,9 @@ title: "Section 110304 - Powers"
 usc_title: 36
 usc_section: "110304"
 chapter: 1103
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "36 U.S.C. § 110304"
-generated_at: "2026-03-30T04:36:44.429Z"
+generated_at: "2026-03-30T04:39:53.068Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 777c - Division of annual appropriations"
 usc_title: 16
 usc_section: "777c"
 chapter: 10
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 777c"
-generated_at: "2026-03-30T04:36:10.349Z"
+generated_at: "2026-03-30T04:38:37.480Z"
 status: "active"
 ---
 
 # § 777c. Division of annual appropriations
 
-- **(a)** For each fiscal year through 2014 and for the period beginning on October 1, 2014 , and ending on July 31, 2015 , the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under section 777m of this title shall be distributed as follows:
+- **(a)** For each fiscal year through 2015 and for the period beginning on October 1, 2015 , and ending on October 29, 2015 , the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under section 777m of this title shall be distributed as follows:
   - **(1)** An amount equal to 18.5 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection, 1 1 So in original. The comma probably should not appear. and Restoration Act ( 16 U.S.C. 3951 et seq.).
   - **(2)** An amount equal to 18.5 percent to the Secretary of the department in which the Coast Guard is operating for State recreational boating safety programs under section 13107 of title 46 .
   - **(3)** An amount equal to 2.0 percent to the Secretary of the Interior for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 ( 33 U.S.C. 1322 note).
@@ -19,7 +19,7 @@ status: "active"
   - **(5)** An amount equal to 2.0 percent to the Secretary of the Interior for the National Outreach and Communications Program under section 777g(d) of this title . Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary for that program may be expended by the Secretary under subsection (c) of this section.
 - **(b)**
   - **(1)**
-    - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each fiscal year ending before October 1, 2014 , and for the period beginning on October 1, 2014 , and ending on July 31, 2015 , the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
+    - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each fiscal year ending before October 1, 2015 , and for the period beginning on October 1, 2015 , and ending on October 29, 2015 , the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
     - **(B)** The available amount referred to in subparagraph (A) is—
       - **(i)** for each of fiscal years 2001 and 2002, $9,000,000;
       - **(ii)** for fiscal year 2003, $8,212,000; and

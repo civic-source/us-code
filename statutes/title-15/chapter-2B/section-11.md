@@ -3,9 +3,9 @@ title: "Section 11 - Credit risk retention"
 usc_title: 15
 usc_section: "11"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-30T04:35:45.364Z"
+generated_at: "2026-03-30T04:38:29.267Z"
 status: "active"
 ---
 

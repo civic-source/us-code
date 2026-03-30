@@ -3,9 +3,9 @@ title: "Section 675 - Definitions"
 usc_title: 42
 usc_section: "675"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 675"
-generated_at: "2026-03-30T04:37:13.301Z"
+generated_at: "2026-03-30T04:40:14.650Z"
 status: "active"
 ---
 
@@ -82,6 +82,6 @@ As used in this part or part B of this subchapter:
   - **(9)** The term “sex trafficking victim” means a victim of—
     - **(A)** sex trafficking (as defined in section 7102(10) of title 22 ); or
     - **(B)** a severe form of trafficking in persons described in section 7102(9)(A) of title 22 .
-  - **(12)** 3 3 So in original. See Amendment of Section notes below. The term “sibling” means an individual who satisfies at least one of the following conditions with respect to a child:
+  - **(12)** 3 3 For text of pars. (10) and (11), see paragraph (3) of Amendment of Section note below. The term “sibling” means an individual who satisfies at least one of the following conditions with respect to a child:
     - **(A)** The individual is considered by State law to be a sibling of the child.
     - **(B)** The individual would have been considered a sibling of the child under State law but for a termination or other disruption of parental rights, such as the death of a parent.

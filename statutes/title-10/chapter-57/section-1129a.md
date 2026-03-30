@@ -3,13 +3,13 @@ title: "Section 1129a - Purple Heart: members killed or wounded in attacks by fo
 usc_title: 10
 usc_section: "1129a"
 chapter: 57
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 1129a"
-generated_at: "2026-03-30T04:35:16.500Z"
+generated_at: "2026-03-30T04:38:16.432Z"
 status: "active"
 ---
 
-# §§ 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
+# § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
 
 - **(a)** For purposes of the award of the Purple Heart, the Secretary concerned shall treat a member of the armed forces described in subsection (b) in the same manner as a member who is killed or wounded as a result of an international terrorist attack against the United States.
 - **(b)**

@@ -3,9 +3,9 @@ title: "Section 772to772j - Repealed. Pub. L. 97–176, § 14 , May 17, 1982 , 9
 usc_title: 16
 usc_section: "772to772j"
 chapter: 10
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 772to772j"
-generated_at: "2026-03-30T04:36:10.349Z"
+generated_at: "2026-03-30T04:38:37.479Z"
 status: "repealed"
 ---
 

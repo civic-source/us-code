@@ -3,15 +3,15 @@ title: "Section 10b - Secretarial determinations; Congressional notification"
 usc_title: 42
 usc_section: "10b"
 chapter: 23
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 10b"
-generated_at: "2026-03-30T04:37:13.509Z"
+generated_at: "2026-03-30T04:40:14.855Z"
 status: "active"
 ---
 
 # § 2297h–10b. Secretarial determinations; Congressional notification
 
-- **(a)** In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014 ) by the Secretary of Energy under section 2297h–10(d)(2)(B) of this title , shall be valid for not more than 2 calendar years subsequent to such determination.
+- **(a)** In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014 ) by the Secretary of Energy under section 2297h–10(d)(2)(B) of this title shall be valid for not more than 2 calendar years subsequent to such determination.
 - **(b)** In this fiscal year, and in each subsequent fiscal year, not less than 30 days prior to the provision of uranium in any form the Secretary of Energy shall notify the Committees on Appropriations of the House of Representatives and the Senate of the following—
   - **(1)** the provisions of law (including regulations) authorizing the provision of uranium;
   - **(2)** the amount of uranium to be provided;

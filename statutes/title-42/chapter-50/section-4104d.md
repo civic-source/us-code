@@ -3,9 +3,9 @@ title: "Section 4104d - National Flood Mitigation Fund"
 usc_title: 42
 usc_section: "4104d"
 chapter: 50
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 4104d"
-generated_at: "2026-03-30T04:37:13.556Z"
+generated_at: "2026-03-30T04:40:14.899Z"
 status: "active"
 ---
 

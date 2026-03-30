@@ -3,9 +3,9 @@ title: "Section 102to104 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a
 usc_title: 19
 usc_section: "102to104"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 102to104"
-generated_at: "2026-03-30T04:36:05.642Z"
+generated_at: "2026-03-30T04:38:32.907Z"
 status: "repealed"
 ---
 

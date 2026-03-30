@@ -3,9 +3,9 @@ title: "Section 647 - Disposition of judgment fund; deductions; advances, expend
 usc_title: 25
 usc_section: "647"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 647"
-generated_at: "2026-03-30T04:36:15.501Z"
+generated_at: "2026-03-30T04:39:06.158Z"
 status: "active"
 ---
 

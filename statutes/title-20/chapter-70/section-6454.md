@@ -3,9 +3,9 @@ title: "Section 6454 - Uses of funds"
 usc_title: 20
 usc_section: "6454"
 chapter: 70
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 6454"
-generated_at: "2026-03-30T04:36:07.763Z"
+generated_at: "2026-03-30T04:38:34.791Z"
 status: "active"
 ---
 

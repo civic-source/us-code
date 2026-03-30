@@ -3,9 +3,9 @@ title: "Section 618 - Enforcement and penalties"
 usc_title: 22
 usc_section: "618"
 chapter: 11
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 618"
-generated_at: "2026-03-30T04:36:18.218Z"
+generated_at: "2026-03-30T04:39:08.181Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2521 - Manufacturing Technology Program"
 usc_title: 10
 usc_section: "2521"
 chapter: 148
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2521"
-generated_at: "2026-03-30T04:35:16.541Z"
+generated_at: "2026-03-30T04:38:16.475Z"
 status: "active"
 ---
 

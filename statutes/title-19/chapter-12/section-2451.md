@@ -3,9 +3,9 @@ title: "Section 2451 - Action to address market disruption"
 usc_title: 19
 usc_section: "2451"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 2451"
-generated_at: "2026-03-30T04:36:05.677Z"
+generated_at: "2026-03-30T04:38:32.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Firearm and bow hunter education and safety program grants"
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T04:36:10.338Z"
+generated_at: "2026-03-30T04:38:37.468Z"
 status: "active"
 ---
 

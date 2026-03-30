@@ -3,9 +3,9 @@ title: "Section 44309 - Civil actions"
 usc_title: 49
 usc_section: "44309"
 chapter: 443
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "49 U.S.C. § 44309"
-generated_at: "2026-03-30T04:37:48.282Z"
+generated_at: "2026-03-30T04:40:22.061Z"
 status: "active"
 ---
 

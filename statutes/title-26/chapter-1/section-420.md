@@ -3,9 +3,9 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-30T04:36:32.017Z"
+generated_at: "2026-03-30T04:39:18.059Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(iii)** the minimum cost requirements of subsection (c)(3).
   - **(2)** No more than 1 transfer with respect to any plan during a taxable year may be treated as a qualified transfer for purposes of this section. If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.
   - **(3)** The amount of excess pension assets which may be transferred to an account in a qualified transfer shall not exceed the amount which is reasonably estimated to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the taxable year of the transfer for qualified current retiree liabilities.
-  - **(4)** No transfer made after December 31, 2021 , shall be treated as a qualified transfer.
+  - **(4)** No transfer made after December 31, 2025 , shall be treated as a qualified transfer.
 - **(c)**
   - **(1)**
     - **(A)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) 1 1 See References in Text note below. for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).

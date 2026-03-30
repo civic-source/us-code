@@ -3,9 +3,9 @@ title: "Section 2249d - Distribution to certain foreign personnel of education a
 usc_title: 10
 usc_section: "2249d"
 chapter: 134
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 2249d"
-generated_at: "2026-03-30T04:35:16.525Z"
+generated_at: "2026-03-30T04:38:16.458Z"
 status: "active"
 ---
 

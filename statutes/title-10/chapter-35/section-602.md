@@ -3,9 +3,9 @@ title: "Section 602 - Repealed. Pub. L. 102–190, div. A, title XI, § 1113(a) 
 usc_title: 10
 usc_section: "602"
 chapter: 35
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 602"
-generated_at: "2026-03-30T04:35:16.475Z"
+generated_at: "2026-03-30T04:38:16.408Z"
 status: "repealed"
 ---
 

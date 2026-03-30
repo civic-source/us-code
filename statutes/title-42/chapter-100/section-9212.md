@@ -3,9 +3,9 @@ title: "Section 9212 - General provisions"
 usc_title: 42
 usc_section: "9212"
 chapter: 100
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 9212"
-generated_at: "2026-03-30T04:37:13.690Z"
+generated_at: "2026-03-30T04:40:15.029Z"
 status: "active"
 ---
 

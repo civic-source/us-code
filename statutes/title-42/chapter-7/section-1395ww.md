@@ -3,9 +3,9 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T04:37:13.390Z"
+generated_at: "2026-03-30T04:40:14.737Z"
 status: "active"
 ---
 
@@ -1076,7 +1076,7 @@ status: "active"
       - **(iv)** Not later than October 1, 2015 , the Secretary shall establish a functional status quality measure for change in mobility among inpatients requiring ventilator support.
     - **(E)** The Secretary shall establish procedures for making data submitted under subparagraph (C) and subparagraph (F)(i) available to the public. Such procedures shall ensure that a long-term care hospital has the opportunity to review the data that is to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in long-term care hospitals on the Internet website of the Centers for Medicare & Medicaid Services.
     - **(F)**
-      - **(i)** For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of 1395 lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
+      - **(i)** For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395 lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
       - **(ii)** For rate year 2019 and each subsequent rate year, in addition to such data described in clause (i), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1395 lll of this title.
       - **(iii)** Such data shall be submitted in the form and manner, and at the time, specified by the Secretary for purposes of this subparagraph.
     - **(G)** To the extent data submitted under subparagraph (F) duplicates other data required to be submitted under subparagraph (C), the submission of such data under subparagraph (F) shall be in lieu of the submission of such data under subparagraph (C). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395 lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.

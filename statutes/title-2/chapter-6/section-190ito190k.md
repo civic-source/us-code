@@ -3,9 +3,9 @@ title: "Section 190ito190k - Repealed. S. Res. 274, § 2(b), Nov. 14, 1979"
 usc_title: 2
 usc_section: "190ito190k"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 190ito190k"
-generated_at: "2026-03-30T04:35:03.711Z"
+generated_at: "2026-03-30T04:38:08.910Z"
 status: "repealed"
 ---
 

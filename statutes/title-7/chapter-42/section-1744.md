@@ -3,9 +3,9 @@ title: "Section 1744 - Sale of commodities in set-aside; exemption from pricing 
 usc_title: 7
 usc_section: "1744"
 chapter: 42
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 1744"
-generated_at: "2026-03-30T04:35:40.005Z"
+generated_at: "2026-03-30T04:38:22.419Z"
 status: "active"
 ---
 

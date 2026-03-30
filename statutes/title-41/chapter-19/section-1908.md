@@ -3,9 +3,9 @@ title: "Section 1908 - Inflation adjustment of acquisition-related dollar thresh
 usc_title: 41
 usc_section: "1908"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "41 U.S.C. § 1908"
-generated_at: "2026-03-30T04:36:56.612Z"
+generated_at: "2026-03-30T04:40:05.890Z"
 status: "active"
 ---
 

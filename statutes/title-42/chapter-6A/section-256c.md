@@ -3,9 +3,9 @@ title: "Section 256c - Bulk purchases of vaccines for certain programs"
 usc_title: 42
 usc_section: "256c"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 256c"
-generated_at: "2026-03-30T04:37:13.165Z"
+generated_at: "2026-03-30T04:40:14.521Z"
 status: "active"
 ---
 

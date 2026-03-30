@@ -3,9 +3,9 @@ title: "Section 67to72 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 8
 usc_title: 48
 usc_section: "67to72"
 chapter: 2
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "48 U.S.C. § 67to72"
-generated_at: "2026-03-30T04:37:17.616Z"
+generated_at: "2026-03-30T04:40:22.362Z"
 status: "repealed"
 ---
 

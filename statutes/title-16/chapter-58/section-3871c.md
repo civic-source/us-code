@@ -3,9 +3,9 @@ title: "Section 3871c - Assistance to producers"
 usc_title: 16
 usc_section: "3871c"
 chapter: 58
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 3871c"
-generated_at: "2026-03-30T04:36:10.432Z"
+generated_at: "2026-03-30T04:38:37.561Z"
 status: "active"
 ---
 
@@ -38,4 +38,4 @@ status: "active"
   - **(2)** The Secretary may provide payments for a period of 5 years—
     - **(A)** to producers participating in a project that addresses water quantity concerns and in an amount sufficient to encourage conversion from irrigated to dryland farming; and
     - **(B)** to producers participating in a project that addresses water quality concerns and in an amount sufficient to encourage adoption of conservation practices and systems that improve nutrient management.
-  - **(3)** To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in section 1308–3a of title 7 for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.
+  - **(3)** To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in section 1308–3a(b)(2) of title 7 for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.

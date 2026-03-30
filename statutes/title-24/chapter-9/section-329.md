@@ -3,9 +3,9 @@ title: "Section 329 - Availability of appropriations for transportation"
 usc_title: 24
 usc_section: "329"
 chapter: 9
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "24 U.S.C. § 329"
-generated_at: "2026-03-30T04:36:13.829Z"
+generated_at: "2026-03-30T04:39:00.017Z"
 status: "active"
 ---
 

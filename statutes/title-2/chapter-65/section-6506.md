@@ -3,9 +3,9 @@ title: "Section 6506 - Separate accounts for “Secretary of the Senate” and f
 usc_title: 2
 usc_section: "6506"
 chapter: 65
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 6506"
-generated_at: "2026-03-30T04:35:03.747Z"
+generated_at: "2026-03-30T04:38:08.944Z"
 status: "active"
 ---
 

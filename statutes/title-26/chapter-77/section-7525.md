@@ -3,9 +3,9 @@ title: "Section 7525 - Confidentiality privileges relating to taxpayer communica
 usc_title: 26
 usc_section: "7525"
 chapter: 77
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 7525"
-generated_at: "2026-03-30T04:36:32.258Z"
+generated_at: "2026-03-30T04:39:18.222Z"
 status: "active"
 ---
 

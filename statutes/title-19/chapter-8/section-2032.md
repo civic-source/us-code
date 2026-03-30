@@ -3,9 +3,9 @@ title: "Section 2032 - Annual report to Congress"
 usc_title: 19
 usc_section: "2032"
 chapter: 8
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 2032"
-generated_at: "2026-03-30T04:36:05.666Z"
+generated_at: "2026-03-30T04:38:32.933Z"
 status: "active"
 ---
 

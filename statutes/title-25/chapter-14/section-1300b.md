@@ -3,9 +3,9 @@ title: "Section 1300b - Disposition of judgment funds; division of funds on basi
 usc_title: 25
 usc_section: "1300b"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 1300b"
-generated_at: "2026-03-30T04:36:15.515Z"
+generated_at: "2026-03-30T04:39:06.172Z"
 status: "active"
 ---
 

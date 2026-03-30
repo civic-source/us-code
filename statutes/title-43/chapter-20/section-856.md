@@ -3,9 +3,9 @@ title: "Section 856 - Selection of school lands on ceded Indian reservations"
 usc_title: 43
 usc_section: "856"
 chapter: 20
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "43 U.S.C. § 856"
-generated_at: "2026-03-30T04:36:57.600Z"
+generated_at: "2026-03-30T04:40:02.200Z"
 status: "active"
 ---
 

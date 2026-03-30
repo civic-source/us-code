@@ -3,9 +3,9 @@ title: "Section 7465 - Required terms in order"
 usc_title: 7
 usc_section: "7465"
 chapter: 101
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 7465"
-generated_at: "2026-03-30T04:35:40.083Z"
+generated_at: "2026-03-30T04:38:22.497Z"
 status: "active"
 ---
 

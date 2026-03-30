@@ -3,9 +3,9 @@ title: "Section 5816a - Repealed. Pub. L. 104–106, div. D, title XLIII, § 430
 usc_title: 42
 usc_section: "5816a"
 chapter: 73
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 5816a"
-generated_at: "2026-03-30T04:37:13.591Z"
+generated_at: "2026-03-30T04:40:14.934Z"
 status: "repealed"
 ---
 

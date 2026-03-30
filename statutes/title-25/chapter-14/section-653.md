@@ -3,9 +3,9 @@ title: "Section 653 - Statutes of limitations unavailable against claims; amount
 usc_title: 25
 usc_section: "653"
 chapter: 14
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 653"
-generated_at: "2026-03-30T04:36:15.501Z"
+generated_at: "2026-03-30T04:39:06.158Z"
 status: "active"
 ---
 

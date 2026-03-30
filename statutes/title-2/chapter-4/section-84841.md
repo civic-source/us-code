@@ -3,9 +3,9 @@ title: "Section 84841 - Repealed. Pub. L. 104–186, title II, § 204(30) , (31)
 usc_title: 2
 usc_section: "84841"
 chapter: 4
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 84841"
-generated_at: "2026-03-30T04:35:03.707Z"
+generated_at: "2026-03-30T04:38:08.905Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6863 - Stay of collection of jeopardy assessments"
 usc_title: 26
 usc_section: "6863"
 chapter: 70
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 6863"
-generated_at: "2026-03-30T04:36:32.248Z"
+generated_at: "2026-03-30T04:39:18.213Z"
 status: "active"
 ---
 

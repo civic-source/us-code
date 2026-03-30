@@ -3,9 +3,9 @@ title: "Section 526a - Repealed. Pub. L. 100–17, title I, § 135(f) , Apr. 2, 
 usc_title: 33
 usc_section: "526a"
 chapter: 11
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "33 U.S.C. § 526a"
-generated_at: "2026-03-30T04:36:42.178Z"
+generated_at: "2026-03-30T04:39:40.542Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6021 - Listing by Secretary of taxable objects owned by nonresid
 usc_title: 26
 usc_section: "6021"
 chapter: 61
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 6021"
-generated_at: "2026-03-30T04:36:32.219Z"
+generated_at: "2026-03-30T04:39:18.182Z"
 status: "active"
 ---
 

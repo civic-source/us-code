@@ -3,9 +3,9 @@ title: "Section 832to834 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(2)
 usc_title: 45
 usc_section: "832to834"
 chapter: 17
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "45 U.S.C. § 832to834"
-generated_at: "2026-03-30T04:36:57.080Z"
+generated_at: "2026-03-30T04:39:59.375Z"
 status: "repealed"
 ---
 

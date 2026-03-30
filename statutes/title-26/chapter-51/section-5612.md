@@ -3,9 +3,9 @@ title: "Section 5612 - Forfeiture of taxpaid distilled spirits remaining on bond
 usc_title: 26
 usc_section: "5612"
 chapter: 51
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 5612"
-generated_at: "2026-03-30T04:36:32.215Z"
+generated_at: "2026-03-30T04:39:18.178Z"
 status: "active"
 ---
 

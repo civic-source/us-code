@@ -3,9 +3,9 @@ title: "Section 604 - Use of grants"
 usc_title: 42
 usc_section: "604"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 604"
-generated_at: "2026-03-30T04:37:13.285Z"
+generated_at: "2026-03-30T04:40:14.636Z"
 status: "active"
 ---
 

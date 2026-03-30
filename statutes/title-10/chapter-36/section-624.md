@@ -3,9 +3,9 @@ title: "Section 624 - Promotions: how made"
 usc_title: 10
 usc_section: "624"
 chapter: 36
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 624"
-generated_at: "2026-03-30T04:35:16.476Z"
+generated_at: "2026-03-30T04:38:16.409Z"
 status: "active"
 ---
 

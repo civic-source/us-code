@@ -3,9 +3,9 @@ title: "Section 1780p - Authorization of appropriations"
 usc_title: 25
 usc_section: "1780p"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 1780p"
-generated_at: "2026-03-30T04:36:15.539Z"
+generated_at: "2026-03-30T04:39:06.197Z"
 status: "active"
 ---
 

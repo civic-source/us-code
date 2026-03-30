@@ -3,9 +3,9 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-30T04:35:16.467Z"
+generated_at: "2026-03-30T04:38:16.399Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(B)** A report described in this subparagraph is a report that includes the following:
       - **(i)** Except as provided by subparagraph (C), certification that, during the fiscal year prior to the fiscal year covered by the budget for which the report is submitted, the Secretary of Energy obligated or expended any amounts covered by a proposed transfer of estimated nuclear budget request authority made for such prior fiscal year in a manner consistent with a memorandum of agreement that was developed by the Nuclear Weapons Council and entered into by the Secretary of Defense and the Secretary of Energy.
       - **(ii)** A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
-      - **(iii)** An assessment from each of the Chairman of the Joints Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+      - **(iii)** An assessment from each of the Chairman of the Joints 1 1 So in original. Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
     - **(C)** With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
       - **(i)** determines that such waiver is in the national security interests of the United States; and
       - **(ii)** instead of the certification described in such clause (i), includes as part of such report—

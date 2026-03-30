@@ -3,9 +3,9 @@ title: "Section 325 - Relief from National Guard duty when ordered to active dut
 usc_title: 32
 usc_section: "325"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "32 U.S.C. § 325"
-generated_at: "2026-03-30T04:36:33.908Z"
+generated_at: "2026-03-30T04:39:31.915Z"
 status: "active"
 ---
 

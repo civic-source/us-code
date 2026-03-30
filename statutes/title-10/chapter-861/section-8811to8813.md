@@ -3,9 +3,9 @@ title: "Section 8811to8813 - Repealed. Pub. L. 90–235, § 3(a)(2) , (b)(1), Ja
 usc_title: 10
 usc_section: "8811to8813"
 chapter: 861
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 8811to8813"
-generated_at: "2026-03-30T04:35:16.577Z"
+generated_at: "2026-03-30T04:38:16.513Z"
 status: "repealed"
 ---
 

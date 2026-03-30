@@ -3,9 +3,9 @@ title: "Section 301 - Establishment"
 usc_title: 40
 usc_section: "301"
 chapter: 3
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "40 U.S.C. § 301"
-generated_at: "2026-03-30T04:36:53.552Z"
+generated_at: "2026-03-30T04:39:47.652Z"
 status: "active"
 ---
 

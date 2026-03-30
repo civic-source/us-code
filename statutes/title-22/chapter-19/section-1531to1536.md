@@ -3,9 +3,9 @@ title: "Section 1531to1536 - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(
 usc_title: 22
 usc_section: "1531to1536"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 1531to1536"
-generated_at: "2026-03-30T04:36:18.222Z"
+generated_at: "2026-03-30T04:39:08.186Z"
 status: "repealed"
 ---
 

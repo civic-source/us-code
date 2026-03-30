@@ -3,9 +3,9 @@ title: "Section 631to647 - Repealed. Pub. L. 103–382, title III, § 331(a) , O
 usc_title: 20
 usc_section: "631to647"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 631to647"
-generated_at: "2026-03-30T04:36:07.666Z"
+generated_at: "2026-03-30T04:38:34.692Z"
 status: "repealed"
 ---
 

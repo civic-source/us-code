@@ -3,9 +3,9 @@ title: "Section 2225 - Credit in lieu of reimbursement"
 usc_title: 33
 usc_section: "2225"
 chapter: 36
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "33 U.S.C. § 2225"
-generated_at: "2026-03-30T04:36:42.222Z"
+generated_at: "2026-03-30T04:39:40.582Z"
 status: "active"
 ---
 

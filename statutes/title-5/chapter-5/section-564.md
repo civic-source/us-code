@@ -3,9 +3,9 @@ title: "Section 564 - Publication of notice; applications for membership on comm
 usc_title: 5
 usc_section: "564"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "5 U.S.C. § 564"
-generated_at: "2026-03-30T04:35:02.525Z"
+generated_at: "2026-03-30T04:38:05.833Z"
 status: "active"
 ---
 

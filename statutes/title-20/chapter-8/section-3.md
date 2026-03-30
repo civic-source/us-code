@@ -3,9 +3,9 @@ title: "Section 3 - Withdrawals and expenditures"
 usc_title: 20
 usc_section: "3"
 chapter: 8
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T04:36:07.666Z"
+generated_at: "2026-03-30T04:38:34.691Z"
 status: "active"
 ---
 

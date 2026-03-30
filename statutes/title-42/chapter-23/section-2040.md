@@ -3,9 +3,9 @@ title: "Section 2040 - Fellowship program of Advisory Committee on Reactor Safeg
 usc_title: 42
 usc_section: "2040"
 chapter: 23
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 2040"
-generated_at: "2026-03-30T04:37:13.496Z"
+generated_at: "2026-03-30T04:40:14.841Z"
 status: "active"
 ---
 

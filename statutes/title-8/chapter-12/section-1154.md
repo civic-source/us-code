@@ -3,9 +3,9 @@ title: "Section 1154 - Procedure for granting immigrant status"
 usc_title: 8
 usc_section: "1154"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "8 U.S.C. § 1154"
-generated_at: "2026-03-30T04:35:36.773Z"
+generated_at: "2026-03-30T04:38:17.963Z"
 status: "active"
 ---
 
@@ -104,11 +104,11 @@ status: "active"
 - **(g)** Notwithstanding subsection (a) of this section, except as provided in section 1255(e)(3) of this title , a petition may not be approved to grant an alien immediate relative status or preference status by reason of a marriage which was entered into during the period described in section 1255(e)(2) of this title , until the alien has resided outside the United States for a 2-year period beginning after the date of the marriage.
 - **(h)** The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title .
 - **(i)**
-  - **(1)** A petition under subsection (a)(4)(D) 4 4 So in original. Probably should be subsection “(a)(1)(D)”. of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
+  - **(1)** A petition under subsection (a)(4)(D) 4 4 See References in Text note below. of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
   - **(2)** For purposes of paragraph (1), the term “professional athlete” means an individual who is employed as an athlete by—
     - **(A)** a team that is a member of an association of 6 or more professional sports teams whose total combined revenues exceed $10,000,000 per year, if the association governs the conduct of its members and regulates the contests and exhibitions in which its member teams regularly engage; or
     - **(B)** any minor league team that is affiliated with such an association.
-- **(j)** A petition under subsection (a)(1)(D) of this section for an individual whose application for adjustment of status pursuant to section 1255 of this title has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
+- **(j)** A petition under subsection (a)(1)(D) 4 of this section for an individual whose application for adjustment of status pursuant to section 1255 of this title has been filed and remained unadjudicated for 180 days or more shall remain valid with respect to a new job if the individual changes jobs or employers if the new job is in the same or a similar occupational classification as the job for which the petition was filed.
 - **(k)**
   - **(1)** Except as provided in paragraph (2), in the case of a petition under this section initially filed for an alien unmarried son or daughter’s classification as a family-sponsored immigrant under section 1153(a)(2)(B) of this title , based on a parent of the son or daughter being an alien lawfully admitted for permanent residence, if such parent subsequently becomes a naturalized citizen of the United States, such petition shall be converted to a petition to classify the unmarried son or daughter as a family-sponsored immigrant under section 1153(a)(1) of this title .
   - **(2)** Paragraph (1) does not apply if the son or daughter files with the Attorney General a written statement that he or she elects not to have such conversion occur (or if it has occurred, to have such conversion revoked). Where such an election has been made, any determination with respect to the son or daughter’s eligibility for admission as a family-sponsored immigrant shall be made as if such naturalization had not taken place.

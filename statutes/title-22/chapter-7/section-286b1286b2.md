@@ -3,9 +3,9 @@ title: "Section 286b1286b2 - Repealed. Pub. L. 101–240, title V, § 541(d)(1) 
 usc_title: 22
 usc_section: "286b1286b2"
 chapter: 7
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 286b1286b2"
-generated_at: "2026-03-30T04:36:18.209Z"
+generated_at: "2026-03-30T04:39:08.172Z"
 status: "repealed"
 ---
 

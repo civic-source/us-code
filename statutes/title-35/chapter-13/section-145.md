@@ -3,9 +3,9 @@ title: "Section 145 - Civil action to obtain patent"
 usc_title: 35
 usc_section: "145"
 chapter: 13
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "35 U.S.C. § 145"
-generated_at: "2026-03-30T04:36:38.368Z"
+generated_at: "2026-03-30T04:39:33.637Z"
 status: "active"
 ---
 

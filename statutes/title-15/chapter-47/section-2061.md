@@ -3,9 +3,9 @@ title: "Section 2061 - Imminent hazards"
 usc_title: 15
 usc_section: "2061"
 chapter: 47
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 2061"
-generated_at: "2026-03-30T04:35:45.457Z"
+generated_at: "2026-03-30T04:38:29.369Z"
 status: "active"
 ---
 

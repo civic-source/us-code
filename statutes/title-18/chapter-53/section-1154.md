@@ -3,9 +3,9 @@ title: "Section 1154 - Intoxicants dispensed in Indian country"
 usc_title: 18
 usc_section: "1154"
 chapter: 53
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "18 U.S.C. § 1154"
-generated_at: "2026-03-30T04:36:11.828Z"
+generated_at: "2026-03-30T04:38:47.811Z"
 status: "active"
 ---
 

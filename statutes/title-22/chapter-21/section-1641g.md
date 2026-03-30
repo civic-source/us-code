@@ -3,9 +3,9 @@ title: "Section 1641g - Certification of awards"
 usc_title: 22
 usc_section: "1641g"
 chapter: 21
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 1641g"
-generated_at: "2026-03-30T04:36:18.224Z"
+generated_at: "2026-03-30T04:39:08.188Z"
 status: "active"
 ---
 

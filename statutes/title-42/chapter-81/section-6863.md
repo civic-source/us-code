@@ -3,9 +3,9 @@ title: "Section 6863 - Weatherization program"
 usc_title: 42
 usc_section: "6863"
 chapter: 81
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 6863"
-generated_at: "2026-03-30T04:37:13.616Z"
+generated_at: "2026-03-30T04:40:14.958Z"
 status: "active"
 ---
 

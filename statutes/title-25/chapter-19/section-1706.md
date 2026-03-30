@@ -3,9 +3,9 @@ title: "Section 1706 - Findings by Secretary"
 usc_title: 25
 usc_section: "1706"
 chapter: 19
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "25 U.S.C. § 1706"
-generated_at: "2026-03-30T04:36:15.532Z"
+generated_at: "2026-03-30T04:39:06.189Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-03-30T04:36:31.981Z"
+generated_at: "2026-03-30T04:39:18.023Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There shall be allowed as a deduction any charitable contribution (as defined in subsection (c)) payment of which is made within the taxable year. A charitable contribution shall be allowable as a deduction only if verified under regulations prescribed by the Secretary.
   - **(2)** In the case of a corporation reporting its taxable income on the accrual basis, if—
     - **(A)** the board of directors authorizes a charitable contribution during any taxable year, and
-    - **(B)** payment of such contribution is made after the close of such taxable year and on or before the 15th day of the third month following the close of such taxable year,
+    - **(B)** payment of such contribution is made after the close of such taxable year and on or before the 15th day of the fourth month following the close of such taxable year,
   - **(3)** For purposes of this section, payment of a charitable contribution which consists of a future interest in tangible personal property shall be treated as made only when all intervening interests in, and rights to the actual possession or enjoyment of, the property have expired or are held by persons other than the taxpayer or those standing in a relationship to the taxpayer described in section 267(b) or 707(b). For purposes of the preceding sentence, a fixture which is intended to be severed from the real property shall be treated as tangible personal property.
 - **(b)**
   - **(1)** In the case of an individual, the deduction provided in subsection (a) shall be limited as provided in the succeeding subparagraphs.

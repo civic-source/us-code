@@ -3,9 +3,9 @@ title: "Section 162163 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 8
 usc_title: 24
 usc_section: "162163"
 chapter: 4
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "24 U.S.C. § 162163"
-generated_at: "2026-03-30T04:36:13.827Z"
+generated_at: "2026-03-30T04:39:00.015Z"
 status: "repealed"
 ---
 

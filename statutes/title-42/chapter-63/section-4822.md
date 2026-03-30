@@ -3,9 +3,9 @@ title: "Section 4822 - Requirements for housing receiving Federal assistance"
 usc_title: 42
 usc_section: "4822"
 chapter: 63
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 4822"
-generated_at: "2026-03-30T04:37:13.563Z"
+generated_at: "2026-03-30T04:40:14.905Z"
 status: "active"
 ---
 

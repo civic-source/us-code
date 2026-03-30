@@ -3,9 +3,9 @@ title: "Section 4001to4003 - Repealed. Pub. L. 113–295, div. A, title II, § 2
 usc_title: 26
 usc_section: "4001to4003"
 chapter: 31
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 4001to4003"
-generated_at: "2026-03-30T04:36:32.192Z"
+generated_at: "2026-03-30T04:39:18.155Z"
 status: "repealed"
 ---
 

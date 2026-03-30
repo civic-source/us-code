@@ -3,9 +3,9 @@ title: "Section 4946 - Definitions and special rules"
 usc_title: 26
 usc_section: "4946"
 chapter: 42
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 4946"
-generated_at: "2026-03-30T04:36:32.201Z"
+generated_at: "2026-03-30T04:39:18.164Z"
 status: "active"
 ---
 

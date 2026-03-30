@@ -3,9 +3,9 @@ title: "Section 2992b - Administration"
 usc_title: 42
 usc_section: "2992b"
 chapter: 34
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 2992b"
-generated_at: "2026-03-30T04:37:13.515Z"
+generated_at: "2026-03-30T04:40:14.860Z"
 status: "active"
 ---
 

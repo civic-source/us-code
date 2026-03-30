@@ -3,9 +3,9 @@ title: "Section 6017 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(k
 usc_title: 10
 usc_section: "6017"
 chapter: 555
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 6017"
-generated_at: "2026-03-30T04:35:16.566Z"
+generated_at: "2026-03-30T04:38:16.501Z"
 status: "repealed"
 ---
 

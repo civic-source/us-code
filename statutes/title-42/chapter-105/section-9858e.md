@@ -3,9 +3,9 @@ title: "Section 9858e - Activities to improve the quality of child care"
 usc_title: 42
 usc_section: "9858e"
 chapter: 105
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 9858e"
-generated_at: "2026-03-30T04:37:13.710Z"
+generated_at: "2026-03-30T04:40:15.049Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(A)** offering training and professional development opportunities for child care providers that relate to the use of scientifically-based, developmentally-appropriate and age-appropriate strategies to promote the social, emotional, physical, and cognitive development of children, including those related to nutrition and physical activity, and offering specialized training for child care providers caring for those populations prioritized in section 9858c(c)(2)(Q) of this title , and children with disabilities;
     - **(B)** incorporating the effective use of data to guide program improvement;
     - **(C)** including effective behavior management strategies and training, including positive behavior interventions and support models, that promote positive social and emotional development and reduce challenging behaviors, including reducing expulsions of preschool-aged children for such behaviors;
-    - **(E)** providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
+    - **(E)** 1 1 So in original. No subpar. (D) has been enacted. providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
     - **(F)** providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
     - **(G)** providing training or professional development for child care providers regarding the early neurological development of children; and
     - **(H)** connecting child care staff members of child care providers with available Federal and State financial aid, or other resources, that would assist child care staff members in pursuing relevant postsecondary training.

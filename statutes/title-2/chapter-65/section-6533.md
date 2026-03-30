@@ -3,13 +3,13 @@ title: "Section 6533 - Death, resignation, or disability of Secretary of Senate;
 usc_title: 2
 usc_section: "6533"
 chapter: 65
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "2 U.S.C. § 6533"
-generated_at: "2026-03-30T04:35:03.747Z"
+generated_at: "2026-03-30T04:38:08.945Z"
 status: "active"
 ---
 
 # § 6533. Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status
 
-In the event of the death, resignation, or disability of the Secretary of the Senate, the Assistant Secretary of the Senate shall act as Secretary in carrying out the duties and responsibilities of that office in all matters until such time as a new Secretary shall have been elected and qualified or such disability shall have been ended. For purposes of this section and section 6532 of this title , the Secretary of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that the Secretary is unable to perform his duties. In the event that the Secretary of the Senate is absent or is to be absent for reasons other than disability (as provided in this paragraph), and makes a written designation that he is or will be so absent, the Assistant Secretary shall act during such absence as the Secretary in carrying out the duties and responsibilities of the office in all matters. The designation may be revoked in writing at any time by the Secretary, and is revoked whenever the Secretary making the designation dies, resigns, or is considered disabled in accordance with this paragraph.
+In the event of the death, resignation, or disability of the Secretary of the Senate, the Assistant Secretary of the Senate shall act as Secretary in carrying out the duties and responsibilities of that office in all matters until such time as a new Secretary shall have been elected and qualified or such disability shall have been ended. For purposes of this section and section 6532 of this title , the Secretary of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that the Secretary is unable to perform his duties. In the event that the Secretary of the Senate is absent or is to be absent for reasons other than disability (as provided in this section), and makes a written designation that he is or will be so absent, the Assistant Secretary shall act during such absence as the Secretary in carrying out the duties and responsibilities of the office in all matters. The designation may be revoked in writing at any time by the Secretary, and is revoked whenever the Secretary making the designation dies, resigns, or is considered disabled in accordance with this section.
 

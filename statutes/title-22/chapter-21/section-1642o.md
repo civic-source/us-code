@@ -3,9 +3,9 @@ title: "Section 1642o - Applicability of administrative provisions of subchapter
 usc_title: 22
 usc_section: "1642o"
 chapter: 21
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 1642o"
-generated_at: "2026-03-30T04:36:18.225Z"
+generated_at: "2026-03-30T04:39:08.189Z"
 status: "active"
 ---
 

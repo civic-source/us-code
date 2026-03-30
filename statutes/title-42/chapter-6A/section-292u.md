@@ -3,9 +3,9 @@ title: "Section 292u - Administrative provisions"
 usc_title: 42
 usc_section: "292u"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 292u"
-generated_at: "2026-03-30T04:37:13.209Z"
+generated_at: "2026-03-30T04:40:14.562Z"
 status: "active"
 ---
 

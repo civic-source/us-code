@@ -3,9 +3,9 @@ title: "Section 283e - Authorization of appropriations; expenditure for improvem
 usc_title: 16
 usc_section: "283e"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 283e"
-generated_at: "2026-03-30T04:36:10.244Z"
+generated_at: "2026-03-30T04:38:37.378Z"
 status: "active"
 ---
 

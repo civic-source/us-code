@@ -3,9 +3,9 @@ title: "Section 8358to8368 - Repealed. Pub. L. 103–337, div. A, title XVI, § 
 usc_title: 10
 usc_section: "8358to8368"
 chapter: 837
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 8358to8368"
-generated_at: "2026-03-30T04:35:16.576Z"
+generated_at: "2026-03-30T04:38:16.512Z"
 status: "repealed"
 ---
 

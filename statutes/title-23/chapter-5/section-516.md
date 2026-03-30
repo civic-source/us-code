@@ -3,9 +3,9 @@ title: "Section 516 - Research and development"
 usc_title: 23
 usc_section: "516"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "23 U.S.C. § 516"
-generated_at: "2026-03-30T04:36:14.627Z"
+generated_at: "2026-03-30T04:39:00.643Z"
 status: "active"
 ---
 

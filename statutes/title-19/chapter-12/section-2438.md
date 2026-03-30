@@ -3,9 +3,9 @@ title: "Section 2438 - Payment by Czechoslovakia of amounts owed United States c
 usc_title: 19
 usc_section: "2438"
 chapter: 12
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 2438"
-generated_at: "2026-03-30T04:36:05.677Z"
+generated_at: "2026-03-30T04:38:32.945Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114to114d1 - Repealed. Pub. L. 107–171, title X, § 10418(a)(8
 usc_title: 21
 usc_section: "114to114d1"
 chapter: 4
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "21 U.S.C. § 114to114d1"
-generated_at: "2026-03-30T04:36:16.410Z"
+generated_at: "2026-03-30T04:38:52.694Z"
 status: "repealed"
 ---
 

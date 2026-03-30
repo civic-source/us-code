@@ -3,9 +3,9 @@ title: "Section 1714 - Protection against discrimination based on geographic loc
 usc_title: 28
 usc_section: "1714"
 chapter: 114
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "28 U.S.C. § 1714"
-generated_at: "2026-03-30T04:36:23.697Z"
+generated_at: "2026-03-30T04:39:21.268Z"
 status: "active"
 ---
 

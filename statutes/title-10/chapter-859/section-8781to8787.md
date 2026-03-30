@@ -3,9 +3,9 @@ title: "Section 8781to8787 - Repealed. Pub. L. 96–513, title II, § 213 , Dec.
 usc_title: 10
 usc_section: "8781to8787"
 chapter: 859
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 8781to8787"
-generated_at: "2026-03-30T04:35:16.577Z"
+generated_at: "2026-03-30T04:38:16.513Z"
 status: "repealed"
 ---
 

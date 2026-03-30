@@ -3,9 +3,9 @@ title: "Section 7655b - Forestry products advanced utilization research"
 usc_title: 7
 usc_section: "7655b"
 chapter: 103
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "7 U.S.C. § 7655b"
-generated_at: "2026-03-30T04:35:40.087Z"
+generated_at: "2026-03-30T04:38:22.501Z"
 status: "active"
 ---
 

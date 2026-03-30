@@ -3,9 +3,9 @@ title: "Section 2316 - Transportation of livestock"
 usc_title: 18
 usc_section: "2316"
 chapter: 113
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "18 U.S.C. § 2316"
-generated_at: "2026-03-30T04:36:11.842Z"
+generated_at: "2026-03-30T04:38:47.827Z"
 status: "active"
 ---
 

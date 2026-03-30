@@ -3,9 +3,9 @@ title: "Section 2074 - Rules of procedure and evidence; submission to Congress; 
 usc_title: 28
 usc_section: "2074"
 chapter: 131
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "28 U.S.C. § 2074"
-generated_at: "2026-03-30T04:36:23.700Z"
+generated_at: "2026-03-30T04:39:21.271Z"
 status: "active"
 ---
 

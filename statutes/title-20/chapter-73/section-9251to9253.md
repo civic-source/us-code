@@ -3,9 +3,9 @@ title: "Section 9251to9253 - Repealed. Pub. L. 113–128, title V, § 511(a) , J
 usc_title: 20
 usc_section: "9251to9253"
 chapter: 73
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 9251to9253"
-generated_at: "2026-03-30T04:36:07.792Z"
+generated_at: "2026-03-30T04:38:34.822Z"
 status: "repealed"
 ---
 

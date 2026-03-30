@@ -3,9 +3,9 @@ title: "Section 5404to5406 - Repealed. Pub. L. 106–34, § 4(a) , June 8, 1999 
 usc_title: 15
 usc_section: "5404to5406"
 chapter: 80
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "15 U.S.C. § 5404to5406"
-generated_at: "2026-03-30T04:35:45.490Z"
+generated_at: "2026-03-30T04:38:29.404Z"
 status: "repealed"
 ---
 

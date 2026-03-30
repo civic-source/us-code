@@ -3,9 +3,9 @@ title: "Section 1861 - Enforcement"
 usc_title: 16
 usc_section: "1861"
 chapter: 38
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 1861"
-generated_at: "2026-03-30T04:36:10.405Z"
+generated_at: "2026-03-30T04:38:37.534Z"
 status: "active"
 ---
 

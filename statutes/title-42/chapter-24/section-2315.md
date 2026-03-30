@@ -3,9 +3,9 @@ title: "Section 2315 - Repealed. Aug. 1, 1946, ch. 724 , title I, § 302(b), as 
 usc_title: 42
 usc_section: "2315"
 chapter: 24
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 2315"
-generated_at: "2026-03-30T04:37:13.510Z"
+generated_at: "2026-03-30T04:40:14.855Z"
 status: "repealed"
 ---
 

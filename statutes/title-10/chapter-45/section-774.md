@@ -3,9 +3,9 @@ title: "Section 774 - Religious apparel: wearing while in uniform"
 usc_title: 10
 usc_section: "774"
 chapter: 45
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 774"
-generated_at: "2026-03-30T04:35:16.480Z"
+generated_at: "2026-03-30T04:38:16.413Z"
 status: "active"
 ---
 

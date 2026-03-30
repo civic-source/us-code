@@ -3,9 +3,9 @@ title: "Section 1087ll - Cost of attendance"
 usc_title: 20
 usc_section: "1087ll"
 chapter: 28
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 1087ll"
-generated_at: "2026-03-30T04:36:07.700Z"
+generated_at: "2026-03-30T04:38:34.726Z"
 status: "active"
 ---
 

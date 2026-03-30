@@ -3,9 +3,9 @@ title: "Section 668dd - National Wildlife Refuge System"
 usc_title: 16
 usc_section: "668dd"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 668dd"
-generated_at: "2026-03-30T04:36:10.336Z"
+generated_at: "2026-03-30T04:38:37.467Z"
 status: "active"
 ---
 
@@ -105,7 +105,7 @@ status: "active"
   - **(2)** Any person who otherwise violates or fails to comply with any of the provisions of this Act (including a regulation issued under this Act) shall be fined under title 18 or imprisoned not more than 180 days, or both.
 - **(g)** Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
 - **(h)** Regulations applicable to areas of the System that are in effect on October 15, 1966 , shall continue in effect until modified or rescinded.
-- **(i)** Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 ( 76 Stat. 653 ; 16 U.S.C. 460k —460k–4) which authorizes the Secretary to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said sections.
+- **(i)** Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 ( 76 Stat. 653 ; 16 U.S.C. 460k —460k–4) which authorizes the Secretary to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said Act.
 - **(j)** Nothing in this Act shall constitute an express or implied claim or denial on the part of the Federal Government as to exemption from State water laws.
 - **(k)** Notwithstanding any other provision of this Act, the Secretary may temporarily suspend, allow, or initiate any activity in a refuge in the System if the Secretary determines it is necessary to protect the health and safety of the public or any fish or wildlife population.
 - **(l)** Nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of fish and resident wildlife on lands or waters that are not within the System.

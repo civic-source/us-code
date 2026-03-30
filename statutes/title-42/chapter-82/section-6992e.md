@@ -3,9 +3,9 @@ title: "Section 6992e - Federal facilities"
 usc_title: 42
 usc_section: "6992e"
 chapter: 82
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "42 U.S.C. § 6992e"
-generated_at: "2026-03-30T04:37:13.628Z"
+generated_at: "2026-03-30T04:40:14.970Z"
 status: "active"
 ---
 

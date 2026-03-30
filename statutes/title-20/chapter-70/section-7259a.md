@@ -3,9 +3,9 @@ title: "Section 7259a - Program authorized"
 usc_title: 20
 usc_section: "7259a"
 chapter: 70
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "20 U.S.C. § 7259a"
-generated_at: "2026-03-30T04:36:07.779Z"
+generated_at: "2026-03-30T04:38:34.808Z"
 status: "active"
 ---
 

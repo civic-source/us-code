@@ -3,9 +3,9 @@ title: "Section 4542 - Technical data packages for large-caliber cannon: prohibi
 usc_title: 10
 usc_section: "4542"
 chapter: 433
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 4542"
-generated_at: "2026-03-30T04:35:16.561Z"
+generated_at: "2026-03-30T04:38:16.496Z"
 status: "active"
 ---
 

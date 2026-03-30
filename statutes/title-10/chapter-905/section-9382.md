@@ -3,9 +3,9 @@ title: "Section 9382 - Supplies and clothing"
 usc_title: 10
 usc_section: "9382"
 chapter: 905
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "10 U.S.C. § 9382"
-generated_at: "2026-03-30T04:35:16.580Z"
+generated_at: "2026-03-30T04:38:16.516Z"
 status: "active"
 ---
 

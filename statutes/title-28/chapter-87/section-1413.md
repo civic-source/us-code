@@ -3,9 +3,9 @@ title: "Section 1413 - Venue of cases under chapter 5 of title 3"
 usc_title: 28
 usc_section: "1413"
 chapter: 87
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "28 U.S.C. § 1413"
-generated_at: "2026-03-30T04:36:23.695Z"
+generated_at: "2026-03-30T04:39:21.265Z"
 status: "active"
 ---
 

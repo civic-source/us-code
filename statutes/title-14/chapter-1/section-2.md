@@ -3,9 +3,9 @@ title: "Section 2 - Primary duties"
 usc_title: 14
 usc_section: "2"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "14 U.S.C. § 2"
-generated_at: "2026-03-30T04:35:43.245Z"
+generated_at: "2026-03-30T04:38:24.595Z"
 status: "active"
 ---
 

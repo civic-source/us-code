@@ -3,9 +3,9 @@ title: "Section 9495 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 45
 usc_section: "9495"
 chapter: 5
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "45 U.S.C. § 9495"
-generated_at: "2026-03-30T04:36:57.063Z"
+generated_at: "2026-03-30T04:39:59.360Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1584 - Falsity or lack of manifest; penalties"
 usc_title: 19
 usc_section: "1584"
 chapter: 4
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "19 U.S.C. § 1584"
-generated_at: "2026-03-30T04:36:05.653Z"
+generated_at: "2026-03-30T04:38:32.919Z"
 status: "active"
 ---
 

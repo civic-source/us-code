@@ -3,9 +3,9 @@ title: "Section 3313 - Congressional oversight"
 usc_title: 22
 usc_section: "3313"
 chapter: 48
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "22 U.S.C. § 3313"
-generated_at: "2026-03-30T04:36:18.269Z"
+generated_at: "2026-03-30T04:39:08.234Z"
 status: "active"
 ---
 

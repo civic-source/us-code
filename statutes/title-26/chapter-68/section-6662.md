@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-30T04:36:32.245Z"
+generated_at: "2026-03-30T04:39:18.208Z"
 status: "active"
 ---
 
@@ -20,6 +20,7 @@ status: "active"
   - **(5)** Any substantial estate or gift tax valuation understatement.
   - **(6)** Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701( o )) or failing to meet the requirements of any similar rule of law.
   - **(7)** Any undisclosed foreign financial asset understatement.
+  - **(8)** Any inconsistent estate basis.
 - **(c)** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
 - **(d)**
   - **(1)**
@@ -93,3 +94,4 @@ status: "active"
   - **(1)** In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
   - **(2)** For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
   - **(3)** In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
+- **(k)** For purposes of this section, there is an “inconsistent estate basis” if the basis of property claimed on a return exceeds the basis as determined under section 1014(f).

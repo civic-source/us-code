@@ -3,9 +3,9 @@ title: "Section 6208 - Payment of cabin user fees"
 usc_title: 16
 usc_section: "6208"
 chapter: 81
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 6208"
-generated_at: "2026-03-30T04:36:10.445Z"
+generated_at: "2026-03-30T04:38:37.574Z"
 status: "active"
 ---
 

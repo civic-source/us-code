@@ -3,9 +3,9 @@ title: "Section 11 - Valles Caldera National Preserve, New Mexico"
 usc_title: 16
 usc_section: "11"
 chapter: 6
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T04:36:10.343Z"
+generated_at: "2026-03-30T04:38:37.474Z"
 status: "active"
 ---
 
@@ -136,7 +136,7 @@ status: "active"
   - **(1)** On the termination of the Trust, the Valles Caldera Preservation Act is repealed.
   - **(2)** Notwithstanding the repeal made by paragraph (1)—
     - **(A)** the authority of the Secretary of Agriculture to acquire mineral interests under section 104(e) of the Valles Caldera Preservation Act is transferred to the Secretary and any proceeding for the condemnation of, or payment of compensation for, an outstanding mineral interest pursuant to the transferred authority shall continue;
-    - **(B)** the provisions in section 104(g) 2 2 Text of section 104(g) is set out below. of the Valles Caldera Preservation Act relating to the Pueblo of Santa Clara shall remain in effect; and
+    - **(B)** the provisions in section 104(g) 2 2 Text of section 104(g) is set out as a Pueblo of Santa Clara note below. of the Valles Caldera Preservation Act relating to the Pueblo of Santa Clara shall remain in effect; and
     - **(C)** the Fund shall not be terminated until all amounts in the Fund have been expended by the Secretary.
   - **(3)** The repeal of the Valles Caldera Preservation Act shall not affect the boundaries as of December 19, 2014 , (including maps and legal descriptions) of—
     - **(A)** the Preserve;

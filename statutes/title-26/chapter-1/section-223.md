@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 114-38"
+current_through: "PL 114-49"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T04:36:31.989Z"
+generated_at: "2026-03-30T04:39:18.031Z"
 status: "active"
 ---
 
@@ -54,6 +54,7 @@ status: "active"
       - **(iii)** for taxable years beginning after December 31, 2006 , coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
         - **(I)** the balance in such arrangement at the end of such plan year is zero, or
         - **(II)** the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
+    - **(C)** An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of section 101(16) of title 38 , United States Code).
   - **(2)**
     - **(A)** The term “high deductible health plan” means a health plan—
       - **(i)** which has an annual deductible which is not less than—
