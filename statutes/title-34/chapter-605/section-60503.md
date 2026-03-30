@@ -3,9 +3,9 @@ title: "Section 60503 - Submission of reports to Congress"
 usc_title: 34
 usc_section: "60503"
 chapter: 605
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "34 U.S.C. § 60503"
-generated_at: "2026-03-30T01:48:50.723Z"
+generated_at: "2026-03-30T01:51:21.512Z"
 ---
 
 # § 60503. Submission of reports to Congress

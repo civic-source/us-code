@@ -3,9 +3,9 @@ title: "Section 2027 - Annual review by Secretary of State of programs and proje
 usc_title: 22
 usc_section: "2027"
 chapter: 28
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 2027"
-generated_at: "2026-03-30T01:48:20.652Z"
+generated_at: "2026-03-30T01:50:56.510Z"
 ---
 
 # § 2027. Annual review by Secretary of State of programs and projects of the International Atomic Energy Agency; United States opposition to certain programs and projects of the Agency

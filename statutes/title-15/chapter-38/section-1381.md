@@ -3,9 +3,9 @@ title: "Section 1381 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "1381"
 chapter: 38
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 1381"
-generated_at: "2026-03-30T01:47:48.176Z"
+generated_at: "2026-03-30T01:50:38.902Z"
 ---
 
 # § 1381. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

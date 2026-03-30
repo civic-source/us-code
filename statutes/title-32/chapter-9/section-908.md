@@ -3,9 +3,9 @@ title: "Section 908 - Annual report"
 usc_title: 32
 usc_section: "908"
 chapter: 9
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "32 U.S.C. § 908"
-generated_at: "2026-03-30T01:48:48.305Z"
+generated_at: "2026-03-30T01:51:19.628Z"
 ---
 
 # § 908. Annual report

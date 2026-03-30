@@ -3,9 +3,9 @@ title: "Section 1276 - Judicial review"
 usc_title: 30
 usc_section: "1276"
 chapter: 25
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "30 U.S.C. § 1276"
-generated_at: "2026-03-30T01:48:37.695Z"
+generated_at: "2026-03-30T01:51:10.511Z"
 ---
 
 # § 1276. Judicial review

@@ -3,9 +3,9 @@ title: "Section 1508 - Judicial review"
 usc_title: 5
 usc_section: "1508"
 chapter: 15
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 1508"
-generated_at: "2026-03-30T01:46:54.534Z"
+generated_at: "2026-03-30T01:50:03.032Z"
 ---
 
 # § 1508. Judicial review

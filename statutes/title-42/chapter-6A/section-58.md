@@ -3,9 +3,9 @@ title: "Section 58 - Technical assistance and provision of supplies and services
 usc_title: 42
 usc_section: "58"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 58"
-generated_at: "2026-03-30T01:49:23.572Z"
+generated_at: "2026-03-30T01:51:50.276Z"
 ---
 
 # § 300x–58. Technical assistance and provision of supplies and services in lieu of grant funds

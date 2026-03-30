@@ -3,9 +3,9 @@ title: "Section 288f - Applicability of reciprocity laws"
 usc_title: 22
 usc_section: "288f"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 288f"
-generated_at: "2026-03-30T01:48:20.634Z"
+generated_at: "2026-03-30T01:50:56.492Z"
 ---
 
 # § 288f. Applicability of reciprocity laws

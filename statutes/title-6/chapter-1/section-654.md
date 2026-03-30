@@ -3,9 +3,9 @@ title: "Section 654 - Infrastructure Security Division"
 usc_title: 6
 usc_section: "654"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 654"
-generated_at: "2026-03-30T01:47:04.866Z"
+generated_at: "2026-03-30T01:50:06.239Z"
 ---
 
 # § 654. Infrastructure Security Division

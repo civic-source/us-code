@@ -3,9 +3,9 @@ title: "Section 8906a - Temporary employees"
 usc_title: 5
 usc_section: "8906a"
 chapter: 89
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 8906a"
-generated_at: "2026-03-30T01:46:54.607Z"
+generated_at: "2026-03-30T01:50:03.083Z"
 ---
 
 # § 8906a. Temporary employees

@@ -3,9 +3,9 @@ title: "Section 1906 - Participation in Federal, State, or other educational res
 usc_title: 14
 usc_section: "1906"
 chapter: 19
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "14 U.S.C. § 1906"
-generated_at: "2026-03-30T01:47:15.196Z"
+generated_at: "2026-03-30T01:50:29.689Z"
 ---
 
 # § 1906. Participation in Federal, State, or other educational research grants

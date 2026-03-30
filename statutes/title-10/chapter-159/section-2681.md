@@ -3,9 +3,9 @@ title: "Section 2681 - Renumbered § 4175]"
 usc_title: 10
 usc_section: "2681"
 chapter: 159
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 2681"
-generated_at: "2026-03-30T01:47:12.670Z"
+generated_at: "2026-03-30T01:50:25.952Z"
 ---
 
 # § 2681. Renumbered § 4175]

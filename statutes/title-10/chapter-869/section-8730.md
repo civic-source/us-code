@@ -3,9 +3,9 @@ title: "Section 8730 - Disposition of products"
 usc_title: 10
 usc_section: "8730"
 chapter: 869
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8730"
-generated_at: "2026-03-30T01:47:12.727Z"
+generated_at: "2026-03-30T01:50:26.011Z"
 ---
 
 # § 8730. Disposition of products

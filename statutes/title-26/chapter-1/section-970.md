@@ -3,9 +3,9 @@ title: "Section 970 - Reduction of subpart F income of export trade corporations
 usc_title: 26
 usc_section: "970"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 970"
-generated_at: "2026-03-30T01:48:44.692Z"
+generated_at: "2026-03-30T01:51:17.850Z"
 ---
 
 # § 970. Reduction of subpart F income of export trade corporations

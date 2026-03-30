@@ -3,9 +3,9 @@ title: "Section 146 - Repealed. Pub. L. 85–207, § 11 , Aug. 28, 1957 , 71 Sta
 usc_title: 13
 usc_section: "146"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "13 U.S.C. § 146"
-generated_at: "2026-03-30T01:47:16.194Z"
+generated_at: "2026-03-30T01:50:28.626Z"
 ---
 
 # [§§ 143 to 146. Repealed. Pub. L. 85–207, § 11 , Aug. 28, 1957 , 71 Stat. 483 ]

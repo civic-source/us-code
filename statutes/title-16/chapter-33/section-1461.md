@@ -3,9 +3,9 @@ title: "Section 1461 - National Estuarine Research Reserve System"
 usc_title: 16
 usc_section: "1461"
 chapter: 33
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 1461"
-generated_at: "2026-03-30T01:47:59.902Z"
+generated_at: "2026-03-30T01:50:50.302Z"
 ---
 
 # § 1461. National Estuarine Research Reserve System

@@ -3,9 +3,9 @@ title: "Section 5396 - Application of other sections of this chapter"
 usc_title: 25
 usc_section: "5396"
 chapter: 46
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 5396"
-generated_at: "2026-03-30T01:48:06.601Z"
+generated_at: "2026-03-30T01:51:06.043Z"
 ---
 
 # § 5396. Application of other sections of this chapter

@@ -3,9 +3,9 @@ title: "Section 2265 - Columbia River/Arkansas River Basin transfers"
 usc_title: 33
 usc_section: "2265"
 chapter: 36
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "33 U.S.C. § 2265"
-generated_at: "2026-03-30T01:49:01.738Z"
+generated_at: "2026-03-30T01:51:22.592Z"
 ---
 
 # § 2265. Columbia River/Arkansas River Basin transfers

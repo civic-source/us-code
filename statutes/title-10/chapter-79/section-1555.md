@@ -3,9 +3,9 @@ title: "Section 1555 - Professional staff"
 usc_title: 10
 usc_section: "1555"
 chapter: 79
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 1555"
-generated_at: "2026-03-30T01:47:12.637Z"
+generated_at: "2026-03-30T01:50:25.918Z"
 ---
 
 # § 1555. Professional staff

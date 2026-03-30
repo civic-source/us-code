@@ -3,9 +3,9 @@ title: "Section 1612 - Public participation"
 usc_title: 16
 usc_section: "1612"
 chapter: 36
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 1612"
-generated_at: "2026-03-30T01:47:59.907Z"
+generated_at: "2026-03-30T01:50:50.306Z"
 ---
 
 # § 1612. Public participation

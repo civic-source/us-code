@@ -3,9 +3,9 @@ title: "Section 1452 - Special requirements for incentive auction of broadcast T
 usc_title: 47
 usc_section: "1452"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "47 U.S.C. § 1452"
-generated_at: "2026-03-30T01:49:27.080Z"
+generated_at: "2026-03-30T01:51:54.983Z"
 ---
 
 # § 1452. Special requirements for incentive auction of broadcast TV spectrum

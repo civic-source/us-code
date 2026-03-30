@@ -3,9 +3,9 @@ title: "Section 12181 - Purpose"
 usc_title: 34
 usc_section: "12181"
 chapter: 121
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "34 U.S.C. § 12181"
-generated_at: "2026-03-30T01:48:50.692Z"
+generated_at: "2026-03-30T01:51:21.478Z"
 ---
 
 # § 12181. Purpose

@@ -3,9 +3,9 @@ title: "Section 1296 - Review of certain agency actions"
 usc_title: 28
 usc_section: "1296"
 chapter: 83
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "28 U.S.C. § 1296"
-generated_at: "2026-03-30T01:48:30.265Z"
+generated_at: "2026-03-30T01:51:09.462Z"
 ---
 
 # § 1296. Review of certain agency actions

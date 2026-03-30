@@ -3,9 +3,9 @@ title: "Section 144a - Incorporation fee for perpetual existence"
 usc_title: 15
 usc_section: "144a"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 144a"
-generated_at: "2026-03-30T01:47:48.118Z"
+generated_at: "2026-03-30T01:50:38.843Z"
 ---
 
 # § 144a. Incorporation fee for perpetual existence

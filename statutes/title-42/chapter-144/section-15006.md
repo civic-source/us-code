@@ -3,9 +3,9 @@ title: "Section 15006 - State control of operations"
 usc_title: 42
 usc_section: "15006"
 chapter: 144
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 15006"
-generated_at: "2026-03-30T01:49:24.151Z"
+generated_at: "2026-03-30T01:51:50.892Z"
 ---
 
 # § 15006. State control of operations

@@ -3,9 +3,9 @@ title: "Section 747 - Equipment and training standards"
 usc_title: 6
 usc_section: "747"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 747"
-generated_at: "2026-03-30T01:47:04.874Z"
+generated_at: "2026-03-30T01:50:06.246Z"
 ---
 
 # § 747. Equipment and training standards

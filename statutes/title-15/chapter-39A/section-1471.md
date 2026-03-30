@@ -3,9 +3,9 @@ title: "Section 1471 - Definitions"
 usc_title: 15
 usc_section: "1471"
 chapter: 39
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 1471"
-generated_at: "2026-03-30T01:47:48.177Z"
+generated_at: "2026-03-30T01:50:38.903Z"
 ---
 
 # § 1471. Definitions

@@ -3,9 +3,9 @@ title: "Section 130103 - Membership"
 usc_title: 36
 usc_section: "130103"
 chapter: 1301
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 130103"
-generated_at: "2026-03-30T01:49:04.959Z"
+generated_at: "2026-03-30T01:51:25.260Z"
 ---
 
 # § 130103. Membership

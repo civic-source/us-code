@@ -3,9 +3,9 @@ title: "Section 3410 - Customer challenges"
 usc_title: 12
 usc_section: "3410"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 3410"
-generated_at: "2026-03-30T01:47:38.008Z"
+generated_at: "2026-03-30T01:50:36.125Z"
 ---
 
 # § 3410. Customer challenges

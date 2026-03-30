@@ -3,9 +3,9 @@ title: "Section 6n - Registration of commodity trading advisors and commodity po
 usc_title: 7
 usc_section: "6n"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 6n"
-generated_at: "2026-03-30T01:47:03.562Z"
+generated_at: "2026-03-30T01:50:10.870Z"
 ---
 
 # § 6n. Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account

@@ -3,9 +3,9 @@ title: "Section 12552 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "12552"
 chapter: 1215
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 12552"
-generated_at: "2026-03-30T01:47:12.746Z"
+generated_at: "2026-03-30T01:50:26.029Z"
 ---
 
 # § 12552. Funeral honors functions at funerals for veterans

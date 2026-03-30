@@ -3,9 +3,9 @@ title: "Section 6717 - Refusal of entry"
 usc_title: 26
 usc_section: "6717"
 chapter: 68
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 6717"
-generated_at: "2026-03-30T01:48:44.789Z"
+generated_at: "2026-03-30T01:51:17.945Z"
 ---
 
 # § 6717. Refusal of entry

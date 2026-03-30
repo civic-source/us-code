@@ -3,9 +3,9 @@ title: "Section 482 - Foreign bank notes"
 usc_title: 18
 usc_section: "482"
 chapter: 25
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "18 U.S.C. § 482"
-generated_at: "2026-03-30T01:47:52.638Z"
+generated_at: "2026-03-30T01:50:45.860Z"
 ---
 
 # § 482. Foreign bank notes

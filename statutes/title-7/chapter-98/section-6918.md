@@ -3,9 +3,9 @@ title: "Section 6918 - Assistant Secretaries of Agriculture"
 usc_title: 7
 usc_section: "6918"
 chapter: 98
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 6918"
-generated_at: "2026-03-30T01:47:03.754Z"
+generated_at: "2026-03-30T01:50:11.034Z"
 ---
 
 # § 6918. Assistant Secretaries of Agriculture

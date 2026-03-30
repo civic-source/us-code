@@ -3,9 +3,9 @@ title: "Section 117 - Readiness reporting system"
 usc_title: 10
 usc_section: "117"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 117"
-generated_at: "2026-03-30T01:47:12.557Z"
+generated_at: "2026-03-30T01:50:25.840Z"
 ---
 
 # § 117. Readiness reporting system

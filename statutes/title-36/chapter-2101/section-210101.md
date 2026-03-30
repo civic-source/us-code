@@ -3,9 +3,9 @@ title: "Section 210101 - Organization"
 usc_title: 36
 usc_section: "210101"
 chapter: 2101
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 210101"
-generated_at: "2026-03-30T01:49:04.966Z"
+generated_at: "2026-03-30T01:51:25.268Z"
 ---
 
 # § 210101. Organization

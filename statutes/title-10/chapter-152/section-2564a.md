@@ -3,9 +3,9 @@ title: "Section 2564a - Provision of assistance for adaptive sports programs: me
 usc_title: 10
 usc_section: "2564a"
 chapter: 152
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 2564a"
-generated_at: "2026-03-30T01:47:12.664Z"
+generated_at: "2026-03-30T01:50:25.947Z"
 ---
 
 # § 2564a. Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans

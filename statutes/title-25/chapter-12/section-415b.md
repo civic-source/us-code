@@ -3,9 +3,9 @@ title: "Section 415b - Advance payment of rent or other consideration"
 usc_title: 25
 usc_section: "415b"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 415b"
-generated_at: "2026-03-30T01:48:06.548Z"
+generated_at: "2026-03-30T01:51:05.985Z"
 ---
 
 # § 415b. Advance payment of rent or other consideration

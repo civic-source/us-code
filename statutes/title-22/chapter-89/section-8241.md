@@ -3,9 +3,9 @@ title: "Section 8241 - Training in democracy promotion and the protection of hum
 usc_title: 22
 usc_section: "8241"
 chapter: 89
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 8241"
-generated_at: "2026-03-30T01:48:20.755Z"
+generated_at: "2026-03-30T01:50:56.619Z"
 ---
 
 # § 8241. Training in democracy promotion and the protection of human rights

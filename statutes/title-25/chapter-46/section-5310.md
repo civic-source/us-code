@@ -3,9 +3,9 @@ title: "Section 5310 - Investment of advance payments; restrictions"
 usc_title: 25
 usc_section: "5310"
 chapter: 46
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 5310"
-generated_at: "2026-03-30T01:48:06.596Z"
+generated_at: "2026-03-30T01:51:06.038Z"
 ---
 
 # § 5310. Investment of advance payments; restrictions

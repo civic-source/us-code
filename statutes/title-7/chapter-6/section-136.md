@@ -3,9 +3,9 @@ title: "Section 136 - Definitions"
 usc_title: 7
 usc_section: "136"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 136"
-generated_at: "2026-03-30T01:47:03.576Z"
+generated_at: "2026-03-30T01:50:10.881Z"
 ---
 
 # § 136. Definitions

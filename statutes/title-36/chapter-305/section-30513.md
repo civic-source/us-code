@@ -3,9 +3,9 @@ title: "Section 30513 - Annual report"
 usc_title: 36
 usc_section: "30513"
 chapter: 305
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 30513"
-generated_at: "2026-03-30T01:49:04.955Z"
+generated_at: "2026-03-30T01:51:25.254Z"
 ---
 
 # § 30513. Annual report

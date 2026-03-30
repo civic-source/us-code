@@ -3,9 +3,9 @@ title: "Section 3032a - Career preparation for the field of aging"
 usc_title: 42
 usc_section: "3032a"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 3032a"
-generated_at: "2026-03-30T01:49:23.896Z"
+generated_at: "2026-03-30T01:51:50.629Z"
 ---
 
 # § 3032a. Career preparation for the field of aging

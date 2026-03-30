@@ -3,9 +3,9 @@ title: "Section 123a - Tribal funds; use to purchase insurance for protection of
 usc_title: 25
 usc_section: "123a"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 123a"
-generated_at: "2026-03-30T01:48:06.540Z"
+generated_at: "2026-03-30T01:51:05.976Z"
 ---
 
 # § 123a. Tribal funds; use to purchase insurance for protection of tribal property

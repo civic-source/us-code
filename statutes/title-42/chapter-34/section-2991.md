@@ -3,9 +3,9 @@ title: "Section 2991 - Short title"
 usc_title: 42
 usc_section: "2991"
 chapter: 34
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 2991"
-generated_at: "2026-03-30T01:49:23.887Z"
+generated_at: "2026-03-30T01:51:50.619Z"
 ---
 
 # § 2991. Short title

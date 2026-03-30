@@ -3,9 +3,9 @@ title: "Section 3327 - Civil service employment information"
 usc_title: 5
 usc_section: "3327"
 chapter: 33
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 3327"
-generated_at: "2026-03-30T01:46:54.540Z"
+generated_at: "2026-03-30T01:50:03.035Z"
 ---
 
 # § 3327. Civil service employment information

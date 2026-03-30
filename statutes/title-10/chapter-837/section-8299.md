@@ -3,9 +3,9 @@ title: "Section 8299 - Repealed. Pub. L. 116–92, div. A, title V, § 582(b)(2)
 usc_title: 10
 usc_section: "8299"
 chapter: 837
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8299"
-generated_at: "2026-03-30T01:47:12.719Z"
+generated_at: "2026-03-30T01:50:26.003Z"
 ---
 
 # [§ 8299. Repealed. Pub. L. 116–92, div. A, title V, § 582(b)(2)(A) , Dec. 20, 2019 , 133 Stat. 1412 ]

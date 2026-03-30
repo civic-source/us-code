@@ -3,9 +3,9 @@ title: "Section 1549 - Report on and notice of changes made to the legal and pol
 usc_title: 50
 usc_section: "1549"
 chapter: 33
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "50 U.S.C. § 1549"
-generated_at: "2026-03-30T01:49:29.542Z"
+generated_at: "2026-03-30T01:51:56.348Z"
 ---
 
 # § 1549. Report on and notice of changes made to the legal and policy frameworks for the United States’ use of military force and related national security operations

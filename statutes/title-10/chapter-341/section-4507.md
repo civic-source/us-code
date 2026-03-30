@@ -3,9 +3,9 @@ title: "Section 4507 - Procurement of services: contracts for professional and t
 usc_title: 10
 usc_section: "4507"
 chapter: 341
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 4507"
-generated_at: "2026-03-30T01:47:12.701Z"
+generated_at: "2026-03-30T01:50:25.985Z"
 ---
 
 # § 4507. Procurement of services: contracts for professional and technical services

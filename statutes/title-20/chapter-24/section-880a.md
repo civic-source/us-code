@@ -3,9 +3,9 @@ title: "Section 880a - Repealed. Pub. L. 91–230, title VI, § 662(3) , Apr. 13
 usc_title: 20
 usc_section: "880a"
 chapter: 24
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "20 U.S.C. § 880a"
-generated_at: "2026-03-30T01:47:57.225Z"
+generated_at: "2026-03-30T01:50:44.822Z"
 ---
 
 # §§ 871 to 880a. Repealed. Pub. L. 91–230, title VI, § 662(3) , Apr. 13, 1970 , 84 Stat. 188

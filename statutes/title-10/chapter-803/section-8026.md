@@ -3,9 +3,9 @@ title: "Section 8026 - Consultation with Commandant of the Marine Corps on major
 usc_title: 10
 usc_section: "8026"
 chapter: 803
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8026"
-generated_at: "2026-03-30T01:47:12.717Z"
+generated_at: "2026-03-30T01:50:26.001Z"
 ---
 
 # § 8026. Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force structure and capability

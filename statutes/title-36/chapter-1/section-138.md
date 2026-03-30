@@ -3,9 +3,9 @@ title: "Section 138 - Save Your Vision Week"
 usc_title: 36
 usc_section: "138"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 138"
-generated_at: "2026-03-30T01:49:04.950Z"
+generated_at: "2026-03-30T01:51:25.249Z"
 ---
 
 # § 138. Save Your Vision Week

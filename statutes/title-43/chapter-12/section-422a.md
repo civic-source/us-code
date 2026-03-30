@@ -3,9 +3,9 @@ title: "Section 422a - Declaration of purpose"
 usc_title: 43
 usc_section: "422a"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "43 U.S.C. § 422a"
-generated_at: "2026-03-30T01:49:09.814Z"
+generated_at: "2026-03-30T01:51:32.529Z"
 ---
 
 # § 422a. Declaration of purpose

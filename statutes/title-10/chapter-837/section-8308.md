@@ -3,9 +3,9 @@ title: "Section 8308 - Korea Defense Service Medal"
 usc_title: 10
 usc_section: "8308"
 chapter: 837
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8308"
-generated_at: "2026-03-30T01:47:12.720Z"
+generated_at: "2026-03-30T01:50:26.003Z"
 ---
 
 # § 8308. Korea Defense Service Medal

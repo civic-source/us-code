@@ -3,9 +3,9 @@ title: "Section 1710 - Civil actions by Attorney General; notice of violations; 
 usc_title: 20
 usc_section: "1710"
 chapter: 39
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "20 U.S.C. § 1710"
-generated_at: "2026-03-30T01:47:57.300Z"
+generated_at: "2026-03-30T01:50:44.900Z"
 ---
 
 # § 1710. Civil actions by Attorney General; notice of violations; certification respecting undertaking appropriate remedial action

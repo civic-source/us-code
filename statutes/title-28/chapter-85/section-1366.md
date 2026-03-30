@@ -3,9 +3,9 @@ title: "Section 1366 - Construction of references to laws of the United States o
 usc_title: 28
 usc_section: "1366"
 chapter: 85
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "28 U.S.C. § 1366"
-generated_at: "2026-03-30T01:48:30.266Z"
+generated_at: "2026-03-30T01:51:09.463Z"
 ---
 
 # § 1366. Construction of references to laws of the United States or Acts of Congress

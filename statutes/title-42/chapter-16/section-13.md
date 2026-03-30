@@ -3,9 +3,9 @@ title: "Section 13 - Tribal colleges and universities program"
 usc_title: 42
 usc_section: "13"
 chapter: 16
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T01:49:23.850Z"
+generated_at: "2026-03-30T01:51:50.579Z"
 ---
 
 # § 1862p–13. Tribal colleges and universities program

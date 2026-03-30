@@ -3,9 +3,9 @@ title: "Section 298 - Comprehensive geriatric education"
 usc_title: 42
 usc_section: "298"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 298"
-generated_at: "2026-03-30T01:49:23.543Z"
+generated_at: "2026-03-30T01:51:50.241Z"
 ---
 
 # § 298. Comprehensive geriatric education

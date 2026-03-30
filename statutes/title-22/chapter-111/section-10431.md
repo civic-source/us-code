@@ -3,9 +3,9 @@ title: "Section 10431 - Authorization of sales of Virginia Class submarines to A
 usc_title: 22
 usc_section: "10431"
 chapter: 111
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 10431"
-generated_at: "2026-03-30T01:48:20.780Z"
+generated_at: "2026-03-30T01:50:56.645Z"
 ---
 
 # § 10431. Authorization of sales of Virginia Class submarines to Australia

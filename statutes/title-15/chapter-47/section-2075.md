@@ -3,9 +3,9 @@ title: "Section 2075 - State standards"
 usc_title: 15
 usc_section: "2075"
 chapter: 47
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 2075"
-generated_at: "2026-03-30T01:47:48.203Z"
+generated_at: "2026-03-30T01:50:38.930Z"
 ---
 
 # § 2075. State standards

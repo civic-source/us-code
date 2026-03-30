@@ -3,9 +3,9 @@ title: "Section 687g - Penalties and forfeitures"
 usc_title: 15
 usc_section: "687g"
 chapter: 14
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 687g"
-generated_at: "2026-03-30T01:47:48.153Z"
+generated_at: "2026-03-30T01:50:38.878Z"
 ---
 
 # § 687g. Penalties and forfeitures

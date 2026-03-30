@@ -3,9 +3,9 @@ title: "Section 65 - Ordinary loss defined"
 usc_title: 26
 usc_section: "65"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 65"
-generated_at: "2026-03-30T01:48:44.582Z"
+generated_at: "2026-03-30T01:51:17.740Z"
 ---
 
 # § 65. Ordinary loss defined

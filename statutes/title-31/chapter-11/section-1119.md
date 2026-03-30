@@ -3,9 +3,9 @@ title: "Section 1119 - Pilot projects for performance budgeting"
 usc_title: 31
 usc_section: "1119"
 chapter: 11
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "31 U.S.C. § 1119"
-generated_at: "2026-03-30T01:48:49.924Z"
+generated_at: "2026-03-30T01:51:20.741Z"
 ---
 
 # § 1119. Pilot projects for performance budgeting

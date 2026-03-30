@@ -3,9 +3,9 @@ title: "Section 2904 - Approval of conservation plans and certain nongame fish a
 usc_title: 16
 usc_section: "2904"
 chapter: 49
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 2904"
-generated_at: "2026-03-30T01:47:59.927Z"
+generated_at: "2026-03-30T01:50:50.328Z"
 ---
 
 # § 2904. Approval of conservation plans and certain nongame fish and wildlife conservation actions

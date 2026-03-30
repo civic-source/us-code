@@ -3,9 +3,9 @@ title: "Section 3416 - Amendments to orders"
 usc_title: 7
 usc_section: "3416"
 chapter: 65
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 3416"
-generated_at: "2026-03-30T01:47:03.722Z"
+generated_at: "2026-03-30T01:50:11.006Z"
 ---
 
 # § 3416. Amendments to orders

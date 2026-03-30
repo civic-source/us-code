@@ -3,9 +3,9 @@ title: "Section 140305 - Annual report"
 usc_title: 36
 usc_section: "140305"
 chapter: 1403
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 140305"
-generated_at: "2026-03-30T01:49:04.960Z"
+generated_at: "2026-03-30T01:51:25.261Z"
 ---
 
 # § 140305. Annual report

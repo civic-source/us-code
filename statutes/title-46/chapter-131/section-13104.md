@@ -3,9 +3,9 @@ title: "Section 13104 - Allocations"
 usc_title: 46
 usc_section: "13104"
 chapter: 131
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "46 U.S.C. § 13104"
-generated_at: "2026-03-30T01:49:28.333Z"
+generated_at: "2026-03-30T01:52:00.219Z"
 ---
 
 # § 13104. Allocations

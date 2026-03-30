@@ -3,9 +3,9 @@ title: "Section 1185e - Preventing surprise medical bills"
 usc_title: 29
 usc_section: "1185e"
 chapter: 18
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "29 U.S.C. § 1185e"
-generated_at: "2026-03-30T01:48:31.195Z"
+generated_at: "2026-03-30T01:51:12.003Z"
 ---
 
 # § 1185e. Preventing surprise medical bills

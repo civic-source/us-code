@@ -3,9 +3,9 @@ title: "Section 60101 - Findings"
 usc_title: 34
 usc_section: "60101"
 chapter: 601
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "34 U.S.C. § 60101"
-generated_at: "2026-03-30T01:48:50.722Z"
+generated_at: "2026-03-30T01:51:21.511Z"
 ---
 
 # § 60101. Findings

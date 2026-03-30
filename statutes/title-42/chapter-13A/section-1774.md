@@ -3,9 +3,9 @@ title: "Section 1774 - Disbursement directly to schools or institutions"
 usc_title: 42
 usc_section: "1774"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 1774"
-generated_at: "2026-03-30T01:49:23.840Z"
+generated_at: "2026-03-30T01:51:50.570Z"
 ---
 
 # § 1774. Disbursement directly to schools or institutions

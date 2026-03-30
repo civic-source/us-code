@@ -3,9 +3,9 @@ title: "Section 1306 - Design notice"
 usc_title: 17
 usc_section: "1306"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "17 U.S.C. § 1306"
-generated_at: "2026-03-30T01:47:50.614Z"
+generated_at: "2026-03-30T01:50:40.994Z"
 ---
 
 # § 1306. Design notice

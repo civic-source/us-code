@@ -3,9 +3,9 @@ title: "Section 10753 - Review of applications"
 usc_title: 34
 usc_section: "10753"
 chapter: 101
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "34 U.S.C. § 10753"
-generated_at: "2026-03-30T01:48:50.685Z"
+generated_at: "2026-03-30T01:51:21.470Z"
 ---
 
 # § 10753. Review of applications

@@ -3,9 +3,9 @@ title: "Section 99 - Separability"
 usc_title: 7
 usc_section: "99"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 99"
-generated_at: "2026-03-30T01:47:03.576Z"
+generated_at: "2026-03-30T01:50:10.881Z"
 ---
 
 # § 99. Separability

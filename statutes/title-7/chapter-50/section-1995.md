@@ -3,9 +3,9 @@ title: "Section 1995 - Participation and financial and technical assistance by o
 usc_title: 7
 usc_section: "1995"
 chapter: 50
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 1995"
-generated_at: "2026-03-30T01:47:03.673Z"
+generated_at: "2026-03-30T01:50:10.965Z"
 ---
 
 # § 1995. Participation and financial and technical assistance by other Federal departments, etc., to program participants

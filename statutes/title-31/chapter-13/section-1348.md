@@ -3,9 +3,9 @@ title: "Section 1348 - Telephone installation and charges"
 usc_title: 31
 usc_section: "1348"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "31 U.S.C. § 1348"
-generated_at: "2026-03-30T01:48:49.926Z"
+generated_at: "2026-03-30T01:51:20.743Z"
 ---
 
 # § 1348. Telephone installation and charges

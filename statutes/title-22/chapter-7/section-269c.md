@@ -3,9 +3,9 @@ title: "Section 269c - International Statistical Bureau at The Hague; authorizat
 usc_title: 22
 usc_section: "269c"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 269c"
-generated_at: "2026-03-30T01:48:20.621Z"
+generated_at: "2026-03-30T01:50:56.479Z"
 ---
 
 # § 269c. International Statistical Bureau at The Hague; authorization of appropriations

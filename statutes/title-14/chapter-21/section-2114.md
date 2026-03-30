@@ -3,9 +3,9 @@ title: "Section 2114 - United States Deputy Marshals in Alaska"
 usc_title: 14
 usc_section: "2114"
 chapter: 21
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "14 U.S.C. § 2114"
-generated_at: "2026-03-30T01:47:15.197Z"
+generated_at: "2026-03-30T01:50:29.689Z"
 ---
 
 # § 2114. United States Deputy Marshals in Alaska

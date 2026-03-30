@@ -3,9 +3,9 @@ title: "Section 5108 - Authorization of appropriations"
 usc_title: 15
 usc_section: "5108"
 chapter: 77
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 5108"
-generated_at: "2026-03-30T01:47:48.240Z"
+generated_at: "2026-03-30T01:50:38.969Z"
 ---
 
 # § 5108. Authorization of appropriations

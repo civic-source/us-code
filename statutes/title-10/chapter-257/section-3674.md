@@ -3,9 +3,9 @@ title: "Section 3674 - Long-term lease or charter defined; substantial terminati
 usc_title: 10
 usc_section: "3674"
 chapter: 257
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 3674"
-generated_at: "2026-03-30T01:47:12.690Z"
+generated_at: "2026-03-30T01:50:25.973Z"
 ---
 
 # § 3674. Long-term lease or charter defined; substantial termination liability

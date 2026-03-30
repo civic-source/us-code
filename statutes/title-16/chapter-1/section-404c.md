@@ -3,9 +3,9 @@ title: "Section 404c - Omitted"
 usc_title: 16
 usc_section: "404c"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 404c"
-generated_at: "2026-03-30T01:47:59.747Z"
+generated_at: "2026-03-30T01:50:50.141Z"
 ---
 
 # § 404c. Omitted

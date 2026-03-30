@@ -3,9 +3,9 @@ title: "Section 9280 - Airman’s Medal: award; limitations"
 usc_title: 10
 usc_section: "9280"
 chapter: 937
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 9280"
-generated_at: "2026-03-30T01:47:12.733Z"
+generated_at: "2026-03-30T01:50:26.016Z"
 ---
 
 # § 9280. Airman’s Medal: award; limitations

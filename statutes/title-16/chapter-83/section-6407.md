@@ -3,9 +3,9 @@ title: "Section 6407 - Coral Reef Stewardship Fund"
 usc_title: 16
 usc_section: "6407"
 chapter: 83
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 6407"
-generated_at: "2026-03-30T01:47:59.959Z"
+generated_at: "2026-03-30T01:50:50.361Z"
 ---
 
 # § 6407. Coral Reef Stewardship Fund

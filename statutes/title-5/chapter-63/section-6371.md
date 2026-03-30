@@ -3,9 +3,9 @@ title: "Section 6371 - Accrual of leave"
 usc_title: 5
 usc_section: "6371"
 chapter: 63
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 6371"
-generated_at: "2026-03-30T01:46:54.569Z"
+generated_at: "2026-03-30T01:50:03.056Z"
 ---
 
 # § 6371. Accrual of leave

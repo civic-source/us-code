@@ -3,9 +3,9 @@ title: "Section 347 - International engagement authorities for service academies
 usc_title: 10
 usc_section: "347"
 chapter: 16
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 347"
-generated_at: "2026-03-30T01:47:12.573Z"
+generated_at: "2026-03-30T01:50:25.857Z"
 ---
 
 # § 347. International engagement authorities for service academies

@@ -3,9 +3,9 @@ title: "Section 6551 - Internet safety"
 usc_title: 15
 usc_section: "6551"
 chapter: 91
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 6551"
-generated_at: "2026-03-30T01:47:48.246Z"
+generated_at: "2026-03-30T01:50:38.975Z"
 ---
 
 # § 6551. Internet safety

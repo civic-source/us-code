@@ -3,9 +3,9 @@ title: "Section 1184 - Over-the-road bus security training program"
 usc_title: 6
 usc_section: "1184"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 1184"
-generated_at: "2026-03-30T01:47:04.884Z"
+generated_at: "2026-03-30T01:50:06.255Z"
 ---
 
 # § 1184. Over-the-road bus security training program

@@ -3,9 +3,9 @@ title: "Section 3233 - Misuse of the Office of the Director of National Intellig
 usc_title: 50
 usc_section: "3233"
 chapter: 44
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "50 U.S.C. § 3233"
-generated_at: "2026-03-30T01:49:29.577Z"
+generated_at: "2026-03-30T01:51:56.390Z"
 ---
 
 # § 3233. Misuse of the Office of the Director of National Intelligence name, initials, or seal

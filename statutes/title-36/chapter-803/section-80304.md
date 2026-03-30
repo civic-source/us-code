@@ -3,9 +3,9 @@ title: "Section 80304 - Powers"
 usc_title: 36
 usc_section: "80304"
 chapter: 803
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 80304"
-generated_at: "2026-03-30T01:49:04.958Z"
+generated_at: "2026-03-30T01:51:25.259Z"
 ---
 
 # § 80304. Powers

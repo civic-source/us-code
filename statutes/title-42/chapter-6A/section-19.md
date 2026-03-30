@@ -3,9 +3,9 @@ title: "Section 19 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "19"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T01:49:23.601Z"
+generated_at: "2026-03-30T01:51:50.309Z"
 ---
 
 # § 300jj–19. Miscellaneous provisions

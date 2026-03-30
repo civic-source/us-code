@@ -3,9 +3,9 @@ title: "Section 2 - Acquisition, management, and disposal of lands by Tulalip Tr
 usc_title: 25
 usc_section: "2"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T01:48:06.547Z"
+generated_at: "2026-03-30T01:51:05.984Z"
 ---
 
 # § 403a–2. Acquisition, management, and disposal of lands by Tulalip Tribe

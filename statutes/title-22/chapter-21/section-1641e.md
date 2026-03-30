@@ -3,9 +3,9 @@ title: "Section 1641e - Filing of claims; notice in Federal Register"
 usc_title: 22
 usc_section: "1641e"
 chapter: 21
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 1641e"
-generated_at: "2026-03-30T01:48:20.646Z"
+generated_at: "2026-03-30T01:50:56.504Z"
 ---
 
 # § 1641e. Filing of claims; notice in Federal Register

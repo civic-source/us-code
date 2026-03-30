@@ -3,9 +3,9 @@ title: "Section 2244a - Equipment scheduled for retirement or disposal: limitati
 usc_title: 10
 usc_section: "2244a"
 chapter: 134
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 2244a"
-generated_at: "2026-03-30T01:47:12.655Z"
+generated_at: "2026-03-30T01:50:25.936Z"
 ---
 
 # § 2244a. Equipment scheduled for retirement or disposal: limitation on expenditures for modifications

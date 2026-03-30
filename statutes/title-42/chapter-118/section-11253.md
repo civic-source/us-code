@@ -3,9 +3,9 @@ title: "Section 11253 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11253"
 chapter: 118
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 11253"
-generated_at: "2026-03-30T01:49:24.099Z"
+generated_at: "2026-03-30T01:51:50.832Z"
 ---
 
 # § 11253. Authorization of appropriations

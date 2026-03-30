@@ -3,9 +3,9 @@ title: "Section 1636a - Unlawful acts"
 usc_title: 7
 usc_section: "1636a"
 chapter: 38
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 1636a"
-generated_at: "2026-03-30T01:47:03.653Z"
+generated_at: "2026-03-30T01:50:10.948Z"
 ---
 
 # § 1636a. Unlawful acts

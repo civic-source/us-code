@@ -3,9 +3,9 @@ title: "Section 13726b - Transferred"
 usc_title: 42
 usc_section: "13726b"
 chapter: 136
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 13726b"
-generated_at: "2026-03-30T01:49:24.147Z"
+generated_at: "2026-03-30T01:51:50.887Z"
 ---
 
 # § 13726b. Transferred

@@ -3,9 +3,9 @@ title: "Section 2b - Protection for voluntary provision of information"
 usc_title: 15
 usc_section: "2b"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 2b"
-generated_at: "2026-03-30T01:47:48.074Z"
+generated_at: "2026-03-30T01:50:38.800Z"
 ---
 
 # § 57b–2b. Protection for voluntary provision of information

@@ -3,9 +3,9 @@ title: "Section 60125 - Authorization of appropriations"
 usc_title: 49
 usc_section: "60125"
 chapter: 601
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "49 U.S.C. § 60125"
-generated_at: "2026-03-30T01:49:35.472Z"
+generated_at: "2026-03-30T01:51:58.932Z"
 ---
 
 # § 60125. Authorization of appropriations

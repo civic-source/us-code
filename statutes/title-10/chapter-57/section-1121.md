@@ -3,9 +3,9 @@ title: "Section 1121 - Legion of Merit: award"
 usc_title: 10
 usc_section: "1121"
 chapter: 57
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 1121"
-generated_at: "2026-03-30T01:47:12.620Z"
+generated_at: "2026-03-30T01:50:25.903Z"
 ---
 
 # § 1121. Legion of Merit: award

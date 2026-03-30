@@ -3,9 +3,9 @@ title: "Section 241 - Research and investigations generally"
 usc_title: 42
 usc_section: "241"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 241"
-generated_at: "2026-03-30T01:49:23.457Z"
+generated_at: "2026-03-30T01:51:50.134Z"
 ---
 
 # § 241. Research and investigations generally

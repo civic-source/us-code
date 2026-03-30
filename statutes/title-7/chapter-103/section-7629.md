@@ -3,9 +3,9 @@ title: "Section 7629 - Repealed. Pub. L. 113–79, title VII, § 7304 , Feb. 7, 
 usc_title: 7
 usc_section: "7629"
 chapter: 103
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 7629"
-generated_at: "2026-03-30T01:47:03.774Z"
+generated_at: "2026-03-30T01:50:11.051Z"
 ---
 
 # § 7629. Repealed. Pub. L. 113–79, title VII, § 7304 , Feb. 7, 2014 , 128 Stat. 888

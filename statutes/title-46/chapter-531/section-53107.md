@@ -3,9 +3,9 @@ title: "Section 53107 - National security requirements"
 usc_title: 46
 usc_section: "53107"
 chapter: 531
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "46 U.S.C. § 53107"
-generated_at: "2026-03-30T01:49:28.344Z"
+generated_at: "2026-03-30T01:52:00.233Z"
 ---
 
 # § 53107. National security requirements

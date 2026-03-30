@@ -3,9 +3,9 @@ title: "Section 668b - Enforcement provisions"
 usc_title: 16
 usc_section: "668b"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 668b"
-generated_at: "2026-03-30T01:47:59.842Z"
+generated_at: "2026-03-30T01:50:50.240Z"
 ---
 
 # § 668b. Enforcement provisions

@@ -3,9 +3,9 @@ title: "Section 3068 - Inapplicability of certain laws"
 usc_title: 10
 usc_section: "3068"
 chapter: 203
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 3068"
-generated_at: "2026-03-30T01:47:12.684Z"
+generated_at: "2026-03-30T01:50:25.967Z"
 ---
 
 # § 3068. Inapplicability of certain laws

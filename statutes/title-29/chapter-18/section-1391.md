@@ -3,9 +3,9 @@ title: "Section 1391 - Methods for computing withdrawal liability"
 usc_title: 29
 usc_section: "1391"
 chapter: 18
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "29 U.S.C. § 1391"
-generated_at: "2026-03-30T01:48:31.205Z"
+generated_at: "2026-03-30T01:51:12.013Z"
 ---
 
 # § 1391. Methods for computing withdrawal liability

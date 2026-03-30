@@ -3,9 +3,9 @@ title: "Section 831dd - Liberal construction of chapter; sale of surplus lands"
 usc_title: 16
 usc_section: "831dd"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 831dd"
-generated_at: "2026-03-30T01:47:59.868Z"
+generated_at: "2026-03-30T01:50:50.266Z"
 ---
 
 # § 831dd. Liberal construction of chapter; sale of surplus lands

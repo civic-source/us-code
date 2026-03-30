@@ -3,9 +3,9 @@ title: "Section 3733 - Overseas Private Investment Corporation initiatives"
 usc_title: 19
 usc_section: "3733"
 chapter: 23
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 3733"
-generated_at: "2026-03-30T01:47:53.873Z"
+generated_at: "2026-03-30T01:50:42.829Z"
 ---
 
 # § 3733. Overseas Private Investment Corporation initiatives

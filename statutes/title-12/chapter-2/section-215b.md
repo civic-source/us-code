@@ -3,9 +3,9 @@ title: "Section 215b - Definitions"
 usc_title: 12
 usc_section: "215b"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 215b"
-generated_at: "2026-03-30T01:47:37.899Z"
+generated_at: "2026-03-30T01:50:36.012Z"
 ---
 
 # § 215b. Definitions

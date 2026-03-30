@@ -3,9 +3,9 @@ title: "Section 1667a - Consumer lease disclosures"
 usc_title: 15
 usc_section: "1667a"
 chapter: 41
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 1667a"
-generated_at: "2026-03-30T01:47:48.186Z"
+generated_at: "2026-03-30T01:50:38.913Z"
 ---
 
 # § 1667a. Consumer lease disclosures

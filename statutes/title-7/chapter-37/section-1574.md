@@ -3,9 +3,9 @@ title: "Section 1574 - Disclaimers, limited warranties and nonwarranties"
 usc_title: 7
 usc_section: "1574"
 chapter: 37
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 1574"
-generated_at: "2026-03-30T01:47:03.648Z"
+generated_at: "2026-03-30T01:50:10.943Z"
 ---
 
 # § 1574. Disclaimers, limited warranties and nonwarranties

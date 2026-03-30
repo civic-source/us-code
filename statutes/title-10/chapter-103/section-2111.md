@@ -3,9 +3,9 @@ title: "Section 2111 - Personnel: administrators and instructors"
 usc_title: 10
 usc_section: "2111"
 chapter: 103
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 2111"
-generated_at: "2026-03-30T01:47:12.647Z"
+generated_at: "2026-03-30T01:50:25.930Z"
 ---
 
 # § 2111. Personnel: administrators and instructors

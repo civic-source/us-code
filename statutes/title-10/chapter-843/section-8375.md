@@ -3,9 +3,9 @@ title: "Section 8375 - Navy and Marine Corps; warrant officers, W–1: limitatio
 usc_title: 10
 usc_section: "8375"
 chapter: 843
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8375"
-generated_at: "2026-03-30T01:47:12.721Z"
+generated_at: "2026-03-30T01:50:26.004Z"
 ---
 
 # § 8375. Navy and Marine Corps; warrant officers, W–1: limitation on dismissal

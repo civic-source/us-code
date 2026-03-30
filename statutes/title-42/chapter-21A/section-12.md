@@ -3,9 +3,9 @@ title: "Section 12 - Binding nature of guidelines; disciplinary actions for viol
 usc_title: 42
 usc_section: "12"
 chapter: 21
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T01:49:23.862Z"
+generated_at: "2026-03-30T01:51:50.593Z"
 ---
 
 # § 2000aa–12. Binding nature of guidelines; disciplinary actions for violations; legal proceedings for non-compliance prohibited

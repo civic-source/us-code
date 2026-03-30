@@ -3,9 +3,9 @@ title: "Section 1735d - Payment of insurance benefits in cash or debentures; bor
 usc_title: 12
 usc_section: "1735d"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 1735d"
-generated_at: "2026-03-30T01:47:37.948Z"
+generated_at: "2026-03-30T01:50:36.061Z"
 ---
 
 # § 1735d. Payment of insurance benefits in cash or debentures; borrowing money from Treasury to make payments

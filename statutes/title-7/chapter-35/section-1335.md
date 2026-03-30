@@ -3,9 +3,9 @@ title: "Section 1335 - Small-farm exemption; small-farm base acreage; election; 
 usc_title: 7
 usc_section: "1335"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 1335"
-generated_at: "2026-03-30T01:47:03.624Z"
+generated_at: "2026-03-30T01:50:10.924Z"
 ---
 
 # § 1335. Small-farm exemption; small-farm base acreage; election; acreage allotment; land-use provisions; price support; wheat marketing certificates

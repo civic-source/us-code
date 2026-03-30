@@ -3,9 +3,9 @@ title: "Section 3305 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3305"
 chapter: 46
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "33 U.S.C. § 3305"
-generated_at: "2026-03-30T01:49:01.758Z"
+generated_at: "2026-03-30T01:51:22.616Z"
 ---
 
 # § 3305. Authorization of appropriations

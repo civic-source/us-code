@@ -3,9 +3,9 @@ title: "Section 35 - Recovery of damages, etc., for antitrust violations from an
 usc_title: 15
 usc_section: "35"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 35"
-generated_at: "2026-03-30T01:47:48.070Z"
+generated_at: "2026-03-30T01:50:38.796Z"
 ---
 
 # § 35. Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity

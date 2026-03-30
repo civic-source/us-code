@@ -3,9 +3,9 @@ title: "Section 1102 - Confidentiality of medical quality assurance records: qua
 usc_title: 10
 usc_section: "1102"
 chapter: 55
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 1102"
-generated_at: "2026-03-30T01:47:12.619Z"
+generated_at: "2026-03-30T01:50:25.901Z"
 ---
 
 # § 1102. Confidentiality of medical quality assurance records: qualified immunity for participants

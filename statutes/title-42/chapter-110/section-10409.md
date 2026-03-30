@@ -3,9 +3,9 @@ title: "Section 10409 - Grants for Indian tribes"
 usc_title: 42
 usc_section: "10409"
 chapter: 110
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 10409"
-generated_at: "2026-03-30T01:49:24.092Z"
+generated_at: "2026-03-30T01:51:50.825Z"
 ---
 
 # § 10409. Grants for Indian tribes

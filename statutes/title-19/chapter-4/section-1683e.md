@@ -3,9 +3,9 @@ title: "Section 1683e - Verification"
 usc_title: 19
 usc_section: "1683e"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 1683e"
-generated_at: "2026-03-30T01:47:53.843Z"
+generated_at: "2026-03-30T01:50:42.799Z"
 ---
 
 # § 1683e. Verification

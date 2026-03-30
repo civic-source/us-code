@@ -3,9 +3,9 @@ title: "Section 10423 - Expedited review of export licenses for exports of advan
 usc_title: 22
 usc_section: "10423"
 chapter: 111
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 10423"
-generated_at: "2026-03-30T01:48:20.780Z"
+generated_at: "2026-03-30T01:50:56.645Z"
 ---
 
 # § 10423. Expedited review of export licenses for exports of advanced technologies to Australia, the United Kingdom, and Canada

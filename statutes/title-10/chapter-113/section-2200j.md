@@ -3,9 +3,9 @@ title: "Section 2200j - Definitions"
 usc_title: 10
 usc_section: "2200j"
 chapter: 113
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 2200j"
-generated_at: "2026-03-30T01:47:12.652Z"
+generated_at: "2026-03-30T01:50:25.934Z"
 ---
 
 # § 2200j. Definitions

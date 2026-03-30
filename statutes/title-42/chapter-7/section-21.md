@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T01:49:23.710Z"
+generated_at: "2026-03-30T01:51:50.433Z"
 ---
 
 # § 1395w–21. Eligibility, election, and enrollment

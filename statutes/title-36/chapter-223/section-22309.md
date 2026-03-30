@@ -3,9 +3,9 @@ title: "Section 22309 - Records and inspection"
 usc_title: 36
 usc_section: "22309"
 chapter: 223
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 22309"
-generated_at: "2026-03-30T01:49:04.953Z"
+generated_at: "2026-03-30T01:51:25.253Z"
 ---
 
 # § 22309. Records and inspection

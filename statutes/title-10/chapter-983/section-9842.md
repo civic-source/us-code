@@ -3,9 +3,9 @@ title: "Section 9842 - Settlement of accounts of line officers"
 usc_title: 10
 usc_section: "9842"
 chapter: 983
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 9842"
-generated_at: "2026-03-30T01:47:12.738Z"
+generated_at: "2026-03-30T01:50:26.022Z"
 ---
 
 # § 9842. Settlement of accounts of line officers

@@ -3,9 +3,9 @@ title: "Section 3 - Authorizations for appropriations"
 usc_title: 15
 usc_section: "3"
 chapter: 15
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T01:47:48.158Z"
+generated_at: "2026-03-30T01:50:38.883Z"
 ---
 
 # § 713d–3. Authorizations for appropriations

@@ -3,9 +3,9 @@ title: "Section 575 - Regional emergency communications coordination"
 usc_title: 6
 usc_section: "575"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 575"
-generated_at: "2026-03-30T01:47:04.861Z"
+generated_at: "2026-03-30T01:50:06.234Z"
 ---
 
 # § 575. Regional emergency communications coordination

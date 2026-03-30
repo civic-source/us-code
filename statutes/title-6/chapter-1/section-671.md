@@ -3,9 +3,9 @@ title: "Section 671 - Definitions"
 usc_title: 6
 usc_section: "671"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 671"
-generated_at: "2026-03-30T01:47:04.871Z"
+generated_at: "2026-03-30T01:50:06.243Z"
 ---
 
 # § 671. Definitions

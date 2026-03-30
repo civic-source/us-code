@@ -3,9 +3,9 @@ title: "Section 9269d - Exception relating to importation of goods"
 usc_title: 22
 usc_section: "9269d"
 chapter: 99
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 9269d"
-generated_at: "2026-03-30T01:48:20.769Z"
+generated_at: "2026-03-30T01:50:56.633Z"
 ---
 
 # § 9269d. Exception relating to importation of goods

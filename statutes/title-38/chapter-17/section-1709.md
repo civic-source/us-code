@@ -3,9 +3,9 @@ title: "Section 1709 - Comprehensive policy on reporting and tracking sexual ass
 usc_title: 38
 usc_section: "1709"
 chapter: 17
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "38 U.S.C. § 1709"
-generated_at: "2026-03-30T01:49:06.742Z"
+generated_at: "2026-03-30T01:51:28.200Z"
 ---
 
 # § 1709. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents

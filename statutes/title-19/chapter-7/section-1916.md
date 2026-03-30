@@ -3,9 +3,9 @@ title: "Section 1916 - Administration of financial assistance; recording of mort
 usc_title: 19
 usc_section: "1916"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 1916"
-generated_at: "2026-03-30T01:47:53.845Z"
+generated_at: "2026-03-30T01:50:42.800Z"
 ---
 
 # § 1916. Administration of financial assistance; recording of mortgages

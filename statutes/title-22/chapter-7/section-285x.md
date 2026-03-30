@@ -3,9 +3,9 @@ title: "Section 285x - Additional subscription to shares"
 usc_title: 22
 usc_section: "285x"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 285x"
-generated_at: "2026-03-30T01:48:20.628Z"
+generated_at: "2026-03-30T01:50:56.486Z"
 ---
 
 # § 285x. Additional subscription to shares

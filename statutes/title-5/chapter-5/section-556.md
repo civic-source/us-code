@@ -3,9 +3,9 @@ title: "Section 556 - Hearings; presiding employees; powers and duties; burden o
 usc_title: 5
 usc_section: "556"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 556"
-generated_at: "2026-03-30T01:46:54.525Z"
+generated_at: "2026-03-30T01:50:03.026Z"
 ---
 
 # § 556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision

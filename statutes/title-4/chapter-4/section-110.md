@@ -3,9 +3,9 @@ title: "Section 110 - Same; definitions"
 usc_title: 4
 usc_section: "110"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "4 U.S.C. § 110"
-generated_at: "2026-03-30T01:46:51.278Z"
+generated_at: "2026-03-30T01:49:49.504Z"
 ---
 
 # § 110. Same; definitions

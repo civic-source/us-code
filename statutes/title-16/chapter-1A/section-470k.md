@@ -3,9 +3,9 @@ title: "Section 470k - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470k"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 470k"
-generated_at: "2026-03-30T01:47:59.815Z"
+generated_at: "2026-03-30T01:50:50.212Z"
 ---
 
 # § 470k. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

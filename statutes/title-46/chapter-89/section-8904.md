@@ -3,9 +3,9 @@ title: "Section 8904 - Towing vessels"
 usc_title: 46
 usc_section: "8904"
 chapter: 89
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "46 U.S.C. § 8904"
-generated_at: "2026-03-30T01:49:28.328Z"
+generated_at: "2026-03-30T01:52:00.212Z"
 ---
 
 # § 8904. Towing vessels

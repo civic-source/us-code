@@ -3,9 +3,9 @@ title: "Section 3051 - Purposes"
 usc_title: 25
 usc_section: "3051"
 chapter: 32
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 3051"
-generated_at: "2026-03-30T01:48:06.580Z"
+generated_at: "2026-03-30T01:51:06.021Z"
 ---
 
 # § 3051. Purposes

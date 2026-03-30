@@ -3,9 +3,9 @@ title: "Section 9524 - Grants and cooperative agreements"
 usc_title: 15
 usc_section: "9524"
 chapter: 120
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 9524"
-generated_at: "2026-03-30T01:47:48.279Z"
+generated_at: "2026-03-30T01:50:39.011Z"
 ---
 
 # § 9524. Grants and cooperative agreements

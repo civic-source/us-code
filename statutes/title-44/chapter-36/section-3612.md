@@ -3,9 +3,9 @@ title: "Section 3612 - Declaration of foreign interests"
 usc_title: 44
 usc_section: "3612"
 chapter: 36
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "44 U.S.C. § 3612"
-generated_at: "2026-03-30T01:49:08.680Z"
+generated_at: "2026-03-30T01:51:31.811Z"
 ---
 
 # § 3612. Declaration of foreign interests

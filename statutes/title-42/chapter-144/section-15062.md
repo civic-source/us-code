@@ -3,9 +3,9 @@ title: "Section 15062 - Grant awards"
 usc_title: 42
 usc_section: "15062"
 chapter: 144
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 15062"
-generated_at: "2026-03-30T01:49:24.154Z"
+generated_at: "2026-03-30T01:51:50.895Z"
 ---
 
 # § 15062. Grant awards

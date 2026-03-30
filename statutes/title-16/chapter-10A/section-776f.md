@@ -3,9 +3,9 @@ title: "Section 776f - Repealed. Pub. L. 99–5, § 13 , Mar. 15, 1985 , 99 Stat
 usc_title: 16
 usc_section: "776f"
 chapter: 10
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 776f"
-generated_at: "2026-03-30T01:47:59.856Z"
+generated_at: "2026-03-30T01:50:50.254Z"
 ---
 
 # §§ 776 to 776f. Repealed. Pub. L. 99–5, § 13 , Mar. 15, 1985 , 99 Stat. 15

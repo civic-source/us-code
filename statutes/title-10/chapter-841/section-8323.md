@@ -3,9 +3,9 @@ title: "Section 8323 - Officers: 20 years"
 usc_title: 10
 usc_section: "8323"
 chapter: 841
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8323"
-generated_at: "2026-03-30T01:47:12.720Z"
+generated_at: "2026-03-30T01:50:26.003Z"
 ---
 
 # § 8323. Officers: 20 years

@@ -3,9 +3,9 @@ title: "Section 583f - “Federally owned or administered forest land” defined
 usc_title: 16
 usc_section: "583f"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 583f"
-generated_at: "2026-03-30T01:47:59.835Z"
+generated_at: "2026-03-30T01:50:50.233Z"
 ---
 
 # § 583f. “Federally owned or administered forest land” defined

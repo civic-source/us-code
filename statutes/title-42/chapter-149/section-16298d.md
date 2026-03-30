@@ -3,9 +3,9 @@ title: "Section 16298d - Carbon removal"
 usc_title: 42
 usc_section: "16298d"
 chapter: 149
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 16298d"
-generated_at: "2026-03-30T01:49:24.176Z"
+generated_at: "2026-03-30T01:51:50.916Z"
 ---
 
 # § 16298d. Carbon removal

@@ -3,9 +3,9 @@ title: "Section 39 - Repealed. Aug. 8, 1953, ch. 397, § 2(a) , 67 Stat. 507"
 usc_title: 19
 usc_section: "39"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 39"
-generated_at: "2026-03-30T01:47:53.814Z"
+generated_at: "2026-03-30T01:50:42.768Z"
 ---
 
 # § 39. Repealed. Aug. 8, 1953, ch. 397, § 2(a) , 67 Stat. 507

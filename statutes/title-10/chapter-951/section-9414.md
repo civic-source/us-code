@@ -3,9 +3,9 @@ title: "Section 9414 - Degree granting authority for United States Air Force Ins
 usc_title: 10
 usc_section: "9414"
 chapter: 951
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 9414"
-generated_at: "2026-03-30T01:47:12.734Z"
+generated_at: "2026-03-30T01:50:26.017Z"
 ---
 
 # § 9414. Degree granting authority for United States Air Force Institute of Technology

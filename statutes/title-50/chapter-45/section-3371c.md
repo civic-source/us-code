@@ -3,9 +3,9 @@ title: "Section 3371c - Notification of significant foreign cyber intrusions and
 usc_title: 50
 usc_section: "3371c"
 chapter: 45
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "50 U.S.C. § 3371c"
-generated_at: "2026-03-30T01:49:29.586Z"
+generated_at: "2026-03-30T01:51:56.400Z"
 ---
 
 # § 3371c. Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices

@@ -3,9 +3,9 @@ title: "Section 7212 - Registration with the Board"
 usc_title: 15
 usc_section: "7212"
 chapter: 98
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 7212"
-generated_at: "2026-03-30T01:47:48.252Z"
+generated_at: "2026-03-30T01:50:38.983Z"
 ---
 
 # § 7212. Registration with the Board

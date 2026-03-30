@@ -3,9 +3,9 @@ title: "Section 3207 - Judicial review and enforcement"
 usc_title: 15
 usc_section: "3207"
 chapter: 59
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 3207"
-generated_at: "2026-03-30T01:47:48.224Z"
+generated_at: "2026-03-30T01:50:38.953Z"
 ---
 
 # § 3207. Judicial review and enforcement

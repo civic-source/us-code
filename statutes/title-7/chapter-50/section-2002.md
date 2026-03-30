@@ -3,9 +3,9 @@ title: "Section 2002 - Transfer of inventory lands"
 usc_title: 7
 usc_section: "2002"
 chapter: 50
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 2002"
-generated_at: "2026-03-30T01:47:03.674Z"
+generated_at: "2026-03-30T01:50:10.966Z"
 ---
 
 # § 2002. Transfer of inventory lands

@@ -3,9 +3,9 @@ title: "Section 20904 - Authorization of appropriations"
 usc_title: 52
 usc_section: "20904"
 chapter: 209
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "52 U.S.C. § 20904"
-generated_at: "2026-03-30T01:49:38.517Z"
+generated_at: "2026-03-30T01:52:13.307Z"
 ---
 
 # § 20904. Authorization of appropriations

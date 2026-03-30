@@ -3,9 +3,9 @@ title: "Section 3601 - Definition of emergency situation"
 usc_title: 38
 usc_section: "3601"
 chapter: 36
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "38 U.S.C. § 3601"
-generated_at: "2026-03-30T01:49:06.767Z"
+generated_at: "2026-03-30T01:51:28.228Z"
 ---
 
 # § 3601. Definition of emergency situation

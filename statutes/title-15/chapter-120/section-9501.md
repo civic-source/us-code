@@ -3,9 +3,9 @@ title: "Section 9501 - Definitions"
 usc_title: 15
 usc_section: "9501"
 chapter: 120
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 9501"
-generated_at: "2026-03-30T01:47:48.279Z"
+generated_at: "2026-03-30T01:50:39.010Z"
 ---
 
 # § 9501. Definitions

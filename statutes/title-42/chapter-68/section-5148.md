@@ -3,9 +3,9 @@ title: "Section 5148 - Nonliability of Federal Government"
 usc_title: 42
 usc_section: "5148"
 chapter: 68
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 5148"
-generated_at: "2026-03-30T01:49:23.937Z"
+generated_at: "2026-03-30T01:51:50.669Z"
 ---
 
 # § 5148. Nonliability of Federal Government

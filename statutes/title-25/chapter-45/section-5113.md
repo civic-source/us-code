@@ -3,9 +3,9 @@ title: "Section 5113 - Revolving fund; appropriation for loans"
 usc_title: 25
 usc_section: "5113"
 chapter: 45
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 5113"
-generated_at: "2026-03-30T01:48:06.594Z"
+generated_at: "2026-03-30T01:51:06.036Z"
 ---
 
 # § 5113. Revolving fund; appropriation for loans

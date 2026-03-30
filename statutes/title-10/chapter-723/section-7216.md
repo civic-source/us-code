@@ -3,9 +3,9 @@ title: "Section 7216 - Leader of Army Band: appointment"
 usc_title: 10
 usc_section: "7216"
 chapter: 723
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 7216"
-generated_at: "2026-03-30T01:47:12.710Z"
+generated_at: "2026-03-30T01:50:25.993Z"
 ---
 
 # § 7216. Leader of Army Band: appointment

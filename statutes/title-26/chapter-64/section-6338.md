@@ -3,9 +3,9 @@ title: "Section 6338 - Certificate of sale; deed of real property"
 usc_title: 26
 usc_section: "6338"
 chapter: 64
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 6338"
-generated_at: "2026-03-30T01:48:44.777Z"
+generated_at: "2026-03-30T01:51:17.933Z"
 ---
 
 # § 6338. Certificate of sale; deed of real property

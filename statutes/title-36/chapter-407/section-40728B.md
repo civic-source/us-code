@@ -3,9 +3,9 @@ title: "Section 40728B - Recovery of excess rifles, ammunition, and parts grante
 usc_title: 36
 usc_section: "40728B"
 chapter: 407
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 40728B"
-generated_at: "2026-03-30T01:49:04.956Z"
+generated_at: "2026-03-30T01:51:25.257Z"
 ---
 
 # § 40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons

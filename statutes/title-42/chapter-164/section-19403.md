@@ -3,9 +3,9 @@ title: "Section 19403 - Limitation on judicial enforceability of nondisclosure a
 usc_title: 42
 usc_section: "19403"
 chapter: 164
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 19403"
-generated_at: "2026-03-30T01:49:24.243Z"
+generated_at: "2026-03-30T01:51:50.994Z"
 ---
 
 # § 19403. Limitation on judicial enforceability of nondisclosure and nondisparagement contract clauses relating to sexual assault disputes and sexual harassment disputes

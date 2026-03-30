@@ -3,9 +3,9 @@ title: "Section 8402 - Prohibitions against certain unfair and deceptive Interne
 usc_title: 15
 usc_section: "8402"
 chapter: 110
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 8402"
-generated_at: "2026-03-30T01:47:48.262Z"
+generated_at: "2026-03-30T01:50:38.993Z"
 ---
 
 # § 8402. Prohibitions against certain unfair and deceptive Internet sales practices

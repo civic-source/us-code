@@ -3,9 +3,9 @@ title: "Section 1658 - Time limitations on the commencement of civil actions ari
 usc_title: 28
 usc_section: "1658"
 chapter: 111
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "28 U.S.C. § 1658"
-generated_at: "2026-03-30T01:48:30.269Z"
+generated_at: "2026-03-30T01:51:09.465Z"
 ---
 
 # § 1658. Time limitations on the commencement of civil actions arising under Acts of Congress

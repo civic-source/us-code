@@ -3,9 +3,9 @@ title: "Section 633 - Determination of number, locations, and salaries of magist
 usc_title: 28
 usc_section: "633"
 chapter: 43
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "28 U.S.C. § 633"
-generated_at: "2026-03-30T01:48:30.262Z"
+generated_at: "2026-03-30T01:51:09.458Z"
 ---
 
 # § 633. Determination of number, locations, and salaries of magistrate judges

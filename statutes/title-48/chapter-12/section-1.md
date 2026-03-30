@@ -3,9 +3,9 @@ title: "Section 1 - Applicability of laws referred to in section 502(a)(1) of Co
 usc_title: 48
 usc_section: "1"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T01:49:27.495Z"
+generated_at: "2026-03-30T01:51:54.414Z"
 ---
 
 # § 1574–1. Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands

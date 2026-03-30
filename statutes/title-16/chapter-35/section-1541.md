@@ -3,9 +3,9 @@ title: "Section 1541 - Endangered plants"
 usc_title: 16
 usc_section: "1541"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 1541"
-generated_at: "2026-03-30T01:47:59.906Z"
+generated_at: "2026-03-30T01:50:50.305Z"
 ---
 
 # § 1541. Endangered plants

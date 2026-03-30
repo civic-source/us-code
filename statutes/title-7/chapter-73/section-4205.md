@@ -3,9 +3,9 @@ title: "Section 4205 - Farmland resource information"
 usc_title: 7
 usc_section: "4205"
 chapter: 73
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 4205"
-generated_at: "2026-03-30T01:47:03.724Z"
+generated_at: "2026-03-30T01:50:11.008Z"
 ---
 
 # § 4205. Farmland resource information

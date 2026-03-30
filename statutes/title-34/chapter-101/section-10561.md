@@ -3,9 +3,9 @@ title: "Section 10561 - Grant authorization"
 usc_title: 34
 usc_section: "10561"
 chapter: 101
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "34 U.S.C. § 10561"
-generated_at: "2026-03-30T01:48:50.682Z"
+generated_at: "2026-03-30T01:51:21.465Z"
 ---
 
 # § 10561. Grant authorization

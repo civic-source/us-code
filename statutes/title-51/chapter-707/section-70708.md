@@ -3,9 +3,9 @@ title: "Section 70708 - Compensation and travel expenses"
 usc_title: 51
 usc_section: "70708"
 chapter: 707
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "51 U.S.C. § 70708"
-generated_at: "2026-03-30T01:49:37.549Z"
+generated_at: "2026-03-30T01:52:02.947Z"
 ---
 
 # § 70708. Compensation and travel expenses

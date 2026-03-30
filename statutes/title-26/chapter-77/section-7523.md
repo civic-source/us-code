@@ -3,9 +3,9 @@ title: "Section 7523 - Graphic presentation of major categories of Federal outla
 usc_title: 26
 usc_section: "7523"
 chapter: 77
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 7523"
-generated_at: "2026-03-30T01:48:44.800Z"
+generated_at: "2026-03-30T01:51:17.955Z"
 ---
 
 # § 7523. Graphic presentation of major categories of Federal outlays and income

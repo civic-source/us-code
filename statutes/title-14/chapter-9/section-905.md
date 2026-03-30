@@ -3,9 +3,9 @@ title: "Section 905 - Procurement authority for family housing"
 usc_title: 14
 usc_section: "905"
 chapter: 9
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "14 U.S.C. § 905"
-generated_at: "2026-03-30T01:47:15.193Z"
+generated_at: "2026-03-30T01:50:29.683Z"
 ---
 
 # § 905. Procurement authority for family housing

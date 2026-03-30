@@ -3,9 +3,9 @@ title: "Section 312 - Agency evidence-building plan"
 usc_title: 5
 usc_section: "312"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 312"
-generated_at: "2026-03-30T01:46:54.516Z"
+generated_at: "2026-03-30T01:50:03.018Z"
 ---
 
 # § 312. Agency evidence-building plan

@@ -3,9 +3,9 @@ title: "Section 1725 - Food Aid Consultative Group"
 usc_title: 7
 usc_section: "1725"
 chapter: 41
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 1725"
-generated_at: "2026-03-30T01:47:03.657Z"
+generated_at: "2026-03-30T01:50:10.951Z"
 ---
 
 # § 1725. Food Aid Consultative Group

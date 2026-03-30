@@ -3,9 +3,9 @@ title: "Section 2392 - Authority to make payments"
 usc_title: 20
 usc_section: "2392"
 chapter: 44
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "20 U.S.C. § 2392"
-generated_at: "2026-03-30T01:47:57.307Z"
+generated_at: "2026-03-30T01:50:44.906Z"
 ---
 
 # § 2392. Authority to make payments

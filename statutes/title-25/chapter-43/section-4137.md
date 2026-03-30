@@ -3,9 +3,9 @@ title: "Section 4137 - Lease requirements and tenant selection"
 usc_title: 25
 usc_section: "4137"
 chapter: 43
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 4137"
-generated_at: "2026-03-30T01:48:06.591Z"
+generated_at: "2026-03-30T01:51:06.032Z"
 ---
 
 # § 4137. Lease requirements and tenant selection

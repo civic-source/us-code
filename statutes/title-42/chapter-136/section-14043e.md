@@ -3,9 +3,9 @@ title: "Section 14043e - Transferred"
 usc_title: 42
 usc_section: "14043e"
 chapter: 136
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 14043e"
-generated_at: "2026-03-30T01:49:24.147Z"
+generated_at: "2026-03-30T01:51:50.888Z"
 ---
 
 # § 14043e. Transferred

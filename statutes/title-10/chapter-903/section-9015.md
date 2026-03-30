@@ -3,9 +3,9 @@ title: "Section 9015 - Under Secretary of the Air Force"
 usc_title: 10
 usc_section: "9015"
 chapter: 903
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 9015"
-generated_at: "2026-03-30T01:47:12.731Z"
+generated_at: "2026-03-30T01:50:26.014Z"
 ---
 
 # § 9015. Under Secretary of the Air Force

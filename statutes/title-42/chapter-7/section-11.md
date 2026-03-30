@@ -3,9 +3,9 @@ title: "Section 11 - Regulations"
 usc_title: 42
 usc_section: "11"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T01:49:23.798Z"
+generated_at: "2026-03-30T01:51:50.526Z"
 ---
 
 # § 1397n–11. Regulations

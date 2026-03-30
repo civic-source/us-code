@@ -3,9 +3,9 @@ title: "Section 4820 - National technology and industrial base plans, policy, an
 usc_title: 10
 usc_section: "4820"
 chapter: 382
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 4820"
-generated_at: "2026-03-30T01:47:12.705Z"
+generated_at: "2026-03-30T01:50:25.987Z"
 ---
 
 # § 4820. National technology and industrial base plans, policy, and guidance

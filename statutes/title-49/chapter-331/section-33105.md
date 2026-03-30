@@ -3,9 +3,9 @@ title: "Section 33105 - Cost limitations"
 usc_title: 49
 usc_section: "33105"
 chapter: 331
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "49 U.S.C. § 33105"
-generated_at: "2026-03-30T01:49:35.436Z"
+generated_at: "2026-03-30T01:51:58.886Z"
 ---
 
 # § 33105. Cost limitations

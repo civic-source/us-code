@@ -3,9 +3,9 @@ title: "Section 7305b - Transferability of funds"
 usc_title: 20
 usc_section: "7305b"
 chapter: 70
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "20 U.S.C. § 7305b"
-generated_at: "2026-03-30T01:47:57.339Z"
+generated_at: "2026-03-30T01:50:44.940Z"
 ---
 
 # § 7305b. Transferability of funds

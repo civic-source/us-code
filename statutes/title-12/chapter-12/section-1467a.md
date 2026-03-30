@@ -3,9 +3,9 @@ title: "Section 1467a - Regulation of holding companies"
 usc_title: 12
 usc_section: "1467a"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 1467a"
-generated_at: "2026-03-30T01:47:37.921Z"
+generated_at: "2026-03-30T01:50:36.034Z"
 ---
 
 # § 1467a. Regulation of holding companies

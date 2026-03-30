@@ -3,9 +3,9 @@ title: "Section 236 - Variations from standard permitted; prosecutions; law not 
 usc_title: 15
 usc_section: "236"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 236"
-generated_at: "2026-03-30T01:47:48.120Z"
+generated_at: "2026-03-30T01:50:38.846Z"
 ---
 
 # § 236. Variations from standard permitted; prosecutions; law not applicable to certain barrels

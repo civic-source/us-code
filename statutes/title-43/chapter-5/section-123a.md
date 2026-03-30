@@ -3,9 +3,9 @@ title: "Section 123a - Continuation of existing land districts and offices in Al
 usc_title: 43
 usc_section: "123a"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "43 U.S.C. § 123a"
-generated_at: "2026-03-30T01:49:09.804Z"
+generated_at: "2026-03-30T01:51:32.518Z"
 ---
 
 # § 123a. Continuation of existing land districts and offices in Alaska; change of district boundaries, or discontinuance of districts; designation and location of land offices

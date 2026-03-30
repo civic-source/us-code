@@ -3,9 +3,9 @@ title: "Section 2401 - Time for commencing action against United States"
 usc_title: 28
 usc_section: "2401"
 chapter: 161
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "28 U.S.C. § 2401"
-generated_at: "2026-03-30T01:48:30.274Z"
+generated_at: "2026-03-30T01:51:09.471Z"
 ---
 
 # § 2401. Time for commencing action against United States

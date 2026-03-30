@@ -3,9 +3,9 @@ title: "Section 8114 - Computation of pay"
 usc_title: 5
 usc_section: "8114"
 chapter: 81
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 8114"
-generated_at: "2026-03-30T01:46:54.577Z"
+generated_at: "2026-03-30T01:50:03.062Z"
 ---
 
 # § 8114. Computation of pay

@@ -3,9 +3,9 @@ title: "Section 1561b - Confidential reporting of sexual harassment"
 usc_title: 10
 usc_section: "1561b"
 chapter: 80
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 1561b"
-generated_at: "2026-03-30T01:47:12.637Z"
+generated_at: "2026-03-30T01:50:25.919Z"
 ---
 
 # § 1561b. Confidential reporting of sexual harassment

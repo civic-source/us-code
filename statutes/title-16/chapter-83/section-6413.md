@@ -3,9 +3,9 @@ title: "Section 6413 - Reports on administration"
 usc_title: 16
 usc_section: "6413"
 chapter: 83
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 6413"
-generated_at: "2026-03-30T01:47:59.960Z"
+generated_at: "2026-03-30T01:50:50.362Z"
 ---
 
 # § 6413. Reports on administration

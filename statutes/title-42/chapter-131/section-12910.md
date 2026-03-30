@@ -3,9 +3,9 @@ title: "Section 12910 - Grants for community residences and services"
 usc_title: 42
 usc_section: "12910"
 chapter: 131
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 12910"
-generated_at: "2026-03-30T01:49:24.135Z"
+generated_at: "2026-03-30T01:51:50.874Z"
 ---
 
 # § 12910. Grants for community residences and services

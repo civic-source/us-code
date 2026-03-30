@@ -3,9 +3,9 @@ title: "Section 3805 - Judicial review"
 usc_title: 31
 usc_section: "3805"
 chapter: 38
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "31 U.S.C. § 3805"
-generated_at: "2026-03-30T01:48:49.935Z"
+generated_at: "2026-03-30T01:51:20.754Z"
 ---
 
 # § 3805. Judicial review

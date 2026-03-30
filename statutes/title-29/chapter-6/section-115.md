@@ -3,9 +3,9 @@ title: "Section 115 - Repeal of conflicting acts"
 usc_title: 29
 usc_section: "115"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "29 U.S.C. § 115"
-generated_at: "2026-03-30T01:48:31.155Z"
+generated_at: "2026-03-30T01:51:11.959Z"
 ---
 
 # § 115. Repeal of conflicting acts

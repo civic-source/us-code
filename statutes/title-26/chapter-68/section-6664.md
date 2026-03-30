@@ -3,9 +3,9 @@ title: "Section 6664 - Definitions and special rules"
 usc_title: 26
 usc_section: "6664"
 chapter: 68
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 6664"
-generated_at: "2026-03-30T01:48:44.787Z"
+generated_at: "2026-03-30T01:51:17.942Z"
 ---
 
 # § 6664. Definitions and special rules

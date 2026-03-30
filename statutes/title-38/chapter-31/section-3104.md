@@ -3,9 +3,9 @@ title: "Section 3104 - Scope of services and assistance"
 usc_title: 38
 usc_section: "3104"
 chapter: 31
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "38 U.S.C. § 3104"
-generated_at: "2026-03-30T01:49:06.760Z"
+generated_at: "2026-03-30T01:51:28.220Z"
 ---
 
 # § 3104. Scope of services and assistance

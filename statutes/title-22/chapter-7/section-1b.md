@@ -3,9 +3,9 @@ title: "Section 1b - Increase in quota of United States; authorization of approp
 usc_title: 22
 usc_section: "1b"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 1b"
-generated_at: "2026-03-30T01:48:20.629Z"
+generated_at: "2026-03-30T01:50:56.487Z"
 ---
 
 # § 286e–1b. Increase in quota of United States; authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1502 - Cost accounting standards"
 usc_title: 41
 usc_section: "1502"
 chapter: 15
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "41 U.S.C. § 1502"
-generated_at: "2026-03-30T01:49:08.942Z"
+generated_at: "2026-03-30T01:51:30.214Z"
 ---
 
 # § 1502. Cost accounting standards

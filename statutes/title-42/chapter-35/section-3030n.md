@@ -3,9 +3,9 @@ title: "Section 3030n - Distribution to area agencies on aging"
 usc_title: 42
 usc_section: "3030n"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 3030n"
-generated_at: "2026-03-30T01:49:23.895Z"
+generated_at: "2026-03-30T01:51:50.628Z"
 ---
 
 # § 3030n. Distribution to area agencies on aging

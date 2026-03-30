@@ -3,9 +3,9 @@ title: "Section 552 - Abandoned or unclaimed property on Government premises"
 usc_title: 40
 usc_section: "552"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "40 U.S.C. § 552"
-generated_at: "2026-03-30T01:49:05.375Z"
+generated_at: "2026-03-30T01:51:26.254Z"
 ---
 
 # § 552. Abandoned or unclaimed property on Government premises

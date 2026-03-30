@@ -3,9 +3,9 @@ title: "Section 2253 - Appeal"
 usc_title: 28
 usc_section: "2253"
 chapter: 153
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "28 U.S.C. § 2253"
-generated_at: "2026-03-30T01:48:30.273Z"
+generated_at: "2026-03-30T01:51:09.470Z"
 ---
 
 # § 2253. Appeal

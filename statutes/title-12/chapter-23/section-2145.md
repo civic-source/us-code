@@ -3,9 +3,9 @@ title: "Section 2145 - Exchange of ownership interests"
 usc_title: 12
 usc_section: "2145"
 chapter: 23
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 2145"
-generated_at: "2026-03-30T01:47:37.989Z"
+generated_at: "2026-03-30T01:50:36.105Z"
 ---
 
 # § 2145. Exchange of ownership interests

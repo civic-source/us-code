@@ -3,9 +3,9 @@ title: "Section 1720 - Authorization of appropriations"
 usc_title: 15
 usc_section: "1720"
 chapter: 42
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 1720"
-generated_at: "2026-03-30T01:47:48.197Z"
+generated_at: "2026-03-30T01:50:38.925Z"
 ---
 
 # § 1720. Authorization of appropriations

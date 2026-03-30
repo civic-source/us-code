@@ -3,9 +3,9 @@ title: "Section 6 - Disposition of receipts from repayment contracts and project
 usc_title: 16
 usc_section: "6"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T01:47:59.838Z"
+generated_at: "2026-03-30T01:50:50.235Z"
 ---
 
 # § 590z–6. Disposition of receipts from repayment contracts and project operations

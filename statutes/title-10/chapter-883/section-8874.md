@@ -3,9 +3,9 @@ title: "Section 8874 - Payment of witness fees"
 usc_title: 10
 usc_section: "8874"
 chapter: 883
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8874"
-generated_at: "2026-03-30T01:47:12.729Z"
+generated_at: "2026-03-30T01:50:26.013Z"
 ---
 
 # § 8874. Payment of witness fees

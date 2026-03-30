@@ -3,9 +3,9 @@ title: "Section 1462 - Forfeiture 1 1 See Codification note below."
 usc_title: 19
 usc_section: "1462"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 1462"
-generated_at: "2026-03-30T01:47:53.824Z"
+generated_at: "2026-03-30T01:50:42.779Z"
 ---
 
 # § 1462. Forfeiture 1 1 See Codification note below.

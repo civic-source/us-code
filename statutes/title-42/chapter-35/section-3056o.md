@@ -3,9 +3,9 @@ title: "Section 3056o - Authorization of appropriations"
 usc_title: 42
 usc_section: "3056o"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 3056o"
-generated_at: "2026-03-30T01:49:23.899Z"
+generated_at: "2026-03-30T01:51:50.631Z"
 ---
 
 # § 3056o. Authorization of appropriations

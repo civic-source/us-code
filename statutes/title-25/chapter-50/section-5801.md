@@ -3,9 +3,9 @@ title: "Section 5801 - Findings"
 usc_title: 25
 usc_section: "5801"
 chapter: 50
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 5801"
-generated_at: "2026-03-30T01:48:06.603Z"
+generated_at: "2026-03-30T01:51:06.045Z"
 ---
 
 # § 5801. Findings

@@ -3,9 +3,9 @@ title: "Section 499a - Collection, storage, and sharing of data relating to nucl
 usc_title: 10
 usc_section: "499a"
 chapter: 24
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 499a"
-generated_at: "2026-03-30T01:47:12.581Z"
+generated_at: "2026-03-30T01:50:25.864Z"
 ---
 
 # § 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces

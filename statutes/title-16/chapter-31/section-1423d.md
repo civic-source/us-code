@@ -3,9 +3,9 @@ title: "Section 1423d - Commission appointments; compensation, travel expenses, 
 usc_title: 16
 usc_section: "1423d"
 chapter: 31
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 1423d"
-generated_at: "2026-03-30T01:47:59.898Z"
+generated_at: "2026-03-30T01:50:50.297Z"
 ---
 
 # § 1423d. Commission appointments; compensation, travel expenses, and claims

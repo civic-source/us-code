@@ -3,9 +3,9 @@ title: "Section 142 - Repealed. May 29, 1928, ch. 901, § 1(87) , 45 Stat. 992"
 usc_title: 25
 usc_section: "142"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 142"
-generated_at: "2026-03-30T01:48:06.540Z"
+generated_at: "2026-03-30T01:51:05.977Z"
 ---
 
 # § 142. Repealed. May 29, 1928, ch. 901, § 1(87) , 45 Stat. 992

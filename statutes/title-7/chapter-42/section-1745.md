@@ -3,9 +3,9 @@ title: "Section 1745 - Computation of carryover"
 usc_title: 7
 usc_section: "1745"
 chapter: 42
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 1745"
-generated_at: "2026-03-30T01:47:03.662Z"
+generated_at: "2026-03-30T01:50:10.955Z"
 ---
 
 # § 1745. Computation of carryover

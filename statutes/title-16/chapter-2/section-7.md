@@ -3,9 +3,9 @@ title: "Section 7 - Subdivisions and other property interests"
 usc_title: 16
 usc_section: "7"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T01:47:59.824Z"
+generated_at: "2026-03-30T01:50:50.221Z"
 ---
 
 # § 539m–7. Subdivisions and other property interests

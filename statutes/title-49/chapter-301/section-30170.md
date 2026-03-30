@@ -3,9 +3,9 @@ title: "Section 30170 - Criminal Penalties"
 usc_title: 49
 usc_section: "30170"
 chapter: 301
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "49 U.S.C. § 30170"
-generated_at: "2026-03-30T01:49:35.426Z"
+generated_at: "2026-03-30T01:51:58.871Z"
 ---
 
 # § 30170. Criminal Penalties

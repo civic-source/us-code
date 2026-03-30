@@ -3,9 +3,9 @@ title: "Section 790 - Repealed. Pub. L. 102–569, title V, § 502(a) , Oct. 29,
 usc_title: 29
 usc_section: "790"
 chapter: 16
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "29 U.S.C. § 790"
-generated_at: "2026-03-30T01:48:31.173Z"
+generated_at: "2026-03-30T01:51:11.977Z"
 ---
 
 # § 790. Repealed. Pub. L. 102–569, title V, § 502(a) , Oct. 29, 1992 , 106 Stat. 4424

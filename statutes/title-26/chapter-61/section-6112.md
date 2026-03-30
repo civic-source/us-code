@@ -3,9 +3,9 @@ title: "Section 6112 - Material advisors of reportable transactions must keep li
 usc_title: 26
 usc_section: "6112"
 chapter: 61
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 6112"
-generated_at: "2026-03-30T01:48:44.771Z"
+generated_at: "2026-03-30T01:51:17.926Z"
 ---
 
 # § 6112. Material advisors of reportable transactions must keep lists of advisees, etc.

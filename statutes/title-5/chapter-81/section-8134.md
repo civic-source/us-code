@@ -3,9 +3,9 @@ title: "Section 8134 - Funeral expenses; transportation of body"
 usc_title: 5
 usc_section: "8134"
 chapter: 81
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 8134"
-generated_at: "2026-03-30T01:46:54.578Z"
+generated_at: "2026-03-30T01:50:03.063Z"
 ---
 
 # § 8134. Funeral expenses; transportation of body

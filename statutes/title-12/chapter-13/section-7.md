@@ -3,9 +3,9 @@ title: "Section 7 - Exemption from State usury laws; applicability"
 usc_title: 12
 usc_section: "7"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-30T01:47:37.948Z"
+generated_at: "2026-03-30T01:50:36.062Z"
 ---
 
 # § 1735f–7. Exemption from State usury laws; applicability

@@ -3,9 +3,9 @@ title: "Section 138 - Continuity of care"
 usc_title: 42
 usc_section: "138"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 138"
-generated_at: "2026-03-30T01:49:23.596Z"
+generated_at: "2026-03-30T01:51:50.303Z"
 ---
 
 # § 300gg–138. Continuity of care

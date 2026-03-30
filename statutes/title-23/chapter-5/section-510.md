@@ -3,9 +3,9 @@ title: "Section 510 - Future strategic highway research program"
 usc_title: 23
 usc_section: "510"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "23 U.S.C. § 510"
-generated_at: "2026-03-30T01:48:22.810Z"
+generated_at: "2026-03-30T01:50:53.158Z"
 ---
 
 # § 510. Future strategic highway research program

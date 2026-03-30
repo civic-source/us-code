@@ -3,9 +3,9 @@ title: "Section 10209 - Clothing allowances"
 usc_title: 5
 usc_section: "10209"
 chapter: 102
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 10209"
-generated_at: "2026-03-30T01:46:54.614Z"
+generated_at: "2026-03-30T01:50:03.088Z"
 ---
 
 # § 10209. Clothing allowances

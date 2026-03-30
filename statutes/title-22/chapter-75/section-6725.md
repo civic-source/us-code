@@ -3,9 +3,9 @@ title: "Section 6725 - Warrants"
 usc_title: 22
 usc_section: "6725"
 chapter: 75
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 6725"
-generated_at: "2026-03-30T01:48:20.739Z"
+generated_at: "2026-03-30T01:50:56.601Z"
 ---
 
 # § 6725. Warrants

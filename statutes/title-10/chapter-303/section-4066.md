@@ -3,9 +3,9 @@ title: "Section 4066 - Global Research Watch Program"
 usc_title: 10
 usc_section: "4066"
 chapter: 303
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 4066"
-generated_at: "2026-03-30T01:47:12.695Z"
+generated_at: "2026-03-30T01:50:25.978Z"
 ---
 
 # § 4066. Global Research Watch Program

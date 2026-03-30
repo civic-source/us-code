@@ -3,9 +3,9 @@ title: "Section 4727 - Interstate compacts"
 usc_title: 42
 usc_section: "4727"
 chapter: 62
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 4727"
-generated_at: "2026-03-30T01:49:23.925Z"
+generated_at: "2026-03-30T01:51:50.658Z"
 ---
 
 # § 4727. Interstate compacts

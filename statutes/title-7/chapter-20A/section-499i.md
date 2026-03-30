@@ -3,9 +3,9 @@ title: "Section 499i - Accounts, records, and memoranda; duty of licensees to ke
 usc_title: 7
 usc_section: "499i"
 chapter: 20
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 499i"
-generated_at: "2026-03-30T01:47:03.606Z"
+generated_at: "2026-03-30T01:50:10.908Z"
 ---
 
 # § 499i. Accounts, records, and memoranda; duty of licensees to keep; contents; suspension of license for violation of duty

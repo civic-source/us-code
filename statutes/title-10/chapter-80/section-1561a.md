@@ -3,9 +3,9 @@ title: "Section 1561a - Civilian orders of protection: force and effect on milit
 usc_title: 10
 usc_section: "1561a"
 chapter: 80
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 1561a"
-generated_at: "2026-03-30T01:47:12.637Z"
+generated_at: "2026-03-30T01:50:25.919Z"
 ---
 
 # § 1561a. Civilian orders of protection: force and effect on military installations

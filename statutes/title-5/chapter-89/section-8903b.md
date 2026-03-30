@@ -3,9 +3,9 @@ title: "Section 8903b - Authority to readmit an employee organization plan"
 usc_title: 5
 usc_section: "8903b"
 chapter: 89
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 8903b"
-generated_at: "2026-03-30T01:46:54.605Z"
+generated_at: "2026-03-30T01:50:03.081Z"
 ---
 
 # § 8903b. Authority to readmit an employee organization plan

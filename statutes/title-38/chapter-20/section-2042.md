@@ -3,9 +3,9 @@ title: "Section 2042 - Supported housing for veterans participating in compensat
 usc_title: 38
 usc_section: "2042"
 chapter: 20
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "38 U.S.C. § 2042"
-generated_at: "2026-03-30T01:49:06.754Z"
+generated_at: "2026-03-30T01:51:28.213Z"
 ---
 
 # § 2042. Supported housing for veterans participating in compensated work therapies

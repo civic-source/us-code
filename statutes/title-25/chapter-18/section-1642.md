@@ -3,9 +3,9 @@ title: "Section 1642 - Purchasing health care coverage"
 usc_title: 25
 usc_section: "1642"
 chapter: 18
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "25 U.S.C. § 1642"
-generated_at: "2026-03-30T01:48:06.559Z"
+generated_at: "2026-03-30T01:51:05.999Z"
 ---
 
 # § 1642. Purchasing health care coverage

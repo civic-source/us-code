@@ -3,9 +3,9 @@ title: "Section 976 - Membership in military unions, organizing of military unio
 usc_title: 10
 usc_section: "976"
 chapter: 49
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 976"
-generated_at: "2026-03-30T01:47:12.605Z"
+generated_at: "2026-03-30T01:50:25.888Z"
 ---
 
 # § 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited

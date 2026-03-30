@@ -3,9 +3,9 @@ title: "Section 2401e - Qualifying requirements for agricultural commodity produ
 usc_title: 19
 usc_section: "2401e"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 2401e"
-generated_at: "2026-03-30T01:47:53.854Z"
+generated_at: "2026-03-30T01:50:42.811Z"
 ---
 
 # § 2401e. Qualifying requirements for agricultural commodity producers

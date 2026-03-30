@@ -3,9 +3,9 @@ title: "Section 356 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "356"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "33 U.S.C. § 356"
-generated_at: "2026-03-30T01:49:01.684Z"
+generated_at: "2026-03-30T01:51:22.531Z"
 ---
 
 # §§ 353 to 356. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

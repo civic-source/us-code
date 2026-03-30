@@ -3,9 +3,9 @@ title: "Section 41108 - Applications for certificates"
 usc_title: 49
 usc_section: "41108"
 chapter: 411
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "49 U.S.C. § 41108"
-generated_at: "2026-03-30T01:49:35.441Z"
+generated_at: "2026-03-30T01:51:58.890Z"
 ---
 
 # § 41108. Applications for certificates

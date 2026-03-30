@@ -3,9 +3,9 @@ title: "Section 1804 - Repealed. Pub. L. 118–31, div. E, title LVII, § 5704(d
 usc_title: 2
 usc_section: "1804"
 chapter: 28
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "2 U.S.C. § 1804"
-generated_at: "2026-03-30T01:46:55.944Z"
+generated_at: "2026-03-30T01:49:52.116Z"
 ---
 
 # § 1804. Repealed. Pub. L. 118–31, div. E, title LVII, § 5704(d) , Dec. 22, 2023 , 137 Stat. 962

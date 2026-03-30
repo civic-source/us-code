@@ -3,9 +3,9 @@ title: "Section 2723 - Notice to congressional committees of certain security an
 usc_title: 10
 usc_section: "2723"
 chapter: 161
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 2723"
-generated_at: "2026-03-30T01:47:12.673Z"
+generated_at: "2026-03-30T01:50:25.956Z"
 ---
 
 # § 2723. Notice to congressional committees of certain security and counterintelligence failures within defense programs

@@ -3,9 +3,9 @@ title: "Section 14501 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "14501"
 chapter: 1407
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 14501"
-generated_at: "2026-03-30T01:47:12.749Z"
+generated_at: "2026-03-30T01:50:26.032Z"
 ---
 
 # § 14501. Failure of selection for promotion

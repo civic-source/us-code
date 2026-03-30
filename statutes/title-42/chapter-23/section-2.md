@@ -3,9 +3,9 @@ title: "Section 2 - Method of sale"
 usc_title: 42
 usc_section: "2"
 chapter: 23
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T01:49:23.882Z"
+generated_at: "2026-03-30T01:51:50.614Z"
 ---
 
 # § 2297h–2. Method of sale

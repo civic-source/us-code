@@ -3,9 +3,9 @@ title: "Section 31 - Accountants and auditors"
 usc_title: 15
 usc_section: "31"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 31"
-generated_at: "2026-03-30T01:47:48.113Z"
+generated_at: "2026-03-30T01:50:38.839Z"
 ---
 
 # § 80a–31. Accountants and auditors

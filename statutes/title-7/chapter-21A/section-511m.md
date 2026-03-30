@@ -3,9 +3,9 @@ title: "Section 511m - Regulation; hearings; employees; expenditures; authorizat
 usc_title: 7
 usc_section: "511m"
 chapter: 21
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 511m"
-generated_at: "2026-03-30T01:47:03.607Z"
+generated_at: "2026-03-30T01:50:10.909Z"
 ---
 
 # § 511m. Regulation; hearings; employees; expenditures; authorization of appropriations

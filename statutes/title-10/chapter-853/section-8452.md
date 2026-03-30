@@ -3,9 +3,9 @@ title: "Section 8452 - Civilian teachers: number; compensation"
 usc_title: 10
 usc_section: "8452"
 chapter: 853
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8452"
-generated_at: "2026-03-30T01:47:12.721Z"
+generated_at: "2026-03-30T01:50:26.005Z"
 ---
 
 # § 8452. Civilian teachers: number; compensation

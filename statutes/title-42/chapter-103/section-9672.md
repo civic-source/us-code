@@ -3,9 +3,9 @@ title: "Section 9672 - State laws; scope of subchapter"
 usc_title: 42
 usc_section: "9672"
 chapter: 103
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 9672"
-generated_at: "2026-03-30T01:49:24.070Z"
+generated_at: "2026-03-30T01:51:50.803Z"
 ---
 
 # § 9672. State laws; scope of subchapter

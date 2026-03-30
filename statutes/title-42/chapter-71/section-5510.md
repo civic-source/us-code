@@ -3,9 +3,9 @@ title: "Section 5510 - Dissemination of information to promote practical use of 
 usc_title: 42
 usc_section: "5510"
 chapter: 71
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 5510"
-generated_at: "2026-03-30T01:49:23.950Z"
+generated_at: "2026-03-30T01:51:50.682Z"
 ---
 
 # § 5510. Dissemination of information to promote practical use of solar heating and cooling technologies

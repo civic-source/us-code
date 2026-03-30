@@ -3,9 +3,9 @@ title: "Section 852 - Marketing agreements with handlers; exemption from antitru
 usc_title: 7
 usc_section: "852"
 chapter: 30
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 852"
-generated_at: "2026-03-30T01:47:03.613Z"
+generated_at: "2026-03-30T01:50:10.915Z"
 ---
 
 # § 852. Marketing agreements with handlers; exemption from antitrust laws

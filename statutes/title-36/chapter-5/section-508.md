@@ -3,9 +3,9 @@ title: "Section 508 - Enforcement"
 usc_title: 36
 usc_section: "508"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 508"
-generated_at: "2026-03-30T01:49:04.950Z"
+generated_at: "2026-03-30T01:51:25.250Z"
 ---
 
 # § 508. Enforcement

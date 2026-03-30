@@ -3,9 +3,9 @@ title: "Section 20905 - Governing body"
 usc_title: 36
 usc_section: "20905"
 chapter: 209
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 20905"
-generated_at: "2026-03-30T01:49:04.952Z"
+generated_at: "2026-03-30T01:51:25.252Z"
 ---
 
 # § 20905. Governing body

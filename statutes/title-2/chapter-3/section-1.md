@@ -3,9 +3,9 @@ title: "Section 1 - Transferred"
 usc_title: 2
 usc_section: "1"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T01:46:55.900Z"
+generated_at: "2026-03-30T01:49:52.082Z"
 ---
 
 # § 59d–1. Transferred

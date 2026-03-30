@@ -3,9 +3,9 @@ title: "Section 6803 - Disclosure of institution privacy policy"
 usc_title: 15
 usc_section: "6803"
 chapter: 94
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 6803"
-generated_at: "2026-03-30T01:47:48.249Z"
+generated_at: "2026-03-30T01:50:38.979Z"
 ---
 
 # § 6803. Disclosure of institution privacy policy

@@ -3,9 +3,9 @@ title: "Section 12301 - Reserve components generally"
 usc_title: 10
 usc_section: "12301"
 chapter: 1209
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 12301"
-generated_at: "2026-03-30T01:47:12.744Z"
+generated_at: "2026-03-30T01:50:26.027Z"
 ---
 
 # § 12301. Reserve components generally

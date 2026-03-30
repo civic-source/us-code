@@ -3,9 +3,9 @@ title: "Section 8720 - Definitions"
 usc_title: 10
 usc_section: "8720"
 chapter: 869
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8720"
-generated_at: "2026-03-30T01:47:12.727Z"
+generated_at: "2026-03-30T01:50:26.011Z"
 ---
 
 # § 8720. Definitions

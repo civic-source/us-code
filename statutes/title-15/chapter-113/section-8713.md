@@ -3,9 +3,9 @@ title: "Section 8713 - Regulations"
 usc_title: 15
 usc_section: "8713"
 chapter: 113
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 8713"
-generated_at: "2026-03-30T01:47:48.266Z"
+generated_at: "2026-03-30T01:50:38.996Z"
 ---
 
 # § 8713. Regulations

@@ -3,9 +3,9 @@ title: "Section 2434 - Extension of nondiscriminatory treatment"
 usc_title: 19
 usc_section: "2434"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 2434"
-generated_at: "2026-03-30T01:47:53.856Z"
+generated_at: "2026-03-30T01:50:42.813Z"
 ---
 
 # § 2434. Extension of nondiscriminatory treatment

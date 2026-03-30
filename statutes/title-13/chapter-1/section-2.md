@@ -3,9 +3,9 @@ title: "Section 2 - Bureau of the Census"
 usc_title: 13
 usc_section: "2"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "13 U.S.C. § 2"
-generated_at: "2026-03-30T01:47:16.193Z"
+generated_at: "2026-03-30T01:50:28.625Z"
 ---
 
 # § 2. Bureau of the Census

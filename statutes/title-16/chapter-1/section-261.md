@@ -3,9 +3,9 @@ title: "Section 261 - Establishment; description of area"
 usc_title: 16
 usc_section: "261"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 261"
-generated_at: "2026-03-30T01:47:59.739Z"
+generated_at: "2026-03-30T01:50:50.133Z"
 ---
 
 # § 261. Establishment; description of area

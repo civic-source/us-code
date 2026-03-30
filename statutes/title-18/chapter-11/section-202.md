@@ -3,9 +3,9 @@ title: "Section 202 - Definitions"
 usc_title: 18
 usc_section: "202"
 chapter: 11
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "18 U.S.C. § 202"
-generated_at: "2026-03-30T01:47:52.635Z"
+generated_at: "2026-03-30T01:50:45.856Z"
 ---
 
 # § 202. Definitions

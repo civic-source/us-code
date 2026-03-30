@@ -3,9 +3,9 @@ title: "Section 717s - Enforcement of chapter"
 usc_title: 15
 usc_section: "717s"
 chapter: 15
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 717s"
-generated_at: "2026-03-30T01:47:48.160Z"
+generated_at: "2026-03-30T01:50:38.886Z"
 ---
 
 # § 717s. Enforcement of chapter

@@ -3,9 +3,9 @@ title: "Section 16 - Comprehensive plans for development, utilization, and conse
 usc_title: 42
 usc_section: "16"
 chapter: 19
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T01:49:23.856Z"
+generated_at: "2026-03-30T01:51:50.585Z"
 ---
 
 # § 1962d–16. Comprehensive plans for development, utilization, and conservation of water and related resources

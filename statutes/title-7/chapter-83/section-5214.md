@@ -3,9 +3,9 @@ title: "Section 5214 - Reorganization evaluation"
 usc_title: 7
 usc_section: "5214"
 chapter: 83
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 5214"
-generated_at: "2026-03-30T01:47:03.732Z"
+generated_at: "2026-03-30T01:50:11.014Z"
 ---
 
 # § 5214. Reorganization evaluation

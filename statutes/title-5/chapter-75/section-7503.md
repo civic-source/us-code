@@ -3,9 +3,9 @@ title: "Section 7503 - Cause and procedure"
 usc_title: 5
 usc_section: "7503"
 chapter: 75
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 7503"
-generated_at: "2026-03-30T01:46:54.575Z"
+generated_at: "2026-03-30T01:50:03.060Z"
 ---
 
 # § 7503. Cause and procedure

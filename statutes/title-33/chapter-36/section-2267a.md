@@ -3,9 +3,9 @@ title: "Section 2267a - Watershed and river basin assessments"
 usc_title: 33
 usc_section: "2267a"
 chapter: 36
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "33 U.S.C. § 2267a"
-generated_at: "2026-03-30T01:49:01.738Z"
+generated_at: "2026-03-30T01:51:22.592Z"
 ---
 
 # § 2267a. Watershed and river basin assessments

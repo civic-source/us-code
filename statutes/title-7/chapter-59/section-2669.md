@@ -3,9 +3,9 @@ title: "Section 2669 - Pilot projects for production and marketing of industrial
 usc_title: 7
 usc_section: "2669"
 chapter: 59
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 2669"
-generated_at: "2026-03-30T01:47:03.709Z"
+generated_at: "2026-03-30T01:50:10.995Z"
 ---
 
 # § 2669. Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products

@@ -3,9 +3,9 @@ title: "Section 11171 - Grants and projects"
 usc_title: 34
 usc_section: "11171"
 chapter: 111
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "34 U.S.C. § 11171"
-generated_at: "2026-03-30T01:48:50.688Z"
+generated_at: "2026-03-30T01:51:21.472Z"
 ---
 
 # § 11171. Grants and projects

@@ -3,9 +3,9 @@ title: "Section 1156 - Enforcement provisions"
 usc_title: 16
 usc_section: "1156"
 chapter: 24
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 1156"
-generated_at: "2026-03-30T01:47:59.880Z"
+generated_at: "2026-03-30T01:50:50.279Z"
 ---
 
 # § 1156. Enforcement provisions

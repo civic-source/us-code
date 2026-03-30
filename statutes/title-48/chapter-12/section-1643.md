@@ -3,9 +3,9 @@ title: "Section 1643 - Import provisions with respect to trade-marks"
 usc_title: 48
 usc_section: "1643"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "48 U.S.C. § 1643"
-generated_at: "2026-03-30T01:49:27.496Z"
+generated_at: "2026-03-30T01:51:54.415Z"
 ---
 
 # § 1643. Import provisions with respect to trade-marks

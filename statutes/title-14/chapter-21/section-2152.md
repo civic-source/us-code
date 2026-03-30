@@ -3,9 +3,9 @@ title: "Section 2152 - Voluntary retirement after twenty years’ service"
 usc_title: 14
 usc_section: "2152"
 chapter: 21
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "14 U.S.C. § 2152"
-generated_at: "2026-03-30T01:47:15.199Z"
+generated_at: "2026-03-30T01:50:29.690Z"
 ---
 
 # § 2152. Voluntary retirement after twenty years’ service

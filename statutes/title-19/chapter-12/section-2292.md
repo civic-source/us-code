@@ -3,9 +3,9 @@ title: "Section 2292 - Weekly amounts"
 usc_title: 19
 usc_section: "2292"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 2292"
-generated_at: "2026-03-30T01:47:53.851Z"
+generated_at: "2026-03-30T01:50:42.808Z"
 ---
 
 # § 2292. Weekly amounts

@@ -3,9 +3,9 @@ title: "Section 580e - Services furnished persons attending Forest Service demon
 usc_title: 16
 usc_section: "580e"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 580e"
-generated_at: "2026-03-30T01:47:59.834Z"
+generated_at: "2026-03-30T01:50:50.231Z"
 ---
 
 # § 580e. Services furnished persons attending Forest Service demonstrations and users of national forest resources and recreational facilities; rate of charges; disposition of moneys

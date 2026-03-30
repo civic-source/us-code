@@ -3,9 +3,9 @@ title: "Section 3521 - Definitions"
 usc_title: 5
 usc_section: "3521"
 chapter: 35
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 3521"
-generated_at: "2026-03-30T01:46:54.543Z"
+generated_at: "2026-03-30T01:50:03.038Z"
 ---
 
 # § 3521. Definitions

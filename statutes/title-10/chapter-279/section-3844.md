@@ -3,9 +3,9 @@ title: "Section 3844 - [Reserved]"
 usc_title: 10
 usc_section: "3844"
 chapter: 279
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 3844"
-generated_at: "2026-03-30T01:47:12.693Z"
+generated_at: "2026-03-30T01:50:25.976Z"
 ---
 
 # § 3844. [Reserved]

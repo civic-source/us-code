@@ -3,9 +3,9 @@ title: "Section 551d - Wildland firefighter safety"
 usc_title: 16
 usc_section: "551d"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 551d"
-generated_at: "2026-03-30T01:47:59.831Z"
+generated_at: "2026-03-30T01:50:50.228Z"
 ---
 
 # § 551d. Wildland firefighter safety

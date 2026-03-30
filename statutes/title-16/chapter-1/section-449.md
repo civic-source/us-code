@@ -3,9 +3,9 @@ title: "Section 449 - Acceptance of donations of land and funds; acquisition of 
 usc_title: 16
 usc_section: "449"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 449"
-generated_at: "2026-03-30T01:47:59.778Z"
+generated_at: "2026-03-30T01:50:50.174Z"
 ---
 
 # § 449. Acceptance of donations of land and funds; acquisition of land

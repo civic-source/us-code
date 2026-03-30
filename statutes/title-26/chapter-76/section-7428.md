@@ -3,9 +3,9 @@ title: "Section 7428 - Declaratory judgments relating to status and classificati
 usc_title: 26
 usc_section: "7428"
 chapter: 76
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 7428"
-generated_at: "2026-03-30T01:48:44.794Z"
+generated_at: "2026-03-30T01:51:17.950Z"
 ---
 
 # § 7428. Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc.

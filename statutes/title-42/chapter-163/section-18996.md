@@ -3,9 +3,9 @@ title: "Section 18996 - Cybersecurity workforce data initiative"
 usc_title: 42
 usc_section: "18996"
 chapter: 163
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 18996"
-generated_at: "2026-03-30T01:49:24.231Z"
+generated_at: "2026-03-30T01:51:50.981Z"
 ---
 
 # § 18996. Cybersecurity workforce data initiative

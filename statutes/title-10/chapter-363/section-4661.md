@@ -3,9 +3,9 @@ title: "Section 4661 - Prohibition on certain procurements from the Xinjiang Uyg
 usc_title: 10
 usc_section: "4661"
 chapter: 363
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 4661"
-generated_at: "2026-03-30T01:47:12.702Z"
+generated_at: "2026-03-30T01:50:25.986Z"
 ---
 
 # § 4661. Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region

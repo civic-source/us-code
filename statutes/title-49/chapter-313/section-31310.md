@@ -3,9 +3,9 @@ title: "Section 31310 - Disqualifications"
 usc_title: 49
 usc_section: "31310"
 chapter: 313
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "49 U.S.C. § 31310"
-generated_at: "2026-03-30T01:49:35.431Z"
+generated_at: "2026-03-30T01:51:58.879Z"
 ---
 
 # § 31310. Disqualifications

@@ -3,9 +3,9 @@ title: "Section 6763 - Federal funding prohibited"
 usc_title: 15
 usc_section: "6763"
 chapter: 93
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 6763"
-generated_at: "2026-03-30T01:47:48.249Z"
+generated_at: "2026-03-30T01:50:38.979Z"
 ---
 
 # § 6763. Federal funding prohibited

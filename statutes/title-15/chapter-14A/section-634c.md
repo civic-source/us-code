@@ -3,9 +3,9 @@ title: "Section 634c - Additional duties of Office of Advocacy"
 usc_title: 15
 usc_section: "634c"
 chapter: 14
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 634c"
-generated_at: "2026-03-30T01:47:48.131Z"
+generated_at: "2026-03-30T01:50:38.856Z"
 ---
 
 # § 634c. Additional duties of Office of Advocacy

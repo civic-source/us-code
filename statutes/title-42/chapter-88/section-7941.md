@@ -3,9 +3,9 @@ title: "Section 7941 - Study of authority for regulation and control of residual
 usc_title: 42
 usc_section: "7941"
 chapter: 88
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 7941"
-generated_at: "2026-03-30T01:49:24.040Z"
+generated_at: "2026-03-30T01:51:50.772Z"
 ---
 
 # § 7941. Study of authority for regulation and control of residual radioactive materials at New Mexico sites for protection of public health, safety, and the environment; report to Congress and Secretary; basis for determination of inadequacy of authority; interim regulation pending completion of study

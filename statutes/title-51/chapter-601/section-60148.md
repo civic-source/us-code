@@ -3,9 +3,9 @@ title: "Section 60148 - Enforcement"
 usc_title: 51
 usc_section: "60148"
 chapter: 601
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "51 U.S.C. § 60148"
-generated_at: "2026-03-30T01:49:37.548Z"
+generated_at: "2026-03-30T01:52:02.945Z"
 ---
 
 # § 60148. Enforcement

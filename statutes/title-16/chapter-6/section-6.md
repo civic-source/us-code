@@ -3,9 +3,9 @@ title: "Section 6 - Restriction on authority"
 usc_title: 16
 usc_section: "6"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T01:47:59.849Z"
+generated_at: "2026-03-30T01:50:50.247Z"
 ---
 
 # § 698u–6. Restriction on authority

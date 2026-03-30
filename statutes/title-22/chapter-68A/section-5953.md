@@ -3,9 +3,9 @@ title: "Section 5953 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(
 usc_title: 22
 usc_section: "5953"
 chapter: 68
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 5953"
-generated_at: "2026-03-30T01:48:20.729Z"
+generated_at: "2026-03-30T01:50:56.590Z"
 ---
 
 # §§ 5952, 5953. Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(3) , Dec. 19, 2014 , 128 Stat. 3607

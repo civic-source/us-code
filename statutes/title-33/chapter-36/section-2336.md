@@ -3,9 +3,9 @@ title: "Section 2336 - Abandoned and inactive noncoal mine restoration"
 usc_title: 33
 usc_section: "2336"
 chapter: 36
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "33 U.S.C. § 2336"
-generated_at: "2026-03-30T01:49:01.745Z"
+generated_at: "2026-03-30T01:51:22.601Z"
 ---
 
 # § 2336. Abandoned and inactive noncoal mine restoration

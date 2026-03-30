@@ -3,9 +3,9 @@ title: "Section 20504 - Cooperation with the military"
 usc_title: 36
 usc_section: "20504"
 chapter: 205
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 20504"
-generated_at: "2026-03-30T01:49:04.952Z"
+generated_at: "2026-03-30T01:51:25.251Z"
 ---
 
 # § 20504. Cooperation with the military

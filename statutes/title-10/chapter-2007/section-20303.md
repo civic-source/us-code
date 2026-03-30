@@ -3,9 +3,9 @@ title: "Section 20303 - Reference to chapter 31"
 usc_title: 10
 usc_section: "20303"
 chapter: 2007
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 20303"
-generated_at: "2026-03-30T01:47:12.756Z"
+generated_at: "2026-03-30T01:50:26.039Z"
 ---
 
 # § 20303. Reference to chapter 31

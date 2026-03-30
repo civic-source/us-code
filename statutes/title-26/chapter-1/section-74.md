@@ -3,9 +3,9 @@ title: "Section 74 - Prizes and awards"
 usc_title: 26
 usc_section: "74"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 74"
-generated_at: "2026-03-30T01:48:44.584Z"
+generated_at: "2026-03-30T01:51:17.742Z"
 ---
 
 # § 74. Prizes and awards

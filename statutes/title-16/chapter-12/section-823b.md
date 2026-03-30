@@ -3,9 +3,9 @@ title: "Section 823b - Enforcement"
 usc_title: 16
 usc_section: "823b"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 823b"
-generated_at: "2026-03-30T01:47:59.859Z"
+generated_at: "2026-03-30T01:50:50.257Z"
 ---
 
 # § 823b. Enforcement

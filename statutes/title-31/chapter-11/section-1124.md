@@ -3,9 +3,9 @@ title: "Section 1124 - Performance Improvement Officers and the Performance Impr
 usc_title: 31
 usc_section: "1124"
 chapter: 11
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "31 U.S.C. § 1124"
-generated_at: "2026-03-30T01:48:49.925Z"
+generated_at: "2026-03-30T01:51:20.741Z"
 ---
 
 # § 1124. Performance Improvement Officers and the Performance Improvement Council

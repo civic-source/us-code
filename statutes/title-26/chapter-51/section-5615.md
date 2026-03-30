@@ -3,9 +3,9 @@ title: "Section 5615 - Property subject to forfeiture"
 usc_title: 26
 usc_section: "5615"
 chapter: 51
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 5615"
-generated_at: "2026-03-30T01:48:44.755Z"
+generated_at: "2026-03-30T01:51:17.911Z"
 ---
 
 # § 5615. Property subject to forfeiture

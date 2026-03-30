@@ -3,9 +3,9 @@ title: "Section 9831 - General exceptions"
 usc_title: 26
 usc_section: "9831"
 chapter: 100
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "26 U.S.C. § 9831"
-generated_at: "2026-03-30T01:48:44.818Z"
+generated_at: "2026-03-30T01:51:17.972Z"
 ---
 
 # § 9831. General exceptions

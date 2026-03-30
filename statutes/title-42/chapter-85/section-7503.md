@@ -3,9 +3,9 @@ title: "Section 7503 - Permit requirements"
 usc_title: 42
 usc_section: "7503"
 chapter: 85
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 7503"
-generated_at: "2026-03-30T01:49:24.015Z"
+generated_at: "2026-03-30T01:51:50.747Z"
 ---
 
 # § 7503. Permit requirements

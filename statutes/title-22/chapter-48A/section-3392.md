@@ -3,9 +3,9 @@ title: "Section 3392 - Rule of construction regarding the use of military force"
 usc_title: 22
 usc_section: "3392"
 chapter: 48
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 3392"
-generated_at: "2026-03-30T01:48:20.701Z"
+generated_at: "2026-03-30T01:50:56.561Z"
 ---
 
 # § 3392. Rule of construction regarding the use of military force

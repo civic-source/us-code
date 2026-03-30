@@ -3,9 +3,9 @@ title: "Section 1095a - Wage garnishment requirement"
 usc_title: 20
 usc_section: "1095a"
 chapter: 28
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "20 U.S.C. § 1095a"
-generated_at: "2026-03-30T01:47:57.272Z"
+generated_at: "2026-03-30T01:50:44.871Z"
 ---
 
 # § 1095a. Wage garnishment requirement

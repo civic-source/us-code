@@ -3,9 +3,9 @@ title: "Section 1185 - Over-the-road bus security research and development"
 usc_title: 6
 usc_section: "1185"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 1185"
-generated_at: "2026-03-30T01:47:04.884Z"
+generated_at: "2026-03-30T01:50:06.255Z"
 ---
 
 # § 1185. Over-the-road bus security research and development

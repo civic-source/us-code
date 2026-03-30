@@ -3,9 +3,9 @@ title: "Section 8705 - Death claims; order of precedence; escheat"
 usc_title: 5
 usc_section: "8705"
 chapter: 87
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "5 U.S.C. § 8705"
-generated_at: "2026-03-30T01:46:54.602Z"
+generated_at: "2026-03-30T01:50:03.080Z"
 ---
 
 # § 8705. Death claims; order of precedence; escheat

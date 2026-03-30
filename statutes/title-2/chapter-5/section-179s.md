@@ -3,9 +3,9 @@ title: "Section 179s - Limitations of remedies"
 usc_title: 2
 usc_section: "179s"
 chapter: 5
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "2 U.S.C. § 179s"
-generated_at: "2026-03-30T01:46:55.908Z"
+generated_at: "2026-03-30T01:49:52.090Z"
 ---
 
 # § 179s. Limitations of remedies

@@ -3,9 +3,9 @@ title: "Section 593 - Protection of timber in Florida"
 usc_title: 16
 usc_section: "593"
 chapter: 4
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 593"
-generated_at: "2026-03-30T01:47:59.838Z"
+generated_at: "2026-03-30T01:50:50.236Z"
 ---
 
 # § 593. Protection of timber in Florida

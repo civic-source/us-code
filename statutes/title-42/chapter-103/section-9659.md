@@ -3,9 +3,9 @@ title: "Section 9659 - Citizens suits"
 usc_title: 42
 usc_section: "9659"
 chapter: 103
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 9659"
-generated_at: "2026-03-30T01:49:24.069Z"
+generated_at: "2026-03-30T01:51:50.802Z"
 ---
 
 # § 9659. Citizens suits

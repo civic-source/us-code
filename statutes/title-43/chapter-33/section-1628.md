@@ -3,9 +3,9 @@ title: "Section 1628 - Assignments by Regional Corporations of rights to receive
 usc_title: 43
 usc_section: "1628"
 chapter: 33
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "43 U.S.C. § 1628"
-generated_at: "2026-03-30T01:49:09.844Z"
+generated_at: "2026-03-30T01:51:32.560Z"
 ---
 
 # § 1628. Assignments by Regional Corporations of rights to receive payments from Fund

@@ -3,9 +3,9 @@ title: "Section 5878a - Funding and encouragement of small business; information
 usc_title: 42
 usc_section: "5878a"
 chapter: 73
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 5878a"
-generated_at: "2026-03-30T01:49:23.953Z"
+generated_at: "2026-03-30T01:51:50.685Z"
 ---
 
 # § 5878a. Funding and encouragement of small business; information for inclusion in report

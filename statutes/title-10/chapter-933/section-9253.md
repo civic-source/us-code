@@ -3,9 +3,9 @@ title: "Section 9253 - Flying officer rating: qualifications"
 usc_title: 10
 usc_section: "9253"
 chapter: 933
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 9253"
-generated_at: "2026-03-30T01:47:12.733Z"
+generated_at: "2026-03-30T01:50:26.016Z"
 ---
 
 # § 9253. Flying officer rating: qualifications

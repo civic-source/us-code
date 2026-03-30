@@ -3,9 +3,9 @@ title: "Section 2319 - Definitions"
 usc_title: 19
 usc_section: "2319"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "19 U.S.C. § 2319"
-generated_at: "2026-03-30T01:47:53.852Z"
+generated_at: "2026-03-30T01:50:42.809Z"
 ---
 
 # § 2319. Definitions

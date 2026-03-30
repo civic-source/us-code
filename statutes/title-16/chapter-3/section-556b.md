@@ -3,9 +3,9 @@ title: "Section 556b - Use of appropriations for expenses of transporting automo
 usc_title: 16
 usc_section: "556b"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 556b"
-generated_at: "2026-03-30T01:47:59.832Z"
+generated_at: "2026-03-30T01:50:50.229Z"
 ---
 
 # § 556b. Use of appropriations for expenses of transporting automobiles of employees between points in Alaska

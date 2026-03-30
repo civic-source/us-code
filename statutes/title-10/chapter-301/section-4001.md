@@ -3,9 +3,9 @@ title: "Section 4001 - Research and development projects"
 usc_title: 10
 usc_section: "4001"
 chapter: 301
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 4001"
-generated_at: "2026-03-30T01:47:12.693Z"
+generated_at: "2026-03-30T01:50:25.976Z"
 ---
 
 # § 4001. Research and development projects

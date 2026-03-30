@@ -3,9 +3,9 @@ title: "Section 312 - Inspector General"
 usc_title: 38
 usc_section: "312"
 chapter: 3
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "38 U.S.C. § 312"
-generated_at: "2026-03-30T01:49:06.731Z"
+generated_at: "2026-03-30T01:51:28.184Z"
 ---
 
 # § 312. Inspector General

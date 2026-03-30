@@ -3,9 +3,9 @@ title: "Section 4245 - Counterclaims"
 usc_title: 12
 usc_section: "4245"
 chapter: 43
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 4245"
-generated_at: "2026-03-30T01:47:38.016Z"
+generated_at: "2026-03-30T01:50:36.134Z"
 ---
 
 # § 4245. Counterclaims

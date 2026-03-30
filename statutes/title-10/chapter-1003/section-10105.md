@@ -3,9 +3,9 @@ title: "Section 10105 - Army National Guard of the United States: composition"
 usc_title: 10
 usc_section: "10105"
 chapter: 1003
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 10105"
-generated_at: "2026-03-30T01:47:12.739Z"
+generated_at: "2026-03-30T01:50:26.022Z"
 ---
 
 # § 10105. Army National Guard of the United States: composition

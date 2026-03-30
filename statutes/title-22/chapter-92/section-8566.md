@@ -3,9 +3,9 @@ title: "Section 8566 - Exception relating to importation of goods"
 usc_title: 22
 usc_section: "8566"
 chapter: 92
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 8566"
-generated_at: "2026-03-30T01:48:20.760Z"
+generated_at: "2026-03-30T01:50:56.624Z"
 ---
 
 # § 8566. Exception relating to importation of goods

@@ -3,9 +3,9 @@ title: "Section 34 - Unlawful representations and names"
 usc_title: 15
 usc_section: "34"
 chapter: 2
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 34"
-generated_at: "2026-03-30T01:47:48.114Z"
+generated_at: "2026-03-30T01:50:38.839Z"
 ---
 
 # § 80a–34. Unlawful representations and names

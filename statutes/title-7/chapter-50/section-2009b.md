@@ -3,9 +3,9 @@ title: "Section 2009b - National objectives"
 usc_title: 7
 usc_section: "2009b"
 chapter: 50
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "7 U.S.C. § 2009b"
-generated_at: "2026-03-30T01:47:03.677Z"
+generated_at: "2026-03-30T01:50:10.968Z"
 ---
 
 # § 2009b. National objectives

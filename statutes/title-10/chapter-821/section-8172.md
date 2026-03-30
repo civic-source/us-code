@@ -3,9 +3,9 @@ title: "Section 8172 - Marine Corps organizations on vessels: authority of offic
 usc_title: 10
 usc_section: "8172"
 chapter: 821
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "10 U.S.C. § 8172"
-generated_at: "2026-03-30T01:47:12.718Z"
+generated_at: "2026-03-30T01:50:26.002Z"
 ---
 
 # § 8172. Marine Corps organizations on vessels: authority of officers

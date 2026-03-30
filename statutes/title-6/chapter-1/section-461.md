@@ -3,9 +3,9 @@ title: "Section 461 - Review of pay and benefit plans"
 usc_title: 6
 usc_section: "461"
 chapter: 1
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "6 U.S.C. § 461"
-generated_at: "2026-03-30T01:47:04.855Z"
+generated_at: "2026-03-30T01:50:06.230Z"
 ---
 
 # § 461. Review of pay and benefit plans

@@ -3,9 +3,9 @@ title: "Section 1785 - Requirements governing insured credit unions"
 usc_title: 12
 usc_section: "1785"
 chapter: 14
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "12 U.S.C. § 1785"
-generated_at: "2026-03-30T01:47:37.956Z"
+generated_at: "2026-03-30T01:50:36.069Z"
 ---
 
 # § 1785. Requirements governing insured credit unions

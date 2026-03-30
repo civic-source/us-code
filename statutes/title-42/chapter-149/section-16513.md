@@ -3,9 +3,9 @@ title: "Section 16513 - Eligible projects"
 usc_title: 42
 usc_section: "16513"
 chapter: 149
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 16513"
-generated_at: "2026-03-30T01:49:24.184Z"
+generated_at: "2026-03-30T01:51:50.923Z"
 ---
 
 # § 16513. Eligible projects

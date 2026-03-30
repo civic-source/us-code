@@ -3,9 +3,9 @@ title: "Section 4405 - Injunctions"
 usc_title: 15
 usc_section: "4405"
 chapter: 70
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "15 U.S.C. § 4405"
-generated_at: "2026-03-30T01:47:48.234Z"
+generated_at: "2026-03-30T01:50:38.964Z"
 ---
 
 # § 4405. Injunctions

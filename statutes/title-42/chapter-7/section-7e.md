@@ -3,9 +3,9 @@ title: "Section 7e - Health care fraud and abuse data collection program"
 usc_title: 42
 usc_section: "7e"
 chapter: 7
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T01:49:23.659Z"
+generated_at: "2026-03-30T01:51:50.379Z"
 ---
 
 # § 1320a–7e. Health care fraud and abuse data collection program

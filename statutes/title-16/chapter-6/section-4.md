@@ -3,9 +3,9 @@ title: "Section 4 - Limited authority to acquire"
 usc_title: 16
 usc_section: "4"
 chapter: 6
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T01:47:59.849Z"
+generated_at: "2026-03-30T01:50:50.247Z"
 ---
 
 # § 698u–4. Limited authority to acquire

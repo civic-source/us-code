@@ -3,9 +3,9 @@ title: "Section 1755b - Pulse crop products"
 usc_title: 42
 usc_section: "1755b"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "42 U.S.C. § 1755b"
-generated_at: "2026-03-30T01:49:23.832Z"
+generated_at: "2026-03-30T01:51:50.561Z"
 ---
 
 # § 1755b. Pulse crop products

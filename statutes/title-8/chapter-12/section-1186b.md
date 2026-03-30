@@ -3,9 +3,9 @@ title: "Section 1186b - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186b"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "8 U.S.C. § 1186b"
-generated_at: "2026-03-30T01:46:59.634Z"
+generated_at: "2026-03-30T01:50:20.692Z"
 ---
 
 # § 1186b. Conditional permanent resident status for certain alien entrepreneurs, spouses, and children

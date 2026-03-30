@@ -3,9 +3,9 @@ title: "Section 593a - Construction, operation, and maintenance of Hungry Horse 
 usc_title: 43
 usc_section: "593a"
 chapter: 12
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "43 U.S.C. § 593a"
-generated_at: "2026-03-30T01:49:09.819Z"
+generated_at: "2026-03-30T01:51:32.535Z"
 ---
 
 # § 593a. Construction, operation, and maintenance of Hungry Horse Dam

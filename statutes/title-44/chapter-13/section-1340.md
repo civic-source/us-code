@@ -3,9 +3,9 @@ title: "Section 1340 - Director of the Government Publishing Office: annual repo
 usc_title: 44
 usc_section: "1340"
 chapter: 13
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "44 U.S.C. § 1340"
-generated_at: "2026-03-30T01:49:08.672Z"
+generated_at: "2026-03-30T01:51:31.802Z"
 ---
 
 # § 1340. Director of the Government Publishing Office: annual report

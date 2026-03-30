@@ -3,9 +3,9 @@ title: "Section 3781 - Assets and liabilities of Panama Canal Company"
 usc_title: 22
 usc_section: "3781"
 chapter: 51
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "22 U.S.C. § 3781"
-generated_at: "2026-03-30T01:48:20.706Z"
+generated_at: "2026-03-30T01:50:56.566Z"
 ---
 
 # § 3781. Assets and liabilities of Panama Canal Company

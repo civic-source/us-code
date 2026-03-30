@@ -3,9 +3,9 @@ title: "Section 661c - Budgetary treatment"
 usc_title: 2
 usc_section: "661c"
 chapter: 17
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "2 U.S.C. § 661c"
-generated_at: "2026-03-30T01:46:55.923Z"
+generated_at: "2026-03-30T01:49:52.101Z"
 ---
 
 # § 661c. Budgetary treatment

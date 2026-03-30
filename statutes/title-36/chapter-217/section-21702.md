@@ -3,9 +3,9 @@ title: "Section 21702 - Purposes"
 usc_title: 36
 usc_section: "21702"
 chapter: 217
-current_through: "PL 118-106"
+current_through: "PL 118-107"
 classification: "36 U.S.C. § 21702"
-generated_at: "2026-03-30T01:49:04.953Z"
+generated_at: "2026-03-30T01:51:25.252Z"
 ---
 
 # § 21702. Purposes
