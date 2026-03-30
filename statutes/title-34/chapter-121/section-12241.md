@@ -3,9 +3,9 @@ title: "Section 12241 - Purpose"
 usc_title: 34
 usc_section: "12241"
 chapter: 121
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "34 U.S.C. § 12241"
-generated_at: "2026-03-30T09:28:40.486Z"
+generated_at: "2026-03-30T09:31:23.839Z"
 status: "active"
 ---
 

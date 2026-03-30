@@ -3,9 +3,9 @@ title: "Section 144 - Entries on land withdrawn as valuable for oil or gas valid
 usc_title: 43
 usc_section: "144"
 chapter: 6
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 144"
-generated_at: "2026-03-30T09:28:52.529Z"
+generated_at: "2026-03-30T09:31:34.694Z"
 status: "active"
 ---
 

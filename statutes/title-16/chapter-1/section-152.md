@@ -3,9 +3,9 @@ title: "Section 152 - Additional land withdrawn; payment; management and control
 usc_title: 16
 usc_section: "152"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 152"
-generated_at: "2026-03-30T09:27:52.889Z"
+generated_at: "2026-03-30T09:30:57.469Z"
 status: "active"
 ---
 

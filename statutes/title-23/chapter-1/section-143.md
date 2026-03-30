@@ -3,9 +3,9 @@ title: "Section 143 - Highway use tax evasion projects"
 usc_title: 23
 usc_section: "143"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "23 U.S.C. § 143"
-generated_at: "2026-03-30T09:28:10.432Z"
+generated_at: "2026-03-30T09:31:02.490Z"
 status: "active"
 ---
 

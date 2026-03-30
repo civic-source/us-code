@@ -3,9 +3,9 @@ title: "Section 4711 - Investment of receipts and proceeds"
 usc_title: 12
 usc_section: "4711"
 chapter: 47
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 4711"
-generated_at: "2026-03-30T09:27:22.695Z"
+generated_at: "2026-03-30T09:30:35.706Z"
 status: "active"
 ---
 

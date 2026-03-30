@@ -3,9 +3,9 @@ title: "Section 9525 - Imposition of sanctions with respect to persons engaging 
 usc_title: 22
 usc_section: "9525"
 chapter: 102
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 9525"
-generated_at: "2026-03-30T09:28:10.051Z"
+generated_at: "2026-03-30T09:31:08.023Z"
 status: "active"
 ---
 

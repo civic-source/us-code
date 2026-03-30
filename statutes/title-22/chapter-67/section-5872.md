@@ -3,9 +3,9 @@ title: "Section 5872 - Office of Space Commerce"
 usc_title: 22
 usc_section: "5872"
 chapter: 67
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 5872"
-generated_at: "2026-03-30T09:28:10.011Z"
+generated_at: "2026-03-30T09:31:07.972Z"
 status: "active"
 ---
 

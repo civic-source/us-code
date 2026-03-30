@@ -3,9 +3,9 @@ title: "Section 2438 - Performance assessments and root cause analyses"
 usc_title: 10
 usc_section: "2438"
 chapter: 144
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 2438"
-generated_at: "2026-03-30T09:27:12.494Z"
+generated_at: "2026-03-30T09:30:29.886Z"
 status: "active"
 ---
 

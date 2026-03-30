@@ -3,9 +3,9 @@ title: "Section 10704 - Authority and criteria: rates, classifications, rules, a
 usc_title: 49
 usc_section: "10704"
 chapter: 107
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "49 U.S.C. § 10704"
-generated_at: "2026-03-30T09:29:40.180Z"
+generated_at: "2026-03-30T09:32:07.297Z"
 status: "active"
 ---
 

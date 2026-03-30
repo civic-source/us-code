@@ -3,9 +3,9 @@ title: "Section 722 - Basis of contributing partner’s interest"
 usc_title: 26
 usc_section: "722"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "26 U.S.C. § 722"
-generated_at: "2026-03-30T09:28:21.543Z"
+generated_at: "2026-03-30T09:31:20.140Z"
 status: "active"
 ---
 

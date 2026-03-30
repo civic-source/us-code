@@ -3,9 +3,9 @@ title: "Section 441e - Effective date of sections 441 to 441d"
 usc_title: 16
 usc_section: "441e"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 441e"
-generated_at: "2026-03-30T09:27:52.931Z"
+generated_at: "2026-03-30T09:30:57.539Z"
 status: "active"
 ---
 

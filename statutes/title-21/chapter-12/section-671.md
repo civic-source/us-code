@@ -3,9 +3,9 @@ title: "Section 671 - Inspection services; refusal or withdrawal; hearing; busin
 usc_title: 21
 usc_section: "671"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "21 U.S.C. § 671"
-generated_at: "2026-03-30T09:28:12.499Z"
+generated_at: "2026-03-30T09:31:05.151Z"
 status: "active"
 ---
 

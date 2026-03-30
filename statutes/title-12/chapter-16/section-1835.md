@@ -3,9 +3,9 @@ title: "Section 1835 - Insured depository institution capital requirements for t
 usc_title: 12
 usc_section: "1835"
 chapter: 16
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 1835"
-generated_at: "2026-03-30T09:27:22.649Z"
+generated_at: "2026-03-30T09:30:35.658Z"
 status: "active"
 ---
 

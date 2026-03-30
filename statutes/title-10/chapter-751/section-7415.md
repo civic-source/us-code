@@ -3,9 +3,9 @@ title: "Section 7415 - The Judge Advocate General’s School: master of laws in 
 usc_title: 10
 usc_section: "7415"
 chapter: 751
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 7415"
-generated_at: "2026-03-30T09:27:12.520Z"
+generated_at: "2026-03-30T09:30:29.911Z"
 status: "active"
 ---
 

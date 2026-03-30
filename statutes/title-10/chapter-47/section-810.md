@@ -3,9 +3,9 @@ title: "Section 810 - Art. 10. Restraint of persons charged"
 usc_title: 10
 usc_section: "810"
 chapter: 47
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 810"
-generated_at: "2026-03-30T09:27:12.423Z"
+generated_at: "2026-03-30T09:30:29.819Z"
 status: "active"
 ---
 

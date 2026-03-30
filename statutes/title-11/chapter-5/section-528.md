@@ -3,9 +3,9 @@ title: "Section 528 - Requirements for debt relief agencies"
 usc_title: 11
 usc_section: "528"
 chapter: 5
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "11 U.S.C. § 528"
-generated_at: "2026-03-30T09:27:17.092Z"
+generated_at: "2026-03-30T09:30:32.493Z"
 status: "active"
 ---
 

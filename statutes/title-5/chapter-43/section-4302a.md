@@ -3,9 +3,9 @@ title: "Section 4302a - Repealed. Pub. L. 103–89, § 3(b)(1)(B)(i) , Sept. 30,
 usc_title: 5
 usc_section: "4302a"
 chapter: 43
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "5 U.S.C. § 4302a"
-generated_at: "2026-03-30T09:26:52.329Z"
+generated_at: "2026-03-30T09:30:12.620Z"
 status: "repealed"
 ---
 

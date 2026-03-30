@@ -3,9 +3,9 @@ title: "Section 2157 - Flag officers"
 usc_title: 14
 usc_section: "2157"
 chapter: 21
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "14 U.S.C. § 2157"
-generated_at: "2026-03-30T09:27:14.782Z"
+generated_at: "2026-03-30T09:30:32.998Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1532 - Program authorization"
 usc_title: 21
 usc_section: "1532"
 chapter: 20
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "21 U.S.C. § 1532"
-generated_at: "2026-03-30T09:28:12.512Z"
+generated_at: "2026-03-30T09:31:05.171Z"
 status: "active"
 ---
 

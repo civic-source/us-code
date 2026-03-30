@@ -3,9 +3,9 @@ title: "Section 64c - Omitted"
 usc_title: 42
 usc_section: "64c"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 64c"
-generated_at: "2026-03-30T09:29:27.768Z"
+generated_at: "2026-03-30T09:32:00.654Z"
 status: "omitted"
 ---
 

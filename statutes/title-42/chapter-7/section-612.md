@@ -3,9 +3,9 @@ title: "Section 612 - Direct funding and administration by Indian tribes"
 usc_title: 42
 usc_section: "612"
 chapter: 7
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 612"
-generated_at: "2026-03-30T09:29:27.945Z"
+generated_at: "2026-03-30T09:32:00.814Z"
 status: "active"
 ---
 

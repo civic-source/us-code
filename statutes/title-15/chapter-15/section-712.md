@@ -3,9 +3,9 @@ title: "Section 712 - Omitted"
 usc_title: 15
 usc_section: "712"
 chapter: 15
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 712"
-generated_at: "2026-03-30T09:27:45.660Z"
+generated_at: "2026-03-30T09:30:42.505Z"
 status: "omitted"
 ---
 

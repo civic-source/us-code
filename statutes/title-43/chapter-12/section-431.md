@@ -3,9 +3,9 @@ title: "Section 431 - Limitation as to amount of water; qualifications of applic
 usc_title: 43
 usc_section: "431"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 431"
-generated_at: "2026-03-30T09:28:52.540Z"
+generated_at: "2026-03-30T09:31:34.704Z"
 status: "active"
 ---
 

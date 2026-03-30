@@ -3,9 +3,9 @@ title: "Section 1706 - Savings provisions"
 usc_title: 50
 usc_section: "1706"
 chapter: 35
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "50 U.S.C. § 1706"
-generated_at: "2026-03-30T09:29:35.070Z"
+generated_at: "2026-03-30T09:32:10.284Z"
 status: "active"
 ---
 

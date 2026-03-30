@@ -3,9 +3,9 @@ title: "Section 2346 - Occupancy by existing tenants"
 usc_title: 42
 usc_section: "2346"
 chapter: 24
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 2346"
-generated_at: "2026-03-30T09:29:28.175Z"
+generated_at: "2026-03-30T09:32:01.041Z"
 status: "active"
 ---
 

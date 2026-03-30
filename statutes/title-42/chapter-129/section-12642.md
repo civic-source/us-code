@@ -3,9 +3,9 @@ title: "Section 12642 - Partnerships with schools"
 usc_title: 42
 usc_section: "12642"
 chapter: 129
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 12642"
-generated_at: "2026-03-30T09:29:28.398Z"
+generated_at: "2026-03-30T09:32:01.256Z"
 status: "active"
 ---
 

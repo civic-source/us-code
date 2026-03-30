@@ -3,9 +3,9 @@ title: "Section 1922 - Emergency removal or placement of child; termination; app
 usc_title: 25
 usc_section: "1922"
 chapter: 21
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "25 U.S.C. § 1922"
-generated_at: "2026-03-30T09:28:07.121Z"
+generated_at: "2026-03-30T09:31:03.715Z"
 status: "active"
 ---
 

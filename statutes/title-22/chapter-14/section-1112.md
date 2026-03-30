@@ -3,9 +3,9 @@ title: "Section 1112 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1112"
 chapter: 14
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 1112"
-generated_at: "2026-03-30T09:28:09.935Z"
+generated_at: "2026-03-30T09:31:07.872Z"
 status: "repealed"
 ---
 

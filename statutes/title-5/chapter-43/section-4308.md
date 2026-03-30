@@ -3,9 +3,9 @@ title: "Section 4308 - Omitted]"
 usc_title: 5
 usc_section: "4308"
 chapter: 43
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "5 U.S.C. § 4308"
-generated_at: "2026-03-30T09:26:52.329Z"
+generated_at: "2026-03-30T09:30:12.620Z"
 status: "omitted"
 ---
 

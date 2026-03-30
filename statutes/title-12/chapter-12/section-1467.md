@@ -3,9 +3,9 @@ title: "Section 1467 - Examination fees"
 usc_title: 12
 usc_section: "1467"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 1467"
-generated_at: "2026-03-30T09:27:22.589Z"
+generated_at: "2026-03-30T09:30:35.595Z"
 status: "active"
 ---
 

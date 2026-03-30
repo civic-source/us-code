@@ -3,9 +3,9 @@ title: "Section 6544 - Substitute reporters of debates and expert transcribers; 
 usc_title: 2
 usc_section: "6544"
 chapter: 65
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "2 U.S.C. § 6544"
-generated_at: "2026-03-30T09:26:43.519Z"
+generated_at: "2026-03-30T09:30:03.123Z"
 status: "active"
 ---
 

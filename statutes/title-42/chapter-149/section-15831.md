@@ -3,9 +3,9 @@ title: "Section 15831 - Public energy education program"
 usc_title: 42
 usc_section: "15831"
 chapter: 149
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 15831"
-generated_at: "2026-03-30T09:29:28.430Z"
+generated_at: "2026-03-30T09:32:01.287Z"
 status: "active"
 ---
 

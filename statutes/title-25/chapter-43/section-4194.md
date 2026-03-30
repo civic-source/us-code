@@ -3,9 +3,9 @@ title: "Section 4194 - Training and information"
 usc_title: 25
 usc_section: "4194"
 chapter: 43
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "25 U.S.C. § 4194"
-generated_at: "2026-03-30T09:28:07.146Z"
+generated_at: "2026-03-30T09:31:03.751Z"
 status: "active"
 ---
 

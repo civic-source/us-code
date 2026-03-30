@@ -3,9 +3,9 @@ title: "Section 1973gg - Transferred"
 usc_title: 42
 usc_section: "1973gg"
 chapter: 20
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 1973gg"
-generated_at: "2026-03-30T09:29:28.149Z"
+generated_at: "2026-03-30T09:32:01.016Z"
 status: "transferred"
 ---
 

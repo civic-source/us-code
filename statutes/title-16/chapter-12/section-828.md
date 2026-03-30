@@ -3,9 +3,9 @@ title: "Section 828 - Facilitation of development and construction of water cons
 usc_title: 16
 usc_section: "828"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 828"
-generated_at: "2026-03-30T09:27:53.014Z"
+generated_at: "2026-03-30T09:30:57.678Z"
 status: "active"
 ---
 

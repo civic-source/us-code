@@ -3,9 +3,9 @@ title: "Section 1862f - Research center consortia"
 usc_title: 42
 usc_section: "1862f"
 chapter: 16
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 1862f"
-generated_at: "2026-03-30T09:29:28.139Z"
+generated_at: "2026-03-30T09:32:01.006Z"
 status: "active"
 ---
 

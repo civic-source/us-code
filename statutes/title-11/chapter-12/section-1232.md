@@ -3,9 +3,9 @@ title: "Section 1232 - Claim by a governmental unit based on the disposition of 
 usc_title: 11
 usc_section: "1232"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "11 U.S.C. § 1232"
-generated_at: "2026-03-30T09:27:17.099Z"
+generated_at: "2026-03-30T09:30:32.501Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8546 - National Oceanic and Atmospheric Administration Weather R
 usc_title: 15
 usc_section: "8546"
 chapter: 111
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 8546"
-generated_at: "2026-03-30T09:27:45.765Z"
+generated_at: "2026-03-30T09:30:42.620Z"
 status: "active"
 ---
 

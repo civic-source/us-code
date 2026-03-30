@@ -3,9 +3,9 @@ title: "Section 1920 - National Service Life Insurance Fund"
 usc_title: 38
 usc_section: "1920"
 chapter: 19
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "38 U.S.C. § 1920"
-generated_at: "2026-03-30T09:28:49.497Z"
+generated_at: "2026-03-30T09:31:28.954Z"
 status: "active"
 ---
 

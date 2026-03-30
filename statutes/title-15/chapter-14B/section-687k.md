@@ -3,9 +3,9 @@ title: "Section 687k - Guaranteed obligations not eligible for purchase by Feder
 usc_title: 15
 usc_section: "687k"
 chapter: 14
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 687k"
-generated_at: "2026-03-30T09:27:45.656Z"
+generated_at: "2026-03-30T09:30:42.500Z"
 status: "active"
 ---
 

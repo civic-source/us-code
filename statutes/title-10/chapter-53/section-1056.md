@@ -3,9 +3,9 @@ title: "Section 1056 - Relocation assistance programs"
 usc_title: 10
 usc_section: "1056"
 chapter: 53
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 1056"
-generated_at: "2026-03-30T09:27:12.437Z"
+generated_at: "2026-03-30T09:30:29.832Z"
 status: "active"
 ---
 

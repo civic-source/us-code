@@ -3,9 +3,9 @@ title: "Section 887 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "887"
 chapter: 24
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "50 U.S.C. § 887"
-generated_at: "2026-03-30T09:29:35.066Z"
+generated_at: "2026-03-30T09:32:10.280Z"
 status: "repealed"
 ---
 

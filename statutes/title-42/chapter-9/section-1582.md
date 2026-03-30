@@ -3,9 +3,9 @@ title: "Section 1582 - Temporary housing exempted from provisions of section 155
 usc_title: 42
 usc_section: "1582"
 chapter: 9
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 1582"
-generated_at: "2026-03-30T09:29:28.122Z"
+generated_at: "2026-03-30T09:32:00.988Z"
 status: "active"
 ---
 

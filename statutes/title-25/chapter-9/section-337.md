@@ -3,9 +3,9 @@ title: "Section 337 - Allotments in national forests"
 usc_title: 25
 usc_section: "337"
 chapter: 9
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "25 U.S.C. § 337"
-generated_at: "2026-03-30T09:28:07.097Z"
+generated_at: "2026-03-30T09:31:03.680Z"
 status: "active"
 ---
 

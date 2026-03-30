@@ -3,9 +3,9 @@ title: "Section 7595 - Army Military History Institute: fee for providing histor
 usc_title: 10
 usc_section: "7595"
 chapter: 767
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 7595"
-generated_at: "2026-03-30T09:27:12.522Z"
+generated_at: "2026-03-30T09:30:29.913Z"
 status: "active"
 ---
 

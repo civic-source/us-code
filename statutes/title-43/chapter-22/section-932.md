@@ -3,9 +3,9 @@ title: "Section 932 - Repealed. Pub. L. 94–579, title VII, § 706(a) , Oct. 21
 usc_title: 43
 usc_section: "932"
 chapter: 22
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 932"
-generated_at: "2026-03-30T09:28:52.552Z"
+generated_at: "2026-03-30T09:31:34.717Z"
 status: "repealed"
 ---
 

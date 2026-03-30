@@ -3,9 +3,9 @@ title: "Section 6576 - Senate Gift Shop"
 usc_title: 2
 usc_section: "6576"
 chapter: 65
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "2 U.S.C. § 6576"
-generated_at: "2026-03-30T09:26:43.520Z"
+generated_at: "2026-03-30T09:30:03.123Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6050K - Returns relating to exchanges of certain partnership int
 usc_title: 26
 usc_section: "6050K"
 chapter: 61
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "26 U.S.C. § 6050K"
-generated_at: "2026-03-30T09:28:21.631Z"
+generated_at: "2026-03-30T09:31:20.246Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2904 - Eligibility criteria"
 usc_title: 43
 usc_section: "2904"
 chapter: 47
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 2904"
-generated_at: "2026-03-30T09:28:52.584Z"
+generated_at: "2026-03-30T09:31:34.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9902 - Definitions"
 usc_title: 42
 usc_section: "9902"
 chapter: 106
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 9902"
-generated_at: "2026-03-30T09:29:28.358Z"
+generated_at: "2026-03-30T09:32:01.217Z"
 status: "active"
 ---
 

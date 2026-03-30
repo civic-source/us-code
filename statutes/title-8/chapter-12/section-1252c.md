@@ -3,9 +3,9 @@ title: "Section 1252c - Authorizing State and local law enforcement officials to
 usc_title: 8
 usc_section: "1252c"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "8 U.S.C. § 1252c"
-generated_at: "2026-03-30T09:26:55.295Z"
+generated_at: "2026-03-30T09:30:19.760Z"
 status: "active"
 ---
 

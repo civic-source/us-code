@@ -3,9 +3,9 @@ title: "Section 9122 - Definitions"
 usc_title: 20
 usc_section: "9122"
 chapter: 72
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "20 U.S.C. § 9122"
-generated_at: "2026-03-30T09:27:55.049Z"
+generated_at: "2026-03-30T09:30:47.917Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Availability of Colorado River Development Fund for investig
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T09:28:52.546Z"
+generated_at: "2026-03-30T09:31:34.711Z"
 status: "active"
 ---
 

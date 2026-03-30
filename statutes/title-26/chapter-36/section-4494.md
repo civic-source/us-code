@@ -3,9 +3,9 @@ title: "Section 4494 - Repealed. Pub. L. 97–248, title II, § 280(c)(1) , Sept
 usc_title: 26
 usc_section: "4494"
 chapter: 36
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "26 U.S.C. § 4494"
-generated_at: "2026-03-30T09:28:21.606Z"
+generated_at: "2026-03-30T09:31:20.215Z"
 status: "repealed"
 ---
 

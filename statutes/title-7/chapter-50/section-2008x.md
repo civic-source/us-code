@@ -3,9 +3,9 @@ title: "Section 2008x - Reporting"
 usc_title: 7
 usc_section: "2008x"
 chapter: 50
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "7 U.S.C. § 2008x"
-generated_at: "2026-03-30T09:26:58.651Z"
+generated_at: "2026-03-30T09:30:21.766Z"
 status: "active"
 ---
 

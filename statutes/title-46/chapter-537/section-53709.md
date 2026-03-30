@@ -3,9 +3,9 @@ title: "Section 53709 - Amount of obligations"
 usc_title: 46
 usc_section: "53709"
 chapter: 537
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "46 U.S.C. § 53709"
-generated_at: "2026-03-30T09:29:32.547Z"
+generated_at: "2026-03-30T09:32:08.930Z"
 status: "active"
 ---
 

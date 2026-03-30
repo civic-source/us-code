@@ -3,9 +3,9 @@ title: "Section 18646 - Isotope development and production for research applicat
 usc_title: 42
 usc_section: "18646"
 chapter: 161
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 18646"
-generated_at: "2026-03-30T09:29:28.470Z"
+generated_at: "2026-03-30T09:32:01.326Z"
 status: "active"
 ---
 

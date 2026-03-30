@@ -3,9 +3,9 @@ title: "Section 4274 - Organization of Commission"
 usc_title: 42
 usc_section: "4274"
 chapter: 53
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 4274"
-generated_at: "2026-03-30T09:29:28.208Z"
+generated_at: "2026-03-30T09:32:01.073Z"
 status: "active"
 ---
 

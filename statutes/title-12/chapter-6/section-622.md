@@ -3,9 +3,9 @@ title: "Section 622 - Forfeiture of rights and privileges; dissolution; liabilit
 usc_title: 12
 usc_section: "622"
 chapter: 6
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 622"
-generated_at: "2026-03-30T09:27:22.575Z"
+generated_at: "2026-03-30T09:30:35.580Z"
 status: "active"
 ---
 

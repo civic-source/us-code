@@ -3,9 +3,9 @@ title: "Section 12645e - Audits and reports"
 usc_title: 42
 usc_section: "12645e"
 chapter: 129
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 12645e"
-generated_at: "2026-03-30T09:29:28.398Z"
+generated_at: "2026-03-30T09:32:01.256Z"
 status: "active"
 ---
 

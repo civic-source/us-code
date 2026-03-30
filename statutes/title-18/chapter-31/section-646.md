@@ -3,9 +3,9 @@ title: "Section 646 - Court officers depositing registry moneys"
 usc_title: 18
 usc_section: "646"
 chapter: 31
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "18 U.S.C. § 646"
-generated_at: "2026-03-30T09:28:01.289Z"
+generated_at: "2026-03-30T09:30:51.481Z"
 status: "active"
 ---
 

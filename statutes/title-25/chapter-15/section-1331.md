@@ -3,9 +3,9 @@ title: "Section 1331 - Approval"
 usc_title: 25
 usc_section: "1331"
 chapter: 15
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "25 U.S.C. § 1331"
-generated_at: "2026-03-30T09:28:07.107Z"
+generated_at: "2026-03-30T09:31:03.694Z"
 status: "active"
 ---
 

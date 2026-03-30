@@ -3,9 +3,9 @@ title: "Section 456 - Rules and regulations; appointment, removal, and compensat
 usc_title: 7
 usc_section: "456"
 chapter: 18
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "7 U.S.C. § 456"
-generated_at: "2026-03-30T09:26:58.596Z"
+generated_at: "2026-03-30T09:30:21.712Z"
 status: "active"
 ---
 

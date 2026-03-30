@@ -3,9 +3,9 @@ title: "Section 11704 - Renumbered § 11703]"
 usc_title: 40
 usc_section: "11704"
 chapter: 117
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "40 U.S.C. § 11704"
-generated_at: "2026-03-30T09:28:42.468Z"
+generated_at: "2026-03-30T09:31:31.929Z"
 status: "renumbered"
 ---
 

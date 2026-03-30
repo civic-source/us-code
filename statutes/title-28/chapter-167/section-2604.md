@@ -3,9 +3,9 @@ title: "Section 2604 - Repealed. Pub. L. 97–164, title I, § 140 , Apr. 2, 198
 usc_title: 28
 usc_section: "2604"
 chapter: 167
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "28 U.S.C. § 2604"
-generated_at: "2026-03-30T09:28:17.588Z"
+generated_at: "2026-03-30T09:31:14.090Z"
 status: "repealed"
 ---
 

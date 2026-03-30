@@ -3,9 +3,9 @@ title: "Section 1313 - Assistance for United States citizens returned from forei
 usc_title: 42
 usc_section: "1313"
 chapter: 7
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 1313"
-generated_at: "2026-03-30T09:29:27.969Z"
+generated_at: "2026-03-30T09:32:00.837Z"
 status: "active"
 ---
 

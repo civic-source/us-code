@@ -3,9 +3,9 @@ title: "Section 1011h - Binge drinking on college campuses"
 usc_title: 20
 usc_section: "1011h"
 chapter: 28
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "20 U.S.C. § 1011h"
-generated_at: "2026-03-30T09:27:54.929Z"
+generated_at: "2026-03-30T09:30:47.775Z"
 status: "active"
 ---
 

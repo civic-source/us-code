@@ -3,9 +3,9 @@ title: "Section 8139 - Regular Navy and Regular Marine Corps: officers designate
 usc_title: 10
 usc_section: "8139"
 chapter: 815
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 8139"
-generated_at: "2026-03-30T09:27:12.525Z"
+generated_at: "2026-03-30T09:30:29.917Z"
 status: "active"
 ---
 

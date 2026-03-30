@@ -3,9 +3,9 @@ title: "Section 2863 - Payment of contractor claims"
 usc_title: 10
 usc_section: "2863"
 chapter: 169
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 2863"
-generated_at: "2026-03-30T09:27:12.513Z"
+generated_at: "2026-03-30T09:30:29.904Z"
 status: "active"
 ---
 

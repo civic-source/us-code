@@ -3,9 +3,9 @@ title: "Section 41 - American-Mexican Boundary Treaty, Presidio flood control pr
 usc_title: 22
 usc_section: "41"
 chapter: 7
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 41"
-generated_at: "2026-03-30T09:28:09.920Z"
+generated_at: "2026-03-30T09:31:07.852Z"
 status: "active"
 ---
 

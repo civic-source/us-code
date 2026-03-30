@@ -3,9 +3,9 @@ title: "Section 7321 - Committee on Care of Severely Chronically Mentally Ill Ve
 usc_title: 38
 usc_section: "7321"
 chapter: 73
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "38 U.S.C. § 7321"
-generated_at: "2026-03-30T09:28:49.531Z"
+generated_at: "2026-03-30T09:31:28.990Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111A - Transportation of individuals to and from Department faci
 usc_title: 38
 usc_section: "111A"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "38 U.S.C. § 111A"
-generated_at: "2026-03-30T09:28:49.480Z"
+generated_at: "2026-03-30T09:31:28.937Z"
 status: "active"
 ---
 

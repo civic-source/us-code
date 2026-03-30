@@ -3,9 +3,9 @@ title: "Section 3041 - Power of courts and magistrates"
 usc_title: 18
 usc_section: "3041"
 chapter: 203
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "18 U.S.C. § 3041"
-generated_at: "2026-03-30T09:28:01.322Z"
+generated_at: "2026-03-30T09:30:51.537Z"
 status: "active"
 ---
 

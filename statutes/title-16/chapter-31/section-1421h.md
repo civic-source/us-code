@@ -3,9 +3,9 @@ title: "Section 1421h - Definitions"
 usc_title: 16
 usc_section: "1421h"
 chapter: 31
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 1421h"
-generated_at: "2026-03-30T09:27:53.043Z"
+generated_at: "2026-03-30T09:30:57.731Z"
 status: "active"
 ---
 

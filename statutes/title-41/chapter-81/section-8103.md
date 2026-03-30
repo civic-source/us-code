@@ -3,9 +3,9 @@ title: "Section 8103 - Drug-free workplace requirements for Federal grant recipi
 usc_title: 41
 usc_section: "8103"
 chapter: 81
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "41 U.S.C. § 8103"
-generated_at: "2026-03-30T09:28:55.645Z"
+generated_at: "2026-03-30T09:31:33.638Z"
 status: "active"
 ---
 

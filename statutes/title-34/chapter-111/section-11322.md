@@ -3,9 +3,9 @@ title: "Section 11322 - Accountability and oversight"
 usc_title: 34
 usc_section: "11322"
 chapter: 111
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "34 U.S.C. § 11322"
-generated_at: "2026-03-30T09:28:40.483Z"
+generated_at: "2026-03-30T09:31:23.836Z"
 status: "active"
 ---
 

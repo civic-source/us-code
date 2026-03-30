@@ -3,9 +3,9 @@ title: "Section 6602 - Interest on erroneous refund recoverable by suit"
 usc_title: 26
 usc_section: "6602"
 chapter: 67
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "26 U.S.C. § 6602"
-generated_at: "2026-03-30T09:28:21.650Z"
+generated_at: "2026-03-30T09:31:20.268Z"
 status: "active"
 ---
 

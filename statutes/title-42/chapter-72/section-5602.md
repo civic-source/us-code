@@ -3,9 +3,9 @@ title: "Section 5602 - Transferred"
 usc_title: 42
 usc_section: "5602"
 chapter: 72
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 5602"
-generated_at: "2026-03-30T09:29:28.239Z"
+generated_at: "2026-03-30T09:32:01.101Z"
 status: "transferred"
 ---
 

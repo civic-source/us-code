@@ -3,9 +3,9 @@ title: "Section 4502 - Payment"
 usc_title: 41
 usc_section: "4502"
 chapter: 45
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "41 U.S.C. § 4502"
-generated_at: "2026-03-30T09:28:55.643Z"
+generated_at: "2026-03-30T09:31:33.635Z"
 status: "active"
 ---
 

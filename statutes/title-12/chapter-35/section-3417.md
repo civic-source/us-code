@@ -3,9 +3,9 @@ title: "Section 3417 - Civil penalties"
 usc_title: 12
 usc_section: "3417"
 chapter: 35
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 3417"
-generated_at: "2026-03-30T09:27:22.676Z"
+generated_at: "2026-03-30T09:30:35.687Z"
 status: "active"
 ---
 

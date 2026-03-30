@@ -3,9 +3,9 @@ title: "Section 6294b - WaterSense program"
 usc_title: 42
 usc_section: "6294b"
 chapter: 77
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 6294b"
-generated_at: "2026-03-30T09:29:28.249Z"
+generated_at: "2026-03-30T09:32:01.111Z"
 status: "active"
 ---
 

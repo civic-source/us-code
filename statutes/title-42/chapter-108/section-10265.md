@@ -3,9 +3,9 @@ title: "Section 10265 - Compensation of members"
 usc_title: 42
 usc_section: "10265"
 chapter: 108
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 10265"
-generated_at: "2026-03-30T09:29:28.366Z"
+generated_at: "2026-03-30T09:32:01.224Z"
 status: "active"
 ---
 

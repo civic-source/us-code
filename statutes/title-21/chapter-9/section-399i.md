@@ -3,9 +3,9 @@ title: "Section 399i - Food and Drug Administration Working Capital Fund"
 usc_title: 21
 usc_section: "399i"
 chapter: 9
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "21 U.S.C. § 399i"
-generated_at: "2026-03-30T09:28:12.496Z"
+generated_at: "2026-03-30T09:31:05.147Z"
 status: "active"
 ---
 

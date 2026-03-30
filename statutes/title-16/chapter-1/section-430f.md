@@ -3,9 +3,9 @@ title: "Section 430f - Shiloh National Military Park"
 usc_title: 16
 usc_section: "430f"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 430f"
-generated_at: "2026-03-30T09:27:52.927Z"
+generated_at: "2026-03-30T09:30:57.532Z"
 status: "active"
 ---
 

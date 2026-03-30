@@ -3,9 +3,9 @@ title: "Section 1221 - Short title; applicability; definitions"
 usc_title: 20
 usc_section: "1221"
 chapter: 31
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "20 U.S.C. § 1221"
-generated_at: "2026-03-30T09:27:54.985Z"
+generated_at: "2026-03-30T09:30:47.838Z"
 status: "active"
 ---
 

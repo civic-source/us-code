@@ -3,9 +3,9 @@ title: "Section 6212 - Requirement for authorization of appropriations"
 usc_title: 22
 usc_section: "6212"
 chapter: 71
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 6212"
-generated_at: "2026-03-30T09:28:10.015Z"
+generated_at: "2026-03-30T09:31:07.977Z"
 status: "active"
 ---
 

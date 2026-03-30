@@ -3,9 +3,9 @@ title: "Section 145 - Sale of lands withdrawn"
 usc_title: 43
 usc_section: "145"
 chapter: 6
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 145"
-generated_at: "2026-03-30T09:28:52.529Z"
+generated_at: "2026-03-30T09:31:34.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "9a"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 9a"
-generated_at: "2026-03-30T09:27:52.881Z"
+generated_at: "2026-03-30T09:30:57.457Z"
 status: "repealed"
 ---
 

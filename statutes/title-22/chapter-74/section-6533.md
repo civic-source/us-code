@@ -3,9 +3,9 @@ title: "Section 6533 - Abolition of Office of Inspector General of United States
 usc_title: 22
 usc_section: "6533"
 chapter: 74
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 6533"
-generated_at: "2026-03-30T09:28:10.019Z"
+generated_at: "2026-03-30T09:31:07.982Z"
 status: "active"
 ---
 

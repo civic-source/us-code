@@ -3,9 +3,9 @@ title: "Section 396d - Establishment"
 usc_title: 16
 usc_section: "396d"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "16 U.S.C. § 396d"
-generated_at: "2026-03-30T09:27:52.901Z"
+generated_at: "2026-03-30T09:30:57.489Z"
 status: "active"
 ---
 

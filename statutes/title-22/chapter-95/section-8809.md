@@ -3,9 +3,9 @@ title: "Section 8809 - Implementation; penalties"
 usc_title: 22
 usc_section: "8809"
 chapter: 95
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 8809"
-generated_at: "2026-03-30T09:28:10.044Z"
+generated_at: "2026-03-30T09:31:08.013Z"
 status: "active"
 ---
 

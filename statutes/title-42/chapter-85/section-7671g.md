@@ -3,9 +3,9 @@ title: "Section 7671g - National recycling and emission reduction program"
 usc_title: 42
 usc_section: "7671g"
 chapter: 85
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 7671g"
-generated_at: "2026-03-30T09:29:28.316Z"
+generated_at: "2026-03-30T09:32:01.176Z"
 status: "active"
 ---
 

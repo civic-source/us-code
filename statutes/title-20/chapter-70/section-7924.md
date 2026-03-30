@@ -3,9 +3,9 @@ title: "Section 7924 - State control over standards"
 usc_title: 20
 usc_section: "7924"
 chapter: 70
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "20 U.S.C. § 7924"
-generated_at: "2026-03-30T09:27:55.046Z"
+generated_at: "2026-03-30T09:30:47.913Z"
 status: "active"
 ---
 

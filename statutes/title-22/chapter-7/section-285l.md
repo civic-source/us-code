@@ -3,9 +3,9 @@ title: "Section 285l - Letter of credit form for United States Special Resources
 usc_title: 22
 usc_section: "285l"
 chapter: 7
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 285l"
-generated_at: "2026-03-30T09:28:09.923Z"
+generated_at: "2026-03-30T09:31:07.857Z"
 status: "active"
 ---
 

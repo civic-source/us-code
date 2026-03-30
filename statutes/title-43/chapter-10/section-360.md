@@ -3,9 +3,9 @@ title: "Section 360 - Repealed. Pub. L. 88–417, § 1 , Aug. 11, 1964 , 78 Stat
 usc_title: 43
 usc_section: "360"
 chapter: 10
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 360"
-generated_at: "2026-03-30T09:28:52.532Z"
+generated_at: "2026-03-30T09:31:34.697Z"
 status: "repealed"
 ---
 

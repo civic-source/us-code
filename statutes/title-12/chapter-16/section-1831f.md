@@ -3,9 +3,9 @@ title: "Section 1831f - Brokered deposits"
 usc_title: 12
 usc_section: "1831f"
 chapter: 16
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 1831f"
-generated_at: "2026-03-30T09:27:22.643Z"
+generated_at: "2026-03-30T09:30:35.651Z"
 status: "active"
 ---
 

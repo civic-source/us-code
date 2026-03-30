@@ -3,9 +3,9 @@ title: "Section 45 - Reports by Commission; hiring and leasing authority"
 usc_title: 15
 usc_section: "45"
 chapter: 2
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 45"
-generated_at: "2026-03-30T09:27:45.620Z"
+generated_at: "2026-03-30T09:30:42.462Z"
 status: "active"
 ---
 

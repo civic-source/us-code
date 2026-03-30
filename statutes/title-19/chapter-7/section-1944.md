@@ -3,9 +3,9 @@ title: "Section 1944 - Repealed. Pub. L. 93–618, title VI, § 602(e) , Jan. 3,
 usc_title: 19
 usc_section: "1944"
 chapter: 7
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "19 U.S.C. § 1944"
-generated_at: "2026-03-30T09:27:59.232Z"
+generated_at: "2026-03-30T09:30:49.553Z"
 status: "repealed"
 ---
 

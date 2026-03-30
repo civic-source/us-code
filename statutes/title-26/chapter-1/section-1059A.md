@@ -3,9 +3,9 @@ title: "Section 1059A - Limitation on taxpayer’s basis or inventory cost in pr
 usc_title: 26
 usc_section: "1059A"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "26 U.S.C. § 1059A"
-generated_at: "2026-03-30T09:28:21.569Z"
+generated_at: "2026-03-30T09:31:20.171Z"
 status: "active"
 ---
 

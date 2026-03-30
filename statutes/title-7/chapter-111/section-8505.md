@@ -3,9 +3,9 @@ title: "Section 8505 - Treatment of brown tree snakes as nonmailable matter"
 usc_title: 7
 usc_section: "8505"
 chapter: 111
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "7 U.S.C. § 8505"
-generated_at: "2026-03-30T09:26:58.740Z"
+generated_at: "2026-03-30T09:30:21.853Z"
 status: "active"
 ---
 

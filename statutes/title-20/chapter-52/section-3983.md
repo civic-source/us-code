@@ -3,9 +3,9 @@ title: "Section 3983 - Program authorized"
 usc_title: 20
 usc_section: "3983"
 chapter: 52
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "20 U.S.C. § 3983"
-generated_at: "2026-03-30T09:27:55.010Z"
+generated_at: "2026-03-30T09:30:47.867Z"
 status: "active"
 ---
 

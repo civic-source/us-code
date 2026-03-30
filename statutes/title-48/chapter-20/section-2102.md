@@ -3,9 +3,9 @@ title: "Section 2102 - Severability"
 usc_title: 48
 usc_section: "2102"
 chapter: 20
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "48 U.S.C. § 2102"
-generated_at: "2026-03-30T09:29:31.237Z"
+generated_at: "2026-03-30T09:32:04.412Z"
 status: "active"
 ---
 

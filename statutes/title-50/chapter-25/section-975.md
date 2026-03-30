@@ -3,9 +3,9 @@ title: "Section 975 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "975"
 chapter: 25
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "50 U.S.C. § 975"
-generated_at: "2026-03-30T09:29:35.066Z"
+generated_at: "2026-03-30T09:32:10.280Z"
 status: "repealed"
 ---
 

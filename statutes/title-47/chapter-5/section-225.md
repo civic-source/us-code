@@ -3,9 +3,9 @@ title: "Section 225 - Telecommunications services for hearing-impaired and speec
 usc_title: 47
 usc_section: "225"
 chapter: 5
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "47 U.S.C. § 225"
-generated_at: "2026-03-30T09:29:31.746Z"
+generated_at: "2026-03-30T09:32:04.776Z"
 status: "active"
 ---
 

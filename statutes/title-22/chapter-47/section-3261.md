@@ -3,9 +3,9 @@ title: "Section 3261 - Congressional declaration of policy; Presidential report 
 usc_title: 22
 usc_section: "3261"
 chapter: 47
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 3261"
-generated_at: "2026-03-30T09:28:09.985Z"
+generated_at: "2026-03-30T09:31:07.936Z"
 status: "active"
 ---
 

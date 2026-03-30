@@ -3,9 +3,9 @@ title: "Section 2089 - All-terrain vehicles"
 usc_title: 15
 usc_section: "2089"
 chapter: 47
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 2089"
-generated_at: "2026-03-30T09:27:45.709Z"
+generated_at: "2026-03-30T09:30:42.559Z"
 status: "active"
 ---
 

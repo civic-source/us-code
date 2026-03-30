@@ -3,9 +3,9 @@ title: "Section 701h - Contributions by States, political subdivisions, and othe
 usc_title: 33
 usc_section: "701h"
 chapter: 15
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "33 U.S.C. § 701h"
-generated_at: "2026-03-30T09:28:38.439Z"
+generated_at: "2026-03-30T09:31:24.765Z"
 status: "active"
 ---
 

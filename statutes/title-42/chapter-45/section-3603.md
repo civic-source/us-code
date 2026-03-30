@@ -3,9 +3,9 @@ title: "Section 3603 - Effective dates of certain prohibitions"
 usc_title: 42
 usc_section: "3603"
 chapter: 45
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 3603"
-generated_at: "2026-03-30T09:29:28.198Z"
+generated_at: "2026-03-30T09:32:01.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 55301 - Priority loading for coal"
 usc_title: 46
 usc_section: "55301"
 chapter: 553
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "46 U.S.C. § 55301"
-generated_at: "2026-03-30T09:29:32.550Z"
+generated_at: "2026-03-30T09:32:08.933Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 925 - Loan feasibility"
 usc_title: 7
 usc_section: "925"
 chapter: 31
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "7 U.S.C. § 925"
-generated_at: "2026-03-30T09:26:58.604Z"
+generated_at: "2026-03-30T09:30:21.720Z"
 status: "active"
 ---
 

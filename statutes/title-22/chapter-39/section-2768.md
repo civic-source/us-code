@@ -3,9 +3,9 @@ title: "Section 2768 - Repealed. Pub. L. 104–106, div. A, title X, § 1064(a) 
 usc_title: 22
 usc_section: "2768"
 chapter: 39
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 2768"
-generated_at: "2026-03-30T09:28:09.979Z"
+generated_at: "2026-03-30T09:31:07.929Z"
 status: "repealed"
 ---
 

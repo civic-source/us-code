@@ -3,9 +3,9 @@ title: "Section 743 - National preparedness goal"
 usc_title: 6
 usc_section: "743"
 chapter: 2
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "6 U.S.C. § 743"
-generated_at: "2026-03-30T09:26:54.670Z"
+generated_at: "2026-03-30T09:30:17.906Z"
 status: "active"
 ---
 

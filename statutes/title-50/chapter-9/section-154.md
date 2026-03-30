@@ -3,9 +3,9 @@ title: "Section 154 - Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1114"
 usc_title: 50
 usc_section: "154"
 chapter: 9
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "50 U.S.C. § 154"
-generated_at: "2026-03-30T09:29:35.062Z"
+generated_at: "2026-03-30T09:32:10.276Z"
 status: "repealed"
 ---
 

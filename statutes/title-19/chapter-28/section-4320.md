@@ -3,9 +3,9 @@ title: "Section 4320 - Importer of record program"
 usc_title: 19
 usc_section: "4320"
 chapter: 28
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "19 U.S.C. § 4320"
-generated_at: "2026-03-30T09:27:59.269Z"
+generated_at: "2026-03-30T09:30:49.596Z"
 status: "active"
 ---
 

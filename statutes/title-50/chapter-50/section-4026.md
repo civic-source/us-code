@@ -3,9 +3,9 @@ title: "Section 4026 - Business or trade obligations"
 usc_title: 50
 usc_section: "4026"
 chapter: 50
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "50 U.S.C. § 4026"
-generated_at: "2026-03-30T09:29:35.122Z"
+generated_at: "2026-03-30T09:32:10.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2891 - Omitted"
 usc_title: 20
 usc_section: "2891"
 chapter: 47
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "20 U.S.C. § 2891"
-generated_at: "2026-03-30T09:27:55.005Z"
+generated_at: "2026-03-30T09:30:47.862Z"
 status: "omitted"
 ---
 

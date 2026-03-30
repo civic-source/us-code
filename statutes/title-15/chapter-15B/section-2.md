@@ -3,9 +3,9 @@ title: "Section 2 - Natural gas market transparency rules"
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T09:27:45.663Z"
+generated_at: "2026-03-30T09:30:42.509Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 247b - Project grants for preventive health services"
 usc_title: 42
 usc_section: "247b"
 chapter: 6
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 247b"
-generated_at: "2026-03-30T09:29:27.782Z"
+generated_at: "2026-03-30T09:32:00.665Z"
 status: "active"
 ---
 

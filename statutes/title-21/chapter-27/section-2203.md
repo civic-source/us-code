@@ -3,9 +3,9 @@ title: "Section 2203 - Food and Agriculture Coordinating Councils"
 usc_title: 21
 usc_section: "2203"
 chapter: 27
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "21 U.S.C. § 2203"
-generated_at: "2026-03-30T09:28:12.518Z"
+generated_at: "2026-03-30T09:31:05.179Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1764 - General requirements"
 usc_title: 43
 usc_section: "1764"
 chapter: 35
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 1764"
-generated_at: "2026-03-30T09:28:52.576Z"
+generated_at: "2026-03-30T09:31:34.740Z"
 status: "active"
 ---
 

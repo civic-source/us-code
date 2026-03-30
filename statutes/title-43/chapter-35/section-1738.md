@@ -3,9 +3,9 @@ title: "Section 1738 - Contracts for surveys and resource protection; renewals; 
 usc_title: 43
 usc_section: "1738"
 chapter: 35
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 1738"
-generated_at: "2026-03-30T09:28:52.574Z"
+generated_at: "2026-03-30T09:31:34.738Z"
 status: "active"
 ---
 

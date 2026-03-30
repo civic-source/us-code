@@ -3,9 +3,9 @@ title: "Section 1641c - Claims of nationals of the United States against Italy"
 usc_title: 22
 usc_section: "1641c"
 chapter: 21
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 1641c"
-generated_at: "2026-03-30T09:28:09.940Z"
+generated_at: "2026-03-30T09:31:07.878Z"
 status: "active"
 ---
 

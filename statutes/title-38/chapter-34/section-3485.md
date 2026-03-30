@@ -3,9 +3,9 @@ title: "Section 3485 - Work-study allowance 1 1 See Payment of Work-Study Allowa
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-30T09:28:49.511Z"
+generated_at: "2026-03-30T09:31:28.968Z"
 status: "active"
 ---
 

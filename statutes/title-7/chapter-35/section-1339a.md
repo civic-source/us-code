@@ -3,9 +3,9 @@ title: "Section 1339a - Repealed. Pub. L. 107–171, title I, § 1613(j)(1) , Ma
 usc_title: 7
 usc_section: "1339a"
 chapter: 35
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "7 U.S.C. § 1339a"
-generated_at: "2026-03-30T09:26:58.612Z"
+generated_at: "2026-03-30T09:30:21.727Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1867 - Regulation and examination of bank service companies"
 usc_title: 12
 usc_section: "1867"
 chapter: 18
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "12 U.S.C. § 1867"
-generated_at: "2026-03-30T09:27:22.653Z"
+generated_at: "2026-03-30T09:30:35.663Z"
 status: "active"
 ---
 

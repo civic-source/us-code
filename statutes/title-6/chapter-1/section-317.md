@@ -3,9 +3,9 @@ title: "Section 317 - Regional offices"
 usc_title: 6
 usc_section: "317"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "6 U.S.C. § 317"
-generated_at: "2026-03-30T09:26:54.655Z"
+generated_at: "2026-03-30T09:30:17.888Z"
 status: "active"
 ---
 

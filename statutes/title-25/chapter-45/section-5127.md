@@ -3,9 +3,9 @@ title: "Section 5127 - Procedure"
 usc_title: 25
 usc_section: "5127"
 chapter: 45
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "25 U.S.C. § 5127"
-generated_at: "2026-03-30T09:28:07.149Z"
+generated_at: "2026-03-30T09:31:03.756Z"
 status: "active"
 ---
 

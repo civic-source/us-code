@@ -3,9 +3,9 @@ title: "Section 1437m - Payment of non-Federal share"
 usc_title: 42
 usc_section: "1437m"
 chapter: 8
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 1437m"
-generated_at: "2026-03-30T09:29:28.109Z"
+generated_at: "2026-03-30T09:32:00.976Z"
 status: "active"
 ---
 

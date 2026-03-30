@@ -3,9 +3,9 @@ title: "Section 488 - Management and review of electromagnetic spectrum"
 usc_title: 10
 usc_section: "488"
 chapter: 23
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 488"
-generated_at: "2026-03-30T09:27:12.411Z"
+generated_at: "2026-03-30T09:30:29.809Z"
 status: "active"
 ---
 

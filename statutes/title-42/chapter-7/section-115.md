@@ -3,9 +3,9 @@ title: "Section 115 - Subsidies for part D eligible individuals for qualified pr
 usc_title: 42
 usc_section: "115"
 chapter: 7
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 115"
-generated_at: "2026-03-30T09:29:28.030Z"
+generated_at: "2026-03-30T09:32:00.897Z"
 status: "active"
 ---
 

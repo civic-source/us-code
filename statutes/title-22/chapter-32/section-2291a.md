@@ -3,9 +3,9 @@ title: "Section 2291a - Authorization of appropriations"
 usc_title: 22
 usc_section: "2291a"
 chapter: 32
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "22 U.S.C. § 2291a"
-generated_at: "2026-03-30T09:28:09.955Z"
+generated_at: "2026-03-30T09:31:07.897Z"
 status: "active"
 ---
 

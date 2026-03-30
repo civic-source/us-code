@@ -3,9 +3,9 @@ title: "Section 1906 - Policy provisions"
 usc_title: 38
 usc_section: "1906"
 chapter: 19
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "38 U.S.C. § 1906"
-generated_at: "2026-03-30T09:28:49.496Z"
+generated_at: "2026-03-30T09:31:28.953Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 303 - Secretary of Veterans Affairs"
 usc_title: 38
 usc_section: "303"
 chapter: 3
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "38 U.S.C. § 303"
-generated_at: "2026-03-30T09:28:49.481Z"
+generated_at: "2026-03-30T09:31:28.937Z"
 status: "active"
 ---
 

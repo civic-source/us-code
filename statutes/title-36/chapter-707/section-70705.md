@@ -3,9 +3,9 @@ title: "Section 70705 - Management of homestead and erection of monument"
 usc_title: 36
 usc_section: "70705"
 chapter: 707
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "36 U.S.C. § 70705"
-generated_at: "2026-03-30T09:28:43.546Z"
+generated_at: "2026-03-30T09:31:27.737Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1637a - Disclosure requirements for open end consumer credit pla
 usc_title: 15
 usc_section: "1637a"
 chapter: 41
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 1637a"
-generated_at: "2026-03-30T09:27:45.685Z"
+generated_at: "2026-03-30T09:30:42.532Z"
 status: "active"
 ---
 

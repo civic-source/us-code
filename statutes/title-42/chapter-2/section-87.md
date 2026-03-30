@@ -3,9 +3,9 @@ title: "Section 87 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 42
 usc_section: "87"
 chapter: 2
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "42 U.S.C. § 87"
-generated_at: "2026-03-30T09:29:27.768Z"
+generated_at: "2026-03-30T09:32:00.655Z"
 status: "repealed"
 ---
 

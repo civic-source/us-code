@@ -3,9 +3,9 @@ title: "Section 3103 - Transfer of records to records centers"
 usc_title: 44
 usc_section: "3103"
 chapter: 31
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "44 U.S.C. § 3103"
-generated_at: "2026-03-30T09:28:51.664Z"
+generated_at: "2026-03-30T09:31:33.828Z"
 status: "active"
 ---
 

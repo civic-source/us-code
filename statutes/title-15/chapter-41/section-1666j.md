@@ -3,9 +3,9 @@ title: "Section 1666j - Applicability of State laws"
 usc_title: 15
 usc_section: "1666j"
 chapter: 41
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "15 U.S.C. § 1666j"
-generated_at: "2026-03-30T09:27:45.690Z"
+generated_at: "2026-03-30T09:30:42.537Z"
 status: "active"
 ---
 

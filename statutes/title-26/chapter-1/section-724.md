@@ -3,9 +3,9 @@ title: "Section 724 - Character of gain or loss on contributed unrealized receiv
 usc_title: 26
 usc_section: "724"
 chapter: 1
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "26 U.S.C. § 724"
-generated_at: "2026-03-30T09:28:21.543Z"
+generated_at: "2026-03-30T09:31:20.140Z"
 status: "active"
 ---
 

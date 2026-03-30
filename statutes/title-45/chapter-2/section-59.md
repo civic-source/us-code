@@ -3,9 +3,9 @@ title: "Section 59 - Survival of right of action of person injured"
 usc_title: 45
 usc_section: "59"
 chapter: 2
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "45 U.S.C. § 59"
-generated_at: "2026-03-30T09:28:51.966Z"
+generated_at: "2026-03-30T09:31:36.030Z"
 status: "active"
 ---
 

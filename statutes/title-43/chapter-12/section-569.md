@@ -3,9 +3,9 @@ title: "Section 569 - Reservation of land for park, playground, or community cen
 usc_title: 43
 usc_section: "569"
 chapter: 12
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "43 U.S.C. § 569"
-generated_at: "2026-03-30T09:28:52.544Z"
+generated_at: "2026-03-30T09:31:34.709Z"
 status: "active"
 ---
 

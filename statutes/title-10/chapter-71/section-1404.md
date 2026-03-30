@@ -3,9 +3,9 @@ title: "Section 1404 - Applicability of section 8301 of title 5"
 usc_title: 10
 usc_section: "1404"
 chapter: 71
-current_through: "PL 116-149"
+current_through: "PL 116-150"
 classification: "10 U.S.C. § 1404"
-generated_at: "2026-03-30T09:27:12.452Z"
+generated_at: "2026-03-30T09:30:29.846Z"
 status: "active"
 ---
 
