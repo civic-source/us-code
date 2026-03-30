@@ -3,9 +3,9 @@ title: "Section 1856n - Implementation"
 usc_title: 42
 usc_section: "1856n"
 chapter: 15
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 1856n"
-generated_at: "2026-03-30T05:25:55.670Z"
+generated_at: "2026-03-30T05:29:03.526Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** shall include a waiver by each party to the agreement of all claims against every other party to the agreement for compensation for any loss, damage, personal injury, or death occurring in consequence of the performance of such agreement;
     - **(B)** shall include a provision to allow the termination of such agreement by any party thereto after reasonable notice; and
     - **(C)** may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishing wildfire protection resources for, or on behalf of, any other party thereto.
-- **(b)** In the absence of any agreement authorized under subsection (a) of this section, the Secretary of Agriculture or the Secretary of the Interior may—
+- **(b)** In the absence of any agreement authorized under subsection (a), the Secretary of Agriculture or the Secretary of the Interior may—
   - **(1)** furnish emergency wildfire protection resources to any foreign nation when the furnishing of such resources is determined by such Secretary to be in the best interest of the United States; and
   - **(2)** accept emergency wildfire protection resources from any foreign fire organization when the acceptance of such resources is determined by such Secretary to be in the best interest of the United States.
 - **(c)** Notwithstanding the preceding provisions of this section, reimbursement may be provided for the costs incurred by the Government of Canada or a Canadian organization in furnishing wildfire protection resources to the Government of the United States under—

@@ -3,21 +3,21 @@ title: "Section 542 - Franchise fees"
 usc_title: 47
 usc_section: "542"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 542"
-generated_at: "2026-03-30T05:26:08.089Z"
+generated_at: "2026-03-30T05:29:06.606Z"
 status: "active"
 ---
 
 # § 542. Franchise fees
 
-- **(a)** Subject to the limitation of subsection (b) of this section, any cable operator may be required under the terms of any franchise to pay a franchise fee.
+- **(a)** Subject to the limitation of subsection (b), any cable operator may be required under the terms of any franchise to pay a franchise fee.
 - **(b)** For any twelve-month period, the franchise fees paid by a cable operator with respect to any cable system shall not exceed 5 percent of such cable operator’s gross revenues derived in such period from the operation of the cable system to provide cable services. For purposes of this section, the 12-month period shall be the 12-month period applicable under the franchise for accounting purposes. Nothing in this subsection shall prohibit a franchising authority and a cable operator from agreeing that franchise fees which lawfully could be collected for any such 12-month period shall be paid on a prepaid or deferred basis; except that the sum of the fees paid during the term of the franchise may not exceed the amount, including the time value of money, which would have lawfully been collected if such fees had been paid per annum.
 - **(c)** Each cable operator may identify, consistent with the regulations prescribed by the Commission pursuant to section 543 of this title , as a separate line item on each regular bill of each subscriber, each of the following:
   - **(1)** The amount of the total bill assessed as a franchise fee and the identity of the franchising authority to which the fee is paid.
   - **(2)** The amount of the total bill assessed to satisfy any requirements imposed on the cable operator by the franchise agreement to support public, educational, or governmental channels or the use of such channels.
   - **(3)** The amount of any other fee, tax, assessment, or charge of any kind imposed by any governmental authority on the transaction between the operator and the subscriber.
-- **(d)** In any court action under subsection (c) of this section, the franchising authority shall demonstrate that the rate structure reflects all costs of the franchise fees.
+- **(d)** In any court action under subsection (c), the franchising authority shall demonstrate that the rate structure reflects all costs of the franchise fees.
 - **(e)** Any cable operator shall pass through to subscribers the amount of any decrease in a franchise fee.
 - **(f)** A cable operator may designate that portion of a subscriber’s bill attributable to the franchise fee as a separate item on the bill.
 - **(g)** For the purposes of this section—

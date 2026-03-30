@@ -3,9 +3,9 @@ title: "Section 53733 - Shipyard modernization and improvement"
 usc_title: 46
 usc_section: "53733"
 chapter: 537
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "46 U.S.C. § 53733"
-generated_at: "2026-03-30T05:26:00.612Z"
+generated_at: "2026-03-30T05:29:07.272Z"
 status: "active"
 ---
 

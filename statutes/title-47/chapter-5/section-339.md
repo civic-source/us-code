@@ -3,9 +3,9 @@ title: "Section 339 - Carriage of distant television stations by satellite carri
 usc_title: 47
 usc_section: "339"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 339"
-generated_at: "2026-03-30T05:26:08.082Z"
+generated_at: "2026-03-30T05:29:06.600Z"
 status: "active"
 ---
 
@@ -76,7 +76,7 @@ status: "active"
     - **(C)** Commission regulations prescribed under this paragraph shall seek to avoid any undue burden on any party.
     - **(D)** Within 1 year after December 8, 2004 , the Commission shall by rule exempt from the verification requirements of subparagraph (A) any request for a test made by a subscriber to a satellite carrier to whom the retransmission of the signals of local broadcast stations is available under section 338 of this title from such carrier.
     - **(E)** A satellite carrier may refuse to engage in the testing process. If the carrier does so refuse, a subscriber in a local market in which the satellite carrier does not offer the signals of local broadcast stations under section 338 of this title may, at his or her own expense, authorize a signal intensity test to be performed pursuant to the procedures specified by the Commission in section 73.686(d) of title 47, Code of Federal Regulations, by a tester who is approved by the satellite carrier and by each affected network station, or who has been previously approved by the satellite carrier and by each affected network station but not previously disapproved. A tester may not be so disapproved for a test after the tester has commenced such test. The tester shall give 5 business days advance written notice to the satellite carrier and to the affected network station or stations. A signal intensity test conducted in accordance with this subparagraph shall be determinative of the signal strength received at that household for purposes of determining whether the household is capable of receiving a signal.
-  - **(5)** Notwithstanding subsection (d)(4) of this section, for purposes of paragraphs (2) and (4) of this subsection, the term “satellite carrier” includes a distributor (as defined in section 119(d)(1) of title 17 ), but only if the satellite distributor’s relationship with the subscriber includes billing, collection, service activation, and service deactivation.
+  - **(5)** Notwithstanding subsection (d)(4), for purposes of paragraphs (2) and (4) of this subsection, the term “satellite carrier” includes a distributor (as defined in section 119(d)(1) of title 17 ), but only if the satellite distributor’s relationship with the subscriber includes billing, collection, service activation, and service deactivation.
 - **(d)** For the purposes of this section:
   - **(1)** The term “local market” has the meaning given that term under section 122(j) of title 17 .
   - **(2)** The term “nationally distributed superstation” means a television broadcast station, licensed by the Commission, that—

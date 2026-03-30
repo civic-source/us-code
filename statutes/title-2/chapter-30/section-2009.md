@@ -3,9 +3,9 @@ title: "Section 2009 - Assignment of rooms to Commissioner from Puerto Rico"
 usc_title: 2
 usc_section: "2009"
 chapter: 30
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 2009"
-generated_at: "2026-03-30T05:22:50.389Z"
+generated_at: "2026-03-30T05:26:44.578Z"
 status: "active"
 ---
 

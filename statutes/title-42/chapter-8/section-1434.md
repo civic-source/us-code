@@ -3,9 +3,9 @@ title: "Section 1434 - Records; contents; examination and audit"
 usc_title: 42
 usc_section: "1434"
 chapter: 8
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 1434"
-generated_at: "2026-03-30T05:25:55.633Z"
+generated_at: "2026-03-30T05:29:03.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 55335 - Revocations and terminations of designations"
 usc_title: 46
 usc_section: "55335"
 chapter: 553
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "46 U.S.C. § 55335"
-generated_at: "2026-03-30T05:26:00.614Z"
+generated_at: "2026-03-30T05:29:07.274Z"
 status: "active"
 ---
 

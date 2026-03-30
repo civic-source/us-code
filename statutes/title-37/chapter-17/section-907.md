@@ -3,9 +3,9 @@ title: "Section 907 - Enlisted members and warrant officers appointed as officer
 usc_title: 37
 usc_section: "907"
 chapter: 17
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "37 U.S.C. § 907"
-generated_at: "2026-03-30T05:25:29.623Z"
+generated_at: "2026-03-30T05:28:35.669Z"
 status: "active"
 ---
 

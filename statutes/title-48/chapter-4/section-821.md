@@ -3,9 +3,9 @@ title: "Section 821 - Legislative power"
 usc_title: 48
 usc_section: "821"
 chapter: 4
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "48 U.S.C. § 821"
-generated_at: "2026-03-30T05:25:58.818Z"
+generated_at: "2026-03-30T05:29:16.536Z"
 status: "active"
 ---
 

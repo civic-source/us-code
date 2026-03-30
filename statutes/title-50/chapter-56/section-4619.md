@@ -3,9 +3,9 @@ title: "Section 4619 - Effect on other Acts"
 usc_title: 50
 usc_section: "4619"
 chapter: 56
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "50 U.S.C. § 4619"
-generated_at: "2026-03-30T05:25:59.934Z"
+generated_at: "2026-03-30T05:29:08.276Z"
 status: "active"
 ---
 

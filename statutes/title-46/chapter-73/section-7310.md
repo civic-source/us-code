@@ -3,9 +3,9 @@ title: "Section 7310 - Able seamen—offshore supply vessels"
 usc_title: 46
 usc_section: "7310"
 chapter: 73
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "46 U.S.C. § 7310"
-generated_at: "2026-03-30T05:26:00.590Z"
+generated_at: "2026-03-30T05:29:07.255Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1738r - “Qualified debt” defined"
 usc_title: 7
 usc_section: "1738r"
 chapter: 41
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 1738r"
-generated_at: "2026-03-30T05:23:22.661Z"
+generated_at: "2026-03-30T05:27:18.310Z"
 status: "active"
 ---
 

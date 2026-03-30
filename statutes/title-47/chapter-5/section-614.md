@@ -3,9 +3,9 @@ title: "Section 614 - Telecommunications Development Fund"
 usc_title: 47
 usc_section: "614"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 614"
-generated_at: "2026-03-30T05:26:08.092Z"
+generated_at: "2026-03-30T05:29:06.610Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(2)** any contributions or donations to the Fund that are accepted by the Fund; and
   - **(3)** any repayment of, or other payment made with respect to, loans, equity, or other extensions of credit made from the Fund.
 - **(e)** All moneys deposited into the accounts of the Fund shall be used solely for—
-  - **(1)** the making of loans, investments, or other extensions of credits to eligible small businesses in accordance with subsection (f) of this section;
+  - **(1)** the making of loans, investments, or other extensions of credits to eligible small businesses in accordance with subsection (f);
   - **(2)** the provision of financial advice to eligible small businesses;
   - **(3)** expenses for the administration and management of the Fund (including salaries, expenses, and the rental or purchase of office space for the fund); 1 1 So in original. Probably should be “Fund);”.
   - **(4)** preparation of research, studies, or financial analyses; and
@@ -32,7 +32,7 @@ status: "active"
   - **(2)** the reasonable availability of collateral to secure the loan or credit extension;
   - **(3)** the extent to which the loan or credit extension promotes the purposes of this section; and
   - **(4)** other lending policies as defined by the Board.
-- **(g)** Any advances appropriated pursuant to subsection (d)(1) of this section shall be disbursed upon such terms and conditions (including conditions relating to the time or times of repayment) as are specified in any appropriations Act providing such advances.
+- **(g)** Any advances appropriated pursuant to subsection (d)(1) shall be disbursed upon such terms and conditions (including conditions relating to the time or times of repayment) as are specified in any appropriations Act providing such advances.
 - **(h)** The Fund shall have power—
   - **(1)** to sue and be sued, complain and defend, in its corporate name and through its own counsel;
   - **(2)** to adopt, alter, and use the corporate seal, which shall be judicially noticed;

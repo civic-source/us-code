@@ -3,9 +3,9 @@ title: "Section 102101 - General provisions"
 usc_title: 54
 usc_section: "102101"
 chapter: 1021
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "54 U.S.C. § 102101"
-generated_at: "2026-03-30T05:26:10.164Z"
+generated_at: "2026-03-30T05:29:27.845Z"
 status: "active"
 ---
 

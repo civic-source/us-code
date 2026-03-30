@@ -3,9 +3,9 @@ title: "Section 7114 - State use of funds"
 usc_title: 20
 usc_section: "7114"
 chapter: 70
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 7114"
-generated_at: "2026-03-30T05:24:20.125Z"
+generated_at: "2026-03-30T05:28:00.048Z"
 status: "active"
 ---
 

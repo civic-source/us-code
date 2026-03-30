@@ -3,9 +3,9 @@ title: "Section 1772d - Special provisions for Seminole Tribe"
 usc_title: 25
 usc_section: "1772d"
 chapter: 19
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1772d"
-generated_at: "2026-03-30T05:24:59.597Z"
+generated_at: "2026-03-30T05:28:08.134Z"
 status: "active"
 ---
 

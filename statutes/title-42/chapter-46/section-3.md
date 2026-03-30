@@ -3,9 +3,9 @@ title: "Section 3 - Authority to award competitive grants to address methampheta
 usc_title: 42
 usc_section: "3"
 chapter: 46
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T05:25:55.738Z"
+generated_at: "2026-03-30T05:29:03.594Z"
 status: "active"
 ---
 

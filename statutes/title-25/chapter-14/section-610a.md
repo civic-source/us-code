@@ -3,9 +3,9 @@ title: "Section 610a - Sale or exchange of lands; money equalization payments"
 usc_title: 25
 usc_section: "610a"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 610a"
-generated_at: "2026-03-30T05:24:59.561Z"
+generated_at: "2026-03-30T05:28:08.099Z"
 status: "active"
 ---
 

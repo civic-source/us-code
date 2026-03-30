@@ -3,9 +3,9 @@ title: "Section 10103 - Basic policy for order into Federal service"
 usc_title: 10
 usc_section: "10103"
 chapter: 1003
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 10103"
-generated_at: "2026-03-30T05:23:17.844Z"
+generated_at: "2026-03-30T05:27:29.547Z"
 status: "active"
 ---
 

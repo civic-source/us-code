@@ -3,9 +3,9 @@ title: "Section 1651 - Repeals"
 usc_title: 19
 usc_section: "1651"
 chapter: 4
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 1651"
-generated_at: "2026-03-30T05:24:38.089Z"
+generated_at: "2026-03-30T05:27:51.428Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1853 - Repealed. Pub. L. 95–561, title III , § 301(b)(2), Nov
 usc_title: 20
 usc_section: "1853"
 chapter: 40
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 1853"
-generated_at: "2026-03-30T05:24:20.094Z"
+generated_at: "2026-03-30T05:28:00.016Z"
 status: "repealed"
 ---
 

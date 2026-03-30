@@ -3,9 +3,9 @@ title: "Section 1109 - Authorizations of appropriations"
 usc_title: 47
 usc_section: "1109"
 chapter: 10
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 1109"
-generated_at: "2026-03-30T05:26:08.099Z"
+generated_at: "2026-03-30T05:29:06.618Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
         - **(I)** the date the Secretary determines that at least 75 percent of the designated market areas (as defined in section 122(j) of title 17 ) not in the top 40 designated market areas described in section 1103(e)(1)(C)(i) of this title have access to local television broadcast signals for virtually all households (as determined by the Secretary); or
         - **(II)** December 31, 2006 .
     - **(C)** Subsections (c) and (h)(1)(B) of section 1103 of this title and section 1104(n)(3)(B) of this title shall not apply to amounts made available under this paragraph.
-- **(b)** There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, other than to cover costs under subsection (a) of this section.
-- **(c)** Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) of this section shall remain available until expended.
+- **(b)** There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, other than to cover costs under subsection (a).
+- **(c)** Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) shall remain available until expended.

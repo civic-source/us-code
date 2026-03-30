@@ -3,9 +3,9 @@ title: "Section 6 - Litigation, judicial review, and savings provision"
 usc_title: 42
 usc_section: "6"
 chapter: 55
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T05:25:55.748Z"
+generated_at: "2026-03-30T05:29:03.604Z"
 status: "active"
 ---
 

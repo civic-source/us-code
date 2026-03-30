@@ -3,13 +3,13 @@ title: "Section 258 - Illegal changes in subscriber carrier selections"
 usc_title: 47
 usc_section: "258"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 258"
-generated_at: "2026-03-30T05:26:08.074Z"
+generated_at: "2026-03-30T05:29:06.592Z"
 status: "active"
 ---
 
 # § 258. Illegal changes in subscriber carrier selections
 
 - **(a)** No telecommunications carrier shall submit or execute a change in a subscriber’s selection of a provider of telephone exchange service or telephone toll service except in accordance with such verification procedures as the Commission shall prescribe. Nothing in this section shall preclude any State commission from enforcing such procedures with respect to intrastate services.
-- **(b)** Any telecommunications carrier that violates the verification procedures described in subsection (a) of this section and that collects charges for telephone exchange service or telephone toll service from a subscriber shall be liable to the carrier previously selected by the subscriber in an amount equal to all charges paid by such subscriber after such violation, in accordance with such procedures as the Commission may prescribe. The remedies provided by this subsection are in addition to any other remedies available by law.
+- **(b)** Any telecommunications carrier that violates the verification procedures described in subsection (a) and that collects charges for telephone exchange service or telephone toll service from a subscriber shall be liable to the carrier previously selected by the subscriber in an amount equal to all charges paid by such subscriber after such violation, in accordance with such procedures as the Commission may prescribe. The remedies provided by this subsection are in addition to any other remedies available by law.

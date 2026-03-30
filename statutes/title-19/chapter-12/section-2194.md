@@ -3,9 +3,9 @@ title: "Section 2194 - Special rules relating to Congressional procedures"
 usc_title: 19
 usc_section: "2194"
 chapter: 12
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 2194"
-generated_at: "2026-03-30T05:24:38.104Z"
+generated_at: "2026-03-30T05:27:51.443Z"
 status: "active"
 ---
 

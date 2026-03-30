@@ -3,9 +3,9 @@ title: "Section 1256 - Section 1256 contracts marked to market"
 usc_title: 26
 usc_section: "1256"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "26 U.S.C. § 1256"
-generated_at: "2026-03-30T05:25:22.814Z"
+generated_at: "2026-03-30T05:28:24.384Z"
 status: "active"
 ---
 

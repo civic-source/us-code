@@ -3,9 +3,9 @@ title: "Section 7472 - Peer review"
 usc_title: 20
 usc_section: "7472"
 chapter: 70
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 7472"
-generated_at: "2026-03-30T05:24:20.132Z"
+generated_at: "2026-03-30T05:28:00.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2372 - Consolidation of funds"
 usc_title: 20
 usc_section: "2372"
 chapter: 44
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 2372"
-generated_at: "2026-03-30T05:24:20.099Z"
+generated_at: "2026-03-30T05:28:00.021Z"
 status: "active"
 ---
 

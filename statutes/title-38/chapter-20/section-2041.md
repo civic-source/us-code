@@ -3,9 +3,9 @@ title: "Section 2041 - Housing assistance for homeless veterans"
 usc_title: 38
 usc_section: "2041"
 chapter: 20
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "38 U.S.C. § 2041"
-generated_at: "2026-03-30T05:25:32.037Z"
+generated_at: "2026-03-30T05:28:37.486Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5402 - Office of Agricultural Environmental Quality"
 usc_title: 7
 usc_section: "5402"
 chapter: 85
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 5402"
-generated_at: "2026-03-30T05:23:22.714Z"
+generated_at: "2026-03-30T05:27:18.358Z"
 status: "active"
 ---
 

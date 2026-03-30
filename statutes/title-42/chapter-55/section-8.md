@@ -3,9 +3,9 @@ title: "Section 8 - Funding for governance, oversight, and processing of environ
 usc_title: 42
 usc_section: "8"
 chapter: 55
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T05:25:55.749Z"
+generated_at: "2026-03-30T05:29:03.604Z"
 status: "active"
 ---
 

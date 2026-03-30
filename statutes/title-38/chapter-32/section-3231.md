@@ -3,9 +3,9 @@ title: "Section 3231 - Entitlement; loan eligibility"
 usc_title: 38
 usc_section: "3231"
 chapter: 32
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "38 U.S.C. § 3231"
-generated_at: "2026-03-30T05:25:32.043Z"
+generated_at: "2026-03-30T05:28:37.493Z"
 status: "active"
 ---
 

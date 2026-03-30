@@ -3,9 +3,9 @@ title: "Section 425 - Additional rules relating to benefits based on disability"
 usc_title: 42
 usc_section: "425"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 425"
-generated_at: "2026-03-30T05:25:55.485Z"
+generated_at: "2026-03-30T05:29:03.340Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
   - **(3)** The Commissioner of Social Security is not required to furnish any authorization obtained pursuant to this subsection to the payroll data provider.
   - **(4)** The Commissioner shall inform any person who provides authorization pursuant to this clause of the duration and scope of the authorization.
   - **(5)** If an individual who applies for or is entitled to benefits under this subchapter refuses to provide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
-- **(d)** An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under subsection (c) shall not be subject to a penalty under section 1320a–8a for any omission or error with respect to such individual’s wages as reported by the payroll data provider.
+- **(d)** An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under subsection (c) shall not be subject to a penalty under section 1320a–8a of this title for any omission or error with respect to such individual’s wages as reported by the payroll data provider.

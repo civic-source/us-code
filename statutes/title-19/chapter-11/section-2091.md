@@ -3,9 +3,9 @@ title: "Section 2091 - List of stone carvings and wall art; promulgation and rev
 usc_title: 19
 usc_section: "2091"
 chapter: 11
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 2091"
-generated_at: "2026-03-30T05:24:38.101Z"
+generated_at: "2026-03-30T05:27:51.440Z"
 status: "active"
 ---
 

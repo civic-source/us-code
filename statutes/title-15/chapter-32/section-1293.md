@@ -3,9 +3,9 @@ title: "Section 1293 - Intercollegiate and interscholastic football contest limi
 usc_title: 15
 usc_section: "1293"
 chapter: 32
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 1293"
-generated_at: "2026-03-30T05:24:07.234Z"
+generated_at: "2026-03-30T05:27:43.793Z"
 status: "active"
 ---
 

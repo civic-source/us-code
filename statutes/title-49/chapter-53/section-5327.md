@@ -3,9 +3,9 @@ title: "Section 5327 - Project management oversight"
 usc_title: 49
 usc_section: "5327"
 chapter: 53
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 5327"
-generated_at: "2026-03-30T05:26:03.679Z"
+generated_at: "2026-03-30T05:29:21.655Z"
 status: "active"
 ---
 

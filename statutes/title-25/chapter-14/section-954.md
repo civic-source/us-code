@@ -3,9 +3,9 @@ title: "Section 954 - Powers and duties of guardians"
 usc_title: 25
 usc_section: "954"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 954"
-generated_at: "2026-03-30T05:24:59.573Z"
+generated_at: "2026-03-30T05:28:08.111Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1584 - Civil actions under the North American Free Trade Agreeme
 usc_title: 28
 usc_section: "1584"
 chapter: 95
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "28 U.S.C. § 1584"
-generated_at: "2026-03-30T05:25:16.044Z"
+generated_at: "2026-03-30T05:28:15.947Z"
 status: "active"
 ---
 

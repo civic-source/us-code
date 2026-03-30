@@ -3,9 +3,9 @@ title: "Section 5106 - Furnishing of information by other agencies"
 usc_title: 38
 usc_section: "5106"
 chapter: 51
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "38 U.S.C. § 5106"
-generated_at: "2026-03-30T05:25:32.055Z"
+generated_at: "2026-03-30T05:28:37.506Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 195a - Emergency communications interoperability research and de
 usc_title: 6
 usc_section: "195a"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "6 U.S.C. § 195a"
-generated_at: "2026-03-30T05:23:18.178Z"
+generated_at: "2026-03-30T05:27:04.956Z"
 status: "active"
 ---
 

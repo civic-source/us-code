@@ -3,9 +3,9 @@ title: "Section 1022 - Repealed. Pub. L. 111–312, title III , § 301(a), Dec. 
 usc_title: 26
 usc_section: "1022"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "26 U.S.C. § 1022"
-generated_at: "2026-03-30T05:25:22.809Z"
+generated_at: "2026-03-30T05:28:24.378Z"
 status: "repealed"
 ---
 

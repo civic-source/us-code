@@ -3,9 +3,9 @@ title: "Section 491 - Mortgaged property governed by State law"
 usc_title: 25
 usc_section: "491"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 491"
-generated_at: "2026-03-30T05:24:59.557Z"
+generated_at: "2026-03-30T05:28:08.095Z"
 status: "active"
 ---
 

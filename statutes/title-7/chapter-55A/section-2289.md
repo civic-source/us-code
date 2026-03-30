@@ -3,9 +3,9 @@ title: "Section 2289 - Omitted"
 usc_title: 7
 usc_section: "2289"
 chapter: 55
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 2289"
-generated_at: "2026-03-30T05:23:22.693Z"
+generated_at: "2026-03-30T05:27:18.340Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1020h - Repealed. Pub. L. 87–353 , § 3(a), Oct. 4, 1961 , 75 
 usc_title: 12
 usc_section: "1020h"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 1020h"
-generated_at: "2026-03-30T05:23:28.499Z"
+generated_at: "2026-03-30T05:27:35.881Z"
 status: "repealed"
 ---
 

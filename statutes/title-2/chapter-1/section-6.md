@@ -3,9 +3,9 @@ title: "Section 6 - Reduction of representation"
 usc_title: 2
 usc_section: "6"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 6"
-generated_at: "2026-03-30T05:22:50.356Z"
+generated_at: "2026-03-30T05:26:44.541Z"
 status: "active"
 ---
 

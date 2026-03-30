@@ -3,9 +3,9 @@ title: "Section 711c - Interim Council"
 usc_title: 25
 usc_section: "711c"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 711c"
-generated_at: "2026-03-30T05:24:59.567Z"
+generated_at: "2026-03-30T05:28:08.105Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 48112 - Adjustment to AIP program funding"
 usc_title: 49
 usc_section: "48112"
 chapter: 481
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 48112"
-generated_at: "2026-03-30T05:26:03.745Z"
+generated_at: "2026-03-30T05:29:21.720Z"
 status: "active"
 ---
 

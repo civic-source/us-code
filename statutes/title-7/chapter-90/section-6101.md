@@ -3,9 +3,9 @@ title: "Section 6101 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6101"
 chapter: 90
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 6101"
-generated_at: "2026-03-30T05:23:22.721Z"
+generated_at: "2026-03-30T05:27:18.364Z"
 status: "active"
 ---
 

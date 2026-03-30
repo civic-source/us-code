@@ -3,9 +3,9 @@ title: "Section 1440 - Payor of last resort"
 usc_title: 20
 usc_section: "1440"
 chapter: 33
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 1440"
-generated_at: "2026-03-30T05:24:20.091Z"
+generated_at: "2026-03-30T05:28:00.012Z"
 status: "active"
 ---
 

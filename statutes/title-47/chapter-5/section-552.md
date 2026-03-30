@@ -3,9 +3,9 @@ title: "Section 552 - Consumer protection and customer service"
 usc_title: 47
 usc_section: "552"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 552"
-generated_at: "2026-03-30T05:26:08.090Z"
+generated_at: "2026-03-30T05:29:06.608Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
 - **(c)** A cable operator may provide notice of service and rate changes to subscribers using any reasonable written means at its sole discretion. Notwithstanding section 543(b)(6) of this title or any other provision of this chapter, a cable operator shall not be required to provide prior notice of any rate change that is the result of a regulatory fee, franchise fee, or any other fee, tax, assessment, or charge of any kind imposed by any Federal agency, State, or franchising authority on the transaction between the operator and the subscriber.
 - **(d)**
   - **(1)** Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing any consumer protection law, to the extent not specifically preempted by this subchapter.
-  - **(2)** Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b) of this section. Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
+  - **(2)** Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b). Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.

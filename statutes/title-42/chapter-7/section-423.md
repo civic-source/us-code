@@ -3,9 +3,9 @@ title: "Section 423 - Disability insurance benefit payments"
 usc_title: 42
 usc_section: "423"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 423"
-generated_at: "2026-03-30T05:25:55.484Z"
+generated_at: "2026-03-30T05:29:03.338Z"
 status: "active"
 ---
 
@@ -66,8 +66,8 @@ status: "active"
         - **(II)** any individual or entity who has been excluded from participation in any Federal health care program under section 1320a–7 of this title ; or
         - **(III)** any person with respect to whom a civil money penalty or assessment has been imposed under section 1320a–8 of this title for the submission of false evidence.
       - **(ii)** To the extent and at such times as is necessary for the effective implementation of clause (i) of this subparagraph—
-        - **(I)** the Inspector General of the Social Security Administration shall transmit to the Commissioner information relating to persons described in subclause (I) or (III) of clause (i);
-        - **(II)** the Secretary of Health and Human Services shall transmit to the Commissioner information relating to persons described in subclause (II) of clause (i); and
+        - **(I)** the Inspector General of the Social Security Administration shall transmit to the Commissioner information relating to persons described in subclause (I) or (III) of clause (i); 2 2 So in original. Probably should be followed by “and”.
+        - **(II)** the Secretary of Health and Human Services shall transmit to the Commissioner information relating to persons described in subclause (II) of clause (i); and 3 3 So in original. The “; and” probably should be a period.
   - **(6)**
     - **(A)** Notwithstanding any other provision of this subchapter, any physical or mental impairment which arises in connection with the commission by an individual (after October 19, 1980 ) of an offense which constitutes a felony under applicable law and for which such individual is subsequently convicted, or which is aggravated in connection with such an offense (but only to the extent so aggravated), shall not be considered in determining whether an individual is under a disability.
     - **(B)** Notwithstanding any other provision of this subchapter, any physical or mental impairment which arises in connection with an individual’s confinement in a jail, prison, or other penal institution or correctional facility pursuant to such individual’s conviction of an offense (committed after October 19, 1980 ) constituting a felony under applicable law, or which is aggravated in connection with such a confinement (but only to the extent so aggravated), shall not be considered in determining whether such individual is under a disability for purposes of benefits payable for any month during which such individual is so confined.

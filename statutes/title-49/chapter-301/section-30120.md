@@ -3,9 +3,9 @@ title: "Section 30120 - Remedies for defects and noncompliance"
 usc_title: 49
 usc_section: "30120"
 chapter: 301
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 30120"
-generated_at: "2026-03-30T05:26:03.705Z"
+generated_at: "2026-03-30T05:29:21.682Z"
 status: "active"
 ---
 
@@ -44,10 +44,18 @@ status: "active"
   - **(2)** This section does not apply during any period in which enforcement of an order under section 30118(b) of this title is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
 - **(h)** On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
 - **(i)**
-  - **(1)** If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer’s possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
-    - **(A)** the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
+  - **(1)** If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer’s possession at the time of notification or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer or rental company may sell, lease, or rent the motor vehicle or item of replacement equipment only if—
+    - **(A)** the defect or noncompliance is remedied as required by this section before delivery under the sale, lease, or rental agreement; or
     - **(B)** when the notification is required by an order under section 30118(b) of this title , enforcement of the order is restrained or the order is set aside in a civil action to which section 30121(d) of this title applies.
-  - **(2)** This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
+  - **(2)** Nothing in this subsection may be construed to prohibit a dealer or rental company from offering the vehicle or equipment for sale, lease, or rent.
+  - **(3)**
+    - **(A)** Except as otherwise provided under this paragraph, a rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 24 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+    - **(B)** Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+    - **(C)** If a notification required under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
+    - **(D)** Notwithstanding paragraph (1), this subsection does not prohibit a rental company from selling a covered rental vehicle if such vehicle—
+      - **(i)** meets the definition of a junk automobile under section 201 of the Anti-Car Theft Act of 1992 ( 49 U.S.C. 30501 );
+      - **(ii)** is retitled as a junk automobile pursuant to applicable State law; and
+      - **(iii)** is reported to the National Motor Vehicle Information System, if required under section 204 of such Act ( 49 U.S.C. 30504 ).
 - **(j)** No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
   - **(1)** the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
   - **(2)** notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.

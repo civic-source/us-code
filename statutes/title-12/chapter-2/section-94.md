@@ -3,9 +3,9 @@ title: "Section 94 - Venue of suits"
 usc_title: 12
 usc_section: "94"
 chapter: 2
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 94"
-generated_at: "2026-03-30T05:23:28.484Z"
+generated_at: "2026-03-30T05:27:35.827Z"
 status: "active"
 ---
 

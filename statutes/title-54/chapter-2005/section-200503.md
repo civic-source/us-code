@@ -3,9 +3,9 @@ title: "Section 200503 - Rehabilitation grants and innovation grants"
 usc_title: 54
 usc_section: "200503"
 chapter: 2005
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "54 U.S.C. § 200503"
-generated_at: "2026-03-30T05:26:10.166Z"
+generated_at: "2026-03-30T05:29:27.847Z"
 status: "active"
 ---
 

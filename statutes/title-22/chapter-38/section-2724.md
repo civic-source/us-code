@@ -3,9 +3,9 @@ title: "Section 2724 - Fees for commercial services"
 usc_title: 22
 usc_section: "2724"
 chapter: 38
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "22 U.S.C. § 2724"
-generated_at: "2026-03-30T05:25:11.572Z"
+generated_at: "2026-03-30T05:28:05.526Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2701to2703 - Repealed. Pub. L. 92–203, § 18(a) , Dec. 18, 197
 usc_title: 43
 usc_section: "2701to2703"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "43 U.S.C. § 2701to2703"
-generated_at: "2026-03-30T05:25:34.727Z"
+generated_at: "2026-03-30T05:28:40.091Z"
 status: "repealed"
 ---
 

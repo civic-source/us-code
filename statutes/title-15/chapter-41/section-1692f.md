@@ -3,9 +3,9 @@ title: "Section 1692f - Unfair practices"
 usc_title: 15
 usc_section: "1692f"
 chapter: 41
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 1692f"
-generated_at: "2026-03-30T05:24:07.252Z"
+generated_at: "2026-03-30T05:27:43.813Z"
 status: "active"
 ---
 

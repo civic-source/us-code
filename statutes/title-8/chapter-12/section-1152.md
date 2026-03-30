@@ -3,9 +3,9 @@ title: "Section 1152 - Numerical limitations on individual foreign states"
 usc_title: 8
 usc_section: "1152"
 chapter: 12
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "8 U.S.C. § 1152"
-generated_at: "2026-03-30T05:23:20.573Z"
+generated_at: "2026-03-30T05:26:50.194Z"
 status: "active"
 ---
 

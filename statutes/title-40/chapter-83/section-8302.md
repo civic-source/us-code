@@ -3,9 +3,9 @@ title: "Section 8302 - Necessity for coordination in the development of the Wash
 usc_title: 40
 usc_section: "8302"
 chapter: 83
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "40 U.S.C. § 8302"
-generated_at: "2026-03-30T05:25:30.962Z"
+generated_at: "2026-03-30T05:28:34.711Z"
 status: "active"
 ---
 

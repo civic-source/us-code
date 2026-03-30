@@ -3,9 +3,9 @@ title: "Section 204 - Bond and suspension of registrants"
 usc_title: 7
 usc_section: "204"
 chapter: 9
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 204"
-generated_at: "2026-03-30T05:23:22.610Z"
+generated_at: "2026-03-30T05:27:18.259Z"
 status: "active"
 ---
 

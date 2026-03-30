@@ -3,9 +3,9 @@ title: "Section 5807 - Audits and petition of Attorney General for equitable rel
 usc_title: 16
 usc_section: "5807"
 chapter: 78
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "16 U.S.C. § 5807"
-generated_at: "2026-03-30T05:24:55.150Z"
+generated_at: "2026-03-30T05:27:58.299Z"
 status: "active"
 ---
 

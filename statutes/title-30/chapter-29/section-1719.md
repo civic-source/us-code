@@ -3,9 +3,9 @@ title: "Section 1719 - Civil penalties"
 usc_title: 30
 usc_section: "1719"
 chapter: 29
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "30 U.S.C. § 1719"
-generated_at: "2026-03-30T05:25:14.289Z"
+generated_at: "2026-03-30T05:28:15.011Z"
 status: "active"
 ---
 

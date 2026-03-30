@@ -3,9 +3,9 @@ title: "Section 4370d - Percentage of Federal funding for organizations owned by
 usc_title: 42
 usc_section: "4370d"
 chapter: 55
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 4370d"
-generated_at: "2026-03-30T05:25:55.746Z"
+generated_at: "2026-03-30T05:29:03.602Z"
 status: "active"
 ---
 

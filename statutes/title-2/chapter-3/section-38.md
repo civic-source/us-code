@@ -3,9 +3,9 @@ title: "Section 38 - Repealed. Pub. L. 104–186, title II , § 203(4), Aug. 20,
 usc_title: 2
 usc_section: "38"
 chapter: 3
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 38"
-generated_at: "2026-03-30T05:22:50.357Z"
+generated_at: "2026-03-30T05:26:44.543Z"
 status: "repealed"
 ---
 

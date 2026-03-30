@@ -3,9 +3,9 @@ title: "Section 38 - Fraud involving aircraft or space vehicle parts in intersta
 usc_title: 18
 usc_section: "38"
 chapter: 2
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "18 U.S.C. § 38"
-generated_at: "2026-03-30T05:24:10.583Z"
+generated_at: "2026-03-30T05:27:48.862Z"
 status: "active"
 ---
 

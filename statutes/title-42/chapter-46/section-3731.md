@@ -3,9 +3,9 @@ title: "Section 3731 - Statement of purpose"
 usc_title: 42
 usc_section: "3731"
 chapter: 46
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 3731"
-generated_at: "2026-03-30T05:25:55.728Z"
+generated_at: "2026-03-30T05:29:03.584Z"
 status: "active"
 ---
 

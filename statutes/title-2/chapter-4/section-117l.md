@@ -3,9 +3,9 @@ title: "Section 117l - Transferred"
 usc_title: 2
 usc_section: "117l"
 chapter: 4
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 117l"
-generated_at: "2026-03-30T05:22:50.360Z"
+generated_at: "2026-03-30T05:26:44.547Z"
 status: "transferred"
 ---
 

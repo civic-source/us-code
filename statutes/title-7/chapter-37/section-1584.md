@@ -3,9 +3,9 @@ title: "Section 1584 - Repealed. Pub. L. 97–439 , § 5(b)(4), Jan. 8, 1983 , 9
 usc_title: 7
 usc_section: "1584"
 chapter: 37
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 1584"
-generated_at: "2026-03-30T05:23:22.651Z"
+generated_at: "2026-03-30T05:27:18.301Z"
 status: "repealed"
 ---
 

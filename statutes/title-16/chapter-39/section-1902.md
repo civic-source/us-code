@@ -3,9 +3,9 @@ title: "Section 1902 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "1902"
 chapter: 39
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "16 U.S.C. § 1902"
-generated_at: "2026-03-30T05:24:55.113Z"
+generated_at: "2026-03-30T05:27:58.262Z"
 status: "repealed"
 ---
 

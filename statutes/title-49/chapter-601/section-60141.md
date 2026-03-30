@@ -1,0 +1,27 @@
+---
+title: "Section 60141 - Standards for underground natural gas storage facilities"
+usc_title: 49
+usc_section: "60141"
+chapter: 601
+current_through: "PL 114-183"
+classification: "49 U.S.C. § 60141"
+generated_at: "2026-03-30T05:29:21.725Z"
+status: "active"
+---
+
+# § 60141. Standards for underground natural gas storage facilities
+
+- **(a)** Not later than 2 years after the date of enactment of the PIPES Act of 2016, the Secretary, in consultation with the heads of other relevant Federal agencies, shall issue minimum safety standards for underground natural gas storage facilities.
+- **(b)** In developing the safety standards required under subsection (a), the Secretary shall, to the extent practicable—
+  - **(1)** consider consensus standards for the operation, environmental protection, and integrity management of underground natural gas storage facilities;
+  - **(2)** consider the economic impacts of the regulations on individual gas customers;
+  - **(3)** ensure that the regulations do not have a significant economic impact on end users; and
+  - **(4)** consider the recommendations of the Aliso Canyon natural gas leak task force established under section 31 of the PIPES Act of 2016.
+- **(c)** The Secretary may authorize a State authority (including a municipality) to participate in the oversight of underground natural gas storage facilities in the same manner as provided in sections 60105 and 60106.
+- **(d)**
+  - **(1)** Nothing in this section may be construed to affect any Federal regulation relating to gas pipeline facilities that is in effect on the day before the date of enactment of the PIPES Act of 2016.
+  - **(2)** Nothing in this section may be construed to authorize the Secretary—
+    - **(A)** to prescribe the location of an underground natural gas storage facility; or
+    - **(B)** to require the Secretary’s permission to construct a facility referred to in subparagraph (A).
+- **(e)** A State authority may adopt additional or more stringent safety standards for intrastate underground natural gas storage facilities if such standards are compatible with the minimum standards prescribed under this section.
+- **(f)** Nothing in this section shall be construed to affect the Secretary’s authority under this title to regulate the underground storage of gas that is not natural gas.

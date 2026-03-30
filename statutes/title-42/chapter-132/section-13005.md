@@ -3,9 +3,9 @@ title: "Section 13005 - Accountability"
 usc_title: 42
 usc_section: "13005"
 chapter: 132
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 13005"
-generated_at: "2026-03-30T05:25:55.946Z"
+generated_at: "2026-03-30T05:29:03.805Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1775c - Conveyance of lands to United States to be held in trust
 usc_title: 25
 usc_section: "1775c"
 chapter: 19
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1775c"
-generated_at: "2026-03-30T05:24:59.598Z"
+generated_at: "2026-03-30T05:28:08.136Z"
 status: "active"
 ---
 

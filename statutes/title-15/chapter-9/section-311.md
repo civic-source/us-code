@@ -3,9 +3,9 @@ title: "Section 311 - Omitted"
 usc_title: 15
 usc_section: "311"
 chapter: 9
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 311"
-generated_at: "2026-03-30T05:24:07.190Z"
+generated_at: "2026-03-30T05:27:43.751Z"
 status: "omitted"
 ---
 

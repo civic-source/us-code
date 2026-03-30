@@ -3,9 +3,9 @@ title: "Section 666 - Requirement of statutorily prescribed procedures to improv
 usc_title: 42
 usc_section: "666"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 666"
-generated_at: "2026-03-30T05:25:55.500Z"
+generated_at: "2026-03-30T05:29:03.355Z"
 status: "active"
 ---
 
@@ -206,7 +206,7 @@ status: "active"
   - **(3)** Notwithstanding subsection (d) of section 514 of the Employee Retirement Income Security Act of 1974 [ 29 U.S.C. 1144(d) ] (relating to effect on other laws), nothing in this subsection shall be construed to alter, amend, modify, invalidate, impair, or supersede subsections (a), (b), and (c) of such section 514 [ 29 U.S.C. 1144(a) –(c)] as it applies with respect to any procedure referred to in paragraph (1) and any expedited procedure referred to in paragraph (2), except to the extent that such procedure would be consistent with the requirements of section 206(d)(3) of such Act [ 29 U.S.C. 1056(d)(3) ] (relating to qualified domestic relations orders) or the requirements of section 609(a) of such Act [ 29 U.S.C. 1169(a) ] (relating to qualified medical child support orders) if the reference in such section 206(d)(3) to a domestic relations order and the reference in such section 609(a) to a medical child support order were a reference to a support order referred to in paragraphs (1) and (2) relating to the same matters, respectively.
 - **(d)** If a State demonstrates to the satisfaction of the Secretary, through the presentation to the Secretary of such data pertaining to caseloads, processing times, administrative costs, and average support collections, and such other data or estimates as the Secretary may specify, that the enactment of any law or the use of any procedure or procedures required by or pursuant to this section will not increase the effectiveness and efficiency of the State child support enforcement program, the Secretary may exempt the State, subject to the Secretary’s continuing review and to termination of the exemption should circumstances change, from the requirement to enact the law or use the procedure or procedures involved.
 - **(e)** For purposes of this section, the term “overdue support” means the amount of a delinquency pursuant to an obligation determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a minor child which is owed to or on behalf of such child, or for support and maintenance of the noncustodial parent’s spouse (or former spouse) with whom the child is living if and to the extent that spousal support (with respect to such spouse or former spouse) would be included for purposes of section 654(4) of this title . At the option of the State, overdue support may include amounts which otherwise meet the definition in the first sentence of this subsection but which are owed to or on behalf of a child who is not a minor child. The option to include support owed to children who are not minors shall apply independently to each procedure specified under this section.
-- **(f)** In order to satisfy section 654(20)(A) of this title , on and after January 1, 1998 , each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993 , and as in effect on August 22, 1996 , including any amendments officially adopted as of such date by the National Conference of Commissioners on Uniform State Laws.
+- **(f)** In order to satisfy section 654(20)(A) of this title , each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993 , including any amendments officially adopted as of September 30, 2008 by the National Conference of Commissioners on Uniform State Laws.
 - **(g)** In order to satisfy section 654(20)(A) of this title , each State must have in effect—
   - **(1)**
     - **(A)** the Uniform Fraudulent Conveyance Act of 1981;

@@ -3,9 +3,9 @@ title: "Section 1533 - Improving cybersecurity in the health care industry"
 usc_title: 6
 usc_section: "1533"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "6 U.S.C. § 1533"
-generated_at: "2026-03-30T05:23:18.206Z"
+generated_at: "2026-03-30T05:27:04.986Z"
 status: "active"
 ---
 

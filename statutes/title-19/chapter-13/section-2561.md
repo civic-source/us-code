@@ -3,9 +3,9 @@ title: "Section 2561 - Findings of reciprocity required in administrative procee
 usc_title: 19
 usc_section: "2561"
 chapter: 13
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 2561"
-generated_at: "2026-03-30T05:24:38.116Z"
+generated_at: "2026-03-30T05:27:51.456Z"
 status: "active"
 ---
 

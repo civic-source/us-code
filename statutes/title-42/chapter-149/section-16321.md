@@ -3,9 +3,9 @@ title: "Section 16321 - Rare Isotope Accelerator"
 usc_title: 42
 usc_section: "16321"
 chapter: 149
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 16321"
-generated_at: "2026-03-30T05:25:55.994Z"
+generated_at: "2026-03-30T05:29:03.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1635 - Right of rescission as to certain transactions"
 usc_title: 15
 usc_section: "1635"
 chapter: 41
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 1635"
-generated_at: "2026-03-30T05:24:07.239Z"
+generated_at: "2026-03-30T05:27:43.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-30T05:24:07.202Z"
+generated_at: "2026-03-30T05:27:43.761Z"
 status: "active"
 ---
 
@@ -158,7 +158,7 @@ status: "active"
       - **(i)** the reasons why the follow-on funding agreement with the small business concern was not practicable;
       - **(ii)** the identity of the entity with which the agency contracted to perform the research, development, or production; and
       - **(iii)** a description of the type of funding agreement under which the research, development, or production was obtained; and
-    - **(D)** to implement subsection (v), including establishing standardized procedures for the provision of information pursuant to subsection (k)(3)
+    - **(D)** to implement subsection (v), including establishing standardized procedures for the provision of information pursuant to subsection (k)(3).
 - **(k)**
   - **(1)** Not later than 180 days after December 21, 2000 , the Administrator shall develop, maintain, and make available to the public a searchable, up-to-date, electronic database that includes—
     - **(A)** the name, size, location, and an identifying number assigned by the Administrator, of each small business concern that has received a Phase I or Phase II SBIR or STTR award from a Federal agency;

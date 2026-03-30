@@ -3,9 +3,9 @@ title: "Section 5714 - Grants to private entities; staffing"
 usc_title: 42
 usc_section: "5714"
 chapter: 72
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 5714"
-generated_at: "2026-03-30T05:25:55.776Z"
+generated_at: "2026-03-30T05:29:03.631Z"
 status: "active"
 ---
 

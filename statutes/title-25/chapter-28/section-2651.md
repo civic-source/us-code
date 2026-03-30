@@ -3,9 +3,9 @@ title: "Section 2651 - Repealed. Pub. L. 103–382, title III , § 367, Oct. 20,
 usc_title: 25
 usc_section: "2651"
 chapter: 28
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 2651"
-generated_at: "2026-03-30T05:24:59.614Z"
+generated_at: "2026-03-30T05:28:08.151Z"
 status: "repealed"
 ---
 

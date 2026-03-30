@@ -3,9 +3,9 @@ title: "Section 1652 - Contracts with, and grants to, urban Indian organizations
 usc_title: 25
 usc_section: "1652"
 chapter: 18
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1652"
-generated_at: "2026-03-30T05:24:59.590Z"
+generated_at: "2026-03-30T05:28:08.127Z"
 status: "active"
 ---
 

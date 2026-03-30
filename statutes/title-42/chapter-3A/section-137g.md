@@ -3,9 +3,9 @@ title: "Section 137g - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58
 usc_title: 42
 usc_section: "137g"
 chapter: 3
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 137g"
-generated_at: "2026-03-30T05:25:55.345Z"
+generated_at: "2026-03-30T05:29:03.202Z"
 status: "repealed"
 ---
 

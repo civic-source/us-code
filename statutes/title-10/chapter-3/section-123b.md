@@ -3,9 +3,9 @@ title: "Section 123b - Forces stationed abroad: limitation on number"
 usc_title: 10
 usc_section: "123b"
 chapter: 3
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 123b"
-generated_at: "2026-03-30T05:23:17.717Z"
+generated_at: "2026-03-30T05:27:29.430Z"
 status: "active"
 ---
 

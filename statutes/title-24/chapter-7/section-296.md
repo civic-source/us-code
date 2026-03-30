@@ -3,9 +3,9 @@ title: "Section 296 - Repealed. Pub. L. 93–43, § 7(a)(9) , June 18, 1973 , 87
 usc_title: 24
 usc_section: "296"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "24 U.S.C. § 296"
-generated_at: "2026-03-30T05:24:57.190Z"
+generated_at: "2026-03-30T05:28:02.143Z"
 status: "repealed"
 ---
 

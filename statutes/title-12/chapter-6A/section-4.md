@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 102–429, title I , § 121(c)(1), Oct. 21
 usc_title: 12
 usc_section: "4"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T05:23:28.498Z"
+generated_at: "2026-03-30T05:27:35.880Z"
 status: "repealed"
 ---
 

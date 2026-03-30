@@ -3,9 +3,9 @@ title: "Section 2607 - Stolen cultural property"
 usc_title: 19
 usc_section: "2607"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 2607"
-generated_at: "2026-03-30T05:24:38.117Z"
+generated_at: "2026-03-30T05:27:51.457Z"
 status: "active"
 ---
 

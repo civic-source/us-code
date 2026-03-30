@@ -3,9 +3,9 @@ title: "Section 1490n - Review of rules and regulations"
 usc_title: 42
 usc_section: "1490n"
 chapter: 8
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 1490n"
-generated_at: "2026-03-30T05:25:55.651Z"
+generated_at: "2026-03-30T05:29:03.507Z"
 status: "active"
 ---
 

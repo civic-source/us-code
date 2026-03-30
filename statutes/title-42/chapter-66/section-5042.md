@@ -3,9 +3,9 @@ title: "Section 5042 - Repealed. Pub. L. 103–82, title II , § 203(b), Sept. 2
 usc_title: 42
 usc_section: "5042"
 chapter: 66
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 5042"
-generated_at: "2026-03-30T05:25:55.756Z"
+generated_at: "2026-03-30T05:29:03.612Z"
 status: "repealed"
 ---
 

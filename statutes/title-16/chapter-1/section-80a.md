@@ -3,9 +3,9 @@ title: "Section 80a - General Grant National Park abolished; lands added to King
 usc_title: 16
 usc_section: "80a"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "16 U.S.C. § 80a"
-generated_at: "2026-03-30T05:24:54.941Z"
+generated_at: "2026-03-30T05:27:58.084Z"
 status: "active"
 ---
 

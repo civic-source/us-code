@@ -3,9 +3,9 @@ title: "Section 3611 - Repealed. Pub. L. 104–127, title II , § 201(b), Apr. 4
 usc_title: 19
 usc_section: "3611"
 chapter: 22
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 3611"
-generated_at: "2026-03-30T05:24:38.131Z"
+generated_at: "2026-03-30T05:27:51.471Z"
 status: "repealed"
 ---
 

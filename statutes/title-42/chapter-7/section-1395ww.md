@@ -3,9 +3,9 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T05:25:55.589Z"
+generated_at: "2026-03-30T05:29:03.445Z"
 status: "active"
 ---
 
@@ -1154,7 +1154,7 @@ status: "active"
   - **(3)**
     - **(A)** For purposes of paragraph (1), an eligible hospital shall be treated as a meaningful EHR user for an EHR reporting period for a payment year (or, for purposes of subsection (b)(3)(B)(ix), for an EHR reporting period under such subsection for a fiscal year) if each of the following requirements are met:
       - **(i)** The eligible hospital demonstrates to the satisfaction of the Secretary, in accordance with subparagraph (C)(i), that during such period the hospital is using certified EHR technology in a meaningful manner.
-      - **(ii)** The eligible hospital demonstrates to the satisfaction of the Secretary, in accordance with subparagraph (C)(i), that during such period such certified EHR technology is connected in a manner that provides, in accordance with law and standards applicable to the exchange of information, for the electronic exchange of health information to improve the quality of health care, such as promoting care coordination.
+      - **(ii)** The eligible hospital demonstrates to the satisfaction of the Secretary, in accordance with subparagraph (C)(i), that during such period such certified EHR technology is connected in a manner that provides, in accordance with law and standards applicable to the exchange of information, for the electronic exchange of health information to improve the quality of health care, such as promoting care coordination, and the hospital demonstrates (through a process specified by the Secretary, such as the use of an attestation) that the hospital has not knowingly and willfully taken action (such as to disable functionality) to limit or restrict the compatibility or interoperability of the certified EHR technology.
       - **(iii)** Subject to subparagraph (B)(ii) and using such certified EHR technology, the eligible hospital submits information for such period, in a form and manner specified by the Secretary, on such clinical quality measures and such other measures as selected by the Secretary under subparagraph (B)(i).
     - **(B)**
       - **(i)** The Secretary shall select measures for purposes of subparagraph (A)(iii) but only consistent with the following:

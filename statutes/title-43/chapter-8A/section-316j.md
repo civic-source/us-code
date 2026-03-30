@@ -3,9 +3,9 @@ title: "Section 316j - Improvements to leasehold"
 usc_title: 43
 usc_section: "316j"
 chapter: 8
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "43 U.S.C. § 316j"
-generated_at: "2026-03-30T05:25:34.729Z"
+generated_at: "2026-03-30T05:28:40.093Z"
 status: "active"
 ---
 

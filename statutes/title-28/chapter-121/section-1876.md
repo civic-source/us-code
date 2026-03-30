@@ -3,9 +3,9 @@ title: "Section 1876 - Trial by jury in the Court of International Trade"
 usc_title: 28
 usc_section: "1876"
 chapter: 121
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "28 U.S.C. § 1876"
-generated_at: "2026-03-30T05:25:16.047Z"
+generated_at: "2026-03-30T05:28:15.951Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 275 - Alarm monitoring services"
 usc_title: 47
 usc_section: "275"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 275"
-generated_at: "2026-03-30T05:26:08.076Z"
+generated_at: "2026-03-30T05:29:06.594Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(b)** An incumbent local exchange carrier (as defined in section 251(h) of this title ) engaged in the provision of alarm monitoring services shall—
   - **(1)** provide nonaffiliated entities, upon reasonable request, with the network services it provides to its own alarm monitoring operations, on nondiscriminatory terms and conditions; and
   - **(2)** not subsidize its alarm monitoring services either directly or indirectly from telephone exchange service operations.
-- **(c)** The Commission shall establish procedures for the receipt and review of complaints concerning violations of subsection (b) of this section or the regulations thereunder that result in material financial harm to a provider of alarm monitoring service. Such procedures shall ensure that the Commission will make a final determination with respect to any such complaint within 120 days after receipt of the complaint. If the complaint contains an appropriate showing that the alleged violation occurred, as determined by the Commission in accordance with such regulations, the Commission shall, within 60 days after receipt of the complaint, order the incumbent local exchange carrier (as defined in section 251(h) of this title ) and its affiliates to cease engaging in such violation pending such final determination.
+- **(c)** The Commission shall establish procedures for the receipt and review of complaints concerning violations of subsection (b) or the regulations thereunder that result in material financial harm to a provider of alarm monitoring service. Such procedures shall ensure that the Commission will make a final determination with respect to any such complaint within 120 days after receipt of the complaint. If the complaint contains an appropriate showing that the alleged violation occurred, as determined by the Commission in accordance with such regulations, the Commission shall, within 60 days after receipt of the complaint, order the incumbent local exchange carrier (as defined in section 251(h) of this title ) and its affiliates to cease engaging in such violation pending such final determination.
 - **(d)** A local exchange carrier may not record or use in any fashion the occurrence or contents of calls received by providers of alarm monitoring services for the purposes of marketing such services on behalf of such local exchange carrier, or any other entity. Any regulations necessary to enforce this subsection shall be issued initially within 6 months after February 8, 1996 .
 - **(e)** The term “alarm monitoring service” means a service that uses a device located at a residence, place of business, or other fixed premises—
   - **(1)** to receive signals from other devices located at or about such premises regarding a possible threat at such premises to life, safety, or property, from burglary, fire, vandalism, bodily injury, or other emergency, and

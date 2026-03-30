@@ -3,9 +3,9 @@ title: "Section 1203 - Regulars and members on active duty for more than 30 days
 usc_title: 10
 usc_section: "1203"
 chapter: 61
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 1203"
-generated_at: "2026-03-30T05:23:17.757Z"
+generated_at: "2026-03-30T05:27:29.468Z"
 status: "active"
 ---
 

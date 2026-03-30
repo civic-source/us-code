@@ -3,13 +3,13 @@ title: "Section 1712 - Disqualification from benefits"
 usc_title: 42
 usc_section: "1712"
 chapter: 12
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 1712"
-generated_at: "2026-03-30T05:25:55.657Z"
+generated_at: "2026-03-30T05:29:03.513Z"
 status: "active"
 ---
 
 # § 1712. Disqualification from benefits
 
-No person convicted in a court of competent jurisdiction of any subversive act against the United States or any of its Allies, committed after the declaration by the President on May 27, 1941 , of the national emergency, shall be entitled to compensation or other benefits under subchapter I of this chapter, nor shall any compensation be payable with respect to his death or detention under said subchapter, and upon indictment or the filing of an information charging the commission of any such subversive act, all such compensation or other benefits shall be suspended and remain suspended until acquittal or withdrawal of such charge, but upon conviction thereof or upon death occurring prior to a final disposition thereof, all such payments and all benefits under said subchapter shall be forfeited and terminated. If the charge is withdrawn, or there is an acquittal, all such compensation withheld shall be paid to the person or persons entitled thereto.
+No person convicted in a court of competent jurisdiction of any subversive act against the United States or any of its Allies, committed after the declaration by the President on May 27, 1941 , of the national emergency, shall be entitled to compensation or other benefits under subchapter I, nor shall any compensation be payable with respect to his death or detention under said subchapter, and upon indictment or the filing of an information charging the commission of any such subversive act, all such compensation or other benefits shall be suspended and remain suspended until acquittal or withdrawal of such charge, but upon conviction thereof or upon death occurring prior to a final disposition thereof, all such payments and all benefits under said subchapter shall be forfeited and terminated. If the charge is withdrawn, or there is an acquittal, all such compensation withheld shall be paid to the person or persons entitled thereto.
 

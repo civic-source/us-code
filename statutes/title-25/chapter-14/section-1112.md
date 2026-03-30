@@ -3,9 +3,9 @@ title: "Section 1112 - Advances or expenditures from funds of Miami Tribe of Okl
 usc_title: 25
 usc_section: "1112"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1112"
-generated_at: "2026-03-30T05:24:59.575Z"
+generated_at: "2026-03-30T05:28:08.113Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 667c - Publication of designating order"
 usc_title: 16
 usc_section: "667c"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "16 U.S.C. § 667c"
-generated_at: "2026-03-30T05:24:55.043Z"
+generated_at: "2026-03-30T05:27:58.188Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1103 - Approval of loan guarantees"
 usc_title: 47
 usc_section: "1103"
 chapter: 10
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 1103"
-generated_at: "2026-03-30T05:26:08.099Z"
+generated_at: "2026-03-30T05:29:06.617Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
 - **(c)** The Board may approve loan guarantees under this chapter only to the extent provided for in advance in appropriations Acts, and the Board may accept credit risk premiums from a non-Federal source in order to cover the cost of a loan guarantee under this chapter, to the extent that appropriations of budget authority are insufficient to cover such costs.
 - **(d)**
-  - **(1)** The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title , to determine which loans may be eligible for a loan guarantee under this chapter.
+  - **(1)** The Board shall utilize the underwriting criteria developed under subsection (g), and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title , to determine which loans may be eligible for a loan guarantee under this chapter.
   - **(2)** In addition to meeting the underwriting criteria under paragraph (1), a loan may not be guaranteed under this chapter unless—
     - **(A)** the loan is made to finance the acquisition, improvement, enhancement, construction, deployment, launch, or rehabilitation of the means by which local television broadcast signals will be delivered to a nonserved area or underserved area;
     - **(B)** the proceeds of the loan will not be used for operating, advertising, or promotion expenses, or for the acquisition of licenses for the use of spectrum in any competitive bidding under section 309(j) of this title ;
@@ -42,7 +42,7 @@ status: "active"
     - **(E)** repayment of the loan is required to be made within a term of the lesser of—
       - **(i)** 25 years from the date of the execution of the loan; or
       - **(ii)** the economically useful life, as determined by the Board or in consultation with persons or entities deemed appropriate by the Board, of the primary assets to be used in the delivery of the signals concerned; and
-    - **(F)** the loan meets any additional criteria developed under subsection (g) of this section.
+    - **(F)** the loan meets any additional criteria developed under subsection (g).
   - **(3)** The Board may not approve the guarantee of a loan under this chapter unless—
     - **(A)** the Board has been given documentation, assurances, and access to information, persons, and entities necessary, as determined by the Board, to address issues relevant to the review of the loan by the Board for purposes of this chapter; and
     - **(B)** the Board makes a determination in writing that—
@@ -68,8 +68,8 @@ status: "active"
   - **(3)** In implementing this chapter, the Board shall support the use of loan guarantees for projects that would serve households not likely to be served in the absence of loan guarantees under this chapter.
 - **(f)**
   - **(1)** The aggregate value of all loans for which loan guarantees are issued under this chapter (including the unguaranteed portion of such loans) may not exceed $1,250,000,000.
-  - **(2)** A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A) of this section. If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
-- **(g)** Within the period provided for under subsection (b)(1) of this section, the Board shall, in consultation with the Director of the Office of Management and Budget and an independent public accounting firm, develop underwriting criteria relating to the guarantee of loans that are consistent with the purpose of this chapter, including appropriate collateral and cash flow levels for loans guaranteed under this chapter, and such other matters as the Board considers appropriate.
+  - **(2)** A loan guarantee issued under this chapter may not exceed an amount equal to 80 percent of a loan meeting in its entirety the requirements of subsection (d)(2)(A). If only a portion of a loan meets the requirements of that subsection, the Board shall determine that percentage of the loan meeting such requirements (the “applicable portion”) and may issue a loan guarantee in an amount not exceeding 80 percent of the applicable portion.
+- **(g)** Within the period provided for under subsection (b)(1), the Board shall, in consultation with the Director of the Office of Management and Budget and an independent public accounting firm, develop underwriting criteria relating to the guarantee of loans that are consistent with the purpose of this chapter, including appropriate collateral and cash flow levels for loans guaranteed under this chapter, and such other matters as the Board considers appropriate.
 - **(h)**
   - **(1)**
     - **(A)** The Board may establish and approve the acceptance of credit risk premiums with respect to a loan guarantee under this chapter in order to cover the cost, as defined in section 661a(5) of title 2 , of the loan guarantee. To the extent that appropriations of budget authority are insufficient to cover the cost, as so determined, of a loan guarantee under this chapter, credit risk premiums shall be accepted from a non-Federal source under this subsection on behalf of the applicant for the loan guarantee.
@@ -86,4 +86,4 @@ status: "active"
     - **(D)** If a default occurs with respect to any loan guaranteed under this chapter and the default is not cured in accordance with the terms of the underlying loan or loan guarantee agreement, the Administrator, in accordance with subsections (i) and (j) of section 1104 of this title , shall liquidate, or shall cause to be liquidated, all assets collateralizing such loan as to which it has a lien or security interest. Any shortfall between the proceeds of the liquidation net of costs and expenses relating to the liquidation, and the guarantee amount paid pursuant to this chapter shall be deducted from funds in the Escrow Account and credited to the Administrator for payment of such shortfall. At such time as determined under subsection (d)(2)(E) of this section when all loans guaranteed under this chapter have been repaid or otherwise satisfied in accordance with this chapter and the regulations promulgated hereunder, remaining funds in the Escrow Account, if any, shall be refunded, on a pro rata basis, to applicants whose loans guaranteed under this chapter were not in default, or where any default was cured in accordance with the terms of the underlying loan or loan guarantee agreement.
 - **(i)** Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000 , is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
 - **(j)** The decision of the Board to approve or disapprove the making of a loan guarantee under this chapter shall not be subject to judicial review.
-- **(k)** Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
+- **(k)** Except as otherwise provided in subsection (j), the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.

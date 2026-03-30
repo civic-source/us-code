@@ -3,9 +3,9 @@ title: "Section 231 - Restriction of access by minors to materials commercially 
 usc_title: 47
 usc_section: "231"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 231"
-generated_at: "2026-03-30T05:26:08.073Z"
+generated_at: "2026-03-30T05:29:06.591Z"
 status: "active"
 ---
 
@@ -15,11 +15,11 @@ status: "active"
   - **(1)** Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
   - **(2)** In addition to the penalties under paragraph (1), whoever intentionally violates such paragraph shall be subject to a fine of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
   - **(3)** In addition to the penalties under paragraphs (1) and (2), whoever violates paragraph (1) shall be subject to a civil penalty of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
-- **(b)** For purposes of subsection (a) of this section, a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
+- **(b)** For purposes of subsection (a), a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
   - **(1)** a telecommunications carrier engaged in the provision of a telecommunications service;
   - **(2)** a person engaged in the business of providing an Internet access service;
   - **(3)** a person engaged in the business of providing an Internet information location tool; or
-  - **(4)** similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person’s deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
+  - **(4)** similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person’s deletion of a particular communication or material made by another person in a manner consistent with subsection (c) or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
 - **(c)**
   - **(1)** It is an affirmative defense to prosecution under this section that the defendant, in good faith, has restricted access by minors to material that is harmful to minors—
     - **(A)** by requiring use of a credit card, debit account, adult access code, or adult personal identification number;
@@ -27,12 +27,12 @@ status: "active"
     - **(C)** by any other reasonable measures that are feasible under available technology.
   - **(2)** No cause of action may be brought in any court or administrative agency against any person on account of any activity that is not in violation of any law punishable by criminal or civil penalty, and that the person has taken in good faith to implement a defense authorized under this subsection or otherwise to restrict or prevent the transmission of, or access to, a communication specified in this section.
 - **(d)**
-  - **(1)** A person making a communication described in subsection (a) of this section—
+  - **(1)** A person making a communication described in subsection (a)—
     - **(A)** shall not disclose any information collected for the purposes of restricting access to such communications to individuals 17 years of age or older without the prior written or electronic consent of—
       - **(i)** the individual concerned, if the individual is an adult; or
       - **(ii)** the individual’s parent or guardian, if the individual is under 17 years of age; and
     - **(B)** shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the person making such communication and the recipient of such communication.
-  - **(2)** A person making a communication described in subsection (a) of this section may disclose such information if the disclosure is—
+  - **(2)** A person making a communication described in subsection (a) may disclose such information if the disclosure is—
     - **(A)** necessary to make the communication or conduct a legitimate business activity related to making the communication; or
     - **(B)** made pursuant to a court order authorizing such disclosure.
 - **(e)** For purposes of this subsection, 1 1 So in original. Probably should be “section,”. the following definitions shall apply:

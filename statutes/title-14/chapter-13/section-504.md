@@ -3,9 +3,9 @@ title: "Section 504 - Medal of honor: duplicate medal"
 usc_title: 14
 usc_section: "504"
 chapter: 13
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "14 U.S.C. § 504"
-generated_at: "2026-03-30T05:23:25.191Z"
+generated_at: "2026-03-30T05:27:38.093Z"
 status: "active"
 ---
 

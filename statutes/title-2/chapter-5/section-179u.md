@@ -3,9 +3,9 @@ title: "Section 179u - Definitions"
 usc_title: 2
 usc_section: "179u"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 179u"
-generated_at: "2026-03-30T05:22:50.364Z"
+generated_at: "2026-03-30T05:26:44.551Z"
 status: "active"
 ---
 

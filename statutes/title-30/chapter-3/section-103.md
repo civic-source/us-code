@@ -3,9 +3,9 @@ title: "Section 103 - Patents for oil or gas lands not denied because of transfe
 usc_title: 30
 usc_section: "103"
 chapter: 3
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "30 U.S.C. § 103"
-generated_at: "2026-03-30T05:25:14.260Z"
+generated_at: "2026-03-30T05:28:14.981Z"
 status: "active"
 ---
 

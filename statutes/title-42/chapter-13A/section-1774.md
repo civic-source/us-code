@@ -3,13 +3,13 @@ title: "Section 1774 - Disbursement directly to schools or institutions"
 usc_title: 42
 usc_section: "1774"
 chapter: 13
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 1774"
-generated_at: "2026-03-30T05:25:55.665Z"
+generated_at: "2026-03-30T05:29:03.522Z"
 status: "active"
 ---
 
 # § 1774. Disbursement directly to schools or institutions
 
-- **(a)** The Secretary shall withhold funds payable to a State under this chapter and disburse the funds directly to schools or institutions within the State for the purposes authorized by this chapter to the extent that the Secretary has so withheld and disbursed such funds continuously since October 1, 1980 , but only to such extent (except as otherwise required by subsection (b) of this section). Any funds so withheld and disbursed by the Secretary shall be used for the same purposes, and shall be subject to the same conditions, as applicable to a State disbursing funds made available under this chapter. If the Secretary is administering (in whole or in part) any program authorized under this chapter, the State in which the Secretary is administering the program may, upon request to the Secretary, assume administration of that program.
+- **(a)** The Secretary shall withhold funds payable to a State under this chapter and disburse the funds directly to schools or institutions within the State for the purposes authorized by this chapter to the extent that the Secretary has so withheld and disbursed such funds continuously since October 1, 1980 , but only to such extent (except as otherwise required by subsection (b)). Any funds so withheld and disbursed by the Secretary shall be used for the same purposes, and shall be subject to the same conditions, as applicable to a State disbursing funds made available under this chapter. If the Secretary is administering (in whole or in part) any program authorized under this chapter, the State in which the Secretary is administering the program may, upon request to the Secretary, assume administration of that program.
 - **(b)** If a State educational agency is not permitted by law to disburse the funds paid to it under this chapter to any of the nonpublic schools in the State, the Secretary shall disburse the funds directly to such schools within the State for the same purposes and subject to the same conditions as are authorized or required with respect to the disbursements to public schools within the State by the State educational agency.

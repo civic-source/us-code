@@ -3,9 +3,9 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T05:25:55.706Z"
+generated_at: "2026-03-30T05:29:03.562Z"
 status: "active"
 ---
 

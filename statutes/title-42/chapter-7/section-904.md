@@ -3,9 +3,9 @@ title: "Section 904 - Administrative duties of Commissioner"
 usc_title: 42
 usc_section: "904"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 904"
-generated_at: "2026-03-30T05:25:55.507Z"
+generated_at: "2026-03-30T05:29:03.362Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(ii)** redeterminations conducted by mail;
       - **(iii)** medical continuing disability reviews conducted pursuant to section 421(i) of this title ;
       - **(iv)** medical continuing disability reviews conducted pursuant to 1382c(a)(3)(H) 1 1 So in original. Probably should be preceded by “section”. of this title;
-      - **(v)** redeterminations conducted pursuant to section 1382(c); and
+      - **(v)** redeterminations conducted pursuant to section 1382(c) of this title ; and
       - **(vi)** work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity;
     - **(G)** the number of cases of fraud identified for which benefits were terminated as a result of medical continuing disability reviews (as reported to the Commissioner by the Inspector General), work-related continuing disability reviews, and redeterminations, and the amount of resulting savings for each such type of review or redetermination; and
     - **(H)** the number of work-related continuing disability reviews in which a beneficiary improperly reported earnings derived from services for more than 3 consecutive months, and the amount of resulting savings.

@@ -3,9 +3,9 @@ title: "Section 23 - Authority to make grants for research, evaluation, demonstr
 usc_title: 42
 usc_section: "23"
 chapter: 72
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T05:25:55.776Z"
+generated_at: "2026-03-30T05:29:03.632Z"
 status: "active"
 ---
 

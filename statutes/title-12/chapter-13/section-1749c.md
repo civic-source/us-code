@@ -3,9 +3,9 @@ title: "Section 1749c - Repealed. Pub. L. 99–498, title VII , § 702, Oct. 17,
 usc_title: 12
 usc_section: "1749c"
 chapter: 13
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 1749c"
-generated_at: "2026-03-30T05:23:28.537Z"
+generated_at: "2026-03-30T05:27:35.916Z"
 status: "repealed"
 ---
 

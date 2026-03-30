@@ -3,9 +3,9 @@ title: "Section 1335 - Small-farm exemption; small-farm base acreage; election; 
 usc_title: 7
 usc_section: "1335"
 chapter: 35
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 1335"
-generated_at: "2026-03-30T05:23:22.634Z"
+generated_at: "2026-03-30T05:27:18.282Z"
 status: "active"
 ---
 

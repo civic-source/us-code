@@ -3,9 +3,9 @@ title: "Section 60130 - Pipeline safety information grants to communities"
 usc_title: 49
 usc_section: "60130"
 chapter: 601
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 60130"
-generated_at: "2026-03-30T05:26:03.749Z"
+generated_at: "2026-03-30T05:29:21.725Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
   - **(3)** Each recipient of a grant under this section shall ensure that—
     - **(A)** the technical findings made possible by the grants are made available to the relevant operators; and
     - **(B)** open communication between the grant recipients, local operators, local communities, and other interested parties is encouraged.
-  - **(4)** In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
+  - **(4)** In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation on technical pipeline safety issues in official proceedings conducted under this chapter.
 - **(b)** Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
-- **(c)** There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
+- **(c)** Of the amounts made available under section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section. Such amounts shall not be derived from user fees collected under section 60301.

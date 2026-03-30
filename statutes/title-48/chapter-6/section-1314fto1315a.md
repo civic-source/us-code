@@ -3,9 +3,9 @@ title: "Section 1314fto1315a - Omitted"
 usc_title: 48
 usc_section: "1314fto1315a"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "48 U.S.C. § 1314fto1315a"
-generated_at: "2026-03-30T05:25:58.818Z"
+generated_at: "2026-03-30T05:29:16.537Z"
 status: "omitted"
 ---
 

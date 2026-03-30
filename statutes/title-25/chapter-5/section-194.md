@@ -3,9 +3,9 @@ title: "Section 194 - Trial of right of property; burden of proof"
 usc_title: 25
 usc_section: "194"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 194"
-generated_at: "2026-03-30T05:24:59.542Z"
+generated_at: "2026-03-30T05:28:08.081Z"
 status: "active"
 ---
 

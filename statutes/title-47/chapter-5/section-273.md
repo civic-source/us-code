@@ -3,9 +3,9 @@ title: "Section 273 - Manufacturing by Bell operating companies"
 usc_title: 47
 usc_section: "273"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 273"
-generated_at: "2026-03-30T05:26:08.075Z"
+generated_at: "2026-03-30T05:29:06.593Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** A Bell operating company may manufacture and provide telecommunications equipment, and manufacture customer premises equipment, if the Commission authorizes that Bell operating company or any Bell operating company affiliate to provide interLATA services under section 271(d) of this title , subject to the requirements of this section and the regulations prescribed thereunder, except that neither a Bell operating company nor any of its affiliates may engage in such manufacturing in conjunction with a Bell operating company not so affiliated or any of its affiliates.
 - **(b)**
-  - **(1)** Subsection (a) of this section shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
-  - **(2)** Subsection (a) of this section shall not prohibit a Bell operating company from—
+  - **(1)** Subsection (a) shall not prohibit a Bell operating company from engaging in close collaboration with any manufacturer of customer premises equipment or telecommunications equipment during the design and development of hardware, software, or combinations thereof related to such equipment.
+  - **(2)** Subsection (a) shall not prohibit a Bell operating company from—
     - **(A)** engaging in research activities related to manufacturing, and
     - **(B)** entering into royalty agreements with manufacturers of telecommunications equipment.
 - **(c)**

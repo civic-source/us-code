@@ -3,9 +3,9 @@ title: "Section 235 - Procurement of contract services: specification of amounts
 usc_title: 10
 usc_section: "235"
 chapter: 9
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 235"
-generated_at: "2026-03-30T05:23:17.724Z"
+generated_at: "2026-03-30T05:27:29.437Z"
 status: "active"
 ---
 

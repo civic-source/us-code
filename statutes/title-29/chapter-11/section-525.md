@@ -3,9 +3,9 @@ title: "Section 525 - Service of process"
 usc_title: 29
 usc_section: "525"
 chapter: 11
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "29 U.S.C. § 525"
-generated_at: "2026-03-30T05:25:17.576Z"
+generated_at: "2026-03-30T05:28:16.778Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 242k - National Center for Health Statistics"
 usc_title: 42
 usc_section: "242k"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 242k"
-generated_at: "2026-03-30T05:25:55.352Z"
+generated_at: "2026-03-30T05:29:03.209Z"
 status: "active"
 ---
 

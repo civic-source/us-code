@@ -3,9 +3,9 @@ title: "Section 1104 - Administration of loan guarantees"
 usc_title: 47
 usc_section: "1104"
 chapter: 10
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 1104"
-generated_at: "2026-03-30T05:26:08.099Z"
+generated_at: "2026-03-30T05:29:06.617Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(4)** With respect to a loan guaranteed under this chapter, the Administrator and the lender shall have a perfected security interest in assets securing the loan that are fully sufficient to protect the financial interests of the United States and the lender.
   - **(5)** In accordance with practices in the private capital market, as determined by the Board, the applicant for a loan guarantee under this chapter shall obtain, at its expense, insurance sufficient to protect the financial interests of the United States, as determined by the Board.
 - **(c)** The holder of a loan guarantee under this chapter may assign the loan guaranteed under this chapter in whole or in part, subject to such requirements as the Board may prescribe.
-- **(d)** Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+- **(d)** Notwithstanding subsections (c), (e), and (h), a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
 - **(e)** The Board may approve the adjustment of any term or condition of a loan guarantee or a loan guaranteed under this chapter, including the rate of interest, time of payment of principal or interest, or security requirements only if—
   - **(1)** the adjustment is consistent with the financial interests of the United States;
   - **(2)** consent has been obtained from the parties to the loan agreement;
@@ -65,7 +65,7 @@ status: "active"
     - **(A)** a judgment against the applicant or any of its affiliates;
     - **(B)** any breach by the applicant or any of its affiliates of their obligations under the loan guarantee agreement;
     - **(C)** any violation of the provisions of this chapter, and the regulations prescribed under this chapter, by the applicant or any of its affiliates;
-    - **(D)** any penalties incurred by the applicant or any of its affiliates for any reason, including violation of a stipulated performance schedule under subsection (f) of this section; and
+    - **(D)** any penalties incurred by the applicant or any of its affiliates for any reason, including violation of a stipulated performance schedule under subsection (f); and
     - **(E)** any other circumstances that the Board considers appropriate.
   - **(2)** An applicant for a loan guarantee under this chapter may not transfer any part of the proceeds of the loan to an affiliate.
 - **(p)**

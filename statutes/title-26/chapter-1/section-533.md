@@ -3,9 +3,9 @@ title: "Section 533 - Evidence of purpose to avoid income tax"
 usc_title: 26
 usc_section: "533"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "26 U.S.C. § 533"
-generated_at: "2026-03-30T05:25:22.774Z"
+generated_at: "2026-03-30T05:28:24.344Z"
 status: "active"
 ---
 

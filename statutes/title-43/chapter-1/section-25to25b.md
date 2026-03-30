@@ -3,9 +3,9 @@ title: "Section 25to25b - Repealed. Oct. 25, 1951, ch. 562, § 1(25) , 65 Stat. 
 usc_title: 43
 usc_section: "25to25b"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "43 U.S.C. § 25to25b"
-generated_at: "2026-03-30T05:25:34.724Z"
+generated_at: "2026-03-30T05:28:40.089Z"
 status: "repealed"
 ---
 

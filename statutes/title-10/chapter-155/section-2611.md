@@ -3,9 +3,9 @@ title: "Section 2611 - Regional centers for security studies: acceptance of gift
 usc_title: 10
 usc_section: "2611"
 chapter: 155
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 2611"
-generated_at: "2026-03-30T05:23:17.803Z"
+generated_at: "2026-03-30T05:27:29.510Z"
 status: "active"
 ---
 

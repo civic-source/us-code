@@ -3,9 +3,9 @@ title: "Section 1006 - Technical requirements and standards; extension of compli
 usc_title: 47
 usc_section: "1006"
 chapter: 9
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 1006"
-generated_at: "2026-03-30T05:26:08.098Z"
+generated_at: "2026-03-30T05:29:06.616Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** To ensure the efficient and industry-wide implementation of the assistance capability requirements under section 1002 of this title , the Attorney General, in coordination with other Federal, State, and local law enforcement agencies, shall consult with appropriate associations and standard-setting organizations of the telecommunications industry, with representatives of users of telecommunications equipment, facilities, and services, and with State utility commissions.
-  - **(2)** A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under section 1002 of this title , and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with section 1005 of this title , if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b) of this section, to meet the requirements of section 1002 of this title .
+  - **(2)** A telecommunications carrier shall be found to be in compliance with the assistance capability requirements under section 1002 of this title , and a manufacturer of telecommunications transmission or switching equipment or a provider of telecommunications support services shall be found to be in compliance with section 1005 of this title , if the carrier, manufacturer, or support service provider is in compliance with publicly available technical requirements or standards adopted by an industry association or standard-setting organization, or by the Commission under subsection (b), to meet the requirements of section 1002 of this title .
   - **(3)** The absence of technical requirements or standards for implementing the assistance capability requirements of section 1002 of this title shall not—
     - **(A)** preclude a telecommunications carrier, manufacturer, or telecommunications support services provider from deploying a technology or service; or
     - **(B)** relieve a carrier, manufacturer, or telecommunications support services provider of the obligations imposed by section 1002 or 1005 of this title, as applicable.

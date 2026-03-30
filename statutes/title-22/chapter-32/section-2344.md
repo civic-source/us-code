@@ -3,9 +3,9 @@ title: "Section 2344 - Reimbursements"
 usc_title: 22
 usc_section: "2344"
 chapter: 32
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "22 U.S.C. § 2344"
-generated_at: "2026-03-30T05:25:11.555Z"
+generated_at: "2026-03-30T05:28:05.508Z"
 status: "active"
 ---
 

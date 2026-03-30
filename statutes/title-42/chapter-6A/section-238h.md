@@ -3,9 +3,9 @@ title: "Section 238h - Biennial report"
 usc_title: 42
 usc_section: "238h"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 238h"
-generated_at: "2026-03-30T05:25:55.350Z"
+generated_at: "2026-03-30T05:29:03.207Z"
 status: "active"
 ---
 

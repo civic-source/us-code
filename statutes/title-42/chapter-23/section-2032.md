@@ -3,9 +3,9 @@ title: "Section 2032 - Repealed. Pub. L. 93–438, title I , § 104(a), Oct. 11,
 usc_title: 42
 usc_section: "2032"
 chapter: 23
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 2032"
-generated_at: "2026-03-30T05:25:55.688Z"
+generated_at: "2026-03-30T05:29:03.545Z"
 status: "repealed"
 ---
 

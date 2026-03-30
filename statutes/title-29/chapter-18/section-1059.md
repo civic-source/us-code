@@ -3,9 +3,9 @@ title: "Section 1059 - Recordkeeping and reporting requirements"
 usc_title: 29
 usc_section: "1059"
 chapter: 18
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "29 U.S.C. § 1059"
-generated_at: "2026-03-30T05:25:17.596Z"
+generated_at: "2026-03-30T05:28:16.800Z"
 status: "active"
 ---
 

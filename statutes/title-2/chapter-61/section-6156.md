@@ -3,9 +3,9 @@ title: "Section 6156 - Appointment and compensation of employees by Secretary of
 usc_title: 2
 usc_section: "6156"
 chapter: 61
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 6156"
-generated_at: "2026-03-30T05:22:50.401Z"
+generated_at: "2026-03-30T05:26:44.590Z"
 status: "active"
 ---
 

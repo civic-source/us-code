@@ -3,9 +3,9 @@ title: "Section 1324 - Stipends and allowances"
 usc_title: 30
 usc_section: "1324"
 chapter: 25
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "30 U.S.C. § 1324"
-generated_at: "2026-03-30T05:25:14.286Z"
+generated_at: "2026-03-30T05:28:15.007Z"
 status: "active"
 ---
 

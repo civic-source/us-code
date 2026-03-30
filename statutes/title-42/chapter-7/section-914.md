@@ -3,9 +3,9 @@ title: "Section 914 - Office of Women’s Health"
 usc_title: 42
 usc_section: "914"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 914"
-generated_at: "2026-03-30T05:25:55.508Z"
+generated_at: "2026-03-30T05:29:03.364Z"
 status: "active"
 ---
 

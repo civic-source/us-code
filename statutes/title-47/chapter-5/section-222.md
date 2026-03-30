@@ -3,9 +3,9 @@ title: "Section 222 - Privacy of customer information"
 usc_title: 47
 usc_section: "222"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 222"
-generated_at: "2026-03-30T05:26:08.071Z"
+generated_at: "2026-03-30T05:29:06.587Z"
 status: "active"
 ---
 
@@ -25,11 +25,11 @@ status: "active"
     - **(A)** to a public safety answering point, emergency medical service provider or emergency dispatch provider, public safety, fire service, or law enforcement official, or hospital emergency or trauma care facility, in order to respond to the user’s call for emergency services;
     - **(B)** to inform the user’s legal guardian or members of the user’s immediate family of the user’s location in an emergency situation that involves the risk of death or serious physical harm; or
     - **(C)** to providers of information or database management services solely for purposes of assisting in the delivery of emergency services in response to an emergency.
-- **(e)** Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide subscriber list information gathered in its capacity as a provider of such service on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions, to any person upon request for the purpose of publishing directories in any format.
-- **(f)** For purposes of subsection (c)(1) of this section, without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
-  - **(1)** call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title ) or the user of an IP-enabled voice service (as such term is defined in section 615b of this title ), other than in accordance with subsection (d)(4) of this section; or
+- **(e)** Notwithstanding subsections (b), (c), and (d), a telecommunications carrier that provides telephone exchange service shall provide subscriber list information gathered in its capacity as a provider of such service on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions, to any person upon request for the purpose of publishing directories in any format.
+- **(f)** For purposes of subsection (c)(1), without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
+  - **(1)** call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title ) or the user of an IP-enabled voice service (as such term is defined in section 615b of this title ), other than in accordance with subsection (d)(4); or
   - **(2)** automatic crash notification information to any person other than for use in the operation of an automatic crash notification system.
-- **(g)** Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service or a provider of IP-enabled voice service (as such term is defined in section 615b of this title ) shall provide information described in subsection (i)(3)(A) 1 1 So in original. Probably should be subsection “(h)(3)(A)”. of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
+- **(g)** Notwithstanding subsections (b), (c), and (d), a telecommunications carrier that provides telephone exchange service or a provider of IP-enabled voice service (as such term is defined in section 615b of this title ) shall provide information described in subsection (i)(3)(A) 1 1 So in original. Probably should be subsection “(h)(3)(A)”. (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
 - **(h)** As used in this section:
   - **(1)** The term “customer proprietary network information” means—
     - **(A)** information that relates to the quantity, technical configuration, type, destination, location, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship; and

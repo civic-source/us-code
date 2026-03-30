@@ -3,9 +3,9 @@ title: "Section 4588 - Subpoena authority"
 usc_title: 12
 usc_section: "4588"
 chapter: 46
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 4588"
-generated_at: "2026-03-30T05:23:28.605Z"
+generated_at: "2026-03-30T05:27:35.979Z"
 status: "active"
 ---
 

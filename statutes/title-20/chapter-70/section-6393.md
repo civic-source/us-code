@@ -3,9 +3,9 @@ title: "Section 6393 - State allocations"
 usc_title: 20
 usc_section: "6393"
 chapter: 70
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 6393"
-generated_at: "2026-03-30T05:24:20.119Z"
+generated_at: "2026-03-30T05:28:00.042Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5386 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 
 usc_title: 20
 usc_section: "5386"
 chapter: 64
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 5386"
-generated_at: "2026-03-30T05:24:20.108Z"
+generated_at: "2026-03-30T05:28:00.032Z"
 status: "repealed"
 ---
 

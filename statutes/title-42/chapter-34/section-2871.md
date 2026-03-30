@@ -3,9 +3,9 @@ title: "Section 2871 - Repealed. Pub. L. 95–568 , § 8(a)(2), Nov. 2, 1978 , 9
 usc_title: 42
 usc_section: "2871"
 chapter: 34
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 2871"
-generated_at: "2026-03-30T05:25:55.705Z"
+generated_at: "2026-03-30T05:29:03.562Z"
 status: "repealed"
 ---
 

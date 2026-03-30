@@ -3,9 +3,9 @@ title: "Section 6408 - State escheat laws not to apply"
 usc_title: 26
 usc_section: "6408"
 chapter: 65
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "26 U.S.C. § 6408"
-generated_at: "2026-03-30T05:25:22.893Z"
+generated_at: "2026-03-30T05:28:24.462Z"
 status: "active"
 ---
 

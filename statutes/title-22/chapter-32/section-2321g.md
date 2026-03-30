@@ -3,9 +3,9 @@ title: "Section 2321g - Repealed. Pub. L. 93–189 , § 12(b)(5), Dec. 17, 1973 
 usc_title: 22
 usc_section: "2321g"
 chapter: 32
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "22 U.S.C. § 2321g"
-generated_at: "2026-03-30T05:25:11.555Z"
+generated_at: "2026-03-30T05:28:05.507Z"
 status: "repealed"
 ---
 

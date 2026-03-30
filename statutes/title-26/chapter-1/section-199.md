@@ -3,9 +3,9 @@ title: "Section 199 - Income attributable to domestic production activities"
 usc_title: 26
 usc_section: "199"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "26 U.S.C. § 199"
-generated_at: "2026-03-30T05:25:22.726Z"
+generated_at: "2026-03-30T05:28:24.296Z"
 status: "active"
 ---
 

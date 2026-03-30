@@ -3,9 +3,9 @@ title: "Section 1777b - Ratification of Settlement Agreement"
 usc_title: 25
 usc_section: "1777b"
 chapter: 19
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1777b"
-generated_at: "2026-03-30T05:24:59.599Z"
+generated_at: "2026-03-30T05:28:08.137Z"
 status: "active"
 ---
 

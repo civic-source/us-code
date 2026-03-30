@@ -3,9 +3,9 @@ title: "Section 3421 - Repealed. Pub. L. 104–66, title III , § 3001(d), Dec. 
 usc_title: 12
 usc_section: "3421"
 chapter: 35
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 3421"
-generated_at: "2026-03-30T05:23:28.592Z"
+generated_at: "2026-03-30T05:27:35.968Z"
 status: "repealed"
 ---
 

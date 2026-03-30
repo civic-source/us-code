@@ -3,9 +3,9 @@ title: "Section 49106 - Metropolitan Washington Airports Authority"
 usc_title: 49
 usc_section: "49106"
 chapter: 491
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 49106"
-generated_at: "2026-03-30T05:26:03.746Z"
+generated_at: "2026-03-30T05:29:21.721Z"
 status: "active"
 ---
 

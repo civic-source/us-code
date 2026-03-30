@@ -3,9 +3,9 @@ title: "Section 174 - Superintendence by President over tribes west of Mississip
 usc_title: 25
 usc_section: "174"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 174"
-generated_at: "2026-03-30T05:24:59.541Z"
+generated_at: "2026-03-30T05:28:08.080Z"
 status: "active"
 ---
 

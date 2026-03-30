@@ -3,9 +3,9 @@ title: "Section 2247 - Repeat offenders"
 usc_title: 18
 usc_section: "2247"
 chapter: 109
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "18 U.S.C. § 2247"
-generated_at: "2026-03-30T05:24:10.616Z"
+generated_at: "2026-03-30T05:27:48.893Z"
 status: "active"
 ---
 

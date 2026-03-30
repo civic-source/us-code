@@ -3,9 +3,9 @@ title: "Section 44113 - Definitions"
 usc_title: 49
 usc_section: "44113"
 chapter: 441
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 44113"
-generated_at: "2026-03-30T05:26:03.727Z"
+generated_at: "2026-03-30T05:29:21.704Z"
 status: "active"
 ---
 

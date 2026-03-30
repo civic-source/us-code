@@ -3,9 +3,9 @@ title: "Section 399b - Offering of certain services, facilities, or products by 
 usc_title: 47
 usc_section: "399b"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 399b"
-generated_at: "2026-03-30T05:26:08.085Z"
+generated_at: "2026-03-30T05:29:06.603Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), each public broadcast station shall be authorized to engage in the offering of services, facilities, or products in exchange for remuneration.
   - **(2)** No public broadcast station may make its facilities available to any person for the broadcasting of any advertisement.
-- **(c)** Any public broadcast station which engages in any offering specified in subsection (b)(1) of this section may not use any funds distributed by the Corporation under section 396(k) of this title to defray any costs associated with such offering. Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
-- **(d)** Each public broadcast station which engages in the activity specified in subsection (b)(1) of this section shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.
+- **(c)** Any public broadcast station which engages in any offering specified in subsection (b)(1) may not use any funds distributed by the Corporation under section 396(k) of this title to defray any costs associated with such offering. Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
+- **(d)** Each public broadcast station which engages in the activity specified in subsection (b)(1) shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.

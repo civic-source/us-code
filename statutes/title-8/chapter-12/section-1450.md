@@ -3,9 +3,9 @@ title: "Section 1450 - Functions and duties of clerks and records of declaration
 usc_title: 8
 usc_section: "1450"
 chapter: 12
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "8 U.S.C. § 1450"
-generated_at: "2026-03-30T05:23:20.602Z"
+generated_at: "2026-03-30T05:26:50.242Z"
 status: "active"
 ---
 

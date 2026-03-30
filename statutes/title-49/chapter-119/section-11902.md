@@ -3,9 +3,9 @@ title: "Section 11902 - Interference with railroad car supply"
 usc_title: 49
 usc_section: "11902"
 chapter: 119
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 11902"
-generated_at: "2026-03-30T05:26:03.687Z"
+generated_at: "2026-03-30T05:29:21.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4225 - Rights of declarants; participation in actions, awards"
 usc_title: 12
 usc_section: "4225"
 chapter: 43
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "12 U.S.C. § 4225"
-generated_at: "2026-03-30T05:23:28.598Z"
+generated_at: "2026-03-30T05:27:35.974Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 542 - Turnover of property to the estate"
 usc_title: 11
 usc_section: "542"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "11 U.S.C. § 542"
-generated_at: "2026-03-30T05:23:25.488Z"
+generated_at: "2026-03-30T05:27:38.389Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77k - Civil liabilities on account of false registration stateme
 usc_title: 15
 usc_section: "77k"
 chapter: 2
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 77k"
-generated_at: "2026-03-30T05:24:07.116Z"
+generated_at: "2026-03-30T05:27:43.708Z"
 status: "active"
 ---
 

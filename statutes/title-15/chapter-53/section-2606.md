@@ -3,9 +3,9 @@ title: "Section 2606 - Imminent hazards"
 usc_title: 15
 usc_section: "2606"
 chapter: 53
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 2606"
-generated_at: "2026-03-30T05:24:07.269Z"
+generated_at: "2026-03-30T05:27:43.877Z"
 status: "active"
 ---
 
@@ -16,9 +16,9 @@ status: "active"
     - **(A)** for seizure of an imminently hazardous chemical substance or mixture or any article containing such a substance or mixture,
     - **(B)** for relief (as authorized by subsection (b)) against any person who manufactures, processes, distributes in commerce, or uses, or disposes of, an imminently hazardous chemical substance or mixture or any article containing such a substance or mixture, or
     - **(C)** for both such seizure and relief.
-  - **(2)** If the Administrator has not made a rule under section 2605(a) of this title immediately effective (as authorized by section 2605(d)(2)(A)(i) of this title ) with respect to an imminently hazardous chemical substance or mixture, the Administrator shall commence in a district court of the United States with respect to such substance or mixture or article containing such substance or mixture a civil action described in subparagraph (A), (B), or (C) of paragraph (1).
+  - **(2)** If the Administrator has not made a rule under section 2605(a) of this title immediately effective (as authorized by section 2605(d)(3)(A)(i) of this title ) with respect to an imminently hazardous chemical substance or mixture, the Administrator shall commence in a district court of the United States with respect to such substance or mixture or article containing such substance or mixture a civil action described in subparagraph (A), (B), or (C) of paragraph (1).
 - **(b)**
-  - **(1)** The district court of the United States in which an action under subsection (a) is brought shall have jurisdiction to grant such temporary or permanent relief as may be necessary to protect health or the environment from the unreasonable risk associated with the chemical substance, mixture, or article involved in such action.
+  - **(1)** The district court of the United States in which an action under subsection (a) is brought shall have jurisdiction to grant such temporary or permanent relief as may be necessary to protect health or the environment from the unreasonable risk (as identified by the Administrator without consideration of costs or other nonrisk factors) associated with the chemical substance, mixture, or article involved in such action.
   - **(2)** In the case of an action under subsection (a) brought against a person who manufactures, processes, or distributes in commerce a chemical substance or mixture or an article containing a chemical substance or mixture, the relief authorized by paragraph (1) may include the issuance of a mandatory order requiring (A) in the case of purchasers of such substance, mixture, or article known to the defendant, notification to such purchasers of the risk associated with it; (B) public notice of such risk; (C) recall; (D) the replacement or repurchase of such substance, mixture, or article; or (E) any combination of the actions described in the preceding clauses.
   - **(3)** In the case of an action under subsection (a) against a chemical substance, mixture, or article, such substance, mixture, or article may be proceeded against by process of libel for its seizure and condemnation. Proceedings in such an action shall conform as nearly as possible to proceedings in rem in admiralty.
 - **(c)**
@@ -29,4 +29,4 @@ status: "active"
   - **(2)** Whenever proceedings under subsection (a) involving identical chemical substances, mixtures, or articles are pending in courts in two or more judicial districts, they shall be consolidated for trial by order of any such court upon application reasonably made by any party in interest, upon notice to all parties in interest.
 - **(d)** Where appropriate, concurrently with the filing of an action under subsection (a) or as soon thereafter as may be practicable, the Administrator shall initiate a proceeding for the promulgation of a rule under section 2605(a) of this title .
 - **(e)** Notwithstanding any other provision of law, in any action under subsection (a), the Administrator may direct attorneys of the Environmental Protection Agency to appear and represent the Administrator in such an action.
-- **(f)** For the purposes of subsection (a), the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
+- **(f)** For the purposes of subsection (a), the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment, without consideration of costs or other nonrisk factors. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.

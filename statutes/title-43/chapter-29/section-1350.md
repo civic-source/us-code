@@ -3,9 +3,9 @@ title: "Section 1350 - Remedies and penalties"
 usc_title: 43
 usc_section: "1350"
 chapter: 29
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "43 U.S.C. § 1350"
-generated_at: "2026-03-30T05:25:34.756Z"
+generated_at: "2026-03-30T05:28:40.117Z"
 status: "active"
 ---
 

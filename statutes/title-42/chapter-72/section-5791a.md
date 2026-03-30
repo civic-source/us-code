@@ -3,9 +3,9 @@ title: "Section 5791a - Minimum standards for issuance and dissemination of aler
 usc_title: 42
 usc_section: "5791a"
 chapter: 72
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 5791a"
-generated_at: "2026-03-30T05:25:55.778Z"
+generated_at: "2026-03-30T05:29:03.633Z"
 status: "active"
 ---
 

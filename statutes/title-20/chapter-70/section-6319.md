@@ -3,9 +3,9 @@ title: "Section 6319 - Repealed. Pub. L. 114–95, title I , § 1000(1), Dec. 10
 usc_title: 20
 usc_section: "6319"
 chapter: 70
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 6319"
-generated_at: "2026-03-30T05:24:20.116Z"
+generated_at: "2026-03-30T05:28:00.040Z"
 status: "repealed"
 ---
 

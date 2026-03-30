@@ -3,9 +3,9 @@ title: "Section 544 - Regulation of services, facilities, and equipment"
 usc_title: 47
 usc_section: "544"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 544"
-generated_at: "2026-03-30T05:26:08.089Z"
+generated_at: "2026-03-30T05:29:06.607Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Any franchising authority may not regulate the services, facilities, and equipment provided by a cable operator except to the extent consistent with this subchapter.
 - **(b)** In the case of any franchise granted after the effective date of this subchapter, the franchising authority, to the extent related to the establishment or operation of a cable system—
-  - **(1)** in its request for proposals for a franchise (including requests for renewal proposals, subject to section 546 of this title ), may establish requirements for facilities and equipment, but may not, except as provided in subsection (h) of this section, establish requirements for video programming or other information services; and
+  - **(1)** in its request for proposals for a franchise (including requests for renewal proposals, subject to section 546 of this title ), may establish requirements for facilities and equipment, but may not, except as provided in subsection (h), establish requirements for video programming or other information services; and
   - **(2)** subject to section 545 of this title , may enforce any requirements contained within the franchise—
     - **(A)** for facilities and equipment; and
     - **(B)** for broad categories of video programming or other services.

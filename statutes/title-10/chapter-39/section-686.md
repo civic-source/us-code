@@ -3,9 +3,9 @@ title: "Section 686 - Renumbered § 12318]"
 usc_title: 10
 usc_section: "686"
 chapter: 39
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 686"
-generated_at: "2026-03-30T05:23:17.733Z"
+generated_at: "2026-03-30T05:27:29.446Z"
 status: "renumbered"
 ---
 

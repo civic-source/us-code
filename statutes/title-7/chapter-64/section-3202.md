@@ -3,9 +3,9 @@ title: "Section 3202 - Research and education grants for the study of antibiotic
 usc_title: 7
 usc_section: "3202"
 chapter: 64
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 3202"
-generated_at: "2026-03-30T05:23:22.702Z"
+generated_at: "2026-03-30T05:27:18.347Z"
 status: "active"
 ---
 

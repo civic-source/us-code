@@ -3,9 +3,9 @@ title: "Section 6613 - Rural natural resources and economic diversification acti
 usc_title: 7
 usc_section: "6613"
 chapter: 95
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 6613"
-generated_at: "2026-03-30T05:23:22.727Z"
+generated_at: "2026-03-30T05:27:18.370Z"
 status: "active"
 ---
 

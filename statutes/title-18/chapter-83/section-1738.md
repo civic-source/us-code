@@ -3,9 +3,9 @@ title: "Section 1738 - Repealed. Pub. L. 106–578 , § 4, Dec. 28, 2000 , 114 S
 usc_title: 18
 usc_section: "1738"
 chapter: 83
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "18 U.S.C. § 1738"
-generated_at: "2026-03-30T05:24:10.611Z"
+generated_at: "2026-03-30T05:27:48.888Z"
 status: "repealed"
 ---
 

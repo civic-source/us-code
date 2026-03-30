@@ -3,9 +3,9 @@ title: "Section 671 - National Institute for Occupational Safety and Health"
 usc_title: 29
 usc_section: "671"
 chapter: 15
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "29 U.S.C. § 671"
-generated_at: "2026-03-30T05:25:17.580Z"
+generated_at: "2026-03-30T05:28:16.783Z"
 status: "active"
 ---
 

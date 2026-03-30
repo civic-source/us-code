@@ -3,9 +3,9 @@ title: "Section 708 - Copyright Office fees"
 usc_title: 17
 usc_section: "708"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "17 U.S.C. § 708"
-generated_at: "2026-03-30T05:24:09.303Z"
+generated_at: "2026-03-30T05:27:45.901Z"
 status: "active"
 ---
 

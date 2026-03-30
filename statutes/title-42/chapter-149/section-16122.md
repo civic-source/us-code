@@ -3,9 +3,9 @@ title: "Section 16122 - Federal and State procurement of fuel cell vehicles and 
 usc_title: 42
 usc_section: "16122"
 chapter: 149
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 16122"
-generated_at: "2026-03-30T05:25:55.989Z"
+generated_at: "2026-03-30T05:29:03.848Z"
 status: "active"
 ---
 

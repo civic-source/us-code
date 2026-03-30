@@ -3,9 +3,9 @@ title: "Section 1605 - Protection, use and management of renewable resources on 
 usc_title: 16
 usc_section: "1605"
 chapter: 36
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "16 U.S.C. § 1605"
-generated_at: "2026-03-30T05:24:55.102Z"
+generated_at: "2026-03-30T05:27:58.251Z"
 status: "active"
 ---
 

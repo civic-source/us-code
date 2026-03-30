@@ -3,9 +3,9 @@ title: "Section 1693j - Suspension of obligations"
 usc_title: 15
 usc_section: "1693j"
 chapter: 41
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 1693j"
-generated_at: "2026-03-30T05:24:07.253Z"
+generated_at: "2026-03-30T05:27:43.815Z"
 status: "active"
 ---
 

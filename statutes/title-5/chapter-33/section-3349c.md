@@ -3,9 +3,9 @@ title: "Section 3349c - Exclusion of certain officers"
 usc_title: 5
 usc_section: "3349c"
 chapter: 33
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "5 U.S.C. § 3349c"
-generated_at: "2026-03-30T05:23:06.622Z"
+generated_at: "2026-03-30T05:26:25.978Z"
 status: "active"
 ---
 

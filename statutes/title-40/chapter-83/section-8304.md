@@ -3,9 +3,9 @@ title: "Section 8304 - Priority projects"
 usc_title: 40
 usc_section: "8304"
 chapter: 83
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "40 U.S.C. § 8304"
-generated_at: "2026-03-30T05:25:30.962Z"
+generated_at: "2026-03-30T05:28:34.711Z"
 status: "active"
 ---
 

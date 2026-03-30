@@ -3,9 +3,9 @@ title: "Section 2014 - Definitions"
 usc_title: 42
 usc_section: "2014"
 chapter: 23
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 2014"
-generated_at: "2026-03-30T05:25:55.686Z"
+generated_at: "2026-03-30T05:29:03.543Z"
 status: "active"
 ---
 

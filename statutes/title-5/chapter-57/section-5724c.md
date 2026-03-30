@@ -3,9 +3,9 @@ title: "Section 5724c - Relocation services"
 usc_title: 5
 usc_section: "5724c"
 chapter: 57
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "5 U.S.C. § 5724c"
-generated_at: "2026-03-30T05:23:06.636Z"
+generated_at: "2026-03-30T05:26:25.992Z"
 status: "active"
 ---
 

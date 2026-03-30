@@ -3,9 +3,9 @@ title: "Section 411d - Renumbered § 481d]"
 usc_title: 37
 usc_section: "411d"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "37 U.S.C. § 411d"
-generated_at: "2026-03-30T05:25:29.618Z"
+generated_at: "2026-03-30T05:28:35.663Z"
 status: "renumbered"
 ---
 

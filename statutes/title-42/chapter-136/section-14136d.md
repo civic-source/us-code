@@ -3,9 +3,9 @@ title: "Section 14136d - DNA identification of missing persons"
 usc_title: 42
 usc_section: "14136d"
 chapter: 136
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 14136d"
-generated_at: "2026-03-30T05:25:55.970Z"
+generated_at: "2026-03-30T05:29:03.829Z"
 status: "active"
 ---
 

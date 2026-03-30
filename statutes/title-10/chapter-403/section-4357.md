@@ -3,9 +3,9 @@ title: "Section 4357 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "4357"
 chapter: 403
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 4357"
-generated_at: "2026-03-30T05:23:17.821Z"
+generated_at: "2026-03-30T05:27:29.526Z"
 status: "active"
 ---
 

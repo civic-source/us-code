@@ -3,9 +3,9 @@ title: "Section 603 - Regulations"
 usc_title: 37
 usc_section: "603"
 chapter: 11
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "37 U.S.C. § 603"
-generated_at: "2026-03-30T05:25:29.622Z"
+generated_at: "2026-03-30T05:28:35.669Z"
 status: "active"
 ---
 

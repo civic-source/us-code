@@ -3,9 +3,9 @@ title: "Section 24 - Repealed. Aug. 2, 1956, ch. 887 , § 4(a)(8)–(11), (13), 
 usc_title: 19
 usc_section: "24"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 24"
-generated_at: "2026-03-30T05:24:38.065Z"
+generated_at: "2026-03-30T05:27:51.408Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286ll - Fund policy changes"
 usc_title: 22
 usc_section: "286ll"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "22 U.S.C. § 286ll"
-generated_at: "2026-03-30T05:25:11.525Z"
+generated_at: "2026-03-30T05:28:05.473Z"
 status: "active"
 ---
 
@@ -38,8 +38,8 @@ status: "active"
     - **(B)** Such procedures shall seek to ensure access of the public to information while paying due regard to appropriate confidentiality.
     - **(C)** Policy Framework Papers and the supporting documents prepared by the Fund’s mission to a country are examples of documents that should be made public at an appropriate time and in appropriate ways.
 - **(b)** Each annual report of the National Advisory Council on International Monetary and Financial Policies shall describe the following:
-  - **(1)** The actions that the United States Executive Director and other officials have taken to convince the Fund to adopt the proposals set forth in subsection (a) of this section through formal initiatives before the Board and management of the Fund, through bilateral discussions with other member nations, and through any further quota increase negotiations.
-  - **(2)** The status of the progress being made by the Fund in implementing the proposals set forth in subsection (a) of this section.
+  - **(1)** The actions that the United States Executive Director and other officials have taken to convince the Fund to adopt the proposals set forth in subsection (a) through formal initiatives before the Board and management of the Fund, through bilateral discussions with other member nations, and through any further quota increase negotiations.
+  - **(2)** The status of the progress being made by the Fund in implementing the proposals set forth in subsection (a).
 - **(c)** The Secretary of the Treasury shall instruct the United States Executive Director to the Fund to urge the Fund—
   - **(1)** to explore ways to increase the involvement and participation of important ministries, national development experts, environmental experts, free-market experts, and other legitimate experts and representatives from the loan-recipient country in the development of Fund programs; and
   - **(2)** to report on the status of Fund efforts in this regard.

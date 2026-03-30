@@ -3,9 +3,9 @@ title: "Section 16441 - Funding new interconnection and transmission upgrades"
 usc_title: 42
 usc_section: "16441"
 chapter: 149
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 16441"
-generated_at: "2026-03-30T05:25:55.996Z"
+generated_at: "2026-03-30T05:29:03.855Z"
 status: "active"
 ---
 

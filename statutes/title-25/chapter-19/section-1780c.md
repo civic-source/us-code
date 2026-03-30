@@ -3,9 +3,9 @@ title: "Section 1780c - Resolution of claims"
 usc_title: 25
 usc_section: "1780c"
 chapter: 19
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1780c"
-generated_at: "2026-03-30T05:24:59.602Z"
+generated_at: "2026-03-30T05:28:08.139Z"
 status: "active"
 ---
 

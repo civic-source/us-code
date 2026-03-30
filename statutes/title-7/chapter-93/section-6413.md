@@ -3,9 +3,9 @@ title: "Section 6413 - Requirement of initial referendum"
 usc_title: 7
 usc_section: "6413"
 chapter: 93
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 6413"
-generated_at: "2026-03-30T05:23:22.725Z"
+generated_at: "2026-03-30T05:27:18.369Z"
 status: "active"
 ---
 

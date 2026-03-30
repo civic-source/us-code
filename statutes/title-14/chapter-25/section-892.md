@@ -3,9 +3,9 @@ title: "Section 892 - Penalty"
 usc_title: 14
 usc_section: "892"
 chapter: 25
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "14 U.S.C. § 892"
-generated_at: "2026-03-30T05:23:25.194Z"
+generated_at: "2026-03-30T05:27:38.097Z"
 status: "active"
 ---
 

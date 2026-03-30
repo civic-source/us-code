@@ -3,9 +3,9 @@ title: "Section 28a - Compilation of the Precedents of House of Representatives;
 usc_title: 2
 usc_section: "28a"
 chapter: 2
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 28a"
-generated_at: "2026-03-30T05:22:50.357Z"
+generated_at: "2026-03-30T05:26:44.541Z"
 status: "active"
 ---
 

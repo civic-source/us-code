@@ -3,9 +3,9 @@ title: "Section 251h - Property retention rights; compensation at fair market va
 usc_title: 16
 usc_section: "251h"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "16 U.S.C. § 251h"
-generated_at: "2026-03-30T05:24:54.951Z"
+generated_at: "2026-03-30T05:27:58.093Z"
 status: "active"
 ---
 

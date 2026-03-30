@@ -3,9 +3,9 @@ title: "Section 1113 - Attempt to commit murder or manslaughter"
 usc_title: 18
 usc_section: "1113"
 chapter: 51
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "18 U.S.C. § 1113"
-generated_at: "2026-03-30T05:24:10.604Z"
+generated_at: "2026-03-30T05:27:48.882Z"
 status: "active"
 ---
 

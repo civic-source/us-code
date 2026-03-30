@@ -3,9 +3,9 @@ title: "Section 18351 - Continuation of the International Space Station"
 usc_title: 42
 usc_section: "18351"
 chapter: 159
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 18351"
-generated_at: "2026-03-30T05:25:56.022Z"
+generated_at: "2026-03-30T05:29:03.883Z"
 status: "active"
 ---
 

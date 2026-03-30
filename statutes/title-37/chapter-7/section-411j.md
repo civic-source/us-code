@@ -3,9 +3,9 @@ title: "Section 411j - Renumbered § 481j]"
 usc_title: 37
 usc_section: "411j"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "37 U.S.C. § 411j"
-generated_at: "2026-03-30T05:25:29.618Z"
+generated_at: "2026-03-30T05:28:35.663Z"
 status: "renumbered"
 ---
 

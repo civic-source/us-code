@@ -3,9 +3,9 @@ title: "Section 242c - Repealed. Pub. L. 101–239, title VI , § 6103(d)(1)(A),
 usc_title: 42
 usc_section: "242c"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 242c"
-generated_at: "2026-03-30T05:25:55.352Z"
+generated_at: "2026-03-30T05:29:03.209Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 690h - Operational assistance grants"
 usc_title: 15
 usc_section: "690h"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 690h"
-generated_at: "2026-03-30T05:24:07.214Z"
+generated_at: "2026-03-30T05:27:43.774Z"
 status: "active"
 ---
 

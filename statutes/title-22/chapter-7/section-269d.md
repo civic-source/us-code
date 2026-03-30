@@ -3,9 +3,9 @@ title: "Section 269d - Inter American Statistical Institute; authorization of ap
 usc_title: 22
 usc_section: "269d"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "22 U.S.C. § 269d"
-generated_at: "2026-03-30T05:25:11.517Z"
+generated_at: "2026-03-30T05:28:05.464Z"
 status: "active"
 ---
 

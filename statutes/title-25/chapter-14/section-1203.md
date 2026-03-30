@@ -3,9 +3,9 @@ title: "Section 1203 - Protection of minors and persons under legal disability"
 usc_title: 25
 usc_section: "1203"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1203"
-generated_at: "2026-03-30T05:24:59.576Z"
+generated_at: "2026-03-30T05:28:08.114Z"
 status: "active"
 ---
 

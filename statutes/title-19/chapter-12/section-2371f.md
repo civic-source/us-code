@@ -3,9 +3,9 @@ title: "Section 2371f - Repealed. Pub. L. 112–40, title II , § 222(a)(1), Oct
 usc_title: 19
 usc_section: "2371f"
 chapter: 12
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 2371f"
-generated_at: "2026-03-30T05:24:38.109Z"
+generated_at: "2026-03-30T05:27:51.449Z"
 status: "repealed"
 ---
 

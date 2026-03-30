@@ -3,9 +3,9 @@ title: "Section 1959 - Violent crimes in aid of racketeering activity"
 usc_title: 18
 usc_section: "1959"
 chapter: 95
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "18 U.S.C. § 1959"
-generated_at: "2026-03-30T05:24:10.613Z"
+generated_at: "2026-03-30T05:27:48.891Z"
 status: "active"
 ---
 

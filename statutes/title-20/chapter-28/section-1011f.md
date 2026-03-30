@@ -3,9 +3,9 @@ title: "Section 1011f - Disclosures of foreign gifts"
 usc_title: 20
 usc_section: "1011f"
 chapter: 28
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 1011f"
-generated_at: "2026-03-30T05:24:20.029Z"
+generated_at: "2026-03-30T05:27:59.949Z"
 status: "active"
 ---
 

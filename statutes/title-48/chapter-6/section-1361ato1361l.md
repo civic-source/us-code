@@ -3,9 +3,9 @@ title: "Section 1361ato1361l - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1
 usc_title: 48
 usc_section: "1361ato1361l"
 chapter: 6
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "48 U.S.C. § 1361ato1361l"
-generated_at: "2026-03-30T05:25:58.819Z"
+generated_at: "2026-03-30T05:29:16.537Z"
 status: "repealed"
 ---
 

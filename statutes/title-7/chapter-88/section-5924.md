@@ -3,9 +3,9 @@ title: "Section 5924 - Agricultural Genome Initiative"
 usc_title: 7
 usc_section: "5924"
 chapter: 88
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 5924"
-generated_at: "2026-03-30T05:23:22.718Z"
+generated_at: "2026-03-30T05:27:18.362Z"
 status: "active"
 ---
 

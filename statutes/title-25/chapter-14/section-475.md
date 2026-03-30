@@ -3,9 +3,9 @@ title: "Section 475 - Claims or suits of Indian tribes against United States; ri
 usc_title: 25
 usc_section: "475"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 475"
-generated_at: "2026-03-30T05:24:59.556Z"
+generated_at: "2026-03-30T05:28:08.094Z"
 status: "active"
 ---
 

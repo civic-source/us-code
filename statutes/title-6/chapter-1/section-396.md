@@ -3,9 +3,9 @@ title: "Section 396 - Lead system integrator; financial interests"
 usc_title: 6
 usc_section: "396"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "6 U.S.C. § 396"
-generated_at: "2026-03-30T05:23:18.185Z"
+generated_at: "2026-03-30T05:27:04.964Z"
 status: "active"
 ---
 

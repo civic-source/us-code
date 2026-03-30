@@ -3,9 +3,9 @@ title: "Section 286ss - Acceptance of amendment to Articles of Agreement of Fund
 usc_title: 22
 usc_section: "286ss"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "22 U.S.C. § 286ss"
-generated_at: "2026-03-30T05:25:11.526Z"
+generated_at: "2026-03-30T05:28:05.474Z"
 status: "active"
 ---
 

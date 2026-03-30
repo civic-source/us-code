@@ -3,9 +3,9 @@ title: "Section 81l - Facilities to be provided and maintained"
 usc_title: 19
 usc_section: "81l"
 chapter: 1
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 81l"
-generated_at: "2026-03-30T05:24:38.068Z"
+generated_at: "2026-03-30T05:27:51.410Z"
 status: "active"
 ---
 

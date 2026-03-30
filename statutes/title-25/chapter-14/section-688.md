@@ -3,9 +3,9 @@ title: "Section 688 - Payment free of liens or claims"
 usc_title: 25
 usc_section: "688"
 chapter: 14
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 688"
-generated_at: "2026-03-30T05:24:59.566Z"
+generated_at: "2026-03-30T05:28:08.105Z"
 status: "active"
 ---
 

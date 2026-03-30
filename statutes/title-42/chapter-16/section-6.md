@@ -3,9 +3,9 @@ title: "Section 6 - Research experiences for undergraduates"
 usc_title: 42
 usc_section: "6"
 chapter: 16
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T05:25:55.673Z"
+generated_at: "2026-03-30T05:29:03.529Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5309 - Nondiscrimination in programs and activities"
 usc_title: 42
 usc_section: "5309"
 chapter: 69
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 5309"
-generated_at: "2026-03-30T05:25:55.768Z"
+generated_at: "2026-03-30T05:29:03.624Z"
 status: "active"
 ---
 

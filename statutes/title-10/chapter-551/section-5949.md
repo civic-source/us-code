@@ -3,9 +3,9 @@ title: "Section 5949 - Policy as to leave and liberty"
 usc_title: 10
 usc_section: "5949"
 chapter: 551
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "10 U.S.C. § 5949"
-generated_at: "2026-03-30T05:23:17.826Z"
+generated_at: "2026-03-30T05:27:29.531Z"
 status: "active"
 ---
 

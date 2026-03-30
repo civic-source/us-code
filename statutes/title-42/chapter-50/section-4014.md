@@ -3,9 +3,9 @@ title: "Section 4014 - Estimates of premium rates"
 usc_title: 42
 usc_section: "4014"
 chapter: 50
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 4014"
-generated_at: "2026-03-30T05:25:55.741Z"
+generated_at: "2026-03-30T05:29:03.597Z"
 status: "active"
 ---
 

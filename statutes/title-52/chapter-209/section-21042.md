@@ -3,9 +3,9 @@ title: "Section 21042 - Report"
 usc_title: 52
 usc_section: "21042"
 chapter: 209
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "52 U.S.C. § 21042"
-generated_at: "2026-03-30T05:26:10.550Z"
+generated_at: "2026-03-30T05:29:23.474Z"
 status: "active"
 ---
 

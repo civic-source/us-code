@@ -3,9 +3,9 @@ title: "Section 303b - Consideration of children’s television service in broad
 usc_title: 47
 usc_section: "303b"
 chapter: 5
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "47 U.S.C. § 303b"
-generated_at: "2026-03-30T05:26:08.076Z"
+generated_at: "2026-03-30T05:29:06.594Z"
 status: "active"
 ---
 
@@ -14,6 +14,6 @@ status: "active"
 - **(a)** After the standards required by section 303a of this title are in effect, the Commission shall, in its review of any application for renewal of a commercial or noncommercial television broadcast license, consider the extent to which the licensee—
   - **(1)** has complied with such standards; and
   - **(2)** has served the educational and informational needs of children through the licensee’s overall programming, including programming specifically designed to serve such needs.
-- **(b)** In addition to consideration of the licensee’s programming as required under subsection (a) of this section, the Commission may consider—
+- **(b)** In addition to consideration of the licensee’s programming as required under subsection (a), the Commission may consider—
   - **(1)** any special nonbroadcast efforts by the licensee which enhance the educational and informational value of such programming to children; and
   - **(2)** any special efforts by the licensee to produce or support programming broadcast by another station in the licensee’s marketplace which is specifically designed to serve the educational and informational needs of children.

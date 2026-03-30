@@ -3,9 +3,9 @@ title: "Section 649 - Supplies and equipment from stock"
 usc_title: 14
 usc_section: "649"
 chapter: 17
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "14 U.S.C. § 649"
-generated_at: "2026-03-30T05:23:25.193Z"
+generated_at: "2026-03-30T05:27:38.096Z"
 status: "active"
 ---
 

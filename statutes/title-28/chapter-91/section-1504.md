@@ -3,9 +3,9 @@ title: "Section 1504 - Repealed. Pub. L. 97–164, title I , § 133(f), Apr. 2, 
 usc_title: 28
 usc_section: "1504"
 chapter: 91
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "28 U.S.C. § 1504"
-generated_at: "2026-03-30T05:25:16.043Z"
+generated_at: "2026-03-30T05:28:15.947Z"
 status: "repealed"
 ---
 

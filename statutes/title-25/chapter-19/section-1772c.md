@@ -3,9 +3,9 @@ title: "Section 1772c - Approval of prior transfers and extinguishment of claims
 usc_title: 25
 usc_section: "1772c"
 chapter: 19
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "25 U.S.C. § 1772c"
-generated_at: "2026-03-30T05:24:59.597Z"
+generated_at: "2026-03-30T05:28:08.134Z"
 status: "active"
 ---
 

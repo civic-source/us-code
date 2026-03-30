@@ -3,9 +3,9 @@ title: "Section 1544 - Misuse of passport"
 usc_title: 18
 usc_section: "1544"
 chapter: 75
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "18 U.S.C. § 1544"
-generated_at: "2026-03-30T05:24:10.608Z"
+generated_at: "2026-03-30T05:27:48.886Z"
 status: "active"
 ---
 

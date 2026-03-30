@@ -3,9 +3,9 @@ title: "Section 1106 - Expenditures and audit of trust fund"
 usc_title: 2
 usc_section: "1106"
 chapter: 22
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "2 U.S.C. § 1106"
-generated_at: "2026-03-30T05:22:50.379Z"
+generated_at: "2026-03-30T05:26:44.567Z"
 status: "active"
 ---
 

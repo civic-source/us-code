@@ -3,9 +3,9 @@ title: "Section 5564 - Comprehensive program definition; preparation; utilizatio
 usc_title: 42
 usc_section: "5564"
 chapter: 71
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 5564"
-generated_at: "2026-03-30T05:25:55.773Z"
+generated_at: "2026-03-30T05:29:03.628Z"
 status: "active"
 ---
 

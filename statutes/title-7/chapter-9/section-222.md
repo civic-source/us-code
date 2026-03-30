@@ -3,9 +3,9 @@ title: "Section 222 - Federal Trade Commission powers adopted for enforcement of
 usc_title: 7
 usc_section: "222"
 chapter: 9
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 222"
-generated_at: "2026-03-30T05:23:22.610Z"
+generated_at: "2026-03-30T05:27:18.260Z"
 status: "active"
 ---
 

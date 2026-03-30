@@ -3,9 +3,9 @@ title: "Section 1102b - Authorized activities"
 usc_title: 20
 usc_section: "1102b"
 chapter: 28
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "20 U.S.C. § 1102b"
-generated_at: "2026-03-30T05:24:20.070Z"
+generated_at: "2026-03-30T05:27:59.991Z"
 status: "active"
 ---
 

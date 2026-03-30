@@ -3,9 +3,9 @@ title: "Section 2009n - Repealed. Pub. L. 107–171, title VI , § 6026(b), May 
 usc_title: 7
 usc_section: "2009n"
 chapter: 50
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "7 U.S.C. § 2009n"
-generated_at: "2026-03-30T05:23:22.673Z"
+generated_at: "2026-03-30T05:27:18.321Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5308 - Guarantee and commitment to guarantee loans for acquisiti
 usc_title: 42
 usc_section: "5308"
 chapter: 69
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "42 U.S.C. § 5308"
-generated_at: "2026-03-30T05:25:55.768Z"
+generated_at: "2026-03-30T05:29:03.623Z"
 status: "active"
 ---
 

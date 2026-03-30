@@ -3,9 +3,9 @@ title: "Section 2610 - Inspections and subpoenas"
 usc_title: 15
 usc_section: "2610"
 chapter: 53
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 2610"
-generated_at: "2026-03-30T05:24:07.269Z"
+generated_at: "2026-03-30T05:27:43.878Z"
 status: "active"
 ---
 
@@ -15,9 +15,9 @@ status: "active"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), an inspection conducted under subsection (a) shall extend to all things within the premises or conveyance inspected (including records, files, papers, processes, controls, and facilities) bearing on whether the requirements of this chapter applicable to the chemical substances, mixtures, or products subject to subchapter IV within such premises or conveyance have been complied with.
   - **(2)** No inspection under subsection (a) shall extend to—
-    - **(A)** financial data,
-    - **(B)** sales data (other than shipment data),
-    - **(C)** pricing data,
-    - **(D)** personnel data, or
-    - **(E)** research data (other than data required by this chapter or under a rule promulgated thereunder),
+    - **(A)** financial information,
+    - **(B)** sales information (other than shipment information),
+    - **(C)** pricing information,
+    - **(D)** personnel information, or
+    - **(E)** research information (other than information required by this chapter or under a rule promulgated, order issued, or consent agreement entered into thereunder),
 - **(c)** In carrying out this chapter, the Administrator may by subpoena require the attendance and testimony of witnesses and the production of reports, papers, documents, answers to questions, and other information that the Administrator deems necessary. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In the event of contumacy, failure, or refusal of any person to obey any such subpoena, any district court of the United States in which venue is proper shall have jurisdiction to order any such person to comply with such subpoena. Any failure to obey such an order of the court is punishable by the court as a contempt thereof.

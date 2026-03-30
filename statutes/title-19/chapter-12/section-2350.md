@@ -3,9 +3,9 @@ title: "Section 2350 - Civil actions"
 usc_title: 19
 usc_section: "2350"
 chapter: 12
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 2350"
-generated_at: "2026-03-30T05:24:38.108Z"
+generated_at: "2026-03-30T05:27:51.448Z"
 status: "active"
 ---
 

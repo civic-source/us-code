@@ -3,9 +3,9 @@ title: "Section 60103 - Standards for liquefied natural gas pipeline facilities"
 usc_title: 49
 usc_section: "60103"
 chapter: 601
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "49 U.S.C. § 60103"
-generated_at: "2026-03-30T05:26:03.747Z"
+generated_at: "2026-03-30T05:29:21.722Z"
 status: "active"
 ---
 
@@ -16,8 +16,9 @@ status: "active"
   - **(2)** existing and projected population and demographic characteristics of the location;
   - **(3)** existing and proposed land use near the location;
   - **(4)** natural physical aspects of the location;
-  - **(5)** medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility; and
-  - **(6)** need to encourage remote siting.
+  - **(5)** medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility;
+  - **(6)** need to encourage remote siting; and
+  - **(7)** national security.
 - **(b)** The Secretary of Transportation shall prescribe minimum safety standards for designing, installing, constructing, initially inspecting, and initially testing a new liquefied natural gas pipeline facility. When prescribing a standard, the Secretary shall consider—
   - **(1)** the characteristics of material to be used in constructing the facility and of alternative material;
   - **(2)** design factors;

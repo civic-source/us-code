@@ -3,9 +3,9 @@ title: "Section 1978 - Repealed. Pub. L. 93–618, title VI , § 602(e), Jan. 3,
 usc_title: 19
 usc_section: "1978"
 chapter: 7
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "19 U.S.C. § 1978"
-generated_at: "2026-03-30T05:24:38.099Z"
+generated_at: "2026-03-30T05:27:51.439Z"
 status: "repealed"
 ---
 

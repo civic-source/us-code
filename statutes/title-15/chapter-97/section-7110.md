@@ -3,9 +3,9 @@ title: "Section 7110 - Authorization of appropriations"
 usc_title: 15
 usc_section: "7110"
 chapter: 97
-current_through: "PL 114-165"
+current_through: "PL 114-183"
 classification: "15 U.S.C. § 7110"
-generated_at: "2026-03-30T05:24:07.303Z"
+generated_at: "2026-03-30T05:27:43.914Z"
 status: "active"
 ---
 
