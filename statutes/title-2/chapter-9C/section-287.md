@@ -3,9 +3,9 @@ title: "Section 287 - Establishment"
 usc_title: 2
 usc_section: "287"
 chapter: 9
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 287"
-generated_at: "2026-03-30T06:36:08.956Z"
+generated_at: "2026-03-30T06:40:37.080Z"
 status: "active"
 ---
 

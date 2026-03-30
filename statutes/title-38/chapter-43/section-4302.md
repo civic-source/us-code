@@ -3,9 +3,9 @@ title: "Section 4302 - Relation to other law and plans or agreements"
 usc_title: 38
 usc_section: "4302"
 chapter: 43
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "38 U.S.C. § 4302"
-generated_at: "2026-03-30T06:37:16.317Z"
+generated_at: "2026-03-30T06:42:42.854Z"
 status: "active"
 ---
 

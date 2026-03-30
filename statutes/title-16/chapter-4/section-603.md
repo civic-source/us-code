@@ -3,9 +3,9 @@ title: "Section 603 - Omitted"
 usc_title: 16
 usc_section: "603"
 chapter: 4
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 603"
-generated_at: "2026-03-30T06:36:34.782Z"
+generated_at: "2026-03-30T06:41:58.252Z"
 status: "omitted"
 ---
 

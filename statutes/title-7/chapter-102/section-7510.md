@@ -3,9 +3,9 @@ title: "Section 7510 - Commodities not income"
 usc_title: 7
 usc_section: "7510"
 chapter: 102
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 7510"
-generated_at: "2026-03-30T06:36:14.565Z"
+generated_at: "2026-03-30T06:41:10.232Z"
 status: "active"
 ---
 

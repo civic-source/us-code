@@ -3,9 +3,9 @@ title: "Section 4 - Cooperative agreements"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T06:36:34.780Z"
+generated_at: "2026-03-30T06:41:58.250Z"
 status: "active"
 ---
 

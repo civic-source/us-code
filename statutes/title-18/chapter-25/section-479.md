@@ -3,9 +3,9 @@ title: "Section 479 - Uttering counterfeit foreign obligations or securities"
 usc_title: 18
 usc_section: "479"
 chapter: 25
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "18 U.S.C. § 479"
-generated_at: "2026-03-30T06:36:30.534Z"
+generated_at: "2026-03-30T06:42:01.827Z"
 status: "active"
 ---
 

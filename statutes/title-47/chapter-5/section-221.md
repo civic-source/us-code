@@ -3,9 +3,9 @@ title: "Section 221 - Consolidations and mergers of telephone companies"
 usc_title: 47
 usc_section: "221"
 chapter: 5
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "47 U.S.C. § 221"
-generated_at: "2026-03-30T06:37:34.442Z"
+generated_at: "2026-03-30T06:43:04.259Z"
 status: "active"
 ---
 

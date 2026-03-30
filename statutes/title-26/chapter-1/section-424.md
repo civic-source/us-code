@@ -3,9 +3,9 @@ title: "Section 424 - Definitions and special rules"
 usc_title: 26
 usc_section: "424"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 424"
-generated_at: "2026-03-30T06:37:05.505Z"
+generated_at: "2026-03-30T06:42:33.769Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
 - **(b)** For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect to stock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
 - **(c)**
   - **(1)** Except as provided in paragraphs (2), (3), and (4), for purposes of this part, the term “disposition” includes a sale, exchange, gift, or a transfer of legal title, but does not include—
-    - **(A)** a transfer from a decedent to an estate or a transfer by request or inheritance;
+    - **(A)** a transfer from a decedent to an estate or a transfer by bequest or inheritance;
     - **(B)** an exchange to which section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies; or
     - **(C)** a mere pledge or hypothecation.
   - **(2)** The acquisition of a share of stock in the name of the employee and another jointly with the right of survivorship or a subsequent transfer of a share of stock into such joint ownership shall not be deemed a disposition, but a termination of such joint tenancy (except to the extent such employee acquires ownership of such stock) shall be treated as a disposition by him occurring at the time such joint tenancy is terminated.
@@ -34,7 +34,7 @@ status: "active"
   - **(2)** stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trust, shall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries.
 - **(e)** For purposes of this part, the term “parent corporation” means any corporation (other than the employer corporation) in an unbroken chain of corporations ending with the employer corporation if, at the time of the granting of the option, each of the corporations other than the employer corporation owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 - **(f)** For purposes of this part, the term “subsidiary corporation” means any corporation (other than the employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
-- **(g)** In applying subsections (e) and (f) for purposes of section 1 1 So in original. Probably should be “sections”. 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
+- **(g)** In applying subsections (e) and (f) for purposes of section 1 1 So in original. Probably should be “sections”. 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsections (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies”, as the case may be.
 - **(h)**
   - **(1)** For purposes of this part, if the terms of any option to purchase stock are modified, extended, or renewed, such modification, extension, or renewal shall be considered as the granting of a new option.
   - **(2)** In the case of the transfer of stock pursuant to the exercise of an option to which section 423 applies and which has been so modified, extended, or renewed, the fair market value of such stock at the time of the granting of the option shall be considered as whichever of the following is the highest—

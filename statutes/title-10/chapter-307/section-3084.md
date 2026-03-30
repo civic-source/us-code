@@ -3,9 +3,9 @@ title: "Section 3084 - Chief of Veterinary Corps"
 usc_title: 10
 usc_section: "3084"
 chapter: 307
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 3084"
-generated_at: "2026-03-30T06:36:17.797Z"
+generated_at: "2026-03-30T06:41:20.493Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1201 - Procedures in connection with the issuance of certain det
 usc_title: 29
 usc_section: "1201"
 chapter: 18
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "29 U.S.C. § 1201"
-generated_at: "2026-03-30T06:36:59.945Z"
+generated_at: "2026-03-30T06:42:34.773Z"
 status: "active"
 ---
 

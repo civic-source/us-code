@@ -3,9 +3,9 @@ title: "Section 3315 - Auditing, reporting, bookkeeping, and administrative requ
 usc_title: 7
 usc_section: "3315"
 chapter: 64
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 3315"
-generated_at: "2026-03-30T06:36:14.525Z"
+generated_at: "2026-03-30T06:41:10.195Z"
 status: "active"
 ---
 

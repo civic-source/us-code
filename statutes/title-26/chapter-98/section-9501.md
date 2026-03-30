@@ -3,9 +3,9 @@ title: "Section 9501 - Black Lung Disability Trust Fund"
 usc_title: 26
 usc_section: "9501"
 chapter: 98
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 9501"
-generated_at: "2026-03-30T06:37:05.675Z"
+generated_at: "2026-03-30T06:42:33.936Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** There is established in the Treasury of the United States a trust fund to be known as the “Black Lung Disability Trust Fund”, consisting of such amounts as may be appropriated or credited to the Black Lung Disability Trust Fund.
   - **(2)** The trustees of the Black Lung Disability Trust Fund shall be the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services.
 - **(b)**
-  - **(1)** There are herby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
+  - **(1)** There are hereby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
   - **(2)** The following amounts shall be credited to the Black Lung Disability Trust Fund:
     - **(A)** Amounts repaid or recovered under subsection (b) of section 424 of the Black Lung Benefits Act (including interest thereon).
     - **(B)** Amounts paid as fines or penalties, or interest thereon, under section 423, 431, or 432 of the Black Lung Benefits Act.
@@ -27,7 +27,7 @@ status: "active"
 - **(d)** Amounts in the Black Lung Disability Trust Fund shall be available, as provided by appropriation Acts, for—
   - **(1)** the payment of benefits under section 422 of the Black Lung Benefits Act in any case in which the Secretary of Labor determines that—
     - **(A)** the operator liable for the payment of such benefits—
-      - **(i)** has no commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
+      - **(i)** has not commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
       - **(ii)** has not made a payment within 30 days after that payment is due,
     - **(B)** there is no operator who is liable for the payment of such benefits,
   - **(2)** the payment of obligations incurred by the Secretary of Labor with respect to all claims of miners of their survivors in which the miner’s last coal mine employment was before January 1, 1970 ,

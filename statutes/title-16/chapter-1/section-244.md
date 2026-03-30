@@ -3,9 +3,9 @@ title: "Section 244 - Construction of log buildings; limitation on cost"
 usc_title: 16
 usc_section: "244"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 244"
-generated_at: "2026-03-30T06:36:34.690Z"
+generated_at: "2026-03-30T06:41:58.159Z"
 status: "active"
 ---
 

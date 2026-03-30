@@ -3,9 +3,9 @@ title: "Section 6932 - Consolidated Farm Service Agency"
 usc_title: 7
 usc_section: "6932"
 chapter: 98
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 6932"
-generated_at: "2026-03-30T06:36:14.552Z"
+generated_at: "2026-03-30T06:41:10.220Z"
 status: "active"
 ---
 

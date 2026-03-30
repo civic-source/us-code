@@ -3,9 +3,9 @@ title: "Section 48 - Information and assistance from departments"
 usc_title: 15
 usc_section: "48"
 chapter: 2
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "15 U.S.C. § 48"
-generated_at: "2026-03-30T06:36:26.987Z"
+generated_at: "2026-03-30T06:41:45.213Z"
 status: "active"
 ---
 

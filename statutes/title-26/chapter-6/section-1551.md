@@ -3,9 +3,9 @@ title: "Section 1551 - Disallowance of the benefits of the graduated corporate r
 usc_title: 26
 usc_section: "1551"
 chapter: 6
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1551"
-generated_at: "2026-03-30T06:37:05.582Z"
+generated_at: "2026-03-30T06:42:33.845Z"
 status: "active"
 ---
 

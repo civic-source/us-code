@@ -3,16 +3,16 @@ title: "Section 4482 - Definitions"
 usc_title: 26
 usc_section: "4482"
 chapter: 36
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 4482"
-generated_at: "2026-03-30T06:37:05.604Z"
+generated_at: "2026-03-30T06:42:33.866Z"
 status: "active"
 ---
 
 # § 4482. Definitions
 
 - **(a)** For purposes of this subchapter, the term “highway motor vehicle” means any motor vehicle which is a highway vehicle.
-- **(b)** For purposes of this subchapter, the term “taxable gross weight” when used with respect to any highway motor vehicle, means the sum of—
+- **(b)** For purposes of this subchapter, the term “taxable gross weight”, when used with respect to any highway motor vehicle, means the sum of—
   - **(1)** the actual unloaded weight of—
     - **(A)** such highway motor vehicle fully equipped for service, and
     - **(B)** the semitrailers and trailers (fully equipped for service) customarily used in connection with highway motor vehicles of the same type as such highway motor vehicle, and

@@ -3,9 +3,9 @@ title: "Section 4h - Discussions to increase productive economic participation o
 usc_title: 22
 usc_section: "4h"
 chapter: 7
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 4h"
-generated_at: "2026-03-30T06:36:52.842Z"
+generated_at: "2026-03-30T06:42:24.512Z"
 status: "active"
 ---
 

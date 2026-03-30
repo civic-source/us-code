@@ -3,9 +3,9 @@ title: "Section 642 - Special rules for credits and deductions"
 usc_title: 26
 usc_section: "642"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 642"
-generated_at: "2026-03-30T06:37:05.529Z"
+generated_at: "2026-03-30T06:42:33.792Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
     - **(F)** from which each beneficiary of an income interest receives income, for each year for which he is entitled to receive the income interest referred to in subparagraph (A), determined by the rate of return earned by the trust for such year.
   - **(6)** In the case of a private foundation which is not exempt from taxation under section 501(a) for the taxable year, the provisions of this subsection shall not apply and the provisions of section 170 shall apply.
 - **(d)** The benefit of the deduction for net operating losses provided by section 172 shall be allowed to estates and trusts under regulations prescribed by the Secretary.
-- **(e)** An estate or trust shall be allowed the deduction for depreciation and depletion only to the extent not allowable to beneficiaries under section 167(d) and 611(b).
+- **(e)** An estate or trust shall be allowed the deduction for depreciation and depletion only to the extent not allowable to beneficiaries under sections 167(d) and 611(b).
 - **(f)** The benefit of the deductions for amortization provided by sections 169 and 197 shall be allowed to estates and trusts in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiaries and the fiduciary under regulations prescribed by the Secretary.
 - **(g)** Amounts allowable under section 2053 or 2054 as a deduction in computing the taxable estate of a decedent shall not be allowed as a deduction (or as an offset against the sales price of property in determining gain or loss) in computing the taxable income of the estate or of any other person, unless there is filed, within the time and in the manner and form prescribed by the Secretary, a statement that the amounts have not been allowed as deductions under section 2053 or 2054 and a waiver of the right to have such amounts allowed at any time as deductions under section 2053 or 2054. Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under section 2621(a)(2) or 2622(b). This subsection shall not apply with respect to deductions allowed under part II (relating to income in respect of decedents).
 - **(h)** If on the termination of an estate or trust, the estate or trust has—

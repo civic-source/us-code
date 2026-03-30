@@ -3,9 +3,9 @@ title: "Section 7313 - Riots and civil disorders"
 usc_title: 5
 usc_section: "7313"
 chapter: 73
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "5 U.S.C. § 7313"
-generated_at: "2026-03-30T06:36:08.093Z"
+generated_at: "2026-03-30T06:40:59.236Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 869 - Art. 69. Review in the office of the Judge Advocate Genera
 usc_title: 10
 usc_section: "869"
 chapter: 47
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 869"
-generated_at: "2026-03-30T06:36:17.720Z"
+generated_at: "2026-03-30T06:41:20.414Z"
 status: "active"
 ---
 

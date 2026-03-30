@@ -3,9 +3,9 @@ title: "Section 1400F - Renewal community capital gain"
 usc_title: 26
 usc_section: "1400F"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1400F"
-generated_at: "2026-03-30T06:37:05.577Z"
+generated_at: "2026-03-30T06:42:33.839Z"
 status: "active"
 ---
 
@@ -41,5 +41,5 @@ status: "active"
     - **(B)** property used in the trade or business (as defined in section 1231(b)).
   - **(2)** The term “qualified capital gain” shall not include any gain attributable to periods before January 1, 2002 , or after December 31, 2014 .
   - **(3)** Rules similar to the rules of paragraphs (3), (4), and (5) of section 1400B(e) shall apply for purposes of this subsection.
-- **(d)** For purposes of this section, rules similar to the rules of paragraphs (5), (6), and (7) of subsection (b), and subsections (f) and (g), of section 1400B shall apply; except that for such purposes section 1400B(g)(2) shall be applied by substituting “ January 1, 2002 ” for “ January 1, 1998 ” and “ December 31, 2014 ” for “ December 31, 2014 ”.
+- **(d)** For purposes of this section, rules similar to the rules of paragraphs (5), (6), and (7) of subsection (b), and subsections (f) and (g), of section 1400B shall apply; except that for such purposes section 1400B(g)(2) shall be applied by substituting “ January 1, 2002 ” for “ January 1, 1998 ” and “ December 31, 2014 ” for “ December 31, 2014 ”. 1 1 See References in Text note below.
 - **(e)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the abuse of the purposes of this section.

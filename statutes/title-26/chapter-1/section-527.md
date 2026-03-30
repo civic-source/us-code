@@ -3,9 +3,9 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-03-30T06:37:05.523Z"
+generated_at: "2026-03-30T06:42:33.786Z"
 status: "active"
 ---
 
@@ -68,7 +68,7 @@ status: "active"
   - **(2)** For purposes of this subsection, the term “net investment income” means the excess of—
     - **(A)** the gross amount of income from interest, dividends, rents, and royalties, plus the excess (if any) of gains from the sale or exchange of assets over the losses from the sale or exchange of assets, over
     - **(B)** the deductions allowed by this chapter which are directly connected with the production of the income referred to in subparagraph (A).
-  - **(3)** For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 ) or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2)) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
+  - **(3)** For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
 - **(g)**
   - **(1)** For purposes of this section, a fund established and maintained by an individual who holds, has been elected to, or is a candidate (within the meaning of paragraph (3)) for nomination or election to, any Federal, State, or local elective public office, for use by such individual exclusively for the preparation and circulation of such individual’s newsletter shall, except as provided in paragraph (2), be treated as if such fund constituted a political organization.
   - **(2)** In the case of any fund described in paragraph (1)—
@@ -84,7 +84,7 @@ status: "active"
       - **(i)** section 302(e) of the Federal Election Campaign Act of 1971 ( 52 U.S.C. 30102(e) ), and
       - **(ii)** this subsection.
     - **(B)** A candidate may have only 1 designation in effect under subparagraph (A)(ii) at any time and such designation—
-      - **(i)** shall be made at such time and in such manner as the Secretary may prescribed by regulations, and
+      - **(i)** shall be made at such time and in such manner as the Secretary may prescribe by regulations, and
       - **(ii)** once made, may be revoked only with the consent of the Secretary.
 - **(i)**
   - **(1)** Except as provided in paragraph (5), an organization shall not be treated as an organization described in this section—

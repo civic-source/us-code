@@ -3,9 +3,9 @@ title: "Section 130h - Prohibitions relating to missile defense information and 
 usc_title: 10
 usc_section: "130h"
 chapter: 3
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 130h"
-generated_at: "2026-03-30T06:36:17.697Z"
+generated_at: "2026-03-30T06:41:20.390Z"
 status: "active"
 ---
 

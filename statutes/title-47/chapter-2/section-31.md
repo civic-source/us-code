@@ -3,9 +3,9 @@ title: "Section 31 - Summary trials"
 usc_title: 47
 usc_section: "31"
 chapter: 2
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "47 U.S.C. § 31"
-generated_at: "2026-03-30T06:37:34.436Z"
+generated_at: "2026-03-30T06:43:04.255Z"
 status: "active"
 ---
 

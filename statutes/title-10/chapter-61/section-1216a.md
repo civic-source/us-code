@@ -3,9 +3,9 @@ title: "Section 1216a - Determinations of disability: requirements and limitatio
 usc_title: 10
 usc_section: "1216a"
 chapter: 61
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 1216a"
-generated_at: "2026-03-30T06:36:17.739Z"
+generated_at: "2026-03-30T06:41:20.434Z"
 status: "active"
 ---
 

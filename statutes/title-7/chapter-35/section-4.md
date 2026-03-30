@@ -3,9 +3,9 @@ title: "Section 4 - Education program"
 usc_title: 7
 usc_section: "4"
 chapter: 35
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T06:36:14.455Z"
+generated_at: "2026-03-30T06:41:10.128Z"
 status: "active"
 ---
 

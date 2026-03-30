@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T06:37:05.548Z"
+generated_at: "2026-03-30T06:42:33.812Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** For purposes of this title, gain or loss of a nonresident alien individual or a foreign corporation from the disposition of a United States real property interest shall be taken into account—
-    - **(A)** in the case of a nonresident alien individual, under section 871(B)(1), or
+    - **(A)** in the case of a nonresident alien individual, under section 871(B)(1), 1 1 So in original. Probably should be “871(b)(1),”. or
     - **(B)** in the case of a foreign corporation, under section 882(a)(1),
   - **(2)**
     - **(A)** In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of—
@@ -112,7 +112,7 @@ status: "active"
   - **(3)** An election under paragraph (1) may be made only—
     - **(A)** if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980 , which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
     - **(B)** subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
-  - **(4)** The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1145, and section 6039C.
+  - **(4)** The election provided by paragraph (1) shall be the exclusive remedy for any person claiming discriminatory treatment with respect to this section, section 1445, and section 6039C.
 - **(j)** Except to the extent otherwise provided in regulations, gain shall be recognized by a nonresident alien individual or foreign corporation on the transfer of a United States real property interest to a foreign corporation if the transfer is made as paid in surplus or as a contribution to capital, in the amount of the excess of—
   - **(1)** the fair market value of such property transferred, over
   - **(2)** the sum of—

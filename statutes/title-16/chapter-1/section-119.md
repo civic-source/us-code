@@ -3,9 +3,9 @@ title: "Section 119 - Establishment; notice in Federal Register; administration;
 usc_title: 16
 usc_section: "119"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 119"
-generated_at: "2026-03-30T06:36:34.682Z"
+generated_at: "2026-03-30T06:41:58.152Z"
 status: "active"
 ---
 

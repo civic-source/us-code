@@ -3,9 +3,9 @@ title: "Section 1679f - Noncompliance with this subchapter"
 usc_title: 15
 usc_section: "1679f"
 chapter: 41
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "15 U.S.C. § 1679f"
-generated_at: "2026-03-30T06:36:27.093Z"
+generated_at: "2026-03-30T06:41:45.309Z"
 status: "active"
 ---
 

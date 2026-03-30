@@ -3,9 +3,9 @@ title: "Section 2719 - State financial responsibility"
 usc_title: 33
 usc_section: "2719"
 chapter: 40
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 2719"
-generated_at: "2026-03-30T06:37:11.948Z"
+generated_at: "2026-03-30T06:42:39.082Z"
 status: "active"
 ---
 

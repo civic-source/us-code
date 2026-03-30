@@ -3,9 +3,9 @@ title: "Section 3708 - Reservation of right to amend or repeal chapter"
 usc_title: 16
 usc_section: "3708"
 chapter: 57
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 3708"
-generated_at: "2026-03-30T06:36:34.876Z"
+generated_at: "2026-03-30T06:41:58.342Z"
 status: "active"
 ---
 

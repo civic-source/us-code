@@ -3,9 +3,9 @@ title: "Section 6806 - Statement in annual report"
 usc_title: 42
 usc_section: "6806"
 chapter: 81
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 6806"
-generated_at: "2026-03-30T06:37:31.452Z"
+generated_at: "2026-03-30T06:43:01.400Z"
 status: "active"
 ---
 

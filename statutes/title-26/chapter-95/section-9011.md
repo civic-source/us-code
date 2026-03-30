@@ -3,9 +3,9 @@ title: "Section 9011 - Judicial review"
 usc_title: 26
 usc_section: "9011"
 chapter: 95
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 9011"
-generated_at: "2026-03-30T06:37:05.674Z"
+generated_at: "2026-03-30T06:42:33.935Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** Any certification, determination, or other action by the Commission made or taken pursuant to the provisions of this chapter shall be subject to review by the United States Court of Appeals for the District of Columbia upon petition filed in such Court by any interested person. Any petition filed pursuant to this section shall be filed within thirty days after the certification, determination, or other action by the Commission for which review is sought.
 - **(b)**
-  - **(1)** The Commission, the national committee of any political party, and individuals eligible to vote for President are authorized to institute such actions, including actions for declaratory judgment or injunctive relief, as may be appropriate to implement or contrue 1 1 So in original. Probably should be “construe”. any provisions of this chapter.
+  - **(1)** The Commission, the national committee of any political party, and individuals eligible to vote for President are authorized to institute such actions, including actions for declaratory judgment or injunctive relief, as may be appropriate to implement or contrue 1 1 So in original. Probably should be “construe”. any provision of this chapter.
   - **(2)** The district courts of the United States shall have jurisdiction of proceedings instituted pursuant to this subsection and shall exercise the same without regard to whether a person asserting rights under provisions of this subsection shall have exhausted any administrative or other remedies that may be provided at law. Such proceedings shall be heard and determined by a court of three judges in accordance with the provisions of section 2284 of title 28 , United States Code, and any appeal shall lie to the Supreme Court.

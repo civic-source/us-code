@@ -3,9 +3,9 @@ title: "Section 155 - Commission"
 usc_title: 47
 usc_section: "155"
 chapter: 5
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "47 U.S.C. § 155"
-generated_at: "2026-03-30T06:37:34.437Z"
+generated_at: "2026-03-30T06:43:04.256Z"
 status: "active"
 ---
 

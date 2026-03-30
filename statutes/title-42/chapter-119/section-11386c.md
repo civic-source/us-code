@@ -3,9 +3,9 @@ title: "Section 11386c - Renewal funding and terms of assistance for permanent h
 usc_title: 42
 usc_section: "11386c"
 chapter: 119
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 11386c"
-generated_at: "2026-03-30T06:37:31.566Z"
+generated_at: "2026-03-30T06:43:01.512Z"
 status: "active"
 ---
 

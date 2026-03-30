@@ -3,9 +3,9 @@ title: "Section 1911 - General Counsel to the Chief of Police and the United Sta
 usc_title: 2
 usc_section: "1911"
 chapter: 29
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 1911"
-generated_at: "2026-03-30T06:36:08.977Z"
+generated_at: "2026-03-30T06:40:37.147Z"
 status: "active"
 ---
 

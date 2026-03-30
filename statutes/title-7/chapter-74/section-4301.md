@@ -3,9 +3,9 @@ title: "Section 4301 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "4301"
 chapter: 74
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 4301"
-generated_at: "2026-03-30T06:36:14.529Z"
+generated_at: "2026-03-30T06:41:10.198Z"
 status: "active"
 ---
 

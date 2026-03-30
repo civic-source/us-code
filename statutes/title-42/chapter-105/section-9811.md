@@ -3,9 +3,9 @@ title: "Section 9811 - Limitation on assistance"
 usc_title: 42
 usc_section: "9811"
 chapter: 105
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 9811"
-generated_at: "2026-03-30T06:37:31.534Z"
+generated_at: "2026-03-30T06:43:01.482Z"
 status: "active"
 ---
 

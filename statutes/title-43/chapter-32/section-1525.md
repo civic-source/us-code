@@ -3,9 +3,9 @@ title: "Section 1525 - Cost of main stream water of Colorado River"
 usc_title: 43
 usc_section: "1525"
 chapter: 32
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "43 U.S.C. § 1525"
-generated_at: "2026-03-30T06:37:18.897Z"
+generated_at: "2026-03-30T06:42:45.649Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1610 - Estimates based on tax reporting system"
 usc_title: 2
 usc_section: "1610"
 chapter: 26
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 1610"
-generated_at: "2026-03-30T06:36:08.974Z"
+generated_at: "2026-03-30T06:40:37.143Z"
 status: "active"
 ---
 

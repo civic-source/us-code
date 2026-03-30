@@ -3,9 +3,9 @@ title: "Section 603 - Examination of animals prior to slaughter; use of humane m
 usc_title: 21
 usc_section: "603"
 chapter: 12
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "21 U.S.C. § 603"
-generated_at: "2026-03-30T06:36:47.436Z"
+generated_at: "2026-03-30T06:42:16.310Z"
 status: "active"
 ---
 

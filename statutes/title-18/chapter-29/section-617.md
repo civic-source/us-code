@@ -3,9 +3,9 @@ title: "Section 617 - Repealed. Pub. L. 94–283, title II , § 201(a), May 11, 
 usc_title: 18
 usc_section: "617"
 chapter: 29
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "18 U.S.C. § 617"
-generated_at: "2026-03-30T06:36:30.536Z"
+generated_at: "2026-03-30T06:42:01.829Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 148 - Maritime instruction"
 usc_title: 14
 usc_section: "148"
 chapter: 7
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "14 U.S.C. § 148"
-generated_at: "2026-03-30T06:36:20.030Z"
+generated_at: "2026-03-30T06:41:31.003Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2249a - Renumbered § 361]"
 usc_title: 10
 usc_section: "2249a"
 chapter: 134
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 2249a"
-generated_at: "2026-03-30T06:36:17.762Z"
+generated_at: "2026-03-30T06:41:20.457Z"
 status: "renumbered"
 ---
 

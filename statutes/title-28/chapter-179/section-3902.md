@@ -3,9 +3,9 @@ title: "Section 3902 - Judicial review of regulations"
 usc_title: 28
 usc_section: "3902"
 chapter: 179
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "28 U.S.C. § 3902"
-generated_at: "2026-03-30T06:36:59.128Z"
+generated_at: "2026-03-30T06:42:28.026Z"
 status: "active"
 ---
 

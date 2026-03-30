@@ -3,9 +3,9 @@ title: "Section 83 - Property transferred in connection with performance of serv
 usc_title: 26
 usc_section: "83"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 83"
-generated_at: "2026-03-30T06:37:05.451Z"
+generated_at: "2026-03-30T06:42:33.716Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** If, in connection with the performance of services, property is transferred to any person other than the person for whom such services are performed, the excess of—
   - **(1)** the fair market value of such property (determined without regard to any restriction other than a restriction which by its terms will never lapse) at the first time the rights of the person having the beneficial interest in such property are transferable or are not subject to a substantial risk of forfeiture, whichever occurs earlier, over
-  - **(2)** the amount (if any) paid for such property, shall be included in the gross income of the person who performed such services in the first taxable year in which the rights of the person having the beneficial interest in such property are transferable or are not subject to a substantial risk of forfeiture, whichever is applicable. The preceding sentence shall not apply if such person sells or otherwise disposes of such property in an arm’s length transaction before his rights in such property become transferable or not subject to a substantial risk of forfeiture.
+  - **(2)** the amount (if any) paid for such property,
 - **(b)**
   - **(1)** Any person who performs services in connection with which property is transferred to any person may elect to include in his gross income for the taxable year in which such property is transferred, the excess of—
     - **(A)** the fair market value of such property at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), over

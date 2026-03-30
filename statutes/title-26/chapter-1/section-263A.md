@@ -3,9 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T06:37:05.479Z"
+generated_at: "2026-03-30T06:42:33.743Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
     - **(A)** If plants bearing an edible crop for human consumption were lost or damaged (while in the hands of the taxpayer) by reason of freezing temperatures, disease, drought, pests, or casualty, this section shall not apply to any costs of the taxpayer of replanting plants bearing the same type of crop (whether on the same parcel of land on which such lost or damaged plants were located or any other parcel of land of the same acreage in the United States).
     - **(B)** Subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
       - **(i)** the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
-      - **(ii)** such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of such the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
+      - **(ii)** such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
   - **(3)**
     - **(A)** If a taxpayer makes an election under this paragraph, this section shall not apply to any plant produced in any farming business carried on by such taxpayer.
     - **(B)** No election may be made under this paragraph by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).

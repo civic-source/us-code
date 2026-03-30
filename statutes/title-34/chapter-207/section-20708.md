@@ -3,9 +3,9 @@ title: "Section 20708 - Grants for law enforcement training programs"
 usc_title: 34
 usc_section: "20708"
 chapter: 207
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "34 U.S.C. § 20708"
-generated_at: "2026-03-30T06:37:08.149Z"
+generated_at: "2026-03-30T06:42:37.263Z"
 status: "active"
 ---
 

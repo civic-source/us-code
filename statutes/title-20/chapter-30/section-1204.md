@@ -3,9 +3,9 @@ title: "Section 1204 - Repealed. Pub. L. 105–220, title II , § 251(a)(1), Aug
 usc_title: 20
 usc_section: "1204"
 chapter: 30
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "20 U.S.C. § 1204"
-generated_at: "2026-03-30T06:36:38.162Z"
+generated_at: "2026-03-30T06:42:04.989Z"
 status: "repealed"
 ---
 

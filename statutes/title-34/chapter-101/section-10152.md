@@ -3,9 +3,9 @@ title: "Section 10152 - Description"
 usc_title: 34
 usc_section: "10152"
 chapter: 101
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "34 U.S.C. § 10152"
-generated_at: "2026-03-30T06:37:08.118Z"
+generated_at: "2026-03-30T06:42:37.231Z"
 status: "active"
 ---
 

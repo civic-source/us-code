@@ -3,9 +3,9 @@ title: "Section 81 - Repealed. Pub. L. 93–344, title V , § 505(2), July 12, 1
 usc_title: 2
 usc_section: "81"
 chapter: 4
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 81"
-generated_at: "2026-03-30T06:36:08.950Z"
+generated_at: "2026-03-30T06:40:37.074Z"
 status: "repealed"
 ---
 

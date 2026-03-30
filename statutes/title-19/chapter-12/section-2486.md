@@ -3,9 +3,9 @@ title: "Section 2486 - Trade relations with North American countries"
 usc_title: 19
 usc_section: "2486"
 chapter: 12
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "19 U.S.C. § 2486"
-generated_at: "2026-03-30T06:36:31.859Z"
+generated_at: "2026-03-30T06:42:13.000Z"
 status: "active"
 ---
 

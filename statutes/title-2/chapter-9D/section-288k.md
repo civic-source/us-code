@@ -3,9 +3,9 @@ title: "Section 288k - Attorney General relieved of responsibility"
 usc_title: 2
 usc_section: "288k"
 chapter: 9
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 288k"
-generated_at: "2026-03-30T06:36:08.957Z"
+generated_at: "2026-03-30T06:40:37.081Z"
 status: "active"
 ---
 

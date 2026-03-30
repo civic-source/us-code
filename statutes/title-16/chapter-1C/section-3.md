@@ -3,9 +3,9 @@ title: "Section 3 - Collection of paleontological resources"
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T06:36:34.761Z"
+generated_at: "2026-03-30T06:41:58.232Z"
 status: "active"
 ---
 

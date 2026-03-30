@@ -3,9 +3,9 @@ title: "Section 5441 - Repealed. Pub. L. 103–382, title III , § 391(l), Oct. 
 usc_title: 20
 usc_section: "5441"
 chapter: 64
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "20 U.S.C. § 5441"
-generated_at: "2026-03-30T06:36:38.191Z"
+generated_at: "2026-03-30T06:42:05.017Z"
 status: "repealed"
 ---
 

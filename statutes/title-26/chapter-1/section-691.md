@@ -3,9 +3,9 @@ title: "Section 691 - Recipients of income in respect of decedents"
 usc_title: 26
 usc_section: "691"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 691"
-generated_at: "2026-03-30T06:37:05.532Z"
+generated_at: "2026-03-30T06:42:33.795Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(B)** In any case to which the first sentence of paragraph (2) applies by reason of subparagraph (A), if the decedent and the obligor were related persons (within the meaning of section 453(f)(1)), the fair market value of the installment obligation shall be treated as not less than its face amount.
     - **(C)** For purposes of subparagraph (A), an installment obligation which becomes unenforceable shall be treated as if it were canceled.
 - **(b)** The amount of any deduction specified in section 162, 163, 164, 212, or 611 (relating to deductions for expenses, interest, taxes, and depletion) or credit specified in section 27 (relating to foreign tax credit), in respect of a decedent which is not properly allowable to the decedent in respect of the taxable period in which falls the date of his death, or a prior period, shall be allowed:
-  - **(1)** In the case of a deduction specified in sections 162, 163, 164, or 212 and a credit specified in section 27, in the taxable year when paid—
+  - **(1)** In the case of a deduction specified in section 162, 163, 164, or 212 and a credit specified in section 27, in the taxable year when paid—
     - **(A)** to the estate of the decedent; except that
     - **(B)** if the estate of the decedent is not liable to discharge the obligation to which the deduction or credit relates, to the person who, by reason of the death of the decedent or by bequest, devise, or inheritance acquires, subject to such obligation, from the decedent an interest in property of the decedent.
   - **(2)** In the case of the deduction specified in section 611, to the person described in subsection (a)(1)(A), (B), or (C) who, in the manner described therein, receives the income to which the deduction relates, in the taxable year when such income is received.
@@ -46,7 +46,7 @@ status: "active"
 - **(d)**
   - **(1)** For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
     - **(A)** as an annuity under a joint and survivor annuity contract where the decedent annuitant died after the annuity starting date (as defined in section 72(c)(4)), and
-    - **(B)** during the surviving annuitant’s life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
+    - **(B)** during the surviving annuitant’s life expectancy period,
   - **(2)** In determining the net value for estate tax purposes under subsection (c)(2)(B) for purposes of this subsection, the value for estate tax purposes of the items described in paragraph (1) of this subsection shall be computed—
     - **(A)** by determining the excess of the value of the annuity at the date of the death of the deceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during the surviving annuitant’s life expectancy period, and
     - **(B)** by multiplying the figure so obtained by the ratio which the value of the annuity for estate tax purposes bears to the value of the annuity at the date of the death of the deceased.

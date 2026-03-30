@@ -3,9 +3,9 @@ title: "Section 546 - Renewal"
 usc_title: 47
 usc_section: "546"
 chapter: 5
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "47 U.S.C. § 546"
-generated_at: "2026-03-30T06:37:34.461Z"
+generated_at: "2026-03-30T06:43:04.279Z"
 status: "active"
 ---
 

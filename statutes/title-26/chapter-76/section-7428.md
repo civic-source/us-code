@@ -3,9 +3,9 @@ title: "Section 7428 - Declaratory judgments relating to status and classificati
 usc_title: 26
 usc_section: "7428"
 chapter: 76
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 7428"
-generated_at: "2026-03-30T06:37:05.660Z"
+generated_at: "2026-03-30T06:42:33.921Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(C)** either—
       - **(i)** a decision of the Tax Court has become final (within the meaning of section 7481), or
       - **(ii)** a judgment of the district court of the United States for the District of Columbia has been entered, or
-      - **(iii)** a judgment of the Court of Federal Claims, has been entered,
+      - **(iii)** a judgment of the Court of Federal Claims has been entered,
   - **(2)** Paragraph (1) shall apply only—
     - **(A)** with respect to individuals, and only to the extent that the aggregate of the contributions made by any individual to or for the use of the organization during the period specified in paragraph (1) does not exceed $1,000 (for this purpose treating a husband and wife as one contributor), and
     - **(B)** with respect to organizations described in section 170(c)(2) which are exempt from tax under section 501(a) (for this purpose excluding any such organization with respect to which there is pending a proceeding to revoke the determination under section 170(c)(2)).

@@ -3,9 +3,9 @@ title: "Section 7672 - Recaptures: award of salvage, costs, and expenses"
 usc_title: 10
 usc_section: "7672"
 chapter: 655
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 7672"
-generated_at: "2026-03-30T06:36:17.814Z"
+generated_at: "2026-03-30T06:41:20.511Z"
 status: "active"
 ---
 

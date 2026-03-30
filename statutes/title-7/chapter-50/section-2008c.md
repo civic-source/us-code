@@ -3,9 +3,9 @@ title: "Section 2008c - Repealed. Pub. L. 104–127, title VII , §§ 754–756,
 usc_title: 7
 usc_section: "2008c"
 chapter: 50
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 2008c"
-generated_at: "2026-03-30T06:36:14.493Z"
+generated_at: "2026-03-30T06:41:10.165Z"
 status: "repealed"
 ---
 

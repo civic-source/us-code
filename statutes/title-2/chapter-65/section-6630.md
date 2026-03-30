@@ -3,9 +3,9 @@ title: "Section 6630 - Disposal of used or surplus furniture and equipment by Se
 usc_title: 2
 usc_section: "6630"
 chapter: 65
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 6630"
-generated_at: "2026-03-30T06:36:08.995Z"
+generated_at: "2026-03-30T06:40:37.162Z"
 status: "active"
 ---
 

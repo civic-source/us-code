@@ -3,9 +3,9 @@ title: "Section 274 - Disallowance of certain entertainment, etc., expenses"
 usc_title: 26
 usc_section: "274"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 274"
-generated_at: "2026-03-30T06:37:05.480Z"
+generated_at: "2026-03-30T06:42:33.745Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(A)** In the case of a gift by a partnership, the limitation contained in paragraph (1) shall apply to the partnership as well as to each member thereof.
     - **(B)** For purposes of paragraph (1), a husband and wife shall be treated as one taxpayer.
 - **(c)**
-  - **(1)** In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
+  - **(1)** In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162 or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
   - **(2)** Paragraph (1) shall not apply to the expenses of any travel outside the United States away from home if—
     - **(A)** such travel does not exceed one week, or
     - **(B)** the portion of the time of travel outside the United States away from home which is not attributable to the pursuit of the taxpayer’s trade or business or an activity described in section 212 is less than 25 percent of the total time on such travel.

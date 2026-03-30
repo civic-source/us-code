@@ -3,9 +3,9 @@ title: "Section 1905a - Reimbursement for salaries paid for service at Federal L
 usc_title: 2
 usc_section: "1905a"
 chapter: 29
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 1905a"
-generated_at: "2026-03-30T06:36:08.977Z"
+generated_at: "2026-03-30T06:40:37.146Z"
 status: "active"
 ---
 

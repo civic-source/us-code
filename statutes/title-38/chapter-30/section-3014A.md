@@ -3,9 +3,9 @@ title: "Section 3014A - Accelerated payment of basic educational assistance for 
 usc_title: 38
 usc_section: "3014A"
 chapter: 30
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "38 U.S.C. § 3014A"
-generated_at: "2026-03-30T06:37:16.301Z"
+generated_at: "2026-03-30T06:42:42.838Z"
 status: "active"
 ---
 

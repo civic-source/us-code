@@ -3,9 +3,9 @@ title: "Section 4910 - Enforcement"
 usc_title: 42
 usc_section: "4910"
 chapter: 65
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 4910"
-generated_at: "2026-03-30T06:37:31.408Z"
+generated_at: "2026-03-30T06:43:01.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 760d - Grants for education and training of personnel in the fie
 usc_title: 16
 usc_section: "760d"
 chapter: 9
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 760d"
-generated_at: "2026-03-30T06:36:34.797Z"
+generated_at: "2026-03-30T06:41:58.267Z"
 status: "active"
 ---
 

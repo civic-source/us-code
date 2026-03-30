@@ -3,9 +3,9 @@ title: "Section 5365 - Reports"
 usc_title: 25
 usc_section: "5365"
 chapter: 46
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "25 U.S.C. § 5365"
-generated_at: "2026-03-30T06:36:41.797Z"
+generated_at: "2026-03-30T06:42:19.889Z"
 status: "active"
 ---
 

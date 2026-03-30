@@ -3,9 +3,9 @@ title: "Section 3412 - Administrative procedure"
 usc_title: 15
 usc_section: "3412"
 chapter: 60
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "15 U.S.C. § 3412"
-generated_at: "2026-03-30T06:36:27.130Z"
+generated_at: "2026-03-30T06:41:45.345Z"
 status: "active"
 ---
 

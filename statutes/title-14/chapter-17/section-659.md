@@ -3,9 +3,9 @@ title: "Section 659 - Assistance to film producers"
 usc_title: 14
 usc_section: "659"
 chapter: 17
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "14 U.S.C. § 659"
-generated_at: "2026-03-30T06:36:20.033Z"
+generated_at: "2026-03-30T06:41:31.008Z"
 status: "active"
 ---
 

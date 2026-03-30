@@ -3,9 +3,9 @@ title: "Section 2505 - National technology and industrial base: periodic defense
 usc_title: 10
 usc_section: "2505"
 chapter: 148
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 2505"
-generated_at: "2026-03-30T06:36:17.780Z"
+generated_at: "2026-03-30T06:41:20.476Z"
 status: "active"
 ---
 

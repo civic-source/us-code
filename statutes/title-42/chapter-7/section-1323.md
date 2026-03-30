@@ -3,9 +3,9 @@ title: "Section 1323 - Repayable advances to Federal unemployment account"
 usc_title: 42
 usc_section: "1323"
 chapter: 7
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 1323"
-generated_at: "2026-03-30T06:37:31.191Z"
+generated_at: "2026-03-30T06:43:01.134Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1585 - Carrying of firearms"
 usc_title: 10
 usc_section: "1585"
 chapter: 81
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 1585"
-generated_at: "2026-03-30T06:36:17.749Z"
+generated_at: "2026-03-30T06:41:20.444Z"
 status: "active"
 ---
 

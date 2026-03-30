@@ -3,9 +3,9 @@ title: "Section 6223 - Notice to partners of proceedings"
 usc_title: 26
 usc_section: "6223"
 chapter: 63
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 6223"
-generated_at: "2026-03-30T06:37:05.639Z"
+generated_at: "2026-03-30T06:42:33.900Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(A)** This subsection applies where the Secretary has failed to mail any notice specified in subsection (a) to a partner entitled to such notice within the period specified in subsection (d).
     - **(B)** For purposes of subparagraph (A), any partner described in paragraph (1) of subsection (b) shall be treated as entitled to notice specified in subsection (a). The Secretary may provide such notice—
       - **(i)** except as provided in clause (ii), by mailing notice to the tax matters partner, or
-      - **(ii)** in the case of a member of a notice group which qualified under paragraph (2) of subsection (b), by mailing notice to the partner designated for such purpose by the group.
+      - **(ii)** in the case of a member of a notice group which qualifies under paragraph (2) of subsection (b), by mailing notice to the partner designated for such purpose by the group.
   - **(2)** In any case to which this subsection applies, if at the time the Secretary mails the partner notice of the proceeding—
     - **(A)** the period within which a petition for review of a final partnership administrative adjustment under section 6226 may be filed has expired and no such petition has been filed, or
     - **(B)** the decision of a court in an action begun by such a petition has become final,

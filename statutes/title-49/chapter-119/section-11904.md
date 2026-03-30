@@ -3,9 +3,9 @@ title: "Section 11904 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "11904"
 chapter: 119
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "49 U.S.C. § 11904"
-generated_at: "2026-03-30T06:37:37.624Z"
+generated_at: "2026-03-30T06:43:07.816Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T06:37:05.498Z"
+generated_at: "2026-03-30T06:42:33.762Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
   - **(4)** In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
     - **(A)** years of service before age 18, 2 2 So in original. The comma probably should be a semicolon.
     - **(B)** years of service during a period for which the employee declined to contribute to a plan requiring employee contributions;
-    - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary;
+    - **(C)** years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan (as defined under regulations prescribed by the Secretary);
     - **(D)** service not required to be taken into account under paragraph (6);
     - **(E)** years of service before January 1, 1971 , unless the employee has had at least 3 years of service after December 31, 1970 ;
     - **(F)** years of service before the first plan year to which this section applies, if such service would have been disregarded under the rules of the plan with regard to breaks in service as in effect on the applicable date; and

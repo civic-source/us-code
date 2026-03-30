@@ -3,9 +3,9 @@ title: "Section 764 - Omitted"
 usc_title: 33
 usc_section: "764"
 chapter: 16
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 764"
-generated_at: "2026-03-30T06:37:11.903Z"
+generated_at: "2026-03-30T06:42:39.036Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 851 - Proceedings to establish prior convictions"
 usc_title: 21
 usc_section: "851"
 chapter: 13
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "21 U.S.C. § 851"
-generated_at: "2026-03-30T06:36:47.443Z"
+generated_at: "2026-03-30T06:42:16.317Z"
 status: "active"
 ---
 

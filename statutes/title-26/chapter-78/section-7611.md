@@ -3,9 +3,9 @@ title: "Section 7611 - Restrictions on church tax inquiries and examinations"
 usc_title: 26
 usc_section: "7611"
 chapter: 78
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 7611"
-generated_at: "2026-03-30T06:37:05.666Z"
+generated_at: "2026-03-30T06:42:33.927Z"
 status: "active"
 ---
 

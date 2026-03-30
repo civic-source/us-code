@@ -3,9 +3,9 @@ title: "Section 4403 - Honey transshipment"
 usc_title: 19
 usc_section: "4403"
 chapter: 28
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "19 U.S.C. § 4403"
-generated_at: "2026-03-30T06:36:31.889Z"
+generated_at: "2026-03-30T06:42:13.028Z"
 status: "active"
 ---
 

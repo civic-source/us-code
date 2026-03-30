@@ -3,9 +3,9 @@ title: "Section 535b - Presidential approval; recommendations of Federal officia
 usc_title: 33
 usc_section: "535b"
 chapter: 11
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 535b"
-generated_at: "2026-03-30T06:37:11.893Z"
+generated_at: "2026-03-30T06:42:39.027Z"
 status: "active"
 ---
 

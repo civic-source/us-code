@@ -3,9 +3,9 @@ title: "Section 5508 - Environmental Education Advisory Council and Task Force"
 usc_title: 20
 usc_section: "5508"
 chapter: 65
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "20 U.S.C. § 5508"
-generated_at: "2026-03-30T06:36:38.191Z"
+generated_at: "2026-03-30T06:42:05.018Z"
 status: "active"
 ---
 

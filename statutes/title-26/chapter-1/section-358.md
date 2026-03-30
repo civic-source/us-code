@@ -3,9 +3,9 @@ title: "Section 358 - Basis to distributees"
 usc_title: 26
 usc_section: "358"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 358"
-generated_at: "2026-03-30T06:37:05.487Z"
+generated_at: "2026-03-30T06:42:33.751Z"
 status: "active"
 ---
 

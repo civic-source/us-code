@@ -3,9 +3,9 @@ title: "Section 228 - Regulation of carrier offering of pay-per-call services"
 usc_title: 47
 usc_section: "228"
 chapter: 5
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "47 U.S.C. § 228"
-generated_at: "2026-03-30T06:37:34.444Z"
+generated_at: "2026-03-30T06:43:04.262Z"
 status: "active"
 ---
 

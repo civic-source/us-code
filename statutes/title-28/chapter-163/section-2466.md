@@ -3,9 +3,9 @@ title: "Section 2466 - Fugitive disentitlement"
 usc_title: 28
 usc_section: "2466"
 chapter: 163
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "28 U.S.C. § 2466"
-generated_at: "2026-03-30T06:36:59.124Z"
+generated_at: "2026-03-30T06:42:28.022Z"
 status: "active"
 ---
 

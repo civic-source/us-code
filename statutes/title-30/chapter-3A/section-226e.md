@@ -3,9 +3,9 @@ title: "Section 226e - Omitted"
 usc_title: 30
 usc_section: "226e"
 chapter: 3
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "30 U.S.C. § 226e"
-generated_at: "2026-03-30T06:36:57.562Z"
+generated_at: "2026-03-30T06:42:26.970Z"
 status: "omitted"
 ---
 

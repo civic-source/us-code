@@ -3,9 +3,9 @@ title: "Section 15303 - Functions"
 usc_title: 40
 usc_section: "15303"
 chapter: 2
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "40 U.S.C. § 15303"
-generated_at: "2026-03-30T06:37:14.004Z"
+generated_at: "2026-03-30T06:42:43.269Z"
 status: "active"
 ---
 

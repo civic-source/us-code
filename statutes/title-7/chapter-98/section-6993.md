@@ -3,9 +3,9 @@ title: "Section 6993 - Transfer of functions"
 usc_title: 7
 usc_section: "6993"
 chapter: 98
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 6993"
-generated_at: "2026-03-30T06:36:14.554Z"
+generated_at: "2026-03-30T06:41:10.222Z"
 status: "active"
 ---
 

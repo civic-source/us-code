@@ -3,9 +3,9 @@ title: "Section 4512 - Administrative provisions"
 usc_title: 7
 usc_section: "4512"
 chapter: 76
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 4512"
-generated_at: "2026-03-30T06:36:14.531Z"
+generated_at: "2026-03-30T06:41:10.200Z"
 status: "active"
 ---
 

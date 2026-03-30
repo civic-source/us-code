@@ -3,9 +3,9 @@ title: "Section 3322 - Disbursing officials"
 usc_title: 31
 usc_section: "3322"
 chapter: 33
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "31 U.S.C. § 3322"
-generated_at: "2026-03-30T06:37:08.806Z"
+generated_at: "2026-03-30T06:42:37.912Z"
 status: "active"
 ---
 

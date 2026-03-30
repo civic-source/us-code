@@ -3,9 +3,9 @@ title: "Section 24406 - Authorization of appropriations"
 usc_title: 49
 usc_section: "24406"
 chapter: 244
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "49 U.S.C. § 24406"
-generated_at: "2026-03-30T06:37:37.637Z"
+generated_at: "2026-03-30T06:43:07.829Z"
 status: "active"
 ---
 

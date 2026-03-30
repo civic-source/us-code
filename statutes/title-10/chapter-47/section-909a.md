@@ -3,9 +3,9 @@ title: "Section 909a - Art. 109a]"
 usc_title: 10
 usc_section: "909a"
 chapter: 47
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 909a"
-generated_at: "2026-03-30T06:36:17.721Z"
+generated_at: "2026-03-30T06:41:20.415Z"
 status: "active"
 ---
 

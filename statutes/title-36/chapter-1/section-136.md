@@ -3,9 +3,9 @@ title: "Section 136 - Peace Officers Memorial Day"
 usc_title: 36
 usc_section: "136"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "36 U.S.C. § 136"
-generated_at: "2026-03-30T06:37:14.876Z"
+generated_at: "2026-03-30T06:42:41.312Z"
 status: "active"
 ---
 

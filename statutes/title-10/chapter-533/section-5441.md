@@ -3,9 +3,9 @@ title: "Section 5441 - Prescribed number; vacancies"
 usc_title: 10
 usc_section: "5441"
 chapter: 533
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 5441"
-generated_at: "2026-03-30T06:36:17.805Z"
+generated_at: "2026-03-30T06:41:20.501Z"
 status: "active"
 ---
 

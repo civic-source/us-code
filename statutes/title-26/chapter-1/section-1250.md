@@ -3,9 +3,9 @@ title: "Section 1250 - Gain from dispositions of certain depreciable realty"
 usc_title: 26
 usc_section: "1250"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1250"
-generated_at: "2026-03-30T06:37:05.565Z"
+generated_at: "2026-03-30T06:42:33.828Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
     - **(C)** With respect to any transaction, the amount determined under this subparagraph shall be the excess of—
       - **(i)** the amount of gain which would (but for this paragraph) be taken into account under subsection (a), over
       - **(ii)** the fair market value (or cost in the case of a transaction described in section 1033(a)(2)) of the section 1250 property acquired in the transaction.
-    - **(D)** In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence shall be applied—
+    - **(D)** In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence 1 1 See References in Text note below. shall be applied—
       - **(i)** first solely to section 1250 properties and to the amount of gain not taken into account under subsection (a) by reason of this paragraph, and
       - **(ii)** then to all purchased properties to which such sentence applies and to the remaining gain not recognized on the transaction as if the cost of the section 1250 properties were the basis of such properties computed under clause (i).
     - **(E)** In the case of any transaction described in section 1031 or 1033, the additional depreciation in respect of the section 1250 property acquired which is attributable to the section 1250 property disposed of shall be an amount equal to the amount of the gain which was not taken into account under subsection (a) by reason of the application of this paragraph.

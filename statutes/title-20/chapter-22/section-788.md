@@ -3,9 +3,9 @@ title: "Section 788 - Repealed. Pub. L. 91–346 , § 5(d)(3)(B), July 20, 1970 
 usc_title: 20
 usc_section: "788"
 chapter: 22
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "20 U.S.C. § 788"
-generated_at: "2026-03-30T06:36:38.103Z"
+generated_at: "2026-03-30T06:42:04.933Z"
 status: "repealed"
 ---
 

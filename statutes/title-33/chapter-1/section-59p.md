@@ -3,9 +3,9 @@ title: "Section 59p - Kenduskeag Stream, Penobscot County, Maine"
 usc_title: 33
 usc_section: "59p"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 59p"
-generated_at: "2026-03-30T06:37:11.885Z"
+generated_at: "2026-03-30T06:42:39.019Z"
 status: "active"
 ---
 

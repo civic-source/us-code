@@ -3,9 +3,9 @@ title: "Section 4212 - Protection for declarants"
 usc_title: 12
 usc_section: "4212"
 chapter: 43
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "12 U.S.C. § 4212"
-generated_at: "2026-03-30T06:36:23.346Z"
+generated_at: "2026-03-30T06:41:27.514Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3843 - EPA enforcement"
 usc_title: 33
 usc_section: "3843"
 chapter: 51
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 3843"
-generated_at: "2026-03-30T06:37:11.956Z"
+generated_at: "2026-03-30T06:42:39.091Z"
 status: "active"
 ---
 

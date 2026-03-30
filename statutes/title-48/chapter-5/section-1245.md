@@ -3,9 +3,9 @@ title: "Section 1245 - Omitted"
 usc_title: 48
 usc_section: "1245"
 chapter: 5
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "48 U.S.C. § 1245"
-generated_at: "2026-03-30T06:37:38.002Z"
+generated_at: "2026-03-30T06:43:04.608Z"
 status: "omitted"
 ---
 

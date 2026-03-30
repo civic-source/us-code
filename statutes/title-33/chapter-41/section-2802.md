@@ -3,9 +3,9 @@ title: "Section 2802 - Definitions"
 usc_title: 33
 usc_section: "2802"
 chapter: 41
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 2802"
-generated_at: "2026-03-30T06:37:11.950Z"
+generated_at: "2026-03-30T06:42:39.084Z"
 status: "active"
 ---
 

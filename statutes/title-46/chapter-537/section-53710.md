@@ -3,9 +3,9 @@ title: "Section 53710 - Contents of obligations"
 usc_title: 46
 usc_section: "53710"
 chapter: 537
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "46 U.S.C. § 53710"
-generated_at: "2026-03-30T06:37:35.160Z"
+generated_at: "2026-03-30T06:43:08.565Z"
 status: "active"
 ---
 

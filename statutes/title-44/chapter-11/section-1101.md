@@ -3,9 +3,9 @@ title: "Section 1101 - Printing and binding for the President"
 usc_title: 44
 usc_section: "1101"
 chapter: 11
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "44 U.S.C. § 1101"
-generated_at: "2026-03-30T06:37:18.395Z"
+generated_at: "2026-03-30T06:42:46.703Z"
 status: "active"
 ---
 

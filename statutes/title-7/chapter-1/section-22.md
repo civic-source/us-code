@@ -3,9 +3,9 @@ title: "Section 22 - Research and information programs; reports to Congress"
 usc_title: 7
 usc_section: "22"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 22"
-generated_at: "2026-03-30T06:36:14.417Z"
+generated_at: "2026-03-30T06:41:10.090Z"
 status: "active"
 ---
 

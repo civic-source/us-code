@@ -3,9 +3,9 @@ title: "Section 5088 - Renumbered § 5020]"
 usc_title: 10
 usc_section: "5088"
 chapter: 509
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 5088"
-generated_at: "2026-03-30T06:36:17.804Z"
+generated_at: "2026-03-30T06:41:20.501Z"
 status: "renumbered"
 ---
 

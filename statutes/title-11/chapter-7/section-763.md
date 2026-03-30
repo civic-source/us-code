@@ -3,9 +3,9 @@ title: "Section 763 - Treatment of accounts"
 usc_title: 11
 usc_section: "763"
 chapter: 7
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "11 U.S.C. § 763"
-generated_at: "2026-03-30T06:36:21.317Z"
+generated_at: "2026-03-30T06:41:23.471Z"
 status: "active"
 ---
 

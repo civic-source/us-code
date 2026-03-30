@@ -3,9 +3,9 @@ title: "Section 1253 - State programs"
 usc_title: 30
 usc_section: "1253"
 chapter: 25
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "30 U.S.C. § 1253"
-generated_at: "2026-03-30T06:36:57.579Z"
+generated_at: "2026-03-30T06:42:26.987Z"
 status: "active"
 ---
 

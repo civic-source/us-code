@@ -3,9 +3,9 @@ title: "Section 152407 - Provision and acceptance of support by Librarian of Con
 usc_title: 36
 usc_section: "152407"
 chapter: 1524
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "36 U.S.C. § 152407"
-generated_at: "2026-03-30T06:37:14.890Z"
+generated_at: "2026-03-30T06:42:41.325Z"
 status: "active"
 ---
 

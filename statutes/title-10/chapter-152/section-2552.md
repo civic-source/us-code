@@ -3,9 +3,9 @@ title: "Section 2552 - Equipment for instruction and practice: American National
 usc_title: 10
 usc_section: "2552"
 chapter: 152
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 2552"
-generated_at: "2026-03-30T06:36:17.782Z"
+generated_at: "2026-03-30T06:41:20.478Z"
 status: "active"
 ---
 

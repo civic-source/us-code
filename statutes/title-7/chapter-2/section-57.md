@@ -3,9 +3,9 @@ title: "Section 57 - Disposition of proceeds of sale of cotton and of copies of 
 usc_title: 7
 usc_section: "57"
 chapter: 2
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 57"
-generated_at: "2026-03-30T06:36:14.418Z"
+generated_at: "2026-03-30T06:41:10.092Z"
 status: "active"
 ---
 

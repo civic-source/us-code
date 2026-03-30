@@ -3,9 +3,9 @@ title: "Section 666 - Local hire"
 usc_title: 14
 usc_section: "666"
 chapter: 17
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "14 U.S.C. § 666"
-generated_at: "2026-03-30T06:36:20.034Z"
+generated_at: "2026-03-30T06:41:31.008Z"
 status: "active"
 ---
 

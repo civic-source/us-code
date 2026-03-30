@@ -3,9 +3,9 @@ title: "Section 570 - Ascertainment by Secretary of Agriculture of public lands 
 usc_title: 16
 usc_section: "570"
 chapter: 3
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 570"
-generated_at: "2026-03-30T06:36:34.777Z"
+generated_at: "2026-03-30T06:41:58.246Z"
 status: "active"
 ---
 

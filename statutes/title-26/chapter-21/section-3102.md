@@ -3,9 +3,9 @@ title: "Section 3102 - Deduction of tax from wages"
 usc_title: 26
 usc_section: "3102"
 chapter: 21
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 3102"
-generated_at: "2026-03-30T06:37:05.591Z"
+generated_at: "2026-03-30T06:42:33.853Z"
 status: "active"
 ---
 

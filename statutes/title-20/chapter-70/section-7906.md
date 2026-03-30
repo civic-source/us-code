@@ -3,9 +3,9 @@ title: "Section 7906 - Prohibited uses of funds"
 usc_title: 20
 usc_section: "7906"
 chapter: 70
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "20 U.S.C. § 7906"
-generated_at: "2026-03-30T06:36:38.221Z"
+generated_at: "2026-03-30T06:42:05.047Z"
 status: "active"
 ---
 

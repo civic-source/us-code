@@ -3,9 +3,9 @@ title: "Section 2651a - Organization of Department of State"
 usc_title: 22
 usc_section: "2651a"
 chapter: 38
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 2651a"
-generated_at: "2026-03-30T06:36:52.899Z"
+generated_at: "2026-03-30T06:42:24.569Z"
 status: "active"
 ---
 

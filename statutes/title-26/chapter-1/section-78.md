@@ -3,9 +3,9 @@ title: "Section 78 - Dividends received from certain foreign corporations by dom
 usc_title: 26
 usc_section: "78"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 78"
-generated_at: "2026-03-30T06:37:05.451Z"
+generated_at: "2026-03-30T06:42:33.716Z"
 status: "active"
 ---
 

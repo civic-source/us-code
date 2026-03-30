@@ -3,9 +3,9 @@ title: "Section 210 - Proceedings before Secretary for violations"
 usc_title: 7
 usc_section: "210"
 chapter: 9
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 210"
-generated_at: "2026-03-30T06:36:14.436Z"
+generated_at: "2026-03-30T06:41:10.109Z"
 status: "active"
 ---
 

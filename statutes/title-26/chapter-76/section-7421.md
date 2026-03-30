@@ -3,15 +3,15 @@ title: "Section 7421 - Prohibition of suits to restrain assessment or collection
 usc_title: 26
 usc_section: "7421"
 chapter: 76
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 7421"
-generated_at: "2026-03-30T06:37:05.659Z"
+generated_at: "2026-03-30T06:42:33.920Z"
 status: "active"
 ---
 
 # § 7421. Prohibition of suits to restrain assessment or collection
 
-- **(a)** Except as provided in sections 6015(e), 6212(a) and (c), 6213(a), 6225(b), 6246(b), 6330(e)(1), 6331(i), 6672(c), 6694(c), and 7426(a) and (b)(1), 7429(b), and 7436, no suit for the purpose of restraining the assessment or collection of any tax shall be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed.
+- **(a)** Except as provided in sections 6015(e), 6212(a) and (c), 6213(a), 6225(b), 6246(b), 6330(e)(1), 6331(i), 6672(c), 6694(c), 7426(a) and (b)(1), 7429(b), and 7436, no suit for the purpose of restraining the assessment or collection of any tax shall be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed.
 - **(b)** No suit shall be maintained in any court for the purpose of restraining the assessment or collection (pursuant to the provisions of chapter 71) of—
   - **(1)** the amount of the liability, at law or in equity, of a transferee of property of a taxpayer in respect of any internal revenue tax, or
   - **(2)** the amount of the liability of a fiduciary under section 3713(b) of title 31 , United States Code 1 1 So in original. Probably should be followed by a comma. in respect of any such tax.

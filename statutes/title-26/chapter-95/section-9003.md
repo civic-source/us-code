@@ -3,9 +3,9 @@ title: "Section 9003 - Condition for eligibility for payments"
 usc_title: 26
 usc_section: "9003"
 chapter: 95
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 9003"
-generated_at: "2026-03-30T06:37:05.674Z"
+generated_at: "2026-03-30T06:42:33.934Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(b)** In order to be eligible to receive any payments under section 9006, the candidates of a major party in a presidential election shall certify to the Commission, under penalty of perjury, that—
   - **(1)** such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which they will be entitled under section 9004, and
   - **(2)** no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(d), 1 1 So in original. Section 9006(d) redesignated 9006(c) by Pub. L. 94–283 . and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted by such candidates or any of their authorized committees.
-- **(c)** In order to be eligible to receive any payments under section 9006, the candidates of a minor or new party in a presidential election shall certify to the Commission under penalty of perjury, that—
+- **(c)** In order to be eligible to receive any payments under section 9006, the candidates of a minor or new party in a presidential election shall certify to the Commission, under penalty of perjury, that—
   - **(1)** such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004, and
   - **(2)** such candidates and their authorized committees will accept and expend or retain contributions to defray qualified campaign expenses only to the extent that the qualified campaign expenses incurred by such candidates and their authorized committees certified to under paragraph (1) exceed the aggregate payments received by such candidates out of the fund pursuant to section 9006.
 - **(d)** In any case in which an individual ceases to be a candidate as a result of the operation of the last sentence of section 9002(2), such individual—

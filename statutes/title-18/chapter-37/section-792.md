@@ -3,9 +3,9 @@ title: "Section 792 - Harboring or concealing persons"
 usc_title: 18
 usc_section: "792"
 chapter: 37
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "18 U.S.C. § 792"
-generated_at: "2026-03-30T06:36:30.539Z"
+generated_at: "2026-03-30T06:42:01.831Z"
 status: "active"
 ---
 

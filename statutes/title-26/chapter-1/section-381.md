@@ -3,9 +3,9 @@ title: "Section 381 - Carryovers in certain corporate acquisitions"
 usc_title: 26
 usc_section: "381"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 381"
-generated_at: "2026-03-30T06:37:05.487Z"
+generated_at: "2026-03-30T06:42:33.752Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(3)** The corporation acquiring property in a distribution or transfer described in subsection (a) shall not be entitled to carry back a net operating loss or a net capital loss for a taxable year ending after the date of distribution or transfer to a taxable year of the distributor or transferor corporation.
 - **(c)** The items referred to in subsection (a) are:
   - **(1)** The net operating loss carryovers determined under section 172, subject to the following conditions and limitations:
-    - **(A)** the taxable year of the acquiring corporation to which the net operating loss carryovers of the distributor or transferor corporation are first carried shall be the first taxable year ending after the date of distribution or transfer.
+    - **(A)** The taxable year of the acquiring corporation to which the net operating loss carryovers of the distributor or transferor corporation are first carried shall be the first taxable year ending after the date of distribution or transfer.
     - **(B)** In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
     - **(C)** For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
       - **(i)** such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the “pre-acquisition part year” and the “post-acquisition part year”);
@@ -42,7 +42,7 @@ status: "active"
   - **[(7)**
   - **(8)** If the acquiring corporation acquires installment obligations (the income from which the distributor or transferor corporation reports on the installment basis under section 453) the acquiring corporation shall, for purposes of section 453, be treated as if it were the distributor or transferor corporation.
   - **(9)** If the acquiring corporation assumes liability for bonds of the distributor or transferor corporation issued at a discount or premium, the acquiring corporation shall be treated as the distributor or transferor corporation after the date of distribution or transfer for purposes of determining the amount of amortization allowable or includible with respect to such discount or premium.
-  - **(10)** The acquiring corporation shall be entitled to deduct, if it were the distributor or transferor corporation, expenses deferred under section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected.
+  - **(10)** The acquiring corporation shall be entitled to deduct, as if it were the distributor or transferor corporation, expenses deferred under section 616 (relating to certain development expenditures) if the distributor or transferor corporation has so elected.
   - **(11)** The acquiring corporation shall be considered to be the distributor or transferor corporation after the date of distribution or transfer for the purpose of determining the amounts deductible under section 404 with respect to pension plans, employees’ annuity plans, and stock bonus and profit-sharing plans.
   - **(12)** If the acquiring corporation is entitled to the recovery of any amounts previously deducted by (or allowable as credits to) the distributor or transferor corporation, the acquiring corporation shall succeed to the treatment under section 111 which would apply to such amounts in the hands of the distributor or transferor corporation.
   - **(13)** The acquiring corporation shall be treated as the distributor or transferor corporation after the date of distribution or transfer for purposes of applying section 1033.

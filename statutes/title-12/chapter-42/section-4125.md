@@ -3,9 +3,9 @@ title: "Section 4125 - State preservation project assistance"
 usc_title: 12
 usc_section: "4125"
 chapter: 42
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "12 U.S.C. § 4125"
-generated_at: "2026-03-30T06:36:23.345Z"
+generated_at: "2026-03-30T06:41:27.513Z"
 status: "active"
 ---
 

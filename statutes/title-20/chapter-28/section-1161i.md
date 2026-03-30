@@ -3,9 +3,9 @@ title: "Section 1161i - Purpose"
 usc_title: 20
 usc_section: "1161i"
 chapter: 28
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "20 U.S.C. § 1161i"
-generated_at: "2026-03-30T06:36:38.158Z"
+generated_at: "2026-03-30T06:42:04.986Z"
 status: "active"
 ---
 

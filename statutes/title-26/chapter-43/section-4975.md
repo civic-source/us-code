@@ -3,9 +3,9 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-30T06:37:05.610Z"
+generated_at: "2026-03-30T06:42:33.872Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(B)** lending of money or other extension of credit between a plan and a disqualified person;
     - **(C)** furnishing of goods, services, or facilities between a plan and a disqualified person;
     - **(D)** transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a plan;
-    - **(E)** act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interests or for his own account; or
+    - **(E)** act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interest or for his own account; or
     - **(F)** receipt of any consideration for his own personal account by any disqualified person who is a fiduciary from any party dealing with the plan in connection with a transaction involving the income or assets of the plan.
   - **(2)** The Secretary shall establish an exemption procedure for purposes of this subsection. Pursuant to such procedure, he may grant a conditional or unconditional exemption of any disqualified person or transaction, orders of disqualified persons or transactions, from all or part of the restrictions imposed by paragraph (1) of this subsection. Action under this subparagraph may be taken only after consultation and coordination with the Secretary of Labor. The Secretary may not grant an exemption under this paragraph unless he finds that such exemption is—
     - **(A)** administratively feasible,
@@ -51,7 +51,7 @@ status: "active"
     - **(B)** the extent to which such ancillary service is provided is subject to specific guidelines issued by such bank or similar financial institution (as determined by the Secretary after consultation with Federal and State supervisory authority), and under such guidelines the bank or similar financial institution does not provide such ancillary service—
       - **(i)** in an excessive or unreasonable manner, and
       - **(ii)** in a manner that would be inconsistent with the best interests of participants and beneficiaries of employee benefit plans;
-  - **(7)** the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary but only if the plan receives no less than adequate consideration pursuant to such conversion;
+  - **(7)** the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receives no less than adequate consideration pursuant to such conversion;
   - **(8)** any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund of an insurance company qualified to do business in a State if—
     - **(A)** the transaction is a sale or purchase of an interest in the fund,
     - **(B)** the bank, trust company, or insurance company receives not more than a reasonable compensation, and

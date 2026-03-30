@@ -3,9 +3,9 @@ title: "Section 1733 - General provisions"
 usc_title: 7
 usc_section: "1733"
 chapter: 41
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 1733"
-generated_at: "2026-03-30T06:36:14.481Z"
+generated_at: "2026-03-30T06:41:10.153Z"
 status: "active"
 ---
 

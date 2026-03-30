@@ -3,9 +3,9 @@ title: "Section 23104 - Governing body"
 usc_title: 36
 usc_section: "23104"
 chapter: 231
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "36 U.S.C. § 23104"
-generated_at: "2026-03-30T06:37:14.881Z"
+generated_at: "2026-03-30T06:42:41.316Z"
 status: "active"
 ---
 

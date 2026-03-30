@@ -3,9 +3,9 @@ title: "Section 8572 - Rank: commissioned officers serving under temporary appoi
 usc_title: 10
 usc_section: "8572"
 chapter: 845
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 8572"
-generated_at: "2026-03-30T06:36:17.816Z"
+generated_at: "2026-03-30T06:41:20.514Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17 - Interagency cooperation and assistance"
 usc_title: 33
 usc_section: "17"
 chapter: 17
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "33 U.S.C. § 17"
-generated_at: "2026-03-30T06:37:11.903Z"
+generated_at: "2026-03-30T06:42:39.037Z"
 status: "active"
 ---
 

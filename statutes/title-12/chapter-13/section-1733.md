@@ -3,9 +3,9 @@ title: "Section 1733 - Application of other laws"
 usc_title: 12
 usc_section: "1733"
 chapter: 13
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "12 U.S.C. § 1733"
-generated_at: "2026-03-30T06:36:23.280Z"
+generated_at: "2026-03-30T06:41:27.448Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1388 - Definitions; special rules"
 usc_title: 26
 usc_section: "1388"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1388"
-generated_at: "2026-03-30T06:37:05.573Z"
+generated_at: "2026-03-30T06:42:33.837Z"
 status: "active"
 ---
 
@@ -71,5 +71,5 @@ status: "active"
     - **(C)** If the Secretary determines that an organization failed to provide sufficient notice under this paragraph—
       - **(i)** the Secretary shall notify such organization, and
       - **(ii)** such organization shall, upon receipt of such notification, provide to its patrons a revised notice meeting the requirements of this paragraph.
-  - **(4)** For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
+  - **(4)** For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means 1 1 So in original. Probably should be “mean”. earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
 - **(k)** For purposes of section 521 and this subchapter, the marketing of the products of members or other producers shall include the feeding of such products to cattle, hogs, fish, chickens, or other animals and the sale of the resulting animals or animal products.

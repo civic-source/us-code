@@ -3,9 +3,9 @@ title: "Section 164 - Taxes"
 usc_title: 26
 usc_section: "164"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 164"
-generated_at: "2026-03-30T06:37:05.465Z"
+generated_at: "2026-03-30T06:42:33.730Z"
 status: "active"
 ---
 
@@ -55,7 +55,7 @@ status: "active"
     - **(A)** so much of the real property tax as is properly allocable to that part of such year which ends on the day before the date of the sale shall be treated as a tax imposed on the seller, and
     - **(B)** so much of such tax as is properly allocable to that part of such year which begins on the date of the sale shall be treated as a tax imposed on the purchaser.
   - **(2)**
-    - **(A)** in the case of any sale of real property, if—
+    - **(A)** In the case of any sale of real property, if—
       - **(i)** a taxpayer may not, by reason of his method of accounting, deduct any amount for taxes unless paid, and
       - **(ii)** the other party to the sale is (under the law imposing the real property tax) liable for the real property tax for the real property tax year,
     - **(B)** In the case of any sale of real property, if the taxpayer’s taxable income for the taxable year during which the sale occurs is computed under an accrual method of accounting, and if no election under section 461(c) (relating to the accrual of real property taxes) applies, then, for purposes of subsection (a), that portion of such tax which—

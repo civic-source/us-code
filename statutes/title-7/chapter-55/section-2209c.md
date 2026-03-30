@@ -3,9 +3,9 @@ title: "Section 2209c - Use of funds for one-year contracts to be performed in t
 usc_title: 7
 usc_section: "2209c"
 chapter: 55
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 2209c"
-generated_at: "2026-03-30T06:36:14.512Z"
+generated_at: "2026-03-30T06:41:10.182Z"
 status: "active"
 ---
 

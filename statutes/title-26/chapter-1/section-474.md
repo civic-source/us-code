@@ -3,9 +3,9 @@ title: "Section 474 - Simplified dollar-value LIFO method for certain small busi
 usc_title: 26
 usc_section: "474"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 474"
-generated_at: "2026-03-30T06:37:05.518Z"
+generated_at: "2026-03-30T06:42:33.781Z"
 status: "active"
 ---
 

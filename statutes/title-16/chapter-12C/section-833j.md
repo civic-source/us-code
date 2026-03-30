@@ -3,9 +3,9 @@ title: "Section 833j - Suits for and against project; legal representation"
 usc_title: 16
 usc_section: "833j"
 chapter: 12
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 833j"
-generated_at: "2026-03-30T06:36:34.811Z"
+generated_at: "2026-03-30T06:41:58.280Z"
 status: "active"
 ---
 

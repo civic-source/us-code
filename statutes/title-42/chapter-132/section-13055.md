@@ -3,9 +3,9 @@ title: "Section 13055 - Repealed. Pub. L. 102–586 , § 2(i)(2), Nov. 4, 1992 ,
 usc_title: 42
 usc_section: "13055"
 chapter: 132
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 13055"
-generated_at: "2026-03-30T06:37:31.596Z"
+generated_at: "2026-03-30T06:43:01.542Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6201 - Congressional findings and declaration of purposes"
 usc_title: 22
 usc_section: "6201"
 chapter: 71
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 6201"
-generated_at: "2026-03-30T06:36:52.939Z"
+generated_at: "2026-03-30T06:42:24.611Z"
 status: "active"
 ---
 

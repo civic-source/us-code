@@ -3,9 +3,9 @@ title: "Section 154707 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "154707"
 chapter: 1547
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "36 U.S.C. § 154707"
-generated_at: "2026-03-30T06:37:14.892Z"
+generated_at: "2026-03-30T06:42:41.328Z"
 status: "active"
 ---
 

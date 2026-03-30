@@ -3,9 +3,9 @@ title: "Section 330d - Violation; penalty"
 usc_title: 15
 usc_section: "330d"
 chapter: 9
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "15 U.S.C. § 330d"
-generated_at: "2026-03-30T06:36:27.038Z"
+generated_at: "2026-03-30T06:41:45.259Z"
 status: "active"
 ---
 

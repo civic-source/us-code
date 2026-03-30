@@ -3,9 +3,9 @@ title: "Section 3670 - Scope of approval"
 usc_title: 38
 usc_section: "3670"
 chapter: 36
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "38 U.S.C. § 3670"
-generated_at: "2026-03-30T06:37:16.309Z"
+generated_at: "2026-03-30T06:42:42.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 731 - Effect on other laws"
 usc_title: 16
 usc_section: "731"
 chapter: 8
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 731"
-generated_at: "2026-03-30T06:36:34.794Z"
+generated_at: "2026-03-30T06:41:58.264Z"
 status: "active"
 ---
 

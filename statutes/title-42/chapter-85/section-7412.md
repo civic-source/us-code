@@ -3,9 +3,9 @@ title: "Section 7412 - Hazardous air pollutants"
 usc_title: 42
 usc_section: "7412"
 chapter: 85
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 7412"
-generated_at: "2026-03-30T06:37:31.476Z"
+generated_at: "2026-03-30T06:43:01.427Z"
 status: "active"
 ---
 

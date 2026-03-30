@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations for mitigating losses caused
 usc_title: 16
 usc_section: "3"
 chapter: 5
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T06:36:34.785Z"
+generated_at: "2026-03-30T06:41:58.254Z"
 status: "active"
 ---
 

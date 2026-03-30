@@ -3,9 +3,9 @@ title: "Section 40102 - Definitions"
 usc_title: 46
 usc_section: "40102"
 chapter: 401
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "46 U.S.C. § 40102"
-generated_at: "2026-03-30T06:37:35.152Z"
+generated_at: "2026-03-30T06:43:08.558Z"
 status: "active"
 ---
 

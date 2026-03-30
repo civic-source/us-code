@@ -3,9 +3,9 @@ title: "Section 8797 - Repealed. Pub. L. 96–513, title II , § 213, Dec. 12, 1
 usc_title: 10
 usc_section: "8797"
 chapter: 860
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 8797"
-generated_at: "2026-03-30T06:36:17.817Z"
+generated_at: "2026-03-30T06:41:20.514Z"
 status: "repealed"
 ---
 

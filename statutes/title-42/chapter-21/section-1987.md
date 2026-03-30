@@ -3,9 +3,9 @@ title: "Section 1987 - Prosecution of violation of certain laws"
 usc_title: 42
 usc_section: "1987"
 chapter: 21
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 1987"
-generated_at: "2026-03-30T06:37:31.345Z"
+generated_at: "2026-03-30T06:43:01.292Z"
 status: "active"
 ---
 

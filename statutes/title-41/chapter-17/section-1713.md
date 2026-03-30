@@ -3,9 +3,9 @@ title: "Section 1713 - Procurement data"
 usc_title: 41
 usc_section: "1713"
 chapter: 17
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "41 U.S.C. § 1713"
-generated_at: "2026-03-30T06:37:18.019Z"
+generated_at: "2026-03-30T06:42:44.966Z"
 status: "active"
 ---
 

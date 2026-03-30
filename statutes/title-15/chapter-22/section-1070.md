@@ -3,9 +3,9 @@ title: "Section 1070 - Appeals to Trademark Trial and Appeal Board from decision
 usc_title: 15
 usc_section: "1070"
 chapter: 22
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "15 U.S.C. § 1070"
-generated_at: "2026-03-30T06:36:27.074Z"
+generated_at: "2026-03-30T06:41:45.292Z"
 status: "active"
 ---
 

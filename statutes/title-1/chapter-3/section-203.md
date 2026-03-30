@@ -3,9 +3,9 @@ title: "Section 203 - District of Columbia Code; preparation and publication; cu
 usc_title: 1
 usc_section: "203"
 chapter: 3
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "1 U.S.C. § 203"
-generated_at: "2026-03-30T06:36:05.774Z"
+generated_at: "2026-03-30T06:40:36.483Z"
 status: "active"
 ---
 

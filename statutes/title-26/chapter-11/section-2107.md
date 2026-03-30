@@ -3,9 +3,9 @@ title: "Section 2107 - Expatriation to avoid tax"
 usc_title: 26
 usc_section: "2107"
 chapter: 11
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 2107"
-generated_at: "2026-03-30T06:37:05.587Z"
+generated_at: "2026-03-30T06:42:33.849Z"
 status: "active"
 ---
 

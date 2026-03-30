@@ -3,9 +3,9 @@ title: "Section 1704 - Preventive health services: annual report"
 usc_title: 38
 usc_section: "1704"
 chapter: 17
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "38 U.S.C. § 1704"
-generated_at: "2026-03-30T06:37:16.288Z"
+generated_at: "2026-03-30T06:42:42.825Z"
 status: "active"
 ---
 

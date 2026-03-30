@@ -3,9 +3,9 @@ title: "Section 4027 - Visiting Scholars Program"
 usc_title: 22
 usc_section: "4027"
 chapter: 52
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 4027"
-generated_at: "2026-03-30T06:36:52.920Z"
+generated_at: "2026-03-30T06:42:24.590Z"
 status: "active"
 ---
 

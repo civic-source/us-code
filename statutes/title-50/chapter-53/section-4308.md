@@ -3,9 +3,9 @@ title: "Section 4308 - Contracts, mortgages, or pledges against or with enemy or
 usc_title: 50
 usc_section: "4308"
 chapter: 53
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "50 U.S.C. § 4308"
-generated_at: "2026-03-30T06:37:40.101Z"
+generated_at: "2026-03-30T06:43:05.796Z"
 status: "active"
 ---
 

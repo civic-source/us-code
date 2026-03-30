@@ -3,9 +3,9 @@ title: "Section 7273c - Transferred"
 usc_title: 42
 usc_section: "7273c"
 chapter: 84
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 7273c"
-generated_at: "2026-03-30T06:37:31.469Z"
+generated_at: "2026-03-30T06:43:01.418Z"
 status: "transferred"
 ---
 

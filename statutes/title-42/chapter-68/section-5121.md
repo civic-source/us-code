@@ -3,9 +3,9 @@ title: "Section 5121 - Congressional findings and declarations"
 usc_title: 42
 usc_section: "5121"
 chapter: 68
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 5121"
-generated_at: "2026-03-30T06:37:31.416Z"
+generated_at: "2026-03-30T06:43:01.361Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1404 - Authorization of appropriations; revolving fund"
 usc_title: 12
 usc_section: "1404"
 chapter: 10
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "12 U.S.C. § 1404"
-generated_at: "2026-03-30T06:36:23.246Z"
+generated_at: "2026-03-30T06:41:27.416Z"
 status: "active"
 ---
 

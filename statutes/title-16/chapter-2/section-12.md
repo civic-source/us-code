@@ -3,9 +3,9 @@ title: "Section 12 - Authorization of appropriations"
 usc_title: 16
 usc_section: "12"
 chapter: 2
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-03-30T06:36:34.769Z"
+generated_at: "2026-03-30T06:41:58.239Z"
 status: "active"
 ---
 

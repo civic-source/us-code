@@ -3,9 +3,9 @@ title: "Section 1641o - Time limitation on completion of affairs of Commission"
 usc_title: 22
 usc_section: "1641o"
 chapter: 21
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 1641o"
-generated_at: "2026-03-30T06:36:52.867Z"
+generated_at: "2026-03-30T06:42:24.537Z"
 status: "active"
 ---
 

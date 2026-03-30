@@ -3,9 +3,9 @@ title: "Section 2813 - Testimony by Federal employees"
 usc_title: 25
 usc_section: "2813"
 chapter: 30
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "25 U.S.C. § 2813"
-generated_at: "2026-03-30T06:36:41.780Z"
+generated_at: "2026-03-30T06:42:19.872Z"
 status: "active"
 ---
 

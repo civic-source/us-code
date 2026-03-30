@@ -3,9 +3,9 @@ title: "Section 250a - Transfer of appropriations"
 usc_title: 42
 usc_section: "250a"
 chapter: 6
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 250a"
-generated_at: "2026-03-30T06:37:31.032Z"
+generated_at: "2026-03-30T06:43:00.963Z"
 status: "active"
 ---
 

@@ -3,15 +3,15 @@ title: "Section 1383 - Computation of tax where cooperative redeems nonqualified
 usc_title: 26
 usc_section: "1383"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1383"
-generated_at: "2026-03-30T06:37:05.573Z"
+generated_at: "2026-03-30T06:42:33.837Z"
 status: "active"
 ---
 
 # § 1383. Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates
 
-- **(a)** If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to an organization for the taxable year for amounts paid in redemption of nonqualified written notices of allocation or non-qualified per-unit retain certificates, then the tax imposed by this chapter on such organization for the taxable year shall be the lesser of the following:
+- **(a)** If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to an organization for the taxable year for amounts paid in redemption of nonqualified written notices of allocation or nonqualified per-unit retain certificates, then the tax imposed by this chapter on such organization for the taxable year shall be the lesser of the following:
   - **(1)** the tax for the taxable year computed with such deduction; or
   - **(2)** an amount equal to—
     - **(A)** the tax for the taxable year computed without such deduction, minus

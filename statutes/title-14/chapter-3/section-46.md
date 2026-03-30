@@ -3,9 +3,9 @@ title: "Section 46 - Retirement of Commandant"
 usc_title: 14
 usc_section: "46"
 chapter: 3
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "14 U.S.C. § 46"
-generated_at: "2026-03-30T06:36:20.027Z"
+generated_at: "2026-03-30T06:41:31.002Z"
 status: "active"
 ---
 

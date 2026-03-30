@@ -3,9 +3,9 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T06:37:05.515Z"
+generated_at: "2026-03-30T06:42:33.779Z"
 status: "active"
 ---
 
@@ -100,7 +100,7 @@ status: "active"
       - **(i)** the leasing of equipment which is section 1245 property, and
       - **(ii)** the purchasing, servicing, and selling of such equipment.
     - **(B)** The term “equipment leasing” does not include the leasing of master sound recordings, and other similar contractual arrangements with respect to tangible or intangible assets associated with literary, artistic, or musical properties.
-    - **(C)** The terms “controlled group of corporations” and “component members” have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
+    - **(C)** The terms “controlled group of corporations” and “component member” have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
   - **(7)**
     - **(A)** In the case of a taxpayer which is a qualified C corporation—
       - **(i)** each qualifying business carried on by such taxpayer shall be treated as a separate activity, and

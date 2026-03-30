@@ -3,9 +3,9 @@ title: "Section 5555 - Research and development program"
 usc_title: 42
 usc_section: "5555"
 chapter: 71
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 5555"
-generated_at: "2026-03-30T06:37:31.428Z"
+generated_at: "2026-03-30T06:43:01.374Z"
 status: "active"
 ---
 

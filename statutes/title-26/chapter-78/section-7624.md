@@ -3,9 +3,9 @@ title: "Section 7624 - Reimbursement to State and local law enforcement agencies
 usc_title: 26
 usc_section: "7624"
 chapter: 78
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 7624"
-generated_at: "2026-03-30T06:37:05.667Z"
+generated_at: "2026-03-30T06:42:33.928Z"
 status: "active"
 ---
 

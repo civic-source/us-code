@@ -3,9 +3,9 @@ title: "Section 2151n - Human rights and development assistance"
 usc_title: 22
 usc_section: "2151n"
 chapter: 32
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 2151n"
-generated_at: "2026-03-30T06:36:52.874Z"
+generated_at: "2026-03-30T06:42:24.544Z"
 status: "active"
 ---
 

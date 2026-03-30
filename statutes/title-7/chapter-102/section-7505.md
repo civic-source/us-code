@@ -3,9 +3,9 @@ title: "Section 7505 - Federal and State responsibilities"
 usc_title: 7
 usc_section: "7505"
 chapter: 102
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "7 U.S.C. § 7505"
-generated_at: "2026-03-30T06:36:14.565Z"
+generated_at: "2026-03-30T06:41:10.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 844 - Special loss carryover rules"
 usc_title: 26
 usc_section: "844"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 844"
-generated_at: "2026-03-30T06:37:05.538Z"
+generated_at: "2026-03-30T06:42:33.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T06:37:05.489Z"
+generated_at: "2026-03-30T06:42:33.754Z"
 status: "active"
 ---
 
@@ -293,7 +293,7 @@ status: "active"
   - **(6)** in the case of an employee who is a key employee, a separate account is established and maintained for such benefits payable to such employee (and his spouse and dependents) and such benefits (to the extent attributable to plan years beginning after March 31, 1984 , for which the employee is a key employee) are only payable to such employee (and his spouse and dependents) from such separate account.
 - **(i)** In the case of a trust forming part of a pension plan which has been determined by the Secretary to constitute a qualified trust under subsection (a) and to be exempt from taxation under section 501(a) for a period beginning after contributions were first made to or for such trust, if it is shown to the satisfaction of the Secretary that—
   - **(1)** such trust was created pursuant to a collective bargaining agreement between employee representatives and one or more employers,
-  - **(2)** any disbursements of contributions, made to or for such trust before the time as of which the Secretary or his delegate determined that the trust constituted a qualified trust, substantially complied with the terms of the trust, and the plan of which the trust is a part, as subsequently qualified, and
+  - **(2)** any disbursements of contributions, made to or for such trust before the time as of which the Secretary determined that the trust constituted a qualified trust, substantially complied with the terms of the trust, and the plan of which the trust is a part, as subsequently qualified, and
   - **(3)** before the time as of which the Secretary determined that the trust constitutes a qualified trust, the contributions to or for such trust were not used in a manner which would jeopardize the interests of its beneficiaries,
 - **[(j)**
 - **(k)**

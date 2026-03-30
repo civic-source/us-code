@@ -3,9 +3,9 @@ title: "Section 1124 - Research and development"
 usc_title: 30
 usc_section: "1124"
 chapter: 24
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "30 U.S.C. § 1124"
-generated_at: "2026-03-30T06:36:57.575Z"
+generated_at: "2026-03-30T06:42:26.983Z"
 status: "active"
 ---
 

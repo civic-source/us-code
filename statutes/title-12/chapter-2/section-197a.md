@@ -3,9 +3,9 @@ title: "Section 197a - Resumption of business by closed bank on consent of depos
 usc_title: 12
 usc_section: "197a"
 chapter: 2
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "12 U.S.C. § 197a"
-generated_at: "2026-03-30T06:36:23.231Z"
+generated_at: "2026-03-30T06:41:27.403Z"
 status: "active"
 ---
 

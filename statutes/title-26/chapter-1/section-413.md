@@ -3,9 +3,9 @@ title: "Section 413 - Collectively bargained plans, etc."
 usc_title: 26
 usc_section: "413"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 413"
-generated_at: "2026-03-30T06:37:05.499Z"
+generated_at: "2026-03-30T06:42:33.763Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(A)** first on the basis of their respective delinquencies in meeting required employer contributions under the plan, and
     - **(B)** then on the basis of their respective liabilities for contributions under the plan.
   - **(7)** Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who is a party to the agreement, for the portion of his taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a manner consistent with the manner in which actual employer contributions for such plan year are determined) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer’s contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
-  - **(8)** For purposes of this subsection, employees or employee representatives shall be treated as employees of an employer described in subsection (a)(1) if such representatives meet the requirements of sections 401(a)(4) and 410 with respect to such employees.
+  - **(8)** For purposes of this subsection, employees of employee representatives shall be treated as employees of an employer described in subsection (a)(1) if such representatives meet the requirements of sections 401(a)(4) and 410 with respect to such employees.
   - **(9)** Notwithstanding subsection (a), in the case of a plan (and trust forming part thereof) which covers any professional employee, paragraph (1) shall be applied by substituting “section 410(a)” for “section 410”, and paragraph (2) shall not apply.
 - **(c)** In the case of a plan maintained by more than one employer—
   - **(1)** Section 410(a) shall be applied as if all employees of each of the employers who maintain the plan were employed by a single employer.

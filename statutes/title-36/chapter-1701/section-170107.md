@@ -3,9 +3,9 @@ title: "Section 170107 - Headquarters and principal place of business"
 usc_title: 36
 usc_section: "170107"
 chapter: 1701
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "36 U.S.C. § 170107"
-generated_at: "2026-03-30T06:37:14.893Z"
+generated_at: "2026-03-30T06:42:41.328Z"
 status: "active"
 ---
 

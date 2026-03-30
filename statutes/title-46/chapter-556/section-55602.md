@@ -3,9 +3,9 @@ title: "Section 55602 - Cargo and shippers"
 usc_title: 46
 usc_section: "55602"
 chapter: 556
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "46 U.S.C. § 55602"
-generated_at: "2026-03-30T06:37:35.163Z"
+generated_at: "2026-03-30T06:43:08.568Z"
 status: "active"
 ---
 

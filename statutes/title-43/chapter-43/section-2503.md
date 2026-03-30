@@ -3,9 +3,9 @@ title: "Section 2503 - Patents surrendered and new ones issued"
 usc_title: 43
 usc_section: "2503"
 chapter: 43
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "43 U.S.C. § 2503"
-generated_at: "2026-03-30T06:37:18.916Z"
+generated_at: "2026-03-30T06:42:45.668Z"
 status: "active"
 ---
 

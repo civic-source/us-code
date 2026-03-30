@@ -3,9 +3,9 @@ title: "Section 425 - Application of certain commercial items authorities to cer
 usc_title: 6
 usc_section: "425"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "6 U.S.C. § 425"
-generated_at: "2026-03-30T06:36:11.234Z"
+generated_at: "2026-03-30T06:41:01.503Z"
 status: "active"
 ---
 

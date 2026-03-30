@@ -3,9 +3,9 @@ title: "Section 251i - Land acquisition of privately owned land; report to Congr
 usc_title: 16
 usc_section: "251i"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 251i"
-generated_at: "2026-03-30T06:36:34.690Z"
+generated_at: "2026-03-30T06:41:58.160Z"
 status: "active"
 ---
 

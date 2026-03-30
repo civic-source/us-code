@@ -3,9 +3,9 @@ title: "Section 6049 - Returns regarding payments of interest"
 usc_title: 26
 usc_section: "6049"
 chapter: 61
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 6049"
-generated_at: "2026-03-30T06:37:05.629Z"
+generated_at: "2026-03-30T06:42:33.891Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
       - **(ii)** a foreign central bank of issue,
       - **(iii)** a foreign corporation not engaged in a trade or business in the United States,
       - **(iv)** a foreign corporation, the interest payments of which would be exempt from withholding under subchapter A of chapter 3 if paid to a person who is not a United States person, or
-      - **(v)** a partnership not engaged in a trade or business in the United States and composed in whole of nonresident alien individuals and person described in clause (i), (ii), or (iii).
+      - **(v)** a partnership not engaged in a trade or business in the United States and composed in whole of nonresident alien individuals and persons described in clause (i), (ii), or (iii).
   - **(3)** If, within the United States, a United States person—
     - **(A)** collects interest (or otherwise acts as a middleman between the payor and payee) from a foreign person described in paragraph (2)(D) or collects interest from a United States person which is income from sources outside the United States for a second person who is a United States person, or
     - **(B)** makes payments of such interest to such second United States person,

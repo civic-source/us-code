@@ -3,9 +3,9 @@ title: "Section 51318 - Policy on sexual harassment and sexual assault"
 usc_title: 46
 usc_section: "51318"
 chapter: 513
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "46 U.S.C. § 51318"
-generated_at: "2026-03-30T06:37:35.156Z"
+generated_at: "2026-03-30T06:43:08.562Z"
 status: "active"
 ---
 

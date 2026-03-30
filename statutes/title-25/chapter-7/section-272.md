@@ -3,9 +3,9 @@ title: "Section 272 - Superintendent of Indian schools"
 usc_title: 25
 usc_section: "272"
 chapter: 7
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "25 U.S.C. § 272"
-generated_at: "2026-03-30T06:36:41.741Z"
+generated_at: "2026-03-30T06:42:19.833Z"
 status: "active"
 ---
 

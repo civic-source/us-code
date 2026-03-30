@@ -3,9 +3,9 @@ title: "Section 4115 - Collection of training information"
 usc_title: 5
 usc_section: "4115"
 chapter: 41
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "5 U.S.C. § 4115"
-generated_at: "2026-03-30T06:36:08.075Z"
+generated_at: "2026-03-30T06:40:59.218Z"
 status: "active"
 ---
 

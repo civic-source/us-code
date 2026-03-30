@@ -3,9 +3,9 @@ title: "Section 101937 - Savings provision"
 usc_title: 54
 usc_section: "101937"
 chapter: 1019
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "54 U.S.C. § 101937"
-generated_at: "2026-03-30T06:37:42.766Z"
+generated_at: "2026-03-30T06:43:10.706Z"
 status: "active"
 ---
 

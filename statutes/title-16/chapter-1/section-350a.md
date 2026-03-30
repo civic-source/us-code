@@ -3,9 +3,9 @@ title: "Section 350a - Repealed. Pub. L. 94–429 , § 3(c), Sept. 28, 1976 , 90
 usc_title: 16
 usc_section: "350a"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "16 U.S.C. § 350a"
-generated_at: "2026-03-30T06:36:34.693Z"
+generated_at: "2026-03-30T06:41:58.164Z"
 status: "repealed"
 ---
 

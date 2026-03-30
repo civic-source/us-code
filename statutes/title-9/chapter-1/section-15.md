@@ -3,9 +3,9 @@ title: "Section 15 - Inapplicability of the Act of State doctrine"
 usc_title: 9
 usc_section: "15"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "9 U.S.C. § 15"
-generated_at: "2026-03-30T06:36:10.291Z"
+generated_at: "2026-03-30T06:41:00.595Z"
 status: "active"
 ---
 

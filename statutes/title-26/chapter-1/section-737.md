@@ -3,9 +3,9 @@ title: "Section 737 - Recognition of precontribution gain in case of certain dis
 usc_title: 26
 usc_section: "737"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 737"
-generated_at: "2026-03-30T06:37:05.533Z"
+generated_at: "2026-03-30T06:42:33.796Z"
 status: "active"
 ---
 

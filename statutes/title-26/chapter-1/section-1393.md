@@ -3,9 +3,9 @@ title: "Section 1393 - Definitions and special rules"
 usc_title: 26
 usc_section: "1393"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1393"
-generated_at: "2026-03-30T06:37:05.574Z"
+generated_at: "2026-03-30T06:42:33.837Z"
 status: "active"
 ---
 
@@ -29,4 +29,4 @@ status: "active"
   - **(7)** If more than 1 State or local government seeks to nominate an area under this part, any reference to, or requirement of, this subchapter shall apply to all such governments.
   - **(8)** An area shall be treated as nominated by a State and a local government if it is nominated by an economic development corporation chartered by the State.
   - **(9)** Population and poverty rate shall be determined by the most recent decennial census data available.
-- **(b)** For purposes of this title, the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.
+- **(b)** For purposes of this title, 1 1 So in original. the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.

@@ -3,9 +3,9 @@ title: "Section 6151 - Time and place for paying tax shown on returns"
 usc_title: 26
 usc_section: "6151"
 chapter: 62
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 6151"
-generated_at: "2026-03-30T06:37:05.637Z"
+generated_at: "2026-03-30T06:42:33.898Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)**
   - **(1)** If the taxpayer elects under section 6014 not to show the tax on the return, the amount determined by the Secretary as payable shall be paid within 30 days after the mailing by the Secretary to the taxpayer of a notice stating such amount and making demand therefor.
   - **(2)** For authority of the Secretary to require payments to Government depositaries, see section 6302(c).
-- **(c)** In any case in which a tax is required to be paid on or before a certain date, or within a certain period, any reference in this title to the date fixed for payment of such tax shall be deemed a reference to the last day fixed for such payment (determined without regard to any extension of time for paying the tax.)
+- **(c)** In any case in which a tax is required to be paid on or before a certain date, or within a certain period, any reference in this title to the date fixed for payment of such tax shall be deemed a reference to the last day fixed for such payment (determined without regard to any extension of time for paying the tax).

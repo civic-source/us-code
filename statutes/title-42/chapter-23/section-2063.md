@@ -3,9 +3,9 @@ title: "Section 2063 - Acquisition of production facilities"
 usc_title: 42
 usc_section: "2063"
 chapter: 23
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 2063"
-generated_at: "2026-03-30T06:37:31.355Z"
+generated_at: "2026-03-30T06:43:01.302Z"
 status: "active"
 ---
 

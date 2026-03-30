@@ -3,9 +3,9 @@ title: "Section 954 - Foreign base company income"
 usc_title: 26
 usc_section: "954"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 954"
-generated_at: "2026-03-30T06:37:05.554Z"
+generated_at: "2026-03-30T06:42:33.818Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(B)** If the sum of the foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year exceeds 70 percent of gross income, the entire gross income for the taxable year shall, subject to the provisions of paragraphs (4) and (5), be treated as foreign base company income or insurance income (whichever is appropriate).
     - **(C)** For purposes of subparagraphs (A) and (B), the term “gross insurance income” means any item of gross income taken into account in determining insurance income under section 953.
   - **(4)** For purposes of subsection (a) and section 953, foreign base company income and insurance income shall not include any item of income received by a controlled foreign corporation if the taxpayer establishes to the satisfaction of the Secretary that such income was subject to an effective rate of income tax imposed by a foreign country greater than 90 percent of the maximum rate of tax specified in section 11. The preceding sentence shall not apply to foreign base company oil-related income described in subsection (a)(5).
-  - **(5)** For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, the foreign base company services income,, 1 1 So in original. and the foreign base company oil related income shall be reduced, under regulations prescribed by the Secretary so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
+  - **(5)** For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, the foreign base company services income,, 1 1 So in original. and the foreign base company oil related income shall be reduced, under regulations prescribed by the Secretary, so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
   - **(6)** Income of a corporation which is foreign base company oil related income shall not be considered foreign base company income of such corporation under paragraph (2), 2 2 So in original. The comma probably should not appear. or (3) of subsection (a).
 - **(c)**
   - **(1)** For purposes of subsection (a)(1), the term “foreign personal holding company income” means the portion of the gross income which consists of:

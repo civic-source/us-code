@@ -3,9 +3,9 @@ title: "Section 9357 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "9357"
 chapter: 903
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "10 U.S.C. § 9357"
-generated_at: "2026-03-30T06:36:17.819Z"
+generated_at: "2026-03-30T06:41:20.516Z"
 status: "active"
 ---
 

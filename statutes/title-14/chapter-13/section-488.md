@@ -3,9 +3,9 @@ title: "Section 488 - Advancement of public funds to personnel"
 usc_title: 14
 usc_section: "488"
 chapter: 13
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "14 U.S.C. § 488"
-generated_at: "2026-03-30T06:36:20.031Z"
+generated_at: "2026-03-30T06:41:31.005Z"
 status: "active"
 ---
 

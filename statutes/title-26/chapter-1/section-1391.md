@@ -3,9 +3,9 @@ title: "Section 1391 - Designation procedure"
 usc_title: 26
 usc_section: "1391"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 1391"
-generated_at: "2026-03-30T06:37:05.574Z"
+generated_at: "2026-03-30T06:42:33.837Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** From among the areas nominated for designation under this section, the appropriate Secretaries may designate empowerment zones and enterprise communities.
 - **(b)**
   - **(1)** The appropriate Secretaries may designate in the aggregate 95 nominated areas as enterprise communities under this section, subject to the availability of eligible nominated areas. Of that number, not more than 65 may be designated in urban areas and not more than 30 may be designated in rural areas.
-  - **(2)** The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 6 empowerment zones are designated in urban areas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
+  - **(2)** The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 8 empowerment zones are designated in urban areas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
 - **(c)** A designation may be made under subsection (a) only after 1993 and before 1996.
 - **(d)**
   - **(1)** Any designation under this section shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—

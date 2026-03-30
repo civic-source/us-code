@@ -3,9 +3,9 @@ title: "Section 1509 - Right of direct access"
 usc_title: 11
 usc_section: "1509"
 chapter: 15
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "11 U.S.C. § 1509"
-generated_at: "2026-03-30T06:36:21.322Z"
+generated_at: "2026-03-30T06:41:23.475Z"
 status: "active"
 ---
 

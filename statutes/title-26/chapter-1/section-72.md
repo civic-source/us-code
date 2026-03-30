@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-30T06:37:05.449Z"
+generated_at: "2026-03-30T06:42:33.714Z"
 status: "active"
 ---
 
@@ -171,7 +171,7 @@ status: "active"
   - **(3)**
     - **(A)** For purposes of this subsection, rules similar to the rules provided by subsection (p) (other than the exception contained in paragraph (2) thereof) shall apply.
     - **(B)** To the extent any amount of accumulated deductible employee contributions of an employee are applied to the purchase of life insurance contracts, such amount shall be treated as distributed to the employee in the year so applied.
-  - **(4)** For purposes of sections 402(c), 403(a)(4), and 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
+  - **(4)** For purposes of sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
   - **(5)** For purposes of this subsection—
     - **(A)** The term “deductible employee contributions” means any qualified voluntary employee contribution (as defined in section 219(e)(2)) made after December 31, 1981 , in a taxable year beginning after such date and made for a taxable year beginning before January 1, 1987 , and allowable as a deduction under section 219(a) for such taxable year.
     - **(B)** The term “accumulated deductible employee contributions” means the deductible employee contributions—
@@ -213,7 +213,7 @@ status: "active"
   - **(5)** For purposes of this subsection, any amount received as a loan under a contract purchased under a qualified employer plan (and any assignment or pledge with respect to such a contract) shall be treated as a loan under such employer plan.
 - **(q)**
   - **(1)** If any taxpayer receives any amount under an annuity contract, the taxpayer’s tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of such amount which is includible in gross income.
-  - **(2)** Paragraph 1 shall not apply to any distribution—
+  - **(2)** Paragraph (1) shall not apply to any distribution—
     - **(A)** made on or after the date on which the taxpayer attains age 59½,
     - **(B)** made on or after the death of the holder (or, where the holder is not an individual, the death of the primary annuitant (as defined in subsection (s)(6)(B))),
     - **(C)** attributable to the taxpayer’s becoming disabled within the meaning of subsection (m)(7),

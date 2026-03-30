@@ -3,9 +3,9 @@ title: "Section 6104 - Publicity of information required from certain exempt org
 usc_title: 26
 usc_section: "6104"
 chapter: 61
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 6104"
-generated_at: "2026-03-30T06:37:05.635Z"
+generated_at: "2026-03-30T06:42:33.896Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(B)** The Secretary shall make available the information required under subparagraph (A) not later than 5 business days after the Secretary receives a notice from a political organization under section 527(i).
 - **(b)** The information required to be furnished by sections 6033, 6034, and 6058, together with the names and addresses of such organizations and trusts, shall be made available to the public at such times and in such places as the Secretary may prescribe. Nothing in this subsection shall authorize the Secretary to disclose the name or address of any contributor to any organization or trust (other than a private foundation, as defined in section 509(a) or a political organization exempt from taxation under section 527) which is required to furnish such information. In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization. In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c). Any annual return which is filed under section 6011 by an organization described in section 501(c)(3) and which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) shall be treated for purposes of this subsection in the same manner as if furnished under section 6033.
 - **(c)**
-  - **(1)** In case of any organization which is described in section 501(c)(3) and exempt from taxation under section 501(a), or has applied under section 508(a) for recognition as an organization described in section 501(c)(3), the Secretary at such times and in such manner as he may by regulations prescribe shall—
+  - **(1)** In the case of any organization which is described in section 501(c)(3) and exempt from taxation under section 501(a), or has applied under section 508(a) for recognition as an organization described in section 501(c)(3), the Secretary at such times and in such manner as he may by regulations prescribe shall—
     - **(A)** notify the appropriate State officer of a refusal to recognize such organization as an organization described in section 501(c)(3), or of the operation of such organization in a manner which does not meet, or no longer meets, the requirements of its exemption,
     - **(B)** notify the appropriate State officer of the mailing of a notice of deficiency of tax imposed under section 507 or chapter 41 or 42, and
     - **(C)** at the request of such appropriate State officer, make available for inspection and copying such returns, filed statements, records, reports, and other information, relating to a determination under subparagraph (A) or (B) as are relevant to any determination under State law.

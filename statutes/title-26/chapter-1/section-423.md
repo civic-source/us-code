@@ -3,9 +3,9 @@ title: "Section 423 - Employee stock purchase plans"
 usc_title: 26
 usc_section: "423"
 chapter: 1
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 423"
-generated_at: "2026-03-30T06:37:05.505Z"
+generated_at: "2026-03-30T06:42:33.769Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(B)** an amount which under the terms of the option may not be less than 85 percent of the fair market value of the stock at the time such option is exercised;
   - **(7)** under the terms of the plan, such option cannot be exercised after the expiration of—
     - **(A)** 5 years from the date such option is granted if, under the terms of such plan, the option price is to be not less than 85 percent of the fair market value of such stock at the time of the exercise of the option, or
-    - **(B)** 27 months from the date such option is granted, if the option price is not determinable in the manner described in subparagraph (A)
+    - **(B)** 27 months from the date such option is granted, if the option price is not determinable in the manner described in subparagraph (A);
   - **(8)** under the terms of the plan, no employee may be granted an option which permits his rights to purchase stock under all such plans of his employer corporation and its parent and subsidiary corporations to accrue at a rate which exceeds $25,000 of fair market value of such stock (determined at the time such option is granted) for each calendar year in which such option is outstanding at any time. For purposes of this paragraph—
     - **(A)** the right to purchase stock under an option accrues when the option (or any portion thereof) first becomes exercisable during the calendar year;
     - **(B)** the right to purchase stock under an option accrues at the rate provided in the option, but in no case may such rate exceed $25,000 of fair market value of such stock (determined at the time such option is granted) for any one calendar year; and

@@ -3,9 +3,9 @@ title: "Section 1101 - Unauthorized fixation and trafficking in sound recordings
 usc_title: 17
 usc_section: "1101"
 chapter: 11
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "17 U.S.C. § 1101"
-generated_at: "2026-03-30T06:36:38.494Z"
+generated_at: "2026-03-30T06:41:47.265Z"
 status: "active"
 ---
 

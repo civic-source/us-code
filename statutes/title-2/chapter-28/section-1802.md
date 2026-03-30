@@ -3,9 +3,9 @@ title: "Section 1802 - Compensation"
 usc_title: 2
 usc_section: "1802"
 chapter: 28
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "2 U.S.C. § 1802"
-generated_at: "2026-03-30T06:36:08.975Z"
+generated_at: "2026-03-30T06:40:37.143Z"
 status: "active"
 ---
 

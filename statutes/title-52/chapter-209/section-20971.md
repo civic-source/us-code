@@ -3,9 +3,9 @@ title: "Section 20971 - Certification and testing of voting systems"
 usc_title: 52
 usc_section: "20971"
 chapter: 209
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "52 U.S.C. § 20971"
-generated_at: "2026-03-30T06:37:41.839Z"
+generated_at: "2026-03-30T06:43:10.282Z"
 status: "active"
 ---
 

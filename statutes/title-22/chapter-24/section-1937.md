@@ -3,9 +3,9 @@ title: "Section 1937 - Irish counterpart account; approval of disposition"
 usc_title: 22
 usc_section: "1937"
 chapter: 24
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "22 U.S.C. § 1937"
-generated_at: "2026-03-30T06:36:52.869Z"
+generated_at: "2026-03-30T06:42:24.539Z"
 status: "active"
 ---
 

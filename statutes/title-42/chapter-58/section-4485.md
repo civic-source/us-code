@@ -3,9 +3,9 @@ title: "Section 4485 - Repealed. Pub. L. 93–288, title VII , § 703, formerly 
 usc_title: 42
 usc_section: "4485"
 chapter: 58
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 4485"
-generated_at: "2026-03-30T06:37:31.402Z"
+generated_at: "2026-03-30T06:43:01.350Z"
 status: "repealed"
 ---
 

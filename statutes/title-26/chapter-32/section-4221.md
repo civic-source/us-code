@@ -3,9 +3,9 @@ title: "Section 4221 - Certain tax-free sales"
 usc_title: 26
 usc_section: "4221"
 chapter: 32
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 4221"
-generated_at: "2026-03-30T06:37:05.601Z"
+generated_at: "2026-03-30T06:42:33.863Z"
 status: "active"
 ---
 
@@ -45,6 +45,6 @@ status: "active"
     - **(A)** Under regulations prescribed by the Secretary, no tax shall be imposed under section 4071 on the sale by the manufacturer of a tire if—
       - **(i)** such tire is sold for use by the purchaser for sale on or in connection with the sale of another article manufactured or produced by such purchaser; and
       - **(ii)** such other article is to be sold by such purchaser in a sale which either will satisfy the requirements of paragraph (2), (3), (4), or (5) of subsection (a) for a tax-free sale, or would satisfy such requirements but for the fact that such other article is not subject to tax under this chapter.
-    - **(B)** Where a tire has been sold free of tax under this paragraph, this paragraph shall cease to apply unless, within the 6-moth period which begins on the date of the sale by him (or, if earlier on the date of the shipment by him), the manufacturer of such tire receives proof that the other article referred to in clause (ii) of subparagraph (A) has been sold in a manner which satisfies the requirements of such clause (ii) (including in the case of a sale for export, proof of export of such other article).
+    - **(B)** Where a tire has been sold free of tax under this paragraph, this paragraph shall cease to apply unless, within the 6-month period which begins on the date of the sale by him (or, if earlier, on the date of the shipment by him), the manufacturer of such tire receives proof that the other article referred to in clause (ii) of subparagraph (A) has been sold in a manner which satisfies the requirements of such clause (ii) (including in the case of a sale for export, proof of export of such other article).
     - **(C)** Paragraph (1) of subsection (a) shall not apply with respect to the tax imposed under section 4071 on the sale of a tire.
   - **(3)** Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use by the purchaser on or in connection with a qualified bus.

@@ -3,9 +3,9 @@ title: "Section 1542 - False statement in application and use of passport"
 usc_title: 18
 usc_section: "1542"
 chapter: 75
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "18 U.S.C. § 1542"
-generated_at: "2026-03-30T06:36:30.551Z"
+generated_at: "2026-03-30T06:42:01.845Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 694a - Definitions"
 usc_title: 15
 usc_section: "694a"
 chapter: 14
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "15 U.S.C. § 694a"
-generated_at: "2026-03-30T06:36:27.061Z"
+generated_at: "2026-03-30T06:41:45.280Z"
 status: "active"
 ---
 

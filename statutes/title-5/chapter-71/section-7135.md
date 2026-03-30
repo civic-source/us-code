@@ -3,9 +3,9 @@ title: "Section 7135 - Continuation of existing laws, recognitions, agreements, 
 usc_title: 5
 usc_section: "7135"
 chapter: 71
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "5 U.S.C. § 7135"
-generated_at: "2026-03-30T06:36:08.093Z"
+generated_at: "2026-03-30T06:40:59.236Z"
 status: "active"
 ---
 

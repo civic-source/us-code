@@ -3,9 +3,9 @@ title: "Section 7448 - Annuities to surviving spouses and dependent children of 
 usc_title: 26
 usc_section: "7448"
 chapter: 76
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 7448"
-generated_at: "2026-03-30T06:37:05.662Z"
+generated_at: "2026-03-30T06:42:33.923Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
     - **(B)** the right of all persons entitled to annuity under subsection (h) based on the service of such judge or special trial judge shall terminate before a valid claim therefor shall have been established,
       - **(i)** to the beneficiary or beneficiaries whom the judge or special trial judge may have designated by a writing filed prior to his death with the chief judge, except that in the case of the chief judge such designation shall be by a writing filed by him, prior to his death, as prescribed by the Tax Court;
       - **(ii)** if there be no such beneficiary, to the surviving spouse of such judge or special trial judge;
-      - **(iii)** if none of the above, to the child or children of such judge or special trial judge and the descendents of any deceased children by representation;
+      - **(iii)** if none of the above, to the child or children of such judge or special trial judge and the descendants of any deceased children by representation;
       - **(iv)** if none of the above, to the parents of such judge or special trial judge or the survivor of them;
       - **(v)** if none of the above, to the duly appointed executor or administrator of the estate of such judge or special trial judge; and
       - **(vi)** if none of the above, to such other next of kin of such judge or special trial judge as may be determined by the chief judge to be entitled under the laws of the domicile of such judge or special trial judge at the time of his death.

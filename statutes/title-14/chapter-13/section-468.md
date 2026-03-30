@@ -3,9 +3,9 @@ title: "Section 468 - Procurement of personnel"
 usc_title: 14
 usc_section: "468"
 chapter: 13
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "14 U.S.C. § 468"
-generated_at: "2026-03-30T06:36:20.031Z"
+generated_at: "2026-03-30T06:41:31.004Z"
 status: "active"
 ---
 

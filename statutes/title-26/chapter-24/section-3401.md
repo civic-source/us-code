@@ -3,9 +3,9 @@ title: "Section 3401 - Definitions"
 usc_title: 26
 usc_section: "3401"
 chapter: 24
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "26 U.S.C. § 3401"
-generated_at: "2026-03-30T06:37:05.596Z"
+generated_at: "2026-03-30T06:42:33.858Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
   - **(21)** for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); 2
   - **(22)** any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d); or
   - **(23)** for any benefit or payment which is excludable from the gross income of the employee under section 139B(b).
-- **(b)** For purposes of this chapter, the term “payroll period” means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term “miscellaneous payroll period” means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual or annual payroll period.
+- **(b)** For purposes of this chapter, the term “payroll period” means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term “miscellaneous payroll period” means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual, or annual payroll period.
 - **(c)** For purposes of this chapter, the term “employee” includes an officer, employee, or elected official of the United States, a State, or any political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing. The term “employee” also includes an officer of a corporation.
 - **(d)** For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
   - **(1)** if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and

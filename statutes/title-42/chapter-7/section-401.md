@@ -3,9 +3,9 @@ title: "Section 401 - Trust Funds"
 usc_title: 42
 usc_section: "401"
 chapter: 7
-current_through: "PL 115-57"
+current_through: "PL 115-61"
 classification: "42 U.S.C. § 401"
-generated_at: "2026-03-30T06:37:31.138Z"
+generated_at: "2026-03-30T06:43:01.080Z"
 status: "active"
 ---
 
