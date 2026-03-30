@@ -3,9 +3,9 @@ title: "Section 49110 - Use of Dulles Airport Access Highway"
 usc_title: 49
 usc_section: "49110"
 chapter: 491
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 49110"
-generated_at: "2026-03-30T02:37:41.922Z"
+generated_at: "2026-03-30T02:41:31.883Z"
 ---
 
 # § 49110. Use of Dulles Airport Access Highway

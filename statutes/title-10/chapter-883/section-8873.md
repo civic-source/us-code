@@ -3,9 +3,9 @@ title: "Section 8873 - Allowance of expenses to marshals"
 usc_title: 10
 usc_section: "8873"
 chapter: 883
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 8873"
-generated_at: "2026-03-30T02:34:13.827Z"
+generated_at: "2026-03-30T02:38:38.528Z"
 ---
 
 # § 8873. Allowance of expenses to marshals

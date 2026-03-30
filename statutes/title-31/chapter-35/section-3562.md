@@ -3,9 +3,9 @@ title: "Section 3562 - Disposition of recovered funds"
 usc_title: 31
 usc_section: "3562"
 chapter: 35
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "31 U.S.C. § 3562"
-generated_at: "2026-03-30T02:36:03.814Z"
+generated_at: "2026-03-30T02:40:13.385Z"
 ---
 
 # § 3562. Disposition of recovered funds

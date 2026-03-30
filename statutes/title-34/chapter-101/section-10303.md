@@ -3,9 +3,9 @@ title: "Section 10303 - Applications; approval"
 usc_title: 34
 usc_section: "10303"
 chapter: 101
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 10303"
-generated_at: "2026-03-30T02:35:57.217Z"
+generated_at: "2026-03-30T02:40:15.406Z"
 ---
 
 # § 10303. Applications; approval

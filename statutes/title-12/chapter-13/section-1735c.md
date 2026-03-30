@@ -3,9 +3,9 @@ title: "Section 1735c - General Insurance Fund"
 usc_title: 12
 usc_section: "1735c"
 chapter: 13
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 1735c"
-generated_at: "2026-03-30T02:34:45.388Z"
+generated_at: "2026-03-30T02:38:50.969Z"
 ---
 
 # § 1735c. General Insurance Fund

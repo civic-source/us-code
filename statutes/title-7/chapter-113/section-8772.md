@@ -3,9 +3,9 @@ title: "Section 8772 - Dairy forward pricing program"
 usc_title: 7
 usc_section: "8772"
 chapter: 113
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 8772"
-generated_at: "2026-03-30T02:34:02.580Z"
+generated_at: "2026-03-30T02:38:22.747Z"
 ---
 
 # § 8772. Dairy forward pricing program
@@ -27,4 +27,4 @@ generated_at: "2026-03-30T02:34:02.580Z"
     - **(B)** If the Secretary finds evidence of coercion, the Secretary shall take appropriate action.
 - **(e)**
   - **(1)** No forward price contract may be entered into under the program established under this section after September 30, 2023 .
-  - **(2)** No forward contract entered into under the program may extend beyond September 30, 2028 .
+  - **(2)** No forward contract entered into under the program may extend beyond September 30, 2029 .

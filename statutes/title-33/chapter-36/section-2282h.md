@@ -3,9 +3,9 @@ title: "Section 2282h - Economic, hydraulic, and hydrologic modeling"
 usc_title: 33
 usc_section: "2282h"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 2282h"
-generated_at: "2026-03-30T02:36:02.599Z"
+generated_at: "2026-03-30T02:40:17.709Z"
 ---
 
 # § 2282h. Economic, hydraulic, and hydrologic modeling

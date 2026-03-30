@@ -3,9 +3,9 @@ title: "Section 2270 - Subsurface drain systems research and development"
 usc_title: 33
 usc_section: "2270"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 2270"
-generated_at: "2026-03-30T02:36:02.595Z"
+generated_at: "2026-03-30T02:40:17.707Z"
 ---
 
 # § 2270. Subsurface drain systems research and development

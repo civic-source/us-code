@@ -3,9 +3,9 @@ title: "Section 1363 - Buildings or property within special maritime and territo
 usc_title: 18
 usc_section: "1363"
 chapter: 65
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 1363"
-generated_at: "2026-03-30T02:34:54.277Z"
+generated_at: "2026-03-30T02:39:19.645Z"
 ---
 
 # § 1363. Buildings or property within special maritime and territorial jurisdiction

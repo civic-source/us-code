@@ -3,9 +3,9 @@ title: "Section 16318 - Fission and fusion energy materials research program"
 usc_title: 42
 usc_section: "16318"
 chapter: 149
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 16318"
-generated_at: "2026-03-30T02:37:28.207Z"
+generated_at: "2026-03-30T02:41:05.787Z"
 ---
 
 # § 16318. Fission and fusion energy materials research program

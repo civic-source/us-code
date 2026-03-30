@@ -3,9 +3,9 @@ title: "Section 100906 - Advisory committees"
 usc_title: 54
 usc_section: "100906"
 chapter: 1009
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "54 U.S.C. § 100906"
-generated_at: "2026-03-30T02:37:47.162Z"
+generated_at: "2026-03-30T02:41:39.894Z"
 ---
 
 # § 100906. Advisory committees

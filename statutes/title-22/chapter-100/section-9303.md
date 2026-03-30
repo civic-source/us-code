@@ -3,9 +3,9 @@ title: "Section 9303 - Definitions"
 usc_title: 22
 usc_section: "9303"
 chapter: 100
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 9303"
-generated_at: "2026-03-30T02:35:21.575Z"
+generated_at: "2026-03-30T02:39:30.732Z"
 ---
 
 # § 9303. Definitions

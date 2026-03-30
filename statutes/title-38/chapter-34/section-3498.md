@@ -3,9 +3,9 @@ title: "Section 3498 - Vacant]"
 usc_title: 38
 usc_section: "3498"
 chapter: 34
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 3498"
-generated_at: "2026-03-30T02:36:12.633Z"
+generated_at: "2026-03-30T02:40:27.237Z"
 ---
 
 # [§§ 3495 to 3498. Vacant]

@@ -3,9 +3,9 @@ title: "Section 628 - Special selection boards"
 usc_title: 10
 usc_section: "628"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 628"
-generated_at: "2026-03-30T02:34:13.636Z"
+generated_at: "2026-03-30T02:38:38.348Z"
 ---
 
 # § 628. Special selection boards

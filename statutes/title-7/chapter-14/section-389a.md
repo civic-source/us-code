@@ -3,9 +3,9 @@ title: "Section 389a - Conditions of transfer of dry land and irrigation field s
 usc_title: 7
 usc_section: "389a"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 389a"
-generated_at: "2026-03-30T02:34:02.253Z"
+generated_at: "2026-03-30T02:38:22.526Z"
 ---
 
 # § 389a. Conditions of transfer of dry land and irrigation field stations; reservation of mineral rights

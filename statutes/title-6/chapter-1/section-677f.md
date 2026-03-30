@@ -3,9 +3,9 @@ title: "Section 677f - Authorization of appropriations"
 usc_title: 6
 usc_section: "677f"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 677f"
-generated_at: "2026-03-30T02:33:52.958Z"
+generated_at: "2026-03-30T02:38:13.754Z"
 ---
 
 # § 677f. Authorization of appropriations

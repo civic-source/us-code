@@ -3,9 +3,9 @@ title: "Section 1951 - Purpose"
 usc_title: 33
 usc_section: "1951"
 chapter: 33
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 1951"
-generated_at: "2026-03-30T02:36:02.587Z"
+generated_at: "2026-03-30T02:40:17.698Z"
 ---
 
 # § 1951. Purpose

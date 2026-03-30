@@ -3,9 +3,9 @@ title: "Section 302 - Policy standards for transportation"
 usc_title: 49
 usc_section: "302"
 chapter: 3
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 302"
-generated_at: "2026-03-30T02:37:41.758Z"
+generated_at: "2026-03-30T02:41:31.746Z"
 ---
 
 # § 302. Policy standards for transportation

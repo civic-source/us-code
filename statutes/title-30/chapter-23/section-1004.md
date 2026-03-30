@@ -3,9 +3,9 @@ title: "Section 1004 - Rents and royalties"
 usc_title: 30
 usc_section: "1004"
 chapter: 23
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "30 U.S.C. § 1004"
-generated_at: "2026-03-30T02:35:34.728Z"
+generated_at: "2026-03-30T02:39:47.438Z"
 ---
 
 # § 1004. Rents and royalties

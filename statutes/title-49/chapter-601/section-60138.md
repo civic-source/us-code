@@ -3,9 +3,9 @@ title: "Section 60138 - Response plans"
 usc_title: 49
 usc_section: "60138"
 chapter: 601
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 60138"
-generated_at: "2026-03-30T02:37:41.928Z"
+generated_at: "2026-03-30T02:41:31.890Z"
 ---
 
 # § 60138. Response plans

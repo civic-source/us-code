@@ -3,9 +3,9 @@ title: "Section 9214 - Designation of persons"
 usc_title: 22
 usc_section: "9214"
 chapter: 99
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 9214"
-generated_at: "2026-03-30T02:35:21.572Z"
+generated_at: "2026-03-30T02:39:30.730Z"
 ---
 
 # § 9214. Designation of persons

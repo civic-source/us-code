@@ -3,9 +3,9 @@ title: "Section 1744 - Recordation of mining claims"
 usc_title: 43
 usc_section: "1744"
 chapter: 35
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 1744"
-generated_at: "2026-03-30T02:36:16.902Z"
+generated_at: "2026-03-30T02:40:30.295Z"
 ---
 
 # § 1744. Recordation of mining claims

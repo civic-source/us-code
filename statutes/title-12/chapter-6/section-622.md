@@ -3,9 +3,9 @@ title: "Section 622 - Forfeiture of rights and privileges; dissolution; liabilit
 usc_title: 12
 usc_section: "622"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 622"
-generated_at: "2026-03-30T02:34:45.317Z"
+generated_at: "2026-03-30T02:38:50.914Z"
 ---
 
 # § 622. Forfeiture of rights and privileges; dissolution; liability of directors and officers

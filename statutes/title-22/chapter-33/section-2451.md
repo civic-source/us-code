@@ -3,9 +3,9 @@ title: "Section 2451 - Congressional statement of purpose"
 usc_title: 22
 usc_section: "2451"
 chapter: 33
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2451"
-generated_at: "2026-03-30T02:35:21.431Z"
+generated_at: "2026-03-30T02:39:30.620Z"
 ---
 
 # § 2451. Congressional statement of purpose

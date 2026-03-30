@@ -3,9 +3,9 @@ title: "Section 5371 - Annual budget list"
 usc_title: 25
 usc_section: "5371"
 chapter: 46
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 5371"
-generated_at: "2026-03-30T02:35:15.245Z"
+generated_at: "2026-03-30T02:39:26.302Z"
 ---
 
 # § 5371. Annual budget list

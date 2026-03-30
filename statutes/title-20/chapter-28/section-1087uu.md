@@ -3,9 +3,9 @@ title: "Section 1087uu - Disregard of student aid in other programs"
 usc_title: 20
 usc_section: "1087uu"
 chapter: 28
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 1087uu"
-generated_at: "2026-03-30T02:35:09.508Z"
+generated_at: "2026-03-30T02:39:22.294Z"
 ---
 
 # § 1087uu. Disregard of student aid in other programs

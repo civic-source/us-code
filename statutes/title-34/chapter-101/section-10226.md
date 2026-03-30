@@ -3,9 +3,9 @@ title: "Section 10226 - Personnel and administrative authority"
 usc_title: 34
 usc_section: "10226"
 chapter: 101
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 10226"
-generated_at: "2026-03-30T02:35:57.214Z"
+generated_at: "2026-03-30T02:40:15.401Z"
 ---
 
 # § 10226. Personnel and administrative authority

@@ -3,9 +3,9 @@ title: "Section 9060 - Reports"
 usc_title: 15
 usc_section: "9060"
 chapter: 116
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 9060"
-generated_at: "2026-03-30T02:34:49.215Z"
+generated_at: "2026-03-30T02:38:47.905Z"
 ---
 
 # § 9060. Reports

@@ -3,9 +3,9 @@ title: "Section 1385 - Use of Army, Navy, Marine Corps, Air Force, and Space For
 usc_title: 18
 usc_section: "1385"
 chapter: 67
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 1385"
-generated_at: "2026-03-30T02:34:54.278Z"
+generated_at: "2026-03-30T02:39:19.645Z"
 ---
 
 # § 1385. Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus

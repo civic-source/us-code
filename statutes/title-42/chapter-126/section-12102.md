@@ -3,9 +3,9 @@ title: "Section 12102 - Definition of disability"
 usc_title: 42
 usc_section: "12102"
 chapter: 126
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 12102"
-generated_at: "2026-03-30T02:37:28.111Z"
+generated_at: "2026-03-30T02:41:05.689Z"
 ---
 
 # § 12102. Definition of disability

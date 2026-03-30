@@ -3,9 +3,9 @@ title: "Section 1543 - Forgery or false use of passport"
 usc_title: 18
 usc_section: "1543"
 chapter: 75
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 1543"
-generated_at: "2026-03-30T02:34:54.282Z"
+generated_at: "2026-03-30T02:39:19.649Z"
 ---
 
 # § 1543. Forgery or false use of passport

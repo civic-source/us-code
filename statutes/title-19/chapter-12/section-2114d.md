@@ -3,9 +3,9 @@ title: "Section 2114d - Foreign export requirements; consultations and negotiati
 usc_title: 19
 usc_section: "2114d"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 2114d"
-generated_at: "2026-03-30T02:34:56.445Z"
+generated_at: "2026-03-30T02:39:13.441Z"
 ---
 
 # § 2114d. Foreign export requirements; consultations and negotiations for reduction and elimination; restrictions on and exclusion from entry of products or services; savings provision; compensation authority applicable

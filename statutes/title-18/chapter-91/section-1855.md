@@ -3,9 +3,9 @@ title: "Section 1855 - Timber set afire"
 usc_title: 18
 usc_section: "1855"
 chapter: 91
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 1855"
-generated_at: "2026-03-30T02:34:54.289Z"
+generated_at: "2026-03-30T02:39:19.654Z"
 ---
 
 # § 1855. Timber set afire

@@ -3,9 +3,9 @@ title: "Section 15092 - Definitions and special rule"
 usc_title: 42
 usc_section: "15092"
 chapter: 144
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 15092"
-generated_at: "2026-03-30T02:37:28.176Z"
+generated_at: "2026-03-30T02:41:05.754Z"
 ---
 
 # § 15092. Definitions and special rule

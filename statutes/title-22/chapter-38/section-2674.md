@@ -3,9 +3,9 @@ title: "Section 2674 - Availability of exchange allowances or proceeds derived f
 usc_title: 22
 usc_section: "2674"
 chapter: 38
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2674"
-generated_at: "2026-03-30T02:35:21.444Z"
+generated_at: "2026-03-30T02:39:30.630Z"
 ---
 
 # § 2674. Availability of exchange allowances or proceeds derived from exchange or sale of motor vehicles

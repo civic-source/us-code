@@ -3,9 +3,9 @@ title: "Section 984 - General powers of Corporation"
 usc_title: 33
 usc_section: "984"
 chapter: 19
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 984"
-generated_at: "2026-03-30T02:36:02.540Z"
+generated_at: "2026-03-30T02:40:17.655Z"
 ---
 
 # § 984. General powers of Corporation

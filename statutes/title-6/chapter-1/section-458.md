@@ -3,9 +3,9 @@ title: "Section 458 - Office of Counternarcotics Enforcement"
 usc_title: 6
 usc_section: "458"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 458"
-generated_at: "2026-03-30T02:33:52.935Z"
+generated_at: "2026-03-30T02:38:13.733Z"
 ---
 
 # § 458. Office of Counternarcotics Enforcement

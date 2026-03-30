@@ -3,9 +3,9 @@ title: "Section 4206 - Grants, contracts, etc., authority"
 usc_title: 7
 usc_section: "4206"
 chapter: 73
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 4206"
-generated_at: "2026-03-30T02:34:02.456Z"
+generated_at: "2026-03-30T02:38:22.664Z"
 ---
 
 # § 4206. Grants, contracts, etc., authority

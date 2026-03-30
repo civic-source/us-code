@@ -3,9 +3,9 @@ title: "Section 4903 - Federal programs"
 usc_title: 42
 usc_section: "4903"
 chapter: 65
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 4903"
-generated_at: "2026-03-30T02:37:27.857Z"
+generated_at: "2026-03-30T02:41:05.434Z"
 ---
 
 # § 4903. Federal programs

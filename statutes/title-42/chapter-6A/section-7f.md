@@ -3,9 +3,9 @@ title: "Section 7f - Collaboration and coordination"
 usc_title: 42
 usc_section: "7f"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T02:37:27.180Z"
+generated_at: "2026-03-30T02:41:04.773Z"
 ---
 
 # § 247d–7f. Collaboration and coordination
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T02:37:27.180Z"
   - **(6)** Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act ( 15 U.S.C. 1311 et seq.).
   - **(7)** The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
   - **(8)** Not later than one year after the date of enactment of this Act 1 1 See References in Text note below. and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
-- **(b)** The applicability of this section shall expire after September 30, 2025 .
+- **(b)** The applicability of this section shall expire after January 30, 2026 .
 - **(c)** In this section:
   - **(1)** The term “antitrust laws”—
     - **(A)** has the meaning given such term in subsection (a) of section 12 of title 15 , except that such term includes section 45 of title 15 to the extent such section 45 of title 15 applies to unfair methods of competition; and

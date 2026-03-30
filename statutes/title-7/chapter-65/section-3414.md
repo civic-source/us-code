@@ -3,9 +3,9 @@ title: "Section 3414 - Other programs relating to wheat or wheat food research o
 usc_title: 7
 usc_section: "3414"
 chapter: 65
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 3414"
-generated_at: "2026-03-30T02:34:02.448Z"
+generated_at: "2026-03-30T02:38:22.661Z"
 ---
 
 # § 3414. Other programs relating to wheat or wheat food research or nutrition education

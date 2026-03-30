@@ -3,9 +3,9 @@ title: "Section 16983 - Transferred"
 usc_title: 42
 usc_section: "16983"
 chapter: 151
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 16983"
-generated_at: "2026-03-30T02:37:28.219Z"
+generated_at: "2026-03-30T02:41:05.799Z"
 ---
 
 # § 16983. Transferred

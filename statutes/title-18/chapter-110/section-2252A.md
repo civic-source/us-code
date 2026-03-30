@@ -3,9 +3,9 @@ title: "Section 2252A - Certain activities relating to material constituting or 
 usc_title: 18
 usc_section: "2252A"
 chapter: 110
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 2252A"
-generated_at: "2026-03-30T02:34:54.297Z"
+generated_at: "2026-03-30T02:39:19.661Z"
 ---
 
 # § 2252A. Certain activities relating to material constituting or containing child pornography

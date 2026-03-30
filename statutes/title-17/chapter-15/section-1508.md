@@ -3,9 +3,9 @@ title: "Section 1508 - Review and confirmation by district court"
 usc_title: 17
 usc_section: "1508"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "17 U.S.C. § 1508"
-generated_at: "2026-03-30T02:34:52.332Z"
+generated_at: "2026-03-30T02:39:05.162Z"
 ---
 
 # § 1508. Review and confirmation by district court

@@ -3,9 +3,9 @@ title: "Section 1109 - Organ and tissue donor program"
 usc_title: 10
 usc_section: "1109"
 chapter: 55
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 1109"
-generated_at: "2026-03-30T02:34:13.678Z"
+generated_at: "2026-03-30T02:38:38.388Z"
 ---
 
 # § 1109. Organ and tissue donor program

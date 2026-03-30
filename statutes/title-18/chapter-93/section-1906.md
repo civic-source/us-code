@@ -3,9 +3,9 @@ title: "Section 1906 - Disclosure of information from a bank examination report"
 usc_title: 18
 usc_section: "1906"
 chapter: 93
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 1906"
-generated_at: "2026-03-30T02:34:54.290Z"
+generated_at: "2026-03-30T02:39:19.655Z"
 ---
 
 # § 1906. Disclosure of information from a bank examination report

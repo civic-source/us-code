@@ -3,9 +3,9 @@ title: "Section 2051 - Research and development assistance"
 usc_title: 42
 usc_section: "2051"
 chapter: 23
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 2051"
-generated_at: "2026-03-30T02:37:27.771Z"
+generated_at: "2026-03-30T02:41:05.348Z"
 ---
 
 # § 2051. Research and development assistance

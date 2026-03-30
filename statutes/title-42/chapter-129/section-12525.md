@@ -3,9 +3,9 @@ title: "Section 12525 - Applications"
 usc_title: 42
 usc_section: "12525"
 chapter: 129
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 12525"
-generated_at: "2026-03-30T02:37:28.121Z"
+generated_at: "2026-03-30T02:41:05.697Z"
 ---
 
 # § 12525. Applications

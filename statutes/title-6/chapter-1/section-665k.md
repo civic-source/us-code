@@ -3,9 +3,9 @@ title: "Section 665k - Federal Clearinghouse on School Safety Evidence-based Pra
 usc_title: 6
 usc_section: "665k"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 665k"
-generated_at: "2026-03-30T02:33:52.957Z"
+generated_at: "2026-03-30T02:38:13.753Z"
 ---
 
 # § 665k. Federal Clearinghouse on School Safety Evidence-based Practices

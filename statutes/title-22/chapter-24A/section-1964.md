@@ -3,9 +3,9 @@ title: "Section 1964 - Report to Congress"
 usc_title: 22
 usc_section: "1964"
 chapter: 24
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 1964"
-generated_at: "2026-03-30T02:35:21.394Z"
+generated_at: "2026-03-30T02:39:30.590Z"
 ---
 
 # § 1964. Report to Congress

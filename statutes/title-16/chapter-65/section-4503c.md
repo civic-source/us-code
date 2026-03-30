@@ -3,9 +3,9 @@ title: "Section 4503c - Omitted"
 usc_title: 16
 usc_section: "4503c"
 chapter: 65
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 4503c"
-generated_at: "2026-03-30T02:35:01.039Z"
+generated_at: "2026-03-30T02:39:18.169Z"
 ---
 
 # § 4503c. Omitted

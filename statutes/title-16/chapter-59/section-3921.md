@@ -3,9 +3,9 @@ title: "Section 3921 - National wetlands priority conservation plan"
 usc_title: 16
 usc_section: "3921"
 chapter: 59
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 3921"
-generated_at: "2026-03-30T02:35:01.032Z"
+generated_at: "2026-03-30T02:39:18.162Z"
 ---
 
 # § 3921. National wetlands priority conservation plan

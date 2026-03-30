@@ -3,9 +3,9 @@ title: "Section 469a - Collection of fees from non-Federal participants in meeti
 usc_title: 6
 usc_section: "469a"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 469a"
-generated_at: "2026-03-30T02:33:52.936Z"
+generated_at: "2026-03-30T02:38:13.734Z"
 ---
 
 # § 469a. Collection of fees from non-Federal participants in meetings

@@ -3,9 +3,9 @@ title: "Section 637c - Definitions"
 usc_title: 15
 usc_section: "637c"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 637c"
-generated_at: "2026-03-30T02:34:48.999Z"
+generated_at: "2026-03-30T02:38:47.683Z"
 ---
 
 # § 637c. Definitions

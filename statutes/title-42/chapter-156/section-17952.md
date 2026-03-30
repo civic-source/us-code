@@ -3,9 +3,9 @@ title: "Section 17952 - Regulatory references"
 usc_title: 42
 usc_section: "17952"
 chapter: 156
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 17952"
-generated_at: "2026-03-30T02:37:28.244Z"
+generated_at: "2026-03-30T02:41:05.825Z"
 ---
 
 # § 17952. Regulatory references

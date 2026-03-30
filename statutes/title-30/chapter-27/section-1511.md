@@ -3,9 +3,9 @@ title: "Section 1511 - Loans for geothermal reservoir confirmation"
 usc_title: 30
 usc_section: "1511"
 chapter: 27
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "30 U.S.C. § 1511"
-generated_at: "2026-03-30T02:35:34.744Z"
+generated_at: "2026-03-30T02:39:47.454Z"
 ---
 
 # § 1511. Loans for geothermal reservoir confirmation

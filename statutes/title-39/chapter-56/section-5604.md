@@ -3,9 +3,9 @@ title: "Section 5604 - Fines on ocean carriers"
 usc_title: 39
 usc_section: "5604"
 chapter: 56
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "39 U.S.C. § 5604"
-generated_at: "2026-03-30T02:36:06.202Z"
+generated_at: "2026-03-30T02:40:21.751Z"
 ---
 
 # § 5604. Fines on ocean carriers

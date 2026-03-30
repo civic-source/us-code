@@ -3,9 +3,9 @@ title: "Section 605 - Repealed. Aug. 23, 1935, ch. 614 , title III, § 329, 49 S
 usc_title: 12
 usc_section: "605"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 605"
-generated_at: "2026-03-30T02:34:45.314Z"
+generated_at: "2026-03-30T02:38:50.912Z"
 ---
 
 # § 605. Repealed. Aug. 23, 1935, ch. 614 , title III, § 329, 49 Stat. 717

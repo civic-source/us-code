@@ -3,9 +3,9 @@ title: "Section 873 - Blasting and explosives"
 usc_title: 30
 usc_section: "873"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "30 U.S.C. § 873"
-generated_at: "2026-03-30T02:35:34.722Z"
+generated_at: "2026-03-30T02:39:47.433Z"
 ---
 
 # § 873. Blasting and explosives

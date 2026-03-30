@@ -3,9 +3,9 @@ title: "Section 7852 - Other applicable rules"
 usc_title: 26
 usc_section: "7852"
 chapter: 80
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 7852"
-generated_at: "2026-03-30T02:35:51.243Z"
+generated_at: "2026-03-30T02:40:09.875Z"
 ---
 
 # § 7852. Other applicable rules

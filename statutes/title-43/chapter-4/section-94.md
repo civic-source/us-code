@@ -3,9 +3,9 @@ title: "Section 94 - Reimbursement of sums disbursed as special disbursing agent
 usc_title: 43
 usc_section: "94"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 94"
-generated_at: "2026-03-30T02:36:16.829Z"
+generated_at: "2026-03-30T02:40:30.231Z"
 ---
 
 # § 94. Reimbursement of sums disbursed as special disbursing agents

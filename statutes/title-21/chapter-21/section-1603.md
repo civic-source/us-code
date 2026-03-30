@@ -3,9 +3,9 @@ title: "Section 1603 - General requirements; applicability; preemption"
 usc_title: 21
 usc_section: "1603"
 chapter: 21
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "21 U.S.C. § 1603"
-generated_at: "2026-03-30T02:35:31.784Z"
+generated_at: "2026-03-30T02:39:44.017Z"
 ---
 
 # § 1603. General requirements; applicability; preemption

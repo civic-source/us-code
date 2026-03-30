@@ -3,9 +3,9 @@ title: "Section 926A - Interstate transportation of firearms"
 usc_title: 18
 usc_section: "926A"
 chapter: 44
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 926A"
-generated_at: "2026-03-30T02:34:54.263Z"
+generated_at: "2026-03-30T02:39:19.635Z"
 ---
 
 # § 926A. Interstate transportation of firearms

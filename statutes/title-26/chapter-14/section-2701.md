@@ -3,9 +3,9 @@ title: "Section 2701 - Special valuation rules in case of transfers of certain i
 usc_title: 26
 usc_section: "2701"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 2701"
-generated_at: "2026-03-30T02:35:51.115Z"
+generated_at: "2026-03-30T02:40:09.755Z"
 ---
 
 # § 2701. Special valuation rules in case of transfers of certain interests in corporations or partnerships

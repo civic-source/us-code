@@ -3,9 +3,9 @@ title: "Section 2009 - Annual budget"
 usc_title: 39
 usc_section: "2009"
 chapter: 20
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "39 U.S.C. § 2009"
-generated_at: "2026-03-30T02:36:06.193Z"
+generated_at: "2026-03-30T02:40:21.741Z"
 ---
 
 # § 2009. Annual budget

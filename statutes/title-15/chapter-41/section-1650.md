@@ -3,9 +3,9 @@ title: "Section 1650 - Preventing unfair and deceptive private educational lendi
 usc_title: 15
 usc_section: "1650"
 chapter: 41
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 1650"
-generated_at: "2026-03-30T02:34:49.072Z"
+generated_at: "2026-03-30T02:38:47.758Z"
 ---
 
 # § 1650. Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest

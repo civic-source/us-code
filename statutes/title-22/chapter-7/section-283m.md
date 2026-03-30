@@ -3,9 +3,9 @@ title: "Section 283m - Additional increases in resources of the Fund for Special
 usc_title: 22
 usc_section: "283m"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 283m"
-generated_at: "2026-03-30T02:35:21.361Z"
+generated_at: "2026-03-30T02:39:30.562Z"
 ---
 
 # § 283m. Additional increases in resources of the Fund for Special Operations

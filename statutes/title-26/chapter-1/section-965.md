@@ -3,9 +3,9 @@ title: "Section 965 - Treatment of deferred foreign income upon transition to pa
 usc_title: 26
 usc_section: "965"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 965"
-generated_at: "2026-03-30T02:35:51.069Z"
+generated_at: "2026-03-30T02:40:09.713Z"
 ---
 
 # § 965. Treatment of deferred foreign income upon transition to participation exemption system of taxation

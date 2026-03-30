@@ -3,9 +3,9 @@ title: "Section 282 - Regulations by Secretary of the Interior to secure attenda
 usc_title: 25
 usc_section: "282"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 282"
-generated_at: "2026-03-30T02:35:15.150Z"
+generated_at: "2026-03-30T02:39:26.235Z"
 ---
 
 # § 282. Regulations by Secretary of the Interior to secure attendance at school

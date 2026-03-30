@@ -3,9 +3,9 @@ title: "Section 1024 - Filing with Secretary and furnishing information to parti
 usc_title: 29
 usc_section: "1024"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 1024"
-generated_at: "2026-03-30T02:35:37.953Z"
+generated_at: "2026-03-30T02:39:49.575Z"
 ---
 
 # § 1024. Filing with Secretary and furnishing information to participants and certain employers

@@ -3,9 +3,9 @@ title: "Section 375b - Disposal of tracts too small to be classed farm units"
 usc_title: 43
 usc_section: "375b"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 375b"
-generated_at: "2026-03-30T02:36:16.837Z"
+generated_at: "2026-03-30T02:40:30.238Z"
 ---
 
 # § 375b. Disposal of tracts too small to be classed farm units

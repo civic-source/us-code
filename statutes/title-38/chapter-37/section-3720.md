@@ -3,9 +3,9 @@ title: "Section 3720 - Powers of Secretary"
 usc_title: 38
 usc_section: "3720"
 chapter: 37
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 3720"
-generated_at: "2026-03-30T02:36:12.646Z"
+generated_at: "2026-03-30T02:40:27.249Z"
 ---
 
 # § 3720. Powers of Secretary
@@ -23,4 +23,4 @@ generated_at: "2026-03-30T02:36:12.646Z"
 - **(e)** Whenever loss, destruction, or damage to any residential property securing loans guaranteed, insured, made, or acquired by the Secretary under this chapter occurs as the result of a major disaster as determined by the President under the Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), the Secretary shall (1) provide counseling and such other service to the owner of such property as may be feasible and shall inform such owner concerning the disaster assistance available from other Federal agencies and from State or local agencies, and (2) pursuant to subsection (a)(2) of this section, extend on an individual case basis such forebearance or indulgence to such owner as the Secretary determines to be warranted by the facts of the case and the circumstances of such owner.
 - **(f)** The Secretary shall, at the request of the Secretary of Housing and Urban Development and without reimbursement, certify to such Secretary whether an applicant for assistance under any law administered by the Department of Housing and Urban Development is a veteran.
 - **(g)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
-- **(h)** The Secretary may not take any action under paragraph (2), (3), (4), or (5) of subsection (a) with respect to a loan guaranteed under this chapter before the completion of the sequence of mitigation options offered to the veteran to whom the loan is made under section 3732(d) of this title .
+- **(h)** The Secretary may not take any action under paragraph (2), (3), (4), or (5) of subsection (a) in conjunction with the purchase of a loan under section 3732(a)(2) of this title unless the Secretary determines the purchase would be made consistent with section 3732(d) of this title .

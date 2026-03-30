@@ -3,9 +3,9 @@ title: "Section 631 - Appointment and tenure"
 usc_title: 28
 usc_section: "631"
 chapter: 43
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "28 U.S.C. § 631"
-generated_at: "2026-03-30T02:35:53.721Z"
+generated_at: "2026-03-30T02:39:50.653Z"
 ---
 
 # § 631. Appointment and tenure
@@ -22,7 +22,7 @@ generated_at: "2026-03-30T02:35:53.721Z"
 - **(e)** The appointment of any individual as a full-time magistrate judge shall be for a term of eight years, and the appointment of any individuals as a part-time magistrate judge shall be for a term of four years, except that the term of a full-time or part-time magistrate judge appointed under subsection (k) 2 2 See References in Text note below. shall expire upon—
   - **(1)** the expiration of the absent magistrate judge’s term,
   - **(2)** the reinstatement of the absent magistrate judge in regular service in office as a magistrate judge,
-  - **(3)** the failure of the absent magistrate judge to make timely application under subsection (j) 1 of this section for reinstatement in regular service in office as a magistrate judge after discharge or release from military service,
+  - **(3)** the failure of the absent magistrate judge to make timely application under subsection (j) 2 of this section for reinstatement in regular service in office as a magistrate judge after discharge or release from military service,
   - **(4)** the death or resignation of the absent magistrate judge, or
   - **(5)** the removal from office of the absent magistrate judge pursuant to subsection (i) of this section,
 - **(f)** Upon the expiration of his term, a magistrate judge may, by a majority vote of the judges of the appointing district court or courts and with the approval of the judicial council of the circuit, continue to perform the duties of his office until his successor is appointed, or for 180 days after the date of the expiration of the magistrate judge’s term, whichever is earlier.

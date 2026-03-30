@@ -3,9 +3,9 @@ title: "Section 24906 - Eliminating highway at-grade crossings"
 usc_title: 49
 usc_section: "24906"
 chapter: 249
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 24906"
-generated_at: "2026-03-30T02:37:41.827Z"
+generated_at: "2026-03-30T02:41:31.807Z"
 ---
 
 # § 24906. Eliminating highway at-grade crossings

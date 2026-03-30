@@ -3,9 +3,9 @@ title: "Section 957a - Omitted"
 usc_title: 20
 usc_section: "957a"
 chapter: 26
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 957a"
-generated_at: "2026-03-30T02:35:09.449Z"
+generated_at: "2026-03-30T02:39:22.239Z"
 ---
 
 # § 957a. Omitted

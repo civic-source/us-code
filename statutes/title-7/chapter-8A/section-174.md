@@ -3,9 +3,9 @@ title: "Section 174 - Omitted"
 usc_title: 7
 usc_section: "174"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 174"
-generated_at: "2026-03-30T02:34:02.240Z"
+generated_at: "2026-03-30T02:38:22.518Z"
 ---
 
 # § 174. Omitted

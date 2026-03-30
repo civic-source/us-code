@@ -3,9 +3,9 @@ title: "Section 5712 - Export reporting and contract sanctity"
 usc_title: 7
 usc_section: "5712"
 chapter: 87
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 5712"
-generated_at: "2026-03-30T02:34:02.477Z"
+generated_at: "2026-03-30T02:38:22.677Z"
 ---
 
 # § 5712. Export reporting and contract sanctity

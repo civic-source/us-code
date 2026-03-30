@@ -3,9 +3,9 @@ title: "Section 3699D - Notice of changes to policies and guidance relating to e
 usc_title: 38
 usc_section: "3699D"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 3699D"
-generated_at: "2026-03-30T02:36:12.642Z"
+generated_at: "2026-03-30T02:40:27.245Z"
 ---
 
 # § 3699D. Notice of changes to policies and guidance relating to educational assistance programs

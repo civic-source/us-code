@@ -3,9 +3,9 @@ title: "Section 216 - Receivers and trustees; application of chapter"
 usc_title: 47
 usc_section: "216"
 chapter: 5
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "47 U.S.C. § 216"
-generated_at: "2026-03-30T02:37:32.322Z"
+generated_at: "2026-03-30T02:41:26.204Z"
 ---
 
 # § 216. Receivers and trustees; application of chapter

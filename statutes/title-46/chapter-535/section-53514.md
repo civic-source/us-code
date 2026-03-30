@@ -3,9 +3,9 @@ title: "Section 53514 - Relationship of old fund to new fund"
 usc_title: 46
 usc_section: "53514"
 chapter: 535
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "46 U.S.C. § 53514"
-generated_at: "2026-03-30T02:37:37.582Z"
+generated_at: "2026-03-30T02:41:10.833Z"
 ---
 
 # § 53514. Relationship of old fund to new fund

@@ -3,9 +3,9 @@ title: "Section 1208 - Penalties"
 usc_title: 33
 usc_section: "1208"
 chapter: 24
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 1208"
-generated_at: "2026-03-30T02:36:02.543Z"
+generated_at: "2026-03-30T02:40:17.659Z"
 ---
 
 # § 1208. Penalties

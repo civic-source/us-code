@@ -3,9 +3,9 @@ title: "Section 619a - Cotton tax, time for payment"
 usc_title: 7
 usc_section: "619a"
 chapter: 26
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 619a"
-generated_at: "2026-03-30T02:34:02.270Z"
+generated_at: "2026-03-30T02:38:22.538Z"
 ---
 
 # § 619a. Cotton tax, time for payment

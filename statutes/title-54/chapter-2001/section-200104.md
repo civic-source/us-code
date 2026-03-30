@@ -3,9 +3,9 @@ title: "Section 200104 - Federal interagency council on outdoor recreation 1 1 S
 usc_title: 54
 usc_section: "200104"
 chapter: 2001
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "54 U.S.C. § 200104"
-generated_at: "2026-03-30T02:37:47.171Z"
+generated_at: "2026-03-30T02:41:39.899Z"
 ---
 
 # § 200104. Federal interagency council on outdoor recreation 1 1 So in original. Probably should be capitalized as “Federal Interagency Council on Outdoor Recreation”.

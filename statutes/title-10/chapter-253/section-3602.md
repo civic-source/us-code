@@ -3,9 +3,9 @@ title: "Section 3602 - Middle tier of acquisition for rapid prototyping and rapi
 usc_title: 10
 usc_section: "3602"
 chapter: 253
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 3602"
-generated_at: "2026-03-30T02:34:13.772Z"
+generated_at: "2026-03-30T02:38:38.477Z"
 ---
 
 # § 3602. Middle tier of acquisition for rapid prototyping and rapid fielding

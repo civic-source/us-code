@@ -3,9 +3,9 @@ title: "Section 1332 - Investigations"
 usc_title: 19
 usc_section: "1332"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 1332"
-generated_at: "2026-03-30T02:34:56.405Z"
+generated_at: "2026-03-30T02:39:13.398Z"
 ---
 
 # § 1332. Investigations

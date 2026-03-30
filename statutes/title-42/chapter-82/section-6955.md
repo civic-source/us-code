@@ -3,9 +3,9 @@ title: "Section 6955 - Marketing policies, establishment; nondiscrimination requ
 usc_title: 42
 usc_section: "6955"
 chapter: 82
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 6955"
-generated_at: "2026-03-30T02:37:27.940Z"
+generated_at: "2026-03-30T02:41:05.517Z"
 ---
 
 # § 6955. Marketing policies, establishment; nondiscrimination requirement

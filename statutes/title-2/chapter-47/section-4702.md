@@ -3,9 +3,9 @@ title: "Section 4702 - Notification of post-employment restrictions for Members 
 usc_title: 2
 usc_section: "4702"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "2 U.S.C. § 4702"
-generated_at: "2026-03-30T02:33:44.344Z"
+generated_at: "2026-03-30T02:38:04.752Z"
 ---
 
 # § 4702. Notification of post-employment restrictions for Members of Congress and employees

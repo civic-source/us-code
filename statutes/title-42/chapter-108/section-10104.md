@@ -3,9 +3,9 @@ title: "Section 10104 - Ocean disposal"
 usc_title: 42
 usc_section: "10104"
 chapter: 108
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 10104"
-generated_at: "2026-03-30T02:37:28.075Z"
+generated_at: "2026-03-30T02:41:05.651Z"
 ---
 
 # § 10104. Ocean disposal

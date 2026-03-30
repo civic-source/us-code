@@ -3,9 +3,9 @@ title: "Section 3741 - Definitions"
 usc_title: 38
 usc_section: "3741"
 chapter: 37
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 3741"
-generated_at: "2026-03-30T02:36:12.648Z"
+generated_at: "2026-03-30T02:40:27.250Z"
 ---
 
 # § 3741. Definitions

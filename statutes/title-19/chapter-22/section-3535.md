@@ -3,9 +3,9 @@ title: "Section 3535 - Review of participation in WTO"
 usc_title: 19
 usc_section: "3535"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 3535"
-generated_at: "2026-03-30T02:34:56.481Z"
+generated_at: "2026-03-30T02:39:13.539Z"
 ---
 
 # § 3535. Review of participation in WTO

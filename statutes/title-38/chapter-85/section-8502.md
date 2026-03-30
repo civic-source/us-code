@@ -3,9 +3,9 @@ title: "Section 8502 - Disposition of unclaimed personal property"
 usc_title: 38
 usc_section: "8502"
 chapter: 85
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 8502"
-generated_at: "2026-03-30T02:36:12.689Z"
+generated_at: "2026-03-30T02:40:27.287Z"
 ---
 
 # § 8502. Disposition of unclaimed personal property

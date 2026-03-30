@@ -3,9 +3,9 @@ title: "Section 416 - Additional provisions with respect to Inspectors General o
 usc_title: 5
 usc_section: "416"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 416"
-generated_at: "2026-03-30T02:33:47.729Z"
+generated_at: "2026-03-30T02:38:10.769Z"
 ---
 
 # § 416. Additional provisions with respect to Inspectors General of the intelligence community

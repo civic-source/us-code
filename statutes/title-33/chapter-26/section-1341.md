@@ -3,9 +3,9 @@ title: "Section 1341 - Certification"
 usc_title: 33
 usc_section: "1341"
 chapter: 26
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 1341"
-generated_at: "2026-03-30T02:36:02.570Z"
+generated_at: "2026-03-30T02:40:17.684Z"
 ---
 
 # § 1341. Certification

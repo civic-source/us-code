@@ -3,9 +3,9 @@ title: "Section 2102 - Prohibitions on disclosing and obtaining procurement info
 usc_title: 41
 usc_section: "2102"
 chapter: 21
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "41 U.S.C. § 2102"
-generated_at: "2026-03-30T02:36:15.548Z"
+generated_at: "2026-03-30T02:40:46.868Z"
 ---
 
 # § 2102. Prohibitions on disclosing and obtaining procurement information

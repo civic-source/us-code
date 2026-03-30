@@ -3,9 +3,9 @@ title: "Section 254 - Relief from liability and punishment under the Fair Labor 
 usc_title: 29
 usc_section: "254"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 254"
-generated_at: "2026-03-30T02:35:37.925Z"
+generated_at: "2026-03-30T02:39:49.547Z"
 ---
 
 # § 254. Relief from liability and punishment under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, and the Bacon-Davis Act for failure to pay minimum wage or overtime compensation

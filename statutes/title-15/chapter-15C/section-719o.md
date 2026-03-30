@@ -3,9 +3,9 @@ title: "Section 719o - Civil rights; affirmative action of Federal officers and 
 usc_title: 15
 usc_section: "719o"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 719o"
-generated_at: "2026-03-30T02:34:49.036Z"
+generated_at: "2026-03-30T02:38:47.721Z"
 ---
 
 # § 719o. Civil rights; affirmative action of Federal officers and agencies; rules: promulgation and enforcement

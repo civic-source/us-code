@@ -3,9 +3,9 @@ title: "Section 1713 - Renumbered § 1781]"
 usc_title: 38
 usc_section: "1713"
 chapter: 17
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 1713"
-generated_at: "2026-03-30T02:36:12.598Z"
+generated_at: "2026-03-30T02:40:27.207Z"
 ---
 
 # [§ 1713. Renumbered § 1781]

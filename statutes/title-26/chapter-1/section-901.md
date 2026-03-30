@@ -3,9 +3,9 @@ title: "Section 901 - Taxes of foreign countries and of possessions of United St
 usc_title: 26
 usc_section: "901"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 901"
-generated_at: "2026-03-30T02:35:51.060Z"
+generated_at: "2026-03-30T02:40:09.705Z"
 ---
 
 # § 901. Taxes of foreign countries and of possessions of United States

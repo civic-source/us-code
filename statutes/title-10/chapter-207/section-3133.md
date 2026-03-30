@@ -3,9 +3,9 @@ title: "Section 3133 - Contracts for periods crossing fiscal years: severable se
 usc_title: 10
 usc_section: "3133"
 chapter: 207
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 3133"
-generated_at: "2026-03-30T02:34:13.765Z"
+generated_at: "2026-03-30T02:38:38.470Z"
 ---
 
 # § 3133. Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property

@@ -3,9 +3,9 @@ title: "Section 15102 - National Commercial Fishing Safety Advisory Committee"
 usc_title: 46
 usc_section: "15102"
 chapter: 151
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "46 U.S.C. § 15102"
-generated_at: "2026-03-30T02:37:37.560Z"
+generated_at: "2026-03-30T02:41:10.805Z"
 ---
 
 # § 15102. National Commercial Fishing Safety Advisory Committee

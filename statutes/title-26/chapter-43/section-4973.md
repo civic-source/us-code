@@ -3,9 +3,9 @@ title: "Section 4973 - Tax on excess contributions to certain tax-favored accoun
 usc_title: 26
 usc_section: "4973"
 chapter: 43
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 4973"
-generated_at: "2026-03-30T02:35:51.146Z"
+generated_at: "2026-03-30T02:40:09.783Z"
 ---
 
 # § 4973. Tax on excess contributions to certain tax-favored accounts and annuities

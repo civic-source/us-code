@@ -3,9 +3,9 @@ title: "Section 928 - Spectrum Relocation Fund"
 usc_title: 47
 usc_section: "928"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "47 U.S.C. § 928"
-generated_at: "2026-03-30T02:37:32.370Z"
+generated_at: "2026-03-30T02:41:26.253Z"
 ---
 
 # § 928. Spectrum Relocation Fund

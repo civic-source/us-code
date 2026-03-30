@@ -3,9 +3,9 @@ title: "Section 5007 - Collection of tax on distilled spirits"
 usc_title: 26
 usc_section: "5007"
 chapter: 51
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 5007"
-generated_at: "2026-03-30T02:35:51.154Z"
+generated_at: "2026-03-30T02:40:09.791Z"
 ---
 
 # § 5007. Collection of tax on distilled spirits

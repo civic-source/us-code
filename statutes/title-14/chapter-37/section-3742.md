@@ -3,9 +3,9 @@ title: "Section 3742 - Establishment of promotion zones under running mate syste
 usc_title: 14
 usc_section: "3742"
 chapter: 37
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 3742"
-generated_at: "2026-03-30T02:34:26.227Z"
+generated_at: "2026-03-30T02:38:41.350Z"
 ---
 
 # § 3742. Establishment of promotion zones under running mate system

@@ -3,9 +3,9 @@ title: "Section 1466 - Omitted"
 usc_title: 42
 usc_section: "1466"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1466"
-generated_at: "2026-03-30T02:37:27.700Z"
+generated_at: "2026-03-30T02:41:05.278Z"
 ---
 
 # § 1466. Omitted

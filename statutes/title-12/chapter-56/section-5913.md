@@ -3,9 +3,9 @@ title: "Section 5913 - Rulemaking"
 usc_title: 12
 usc_section: "5913"
 chapter: 56
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 5913"
-generated_at: "2026-03-30T02:34:45.578Z"
+generated_at: "2026-03-30T02:38:51.126Z"
 ---
 
 # § 5913. Rulemaking

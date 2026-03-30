@@ -3,9 +3,9 @@ title: "Section 4909 - Petition and review"
 usc_title: 7
 usc_section: "4909"
 chapter: 80
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 4909"
-generated_at: "2026-03-30T02:34:02.466Z"
+generated_at: "2026-03-30T02:38:22.672Z"
 ---
 
 # § 4909. Petition and review

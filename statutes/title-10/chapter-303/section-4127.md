@@ -3,9 +3,9 @@ title: "Section 4127 - Defense Innovation Unit"
 usc_title: 10
 usc_section: "4127"
 chapter: 303
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 4127"
-generated_at: "2026-03-30T02:34:13.781Z"
+generated_at: "2026-03-30T02:38:38.485Z"
 ---
 
 # § 4127. Defense Innovation Unit

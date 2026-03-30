@@ -3,9 +3,9 @@ title: "Section 8725 - Acquisition by condemnation and purchase"
 usc_title: 10
 usc_section: "8725"
 chapter: 869
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 8725"
-generated_at: "2026-03-30T02:34:13.825Z"
+generated_at: "2026-03-30T02:38:38.524Z"
 ---
 
 # § 8725. Acquisition by condemnation and purchase

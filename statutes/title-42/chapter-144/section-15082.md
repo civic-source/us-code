@@ -3,9 +3,9 @@ title: "Section 15082 - Grant authority"
 usc_title: 42
 usc_section: "15082"
 chapter: 144
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 15082"
-generated_at: "2026-03-30T02:37:28.175Z"
+generated_at: "2026-03-30T02:41:05.754Z"
 ---
 
 # § 15082. Grant authority

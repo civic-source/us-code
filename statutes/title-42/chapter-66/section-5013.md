@@ -3,9 +3,9 @@ title: "Section 5013 - Grants and contracts for volunteer service projects"
 usc_title: 42
 usc_section: "5013"
 chapter: 66
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 5013"
-generated_at: "2026-03-30T02:37:27.860Z"
+generated_at: "2026-03-30T02:41:05.436Z"
 ---
 
 # § 5013. Grants and contracts for volunteer service projects

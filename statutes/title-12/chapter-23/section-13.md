@@ -3,9 +3,9 @@ title: "Section 13 - Authority to issue obligations to cover guarantee losses of
 usc_title: 12
 usc_section: "13"
 chapter: 23
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 13"
-generated_at: "2026-03-30T02:34:45.476Z"
+generated_at: "2026-03-30T02:38:51.038Z"
 ---
 
 # § 2279aa–13. Authority to issue obligations to cover guarantee losses of Corporation

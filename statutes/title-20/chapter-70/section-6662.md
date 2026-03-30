@@ -3,9 +3,9 @@ title: "Section 6662 - Presidential and Congressional Academies for American His
 usc_title: 20
 usc_section: "6662"
 chapter: 70
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 6662"
-generated_at: "2026-03-30T02:35:09.616Z"
+generated_at: "2026-03-30T02:39:22.386Z"
 ---
 
 # § 6662. Presidential and Congressional Academies for American History and Civics

@@ -3,9 +3,9 @@ title: "Section 136b - Transferred"
 usc_title: 7
 usc_section: "136b"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 136b"
-generated_at: "2026-03-30T02:34:02.216Z"
+generated_at: "2026-03-30T02:38:22.500Z"
 ---
 
 # § 136b. Transferred

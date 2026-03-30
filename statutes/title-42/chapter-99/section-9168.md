@@ -3,9 +3,9 @@ title: "Section 9168 - Report to Congress on promotion and enhancement of export
 usc_title: 42
 usc_section: "9168"
 chapter: 99
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 9168"
-generated_at: "2026-03-30T02:37:28.037Z"
+generated_at: "2026-03-30T02:41:05.613Z"
 ---
 
 # § 9168. Report to Congress on promotion and enhancement of export potential of ocean thermal energy conversion components, facilities, and plantships

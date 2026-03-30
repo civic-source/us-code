@@ -3,9 +3,9 @@ title: "Section 883 - Exclusions from gross income"
 usc_title: 26
 usc_section: "883"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 883"
-generated_at: "2026-03-30T02:35:51.058Z"
+generated_at: "2026-03-30T02:40:09.703Z"
 ---
 
 # § 883. Exclusions from gross income

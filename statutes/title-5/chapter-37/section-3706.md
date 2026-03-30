@@ -3,9 +3,9 @@ title: "Section 3706 - Reporting requirement"
 usc_title: 5
 usc_section: "3706"
 chapter: 37
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 3706"
-generated_at: "2026-03-30T02:33:47.762Z"
+generated_at: "2026-03-30T02:38:10.794Z"
 ---
 
 # § 3706. Reporting requirement

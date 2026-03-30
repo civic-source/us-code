@@ -3,9 +3,9 @@ title: "Section 272b - Annual budget submission"
 usc_title: 15
 usc_section: "272b"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 272b"
-generated_at: "2026-03-30T02:34:48.972Z"
+generated_at: "2026-03-30T02:38:47.655Z"
 ---
 
 # § 272b. Annual budget submission

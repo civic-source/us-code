@@ -3,9 +3,9 @@ title: "Section 20 - Paul H. Douglas Ecological and Recreational Unit and Center
 usc_title: 16
 usc_section: "20"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 20"
-generated_at: "2026-03-30T02:35:00.807Z"
+generated_at: "2026-03-30T02:39:17.942Z"
 ---
 
 # § 460u–20. Paul H. Douglas Ecological and Recreational Unit and Center for Environmental Education

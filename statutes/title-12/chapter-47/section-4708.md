@@ -3,9 +3,9 @@ title: "Section 4708 - Training"
 usc_title: 12
 usc_section: "4708"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 4708"
-generated_at: "2026-03-30T02:34:45.525Z"
+generated_at: "2026-03-30T02:38:51.080Z"
 ---
 
 # § 4708. Training

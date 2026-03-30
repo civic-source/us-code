@@ -3,9 +3,9 @@ title: "Section 2 - Revolving fund for qualified contract guarantees; investment
 usc_title: 15
 usc_section: "2"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:34:49.025Z"
+generated_at: "2026-03-30T02:38:47.709Z"
 ---
 
 # § 694–2. Revolving fund for qualified contract guarantees; investment of idle funds

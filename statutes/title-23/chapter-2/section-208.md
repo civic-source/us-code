@@ -3,9 +3,9 @@ title: "Section 208 - Safe routes to school"
 usc_title: 23
 usc_section: "208"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "23 U.S.C. § 208"
-generated_at: "2026-03-30T02:35:13.549Z"
+generated_at: "2026-03-30T02:39:38.565Z"
 ---
 
 # § 208. Safe routes to school

@@ -3,9 +3,9 @@ title: "Section 2234 - Nonapplicability to Saint Lawrence Seaway"
 usc_title: 33
 usc_section: "2234"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 2234"
-generated_at: "2026-03-30T02:36:02.591Z"
+generated_at: "2026-03-30T02:40:17.702Z"
 ---
 
 # § 2234. Nonapplicability to Saint Lawrence Seaway

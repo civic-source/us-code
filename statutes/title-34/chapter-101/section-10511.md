@@ -3,9 +3,9 @@ title: "Section 10511 - Grant authorization"
 usc_title: 34
 usc_section: "10511"
 chapter: 101
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 10511"
-generated_at: "2026-03-30T02:35:57.226Z"
+generated_at: "2026-03-30T02:40:15.412Z"
 ---
 
 # § 10511. Grant authorization

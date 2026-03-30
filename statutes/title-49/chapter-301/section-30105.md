@@ -3,9 +3,9 @@ title: "Section 30105 - Restriction on lobbying activities"
 usc_title: 49
 usc_section: "30105"
 chapter: 301
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 30105"
-generated_at: "2026-03-30T02:37:41.830Z"
+generated_at: "2026-03-30T02:41:31.810Z"
 ---
 
 # § 30105. Restriction on lobbying activities

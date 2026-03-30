@@ -3,9 +3,9 @@ title: "Section 7322 - Delivery of seized personal property to United States mar
 usc_title: 26
 usc_section: "7322"
 chapter: 75
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 7322"
-generated_at: "2026-03-30T02:35:51.219Z"
+generated_at: "2026-03-30T02:40:09.853Z"
 ---
 
 # § 7322. Delivery of seized personal property to United States marshal

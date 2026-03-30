@@ -3,9 +3,9 @@ title: "Section 12137 - Recording of vessels built in the United States"
 usc_title: 46
 usc_section: "12137"
 chapter: 121
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "46 U.S.C. § 12137"
-generated_at: "2026-03-30T02:37:37.555Z"
+generated_at: "2026-03-30T02:41:10.802Z"
 ---
 
 # § 12137. Recording of vessels built in the United States

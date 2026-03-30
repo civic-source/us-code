@@ -3,9 +3,9 @@ title: "Section 1660b - Treatment of certain demonstration projects"
 usc_title: 25
 usc_section: "1660b"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 1660b"
-generated_at: "2026-03-30T02:35:15.181Z"
+generated_at: "2026-03-30T02:39:26.257Z"
 ---
 
 # § 1660b. Treatment of certain demonstration projects

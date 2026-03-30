@@ -3,9 +3,9 @@ title: "Section 5512 - Ballistic missile defense programs: display of amounts fo
 usc_title: 10
 usc_section: "5512"
 chapter: 551
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 5512"
-generated_at: "2026-03-30T02:34:13.797Z"
+generated_at: "2026-03-30T02:38:38.500Z"
 ---
 
 # § 5512. Ballistic missile defense programs: display of amounts for research, development, test, and evaluation

@@ -3,9 +3,9 @@ title: "Section 129 - Toll roads, bridges, tunnels, and ferries"
 usc_title: 23
 usc_section: "129"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "23 U.S.C. § 129"
-generated_at: "2026-03-30T02:35:13.529Z"
+generated_at: "2026-03-30T02:39:38.539Z"
 ---
 
 # § 129. Toll roads, bridges, tunnels, and ferries

@@ -3,9 +3,9 @@ title: "Section 2014 - Termination of proclamations"
 usc_title: 19
 usc_section: "2014"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 2014"
-generated_at: "2026-03-30T02:34:56.443Z"
+generated_at: "2026-03-30T02:39:13.438Z"
 ---
 
 # § 2014. Termination of proclamations

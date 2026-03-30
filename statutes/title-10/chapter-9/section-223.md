@@ -3,9 +3,9 @@ title: "Section 223 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)
 usc_title: 10
 usc_section: "223"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 223"
-generated_at: "2026-03-30T02:34:13.614Z"
+generated_at: "2026-03-30T02:38:38.326Z"
 ---
 
 # [§ 223. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]

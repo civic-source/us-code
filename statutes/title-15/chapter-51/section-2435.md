@@ -3,9 +3,9 @@ title: "Section 2435 - Other statutory obligations"
 usc_title: 15
 usc_section: "2435"
 chapter: 51
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 2435"
-generated_at: "2026-03-30T02:34:49.110Z"
+generated_at: "2026-03-30T02:38:47.798Z"
 ---
 
 # § 2435. Other statutory obligations

@@ -3,9 +3,9 @@ title: "Section 1792 - Mutiny and riot prohibited"
 usc_title: 18
 usc_section: "1792"
 chapter: 87
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 1792"
-generated_at: "2026-03-30T02:34:54.288Z"
+generated_at: "2026-03-30T02:39:19.653Z"
 ---
 
 # § 1792. Mutiny and riot prohibited

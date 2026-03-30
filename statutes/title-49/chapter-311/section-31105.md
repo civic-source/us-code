@@ -3,9 +3,9 @@ title: "Section 31105 - Employee protections"
 usc_title: 49
 usc_section: "31105"
 chapter: 311
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 31105"
-generated_at: "2026-03-30T02:37:41.838Z"
+generated_at: "2026-03-30T02:41:31.817Z"
 ---
 
 # § 31105. Employee protections

@@ -3,9 +3,9 @@ title: "Section 1901 - Definitions"
 usc_title: 30
 usc_section: "1901"
 chapter: 31
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "30 U.S.C. § 1901"
-generated_at: "2026-03-30T02:35:34.750Z"
+generated_at: "2026-03-30T02:39:47.459Z"
 ---
 
 # § 1901. Definitions

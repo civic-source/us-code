@@ -3,9 +3,9 @@ title: "Section 1821 - Insurance Funds"
 usc_title: 12
 usc_section: "1821"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 1821"
-generated_at: "2026-03-30T02:34:45.421Z"
+generated_at: "2026-03-30T02:38:50.995Z"
 ---
 
 # § 1821. Insurance Funds

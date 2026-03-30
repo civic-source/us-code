@@ -3,9 +3,9 @@ title: "Section 2 - Calculation of countervailable subsidies on certain processe
 usc_title: 19
 usc_section: "2"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 2"
-generated_at: "2026-03-30T02:34:56.436Z"
+generated_at: "2026-03-30T02:39:13.431Z"
 ---
 
 # § 1677–2. Calculation of countervailable subsidies on certain processed agricultural products

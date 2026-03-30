@@ -3,9 +3,9 @@ title: "Section 2131 - College student pre-commissioning initiative"
 usc_title: 14
 usc_section: "2131"
 chapter: 21
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 2131"
-generated_at: "2026-03-30T02:34:26.219Z"
+generated_at: "2026-03-30T02:38:41.342Z"
 ---
 
 # § 2131. College student pre-commissioning initiative

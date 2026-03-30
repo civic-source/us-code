@@ -3,9 +3,9 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-30T02:35:37.959Z"
+generated_at: "2026-03-30T02:39:49.582Z"
 ---
 
 # § 1083. Minimum funding standards for single-employer defined benefit pension plans

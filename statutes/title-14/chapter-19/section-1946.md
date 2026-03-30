@@ -3,9 +3,9 @@ title: "Section 1946 - Credit for service as member of civilian teaching staff"
 usc_title: 14
 usc_section: "1946"
 chapter: 19
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 1946"
-generated_at: "2026-03-30T02:34:26.217Z"
+generated_at: "2026-03-30T02:38:41.341Z"
 ---
 
 # § 1946. Credit for service as member of civilian teaching staff

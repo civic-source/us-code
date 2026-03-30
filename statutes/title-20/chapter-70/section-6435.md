@@ -3,9 +3,9 @@ title: "Section 6435 - Use of funds"
 usc_title: 20
 usc_section: "6435"
 chapter: 70
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 6435"
-generated_at: "2026-03-30T02:35:09.611Z"
+generated_at: "2026-03-30T02:39:22.382Z"
 ---
 
 # § 6435. Use of funds

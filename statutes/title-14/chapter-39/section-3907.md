@@ -3,9 +3,9 @@ title: "Section 3907 - Use of member’s facilities"
 usc_title: 14
 usc_section: "3907"
 chapter: 39
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 3907"
-generated_at: "2026-03-30T02:34:26.227Z"
+generated_at: "2026-03-30T02:38:41.351Z"
 ---
 
 # § 3907. Use of member’s facilities

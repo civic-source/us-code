@@ -3,9 +3,9 @@ title: "Section 2395 - Limitation for certain students"
 usc_title: 20
 usc_section: "2395"
 chapter: 44
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 2395"
-generated_at: "2026-03-30T02:35:09.575Z"
+generated_at: "2026-03-30T02:39:22.352Z"
 ---
 
 # § 2395. Limitation for certain students

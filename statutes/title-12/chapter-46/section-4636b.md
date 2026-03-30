@@ -3,9 +3,9 @@ title: "Section 4636b - Criminal penalty"
 usc_title: 12
 usc_section: "4636b"
 chapter: 46
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 4636b"
-generated_at: "2026-03-30T02:34:45.522Z"
+generated_at: "2026-03-30T02:38:51.078Z"
 ---
 
 # § 4636b. Criminal penalty

@@ -3,9 +3,9 @@ title: "Section 15308 - Transfer of funds among Federal agencies"
 usc_title: 40
 usc_section: "15308"
 chapter: 153
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "40 U.S.C. § 15308"
-generated_at: "2026-03-30T02:36:06.823Z"
+generated_at: "2026-03-30T02:40:20.753Z"
 ---
 
 # § 15308. Transfer of funds among Federal agencies

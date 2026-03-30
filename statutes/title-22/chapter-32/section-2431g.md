@@ -3,9 +3,9 @@ title: "Section 2431g - Conservation Agreement"
 usc_title: 22
 usc_section: "2431g"
 chapter: 32
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2431g"
-generated_at: "2026-03-30T02:35:21.431Z"
+generated_at: "2026-03-30T02:39:30.620Z"
 ---
 
 # § 2431g. Conservation Agreement

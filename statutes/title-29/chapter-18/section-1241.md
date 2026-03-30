@@ -3,9 +3,9 @@ title: "Section 1241 - Joint Board for the Enrollment of Actuaries"
 usc_title: 29
 usc_section: "1241"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 1241"
-generated_at: "2026-03-30T02:35:37.983Z"
+generated_at: "2026-03-30T02:39:49.605Z"
 ---
 
 # § 1241. Joint Board for the Enrollment of Actuaries

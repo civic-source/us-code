@@ -3,9 +3,9 @@ title: "Section 15972 - Loan to place Alaska clean coal technology facility in s
 usc_title: 42
 usc_section: "15972"
 chapter: 149
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 15972"
-generated_at: "2026-03-30T02:37:28.186Z"
+generated_at: "2026-03-30T02:41:05.765Z"
 ---
 
 # § 15972. Loan to place Alaska clean coal technology facility in service

@@ -3,9 +3,9 @@ title: "Section 2151u - Private and voluntary organizations and cooperatives in 
 usc_title: 22
 usc_section: "2151u"
 chapter: 32
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2151u"
-generated_at: "2026-03-30T02:35:21.402Z"
+generated_at: "2026-03-30T02:39:30.597Z"
 ---
 
 # § 2151u. Private and voluntary organizations and cooperatives in overseas development

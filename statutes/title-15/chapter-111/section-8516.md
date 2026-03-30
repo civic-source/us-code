@@ -3,9 +3,9 @@ title: "Section 8516 - Observing system planning"
 usc_title: 15
 usc_section: "8516"
 chapter: 111
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 8516"
-generated_at: "2026-03-30T02:34:49.195Z"
+generated_at: "2026-03-30T02:38:47.886Z"
 ---
 
 # § 8516. Observing system planning

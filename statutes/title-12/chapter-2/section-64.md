@@ -3,9 +3,9 @@ title: "Section 64 - Repealed. Pub. L. 86–230, § 7 , Sept. 8, 1959 , 73 Stat.
 usc_title: 12
 usc_section: "64"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 64"
-generated_at: "2026-03-30T02:34:45.230Z"
+generated_at: "2026-03-30T02:38:50.897Z"
 ---
 
 # §§ 63, 64. Repealed. Pub. L. 86–230, § 7 , Sept. 8, 1959 , 73 Stat. 457

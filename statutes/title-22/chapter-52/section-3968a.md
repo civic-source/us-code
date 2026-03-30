@@ -3,9 +3,9 @@ title: "Section 3968a - Locally-employed staff wages"
 usc_title: 22
 usc_section: "3968a"
 chapter: 52
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 3968a"
-generated_at: "2026-03-30T02:35:21.480Z"
+generated_at: "2026-03-30T02:39:30.658Z"
 ---
 
 # § 3968a. Locally-employed staff wages

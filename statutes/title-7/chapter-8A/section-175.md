@@ -3,9 +3,9 @@ title: "Section 175 - Lease or sublease of unsuitable lands; disposal of water s
 usc_title: 7
 usc_section: "175"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 175"
-generated_at: "2026-03-30T02:34:02.240Z"
+generated_at: "2026-03-30T02:38:22.518Z"
 ---
 
 # § 175. Lease or sublease of unsuitable lands; disposal of water supply

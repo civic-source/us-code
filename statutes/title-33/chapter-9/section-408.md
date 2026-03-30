@@ -3,9 +3,9 @@ title: "Section 408 - Taking possession of, use of, or injury to harbor or river
 usc_title: 33
 usc_section: "408"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 408"
-generated_at: "2026-03-30T02:36:02.506Z"
+generated_at: "2026-03-30T02:40:17.623Z"
 ---
 
 # § 408. Taking possession of, use of, or injury to harbor or river improvements

@@ -3,9 +3,9 @@ title: "Section 4083a - Rest and recuperation leave"
 usc_title: 22
 usc_section: "4083a"
 chapter: 52
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 4083a"
-generated_at: "2026-03-30T02:35:21.489Z"
+generated_at: "2026-03-30T02:39:30.665Z"
 ---
 
 # § 4083a. Rest and recuperation leave

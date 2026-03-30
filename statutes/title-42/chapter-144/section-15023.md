@@ -3,9 +3,9 @@ title: "Section 15023 - Payments to the States for planning, administration, and
 usc_title: 42
 usc_section: "15023"
 chapter: 144
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 15023"
-generated_at: "2026-03-30T02:37:28.173Z"
+generated_at: "2026-03-30T02:41:05.751Z"
 ---
 
 # § 15023. Payments to the States for planning, administration, and services

@@ -3,9 +3,9 @@ title: "Section 4332 - Cooperation of agencies; reports; availability of informa
 usc_title: 42
 usc_section: "4332"
 chapter: 55
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 4332"
-generated_at: "2026-03-30T02:37:27.845Z"
+generated_at: "2026-03-30T02:41:05.421Z"
 ---
 
 # § 4332. Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts

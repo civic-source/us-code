@@ -3,9 +3,9 @@ title: "Section 4333 - Outreach"
 usc_title: 38
 usc_section: "4333"
 chapter: 43
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 4333"
-generated_at: "2026-03-30T02:36:12.654Z"
+generated_at: "2026-03-30T02:40:27.256Z"
 ---
 
 # § 4333. Outreach

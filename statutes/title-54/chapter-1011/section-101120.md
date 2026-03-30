@@ -3,9 +3,9 @@ title: "Section 101120 - Promotion of local fundraising support"
 usc_title: 54
 usc_section: "101120"
 chapter: 1011
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "54 U.S.C. § 101120"
-generated_at: "2026-03-30T02:37:47.162Z"
+generated_at: "2026-03-30T02:41:39.895Z"
 ---
 
 # § 101120. Promotion of local fundraising support

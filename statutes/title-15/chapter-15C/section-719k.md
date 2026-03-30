@@ -3,9 +3,9 @@ title: "Section 719k - Equal access to facilities"
 usc_title: 15
 usc_section: "719k"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 719k"
-generated_at: "2026-03-30T02:34:49.036Z"
+generated_at: "2026-03-30T02:38:47.720Z"
 ---
 
 # § 719k. Equal access to facilities

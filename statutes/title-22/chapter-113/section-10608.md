@@ -3,9 +3,9 @@ title: "Section 10608 - Annual report"
 usc_title: 22
 usc_section: "10608"
 chapter: 113
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 10608"
-generated_at: "2026-03-30T02:35:21.593Z"
+generated_at: "2026-03-30T02:39:30.747Z"
 ---
 
 # § 10608. Annual report

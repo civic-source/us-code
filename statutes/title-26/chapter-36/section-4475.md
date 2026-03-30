@@ -3,9 +3,9 @@ title: "Section 4475 - Imposition of tax"
 usc_title: 26
 usc_section: "4475"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 4475"
-generated_at: "2026-03-30T02:35:51.136Z"
+generated_at: "2026-03-30T02:40:09.775Z"
 ---
 
 # § 4475. Imposition of tax

@@ -3,9 +3,9 @@ title: "Section 5742 - Transportation of remains, dependents, and effects; death
 usc_title: 5
 usc_section: "5742"
 chapter: 57
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 5742"
-generated_at: "2026-03-30T02:33:47.788Z"
+generated_at: "2026-03-30T02:38:10.812Z"
 ---
 
 # § 5742. Transportation of remains, dependents, and effects; death occurring away from official station or abroad

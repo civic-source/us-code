@@ -3,9 +3,9 @@ title: "Section 10601 - Fishing agreements"
 usc_title: 46
 usc_section: "10601"
 chapter: 106
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "46 U.S.C. § 10601"
-generated_at: "2026-03-30T02:37:37.552Z"
+generated_at: "2026-03-30T02:41:10.795Z"
 ---
 
 # § 10601. Fishing agreements

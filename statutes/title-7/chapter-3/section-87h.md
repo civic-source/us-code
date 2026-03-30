@@ -3,14 +3,14 @@ title: "Section 87h - Funding"
 usc_title: 7
 usc_section: "87h"
 chapter: 3
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 87h"
-generated_at: "2026-03-30T02:34:02.206Z"
+generated_at: "2026-03-30T02:38:22.494Z"
 ---
 
 # § 87h. Funding
 
-- **(a)** There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+- **(a)** There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, 1 1 See Application of Section note below. to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 - **(b)**
   - **(1)** In this subsection:
     - **(A)** The term “official inspection or weighing service” means official inspection, official weighing, supervision of weighing, supervision of agency personnel, supervision of the field office personnel of the Secretary, testing of equipment or instruments, other services, or registration, the cost to the Secretary of which is authorized to be covered by the collection of a user fee pursuant to section 79, 79a, 79b, 87e, or 87f–1 of this title, as applicable.

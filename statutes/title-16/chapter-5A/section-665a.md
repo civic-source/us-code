@@ -3,9 +3,9 @@ title: "Section 665a - Maintenance of adequate water levels in upper Mississippi
 usc_title: 16
 usc_section: "665a"
 chapter: 5
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 665a"
-generated_at: "2026-03-30T02:35:00.879Z"
+generated_at: "2026-03-30T02:39:18.012Z"
 ---
 
 # § 665a. Maintenance of adequate water levels in upper Mississippi River

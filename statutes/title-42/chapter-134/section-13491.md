@@ -3,9 +3,9 @@ title: "Section 13491 - Purposes and definitions"
 usc_title: 42
 usc_section: "13491"
 chapter: 134
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 13491"
-generated_at: "2026-03-30T02:37:28.160Z"
+generated_at: "2026-03-30T02:41:05.739Z"
 ---
 
 # § 13491. Purposes and definitions

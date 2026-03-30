@@ -3,9 +3,9 @@ title: "Section 3310 - Annual report on United States security arrangements and 
 usc_title: 50
 usc_section: "3310"
 chapter: 45
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "50 U.S.C. § 3310"
-generated_at: "2026-03-30T02:37:43.854Z"
+generated_at: "2026-03-30T02:41:33.731Z"
 ---
 
 # § 3310. Annual report on United States security arrangements and commitments with other nations

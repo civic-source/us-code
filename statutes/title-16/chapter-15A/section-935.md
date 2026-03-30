@@ -3,9 +3,9 @@ title: "Section 935 - Acquisition of real property; construction and operation o
 usc_title: 16
 usc_section: "935"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 935"
-generated_at: "2026-03-30T02:35:00.929Z"
+generated_at: "2026-03-30T02:39:18.060Z"
 ---
 
 # § 935. Acquisition of real property; construction and operation of lamprey control works; entry into agreements for construction and operation of works

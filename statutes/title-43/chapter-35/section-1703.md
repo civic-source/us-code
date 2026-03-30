@@ -3,9 +3,9 @@ title: "Section 1703 - Repealed. Pub. L. 118–234, title III, § 315(a) , Jan. 
 usc_title: 43
 usc_section: "1703"
 chapter: 35
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 1703"
-generated_at: "2026-03-30T02:36:16.898Z"
+generated_at: "2026-03-30T02:40:30.293Z"
 ---
 
 # § 1703. Repealed. Pub. L. 118–234, title III, § 315(a) , Jan. 4, 2025 , 138 Stat. 2903

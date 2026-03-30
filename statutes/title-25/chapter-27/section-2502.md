@@ -3,9 +3,9 @@ title: "Section 2502 - Grants authorized"
 usc_title: 25
 usc_section: "2502"
 chapter: 27
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 2502"
-generated_at: "2026-03-30T02:35:15.205Z"
+generated_at: "2026-03-30T02:39:26.273Z"
 ---
 
 # § 2502. Grants authorized

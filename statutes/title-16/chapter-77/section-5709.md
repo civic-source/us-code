@@ -3,9 +3,9 @@ title: "Section 5709 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5709"
 chapter: 77
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 5709"
-generated_at: "2026-03-30T02:35:01.047Z"
+generated_at: "2026-03-30T02:39:18.178Z"
 ---
 
 # § 5709. Authorization of appropriations

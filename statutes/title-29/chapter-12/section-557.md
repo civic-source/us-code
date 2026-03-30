@@ -3,9 +3,9 @@ title: "Section 557 - Bureaus and offices in Department"
 usc_title: 29
 usc_section: "557"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 557"
-generated_at: "2026-03-30T02:35:37.928Z"
+generated_at: "2026-03-30T02:39:49.550Z"
 ---
 
 # § 557. Bureaus and offices in Department

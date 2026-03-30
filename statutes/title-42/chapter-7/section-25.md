@@ -3,9 +3,9 @@ title: "Section 25 - Organizational and financial requirements for Medicare+Choi
 usc_title: 42
 usc_section: "25"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-30T02:37:27.548Z"
+generated_at: "2026-03-30T02:41:05.130Z"
 ---
 
 # § 1395w–25. Organizational and financial requirements for Medicare+Choice organizations; provider-sponsored organizations

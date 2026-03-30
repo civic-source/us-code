@@ -3,9 +3,9 @@ title: "Section 319 - Rights-of-way for telephone and telegraph lines"
 usc_title: 25
 usc_section: "319"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 319"
-generated_at: "2026-03-30T02:35:15.152Z"
+generated_at: "2026-03-30T02:39:26.237Z"
 ---
 
 # § 319. Rights-of-way for telephone and telegraph lines

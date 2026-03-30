@@ -3,9 +3,9 @@ title: "Section 2451b - Omitted"
 usc_title: 19
 usc_section: "2451b"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 2451b"
-generated_at: "2026-03-30T02:34:56.459Z"
+generated_at: "2026-03-30T02:39:13.457Z"
 ---
 
 # §§ 2451 to 2451b. Omitted

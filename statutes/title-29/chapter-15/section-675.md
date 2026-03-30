@@ -3,9 +3,9 @@ title: "Section 675 - Annual reports by Secretary of Labor and Secretary of Heal
 usc_title: 29
 usc_section: "675"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 675"
-generated_at: "2026-03-30T02:35:37.934Z"
+generated_at: "2026-03-30T02:39:49.555Z"
 ---
 
 # § 675. Annual reports by Secretary of Labor and Secretary of Health and Human Services; contents

@@ -3,9 +3,9 @@ title: "Section 657o - Annual reports on disaster assistance"
 usc_title: 15
 usc_section: "657o"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 657o"
-generated_at: "2026-03-30T02:34:49.017Z"
+generated_at: "2026-03-30T02:38:47.702Z"
 ---
 
 # § 657o. Annual reports on disaster assistance

@@ -3,9 +3,9 @@ title: "Section 2255a - Financial assistance to national and international confe
 usc_title: 7
 usc_section: "2255a"
 chapter: 55
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 2255a"
-generated_at: "2026-03-30T02:34:02.414Z"
+generated_at: "2026-03-30T02:38:22.638Z"
 ---
 
 # § 2255a. Financial assistance to national and international conferences

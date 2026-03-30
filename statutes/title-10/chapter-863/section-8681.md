@@ -3,9 +3,9 @@ title: "Section 8681 - Repair or maintenance of naval vessels: handling of hazar
 usc_title: 10
 usc_section: "8681"
 chapter: 863
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 8681"
-generated_at: "2026-03-30T02:34:13.823Z"
+generated_at: "2026-03-30T02:38:38.523Z"
 ---
 
 # § 8681. Repair or maintenance of naval vessels: handling of hazardous waste

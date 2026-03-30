@@ -3,9 +3,9 @@ title: "Section 2905 - Accession of state trading regimes to General Agreement o
 usc_title: 19
 usc_section: "2905"
 chapter: 17
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 2905"
-generated_at: "2026-03-30T02:34:56.474Z"
+generated_at: "2026-03-30T02:39:13.532Z"
 ---
 
 # § 2905. Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO

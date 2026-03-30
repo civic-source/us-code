@@ -3,9 +3,9 @@ title: "Section 1504 - “Federal Register”; publishing; contents; distributio
 usc_title: 44
 usc_section: "1504"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "44 U.S.C. § 1504"
-generated_at: "2026-03-30T02:36:14.775Z"
+generated_at: "2026-03-30T02:40:29.363Z"
 ---
 
 # § 1504. “Federal Register”; publishing; contents; distribution; price; physical copies

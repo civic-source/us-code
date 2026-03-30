@@ -3,9 +3,9 @@ title: "Section 9511 - Private sector development"
 usc_title: 15
 usc_section: "9511"
 chapter: 120
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 9511"
-generated_at: "2026-03-30T02:34:49.221Z"
+generated_at: "2026-03-30T02:38:47.912Z"
 ---
 
 # § 9511. Private sector development

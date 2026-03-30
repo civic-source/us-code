@@ -3,9 +3,9 @@ title: "Section 9438 - Civilian faculty: number; compensation"
 usc_title: 10
 usc_section: "9438"
 chapter: 953
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9438"
-generated_at: "2026-03-30T02:34:13.834Z"
+generated_at: "2026-03-30T02:38:38.534Z"
 ---
 
 # § 9438. Civilian faculty: number; compensation

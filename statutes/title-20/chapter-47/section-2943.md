@@ -3,9 +3,9 @@ title: "Section 2943 - Omitted"
 usc_title: 20
 usc_section: "2943"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 2943"
-generated_at: "2026-03-30T02:35:09.577Z"
+generated_at: "2026-03-30T02:39:22.353Z"
 ---
 
 # §§ 2941 to 2943. Omitted

@@ -3,9 +3,9 @@ title: "Section 1440e - Exemption from naturalization fees for aliens naturalize
 usc_title: 8
 usc_section: "1440e"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "8 U.S.C. § 1440e"
-generated_at: "2026-03-30T02:34:06.843Z"
+generated_at: "2026-03-30T02:38:28.562Z"
 ---
 
 # § 1440e. Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General

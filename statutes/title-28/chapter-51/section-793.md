@@ -3,9 +3,9 @@ title: "Section 793 - Repealed. July 28, 1953, ch. 253, § 6 , 67 Stat. 226 ]"
 usc_title: 28
 usc_section: "793"
 chapter: 51
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "28 U.S.C. § 793"
-generated_at: "2026-03-30T02:35:53.723Z"
+generated_at: "2026-03-30T02:39:50.656Z"
 ---
 
 # [§ 793. Repealed. July 28, 1953, ch. 253, § 6 , 67 Stat. 226 ]

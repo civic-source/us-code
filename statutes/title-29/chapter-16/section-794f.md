@@ -3,9 +3,9 @@ title: "Section 794f - Establishment of standards for accessible medical diagnos
 usc_title: 29
 usc_section: "794f"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 794f"
-generated_at: "2026-03-30T02:35:37.945Z"
+generated_at: "2026-03-30T02:39:49.567Z"
 ---
 
 # § 794f. Establishment of standards for accessible medical diagnostic equipment

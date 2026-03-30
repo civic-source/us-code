@@ -3,9 +3,9 @@ title: "Section 859 - Adoption of annual accounting period"
 usc_title: 26
 usc_section: "859"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 859"
-generated_at: "2026-03-30T02:35:51.050Z"
+generated_at: "2026-03-30T02:40:09.696Z"
 ---
 
 # § 859. Adoption of annual accounting period

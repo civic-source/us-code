@@ -3,9 +3,9 @@ title: "Section 954 - Voluntary extension; probation"
 usc_title: 10
 usc_section: "954"
 chapter: 48
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 954"
-generated_at: "2026-03-30T02:34:13.659Z"
+generated_at: "2026-03-30T02:38:38.370Z"
 ---
 
 # § 954. Voluntary extension; probation

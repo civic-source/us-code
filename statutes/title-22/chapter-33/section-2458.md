@@ -3,9 +3,9 @@ title: "Section 2458 - Authority of President"
 usc_title: 22
 usc_section: "2458"
 chapter: 33
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2458"
-generated_at: "2026-03-30T02:35:21.432Z"
+generated_at: "2026-03-30T02:39:30.621Z"
 ---
 
 # § 2458. Authority of President

@@ -3,9 +3,9 @@ title: "Section 1061 - Execution of acknowledgments and verifications"
 usc_title: 15
 usc_section: "1061"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 1061"
-generated_at: "2026-03-30T02:34:49.044Z"
+generated_at: "2026-03-30T02:38:47.729Z"
 ---
 
 # § 1061. Execution of acknowledgments and verifications

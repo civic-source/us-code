@@ -3,9 +3,9 @@ title: "Section 991 - Repealed. Pub. L. 95–6, § 4 , Feb. 21, 1977 , 91 Stat. 
 usc_title: 16
 usc_section: "991"
 chapter: 17
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 991"
-generated_at: "2026-03-30T02:35:00.933Z"
+generated_at: "2026-03-30T02:39:18.064Z"
 ---
 
 # §§ 981 to 991. Repealed. Pub. L. 95–6, § 4 , Feb. 21, 1977 , 91 Stat. 16

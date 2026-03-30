@@ -3,9 +3,9 @@ title: "Section 3573 - Petition of the Government for modification or remission"
 usc_title: 18
 usc_section: "3573"
 chapter: 227
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 3573"
-generated_at: "2026-03-30T02:34:54.332Z"
+generated_at: "2026-03-30T02:39:19.689Z"
 ---
 
 # § 3573. Petition of the Government for modification or remission

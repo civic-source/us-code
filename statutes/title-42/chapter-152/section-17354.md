@@ -3,9 +3,9 @@ title: "Section 17354 - Annual report"
 usc_title: 42
 usc_section: "17354"
 chapter: 152
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 17354"
-generated_at: "2026-03-30T02:37:28.238Z"
+generated_at: "2026-03-30T02:41:05.818Z"
 ---
 
 # § 17354. Annual report

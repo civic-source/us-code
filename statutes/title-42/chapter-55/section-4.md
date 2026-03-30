@@ -3,9 +3,9 @@ title: "Section 4 - Coordination of required reviews"
 usc_title: 42
 usc_section: "4"
 chapter: 55
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:37:27.849Z"
+generated_at: "2026-03-30T02:41:05.425Z"
 ---
 
 # § 4370m–4. Coordination of required reviews

@@ -3,9 +3,9 @@ title: "Section 9067 - Assistant Surgeon General for Dental Services"
 usc_title: 10
 usc_section: "9067"
 chapter: 907
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9067"
-generated_at: "2026-03-30T02:34:13.830Z"
+generated_at: "2026-03-30T02:38:38.531Z"
 ---
 
 # § 9067. Assistant Surgeon General for Dental Services

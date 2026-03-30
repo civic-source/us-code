@@ -3,9 +3,9 @@ title: "Section 447 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "447"
 chapter: 13
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "45 U.S.C. § 447"
-generated_at: "2026-03-30T02:36:15.946Z"
+generated_at: "2026-03-30T02:40:47.232Z"
 ---
 
 # §§ 431 to 447. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

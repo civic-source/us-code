@@ -3,9 +3,9 @@ title: "Section 20108 - Crime victims notification grants"
 usc_title: 34
 usc_section: "20108"
 chapter: 201
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 20108"
-generated_at: "2026-03-30T02:35:57.262Z"
+generated_at: "2026-03-30T02:40:15.443Z"
 ---
 
 # § 20108. Crime victims notification grants

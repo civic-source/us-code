@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T02:37:27.618Z"
+generated_at: "2026-03-30T02:41:05.197Z"
 ---
 
 # § 1396a. State plans for medical assistance
@@ -859,7 +859,7 @@ generated_at: "2026-03-30T02:37:27.618Z"
     - **(D)** The individual is enrolled in an educational program at least half-time.
     - **(E)** The individual engages in any combination of the activities described in subparagraphs (A) through (D), for a total of not less than 80 hours.
     - **(F)** The individual has a monthly income that is not less than the applicable minimum wage requirement under section 206 of title 29 , multiplied by 80 hours.
-    - **(G)** The individual had an average monthly income over the preceding 6 months that is not less than the applicable minimum wage requirement under section 206 of title 29 multiplied by 80 hours, and is a seasonal worker, as described in section 45R(d)(5)(B) of the Internal Revenue Code of 1986 . 21
+    - **(G)** The individual had an average monthly income over the preceding 6 months that is not less than the applicable minimum wage requirement under section 206 of title 29 multiplied by 80 hours, and is a seasonal worker, as described in section 45R(d)(5)(B) of the Internal Revenue Code of 1986 . 6
   - **(3)**
     - **(A)** The State shall deem an applicable individual to have demonstrated community engagement under paragraph (2) for a month, and may elect to not require an individual to verify information resulting in such deeming, if—
       - **(i)** for part or all of such month, the individual—

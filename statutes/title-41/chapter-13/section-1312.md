@@ -3,9 +3,9 @@ title: "Section 1312 - Functions"
 usc_title: 41
 usc_section: "1312"
 chapter: 13
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "41 U.S.C. § 1312"
-generated_at: "2026-03-30T02:36:15.544Z"
+generated_at: "2026-03-30T02:40:46.860Z"
 ---
 
 # § 1312. Functions

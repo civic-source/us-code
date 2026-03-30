@@ -3,9 +3,9 @@ title: "Section 881 - Cost of survey of grants to railroads; payment"
 usc_title: 43
 usc_section: "881"
 chapter: 21
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 881"
-generated_at: "2026-03-30T02:36:16.865Z"
+generated_at: "2026-03-30T02:40:30.264Z"
 ---
 
 # § 881. Cost of survey of grants to railroads; payment

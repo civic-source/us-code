@@ -3,9 +3,9 @@ title: "Section 23 - Adoption expenses"
 usc_title: 26
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 23"
-generated_at: "2026-03-30T02:35:50.862Z"
+generated_at: "2026-03-30T02:40:09.518Z"
 ---
 
 # § 23. Adoption expenses

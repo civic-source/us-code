@@ -3,9 +3,9 @@ title: "Section 2184 - Purchase of furniture or carpets for House or Senate"
 usc_title: 2
 usc_section: "2184"
 chapter: 30
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "2 U.S.C. § 2184"
-generated_at: "2026-03-30T02:33:44.333Z"
+generated_at: "2026-03-30T02:38:04.745Z"
 ---
 
 # § 2184. Purchase of furniture or carpets for House or Senate

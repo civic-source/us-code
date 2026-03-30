@@ -3,9 +3,9 @@ title: "Section 466 - Sense of Congress reaffirming the continued importance and
 usc_title: 6
 usc_section: "466"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 466"
-generated_at: "2026-03-30T02:33:52.936Z"
+generated_at: "2026-03-30T02:38:13.734Z"
 ---
 
 # § 466. Sense of Congress reaffirming the continued importance and applicability of the Posse Comitatus Act

@@ -3,9 +3,9 @@ title: "Section 20252 - Special selection boards; correction of errors"
 usc_title: 10
 usc_section: "20252"
 chapter: 2005
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 20252"
-generated_at: "2026-03-30T02:34:13.861Z"
+generated_at: "2026-03-30T02:38:38.560Z"
 ---
 
 # § 20252. Special selection boards; correction of errors

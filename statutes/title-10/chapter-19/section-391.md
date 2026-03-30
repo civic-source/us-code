@@ -3,9 +3,9 @@ title: "Section 391 - Reporting on cyber incidents with respect to networks and 
 usc_title: 10
 usc_section: "391"
 chapter: 19
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 391"
-generated_at: "2026-03-30T02:34:13.623Z"
+generated_at: "2026-03-30T02:38:38.334Z"
 ---
 
 # § 391. Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors

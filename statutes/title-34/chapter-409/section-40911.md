@@ -3,9 +3,9 @@ title: "Section 40911 - Enhancement of requirement that Federal departments and 
 usc_title: 34
 usc_section: "40911"
 chapter: 409
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 40911"
-generated_at: "2026-03-30T02:35:57.292Z"
+generated_at: "2026-03-30T02:40:15.469Z"
 ---
 
 # § 40911. Enhancement of requirement that Federal departments and agencies provide relevant information to the National Instant Criminal Background Check System

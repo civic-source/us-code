@@ -3,9 +3,9 @@ title: "Section 2004b - Implementation of education, hospital and health facilit
 usc_title: 42
 usc_section: "2004b"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 2004b"
-generated_at: "2026-03-30T02:37:27.765Z"
+generated_at: "2026-03-30T02:41:05.343Z"
 ---
 
 # § 2004b. Implementation of education, hospital and health facility, etc., contracts and grants by Public Health Service personnel; request for detail of personnel

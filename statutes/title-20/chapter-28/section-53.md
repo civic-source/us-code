@@ -3,9 +3,9 @@ title: "Section 53 - Grants for Federal work-study programs"
 usc_title: 20
 usc_section: "53"
 chapter: 28
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 53"
-generated_at: "2026-03-30T02:35:09.497Z"
+generated_at: "2026-03-30T02:39:22.283Z"
 ---
 
 # § 1087–53. Grants for Federal work-study programs

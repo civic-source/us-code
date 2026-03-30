@@ -3,9 +3,9 @@ title: "Section 1066a - Ex parte expungement"
 usc_title: 15
 usc_section: "1066a"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 1066a"
-generated_at: "2026-03-30T02:34:49.044Z"
+generated_at: "2026-03-30T02:38:47.730Z"
 ---
 
 # § 1066a. Ex parte expungement

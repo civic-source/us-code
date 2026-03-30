@@ -3,9 +3,9 @@ title: "Section 67 - Individual liability of shareholders; compromises; authorit
 usc_title: 12
 usc_section: "67"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 67"
-generated_at: "2026-03-30T02:34:45.230Z"
+generated_at: "2026-03-30T02:38:50.897Z"
 ---
 
 # § 67. Individual liability of shareholders; compromises; authority of receiver

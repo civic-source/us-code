@@ -3,9 +3,9 @@ title: "Section 4222 - Registration"
 usc_title: 26
 usc_section: "4222"
 chapter: 32
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 4222"
-generated_at: "2026-03-30T02:35:51.133Z"
+generated_at: "2026-03-30T02:40:09.771Z"
 ---
 
 # § 4222. Registration

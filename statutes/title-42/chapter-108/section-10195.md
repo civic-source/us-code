@@ -3,9 +3,9 @@ title: "Section 10195 - Test and evaluation facility siting review and reports"
 usc_title: 42
 usc_section: "10195"
 chapter: 108
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 10195"
-generated_at: "2026-03-30T02:37:28.079Z"
+generated_at: "2026-03-30T02:41:05.656Z"
 ---
 
 # § 10195. Test and evaluation facility siting review and reports

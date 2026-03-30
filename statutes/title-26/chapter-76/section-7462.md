@@ -3,9 +3,9 @@ title: "Section 7462 - Publication of reports"
 usc_title: 26
 usc_section: "7462"
 chapter: 76
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 7462"
-generated_at: "2026-03-30T02:35:51.226Z"
+generated_at: "2026-03-30T02:40:09.858Z"
 ---
 
 # § 7462. Publication of reports

@@ -3,9 +3,9 @@ title: "Section 905 - Applicable rules"
 usc_title: 26
 usc_section: "905"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 905"
-generated_at: "2026-03-30T02:35:51.062Z"
+generated_at: "2026-03-30T02:40:09.707Z"
 ---
 
 # § 905. Applicable rules

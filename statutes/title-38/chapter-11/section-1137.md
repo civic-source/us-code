@@ -3,9 +3,9 @@ title: "Section 1137 - Wartime presumptions for certain veterans"
 usc_title: 38
 usc_section: "1137"
 chapter: 11
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 1137"
-generated_at: "2026-03-30T02:36:12.587Z"
+generated_at: "2026-03-30T02:40:27.197Z"
 ---
 
 # § 1137. Wartime presumptions for certain veterans

@@ -3,9 +3,9 @@ title: "Section 31325 - Preferred mortgage liens and enforcement"
 usc_title: 46
 usc_section: "31325"
 chapter: 313
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "46 U.S.C. § 31325"
-generated_at: "2026-03-30T02:37:37.564Z"
+generated_at: "2026-03-30T02:41:10.810Z"
 ---
 
 # § 31325. Preferred mortgage liens and enforcement

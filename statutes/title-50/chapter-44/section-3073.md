@@ -3,9 +3,9 @@ title: "Section 3073 - Advisory committees; appointment; compensation of part-ti
 usc_title: 50
 usc_section: "3073"
 chapter: 44
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "50 U.S.C. § 3073"
-generated_at: "2026-03-30T02:37:43.842Z"
+generated_at: "2026-03-30T02:41:33.722Z"
 ---
 
 # § 3073. Advisory committees; appointment; compensation of part-time personnel; applicability of other laws

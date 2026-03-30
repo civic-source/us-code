@@ -3,9 +3,9 @@ title: "Section 2211c - Poverty measurement methods"
 usc_title: 22
 usc_section: "2211c"
 chapter: 32
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2211c"
-generated_at: "2026-03-30T02:35:21.408Z"
+generated_at: "2026-03-30T02:39:30.601Z"
 ---
 
 # § 2211c. Poverty measurement methods

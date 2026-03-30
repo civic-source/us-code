@@ -3,9 +3,9 @@ title: "Section 247a - Records of action on policy relating to open-market opera
 usc_title: 12
 usc_section: "247a"
 chapter: 3
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 247a"
-generated_at: "2026-03-30T02:34:45.302Z"
+generated_at: "2026-03-30T02:38:50.904Z"
 ---
 
 # § 247a. Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress

@@ -3,9 +3,9 @@ title: "Section 224 - Other reporting requirements"
 usc_title: 6
 usc_section: "224"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 224"
-generated_at: "2026-03-30T02:33:52.912Z"
+generated_at: "2026-03-30T02:38:13.716Z"
 ---
 
 # § 224. Other reporting requirements

@@ -3,9 +3,9 @@ title: "Section 3 - Tribal authority to change eligibility for, or amount of, ge
 usc_title: 25
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-03-30T02:35:15.144Z"
+generated_at: "2026-03-30T02:39:26.230Z"
 ---
 
 # § 13d–3. Tribal authority to change eligibility for, or amount of, general assistance payments

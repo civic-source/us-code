@@ -3,9 +3,9 @@ title: "Section 205a - Congressional statement of findings"
 usc_title: 15
 usc_section: "205a"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 205a"
-generated_at: "2026-03-30T02:34:48.970Z"
+generated_at: "2026-03-30T02:38:47.652Z"
 ---
 
 # § 205a. Congressional statement of findings

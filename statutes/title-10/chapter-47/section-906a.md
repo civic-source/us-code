@@ -3,9 +3,9 @@ title: "Section 906a - Art. 106a. Wearing unauthorized insignia, decoration, bad
 usc_title: 10
 usc_section: "906a"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 906a"
-generated_at: "2026-03-30T02:34:13.652Z"
+generated_at: "2026-03-30T02:38:38.363Z"
 ---
 
 # § 906a. Art. 106a. Wearing unauthorized insignia, decoration, badge, ribbon, device, or lapel button

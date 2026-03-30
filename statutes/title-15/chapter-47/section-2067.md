@@ -3,9 +3,9 @@ title: "Section 2067 - Exemption of exports"
 usc_title: 15
 usc_section: "2067"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 2067"
-generated_at: "2026-03-30T02:34:49.100Z"
+generated_at: "2026-03-30T02:38:47.786Z"
 ---
 
 # § 2067. Exemption of exports

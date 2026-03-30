@@ -3,9 +3,9 @@ title: "Section 6107 - Enforcement of orders"
 usc_title: 15
 usc_section: "6107"
 chapter: 87
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 6107"
-generated_at: "2026-03-30T02:34:49.163Z"
+generated_at: "2026-03-30T02:38:47.853Z"
 ---
 
 # § 6107. Enforcement of orders

@@ -3,9 +3,9 @@ title: "Section 1805 - Failure to meet performance standards; resolution of issu
 usc_title: 48
 usc_section: "1805"
 chapter: 17
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "48 U.S.C. § 1805"
-generated_at: "2026-03-30T02:37:38.262Z"
+generated_at: "2026-03-30T02:41:22.263Z"
 ---
 
 # § 1805. Failure to meet performance standards; resolution of issues; withholding of funds

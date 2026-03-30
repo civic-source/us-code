@@ -3,9 +3,9 @@ title: "Section 1136 - Security exercises"
 usc_title: 6
 usc_section: "1136"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 1136"
-generated_at: "2026-03-30T02:33:52.972Z"
+generated_at: "2026-03-30T02:38:13.766Z"
 ---
 
 # § 1136. Security exercises

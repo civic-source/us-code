@@ -3,9 +3,9 @@ title: "Section 76 - Transferred"
 usc_title: 45
 usc_section: "76"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "45 U.S.C. § 76"
-generated_at: "2026-03-30T02:36:15.929Z"
+generated_at: "2026-03-30T02:40:47.215Z"
 ---
 
 # §§ 75, 76. Transferred

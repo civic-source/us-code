@@ -3,9 +3,9 @@ title: "Section 6404 - Coral reef action plans"
 usc_title: 16
 usc_section: "6404"
 chapter: 83
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 6404"
-generated_at: "2026-03-30T02:35:01.050Z"
+generated_at: "2026-03-30T02:39:18.181Z"
 ---
 
 # § 6404. Coral reef action plans

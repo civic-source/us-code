@@ -3,9 +3,9 @@ title: "Section 492 - Biennial assessment and report on the delivery platforms f
 usc_title: 10
 usc_section: "492"
 chapter: 24
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 492"
-generated_at: "2026-03-30T02:34:13.629Z"
+generated_at: "2026-03-30T02:38:38.339Z"
 ---
 
 # § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system

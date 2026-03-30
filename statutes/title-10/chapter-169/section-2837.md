@@ -3,9 +3,9 @@ title: "Section 2837 - Housing Requirements and Market Analysis"
 usc_title: 10
 usc_section: "2837"
 chapter: 169
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 2837"
-generated_at: "2026-03-30T02:34:13.756Z"
+generated_at: "2026-03-30T02:38:38.461Z"
 ---
 
 # § 2837. Housing Requirements and Market Analysis

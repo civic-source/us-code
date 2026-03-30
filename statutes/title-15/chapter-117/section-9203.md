@@ -3,9 +3,9 @@ title: "Section 9203 - NIST support for research and standards on generative adv
 usc_title: 15
 usc_section: "9203"
 chapter: 117
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 9203"
-generated_at: "2026-03-30T02:34:49.218Z"
+generated_at: "2026-03-30T02:38:47.908Z"
 ---
 
 # § 9203. NIST support for research and standards on generative adversarial networks

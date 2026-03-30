@@ -3,9 +3,9 @@ title: "Section 372 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(19) , N
 usc_title: 26
 usc_section: "372"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 372"
-generated_at: "2026-03-30T02:35:50.967Z"
+generated_at: "2026-03-30T02:40:09.616Z"
 ---
 
 # [§§ 370 to 372. Repealed. Pub. L. 101–508, title XI, § 11801(a)(19) , Nov. 5, 1990 , 104 Stat. 1388–521 ]

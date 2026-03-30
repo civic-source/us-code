@@ -3,9 +3,9 @@ title: "Section 1012 - Disbursement and accounting: pay of enlisted members of t
 usc_title: 37
 usc_section: "1012"
 chapter: 19
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "37 U.S.C. § 1012"
-generated_at: "2026-03-30T02:36:07.280Z"
+generated_at: "2026-03-30T02:40:21.323Z"
 ---
 
 # § 1012. Disbursement and accounting: pay of enlisted members of the National Guard

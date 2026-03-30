@@ -3,9 +3,9 @@ title: "Section 450j - Transferred"
 usc_title: 7
 usc_section: "450j"
 chapter: 17
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 450j"
-generated_at: "2026-03-30T02:34:02.254Z"
+generated_at: "2026-03-30T02:38:22.528Z"
 ---
 
 # § 450j. Transferred

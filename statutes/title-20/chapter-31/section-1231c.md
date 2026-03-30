@@ -3,9 +3,9 @@ title: "Section 1231c - Advice, counsel, and technical assistance"
 usc_title: 20
 usc_section: "1231c"
 chapter: 31
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 1231c"
-generated_at: "2026-03-30T02:35:09.545Z"
+generated_at: "2026-03-30T02:39:22.325Z"
 ---
 
 # § 1231c. Advice, counsel, and technical assistance

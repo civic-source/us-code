@@ -3,9 +3,9 @@ title: "Section 1831i - Agency disapproval of directors and senior executive off
 usc_title: 12
 usc_section: "1831i"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 1831i"
-generated_at: "2026-03-30T02:34:45.437Z"
+generated_at: "2026-03-30T02:38:51.007Z"
 ---
 
 # § 1831i. Agency disapproval of directors and senior executive officers of insured depository institutions or depository institution holding companies

@@ -3,9 +3,9 @@ title: "Section 2207 - Young, beginning, and small farmers and ranchers"
 usc_title: 12
 usc_section: "2207"
 chapter: 23
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 2207"
-generated_at: "2026-03-30T02:34:45.463Z"
+generated_at: "2026-03-30T02:38:51.028Z"
 ---
 
 # § 2207. Young, beginning, and small farmers and ranchers

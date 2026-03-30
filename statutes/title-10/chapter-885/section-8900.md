@@ -3,9 +3,9 @@ title: "Section 8900 - Evidence admissible when witness is not available"
 usc_title: 10
 usc_section: "8900"
 chapter: 885
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 8900"
-generated_at: "2026-03-30T02:34:13.828Z"
+generated_at: "2026-03-30T02:38:38.528Z"
 ---
 
 # § 8900. Evidence admissible when witness is not available

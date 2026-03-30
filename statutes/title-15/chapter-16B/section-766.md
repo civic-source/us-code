@@ -3,9 +3,9 @@ title: "Section 766 - Administrative provisions"
 usc_title: 15
 usc_section: "766"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 766"
-generated_at: "2026-03-30T02:34:49.038Z"
+generated_at: "2026-03-30T02:38:47.722Z"
 ---
 
 # § 766. Administrative provisions

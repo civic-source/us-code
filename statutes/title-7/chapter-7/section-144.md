@@ -3,9 +3,9 @@ title: "Section 144 - Repealed. Pub. L. 85–36, title I, § 111 , May 23, 1957 
 usc_title: 7
 usc_section: "144"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 144"
-generated_at: "2026-03-30T02:34:02.239Z"
+generated_at: "2026-03-30T02:38:22.517Z"
 ---
 
 # §§ 141 to 144. Repealed. Pub. L. 85–36, title I, § 111 , May 23, 1957 , 71 Stat. 35

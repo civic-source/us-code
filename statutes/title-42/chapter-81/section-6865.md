@@ -3,9 +3,9 @@ title: "Section 6865 - Limitations on financial assistance"
 usc_title: 42
 usc_section: "6865"
 chapter: 81
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 6865"
-generated_at: "2026-03-30T02:37:27.929Z"
+generated_at: "2026-03-30T02:41:05.506Z"
 ---
 
 # § 6865. Limitations on financial assistance

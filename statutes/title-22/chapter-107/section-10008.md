@@ -3,9 +3,9 @@ title: "Section 10008 - Multilateral assistance"
 usc_title: 22
 usc_section: "10008"
 chapter: 107
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 10008"
-generated_at: "2026-03-30T02:35:21.587Z"
+generated_at: "2026-03-30T02:39:30.742Z"
 ---
 
 # § 10008. Multilateral assistance

@@ -3,9 +3,9 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-30T02:37:27.717Z"
+generated_at: "2026-03-30T02:41:05.295Z"
 ---
 
 # § 1758. Program requirements
@@ -309,10 +309,10 @@ generated_at: "2026-03-30T02:37:27.717Z"
     - **(B)** post in a publicly visible location a report on the most recent inspection conducted under subparagraph (A); and
     - **(C)** on request, provide a copy of the report to a member of the public.
   - **(2)** Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
-  - **(3)** For fiscal year 2024, each State shall annually—
+  - **(3)** For fiscal year 2026, each State shall annually—
     - **(A)** audit food safety inspections of schools conducted under paragraphs (1) and (2); and
     - **(B)** submit to the Secretary a report of the results of the audit.
-  - **(4)** For fiscal year 2024, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+  - **(4)** For fiscal year 2026, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
   - **(5)**
     - **(A)** Each school food authority shall implement a school food safety program, in the preparation and service of each meal served to children, that complies with any hazard analysis and critical control point system established by the Secretary.
     - **(B)** Subparagraph (A) shall apply to any facility or part of a facility in which food is stored, prepared, or served for the purposes of the school nutrition programs under this chapter or section 4 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773 ).

@@ -3,9 +3,9 @@ title: "Section 13709 - Procedures for resolving claims involving unfiled, negot
 usc_title: 49
 usc_section: "13709"
 chapter: 137
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 13709"
-generated_at: "2026-03-30T02:37:41.800Z"
+generated_at: "2026-03-30T02:41:31.783Z"
 ---
 
 # § 13709. Procedures for resolving claims involving unfiled, negotiated transportation rates

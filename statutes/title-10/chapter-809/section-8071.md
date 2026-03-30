@@ -3,9 +3,9 @@ title: "Section 8071 - Bureaus: names; location"
 usc_title: 10
 usc_section: "8071"
 chapter: 809
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 8071"
-generated_at: "2026-03-30T02:34:13.811Z"
+generated_at: "2026-03-30T02:38:38.512Z"
 ---
 
 # § 8071. Bureaus: names; location

@@ -3,9 +3,9 @@ title: "Section 422 - Retention for United States of defense articles procured f
 usc_title: 22
 usc_section: "422"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 422"
-generated_at: "2026-03-30T02:35:21.377Z"
+generated_at: "2026-03-30T02:39:30.575Z"
 ---
 
 # § 422. Retention for United States of defense articles procured for foreign governments

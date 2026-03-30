@@ -3,9 +3,9 @@ title: "Section 1644a - Definitions"
 usc_title: 22
 usc_section: "1644a"
 chapter: 21
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 1644a"
-generated_at: "2026-03-30T02:35:21.390Z"
+generated_at: "2026-03-30T02:39:30.586Z"
 ---
 
 # § 1644a. Definitions

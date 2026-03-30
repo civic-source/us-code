@@ -3,9 +3,9 @@ title: "Section 434 - Exemption of attorney-client communications"
 usc_title: 29
 usc_section: "434"
 chapter: 11
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 434"
-generated_at: "2026-03-30T02:35:37.926Z"
+generated_at: "2026-03-30T02:39:49.548Z"
 ---
 
 # § 434. Exemption of attorney-client communications

@@ -3,9 +3,9 @@ title: "Section 8103 - Biorefinery, renewable chemical, and biobased product man
 usc_title: 7
 usc_section: "8103"
 chapter: 107
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 8103"
-generated_at: "2026-03-30T02:34:02.563Z"
+generated_at: "2026-03-30T02:38:22.734Z"
 ---
 
 # § 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance
@@ -65,7 +65,7 @@ generated_at: "2026-03-30T02:34:02.563Z"
     - **(B)** Of the total amount of funds made available for fiscal years 2014 and 2015 under subparagraph (A), the Secretary may use for the cost of loan guarantees under this section not more than 15 percent of such funds to promote biobased product manufacturing.
   - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 - **(h)**
-  - **(1)** Notwithstanding subsections (a) through (e), and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available until September 30, 2031 , for the cost of loans under section 940g of title 7 , including for projects that store electricity that support the types of eligible projects under that section, which shall be forgiven in an amount that is not greater than 50 percent of the loan based on how the borrower and the project meets the terms and conditions for loan forgiveness consistent with the purposes of that section established by the Secretary, except as provided in paragraph (3).
+  - **(1)** Notwithstanding subsections (a) through (e), and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available until September 30, 2031 , for the cost of loans under section 317 of the Rural Electrification Act of 1936 ( 7 U.S.C. 940g ), including for projects that store electricity that support the types of eligible projects under that section, which shall be forgiven in an amount that is not greater than 50 percent of the loan based on how the borrower and the project meets the terms and conditions for loan forgiveness consistent with the purposes of that section established by the Secretary, except as provided in paragraph (3).
   - **(2)** The Secretary shall not enter into any loan agreement pursuant this subsection that could result in disbursements after September 30, 2031 .
   - **(3)** The Secretary shall establish criteria for waiving the 50 percent limitation described in paragraph (1).
 - **(i)**

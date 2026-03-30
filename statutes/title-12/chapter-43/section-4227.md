@@ -3,9 +3,9 @@ title: "Section 4227 - Unreviewed declarations; petition to pursue action as pri
 usc_title: 12
 usc_section: "4227"
 chapter: 43
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 4227"
-generated_at: "2026-03-30T02:34:45.506Z"
+generated_at: "2026-03-30T02:38:51.064Z"
 ---
 
 # § 4227. Unreviewed declarations; petition to pursue action as private contractor

@@ -3,9 +3,9 @@ title: "Section 455 - Disqualification of justice, judge, or magistrate judge"
 usc_title: 28
 usc_section: "455"
 chapter: 21
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "28 U.S.C. § 455"
-generated_at: "2026-03-30T02:35:53.710Z"
+generated_at: "2026-03-30T02:39:50.645Z"
 ---
 
 # § 455. Disqualification of justice, judge, or magistrate judge

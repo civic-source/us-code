@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T02:37:27.632Z"
+generated_at: "2026-03-30T02:41:05.210Z"
 ---
 
 # § 1396d. Definitions
@@ -382,4 +382,4 @@ For purposes of this subchapter—
     - **(A)** has been certified by a State as meeting the criteria established by the Secretary pursuant to subsection (a) of section 223 of the Protecting Access to Medicare Act 1 as of January 1, 2024 , and any subsequent updates to such criteria, regardless of whether the State is carrying out a demonstration program under this subchapter under subsection (d) of such section;
     - **(B)** is engaged in furnishing all of the services described in paragraph (1); and
     - **(C)** agrees, as a condition of the certification described in subparagraph (A), to furnish to the State or Secretary any data required as part of ongoing monitoring of the organization’s provision of services, including encounter data, clinical outcomes data, quality data, and such other data as the State or Secretary may require.
-- **(kk)** Notwithstanding subsection (y) and (z), beginning on October 1, 2026 , the Federal medical assistance percentage for payments for care and services described in paragraph (2) of subsection 10 10 So in original. Probably should be “section”. 1396b(v) of this title furnished to an alien described in paragraph (1) of such subsection 10 shall not exceed the Federal medical assistance percentage determined under subsection (b) for such State.
+- **(kk)** Notwithstanding subsection 10 10 So in original. Probably should be “subsections”. (y) and (z), beginning on October 1, 2026 , the Federal medical assistance percentage for payments for care and services described in paragraph (2) of subsection 11 11 So in original. Probably should be “section”. 1396b(v) of this title furnished to an alien described in paragraph (1) of such subsection 11 shall not exceed the Federal medical assistance percentage determined under subsection (b) for such State.

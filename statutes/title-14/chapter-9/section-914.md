@@ -3,9 +3,9 @@ title: "Section 914 - Disposition of infrastructure related to E–LORAN"
 usc_title: 14
 usc_section: "914"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 914"
-generated_at: "2026-03-30T02:34:26.213Z"
+generated_at: "2026-03-30T02:38:41.337Z"
 ---
 
 # § 914. Disposition of infrastructure related to E–LORAN

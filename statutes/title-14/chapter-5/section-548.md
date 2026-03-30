@@ -3,9 +3,9 @@ title: "Section 548 - Marking anchorage grounds by Commandant of the Coast Guard
 usc_title: 14
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 548"
-generated_at: "2026-03-30T02:34:26.209Z"
+generated_at: "2026-03-30T02:38:41.335Z"
 ---
 
 # § 548. 1 1 Another section 548 is set out after section 547 of this title . Marking anchorage grounds by Commandant of the Coast Guard

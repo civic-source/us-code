@@ -3,9 +3,9 @@ title: "Section 1096 - Military-civilian health services partnership program"
 usc_title: 10
 usc_section: "1096"
 chapter: 55
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 1096"
-generated_at: "2026-03-30T02:34:13.676Z"
+generated_at: "2026-03-30T02:38:38.387Z"
 ---
 
 # § 1096. Military-civilian health services partnership program

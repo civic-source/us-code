@@ -3,9 +3,9 @@ title: "Section 9682 - Obsolete or excess material: sale to National Council of 
 usc_title: 10
 usc_section: "9682"
 chapter: 973
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9682"
-generated_at: "2026-03-30T02:34:13.838Z"
+generated_at: "2026-03-30T02:38:38.538Z"
 ---
 
 # § 9682. Obsolete or excess material: sale to National Council of Boy Scouts of America

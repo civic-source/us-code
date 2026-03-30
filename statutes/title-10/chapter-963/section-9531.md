@@ -3,9 +3,9 @@ title: "Section 9531 - Commercial Augmentation Space Reserve. 1 1 So in original
 usc_title: 10
 usc_section: "9531"
 chapter: 963
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9531"
-generated_at: "2026-03-30T02:34:13.837Z"
+generated_at: "2026-03-30T02:38:38.537Z"
 ---
 
 # § 9531. Commercial Augmentation Space Reserve. 1 1 So in original. The period probably should not appear.

@@ -3,15 +3,15 @@ title: "Section 1313 - Rights and protections under Fair Labor Standards Act of 
 usc_title: 2
 usc_section: "1313"
 chapter: 24
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "2 U.S.C. § 1313"
-generated_at: "2026-03-30T02:33:44.305Z"
+generated_at: "2026-03-30T02:38:04.723Z"
 ---
 
 # § 1313. Rights and protections under Fair Labor Standards Act of 1938
 
 - **(a)**
-  - **(1)** The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, and section 12(c) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206 (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
+  - **(1)** The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, section 12(c), and section 18D of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206 (a)(1) and (d), 207, 212(c), 218d) shall apply to covered employees.
   - **(2)** For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c).
   - **(3)** Except as provided in regulations under subsection (c)(3) and in subsection (c)(4), covered employees may not receive compensatory time in lieu of overtime compensation.
 - **(b)** The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 216(b) ).

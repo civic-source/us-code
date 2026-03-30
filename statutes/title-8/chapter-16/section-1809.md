@@ -3,9 +3,9 @@ title: "Section 1809 - Fee relating to renewal and extension of employment autho
 usc_title: 8
 usc_section: "1809"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "8 U.S.C. § 1809"
-generated_at: "2026-03-30T02:34:06.858Z"
+generated_at: "2026-03-30T02:38:28.573Z"
 ---
 
 # § 1809. Fee relating to renewal and extension of employment authorization for parolees

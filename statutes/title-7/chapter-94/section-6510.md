@@ -3,9 +3,9 @@ title: "Section 6510 - Handling"
 usc_title: 7
 usc_section: "6510"
 chapter: 94
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 6510"
-generated_at: "2026-03-30T02:34:02.498Z"
+generated_at: "2026-03-30T02:38:22.692Z"
 ---
 
 # § 6510. Handling

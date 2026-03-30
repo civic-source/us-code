@@ -3,9 +3,9 @@ title: "Section 6038C - Information with respect to foreign corporations engaged
 usc_title: 26
 usc_section: "6038C"
 chapter: 61
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 6038C"
-generated_at: "2026-03-30T02:35:51.171Z"
+generated_at: "2026-03-30T02:40:09.808Z"
 ---
 
 # § 6038C. Information with respect to foreign corporations engaged in U.S. business

@@ -3,9 +3,9 @@ title: "Section 3581 - Objectives in intellectual property"
 usc_title: 19
 usc_section: "3581"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 3581"
-generated_at: "2026-03-30T02:34:56.483Z"
+generated_at: "2026-03-30T02:39:13.540Z"
 ---
 
 # § 3581. Objectives in intellectual property

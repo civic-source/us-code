@@ -3,9 +3,9 @@ title: "Section 1304 - Debtor engaged in business"
 usc_title: 11
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "11 U.S.C. § 1304"
-generated_at: "2026-03-30T02:34:28.126Z"
+generated_at: "2026-03-30T02:38:48.413Z"
 ---
 
 # § 1304. Debtor engaged in business

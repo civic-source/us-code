@@ -3,9 +3,9 @@ title: "Section 2325 - Sales price"
 usc_title: 42
 usc_section: "2325"
 chapter: 24
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 2325"
-generated_at: "2026-03-30T02:37:27.793Z"
+generated_at: "2026-03-30T02:41:05.369Z"
 ---
 
 # § 2325. Sales price

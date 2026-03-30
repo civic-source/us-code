@@ -3,9 +3,9 @@ title: "Section 672 - Omitted"
 usc_title: 16
 usc_section: "672"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 672"
-generated_at: "2026-03-30T02:35:00.885Z"
+generated_at: "2026-03-30T02:39:18.019Z"
 ---
 
 # § 672. Omitted

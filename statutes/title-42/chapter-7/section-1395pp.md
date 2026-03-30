@@ -3,9 +3,9 @@ title: "Section 1395pp - Limitation on liability where claims are disallowed"
 usc_title: 42
 usc_section: "1395pp"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1395pp"
-generated_at: "2026-03-30T02:37:27.589Z"
+generated_at: "2026-03-30T02:41:05.170Z"
 ---
 
 # § 1395pp. Limitation on liability where claims are disallowed

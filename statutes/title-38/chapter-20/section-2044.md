@@ -3,9 +3,9 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-30T02:36:12.614Z"
+generated_at: "2026-03-30T02:40:27.222Z"
 ---
 
 # § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
@@ -64,6 +64,7 @@ generated_at: "2026-03-30T02:36:12.614Z"
   - **(6)** $340,000,000 for fiscal year 2018.
   - **(7)** $380,000,000 for each of fiscal years 2019 and 2020.
   - **(8)** $420,000,000 for each of fiscal years 2021 through 2025.
+  - **(9)** $660,000,000 for fiscal year 2026.
 - **(f)** In this section:
   - **(1)** The term “consumer cooperative” has the meaning given such term in section 202 of the Housing Act of 1959 ( 12 U.S.C. 1701q ).
   - **(2)** The term “eligible entity” means—

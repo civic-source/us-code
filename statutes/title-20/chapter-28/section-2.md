@@ -3,9 +3,9 @@ title: "Section 2 - Grants for cooperative education"
 usc_title: 20
 usc_section: "2"
 chapter: 28
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T02:35:09.540Z"
+generated_at: "2026-03-30T02:39:22.321Z"
 ---
 
 # § 1161n–2. Grants for cooperative education

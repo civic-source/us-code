@@ -3,9 +3,9 @@ title: "Section 7442a - Cadets: nomination in event of death, resignation, or ex
 usc_title: 10
 usc_section: "7442a"
 chapter: 753
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 7442a"
-generated_at: "2026-03-30T02:34:13.802Z"
+generated_at: "2026-03-30T02:38:38.506Z"
 ---
 
 # § 7442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate

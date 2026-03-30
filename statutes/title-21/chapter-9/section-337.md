@@ -3,9 +3,9 @@ title: "Section 337 - Proceedings in name of United States; provision as to subp
 usc_title: 21
 usc_section: "337"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "21 U.S.C. § 337"
-generated_at: "2026-03-30T02:35:31.671Z"
+generated_at: "2026-03-30T02:39:43.893Z"
 ---
 
 # § 337. Proceedings in name of United States; provision as to subpoenas

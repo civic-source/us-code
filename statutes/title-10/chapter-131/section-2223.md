@@ -3,9 +3,9 @@ title: "Section 2223 - Information technology: additional responsibilities of Ch
 usc_title: 10
 usc_section: "2223"
 chapter: 131
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 2223"
-generated_at: "2026-03-30T02:34:13.722Z"
+generated_at: "2026-03-30T02:38:38.431Z"
 ---
 
 # § 2223. Information technology: additional responsibilities of Chief Information Officers

@@ -3,9 +3,9 @@ title: "Section 6513 - Prioritization"
 usc_title: 16
 usc_section: "6513"
 chapter: 84
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 6513"
-generated_at: "2026-03-30T02:35:01.054Z"
+generated_at: "2026-03-30T02:39:18.184Z"
 ---
 
 # § 6513. Prioritization

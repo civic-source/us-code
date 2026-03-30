@@ -3,9 +3,9 @@ title: "Section 4560 - Deductions by Chief Administrative Officer in disbursemen
 usc_title: 2
 usc_section: "4560"
 chapter: 45
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "2 U.S.C. § 4560"
-generated_at: "2026-03-30T02:33:44.339Z"
+generated_at: "2026-03-30T02:38:04.750Z"
 ---
 
 # § 4560. Deductions by Chief Administrative Officer in disbursement of gratuity appropriations

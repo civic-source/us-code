@@ -3,9 +3,9 @@ title: "Section 450aa - George Washington Carver National Monument; acquisition 
 usc_title: 16
 usc_section: "450aa"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 450aa"
-generated_at: "2026-03-30T02:35:00.789Z"
+generated_at: "2026-03-30T02:39:17.925Z"
 ---
 
 # § 450aa. George Washington Carver National Monument; acquisition of land

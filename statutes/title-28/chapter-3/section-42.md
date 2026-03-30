@@ -3,9 +3,9 @@ title: "Section 42 - Allotment of Supreme Court justices to circuits"
 usc_title: 28
 usc_section: "42"
 chapter: 3
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "28 U.S.C. § 42"
-generated_at: "2026-03-30T02:35:53.700Z"
+generated_at: "2026-03-30T02:39:50.634Z"
 ---
 
 # § 42. Allotment of Supreme Court justices to circuits

@@ -3,9 +3,9 @@ title: "Section 20232 - Authority to allow officers to opt out of selection boar
 usc_title: 10
 usc_section: "20232"
 chapter: 2005
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 20232"
-generated_at: "2026-03-30T02:34:13.860Z"
+generated_at: "2026-03-30T02:38:38.559Z"
 ---
 
 # § 20232. Authority to allow officers to opt out of selection board consideration

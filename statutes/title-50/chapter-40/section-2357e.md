@@ -3,9 +3,9 @@ title: "Section 2357e - Confidentiality of information"
 usc_title: 50
 usc_section: "2357e"
 chapter: 40
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "50 U.S.C. § 2357e"
-generated_at: "2026-03-30T02:37:43.812Z"
+generated_at: "2026-03-30T02:41:33.697Z"
 ---
 
 # § 2357e. Confidentiality of information

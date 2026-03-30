@@ -3,9 +3,9 @@ title: "Section 4742 - Definitions"
 usc_title: 12
 usc_section: "4742"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 4742"
-generated_at: "2026-03-30T02:34:45.527Z"
+generated_at: "2026-03-30T02:38:51.082Z"
 ---
 
 # § 4742. Definitions

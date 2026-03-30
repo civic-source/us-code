@@ -3,9 +3,9 @@ title: "Section 2077a - Interagency review of applications for the transfer of U
 usc_title: 42
 usc_section: "2077a"
 chapter: 23
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 2077a"
-generated_at: "2026-03-30T02:37:27.772Z"
+generated_at: "2026-03-30T02:41:05.349Z"
 ---
 
 # § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology

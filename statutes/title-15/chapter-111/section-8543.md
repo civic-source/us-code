@@ -3,9 +3,9 @@ title: "Section 8543 - Office of Oceanic and Atmospheric Research and National W
 usc_title: 15
 usc_section: "8543"
 chapter: 111
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 8543"
-generated_at: "2026-03-30T02:34:49.197Z"
+generated_at: "2026-03-30T02:38:47.888Z"
 ---
 
 # § 8543. Office of Oceanic and Atmospheric Research and National Weather Service exchange program

@@ -3,9 +3,9 @@ title: "Section 3 - RTC and FDIC properties"
 usc_title: 12
 usc_section: "3"
 chapter: 11
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T02:34:45.333Z"
+generated_at: "2026-03-30T02:38:50.926Z"
 ---
 
 # § 1441a–3. RTC and FDIC properties

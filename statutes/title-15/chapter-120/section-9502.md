@@ -3,9 +3,9 @@ title: "Section 9502 - Minority Business Development Agency"
 usc_title: 15
 usc_section: "9502"
 chapter: 120
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 9502"
-generated_at: "2026-03-30T02:34:49.221Z"
+generated_at: "2026-03-30T02:38:47.912Z"
 ---
 
 # § 9502. Minority Business Development Agency

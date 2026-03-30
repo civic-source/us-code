@@ -3,9 +3,9 @@ title: "Section 1071 - Appeal to courts"
 usc_title: 15
 usc_section: "1071"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 1071"
-generated_at: "2026-03-30T02:34:49.045Z"
+generated_at: "2026-03-30T02:38:47.730Z"
 ---
 
 # § 1071. Appeal to courts

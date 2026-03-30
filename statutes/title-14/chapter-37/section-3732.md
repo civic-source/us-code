@@ -3,9 +3,9 @@ title: "Section 3732 - Applicability of this subchapter"
 usc_title: 14
 usc_section: "3732"
 chapter: 37
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 3732"
-generated_at: "2026-03-30T02:34:26.226Z"
+generated_at: "2026-03-30T02:38:41.349Z"
 ---
 
 # § 3732. Applicability of this subchapter

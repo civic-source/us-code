@@ -3,9 +3,9 @@ title: "Section 15705 - Biannual meetings of representatives of all Commissions"
 usc_title: 40
 usc_section: "15705"
 chapter: 157
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "40 U.S.C. § 15705"
-generated_at: "2026-03-30T02:36:06.823Z"
+generated_at: "2026-03-30T02:40:20.753Z"
 ---
 
 # § 15705. Biannual meetings of representatives of all Commissions

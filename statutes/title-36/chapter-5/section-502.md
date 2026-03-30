@@ -3,9 +3,9 @@ title: "Section 502 - Regulations, licenses, and registration tags"
 usc_title: 36
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "36 U.S.C. § 502"
-generated_at: "2026-03-30T02:36:09.126Z"
+generated_at: "2026-03-30T02:40:22.784Z"
 ---
 
 # § 502. Regulations, licenses, and registration tags

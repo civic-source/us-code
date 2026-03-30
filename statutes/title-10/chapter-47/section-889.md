@@ -3,9 +3,9 @@ title: "Section 889 - Art. 89. Disrespect toward superior commissioned officer; 
 usc_title: 10
 usc_section: "889"
 chapter: 47
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 889"
-generated_at: "2026-03-30T02:34:13.652Z"
+generated_at: "2026-03-30T02:38:38.362Z"
 ---
 
 # § 889. Art. 89. Disrespect toward superior commissioned officer; assault of superior commissioned officer

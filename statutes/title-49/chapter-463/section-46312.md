@@ -3,9 +3,9 @@ title: "Section 46312 - Transporting hazardous material"
 usc_title: 49
 usc_section: "46312"
 chapter: 463
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 46312"
-generated_at: "2026-03-30T02:37:41.905Z"
+generated_at: "2026-03-30T02:41:31.868Z"
 ---
 
 # § 46312. Transporting hazardous material

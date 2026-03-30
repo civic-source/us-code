@@ -3,9 +3,9 @@ title: "Section 13144 - Limitations on outside employment"
 usc_title: 5
 usc_section: "13144"
 chapter: 131
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 13144"
-generated_at: "2026-03-30T02:33:47.858Z"
+generated_at: "2026-03-30T02:38:10.864Z"
 ---
 
 # § 13144. Limitations on outside employment
@@ -20,3 +20,4 @@ generated_at: "2026-03-30T02:33:47.858Z"
   - **(1)** when received by a justice of the United States retired from regular active service under section 371(b) of title 28 ;
   - **(2)** when received by a judge of the United States retired from regular active service under section 371(b) of title 28 , for teaching performed during any calendar year for which such judge has met the requirements of subsection (e) of section 371 of title 28 , as certified in accordance with such subsection; or
   - **(3)** when received by a justice or judge of the United States retired from regular active service under section 372(a) of title 28 .
+- **(c)** For purposes of this section, the relationship between a Member who is a Representative in, or Delegate or Resident Commissioner to, the Congress and who is providing care directly to a patient in the form of medical services or dental services and the patient to whom such care is provided shall not be considered a fiduciary relationship.

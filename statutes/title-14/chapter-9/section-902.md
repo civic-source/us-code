@@ -3,9 +3,9 @@ title: "Section 902 - Employment of draftsmen and engineers"
 usc_title: 14
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 902"
-generated_at: "2026-03-30T02:34:26.213Z"
+generated_at: "2026-03-30T02:38:41.336Z"
 ---
 
 # § 902. Employment of draftsmen and engineers

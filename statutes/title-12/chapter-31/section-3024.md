@@ -3,9 +3,9 @@ title: "Section 3024 - Conflict of interest rules; adoption and publication; req
 usc_title: 12
 usc_section: "3024"
 chapter: 31
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 3024"
-generated_at: "2026-03-30T02:34:45.485Z"
+generated_at: "2026-03-30T02:38:51.045Z"
 ---
 
 # § 3024. Conflict of interest rules; adoption and publication; requirements

@@ -3,9 +3,9 @@ title: "Section 197 - Omitted"
 usc_title: 29
 usc_section: "197"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 197"
-generated_at: "2026-03-30T02:35:37.921Z"
+generated_at: "2026-03-30T02:39:49.542Z"
 ---
 
 # §§ 191 to 197. Omitted

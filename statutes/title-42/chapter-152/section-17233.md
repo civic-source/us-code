@@ -3,9 +3,9 @@ title: "Section 17233 - Energy storage technology and microgrid assistance progr
 usc_title: 42
 usc_section: "17233"
 chapter: 152
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 17233"
-generated_at: "2026-03-30T02:37:28.233Z"
+generated_at: "2026-03-30T02:41:05.814Z"
 ---
 
 # § 17233. Energy storage technology and microgrid assistance program

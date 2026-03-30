@@ -3,9 +3,9 @@ title: "Section 635k - Apportionment of losses incurred on loans, guarantees, an
 usc_title: 12
 usc_section: "635k"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 635k"
-generated_at: "2026-03-30T02:34:45.324Z"
+generated_at: "2026-03-30T02:38:50.920Z"
 ---
 
 # § 635k. Apportionment of losses incurred on loans, guarantees, and insurance; reimbursement; contingent obligations

@@ -3,9 +3,9 @@ title: "Section 2202 - Other applicable provisions"
 usc_title: 25
 usc_section: "2202"
 chapter: 24
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 2202"
-generated_at: "2026-03-30T02:35:15.198Z"
+generated_at: "2026-03-30T02:39:26.269Z"
 ---
 
 # § 2202. Other applicable provisions

@@ -3,9 +3,9 @@ title: "Section 12186 - Program priority for special emphasis programs"
 usc_title: 34
 usc_section: "12186"
 chapter: 121
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 12186"
-generated_at: "2026-03-30T02:35:57.248Z"
+generated_at: "2026-03-30T02:40:15.430Z"
 ---
 
 # § 12186. Program priority for special emphasis programs

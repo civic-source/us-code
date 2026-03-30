@@ -3,9 +3,9 @@ title: "Section 3954 - Settlement of stayed cases relating to personal property"
 usc_title: 50
 usc_section: "3954"
 chapter: 50
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "50 U.S.C. § 3954"
-generated_at: "2026-03-30T02:37:43.887Z"
+generated_at: "2026-03-30T02:41:33.758Z"
 ---
 
 # § 3954. Settlement of stayed cases relating to personal property

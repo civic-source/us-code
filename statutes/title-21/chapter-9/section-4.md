@@ -3,9 +3,9 @@ title: "Section 4 - Reporting requirements"
 usc_title: 21
 usc_section: "4"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "21 U.S.C. § 4"
-generated_at: "2026-03-30T02:35:31.730Z"
+generated_at: "2026-03-30T02:39:43.960Z"
 ---
 
 # § 379d–4. Reporting requirements

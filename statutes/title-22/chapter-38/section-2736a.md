@@ -3,9 +3,9 @@ title: "Section 2736a - Recruitment and retention"
 usc_title: 22
 usc_section: "2736a"
 chapter: 38
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2736a"
-generated_at: "2026-03-30T02:35:21.453Z"
+generated_at: "2026-03-30T02:39:30.637Z"
 ---
 
 # § 2736a. Recruitment and retention

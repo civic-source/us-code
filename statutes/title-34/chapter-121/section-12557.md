@@ -3,9 +3,9 @@ title: "Section 12557 - Police Corps training"
 usc_title: 34
 usc_section: "12557"
 chapter: 121
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 12557"
-generated_at: "2026-03-30T02:35:57.258Z"
+generated_at: "2026-03-30T02:40:15.440Z"
 ---
 
 # § 12557. Police Corps training

@@ -3,9 +3,9 @@ title: "Section 2082 - Authority of Commission to accept gifts and conduct other
 usc_title: 2
 usc_section: "2082"
 chapter: 30
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "2 U.S.C. § 2082"
-generated_at: "2026-03-30T02:33:44.330Z"
+generated_at: "2026-03-30T02:38:04.742Z"
 ---
 
 # § 2082. Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property

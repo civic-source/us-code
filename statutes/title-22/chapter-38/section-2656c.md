@@ -3,9 +3,9 @@ title: "Section 2656c - Responsibilities of President"
 usc_title: 22
 usc_section: "2656c"
 chapter: 38
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 2656c"
-generated_at: "2026-03-30T02:35:21.442Z"
+generated_at: "2026-03-30T02:39:30.628Z"
 ---
 
 # § 2656c. Responsibilities of President

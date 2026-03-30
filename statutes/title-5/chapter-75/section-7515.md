@@ -3,9 +3,9 @@ title: "Section 7515 - Discipline of supervisors based on retaliation against wh
 usc_title: 5
 usc_section: "7515"
 chapter: 75
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 7515"
-generated_at: "2026-03-30T02:33:47.804Z"
+generated_at: "2026-03-30T02:38:10.824Z"
 ---
 
 # § 7515. Discipline of supervisors based on retaliation against whistleblowers

@@ -3,9 +3,9 @@ title: "Section 9402 - Enlisted members of Air Force or Space Force: schools"
 usc_title: 10
 usc_section: "9402"
 chapter: 951
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9402"
-generated_at: "2026-03-30T02:34:13.834Z"
+generated_at: "2026-03-30T02:38:38.533Z"
 ---
 
 # § 9402. Enlisted members of Air Force or Space Force: schools

@@ -3,9 +3,9 @@ title: "Section 521 - Lands acquired to be reserved, held, and administered as n
 usc_title: 16
 usc_section: "521"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 521"
-generated_at: "2026-03-30T02:35:00.852Z"
+generated_at: "2026-03-30T02:39:17.985Z"
 ---
 
 # § 521. Lands acquired to be reserved, held, and administered as national forest lands; designation

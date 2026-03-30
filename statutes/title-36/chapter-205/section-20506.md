@@ -3,9 +3,9 @@ title: "Section 20506 - Annual report"
 usc_title: 36
 usc_section: "20506"
 chapter: 205
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "36 U.S.C. § 20506"
-generated_at: "2026-03-30T02:36:09.128Z"
+generated_at: "2026-03-30T02:40:22.788Z"
 ---
 
 # § 20506. Annual report

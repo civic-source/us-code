@@ -3,9 +3,9 @@ title: "Section 163 - Safety incentives to prevent operation of motor vehicles b
 usc_title: 23
 usc_section: "163"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "23 U.S.C. § 163"
-generated_at: "2026-03-30T02:35:13.541Z"
+generated_at: "2026-03-30T02:39:38.554Z"
 ---
 
 # § 163. Safety incentives to prevent operation of motor vehicles by intoxicated persons

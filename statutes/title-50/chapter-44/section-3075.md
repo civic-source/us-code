@@ -3,9 +3,9 @@ title: "Section 3075 - “Function” and “Department of Defense” defined"
 usc_title: 50
 usc_section: "3075"
 chapter: 44
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "50 U.S.C. § 3075"
-generated_at: "2026-03-30T02:37:43.843Z"
+generated_at: "2026-03-30T02:41:33.722Z"
 ---
 
 # § 3075. “Function” and “Department of Defense” defined

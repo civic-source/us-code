@@ -3,9 +3,9 @@ title: "Section 152305 - Powers"
 usc_title: 36
 usc_section: "152305"
 chapter: 1523
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "36 U.S.C. § 152305"
-generated_at: "2026-03-30T02:36:09.145Z"
+generated_at: "2026-03-30T02:40:22.803Z"
 ---
 
 # § 152305. Powers

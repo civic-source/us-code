@@ -3,9 +3,9 @@ title: "Section 7e - Biomedical Advanced Research and Development Authority"
 usc_title: 42
 usc_section: "7e"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T02:37:27.179Z"
+generated_at: "2026-03-30T02:41:04.772Z"
 ---
 
 # § 247d–7e. Biomedical Advanced Research and Development Authority
@@ -145,7 +145,7 @@ generated_at: "2026-03-30T02:37:27.179Z"
         - **(III)** security and vulnerability assessments.
     - **(B)** Information subject to nondisclosure under subparagraph (A) shall be reviewed by the Secretary every 5 years, or more frequently as determined necessary by the Secretary, to determine the relevance or necessity of continued nondisclosure.
     - **(C)** One year after June 24, 2019 , and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under section 552 of title 5 that was denied using such authority.
-    - **(D)** This paragraph shall cease to have force or effect after September 30, 2025 .
+    - **(D)** This paragraph shall cease to have force or effect after January 30, 2026 .
   - **(2)** Notwithstanding section 1013 of title 5 , a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7g of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 - **(f)**
   - **(1)** Not later than 180 days after December 29, 2022 , the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out to facilitate flexible manufacturing capacity pursuant to this section.

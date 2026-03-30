@@ -3,9 +3,9 @@ title: "Section 2603 - Leasing of lands for grazing; disposition of moneys; rule
 usc_title: 43
 usc_section: "2603"
 chapter: 44
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 2603"
-generated_at: "2026-03-30T02:36:16.915Z"
+generated_at: "2026-03-30T02:40:30.307Z"
 ---
 
 # § 2603. Leasing of lands for grazing; disposition of moneys; rules and regulations covering grazing lands

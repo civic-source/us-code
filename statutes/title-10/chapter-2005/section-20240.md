@@ -3,9 +3,9 @@ title: "Section 20240 - Acceptance of promotions; oath of office"
 usc_title: 10
 usc_section: "20240"
 chapter: 2005
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 20240"
-generated_at: "2026-03-30T02:34:13.861Z"
+generated_at: "2026-03-30T02:38:38.560Z"
 ---
 
 # § 20240. Acceptance of promotions; oath of office

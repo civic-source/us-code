@@ -3,9 +3,9 @@ title: "Section 8302 - Definitions"
 usc_title: 7
 usc_section: "8302"
 chapter: 109
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 8302"
-generated_at: "2026-03-30T02:34:02.567Z"
+generated_at: "2026-03-30T02:38:22.739Z"
 ---
 
 # § 8302. Definitions

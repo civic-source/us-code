@@ -3,9 +3,9 @@ title: "Section 1646a - Supervision by customs officers"
 usc_title: 19
 usc_section: "1646a"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 1646a"
-generated_at: "2026-03-30T02:34:56.427Z"
+generated_at: "2026-03-30T02:39:13.422Z"
 ---
 
 # § 1646a. Supervision by customs officers

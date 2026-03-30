@@ -3,9 +3,9 @@ title: "Section 276e - Authorization of appropriations; disbursements"
 usc_title: 22
 usc_section: "276e"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 276e"
-generated_at: "2026-03-30T02:35:21.355Z"
+generated_at: "2026-03-30T02:39:30.557Z"
 ---
 
 # § 276e. Authorization of appropriations; disbursements

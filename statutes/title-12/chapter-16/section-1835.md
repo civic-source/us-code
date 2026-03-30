@@ -3,9 +3,9 @@ title: "Section 1835 - Insured depository institution capital requirements for t
 usc_title: 12
 usc_section: "1835"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 1835"
-generated_at: "2026-03-30T02:34:45.447Z"
+generated_at: "2026-03-30T02:38:51.015Z"
 ---
 
 # § 1835. Insured depository institution capital requirements for transfers of small business obligations

@@ -3,9 +3,9 @@ title: "Section 294b - Support co-location with allied partner nations"
 usc_title: 22
 usc_section: "294b"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "22 U.S.C. § 294b"
-generated_at: "2026-03-30T02:35:21.376Z"
+generated_at: "2026-03-30T02:39:30.574Z"
 ---
 
 # § 294b. Support co-location with allied partner nations

@@ -3,9 +3,9 @@ title: "Section 41719 - Air service termination notice"
 usc_title: 49
 usc_section: "41719"
 chapter: 417
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "49 U.S.C. § 41719"
-generated_at: "2026-03-30T02:37:41.865Z"
+generated_at: "2026-03-30T02:41:31.842Z"
 ---
 
 # § 41719. Air service termination notice

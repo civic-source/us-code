@@ -3,9 +3,9 @@ title: "Section 114 - Repealed. Pub. L. 108–357, title I, § 101(a) , Oct. 22,
 usc_title: 26
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 114"
-generated_at: "2026-03-30T02:35:50.913Z"
+generated_at: "2026-03-30T02:40:09.565Z"
 ---
 
 # [§ 114. Repealed. Pub. L. 108–357, title I, § 101(a) , Oct. 22, 2004 , 118 Stat. 1423 ]

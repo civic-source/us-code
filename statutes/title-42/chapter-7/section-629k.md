@@ -3,9 +3,9 @@ title: "Section 629k - Reduction of administrative burden"
 usc_title: 42
 usc_section: "629k"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 629k"
-generated_at: "2026-03-30T02:37:27.421Z"
+generated_at: "2026-03-30T02:41:05.008Z"
 ---
 
 # § 629k. Reduction of administrative burden

@@ -3,9 +3,9 @@ title: "Section 611 - Devices, marks, labels, and certificates; simulations"
 usc_title: 21
 usc_section: "611"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "21 U.S.C. § 611"
-generated_at: "2026-03-30T02:35:31.761Z"
+generated_at: "2026-03-30T02:39:43.993Z"
 ---
 
 # § 611. Devices, marks, labels, and certificates; simulations

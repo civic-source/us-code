@@ -3,9 +3,9 @@ title: "Section 1185d - Additional market reforms"
 usc_title: 29
 usc_section: "1185d"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 1185d"
-generated_at: "2026-03-30T02:35:37.978Z"
+generated_at: "2026-03-30T02:39:49.599Z"
 ---
 
 # § 1185d. Additional market reforms

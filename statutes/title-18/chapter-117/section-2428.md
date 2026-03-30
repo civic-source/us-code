@@ -3,9 +3,9 @@ title: "Section 2428 - Forfeitures"
 usc_title: 18
 usc_section: "2428"
 chapter: 117
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "18 U.S.C. § 2428"
-generated_at: "2026-03-30T02:34:54.310Z"
+generated_at: "2026-03-30T02:39:19.672Z"
 ---
 
 # § 2428. Forfeitures

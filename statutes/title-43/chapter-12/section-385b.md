@@ -3,9 +3,9 @@ title: "Section 385b - Repealed. Pub. L. 86–533, § 1(18) , June 29, 1960 , 74
 usc_title: 43
 usc_section: "385b"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 385b"
-generated_at: "2026-03-30T02:36:16.838Z"
+generated_at: "2026-03-30T02:40:30.239Z"
 ---
 
 # § 385b. Repealed. Pub. L. 86–533, § 1(18) , June 29, 1960 , 74 Stat. 248

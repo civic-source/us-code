@@ -3,9 +3,9 @@ title: "Section 20302 - Definitions"
 usc_title: 34
 usc_section: "20302"
 chapter: 203
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "34 U.S.C. § 20302"
-generated_at: "2026-03-30T02:35:57.266Z"
+generated_at: "2026-03-30T02:40:15.448Z"
 ---
 
 # § 20302. Definitions

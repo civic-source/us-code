@@ -3,9 +3,9 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-30T02:36:16.826Z"
+generated_at: "2026-03-30T02:40:30.229Z"
 ---
 
 # § 31c. Geologic mapping program

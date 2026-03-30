@@ -3,9 +3,9 @@ title: "Section 7102 - Congressional notification of significant Army force stru
 usc_title: 10
 usc_section: "7102"
 chapter: 711
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 7102"
-generated_at: "2026-03-30T02:34:13.800Z"
+generated_at: "2026-03-30T02:38:38.502Z"
 ---
 
 # § 7102. Congressional notification of significant Army force structure changes

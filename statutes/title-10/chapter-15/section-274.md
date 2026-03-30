@@ -3,9 +3,9 @@ title: "Section 274 - Maintenance and operation of equipment"
 usc_title: 10
 usc_section: "274"
 chapter: 15
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 274"
-generated_at: "2026-03-30T02:34:13.618Z"
+generated_at: "2026-03-30T02:38:38.328Z"
 ---
 
 # § 274. Maintenance and operation of equipment

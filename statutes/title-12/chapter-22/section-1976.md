@@ -3,9 +3,9 @@ title: "Section 1976 - Injunctive relief for persons against threatened loss or 
 usc_title: 12
 usc_section: "1976"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 1976"
-generated_at: "2026-03-30T02:34:45.456Z"
+generated_at: "2026-03-30T02:38:51.022Z"
 ---
 
 # § 1976. Injunctive relief for persons against threatened loss or damages; equitable proceedings; preliminary injunctions

@@ -3,9 +3,9 @@ title: "Section 10013 - Definitions"
 usc_title: 20
 usc_section: "10013"
 chapter: 80
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 10013"
-generated_at: "2026-03-30T02:35:09.662Z"
+generated_at: "2026-03-30T02:39:22.426Z"
 ---
 
 # § 10013. Definitions

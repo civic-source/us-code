@@ -3,9 +3,9 @@ title: "Section 2508 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2508"
 chapter: 45
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 2508"
-generated_at: "2026-03-30T02:35:01.000Z"
+generated_at: "2026-03-30T02:39:18.130Z"
 ---
 
 # § 2508. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

@@ -3,9 +3,9 @@ title: "Section 9925 - Demonstration partnership agreements addressing needs of 
 usc_title: 42
 usc_section: "9925"
 chapter: 106
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 9925"
-generated_at: "2026-03-30T02:37:28.074Z"
+generated_at: "2026-03-30T02:41:05.650Z"
 ---
 
 # § 9925. Demonstration partnership agreements addressing needs of poor

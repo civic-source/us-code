@@ -3,9 +3,9 @@ title: "Section 794a - Remedies and attorney fees"
 usc_title: 29
 usc_section: "794a"
 chapter: 16
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 794a"
-generated_at: "2026-03-30T02:35:37.944Z"
+generated_at: "2026-03-30T02:39:49.566Z"
 ---
 
 # § 794a. Remedies and attorney fees

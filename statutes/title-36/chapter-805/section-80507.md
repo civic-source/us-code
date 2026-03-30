@@ -3,9 +3,9 @@ title: "Section 80507 - Restrictions"
 usc_title: 36
 usc_section: "80507"
 chapter: 805
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "36 U.S.C. § 80507"
-generated_at: "2026-03-30T02:36:09.138Z"
+generated_at: "2026-03-30T02:40:22.797Z"
 ---
 
 # § 80507. Restrictions

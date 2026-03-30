@@ -3,9 +3,9 @@ title: "Section 18 - Complaints against registered persons"
 usc_title: 7
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 18"
-generated_at: "2026-03-30T02:34:02.198Z"
+generated_at: "2026-03-30T02:38:22.487Z"
 ---
 
 # § 18. Complaints against registered persons

@@ -3,9 +3,9 @@ title: "Section 413 - Approval of project by President"
 usc_title: 43
 usc_section: "413"
 chapter: 12
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 413"
-generated_at: "2026-03-30T02:36:16.844Z"
+generated_at: "2026-03-30T02:40:30.245Z"
 ---
 
 # § 413. Approval of project by President

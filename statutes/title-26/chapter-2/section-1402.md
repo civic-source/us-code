@@ -3,9 +3,9 @@ title: "Section 1402 - Definitions"
 usc_title: 26
 usc_section: "1402"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "26 U.S.C. § 1402"
-generated_at: "2026-03-30T02:35:51.101Z"
+generated_at: "2026-03-30T02:40:09.741Z"
 ---
 
 # § 1402. Definitions
@@ -38,7 +38,7 @@ generated_at: "2026-03-30T02:35:51.101Z"
   - **(13)** there shall be excluded the distributive share of any item of income or loss of a limited partner, as such, other than guaranteed payments described in section 707(c) to that partner for services actually rendered to or on behalf of the partnership to the extent that those payments are established to be in the nature of remuneration for those services;
   - **(14)** in the case of church employee income, the special rules of subsection (j)(1) shall apply;
   - **(15)** in the case of a member of an Indian tribe, the special rules of section 7873 (relating to income derived by Indians from exercise of fishing rights) shall apply;
-  - **(16)** the deduction provided by section 199 1 shall not be allowed; and
+  - **(16)** the deduction provided by section 199 1 1 See References in Text note below. shall not be allowed; and
   - **(17)** notwithstanding the preceding provisions of this subsection, each spouse’s share of income or loss from a qualified joint venture shall be taken into account as provided in section 761(f) in determining net earnings from self-employment of such spouse.
       - **(i)** in the case of an individual, if the gross income derived by him from such trade or business is not more than the upper limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 66⅔ percent of such gross income; or
       - **(ii)** in the case of an individual, if the gross income derived by him from such trade or business is more than the upper limit and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than the lower limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be the lower limit; and

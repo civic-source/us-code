@@ -3,9 +3,9 @@ title: "Section 19191 - Findings"
 usc_title: 42
 usc_section: "19191"
 chapter: 163
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 19191"
-generated_at: "2026-03-30T02:37:28.288Z"
+generated_at: "2026-03-30T02:41:05.870Z"
 ---
 
 # § 19191. Findings

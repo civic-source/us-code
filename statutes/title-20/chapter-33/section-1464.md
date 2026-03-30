@@ -3,9 +3,9 @@ title: "Section 1464 - Studies and evaluations"
 usc_title: 20
 usc_section: "1464"
 chapter: 33
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "20 U.S.C. § 1464"
-generated_at: "2026-03-30T02:35:09.562Z"
+generated_at: "2026-03-30T02:39:22.341Z"
 ---
 
 # § 1464. Studies and evaluations

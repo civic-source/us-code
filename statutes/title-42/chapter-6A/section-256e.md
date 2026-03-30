@@ -3,9 +3,9 @@ title: "Section 256e - Program of payments to children’s hospitals that operat
 usc_title: 42
 usc_section: "256e"
 chapter: 6
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 256e"
-generated_at: "2026-03-30T02:37:27.196Z"
+generated_at: "2026-03-30T02:41:04.788Z"
 ---
 
 # § 256e. Program of payments to children’s hospitals that operate graduate medical education programs

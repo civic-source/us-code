@@ -3,9 +3,9 @@ title: "Section 1414 - Repealed. Pub. L. 105–42, § 6(c) , Aug. 15, 1997 , 111
 usc_title: 16
 usc_section: "1414"
 chapter: 31
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 1414"
-generated_at: "2026-03-30T02:35:00.960Z"
+generated_at: "2026-03-30T02:39:18.092Z"
 ---
 
 # § 1414. Repealed. Pub. L. 105–42, § 6(c) , Aug. 15, 1997 , 111 Stat. 1130

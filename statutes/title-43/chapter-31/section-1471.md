@@ -3,9 +3,9 @@ title: "Section 1471 - Appropriations; availability for payment of property dama
 usc_title: 43
 usc_section: "1471"
 chapter: 31
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 1471"
-generated_at: "2026-03-30T02:36:16.880Z"
+generated_at: "2026-03-30T02:40:30.276Z"
 ---
 
 # § 1471. Appropriations; availability for payment of property damages

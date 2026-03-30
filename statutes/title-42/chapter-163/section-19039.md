@@ -3,9 +3,9 @@ title: "Section 19039 - Foundation funding to institutions hosting or supporting
 usc_title: 42
 usc_section: "19039"
 chapter: 163
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 19039"
-generated_at: "2026-03-30T02:37:28.281Z"
+generated_at: "2026-03-30T02:41:05.862Z"
 ---
 
 # § 19039. Foundation funding to institutions hosting or supporting Confucius Institutes

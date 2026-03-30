@@ -3,9 +3,9 @@ title: "Section 1510 - International agreements"
 usc_title: 33
 usc_section: "1510"
 chapter: 29
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 1510"
-generated_at: "2026-03-30T02:36:02.582Z"
+generated_at: "2026-03-30T02:40:17.695Z"
 ---
 
 # § 1510. International agreements

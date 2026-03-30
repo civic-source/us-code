@@ -3,9 +3,9 @@ title: "Section 1396o - Use of enrollment fees, premiums, deductions, cost shari
 usc_title: 42
 usc_section: "1396o"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1396o"
-generated_at: "2026-03-30T02:37:27.638Z"
+generated_at: "2026-03-30T02:41:05.217Z"
 ---
 
 # § 1396o. Use of enrollment fees, premiums, deductions, cost sharing, and similar charges
@@ -75,7 +75,7 @@ generated_at: "2026-03-30T02:37:27.638Z"
   - **(2)**
     - **(A)** Subject to subparagraph (B) and subsection (j), in the case of a specified individual, the State plan shall, beginning October 1, 2028 , provide for the imposition of such deductions, cost sharing, or similar charges determined appropriate by the State (in an amount greater than $0) with respect to certain care, items, or services furnished to such an individual, as determined by the State.
     - **(B)**
-      - **(i)** In no case may a deduction, cost sharing, or similar charge be imposed under the State plan with respect to care, items, or services described in any of subparagraphs (B) through (J) of subsection (a)(2), or any primary care services, mental health care services, substance use disorder services, or services provided by a Federally qualified health center (as defined in 1396d( l )(2) of this title), certified community behavioral health clinic (as defined in section 1396d(jj)(2) of this title ), or rural health clinic (as defined in 1396d( l )(1) of this title), furnished to a specified individual.
+      - **(i)** In no case may a deduction, cost sharing, or similar charge be imposed under the State plan with respect to care, items, or services described in any of subparagraphs (B) through (J) of subsection (a)(2), or any primary care services, mental health care services, substance use disorder services, or services provided by a Federally qualified health center (as defined in 1396d( l )(2) 1 1 So in original. Probably should be preceded by “section”. of this title), certified community behavioral health clinic (as defined in section 1396d(jj)(2) of this title ), or rural health clinic (as defined in 1396d( l )(1) 1 of this title), furnished to a specified individual.
       - **(ii)**
         - **(I)** Except as provided in subclause (II), in no case may a deduction, cost sharing, or similar charge imposed under the State plan with respect to care or an item or service furnished to a specified individual exceed $35.
         - **(II)** In no case may a deduction, cost sharing, or similar charge imposed under the State plan with respect to a prescription drug furnished to a specified individual exceed the limit that would be applicable under paragraph (2)(A)(i) or (2)(B) of section 1396 o –1(c) of this title with respect to such drug and individual if such drug so furnished were subject to cost sharing under such section.

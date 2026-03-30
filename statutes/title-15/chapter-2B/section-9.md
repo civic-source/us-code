@@ -3,9 +3,9 @@ title: "Section 9 - Study and rulemaking on assigned credit ratings"
 usc_title: 15
 usc_section: "9"
 chapter: 2
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-03-30T02:34:48.938Z"
+generated_at: "2026-03-30T02:38:47.616Z"
 ---
 
 # § 78o–9. Study and rulemaking on assigned credit ratings

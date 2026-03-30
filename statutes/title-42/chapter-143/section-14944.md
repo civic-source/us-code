@@ -3,9 +3,9 @@ title: "Section 14944 - Enforcement"
 usc_title: 42
 usc_section: "14944"
 chapter: 143
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 14944"
-generated_at: "2026-03-30T02:37:28.171Z"
+generated_at: "2026-03-30T02:41:05.749Z"
 ---
 
 # § 14944. Enforcement

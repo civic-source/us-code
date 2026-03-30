@@ -3,9 +3,9 @@ title: "Section 657c - Repealed. Pub. L. 112–239, div. A, title XVI, § 1699(a
 usc_title: 15
 usc_section: "657c"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 657c"
-generated_at: "2026-03-30T02:34:49.015Z"
+generated_at: "2026-03-30T02:38:47.699Z"
 ---
 
 # § 657c. Repealed. Pub. L. 112–239, div. A, title XVI, § 1699(a) , Jan. 2, 2013 , 126 Stat. 2092

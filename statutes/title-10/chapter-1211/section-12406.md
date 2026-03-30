@@ -3,9 +3,9 @@ title: "Section 12406 - National Guard in Federal service: call"
 usc_title: 10
 usc_section: "12406"
 chapter: 1211
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 12406"
-generated_at: "2026-03-30T02:34:13.848Z"
+generated_at: "2026-03-30T02:38:38.546Z"
 ---
 
 # § 12406. National Guard in Federal service: call

@@ -3,9 +3,9 @@ title: "Section 1985 - Agreements with and other provisions related to the Repub
 usc_title: 48
 usc_section: "1985"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "48 U.S.C. § 1985"
-generated_at: "2026-03-30T02:37:38.275Z"
+generated_at: "2026-03-30T02:41:22.274Z"
 ---
 
 # § 1985. Agreements with and other provisions related to the Republic of the Marshall Islands

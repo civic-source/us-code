@@ -3,9 +3,9 @@ title: "Section 545 - Marking of obstructions"
 usc_title: 14
 usc_section: "545"
 chapter: 5
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "14 U.S.C. § 545"
-generated_at: "2026-03-30T02:34:26.209Z"
+generated_at: "2026-03-30T02:38:41.335Z"
 ---
 
 # § 545. Marking of obstructions

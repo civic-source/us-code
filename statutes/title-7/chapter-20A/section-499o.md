@@ -3,9 +3,9 @@ title: "Section 499o - Rules, regulations, and orders; appointment, removal, and
 usc_title: 7
 usc_section: "499o"
 chapter: 20
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 499o"
-generated_at: "2026-03-30T02:34:02.258Z"
+generated_at: "2026-03-30T02:38:22.530Z"
 ---
 
 # § 499o. Rules, regulations, and orders; appointment, removal, and compensation of officers and employees; expenditures; authorization of appropriations; abrogation of inconsistent statutes

@@ -3,9 +3,9 @@ title: "Section 1748c - Bureau of Land Management Foundation"
 usc_title: 43
 usc_section: "1748c"
 chapter: 35
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 1748c"
-generated_at: "2026-03-30T02:36:16.903Z"
+generated_at: "2026-03-30T02:40:30.297Z"
 ---
 
 # § 1748c. Bureau of Land Management Foundation

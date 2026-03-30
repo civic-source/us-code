@@ -3,9 +3,9 @@ title: "Section 61 - Designation of Steens Mountain Wilderness Area"
 usc_title: 16
 usc_section: "61"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "16 U.S.C. § 61"
-generated_at: "2026-03-30T02:35:00.834Z"
+generated_at: "2026-03-30T02:39:17.968Z"
 ---
 
 # § 460nnn–61. Designation of Steens Mountain Wilderness Area

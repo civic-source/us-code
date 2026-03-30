@@ -3,9 +3,9 @@ title: "Section 408 - Additional provisions with respect to the Inspector Genera
 usc_title: 5
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 408"
-generated_at: "2026-03-30T02:33:47.728Z"
+generated_at: "2026-03-30T02:38:10.768Z"
 ---
 
 # § 408. Additional provisions with respect to the Inspector General of the Department of Defense

@@ -3,9 +3,9 @@ title: "Section 627 - Notices to be posted"
 usc_title: 29
 usc_section: "627"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 627"
-generated_at: "2026-03-30T02:35:37.930Z"
+generated_at: "2026-03-30T02:39:49.552Z"
 ---
 
 # § 627. Notices to be posted

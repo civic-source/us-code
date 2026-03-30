@@ -3,9 +3,9 @@ title: "Section 6369 - Restoration of transferred leave"
 usc_title: 5
 usc_section: "6369"
 chapter: 63
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 6369"
-generated_at: "2026-03-30T02:33:47.795Z"
+generated_at: "2026-03-30T02:38:10.818Z"
 ---
 
 # § 6369. Restoration of transferred leave

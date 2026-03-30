@@ -3,9 +3,9 @@ title: "Section 1616h - Health training programs of community colleges"
 usc_title: 25
 usc_section: "1616h"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "25 U.S.C. § 1616h"
-generated_at: "2026-03-30T02:35:15.173Z"
+generated_at: "2026-03-30T02:39:26.251Z"
 ---
 
 # § 1616h. Health training programs of community colleges

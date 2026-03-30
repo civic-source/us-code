@@ -3,9 +3,9 @@ title: "Section 1181 - Over-the-road bus security assessments and plans"
 usc_title: 6
 usc_section: "1181"
 chapter: 4
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "6 U.S.C. § 1181"
-generated_at: "2026-03-30T02:33:52.979Z"
+generated_at: "2026-03-30T02:38:13.770Z"
 ---
 
 # § 1181. Over-the-road bus security assessments and plans

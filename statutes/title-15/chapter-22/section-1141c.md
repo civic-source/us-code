@@ -3,9 +3,9 @@ title: "Section 1141c - Restriction, abandonment, cancellation, or expiration of
 usc_title: 15
 usc_section: "1141c"
 chapter: 22
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 1141c"
-generated_at: "2026-03-30T02:34:49.048Z"
+generated_at: "2026-03-30T02:38:47.733Z"
 ---
 
 # § 1141c. Restriction, abandonment, cancellation, or expiration of a basic application or basic registration

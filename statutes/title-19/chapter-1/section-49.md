@@ -3,9 +3,9 @@ title: "Section 49 - Repealed. Aug. 26, 1935, ch. 689, § 1 , 49 Stat. 864"
 usc_title: 19
 usc_section: "49"
 chapter: 1
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 49"
-generated_at: "2026-03-30T02:34:56.396Z"
+generated_at: "2026-03-30T02:39:13.391Z"
 ---
 
 # § 49. Repealed. Aug. 26, 1935, ch. 689, § 1 , 49 Stat. 864

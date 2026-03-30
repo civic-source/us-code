@@ -3,9 +3,9 @@ title: "Section 2639 - Transportation to and from school for certain minor depen
 usc_title: 10
 usc_section: "2639"
 chapter: 157
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 2639"
-generated_at: "2026-03-30T02:34:13.740Z"
+generated_at: "2026-03-30T02:38:38.447Z"
 ---
 
 # § 2639. Transportation to and from school for certain minor dependents

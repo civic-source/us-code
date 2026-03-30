@@ -3,9 +3,9 @@ title: "Section 7542 - Technical data packages for large-caliber cannon: prohibi
 usc_title: 10
 usc_section: "7542"
 chapter: 763
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 7542"
-generated_at: "2026-03-30T02:34:13.804Z"
+generated_at: "2026-03-30T02:38:38.507Z"
 ---
 
 # § 7542. Technical data packages for large-caliber cannon: prohibition on transfers to foreign countries; exception

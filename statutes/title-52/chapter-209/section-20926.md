@@ -3,9 +3,9 @@ title: "Section 20926 - Dissemination of information"
 usc_title: 52
 usc_section: "20926"
 chapter: 209
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "52 U.S.C. § 20926"
-generated_at: "2026-03-30T02:37:46.155Z"
+generated_at: "2026-03-30T02:41:40.130Z"
 ---
 
 # § 20926. Dissemination of information

@@ -3,9 +3,9 @@ title: "Section 467o - Repealed. Pub. L. 118–272, div. A, title I, § 1132(e) 
 usc_title: 33
 usc_section: "467o"
 chapter: 9
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "33 U.S.C. § 467o"
-generated_at: "2026-03-30T02:36:02.512Z"
+generated_at: "2026-03-30T02:40:17.629Z"
 ---
 
 # § 467o. Repealed. Pub. L. 118–272, div. A, title I, § 1132(e) , Jan. 4, 2025 , 138 Stat. 3024

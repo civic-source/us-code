@@ -3,9 +3,9 @@ title: "Section 5701 - Short title; findings"
 usc_title: 15
 usc_section: "5701"
 chapter: 83
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 5701"
-generated_at: "2026-03-30T02:34:49.161Z"
+generated_at: "2026-03-30T02:38:47.852Z"
 ---
 
 # § 5701. Short title; findings

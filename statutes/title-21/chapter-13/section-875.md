@@ -3,9 +3,9 @@ title: "Section 875 - Administrative hearings"
 usc_title: 21
 usc_section: "875"
 chapter: 13
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "21 U.S.C. § 875"
-generated_at: "2026-03-30T02:35:31.775Z"
+generated_at: "2026-03-30T02:39:44.008Z"
 ---
 
 # § 875. Administrative hearings

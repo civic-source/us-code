@@ -3,9 +3,9 @@ title: "Section 4552 - Presidential action regarding USMCA imports"
 usc_title: 19
 usc_section: "4552"
 chapter: 29
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "19 U.S.C. § 4552"
-generated_at: "2026-03-30T02:34:56.507Z"
+generated_at: "2026-03-30T02:39:13.564Z"
 ---
 
 # § 4552. Presidential action regarding USMCA imports

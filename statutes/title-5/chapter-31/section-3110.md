@@ -3,9 +3,9 @@ title: "Section 3110 - Employment of relatives; restrictions"
 usc_title: 5
 usc_section: "3110"
 chapter: 31
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "5 U.S.C. § 3110"
-generated_at: "2026-03-30T02:33:47.750Z"
+generated_at: "2026-03-30T02:38:10.785Z"
 ---
 
 # § 3110. Employment of relatives; restrictions

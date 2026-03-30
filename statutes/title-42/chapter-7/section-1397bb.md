@@ -3,9 +3,9 @@ title: "Section 1397bb - General contents of State child health plan; eligibilit
 usc_title: 42
 usc_section: "1397bb"
 chapter: 7
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 1397bb"
-generated_at: "2026-03-30T02:37:27.669Z"
+generated_at: "2026-03-30T02:41:05.246Z"
 ---
 
 # § 1397bb. General contents of State child health plan; eligibility; outreach
@@ -35,7 +35,7 @@ generated_at: "2026-03-30T02:37:27.669Z"
     - **(A)** through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
     - **(B)** that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX are enrolled for such assistance under such plan;
     - **(C)** that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
-    - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 2 2 See References in Text note below. of title 25); and
+    - **(D)** the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) 1 1 See References in Text note below. of title 25); and
     - **(E)** coordination with other public and private programs providing creditable coverage for low-income children.
   - **(4)**
     - **(A)** Subject to subparagraph (B), the plan shall include a description of the procedures used to reduce administrative barriers to the enrollment of children and pregnant women who are eligible for medical assistance under subchapter XIX or for child health assistance or health benefits coverage under this subchapter. Such procedures shall be established and revised as often as the State determines appropriate to take into account the most recent information available to the State identifying such barriers.

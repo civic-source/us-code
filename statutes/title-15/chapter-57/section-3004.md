@@ -3,9 +3,9 @@ title: "Section 3004 - Regulation of interstate off-track wagering"
 usc_title: 15
 usc_section: "3004"
 chapter: 57
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "15 U.S.C. § 3004"
-generated_at: "2026-03-30T02:34:49.128Z"
+generated_at: "2026-03-30T02:38:47.818Z"
 ---
 
 # § 3004. Regulation of interstate off-track wagering

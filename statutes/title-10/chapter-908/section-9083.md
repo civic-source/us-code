@@ -3,9 +3,9 @@ title: "Section 9083 - Vice Chief of Space Operations"
 usc_title: 10
 usc_section: "9083"
 chapter: 908
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9083"
-generated_at: "2026-03-30T02:34:13.831Z"
+generated_at: "2026-03-30T02:38:38.531Z"
 ---
 
 # § 9083. Vice Chief of Space Operations

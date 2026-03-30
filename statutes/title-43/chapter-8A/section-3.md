@@ -3,9 +3,9 @@ title: "Section 3 - Availability of contributions received"
 usc_title: 43
 usc_section: "3"
 chapter: 8
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-30T02:36:16.834Z"
+generated_at: "2026-03-30T02:40:30.234Z"
 ---
 
 # § 315m–3. Availability of contributions received

@@ -3,9 +3,9 @@ title: "Section 3672 - Approval of courses"
 usc_title: 38
 usc_section: "3672"
 chapter: 36
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "38 U.S.C. § 3672"
-generated_at: "2026-03-30T02:36:12.636Z"
+generated_at: "2026-03-30T02:40:27.239Z"
 ---
 
 # § 3672. Approval of courses
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T02:36:12.636Z"
 - **(b)**
   - **(1)** The Secretary shall be responsible for the approval of courses of education offered by any agency of the Federal Government authorized under other laws to supervise such education. The Secretary may approve any course in any other educational institution in accordance with the provisions of this chapter and chapters 34 and 35 of this title.
   - **(2)**
-    - **(A)** Subject to sections 3675(b)(1) and (b)(2), 3680A, 3684, and 3696 of this title, a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
+    - **(A)** Subject to sections 3675 paragraphs (1), (2), and (6) of section 3675(b), 3680A, 3684, and 3696 of this title, 1 1 So in original. Probably should read “Subject to paragraphs (1), (2), and (6) of section 3675(b) and sections 3680A, 3684, and 3696 of this title,”. a program of education is deemed to be approved for purposes of this chapter if a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the program is one of the following programs:
       - **(i)** Except as provided in subparagraph (C) or (D), an accredited standard college degree program offered at a public or not-for-profit proprietary educational institution that—
         - **(I)** is accredited by an agency or association recognized for that purpose by the Secretary of Education; and
         - **(II)** is approved and participates in a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.), unless the Secretary has waived the requirement to participate in a program under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).

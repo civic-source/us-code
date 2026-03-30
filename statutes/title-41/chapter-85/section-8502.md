@@ -3,9 +3,9 @@ title: "Section 8502 - Committee for Purchase From People Who Are Blind or Sever
 usc_title: 41
 usc_section: "8502"
 chapter: 85
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "41 U.S.C. § 8502"
-generated_at: "2026-03-30T02:36:15.559Z"
+generated_at: "2026-03-30T02:40:46.884Z"
 ---
 
 # § 8502. Committee for Purchase From People Who Are Blind or Severely Disabled

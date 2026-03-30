@@ -3,9 +3,9 @@ title: "Section 2892b - Prohibition on requirement to disclose personally identi
 usc_title: 10
 usc_section: "2892b"
 chapter: 169
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 2892b"
-generated_at: "2026-03-30T02:34:13.760Z"
+generated_at: "2026-03-30T02:38:38.466Z"
 ---
 
 # § 2892b. Prohibition on requirement to disclose personally identifiable information in requests for certain maintenance

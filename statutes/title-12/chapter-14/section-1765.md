@@ -3,9 +3,9 @@ title: "Section 1765 - Minors"
 usc_title: 12
 usc_section: "1765"
 chapter: 14
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "12 U.S.C. § 1765"
-generated_at: "2026-03-30T02:34:45.399Z"
+generated_at: "2026-03-30T02:38:50.978Z"
 ---
 
 # § 1765. Minors

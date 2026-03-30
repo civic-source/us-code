@@ -3,9 +3,9 @@ title: "Section 2047 - Supersedure of prior provisions for maintenance and opera
 usc_title: 2
 usc_section: "2047"
 chapter: 30
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "2 U.S.C. § 2047"
-generated_at: "2026-03-30T02:33:44.329Z"
+generated_at: "2026-03-30T02:38:04.741Z"
 ---
 
 # § 2047. Supersedure of prior provisions for maintenance and operation of Senate Restaurants

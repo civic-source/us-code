@@ -3,9 +3,9 @@ title: "Section 204 - Preference for United States industry"
 usc_title: 35
 usc_section: "204"
 chapter: 18
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "35 U.S.C. § 204"
-generated_at: "2026-03-30T02:35:55.815Z"
+generated_at: "2026-03-30T02:40:18.209Z"
 ---
 
 # § 204. Preference for United States industry

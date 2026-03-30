@@ -3,9 +3,9 @@ title: "Section 21904 - Exclusive right to name"
 usc_title: 36
 usc_section: "21904"
 chapter: 219
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "36 U.S.C. § 21904"
-generated_at: "2026-03-30T02:36:09.131Z"
+generated_at: "2026-03-30T02:40:22.790Z"
 ---
 
 # § 21904. Exclusive right to name

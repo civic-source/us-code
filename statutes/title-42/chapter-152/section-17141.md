@@ -3,9 +3,9 @@ title: "Section 17141 - Prohibition on incandescent lamps by Coast Guard"
 usc_title: 42
 usc_section: "17141"
 chapter: 152
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "42 U.S.C. § 17141"
-generated_at: "2026-03-30T02:37:28.228Z"
+generated_at: "2026-03-30T02:41:05.809Z"
 ---
 
 # § 17141. Prohibition on incandescent lamps by Coast Guard

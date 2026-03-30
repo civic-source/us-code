@@ -3,9 +3,9 @@ title: "Section 3152 - Identification of eligible providers of training services
 usc_title: 29
 usc_section: "3152"
 chapter: 32
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "29 U.S.C. § 3152"
-generated_at: "2026-03-30T02:35:38.012Z"
+generated_at: "2026-03-30T02:39:49.635Z"
 ---
 
 # § 3152. Identification of eligible providers of training services

@@ -3,9 +3,9 @@ title: "Section 9060 - Administration and enforcement"
 usc_title: 7
 usc_section: "9060"
 chapter: 115
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "7 U.S.C. § 9060"
-generated_at: "2026-03-30T02:34:02.591Z"
+generated_at: "2026-03-30T02:38:22.753Z"
 ---
 
 # § 9060. Administration and enforcement

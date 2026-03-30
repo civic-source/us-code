@@ -3,9 +3,9 @@ title: "Section 9513 - Contracts for the inclusion or incorporation of defense f
 usc_title: 10
 usc_section: "9513"
 chapter: 961
-current_through: "PL 119-36"
+current_through: "PL 119-43"
 classification: "10 U.S.C. § 9513"
-generated_at: "2026-03-30T02:34:13.837Z"
+generated_at: "2026-03-30T02:38:38.536Z"
 ---
 
 # § 9513. Contracts for the inclusion or incorporation of defense features
