@@ -3,9 +3,9 @@ title: "Section 1547 - Preservation of local civil and criminal jurisdiction and
 usc_title: 42
 usc_section: "1547"
 chapter: 9
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 1547"
-generated_at: "2026-03-30T07:24:48.590Z"
+generated_at: "2026-03-30T07:26:59.635Z"
 status: "active"
 ---
 

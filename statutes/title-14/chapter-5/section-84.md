@@ -3,9 +3,9 @@ title: "Section 84 - Interference with aids to navigation; penalty"
 usc_title: 14
 usc_section: "84"
 chapter: 5
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "14 U.S.C. § 84"
-generated_at: "2026-03-30T07:23:37.538Z"
+generated_at: "2026-03-30T07:25:26.631Z"
 status: "active"
 ---
 

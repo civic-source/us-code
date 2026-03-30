@@ -3,9 +3,9 @@ title: "Section 14665 - Transferred"
 usc_title: 42
 usc_section: "14665"
 chapter: 140
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 14665"
-generated_at: "2026-03-30T07:24:48.885Z"
+generated_at: "2026-03-30T07:26:59.908Z"
 status: "transferred"
 ---
 

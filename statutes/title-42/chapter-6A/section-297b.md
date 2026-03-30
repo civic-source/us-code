@@ -3,9 +3,9 @@ title: "Section 297b - Loan provisions"
 usc_title: 42
 usc_section: "297b"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 297b"
-generated_at: "2026-03-30T07:24:48.348Z"
+generated_at: "2026-03-30T07:26:59.393Z"
 status: "active"
 ---
 

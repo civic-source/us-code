@@ -3,9 +3,9 @@ title: "Section 287j - Participation in future United Nations borrowing; promoti
 usc_title: 22
 usc_section: "287j"
 chapter: 7
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 287j"
-generated_at: "2026-03-30T07:24:07.320Z"
+generated_at: "2026-03-30T07:25:47.747Z"
 status: "active"
 ---
 

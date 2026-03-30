@@ -3,9 +3,9 @@ title: "Section 7255 - Subpoena"
 usc_title: 42
 usc_section: "7255"
 chapter: 84
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 7255"
-generated_at: "2026-03-30T07:24:48.745Z"
+generated_at: "2026-03-30T07:26:59.777Z"
 status: "active"
 ---
 

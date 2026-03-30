@@ -3,9 +3,9 @@ title: "Section 12371 - Grants authorized"
 usc_title: 34
 usc_section: "12371"
 chapter: 121
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "34 U.S.C. § 12371"
-generated_at: "2026-03-30T07:24:29.161Z"
+generated_at: "2026-03-30T07:26:20.822Z"
 status: "active"
 ---
 

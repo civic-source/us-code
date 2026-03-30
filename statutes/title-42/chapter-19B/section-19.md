@@ -3,9 +3,9 @@ title: "Section 19 - Cooperation of Secretary of the Interior with State and loc
 usc_title: 42
 usc_section: "19"
 chapter: 19
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T07:24:48.616Z"
+generated_at: "2026-03-30T07:26:59.661Z"
 status: "active"
 ---
 

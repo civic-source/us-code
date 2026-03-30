@@ -3,9 +3,9 @@ title: "Section 577 - Advance procurement funding"
 usc_title: 14
 usc_section: "577"
 chapter: 15
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "14 U.S.C. § 577"
-generated_at: "2026-03-30T07:23:37.543Z"
+generated_at: "2026-03-30T07:25:26.635Z"
 status: "active"
 ---
 

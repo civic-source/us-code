@@ -3,9 +3,9 @@ title: "Section 620h - Savings provision"
 usc_title: 16
 usc_section: "620h"
 chapter: 4
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 620h"
-generated_at: "2026-03-30T07:24:00.946Z"
+generated_at: "2026-03-30T07:25:40.389Z"
 status: "active"
 ---
 

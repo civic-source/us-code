@@ -3,9 +3,9 @@ title: "Section 1505 - Funds of Secretary of Housing and Urban Development"
 usc_title: 42
 usc_section: "1505"
 chapter: 9
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 1505"
-generated_at: "2026-03-30T07:24:48.590Z"
+generated_at: "2026-03-30T07:26:59.635Z"
 status: "active"
 ---
 

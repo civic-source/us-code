@@ -3,9 +3,9 @@ title: "Section 53715 - Escrow fund"
 usc_title: 46
 usc_section: "53715"
 chapter: 537
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 53715"
-generated_at: "2026-03-30T07:24:53.562Z"
+generated_at: "2026-03-30T07:27:05.130Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30311 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "30311"
 chapter: 303
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "36 U.S.C. § 30311"
-generated_at: "2026-03-30T07:24:31.883Z"
+generated_at: "2026-03-30T07:26:26.128Z"
 status: "active"
 ---
 

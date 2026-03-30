@@ -3,9 +3,9 @@ title: "Section 284y - Multilateral debt relief"
 usc_title: 22
 usc_section: "284y"
 chapter: 7
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 284y"
-generated_at: "2026-03-30T07:24:07.316Z"
+generated_at: "2026-03-30T07:25:47.742Z"
 status: "active"
 ---
 

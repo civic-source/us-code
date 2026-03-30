@@ -3,9 +3,9 @@ title: "Section 77h - Taking effect of registration statements and amendments th
 usc_title: 15
 usc_section: "77h"
 chapter: 2
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 77h"
-generated_at: "2026-03-30T07:23:42.699Z"
+generated_at: "2026-03-30T07:25:28.371Z"
 status: "active"
 ---
 

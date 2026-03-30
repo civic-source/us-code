@@ -3,9 +3,9 @@ title: "Section 254 - Universal service"
 usc_title: 47
 usc_section: "254"
 chapter: 5
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "47 U.S.C. § 254"
-generated_at: "2026-03-30T07:24:52.378Z"
+generated_at: "2026-03-30T07:27:03.181Z"
 status: "active"
 ---
 

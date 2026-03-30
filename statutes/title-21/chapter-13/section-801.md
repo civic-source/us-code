@@ -3,9 +3,9 @@ title: "Section 801 - Congressional findings and declarations: controlled substa
 usc_title: 21
 usc_section: "801"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "21 U.S.C. § 801"
-generated_at: "2026-03-30T07:24:04.533Z"
+generated_at: "2026-03-30T07:25:45.050Z"
 status: "active"
 ---
 

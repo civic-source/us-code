@@ -3,9 +3,9 @@ title: "Section 11b - Best practices for long-term follow-up services for pediat
 usc_title: 42
 usc_section: "11b"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 11b"
-generated_at: "2026-03-30T07:24:48.319Z"
+generated_at: "2026-03-30T07:26:59.365Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7235 - Repealed. Pub. L. 94–455, title XIX , § 1904(b)(9)(B)(
 usc_title: 26
 usc_section: "7235"
 chapter: 75
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 7235"
-generated_at: "2026-03-30T07:24:21.800Z"
+generated_at: "2026-03-30T07:26:08.361Z"
 status: "repealed"
 ---
 

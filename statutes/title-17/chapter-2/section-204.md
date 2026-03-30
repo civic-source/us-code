@@ -3,9 +3,9 @@ title: "Section 204 - Execution of transfers of copyright ownership"
 usc_title: 17
 usc_section: "204"
 chapter: 2
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "17 U.S.C. § 204"
-generated_at: "2026-03-30T07:23:48.499Z"
+generated_at: "2026-03-30T07:25:33.244Z"
 status: "active"
 ---
 

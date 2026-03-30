@@ -3,9 +3,9 @@ title: "Section 6762 - Right of action"
 usc_title: 15
 usc_section: "6762"
 chapter: 93
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 6762"
-generated_at: "2026-03-30T07:23:42.872Z"
+generated_at: "2026-03-30T07:25:28.532Z"
 status: "active"
 ---
 

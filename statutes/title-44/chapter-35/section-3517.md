@@ -3,9 +3,9 @@ title: "Section 3517 - Consultation with other agencies and the public"
 usc_title: 44
 usc_section: "3517"
 chapter: 35
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "44 U.S.C. § 3517"
-generated_at: "2026-03-30T07:24:49.719Z"
+generated_at: "2026-03-30T07:26:41.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7705c - Acceptance of gifts"
 usc_title: 42
 usc_section: "7705c"
 chapter: 86
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 7705c"
-generated_at: "2026-03-30T07:24:48.781Z"
+generated_at: "2026-03-30T07:26:59.810Z"
 status: "active"
 ---
 

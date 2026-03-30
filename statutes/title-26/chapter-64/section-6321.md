@@ -3,9 +3,9 @@ title: "Section 6321 - Lien for taxes"
 usc_title: 26
 usc_section: "6321"
 chapter: 64
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 6321"
-generated_at: "2026-03-30T07:24:21.785Z"
+generated_at: "2026-03-30T07:26:08.346Z"
 status: "active"
 ---
 

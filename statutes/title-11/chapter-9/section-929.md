@@ -3,9 +3,9 @@ title: "Section 929 - Municipal leases"
 usc_title: 11
 usc_section: "929"
 chapter: 9
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "11 U.S.C. § 929"
-generated_at: "2026-03-30T07:23:37.860Z"
+generated_at: "2026-03-30T07:25:25.173Z"
 status: "active"
 ---
 

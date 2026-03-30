@@ -3,9 +3,9 @@ title: "Section 1406 - Omitted"
 usc_title: 42
 usc_section: "1406"
 chapter: 8
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 1406"
-generated_at: "2026-03-30T07:24:48.569Z"
+generated_at: "2026-03-30T07:26:59.614Z"
 status: "omitted"
 ---
 

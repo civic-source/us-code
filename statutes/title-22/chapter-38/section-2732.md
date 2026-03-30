@@ -3,9 +3,9 @@ title: "Section 2732 - Public diplomacy responsibilities of the Department of St
 usc_title: 22
 usc_section: "2732"
 chapter: 38
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 2732"
-generated_at: "2026-03-30T07:24:07.372Z"
+generated_at: "2026-03-30T07:25:47.799Z"
 status: "active"
 ---
 

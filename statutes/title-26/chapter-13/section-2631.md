@@ -3,9 +3,9 @@ title: "Section 2631 - GST exemption"
 usc_title: 26
 usc_section: "2631"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 2631"
-generated_at: "2026-03-30T07:24:21.732Z"
+generated_at: "2026-03-30T07:26:08.294Z"
 status: "active"
 ---
 

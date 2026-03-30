@@ -3,9 +3,9 @@ title: "Section 402 - Exchange of information between Secretary of Labor and Rai
 usc_title: 45
 usc_section: "402"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "45 U.S.C. § 402"
-generated_at: "2026-03-30T07:24:36.426Z"
+generated_at: "2026-03-30T07:26:38.108Z"
 status: "active"
 ---
 

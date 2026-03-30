@@ -3,9 +3,9 @@ title: "Section 1715y - Mortgage insurance for condominiums"
 usc_title: 12
 usc_section: "1715y"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 1715y"
-generated_at: "2026-03-30T07:23:40.640Z"
+generated_at: "2026-03-30T07:25:31.122Z"
 status: "active"
 ---
 

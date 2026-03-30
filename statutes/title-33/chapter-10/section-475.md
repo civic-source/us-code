@@ -3,9 +3,9 @@ title: "Section 475 - Regulations for Pearl Harbor, Hawaii"
 usc_title: 33
 usc_section: "475"
 chapter: 10
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 475"
-generated_at: "2026-03-30T07:24:25.282Z"
+generated_at: "2026-03-30T07:26:12.540Z"
 status: "active"
 ---
 

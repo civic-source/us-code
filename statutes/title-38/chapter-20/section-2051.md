@@ -3,9 +3,9 @@ title: "Section 2051 - General authority"
 usc_title: 38
 usc_section: "2051"
 chapter: 20
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 2051"
-generated_at: "2026-03-30T07:24:33.532Z"
+generated_at: "2026-03-30T07:26:36.018Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2183 - General provisions"
 usc_title: 22
 usc_section: "2183"
 chapter: 32
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 2183"
-generated_at: "2026-03-30T07:24:07.345Z"
+generated_at: "2026-03-30T07:25:47.772Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8625 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "8625"
 chapter: 94
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 8625"
-generated_at: "2026-03-30T07:24:48.794Z"
+generated_at: "2026-03-30T07:26:59.823Z"
 status: "active"
 ---
 

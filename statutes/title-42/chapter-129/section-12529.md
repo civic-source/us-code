@@ -3,9 +3,9 @@ title: "Section 12529 - Limitations on uses of funds"
 usc_title: 42
 usc_section: "12529"
 chapter: 129
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 12529"
-generated_at: "2026-03-30T07:24:48.854Z"
+generated_at: "2026-03-30T07:26:59.877Z"
 status: "active"
 ---
 

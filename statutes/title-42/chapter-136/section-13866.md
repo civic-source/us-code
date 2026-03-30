@@ -3,9 +3,9 @@ title: "Section 13866 - Transferred"
 usc_title: 42
 usc_section: "13866"
 chapter: 136
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 13866"
-generated_at: "2026-03-30T07:24:48.883Z"
+generated_at: "2026-03-30T07:26:59.906Z"
 status: "transferred"
 ---
 

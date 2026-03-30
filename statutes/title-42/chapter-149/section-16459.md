@@ -3,9 +3,9 @@ title: "Section 16459 - Savings provisions"
 usc_title: 42
 usc_section: "16459"
 chapter: 149
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 16459"
-generated_at: "2026-03-30T07:24:48.907Z"
+generated_at: "2026-03-30T07:26:59.928Z"
 status: "active"
 ---
 

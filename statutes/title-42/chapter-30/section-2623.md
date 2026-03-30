@@ -3,9 +3,9 @@ title: "Section 2623 - Repealed. Pub. L. 93–203, title VII , § 714 formerly t
 usc_title: 42
 usc_section: "2623"
 chapter: 30
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 2623"
-generated_at: "2026-03-30T07:24:48.643Z"
+generated_at: "2026-03-30T07:26:59.687Z"
 status: "repealed"
 ---
 

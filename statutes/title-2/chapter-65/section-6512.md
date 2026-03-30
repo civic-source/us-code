@@ -3,9 +3,9 @@ title: "Section 6512 - Expense allowance for Secretary of Senate, Sergeant at Ar
 usc_title: 2
 usc_section: "6512"
 chapter: 65
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "2 U.S.C. § 6512"
-generated_at: "2026-03-30T07:23:23.873Z"
+generated_at: "2026-03-30T07:25:13.660Z"
 status: "active"
 ---
 

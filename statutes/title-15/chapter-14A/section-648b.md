@@ -3,9 +3,9 @@ title: "Section 648b - Grants for SBDCs"
 usc_title: 15
 usc_section: "648b"
 chapter: 14
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 648b"
-generated_at: "2026-03-30T07:23:42.764Z"
+generated_at: "2026-03-30T07:25:28.432Z"
 status: "active"
 ---
 

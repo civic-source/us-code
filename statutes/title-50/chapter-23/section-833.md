@@ -3,9 +3,9 @@ title: "Section 833 - Repealed. Pub. L. 104–201, div. A, title XVI , § 1633(b
 usc_title: 50
 usc_section: "833"
 chapter: 23
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "50 U.S.C. § 833"
-generated_at: "2026-03-30T07:24:56.941Z"
+generated_at: "2026-03-30T07:27:04.443Z"
 status: "repealed"
 ---
 

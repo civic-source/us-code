@@ -3,9 +3,9 @@ title: "Section 8505 - Sale or other disposition of property"
 usc_title: 38
 usc_section: "8505"
 chapter: 85
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 8505"
-generated_at: "2026-03-30T07:24:33.575Z"
+generated_at: "2026-03-30T07:26:36.061Z"
 status: "active"
 ---
 

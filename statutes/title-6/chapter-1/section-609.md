@@ -3,9 +3,9 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-30T07:23:28.367Z"
+generated_at: "2026-03-30T07:25:16.940Z"
 status: "active"
 ---
 

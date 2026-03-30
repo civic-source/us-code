@@ -3,9 +3,9 @@ title: "Section 4307 - Preemption"
 usc_title: 22
 usc_section: "4307"
 chapter: 53
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 4307"
-generated_at: "2026-03-30T07:24:07.397Z"
+generated_at: "2026-03-30T07:25:47.825Z"
 status: "active"
 ---
 

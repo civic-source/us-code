@@ -3,9 +3,9 @@ title: "Section 1 - Number of justices; quorum"
 usc_title: 28
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "28 U.S.C. § 1"
-generated_at: "2026-03-30T07:24:15.813Z"
+generated_at: "2026-03-30T07:25:51.064Z"
 status: "active"
 ---
 

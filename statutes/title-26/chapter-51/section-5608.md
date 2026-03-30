@@ -3,9 +3,9 @@ title: "Section 5608 - Penalty and forfeiture for fraudulent claims for export d
 usc_title: 26
 usc_section: "5608"
 chapter: 51
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 5608"
-generated_at: "2026-03-30T07:24:21.765Z"
+generated_at: "2026-03-30T07:26:08.327Z"
 status: "active"
 ---
 

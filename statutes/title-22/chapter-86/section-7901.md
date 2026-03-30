@@ -3,9 +3,9 @@ title: "Section 7901 - Definitions"
 usc_title: 22
 usc_section: "7901"
 chapter: 86
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 7901"
-generated_at: "2026-03-30T07:24:07.430Z"
+generated_at: "2026-03-30T07:25:47.860Z"
 status: "active"
 ---
 

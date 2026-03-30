@@ -3,9 +3,9 @@ title: "Section 713 - State Department: assignment or detail as couriers and bui
 usc_title: 10
 usc_section: "713"
 chapter: 41
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 713"
-generated_at: "2026-03-30T07:23:35.340Z"
+generated_at: "2026-03-30T07:25:22.718Z"
 status: "active"
 ---
 

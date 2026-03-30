@@ -3,9 +3,9 @@ title: "Section 101 - Issuance of restraining orders and injunctions; limitation
 usc_title: 29
 usc_section: "101"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "29 U.S.C. § 101"
-generated_at: "2026-03-30T07:24:10.582Z"
+generated_at: "2026-03-30T07:26:03.503Z"
 status: "active"
 ---
 

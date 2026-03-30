@@ -3,9 +3,9 @@ title: "Section 1297 - Guidelines for cost-effectiveness analysis"
 usc_title: 33
 usc_section: "1297"
 chapter: 26
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 1297"
-generated_at: "2026-03-30T07:24:25.308Z"
+generated_at: "2026-03-30T07:26:12.566Z"
 status: "active"
 ---
 

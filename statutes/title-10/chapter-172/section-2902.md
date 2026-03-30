@@ -3,9 +3,9 @@ title: "Section 2902 - Strategic Environmental Research and Development Program 
 usc_title: 10
 usc_section: "2902"
 chapter: 172
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 2902"
-generated_at: "2026-03-30T07:23:35.429Z"
+generated_at: "2026-03-30T07:25:22.803Z"
 status: "active"
 ---
 

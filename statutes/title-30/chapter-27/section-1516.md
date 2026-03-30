@@ -3,9 +3,9 @@ title: "Section 1516 - Authorizations"
 usc_title: 30
 usc_section: "1516"
 chapter: 27
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "30 U.S.C. § 1516"
-generated_at: "2026-03-30T07:24:12.100Z"
+generated_at: "2026-03-30T07:25:50.170Z"
 status: "active"
 ---
 

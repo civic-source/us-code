@@ -3,9 +3,9 @@ title: "Section 289f - Gifts and donations; memorials"
 usc_title: 42
 usc_section: "289f"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 289f"
-generated_at: "2026-03-30T07:24:48.327Z"
+generated_at: "2026-03-30T07:26:59.373Z"
 status: "active"
 ---
 

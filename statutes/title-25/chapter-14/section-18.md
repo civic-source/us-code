@@ -3,9 +3,9 @@ title: "Section 18 - Omitted"
 usc_title: 25
 usc_section: "18"
 chapter: 14
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "25 U.S.C. § 18"
-generated_at: "2026-03-30T07:24:05.292Z"
+generated_at: "2026-03-30T07:25:43.982Z"
 status: "omitted"
 ---
 

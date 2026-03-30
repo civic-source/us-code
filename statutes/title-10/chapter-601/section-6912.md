@@ -3,9 +3,9 @@ title: "Section 6912 - Aviation cadets: benefits"
 usc_title: 10
 usc_section: "6912"
 chapter: 601
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 6912"
-generated_at: "2026-03-30T07:23:35.445Z"
+generated_at: "2026-03-30T07:25:22.818Z"
 status: "active"
 ---
 

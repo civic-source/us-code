@@ -3,9 +3,9 @@ title: "Section 7520 - Valuation tables"
 usc_title: 26
 usc_section: "7520"
 chapter: 77
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 7520"
-generated_at: "2026-03-30T07:24:21.806Z"
+generated_at: "2026-03-30T07:26:08.368Z"
 status: "active"
 ---
 

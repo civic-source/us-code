@@ -3,9 +3,9 @@ title: "Section 10d - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "10d"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 10d"
-generated_at: "2026-03-30T07:24:00.899Z"
+generated_at: "2026-03-30T07:25:40.334Z"
 status: "repealed"
 ---
 

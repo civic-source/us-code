@@ -3,9 +3,9 @@ title: "Section 2304 - Disclaimer of intention to prohibit normal dealing"
 usc_title: 7
 usc_section: "2304"
 chapter: 56
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 2304"
-generated_at: "2026-03-30T07:23:30.970Z"
+generated_at: "2026-03-30T07:25:19.116Z"
 status: "active"
 ---
 

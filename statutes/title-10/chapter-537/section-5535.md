@@ -3,9 +3,9 @@ title: "Section 5535 - Repealed. Pub. L. 90–235 , § 2(a)(3), (b), Jan. 2, 196
 usc_title: 10
 usc_section: "5535"
 chapter: 537
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 5535"
-generated_at: "2026-03-30T07:23:35.441Z"
+generated_at: "2026-03-30T07:25:22.814Z"
 status: "repealed"
 ---
 

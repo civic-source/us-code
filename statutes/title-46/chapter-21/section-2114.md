@@ -3,9 +3,9 @@ title: "Section 2114 - Protection of seamen against discrimination"
 usc_title: 46
 usc_section: "2114"
 chapter: 21
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 2114"
-generated_at: "2026-03-30T07:24:53.536Z"
+generated_at: "2026-03-30T07:27:05.107Z"
 status: "active"
 ---
 

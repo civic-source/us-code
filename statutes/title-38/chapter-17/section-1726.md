@@ -3,9 +3,9 @@ title: "Section 1726 - Reimbursement for loss of personal effects by natural dis
 usc_title: 38
 usc_section: "1726"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 1726"
-generated_at: "2026-03-30T07:24:33.525Z"
+generated_at: "2026-03-30T07:26:35.988Z"
 status: "active"
 ---
 

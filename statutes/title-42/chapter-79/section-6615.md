@@ -3,9 +3,9 @@ title: "Section 6615 - Science and technology report and outlook"
 usc_title: 42
 usc_section: "6615"
 chapter: 79
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 6615"
-generated_at: "2026-03-30T07:24:48.726Z"
+generated_at: "2026-03-30T07:26:59.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7261 - Representation that retailers’ excise tax is excluded f
 usc_title: 26
 usc_section: "7261"
 chapter: 75
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 7261"
-generated_at: "2026-03-30T07:24:21.800Z"
+generated_at: "2026-03-30T07:26:08.361Z"
 status: "active"
 ---
 

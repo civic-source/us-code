@@ -3,9 +3,9 @@ title: "Section 28 - North Coast County Water District recycled water project"
 usc_title: 43
 usc_section: "28"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "43 U.S.C. § 28"
-generated_at: "2026-03-30T07:24:49.472Z"
+generated_at: "2026-03-30T07:26:40.781Z"
 status: "active"
 ---
 

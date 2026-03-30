@@ -3,9 +3,9 @@ title: "Section 8905 - Democracy, civil society, governance, and technical assis
 usc_title: 22
 usc_section: "8905"
 chapter: 96
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 8905"
-generated_at: "2026-03-30T07:24:07.439Z"
+generated_at: "2026-03-30T07:25:47.870Z"
 status: "active"
 ---
 

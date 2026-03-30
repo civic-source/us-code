@@ -3,9 +3,9 @@ title: "Section 16923 - Transferred"
 usc_title: 42
 usc_section: "16923"
 chapter: 151
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 16923"
-generated_at: "2026-03-30T07:24:48.910Z"
+generated_at: "2026-03-30T07:26:59.931Z"
 status: "transferred"
 ---
 

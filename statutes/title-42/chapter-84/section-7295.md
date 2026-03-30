@@ -3,9 +3,9 @@ title: "Section 7295 - Savings provisions"
 usc_title: 42
 usc_section: "7295"
 chapter: 84
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 7295"
-generated_at: "2026-03-30T07:24:48.747Z"
+generated_at: "2026-03-30T07:26:59.779Z"
 status: "active"
 ---
 

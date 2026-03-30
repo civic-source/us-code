@@ -3,9 +3,9 @@ title: "Section 11504 - Waiver or modification of housing and community developm
 usc_title: 42
 usc_section: "11504"
 chapter: 120
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 11504"
-generated_at: "2026-03-30T07:24:48.845Z"
+generated_at: "2026-03-30T07:26:59.869Z"
 status: "active"
 ---
 

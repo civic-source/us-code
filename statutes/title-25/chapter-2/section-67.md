@@ -3,9 +3,9 @@ title: "Section 67 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "67"
 chapter: 2
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "25 U.S.C. § 67"
-generated_at: "2026-03-30T07:24:05.280Z"
+generated_at: "2026-03-30T07:25:43.971Z"
 status: "repealed"
 ---
 

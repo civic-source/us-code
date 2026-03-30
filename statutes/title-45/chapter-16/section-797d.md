@@ -3,9 +3,9 @@ title: "Section 797d - Election and treatment of benefits"
 usc_title: 45
 usc_section: "797d"
 chapter: 16
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "45 U.S.C. § 797d"
-generated_at: "2026-03-30T07:24:36.431Z"
+generated_at: "2026-03-30T07:26:38.112Z"
 status: "active"
 ---
 

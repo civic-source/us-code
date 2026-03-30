@@ -3,9 +3,9 @@ title: "Section 2174 - Interest payment program: members on active duty"
 usc_title: 10
 usc_section: "2174"
 chapter: 109
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 2174"
-generated_at: "2026-03-30T07:23:35.388Z"
+generated_at: "2026-03-30T07:25:22.764Z"
 status: "active"
 ---
 

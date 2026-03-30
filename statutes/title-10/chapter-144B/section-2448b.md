@@ -3,9 +3,9 @@ title: "Section 2448b - Independent technical risk assessments"
 usc_title: 10
 usc_section: "2448b"
 chapter: 144
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 2448b"
-generated_at: "2026-03-30T07:23:35.410Z"
+generated_at: "2026-03-30T07:25:22.785Z"
 status: "active"
 ---
 

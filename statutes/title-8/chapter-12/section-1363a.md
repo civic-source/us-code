@@ -3,9 +3,9 @@ title: "Section 1363a - Undercover investigation authority"
 usc_title: 8
 usc_section: "1363a"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "8 U.S.C. § 1363a"
-generated_at: "2026-03-30T07:23:27.967Z"
+generated_at: "2026-03-30T07:25:16.109Z"
 status: "active"
 ---
 

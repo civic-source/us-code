@@ -3,9 +3,9 @@ title: "Section 614 - Telecommunications Development Fund"
 usc_title: 47
 usc_section: "614"
 chapter: 5
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "47 U.S.C. § 614"
-generated_at: "2026-03-30T07:24:52.396Z"
+generated_at: "2026-03-30T07:27:03.199Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1102 - Purposes"
 usc_title: 20
 usc_section: "1102"
 chapter: 28
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "20 U.S.C. § 1102"
-generated_at: "2026-03-30T07:23:47.440Z"
+generated_at: "2026-03-30T07:25:37.876Z"
 status: "active"
 ---
 

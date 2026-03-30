@@ -3,9 +3,9 @@ title: "Section 825r - Separability"
 usc_title: 16
 usc_section: "825r"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 825r"
-generated_at: "2026-03-30T07:24:00.968Z"
+generated_at: "2026-03-30T07:25:40.414Z"
 status: "active"
 ---
 

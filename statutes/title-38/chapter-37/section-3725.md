@@ -3,9 +3,9 @@ title: "Section 3725 - Repealed. Pub. L. 105–368, title VI , § 602(a)(1), Nov
 usc_title: 38
 usc_section: "3725"
 chapter: 37
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 3725"
-generated_at: "2026-03-30T07:24:33.548Z"
+generated_at: "2026-03-30T07:26:36.035Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2205 - Food allergy and anaphylaxis management"
 usc_title: 21
 usc_section: "2205"
 chapter: 27
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "21 U.S.C. § 2205"
-generated_at: "2026-03-30T07:24:04.551Z"
+generated_at: "2026-03-30T07:25:45.068Z"
 status: "active"
 ---
 

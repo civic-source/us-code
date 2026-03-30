@@ -3,9 +3,9 @@ title: "Section 17 - Penalties"
 usc_title: 15
 usc_section: "17"
 chapter: 2
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 17"
-generated_at: "2026-03-30T07:23:42.740Z"
+generated_at: "2026-03-30T07:25:28.408Z"
 status: "active"
 ---
 

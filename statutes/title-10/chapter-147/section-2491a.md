@@ -3,9 +3,9 @@ title: "Section 2491a - Department of Defense golf courses: limitation on use of
 usc_title: 10
 usc_section: "2491a"
 chapter: 147
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 2491a"
-generated_at: "2026-03-30T07:23:35.413Z"
+generated_at: "2026-03-30T07:25:22.787Z"
 status: "active"
 ---
 

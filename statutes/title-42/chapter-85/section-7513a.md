@@ -3,9 +3,9 @@ title: "Section 7513a - Plan provisions and schedules for plan submissions"
 usc_title: 42
 usc_section: "7513a"
 chapter: 85
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 7513a"
-generated_at: "2026-03-30T07:24:48.764Z"
+generated_at: "2026-03-30T07:26:59.794Z"
 status: "active"
 ---
 

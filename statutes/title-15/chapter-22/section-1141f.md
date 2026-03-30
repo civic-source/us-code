@@ -3,9 +3,9 @@ title: "Section 1141f - Effect of filing a request for extension of protection o
 usc_title: 15
 usc_section: "1141f"
 chapter: 22
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 1141f"
-generated_at: "2026-03-30T07:23:42.788Z"
+generated_at: "2026-03-30T07:25:28.455Z"
 status: "active"
 ---
 

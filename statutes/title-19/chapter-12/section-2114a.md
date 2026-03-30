@@ -3,9 +3,9 @@ title: "Section 2114a - Negotiating objectives with respect to trade in services
 usc_title: 19
 usc_section: "2114a"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "19 U.S.C. § 2114a"
-generated_at: "2026-03-30T07:23:51.624Z"
+generated_at: "2026-03-30T07:25:36.057Z"
 status: "active"
 ---
 

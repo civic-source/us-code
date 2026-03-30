@@ -3,9 +3,9 @@ title: "Section 47532 - Judicial review"
 usc_title: 49
 usc_section: "47532"
 chapter: 475
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "49 U.S.C. § 47532"
-generated_at: "2026-03-30T07:24:55.959Z"
+generated_at: "2026-03-30T07:27:13.680Z"
 status: "active"
 ---
 

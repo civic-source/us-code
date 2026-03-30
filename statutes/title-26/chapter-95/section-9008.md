@@ -3,9 +3,9 @@ title: "Section 9008 - Payments for presidential nominating conventions"
 usc_title: 26
 usc_section: "9008"
 chapter: 95
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 9008"
-generated_at: "2026-03-30T07:24:21.815Z"
+generated_at: "2026-03-30T07:26:08.376Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300i - Emergency powers"
 usc_title: 42
 usc_section: "300i"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 300i"
-generated_at: "2026-03-30T07:24:48.362Z"
+generated_at: "2026-03-30T07:26:59.407Z"
 status: "active"
 ---
 

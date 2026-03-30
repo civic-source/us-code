@@ -3,9 +3,9 @@ title: "Section 6914 - Repealed. Pub. L. 96–513, title III , § 374, Dec. 12, 
 usc_title: 10
 usc_section: "6914"
 chapter: 601
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 6914"
-generated_at: "2026-03-30T07:23:35.445Z"
+generated_at: "2026-03-30T07:25:22.818Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5102 - Definition of manufacturer of stills"
 usc_title: 26
 usc_section: "5102"
 chapter: 51
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 5102"
-generated_at: "2026-03-30T07:24:21.761Z"
+generated_at: "2026-03-30T07:26:08.322Z"
 status: "active"
 ---
 

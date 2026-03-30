@@ -3,9 +3,9 @@ title: "Section 1315 - State reports on water quality"
 usc_title: 33
 usc_section: "1315"
 chapter: 26
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 1315"
-generated_at: "2026-03-30T07:24:25.310Z"
+generated_at: "2026-03-30T07:26:12.568Z"
 status: "active"
 ---
 

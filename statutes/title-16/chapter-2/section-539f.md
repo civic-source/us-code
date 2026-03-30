@@ -3,9 +3,9 @@ title: "Section 539f - Nonprofit organization user of national forest lands"
 usc_title: 16
 usc_section: "539f"
 chapter: 2
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 539f"
-generated_at: "2026-03-30T07:24:00.930Z"
+generated_at: "2026-03-30T07:25:40.371Z"
 status: "active"
 ---
 

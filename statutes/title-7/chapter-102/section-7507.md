@@ -3,9 +3,9 @@ title: "Section 7507 - State and local supplementation of commodities"
 usc_title: 7
 usc_section: "7507"
 chapter: 102
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 7507"
-generated_at: "2026-03-30T07:23:31.020Z"
+generated_at: "2026-03-30T07:25:19.165Z"
 status: "active"
 ---
 

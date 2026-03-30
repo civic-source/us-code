@@ -3,9 +3,9 @@ title: "Section 1437 - Utilization of private agencies"
 usc_title: 22
 usc_section: "1437"
 chapter: 18
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 1437"
-generated_at: "2026-03-30T07:24:07.329Z"
+generated_at: "2026-03-30T07:25:47.755Z"
 status: "active"
 ---
 

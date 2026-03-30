@@ -3,9 +3,9 @@ title: "Section 2106c - Enhanced community fire protection"
 usc_title: 16
 usc_section: "2106c"
 chapter: 41
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 2106c"
-generated_at: "2026-03-30T07:24:01.017Z"
+generated_at: "2026-03-30T07:25:40.468Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7782 - Establishment of program"
 usc_title: 7
 usc_section: "7782"
 chapter: 104
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 7782"
-generated_at: "2026-03-30T07:23:31.025Z"
+generated_at: "2026-03-30T07:25:19.169Z"
 status: "active"
 ---
 

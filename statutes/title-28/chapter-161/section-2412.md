@@ -3,9 +3,9 @@ title: "Section 2412 - Costs and fees"
 usc_title: 28
 usc_section: "2412"
 chapter: 161
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "28 U.S.C. § 2412"
-generated_at: "2026-03-30T07:24:15.840Z"
+generated_at: "2026-03-30T07:25:51.089Z"
 status: "active"
 ---
 

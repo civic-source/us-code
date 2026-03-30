@@ -3,9 +3,9 @@ title: "Section 200103 - Authority of Secretary to carry out certain functions a
 usc_title: 54
 usc_section: "200103"
 chapter: 2001
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "54 U.S.C. § 200103"
-generated_at: "2026-03-30T07:24:58.805Z"
+generated_at: "2026-03-30T07:27:15.700Z"
 status: "active"
 ---
 

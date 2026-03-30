@@ -3,9 +3,9 @@ title: "Section 43 - Saint Marys River, Ohio and Indiana"
 usc_title: 33
 usc_section: "43"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 43"
-generated_at: "2026-03-30T07:24:25.274Z"
+generated_at: "2026-03-30T07:26:12.534Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1701 - Short title"
 usc_title: 12
 usc_section: "1701"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 1701"
-generated_at: "2026-03-30T07:23:40.628Z"
+generated_at: "2026-03-30T07:25:31.108Z"
 status: "active"
 ---
 

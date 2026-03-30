@@ -3,9 +3,9 @@ title: "Section 30105 - Restriction on recovery by non-citizens and non-resident
 usc_title: 46
 usc_section: "30105"
 chapter: 301
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 30105"
-generated_at: "2026-03-30T07:24:53.551Z"
+generated_at: "2026-03-30T07:27:05.121Z"
 status: "active"
 ---
 

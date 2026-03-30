@@ -3,9 +3,9 @@ title: "Section 8966 - Retired lists"
 usc_title: 10
 usc_section: "8966"
 chapter: 869
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 8966"
-generated_at: "2026-03-30T07:23:35.456Z"
+generated_at: "2026-03-30T07:25:22.828Z"
 status: "active"
 ---
 

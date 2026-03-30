@@ -3,9 +3,9 @@ title: "Section 11103 - Slop chests"
 usc_title: 46
 usc_section: "11103"
 chapter: 111
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 11103"
-generated_at: "2026-03-30T07:24:53.548Z"
+generated_at: "2026-03-30T07:27:05.117Z"
 status: "active"
 ---
 

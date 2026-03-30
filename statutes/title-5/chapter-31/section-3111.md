@@ -3,9 +3,9 @@ title: "Section 3111 - Acceptance of volunteer service"
 usc_title: 5
 usc_section: "3111"
 chapter: 31
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "5 U.S.C. § 3111"
-generated_at: "2026-03-30T07:23:25.703Z"
+generated_at: "2026-03-30T07:25:12.209Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460v - Establishment"
 usc_title: 16
 usc_section: "460v"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 460v"
-generated_at: "2026-03-30T07:24:00.903Z"
+generated_at: "2026-03-30T07:25:40.339Z"
 status: "active"
 ---
 

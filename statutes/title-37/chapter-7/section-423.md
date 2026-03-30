@@ -3,9 +3,9 @@ title: "Section 423 - Validity of allowance payments based on purported marriage
 usc_title: 37
 usc_section: "423"
 chapter: 7
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "37 U.S.C. § 423"
-generated_at: "2026-03-30T07:24:32.209Z"
+generated_at: "2026-03-30T07:26:22.916Z"
 status: "active"
 ---
 

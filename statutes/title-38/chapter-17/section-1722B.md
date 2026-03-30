@@ -3,9 +3,9 @@ title: "Section 1722B - Copayments: waiver of collection of copayments for teleh
 usc_title: 38
 usc_section: "1722B"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 1722B"
-generated_at: "2026-03-30T07:24:33.524Z"
+generated_at: "2026-03-30T07:26:35.988Z"
 status: "active"
 ---
 

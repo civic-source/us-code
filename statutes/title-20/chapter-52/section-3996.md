@@ -3,9 +3,9 @@ title: "Section 3996 - Submission of applications"
 usc_title: 20
 usc_section: "3996"
 chapter: 52
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "20 U.S.C. § 3996"
-generated_at: "2026-03-30T07:23:47.476Z"
+generated_at: "2026-03-30T07:25:37.912Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 348a - Extension of trust period for Indians of Klamath River Re
 usc_title: 25
 usc_section: "348a"
 chapter: 9
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "25 U.S.C. § 348a"
-generated_at: "2026-03-30T07:24:05.286Z"
+generated_at: "2026-03-30T07:25:43.977Z"
 status: "active"
 ---
 

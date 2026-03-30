@@ -3,9 +3,9 @@ title: "Section 3719 - Reduction of oil spills from single hull non-self-propell
 usc_title: 46
 usc_section: "3719"
 chapter: 37
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 3719"
-generated_at: "2026-03-30T07:24:53.540Z"
+generated_at: "2026-03-30T07:27:05.110Z"
 status: "active"
 ---
 

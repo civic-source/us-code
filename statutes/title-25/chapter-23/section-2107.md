@@ -3,9 +3,9 @@ title: "Section 2107 - Regulations; consultation with Indian organizations; pend
 usc_title: 25
 usc_section: "2107"
 chapter: 23
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "25 U.S.C. § 2107"
-generated_at: "2026-03-30T07:24:05.315Z"
+generated_at: "2026-03-30T07:25:44.005Z"
 status: "active"
 ---
 

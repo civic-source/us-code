@@ -3,9 +3,9 @@ title: "Section 1595 - Searches and seizures"
 usc_title: 19
 usc_section: "1595"
 chapter: 4
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "19 U.S.C. § 1595"
-generated_at: "2026-03-30T07:23:51.609Z"
+generated_at: "2026-03-30T07:25:36.043Z"
 status: "active"
 ---
 

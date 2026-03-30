@@ -3,9 +3,9 @@ title: "Section 9447 - Board of Governors"
 usc_title: 10
 usc_section: "9447"
 chapter: 909
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 9447"
-generated_at: "2026-03-30T07:23:35.458Z"
+generated_at: "2026-03-30T07:25:22.831Z"
 status: "active"
 ---
 

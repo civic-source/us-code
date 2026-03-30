@@ -3,9 +3,9 @@ title: "Section 2302 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2302"
 chapter: 43
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 2302"
-generated_at: "2026-03-30T07:24:01.018Z"
+generated_at: "2026-03-30T07:25:40.469Z"
 status: "repealed"
 ---
 

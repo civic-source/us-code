@@ -3,9 +3,9 @@ title: "Section 6722 - Facility agreements"
 usc_title: 22
 usc_section: "6722"
 chapter: 75
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 6722"
-generated_at: "2026-03-30T07:24:07.416Z"
+generated_at: "2026-03-30T07:25:47.846Z"
 status: "active"
 ---
 

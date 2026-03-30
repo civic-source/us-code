@@ -3,9 +3,9 @@ title: "Section 11 - Veterans’ special rights or preference"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T07:24:48.621Z"
+generated_at: "2026-03-30T07:26:59.665Z"
 status: "active"
 ---
 

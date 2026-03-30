@@ -3,9 +3,9 @@ title: "Section 8961 - General rule"
 usc_title: 10
 usc_section: "8961"
 chapter: 869
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 8961"
-generated_at: "2026-03-30T07:23:35.456Z"
+generated_at: "2026-03-30T07:25:22.828Z"
 status: "active"
 ---
 

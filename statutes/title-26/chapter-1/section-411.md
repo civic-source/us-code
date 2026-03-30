@@ -3,9 +3,9 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T07:24:21.647Z"
+generated_at: "2026-03-30T07:26:08.212Z"
 status: "active"
 ---
 

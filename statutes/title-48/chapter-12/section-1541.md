@@ -3,9 +3,9 @@ title: "Section 1541 - Organization and status"
 usc_title: 48
 usc_section: "1541"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "48 U.S.C. § 1541"
-generated_at: "2026-03-30T07:24:52.723Z"
+generated_at: "2026-03-30T07:27:03.543Z"
 status: "active"
 ---
 

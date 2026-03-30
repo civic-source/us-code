@@ -3,9 +3,9 @@ title: "Section 224 - Entries under land laws; toll road"
 usc_title: 16
 usc_section: "224"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 224"
-generated_at: "2026-03-30T07:24:00.857Z"
+generated_at: "2026-03-30T07:25:40.284Z"
 status: "active"
 ---
 

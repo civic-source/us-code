@@ -3,9 +3,9 @@ title: "Section 9858a - Establishment of block grant program"
 usc_title: 42
 usc_section: "9858a"
 chapter: 105
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 9858a"
-generated_at: "2026-03-30T07:24:48.818Z"
+generated_at: "2026-03-30T07:26:59.845Z"
 status: "active"
 ---
 

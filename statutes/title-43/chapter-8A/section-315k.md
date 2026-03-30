@@ -3,9 +3,9 @@ title: "Section 315k - Cooperation with governmental departments; coordination o
 usc_title: 43
 usc_section: "315k"
 chapter: 8
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "43 U.S.C. § 315k"
-generated_at: "2026-03-30T07:24:49.466Z"
+generated_at: "2026-03-30T07:26:40.775Z"
 status: "active"
 ---
 

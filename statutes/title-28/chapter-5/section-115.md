@@ -3,9 +3,9 @@ title: "Section 115 - Ohio"
 usc_title: 28
 usc_section: "115"
 chapter: 5
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "28 U.S.C. § 115"
-generated_at: "2026-03-30T07:24:15.816Z"
+generated_at: "2026-03-30T07:25:51.065Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2231a - Reimbursement of employees for costs of State licenses a
 usc_title: 7
 usc_section: "2231a"
 chapter: 55
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 2231a"
-generated_at: "2026-03-30T07:23:30.967Z"
+generated_at: "2026-03-30T07:25:19.113Z"
 status: "active"
 ---
 

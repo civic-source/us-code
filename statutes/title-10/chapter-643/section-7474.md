@@ -3,9 +3,9 @@ title: "Section 7474 - Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 
 usc_title: 10
 usc_section: "7474"
 chapter: 643
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 7474"
-generated_at: "2026-03-30T07:23:35.450Z"
+generated_at: "2026-03-30T07:25:22.823Z"
 status: "repealed"
 ---
 

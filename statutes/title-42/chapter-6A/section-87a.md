@@ -3,9 +3,9 @@ title: "Section 87a - National HIV/AIDS testing goal"
 usc_title: 42
 usc_section: "87a"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 87a"
-generated_at: "2026-03-30T07:24:48.386Z"
+generated_at: "2026-03-30T07:26:59.431Z"
 status: "active"
 ---
 

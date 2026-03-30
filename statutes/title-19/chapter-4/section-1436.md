@@ -3,9 +3,9 @@ title: "Section 1436 - Penalties for violations of arrival, reporting, entry, an
 usc_title: 19
 usc_section: "1436"
 chapter: 4
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "19 U.S.C. § 1436"
-generated_at: "2026-03-30T07:23:51.600Z"
+generated_at: "2026-03-30T07:25:36.035Z"
 status: "active"
 ---
 

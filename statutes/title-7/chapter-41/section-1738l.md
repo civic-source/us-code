@@ -3,9 +3,9 @@ title: "Section 1738l - Encouraging multilateral debt donations"
 usc_title: 7
 usc_section: "1738l"
 chapter: 41
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 1738l"
-generated_at: "2026-03-30T07:23:30.938Z"
+generated_at: "2026-03-30T07:25:19.084Z"
 status: "active"
 ---
 

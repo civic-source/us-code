@@ -3,9 +3,9 @@ title: "Section 1660a - Grants for alcohol and substance abuse related services"
 usc_title: 25
 usc_section: "1660a"
 chapter: 18
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "25 U.S.C. § 1660a"
-generated_at: "2026-03-30T07:24:05.304Z"
+generated_at: "2026-03-30T07:25:43.993Z"
 status: "active"
 ---
 

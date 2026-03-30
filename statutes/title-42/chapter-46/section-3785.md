@@ -3,9 +3,9 @@ title: "Section 3785 - Repealed. Pub. L. 109–162, title XI , § 1155(3), Jan. 
 usc_title: 42
 usc_section: "3785"
 chapter: 46
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 3785"
-generated_at: "2026-03-30T07:24:48.665Z"
+generated_at: "2026-03-30T07:26:59.709Z"
 status: "repealed"
 ---
 

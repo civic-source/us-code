@@ -3,9 +3,9 @@ title: "Section 427d - Repealed. Aug. 11, 1955, ch. 790 , § 2, 69 Stat. 674"
 usc_title: 7
 usc_section: "427d"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 427d"
-generated_at: "2026-03-30T07:23:30.893Z"
+generated_at: "2026-03-30T07:25:19.041Z"
 status: "repealed"
 ---
 

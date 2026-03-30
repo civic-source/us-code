@@ -3,9 +3,9 @@ title: "Section 652 - Upper Mississippi River Management"
 usc_title: 33
 usc_section: "652"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 652"
-generated_at: "2026-03-30T07:24:25.287Z"
+generated_at: "2026-03-30T07:26:12.546Z"
 status: "active"
 ---
 

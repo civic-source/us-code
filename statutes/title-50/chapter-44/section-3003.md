@@ -3,9 +3,9 @@ title: "Section 3003 - Definitions"
 usc_title: 50
 usc_section: "3003"
 chapter: 44
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "50 U.S.C. § 3003"
-generated_at: "2026-03-30T07:24:56.968Z"
+generated_at: "2026-03-30T07:27:04.469Z"
 status: "active"
 ---
 

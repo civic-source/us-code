@@ -3,9 +3,9 @@ title: "Section 116A - Renumbered § 116]"
 usc_title: 17
 usc_section: "116A"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "17 U.S.C. § 116A"
-generated_at: "2026-03-30T07:23:48.498Z"
+generated_at: "2026-03-30T07:25:33.241Z"
 status: "renumbered"
 ---
 

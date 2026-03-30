@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T07:24:48.622Z"
+generated_at: "2026-03-30T07:26:59.667Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4501 - Forestry and related natural resource assistance"
 usc_title: 16
 usc_section: "4501"
 chapter: 65
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 4501"
-generated_at: "2026-03-30T07:24:01.043Z"
+generated_at: "2026-03-30T07:25:40.497Z"
 status: "active"
 ---
 

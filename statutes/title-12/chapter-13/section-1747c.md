@@ -3,9 +3,9 @@ title: "Section 1747c - Rent schedules"
 usc_title: 12
 usc_section: "1747c"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 1747c"
-generated_at: "2026-03-30T07:23:40.652Z"
+generated_at: "2026-03-30T07:25:31.134Z"
 status: "active"
 ---
 

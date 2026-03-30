@@ -3,9 +3,9 @@ title: "Section 1952 - NOAA Marine Debris Program"
 usc_title: 33
 usc_section: "1952"
 chapter: 33
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 1952"
-generated_at: "2026-03-30T07:24:25.326Z"
+generated_at: "2026-03-30T07:26:12.582Z"
 status: "active"
 ---
 

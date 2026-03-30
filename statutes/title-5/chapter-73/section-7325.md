@@ -3,9 +3,9 @@ title: "Section 7325 - Political activity permitted; employees residing in certa
 usc_title: 5
 usc_section: "7325"
 chapter: 73
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "5 U.S.C. § 7325"
-generated_at: "2026-03-30T07:23:25.727Z"
+generated_at: "2026-03-30T07:25:12.231Z"
 status: "active"
 ---
 

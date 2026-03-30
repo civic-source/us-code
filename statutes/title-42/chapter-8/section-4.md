@@ -3,9 +3,9 @@ title: "Section 4 - Program requirements"
 usc_title: 42
 usc_section: "4"
 chapter: 8
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T07:24:48.582Z"
+generated_at: "2026-03-30T07:26:59.627Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 736 - Puerto Rican law modified"
 usc_title: 48
 usc_section: "736"
 chapter: 4
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "48 U.S.C. § 736"
-generated_at: "2026-03-30T07:24:52.716Z"
+generated_at: "2026-03-30T07:27:03.536Z"
 status: "active"
 ---
 

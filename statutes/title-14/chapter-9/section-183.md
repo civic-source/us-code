@@ -3,9 +3,9 @@ title: "Section 183 - Cadets; initial clothing allowance"
 usc_title: 14
 usc_section: "183"
 chapter: 9
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "14 U.S.C. § 183"
-generated_at: "2026-03-30T07:23:37.540Z"
+generated_at: "2026-03-30T07:25:26.632Z"
 status: "active"
 ---
 

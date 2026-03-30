@@ -3,9 +3,9 @@ title: "Section 4508 - Commercial Fishing Safety Advisory Committee"
 usc_title: 46
 usc_section: "4508"
 chapter: 45
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 4508"
-generated_at: "2026-03-30T07:24:53.541Z"
+generated_at: "2026-03-30T07:27:05.111Z"
 status: "active"
 ---
 

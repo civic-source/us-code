@@ -3,9 +3,9 @@ title: "Section 5201 - Findings and purposes"
 usc_title: 15
 usc_section: "5201"
 chapter: 78
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 5201"
-generated_at: "2026-03-30T07:23:42.860Z"
+generated_at: "2026-03-30T07:25:28.522Z"
 status: "active"
 ---
 

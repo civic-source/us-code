@@ -3,9 +3,9 @@ title: "Section 6107 - Reissuance of benefits"
 usc_title: 38
 usc_section: "6107"
 chapter: 61
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 6107"
-generated_at: "2026-03-30T07:24:33.558Z"
+generated_at: "2026-03-30T07:26:36.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1335 - Unlawful advertisements on medium of electronic communica
 usc_title: 15
 usc_section: "1335"
 chapter: 36
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 1335"
-generated_at: "2026-03-30T07:23:42.793Z"
+generated_at: "2026-03-30T07:25:28.460Z"
 status: "active"
 ---
 

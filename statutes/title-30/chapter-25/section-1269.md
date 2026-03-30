@@ -3,9 +3,9 @@ title: "Section 1269 - Release of performance bonds or deposits"
 usc_title: 30
 usc_section: "1269"
 chapter: 25
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "30 U.S.C. § 1269"
-generated_at: "2026-03-30T07:24:12.095Z"
+generated_at: "2026-03-30T07:25:50.164Z"
 status: "active"
 ---
 

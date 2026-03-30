@@ -3,9 +3,9 @@ title: "Section 12301 - Grants for capital improvements to prevent crime in publ
 usc_title: 34
 usc_section: "12301"
 chapter: 121
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "34 U.S.C. § 12301"
-generated_at: "2026-03-30T07:24:29.159Z"
+generated_at: "2026-03-30T07:26:20.821Z"
 status: "active"
 ---
 

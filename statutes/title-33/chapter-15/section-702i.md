@@ -3,9 +3,9 @@ title: "Section 702i - Certain sections applicable to property and rights acquir
 usc_title: 33
 usc_section: "702i"
 chapter: 15
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 702i"
-generated_at: "2026-03-30T07:24:25.292Z"
+generated_at: "2026-03-30T07:26:12.550Z"
 status: "active"
 ---
 

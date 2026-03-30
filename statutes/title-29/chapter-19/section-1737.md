@@ -3,9 +3,9 @@ title: "Section 1737 - Repealed. Pub. L. 105–220, title I , § 199(b)(2), Aug.
 usc_title: 29
 usc_section: "1737"
 chapter: 19
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "29 U.S.C. § 1737"
-generated_at: "2026-03-30T07:24:10.634Z"
+generated_at: "2026-03-30T07:26:03.554Z"
 status: "repealed"
 ---
 

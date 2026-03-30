@@ -3,9 +3,9 @@ title: "Section 2106 - Compliance with Federal laws"
 usc_title: 48
 usc_section: "2106"
 chapter: 20
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "48 U.S.C. § 2106"
-generated_at: "2026-03-30T07:24:52.732Z"
+generated_at: "2026-03-30T07:27:03.554Z"
 status: "active"
 ---
 

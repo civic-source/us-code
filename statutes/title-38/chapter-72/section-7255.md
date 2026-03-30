@@ -3,9 +3,9 @@ title: "Section 7255 - Offices, duty stations, and residences"
 usc_title: 38
 usc_section: "7255"
 chapter: 72
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 7255"
-generated_at: "2026-03-30T07:24:33.560Z"
+generated_at: "2026-03-30T07:26:36.046Z"
 status: "active"
 ---
 

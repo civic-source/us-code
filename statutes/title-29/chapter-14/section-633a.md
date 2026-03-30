@@ -3,9 +3,9 @@ title: "Section 633a - Nondiscrimination on account of age in Federal Government
 usc_title: 29
 usc_section: "633a"
 chapter: 14
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "29 U.S.C. § 633a"
-generated_at: "2026-03-30T07:24:10.592Z"
+generated_at: "2026-03-30T07:26:03.513Z"
 status: "active"
 ---
 

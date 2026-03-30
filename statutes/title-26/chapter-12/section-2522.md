@@ -3,9 +3,9 @@ title: "Section 2522 - Charitable and similar gifts"
 usc_title: 26
 usc_section: "2522"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 2522"
-generated_at: "2026-03-30T07:24:21.731Z"
+generated_at: "2026-03-30T07:26:08.294Z"
 status: "active"
 ---
 

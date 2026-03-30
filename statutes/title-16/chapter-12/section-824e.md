@@ -3,9 +3,9 @@ title: "Section 824e - Power of Commission to fix rates and charges; determinati
 usc_title: 16
 usc_section: "824e"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 824e"
-generated_at: "2026-03-30T07:24:00.965Z"
+generated_at: "2026-03-30T07:25:40.410Z"
 status: "active"
 ---
 

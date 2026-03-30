@@ -3,9 +3,9 @@ title: "Section 11907 - Punishment of corporation for violations committed by ce
 usc_title: 49
 usc_section: "11907"
 chapter: 119
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "49 U.S.C. § 11907"
-generated_at: "2026-03-30T07:24:55.899Z"
+generated_at: "2026-03-30T07:27:13.624Z"
 status: "active"
 ---
 

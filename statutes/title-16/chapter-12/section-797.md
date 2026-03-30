@@ -3,9 +3,9 @@ title: "Section 797 - General powers of Commission"
 usc_title: 16
 usc_section: "797"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 797"
-generated_at: "2026-03-30T07:24:00.961Z"
+generated_at: "2026-03-30T07:25:40.407Z"
 status: "active"
 ---
 

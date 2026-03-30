@@ -3,9 +3,9 @@ title: "Section 16 - Introduction into, or sale in, State or Territory or Distri
 usc_title: 21
 usc_section: "16"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "21 U.S.C. § 16"
-generated_at: "2026-03-30T07:24:04.475Z"
+generated_at: "2026-03-30T07:25:44.990Z"
 status: "active"
 ---
 

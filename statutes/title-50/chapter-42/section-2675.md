@@ -3,9 +3,9 @@ title: "Section 2675 - Identification in budget materials of amounts for declass
 usc_title: 50
 usc_section: "2675"
 chapter: 42
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "50 U.S.C. § 2675"
-generated_at: "2026-03-30T07:24:56.965Z"
+generated_at: "2026-03-30T07:27:04.465Z"
 status: "active"
 ---
 

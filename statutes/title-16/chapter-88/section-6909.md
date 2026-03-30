@@ -3,9 +3,9 @@ title: "Section 6909 - Exclusive Economic Zone notification"
 usc_title: 16
 usc_section: "6909"
 chapter: 88
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 6909"
-generated_at: "2026-03-30T07:24:01.057Z"
+generated_at: "2026-03-30T07:25:40.512Z"
 status: "active"
 ---
 

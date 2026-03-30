@@ -3,9 +3,9 @@ title: "Section 999 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "999"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "29 U.S.C. § 999"
-generated_at: "2026-03-30T07:24:10.605Z"
+generated_at: "2026-03-30T07:26:03.526Z"
 status: "repealed"
 ---
 

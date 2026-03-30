@@ -3,9 +3,9 @@ title: "Section 50103 - Limitation on authority"
 usc_title: 34
 usc_section: "50103"
 chapter: 501
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "34 U.S.C. § 50103"
-generated_at: "2026-03-30T07:24:29.181Z"
+generated_at: "2026-03-30T07:26:20.842Z"
 status: "active"
 ---
 

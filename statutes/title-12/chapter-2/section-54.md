@@ -3,9 +3,9 @@ title: "Section 54 - Repealed. Pub. L. 86–230 , § 5, Sept. 8, 1959 , 73 Stat.
 usc_title: 12
 usc_section: "54"
 chapter: 2
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 54"
-generated_at: "2026-03-30T07:23:40.598Z"
+generated_at: "2026-03-30T07:25:31.079Z"
 status: "repealed"
 ---
 

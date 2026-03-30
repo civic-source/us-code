@@ -3,9 +3,9 @@ title: "Section 1795e - Extensions of credit"
 usc_title: 12
 usc_section: "1795e"
 chapter: 14
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 1795e"
-generated_at: "2026-03-30T07:23:40.663Z"
+generated_at: "2026-03-30T07:25:31.146Z"
 status: "active"
 ---
 

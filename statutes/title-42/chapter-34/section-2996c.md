@@ -3,9 +3,9 @@ title: "Section 2996c - Board of Directors"
 usc_title: 42
 usc_section: "2996c"
 chapter: 34
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 2996c"
-generated_at: "2026-03-30T07:24:48.646Z"
+generated_at: "2026-03-30T07:26:59.689Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 203 - Unlawful businesses without permit; application to State a
 usc_title: 27
 usc_section: "203"
 chapter: 8
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "27 U.S.C. § 203"
-generated_at: "2026-03-30T07:24:09.019Z"
+generated_at: "2026-03-30T07:25:49.437Z"
 status: "active"
 ---
 

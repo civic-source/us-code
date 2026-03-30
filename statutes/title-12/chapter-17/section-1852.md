@@ -3,9 +3,9 @@ title: "Section 1852 - Concentration limits on large financial firms"
 usc_title: 12
 usc_section: "1852"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 1852"
-generated_at: "2026-03-30T07:23:40.688Z"
+generated_at: "2026-03-30T07:25:31.171Z"
 status: "active"
 ---
 

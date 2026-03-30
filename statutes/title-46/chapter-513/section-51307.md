@@ -3,9 +3,9 @@ title: "Section 51307 - Places of training"
 usc_title: 46
 usc_section: "51307"
 chapter: 513
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 51307"
-generated_at: "2026-03-30T07:24:53.557Z"
+generated_at: "2026-03-30T07:27:05.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 597 - Rules and regulations; cooperation with other agencies; co
 usc_title: 7
 usc_section: "597"
 chapter: 25
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 597"
-generated_at: "2026-03-30T07:23:30.898Z"
+generated_at: "2026-03-30T07:25:19.045Z"
 status: "active"
 ---
 

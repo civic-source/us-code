@@ -3,9 +3,9 @@ title: "Section 2367 - Use of federally funded research and development centers"
 usc_title: 10
 usc_section: "2367"
 chapter: 139
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 2367"
-generated_at: "2026-03-30T07:23:35.404Z"
+generated_at: "2026-03-30T07:25:22.779Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T07:24:00.953Z"
+generated_at: "2026-03-30T07:25:40.398Z"
 status: "active"
 ---
 

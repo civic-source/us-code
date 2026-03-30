@@ -3,9 +3,9 @@ title: "Section 2344 - Oversight and administration"
 usc_title: 19
 usc_section: "2344"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "19 U.S.C. § 2344"
-generated_at: "2026-03-30T07:23:51.631Z"
+generated_at: "2026-03-30T07:25:36.064Z"
 status: "active"
 ---
 

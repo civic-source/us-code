@@ -3,9 +3,9 @@ title: "Section 415b - Omitted"
 usc_title: 7
 usc_section: "415b"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 415b"
-generated_at: "2026-03-30T07:23:30.893Z"
+generated_at: "2026-03-30T07:25:19.041Z"
 status: "omitted"
 ---
 

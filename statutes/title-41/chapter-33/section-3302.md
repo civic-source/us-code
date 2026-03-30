@@ -3,9 +3,9 @@ title: "Section 3302 - Requirements for purchase of property and services pursua
 usc_title: 41
 usc_section: "3302"
 chapter: 33
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "41 U.S.C. § 3302"
-generated_at: "2026-03-30T07:24:35.324Z"
+generated_at: "2026-03-30T07:26:37.892Z"
 status: "active"
 ---
 

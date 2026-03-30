@@ -3,9 +3,9 @@ title: "Section 3037 - Deputy Director of the Central Intelligence Agency"
 usc_title: 50
 usc_section: "3037"
 chapter: 44
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "50 U.S.C. § 3037"
-generated_at: "2026-03-30T07:24:56.972Z"
+generated_at: "2026-03-30T07:27:04.472Z"
 status: "active"
 ---
 

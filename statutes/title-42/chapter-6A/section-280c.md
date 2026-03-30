@@ -3,9 +3,9 @@ title: "Section 280c - Establishment of program"
 usc_title: 42
 usc_section: "280c"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 280c"
-generated_at: "2026-03-30T07:24:48.306Z"
+generated_at: "2026-03-30T07:26:59.352Z"
 status: "active"
 ---
 

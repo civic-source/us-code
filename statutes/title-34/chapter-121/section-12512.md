@@ -3,9 +3,9 @@ title: "Section 12512 - Working Group"
 usc_title: 34
 usc_section: "12512"
 chapter: 121
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "34 U.S.C. § 12512"
-generated_at: "2026-03-30T07:24:29.163Z"
+generated_at: "2026-03-30T07:26:20.824Z"
 status: "active"
 ---
 

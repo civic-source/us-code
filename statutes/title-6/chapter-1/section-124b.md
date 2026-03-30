@@ -3,9 +3,9 @@ title: "Section 124b - Comprehensive information technology network architecture
 usc_title: 6
 usc_section: "124b"
 chapter: 1
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "6 U.S.C. § 124b"
-generated_at: "2026-03-30T07:23:28.345Z"
+generated_at: "2026-03-30T07:25:16.918Z"
 status: "active"
 ---
 

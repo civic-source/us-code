@@ -3,9 +3,9 @@ title: "Section 1832 - Theft of trade secrets"
 usc_title: 18
 usc_section: "1832"
 chapter: 90
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "18 U.S.C. § 1832"
-generated_at: "2026-03-30T07:23:50.500Z"
+generated_at: "2026-03-30T07:25:34.726Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2447e - Definition of weapon system component"
 usc_title: 10
 usc_section: "2447e"
 chapter: 144
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 2447e"
-generated_at: "2026-03-30T07:23:35.410Z"
+generated_at: "2026-03-30T07:25:22.785Z"
 status: "active"
 ---
 

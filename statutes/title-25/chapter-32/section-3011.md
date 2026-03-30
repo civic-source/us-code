@@ -3,9 +3,9 @@ title: "Section 3011 - Regulations"
 usc_title: 25
 usc_section: "3011"
 chapter: 32
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "25 U.S.C. § 3011"
-generated_at: "2026-03-30T07:24:05.324Z"
+generated_at: "2026-03-30T07:25:44.014Z"
 status: "active"
 ---
 

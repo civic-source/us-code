@@ -3,9 +3,9 @@ title: "Section 950f - Review by United States Court of Military Commission Revi
 usc_title: 10
 usc_section: "950f"
 chapter: 47
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 950f"
-generated_at: "2026-03-30T07:23:35.350Z"
+generated_at: "2026-03-30T07:25:22.727Z"
 status: "active"
 ---
 

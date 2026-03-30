@@ -3,9 +3,9 @@ title: "Section 4361 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "4361"
 chapter: 403
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 4361"
-generated_at: "2026-03-30T07:23:35.436Z"
+generated_at: "2026-03-30T07:25:22.810Z"
 status: "active"
 ---
 

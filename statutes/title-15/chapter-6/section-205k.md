@@ -3,9 +3,9 @@ title: "Section 205k - Authorization of appropriations; availability"
 usc_title: 15
 usc_section: "205k"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 205k"
-generated_at: "2026-03-30T07:23:42.742Z"
+generated_at: "2026-03-30T07:25:28.410Z"
 status: "active"
 ---
 

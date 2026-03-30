@@ -3,9 +3,9 @@ title: "Section 3774 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3774"
 chapter: 57
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "16 U.S.C. § 3774"
-generated_at: "2026-03-30T07:24:01.031Z"
+generated_at: "2026-03-30T07:25:40.484Z"
 status: "active"
 ---
 

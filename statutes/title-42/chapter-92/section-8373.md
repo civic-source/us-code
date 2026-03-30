@@ -3,9 +3,9 @@ title: "Section 8373 - Conservation in Federal facilities, contracts, and financ
 usc_title: 42
 usc_section: "8373"
 chapter: 92
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 8373"
-generated_at: "2026-03-30T07:24:48.790Z"
+generated_at: "2026-03-30T07:26:59.819Z"
 status: "active"
 ---
 

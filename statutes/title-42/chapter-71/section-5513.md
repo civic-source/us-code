@@ -3,9 +3,9 @@ title: "Section 5513 - Priorities and criteria of demonstration programs"
 usc_title: 42
 usc_section: "5513"
 chapter: 71
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 5513"
-generated_at: "2026-03-30T07:24:48.701Z"
+generated_at: "2026-03-30T07:26:59.739Z"
 status: "active"
 ---
 

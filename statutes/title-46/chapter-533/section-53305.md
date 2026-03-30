@@ -3,9 +3,9 @@ title: "Section 53305 - Eligible fund deposits"
 usc_title: 46
 usc_section: "53305"
 chapter: 533
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "46 U.S.C. § 53305"
-generated_at: "2026-03-30T07:24:53.559Z"
+generated_at: "2026-03-30T07:27:05.129Z"
 status: "active"
 ---
 

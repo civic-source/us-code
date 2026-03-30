@@ -3,9 +3,9 @@ title: "Section 922 - Inspection of car ferries entering from abroad"
 usc_title: 6
 usc_section: "922"
 chapter: 3
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "6 U.S.C. § 922"
-generated_at: "2026-03-30T07:23:28.371Z"
+generated_at: "2026-03-30T07:25:16.945Z"
 status: "active"
 ---
 

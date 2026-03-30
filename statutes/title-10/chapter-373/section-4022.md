@@ -3,9 +3,9 @@ title: "Section 4022 - Repealed. Pub. L. 98–94, title IX , § 932(b)(1), Sept.
 usc_title: 10
 usc_section: "4022"
 chapter: 373
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-30T07:23:35.435Z"
+generated_at: "2026-03-30T07:25:22.808Z"
 status: "repealed"
 ---
 

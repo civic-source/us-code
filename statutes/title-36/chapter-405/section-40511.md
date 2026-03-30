@@ -3,9 +3,9 @@ title: "Section 40511 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "40511"
 chapter: 405
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "36 U.S.C. § 40511"
-generated_at: "2026-03-30T07:24:31.885Z"
+generated_at: "2026-03-30T07:26:26.129Z"
 status: "active"
 ---
 

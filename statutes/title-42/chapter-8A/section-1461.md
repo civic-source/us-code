@@ -3,9 +3,9 @@ title: "Section 1461 - Repealed. Aug. 2, 1954, ch. 649 , title III, § 313, 68 S
 usc_title: 42
 usc_section: "1461"
 chapter: 8
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 1461"
-generated_at: "2026-03-30T07:24:48.583Z"
+generated_at: "2026-03-30T07:26:59.629Z"
 status: "repealed"
 ---
 

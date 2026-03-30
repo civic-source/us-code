@@ -3,9 +3,9 @@ title: "Section 8911 - Office of Homeland Security"
 usc_title: 7
 usc_section: "8911"
 chapter: 114
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 8911"
-generated_at: "2026-03-30T07:23:31.040Z"
+generated_at: "2026-03-30T07:25:19.184Z"
 status: "active"
 ---
 

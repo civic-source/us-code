@@ -3,9 +3,9 @@ title: "Section 114 - Premium and cost-sharing subsidies for low-income individu
 usc_title: 42
 usc_section: "114"
 chapter: 7
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-30T07:24:48.502Z"
+generated_at: "2026-03-30T07:26:59.545Z"
 status: "active"
 ---
 

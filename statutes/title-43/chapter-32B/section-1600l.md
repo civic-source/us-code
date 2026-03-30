@@ -3,9 +3,9 @@ title: "Section 1600l - Authorization of appropriations"
 usc_title: 43
 usc_section: "1600l"
 chapter: 32
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "43 U.S.C. § 1600l"
-generated_at: "2026-03-30T07:24:49.500Z"
+generated_at: "2026-03-30T07:26:40.808Z"
 status: "active"
 ---
 

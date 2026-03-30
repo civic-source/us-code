@@ -3,9 +3,9 @@ title: "Section 2314 - Furnishing of defense articles or related training or oth
 usc_title: 22
 usc_section: "2314"
 chapter: 32
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 2314"
-generated_at: "2026-03-30T07:24:07.352Z"
+generated_at: "2026-03-30T07:25:47.779Z"
 status: "active"
 ---
 

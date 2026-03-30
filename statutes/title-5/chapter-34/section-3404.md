@@ -3,9 +3,9 @@ title: "Section 3404 - Personnel ceilings"
 usc_title: 5
 usc_section: "3404"
 chapter: 34
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "5 U.S.C. § 3404"
-generated_at: "2026-03-30T07:23:25.707Z"
+generated_at: "2026-03-30T07:25:12.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1201a - Repealed. Pub. L. 99–653 , § 5(b), formerly § 5(a)(d
 usc_title: 8
 usc_section: "1201a"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "8 U.S.C. § 1201a"
-generated_at: "2026-03-30T07:23:27.955Z"
+generated_at: "2026-03-30T07:25:16.098Z"
 status: "repealed"
 ---
 

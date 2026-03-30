@@ -3,9 +3,9 @@ title: "Section 7270a - Guards for Strategic Petroleum Reserve facilities"
 usc_title: 42
 usc_section: "7270a"
 chapter: 84
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 7270a"
-generated_at: "2026-03-30T07:24:48.746Z"
+generated_at: "2026-03-30T07:26:59.778Z"
 status: "active"
 ---
 

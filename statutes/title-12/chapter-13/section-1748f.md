@@ -3,9 +3,9 @@ title: "Section 1748f - Rules and regulations"
 usc_title: 12
 usc_section: "1748f"
 chapter: 13
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "12 U.S.C. § 1748f"
-generated_at: "2026-03-30T07:23:40.654Z"
+generated_at: "2026-03-30T07:25:31.136Z"
 status: "active"
 ---
 

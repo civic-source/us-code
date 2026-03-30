@@ -3,9 +3,9 @@ title: "Section 4345a - Repealed. Pub. L. 114–328, div. A, title XII , § 1248
 usc_title: 10
 usc_section: "4345a"
 chapter: 403
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "10 U.S.C. § 4345a"
-generated_at: "2026-03-30T07:23:35.436Z"
+generated_at: "2026-03-30T07:25:22.809Z"
 status: "repealed"
 ---
 

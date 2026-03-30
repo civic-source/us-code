@@ -3,9 +3,9 @@ title: "Section 672a - Long-term lease authority for lighthouse property"
 usc_title: 14
 usc_section: "672a"
 chapter: 17
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "14 U.S.C. § 672a"
-generated_at: "2026-03-30T07:23:37.544Z"
+generated_at: "2026-03-30T07:25:26.636Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7262 - Violation of occupational tax laws relating to wageringâ€
 usc_title: 26
 usc_section: "7262"
 chapter: 75
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. Â§ 7262"
-generated_at: "2026-03-30T07:24:21.800Z"
+generated_at: "2026-03-30T07:26:08.361Z"
 status: "active"
 ---
 

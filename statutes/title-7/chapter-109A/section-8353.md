@@ -3,9 +3,9 @@ title: "Section 8353 - Control of nuisance mammals and birds and those constitut
 usc_title: 7
 usc_section: "8353"
 chapter: 109
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "7 U.S.C. § 8353"
-generated_at: "2026-03-30T07:23:31.035Z"
+generated_at: "2026-03-30T07:25:19.179Z"
 status: "active"
 ---
 

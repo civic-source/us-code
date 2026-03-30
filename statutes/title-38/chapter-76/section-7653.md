@@ -3,9 +3,9 @@ title: "Section 7653 - Amount of assistance"
 usc_title: 38
 usc_section: "7653"
 chapter: 76
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "38 U.S.C. § 7653"
-generated_at: "2026-03-30T07:24:33.569Z"
+generated_at: "2026-03-30T07:26:36.055Z"
 status: "active"
 ---
 

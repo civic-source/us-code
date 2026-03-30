@@ -3,9 +3,9 @@ title: "Section 1151a - Repealed. Pub. L. 94–571 , § 7(g), Oct. 20, 1976 , 90
 usc_title: 8
 usc_section: "1151a"
 chapter: 12
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "8 U.S.C. § 1151a"
-generated_at: "2026-03-30T07:23:27.932Z"
+generated_at: "2026-03-30T07:25:16.088Z"
 status: "repealed"
 ---
 

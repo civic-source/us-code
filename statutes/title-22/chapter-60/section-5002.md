@@ -3,9 +3,9 @@ title: "Section 5002 - Repealed. Pub. L. 103–149 , § 4(a)(1), Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5002"
 chapter: 60
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "22 U.S.C. § 5002"
-generated_at: "2026-03-30T07:24:07.402Z"
+generated_at: "2026-03-30T07:25:47.831Z"
 status: "repealed"
 ---
 

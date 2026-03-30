@@ -3,9 +3,9 @@ title: "Section 21005 - Governing body"
 usc_title: 36
 usc_section: "21005"
 chapter: 210
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "36 U.S.C. § 21005"
-generated_at: "2026-03-30T07:24:31.880Z"
+generated_at: "2026-03-30T07:26:26.126Z"
 status: "active"
 ---
 

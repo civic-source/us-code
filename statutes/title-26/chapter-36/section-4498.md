@@ -3,9 +3,9 @@ title: "Section 4498 - Repealed. Pub. L. 105–34, title XIV , § 1432(b)(1), Au
 usc_title: 26
 usc_section: "4498"
 chapter: 36
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "26 U.S.C. § 4498"
-generated_at: "2026-03-30T07:24:21.747Z"
+generated_at: "2026-03-30T07:26:08.309Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 935 - Substitution of carrier for employer"
 usc_title: 33
 usc_section: "935"
 chapter: 18
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 935"
-generated_at: "2026-03-30T07:24:25.298Z"
+generated_at: "2026-03-30T07:26:12.557Z"
 status: "active"
 ---
 

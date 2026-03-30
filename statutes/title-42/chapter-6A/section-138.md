@@ -3,9 +3,9 @@ title: "Section 138 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "138"
 chapter: 6
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 138"
-generated_at: "2026-03-30T07:24:48.387Z"
+generated_at: "2026-03-30T07:26:59.432Z"
 status: "active"
 ---
 

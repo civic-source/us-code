@@ -3,9 +3,9 @@ title: "Section 4072 - Adjustment and payment of claims; judicial review; limita
 usc_title: 42
 usc_section: "4072"
 chapter: 50
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 4072"
-generated_at: "2026-03-30T07:24:48.670Z"
+generated_at: "2026-03-30T07:26:59.713Z"
 status: "active"
 ---
 

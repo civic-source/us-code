@@ -3,9 +3,9 @@ title: "Section 1323 - Federal facilities pollution control"
 usc_title: 33
 usc_section: "1323"
 chapter: 26
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "33 U.S.C. § 1323"
-generated_at: "2026-03-30T07:24:25.314Z"
+generated_at: "2026-03-30T07:26:12.572Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11131 - Requiring reports on medical malpractice payments"
 usc_title: 42
 usc_section: "11131"
 chapter: 117
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 11131"
-generated_at: "2026-03-30T07:24:48.837Z"
+generated_at: "2026-03-30T07:26:59.862Z"
 status: "active"
 ---
 

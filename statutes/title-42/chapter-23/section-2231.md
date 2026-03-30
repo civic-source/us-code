@@ -3,9 +3,9 @@ title: "Section 2231 - Applicability of administrative procedure provisions; def
 usc_title: 42
 usc_section: "2231"
 chapter: 23
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 2231"
-generated_at: "2026-03-30T07:24:48.636Z"
+generated_at: "2026-03-30T07:26:59.680Z"
 status: "active"
 ---
 

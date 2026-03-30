@@ -3,9 +3,9 @@ title: "Section 2105 - Application of other laws"
 usc_title: 15
 usc_section: "2105"
 chapter: 48
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "15 U.S.C. § 2105"
-generated_at: "2026-03-30T07:23:42.826Z"
+generated_at: "2026-03-30T07:25:28.491Z"
 status: "active"
 ---
 

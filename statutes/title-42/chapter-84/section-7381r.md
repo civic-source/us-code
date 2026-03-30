@@ -3,9 +3,9 @@ title: "Section 7381r - Mentoring program"
 usc_title: 42
 usc_section: "7381r"
 chapter: 84
-current_through: "PL 115-182"
+current_through: "PL 115-185"
 classification: "42 U.S.C. § 7381r"
-generated_at: "2026-03-30T07:24:48.748Z"
+generated_at: "2026-03-30T07:26:59.780Z"
 status: "active"
 ---
 
