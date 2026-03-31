@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Johnny Smith
+  citation: 925 F.3d 410
+  court: Appellate
+  date: '2019-05-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4623707/united-states-v-johnny-smith/
+- caseName: United States v. Abu Khatallah
+  citation: 168 F. Supp. 3d 210
+  court: District
+  date: '2016-03-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3182196/united-states-v-abu-khatallah/
+- caseName: United States v. Jesse Perez
+  citation: ''
+  court: Appellate
+  date: '2025-08-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10653250/united-states-v-jesse-perez/
+- caseName: United States v. Abu Khatallah
+  citation: 316 F. Supp. 3d 207
+  court: Appellate
+  date: '2018-06-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7330659/united-states-v-abu-khatallah/
+- caseName: United States v. Khatallah
+  citation: ''
+  court: District
+  date: '2018-06-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4511151/united-states-v-khatallah/
+- caseName: United States v. Moradi
+  citation: 706 F. Supp. 2d 639
+  court: District
+  date: '2010-04-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2542564/united-states-v-moradi/
+- caseName: United States v. Daniel Harris
+  citation: 991 F.3d 552
+  court: Appellate
+  date: '2021-03-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4865458/united-states-v-daniel-harris/
+- caseName: United States v. Lieu
+  citation: 313 F. Supp. 3d 171
+  court: Appellate
+  date: '2018-06-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7330404/united-states-v-lieu/
+- caseName: United States v. Goodwin
+  citation: 927 F. Supp. 2d 807
+  court: District
+  date: '2013-03-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8723222/united-states-v-goodwin/
+- caseName: United States v. Lieu
+  citation: ''
+  court: District
+  date: '2018-06-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4507862/united-states-v-lieu/
+- caseName: United States v. Stevens
+  citation: 188 F. Supp. 3d 421
+  court: District
+  date: '2016-05-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7320431/united-states-v-stevens/
+- caseName: MCCLAIN v. STATE
+  citation: 501 P.3d 1009
+  court: Appellate
+  date: '2021-11-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/5312267/mcclain-v-state/
+- caseName: United States v. Al-Imam
+  citation: 373 F. Supp. 3d 247
+  court: Appellate
+  date: '2019-03-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7335332/united-states-v-al-imam/
+- caseName: United States v. Morton
+  citation: 314 F. Supp. 2d 509
+  court: District
+  date: '2004-03-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2471024/united-states-v-morton/
+- caseName: United States v. Al-Imam
+  citation: ''
+  court: District
+  date: '2019-03-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4599963/united-states-v-al-imam/
+- caseName: United States v. Zenon
+  citation: 182 F. Supp. 2d 211
+  court: District
+  date: '2002-01-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2576221/united-states-v-zenon/
+- caseName: Kathey-Lee Galvin v. United States
+  citation: 859 F.3d 71
+  court: Appellate
+  date: '2017-06-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4399743/kathey-lee-galvin-v-united-states/
+- caseName: United States v. Pizdrint
+  citation: 983 F. Supp. 1110
+  court: District
+  date: '1997-11-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1989537/united-states-v-pizdrint/
+- caseName: United States v. Zenon-Encarnacion
+  citation: 185 F. Supp. 2d 127
+  court: District
+  date: '2001-12-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2520440/united-states-v-zenon-encarnacion/
+- caseName: United States v. Wilson
+  citation: 246 F. Supp. 3d 1160
+  court: District
+  date: '2017-03-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7325124/united-states-v-wilson/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 7
+totalCases: 289

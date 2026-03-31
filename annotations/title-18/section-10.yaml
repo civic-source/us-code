@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Edward Rosario Polanco
+  citation: 451 F.3d 308
+  court: Appellate
+  date: '2006-06-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/794665/united-states-v-edward-rosario-polanco/
+- caseName: United States v. Polanco
+  citation: ''
+  court: Appellate
+  date: '2006-06-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3021110/united-states-v-polanco/
+- caseName: United States v. Weingarten
+  citation: 632 F.3d 60
+  court: Appellate
+  date: '2011-01-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/182880/united-states-v-weingarten/
+- caseName: United States v. Richard Schmidt
+  citation: 845 F.3d 153
+  court: Appellate
+  date: '2017-01-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4335899/united-states-v-richard-schmidt/
+- caseName: Shabazz v. United States
+  citation: ''
+  court: Appellate
+  date: '2019-01-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4578863/shabazz-v-united-states/
+- caseName: United States v. Montford
+  citation: 27 F.3d 137
+  court: Appellate
+  date: '1994-07-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6527/united-states-v-montford/
+- caseName: United States v. Goldberg, Ronald J.
+  citation: 830 F.2d 459
+  court: Appellate
+  date: '1987-09-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/495231/united-states-v-goldberg-ronald-j/
+- caseName: Buck Duane Walker v. United States
+  citation: 802 F.2d 1106
+  court: Appellate
+  date: '1986-10-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/477842/buck-duane-walker-v-united-states/
+- caseName: United States v. Martens
+  citation: 59 M.J. 501
+  court: Appellate
+  date: '2003-01-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7352334/united-states-v-martens/
+- caseName: Savoca v. United States
+  citation: 21 F.4th 225
+  court: Appellate
+  date: '2021-12-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/5312749/savoca-v-united-states/
+- caseName: United States v. Kroll
+  citation: ''
+  court: Appellate
+  date: '2019-03-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4596438/united-states-v-kroll/
+- caseName: United States v. Keith Reed
+  citation: 780 F.3d 260
+  court: Appellate
+  date: '2015-03-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2787602/united-states-v-keith-reed/
+- caseName: Metropolitan Life Ins. Co. v. Bucsek
+  citation: ''
+  court: Appellate
+  date: '2019-03-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4602780/metropolitan-life-ins-co-v-bucsek/
+- caseName: United States v. Bennett
+  citation: ''
+  court: Appellate
+  date: '2016-10-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4311224/united-states-v-bennett/
+- caseName: United States v. Driscoll
+  citation: 304 F. Supp. 82
+  court: District
+  date: '1969-09-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8790794/united-states-v-driscoll/
+- caseName: United States v. Lopez-Flores
+  citation: 592 F. Supp. 1302
+  court: District
+  date: '1984-09-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8897434/united-states-v-lopez-flores/
+- caseName: United States v. Michael Smith
+  citation: 821 F.3d 1293
+  court: Appellate
+  date: '2016-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3199231/united-states-v-michael-smith/
+- caseName: United States v. Christopher B. Carroll
+  citation: 105 F.3d 740
+  court: Appellate
+  date: '1997-02-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/734111/united-states-v-christopher-b-carroll/
+- caseName: United States v. Short
+  citation: 181 F.3d 620
+  court: Appellate
+  date: '1999-08-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/18285/united-states-v-short/
+- caseName: Greenpeace, Inc. v. Dow Chemical Company
+  citation: 808 F. Supp. 2d 262
+  court: District
+  date: '2011-09-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2663720/greenpeace-inc-v-dow-chemical-company/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 10
+totalCases: 50

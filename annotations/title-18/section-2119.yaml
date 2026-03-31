@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Greene
+  citation: 137 F.4th 1056
+  court: Appellate
+  date: '2025-05-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10591532/united-states-v-greene/
+- caseName: State v. Daniels
+  citation: ''
+  court: Appellate
+  date: '2023-10-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9433187/state-v-daniels/
+- caseName: United States v. Lowell
+  citation: 2 F.4th 1291
+  court: Appellate
+  date: '2021-06-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4895292/united-states-v-lowell/
+- caseName: United States v. Forty-Febres
+  citation: 982 F.3d 802
+  court: Appellate
+  date: '2020-12-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4837006/united-states-v-forty-febres/
+- caseName: United States v. Smith
+  citation: 379 F. Supp. 3d 355
+  court: District
+  date: '2019-05-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8344453/united-states-v-smith/
+- caseName: Gray v. United States
+  citation: 196 F. Supp. 3d 605
+  court: District
+  date: '2016-07-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7321170/gray-v-united-states/
+- caseName: United States v. Drew Clark
+  citation: 115 F.4th 895
+  court: Appellate
+  date: '2024-09-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10113217/united-states-v-drew-clark/
+- caseName: United States v. Jamaal Evans
+  citation: 848 F.3d 242
+  court: Appellate
+  date: '2017-02-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4345517/united-states-v-jamaal-evans/
+- caseName: United States v. Dontae Small
+  citation: 944 F.3d 490
+  court: Appellate
+  date: '2019-12-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4684957/united-states-v-dontae-small/
+- caseName: United States v. Elfred William Petruk
+  citation: 781 F.3d 438
+  court: Appellate
+  date: '2015-03-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2788483/united-states-v-elfred-william-petruk/
+- caseName: United States v. Samuel Gutierrez
+  citation: 876 F.3d 1254
+  court: Appellate
+  date: '2017-12-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4450639/united-states-v-samuel-gutierrez/
+- caseName: United States v. Felder
+  citation: 993 F.3d 57
+  court: Appellate
+  date: '2021-03-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4869368/united-states-v-felder/
+- caseName: Brymer v. United States
+  citation: 353 F. Supp. 3d 144
+  court: District
+  date: '2019-01-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7333618/brymer-v-united-states/
+- caseName: Sánchez-León v. United States
+  citation: 251 F. Supp. 3d 370
+  court: District
+  date: '2017-04-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7325462/sanchez-leon-v-united-states/
+- caseName: United States v. Cruz-Rivera
+  citation: 904 F.3d 63
+  court: Appellate
+  date: '2018-09-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4535463/united-states-v-cruz-rivera/
+- caseName: 'In Re: Jeffrey Smith'
+  citation: 829 F.3d 1276
+  court: Appellate
+  date: '2016-07-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4239692/in-re-jeffrey-smith/
+- caseName: 'In Re: Jeffrey Smith'
+  citation: ''
+  court: Appellate
+  date: '2016-07-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4240714/in-re-jeffrey-smith/
+- caseName: United States v. Barnes
+  citation: ''
+  court: District
+  date: '2019-10-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4672744/united-states-v-barnes/
+- caseName: Irma Ovalles v. United States
+  citation: 905 F.3d 1300
+  court: Appellate
+  date: '2018-10-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4541859/irma-ovalles-v-united-states/
+- caseName: United States v. Harry French
+  citation: 976 F.3d 744
+  court: Appellate
+  date: '2020-09-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4791011/united-states-v-harry-french/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2119
+totalCases: 886

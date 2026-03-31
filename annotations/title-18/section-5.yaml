@@ -1,0 +1,145 @@
+cases:
+- caseName: Jones v. State
+  citation: ''
+  court: SCOTUS
+  date: '2016-05-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3204131/jones-v-state/
+- caseName: Cortorreal v. United States
+  citation: ''
+  court: Appellate
+  date: '2007-05-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959815/cortorreal-v-united-states/
+- caseName: United States v. Manuel Leija-Sanchez
+  citation: 820 F.3d 899
+  court: Appellate
+  date: '2016-05-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3199666/united-states-v-manuel-leija-sanchez/
+- caseName: Shabazz v. United States
+  citation: ''
+  court: Appellate
+  date: '2019-01-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4578863/shabazz-v-united-states/
+- caseName: United States v. Karl Grinbergs
+  citation: ''
+  court: Appellate
+  date: '2006-12-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3041516/united-states-v-karl-grinbergs/
+- caseName: Irvin v. Harris
+  citation: 944 F.3d 63
+  court: Appellate
+  date: '2019-11-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4679637/irvin-v-harris/
+- caseName: Jones v. FCI Berlin, Warden
+  citation: 2018 DNH 025
+  court: District
+  date: '2018-02-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10695391/jones-v-fci-berlin-warden/
+- caseName: United States v. Angel Diaz
+  citation: 712 F.2d 36
+  court: Appellate
+  date: '1983-07-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/421698/united-states-v-angel-diaz/
+- caseName: United States v. Juan Ortiz-Orellana
+  citation: 90 F.4th 689
+  court: Appellate
+  date: '2024-01-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9459457/united-states-v-juan-ortiz-orellana/
+- caseName: United States v. Minor Perez-Chach
+  citation: ''
+  court: Appellate
+  date: '2024-01-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9459456/united-states-v-minor-perez-chach/
+- caseName: United States v. Kil Soo Lee
+  citation: 472 F.3d 638
+  court: Appellate
+  date: '2006-12-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/796367/united-states-v-kil-soo-lee/
+- caseName: United States v. Thomas Boaz
+  citation: ''
+  court: Appellate
+  date: '2009-03-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3046249/united-states-v-thomas-boaz/
+- caseName: Status of the Public Company Accounting Oversight Board Under 18 U.S.C.
+    § 207(c)
+  citation: ''
+  court: District
+  date: '2007-03-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4342140/status-of-the-public-company-accounting-oversight-board-under-18-usc/
+- caseName: United States v. Lee
+  citation: ''
+  court: Appellate
+  date: '2006-12-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3040124/united-states-v-lee/
+- caseName: United States v. Robert Turchin
+  citation: 21 F.4th 1192
+  court: Appellate
+  date: '2022-01-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/5342986/united-states-v-robert-turchin/
+- caseName: United States v. Regalado
+  citation: ''
+  court: Appellate
+  date: '2008-05-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960089/united-states-v-regalado/
+- caseName: United States v. Acosta-Martinez
+  citation: 252 F.3d 13
+  court: Appellate
+  date: '2001-06-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/199428/united-states-v-acosta-martinez/
+- caseName: United States v. Gurr, Bernard
+  citation: 471 F.3d 144
+  court: Appellate
+  date: '2006-12-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/186816/united-states-v-gurr-bernard/
+- caseName: United States v. Collin Hawkins
+  citation: ''
+  court: Appellate
+  date: '2015-01-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2769572/united-states-v-collin-hawkins/
+- caseName: United States v. Lee
+  citation: 159 F. Supp. 2d 1241
+  court: District
+  date: '2001-08-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2384974/united-states-v-lee/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 5
+totalCases: 35

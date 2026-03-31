@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Gomez
+  citation: ''
+  court: Appellate
+  date: '2025-11-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10737456/united-states-v-gomez/
+- caseName: United States v. Sturgeon
+  citation: ''
+  court: District
+  date: '2023-05-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9401781/united-states-v-sturgeon/
+- caseName: United States v. Parks
+  citation: 53 F. App'x 774
+  court: Appellate
+  date: '2002-11-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7296633/united-states-v-parks/
+- caseName: United States v. Sturgeon
+  citation: ''
+  court: District
+  date: '2023-05-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9396229/united-states-v-sturgeon/
+- caseName: United States v. Fairlamb
+  citation: ''
+  court: District
+  date: '2023-02-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9372238/united-states-v-fairlamb/
+- caseName: United States v. Johnson
+  citation: 738 F. Supp. 594
+  court: District
+  date: '1990-04-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1972467/united-states-v-johnson/
+- caseName: United States v. Freeman
+  citation: ''
+  court: Appellate
+  date: '2007-11-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959955/united-states-v-freeman/
+- caseName: United States v. Klump
+  citation: ''
+  court: Appellate
+  date: '2008-08-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960179/united-states-v-klump/
+- caseName: United States v. Regalado
+  citation: ''
+  court: Appellate
+  date: '2008-05-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960089/united-states-v-regalado/
+- caseName: United States v. Juwa
+  citation: ''
+  court: Appellate
+  date: '2007-11-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959982/united-states-v-juwa/
+- caseName: United States v. Teran
+  citation: ''
+  court: Appellate
+  date: '1996-10-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10532/united-states-v-teran/
+- caseName: Jones v. United States
+  citation: ''
+  court: Appellate
+  date: '2000-08-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/74724/jones-v-united-states/
+- caseName: United States v. Muzio
+  citation: 966 F.3d 61
+  court: Appellate
+  date: '2020-07-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4767997/united-states-v-muzio/
+- caseName: United States v. D'Amario
+  citation: ''
+  court: Appellate
+  date: '2003-11-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3012686/united-states-v-damario/
+- caseName: Philip Agee v. Edmund S. Muskie, Secretary of State
+  citation: 629 F.2d 80
+  court: Appellate
+  date: '1980-08-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/381794/philip-agee-v-edmund-s-muskie-secretary-of-state/
+- caseName: People v. McCavitt
+  citation: 185 N.E.3d 1192
+  court: SCOTUS
+  date: '2021-10-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/5299378/people-v-mccavitt/
+- caseName: United States v. Stein
+  citation: 18 F.R.D. 248
+  court: District
+  date: '1955-09-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9052297/united-states-v-stein/
+- caseName: United States v. Oberoi
+  citation: ''
+  court: Appellate
+  date: '2008-10-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960262/united-states-v-oberoi/
+- caseName: United States v. Byrne
+  citation: 422 F. Supp. 147
+  court: District
+  date: '1976-10-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1893196/united-states-v-byrne/
+- caseName: Green v. Board of Elections
+  citation: 380 F.2d 445
+  court: Appellate
+  date: '1967-06-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8891281/green-v-board-of-elections/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 11
+totalCases: 23

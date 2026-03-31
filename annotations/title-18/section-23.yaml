@@ -1,0 +1,138 @@
+cases:
+- caseName: Day v. Price
+  citation: ''
+  court: District
+  date: '2018-04-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4483118/day-v-price/
+- caseName: Day v. Azar
+  citation: 308 F. Supp. 3d 140
+  court: Appellate
+  date: '2018-04-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7329948/day-v-azar/
+- caseName: United States v. Richard Shaffer
+  citation: 807 F.3d 943
+  court: Appellate
+  date: '2015-12-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3160360/united-states-v-richard-shaffer/
+- caseName: United States v. Sturgeon
+  citation: ''
+  court: District
+  date: '2023-05-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9401781/united-states-v-sturgeon/
+- caseName: Shabazz v. United States
+  citation: ''
+  court: Appellate
+  date: '2019-01-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4578863/shabazz-v-united-states/
+- caseName: United States v. Sturgeon
+  citation: ''
+  court: District
+  date: '2023-05-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9396229/united-states-v-sturgeon/
+- caseName: United States v. Pruitt
+  citation: ''
+  court: Appellate
+  date: '2016-02-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3173817/united-states-v-pruitt/
+- caseName: United States v. Antico
+  citation: 692 F.3d 79
+  court: Appellate
+  date: '2012-08-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/806558/united-states-v-antico/
+- caseName: United States v. Hodge
+  citation: 41 V.I. 428
+  court: District
+  date: '1999-09-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8211589/united-states-v-hodge/
+- caseName: Martin T. Goodwin v. United States
+  citation: 602 F.2d 107
+  court: Appellate
+  date: '1979-08-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/368228/martin-t-goodwin-v-united-states/
+- caseName: United States v. Ronald Richard Aanerud, Paul Vincent Morinville, and
+    Rhonda Rae Morinville
+  citation: 893 F.2d 956
+  court: Appellate
+  date: '1990-02-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/534859/united-states-v-ronald-richard-aanerud-paul-vincent-morinville-and/
+- caseName: United States v. Chansley
+  citation: ''
+  court: District
+  date: '2023-07-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9414682/united-states-v-chansley/
+- caseName: United States v. Matthews
+  citation: 58 F. Supp. 3d 115
+  court: District
+  date: '2014-07-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2686459/united-states-v-matthews/
+- caseName: Vickers Associates, Ltd. v. Urice
+  citation: 36 V.I. 225
+  court: District
+  date: '1997-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8211545/vickers-associates-ltd-v-urice/
+- caseName: Vickers Associates, Ltd. v. Urice (In Re Jaritz Industries, Ltd.)
+  citation: 207 B.R. 451
+  court: District
+  date: '1997-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1536900/vickers-associates-ltd-v-urice-in-re-jaritz-industries-ltd/
+- caseName: United States v. Veal
+  citation: 153 F.3d 1233
+  court: Appellate
+  date: '1998-09-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/73223/united-states-v-veal/
+- caseName: United States Ex Rel. Marcus v. Hess
+  citation: 317 U.S. 537
+  court: SCOTUS
+  date: '1943-01-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/103757/united-states-ex-rel-marcus-v-hess/
+- caseName: United States v. Sattar (Stewart Yousry)
+  citation: ''
+  court: Appellate
+  date: '2009-11-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2447/united-states-v-sattar-stewart-yousry/
+- caseName: United States v. Santore
+  citation: 290 F.2d 51
+  court: Appellate
+  date: '1960-11-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/253962/united-states-v-santore/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 23
+totalCases: 19

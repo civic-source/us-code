@@ -1,0 +1,74 @@
+cases:
+- caseName: United States v. Thrower
+  citation: ''
+  court: Appellate
+  date: '2009-10-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960485/united-states-v-thrower/
+- caseName: Zhang v. United States
+  citation: ''
+  court: Appellate
+  date: '2007-10-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959929/zhang-v-united-states/
+- caseName: United States v. Lopez
+  citation: ''
+  court: Appellate
+  date: '2008-11-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960252/united-states-v-lopez/
+- caseName: United States v. Ken R. Fleck
+  citation: ''
+  court: Appellate
+  date: '2005-06-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3037545/united-states-v-ken-r-fleck/
+- caseName: United States v. Bearam
+  citation: ''
+  court: Appellate
+  date: '2007-06-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959833/united-states-v-bearam/
+- caseName: United States v. Juan Vincent Gomez Castrillon (USA)
+  citation: ''
+  court: Appellate
+  date: '2008-10-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2566/united-states-v-juan-vincent-gomez-castrillon-usa/
+- caseName: United States v. Scott
+  citation: 954 F.3d 74
+  court: Appellate
+  date: '2020-03-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4740605/united-states-v-scott/
+- caseName: United States v. Holmes
+  citation: 414 F. Supp. 831
+  court: District
+  date: '1976-04-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1443131/united-states-v-holmes/
+- caseName: Cbs Corporation v. FCC
+  citation: ''
+  court: Appellate
+  date: '2011-11-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/616535/cbs-corporation-v-fcc/
+- caseName: Cbs Corporation v. FCC
+  citation: ''
+  court: Appellate
+  date: '2011-11-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/616593/cbs-corporation-v-fcc/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 14
+totalCases: 10

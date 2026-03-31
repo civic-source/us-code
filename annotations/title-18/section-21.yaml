@@ -1,0 +1,116 @@
+cases:
+- caseName: United States v. Antonio Farias
+  citation: 836 F.3d 1315
+  court: Appellate
+  date: '2016-09-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4253524/united-states-v-antonio-farias/
+- caseName: United States v. Parnell
+  citation: ''
+  court: Appellate
+  date: '2008-04-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960061/united-states-v-parnell/
+- caseName: United States v. Shalash
+  citation: 108 F. App'x 269
+  court: Appellate
+  date: '2004-08-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8456005/united-states-v-shalash/
+- caseName: United States v. Forrest
+  citation: 316 F. Supp. 3d 111
+  court: Appellate
+  date: '2018-06-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8344109/united-states-v-forrest/
+- caseName: United States v. Forrest
+  citation: ''
+  court: District
+  date: '2018-06-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4506245/united-states-v-forrest/
+- caseName: United States v. Malek al-Maliki
+  citation: 787 F.3d 784
+  court: Appellate
+  date: '2015-05-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2803542/united-states-v-malek-al-maliki/
+- caseName: United States v. Habbas
+  citation: ''
+  court: Appellate
+  date: '2008-05-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960117/united-states-v-habbas/
+- caseName: United States v. Kamal Qazah
+  citation: 810 F.3d 879
+  court: Appellate
+  date: '2015-11-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3155406/united-states-v-kamal-qazah/
+- caseName: United States v. Amador
+  citation: 61 M.J. 619
+  court: Appellate
+  date: '2005-06-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7352395/united-states-v-amador/
+- caseName: United States v. Alquzah
+  citation: 91 F. Supp. 3d 818
+  court: District
+  date: '2015-03-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7312400/united-states-v-alquzah/
+- caseName: United States v. Gomez
+  citation: ''
+  court: Appellate
+  date: '2009-09-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960467/united-states-v-gomez/
+- caseName: United States v. Ramirez
+  citation: 708 F.3d 295
+  court: Appellate
+  date: '2013-02-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/821479/united-states-v-ramirez/
+- caseName: Gertsenshteyn v. Mukasey
+  citation: ''
+  court: Appellate
+  date: '2008-09-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2573/gertsenshteyn-v-mukasey/
+- caseName: Sea-Land Service, Inc. v. Atlantic Pacific International, Inc.
+  citation: 61 F. Supp. 2d 1102
+  court: District
+  date: '1999-07-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2500986/sea-land-service-inc-v-atlantic-pacific-international-inc/
+- caseName: United States v. Clavis
+  citation: 956 F.2d 1079
+  court: Appellate
+  date: '1992-03-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9004242/united-states-v-clavis/
+- caseName: United States v. Clavis
+  citation: 956 F.2d 1079
+  court: Appellate
+  date: '1992-03-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/577788/united-states-v-clavis/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 21
+totalCases: 16

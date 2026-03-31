@@ -1,0 +1,144 @@
+cases:
+- caseName: Gary Harris v. United States
+  citation: 19 F.4th 863
+  court: Appellate
+  date: '2021-12-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/5302192/gary-harris-v-united-states/
+- caseName: United States v. Mario Fultz
+  citation: 923 F.3d 1192
+  court: Appellate
+  date: '2019-05-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4618685/united-states-v-mario-fultz/
+- caseName: Allen v. United States
+  citation: 836 F.3d 894
+  court: Appellate
+  date: '2016-07-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8442936/allen-v-united-states/
+- caseName: Holder v. United States
+  citation: 836 F.3d 891
+  court: Appellate
+  date: '2016-07-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8442935/holder-v-united-states/
+- caseName: United States v. Shaffer
+  citation: 319 F. App'x 453
+  court: Appellate
+  date: '2008-08-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8487904/united-states-v-shaffer/
+- caseName: United States v. Shaffer
+  citation: 319 F. App'x 453
+  court: Appellate
+  date: '2008-08-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8487905/united-states-v-shaffer/
+- caseName: United States v. Rogers
+  citation: 179 F. Supp. 3d 881
+  court: District
+  date: '2016-04-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7319828/united-states-v-rogers/
+- caseName: United States v. Corbert Goldtooth
+  citation: 754 F.3d 763
+  court: Appellate
+  date: '2014-06-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2678187/united-states-v-corbert-goldtooth/
+- caseName: United States v. D.J.H.
+  citation: 179 F. Supp. 3d 866
+  court: District
+  date: '2016-04-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7319827/united-states-v-djh/
+- caseName: United States v. Sills
+  citation: ''
+  court: District
+  date: '2024-12-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10287233/united-states-v-sills/
+- caseName: United States v. Lawrence P. Peters
+  citation: 435 F.3d 746
+  court: Appellate
+  date: '2006-01-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/793066/united-states-v-lawrence-p-peters/
+- caseName: Benjamin Langford v. United States
+  citation: 993 F.3d 633
+  court: Appellate
+  date: '2021-04-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4871419/benjamin-langford-v-united-states/
+- caseName: United States v. Boman
+  citation: 25 F. App'x 761
+  court: Appellate
+  date: '2001-12-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7213662/united-states-v-boman/
+- caseName: United States v. Peters, Lawrence P.
+  citation: ''
+  court: Appellate
+  date: '2006-01-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2998593/united-states-v-peters-lawrence-p/
+- caseName: United States v. Rice
+  citation: ''
+  court: Appellate
+  date: '2020-05-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4756999/united-states-v-rice/
+- caseName: United States v. Donald Boman
+  citation: 810 F.3d 534
+  court: Appellate
+  date: '2016-01-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3167838/united-states-v-donald-boman/
+- caseName: United States v. Willie Johnson
+  citation: 915 F.3d 223
+  court: Appellate
+  date: '2019-02-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4587974/united-states-v-willie-johnson/
+- caseName: United States v. Rice
+  citation: ''
+  court: Appellate
+  date: '2020-05-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4755567/united-states-v-rice/
+- caseName: United States v. Soler
+  citation: 759 F.3d 226
+  court: Appellate
+  date: '2014-07-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8441841/united-states-v-soler/
+- caseName: United States v. Dixon
+  citation: 273 F.3d 636
+  court: Appellate
+  date: '2001-11-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/25893/united-states-v-dixon/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2111
+totalCases: 103

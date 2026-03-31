@@ -1,0 +1,147 @@
+cases:
+- caseName: United States v. Anthony D'Ambrosio
+  citation: 105 F.4th 533
+  court: Appellate
+  date: '2024-06-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9879922/united-states-v-anthony-dambrosio/
+- caseName: United States v. Jackson
+  citation: ''
+  court: Appellate
+  date: '2011-08-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/222563/united-states-v-jackson/
+- caseName: Application of the Brady Act's Criminal Penalties to State or Local Law
+    Enforcement Officers
+  citation: ''
+  court: District
+  date: '1994-03-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4342488/application-of-the-brady-acts-criminal-penalties-to-state-or-local-law/
+- caseName: Alix v. McKinsey & Co., Inc.
+  citation: 23 F.4th 196
+  court: Appellate
+  date: '2022-01-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6245924/alix-v-mckinsey-co-inc/
+- caseName: United States v. Newball
+  citation: 524 F. Supp. 715
+  court: District
+  date: '1981-10-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1430310/united-states-v-newball/
+- caseName: United States v. Callan
+  citation: 22 F. App'x 434
+  court: Appellate
+  date: '2001-10-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7177478/united-states-v-callan/
+- caseName: United States v. Tucker
+  citation: ''
+  court: Appellate
+  date: '2020-06-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4757879/united-states-v-tucker/
+- caseName: United States v. Zenon-Encarnacion
+  citation: 185 F. Supp. 2d 127
+  court: District
+  date: '2001-12-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2520440/united-states-v-zenon-encarnacion/
+- caseName: U.S. v. Perez-Bustamante
+  citation: ''
+  court: Appellate
+  date: '1992-05-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4808/us-v-perez-bustamante/
+- caseName: United States v. Ocana
+  citation: ''
+  court: Appellate
+  date: '2000-02-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/20124/united-states-v-ocana/
+- caseName: United States v. Hagen
+  citation: ''
+  court: Appellate
+  date: '2023-02-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9379860/united-states-v-hagen/
+- caseName: United States v. Charles F. Burke, Jr., United States of America v. Alan
+    Peter Quin
+  citation: 716 F.2d 935
+  court: Appellate
+  date: '1983-09-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/424679/united-states-v-charles-f-burke-jr-united-states-of-america-v-alan/
+- caseName: United States v. Joseph Bryant, John Cagnina, Terry Lee Alvarez
+  citation: 671 F.2d 450
+  court: Appellate
+  date: '1982-03-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/399524/united-states-v-joseph-bryant-john-cagnina-terry-lee-alvarez/
+- caseName: United States v. Vitillo
+  citation: ''
+  court: Appellate
+  date: '2007-06-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3027552/united-states-v-vitillo/
+- caseName: United States v. Burke
+  citation: 540 F. Supp. 1282
+  court: District
+  date: '1982-06-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1611418/united-states-v-burke/
+- caseName: United States v. Amico
+  citation: ''
+  court: Appellate
+  date: '2007-05-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959800/united-states-v-amico/
+- caseName: United States v. John Robert Hasson, a.k.a. Heloneti Glaera, a.k.a. Jack
+    Hasson
+  citation: ''
+  court: Appellate
+  date: '2003-06-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/76219/united-states-v-john-robert-hasson-aka-heloneti-gl/
+- caseName: United States v. Barkley
+  citation: 369 F. Supp. 2d 1309
+  court: District
+  date: '2005-01-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2361320/united-states-v-barkley/
+- caseName: United States v. Motto Franicevich
+  citation: 465 F.2d 467
+  court: Appellate
+  date: '1972-08-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/305172/united-states-v-motto-franicevich/
+- caseName: United States v. Oberoi
+  citation: ''
+  court: Appellate
+  date: '2008-10-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960262/united-states-v-oberoi/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 9
+totalCases: 22

@@ -1,0 +1,25 @@
+cases:
+- caseName: United States v. Jeff Levenderis
+  citation: 806 F.3d 390
+  court: Appellate
+  date: '2015-11-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3154127/united-states-v-jeff-levenderis/
+- caseName: United States v. Perez
+  citation: 43 F.4th 437
+  court: Appellate
+  date: '2022-08-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7853810/united-states-v-perez/
+- caseName: United States v. Wise
+  citation: 221 F.3d 140
+  court: Appellate
+  date: '2000-07-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/21510/united-states-v-wise/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 178
+totalCases: 3

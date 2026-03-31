@@ -1,0 +1,145 @@
+cases:
+- caseName: United States v. York
+  citation: 171 F. App'x 655
+  court: Appellate
+  date: '2006-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8473015/united-states-v-york/
+- caseName: United States v. Ward
+  citation: 121 F. App'x 789
+  court: Appellate
+  date: '2005-02-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8459730/united-states-v-ward/
+- caseName: United States v. Ruga
+  citation: 27 F. App'x 428
+  court: Appellate
+  date: '2001-10-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7214109/united-states-v-ruga/
+- caseName: United States v. Shawn Jackson
+  citation: 347 F.3d 598
+  court: Appellate
+  date: '2003-10-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/783959/united-states-v-shawn-jackson/
+- caseName: United States v. Salgado
+  citation: 519 F.3d 411
+  court: Appellate
+  date: '2008-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1193791/united-states-v-salgado/
+- caseName: United States v. Jackson
+  citation: ''
+  court: Appellate
+  date: '2003-10-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2970977/united-states-v-jackson/
+- caseName: United States v. Tracy L. Kirby
+  citation: 893 F.2d 867
+  court: Appellate
+  date: '1990-01-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/534845/united-states-v-tracy-l-kirby/
+- caseName: United States v. Derek Benedict
+  citation: ''
+  court: Appellate
+  date: '1996-09-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3017444/united-states-v-derek-benedict/
+- caseName: United States v. Derek Edward Benedict
+  citation: 95 F.3d 17
+  court: Appellate
+  date: '1996-09-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/725592/united-states-v-derek-edward-benedict/
+- caseName: United States v. Dennis Guy Clark
+  citation: 218 F.3d 1092
+  court: Appellate
+  date: '2000-07-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/769477/united-states-v-dennis-guy-clark/
+- caseName: John Paul Steele v. The United States of America
+  citation: 565 F.2d 1058
+  court: Appellate
+  date: '1978-01-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/350717/john-paul-steele-v-the-united-states-of-america/
+- caseName: In Re Grand Jury Witness Ralph Altro. United States of America v. Ralph
+    Altro
+  citation: 180 F.3d 372
+  court: Appellate
+  date: '1999-06-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/764817/in-re-grand-jury-witness-ralph-altro-united-states-of-america-v-ralph/
+- caseName: Jermaine Lewis, A/K/A Bernard Lewis A/K/A Bernard Wilson v. United States
+  citation: 771 F.2d 454
+  court: Appellate
+  date: '1985-08-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/457672/jermaine-lewis-aka-bernard-lewis-aka-bernard-wilson-v-united-states/
+- caseName: United States v. Sol Kaye
+  citation: 457 F.2d 878
+  court: Appellate
+  date: '1972-04-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/302572/united-states-v-sol-kaye/
+- caseName: United States v. Henry Kenneth Wangrow
+  citation: 924 F.2d 1434
+  court: Appellate
+  date: '1991-02-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/555455/united-states-v-henry-kenneth-wangrow/
+- caseName: United States v. Anthony R. Day
+  citation: 394 F.2d 335
+  court: Appellate
+  date: '1968-05-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/280037/united-states-v-anthony-r-day/
+- caseName: United States v. Jack Eugene Lampson
+  citation: 627 F.2d 62
+  court: Appellate
+  date: '1980-08-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/380823/united-states-v-jack-eugene-lampson/
+- caseName: Jack Martin Farley v. United States
+  citation: 381 F.2d 357
+  court: Appellate
+  date: '1967-11-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/276816/jack-martin-farley-v-united-states/
+- caseName: United States v. Robert Earl Hines
+  citation: 728 F.2d 421
+  court: Appellate
+  date: '1984-02-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/431777/united-states-v-robert-earl-hines/
+- caseName: State v. Hinton
+  citation: 529 P.2d 843
+  court: Appellate
+  date: '1974-12-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1172373/state-v-hinton/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2115
+totalCases: 95

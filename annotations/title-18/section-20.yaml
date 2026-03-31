@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Young-Bey
+  citation: ''
+  court: District
+  date: '2024-01-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9469651/united-states-v-young-bey/
+- caseName: United States v. Euneisha Hearns
+  citation: 845 F.3d 641
+  court: Appellate
+  date: '2017-01-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4336882/united-states-v-euneisha-hearns/
+- caseName: United States v. Handa
+  citation: 270 F. Supp. 3d 442
+  court: District
+  date: '2017-09-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7326974/united-states-v-handa/
+- caseName: United States v. Bryan Puckett
+  citation: 933 F.3d 548
+  court: Appellate
+  date: '2019-08-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4645606/united-states-v-bryan-puckett/
+- caseName: United States v. Paz
+  citation: ''
+  court: District
+  date: '2009-05-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2668067/united-states-v-paz/
+- caseName: United States v. Bennett
+  citation: 621 F.3d 1131
+  court: Appellate
+  date: '2010-09-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/175113/united-states-v-bennett/
+- caseName: United States v. Joyce Lee Hickman, A/K/A Joyce Saunders
+  citation: 374 F.3d 275
+  court: Appellate
+  date: '2004-06-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/786809/united-states-v-joyce-lee-hickman-aka-joyce-saunders/
+- caseName: United States v. McGlothlin
+  citation: 38 F. App'x 713
+  court: Appellate
+  date: '2002-04-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7291858/united-states-v-mcglothlin/
+- caseName: United States v. Hickman
+  citation: ''
+  court: Appellate
+  date: '2004-06-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/35618/united-states-v-hickman/
+- caseName: United States v. Biafore
+  citation: 336 F. App'x 228
+  court: Appellate
+  date: '2009-07-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8496348/united-states-v-biafore/
+- caseName: United States v. Soileau
+  citation: 309 F.3d 877
+  court: Appellate
+  date: '2002-10-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/28975/united-states-v-soileau/
+- caseName: United States v. Biafore
+  citation: 336 F. App'x 228
+  court: Appellate
+  date: '2009-07-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8496347/united-states-v-biafore/
+- caseName: United States v. McCloskey-Diaz
+  citation: 824 F. Supp. 2d 269
+  court: District
+  date: '2011-08-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8710782/united-states-v-mccloskey-diaz/
+- caseName: United States v. Colón-Rodríguez
+  citation: 696 F.3d 102
+  court: Appellate
+  date: '2012-10-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8619477/united-states-v-colon-rodriguez/
+- caseName: United States v. Colon-Rodriguez
+  citation: 696 F.3d 102
+  court: Appellate
+  date: '2012-10-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/809504/united-states-v-colon-rodriguez/
+- caseName: United States v. Cruz
+  citation: 108 F. App'x 346
+  court: Appellate
+  date: '2004-08-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8456021/united-states-v-cruz/
+- caseName: United States of America, Cross-Appellee v. John D. Lauer
+  citation: 148 F.3d 766
+  court: Appellate
+  date: '1998-06-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/755618/united-states-of-america-cross-appellee-v-john-d-lauer/
+- caseName: United States v. Michael J. Tomasino
+  citation: 206 F.3d 739
+  court: Appellate
+  date: '2000-03-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/767999/united-states-v-michael-j-tomasino/
+- caseName: United States v. Tomasino
+  citation: 57 F. Supp. 2d 565
+  court: District
+  date: '1999-06-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2416929/united-states-v-tomasino/
+- caseName: Shaw v. United States
+  citation: 580 U.S. 63
+  court: SCOTUS
+  date: '2016-12-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4329180/shaw-v-united-states/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 20
+totalCases: 145

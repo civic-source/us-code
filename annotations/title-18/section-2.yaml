@@ -1,0 +1,144 @@
+cases:
+- caseName: MARTINEZ-SERRANO
+  citation: 25 I. & N. Dec. 151
+  court: Appellate
+  date: '2009-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207713/martinez-serrano/
+- caseName: SHORT
+  citation: 20 I. & N. Dec. 136
+  court: Appellate
+  date: '1989-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6208324/short/
+- caseName: United States v. Cooper
+  citation: ''
+  court: District
+  date: '2023-04-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9393222/united-states-v-cooper/
+- caseName: United States v. Gabriel Lemoine
+  citation: 104 F.4th 679
+  court: Appellate
+  date: '2024-06-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9546117/united-states-v-gabriel-lemoine/
+- caseName: Rojas-Tapia v. United States
+  citation: 130 F.4th 241
+  court: Appellate
+  date: '2025-03-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10348734/rojas-tapia-v-united-states/
+- caseName: United States v. Cervantes
+  citation: 107 F.4th 459
+  court: Appellate
+  date: '2024-07-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9998916/united-states-v-cervantes/
+- caseName: Shenisa Mohammed v. Pamela Bondi
+  citation: 129 F.4th 988
+  court: Appellate
+  date: '2025-03-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10349604/shenisa-mohammed-v-pamela-bondi/
+- caseName: United States v. Kenneth Smukler
+  citation: 991 F.3d 472
+  court: Appellate
+  date: '2021-03-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4866128/united-states-v-kenneth-smukler/
+- caseName: United States v. Armondo Heredia, Jr.
+  citation: 55 F.4th 651
+  court: Appellate
+  date: '2022-12-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9330947/united-states-v-armondo-heredia-jr/
+- caseName: United States v. Kenneth Smukler
+  citation: 986 F.3d 229
+  court: Appellate
+  date: '2021-01-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4850848/united-states-v-kenneth-smukler/
+- caseName: United States v. Peter Armbruster
+  citation: 48 F.4th 527
+  court: Appellate
+  date: '2022-09-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7863227/united-states-v-peter-armbruster/
+- caseName: United States v. Dejuan A. Worthen
+  citation: 60 F.4th 1066
+  court: Appellate
+  date: '2023-03-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9381057/united-states-v-dejuan-a-worthen/
+- caseName: United States v. Lemack Bellot
+  citation: 113 F.4th 1151
+  court: Appellate
+  date: '2024-08-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10048748/united-states-v-lemack-bellot/
+- caseName: United States v. Reyes-Rosario
+  citation: ''
+  court: Appellate
+  date: '2025-07-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10622166/united-states-v-reyes-rosario/
+- caseName: In re Gilmore
+  citation: 207 A.3d 264
+  court: SCOTUS
+  date: '2019-05-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8269739/in-re-gilmore/
+- caseName: United States v. Díaz-Rodríguez
+  citation: 853 F.3d 540
+  court: Appellate
+  date: '2017-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8443242/united-states-v-diaz-rodriguez/
+- caseName: United States v. Diaz-Rodriguez
+  citation: ''
+  court: Appellate
+  date: '2017-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4376521/united-states-v-diaz-rodriguez/
+- caseName: United States v. Vega-Salazar
+  citation: 694 F. App'x 360
+  court: Appellate
+  date: '2017-08-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8699858/united-states-v-vega-salazar/
+- caseName: United States v. Smukler
+  citation: 330 F. Supp. 3d 1050
+  court: District
+  date: '2018-07-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7331919/united-states-v-smukler/
+- caseName: United States v. Diaz-Rodriguez
+  citation: ''
+  court: Appellate
+  date: '2017-03-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4374920/united-states-v-diaz-rodriguez/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2
+totalCases: 9474

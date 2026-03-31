@@ -1,0 +1,145 @@
+cases:
+- caseName: United States v. Tartaglione
+  citation: 228 F. Supp. 3d 455
+  court: District
+  date: '2017-01-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7323643/united-states-v-tartaglione/
+- caseName: United States v. Terry Anderson
+  citation: ''
+  court: Appellate
+  date: '2020-11-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4804644/united-states-v-terry-anderson/
+- caseName: United States v. American Therapeutic Corp.
+  citation: 797 F. Supp. 2d 1289
+  court: District
+  date: '2011-01-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2148299/united-states-v-american-therapeutic-corp/
+- caseName: United States v. Lucien
+  citation: 78 F. App'x 141
+  court: Appellate
+  date: '2003-10-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8447731/united-states-v-lucien/
+- caseName: United States v. Tkhilaishvili
+  citation: 926 F.3d 1
+  court: Appellate
+  date: '2019-06-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4626522/united-states-v-tkhilaishvili/
+- caseName: United States v. Van Trease
+  citation: 279 F. App'x 457
+  court: Appellate
+  date: '2008-05-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8674921/united-states-v-van-trease/
+- caseName: United States v. Lamarre
+  citation: 712 F.3d 612
+  court: Appellate
+  date: '2013-04-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/856896/united-states-v-lamarre/
+- caseName: United States v. Nancy Smith
+  citation: 866 F.3d 1130
+  court: Appellate
+  date: '2017-08-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4417666/united-states-v-nancy-smith/
+- caseName: United States v. Elizabeth Peters Young
+  citation: ''
+  court: Appellate
+  date: '2024-07-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10010646/united-states-v-elizabeth-peters-young/
+- caseName: United States v. Ruth Whited
+  citation: 311 F.3d 259
+  court: Appellate
+  date: '2002-11-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/779919/united-states-v-ruth-whited/
+- caseName: United States v. Gierbolini-Rivera
+  citation: 900 F.3d 7
+  court: Appellate
+  date: '2018-08-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4526374/united-states-v-gierbolini-rivera/
+- caseName: United States v. Luis
+  citation: 966 F. Supp. 2d 1321
+  court: District
+  date: '2013-06-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8727710/united-states-v-luis/
+- caseName: United States v. Baldwin
+  citation: 277 F. Supp. 2d 67
+  court: District
+  date: '2003-08-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2564642/united-states-v-baldwin/
+- caseName: James Kindred and B.K. v. The Indiana Department of Child Services, Elizabeth
+    Fiscus, Lindsey Jacobs, Indiana Attorney General, Julie Miller, and Nicole White
+  citation: ''
+  court: Appellate
+  date: '2019-11-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4681809/james-kindred-and-bk-v-the-indiana-department-of-child-services/
+- caseName: United States v. Steven E. Whiting
+  citation: 471 F.3d 792
+  court: Appellate
+  date: '2006-12-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/796275/united-states-v-steven-e-whiting/
+- caseName: United States v. Ivan Andre Scott
+  citation: 61 F.4th 855
+  court: Appellate
+  date: '2023-01-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9369428/united-states-v-ivan-andre-scott/
+- caseName: United States v. Whiting, Steven E.
+  citation: ''
+  court: Appellate
+  date: '2006-12-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2999947/united-states-v-whiting-steven-e/
+- caseName: United States v. Rafael Chikvashvili
+  citation: 859 F.3d 285
+  court: Appellate
+  date: '2017-06-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4399058/united-states-v-rafael-chikvashvili/
+- caseName: United States v. Valladares
+  citation: 544 F.3d 1257
+  court: Appellate
+  date: '2008-10-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/78170/united-states-v-valladares/
+- caseName: United States v. Lucien
+  citation: 347 F.3d 45
+  court: Appellate
+  date: '2003-10-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/783918/united-states-v-lucien/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 24
+totalCases: 54

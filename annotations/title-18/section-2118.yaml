@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Michael Burke
+  citation: 943 F.3d 1236
+  court: Appellate
+  date: '2019-12-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4683176/united-states-v-michael-burke/
+- caseName: Corey Kidd v. United States
+  citation: 929 F.3d 578
+  court: Appellate
+  date: '2019-07-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4636545/corey-kidd-v-united-states/
+- caseName: Alfred Wingate, Jr. v. United States
+  citation: 969 F.3d 251
+  court: Appellate
+  date: '2020-08-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4773048/alfred-wingate-jr-v-united-states/
+- caseName: Boulanger v. United States
+  citation: 978 F.3d 24
+  court: Appellate
+  date: '2020-10-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4798975/boulanger-v-united-states/
+- caseName: United States v. Cross
+  citation: 387 F. App'x 632
+  court: Appellate
+  date: '2010-07-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8507919/united-states-v-cross/
+- caseName: United States v. Stile
+  citation: ''
+  court: Appellate
+  date: '2017-01-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4335781/united-states-v-stile/
+- caseName: United States v. Stile
+  citation: 845 F.3d 425
+  court: Appellate
+  date: '2017-01-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4335615/united-states-v-stile/
+- caseName: In re Hines
+  citation: 824 F.3d 1334
+  court: Appellate
+  date: '2016-06-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8442727/in-re-hines/
+- caseName: United States v. Edmundson
+  citation: 153 F. Supp. 3d 857
+  court: District
+  date: '2015-12-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7317609/united-states-v-edmundson/
+- caseName: United States v. Derek Benedict
+  citation: 855 F.3d 880
+  court: Appellate
+  date: '2017-05-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4387632/united-states-v-derek-benedict/
+- caseName: Davis v. Cross
+  citation: 863 F.3d 962
+  court: Appellate
+  date: '2017-07-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8443400/davis-v-cross/
+- caseName: United States v. Fletcher
+  citation: 52 F. App'x 73
+  court: Appellate
+  date: '2002-12-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7295928/united-states-v-fletcher/
+- caseName: United States v. McGee
+  citation: 228 F. App'x 20
+  court: Appellate
+  date: '2007-03-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8630209/united-states-v-mcgee/
+- caseName: Benjamin Langford v. United States
+  citation: 993 F.3d 633
+  court: Appellate
+  date: '2021-04-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4871419/benjamin-langford-v-united-states/
+- caseName: United States v. Rose
+  citation: 102 F. App'x 927
+  court: Appellate
+  date: '2004-06-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8454515/united-states-v-rose/
+- caseName: United States v. John Douglas Whitrock
+  citation: 454 F.3d 866
+  court: Appellate
+  date: '2006-07-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/795026/united-states-v-john-douglas-whitrock/
+- caseName: United States v. Cook
+  citation: 809 F. Supp. 66
+  court: District
+  date: '1993-01-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8715713/united-states-v-cook/
+- caseName: United States v. Ronnie S. Mills (92-5324) and Velinda S. Naftzger (92-5505)
+  citation: 1 F.3d 414
+  court: Appellate
+  date: '1993-07-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/627375/united-states-v-ronnie-s-mills-92-5324-and-velinda-s-naftzger/
+- caseName: United States v. Estell
+  citation: 641 F. App'x 552
+  court: Appellate
+  date: '2016-03-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8696417/united-states-v-estell/
+- caseName: United States v. Osborne
+  citation: 514 F.3d 377
+  court: Appellate
+  date: '2008-01-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1024893/united-states-v-osborne/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2118
+totalCases: 85

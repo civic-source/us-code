@@ -1,0 +1,146 @@
+cases:
+- caseName: United States v. Daley
+  citation: 378 F. Supp. 3d 539
+  court: District
+  date: '2019-05-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7335744/united-states-v-daley/
+- caseName: United States v. Victor Edwards
+  citation: 65 F.4th 996
+  court: Appellate
+  date: '2023-04-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9393839/united-states-v-victor-edwards/
+- caseName: United States v. Michael Miselis
+  citation: 972 F.3d 518
+  court: Appellate
+  date: '2020-08-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4787997/united-states-v-michael-miselis/
+- caseName: United States v. Robert Rundo
+  citation: 990 F.3d 709
+  court: Appellate
+  date: '2021-03-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4861129/united-states-v-robert-rundo/
+- caseName: United States v. Shamar Betts
+  citation: ''
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497803/united-states-v-shamar-betts/
+- caseName: United States v. Shamar Betts
+  citation: ''
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497802/united-states-v-shamar-betts/
+- caseName: United States v. Shamar Betts
+  citation: ''
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497804/united-states-v-shamar-betts/
+- caseName: United States v. Shamar Betts
+  citation: 99 F.4th 1048
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497805/united-states-v-shamar-betts/
+- caseName: Ron DeSantis, Governor v. Dream Defenders
+  citation: ''
+  court: SCOTUS
+  date: '2024-06-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9598968/ron-desantis-governor-v-dream-defenders/
+- caseName: In Re Application of Madison
+  citation: 687 F. Supp. 2d 103
+  court: District
+  date: '2009-11-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2523772/in-re-application-of-madison/
+- caseName: Woodhull Freedom Foundation v. United States of America
+  citation: ''
+  court: District
+  date: '2022-03-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6455845/woodhull-freedom-foundation-v-united-states-of-america/
+- caseName: Coppola v. Bear Stearns
+  citation: ''
+  court: Appellate
+  date: '2007-08-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959926/coppola-v-bear-stearns/
+- caseName: Thompson Et Al. v. Mississippi
+  citation: 414 U.S. 890
+  court: SCOTUS
+  date: '1973-10-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/108918/thompson-et-al-v-mississippi/
+- caseName: Hutchin v. State
+  citation: 290 So. 2d 35
+  court: SCOTUS
+  date: '1974-02-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7536214/hutchin-v-state/
+- caseName: Providence Washington Insurance Company v. James T. Lynn, in His Capacity
+    as the Secretary of Housing and Urban Development
+  citation: 492 F.2d 979
+  court: Appellate
+  date: '1974-02-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/317271/providence-washington-insurance-company-v-james-t-lynn-in-his-capacity/
+- caseName: National Mobilization Committee to End the War in Viet Nam v. Thomas A.
+    Foran
+  citation: 411 F.2d 934
+  court: Appellate
+  date: '1969-05-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/285136/national-mobilization-committee-to-end-the-war-in-viet-nam-v-thomas-a/
+- caseName: In Re Shead
+  citation: 302 F. Supp. 560
+  court: District
+  date: '1969-06-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2007027/in-re-shead/
+- caseName: National Mobilization Committee to End the War in Vietnam v. Foran
+  citation: 297 F. Supp. 1
+  court: District
+  date: '1968-11-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8786992/national-mobilization-committee-to-end-the-war-in-vietnam-v-foran/
+- caseName: NATIONAL MOBILIZATION COM. TO END WAR IN VIET NAM v. Foran
+  citation: 297 F. Supp. 1
+  court: District
+  date: '1968-11-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2147606/national-mobilization-com-to-end-war-in-viet-nam-v-foran/
+- caseName: United States v. David T. Dellinger
+  citation: 472 F.2d 340
+  court: Appellate
+  date: '1973-03-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/307853/united-states-v-david-t-dellinger/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2102
+totalCases: 22

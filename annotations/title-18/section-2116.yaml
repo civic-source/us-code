@@ -1,0 +1,46 @@
+cases:
+- caseName: United States v. Sarun Cooper
+  citation: 396 F.3d 308
+  court: Appellate
+  date: '2005-02-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/789054/united-states-v-sarun-cooper/
+- caseName: United States v. Cooper
+  citation: ''
+  court: Appellate
+  date: '2005-01-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3017003/united-states-v-cooper/
+- caseName: United States v. Jeremy Pruitt
+  citation: 999 F.3d 1017
+  court: Appellate
+  date: '2021-06-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4891479/united-states-v-jeremy-pruitt/
+- caseName: United States v. Michael J. Bear
+  citation: 915 F.2d 1259
+  court: Appellate
+  date: '1990-09-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/549006/united-states-v-michael-j-bear/
+- caseName: United States v. Michael J. Bear
+  citation: 932 F.2d 1279
+  court: Appellate
+  date: '1991-05-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/561196/united-states-v-michael-j-bear/
+- caseName: United States v. Thomas Cameron Kincade
+  citation: 379 F.3d 813
+  court: Appellate
+  date: '2004-08-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/787362/united-states-v-thomas-cameron-kincade/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2116
+totalCases: 6

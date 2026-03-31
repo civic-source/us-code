@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Victor Edwards
+  citation: 65 F.4th 996
+  court: Appellate
+  date: '2023-04-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9393839/united-states-v-victor-edwards/
+- caseName: United States v. Daley
+  citation: 378 F. Supp. 3d 539
+  court: District
+  date: '2019-05-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7335744/united-states-v-daley/
+- caseName: United States v. Shamar Betts
+  citation: 99 F.4th 1048
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497805/united-states-v-shamar-betts/
+- caseName: United States v. Shamar Betts
+  citation: ''
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497804/united-states-v-shamar-betts/
+- caseName: United States v. Shamar Betts
+  citation: ''
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497803/united-states-v-shamar-betts/
+- caseName: United States v. Shamar Betts
+  citation: ''
+  court: Appellate
+  date: '2024-04-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9497802/united-states-v-shamar-betts/
+- caseName: United States v. Michael Miselis
+  citation: 972 F.3d 518
+  court: Appellate
+  date: '2020-08-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4787997/united-states-v-michael-miselis/
+- caseName: United States v. Robert Rundo
+  citation: 990 F.3d 709
+  court: Appellate
+  date: '2021-03-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4861129/united-states-v-robert-rundo/
+- caseName: Woodhull Freedom Foundation v. United States of America
+  citation: ''
+  court: District
+  date: '2022-03-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6455845/woodhull-freedom-foundation-v-united-states-of-america/
+- caseName: J. Marquez-Reyes v. Merrick Garland
+  citation: 36 F.4th 1195
+  court: Appellate
+  date: '2022-06-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6477525/j-marquez-reyes-v-merrick-garland/
+- caseName: United States v. DeChristopher
+  citation: 695 F.3d 1082
+  court: Appellate
+  date: '2012-09-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/808515/united-states-v-dechristopher/
+- caseName: United States v. Larry G. Wright
+  citation: ''
+  court: Appellate
+  date: '1997-11-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3019621/united-states-v-larry-g-wright/
+- caseName: United States v. Larry G. Wright
+  citation: 128 F.3d 1274
+  court: Appellate
+  date: '1997-12-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/747807/united-states-v-larry-g-wright/
+- caseName: United States v. Markiewicz
+  citation: 732 F. Supp. 316
+  court: District
+  date: '1990-03-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2252906/united-states-v-markiewicz/
+- caseName: United States v. Julius Barry
+  citation: 888 F.2d 1092
+  court: Appellate
+  date: '1990-02-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/531357/united-states-v-julius-barry/
+- caseName: United States v. Jay Scott Ballinger
+  citation: 395 F.3d 1218
+  court: Appellate
+  date: '2002-11-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/76023/united-states-v-jay-scott-ballinger/
+- caseName: In re Shead
+  citation: 302 F. Supp. 569
+  court: District
+  date: '1969-06-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8789866/in-re-shead/
+- caseName: In Re Application of Madison
+  citation: 687 F. Supp. 2d 103
+  court: District
+  date: '2009-11-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2523772/in-re-application-of-madison/
+- caseName: United States v. Markiewicz
+  citation: 978 F.3d 786
+  court: Appellate
+  date: '1992-11-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8444124/united-states-v-markiewicz/
+- caseName: In Re Shead
+  citation: 302 F. Supp. 560
+  court: District
+  date: '1969-06-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2007027/in-re-shead/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2101
+totalCases: 60

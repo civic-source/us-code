@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Almonte-Nunez
+  citation: 963 F.3d 58
+  court: Appellate
+  date: '2020-06-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4762146/united-states-v-almonte-nunez/
+- caseName: United States v. Bell
+  citation: 158 F. Supp. 3d 906
+  court: District
+  date: '2016-01-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7318063/united-states-v-bell/
+- caseName: United States v. Jesus Ornelas
+  citation: 906 F.3d 1138
+  court: Appellate
+  date: '2018-10-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4547276/united-states-v-jesus-ornelas/
+- caseName: United States v. Buchannan
+  citation: 386 F. App'x 570
+  court: Appellate
+  date: '2010-07-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8507894/united-states-v-buchannan/
+- caseName: United States v. Dajuan Sharron
+  citation: 986 F.3d 810
+  court: Appellate
+  date: '2021-01-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4849233/united-states-v-dajuan-sharron/
+- caseName: United States v. McNeal
+  citation: 17 F. App'x 583
+  court: Appellate
+  date: '2001-08-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7170166/united-states-v-mcneal/
+- caseName: United States v. Tarrio
+  citation: ''
+  court: District
+  date: '2022-12-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9329064/united-states-v-tarrio/
+- caseName: United States v. Elwin Smithen
+  citation: 213 F.3d 1342
+  court: Appellate
+  date: '2000-06-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/74635/united-states-v-elwin-smithen/
+- caseName: United States v. Elwin Smithen
+  citation: 213 F.3d 1342
+  court: Appellate
+  date: '2000-06-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/74634/united-states-v-elwin-smithen/
+- caseName: United States v. McCallister
+  citation: ''
+  court: District
+  date: '2016-05-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3208176/united-states-v-mccallister/
+- caseName: United States v. Henry Roundtree, Jr.
+  citation: 527 F.2d 16
+  court: Appellate
+  date: '1976-02-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/331582/united-states-v-henry-roundtree-jr/
+- caseName: United States v. Almonte-Nunez
+  citation: 771 F.3d 84
+  court: Appellate
+  date: '2014-11-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2751914/united-states-v-almonte-nunez/
+- caseName: United States v. Barry L. Mathis
+  citation: 579 F.2d 415
+  court: Appellate
+  date: '1978-06-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/357949/united-states-v-barry-l-mathis/
+- caseName: United States v. Molina
+  citation: 963 F. Supp. 213
+  court: District
+  date: '1997-04-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1645350/united-states-v-molina/
+- caseName: United States v. Sarun Cooper
+  citation: 396 F.3d 308
+  court: Appellate
+  date: '2005-02-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/789054/united-states-v-sarun-cooper/
+- caseName: United States v. Edwards
+  citation: 231 F.3d 933
+  court: Appellate
+  date: '2000-10-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/22220/united-states-v-edwards/
+- caseName: United States v. Cooper
+  citation: ''
+  court: Appellate
+  date: '2005-01-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3017003/united-states-v-cooper/
+- caseName: United States v. Pezzola
+  citation: ''
+  court: District
+  date: '2021-03-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4865173/united-states-v-pezzola/
+- caseName: James W. Counts v. United States
+  citation: 527 F.2d 542
+  court: Appellate
+  date: '1975-12-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/331674/james-w-counts-v-united-states/
+- caseName: United States v. Jose Ivan Duarte-Acero
+  citation: 296 F.3d 1277
+  court: Appellate
+  date: '2002-07-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/75920/united-states-v-jose-ivan-duarte-acero/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2112
+totalCases: 54

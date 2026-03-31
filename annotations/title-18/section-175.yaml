@@ -1,0 +1,145 @@
+cases:
+- caseName: United States v. Jeff Levenderis
+  citation: 806 F.3d 390
+  court: Appellate
+  date: '2015-11-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3154127/united-states-v-jeff-levenderis/
+- caseName: United States v. Le
+  citation: 902 F.3d 104
+  court: Appellate
+  date: '2018-08-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4530313/united-states-v-le/
+- caseName: United States v. Olsen
+  citation: 280 F. App'x 624
+  court: Appellate
+  date: '2008-05-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8676869/united-states-v-olsen/
+- caseName: United States v. Thomas C. Leahy
+  citation: 169 F.3d 433
+  court: Appellate
+  date: '1999-02-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/762149/united-states-v-thomas-c-leahy/
+- caseName: United States v. Redden
+  citation: 81 F. App'x 96
+  court: Appellate
+  date: '2003-11-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8448405/united-states-v-redden/
+- caseName: United States v. Olsen
+  citation: 120 F. App'x 18
+  court: Appellate
+  date: '2004-12-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8459175/united-states-v-olsen/
+- caseName: United States v. Hughes
+  citation: 273 F. App'x 587
+  court: Appellate
+  date: '2007-12-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8660982/united-states-v-hughes/
+- caseName: United States v. Reynolds
+  citation: ''
+  court: Appellate
+  date: '2004-09-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/36331/united-states-v-reynolds/
+- caseName: United States v. Larry D. Reynolds
+  citation: 381 F.3d 404
+  court: Appellate
+  date: '2004-08-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/787517/united-states-v-larry-d-reynolds/
+- caseName: United States v. Perez
+  citation: 43 F.4th 437
+  court: Appellate
+  date: '2022-08-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7853810/united-states-v-perez/
+- caseName: United States v. Kenneth Olsen
+  citation: 704 F.3d 1172
+  court: Appellate
+  date: '2013-01-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/814984/united-states-v-kenneth-olsen/
+- caseName: United States v. Wise
+  citation: 221 F.3d 140
+  court: Appellate
+  date: '2000-07-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/21510/united-states-v-wise/
+- caseName: United States v. Douglas Allen Baker, United States of America v. Leroy
+    Charles Wheeler
+  citation: 98 F.3d 330
+  court: Appellate
+  date: '1996-12-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/728034/united-states-v-douglas-allen-baker-united-states-of-america-v-leroy/
+- caseName: In Re the Search of Apple iPhone, IMEI 013888003738427
+  citation: 31 F. Supp. 3d 159
+  court: District
+  date: '2014-03-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2658339/in-re-the-search-of-apple-iphone-imei-013888003738427/
+- caseName: United States v. Kenneth Olsen
+  citation: 737 F.3d 625
+  court: Appellate
+  date: '2013-12-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2645565/united-states-v-kenneth-olsen/
+- caseName: United States v. Randy Graham
+  citation: 275 F.3d 490
+  court: Appellate
+  date: '2001-12-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/775981/united-states-v-randy-graham/
+- caseName: Nieman v. Dryclean U.S.A. Franchise
+  citation: 178 F.3d 1126
+  court: Appellate
+  date: '1999-06-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/73799/nieman-v-dryclean-usa-franchise/
+- caseName: Nieman v. Dryclean U.S.A. Franchise Co.
+  citation: 178 F.3d 1126
+  court: Appellate
+  date: '1999-06-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/73798/nieman-v-dryclean-usa-franchise-co/
+- caseName: United States v. Hale
+  citation: 762 F.3d 1214
+  court: Appellate
+  date: '2014-08-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2717423/united-states-v-hale/
+- caseName: United States v. Douglas Allen Baker
+  citation: ''
+  court: Appellate
+  date: '1996-09-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3017387/united-states-v-douglas-allen-baker/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 175
+totalCases: 31

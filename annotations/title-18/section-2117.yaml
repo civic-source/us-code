@@ -1,0 +1,82 @@
+cases:
+- caseName: United States v. Kiff
+  citation: 377 F. Supp. 2d 586
+  court: District
+  date: '2005-06-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2383921/united-states-v-kiff/
+- caseName: United States v. Timothy M. Couch (94-6641) and Phillip Rodney Myers (94-6642)
+  citation: 65 F.3d 542
+  court: Appellate
+  date: '1995-09-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/703916/united-states-v-timothy-m-couch-94-6641-and-phillip-rodney-myers/
+- caseName: Rose v. State
+  citation: 752 S.W.2d 529
+  court: Appellate
+  date: '1988-06-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2462032/rose-v-state/
+- caseName: United States v. William Connell Holbert
+  citation: 578 F.2d 128
+  court: Appellate
+  date: '1978-08-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/357112/united-states-v-william-connell-holbert/
+- caseName: Martin v. Commonwealth
+  citation: 295 S.E.2d 890
+  court: SCOTUS
+  date: '1982-10-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1342226/martin-v-commonwealth/
+- caseName: United States v. Michael Crowe
+  citation: 516 F.2d 824
+  court: Appellate
+  date: '1975-06-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/327728/united-states-v-michael-crowe/
+- caseName: United States v. Donald Lavern Culbert
+  citation: 548 F.2d 1355
+  court: Appellate
+  date: '1977-02-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/342584/united-states-v-donald-lavern-culbert/
+- caseName: United States v. James C. Goodlow, United States of America v. Alfred
+    Glass
+  citation: 500 F.2d 954
+  court: Appellate
+  date: '1974-09-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/320687/united-states-v-james-c-goodlow-united-states-of-america-v-alfred-glass/
+- caseName: United States v. Frederick Martin Price
+  citation: 783 F.2d 1132
+  court: Appellate
+  date: '1986-02-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/464960/united-states-v-frederick-martin-price/
+- caseName: California v. Zook
+  citation: 93 L. Ed. 2d 1005
+  court: SCOTUS
+  date: '1949-05-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/104663/california-v-zook/
+- caseName: Bartkus v. Illinois
+  citation: 3 L. Ed. 2d 684
+  court: SCOTUS
+  date: '1959-06-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/105857/bartkus-v-illinois/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2117
+totalCases: 11

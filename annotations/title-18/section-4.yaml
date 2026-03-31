@@ -1,0 +1,145 @@
+cases:
+- caseName: MENDEZ
+  citation: 27 I. & N. Dec. 219
+  court: Appellate
+  date: '2018-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207396/mendez/
+- caseName: ESPINOZA
+  citation: 22 I. & N. Dec. 889
+  court: Appellate
+  date: '1999-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6208034/espinoza/
+- caseName: ROBLES
+  citation: 24 I. & N. Dec. 22
+  court: Appellate
+  date: '2006-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207846/robles/
+- caseName: The Mississippi Bar v. Richard L. Reynolds
+  citation: ''
+  court: SCOTUS
+  date: '2021-09-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10627867/the-mississippi-bar-v-richard-l-reynolds/
+- caseName: United States v. Karen Olson
+  citation: 856 F.3d 1216
+  court: Appellate
+  date: '2017-05-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4391163/united-states-v-karen-olson/
+- caseName: Stephenson v. Barr
+  citation: ''
+  court: District
+  date: '2019-08-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4645338/stephenson-v-barr/
+- caseName: David Schied v. Michael Ray Merritt, Wynde Merritt, Jeannette Smith, David
+    Munson and Robin Apostolakis
+  citation: ''
+  court: Appellate
+  date: '2016-03-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3181817/david-schied-v-michael-ray-merritt-wynde-merritt-jeannette-smith-david/
+- caseName: Percival v. People
+  citation: 61 V.I. 187
+  court: SCOTUS
+  date: '2014-08-12'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8676541/percival-v-people/
+- caseName: Mendez v. Barr
+  citation: 960 F.3d 80
+  court: Appellate
+  date: '2020-05-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4756424/mendez-v-barr/
+- caseName: United States v. Reinhart
+  citation: ''
+  court: Appellate
+  date: '2023-08-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9420691/united-states-v-reinhart/
+- caseName: United States v. Lavelle Phillips
+  citation: 827 F.3d 1171
+  court: Appellate
+  date: '2016-07-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4236080/united-states-v-lavelle-phillips/
+- caseName: Lugo v. Holder
+  citation: 783 F.3d 119
+  court: Appellate
+  date: '2015-04-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2792313/lugo-v-holder/
+- caseName: Cunningham v. United States
+  citation: 479 F. App'x 974
+  court: Appellate
+  date: '2012-07-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8482205/cunningham-v-united-states/
+- caseName: United States v. Cave
+  citation: 279 F. App'x 722
+  court: Appellate
+  date: '2008-05-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/170764/united-states-v-cave/
+- caseName: Massad v. Greaves
+  citation: 554 F. Supp. 2d 163
+  court: District
+  date: '2008-04-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1629270/massad-v-greaves/
+- caseName: United States v. Weekley
+  citation: 389 F. Supp. 2d 1293
+  court: District
+  date: '2005-10-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2498134/united-states-v-weekley/
+- caseName: United States v. Goodbear
+  citation: 676 F.3d 904
+  court: Appellate
+  date: '2012-04-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/627230/united-states-v-goodbear/
+- caseName: United States v. Donaldson
+  citation: 504 F. App'x 616
+  court: Appellate
+  date: '2013-01-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8689803/united-states-v-donaldson/
+- caseName: In re Marino
+  citation: 217 N.J. 351
+  court: SCOTUS
+  date: '2014-05-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7409913/in-re-marino/
+- caseName: United States v. Elsa Solis
+  citation: 915 F.3d 1172
+  court: Appellate
+  date: '2019-02-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4590163/united-states-v-elsa-solis/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 4
+totalCases: 359

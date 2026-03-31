@@ -1,0 +1,144 @@
+cases:
+- caseName: GUZMAN-POLANCO
+  citation: 26 I. & N. Dec. 713
+  court: Appellate
+  date: '2016-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207476/guzman-polanco/
+- caseName: KIM
+  citation: 26 I. & N. Dec. 912
+  court: Appellate
+  date: '2017-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207455/kim/
+- caseName: FRANCISCO-ALONZO
+  citation: 26 I. & N. Dec. 594
+  court: Appellate
+  date: '2015-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207509/francisco-alonzo/
+- caseName: DANG
+  citation: 28 I. & N. Dec. 541
+  court: Appellate
+  date: '2022-04-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6481362/dang/
+- caseName: GUZMAN-POLANCO
+  citation: 26 I. & N. Dec. 806
+  court: Appellate
+  date: '2016-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207477/guzman-polanco/
+- caseName: CHAIREZ
+  citation: 26 I. & N. Dec. 819
+  court: Appellate
+  date: '2016-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207485/chairez/
+- caseName: VELASQUEZ
+  citation: 25 I. & N. Dec. 278
+  court: Appellate
+  date: '2010-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207664/velasquez/
+- caseName: U. SINGH
+  citation: 25 I. & N. Dec. 670
+  court: Appellate
+  date: '2012-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207595/u-singh/
+- caseName: PEREZ RAMIREZ
+  citation: 25 I. & N. Dec. 203
+  court: Appellate
+  date: '2010-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207674/perez-ramirez/
+- caseName: GUERRERO
+  citation: 25 I. & N. Dec. 631
+  court: Appellate
+  date: '2011-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207644/guerrero/
+- caseName: SWEETSER
+  citation: 22 I. & N. Dec. 709
+  court: Appellate
+  date: '1999-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6208001/sweetser/
+- caseName: MALTA
+  citation: 23 I. & N. Dec. 656
+  court: Appellate
+  date: '2004-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207900/malta/
+- caseName: MARTIN
+  citation: 23 I. & N. Dec. 491
+  court: Appellate
+  date: '2002-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207933/martin/
+- caseName: OLIVARES
+  citation: 23 I. & N. Dec. 148
+  court: Appellate
+  date: '2001-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207952/olivares/
+- caseName: SANUDO
+  citation: 23 I. & N. Dec. 968
+  court: Appellate
+  date: '2006-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207864/sanudo/
+- caseName: BRIEVA
+  citation: 23 I. & N. Dec. 766
+  court: Appellate
+  date: '2005-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207892/brieva/
+- caseName: RAMOS
+  citation: 23 I. & N. Dec. 336
+  court: Appellate
+  date: '2002-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207930/ramos/
+- caseName: ALDABESHEH
+  citation: 22 I. & N. Dec. 983
+  court: Appellate
+  date: '1999-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6208040/aldabesheh/
+- caseName: ALCANTAR
+  citation: 20 I. & N. Dec. 801
+  court: Appellate
+  date: '1994-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6208222/alcantar/
+- caseName: Kibambe Mwendapeke v. Merrick B. Garland
+  citation: 87 F.4th 860
+  court: Appellate
+  date: '2023-12-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9450326/kibambe-mwendapeke-v-merrick-b-garland/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 16
+totalCases: 1594

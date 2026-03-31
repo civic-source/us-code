@@ -1,0 +1,53 @@
+cases:
+- caseName: Nordbrock v. United States
+  citation: 96 F. Supp. 2d 944
+  court: District
+  date: '2000-02-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2420977/nordbrock-v-united-states/
+- caseName: United States v. Janyce Carter
+  citation: 720 F.2d 941
+  court: Appellate
+  date: '1983-11-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/427036/united-states-v-janyce-carter/
+- caseName: United States v. Elyakim G. Rosenblatt
+  citation: 554 F.2d 36
+  court: Appellate
+  date: '1977-04-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/344977/united-states-v-elyakim-g-rosenblatt/
+- caseName: United States v. Patricia Eileen Krapp
+  citation: 815 F.2d 1183
+  court: Appellate
+  date: '1987-05-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/486434/united-states-v-patricia-eileen-krapp/
+- caseName: United States v. David G. Swaim
+  citation: 642 F.2d 726
+  court: Appellate
+  date: '1981-03-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/387877/united-states-v-david-g-swaim/
+- caseName: Commonwealth v. Fulgiam
+  citation: 477 Mass. 20
+  court: SCOTUS
+  date: '2017-05-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4389223/commonwealth-v-fulgiam/
+- caseName: Rex L. Neely v. United States
+  citation: 274 F.2d 389
+  court: Appellate
+  date: '1960-01-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/249970/rex-l-neely-v-united-states/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2073
+totalCases: 7

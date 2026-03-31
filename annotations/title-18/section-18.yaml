@@ -1,0 +1,144 @@
+cases:
+- caseName: VARGAS
+  citation: 23 I. & N. Dec. 651
+  court: Appellate
+  date: '2004-07-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6207899/vargas/
+- caseName: United States v. Juhay
+  citation: 254 F. Supp. 3d 1042
+  court: District
+  date: '2017-06-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7325736/united-states-v-juhay/
+- caseName: United States v. Brumfield
+  citation: 125 F. Supp. 3d 648
+  court: District
+  date: '2015-08-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7315263/united-states-v-brumfield/
+- caseName: United States v. Brooks
+  citation: ''
+  court: Appellate
+  date: '2018-06-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4503180/united-states-v-brooks/
+- caseName: United States v. Ng Lap Seng
+  citation: 934 F.3d 110
+  court: Appellate
+  date: '2019-08-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4647039/united-states-v-ng-lap-seng/
+- caseName: United States v. Boima
+  citation: 114 F.4th 69
+  court: Appellate
+  date: '2024-08-22'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10048299/united-states-v-boima/
+- caseName: United States v. Torres-Palma
+  citation: 290 F.3d 1244
+  court: Appellate
+  date: '2002-05-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/162239/united-states-v-torres-palma/
+- caseName: United States v. Middleton
+  citation: 35 F. Supp. 2d 1189
+  court: District
+  date: '1999-01-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2491603/united-states-v-middleton/
+- caseName: State v. Meade
+  citation: 80 Ohio St. 3d 419
+  court: SCOTUS
+  date: '1997-12-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6883385/state-v-meade/
+- caseName: United States v. Infante
+  citation: 782 F. Supp. 2d 815
+  court: District
+  date: '2010-03-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2145551/united-states-v-infante/
+- caseName: United States v. Lin Lyn Trading, Ltd.
+  citation: 911 F. Supp. 494
+  court: District
+  date: '1996-01-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1970669/united-states-v-lin-lyn-trading-ltd/
+- caseName: Manuel Federico Samaniego-Meraz v. Immigration & Naturalization Service
+  citation: 53 F.3d 254
+  court: Appellate
+  date: '1995-04-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/694660/manuel-federico-samaniego-meraz-v-immigration-naturalization-service/
+- caseName: United States v. Matera
+  citation: ''
+  court: Appellate
+  date: '2007-05-30'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959794/united-states-v-matera/
+- caseName: State v. Meade
+  citation: 1997 Ohio 332
+  court: SCOTUS
+  date: '1997-12-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10683576/state-v-meade/
+- caseName: Application of 18 U.S.C. § 208 to Trustees of Private Trusts
+  citation: ''
+  court: District
+  date: '2001-11-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4342241/application-of-18-usc-208-to-trustees-of-private-trusts/
+- caseName: United States v. Donald Ray Harris
+  citation: ''
+  court: Appellate
+  date: '2010-06-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3049833/united-states-v-donald-ray-harris/
+- caseName: United States v. James Perrin
+  citation: ''
+  court: Appellate
+  date: '2025-08-25'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10660084/united-states-v-james-perrin/
+- caseName: Alfano v. United States
+  citation: 592 F. Supp. 2d 149
+  court: District
+  date: '2009-01-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2562341/alfano-v-united-states/
+- caseName: United States v. Salim
+  citation: ''
+  court: Appellate
+  date: '2008-12-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960278/united-states-v-salim/
+- caseName: Sycuan Band of Mission Indians v. Roache
+  citation: 38 F.3d 402
+  court: Appellate
+  date: '1994-09-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7030515/sycuan-band-of-mission-indians-v-roache/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 18
+totalCases: 27

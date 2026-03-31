@@ -1,0 +1,18 @@
+cases:
+- caseName: Nedler v. Vaisberg
+  citation: 427 F. Supp. 2d 563
+  court: District
+  date: '2006-04-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2473714/nedler-v-vaisberg/
+- caseName: United States v. Schneiderman
+  citation: 102 F. Supp. 52
+  court: District
+  date: '1951-11-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1382537/united-states-v-schneiderman/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2072
+totalCases: 2

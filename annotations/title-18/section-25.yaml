@@ -1,0 +1,109 @@
+cases:
+- caseName: United States v. Fish
+  citation: 758 F.3d 1
+  court: Appellate
+  date: '2014-02-26'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2654647/united-states-v-fish/
+- caseName: United States v. Pruitt
+  citation: ''
+  court: Appellate
+  date: '2016-02-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/3173817/united-states-v-pruitt/
+- caseName: In re Facebook Internet Tracking Litigation
+  citation: 140 F. Supp. 3d 922
+  court: District
+  date: '2015-10-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7316448/in-re-facebook-internet-tracking-litigation/
+- caseName: United States v. Handley
+  citation: 564 F. Supp. 2d 996
+  court: District
+  date: '2008-07-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1407869/united-states-v-handley/
+- caseName: United States v. Gregorio Gonzalez-Longoria
+  citation: 831 F.3d 670
+  court: Appellate
+  date: '2016-08-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4245136/united-states-v-gregorio-gonzalez-longoria/
+- caseName: United States v. Daye
+  citation: 571 F.3d 225
+  court: Appellate
+  date: '2009-07-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/1230087/united-states-v-daye/
+- caseName: United States v. Hardwick
+  citation: ''
+  court: Appellate
+  date: '2008-04-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960070/united-states-v-hardwick/
+- caseName: United States v. Daye
+  citation: ''
+  court: Appellate
+  date: '2009-07-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960421/united-states-v-daye/
+- caseName: Khan v. United States
+  citation: 330 F. Supp. 3d 1076
+  court: District
+  date: '2018-08-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7331921/khan-v-united-states/
+- caseName: Chapman v. United States
+  citation: 326 F. Supp. 3d 228
+  court: District
+  date: '2018-07-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7331621/chapman-v-united-states/
+- caseName: Royer v. United States
+  citation: 324 F. Supp. 3d 719
+  court: District
+  date: '2018-08-02'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7331462/royer-v-united-states/
+- caseName: United States v. Joseph Simms
+  citation: 914 F.3d 229
+  court: Appellate
+  date: '2019-01-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4584448/united-states-v-joseph-simms/
+- caseName: Irma Ovalles v. United States
+  citation: ''
+  court: Appellate
+  date: '2018-10-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4541860/irma-ovalles-v-united-states/
+- caseName: Irma Ovalles v. United States
+  citation: ''
+  court: Appellate
+  date: '2018-10-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4543441/irma-ovalles-v-united-states/
+- caseName: Irma Ovalles v. United States
+  citation: 905 F.3d 1231
+  court: Appellate
+  date: '2018-10-04'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4541141/irma-ovalles-v-united-states/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 25
+totalCases: 15

@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Mobley
+  citation: 344 F. Supp. 3d 1089
+  court: District
+  date: '2018-10-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7332965/united-states-v-mobley/
+- caseName: Pannell v. United States
+  citation: 115 F.4th 154
+  court: Appellate
+  date: '2024-08-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10088834/pannell-v-united-states/
+- caseName: Michael Knight v. United States
+  citation: 936 F.3d 495
+  court: Appellate
+  date: '2019-08-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4656294/michael-knight-v-united-states/
+- caseName: USA V.tony Buck
+  citation: 23 F.4th 919
+  court: Appellate
+  date: '2022-01-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/5793818/usa-vtony-buck/
+- caseName: United States v. Deandre Enoch
+  citation: 865 F.3d 575
+  court: Appellate
+  date: '2017-07-28'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4413458/united-states-v-deandre-enoch/
+- caseName: Forteza-Garcia v. United States
+  citation: 130 F.4th 18
+  court: Appellate
+  date: '2025-03-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10348735/forteza-garcia-v-united-states/
+- caseName: United States v. Terron Bryant
+  citation: 949 F.3d 168
+  court: Appellate
+  date: '2020-01-24'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4721067/united-states-v-terron-bryant/
+- caseName: United States v. Castro
+  citation: 4 F.4th 345
+  court: Appellate
+  date: '2021-07-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4899861/united-states-v-castro/
+- caseName: United States v. Castro
+  citation: 30 F.4th 240
+  court: Appellate
+  date: '2022-03-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6452224/united-states-v-castro/
+- caseName: Rojas-Tapia v. United States
+  citation: 130 F.4th 241
+  court: Appellate
+  date: '2025-03-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10348734/rojas-tapia-v-united-states/
+- caseName: United States v. Walker Hampton
+  citation: 885 F.3d 1016
+  court: Appellate
+  date: '2018-03-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4479700/united-states-v-walker-hampton/
+- caseName: Erick Manners v. United States
+  citation: 947 F.3d 377
+  court: Appellate
+  date: '2020-01-13'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4694476/erick-manners-v-united-states/
+- caseName: United States v. Mickael Oliver
+  citation: 90 F.4th 1222
+  court: Appellate
+  date: '2024-01-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9461611/united-states-v-mickael-oliver/
+- caseName: United States v. Edgar Lemus
+  citation: 93 F.4th 1255
+  court: Appellate
+  date: '2024-03-05'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/9481185/united-states-v-edgar-lemus/
+- caseName: United States v. David Stuart
+  citation: 1 F.4th 326
+  court: Appellate
+  date: '2021-06-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4893479/united-states-v-david-stuart/
+- caseName: United States v. Pannell
+  citation: 321 F. App'x 51
+  court: Appellate
+  date: '2009-04-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8488817/united-states-v-pannell/
+- caseName: United States v. Pannell
+  citation: 321 F. App'x 51
+  court: Appellate
+  date: '2009-04-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8488818/united-states-v-pannell/
+- caseName: United States v. Elwin Smithen
+  citation: 213 F.3d 1342
+  court: Appellate
+  date: '2000-06-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/74634/united-states-v-elwin-smithen/
+- caseName: United States v. Elwin Smithen
+  citation: 213 F.3d 1342
+  court: Appellate
+  date: '2000-06-06'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/74635/united-states-v-elwin-smithen/
+- caseName: United States v. Warren Allen Dittrich
+  citation: 204 F.3d 819
+  court: Appellate
+  date: '2000-02-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/767782/united-states-v-warren-allen-dittrich/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2114
+totalCases: 294

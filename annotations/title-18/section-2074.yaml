@@ -1,0 +1,18 @@
+cases:
+- caseName: United States v. Strandlof
+  citation: 667 F.3d 1146
+  court: Appellate
+  date: '2012-01-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/621623/united-states-v-strandlof/
+- caseName: United States v. Strandlof
+  citation: ''
+  court: Appellate
+  date: '2012-01-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/621667/united-states-v-strandlof/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2074
+totalCases: 2

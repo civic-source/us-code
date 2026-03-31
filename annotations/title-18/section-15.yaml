@@ -1,0 +1,60 @@
+cases:
+- caseName: United States v. Brooks
+  citation: ''
+  court: Appellate
+  date: '2018-06-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4503180/united-states-v-brooks/
+- caseName: United States v. Day
+  citation: ''
+  court: Appellate
+  date: '2008-01-15'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2959991/united-states-v-day/
+- caseName: United States v. Major (Desinor)
+  citation: ''
+  court: Appellate
+  date: '2008-05-08'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960091/united-states-v-major-desinor/
+- caseName: United States v. Stanford Katz
+  citation: 535 F.2d 593
+  court: Appellate
+  date: '1976-04-27'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/335362/united-states-v-stanford-katz/
+- caseName: United States v. Cecil Grafton Rose
+  citation: 500 F.2d 12
+  court: Appellate
+  date: '1974-07-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/320486/united-states-v-cecil-grafton-rose/
+- caseName: United States v. Oberoi
+  citation: ''
+  court: Appellate
+  date: '2008-10-23'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2960262/united-states-v-oberoi/
+- caseName: United States v. Adan
+  citation: 913 F. Supp. 2d 555
+  court: District
+  date: '2012-12-19'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/8721513/united-states-v-adan/
+- caseName: United States v. Sattar (Stewart Yousry)
+  citation: ''
+  court: Appellate
+  date: '2009-11-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/2447/united-states-v-sattar-stewart-yousry/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 15
+totalCases: 8

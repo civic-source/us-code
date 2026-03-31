@@ -1,0 +1,144 @@
+cases:
+- caseName: United States v. Chavez
+  citation: 29 F.4th 1223
+  court: Appellate
+  date: '2022-03-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/6455641/united-states-v-chavez/
+- caseName: An opinion was released in case 16-3009, USA v. Bryan Burwell
+  citation: ''
+  court: Appellate
+  date: '2024-12-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10290292/an-opinion-was-released-in-case-16-3009-usa-v-bryan-burwell/
+- caseName: United States v. Ronald Vines
+  citation: 134 F.4th 730
+  court: Appellate
+  date: '2025-04-21'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10381973/united-states-v-ronald-vines/
+- caseName: Collier v. United States
+  citation: 989 F.3d 212
+  court: Appellate
+  date: '2021-03-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4859950/collier-v-united-states/
+- caseName: Bailey v. Sessions
+  citation: ''
+  court: District
+  date: '2018-04-18'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4487847/bailey-v-sessions/
+- caseName: United States v. Kevon Spratt
+  citation: 141 F.4th 931
+  court: Appellate
+  date: '2025-06-20'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/10614341/united-states-v-kevon-spratt/
+- caseName: Bailey v. Sessions
+  citation: ''
+  court: District
+  date: '2018-12-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4569305/bailey-v-sessions/
+- caseName: State v. A. Scott
+  citation: 467 P.3d 595
+  court: SCOTUS
+  date: '2020-07-14'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4767950/state-v-a-scott/
+- caseName: 'In re: Drew Pollard'
+  citation: 931 F.3d 1318
+  court: Appellate
+  date: '2019-07-31'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4644589/in-re-drew-pollard/
+- caseName: United States v. Rachal
+  citation: 222 F. Supp. 3d 113
+  court: District
+  date: '2016-12-07'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7323052/united-states-v-rachal/
+- caseName: United States v. Marcus Watson
+  citation: 881 F.3d 782
+  court: Appellate
+  date: '2018-02-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4464229/united-states-v-marcus-watson/
+- caseName: Hill v. United States
+  citation: 308 F. Supp. 3d 939
+  court: District
+  date: '2018-04-17'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7330012/hill-v-united-states/
+- caseName: State v. Yelardy
+  citation: ''
+  court: District
+  date: '2020-05-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4751049/state-v-yelardy/
+- caseName: King v. United States
+  citation: 965 F.3d 60
+  court: Appellate
+  date: '2020-07-10'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4767215/king-v-united-states/
+- caseName: United States v. Neal Bain
+  citation: 925 F.3d 1172
+  court: Appellate
+  date: '2019-06-11'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4628277/united-states-v-neal-bain/
+- caseName: United States v. Lamar
+  citation: 295 F. Supp. 3d 376
+  court: District
+  date: '2018-03-29'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7328882/united-states-v-lamar/
+- caseName: United States v. Honesty
+  citation: ''
+  court: District
+  date: '2020-11-16'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4806418/united-states-v-honesty/
+- caseName: United States v. Patterson
+  citation: 168 F. Supp. 3d 374
+  court: District
+  date: '2016-03-01'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/7318889/united-states-v-patterson/
+- caseName: United States v. Doe
+  citation: ''
+  court: District
+  date: '2018-02-09'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4466639/united-states-v-doe/
+- caseName: United States v. McCranie
+  citation: 889 F.3d 677
+  court: Appellate
+  date: '2018-05-03'
+  holdingSummary: ''
+  impact: interpretation
+  sourceUrl: https://www.courtlistener.com/opinion/4495067/united-states-v-mccranie/
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+targetSection: 18 U.S.C. § 2113
+totalCases: 5155
