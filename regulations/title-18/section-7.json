@@ -1,0 +1,108 @@
+{
+  "targetSection": "18-7",
+  "lastUpdated": "2026-11-22T06:13:10.745Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 7",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:10.745Z",
+    "lastSuccessAt": "2026-11-22T06:13:10.745Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 10,
+      "cfrPart": 1047,
+      "agency": "Department of Energy (General Provisions)",
+      "description": "Limited Arrest Authority and Use of Force by Protective Force Officers",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-10/part-1047",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "jurisdiction of the United States” as defined by <strong>18 U.S.C. 7</strong>). (B) Building or property within special<span class=\"elipsis\">…</span>jurisdiction of United States” as defined by <strong>18 U.S.C. 7</strong>). (C) Civil disorder—18 U.S.C. 231. (D)<span class=\"elipsis\">…</span>of the United States,” as defined in <strong>18 U.S.C. 7</strong>, the Assimilative Crimes Act (18 U.S",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    },
+    {
+      "cfrTitle": 44,
+      "cfrPart": 15,
+      "agency": "Federal Emergency Management Agency, Department of Homeland Security",
+      "description": "Conduct at the Mt. Weather Emergency Assistance Center and at the National Emergency Training Center",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-44/part-15",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "jurisdiction of the United States, as defined in <strong>18 U.S.C. 7</strong>. They supersede provisions of State law",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    },
+    {
+      "cfrTitle": 33,
+      "cfrPart": 2,
+      "agency": "Coast Guard, Department of Homeland Security",
+      "description": "Jurisdiction",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-33/part-2",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "territorial jurisdiction as defined in <strong>18 U.S.C. 7</strong>. (iv) Interpreting international law",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    },
+    {
+      "cfrTitle": 32,
+      "cfrPart": 153,
+      "agency": "Office of the Secretary of Defense",
+      "description": "Criminal Jurisdiction over Civilians Employed by or Accompanying the Armed Forces Outside the United States, Certain Service Members, and Former Service Members",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-32/part-153",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "States. See sections 3261 of the Act and <strong>18 U.S.C. 7</strong>. Although the Act, uses the conditional",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    },
+    {
+      "cfrTitle": 48,
+      "cfrPart": 52,
+      "agency": "Federal Acquisition Regulation",
+      "description": "Solicitation Provisions and Contract Clauses",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-48/part-52",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "Government missions outside the United States (<strong>18 U.S.C. 7</strong>(9)). (f) Processing and departure points",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    },
+    {
+      "cfrTitle": 48,
+      "cfrPart": 252,
+      "agency": "Defense Acquisition Regulations System, Department of Defense",
+      "description": "Solicitation Provisions and Contract Clauses",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-48/part-252",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "Government missions outside the United States (<strong>18 U.S.C. 7</strong>(9)); and (iv) In time of declared war",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    },
+    {
+      "cfrTitle": 32,
+      "cfrPart": 158,
+      "agency": "Office of the Secretary of Defense",
+      "description": "Operational Contract Support",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-32/part-158",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 7\"",
+      "matchingEvidence": "offenses by contactor personnel, such as <strong>18 U.S.C. 7</strong>(9). Immediate consultation with the servicing<span class=\"elipsis\">…</span>under MEJA and UCMJ in accordance with <strong>18 U.S.C. 7</strong>(9), 2441, and 3261 and Secretary of Defense",
+      "retrievedAt": "2026-11-22T06:13:10.745Z"
+    }
+  ]
+}

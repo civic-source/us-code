@@ -1,0 +1,30 @@
+{
+  "targetSection": "18-2073",
+  "lastUpdated": "2026-11-22T06:13:18.673Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 2073",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:18.673Z",
+    "lastSuccessAt": "2026-11-22T06:13:18.673Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 45,
+      "cfrPart": 73,
+      "agency": "Public Welfare",
+      "description": "Standards of Conduct",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-45/part-73",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 2073\"",
+      "matchingEvidence": "false reports of money or securities. (<strong>18 U.S.C. 2073</strong>.) 5. Loss or misuse of or damage to",
+      "retrievedAt": "2026-11-22T06:13:18.673Z"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "targetSection": "18-2",
+  "lastUpdated": "2026-11-22T06:13:09.093Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 2",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:09.093Z",
+    "lastSuccessAt": "2026-11-22T06:13:09.093Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 40,
+      "cfrPart": 160,
+      "agency": "Environmental Protection Agency",
+      "description": "Good Laboratory Practice Standards",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-40/part-160",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 2\"",
+      "matchingEvidence": "409, or for criminal prosecution under <strong>18 U.S.C. 2</strong> or 1001 or FIFRA section 14, or for imposition",
+      "retrievedAt": "2026-11-22T06:13:09.093Z"
+    },
+    {
+      "cfrTitle": 5,
+      "cfrPart": 2641,
+      "agency": "Office of Government Ethics",
+      "description": "Post-Employment Conflict of Interest Restrictions",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-5/part-2641",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 2\"",
+      "matchingEvidence": "note following § 2641.103 concerning <strong>18 U.S.C. 2</strong>.) (a) This part 2641 explains the scope",
+      "retrievedAt": "2026-11-22T06:13:09.093Z"
+    },
+    {
+      "cfrTitle": 40,
+      "cfrPart": 792,
+      "agency": "Environmental Protection Agency",
+      "description": "Good Laboratory Practice Standards",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-40/part-792",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 2\"",
+      "matchingEvidence": "of TSCA, or criminal prosecution under <strong>18 U.S.C. 2</strong> or 1001. (b) EPA, at its discretion,",
+      "retrievedAt": "2026-11-22T06:13:09.093Z"
+    },
+    {
+      "cfrTitle": 20,
+      "cfrPart": 656,
+      "agency": "Employment and Training Administration, Department of Labor",
+      "description": "Labor Certification Process for Permanent Employment of Aliens in the United States",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-20/part-656",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 2\"",
+      "matchingEvidence": "imprisonment up to five years, or both under <strong>18 U.S.C. 2</strong> and 1001. Other penalties apply as well",
+      "retrievedAt": "2026-11-22T06:13:09.093Z"
+    },
+    {
+      "cfrTitle": 34,
+      "cfrPart": 685,
+      "agency": "Office of Postsecondary Education, Department of Education",
+      "description": "William D. Ford Federal Direct Loan Program",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-34/part-685",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 2\"",
+      "matchingEvidence": "has the same meaning as defined under <strong>18 U.S.C. 2</strong>. (2) AmeriCorps service means service",
+      "retrievedAt": "2026-11-22T06:13:09.093Z"
+    }
+  ]
+}

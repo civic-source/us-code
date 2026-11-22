@@ -1,0 +1,16 @@
+{
+  "targetSection": "18-23",
+  "lastUpdated": "2026-11-22T06:13:15.235Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 23",
+    "status": "success-empty",
+    "observedAt": "2026-11-22T06:13:15.235Z",
+    "lastSuccessAt": "2026-11-22T06:13:15.235Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": []
+}

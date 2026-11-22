@@ -1,0 +1,30 @@
+{
+  "targetSection": "18-8",
+  "lastUpdated": "2026-11-22T06:13:11.080Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 8",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:11.080Z",
+    "lastSuccessAt": "2026-11-22T06:13:11.080Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 31,
+      "cfrPart": 1010,
+      "agency": "Financial Crimes Enforcement Network, Department of the Treasury",
+      "description": "General Provisions",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-31/part-1010",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 8\"",
+      "matchingEvidence": "security of the United States as defined in <strong>18 U.S.C. 8</strong>, or (b) Any obligation or other security",
+      "retrievedAt": "2026-11-22T06:13:11.080Z"
+    }
+  ]
+}
