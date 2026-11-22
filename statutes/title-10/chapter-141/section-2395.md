@@ -1,15 +1,12 @@
 ---
-title: "Section 2395 - Availability of appropriations for procurement of technical military equipment and supplies"
+title: "Section 2395 - Renumbered § 3132]"
 usc_title: 10
 usc_section: "2395"
 chapter: 141
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2395"
-generated_at: "2026-03-30T10:02:00.856Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.158Z"
 ---
 
-# § 2395. Availability of appropriations for procurement of technical military equipment and supplies
-
-Funds appropriated to the Department of Defense for the procurement of technical military equipment and supplies remain available until spent.
+# [§ 2395. Renumbered § 3132]
 

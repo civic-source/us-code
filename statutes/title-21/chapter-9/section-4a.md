@@ -3,10 +3,9 @@ title: "Section 4a - Priority review to encourage treatments for agents that pre
 usc_title: 21
 usc_section: "4a"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 4a"
-generated_at: "2026-03-30T10:02:39.036Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.256Z"
 ---
 
 # § 360bbb–4a. Priority review to encourage treatments for agents that present national security threats
@@ -21,7 +20,9 @@ status: "active"
       - **(ii)** to mitigate, prevent, or treat harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, or biological product against such agent; and
     - **(B)** the Secretary determines eligible for priority review;
     - **(C)** is approved after December 13, 2016 ; and
-    - **(D)** is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ].
+    - **(D)** is for—
+      - **(i)** a human drug, no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) of which has been approved in any other application under section 355(b)(1) of this title ; or
+      - **(ii)** a biological product, no active ingredient of which has been approved in any other application under section 351 of the Public Health Service Act [ 42 U.S.C. 262 ].
 - **(b)**
   - **(1)** The Secretary shall award a priority review voucher to the sponsor of a material threat medical countermeasure application upon approval by the Secretary of such material threat medical countermeasure application.
   - **(2)** The sponsor of a material threat medical countermeasure application that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ] will be submitted after the date of the approval of the material threat medical countermeasure application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.

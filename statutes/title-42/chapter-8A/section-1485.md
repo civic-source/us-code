@@ -3,10 +3,9 @@ title: "Section 1485 - Housing and related facilities for elderly persons and fa
 usc_title: 42
 usc_section: "1485"
 chapter: 8
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1485"
-generated_at: "2026-03-30T10:03:30.079Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.096Z"
 ---
 
 # § 1485. Housing and related facilities for elderly persons and families or other persons and families of low income
@@ -56,7 +55,18 @@ status: "active"
     - **(A)** a market exists for persons and families eligible for such program of assistance;
     - **(B)** such program of assistance will provide rental assistance for a period of not less than five years, and, at the option of the applicant, either that there is a reasonable assurance that the contract for assistance will be extended or renewed, or for the term of the loan remaining after the period of such assistance, that an adequate rental market exists for the project without such assistance; and
     - **(C)** during the term of such rental assistance contracts, such State or political subdivision shall make available the amounts required for such rental assistance not less than annually.
-- **(m)** The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+- **(m)**
+  - **(1)** The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+  - **(2)** Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+    - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+    - **(B)** any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+  - **(3)**
+    - **(A)** Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+    - **(B)** For purposes of this paragraph, the following definitions shall apply:
+      - **(i)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
+      - **(ii)** The term “qualifying smoke alarm” means a smoke alarm that—
+        - **(I)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
+        - **(II)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
 - **(n)** The Secretary may not deny assistance under this section or section 1490a of this title on the basis that the project involved is to be located on more than one site.
 - **(o)** The Secretary may not (1) deny assistance under this section on the basis that rental assistance payments under section 1490a of this title may be required unless the authority to provide such assistance is not available; or (2) promulgate any regulation that would have the effect of denying occupancy to eligible persons on the basis that such persons require rental assistance payments under section 1490a of this title .
 - **(p)**

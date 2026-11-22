@@ -3,10 +3,9 @@ title: "Section 20101 - Short title"
 usc_title: 51
 usc_section: "20101"
 chapter: 201
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "51 U.S.C. § 20101"
-generated_at: "2026-03-30T10:03:57.523Z"
-status: "active"
+generated_at: "2026-03-30T02:56:28.702Z"
 ---
 
 # § 20101. Short title

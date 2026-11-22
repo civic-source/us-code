@@ -3,10 +3,9 @@ title: "Section 55111 - Towing"
 usc_title: 46
 usc_section: "55111"
 chapter: 551
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 55111"
-generated_at: "2026-03-30T10:03:46.790Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.579Z"
 ---
 
 # § 55111. Towing

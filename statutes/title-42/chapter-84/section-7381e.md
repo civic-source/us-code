@@ -3,13 +3,12 @@ title: "Section 7381e - Authorization of appropriations"
 usc_title: 42
 usc_section: "7381e"
 chapter: 84
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7381e"
-generated_at: "2026-03-30T10:03:30.240Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.290Z"
 ---
 
 # § 7381e. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out university research support and other science, mathematics, and engineering education programs authorized by this part and administered by the Office of Science of the Department of Energy, $40,000,000 for fiscal year 1991.
+Out of funds authorized to be appropriated for the Office of Science of the Department of Energy in a fiscal year, there are authorized to be appropriated to the Secretary for carrying out university research support and other science, mathematics, and engineering education programs authorized by this part and administered by the Office of Science of the Department of Energy, $40,000,000 for each of fiscal years 2023 through 2027.
 

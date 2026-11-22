@@ -3,10 +3,9 @@ title: "Section 366 - Separability"
 usc_title: 45
 usc_section: "366"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "45 U.S.C. § 366"
-generated_at: "2026-03-30T10:03:15.631Z"
-status: "active"
+generated_at: "2026-03-30T02:55:56.552Z"
 ---
 
 # § 366. Separability

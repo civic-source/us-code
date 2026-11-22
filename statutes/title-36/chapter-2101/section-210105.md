@@ -3,10 +3,9 @@ title: "Section 210105 - Powers"
 usc_title: 36
 usc_section: "210105"
 chapter: 2101
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 210105"
-generated_at: "2026-03-30T10:03:09.267Z"
-status: "active"
+generated_at: "2026-03-30T02:55:44.708Z"
 ---
 
 # § 210105. Powers

@@ -3,10 +3,9 @@ title: "Section 7634 - Breach of agreement; waiver of liability"
 usc_title: 38
 usc_section: "7634"
 chapter: 76
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 7634"
-generated_at: "2026-03-30T10:03:11.998Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.534Z"
 ---
 
 # § 7634. Breach of agreement; waiver of liability

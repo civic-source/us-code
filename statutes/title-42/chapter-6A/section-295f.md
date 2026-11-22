@@ -3,10 +3,9 @@ title: "Section 295f - Investment in tomorrow’s pediatric health care workforc
 usc_title: 42
 usc_section: "295f"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 295f"
-generated_at: "2026-03-30T10:03:29.821Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.780Z"
 ---
 
 # § 295f. Investment in tomorrow’s pediatric health care workforce

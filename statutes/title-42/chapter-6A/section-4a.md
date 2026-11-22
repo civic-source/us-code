@@ -3,10 +3,9 @@ title: "Section 4a - Supplemental grants for additional preventive health servic
 usc_title: 42
 usc_section: "4a"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T10:03:29.845Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.807Z"
 ---
 
 # § 300n–4a. Supplemental grants for additional preventive health services

@@ -3,10 +3,9 @@ title: "Section 10102a - Deployment prioritization and readiness of Army compone
 usc_title: 10
 usc_section: "10102a"
 chapter: 1003
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 10102a"
-generated_at: "2026-03-30T10:02:00.908Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.263Z"
 ---
 
 # § 10102a. Deployment prioritization and readiness of Army components

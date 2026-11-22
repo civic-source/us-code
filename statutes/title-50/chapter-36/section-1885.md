@@ -3,10 +3,9 @@ title: "Section 1885 - Definitions"
 usc_title: 50
 usc_section: "1885"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 1885"
-generated_at: "2026-03-30T10:03:53.195Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.215Z"
 ---
 
 # § 1885. Definitions
@@ -27,8 +26,13 @@ In this subchapter:
     - **(B)** a provider of electronic communication service, as that term is defined in section 2510 of title 18 ;
     - **(C)** a provider of a remote computing service, as that term is defined in section 2711 of title 18 ;
     - **(D)** any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
-    - **(E)** a parent, subsidiary, affiliate, successor, or assignee of an entity described in subparagraph (A), (B), (C), or (D); or
-    - **(F)** an officer, employee, or agent of an entity described in subparagraph (A), (B), (C), (D), or (E).
+    - **(E)** any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
+      - **(i)** a public accommodation facility, as that term is defined in section 1861(4) of this title ;
+      - **(ii)** a dwelling, as that term is defined in section 3602 of title 42 ;
+      - **(iii)** a community facility, as that term is defined in section 1592n of title 42 ; or
+      - **(iv)** a food service establishment, as that term is defined in section 1638 of title 7 ;
+    - **(F)** a parent, subsidiary, affiliate, successor, or assignee of an entity described in subparagraph (A), (B), (C), or (D);
+    - **(G)** an officer, employee, custodian, or agent of an entity described in subparagraph (A), (B), (C), (D), (E), or (F).
   - **(7)** The term “intelligence community” has the meaning given the term in section 3003(4) of this title .
   - **(8)** The term “person” means—
     - **(A)** an electronic communication service provider; or

@@ -3,10 +3,9 @@ title: "Section 7449 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7449"
 chapter: 101
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 7449"
-generated_at: "2026-03-30T10:01:46.824Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.453Z"
 ---
 
 # § 7449. Investigations and power to subpoena

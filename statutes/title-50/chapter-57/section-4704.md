@@ -3,10 +3,9 @@ title: "Section 4704 - United States as entitled to all benefits of exemption an
 usc_title: 50
 usc_section: "4704"
 chapter: 57
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 4704"
-generated_at: "2026-03-30T10:03:53.252Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.282Z"
 ---
 
 # § 4704. United States as entitled to all benefits of exemption and limitation of liability accorded to owners of vessels

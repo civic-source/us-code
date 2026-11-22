@@ -3,10 +3,9 @@ title: "Section 2501 - Omitted"
 usc_title: 16
 usc_section: "2501"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 2501"
-generated_at: "2026-03-30T10:02:22.465Z"
-status: "omitted"
+generated_at: "2026-03-30T02:54:23.003Z"
 ---
 
 # § 2501. Omitted

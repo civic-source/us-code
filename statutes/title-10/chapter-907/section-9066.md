@@ -3,10 +3,9 @@ title: "Section 9066 - Regular Air Force: composition"
 usc_title: 10
 usc_section: "9066"
 chapter: 907
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9066"
-generated_at: "2026-03-30T10:02:00.903Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.256Z"
 ---
 
 # § 9066. Regular Air Force: composition

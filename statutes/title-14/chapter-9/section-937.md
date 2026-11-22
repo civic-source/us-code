@@ -3,15 +3,14 @@ title: "Section 937 - Admiralty claims against the United States"
 usc_title: 14
 usc_section: "937"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 937"
-generated_at: "2026-03-30T10:02:03.978Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.491Z"
 ---
 
 # § 937. Admiralty claims against the United States
 
-- **(a)** The Secretary may consider, ascertain, adjust, determine, compromise, or settle, and pay in an amount not more than $100,000, an admiralty claim against the United States for—
+- **(a)** The Secretary may consider, ascertain, adjust, determine, compromise, or settle, and pay in an amount not more than $425,000, an admiralty claim against the United States for—
   - **(1)** damage caused by a vessel in the Coast Guard service or by other property under the jurisdiction of the Department in which the Coast Guard is operating;
   - **(2)** compensation for towage and salvage services, including contract salvage, rendered to a vessel in the Coast Guard service or to other property under the jurisdiction of the Department in which the Coast Guard is operating; or
   - **(3)** damage caused by a maritime tort committed by an agent or employee of the Department in which the Coast Guard is operating or by property under the jurisdiction of that Department.

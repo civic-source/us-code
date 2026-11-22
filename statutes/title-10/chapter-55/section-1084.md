@@ -3,10 +3,9 @@ title: "Section 1084 - Determinations of dependency"
 usc_title: 10
 usc_section: "1084"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1084"
-generated_at: "2026-03-30T10:02:00.808Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.106Z"
 ---
 
 # § 1084. Determinations of dependency

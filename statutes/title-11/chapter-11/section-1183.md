@@ -3,10 +3,9 @@ title: "Section 1183 - Trustee"
 usc_title: 11
 usc_section: "1183"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 1183"
-generated_at: "2026-03-30T10:02:03.436Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.885Z"
 ---
 
 # § 1183. Trustee
@@ -21,7 +20,9 @@ status: "active"
     - **(C)** modification of the plan after confirmation; or
     - **(D)** the sale of property of the estate;
   - **(4)** ensure that the debtor commences making timely payments required by a plan confirmed under this subchapter;
-  - **(5)** if the debtor ceases to be a debtor in possession, perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of section 1106(a) of this title , including operating the business of the debtor;
+  - **(5)** if the debtor ceases to be a debtor in possession—
+    - **(A)** perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of section 1106(a) of this title ; and
+    - **(B)** be authorized to operate the business of the debtor;
   - **(6)** if there is a claim for a domestic support obligation with respect to the debtor, perform the duties specified in section 704(c) of this title ; and
   - **(7)** facilitate the development of a consensual plan of reorganization.
 - **(c)**

@@ -3,10 +3,9 @@ title: "Section 8614 - Apprehension of deserters and prisoners; operation of sho
 usc_title: 10
 usc_section: "8614"
 chapter: 861
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8614"
-generated_at: "2026-03-30T10:02:00.896Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.246Z"
 ---
 
 # § 8614. Apprehension of deserters and prisoners; operation of shore patrols

@@ -3,10 +3,9 @@ title: "Section 7269c - Funding for Department of Energy activities not included
 usc_title: 42
 usc_section: "7269c"
 chapter: 84
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7269c"
-generated_at: "2026-03-30T10:03:30.238Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.286Z"
 ---
 
 # § 7269c. Funding for Department of Energy activities not included in Fossil Energy account

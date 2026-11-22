@@ -3,10 +3,9 @@ title: "Section 1750jj - Omitted"
 usc_title: 12
 usc_section: "1750jj"
 chapter: 13
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1750jj"
-generated_at: "2026-03-30T10:02:11.055Z"
-status: "omitted"
+generated_at: "2026-03-30T02:53:53.434Z"
 ---
 
 # §§ 1750aa to 1750jj. Omitted

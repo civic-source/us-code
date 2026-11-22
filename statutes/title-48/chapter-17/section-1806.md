@@ -3,10 +3,9 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T10:03:34.424Z"
-status: "active"
+generated_at: "2026-03-30T02:56:14.592Z"
 ---
 
 # § 1806. Immigration and transition
@@ -40,8 +39,8 @@ status: "active"
 - **(b)**
   - **(1)**
     - **(A)** An alien, if otherwise qualified, may seek admission to Guam or to the Commonwealth during the transition program as a nonimmigrant worker under section 101(a)(15)(H) of the Immigration and Nationality Act (8 USC 1 1 So in original. Probably should be “U.S.C.” 1101(a)(15)(H)) without counting against the numerical limitations set forth in section 214(g) of such Act (8 USC 1 1184(g)).
-    - **(B)** In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), the alien, if otherwise qualified, may, before December 31, 2023 , be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
-      - **(i)** to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact 2 2 So in original. Probably should be “contract”. or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and in the Commonwealth; or
+    - **(B)** In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), the alien, if otherwise qualified, may, before December 31, 2029 , be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
+      - **(i)** to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contract or subcontract for construction, repairs, renovations, or facility services that is directly connected to, supporting, associated with, or adversely affected by the military realignment occurring on Guam and in the Commonwealth, with priority given to federally funded military projects; or
       - **(ii)** to perform service or labor as a health care worker (such as a nurse, physician assistant, or allied health professional) at a facility that jointly serves members of the Armed Forces, dependents, and civilians on Guam or in the Commonwealth, subject to the education, training, licensing, and other requirements of section 212(a)(5)(C) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(5)(C) ), as applicable, except that this clause shall not be construed to include graduates of medical schools coming to Guam or the Commonwealth to perform service or labor as members of the medical profession.
   - **(2)** Paragraph (1) does not apply with respect to the performance of services of labor at a location other than Guam or the Commonwealth.
   - **(3)** Not later than December 1, 2027 , the Secretary shall submit a report to the Committee on Energy and Natural Resources of the Senate, the Committee on the Judiciary of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on the Judiciary of the House of Representatives that—
@@ -156,7 +155,7 @@ status: "active"
         - **(V)** had a grant of parole under section 212(d)(5) of the Immigration and Nationality Act ( 8 U.S.C. 1182(d)(5) ) on December 31, 2018 , under the former parole program for certain in-home caregivers administered by United States Citizenship and Immigration Services.
     - **(C)** Beginning on the first day of the 180-day period established by the Secretary of Homeland Security under subparagraph (A)(ii)(I), the Attorney General may accept and adjudicate an application for CNMI Resident status under this paragraph by an alien who is in removal proceedings before the Attorney General if the alien—
       - **(i)** makes an initial application to the Attorney General within such 180-day period; or
-      - **(ii)** applied to the Secretary of Homeland Security during such 180-period 3 3 So in original. Probably should be “180-day period”. and before being placed in removal proceedings, and the Secretary denied the application.
+      - **(ii)** applied to the Secretary of Homeland Security during such 180-period 2 2 So in original. Probably should be “180-day period”. and before being placed in removal proceedings, and the Secretary denied the application.
     - **(D)** Notwithstanding any other law, no court shall have jurisdiction to review any decision of the Secretary of Homeland Security or the Attorney General on an application under this paragraph or any other action or determination of the Secretary of Homeland Security or the Attorney General to implement, administer, or enforce this paragraph.
     - **(E)** The requirements of chapter 5 of title 5 (commonly referred to as the Administrative Procedure Act), or any other law relating to rulemaking, information collection or publication in the Federal Register shall not apply to any action to implement, administer or enforce this paragraph.
 - **(f)** The provisions of this section and of the immigration laws, as defined in section 101(a)(17) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(17) ), shall, on the transition program effective date, supersede and replace all laws, provisions, or programs of the Commonwealth relating to the admission of aliens and the removal of aliens from the Commonwealth.
@@ -177,5 +176,5 @@ status: "active"
     - **(A)** a citizen or national of the United States;
     - **(B)** an alien who has been lawfully admitted for permanent residence; or
     - **(C)** a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (known collectively as the “Freely Associated States”) who has been lawfully admitted to the United States pursuant to—
-      - **(i)** section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia ( 48 U.S.C. 1921 note); 4 4 See References in Text note below. or
+      - **(i)** section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia ( 48 U.S.C. 1921 note); 3 3 See References in Text note below. or
       - **(ii)** section 141 of the Compact of Free Association between the United States and the Government of Palau ( 48 U.S.C. 1931 note).

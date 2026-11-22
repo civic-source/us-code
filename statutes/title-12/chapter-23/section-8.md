@@ -3,10 +3,9 @@ title: "Section 8 - Standards for qualified loans"
 usc_title: 12
 usc_section: "8"
 chapter: 23
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-30T10:02:11.099Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.483Z"
 ---
 
 # § 2279aa–8. Standards for qualified loans
@@ -25,5 +24,5 @@ status: "active"
   - **(7)** in establishing the value of agricultural real estate, consider the purpose for which the real estate is taxed.
 - **(c)**
   - **(1)** A loan secured by agricultural real estate may not be treated as a qualified loan if the principal amount of such loan exceeds $2,500,000, adjusted for inflation, except as provided in paragraph (2).
-  - **(2)** Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 1,000 acres.
+  - **(2)** Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 2,000 acres.
 - **(d)** The standards established under subsection (a) shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.

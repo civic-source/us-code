@@ -3,10 +3,9 @@ title: "Section 5376 - Pay for certain senior-level positions"
 usc_title: 5
 usc_section: "5376"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 5376"
-generated_at: "2026-03-30T10:01:40.550Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.016Z"
 ---
 
 # § 5376. Pay for certain senior-level positions

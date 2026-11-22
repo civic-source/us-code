@@ -3,10 +3,9 @@ title: "Section 312 - Terrorism and financial intelligence"
 usc_title: 31
 usc_section: "312"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 312"
-generated_at: "2026-03-30T10:02:56.379Z"
-status: "active"
+generated_at: "2026-03-30T02:55:34.044Z"
 ---
 
 # § 312. Terrorism and financial intelligence
@@ -62,3 +61,7 @@ status: "active"
 - **(d)** The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31 , United States Code, and other relevant authorities.
 - **(e)** The Secretary may employ personnel, facilities, and other Department of the Treasury resources available to the Secretary on the date of enactment of this section in carrying out this section, except as otherwise prohibited by law.
 - **(f)** References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
+- **(g)**
+  - **(1)** The Secretary of the Treasury may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the OTFI.
+  - **(2)** The primary responsibility of candidates appointed under paragraph (1) shall be to provide substantive support in support of the duties described in subparagraphs (A) through (G) of subsection (a)(4).
+- **(h)** The Secretary of the Treasury may detail, without regard to the provisions of section 300.301 of title 5, Code of Federal Regulations, any employee in the OTFI to any position in the OTFI for which the Secretary has determined there is a need.

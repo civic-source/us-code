@@ -3,10 +3,9 @@ title: "Section 343 - Western Hemisphere Institute for Security Cooperation"
 usc_title: 10
 usc_section: "343"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 343"
-generated_at: "2026-03-30T10:02:00.772Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.053Z"
 ---
 
 # § 343. Western Hemisphere Institute for Security Cooperation
@@ -35,7 +34,7 @@ status: "active"
     - **(B)** The chairman and ranking minority member of the Committee on Armed Services of the House of Representatives, or a designee of either of them.
     - **(C)** Six persons designated by the Secretary of Defense including, to the extent practicable, persons from academia and the religious and human rights communities.
     - **(D)** One person designated by the Secretary of State.
-    - **(E)** The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force, respectively, or a designee of the senior military officer concerned.
+    - **(E)** The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
     - **(F)** The commanders of the combatant commands having geographic responsibility for the Western Hemisphere, or the designees of those officers.
   - **(2)** A vacancy in a position on the Board shall be filled in the same manner as the position was originally filled.
   - **(3)** The Board shall meet at least once each year.
@@ -52,7 +51,7 @@ status: "active"
   - **(8)** Members of the Board and advisers whose services are accepted under paragraph (7) shall be allowed travel and transportation expenses, including per diem in lieu of subsistence, while away from their homes or regular places of business in the performance of services for the Board. Allowances under this paragraph shall be computed—
     - **(A)** in the case of members of the Board who are officers or employees of the United States, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
     - **(B)** in the case of other members of the Board and advisers, as authorized under section 5703 of title 5 for employees serving without pay.
-  - **(9)** The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 (relating to termination after two years), shall apply to the Board.
+  - **(9)** Chapter 10 of title 5, other than section 1013 of title 5 (relating to termination after two years), shall apply to the Board.
 - **(f)**
   - **(1)** The Secretary of Defense may, on behalf of the Institute, accept foreign gifts or donations in order to defray the costs of, or enhance the operation of, the Institute.
   - **(2)** Funds received by the Secretary under paragraph (1) shall be credited to appropriations available for the Department of Defense for the Institute. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Institute for the same purposes and same period as the appropriations with which merged.

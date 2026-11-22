@@ -3,10 +3,9 @@ title: "Section 1423 - Records, audits, and public disclosure"
 usc_title: 30
 usc_section: "1423"
 chapter: 26
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1423"
-generated_at: "2026-03-30T10:02:44.918Z"
-status: "active"
+generated_at: "2026-03-30T02:55:29.405Z"
 ---
 
 # § 1423. Records, audits, and public disclosure

@@ -3,10 +3,9 @@ title: "Section 1398 - Withdrawal not to occur because of change in business for
 usc_title: 29
 usc_section: "1398"
 chapter: 18
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1398"
-generated_at: "2026-03-30T10:02:46.185Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.735Z"
 ---
 
 # § 1398. Withdrawal not to occur because of change in business form or suspension of contributions during labor dispute

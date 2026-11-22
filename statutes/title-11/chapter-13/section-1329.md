@@ -3,10 +3,9 @@ title: "Section 1329 - Modification of plan after confirmation"
 usc_title: 11
 usc_section: "1329"
 chapter: 13
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 1329"
-generated_at: "2026-03-30T10:02:03.438Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.887Z"
 ---
 
 # § 1329. Modification of plan after confirmation
@@ -25,9 +24,3 @@ status: "active"
   - **(1)** Sections 1322(a), 1322(b), and 1323(c) of this title and the requirements of section 1325(a) of this title apply to any modification under subsection (a) of this section.
   - **(2)** The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.
 - **(c)** A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
-- **(d)**
-  - **(1)** Subject to paragraph (3), for a plan confirmed prior to the date of enactment of this subsection, the plan may be modified upon the request of the debtor if—
-    - **(A)** the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and
-    - **(B)** the modification is approved after notice and a hearing.
-  - **(2)** A plan modified under paragraph (1) may not provide for payments over a period that expires more than 7 years after the time that the first payment under the original confirmed plan was due.
-  - **(3)** Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).

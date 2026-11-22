@@ -3,10 +3,9 @@ title: "Section 2002 - Definitions"
 usc_title: 38
 usc_section: "2002"
 chapter: 20
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 2002"
-generated_at: "2026-03-30T10:03:11.958Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.493Z"
 ---
 
 # § 2002. Definitions
@@ -15,7 +14,7 @@ status: "active"
   - **(1)** The term “homeless veteran” means a veteran who is homeless (as that term is defined in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11302 )).
   - **(2)** The term “grant and per diem provider” means an entity in receipt of a grant under section 2011 or 2012 of this title.
 - **(b)**
-  - **(1)** Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term “veteran” means a person who served in the active military, naval, or air service, regardless of length of service, and who was discharged or released therefrom.
+  - **(1)** Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term “veteran” means a person who served in the active military, naval, air, or space service, regardless of length of service, and who was discharged or released therefrom.
   - **(2)** For purposes of paragraph (1), the term “veteran” excludes a person who—
     - **(A)** received a dishonorable discharge from the Armed Forces; or
     - **(B)** was discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial.

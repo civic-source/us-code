@@ -3,10 +3,9 @@ title: "Section 640 - Repealed. Pub. L. 93–531, § 26 , Dec. 22, 1974 , 88 Sta
 usc_title: 25
 usc_section: "640"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 640"
-generated_at: "2026-03-30T10:02:26.249Z"
-status: "repealed"
+generated_at: "2026-03-30T02:54:52.810Z"
 ---
 
 # § 640. Repealed. Pub. L. 93–531, § 26 , Dec. 22, 1974 , 88 Stat. 1723

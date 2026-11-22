@@ -3,10 +3,9 @@ title: "Section 567a - Cooperation by Secretary of Agriculture with States in ac
 usc_title: 16
 usc_section: "567a"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 567a"
-generated_at: "2026-03-30T10:02:22.378Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.877Z"
 ---
 
 # § 567a. Cooperation by Secretary of Agriculture with States in acquisition and administration of State forests

@@ -3,10 +3,9 @@ title: "Section 373f - Partnerships, grants, and cooperative agreements with loc
 usc_title: 43
 usc_section: "373f"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 373f"
-generated_at: "2026-03-30T10:03:16.167Z"
-status: "active"
+generated_at: "2026-03-30T02:55:57.440Z"
 ---
 
 # § 373f. Partnerships, grants, and cooperative agreements with local joint powers authorities

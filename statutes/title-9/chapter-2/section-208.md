@@ -1,15 +1,14 @@
 ---
-title: "Section 208 - Chapter 1; residual application"
+title: "Section 208 - Application"
 usc_title: 9
 usc_section: "208"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "9 U.S.C. § 208"
-generated_at: "2026-03-30T10:01:42.801Z"
-status: "active"
+generated_at: "2026-03-30T02:53:06.639Z"
 ---
 
-# § 208. Chapter 1; residual application
+# § 208. Application
 
-Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States.
+Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States. This chapter applies to the extent that this chapter is not in conflict with chapter 4.
 

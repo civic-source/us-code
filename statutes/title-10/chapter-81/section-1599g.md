@@ -3,10 +3,9 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-03-30T10:02:00.829Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.132Z"
 ---
 
 # § 1599g. Public-private talent exchange
@@ -16,7 +15,7 @@ status: "active"
   - **(1)** The Secretary of Defense shall provide for a written agreement among the Department of Defense, the private-sector organization, and the employee concerned regarding the terms and conditions of the employee’s assignment under this section. The agreement—
     - **(A)** shall require that the employee of the Department of Defense, upon completion of the assignment, will serve in the Department of Defense, or elsewhere in the civil service if approved by the Secretary, for a period equal to twice the length of the assignment;
     - **(B)** shall provide that if the employee of the Department of Defense or of the private-sector organization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense; and
-    - **(C)** shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.
+    - **(C)** shall contain language ensuring that such employee of the Department does not improperly use information that such employee knows relates to a Department acquisition or procurement for the benefit or advantage of the private-sector organization.
   - **(2)** An amount for which an employee is liable under paragraph (1) shall be treated as a debt due the United States.
   - **(3)** The Secretary may waive, in whole or in part, collection of a debt described in paragraph (2) based on a determination that the collection would be against equity and good conscience and not in the best interests of the United States, after taking into account any indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee.
 - **(c)** An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the private-sector organization concerned.
@@ -33,13 +32,13 @@ status: "active"
   - **(1)** shall continue to receive pay and benefits from the private-sector organization from which such employee is assigned and shall not receive pay or benefits from the Department of Defense, except as provided in paragraph (2);
   - **(2)** is deemed to be an employee of the Department of Defense for the purposes of—
     - **(A)** chapters 73 and 81 of title 5;
-    - **(B)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
+    - **(B)** sections 201, 203, 205, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
     - **(C)** sections 1343, 1344, and 1349(b) of title 31;
     - **(D)** the Federal Tort Claims Act and any other Federal tort liability statute;
     - **(E)** the Ethics in Government Act of 1978; and
     - **(F)** chapter 21 of title 41;
   - **(3)** shall not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private-sector organization from which such employee is assigned;
-  - **(4)** may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and
+  - **(4)** may not perform work that is considered inherently governmental in nature; and
   - **(5)** may not be used to circumvent the provision of section 2461 of this title nor to circumvent any limitation or restriction on the size of the Department’s workforce.
 - **(g)** A private-sector organization may not charge the Department or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to a Department organization under this section for the period of the assignment.
 - **(h)** In carrying out this section, the Secretary of Defense—
@@ -51,3 +50,4 @@ status: "active"
   - **(1)** notwithstanding section 1705(e)(5) of this title , the base salary of a civilian member of the acquisition workforce assigned to a private-sector organization under this section, during the period of that assignment;
   - **(2)** expenses relating to assignment under this section of a member of the acquisition workforce away from the member’s regular duty station, including expenses for travel, per diem, and lodging; and
   - **(3)** expenses for the administration of the program.
+- **(k)** Each member of the acquisition workforce that participates in the program established under this section shall, upon completion of such participation, submit to the President of the Defense Acquisition University for inclusion in the report required under section 1746a(e) a description and evaluation of such participation.

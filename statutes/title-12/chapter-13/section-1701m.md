@@ -3,10 +3,9 @@ title: "Section 1701m - Credit and cancellation of notes transferred from Recons
 usc_title: 12
 usc_section: "1701m"
 chapter: 13
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1701m"
-generated_at: "2026-03-30T10:02:11.028Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.402Z"
 ---
 
 # § 1701m. Credit and cancellation of notes transferred from Reconstruction Finance Corporation; net loss computation

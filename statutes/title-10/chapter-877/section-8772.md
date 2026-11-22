@@ -3,10 +3,9 @@ title: "Section 8772 - Quarters: accommodations in place for members on sea duty
 usc_title: 10
 usc_section: "8772"
 chapter: 877
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8772"
-generated_at: "2026-03-30T10:02:00.899Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.251Z"
 ---
 
 # § 8772. Quarters: accommodations in place for members on sea duty or assigned to duty in connection with commissioning or fitting out of a ship

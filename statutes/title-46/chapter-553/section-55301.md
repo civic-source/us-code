@@ -1,15 +1,19 @@
 ---
-title: "Section 55301 - Priority loading for coal"
+title: "Section 55301 - Report on administration of programs by other Federal departments and agencies"
 usc_title: 46
 usc_section: "55301"
 chapter: 553
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 55301"
-generated_at: "2026-03-30T10:03:46.791Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.579Z"
 ---
 
-# § 55301. Priority loading for coal
+# § 55301. Report on administration of programs by other Federal departments and agencies
 
-A vessel engaged in the coastwise transportation of coal produced in the United States, from a port in the United States to another port in the United States, shall be given priority in loading at any of those ports ahead of a waiting vessel engaged in the export transportation of coal produced in the United States. However, if the Secretary of Transportation finds that it is in the national interest, the Secretary may eliminate this priority loading at any port. The Secretary shall report to Congress within 30 days an action eliminating priority loading under this section.
-
+- **(a)** The Administrator of the Maritime Administration shall annually submit to Congress a report on the administration by—
+  - **(1)** the Department of Defense of section 2631 of title 10 ; and
+  - **(2)** other Federal departments and agencies of programs the Administrator determines are subject to section 55305 of this title .
+- **(b)** Each annual report required under subsection (a) shall include, for each Federal department or agency that administers a program covered by the report—
+  - **(1)** the gross tonnage of cargo (equipment, materials, or agricultural products), expressed by type of cargo, transported on United States flag vessels as compared to on foreign vessels; and
+  - **(2)** the total number of United States flag vessels and total number of foreign vessels contracted by each department or agency.
+- **(c)** Not later than January 31 of each year, the head of each Federal department or agency that administers a program covered by a report required under subsection (a) shall submit to the Administrator of the Maritime Administration the information described in subsection (b) for that department or agency.

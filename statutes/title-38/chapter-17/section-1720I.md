@@ -3,10 +3,9 @@ title: "Section 1720I - Mental and behavioral health care for certain former mem
 usc_title: 38
 usc_section: "1720I"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1720I"
-generated_at: "2026-03-30T10:03:11.951Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.485Z"
 ---
 
 # § 1720I. Mental and behavioral health care for certain former members of the Armed Forces
@@ -16,7 +15,7 @@ status: "active"
   - **(2)** the mental healthcare or behavioral healthcare services authorized under this chapter that are required to treat the mental or behavioral health care needs of the former service members, including risk of suicide or harming others.
 - **(b)** A former member of the Armed Forces described in this subsection is an individual who—
   - **(1)** is a former member of the Armed Forces, including the reserve components;
-  - **(2)** while serving in the active military, naval, or air service, was discharged or released therefrom under a condition that is not honorable but not—
+  - **(2)** while serving in the active military, naval, air, or space service, was discharged or released therefrom under a condition that is not honorable but not—
     - **(A)** a dishonorable discharge; or
     - **(B)** a discharge by court-martial;
   - **(3)** is not enrolled in the health care system established by section 1705 of this title ; and
@@ -36,13 +35,13 @@ status: "active"
 - **(e)** The Secretary shall provide information on the mental and behavioral health care services available under this section. Efforts by the Secretary to provide such information—
   - **(1)** shall include notification of each eligible individual described in subsection (b) about the eligibility of the individual for covered mental and behavioral health care under this section not later than the later of—
     - **(A)** 180 days after the date of the enactment of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018; or
-    - **(B)** 180 days after the date on which the individual was discharged or released from the active military, naval, or air service;
+    - **(B)** 180 days after the date on which the individual was discharged or released from the active military, naval, air, or space service;
   - **(2)** shall include availability of a toll-free telephone number (commonly referred to as an 800 number);
   - **(3)** shall ensure that information about the mental health care services available under this section—
     - **(A)** is revised and updated as appropriate;
     - **(B)** is made available and visibly posted at appropriate facilities of the Department; and
     - **(C)** is made available to State veteran agencies and through appropriate public information services; and
-  - **(4)** shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
+  - **(4)** shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, air, or space service are provided appropriate information about programs, requirements, and procedures for applying for mental health care services under this section.
 - **(f)**
   - **(1)** Not later than February 15 each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the mental and behavioral health care services provided under this section.
   - **(2)** Each report submitted under paragraph (1) shall include, with respect to the year preceding the submittal of the report, the following:

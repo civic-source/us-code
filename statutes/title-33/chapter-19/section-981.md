@@ -1,15 +1,14 @@
 ---
-title: "Section 981 - Creation of Saint Lawrence Seaway Development Corporation"
+title: "Section 981 - Creation of Corporation"
 usc_title: 33
 usc_section: "981"
 chapter: 19
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 981"
-generated_at: "2026-03-30T10:03:00.778Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.079Z"
 ---
 
-# § 981. Creation of Saint Lawrence Seaway Development Corporation
+# § 981. Creation of Corporation
 
-There is hereby created, subject to the direction and supervision of the Secretary of Transportation, a body corporate to be known as the Saint Lawrence Seaway Development Corporation (hereinafter referred to as the “Corporation”).
+There is hereby created, subject to the direction and supervision of the Secretary of Transportation, a body corporate to be known as the Great Lakes St. Lawrence Seaway Development Corporation (hereinafter referred to as the “Corporation”).
 

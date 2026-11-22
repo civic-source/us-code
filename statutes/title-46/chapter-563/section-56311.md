@@ -3,10 +3,9 @@ title: "Section 56311 - Requisitioned vessels"
 usc_title: 46
 usc_section: "56311"
 chapter: 563
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 56311"
-generated_at: "2026-03-30T10:03:46.792Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.581Z"
 ---
 
 # § 56311. Requisitioned vessels

@@ -3,10 +3,9 @@ title: "Section 1415 - Mandatory advance electronic information for cargo and ot
 usc_title: 19
 usc_section: "1415"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1415"
-generated_at: "2026-03-30T10:02:15.848Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.634Z"
 ---
 
 # § 1415. Mandatory advance electronic information for cargo and other improved customs reporting procedures
@@ -43,8 +42,9 @@ status: "active"
         - **(III)** The Commissioner shall, at a minimum on an annual basis, re-evaluate any determination made under subclause (II) to exclude a country from the requirement described in subclause (I). If, at any time, the Commissioner determines that a country no longer meets the requirements under subclause (II), the Commissioner may not further exclude the country from the requirement described in subclause (I).
         - **(IV)** The Commissioner shall, on an annual basis, submit to the appropriate congressional committees—
       - **(vii)**
-        - **(I)** The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020 , for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II).
+        - **(I)** The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020 , for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II) or (III).
         - **(II)** If remedial action is warranted in lieu of refusal of shipments pursuant to subclause (I), the Postmaster General and the Commissioner shall take remedial action with respect to the shipments, including destruction, seizure, controlled delivery or other law enforcement initiatives, or correction of the failure to provide the information described in paragraphs (1) and (2) with respect to the shipments.
+        - **(III)** Notwithstanding subclause (I), during the period beginning on January 1, 2021 , through March 15, 2021 , the Postmaster General may accept a shipment without transmission of the information described in paragraphs (1) and (2) if the Commissioner determines, or concurs with the determination of the Postmaster General, that the shipment presents a low risk of violating any relevant United States statutes or regulations, including statutes or regulations relating to the importation of controlled substances such as fentanyl and other synthetic opioids.
       - **(viii)** Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
       - **(ix)** In this subparagraph, the term “appropriate congressional committees” means—
         - **(I)** the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and

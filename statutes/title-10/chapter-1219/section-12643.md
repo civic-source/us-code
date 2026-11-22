@@ -3,10 +3,9 @@ title: "Section 12643 - Boards for appointment, promotion, and certain other pur
 usc_title: 10
 usc_section: "12643"
 chapter: 1219
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 12643"
-generated_at: "2026-03-30T10:02:00.914Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.271Z"
 ---
 
 # § 12643. Boards for appointment, promotion, and certain other purposes: composition

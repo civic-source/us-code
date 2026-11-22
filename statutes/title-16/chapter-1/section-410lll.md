@@ -3,10 +3,9 @@ title: "Section 410lll - Paterson Great Falls National Historical Park, New Jers
 usc_title: 16
 usc_section: "410lll"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 410lll"
-generated_at: "2026-03-30T10:02:22.314Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.781Z"
 ---
 
 # § 410lll. Paterson Great Falls National Historical Park, New Jersey
@@ -112,7 +111,7 @@ status: "active"
         - **(I)** the State;
         - **(II)** any political subdivision of the State; or
         - **(III)** any entity represented on the Commission.
-  - **(9)** Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+  - **(9)** Section 1013(b) of title 5 shall not apply to the Commission.
   - **(10)** The Commission shall terminate 10 years after March 30, 2009 .
 - **(f)**
   - **(1)** Not later than 3 fiscal years after the date on which funds are made available to carry out this section, the Secretary shall complete a study regarding the preservation and interpretation of Hinchliffe Stadium, which is listed on the National Register of Historic Places.

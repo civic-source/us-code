@@ -3,10 +3,9 @@ title: "Section 6725 - Failure to report information under section 4101"
 usc_title: 26
 usc_section: "6725"
 chapter: 68
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6725"
-generated_at: "2026-03-30T10:02:53.539Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.867Z"
 ---
 
 # § 6725. Failure to report information under section 4101

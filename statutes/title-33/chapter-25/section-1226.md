@@ -3,10 +3,9 @@ title: "Section 1226 - Transferred"
 usc_title: 33
 usc_section: "1226"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1226"
-generated_at: "2026-03-30T10:03:00.780Z"
-status: "transferred"
+generated_at: "2026-03-30T02:55:41.081Z"
 ---
 
 # § 1226. Transferred

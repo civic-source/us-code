@@ -1,15 +1,14 @@
 ---
-title: "Section 1099 - Health care enrollment system"
+title: "Section 1099 - Health care enrollment system and payment options"
 usc_title: 10
 usc_section: "1099"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1099"
-generated_at: "2026-03-30T10:02:00.810Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.108Z"
 ---
 
-# § 1099. Health care enrollment system
+# § 1099. Health care enrollment system and payment options
 
 - **(a)** The Secretary of Defense, after consultation with the other administering Secretaries, shall establish a system of health care enrollment for covered beneficiaries who reside in the United States.
 - **(b)** Such system shall—
@@ -22,4 +21,7 @@ status: "active"
   - **(2)** A plan under the TRICARE program.
   - **(3)** Any other health care plan contracted for by the Secretary of Defense.
   - **(4)** Any combination of the plans described in paragraphs (1), (2), and (3).
-- **(d)** The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
+- **(d)**
+  - **(1)** A member or former member of the uniformed services, or a dependent thereof, eligible for medical care and dental care under section 1074(b) or 1076 of this title shall pay a premium for coverage under this chapter.
+  - **(2)** To the maximum extent practicable, a premium owed by a member, former member, or dependent under paragraph (1) shall be withheld from the retired, retainer, or equivalent pay of the member, former member, or dependent. In all other cases, a premium shall be paid in a frequency and method determined by the Secretary.
+- **(e)** The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.

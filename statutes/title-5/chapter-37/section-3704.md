@@ -3,10 +3,9 @@ title: "Section 3704 - Assignment of employees from private sector organizations
 usc_title: 5
 usc_section: "3704"
 chapter: 37
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 3704"
-generated_at: "2026-03-30T10:01:40.545Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.007Z"
 ---
 
 # § 3704. Assignment of employees from private sector organizations
@@ -19,7 +18,7 @@ status: "active"
     - **(B)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
     - **(C)** sections 1343, 1344, and 1349(b) of title 31;
     - **(D)** the Federal Tort Claims Act and any other Federal tort liability statute;
-    - **(E)** the Ethics in Government Act of 1978;
+    - **(E)** chapter 131 of this title;
     - **(F)** section 1043 of the Internal Revenue Code of 1986; and
     - **(G)** chapter 21 of title 41;
   - **(3)** may not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private sector organization from which he is assigned; and

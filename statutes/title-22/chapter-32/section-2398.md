@@ -3,10 +3,9 @@ title: "Section 2398 - Assistance to countries pursuant to other statutes"
 usc_title: 22
 usc_section: "2398"
 chapter: 32
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2398"
-generated_at: "2026-03-30T10:02:42.402Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.365Z"
 ---
 
 # § 2398. Assistance to countries pursuant to other statutes

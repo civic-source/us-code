@@ -3,10 +3,9 @@ title: "Section 4482 - Definitions"
 usc_title: 26
 usc_section: "4482"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 4482"
-generated_at: "2026-03-30T10:02:53.486Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.803Z"
 ---
 
 # § 4482. Definitions
@@ -21,6 +20,6 @@ status: "active"
   - **(1)** The term “State” means a State and the District of Columbia.
   - **(2)** The term “year” means the one-year period beginning on July 1.
   - **(3)** The term “use” means use in the United States on the public highways.
-  - **(4)** The term “taxable period” means any year beginning before July 1, 2023 , and the period which begins on July 1, 2023 , and ends at the close of September 30, 2023 .
+  - **(4)** The term “taxable period” means any year beginning before July 1, 2029 , and the period which begins on July 1, 2029 , and ends at the close of September 30, 2029 .
   - **(5)** A semitrailer or trailer shall be treated as customarily used in connection with a highway motor vehicle if such vehicle is equipped to tow such semitrailer or trailer.
-- **(d)** In the case of the taxable period which ends on September 30, 2023 , the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
+- **(d)** In the case of the taxable period which ends on September 30, 2029 , the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.

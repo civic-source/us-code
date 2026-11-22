@@ -3,10 +3,9 @@ title: "Section 3402 - Income tax collected at source"
 usc_title: 26
 usc_section: "3402"
 chapter: 24
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 3402"
-generated_at: "2026-03-30T10:02:53.479Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.795Z"
 ---
 
 # § 3402. Income tax collected at source
@@ -34,7 +33,7 @@ status: "active"
   - **(1)** Under rules determined by the Secretary, an employee receiving wages shall on any day be entitled to a withholding allowance determined based on—
     - **(A)** whether the employee is an individual for whom a deduction is allowable with respect to another taxpayer under section 151;
     - **(B)** if the employee is married, whether the employee’s spouse is entitled to an allowance, or would be so entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding allowance certificate claiming such allowance;
-    - **(C)** the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24(a) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
+    - **(C)** the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24 (determined after application of subsection (j) thereof) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
     - **(D)** any additional amounts to which the employee elects to take into account under subsection (m), but only if the employee’s spouse does not have in effect a withholding allowance certificate making such an election;
     - **(E)** the standard deduction allowable to such employee (one-half of such standard deduction in the case of an employee who is married (as determined under section 7703) and whose spouse is an employee receiving wages subject to withholding); and
     - **(F)** whether the employee has withholding allowance certificates in effect with respect to more than 1 employer.

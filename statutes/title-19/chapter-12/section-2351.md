@@ -1,17 +1,14 @@
 ---
-title: "Section 2351 - “Firm” defined"
+title: "Section 2351 - Definitions"
 usc_title: 19
 usc_section: "2351"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2351"
-generated_at: "2026-03-30T10:02:15.878Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.671Z"
 ---
 
-# § 2351. “Firm” defined
+# § 2351. Definitions
 
-For purposes of this part:
+For purposes of this part, the term “firm” includes an individual proprietorship, partnership, joint venture, association, corporation (including a development corporation), business trust, cooperative, trustee in bankruptcy, and receiver under decree of any court. A firm, together with any predecessor or successor firm, or any affiliated firm controlled or substantially beneficially owned by substantially the same persons, may be considered a single firm where necessary to prevent unjustifiable benefits.
 
-  - **(1)** The term “firm” includes an individual proprietorship, partnership, joint venture, association, corporation (including a development corporation), business trust, cooperative, trustee in bankruptcy, and receiver under decree of any court. A firm, together with any predecessor or successor firm, or any affiliated firm controlled or substantially beneficially owned by substantially the same persons, may be considered a single firm where necessary to prevent unjustifiable benefits.
-  - **(2)** The term “service sector firm” means a firm engaged in the business of supplying services.

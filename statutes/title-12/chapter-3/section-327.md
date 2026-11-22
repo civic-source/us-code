@@ -3,10 +3,9 @@ title: "Section 327 - Surrender of stock and cancellation of memberships"
 usc_title: 12
 usc_section: "327"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 327"
-generated_at: "2026-03-30T10:02:11.004Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.378Z"
 ---
 
 # § 327. Surrender of stock and cancellation of memberships

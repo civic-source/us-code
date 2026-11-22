@@ -3,10 +3,9 @@ title: "Section 58 - Transferred"
 usc_title: 2
 usc_section: "58"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 58"
-generated_at: "2026-03-30T10:01:29.364Z"
-status: "transferred"
+generated_at: "2026-03-30T02:53:04.786Z"
 ---
 
 # § 58. Transferred

@@ -3,10 +3,9 @@ title: "Section 8621 - Acceptance and care of gifts to vessels"
 usc_title: 10
 usc_section: "8621"
 chapter: 861
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8621"
-generated_at: "2026-03-30T10:02:00.896Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.246Z"
 ---
 
 # § 8621. Acceptance and care of gifts to vessels

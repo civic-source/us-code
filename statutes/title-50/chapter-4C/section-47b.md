@@ -3,10 +3,9 @@ title: "Section 47b - Determination by Attorney General of entitlement and amoun
 usc_title: 50
 usc_section: "47b"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 47b"
-generated_at: "2026-03-30T10:03:53.179Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.196Z"
 ---
 
 # § 47b. Determination by Attorney General of entitlement and amount of reward; consultation; Presidential approval

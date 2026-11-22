@@ -3,10 +3,9 @@ title: "Section 3501 - Definitions"
 usc_title: 25
 usc_section: "3501"
 chapter: 37
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 3501"
-generated_at: "2026-03-30T10:02:26.286Z"
-status: "active"
+generated_at: "2026-03-30T02:54:52.852Z"
 ---
 
 # § 3501. Definitions
@@ -19,8 +18,10 @@ In this chapter:
     - **(B)** any land not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is held—
       - **(i)** in trust by the United States for the benefit of an Indian tribe or an individual Indian;
       - **(ii)** by an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or
-      - **(iii)** by a dependent Indian community; and
-    - **(C)** land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land.
+      - **(iii)** by a dependent Indian community;
+    - **(C)** land that is owned by an Indian tribe and was conveyed by the United States to a Native Corporation pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), or that was conveyed by the United States to a Native Corporation in exchange for such land;
+    - **(D)** any land located in a census tract in which the majority of residents are Natives (as defined in section 3(b) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(b) )); and
+    - **(E)** any land located in a census tract in which the majority of residents are persons who are enrolled members of a federally recognized Tribe or village.
   - **(3)** The term “Indian reservation” includes—
     - **(A)** an Indian reservation in existence in any State or States as of August 8, 2005 ;
     - **(B)** a public domain Indian allotment; and

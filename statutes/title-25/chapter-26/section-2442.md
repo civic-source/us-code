@@ -3,10 +3,9 @@ title: "Section 2442 - Illegal narcotics traffic on Tohono O’odham and St. Reg
 usc_title: 25
 usc_section: "2442"
 chapter: 26
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 2442"
-generated_at: "2026-03-30T10:02:26.276Z"
-status: "active"
+generated_at: "2026-03-30T02:54:52.841Z"
 ---
 
 # § 2442. Illegal narcotics traffic on Tohono O’odham and St. Regis Reservations; source eradication

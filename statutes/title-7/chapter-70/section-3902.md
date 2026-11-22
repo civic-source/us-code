@@ -3,10 +3,9 @@ title: "Section 3902 - Research program on cancer in animals and birds"
 usc_title: 7
 usc_section: "3902"
 chapter: 70
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3902"
-generated_at: "2026-03-30T10:01:46.789Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.405Z"
 ---
 
 # § 3902. Research program on cancer in animals and birds

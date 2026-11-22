@@ -3,10 +3,9 @@ title: "Section 527 - Evaluation and data collection"
 usc_title: 38
 usc_section: "527"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 527"
-generated_at: "2026-03-30T10:03:11.941Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.472Z"
 ---
 
 # § 527. Evaluation and data collection

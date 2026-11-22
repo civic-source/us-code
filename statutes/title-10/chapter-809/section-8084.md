@@ -3,17 +3,16 @@ title: "Section 8084 - Office of Marine Forces Reserve: appointment of Commander
 usc_title: 10
 usc_section: "8084"
 chapter: 809
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8084"
-generated_at: "2026-03-30T10:02:00.891Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.239Z"
 ---
 
 # § 8084. Office of Marine Forces Reserve: appointment of Commander
 
 - **(a)** There is in the executive part of the Department of the Navy an Office of the Marine Forces Reserve, which is headed by the Commander, Marine Forces Reserve. The Commander, Marine Forces Reserve, is the principal adviser to the Commandant on Marine Forces Reserve matters.
 - **(b)**
-  - **(1)** The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from general officers of the Marine Corps (as defined in section 8001(2)) who have had at least 10 years of commissioned service.
+  - **(1)** The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from general officers of the Marine Corps Reserve who have had at least 10 years of commissioned service.
   - **(2)** The Secretary of Defense may not recommend an officer to the President for appointment as Commander, Marine Forces Reserve, unless the officer—
     - **(A)** is recommended by the Secretary of the Navy; and
     - **(B)** is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.

@@ -3,10 +3,9 @@ title: "Section 41511 - Special prices for foreign air transportation"
 usc_title: 49
 usc_section: "41511"
 chapter: 415
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 41511"
-generated_at: "2026-03-30T10:03:55.095Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.375Z"
 ---
 
 # § 41511. Special prices for foreign air transportation
@@ -24,4 +23,4 @@ status: "active"
   - **(1)** a minister of religion.
   - **(2)** an individual who is at least 60 years of age and no longer gainfully employed.
   - **(3)** an individual who is at least 65 years of age.
-  - **(4)** an individual who has severely impaired vision or hearing or another physical or mental handicap and an accompanying attendant needed by that individual.
+  - **(4)** an individual who has severely impaired vision or hearing or another physical or mental disability and an accompanying attendant needed by that individual.

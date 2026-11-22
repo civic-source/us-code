@@ -3,10 +3,9 @@ title: "Section 2 - Oversight of NSF major multi-user research facility projects
 usc_title: 42
 usc_section: "2"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T10:03:30.105Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.128Z"
 ---
 
 # § 1862s–2. Oversight of NSF major multi-user research facility projects
@@ -67,8 +66,4 @@ status: "active"
   - **(2)** not later than 1 year after January 6, 2017 , notify the appropriate committees of Congress when the Foundation has implemented the recommendations identified in a panel of the National Academy of Public Administration report issued December 2015.
 - **(g)** In this section:
   - **(1)** The term “appropriate committees of Congress” means the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
-  - **(2)** The term “ ‘major multi-user research facility project’ ” 1 1 So in original. The single quotation marks probably should not appear. means a science and engineering facility project that—
-    - **(A)** exceeds the lesser of—
-      - **(i)** 10 percent of a Directorate’s annual budget; or
-      - **(ii)** $100,000,000 in total project costs; or
-    - **(B)** is funded by the major research equipment and facilities construction account, or any successor account.
+  - **(2)** The term “major multi-user research facility project” means a science and engineering facility project that exceeds $100,000,000 in total construction, acquisition, or upgrade costs to the Foundation.

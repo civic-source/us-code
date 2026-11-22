@@ -3,10 +3,9 @@ title: "Section 4071 - Imposition of tax"
 usc_title: 26
 usc_section: "4071"
 chapter: 32
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 4071"
-generated_at: "2026-03-30T10:02:53.482Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.798Z"
 ---
 
 # § 4071. Imposition of tax
@@ -16,4 +15,4 @@ status: "active"
 - **(c)** For the purposes of subsection (a), if an article imported into the United States is equipped with tires—
   - **(1)** the importer of the article shall be treated as the importer of the tires with which such article is equipped, and
   - **(2)** the sale of the article by the importer thereof shall be treated as the sale of the tires with which such article is equipped.
-- **(d)** On and after October 1, 2022 , the taxes imposed by subsection (a) shall not apply.
+- **(d)** On and after October 1, 2028 , the taxes imposed by subsection (a) shall not apply.

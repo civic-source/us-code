@@ -3,10 +3,9 @@ title: "Section 20 - Twelfth replenishment"
 usc_title: 22
 usc_section: "20"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 20"
-generated_at: "2026-03-30T10:02:42.368Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.323Z"
 ---
 
 # § 290g–20. Twelfth replenishment

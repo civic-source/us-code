@@ -3,10 +3,9 @@ title: "Section 1798 - Child care services and youth program services for depend
 usc_title: 10
 usc_section: "1798"
 chapter: 88
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1798"
-generated_at: "2026-03-30T10:02:00.832Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.138Z"
 ---
 
 # § 1798. Child care services and youth program services for dependents: financial assistance for providers
@@ -28,3 +27,4 @@ status: "active"
       - **(v)** conducts a school age child care or youth services program that is owned and operated by a not-for-profit organization; or
       - **(vi)** is a provider of another category of child care services or youth services determined by the Secretary of Defense as appropriate for meeting the needs of members of the armed forces or employees of the Department of Defense.
 - **(c)** To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
+- **(d)** The Secretary shall annually review the amount of financial assistance provided under this section, including the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under this section.

@@ -3,10 +3,9 @@ title: "Section 9017 - Secretary of the Air Force: successors to duties"
 usc_title: 10
 usc_section: "9017"
 chapter: 903
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9017"
-generated_at: "2026-03-30T10:02:00.902Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.255Z"
 ---
 
 # § 9017. Secretary of the Air Force: successors to duties
@@ -17,3 +16,4 @@ If the Secretary of the Air Force dies, resigns, is removed from office, is abse
   - **(2)** The Assistant Secretaries of the Air Force, in the order prescribed by the Secretary of the Air Force and approved by the Secretary of Defense.
   - **(3)** The General Counsel of the Department of the Air Force.
   - **(4)** The Chief of Staff.
+  - **(5)** The Chief of Space Operations.

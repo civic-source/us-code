@@ -3,10 +3,9 @@ title: "Section 4340 - Divestment of trademarks"
 usc_title: 50
 usc_section: "4340"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 4340"
-generated_at: "2026-03-30T10:03:53.246Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.274Z"
 ---
 
 # § 4340. Divestment of trademarks

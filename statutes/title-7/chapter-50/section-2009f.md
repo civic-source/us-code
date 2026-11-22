@@ -3,10 +3,9 @@ title: "Section 2009f - Grants to States"
 usc_title: 7
 usc_section: "2009f"
 chapter: 50
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2009f"
-generated_at: "2026-03-30T10:01:46.752Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.358Z"
 ---
 
 # § 2009f. Grants to States

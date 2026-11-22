@@ -3,16 +3,15 @@ title: "Section 1232 - Reclamation fee"
 usc_title: 30
 usc_section: "1232"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1232"
-generated_at: "2026-03-30T10:02:44.909Z"
-status: "active"
+generated_at: "2026-03-30T02:55:29.397Z"
 ---
 
 # § 1232. Reclamation fee
 
-- **(a)** All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 28 cents per ton of coal produced by surface coal mining and 12 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 8 cents per ton, whichever is less.
-- **(b)** Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977 , and ending September 30, 2021 .
+- **(a)** All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 22.4 cents per ton of coal produced by surface coal mining and 9.6 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 6.4 cents per ton, whichever is less.
+- **(b)** Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977 , and ending September 30, 2034 .
 - **(c)** Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, 1 1 So in original. Probably should be “tipple,”. or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 - **(d)**
   - **(1)** Any person, corporate officer, agent or director, on behalf of a coal mine operator, who knowingly makes any false statement, representation or certification, or knowingly fails to make any statement, representation or certification required in this section shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than one year, or both.
@@ -79,9 +78,9 @@ status: "active"
         - **(I)** the amount that the trustees of the Plan estimate will be expended from the Plan during the next calendar year, to provide benefits no greater than those provided by the Plan as of December 31, 2006 ; over
         - **(II)** the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
       - **(ii)** The excess determined under clause (i) shall be calculated by taking into account only—
-        - **(I)** those beneficiaries actually enrolled in the Plan as of December 20, 2019 , who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
-        - **(II)** those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26 ) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, or 2019; and
-        - **(III)** the cost of administering the resolution of disputes process administered (as of December 20, 2019 ) by the Trustees of the Plan.
+        - **(I)** those beneficiaries actually enrolled in the Plan as of December 27, 2020 , who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries;
+        - **(II)** those beneficiaries whose health benefits, defined as those benefits payable, following death or retirement or upon a finding of disability, directly by an employer in the bituminous coal industry under a coal wage agreement (as defined in section 9701(b)(1) of title 26 ) or a related coal wage agreement, would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012, 2015, 2018, 2019, or any year thereafter, 1 1 So in original. (or, in the case of any such health benefits confirmed in any bankruptcy proceeding, would be subsequently denied or reduced); and
+        - **(III)** the cost of administering the resolution of disputes process administered (as of December 27, 2020 ) by the Trustees of the Plan.
       - **(iii)** Individuals referred to in clause (ii)(II) shall be treated as eligible to receive health benefits under the Plan.
       - **(iv)** The amount of the transfer otherwise determined under this subparagraph for a fiscal year shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii).
       - **(v)** The administrator of such voluntary employees’ beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.
@@ -141,6 +140,7 @@ status: "active"
       - **(i)** each such transfer for the fiscal year is a percentage of the amount described;
       - **(ii)** the amount is determined without regard to subsection (h)(5)(A); and
       - **(iii)** the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
+    - **(C)** The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020.
   - **(4)**
     - **(A)** If the dollar limitation specified in paragraph (3)(A) exceeds the aggregate amount required to be transferred under paragraphs (1) and (2) for a fiscal year, the Secretary of the Treasury shall transfer an additional amount equal to the difference between such dollar limitation and such aggregate amount to the trustees of the 1974 UMWA Pension Plan to pay benefits required under that plan.
     - **(B)** The transfers described in subparagraph (A) shall cease as of the first fiscal year beginning after the first plan year for which the funded percentage (as defined in section 432(j)(2) of title 26 ) of the 1974 UMWA Pension Plan is at least 100 percent.

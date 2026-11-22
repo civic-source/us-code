@@ -3,10 +3,9 @@ title: "Section 580 - Regular warrant officers twice failing of selection for pr
 usc_title: 10
 usc_section: "580"
 chapter: 33
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 580"
-generated_at: "2026-03-30T10:02:00.780Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.067Z"
 ---
 
 # § 580. Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation

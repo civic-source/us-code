@@ -3,10 +3,9 @@ title: "Section 263 - Designation of zone standard times"
 usc_title: 15
 usc_section: "263"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 263"
-generated_at: "2026-03-30T10:02:07.422Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.077Z"
 ---
 
 # § 263. Designation of zone standard times

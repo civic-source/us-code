@@ -3,10 +3,9 @@ title: "Section 10219 - Suicide prevention and resilience program"
 usc_title: 10
 usc_section: "10219"
 chapter: 1007
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 10219"
-generated_at: "2026-03-30T10:02:00.910Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.265Z"
 ---
 
 # § 10219. Suicide prevention and resilience program
@@ -31,4 +30,3 @@ status: "active"
 - **(g)** The Secretary shall evaluate the program every third year beginning in 2022 until the program terminates to determine whether the program effectively—
   - **(1)** provides training and assistance under subsections (b), (c), and (d); and
   - **(2)** implements subsection (e).
-- **(h)** The program under this section shall terminate on October 1, 2025 .

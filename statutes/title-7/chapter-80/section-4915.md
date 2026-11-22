@@ -3,10 +3,9 @@ title: "Section 4915 - Separability"
 usc_title: 7
 usc_section: "4915"
 chapter: 80
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 4915"
-generated_at: "2026-03-30T10:01:46.794Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.413Z"
 ---
 
 # § 4915. Separability

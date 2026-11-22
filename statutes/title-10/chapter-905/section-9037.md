@@ -3,10 +3,9 @@ title: "Section 9037 - Judge Advocate General, Deputy Judge Advocate General: ap
 usc_title: 10
 usc_section: "9037"
 chapter: 905
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9037"
-generated_at: "2026-03-30T10:02:00.902Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.255Z"
 ---
 
 # § 9037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
@@ -25,7 +24,8 @@ status: "active"
   - **(1)** Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
   - **(2)** If the Secretary of the Air Force elects to convene a selection board under section 611(a) of this title to consider eligible officers for selection to appointment as Deputy Judge Advocate General, the Secretary may, in connection with such consideration for selection—
     - **(A)** treat any section in chapter 36 of this title referring to promotion to the next higher grade as if such section referred to promotion to a higher grade; and
-    - **(B)** waive section 619(a)(2) of this title if the Secretary determines that the needs of the Air Force require the waiver.
+    - **(B)** waive section 619(a)(2) of this title if the Secretary determines that the needs of the Air Force or the Space Force require the waiver.
 - **(f)** No officer or employee of the Department of Defense may interfere with—
-  - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Air Force or the Chief of Staff of the Air Force; or
+  - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations; or
   - **(2)** the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
+- **(g)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.

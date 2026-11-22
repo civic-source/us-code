@@ -3,10 +3,9 @@ title: "Section 1976 - Authorization of appropriations"
 usc_title: 22
 usc_section: "1976"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 1976"
-generated_at: "2026-03-30T10:02:42.381Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.340Z"
 ---
 
 # § 1976. Authorization of appropriations

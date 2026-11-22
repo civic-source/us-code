@@ -3,15 +3,14 @@ title: "Section 22 - Conservation stewardship program"
 usc_title: 16
 usc_section: "22"
 chapter: 58
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 22"
-generated_at: "2026-03-30T10:02:22.482Z"
-status: "active"
+generated_at: "2026-03-30T02:54:23.030Z"
 ---
 
 # § 3839aa–22. Conservation stewardship program
 
-- **(a)** During each of fiscal years 2019 through 2023, the Secretary shall carry out a conservation stewardship program to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner—
+- **(a)** During each of fiscal years 2019 through 2031, the Secretary shall carry out a conservation stewardship program to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner—
   - **(1)** by undertaking additional conservation activities; and
   - **(2)** by improving, maintaining, and managing existing conservation activities.
 - **(b)**

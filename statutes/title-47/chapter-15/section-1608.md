@@ -3,10 +3,9 @@ title: "Section 1608 - Definitions"
 usc_title: 47
 usc_section: "1608"
 chapter: 15
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 1608"
-generated_at: "2026-03-30T10:03:39.413Z"
-status: "active"
+generated_at: "2026-03-30T02:56:24.537Z"
 ---
 
 # § 1608. Definitions
@@ -29,6 +28,10 @@ In this chapter:
   - **(7)** The term “executive branch interagency body” means an interagency body established in the executive branch.
   - **(8)** The term “person” means an individual or entity.
   - **(9)** The term “Program” means the Secure and Trusted Communications Networks Reimbursement Program established under section 1603(a) of this title .
-  - **(10)** The term “provider of advanced communications service” means a person who provides advanced communications service to United States customers.
+  - **(10)** The term “provider of advanced communications service”—
+    - **(A)** means a person who provides advanced communications service to United States customers; and
+    - **(B)** includes—
+      - **(i)** accredited public or private noncommercial educational institutions, providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation; and
+      - **(ii)** health care providers and libraries providing advanced communications service.
   - **(11)** The term “recipient” means any provider of advanced communications service the application of which for a reimbursement under the Program has been approved by the Commission, regardless of whether the provider has received reimbursement funds.
   - **(12)** The term “reimbursement funds” means any reimbursement received under the Program.

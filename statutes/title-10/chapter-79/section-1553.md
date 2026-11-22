@@ -3,10 +3,9 @@ title: "Section 1553 - Review of discharge or dismissal"
 usc_title: 10
 usc_section: "1553"
 chapter: 79
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1553"
-generated_at: "2026-03-30T10:02:00.826Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.128Z"
 ---
 
 # § 1553. Review of discharge or dismissal
@@ -19,7 +18,7 @@ status: "active"
 - **(d)**
   - **(1)**
     - **(A)** In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable).
-    - **(B)** In the case of a former member described in paragraph (3)(B) who claims that the former member’s post-traumatic stress disorder or traumatic brain injury as described in that paragraph in 1 1 So in original. Probably should be “is”. based in whole or in part on sexual trauma, intimate partner violence, or spousal abuse, a board established under this section to review the former member’s discharge or dismissal shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
+    - **(B)** In the case of a former member described in paragraph (3)(B) who claims that the former member’s post-traumatic stress disorder or traumatic brain injury as described in that paragraph is based in whole or in part on sexual trauma, intimate partner violence, or spousal abuse, a board established under this section to review the former member’s discharge or dismissal shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
   - **(2)** In the case of a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale or as justification for priority consideration, the Secretary concerned shall expedite a final decision and shall accord such cases sufficient priority to achieve an expedited resolution. In determining the priority of cases, the Secretary concerned shall weigh the medical and humanitarian circumstances of all cases and accord higher priority to cases not involving post-traumatic stress disorder or traumatic brain injury only when the individual cases are considered more compelling.
   - **(3)**
     - **(A)** In addition to the requirements of paragraphs (1) and (2), in the case of a former member described in subparagraph (B), the Board shall—

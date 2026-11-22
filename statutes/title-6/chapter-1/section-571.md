@@ -3,17 +3,16 @@ title: "Section 571 - Emergency Communications Division"
 usc_title: 6
 usc_section: "571"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 571"
-generated_at: "2026-03-30T10:01:43.251Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.469Z"
 ---
 
 # § 571. Emergency Communications Division
 
 - **(a)** There is established in the Department an Emergency Communications Division. The Division shall be located in the Cybersecurity and Infrastructure Security Agency.
-- **(b)** The head of the Division shall be the Assistant Director for Emergency Communications. The Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
-- **(c)** The Assistant Director for Emergency Communications shall—
+- **(b)** The head of the Division shall be the Executive Assistant Director for Emergency Communications (in this section referred to as the “Executive Assistant Director”). The Executive Assistant Director shall report to the Director of the Cybersecurity and Infrastructure Security Agency. All decisions of the Executive Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of the Cybersecurity and Infrastructure Security Agency.
+- **(c)** The Executive Assistant Director shall—
   - **(1)** assist the Secretary in developing and implementing the program described in section 194(a)(1) of this title , except as provided in section 195 of this title ;
   - **(2)** administer the Department’s responsibilities and authorities relating to the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards;
   - **(3)** administer the Department’s responsibilities and authorities relating to the Integrated Wireless Network program;
@@ -30,13 +29,14 @@ status: "active"
   - **(14)** perform such other duties of the Department necessary to support and promote the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
   - **(15)** perform other duties of the Department necessary to achieve the goal of and maintain and enhance interoperable emergency communications capabilities; and
   - **(16)** fully participate in the mechanisms required under section 652(c)(7) of this title .
-- **(d)** The Secretary shall transfer to, and administer through, the Assistant Director for Emergency Communications the following programs and responsibilities:
+- **(d)** The Secretary shall transfer to, and administer through, the Executive Assistant Director the following programs and responsibilities:
   - **(1)** The SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards.
   - **(2)** The responsibilities of the Chief Information Officer related to the implementation of the Integrated Wireless Network.
   - **(3)** The Interoperable Communications Technical Assistance Program.
-- **(e)** The Assistant Director for Emergency Communications shall coordinate—
+- **(e)** The Executive Assistant Director shall coordinate—
   - **(1)** as appropriate, with the Director of the Office for Interoperability and Compatibility with respect to the responsibilities described in section 195 of this title ; and
   - **(2)** with the Administrator of the Federal Emergency Management Agency with respect to the responsibilities described in this subchapter.
 - **(f)**
   - **(1)** Not later than 120 days after October 4, 2006 , the Secretary shall submit to Congress a report on the resources and staff necessary to carry out fully the responsibilities under this subchapter.
   - **(2)** The Comptroller General shall review the validity of the report submitted by the Secretary under paragraph (1). Not later than 60 days after the date on which such report is submitted, the Comptroller General shall submit to Congress a report containing the findings of such review.
+- **(g)** Any reference to the Assistant Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Emergency Communications.

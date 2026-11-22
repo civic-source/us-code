@@ -3,10 +3,9 @@ title: "Section 16277 - High-performance computation and supportive research"
 usc_title: 42
 usc_section: "16277"
 chapter: 149
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 16277"
-generated_at: "2026-03-30T10:03:30.394Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.476Z"
 ---
 
 # § 16277. High-performance computation and supportive research
@@ -21,3 +20,6 @@ status: "active"
 - **(c)** The Secretary shall consider support for additional research activities to maximize the utility of the research facilities of the Department, including physical processes—
   - **(1)** to simulate degradation of materials and behavior of fuel forms; and
   - **(2)** for validation of computational tools.
+- **(d)** The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of the program under subsection (a) with the activities of—
+  - **(1)** other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency–Energy, and the Advanced Scientific Computing Research program; and
+  - **(2)** industry.

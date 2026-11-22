@@ -3,17 +3,16 @@ title: "Section 9013 - Secretary of the Air Force"
 usc_title: 10
 usc_section: "9013"
 chapter: 903
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9013"
-generated_at: "2026-03-30T10:02:00.901Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.254Z"
 ---
 
 # § 9013. Secretary of the Air Force
 
 - **(a)**
   - **(1)** There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Air Force.
-  - **(2)** A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
+  - **(2)** A person may not be appointed as Secretary of the Air Force within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 - **(b)** Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Air Force is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Air Force, including the following functions:
   - **(1)** Recruiting.
   - **(2)** Organizing.
@@ -37,8 +36,8 @@ status: "active"
   - **(7)** the effective supervision and control of the intelligence activities of the Department of the Air Force.
 - **(d)** The Secretary of the Air Force is also responsible for such other activities as may be prescribed by law or by the President or Secretary of Defense.
 - **(e)** After first informing the Secretary of Defense, the Secretary of the Air Force may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
-- **(f)** The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
+- **(f)** The Secretary of the Air Force may assign such of his functions, powers, and duties as he considers appropriate to the Under Secretary of the Air Force and to the Assistant Secretaries of the Air Force. Officers of the Air Force and officers of the Space Force shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary, or any Assistant Secretary.
 - **(g)** The Secretary of the Air Force may—
-  - **(1)** assign, detail, and prescribe the duties of members of the Air Force and civilian personnel of the Department of the Air Force;
+  - **(1)** assign, detail, and prescribe the duties of members of the Air Force, members of the Space Force, and civilian personnel of the Department of the Air Force;
   - **(2)** change the title of any officer or activity of the Department of the Air Force not prescribed by law; and
   - **(3)** prescribe regulations to carry out his functions, powers, and duties under this title.

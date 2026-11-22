@@ -3,10 +3,9 @@ title: "Section 143 - Highway use tax evasion projects"
 usc_title: 23
 usc_section: "143"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 143"
-generated_at: "2026-03-30T10:02:25.284Z"
-status: "active"
+generated_at: "2026-03-30T02:55:12.558Z"
 ---
 
 # § 143. Highway use tax evasion projects
@@ -15,7 +14,7 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary shall carry out highway use tax evasion projects in accordance with this subsection.
   - **(2)**
-    - **(A)** From administrative funds made available under section 104(a), the Secretary may deduct such sums as are necessary, not to exceed $4,000,000 for each of fiscal years 2016 through 2020, to carry out this section.
+    - **(A)** From administrative funds made available under section 104(a), the Secretary may deduct such sums as are necessary, not to exceed $4,000,000 for each of fiscal years 2022 through 2026, to carry out this section.
     - **(B)** Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary, except that of funds so made available for each fiscal year, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.
   - **(3)** Except as otherwise provided in this section, the Secretary shall not impose any condition on the use of funds allocated to the Internal Revenue Service under this subsection.
   - **(4)** Funds made available to carry out this section shall be used only—

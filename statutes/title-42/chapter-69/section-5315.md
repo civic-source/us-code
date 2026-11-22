@@ -3,10 +3,9 @@ title: "Section 5315 - Interstate agreements or compacts; purposes"
 usc_title: 42
 usc_section: "5315"
 chapter: 69
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5315"
-generated_at: "2026-03-30T10:03:30.192Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.231Z"
 ---
 
 # § 5315. Interstate agreements or compacts; purposes

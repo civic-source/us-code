@@ -3,24 +3,31 @@ title: "Section 652 - Cybersecurity and Infrastructure Security Agency"
 usc_title: 6
 usc_section: "652"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 652"
-generated_at: "2026-03-30T10:01:43.256Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.474Z"
 ---
 
 # § 652. Cybersecurity and Infrastructure Security Agency
 
 - **(a)**
-  - **(1)** The National Protection and Programs Directorate of the Department shall, on and after November 16, 2018 , be known as the “Cybersecurity and Infrastructure Security Agency” (in this part referred to as the “Agency”).
+  - **(1)** The National Protection and Programs Directorate of the Department shall, on and after November 16, 2018 , be known as the “Cybersecurity and Infrastructure Security Agency”.
   - **(2)** Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Security Agency of the Department.
 - **(b)**
-  - **(1)** The Agency shall be headed by a Director of Cybersecurity and Infrastructure Security (in this part referred to as the “Director”), who shall report to the Secretary.
-  - **(2)** Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018 , in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of Cybersecurity and Infrastructure Security of the Department.
+  - **(1)** The Agency shall be headed by the Director, who shall report to the Secretary.
+  - **(2)**
+    - **(A)** The Director shall be appointed from among individuals who have—
+      - **(i)** extensive knowledge in at least two of the areas specified in subparagraph (B); and
+      - **(ii)** not fewer than five years of demonstrated experience in efforts to foster coordination and collaboration between the Federal Government, the private sector, and other entities on issues related to cybersecurity, infrastructure security, or security risk management.
+    - **(B)** The areas specified in this subparagraph are the following:
+      - **(i)** Cybersecurity.
+      - **(ii)** Infrastructure security.
+      - **(iii)** Security risk management.
+  - **(3)** Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018 , in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of the Cybersecurity and Infrastructure Security Agency.
 - **(c)** The Director shall—
   - **(1)** lead cybersecurity and critical infrastructure security programs, operations, and associated policy for the Agency, including national cybersecurity asset response activities;
   - **(2)** coordinate with Federal entities, including Sector-Specific Agencies, and non-Federal entities, including international entities, to carry out the cybersecurity and critical infrastructure activities of the Agency, as appropriate;
-  - **(3)** carry out the responsibilities of the Secretary to secure Federal information and information systems consistent with law, including subchapter II of chapter 35 of title 44 and the Cybersecurity Act of 2015 (contained in division N of the Consolidated Appropriations Act, 2016 ( Public Law 114–113 ));
+  - **(3)** carry out the responsibilities of the Secretary to secure Federal information and information systems consistent with law, including subchapter II of chapter 35 of title 44 and the Cybersecurity Act of 2015 (contained in division N of the Consolidated Appropriations Act, 2016 ( Public Law 114–113 )), including by carrying out a periodic strategic assessment of the related programs and activities of the Agency to ensure such programs and activities contemplate the innovation of information systems and changes in cybersecurity risks and cybersecurity threats;
   - **(4)** coordinate a national effort to secure and protect against critical infrastructure risks, consistent with subsection (e)(1)(E);
   - **(5)** upon request, provide analyses, expertise, and other technical assistance to critical infrastructure owners and operators and, where appropriate, provide those analyses, expertise, and other technical assistance in coordination with Sector-Specific Agencies and other Federal departments and agencies;
   - **(6)** develop and utilize mechanisms for active and frequent collaboration between the Agency and Sector-Specific Agencies to ensure appropriate coordination, situational awareness, and communications with Sector-Specific Agencies;
@@ -29,9 +36,12 @@ status: "active"
     - **(A)** comprehensive strategic plans for the activities of the Agency; and
     - **(B)** risk assessments by and for the Agency;
   - **(9)** carry out emergency communications responsibilities, in accordance with subchapter XIII;
-  - **(10)** carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate; and
-  - **(11)** carry out such other duties and powers prescribed by law or delegated by the Secretary.
-- **(d)** There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructure Security who shall—
+  - **(10)** carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate;
+  - **(11)** provide education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security;
+  - **(12)** appoint a Cybersecurity State Coordinator in each State, as described in section 665c of this title ;
+  - **(13)** carry out the duties and authorities relating to the .gov internet domain, as described in section 665 of this title ; and
+  - **(14)** carry out such other duties and powers prescribed by law or delegated by the Secretary.
+- **(d)** There shall be in the Agency a Deputy Director of the Cybersecurity and Infrastructure Security Agency who shall—
   - **(1)** assist the Director in the management of the Agency; and
   - **(2)** report to the Director.
 - **(e)**
@@ -56,6 +66,13 @@ status: "active"
     - **(O)** To exercise the authorities and oversight of the functions, personnel, assets, and liabilities of those components transferred to the Department pursuant to section 121(g) of this title .
     - **(P)** To carry out the functions of the national cybersecurity and communications integration center under section 659 of this title .
     - **(Q)** To carry out the requirements of the Chemical Facility Anti-Terrorism Standards Program established under subchapter XVI and the secure handling of ammonium nitrate program established under part J of subchapter VIII, or any successor programs.
+    - **(R)** To encourage and build cybersecurity awareness and competency across the United States and to develop, attract, and retain the cybersecurity workforce necessary for the cybersecurity related missions of the Department, including by—
+      - **(i)** overseeing elementary and secondary cybersecurity education and awareness related programs at the Agency;
+      - **(ii)** leading efforts to develop, attract, and retain the cybersecurity workforce necessary for the cybersecurity related missions of the Department;
+      - **(iii)** encouraging and building cybersecurity awareness and competency across the United States; and
+      - **(iv)** carrying out cybersecurity related workforce development activities, including through—
+        - **(I)** increasing the pipeline of future cybersecurity professionals through programs focused on elementary and secondary education, postsecondary education, and workforce development; and
+        - **(II)** building awareness of and competency in cybersecurity across the civilian Federal Government workforce.
   - **(2)** The Secretary may reallocate within the Agency the functions specified in sections 653(b) and 654(b) of this title, consistent with the responsibilities provided in paragraph (1), upon certifying to and briefing the appropriate congressional committees, and making available to the public, at least 60 days prior to the reallocation that the reallocation is necessary for carrying out the activities of the Agency.
   - **(3)**
     - **(A)** The Secretary shall provide the Agency with a staff of analysts having appropriate expertise and experience to assist the Agency in discharging the responsibilities of the Agency under this section.
@@ -75,9 +92,9 @@ status: "active"
     - **(C)** The Secretary and the head of a Federal agency described in subparagraph (B) may enter into agreements for the purpose of detailing personnel under this paragraph.
     - **(D)** The detail of personnel under this paragraph may be on a reimbursable or non-reimbursable basis.
 - **(f)** The Agency shall be composed of the following divisions:
-  - **(1)** The Cybersecurity Division, headed by an Assistant Director.
-  - **(2)** The Infrastructure Security Division, headed by an Assistant Director.
-  - **(3)** The Emergency Communications Division under subchapter XIII, headed by an Assistant Director.
+  - **(1)** The Cybersecurity Division, headed by an Executive Assistant Director.
+  - **(2)** The Infrastructure Security Division, headed by an Executive Assistant Director.
+  - **(3)** The Emergency Communications Division under subchapter XIII, headed by an Executive Assistant Director.
 - **(g)**
   - **(1)** To the maximum extent practicable, the Director shall examine the establishment of central locations in geographical regions with a significant Agency presence.
   - **(2)** When establishing the central locations described in paragraph (1), the Director shall coordinate with component heads and the Under Secretary for Management to co-locate or partner on any new real property leases, renewing any occupancy agreements for existing leases, or agreeing to extend or newly occupy any Federal space or new construction.
@@ -88,4 +105,4 @@ status: "active"
     - **(B)** assuring that personal information contained in systems of records of the Agency is handled in full compliance as specified in section 552a of title 5 (commonly known as the “Privacy Act of 1974”);
     - **(C)** evaluating legislative and regulatory proposals involving collection, use, and disclosure of personal information by the Agency; and
     - **(D)** conducting a privacy impact assessment of proposed rules of the Agency on the privacy of personal information, including the type of personal information collected and the number of people affected.
-- **(i)** Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018 , of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note; Public Law 114–94 ).
+- **(i)** Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018 , of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note; Public Law 114–94 ).

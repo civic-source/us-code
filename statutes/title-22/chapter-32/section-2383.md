@@ -3,10 +3,9 @@ title: "Section 2383 - Responsibilities of the Secretary of Defense; priorities 
 usc_title: 22
 usc_section: "2383"
 chapter: 32
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2383"
-generated_at: "2026-03-30T10:02:42.400Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.363Z"
 ---
 
 # § 2383. Responsibilities of the Secretary of Defense; priorities in procurement, delivery, and allocation of military equipment

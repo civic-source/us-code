@@ -3,10 +3,9 @@ title: "Section 485 - Information sharing"
 usc_title: 6
 usc_section: "485"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 485"
-generated_at: "2026-03-30T10:01:43.248Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.467Z"
 ---
 
 # § 485. Information sharing
@@ -25,11 +24,11 @@ status: "active"
     - **(B)** includes weapons of mass destruction information.
   - **(6)** The term “weapons of mass destruction information” means information that could reasonably be expected to assist in the development, proliferation, or use of a weapon of mass destruction (including a chemical, biological, radiological, or nuclear weapon) that could be used by a terrorist or a terrorist organization against the United States, including information about the location of any stockpile of nuclear materials that could be exploited for use in such a weapon that could be used by a terrorist or a terrorist organization against the United States.
 - **(b)**
-  - **(1)** The Director of National Intelligence shall—
+  - **(1)** The President shall—
     - **(A)** create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
     - **(B)** designate the organizational and management structures that will be used to operate and manage the ISE; and
     - **(C)** determine and enforce the policies, directives, and rules that will govern the content and usage of the ISE.
-  - **(2)** The Director of National Intelligence shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The Director of National Intelligence shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
+  - **(2)** The President shall, through the structures described in subparagraphs (B) and (C) of paragraph (1), ensure that the ISE provides and facilitates the means for sharing terrorism information among all appropriate Federal, State, local, and tribal entities, and the private sector through the use of policy guidelines and technologies. The President shall, to the greatest extent practicable, ensure that the ISE provides the functional equivalent of, or otherwise supports, a decentralized, distributed, and coordinated environment that—
     - **(A)** connects existing systems, where appropriate, provides no single points of failure, and allows users to share information among agencies, between levels of government, and, as appropriate, with the private sector;
     - **(B)** ensures direct and continuous online electronic access to information;
     - **(C)** facilitates the availability of information in a form and manner that facilitates its use in analysis, investigations and operations;
@@ -45,6 +44,9 @@ status: "active"
     - **(M)** permits analysts to collaborate both independently and in a group (commonly known as “collective and noncollective collaboration”), and across multiple levels of national security information and controlled unclassified information;
     - **(N)** provides a resolution process that enables changes by authorized officials regarding rules and policies for the access, use, and retention of information within the scope of the information sharing environment; and
     - **(O)** incorporates continuous, real-time, and immutable audit capabilities, to the maximum extent practicable.
+  - **(3)**
+    - **(A)** Subject to subparagraph (B), the President may delegate responsibility for carrying out this subsection.
+    - **(B)** The President may not delegate responsibility for carrying out this subsection to the Director of National Intelligence.
 - **(c)** Not later than 180 days after December 17, 2004 , the program manager shall, in consultation with the Information Sharing Council—
   - **(1)** submit to the President and Congress a description of the technological, legal, and policy issues presented by the creation of the ISE, and the way in which these issues will be addressed;
   - **(2)** establish an initial capability to provide electronic directory services, or the functional equivalent, to assist in locating in the Federal Government intelligence and terrorism information and people with relevant knowledge about intelligence and terrorism information; and
@@ -102,27 +104,14 @@ status: "active"
     - **(H)** identify appropriate personnel for assignment to the program manager to support staffing needs identified by the program manager; and
     - **(I)** recommend whether or not, and by which means, the ISE should be expanded so as to allow future expansion encompassing other relevant categories of information.
   - **(3)** In performing its duties, the Information Sharing Council shall consider input from persons and entities outside the Federal Government having significant experience and expertise in policy, technical matters, and operational matters relating to the ISE.
-  - **(4)** The Information Sharing Council (including any subsidiary group of the Information Sharing Council) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(4)** The Information Sharing Council (including any subsidiary group of the Information Sharing Council) shall not be subject to the requirements of chapter 10 of title 5.
   - **(5)** Upon a request by the Director of National Intelligence, the departments and agencies represented on the Information Sharing Council shall detail to the program manager, on a reimbursable basis, appropriate personnel identified under paragraph (2)(H).
-- **(h)**
-  - **(1)** Not later than two years after December 17, 2004 , and not later than June 30 of each year thereafter, the President shall submit to Congress a report on the state of the ISE and of information sharing across the Federal Government.
-  - **(2)** Each report under this subsection shall include—
-    - **(A)** a progress report on the extent to which the ISE has been implemented, including how the ISE has fared on the performance measures and whether the performance goals set in the preceding year have been met;
-    - **(B)** objective system-wide performance goals for the following year;
-    - **(C)** an accounting of how much was spent on the ISE in the preceding year;
-    - **(D)** actions taken to ensure that procurement of and investments in systems and technology are consistent with the implementation plan for the ISE;
-    - **(E)** the extent to which all terrorism watch lists are available for combined searching in real time through the ISE and whether there are consistent standards for placing individuals on, and removing individuals from, the watch lists, including the availability of processes for correcting errors;
-    - **(F)** the extent to which State, tribal, and local officials are participating in the ISE;
-    - **(G)** the extent to which private sector data, including information from owners and operators of critical infrastructure, is incorporated in the ISE, and the extent to which individuals and entities outside the government are receiving information through the ISE;
-    - **(H)** the measures taken by the Federal government to ensure the accuracy of information in the ISE, in particular the accuracy of information about individuals;
-    - **(I)** an assessment of the privacy and civil liberties protections of the ISE, including actions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
-    - **(J)** an assessment of the security protections used in the ISE.
-- **(i)** The head of each department or agency that possesses or uses intelligence or terrorism information, operates a system in the ISE, or otherwise participates (or expects to participate) in the ISE shall—
+- **(h)** The head of each department or agency that possesses or uses intelligence or terrorism information, operates a system in the ISE, or otherwise participates (or expects to participate) in the ISE shall—
   - **(1)** ensure full department or agency compliance with information sharing policies, procedures, guidelines, rules, and standards established under subsections (b) and (f);
   - **(2)** ensure the provision of adequate resources for systems and activities supporting operation of and participation in the ISE;
   - **(3)** ensure full department or agency cooperation in the development of the ISE to implement governmentwide information sharing; and
   - **(4)** submit, at the request of the President or the program manager, any reports on the implementation of the requirements of the ISE within such department or agency.
-- **(j)**
+- **(i)**
   - **(1)** Not later than 180 days after August 3, 2007 , the President shall report to the Committee on Homeland Security and Governmental Affairs of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Homeland Security of the House of Representatives, and the Permanent Select Committee on Intelligence of the House of Representatives on the feasibility of—
     - **(A)** eliminating the use of any marking or process (including “Originator Control”) intended to, or having the effect of, restricting the sharing of information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, between and among participants in the information sharing environment, unless the President has—
       - **(i)** specifically exempted categories of information from such elimination; and
@@ -133,9 +122,9 @@ status: "active"
       - **(i)** the use of such information is reasonably expected to produce results materially equivalent to the use of information that is transferred or stored in a non-anonymized form; and
       - **(ii)** such use is consistent with any mission of that department, agency, or component (including any mission under a Federal statute or directive of the President) that involves the storage, retention, sharing, or exchange of personally identifiable information.
   - **(2)** In this subsection, the term “anonymized data” means data in which the individual to whom the data pertains is not identifiable with reasonable efforts, including information that has been encrypted or hidden through the use of other technology.
-- **(k)** The program manager is authorized to hire not more than 40 full-time employees to assist the program manager in—
+- **(j)** The program manager is authorized to hire not more than 40 full-time employees to assist the program manager in—
   - **(1)** activities associated with the implementation of the information sharing environment, including—
     - **(A)** implementing the requirements under subsection (b)(2); and
     - **(B)** any additional implementation initiatives to enhance and expedite the creation of the information sharing environment; and
   - **(2)** identifying and resolving information sharing disputes between Federal departments, agencies, and components under subsection (f)(2)(A)(iv).
-- **(l)** There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
+- **(k)** There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.

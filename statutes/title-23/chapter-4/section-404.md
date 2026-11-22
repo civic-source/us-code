@@ -3,15 +3,14 @@ title: "Section 404 - High-visibility enforcement program"
 usc_title: 23
 usc_section: "404"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 404"
-generated_at: "2026-03-30T10:02:25.292Z"
-status: "active"
+generated_at: "2026-03-30T02:55:12.570Z"
 ---
 
 # § 404. High-visibility enforcement program
 
-- **(a)** The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2016 through 2020.
+- **(a)** The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
 - **(b)** The purpose of each campaign carried out under this section shall be to achieve outcomes related to not less than 1 of the following objectives:
   - **(1)** Reduce alcohol-impaired or drug-impaired operation of motor vehicles.
   - **(2)** Increase use of seatbelts by occupants of motor vehicles.

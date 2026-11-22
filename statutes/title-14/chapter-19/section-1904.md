@@ -1,29 +1,20 @@
 ---
-title: "Section 1904 - Participation in Federal, State, or other educational research grants"
+title: "Section 1904 - Advisory Board on Women at the Coast Guard Academy"
 usc_title: 14
 usc_section: "1904"
 chapter: 19
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 1904"
-generated_at: "2026-03-30T10:02:03.980Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.496Z"
 ---
 
-# § 1904. Participation in Federal, State, or other educational research grants
+# § 1904. Advisory Board on Women at the Coast Guard Academy
 
-- **(a)** Notwithstanding any other provision of law, the United States Coast Guard Academy may compete for and accept Federal, State, or other educational research grants, subject to the following limitations:
-  - **(1)** No award may be accepted for the acquisition or construction of facilities.
-  - **(2)** No award may be accepted for the routine functions of the Academy.
-- **(b)**
-  - **(1)** The Commandant may—
-    - **(A)** enter into a contract, cooperative agreement, lease, or licensing agreement with a qualified organization;
-    - **(B)** allow a qualified organization to use, at no cost, personal property of the Coast Guard; and
-    - **(C)** notwithstanding section 504, accept funds, supplies, and services from a qualified organization.
-  - **(2)** Notwithstanding chapter 65 of title 31 and chapter 137 of title 10, the Commandant may enter into a contract or cooperative agreement under paragraph (1)(A) on a sole-source basis.
-  - **(3)** The Commandant shall ensure that contributions under this subsection do not—
-    - **(A)** reflect unfavorably on the ability of the Coast Guard, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
-    - **(B)** compromise the integrity or appearance of integrity of any program of the Coast Guard, or any individual involved in such a program.
-  - **(4)** For purposes of this subsection, employees or personnel of a qualified organization shall not be employees of the United States.
-  - **(5)** In this subsection the term “qualified organization” means an organization—
-    - **(A)** described under section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code; and
-    - **(B)** established by the Coast Guard Academy Alumni Association solely for the purpose of supporting academic research and applying for and administering Federal, State, or other educational research grants on behalf of the Coast Guard Academy.
+- **(a)** The Superintendent of the Academy shall establish at the Coast Guard Academy an advisory board to be known as the Advisory Board on Women at the Coast Guard Academy (referred to in this section as the “Advisory Board”).
+- **(b)** The Advisory Board shall be composed of not fewer than 12 current cadets of the Coast Guard Academy, including not fewer than 3 cadets from each current class.
+- **(c)** Cadets shall serve on the Advisory Board pursuant to appointment by the Superintendent of the Academy. Appointments shall be made not later than 60 days after the date of the swearing in of a new class of cadets at the Academy. The term of membership of a cadet on the Advisory Board shall be 1 academic year.
+- **(d)** The Superintendent of the Academy may reappoint not more than 6 cadets from the previous term to serve on the Advisory Board for an additional academic year if the Superintendent of the Academy determines such reappointment to be in the best interests of the Coast Guard Academy.
+- **(e)** The Advisory Board shall meet with the Commandant at least once each academic year on the activities of the Advisory Board. The Advisory Board shall meet in person with the Superintendent of the Academy not less than twice each academic year on the duties of the Advisory Board.
+- **(f)** The Advisory Board shall identify opportunities and challenges facing cadets at the Academy who are women, including an assessment of culture, leadership development, and access to health care of cadets at the Academy who are women.
+- **(g)** The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of cadets at the Academy who are not current members of the Advisory Board.
+- **(h)** The Advisory Board shall regularly provide the Commandant and the Superintendent reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both.

@@ -3,15 +3,14 @@ title: "Section 655 - Enhancement of Federal and non-Federal cybersecurity"
 usc_title: 6
 usc_section: "655"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 655"
-generated_at: "2026-03-30T10:01:43.256Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.474Z"
 ---
 
 # § 655. Enhancement of Federal and non-Federal cybersecurity
 
-In carrying out the responsibilities under section 652 of this title , the Director of Cybersecurity and Infrastructure Security shall—
+In carrying out the responsibilities under section 652 of this title , the Director of the Cybersecurity and Infrastructure Security Agency shall—
 
   - **(1)** as appropriate, provide to State and local government entities, and upon request to private entities that own or operate critical information systems—
     - **(A)** analysis and warnings related to threats to, and vulnerabilities of, critical information systems; and

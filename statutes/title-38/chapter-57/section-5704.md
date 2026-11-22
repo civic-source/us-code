@@ -3,10 +3,9 @@ title: "Section 5704 - Transcript of trial records"
 usc_title: 38
 usc_section: "5704"
 chapter: 57
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 5704"
-generated_at: "2026-03-30T10:03:11.985Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.522Z"
 ---
 
 # § 5704. Transcript of trial records

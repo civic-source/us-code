@@ -3,10 +3,9 @@ title: "Section 50504 - Use of Government facilities"
 usc_title: 51
 usc_section: "50504"
 chapter: 505
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "51 U.S.C. § 50504"
-generated_at: "2026-03-30T10:03:57.528Z"
-status: "active"
+generated_at: "2026-03-30T02:56:28.707Z"
 ---
 
 # § 50504. Use of Government facilities

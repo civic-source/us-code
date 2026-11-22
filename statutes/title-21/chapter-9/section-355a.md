@@ -3,10 +3,9 @@ title: "Section 355a - Pediatric studies of drugs"
 usc_title: 21
 usc_section: "355a"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 355a"
-generated_at: "2026-03-30T10:02:39.020Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.237Z"
 ---
 
 # § 355a. Pediatric studies of drugs
@@ -29,8 +28,8 @@ status: "active"
   - **(1)** Except as provided in paragraph (2), if the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under section 355(b)(1) of this title for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(4)—
     - **(A)**
       - **(i)**
-        - **(I)** the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title , and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
-        - **(II)** the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
+        - **(I)** the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title , and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectiv ely; or
+        - **(II)** the period referred to in clauses (iii) and (iv) of subsection (c)(3)(E) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
       - **(ii)** if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
     - **(B)**
       - **(i)** if the drug is the subject of—

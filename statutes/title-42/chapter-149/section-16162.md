@@ -3,10 +3,9 @@ title: "Section 16162 - Technology transfer"
 usc_title: 42
 usc_section: "16162"
 chapter: 149
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 16162"
-generated_at: "2026-03-30T10:03:30.391Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.471Z"
 ---
 
 # § 16162. Technology transfer

@@ -3,10 +3,9 @@ title: "Section 12004 - Energy efficiency authorizations"
 usc_title: 42
 usc_section: "12004"
 chapter: 125
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12004"
-generated_at: "2026-03-30T10:03:30.338Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.407Z"
 ---
 
 # § 12004. Energy efficiency authorizations

@@ -3,10 +3,9 @@ title: "Section 2001 - Definitions"
 usc_title: 29
 usc_section: "2001"
 chapter: 22
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 2001"
-generated_at: "2026-03-30T10:02:46.189Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.741Z"
 ---
 
 # § 2001. Definitions

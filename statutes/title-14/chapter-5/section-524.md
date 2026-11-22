@@ -3,10 +3,9 @@ title: "Section 524 - Enforcement of coastwise trade laws"
 usc_title: 14
 usc_section: "524"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 524"
-generated_at: "2026-03-30T10:02:03.976Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.489Z"
 ---
 
 # § 524. Enforcement of coastwise trade laws

@@ -3,10 +3,9 @@ title: "Section 6425 - Adjustment of overpayment of estimated income tax by corp
 usc_title: 26
 usc_section: "6425"
 chapter: 65
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6425"
-generated_at: "2026-03-30T10:02:53.530Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.854Z"
 ---
 
 # § 6425. Adjustment of overpayment of estimated income tax by corporation
@@ -26,8 +25,9 @@ status: "active"
 - **(c)** For purposes of this section and section 6655(h) (relating to excessive adjustment)—
   - **(1)** The term “income tax liability” means the excess of—
     - **(A)** the sum of—
-      - **(i)** the tax imposed by section 11, or subchapter L of chapter 1, whichever is applicable, plus
-      - **(ii)** the tax imposed by section 59A, over
+      - **(i)** the tax imposed by section 11 or subchapter L of chapter 1, whichever is applicable, plus
+      - **(ii)** the tax imposed by section 55, plus
+      - **(iii)** the tax imposed by section 59A, over
     - **(B)** the credits against tax provided by part IV of subchapter A of chapter 1.
   - **(2)** The amount of an adjustment under this section is equal to the excess of—
     - **(A)** the estimated income tax paid by the corporation during the taxable year, over

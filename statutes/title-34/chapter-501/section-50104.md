@@ -3,10 +3,9 @@ title: "Section 50104 - Prohibition of discrimination"
 usc_title: 34
 usc_section: "50104"
 chapter: 501
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 50104"
-generated_at: "2026-03-30T10:03:07.042Z"
-status: "active"
+generated_at: "2026-03-30T02:55:33.314Z"
 ---
 
 # § 50104. Prohibition of discrimination

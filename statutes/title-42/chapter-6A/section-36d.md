@@ -3,10 +3,9 @@ title: "Section 36d - Treatment Referral Routing Service"
 usc_title: 42
 usc_section: "36d"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 36d"
-generated_at: "2026-03-30T10:03:29.808Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.763Z"
 ---
 
 # § 290bb–36d. Treatment Referral Routing Service
@@ -15,7 +14,7 @@ status: "active"
 - **(b)** To maintain the Routing Service, the activities of the Assistant Secretary shall include administering—
   - **(1)** a nationwide, telephone number providing year-round access to information that is updated on a regular basis regarding local behavioral health providers and community-based organizations in a manner that is confidential, without requiring individuals to identify themselves, is in languages that include at least English and Spanish, and is at no cost to the individual using the Routing Service; and
   - **(2)** an Internet website to provide a searchable, online treatment services locator of behavioral health treatment providers and community-based organizations, which shall include information on the name, location, contact information, and basic services provided by such providers and organizations.
-- **(c)** In the event that the Internet website described in subsection (b)(2) contains information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(g)(2)(B) of title 21 , the Assistant Secretary—
+- **(c)** In the event that the Internet website described in subsection (b)(2) contains information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 812 of title 21 for the purpose of maintenance or detoxification treatment, the Assistant Secretary—
   - **(1)** shall provide an opportunity to such practitioner to have the contact information of the practitioner removed from the website at the request of the practitioner; and
   - **(2)** may evaluate other methods to periodically update the information displayed on such website.
 - **(d)** Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.

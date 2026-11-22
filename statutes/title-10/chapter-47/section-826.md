@@ -3,15 +3,14 @@ title: "Section 826 - Art. 26. Military judge of a general or special court-mart
 usc_title: 10
 usc_section: "826"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 826"
-generated_at: "2026-03-30T10:02:00.789Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.079Z"
 ---
 
 # § 826. Art. 26. Military judge of a general or special court-martial
 
-- **(a)** A military judge shall be detailed to each general and special court-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
+- **(a)** A military judge shall be detailed to each general and special court-martial. The Secretary concerned shall prescribe regulations providing for the manner in which military judges are detailed for such courts-martial and for the persons who are authorized to detail military judges for such courts-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
 - **(b)** A military judge shall be a commissioned officer of the armed forces who is a member of the bar of a Federal court or a member of the bar of the highest court of a State and who is certified to be qualified, by reason of education, training, experience, and judicial temperament, for duty as a military judge by the Judge Advocate General of the armed force of which such military judge is a member.
 - **(c)**
   - **(1)** In accordance with regulations prescribed under subsection (a), a military judge of a general or special court-martial shall be designated for detail by the Judge Advocate General of the armed force of which the military judge is a member.

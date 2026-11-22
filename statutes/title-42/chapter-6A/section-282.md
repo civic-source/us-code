@@ -3,10 +3,9 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-30T10:03:29.788Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.736Z"
 ---
 
 # § 282. Director of National Institutes of Health
@@ -38,7 +37,7 @@ status: "active"
         - **(III)** ensure appropriate consideration of proposals for which the principal investigator is an individual who has not previously served as the principal investigator of research conducted or supported by the National Institutes of Health;
     - **(B)**
       - **(i)** may, with respect to funds reserved under section 282a(c)(1) of this title for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
-      - **(ii)** shall, with respect to funds appropriated to the Common Fund pursuant to section 282a(a)(2) of this title , allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
+      - **(ii)** shall, with respect to funds appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives pursuant to section 282a(a)(2) of this title , allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A) and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the National Institutes of Health; and
     - **(C)** may assign additional functions to the Division in support of responsibilities identified in subparagraph (A), as determined appropriate by the Director;
   - **(8)** shall, in coordination with the heads of the national research institutes and national centers, ensure that such institutes and centers—
     - **(A)** preserve an emphasis on investigator-initiated research project grants, including with respect to research involving collaboration between 2 or more such institutes or centers;
@@ -70,10 +69,14 @@ status: "active"
   - **(21)** may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter;
   - **(22)** may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38;
   - **(23)** shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development;
-  - **(24)** implement the Cures Acceleration Network described in section 287a of this title ; and
+  - **(24)** implement the Cures Acceleration Network described in section 287a of this title ;
   - **(25)** may require recipients of National Institutes of Health awards to share scientific data, to the extent feasible, generated from such National Institutes of Health awards in a manner that is consistent with all applicable Federal laws and regulations, including such laws and regulations for the protection of—
     - **(A)** human research participants, including with respect to privacy, security, informed consent, and protected health information; and
-    - **(B)** proprietary interests, confidential commercial information, and the intellectual property rights of the funding recipient.
+    - **(B)** proprietary interests, confidential commercial information, and the intellectual property rights of the funding recipient;
+  - **(26)** shall consult with the Assistant Secretary for Preparedness and Response, the Director of the Biomedical Advanced Research and Development Authority, the Director of the Centers for Disease Control and Prevention, and the heads of other Federal agencies and offices, as appropriate, regarding research needs to advance medical countermeasures to diagnose, mitigate, prevent, or treat harm from any biological agent or toxin, including emerging infectious diseases, chemical, radiological, or nuclear agent that may cause a public health emergency or other research needs related to emerging public health threats;
+  - **(27)** shall consult with the Director of the Office of National Security within the Department of Health and Human Services, the Assistant Secretary for Preparedness and Response, the Director of National Intelligence, the Director of the Federal Bureau of Investigation, and the heads of other appropriate agencies on a regular basis, regarding biomedical research conducted or supported by the National Institutes of Health that may affect or be affected by matters of national security;
+  - **(28)** shall ensure that recipients of awards from the National Institutes of Health, and, as appropriate and practicable, entities collaborating with such recipients, have in place and are adhering to appropriate technology practices and policies for the security of identifiable, sensitive information, including information collected, stored, managed, or analyzed by domestic and non-domestic entities; and
+  - **(29)** shall ensure that recipients of awards from the National Institutes of Health are in compliance with the terms and conditions of such award, which may include activities to support awareness of, and compliance with, such terms and conditions by any subrecipients of the award.
 - **(c)** The Director of NIH may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 - **(d)**
   - **(1)** The Director of NIH may obtain (in accordance with section 3109 of title 5 , but without regard to the limitation in such section on the period of service) the services of not more than 220 experts or consultants, with scientific or other professional qualifications, for the National Institutes of Health.
@@ -329,3 +332,4 @@ status: "active"
     - **(A)** submits a proposal to the Director of NIH for the use of such authority before conducting or supporting the research, including why the use of such authority is essential to promoting the success of the project;
     - **(B)** receives approval for the use of such authority from the Director of NIH; and
     - **(C)** for each year in which the institute, center, or office has used such authority in accordance with this subsection, submits a report to the Director of NIH on the activities of the institute, center, or office relating to such research.
+- **(o)** The Director of NIH shall, as appropriate, continue to consult with the directors of relevant institutes and centers of the National Institutes of Health, other relevant experts from such institutes and centers, and relevant experts within the Food and Drug Administration, to further the field of regenerative medicine using adult stem cells, including autologous stem cells, therapeutic tissue engineering products, human cell and tissue products, human gene therapies, and genetically modified cells.

@@ -3,10 +3,9 @@ title: "Section 6201 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "6201"
 chapter: 77
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6201"
-generated_at: "2026-03-30T10:03:30.201Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.243Z"
 ---
 
 # § 6201. Congressional statement of purpose

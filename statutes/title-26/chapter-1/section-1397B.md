@@ -3,10 +3,9 @@ title: "Section 1397B - Nonrecognition of gain on rollover of empowerment zone i
 usc_title: 26
 usc_section: "1397B"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 1397B"
-generated_at: "2026-03-30T10:02:53.462Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.774Z"
 ---
 
 # § 1397B. Nonrecognition of gain on rollover of empowerment zone investments
@@ -28,3 +27,4 @@ status: "active"
   - **(3)** A taxpayer shall be treated as having purchased any property if, but for paragraph (4), the unadjusted basis of such property in the hands of the taxpayer would be its cost (within the meaning of section 1012).
   - **(4)** If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any qualified empowerment zone asset which is purchased by the taxpayer during the 60-day period described in subsection (a). This paragraph shall not apply for purposes of section 1202.
   - **(5)** For purposes of determining whether the nonrecognition of gain under subsection (a) applies to any qualified empowerment zone asset which is sold, the taxpayer’s holding period for such asset and the asset referred to in subsection (a)(1) shall be determined without regard to section 1223.
+- **(c)** This section shall not apply to sales in taxable years beginning after December 31, 2020 .

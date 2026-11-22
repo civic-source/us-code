@@ -3,16 +3,15 @@ title: "Section 3094 - Funding of intelligence activities"
 usc_title: 50
 usc_section: "3094"
 chapter: 44
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3094"
-generated_at: "2026-03-30T10:03:53.217Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.234Z"
 ---
 
 # § 3094. Funding of intelligence activities
 
 - **(a)** Appropriated funds available to an intelligence agency may be obligated or expended for an intelligence or intelligence-related activity only if—
-  - **(1)** those funds were specifically authorized by the Congress for use for such activities; or
+  - **(1)** those funds were specifically authorized by Congress for use for such intelligence or intelligence-related activities; or
   - **(2)** in the case of funds from the Reserve for Contingencies of the Central Intelligence Agency and consistent with the provisions of section 3093 of this title concerning any significant anticipated intelligence activity, the Director of the Central Intelligence Agency has notified the appropriate congressional committees of the intent to make such funds available for such activity; or
   - **(3)** in the case of funds specifically authorized by the Congress for a different activity—
     - **(A)** the activity to be funded is a higher priority intelligence or intelligence-related activity;

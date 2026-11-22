@@ -3,10 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-30T10:02:46.179Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.729Z"
 ---
 
 # § 1306. Premium rates
@@ -40,10 +39,11 @@ status: "active"
         - **(IV)** $2.60 for each participant, for the ninth plan year, and for each succeeding plan year,
       - **(iv)** in the case of a multiemployer plan, for plan years beginning after December 31, 2005 , and before January 1, 2013 , $8.00 for each individual who is a participant in such plan during the applicable plan year,
       - **(v)** in the case of a multiemployer plan, for plan years beginning after December 31, 2012 , and before January 1, 2015 , $12.00 for each individual who is a participant in such plan during the applicable plan year,
-      - **(vi)** in the case of a multiemployer plan, for plan years beginning after December 31, 2014 , $26 for each individual who is a participant in such plan during the applicable plan year, or
+      - **(vi)** in the case of a multiemployer plan, for plan years beginning after December 31, 2014 ,, 1 and before January 1, 2031 , $26 for each individual who is a participant in such plan during the applicable plan year,
       - **(vii)** in the case of a CSEC plan (as defined in section 1060(f)(1) of this title ), for plan years beginning after December 31, 2018 , for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
         - **(I)** the additional premium (if any) determined under subparagraph (E), and
-        - **(II)** $19.
+        - **(II)** $19, or
+      - **(viii)** in the case of a multiemployer plan, for plan years beginning after December 31, 2030 , $52 for each individual who is a participant in such plan during the applicable plan year.
     - **(B)** The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in clause (iii) or (iv) of subparagraph (A) will not apply to the same participant in any multiemployer plan more than once for any plan year.
     - **(C)**
       - **(i)** If the sum of—
@@ -56,7 +56,7 @@ status: "active"
       - **(i)** Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
       - **(ii)** The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
     - **(E)**
-      - **(i)** Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
+      - **(i)** Except as provided in subparagraph (I), the additional premium determined under this subparagraph with respect to any plan for any plan year—
         - **(I)** shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
         - **(II)** in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 4 4 So in original. Probably should be followed by a semicolon. and
         - **(III)** in the case of plan years beginning in a calendar year after 2015, shall not exceed $500.
@@ -106,6 +106,11 @@ status: "active"
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for 2013; and
       - **(ii)** such dollar amount for plan years beginning in the preceding calendar year.
+    - **(N)** For each plan year beginning in a calendar year after 2031, there shall be substituted for the dollar amount specified in clause (viii) of subparagraph (A) an amount equal to the greater of—
+      - **(i)** the product derived by multiplying such dollar amount by the ratio of—
+        - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
+        - **(II)** the national average wage index (as so defined) for 2029; and
+      - **(ii)** such dollar amount for plan years beginning in the preceding calendar year. If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
   - **(4)** The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title , alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
   - **(5)**
     - **(A)** In carrying out its authority under paragraph (1) to establish schedules of premium rates, and bases for the application of those rates, for nonbasic benefits guaranteed under sections 1322 and 1322a of this title the premium rates charged by the corporation for any period for nonbasic benefits guaranteed shall—
@@ -143,9 +148,10 @@ status: "active"
       - **(iii)** for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C));
       - **(iv)** for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C));
       - **(v)** for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
-      - **(vi)** for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and
-      - **(vii)** for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).
-    - **(B)** For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
+      - **(vi)** for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C));
+      - **(vii)** for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)); and
+      - **(viii)** for plan years beginning after calendar year 2023, $52.
+    - **(B)** For each plan year beginning in a calendar year after 2012 and before 2024, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for the base year; and
@@ -164,7 +170,7 @@ status: "active"
       - **(iv)** 2014, in the case of plan years beginning after calendar year 2016;
       - **(v)** 2015, in the case of plan years beginning after calendar year 2017;
       - **(vi)** 2016, in the case of plan years beginning after calendar year 2018; and
-      - **(vii)** 2017, in the case of plan years beginning after calendar year 2019.
+      - **(vii)** 2017, in the case of plan years beginning after calendar year 2019 and before 2024.
     - **(E)** In the case of a CSEC plan (as defined in section 1060(f)(1) of this title ), the applicable dollar amount shall be $9.
 - **(b)**
   - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.

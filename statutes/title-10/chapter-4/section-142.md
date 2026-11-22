@@ -3,10 +3,9 @@ title: "Section 142 - Chief Information Officer"
 usc_title: 10
 usc_section: "142"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 142"
-generated_at: "2026-03-30T10:02:00.763Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.037Z"
 ---
 
 # § 142. Chief Information Officer
@@ -14,10 +13,10 @@ status: "active"
 - **(a)** There is a Chief Information Officer of the Department of Defense, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer.
 - **(b)**
   - **(1)** The Chief Information Officer of the Department of Defense—
-    - **(A)** is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) (other than with respect to business management) and 3544(a)(3) of title 44;
-    - **(B)** has the responsibilities and duties specified in sections 11315 and 11319 of title 40 (other than with respect to business management);
-    - **(C)** has the responsibilities specified for the Chief Information Officer in sections 2223(a) (other than with respect to business management) and 2224 of this title;
-    - **(D)** exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;
+    - **(A)** is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) and 3544(a)(3) of title 44;
+    - **(B)** has the responsibilities and duties specified in sections 11315 and 11319 of title 40;
+    - **(C)** has the responsibilities specified for the Chief Information Officer in sections 2223(a) and 2224 of this title;
+    - **(D)** exercises authority, direction, and control over the Activities of the Cybersecurity Directorate, or any successor organization, of the National Security Agency, funded through the Information Systems Security Program;
     - **(E)** exercises authority, direction, and control over the Defense Information Systems Agency, or any successor organization;
     - **(F)** has the responsibilities for policy, oversight, guidance, and coordination for all Department of Defense matters related to electromagnetic spectrum, including coordination with other Federal and industry agencies, coordination for classified programs, and in coordination with the Under Secretary for Personnel and Readiness, policies related to spectrum management workforce;
     - **(G)** has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
@@ -35,6 +34,5 @@ status: "active"
       - **(ii)** certifying on a regular and ongoing basis that any capabilities being developed or procured meets such standards as have been published by the Department at the time of certification.
     - **(C)** The Chief Information Officer shall identify gaps in standards and mitigation plans for operating in the absence of acceptable standards.
   - **(4)** The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
-- **(c)** 1 1 So in original. Two subsecs. (c) have been enacted. The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
-- **(c)** 1 The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
-- **(d)** The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(c)** The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(d)** The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.

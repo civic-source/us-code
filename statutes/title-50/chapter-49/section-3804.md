@@ -3,10 +3,9 @@ title: "Section 3804 - Volunteer service of physicians and dentists; minimum per
 usc_title: 50
 usc_section: "3804"
 chapter: 49
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3804"
-generated_at: "2026-03-30T10:03:53.234Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.261Z"
 ---
 
 # § 3804. Volunteer service of physicians and dentists; minimum period

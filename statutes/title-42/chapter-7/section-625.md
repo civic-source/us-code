@@ -3,13 +3,12 @@ title: "Section 625 - Limitations on authorization of appropriations"
 usc_title: 42
 usc_section: "625"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 625"
-generated_at: "2026-03-30T10:03:29.902Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.876Z"
 ---
 
 # § 625. Limitations on authorization of appropriations
 
-To carry out this subpart (other than sections 626, 627, and 628b of this title), there are authorized to be appropriated to the Secretary not more than $325,000,000 for each of fiscal years 2017 through 2021.
+To carry out this subpart (other than sections 626, 627, and 628b of this title), there are authorized to be appropriated to the Secretary not more than $325,000,000 for each of fiscal years 2025 through 2029.
 

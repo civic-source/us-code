@@ -3,10 +3,9 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-30T10:03:30.021Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.023Z"
 ---
 
 # § 1395yy. Payment to skilled nursing facilities for routine service costs
@@ -42,13 +41,14 @@ status: "active"
       - **(i)** The term “covered skilled nursing facility services”—
         - **(I)** means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A; and
         - **(II)** includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
-      - **(ii)** Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title , certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title , telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title , and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+      - **(ii)** Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title , certified nurse-midwife services, qualified psychologist services, marriage and family therapist services (as defined in section 1395x( lll )(1) of this title), mental health counselor services (as defined in section 1395x( lll )(3) of this title), services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title , telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title , and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
       - **(iii)** Items and services described in this clause are the following:
         - **(I)** Ambulance services furnished to an individual in conjunction with renal dialysis services described in section 1395x(s)(2)(F) of this title .
         - **(II)** Chemotherapy items (identified as of July 1, 1999 , by HCPCS codes J9000–J9020; J9040–J9151; J9170–J9185; J9200–J9201; J9206–J9208; J9211; J9230–J9245; and J9265–J9600 (and as subsequently modified by the Secretary)) and any additional chemotherapy items identified by the Secretary.
         - **(III)** Chemotherapy administration services (identified as of July 1, 1999 , by HCPCS codes 36260–36262; 36489; 36530–36535; 36640; 36823; and 96405–96542 (and as subsequently modified by the Secretary)) and any additional chemotherapy administration services identified by the Secretary.
         - **(IV)** Radioisotope services (identified as of July 1, 1999 , by HCPCS codes 79030–79440 (and as subsequently modified by the Secretary)) and any additional radioisotope services identified by the Secretary.
         - **(V)** Customized prosthetic devices (commonly known as artificial limbs or components of artificial limbs) under the following HCPCS codes (as of July 1, 1999 (and as subsequently modified by the Secretary)), and any additional customized prosthetic devices identified by the Secretary, if delivered to an inpatient for use during the stay in the skilled nursing facility and intended to be used by the individual after discharge from the facility: L5050–L5340; L5500–L5611; L5613–L5986; L5988; L6050–L6370; L6400–L6880; L6920–L7274; and L7362–7366.
+        - **(VI)** Blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders (identified as of July 1, 2020 , by HCPCS codes J7170, J7175, J7177–J7183, J7185–J7190, J7192–J7195, J7198–J7203, J7205, J7207–J7211, and as subsequently modified by the Secretary) and items and services related to the furnishing of such factors under section 1395u( o )(5)(C) of this title, and any additional blood clotting factors identified by the Secretary and items and services related to the furnishing of such factors under such section.
       - **(iv)** Services described in this clause are—
         - **(I)** rural health clinic services (as defined in paragraph (1) of section 1395x(aa) of this title ); and
         - **(II)** federally qualified health center services (as defined in paragraph (3) of such section);
@@ -155,15 +155,20 @@ status: "active"
   - **(1)**
     - **(A)** Subject to the succeeding provisions of this subsection, the Secretary shall establish a skilled nursing facility value-based purchasing program (in this subsection referred to as the “SNF VBP Program”) under which value-based incentive payments are made in a fiscal year to skilled nursing facilities.
     - **(B)** The SNF VBP Program shall apply to payments for services furnished on or after October 1, 2018 .
+    - **(C)** With respect to payments for services furnished on or after October 1, 2022 , this subsection shall not apply to a facility for which there are not a minimum number (as determined by the Secretary) of—
+      - **(i)** cases for the measures that apply to the facility for the performance period for the applicable fiscal year; or
+      - **(ii)** measures that apply to the facility for the performance period for the applicable fiscal year.
   - **(2)**
-    - **(A)** The Secretary shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program.
+    - **(A)** The Secretary—
+      - **(i)** shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program; and
+      - **(ii)** may, with respect to payments for services furnished on or after October 1, 2023 , apply additional measures determined appropriate by the Secretary, which may include measures of functional status, patient safety, care coordination, or patient experience.
     - **(B)** For purposes of the SNF VBP Program, the Secretary shall apply the measure specified under (g)(2) 1 1 So in original. Probably should be preceded by “subsection”. instead of the measure specified under (g)(1) 1 as soon as practicable.
   - **(3)**
-    - **(A)** The Secretary shall establish performance standards with respect to the measure applied under paragraph (2) for a performance period for a fiscal year.
+    - **(A)** The Secretary shall establish performance standards with respect to the measures applied under paragraph (2) for a performance period for a fiscal year.
     - **(B)** The performance standards established under subparagraph (A) shall include levels of achievement and improvement. In calculating the SNF performance score under paragraph (4), the Secretary shall use the higher of either improvement or achievement.
     - **(C)** The Secretary shall establish and announce the performance standards established under subparagraph (A) not later than 60 days prior to the beginning of the performance period for the fiscal year involved.
   - **(4)**
-    - **(A)** The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the “SNF performance score”) for each skilled nursing facility for each such performance period.
+    - **(A)** The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measures applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the “SNF performance score”) for each skilled nursing facility for each such performance period.
     - **(B)** The Secretary shall, for the performance period for each fiscal year, rank the SNF performance scores determined under subparagraph (A) from low to high.
   - **(5)**
     - **(A)** With respect to a skilled nursing facility, based on the ranking under paragraph (4)(B) for a performance period for a fiscal year, the Secretary shall increase the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility (and after application of paragraph (6)) for services furnished by such facility during such fiscal year by the value-based incentive payment amount under subparagraph (B).
@@ -197,3 +202,6 @@ status: "active"
   - **(11)** The Secretary shall provide for the one time transfer from the Federal Hospital Insurance Trust Fund established under section 1395i of this title to the Centers for Medicare & Medicaid Services Program Management Account of—
     - **(A)** for purposes of subsection (g)(2), $2,000,000; and
     - **(B)** for purposes of implementing this subsection, $10,000,000.
+  - **(12)**
+    - **(A)** The Secretary shall apply to the measures applied under this subsection and the data submitted under subsection (e)(6) a process to validate such measures and data, as appropriate, which may be similar to the process specified in section 1395ww(b)(3)(B)(viii)(XI) of this title for validating inpatient hospital measures.
+    - **(B)** For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund established under section 1395i of this title , of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2023 through 2025, to remain available until expended.

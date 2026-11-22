@@ -1,15 +1,14 @@
 ---
-title: "Section 2767 - Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States"
+title: "Section 2767 - Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States"
 usc_title: 14
 usc_section: "2767"
 chapter: 27
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2767"
-generated_at: "2026-03-30T10:02:03.983Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.502Z"
 ---
 
-# § 2767. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States
+# § 2767. Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States
 
 In any case in which a covered beneficiary (as defined in section 1072(5) of title 10 ) resides on an island that is located in the 48 contiguous States and the District of Columbia and that lacks public access roads to the mainland, the Secretary shall reimburse the reasonable travel expenses of the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age, if—
 

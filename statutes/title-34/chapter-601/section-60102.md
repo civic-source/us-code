@@ -3,10 +3,9 @@ title: "Section 60102 - Definitions"
 usc_title: 34
 usc_section: "60102"
 chapter: 601
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 60102"
-generated_at: "2026-03-30T10:03:07.043Z"
-status: "active"
+generated_at: "2026-03-30T02:55:33.316Z"
 ---
 
 # § 60102. Definitions

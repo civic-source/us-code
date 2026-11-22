@@ -3,10 +3,9 @@ title: "Section 5492 - Executive and administrative powers"
 usc_title: 12
 usc_section: "5492"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5492"
-generated_at: "2026-03-30T10:02:11.150Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.542Z"
 ---
 
 # § 5492. Executive and administrative powers

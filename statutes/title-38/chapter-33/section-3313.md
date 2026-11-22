@@ -3,10 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T10:03:11.968Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.502Z"
 ---
 
 # § 3313. Educational assistance: amount; payment
@@ -14,7 +13,7 @@ status: "active"
 - **(a)** The Secretary shall pay to each individual entitled to educational assistance under this chapter who is pursuing an approved program of education (other than a program covered by subsections (e) and (f)) the amounts specified in subsection (c) to meet the expenses of such individual’s subsistence, tuition, fees, and other educational costs for pursuit of such program of education.
 - **(b)** A program of education is an approved program of education for purposes of this chapter if the program of education is approved for purposes of chapter 30 (including approval by the State approving agency concerned).
 - **(c)** The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
-  - **(1)** In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), or (9) of section 3311(b), amounts as follows:
+  - **(1)** In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
     - **(A)** An amount equal to the following:
       - **(i)** In the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
@@ -43,8 +42,8 @@ status: "active"
   - **(2)** Payment of the amount payable under subsection (c)(1)(B), and of similar amounts payable under paragraphs (2) through (6) of subsection (c), for pursuit of a program of education shall be made on a monthly basis.
   - **(3)** The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 - **(e)**
-  - **(1)** Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty.
-  - **(2)** The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty are as follows:
+  - **(1)** Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty for a period of more than 30 days.
+  - **(2)** The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty for a period of more than 30 days are as follows:
     - **(A)** Subject to subparagraph (C), an amount equal to the lesser of—
       - **(i)** in the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
@@ -127,3 +126,15 @@ status: "active"
 - **(k)**
   - **(1)** The Secretary shall furnish to individuals receiving educational assistance under this chapter documentation that verifies the amount of the monthly housing stipend the individual receives under this section.
   - **(2)** The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
+- **(l)**
+  - **(1)** Except as provided in paragraph (4), the Secretary shall require—
+    - **(A)** each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
+      - **(i)** not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and
+      - **(ii)** not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and
+    - **(B)** each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
+  - **(2)** Verification under this subsection shall be in an electronic form prescribed by the Secretary.
+  - **(3)** If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly housing stipend payment to the individual under this section until the individual submits such verification.
+  - **(4)** An educational institution is not required to submit verification of an individual under paragraph (1)(A) if—
+    - **(A)** the individual is enrolled in a course or program of education offered by the educational institution on at least a full-time basis before the date on which the individual is able to withdraw from the course or program of education without penalty;
+    - **(B)** the educational institution charges the same amount of tuition and fees for students who are enrolled on a full-time basis and students who are enrolled on a more-than-full-time basis; and
+    - **(C)** the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.

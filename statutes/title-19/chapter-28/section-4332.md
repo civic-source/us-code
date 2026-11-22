@@ -3,10 +3,9 @@ title: "Section 4332 - Joint import safety rapid response plan"
 usc_title: 19
 usc_section: "4332"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 4332"
-generated_at: "2026-03-30T10:02:15.906Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.706Z"
 ---
 
 # § 4332. Joint import safety rapid response plan

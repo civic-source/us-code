@@ -3,10 +3,9 @@ title: "Section 2561 - Repealed. Pub. L. 111–84, div. C, title XXXI, § 3117(a
 usc_title: 50
 usc_section: "2561"
 chapter: 42
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2561"
-generated_at: "2026-03-30T10:03:53.205Z"
-status: "repealed"
+generated_at: "2026-03-30T02:56:26.225Z"
 ---
 
 # § 2561. Repealed. Pub. L. 111–84, div. C, title XXXI, § 3117(a) , Oct. 28, 2009 , 123 Stat. 2709

@@ -3,10 +3,9 @@ title: "Section 40113 - Administrative"
 usc_title: 49
 usc_section: "40113"
 chapter: 401
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 40113"
-generated_at: "2026-03-30T10:03:55.092Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.370Z"
 ---
 
 # § 40113. Administrative
@@ -16,11 +15,24 @@ status: "active"
 - **(c)** The Secretary (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may use the assistance of the Administrator of the National Aeronautics and Space Administration and any research or technical department, agency, or instrumentality of the United States Government on matters related to aircraft fuel and oil, and to the design, material, workmanship, construction, performance, maintenance, and operation of aircraft, aircraft engines, propellers, appliances, and air navigation facilities. Each department, agency, and instrumentality may conduct scientific and technical research, investigations, and tests necessary to assist the Secretary or Administrator of the Federal Aviation Administration in carrying out this part. This part does not authorize duplicating laboratory research activities of a department, agency, or instrumentality.
 - **(d)** The Administrator of the Federal Aviation Administration may indemnify an officer or employee of the Federal Aviation Administration against a claim or judgment arising out of an act that the Administrator decides was committed within the scope of the official duties of the officer or employee.
 - **(e)**
-  - **(1)** The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106( l )(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
+  - **(1)** The Administrator may provide safety-related training and operational services to foreign aviation authorities (whether public or private) with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety or efficiency. The Administrator may also provide technical assistance related to all aviation safety-related training and operational services in connection with bilateral and multilateral agreements, including further bolstering the components of airmanship. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106( l )(6). To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
   - **(2)** The Administrator shall actively seek reimbursement for services provided under this subsection from foreign aviation authorities capable of providing such reimbursement. The Administrator is authorized, notwithstanding any other provision of law or policy, to accept payments for services provided under this subsection in arrears.
   - **(3)** Funds received by the Administrator pursuant to this section shall—
     - **(A)** be credited to the appropriation current when the amount is received;
     - **(B)** be merged with and available for the purposes of such appropriation; and
     - **(C)** remain available until expended.
-  - **(4)** Not later than December 31, 1995 , and annually thereafter, the Administrator shall transmit to Congress a list of the foreign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
+  - **(4)** There is authorized to be appropriated to the Administrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+  - **(6)** In the absence of a bilateral or multilateral agreement, the Administrator may provide technical assistance and training under this subsection if the Administrator determines that—
+    - **(A)** a foreign government would benefit from technical assistance pursuant to this subsection to strengthen aviation safety, efficiency, and security; and
+    - **(B)** the engagement is to provide inherently governmental technical assistance and training.
+  - **(7)** In this subsection, the term “inherently governmental technical assistance and training” means technical assistance and training that—
+    - **(A)** relies upon or incorporates Federal Aviation Administration-specific program, system, policy, or procedural matters;
+    - **(B)** must be accomplished using agency expertise and authority; and
+    - **(C)** relates to—
+      - **(i)** international aviation safety assessment technical reviews and technical assistance;
+      - **(ii)** aerodrome safety and certification;
+      - **(iii)** aviation system certification activities based on Federal Aviation Administration regulations and requirements;
+      - **(iv)** cybersecurity efforts to protect United States aviation ecosystem components and facilities;
+      - **(v)** operation and maintenance of air navigation system equipment, procedures, and personnel; or
+      - **(vi)** training and exercises in support of aviation safety, efficiency, and security.
 - **(f)** In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.

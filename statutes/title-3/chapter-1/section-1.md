@@ -3,13 +3,12 @@ title: "Section 1 - Time of appointing electors"
 usc_title: 3
 usc_section: "1"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "3 U.S.C. § 1"
-generated_at: "2026-03-30T10:01:24.546Z"
-status: "active"
+generated_at: "2026-03-30T02:52:49.877Z"
 ---
 
 # § 1. Time of appointing electors
 
-The electors of President and Vice President shall be appointed, in each State, on the Tuesday next after the first Monday in November, in every fourth year succeeding every election of a President and Vice President.
+The electors of President and Vice President shall be appointed, in each State, on election day, in accordance with the laws of the State enacted prior to election day.
 

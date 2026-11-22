@@ -3,10 +3,9 @@ title: "Section 664 - National asset database"
 usc_title: 6
 usc_section: "664"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 664"
-generated_at: "2026-03-30T10:01:43.258Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.477Z"
 ---
 
 # § 664. National asset database
@@ -28,7 +27,7 @@ status: "active"
     - **(A)** according to the sectors listed in National Infrastructure Protection Plan developed pursuant to Homeland Security Presidential Directive–7; and
     - **(B)** by the State and county of their location.
   - **(3)** The Secretary shall identify and evaluate methods, including the Department’s Protected Critical Infrastructure Information Program, to acquire relevant private sector information for the purpose of using that information to generate any database or list, including the database established under subsection (a)(1) and the list established under subsection (a)(2).
-  - **(4)** The classification of information required to be provided to Congress, the Department, or any other department or agency under this section by a sector-specific agency, including the assignment of a level of classification of such information, shall be binding on Congress, the Department, and that other Federal agency.
+  - **(4)** The classification of information required to be provided to Congress, the Department, or any other department or agency under this section by a Sector Risk Management Agency, including the assignment of a level of classification of such information, shall be binding on Congress, the Department, and that other Federal agency.
 - **(d)**
   - **(1)** Not later than 180 days after August 3, 2007 , and annually thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the database established under subsection (a)(1) and the list established under subsection (a)(2).
   - **(2)** Each such report shall include the following:

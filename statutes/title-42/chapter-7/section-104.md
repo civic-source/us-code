@@ -3,10 +3,9 @@ title: "Section 104 - Beneficiary protections for qualified prescription drug co
 usc_title: 42
 usc_section: "104"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 104"
-generated_at: "2026-03-30T10:03:29.982Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.982Z"
 ---
 
 # § 1395w–104. Beneficiary protections for qualified prescription drug coverage
@@ -31,7 +30,7 @@ status: "active"
   - **(4)** A PDP sponsor offering a prescription drug plan must furnish to each enrollee in a form easily understandable to such enrollees—
     - **(A)** an explanation of benefits (in accordance with section 1395b–7(a) of this title or in a comparable manner); and
     - **(B)** when prescription drug benefits are provided under this part, a notice of the benefits in relation to—
-      - **(i)** the initial coverage limit for the current year; and
+      - **(i)** for a year preceding 2025, the initial coverage limit for the current year; and
       - **(ii)** the annual out-of-pocket threshold for the current year.
 - **(b)**
   - **(1)**
@@ -84,6 +83,9 @@ status: "active"
     - **(H)** Notwithstanding any other provision of this part, each PDP sponsor of a prescription drug plan shall—
       - **(i)** use a single, uniform exceptions and appeals process (including, to the extent the Secretary determines feasible, a single, uniform model form for use under such process) with respect to the determination of prescription drug coverage for an enrollee under the plan; and
       - **(ii)** provide instant access to such process by enrollees through a toll-free telephone number and an Internet website.
+    - **(I)**
+      - **(i)** For 2026 and each subsequent year, the PDP sponsor offering a prescription drug plan shall include each covered part D drug that is a selected drug under section 1320f–1 of this title for which a maximum fair price (as defined in section 1320f(c)(3) of this title ) is in effect with respect to the year.
+      - **(ii)** Nothing in clause (i) shall be construed as prohibiting a PDP sponsor from removing such a selected drug from a formulary if such removal would be permitted under section 423.120(b)(5)(iv) of title 42, Code of Federal Regulations (or any successor regulation).
   - **(4)**
     - **(A)** During the emergency period described in section 1320b–5(g)(1)(B) of this title , subject to subparagraph (B), a prescription drug plan or MA–PD plan shall, notwithstanding any cost and utilization management, medication therapy management, or other such programs under this part, permit a part D eligible individual enrolled in such plan to obtain in a single fill or refill, at the option of such individual, the total day supply (not to exceed a 90-day supply) prescribed for such individual for a covered part D drug.
     - **(B)** A prescription drug plan or MA–PD plan may not permit a part D eligible individual to obtain a single fill or refill inconsistent with an applicable safety edit.
@@ -346,4 +348,16 @@ status: "active"
   - **(3)** The inclusion of the plan type in the plan name under section 1395w–21(h)(6) of this title .
   - **(4)** The requirements regarding the appointment of agents and brokers and compliance with State information requests under subparagraphs (A) and (B), respectively, of section 1395w–21(h)(7) of this title .
 - **(m)** A PDP sponsor and a Medicare Advantage organization shall ensure that each prescription drug plan or MA–PD plan offered by the sponsor or organization does not restrict a pharmacy that dispenses a prescription drug or biological from informing, nor penalize such pharmacy for informing, an enrollee in such plan of any differential between the negotiated price of, or copayment or coinsurance for, the drug or biological to the enrollee under the plan and a lower price the individual would pay for the drug or biological if the enrollee obtained the drug without using any health insurance coverage.
-- **(m)** For program integrity transparency measures applied with respect to prescription drug plan and MA plans, see section 1395w–28(i) of this title .
+- **(n)** For program integrity transparency measures applied with respect to prescription drug plan and MA plans, see section 1395w–28(i) of this title .
+- **(o)**
+  - **(1)** After the Secretary has adopted a standard under paragraph (3) for electronic real-time benefit tools, and at a time determined appropriate by the Secretary, a PDP sponsor of a prescription drug plan shall implement one or more of such tools that meet the requirements described in paragraph (2).
+  - **(2)** For purposes of paragraph (1), the requirements described in this paragraph, with respect to an electronic real-time benefit tool, are that the tool is capable of—
+    - **(A)** integrating with electronic prescribing and electronic health record systems of prescribing health care professionals for the transmission of formulary and benefit information in real time to such professionals; and
+    - **(B)** with respect to a covered part D drug, transmitting such information specific to an individual enrolled in a prescription drug plan, including the following:
+      - **(i)** A list of any clinically-appropriate alternatives to such drug included in the formulary of such plan.
+      - **(ii)** Cost-sharing information and the negotiated price for such drug and such alternatives at multiple pharmacy options, including the individual’s preferred pharmacy and, as applicable, other retail pharmacies and a mail order pharmacy.
+      - **(iii)** The formulary status of such drug and such alternatives and any prior authorization or other utilization management requirements applicable to such drug and such alternatives included in the formulary of such plan.
+  - **(3)** In order to be treated (for purposes of this subsection) as an electronic real-time benefit tool described in paragraph (1), such tool shall comply with technical standards adopted by the Secretary in consultation with the National Coordinator for Health Information Technology through notice and comment rulemaking. Such technical standards adopted by the Secretary shall be developed by a standards development organization, such as the National Council for Prescription Drug Programs, that consults with stakeholders such as PDP sponsors, Medicare Advantage organizations, beneficiary advocates, health care professionals, and health information technology software vendors.
+  - **(4)** Nothing in this subsection shall be construed—
+    - **(A)** to prohibit the application of paragraph (b)(7) of section 423.160 of title 42, Code of Federal Regulations, as is to be added to such section pursuant to the final rule published in the Federal Register on May 23, 2019 , and titled “Modernizing Part D and Medicare Advantage To Lower Drug Prices and Reduce Out-of-Pocket Expenses” (84 Fed. Reg. 23832 through 23884); or
+    - **(B)** to allow a PDP sponsor to use a real-time benefit tool to steer an individual, without the consent of the individual, to a particular pharmacy or pharmacy type over their preferred pharmacy or pharmacy type nor prohibit the designation of an individual’s preferred pharmacy under such tool.

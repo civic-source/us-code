@@ -3,29 +3,28 @@ title: "Section 1603 - Secure and Trusted Communications Networks Reimbursement 
 usc_title: 47
 usc_section: "1603"
 chapter: 15
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 1603"
-generated_at: "2026-03-30T10:03:39.412Z"
-status: "active"
+generated_at: "2026-03-30T02:56:24.536Z"
 ---
 
 # § 1603. Secure and Trusted Communications Networks Reimbursement Program
 
 - **(a)** The Commission shall establish a reimbursement program, to be known as the “Secure and Trusted Communications Networks Reimbursement Program”, to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.
 - **(b)** The Commission may not make a reimbursement under the Program to a provider of advanced communications service unless the provider—
-  - **(1)** has 2,000,000 or fewer customers; and
+  - **(1)** has 10,000,000 or fewer customers; and
   - **(2)** makes all of the certifications required by subsection (d)(4).
 - **(c)**
   - **(1)** A recipient of a reimbursement under the Program shall use reimbursement funds solely for the purposes of—
-    - **(A)** permanently removing covered communications equipment or services purchased, rented, leased, or otherwise obtained before—
-      - **(i)** in the case of any covered communications equipment or services that are on the initial list published under section 1601(a) of this title , August 14, 2018 ; or
-      - **(ii)** in the case of any covered communications equipment or services that are not on the initial list published under section 1601(a) of this title , the date that is 60 days after the date on which the Commission places such equipment or services on the list required by such section;
+    - **(A)** permanently removing covered communications equipment or services purchased, rented, leased, or otherwise obtained—
+      - **(i)** as defined in the Report and Order of the Commission in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (FCC 19–121; WC Docket No. 18–89; adopted November 22, 2019 ) (in this section referred to as the “Report and Order”); or
+      - **(ii)** as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20–690; PS Docket No. 19–351; adopted June 30, 2020 ) (DA 20–691; PS Docket No. 19–352; adopted June 30, 2020 ) (in this section collectively referred to as the “Designation Orders”);
     - **(B)** replacing the covered communications equipment or services removed as described in subparagraph (A) with communications equipment or services that are not covered communications equipment or services; and
     - **(C)** disposing of the covered communications equipment or services removed as described in subparagraph (A) in accordance with the requirements under subsection (d)(7).
   - **(2)** A recipient of a reimbursement under the Program may not—
     - **(A)** use reimbursement funds to remove, replace, or dispose of any covered communications equipment or service purchased, rented, leased, or otherwise obtained on or after—
-      - **(i)** in the case of any covered communications equipment or service that is on the initial list published under section 1601(a) of this title , August 14, 2018 ; or
-      - **(ii)** in the case of any covered communications equipment or service that is not on the initial list published under section 1601(a) of this title , the date that is 60 days after the date on which the Commission places such equipment or service on the list required by such section; or
+      - **(i)** publication of the Report and Order; or
+      - **(ii)** in the case of covered communications equipment that only became covered pursuant to the Designation Orders, June 30, 2020 ; or
     - **(B)** purchase, rent, lease, or otherwise obtain any covered communications equipment or service, using reimbursement funds or any other funds (including funds derived from private sources).
 - **(d)**
   - **(1)**
@@ -55,10 +54,14 @@ status: "active"
       - **(i)** will not purchase, rent, lease, or otherwise obtain covered communications equipment or services, using reimbursement funds or any other funds (including funds derived from private sources); and
       - **(ii)** in developing and tailoring the risk management practices of the applicant, will consult and consider the standards, guidelines, and best practices set forth in the cybersecurity framework developed by the National Institute of Standards and Technology.
   - **(5)**
-    - **(A)** The Commission shall make reasonable efforts to ensure that reimbursement funds are distributed equitably among all applicants for reimbursements under the Program according to the needs of the applicants, as identified by the applications of the applicants.
+    - **(A)** Subject to subparagraph (C), the Commission shall make reasonable efforts to ensure that reimbursement funds are distributed equitably among all applicants for reimbursements under the Program according to the needs of the applicants, as identified by the applications of the applicants.
     - **(B)** If, at any time during the implementation of the Program, the Commission determines that $1,000,000,000 will not be sufficient to fully fund all approved applications for reimbursements under the Program, the Commission shall immediately notify—
       - **(i)** the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives; and
       - **(ii)** the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.
+    - **(C)** On and after December 27, 2020 , the Commission shall allocate sufficient reimbursement funds—
+      - **(i)** first, to approved applicants that have 2,000,000 or fewer customers, for removal and replacement of covered communications equipment, as defined in section 1608 of this title or as designated by the process set forth in the Report and Order;
+      - **(ii)** after funds have been allocated to all applicants described in clause (i), to approved applicants that are accredited public or private non-commercial educational institutions providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation, for removal and replacement of covered communications equipment, as defined in section 1608 of this title or as designated by the process set forth in the Report and Order; and
+      - **(iii)** after funds have been allocated to all applicants described in clause (ii), to any remaining approved applicants determined to be eligible for reimbursement under the Program.
   - **(6)**
     - **(A)** Except as provided in subparagraphs (B) and (C), the permanent removal, replacement, and disposal of any covered communications equipment or services identified under paragraph (4)(A)(i) shall be completed not later than 1 year after the date on which the Commission distributes reimbursement funds to the recipient.
     - **(B)** The Commission may grant an extension of the deadline described in subparagraph (A) for 6 months to all recipients of reimbursements under the Program if the Commission—
@@ -102,3 +105,4 @@ status: "active"
   - **(1)** encourage such providers to participate in the Program; and
   - **(2)** assist such providers in submitting applications for the Program.
 - **(j)** The Program shall be separate from any Federal universal service program established under section 254 of this title .
+- **(k)** In carrying out this section, the Commission may not expend more than $4,980,000,000.

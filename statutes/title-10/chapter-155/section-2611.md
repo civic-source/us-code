@@ -3,10 +3,9 @@ title: "Section 2611 - Regional centers for security studies: acceptance of gift
 usc_title: 10
 usc_section: "2611"
 chapter: 155
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2611"
-generated_at: "2026-03-30T10:02:00.868Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.166Z"
 ---
 
 # § 2611. Regional centers for security studies: acceptance of gifts and donations
@@ -19,6 +18,7 @@ status: "active"
     - **(C)** The William J. Perry Center for Hemispheric Defense Studies.
     - **(D)** The Africa Center for Strategic Studies.
     - **(E)** The Near East South Asia Center for Strategic Studies.
+    - **(F)** The Ted Stevens Center for Arctic Security Studies.
 - **(b)** The sources from which gifts and donations may be accepted under subsection (a) are the following:
   - **(1)** The government of a State or a political subdivision of a State.
   - **(2)** The government of a foreign country.

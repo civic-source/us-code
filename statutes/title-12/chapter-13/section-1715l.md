@@ -3,10 +3,9 @@ title: "Section 1715l - Housing for moderate income and displaced families"
 usc_title: 12
 usc_section: "1715l"
 chapter: 13
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1715l"
-generated_at: "2026-03-30T10:02:11.038Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.413Z"
 ---
 
 # § 1715l. Housing for moderate income and displaced families
@@ -157,7 +156,7 @@ status: "active"
 - **(k)** Increase in maximum insurance amounts for costs incurred from solar energy systems and energy conservation measures With respect to any project insured under subsection (d)(3) or (d)(4), the Secretary may further increase the dollar amount limitations which would otherwise apply for the purpose of those subsections by up to 20 per centum if such increase is necessary to account for the increased cost of the project due to the installation therein of a solar energy system (as defined in subparagraph
   - **(3)** of the last paragraph of section 1703(a) of this title ) or residential energy conservation measures (as defined in section 8211(11)(A) through
     - **(G)** and
-    - **(I)** of title 42) 3 3 See References in Text note below. in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
+    - **(I)** of title 42) 2 in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
 - **(l)** Rental charges; “eligible multifamily housing” defined
   - **(1)** Notwithstanding any other provision of law, tenants residing in eligible multifamily housing whose incomes exceed 80 percent of area median income shall pay as rent not more than the lower of the following amounts:
     - **(A)** 30 percent of the family’s adjusted monthly income; or

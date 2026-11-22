@@ -3,10 +3,9 @@ title: "Section 1003 - Leasing procedures"
 usc_title: 30
 usc_section: "1003"
 chapter: 23
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1003"
-generated_at: "2026-03-30T10:02:44.906Z"
-status: "active"
+generated_at: "2026-03-30T02:55:29.395Z"
 ---
 
 # § 1003. Leasing procedures
@@ -16,6 +15,9 @@ status: "active"
   - **(1)** Except as otherwise specifically provided by this chapter, all land to be leased that is not subject to leasing under subsection (c) shall be leased as provided in this subsection to the highest responsible qualified bidder, as determined by the Secretary.
   - **(2)** The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) if the land is otherwise available for leasing.
   - **(3)** Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency may be available for noncompetitive leasing under this section to the mining claim holder.
+  - **(4)** Land under an oil and gas lease issued pursuant to the Mineral Leasing Act ( 30 U.S.C. 181 et seq.) or the Mineral Leasing Act for Acquired Lands ( 30 U.S.C. 351 et seq.) that is subject to an approved application for permit to drill and from which oil and gas production is occurring may be available for noncompetitive leasing under subsection (c) by the holder of the oil and gas lease—
+    - **(A)** on a determination that geothermal energy will be produced from a well producing or capable of producing oil and gas; and
+    - **(B)** to provide for the coproduction of geothermal energy with oil and gas.
 - **(c)** The Secretary shall make available for a period of 2 years for noncompetitive leasing any tract for which a competitive lease sale is held, but for which the Secretary does not receive any bids in a competitive lease sale.
 - **(d)**
   - **(1)** It shall be a priority for the Secretary, and for the Secretary of Agriculture with respect to National Forest Systems land, to ensure timely completion of administrative actions, including amendments to applicable forest plans and resource management plans, necessary to process applications for geothermal leasing pending on August 8, 2005 . 1 1 See Codification note below. All future forest plans and resource management plans for areas with high geothermal resource potential shall consider geothermal leasing and development.

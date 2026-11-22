@@ -3,10 +3,9 @@ title: "Section 9449 - Cadets: organization; service; instruction"
 usc_title: 10
 usc_section: "9449"
 chapter: 953
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9449"
-generated_at: "2026-03-30T10:02:00.905Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.259Z"
 ---
 
 # § 9449. Cadets: organization; service; instruction
@@ -14,4 +13,3 @@ status: "active"
 - **(a)** A cadet shall perform duties at such places and of such type as the President may direct.
 - **(b)** The course of instruction at the Academy is four years.
 - **(c)** The Secretary of the Air Force shall so arrange the course of studies at the Academy that cadets are not required to pursue their studies on Sunday.
-- **(d)** Cadets shall be trained in the duties of members of the Air Force.

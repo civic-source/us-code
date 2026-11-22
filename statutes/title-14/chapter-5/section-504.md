@@ -3,10 +3,9 @@ title: "Section 504 - Commandant; general powers"
 usc_title: 14
 usc_section: "504"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 504"
-generated_at: "2026-03-30T10:02:03.975Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.488Z"
 ---
 
 # § 504. Commandant; general powers
@@ -32,13 +31,14 @@ status: "active"
   - **(18)** accept, under terms and conditions the Commandant establishes, the service of an individual ordered to perform community service under the order of a Federal, State, or municipal court;
   - **(19)** notwithstanding any other law, enter into cooperative agreements with States, local governments, non-governmental organizations, and individuals, to accept and utilize voluntary services for the maintenance and improvement of natural and historic resources on, or to benefit natural and historic research on, Coast Guard facilities, subject to the requirement that—
     - **(A)** the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
-    - **(B)** a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
+    - **(B)** an individual providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
   - **(20)** enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
   - **(21)** require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49 , be made available to the Commandant under section 30305(b)(7) of title 49 , may receive that information, and upon receipt, shall make the information available to the individual;
   - **(22)** provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
   - **(23)** rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery;
-  - **(24)** after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate; and
-  - **(25)** enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system.
+  - **(24)** after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate;
+  - **(25)** enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system; and
+  - **(26)** develop data workflows and processes for the leveraging of mission-relevant data by the Coast Guard to enhance operational effectiveness and efficiency.
 - **(b)**
   - **(1)** Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
   - **(2)** A lease referred to in paragraph (1) is a lease—
@@ -48,7 +48,7 @@ status: "active"
   - **(1)** the operation, regulation, inspection, identification, manning, and measurement of vessels, including plan approval and the application of load lines;
   - **(2)** approval of materials, equipment, appliances, and associated equipment;
   - **(3)** the reporting and investigation of marine casualties and accidents;
-  - **(4)** the licensing, certification, documentation, protection and relief of merchant seamen;
+  - **(4)** the licensing, certification, documentation, protection and relief of merchant mariners;
   - **(5)** suspension and revocation of licenses and certificates;
   - **(6)** enforcement of manning requirements, citizenship requirements, control of log books;
   - **(7)** documentation and numbering of vessels;

@@ -3,10 +3,9 @@ title: "Section 7310 - Advisory committee"
 usc_title: 15
 usc_section: "7310"
 chapter: 99
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 7310"
-generated_at: "2026-03-30T10:02:07.551Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.221Z"
 ---
 
 # § 7310. Advisory committee
@@ -15,4 +14,4 @@ status: "active"
 - **(b)** On January 1 of each year, the advisory committee shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
   - **(1)** an evaluation of Team activities, along with recommendations to improve the operation and effectiveness of Teams; and
   - **(2)** an assessment of the implementation of the recommendations of Teams and of the advisory committee.
-- **(c)** Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this section.
+- **(c)** Section 1013 of title 5 shall not apply to the advisory committee established under this section.

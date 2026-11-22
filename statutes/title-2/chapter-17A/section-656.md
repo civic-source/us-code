@@ -3,10 +3,9 @@ title: "Section 656 - Member User Group"
 usc_title: 2
 usc_section: "656"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 656"
-generated_at: "2026-03-30T10:01:29.385Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.801Z"
 ---
 
 # § 656. Member User Group

@@ -3,10 +3,9 @@ title: "Section 2670 - Use of facilities by private organizations; use as pollin
 usc_title: 10
 usc_section: "2670"
 chapter: 159
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2670"
-generated_at: "2026-03-30T10:02:00.871Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.169Z"
 ---
 
 # § 2670. Use of facilities by private organizations; use as polling places

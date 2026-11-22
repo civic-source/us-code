@@ -3,10 +3,9 @@ title: "Section 6303 - Great ape conservation assistance"
 usc_title: 16
 usc_section: "6303"
 chapter: 82
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 6303"
-generated_at: "2026-03-30T10:02:22.499Z"
-status: "active"
+generated_at: "2026-03-30T02:54:23.056Z"
 ---
 
 # § 6303. Great ape conservation assistance
@@ -66,7 +65,7 @@ status: "active"
     - **(C)** any applicable strategy developed or initiated by the Secretary; and
     - **(D)** any other applicable conservation plan or strategy.
   - **(4)** Subject to the availability of appropriations, the Secretary may use amounts available to the Secretary to pay for the costs of convening and facilitating any meeting of the panel referred to in paragraph (1).
-  - **(5)** The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).
+  - **(5)** Chapter 10 of title 5 shall not apply to a panel convened under paragraph (1).
 - **(j)**
-  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
+  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
   - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

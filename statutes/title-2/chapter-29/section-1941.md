@@ -3,10 +3,9 @@ title: "Section 1941 - Uniform"
 usc_title: 2
 usc_section: "1941"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1941"
-generated_at: "2026-03-30T10:01:29.404Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.821Z"
 ---
 
 # § 1941. Uniform

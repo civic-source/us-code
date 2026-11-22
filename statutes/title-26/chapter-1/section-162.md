@@ -3,10 +3,9 @@ title: "Section 162 - Trade or business expenses"
 usc_title: 26
 usc_section: "162"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 162"
-generated_at: "2026-03-30T10:02:53.354Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.637Z"
 ---
 
 # § 162. Trade or business expenses
@@ -112,8 +111,9 @@ status: "active"
     - **(B)** that is required to file reports under section 15(d) of such Act ( 15 U.S.C. 78 o (d)).
   - **(3)** For purposes of this subsection, the term “covered employee” means any employee of the taxpayer if—
     - **(A)** such employee is the principal executive officer or principal financial officer of the taxpayer at any time during the taxable year, or was an individual acting in such a capacity,
-    - **(B)** the total compensation of such employee for the taxable year is required to be reported to shareholders under the Securities Exchange Act of 1934 by reason of such employee being among the 3 highest compensated officers for the taxable year (other than any individual described in subparagraph (A)), or
-    - **(C)** was a covered employee of the taxpayer (or any predecessor) for any preceding taxable year beginning after December 31, 2016 .
+    - **(B)** the total compensation of such employee for the taxable year is required to be reported to shareholders under the Securities Exchange Act of 1934 by reason of such employee being among the 3 highest compensated officers for the taxable year (other than any individual described in subparagraph (A)),
+    - **(C)** in the case of taxable years beginning after December 31, 2026 , such employee is among the 5 highest compensated employees for the taxable year other than any individual described in subparagraph (A) or (B), or
+    - **(D)** was a covered employee described in subparagraph (A) or (B) of the taxpayer (or any predecessor) for any preceding taxable year beginning after December 31, 2016 .
   - **(4)** For purposes of this subsection—
     - **(A)** Except as otherwise provided in this paragraph, the term “applicable employee remuneration” means, with respect to any covered employee for any taxable year, the aggregate amount allowable as a deduction under this chapter for such taxable year (determined without regard to this subsection) for remuneration for services performed by such employee (whether or not during the taxable year).
     - **(B)** The term “applicable employee remuneration” shall not include any remuneration payable under a written binding contract which was in effect on February 17, 1993 , and which was not modified thereafter in any material respect before such remuneration is paid.
@@ -169,6 +169,19 @@ status: "active"
       - **(ii)** who provides services for or on behalf of such covered health insurance provider during such taxable year.
     - **(G)** Rules similar to the rules of subparagraphs (D) and (E) of paragraph (4) shall apply for purposes of this paragraph.
     - **(H)** The Secretary may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this paragraph.
+  - **(7)**
+    - **(A)** In the case of any publicly held corporation which is a member of a controlled group—
+      - **(i)** paragraph (1) shall be applied by substituting “specified covered employee” for “covered employee”, and
+      - **(ii)** if any person which is a member of such controlled group (other than such publicly held corporation) provides applicable employee remuneration to an individual who is a specified covered employee of such controlled group and the aggregate amount described in subparagraph (B)(ii) with respect to such specified covered employee exceeds $1,000,000—
+        - **(I)** paragraph (1) shall apply to such person with respect to such remuneration, and
+        - **(II)** paragraph (1) shall apply to such publicly held corporation and to each such related person by substituting “the allocable limitation amount” for “$1,000,000”.
+    - **(B)** For purposes of this paragraph, the term “allocable limitation amount” means, with respect to any member of the controlled group referred to in subparagraph (A) with respect to any specified covered employee of such controlled group, the amount which bears the same ratio to $1,000,000 as—
+      - **(i)** the amount of applicable employee remuneration provided by such member with respect to such specified covered employee, bears to
+      - **(ii)** the aggregate amount of applicable employee remuneration provided by all such members with respect to such specified covered employee.
+    - **(C)** For purposes of this paragraph, the term “specified covered employee” means, with respect to any controlled group—
+      - **(i)** any employee described in subparagraph (A), (B), or (D) of paragraph (3), with respect to the publicly held corporation which is a member of such controlled group, and
+      - **(ii)** any employee who would be described in subparagraph (C) of paragraph (3) if such subparagraph were applied by taking into account the employees of all members of the controlled group.
+    - **(D)** For purposes of this paragraph, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414.
 - **(n)**
   - **(1)** No deduction shall be allowed under this chapter to an employer for any amount paid or incurred in connection with a group health plan if the plan does not reimburse for inpatient hospital care services provided in the State of New York—
     - **(A)** except as provided in subparagraphs (B) and (C), at the same rate as licensed commercial insurers are required to reimburse hospitals for such services when such reimbursement is not through such a plan,

@@ -3,10 +3,9 @@ title: "Section 20502 - Definitions"
 usc_title: 52
 usc_section: "20502"
 chapter: 205
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "52 U.S.C. § 20502"
-generated_at: "2026-03-30T10:03:57.301Z"
-status: "active"
+generated_at: "2026-03-30T02:56:30.164Z"
 ---
 
 # § 20502. Definitions

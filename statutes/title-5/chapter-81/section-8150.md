@@ -3,10 +3,9 @@ title: "Section 8150 - Effect on other statutes"
 usc_title: 5
 usc_section: "8150"
 chapter: 81
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 8150"
-generated_at: "2026-03-30T10:01:40.567Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.043Z"
 ---
 
 # § 8150. Effect on other statutes

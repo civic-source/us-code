@@ -3,10 +3,9 @@ title: "Section 6837 - Omitted"
 usc_title: 42
 usc_section: "6837"
 chapter: 81
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6837"
-generated_at: "2026-03-30T10:03:30.222Z"
-status: "omitted"
+generated_at: "2026-03-30T02:56:11.267Z"
 ---
 
 # § 6837. Omitted

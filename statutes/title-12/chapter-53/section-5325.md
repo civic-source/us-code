@@ -3,10 +3,9 @@ title: "Section 5325 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5325"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5325"
-generated_at: "2026-03-30T10:02:11.139Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.529Z"
 ---
 
 # § 5325. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies

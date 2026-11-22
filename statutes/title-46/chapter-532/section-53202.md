@@ -3,10 +3,9 @@ title: "Section 53202 - Establishment of the Cable Security Fleet"
 usc_title: 46
 usc_section: "53202"
 chapter: 532
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 53202"
-generated_at: "2026-03-30T10:03:46.786Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.573Z"
 ---
 
 # § 53202. Establishment of the Cable Security Fleet
@@ -27,7 +26,7 @@ status: "active"
       - **(i)** the owner of the vessel has demonstrated an intent to have the vessel documented under chapter 121 of this title if it is included in the Cable Fleet; and
       - **(ii)** at the time an Operating Agreement is entered into under this chapter, the vessel is eligible for documentation under chapter 121 of this title.
 - **(c)**
-  - **(1)** A vessel meets the requirements of this paragraph if, during the period of an Operating Agreement under this chapter that applies to the vessel, the vessel will be owned and operated by one or more persons that are citizens of the United states under section 50501 of this title .
+  - **(1)** A vessel meets the requirements of this paragraph if, during the period of an Operating Agreement under this chapter that applies to the vessel, the vessel will be owned and operated by one or more persons that are citizens of the United states 1 1 So in original. Probably should be capitalized. under section 50501 of this title .
   - **(2)** A vessel meets the requirements of this paragraph if—
     - **(A)** during the period of an Operating Agreement under this chapter that applies to the vessel, the vessel will be—
       - **(i)** owned by a person that is a citizen of the United States under section 50501 of this title or that is a United States citizen trust; and

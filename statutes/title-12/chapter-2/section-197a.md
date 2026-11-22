@@ -3,10 +3,9 @@ title: "Section 197a - Resumption of business by closed bank on consent of depos
 usc_title: 12
 usc_section: "197a"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 197a"
-generated_at: "2026-03-30T10:02:11.000Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.374Z"
 ---
 
 # § 197a. Resumption of business by closed bank on consent of depositors

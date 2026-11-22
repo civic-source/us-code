@@ -3,10 +3,9 @@ title: "Section 8475 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "8475"
 chapter: 853
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8475"
-generated_at: "2026-03-30T10:02:00.895Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.244Z"
 ---
 
 # § 8475. Acceptance of guarantees with gifts for major projects

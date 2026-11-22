@@ -3,10 +3,9 @@ title: "Section 3803 - Prohibition of certain garbage feeding; exemption"
 usc_title: 7
 usc_section: "3803"
 chapter: 69
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3803"
-generated_at: "2026-03-30T10:01:46.788Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.404Z"
 ---
 
 # § 3803. Prohibition of certain garbage feeding; exemption

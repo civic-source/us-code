@@ -3,10 +3,9 @@ title: "Section 1162 - State jurisdiction over offenses committed by or against 
 usc_title: 18
 usc_section: "1162"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1162"
-generated_at: "2026-03-30T10:02:16.743Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.482Z"
 ---
 
 # § 1162. State jurisdiction over offenses committed by or against Indians in the Indian country

@@ -3,10 +3,9 @@ title: "Section 2280a - Violence against maritime navigation and maritime transp
 usc_title: 18
 usc_section: "2280a"
 chapter: 111
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2280a"
-generated_at: "2026-03-30T10:02:16.757Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.500Z"
 ---
 
 # § 2280a. Violence against maritime navigation and maritime transport involving weapons of mass destruction

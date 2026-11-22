@@ -3,10 +3,9 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T10:03:30.139Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.167Z"
 ---
 
 # § 2991b–3. Grant program to ensure survival and continuing vitality of Native American languages
@@ -52,16 +51,16 @@ status: "active"
   - **(5)** if appropriate, an identification of opportunities for the replication of such project or the modification of such project for use by other Native Americans;
   - **(6)** a plan for the preservation of the products of the Native American language project for the benefit of future generations of Native Americans and other interested persons; and
   - **(7)** in the case of an application for a grant to carry out any purpose specified in subsection (b)(7)(B), a certification by the applicant that the applicant has not less than 3 years of experience in operating and administering a Native American language survival school, a Native American language nest, or any other educational program in which instruction is conducted in a Native American language.
-- **(d)** If a tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
+- **(d)** If a Tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
 - **(e)**
   - **(1)** Notwithstanding any other provision of this subchapter, a grant made under subsection (a) may not be expended to pay more than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
     - **(A)** shall be in cash or in kind, fairly evaluated, including plant, equipment, or services; and
     - **(B)**
       - **(i)** may be provided from any private or non-Federal source; and
-      - **(ii)** may include funds (including interest) distributed to a tribe—
+      - **(ii)** may include funds (including interest) distributed to a Tribe—
         - **(I)** by the Federal Government pursuant to the satisfaction of a claim made under Federal law;
-        - **(II)** from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
-        - **(III)** by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) 1 1 See References in Text note below. or tribal budget priority system.
+        - **(II)** from funds collected and administered by the Federal Government on behalf of such Tribe or its constituent members; or
+        - **(III)** by the Federal Government for general Tribal administration or Tribal development under a formula or subject to a Tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) 1 1 See References in Text note below. or Tribal budget priority system.
   - **(2)** The Secretary may make grants made under subsection (a) on a 1-year, 2-year, 3-year, 4-year, or 5-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year, 4-year, or 5-year basis.
 - **(f)**
   - **(1)** The Secretary shall carry out this section through the Administration for Native Americans.
@@ -73,7 +72,7 @@ status: "active"
     - **(B)** Such panel shall include, but not be limited to—
       - **(i)** a designee of the Institute of American Indian and Alaska Native Culture and Arts Development;
       - **(ii)** a designee of the regional centers funded under section 3215 1 of title 20;
-      - **(iii)** representatives of national, tribal, and regional organizations that focus on Native American language, or Native American cultural, 2 2 So in original. The comma probably should not appear. research, development, or training; and
+      - **(iii)** representatives of national, Tribal, and regional organizations that focus on Native American language, or Native American cultural, 2 2 So in original. The comma probably should not appear. research, development, or training; and
       - **(iv)** other individuals who are recognized for their expertise in the area of Native American language.
     - **(C)** The duties of such panel include—
       - **(i)** making recommendations regarding the development and implementation of regulations, policies, procedures, and rules of general applicability with respect to the administration of this section;
@@ -86,9 +85,10 @@ status: "active"
       - **(i)** Subject to clause (ii), a copy of the products of the Native American language project for which a grant is made under subsection (a)—
         - **(I)** shall be transmitted to the Institute of American Indian and Alaska Native Culture and Arts Development; and
         - **(II)** may be transmitted, in the discretion of the grantee, to national and regional repositories of similar material;
-      - **(ii)** Based on the Federal recognition of the sovereign authority of Indian tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian tribe may make a determination—
+      - **(ii)** Based on the Federal recognition of the sovereign authority of Indian Tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian Tribe may make a determination—
         - **(I)** not to transmit copies of such products under clause (i) or not to permit the redistribution of such copies; or
         - **(II)** to restrict in any manner the use or redistribution of such copies after transmission under such clause.
-      - **(iii)** Clause (ii) shall not be construed to authorize Indian tribes—
+      - **(iii)** Clause (ii) shall not be construed to authorize Indian Tribes—
         - **(I)** to limit the access of the Secretary to such products for purposes of administering this section or evaluating such products; or
         - **(II)** to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
+- **(g)** Not later than 180 days after the effective date of this subsection, the Secretary shall award grants to entities eligible to receive assistance under subsection (a)(1) to ensure the survival and continuing vitality of Native American languages during and after the public health emergency declared by the Secretary pursuant to section 247d of this title with respect to the COVID–19 pandemic.

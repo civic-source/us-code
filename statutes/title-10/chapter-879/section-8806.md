@@ -3,10 +3,9 @@ title: "Section 8806 - Subsistence and other supplies: members of armed forces; 
 usc_title: 10
 usc_section: "8806"
 chapter: 879
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8806"
-generated_at: "2026-03-30T10:02:00.900Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.251Z"
 ---
 
 # § 8806. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices
@@ -18,7 +17,7 @@ status: "active"
   - **(2)** An account of sales on credit shall be kept and the amount due reported to the Secretary. Except for articles and items acquired through the use of working capital funds under section 2208 of this title , sales of articles shall be at cost, and sales of individual clothing and equipment shall be at average current prices, including overhead, as determined by the Secretary.
 - **(b)** The Secretary shall sell subsistence supplies to members of other armed forces at the prices at which like property is sold to members of the Navy and Marine Corps.
 - **(c)** The Secretary may sell serviceable supplies, other than subsistence supplies, to members of other armed forces for the buyers’ use in the service. The prices at which the supplies are sold shall be the same prices at which like property is sold to members of the Navy and Marine Corps.
-- **(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
+- **(d)** A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
 - **(e)** Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged honorably or under honorable conditions from the Navy or Marine Corps, at the prices at which like articles are sold to members of the Navy or Marine Corps. This subsection does not modify section 772 or 773 of this title.
 - **(f)** Under regulations prescribed by the Secretary, payment for subsistence supplies shall be made in cash or by commercial credit.
 - **(g)**

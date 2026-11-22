@@ -3,10 +3,9 @@ title: "Section 1128 - Equitable distribution of certain funds"
 usc_title: 20
 usc_section: "1128"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1128"
-generated_at: "2026-03-30T10:02:18.600Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.143Z"
 ---
 
 # § 1128. Equitable distribution of certain funds

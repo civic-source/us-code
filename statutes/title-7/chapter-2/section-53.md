@@ -3,10 +3,9 @@ title: "Section 53 - Licensing classifiers; revocation and suspension of license
 usc_title: 7
 usc_section: "53"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 53"
-generated_at: "2026-03-30T10:01:46.670Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.252Z"
 ---
 
 # § 53. Licensing classifiers; revocation and suspension of license

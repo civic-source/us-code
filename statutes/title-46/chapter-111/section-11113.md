@@ -3,10 +3,9 @@ title: "Section 11113 - Treatment of abandoned seafarers"
 usc_title: 46
 usc_section: "11113"
 chapter: 111
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 11113"
-generated_at: "2026-03-30T10:03:46.773Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.555Z"
 ---
 
 # § 11113. Treatment of abandoned seafarers
@@ -30,9 +29,10 @@ status: "active"
       - **(i)** Penalties deposited in the Fund under section 9 of the Act to Prevent Pollution from Ships ( 33 U.S.C. 1908 ).
       - **(ii)** Amounts reimbursed or recovered under subsection (c).
     - **(B)** Amounts may be credited to the Fund under subparagraph (A) only if the unobligated balance of the Fund is less than $5,000,000.
-  - **(4)** On the date on which the President submits each budget for a fiscal year pursuant to section 1105 of title 31 , the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+  - **(4)** Except as provided in paragraph (5), on the date on which the President submits each budget for a fiscal year pursuant to section 1105 of title 31 , the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
     - **(A)** the amounts credited to the Fund under paragraph (3) for the preceding fiscal year; and
     - **(B)** amounts in the Fund that were expended for the preceding fiscal year.
+  - **(5)** A report under paragraph (4) shall not be required if there were no expenditures from the Fund in the preceding fiscal year. The Commandant shall notify Congress in the event a report is not required under paragraph (4) by reason of this paragraph.
 - **(b)** Nothing in this section shall be construed—
   - **(1)** to create a private right of action or any other right, benefit, or entitlement to necessary support for any person; or
   - **(2)** to compel the Secretary to pay or reimburse the cost of necessary support.

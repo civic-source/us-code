@@ -3,10 +3,9 @@ title: "Section 101 - Transferred"
 usc_title: 8
 usc_section: "101"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 101"
-generated_at: "2026-03-30T10:01:43.777Z"
-status: "transferred"
+generated_at: "2026-03-30T02:53:10.469Z"
 ---
 
 # §§ 100, 101. Transferred

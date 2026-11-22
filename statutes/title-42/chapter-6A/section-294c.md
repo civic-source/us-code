@@ -3,10 +3,9 @@ title: "Section 294c - Education and training relating to geriatrics"
 usc_title: 42
 usc_section: "294c"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 294c"
-generated_at: "2026-03-30T10:03:29.819Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.776Z"
 ---
 
 # § 294c. Education and training relating to geriatrics
@@ -37,7 +36,7 @@ status: "active"
   - **(6)** The Secretary may provide awardees with additional support for activities in areas of demonstrated need, which may include education and training for home health workers, family caregivers, and direct care workers on care for older adults.
   - **(7)**
     - **(A)** Each entity awarded a grant, contract, or cooperative agreement under this section shall submit an annual report to the Secretary on the activities conducted under such grant, contract, or cooperative agreement, which may include information on the number of trainees, the number of professions and disciplines, the number of partnerships with health care delivery sites, the number of faculty and practicing professionals who participated in such programs, and other information, as the Secretary may require.
-    - **(B)** Not later than 4 years after the date of enactment of the Title VII Health Care Workforce Reauthorization Act of 2019 1 1 See References in Text note below. and every 5 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that provides a summary of the activities and outcomes associated with grants, contracts, and cooperative agreements made under this section. Such reports shall include—
+    - **(B)** Not later than 4 years after March 27, 2020 , and every 5 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that provides a summary of the activities and outcomes associated with grants, contracts, and cooperative agreements made under this section. Such reports shall include—
       - **(i)** information on the number of trainees, faculty, and professionals who participated in programs under this section;
       - **(ii)** information on the impact of the program conducted under this section on the health status of older adults, including in areas with a shortage of health professionals; and
       - **(iii)** information on outreach and education provided under this section to families and caregivers of older adults.

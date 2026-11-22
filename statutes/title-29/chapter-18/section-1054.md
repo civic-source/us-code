@@ -3,10 +3,9 @@ title: "Section 1054 - Benefit accrual requirements"
 usc_title: 29
 usc_section: "1054"
 chapter: 18
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1054"
-generated_at: "2026-03-30T10:02:46.162Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.706Z"
 ---
 
 # § 1054. Benefit accrual requirements
@@ -89,6 +88,7 @@ status: "active"
       - **(iii)** For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
     - **(F)** For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in subsection (g)(2)(A).
     - **(G)** For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
+  - **(6)** For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (within the meaning of section 1053(f)(3) of this title ) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
 - **(c)**
   - **(1)** For purposes of this section and section 1053 of this title an employee’s accrued benefit derived from employer contributions as of any applicable date is the excess (if any) of the accrued benefit for such employee as of such applicable date over the accrued benefit derived from contributions made by such employee as of such date.
   - **(2)**

@@ -3,10 +3,9 @@ title: "Section 2223 - Indus Basin development"
 usc_title: 22
 usc_section: "2223"
 chapter: 32
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2223"
-generated_at: "2026-03-30T10:02:42.392Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.352Z"
 ---
 
 # § 2223. Indus Basin development

@@ -3,10 +3,9 @@ title: "Section 113 - Undocumented"
 usc_title: 46
 usc_section: "113"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 113"
-generated_at: "2026-03-30T10:03:46.760Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.540Z"
 ---
 
 # § 113. Undocumented

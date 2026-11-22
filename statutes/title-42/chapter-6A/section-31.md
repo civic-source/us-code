@@ -3,10 +3,9 @@ title: "Section 31 - Identification and initial health evaluation of screening-e
 usc_title: 42
 usc_section: "31"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-30T10:03:29.879Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.851Z"
 ---
 
 # § 300mm–31. Identification and initial health evaluation of screening-eligible and certified-eligible WTC survivors
@@ -48,7 +47,7 @@ status: "active"
     - **(B)** In implementing subparagraph (A), the WTC Program Administrator shall—
       - **(i)** limit the number of certifications provided under paragraph (2)(B)—
         - **(I)** in accordance with such subparagraph; and
-        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts made available under section 300mm–61 of this title , that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
+        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts made available under this subchapter, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
       - **(ii)** provide priority in such certifications in the order in which individuals apply for a determination under paragraph (2)(B).
   - **(4)** No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as a screening-eligible WTC survivor or a certified-eligible WTC survivor. Before determining any individual to be a screening-eligible WTC survivor under paragraph (1) or certifying any individual as a certified eligible 1 1 So in original. Probably should be “certified-eligible”. WTC survivor under paragraph (2), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
 - **(b)**

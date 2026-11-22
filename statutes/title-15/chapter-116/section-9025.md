@@ -3,10 +3,9 @@ title: "Section 9025 - Pandemic emergency unemployment compensation"
 usc_title: 15
 usc_section: "9025"
 chapter: 116
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9025"
-generated_at: "2026-03-30T10:02:07.565Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.240Z"
 ---
 
 # § 9025. Pandemic emergency unemployment compensation
@@ -23,12 +22,15 @@ status: "active"
     - **(B)** such individual’s rights to such compensation have been terminated by reason of the expiration of the benefit year with respect to which such rights existed.
   - **(4)** For purposes of any agreement under this section—
     - **(A)** the amount of pandemic emergency unemployment compensation which shall be payable to any individual for any week of total unemployment shall be equal to—
-      - **(i)** the amount of the regular compensation (including dependents’ allowances) payable to such individual during such individual’s benefit year under the State law for a week of total unemployment; and
-      - **(ii)** the amount of Federal Pandemic Unemployment Compensation under section 9023 of this title ;
+      - **(i)** the amount of the regular compensation (including dependents’ allowances) payable to such individual during such individual’s benefit year under the State law for a week of total unemployment;
+      - **(ii)** the amount of Federal Pandemic Unemployment Compensation under section 9023(b)(1)(B) of this title ; and
+      - **(iii)** the amount (if any) of Mixed Earner Unemployment Compensation under section 9023(b)(1)(C) of this title ;
     - **(B)** the terms and conditions of the State law which apply to claims for regular compensation and to the payment thereof (including terms and conditions relating to availability for work, active search for work, and refusal to accept work) shall apply to claims for pandemic emergency unemployment compensation and the payment thereof, except where otherwise inconsistent with the provisions of this section or with the regulations or operating instructions of the Secretary promulgated to carry out this section;
     - **(C)** the maximum amount of pandemic emergency unemployment compensation payable to any individual for whom an 1 1 So in original. Probably should be “a”. pandemic emergency unemployment compensation account is established under subsection (b) shall not exceed the amount established in such account for such individual; and
     - **(D)** the allowable methods of payment under section 9023(b)(2) of this title shall apply to payments of amounts described in subparagraph (A)(ii).
-  - **(5)** An agreement under this section shall apply with respect to a State only upon a determination by the Secretary that, under the State law or other applicable rules of such State, the payment of extended compensation for which an individual is otherwise eligible must be deferred until after the payment of any pandemic emergency unemployment compensation under subsection (b) for which the individual is concurrently eligible.
+  - **(5)**
+    - **(A)** Subject to subparagraph (B), an agreement under this section shall apply with respect to a State only upon a determination by the Secretary that, under the State law or other applicable rules of such State, the payment of extended compensation for which an individual is otherwise eligible must be deferred until after the payment of any pandemic emergency unemployment compensation under subsection (b) for which the individual is concurrently eligible.
+    - **(B)** In the case of an individual who is receiving extended compensation under the State law for the week that includes December 27, 2020 (without regard to the amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020) or for the week that includes March 11, 2021 (without regard to the amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021), such individual shall not be eligible to receive pandemic emergency unemployment compensation by reason of such amendments until such individual has exhausted all rights to such extended benefits.
   - **(6)**
     - **(A)** An agreement under this section shall not apply (or shall cease to apply) with respect to a State upon a determination by the Secretary that the method governing the computation of regular compensation under the State law of that State has been modified in a manner such that the number of weeks (the maximum benefit entitlement), or the average weekly benefit amount, of regular compensation which will be payable during the period of the agreement will be less than the number of weeks, or the average weekly benefit amount, of the average weekly benefit amount of regular compensation which would otherwise have been payable during such period under the State law, as in effect on January 1, 2020 .
     - **(B)** In subparagraph (A), the term “maximum benefit entitlement” means the amount of regular unemployment compensation payable to an individual with respect to the individual’s benefit year.
@@ -39,10 +41,26 @@ status: "active"
       - **(iii)** has maintained a record of such work search, including employers contacted, method of contact, and date contacted; and
       - **(iv)** when requested, has provided such work search record to the State agency.
     - **(B)** Notwithstanding the requirements under subparagraph (A) and paragraph (2)(D), a State shall provide flexibility in meeting such requirements in case of individuals unable to search for work because of COVID–19, including because of illness, quarantine, or movement restriction.
+  - **(8)** At the option of a State, for any weeks of unemployment beginning after December 27, 2020 , and before September 6, 2021 , an individual’s eligibility period (as described in section 203(c) of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note)) shall, for purposes of any determination of eligibility for extended compensation under the State law of such State, be considered to include any week which begins—
+    - **(A)** after the date as of which such individual exhausts all rights to pandemic emergency unemployment compensation; and
+    - **(B)** during an extended benefit period that began on or before the date described in subparagraph (A).
 - **(b)**
   - **(1)** Any agreement under this section shall provide that the State will establish, for each eligible individual who files an application for pandemic emergency unemployment compensation, an 1 pandemic emergency unemployment compensation account with respect to such individual’s benefit year.
-  - **(2)** The amount established in an account under subsection (a) shall be equal to 13 times the individual’s average weekly benefit amount, which includes the amount of Federal Pandemic Unemployment Compensation under section 9023 of this title , for the benefit year.
+  - **(2)** The amount established in an account under subsection (a) shall be equal to 53 times the individual’s average weekly benefit amount, which includes the amount of Federal Pandemic Unemployment Compensation under section 9023 of this title , for the benefit year.
   - **(3)** For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment plus the amount of Federal Pandemic Unemployment Compensation under section 9023 of this title .
+  - **(4)**
+    - **(A)** If—
+      - **(i)** an individual has been determined to be entitled to pandemic emergency unemployment compensation with respect to a benefit year;
+      - **(ii)** that benefit year has expired;
+      - **(iii)** that individual has remaining entitlement to pandemic emergency unemployment compensation with respect to that benefit year; and
+      - **(iv)** that individual would qualify for a new benefit year in which the weekly benefit amount of regular compensation is at least $25 less than the individual’s weekly benefit amount in the benefit year referred to in clause (i),
+    - **(B)** For individuals described in subparagraph (A), the State shall determine whether the individual is to be paid pandemic emergency unemployment compensation or regular compensation for a week of unemployment using one of the following methods:
+      - **(i)** The State shall, if permitted by State law, establish a new benefit year, but defer the payment of regular compensation with respect to that new benefit year until exhaustion of all pandemic emergency unemployment compensation payable with respect to the benefit year referred to in subparagraph (A)(i).
+      - **(ii)** The State shall, if permitted by State law, defer the establishment of a new benefit year (which uses all the wages and employment which would have been used to establish a benefit year but for the application of this subparagraph), until exhaustion of all pandemic emergency unemployment compensation payable with respect to the benefit year referred to in subparagraph (A)(i).
+      - **(iii)** The State shall pay, if permitted by State law—
+        - **(I)** regular compensation equal to the weekly benefit amount established under the new benefit year; and
+        - **(II)** pandemic emergency unemployment compensation equal to the difference between that weekly benefit amount and the weekly benefit amount for the expired benefit year.
+      - **(iv)** The State shall determine rights to pandemic emergency unemployment compensation without regard to any rights to regular compensation if the individual elects to not file a claim for regular compensation under the new benefit year.
 - **(c)**
   - **(1)** There shall be paid to each State that has entered into an agreement under this section an amount equal to 100 percent of the pandemic emergency unemployment compensation paid to individuals by the State pursuant to such agreement.
   - **(2)** No payment shall be made to any State under this section in respect of any compensation to the extent the State is entitled to reimbursement in respect of such compensation under the provisions of any Federal law other than this section or chapter 85 of title 5. A State shall not be entitled to any reimbursement under such chapter 85 in respect of any compensation to the extent the State is entitled to reimbursement under this section in respect of such compensation.
@@ -52,7 +70,7 @@ status: "active"
     - **(A)** Funds in the extended unemployment compensation account (as established by section 905(a) of the Social Security Act ( 42 U.S.C. 1105(a) ) of the Unemployment Trust Fund (as established by section 904(a) of such Act ( 42 U.S.C. 1104(a) ) shall be used for the making of payments to States having agreements entered into under this section.
     - **(B)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the extended unemployment compensation account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
   - **(2)**
-    - **(A)** There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act ( 42 U.S.C. 1101(a) ) of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act ( 42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this section.
+    - **(A)** There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act ( 42 U.S.C. 1101(a) ) 3 3 So in original. A third closing parenthesis probably should appear. of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act ( 42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this section.
     - **(B)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
   - **(3)** The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this subsection. The Secretary of the Treasury, prior to audit or settlement by the Government Accountability Office, shall make payments to the State in accordance with such certification, by transfers from the extended unemployment compensation account (as so established) to the account of such State in the Unemployment Trust Fund (as so established).
 - **(e)**
@@ -69,4 +87,4 @@ status: "active"
 - **(f)** In this section, the terms “compensation”, “regular compensation”, “extended compensation”, “benefit year”, “base period”, “State”, “State agency”, “State law”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note).
 - **(g)** An agreement entered into under this section shall apply to weeks of unemployment—
   - **(1)** beginning after the date on which such agreement is entered into; and
-  - **(2)** ending on or before December 31, 2020 .
+  - **(2)** ending on or before September 6, 2021 .

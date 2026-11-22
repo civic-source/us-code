@@ -3,10 +3,9 @@ title: "Section 1044c - Advance medical directives of members and dependents: re
 usc_title: 10
 usc_section: "1044c"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1044c"
-generated_at: "2026-03-30T10:02:00.802Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.096Z"
 ---
 
 # § 1044c. Advance medical directives of members and dependents: requirement for recognition by States

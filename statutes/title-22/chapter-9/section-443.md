@@ -3,10 +3,9 @@ title: "Section 443 - Repealed. Nov. 17, 1941, ch. 473, § 1 , 55 Stat. 764"
 usc_title: 22
 usc_section: "443"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 443"
-generated_at: "2026-03-30T10:02:42.371Z"
-status: "repealed"
+generated_at: "2026-03-30T02:55:05.327Z"
 ---
 
 # §§ 442, 443. Repealed. Nov. 17, 1941, ch. 473, § 1 , 55 Stat. 764

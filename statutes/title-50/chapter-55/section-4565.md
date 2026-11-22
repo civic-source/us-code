@@ -3,10 +3,9 @@ title: "Section 4565 - Authority to review certain mergers, acquisitions, and ta
 usc_title: 50
 usc_section: "4565"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 4565"
-generated_at: "2026-03-30T10:03:53.248Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.276Z"
 ---
 
 # § 4565. Authority to review certain mergers, acquisitions, and takeovers
@@ -38,6 +37,9 @@ status: "active"
         - **(I)** a single “housing unit”, as defined by the Census Bureau; or
         - **(II)** real estate in “urbanized areas”, as defined by the Census Bureau in the most recent census, except as otherwise prescribed by the Committee in regulations in consultation with the Secretary of Defense.
       - **(ii)** With respect to a real estate purchase, lease, or concession described in subparagraph (B)(ii)(II)(bb)(AA), the Committee shall prescribe regulations to ensure that the term “close proximity” refers only to a distance or distances within which the purchase, lease, or concession of real estate could pose a national security risk in connection with a United States military installation or another facility or property of the United States Government described in that subparagraph.
+      - **(iii)**
+        - **(I)** For purposes of subparagraph (B)(ii)(II)(bb), the Committee may prescribe, through regulations, a list of military installations or other facilities or properties of the United States Government that are sensitive for reasons relating to national security. Such list may include certain facilities or properties of the intelligence community and National Laboratories (as defined in section 15801 of title 42 ).
+        - **(II)** Not later than one year after December 18, 2025 , and periodically thereafter, each member of the Committee shall—
     - **(D)**
       - **(i)** For purposes of subparagraph (B)(iii), the term “other investment” means an investment, direct or indirect, by a foreign person in a United States business described in that subparagraph that is not an investment described in subparagraph (B)(i) and that affords the foreign person—
         - **(I)** access to any material nonpublic technical information in the possession of the United States business;
@@ -132,12 +134,13 @@ status: "active"
       - **(ii)** The authority of the Secretary or the head of an agency referred to in clause (i) may not be delegated to any person, other than the Deputy Secretary of the Treasury or the deputy head (or the equivalent thereof) of the lead agency, respectively.
     - **(E)** The Chairperson shall, not later than 180 days after the effective date of the Foreign Investment and National Security Act of 2007, publish in the Federal Register guidance on the types of transactions that the Committee has reviewed and that have presented national security considerations, including transactions that may constitute covered transactions that would result in control of critical infrastructure relating to United States national security by a foreign government or an entity controlled by or acting on behalf of a foreign government.
   - **(3)**
-    - **(A)** Upon completion of a review under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
+    - **(A)** Upon completion of a review under this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD), the chairperson and the head of the lead agency shall transmit a certified notice to the members of Congress specified in subparagraph (C)(iii).
     - **(B)** As soon as is practicable after completion of an investigation under subsection (b) that concludes action under this section, the chairperson and the head of the lead agency shall transmit to the members of Congress specified in subparagraph (C)(iii) a certified written report (consistent with the requirements of subsection (c)) on the results of the investigation, unless the matter under investigation has been sent to the President for decision.
     - **(C)**
       - **(i)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be submitted to the members of Congress specified in clause (iii), and shall include—
-        - **(I)** a description of the actions taken by the Committee with respect to the transaction; and
-        - **(II)** a certification that all relevant national security factors have received full consideration.
+        - **(I)** a description of the actions taken by the Committee with respect to the transaction;
+        - **(II)** a certification that all relevant national security factors have received full consideration; and
+        - **(III)** whether the transaction is described under clause (i), (ii), (iii), (iv), or (v) of subsection (a)(4)(B).
       - **(ii)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be signed by the chairperson and the head of the lead agency, and shall state that, in the determination of the Committee, there are no unresolved national security concerns with the transaction that is the subject of the notice or report.
       - **(iii)** Each certified notice and report required under subparagraphs (A) and (B), respectively, shall be transmitted—
         - **(I)** to the Majority Leader and the Minority Leader of the Senate;
@@ -336,6 +339,7 @@ status: "active"
       - **(iii)** the number of transactions identified through the process established under that subsection during the reporting period and the number of such transactions flagged for further review.
     - **(J)** A summary of the hiring practices and policies of the Committee pursuant to subsection (k)(4).
     - **(K)** A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
+    - **(L)** Information on whether the most recent list of sites identified under subsection (a)(4)(C)(iii) reflects consideration of any recommended updates and revisions submitted under subclause (II) of that subsection. Upon request from the Committee on Financial Services of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee shall provide to that committee a classified briefing regarding that list.
   - **(3)** In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
     - **(A)** an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer;
     - **(B)** an evaluation of whether there are industrial espionage activities directed or directly assisted by foreign governments against private United States companies aimed at obtaining commercial secrets related to critical technologies; and

@@ -3,10 +3,9 @@ title: "Section 7507 - State and local supplementation of commodities"
 usc_title: 7
 usc_section: "7507"
 chapter: 102
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 7507"
-generated_at: "2026-03-30T10:01:46.826Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.455Z"
 ---
 
 # § 7507. State and local supplementation of commodities
@@ -28,7 +27,7 @@ status: "active"
     - **(B)** to provide food to individuals in need; and
     - **(C)** to build relationships between agricultural producers, processors, and distributors and emergency feeding organizations through the donation of food.
   - **(4)** The Secretary may encourage a State agency that carries out a project using Federal funds received under paragraph (2) to enter into cooperative agreements with State agencies of other States under section 7505(d) of this title to maximize the use of commodities donated under the project.
-  - **(5)** Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2023, to remain available until the end of the subsequent fiscal year.
+  - **(5)** Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2031, to remain available until the end of the subsequent fiscal year.
 - **(e)** The Secretary shall issue guidance outlining best practices to minimize the food waste of the commodities donated under subsection (a).
 - **(f)**
   - **(1)** In this subsection:

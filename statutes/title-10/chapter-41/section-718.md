@@ -3,10 +3,9 @@ title: "Section 718 - Repealed. Pub. L. 99–433, title I, § 110(a)(1) , Oct. 1
 usc_title: 10
 usc_section: "718"
 chapter: 41
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 718"
-generated_at: "2026-03-30T10:02:00.787Z"
-status: "repealed"
+generated_at: "2026-03-30T02:53:38.075Z"
 ---
 
 # [§ 718. Repealed. Pub. L. 99–433, title I, § 110(a)(1) , Oct. 1, 1986 , 100 Stat. 1001 ]

@@ -3,10 +3,9 @@ title: "Section 11294 - Grants"
 usc_title: 34
 usc_section: "11294"
 chapter: 111
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 11294"
-generated_at: "2026-03-30T10:03:07.010Z"
-status: "active"
+generated_at: "2026-03-30T02:55:33.281Z"
 ---
 
 # § 11294. Grants

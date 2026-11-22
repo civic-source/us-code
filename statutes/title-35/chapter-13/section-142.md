@@ -3,10 +3,9 @@ title: "Section 142 - Notice of appeal"
 usc_title: 35
 usc_section: "142"
 chapter: 13
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "35 U.S.C. § 142"
-generated_at: "2026-03-30T10:02:55.710Z"
-status: "active"
+generated_at: "2026-03-30T02:55:34.237Z"
 ---
 
 # § 142. Notice of appeal

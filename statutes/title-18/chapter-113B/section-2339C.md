@@ -3,10 +3,9 @@ title: "Section 2339C - Prohibitions against the financing of terrorism"
 usc_title: 18
 usc_section: "2339C"
 chapter: 113
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 2339C"
-generated_at: "2026-03-30T10:02:16.760Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.504Z"
 ---
 
 # § 2339C. Prohibitions against the financing of terrorism

@@ -3,10 +3,9 @@ title: "Section 923a - Art. 123a. Making, drawing, or uttering check, draft, or 
 usc_title: 10
 usc_section: "923a"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 923a"
-generated_at: "2026-03-30T10:02:00.795Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.086Z"
 ---
 
 # § 923a. Art. 123a. Making, drawing, or uttering check, draft, or order without sufficient funds

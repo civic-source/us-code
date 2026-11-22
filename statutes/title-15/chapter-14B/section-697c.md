@@ -3,10 +3,9 @@ title: "Section 697c - Restrictions on development company assistance"
 usc_title: 15
 usc_section: "697c"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 697c"
-generated_at: "2026-03-30T10:02:07.453Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.113Z"
 ---
 
 # § 697c. Restrictions on development company assistance

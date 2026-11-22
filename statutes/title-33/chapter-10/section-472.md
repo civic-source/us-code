@@ -1,15 +1,12 @@
 ---
-title: "Section 472 - Marking anchorage grounds by Commandant of the Coast Guard"
+title: "Section 472 - Transferred"
 usc_title: 33
 usc_section: "472"
 chapter: 10
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 472"
-generated_at: "2026-03-30T10:03:00.760Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.059Z"
 ---
 
-# § 472. Marking anchorage grounds by Commandant of the Coast Guard
-
-The Commandant of the Coast Guard shall provide, establish, and maintain, out of the annual appropriations for the Coast Guard, buoys or other suitable marks for marking anchorage grounds for vessels in waters of the United States, when such anchorage grounds have been defined and established by proper authority in accordance with the laws of the United States.
+# § 472. Transferred
 

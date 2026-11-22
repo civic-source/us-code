@@ -1,0 +1,30 @@
+---
+title: "Section 996 - Individual Longitudinal Exposure Record"
+usc_title: 10
+usc_section: "996"
+chapter: 50
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 996"
+generated_at: "2026-03-30T02:53:38.095Z"
+---
+
+# § 996. Individual Longitudinal Exposure Record
+
+- **(a)** The Secretary of Defense shall maintain a data system that is a central web portal for exposure-related data that compiles, collates, presents, and provides available occupational and environmental exposure information to support the needs of the Department of Defense and the Department of Veterans Affairs. Such data system shall be referred to as the “Individual Longitudinal Exposure Record”.
+- **(b)** The Individual Longitudinal Exposure Record includes the following elements:
+  - **(1)** Service records of members of the armed forces.
+  - **(2)** All data available to the Secretary regarding how, where, and when members of the armed forces have been exposed to various occupational or environmental hazards.
+  - **(3)** Medical records of members relating to exposures described in paragraph (2), including diagnoses, treatment plans, and laboratory data.
+- **(c)** If a member is a member described in paragraph (2) of subsection (b), the Secretary shall include the data described in such paragraph in the service record of such member.
+- **(d)** The Secretary shall provide access to information in the Individual Longitudinal Exposure Record to the following:
+  - **(1)** The Secretary of Veterans Affairs.
+  - **(2)** The Director of the Defense Health Agency, for use by health care providers, epidemiologists, and researchers of the Department of Defense.
+  - **(3)** The Under Secretary for Health of the Department of Veterans Affairs, for use by health care providers, epidemiologists, and researchers of such department.
+  - **(4)** The Under Secretary for Benefits of the Department of Veterans Affairs, for use by personnel of such department regarding compensation and benefits for service-connected disabilities or death.
+- **(e)**
+  - **(1)** The Secretary of Defense shall submit, to the committees specified in paragraph (2), an annual briefing regarding the Individual Longitudinal Exposure Record, including an explanation of how the Secretary intends to include in the Individual Longitudinal Exposure Record data described in subsection (b)(2) in cases where part or all of such data is classified.
+  - **(2)** The committees specified in this paragraph are the following:
+    - **(A)** The Committee on Armed Services of the Senate.
+    - **(B)** The Committee on Armed Services of House of Representatives.
+    - **(C)** The Committee on Veterans’ Affairs of the Senate.
+    - **(D)** The Committee on Veterans’ Affairs of the House of Representatives.

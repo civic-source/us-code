@@ -3,10 +3,9 @@ title: "Section 1079 - Contracts for medical care for spouses and children: plan
 usc_title: 10
 usc_section: "1079"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1079"
-generated_at: "2026-03-30T10:02:00.808Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.105Z"
 ---
 
 # § 1079. Contracts for medical care for spouses and children: plans
@@ -30,7 +29,7 @@ status: "active"
     - **(A)** breast reconstructive surgery following a mastectomy may be provided;
     - **(B)** reconstructive surgery to correct serious deformities caused by congenital anomalies or accidental injuries may be provided; and
     - **(C)** neoplastic surgery may be provided.
-  - **(12)** Any service or supply which is not medically or psychologically necessary to prevent, diagnose, or treat a mental or physical illness, injury, or bodily malfunction as assessed or diagnosed by a physician, dentist, clinical psychologist, certified marriage and family therapist, optometrist, podiatrist, certified nurse-midwife, certified nurse practitioner, or certified clinical social worker, as appropriate, may not be provided, except as authorized in paragraph (4). Pursuant to an agreement with the Secretary of Health and Human Services and under such regulations as the Secretary of Defense may prescribe, the Secretary of Defense may waive the operation of this paragraph in connection with clinical trials sponsored or approved by the National Institutes of Health if the Secretary of Defense determines that such a waiver will promote access by covered beneficiaries to promising new treatments and contribute to the development of such treatments.
+  - **(12)** Any service or supply which is not medically or psychologically necessary to prevent, diagnose, or treat a mental or physical illness, injury, or bodily malfunction as assessed or diagnosed by a physician, dentist, clinical psychologist, certified marriage and family therapist, optometrist, podiatrist, certified nurse-midwife, certified nurse practitioner, certified clinical social worker, or other class of provider as designated by the Secretary of Defense, as appropriate, may not be provided, except as authorized in paragraph (4). Pursuant to an agreement with the Secretary of Health and Human Services and under such regulations as the Secretary of Defense may prescribe, the Secretary of Defense may waive the operation of this paragraph in connection with clinical trials sponsored or approved by the National Institutes of Health if the Secretary of Defense determines that such a waiver will promote access by covered beneficiaries to promising new treatments and contribute to the development of such treatments.
   - **(13)** The prohibition contained in section 1077(b)(3) of this title shall not apply in the case of a member or former member of the uniformed services.
   - **(14)** Electronic cardio-respiratory home monitoring equipment (apnea monitors) for home use may be provided if a physician prescribes and supervises the use of the monitor for an infant—
     - **(A)** who has had an apparent life-threatening event,
@@ -40,6 +39,15 @@ status: "active"
   - **(15)** Hospice care may be provided only in the manner and under the conditions provided in section 1861(dd) of the Social Security Act ( 42 U.S.C. 1395x(dd) ), except that hospice care may be provided to an individual under the age of 21 concurrently with health care services or hospitalization for the same condition.
   - **(16)** Forensic examinations following a sexual assault or domestic violence may be provided.
   - **(17)** Breastfeeding support, supplies (including breast pumps and associated equipment), and counseling shall be provided as appropriate during pregnancy and the postpartum period.
+  - **(18)** Treatment for eating disorders may be provided in accordance with subsection (r).
+  - **(19)** Preconception and prenatal carrier screening tests shall be provided to eligible covered beneficiaries, with a limit per beneficiary of one test per condition per lifetime, for the following conditions:
+    - **(A)** Cystic Fibrosis.
+    - **(B)** Spinal Muscular Atrophy.
+    - **(C)** Fragile X Syndrome.
+    - **(D)** Tay-Sachs Disease.
+    - **(E)** Hemoglobinopathies.
+    - **(F)** Conditions linked with Ashkenazi Jewish descent.
+  - **(20)** Medical interventions for the treatment of gender dysphoria that could result in sterilization may not be provided to a child under the age of 18.
 - **(b)** Plans covered by subsection (a) shall include provisions for payment by the patient of the following amounts:
   - **(1)** $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
   - **(2)** Except as provided in clause (3), the first $150 each calendar year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of all subsequent charges for such care during a calendar year. Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each calendar year under this paragraph shall be limited to $50.
@@ -53,23 +61,35 @@ status: "active"
   - **(3)** In this subsection:
     - **(A)** The term “eligible dependent” means a dependent of a member of the uniformed services on active duty for a period of more than 30 days, as described in subparagraph (A), (D), or (I) of section 1072(2) of this title , who has a qualifying condition.
     - **(B)** The term “qualifying condition” means the condition of a dependent who is moderately or severely mentally retarded, has a serious physical disability, or has an extraordinary physical or psychological condition.
-- **(e)** Extended benefits for eligible dependents under subsection (d) may include comprehensive health care services (including services necessary to maintain, or minimize or prevent deterioration of, function of the patient) and case management services with respect to the qualifying condition of such a dependent, and include, to the extent such benefits are not provided under provisions of this chapter other than under this section, the following:
-  - **(1)** Diagnosis.
-  - **(2)** Inpatient, outpatient, and comprehensive home health care supplies and services which may include cost effective and medically appropriate services other than part-time or intermittent services (within the meaning of such terms as used in the second sentence of section 1861(m) of the Social Security Act).
-  - **(3)** Training, rehabilitation, special education, and assistive technology devices.
-  - **(4)** Institutional care in private nonprofit, public, and State institutions and facilities and, if appropriate, transportation to and from such institutions and facilities.
-  - **(5)** Custodial care, notwithstanding the prohibition in section 1077(b)(1) of this title .
-  - **(6)** Respite care for the primary caregiver of the eligible dependent.
-  - **(7)** Such other services and supplies as determined appropriate by the Secretary, notwithstanding the limitations in subsection (a)(12).
+- **(e)**
+  - **(1)** Extended benefits for eligible dependents under subsection (d) may include comprehensive health care services (including services necessary to maintain, or minimize or prevent deterioration of, function of the patient) and case management services with respect to the qualifying condition of such a dependent, and include, to the extent such benefits are not provided under provisions of this chapter other than under this section, the following:
+    - **(A)** Diagnosis and screening.
+    - **(B)** Inpatient, outpatient, and comprehensive home health care supplies and services which may include cost-effective and medically appropriate services other than part-time or intermittent services (within the meaning of such terms as used in the second sentence of section 1861(m) of the Social Security Act ( 42 U.S.C. 1395x )).
+    - **(C)** Rehabilitation services and devices.
+    - **(D)** In accordance with paragraph (2), respite care for the primary caregiver of the eligible dependent.
+    - **(E)** In accordance with paragraph (3), service and modification of durable equipment and assistive technology devices.
+    - **(F)** Special education.
+    - **(G)** Vocational training, which may be furnished to an eligible dependent in the residence of the eligible dependent or at a facility in which such training is provided.
+    - **(H)** Such other services and supplies as determined appropriate by the Secretary, notwithstanding the limitations in subsection (a)(12).
+  - **(2)** Respite care under paragraph (1)(D) shall be provided subject to the following conditions:
+    - **(A)** Pursuant to regulations prescribed by the Secretary for purposes of this paragraph, such respite care shall be limited to 32 hours per month for a primary caregiver.
+    - **(B)** Unused hours of such respite care may not be carried over to another month.
+    - **(C)** Such respite care may be provided to an eligible beneficiary regardless of whether the eligible beneficiary is receiving another benefit under this subsection.
+  - **(3)**
+    - **(A)** Service and modification of durable equipment and assistive technology devices under paragraph (1)(E) may be provided only upon determination by the Secretary that the service or modification is necessary for the use of such equipment or device by the eligible dependent.
+    - **(B)** Service and modification of durable equipment and assistive technology devices under such paragraph may not be provided—
+      - **(i)** in the case of misuse, loss, or theft of the equipment or device; or
+      - **(ii)** for a deluxe, luxury, or immaterial feature of the equipment or device, as determined by the Secretary.
+    - **(C)** Service and modification of durable equipment and assistive technology devices under such paragraph may include training of the eligible dependent and immediate family members of the eligible dependent on the use of the equipment or device.
 - **(f)**
   - **(1)** Members shall be required to share in the cost of any benefits provided to their dependents under subsection (d) as follows:
     - **(A)** Members in the lowest enlisted pay grade shall be required to pay the first $25 incurred each month, and members in the highest commissioned pay grade shall be required to pay the first $250 incurred each month. The amounts to be paid by members in all other pay grades shall be determined under regulations to be prescribed by the Secretary of Defense in consultation with the administering Secretaries.
     - **(B)** A member who has more than one dependent incurring expenses in a given month under a plan covered by subsection (d) shall not be required to pay an amount greater than would be required if the member had only one such dependent.
-  - **(2)** In the case of extended benefits provided under paragraph (3) or (4) of subsection (e) to a dependent of a member of the uniformed services—
+  - **(2)** In the case of extended benefits provided under subparagraph (C), (E), (F), or (G) of subsection (e)(1) to a dependent of a member of the uniformed services—
     - **(A)** the Government’s share of the total cost of providing such benefits in any year shall not exceed $36,000, prorated as determined by the Secretary of Defense, except for costs that a member is exempt from paying under paragraph (3); and
     - **(B)** the member shall pay (in addition to any amount payable under paragraph (1)) the amount, if any, by which the amount of such total cost for the year exceeds the Government’s maximum share under subparagraph (A).
   - **(3)** A member of the uniformed services who incurs expenses under paragraph (2) for a month for more than one dependent shall not be required to pay for the month under subparagraph (B) of that paragraph an amount greater than the amount the member would otherwise be required to pay under that subparagraph for the month if the member were incurring expenses under that subparagraph for only one dependent.
-  - **(4)** To qualify for extended benefits under paragraph (3) or (4) of subsection (e), a dependent of a member of the uniformed services shall be required to use public facilities to the extent such facilities are available and adequate, as determined under joint regulations of the administering Secretaries.
+  - **(4)** To qualify for extended benefits under subparagraph (C), (E), (F), or (G) of subsection (e)(1), a dependent of a member of the uniformed services shall be required to use public facilities to the extent such facilities are available and adequate, as determined under joint regulations of the administering Secretaries.
   - **(5)** The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations to carry out this subsection.
 - **(g)**
   - **(1)** When a member dies while he is eligible for receipt of hostile fire pay under section 310 or 351 of title 37 or from a disease or injury incurred while eligible for such pay, his dependents who are receiving benefits under a plan covered by subsection (d) shall continue to be eligible for such benefits until they pass their twenty-first birthday.
@@ -126,4 +146,12 @@ status: "active"
   - **(4)** The Secretary of Defense may provide for coverage of a dependent referred to in subsection (a) who is not described in paragraph (3) if the Secretary determines that exceptional circumstances warrant such coverage.
   - **(5)** The Secretary of Defense shall consult with the other administering Secretaries in the administration of this subsection.
 - **(p)** Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title ) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unless the administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
-- **(q)** In the case of any pharmaceutical agent (as defined in section 1074g(h) 1 1 See References in Text note below. of this title) provided under a contract entered into under this section by a physician, in an outpatient department of a hospital, or otherwise as part of any medical services provided under such a contract, the Secretary of Defense may, under regulations prescribed by the Secretary, adopt special reimbursement methods, amounts, and procedures to encourage the use of high-value products and discourage the use of low-value products, as determined by the Secretary.
+- **(q)** In the case of any pharmaceutical agent (as defined in section 1074g(i) of this title ) provided under a contract entered into under this section by a physician, in an outpatient department of a hospital, or otherwise as part of any medical services provided under such a contract, the Secretary of Defense may, under regulations prescribed by the Secretary, adopt special reimbursement methods, amounts, and procedures to encourage the use of high-value products and discourage the use of low-value products, as determined by the Secretary.
+- **(r)**
+  - **(1)** The provision of health care services for an eating disorder under subsection (a)(18) may include the following services:
+    - **(A)** Outpatient services for in-person or telehealth care, including partial hospitalization services and intensive outpatient services.
+    - **(B)** Inpatient services, which shall include residential services only if medically indicated for treatment of a primary diagnosis of an eating disorder.
+  - **(2)** A dependent provided health care services for an eating disorder under subsection (a)(18) shall be provided such services without regard to—
+    - **(A)** the age of the dependent, except with respect to residential services under paragraph (1)(B), which may be provided only to a dependent who is not eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act ( 42 U.S.C. 1395c et seq.); and
+    - **(B)** except as otherwise specified in paragraph (1)(B), whether the eating disorder is the primary or secondary diagnosis of the dependent.
+  - **(3)** In this section, the term “eating disorder” has the meaning given the term “feeding and eating disorders” in the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or successor edition), published by the American Psychiatric Association.

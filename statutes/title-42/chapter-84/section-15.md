@@ -3,10 +3,9 @@ title: "Section 15 - Office of Ombudsman"
 usc_title: 42
 usc_section: "15"
 chapter: 84
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T10:03:30.243Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.293Z"
 ---
 
 # § 7385s–15. Office of Ombudsman
@@ -33,4 +32,3 @@ status: "active"
     - **(C)** if the Secretary does not agree with the Ombudsman on those issues, describes the reasons the Secretary does not agree.
 - **(f)** The Secretary of Labor and the Secretary of Health and Human Services shall each undertake outreach to advise the public of the existence and duties of the Office.
 - **(g)** In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
-- **(h)** Effective October 28, 2020 , this section shall have no further force or effect.

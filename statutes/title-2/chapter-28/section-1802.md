@@ -3,13 +3,12 @@ title: "Section 1802 - Compensation"
 usc_title: 2
 usc_section: "1802"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1802"
-generated_at: "2026-03-30T10:01:29.400Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.817Z"
 ---
 
 # § 1802. Compensation
 
-The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the maximum rate of pay in effect under section 4575(f) of this title .
+The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the annual rate of basic pay for level II of the Executive Schedule under section 5313 of title 5 .
 

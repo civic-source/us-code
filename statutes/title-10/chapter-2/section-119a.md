@@ -3,10 +3,9 @@ title: "Section 119a - Programs managed under alternative compensatory control m
 usc_title: 10
 usc_section: "119a"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 119a"
-generated_at: "2026-03-30T10:02:00.757Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.031Z"
 ---
 
 # § 119a. Programs managed under alternative compensatory control measures: congressional oversight
@@ -47,3 +46,8 @@ status: "active"
     - **(A)** the congressional defense committees are notified of the program; and
     - **(B)** a period of 30 days elapses after such notification is received.
   - **(2)** If the Secretary determines that waiting for the regular notification process before initiating a program as described in paragraph (1) would cause exceptionally grave damage to the national security, the Secretary may begin a program to be managed under alternative compensatory control measures in the Department before such waiting period elapses. The Secretary shall notify the congressional defense committees within 10 days of initiating a program under this paragraph, including a justification for the determination of the Secretary that waiting for the regular notification process would cause exceptionally grave damage to the national security.
+- **(g)**
+  - **(1)** Neither the Secretary of Defense nor the Director of National Intelligence may take any action that would have the effect of limiting the access of the congressional defense committees to—
+    - **(A)** any classified program, or any information about any classified program, to which such committees have access as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022; or
+    - **(B)** any classified program established, or any information about any classified program that becomes available, after the date of the enactment of such Act that is within the jurisdiction of such committees.
+  - **(2)** In this subsection, the term “classified program” includes any special access program, alternative compensatory control measure, or any other controlled access program.

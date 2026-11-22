@@ -3,10 +3,9 @@ title: "Section 395 - Notification requirements for sensitive military cyber ope
 usc_title: 10
 usc_section: "395"
 chapter: 19
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 395"
-generated_at: "2026-03-30T10:02:00.775Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.057Z"
 ---
 
 # § 395. Notification requirements for sensitive military cyber operations
@@ -19,15 +18,17 @@ status: "active"
 - **(c)**
   - **(1)** In this section, the term “sensitive military cyber operation” means an action described in paragraph (2) that—
     - **(A)** is carried out by the armed forces of the United States;
-    - **(B)** is determined to—
-      - **(i)** have a medium or high collateral effects estimate;
-      - **(ii)** have a medium or high intelligence gain or loss;
-      - **(iii)** have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;
-      - **(iv)** have a medium or high probability of detection when detection is not intended; or
-      - **(v)** result in medium or high collateral effects; and
-    - **(C)** is intended to cause cyber effects outside a geographic location—
-      - **(i)** where the armed forces of the United States are involved in hostilities (as that term is used in section 1543 of title 50 , United States Code); or
-      - **(ii)** with respect to which hostilities have been declared by the United States.
+    - **(B)** is intended to achieve a cyber effect against a foreign terrorist organization or a country, including its armed forces and the proxy forces of that country located elsewhere—
+      - **(i)** with which the armed forces of the United States are not involved in hostilities (as that term is used in section 4 of the War Powers Resolution ( 50 U.S.C. 1543 )); or
+      - **(ii)** with respect to which the involvement of the armed forces of the United States in hostilities has not been acknowledged publicly by the United States; and
+    - **(C)**
+      - **(i)** is determined to—
+        - **(I)** have a medium or high collateral effects estimate;
+        - **(II)** have a medium or high intelligence gain or loss;
+        - **(III)** have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;
+        - **(IV)** have a medium or high probability of detection when detection is not intended; or
+        - **(V)** result in medium or high collateral effects; or
+      - **(ii)** is a matter the Secretary determines to be appropriate.
   - **(2)** The actions described in this paragraph are the following:
     - **(A)** An offensive cyber operation.
     - **(B)** A defensive cyber operation.

@@ -3,10 +3,9 @@ title: "Section 3831c - Pilot programs"
 usc_title: 16
 usc_section: "3831c"
 chapter: 58
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3831c"
-generated_at: "2026-03-30T10:02:22.479Z"
-status: "active"
+generated_at: "2026-03-30T02:54:23.025Z"
 ---
 
 # § 3831c. Pilot programs
@@ -72,7 +71,7 @@ status: "active"
     - **(B)** The term “eligible land” does not include any land that was enrolled in a conservation reserve program contract in any of the 3 crop years preceding enrollment in the pilot program under this subsection.
   - **(2)**
     - **(A)** The Secretary shall establish a voluntary soil health and income protection pilot program under which eligible land is enrolled through the use of contracts to assist owners and operators of eligible land to conserve and improve the soil, water, and wildlife resources of the eligible land.
-    - **(B)** Eligible land may be enrolled in the program under this section through December 31, 2020 .
+    - **(B)** Eligible land may be enrolled in the program under this section through December 31, 2020 . 1 1 See Soil Health and Income Protection Pilot Program Extension note below.
   - **(3)**
     - **(A)** A contract described in paragraph (2) shall—
       - **(i)** be entered into by the Secretary, the owner of the eligible land, and (if applicable) the operator of the eligible land; and

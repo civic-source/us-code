@@ -3,10 +3,9 @@ title: "Section 3021 - Supplemental educational assistance for additional servic
 usc_title: 38
 usc_section: "3021"
 chapter: 30
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 3021"
-generated_at: "2026-03-30T10:03:11.965Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.499Z"
 ---
 
 # § 3021. Supplemental educational assistance for additional service

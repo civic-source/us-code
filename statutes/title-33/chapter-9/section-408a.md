@@ -3,10 +3,9 @@ title: "Section 408a - Expediting approval of modifications and alterations of p
 usc_title: 33
 usc_section: "408a"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 408a"
-generated_at: "2026-03-30T10:03:00.756Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.054Z"
 ---
 
 # § 408a. Expediting approval of modifications and alterations of projects by non-Federal interests

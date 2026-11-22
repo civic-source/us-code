@@ -3,10 +3,9 @@ title: "Section 15 - Application and use of adopted standards and implementation
 usc_title: 42
 usc_section: "15"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T10:03:29.876Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.845Z"
 ---
 
 # § 300jj–15. Application and use of adopted standards and implementation specifications by Federal agencies

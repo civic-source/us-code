@@ -3,10 +3,9 @@ title: "Section 6306 - Qualified tax collection contracts"
 usc_title: 26
 usc_section: "6306"
 chapter: 64
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6306"
-generated_at: "2026-03-30T10:02:53.525Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.847Z"
 ---
 
 # § 6306. Qualified tax collection contracts
@@ -28,7 +27,7 @@ status: "active"
   - **(2)** For purposes of this section—
     - **(A)** The term “inactive tax receivable” means any tax receivable if—
       - **(i)** at any time after assessment, the Internal Revenue Service removes such receivable from the active inventory for lack of resources or inability to locate the taxpayer,
-      - **(ii)** more than ⅓ of the period of the applicable statute of limitation has lapsed and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
+      - **(ii)** more than 2 years has passed since assessment and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
       - **(iii)** in the case of a receivable which has been assigned for collection, more than 365 days have passed without interaction with the taxpayer or a third party for purposes of furthering the collection of such receivable.
     - **(B)** The term “tax receivable” means any outstanding assessment which the Internal Revenue Service includes in potentially collectible inventory.
 - **(d)** A tax receivable shall not be eligible for collection pursuant to a qualified tax collection contract if such receivable—
@@ -37,8 +36,10 @@ status: "active"
   - **(3)** involves a taxpayer identified by the Secretary as being—
     - **(A)** deceased,
     - **(B)** under the age of 18,
-    - **(C)** in a designated combat zone, or
+    - **(C)** in a designated combat zone,
     - **(D)** a victim of tax-related identity theft,
+    - **(E)** a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66 ), or
+    - **(F)** a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),
   - **(4)** is currently under examination, litigation, criminal investigation, or levy, or
   - **(5)** is currently subject to a proper exercise of a right of appeal under this title.
 - **(e)** The Secretary may retain and use—

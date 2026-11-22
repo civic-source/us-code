@@ -3,10 +3,9 @@ title: "Section 3513b - Working capital fund; availability for common personnel 
 usc_title: 42
 usc_section: "3513b"
 chapter: 43
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 3513b"
-generated_at: "2026-03-30T10:03:30.156Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.187Z"
 ---
 
 # § 3513b. Working capital fund; availability for common personnel support services

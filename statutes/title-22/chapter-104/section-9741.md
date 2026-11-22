@@ -3,10 +3,9 @@ title: "Section 9741 - Recovering assets stolen from the Venezuelan people"
 usc_title: 22
 usc_section: "9741"
 chapter: 104
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9741"
-generated_at: "2026-03-30T10:02:42.495Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.473Z"
 ---
 
 # § 9741. Recovering assets stolen from the Venezuelan people

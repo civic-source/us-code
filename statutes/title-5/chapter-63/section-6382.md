@@ -3,10 +3,9 @@ title: "Section 6382 - Leave requirement"
 usc_title: 5
 usc_section: "6382"
 chapter: 63
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 6382"
-generated_at: "2026-03-30T10:01:40.561Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.033Z"
 ---
 
 # § 6382. Leave requirement
@@ -28,12 +27,12 @@ status: "active"
     - **(B)** better accommodates recurring periods of leave than the regular employment position of the employee.
 - **(c)** Except as provided in subsection (d), leave granted under subsection (a) shall be leave without pay.
 - **(d)**
-  - **(1)** An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee’s accrued or accumulated annual or sick leave under subchapter I for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee’s accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection.
+  - **(1)** An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee’s accrued or accumulated annual or sick leave for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee’s accrued or accumulated annual or sick leave for any part of the 26-week period of leave under such subsection.
   - **(2)**
     - **(A)** An employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of subsection (a)(1) any paid leave which is available to such employee for that purpose.
     - **(B)** The paid leave that is available to an employee for purposes of subparagraph (A) is—
       - **(i)** 12 administrative workweeks of paid parental leave under this subparagraph in connection with the birth or placement involved; and
-      - **(ii)** during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee under subchapter I.
+      - **(ii)** during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee.
     - **(C)** Nothing in this subsection shall be considered to require that an employee first use all or any portion of the leave described in subparagraph (B)(ii) before being allowed to use the paid parental leave described in subparagraph (B)(i).
     - **(D)** Paid parental leave under subparagraph (B)(i)—
       - **(i)** shall be payable from any appropriation or fund available for salaries or expenses for positions within the employing agency;

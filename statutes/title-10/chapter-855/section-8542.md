@@ -3,10 +3,9 @@ title: "Section 8542 - President; assistants"
 usc_title: 10
 usc_section: "8542"
 chapter: 855
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8542"
-generated_at: "2026-03-30T10:02:00.896Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.245Z"
 ---
 
 # § 8542. President; assistants
@@ -28,7 +27,7 @@ status: "active"
       - **(i)** a doctorate degree in a field of study relevant to the mission and function of the Naval Postgraduate School; or
       - **(ii)** a master’s degree in a field of study relevant to the mission and function of the Naval Postgraduate School, but only if—
         - **(I)** the individual is an active-duty or retired officer of the Navy or Marine Corps in a grade not below the grade of captain or colonel, respectively; and
-        - **(II)** at the time of the selection of that individual as President, the individual permanently appointed to the position of Provost and Academic Dean has a doctorate degree in such a field of study.
+        - **(II)** at the time of the selection of that individual as President, the individual selected for the position of Provost and Chief Academic Officer has a doctorate degree in such a field of study.
     - **(B)** A comprehensive understanding of the Department of the Navy, the Department of Defense, and joint and combined operations.
     - **(C)** Leadership experience at the senior level in a large and diverse organization.
     - **(D)** Demonstrated ability to foster and encourage a program of research in order to sustain academic excellence.

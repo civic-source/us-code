@@ -3,10 +3,9 @@ title: "Section 60118 - Compliance and waivers"
 usc_title: 49
 usc_section: "60118"
 chapter: 601
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 60118"
-generated_at: "2026-03-30T10:03:55.121Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.415Z"
 ---
 
 # § 60118. Compliance and waivers
@@ -14,7 +13,7 @@ status: "active"
 - **(a)** A person owning or operating a pipeline facility shall—
   - **(1)** comply with applicable safety standards prescribed under this chapter, except as provided in this section or in section 60126;
   - **(2)** prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title;
-  - **(3)** allow access to or copying of records, make reports and provide information, and allow entry or inspection required under section 60117(a)–(d) of this title; and
+  - **(3)** allow access to or copying of records, make reports and provide information, and allow entry or inspection required under subsections (a) through (e) of section 60117 of this title ; and
   - **(4)** conduct a risk analysis, and adopt and implement an integrity management program, for pipeline facilities as required under section 60109(c).
 - **(b)** The Secretary of Transportation may issue orders directing compliance with this chapter, an order under section 60126, or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.
 - **(c)**

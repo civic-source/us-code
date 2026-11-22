@@ -3,10 +3,9 @@ title: "Section 8464 - Hazing: definition; prohibition"
 usc_title: 10
 usc_section: "8464"
 chapter: 853
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8464"
-generated_at: "2026-03-30T10:02:00.895Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.243Z"
 ---
 
 # § 8464. Hazing: definition; prohibition
@@ -16,4 +15,4 @@ status: "active"
 - **(c)** Hazing is an offense that may be dealt with as an offense against good order and discipline or as a violation of the regulations of the Naval Academy. However, no midshipman may be dismissed for a single act of hazing except by sentence of a court-martial.
 - **(d)** The finding and sentence of a court-martial of a midshipman for hazing shall be reviewed in the manner prescribed for general court-martial cases.
 - **(e)** A midshipman who is sentenced to imprisonment for hazing may not be confined with persons who have been convicted of crimes or misdemeanors.
-- **(f)** A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
+- **(f)** A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force until two years after the graduation of the class of which he was a member.

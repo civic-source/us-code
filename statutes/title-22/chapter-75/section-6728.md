@@ -3,10 +3,9 @@ title: "Section 6728 - Annual report on inspections"
 usc_title: 22
 usc_section: "6728"
 chapter: 75
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6728"
-generated_at: "2026-03-30T10:02:42.461Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.433Z"
 ---
 
 # § 6728. Annual report on inspections

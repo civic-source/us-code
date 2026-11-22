@@ -3,10 +3,9 @@ title: "Section 9420 - Recruit basic training: privacy"
 usc_title: 10
 usc_section: "9420"
 chapter: 951
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9420"
-generated_at: "2026-03-30T10:02:00.904Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.259Z"
 ---
 
 # § 9420. Recruit basic training: privacy

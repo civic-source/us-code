@@ -3,10 +3,9 @@ title: "Section 325 - False, fraudulent, or unauthorized transmissions"
 usc_title: 47
 usc_section: "325"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 325"
-generated_at: "2026-03-30T10:03:39.387Z"
-status: "active"
+generated_at: "2026-03-30T02:56:24.508Z"
 ---
 
 # § 325. False, fraudulent, or unauthorized transmissions
@@ -37,7 +36,7 @@ status: "active"
       - **(iii)** prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
       - **(iv)** prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission;
       - **(v)** prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission; and
-      - **(vi)** 1 1 See Delayed Effective Date of Amendment note below. not later than 90 days after December 20, 2019 , specify that—
+      - **(vi)** not later than 90 days after December 20, 2019 , specify that—
         - **(I)** a multichannel video programming distributor may satisfy its obligation to negotiate in good faith under clause (iii) with respect to a negotiation for retransmission consent under this section with a large station group by designating a qualified MVPD buying group to negotiate on its behalf, so long as the qualified MVPD buying group itself negotiates in good faith in accordance with such clause;
         - **(II)** it is a violation of the obligation to negotiate in good faith under clause (iii) for the qualified MVPD buying group to disclose the prices, terms, or conditions of an ongoing negotiation or the final terms of a negotiation to a member of the qualified MVPD buying group that is not intending, or is unlikely, to enter into the final terms negotiated by the qualified MVPD buying group; and
         - **(III)** a large station group has an obligation to negotiate in good faith under clause (ii) with respect to a negotiation for retransmission consent under this section with a qualified MVPD buying group.
@@ -47,19 +46,19 @@ status: "active"
   - **(7)** For purposes of this subsection, the term—
     - **(A)** “network station” has the meaning given such term under section 119(d) of title 17 ;
     - **(B)** “television broadcast station” means an over-the-air commercial or noncommercial television broadcast station licensed by the Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station;
-    - **(C)** 1 “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—
+    - **(C)** “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—
       - **(i)** negotiates on behalf of two or more multichannel video programming distributors—
         - **(I)** none of which is a multichannel video programming distributor that serves more than 500,000 subscribers nationally; and
         - **(II)** that do not collectively serve more than 25 percent of all households served by a multichannel video programming distributor in any single local market in which the applicable large station group operates; and
       - **(ii)** negotiates agreements for such retransmission consent—
         - **(I)** that contain standardized contract provisions, including billing structures and technical quality standards, for each multichannel video programming distributor on behalf of which the entity negotiates; and
         - **(II)** under which the entity assumes liability to remit to the applicable large station group all fees received from the multichannel video programming distributors on behalf of which the entity negotiates;
-    - **(D)** 1 “large station group” means a group of television broadcast stations that—
+    - **(D)** “large station group” means a group of television broadcast stations that—
       - **(i)** are directly or indirectly under common de jure control permitted by the regulations of the Commission;
       - **(ii)** generally negotiate agreements for retransmission consent under this section as a single entity; and
       - **(iii)** include only television broadcast stations that have a national audience reach of more than 20 percent;
-    - **(E)** 1 “local market” has the meaning given such term in section 122(j) of title 17 ; and
-    - **(F)** 1 “multichannel video programming distributor” has the meaning given such term in section 522 of this title .
+    - **(E)** “local market” has the meaning given such term in section 122(j) of title 17 ; and
+    - **(F)** “multichannel video programming distributor” has the meaning given such term in section 522 of this title .
 - **(c)** No person shall be permitted to locate, use, or maintain a radio broadcast studio or other place or apparatus from which or whereby sound waves are converted into electrical energy, or mechanical or physical reproduction of sound waves produced, and caused to be transmitted or delivered to a radio station in a foreign country for the purpose of being broadcast from any radio station there having a power output of sufficient intensity and/or being so located geographically that its emissions may be received consistently in the United States, without first obtaining a permit from the Commission upon proper application therefor.
 - **(d)** Such application shall contain such information as the Commission may by regulation prescribe, and the granting or refusal thereof shall be subject to the requirements of section 309 of this title with respect to applications for station licenses or renewal or modification thereof, and the license or permission so granted shall be revocable for false statements in the application so required or when the Commission, after hearings, shall find its continuation no longer in the public interest.
 - **(e)**

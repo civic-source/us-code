@@ -3,10 +3,9 @@ title: "Section 520c - Recruiting functions: provision of meals and refreshments
 usc_title: 10
 usc_section: "520c"
 chapter: 31
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 520c"
-generated_at: "2026-03-30T10:02:00.779Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.065Z"
 ---
 
 # § 520c. Recruiting functions: provision of meals and refreshments

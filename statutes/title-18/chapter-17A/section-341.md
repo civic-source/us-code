@@ -3,10 +3,9 @@ title: "Section 341 - Definitions"
 usc_title: 18
 usc_section: "341"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 341"
-generated_at: "2026-03-30T10:02:16.728Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.462Z"
 ---
 
 # § 341. Definitions

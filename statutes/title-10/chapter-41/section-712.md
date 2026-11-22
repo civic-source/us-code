@@ -3,15 +3,14 @@ title: "Section 712 - Foreign governments: detail to assist"
 usc_title: 10
 usc_section: "712"
 chapter: 41
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 712"
-generated_at: "2026-03-30T10:02:00.787Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.075Z"
 ---
 
 # § 712. Foreign governments: detail to assist
 
-- **(a)** Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, and Marine Corps to assist in military matters—
+- **(a)** Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, Marine Corps, and Space Force to assist in military matters—
   - **(1)** any republic in North America, Central America, or South America;
   - **(2)** the Republic of Cuba, Haiti, or Santo Domingo; and
   - **(3)** during a war or a declared national emergency, any other country that he considers it advisable to assist in the interest of national defense.

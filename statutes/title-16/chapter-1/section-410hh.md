@@ -3,10 +3,9 @@ title: "Section 410hh - Establishment of new areas"
 usc_title: 16
 usc_section: "410hh"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 410hh"
-generated_at: "2026-03-30T10:02:22.303Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.766Z"
 ---
 
 # § 410hh. Establishment of new areas

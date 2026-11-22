@@ -3,10 +3,9 @@ title: "Section 353 - Repealed. Pub. L. 85–508, § 6(k) , July 7, 1958 , 72 St
 usc_title: 48
 usc_section: "353"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 353"
-generated_at: "2026-03-30T10:03:34.413Z"
-status: "repealed"
+generated_at: "2026-03-30T02:56:14.579Z"
 ---
 
 # § 353. Repealed. Pub. L. 85–508, § 6(k) , July 7, 1958 , 72 Stat. 343

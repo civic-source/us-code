@@ -3,10 +3,9 @@ title: "Section 1219 - Repealed. Pub. L. 104–331, § 5(a) , Oct. 26, 1996 , 11
 usc_title: 2
 usc_section: "1219"
 chapter: 23
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1219"
-generated_at: "2026-03-30T10:01:29.393Z"
-status: "repealed"
+generated_at: "2026-03-30T02:53:04.809Z"
 ---
 
 # § 1219. Repealed. Pub. L. 104–331, § 5(a) , Oct. 26, 1996 , 110 Stat. 4072

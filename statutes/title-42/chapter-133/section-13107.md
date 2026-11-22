@@ -3,10 +3,9 @@ title: "Section 13107 - EPA report"
 usc_title: 42
 usc_section: "13107"
 chapter: 133
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 13107"
-generated_at: "2026-03-30T10:03:30.364Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.438Z"
 ---
 
 # § 13107. EPA report

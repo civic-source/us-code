@@ -3,10 +3,9 @@ title: "Section 208 - Reservation of powers"
 usc_title: 39
 usc_section: "208"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "39 U.S.C. § 208"
-generated_at: "2026-03-30T10:03:12.176Z"
-status: "active"
+generated_at: "2026-03-30T02:55:43.686Z"
 ---
 
 # § 208. Reservation of powers

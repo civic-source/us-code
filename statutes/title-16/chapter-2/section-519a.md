@@ -3,10 +3,9 @@ title: "Section 519a - Transfer of forest reservation lands for military purpose
 usc_title: 16
 usc_section: "519a"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 519a"
-generated_at: "2026-03-30T10:02:22.367Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.861Z"
 ---
 
 # § 519a. Transfer of forest reservation lands for military purposes

@@ -3,10 +3,9 @@ title: "Section 77hh - Assessments by Corporation on holders of foreign securiti
 usc_title: 15
 usc_section: "77hh"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 77hh"
-generated_at: "2026-03-30T10:02:07.383Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.036Z"
 ---
 
 # § 77hh. Assessments by Corporation on holders of foreign securities

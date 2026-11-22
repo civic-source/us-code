@@ -3,10 +3,9 @@ title: "Section 7353 - Gifts to Federal employees"
 usc_title: 5
 usc_section: "7353"
 chapter: 73
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 7353"
-generated_at: "2026-03-30T10:01:40.564Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.037Z"
 ---
 
 # § 7353. Gifts to Federal employees
@@ -28,5 +27,5 @@ status: "active"
     - **(B)** the Select Committee on Ethics of the Senate, or the Senate as a whole, for Senators, officers, and employees of the Senate;
     - **(C)** the Judicial Conference of the United States for judges and judicial branch officers and employees;
     - **(D)** the Office of Government Ethics for all executive branch officers and employees; and
-    - **(E)** in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under title I of the Ethics in Government Act of 1978 are transmitted under such title, except that the authority of this section may be delegated by such committee with respect to such officers and employees; and
+    - **(E)** in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under subchapter I of chapter 131 of this title are transmitted under such subchapter, except that the authority of this section may be delegated by such committee with respect to such officers and employees; and
   - **(2)** the term “officer or employee” means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.

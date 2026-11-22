@@ -3,10 +3,9 @@ title: "Section 46a - Concurrent resolution essential to authorize investigation
 usc_title: 15
 usc_section: "46a"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 46a"
-generated_at: "2026-03-30T10:02:07.374Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.026Z"
 ---
 
 # § 46a. Concurrent resolution essential to authorize investigations

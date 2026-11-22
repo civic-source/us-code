@@ -3,10 +3,9 @@ title: "Section 416 - Advisory Council"
 usc_title: 24
 usc_section: "416"
 chapter: 10
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "24 U.S.C. § 416"
-generated_at: "2026-03-30T10:02:24.408Z"
-status: "active"
+generated_at: "2026-03-30T02:54:50.791Z"
 ---
 
 # § 416. Advisory Council
@@ -15,9 +14,7 @@ status: "active"
 - **(b)**
   - **(1)** The Advisory Council shall provide to the Chief Operating Officer and the Administrator of each facility such guidance and recommendations on the administration of the Retirement Home and the quality of care provided to residents as the Advisory Council considers appropriate.
   - **(2)** Not less often than annually, the Advisory Council shall submit to the Secretary of Defense a report summarizing its activities during the preceding year and providing such observations and recommendations with respect to the Retirement Home as the Advisory Council considers appropriate.
-  - **(3)** In carrying out its functions, the Advisory Council shall—
-    - **(A)** provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home; and
-    - **(B)** make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.
+  - **(3)** In carrying out its functions, the Advisory Council shall provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home.
 - **(c)**
   - **(1)** The Advisory Council shall consist of at least 15 members.
   - **(2)** Members of the Advisory Council shall be designated by the Secretary of Defense, except that an individual who is not an employee of the Department of Defense shall be designated, in consultation with the Secretary of Defense, by the head of the Federal department or agency that employs the individual.

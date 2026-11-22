@@ -3,10 +3,9 @@ title: "Section 360n - Priority review to encourage treatments for tropical dise
 usc_title: 21
 usc_section: "360n"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 360n"
-generated_at: "2026-03-30T10:02:39.032Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.252Z"
 ---
 
 # § 360n. Priority review to encourage treatments for tropical diseases
@@ -41,7 +40,9 @@ status: "active"
       - **(iii)** that contains reports of one or more new clinical investigations (other than bioavailability studies) that are essential to the approval of the application and conducted or sponsored by the sponsor of such application; and
       - **(iv)** that contains an attestation from the sponsor of the application that such reports were not submitted as part of an application for marketing approval or licensure by a regulatory authority in India, Brazil, Thailand, or any country that is a member of the Pharmaceutical Inspection Convention or the Pharmaceutical Inspection Cooperation Scheme prior to September 27, 2007 . 1 1 So in original. The period probably should be a semicolon.
     - **(B)** is approved after September 27, 2007 , by the Secretary for use in the prevention, detection, or treatment of a tropical disease; and
-    - **(C)** is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 262 of title 42 .
+    - **(C)** is for—
+      - **(i)** a human drug, no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) of which has been approved in any other application under section 355(b)(1) of this title ; or
+      - **(ii)** a biological product, no active ingredient of which has been approved in any other application under section 262 of title 42 .
 - **(b)**
   - **(1)** The Secretary shall award a priority review voucher to the sponsor of a tropical disease product application upon approval by the Secretary of such tropical disease product application.
   - **(2)** The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.

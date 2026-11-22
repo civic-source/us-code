@@ -3,10 +3,9 @@ title: "Section 7304 - Regulations"
 usc_title: 38
 usc_section: "7304"
 chapter: 73
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 7304"
-generated_at: "2026-03-30T10:03:11.990Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.526Z"
 ---
 
 # § 7304. Regulations

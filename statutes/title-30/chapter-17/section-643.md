@@ -3,10 +3,9 @@ title: "Section 643 - “Exploration” defined"
 usc_title: 30
 usc_section: "643"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 643"
-generated_at: "2026-03-30T10:02:44.899Z"
-status: "active"
+generated_at: "2026-03-30T02:55:29.386Z"
 ---
 
 # § 643. “Exploration” defined

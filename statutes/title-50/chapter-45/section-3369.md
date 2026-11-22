@@ -1,15 +1,14 @@
 ---
-title: "Section 3369 - Encouragement of cooperative actions to detect and counter foreign influence operations"
+title: "Section 3369 - Cooperative actions to detect and counter foreign influence operations"
 usc_title: 50
 usc_section: "3369"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3369"
-generated_at: "2026-03-30T10:03:53.227Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.248Z"
 ---
 
-# § 3369. Encouragement of cooperative actions to detect and counter foreign influence operations
+# § 3369. Cooperative actions to detect and counter foreign influence operations
 
 - **(a)** Congress makes the following findings:
   - **(1)** The Russian Federation, through military intelligence units, also known as the “GRU”, and Kremlin-linked troll organizations often referred to as the “Internet Research Agency”, deploy information warfare operations against the United States, its allies and partners, with the goal of advancing the strategic interests of the Russian Federation.
@@ -32,7 +31,7 @@ status: "active"
   - **(5)** the structure and operations of social media companies make them well positioned to work with independent organizations and researchers to address foreign adversary threat networks within and across their platforms, and these efforts could be conducted without direct Government involvement, direction, or regulation; and
   - **(6)** if the social media industry fails to take sufficient action to address foreign adversary threat networks operating within or across their platforms, Congress would have to consider additional safeguards for ensuring that this threat is effectively mitigated.
 - **(c)**
-  - **(1)** The Director of National Intelligence, in coordination with the Secretary of Defense, may facilitate, by grant or contract or under an existing authority of the Director, the establishment of a Social Media Data and Threat Analysis Center with the functions described in paragraph (2) at an independent, nonprofit organization.
+  - **(1)** Not later than June 1, 2021 , the Director of National Intelligence, in coordination with the Secretary of Defense, shall facilitate, by grant or contract or under an existing authority of the Director, the establishment of a Social Media Data and Threat Analysis Center with the functions described in paragraph (2) at an independent, nonprofit organization.
   - **(2)** The functions described in this paragraph are the following:
     - **(A)** Acting as a convening and sponsoring authority for cooperative social media data analysis of foreign threat networks involving social media companies and third-party experts, nongovernmental organizations, data journalists, Federally funded research and development centers, academic researchers, traditional media, and international counterparts, as appropriate.
     - **(B)** Facilitating analysis of foreign influence operation, within and across the individual social media platforms as well as hacking and leaking campaigns, and other tactics, and related unlawful activities that fund or subsidize such operations.
@@ -45,8 +44,8 @@ status: "active"
     - **(I)** Developing and making public criteria and conditions under which the Center shall share information with the appropriate Government agencies regarding threats to national security from, or violations of the law involving, foreign activities on social media platforms.
     - **(J)** Hosting a searchable archive aggregating information related to foreign influence and disinformation operations to build a collective understanding of the threats and facilitate future examination consistent with privacy protections.
     - **(K)** Developing data standards to harmonize the sharing of information pursuant to this paragraph.
-- **(d)** If the Director of National Intelligence chooses to use funds under subsection (c)(1) to facilitate the establishment of the Center, the Director of the Center shall—
-  - **(1)** not later than 180 days after December 20, 2019 , submit to appropriate congressional committees a report on—
+- **(d)** The Director of the Center shall—
+  - **(1)** not later than August 1, 2021 , submit to appropriate congressional committees a report on—
     - **(A)** the estimated funding needs of the Center for fiscal year 2021 and for subsequent years;
     - **(B)** such statutory protections from liability as the Director considers necessary for the Center, participating social media companies, and participating third-party analytical participants;
     - **(C)** such statutory penalties as the Director considers necessary to ensure against misuse of data by researchers; and
@@ -59,15 +58,28 @@ status: "active"
 - **(e)** The Director of the Center shall—
   - **(1)** once each quarter, make available to the public a report on key trends in foreign influence and disinformation operations, including any threats to campaigns and elections, to inform the public of the United States; and
   - **(2)** as the Director considers necessary, provide more timely assessments relating to ongoing disinformation campaigns.
-- **(f)** Of the amounts appropriated or otherwise made available to the National Intelligence Program (as defined in section 3003 of this title ) in fiscal year 2020 and 2021, the Director of National Intelligence may use up to $30,000,000 to carry out this section.
-- **(g)** In this section, the term “appropriate congressional committees” means—
-  - **(1)** the Committee on Armed Services of the Senate;
-  - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate;
-  - **(3)** the Committee on Foreign Relations of the Senate;
-  - **(4)** the Committee on the Judiciary of the Senate;
-  - **(5)** the Select Committee on Intelligence of the Senate;
-  - **(6)** the Committee on Armed Services of the House of Representatives;
-  - **(7)** the Committee on Homeland Security of the House of Representatives;
-  - **(8)** the Committee on Foreign Affairs of the House of Representatives;
-  - **(9)** the Committee on the Judiciary of the House of Representatives; and
-  - **(10)** the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(f)**
+  - **(1)**
+    - **(A)** Not later than 90 days before the date of each regularly scheduled general election for Federal office, the Director of the Center shall submit to the appropriate congressional committees a report on foreign malign influence campaigns on and across social media platforms targeting such election.
+    - **(B)** Each report under subparagraph (A) shall include an analysis of the following:
+      - **(i)** The patterns, tools, and techniques of foreign malign influence campaigns across all platforms on social media by a covered foreign country targeting a regularly scheduled general election for Federal office.
+      - **(ii)** Inauthentic accounts and “bot” networks across platforms, including the scale to which such accounts or networks exist, how platforms currently act to remove such accounts or networks, and what percentage of such accounts or networks have been removed during the period covered by the report.
+      - **(iii)** The estimated reach and impact of intentional or weaponized disinformation by inauthentic accounts and “bot” networks, including an analysis of amplification by users and algorithmic distribution.
+      - **(iv)** The trends of types of media that are being used for dissemination through foreign malign influence campaigns, including machine-manipulated media, and the intended targeted groups.
+    - **(C)** Not later than August 1, 2021 , the Director of the Center shall submit to the appropriate congressional committees a report under subparagraph (A) addressing the regularly scheduled general election for Federal office occurring during 2020.
+    - **(D)** Each report under this paragraph shall be submitted in an unclassified form, but may include a classified annex.
+  - **(2)**
+    - **(A)** Not later than 30 days after the date on which the Director submits to the appropriate congressional committees a report under paragraph (1), the Director of National Intelligence, in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the Director of the Federal Bureau of Investigation, shall provide to such committees a briefing assessing threats from foreign malign influence campaigns on social media from covered countries to the regularly scheduled general election for Federal office covered by the report.
+    - **(B)** Each briefing under subparagraph (A) shall include the following:
+      - **(i)** The patterns, tools, and techniques of foreign malign influence campaigns across all platforms on social media by a covered foreign country targeting a regularly scheduled general election for Federal office.
+      - **(ii)** An assessment of the findings from the report for which the briefing is provided.
+      - **(iii)** The activities and methods used to mitigate the threats associated with such findings by the Department of Defense, the Department of Homeland Security, or other relevant departments or agencies of the Federal Government.
+      - **(iv)** The steps taken by departments or agencies of the Federal Government to cooperate with social media companies to mitigate the threats identified.
+- **(g)** Of the amounts appropriated or otherwise made available to the National Intelligence Program (as defined in section 3003 of this title ) in fiscal year 2021 and 2022, the Director of National Intelligence may use up to $30,000,000 to carry out this section.
+- **(h)**
+  - **(1)** The term “appropriate congressional committees” means—
+    - **(A)** the congressional intelligence committees;
+    - **(B)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Homeland Security, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives; and
+    - **(C)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Homeland Security and Government Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate.
+  - **(2)** The terms “covered foreign country” and “foreign malign influence” have the meanings given those terms in section 3059 of this title .
+  - **(3)** The term “machine-manipulated media” has the meaning given that term in section 5724. 1 1 See References in Text note below.

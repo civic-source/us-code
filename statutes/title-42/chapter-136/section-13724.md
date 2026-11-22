@@ -3,10 +3,9 @@ title: "Section 13724 - Transferred"
 usc_title: 42
 usc_section: "13724"
 chapter: 136
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 13724"
-generated_at: "2026-03-30T10:03:30.374Z"
-status: "transferred"
+generated_at: "2026-03-30T02:56:11.450Z"
 ---
 
 # § 13724. Transferred

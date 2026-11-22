@@ -3,10 +3,9 @@ title: "Section 431 - Minimum funding standards for multiemployer plans"
 usc_title: 26
 usc_section: "431"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 431"
-generated_at: "2026-03-30T10:02:53.398Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.695Z"
 ---
 
 # § 431. Minimum funding standards for multiemployer plans
@@ -76,6 +75,10 @@ status: "active"
     - **(E)** A plan sponsor of a plan to which this paragraph applies shall—
       - **(i)** give notice of such application to participants and beneficiaries of the plan, and
       - **(ii)** inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
+    - **(F)** A multiemployer plan with respect to which the solvency test under subparagraph (C) is met as of February 29, 2020 , may elect to apply this paragraph (without regard to whether such plan previously elected the application of this paragraph)—
+      - **(i)** by substituting “ February 29, 2020 ” for “ August 31, 2008 ” each place it appears in subparagraphs (A)(i), (B)(i)(I), and (B)(i)(II),
+      - **(ii)** by inserting “and other losses related to the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19) (including experience losses related to reductions in contributions, reductions in employment, and deviations from anticipated retirement rates, as determined by the plan sponsor)” after “net investment losses” in subparagraph (A)(i), and
+      - **(iii)** by substituting “this subparagraph or subparagraph (A)” for “this subparagraph and subparagraph (A) both” in subparagraph (B)(iii).
 - **(c)**
   - **(1)** For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
   - **(2)**

@@ -3,10 +3,9 @@ title: "Section 3305 - Scope and standards of inspection"
 usc_title: 46
 usc_section: "3305"
 chapter: 33
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 3305"
-generated_at: "2026-03-30T10:03:46.762Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.543Z"
 ---
 
 # § 3305. Scope and standards of inspection
@@ -34,7 +33,7 @@ status: "active"
     - **(C)** If a disagreement described in subparagraph (A) or (B) cannot be resolved, the local Officer in Charge, Marine Inspection shall submit to the Commandant of the Coast Guard, through the cognizant Coast Guard district commander, a request for a final agency determination of the matter in disagreement.
   - **(3)** The Commandant of the Coast Guard shall—
     - **(A)** provide to each person affected by a decision or action by an Officer in Charge, Marine Inspection or by the Coast Guard marine safety center all information necessary for such person to exercise any right to appeal such decision or action; and
-    - **(B)** if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017.
+    - **(B)** if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018.
   - **(4)** In this section, the term “Officer in Charge, Marine Inspection” means any person from the civilian or military branch of the Coast Guard who—
     - **(A)** is designated as such by the Commandant; and
     - **(B)** under the superintendence and direction of the cognizant Coast Guard district commander, is in charge of an inspection zone for the performance of duties with respect to the inspections under, and enforcement and administration of, subtitle II, chapter 700, and regulations under such laws.

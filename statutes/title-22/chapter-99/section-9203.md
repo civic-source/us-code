@@ -3,10 +3,9 @@ title: "Section 9203 - Strategy on North Korea"
 usc_title: 22
 usc_section: "9203"
 chapter: 99
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9203"
-generated_at: "2026-03-30T10:02:42.487Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.462Z"
 ---
 
 # § 9203. Strategy on North Korea

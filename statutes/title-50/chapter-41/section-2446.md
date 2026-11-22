@@ -3,10 +3,9 @@ title: "Section 2446 - Treatment of contractors who engage in improper program m
 usc_title: 50
 usc_section: "2446"
 chapter: 41
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 2446"
-generated_at: "2026-03-30T10:03:53.203Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.225Z"
 ---
 
 # § 2446. Treatment of contractors who engage in improper program management

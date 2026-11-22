@@ -3,10 +3,9 @@ title: "Section 3060 - Climate Security Advisory Council"
 usc_title: 50
 usc_section: "3060"
 chapter: 44
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3060"
-generated_at: "2026-03-30T10:03:53.215Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.233Z"
 ---
 
 # § 3060. Climate Security Advisory Council
@@ -23,7 +22,7 @@ status: "active"
       - **(ii)** the Bureau of Intelligence and Research of the Department of State;
       - **(iii)** the National Geospatial-Intelligence Agency;
       - **(iv)** the Office of Intelligence and Counterintelligence of the Department of Energy;
-      - **(v)** the Office of the Under Secretary of Defense for Intelligence; 1 1 See Change of Name note below. and
+      - **(v)** the Office of the Under Secretary of Defense for Intelligence and Security; and
       - **(vi)** the Defense Intelligence Agency.
     - **(C)** Three appropriate officials from elements of the Federal Government that are not elements of the intelligence community that are responsible for—
       - **(i)** providing decision makers with a predictive understanding of the climate;
@@ -41,7 +40,7 @@ status: "active"
     - **(C)** prepare summaries of the business conducted at each meeting.
   - **(2)** To assess and determine best practices with respect to the analysis of climate security, including identifying publicly available information and intelligence acquired through clandestine means that enables such analysis.
   - **(3)** To assess and identify best practices with respect to prior efforts of the intelligence community to analyze climate security.
-  - **(4)** To assess and describe best practices for identifying and disseminating climate security indicators and warnings.
+  - **(4)** To assess and describe best practices for identifying and disseminating climate intelligence indications and warnings.
   - **(5)** To recommend methods of incorporating analysis of climate security and the best practices identified under paragraphs (2) through (4) into existing analytic training programs.
   - **(6)** To consult, as appropriate, with other elements of the intelligence community that conduct analysis of climate change or climate security and elements of the Federal Government that are not elements of the intelligence community that conduct analysis of climate change or climate security, for the purpose of sharing information about ongoing efforts and avoiding duplication of existing efforts.
   - **(7)** To work with elements of the intelligence community that conduct analysis of climate change or climate security and elements of the Federal Government that are not elements of the intelligence community that conduct analysis of climate change or climate security—
@@ -49,8 +48,13 @@ status: "active"
     - **(B)** to enable and facilitate the sharing of findings and analysis between such elements.
   - **(8)** To assess whether the elements of the intelligence community that conduct analysis of climate change or climate security may inform the research direction of academic work and the sponsored work of the United States Government.
   - **(9)** At the discretion of the chair of the Council, to convene conferences of analysts and nonintelligence community personnel working on climate change or climate security on subjects that the chair shall direct.
-- **(d)** The Council shall terminate on the date that is 4 years after December 20, 2019 .
-- **(e)** In this section:
+- **(d)**
+  - **(1)** Not later than January 31, 2021 , and not less frequently than annually thereafter, the chair of the Council shall submit, on behalf of the Council, to the congressional intelligence committees a report describing the activities of the Council as described in subsection (c) during the year preceding the year during which the report is submitted.
+  - **(2)** Each report under paragraph (1) shall include a description of any obstacles or gaps relating to—
+    - **(A)** the Council fulfilling its duties and responsibilities under subsection (c); or
+    - **(B)** the responsiveness of the intelligence community to the climate security needs and priorities of the policymaking elements of the Federal Government.
+- **(e)** The Council shall terminate on December 31, 2024 .
+- **(f)** In this section:
   - **(1)** The term “climate security” means the effects of climate change on the following:
     - **(A)** The national security of the United States, including national security infrastructure.
     - **(B)** Subnational, national, and regional political stability.

@@ -3,10 +3,9 @@ title: "Section 1981 - Advance payments"
 usc_title: 2
 usc_section: "1981"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 1981"
-generated_at: "2026-03-30T10:01:29.405Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.822Z"
 ---
 
 # § 1981. Advance payments

@@ -3,10 +3,9 @@ title: "Section 1685 - Transfer of property or money for administration of Trust
 usc_title: 48
 usc_section: "1685"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1685"
-generated_at: "2026-03-30T10:03:34.423Z"
-status: "active"
+generated_at: "2026-03-30T02:56:14.589Z"
 ---
 
 # § 1685. Transfer of property or money for administration of Trust Territory of the Pacific Islands

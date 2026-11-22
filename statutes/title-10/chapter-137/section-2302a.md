@@ -1,15 +1,12 @@
 ---
-title: "Section 2302a - Simplified acquisition threshold"
+title: "Section 2302a - Renumbered § 3571]"
 usc_title: 10
 usc_section: "2302a"
 chapter: 137
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2302a"
-generated_at: "2026-03-30T10:02:00.843Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.153Z"
 ---
 
-# § 2302a. Simplified acquisition threshold
+# [§ 2302a. Renumbered § 3571]
 
-- **(a)** For purposes of acquisitions by agencies named in section 2303 of this title , the simplified acquisition threshold is as specified in section 134 of title 41 .
-- **(b)** No law properly listed in the Federal Acquisition Regulation pursuant to section 1905 of title 41 shall apply to or with respect to a contract or subcontract that is not greater than the simplified acquisition threshold.

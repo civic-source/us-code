@@ -3,10 +3,9 @@ title: "Section 1102 - Improvements in Coast Guard acquisition management"
 usc_title: 14
 usc_section: "1102"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 1102"
-generated_at: "2026-03-30T10:02:03.978Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.492Z"
 ---
 
 # § 1102. Improvements in Coast Guard acquisition management
@@ -35,7 +34,7 @@ status: "active"
   - **(2)** Information maintained with such capability shall include the following standardized information on individuals assigned to positions in the workforce:
     - **(A)** Qualifications, assignment history, and tenure of those individuals assigned to positions in the acquisition workforce or holding acquisition-related certifications.
     - **(B)** Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
-- **(d)** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
+- **(d)** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of individuals for positions in the acquisition workforce.
 - **(e)**
   - **(1)** To establish acquisition management as a core competency of the Coast Guard, the Commandant shall—
     - **(A)** ensure that career paths for officers, members, and employees of the Coast Guard who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of those officers, members, and employees to the most senior positions in the acquisition workforce; and

@@ -3,10 +3,9 @@ title: "Section 6522 - Funding"
 usc_title: 7
 usc_section: "6522"
 chapter: 94
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6522"
-generated_at: "2026-03-30T10:01:46.809Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.433Z"
 ---
 
 # § 6522. Funding
@@ -26,7 +25,7 @@ status: "active"
     - **(A)** inspection of imports of agricultural products;
     - **(B)** trade data collection and organization; or
     - **(C)** enforcement of trade requirements for organically produced agricultural products.
-  - **(4)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available $5,000,000 for fiscal year 2019 for the purposes of—
+  - **(4)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available $5,000,000 for fiscal year 2019, $1,000,000 for fiscal years 2024 and 2025, and $5,000,000 for fiscal year 2026 for the purposes of—
     - **(A)** carrying out this subsection; and
     - **(B)** maintaining the database and technology upgrades previously carried out under this subsection, as in effect on the day before December 20, 2018 .
   - **(5)** The amounts made available under paragraph (4) are in addition to any other funds made available for the purposes described in that paragraph and shall remain available until expended.

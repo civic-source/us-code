@@ -3,16 +3,15 @@ title: "Section 70034 - Regulations"
 usc_title: 46
 usc_section: "70034"
 chapter: 700
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70034"
-generated_at: "2026-03-30T10:03:46.794Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.585Z"
 ---
 
 # § 70034. Regulations
 
-- **(a)** In accordance with section 553 of title 5 , the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement subchapters A through C 1 1 So in original. Probably should be “subchapters I through III”. and this subchapter.
-- **(b)** In the exercise of the regulatory authority under subchapters A through C 1 and this subchapter, the Secretary shall consult with, and receive and consider the views of all interested persons, including—
+- **(a)** In accordance with section 553 of title 5 , the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement subchapters I through III and this subchapter.
+- **(b)** In the exercise of the regulatory authority under subchapters I through III and this subchapter, the Secretary shall consult with, and receive and consider the views of all interested persons, including—
   - **(1)** interested Federal departments and agencies;
   - **(2)** officials of State and local governments;
   - **(3)** representatives of the maritime community;

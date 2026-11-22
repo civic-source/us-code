@@ -3,10 +3,9 @@ title: "Section 1444a - Corn and feed grains and cotton programs"
 usc_title: 7
 usc_section: "1444a"
 chapter: 35
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1444a"
-generated_at: "2026-03-30T10:01:46.719Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.313Z"
 ---
 
 # § 1444a. Corn and feed grains and cotton programs

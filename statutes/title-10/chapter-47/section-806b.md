@@ -3,10 +3,9 @@ title: "Section 806b - Art. 6b. Rights of the victim of an offense under this ch
 usc_title: 10
 usc_section: "806b"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 806b"
-generated_at: "2026-03-30T10:02:00.788Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.077Z"
 ---
 
 # § 806b. Art. 6b. Rights of the victim of an offense under this chapter
@@ -17,8 +16,9 @@ status: "active"
     - **(A)** A public hearing concerning the continuation of confinement prior to trial of the accused.
     - **(B)** A preliminary hearing under section 832 of this title (article 32) relating to the offense.
     - **(C)** A court-martial relating to the offense.
-    - **(D)** A public proceeding of the service clemency and parole board relating to the offense.
-    - **(E)** The release or escape of the accused, unless such notice may endanger the safety of any person.
+    - **(D)** A post-trial motion, filing, or hearing that may address the finding or sentence of a court-martial with respect to the accused, unseal privileged or private information of the victim, or result in the release of the accused.
+    - **(E)** A public proceeding of the service clemency and parole board relating to the offense.
+    - **(F)** The release or escape of the accused, unless such notice may endanger the safety of any person.
   - **(3)** The right not to be excluded from any public hearing or proceeding described in paragraph (2) unless the military judge or preliminary hearing officer, as applicable, after receiving clear and convincing evidence, determines that testimony by the victim of an offense under this chapter would be materially altered if the victim heard other testimony at that hearing or proceeding.
   - **(4)** The right to be reasonably heard at any of the following:
     - **(A)** A public hearing concerning the continuation of confinement prior to trial of the accused.
@@ -27,7 +27,8 @@ status: "active"
   - **(5)** The reasonable right to confer with the counsel representing the Government at any proceeding described in paragraph (2).
   - **(6)** The right to receive restitution as provided in law.
   - **(7)** The right to proceedings free from unreasonable delay.
-  - **(8)** The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
+  - **(8)** The right to be informed in a timely manner of any plea agreement, separation-in-lieu-of-trial agreement, or non-prosecution agreement relating to the offense, unless providing such information would jeopardize a law enforcement proceeding or would violate the privacy concerns of an individual other than the accused.
+  - **(9)** The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 - **(b)** In this section, the term “victim of an offense under this chapter” means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 - **(c)** In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the legal guardians of the victim or the representatives of the victim’s estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section. However, in no event may the individual so designated be the accused.
 - **(d)** Nothing in this section (article) shall be construed—

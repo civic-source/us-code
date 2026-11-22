@@ -3,10 +3,9 @@ title: "Section 195c - Promoting antiterrorism through international cooperation
 usc_title: 6
 usc_section: "195c"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 195c"
-generated_at: "2026-03-30T10:01:43.235Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.448Z"
 ---
 
 # § 195c. Promoting antiterrorism through international cooperation program
@@ -52,7 +51,7 @@ status: "active"
 - **(g)** As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Department of State and appropriate Federal officials, may enter into cooperative research activities with Israel to strengthen preparedness against cyber threats and enhance capabilities in cybersecurity.
 - **(h)** Nothing in this section shall be construed to alter or affect the following provisions of law:
   - **(1)** Title V of the Foreign Relations Authorization Act, Fiscal Year 1979 ( 22 U.S.C. 2656a et seq.).
-  - **(2)** Section 112b(c) of title 1 .
+  - **(2)** Section 112b(g) of title 1 .
   - **(3)** Section 2651a(e)(2) of title 22 .
   - **(4)** Sections 2752 and 2767 of title 22.
   - **(5)** Section 2382(c) of title 22 .

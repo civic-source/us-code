@@ -3,10 +3,9 @@ title: "Section 1304 - Reservation of right to amend or repeal"
 usc_title: 42
 usc_section: "1304"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1304"
-generated_at: "2026-03-30T10:03:29.922Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.902Z"
 ---
 
 # § 1304. Reservation of right to amend or repeal

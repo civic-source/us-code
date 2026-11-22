@@ -3,10 +3,9 @@ title: "Section 417 - Administrators, Ombudsmen, and staff of facilities"
 usc_title: 24
 usc_section: "417"
 chapter: 10
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "24 U.S.C. § 417"
-generated_at: "2026-03-30T10:02:24.408Z"
-status: "active"
+generated_at: "2026-03-30T02:54:50.791Z"
 ---
 
 # § 417. Administrators, Ombudsmen, and staff of facilities
@@ -27,7 +26,7 @@ status: "active"
   - **(2)** The Ombudsman of a facility shall serve at the pleasure of the Secretary of Defense.
 - **(e)**
   - **(1)** The Ombudsman of a facility shall, under the authority, direction, and control of the Administrator of the facility, serve as ombudsman for the residents and perform such other duties as the Administrator may assign.
-  - **(2)** The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Secretary of Defense.
+  - **(2)** The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, and the Secretary of Defense.
 - **(f)**
   - **(1)** The Administrator of a facility may, subject to the approval of the Chief Operating Officer, appoint and prescribe the pay of such principal staff as the Administrator considers appropriate to assist the Administrator in operating the facility.
   - **(2)** The principal staff of a facility shall include persons with experience and expertise in the operation and management of retirement homes and in the provision of long-term medical care for older persons.

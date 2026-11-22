@@ -3,10 +3,9 @@ title: "Section 6523 - National organic certification cost-share program"
 usc_title: 7
 usc_section: "6523"
 chapter: 94
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6523"
-generated_at: "2026-03-30T10:01:46.809Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.433Z"
 ---
 
 # § 6523. National organic certification cost-share program
@@ -20,5 +19,5 @@ status: "active"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
     - **(A)** $2,000,000 for each of fiscal years 2019 and 2020;
     - **(B)** $4,000,000 for fiscal year 2021; and
-    - **(C)** $8,000,000 for each of fiscal years 2022 and 2023.
+    - **(C)** $8,000,000 for each of fiscal years 2022 through 2031.
   - **(2)** Amounts made available under paragraph (1) shall remain available until expended.

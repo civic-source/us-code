@@ -3,10 +3,9 @@ title: "Section 5105 - Joint applications for social security and dependency and
 usc_title: 38
 usc_section: "5105"
 chapter: 51
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 5105"
-generated_at: "2026-03-30T10:03:11.983Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.519Z"
 ---
 
 # § 5105. Joint applications for social security and dependency and indemnity compensation

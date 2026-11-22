@@ -3,15 +3,14 @@ title: "Section 918 - Art. 118. Murder"
 usc_title: 10
 usc_section: "918"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 918"
-generated_at: "2026-03-30T10:02:00.794Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.086Z"
 ---
 
 # § 918. Art. 118. Murder
 
-Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when he—
+Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when such person—
 
   - **(1)** has a premeditated design to kill;
   - **(2)** intends to kill or inflict great bodily harm;

@@ -3,10 +3,9 @@ title: "Section 9462 - Support of athletic programs"
 usc_title: 10
 usc_section: "9462"
 chapter: 953
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9462"
-generated_at: "2026-03-30T10:02:00.905Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.260Z"
 ---
 
 # § 9462. Support of athletic programs
@@ -20,7 +19,7 @@ status: "active"
   - **(3)** pursuant to the laws of the State of incorporation, its articles of incorporation, and its bylaws.
 - **(c)**
   - **(1)** The members of the board of directors of the corporation shall serve without compensation as members of the board, except for reasonable travel and other related expenses for attendance at meetings of the board.
-  - **(2)** The Secretary of the Air Force may authorize military and civilian personnel of the Air Force under section 1033 of this title to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
+  - **(2)** The Secretary of the Air Force may authorize military and civilian personnel of the Department of the Air Force under section 1033 of this title to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
 - **(d)** The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, including bank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
 - **(e)**
   - **(1)** Notwithstanding section 1342 of title 31 , the Secretary of the Air Force may accept from the corporation funds, supplies, equipment, and services for the support of the athletic programs of the Academy.
@@ -31,7 +30,7 @@ status: "active"
 - **(f)**
   - **(1)** The Secretary of the Air Force may, in accordance with section 2667 of this title , enter into leases or licenses with the corporation for the purpose of supporting the athletic programs of the Academy. Consideration provided under such a lease or license may be provided in the form of funds, supplies, equipment, and services for the support of the athletic programs of the Academy.
   - **(2)** The Secretary may provide support services to the corporation without charge while the corporation conducts its support activities at the Academy. In this paragraph, the term “support services” includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support, and security systems in conjunction with the leasing or licensing of property. Any such support services may only be provided without any liability of the United States to the corporation.
-- **(g)** The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 2304(k) of this title , the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title . Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
+- **(g)** The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 3201(e) of this title , the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 3204(a)(5) of this title . Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
 - **(h)**
   - **(1)** An agreement under subsection (g) may, consistent with section 2260 of this title (other than subsection (d) of such section), authorize the corporation to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Academy, subject to the approval of the Secretary of the Air Force.
   - **(2)** No licensing, marketing, or sponsorship agreement may be entered into under paragraph (1) if—

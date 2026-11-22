@@ -1,23 +1,12 @@
 ---
-title: "Section 691 - Permanent end strength levels to support two major regional contingencies"
+title: "Section 691 - Repealed. Pub. L. 117–263, div. A, title IV, § 402(a)(1) , Dec. 23, 2022 , 136 Stat. 2551 ]"
 usc_title: 10
 usc_section: "691"
 chapter: 39
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 691"
-generated_at: "2026-03-30T10:02:00.786Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.073Z"
 ---
 
-# § 691. Permanent end strength levels to support two major regional contingencies
+# [§ 691. Repealed. Pub. L. 117–263, div. A, title IV, § 402(a)(1) , Dec. 23, 2022 , 136 Stat. 2551 ]
 
-- **(a)** The end strengths specified in subsection (b) are the minimum strengths necessary to enable the armed forces to fulfill a national defense strategy calling for the United States to be able to successfully conduct two nearly simultaneous major regional contingencies.
-- **(b)** Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
-  - **(1)** For the Army, 480,000.
-  - **(2)** For the Navy, 340,500.
-  - **(3)** For the Marine Corps, 186,200.
-  - **(4)** For the Air Force, 332,800.
-- **(c)** The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
-- **(d)** No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
-- **(e)** The Secretary of Defense may reduce a number specified in subsection (b) by not more than 2 percent.
-- **(f)** The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title .

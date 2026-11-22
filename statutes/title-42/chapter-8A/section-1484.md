@@ -3,10 +3,9 @@ title: "Section 1484 - Insurance of loans for housing and related facilities for
 usc_title: 42
 usc_section: "1484"
 chapter: 8
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1484"
-generated_at: "2026-03-30T10:03:30.079Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.096Z"
 ---
 
 # § 1484. Insurance of loans for housing and related facilities for domestic farm labor
@@ -41,3 +40,15 @@ status: "active"
 - **(i)** Housing and related facilities constructed with loans under this section may be used for tenants eligible for occupancy under section 1485 of this title if the Secretary determines that—
   - **(1)** there is no longer a need in the area for farm labor housing; or
   - **(2)** the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
+- **(j)** Housing and related facilities constructed with loans under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+  - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+  - **(2)** any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+- **(k)**
+  - **(1)** Housing and related facilities constructed with loans under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+  - **(2)** For purposes of this subsection, the following definitions shall apply:
+    - **(A)** The term “smoke alarm” has the meaning given the term “smoke detector” in section 2225(d) of title 15 .
+    - **(B)** The term “qualifying smoke alarm” means a smoke alarm that—
+      - **(i)** in the case of a dwelling unit built before December 29, 2022 , and not substantially rehabilitated after December 29, 2022 —
+        - **(I)**
+        - **(II)** provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+      - **(ii)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.

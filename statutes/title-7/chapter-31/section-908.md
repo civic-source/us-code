@@ -3,10 +3,9 @@ title: "Section 908 - Limitations on use of assistance"
 usc_title: 7
 usc_section: "908"
 chapter: 31
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 908"
-generated_at: "2026-03-30T10:01:46.704Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.295Z"
 ---
 
 # § 908. Limitations on use of assistance

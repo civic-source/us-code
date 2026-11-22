@@ -3,10 +3,9 @@ title: "Section 4531 - Rules of origin"
 usc_title: 19
 usc_section: "4531"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 4531"
-generated_at: "2026-03-30T10:02:15.909Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.710Z"
 ---
 
 # § 4531. Rules of origin
@@ -113,6 +112,7 @@ status: "active"
       - **(iii)** the regional value content of the good is not less than 60 percent if the transaction value method is used, or not less than 50 percent if the net cost method is used and the good satisfies all other applicable requirements of this section; or
     - **(E)** the good itself, as imported, is listed in table 2.10.1 of the USMCA and is imported into the territory of the United States from the territory of a USMCA country.
   - **(2)** For purposes of determining whether a remanufactured good is an originating good, a recovered material derived in the territory of one or more USMCA countries shall be treated as originating if the recovered material is used or consumed in the production of, and incorporated into, the remanufactured good.
+  - **(3)** Paragraph (1)(B) shall not apply to a good produced in a foreign-trade zone or subzone established pursuant to the Act of June 18, 1934 (commonly known as the “Foreign Trade Zones Act”) ( 19 U.S.C. 81a et seq.) that is entered for consumption in the customs territory of the United States.
 - **(d)**
   - **(1)** Except as provided in paragraph (5), for purposes of subparagraphs (B) and (D) of subsection (c)(1), the regional value content of a good shall be calculated, at the choice of the importer, exporter, or producer of the good, on the basis of—
     - **(A)** the transaction value method described in paragraph (2); or
@@ -182,7 +182,7 @@ status: "active"
       - **(vi)** Animal feeds containing over 10 percent by dry weight of milk solids of subheading 2309.90.
     - **(C)** A nonoriginating material of heading 0805, or any of subheadings 2009.11 through 2009.39, used or consumed in the production of a good of subheadings 2009.11 through 2009.39, or a fruit or vegetable juice of any single fruit or vegetable, fortified with minerals or vitamins, concentrated or unconcentrated, of subheading 2106.90 or 2202.90.
     - **(D)** A nonoriginating material of chapter 9 used or consumed in the production of instant coffee, not flavored, of subheading 2101.11.
-    - **(E)** A nonoriginating material of chapter 15 used or consumed in the production of a good of heading 1507, 1508, 1512, 1514, or 1515.
+    - **(E)** A nonoriginating material of chapter 15 used or consumed in the production of a good of any of headings 1501 through 1508 1 1 So in original. Probably should be followed by a comma. 1512, 1514, or 1515.
     - **(F)** A nonoriginating material of heading 1701 used or consumed in the production of a good of any of headings 1701 through 1703.
     - **(G)** A nonoriginating material of chapter 17 or heading 1805 used in the production of a good of subheading 1806.10.
     - **(H)** Nonoriginating peaches, pears, or apricots of chapter 8 or 20, used in the production of a good of heading 2008.
@@ -231,4 +231,4 @@ status: "active"
   - **(1)** This section shall—
     - **(A)** take effect on the date on which the USMCA enters into force; and
     - **(B)** apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date.
-  - **(2)** Section 202 of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3332 ), 1 1 See References in Text note below. as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect to a good entered for consumption, or withdrawn from warehouse for consumption, before that date.
+  - **(2)** Section 202 of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3332 ), 2 2 See References in Text note below. as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect to a good entered for consumption, or withdrawn from warehouse for consumption, before that date.

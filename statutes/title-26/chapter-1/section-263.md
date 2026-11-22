@@ -3,10 +3,9 @@ title: "Section 263 - Capital expenditures"
 usc_title: 26
 usc_section: "263"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 263"
-generated_at: "2026-03-30T10:02:53.369Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.657Z"
 ---
 
 # § 263. Capital expenditures
@@ -14,7 +13,7 @@ status: "active"
 - **(a)** No deduction shall be allowed for—
   - **(1)** Any amount paid out for new buildings or for permanent improvements or betterments made to increase the value of any property or estate. This paragraph shall not apply to—
     - **(A)** expenditures for the development of mines or deposits deductible under section 616,
-    - **(B)** research and experimental expenditures deductible under section 174,
+    - **(B)** research and experimental expenditures deductible under section 174 or 174A,
     - **(C)** soil and water conservation expenditures deductible under section 175,
     - **(D)** expenditures by farmers for fertilizer, etc., deductible under section 180,
     - **(E)** expenditures for removal of architectural and transportation barriers to the handicapped and elderly which the taxpayer elects to deduct under section 190,

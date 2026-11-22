@@ -3,10 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T10:03:00.782Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.083Z"
 ---
 
 # § 1268. Great Lakes
@@ -106,7 +105,13 @@ status: "active"
       - **(iii)** provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a yearly detailed description of the progress of the Initiative and amounts transferred to participating Federal departments and agencies under subparagraph (D)(ii).
     - **(I)** In this paragraph, the term “Initiative Action Plan” means the comprehensive, multiyear action plan for the restoration of the Great Lakes, first developed pursuant to the Joint Explanatory Statement of the Conference Report accompanying the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 ( Public Law 111–88 ).
     - **(J)**
-      - **(i)** There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+      - **(i)** There are authorized to be appropriated to carry out this paragraph—
+        - **(I)** $300,000,000 for each of fiscal years 2017 through 2021;
+        - **(II)** $375,000,000 for fiscal year 2022;
+        - **(III)** $400,000,000 for fiscal year 2023;
+        - **(IV)** $425,000,000 for fiscal year 2024;
+        - **(V)** $450,000,000 for fiscal year 2025; and
+        - **(VI)** $475,000,000 for fiscal year 2026.
       - **(ii)** Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—
         - **(I)** this section;
         - **(II)** the Initiative Action Plan; or

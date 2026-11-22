@@ -3,15 +3,14 @@ title: "Section 7a - Definitions"
 usc_title: 15
 usc_section: "7a"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 7a"
-generated_at: "2026-03-30T10:02:07.370Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.020Z"
 ---
 
 # § 7a. Definitions
 
-In sections 7a to 7a–2 of this title:
+In sections 7a to 7a–3 of this title:
 
   - **(1)** The term “Antitrust Division” means the United States Department of Justice Antitrust Division.
   - **(2)** The term “antitrust leniency agreement,” or “agreement,” means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.

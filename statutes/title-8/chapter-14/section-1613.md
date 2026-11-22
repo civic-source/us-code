@@ -3,10 +3,9 @@ title: "Section 1613 - Five-year limited eligibility of qualified aliens for Fed
 usc_title: 8
 usc_section: "1613"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1613"
-generated_at: "2026-03-30T10:01:43.812Z"
-status: "active"
+generated_at: "2026-03-30T02:53:10.506Z"
 ---
 
 # § 1613. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
@@ -23,6 +22,7 @@ status: "active"
     - **(A)** a veteran (as defined in section 101, 1101, or 1301, or as described in section 107 of title 38 ) with a discharge characterized as an honorable discharge and not on account of alienage and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38 ,
     - **(B)** on active duty (other than active duty for training) in the Armed Forces of the United States, or
     - **(C)** the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 2 2 So in original. Probably should be “subparagraph (A) or (B)”. who is deceased if the marriage fulfills the requirements of section 1304 of title 38 .
+  - **(3)** An individual described in section 1612(b)(2)(G) of this title .
 - **(c)**
   - **(1)** The limitation under subsection (a) shall not apply to assistance or benefits under paragraph (2).
   - **(2)** Assistance and benefits under this paragraph are as follows:

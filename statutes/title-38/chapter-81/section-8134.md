@@ -3,10 +3,9 @@ title: "Section 8134 - General regulations"
 usc_title: 38
 usc_section: "8134"
 chapter: 81
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 8134"
-generated_at: "2026-03-30T10:03:12.002Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.538Z"
 ---
 
 # § 8134. General regulations

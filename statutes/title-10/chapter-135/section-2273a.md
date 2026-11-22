@@ -3,15 +3,14 @@ title: "Section 2273a - Space Rapid Capabilities Office"
 usc_title: 10
 usc_section: "2273a"
 chapter: 135
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2273a"
-generated_at: "2026-03-30T10:02:00.842Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.152Z"
 ---
 
 # § 2273a. Space Rapid Capabilities Office
 
-- **(a)** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
+- **(a)** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Space Force Space Systems Command.
 - **(b)** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Chief of Space Operations.
 - **(c)** The mission of the Office shall be—
   - **(1)** to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution;
@@ -20,9 +19,6 @@ status: "active"
 - **(d)** The acquisition activities of the Office shall be subject to the following:
   - **(1)** The Secretary of the Air Force shall designate the acquisition executive of the Office who shall provide streamlined acquisition authorities for projects of the Office.
   - **(2)** The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
-  - **(3)** The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command, shall—
-    - **(A)** establish and validate capability requirements; and
-    - **(B)** recommend priorities as the Commander determines appropriate.
 - **(e)**
   - **(1)** The Secretary of the Air Force shall ensure, within budget program elements for space programs, that—
     - **(A)** there are separate, dedicated unclassified and classified program elements for space rapid capabilities; and

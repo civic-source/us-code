@@ -3,10 +3,9 @@ title: "Section 309 - Application for license"
 usc_title: 47
 usc_section: "309"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-30T10:03:39.385Z"
-status: "active"
+generated_at: "2026-03-30T02:56:24.506Z"
 ---
 
 # § 309. Application for license
@@ -140,7 +139,9 @@ status: "active"
       - **(iii)** the Commission has failed to issue the regulations required by section 115(a) of such Act [ 47 U.S.C. 925(a) ];
       - **(iv)** the Commission has failed to complete and submit to Congress, not later than 18 months after August 10, 1993 , a study of current and future spectrum needs of State and local government public safety agencies through the year 2010, and a specific plan to ensure that adequate frequencies are made available to public safety licensees; or
       - **(v)** the Commission has failed under section 332(c)(3) of this title to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993 ;
-  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022 , except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025 .
+  - **(11)** The authority of the Commission to complete a system of competitive bidding under this subsection shall expire September 30, 2034 , except that, with respect to the electromagnetic spectrum—
+    - **(A)** between the frequencies of 3.1 gigahertz and 3.45 gigahertz, such authority shall not apply; and
+    - **(B)** between the frequencies of 7.4 gigahertz and 8.4 gigahertz, such authority shall not apply.
   - **(12)**
   - **(13)**
     - **(A)** Notwithstanding paragraph (6)(G), the Commission shall not award licenses pursuant to a preferential treatment accorded by the Commission to persons who make significant contributions to the development of a new telecommunications service or technology, except in accordance with the requirements of this paragraph.

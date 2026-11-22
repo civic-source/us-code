@@ -3,10 +3,9 @@ title: "Section 710 - Assistance to foreign governments and maritime authorities
 usc_title: 14
 usc_section: "710"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 710"
-generated_at: "2026-03-30T10:02:03.977Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.490Z"
 ---
 
 # § 710. Assistance to foreign governments and maritime authorities

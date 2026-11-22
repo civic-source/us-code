@@ -3,10 +3,9 @@ title: "Section 6314 - Port performance freight statistics program"
 usc_title: 49
 usc_section: "6314"
 chapter: 63
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 6314"
-generated_at: "2026-03-30T10:03:55.059Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.321Z"
 ---
 
 # § 6314. Port performance freight statistics program
@@ -31,7 +30,7 @@ status: "active"
     - **(D)** U.S. Customs and Border Protection;
     - **(E)** the Marine Transportation System National Advisory Council;
     - **(F)** the Army Corps of Engineers;
-    - **(G)** the Saint Lawrence Seaway Development Corporation;
+    - **(G)** the Great Lakes St. Lawrence Seaway Development Corporation;
     - **(H)** the Bureau of Labor Statistics;
     - **(I)** the Maritime Advisory Committee for Occupational Safety and Health;
     - **(J)** the Advisory Committee on Supply Chain Competitiveness;

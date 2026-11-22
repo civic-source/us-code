@@ -3,10 +3,9 @@ title: "Section 2a - Teacher science and technology enhancement Institute progra
 usc_title: 15
 usc_section: "2a"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T10:02:07.423Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.078Z"
 ---
 
 # § 278g–2a. Teacher science and technology enhancement Institute program

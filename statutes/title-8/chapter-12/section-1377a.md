@@ -3,10 +3,9 @@ title: "Section 1377a - Report on aliens determined to have credible or reasonab
 usc_title: 8
 usc_section: "1377a"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1377a"
-generated_at: "2026-03-30T10:01:43.806Z"
-status: "active"
+generated_at: "2026-03-30T02:53:10.499Z"
 ---
 
 # § 1377a. Report on aliens determined to have credible or reasonable fear of persecution or torture

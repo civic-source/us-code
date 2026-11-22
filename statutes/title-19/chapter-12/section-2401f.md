@@ -3,16 +3,15 @@ title: "Section 2401f - Fraud and recovery of overpayments"
 usc_title: 19
 usc_section: "2401f"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2401f"
-generated_at: "2026-03-30T10:02:15.879Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.673Z"
 ---
 
 # § 2401f. Fraud and recovery of overpayments
 
 - **(a)**
-  - **(1)** If the Secretary, or a court of competent jurisdiction, determines that any person has received any payment under this part to which the person was not entitled, or has expended funds received under this part for a purpose that was not approved by the Secretary, such person shall be liable to repay such amount to the Secretary, except that the Secretary may waive such repayment if the Secretary determines, in accordance with guidelines prescribed by the Secretary, that—
+  - **(1)** If the Secretary, or a court of competent jurisdiction, determines that any person has received any payment under this part to which the person was not entitled, such person shall be liable to repay such amount to the Secretary, except that the Secretary may waive such repayment if the Secretary determines, in accordance with guidelines prescribed by the Secretary, that—
     - **(A)** the payment was made without fault on the part of such person; and
     - **(B)** requiring such repayment would be contrary to equity and good conscience.
   - **(2)** Unless an overpayment is otherwise recovered, or waived under paragraph (1), the Secretary shall recover the overpayment by deductions from any sums payable to such person under this part.

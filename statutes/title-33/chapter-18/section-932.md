@@ -3,10 +3,9 @@ title: "Section 932 - Security for compensation"
 usc_title: 33
 usc_section: "932"
 chapter: 18
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 932"
-generated_at: "2026-03-30T10:03:00.777Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.078Z"
 ---
 
 # § 932. Security for compensation

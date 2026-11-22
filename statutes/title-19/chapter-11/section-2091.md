@@ -3,10 +3,9 @@ title: "Section 2091 - List of stone carvings and wall art; promulgation and rev
 usc_title: 19
 usc_section: "2091"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2091"
-generated_at: "2026-03-30T10:02:15.870Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.663Z"
 ---
 
 # § 2091. List of stone carvings and wall art; promulgation and revision; criteria for classification

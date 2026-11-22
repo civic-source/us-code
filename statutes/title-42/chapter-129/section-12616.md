@@ -3,10 +3,9 @@ title: "Section 12616 - Training"
 usc_title: 42
 usc_section: "12616"
 chapter: 129
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12616"
-generated_at: "2026-03-30T10:03:30.350Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.420Z"
 ---
 
 # § 12616. Training

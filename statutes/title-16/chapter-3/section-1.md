@@ -3,10 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T10:02:22.381Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.881Z"
 ---
 
 # § 583k–1. Definitions
@@ -25,4 +24,4 @@ In this subchapter:
     - **(B)** preventing environmental damage resulting from trail deterioration;
     - **(C)** protecting public safety; and
     - **(D)** averting future deferred maintenance costs.
-  - **(9)** The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ( 16 U.S.C. 558a et seq.).
+  - **(9)** The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ( 16 U.S.C. 558a et seq.). 1 1 See References in Text note below.

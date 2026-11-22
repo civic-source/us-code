@@ -3,10 +3,9 @@ title: "Section 98b - National Defense Stockpile"
 usc_title: 50
 usc_section: "98b"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 98b"
-generated_at: "2026-03-30T10:03:53.180Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.197Z"
 ---
 
 # § 98b. National Defense Stockpile
@@ -15,4 +14,4 @@ status: "active"
 - **(b)** The President shall make the determinations required to be made under subsection (a) on the basis of the principles stated in section 98a(c) of this title .
 - **(c)**
   - **(1)** The quantity of any material to be stockpiled under this subchapter, as in effect on September 30, 1987 , may be changed only as provided in this subsection or as otherwise provided by law enacted after December 4, 1987 .
-  - **(2)** The President shall notify Congress in writing of any change proposed to be made in the quantity of any material to be stockpiled. The President may make the change after the end of the 45-day period beginning on the date of the notification. The President shall include a full explanation and justification for the proposed change with the notification.
+  - **(2)** The President shall notify Congress in writing of any increase proposed to be made in the quantity of any material to be stockpiled that involves the acquisition of additional materials for the stockpile. The President may make the increase after the end of the 30-day period beginning on the date of the notification. The President shall include a full explanation and justification for the proposed increase with the notification.

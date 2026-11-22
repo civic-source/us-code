@@ -3,10 +3,9 @@ title: "Section 1395w - Appropriations to cover Government contributions and con
 usc_title: 42
 usc_section: "1395w"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395w"
-generated_at: "2026-03-30T10:03:29.964Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.960Z"
 ---
 
 # § 1395w. Appropriations to cover Government contributions and contingency reserve
@@ -21,7 +20,8 @@ status: "active"
       - **(ii)** the dollar amount of the premium per enrollee for such month; minus
     - **(C)** the aggregate amount of additional premium payments attributable to the application of section 1395r(i) of this title ; plus
   - **(2)** such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967 , in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967 , over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June 30, 1967 , and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967 , had been appropriated to it when such premiums were deposited; plus
-  - **(3)** a Government contribution equal to the amount of payment incentives payable under sections 1395w–4( o ) and 1395w–23( l )(3) of this title.
+  - **(3)** a Government contribution equal to the amount of payment incentives payable under sections 1395w–4( o ) and 1395w–23( l )(3) of this title; plus
+  - **(4)** a Government contribution equal to the estimated aggregate reduction in premiums payable under part B that results from establishing the premium at 15 percent of the actuarial rate (as would be determined in accordance with section 1395r(a)(1) of this title if the reference to “one-half” in such section were a reference to “100 percent”) under section 1395r(j) of this title instead of 25 percent of such rate (as so determined) for individuals enrolled only for the purpose of coverage of immunosuppressive drugs under section 1395 o (b) of this title.
 - **(b)** In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to the Trust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
 - **(c)** The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title or any credits provided under section 1395w–24(b)(1)(C)(iv) 1 1 See References in Text note below. of this title and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f) 1 of this title and without regard to any premium adjustment under section 1395r(i) of this title .
 - **(d)**

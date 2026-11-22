@@ -3,10 +3,9 @@ title: "Section 7446 - Times and places of sessions"
 usc_title: 26
 usc_section: "7446"
 chapter: 76
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 7446"
-generated_at: "2026-03-30T10:02:53.545Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.873Z"
 ---
 
 # § 7446. Times and places of sessions

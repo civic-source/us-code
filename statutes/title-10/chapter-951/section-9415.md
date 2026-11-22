@@ -3,21 +3,20 @@ title: "Section 9415 - Community College of the Air Force: associate degrees"
 usc_title: 10
 usc_section: "9415"
 chapter: 951
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9415"
-generated_at: "2026-03-30T10:02:00.904Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.258Z"
 ---
 
 # § 9415. Community College of the Air Force: associate degrees
 
-- **(a)** There is in the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
+- **(a)** There is in the Department of the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
   - **(1)** prescribe programs of higher education for enlisted members described in subsection (b) designed to improve the technical, managerial, and related skills of such members and to prepare such members for military jobs which require the utilization of such skills; and
   - **(2)** monitor on a continuing basis the progress of members pursuing such programs.
 - **(b)** Subject to such other eligibility requirements as the Secretary concerned may prescribe, the following members of the armed forces are eligible to participate in programs of higher education under subsection (a)(1):
-  - **(1)** Enlisted members of the Air Force.
-  - **(2)** Enlisted members of the armed forces other than the Air Force who are serving as instructors at Air Force training schools.
-  - **(3)** Enlisted members of the armed forces other than the Air Force who are participating in Community College of the Air Force affiliated joint-service training and education courses.
+  - **(1)** Enlisted members of the Air Force or the Space Force.
+  - **(2)** Enlisted members of the armed forces other than the Air Force or the Space Force who are serving as instructors at Department of the Air Force training schools.
+  - **(3)** Enlisted members of the armed forces other than the Air Force or the Space Force who are participating in Community College of the Air Force affiliated joint-service training and education courses.
 - **(c)**
   - **(1)** The Secretary of the Air Force may authorize participation in a program of higher education under subsection (a)(1) by a person who is a former or retired enlisted member of the armed forces who at the time of the person’s separation from active duty—
     - **(A)** had commenced but had not completed a program of higher education under subsection (a)(1); and

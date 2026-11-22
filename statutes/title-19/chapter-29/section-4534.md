@@ -3,10 +3,9 @@ title: "Section 4534 - Drawback"
 usc_title: 19
 usc_section: "4534"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 4534"
-generated_at: "2026-03-30T10:02:15.910Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.712Z"
 ---
 
 # § 4534. Drawback
@@ -46,3 +45,8 @@ status: "active"
     - **(B)** drawback would be allowed with respect to the goods under subsection (b)(4), (j)(1), or (p) of section 1313 of this title .
 - **(c)** Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to section 624 of title 7 with respect to goods included under subsection (a) that are exported to a USMCA country.
 - **(d)** Nothing in this section or the amendments made by it shall be considered to authorize the refund, waiver, or reduction of countervailing duties or antidumping duties imposed on an imported good.
+- **(e)**
+  - **(1)** If the Commissioner of U.S. Customs and Border Protection determines that a claim of preferential tariff treatment has been made with respect to an article for which a claim described in paragraph (2) has been made, the Commissioner may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+  - **(2)** A claim described in this paragraph is a claim for—
+    - **(A)** a refund, waiver, or reduction of duty, under any applicable provision of law; or
+    - **(B)** a credit against a bond under section 1312(d)(1) of this title .

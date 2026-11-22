@@ -3,10 +3,9 @@ title: "Section 7957 - Marketing assistance loans and loan deficiency payments f
 usc_title: 7
 usc_section: "7957"
 chapter: 106
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 7957"
-generated_at: "2026-03-30T10:01:46.836Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.468Z"
 ---
 
 # § 7957. Marketing assistance loans and loan deficiency payments for peanuts

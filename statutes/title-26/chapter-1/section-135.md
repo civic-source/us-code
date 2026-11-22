@@ -3,10 +3,9 @@ title: "Section 135 - Income from United States savings bonds used to pay higher
 usc_title: 26
 usc_section: "135"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 135"
-generated_at: "2026-03-30T10:02:53.347Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.628Z"
 ---
 
 # § 135. Income from United States savings bonds used to pay higher education tuition and fees
@@ -38,7 +37,7 @@ status: "active"
     - **(C)** Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
   - **(3)** The term “eligible educational institution” has the meaning given such term by section 529(e)(5).
   - **(4)** The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year determined—
-    - **(A)** without regard to this section and sections 137, 221, 222, 911, 931, and 933, and
+    - **(A)** without regard to this section and sections 85(c), 137, 221, 911, 931, and 933, and
     - **(B)** after the application of sections 86, 469, and 219.
 - **(d)**
   - **(1)** The amount of qualified higher education expenses otherwise taken into account under subsection (a) with respect to the education of an individual shall be reduced (before the application of subsection (b)) by the sum of the amounts received with respect to such individual for the taxable year as—

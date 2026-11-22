@@ -1,13 +1,12 @@
 ---
-title: "Section 1232c - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264"
+title: "Section 1232c - Transferred"
 usc_title: 33
 usc_section: "1232c"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1232c"
-generated_at: "2026-03-30T10:03:00.780Z"
-status: "repealed"
+generated_at: "2026-03-30T02:55:41.081Z"
 ---
 
-# §§ 1232 to 1232c. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264
+# § 1232c. Transferred
 

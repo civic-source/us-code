@@ -3,10 +3,9 @@ title: "Section 254b - Health centers"
 usc_title: 42
 usc_section: "254b"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 254b"
-generated_at: "2026-03-30T10:03:29.766Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.708Z"
 ---
 
 # § 254b. Health centers
@@ -78,8 +77,9 @@ status: "active"
     - **(C)** reducing the cost of care;
     - **(D)** enhancing care coordination;
     - **(E)** expanding the use of telehealth and technology-enabled collaborative learning and capacity building models;
-    - **(F)** care integration, including integration of behavioral health, mental health, or substance use disorder services; and
-    - **(G)** addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center.
+    - **(F)** care integration, including integration of behavioral health, mental health, or substance use disorder services;
+    - **(G)** addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center; and
+    - **(H)** improving access to recommended immunizations.
   - **(2)** In making supplemental awards under this subsection, the Secretary may consider whether the health center involved has submitted a plan for continuing the activities funded under this subsection after supplemental funding is expended.
   - **(3)** The Secretary may give special consideration to applications for supplemental funding under this subsection that seek to address significant barriers to access to care in areas with a greater shortage of health care providers and health services relative to the national average.
 - **(e)**
@@ -110,6 +110,7 @@ status: "active"
       - **(ii)** In carrying out clause (i), the Secretary may give special consideration to applicants that have demonstrated the new delivery site will be located within a sparsely populated area, or an area which has a level of unmet need that is higher relative to other applicants.
       - **(iii)** In carrying out clause (i), the Secretary shall approve applications for grants in such a manner that the ratio of the medically underserved populations in rural areas which may be expected to use the services provided by the applicants involved to the medically underserved populations in urban areas which may be expected to use the services provided by the applicants is not less than two to three or greater than three to two.
       - **(iv)** If in carrying out clause (i) the applicant proposes to serve an area that is currently served by another health center funded under this section, the Secretary may consider whether the award of funding to an additional health center in the area can be justified based on the unmet need for additional services within the catchment area.
+      - **(v)** An existing health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit, regardless of whether the applicant additionally proposes to establish a permanent, full-time site. In the case of a health center that is not currently receiving funds under this section, such health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit only if such health center uses a portion of such funds to also establish a permanent, full-time site.
     - **(B)**
       - **(i)** The Secretary may approve applications for grants under subparagraph (A) or (B) of paragraph (1) to expand the capacity of the applicant to provide required primary health services described in subsection (b)(1) or additional health services described in subsection (b)(2).
       - **(ii)** In carrying out clause (i), the Secretary may give special consideration to expanded service applications that seek to address emerging public health or behavioral health, mental health, or substance abuse issues through increasing the availability of additional health services described in subsection (b)(2) in an area in which there are significant barriers to accessing care.

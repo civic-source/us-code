@@ -3,10 +3,9 @@ title: "Section 1438 - Omitted"
 usc_title: 12
 usc_section: "1438"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1438"
-generated_at: "2026-03-30T10:02:11.017Z"
-status: "omitted"
+generated_at: "2026-03-30T02:53:53.392Z"
 ---
 
 # § 1438. Omitted

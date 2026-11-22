@@ -1,15 +1,12 @@
 ---
-title: "Section 2506 - Department of Defense technology and industrial base policy guidance"
+title: "Section 2506 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1867(c)(2) , Jan. 1, 2021 , 134 Stat. 4281 ]"
 usc_title: 10
 usc_section: "2506"
 chapter: 148
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2506"
-generated_at: "2026-03-30T10:02:00.864Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.162Z"
 ---
 
-# § 2506. Department of Defense technology and industrial base policy guidance
+# [§ 2506. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1867(c)(2) , Jan. 1, 2021 , 134 Stat. 4281 ]
 
-- **(a)** The Secretary of Defense shall prescribe departmental guidance for the attainment of each of the national security objectives set forth in section 2501(a) of this title .
-- **(b)** The guidance prescribed pursuant to subsection (a) shall provide for technological and industrial capability considerations to be integrated into the strategy, management, budget allocation, acquisition, and logistics support decision processes.

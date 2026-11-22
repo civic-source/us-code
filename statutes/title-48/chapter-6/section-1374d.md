@@ -3,10 +3,9 @@ title: "Section 1374d - Omitted"
 usc_title: 48
 usc_section: "1374d"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1374d"
-generated_at: "2026-03-30T10:03:34.417Z"
-status: "omitted"
+generated_at: "2026-03-30T02:56:14.583Z"
 ---
 
 # §§ 1373 to 1374d. Omitted

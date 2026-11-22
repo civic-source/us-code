@@ -3,10 +3,9 @@ title: "Section 2646 - Travel services: procurement for official and unofficial 
 usc_title: 10
 usc_section: "2646"
 chapter: 157
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2646"
-generated_at: "2026-03-30T10:02:00.869Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.167Z"
 ---
 
 # § 2646. Travel services: procurement for official and unofficial travel under one contract
@@ -19,7 +18,7 @@ status: "active"
     - **(A)** For amounts relating to sales for official travel, credit to appropriations available for official travel for the fiscal year in which the amounts were charged.
     - **(B)** For amounts relating to sales for unofficial travel, deposit in nonappropriated fund accounts available for morale, welfare, and recreation programs.
 - **(c)** In this section:
-  - **(1)** The term “head of an agency” has the meaning given that term in section 2302(1) of this title .
+  - **(1)** The term “head of an agency” has the meaning given that term in section 3004 of this title .
   - **(2)** The term “official travel” means travel at the expense of the Federal Government.
   - **(3)** The term “unofficial travel” means personal travel or other travel that is not paid for or reimbursed by the Federal Government out of appropriated funds.
 - **(d)** This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.

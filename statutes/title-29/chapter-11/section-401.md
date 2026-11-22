@@ -3,10 +3,9 @@ title: "Section 401 - Congressional declaration of findings, purposes, and polic
 usc_title: 29
 usc_section: "401"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 401"
-generated_at: "2026-03-30T10:02:46.142Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.683Z"
 ---
 
 # § 401. Congressional declaration of findings, purposes, and policy

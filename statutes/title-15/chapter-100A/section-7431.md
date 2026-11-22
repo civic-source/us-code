@@ -3,10 +3,9 @@ title: "Section 7431 - Federal cybersecurity research and development"
 usc_title: 15
 usc_section: "7431"
 chapter: 100
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 7431"
-generated_at: "2026-03-30T10:02:07.552Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.223Z"
 ---
 
 # § 7431. Federal cybersecurity research and development
@@ -22,8 +21,9 @@ status: "active"
     - **(G)** how to support privacy in conjunction with improved security;
     - **(H)** how to address the problem of insider threats;
     - **(I)** how improved consumer education and digital literacy initiatives can address human factors that contribute to cybersecurity;
-    - **(J)** how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services; and
-    - **(K)** any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.
+    - **(J)** how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services;
+    - **(K)** implementation of section 7432 of this title through research and development on the topics identified under subsection (a) of such section; and
+    - **(L)** any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.
   - **(2)**
     - **(A)** The strategic plan shall—
       - **(i)** specify and prioritize near-term, mid-term, and long-term research objectives, including objectives associated with the research identified in section 7403(a)(1) of this title ;

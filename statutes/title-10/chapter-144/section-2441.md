@@ -1,25 +1,12 @@
 ---
-title: "Section 2441 - Sustainment reviews"
+title: "Section 2441 - Renumbered § 4323]"
 usc_title: 10
 usc_section: "2441"
 chapter: 144
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2441"
-generated_at: "2026-03-30T10:02:00.860Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.158Z"
 ---
 
-# § 2441. Sustainment reviews
+# [§ 2441. Renumbered § 4323]
 
-- **(a)** The Secretary of each military department shall conduct a sustainment review of each major weapon system not later than five years after declaration of initial operational capability of a major defense acquisition program and throughout the life cycle of the weapon system to assess the product support strategy, performance, and operation and support costs of the weapon system. For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review. The results of the sustainment review shall be documented in a memorandum by the relevant decision authority. The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.
-- **(b)** At a minimum, the review required under subsection (a) shall include the following elements:
-  - **(1)** An independent cost estimate for the remainder of the life cycle of the program.
-  - **(2)** A comparison of actual costs to the amount of funds budgeted and appropriated in the previous five years, and if funding shortfalls exist, an explanation of the implications on equipment availability.
-  - **(3)** A comparison between the assumed and achieved system reliabilities.
-  - **(4)** An analysis of the most cost-effective source of repairs and maintenance.
-  - **(5)** An evaluation of the cost of consumables and depot-level repairables.
-  - **(6)** An evaluation of the costs of information technology, networks, computer hardware, and software maintenance and upgrades.
-  - **(7)** As applicable, an assessment of the actual fuel efficiencies compared to the projected fuel efficiencies as demonstrated in tests or operations.
-  - **(8)** As applicable, a comparison of actual manpower requirements to previous estimates.
-  - **(9)** An analysis of whether accurate and complete data are being reported in the cost systems of the military department concerned, and if deficiencies exist, a plan to update the data and ensure accurate and complete data are submitted in the future.
-- **(c)** The review required under subsection (a) shall be conducted in coordination with the requirements of sections 2337 and 2337a of this title.

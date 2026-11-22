@@ -3,10 +3,9 @@ title: "Section 4051 - Imposition of tax on heavy trucks and trailers sold at re
 usc_title: 26
 usc_section: "4051"
 chapter: 31
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 4051"
-generated_at: "2026-03-30T10:02:53.482Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.798Z"
 ---
 
 # § 4051. Imposition of tax on heavy trucks and trailers sold at retail
@@ -32,7 +31,7 @@ status: "active"
     - **(A)** the part or accessory installed is a replacement part or accessory, or
     - **(B)** the aggregate price of the parts and accessories (and their installation) described in paragraph (1) with respect to any vehicle does not exceed $1,000 (or such other amount or amounts as the Secretary may by regulations prescribe).
   - **(3)** The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1).
-- **(c)** On and after October 1, 2022 , the taxes imposed by this section shall not apply.
+- **(c)** On and after October 1, 2028 , the taxes imposed by this section shall not apply.
 - **(d)** If—
   - **(1)** tires are sold on or in connection with the sale of any article, and
   - **(2)** tax is imposed by this subchapter on the sale of such tires,

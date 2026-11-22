@@ -3,10 +3,9 @@ title: "Section 2581 - Excess UH–1 Huey and AH–1 Cobra helicopters: requirem
 usc_title: 10
 usc_section: "2581"
 chapter: 153
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2581"
-generated_at: "2026-03-30T10:02:00.868Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.165Z"
 ---
 
 # § 2581. Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries

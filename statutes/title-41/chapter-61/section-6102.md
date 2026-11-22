@@ -3,10 +3,9 @@ title: "Section 6102 - Exceptions from advertising requirement"
 usc_title: 41
 usc_section: "6102"
 chapter: 61
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "41 U.S.C. § 6102"
-generated_at: "2026-03-30T10:03:15.183Z"
-status: "active"
+generated_at: "2026-03-30T02:55:55.810Z"
 ---
 
 # § 6102. Exceptions from advertising requirement
@@ -20,3 +19,4 @@ status: "active"
 - **(g)** Section 6101 of this title does not apply to purchases and contracts for supplies or services for any office of the House of Representatives.
 - **(h)** The Director of the Congressional Budget Office may enter into agreements or contracts without regard to section 6101 of this title .
 - **(i)** Section 6101 of this title does not apply to agreements, contracts or purchases by any office of the Senate.
+- **(j)** Section 6101 of this title does not apply to a procurement made against an order placed under a task order contract or a delivery order contract (as such terms are defined in section 4101 of this title ) entered into by the Librarian of Congress.

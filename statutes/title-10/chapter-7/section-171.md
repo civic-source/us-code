@@ -3,10 +3,9 @@ title: "Section 171 - Armed Forces Policy Council"
 usc_title: 10
 usc_section: "171"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 171"
-generated_at: "2026-03-30T10:02:00.765Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.043Z"
 ---
 
 # § 171. Armed Forces Policy Council
@@ -26,6 +25,7 @@ status: "active"
   - **(12)** the Chairman of the Joint Chiefs of Staff;
   - **(13)** the Chief of Staff of the Army;
   - **(14)** the Chief of Naval Operations;
-  - **(15)** the Chief of Staff of the Air Force; and
-  - **(16)** the Commandant of the Marine Corps.
+  - **(15)** the Chief of Staff of the Air Force;
+  - **(16)** the Commandant of the Marine Corps; and
+  - **(17)** the Chief of Space Operations.
 - **(b)** The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.

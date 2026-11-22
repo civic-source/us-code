@@ -3,10 +3,9 @@ title: "Section 1331 - Reference to chapter 1223"
 usc_title: 10
 usc_section: "1331"
 chapter: 67
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1331"
-generated_at: "2026-03-30T10:02:00.817Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.116Z"
 ---
 
 # § 1331. Reference to chapter 1223

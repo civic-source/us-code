@@ -3,10 +3,9 @@ title: "Section 3502 - Indian tribal energy resource development"
 usc_title: 25
 usc_section: "3502"
 chapter: 37
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 3502"
-generated_at: "2026-03-30T10:02:26.286Z"
-status: "active"
+generated_at: "2026-03-30T02:54:52.852Z"
 ---
 
 # § 3502. Indian tribal energy resource development
@@ -53,16 +52,18 @@ status: "active"
     - **(A)** The Director, in consultation with Indian tribes, may develop a formula for providing grants under this subsection.
     - **(B)** In providing a grant under this subsection, the Director shall give priority to any application received from an Indian tribe with inadequate electric service (as determined by the Director).
     - **(C)** In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
+    - **(D)** The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grant under this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
+    - **(E)** Section 16352 of title 42 shall not apply to assistance provided under this subsection.
   - **(6)** The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
-  - **(7)** There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2006 through 2016.
+  - **(7)** There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2021 through 2025.
 - **(c)**
-  - **(1)** Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in section 661a of title 2 ) for an amount equal to not more than 90 percent of the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
+  - **(1)** Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in section 661a of title 2 , except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
   - **(2)** In providing a loan guarantee under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Secretary of Energy shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Secretary determines to be appropriate.
   - **(3)** A loan guaranteed under this subsection shall be made by—
     - **(A)** a financial institution subject to examination by the Secretary of Energy;
     - **(B)** an Indian tribe, from funds of the Indian tribe; or
     - **(C)** a tribal energy development organization, from funds of the tribal energy development organization.
-  - **(4)** The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $2,000,000,000.
+  - **(4)** The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $20,000,000,000.
   - **(5)** Not later than 1 year after December 18, 2018 , the Secretary of Energy shall issue such regulations as the Secretary of Energy determines are necessary to carry out this subsection.
   - **(6)** There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
   - **(7)** Not later than 1 year after August 8, 2005 , the Secretary of Energy shall submit to Congress a report on the financing requirements of Indian tribes for energy development on Indian land.

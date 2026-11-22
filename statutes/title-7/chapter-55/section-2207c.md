@@ -3,10 +3,9 @@ title: "Section 2207c - Annual report on work of agricultural experiment station
 usc_title: 7
 usc_section: "2207c"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2207c"
-generated_at: "2026-03-30T10:01:46.770Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.380Z"
 ---
 
 # § 2207c. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution

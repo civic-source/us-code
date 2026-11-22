@@ -3,10 +3,9 @@ title: "Section 3 - Foreign persons made ineligible for program benefits"
 usc_title: 7
 usc_section: "3"
 chapter: 35
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T10:01:46.710Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.302Z"
 ---
 
 # § 1308–3. Foreign persons made ineligible for program benefits

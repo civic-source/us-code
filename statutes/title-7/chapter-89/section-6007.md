@@ -3,10 +3,9 @@ title: "Section 6007 - Assessments"
 usc_title: 7
 usc_section: "6007"
 chapter: 89
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 6007"
-generated_at: "2026-03-30T10:01:46.803Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.423Z"
 ---
 
 # § 6007. Assessments

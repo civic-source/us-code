@@ -3,10 +3,9 @@ title: "Section 16271 - Nuclear energy"
 usc_title: 42
 usc_section: "16271"
 chapter: 149
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 16271"
-generated_at: "2026-03-30T10:03:30.394Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.475Z"
 ---
 
 # § 16271. Nuclear energy
@@ -23,15 +22,20 @@ status: "active"
     - **(G)** Enabling the private sector to partner with the National Laboratories to demonstrate novel reactor concepts for the purpose of resolving technical uncertainty associated with the objectives described in subparagraphs (A) through (F).
 - **(b)** In this part:
   - **(1)** The term “advanced nuclear reactor” means—
-    - **(A)** a nuclear fission reactor with significant improvements over the most recent generation of nuclear fission reactors, which may include—
-      - **(i)** inherent safety features;
+    - **(A)** a nuclear fission reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (or successor regulations)), with significant improvements compared to reactors operating on December 27, 2020 , including improvements such as—
+      - **(i)** additional inherent safety features;
       - **(ii)** lower waste yields;
-      - **(iii)** greater fuel utilization;
-      - **(iv)** superior reliability;
-      - **(v)** resistance to proliferation;
-      - **(vi)** increased thermal efficiency; and
-      - **(vii)** the ability to integrate into electric and nonelectric applications; or
-    - **(B)** a nuclear fusion reactor.
+      - **(iii)** improved fuel and material performance;
+      - **(iv)** increased tolerance to loss of fuel cooling;
+      - **(v)** enhanced reliability or improved resilience;
+      - **(vi)** increased proliferation resistance;
+      - **(vii)** increased thermal efficiency;
+      - **(viii)** reduced consumption of cooling water and other environmental impacts;
+      - **(ix)** the ability to integrate into electric applications and nonelectric applications;
+      - **(x)** modular sizes to allow for deployment that corresponds with the demand for electricity or process heat; and
+      - **(xi)** operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage;
+    - **(B)** a fusion reactor; and
+    - **(C)** a radioisotope power system that utilizes heat from radioactive decay to generate energy.
   - **(2)** The term “Commission” means the Nuclear Regulatory Commission.
   - **(3)** The term “fast neutron” means a neutron with kinetic energy above 100 kiloelectron volts.
   - **(4)**

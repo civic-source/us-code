@@ -3,10 +3,9 @@ title: "Section 1586 - Unlawful unlading or transshipment"
 usc_title: 19
 usc_section: "1586"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1586"
-generated_at: "2026-03-30T10:02:15.855Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.644Z"
 ---
 
 # § 1586. Unlawful unlading or transshipment

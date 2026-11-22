@@ -3,10 +3,9 @@ title: "Section 2663 - Land acquisition authorities"
 usc_title: 10
 usc_section: "2663"
 chapter: 159
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2663"
-generated_at: "2026-03-30T10:02:00.871Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.168Z"
 ---
 
 # § 2663. Land acquisition authorities
@@ -21,7 +20,7 @@ status: "active"
 - **(c)**
   - **(1)** The Secretary of a military department may acquire any interest in land that—
     - **(A)** the Secretary determines is needed in the interest of national defense; and
-    - **(B)** does not cost more than $750,000, exclusive of administrative costs and the amounts of any deficiency judgments.
+    - **(B)** does not cost more than $4,000,000, exclusive of administrative costs and the amounts of any deficiency judgments.
   - **(2)** The Secretary of a military department may acquire any interest in land that—
     - **(A)** the Secretary determines is needed solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; and
     - **(B)** does not cost more than $1,500,000, exclusive of administrative costs and the amounts of any deficiency judgments.

@@ -3,10 +3,9 @@ title: "Section 3507 - Regulations"
 usc_title: 7
 usc_section: "3507"
 chapter: 66
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3507"
-generated_at: "2026-03-30T10:01:46.788Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.404Z"
 ---
 
 # § 3507. Regulations

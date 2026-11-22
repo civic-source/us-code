@@ -3,10 +3,9 @@ title: "Section 1095d - TRICARE program: waiver of certain deductibles"
 usc_title: 10
 usc_section: "1095d"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1095d"
-generated_at: "2026-03-30T10:02:00.810Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.107Z"
 ---
 
 # § 1095d. TRICARE program: waiver of certain deductibles

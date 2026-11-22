@@ -3,10 +3,9 @@ title: "Section 4261 - Imposition of tax"
 usc_title: 26
 usc_section: "4261"
 chapter: 33
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 4261"
-generated_at: "2026-03-30T10:02:53.485Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.801Z"
 ---
 
 # § 4261. Imposition of tax
@@ -69,11 +68,11 @@ status: "active"
   - **(2)** by a fixed-wing aircraft equipped for and exclusively dedicated on that flight to acute care emergency medical services.
 - **(h)** No tax shall be imposed by this section or section 4271 on any air transportation exclusively for the purpose of skydiving.
 - **(i)** No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
-- **(j)** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2023 .
+- **(j)** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2028 .
 - **(k)**
   - **(1)** The taxes imposed by this section shall apply to—
     - **(A)** transportation beginning during the period—
       - **(i)** beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
-      - **(ii)** ending on September 30, 2023 , and
+      - **(ii)** ending on September 30, 2028 , and
     - **(B)** amounts paid during such period for transportation beginning after such period.
   - **(2)** If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.

@@ -3,10 +3,9 @@ title: "Section 794e - Protection and advocacy of individual rights"
 usc_title: 29
 usc_section: "794e"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 794e"
-generated_at: "2026-03-30T10:02:46.155Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.698Z"
 ---
 
 # § 794e. Protection and advocacy of individual rights
@@ -40,7 +39,7 @@ status: "active"
   - **(4)** provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State or the American Indian consortium;
   - **(5)** develop a statement of objectives and priorities on an annual basis, and provide to the public, including individuals with disabilities and, as appropriate, the individuals’ representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
     - **(A)** the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
-    - **(B)** the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title , the State long-term care ombudsman program established under the Older Americans Act of 1965 ( 42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15001 et seq.], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 2 2 See References in Text note below. ( 42 U.S.C. 10801 et seq.);
+    - **(B)** the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title , the State long-term care ombudsman program established under the Older Americans Act of 1965 ( 42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15001 et seq.], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 1 ( 42 U.S.C. 10801 et seq.);
   - **(6)** establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
   - **(7)** provide assurances to the Commissioner that funds made available under this section will be used to supplement and not supplant the non-Federal funds that would otherwise be made available for the purpose for which Federal funds are provided.
 - **(g)**
@@ -53,4 +52,4 @@ status: "active"
 - **(l)** There are authorized to be appropriated to carry out this section $17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.
 - **(m)** As used in this section:
   - **(1)** The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f).
-  - **(2)** The term “American Indian consortium” means a consortium established as described in section 142 2 of the Developmental Disabilities Assistance and Bill of Rights Act ( 42 U.S.C. 6042 ).
+  - **(2)** The term “American Indian consortium” means a consortium established as described in section 142 1 of the Developmental Disabilities Assistance and Bill of Rights Act ( 42 U.S.C. 6042 ).

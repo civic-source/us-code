@@ -3,17 +3,17 @@ title: "Section 6050W - Returns relating to payments made in settlement of payme
 usc_title: 26
 usc_section: "6050W"
 chapter: 61
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6050W"
-generated_at: "2026-03-30T10:02:53.515Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.835Z"
 ---
 
 # § 6050W. Returns relating to payments made in settlement of payment card and third party network transactions
 
 - **(a)** Each payment settlement entity shall make a return for each calendar year setting forth—
-  - **(1)** the name, address, and TIN of each participating payee to whom one or more payments in settlement of reportable payment transactions are made, and
-  - **(2)** the gross amount of the reportable payment transactions with respect to each such participating payee.
+  - **(1)** the name, address, and TIN of each participating payee to whom one or more payments in settlement of reportable payment transactions are made,
+  - **(2)** the gross amount of the reportable payment transactions with respect to each such participating payee and 1 1 So in original. Probably should be preceded by a comma.
+  - **(3)** in the case of a third party settlement organization, the portion of reportable payment transactions that have been reasonably designated by payors as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips.
 - **(b)** For purposes of this section—
   - **(1)** The term “payment settlement entity” means—
     - **(A)** in the case of a payment card transaction, the merchant acquiring entity, and
@@ -28,7 +28,7 @@ status: "active"
 - **(c)** For purposes of this section—
   - **(1)** The term “reportable payment transaction” means any payment card transaction and any third party network transaction.
   - **(2)** The term “payment card transaction” means any transaction in which a payment card is accepted as payment.
-  - **(3)** The term “third party network transaction” means any transaction which is settled through a third party payment network.
+  - **(3)** The term “third party network transaction” means any transaction described in subsection (d)(3)(A)(iii) which is settled through a third party payment network.
 - **(d)** For purposes of this section—
   - **(1)**
     - **(A)** The term “participating payee” means—
@@ -52,5 +52,5 @@ status: "active"
   - **(2)** the aggregate number of such transactions exceeds 200.
 - **(f)** Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
-  - **(2)** the gross amount of the reportable payment transactions with respect to the person required to be shown on the return.
+  - **(2)** the gross amount of the reportable payment transactions (including a separate accounting of any such amounts that have been reasonably designated by payors as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips) with respect to the person required to be shown on the return.
 - **(g)** The Secretary may prescribe such regulations or other guidance as may be necessary or appropriate to carry out this section, including rules to prevent the reporting of the same transaction more than once.

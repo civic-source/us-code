@@ -3,10 +3,9 @@ title: "Section 4d - Plants, machinery, and equipment"
 usc_title: 30
 usc_section: "4d"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 4d"
-generated_at: "2026-03-30T10:02:44.888Z"
-status: "active"
+generated_at: "2026-03-30T02:55:29.374Z"
 ---
 
 # § 4d. Plants, machinery, and equipment

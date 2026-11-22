@@ -3,10 +3,9 @@ title: "Section 30121 - Provisional notification and civil actions to enforce"
 usc_title: 49
 usc_section: "30121"
 chapter: 301
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 30121"
-generated_at: "2026-03-30T10:03:55.079Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.351Z"
 ---
 
 # § 30121. Provisional notification and civil actions to enforce

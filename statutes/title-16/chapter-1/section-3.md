@@ -3,10 +3,9 @@ title: "Section 3 - Land taken into trust for Lone Pine Paiute-Shoshone Reservat
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T10:02:22.361Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.852Z"
 ---
 
 # § 460ffff–3. Land taken into trust for Lone Pine Paiute-Shoshone Reservation

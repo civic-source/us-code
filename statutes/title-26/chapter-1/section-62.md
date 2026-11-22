@@ -3,10 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-30T10:02:53.338Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.616Z"
 ---
 
 # § 62. Adjusted gross income defined
@@ -36,7 +35,7 @@ status: "active"
   - **(15)** The deduction allowed by section 217.
   - **(16)** The deduction allowed by section 220.
   - **(17)** The deduction allowed by section 221.
-  - **(18)** The deduction allowed by section 222.
+  - **[(18)**
   - **(19)** The deduction allowed by section 223.
   - **(20)** Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code, or a claim made under section 1862(b)(3)(A) of the Social Security Act ( 42 U.S.C. 1395y(b)(3)(A) ). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
   - **(21)**
@@ -47,7 +46,6 @@ status: "active"
         - **(II)** a State false claims act, including a State false claims act with qui tam provisions, or
         - **(III)** section 23 of the Commodity Exchange Act ( 7 U.S.C. 26 ).
     - **(B)** Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer’s gross income for the taxable year on account of such award.
-  - **(22)** In the case of taxable years beginning in 2020, the amount (not to exceed $300) of qualified charitable contributions made by an eligible individual during the taxable year.
 - **(b)**
   - **(1)** For purposes of subsection (a)(2)(B), the term “qualified performing artist” means, with respect to any taxable year, any individual if—
     - **(A)** such individual performed services in the performing arts as an employee during the taxable year for at least 2 employers,
@@ -93,13 +91,3 @@ status: "active"
   - **(18)** Any provision of Federal, State, or local law, or common law claims permitted under Federal, State, or local law—
       - **(i)** providing for the enforcement of civil rights, or
       - **(ii)** regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
-- **(f)** For purposes of subsection (a)(22)—
-  - **(1)** The term “eligible individual” means any individual who does not elect to itemize deductions.
-  - **(2)** The term “qualified charitable contribution” means a charitable contribution (as defined in section 170(c))—
-    - **(A)** which is made in cash,
-    - **(B)** for which a deduction is allowable under section 170 (determined without regard to subsection (b) thereof), and
-    - **(C)** which is—
-      - **(i)** made to an organization described in section 170(b)(1)(A), and
-      - **(ii)** not—
-        - **(I)** to an organization described in section 509(a)(3), or
-        - **(II)** for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2)).

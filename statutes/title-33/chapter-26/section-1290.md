@@ -3,10 +3,9 @@ title: "Section 1290 - Annual survey"
 usc_title: 33
 usc_section: "1290"
 chapter: 26
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1290"
-generated_at: "2026-03-30T10:03:00.786Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.089Z"
 ---
 
 # § 1290. Annual survey
